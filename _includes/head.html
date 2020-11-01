@@ -1,0 +1,69 @@
+<head>
+
+  {% if site.google_analytics %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+  {% endif %}
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta property="og:locale" content="en_US">
+
+  {% if page.name == 'index.md' %}
+    <title>{{ page.title | default: site.name }}</title>
+    <meta property="og:title" content="{{ page.title | default: site.name }}">
+    <meta property="twitter:title" content="{{ page.title | default: site.name }}">
+    <meta name="title" content="{{ page.title | default: site.name }}">
+  {% else %}
+    <title>{{ page.title }} &ndash; {{ site.name }}</title>
+    <meta property="og:title" content="{{ page.title }} &ndash; {{ site.name }}">
+    <meta property="twitter:title" content="{{ page.title }} &ndash; {{ site.name }}">
+    <meta name="title" content="{{ page.title }} &ndash; {{ site.name }}">
+  {% endif %}
+
+  <meta property="twitter:site" content="{{ site.twitter }}">
+  <meta property="twitter:card" content="summary_large_image" />
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+  <meta property="og:image" content="{{ site.url }}/{{ page.image }}">
+  <meta property="twitter:image" content="{{ site.url }}/{{ page.image }}">
+  <link rel="image_src" href="{{ site.url }}/{{ page.image }}">
+
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="twitter:description" content="{{ page.description }}">
+  <meta name="description" content="{{ page.description }}">
+
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet"
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+    crossorigin="anonymous">
+
+  <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:300,400,700" rel="stylesheet" />
+
+  <script src="https://kit.fontawesome.com/c37fbeb327.js"></script>
+
+  <link rel="stylesheet" href="/assets/styles.css" />
+  <link rel="stylesheet" href="/assets/syntax.css" />
+
+  {% if page.math == true %}
+    {% include mathjax.html %}
+  {% endif %}
+
+</head>
