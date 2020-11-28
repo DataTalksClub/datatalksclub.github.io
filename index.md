@@ -37,13 +37,13 @@ layout: home
 <div class="row my-5">
   <div class="col-md-8 offset-md-3">
     <h4>Latest articles</h4>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
-    </li>
-  {% endfor %}
-</ul>
+    <ul>
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
+        </li>
+      {% endfor %}
+    </ul>
 
   </div>
 </div>
