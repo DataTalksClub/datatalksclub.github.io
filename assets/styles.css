@@ -1,0 +1,80 @@
+body, html {
+  height: 100%;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+.wip {
+  color: grey;
+}
+
+.header {
+  font-size: 120%;
+}
+
+.content {
+  font-size: 130%;
+}
+
+.content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 960px) {
+  .img-cover {
+    max-height: 300px;
+  }
+  .book-cover {
+    margin-bottom: 1em;
+  }
+  .content {
+    font-size: 120%;
+  }
+}
+
+.article-end {
+  font-size: 80%;
+}
+
+.article-divider::before {
+  content: "...";
+}
+
+.article-divider {
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 1em;
+  margin-top: 0em;
+  margin-bottom: 1em;
+}
+
+.presentation {
+  border: 1px solid #CCC;
+  border-width: 1px;
+  margin-bottom:5px;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+blockquote {
+  padding: 1rem;
+  background-color: #d3d3d375;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.content-head {
+  margin-bottom: 1rem;
+}
+
+.content-main h2, .content-main h3, .content-main h4 {
+  margin-top: 3rem;
+}
+
+.img-border {
+  border: #CCC solid 1px;
+}
