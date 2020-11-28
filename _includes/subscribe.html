@@ -1,6 +1,15 @@
+<div class="text-center">
+
+{% if include.subscribe == "true" %}
+<p class="small">
+  Subscribe to our weekly newsletter and get the invite link to our Slack.<br/>
+  We'll keep you informed about our events, articles, courses, and everything else happening in the club.
+</p>
+{% endif %}
+
 
 <form method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
-    action="TODO"
+    action="https://club.us19.list-manage.com/subscribe/post?u=0d7822ab98152f5afc118c176&amp;id=97178021aa"
     class="validate" target="_blank" novalidate>
   <div class="form-row align-items-center justify-content-center">
     <div class="col-auto">
@@ -13,8 +22,10 @@
     </div>
     <div class="col-auto">
     <button type="submit" name="subscribe" class="btn btn-success">
-        <i class="far fa-paper-plane"></i> &nbsp; Subscribe
+        <i class="far fa-paper-plane"></i> &nbsp; Join
     </button>
     </div>
   </div>
 </form>
+
+</div>

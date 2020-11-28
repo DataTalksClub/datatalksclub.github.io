@@ -12,27 +12,22 @@
         <div class="content-head d-flex justify-content-between align-items-center">
           <div>
             <h1>{{ page.title }}</h1>
+            <p>{{ page.date | date_to_string }} by {{ page.author }}</p>
           </div>
           <div>
             <div class="social">
-              <a target="_blank" 
-                title="Tweet it!"
-                href="https://twitter.com/intent/tweet?text={{ page.title | erl_encode }}{{ " by @DataTalksClub " | url_encode }}{{ page.url | absolute_url | url_encode }}">
-                <i class="fab fa-twitter"></i>
-              </a>
             </div>
           </div>
         </div>
 
-        <div class="content-main">
+        <div class="content-main mb-5">
           {{ content }}
         </div>
 
         <div class="article-divider"></div>
 
         <div class="article-end">
-          <p>To stay informed about new content on this site and book updates, join our newsletter</p>
-          {% include subscribe.html %}
+          {% include subscribe.html subscribe="true" %}
         </div>
       </div>
     </div>
