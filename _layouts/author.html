@@ -7,11 +7,11 @@
     {% include header.html %}
 
     <div class="row">
-      <div class="col-lg-8 mx-auto content">
+      <div class="col-lg-8 mx-auto">
 
         <div class="content-head d-flex justify-content-between align-items-center">
           <div>
-            <h1>{{ page.name }}</h1>
+            <h2>{{ page.name }}</h2>
           </div>
           <div>
             <div class="social">
@@ -23,7 +23,7 @@
           {{ content }}
         </div>
 
-        <h2>Posts</h2>
+        <h3>Articles</h3>
         <ul>
           {% for post in site.posts %}
             {% if post.authors contains page.short %}
