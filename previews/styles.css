@@ -1,0 +1,70 @@
+html, body {
+  height: 100%;
+  font-family: 'Alegreya Sans', sans-serif;
+  margin: 0px;
+}
+
+h1 {
+  margin: 0px;
+  font-size: 70px;
+  font-weight: 400;
+}
+h2 {
+  margin: 0px;
+  font-size: 45px;
+  font-weight: 400;
+}
+h3 {
+  margin: 0px;
+  font-size: 45px;
+  font-weight: 500;
+}
+h4 {
+  margin: 0px;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+
+#outer {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#main {
+  /* background-image: url('radial.png');
+  background-size: 120%;
+  background-position: center;
+  background-repeat: no-repeat; */
+  background: rgb(255,255,255);
+  /* background: radial-gradient(circle, rgba(251,243,63,0.680062454737974) 0%, rgba(252,171,70,1) 100%); */
+  text-align: center;
+  width: 940px;
+  height: 550px;
+}
+
+#inner {
+  padding: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 480px; /* 550 - 35*2*/
+}
+
+.author-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#author {
+  margin-left: 15px;
+}
+
+.author-block img {
+  height: 55px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
