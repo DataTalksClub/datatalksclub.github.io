@@ -3,3 +3,9 @@ url: https://datatalks.club
 google_analytics: G-7NPZ94MHEC
 name: DataTalks.Club
 twitter: '@Al_Grigor'
+permalink: /blog/:title.html
+
+collections:
+  authors:
+    output: true
+    permalink: /:collection/:name.html

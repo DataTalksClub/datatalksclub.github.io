@@ -40,7 +40,11 @@ layout: home
     <ul>
       {% for post in site.posts %}
         <li>
-          <a href="{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
+          <a href="{{ post.url }}">{{ post.title }}</a> by
+            {% for a in post.authors %}
+              {% assign author = site.authors | where: "short", a | first %}
+              <a href="/authors/{{a}}.html">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}
+            {% endfor %}
         </li>
       {% endfor %}
     </ul>
