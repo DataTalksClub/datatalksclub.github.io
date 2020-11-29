@@ -12,6 +12,10 @@
         <div class="content-head d-flex justify-content-between align-items-center">
           <div>
             <h1>{{ page.title }}</h1>
+            {% if page.subtitle %}
+              <h3>{{ page.subtitle }}</h3>
+            {% endif %}
+
             <p>{{ page.date | date_to_string }} by
               {% for a in page.authors %}
                 {% assign author = site.authors | where: "short", a | first %}
