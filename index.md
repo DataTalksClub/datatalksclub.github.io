@@ -16,13 +16,13 @@ layout: home
 
     <ul>
       <li>Learn more about applied machine learning</li>
-      <li>Talk about data and machine learning engineering</li>
+      <li>Talk about data engineering and machine learning engineering</li>
       <li>Discuss career options</li>
-      <li>Attend our weekly events</li>
+      <li>Attend weekly events</li>
       <li>Ask any question</li>
     </ul>
 
-    Then DataTalks.Club is the place for you!
+    Then DataTalks.Club is the place for you! Join our Slack group!
   </div>
 </div>
 
@@ -42,8 +42,8 @@ layout: home
         <li>
           <a href="{{ post.url }}">{{ post.title }}</a> by
             {% for a in post.authors %}
-              {% assign author = site.authors | where: "short", a | first %}
-              <a href="/authors/{{a}}.html">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}
+              {% assign author = site.people | where: "short", a | first %}
+              <a href="/people/{{a}}.html">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}
             {% endfor %}
         </li>
       {% endfor %}

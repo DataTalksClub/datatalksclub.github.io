@@ -4,7 +4,7 @@ title: "Not A Regular RFM Analysis"
 subtitle: "Why limit to Recency, Frequency and Monetary measures during Customer Segmentation?"
 description: "Why limit to Recency, Frequency and Monetary measures during Customer Segmentation?"
 image: "images/2020-11-29-segmentation/cover.jpg"
-authors: [nishant]
+authors: [nishantmohan]
 tags: [analytics, clustering]
 ---
 

@@ -1,7 +1,7 @@
 ---
-short: alexey
+short: alexeygrigorev
 name: "Alexey Grigorev"
-picture: "images/authors/alexey.jpg"
+picture: "images/authors/alexeygrigorev.jpg"
 github: alexeygrigorev
 twitter: Al_Grigor
 linkedin: agrigorev

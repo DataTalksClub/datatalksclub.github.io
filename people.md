@@ -10,9 +10,9 @@ layout: home
 
 <div class="row my-5">
   <div class="col-md-8 offset-md-3">
-    <h4>Authors</h4>
+    <h4>People</h4>
     <ul>
-      {% for author in site.authors %}
+      {% for author in site.people %}
         <li><a href="{{ author.id }}.html">{{ author.name }}</a></li>
       {% endfor %}
     </ul>

@@ -6,6 +6,6 @@ twitter: '@DataTalksClub'
 permalink: /blog/:title.html
 
 collections:
-  authors:
+  people:
     output: true
     permalink: /:collection/:name.html
