@@ -16,11 +16,8 @@ layout: home
         <li><a href="{{ author.id }}.html">{{ author.name }}</a></li>
       {% endfor %}
     </ul>
-
   </div>
 </div>
-
-
 
 <div class="row">
   <div class="col">

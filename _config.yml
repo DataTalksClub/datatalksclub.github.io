@@ -8,4 +8,10 @@ permalink: /blog/:title.html
 collections:
   people:
     output: true
-    permalink: /:collection/:name.html
+
+defaults:
+  - scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "author"

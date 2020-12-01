@@ -1,0 +1,61 @@
+- date: Dec 1 2020
+  title: Essential Communication Skills for Data Professionals
+  speakers: [davidgates]
+  type: webinar
+  link: https://www.eventbrite.com/e/128509793251
+  finished: false
+- date: Dec 1 2020
+  title: Processes in a Data Science Project
+  speakers: [alexeygrigorev]
+  type: podcast
+  link: https://www.eventbrite.com/e/129939190617
+  finished: false
+- date: Dec 4 2020
+  title: Building a Data Science Team
+  speakers: [dattran]
+  type: podcast
+  link: https://www.eventbrite.com/e/130733484371
+  finished: false
+- date: Dec 8 2020
+  title: Serverless Machine Learning with AWS
+  speakers: [sejalvaidya]
+  type: webinar
+  link: https://www.eventbrite.com/e/130823369219
+  finished: false
+- date: Dec 15 2020
+  title: AWS Glue DataBrew
+  speakers: [dmitrymuzalevskiy]
+  type: webinar
+  link: https://www.eventbrite.com/e/130916443607
+  finished: false
+
+
+- date: Nov 24 2020
+  title: Fighting Fraud with Triplet Loss
+  speakers: [artemiifrolov]
+  type: webinar
+  link: https://www.eventbrite.com/e/127745850277
+  youtube: https://www.youtube.com/watch?v=1Jabakbryyk
+  finished: true
+- date: Nov 20 2020
+  title: Roles in a Data Team
+  speakers: [alexeygrigorev]
+  type: podcast
+  link: https://www.eventbrite.com/e/127017208891
+  youtube: https://www.youtube.com/watch?v=2ZOnA19sDpM
+  anchor: https://anchor.fm/datatalksclub/episodes/Roles-in-a-data-team---Alexey-Grigorev-emqcft
+  finished: true
+- date: Nov 17 2020
+  title: Customer Segmentation 2.0
+  speakers: [nishantmohan]
+  type: webinar
+  link: https://www.eventbrite.com/e/128089903349
+  youtube: https://www.youtube.com/watch?v=pWqD7SGuihs
+  finished: true
+- date: Nov 10 2020
+  title: Deploying models with AWS Sagemaker
+  speakers: [dmitrymuzalevskiy]
+  type: webinar
+  link: https://www.eventbrite.com/e/127017208891
+  youtube: https://www.youtube.com/watch?v=2ZOnA19sDpM
+  finished: true

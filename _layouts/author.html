@@ -32,6 +32,21 @@
           {% endfor %}
         </ul>
 
+        <h3>Events</h3>
+        <ul>
+          {% for event in site.data.events %}
+            {% if event.speakers contains page.short %}
+              <li>{{ event.title }} on {{ event.date }}
+                {% if event.finished %}
+                  (<a href="{{ event.youtube }}" target="_blank">watch on youtube</a>{% if event.anchor %}, <a href="{{ event.anchor }}" target="_blank">listen on anchor</a>{% endif %})
+                {% else %}
+                  (<a href="{{ event.link }}" target="_blank">register for the event</a>)
+                {% endif %}
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+
         <div class="article-divider"></div>
 
         <div class="article-end">
