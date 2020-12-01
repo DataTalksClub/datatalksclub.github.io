@@ -23,19 +23,22 @@
           {{ content }}
         </div>
 
-        <h3>Articles</h3>
-        <ul>
-          {% for post in site.posts %}
-            {% if post.authors contains page.short %}
-              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
+        {% assign articles = site.posts | where_exp: "post", "post.authors contains page.short" %}
+        {% assign events = site.data.events | where_exp: "event", "event.speakers contains page.short" %}
 
-        <h3>Events</h3>
-        <ul>
-          {% for event in site.data.events %}
-            {% if event.speakers contains page.short %}
+        {% if articles.size > 0 %}
+          <h3>Articles</h3>
+          <ul>
+            {% for post in articles %}
+              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+
+        {% if events.size > 0 %}
+          <h3>Events</h3>
+          <ul>
+            {% for event in events %}
               <li>{{ event.title }} on {{ event.date }}
                 {% if event.finished %}
                   (<a href="{{ event.youtube }}" target="_blank">watch on youtube</a>{% if event.anchor %}, <a href="{{ event.anchor }}" target="_blank">listen on anchor</a>{% endif %})
@@ -43,9 +46,9 @@
                   (<a href="{{ event.link }}" target="_blank">register for the event</a>)
                 {% endif %}
               </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
+            {% endfor %}
+          </ul>
+        {% endif %}
 
         <div class="article-divider"></div>
 
