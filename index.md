@@ -65,7 +65,7 @@ layout: home
       {% endfor %}
     </ul>
 
-    <p>For the full list of our events, check our page on <a href="https://www.eventbrite.com/o/datatalksclub-31603209675" target="_blank">Eventbrite</a>.</p>
+    <p>Check <a href="/events.html">events</a> for the all past events.</p>
   </div>
 </div>
 
