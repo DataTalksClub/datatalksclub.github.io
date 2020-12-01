@@ -13,7 +13,7 @@ layout: home
     <h4>People</h4>
     <ul>
       {% for author in site.people %}
-        <li><a href="{{ author.id }}.html">{{ author.name }}</a></li>
+        <li><a href="{{ author.id }}.html">{{ author.title }}</a></li>
       {% endfor %}
     </ul>
   </div>

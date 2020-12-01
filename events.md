@@ -23,7 +23,7 @@ layout: home
           <a href="{{ event.link }}" target="_blank">{{ event.title }}</a> on {{ event.date }} by
             {% for a in event.speakers %}
               {% assign author = site.people | where: "short", a | first  %}
-              <a href="/people/{{a}}.html">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}
+              <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
             {% endfor %}
         </li>
       {% endfor %}
@@ -38,7 +38,7 @@ layout: home
           {{ event.title }} by
             {% for a in event.speakers %}
               {% assign author = site.people | where: "short", a | first %}
-              <a href="/people/{{a}}.html">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}
+              <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
             {% endfor %}
             (<a href="{{ event.youtube }}" target="_blank">watch on youtube</a>{% if event.anchor %}, <a href="{{ event.anchor }}" target="_blank">listen on anchor</a>{% endif %})
         </li>

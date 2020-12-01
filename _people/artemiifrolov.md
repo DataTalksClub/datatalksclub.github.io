@@ -1,6 +1,6 @@
 ---
 short: artemiifrolov
-name: "Artemii Frolov"
+title: "Artemii Frolov"
 picture: "images/authors/default.jpg"
 ---
 

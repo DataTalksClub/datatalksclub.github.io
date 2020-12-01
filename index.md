@@ -43,11 +43,29 @@ layout: home
           <a href="{{ post.url }}">{{ post.title }}</a> by
             {% for a in post.authors %}
               {% assign author = site.people | where: "short", a | first %}
-              <a href="/people/{{a}}.html">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}
+              <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
             {% endfor %}
         </li>
       {% endfor %}
     </ul>
+
+    <p>&nbsp;</p>
+
+    {% assign upcoming = site.data.events | where: "finished", false %}
+    <h4>Upcoming events</h4>
+    <ul>
+      {% for event in upcoming %}
+        <li>
+          <a href="{{ event.link }}" target="_blank">{{ event.title }}</a> on {{ event.date }} by
+            {% for a in event.speakers %}
+              {% assign author = site.people | where: "short", a | first  %}
+              <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p>For the full list of our events, check our page on <a href="https://www.eventbrite.com/o/datatalksclub-31603209675" target="_blank">Eventbrite</a>.</p>
   </div>
 </div>
 

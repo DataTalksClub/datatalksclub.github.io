@@ -1,6 +1,6 @@
 ---
 short: nishantmohan
-name: "Nishant Mohan"
+title: "Nishant Mohan"
 picture: "images/authors/nishantmohan.jpg"
 github: mohannishant6
 linkedin: mohannishant

@@ -1,6 +1,6 @@
 ---
 short: davidgates
-name: "David Gates"
+title: "David Gates"
 picture: "images/authors/default.jpg"
 ---
 

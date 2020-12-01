@@ -1,6 +1,6 @@
 ---
 short: sejalvaidya
-name: "Sejal Vaidya"
+title: "Sejal Vaidya"
 picture: "images/authors/sejalvaidya.jpg"
 github: sejalv
 twitter: sejalv_

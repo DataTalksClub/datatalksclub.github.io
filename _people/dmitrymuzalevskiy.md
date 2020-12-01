@@ -1,6 +1,6 @@
 ---
 short: dmitrymuzalevskiy
-name: "Dmitry Muzalevskiy"
+title: "Dmitry Muzalevskiy"
 picture: "images/authors/dmitrymuzalevskiy.jpg"
 github: ds-muzalevskiy
 linkedin: dm-muzalevskiy

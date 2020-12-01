@@ -1,6 +1,6 @@
 ---
 short: dattran
-name: "Dat Tran"
+title: "Dat Tran"
 linkedin: dat-tran-a1602320
 twitter: datitran
 picture: "images/authors/default.jpg"
