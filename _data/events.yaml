@@ -17,6 +17,12 @@
   type: webinar
   link: https://www.eventbrite.com/e/130823369219
   finished: false
+- date: Dec 11 2020
+  title: Standing out as a Data Scientist
+  speakers: [lukewhipps]
+  type: podcast
+  link: https://www.eventbrite.com/e/131260685243
+  finished: false
 - date: Dec 15 2020
   title: AWS Glue DataBrew
   speakers: [dmitrymuzalevskiy]
