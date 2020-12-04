@@ -40,7 +40,7 @@ layout: home
               {% assign author = site.people | where: "short", a | first %}
               <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
             {% endfor %}
-            (<a href="{{ event.youtube }}" target="_blank">watch on youtube</a>{% if event.anchor %}, <a href="{{ event.anchor }}" target="_blank">listen on anchor</a>{% endif %})
+            (<a href="{{ event.youtube }}" target="_blank">watch on youtube</a>{% if event.anchor %}, <a href="{{ event.anchor }}" target="_blank">listen on anchor.fm</a>{% endif %})
         </li>
       {% endfor %}
     </ul>
