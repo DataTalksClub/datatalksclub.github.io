@@ -16,6 +16,12 @@
   type: webinar
   link: https://www.eventbrite.com/e/130916443607
   finished: false
+- date: Dec 18 2020
+  title: Mentoring
+  speakers: [rahuljain]
+  type: podcast
+  link: https://www.eventbrite.com/e/131724151483
+  finished: false
 
 - date: Dec 4 2020
   title: Building a Data Science Team
