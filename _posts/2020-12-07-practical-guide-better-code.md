@@ -469,3 +469,5 @@ I would like to thank
 * [Vladimir Iglovikov](https://github.com/ternaus) for his article and his investment into openness and development of the whole Data Science community.
 * I am grateful to the Open Data Science community ([ods.ai](https://ods.ai/)) as a source of inspiration.
 
+
+This article was originally publised on [medium](https://medium.com/@olegpolivin/a-practical-guide-for-better-looking-python-code-5a032508bb20?source=friends_link&sk=4214333a288a7aa39f0d6dabfbd9d65c).
