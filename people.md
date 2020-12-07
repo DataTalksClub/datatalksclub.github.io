@@ -1,6 +1,6 @@
 ---
 
-title: Welcome to DataTalks.Club
+title: People of DataTalks.Club
 description:
   "DataTalks.Club &ndash; the place to talk about data"
 image: images/cover.jpg
