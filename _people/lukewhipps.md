@@ -2,7 +2,7 @@
 short: lukewhipps
 title: "Luke Whipps"
 picture: "images/authors/lukewhipps.jpg"
-linkedin: https://www.linkedin.com/in/lukewhipps/
+linkedin: lukewhipps
 ---
 
 Luke Whipps is a co-founder of Neural.AI &ndash; a company specializing in recruiting data scientists
