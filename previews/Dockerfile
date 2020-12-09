@@ -17,3 +17,7 @@ WORKDIR /app
 ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD true
 COPY package.json package-lock.json ./
 RUN npm install
+
+COPY render.js styles.css template.html ./
+
+ENTRYPOINT [ "node", "render.js" ]

@@ -34,12 +34,7 @@ h4 {
 }
 
 #main {
-  /* background-image: url('radial.png');
-  background-size: 120%;
-  background-position: center;
-  background-repeat: no-repeat; */
   background: rgb(255,255,255);
-  /* background: radial-gradient(circle, rgba(251,243,63,0.680062454737974) 0%, rgba(252,171,70,1) 100%); */
   text-align: center;
   width: 940px;
   height: 550px;
@@ -59,7 +54,7 @@ h4 {
   align-items: center;
 }
 
-#author {
+.author-name {
   margin-left: 15px;
 }
 
