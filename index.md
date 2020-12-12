@@ -85,7 +85,7 @@ layout: home
       {% endfor %}
     </ul>
 
-    <p>Check <a href="/books.html">books</a> for more books!</p>
+    <p>Check the <a href="/books.html">book of the week</a> page for more books!</p>
   </div>
 </div>
 

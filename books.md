@@ -12,6 +12,14 @@ layout: page
 Each week we have a book author coming to DataTalks.Club to answer your questions about their book
 and, in general, about the topic of their book.
 
+* Register at DataTalks.Club
+* Join the `#book-of-the-week` channel in our Slack
+* Ask as many questions as you'd like
+* The book authors answer questions from Monday till Thursday
+* On Friday, the authors decide who wins free copies of their book
+
+## Upcoming books
+
 {% assign upcoming = site.books 
   | where_exp: "book", "book.end > site.time"
   | sort: 'end' %}
