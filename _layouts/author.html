@@ -37,13 +37,14 @@
 
         {% assign events = site.data.events 
           | where_exp: "event", "event.speakers contains page.short"
-          | sort: 'date' %}
+          | sort: 'time'
+          | reverse %}
 
         {% if events.size > 0 %}
           <h3>Events</h3>
           <ul>
             {% for event in events %}
-              <li>{{ event.title }} on {{ event.date | date_to_string }}
+              <li>{{ event.title }} on {{ event.time | date_to_string }}
                 {% if event.youtube %}
                   (<a href="{{ event.youtube }}" target="_blank">watch on youtube</a>{% if event.anchor %}, <a href="{{ event.anchor }}" target="_blank">listen on anchor</a>{% endif %})
                 {% else %}
