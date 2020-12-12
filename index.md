@@ -51,12 +51,14 @@ layout: home
       
     <p>&nbsp;</p>
 
-    {% assign upcoming = site.data.events | where: "finished", false %}
+    {% assign upcoming = site.data.events
+      | where_exp: "event", "event.time > site.time"
+      | sort: 'time'  %}
     <h4>Upcoming events</h4>
     <ul>
       {% for event in upcoming %}
         <li>
-          <a href="{{ event.link }}" target="_blank">{{ event.title }}</a> on {{ event.date }} by
+          <a href="{{ event.link }}" target="_blank">{{ event.title }}</a> on {{ event.time | date_to_string }} by
             {% for a in event.speakers %}
               {% assign author = site.people | where: "short", a | first  %}
               <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}

@@ -13,13 +13,15 @@ layout: page
 
 We host two types of events:
 
-* Presentations &mdash; events on Tuesday, with slides, mostly technical
-* Live podcasts &mdash; events on Friday, a discussion without slides, the recording is published as a podcast
+* Presentations &ndash; events on Tuesday, with slides, mostly technical
+* Live podcasts &ndash; events on Friday, a discussion without slides, the recording is published as a podcast
 
 
 For the full list of our events, check our page on <a href="https://www.eventbrite.com/o/datatalksclub-31603209675" target="_blank">Eventbrite</a>
 
-{% assign upcoming = site.data.events | where: "finished", false %}
+{% assign upcoming = site.data.events
+  | where_exp: "event", "event.time > site.time"
+  | sort: 'time' %}
 
 {% if upcoming %}
 ## Upcoming events
@@ -27,7 +29,7 @@ For the full list of our events, check our page on <a href="https://www.eventbri
 <ul>
   {% for event in upcoming %}
     <li>
-      <a href="{{ event.link }}" target="_blank">{{ event.title }}</a> on {{ event.date }} by
+      <a href="{{ event.link }}" target="_blank">{{ event.title }}</a> on {{ event.time | date_to_string }} by
         {% for a in event.speakers %}
           {% assign author = site.people | where: "short", a | first  %}
           <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
@@ -38,7 +40,10 @@ For the full list of our events, check our page on <a href="https://www.eventbri
 {% endif %}
 
 
-{% assign past = site.data.events | where: "finished", true %}
+{% assign past = site.data.events
+  | where_exp: "event", "event.time <> site.time"
+  | sort: 'time'
+  | reverse %}
 
 {% if past %}
 ## Past events

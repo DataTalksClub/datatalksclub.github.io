@@ -23,9 +23,8 @@
           {{ content }}
         </div>
 
-        {% assign articles = site.posts | where_exp: "post", "post.authors contains page.short" %}
-        {% assign events = site.data.events | where_exp: "event", "event.speakers contains page.short" %}
-        {% assign books = site.books | where_exp: "book", "book.authors contains page.short" %}
+        {% assign articles = site.posts 
+          | where_exp: "post", "post.authors contains page.short" %}
 
         {% if articles.size > 0 %}
           <h3>Articles</h3>
@@ -36,12 +35,16 @@
           </ul>
         {% endif %}
 
+        {% assign events = site.data.events 
+          | where_exp: "event", "event.speakers contains page.short"
+          | sort: 'date' %}
+
         {% if events.size > 0 %}
           <h3>Events</h3>
           <ul>
             {% for event in events %}
-              <li>{{ event.title }} on {{ event.date }}
-                {% if event.finished %}
+              <li>{{ event.title }} on {{ event.date | date_to_string }}
+                {% if event.youtube %}
                   (<a href="{{ event.youtube }}" target="_blank">watch on youtube</a>{% if event.anchor %}, <a href="{{ event.anchor }}" target="_blank">listen on anchor</a>{% endif %})
                 {% else %}
                   (<a href="{{ event.link }}" target="_blank">register for the event</a>)
@@ -50,6 +53,9 @@
             {% endfor %}
           </ul>
         {% endif %}
+
+        {% assign books = site.books
+          | where_exp: "book", "book.authors contains page.short" %}
 
         {% if books.size > 0 %}
           <h3>Books</h3>

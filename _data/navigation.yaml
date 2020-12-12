@@ -1,0 +1,18 @@
+- text: Home
+  link: "/"
+  new_window: false
+- text: Articles
+  link: "/articles.html"
+  new_window: false
+# - text: Courses
+#   link: "/courses.html"
+#   new_window: false
+- text: Slack
+  link: "/slack.html"
+  new_window: false
+- text: Events
+  link: "/events.html"
+  new_window: false
+- text: Podcast
+  link: "https://anchor.fm/datatalksclub"
+  new_window: true

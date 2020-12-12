@@ -6,10 +6,8 @@
 
 <div class="row mb-3 text-center">
   <div class="col header">
-    <a class="mx-3" href="/">Home</a>
-    <a class="mx-3" href="/articles.html">Articles</a>
-    <a class="mx-3" href="/courses.html">Courses</a>
-    <a class="mx-3" href="/events.html">Events</a>
-    <a class="mx-3" href="https://anchor.fm/datatalksclub" target="_blank">Podcast</a>
+    {% for el in site.data.navigation %}
+      <a class="mx-3" href="{{ el.link }}" {% if el.new_window %} target="_blank" {% endif %}>{{ el.text }}</a>
+    {% endfor %}
   </div>
 </div>

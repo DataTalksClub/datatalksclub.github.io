@@ -12,7 +12,7 @@ layout: page
 Each week we have a book author coming to DataTalks.Club to answer your questions about their book
 and, in general, about the topic of their book.
 
-* Register at DataTalks.Club
+* Register on DataTalks.Club
 * Join the `#book-of-the-week` channel in our Slack
 * Ask as many questions as you'd like
 * The book authors answer questions from Monday till Thursday
