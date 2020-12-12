@@ -18,6 +18,10 @@ To join our Slack community, write your emain and click on the "Join" button.
 You will receive an invite link. Click on it to finish registration in
 Slack.
 
+If you haven't received an invite, or the invite link doesn't work,
+write to alexey@datatalks.club, and we'll add you to Slack manually.
+
+
 ## Channels 
 
 - `#book-of-the-week` &ndash; to talk about books with book authors (check the [books page](/books.html) for more information)
