@@ -15,6 +15,8 @@ This text is inspired by two sources. First one is “[Nine simple steps for bet
 
 Second source is more subtle, and it is Joel Grus’ [Ten Essays on Fizz Buzz](https://joelgrus.com/2020/06/06/ten-essays-on-fizz-buzz/) where he describes ways to solve the Fizz Buzz coding exercise. While it provides the 10 solutions, it is more a discussion on Python, Maths, Testing and Coding. And if you don’t know Joel Grus, check out his presentation about his everlasting [love towards Jupyter Notebooks](https://youtu.be/7jiPeIFXb6U).
 
+<!--more-->
+
 Here are some resources that are associated with this article:
 
 1. [GitHub repository](https://github.com/olegpolivin/FizzBuzz-CI-CD) where I performed my experiments. It is in a state after all the steps I describe below are implemented. However, you can see the development through git commits history.

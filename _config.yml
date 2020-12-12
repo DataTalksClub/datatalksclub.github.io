@@ -6,8 +6,11 @@ twitter: '@DataTalksClub'
 permalink: /blog/:title.html
 
 collections:
+  books:
+    output: true
   people:
     output: true
+
 
 defaults:
   - scope:
@@ -15,3 +18,8 @@ defaults:
       type: "people"
     values:
       layout: "author"
+  - scope:
+      path: ""
+      type: "books"
+    values:
+      layout: "book"

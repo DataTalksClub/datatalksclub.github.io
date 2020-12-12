@@ -25,6 +25,7 @@
 
         {% assign articles = site.posts | where_exp: "post", "post.authors contains page.short" %}
         {% assign events = site.data.events | where_exp: "event", "event.speakers contains page.short" %}
+        {% assign books = site.books | where_exp: "book", "book.authors contains page.short" %}
 
         {% if articles.size > 0 %}
           <h3>Articles</h3>
@@ -46,6 +47,15 @@
                   (<a href="{{ event.link }}" target="_blank">register for the event</a>)
                 {% endif %}
               </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+
+        {% if books.size > 0 %}
+          <h3>Books</h3>
+          <ul>
+            {% for book in books %}
+              <li><a href="{{ book.id }}.html">{{ book.title }}</a> (the book of the week from {{ book.start | date_to_string }} to {{ book.end | date_to_string }})</li>
             {% endfor %}
           </ul>
         {% endif %}

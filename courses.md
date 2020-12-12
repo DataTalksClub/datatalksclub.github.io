@@ -4,18 +4,10 @@ title: Courses
 description:
   "DataTalks.Club &ndash; the place to talk about data"
 image: images/cover.jpg
-layout: home
+layout: page
 
 ---
 
-<div class="row my-5">
-  <div class="col-md-8 offset-md-3">
-    Nothing here, come back later
-  </div>
-</div>
+## Courses
 
-<div class="row">
-  <div class="col">
-    {% include subscribe.html subscribe="true" %}
-  </div>
-</div>
+Nothing here, come back later

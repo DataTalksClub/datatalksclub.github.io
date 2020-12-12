@@ -63,3 +63,18 @@ h4 {
   border-radius: 50%;
   border: 1px solid black;
 }
+
+.book-title-block {
+  display: flex;
+  justify-content: center;
+}
+
+.book-title-block img {
+  max-height: 240px;
+  border: 1px solid black;
+}
+
+.book-of-the-week-rules {
+  zoom: 220%;
+  text-align: left;
+}

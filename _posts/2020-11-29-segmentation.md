@@ -14,6 +14,7 @@ There's a specific part of job-hunting that I look forward to. It's called take-
 
 Towards the end of my master's course, I started applying for jobs. One of the most interesting projects I did was from a gaming company.
 
+<!--more-->
 
 ## Introduction
 

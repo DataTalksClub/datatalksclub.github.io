@@ -35,7 +35,6 @@ body, html {
 }
 
 .article-end {
-  font-size: 80%;
 }
 
 .article-divider::before {
@@ -83,4 +82,29 @@ blockquote p:last-child {
 
 .img-border {
   border: #CCC solid 1px;
+}
+
+.book {
+  display: flex;
+  border: 1px solid grey;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.book-cover img {
+  max-height: 160px;
+  margin-right: 10px;
+}
+
+.book-info h2, .book-info h3, .book-info h4 {
+  margin-top: 0;
+}
+
+.content-book {
+  display: flex;
+}
+
+.content-book img {
+  max-height: 250px;
+  margin-right: 10px;
 }

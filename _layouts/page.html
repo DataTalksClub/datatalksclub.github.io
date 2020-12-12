@@ -1,0 +1,27 @@
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+  <div class="container">
+    {% include header.html %}
+
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+
+        <div class="content-main mb-5">
+          {{ content }}
+        </div>
+
+        <div class="article-divider"></div>
+
+        <div class="article-end">
+          {% include subscribe.html subscribe="true" %}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+  </div>
+
+</body>

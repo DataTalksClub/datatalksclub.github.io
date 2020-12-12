@@ -48,7 +48,7 @@ layout: home
         </li>
       {% endfor %}
     </ul>
-
+      
     <p>&nbsp;</p>
 
     {% assign upcoming = site.data.events | where: "finished", false %}
@@ -66,6 +66,26 @@ layout: home
     </ul>
 
     <p>Check <a href="/events.html">events</a> for the all past events.</p>
+
+    <p>&nbsp;</p>
+
+    <h4>Book of the week</h4>
+    {% assign books = site.books 
+        | where_exp: "book", "book.end > site.time"
+        | sort: 'end' %}
+    <ul>
+      {% for book in books %}
+        <li>
+          <a href="{{ book.url }}">{{ book.title }}</a> by
+            {% for a in book.authors %}
+              {% assign author = site.people | where: "short", a | first  %}
+              <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p>Check <a href="/books.html">books</a> for more books!</p>
   </div>
 </div>
 
