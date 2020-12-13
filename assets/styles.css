@@ -22,6 +22,22 @@ body, html {
   max-width: 100%;
 }
 
+.content-main > p > img {
+  margin-top: 2em;
+  margin-bottom: 2em; 
+}
+
+.content figure {
+  margin-top: 2em;
+  margin-bottom: 2em;  
+}
+
+.content figcaption {
+  text-align: center;
+  font-size: 85%;
+  margin-top: 0.7rem;
+}
+
 @media (max-width: 960px) {
   .img-cover {
     max-height: 300px;

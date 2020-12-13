@@ -16,7 +16,7 @@ In particular, we will cover:
 * The responsibilities of each role;
 * The skills and knowledge each role needs to have.
 
-> Want to listen to it as a podcast? Go to [anchor.fm](https://anchor.fm/datatalksclub/episodes/Roles-in-a-data-team---Alexey-Grigorev-emqcft) or your favorite podcasting platfrom.
+> Want to listen to it as a podcast? Go to <a href="https://anchor.fm/datatalksclub/episodes/Roles-in-a-data-team---Alexey-Grigorev-emqcft" target="_blank">Anchor.fm</a> or your favorite podcasting platfrom.
 
 
 This is not a comprehensive list and the majority of what you will read in this article is my opinion, which comes out of my experience from working as a data scientist.
@@ -35,6 +35,13 @@ A typical data team consists of the following roles:
 * Machine learning engineers, and
 * Site reliability engineers / MLOps engineers.
 
+<figure>
+<img src="/images/2020-12-14-data-roles/roles.png" />
+<figcaption>
+The data team.
+</figcaption>
+</figure>
+
 
 
 ## The data team
@@ -50,9 +57,12 @@ Suppose we work at an online classifieds company. It’s a platform where users 
 On this platform, sellers sometimes have problems with identifying the correct category for the items they are selling. To help them, we want to build a service that suggests the best category. To sell their iPhone, the user creates a listing and the site needs to automatically understand that this iPhone has to go in the “mobile phones” category.
 
 
-<img src="/images/2020-12-07-data-roles/category-suggestion.png" />
+<figure>
+<img src="/images/2020-12-14-data-roles/category-classification.png" />
+<figcaption>
 Use case: we want to build a service that automatically identifies the correct category for a listing.
-
+</figcaption>
+</figure>
 
 Let’s start with the first role: product manager.
 
@@ -61,10 +71,12 @@ Let’s start with the first role: product manager.
 A product manager is someone responsible for developing products. Their goal is to make sure that the team is building the right thing. They are typically less technical than the rest of the team: they don’t focus on the implementation aspects of a problem, but rather the problem itself.
 
 
-
-<img src="/images/2020-12-07-data-roles/pm.png" />
-
+<figure>
+<img src="/images/2020-12-14-data-roles/pm.png" />
+<figcaption>
 A product manager makes sure the team builds a product that users will use.
+</figcaption>
+</figure>
 
 
 Product managers need to ensure that the product is actually used by the end-users. This is a common problem: in many companies, engineers create something that doesn’t solve real problems. Therefore, the product manager is somebody who speaks to the team on behalf of the users.
@@ -97,7 +109,12 @@ To answer these questions, PMs ask data analysts to help them figure out what to
 Data analysts know how to analyze the data available in the company. They discover insights in the data and then explain their findings to others.
 
 
-<img src="/images/2020-12-07-data-roles/analyst.png" />
+<figure>
+<img src="/images/2020-12-14-data-roles/analyst.png" />
+<figcaption>
+Analysts discovers insights in data.
+</figcaption>
+</figure>
 
 
 So, analysts need to know:
@@ -127,7 +144,13 @@ For our example, product managers turn to data analysts to help them quantify th
 * “How many listings are there on the platform that don't have the right category selected?”
 
 
-<img src="/images/2020-12-07-data-roles/pm-da-example.png" />
+<figure>
+<img src="/images/2020-12-14-data-roles/pm-da-example.png" />
+<figcaption>
+The PM turns to the analyst to understand the extent of the problem.
+</figcaption>
+</figure>
+
 
 
 After the analyst gets the data, analyzes it and answers these questions, they may conclude: “Yes, this is actually a problem”. Then the PM and the team discuss the repost and agree: “Indeed, this problem is actually worth solving”.
@@ -148,7 +171,13 @@ The roles of a data scientist and data analyst are pretty similar. In some compa
 A data analyst fetches the data, looks at it, explains what’s going on to the team, and gives some recommendations on what to do about it. A data scientist, on the other hand, focuses more on creating machine learning services. For example, one of the questions that a data scientist would want to answer is “How can we use this data to build a machine learning model for predicting something?”
 
 
-<img src="/images/2020-12-07-data-roles/ds.png" />
+<figure>
+<img src="/images/2020-12-14-data-roles/ds.png" />
+<figcaption>
+Data scientists create machine learning services.
+</figcaption>
+</figure>
+
 
 
 
@@ -169,8 +198,12 @@ For our example, the data scientists are the people who develop the model used f
 Data engineers do all the heavy lifting when it comes to data. A lot of work needs to happen before data analysts can go to a database, fetch the data, perform their analysis, and come up with a report. This is precisely the focus of data engineers — they make sure this is possible. Their responsibility is to prepare all the necessary data in a form that is consumable for their colleagues.
 
 
-
-<img src="/images/2020-12-07-data-roles/de.png" />
+<figure>
+<img src="/images/2020-12-14-data-roles/de.png" />
+<figcaption>
+Data engineers make the data available for data analysts and data scientists.
+</figcaption>
+</figure>
 
 
 To accomplish this, data engineers create "a data lake". All the data that users generate needs to be captured properly and saved in a separate database. This way, analysts can run their analysis, and data scientists can use this data for training models.
@@ -197,7 +230,13 @@ A data engineer isn’t the only type of engineer that a data team has. There ar
 Machine learning engineers take whatever data scientists build and help them scale it up. They also ensure that the service is maintainable and that the team follows the best engineering practices. Their focus is more on engineering than on modeling.
 
 
-<img src="/images/2020-12-07-data-roles/ds-mle.png" />
+
+<figure>
+<img src="/images/2020-12-14-data-roles/ds-mle.png" />
+<figcaption>
+Machine learning engineers help data scientsts put the model into production.
+</figcaption>
+</figure>
 
 
 The skills ML engineers have are similar to that of data engineers:
@@ -222,7 +261,13 @@ The role of SREs is similar to the ML engineer, but the focus is more on the ava
 
 SREs aren’t strictly limited to working with data. Their role is more general: they tend to focus less on business logic and more on infrastructure, which includes things like networking and provisioning infrastructure.
 
-<img src="/images/2020-12-07-data-roles/mle-sre.png" />
+
+<figure>
+<img src="/images/2020-12-14-data-roles/mle-sre.png" />
+<figcaption>
+SREs take care of the infrastructure and make sure the services work reliably.
+</figcaption>
+</figure>
 
 
 Therefore, SREs look after the servers where the services are running and take care of collecting all the operational metrics like CPU usage, how many requests per second there are, the services’ processes, and so on.
@@ -277,6 +322,7 @@ This article is based on the podcast "Roles in a data team". You can watch it on
 
 {% include youtube.html video_id="2ZOnA19sDpM" %}
 
-Or listen to audio: 
+Or listen to audio on Anchor.fm (or your favorite podcast platform): 
 
-<iframe src="https://anchor.fm/datatalksclub/embed/episodes/Roles-in-a-data-team---Alexey-Grigorev-emqcft/a-a3to8hl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+{% include anchor.html id="Roles-in-a-data-team---Alexey-Grigorev-emqcft/a-a3to8hl" %}
+
