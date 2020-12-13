@@ -32,6 +32,7 @@ write to alexey@datatalks.club, and we'll add you to Slack manually.
 - `#process` &ndash; how to organize our work
 - `#projects` &ndash; to discuss your side projects or find collaborators
 - `#jobs` &ndash; for jobs
+- `#ai-memes-for-ai-peeps` &ndash; for pictures and memes
 - `#random` &ndash; for everything else
 
 
