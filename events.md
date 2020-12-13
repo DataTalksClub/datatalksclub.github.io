@@ -41,7 +41,7 @@ For the full list of our events, check our page on <a href="https://www.eventbri
 
 
 {% assign past = site.data.events
-  | where_exp: "event", "event.time <> site.time"
+  | where_exp: "event", "event.time < site.time"
   | sort: 'time'
   | reverse %}
 
