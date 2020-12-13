@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Roles in a Data Team"
-subtitle: ""
 description: "In this article, we'll talk about different roles in a data team and discuss their responsibilities."
-image: "images/2020-11-29-segmentation/cover.jpg"
+image: "images/2020-12-14-data-roles/cover.jpg"
 authors: [alexeygrigorev]
 tags: [team, process, podcast]
 ---
