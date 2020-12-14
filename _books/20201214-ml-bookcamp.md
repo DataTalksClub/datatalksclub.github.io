@@ -4,7 +4,7 @@ description: "Book of the Week. Machine Learning Bookcamp by Alexey Grigorev. Le
 cover: "images/books/20201214-ml-bookcamp/cover.jpg"
 image: "images/books/20201214-ml-bookcamp/preview.jpg"
 start: 2020-12-14 00:00:00
-end: 2020-12-20 23:59:59
+end: 2020-12-18 23:59:59
 authors: [alexeygrigorev]
 links: 
   - text: Book's page on Manning
