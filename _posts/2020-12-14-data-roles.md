@@ -43,9 +43,6 @@ The data team.
 </figure>
 
 
-
-## The data team
-
 All these people work to create a data product.
 
 To explain the core responsibilities of each role, we will use a case scenario:
@@ -112,7 +109,7 @@ Data analysts know how to analyze the data available in the company. They discov
 <figure>
 <img src="/images/2020-12-14-data-roles/analyst.png" />
 <figcaption>
-Analysts discovers insights in data.
+Analysts discover insights in data.
 </figcaption>
 </figure>
 
@@ -234,7 +231,7 @@ Machine learning engineers take whatever data scientists build and help them sca
 <figure>
 <img src="/images/2020-12-14-data-roles/ds-mle.png" />
 <figcaption>
-Machine learning engineers help data scientsts put the model into production.
+Machine learning engineers help data scientists put the model into production.
 </figcaption>
 </figure>
 
