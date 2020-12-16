@@ -20,6 +20,7 @@ We host two types of events:
 For the full list of our events, check our page on <a href="https://www.eventbrite.com/o/datatalksclub-31603209675" target="_blank">Eventbrite</a>
 
 {% assign upcoming = site.data.events
+  | where_exp: "event", "event.draft != true"
   | where_exp: "event", "event.time > site.time"
   | sort: 'time' %}
 
@@ -41,6 +42,7 @@ For the full list of our events, check our page on <a href="https://www.eventbri
 
 
 {% assign past = site.data.events
+  | where_exp: "event", "event.draft != true"
   | where_exp: "event", "event.time < site.time"
   | sort: 'time'
   | reverse %}

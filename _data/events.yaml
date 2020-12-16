@@ -1,8 +1,37 @@
+# january 2021
+
+- time: 2021-01-29 17:00:00
+  title: TBA
+  speakers: []
+  type: podcast
+  link: https://www.eventbrite.com/e/XXXX
+  draft: true
+- time: 2021-01-26 17:00:00
+  title: Feature Stores
+  speakers: [neallathia]
+  type: webinar
+  link: https://www.eventbrite.com/e/XXXX
+  draft: true
+- time: 2021-01-22 17:00:00
+  title: Developer Advocate
+  speakers: [elleobrien]
+  type: podcast
+  link: https://www.eventbrite.com/e/XXXX
+  draft: true
 - time: 2021-01-19 17:00:00
   title: Machine Learning Performance Monitoring
   speakers: [emilidral]
   type: webinar
   link: https://www.eventbrite.com/e/133155127571
+- time: 2021-01-15 17:00:00
+  title: Writing
+  speakers: [eugeneyan]
+  type: podcast
+  link: https://www.eventbrite.com/e/XXXX
+  draft: true
+
+# december 2020
+
 - time: 2020-12-18 12:00:00
   title: Mentoring
   speakers: [rahuljain]
@@ -46,6 +75,9 @@
   type: webinar
   link: https://www.eventbrite.com/e/128509793251
   youtube: https://www.youtube.com/watch?v=ZRtVBflBkuc
+
+# november 2020
+
 - time: 2020-11-24 17:00:00
   title: Fighting Fraud with Triplet Loss
   speakers: [artemiifrolov]

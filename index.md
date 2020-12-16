@@ -52,6 +52,7 @@ layout: home
     <p>&nbsp;</p>
 
     {% assign upcoming = site.data.events
+      | where_exp: "event", "event.draft != true"
       | where_exp: "event", "event.time > site.time"
       | sort: 'time'  %}
     <h4>Upcoming events</h4>
