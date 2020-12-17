@@ -23,7 +23,14 @@ understand. They discuss parts you’ve never heard of. You're completely unsure
 does, what happened to cause this issue, and what will happen if you don’t fix it. All you know
 is that it's going to cost you quite a bit of money.
 
+<figure>
 <img src="/images/2020-12-17-simplifying-concepts/hand.jpg" />
+<figcaption>
+Image by <a href="https://pixabay.com/users/counselling-440107/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=707699">Ulrike Mai</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=707699">Pixabay</a>
+</figcaption>
+</figure>
+
+
 
 The mechanic has failed to communicate effectively with you.
 
@@ -82,7 +89,12 @@ taxi ride you understand regression.
 > amount. There’s a relationship between the distance and the amount you would pay above and
 > beyond that constant."
 
+<figure>
 <img src="/images/2020-12-17-simplifying-concepts/taxi.jpg" />
+<figcaption>
+Image by <a href="https://pixabay.com/users/life-of-pix-364018/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=498437">LEEROY Agency</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=498437">Pixabay</a>
+</figcaption>
+</figure>
 
 
 > And if you’re not moving, if you’re stuck in traffic then every additional minute you have to pay
@@ -120,8 +132,24 @@ the ability to explain this topic to someone else. This is the true sign of succ
 Now that you have the framework, you can put it to use. A great way to get started is to think:
 how you could explain classification in a similar way.
 
+<figure>
 <img src="/images/2020-12-17-simplifying-concepts/workplace.jpg" />
+<figcaption>
+Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Pixabay</a>
+</figcaption>
+</figure>
+
 
 Are you able to use softening language? Find a relatable example? Summarize? These are the
 steps needed to explain any complex topic. Once you develop these skills you’ll have the ability
 to confidently discuss your work with anyone.
+
+<div class="article-divider"></div>
+
+You can learn more about this topic from my talk about essential communication skills for
+data professionals:
+
+{% include youtube.html video_id="ZRtVBflBkuc" %}
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/david-gates-a84750b/) and
+on my website [AccentsWelcome.com](https://www.accentswelcome.com/)
