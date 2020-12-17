@@ -205,10 +205,10 @@ Here, we create a Dictionary for our vocabulary by reading through all the sente
 ```python
 vocab = {}
 with open('words.txt') as f:
-  for i, l in enumerate(f.read().splitlines()):
-    vocab[l] = i
-  print("Number of words:", len(vocab))
-  vocab['<PAD>'] = len(vocab)
+    for i, l in enumerate(f.read().splitlines()):
+        vocab[l] = i
+    print("Number of words:", len(vocab))
+    vocab['<PAD>'] = len(vocab)
 ```
 
 ### Extracting Sentences from the Dataset
@@ -286,14 +286,14 @@ def data_generator(batch_size, x, y,pad, shuffle=False, verbose=False):
                 Y[i, j] = y_i[j]
 
         if verbose: print("index=", index)
-        yield((X,Y))
+        yield((X, Y))
 ```
 
 ### Splitting into Test and Train
 
 ```python
 from sklearn.model_selection import train_test_split
-x_train,x_test,y_train,y_test = train_test_split(X,y,test_size = 0.1,random_state=1)
+x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=1)
 ```
 
 ### Building the Model
@@ -317,14 +317,14 @@ We use the:
 ```python
 def NERmodel(tags, vocab_size=35181, d_model = 50):
 
-  model = tl.Serial(
-    # tl.Embedding(vocab_size, d_model),
-    trax.models.reformer.Reformer(vocab_size, d_model, ff_activation=tl.LogSoftmax),
-    tl.Dense(tags),
-    tl.LogSoftmax()
-  )
-
-  return model
+    model = tl.Serial(
+        # tl.Embedding(vocab_size, d_model),
+        trax.models.reformer.Reformer(vocab_size, d_model, ff_activation=tl.LogSoftmax),
+        tl.Dense(tags),
+        tl.LogSoftmax()
+    )
+  
+    return model
   
 model = NERmodel(tags = 17)
 ```
@@ -343,7 +343,7 @@ train_generator = trax.data.inputs.add_loss_weights(
     id_to_mask=vocab['<PAD>'])
 
 eval_generator = trax.data.inputs.add_loss_weights(
-    data_generator(batch_size, x_test, y_test,vocab['<PAD>'] ,True),
+    data_generator(batch_size, x_test, y_test,vocab['<PAD>'], True),
     id_to_mask=vocab['<PAD>'])
 ```
 
@@ -352,15 +352,15 @@ def train_model(model, train_generator, eval_generator, train_steps=1,
                 output_dir='model'):
     train_task = training.TrainTask(
       train_generator,  
-      loss_layer = tl.CrossEntropyLoss(), 
-      optimizer = trax.optimizers.Adam(0.01), 
+      loss_layer = tl.CrossEntropyLoss(),
+      optimizer = trax.optimizers.Adam(0.01),
       n_steps_per_checkpoint=10
     )
 
     eval_task = training.EvalTask(
       labeled_data = eval_generator, 
-      metrics = [tl.CrossEntropyLoss(), tl.Accuracy()], 
-      n_eval_batches = 10 
+      metrics = [tl.CrossEntropyLoss(), tl.Accuracy()],
+      n_eval_batches = 10
     )
 
     training_loop = training.Loop(
@@ -369,7 +369,7 @@ def train_model(model, train_generator, eval_generator, train_steps=1,
         eval_tasks = eval_task, 
         output_dir = output_dir) 
 
-    training_loop.run(n_steps = train_steps)
+    training_loop.run(n_steps=train_steps)
     return training_loop
 ```
 
