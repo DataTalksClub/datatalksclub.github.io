@@ -1,7 +1,7 @@
 ---
-short: emilidral
-title: "Emili Dral"
-picture: "images/authors/emilidral.jpg"
+short: emelidral
+title: "Emeli Dral"
+picture: "images/authors/emelidral.jpg"
 twitter: EmeliDral
 linkedin: emelidral
 ---
