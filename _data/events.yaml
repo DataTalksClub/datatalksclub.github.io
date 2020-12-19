@@ -37,6 +37,7 @@
   speakers: [rahuljain]
   type: podcast
   link: https://www.eventbrite.com/e/131724151483
+  youtube: https://www.youtube.com/watch?v=LQvwTNQbPg4
 - time: 2020-12-15 17:00:00
   title: AWS Glue DataBrew
   speakers: [dmitrymuzalevskiy]
