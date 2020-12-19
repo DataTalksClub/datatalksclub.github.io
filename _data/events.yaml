@@ -50,6 +50,7 @@
   type: podcast
   link: https://www.eventbrite.com/e/131260685243
   youtube: https://www.youtube.com/watch?v=Sb4CJlonB3c
+  anchor: https://anchor.fm/datatalksclub/episodes/Standing-out-as-a-Data-Scientist---Luke-Whipps-envr7e
 - time: 2020-12-08 17:00:00
   title: Deploying Serverless Machine Learning with AWS
   speakers: [sejalvaidya]
