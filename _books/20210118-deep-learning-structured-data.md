@@ -1,10 +1,10 @@
 ---
 title: "Deep Learning with Structured Data"
 description: "Book of the Week. Deep Learning with Structured Data by Mark Ryan"
-cover: "images/books/20210125-deep-learning-structured-data/cover.jpg"
-image: "images/books/20210125-deep-learning-structured-data/preview.jpg"
-start: 2021-01-25 00:00:00
-end: 2021-01-29 23:59:59
+cover: "images/books/20210118-deep-learning-structured-data/cover.jpg"
+image: "images/books/20210118-deep-learning-structured-data/preview.jpg"
+start: 2021-01-18 00:00:00
+end: 2021-01-22 23:59:59
 authors: [markryan]
 links: 
   - text: Book's page on Manning
