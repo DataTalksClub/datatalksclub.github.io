@@ -30,7 +30,21 @@ and, in general, about the topic of their book.
 {% endfor %}
 </div>
 
-
 ## Archive
 
-Nothing here yet
+{% assign past = site.books 
+  | where_exp: "book", "book.end < site.time"
+  | sort: 'end' %}
+
+<ul>
+{% for book in past %}
+<li>
+  <a href="{{ book.url }}">{{ book.title }}</a> by
+    {% for a in book.authors %}
+      {% assign author = site.people | where: "short", a | first  %}
+      <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+    (from {{ book.start | date_to_string }} to {{ book.end | date_to_string }})
+</li>
+{% endfor %}
+</ul>

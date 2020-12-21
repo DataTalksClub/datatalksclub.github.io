@@ -49,3 +49,12 @@ docker run -it \
     _posts/2020-12-07-practical-guide-better-code.md \
     images/2020-12-07-practical-guide-better-code/cover.jpg
 ```
+
+Test
+
+```bash
+cd previews
+node render_book.js \
+    ../_books/20210125-deep-learning-structured-data.md \
+    ../images/books/20210125-deep-learning-structured-data/preview.jpg
+```

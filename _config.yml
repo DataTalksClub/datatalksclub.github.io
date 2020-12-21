@@ -5,6 +5,14 @@ name: DataTalks.Club
 twitter: '@DataTalksClub'
 permalink: /blog/:title.html
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - README.md
+  - previews/
+
+
 collections:
   books:
     output: true
