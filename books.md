@@ -39,7 +39,7 @@ and, in general, about the topic of their book.
 <ul>
 {% for book in past %}
 <li>
-  <a href="{{ book.url }}">{{ book.title }}</a> by
+  <a href="{{ book.id }}.html">{{ book.title }}</a> by
     {% for a in book.authors %}
       {% assign author = site.people | where: "short", a | first  %}
       <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
