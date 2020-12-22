@@ -54,7 +54,8 @@ Test
 
 ```bash
 cd previews
+BOOK=20210125-mastering-ml-algorithms-2ed
 node render_book.js \
-    ../_books/20210125-deep-learning-structured-data.md \
-    ../images/books/20210125-deep-learning-structured-data/preview.jpg
+    ../_books/${BOOK}.md \
+    ../images/books/${BOOK}/preview.jpg
 ```
