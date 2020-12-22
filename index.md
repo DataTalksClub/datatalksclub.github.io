@@ -84,6 +84,7 @@ layout: home
               {% assign author = site.people | where: "short", a | first  %}
               <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
             {% endfor %}
+            ({{ book.start | date_to_string }} &ndash; {{ book.end | date_to_string }})
         </li>
       {% endfor %}
     </ul>
