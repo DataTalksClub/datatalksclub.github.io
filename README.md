@@ -40,14 +40,15 @@ Now let's generate the image:
 * the output file: `images/2020-12-07-practical-guide-better-code/cover.jpg`
 
 ```bash
+POST="2020-12-23-slack-communities"
 docker run -it \
     -v $(pwd)/_posts:/app/_posts \
     -v $(pwd)/_people:/app/_people \
     -v $(pwd)/images:/app/images \
     -u $(id -u ${USER}):$(id -g ${USER}) \
     datatalks-cover-generator \
-    _posts/2020-12-07-practical-guide-better-code.md \
-    images/2020-12-07-practical-guide-better-code/cover.jpg
+    _posts/${POST}.md \
+    images/${POST}/cover.jpg
 ```
 
 Test
