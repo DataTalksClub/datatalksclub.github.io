@@ -1,0 +1,38 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>{{site.url}}</loc>
+    </url>
+    <url>
+        <loc>{{site.url}}/people.html</loc>
+    </url>
+    <url>
+        <loc>{{site.url}}/articles.html</loc>
+    </url>
+    <url>
+        <loc>{{site.url}}/slack.html</loc>
+    </url>
+    <url>
+        <loc>{{site.url}}/events.html</loc>
+    </url>
+    <url>
+        <loc>{{site.url}}/books.html</loc>
+    </url>
+    {% for post in site.posts %}
+    <url>
+        <loc>{{site.url}}{{ post.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endfor %}
+    {% for author in site.people %}
+    <url>
+        <loc>{{site.url}}{{ author.id }}.html</loc>
+    </url>
+    {% endfor %}
+    {% for book in site.books %}
+    <url>
+        <loc>{{site.url}}{{ book.id }}.html</loc>
+    </url>
+    {% endfor %}
+</urlset>
