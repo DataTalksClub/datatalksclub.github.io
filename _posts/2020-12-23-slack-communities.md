@@ -24,7 +24,7 @@ At DataTalks.Club you can talk about any data-related topic: analytics, data sci
 
 There are also weekly events and a podcast.
 
-Instruction for joining: [slack.html](slack.html).
+Instruction for joining: [slack.html](/slack.html).
 
 
 ## 2. MLOps.community
