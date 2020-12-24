@@ -33,25 +33,25 @@ If you want to talk about MLOps and ML engineering in general — that's the bes
 
 There are weekly meetups and a podcast featuring well-known MLOps experts. 
 
-To join, go to use this link: [go.mlops.community/slack](https://go.mlops.community/slack).
+To join, go to use this link: [go.mlops.community/slack](https://go.mlops.community/slack){:target="_blank"}.
 
 ## 3. Locally Optimistic
 
 Locally Optimistic is a very active community of people interested in data and analytics. Also, there are meetups. 
 
-Instructions for joining: [locallyoptimistic.com/community](https://locallyoptimistic.com/community/). 
+Instructions for joining: [locallyoptimistic.com/community](https://locallyoptimistic.com/community/){:target="_blank"}.
 
 ## 4. DataWithDanny
 
-This community is founded by [Danny Ma](https://www.linkedin.com/in/datawithdanny/), a well-known data science expert. You can talk about any data-related topic, and, most importantly, ask Danny any questions in the `#ask-danny` channel. 
+This community is founded by [Danny Ma](https://www.linkedin.com/in/datawithdanny/){:target="_blank"}, a well-known data science expert. You can talk about any data-related topic, and, most importantly, ask Danny any questions in the `#ask-danny` channel. 
 
-Instructions for joining: [datawithdanny.com](https://datawithdanny.com/).
+Instructions for joining: [datawithdanny.com](https://datawithdanny.com/){:target="_blank"}.
 
 ## 5. DataMuni (dm-learn)
 
-This community is created by [Abhishek Thakur](https://www.linkedin.com/in/abhi1thakur/), the World's first 4x Kaggle Grandmaster. You can talk about data science and machine learning topics there. There are more than 6,000 community members.
+This community is created by [Abhishek Thakur](https://www.linkedin.com/in/abhi1thakur/){:target="_blank"}, the World's first 4x Kaggle Grandmaster. You can talk about data science and machine learning topics there. There are more than 6,000 community members.
 
-To join, go to [datamuni.com](https://datamuni.com/) and click on "Join Slack".
+To join, go to [datamuni.com](https://datamuni.com/){:target="_blank"} and click on "Join Slack".
 
 ## 6. The AI Guild
 
@@ -59,7 +59,7 @@ From the guild's website: "the AI Guild is the go-to community for data and busi
 
 The Guild has regular events, focusing on career development and practical aspects of data science.
 
-To join, go to [theguild.ai](https://www.theguild.ai/), then click on "Join the community". 
+To join, go to [theguild.ai](https://www.theguild.ai/){:target="_blank"}, then click on "Join the community".
 
 ## 7. Riga DS Club
 
@@ -68,15 +68,15 @@ From the club's website:
 
 It's not just for people from Riga — everyone is welcome (I'm personally not from Riga). The club hosts bi-weekly events. 
 
-To join, go to [rigadsclub.com/join-us](https://rigadsclub.com/join-us) and fill in the form.
+To join, go to [rigadsclub.com/join-us](https://rigadsclub.com/join-us){:target="_blank"} and fill in the form.
 
 ## 8. OpenDataScience
 
-[ODS.ai](http://ods.ai) is the largest and the most active community I know of. There are more than 40,000 members, and it's growing. You can talk about anything data-related there (and non-data related as well).
+[ODS.ai](http://ods.ai){:target="_blank"} is the largest and the most active community I know of. There are more than 40,000 members, and it's growing. You can talk about anything data-related there (and non-data related as well).
 
 Most of the activity, however, happens in Russian. There are also some English-speaking channels, so you're more than welcome to join it.
 
-To join, go to [ods.ai/join-community](https://ods.ai/join-community) and follow the instructions.   
+To join, go to [ods.ai/join-community](https://ods.ai/join-community){:target="_blank"} and follow the instructions.
 
 &nbsp;
 
