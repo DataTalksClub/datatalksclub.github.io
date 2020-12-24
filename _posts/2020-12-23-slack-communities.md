@@ -68,7 +68,7 @@ From the club's website:
 
 It's not just for people from Riga — everyone is welcome (I'm personally not from Riga). The club hosts bi-weekly events. 
 
-To join, go to [rigadsclub.com](https://rigadsclub.com/).
+To join, go to [rigadsclub.com/join-us](https://rigadsclub.com/join-us) and fill in the form.
 
 ## 8. OpenDataScience
 
