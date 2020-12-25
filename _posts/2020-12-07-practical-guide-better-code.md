@@ -2,7 +2,7 @@
 layout: post
 title: "A practical guide for better-looking python code"
 description: "Setting up a CI/CD pipeline using GitHub"
-image: "images/2020-12-07-practical-guide-better-code/cover.jpg"
+image: "images/posts/2020-12-07-practical-guide-better-code/cover.jpg"
 authors: [olegpolivin]
 tags: [github, python, cicd]
 ---
@@ -34,7 +34,7 @@ I create an empty repository to illustrate how one sets up a CI/CD pipeline step
 git clone https://github.com/olegpolivin/Fizz-Buzz-CI-CD.git
 ```
 
-<img src="/images/2020-12-07-practical-guide-better-code/empty-repo.png" />
+<img src="/images/posts/2020-12-07-practical-guide-better-code/empty-repo.png" />
 
 
 ### Rules for branches
@@ -43,7 +43,7 @@ git clone https://github.com/olegpolivin/Fizz-Buzz-CI-CD.git
 As usual I can work on the code, and then push to the `main` branch. That’s what I want to prohibit.
 Go to the `Settings` menu for a given repo and choose `Branches`.
 
-<img src="/images/2020-12-07-practical-guide-better-code/branches.png" />
+<img src="/images/posts/2020-12-07-practical-guide-better-code/branches.png" />
 
 
 There are two ways to prevent pushing to the main branch, and you can choose it in the Add rule section. They are:
@@ -58,7 +58,7 @@ However, indeed, this will prevent you from pushing to `main` branch, but you ca
 
 Click on `Add rule`, and here is the rule that I’ve added:
 
-<img src="/images/2020-12-07-practical-guide-better-code/branch-protection.png" />
+<img src="/images/posts/2020-12-07-practical-guide-better-code/branch-protection.png" />
 
 
 In particular, I have added:
@@ -125,7 +125,7 @@ Creating a pull request will run the script above. Pull request will always pass
 
 It is necessary just to add some modifications to the `Settings -> Branches -> Rules part`. See what’s new:
 
-<img src="/images/2020-12-07-practical-guide-better-code/branch-protection-rule.png" />
+<img src="/images/posts/2020-12-07-practical-guide-better-code/branch-protection-rule.png" />
 
 Notice that `build (3.7)` has appeared among status checks. This corresponds to the name of the job (`build`) and python version `3.7`. I made a small modification to the `README.md` file, and let’s see if I can push it now to the main branch. Here is the error I get:
 
@@ -151,13 +151,13 @@ git push origin dev
 A new branch called `dev` is created on the remote repository. What’s left is to create a pull request, and merge it to the `main` branch.
 
 
-<img src="/images/2020-12-07-practical-guide-better-code/pull-request.png" />
+<img src="/images/posts/2020-12-07-practical-guide-better-code/pull-request.png" />
 
 
 It becomes possible to merge after all checks are run:
 
 
-<img src="/images/2020-12-07-practical-guide-better-code/status-check-passed.png" />
+<img src="/images/posts/2020-12-07-practical-guide-better-code/status-check-passed.png" />
 
 
 We would like to introduce actions or tests to be performed, before the pull request is ready to be approved, so let’s provide code that will be actually checked. We will consider solving the `FizzBuzz` problem, see the next section.
@@ -264,7 +264,7 @@ jobs:
 
 Let’s now try to push the solution above to the repository.
 
-<img src="/images/2020-12-07-practical-guide-better-code/fail.png" />
+<img src="/images/posts/2020-12-07-practical-guide-better-code/fail.png" />
 
 
 And we see that it fails on the first check. When it fails it does not proceed to the next steps, but it turns out that the code above for solving the `FizzBuzz` problem will fail on every check.
@@ -360,12 +360,12 @@ After the file is created in the repository, run `pre-commit install` to install
 Here is a small test: let’s change the neat `fizzbuzz.py` code to get back to the one that does not pass the checks and see what happens. Here is a part of the result: we see where it fails. Note that the pre-commit hook modifies files for some commands (like black or isort).
 
 
-<img src="/images/2020-12-07-practical-guide-better-code/pre-commit.png" />
+<img src="/images/posts/2020-12-07-practical-guide-better-code/pre-commit.png" />
 
 Coming back to the neat version of the `fizzbuzz.py`, the pre-commit hook test is passed. That’s how it looks like in my case:
 
 
-<img src="/images/2020-12-07-practical-guide-better-code/pre-commit-pass.png" />
+<img src="/images/posts/2020-12-07-practical-guide-better-code/pre-commit-pass.png" />
 
 Nice!
 
@@ -425,7 +425,7 @@ Append the code below to the `ci.yml` file:
 
 And here is the result:
 
-<img src="/images/2020-12-07-practical-guide-better-code/test-pass.png" />
+<img src="/images/posts/2020-12-07-practical-guide-better-code/test-pass.png" />
 
 
 But that was the case when everything is ok. We are happy.
@@ -452,7 +452,7 @@ def fizz_buzz(num: int) -> str:
 
 Great, let’s push and see that one test has failed:
 
-<img src="/images/2020-12-07-practical-guide-better-code/test-fail.png" />
+<img src="/images/posts/2020-12-07-practical-guide-better-code/test-fail.png" />
 
 
 That is, by introducing unit tests into the CI/CD pipeline we were able to catch the problem before merging pull request into the `main` branch.

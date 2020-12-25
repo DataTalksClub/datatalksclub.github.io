@@ -3,7 +3,7 @@ layout: post
 title: "Roles in a Data Team"
 subtitle: "Different roles in a data team and their responsibilities"
 description: "Different roles in a data team and their responsibilities"
-image: "images/2020-12-14-data-roles/cover.jpg"
+image: "images/posts/2020-12-14-data-roles/cover.jpg"
 authors: [alexeygrigorev]
 tags: [team, process, podcast]
 ---
@@ -36,7 +36,7 @@ A typical data team consists of the following roles:
 * Site reliability engineers / MLOps engineers.
 
 <figure>
-<img src="/images/2020-12-14-data-roles/roles.png" />
+<img src="/images/posts/2020-12-14-data-roles/roles.png" />
 <figcaption>
 The data team.
 </figcaption>
@@ -55,7 +55,7 @@ On this platform, sellers sometimes have problems with identifying the correct c
 
 
 <figure>
-<img src="/images/2020-12-14-data-roles/category-classification.png" />
+<img src="/images/posts/2020-12-14-data-roles/category-classification.png" />
 <figcaption>
 Use case: we want to build a service that automatically identifies the correct category for a listing.
 </figcaption>
@@ -69,7 +69,7 @@ A product manager is someone responsible for developing products. Their goal is 
 
 
 <figure>
-<img src="/images/2020-12-14-data-roles/pm.png" />
+<img src="/images/posts/2020-12-14-data-roles/pm.png" />
 <figcaption>
 A product manager makes sure the team builds a product that users will use.
 </figcaption>
@@ -107,7 +107,7 @@ Data analysts know how to analyze the data available in the company. They discov
 
 
 <figure>
-<img src="/images/2020-12-14-data-roles/analyst.png" />
+<img src="/images/posts/2020-12-14-data-roles/analyst.png" />
 <figcaption>
 Analysts discover insights in data.
 </figcaption>
@@ -142,7 +142,7 @@ For our example, product managers turn to data analysts to help them quantify th
 
 
 <figure>
-<img src="/images/2020-12-14-data-roles/pm-da-example.png" />
+<img src="/images/posts/2020-12-14-data-roles/pm-da-example.png" />
 <figcaption>
 The PM turns to the analyst to understand the extent of the problem.
 </figcaption>
@@ -169,7 +169,7 @@ A data analyst fetches the data, looks at it, explains what’s going on to the 
 
 
 <figure>
-<img src="/images/2020-12-14-data-roles/ds.png" />
+<img src="/images/posts/2020-12-14-data-roles/ds.png" />
 <figcaption>
 Data scientists create machine learning services.
 </figcaption>
@@ -196,7 +196,7 @@ Data engineers do all the heavy lifting when it comes to data. A lot of work nee
 
 
 <figure>
-<img src="/images/2020-12-14-data-roles/de.png" />
+<img src="/images/posts/2020-12-14-data-roles/de.png" />
 <figcaption>
 Data engineers make the data available for data analysts and data scientists.
 </figcaption>
@@ -229,7 +229,7 @@ Machine learning engineers take whatever data scientists build and help them sca
 
 
 <figure>
-<img src="/images/2020-12-14-data-roles/ds-mle.png" />
+<img src="/images/posts/2020-12-14-data-roles/ds-mle.png" />
 <figcaption>
 Machine learning engineers help data scientists put the model into production.
 </figcaption>
@@ -260,7 +260,7 @@ SREs aren’t strictly limited to working with data. Their role is more general:
 
 
 <figure>
-<img src="/images/2020-12-14-data-roles/mle-sre.png" />
+<img src="/images/posts/2020-12-14-data-roles/mle-sre.png" />
 <figcaption>
 SREs take care of the infrastructure and make sure the services work reliably.
 </figcaption>

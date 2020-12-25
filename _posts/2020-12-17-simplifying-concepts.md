@@ -3,7 +3,7 @@ layout: post
 title: "Simplifying Difficult Concepts"
 subtitle: "Technical explanations for a non-technical audience"
 description: "Technical explanations for a non-technical audience"
-image: "images/2020-12-17-simplifying-concepts/cover.jpg"
+image: "images/posts/2020-12-17-simplifying-concepts/cover.jpg"
 authors: [davidgates]
 tags: [communication]
 ---
@@ -24,7 +24,7 @@ does, what happened to cause this issue, and what will happen if you don’t fix
 is that it's going to cost you quite a bit of money.
 
 <figure>
-<img src="/images/2020-12-17-simplifying-concepts/hand.jpg" />
+<img src="/images/posts/2020-12-17-simplifying-concepts/hand.jpg" />
 <figcaption>
 Image by <a href="https://pixabay.com/users/counselling-440107/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=707699">Ulrike Mai</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=707699">Pixabay</a>
 </figcaption>
@@ -66,7 +66,7 @@ process.
 2. Relatable example- After priming the audience, choose a relatable example that highlights the concepts you’re going to introduce. By choosing something the audience is familiar with, they’re going to be more receptive to your talk.
 3. Summarize- Go over the details one more time.
 
-<img src="/images/2020-12-17-simplifying-concepts/summary-explanation.png" />
+<img src="/images/posts/2020-12-17-simplifying-concepts/summary-explanation.png" />
 
 ## Putting It Together
 
@@ -90,7 +90,7 @@ taxi ride you understand regression.
 > beyond that constant."
 
 <figure>
-<img src="/images/2020-12-17-simplifying-concepts/taxi.jpg" />
+<img src="/images/posts/2020-12-17-simplifying-concepts/taxi.jpg" />
 <figcaption>
 Image by <a href="https://pixabay.com/users/life-of-pix-364018/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=498437">LEEROY Agency</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=498437">Pixabay</a>
 </figcaption>
@@ -133,7 +133,7 @@ Now that you have the framework, you can put it to use. A great way to get start
 how you could explain classification in a similar way.
 
 <figure>
-<img src="/images/2020-12-17-simplifying-concepts/workplace.jpg" />
+<img src="/images/posts/2020-12-17-simplifying-concepts/workplace.jpg" />
 <figcaption>
 Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Pixabay</a>
 </figcaption>

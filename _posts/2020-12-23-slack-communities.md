@@ -3,7 +3,7 @@ layout: post
 title: "Eight Data Science Slack Communities to Join in 2021"
 subtitle: "An up-to-date list of active data science slack communities"
 description: "An up-to-date list of active data science slack communities"
-image: "images/2020-12-23-slack-communities/cover.jpg"
+image: "images/posts/2020-12-23-slack-communities/cover.jpg"
 authors: [alexeygrigorev]
 tags: [misc]
 ---
@@ -15,7 +15,7 @@ It's hard to find an up-to-date list, so I decided to fix it and create a list m
 In this article, I'll tell you about the communities I'm a part of.
 
 
-<img src="/images/2020-12-23-slack-communities/slacks.jpg">
+<img src="/images/posts/2020-12-23-slack-communities/slacks.jpg">
 
 
 ## 1. DataTalks.Club
