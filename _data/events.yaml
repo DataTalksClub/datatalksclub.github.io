@@ -1,34 +1,43 @@
+# february 2021
+
+- time: 2021-02-02 17:00:00
+  title: Feature Stores
+  speakers: [willempienaar]
+  type: webinar
+  link: https://eventbrite.com/e/XXXX
+  draft: true
+
 # january 2021
 
 - time: 2021-01-29 17:00:00
-  title: TBA
-  speakers: []
+  title: The Rise of MLOps
+  speakers: [theofilospapapanagiotou]
   type: podcast
-  link: https://www.eventbrite.com/e/XXXX
+  link: https://eventbrite.com/e/XXXX
   draft: true
 - time: 2021-01-26 17:00:00
   title: Feature Stores
   speakers: [neallathia]
   type: webinar
-  link: https://www.eventbrite.com/e/XXXX
+  link: https://eventbrite.com/e/XXXX
   draft: true
 - time: 2021-01-22 17:00:00
   title: Developer Advocate
   speakers: [elleobrien]
   type: podcast
-  link: https://www.eventbrite.com/e/XXXX
+  link: https://eventbrite.com/e/XXXX
   draft: true
 - time: 2021-01-19 17:00:00
   title: Machine Learning Performance Monitoring
   speakers: [emelidral]
   type: webinar
-  link: https://www.eventbrite.com/e/133155127571
+  link: https://eventbrite.com/e/133155127571
 - time: 2021-01-15 17:00:00
-  title: Writing
+  title: The Importance of Writing in a Tech Career
   speakers: [eugeneyan]
   type: podcast
-  link: https://www.eventbrite.com/e/XXXX
-  draft: true
+  link: https://eventbrite.com/e/134206817203
+
 
 # december 2020
 
@@ -36,46 +45,47 @@
   title: Mentoring
   speakers: [rahuljain]
   type: podcast
-  link: https://www.eventbrite.com/e/131724151483
+  link: https://eventbrite.com/e/131724151483
   youtube: https://www.youtube.com/watch?v=LQvwTNQbPg4
+  anchor: https://anchor.fm/datatalksclub/episodes/Mentoring---Rahul-Jain-eo7cmu
 - time: 2020-12-15 17:00:00
   title: AWS Glue DataBrew
   speakers: [dmitrymuzalevskiy]
   type: webinar
-  link: https://www.eventbrite.com/e/130916443607
+  link: https://eventbrite.com/e/130916443607
   youtube: https://www.youtube.com/watch?v=HQTKAcuCbTc
 - time: 2020-12-11 17:00:00
   title: Standing out as a Data Scientist
   speakers: [lukewhipps]
   type: podcast
-  link: https://www.eventbrite.com/e/131260685243
+  link: https://eventbrite.com/e/131260685243
   youtube: https://www.youtube.com/watch?v=Sb4CJlonB3c
   anchor: https://anchor.fm/datatalksclub/episodes/Standing-out-as-a-Data-Scientist---Luke-Whipps-envr7e
 - time: 2020-12-08 17:00:00
   title: Deploying Serverless Machine Learning with AWS
   speakers: [sejalvaidya]
   type: webinar
-  link: https://www.eventbrite.com/e/130823369219
+  link: https://eventbrite.com/e/130823369219
   youtube: https://www.youtube.com/watch?v=79B8AOKkpho
 - time: 2020-12-04 12:00:00
   title: Building a Data Science Team
   speakers: [dattran]
   type: podcast
-  link: https://www.eventbrite.com/e/130733484371
+  link: https://eventbrite.com/e/130733484371
   youtube: https://www.youtube.com/watch?v=ScDIB-3O77A
   anchor: https://anchor.fm/datatalksclub/episodes/Building-a-Data-Science-Team---Dat-Tran-enlmef
 - time: 2020-12-03 17:00:00
   title: Processes in a Data Science Project
   speakers: [alexeygrigorev]
   type: podcast
-  link: https://www.eventbrite.com/e/129939190617
+  link: https://eventbrite.com/e/129939190617
   youtube: https://www.youtube.com/watch?v=SesVTDklFYQ
   anchor: https://anchor.fm/datatalksclub/episodes/Processes-in-a-Data-Science-Project---Alexey-Grigorev-encdlg
 - time: 2020-12-01 17:00:00
   title: Essential Communication Skills for Data Professionals
   speakers: [davidgates]
   type: webinar
-  link: https://www.eventbrite.com/e/128509793251
+  link: https://eventbrite.com/e/128509793251
   youtube: https://www.youtube.com/watch?v=ZRtVBflBkuc
 
 # november 2020
@@ -84,24 +94,24 @@
   title: Fighting Fraud with Triplet Loss
   speakers: [artemiifrolov]
   type: webinar
-  link: https://www.eventbrite.com/e/127745850277
+  link: https://eventbrite.com/e/127745850277
   youtube: https://www.youtube.com/watch?v=1Jabakbryyk
 - time: 2020-11-20 12:00:00
   title: Roles in a Data Team
   speakers: [alexeygrigorev]
   type: podcast
-  link: https://www.eventbrite.com/e/127017208891
+  link: https://eventbrite.com/e/127017208891
   youtube: https://www.youtube.com/watch?v=2ZOnA19sDpM
   anchor: https://anchor.fm/datatalksclub/episodes/Roles-in-a-data-team---Alexey-Grigorev-emqcft
 - time: 2020-11-17 17:00:00
   title: Customer Segmentation 2.0
   speakers: [nishantmohan]
   type: webinar
-  link: https://www.eventbrite.com/e/128089903349
+  link: https://eventbrite.com/e/128089903349
   youtube: https://www.youtube.com/watch?v=pWqD7SGuihs
 - time: 2020-11-10 17:00:00
   title: Deploying models with AWS Sagemaker
   speakers: [dmitrymuzalevskiy]
   type: webinar
-  link: https://www.eventbrite.com/e/127017208891
+  link: https://eventbrite.com/e/127017208891
   youtube: https://www.youtube.com/watch?v=2ZOnA19sDpM
