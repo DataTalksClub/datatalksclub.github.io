@@ -33,7 +33,7 @@ If you want to talk about MLOps and ML engineering in general — that's the bes
 
 There are weekly meetups and a podcast featuring well-known MLOps experts. 
 
-To join, go to use this link: [go.mlops.community/slack](https://go.mlops.community/slack){:target="_blank"}.
+To join, go to [go.mlops.community/slack](https://go.mlops.community/slack){:target="_blank"}.
 
 ## 3. Locally Optimistic
 
