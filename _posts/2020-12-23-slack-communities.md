@@ -43,7 +43,7 @@ Instructions for joining: [locallyoptimistic.com/community](https://locallyoptim
 
 ## 4. DataWithDanny
 
-This community is founded by [Danny Ma](https://www.linkedin.com/in/datawithdanny/){:target="_blank"}, a well-known data science expert. You can talk about any data-related topic, and, most importantly, ask Danny any questions in the `#ask-danny` channel. 
+This community is founded by [Danny Ma](https://www.linkedin.com/in/datawithdanny/){:target="_blank"}, a well-known data science expert. You can talk about any data-related topic, and, most importantly, ask Danny any question in the `#ask-danny` channel. 
 
 Instructions for joining: [datawithdanny.com](https://datawithdanny.com/){:target="_blank"}.
 
