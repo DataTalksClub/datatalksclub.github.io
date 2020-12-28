@@ -1,6 +1,6 @@
 <head>
 
-  {% if (site.google_analytics) and not (site.url contains 'localhost') %}
+  {% if site.google_analytics %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
