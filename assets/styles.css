@@ -129,3 +129,24 @@ blockquote p:last-child {
 code {
   color: black;
 }
+
+.author-name {
+  font-size: 200%;
+}
+
+.author-name img {
+  height: 90px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.author-links {
+  font-size: 160%;
+  text-align: center;
+}
+
+.author-links a {
+  padding-left: 5px;
+  padding-right: 5px;
+  color: black;
+}

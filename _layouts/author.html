@@ -9,18 +9,28 @@
     <div class="row">
       <div class="col-lg-8 mx-auto">
 
-        <div class="content-head d-flex justify-content-between align-items-center">
-          <div>
-            <h2>{{ page.title }}</h2>
-          </div>
-          <div>
-            <div class="social">
-            </div>
-          </div>
+        <div class="my-3 author-name text-center">
+          <img class="author-image" src="/{{ page.picture }}" />
+          {{ page.title }}
         </div>
 
-        <div class="content-main mb-5">
+        <div class="content-main my-3">
           {{ content }}
+        </div>
+
+        <div class="author-links my-3">
+          {% if page.twitter %} 
+            <a href="https://twitter.com/{{ page.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a>
+          {% endif %}
+          {% if page.linkedin %} 
+            <a href="https://linkedin.com/in/{{ page.linkedin }}" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+          {% endif %}
+          {% if page.github %} 
+            <a href="https://github.com/{{ page.github }}" target="_blank"><i class="fab fa-github"></i></a>
+          {% endif %}
+          {% if page.web %} 
+            <a href="{{ page.web }}" target="_blank"><i class="fas fa-link"></i></a>
+          {% endif %}
         </div>
 
         {% assign articles = site.posts 
@@ -66,6 +76,8 @@
             {% endfor %}
           </ul>
         {% endif %}
+
+
 
         <div class="article-divider"></div>
 
