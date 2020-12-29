@@ -18,6 +18,8 @@ collections:
     output: true
   people:
     output: true
+  conferences:
+    output: true
 
 
 defaults:

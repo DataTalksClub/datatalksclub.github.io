@@ -3,7 +3,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>{{site.url}}</loc>
+        <loc>{{site.url}}/</loc>
     </url>
     <url>
         <loc>{{site.url}}/people.html</loc>
@@ -35,4 +35,10 @@
         <loc>{{site.url}}{{ book.id }}.html</loc>
     </url>
     {% endfor %}
+    {% for conf in site.conferences %}
+    <url>
+        <loc>{{site.url}}{{ conf.id }}.html</loc>
+    </url>
+    {% endfor %}
+
 </urlset>
