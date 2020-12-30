@@ -47,8 +47,7 @@
 
         {% assign events = site.data.events 
           | where_exp: "event", "event.speakers contains page.short"
-          | sort: 'time'
-          | reverse %}
+          | sort: 'time' %}
 
         {% if events.size > 0 %}
           <h3>Events</h3>
@@ -76,8 +75,6 @@
             {% endfor %}
           </ul>
         {% endif %}
-
-
 
         <div class="article-divider"></div>
 

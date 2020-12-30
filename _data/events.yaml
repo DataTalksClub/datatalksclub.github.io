@@ -1,5 +1,26 @@
 # february 2021
 
+- time: 2021-02-26 14:00:00
+  title: "DataTalks.Club Conference: ML in Production"
+  speakers: [larysavisengeriyeva, mikiobraun, elleobrien]
+  type: conference
+  link: /conferences/2021-feb.html#machine-learning-in-production
+- time: 2021-02-19 14:00:00
+  title: "DataTalks.Club Conference: Career in Data"
+  speakers: [dannyma, admondleekinlim, parulpandey, vinvashishta]
+  type: conference
+  link: /conferences/2021-feb.html#career-in-data
+- time: 2021-02-12 14:00:00
+  title: "DataTalks.Club Conference: Product and Process"
+  speakers: [eliasnema, susanwalsh, elenasamuylova, danbecker]
+  type: conference
+  link: /conferences/2021-feb.html#product-and-process
+- time: 2021-02-05 14:00:00
+  title: "DataTalks.Club Conference: ML Use Cases"
+  speakers: [philwinder, himanshuupreti, mahmoudaziz, eugeneyan]
+  type: conference
+  link: /conferences/2021-feb.html#machine-learning-use-cases
+
 - time: 2021-02-02 17:00:00
   title: Feature Stores
   speakers: [willempienaar]
