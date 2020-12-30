@@ -5,7 +5,7 @@ picture: "images/authors/elleobrien.jpg"
 github: elleobrien
 twitter: DrElleOBrien
 linkedin: drelleobrien
-web: elle-obrien.com
+web: https://elle-obrien.com
 ---
 
 Elle is a data scientist at Iterative, a startup building open source software tools for machine learning,
