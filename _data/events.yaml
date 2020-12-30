@@ -43,11 +43,10 @@
   link: https://eventbrite.com/e/XXXX
   draft: true
 - time: 2021-01-22 17:00:00
-  title: Developer Advocate
+  title: Developer Advocacy for Data Science
   speakers: [elleobrien]
   type: podcast
-  link: https://eventbrite.com/e/XXXX
-  draft: true
+  link: https://eventbrite.com/e/134716395365
 - time: 2021-01-19 17:00:00
   title: Machine Learning Performance Monitoring
   speakers: [emelidral]

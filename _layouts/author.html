@@ -46,6 +46,7 @@
         {% endif %}
 
         {% assign events = site.data.events 
+          | where_exp: "event", "event.draft != true"
           | where_exp: "event", "event.speakers contains page.short"
           | sort: 'time' %}
 
