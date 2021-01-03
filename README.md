@@ -54,6 +54,7 @@ docker run -it \
 Test
 
 ```bash
+nvm use v10.17.0
 cd previews
 BOOK=20210125-mastering-ml-algorithms-2ed
 node render_book.js \

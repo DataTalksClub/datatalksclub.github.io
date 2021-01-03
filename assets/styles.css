@@ -109,7 +109,7 @@ blockquote p:last-child {
 }
 
 .book-cover img {
-  max-height: 160px;
+  max-width: 130px;
   margin-right: 10px;
 }
 

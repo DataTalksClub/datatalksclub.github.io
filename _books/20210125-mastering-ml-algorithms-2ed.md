@@ -4,7 +4,7 @@ description: "Book of the Week. Mastering Machine Learning Algorithms (2nd editi
 cover: "images/books/20210125-mastering-ml-algorithms-2ed/cover.jpg"
 image: "images/books/20210125-mastering-ml-algorithms-2ed/preview.jpg"
 start: 2021-01-25 00:00:00
-end: 2021-01-29 23:59:59
+end: 2021-01-29 22:59:59
 authors: [giuseppebonaccorso]
 links: 
   - text: Book's page on Packt
