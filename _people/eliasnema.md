@@ -7,4 +7,7 @@ linkedin: eliasnema
 web: https://eliasnema.com/
 ---
 
-Bio goes here
+Elias leads search and recommendations at the OLX Group. He's captivated by using data
+to solve user problems, building analytics-driven engineering culture, and
+experimenting — to make better and faster decisions.
+
