@@ -150,3 +150,7 @@ code {
   padding-right: 5px;
   color: black;
 }
+
+img.partner {
+  max-height: 100px;
+}
