@@ -27,17 +27,17 @@
     {% endfor %}
     {% for author in site.people %}
     <url>
-        <loc>{{site.url}}{{ author.id }}.html</loc>
+        <loc>{{site.url}}{{ author.url }}</loc>
     </url>
     {% endfor %}
     {% for book in site.books %}
     <url>
-        <loc>{{site.url}}{{ book.id }}.html</loc>
+        <loc>{{site.url}}{{ book.url }}</loc>
     </url>
     {% endfor %}
     {% for conf in site.conferences %}
     <url>
-        <loc>{{site.url}}{{ conf.id }}.html</loc>
+        <loc>{{site.url}}{{ conf.url }}</loc>
     </url>
     {% endfor %}
 

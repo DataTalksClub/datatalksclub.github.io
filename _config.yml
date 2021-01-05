@@ -16,10 +16,13 @@ exclude:
 collections:
   books:
     output: true
+    permalink: /:collection/:title.html
   people:
     output: true
+    permalink: /:collection/:title.html
   conferences:
     output: true
+    permalink: /:collection/:title.html
 
 
 defaults:
