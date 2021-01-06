@@ -31,10 +31,7 @@ For the full list of our events, check our page on <a href="https://www.eventbri
   {% for event in upcoming %}
     <li>
       <a href="{{ event.link }}" target="_blank">{{ event.title }}</a> on {{ event.time | date_to_string }} by
-        {% for a in event.speakers %}
-          {% assign author = site.people | where: "short", a | first  %}
-          <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
+        {% include authors.html authors=event.speakers %}
     </li>
   {% endfor %}
 </ul>
@@ -53,11 +50,7 @@ For the full list of our events, check our page on <a href="https://www.eventbri
 <ul>
   {% for event in past %}
     <li>
-      {{ event.title }} by
-        {% for a in event.speakers %}
-          {% assign author = site.people | where: "short", a | first %}
-          <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
+      {{ event.title }} by {% include authors.html authors=event.speakers %}
         (<a href="{{ event.youtube }}" target="_blank">watch on youtube</a>{% if event.anchor %}, <a href="{{ event.anchor }}" target="_blank">listen on anchor.fm</a>{% endif %})
     </li>
   {% endfor %}

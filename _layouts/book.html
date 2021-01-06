@@ -11,12 +11,7 @@
 
         <div class="my-5">
           <h2>{{ page.title }}</h2>
-          <h4>by
-            {% for a in page.authors %}
-              {% assign author = site.people | where: "short", a | first  %}
-              <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
-            {% endfor %}
-          </h4>
+          <h4>by {% include authors.html authors=page.authors %}</h4>
           <h5>The book of the week from {{ page.start | date_to_string }} to {{ page.end | date_to_string }}</h5>
         </div> 
 

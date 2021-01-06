@@ -33,6 +33,10 @@ const render = async (config, output) => {
   const authors = config.authors.map(author => {
     const dataPath = `../_people/${author}.md`;
 
+    if (!fs.existsSync(dataPath)) {
+      return null;
+    }
+
     const data = fs.readFileSync(dataPath, 'utf8');
     const attributes = fm(data).attributes;
 
@@ -41,7 +45,7 @@ const render = async (config, output) => {
     const image = 'file://' + path.resolve(`../images/authors/${author}.jpg`);
 
     return { name, image };
-  });
+  }).filter(e => e != null);
 
   console.log('authors', authors);
 

@@ -41,10 +41,7 @@ layout: home
       {% for post in site.posts %}
         <li>
           <a href="{{ post.url }}">{{ post.title }}</a> by
-            {% for a in post.authors %}
-              {% assign author = site.people | where: "short", a | first %}
-              <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
-            {% endfor %}
+            {% include authors.html authors=post.authors %}
         </li>
       {% endfor %}
     </ul>
@@ -60,10 +57,7 @@ layout: home
       {% for event in upcoming %}
         <li>
           <a href="{{ event.link }}" target="_blank">{{ event.title }}</a> on {{ event.time | date_to_string }} by
-            {% for a in event.speakers %}
-              {% assign author = site.people | where: "short", a | first  %}
-              <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
-            {% endfor %}
+          {% include authors.html authors=event.speakers %}
         </li>
       {% endfor %}
     </ul>
@@ -79,11 +73,7 @@ layout: home
     <ul>
       {% for book in books %}
         <li>
-          <a href="{{ book.id }}.html">{{ book.title }}</a> by
-            {% for a in book.authors %}
-              {% assign author = site.people | where: "short", a | first  %}
-              <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
-            {% endfor %}
+          <a href="{{ book.id }}.html">{{ book.title }}</a> by {% include authors.html authors=book.authors %}
             ({{ book.start | date_to_string }} &ndash; {{ book.end | date_to_string }})
         </li>
       {% endfor %}
@@ -92,4 +82,3 @@ layout: home
     <p>Check the <a href="/books.html">book of the week</a> page for more books!</p>
   </div>
 </div>
-

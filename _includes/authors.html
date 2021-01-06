@@ -1,0 +1,4 @@
+{% for a in include.authors %}
+  {% assign author = site.people | where: "short", a | first  %}
+  {% if author %}<a href="/people/{{a}}.html">{{ author.title }}</a>{% else %}{{ a }}{% endif %}{% unless forloop.last %}, {% endunless %}
+{% endfor %}

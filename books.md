@@ -40,10 +40,7 @@ and, in general, about the topic of their book.
 {% for book in past %}
 <li>
   <a href="{{ book.id }}.html">{{ book.title }}</a> by
-    {% for a in book.authors %}
-      {% assign author = site.people | where: "short", a | first  %}
-      <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
-    {% endfor %}
+    {% include authors.html authors=book.authors %}
     (from {{ book.start | date_to_string }} to {{ book.end | date_to_string }})
 </li>
 {% endfor %}
