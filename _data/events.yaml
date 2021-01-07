@@ -57,7 +57,11 @@
   speakers: [eugeneyan]
   type: podcast
   link: https://eventbrite.com/e/134206817203
-
+- time: 2021-01-12 17:00:00
+  title: Data Versioning Explained
+  speakers: [itaiadmi]
+  type: webinar
+  link: https://eventbrite.com/e/135871845347
 
 # december 2020
 
