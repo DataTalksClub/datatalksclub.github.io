@@ -9,6 +9,8 @@ authors: [giuseppebonaccorso]
 links: 
   - text: Book's page on Packt
     link: https://www.packtpub.com/product/mastering-machine-learning-algorithms-second-edition/9781838820299
+  - text: Book on Amazon
+    link: https://www.amazon.com/Mastering-Machine-Learning-Algorithms-understanding/dp/1838820299
   - text: Book's GitHub repository
     link: https://github.com/packtpublishing/mastering-machine-learning-algorithms
 ---
