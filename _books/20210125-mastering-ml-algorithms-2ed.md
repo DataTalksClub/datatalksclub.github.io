@@ -1,6 +1,6 @@
 ---
 title: "Mastering Machine Learning Algorithms - Second Edition"
-description: "Book of the Week. Mastering Machine Learning Algorithms (2nd edition) by Mark Ryan"
+description: "Book of the Week. Mastering Machine Learning Algorithms (2nd edition) by Giuseppe Bonaccorso"
 cover: "images/books/20210125-mastering-ml-algorithms-2ed/cover.jpg"
 image: "images/books/20210125-mastering-ml-algorithms-2ed/preview.jpg"
 start: 2021-01-25 00:00:00
