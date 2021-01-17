@@ -57,6 +57,8 @@
   speakers: [eugeneyan]
   type: podcast
   link: https://eventbrite.com/e/134206817203
+  youtube: https://www.youtube.com/watch?v=vXWGd7olv3c
+  anchor: https://anchor.fm/datatalksclub/episodes/The-Importance-of-Writing-in-a-Tech-Career---Eugene-Yan-ep17du
 - time: 2021-01-12 17:00:00
   title: Data Versioning Explained
   speakers: [itaiadmi]
