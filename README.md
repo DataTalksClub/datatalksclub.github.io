@@ -51,13 +51,8 @@ docker run -it \
     images/posts/${POST}/cover.jpg
 ```
 
-Test
+Book cover:
 
 ```bash
-nvm use v10.17.0
-cd previews
-BOOK=20210125-mastering-ml-algorithms-2ed
-node render_book.js \
-    ../_books/${BOOK}.md \
-    ../images/books/${BOOK}/preview.jpg
+./scripts/generate-book-preview.sh 20210301-ml-engineering
 ```
