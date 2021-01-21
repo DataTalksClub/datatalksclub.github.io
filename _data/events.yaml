@@ -22,11 +22,10 @@
   link: /conferences/2021-feb.html#machine-learning-use-cases
 
 - time: 2021-02-02 17:00:00
-  title: Feature Stores
+  title: "Feature Stores: Cutting through the Hype"
   speakers: [willempienaar]
-  type: webinar
-  link: https://eventbrite.com/e/XXXX
-  draft: true
+  type: podcast
+  link: https://eventbrite.com/e/137694204071
 
 # january 2021
 
@@ -34,14 +33,17 @@
   title: The Rise of MLOps
   speakers: [theofilospapapanagiotou]
   type: podcast
-  link: https://eventbrite.com/e/XXXX
-  draft: true
+  link: https://eventbrite.com/e/137692815919
+- time: 2021-01-28 17:00:00
+  title: Getting Started with Open Source
+  speakers: [vincentwarmerdam]
+  type: podcast
+  link: https://eventbrite.com/e/137651538457
 - time: 2021-01-26 17:00:00
-  title: Feature Stores
+  title: Using Machine Learning for Customer Service
   speakers: [neallathia]
   type: webinar
-  link: https://eventbrite.com/e/XXXX
-  draft: true
+  link: https://eventbrite.com/e/137867506423
 - time: 2021-01-22 17:00:00
   title: Developer Advocacy for Data Science
   speakers: [elleobrien]

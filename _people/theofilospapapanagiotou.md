@@ -1,7 +1,7 @@
 ---
 short: theofilospapapanagiotou
 title: "Theofilos Papapanagiotou"
-picture: "images/authors/default.jpg"
+picture: "images/authors/theofilospapapanagiotou.jpg"
 twitter: theofpa
 linkedin: theofpa
 ---
