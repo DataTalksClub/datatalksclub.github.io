@@ -34,7 +34,8 @@ and, in general, about the topic of their book.
 
 {% assign past = site.books 
   | where_exp: "book", "book.end < site.time"
-  | sort: 'end' %}
+  | sort: 'end'
+  | reverse %}
 
 <ul>
 {% for book in past %}

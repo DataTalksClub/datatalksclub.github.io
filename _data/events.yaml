@@ -49,6 +49,8 @@
   speakers: [elleobrien]
   type: podcast
   link: https://eventbrite.com/e/134716395365
+  youtube: https://www.youtube.com/watch?v=jv5W4jXk4P4
+  anchor: https://anchor.fm/datatalksclub/episodes/Developer-Advocacy-for-Data-Science---Elle-OBrien-epcbak
 - time: 2021-01-19 17:00:00
   title: Machine Learning Performance Monitoring
   speakers: [emelidral]
