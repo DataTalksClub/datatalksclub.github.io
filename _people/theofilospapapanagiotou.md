@@ -6,4 +6,6 @@ twitter: theofpa
 linkedin: theofpa
 ---
 
-Data Science Architect at Prosus Group
+Theofilos has been practicing systems engineering for 20 years, mostly in telcos. He's
+currently building tools to support companies run effectively their ML workloads.
+Passionate about Kubeflow.
