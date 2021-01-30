@@ -1,4 +1,10 @@
 # march
+- time: 2021-03-09 17:00:00
+  title: Active and Self-Supervised Learning
+  speakers: [igorsusmelj]
+  type: webinar
+  link: https://eventbrite.com/e/XXXX
+  draft: true
 - time: 2021-03-02 17:00:00
   title: Building Scalable End-to-End Deep Learning Pipelines in the Cloud
   speakers: [rustemfeyzkhanov]
@@ -42,12 +48,14 @@
   speakers: [theofilospapapanagiotou]
   type: podcast
   link: https://eventbrite.com/e/137692815919
+  youtube: https://www.youtube.com/watch?v=-i0fVp0ntYA
 - time: 2021-01-28 17:00:00
   title: Getting Started with Open Source
   speakers: [vincentwarmerdam]
   type: podcast
   link: https://eventbrite.com/e/137651538457
   youtube: https://www.youtube.com/watch?v=IxV9EH-tphQ
+  anchor: https://anchor.fm/datatalksclub/episodes/Getting-Started-with-Open-Source---Vincent-Warmerdam-epk60j
 - time: 2021-01-26 17:00:00
   title: Using Machine Learning for Customer Service
   speakers: [neallathia]
