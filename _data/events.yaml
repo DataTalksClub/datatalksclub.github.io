@@ -1,10 +1,9 @@
 # march
 - time: 2021-03-09 17:00:00
-  title: Active and Self-Supervised Learning
+  title: Active and Self-Supervised Learning for Data Selection
   speakers: [igorsusmelj]
   type: webinar
-  link: https://eventbrite.com/e/XXXX
-  draft: true
+  link: https://eventbrite.com/e/140468020631
 - time: 2021-03-02 17:00:00
   title: Building Scalable End-to-End Deep Learning Pipelines in the Cloud
   speakers: [rustemfeyzkhanov]
@@ -51,6 +50,7 @@
   type: podcast
   link: https://eventbrite.com/e/137692815919
   youtube: https://www.youtube.com/watch?v=-i0fVp0ntYA
+  anchor: https://anchor.fm/datatalksclub/episodes/The-Rise-of-MLOps---Theofilos-Papapanagiotou-ept67o
 - time: 2021-01-28 17:00:00
   title: Getting Started with Open Source
   speakers: [vincentwarmerdam]
