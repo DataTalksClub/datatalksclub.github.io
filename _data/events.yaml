@@ -34,6 +34,7 @@
   speakers: [philwinder, himanshuupreti, mahmoudaziz, eugeneyan]
   type: conference
   link: /conferences/2021-feb.html#machine-learning-use-cases
+  youtube: https://www.youtube.com/watch?v=jvqS1_GnLsk&t=1150s
 
 - time: 2021-02-02 17:00:00
   title: "Feature Stores: Cutting through the Hype"
