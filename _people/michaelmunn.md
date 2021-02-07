@@ -5,4 +5,6 @@ picture: "images/authors/michaelmunn.jpg"
 linkedin: munnm
 ---
 
-Michael Munn is a machine learning solution engineer at Google. 
+Mike is an ML solutions engineer in Google Cloud. He helps customers design, implement,
+and deploy machine learning models and teaches the ML Immersion Program in Google's
+Advanced Solutions Lab.
