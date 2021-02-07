@@ -11,13 +11,14 @@ layout: page
 ## Events
 
 
-We host two types of events:
+We host multiple types of events:
 
-* Presentations &ndash; events on Tuesday, with slides, mostly technical
-* Live podcasts &ndash; events on Friday, a discussion without slides, the recording is published as a podcast
+<ul class="emoji-list">
+<li class="webinar">Webinars &ndash; events on Tuesday, with slides, mostly technical</li>
+<li class="podcast">Live podcasts &ndash; events on Friday, a discussion without slides, the recording is published as a podcast</li>
+<li class="conference">Conference &ndash; bigger events with multipe talks, both webinar-type talks and podcast-type talks</li>
+</ul>
 
-
-For the full list of our events, check our page on <a href="https://www.eventbrite.com/o/datatalksclub-31603209675" target="_blank">Eventbrite</a>
 
 {% assign upcoming = site.data.events
   | where_exp: "event", "event.draft != true"
@@ -27,9 +28,9 @@ For the full list of our events, check our page on <a href="https://www.eventbri
 {% if upcoming %}
 ## Upcoming events
 
-<ul>
+<ul class="emoji-list">
   {% for event in upcoming %}
-    <li>
+    <li class="{{ event.type }}">
       <a href="{{ event.link }}" target="_blank">{{ event.title }}</a> on {{ event.time | date_to_string }} by
         {% include authors.html authors=event.speakers %}
     </li>
@@ -47,9 +48,9 @@ For the full list of our events, check our page on <a href="https://www.eventbri
 {% if past %}
 ## Past events
 
-<ul>
+<ul class="emoji-list">
   {% for event in past %}
-    <li>
+    <li class="{{ event.type }}">
       {{ event.title }} by {% include authors.html authors=event.speakers %}
         (<a href="{{ event.youtube }}" target="_blank">watch on youtube</a>{% if event.anchor %}, <a href="{{ event.anchor }}" target="_blank">listen on anchor.fm</a>{% endif %})
     </li>

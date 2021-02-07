@@ -154,3 +154,16 @@ code {
 img.partner {
   max-height: 100px;
 }
+
+
+.emoji-list li.podcast::before {
+  content: "🎙 ";
+}
+
+.emoji-list li.webinar::before {
+  content: "📺 ";
+}
+
+.emoji-list li.conference::before {
+  content: "💼 ";
+}
