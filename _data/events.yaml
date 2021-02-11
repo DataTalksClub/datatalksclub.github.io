@@ -13,22 +13,43 @@
 
 # february 2021
 
-- time: 2021-02-26 14:00:00
+- time: 2021-02-26 13:55:00
   title: "DataTalks.Club Conference: ML in Production"
   speakers: [larysavisengeriyeva, mikiobraun, sararobinson, elleobrien]
   type: conference
   link: /conferences/2021-feb.html#machine-learning-in-production
-- time: 2021-02-19 14:00:00
+- time: 2021-02-19 11:55:00
   title: "DataTalks.Club Conference: Career in Data"
   speakers: [dannyma, admondleekinlim, parulpandey, vinvashishta]
   type: conference
   link: /conferences/2021-feb.html#career-in-data
-- time: 2021-02-12 14:00:00
+- time: 2021-02-12 13:55:00
   title: "DataTalks.Club Conference: Product and Process"
   speakers: [eliasnema, susanwalsh, elenasamuylova, danbecker]
   type: conference
   link: /conferences/2021-feb.html#product-and-process
+
+- time: 2021-02-05 17:00:00
+  title: "Building an ML System for Southeast Asia’s Largest Hospital Group"
+  speakers: [eugeneyan]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=G5F-L7hdqSQ
+- time: 2021-02-05 16:00:00
+  title: "Build Your AI Machine Vision System by Yourself"
+  speakers: [mahmoudaziz]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=GPeJKcBvKrw
+- time: 2021-02-05 15:00:00
+  title: "How to use AI in Consumer Food Product Innovation"
+  speakers: [himanshuupreti]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=7DuTkKrOZ1Y
 - time: 2021-02-05 14:00:00
+  title: "Industrial Applications of Reinforcement Learning"
+  speakers: [philwinder]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=ih6IEv89IV4
+- time: 2021-02-05 13:55:00
   title: "DataTalks.Club Conference: ML Use Cases"
   speakers: [philwinder, himanshuupreti, mahmoudaziz, eugeneyan]
   type: conference
