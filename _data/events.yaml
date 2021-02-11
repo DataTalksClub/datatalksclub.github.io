@@ -4,6 +4,11 @@
   speakers: [igorsusmelj]
   type: webinar
   link: https://eventbrite.com/e/140468020631
+- time: 2021-03-05 17:00:00
+  title: The Essentials of Public Speaking for Career in Data Science
+  speakers: [bentaylor]
+  type: podcast
+  link: https://eventbrite.com/e/141301948933
 - time: 2021-03-02 17:00:00
   title: Building Scalable End-to-End Deep Learning Pipelines in the Cloud
   speakers: [rustemfeyzkhanov]

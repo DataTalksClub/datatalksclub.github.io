@@ -1,11 +1,11 @@
 ---
-short: firstlast
-title: "First Last"
-picture: "images/authors/default.jpg"
-github: firstlast
-twitter: firstlast
-linkedin: firstlast
-web: website
+short: {{id}}
+title: "{{full}}"
+picture: "images/authors/{{id}}.jpg"
+{% if github %}github: {{github}}{% endif %}
+{% if twitter %}twitter: {{twitter}}{% endif %}
+{% if linkedin %}linkedin: {{linkedin}}{% endif %}
+{% if website %}web: {{website}}{% endif %}
 ---
 
-Bio goes here
+{{bio}}
