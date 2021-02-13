@@ -33,6 +33,7 @@
   speakers: [eliasnema, susanwalsh, elenasamuylova, danbecker]
   type: conference
   link: /conferences/2021-feb.html#product-and-process
+  youtube: https://www.youtube.com/watch?v=dvzPU43tqFM
 
 - time: 2021-02-05 17:00:00
   title: "Building an ML System for Southeast Asia’s Largest Hospital Group"
@@ -59,7 +60,7 @@
   speakers: [philwinder, himanshuupreti, mahmoudaziz, eugeneyan]
   type: conference
   link: /conferences/2021-feb.html#machine-learning-use-cases
-  youtube: https://www.youtube.com/watch?v=jvqS1_GnLsk&t=1150s
+  youtube: https://www.youtube.com/watch?v=jvqS1_GnLsk
 
 - time: 2021-02-02 17:00:00
   title: "Feature Stores: Cutting through the Hype"
@@ -67,6 +68,7 @@
   type: podcast
   link: https://eventbrite.com/e/137694204071
   youtube: https://www.youtube.com/watch?v=FQYTb4uWljQ
+  anchor: https://anchor.fm/datatalksclub/episodes/Feature-Stores-Cutting-through-the-Hype---Willem-Pienaar-ept6m8
 
 # january 2021
 
