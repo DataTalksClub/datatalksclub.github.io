@@ -59,8 +59,21 @@ def download_image(url):
     return img
 
 
-def save_resized_image(url, id):
-    img = download_image(url)
+def load_local_image(path):
+
+    with Image.open(path) as img:
+        return img.copy()
+
+
+def load_image(path):
+    if path.startswith('http'):
+        img = download_image(path)
+    img = load_local_image(path)
+    return img
+
+
+def save_resized_image(path, id):
+    img = load_image(path)
     cropped = center_crop_resize(img)
 
     path = './images/authors/%s.jpg' % id
@@ -94,8 +107,8 @@ def create_person():
     website = questionary.text('Website:').ask().strip()
     bio = questionary.text('Bio:').ask().strip()
 
-    image_url = questionary.text('Image URL:').ask().strip()
-    save_resized_image(image_url, small)
+    image_location = questionary.text('Image location:').ask().strip()
+    save_resized_image(image_location, small)
 
     params = {
         'id': small,
