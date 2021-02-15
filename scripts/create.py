@@ -67,9 +67,8 @@ def load_local_image(path):
 
 def load_image(path):
     if path.startswith('http'):
-        img = download_image(path)
-    img = load_local_image(path)
-    return img
+        return download_image(path)
+    return load_local_image(path)
 
 
 def save_resized_image(path, id):
