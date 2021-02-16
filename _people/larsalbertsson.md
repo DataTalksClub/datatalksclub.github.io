@@ -8,8 +8,8 @@ linkedin: larsalbertsson
 web: https://www.scling.com/
 ---
 
-Lars has worked in data-intensive environments since joining Google in 2007, and has built data processing
-architecture at scale at Spotify and Schibsted. Since 2016, he has worked as an independent consultant and
-entrepreneur, helping companies get value from data through technical big data solutions and strategy consulting.
-He has had clients ranging from startups to technology-intensive companies, and to large enterprises.
-He is a frequent conference speaker on big data topics.
+Lars Albertsson is the founder of Scling, a data engineering startup based in Stockholm.
+Scling provides data-value-as-a-service - customer tailored data engineering, analytics,
+and data science. Lars is a frequent conference speaker on data engineering and data strategy.
+Before founding Scling, Lars has worked at Google, Spotify, Schibsted, and as an independent
+consultant, helping organisations create value with data processing.
