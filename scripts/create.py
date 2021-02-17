@@ -1,9 +1,13 @@
 import os
 
+import subprocess
+
 from datetime import date
 from math import ceil, floor
 from io import BytesIO
 from urllib import request
+from glob import glob
+from datetime import datetime, timedelta
 
 import questionary
 
@@ -44,7 +48,7 @@ def resize(img, d=128):
         new_h = floor(w * d / h)
         new_w = d
 
-    return img.resize((new_h, new_w),resample=Image.BICUBIC)
+    return img.resize((new_h, new_w), resample=Image.BICUBIC)
 
 
 def center_crop_resize(img):
@@ -60,7 +64,6 @@ def download_image(url):
 
 
 def load_local_image(path):
-
     with Image.open(path) as img:
         return img.copy()
 
@@ -71,7 +74,7 @@ def load_image(path):
     return load_local_image(path)
 
 
-def save_resized_image(path, id):
+def save_resized_profile_picture(path, id):
     img = load_image(path)
     cropped = center_crop_resize(img)
 
@@ -93,12 +96,9 @@ def create_person():
     path = './_people/%s.md' % small
     if os.path.exists(path):
         print('Person already exists')
-        return small
+        return dict(full=full, small=small)
 
     print("Creating the person...")
-
-    with open('./_people/_template.md') as f_in:
-        template_string = f_in.read() 
 
     github = questionary.text('Github:').ask().strip()
     twitter = questionary.text('Twitter:').ask().strip()
@@ -107,7 +107,7 @@ def create_person():
     bio = questionary.text('Bio:').ask().strip()
 
     image_location = questionary.text('Image location:').ask().strip()
-    save_resized_image(image_location, small)
+    save_resized_profile_picture(image_location, small)
 
     params = {
         'id': small,
@@ -119,6 +119,9 @@ def create_person():
         'bio': bio
     }
 
+    with open('./_people/_template.md') as f_in:
+        template_string = f_in.read() 
+
     template = Template(template_string)
     result = template.render(**params)
 
@@ -127,18 +130,97 @@ def create_person():
     with open(path, 'w') as f_out:
         f_out.write(result)
 
-    return small
+    return dict(full=full, small=small)
 
+
+def find_last_book_date():
+    books = glob('./_books/*.md')
+    books = [b for b in books if not b.endswith('_template.md')]
+    books = sorted(books)[::-1]
+    dates = [b[9:17] for b in books]
+
+    print("Last books:")
+    for b in books[:3]:
+        print(" - %s" % b)
+
+    s = dates[0]
+    prev_year = int(s[:4])
+    prev_month = int(s[4:6])
+    prev_day = int(s[6:])
+
+    next_week = datetime(year=prev_year, month=prev_month, day=prev_day) + timedelta(days=7)
+
+    year = '%04d' % next_week.year
+    month = '%02d' % next_week.month
+    day = '%02d' % next_week.day
+
+    print("Next date: %s %s %s" % (year, month, day))
+
+    return year, month, day
 
 
 def create_book():
     print("Okay, let's create a book!")
 
+    default_year, default_month, default_day = find_last_book_date()
+
+    year = questionary.text("Year:", default_year).ask()
+    month = questionary.text("Month:", default_month).ask()
+    day = questionary.text("Day:", default_day).ask()    
+
+    title_raw = questionary.text("Title:").ask()
+    title_tokens = title_raw.split()
+    title_hypthened = '-'.join([t.lower() for t in title_tokens])
+    book_id = '%s%s%s-%s' % (year, month, day, title_hypthened)
+    print('Book ID: %s' % book_id)
+
+    title = ' '.join(title_tokens)
+
+    start_date_str = '%s-%s-%s' % (year, month, day)
+    end_date = datetime(year=int(year), month=int(month), day=int(day)) + timedelta(days=4)
+    end_date_str = '%04d-%02d-%02d' % (end_date.year, end_date.month, end_date.day)
+
+    author = create_person()
+
+    params = {
+        'title': title,
+        'author_full': author['full'],
+        'author_id': author['small'],
+        'book_id': book_id,
+        'start': start_date_str,
+        'end': end_date_str
+    }
+
+    with open('./_books/_template.md') as f_in:
+        template_string = f_in.read() 
+
+    template = Template(template_string)
+    result = template.render(**params)
+
+    print(result)
+
+    path = './_books/%s.md' % book_id
+    with open(path, 'w') as f_out:
+        f_out.write(result) 
+
+    images_path = './images/books/%s' % book_id
+    os.makedirs(images_path, exist_ok=True)
+
+    image_location = questionary.text('Image location:').ask().strip()
+    img = load_image(image_location)
+
+    image_location_result = '%s/cover.jpg' % images_path
+    img.save(image_location_result)
+
+    print('Creating a preview...')
+    subprocess.call(['bash', 'scripts/generate-book-preview.sh', book_id])
+
 
 def create_event():
     print("Okay, let's create an event!")
-    
-    speaker = create_person()
+
+    speaker_result = create_person()
+    speaker = speaker_result['small']
 
     today = date.today()
     default_year = '%04d' % today.year
