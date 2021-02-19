@@ -46,6 +46,27 @@
   speakers: [dannyma, admondleekinlim, parulpandey, vinvashishta]
   type: conference
   link: /conferences/2021-feb.html#career-in-data
+
+- time: 2021-02-12 17:00:00
+  title: "Translating ML Predictions Into Better Real-World Results with Decision Optimization"
+  speakers: [danbecker]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=SJuzQ4bcU2c
+- time: 2021-02-12 16:00:00
+  title: "How Your Machine Learning Project Will Fail"
+  speakers: [elenasamuylova]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=bVxHQH2-PMo
+- time: 2021-02-12 15:00:00
+  title: "Dangers of Dirty Data"
+  speakers: [susanwalsh]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=N6994_LkdaI 
+- time: 2021-02-12 14:00:00
+  title: "Building Data-Intensive Teams"
+  speakers: [eliasnema]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=5rBE6MO4lac
 - time: 2021-02-12 13:55:00
   title: "DataTalks.Club Conference: Product and Process"
   speakers: [eliasnema, susanwalsh, elenasamuylova, danbecker]
