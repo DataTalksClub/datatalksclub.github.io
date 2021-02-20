@@ -46,6 +46,7 @@
   speakers: [dannyma, admondleekinlim, parulpandey, vinvashishta]
   type: conference
   link: /conferences/2021-feb.html#career-in-data
+  youtube: https://www.youtube.com/watch?v=ltFkvoiA57M
 
 - time: 2021-02-12 17:00:00
   title: "Translating ML Predictions Into Better Real-World Results with Decision Optimization"
