@@ -1,4 +1,6 @@
 
+
+
 # april
 - time: 2021-04-16 17:00:00
   title: "Data Observability: The Next Frontier of Data Engineering"
@@ -23,6 +25,11 @@
   link: https://eventbrite.com/e/141625057359
   season: 2
   episode: 12
+- time: 2021-03-16 17:00:00
+  title: "Bodywork: GitOps for Machine Learning"
+  speakers: [alexioannides]
+  type: webinar
+  link: https://eventbrite.com/e/142433357005
 - time: 2021-03-12 17:00:00
   title: DataOps 101
   speakers: [larsalbertsson]
@@ -68,6 +75,7 @@
   speakers: [danbecker]
   type: podcast
   youtube: https://www.youtube.com/watch?v=SJuzQ4bcU2c
+  anchor: https://anchor.fm/datatalksclub/episodes/Translating-ML-Predictions-Into-Better-Real-World-Results-with-Decision-Optimization---Dan-Becker-eqk0b1
   season: 2
   episode: 6
 - time: 2021-02-12 16:00:00

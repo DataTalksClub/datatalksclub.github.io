@@ -238,7 +238,7 @@ def create_event():
 
     template_string = """
 - time: {{ year }}-{{ month }}-{{ day }} 17:00:00
-  title: {{ title }}
+  title: "{{ title }}"
   speakers: [{{ speaker }}]
   type: {{ type  }}
   link: https://eventbrite.com/e/{{ event_id }}
