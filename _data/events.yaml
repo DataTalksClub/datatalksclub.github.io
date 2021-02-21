@@ -1,3 +1,4 @@
+
 # april
 - time: 2021-04-16 17:00:00
   title: "Data Observability: The Next Frontier of Data Engineering"
@@ -7,6 +8,11 @@
 
 
 # march
+- time: 2021-03-26 17:00:00
+  title: Transitioning from Project Management to Data Science
+  speakers: [ksenialegostay]
+  type: podcast
+  link: https://eventbrite.com/e/142423944853
 - time: 2021-03-19 17:00:00
   title: Building and Growing Online Communities
   speakers: [demetriosbrinkmann]
