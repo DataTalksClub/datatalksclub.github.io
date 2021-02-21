@@ -5,7 +5,8 @@
   speakers: [barrmoses]
   type: podcast
   link: https://eventbrite.com/e/142203409225
-
+  season: 3
+  episode: 3
 
 # march
 - time: 2021-03-26 17:00:00
@@ -13,16 +14,22 @@
   speakers: [ksenialegostay]
   type: podcast
   link: https://eventbrite.com/e/142423944853
+  season: 3
+  episode: 1
 - time: 2021-03-19 17:00:00
   title: Building and Growing Online Communities
   speakers: [demetriosbrinkmann]
   type: podcast
   link: https://eventbrite.com/e/141625057359
+  season: 2
+  episode: 12
 - time: 2021-03-12 17:00:00
   title: DataOps 101
   speakers: [larsalbertsson]
   type: podcast
   link: https://eventbrite.com/e/141654397115
+  season: 2
+  episode: 11
 - time: 2021-03-09 17:00:00
   title: Active and Self-Supervised Learning for Data Selection
   speakers: [igorsusmelj]
@@ -33,6 +40,8 @@
   speakers: [bentaylor]
   type: podcast
   link: https://eventbrite.com/e/141301948933
+  season: 2
+  episode: 10
 - time: 2021-03-02 17:00:00
   title: Building Scalable End-to-End Deep Learning Pipelines in the Cloud
   speakers: [rustemfeyzkhanov]
@@ -59,6 +68,8 @@
   speakers: [danbecker]
   type: podcast
   youtube: https://www.youtube.com/watch?v=SJuzQ4bcU2c
+  season: 2
+  episode: 6
 - time: 2021-02-12 16:00:00
   title: "How Your Machine Learning Project Will Fail"
   speakers: [elenasamuylova]
@@ -115,6 +126,8 @@
   link: https://eventbrite.com/e/137694204071
   youtube: https://www.youtube.com/watch?v=FQYTb4uWljQ
   anchor: https://anchor.fm/datatalksclub/episodes/Feature-Stores-Cutting-through-the-Hype---Willem-Pienaar-ept6m8
+  season: 2
+  episode: 5
 
 # january 2021
 
@@ -125,6 +138,8 @@
   link: https://eventbrite.com/e/137692815919
   youtube: https://www.youtube.com/watch?v=-i0fVp0ntYA
   anchor: https://anchor.fm/datatalksclub/episodes/The-Rise-of-MLOps---Theofilos-Papapanagiotou-ept67o
+  season: 2
+  episode: 4
 - time: 2021-01-28 17:00:00
   title: Getting Started with Open Source
   speakers: [vincentwarmerdam]
@@ -132,6 +147,8 @@
   link: https://eventbrite.com/e/137651538457
   youtube: https://www.youtube.com/watch?v=IxV9EH-tphQ
   anchor: https://anchor.fm/datatalksclub/episodes/Getting-Started-with-Open-Source---Vincent-Warmerdam-epk60j
+  season: 2
+  episode: 3
 - time: 2021-01-26 17:00:00
   title: Using Machine Learning for Customer Service
   speakers: [neallathia]
@@ -145,6 +162,8 @@
   link: https://eventbrite.com/e/134716395365
   youtube: https://www.youtube.com/watch?v=jv5W4jXk4P4
   anchor: https://anchor.fm/datatalksclub/episodes/Developer-Advocacy-for-Data-Science---Elle-OBrien-epcbak
+  season: 2
+  episode: 2
 - time: 2021-01-19 17:00:00
   title: Machine Learning Performance Monitoring
   speakers: [emelidral]
@@ -158,6 +177,8 @@
   link: https://eventbrite.com/e/134206817203
   youtube: https://www.youtube.com/watch?v=vXWGd7olv3c
   anchor: https://anchor.fm/datatalksclub/episodes/The-Importance-of-Writing-in-a-Tech-Career---Eugene-Yan-ep17du
+  season: 2
+  episode: 1
 - time: 2021-01-12 17:00:00
   title: Data Versioning Explained
   speakers: [itaiadmi]
@@ -174,6 +195,8 @@
   link: https://eventbrite.com/e/131724151483
   youtube: https://www.youtube.com/watch?v=LQvwTNQbPg4
   anchor: https://anchor.fm/datatalksclub/episodes/Mentoring---Rahul-Jain-eo7cmu
+  season: 1
+  episode: 5
 - time: 2020-12-15 17:00:00
   title: AWS Glue DataBrew
   speakers: [dmitrymuzalevskiy]
@@ -187,6 +210,8 @@
   link: https://eventbrite.com/e/131260685243
   youtube: https://www.youtube.com/watch?v=Sb4CJlonB3c
   anchor: https://anchor.fm/datatalksclub/episodes/Standing-out-as-a-Data-Scientist---Luke-Whipps-envr7e
+  season: 1
+  episode: 4
 - time: 2020-12-08 17:00:00
   title: Deploying Serverless Machine Learning with AWS
   speakers: [sejalvaidya]
@@ -200,6 +225,8 @@
   link: https://eventbrite.com/e/130733484371
   youtube: https://www.youtube.com/watch?v=ScDIB-3O77A
   anchor: https://anchor.fm/datatalksclub/episodes/Building-a-Data-Science-Team---Dat-Tran-enlmef
+  season: 1
+  episode: 3
 - time: 2020-12-03 17:00:00
   title: Processes in a Data Science Project
   speakers: [alexeygrigorev]
@@ -207,6 +234,8 @@
   link: https://eventbrite.com/e/129939190617
   youtube: https://www.youtube.com/watch?v=SesVTDklFYQ
   anchor: https://anchor.fm/datatalksclub/episodes/Processes-in-a-Data-Science-Project---Alexey-Grigorev-encdlg
+  season: 1
+  episode: 2
 - time: 2020-12-01 17:00:00
   title: Essential Communication Skills for Data Professionals
   speakers: [davidgates]
@@ -229,6 +258,8 @@
   link: https://eventbrite.com/e/127017208891
   youtube: https://www.youtube.com/watch?v=2ZOnA19sDpM
   anchor: https://anchor.fm/datatalksclub/episodes/Roles-in-a-data-team---Alexey-Grigorev-emqcft
+  season: 1
+  episode: 1
 - time: 2020-11-17 17:00:00
   title: Customer Segmentation 2.0
   speakers: [nishantmohan]
