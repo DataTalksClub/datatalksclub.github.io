@@ -8,10 +8,10 @@ linkedin: laurence-moroney
 web: http://www.laurencemoroney.com/
 ---
 
-I’m Laurence Moroney — a Developer Advocate at Google specializing in Firebase, Google Maps
-and a bit of Google Cloud. I’m host of the YouTube show ‘Coffee with a Googler’, a popular
-interview show that puts a human face on many of the roles that people take inside this wonderful company!
-
-I’m the author of lots of books, including the upcoming Definitive Guide to Firebase from Apress,
-the popular ‘Legend of the Locust‘ Young Adult Sci-Fi series, and the prequel to the movie
-‘Equilibrium’, starring Christian Bale!
+Laurence Moroney leads AI Advocacy at Google, with a vision to make AI easy for developers and
+to widen access to ML careers for everyone. He’s written dozens of programming books, the most
+recent being ‘AI and ML for Coders’ at O’Reilly. Laurence believes that MOOCs are one of the
+greatest ways to learn, and is excited to create TensorFlow Specializations with DeepLearning.AI
+on Coursera. When not working with technology, he’s an active member of the Science Fiction Writers
+of America, and has authored several sci-fi novels, and comics books, and a produced screenplay.
+Laurence is based in Washington state, where he drinks way too much coffee.
