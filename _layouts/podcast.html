@@ -1,0 +1,55 @@
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+  <div class="container">
+    {% include header.html %}
+
+    <div class="row">
+      <div class="col-lg-8 mx-auto content">
+
+        <div class="content-head d-flex justify-content-between align-items-center">
+          <div>
+            <h1>{{ page.title }}</h1>
+            {% if page.subtitle %}
+              <h3>{{ page.subtitle }}</h3>
+            {% endif %}
+
+            <p>Season: {{ page.season }}, episode {{ page.episode }} by
+              {% for a in page.guests %}
+                {% assign author = site.people | where: "short", a | first %}
+                <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </p>
+          </div>
+          <div>
+            <div class="social">
+            </div>
+          </div>
+        </div>
+
+        <div class="content-main mb-5">
+            {% include youtube.html video_id=page.ids.youtube %}
+            {% include anchor.html id=page.ids.anchor %}
+        </div>
+  
+
+        <div class="content-main mb-5">
+          Register for upcoming podcast events in <a href="/events.html" target="_blank">events</a>.
+
+          {{ content }}
+        </div>
+
+        <div class="article-divider"></div>
+
+        <div class="article-end">
+          {% include subscribe.html subscribe="true" %}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+  </div>
+
+</body>
