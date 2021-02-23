@@ -20,6 +20,9 @@
     <url>
         <loc>{{site.url}}/books.html</loc>
     </url>
+    <url>
+        <loc>{{site.url}}/podcast.html</loc>
+    </url>
     {% for post in site.posts %}
     <url>
         <loc>{{site.url}}{{ post.url | remove: 'index.html' }}</loc>
@@ -38,6 +41,11 @@
     {% for conf in site.conferences %}
     <url>
         <loc>{{site.url}}{{ conf.url }}</loc>
+    </url>
+    {% endfor %}
+    {% for p in site.podcast %}
+    <url>
+        <loc>{{site.url}}{{ p.url }}</loc>
     </url>
     {% endfor %}
 

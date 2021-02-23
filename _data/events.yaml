@@ -1,9 +1,8 @@
 
-
-
 # april
 - time: 2021-04-16 17:00:00
   title: "Data Observability: The Next Frontier of Data Engineering"
+  slug: data-observability
   speakers: [barrmoses]
   type: podcast
   link: https://eventbrite.com/e/142203409225
@@ -13,6 +12,7 @@
 # march
 - time: 2021-03-26 17:00:00
   title: Transitioning from Project Management to Data Science
+  slug: from-pm-to-ds
   speakers: [ksenialegostay]
   type: podcast
   link: https://eventbrite.com/e/142423944853
@@ -20,6 +20,7 @@
   episode: 1
 - time: 2021-03-19 17:00:00
   title: Building and Growing Online Communities
+  slug: communities
   speakers: [demetriosbrinkmann]
   type: podcast
   link: https://eventbrite.com/e/141625057359
@@ -32,6 +33,7 @@
   link: https://eventbrite.com/e/142433357005
 - time: 2021-03-12 17:00:00
   title: DataOps 101
+  slug: dataops
   speakers: [larsalbertsson]
   type: podcast
   link: https://eventbrite.com/e/141654397115
@@ -44,6 +46,7 @@
   link: https://eventbrite.com/e/140468020631
 - time: 2021-03-05 17:00:00
   title: The Essentials of Public Speaking for Career in Data Science
+  slug: public-speaking
   speakers: [bentaylor]
   type: podcast
   link: https://eventbrite.com/e/141301948933
@@ -72,6 +75,8 @@
 
 - time: 2021-02-12 17:00:00
   title: "Translating ML Predictions Into Better Real-World Results with Decision Optimization"
+  short: "Decision Optimization"
+  slug: decision-optimization
   speakers: [danbecker]
   type: podcast
   youtube: https://www.youtube.com/watch?v=SJuzQ4bcU2c
@@ -129,6 +134,7 @@
 
 - time: 2021-02-02 17:00:00
   title: "Feature Stores: Cutting through the Hype"
+  slug: feature-stores
   speakers: [willempienaar]
   type: podcast
   link: https://eventbrite.com/e/137694204071
@@ -141,6 +147,7 @@
 
 - time: 2021-01-29 17:00:00
   title: The Rise of MLOps
+  slug: mlops
   speakers: [theofilospapapanagiotou]
   type: podcast
   link: https://eventbrite.com/e/137692815919
@@ -150,6 +157,7 @@
   episode: 4
 - time: 2021-01-28 17:00:00
   title: Getting Started with Open Source
+  slug: open-source
   speakers: [vincentwarmerdam]
   type: podcast
   link: https://eventbrite.com/e/137651538457
@@ -165,6 +173,7 @@
   youtube: https://www.youtube.com/watch?v=ohjSvKdUumY
 - time: 2021-01-22 17:00:00
   title: Developer Advocacy for Data Science
+  slug: developer-advocacy
   speakers: [elleobrien]
   type: podcast
   link: https://eventbrite.com/e/134716395365
@@ -180,6 +189,7 @@
   youtube: https://www.youtube.com/watch?v=iiLadbM_It8
 - time: 2021-01-15 17:00:00
   title: The Importance of Writing in a Tech Career
+  slug: writing
   speakers: [eugeneyan]
   type: podcast
   link: https://eventbrite.com/e/134206817203
@@ -228,6 +238,7 @@
   youtube: https://www.youtube.com/watch?v=79B8AOKkpho
 - time: 2020-12-04 12:00:00
   title: Building a Data Science Team
+  slug: building-ds-team
   speakers: [dattran]
   type: podcast
   link: https://eventbrite.com/e/130733484371
@@ -237,6 +248,7 @@
   episode: 3
 - time: 2020-12-03 17:00:00
   title: Processes in a Data Science Project
+  slug: processes
   speakers: [alexeygrigorev]
   type: podcast
   link: https://eventbrite.com/e/129939190617
@@ -261,6 +273,7 @@
   youtube: https://www.youtube.com/watch?v=1Jabakbryyk
 - time: 2020-11-20 12:00:00
   title: Roles in a Data Team
+  slug: roles
   speakers: [alexeygrigorev]
   type: podcast
   link: https://eventbrite.com/e/127017208891

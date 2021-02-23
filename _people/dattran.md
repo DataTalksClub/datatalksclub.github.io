@@ -3,7 +3,7 @@ short: dattran
 title: "Dat Tran"
 linkedin: dat-tran-a1602320
 twitter: datitran
-picture: "images/authors/default.jpg"
+picture: "images/authors/dattran.jpg"
 ---
 
 Dat Tran is the CTO and co-founder of Priceloop.

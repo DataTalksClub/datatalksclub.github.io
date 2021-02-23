@@ -14,5 +14,5 @@
   link: "/events.html"
   new_window: false
 - text: Podcast
-  link: "https://anchor.fm/datatalksclub"
-  new_window: true
+  link: "/podcast.html"
+  new_window: false

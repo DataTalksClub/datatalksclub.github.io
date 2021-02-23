@@ -24,7 +24,9 @@ collections:
   conferences:
     output: true
     permalink: /:collection/:title.html
-
+  podcast:
+    output: true
+    permalink: /:collection/:title.html
 
 defaults:
   - scope:
@@ -37,3 +39,8 @@ defaults:
       type: "books"
     values:
       layout: "book"
+  - scope:
+      path: ""
+      type: "podcast"
+    values:
+      layout: "podcast"

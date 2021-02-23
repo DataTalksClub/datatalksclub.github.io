@@ -1,7 +1,7 @@
 ---
 short: rahuljain
 title: "Rahul Jain"
-picture: "images/authors/default.jpg"
+picture: "images/authors/rahuljain.jpg"
 twitter: rahulj51
 linkedin: rahul-jain-83055b45
 web: https://rahulj51.github.io/
