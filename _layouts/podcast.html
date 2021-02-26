@@ -30,8 +30,14 @@
         </div>
 
         <div class="content-main mb-5">
-            {% include youtube.html video_id=page.ids.youtube %}
-            {% include anchor.html id=page.ids.anchor %}
+          <ul>
+            <li><a href="{{ page.links.youtube }}" target="_blank">Watch the video on YouTube</a></li>
+            <li><a href="{{ page.links.anchor }}" target="_blank">Listen to audio on Anchor</a></li>
+          </ul>
+          
+          {% include youtube.html video_id=page.ids.youtube %}
+
+          {% include anchor.html id=page.ids.anchor %}
         </div>
   
 
