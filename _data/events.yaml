@@ -70,6 +70,37 @@
   speakers: [larysavisengeriyeva, mikiobraun, sararobinson, elleobrien]
   type: conference
   link: /conferences/2021-feb.html#machine-learning-in-production
+
+
+- time: 2021-02-19 16:00:00
+  title: "New Roles and Key Skills to Monetize Machine Learning"
+  slug: roles-skills-monetizing-ml
+  speakers: [vinvashishta]
+  type: podcast
+  youtube: https://www.youtube.com/watch?v=xCjzA_8S4kI
+  season: 2
+  episode: 9
+- time: 2021-02-19 15:00:00
+  title: "Career Transitioning into Data Science"
+  speakers: [parulpandey]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=slczbYNn_Kg
+- time: 2021-02-19 13:30:00
+  title: "Personal Branding"
+  slug: personal-branding
+  speakers: [admondleekinlim]
+  type: podcast
+  youtube: https://www.youtube.com/watch?v=tQRQnz_aHYQ
+  season: 2
+  episode: 8
+- time: 2021-02-19 12:00:00
+  title: "The ABC’s of Data Science"
+  slug: abc-data-science
+  speakers: [dannyma]
+  type: podcast
+  youtube: https://www.youtube.com/watch?v=HVQ0DZOQcts
+  season: 2
+  episode: 7
 - time: 2021-02-19 11:55:00
   title: "DataTalks.Club Conference: Career in Data"
   speakers: [dannyma, admondleekinlim, parulpandey, vinvashishta]
