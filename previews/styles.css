@@ -48,6 +48,17 @@ h4 {
   height: 480px; /* 550 - 35*2*/
 }
 
+
+#inner-podcast {
+  padding: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 480px; /* 550 - 35*2*/
+}
+
+
+
 .author-block {
   display: flex;
   justify-content: center;
