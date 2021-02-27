@@ -16,7 +16,7 @@
               <h3>{{ page.subtitle }}</h3>
             {% endif %}
 
-            <p>Season: {{ page.season }}, episode {{ page.episode }} by
+            <p>Season {{ page.season }}, episode {{ page.episode }} of the DataTalks.Club podcast by
               {% for a in page.guests %}
                 {% assign author = site.people | where: "short", a | first %}
                 <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
@@ -32,19 +32,21 @@
         <div class="content-main mb-5">
           <ul>
             <li><a href="{{ page.links.youtube }}" target="_blank">Watch the video on YouTube</a></li>
-            <li><a href="{{ page.links.anchor }}" target="_blank">Listen to audio on Anchor</a></li>
+            <li><a href="{{ page.links.anchor }}" target="_blank">Listen to the audio-only version on Anchor</a></li>
           </ul>
-          
-          {% include youtube.html video_id=page.ids.youtube %}
-
-          {% include anchor.html id=page.ids.anchor %}
         </div>
-  
 
         <div class="content-main mb-5">
-          Register for upcoming podcast events in <a href="/events.html" target="_blank">events</a>.
+          {% include youtube.html video_id=page.ids.youtube %}
+          {% include anchor.html id=page.ids.anchor %}
+        </div>
 
+        <div class="content-main mb-5">
           {{ content }}
+        </div>
+
+        <div class="content-main mb-5">
+          To see the list of upcoming podcast events, check our <a href="/events.html">events</a> page.
         </div>
 
         <div class="article-divider"></div>
