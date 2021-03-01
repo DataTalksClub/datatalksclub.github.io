@@ -133,9 +133,14 @@ def create_person():
     return dict(full=full, small=small)
 
 
+def file_starts_with_underscore(path):
+    filename = path.split('/')[-1]
+    return filename.startswith('_')
+
+
 def find_last_book_date():
     books = glob('./_books/*.md')
-    books = [b for b in books if not b.endswith('_template.md')]
+    books = [b for b in books if not file_starts_with_underscore(b)]
     books = sorted(books)[::-1]
     dates = [b[9:17] for b in books]
 

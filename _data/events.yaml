@@ -1,10 +1,12 @@
+
+
 # april
 - time: 2021-04-27 17:00:00
   title: "Reinforcement Learning for Search"
   speakers: [romangrebennikov]
   type: webinar
   link: https://eventbrite.com/e/142771131297
-- time: 2021-04-16 17:00:00
+  - time: 2021-04-16 17:00:00
   title: "Data Observability: The Next Frontier of Data Engineering"
   slug: data-observability
   speakers: [barrmoses]
@@ -12,6 +14,11 @@
   link: https://eventbrite.com/e/142203409225
   season: 3
   episode: 3
+- time: 2021-04-13 17:00:00
+  title: "Data Mesh in Practice"
+  speakers: [maxschultze]
+  type: webinar
+  link: https://eventbrite.com/e/143797059877
 
 # march
 - time: 2021-03-26 17:00:00
