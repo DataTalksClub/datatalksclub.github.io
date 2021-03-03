@@ -1,5 +1,4 @@
 
-
 # april
 - time: 2021-04-27 17:00:00
   title: "Reinforcement Learning for Search"
@@ -21,6 +20,12 @@
   link: https://eventbrite.com/e/143797059877
 
 # march
+- time: 2021-03-30 17:00:00
+  title: "Data Science for Social Good"
+  speakers: [agnieszkamikolajczyk]
+  type: webinar
+  link: https://eventbrite.com/e/144218666915
+  draft: true
 - time: 2021-03-26 17:00:00
   title: Transitioning from Project Management to Data Science
   slug: from-pm-to-ds
@@ -68,6 +73,7 @@
   speakers: [rustemfeyzkhanov]
   type: webinar
   link: https://eventbrite.com/e/138779500221
+  youtube: https://www.youtube.com/watch?v=Nq8-VdBEY98
 
 
 # february 2021

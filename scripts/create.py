@@ -10,6 +10,7 @@ from glob import glob
 from datetime import datetime, timedelta
 
 import questionary
+import unidecode
 
 from PIL import Image
 from jinja2 import Template
@@ -77,6 +78,8 @@ def load_image(path):
 def save_resized_profile_picture(path, id):
     img = load_image(path)
     cropped = center_crop_resize(img)
+    if cropped.mode == 'RGBA':
+        cropped = cropped.convert('RGB')
 
     path = './images/authors/%s.jpg' % id
     cropped.save(path)
@@ -89,6 +92,8 @@ def create_person():
     tokens = raw.split()
     full = ' '.join(tokens)
     small = ''.join(tokens).lower()
+    small = small.replace('-', '').replace('.', '-')
+    small = unidecode.unidecode(small)
 
     print('Full name: %s, id: %s' % (full, small))
     print('Checking if person exist...')
@@ -176,6 +181,8 @@ def create_book():
     title_raw = questionary.text("Title:").ask()
     title_tokens = title_raw.split()
     title_hypthened = '-'.join([t.lower() for t in title_tokens])
+    title_hypthened = title_hypthened.replace('.', '-')
+
     book_id = '%s%s%s-%s' % (year, month, day, title_hypthened)
     print('Book ID: %s' % book_id)
 
