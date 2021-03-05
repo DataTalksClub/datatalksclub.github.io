@@ -34,6 +34,11 @@
   link: https://eventbrite.com/e/142423944853
   season: 3
   episode: 1
+- time: 2021-03-23 17:00:00
+  title: "Deep Learning Recommender Systems"
+  speakers: [cristianmartinez, iliaivanov]
+  type: webinar
+  link: https://eventbrite.com/e/144641583871
 - time: 2021-03-19 17:00:00
   title: Building and Growing Online Communities
   slug: communities
