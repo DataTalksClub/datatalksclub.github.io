@@ -47,3 +47,11 @@ We talked about:
 - Why SQL is the most important skill
 - R vs Python
 - Importance of Masters and PhD
+
+
+Links:
+
+- [Danny's profile on LinkedIn](https://linkedin.com/in/datawithdanny)
+- [Danny's course](https://datawithdanny.com/)
+- [Conference trailer](https://www.linkedin.com/posts/datawithdanny_datascientist-data-activity-6767988552811847680-GzUK/)
+- [Technical debt paper](https://proceedings.neurips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html)

@@ -66,6 +66,7 @@
   speakers: [bentaylor]
   type: podcast
   link: https://eventbrite.com/e/141301948933
+  youtube: https://www.youtube.com/watch?v=wOFvlR9UBxI
   season: 2
   episode: 10
 - time: 2021-03-02 17:00:00
@@ -104,6 +105,7 @@
   speakers: [admondleekinlim]
   type: podcast
   youtube: https://www.youtube.com/watch?v=tQRQnz_aHYQ
+  anchor: https://anchor.fm/datatalksclub/episodes/Personal-Branding---Admond-Lee-Kin-Lim-ern77e
   season: 2
   episode: 8
 - time: 2021-02-19 12:00:00
