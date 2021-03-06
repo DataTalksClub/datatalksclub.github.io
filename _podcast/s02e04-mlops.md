@@ -15,6 +15,6 @@ ids:
 links:
   youtube: https://www.youtube.com/watch?v=-i0fVp0ntYA
   anchor: https://anchor.fm/datatalksclub/episodes/The-Rise-of-MLOps---Theofilos-Papapanagiotou-ept67o
-  spotify: TODO
-  apple: TODO
+  spotify: https://open.spotify.com/episode/3YPvzGQnfxl7Mo1VKE0l1K
+  apple: https://podcasts.apple.com/us/podcast/the-rise-of-mlops-theofilos-papapanagiotou/id1541710331?i=1000507907719
 ---

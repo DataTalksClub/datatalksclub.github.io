@@ -15,6 +15,6 @@ ids:
 links:
   youtube: https://www.youtube.com/watch?v=FQYTb4uWljQ
   anchor: https://anchor.fm/datatalksclub/episodes/Feature-Stores-Cutting-through-the-Hype---Willem-Pienaar-ept6m8/a-a4hlg3r
-  spotify: TODO
-  apple: TODO
+  spotify: https://open.spotify.com/episode/05YnfTWbplXwOwicR2doy3
+  apple: https://podcasts.apple.com/us/podcast/feature-stores-cutting-through-the-hype-willem-pienaar/id1541710331?i=1000508782957
 ---

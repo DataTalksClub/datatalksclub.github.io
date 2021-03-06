@@ -15,13 +15,13 @@ ids:
 links:
   youtube: https://www.youtube.com/watch?v=tQRQnz_aHYQ
   anchor: https://anchor.fm/datatalksclub/episodes/Personal-Branding---Admond-Lee-Kin-Lim-ern77e
-  spotify: TODO
-  apple: TODO
+  spotify: https://open.spotify.com/episode/61Yv13MISTeP5nOVAZpY88
+  apple: https://podcasts.apple.com/us/podcast/personal-branding-admond-lee-kin-lim/id1541710331?i=1000511761026
 ---
 
 We talked about:
 
-- Admond's career journey 
+- Admond's career journey
 - What is personal brand
 - How Admond started being active online
 - Publishing on medium and LinkedIn

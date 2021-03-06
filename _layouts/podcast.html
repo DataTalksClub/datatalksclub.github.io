@@ -31,8 +31,14 @@
 
         <div class="content-main mb-5">
           <ul>
-            <li><a href="{{ page.links.youtube }}" target="_blank">Watch the video on YouTube</a></li>
-            <li><a href="{{ page.links.anchor }}" target="_blank">Listen to the audio-only version on Anchor</a></li>
+            <li><a href="{{ page.links.youtube }}" target="_blank">Watch on YouTube</a></li>
+            <li><a href="{{ page.links.anchor }}" target="_blank">Listen on Anchor</a></li>
+            {% if page.links.apple and page.links.apple != 'TODO' %}
+            <li><a href="{{ page.links.apple }}" target="_blank">Listen on Apple Podcasts</a></li>  
+            {% endif %}
+            {% if page.links.spotify and page.links.spotify != 'TODO' %}
+            <li><a href="{{ page.links.spotify }}" target="_blank">Listen on Spotify</a></li>  
+            {% endif %}
           </ul>
         </div>
 
@@ -46,7 +52,8 @@
         </div>
 
         <div class="content-main mb-5">
-          To see the list of upcoming podcast events, check our <a href="/events.html">events</a> page.
+          Did you like this episode? Check <a href="/podcast.html" target="_blank">other episodes of the podcast</a>,
+          and <a href="/events.html" target="_blank">register for new events</a>.
         </div>
 
         <div class="article-divider"></div>

@@ -15,8 +15,8 @@ ids:
 links:
   youtube: https://www.youtube.com/watch?v=HVQ0DZOQcts
   anchor: https://anchor.fm/datatalksclub/episodes/The-ABCs-of-Data-Science---Danny-Ma-er33oa
-  spotify: TODO
-  apple: TODO
+  spotify: https://open.spotify.com/episode/5T1Nm3HvrS9oIMH6C2AWcf
+  apple: https://podcasts.apple.com/us/podcast/the-abcs-of-data-science-danny-ma/id1541710331?i=1000510794953
 ---
 
 We talked about:
