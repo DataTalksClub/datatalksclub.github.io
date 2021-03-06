@@ -89,7 +89,26 @@
 
 
 # february 2021
-
+- time: 2021-02-26 17:00:00
+  title: "Continuous Integration for Machine Learning"
+  speakers: [elleobrien]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=A3OEaaiGPhk
+- time: 2021-02-26 16:00:00
+  title: "Machine Learning Design Patterns"
+  speakers: [sararobinson]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=aL_zQfi7lDI
+- time: 2021-02-26 15:00:00
+  title: "Putting Data Science in Production"
+  speakers: [mikiobraun]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=gFuEgIeZzIo 
+- time: 2021-02-26 14:00:00
+  title: "10 Foundational Practices of Machine Learning Engineering"
+  speakers: [larysavisengeriyeva]
+  type: webinar
+  youtube: https://www.youtube.com/watch?v=4gHSUjNUopc
 - time: 2021-02-26 13:55:00
   title: "DataTalks.Club Conference: ML in Production"
   speakers: [larysavisengeriyeva, mikiobraun, sararobinson, elleobrien]
