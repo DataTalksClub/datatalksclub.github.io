@@ -28,10 +28,9 @@
 # march
 - time: 2021-03-30 17:00:00
   title: "Data Science for Social Good"
-  speakers: [agnieszkamikolajczyk]
+  speakers: [Filipa Castro, agnieszkamikolajczyk]
   type: webinar
   link: https://eventbrite.com/e/144218666915
-  draft: true
 - time: 2021-03-26 17:00:00
   title: Transitioning from Project Management to Data Science
   slug: from-pm-to-ds
