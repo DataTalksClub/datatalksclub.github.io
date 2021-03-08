@@ -56,6 +56,16 @@
           and <a href="/events.html" target="_blank">register for new events</a>.
         </div>
 
+        {% if page.transcript %}
+        <div class="content-main mb-5">
+          <h2>Transcript</h2>
+          {% for line in page.transcript %}
+            <p><b>{{ line.who }}</b>: {{ line.line }} (<a href="{{ page.links.youtube }}&t={{ line.sec }}s" target="youtube">{{ line.time }}</a>)</p>
+          {% endfor %}
+        </div>
+        {% endif %}
+        
+
         <div class="article-divider"></div>
 
         <div class="article-end">
