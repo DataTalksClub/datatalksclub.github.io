@@ -10,7 +10,7 @@ layout: page
 
 ## Slack
 
-To join our Slack community, write your emain and click on the "Join" button. 
+To join our Slack community, write your email and click on the "Join" button.
 
 
 {% include subscribe.html subscribe="false" %}
