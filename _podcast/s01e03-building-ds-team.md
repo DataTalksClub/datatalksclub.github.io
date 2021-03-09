@@ -19,6 +19,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/building-a-data-science-team-dat-tran/id1541710331?i=1000502061864
 
 transcript:
+- header: Intro
 - line: Today we have pleasure to have Dat as a guest. Dat needs no introduction.
     If you have a LinkedIn account, you probably already know him. If you don't have
     a LinkedIn account, Dat has a lot of experience in building data teams, and this
@@ -33,8 +34,9 @@ transcript:
   sec: 173
   time: '2:53'
   who: Dat
+- header: "Dat\u2019s early career"
 - line: Yes, we'll start with your background. So can you please tell us how you started
-    your career? How did you get into machine learning? And this all led to becoming
+    your career? How did you get into machine learning? And how this all led to becoming
     a CTO of your own startup?
   sec: 177
   time: '2:57'
@@ -164,6 +166,7 @@ transcript:
   sec: 629
   time: '10:29'
   who: Dat
+- header: Work at Idealo and Axel Springer
 - line: "I looked at some companies, which were interesting for me at the time. I\
     \ applied for several companies. I interviewed for companies like Deutsche Bahn,\
     \ Telekom and whatever. But then, none of these big companies were really interesting\
@@ -297,6 +300,7 @@ transcript:
   sec: 1198
   time: '19:58'
   who: Dat
+- header: Story of Priceloop
 - line: "Then I was talking to a few friends. One idea was \u201COkay, maybe you go\
     \ back to Vietnam.\u201D I'm not from Vietnam, I'm from Germany, but maybe go\
     \ to Vietnam and go to a consultancy, because the tech is really strong there,\
@@ -371,6 +375,7 @@ transcript:
   sec: 1492
   time: '24:52'
   who: Dat
+- header: Team at Priceloop
 - line: "A long story. But very interesting. What stood out to me was, first of all,\
     \ you mentioned Andrew Ng and his course on Coursera. I think so many people ended\
     \ up where they are now, because of that course. Including myself. Yeah, it changed\
@@ -403,6 +408,7 @@ transcript:
   sec: 1645
   time: '27:25'
   who: Dat
+- header: How to start building a data team
 - line: That's an amazing topic. Many, many different companies, ecommerce companies
     will benefit from that. I know that it will all work out. So now you're already
     in the process of building a team. Some people already signed their offers, and
@@ -453,6 +459,7 @@ transcript:
   sec: 1839
   time: '30:39'
   who: Dat
+- header: Specialists vs generalists
 - line: "It\u2019s an interesting discussion \u2013 this specialist versus generalist\
     \ \u2013 and I'm wondering. Let's say, if you were still at Idealo. Who would\
     \ you prefer to hire back then? If you wanted to hire somebody in your team? Would\
@@ -515,6 +522,7 @@ transcript:
   sec: 2084
   time: '34:44'
   who: Dat
+- header: Who to hire first
 - line: "Going back to your current company, Priceloop. You mentioned you want to\
     \ hire a lot of different people. You want to hire a product manager, you want\
     \ to hire a frontend engineer, backend engineer, UI/UX designer, data engineer.\
@@ -555,6 +563,7 @@ transcript:
   sec: 2241
   time: '37:21'
   who: Dat
+- header: What is a strong product team
 - line: "You mentioned a couple of things previously. And one thing that stood out\
     \ to me was \u2013 you want to build a strong product team. What does that mean\
     \ to you \u2013 a strong product team?"
@@ -599,6 +608,7 @@ transcript:
   sec: 2371
   time: '39:31'
   who: Dat
+- header: Motivating team to write articles and contribute to open source
 - line: "Yes, that's definitely true. With this open source, many developers want\
     \ to do this. But when it comes to actually doing this\u2026 sometimes it's difficult.\
     \ Do you try to give some extra motivation? How do you motivate people to actually\
@@ -655,6 +665,7 @@ transcript:
   sec: 2605
   time: '43:25'
   who: Dat
+- header: Hiring a data scientist
 - line: That's awesome. Coming back to the hiring process. So you need to hire engineers
     to make sure that the infrastructure is there. The process for collecting data
     is there. But at some point, you want to hire a data scientist. How do you do
@@ -757,6 +768,7 @@ transcript:
   sec: 2935
   time: '48:55'
   who: Dat
+- header: How to pick the next projects to work on
 - line: "That's interesting\u2026 It didn\u2019t occur to me to look at these things.\
     \ But that's an interesting perspective. We just wanted to remind you that you\
     \ can ask Dat a question. You can go there and ask Dat a question. And we already\
@@ -803,6 +815,7 @@ transcript:
   sec: 3130
   time: '52:10'
   who: Alexey
+- header: Questions to Dat
 - line: "Question from Pratap. \u201CIf I'm about to set up a complete data science,\
     \ AI team in a product space \u2013 from where I need to start with?\u201D"
   sec: 3152

@@ -58,13 +58,22 @@
 
         {% if page.transcript %}
         <div class="content-main mb-5">
-          <h2>Transcript</h2>
+          <h2 id="transcript">Transcript</h2>
+          {% assign toc = page.transcript | where_exp: "line", "line.header" %}
+          <ul>
+          {% for line in toc %}
+            <li><a href="#{{ line.header | slugify }}">{{ line.header }}</a></li>
+          {% endfor %}
+          </ul>
           {% for line in page.transcript %}
+            {% if line.header %}
+            <h3 id="{{ line.header | slugify }}">{{ line.header }}</h3>
+            {% else %}
             <p><b>{{ line.who }}</b>: {{ line.line }} (<a href="{{ page.links.youtube }}&t={{ line.sec }}s" target="youtube">{{ line.time }}</a>)</p>
+            {% endif %}
           {% endfor %}
         </div>
         {% endif %}
-        
 
         <div class="article-divider"></div>
 
