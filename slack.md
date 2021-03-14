@@ -21,6 +21,8 @@ Slack.
 If you haven't received an invite, or the invite link doesn't work,
 write to alexey@datatalks.club, and we'll add you to Slack manually.
 
+When participating in discussions, follow [our community guidelines](/slack/guidelines.html).
+
 
 ## Channels 
 
