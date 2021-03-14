@@ -173,6 +173,7 @@ img.partner {
   padding-top: 1em;
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 
 .pod-badge-container {
