@@ -10,10 +10,28 @@ layout: page
 
 ## Podcast
 
-* [Apple podcast](https://podcasts.apple.com/us/podcast/id1541710331){:target="_blank"}
-* [Spotify](https://open.spotify.com/show/0pck8zuiXdI0OrCg86DAPy){:target="_blank"}
-* [Anchor.fm](https://anchor.fm/datatalksclub){:target="_blank"}
-* [RSS](https://anchor.fm/s/41286f68/podcast/rss){:target="_blank"}
+<div class="pod-badges">
+  <div class="pod-badge-container">
+    <a href="https://podcasts.apple.com/us/podcast/id1541710331" target="_blank">
+      <img class="pod-badge" src="/images/podcast/badges/apple-podcasts.svg" />
+    </a>
+  </div>
+  <div class="pod-badge-container">
+    <a href="https://open.spotify.com/show/0pck8zuiXdI0OrCg86DAPy" target="_blank">
+      <img class="pod-badge" src="/images/podcast/badges/spotify.svg" />
+    </a>
+  </div>
+  <div class="pod-badge-container">
+    <a href="https://www.youtube.com/c/DataTalksClub" target="_blank">
+      <img class="pod-badge" src="/images/podcast/badges/youtube.svg" />
+    </a>
+  </div>
+  <div class="pod-badge-container">
+    <a href="https://anchor.fm/datatalksclub" target="_blank">
+      <img class="pod-badge" src="/images/podcast/badges/anchor.svg" />
+    </a>
+  </div>
+</div>
 
 {% assign seasons = site.podcast | reverse | group_by: 'season'  %}
 

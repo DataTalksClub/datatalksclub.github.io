@@ -30,16 +30,33 @@
         </div>
 
         <div class="content-main mb-5">
-          <ul>
-            <li><a href="{{ page.links.youtube }}" target="_blank">Watch on YouTube</a></li>
-            <li><a href="{{ page.links.anchor }}" target="_blank">Listen on Anchor</a></li>
+          <div class="pod-badges">
             {% if page.links.apple and page.links.apple != 'TODO' %}
-            <li><a href="{{ page.links.apple }}" target="_blank">Listen on Apple Podcasts</a></li>  
+            <div class="pod-badge-container">
+              <a href="{{ page.links.apple }}" target="_blank">
+                <img class="pod-badge" src="/images/podcast/badges/apple-podcasts.svg" />
+              </a>
+            </div>
             {% endif %}
             {% if page.links.spotify and page.links.spotify != 'TODO' %}
-            <li><a href="{{ page.links.spotify }}" target="_blank">Listen on Spotify</a></li>  
+            <div class="pod-badge-container">
+              <a href="{{ page.links.spotify }}" target="_blank">
+                <img class="pod-badge" src="/images/podcast/badges/spotify.svg" />
+              </a>
+            </div>
             {% endif %}
-          </ul>
+            <div class="pod-badge-container">
+              <a href="{{ page.links.youtube }}" target="_blank">
+                <img class="pod-badge" src="/images/podcast/badges/youtube.svg" />
+              </a>
+            </div>
+            <div class="pod-badge-container">
+              <a href="{{ page.links.anchor }}" target="_blank">
+                <img class="pod-badge" src="/images/podcast/badges/anchor.svg" />
+              </a>
+            </div>
+          </div>
+
         </div>
 
         <div class="content-main mb-5">

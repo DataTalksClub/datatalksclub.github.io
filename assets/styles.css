@@ -167,3 +167,24 @@ img.partner {
 .emoji-list li.conference::before {
   content: "💼 ";
 }
+
+.pod-badges {
+  padding-bottom: 1em;
+  padding-top: 1em;
+  display: flex;
+  justify-content: center;
+}
+
+.pod-badge-container {
+  margin: 0.5em;
+}
+
+.pod-badge {
+  height: 40px;
+}
+
+@media (max-width: 850px) {
+  .pod-badges {
+    flex-direction: column;
+  }  
+}
