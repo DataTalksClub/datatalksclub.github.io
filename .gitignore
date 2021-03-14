@@ -1,0 +1,6 @@
+/tmp/
+.ipynb_checkpoints/
+.jekyll-cache/
+*.ipynb
+/_site/
+/previews/node_modules/
