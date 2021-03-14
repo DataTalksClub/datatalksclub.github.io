@@ -10,7 +10,6 @@
   speakers: [joshtobin]
   type: webinar
   link: https://eventbrite.com/e/144734933081
-  draft: true
 - time: 2021-04-16 17:00:00
   title: "Data Observability: The Next Frontier of Data Engineering"
   slug: data-observability
