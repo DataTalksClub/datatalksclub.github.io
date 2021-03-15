@@ -1,4 +1,5 @@
 
+
 # april
 - time: 2021-04-27 17:00:00
   title: "Reinforcement Learning for Search"
@@ -23,6 +24,14 @@
   speakers: [maxschultze]
   type: webinar
   link: https://eventbrite.com/e/143797059877
+- time: 2021-04-09 17:00:00
+  title: "Shifting Career from Analytics to Data Science"
+  slug: from-analytics-to-data-science
+  speakers: [andradaolteanu]
+  type: podcast
+  link: https://eventbrite.com/e/146485446915
+  season: 3
+  episode: 2
 
 # march
 - time: 2021-03-30 17:00:00
