@@ -32,6 +32,22 @@
           </div>
         </div>
 
+        {% if page.archive %}
+        <div class="content-main mb-5">
+          <h2>Archive</h2>
+          {% for thread in page.archive %}
+            <div class="book-archive-thread">
+              <b>{{ thread.name }}</b> {{ thread.text | newline_to_br | markdownify }}
+              {% for reply in thread.replies %}
+                <div class="book-archive-reply">
+                  <b>{{ reply.name }}</b> {{ reply.text | newline_to_br | markdownify }}
+                </div>
+              {% endfor %}
+            </div>
+          {% endfor %}
+        </div>
+        {% endif %}
+
         <div class="content-main mb-5">
           <p>To take part in the book of the week event:</p>
           <ul>
@@ -43,7 +59,7 @@
           </ul>
           <p class="pt-3">To see other books, check the <a href="/books.html">the book of the week</a> page.</p>
         </div>
-
+  
         <div class="article-divider"></div>
 
         <div class="article-end">

@@ -184,6 +184,15 @@ img.partner {
   height: 40px;
 }
 
+
+.book-archive-thread {
+  padding-bottom: 30px;
+}
+
+.book-archive-reply {
+  padding-left: 30px;
+}
+
 @media (max-width: 850px) {
   .pod-badges {
     flex-direction: column;
