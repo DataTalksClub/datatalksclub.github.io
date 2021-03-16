@@ -317,7 +317,7 @@ This list is not comprehensive, but it should be a good starting point if you ar
 
 This article is based on the podcast "Roles in a data team". You can watch it on YouTube: 
 
-{% include youtube.html video_id="2ZOnA19sDpM" %}
+{% include youtube.html video_id="UukjwSIAnpw" %}
 
 Or listen to audio on Anchor.fm (or your favorite podcast platform): 
 
