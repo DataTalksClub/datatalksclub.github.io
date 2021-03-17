@@ -1,7 +1,7 @@
 {% assign book = include.book %}
 <div class="book">
   <div class="book-cover">
-    <img class="img-border" src="/{{ book.cover }}" />
+    <a href="{{ book.id }}.html"><img class="img-border" src="/{{ book.cover }}" /></a>
   </div>
   <div class="book-info">
     <div class="book-title">
