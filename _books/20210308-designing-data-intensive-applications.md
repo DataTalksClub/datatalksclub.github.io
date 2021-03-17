@@ -458,10 +458,10 @@ archive:
   replies:
   - name: Martin Kleppmann
     text: 'This is the only multi-lecture course available so far. I also have this
-      playlist of conference talks I have done: [https://www.youtube.com/watch?v=fU9hR3kiOK0&amp;list=PLeKd45zvjcDHJxge6VtYUAbYnvd_VNQCx](https://www.youtube.com/watch?v=fU9hR3kiOK0&amp;list=PLeKd45zvjcDHJxge6VtYUAbYnvd_VNQCx)'
+      playlist of conference talks I have done: [https://www.youtube.com/watch?v=fU9hR3kiOK0](https://www.youtube.com/watch?v=fU9hR3kiOK0&amp;list=PLeKd45zvjcDHJxge6VtYUAbYnvd_VNQCx)'
   - name: Martin Kleppmann
     text: 'it includes some course-like material, such as this 2-hour lecture on formally
-      verifying distributed algorithms: [https://www.youtube.com/watch?v=Uav5jWHNghY&amp;list=PLeKd45zvjcDHJxge6VtYUAbYnvd_VNQCx&amp;index=26](https://www.youtube.com/watch?v=Uav5jWHNghY&amp;list=PLeKd45zvjcDHJxge6VtYUAbYnvd_VNQCx&amp;index=26)'
+      verifying distributed algorithms: [https://www.youtube.com/watch?v=Uav5jWHNghY](https://www.youtube.com/watch?v=Uav5jWHNghY&amp;list=PLeKd45zvjcDHJxge6VtYUAbYnvd_VNQCx&amp;index=26)'
 - name: RH
   text: "Hi Martin,\nBackground: I work in a startup with a small engineering team;\
     \ I mostly work on building NLP based microservices (data analysis to devops)\
