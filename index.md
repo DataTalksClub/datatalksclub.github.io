@@ -36,18 +36,6 @@ layout: home
 
 <div class="row my-5">
   <div class="col-md-8 offset-md-3">
-    <h4>Latest articles</h4>
-    <ul>
-      {% for post in site.posts %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a> by
-            {% include authors.html authors=post.authors %}
-        </li>
-      {% endfor %}
-    </ul>
-      
-    <p>&nbsp;</p>
-
     {% assign upcoming = site.data.events
       | where_exp: "event", "event.draft != true"
       | where_exp: "event", "event.time > site.time"
@@ -62,7 +50,23 @@ layout: home
       {% endfor %}
     </ul>
 
-    <p>Check <a href="/events.html">events</a> for the all past events.</p>
+    <p>Check <a href="/events.html">events</a> for all past events.</p>
+
+    <p>&nbsp;</p>
+
+    {% assign episodes = site.podcast
+      | sort: 'season'
+      | sort: 'episode'
+      | reverse %}
+    <h4>Latest podcast episodes</h4>
+    <ul>
+      {% for episode in episodes limit: 5%}
+        <li><a href="{{ episode.id }}.html">{{ episode.title }}</a> by 
+          {% include authors.html authors=episode.guests %}</li>
+      {% endfor %}
+    </ul>
+
+    <p>Check the <a href="/podcast.html">podcast</a> page for all past podcast episodes.</p>
 
     <p>&nbsp;</p>
 
@@ -80,5 +84,18 @@ layout: home
     </ul>
 
     <p>Check the <a href="/books.html">book of the week</a> page for more books!</p>
+    
+    <p>&nbsp;</p>
+
+    <h4>Latest articles</h4>
+    <ul>
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a> by
+            {% include authors.html authors=post.authors %}
+        </li>
+      {% endfor %}
+    </ul>
+
   </div>
 </div>
