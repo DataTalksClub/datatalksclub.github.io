@@ -11,6 +11,17 @@ body, html {
   font-size: 120%;
 }
 
+.header-gap {
+  width: 1em;
+  display: inline-block;
+}
+
+@media (max-width: 768px) {
+  .header-gap {
+    width: 0.2em;
+  }
+}
+
 .content {
   font-size: 130%;
 }
@@ -73,11 +84,6 @@ body, html {
   display: block;
   margin: 0 auto;
 }
-
-/* .video {
-  display: block;
-  margin: 0 auto;
-} */
 
 .video-container {
   overflow: hidden;
