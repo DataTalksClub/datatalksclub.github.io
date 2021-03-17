@@ -240,7 +240,7 @@ archive:
     text: 'I am collecting ideas for a second edition, but not planning to start work
       on it for at least another year, since the current content is still pretty up-to-date.
 
-      I replied about ideas for a second edition in this thread: [https://datatalks-club.slack.com/archives/C01H403LKG8/p1615222541049600](https://datatalks-club.slack.com/archives/C01H403LKG8/p1615222541049600)'
+      I replied about ideas for a second edition in [this thread](https://datatalks-club.slack.com/archives/C01H403LKG8/p1615222541049600)'
 - name: Elias
   text: "Hello Martin, it\u2019s a great honor, and thank you for your book! In the\
     \ last chapter, you are writing about the future of data systems. And many of\
