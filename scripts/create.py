@@ -92,7 +92,7 @@ def create_person():
     tokens = raw.split()
     full = ' '.join(tokens)
     small = ''.join(tokens).lower()
-    small = small.replace('-', '').replace('.', '-')
+    small = small.replace("'", '').replace('-', '').replace('.', '-')
     small = unidecode.unidecode(small)
 
     print('Full name: %s, id: %s' % (full, small))
@@ -181,7 +181,7 @@ def create_book():
     title_raw = questionary.text("Title:").ask()
     title_tokens = title_raw.split()
     title_hypthened = '-'.join([t.lower() for t in title_tokens])
-    title_hypthened = title_hypthened.replace('.', '-')
+    title_hypthened = title_hypthened.replace('.', '-').replace("'", '')
 
     book_id = '%s%s%s-%s' % (year, month, day, title_hypthened)
     print('Book ID: %s' % book_id)
