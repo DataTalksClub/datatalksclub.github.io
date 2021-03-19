@@ -11,6 +11,8 @@ links:
     link: https://www.oreilly.com/library/view/database-internals/9781492040330/
   - text: Book's website
     link: https://www.databass.dev/
+  - text: Slack community to talk about databases and the book
+    link: http://bit.ly/joindatabass
 ---
 
 Have you ever wanted to learn more about Databases but did not know where to start?
