@@ -1,4 +1,9 @@
 # may
+- time: 2021-05-11 17:00:00
+  title: "Hands-on AI Observability"
+  speakers: [andypetrella]
+  type: webinar
+  link: https://eventbrite.com/e/147192279069
 - time: 2021-05-04 17:00:00
   title: "Setting up an A/B Testing Framework"
   speakers: [agnesvanbelle]
@@ -93,6 +98,7 @@
   type: podcast
   link: https://eventbrite.com/e/141301948933
   youtube: https://www.youtube.com/watch?v=wOFvlR9UBxI
+  anchor: https://anchor.fm/datatalksclub/episodes/The-Essentials-of-Public-Speaking-for-Career-in-Data-Science---Ben-Taylor-et0m4p
   season: 2
   episode: 10
 - time: 2021-03-02 17:00:00
