@@ -28,10 +28,10 @@ We talked about:
 - Becoming a great speaker
 - Key takeaways and call to action
 - Making a good introduction
-- Being Remembered
+- Being remembered
 - Writing a talk proposal for conferences
 - Landing a keynote
 - Good topics to start talks on
-- Pitching a solution talk to meetup organizers
+- Pitching a talk to meetup organizers
 - Top public speaking skill to acquire
 - Book recommendations
