@@ -1,10 +1,10 @@
 ---
 title: "Learning Tensorflow.js"
 description: "Book of the Week. Learning Tensorflow.js by Gant Laborde"
-cover: "images/books/20210517-learning-tensorflow-js/cover.jpg"
-image: "images/books/20210517-learning-tensorflow-js/preview.jpg"
-start: 2021-05-17 00:00:00
-end: 2021-05-21 22:59:58
+cover: "images/books/20210329-learning-tensorflow-js/cover.jpg"
+image: "images/books/20210329-learning-tensorflow-js/preview.jpg"
+start: 2021-03-29 00:00:00
+end: 2021-04-02 22:59:58
 authors: [gantlaborde]
 links: 
   - text: Book's page
