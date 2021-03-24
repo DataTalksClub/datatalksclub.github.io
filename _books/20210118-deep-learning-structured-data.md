@@ -123,7 +123,7 @@ archive:
     text: "Thanks for the example. Hopefully, there will be more success with defenses\
       \ soon.\nIf everything boils down to \u201Ccost of ownership\u201D,  wouldn\u2019\
       t AUTOML be the best choice for the majority of the use cases? In particular,\
-      \ it will be the one to make the choice of the technology :smiley:"
+      \ it will be the one to make the choice of the technology :)"
   - name: Mark Ryan
     text: AutoML may indeed reach the point where us mere humans won't have to make
       choices between DL and something else for tabular datasets. I don't think AutoML
@@ -214,7 +214,7 @@ archive:
     - Are there specific industries or use cases involving structured data where Deep
     Learning should be used more, but isn''t? I''m trying to understand if there are
     cases when folks are spending a lot of time feature engineering, but one can rely
-    on DL to save the day :slightly_smiling_face: '
+    on DL to save the day 🙂'
   replies:
   - name: Mark Ryan
     text: 'Hi Rishabh Bhargava - for architectures for DL with tabular data, I''ve
@@ -287,7 +287,7 @@ archive:
       of ML in that data warehouse.'
   - name: Matt Welke
     text: 'Thanks for the reply. My work reimburses me for educational books, so I''ve
-      actually already purchased yours. :stuck_out_tongue: I''m just planning my path.
+      actually already purchased yours. 😛 I''m just planning my path.
       I started by taking a Coursera course on GCP data engineering, since that''s
       what I do at work. It introduced me to a few of the GCP ML products. Then, I
       got more familiar with Python. Right now, I''m reading the Manning book "Machine
@@ -305,13 +305,13 @@ archive:
     text: That sounds like a great plan. Thanks very much for buying the book and
       I hope that you find it useful.
   - name: Alexey Grigorev
-    text: 'hey Matt Welke glad to hear that you like ML Bookcamp :smiley: if you have
-      any questions about it, you can use <#C01B0GNNBGS|ml-bookcamp> or <#C01AXGTRESH|books>
+    text: 'hey Matt Welke glad to hear that you like ML Bookcamp :) if you have
+      any questions about it, you can use `#ml-bookcamp` or `#books`
       or just write me in DM
 
       (Sorry Mark for hijacking your thread)'
   - name: Matt Welke
-    text: 'Oh true that''s how I found this Slack server. :stuck_out_tongue:'
+    text: 'Oh true that''s how I found this Slack server. 😛'
   - name: Matt Welke
     text: Yeah I've only completed the first two chapters I think. I'm super busy
       this month finishing up studying for my GCP data engineer cert (I take the exam
@@ -526,7 +526,7 @@ archive:
     text: Thank you Mark for agreeing to take part in this event and finding time
       to answer our questions!
   - name: Alper Demirel
-    text: 'Thank you very much for your answers :star-struck:'
+    text: 'Thank you very much for your answers 🤩'
 
 ---
 
