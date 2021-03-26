@@ -6,18 +6,17 @@ import yaml
 from jinja2 import Template
 from slugify import slugify
 
-
-with open('_data/events.yaml', 'r') as f_in:
-    data = yaml.full_load(f_in)
-
-podcasts = [e for e in data if e['type'] == 'podcast' and 'anchor' in e]
+import questionary
 
 
-def create_podcast_page(p):
+def get_short_name(p):
     if 'short' in p:
-        short = p['short']
-    else:
-        short = p['title']
+        return p['short']
+    return p['title']
+
+
+def get_pocast_id(p):
+    short = get_short_name(p)
 
     if 'slug' in p:
         slug = slugify(p['slug'])
@@ -25,13 +24,17 @@ def create_podcast_page(p):
         slug = slugify(short)
 
     podcast_id = 's%02de%02d-%s' % (p['season'], p['episode'], slug)
-    
+    return podcast_id
+
+
+def create_podcast_page(p):
+    podcast_id = get_pocast_id(p)
     filename = '_podcast/%s.md' % podcast_id
 
     if os.path.exists(filename):
         print('%s is already processed' % podcast_id)
         return
-    
+
     with open('_podcast/_template.md') as f_in:
         template_raw = f_in.read()
 
@@ -45,7 +48,7 @@ def create_podcast_page(p):
 
     params = {
         'title': p['title'],
-        'short': short,
+        'short': get_short_name(p),
         'image': image_path,
         'guest': p['speakers'][0],
         'season': p['season'],
@@ -68,9 +71,24 @@ def create_podcast_page(p):
     subprocess.call(['bash', 'scripts/generate-podcast-preview.sh', podcast_id])
 
 
-for p in podcasts:
-    print(p['title'])
-    create_podcast_page(p)
-    print()
+with open('_data/events.yaml', 'r') as f_in:
+    data = yaml.full_load(f_in)
 
 
+def is_processed(p):
+    podcast_id = get_short_name(p)
+    filename = '_podcast/%s.md' % podcast_id
+    return os.path.exists(filename)
+
+
+podcasts = [e for e in data if e['type'] == 'podcast' and 'anchor' in e]
+
+not_processed = [e for e in podcasts if is_processed(e)]
+
+if len(not_processed) > 0:
+    idx = {e['title']: e for e in not_processed}
+    choice = questionary.select("Episode:", choices=idx.keys()).ask()  
+    episode = idx[choice]
+    create_podcast_page(episode)
+else:
+    print('nothing to do!')
