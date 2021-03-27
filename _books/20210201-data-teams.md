@@ -10,11 +10,11 @@ links:
   - text: Book's page on Apress
     link: https://www.springer.com/us/book/9781484262276
   - text: Book's Page
-    link: https://www.datateams.io/\
+    link: https://www.datateams.io/
 
 archive:
 - name: Wendy Mak
-  text: 'hi Jesse Anderson, I have a few questions:
+  text: 'Hi Jesse Anderson, I have a few questions:
 
     for data teams, when would you choose a more ''centralised'' mode (central data
     science team where all the business teams go to ) vs a ''distributed'' mode (each
