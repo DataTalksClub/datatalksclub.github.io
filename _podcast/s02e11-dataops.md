@@ -19,6 +19,23 @@ links:
   apple: https://podcasts.apple.com/us/podcast/dataops-101-lars-albertsson/id1541710331?i=1000514542438
 ---
 
+We talked about:
+
+- Lars’ career
+- Doing DataOps before it existed
+- What is DataOps
+- Data platform
+- Data warehouses and data lakes
+- Main components of the data platform and tools to implement it
+- Books about functional programming principles
+- Batch vs streaming
+- Maturity levels
+- Building self-service tools
+- MLOps vs DataOps
+- Data Mesh
+- Lake house
+
+
 Links:
 
 - [https://www.scling.com/reading-list](https://www.scling.com/reading-list){:target="_blank"}
