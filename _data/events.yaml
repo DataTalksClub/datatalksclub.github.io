@@ -21,6 +21,11 @@
   speakers: [romangrebennikov]
   type: webinar
   link: https://eventbrite.com/e/142771131297
+- time: 2021-04-23 12:00:00
+  title: "Effective Communication with Business for Data Professionals"
+  speakers: [liorbarak]
+  type: podcast
+  link: https://eventbrite.com/e/148509123787
 - time: 2021-04-20 17:00:00
   title: "Evaluation Store"
   speakers: [joshtobin]
