@@ -86,7 +86,7 @@
             {% if line.header %}
             <h3 id="{{ line.header | slugify }}">{{ line.header }}</h3>
             {% else %}
-            <p><b>{{ line.who }}</b>: {{ line.line }} (<a href="{{ page.links.youtube }}&t={{ line.sec }}s" target="youtube">{{ line.time }}</a>)</p>
+            <p><b>{{ line.who }}</b>: {{ line.line }}{% if line.sec %} (<a href="{{ page.links.youtube }}&t={{ line.sec }}s" target="youtube">{{ line.time }}</a>){% endif %}</p>
             {% endif %}
           {% endfor %}
         </div>
