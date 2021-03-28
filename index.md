@@ -41,9 +41,9 @@ layout: home
       | where_exp: "event", "event.time > site.time"
       | sort: 'time'  %}
     <h4>Upcoming events</h4>
-    <ul>
+    <ul class="emoji-list">
       {% for event in upcoming %}
-        <li>
+        <li class="{{ event.type }}">
           <a href="{{ event.link }}" target="_blank">{{ event.title }}</a> on {{ event.time | date_to_string }} by
           {% include authors.html authors=event.speakers %}
         </li>

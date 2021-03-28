@@ -41,11 +41,14 @@ Register for upcoming podcast events in <a href="/events.html" target="_blank">e
 
 <h3>Season: {{ season.name }}</h3>
 
-<ul>
+<ul class="emoji-list">
   {% for episode in season.items %}
-    <li><a href="{{ episode.id }}.html">{{ episode.title }}</a> by
+    <li{% if episode.transcript %} class="transcript"{% endif %}>
+      <a href="{{ episode.id }}.html">{{ episode.title }}</a> by
       {% include authors.html authors=episode.guests %}</li>
   {% endfor %}
 </ul>
 
 {% endfor %}
+
+📝 &ndash; episodes with transcription

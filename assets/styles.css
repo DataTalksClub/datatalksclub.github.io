@@ -219,6 +219,10 @@ img.partner {
   content: "💼 ";
 }
 
+.emoji-list li.transcript::before {
+  content: "📝 ";
+}
+
 .pod-badges {
   padding-bottom: 1em;
   padding-top: 1em;
