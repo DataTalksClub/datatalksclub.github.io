@@ -59,6 +59,7 @@
   speakers: [filipacastro, agnieszkamikolajczyk]
   type: webinar
   link: https://eventbrite.com/e/144218666915
+  youtube: https://www.youtube.com/watch?v=arwHfVX8_cc
 - time: 2021-03-26 17:00:00
   title: Transitioning from Project Management to Data Science
   slug: from-pm-to-ds
