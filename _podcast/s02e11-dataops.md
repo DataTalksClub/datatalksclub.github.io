@@ -191,7 +191,7 @@ transcript:
     path.
   who: Lars
 - line: "DataOps is yet another of that evolution of mixing up different types of\
-    \ people and different types of competencies. Not only development, equality,\
+    \ people and different types of competencies. Not only development, quality\
     \ assurance and operations, but also data modelling and data skills and analytics\
     \ into the same melting pot. All are aligned towards the same goal. That is the\
     \ key. This alignment has become obvious for QA, they used to be a blocking thing.\
