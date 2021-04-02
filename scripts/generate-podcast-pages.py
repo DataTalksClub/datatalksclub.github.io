@@ -76,14 +76,13 @@ with open('_data/events.yaml', 'r') as f_in:
 
 
 def is_processed(p):
-    podcast_id = get_short_name(p)
+    podcast_id = get_pocast_id(p)
     filename = '_podcast/%s.md' % podcast_id
     return os.path.exists(filename)
 
 
 podcasts = [e for e in data if e['type'] == 'podcast' and 'anchor' in e]
-
-not_processed = [e for e in podcasts if is_processed(e)]
+not_processed = [e for e in podcasts if not is_processed(e)]
 
 if len(not_processed) > 0:
     idx = {e['title']: e for e in not_processed}
