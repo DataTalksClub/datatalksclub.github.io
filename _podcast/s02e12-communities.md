@@ -1,6 +1,6 @@
 ---
-title: "Building and Growing Online Communities"
-short: "Building and Growing Online Communities"
+title: "Building Online Tech Communities"
+short: "Building Online Tech Communities"
 guests: [demetriosbrinkmann]
 
 image: images/podcast/s02e12-communities.jpg
