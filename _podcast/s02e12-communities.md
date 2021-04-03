@@ -962,7 +962,7 @@ transcript:
   time: '1:07:19'
   who: Alexey
 - line: Sorry to make you blush, and tell all of your followers that you're into that.
-    But where do you find him? I genuinely think it's easier to find people on LinkedIn,
+    But where do you find them? I genuinely think it's easier to find people on LinkedIn,
     if it's around a professional network. You could technically say that a Facebook
     group is a community. Maybe that's where you find people. Maybe you find them
     in the comment section of a YouTube video. Where do these people hang out? And
@@ -970,7 +970,7 @@ transcript:
   sec: 4046
   time: '1:07:26'
   who: Demetrios
-- line: What about the fifth one? Bhe question was about five main points.
+- line: What about the fifth one? The question was about five main points.
   sec: 4094
   time: '1:08:14'
   who: Alexey
