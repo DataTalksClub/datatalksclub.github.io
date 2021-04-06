@@ -169,6 +169,15 @@ def find_last_book_date():
     return year, month, day
 
 
+def slugify(raw):
+    title_tokens = raw.split()
+    res = '-'.join([t.lower() for t in title_tokens])
+    res = res.replace('.', '-')
+    res = res.replace("'", '')
+    res = res.replace(':', '')
+    return res
+
+
 def create_book():
     print("Okay, let's create a book!")
 
@@ -180,8 +189,7 @@ def create_book():
 
     title_raw = questionary.text("Title:").ask()
     title_tokens = title_raw.split()
-    title_hypthened = '-'.join([t.lower() for t in title_tokens])
-    title_hypthened = title_hypthened.replace('.', '-').replace("'", '')
+    title_hypthened = slugify(title_raw)
 
     book_id = '%s%s%s-%s' % (year, month, day, title_hypthened)
     print('Book ID: %s' % book_id)
