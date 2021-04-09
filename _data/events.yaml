@@ -50,6 +50,7 @@
   speakers: [andradaolteanu]
   type: podcast
   link: https://eventbrite.com/e/146485446915
+  youtube: https://www.youtube.com/watch?v=ixmTewD5Waw
   season: 3
   episode: 2
 
@@ -67,6 +68,7 @@
   type: podcast
   link: https://eventbrite.com/e/142423944853
   youtube: https://www.youtube.com/watch?v=rBKezdb9jEc
+  anchor: https://anchor.fm/datatalksclub/episodes/Transitioning-from-Project-Management-to-Data-Science---Ksenia-Legostay-euig2a
   season: 3
   episode: 1
 - time: 2021-03-23 17:00:00
