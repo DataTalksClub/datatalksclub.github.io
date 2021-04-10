@@ -39,7 +39,7 @@ Register for upcoming podcast events in <a href="/events.html" target="_blank">e
 
 {% for season in seasons %}
 
-<h3>Season: {{ season.name }}</h3>
+<h3>Season #{{ season.name }}</h3>
 
 <ul class="emoji-list">
   {% for episode in season.items %}

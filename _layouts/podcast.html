@@ -16,7 +16,7 @@
               <h3>{{ page.subtitle }}</h3>
             {% endif %}
 
-            <p>Season {{ page.season }}, episode {{ page.episode }} of the DataTalks.Club podcast by
+            <p>Season {{ page.season }}, episode {{ page.episode }} of the DataTalks.Club podcast with
               {% for a in page.guests %}
                 {% assign author = site.people | where: "short", a | first %}
                 <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
