@@ -9,7 +9,7 @@ authors: [kenyouens-clark]
 links: 
   - text: Book's page
     link: https://www.manning.com/books/tiny-python-projects
-  - text: Book's GutHub repository
+  - text: Book's GitHub repository
     link: https://github.com/kyclark/tiny_python_projects
 ---
 

@@ -11,7 +11,7 @@ links:
     link: https://www.packtpub.com/product/machine-learning-using-tensorflow-cookbook/9781800208865
   - text: Amazon
     link: https://www.amazon.com/Machine-Learning-Using-TensorFlow-Cookbook/dp/1800208863
-  - text: Book's GutHub repository
+  - text: Book's GitHub repository
     link: https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Cookbook
 ---
 

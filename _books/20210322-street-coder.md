@@ -9,7 +9,7 @@ authors: [sedatkapanoglu]
 links: 
   - text: Book's page
     link: https://www.manning.com/books/street-coder
-  - text: Book's GutHub repository
+  - text: Book's GitHub repository
     link: https://github.com/ssg/streetcoder
 ---
 

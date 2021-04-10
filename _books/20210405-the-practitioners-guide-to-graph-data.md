@@ -9,7 +9,7 @@ authors: [denisegosnell]
 links: 
   - text: Book's page
     link: https://www.oreilly.com/library/view/the-practitioners-guide/9781492044062/
-  - text: Book's GutHub repository
+  - text: Book's GitHub repository
     link: https://github.com/datastax/graph-book
 ---
 

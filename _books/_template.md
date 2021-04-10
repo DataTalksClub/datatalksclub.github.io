@@ -11,7 +11,7 @@ links:
     link: TODO
   - text: Book's website
     link: TODO
-  - text: Book's GutHub repository
+  - text: Book's GitHub repository
     link: TODO
 ---
 

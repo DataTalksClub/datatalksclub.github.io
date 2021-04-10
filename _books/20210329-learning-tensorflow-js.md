@@ -11,7 +11,7 @@ links:
     link: https://www.oreilly.com/library/view/learning-tensorflowjs/9781492090786/
   - text: Amazon
     link: https://www.amazon.com/gp/product/1492090794
-  - text: Book's GutHub repository
+  - text: Book's GitHub repository
     link: https://github.com/GantMan/learn-tfjs
 ---
 

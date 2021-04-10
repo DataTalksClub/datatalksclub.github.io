@@ -9,7 +9,7 @@ authors: [miguelmorales]
 links: 
   - text: Book's page
     link: https://www.manning.com/books/grokking-deep-reinforcement-learning
-  - text: Book's GutHub repository
+  - text: Book's GitHub repository
     link: https://github.com/mimoralea/gdrl
 ---
 

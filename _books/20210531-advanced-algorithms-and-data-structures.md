@@ -9,7 +9,7 @@ authors: [marcellolarocca]
 links: 
   - text: Book's page
     link: https://www.manning.com/books/advanced-algorithms-and-data-structures
-  - text: Book's GutHub repository
+  - text: Book's GitHub repository
     link: https://github.com/mlarocca/AlgorithmsAndDataStructuresInAction
 ---
 
