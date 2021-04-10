@@ -175,6 +175,7 @@ def slugify(raw):
     res = res.replace('.', '-')
     res = res.replace("'", '')
     res = res.replace(':', '')
+    res = unidecode.unidecode(res)
     return res
 
 
@@ -236,6 +237,25 @@ def create_book():
     subprocess.call(['bash', 'scripts/generate-book-preview.sh', book_id])
 
 
+template_webinar_string = """
+- time: {{ year }}-{{ month }}-{{ day }} 17:00:00
+  title: "{{ title }}"
+  speakers: [{{ speaker }}]
+  type: webinar
+  link: https://eventbrite.com/e/{{ event_id }}
+"""
+
+template_podcast_string = """
+- time: {{ year }}-{{ month }}-{{ day }} 17:00:00
+  title: "{{ title }}"
+  slug: "{{ slug }}"
+  speakers: [{{ speaker }}]
+  type: podcast
+  link: https://eventbrite.com/e/{{ event_id }}
+  season: {{ season }}
+  episode: {{ episode }}
+"""
+
 def create_event():
     print("Okay, let's create an event!")
 
@@ -255,25 +275,32 @@ def create_event():
     title = questionary.text("Title:").ask()
 
     event_id = questionary.text("Event ID:").ask()
-
-    template_string = """
-- time: {{ year }}-{{ month }}-{{ day }} 17:00:00
-  title: "{{ title }}"
-  speakers: [{{ speaker }}]
-  type: {{ type  }}
-  link: https://eventbrite.com/e/{{ event_id }}
-"""
-
-    template = Template(template_string)
     params = {
         'year': year,
         'month': month,
         'day': day,
         'title': title,
         'speaker': speaker,
-        'type': typ,
         'event_id': event_id
     }
+
+    if typ == 'webinar':
+        template = Template(template_webinar_string)
+    elif typ == 'podcast':
+        default_slug = slugify(title)
+        slug = questionary.text("Slug:", default_slug).ask()
+        season = questionary.text("Season:").ask().strip()
+        episode = questionary.text("Episode:").ask().strip()
+
+        params.update({
+            'slug': slug,
+            'season': season,
+            'episode': episode,
+        })
+
+        template = Template(template_podcast_string)
+    else: 
+        raise Exception('uknown type: %s' % typ)
 
     rendered = template.render(**params)
     print(rendered)

@@ -1,9 +1,18 @@
+
 # may
 - time: 2021-05-11 17:00:00
   title: "Hands-on AI Observability"
   speakers: [andypetrella]
   type: webinar
   link: https://eventbrite.com/e/147192279069
+- time: 2021-05-07 17:00:00
+  title: "From Physics to Machine Learning"
+  slug: "from-physics-to-machine-learning"
+  speakers: [tatianagabruseva]
+  type: podcast
+  link: https://eventbrite.com/e/150331151521
+  season: 3
+  episode: 6
 - time: 2021-05-04 17:00:00
   title: "Setting up an A/B Testing Framework"
   speakers: [agnesvanbelle]
@@ -23,9 +32,12 @@
   link: https://eventbrite.com/e/142771131297
 - time: 2021-04-23 12:00:00
   title: "Effective Communication with Business for Data Professionals"
+  slug: effective-communication-with-business
   speakers: [liorbarak]
   type: podcast
   link: https://eventbrite.com/e/148509123787
+  season: 3
+  episode: 4
 - time: 2021-04-20 17:00:00
   title: "Evaluation Store"
   speakers: [joshtobin]
