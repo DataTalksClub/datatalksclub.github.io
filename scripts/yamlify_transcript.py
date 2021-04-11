@@ -118,6 +118,10 @@ for i in range(len(results)):
         continue
 
     next_row = results[i + 1]
+    # print(row)
+    # print(next_row)
+    # print()
+
     time = next_row['time']
 
     if len(time) < 5:
