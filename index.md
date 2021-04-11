@@ -61,7 +61,7 @@ layout: home
     <h4>Latest podcast episodes</h4>
     <ul>
       {% for episode in episodes limit: 5%}
-        <li><a href="{{ episode.id }}.html">{{ episode.title }}</a> by 
+        <li><a href="{{ episode.id }}.html">{{ episode.title }}</a> with 
           {% include authors.html authors=episode.guests %}</li>
       {% endfor %}
     </ul>
