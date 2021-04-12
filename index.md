@@ -55,8 +55,8 @@ layout: home
     <p>&nbsp;</p>
 
     {% assign episodes = site.podcast
-      | sort: 'season'
       | sort: 'episode'
+      | sort: 'season'
       | reverse %}
     <h4>Latest podcast episodes</h4>
     <ul>
