@@ -55,6 +55,7 @@
   speakers: [maxschultze]
   type: webinar
   link: https://eventbrite.com/e/143797059877
+  youtube: https://www.youtube.com/watch?v=ekEc8D_D3zY
 - time: 2021-04-09 17:00:00
   title: "Shifting Career from Analytics to Data Science"
   slug: from-analytics-to-data-science
