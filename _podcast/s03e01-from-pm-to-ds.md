@@ -32,7 +32,7 @@ transcript:
   sec: 177
   time: '2:57'
   who: Ksenia
-- header: "Knesia\u2019s background"
+- header: "Ksenia\u2019s background"
 - line: Before we start, before we go to our main topic, can you tell us about your
     career journey?
   sec: 180
@@ -893,7 +893,7 @@ transcript:
 
 We talked about:
 
-- Knesia’s background
+- Ksenia’s background
 - Data analytics vs data science
 - Skills needed for data analytics and data science
 - Benefits of getting a masters degree
