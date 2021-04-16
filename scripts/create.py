@@ -230,6 +230,9 @@ def create_book():
     image_location = questionary.text('Image location:').ask().strip()
     img = load_image(image_location)
 
+    if img.mode == 'RGBA':
+        img = img.convert('RGB')
+
     image_location_result = '%s/cover.jpg' % images_path
     img.save(image_location_result)
 
