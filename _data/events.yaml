@@ -1,11 +1,14 @@
-
+# may
+- time: 2021-06-25 17:00:00
+  title: "Productionizing ML Systems without Fear nor Heroism"
+  speakers: [nastasiasaby]
+  type: webinar
+  link: https://eventbrite.com/e/151342999987
 - time: 2021-06-18 17:00:00
   title: "A Framework for Feature Engineering and Machine Learning Pipelines"
   speakers: [jacquespeeters]
   type: webinar
   link: https://eventbrite.com/e/151342362079
-
-# may
 - time: 2021-05-11 17:00:00
   title: "Hands-on AI Observability"
   speakers: [andypetrella]
