@@ -39,9 +39,13 @@ We host multiple types of events:
 {% endif %}
 
 
+📅 Pro tip: you can also subscribe to [our Google calendar](https://calendar.google.com/calendar/?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ){:target="_blank"}
+to get notified about all our events (subscribing works from desktop only).
+
+
 {% assign past = site.data.events
   | where_exp: "event", "event.draft != true"
-  | where_exp: "event", "event.time < site.time"
+  | where_exp: "event", "event.time <= site.time"
   | sort: 'time'
   | reverse %}
 

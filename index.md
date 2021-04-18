@@ -50,8 +50,7 @@ layout: home
       {% endfor %}
     </ul>
 
-    <p>Check <a href="/events.html">events</a> for all past events.</p>
-
+    <p>Check <a href="/events.html">events</a> for all past events. You can also subscribe to <a href="https://calendar.google.com/calendar/?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">our Google calendar</a> to get notified about all our events.</p>
     <p>&nbsp;</p>
 
     {% assign episodes = site.podcast
