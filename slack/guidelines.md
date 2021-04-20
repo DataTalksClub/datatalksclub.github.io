@@ -9,9 +9,10 @@ layout: post
 
 ---
 
-Thank you for joining our community!
+Thank you for joining our community! We hope you’ll like it here.
 
-We hope you’ll like it here. To make our discussion more organized, we need to follow community guidelines.
+DataTalks.Club is a place to talk, learn, discuss, and share.
+To make our discussion more organized, we need to follow community guidelines.
 
 Table of contents:
 
@@ -25,6 +26,10 @@ Table of contents:
 Be respectful and remember that there’s a human on the other side of the screen. We do not have our own code of conduct,
 but we follow the [Python Software Foundation one](https://www.python.org/psf/conduct/). Please read
 the “Inappropriate Behavior” section.
+
+Some examples of inappropriate behaviour:
+
+* Judging the question or the person asking the question ("this is a stupid questions and everyone who can read docs knows the answer")
 
 Use threads. They help to keep the discussions more organized.
 
