@@ -1,3 +1,4 @@
+
 # may
 - time: 2021-06-25 17:00:00
   title: "Productionizing ML Systems without Fear nor Heroism"
@@ -9,6 +10,14 @@
   speakers: [jacquespeeters]
   type: webinar
   link: https://eventbrite.com/e/151342362079
+- time: 2021-05-14 17:00:00
+  title: "How to Market Yourself (without Being a Celebrity)"
+  slug: "how-to-market-yourself"
+  speakers: [swyx]
+  type: podcast
+  link: https://eventbrite.com/e/151918962707
+  season: 3
+  episode: 7
 - time: 2021-05-11 17:00:00
   title: "Hands-on AI Observability"
   speakers: [andypetrella]
