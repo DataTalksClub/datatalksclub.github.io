@@ -1,11 +1,20 @@
 
+
 # may
-- time: 2021-06-25 17:00:00
+- time: 2021-05-25 17:00:00
   title: "Productionizing ML Systems without Fear nor Heroism"
   speakers: [nastasiasaby]
   type: webinar
   link: https://eventbrite.com/e/151342999987
-- time: 2021-06-18 17:00:00
+- time: 2021-05-21 17:00:00
+  title: "Becoming a Data-led Professional"
+  slug: "data-led-professional"
+  speakers: [arpitchoudhury]
+  type: podcast
+  link: https://eventbrite.com/e/152209995193
+  season: 3
+  episode: 8
+- time: 2021-05-18 17:00:00
   title: "A Framework for Feature Engineering and Machine Learning Pipelines"
   speakers: [jacquespeeters]
   type: webinar
