@@ -5,7 +5,7 @@ cover: "images/books/20210524-data-governance-the-definitive-guide/cover.jpg"
 image: "images/books/20210524-data-governance-the-definitive-guide/preview.jpg"
 start: 2021-05-24 00:00:00
 end: 2021-05-28 22:59:58
-authors: [Evren Eryurek, Uri Gilad, Valliappa Lakshmanan, Anita Kibunguchy-Grant, jessiashdown]
+authors: [Evren Eryurek, urigilad, Valliappa Lakshmanan, Anita Kibunguchy-Grant, jessiashdown]
 links: 
   - text: Book's page
     link: https://www.oreilly.com/library/view/data-governance-the/9781492063483/
