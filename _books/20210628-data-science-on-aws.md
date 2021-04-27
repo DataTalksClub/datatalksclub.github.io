@@ -5,7 +5,7 @@ cover: "images/books/20210628-data-science-on-aws/cover.jpg"
 image: "images/books/20210628-data-science-on-aws/preview.jpg"
 start: 2021-06-28 00:00:00
 end: 2021-07-02 22:59:58
-authors: [Chris Fregly, antjebarth]
+authors: [chrisfregly, antjebarth]
 links: 
   - text: Book's page
     link: https://www.oreilly.com/library/view/data-science-on/9781492079385/
