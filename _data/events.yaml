@@ -58,9 +58,13 @@
 # april
 - time: 2021-04-30 17:00:00
   title: "What I Learned After Interviewing 300 Data Scientists"
+  slug: interviewing-300-data-scientists
   speakers: [olegnovikov]
   type: podcast
   link: https://eventbrite.com/e/147885498507
+  youtube: https://www.youtube.com/watch?v=AYi7b-8GPm4
+  season: 3
+  episode: 4
 - time: 2021-04-27 17:00:00
   title: "Reinforcement Learning for Search"
   speakers: [romangrebennikov]
