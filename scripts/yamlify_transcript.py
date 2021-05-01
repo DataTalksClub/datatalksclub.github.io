@@ -23,7 +23,7 @@ with open(input_file) as f_in:
             lines.append(line)
 
 
-ts_two_digit_pattern = re.compile(r'^(\d+):(\d+)$')
+ts_two_digit_pattern = re.compile(r'^\[?(\d+):(\d+)\]?$')
 ts_three_digit_pattern = re.compile(r'^\[?(\d+):(\d+):(\d+)\]?$')
 
 
