@@ -12,7 +12,7 @@ links:
   - text: Amazon
     link: https://www.amazon.com/Machine-Learning-Using-TensorFlow-Cookbook/dp/1800208863
   - text: Book's GitHub repository
-    link: https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Cookbook
+    link: https://github.com/PacktPublishing/Machine-Learning-Using-TensorFlow-Cookbook
 ---
 
 The independent recipes in Machine Learning Using TensorFlow Cookbook will teach you how to
