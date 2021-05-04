@@ -1,4 +1,3 @@
-
 # june
 - time: 2021-06-11 17:00:00
   title: "Analytics Engineer: New Role in a Data Team"
@@ -18,6 +17,14 @@
   episode: 10
 
 # may
+- time: 2021-05-28 17:00:00
+  title: "What Data Scientists Don’t Mention in Their LinkedIn Profiles"
+  slug: "what-data-scientists-dont-mention"
+  speakers: [yurykashnitsky]
+  type: podcast
+  link: https://eventbrite.com/e/153473829355
+  season: 3
+  episode: 9
 - time: 2021-05-25 17:00:00
   title: "Productionizing ML Systems without Fear nor Heroism"
   speakers: [nastasiasaby]
@@ -62,6 +69,7 @@
   speakers: [agnesvanbelle]
   type: webinar
   link: https://eventbrite.com/e/146497087733
+  youtube: https://www.youtube.com/watch?v=8xD922RkMxU
 
 # april
 - time: 2021-04-30 17:00:00

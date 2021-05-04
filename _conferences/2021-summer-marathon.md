@@ -24,7 +24,7 @@ tracks:
         abstract:
           TBA.
       - speakers: [Andreas Kretz]
-        name: Data Engineering (WIP)
+        name: "Build Your Own Data Pipeline"
         date: 2021-06-16 17:00:00
         eventbrine: TBA
         abstract:
