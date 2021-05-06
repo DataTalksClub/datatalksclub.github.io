@@ -8,7 +8,7 @@ end: 2021-05-14 22:59:58
 authors: [swyx]
 links: 
   - text: Book's page
-    link: https://www.learninpublic.org/?from=DTC
+    link: https://www.learninpublic.org/?from=DTC&c=DATA40
 ---
 
 The Coding will always be the easiest part of a Coding Career. This is a comprehensive guide about the
