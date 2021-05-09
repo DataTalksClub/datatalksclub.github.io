@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=AYi7b-8GPm4
   anchor: https://anchor.fm/datatalksclub/episodes/What-I-Learned-After-Interviewing-300-Data-Scientists---Oleg-Novikov-e10ctbs
   spotify: https://open.spotify.com/episode/406wN6xDkYPyLS8i9fUJL5
-  apple: TODO
+  apple: https://podcasts.apple.com/us/podcast/what-i-learned-after-interviewing-300-data-scientists/id1541710331?i=1000520681105
 
 transcript:
 - line: "This week we will talk about the interview process, getting hired as a data\
