@@ -10,32 +10,19 @@ layout: home
 
 <hr />
 
-<div class="row mt-5 my-3">
-  <div class="col-md-6 offset-md-4">
-    Are you looking for a place where you can
-
-    <ul>
-      <li>Learn more about applied machine learning</li>
-      <li>Talk about data engineering and machine learning engineering</li>
-      <li>Discuss career options</li>
-      <li>Attend weekly events</li>
-      <li>Ask any question</li>
-    </ul>
-
-    Then DataTalks.Club is the place for you! Join our Slack group!
-  </div>
-</div>
-
 <div class="row">
-  <div class="col">
-    {% include subscribe.html subscribe="true" %}
+  <div class="col title">
+    <h1>The place to talk about data</h1>
+    <h2>A community of aspiring and experienced data enthusiasts</h2>
   </div>
 </div>
+
+{% include subscribe-main.html %}
 
 <hr />
 
-<div class="row my-5">
-  <div class="col-md-8 offset-md-3">
+<div class="row my-3">
+  <div class="col-md-8 offset-md-2">
     {% assign upcoming = site.data.events
       | where_exp: "event", "event.draft != true"
       | where_exp: "event", "event.time > site.time"

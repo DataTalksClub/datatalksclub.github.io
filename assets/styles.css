@@ -1,6 +1,73 @@
 body, html {
   height: 100%;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: "Alegreya Sans", sans-serif; 
+  font-weight: 400;
+  font-size: 1.1rem;
+  background-color: #faf9f2;
+  color: #2c573e;
+}
+
+.title {
+  font-family: "Raleway", sans-serif;
+}
+
+.title h1, .title h2 {
+  text-align: center;
+  font-weight: 500;
+}
+
+
+.main-cta {
+  /* background-color: #ECECB0;
+  color: #3b3a3a; */
+  background-color: rgba(236, 236, 176, 0.3);
+  text-align: center;
+  padding-top: 3.0rem;
+  padding-bottom: 2.5rem;
+  margin: 0 auto;
+  border: 0.5px solid rgba(0,0,0,.1);
+  border-radius: 0.5rem;
+}
+
+
+@media (min-width: 768px) {
+  .main-cta {
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+    max-width: fit-content;
+  }
+
+  .title {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 90%;
+  }
+  .title h1 {
+    font-size: 2.3rem;
+  }
+  .title h2 {
+    font-size: 1.7rem;
+  }
+  .main-cta {
+    max-width: 100%;
+  }
+  .title {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+  #mce-EMAIL {
+    max-width: 200px;
+  }
+}
+
+
+.main-cta form {
+  margin: 0;
 }
 
 .wip {
@@ -23,7 +90,7 @@ body, html {
 }
 
 .content {
-  font-size: 130%;
+  font-size: 110%;
 }
 
 .content img {
@@ -57,7 +124,7 @@ body, html {
     margin-bottom: 1em;
   }
   .content {
-    font-size: 120%;
+    font-size: 110%;
   }
 }
 
