@@ -7,7 +7,7 @@ start: 2021-05-10 00:00:00
 end: 2021-05-14 22:59:58
 authors: [swyx]
 links: 
-  - text: Book's page
+  - text: Book's page (with a special discount for DTC!)
     link: https://www.learninpublic.org/?from=DTC&c=DATA40
 ---
 
