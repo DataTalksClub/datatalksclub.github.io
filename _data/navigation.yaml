@@ -1,21 +1,32 @@
-- text: Home
-  link: "/"
-  new_window: false
-- text: Articles
-  link: "/articles.html"
-  new_window: false
-# - text: Courses
-#   link: "/courses.html"
-#   new_window: false
-- text: Slack
-  link: "/slack.html"
-  new_window: false
-- text: Events
-  link: "/events.html"
-  new_window: false
-- text: Podcast
-  link: "/podcast.html"
-  new_window: false
-- text: Books
-  link: "/books.html"
-  new_window: false
+top:
+  - text: Home
+    link: "/"
+    new_window: false
+  - text: Articles
+    link: "/articles.html"
+    new_window: false
+  - text: Slack
+    link: "/slack.html"
+    new_window: false
+  - text: Events
+    link: "/events.html"
+    new_window: false
+  - text: Podcast
+    link: "/podcast.html"
+    new_window: false
+  - text: Books
+    link: "/books.html"
+    new_window: false
+bottom:
+  - text: YouTube
+    link: "https://www.youtube.com/c/DataTalksClub"
+    new_window: true
+  - text: LinkedIn
+    link: "https://www.linkedin.com/company/datatalks-club/"
+    new_window: true
+  - text: Twitter
+    link: "https://twitter.com/DataTalksClub"
+    new_window: true
+  - text: GitHub
+    link: "https://github.com/DataTalksClub/"
+    new_window: true

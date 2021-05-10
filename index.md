@@ -10,14 +10,39 @@ layout: home
 
 <hr />
 
+<div class="landing">
+
 <div class="row">
   <div class="col title">
     <h1>The place to talk about data</h1>
-    <h2>A community of aspiring and experienced data enthusiasts</h2>
+    <h2>Global online community of data enthusiasts</h2>
   </div>
 </div>
 
 {% include subscribe-main.html %}
+
+<div class="row">
+  <div class="col-md-4 landing-item">
+    <div class="landing-image-container">
+      <img class="landing-image" src="images/landing/talks.jpg"  />
+    </div>
+    <h4 class="landing-subtitle">Talk about data, machine<br/> learning, and engineering</h4>
+  </div>
+  <div class="col-md-4 landing-item">
+    <div class="landing-image-container">
+      <img class="landing-image" src="images/landing/career.jpg"  />
+    </div>
+    <h4 class="landing-subtitle">Ask career questions and<br/> discuss career options</h4>
+  </div>
+  <div class="col-md-4 landing-item">
+    <div class="landing-image-container">
+      <img class="landing-image" src="images/landing/events.jpg"  />
+    </div>
+    <h4 class="landing-subtitle">Attend weekly events,<br/> conferences, and office hours</h4>
+  </div>
+</div>
+
+</div>
 
 <hr />
 
