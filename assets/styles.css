@@ -41,6 +41,9 @@ body, html {
     margin-top: 3rem;
     margin-bottom: 3rem;
   }
+  .content {
+    font-size: 110%;
+  }
 }
 
 @media (max-width: 768px) {
@@ -62,6 +65,10 @@ body, html {
   }
   #mce-EMAIL {
     max-width: 200px;
+  }
+
+  .content {
+    font-size: 130%;
   }
 }
 
@@ -89,9 +96,6 @@ body, html {
   }
 }
 
-.content {
-  font-size: 110%;
-}
 
 .content img {
   display: block;
@@ -122,9 +126,6 @@ body, html {
   }
   .book-cover {
     margin-bottom: 1em;
-  }
-  .content {
-    font-size: 110%;
   }
 }
 
