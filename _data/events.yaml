@@ -1,4 +1,5 @@
 
+
 # june
 - time: 2021-06-11 17:00:00
   title: "Analytics Engineer: New Role in a Data Team"
@@ -8,6 +9,11 @@
   link: https://eventbrite.com/e/153419478791
   season: 3
   episode: 11
+- time: 2021-06-08 17:00:00
+  title: "Ingestion and Historization in the Data Lake"
+  speakers: [illiatodor]
+  type: webinar
+  link: https://eventbrite.com/e/154741332491
 - time: 2021-06-04 17:00:00
   title: "Data Governance"
   slug: "data-governance"
@@ -51,10 +57,11 @@
   link: https://eventbrite.com/e/151342362079
 - time: 2021-05-14 17:00:00
   title: "How to Market Yourself (without Being a Celebrity)"
-  slug: "how-to-market-yourself"
+  slug: "market-yourself"
   speakers: [swyx]
   type: podcast
   link: https://eventbrite.com/e/151918962707
+  youtube: https://www.youtube.com/watch?v=tkBCPqWKCL8
   season: 3
   episode: 7
 - time: 2021-05-11 17:00:00
