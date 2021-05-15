@@ -8,69 +8,69 @@ layout: page
 
 tracks:
   - name: Career in Data
-    eventbrite: 132703625115
+    eventbrite: 153177531119
     youtube: NA
     talks:
-      - speakers: [svpino]
+      - speaker: svpino
         name: "Transitioning from Software Engineering to Machine Learning"
         date: 2021-06-14 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [dalianaliu]
+      - speaker: dalianaliu
         name: "The Next Level of Your Data Science Career"
         date: 2021-06-15 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [andreaskretz]
+      - speaker: andreaskretz
         name: "Build Your Own Data Pipeline"
         date: 2021-06-16 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [roksolanadiachuk]
+      - speaker: roksolanadiachuk
         name: Difference between big data engineer job and data science job
         date: 2021-06-17 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [elenasamuylova]
+      - speaker: elenasamuylova
         name: "I Want to Build a Machine Learning Startup!"
         date: 2021-06-18 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
   - name: Machine Learning in Production
-    eventbrite: 132703625115
+    eventbrite: 153178006541
     youtube: NA
     talks:
-      - speakers: [janzawadzki]
-        name: "TBA"
+      - speaker: janzawadzki
+        name: "Something Awesome from Jan (TBA)"
         date: 2021-06-21 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [benwilson]
+      - speaker: benwilson
         name: "Simplicity is the key to keeping your models running in production"
         date: 2021-06-22 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [linaweichbrodt]
-        name: TBA
+      - speaker: linaweichbrodt
+        name: "Something Awesome from Lina (TBA)"
         date: 2021-06-23 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [dougturnbull]
-        name: TBA
+      - speaker: dougturnbull
+        name: "Something Awesome from Doug (TBA)"
         date: 2021-06-24 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [fabianaclemente]
-        name: "TBA"
+      - speaker: fabianaclemente
+        name: "Something Awesome from Fabiana (TBA)"
         date: 2021-06-25 17:00:00
         eventbrine: TBA
         abstract:
@@ -96,23 +96,36 @@ partners:
 * Can't attend? Register anyways, we will send you the recordings.
 
 
+<h2>Tracks</h2>
+
+<ul>
+{% for track in page.tracks %}
+  <li>
+    <a href="#{{ track.name | slugify }}">{{ track.name}}</a>
+  </li>
+{% endfor %}
+</ul>
 
 {% for track in page.tracks %}
 <h2 id="{{ track.name | slugify }}">{{ track.name}}</h2>
 
-<ul>
+<div class="conference-talks">
 {% for talk in track.talks %}
   {% assign speaker = site.people | where: "short", talk.speaker | first %}
-  <li>
-    {{ talk.date | date: "%A, %d %B at %H:%M" }} CET <br/>
-    {{talk.name}} <br/>
-    {% include authors.html authors=talk.speakers %} <br/>
-    <a href="javascript:void();" onclick="toggle('{{ talk.name | slugify }}')">Show abstract</a>
-    <div id="{{ talk.name | slugify }}" style="display: none;">{{ talk.abstract }}</div>
-  </li>
-
+  <div class="talk-wrap d-flex">
+    <div class="talk-speaker-img-container">
+      <img class="talk-speaker-img" src="/{{speaker.picture}}" />
+    </div>
+    <div class="talk-details">
+      <span class="datetime">{{ talk.date | date: "%A, %d %B at %H:%M" }} CET</span>
+      <h2>{{talk.name}}</h2>
+      <h3 class="speaker-name">— <a href="/people/{{talk.speaker}}.html" target="_blank">{{ speaker.title }}</a></h3>
+      <span class="toggle-abscract"><a href="javascript:void();" onclick="toggle('{{ talk.name | slugify }}')">Show abstract</a></span>
+      <div class="talk-absctract" id="{{ talk.name | slugify }}" style="display: none;">{{ talk.abstract }}</div>
+    </div>
+  </div>
 {% endfor %}
-</ul>
+</div>
 
 <center class="my-3">
 <button class="btn btn-secondary btn-lg" id="eventbrite-widget-modal-trigger-{{ track.eventbrite }}" type="button">

@@ -367,4 +367,47 @@ img.partner {
   padding-left: 30px;
 }
 
+.talk-wrap {
+  background: #efefef;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
 
+.talk-speaker-img-container {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.talk-speaker-img {
+  height: 90px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.talk-details {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+.talk-details .datetime {
+  font-size: 1.2rem;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.talk-details .toggle-abscract {
+  font-size: 0.8rem;
+}
+
+.talk-details h2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.6rem;
+}
+
+.talk-details h3.speaker-name {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.33rem;
+}
