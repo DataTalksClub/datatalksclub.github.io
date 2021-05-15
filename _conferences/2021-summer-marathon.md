@@ -52,7 +52,7 @@ tracks:
         abstract:
           TBA.
       - speaker: benwilson
-        name: "Simplicity is the key to keeping your models running in production"
+        name: "Running from Complexity"
         date: 2021-06-22 17:00:00
         eventbrine: TBA
         abstract:
