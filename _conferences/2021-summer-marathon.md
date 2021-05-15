@@ -30,7 +30,7 @@ tracks:
         abstract:
           TBA.
       - speaker: roksolanadiachuk
-        name: Difference between big data engineer job and data science job
+        name: "Big Data Engineer vs Data Scientist"
         date: 2021-06-17 17:00:00
         eventbrine: TBA
         abstract:
@@ -58,11 +58,11 @@ tracks:
         abstract:
           TBA.
       - speaker: linaweichbrodt
-        name: "Something Awesome from Lina (TBA)"
+        name: "Humans in the Loop"
         date: 2021-06-23 17:00:00
         eventbrine: TBA
         abstract:
-          TBA.
+          How to navigate users, stakeholders and your own biases in MLOps
       - speaker: dougturnbull
         name: "Something Awesome from Doug (TBA)"
         date: 2021-06-24 17:00:00
@@ -70,7 +70,7 @@ tracks:
         abstract:
           TBA.
       - speaker: fabianaclemente
-        name: "Something Awesome from Fabiana (TBA)"
+        name: "The Importance of Data Quality"
         date: 2021-06-25 17:00:00
         eventbrine: TBA
         abstract:
