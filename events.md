@@ -33,8 +33,7 @@ to get notified about all our events (subscribing works from desktop only).
 <ul class="emoji-list">
   {% for event in upcoming %}
     <li class="{{ event.type }}">
-      <a href="{{ event.link }}" target="_blank">{{ event.title }}</a> on {{ event.time | date_to_string }} by
-        {% include authors.html authors=event.speakers %}
+      {% include event.html event=event speakers=true %}
     </li>
   {% endfor %}
 </ul>
@@ -52,10 +51,7 @@ to get notified about all our events (subscribing works from desktop only).
 
 <ul class="emoji-list">
   {% for event in past %}
-    <li class="{{ event.type }}">
-      {{ event.title }} by {% include authors.html authors=event.speakers %}
-        (<a href="{{ event.youtube }}" target="_blank">watch on youtube</a>{% if event.anchor %}, <a href="{{ event.anchor }}" target="_blank">listen on anchor.fm</a>{% endif %})
-    </li>
+    <li class="{{ event.type }}">{% include event.html event=event speakers=true %}</li>
   {% endfor %}
 </ul>
 {% endif %}

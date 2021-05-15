@@ -54,13 +54,7 @@
           <h3>Events</h3>
           <ul>
             {% for event in events %}
-              <li>{{ event.title }} on {{ event.time | date_to_string }}
-                {% if event.youtube %}
-                  (<a href="{{ event.youtube }}" target="_blank">watch on youtube</a>{% if event.anchor %}, <a href="{{ event.anchor }}" target="_blank">listen on anchor</a>{% endif %})
-                {% else %}
-                  (<a href="{{ event.link }}" target="_blank">register for the event</a>)
-                {% endif %}
-              </li>
+              <li>{% include event.html event=event speakers=false %}</li>
             {% endfor %}
           </ul>
         {% endif %}

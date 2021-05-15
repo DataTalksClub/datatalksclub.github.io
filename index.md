@@ -55,10 +55,7 @@ layout: home
     <h4>Upcoming events</h4>
     <ul class="emoji-list">
       {% for event in upcoming %}
-        <li class="{{ event.type }}">
-          <a href="{{ event.link }}" target="_blank">{{ event.title }}</a> on {{ event.time | date_to_string }} by
-          {% include authors.html authors=event.speakers %}
-        </li>
+        <li class="{{ event.type }}">{% include event.html event=event speakers=true %}</li>
       {% endfor %}
     </ul>
 

@@ -3,11 +3,13 @@
 # july
 
 - time: 2021-06-21 16:55:00
+  end: 2021-06-25 18:05:00
   title: "DataTalks.Club Summer Marathon: Machine Learning in Production"
   speakers: [janzawadzki, benwilson, linaweichbrodt, dougturnbull, fabianaclemente]
   type: conference
   link: /conferences/2021-summer-marathon.html#machine-learning-in-production
 - time: 2021-06-14 16:55:00
+  end: 2021-06-18 18:05:00
   title: "DataTalks.Club Summer Marathon: Career in Data"
   speakers: [svpino, dalianaliu, andreaskretz, roksolanadiachuk, elenasamuylova]
   type: conference

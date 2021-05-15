@@ -1,0 +1,10 @@
+{% assign event = include.event %}
+
+{% if event.time <= site.time %}
+  {{ event.title }}{% if include.speakers %} by {% include authors.html authors=event.speakers %}{% endif %}
+  (<a href="{{ event.youtube }}" target="_blank">watch on youtube</a>{% if event.anchor %}, <a href="{{ event.anchor }}" target="_blank">listen on anchor.fm</a>{% endif %})
+{% else %}
+  <a href="{{ event.link }}" target="_blank">{{ event.title }}</a>
+  on {{ event.time | date_to_string }}{% if event.end %} &ndash; {{ event.end | date_to_string }}{% endif %}
+  {% if include.speakers %}by {% include authors.html authors=event.speakers %}{% endif %}
+{% endif %}
