@@ -11,25 +11,25 @@ tracks:
     eventbrite: 132703625115
     youtube: NA
     talks:
-      - speakers: [Santiago Valdarrama]
+      - speakers: [svpino]
         name: "Transitioning from Software Engineering to Machine Learning"
         date: 2021-06-14 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [Daliana Liu]
-        name: "How to Nail Your Data Science Interviews"
+      - speakers: [dalianaliu]
+        name: "The Next Level of Your Data Science Career"
         date: 2021-06-15 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [Andreas Kretz]
+      - speakers: [andreaskretz]
         name: "Build Your Own Data Pipeline"
         date: 2021-06-16 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [Roksolana Diachuk]
+      - speakers: [roksolanadiachuk]
         name: Difference between big data engineer job and data science job
         date: 2021-06-17 17:00:00
         eventbrine: TBA
@@ -45,31 +45,31 @@ tracks:
     eventbrite: 132703625115
     youtube: NA
     talks:
-      - speakers: [Jan Zawadzki]
+      - speakers: [janzawadzki]
         name: "TBA"
         date: 2021-06-21 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [Ben Wilson]
+      - speakers: [benwilson]
         name: "Simplicity is the key to keeping your models running in production"
         date: 2021-06-22 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [Lina Weichbrodt ]
+      - speakers: [linaweichbrodt]
         name: TBA
         date: 2021-06-23 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [Doug Turnbull]
+      - speakers: [dougturnbull]
         name: TBA
         date: 2021-06-24 17:00:00
         eventbrine: TBA
         abstract:
           TBA.
-      - speakers: [TBA]
+      - speakers: [fabianaclemente]
         name: "TBA"
         date: 2021-06-25 17:00:00
         eventbrine: TBA
@@ -78,9 +78,6 @@ tracks:
 
 
 partners:
-  # - name: OLX Group
-  #   link: olxgroup.com
-  #   image: ""
   - name: O'Reilly Media
     link: https://www.oreilly.com/
     image: "/images/partners/oreilly.jpg"
