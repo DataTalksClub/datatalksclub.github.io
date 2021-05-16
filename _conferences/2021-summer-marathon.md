@@ -12,7 +12,7 @@ tracks:
     youtube: NA
     talks:
       - speaker: svpino
-        name: "Transitioning from Software Engineering to Machine Learning"
+        name: "From Software Engineering to Machine Learning"
         date: 2021-06-14 17:00:00
         eventbrine: TBA
         abstract:
