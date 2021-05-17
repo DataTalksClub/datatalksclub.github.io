@@ -46,7 +46,7 @@ tracks:
     youtube: NA
     talks:
       - speaker: janzawadzki
-        name: "Something Awesome from Jan (TBA)"
+        name: "Setting Up AI Projects for Success"
         date: 2021-06-21 17:00:00
         eventbrine: TBA
         abstract:
