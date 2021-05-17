@@ -14,31 +14,31 @@ tracks:
       - speaker: svpino
         name: "From Software Engineering to Machine Learning"
         date: 2021-06-14 17:00:00
-        eventbrine: TBA
+        eventbrite: TBA
         abstract:
           TBA.
       - speaker: dalianaliu
         name: "The Next Level of Your Data Science Career"
         date: 2021-06-15 17:00:00
-        eventbrine: TBA
+        eventbrite: TBA
         abstract:
           TBA.
       - speaker: andreaskretz
         name: "Build Your Own Data Pipeline"
         date: 2021-06-16 17:00:00
-        eventbrine: TBA
+        eventbrite: TBA
         abstract:
           TBA.
       - speaker: roksolanadiachuk
         name: "Big Data Engineer vs Data Scientist"
         date: 2021-06-17 17:00:00
-        eventbrine: TBA
+        eventbrite: TBA
         abstract:
           TBA.
       - speaker: elenasamuylova
         name: "I Want to Build a Machine Learning Startup!"
         date: 2021-06-18 17:00:00
-        eventbrine: TBA
+        eventbrite: TBA
         abstract:
           TBA.
   - name: Machine Learning in Production
@@ -48,31 +48,42 @@ tracks:
       - speaker: janzawadzki
         name: "Setting Up AI Projects for Success"
         date: 2021-06-21 17:00:00
-        eventbrine: TBA
+        eventbrite: TBA
         abstract:
           TBA.
       - speaker: benwilson
         name: "Running from Complexity"
         date: 2021-06-22 17:00:00
-        eventbrine: TBA
+        eventbrite: TBA
         abstract:
           TBA.
       - speaker: linaweichbrodt
         name: "Humans in the Loop"
         date: 2021-06-23 17:00:00
-        eventbrine: TBA
+        eventbrite: TBA
         abstract:
           How to navigate users, stakeholders and your own biases in MLOps
       - speaker: dougturnbull
-        name: "Something Awesome from Doug (TBA)"
+        name: "Why Your Search Relevance Project Will Fail"
         date: 2021-06-24 17:00:00
-        eventbrine: TBA
+        eventbrite: TBA
         abstract:
-          TBA.
+          "We should just feed our user’s clicks into an ML model, teaching it to rank what’s clicked more...
+          Right? Well not so fast! Transforming search clickstream data into usable training data can be
+          a daunting task. Without careful, systematic study, we can easily create a negative feedback loop
+          where clicks strengthen the existing poor search experience.<br><br>
+
+          I’ve led and participated in dozens of search relevance projects. Poor training data is the #1
+          reason relevance and machine learning projects fail.<br><br>
+
+          In this talk, I’ll cover the core biases in search clickstream data and what to do about it.
+          You’ll see how to systematically overcome biases due to low traffic and how you display results.
+          With a good foundation in place, then the sky is the limit for how much you can grow, tune,
+          or machine-learn relevance: having an impact beyond the test/training split!"
       - speaker: fabianaclemente
         name: "The Importance of Data Quality"
         date: 2021-06-25 17:00:00
-        eventbrine: TBA
+        eventbrite: TBA
         abstract:
           TBA.
 
@@ -92,7 +103,6 @@ partners:
 
 * Two weeks of awesomness
 * It's online and entirely free!
-* Time is in CET (UTC +1)
 * Can't attend? Register anyways, we will send you the recordings.
 
 
