@@ -14,4 +14,5 @@ and speaking. In 2016, Doug's book [Relevant Search](https://www.manning.com/boo
 woke the industry up to the importance of search quality. Doug now works at Shopify, working to make
 great commerce search+discovery possible for everyone. Doug co-created [Elasticsearch Learning to
 Rank](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/){:target="_blank"} with the Wikimedia Foundation
-and contributed to Trey Grainger's upcoming [AI Powered Search](http://aipoweredsearch.com){:target="_blank"}
+and contributed to Trey Grainger's upcoming [AI Powered Search](http://aipoweredsearch.com){:target="_blank"}.
+You can find Doug at [his website](http://softwaredoug.com){:target="_blank"} where he blogs about search and data.
