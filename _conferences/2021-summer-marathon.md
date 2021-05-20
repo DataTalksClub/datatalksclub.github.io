@@ -16,31 +16,46 @@ tracks:
         date: 2021-06-14 17:00:00
         eventbrite: TBA
         abstract:
-          TBA.
+          "You’re more qualified than you think!<br/><br/>
+          <ul>
+            <li>Why software engineers are already qualified to do machine learning</li>
+            <li>Core tools and frameworks</li>
+            <li>Learning plan for the transition</li>
+          </ul>"
+
       - speaker: dalianaliu
         name: "The Next Level of Your Data Science Career"
         date: 2021-06-15 17:00:00
         eventbrite: TBA
         abstract:
-          TBA.
+          TBA
       - speaker: andreaskretz
         name: "Build Your Own Data Pipeline"
         date: 2021-06-16 17:00:00
         eventbrite: TBA
         abstract:
-          TBA.
+          "Become a better data scientist by learning data engineering<br/><br/>
+          <ul>
+            <li>Learning to build data pipelines for data scientist </li>
+            <li>Which tools and technologies I need to learn</li>
+            <li>Stream vs batch</li>
+          </ul>"
       - speaker: roksolanadiachuk
         name: "Big Data Engineer vs Data Scientist"
         date: 2021-06-17 17:00:00
         eventbrite: TBA
         abstract:
-          TBA.
+          TBA
       - speaker: elenasamuylova
         name: "I Want to Build a Machine Learning Startup!"
         date: 2021-06-18 17:00:00
         eventbrite: TBA
         abstract:
-          TBA.
+          "<ul>
+            <li>Things to consider when building a startup</li>
+            <li>Getting ideas</li>
+            <li>Open source vs closed source</li>
+          </ul>"
   - name: Machine Learning in Production
     eventbrite: 153178006541
     youtube: NA
@@ -50,13 +65,13 @@ tracks:
         date: 2021-06-21 17:00:00
         eventbrite: TBA
         abstract:
-          TBA.
+          TBA
       - speaker: benwilson
         name: "Running from Complexity"
         date: 2021-06-22 17:00:00
         eventbrite: TBA
         abstract:
-          TBA.
+          TBA
       - speaker: linaweichbrodt
         name: "Humans in the Loop"
         date: 2021-06-23 17:00:00
@@ -85,7 +100,7 @@ tracks:
         date: 2021-06-25 17:00:00
         eventbrite: TBA
         abstract:
-          TBA.
+          TBA
 
 
 partners:
