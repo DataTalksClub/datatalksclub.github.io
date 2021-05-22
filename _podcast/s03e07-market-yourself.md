@@ -256,7 +256,7 @@ transcript:
   who: Alexey
 - line: "You don\u2019t have to use your real face, by the way. Some people are not\
     \ comfortable with that. You can just use a logo. Nobody knows what Sebastian\
-    \ Mark looks like. He uses an eucalyptus plant. He\u2019s used that for the past\
+    \ Markbåge looks like. He uses an eucalyptus plant. He\u2019s used that for the past\
     \ 10 years. He\u2019s the eucalyptus guy, that is his face. That\u2019s fine as\
     \ long as it is consistent."
   sec: 1064
