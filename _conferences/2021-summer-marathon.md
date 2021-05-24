@@ -104,12 +104,18 @@ tracks:
 
 
 partners:
-  - name: O'Reilly Media
-    link: https://www.oreilly.com/
-    image: "/images/partners/oreilly.jpg"
-  - name: MLOps.community
-    link: https://mlops.community/
-    image: "/images/partners/mlops-community.jpg"
+  - name: AICamp
+    link: https://www.aicamp.ai/
+    image: "/images/partners/aicamp.png"
+  - name: The New Stack
+    link: https://thenewstack.io/
+    image: "/images/partners/thenewstack.png"
+  # - name: O'Reilly Media
+  #   link: https://www.oreilly.com/
+  #   image: "/images/partners/oreilly.jpg"
+  # - name: MLOps.community
+  #   link: https://mlops.community/
+  #   image: "/images/partners/mlops-community.jpg"
 
 ---
 
@@ -160,6 +166,18 @@ partners:
 
 {% endfor %}
 
+
+## Event community partners
+
+<div class="text-center">
+{% for partner in page.partners %}
+  <div class="my-5">
+    <a href="{{ partner.link }}" target="_blank">
+      <img src="{{ partner.image }}" class="partner"/>
+    </a>
+  </div>
+{% endfor %}
+</div>
 
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
