@@ -113,9 +113,9 @@ partners:
   # - name: O'Reilly Media
   #   link: https://www.oreilly.com/
   #   image: "/images/partners/oreilly.jpg"
-  # - name: MLOps.community
-  #   link: https://mlops.community/
-  #   image: "/images/partners/mlops-community.jpg"
+  - name: MLOps.community
+    link: https://mlops.community/
+    image: "/images/partners/mlops-community.jpg"
 
 ---
 
