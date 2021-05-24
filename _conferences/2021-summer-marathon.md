@@ -116,6 +116,9 @@ partners:
   - name: MLOps.community
     link: https://mlops.community/
     image: "/images/partners/mlops-community.jpg"
+  - name: "PyData London"
+    link: https://www.meetup.com/PyData-London-Meetup/
+    image: "/images/partners/pydata-london.png"
 
 ---
 
@@ -169,9 +172,9 @@ partners:
 
 ## Event community partners
 
-<div class="text-center">
+<div class="text-center row">
 {% for partner in page.partners %}
-  <div class="my-5">
+  <div class="my-3 col-md-6">
     <a href="{{ partner.link }}" target="_blank">
       <img src="{{ partner.image }}" class="partner"/>
     </a>
