@@ -26,7 +26,7 @@ layout: home
     <div class="landing-image-container">
       <img class="landing-image" src="images/landing/talks.jpg"  />
     </div>
-    <h4 class="landing-subtitle">Talk about data, machine<br/> learning, and engineering</h4>
+    <h4 class="landing-subtitle">Talk about analytics, machine<br/> learning, and engineering</h4>
   </div>
   <div class="col-md-4 landing-item">
     <div class="landing-image-container">

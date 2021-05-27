@@ -16,7 +16,6 @@ body, html {
   font-weight: 500;
 }
 
-
 .main-cta {
   background-color: rgba(214, 219, 251, 0.5);
   text-align: center;
@@ -96,6 +95,20 @@ body, html {
   text-align: center;
   margin-top: 1rem;
   margin-bottom: 1rem;
+}
+
+.header-container {
+  margin-top: 4rem;
+}
+
+.announcement {
+  background-color: #EAEDFD;
+  border-bottom: 0.5px solid rgba(0,0,0,.1);
+}
+
+.announcement .row {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .wip {

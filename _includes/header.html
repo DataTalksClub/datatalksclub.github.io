@@ -1,14 +1,29 @@
-<div class="row mt-3 text-center">
-  <div class="col">
-    <h2>DataTalks.Club</h2>
-  </div>
+<div class="fixed-top announcement">
+    <div class="container">
+      <div class="row text-center">
+        <div class="col">
+          <nobr>DataTalks.Club Summer Marathon: a mini-confrence in June!</nobr>
+          <!-- <nobr>Week 1: Career in Data.</nobr>
+          <nobr>Week 2: Machine Learning in Production.</nobr> -->
+          <nobr><a href="/conferences/2021-summer-marathon.html" target="_blank">Get your free ticket!</a></nobr>
+        </div>
+    </div>
+  </div>  
 </div>
 
-<div class="row mb-3 text-center">
-  <div class="col header">
-    {% for el in site.data.navigation.top %}
-      <a class="header-item" href="{{ el.link }}"{% if el.new_window %} target="_blank"{% endif %}>{{ el.text }}</a>
-      {% unless forloop.last %}<span class="header-gap"></span>{% endunless %}
-    {% endfor %}
+<div class="header-container container">
+  <div class="row mt-3 text-center">
+    <div class="col">
+      <h2>DataTalks.Club</h2>
+    </div>
+  </div>
+
+  <div class="row mb-3 text-center">
+    <div class="col header">
+      {% for el in site.data.navigation.top %}
+        <a class="header-item" href="{{ el.link }}"{% if el.new_window %} target="_blank"{% endif %}>{{ el.text }}</a>
+        {% unless forloop.last %}<span class="header-gap"></span>{% endunless %}
+      {% endfor %}
+    </div>
   </div>
 </div>
