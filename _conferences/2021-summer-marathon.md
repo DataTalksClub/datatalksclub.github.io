@@ -48,7 +48,7 @@ tracks:
             <li>Skills big data engineers and data scientists have</li>
             <li>Tools that they use</li>
             <li>How big data engineers and data scientists can work together</li>
-            <li>Walkthrough of an project from idea to production</li>
+            <li>Walkthrough of a project from idea to production</li>
           </ul>"
       - speaker: elenasamuylova
         name: "I Want to Build a Machine Learning Startup!"
@@ -91,7 +91,7 @@ tracks:
       - speaker: dougturnbull
         name: "Why Your Search Relevance Project Will Fail"
         date: 2021-06-24 17:00:00
-        eventbrite: TBA
+        eventbrite: 157404371713
         abstract:
           "We should just feed our user’s clicks into an ML model, teaching it to rank what’s clicked more...
           Right? Well not so fast! Transforming search clickstream data into usable training data can be
@@ -125,6 +125,9 @@ partners:
   - name: "PyData London"
     link: https://www.meetup.com/PyData-London-Meetup/
     image: "/images/partners/pydata-london.png"
+  - name: "TheSequence"
+    link: https://thesequence.substack.com/
+    image: "/images/partners/thesequence.png"
 
 ---
 
