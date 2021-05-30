@@ -6,9 +6,8 @@ github: BenWilson2
 linkedin: benjamin-wilson-arch
 ---
 
-Ben Wilson has worked as a professional data scientist for more than ten years.
-He currently works as a resident solutions architect at Databricks, where he focuses
-on machine learning production architecture with companies ranging from 5-person startups
-to global Fortune 100. Ben is the creator and lead developer of the Databricks Labs AutoML
-project, a Scala-and Python-based toolkit that simplifies machine learning feature
-engineering, model tuning, and pipeline-enabled modeling.
+Ben’s a Practice Lead Resident Solutions Architect at Databricks, based in North Carolina, USA.
+He’s been doing Data Science work for the past 12 years in companies ranging from semiconductor
+manufacturing to fashion companies. He’s working on a book for Manning titled “Machine Learning
+Engineering in Action” that focuses on how to get ML projects into production and help them
+stay there.

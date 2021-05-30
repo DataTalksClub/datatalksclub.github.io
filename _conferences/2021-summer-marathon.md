@@ -14,7 +14,7 @@ tracks:
       - speaker: svpino
         name: "From Software Engineering to Machine Learning"
         date: 2021-06-14 17:00:00
-        eventbrite: TBA
+        eventbrite: 156360377097
         abstract:
           "You’re more qualified than you think!<br/><br/>
           <ul>
@@ -25,13 +25,13 @@ tracks:
       - speaker: dalianaliu
         name: "The Next Level of Your Data Science Career"
         date: 2021-06-15 17:00:00
-        eventbrite: TBA
+        eventbrite: 156383548403
         abstract:
           TBA
       - speaker: andreaskretz
         name: "Build Your Own Data Pipeline"
         date: 2021-06-16 17:00:00
-        eventbrite: TBA
+        eventbrite: 156383644691
         abstract:
           "Become a better data scientist by learning data engineering<br/><br/>
           <ul>
@@ -42,7 +42,7 @@ tracks:
       - speaker: roksolanadiachuk
         name: "Big Data Engineer vs Data Scientist"
         date: 2021-06-17 17:00:00
-        eventbrite: TBA
+        eventbrite: 156383773075
         abstract:
           "<ul>
             <li>Skills big data engineers and data scientists have</li>
@@ -53,7 +53,7 @@ tracks:
       - speaker: elenasamuylova
         name: "I Want to Build a Machine Learning Startup!"
         date: 2021-06-18 17:00:00
-        eventbrite: TBA
+        eventbrite: 156461405275
         abstract:
           "<ul>
             <li>Things to consider when building a startup</li>
@@ -67,13 +67,13 @@ tracks:
       - speaker: janzawadzki
         name: "Setting Up AI Projects for Success"
         date: 2021-06-21 17:00:00
-        eventbrite: TBA
+        eventbrite: 157373360959
         abstract:
           TBA
       - speaker: benwilson
         name: "Running from Complexity"
         date: 2021-06-22 17:00:00
-        eventbrite: TBA
+        eventbrite: 157377603649
         abstract:
           "Simplicity is the key to keeping your models running in production<br/><br/>
           <ul>
@@ -85,7 +85,7 @@ tracks:
       - speaker: linaweichbrodt
         name: "Humans in the Loop"
         date: 2021-06-23 17:00:00
-        eventbrite: TBA
+        eventbrite: 157377701943
         abstract:
           Navigating users, stakeholders and your own biases in MLOps
       - speaker: dougturnbull
@@ -161,7 +161,12 @@ partners:
       <h2>{{talk.name}}</h2>
       <h3 class="speaker-name">— <a href="/people/{{talk.speaker}}.html" target="_blank">{{ speaker.title }}</a></h3>
       <span class="toggle-abscract"><a href="javascript:void();" onclick="toggle('{{ talk.name | slugify }}')">Show abstract</a></span>
-      <div class="talk-absctract" id="{{ talk.name | slugify }}" style="display: none;">{{ talk.abstract }}</div>
+      <div class="talk-absctract" id="{{ talk.name | slugify }}" style="display: none;">
+        {{ talk.abstract }}
+        {% if talk.eventbrite != 'TBA' %}<br/>
+        <a href="https://eventbrite.com/e/{{ talk.eventbrite }}" target="_blank">Register just for this talk</a>
+        {% endif %}
+        </div>
     </div>
   </div>
 {% endfor %}
