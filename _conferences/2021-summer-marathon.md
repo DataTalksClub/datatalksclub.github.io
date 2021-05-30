@@ -22,7 +22,6 @@ tracks:
             <li>Core tools and frameworks</li>
             <li>Learning plan for the transition</li>
           </ul>"
-
       - speaker: dalianaliu
         name: "The Next Level of Your Data Science Career"
         date: 2021-06-15 17:00:00
@@ -45,7 +44,12 @@ tracks:
         date: 2021-06-17 17:00:00
         eventbrite: TBA
         abstract:
-          TBA
+          "<ul>
+            <li>Skills big data engineers and data scientists have</li>
+            <li>Tools that they use</li>
+            <li>How big data engineers and data scientists can work together</li>
+            <li>Walkthrough of an project from idea to production</li>
+          </ul>"
       - speaker: elenasamuylova
         name: "I Want to Build a Machine Learning Startup!"
         date: 2021-06-18 17:00:00
@@ -71,13 +75,19 @@ tracks:
         date: 2021-06-22 17:00:00
         eventbrite: TBA
         abstract:
-          TBA
+          "Simplicity is the key to keeping your models running in production<br/><br/>
+          <ul>
+            <li>Why our projects don’t make to production</li>
+            <li>Dangers of siloed projects</li>
+            <li>Implementing novel algorithms for solving our problems - pros and cons </li>
+            <li>Is it a good idea to be an early technology adopter?</li>
+          </ul>"
       - speaker: linaweichbrodt
         name: "Humans in the Loop"
         date: 2021-06-23 17:00:00
         eventbrite: TBA
         abstract:
-          How to navigate users, stakeholders and your own biases in MLOps
+          Navigating users, stakeholders and your own biases in MLOps
       - speaker: dougturnbull
         name: "Why Your Search Relevance Project Will Fail"
         date: 2021-06-24 17:00:00
@@ -102,7 +112,6 @@ tracks:
         abstract:
           TBA
 
-
 partners:
   - name: AICamp
     link: https://www.aicamp.ai/
@@ -110,9 +119,6 @@ partners:
   - name: The New Stack
     link: https://thenewstack.io/
     image: "/images/partners/thenewstack.png"
-  # - name: O'Reilly Media
-  #   link: https://www.oreilly.com/
-  #   image: "/images/partners/oreilly.jpg"
   - name: MLOps.community
     link: https://mlops.community/
     image: "/images/partners/mlops-community.jpg"
