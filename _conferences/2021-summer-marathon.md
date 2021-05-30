@@ -188,8 +188,8 @@ partners:
 
 <div class="text-center row">
 {% for partner in page.partners %}
-  <div class="my-3 col-md-6">
-    <a href="{{ partner.link }}" target="_blank">
+  <div class="my-3 col-md-6" style="display: flex">
+    <a href="{{ partner.link }}" style="margin: auto" target="_blank">
       <img src="{{ partner.image }}" class="partner"/>
     </a>
   </div>
