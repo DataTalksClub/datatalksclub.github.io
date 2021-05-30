@@ -3,7 +3,7 @@
 title: DataTalks.Club Conference &ndash; 2021 Summer Marathon 
 description:
   DataTalks.Club 2021 Summer Marathon &ndash; two weeks of awesomness.
-image: images/cover.jpg
+image: images/other/conference-2021-summer-marathon-cover.jpg
 layout: page
 
 tracks:
