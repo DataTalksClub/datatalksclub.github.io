@@ -113,9 +113,9 @@ tracks:
           TBA
 
 partners:
-  - name: AICamp
-    link: https://www.aicamp.ai/
-    image: "/images/partners/aicamp.png"
+  - name: "TheSequence"
+    link: https://thesequence.substack.com/
+    image: "/images/partners/thesequence.png"
   - name: The New Stack
     link: https://thenewstack.io/
     image: "/images/partners/thenewstack.png"
@@ -125,9 +125,9 @@ partners:
   - name: "PyData London"
     link: https://www.meetup.com/PyData-London-Meetup/
     image: "/images/partners/pydata-london.png"
-  - name: "TheSequence"
-    link: https://thesequence.substack.com/
-    image: "/images/partners/thesequence.png"
+  - name: AICamp
+    link: https://www.aicamp.ai/
+    image: "/images/partners/aicamp.png"
 
 ---
 
