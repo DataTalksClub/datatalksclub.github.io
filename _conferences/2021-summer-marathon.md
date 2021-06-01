@@ -134,6 +134,9 @@ partners:
   - name: "PyData London"
     link: https://www.meetup.com/PyData-London-Meetup/
     image: "/images/partners/pydata-london.png"
+  - name: "Confetti"
+    link: https://www.confetti.ai/
+    image: "/images/partners/confetti.png"
   - name: AICamp
     link: https://www.aicamp.ai/
     image: "/images/partners/aicamp.png"
