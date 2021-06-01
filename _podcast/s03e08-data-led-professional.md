@@ -145,9 +145,9 @@ transcript:
     \ believe the data that they see. If they understand where data comes from and\
     \ what it looks like, they will be able to question its accuracy. They are comfortable\
     \ working with data and they have the skills to build their experiences powered\
-    \ by data. It sounds lie a lot, but you don\u2019t really need a technical background\
+    \ by data. It sounds like a lot, but you don\u2019t really need a technical background\
     \ to know this \u2014 to understand where data comes from, what it looks like,\
-    \ to question is accuracy and to work with data to build data experiences."
+    \ to question its accuracy and to work with data to build data experiences."
   sec: 645
   time: '10:45'
   who: Arpit
@@ -233,7 +233,7 @@ transcript:
   who: Arpit
 - line: "There is no rule when it\u2019s done. Typically it\u2019s done when companies\
     \ are ready to invest in product analytics tools or other event based engagement\
-    \ tools, like customer IO Brace etc. There are many tools where you can use events\
+    \ tools, like Customer.IO, Braze, etc. There are many tools where you can use events\
     \ to personalize customer experiences. This is relevant to both startups as well\
     \ as big companies."
   who: Arpit
@@ -287,7 +287,7 @@ transcript:
   sec: 1247
   time: '20:47'
   who: Alexey
-- line: 'There are purpose-built tools for that: Avo, Iteratively, TrackPlan. These
+- line: 'There are purpose-built tools for that: AVO, Iteratively, TrackPlan. These
     are tools that are built for companies to create their tracking plan in a collaborative
     manner rather than relying on a spreadsheet. They have useful features to maintain
     data quality, maintain taxonomy and collaborate on each event. You describe an
@@ -484,7 +484,7 @@ transcript:
   time: '33:41'
   who: Alexey
 - line: "There are CDI tools \u2014 customer infrastructure tools. The ones I mentioned\
-    \ \u2014 track plan, RVO and Iteratively. They allow you to also collect your\
+    \ \u2014 track plan, AVO and Iteratively. They allow you to also collect your\
     \ data, not just create the plan. Other popular tools will be Segment Connections.\
     \ Segment Connection is one of the most popular tools for tracking product data.\
     \ There are also RudderStack and MetaRouter, which is relatively new. Freshpaint\
@@ -525,7 +525,7 @@ transcript:
     \ You have a warehouse and you are already sending data there. If you want to\
     \ implement a product analytics tool, you don\u2019t have to use their SDKs to\
     \ send data to them directly. You can send data from your warehouse to these products.\
-    \ There is a tool called rockcom. You don\u2019t even need to send data there.\
+    \ There is a tool called Rakam. You don\u2019t even need to send data there.\
     \ It just sits on top of your warehouse like a BI tool and offers data analytics\
     \ features."
   who: Arpit
@@ -538,12 +538,12 @@ transcript:
   time: '37:21'
   who: Alexey
 - header: Reverse ETL tools
-- line: "Exactly. That's what I meant. Next, there\u2019s Span Apply. Once you have\
+- line: "Exactly. That's what I meant. Next, there\u2019s Panoply. Once you have\
     \ the data in the warehouse, you can do a lot of things with it. You can send\
     \ it back to your BI and analytics tools. You can even send it to your engagement\
     \ tools. There are again a new bunch of companies that have come up that are solving\
     \ this problem. They are referred to as \u201Creverse ETL\u201D tools or \u201C\
-    operational analytics tools\u201D. Companies like Census, HighTouch, Group are\
+    operational analytics tools\u201D. Companies like Census, HighTouch, Grouparoo are\
     \ solving this problem. You have the data in the warehouse and you want to send\
     \ data to a lot of different tools \u2014 your sales, marketing, advertising,\
     \ support tools or whatever product analytics tools. You can do that using these\
@@ -583,7 +583,7 @@ transcript:
   time: '39:54'
   who: Arpit
 - line: "At the very least, you need to collect data. You need a tool like a CDI \u2014\
-    \ Segment Connections, broader stack, MetaRouter. I will share a list. I\u2019\
+    \ Segment Connections, Rudderstack, MetaRouter. I will share a list. I\u2019\
     ve written a lot about this stuff. A lot of these tools have free tiers, free\
     \ plans. You can explore different tools and see what works for you."
   who: Arpit
@@ -598,11 +598,11 @@ transcript:
     \ \u201Cmodern data stack for growth\u201D. If you hear the term \u201Cmodern\
     \ data stack\u201D, you hear it in the context of analytics \u2014 \u201Cmodern\
     \ data stack for analytics\u201D is how I would describe it. You have an ELT tool,\
-    \ like fivetran, friends stage, etc. You\u2019re ingesting data from all third\
+    \ like Fivetran, Stitch, Xplenty, etc. You\u2019re ingesting data from all third\
     \ party tools into a warehouse. Then you have a BI tool and you have a transformation\
     \ tool. DBT is worth mentioning here \u2014  it\u2019s growing so fast, so many\
     \ companies are adopting this library for their transformation needs and modeling\
-    \ needs. Then BI tools \u2014 like Liquid, Looker, mode, etc. That\u2019s the\
+    \ needs. Then BI tools \u2014 like Liquid, Looker, Mode, etc. That\u2019s the\
     \ modern data stack for analytics."
   sec: 2490
   time: '41:30'
@@ -613,7 +613,7 @@ transcript:
   who: Arpit
 - line: "Then you have tools that make data available in your downstream SasS tools\
     \ \u2014 sales, marketing, support tools. That could be a customer data platform\
-    \ \u2014 if you are using tools like Segment Connections and radar stack, they\
+    \ \u2014 if you are using tools like Segment Connections and Rudderstack, they\
     \ can do that. If you are storing the data in the warehouse then you can use a\
     \ reverse ETL tool. Each of these categories obviously has multiple tools. A lot\
     \ of them are very similar. Some have different capabilities. It\u2019s time consuming\
@@ -652,10 +652,10 @@ transcript:
     build this in-house, how much will it cost us? Do we have the resources to maintain
     that? Versus buying a ready-made solution.
   who: Arpit
-- line: "A lot of these tools are open source. So, radish tag is open source, grouper\
+- line: "A lot of these tools are open source. So, Rudderstack is open source, Grouparoo\
     \ with a reverse ETL tool is open source. There\u2019s a bunch of open source\
     \ BI tools. There\u2019s an open source product analytics tool now called \u201C\
-    post hog\u201D. In every category you will find open source tools. If you have\
+    Posthog\u201D. In every category you will find open source tools. If you have\
     \ the resources \u2014 it takes a lot of effort to implement an open source tool.\
     \ Just because it\u2019s open-source, it doesn't mean it\u2019s easy to implement.\
     \ But if you have the resources you can go that route."
@@ -737,7 +737,7 @@ transcript:
     \ data available or just by giving people access to different tools. Invest in\
     \ data literacy. Have people from less technical teams or business teams know\
     \ how data works. Invest in documentation, invest in data cataloging tools or\
-    \ data documentation tools \u2014 tools like Atlan, Cicada."
+    \ data documentation tools \u2014 tools like Atlan, Secoda."
   sec: 3127
   time: '52:07'
   who: Arpit

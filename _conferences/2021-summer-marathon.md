@@ -110,7 +110,12 @@ tracks:
         date: 2021-06-25 17:00:00
         eventbrite: TBA
         abstract:
-          TBA
+          "<ul>
+            <li>From model-centric to data-centric</li>
+            <li>The most common mistakes and assumptions in data preparation</li>
+            <li>Big data towards smarter data</li>
+          </ul>
+          "
 
 partners:
   - name: "TheSequence"

@@ -1,6 +1,10 @@
-
-
 # july
+
+- time: 2021-06-29 17:00:00
+  title: "Modeling the Human Brain"
+  speakers: [jessieyaros]
+  type: webinar
+  link: https://eventbrite.com/e/157544147787
 
 - time: 2021-06-21 16:55:00
   end: 2021-06-25 18:05:00
@@ -42,6 +46,7 @@
   speakers: [mervenoyan]
   type: webinar
   link: https://eventbrite.com/e/154127861583
+  youtube: https://www.youtube.com/watch?v=Jrigg7n-bt8
 
 # may
 - time: 2021-05-28 17:00:00
