@@ -69,7 +69,11 @@ tracks:
         date: 2021-06-21 17:00:00
         eventbrite: 157373360959
         abstract:
-          TBA
+          It happens again and again; AI projects are not finalized. According to a study by the
+          consulting and research firm Gartner, 85 percent of AI projects are doomed to failure.
+          One of the reasons is that AI is still a comparatively new method, which means that project
+          experience is still lacking. Jan will talk about how to properly identify, evaluate, and
+          scope AI projects.
       - speaker: benwilson
         name: "Running from Complexity"
         date: 2021-06-22 17:00:00
