@@ -37,6 +37,7 @@
   speakers: [jessiashdown, urigilad]
   type: podcast
   link: https://eventbrite.com/e/152298865005
+  youtube: https://www.youtube.com/watch?v=tJ3v8h7A7RY
   season: 3
   episode: 10
 - time: 2021-06-01 17:00:00
@@ -44,7 +45,7 @@
   speakers: [mervenoyan]
   type: webinar
   link: https://eventbrite.com/e/154127861583
-  youtube: https://www.youtube.com/watch?v=Jrigg7n-bt8
+  youtube: https://www.youtube.com/watch?v=Jrigg7n-bt8&t=945s
 
 # may
 - time: 2021-05-28 17:00:00
@@ -54,6 +55,7 @@
   type: podcast
   link: https://eventbrite.com/e/153473829355
   youtube: https://www.youtube.com/watch?v=c6dK1LWpv4g
+  anchor: https://anchor.fm/datatalksclub/episodes/What-Data-Scientists-Dont-Mention-in-Their-LinkedIn-Profiles---Yury-Kashnitsky-e125jjl
   season: 3
   episode: 9
 - time: 2021-05-25 17:00:00
