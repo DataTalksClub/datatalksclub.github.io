@@ -11,7 +11,9 @@ tracks:
     eventbrite: 153177531119
     youtube: NA
     talks:
-      - speaker: svpino
+      - speaker:
+          id: svpino
+          company: Levatas
         name: "From Software Engineering to Machine Learning"
         date: 2021-06-14 17:00:00
         eventbrite: 156360377097
@@ -22,13 +24,17 @@ tracks:
             <li>Core tools and frameworks</li>
             <li>Learning plan for the transition</li>
           </ul>"
-      - speaker: dalianaliu
+      - speaker:
+          id: dalianaliu
+          company: Amazon AI
         name: "The Next Level of Your Data Science Career"
         date: 2021-06-15 17:00:00
         eventbrite: 156383548403
         abstract:
           TBA
-      - speaker: andreaskretz
+      - speaker:
+          id: andreaskretz
+          company: Plumbers of Data Science
         name: "Build Your Own Data Pipeline"
         date: 2021-06-16 17:00:00
         eventbrite: 156383644691
@@ -39,7 +45,9 @@ tracks:
             <li>Which tools and technologies I need to learn</li>
             <li>Stream vs batch</li>
           </ul>"
-      - speaker: roksolanadiachuk
+      - speaker:
+          id: roksolanadiachuk
+          company: Captify
         name: "Big Data Engineer vs Data Scientist"
         date: 2021-06-17 17:00:00
         eventbrite: 156383773075
@@ -50,7 +58,9 @@ tracks:
             <li>How big data engineers and data scientists can work together</li>
             <li>Walkthrough of a project from idea to production</li>
           </ul>"
-      - speaker: elenasamuylova
+      - speaker:
+          id: elenasamuylova
+          company: Evidently AI
         name: "I Want to Build a Machine Learning Startup!"
         date: 2021-06-18 17:00:00
         eventbrite: 156461405275
@@ -64,7 +74,9 @@ tracks:
     eventbrite: 153178006541
     youtube: NA
     talks:
-      - speaker: janzawadzki
+      - speaker:
+          id: janzawadzki
+          company: "CARIAD (Volkswagen)"
         name: "Setting Up AI Projects for Success"
         date: 2021-06-21 17:00:00
         eventbrite: 157373360959
@@ -74,7 +86,9 @@ tracks:
           One of the reasons is that AI is still a comparatively new method, which means that project
           experience is still lacking. Jan will talk about how to properly identify, evaluate, and
           scope AI projects.
-      - speaker: benwilson
+      - speaker:
+          id: benwilson
+          company: Databricks
         name: "Running from Complexity"
         date: 2021-06-22 17:00:00
         eventbrite: 157377603649
@@ -86,13 +100,17 @@ tracks:
             <li>Implementing novel algorithms for solving our problems - pros and cons </li>
             <li>Is it a good idea to be an early technology adopter?</li>
           </ul>"
-      - speaker: linaweichbrodt
+      - speaker:
+          id: linaweichbrodt
+          company: Deutsche Kreditbank
         name: "Humans in the Loop"
         date: 2021-06-23 17:00:00
         eventbrite: 157377701943
         abstract:
           Navigating users, stakeholders and your own biases in MLOps
-      - speaker: dougturnbull
+      - speaker:
+          id: dougturnbull
+          company: Shopify
         name: "Why Your Search Relevance Project Will Fail"
         date: 2021-06-24 17:00:00
         eventbrite: 157404371713
@@ -109,7 +127,9 @@ tracks:
           You’ll see how to systematically overcome biases due to low traffic and how you display results.
           With a good foundation in place, then the sky is the limit for how much you can grow, tune,
           or machine-learn relevance: having an impact beyond the test/training split!"
-      - speaker: fabianaclemente
+      - speaker:
+          id: fabianaclemente
+          company: YData
         name: "The Importance of Data Quality"
         date: 2021-06-25 17:00:00
         eventbrite: TBA
@@ -166,15 +186,15 @@ partners:
 
 <div class="conference-talks">
 {% for talk in track.talks %}
-  {% assign speaker = site.people | where: "short", talk.speaker | first %}
+  {% assign speaker = site.people | where: "short", talk.speaker.id | first %}
   <div class="talk-wrap d-flex">
     <div class="talk-speaker-img-container">
-      <img class="talk-speaker-img" src="/{{speaker.picture}}" />
+      <img class="talk-speaker-img" src="/{{ speaker.picture }}" />
     </div>
     <div class="talk-details">
-      <span class="datetime">{{ talk.date | date: "%A, %d %B at %H:%M" }} CET</span>
-      <h2>{{talk.name}}</h2>
-      <h3 class="speaker-name">— <a href="/people/{{talk.speaker}}.html" target="_blank">{{ speaker.title }}</a></h3>
+      <span class="datetime grey-text">{{ talk.date | date: "%A, %d %B at %H:%M" }} CET</span>
+      <h2>{{ talk.name }}</h2>
+      <h3 class="speaker-name">— <a href="/people/{{ talk.speaker.id }}.html" target="_blank">{{ speaker.title }}</a> <span class="grey-text">/ {{ talk.speaker.company }}</span></h3>
       <span class="toggle-abscract"><a href="javascript:void();" onclick="toggle('{{ talk.name | slugify }}')">Show abstract</a></span>
       <div class="talk-absctract" id="{{ talk.name | slugify }}" style="display: none;">
         {{ talk.abstract }}
