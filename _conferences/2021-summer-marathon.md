@@ -132,7 +132,7 @@ tracks:
           company: YData
         name: "The Importance of Data Quality"
         date: 2021-06-25 17:00:00
-        eventbrite: TBA
+        eventbrite: 158165953625
         abstract:
           "<ul>
             <li>From model-centric to data-centric</li>
