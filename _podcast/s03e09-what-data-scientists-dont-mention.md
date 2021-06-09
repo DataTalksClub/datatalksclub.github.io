@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=c6dK1LWpv4g
   anchor: https://anchor.fm/datatalksclub/episodes/What-Data-Scientists-Dont-Mention-in-Their-LinkedIn-Profiles---Yury-Kashnitsky-e125jjl
   spotify: https://open.spotify.com/episode/3KR6zErxqeDuQ2jo8NDvNx
-  apple: TODO
+  apple: https://podcasts.apple.com/us/podcast/what-data-scientists-dont-mention-in-their-linkedin/id1541710331?i=1000524260842
 
 transcript:
 - line: "This week we will talk about failures and things in our CVs that we typically\
