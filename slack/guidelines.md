@@ -19,6 +19,7 @@ Table of contents:
 * [Taking part in discussions](#taking-part-in-discussions)
 * [Channels](#channels)
 * [Promotion](#promotion)
+* [Jobs](#jobs)
 * [Homework help](#homework-help)
 
 ## Taking part in discussions
@@ -77,12 +78,41 @@ and anything else. Please don’t use other channels for that.
 
 To promote your events, you can share them in `#events`, but `#shameless-promotion` is also fine.
 
-We do not welcome unsolicited promotional messages in DM. **Violating it will result in a ban.**
+We do not welcome unsolicited promotional messages in DM. **Violating it will result in a ban without a warning.**
 Instead, use the `#shameless-promotion` channel, and if somebody is interested in your services,
 they will reach out to you. If you get unsolicited promotional messages in DM, report it to Alexey Grigorev.
 
 If you represent a company, indicate your affiliation if you suggest using your services when
 answering questions.
+
+## Jobs
+
+If you're looking for colleagues, use the `#jobs` channel.
+
+To make it easier for others to judge if a position is relevant for them, please mention:
+
+* City / Country
+* Relocation support
+* Posibility to work remotely
+
+And don't forget to include contain details and the link to the job description :)
+
+Since we're a data community, please make sure the positions are related to data or to software development.
+
+Relevant positions:
+
+* Data/product analyst
+* Data scientist
+* Machine learning engineer
+* Data engineer
+* Analytics engineer
+* Developer advocate
+* Software engineer / Python developer
+
+
+Not relevant positions:
+
+* Accountants and bookkeepers
 
 
 ## Homework help
