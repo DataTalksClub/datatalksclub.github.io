@@ -93,13 +93,13 @@ To make it easier for others to judge if a position is relevant for them, please
 
 * City / Country
 * Relocation support
-* Posibility to work remotely
+* Possibility to work remotely
 
 And don't forget to include contain details and the link to the job description :)
 
 Since we're a data community, please make sure the positions are related to data or to software development.
 
-Relevant positions:
+Examples of relevant positions:
 
 * Data/product analyst
 * Data scientist
@@ -110,7 +110,7 @@ Relevant positions:
 * Software engineer / Python developer
 
 
-Not relevant positions:
+Examples of not relevant positions:
 
 * Accountants and bookkeepers
 
