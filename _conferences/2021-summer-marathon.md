@@ -160,6 +160,10 @@ partners:
   - name: AICamp
     link: https://www.aicamp.ai/
     image: "/images/partners/aicamp.png"
+  - name: ODSC
+    link: http://odsc.com/
+    image: "/images/partners/odsc.png"
+
 
 ---
 
@@ -218,7 +222,7 @@ partners:
 
 ## Event community partners
 
-<div class="text-center row">
+<div class="text-center row justify-content-center">
 {% for partner in page.partners %}
   <div class="my-3 col-md-6" style="display: flex">
     <a href="{{ partner.link }}" style="margin: auto" target="_blank">

@@ -4,3 +4,4 @@
 *.ipynb
 /_site/
 /previews/node_modules/
+.jekyll-metadata
