@@ -1,3 +1,5 @@
+# august
+
 # july
 
 # june
@@ -6,6 +8,14 @@
   speakers: [jessieyaros]
   type: webinar
   link: https://eventbrite.com/e/157544147787
+- time: 2021-06-28 17:00:00
+  title: "Chief Data Officer"
+  slug: "chief-data-officer"
+  speakers: [marcodesa]
+  type: podcast
+  link: https://eventbrite.com/e/159031895681
+  season: 4
+  episode: 7
 - time: 2021-06-21 16:55:00
   end: 2021-06-25 18:05:00
   title: "DataTalks.Club Summer Marathon: Machine Learning in Production"
