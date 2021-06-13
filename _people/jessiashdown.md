@@ -2,7 +2,7 @@
 short: jessiashdown
 title: "Jessi Ashdown"
 picture: "images/authors/jessiashdown.jpg"
-linkedin: https://www.linkedin.com/in/jashdown/
+linkedin: jashdown
 ---
 
 Jessi Ashdown is a Senior User Experience Researcher for Google Cloud who conducts user studies
