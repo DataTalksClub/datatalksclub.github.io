@@ -161,9 +161,11 @@ partners:
     link: https://www.aicamp.ai/
     image: "/images/partners/aicamp.png"
   - name: ODSC
-    link: http://odsc.com/
+    link: https://odsc.com/
     image: "/images/partners/odsc.png"
-
+  - name: DPhi
+    link: https://dphi.tech/
+    image: "/images/partners/dphi.png"
 
 ---
 
