@@ -31,7 +31,7 @@ tracks:
         date: 2021-06-15 17:00:00
         eventbrite: 156383548403
         abstract:
-          TBA
+          Getting a promotion as a data scientist
       - speaker:
           id: andreaskretz
           company: Plumbers of Data Science

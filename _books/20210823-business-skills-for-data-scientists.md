@@ -9,6 +9,8 @@ authors: [davidstephenson]
 links: 
   - text: Book's Amazon page
     link: https://www.amazon.com/gp/product/B08TY93PMC/
+  - text: Book's page at Bol
+    link: https://www.bol.com/nl/p/business-skills-for-data-scientists/9300000024726496/
 ---
 
 It takes more than technical skills to succeed as an analytics professional.
