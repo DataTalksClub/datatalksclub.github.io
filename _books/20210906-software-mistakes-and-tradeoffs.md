@@ -5,7 +5,7 @@ cover: "images/books/20210906-software-mistakes-and-tradeoffs/cover.jpg"
 image: "images/books/20210906-software-mistakes-and-tradeoffs/preview.jpg"
 start: 2021-09-06 00:00:00
 end: 2021-09-10 22:59:58
-authors: [tomaszlelek, Jon Skeet]
+authors: [tomaszlelek, jonskeet]
 links: 
   - text: Book's page
     link: https://www.manning.com/books/software-mistakes-and-tradeoffs
