@@ -16,18 +16,83 @@
   link: https://eventbrite.com/e/159031895681
   season: 4
   episode: 7
+
+- time: 2021-06-25 17:00:00
+  title: "The Importance of Data Quality"
+  speakers: [fabianaclemente]
+  type: webinar
+  link: https://eventbrite.com/e/158165953625
+- time: 2021-06-24 17:00:00
+  title: "Why Your Search Relevance Project Will Fail"
+  speakers: [dougturnbull]
+  type: webinar
+  link: https://eventbrite.com/e/157404371713
+- time: 2021-06-23 17:00:00
+  title: "Humans in the Loop"
+  speakers: [linaweichbrodt]
+  type: podcast
+  link: https://eventbrite.com/e/157377701943
+  season: 4
+  episode: 6
+- time: 2021-06-22 17:00:00
+  title: "Running from Complexity"
+  speakers: [benwilson]
+  type: podcast
+  link: https://eventbrite.com/e/157377603649
+  season: 4
+  episode: 5
+- time: 2021-06-21 17:00:00
+  title: "Setting Up AI Projects for Success"
+  speakers: [janzawadzki]
+  type: webinar
+  link: https://eventbrite.com/e/157373360959
+
 - time: 2021-06-21 16:55:00
   end: 2021-06-25 18:05:00
   title: "DataTalks.Club Summer Marathon: Machine Learning in Production"
   speakers: [janzawadzki, benwilson, linaweichbrodt, dougturnbull, fabianaclemente]
   type: conference
   link: /conferences/2021-summer-marathon.html#machine-learning-in-production
+
+- time: 2021-06-18 17:00:00
+  title: "I Want to Build a Machine Learning Startup!"
+  slug: "ml-startup"
+  speakers: [elenasamuylova]
+  type: podcast
+  youtube: https://www.youtube.com/watch?v=DiDs5aMjEWg
+  season: 4
+  episode: 4
+- time: 2021-06-17 17:00:00
+  title: "Big Data Engineer vs Data Scientist"
+  speakers: [roksolanadiachuk]
+  type: podcast
+  youtube: https://www.youtube.com/watch?v=yg3d1lFd7Uo
+  season: 4
+  episode: 3
+- time: 2021-06-16 17:00:00
+  title: "Build Your Own Data Pipeline"
+  speakers: [andreaskretz]
+  type: podcast
+  youtube: https://www.youtube.com/watch?v=IrZPAG6OBqo
+  season: 4
+  episode: 2
+- time: 2021-06-14 17:00:00
+  title: "From Software Engineering to Machine Learning"
+  slug: "from-swe-to-ml"
+  speakers: [svpino]
+  type: podcast
+  youtube: https://www.youtube.com/watch?v=xVYOdRrN7hw
+  season: 4
+  episode: 1
+
 - time: 2021-06-14 16:55:00
   end: 2021-06-18 18:05:00
   title: "DataTalks.Club Summer Marathon: Career in Data"
   speakers: [svpino, dalianaliu, andreaskretz, roksolanadiachuk, elenasamuylova]
   type: conference
   link: /conferences/2021-summer-marathon.html#career-in-data
+  youtube: https://www.youtube.com/watch?v=xVYOdRrN7hw&list=PL3MmuxUbc_hJVHxIcDITxkWiImNxDa6jh&index=19
+
 - time: 2021-06-11 17:00:00
   title: "Analytics Engineer: New Role in a Data Team"
   slug: "analytics-engineer"
@@ -35,6 +100,7 @@
   type: podcast
   link: https://eventbrite.com/e/153419478791
   youtube: https://www.youtube.com/watch?v=C5UcxBwdCEg
+  anchor: https://anchor.fm/datatalksclub/episodes/Analytics-Engineer-New-Role-in-a-Data-Team---Victoria-Perez-Mola-e131e3n
   season: 3
   episode: 11
 - time: 2021-06-08 17:00:00

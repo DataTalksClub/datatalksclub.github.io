@@ -9,7 +9,8 @@ layout: page
 tracks:
   - name: Career in Data
     eventbrite: 153177531119
-    youtube: NA
+    start: 2021-06-14 17:00:00
+    end: 2021-06-18 18:00:00
     talks:
       - speaker:
           id: svpino
@@ -72,7 +73,8 @@ tracks:
           </ul>"
   - name: Machine Learning in Production
     eventbrite: 153178006541
-    youtube: NA
+    start: 2021-06-21 17:00:00
+    end: 2021-06-24 18:00:00
     talks:
       - speaker:
           id: janzawadzki
@@ -177,18 +179,23 @@ partners:
 * Can't attend? Register anyways, we will send you the recordings.
 
 
+{% assign upcoming = page.tracks
+  | where_exp: "track", "track.end >= site.time" %}
+
+
 <h2>Tracks</h2>
 
 <ul>
 {% for track in page.tracks %}
   <li>
-    <a href="#{{ track.name | slugify }}">{{ track.name}}</a>
+    <a href="#{{ track.name | slugify }}">{{ track.name }}</a>
   </li>
 {% endfor %}
 </ul>
 
-{% for track in page.tracks %}
-<h2 id="{{ track.name | slugify }}">{{ track.name}}</h2>
+
+{% for track in upcoming %}
+<h2 id="{{ track.name | slugify }}">{{ track.name }}</h2>
 
 <div class="conference-talks">
 {% for talk in track.talks %}
@@ -221,6 +228,34 @@ partners:
 
 {% endfor %}
 
+## Past tracks
+
+{% assign past = page.tracks
+  | where_exp: "track", "track.end < site.time" %}
+
+{% for track in past %}
+<h3 id="{{ track.name | slugify }}">{{ track.name }}</h3>
+
+<div class="conference-talks">
+{% for talk in track.talks %}
+  {% assign speaker = site.people | where: "short", talk.speaker.id | first %}
+  <div class="talk-wrap d-flex">
+    <div class="talk-speaker-img-container">
+      <img class="talk-speaker-img" src="/{{ speaker.picture }}" />
+    </div>
+    <div class="talk-details">
+      <span class="datetime grey-text">{{ talk.date | date: "%A, %d %B at %H:%M" }} CET</span>
+      <h2>{{ talk.name }}</h2>
+      <h3 class="speaker-name">— <a href="/people/{{ talk.speaker.id }}.html" target="_blank">{{ speaker.title }}</a> <span class="grey-text">/ {{ talk.speaker.company }}</span></h3>
+      <span class="toggle-abscract"><a href="javascript:void();" onclick="toggle('{{ talk.name | slugify }}')">Show abstract</a></span>
+      <div class="talk-absctract" id="{{ talk.name | slugify }}" style="display: none;">
+        {{ talk.abstract }}
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>
+{% endfor %}
 
 ## Event community partners
 
