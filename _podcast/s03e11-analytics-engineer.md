@@ -884,5 +884,5 @@ transcript:
 Links: 
 
 * <https://www.notion.so/Analytics-Engineer-New-Role-in-a-Data-Team-9decbf33825c4580967cf3173eb77177>{:target="_blank"}
-* Victoria's LinkedIn: <https://www.linkedin.com/in/victoriaperezmola/>{:target="_blank"}
+* [Victoria's LinkedIn](https://www.linkedin.com/in/victoriaperezmola/){:target="_blank"}
 
