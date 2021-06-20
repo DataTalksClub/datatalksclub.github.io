@@ -18,6 +18,7 @@ tracks:
         name: "From Software Engineering to Machine Learning"
         date: 2021-06-14 17:00:00
         eventbrite: 156360377097
+        youtube: https://www.youtube.com/watch?v=xVYOdRrN7hw
         abstract:
           "You’re more qualified than you think!<br/><br/>
           <ul>
@@ -39,6 +40,7 @@ tracks:
         name: "Build Your Own Data Pipeline"
         date: 2021-06-16 17:00:00
         eventbrite: 156383644691
+        youtube: https://www.youtube.com/watch?v=IrZPAG6OBqo
         abstract:
           "Become a better data scientist by learning data engineering<br/><br/>
           <ul>
@@ -52,6 +54,7 @@ tracks:
         name: "Big Data Engineer vs Data Scientist"
         date: 2021-06-17 17:00:00
         eventbrite: 156383773075
+        youtube: https://www.youtube.com/watch?v=yg3d1lFd7Uo
         abstract:
           "<ul>
             <li>Skills big data engineers and data scientists have</li>
@@ -65,6 +68,7 @@ tracks:
         name: "I Want to Build a Machine Learning Startup!"
         date: 2021-06-18 17:00:00
         eventbrite: 156461405275
+        youtube: https://www.youtube.com/watch?v=DiDs5aMjEWg
         abstract:
           "<ul>
             <li>Things to consider when building a startup</li>
@@ -247,10 +251,7 @@ partners:
       <span class="datetime grey-text">{{ talk.date | date: "%A, %d %B at %H:%M" }} CET</span>
       <h2>{{ talk.name }}</h2>
       <h3 class="speaker-name">— <a href="/people/{{ talk.speaker.id }}.html" target="_blank">{{ speaker.title }}</a> <span class="grey-text">/ {{ talk.speaker.company }}</span></h3>
-      <span class="toggle-abscract"><a href="javascript:void();" onclick="toggle('{{ talk.name | slugify }}')">Show abstract</a></span>
-      <div class="talk-absctract" id="{{ talk.name | slugify }}" style="display: none;">
-        {{ talk.abstract }}
-      </div>
+      {% if talk.youtube %}<a href="{{ talk.youtube }}" target="_blank">Watch the recording on YouTube</a>{% endif %}
     </div>
   </div>
 {% endfor %}
