@@ -78,7 +78,7 @@ tracks:
   - name: Machine Learning in Production
     eventbrite: 153178006541
     start: 2021-06-21 17:00:00
-    end: 2021-06-24 18:00:00
+    end: 2021-06-25 18:00:00
     talks:
       - speaker:
           id: janzawadzki
