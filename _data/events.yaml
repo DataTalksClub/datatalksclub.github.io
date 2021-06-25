@@ -22,16 +22,19 @@
   speakers: [fabianaclemente]
   type: webinar
   link: https://eventbrite.com/e/158165953625
+  youtube: https://www.youtube.com/watch?v=SQULlY5ZOcw
 - time: 2021-06-24 17:00:00
   title: "Why Your Search Relevance Project Will Fail"
   speakers: [dougturnbull]
   type: webinar
   link: https://eventbrite.com/e/157404371713
+  youtube: https://www.youtube.com/watch?v=Ms9QBBB8MxE
 - time: 2021-06-23 17:00:00
   title: "Humans in the Loop"
   speakers: [linaweichbrodt]
   type: podcast
   link: https://eventbrite.com/e/157377701943
+  youtube: https://www.youtube.com/watch?v=o50j_Ndx2Hg
   season: 4
   episode: 6
 - time: 2021-06-22 17:00:00
@@ -39,6 +42,7 @@
   speakers: [benwilson]
   type: podcast
   link: https://eventbrite.com/e/157377603649
+  youtube: https://www.youtube.com/watch?v=sMy8NYZnsy8
   season: 4
   episode: 5
 - time: 2021-06-21 17:00:00
@@ -46,6 +50,7 @@
   speakers: [janzawadzki]
   type: webinar
   link: https://eventbrite.com/e/157373360959
+  youtube: https://www.youtube.com/watch?v=jQDkBpzK-7w&t=3154s
 
 - time: 2021-06-21 16:55:00
   end: 2021-06-25 18:05:00
@@ -53,6 +58,7 @@
   speakers: [janzawadzki, benwilson, linaweichbrodt, dougturnbull, fabianaclemente]
   type: conference
   link: /conferences/2021-summer-marathon.html#machine-learning-in-production
+  youtube: https://www.youtube.com/watch?v=jQDkBpzK-7w&list=PL3MmuxUbc_hJVHxIcDITxkWiImNxDa6jh&index=23
 
 - time: 2021-06-18 17:00:00
   title: "I Want to Build a Machine Learning Startup!"
@@ -82,6 +88,7 @@
   speakers: [svpino]
   type: podcast
   youtube: https://www.youtube.com/watch?v=xVYOdRrN7hw
+  anchor: https://anchor.fm/datatalksclub/episodes/From-Software-Engineering-to-Machine-Learning---Santiago-Valdarrama-e139s63
   season: 4
   episode: 1
 

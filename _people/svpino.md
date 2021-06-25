@@ -1,7 +1,7 @@
 ---
 short: svpino
 title: "Santiago Valdarrama"
-picture: "images/authors/santiagovaldarrama.jpg"
+picture: "images/authors/svpino.jpg"
 github: svpino
 twitter: svpino
 linkedin: svpino
