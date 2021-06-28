@@ -340,10 +340,10 @@ archive:
     of Graphs in machine learning context? TQ
   replies:
   - name: bechbd
-    text: 'No problem, I actually put some answers to a similar questions here: [https://datatalks-club.slack.com/archives/C01H403LKG8/p1623683981273700?thread_ts=1623675871.268200&amp;cid=C01H403LKG8](https://datatalks-club.slack.com/archives/C01H403LKG8/p1623683981273700?thread_ts=1623675871.268200&amp;cid=C01H403LKG8)'
+    text: 'No problem, I actually put some answers to a similar questions [here](https://datatalks-club.slack.com/archives/C01H403LKG8/p1623683981273700?thread_ts=1623675871.268200&amp;cid=C01H403LKG8)'
   - name: bechbd
     text: Additionally I gave a talk last week on this subject which you can view
-      here [https://www.youtube.com/watch?v=SLKW5Q_URq4](https://www.youtube.com/watch?v=SLKW5Q_URq4)
+      [here](https://www.youtube.com/watch?v=SLKW5Q_URq4)
   - name: Ken Lee
     text: thanks and appreciate!
 - name: Ajay kumar saini
