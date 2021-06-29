@@ -12,6 +12,7 @@ exclude:
   - README.md
   - previews/
   - scripts/
+  - env/
 
 
 collections:

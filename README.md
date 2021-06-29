@@ -9,7 +9,7 @@ rvm use ruby-2.7.0
 gem install bundler
 ```
 
-Running it for the first fime:
+Running it for the first time:
 
 ```
 bundle install
@@ -48,3 +48,26 @@ Book cover:
 ```bash
 ./scripts/generate-book-preview.sh 20210301-ml-engineering
 ```
+
+
+## Scripts 
+
+Installing the requirements:
+
+```bash
+python -m venv env
+source env/bin/activate
+pip install -r scripts/requirements.txt
+
+cd previews
+npm install
+cd ..
+```
+
+
+Running:
+
+```bash
+source env/bin/activate
+python scripts/create.py
+``` 
