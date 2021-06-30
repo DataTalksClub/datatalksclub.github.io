@@ -17,7 +17,7 @@ const render = async (config, output) => {
       height: 550,
       isLandscape: true
     },
-    executablePath: 'google-chrome-stable',
+    executablePath: 'chromium-browser',
     args: ['--no-sandbox'],
   });
 

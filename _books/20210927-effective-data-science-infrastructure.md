@@ -8,11 +8,9 @@ end: 2021-10-01 22:59:58
 authors: [villetuulos]
 links: 
   - text: Book's page
-    link: TODO
-  - text: Book's website
-    link: TODO
+    link: https://www.manning.com/books/effective-data-science-infrastructure
   - text: Book's GitHub repository
-    link: TODO
+    link: https://github.com/outerbounds/dsbook
 ---
 
-TODO
+Effective Data Science Infrastructure: How to make data scientists more productive is a hands-on guide to assembling infrastructure for data science and machine learning applications. It reveals the processes used at Netflix and other data-driven companies to manage their cutting edge data infrastructure. In it, you’ll master scalable techniques for data storage, computation, experiment tracking, and orchestration. You’ll also learn how to collaborate with data scientists to deliver exactly what they need to succeed.
