@@ -86,6 +86,7 @@ tracks:
         name: "Setting Up AI Projects for Success"
         date: 2021-06-21 17:00:00
         eventbrite: 157373360959
+        youtube: https://www.youtube.com/watch?v=jQDkBpzK-7w
         abstract:
           It happens again and again; AI projects are not finalized. According to a study by the
           consulting and research firm Gartner, 85 percent of AI projects are doomed to failure.
@@ -98,6 +99,7 @@ tracks:
         name: "Running from Complexity"
         date: 2021-06-22 17:00:00
         eventbrite: 157377603649
+        youtube: https://www.youtube.com/watch?v=sMy8NYZnsy8
         abstract:
           "Simplicity is the key to keeping your models running in production<br/><br/>
           <ul>
@@ -112,6 +114,7 @@ tracks:
         name: "Humans in the Loop"
         date: 2021-06-23 17:00:00
         eventbrite: 157377701943
+        youtube: https://www.youtube.com/watch?v=o50j_Ndx2Hg
         abstract:
           Navigating users, stakeholders and your own biases in MLOps
       - speaker:
@@ -120,6 +123,7 @@ tracks:
         name: "Why Your Search Relevance Project Will Fail"
         date: 2021-06-24 17:00:00
         eventbrite: 157404371713
+        youtube: https://www.youtube.com/watch?v=Ms9QBBB8MxE
         abstract:
           "We should just feed our user’s clicks into an ML model, teaching it to rank what’s clicked more...
           Right? Well not so fast! Transforming search clickstream data into usable training data can be
@@ -139,6 +143,7 @@ tracks:
         name: "The Importance of Data Quality"
         date: 2021-06-25 17:00:00
         eventbrite: 158165953625
+        youtube: https://www.youtube.com/watch?v=SQULlY5ZOcw
         abstract:
           "<ul>
             <li>From model-centric to data-centric</li>

@@ -22,7 +22,7 @@
   season: 4
   episode: 7
 - time: 2021-08-03 17:00:00
-  title: "Design Documents for Data Science Projects"
+  title: "Unboxing Design Docs for Data Scientists"
   speakers: [vincenttatan]
   type: webinar
   link: https://eventbrite.com/e/161822386113
@@ -69,7 +69,7 @@
   speakers: [janzawadzki]
   type: webinar
   link: https://eventbrite.com/e/157373360959
-  youtube: https://www.youtube.com/watch?v=jQDkBpzK-7w&t=3154s
+  youtube: https://www.youtube.com/watch?v=jQDkBpzK-7w
 
 - time: 2021-06-21 16:55:00
   end: 2021-06-25 18:05:00
