@@ -22,7 +22,7 @@ transcript:
 - line: "Today we'll talk about learning how to build data pipelines for data scientists.\
     \ One of the most frequent questions I get is, \u201CI'm a data scientist and\
     \ I want to build data pipelines. How do I do this?\u201D Finally, today, I'll\
-    \ know how to answer this question. The guests we have today, Andreas, knows this\
+    \ know how to answer this question. The guest we have today, Andreas, knows this\
     \ better than anyone. Andreas is data engineer and calls himself \u201Cthe plumber\
     \ of data science\u201D. He writes and talks about platform architecture, as well\
     \ as the tools and techniques that are used to build modern data science platforms.\
@@ -92,7 +92,7 @@ transcript:
   time: '5:43'
   who: Alexey
 - line: "When you look back a few years, the thing that generally happened was \u2013\
-    \ and I've saw this everywhere \u2013 people were starting with data science and\
+    \ and I've seen this everywhere \u2013 people were starting with data science and\
     \ hired data scientists. They had some data lying around and the data scientists\
     \ analyzed this data. They had a few business ideas, \u201CWe could do this. We\
     \ could do that.\u201D And then they get to the data science track and they solved\
@@ -255,7 +255,7 @@ transcript:
 - line: "So, just some storage. Then these are raw events, and we need to process\
     \ them. So then there is a job that takes the events and processes them, does\
     \ some transformation, and it ends up in some visualization \u2013 some dashboard,\
-    \ maybe, for analytics. Or maybe this is something I, as a data scientists, can\
+    \ maybe, for analytics. Or maybe this is something I, as a data scientist, can\
     \ also take and use it for building my models. Is that right?"
   sec: 989
   time: '16:29'
