@@ -1,4 +1,23 @@
+
+
+
 # august
+- time: 2021-08-27 17:00:00
+  title: "Making Sense of Data Engineering Acronyms and Buzzwords"
+  slug: "data-engineering-acronyms"
+  speakers: [nataliekwong]
+  type: podcast
+  link: https://eventbrite.com/e/162855945517
+  season: 4
+  episode: 2
+- time: 2021-08-20 17:00:00
+  title: "Mastering Algorithms and Data Structures"
+  slug: "mastering-algorithms-and-data-structures"
+  speakers: [marcellolarocca]
+  type: podcast
+  link: https://eventbrite.com/e/162853742929
+  season: 5
+  episode: 1
 
 - time: 2021-08-10 17:00:00
   title: "Multi-platform MLOps with mlctl"
