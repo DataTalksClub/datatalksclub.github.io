@@ -8,4 +8,10 @@ linkedin: marcellolarocca
 web: https://dev.to/mlarocca
 ---
 
-Marcello La Rocca is a research scientist and a full-stack engineer focused on optimization algorithms, genetic algorithms, machine learning and quantum computing. He has contributed to large-scale web applications at companies like Twitter and Microsoft, has undertaken applied research in both academia and industry, and authored the Neatsort adaptive sorting algorithm.
+Marcello is a senior software engineer at Tundra.com.
+He's the author of "Algorithms and Data Structures in Action". His work and interests
+focus on graphs, optimization algorithms, genetic algorithms, machine learning, and
+quantum computing. In his career he has contributed to large-scale web applications at
+companies like Twitter, Microsoft and Apple, also working on data infrastructure and
+applied research in both academia and industry.
+He authored the Neatsort adaptive sorting algorithm.
