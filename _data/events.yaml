@@ -1,5 +1,12 @@
 
-
+- time: 2021-09-03 17:00:00
+  title: "Defining Success: Metrics and KPIs"
+  slug: "metrics-and-kpis"
+  speakers: [adamsroka]
+  type: podcast
+  link: https://eventbrite.com/e/163103010495
+  season: 5
+  episode: 3
 
 # august
 - time: 2021-08-27 17:00:00
@@ -8,8 +15,13 @@
   speakers: [nataliekwong]
   type: podcast
   link: https://eventbrite.com/e/162855945517
-  season: 4
+  season: 5
   episode: 2
+- time: 2021-08-25 17:00:00
+  title: "Make Your First ML Chatbot"
+  speakers: [rachaeltatman]
+  type: webinar
+  link: https://eventbrite.com/e/163100053651
 - time: 2021-08-20 17:00:00
   title: "Mastering Algorithms and Data Structures"
   slug: "mastering-algorithms-and-data-structures"
