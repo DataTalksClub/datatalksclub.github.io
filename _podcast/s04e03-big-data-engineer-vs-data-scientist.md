@@ -1343,6 +1343,6 @@ transcript:
 
 Links:
 
-* Twitter: <https://twitter.com/dead_flowers22>{:target="_blank"}
-* LinkedIn: <https://www.linkedin.com/in/roksolanadiachuk/>{:target="_blank"}
+* [Roksonala's Twitter](https://twitter.com/dead_flowers22){:target="_blank"}
+* [Roksonala's LinkedIn](https://www.linkedin.com/in/roksolanadiachuk/){:target="_blank"}
 
