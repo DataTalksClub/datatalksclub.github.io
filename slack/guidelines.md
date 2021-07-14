@@ -95,7 +95,7 @@ To make it easier for others to judge if a position is relevant for them, please
 * Relocation support
 * Possibility to work remotely
 
-And don't forget to include contain details and the link to the job description :)
+And don't forget to include contact details and the link to the job description :)
 
 Since we're a data community, please make sure the positions are related to data or to software development.
 
