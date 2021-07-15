@@ -1,4 +1,7 @@
 
+
+
+# september
 - time: 2021-09-03 17:00:00
   title: "Defining Success: Metrics and KPIs"
   slug: "metrics-and-kpis"
@@ -9,6 +12,11 @@
   episode: 3
 
 # august
+- time: 2021-08-31 17:00:00
+  title: "Getting Started with Network Analytics in Python"
+  speakers: [ericsims]
+  type: webinar
+  link: https://eventbrite.com/e/163148797445
 - time: 2021-08-27 17:00:00
   title: "Making Sense of Data Engineering Acronyms and Buzzwords"
   slug: "data-engineering-acronyms"
@@ -31,6 +39,14 @@
   season: 5
   episode: 1
 
+- time: 2021-08-13 17:00:00
+  title: "Freelancing in Machine Learning"
+  slug: "freelancing"
+  speakers: [mikiobraun]
+  type: podcast
+  link: https://eventbrite.com/e/163460110591
+  season: 4
+  episode: 9
 - time: 2021-08-10 17:00:00
   title: "Multi-platform MLOps with mlctl"
   speakers: [srivathsancanchi, alexchung]
