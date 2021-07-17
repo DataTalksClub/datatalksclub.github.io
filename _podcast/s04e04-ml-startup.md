@@ -1098,7 +1098,7 @@ transcript:
     \ and building up all the parts beyond the code, pretty much. How you set up the\
     \ company, where you incorporate, how you organize it all \u2013 CEO is not just\
     \ a title. It isn't a certain role that you do, right? It's \
-    \ \u201Cchief everything officer\u201D which is code in our specific example.\
+    \ \u201Cchief everything officer\u201D which is not code in our specific example.\
     \ But I will say it really depends on\
     \ what startup you are doing. It can all be different for you. If the startup\
     \ was focused on direct enterprise sales, for example, I would be doing the sales.\
