@@ -101,7 +101,7 @@ transcript:
     \ go into startups, where you launch some tech company and try to solve something\
     \ really new \u2013 it's a very different approach to business. When I talk about\
     \ traditional business \u2013 for example, for immigrants, it could be like a\
-    \ survival strategy. Zou come to the country and start a business because it\u2019s\
+    \ survival strategy. You come to the country and start a business because it\u2019s\
     \ the only way for you to build up wealth. Some people want to get rich \u2013\
     \ I would actually advise against that. If you want to get rich, there may be\
     \ other schemes than building a startup."
