@@ -100,9 +100,9 @@ transcript:
     \ or teach a course \u2013 something that has a known business model. Or you can\
     \ go into startups, where you launch some tech company and try to solve something\
     \ really new \u2013 it's a very different approach to business. When I talk about\
-    \ traditional business \u2013 for example, for immigrants, it would be like a\
-    \ survival strategy. Come to the country and start a business because it\u2019\
-    s the only way for you to build up wealth. Some people want to get rich \u2013\
+    \ traditional business \u2013 for example, for immigrants, it could be like a\
+    \ survival strategy. Zou come to the country and start a business because it\u2019s\
+    \ the only way for you to build up wealth. Some people want to get rich \u2013\
     \ I would actually advise against that. If you want to get rich, there may be\
     \ other schemes than building a startup."
   sec: 328
@@ -208,7 +208,7 @@ transcript:
     \ that are obvious, like \u201CHey, I can do this great stuff!\u201D But it turns\
     \ out to have been done a million times before."
   who: Elena
-- line: "I would also suggest maybe to fall out of startups. Because if you don't\
+- line: "I would also suggest maybe to follow other startups. Because if you don't\
     \ yet understand principles like \u201CWhat is a startup?\u201D \u201CWhat is\
     \ valuable on the market?\u201D \u201CWhat can become a company?\u201D You first\
     \ need to just develop this sense of what's going on by following what others\
@@ -448,9 +448,9 @@ transcript:
   time: '19:51'
   who: Alexey
 - line: "Well, bootstrapping can still be done for venture capital startups in the\
-    \ early days. Bootstrap is less about raising capital in the beginning and trying\
+    \ early days. Bootstrap is more about not raising capital in the beginning and trying\
     \ to maybe reinvest the money that you get from some clients or just trying to\
-    \ lift up your savings, or do some consulting on the side. It's just the way of\
+    \ live off your savings, or do some consulting on the side. It's just the way of\
     \ how you basically live to a point when you're going to raise money. Sometimes\
     \ you want to do this because you want to delay it or maybe you want to just keep\
     \ your options open. Because once you get investors\u2019 money, you get on this\
@@ -631,7 +631,7 @@ transcript:
 - line: "Well, I don't think that you need to always count on your intuition. But\
     \ you can say something like, \u201CHey, I have this idea. Now let me check how\
     \ I can verify it. So I'm gonna do this, I'm going to do that. I'm going to talk\
-    \ to these people. I'm going to talk to the financial customers.\u201D But you\
+    \ to these people. I'm going to talk to these potential customers.\u201D But you\
     \ basically need to decide what to do on your own. You come up with a hypothesis\
     \ and how to check it."
   sec: 1652
@@ -711,7 +711,7 @@ transcript:
   who: Elena
 - line: The sense of ownership and understanding the big picture is very valuable,
     especially when your join and work in another startup. Maybe one that is a bit
-    more successful than yours was. If you left your startup to lead some divisions
+    more successful than yours was -- if you left your startup. To lead some divisions
     to grow faster. I know many founders who were struggling to hire people that have
     a startup mindset. Usually someone who tried to do one is the best candidate for
     this sort of hire.
@@ -727,7 +727,7 @@ transcript:
 - line: "Oh, I don't know about the specific mental techniques. But I think you should\
     \ understand that this possibility exists and kind of normalize it for yourself.\
     \ You shouldn\u2019t associate yourself personally with your startup and say,\
-    \ \u201CIf this startup fails, I'm a waste. I have two left hands.\u201D This\
+    \ \u201CIf this startup fails, I'm a waste. My life ends.\u201D This\
     \ is a very dangerous mindset. Instead you should think, \u201CHey, this is a\
     \ thing that I'm trying. I know that it might not work. Even if it doesn't work,\
     \ these are the things that I\u2019m going to learn and this is how it\u2019s\
@@ -782,10 +782,11 @@ transcript:
   sec: 2046
   time: '34:06'
   who: Alexey
-- line: "For example, if your workplace is more calm \u2013 things are more relaxed\
-    \ and sorted out. If you're in a high growth startup yourself, probably you can\
+- line: "It's always very individual. It might be that your workplace is more calm \
+    \ \u2013 things are more relaxed\
+    \ and sorted out. If you're in a high growth startup yourself, probably you cannot\
     \ do this. In general, of course, it's better if you can dedicate yourself full\
-    \ time to the startup. But it's not always feasible, especially if you're a technical\
+    \ time to the startup. But it's not always feasible. And especially if you're a technical\
     \ person \u2013 you're mostly likely the one who can create the minimal viable\
     \ product. Meaning that you provide the code yourself and then test the demand.\
     \ So this is something that you can do or try to do. It can be something like\
@@ -793,7 +794,8 @@ transcript:
   sec: 2079
   time: '34:39'
   who: Elena
-- line: "There are surprising examples of startups that are not like the code pirates.\
+- line: "There are surprising examples of startups where it's not the code part\
+    \ [that is the most important].\
     \ It's not a huge, complex system. It's more about figuring out the demand, what\
     \ is needed, and then building maybe a small thing that solves this demand. Then\
     \ you can see a huge list of people who sign up for it, \u201CHey! Looks like\
@@ -829,7 +831,7 @@ transcript:
     \ you like \u2013 as a startup. But you need to pass certain criteria to do so.\
     \ There are these other/newer ways, such as Entrepreneur First. There are some\
     \ other organizations like this that try to invite individual people and then\
-    \ form things inside. But yes, they usually take a bit more in equity. I think\
+    \ form teams inside. But yes, they usually take a bit more in equity. I think\
     \ all this is possible. In the end, when you have a successful startup, everything\
     \ that has happened in the early days is not that important. Most startups make\
     \ mistakes, do something wrong with their equity, and so on. It's more about whether\
@@ -872,7 +874,7 @@ transcript:
 - line: "In this case, building a machine learning startup is probably going to be\
     \ hard, but building other startups is still possible. There are currently so\
     \ many no-code tools and you can actually hack an MVP using something like an\
-    \ AirTable and Bubble. There are Workflow and all these ways how you can create\
+    \ AirTable and Bubble. There are Webflow and all these ways how you can create\
     \ a website or some simple mobile app to test some idea. Then if you see that\
     \ there\u2019s demand for it, you can already attract the technical co-founder\
     \ or even some investments. It doesn\u2019t work for all types of startups, obviously.\
@@ -924,7 +926,7 @@ transcript:
     \ started as something else. I would not overthink it, though. I would not overplan\
     \ stuff. I would always just try to go and talk to these potential users and learn\
     \ something from them. If you cannot get to these users easily, probably that's\
-    \ not the start you\u2019re looking for, because you will need to continue generating\
+    \ not your startup, because you will need to continue generating\
     \ ways of how to reach them."
   sec: 2433
   time: '40:33'
@@ -934,8 +936,8 @@ transcript:
   sec: 2483
   time: '41:23'
   who: Alexey
-- line: Like a plan, like, a super amazing strategy, and it will be then fulfilled.
-    So people hear what they say and try to do this.
+- line: Like a plan, like, a super amazing strategy, and [hope] it will be then fulfilled.
+    [Instead] Go talk to people, hear what they say and try to do this.
   sec: 2489
   time: '41:29'
   who: Elena
@@ -992,7 +994,7 @@ transcript:
   time: '43:26'
   who: Alexey
 - line: Well, we did go really overboard with that. In total, I think before starting
-    to work, we talked to probably around 50 people. And then over hundreds during
+    to work, we talked to probably around 50 people. And then over a hundred during
     the early days of development.
   sec: 2610
   time: '43:30'
@@ -1001,13 +1003,13 @@ transcript:
   sec: 2621
   time: '43:41'
   who: Alexey
-- line: Well, Emily and I have known each other for over seven years. We worked together
+- line: Well, Emeli and I have known each other for over seven years. We worked together
     in Yandex and then we did the previous startup together. So we are a team that
     has known each other for a long time.
   sec: 2626
   time: '43:46'
   who: Elena
-- line: So your previous startup was also with Emily?
+- line: So your previous startup was also with Emeli?
   sec: 2637
   time: '43:57'
   who: Alexey
@@ -1029,8 +1031,9 @@ transcript:
     \ that may sound trivial \u2013 that many people are already solving these types\
     \ of problems. But in the beginning of last year, it was not that obvious for\
     \ many people. If you talk to more traditional companies, you will also learn\
-    \ that they actually have these same problems \u2013 how your monetary models\
-    \ work, so you understand what's going on with them, and other caveats."
+    \ that they actually have these same problems \u2013 how your monitor your models\
+    \ work, how you understand what's going on with them, are they working or not,\
+    \ and other caveats."
   sec: 2652
   time: '44:12'
   who: Elena
@@ -1065,10 +1068,10 @@ transcript:
     \ kind of happens throughout the process. When we began working with Evidently,\
     \ it was the beginning of the lockdown. The world felt a bit crazy. At the same\
     \ time, it was very easy to talk to everyone on Zoom, because everyone was just\
-    \ sitting at home. We like talking to a lot to people and switching over to coding\
+    \ sitting at home. We were just talking to a lot to people and then switching over to coding\
     \ and things like that. In our case, we are complementary in our skillset. For\
     \ example, I was focusing on initiating contact with these people \u2013 calling\
-    \ them up, inviting people to chat \u2013 and Emily was doing the prototyping\
+    \ them up, inviting people to chat \u2013 and Emeli was doing the prototyping\
     \ at first, and then the actual coding when we proceeded to development."
   sec: 2745
   time: '45:45'
@@ -1094,9 +1097,9 @@ transcript:
     \ in what we're doing. I\u2019m talking to investors and potential investors,\
     \ and building up all the parts beyond the code, pretty much. How you set up the\
     \ company, where you incorporate, how you organize it all \u2013 CEO is not just\
-    \ a title. It isn't a certain role that you do, right? There's a popular way to\
-    \ interpret CEO as the \u201Cchief everything officer\u201D which is not what\
-    \ it\u2019s called in our specific example. But I will say it really depends on\
+    \ a title. It isn't a certain role that you do, right? It's \
+    \ \u201Cchief everything officer\u201D which is code in our specific example.\
+    \ But I will say it really depends on\
     \ what startup you are doing. It can all be different for you. If the startup\
     \ was focused on direct enterprise sales, for example, I would be doing the sales.\
     \ This is what I did in my past startup. Now we are dealing more with evangelizing\
@@ -1174,13 +1177,13 @@ transcript:
     \ literally the same product, but you do all the hosting and scaling and provisioning.\
     \ So basically, all the DevOps parts behind it. And people literally pay just\
     \ for you to run this project and product for them. For example, if someone like\
-    \ Amazon comes and takes the same product, and hosts it."
+    \ Amazon comes and takes the same product, and hosts it..."
   who: Elena
 - line: Like ElasticSearch, right?
   sec: 3057
   time: '50:57'
   who: Alexey
-- line: Exactly. So they have to introduce a license that explicitly permits just
+- line: Exactly. So they have to introduce a license that explicitly forbids just
     this part. But still, now it's more of a collaborative relationship with the big
     cloud providers, because they also don't want to be seen as the bad guys killing
     someone else's open source. If you do the open core approach, you're not hindered
@@ -1196,7 +1199,7 @@ transcript:
     \ everything they do. Sometimes they\u2019re even like, \u201CNo, I'm not going\
     \ to tell you my idea.\u201D It doesn't really work like this. It's still a lot\
     \ of work behind just what's out there to make it turn into a company. There are\
-    \ so many great examples like Mongo, Elastic, Griffana, GitLab \u2013 they're\
+    \ so many great examples like Mongo, Elastic, Grafana, GitLab \u2013 they're\
     \ all open source, right? And they're all huge."
   sec: 3082
   time: '51:22'
@@ -1273,7 +1276,7 @@ transcript:
     \ have 100% of this market, but it's going to be very different. This probably\
     \ deserves a whole separate discussion, but yeah, there is a difference depending\
     \ on where you're based. If you're raising capital from investors, it matters\
-    \ how it looks in terms of startups and the capital available."
+    \ how it looks in terms of startup scene and the capital available."
   sec: 3246
   time: '54:06'
   who: Elena
@@ -1292,7 +1295,7 @@ transcript:
     \ a big deal to overcome this aversion. But you can see that many startups made\
     \ it, so it's possible when you provide enough value. Open source is actually\
     \ another workaround to get around this. To use an open source tool in the early\
-    \ days, you don't have to sell data. It makes it so much easier to try the tool,\
+    \ days, you don't have to send data. It makes it so much easier to try the tool,\
     \ as compared to sending the data somewhere in the cloud."
   sec: 3334
   time: '55:34'
@@ -1308,8 +1311,8 @@ transcript:
   who: Alexey
 - line: "Yeah, it\u2019s open source. You can run it anywhere. I mean, you can still\
     \ organize it in a nice way. If you send it to the cloud, you can host it in the\
-    \ right location. All the cloud providers allow this. But it still requires the\
-    \ data to pass through some safety checks in many, many cases. It's doable, although\
+    \ right location. All the cloud providers allow this. It still requires you\
+    \ to pass through some safety checks in many, many cases. It's doable, although\
     \ it may be hard. If you're selling something, you will have to object against\
     \ many things like this. Just paying money is also a hard thing for companies\
     \ to do. You have to convince them that you're worth it."
@@ -1364,7 +1367,7 @@ transcript:
     \ be 100% reality \u2013 it's a bit of a vision of what the startup is doing.\
     \ It's really helpful to get this general understanding just by looking at others.\
     \ Maybe you can keep up with the news related to your domain so that you know\
-    \ who the big competitors are. People want to be asked about it."
+    \ who the big competitors are. You'll definitely be asked about it."
   who: Elena
 - line: Okay, thank you. I think we should be wrapping up. Do you have any last words?
   sec: 3568
@@ -1377,7 +1380,7 @@ transcript:
     \ do that. There is a lot of capital available, there are programs that support\
     \ you. But I also suggest being honest about your intentions. Don't just follow\
     \ the hype and think \u201CHey, I'm going to be giving talks everywhere because\
-    \ I'm a startup founder!\u201D Enjoy this social part of it, because it's actually\
+    \ I'm a startup founder!\u201D and enjoy this social part of it. Because it's actually\
     \ a very hard thing to do. You shouldn\u2019t go for it just for fun or just for\
     \ money. You should be genuinely interested in what\u2019s you\u2019re doing."
   sec: 3572
