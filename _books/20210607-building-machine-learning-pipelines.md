@@ -316,14 +316,6 @@ archive:
     text: What kinds of challenges do you think prevent a tool like this from existing?
       or is it just a matter of time?
 - name: Matthew Emerick
-  text: A big thank you to Hannes Hapke for doing this!
-  replies:
-  - name: Hannes Hapke
-    text: Thank you Matthew Emerick my pleasure
-  - name: Matthew Emerick
-    text: I really enjoy interacting with authors of AI related books. It's why I
-      review so many of them and link to the authors.
-- name: Matthew Emerick
   text: When do you think ML pipelines should be learned in relation to learning ML
     itself?
   replies:
@@ -396,7 +388,7 @@ archive:
     part of the pipeline too?'
   replies:
   - name: Hannes Hapke
-    text: Hi Shankar Somayajula I am sorry for my late reply. The What if tool is
+    text: Hi Shankar Somayajula. The What if tool is
       designed for post training model analysis. It helps you perform a model sensitivity
       analysis. I think you can filter your data to test your model with, but only
       in a limit fashion. I don't think the WIT can use the feature engineering from
@@ -515,8 +507,6 @@ archive:
   replies:
   - name: Hannes Hapke
     text: 'Hi Tim Becker
-
-      Apologies for the late reply.
 
       - Q: Do you have ideas for toy projects that have a reasonable size with data
       that is regularly updated?
