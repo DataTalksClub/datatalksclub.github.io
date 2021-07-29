@@ -1,6 +1,5 @@
 
 
-
 # september
 - time: 2021-09-03 17:00:00
   title: "Defining Success: Metrics and KPIs"
@@ -38,7 +37,11 @@
   link: https://eventbrite.com/e/162853742929
   season: 5
   episode: 1
-
+- time: 2021-08-17 17:00:00
+  title: "Building Streaming Analytics: The Journey and Learnings"
+  speakers: [maximlukichev]
+  type: webinar
+  link: https://eventbrite.com/e/165233611179
 - time: 2021-08-13 17:00:00
   title: "Freelancing in Machine Learning"
   slug: "freelancing"
