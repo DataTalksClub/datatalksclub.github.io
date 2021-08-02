@@ -11,4 +11,5 @@ Agnieszka Mikołajczyk - a deep machine learning enthusiast preparing her PhD th
 Gdansk University of Technology. On a daily basis, she conducts her research as part of her grant
 "Detecting and overcoming bias in data with explainable artificial intelligence" and as part of her 
 R&D work at Voicelab.ai. In her free time she organizes and actively contributes to the scientific community,
-among others by participating in numerous open source projects (e.g. detectwaste.ml, Omdena - AI for Good).
+among others by participating in numerous open source projects (e.g. detectwaste.ml,
+[Omdena](https://omdena.com/){:target="_blank"} - AI for Good).

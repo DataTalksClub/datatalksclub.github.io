@@ -1164,3 +1164,4 @@ Links:
 - Coding: <https://leetcode.com/>{:target="_blank"}
 - System design: <https://www.educative.io/courses/grokking-the-system-design-interview>{:target="_blank"}
 - Ukrainian telegram groups for interview preparation: <https://t.me/FaangInterviewChannel>{:target="_blank"}, <https://t.me/FaangTechInterview>{:target="_blank"}, <https://t.me/FloodInterview>{:target="_blank"}
+- [Omdena](https://omdena.com/){:target="_blank"}
