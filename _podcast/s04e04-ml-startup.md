@@ -587,8 +587,8 @@ transcript:
   sec: 1568
   time: '26:08'
   who: Alexey
-- line: "Grifana too, even though it\u2019s open source. It's actually one that generates\
-    \ money. I happen to have Grifana Enterprise. Some people are certainly paying\
+- line: "Grafana too, even though it\u2019s open source. It's actually one that generates\
+    \ money. I happen to have Grafana Enterprise. Some people are certainly paying\
     \ for it."
   sec: 1571
   time: '26:11'
@@ -1129,7 +1129,7 @@ transcript:
   who: Alexey
 - line: "It can actually be very successful to go to market with this strategy for\
     \ many infrastructure startups nowadays. It can also just be a rational choice\
-    \ if you do infrastructure. You can see companies like Griffana \u2013 they actually\
+    \ if you do infrastructure. You can see companies like Grafana \u2013 they actually\
     \ monetize their open source business, but they create a lot more value by creating\
     \ this open source tool as well. For us, it also resonated a lot because it seems\
     \ like a very natural and good thing to do, because it creates a lot of value\
