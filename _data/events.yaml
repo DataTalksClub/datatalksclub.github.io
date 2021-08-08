@@ -1,6 +1,11 @@
 
-
 # september
+
+- time: 2021-09-07 17:00:00
+  title: "Machine Learning Observability"
+  speakers: [aparnadhinakaran]
+  type: webinar
+  link: https://eventbrite.com/e/166450073651
 - time: 2021-09-03 17:00:00
   title: "Defining Success: Metrics and KPIs"
   slug: "metrics-and-kpis"
