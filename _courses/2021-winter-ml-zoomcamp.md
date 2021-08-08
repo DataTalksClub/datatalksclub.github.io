@@ -2,7 +2,7 @@
 
 title: Machine Learning Zoomcamp (2021) 
 description: Learn machine learning engineering in 4 months in a free online course
-image: images/cover.jpg
+image: images/courses/zoomcamp.jpg
 layout: page
 
 schedule:
@@ -259,6 +259,12 @@ Don't forget to [register in Slack](/slack.html){:target="_blank"} and join [#co
 
 &nbsp;
 
+<center>
+<a href="https://airtable.com/shr6Gz46UZCgJ9l6w" target="_blank" class="btn btn-secondary btn-lg my-3">Register here</a>
+</center>
+
+
+&nbsp;
 
 ## Event community partners
 
@@ -273,9 +279,3 @@ Don't forget to [register in Slack](/slack.html){:target="_blank"} and join [#co
 </div>
 
 
-&nbsp;
-
-
-<center>
-<a href="https://airtable.com/shr6Gz46UZCgJ9l6w" target="_blank" class="btn btn-secondary btn-lg my-3">Register here</a>
-</center>
