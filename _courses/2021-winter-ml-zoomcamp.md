@@ -201,6 +201,11 @@ partners:
 
 Learn machine learning engineering in 4 months in a free online course
 
+<center>
+<a href="https://airtable.com/shr6Gz46UZCgJ9l6w" target="_blank" class="btn btn-secondary btn-lg my-3">
+<i class="fas fa-rocket"></i>
+Register here</a>
+</center>
 
 Plan:
 
@@ -210,10 +215,12 @@ Plan:
 {% endfor %}
 </ul>
 
-
 <center>
-<a href="https://airtable.com/shr6Gz46UZCgJ9l6w" target="_blank" class="btn btn-secondary btn-lg my-3">Register here</a>
+<a href="https://ctt.ac/XZ6b9" target="_blank" class="btn btn-secondary btn-lg my-3">
+<i class="fab fa-twitter"></i>
+Tweet about it!</a>
 </center>
+
 
 Logistics:
 
@@ -222,6 +229,7 @@ Logistics:
 * For homework, projects and other activities, you’ll get scores. At the end, we’ll publish the list of top 100 participants on our website.
 
 The schedule and the plan are work in progress.
+
 
 
 
