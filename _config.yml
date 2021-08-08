@@ -28,6 +28,9 @@ collections:
   podcast:
     output: true
     permalink: /:collection/:title.html
+  courses:
+    output: true
+    permalink: /:collection/:title.html
 
 defaults:
   - scope:
