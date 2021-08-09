@@ -6,7 +6,7 @@ image: images/courses/zoomcamp.jpg
 layout: page
 
 schedule:
-  - title: "Lesson 1: Introduction to Machine Learning"
+  - title: "Introduction to Machine Learning"
     subtitle: "Course overview and logistics"
     start: 2021-09-06 17:00:00
     content:
@@ -18,7 +18,7 @@ schedule:
       content:
         - point 1
       due: 2021-09-12 12:00:00
-  - title: "Lesson 2: Machine Learning for Regression"
+  - title: "Machine Learning for Regression"
     subtitle: "Predicting the price of a car"
     start: 2021-09-13 17:00:00
     content:
@@ -33,7 +33,7 @@ schedule:
       content:
         - House price prediction
       due: 2021-09-12 12:00:00
-  - title: "Lesson 3: Machine Learning for Classification"
+  - title: "Machine Learning for Classification"
     subtitle: "Predicting churning users"
     start: 2021-09-20 17:00:00
     content:
@@ -46,7 +46,7 @@ schedule:
         - point 1
         - point 2
       due: 2021-09-29 12:00:00
-  - title: "Lesson 4: Evaluation Metrics for Classification"
+  - title: "Evaluation Metrics for Classification"
     subtitle: "Evaluating the churn prediction model"
     start: 2021-09-27 17:00:00
     content:
@@ -61,7 +61,7 @@ schedule:
         - point 1
         - point 2
       due: 2021-10-06 12:00:00
-  - title: "Lesson 5: Deploying Machine Learning Models"
+  - title: "Deploying Machine Learning Models"
     subtitle: "Deploying the churn prediction model"
     start: 2021-10-04 17:00:00
     content:
@@ -75,7 +75,7 @@ schedule:
         - point 1
         - point 2
       due: 2021-10-13 12:00:00
-  - title: "Lesson 6: Decision Trees and Ensemble Learning"
+  - title: "Decision Trees and Ensemble Learning"
     subtitle: "Credit risk scoring project"
     start: 2021-10-11 17:00:00
     content:
@@ -101,7 +101,7 @@ schedule:
         - point 1
         - point 2
       due: 2021-10-31 12:00:00
-  - title: "Lesson 7: Neural Networks and Deep Learning"
+  - title: "Neural Networks and Deep Learning"
     subtitle: "Classifying the images of clothes"
     start: 2021-11-01 17:00:00
     content:
@@ -115,7 +115,7 @@ schedule:
       content:
         - TODO
       due: 2021-09-12 12:00:00
-  - title: "Lesson 8: Serverless Deep Learning"
+  - title: "Serverless Deep Learning"
     subtitle: "Serving the clothes classification model with AWS Lambda"
     start: 2021-11-08 17:00:00
     content:
@@ -127,7 +127,7 @@ schedule:
         - TODO
         - TODO
       due: 2021-09-12 12:00:00
-  - title: "Lesson 9: Kubernetes and TensorFlow-Serving"
+  - title: "Kubernetes and TensorFlow-Serving"
     subtitle: "Serving the clothes classification model with Kubernetes and TensorFlow-Serving"
     start: 2021-11-15 17:00:00
     content:
@@ -139,7 +139,7 @@ schedule:
         - TODO
         - TODO
       due: 2021-09-12 12:00:00
-  - title: "Lesson 10: Kubeflow and KFServing"
+  - title: "Kubeflow and KFServing"
     subtitle: "Serving the clothes classification model with KFServing"
     start: 2021-11-22 17:00:00
     content:
@@ -149,7 +149,7 @@ schedule:
         - TODO
         - TODO
       due: 2021-09-12 12:00:00
-  - title: "Capstone project"
+  - title: "Capstone Project"
     subtitle: "Do a project end-to-end"
     start: 2021-11-22 17:00:00
     content:
@@ -163,7 +163,7 @@ schedule:
         - TODO
       due: 2021-12-12 12:00:00
   - title: "Article"
-    subtitle: "Do a project end-to-end"
+    subtitle: "Teach us something"
     start: 2021-11-22 17:00:00
     content:
       - Do some research about a topic that wasn’t covered in the course and write an article about it (with code!)
@@ -172,6 +172,15 @@ schedule:
         - TODO
         - TODO
       due: 2021-12-26 12:00:00
+
+
+teachers:
+  - name: alexeygrigorev
+    role: Instructor
+  - name: dmitrymuzalevskiy
+    role: Teaching Assistant
+  - name: wendymak
+    role: Teaching Assistant
 
 faq:
   - Q: Is it going to be live? When?
