@@ -203,12 +203,15 @@ partners:
   - name: DPhi
     link: https://dphi.tech/
     image: "/images/partners/dphi.png"
+  - name: "Confetti"
+    link: https://www.confetti.ai/
+    image: "/images/partners/confetti.png"
 
 ---
 
 # Machine Learning Zoomcamp
 
-Learn machine learning engineering in 4 months in a free online course
+Learn machine learning engineering in 4 months (September 2021 &ndash; December 2021). Online and free!
 
 <center>
 <a href="https://airtable.com/shr6Gz46UZCgJ9l6w" target="_blank" class="btn btn-secondary btn-lg my-3">
