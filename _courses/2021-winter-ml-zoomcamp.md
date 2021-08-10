@@ -220,7 +220,7 @@ Plan:
 
 <ul>
 {% for session in page.schedule %}
-  <li><a href="#{{ session.title | slugify }}">{{ session.title }}</a></li>
+  <li><a href="#{{ session.title | slugify }}">{{ session.title }}</a> ({{ session.start | date: "%d %B %Y" }})</li>
 {% endfor %}
 </ul>
 
@@ -283,7 +283,7 @@ Don't forget to [register in Slack](/slack.html){:target="_blank"} and join [#co
 
 &nbsp;
 
-## Event community partners
+## Course community partners
 
 <div class="text-center row justify-content-center">
 {% for partner in page.partners %}
@@ -294,5 +294,7 @@ Don't forget to [register in Slack](/slack.html){:target="_blank"} and join [#co
   </div>
 {% endfor %}
 </div>
+
+Thank you for your support!
 
 
