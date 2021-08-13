@@ -21,7 +21,7 @@ links:
 transcript:
 - line: Today, we'll talk about running from complexity, which means starting with
     simpler things when we do our machine learning projects. We have a special guest
-    today, Ben Wilson. Ben is a Practice Lead within the Resident Solutions Architects
+    today, Ben Wilson. Ben is a Practice Lead Resident Solutions Architect
     at Databricks. That's probably the longest title for any guest I had on this show
     [laughs]. Ben is based in North Carolina and he's been doing data science work
     for the past 12 years in companies ranging from semiconductor manufacturing to
