@@ -26,7 +26,7 @@ transcript:
     [laughs]. Ben is based in North Carolina and he's been doing data science work
     for the past 12 years in companies ranging from semiconductor manufacturing to
     fashion companies. He is working on a book for Manning, titled Machine Learning
-    Engineer in Action, which focuses on how to get machine learning projects into
+    Engineering in Action, which focuses on how to get machine learning projects into
     production and help them stay there. Welcome, Ben.
   sec: 134
   time: '2:14'

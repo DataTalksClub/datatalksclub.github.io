@@ -61,6 +61,7 @@
   speakers: [mikiobraun]
   type: podcast
   link: https://eventbrite.com/e/163460110591
+  youtube: https://www.youtube.com/watch?v=HfF791e0HR8
   season: 4
   episode: 8
 - time: 2021-08-10 17:00:00
@@ -75,6 +76,7 @@
   type: podcast
   link: https://eventbrite.com/e/161783842829
   youtube: https://www.youtube.com/watch?v=s-w8_GDgIlU
+  anchor: https://anchor.fm/datatalksclub/episodes/Launching-a-Startup-From-Idea-to-First-Hire---Carmine-Paolino-e15sk4i
   season: 4
   episode: 7
 - time: 2021-08-03 17:00:00
