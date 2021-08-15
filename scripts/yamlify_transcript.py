@@ -69,6 +69,7 @@ def parse_lines(lines):
             }
             results.append(row)
             i = i + 1
+            #print(72, row)
         else:
             h, m, s = match
             total_sec = h * 60 * 60 + m * 60 + s
@@ -83,6 +84,7 @@ def parse_lines(lines):
                 'line': line
             }
             results.append(row)
+            #print(87, row)
 
             i = i + 3
 
@@ -116,6 +118,10 @@ for i in range(len(results)):
     row = results[i]
     if 'header' not in row:
         continue
+    
+    if len(results) > i:
+        print('oops')
+        print(row)
 
     next_row = results[i + 1]
     print(row)
