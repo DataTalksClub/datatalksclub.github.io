@@ -451,7 +451,7 @@ transcript:
     \ professionally. So visualize that, visualize yourself in a new job and in your\
     \ role. Be confident knowing what you are doing, visualize your goals. It helps\
     \ a lot because you trick your mind in the state that it\u2019s already achieved.\
-    \ There is a practice that\u2019s called south kadampa."
+    \ There is a practice that\u2019s called Sankalpa."
   who: Tatiana
 - line: "It\u2019s from Buddhism, and it\u2019s a meditation technique. You visualize\
     \ your goal in the present, like if this already happened. Your desire, your wish,\
@@ -907,7 +907,7 @@ transcript:
   time: '55:55'
   who: Alexey
 - line: "I can cut that off. As I told you, I can paint and not hear anything. Maybe\
-    \ I have a natural tendency for that, but you can also focus with kadampa. You\
+    \ I have a natural tendency for that, but you can also focus with Sankalpa. You\
     \ only focus on your hands and legs. If somebody is happening outside, you make\
     \ a mental note, \u201CI notice that sound\u201D. And you are coming back to your\
     \ practice. With mediation and learning to focus, It\u2019s not going to happen\
