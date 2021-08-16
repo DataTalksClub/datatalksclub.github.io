@@ -268,7 +268,7 @@ Don't forget to [register in Slack](/slack.html){:target="_blank"} and join [#co
 &nbsp;
 
 
-## FAQ
+<h2 id="faq">FAQ</h2>
 
 {% for qa in page.faq %}
 <p class="mb-3">
