@@ -5,6 +5,7 @@ description: Learn machine learning engineering in 4 months in a free online cou
 image: images/courses/zoomcamp.jpg
 layout: page
 
+
 schedule:
   - title: "Introduction to Machine Learning"
     subtitle: "Course overview and logistics"
@@ -174,7 +175,7 @@ schedule:
       due: 2021-12-26 12:00:00
 
 
-teachers:
+team:
   - name: alexeygrigorev
     role: Instructor
   - name: dmitrymuzalevskiy
@@ -267,6 +268,26 @@ Don't forget to [register in Slack](/slack.html){:target="_blank"} and join [#co
 
 &nbsp;
 
+
+## Team
+
+<div class="row" style="justify-content: center;">
+{% for teacher in page.team %}
+  {% assign teacher_info = site.people | where: "short", teacher.name | first %}
+  <div class="teacher-wrap col-md-3 text-center">
+    <div class="talk-speaker-img-container">
+      <img class="talk-speaker-img" src="/{{ teacher_info.picture }}" />
+    </div>
+    <div class="teacher-info">
+      <p><a href="/people/{{ teacher.name }}.html" target="_blank">{{ teacher_info.title }}</a></p>
+      <p><span class="grey-text">{{ teacher.role }}</span></p>
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+
+&nbsp;
 
 <h2 id="faq">FAQ</h2>
 
