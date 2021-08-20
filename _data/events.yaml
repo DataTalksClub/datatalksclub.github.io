@@ -1,5 +1,9 @@
-
 # september
+- time: 2021-09-14 17:00:00
+  title: "Modern Data Stack for Analytics Engineering"
+  speakers: [kyleshannon]
+  type: webinar
+  link: https://eventbrite.com/e/167826765373
 
 - time: 2021-09-07 17:00:00
   title: "Machine Learning Observability"
@@ -47,6 +51,7 @@
   speakers: [maximlukichev]
   type: webinar
   link: https://eventbrite.com/e/165233611179
+  youtube: https://www.youtube.com/watch?v=DN_p_tFSw6c
 - time: 2021-08-16 17:00:00
   title: "Chief Data Officer"
   slug: "chief-data-officer"
