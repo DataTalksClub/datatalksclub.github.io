@@ -44,6 +44,7 @@
   speakers: [marcellolarocca]
   type: podcast
   link: https://eventbrite.com/e/162853742929
+  youtube: https://www.youtube.com/watch?v=RiQa-9LguW8
   season: 5
   episode: 1
 - time: 2021-08-17 17:00:00
@@ -68,6 +69,7 @@
   type: podcast
   link: https://eventbrite.com/e/163460110591
   youtube: https://www.youtube.com/watch?v=HfF791e0HR8
+  anchor: https://anchor.fm/datatalksclub/episodes/Freelancing-in-Machine-Learning---Mikio-Braun-e166n7r
   season: 4
   episode: 8
 - time: 2021-08-10 17:00:00

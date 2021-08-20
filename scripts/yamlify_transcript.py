@@ -61,6 +61,10 @@ def parse_lines(lines):
     while i < n:
         raw_line = lines[i]
 
+        if 'transcribed by https://otter.ai' in raw_line.lower():
+            i = i + 1
+            continue
+
         match = try_parse_time(raw_line)
 
         if match is None:
