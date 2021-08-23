@@ -1034,10 +1034,10 @@ transcript:
   sec: 4105
   time: '1:08:25'
   who: Alexey
-- line: "I'm on Twitter @paolino. I'm also on LinkedIn, just search for my name Carmine\
-    \ Paulino. I have a website that I don't update \u2014 paulino.me. Also freshflow.ai\
+- line: "I’m on Twitter @paolino. I'm also on LinkedIn, just search for my name Carmine\
+    \ Paolino. I have a website that I don't update \u2014 paolino.me. Also freshflow.ai\
     \ is our website for FreshFlow. If you want to email me, my personal email is\
-    \ carmine@paulino.me. If you want to email me for work, it's carmine@freshflow.ai."
+    \ carmine@paolino.me. If you want to email me for work, it's carmine@freshflow.ai."
   sec: 4109
   time: '1:08:29'
   who: Carmine
