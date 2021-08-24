@@ -47,11 +47,13 @@ This community is founded by [Danny Ma](https://www.linkedin.com/in/datawithdann
 
 Instructions for joining: [datawithdanny.com](https://datawithdanny.com/){:target="_blank"}.
 
-## 5. DataMuni (dm-learn)
+## 5. Relevance & Matching Tech
 
-This community is created by [Abhishek Thakur](https://www.linkedin.com/in/abhi1thakur/){:target="_blank"}, the World's first 4x Kaggle Grandmaster. You can talk about data science and machine learning topics there. There are more than 6,000 community members.
+This is the place for discussing practical aspects of search and recommender systems. 
+It welcomes engineers, data scientists, and product managers who want to learn more about it and solve 
+tough problems in this space. 
 
-To join, go to [datamuni.com](https://datamuni.com/){:target="_blank"} and click on "Join Slack".
+To join, go to [http://o19s.com/slack](http://o19s.com/slack){:target="_blank"}.
 
 ## 6. The AI Guild
 
@@ -82,3 +84,5 @@ To join, go to [ods.ai/join-community](https://ods.ai/join-community){:target="_
 
 Happy slacking!
 
+
+_Updated on 2021.08.24._
