@@ -31,6 +31,9 @@ collections:
   courses:
     output: true
     permalink: /:collection/:title.html
+  tools:
+    output: true
+    permalink: /:collection/:title.html
 
 defaults:
   - scope:
