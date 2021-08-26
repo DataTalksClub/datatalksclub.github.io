@@ -38,6 +38,7 @@
   speakers: [rachaeltatman]
   type: webinar
   link: https://eventbrite.com/e/163100053651
+  youtube: https://www.youtube.com/watch?v=YwjauyAflmc
 - time: 2021-08-20 17:00:00
   title: "Mastering Algorithms and Data Structures"
   slug: "mastering-algorithms-and-data-structures"
