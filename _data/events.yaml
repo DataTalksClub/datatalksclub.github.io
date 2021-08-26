@@ -1,10 +1,18 @@
+
 # september
 - time: 2021-09-14 17:00:00
   title: "Modern Data Stack for Analytics Engineering"
   speakers: [kyleshannon]
   type: webinar
   link: https://eventbrite.com/e/167826765373
-
+- time: 2021-09-10 17:00:00
+  title: "Introducing Data Science in Startups"
+  slug: "introducing-data-science-in-startups"
+  speakers: [mariannadiachuk]
+  type: podcast
+  link: https://eventbrite.com/e/168647678747
+  season: 5
+  episode: 4
 - time: 2021-09-07 17:00:00
   title: "Machine Learning Observability"
   speakers: [aparnadhinakaran]
