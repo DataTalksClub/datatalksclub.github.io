@@ -14,7 +14,8 @@ schedule:
       - Understanding machine learning and the problems it can solve    
       - "CRISP-DM: Organizing a successful machine learning project"
       - Setting up the environment 
-      - Quick introduction to Python, Numpy, Linear algebra and Pandas 
+      - Quick introduction to Python, Numpy, Linear algebra and Pandas
+    link: https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/01-intro
     homework:
       content:
         - point 1
@@ -198,6 +199,10 @@ faq:
     A: Yes! We'll cover some linear algebra in the course, but in general, there will be very few formulas, mostly code.
   - Q: How long will the sessions be?
     A: Not longer than one hour each.
+  - Q: I filled the form, but haven't received a confirmation email. Is it normal?
+    A: Yes. We process the sign-ups once per week. To make sure you don't miss anything,
+       join the <a href="https://app.slack.com/client/T01ATQK62F8/C0288NJ5XSA" target="_blank"><code>#course-ml-zoomcamp</code></a>
+       channel.
 
 
 partners:
@@ -244,8 +249,6 @@ Logistics:
 The schedule and the plan are work in progress.
 
 
-
-
 {% for session in page.schedule %}
   <h3 id="{{ session.title | slugify }}">{{ session.title }}</h3>
   {{ session.subtitle }} &ndash; <span class="datetime grey-text">{{ session.start | date: "%A, %d %B at %H:%M" }} CET</span>
@@ -255,6 +258,8 @@ The schedule and the plan are work in progress.
     <li>{{ item }}</li>
   {% endfor %}  
   </ul>
+
+  {% if session.link %}<a href="{{ session.link }}" target="_blank">Lession materials</a>{% endif %}
 {% endfor %}
 
 Don't forget to [register in Slack](/slack.html){:target="_blank"} and join [#course-ml-zoomcamp](https://app.slack.com/client/T01ATQK62F8/C0288NJ5XSA){:target="_blank"} channel.
