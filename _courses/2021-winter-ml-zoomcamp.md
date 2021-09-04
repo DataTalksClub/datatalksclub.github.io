@@ -201,9 +201,9 @@ faq:
 
 
 partners:
-  - name: DPhi
-    link: https://dphi.tech/
-    image: "/images/partners/dphi.png"
+  # - name: DPhi
+  #   link: https://dphi.tech/
+  #   image: "/images/partners/dphi.png"
   - name: "Confetti"
     link: https://www.confetti.ai/
     image: "/images/partners/confetti.png"
