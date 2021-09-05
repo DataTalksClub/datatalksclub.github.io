@@ -30,6 +30,7 @@
   speakers: [adamsroka]
   type: podcast
   link: https://eventbrite.com/e/163103010495
+  youtube: https://www.youtube.com/watch?v=H4P2RfKvXGs
   season: 5
   episode: 3
 
@@ -62,6 +63,7 @@
   type: podcast
   link: https://eventbrite.com/e/162853742929
   youtube: https://www.youtube.com/watch?v=RiQa-9LguW8
+  anchor: https://anchor.fm/datatalksclub/episodes/Mastering-Algorithms-and-Data-Structures---Marcello-La-Rocca-e16s7lf
   season: 5
   episode: 1
 - time: 2021-08-17 17:00:00
