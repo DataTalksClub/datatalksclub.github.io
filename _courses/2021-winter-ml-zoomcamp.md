@@ -212,6 +212,9 @@ partners:
   - name: "Confetti"
     link: https://www.confetti.ai/
     image: "/images/partners/confetti.png"
+  - name: MLOps.community
+    link: https://mlops.community/
+    image: "/images/partners/mlops-community.jpg"
 
 ---
 
