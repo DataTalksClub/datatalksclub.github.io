@@ -1,6 +1,17 @@
-
+# october
+- time: 2021-10-19 17:00:00
+  title: "Back-of-the-Envelope Calculation For Machine Learning Projects"
+  speakers: [larysavisengeriyeva]
+  type: webinar
+  link: https://eventbrite.com/e/169887852139
 
 # september
+- time: 2021-09-28 17:00:00
+  title: "Introduction to Transformers for NLP"
+  speakers: [olgapetrova]
+  type: webinar
+  link: https://eventbrite.com/e/169887210219
+
 - time: 2021-09-21 17:00:00
   title: "Doing Good with Data"
   speakers: [marijnmarkus]
