@@ -1,3 +1,5 @@
+
+
 # october
 - time: 2021-10-19 17:00:00
   title: "Back-of-the-Envelope Calculation For Machine Learning Projects"
@@ -17,6 +19,14 @@
   speakers: [marijnmarkus]
   type: webinar
   link: https://eventbrite.com/e/169217228285
+- time: 2021-09-16 17:00:00
+  title: "Similarities and Differences between ML and Analytics"
+  slug: "ml-vs-analytics"
+  speakers: [rishabhbhargava]
+  type: podcast
+  link: https://eventbrite.com/e/170187099195
+  season: 5
+  episode: 5
 - time: 2021-09-14 17:00:00
   title: "Modern Data Stack for Analytics Engineering"
   speakers: [kyleshannon]
