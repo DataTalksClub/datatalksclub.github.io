@@ -38,6 +38,7 @@
   speakers: [mariannadiachuk]
   type: podcast
   link: https://eventbrite.com/e/168647678747
+  youtube: https://youtube.com/watch?v=KMSE9GkU2mE
   season: 5
   episode: 4
 - time: 2021-09-07 17:00:00
@@ -69,6 +70,7 @@
   type: podcast
   link: https://eventbrite.com/e/162855945517
   youtube: https://www.youtube.com/watch?v=t9Z1S3OYnJU
+  anchor: https://anchor.fm/datatalksclub/episodes/Making-Sense-of-Data-Engineering-Acronyms-and-Buzzwords---Natalie-Kwong-e177303
   season: 5
   episode: 2
 - time: 2021-08-25 17:00:00
