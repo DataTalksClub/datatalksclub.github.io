@@ -1,5 +1,3 @@
-
-
 # october
 - time: 2021-10-19 17:00:00
   title: "Back-of-the-Envelope Calculation For Machine Learning Projects"
@@ -13,7 +11,14 @@
   speakers: [olgapetrova]
   type: webinar
   link: https://eventbrite.com/e/169887210219
-
+- time: 2021-09-24 17:00:00
+  title: "What Researchers and Engineers Can Learn from Each Other"
+  slug: "researchers-vs-engineers"
+  speakers: [mihaileric]
+  type: podcast
+  link: https://eventbrite.com/e/170743407127
+  season: 5
+  episode: 6
 - time: 2021-09-21 17:00:00
   title: "Doing Good with Data"
   speakers: [marijnmarkus]
