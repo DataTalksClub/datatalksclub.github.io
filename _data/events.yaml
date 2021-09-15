@@ -4,6 +4,16 @@
   speakers: [larysavisengeriyeva]
   type: webinar
   link: https://eventbrite.com/e/169887852139
+- time: 2021-10-12 17:00:00
+  title: "PyTorch Contributor's Guide: How and Why?"
+  speakers: [emilbogomolov]
+  type: webinar
+  link: https://eventbrite.com/e/172443040777
+- time: 2021-10-05 17:00:00
+  title: "Building an Open-Source Feature Store with Apache Flink"
+  speakers: [romangrebennikov]
+  type: webinar
+  link: https://eventbrite.com/e/172438116047
 
 # september
 - time: 2021-09-28 17:00:00
