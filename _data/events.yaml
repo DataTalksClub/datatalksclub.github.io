@@ -9,6 +9,14 @@
   speakers: [emilbogomolov]
   type: webinar
   link: https://eventbrite.com/e/172443040777
+- time: 2021-10-06 17:00:00
+  title: "Similarities and Differences between ML and Analytics"
+  slug: "ml-vs-analytics"
+  speakers: [rishabhbhargava]
+  type: podcast
+  link: https://eventbrite.com/e/170187099195
+  season: 5
+  episode: 7
 - time: 2021-10-05 17:00:00
   title: "Building an Open-Source Feature Store with Apache Flink"
   speakers: [romangrebennikov]
@@ -28,20 +36,12 @@
   type: podcast
   link: https://eventbrite.com/e/170743407127
   season: 5
-  episode: 6
+  episode: 5
 - time: 2021-09-21 17:00:00
   title: "Doing Good with Data"
   speakers: [marijnmarkus]
   type: webinar
   link: https://eventbrite.com/e/169217228285
-- time: 2021-09-16 17:00:00
-  title: "Similarities and Differences between ML and Analytics"
-  slug: "ml-vs-analytics"
-  speakers: [rishabhbhargava]
-  type: podcast
-  link: https://eventbrite.com/e/170187099195
-  season: 5
-  episode: 5
 - time: 2021-09-14 17:00:00
   title: "Modern Data Stack for Analytics Engineering"
   speakers: [kyleshannon]
@@ -68,6 +68,7 @@
   type: podcast
   link: https://eventbrite.com/e/163103010495
   youtube: https://www.youtube.com/watch?v=H4P2RfKvXGs
+  anchor: https://anchor.fm/datatalksclub/episodes/Defining-Success-Metrics-and-KPIs---Adam-Sroka-e17gfp0
   season: 5
   episode: 3
 
