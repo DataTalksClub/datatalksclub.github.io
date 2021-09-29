@@ -1,6 +1,3 @@
-
-
-
 # october
 - time: 2021-10-19 17:00:00
   title: "Back-of-the-Envelope Calculation For Machine Learning Projects"
@@ -12,6 +9,14 @@
   speakers: [emilbogomolov]
   type: webinar
   link: https://eventbrite.com/e/172443040777
+- time: 2021-10-08 17:00:00
+  title: "Conquering the Last Mile in Data"
+  slug: "the-last-mile-in-data"
+  speakers: [caitlinmoorman]
+  type: podcast
+  link: https://eventbrite.com/e/182067738507
+  season: 5
+  episode: 8
 - time: 2021-10-06 17:00:00
   title: "Similarities and Differences between ML and Analytics"
   slug: "ml-vs-analytics"
