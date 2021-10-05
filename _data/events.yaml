@@ -30,12 +30,14 @@
   speakers: [romangrebennikov]
   type: webinar
   link: https://eventbrite.com/e/172438116047
+  youtube: https://www.youtube.com/watch?v=BskjQPkrYec
 - time: 2021-10-01 17:00:00
   title: "Building and Leading Data Teams"
   slug: "building-and-leading-data-teams"
   speakers: [tammyliang]
   type: podcast
   link: https://eventbrite.com/e/176669391907
+  youtube: https://www.youtube.com/watch?v=kI4V2iBbaH0
   season: 5
   episode: 6
 
@@ -45,6 +47,7 @@
   speakers: [olgapetrova]
   type: webinar
   link: https://eventbrite.com/e/169887210219
+  youtube: https://www.youtube.com/watch?v=hGNycrko5kc
 - time: 2021-09-24 17:00:00
   title: "What Researchers and Engineers Can Learn from Each Other"
   slug: "researchers-vs-engineers"
