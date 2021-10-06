@@ -37,7 +37,6 @@ schedule:
       - Doing exploratory data analysis for identifying important features
       - Encoding categorical variables to use them in machine learning models
       - Using logistic regression for classification
-      due: 2021-09-29 12:00:00
   - title: "Evaluation Metrics for Classification"
     subtitle: "Evaluating the churn prediction model"
     start: 2021-09-27 17:00:00
@@ -49,7 +48,6 @@ schedule:
       - Using ROC and AUC to further understand the performance of a binary classification model
       - Cross-validating a model to make sure it behaves optimally
       - Tuning the parameters of a model to achieve the best predictive performance
-      due: 2021-10-06 12:00:00
   - title: "Deploying Machine Learning Models"
     subtitle: "Deploying the churn prediction model"
     start: 2021-10-04 17:00:00
@@ -60,7 +58,6 @@ schedule:
       - Managing dependencies with Pipenv
       - Making the service self-contained with Docker
       - Deploying it to the cloud using AWS Elastic Beanstalk
-      due: 2021-10-13 12:00:00
   - title: "Decision Trees and Ensemble Learning"
     subtitle: "Credit risk scoring project"
     start: 2021-10-11 17:00:00
@@ -69,7 +66,6 @@ schedule:
       - "Decision trees and the decision tree learning algorithm"
       - "Random forest: putting multiple trees together into one model"
       - "Gradient boosting as an alternative way of combining decision trees"
-      due: 2021-10-20 12:00:00
   - title: "Midterm Project"
     subtitle: "Implement a project end-to-end"
     start: 2021-10-18 17:00:00
@@ -78,7 +74,6 @@ schedule:
       - EDA and data cleaning
       - Selecting the best model
       - Deploying this model as a web service
-      due: 2021-10-31 12:00:00
   - title: "Neural Networks and Deep Learning"
     subtitle: "Classifying the images of clothes"
     start: 2021-11-01 17:00:00
@@ -96,7 +91,6 @@ schedule:
       - "Serving models with TensorFlow-Lite"
       - "Deploying deep learning models with AWS Lambda"
       - "Exposing the Lambda function as a web service via API Gateway"
-      due: 2021-09-12 12:00:00
   - title: "Kubernetes and TensorFlow-Serving"
     subtitle: "Serving the clothes classification model with Kubernetes and TensorFlow-Serving"
     start: 2021-11-15 17:00:00
@@ -104,13 +98,11 @@ schedule:
       - Understanding different methods of deploying and serving models in the cloud.
       - Serving Keras and TensorFlow models with TensorFlow-Serving
       - Deploying TensorFlow-Serving to Kubernetes
-      due: 2021-09-12 12:00:00
   - title: "Kubeflow and KFServing"
     subtitle: "Serving the clothes classification model with KFServing"
     start: 2021-11-22 17:00:00
     content:
       - Using Kubeflow and KFServing for simplifying the deployment process
-      due: 2021-09-12 12:00:00
   - title: "Capstone Project"
     subtitle: "Do a project end-to-end"
     start: 2021-11-22 17:00:00
@@ -119,13 +111,11 @@ schedule:
       - EDA and data cleaning
       - Selecting the best model
       - Deploying this model as a web service
-      due: 2021-12-12 12:00:00
   - title: "Article"
     subtitle: "Teach us something"
     start: 2021-11-22 17:00:00
     content:
       - Do some research about a topic that wasn’t covered in the course and write an article about it (with code!)
-      due: 2021-12-26 12:00:00
 
 
 team:
@@ -197,7 +187,12 @@ Tweet about it!</a>
 
 Logistics:
 
-* Each week, there’s a lecture and
+* Each week, there’s a lecture and a homework assignment.
+* We have two projects: in the middle of the class and a capstone project at the end. Those who complete these two projects get a certificate.
+* For homework, projects and other activities, you’ll get scores. At the end, we’ll publish the list of top 100 participants on our website.
+
+The schedule and the plan are work in progress.
+
 
 {% for session in page.schedule %}
   <h3 id="{{ session.title | slugify }}">{{ session.title }}</h3>
