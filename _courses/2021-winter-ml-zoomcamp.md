@@ -10,19 +10,16 @@ schedule:
   - title: "Introduction to Machine Learning"
     subtitle: "Course overview and logistics"
     start: 2021-09-06 17:00:00
+    link: https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/01-intro
     content:
       - Understanding machine learning and the problems it can solve    
       - "CRISP-DM: Organizing a successful machine learning project"
       - Setting up the environment 
       - Quick introduction to Python, Numpy, Linear algebra and Pandas
-    link: https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/01-intro
-    homework:
-      content:
-        - point 1
-      due: 2021-09-12 12:00:00
   - title: "Machine Learning for Regression"
     subtitle: "Predicting the price of a car"
     start: 2021-09-13 17:00:00
+    link: https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/02-regression
     content:
       - "Creating a car-price prediction project with a linear regression model"
       - "Doing an initial exploratory data analysis with Jupyter notebooks"
@@ -31,26 +28,20 @@ schedule:
       - "Evaluating the model: using RMSE"
       - "Performing simple feature engineering for the model"
       - "Keeping the model under control with regularization"
-    homework:
-      content:
-        - House price prediction
-      due: 2021-09-12 12:00:00
   - title: "Machine Learning for Classification"
     subtitle: "Predicting churning users"
     start: 2021-09-20 17:00:00
+    link: https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/03-classification
     content:
       - Predicting customers who will churn with logistic regression
       - Doing exploratory data analysis for identifying important features
       - Encoding categorical variables to use them in machine learning models
       - Using logistic regression for classification
-    homework:
-      content:
-        - point 1
-        - point 2
       due: 2021-09-29 12:00:00
   - title: "Evaluation Metrics for Classification"
     subtitle: "Evaluating the churn prediction model"
     start: 2021-09-27 17:00:00
+    link: https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/04-evaluation
     content:
       - Accuracy as a way of evaluating binary classification models and its limitations
       - Determining where our model makes mistakes using a confusion table
@@ -58,24 +49,17 @@ schedule:
       - Using ROC and AUC to further understand the performance of a binary classification model
       - Cross-validating a model to make sure it behaves optimally
       - Tuning the parameters of a model to achieve the best predictive performance
-    homework:
-      content:
-        - point 1
-        - point 2
       due: 2021-10-06 12:00:00
   - title: "Deploying Machine Learning Models"
     subtitle: "Deploying the churn prediction model"
     start: 2021-10-04 17:00:00
+    link: https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/05-deployment
     content:
       - Saving models with Pickle
       - Serving models with Flask
       - Managing dependencies with Pipenv
       - Making the service self-contained with Docker
       - Deploying it to the cloud using AWS Elastic Beanstalk
-    homework:
-      content:
-        - point 1
-        - point 2
       due: 2021-10-13 12:00:00
   - title: "Decision Trees and Ensemble Learning"
     subtitle: "Credit risk scoring project"
@@ -85,10 +69,6 @@ schedule:
       - "Decision trees and the decision tree learning algorithm"
       - "Random forest: putting multiple trees together into one model"
       - "Gradient boosting as an alternative way of combining decision trees"
-    homework:
-      content:
-        - point 1
-        - point 2
       due: 2021-10-20 12:00:00
   - title: "Midterm Project"
     subtitle: "Implement a project end-to-end"
@@ -98,10 +78,6 @@ schedule:
       - EDA and data cleaning
       - Selecting the best model
       - Deploying this model as a web service
-    homework:
-      content:
-        - point 1
-        - point 2
       due: 2021-10-31 12:00:00
   - title: "Neural Networks and Deep Learning"
     subtitle: "Classifying the images of clothes"
@@ -113,10 +89,6 @@ schedule:
       - "Internals of a convolutional neural network"
       - "Training a model with transfer learning"
       - "Data augmentations: the process of generating more training data"
-    homework:
-      content:
-        - TODO
-      due: 2021-09-12 12:00:00
   - title: "Serverless Deep Learning"
     subtitle: "Serving the clothes classification model with AWS Lambda"
     start: 2021-11-08 17:00:00
@@ -124,10 +96,6 @@ schedule:
       - "Serving models with TensorFlow-Lite"
       - "Deploying deep learning models with AWS Lambda"
       - "Exposing the Lambda function as a web service via API Gateway"
-    homework:
-      content:
-        - TODO
-        - TODO
       due: 2021-09-12 12:00:00
   - title: "Kubernetes and TensorFlow-Serving"
     subtitle: "Serving the clothes classification model with Kubernetes and TensorFlow-Serving"
@@ -136,20 +104,12 @@ schedule:
       - Understanding different methods of deploying and serving models in the cloud.
       - Serving Keras and TensorFlow models with TensorFlow-Serving
       - Deploying TensorFlow-Serving to Kubernetes
-    homework:
-      content:
-        - TODO
-        - TODO
       due: 2021-09-12 12:00:00
   - title: "Kubeflow and KFServing"
     subtitle: "Serving the clothes classification model with KFServing"
     start: 2021-11-22 17:00:00
     content:
       - Using Kubeflow and KFServing for simplifying the deployment process
-    homework:
-      content:
-        - TODO
-        - TODO
       due: 2021-09-12 12:00:00
   - title: "Capstone Project"
     subtitle: "Do a project end-to-end"
@@ -159,20 +119,12 @@ schedule:
       - EDA and data cleaning
       - Selecting the best model
       - Deploying this model as a web service
-    homework:
-      content:
-        - TODO
-        - TODO
       due: 2021-12-12 12:00:00
   - title: "Article"
     subtitle: "Teach us something"
     start: 2021-11-22 17:00:00
     content:
       - Do some research about a topic that wasn’t covered in the course and write an article about it (with code!)
-    homework:
-      content:
-        - TODO
-        - TODO
       due: 2021-12-26 12:00:00
 
 
@@ -245,12 +197,7 @@ Tweet about it!</a>
 
 Logistics:
 
-* Each week, there’s a lecture and a homework assignment.
-* We have two projects: in the middle of the class and a capstone project at the end. Those who complete these two projects get a certificate.
-* For homework, projects and other activities, you’ll get scores. At the end, we’ll publish the list of top 100 participants on our website.
-
-The schedule and the plan are work in progress.
-
+* Each week, there’s a lecture and
 
 {% for session in page.schedule %}
   <h3 id="{{ session.title | slugify }}">{{ session.title }}</h3>
@@ -262,7 +209,7 @@ The schedule and the plan are work in progress.
   {% endfor %}  
   </ul>
 
-  {% if session.link %}<a href="{{ session.link }}" target="_blank">Lession materials</a>{% endif %}
+  {% if session.link %}<a href="{{ session.link }}" target="_blank">Lesson materials</a>{% endif %}
 {% endfor %}
 
 Don't forget to [register in Slack](/slack.html){:target="_blank"} and join [#course-ml-zoomcamp](https://app.slack.com/client/T01ATQK62F8/C0288NJ5XSA){:target="_blank"} channel.
