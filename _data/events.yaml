@@ -4,6 +4,14 @@
   speakers: [larysavisengeriyeva]
   type: webinar
   link: https://eventbrite.com/e/169887852139
+- time: 2021-10-15 17:00:00
+  title: "Building Business Acumen for Data Professionals"
+  slug: "business-acumen"
+  speakers: [thomives]
+  type: podcast
+  link: https://eventbrite.com/e/187506285347
+  season: 5
+  episode: 9
 - time: 2021-10-12 17:00:00
   title: "PyTorch Contributor's Guide: How and Why?"
   speakers: [emilbogomolov]
