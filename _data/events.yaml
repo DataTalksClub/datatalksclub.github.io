@@ -1,3 +1,20 @@
+
+- time: 2021-11-09 17:00:00
+  title: "Introduction to NLP for Industry Use"
+  speakers: [ivanbilan]
+  type: webinar
+  link: https://eventbrite.com/e/192413523027
+
+
+- time: 2021-10-22 17:00:00
+  title: "Becoming a Solopreneur in Data"
+  slug: "solopreneur"
+  speakers: [noahgift]
+  type: podcast
+  link: https://eventbrite.com/e/190640921127
+  season: 6
+  episode: 1
+
 # october
 - time: 2021-10-19 17:00:00
   title: "Back-of-the-Envelope Calculation For Machine Learning Projects"
