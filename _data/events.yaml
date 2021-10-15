@@ -10,6 +10,7 @@
   speakers: [thomives]
   type: podcast
   link: https://eventbrite.com/e/187506285347
+  youtube: https://www.youtube.com/watch?v=pImYf9ML95Q
   season: 5
   episode: 9
 - time: 2021-10-12 17:00:00
@@ -17,12 +18,14 @@
   speakers: [emilbogomolov]
   type: webinar
   link: https://eventbrite.com/e/172443040777
+  youtube: https://www.youtube.com/watch?v=RCfnWe9VVGM
 - time: 2021-10-08 17:00:00
   title: "Conquering the Last Mile in Data"
   slug: "the-last-mile-in-data"
   speakers: [caitlinmoorman]
   type: podcast
   link: https://eventbrite.com/e/182067738507
+  youtube: https://www.youtube.com/watch?v=HfMpG2zpa2I
   season: 5
   episode: 8
 - time: 2021-10-06 17:00:00
@@ -31,6 +34,7 @@
   speakers: [rishabhbhargava]
   type: podcast
   link: https://eventbrite.com/e/170187099195
+  youtube: https://www.youtube.com/watch?v=rMRUa8WxDz4
   season: 5
   episode: 7
 - time: 2021-10-05 17:00:00
