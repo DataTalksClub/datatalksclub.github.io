@@ -8,4 +8,6 @@ linkedin: ivan-bilan-6904b4b9
 web: https://medium.com/@ivanbilan
 ---
 
-Engineering Manager at Personio. Technical areas of interest: Machine and Deep Learning for NLP, Microservices and Big Data.
+Engineering Manager at Personio, currently working on Identity and Access Management.
+Main technical interests include building microservices for data intensive applications,
+MLOps for NLP, as well as Deep Learning research.
