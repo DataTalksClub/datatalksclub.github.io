@@ -1,11 +1,9 @@
-
+# november
 - time: 2021-11-16 17:00:00
   title: "Notebooks in Production - Fun or not Fun?"
   speakers: [nickbilozerov]
   type: webinar
   link: https://eventbrite.com/e/193114228857
-
-# november
 - time: 2021-11-09 17:00:00
   title: "Introduction to NLP for Industry Use"
   speakers: [ivanbilan]
@@ -13,6 +11,11 @@
   link: https://eventbrite.com/e/192413523027
 
 # october
+- time: 2021-10-26 17:00:00
+  title: "The War of Gradient Boosted Trees"
+  speakers: [naominguyen]
+  type: webinar
+  link: https://eventbrite.com/e/193262512377
 - time: 2021-10-22 17:00:00
   title: "Becoming a Solopreneur in Data"
   slug: "solopreneur"
