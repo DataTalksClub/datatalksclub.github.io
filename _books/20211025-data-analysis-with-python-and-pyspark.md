@@ -9,6 +9,8 @@ authors: [jonathanrioux]
 links: 
   - text: Book's page
     link: https://www.manning.com/books/data-analysis-with-python-and-pyspark
+  - text: Book's GitHub repository
+    link: https://github.com/jonesberg/DataAnalysisWithPythonAndPySpark
 ---
 
 When it comes to data analytics, it pays to think big. PySpark blends the powerful Spark big data
