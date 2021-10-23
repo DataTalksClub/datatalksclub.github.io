@@ -1,10 +1,4 @@
 
-- time: 2021-11-02 17:00:00
-  title: "Algorithmic Fairness"
-  speakers: [grainnemcknight]
-  type: webinar
-  link: https://eventbrite.com/e/195275112117
-
 # november
 - time: 2021-11-16 17:00:00
   title: "Notebooks in Production - Fun or not Fun?"
@@ -16,6 +10,17 @@
   speakers: [ivanbilan]
   type: webinar
   link: https://eventbrite.com/e/192413523027
+- time: 2021-11-03 17:00:00
+  title: "Back-of-the-Envelope Calculation For Machine Learning Projects"
+  speakers: [larysavisengeriyeva]
+  type: webinar
+  link: https://eventbrite.com/e/169887852139
+- time: 2021-11-02 17:00:00
+  title: "Algorithmic Fairness"
+  speakers: [grainnemcknight]
+  type: webinar
+  link: https://eventbrite.com/e/195275112117
+
 
 # october
 - time: 2021-10-26 17:00:00
@@ -29,13 +34,9 @@
   speakers: [noahgift]
   type: podcast
   link: https://eventbrite.com/e/190640921127
+  youtube: https://www.youtube.com/watch?v=gCLUY37HGtw
   season: 6
   episode: 1
-- time: 2021-10-19 17:00:00
-  title: "Back-of-the-Envelope Calculation For Machine Learning Projects"
-  speakers: [larysavisengeriyeva]
-  type: webinar
-  link: https://eventbrite.com/e/169887852139
 - time: 2021-10-15 17:00:00
   title: "Building Business Acumen for Data Professionals"
   slug: "business-acumen"
@@ -58,6 +59,7 @@
   type: podcast
   link: https://eventbrite.com/e/182067738507
   youtube: https://www.youtube.com/watch?v=HfMpG2zpa2I
+  anchor: https://anchor.fm/datatalksclub/episodes/Conquering-the-Last-Mile-in-Data---Caitlin-Moorman-e1958c1
   season: 5
   episode: 8
 - time: 2021-10-06 17:00:00
