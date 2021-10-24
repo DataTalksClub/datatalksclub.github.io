@@ -1,5 +1,5 @@
-
 # november
+
 - time: 2021-11-16 17:00:00
   title: "Notebooks in Production - Fun or not Fun?"
   speakers: [nickbilozerov]
@@ -10,6 +10,14 @@
   speakers: [ivanbilan]
   type: webinar
   link: https://eventbrite.com/e/192413523027
+- time: 2021-11-05 17:00:00
+  title: "Data Science Manager vs Data Science Expert"
+  slug: "manager-vs-expert"
+  speakers: [barbarasobkowiak]
+  type: podcast
+  link: https://eventbrite.com/e/197818078197
+  season: 6
+  episode: 3
 - time: 2021-11-03 17:00:00
   title: "Back-of-the-Envelope Calculation For Machine Learning Projects"
   speakers: [larysavisengeriyeva]
@@ -22,7 +30,16 @@
   link: https://eventbrite.com/e/195275112117
 
 
-# october
+  # october
+
+- time: 2021-10-28 17:00:00
+  title: "Ace Non-Technical Data Science Interviews"
+  slug: "non-technical-interviews"
+  speakers: [nicksingh]
+  type: podcast
+  link: https://eventbrite.com/e/197250620917
+  season: 6
+  episode: 2
 - time: 2021-10-26 17:00:00
   title: "The War of Gradient Boosted Trees"
   speakers: [naominguyen]
