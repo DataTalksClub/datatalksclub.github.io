@@ -38,6 +38,7 @@
   speakers: [nicksingh]
   type: podcast
   link: https://eventbrite.com/e/197250620917
+  youtube: https://www.youtube.com/watch?v=tRdLVUKU7Bo
   season: 6
   episode: 2
 - time: 2021-10-26 17:00:00
@@ -45,6 +46,7 @@
   speakers: [naominguyen]
   type: webinar
   link: https://eventbrite.com/e/193262512377
+  youtube: https://www.youtube.com/watch?v=croe7mMze6s
 - time: 2021-10-22 17:00:00
   title: "Becoming a Solopreneur in Data"
   slug: "solopreneur"
