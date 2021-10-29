@@ -16,13 +16,15 @@ To make our discussion more organized, we need to follow community guidelines.
 
 Table of contents:
 
+* [Code of conduct](#code-of-conduct)
 * [Taking part in discussions](#taking-part-in-discussions)
 * [Channels](#channels)
 * [Promotion](#promotion)
 * [Jobs](#jobs)
 * [Homework help](#homework-help)
 
-## Taking part in discussions
+
+## Code of conduct
 
 Be respectful and remember that there’s a human on the other side of the screen. We do not have our own code of conduct,
 but we follow the [Python Software Foundation one](https://www.python.org/psf/conduct/). Please read
@@ -35,19 +37,45 @@ Some examples of inappropriate behaviour:
 * Continued one-on-one communication after requests to cease
 
 
-Use threads. They help to keep the discussions more organized.
-
-* When asking a question, put everything in one message. If there's a code snippet, put it inside the thread.  
-* When asking multiple questions, break them down into multiple messages, so they could be answered in separate threads.
-* Avoid using the “also send to channel” feature unless it’s really necessary.
+## Taking part in discussions
 
 Do not double post — select the best channel for your message and post it only once.
 
-If possible, avoid asking questions in DM. If you ask your question in a public channel,
+Avoid asking questions in DM. If you ask your question in a public channel,
 others will also benefit from the answers.
+
+[Use threads](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-). They help to keep the discussions more organized.
+
+Thread best practices:
+
+* For long questions, write a few sentences in the first message, and put the rest in a thread. 
+* If there's a long code snippet (more than 5 lines of code), put it inside the thread.
+* Avoid using the “also send to channel” feature unless it’s really necessary.
+* If your question contains multiple questions, make sure to break them into multiple messages, so each could be answered in a separate thread.
+
+Avoid meta-questions. Meta questions are questions about asking questions.
+
+Examples:
+
+* Can I ask a question about data science here?
+  * Yes, you can! That's the reason this slack exists!
+* Is there anyone who knows marketing? I have a question about it.
+  * Yes. Just ask your question about marketing - or anything else - directly.
+* Has anyone done Machine Learning Zoomcamp? I have a question about it.
+  * Just ask the question. If somebody has done it, they'll answer.
+  * The same applies to books and anything else.
+
+
+Some other tips:
+
+* If you want to start a discussion, don't just share a link and expect others to jump in. Share your thoughs and have a clear question in your message. 
+  * "Any thoughts on this?" is not a clear question.
+* Be consice in your questions if possible. Not everyone likes to read a lot of text.
 
 
 ## Channels
+
+Use channels when possible. For example, instead of using `#general` for asking a question about machine learning, use `#datascience`.
 
 Default channels:
 
@@ -55,22 +83,17 @@ Default channels:
 * `#general` — for general discussions
 * `#shameless-promotion` — for promoting your work (see the promotion section for more information about promoting your work)
 
-You can also join other channels:
+Other channels:
 
 *   `#book-of-the-week` – to talk about books with book authors (check the [books page](https://datatalks.club/books.html) for more information)
-*   `#career` – for career discussions (switching from one role to something data-related, being better at work, etc)
+*   `#career-questions` – for career discussions (switching from one role to something data-related, being better at work, etc)
 *   `#datascience` – for talking about data science, machine learning, algorithms, training process, and ml-related libraries
 *   `#engineering` – for discussing the engineering aspects of data science: data engineering, ML engineering, MLOps, and so on
 *   `#events` – to talk about events (not just our events, but events in other communities as well)
-*   `#process` – how to organize our work
-*   `#projects` – to discuss your side projects, find collaborators or do something together
 *   `#jobs` – for jobs
-*   `#ai-memes-for-ai-peeps` – for pictures and memes
 *   `#random` – for chit-chat about pretty much anything
 
 This is not a complete list of channels. To check the list of all the available channels, use this: [https://slack.com/intl/en-de/help/articles/205239967-Join-a-channel](https://slack.com/intl/en-de/help/articles/205239967-Join-a-channel) 
-
-Try to use channels when possible. For example, instead of using #general for asking a question about machine learning, use #datascience.
 
 
 ## Promotion
@@ -87,6 +110,15 @@ they will reach out to you. If you get unsolicited promotional messages in DM, r
 
 If you represent a company, indicate your affiliation if you suggest using your services when
 answering questions.
+
+Note that your promotional messages still have to be relevant 
+to the community. If it's not relevant, don't post them.
+
+Examples of not relevant promotional messages:
+
+* COVID surveys for $5 
+* Coupon codes for lawn mowers or pizzas 
+
 
 ## Jobs
 
