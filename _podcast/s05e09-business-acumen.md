@@ -158,7 +158,7 @@ transcript:
   sec: 576
   time: '9:36'
   who: Thom
-- header: "Don\u2019t try to be the domain expect \u2014 be a data scientist"
+- header: "Don\u2019t try to be the domain expert \u2014 be a data scientist"
 - line: "By the way, I'm speaking to business acumen in the sense of \u201CHow would\
     \ a data scientist fit into exercising good business acumen?\u201D Well, the first\
     \ thing I would say is, \u201CDon't burden yourself with being a domain expert,\
