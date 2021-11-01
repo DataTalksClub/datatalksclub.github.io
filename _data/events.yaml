@@ -5,6 +5,11 @@
   speakers: [nickbilozerov]
   type: webinar
   link: https://eventbrite.com/e/193114228857
+- time: 2021-11-10 17:00:00
+  title: "Back-of-the-Envelope Calculation For Machine Learning Projects"
+  speakers: [larysavisengeriyeva]
+  type: webinar
+  link: https://eventbrite.com/e/169887852139
 - time: 2021-11-09 17:00:00
   title: "Introduction to NLP for Industry Use"
   speakers: [ivanbilan]
@@ -18,11 +23,6 @@
   link: https://eventbrite.com/e/197818078197
   season: 6
   episode: 3
-- time: 2021-11-03 17:00:00
-  title: "Back-of-the-Envelope Calculation For Machine Learning Projects"
-  speakers: [larysavisengeriyeva]
-  type: webinar
-  link: https://eventbrite.com/e/169887852139
 - time: 2021-11-02 17:00:00
   title: "Algorithmic Fairness"
   speakers: [grainnemcknight]
