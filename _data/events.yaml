@@ -1,10 +1,30 @@
 # november
-
+- time: 2021-11-23 17:00:00
+  title: "Paradoxes in Data Science"
+  speakers: [pierpaoloippolito]
+  type: webinar
+  link: https://eventbrite.com/e/206843403187
+- time: 2021-11-19 17:00:00
+  title: "Advancing Big Data Analytics: Post-Doctoral Research"
+  slug: "post-doctoral-research"
+  speakers: [elenitziritazacharatou]
+  type: podcast
+  link: https://eventbrite.com/e/206836161527
+  season: 6
+  episode: 5
 - time: 2021-11-16 17:00:00
   title: "Notebooks in Production - Fun or not Fun?"
   speakers: [nickbilozerov]
   type: webinar
   link: https://eventbrite.com/e/193114228857
+- time: 2021-11-12 17:00:00
+  title: "Becoming a Data Product Manager "
+  slug: "becoming-a-data-product-manager"
+  speakers: [saramenefee]
+  type: podcast
+  link: https://eventbrite.com/e/206817425487
+  season: 6
+  episode: 4
 - time: 2021-11-10 17:00:00
   title: "Back-of-the-Envelope Calculation For Machine Learning Projects"
   speakers: [larysavisengeriyeva]
