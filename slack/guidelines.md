@@ -104,15 +104,18 @@ and anything else. Please don’t use other channels for that.
 
 To promote your events, you can share them in `#events`, but `#shameless-promotion` is also fine.
 
-We do not welcome unsolicited promotional messages in DM. **Violating it will result in a ban without a warning.**
-Instead, use the `#shameless-promotion` channel, and if somebody is interested in your services,
+We do not welcome unsolicited promotional messages in DM. **Violating it will result in a ban.**
+Instead, use the `#shameless-promotion` channel, and if somebody is interested in your product or service,
 they will reach out to you. If you get unsolicited promotional messages in DM, report it to Alexey Grigorev.
+
+Note that promoting yourself and your services is also a promotion.
+For example, mass-sending your CVs in DMs is also considered unsolicited promotion,
+and the same rules apply.
 
 If you represent a company, indicate your affiliation if you suggest using your services when
 answering questions.
 
-Note that your promotional messages still have to be relevant 
-to the community. If it's not relevant, don't post them.
+Promotional messages have to be relevant to the community. If it's not relevant, don't post them.
 
 Examples of not relevant promotional messages:
 
