@@ -23,6 +23,7 @@
   speakers: [saramenefee]
   type: podcast
   link: https://eventbrite.com/e/206817425487
+  youtube: https://www.youtube.com/watch?v=nt__pVuuC-k
   season: 6
   episode: 4
 - time: 2021-11-10 17:00:00
@@ -30,11 +31,13 @@
   speakers: [larysavisengeriyeva]
   type: webinar
   link: https://eventbrite.com/e/169887852139
+  youtube: https://www.youtube.com/watch?v=LFFdahY0w7A
 - time: 2021-11-09 17:00:00
   title: "Introduction to NLP for Industry Use"
   speakers: [ivanbilan]
   type: webinar
   link: https://eventbrite.com/e/192413523027
+  youtube: https://www.youtube.com/watch?v=VRur3xey31s
 - time: 2021-11-05 17:00:00
   title: "Data Science Manager vs Data Science Expert"
   slug: "manager-vs-expert"
@@ -61,6 +64,7 @@
   type: podcast
   link: https://eventbrite.com/e/197250620917
   youtube: https://www.youtube.com/watch?v=tRdLVUKU7Bo
+  anchor: https://anchor.fm/datatalksclub/episodes/Ace-Non-Technical-Data-Science-Interviews---Nick-Singh-e1a5qtd
   season: 6
   episode: 2
 - time: 2021-10-26 17:00:00
