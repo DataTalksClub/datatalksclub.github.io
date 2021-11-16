@@ -44,7 +44,8 @@ Do not double post — select the best channel for your message and post it only
 Avoid asking questions in DM. If you ask your question in a public channel,
 others will also benefit from the answers.
 
-[Use threads](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-). They help to keep the discussions more organized.
+[Use threads](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-).
+They help to keep the discussions more organized.
 
 Thread best practices:
 
@@ -85,13 +86,13 @@ Default channels:
 
 Other channels:
 
-*   `#book-of-the-week` – to talk about books with book authors (check the [books page](https://datatalks.club/books.html) for more information)
-*   `#career-questions` – for career discussions (switching from one role to something data-related, being better at work, etc)
-*   `#datascience` – for talking about data science, machine learning, algorithms, training process, and ml-related libraries
-*   `#engineering` – for discussing the engineering aspects of data science: data engineering, ML engineering, MLOps, and so on
-*   `#events` – to talk about events (not just our events, but events in other communities as well)
-*   `#jobs` – for jobs
-*   `#random` – for chit-chat about pretty much anything
+* `#book-of-the-week` – to talk about books with book authors (check the [books page](https://datatalks.club/books.html) for more information)
+* `#career-questions` – for career discussions (switching from one role to something data-related, being better at work, etc)
+* `#datascience` – for talking about data science, machine learning, algorithms, training process, and ml-related libraries
+* `#engineering` – for discussing the engineering aspects of data science: data engineering, ML engineering, MLOps, and so on
+* `#events` – to talk about events (not just our events, but events in other communities as well)
+* `#jobs` – for jobs
+* `#random` – for chit-chat about pretty much anything
 
 This is not a complete list of channels. To check the list of all the available channels, use this: [https://slack.com/intl/en-de/help/articles/205239967-Join-a-channel](https://slack.com/intl/en-de/help/articles/205239967-Join-a-channel) 
 
@@ -102,20 +103,45 @@ Promoting your work is welcome — for both companies and individuals. We have a
 for that — `#shameless-promotion`. You can use it for sharing social media links, blog posts,
 and anything else. Please don’t use other channels for that.
 
+
+### Surveys and feedback on your product
+
+Messages that ask the community for feedback on your product are considered promotional as well
+and should be posted in `#shameless-promotion`.
+
+Examples:
+
+* We're conducting a survey to better understand how people use `____`.
+* We'd like to show you our product and get some feedback from you. 
+* We're working on `____` and would like to talk to data scientsits and ML engineers to understand better their painpoints.
+
+
+### Promoting events 
+
 To promote your events, you can share them in `#events`, but `#shameless-promotion` is also fine.
 
-We do not welcome unsolicited promotional messages in DM. **Violating it will result in a ban.**
-Instead, use the `#shameless-promotion` channel, and if somebody is interested in your product or service,
-they will reach out to you. If you get unsolicited promotional messages in DM, report it to Alexey Grigorev.
 
-Note that promoting yourself and your services is also a promotion.
-For example, mass-sending your CVs in DMs is also considered unsolicited promotion,
-and the same rules apply.
+### Rules for vendors
 
 If you represent a company, indicate your affiliation if you suggest using your services when
 answering questions.
 
-Promotional messages have to be relevant to the community. If it's not relevant, don't post them.
+
+### Unsolicited promotions
+
+We do not welcome unsolicited promotional messages in DM. **Violating it will result in a ban.**
+Instead, use the `#shameless-promotion` channel, and if somebody is interested in your product or service,
+they will reach out to you.
+
+If you get unsolicited promotional messages in DM, report it to Alexey Grigorev.
+
+Note that promoting yourself and your services is also a promotion. For example, mass-sending your
+CVs in DMs is also considered unsolicited promotion, and the same rules apply.
+
+
+### Non-relevant promotions
+
+Promotional messages have to be relevant for the community. If it's not relevant, don't post them.
 
 Examples of not relevant promotional messages:
 
