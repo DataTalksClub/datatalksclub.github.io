@@ -1,4 +1,19 @@
+# december
+- time: 2021-12-01 17:00:00
+  title: "Hypothesis Testing: Bayesian or Frequentist? Two ways of looking at the same coin"
+  speakers: [andreschumacher]
+  type: webinar
+  link: https://eventbrite.com/e/214531648937
+
 # november
+- time: 2021-11-26 17:00:00
+  title: "Moving from Academia to Industry"
+  slug: "from-academia-to-industry"
+  speakers: [cjjenkins]
+  type: podcast
+  link: https://eventbrite.com/e/214527035137
+  season: 6
+  episode: 6
 - time: 2021-11-23 17:00:00
   title: "Paradoxes in Data Science"
   speakers: [pierpaoloippolito]
