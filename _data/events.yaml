@@ -25,6 +25,7 @@
   speakers: [elenitziritazacharatou]
   type: podcast
   link: https://eventbrite.com/e/206836161527
+  youtube: https://www.youtube.com/watch?v=7jgmIQGMhGE
   season: 6
   episode: 5
 - time: 2021-11-16 17:00:00
@@ -32,8 +33,9 @@
   speakers: [nickbilozerov]
   type: webinar
   link: https://eventbrite.com/e/193114228857
+  youtube: https://www.youtube.com/watch?v=yy88MqWQ-eM
 - time: 2021-11-12 17:00:00
-  title: "Becoming a Data Product Manager "
+  title: "Becoming a Data Product Manager"
   slug: "becoming-a-data-product-manager"
   speakers: [saramenefee]
   type: podcast
@@ -60,6 +62,7 @@
   type: podcast
   link: https://eventbrite.com/e/197818078197
   youtube: https://www.youtube.com/watch?v=hFmIgaN-F8Y
+  anchor: https://anchor.fm/datatalksclub/episodes/Data-Science-Manager-vs-Data-Science-Expert---Barbara-Sobkowiak-e1ah3od
   season: 6
   episode: 3
 - time: 2021-11-02 17:00:00
