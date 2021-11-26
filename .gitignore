@@ -6,3 +6,4 @@
 /previews/node_modules/
 .jekyll-metadata
 /env
+/scripts/ubuntu-env/

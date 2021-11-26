@@ -11,15 +11,27 @@ const output = args[3];
 
 
 const render = async (config, output) => {
-  const browser = await puppeteer.launch({
-    defaultViewport: {
-      width: 940,
-      height: 550,
-      isLandscape: true
-    },
-    executablePath: 'chromium-browser',
-    args: ['--no-sandbox'],
-  });
+  let browser = null;
+  if (process.platform === 'win32') {
+    browser = await puppeteer.launch({
+      defaultViewport: {
+        width: 940,
+        height: 550,
+        isLandscape: true
+      },
+      args: ['--no-sandbox'],
+    });
+  } else {
+    browser = await puppeteer.launch({
+      defaultViewport: {
+        width: 940,
+        height: 550,
+        isLandscape: true
+      },
+      executablePath: 'chromium-browser',
+      args: ['--no-sandbox'],
+    });
+  }
 
   const page = await browser.newPage();
 
