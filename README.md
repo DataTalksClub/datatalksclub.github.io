@@ -64,6 +64,20 @@ npm install
 cd ..
 ```
 
+On Windows (with MinGW):
+
+```bash
+python -m venv env
+source env/Scripts/activate
+pip install -r scripts/requirements.txt
+
+cd previews
+npm install
+cd ..
+```
+
+
+
 
 Running:
 
