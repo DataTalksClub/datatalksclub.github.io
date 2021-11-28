@@ -1,4 +1,25 @@
 # december
+- time: 2021-12-10 17:00:00
+  title: "Leading NLP Teams"
+  slug: "nlp-teams"
+  speakers: [ivanbilan]
+  type: podcast
+  link: https://eventbrite.com/e/218864227797
+  season: 6
+  episode: 8
+- time: 2021-12-07 17:00:00
+  title: "AI-Powered Computer Vision Applications in Media Industry"
+  speakers: [yuliapavlova]
+  type: webinar
+  link: https://eventbrite.com/e/218857537787
+- time: 2021-12-03 17:00:00
+  title: "Product Management for Machine Learning"
+  slug: "product-management-for-machine-learning"
+  speakers: [geojolly]
+  type: podcast
+  link: https://eventbrite.com/e/218862021197
+  season: 6
+  episode: 7
 - time: 2021-12-01 17:00:00
   title: "Hypothesis Testing: Bayesian or Frequentist? Two ways of looking at the same coin"
   speakers: [andreschumacher]
