@@ -18,6 +18,7 @@
   speakers: [geojolly]
   type: podcast
   link: https://eventbrite.com/e/218862021197
+  youtube: https://www.youtube.com/watch?v=PjqjPvHliqg
   season: 6
   episode: 7
 - time: 2021-12-01 17:00:00
@@ -25,6 +26,7 @@
   speakers: [andreschumacher]
   type: webinar
   link: https://eventbrite.com/e/214531648937
+  youtube: https://www.youtube.com/watch?v=AkWmyE3kQ9k
 
 # november
 - time: 2021-11-26 17:00:00
@@ -33,6 +35,7 @@
   speakers: [cjjenkins]
   type: podcast
   link: https://eventbrite.com/e/214527035137
+  youbute: https://www.youtube.com/watch?v=m4F651BpUFk
   season: 6
   episode: 6
 - time: 2021-11-23 17:00:00
@@ -48,6 +51,7 @@
   type: podcast
   link: https://eventbrite.com/e/206836161527
   youtube: https://www.youtube.com/watch?v=7jgmIQGMhGE
+  anchor: https://anchor.fm/datatalksclub/episodes/Advancing-Big-Data-Analytics-Post-Doctoral-Research---Eleni-Tzirita-Zacharatou-e1b6f41
   season: 6
   episode: 5
 - time: 2021-11-16 17:00:00
