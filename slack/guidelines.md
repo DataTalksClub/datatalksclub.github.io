@@ -49,8 +49,9 @@ They help to keep the discussions more organized.
 
 Thread best practices:
 
+* Don't break your question into multuple messages. Put everything in one.
 * For long questions, write a few sentences in the first message, and put the rest in a thread. 
-* If there's a long code snippet (more than 5 lines of code), put it inside the thread.
+* If there's a code snippet (more than 5 lines of code), put it inside the thread.
 * Avoid using the “also send to channel” feature unless it’s really necessary.
 * If your question contains multiple questions, make sure to break them into multiple messages, so each could be answered in a separate thread.
 
