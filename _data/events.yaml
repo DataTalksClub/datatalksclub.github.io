@@ -1,12 +1,5 @@
-
-- time: 2021-12-14 17:00:00
-  title: "AI in Fashion - Size & Fit"
-  speakers: [nourkaressli]
-  type: webinar
-  link: https://eventbrite.com/e/225513626327
-
 # december
-- time: 2021-12-10 17:00:00
+- time: 2021-12-16 12:00:00
   title: "Leading NLP Teams"
   slug: "nlp-teams"
   speakers: [ivanbilan]
@@ -14,11 +7,17 @@
   link: https://eventbrite.com/e/218864227797
   season: 6
   episode: 8
+- time: 2021-12-14 17:00:00
+  title: "AI in Fashion - Size & Fit"
+  speakers: [nourkaressli]
+  type: webinar
+  link: https://eventbrite.com/e/225513626327
 - time: 2021-12-07 17:00:00
   title: "AI-Powered Computer Vision Applications in Media Industry"
   speakers: [yuliapavlova]
   type: webinar
   link: https://eventbrite.com/e/218857537787
+  youtube: https://www.youtube.com/watch?v=bINeBnWqFwo
 - time: 2021-12-03 17:00:00
   title: "Product Management for Machine Learning"
   slug: "product-management-for-machine-learning"
@@ -42,7 +41,8 @@
   speakers: [cjjenkins]
   type: podcast
   link: https://eventbrite.com/e/214527035137
-  youbute: https://www.youtube.com/watch?v=m4F651BpUFk
+  youtube: https://www.youtube.com/watch?v=m4F651BpUFk
+  anchor: https://anchor.fm/datatalksclub/episodes/Moving-from-Academia-to-Industry---CJ-Jenkins-e1bh84o
   season: 6
   episode: 6
 - time: 2021-11-23 17:00:00
