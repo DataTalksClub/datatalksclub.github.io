@@ -1,10 +1,18 @@
 # december
+- time: 2021-12-17 17:00:00
+  title: "Becoming a Data Science Manager"
+  slug: "data-science-manager"
+  speakers: [marianosemelman]
+  type: podcast
+  link: https://eventbrite.com/e/226593917507
+  season: 6
+  episode: 9
 - time: 2021-12-16 12:00:00
   title: "Leading NLP Teams"
   slug: "nlp-teams"
   speakers: [ivanbilan]
   type: podcast
-  link: https://eventbrite.com/e/218864227797
+  link: https://eventbrite.com/e/226590055957
   season: 6
   episode: 8
 - time: 2021-12-14 17:00:00
