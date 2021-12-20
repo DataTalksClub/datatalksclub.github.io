@@ -318,6 +318,10 @@ img.partner {
   content: "📺 ";
 }
 
+.emoji-list li.workshop::before {
+  content: "🔧 ";
+}
+
 .emoji-list li.conference::before {
   content: "💼 ";
 }

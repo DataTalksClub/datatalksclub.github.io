@@ -244,9 +244,10 @@ template_webinar_string = """
 - time: {{ year }}-{{ month }}-{{ day }} 17:00:00
   title: "{{ title }}"
   speakers: [{{ speaker }}]
-  type: webinar
+  type: {{ typ }}
   link: https://eventbrite.com/e/{{ event_id }}
 """
+
 
 template_podcast_string = """
 - time: {{ year }}-{{ month }}-{{ day }} 17:00:00
@@ -274,7 +275,7 @@ def create_event():
     month = questionary.text("Month:", default_month).ask()
     day = questionary.text("Day:", default_day).ask()
 
-    typ = questionary.select("Type:", choices=['webinar', 'podcast']).ask()    
+    typ = questionary.select("Type:", choices=['webinar', 'podcast', 'workshop']).ask()    
     title = questionary.text("Title:").ask()
 
     event_id = questionary.text("Event ID:").ask()
@@ -284,10 +285,11 @@ def create_event():
         'day': day,
         'title': title,
         'speaker': speaker,
-        'event_id': event_id
+        'event_id': event_id,
+        'typ': typ
     }
 
-    if typ == 'webinar':
+    if typ in ['webinar', 'workshop']:
         template = Template(template_webinar_string)
     elif typ == 'podcast':
         default_slug = slugify(title)
