@@ -25,7 +25,8 @@ the money from sponsors back into the community to ensure its further growth.
 
 I promise the following:
 
-* Your emails are safe. No sponsor will ever get direct access to your email addresses. 
+* Your emails are safe. No sponsor will ever get direct access to your email
+  addresses without your concent. 
 * I will clearly indicate which contnet is sponsored and which is not.
 
 If you're a company and want to support the community, reach out to me via email (alexey@datatalks.club).
