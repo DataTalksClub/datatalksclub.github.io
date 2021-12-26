@@ -12,6 +12,7 @@
   speakers: [marianosemelman]
   type: podcast
   link: https://eventbrite.com/e/226593917507
+  youtube: https://www.youtube.com/watch?v=qOLR84-KHoY
   season: 6
   episode: 9
 - time: 2021-12-16 12:00:00
@@ -20,6 +21,8 @@
   speakers: [ivanbilan]
   type: podcast
   link: https://eventbrite.com/e/226590055957
+  youtube: https://www.youtube.com/watch?v=RJEf6mzxh1w
+  anchor: https://anchor.fm/datatalksclub/episodes/Leading-NLP-Teams---Ivan-Bilan-e1c4929
   season: 6
   episode: 8
 - time: 2021-12-14 17:00:00
