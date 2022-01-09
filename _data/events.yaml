@@ -1,16 +1,52 @@
-
-- time: 2022-01-11 17:00:00
-  title: "Fraud Detection in Financial Industry"
-  speakers: [kateogochukwunwankwo]
-  type: webinar
-  link: https://eventbrite.com/e/233688026177
-
-
+# february
 - time: 2022-02-16 17:00:00
   title: "Monitoring Model Performance with Crowdsourcing"
   speakers: [magdalenakonkiewicz]
   type: workshop
   link: https://eventbrite.com/e/230531976347
+- time: 2022-02-01 17:00:00
+  title: "The Unspoken Relationship - Product Managers and Data Scientists"
+  speakers: [sivanbiham]
+  type: webinar
+  link: https://eventbrite.com/e/241400022967
+
+
+# january
+
+- time: 2022-01-21 17:00:00
+  title: "Product Management Essentials for Data Professionals"
+  slug: "product-management-essentials"
+  speakers: [gregcoquillo]
+  type: podcast
+  link: https://eventbrite.com/e/240817671137
+  season: 7
+  episode: 3
+- time: 2022-01-19 17:00:00
+  title: "Software Testing for Machine Learning Pipelines"
+  speakers: [arsenykravchenko]
+  type: webinar
+  link: https://eventbrite.com/e/238673868967
+- time: 2022-01-14 17:00:00
+  title: "Recruiting Data Professionals"
+  slug: "recruiting-data-professionals"
+  speakers: [alicjanotowska]
+  type: podcast
+  link: https://eventbrite.com/e/240808714347
+  season: 7
+  episode: 2
+- time: 2022-01-12 17:00:00
+  title: "DataTalks.Club Behind the Scenes"
+  slug: "datatalksclub-behind-the-scenes"
+  speakers: [eugeneyan, alexeygrigorev]
+  type: podcast
+  link: https://eventbrite.com/e/237808269937
+  season: 7
+  episode: 1
+- time: 2022-01-11 17:00:00
+  title: "Fraud Detection in Financial Industry"
+  speakers: [kateogochukwunwankwo]
+  type: webinar
+  link: https://eventbrite.com/e/233688026177
 
 # december
 - time: 2021-12-17 17:00:00
