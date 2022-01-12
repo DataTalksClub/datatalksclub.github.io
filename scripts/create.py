@@ -139,6 +139,7 @@ def create_person():
 
 
 def file_starts_with_underscore(path):
+    path = path.replace('\\', '/')
     filename = path.split('/')[-1]
     return filename.startswith('_')
 
