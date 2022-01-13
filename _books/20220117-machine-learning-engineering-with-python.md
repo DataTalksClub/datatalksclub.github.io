@@ -5,7 +5,7 @@ cover: "images/books/20220117-machine-learning-engineering-with-python/cover.jpg
 image: "images/books/20220117-machine-learning-engineering-with-python/preview.jpg"
 start: 2022-01-10 00:00:00
 end: 2022-01-21 22:59:58
-authors: [andrewp-mcmahon]
+authors: [andrewmcmahon]
 links: 
   - text: Book's page
     link: https://www.packtpub.com/product/machine-learning-engineering-with-python/9781801079259

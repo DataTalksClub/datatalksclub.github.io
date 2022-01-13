@@ -1,7 +1,7 @@
 ---
-short: andrewp-mcmahon
-title: "Andrew P. McMahon"
-picture: "images/authors/andrewp-mcmahon.jpg"
+short: andrewmcmahon
+title: "Andrew McMahon"
+picture: "images/authors/andrewmcmahon.jpg"
 github: AndyMc629
 twitter: electricweegie
 linkedin: andymcmahon629
