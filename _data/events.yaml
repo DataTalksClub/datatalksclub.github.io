@@ -19,6 +19,7 @@
   speakers: [gregcoquillo]
   type: podcast
   link: https://eventbrite.com/e/240817671137
+  youtube: https://www.youtube.com/watch?v=p4wg0Vd2uD4
   season: 7
   episode: 3
 - time: 2022-01-19 17:00:00
@@ -26,12 +27,14 @@
   speakers: [arsenykravchenko]
   type: webinar
   link: https://eventbrite.com/e/238673868967
+  youtube: https://www.youtube.com/watch?v=zrz6uj6Lr74
 - time: 2022-01-14 17:00:00
   title: "Recruiting Data Professionals"
   slug: "recruiting-data-professionals"
   speakers: [alicjanotowska]
   type: podcast
   link: https://eventbrite.com/e/240808714347
+  youtube: https://www.youtube.com/watch?v=WSMDXsjKYx4
   season: 7
   episode: 2
 - time: 2022-01-12 17:00:00
@@ -40,6 +43,7 @@
   speakers: [eugeneyan, alexeygrigorev]
   type: podcast
   link: https://eventbrite.com/e/237808269937
+  youtube: https://www.youtube.com/watch?v=IxTyq96juVE
   season: 7
   episode: 1
 - time: 2022-01-11 17:00:00
