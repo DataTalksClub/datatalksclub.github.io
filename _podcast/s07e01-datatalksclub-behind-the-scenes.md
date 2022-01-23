@@ -1,7 +1,7 @@
 ---
 title: "DataTalks.Club Behind the Scenes"
 short: "DataTalks.Club Behind the Scenes"
-guests: [eugeneyan]
+guests: [eugeneyan, alexeygrigorev]
 
 image: images/podcast/s07e01-datatalksclub-behind-the-scenes.jpg
 
