@@ -1,3 +1,13 @@
+
+- time: 2022-01-28 17:00:00
+  title: "Career Coaching"
+  slug: "career-coaching"
+  speakers: [lindsaymcquade]
+  type: podcast
+  link: https://eventbrite.com/e/255290058437
+  season: 7
+  episode: 4
+
 # february
 - time: 2022-02-16 17:00:00
   title: "Monitoring Model Performance with Crowdsourcing"
