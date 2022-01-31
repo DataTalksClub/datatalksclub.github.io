@@ -148,6 +148,7 @@ Examples of not relevant promotional messages:
 
 * COVID surveys for $5 
 * Coupon codes for lawn mowers or pizzas 
+* Photoshop alternatives
 
 
 ## Jobs
