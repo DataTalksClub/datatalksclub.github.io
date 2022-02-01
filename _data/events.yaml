@@ -1,4 +1,18 @@
+# march
 
+- time: 2022-03-01 17:00:00
+  title: "The Unspoken Relationship - Product Managers and Data Scientists"
+  speakers: [sivanbiham]
+  type: webinar
+  link: https://eventbrite.com/e/241400022967
+
+
+# february
+- time: 2022-02-16 17:00:00
+  title: "Monitoring Model Performance with Crowdsourcing"
+  speakers: [magdalenakonkiewicz]
+  type: workshop
+  link: https://eventbrite.com/e/230531976347
 - time: 2022-02-04 17:00:00
   title: "Machine Learning System Design Interview"
   slug: "machine-learning-system-design-interview"
@@ -9,6 +23,9 @@
   episode: 5
 
 
+
+# january
+
 - time: 2022-01-28 17:00:00
   title: "Career Coaching"
   slug: "career-coaching"
@@ -17,22 +34,6 @@
   link: https://eventbrite.com/e/255290058437
   season: 7
   episode: 4
-
-# february
-- time: 2022-02-16 17:00:00
-  title: "Monitoring Model Performance with Crowdsourcing"
-  speakers: [magdalenakonkiewicz]
-  type: workshop
-  link: https://eventbrite.com/e/230531976347
-- time: 2022-02-01 17:00:00
-  title: "The Unspoken Relationship - Product Managers and Data Scientists"
-  speakers: [sivanbiham]
-  type: webinar
-  link: https://eventbrite.com/e/241400022967
-
-
-# january
-
 - time: 2022-01-21 17:00:00
   title: "Product Management Essentials for Data Professionals"
   slug: "product-management-essentials"
