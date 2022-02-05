@@ -8,4 +8,8 @@ linkedin: emmanuelraj7
 
 ---
 
-Emmanuel Raj, is a Helsinki-based AI Engineer. A masters in engineering, big data analytics from Arcada university of applied sciences. Presently working at TietoEVRY, with 5+ years of experience in Machine Learning, AI and Data Science. He is proficient in building data pipelines, Machine learning models and deploying software to production.
+Emmanuel Raj is a Finland-based Lead Machine Learning Engineer with 7+ years of industry experience.
+He is the author of the “Engineering MLOps” book, Lead Machine Learning Engineer at Relex Solution and
+an ML researcher at Arcada University of Applied sciences. He is passionate about democratizing AI and
+bringing research and academia to industry. He is proficient in building data pipelines, Machine learning
+models and deploying software to production.
