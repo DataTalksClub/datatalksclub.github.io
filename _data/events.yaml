@@ -1,4 +1,11 @@
 
+- time: 2022-02-08 17:00:00
+  title: "Load Testing ML Microservices for Robustness and Scalability"
+  speakers: [emmanuelraj]
+  type: webinar
+  link: https://eventbrite.com/e/262947000557
+
+
 - time: 2022-02-11 17:00:00
   title: "A/B Testing"
   slug: "ab-testing"
