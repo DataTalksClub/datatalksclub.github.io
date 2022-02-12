@@ -1,12 +1,15 @@
+from dataclasses import field, fields
+import math
 import os
 import subprocess
 
+import yaml
 import requests
 import frontmatter
 
 import utils
 import image_utils
-
+import transcript
 
 
 AIRTABLE_TOKEN = os.getenv('AIRTABLE_TOKEN')
@@ -19,6 +22,7 @@ PATCH_RECORDS_URL_TEMPLATE = "https://api.airtable.com/v0/" + \
 
 PEOPLE_TABLE = 'People'
 BOOKS_TABLE = 'Book-of-the-week'
+PODCAST_TABLE = 'Podcast'
 
 HEADERS = {
     'Authorization': f'Bearer {AIRTABLE_TOKEN}'
@@ -228,3 +232,131 @@ def process_books():
         process_book(record)
 
     print(f'processed {len(records)} books')
+
+
+
+def pull_podcasts():
+    response = get_records(table=PODCAST_TABLE, view='To-add')
+    records = response['records']
+    return records
+
+
+def find_matching_podcasts(season, episode):
+    with open('./_data/events.yaml') as f_in:
+        events = yaml.load(f_in, Loader=yaml.SafeLoader)
+
+    print(f'found {len(events)} events')
+
+    matches = []
+
+    for event in events:
+        if season == event.get('season') and episode == event.get('episode'):
+            matches.append(event)
+
+    if len(matches) != 1:
+        raise Exception(f'for season={season} episode={episode} found these matches: {matches}')
+
+    return matches[0]
+
+
+def process_podcast(record):
+    fields = record['fields']
+
+    season = int(fields['season'])
+    episode = int(fields['episode'])
+
+    matching_event = find_matching_podcasts(season, episode)
+
+    title = matching_event['title']
+    short = matching_event.get('short', title)
+
+    if 'slug' in matching_event:
+        slug = matching_event['slug']
+    else:
+        slug = utils.slugify_title(short)
+
+    guests = matching_event['speakers']
+
+    podcast_id = f's{season:02d}e{episode:02d}-{slug}'
+    image_path = f'images/podcast/{podcast_id}.jpg'
+
+    apple_url = fields['apple_url']
+    anchor_url = fields['anchor_url']
+    spotify_url = fields['spotify_url']
+    youtube_url = fields['youtube_url']
+
+    youtube_id = youtube_url.split('?v=')[1]
+    anchor_id = anchor_url[len('https://anchor.fm/datatalksclub/episodes/'):]
+
+    params = {
+        'title': title,
+        'short': short,
+        'guests': guests,
+        'image': image_path,
+        'season': season,
+        'episode': episode,
+        'ids': {
+            'youtube': youtube_id,
+            'anchor': anchor_id,
+        },
+        'links': {
+            'youtube': youtube_url,
+            'anchor': anchor_url,
+            'spotify': spotify_url,
+            'apple': apple_url
+        }
+    }
+
+    if 'transcript' in fields:
+        url = fields['transcript'][0]['url']
+        result = transcript.read_docx(url)
+        params['transcript'] = result
+    
+    content = ''
+
+    if 'links' in fields:
+        links_raw = fields['links']
+        
+        content_links = []
+        for link_raw in links_raw.split('\n'):
+            title, link = link_raw.split('=>')
+            title = title.strip()
+            link = link.strip()
+
+            line = f'* [{title}]({link}){{:target="_blank"}}'
+            content_links.append(line)
+    
+        if len(content_links) > 0:
+            content_links = 'Links:\n\n' + '\n'.join(content_links)
+            content = content + content_links
+
+    post = frontmatter.Post(
+        content=content,
+        **params
+    )
+
+    output_file = f'_podcast/{podcast_id}.md'
+
+    with open(output_file, 'wt', encoding='utf-8') as f_out:
+        text = frontmatter.dumps(post)
+        f_out.write(text)
+
+    print('Creating a preview...')
+
+    subprocess.call(['gitbash', 'scripts/generate-podcast-preview.sh', podcast_id])
+    #subprocess.call(['bash', 'scripts/generate-podcast-preview.sh', podcast_id])
+
+    mark_record_processed(
+        table=PODCAST_TABLE,
+        record_id=record['id'],
+    )
+
+
+
+def process_podcasts():
+    records = pull_podcasts()
+
+    for record in records:
+        process_podcast(record)
+
+    print(f'processed {len(records)} podcasts')
