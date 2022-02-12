@@ -1,3 +1,4 @@
+import os
 from math import floor
 
 from io import BytesIO
@@ -78,3 +79,18 @@ def save_resized_profile_picture(path, id, d=128):
 
     print("The image is saved to %s" % path)
     return path
+
+
+def save_image(image_location, output_file):
+    img = load_image(image_location)
+
+    folder = os.path.dirname(output_file)
+    os.makedirs(folder, exist_ok=True)
+
+    if output_file.endswith('.jpg'):
+        if img.mode == 'RGBA':
+            img = img.convert('RGB')
+
+        img.save(output_file, quality=95)
+    else:
+        img.save(output_file)

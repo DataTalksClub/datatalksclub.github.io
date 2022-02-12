@@ -55,33 +55,15 @@ Book cover:
 Installing the requirements:
 
 ```bash
-python -m venv env
-source env/bin/activate
-pip install -r scripts/requirements.txt
+pipenv install 
 
 cd previews
 npm install
 cd ..
 ```
-
-On Windows (with MinGW):
-
-```bash
-python -m venv env
-source env/Scripts/activate
-pip install -r scripts/requirements.txt
-
-cd previews
-npm install
-cd ..
-```
-
-
-
 
 Running:
 
 ```bash
-source env/bin/activate
-python scripts/create.py
+pipenv run python scripts/create.py
 ``` 

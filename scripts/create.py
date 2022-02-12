@@ -16,6 +16,7 @@ from PIL import Image
 from jinja2 import Template
 
 from image_utils import load_image, save_resized_profile_picture
+from utils import slugify_title
 
 
 def create_person():
@@ -102,16 +103,6 @@ def find_last_book_date():
     return year, month, day
 
 
-def slugify(raw):
-    title_tokens = raw.split()
-    res = '-'.join([t.lower() for t in title_tokens])
-    res = res.replace('.', '-')
-    res = res.replace("'", '')
-    res = res.replace(':', '')
-    res = unidecode.unidecode(res)
-    return res
-
-
 def create_book():
     print("Okay, let's create a book!")
 
@@ -123,7 +114,7 @@ def create_book():
 
     title_raw = questionary.text("Title:").ask()
     title_tokens = title_raw.split()
-    title_hypthened = slugify(title_raw)
+    title_hypthened = slugify_title(title_raw)
 
     book_id = '%s%s%s-%s' % (year, month, day, title_hypthened)
     print('Book ID: %s' % book_id)
@@ -225,7 +216,7 @@ def create_event():
     if typ in ['webinar', 'workshop']:
         template = Template(template_webinar_string)
     elif typ == 'podcast':
-        default_slug = slugify(title)
+        default_slug = slugify_title(title)
         slug = questionary.text("Slug:", default_slug).ask()
         season = questionary.text("Season:").ask().strip()
         episode = questionary.text("Episode:").ask().strip()

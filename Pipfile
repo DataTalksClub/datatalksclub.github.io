@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+questionary = "==1.9.0"
+python-slugify = "==5.0.2"
+python-docx = "==0.8.11"
+Unidecode = "==1.2.0"
+Pillow = "==8.2.0"
+Jinja2 = "==3.0.1"
+PyYAML = "==5.4.1"
+requests = "*"
+python-frontmatter = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
