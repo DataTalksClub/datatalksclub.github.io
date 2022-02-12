@@ -3,7 +3,7 @@ import os
 import subprocess
 
 from datetime import date
-from math import ceil, floor
+
 from io import BytesIO
 from urllib import request
 from glob import glob
@@ -15,75 +15,7 @@ import unidecode
 from PIL import Image
 from jinja2 import Template
 
-
-def center_crop(img):
-    h = img.height
-    w = img.width
-    d = min(w, h)
-
-    if h == w:
-        return img
-
-    if h > w:
-        left = 0
-        right = w
-        top = floor((h - d) / 2)
-        bottom = h - top - 1
-    else:
-        left = floor((w - d) / 2)
-        right = w - left - 1
-        top = 0
-        bottom = h
-
-    return img.crop((left, top, right, bottom))
-
-
-def resize(img, d=128):
-    h = img.height
-    w = img.width
-
-    if h > w:
-        new_h = d
-        new_w = floor(h * d / w)
-    else:
-        new_h = floor(w * d / h)
-        new_w = d
-
-    return img.resize((new_h, new_w), resample=Image.BICUBIC)
-
-
-def center_crop_resize(img):
-    return center_crop(resize(img, d=128))
-
-
-def download_image(url):
-    with request.urlopen(url) as resp:
-        buffer = resp.read()
-    stream = BytesIO(buffer)
-    img = Image.open(stream)
-    return img
-
-
-def load_local_image(path):
-    with Image.open(path) as img:
-        return img.copy()
-
-
-def load_image(path):
-    if path.startswith('http'):
-        return download_image(path)
-    return load_local_image(path)
-
-
-def save_resized_profile_picture(path, id):
-    img = load_image(path)
-    cropped = center_crop_resize(img)
-    if cropped.mode == 'RGBA':
-        cropped = cropped.convert('RGB')
-
-    path = './images/authors/%s.jpg' % id
-    cropped.save(path)
-    print("The image is saved to %s" % path)
+from image_utils import load_image, save_resized_profile_picture
 
 
 def create_person():
