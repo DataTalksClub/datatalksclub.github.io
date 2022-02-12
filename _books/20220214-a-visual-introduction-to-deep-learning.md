@@ -15,3 +15,5 @@ title: A Visual Introduction to Deep Learning
 Deep learning can be quite daunting to learn. With the abundance of learning resources in recent years has emerged another problem-information overload.
 
 This book aims to compress this knowledge and make the subject approachable. By the end of this book, you will be able to build a visual intuition about deep learning and neural networks.
+
+40% discount for DataTalks.Club: use promocode "DATATALKS40". Valid till February 19. 
