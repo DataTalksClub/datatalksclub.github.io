@@ -1,4 +1,14 @@
 
+- time: 2022-02-18 17:00:00
+  title: "Becoming a Data Engineering Manager"
+  slug: "becoming-a-data-engineering-manager"
+  speakers: [16rahuljain]
+  type: podcast
+  link: https://eventbrite.com/e/268576919797
+  season: 7
+  episode: 8
+
+
 - time: 2022-02-08 17:00:00
   title: "Load Testing ML Microservices for Robustness and Scalability"
   speakers: [emmanuelraj]
