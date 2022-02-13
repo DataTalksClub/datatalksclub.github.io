@@ -13,14 +13,14 @@ Hi everyone!
 
 I'm Alexey and I'm running the DataTalks.Club community.
 
-I started it in September 2020 and by now it has grown to 6,600 members.
-There are a lot of activities: we have two events per week, and we invite book 
-authors to answer questions about their books to the `#book-of-the-week` channel.
+I started it in September 2020 and by now it has grown to 12,000 members.
+There are a lot of activities in our community: we have courses, there are two events per week,
+and we invite book authors to answer questions about their books to the `#book-of-the-week` channel.
 Also, our Slack is quite active and sometimes requires moderation.
 
 All this takes a lot of time, energy, and also money.
 
-Sponsorship helps me cover the costs and stay motivated. Also, on top of that, I'd like to invest
+Sponsorship helps me cover the costs and stay motivated. On top of that, I'd like to invest
 the money from sponsors back into the community to ensure its further growth.
 
 I promise the following:
