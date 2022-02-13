@@ -8,6 +8,8 @@ image: images/books/20220214-a-visual-introduction-to-deep-learning/preview.jpg
 links:
 - link: https://kdimensions.gumroad.com/l/visualdl
   text: Book's website
+- link: https://bit.ly/34Seg9l
+  text: Book sample
 start: 2022-02-14 00:00:00
 title: A Visual Introduction to Deep Learning
 ---
@@ -16,4 +18,4 @@ Deep learning can be quite daunting to learn. With the abundance of learning res
 
 This book aims to compress this knowledge and make the subject approachable. By the end of this book, you will be able to build a visual intuition about deep learning and neural networks.
 
-40% discount for DataTalks.Club: use promocode "DATATALKS40". Valid till February 19. 
+40% discount for DataTalks.Club: use promocode "DATATALKS40". Valid till February 19.
