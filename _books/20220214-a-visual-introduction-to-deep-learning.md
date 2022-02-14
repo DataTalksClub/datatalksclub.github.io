@@ -6,7 +6,7 @@ description: Book of the Week. A Visual Introduction to Deep Learning by Meor Am
 end: 2022-02-18 23:59:59
 image: images/books/20220214-a-visual-introduction-to-deep-learning/preview.jpg
 links:
-- link: https://kdimensions.gumroad.com/l/visualdl
+- link: https://gumroad.com/a/63231091
   text: Book's website
 - link: https://bit.ly/34Seg9l
   text: Book sample
