@@ -1,9 +1,8 @@
 import os
 from math import floor
-
 from io import BytesIO
-from urllib import request
 
+import requests
 from PIL import Image
 
 
@@ -48,8 +47,8 @@ def center_crop_resize(img, d=128):
 
 
 def download_image(url):
-    with request.urlopen(url) as resp:
-        buffer = resp.read()
+    resp = requests.get(url)
+    buffer = resp.content
     stream = BytesIO(buffer)
     img = Image.open(stream)
     return img

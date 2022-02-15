@@ -2,6 +2,8 @@ import os
 import sys
 import subprocess
 
+from pprint import pprint
+
 import yaml
 import requests
 import frontmatter
@@ -152,6 +154,8 @@ def add_book_link(result, fields, key_name, link_name):
 
 def process_book(record):
     fields = record['fields']
+
+    pprint(fields)
 
     emails = extract_emails_from_book(fields)
     authors = utils.load_authors_info(emails)

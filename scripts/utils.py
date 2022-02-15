@@ -26,6 +26,7 @@ def slugify_title(title):
     title_tokens = title.split()
     res = '-'.join([t.lower() for t in title_tokens])
     res = res.replace('.', '-')
+    res = res.replace(',', '')
     res = res.replace("'", '')
     res = res.replace(':', '')
     res = unidecode.unidecode(res)
@@ -67,7 +68,11 @@ def lookup_author_ids(emails):
 
     with open('./scripts/data/hashes.csv', 'r') as f_in:
         for line in f_in:
-            email_hash, slug = line.strip().split(',')
+            line = line.strip()
+            if len(line) == 0:
+                continue
+
+            email_hash, slug = line.split(',')
             if email_hash in email_hashes:
                 result[email_hash] = slug
 
