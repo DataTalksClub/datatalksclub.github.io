@@ -1,6 +1,5 @@
-from dataclasses import field, fields
-import math
 import os
+import sys
 import subprocess
 
 import yaml
@@ -360,3 +359,16 @@ def process_podcasts():
         process_podcast(record)
 
     print(f'processed {len(records)} podcasts')
+
+
+def main():
+    what = sys.argv[1]
+    if what == 'people':
+        process_people()
+    if what == 'books':
+        process_books()
+    if what == 'podcast':
+        process_podcast()
+
+if __name__ == "__main__":
+    main()
