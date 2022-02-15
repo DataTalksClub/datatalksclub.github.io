@@ -14,6 +14,7 @@
   speakers: [emmanuelraj]
   type: webinar
   link: https://eventbrite.com/e/262947000557
+  youtube: https://www.youtube.com/watch?v=NE9vl4ma3Tk
 
 
 - time: 2022-02-11 17:00:00
@@ -22,6 +23,7 @@
   speakers: [jakobgraff]
   type: podcast
   link: https://eventbrite.com/e/263845718647
+  youtube: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=664s
   season: 7
   episode: 6
 
@@ -46,6 +48,7 @@
   speakers: [valeriybabushkin]
   type: podcast
   link: https://eventbrite.com/e/259062060597
+  youtube: https://www.youtube.com/watch?v=0RsmRjar66E&t=1749s
   season: 7
   episode: 5
 
@@ -59,6 +62,7 @@
   speakers: [lindsaymcquade]
   type: podcast
   link: https://eventbrite.com/e/255290058437
+  youtube: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=3147s
   season: 7
   episode: 4
 - time: 2022-01-21 17:00:00
