@@ -372,7 +372,7 @@ def main():
     if what == 'books':
         process_books()
     if what == 'podcast':
-        process_podcast()
+        process_podcasts()
 
 if __name__ == "__main__":
     main()
