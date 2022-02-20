@@ -24,6 +24,8 @@ PATCH_RECORDS_URL_TEMPLATE = "https://api.airtable.com/v0/" + \
 PEOPLE_TABLE = 'People'
 BOOKS_TABLE = 'Book-of-the-week'
 PODCAST_TABLE = 'Podcast'
+EVENTS_TABLE = 'Events'
+
 
 HEADERS = {
     'Authorization': f'Bearer {AIRTABLE_TOKEN}'
@@ -355,7 +357,6 @@ def process_podcast(record):
     )
 
 
-
 def process_podcasts():
     records = pull_podcasts()
 
@@ -365,14 +366,75 @@ def process_podcasts():
     print(f'processed {len(records)} podcasts')
 
 
+def pull_events():
+    response = get_records(table=EVENTS_TABLE, view='To-add')
+    records = response['records']
+    return records
+
+
+EVENT_TEMPLATE = """
+- time: {{ year }}-{{ month }}-{{ day }} 17:00:00
+  title: "{{ title }}"
+  speakers: [{{ speaker }}]
+  type: {{ typ }}
+  link: https://eventbrite.com/e/{{ event_id }}
+"""
+
+
+def process_event(record):
+    fields = record['fields']
+
+    email = fields['email']
+    speaker = utils.lookup_author_id(email)
+
+    title = fields['event_title']
+    
+    date_raw = fields['date']
+    date = utils.parse_date(date_raw)
+
+    event_id = fields['eventbrite_id']
+    event_type = fields['event_type']
+
+    params = {
+        'title': title,
+        'speaker': speaker,
+        'typ': event_type,
+        'event_id': event_id,
+        'year': f'{date.year:04d}',
+        'month': f'{date.month:02d}',
+        'day': f'{date.day:02d}'
+    }
+
+    event_info = utils.render_template_str(EVENT_TEMPLATE, params)
+
+    utils.prepend_to_file(event_info, './_data/events.yaml')
+
+    mark_record_processed(
+        table=EVENTS_TABLE,
+        record_id=record['id'],
+    )
+
+
+def process_events():
+    events = pull_events()
+
+    for event in events:
+        process_event(event)
+    
+    print(f'processed {len(events)} events')
+
+ 
 def main():
     what = sys.argv[1]
     if what == 'people':
         process_people()
     if what == 'books':
         process_books()
+    if what == 'events':
+        process_events()
     if what == 'podcast':
         process_podcasts()
+
 
 if __name__ == "__main__":
     main()

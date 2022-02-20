@@ -58,10 +58,13 @@ def append_email_hash(slug, email):
 
 
 def lookup_author_id(email):
-    return lookup_author_ids([email])
+    ids = lookup_author_ids([email])
+    slug, = ids.values()
+    return slug 
 
 
 def lookup_author_ids(emails):
+    emails = [email.lower().strip() for email in emails]
     email_hashes = {compute_hash(e): e for e in emails}
 
     result = {}
@@ -111,6 +114,12 @@ def render_template_from_file(template_file, params, output_file):
     render_template(template_string, params, output_file)
 
 
+def render_template_str(template_string, params):
+    template = Template(template_string)
+    result = template.render(**params)
+    return result
+
+
 def render_template(template_string, params, output_file):
     template = Template(template_string)
     result = template.render(**params)
@@ -131,3 +140,16 @@ def book_start_end(date_start_raw):
     date_start = parse_date(date_start_raw)
     date_end = date_start + timedelta(days=4)
     return date_start, date_end
+
+
+def prepend_to_file(content, filename, sep='\n\n'):
+    print(f'appending to {filename}:')
+    print(content)
+
+    with open(filename) as f_in:
+        old_content = f_in.read()
+
+    with open(filename, 'w') as f_out:
+        f_out.write(content)
+        f_out.write(sep)
+        f_out.write(old_content) 
