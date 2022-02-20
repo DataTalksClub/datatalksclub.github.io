@@ -1,22 +1,25 @@
 
+
+- time: 2022-03-03 17:00:00
+  title: "From Data Science to Data Engineering"
+  speakers: [ellenkonig]
+  type: podcast
+  link: https://eventbrite.com/e/273870783887
 - time: 2022-02-18 17:00:00
   title: "Becoming a Data Engineering Manager"
   slug: "becoming-a-data-engineering-manager"
   speakers: [16rahuljain]
   type: podcast
   link: https://eventbrite.com/e/268576919797
+  youtube: https://www.youtube.com/watch?v=FljnbUQ796w
   season: 7
   episode: 8
-
-
 - time: 2022-02-08 17:00:00
   title: "Load Testing ML Microservices for Robustness and Scalability"
   speakers: [emmanuelraj]
   type: webinar
   link: https://eventbrite.com/e/262947000557
   youtube: https://www.youtube.com/watch?v=NE9vl4ma3Tk
-
-
 - time: 2022-02-11 17:00:00
   title: "A/B Testing"
   slug: "ab-testing"
@@ -34,7 +37,6 @@
   speakers: [sivanbiham]
   type: webinar
   link: https://eventbrite.com/e/241400022967
-
 
 # february
 - time: 2022-02-16 17:00:00
