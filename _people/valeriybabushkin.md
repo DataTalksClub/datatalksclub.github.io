@@ -1,6 +1,6 @@
 ---
 short: valeriybabushkin
-title: "Valeriy Babushkin"
+title: "Valerii Babushkin"
 picture: "images/authors/valeriybabushkin.jpg"
 github: VENHEADs
 
