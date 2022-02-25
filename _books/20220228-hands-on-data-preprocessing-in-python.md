@@ -6,7 +6,7 @@ description: Book of the Week. Hands-On Data Preprocessing in Python by Roy Jafa
 end: 2022-03-04 23:59:59
 image: images/books/20220228-hands-on-data-preprocessing-in-python/preview.jpg
 links:
-- link: packtpub.com/product/hands-on-data-preprocessing-in-python/9781801072137
+- link: https://packtpub.com/product/hands-on-data-preprocessing-in-python/9781801072137
   text: Book's page
 - link: https://www.amazon.com/Hands-Data-Preprocessing-Python-effectively-ebook/dp/B09F6R8V2L/ref=sr_1_1?dchild=1&keywords=Hands-On+Data+Preprocessing+in+Python&qid=1634537236&sr=8-1
   text: Buy on Amazon
