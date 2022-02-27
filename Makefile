@@ -6,3 +6,9 @@ books:
 
 podcast:
 	pipenv run python scripts/airtable.py podcast
+
+events:
+	pipenv run python scripts/airtable.py events
+
+run:
+	bundle exec jekyll serve

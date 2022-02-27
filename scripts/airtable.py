@@ -264,13 +264,40 @@ def find_matching_podcasts(season, episode):
     return matches[0]
 
 
+def find_matching_podcasts_youtube(youtube_id):
+    with open('./_data/events.yaml') as f_in:
+        events = yaml.load(f_in, Loader=yaml.SafeLoader)
+
+    print(f'found {len(events)} events')
+
+    matches = []
+
+    for event in events:
+        if 'youtube' not in event:
+            continue
+
+        event_youtube_url = event['youtube']
+        event_youtube_id = event_youtube_url.split('?v=')[1]
+
+        if event_youtube_id == youtube_id:
+            matches.append(event)
+
+    if len(matches) != 1:
+        raise Exception(f'for youtube_id={youtube_id} found these matches: {matches}')
+
+    return matches[0]
+
+
 def process_podcast(record):
     fields = record['fields']
 
     season = int(fields['season'])
     episode = int(fields['episode'])
 
-    matching_event = find_matching_podcasts(season, episode)
+    youtube_url = fields['youtube_url']
+    youtube_id = youtube_url.split('?v=')[1]
+
+    matching_event = find_matching_podcasts_youtube(youtube_id)
 
     title = matching_event['title']
     short = matching_event.get('short', title)
@@ -286,11 +313,9 @@ def process_podcast(record):
     image_path = f'images/podcast/{podcast_id}.jpg'
 
     apple_url = fields['apple_url']
-    anchor_url = fields['anchor_url']
     spotify_url = fields['spotify_url']
-    youtube_url = fields['youtube_url']
 
-    youtube_id = youtube_url.split('?v=')[1]
+    anchor_url = fields['anchor_url']
     anchor_id = anchor_url[len('https://anchor.fm/datatalksclub/episodes/'):]
 
     params = {
@@ -324,6 +349,10 @@ def process_podcast(record):
         
         content_links = []
         for link_raw in links_raw.split('\n'):
+            link_raw = link_raw.strip()
+            if len(link_raw) == 0:
+                continue
+
             title, link = link_raw.split('=>')
             title = title.strip()
             link = link.strip()
