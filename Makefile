@@ -10,5 +10,7 @@ podcast:
 events:
 	pipenv run python scripts/airtable.py events
 
+all: people books podcast events
+
 run:
 	bundle exec jekyll serve
