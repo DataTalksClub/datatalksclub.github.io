@@ -16,8 +16,11 @@ jobs:
               fonts-thai-tlwg fonts-kacst fonts-freefont-ttf \
               --no-install-recommends
       - run: chromium-browser --version
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
       - uses: actions/checkout@v2
       - run: |
-          pip3 install pipenv
+          pip install pipenv
           pipenv install
       - run: ls
