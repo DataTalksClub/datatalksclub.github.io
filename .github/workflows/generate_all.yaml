@@ -1,0 +1,13 @@
+name: timecodes
+on:
+  schedule:
+    - cron: '0 12 * * *'
+jobs:
+  generate_all:
+    runs-on: "ubuntu-latest"
+    steps:
+      - run: |
+          pip3 install pipenv
+          pipenv install
+      - uses: actions/checkout@v2
+      - run: ls
