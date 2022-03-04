@@ -28,4 +28,11 @@ jobs:
         run: |
           (cd previews && \
             PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true npm install)
-      - run: ls
+      - name: make all
+        run: |
+          shopt -s expand_aliases 
+          alias gitbash='bash'
+          make all
+      - run: |
+          ls
+          git status
