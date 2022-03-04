@@ -29,6 +29,9 @@ jobs:
           (cd previews && \
             PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true npm install)
       - name: make all
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_DATABASE: ${{ secrets.AIRTABLE_DATABASE }}
         run: |
           shopt -s expand_aliases 
           alias gitbash='bash'
