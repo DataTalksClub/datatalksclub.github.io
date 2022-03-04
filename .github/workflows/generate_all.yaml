@@ -20,7 +20,12 @@ jobs:
         with:
           python-version: '3.9'
       - uses: actions/checkout@v2
-      - run: |
+      - name: pipenv install
+        run: |
           pip install pipenv
           pipenv install
+      - name: npm install
+        run: |
+          (cd previews && \
+            PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true npm install)
       - run: ls
