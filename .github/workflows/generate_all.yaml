@@ -33,8 +33,7 @@ jobs:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
           AIRTABLE_DATABASE: ${{ secrets.AIRTABLE_DATABASE }}
         run: |
-          shopt -s expand_aliases 
-          alias gitbash='bash'
+          sudo ln -s `which bash` /bin/gitbash
           make all
       - run: |
           ls
