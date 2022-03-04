@@ -11,9 +11,9 @@ jobs:
       - name: install chromium
         run: |
           sudo apt-get update
-          sudo apt-get install -y chromium fonts-ipafont-gothic \
-              fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst \
-              fonts-freefont-ttf libxss1 \
+          sudo apt-get install -y chromium-browser libxss1 \
+              fonts-ipafont-gothic fonts-wqy-zenhei \
+              fonts-thai-tlwg fonts-kacst fonts-freefont-ttf \
               --no-install-recommends
       - run: chromium-browser --version
       - uses: actions/checkout@v2
