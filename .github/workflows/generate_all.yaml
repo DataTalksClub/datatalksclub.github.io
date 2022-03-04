@@ -8,8 +8,14 @@ jobs:
   generate_all:
     runs-on: "ubuntu-latest"
     steps:
+      - name: install chromium
+        run: |
+          apt-get update \
+            && apt-get install -y chromium fonts-ipafont-gothic fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst fonts-freefont-ttf libxss1 \
+              --no-install-recommends \
+      - run: chromium-browser --version
+      - uses: actions/checkout@v2
       - run: |
           pip3 install pipenv
           pipenv install
-      - uses: actions/checkout@v2
       - run: ls
