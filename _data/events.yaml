@@ -1,4 +1,11 @@
 
+- time: 2022-03-04 17:00:00
+  title: "From Math Teacher to Analytics Engineer"
+  speakers: [juanpablo]
+  type: podcast
+  link: https://eventbrite.com/e/289352048767
+
+
 - time: 2022-03-15 17:00:00
   title: "Productionizing a Feature Store for Fraud Detection at Ubisoft"
   speakers: [jeanineharb]
