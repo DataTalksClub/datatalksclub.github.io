@@ -38,4 +38,4 @@ jobs:
       - run: |
           ls
           git status
-      - uses: EndBug/add-and-commit@v8(base)
+      - uses: EndBug/add-and-commit@v8
