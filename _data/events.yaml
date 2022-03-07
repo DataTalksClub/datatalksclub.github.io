@@ -28,6 +28,7 @@
   speakers: [ellenkonig]
   type: podcast
   link: https://eventbrite.com/e/273870783887
+  youtube: https://www.youtube.com/watch?v=3TTu-hYzxeg
 - time: 2022-02-18 17:00:00
   title: "Becoming a Data Engineering Manager"
   slug: "becoming-a-data-engineering-manager"
