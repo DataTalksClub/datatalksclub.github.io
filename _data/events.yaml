@@ -1,25 +1,24 @@
 
-- time: 2022-04-19 17:00:00
-  title: "Building Machine Learning Pipelines with Kedro"
-  speakers: [mereltheisen]
-  type: workshop
-  link: https://eventbrite.com/e/293903773097
-
-
-- time: 2022-03-29 17:00:00
-  title: "Hands-On Data Monitoring with whylogs"
-  speakers: [dannyleybzon]
-  type: workshop
-  link: https://eventbrite.com/e/293882369077
-
-
+# may
 - time: 2022-05-03 17:00:00
   title: "Mitigating Bias with the XAI Toolbox"
   speakers: [sergmasis]
   type: webinar
   link: https://eventbrite.com/e/293599974427
 
+# april
+- time: 2022-04-19 17:00:00
+  title: "Building Machine Learning Pipelines with Kedro"
+  speakers: [mereltheisen]
+  type: workshop
+  link: https://eventbrite.com/e/293903773097
 
+# march
+- time: 2022-03-29 17:00:00
+  title: "Hands-On Data Monitoring with whylogs"
+  speakers: [dannyleybzon]
+  type: workshop
+  link: https://eventbrite.com/e/293882369077
 - time: 2022-03-22 17:00:00
   title: "Modern Data Warehouse"
   speakers: [16rahuljain]
@@ -47,7 +46,14 @@
   type: podcast
   link: https://eventbrite.com/e/273870783887
   youtube: https://www.youtube.com/watch?v=3TTu-hYzxeg
+- time: 2022-03-01 17:00:00
+  title: "The Unspoken Relationship - Product Managers and Data Scientists"
+  speakers: [sivanbiham]
+  type: webinar
+  link: https://eventbrite.com/e/241400022967
+  youtube: https://www.youtube.com/watch?v=4FmApxkyoXQ
 
+# february
 - time: 2022-02-28 17:00:00
   title: "Helping People Get Jobs with Data"
   speakers: [padmachitturi]
@@ -63,32 +69,6 @@
   youtube: https://www.youtube.com/watch?v=FljnbUQ796w
   season: 7
   episode: 8
-- time: 2022-02-08 17:00:00
-  title: "Load Testing ML Microservices for Robustness and Scalability"
-  speakers: [emmanuelraj]
-  type: webinar
-  link: https://eventbrite.com/e/262947000557
-  youtube: https://www.youtube.com/watch?v=NE9vl4ma3Tk
-- time: 2022-02-11 17:00:00
-  title: "A/B Testing"
-  slug: "ab-testing"
-  speakers: [jakobgraff]
-  type: podcast
-  link: https://eventbrite.com/e/263845718647
-  youtube: https://www.youtube.com/watch?v=0Gqx1LtqRZU
-  season: 7
-  episode: 6
-
-# march
-
-- time: 2022-03-01 17:00:00
-  title: "The Unspoken Relationship - Product Managers and Data Scientists"
-  speakers: [sivanbiham]
-  type: webinar
-  link: https://eventbrite.com/e/241400022967
-  youtube: https://www.youtube.com/watch?v=4FmApxkyoXQ
-
-# february
 - time: 2022-02-16 17:00:00
   title: "Monitoring Model Performance with Crowdsourcing"
   speakers: [magdalenakonkiewicz]
@@ -104,11 +84,25 @@
   youtube: https://www.youtube.com/watch?v=0RsmRjar66E
   season: 7
   episode: 5
+- time: 2022-02-11 17:00:00
+  title: "A/B Testing"
+  slug: "ab-testing"
+  speakers: [jakobgraff]
+  type: podcast
+  link: https://eventbrite.com/e/263845718647
+  youtube: https://www.youtube.com/watch?v=0Gqx1LtqRZU
+  season: 7
+  episode: 6
+- time: 2022-02-08 17:00:00
+  title: "Load Testing ML Microservices for Robustness and Scalability"
+  speakers: [emmanuelraj]
+  type: webinar
+  link: https://eventbrite.com/e/262947000557
+  youtube: https://www.youtube.com/watch?v=NE9vl4ma3Tk
 
 
 
 # january
-
 - time: 2022-01-28 17:00:00
   title: "Career Coaching"
   slug: "career-coaching"
@@ -385,6 +379,7 @@
   speakers: [marijnmarkus]
   type: webinar
   link: https://eventbrite.com/e/169217228285
+  youtube: https://www.youtube.com/watch?v=esv5-4HRXvI
 - time: 2021-09-14 17:00:00
   title: "Modern Data Stack for Analytics Engineering"
   speakers: [kyleshannon]
