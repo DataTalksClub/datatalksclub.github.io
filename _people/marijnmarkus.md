@@ -2,10 +2,8 @@
 short: marijnmarkus
 title: "Marijn Markus"
 picture: "images/authors/marijnmarkus.jpg"
-
-
+twitter: MarijnMarkus
 linkedin: marijnmarkus
-
 ---
 
 As a data scientist and sociologist obsessed with both robots and humans, Marijn enjoys finding outside-of-the-box solutions to existing problems and to distinguish science from fiction.
