@@ -1,4 +1,11 @@
 
+- time: 2022-03-18 17:00:00
+  title: "Hacking Your Data Career"
+  speakers: [marijnmarkus]
+  type: podcast
+  link: https://eventbrite.com/e/294973492657
+
+
 # may
 - time: 2022-05-03 17:00:00
   title: "Mitigating Bias with the XAI Toolbox"
