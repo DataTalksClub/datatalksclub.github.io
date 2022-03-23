@@ -39,6 +39,7 @@
   speakers: [16rahuljain]
   type: webinar
   link: https://eventbrite.com/e/293561509377
+  youtube: https://www.youtube.com/watch?v=x2yNK3LlWUc
 - time: 2022-03-15 17:00:00
   title: "Productionizing a Feature Store for Fraud Detection at Ubisoft"
   speakers: [jeanineharb]
