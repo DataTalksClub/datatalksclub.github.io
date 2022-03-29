@@ -73,6 +73,7 @@ Some other tips:
 * If you want to start a discussion, don't just share a link and expect others to jump in. Share your thoughs and have a clear question in your message. 
   * "Any thoughts on this?" is not a clear question.
 * Be consice in your questions if possible. Not everyone likes to read a lot of text.
+* Don't delete your question after you received an answer. It will also help others who might have a similar problem. 
 
 
 ## Channels
@@ -83,7 +84,13 @@ Default channels:
 
 * `#announcements` — for community-wide announcements
 * `#general` — for general discussions
-* `#shameless-promotion` — for promoting your work (see the promotion section for more information about promoting your work)
+* `#events` — for sharing interesting events (including events that you organize)
+* `#interesting-content` — for sharing interesting content (blog posts, videos, etc - including your own content)
+* `#shameless-social` — for promoting your posts on social media
+* `#shameless-promotion` — for promoting other things that don't fit into the three cateries above
+
+(see the promotion section for more information about promoting your work)
+
 
 Other channels:
 
@@ -100,26 +107,27 @@ This is not a complete list of channels. To check the list of all the available 
 
 ## Promotion
 
-Promoting your work is welcome — for both companies and individuals. We have a special channel
-for that — `#shameless-promotion`. You can use it for sharing social media links, blog posts,
-and anything else. Please don’t use other channels for that.
+Promoting your work is welcome — for both companies and individuals. We have a few special channels
+for that:
+
+* `#events` — for sharing events that you organize
+* `#interesting-content` — for sharing content you create (blogs, videos, podcasts, etc)
+* `#shameless-social` — for promoting your posts on social media
+* `#shameless-promotion` — for promoting other things
+
+Don’t use other channels for that - they will be removed without a warning. Repeated violations will result in a ban.
 
 
 ### Surveys and feedback on your product
 
 Messages that ask the community for feedback on your product are considered promotional as well
-and should be posted in `#shameless-promotion`.
+and should be posted in `#shameless-promotion`
 
 Examples:
 
 * We're conducting a survey to better understand how people use `____`.
 * We'd like to show you our product and get some feedback from you. 
 * We're working on `____` and would like to talk to data scientsits and ML engineers to understand better their painpoints.
-
-
-### Promoting events 
-
-To promote your events, you can share them in `#events`, but `#shameless-promotion` is also fine.
 
 
 ### Rules for vendors
@@ -142,13 +150,16 @@ CVs in DMs is also considered unsolicited promotion, and the same rules apply.
 
 ### Non-relevant promotions
 
-Promotional messages have to be relevant for the community. If it's not relevant, don't post them.
+The promotional content you share must be relevant for the community - i.e. it should be related to date.
+If it's not relevant, don't post them.
 
 Examples of not relevant promotional messages:
 
 * COVID surveys for $5 
 * Coupon codes for lawn mowers or pizzas 
 * Photoshop alternatives
+
+Such messages will be removed without a warning
 
 
 ## Jobs
