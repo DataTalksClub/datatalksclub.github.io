@@ -1196,5 +1196,4 @@ transcript:
 
 Links:
 
-* [Twitter](https://twitter.com/MarijnMarkus){:target="_blank"}
 * [LinkedIn](https://www.linkedin.com/in/marijnmarkus/){:target="_blank"}
