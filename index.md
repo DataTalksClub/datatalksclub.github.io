@@ -76,6 +76,20 @@ layout: home
 
     <p>Check the <a href="/podcast.html">podcast</a> page for all past podcast episodes.</p>
 
+
+    <p>&nbsp;</p>
+
+    <h4>Our Sponsors</h4>
+    <div class="text-center">
+    {% for sponsor in site.data.sponsors %}
+      <div class="my-5">
+        <a href="{{ sponsor.link }}" target="_blank">
+          <img src="{{ sponsor.image }}" class="partner"/>
+        </a>
+      </div>
+    {% endfor %}
+    </div>
+
     <p>&nbsp;</p>
 
     <h4>Book of the week</h4>
