@@ -1,9 +1,11 @@
 ---
 authors:
+- leandrovonwerra
+- lewistunstall
 - thomaswolf
 cover: images/books/20220425-natural-language-processing-with-transformers/cover.jpg
-description: Book of the Week. Natural Language Processing with Transformers by Thomas
-  Wolf
+description: Book of the Week. Natural Language Processing with Transformers by Leandro
+  von Werra, Lewis Tunstall and Thomas Wolf
 end: 2022-04-29 23:59:59
 image: images/books/20220425-natural-language-processing-with-transformers/preview.jpg
 links:
