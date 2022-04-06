@@ -134,8 +134,8 @@ def pull_books():
 def extract_emails_from_book(fields):
     emails = [fields['author_email'].strip().lower()]
 
-    if 'emails' in fields:
-        other_emails = fields['emails'].split(',')
+    if 'email_other_authors' in fields:
+        other_emails = fields['email_other_authors'].split(',')
         for e in other_emails:
             e = e.lower().strip()
             emails.append(e)
@@ -160,7 +160,9 @@ def process_book(record):
     pprint(fields)
 
     emails = extract_emails_from_book(fields)
+    print(emails)
     authors = utils.load_authors_info(emails)
+    print(authors)
 
     title = fields['title'].strip()
     title_slug = utils.slugify_title(title)
