@@ -1,4 +1,11 @@
 
+- time: 2022-04-14 17:00:00
+  title: "Recruiting Data Engineers"
+  speakers: [nicolasrassam]
+  type: podcast
+  link: https://eventbrite.com/e/315101917317
+
+
 - time: 2022-04-08 17:00:00
   title: "Storytime for DataOps"
   speakers: [christopherbergh]
@@ -26,6 +33,7 @@
   speakers: [delinaivanova]
   type: webinar
   link: https://eventbrite.com/e/308430392607
+  youtube: https://www.youtube.com/watch?v=TolOCxHdVx4
 
 
 - time: 2022-04-12 17:00:00
