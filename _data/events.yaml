@@ -1,25 +1,45 @@
 
-- time: 2022-04-14 17:00:00
-  title: "Recruiting Data Engineers"
-  speakers: [nicolasrassam]
-  type: podcast
-  link: https://eventbrite.com/e/315101917317
-
-
-- time: 2022-04-08 17:00:00
-  title: "Storytime for DataOps"
-  speakers: [christopherbergh]
-  type: podcast
-  link: https://eventbrite.com/e/310930610827
-
-
+# may
 - time: 2022-05-24 17:00:00
   title: "Getting a Data Engineering Job"
   speakers: [jeffkatz]
   type: webinar
   link: https://eventbrite.com/e/310270877547
+- time: 2022-05-03 17:00:00
+  title: "Mitigating Bias with the XAI Toolbox"
+  speakers: [sergmasis]
+  type: webinar
+  link: https://eventbrite.com/e/293599974427
 
+# april
 
+- time: 2022-04-19 17:00:00
+  title: "Building Machine Learning Pipelines with Kedro"
+  speakers: [mereltheisen]
+  type: workshop
+  link: https://eventbrite.com/e/293903773097
+- time: 2022-04-14 17:00:00
+  title: "Recruiting Data Engineers"
+  speakers: [nicolasrassam]
+  type: podcast
+  link: https://eventbrite.com/e/315101917317
+- time: 2022-04-12 17:00:00
+  title: "Federated Learning to the Rescue"
+  speakers: [orlandohohmeier, janschlicht]
+  type: webinar
+  link: https://eventbrite.com/e/305668521777
+- time: 2022-04-08 17:00:00
+  title: "Storytime for DataOps"
+  speakers: [christopherbergh]
+  type: podcast
+  link: https://eventbrite.com/e/310930610827
+  youtube: https://www.youtube.com/watch?v=0Fx5PCoLkf4
+- time: 2022-04-05 17:00:00
+  title: "Analytics Use Cases Across Non-Automated Operations"
+  speakers: [delinaivanova]
+  type: webinar
+  link: https://eventbrite.com/e/308430392607
+  youtube: https://www.youtube.com/watch?v=TolOCxHdVx4
 - time: 2022-04-01 17:00:00
   title: "Machine Learning and Personalization in Healthcare"
   speakers: [stefangudmundsson]
@@ -28,64 +48,32 @@
   youtube: https://www.youtube.com/watch?v=IDzhmmKeNG4
 
 
-- time: 2022-04-05 17:00:00
-  title: "Analytics Use Cases Across Non-Automated Operations"
-  speakers: [delinaivanova]
-  type: webinar
-  link: https://eventbrite.com/e/308430392607
-  youtube: https://www.youtube.com/watch?v=TolOCxHdVx4
-
-
-- time: 2022-04-12 17:00:00
-  title: "Federated Learning to the Rescue"
-  speakers: [orlandohohmeier, janschlicht]
-  type: webinar
-  link: https://eventbrite.com/e/305668521777
-
-
-- time: 2022-03-24 17:00:00
-  title: "Innovation and Design for Machine Learning"
-  speakers: [liesbethdingemans]
-  type: podcast
-  link: https://eventbrite.com/e/301231580767
-  youtube: https://www.youtube.com/watch?v=tcqBfZw41FM
-
-
-- time: 2022-03-18 17:00:00
-  title: "Hacking Your Data Career"
-  speakers: [marijnmarkus]
-  type: podcast
-  link: https://eventbrite.com/e/294973492657
-  youtube: https://www.youtube.com/watch?v=RhSg8ill1So
-
-
-# may
-- time: 2022-05-03 17:00:00
-  title: "Mitigating Bias with the XAI Toolbox"
-  speakers: [sergmasis]
-  type: webinar
-  link: https://eventbrite.com/e/293599974427
-
-# april
-- time: 2022-04-19 17:00:00
-  title: "Building Machine Learning Pipelines with Kedro"
-  speakers: [mereltheisen]
-  type: workshop
-  link: https://eventbrite.com/e/293903773097
-
 # march
+
 - time: 2022-03-29 17:00:00
   title: "Hands-On Data Monitoring with whylogs"
   speakers: [dannyleybzon]
   type: workshop
   link: https://eventbrite.com/e/293882369077
   youtube: https://www.youtube.com/watch?v=b6yk9b7A4CQ
+- time: 2022-03-24 17:00:00
+  title: "Innovation and Design for Machine Learning"
+  speakers: [liesbethdingemans]
+  type: podcast
+  link: https://eventbrite.com/e/301231580767
+  youtube: https://www.youtube.com/watch?v=tcqBfZw41FM
 - time: 2022-03-22 17:00:00
   title: "Modern Data Warehouse"
   speakers: [16rahuljain]
   type: webinar
   link: https://eventbrite.com/e/293561509377
   youtube: https://www.youtube.com/watch?v=x2yNK3LlWUc
+- time: 2022-03-18 17:00:00
+  title: "Hacking Your Data Career"
+  speakers: [marijnmarkus]
+  type: podcast
+  link: https://eventbrite.com/e/294973492657
+  youtube: https://www.youtube.com/watch?v=RhSg8ill1So
 - time: 2022-03-15 17:00:00
   title: "Productionizing a Feature Store for Fraud Detection at Ubisoft"
   speakers: [jeanineharb]
