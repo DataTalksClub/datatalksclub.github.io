@@ -1,10 +1,4 @@
 
-- time: 2022-05-10 17:00:00
-  title: "Recommender Systems for Digital Advertising"
-  speakers: [nataliyaportman]
-  type: webinar
-  link: https://eventbrite.com/e/318624964847
-
 
 # may
 - time: 2022-05-24 17:00:00
@@ -12,6 +6,11 @@
   speakers: [jeffkatz]
   type: webinar
   link: https://eventbrite.com/e/310270877547
+- time: 2022-05-10 17:00:00
+  title: "Recommender Systems for Digital Advertising"
+  speakers: [nataliyaportman]
+  type: webinar
+  link: https://eventbrite.com/e/318624964847
 - time: 2022-05-03 17:00:00
   title: "Mitigating Bias with the XAI Toolbox"
   speakers: [sergmasis]
@@ -30,6 +29,7 @@
   speakers: [nicolasrassam]
   type: podcast
   link: https://eventbrite.com/e/315101917317
+  youtube: https://www.youtube.com/watch?v=hylxiu4VGTo
 - time: 2022-04-12 17:00:00
   title: "Federated Learning to the Rescue"
   speakers: [orlandohohmeier, janschlicht]
