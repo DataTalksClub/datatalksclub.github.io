@@ -1,18 +1,4 @@
 
-- time: 2022-04-26 17:00:00
-  title: "Data Quality and Reliability with Soda Core"
-  speakers: [vijaykiran]
-  type: workshop
-  link: https://eventbrite.com/e/322965988967
-
-
-- time: 2022-04-22 17:00:00
-  title: "From Roasting Coffee to Backend Development"
-  speakers: [jessicagreene]
-  type: podcast
-  link: https://eventbrite.com/e/322511670087
-
-
 
 # may
 - time: 2022-05-24 17:00:00
@@ -32,7 +18,17 @@
   link: https://eventbrite.com/e/293599974427
 
 # april
-
+- time: 2022-04-26 17:00:00
+  title: "Data Quality and Reliability with Soda Core"
+  speakers: [vijaykiran]
+  type: workshop
+  link: https://eventbrite.com/e/322965988967
+- time: 2022-04-22 17:00:00
+  title: "From Roasting Coffee to Backend Development"
+  speakers: [jessicagreene]
+  type: podcast
+  link: https://eventbrite.com/e/322511670087
+  youtube: https://www.youtube.com/watch?v=BKqmNdxsBko
 - time: 2022-04-19 17:00:00
   title: "Building Machine Learning Pipelines with Kedro"
   speakers: [mereltheisen]
