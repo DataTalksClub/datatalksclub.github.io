@@ -17,22 +17,22 @@ title: Storytime for DataOps
 transcript:
 - line: Some people call you the “Father of DataOps”.
   sec: 1
-  time: 0:01
+  time: '0:01'
   who: Alexey
 - line: '[laughs]Oh, yeah. One guy called me the “Grandfather of DataOps”. That hurt.
     [laughs]'
   sec: 4
-  time: 0:04
+  time: '0:04'
   who: Chris
 - line: I'm just thinking about the introduction – should we use that. Or do you prefer
     I don’t? [laughs]
   sec: 13
-  time: 0:13
+  time: '0:13'
   who: Alexey
 - line: Whatever you want. [laughs] Yeah. I've been doing it a while. So yeah – whatever
     term you want to use.
   sec: 18
-  time: 0:18
+  time: '0:18'
   who: Chris
 - line: This week, we'll talk about DataOps. We have a special guest today, Chris.
     Chris is the CEO and Head Chief at DataKitchen. Some people call Chris the “Father
@@ -233,7 +233,7 @@ transcript:
   sec: 770
   time: '12:50'
   who: Chris
-- header: Also known as Agile Analytics Operations or DevOps for Data Science
+- header: Agile Analytics Operations or DevOps for Data Science
 - line: Did you say that you actually didn't know what to call it? I think there were
     a few names, “Agile Analytics Operations,” then “DevOps for Data Science,” but
     then it was actually you who came up with this term – “DataOps”?
