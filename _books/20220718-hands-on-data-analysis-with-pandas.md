@@ -1,11 +1,11 @@
 ---
 authors:
 - stefaniemolin
-cover: images/books/20220718-hands-on-data-analysis-with-pandas---second-edition/cover.jpg
+cover: images/books/20220718-hands-on-data-analysis-with-pandas/cover.jpg
 description: Book of the Week. Hands-On Data Analysis with Pandas - Second Edition
   by Stefanie Molin
 end: 2022-07-22 23:59:59
-image: images/books/20220718-hands-on-data-analysis-with-pandas---second-edition/preview.jpg
+image: images/books/20220718-hands-on-data-analysis-with-pandas/preview.jpg
 links:
 - link: https://www.packtpub.com/product/hands-on-data-analysis-with-pandas-second-edition/9781800563452
   text: Book's page
