@@ -80,11 +80,11 @@ layout: home
     <p>&nbsp;</p>
 
     <h4>Our Sponsors</h4>
-    <div class="text-center">
+    <div class="text-center row justify-content-center">
     {% for sponsor in site.data.sponsors %}
-      <div class="my-5">
-        <a href="{{ sponsor.link }}" target="_blank">
-          <img src="{{ sponsor.image }}" class="partner"/>
+      <div class="my-3 col-md-6" style="display: flex">
+        <a href="{{ sponsor.link }}" style="margin: auto" target="_blank">
+          <img src="{{ sponsor.image }}" class="partner">
         </a>
       </div>
     {% endfor %}
