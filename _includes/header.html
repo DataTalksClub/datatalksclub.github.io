@@ -1,4 +1,25 @@
+{% if site.data.header.announcement %}
+
+<div class="fixed-top announcement">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col">
+        <nobr>{{ site.data.header.announcement.text }}</nobr>
+        <nobr>
+          <a href="{{ site.data.header.announcement.link }}" target="_blank">
+            {{ site.data.header.announcement.link_text }}
+          </a>
+        </nobr>
+      </div>
+    </div>
+  </div>
+</div>  
+
+<div class="header-container-margin container">
+{% else %}
 <div class="container">
+{% endif %}
+
   <div class="row mt-3 text-center">
     <div class="col">
       <h2>DataTalks.Club</h2>
