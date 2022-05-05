@@ -8,4 +8,4 @@ linkedin: prateek-joshi-91047b19
 web: https://www.prateekj.com/
 ---
 
-Prateek Joshi is the founder of Plutoshift and a published author of 9 books on Artificial Intelligence. He has been featured on Forbes 30 Under 30, NBC, Bloomberg, CNBC, TechCrunch, and The Business Journals. He has been an invited speaker at conferences such as TEDx, Global Big Data Conference, Machine Learning Developers Conference, and Silicon Valley Deep Learning. Apart from Artificial Intelligence, some of the topics that excite him are number theory, cryptography, and quantum computing. His greater goal is to make Artificial Intelligence accessible to everyone so that it can impact billions of people around the world.
+Prateek Joshi is the founder and CEO of Plutoshift. He is an author of 13 books on Machine Learning and his blog has readership in 200+ countries. He has been featured on Forbes, CNBC, TechCrunch, and Bloomberg. He has been a speaker at conferences such as TEDx, Global Big Data Conference, and Machine Learning Developers Conference. You can visit prateekj.com to learn more about him.
