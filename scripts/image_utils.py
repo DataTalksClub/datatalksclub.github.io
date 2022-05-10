@@ -32,6 +32,9 @@ def resize(img, d=128):
     h = img.height
     w = img.width
 
+    if h <= d and w <= d:
+        return img
+
     if h > w:
         new_h = d
         new_w = floor(h * d / w)
@@ -80,16 +83,18 @@ def save_resized_profile_picture(path, id, d=128):
     return path
 
 
-def save_image(image_location, output_file):
+def save_image(image_location, output_file, d=400):
     img = load_image(image_location)
 
     folder = os.path.dirname(output_file)
     os.makedirs(folder, exist_ok=True)
 
-    if output_file.endswith('.jpg'):
-        if img.mode == 'RGBA':
-            img = img.convert('RGB')
+    if img.mode == 'RGBA':
+        img = img.convert('RGB')
 
+    img = resize(img, d=d)
+
+    if output_file.endswith('.jpg'):
         img.save(output_file, quality=95)
     else:
         img.save(output_file)

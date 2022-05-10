@@ -219,7 +219,7 @@ def process_book(record):
     else:
         raise Exception('no image')
 
-    image_utils.save_image(image_location, cover_path)
+    image_utils.save_image(image_location, cover_path, d=400)
     
     print('Creating a preview...')
     subprocess.call(['gitbash', 'scripts/generate-book-preview.sh', book_id])
