@@ -24,32 +24,6 @@ bundle exec jekyll serve
 Open [http://localhost:4000](http://localhost:4000)
 
 
-### Generating a cover image
-
-Build the docker image for the cover generator:
-
-```bash
-cd previews
-docker build -t datatalks-cover-generator .
-cd ..
-```
-
-Now let's generate the image:
-
-* the article: `_posts/2020-12-07-practical-guide-better-code.md`
-* the output file: `images/posts/2020-12-07-practical-guide-better-code/cover.jpg`
-
-```bash
-./scripts/generate-post-preview.sh 2021-02-01-landing-product-analyst-job
-```
-
-Book cover:
-
-```bash
-./scripts/generate-book-preview.sh 20210301-ml-engineering
-```
-
-
 ## Scripts 
 
 Installing the requirements:
@@ -67,3 +41,12 @@ Running:
 ```bash
 pipenv run python scripts/create.py
 ``` 
+
+### Generating post from docx
+
+```bash
+python scripts/pandoc_full.py \
+    --input ~/Downloads/devops-vs-mlops.docx \
+    --author angelicaloduca \
+    --tags "mlops,devops,process"
+```

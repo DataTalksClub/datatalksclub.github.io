@@ -27,7 +27,7 @@ figure_template = """
 """.strip()
 
 
-def load_and_process(document_path):
+def load_and_process(document_path, author, tags):
     post = frontmatter.load(document_path)
 
     post['title'] = re_span.sub('', post['title'])
@@ -70,8 +70,8 @@ def load_and_process(document_path):
     post['layout'] = 'post'
     post['description'] = post['subtitle']
     post['image'] = f'images/posts/{post_id}/cover.jpg'
-    post['authors'] = ['alexeygrigorev']
-    post['tags'] = ['mlops', 'team', 'process']
+    post['authors'] = [author]
+    post['tags'] = tags
 
     post.content = '\n'.join(result)
 

@@ -1,13 +1,17 @@
 import os
 import sys
 import subprocess
+import argparse
+
 from pathlib import Path
+
 import pandoc_process
+
 
 
 REMOVE_DOC = os.getenv('REMOVE_DOC', 'False') == 'True'
 
-def main(input):
+def main(input, author, tags):
     if not input.parts[-1].endswith('.docx'):
         print(f'{input} is not docx, exiting')
         return
@@ -31,7 +35,7 @@ def main(input):
             '-o', output
     ])
 
-    post_id = pandoc_process.load_and_process(output)
+    post_id = pandoc_process.load_and_process(output, author, tags)
 
     subprocess.call([
         'mv',
@@ -55,5 +59,17 @@ def main(input):
         ])
 
 if __name__ == '__main__':
-    input = Path(sys.argv[1])
-    main(input)
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument('--input')
+    parser.add_argument('--author')
+    parser.add_argument('--tags')
+
+    args = parser.parse_args()
+
+    input = Path(args.input)
+    author = args.author
+    tags = args.tags.split(',')
+    tags = [t.lower().strip() for t in tags]
+
+    main(input, author, tags)
