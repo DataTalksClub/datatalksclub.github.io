@@ -44,11 +44,14 @@ jobs:
           sudo ln -s `which bash` /bin/gitbash
 
           for FILE in ${{ steps.files.outputs.added_modified }}; do
-            pipenv run python scripts/pandoc_full.py ${FILE}
+            pipenv run python scripts/pandoc_full.py \
+              --input ${FILE} \
+              --author "todo" \
+              --tags "todo"
           done
       - uses: EndBug/add-and-commit@v8
         with:
-          message: "Post: ${{ steps.generate.outputs.post-id}}"
+          message: "Post: ${{ steps.generate.outputs.post-id }}"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         id: cpr
