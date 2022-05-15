@@ -47,6 +47,7 @@ jobs:
         with: 
           assignees: alexeygrigorev
           branch: posts/${{ steps.generate.outputs.post-id}}
+          title: ${{ github.event.issue.title }}
       - name: Create comment
         uses: peter-evans/create-or-update-comment@v2
         with:
