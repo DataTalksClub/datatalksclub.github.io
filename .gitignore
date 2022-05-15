@@ -9,3 +9,4 @@
 /scripts/ubuntu-env/
 .envrc
 __pycache__/
+/scripts/tmp
