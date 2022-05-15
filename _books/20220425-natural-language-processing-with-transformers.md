@@ -16,7 +16,7 @@ links:
 - link: https://github.com/nlp-with-transformers
   text: GitHub repository
 start: 2022-04-25 00:00:00
-title: Natural Language Processing with 
+title: Natural Language Processing with Transformers
 
 archive:
 - name: leandro von werra
