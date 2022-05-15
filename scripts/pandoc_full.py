@@ -37,4 +37,7 @@ subprocess.call([
     'scripts/generate-post-preview.sh',
     post_id
 ])
-    
+
+subprocess.call([
+    'echo', f'::set-output name=post-id::{post_id}'
+])
