@@ -6,6 +6,9 @@ jobs:
   generate_all:
     runs-on: "ubuntu-latest"
     steps:
+      - name: context
+        run: |
+          echo ${{ toJson(github) }}
       - name: install chromium
         run: |
           sudo apt-get update
@@ -31,8 +34,19 @@ jobs:
           sudo ln -s `which bash` /bin/gitbash
           mkdir tmp
           wget https://github.com/DataTalksClub/datatalksclub.github.io/files/8694739/document.docx -O tmp/document.docx
-          python script/pandoc_full.py tmp/document.docx
+          python scripts/pandoc_full.py tmp/document.docx
       - run: |
           ls
           git status
-      # - uses: EndBug/add-and-commit@v8
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with: 
+          assignees: alexeygrigorev
+      - name: Create comment
+        uses: peter-evans/create-or-update-comment@v2
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            Created PR: #${{ steps.cpr.outputs.pull-request-number }}"
+
+        
