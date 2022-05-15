@@ -14,3 +14,6 @@ all: people books podcast events
 
 run:
 	bundle exec jekyll serve
+
+runinc:
+	bundle exec jekyll serve --incremental
