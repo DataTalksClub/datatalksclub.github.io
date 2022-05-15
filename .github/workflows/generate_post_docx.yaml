@@ -26,6 +26,9 @@ jobs:
         run: |
           (cd previews && \
             PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true npm install)
+      - name: install pandoc
+        run: |
+          sudo apt-get install -y pandoc
       - name: make all
         run: |
           sudo ln -s `which bash` /bin/gitbash
