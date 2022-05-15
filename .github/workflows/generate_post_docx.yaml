@@ -4,7 +4,7 @@ on:
     paths:
       - '_docx/*.docx'
 jobs:
-  generate_all:
+  generate-doc:
     runs-on: "ubuntu-latest"
     steps:
       - name: install chromium
@@ -19,6 +19,8 @@ jobs:
         with:
           python-version: '3.9'
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - id: files
         uses: jitterbit/get-changed-files@v1
       - name: pipenv install
@@ -41,16 +43,15 @@ jobs:
         run: |
           sudo ln -s `which bash` /bin/gitbash
 
-          for FILE in ${{ steps.files.outputs.all }}; do
+          for FILE in ${{ steps.files.outputs.added_modified }}; do
             pipenv run python scripts/pandoc_full.py ${FILE}
           done
       - uses: EndBug/add-and-commit@v8
+        with:
+          message: "Post: ${{ steps.generate.outputs.post-id}}"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         id: cpr
         with:
           assignees: alexeygrigorev
-          commit-message: "Post: ${{ steps.generate.outputs.post-id}}"
-          title: "Post: ${{ github.event.issue.title }}"
-
-        
+          title: "Post: ${{ github.event.issue.title }}"        
