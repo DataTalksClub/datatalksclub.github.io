@@ -14,6 +14,11 @@ exclude:
   - scripts/
   - env/
   - .github/
+  - _docx
+  - Pipfile
+  - Pipfile.lock
+  - Makefile
+  - .gitignore
 
 
 collections:

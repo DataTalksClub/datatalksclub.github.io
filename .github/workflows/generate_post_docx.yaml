@@ -1,7 +1,8 @@
 name: generate_post_doc
 on:
-  issues:
-    types: [opened, edited]
+  push:
+    paths:
+      - '_docx/*.docx'
 jobs:
   generate_all:
     runs-on: "ubuntu-latest"
@@ -18,6 +19,8 @@ jobs:
         with:
           python-version: '3.9'
       - uses: actions/checkout@v2
+      - id: files
+        uses: jitterbit/get-changed-files@v1
       - name: pipenv install
         run: |
           pip install pipenv
@@ -33,26 +36,21 @@ jobs:
           rm pandoc.deb
       - name: Generate files
         id: generate
+        env:
+          REMOVE_DOC: True
         run: |
           sudo ln -s `which bash` /bin/gitbash
-          mkdir tmp
-          wget https://github.com/DataTalksClub/datatalksclub.github.io/files/8694739/document.docx -O tmp/document.docx
-          pipenv run python scripts/pandoc_full.py tmp/document.docx
-      - run: |
-          ls
-          git status
+
+          for FILE in ${{ steps.files.outputs.all }}; do
+            pipenv run python scripts/pandoc_full.py ${FILE}
+          done
+      - uses: EndBug/add-and-commit@v8
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         id: cpr
-        with: 
-          assignees: alexeygrigorev
-          branch: posts/${{ steps.generate.outputs.post-id}}
-          title: ${{ github.event.issue.title }}
-      - name: Create comment
-        uses: peter-evans/create-or-update-comment@v2
         with:
-          issue-number: ${{ github.event.issue.number }}
-          body: |
-            Created PR: #${{ steps.cpr.outputs.pull-request-number }}
+          assignees: alexeygrigorev
+          commit-message: "Post: ${{ steps.generate.outputs.post-id}}"
+          title: "Post: ${{ github.event.issue.title }}"
 
         
