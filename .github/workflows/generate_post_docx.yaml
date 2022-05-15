@@ -6,9 +6,6 @@ jobs:
   generate_all:
     runs-on: "ubuntu-latest"
     steps:
-      - name: context
-        run: |
-          echo ${{ toJson(github) }}
       - name: install chromium
         run: |
           sudo apt-get update
