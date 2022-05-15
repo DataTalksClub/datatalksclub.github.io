@@ -28,7 +28,9 @@ jobs:
             PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true npm install)
       - name: install pandoc
         run: |
-          sudo apt-get install -y pandoc
+          wget https://github.com/jgm/pandoc/releases/download/2.18/pandoc-2.18-1-amd64.deb -O pandoc.deb
+          sudo dpkg -i pandoc.deb
+          rm pandoc.deb
       - name: make all
         run: |
           sudo ln -s `which bash` /bin/gitbash
