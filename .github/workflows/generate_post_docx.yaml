@@ -31,7 +31,7 @@ jobs:
           sudo ln -s `which bash` /bin/gitbash
           mkdir tmp
           wget https://github.com/DataTalksClub/datatalksclub.github.io/files/8694739/document.docx -O tmp/document.docx
-          python scripts/pandoc_full.py tmp/document.docx
+          pipenv run python scripts/pandoc_full.py tmp/document.docx
       - run: |
           ls
           git status
