@@ -21,7 +21,7 @@ re_scr = re.compile('src="(.+?)"')
 
 figure_template = """
 <figure>
-    {img}
+{img}
 <figcaption></figcaption>
 </figure>
 """.strip()
@@ -75,7 +75,7 @@ def load_and_process(document_path):
 
     post.content = '\n'.join(result)
 
-    post_path = Path(f'../_posts/{post_id}.md')
+    post_path = Path(f'_posts/{post_id}.md')
 
     with post_path.open('wb') as f_out:
         frontmatter.dump(post, f_out)

@@ -1,0 +1,38 @@
+name: generate_post_doc
+on:
+  issues:
+    types: [opened, edited]
+jobs:
+  generate_all:
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: install chromium
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser libxss1 \
+              fonts-ipafont-gothic fonts-wqy-zenhei \
+              fonts-thai-tlwg fonts-kacst fonts-freefont-ttf \
+              --no-install-recommends
+      - run: chromium-browser --version
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - uses: actions/checkout@v2
+      - name: pipenv install
+        run: |
+          pip install pipenv
+          pipenv install
+      - name: npm install
+        run: |
+          (cd previews && \
+            PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true npm install)
+      - name: make all
+        run: |
+          sudo ln -s `which bash` /bin/gitbash
+          mkdir tmp
+          wget https://github.com/DataTalksClub/datatalksclub.github.io/files/8694739/document.docx -O tmp/document.docx
+          python script/pandoc_full.py tmp/document.docx
+      - run: |
+          ls
+          git status
+      # - uses: EndBug/add-and-commit@v8
