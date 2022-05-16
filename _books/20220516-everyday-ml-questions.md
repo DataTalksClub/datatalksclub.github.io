@@ -7,8 +7,10 @@ description: Book of the Week. Everyday ML Questions by Santiago Valdarrama and 
 end: 2022-05-20 23:59:59
 image: images/books/20220516-everyday-ml-questions/preview.jpg
 links:
-- link: https://bnomial.gumroad.com/l/2204
+- link: https://gumroad.com/a/850109555/yjbkr
   text: Book's page
+- link: https://bnomial.gumroad.com/l/bnomial
+  text: Bnomial subscription
 start: 2022-05-16 00:00:00
 title: Everyday ML Questions
 ---
