@@ -1,8 +1,9 @@
 ---
 authors:
 - svpino
+- vladimirhaltakov
 cover: images/books/20220516-everyday-ml-questions/cover.jpg
-description: Book of the Week. Everyday ML Questions by Santiago Valdarrama
+description: Book of the Week. Everyday ML Questions by Santiago Valdarrama and Vladimir Haltakov
 end: 2022-05-20 23:59:59
 image: images/books/20220516-everyday-ml-questions/preview.jpg
 links:
