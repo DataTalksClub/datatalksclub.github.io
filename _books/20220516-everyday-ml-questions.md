@@ -9,7 +9,7 @@ image: images/books/20220516-everyday-ml-questions/preview.jpg
 links:
 - link: https://gumroad.com/a/850109555/yjbkr
   text: Book's page
-- link: https://bnomial.gumroad.com/l/bnomial
+- link: https://gumroad.com/a/313238643/alehb
   text: Bnomial subscription
 start: 2022-05-16 00:00:00
 title: Everyday ML Questions
