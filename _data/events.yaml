@@ -11,6 +11,7 @@
   speakers: [misraturp]
   type: podcast
   link: https://eventbrite.com/e/332507347427
+  youtube:
 
 
 - time: 2022-05-13 17:00:00
@@ -26,6 +27,7 @@
   speakers: [daynancrull]
   type: podcast
   link: https://eventbrite.com/e/334229247677
+  youtube: https://www.youtube.com/watch?v=YxijEUoDCfw
 
 
 - time: 2022-08-02 17:00:00
@@ -1107,7 +1109,8 @@
   season: 2
   episode: 3
 - time: 2021-01-26 17:00:00
-  title: Using Machine Learning for Customer Service
+  title: 
+  Machine Learning for Customer Service
   speakers: [neallathia]
   type: webinar
   link: https://eventbrite.com/e/137867506423
