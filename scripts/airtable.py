@@ -270,6 +270,10 @@ def find_matching_podcasts_youtube(youtube_id):
     with open('./_data/events.yaml') as f_in:
         events = yaml.load(f_in, Loader=yaml.SafeLoader)
 
+    with open('./_data/events_extra.yaml') as f_in:
+        events_extra = yaml.load(f_in, Loader=yaml.SafeLoader)
+        events.extend(events_extra)
+
     print(f'found {len(events)} events')
 
     matches = []
