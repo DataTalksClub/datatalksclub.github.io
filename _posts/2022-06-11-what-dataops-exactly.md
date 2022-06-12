@@ -16,8 +16,10 @@ title: What is DataOps exactly?
 
 <figure>
 <img src="/images/posts/2022-06-11-what-dataops-exactly/image3.jpg"  />
-<figcaption></figcaption>
-</figure>Photo by [fabio](https://unsplash.com/@fabioha?utm_source=medium&utm_medium=referral){:_target="_blank"} on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral){:_target="_blank"}
+<figcaption>
+Photo by <a href="https://unsplash.com/@fabioha?utm_source=medium&amp;utm_medium=referral" target="_blank">fabio</a> on <a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" target="_blank">Unsplash</a>
+</figcaption>
+</figure>
 
 It’s hard to overstate the importance of data in modern enterprises. As a new practice, DataOps is aimed at helping organizations overcome obstacles in their data analytics processes. **But what exactly is this emerging practice, and how can it help businesses better leverage their data?** In this article, we’ll explore how important DataOps has become by looking at its various aspects and examining the ways it complements other DevOps and MLOps practices.
 
@@ -62,7 +64,7 @@ DataOps involves the following seven steps:
 <figure>
 <img src="/images/posts/2022-06-11-what-dataops-exactly/image1.png"  />
 <figcaption></figcaption>
-</figure>Image by Author
+</figure>
 
 -   **Add data to logic tests,** to move from DevOps to DataOps.
 
