@@ -19,7 +19,8 @@ You will receive an invite link. Click on it to finish registration in
 Slack.
 
 If you haven't received an invite, or the invite link doesn't work,
-write to alexey@datatalks.club, and we'll add you to Slack manually.
+[fill in this form](https://airtable.com/shrhUBN51Jy10fjJq){:target="_blank"}
+and we'll add you to Slack manually. We check the form once per day.
 
 When participating in discussions, follow [our community guidelines](/slack/guidelines.html).
 
