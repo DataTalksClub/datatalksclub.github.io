@@ -3,7 +3,7 @@ short: olgaivina
 title: "Olga Ivina"
 picture: "images/authors/olgaivina.jpg"
 github: olgaivina
-
+twitter: olgaivina
 linkedin: olgaivina
 
 ---
