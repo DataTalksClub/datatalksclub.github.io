@@ -8,4 +8,4 @@ linkedin: zhamak-dehghani
 
 ---
 
-Zhamak Dehghani is a director of technology at ThoughtWorks, focusing on distributed systems architecture --- big data and operational systems -- in the enterprise. She’s a member of the company’s Technology Advisory Board and contributes to the creation of ThoughtWorks’s Technology Radar. She is an advocate for decentralization of all things - architecture, data and ultimately power. She is the founder of data mesh.
+Zhamak Dehghani is a director of technology at Thoughtworks, focusing on distributed systems and data architecture in the enterprise. She’s a member of multiple technology advisory boards including Thoughtworks. Zhamak is an advocate for the decentralization of all things, including architecture, data, and ultimately power. She is the founder of data mesh.
