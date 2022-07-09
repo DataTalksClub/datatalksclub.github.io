@@ -56,6 +56,7 @@ Thread best practices:
 * If your question contains multiple questions, make sure to break them into multiple messages, so each could be answered in a separate thread.
 
 Avoid meta-questions. Meta questions are questions about asking questions.
+[Don't ask to ask, just ask](https://dontasktoask.com/){:target="_blank"}.
 
 Examples:
 
@@ -66,6 +67,7 @@ Examples:
 * Has anyone done Machine Learning Zoomcamp? I have a question about it.
   * Just ask the question. If somebody has done it, they'll answer.
   * The same applies to books and anything else.
+
 
 
 Some other tips:
