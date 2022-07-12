@@ -80,7 +80,7 @@ DataOps involves the following seven steps:
 
 -   **Process Parameterization**, to make your software pipeline flexible to changes.
 
-You can find more information about the seven steps of DataOps at [this link](https://em360tech.com/sites/default/files/2020-07/Data-Kitchen_WP_7Steps_710816A_LR.pdf){:_target="_blank"}.
+You can find more information about the seven steps of DataOps at [this link](https://em360tech.com/sites/default/files/2020-07/Data-Kitchen_WP_7Steps_710816A_LR.pdf){:target="_blank"}.
 
 To run your tests, you could use tools such as Great Expectations to run your tests in ways that are simple. However, you can also write tests on your own, in a lot of ways that are pretty simple. For example, you can do row count checks, or you can write SQL queries to do the tests.
 
@@ -139,7 +139,7 @@ There are four types of DataOps tools:
 
 -   **Case-Specific Tools**, which focus on specific domains.
 
-Some popular tools for DataOps include [Great Expectations](https://greatexpectations.io/){:_target="_blank"}, [Dataform assertions](https://dataform.co/blog/data-assertions){:_target="_blank"}, [Monte Carlo](https://www.montecarlodata.com/){:_target="_blank"}, and [dbt tests](https://docs.getdbt.com/docs/building-a-dbt-project/tests){:_target="_blank"}.
+Some popular tools for DataOps include [Great Expectations](https://greatexpectations.io/){:target="_blank"}, [Dataform assertions](https://dataform.co/blog/data-assertions){:target="_blank"}, [Monte Carlo](https://www.montecarlodata.com/){:target="_blank"}, and [dbt tests](https://docs.getdbt.com/docs/building-a-dbt-project/tests){:target="_blank"}.
 
 ## Summary
 
@@ -149,4 +149,4 @@ The DataOps approach can be a powerful tool for any company, and it’s worth ta
 
 It’s about building a culture where everyone, from engineers to data scientists, works together with their stakeholders in order to produce data-driven results faster and more efficiently.
 
-The content of this article has been inspired by the podcast episode [Storytime for DataOps](https://datatalks.club/podcast/s08e05-storytime-for-dataops.html#the-essence-of-dataops){:_target="_blank"} with Christopher Bergh at DataTalks.Club.
+The content of this article has been inspired by the podcast episode [Storytime for DataOps](https://datatalks.club/podcast/s08e05-storytime-for-dataops.html#the-essence-of-dataops){:target="_blank"} with Christopher Bergh at DataTalks.Club.

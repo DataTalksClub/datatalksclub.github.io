@@ -83,11 +83,11 @@ The MLOps workflow should consider **model maintenance**, which includes the pre
 
 Monitoring in the space of DevOps is very important. But in MLOps is even more important, because it should be able to trigger a retrain action.
 
-In DevOps monitoring, you should have logs, system metrics, and business-specific metrics. The most popular tools to monitor your DevOps workflow are [Prometheus](https://prometheus.io/docs/introduction/overview/){:_target="_blank"} and [Grafana](https://grafana.com/grafana/?plcmt=footer){:_target="_blank"}.
+In DevOps monitoring, you should have logs, system metrics, and business-specific metrics. The most popular tools to monitor your DevOps workflow are [Prometheus](https://prometheus.io/docs/introduction/overview/){:target="_blank"} and [Grafana](https://grafana.com/grafana/?plcmt=footer){:target="_blank"}.
 
 In MLOps you continue to monitor the classical metrics already defined for DevOps. But you should also monitor other metrics, including data and concept drift, model accuracy, adversarial attacks to your model, fairness detection, and so on. As a monitoring tool, you could continue to use Prometheus, but you should extend it with new components for the specific task.
 
-As additional (or specific monitoring tools), you can use some experimentation platforms, which permit you to track, monitor, and compare your experiments, as well as choose the best model to send to production. Some of the most popular tools in this field include [Comet](https://comet.ml/){:_target="_blank"}, [MLflow](https://mlflow.org/){:_target="_blank"}, and [Neptune](https://neptune.ai/){:_target="_blank"}.
+As additional (or specific monitoring tools), you can use some experimentation platforms, which permit you to track, monitor, and compare your experiments, as well as choose the best model to send to production. Some of the most popular tools in this field include [Comet](https://comet.ml/){:target="_blank"}, [MLflow](https://mlflow.org/){:target="_blank"}, and [Neptune](https://neptune.ai/){:target="_blank"}.
 
 Monitoring DevOps and MLOps should help to identify abnormal situations that call to action. **In an ideal situation, all actions should be performed automatically.**
 
@@ -163,6 +163,6 @@ DevOps and MLOps share many things in common, but they also have many difference
 
 Both in DevOps and in MLOps the mentality is the same and is based on the principle of automating all processes as much as possible, in order to move **from people to technology**.
 
-This text was freely inspired by the interview with Theofilos Papapanagiotou and Alexey Grigorev, entitled The Rise of MLOps, and available in the [DataTalks.Club](https://datatalks.club/podcast/s02e04-mlops.html){:_target="_blank"} website as a podcast.
+This text was freely inspired by the interview with Theofilos Papapanagiotou and Alexey Grigorev, entitled The Rise of MLOps, and available in the [DataTalks.Club](https://datatalks.club/podcast/s02e04-mlops.html){:target="_blank"} website as a podcast.
 
-If you have read this far, maybe you’d be interested to know that DataTalks.Club is running a free course about MLOps. You can find out more about it [here](https://github.com/DataTalksClub/mlops-zoomcamp){:_target="_blank"}!
+If you have read this far, maybe you’d be interested to know that DataTalks.Club is running a free course about MLOps. You can find out more about it [here](https://github.com/DataTalksClub/mlops-zoomcamp){:target="_blank"}!
