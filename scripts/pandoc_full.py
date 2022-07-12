@@ -1,5 +1,4 @@
 import os
-import sys
 import subprocess
 import argparse
 
@@ -8,8 +7,8 @@ from pathlib import Path
 import pandoc_process
 
 
-
 REMOVE_DOC = os.getenv('REMOVE_DOC', 'False') == 'True'
+
 
 def main(input, author, tags):
     if not input.parts[-1].endswith('.docx'):
@@ -57,6 +56,7 @@ def main(input, author, tags):
         subprocess.call([
             'git', 'rm', {input}
         ])
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()

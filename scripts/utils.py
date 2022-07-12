@@ -21,6 +21,7 @@ def slugify_name(name):
     slug = unidecode.unidecode(slug)
     return slug
 
+
 stopwords = {'am', 'is', 'are', 'the', 'a', 'an'}
 
 def slugify_title(title):
@@ -33,6 +34,11 @@ def slugify_title(title):
     res = res.replace("'", '')
     res = res.replace(':', '')
     res = res.replace('?', '')
+    res = res.replace('<', '')
+    res = res.replace('>', '')
+    res = res.replace('\\', '')
+    res = res.replace('/', '')
+
     res = unidecode.unidecode(res)
     return res
 

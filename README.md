@@ -46,7 +46,7 @@ pipenv run python scripts/create.py
 
 ```bash
 python scripts/pandoc_full.py \
-    --input ~/Downloads/devops-vs-mlops.docx \
+    --input ~/Downloads/template.docx \
     --author angelicaloduca \
     --tags "mlops,devops,process"
 ```

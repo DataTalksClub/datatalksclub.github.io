@@ -9,7 +9,7 @@ from pathlib import Path
 
 import utils
 
-today = datetime.today().strftime('%Y-%m-%d')
+
 
 re_span = re.compile('<span.+</span>')
 re_md_links = re.compile(r'(\[.+?\]\(http.+?\))')
@@ -27,18 +27,22 @@ figure_template = """
 """.strip()
 
 
-def load_and_process(document_path, author, tags):
-    post = frontmatter.load(document_path)
+def clean_title(title):
+    title = re_span.sub('', title)  
+    title = title.replace('\<', '<')
+    title = title.replace('\>', '>')
+    return title
 
-    post['title'] = re_span.sub('', post['title'])
-    post['subtitle'] = re_span.sub('', post['subtitle'])
 
-    title = utils.slugify_title(post['title'])
+def create_post_id(title):
+    title = utils.slugify_title(title)
+    today = datetime.today().strftime('%Y-%m-%d')
     post_id = f'{today}-{title}'
+    return post_id
 
-    content = post.content
-
-    content, _ = re_md_links.subn(r'\1{:_target="_blank"}', content)
+def prepare_content(post_id, content):
+    
+    content, _ = re_md_links.subn(r'\1{:target="_blank"}', content)
 
     def replace_path(m):
         src = m.group(1)
@@ -51,8 +55,6 @@ def load_and_process(document_path, author, tags):
         img = re_style.sub('', img)
         img = re_scr.sub(replace_path, img)
         return figure_template.format(img=img)
-
-    content, _ = re_md_links.subn(r'\1{:_target="_blank"}', post.content)
 
     result = []
 
@@ -67,13 +69,23 @@ def load_and_process(document_path, author, tags):
         
         result.append(line)
 
+    return '\n'.join(result)
+
+
+def load_and_process(document_path, author, tags):
+    post = frontmatter.load(document_path)
+
+    post['title'] = clean_title(post['title'])
+    post['subtitle'] = clean_title(post['subtitle'])
+
+    post_id = create_post_id(post['title'])
+    post.content = prepare_content(post_id, post.content)
+
     post['layout'] = 'post'
     post['description'] = post['subtitle']
     post['image'] = f'images/posts/{post_id}/cover.jpg'
     post['authors'] = [author]
     post['tags'] = tags
-
-    post.content = '\n'.join(result)
 
     post_path = Path(f'_posts/{post_id}.md')
 
