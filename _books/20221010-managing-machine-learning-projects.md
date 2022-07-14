@@ -6,7 +6,7 @@ description: Book of the Week. Managing Machine Learning Projects by Simon Thomp
 end: 2022-10-14 23:59:59
 image: images/books/20221010-managing-machine-learning-projects/preview.jpg
 links:
-- link: https://www.manning.com/books/managing-machine-learning-projects?utm_source=social_media&utm_medium=int_influencer&utm_campaign=book_thompson_managing_6_14_22
+- link: http://mng.bz/Dg6R
   text: Book's page
 start: 2022-10-10 00:00:00
 title: Managing Machine Learning Projects
