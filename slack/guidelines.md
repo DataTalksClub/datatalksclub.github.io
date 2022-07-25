@@ -120,7 +120,7 @@ for that:
 Don’t use other channels for that - they will be removed without a warning. Repeated violations will result in a ban.
 
 
-### Surveys and feedback on your product
+### Surveys, product discovery and feedback on your product
 
 Messages that ask the community for feedback on your product are considered promotional as well
 and should be posted in `#shameless-promotion`
@@ -160,6 +160,7 @@ Examples of not relevant promotional messages:
 * COVID surveys for $5 
 * Coupon codes for lawn mowers or pizzas 
 * Photoshop alternatives
+* Tools for sales 
 
 Such messages will be removed without a warning
 
