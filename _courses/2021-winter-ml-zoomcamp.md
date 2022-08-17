@@ -213,7 +213,7 @@ Don't forget to [register in Slack](/slack.html){:target="_blank"} and join [#co
 &nbsp;
 
 <center>
-<a href="https://airtable.com/shr6Gz46UZCgJ9l6w" target="_blank" class="btn btn-secondary btn-lg my-3">Register here</a>
+<a href="https://airtable.com/shryxwLd0COOEaqXo" target="_blank" class="btn btn-secondary btn-lg my-3">Register here</a>
 </center>
 
 &nbsp;
