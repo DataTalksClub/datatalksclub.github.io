@@ -1,6 +1,6 @@
 ---
 short: christiannswart
-title: "Christiann Swart"
+title: "Christiaan Swart"
 picture: "images/authors/christiannswart.jpg"
 github: swartchris8
 twitter: swartchris8
