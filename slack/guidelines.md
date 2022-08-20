@@ -152,15 +152,17 @@ CVs in DMs is also considered unsolicited promotion, and the same rules apply.
 
 ### Non-relevant promotions
 
-The promotional content you share must be relevant for the community - i.e. it should be related to date.
-If it's not relevant, don't post them.
+The promotional content must be relevant for the community. It should be related to data.
+If it's not relevant, don't post it.
 
-Examples of not relevant promotional messages:
+Examples of content not relevant for this community:
 
 * COVID surveys for $5 
 * Coupon codes for lawn mowers or pizzas 
 * Photoshop alternatives
+* Databases with contact information
 * Tools for sales 
+
 
 Such messages will be removed without a warning
 
