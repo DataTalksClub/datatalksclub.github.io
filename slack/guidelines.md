@@ -17,11 +17,12 @@ To make our discussion more organized, we need to follow community guidelines.
 Table of contents:
 
 * [Code of conduct](#code-of-conduct)
-* [Taking part in discussions](#taking-part-in-discussions)
 * [Channels](#channels)
-* [Promotion](#promotion)
+* [Taking part in discussions](#taking-part-in-discussions)
+* [Asking for help](#asking-for-help)
+* [Promoting your product and content](#promotion)
 * [Jobs](#jobs)
-* [Homework help](#homework-help)
+
 
 
 ## Code of conduct
@@ -35,47 +36,6 @@ Some examples of inappropriate behaviour:
 * Judging the question or the person asking the question ("this is a stupid questions and everyone who can read docs knows the answer")
 * Soliciting any kind of personal information (such as marital status, sexual orientation, phone number, address, etc)
 * Continued one-on-one communication after requests to cease
-
-
-## Taking part in discussions
-
-Do not double post — select the best channel for your message and post it only once.
-
-Avoid asking questions in DM. If you ask your question in a public channel,
-others will also benefit from the answers.
-
-[Use threads](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-).
-They help to keep the discussions more organized.
-
-Thread best practices:
-
-* Don't break your question into multuple messages. Put everything in one.
-* For long questions, write a few sentences in the first message, and put the rest in a thread. 
-* If there's a code snippet (more than 5 lines of code), put it inside the thread.
-* Avoid using the “also send to channel” feature unless it’s really necessary.
-* If your question contains multiple questions, make sure to break them into multiple messages, so each could be answered in a separate thread.
-
-Avoid meta-questions. Meta questions are questions about asking questions.
-[Don't ask to ask, just ask](https://dontasktoask.com/){:target="_blank"}.
-
-Examples:
-
-* Can I ask a question about data science here?
-  * Yes, you can! That's the reason this slack exists!
-* Is there anyone who knows marketing? I have a question about it.
-  * Yes. Just ask your question about marketing - or anything else - directly.
-* Has anyone done Machine Learning Zoomcamp? I have a question about it.
-  * Just ask the question. If somebody has done it, they'll answer.
-  * The same applies to books and anything else.
-
-
-
-Some other tips:
-
-* If you want to start a discussion, don't just share a link and expect others to jump in. Share your thoughs and have a clear question in your message. 
-  * "Any thoughts on this?" is not a clear question.
-* Be consice in your questions if possible. Not everyone likes to read a lot of text.
-* Don't delete your question after you received an answer. It will also help others who might have a similar problem. 
 
 
 ## Channels
@@ -105,6 +65,81 @@ Other channels:
 * `#random` – for chit-chat about pretty much anything
 
 This is not a complete list of channels. To check the list of all the available channels, use this: [https://slack.com/intl/en-de/help/articles/205239967-Join-a-channel](https://slack.com/intl/en-de/help/articles/205239967-Join-a-channel) 
+
+
+
+## Taking part in discussions
+
+* Do not double post — select the best channel for your message and post it only once.
+* Avoid asking questions in DM. If you ask your question in a public channel,
+  others will also benefit from the answers.
+* [Use threads](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-).
+  They help to keep the discussions more organized.
+
+Thread best practices:
+
+* Don't break your question into multuple messages. Put everything in one.
+* For long questions, write a few sentences in the first message, and put the rest in a thread. 
+* If there's a code snippet (more than 5 lines of code), put it inside the thread.
+* Avoid using the “also send to channel” feature unless it’s really necessary.
+* If your question contains multiple questions, make sure to break them into multiple messages, so each could be answered in a separate thread.
+
+Some other tips:
+
+* If you want to start a discussion, don't just share a link and expect others to jump in. Share your thoughs and have a clear question in your message. 
+  * "Any thoughts on this?" is not a clear question.
+* Be consice in your questions if possible. Not everyone likes to read a lot of text.
+* Don't delete your question after you received an answer. It will also help others who might have a similar problem. 
+
+
+## Asking for help
+
+If you get stuck, our Slack is the right place to ask for help. To make it easier to help you,
+please follow these suggestions.
+
+### Avoid meta questions
+
+Avoid meta-questions. Meta questions are questions about asking questions.
+[Don't ask to ask, just ask](https://dontasktoask.com/){:target="_blank"}.
+
+Examples:
+
+* Can I ask a question about data science here?
+  * Yes, you can! That's the reason this Slack exists!
+* Is there anyone who knows marketing? I have a question about it.
+  * Yes. Just ask your question about marketing - or anything else - directly.
+* Has anyone done Machine Learning Zoomcamp? I have a question about it.
+  * Just ask the question. If somebody has done it, they'll answer.
+  * The same applies to books and anything else.
+
+
+### Code problems and errors
+
+When something doesn't work and you need help figuring it out, we'll be happy to help. 
+Please follow these recommendations:
+
+* Use threads. When you have a problem, first describe the problem shortly
+  and then put the actual error in the thread - so it doesn't take the entire screen.
+* Don't take screenshots of your code or terminal. Instead, it's better to copy-paste the error
+  you're getting in text. Use ` ``` ` for formatting your code.
+  It's very difficult to read text from screenshots.
+* Please don't take pictures of your code with a phone. It's even harder to read. Follow the previous suggestion,
+  and in rare cases when you need to show what happens on your screen, take a screenshot.
+
+
+### Homework help
+
+In general, we’d be happy to help with your homework, provided that you show genuine effort from
+your side and you are clear about the source of your question.
+
+A few suggestions:
+
+* Don't just copy-paste an exercise and expect others to jump in and solve it for you.
+  If you do it, don’t be surprised if nobody answers.
+* To increase your chances of getting an answer,
+  consult [this answer from StackOverflow](https://meta.stackoverflow.com/questions/334822/how-do-i-ask-and-answer-homework-questions).
+
+The same applies to interview take-home assignments. We’re happy to help, but be transparent about it.
 
 
 ## Promotion
@@ -196,14 +231,3 @@ Examples of not relevant positions:
 
 * Accountants and bookkeepers
 
-
-## Homework help
-
-In general, we’d be happy to help with your homework, provided that you show genuine effort from
-your side and you are clear about the source of your question.
-
-Copy-pasting an exercise and expecting others to jump in and solve it for you might be
-a long shot — don’t be surprised if nobody answers. To increase your chances of getting an answer,
-consult [this answer from StackOverflow](https://meta.stackoverflow.com/questions/334822/how-do-i-ask-and-answer-homework-questions).
-
-The same applies to interview take-home assignments. We’re happy to help, but be transparent about it.
