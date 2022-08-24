@@ -100,4 +100,5 @@ Machine Learning Zoomcamp is open for registrations. Sign up [here](http://mlzoo
 
 &nbsp;
 
-<b>About delphai</b>: delphai collects public company data all over the internet and uses ML and AI to make it searchable and usable for our customers.
+<b>About delphai</b>: delphai collects unstructured public company data all over the internet and then uses ML and AI
+to transform this unstructured data into a structured format to make it searchable and usable for our customers.
