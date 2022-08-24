@@ -96,3 +96,8 @@ Feel free to connect with me and contact me if you have any cool projects and op
 <div class="article-divider"></div>
 
 Machine Learning Zoomcamp is open for registrations. Sign up [here](http://mlzoomcamp.com/){:target="_blank"}.
+
+
+&nbsp;
+
+<b>About delphai</b>: delphai collects public company data all over the internet and uses ML and AI to make it searchable and usable for our customers.
