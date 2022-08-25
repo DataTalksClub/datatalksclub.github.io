@@ -14,3 +14,8 @@
   image: /images/partners/whylabs.png
   from: 2022-05-16 00:00:00
   to: 2023-05-16 00:00:00
+- name: "Arize AI"
+  link: https://arize.com/
+  image: /images/partners/arize.png
+  from: 2022-09-01 00:00:00
+  to: 2023-09-01 00:00:00
