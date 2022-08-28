@@ -3,6 +3,7 @@ import subprocess
 import argparse
 
 from pathlib import Path
+from typing import List
 
 import pandoc_process
 
@@ -10,52 +11,56 @@ import pandoc_process
 REMOVE_DOC = os.getenv('REMOVE_DOC', 'False') == 'True'
 
 
-def main(input, author, tags):
+def main(input: Path, author: str, tags: List[str]):
     if not input.parts[-1].endswith('.docx'):
         print(f'{input} is not docx, exiting')
         return
 
-    tmp = Path('tmp')
-    tmp.mkdir(parents=True, exist_ok=True)
+    output = input.with_suffix('.md')
 
-    output = tmp / 'document.md'
-    media = tmp / 'media'
+    media = input.with_suffix('')
+    media = media.with_name(media.name + '_media')
 
-    subprocess.call([
+    print(f'{input=}')
+    print(f'{output=}')
+    print(f'{media=}')
+
+    pandoc_command = [
         'pandoc',
             '-f', 'docx',
-            '-s', input,
+            '-s', str(input),
             '--to', 'gfm',
             '--markdown-headings=atx',
             '--wrap=none',
             '--columns=9999',
-            f'--extract-media={media}',
+            f'--extract-media={str(media)}',
             '--standalone',
-            '-o', output
-    ])
+            '-o', str(output)
+    ]
+
+    print('pandoc command:', ' '.join(pandoc_command))
+    subprocess.call(pandoc_command)
 
     post_id = pandoc_process.load_and_process(output, author, tags)
+    print(f'{post_id=}')
 
-    subprocess.call([
-        'mv',
-            media / 'media',
-            f'images/posts/{post_id}'
-    ])
+    mv_command = ['mv', str(media / 'media'), f'images/posts/{post_id}']
+    print('mv command:', ' '.join(mv_command))
+    subprocess.call(mv_command)
 
-    subprocess.call([
-        'gitbash',
-        'scripts/generate-post-preview.sh',
-        post_id
-    ])
+    generate_command = ['gitbash', 'scripts/generate-post-preview.sh', post_id]
+    subprocess.call(generate_command)
 
     subprocess.call([
         'echo', f'::set-output name=post-id::{post_id}'
     ])
 
+    print('removing all the termporaty files')
+    subprocess.call(['rm', '-r', output, media])
+
     if REMOVE_DOC == True:
-        subprocess.call([
-            'git', 'rm', {input}
-        ])
+        subprocess.call(['git', 'rm', input])
+        subprocess.call(['rm', '-f', input])
 
 
 if __name__ == '__main__':
