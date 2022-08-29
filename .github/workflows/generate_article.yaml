@@ -7,7 +7,7 @@ jobs:
   generate_article:
     runs-on: "ubuntu-latest"
     if: |
-      !github.event.issue.pull_request && 
+      !github.event.issue.pull_request &&
       contains(github.event.comment.body, '/generate')
     steps:
       - name: install chromium

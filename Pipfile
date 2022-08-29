@@ -13,6 +13,7 @@ Jinja2 = "==3.0.1"
 PyYAML = "==5.4.1"
 requests = "*"
 python-frontmatter = "*"
+markdown = "*"
 
 [dev-packages]
 

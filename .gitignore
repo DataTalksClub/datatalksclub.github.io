@@ -10,3 +10,4 @@
 .envrc
 __pycache__/
 /scripts/tmp
+.vscode/

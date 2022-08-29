@@ -3,15 +3,23 @@ import subprocess
 import argparse
 
 from pathlib import Path
+import sys
 from typing import List
 
 import pandoc_process
 
 
 REMOVE_DOC = os.getenv('REMOVE_DOC', 'False') == 'True'
+REMOVE_TMP = os.getenv('REMOVE_TMP', 'False') == 'True'
 
 
-def main(input: Path, author: str, tags: List[str]):
+def main(
+    input: Path,
+    author: str,
+    tags: List[str],
+    remove_source: bool = REMOVE_DOC,
+    remove_temporary: bool = REMOVE_TMP
+):
     if not input.parts[-1].endswith('.docx'):
         print(f'{input} is not docx, exiting')
         return
@@ -55,26 +63,38 @@ def main(input: Path, author: str, tags: List[str]):
         'echo', f'::set-output name=post-id::{post_id}'
     ])
 
-    print('removing all the termporaty files')
-    subprocess.call(['rm', '-r', output, media])
+    if remove_temporary:
+        print('removing all the termporaty files')
+        subprocess.call(['rm', '-r', output, media])
 
-    if REMOVE_DOC == True:
+    if remove_source:
+        print('removing the input source')
         subprocess.call(['git', 'rm', input])
         subprocess.call(['rm', '-f', input])
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
+    if len(sys.argv) > 1 and sys.argv[1] == '-i':
+        import questionary
+        
+        input = questionary.text("File:").ask()
+        author: str = questionary.text("Author:").ask()
+        author = author.replace(' ', '').strip().lower()
 
-    parser.add_argument('--input')
-    parser.add_argument('--author')
-    parser.add_argument('--tags')
+        tags_raw = questionary.text("Tags:").ask()
+        tags = tags_raw.replace(' ', '').strip().lower().split(',')
+    else:
+        parser = argparse.ArgumentParser()
 
-    args = parser.parse_args()
+        parser.add_argument('--input')
+        parser.add_argument('--author')
+        parser.add_argument('--tags')
 
-    input = Path(args.input)
-    author = args.author
-    tags = args.tags.split(',')
-    tags = [t.lower().strip() for t in tags]
+        args = parser.parse_args()
+
+        input = Path(args.input)
+        author = args.author
+        tags = args.tags.split(',')
+        tags = [t.lower().strip() for t in tags]
 
     main(input, author, tags)

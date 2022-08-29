@@ -2,10 +2,12 @@
 # coding: utf-8
 
 import re
-import frontmatter
-
+import functools
 from datetime import datetime
 from pathlib import Path
+
+import frontmatter
+import markdown
 
 import utils
 
@@ -22,7 +24,7 @@ re_scr = re.compile('src="(.+?)"')
 figure_template = """
 <figure>
 {img}
-<figcaption></figcaption>
+<figcaption>{caption}</figcaption>
 </figure>
 """.strip()
 
@@ -40,9 +42,8 @@ def create_post_id(title):
     post_id = f'{today}-{title}'
     return post_id
 
+
 def prepare_content(post_id, content):
-    
-    content, _ = re_md_links.subn(r'\1{:target="_blank"}', content)
 
     def replace_path(m):
         src = m.group(1)
@@ -50,26 +51,90 @@ def prepare_content(post_id, content):
         path = f'/images/posts/{post_id}/{name}'
         return f'src="{path}"'
 
-    def replace_image(m):
+    def replace_image(m, caption=''):
         img = m.group(0)
         img = re_style.sub('', img)
         img = re_scr.sub(replace_path, img)
-        return figure_template.format(img=img)
+        return figure_template.format(img=img, caption=caption)
 
     result = []
 
-    for line in content.split('\n'):
+    lines = content.split('\n')
+    num_lines = len(lines)
+
+    i = 0
+    while i < num_lines:
+        line = lines[i]
         line = line.replace('\u200a', ' ')
+
         if '<u>' in line:
             line = re_underline.sub(r'\1', line)
+            result.append(line)
+            i = i + 1
+            continue
+
         if '<img' in line:
-            line = re_img.sub(replace_image, line)
+            # print(f'{line=}')
+            # this line is an image, so the next line must be 
+            # the caption for the image 
+            next_line = ''
+
+            j = i + 1
+            while j < num_lines:
+                next_line_candidate = lines[j].strip()
+                if next_line_candidate.strip() != '':
+                    next_line = next_line_candidate
+                    break
+                j = j + 1
+
+            # print(f'{next_line=}')
+            next_line_html = markdown.markdown(next_line)
+            replace_image_caption = functools.partial(replace_image, caption=next_line_html)
+            line = re_img.sub(replace_image_caption, line)
+            result.append(line)
+            i = j + 1
+            continue
+
+            # print(f'result={line}')
+            # print()
+
+        if line.startswith('-'):
+            # print(f'{line=}')
+            j = i + 1
+            # this is enumeration, we don't want spaces there
+            while j < num_lines:
+                next_line = lines[j].strip()
+                # print(f'{next_line=}')
+                if next_line.strip() == '':
+                    j = j + 1
+                else:
+                    break
+
+            if not next_line.startswith('-'):
+                # the next line is not another list item, so let's add a linebreak
+                result.append(line)
+                result.append('\n')
+                i = j - 1
+            else:
+                result.append(line)
+                i = j
+
+            # print('')
+            continue
+            
         if line.startswith('#'):
             line = '#' + line
-        
-        result.append(line)
+            result.append(line)
+            i = i + 1
+            continue
 
-    return '\n'.join(result)
+        result.append(line)
+        i = i + 1
+
+    result = '\n'.join(result)
+    result, _ = re_md_links.subn(r'\1{:target="_blank"}', result)
+    return result
+
 
 
 def load_and_process(document_path, author, tags):

@@ -12,6 +12,9 @@ events:
 
 all: people books podcast events
 
+doc:
+	pipenv run python scripts/pandoc_google_doc.py -i
+
 run:
 	bundle exec jekyll serve
 
