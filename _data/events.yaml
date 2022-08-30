@@ -1,4 +1,11 @@
 
+- time: 2022-10-14 17:00:00
+  title: "From Data Science to DataOps"
+  speakers: [tomaszhinc]
+  type: podcast
+  link: https://eventbrite.com/e/409727625357
+
+
 - time: 2022-08-23 17:00:00
   title: "Feature Selection in Machine Learning with Python"
   speakers: [soledadgalli]
