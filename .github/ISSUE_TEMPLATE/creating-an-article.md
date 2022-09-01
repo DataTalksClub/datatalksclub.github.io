@@ -7,6 +7,7 @@ assignees: alexeygrigorev
 
 ---
 
-**Title**: <Name of the article> 
+**Title**: <Name of the article>
 **Google doc**: <Url of the google doc> (make sure it's public and open for comments)
 **Profile**: <Your handle in datatalks.club website> (don't have one? write "none yet")
+**Tags**: <Comma-separated tags, like "tag1,tag2">
