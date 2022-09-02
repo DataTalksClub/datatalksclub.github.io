@@ -28,6 +28,19 @@ body, html {
   margin-bottom: 3rem;
 }
 
+.content table {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.content th {
+  border-bottom: grey 0.5px solid;
+  border-top: grey 0.5px solid;
+}
+
+.content tr {
+  border-bottom: grey 0.5px solid;
+}
 
 @media (min-width: 768px) {
   .main-cta {
