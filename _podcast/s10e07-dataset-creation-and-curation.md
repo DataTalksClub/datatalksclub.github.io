@@ -1050,3 +1050,4 @@ Links:
 * [Comtura, my company](https://comtura.ai/){:target="_blank"}
 * [LI](https://www.linkedin.com/in/christiaan-swart-51a68967/){:target="_blank"}
 * [Twitter](https://twitter.com/swartchris8/){:target="_blank"}
+* [Workshop on Weak Supervision on Oct. 5 in Budapest](https://crunchconf.com/workshops/conference){:target="_blank"}
