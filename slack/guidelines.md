@@ -152,7 +152,11 @@ for that:
 * `#shameless-social` — for promoting your posts on social media
 * `#shameless-promotion` — for promoting other things
 
-Don’t use other channels for that - they will be removed without a warning. Repeated violations will result in a ban.
+To make sure the content you share is useful for the community members, we ask you to follow
+[shameless post templates](https://alexeygrigorev.notion.site/Shameless-channels-template-f565ac6aa2064f7190382f2ffd82c876). 
+
+Don’t use other channels for promoting your work. They will be removed without a warning and 
+repeated violations will result in a ban.
 
 
 ### Surveys, product discovery and feedback on your product
