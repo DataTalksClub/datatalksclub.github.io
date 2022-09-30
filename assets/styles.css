@@ -36,7 +36,13 @@ body, html {
 .content th {
   border-bottom: grey 0.5px solid;
   border-top: grey 0.5px solid;
+  padding: 0.3em;
 }
+
+.content td {
+  padding: 0.3em;
+}
+
 
 .content tr {
   border-bottom: grey 0.5px solid;
