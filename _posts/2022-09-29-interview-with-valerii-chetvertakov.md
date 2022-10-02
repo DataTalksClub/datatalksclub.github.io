@@ -36,7 +36,7 @@ I had to apply various statistical and regression approaches in property valuati
 
 <figure>
 <img src="/images/posts/2022-09-29-interview-with-valerii-chetvertakov/image5.png"  />
-<figcaption><p>When doing property valuation, we need to take into account a lot of features</p></figcaption>
+<figcaption><p>When doing property valuation, we need to take into account a lot of features (Image generated with DALL-E)</p></figcaption>
 </figure>
 
 At some point, the capabilities of Microsoft Excel became insufficient for me to analyse the data and build statistical and regression models. Then I learned about Python and Machine Learning.
@@ -51,7 +51,7 @@ Next, I found a mentor, Artem Gruzdev from Moscow, who helped me to sort through
 
 <figure>
 <img src="/images/posts/2022-09-29-interview-with-valerii-chetvertakov/image3.png"  />
-<figcaption><p>Having a mentor can help move forward</p></figcaption>
+<figcaption><p>Having a mentor can help move forward (Image generated with DALL-E)</p></figcaption>
 </figure>
 
 Additionally, I attended many online courses, read/watched many tutorials, and studied some books. After a year of such self-education and with the help of my mentor, I planned a dedicated path and began to choose courses more wisely.
