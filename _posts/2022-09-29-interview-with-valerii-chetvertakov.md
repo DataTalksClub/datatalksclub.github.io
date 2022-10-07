@@ -71,7 +71,7 @@ While studying Computer Vision with Deep Learning, I wanted to refresh my ML kno
 
 **What do you do now? Can you tell us more about the internship that you got and the work you needed to do?**
 
-Thanks to **ML Zoomcamp,** I got an internship at an AI start-up, **delphai*, ***that is focused on extracting, analysing, and structuring firmographic data.
+Thanks to **ML Zoomcamp**, I got an internship at an AI start-up, **delphai**, that is focused on extracting, analysing, and structuring firmographic data.
 
 My internship project was to extract information from texts. I worked on detection and extraction of business relations between companies. The task is, given a sentence and a pair of tagged entities, to predict the relation between those entities and the direction of the relation.
 
@@ -97,7 +97,7 @@ If you are a total beginner and starting self-education, here are my suggestions
 -   If you are non-native English speaker like me, find time for translating English articles or tutorials on topics your are studying to your language;
 -   Although there are a lot of free courses and materials, don’t hesitate to pay for tuition if you are sure it is worth it and you need it. You will also feel more responsible for outcome;
 -   A lot of coding practice is a must;
--   Keep the motivation! If you don't feel like studying or coding, follow the advice of Daniel Bourke**,** a self-taught Machine Learning Engineer and enthusiast, *“Ask yourself: What’s the alternative not to study?”*
+-   Keep the motivation! If you don't feel like studying or coding, follow the advice of Daniel Bourke, a self-taught Machine Learning Engineer and enthusiast, *“Ask yourself: What’s the alternative not to study?”*
 
 
 
