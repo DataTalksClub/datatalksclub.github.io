@@ -158,6 +158,13 @@ To make sure the content you share is useful for the community members, we ask y
 Don’t use other channels for promoting your work. They will be removed without a warning and 
 repeated violations will result in a ban.
 
+### Frequency of posts
+
+Spamming Slack communities with content hoping to get clicks is not the best strategy. It feels spammy and 
+reduces the values of your posts. If you post too often, it'll just be ingnored. 
+
+Therefore we ask you to limit your promotions to two posts per week per channel (one of the four above). 
+
 
 ### Surveys, product discovery and feedback on your product
 
