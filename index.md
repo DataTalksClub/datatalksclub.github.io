@@ -26,19 +26,19 @@ layout: home
     <div class="landing-image-container">
       <img class="landing-image" src="images/landing/talks.jpg"  />
     </div>
-    <h4 class="landing-subtitle">Talk about analytics, machine<br/> learning, and engineering</h4>
+    <h4 class="landing-subtitle">Talk about data, machine<br/> learning, and engineering</h4>
+  </div>
+  <div class="col-md-4 landing-item">
+    <div class="landing-image-container">
+      <img class="landing-image" src="images/landing/events.jpg"  />
+    </div>
+    <h4 class="landing-subtitle">Attend weekly events,<br/> and learn from free courses</h4>
   </div>
   <div class="col-md-4 landing-item">
     <div class="landing-image-container">
       <img class="landing-image" src="images/landing/career.jpg"  />
     </div>
     <h4 class="landing-subtitle">Ask career questions and<br/> discuss career options</h4>
-  </div>
-  <div class="col-md-4 landing-item">
-    <div class="landing-image-container">
-      <img class="landing-image" src="images/landing/events.jpg"  />
-    </div>
-    <h4 class="landing-subtitle">Attend weekly events,<br/> conferences, and office hours</h4>
   </div>
 </div>
 
