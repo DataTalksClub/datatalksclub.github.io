@@ -3,14 +3,14 @@ authors:
 - angelicaloduca
 cover: images/books/20221107-comet-for-data-science/cover.jpg
 description: Book of the Week. Comet for Data Science by Angelica Lo Duca
-end: 2022-10-24 23:59:59
+end: 2022-10-28 23:59:59
 image: images/books/20221107-comet-for-data-science/preview.jpg
 links:
 - link: https://www.packtpub.com/product/comet-for-data-science/9781801814430
   text: Book's page
 - link: https://github.com/PacktPublishing/Comet-for-Data-Science
   text: GitHub repository
-start: 2022-10-28 00:00:00
+start: 2022-10-24 00:00:00
 title: Comet for Data Science
 ---
 
