@@ -3,11 +3,11 @@ episode: 1
 guests:
 - alvaronavaspeire
 ids:
-  anchor: HxkBWtb
+  anchor: From-Testing-Phones-to-Managing-NLP-Projects---Alvaro-Navas-Peire-e1oj7n8
   youtube: -xumbiXOlA8
 image: images/podcast/s11e01-from-testing-phones-to-managing-nlp-projects.jpg
 links:
-  anchor: https://spotifyanchor-web.app.link/e/GlKFHxkBWtb
+  anchor: https://anchor.fm/datatalksclub/episodes/From-Testing-Phones-to-Managing-NLP-Projects---Alvaro-Navas-Peire-e1oj7n8
   apple: https://podcasts.apple.com/us/podcast/from-testing-phones-to-managing-nlp-projects-alvaro/id1541710331?i=1000581943071
   spotify: https://open.spotify.com/episode/1LMg70fGthIR2jF4JdmFkb?si=BmEfOtfgSEOpKvp5ENRA2g
   youtube: https://www.youtube.com/watch?v=-xumbiXOlA8
