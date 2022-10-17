@@ -1,4 +1,11 @@
 
+- time: 2022-11-15 17:00:00
+  title: "Modern Data Pipelines in AdTech - Life in the trenches"
+  speakers: [roksolanadiachuk]
+  type: webinar
+  link: https://eventbrite.com/e/443057656377
+
+
 - time: 2022-12-06 17:00:00
   title: "Keeping Your Model In Production"
   speakers: [amberroberts]
