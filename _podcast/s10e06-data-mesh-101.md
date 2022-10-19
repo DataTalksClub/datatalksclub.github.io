@@ -3,11 +3,11 @@ episode: 6
 guests:
 - zhamakdehghani
 ids:
-  anchor: ftCo0sb
+  anchor: Data-Mesh-101---Zhamak-Dehghani-e1n7vlk
   youtube: 346N_pCtYZU
 image: images/podcast/s10e06-data-mesh-101.jpg
 links:
-  anchor: https://spotifyanchor-web.app.link/e/bh8aftCo0sb
+  anchor: https://anchor.fm/datatalksclub/episodes/Data-Mesh-101---Zhamak-Dehghani-e1n7vlk
   apple: https://podcasts.apple.com/us/podcast/data-mesh-101-zhamak-dehghani/id1541710331?i=1000578193372
   spotify: https://open.spotify.com/episode/5uX5sfRPvC9WAXOM9fRCup?si=FQYB7cpuSOyzq7022xU3Tg
   youtube: https://www.youtube.com/watch?v=346N_pCtYZU
