@@ -208,6 +208,7 @@ Examples of content not relevant for this community:
 * Photoshop alternatives
 * Databases with contact information
 * Tools for sales 
+* Wellness apps
 
 
 Such messages will be removed without a warning
