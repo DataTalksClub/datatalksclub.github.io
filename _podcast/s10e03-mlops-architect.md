@@ -3,11 +3,11 @@ episode: 3
 guests:
 - dannyleybzon
 ids:
-  anchor: 40dHrsb
+  anchor: MLOps-Architect---Danny-Leybzon-e1m81iu
   youtube: p1gVaS4Zx5M
 image: images/podcast/s10e03-mlops-architect.jpg
 links:
-  anchor: https://spotifyanchor-web.app.link/e/5UMe40dHrsb
+  anchor: https://anchor.fm/datatalksclub/episodes/MLOps-Architect---Danny-Leybzon-e1m81iu
   apple: https://podcasts.apple.com/us/podcast/mlops-architect-danny-leybzon/id1541710331?i=1000575901051
   spotify: https://open.spotify.com/episode/5gz5lnS7onwRUtbcmpOSuU?si=8cbe799f284c4623
   youtube: https://www.youtube.com/watch?v=p1gVaS4Zx5M
