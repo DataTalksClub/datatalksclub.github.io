@@ -3,11 +3,11 @@ episode: 2
 guests:
 - terezaiofciu
 ids:
-  anchor: rT09fsb
+  anchor: Decoding-Data-Science-Job-Descriptions---Tereza-Iofciu-e1m079l
   youtube: bqxBiIwtmX4
 image: images/podcast/s10e02-decoding-data-science-job-descriptions.jpg
 links:
-  anchor: https://spotifyanchor-web.app.link/e/VtufrT09fsb
+  anchor: https://anchor.fm/datatalksclub/episodes/Decoding-Data-Science-Job-Descriptions---Tereza-Iofciu-e1m079l
   apple: https://podcasts.apple.com/us/podcast/decoding-data-science-job-descriptions-tereza-iofciu/id1541710331?i=1000575150345
   spotify: https://open.spotify.com/episode/4v6h48B0c0Je8xLMo5zMs5?si=hcMUqpPPQYm2vrdi2py1UQ
   youtube: https://www.youtube.com/watch?v=bqxBiIwtmX4
