@@ -3,11 +3,11 @@ episode: 8
 guests:
 - davidbader
 ids:
-  anchor: MEuKntb
+  anchor: Leading-Data-Research---David-Bader-e1nmt3r
   youtube: vZLlpsUlchQ
 image: images/podcast/s10e08-leading-data-research.jpg
 links:
-  anchor: https://spotifyanchor-web.app.link/e/4mHxMEuKntb
+  anchor: https://anchor.fm/datatalksclub/episodes/Leading-Data-Research---David-Bader-e1nmt3r
   apple: https://podcasts.apple.com/us/podcast/leading-data-research-david-bader/id1541710331?i=1000579710785
   spotify: https://open.spotify.com/episode/7DmFWFHUwxx4Wf0X6GbKBf?si=2DW0G2EMQ7ebB9K60LfJyQ
   youtube: https://www.youtube.com/watch?v=vZLlpsUlchQ
