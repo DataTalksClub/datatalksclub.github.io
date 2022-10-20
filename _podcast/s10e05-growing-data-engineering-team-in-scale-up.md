@@ -3,11 +3,11 @@ episode: 5
 guests:
 - mehdiouazza
 ids:
-  anchor: fI4oSsb
+  anchor: Growing-Data-Engineering-Team-in-a-Scale-Up---Mehdi-OUAZZA-e1mq8et
   youtube: acJ6sVqKOUk
 image: images/podcast/s10e05-growing-data-engineering-team-in-scale-up.jpg
 links:
-  anchor: https://spotifyanchor-web.app.link/e/9hZ4fI4oSsb
+  anchor: https://anchor.fm/datatalksclub/episodes/Growing-Data-Engineering-Team-in-a-Scale-Up---Mehdi-OUAZZA-e1mq8et
   apple: https://podcasts.apple.com/us/podcast/growing-data-engineering-team-in-a-scale-up-mehdi-ouazza/id1541710331?i=1000577461365
   spotify: https://open.spotify.com/episode/5DkuaYQpbJ13sU9bknFZnk?si=RtQnTHHYQb-ytMEw8J3e8g
   youtube: https://www.youtube.com/watch?v=acJ6sVqKOUk
