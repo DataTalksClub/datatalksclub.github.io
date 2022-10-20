@@ -3,11 +3,11 @@ episode: 7
 guests:
 - christiannswart
 ids:
-  anchor: x7A6btb
+  anchor: Dataset-Creation-and-Curation---Christiaan-Swart-e1nd1f6
   youtube: QggWydGrWoo
 image: images/podcast/s10e07-dataset-creation-and-curation.jpg
 links:
-  anchor: https://spotifyanchor-web.app.link/e/sSDCx7A6btb
+  anchor: https://anchor.fm/datatalksclub/episodes/Dataset-Creation-and-Curation---Christiaan-Swart-e1nd1f6
   apple: https://podcasts.apple.com/us/podcast/dataset-creation-and-curation-christiaan-swart/id1541710331?i=1000578975804
   spotify: https://open.spotify.com/episode/26K8JrQXKwLpQelo4n4Kdi?si=e2ad35c4941446c4
   youtube: https://www.youtube.com/watch?v=QggWydGrWoo
