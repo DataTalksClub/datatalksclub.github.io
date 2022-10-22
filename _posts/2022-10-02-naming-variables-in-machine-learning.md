@@ -22,7 +22,7 @@ If your answer is “ehm”, then read on - let’s reinvent the wheel.
 
 <figure>
 <img src="/images/posts/2022-10-02-naming-variables-in-machine-learning/image1.png"  />
-<figcaption><p>Even in Python names are important</p></figcaption>
+<figcaption><p>Even in Python names are important (image by the author)</p></figcaption>
 </figure>
 
 ## Clean Code
@@ -108,7 +108,7 @@ You would probably need to add comments into the first code block to explain wha
 
 <figure>
 <img src="/images/posts/2022-10-02-naming-variables-in-machine-learning/image2.jpg"  />
-<figcaption><p>The distinction should be really meaningful</p></figcaption>
+<figcaption><p>The distinction should be really meaningful (image by <a href="https://unsplash.com/@jhaland">Jørgen Håland</a></p></figcaption>
 </figure>
 
 Sometimes you need to create several objects with similar content. It is important to make names, which express the difference between the objects. The most obvious example here might be variables *df* and *data.* What’s in *data* and what’s in *df*? How do they differ? Impossible to understand without a detective investigation about origins of both objects.
