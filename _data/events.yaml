@@ -1,4 +1,11 @@
 
+- time: 2022-11-11 17:00:00
+  title: "Technical Writing and Data Journalism"
+  speakers: [angelicaloduca]
+  type: podcast
+  link: https://eventbrite.com/e/448783823497
+
+
 - time: 2022-11-15 17:00:00
   title: "Modern Data Pipelines in AdTech - Life in the trenches"
   speakers: [roksolanadiachuk]
