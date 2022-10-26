@@ -78,20 +78,19 @@ The obvious consequence of this order is the query's final result. You may be fi
 One classic example is when you want to know the data present in one table and not another table. A simple way of analyzing this information is by doing a **LEFT JOIN** between the tables and then checking if there is no corresponding to the second table using a IS NULL filter (see query below). For this query I got as a final result 42 k rows, meaning that there are 42 k clients that are not in the client_invoice table.
 
 ```sql
-SELECT COUNT(c.nickname) as number_nickname
+SELECT COUNT(c.nickname) AS number_nickname
 FROM clients c
-LEFT join client_invoice ci
-ON c.id=ci.user_id
+LEFT JOIN client_invoice ci ON c.id=ci.user_id
 WHERE ci.id IS NULL
 ```
 
 However if you run the query like this below you will get a warning saying that *““ci.id IS NULL” is always false”* and the total result we get is 172k rows. This query is obviously incorrect because we are trying to filter during the **JOIN** clause.
 
 ```sql
-SELECT COUNT(c.nickname) as number_nickname
+SELECT COUNT(c.nickname) AS number_nickname
 FROM clients c
-LEFT join client_invoice ci
-ON c.id=ci.user_id AND ci.id IS NULL
+LEFT JOIN client_invoice ci ON c.id=ci.user_id
+AND ci.id IS NULL
 ```
 
 Another important piece of information regarding the SQL statement's real order is the awareness of the difference between the **WHERE** clause and the **HAVING** clause.
@@ -110,12 +109,11 @@ For this article, I made two simple queries and analyzed the time of each one:
 
 
 ```sql
-SELECT nickname, SUM(value) as total_to_pay
+SELECT nickname,
+       SUM(value) AS total_to_pay
 FROM client_invoice ci
-INNER JOIN clients cl
-on cl.id=ci.user_id
-INNER JOIN invoice i
-on i.id=ci.invoice_id
+INNER JOIN clients cl ON cl.id=ci.user_id
+INNER JOIN invoice i ON i.id=ci.invoice_id
 WHERE nickname NOT ILIKE 'The Singer%'
 GROUP BY nickname
 HAVING sum(value) > 200000
@@ -125,16 +123,16 @@ ORDER BY total_to_pay
 -   In the second query I filtered one table in a CTE before joining with the others.
 
 ```sql
-WITH CTE_not_singer AS (SELECT id, nickname
-			        FROM clients
-			        WHERE nickname NOT ILIKE 'The Singer%')
-
-SELECT nickname, SUM(value) as total_to_pay
+WITH CTE_not_singer AS
+  (SELECT id,
+          nickname
+   FROM clients
+   WHERE nickname NOT ILIKE 'The Singer%')
+SELECT nickname,
+       SUM(value) AS total_to_pay
 FROM client_invoice ci
-INNER JOIN CTE_not_singer cl
-on cl.id=ci.user_id
-INNER JOIN invoice i
-on i.id=ci.invoice_id
+INNER JOIN CTE_not_singer cl ON cl.id=ci.user_id
+INNER JOIN invoice i ON i.id=ci.invoice_id
 GROUP BY nickname
 HAVING sum(value) > 200000
 ORDER BY total_to_pay
@@ -167,22 +165,22 @@ The most common use of the alias is to give one to a table and then you can use 
 Since the clause **ORDER BY** only runs after the **SELECT** clause you also can use the alias like the example below.
 
 ```sql
-SELECT c.nickname, count( distinct ci.invoice_id) total_invoice_id
+SELECT c.nickname,
+       count(DISTINCT ci.invoice_id) total_invoice_id
 FROM clients c
-INNER JOIN client_invoice ci
-ON c.id=ci.user_id
+INNER JOIN client_invoice ci ON c.id=ci.user_id
 GROUP BY 1
-ORDER BY total_invoice_id DESC	
+ORDER BY total_invoice_id DESC
 ```
 
 
 But be aware that the **WHERE** clause is the second to be read and the **SELECT** clause is only the fifth. So if you try to run the query below you will get the error - “ \[42703\] ERROR: column "number_invoice_id" does not exist”
 
 ```sql
-SELECT c.nickname, ci.invoice_id number_invoice_id
+SELECT c.nickname,
+       ci.invoice_id number_invoice_id
 FROM clients c
-INNER JOIN client_invoice ci
-ON c.id=ci.user_id
+INNER JOIN client_invoice ci ON c.id=ci.user_id
 WHERE number_invoice_id > 1000
 ```
 
