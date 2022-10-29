@@ -21,7 +21,7 @@ Starting from the very beginning. Can you tell what each variable in your projec
 If your answer is “ehm”, then read on - let’s reinvent the wheel.
 
 <figure>
-<img src="/images/posts/2022-10-02-naming-variables-in-machine-learning/image1.png"  />
+<img src="https://user-images.githubusercontent.com/34417502/197341837-5f84a1be-e892-4f5c-92b3-5621bde53cfb.jpg"  />
 <figcaption><p>Even in Python names are important (image by the author)</p></figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ You would probably need to add comments into the first code block to explain wha
 ### Meaningful distinctions
 
 <figure>
-<img src="/images/posts/2022-10-02-naming-variables-in-machine-learning/image2.jpg"  />
+<img src="https://user-images.githubusercontent.com/34417502/197341843-73ba78ef-43e5-4ba5-b950-63e380b18bac.jpg"  />
 <figcaption><p>The distinction should be really meaningful (image by <a href="https://unsplash.com/@jhaland">Jørgen Håland</a></p></figcaption>
 </figure>
 
