@@ -21,8 +21,8 @@ Starting from the very beginning. Can you tell what each variable in your projec
 If your answer is “ehm”, then read on - let’s reinvent the wheel.
 
 <figure>
-<img src="/images/posts/2022-10-02-naming-variables-in-machine-learning/image1.png"  />
-<figcaption><p>Even in Python names are important</p></figcaption>
+<img src="https://user-images.githubusercontent.com/34417502/197341837-5f84a1be-e892-4f5c-92b3-5621bde53cfb.jpg"  />
+<figcaption><p>Even in Python names are important (image by the author)</p></figcaption>
 </figure>
 
 ## Clean Code
@@ -107,8 +107,8 @@ You would probably need to add comments into the first code block to explain wha
 ### Meaningful distinctions
 
 <figure>
-<img src="/images/posts/2022-10-02-naming-variables-in-machine-learning/image2.jpg"  />
-<figcaption><p>The distinction should be really meaningful</p></figcaption>
+<img src="https://user-images.githubusercontent.com/34417502/197341843-73ba78ef-43e5-4ba5-b950-63e380b18bac.jpg"  />
+<figcaption><p>The distinction should be really meaningful (image by <a href="https://unsplash.com/@jhaland">Jørgen Håland</a></p></figcaption>
 </figure>
 
 Sometimes you need to create several objects with similar content. It is important to make names, which express the difference between the objects. The most obvious example here might be variables *df* and *data.* What’s in *data* and what’s in *df*? How do they differ? Impossible to understand without a detective investigation about origins of both objects.
