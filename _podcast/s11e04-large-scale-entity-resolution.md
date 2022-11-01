@@ -1112,3 +1112,4 @@ Links:
 
 * [Zingg Open-Source Spotlight demo](https://www.youtube.com/watch?v=zOabyZxN9b0){:target="_blank"}
 * [Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs book](https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466){:target="_blank"}
+* [Zingg AI website](https://www.zingg.ai){:target="_blank"}
