@@ -5,6 +5,7 @@ picture: "images/authors/sonalgoyal.jpg"
 github: sonalgoyal
 twitter: sonalgoyal
 linkedin: sonalgoyal
+web: https://www.zingg.ai
 
 ---
 
