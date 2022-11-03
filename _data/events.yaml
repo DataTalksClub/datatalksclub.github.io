@@ -1,4 +1,11 @@
 
+- time: 2022-11-25 17:00:00
+  title: "From Software Engineer to Data Science Manager"
+  speakers: [sadatanwar]
+  type: podcast
+  link: https://eventbrite.com/e/460613987837
+
+
 - time: 2022-12-13 17:00:00
   title: "Observing Python Applications Using Prometheus"
   speakers: [jessicagreene, vanessaaguilar]
