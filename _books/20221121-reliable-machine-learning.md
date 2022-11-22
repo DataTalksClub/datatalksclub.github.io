@@ -7,14 +7,14 @@ authors:
 cover: images/books/20221121-reliable-machine-learning/cover.jpg
 description: Book of the Week. Reliable Machine Learning by Todd Underwood, Kranti
   K. Parisa, Cathy Chen and Niall Murphy
-end: 2022-11-25 23:59:59
+end: 2022-12-09 23:59:59
 image: images/books/20221121-reliable-machine-learning/preview.jpg
 links:
 - link: https://www.oreilly.com/library/view/reliable-machine-learning/9781098106218/
   text: Book's page
 - link: https://www.amazon.com/Reliable-Machine-Learning-Principles-Production/dp/1098106229
   text: Buy on Amazon
-start: 2022-11-21 00:00:00
+start: 2022-12-05 00:00:00
 title: Reliable Machine Learning
 ---
 
