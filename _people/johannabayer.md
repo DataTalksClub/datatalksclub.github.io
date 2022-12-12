@@ -8,5 +8,5 @@ linkedin: johanna-bayer/
 
 ---
 
-J﻿ohanna is a a PhD student at the University of Melbourne and Orygen, the National Centre of Excellence in Youth Mental Health
+Johanna has  a formal background in psychology and computational neuroscience and is now about to complete her PhD in the field of machine learning in clinical neuroimaging. She is joining us from the  University of Melbourne, Australia, where she discovered the field of research software engineering. Tied to research software engineering, Johanna has contributed to several open source projects and is an advocate for open source and open science.
 
