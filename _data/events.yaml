@@ -1,4 +1,11 @@
 
+- time: 2023-02-14 17:00:00
+  title: "Machine Learning in Digital Identity"
+  speakers: [geojolly]
+  type: webinar
+  link: https://eventbrite.com/e/540610619917
+
+
 - time: 2023-02-22 17:00:00
   title: "Maximizing Confidence in Your Data Model Changes with dbt and PipeRider"
   speakers: [daveflynn]
