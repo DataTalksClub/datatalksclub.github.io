@@ -8,4 +8,4 @@ linkedin: shir-meir-lador-98b4692a
 
 ---
 
-Shir Meir Lador, data science team lead at Intuit in Israel, develops machine learning models for security, risk and fraud in products like Quickbooks, Turbo Tax and Mint.
+Shir Meir Lador, Shir Meir Lador, data science group manager at intuit US (Mountain View, California), develops machine and deep learning models for document intelligence for products like TurboTax and quickbooks.
