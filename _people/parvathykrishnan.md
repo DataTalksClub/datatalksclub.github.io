@@ -8,4 +8,4 @@ linkedin: parvathykrishnank
 
 ---
 
-Parvathy is CTO at Analytics for a Better World, a non-profit organisation aiming to use analytics  techniques to contribute to Sustainable Development Goals (SDGs)/ Parvathy and holds a PhD in analytics from the Amsterdam Business School at the University of Amsterdam. 
+Parvathy is CTO at Analytics for a Better World, a non-profit organisation aiming to use analytics  techniques to contribute to Sustainable Development Goals (SDGs)/ Parvathy and holds a Professional doctorate in data science from Eindhoven university of technology
