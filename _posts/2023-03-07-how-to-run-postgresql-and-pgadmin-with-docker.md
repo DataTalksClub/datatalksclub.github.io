@@ -259,8 +259,10 @@ Now when starting a server in pgAdmin remember that our server is called “pgda
 
 <figure>
 <img src="/images/posts/2023-03-07-how-to-run-postgresql-and-pgadmin-with-docker/image3.png"  />
-<figcaption><h1>Summary</h1></figcaption>
+<figcaption></figcaption>
 </figure>
+
+## Summary
 
 This article, it was presented a tutorial on how to run PostgreSQL and pgAdmin in docker containers.
 
