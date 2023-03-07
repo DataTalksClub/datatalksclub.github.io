@@ -1,4 +1,11 @@
 
+- time: 2023-03-10 17:00:00
+  title: "SE4ML - Software Engineering for Machine Learning"
+  speakers: [nadianahar]
+  type: podcast
+  link: https://eventbrite.com/e/575342664397
+
+
 - time: 2023-04-19 17:00:00
   title: "Effective Domain-Driven Design for Machine Learning Products"
   speakers: [larysavisengeriyeva]
