@@ -5,9 +5,9 @@ guests:
 ids:
   anchor: ow/datatalksclub/episodes/SE4ML---Software-Engineering-for-Machine-Learning---Nadia-Nahar-e20svmn
   youtube: 35Ch8xL2SA8
-image: images/podcast/s13e05-se4ml---software-engineering-for-machine-learning.jpg
+image: images/podcast/s13e05-se4ml-software-engineering-for-machine-learning.jpg
 links:
-  anchor: https://podcasters.spotify.com/pod/pod/show/datatalksclub/episodes/SE4ML---Software-Engineering-for-Machine-Learning---Nadia-Nahar-e20svmn
+  anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/SE4ML---Software-Engineering-for-Machine-Learning---Nadia-Nahar-e20svmn
   apple: https://podcasts.apple.com/us/podcast/se4ml-software-engineering-for-machine-learning-nadia/id1541710331?i=1000605782433
   spotify: https://open.spotify.com/episode/6ElyurOyGfRiCwLGUWOG7f?si=6k0i3XNUSPWd31vsZv4pfA
   youtube: https://www.youtube.com/watch?v=35Ch8xL2SA8
