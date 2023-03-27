@@ -1,4 +1,6 @@
 import os
+import re
+
 from hashlib import sha1
 from datetime import datetime
 from datetime import timedelta
@@ -28,18 +30,13 @@ def slugify_title(title):
     title_tokens = title.split()
     title_tokens = [t.lower() for t in title_tokens]
     title_tokens = [t for t in title_tokens if t not in stopwords]
-    res = '-'.join(title_tokens)
-    res = res.replace('.', '-')
-    res = res.replace(',', '')
-    res = res.replace("'", '')
-    res = res.replace(':', '')
-    res = res.replace('?', '')
-    res = res.replace('<', '')
-    res = res.replace('>', '')
-    res = res.replace('\\', '')
-    res = res.replace('/', '')
 
+    res = '-'.join(title_tokens)
     res = unidecode.unidecode(res)
+    res = re.sub(r'[^-a-zA-Z0-9]+', '-', res)
+    res = re.sub(r'(-{2,})', '-', res)
+    res = res.strip('-')
+
     return res
 
 
