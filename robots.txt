@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /_site/
+Disallow: /drafts/
+Disallow: /config/
+Disallow: /scripts/
+Disallow: /styles/
+Sitemap: https://datatalks.club/sitemap.xml
