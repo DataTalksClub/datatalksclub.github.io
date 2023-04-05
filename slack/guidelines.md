@@ -176,6 +176,9 @@ Examples:
 * We're conducting a survey to better understand how people use `____`.
 * We'd like to show you our product and get some feedback from you. 
 * We're working on `____` and would like to talk to data scientsits and ML engineers to understand better their painpoints.
+* We're working on a tool to do `____` and we're wondering if it's useful. 
+
+User and product research questions are also considered promotional.
 
 
 ### Rules for vendors
