@@ -15,1142 +15,1519 @@ season: 13
 short: Navigating Industrial Data Challenges
 title: Navigating Industrial Data Challenges
 transcript:
-- line: Today we will talk about open source and creating startups in open source
-    and we have a special guest today, Johannes. Johannes is a data scientist and
-    engineer and he is a co-founder of Kern. He likes machine learning, data management,
-    and all the things that people build with these things. At Kern, they help data
-    scientists with labeling and managing data effectively on a large scale. So welcome
-    to our show.
-  sec: 61
-  time: '1:01'
+- line: This week we'll talk about industrial data challenges. We have a special guest
+    today, Rosona. Rosona is a trained mathematician who works in the data space for
+    the last six years, with the last three, working in industrial data. She is currently
+    a machine learning engineer in a technical leadership role around synthetic tabular
+    data in an AI innovation team. She's particularly intrigued by industrial R&D
+    problems. Welcome to our event today, Rosona.
+  sec: 83
+  time: '1:23'
   who: Alexey
-- line: Hi, thanks for inviting me.
-  sec: 88
-  time: '1:28'
-  who: Johannes
-- line: The questions for today's interview were prepared by Johanna Bayer. As always,
-    thanks, Johanna, for your help.
-  sec: 91
-  time: '1:31'
+- line: "Thanks for the invitation. [chuckles] I'm glad that it finally worked out.\
+    \ We've been trying to meet up\u2026 [cross-talk]"
+  sec: 117
+  time: '1:57'
+  who: Rosona
+- line: It was a year or maybe more. It was always fun with you. Anyways, every time
+    we spoke previously, you always had an opinion about many interesting topics.
+    Today, we finally have a chance to put this on the record and have a podcast interview
+    about that. The questions for today's interview are prepared by Johanna Bayer.
+    Thanks a lot, Johanna, for your help.
+  sec: 122
+  time: '2:02'
   who: Alexey
-- header: Johannes’s background
-- line: Before we start – before we go into our main topic of starting an open source
-    startup, let's start with your background. Can you tell us about your career journey
-    so far?
-  sec: 96
-  time: '1:36'
+- header: "Rosona\u2019s background"
+- line: Before we go into our main topic of industrial data challenges, let's start
+    with your background. Can you tell us about your career journey so far?
+  sec: 148
+  time: '2:28'
   who: Alexey
-- line: Sure. Happy to do so. I've had this typical technical background. I studied
-    business, computer science, and data engineering. I worked as a data migration
-    consultant during my undergraduate study. So I've already been quite early in
-    my career in the data path, so to say. And I've been in the field of AI for roughly
-    eight years now. Not professionally, but I started eight years ago with my very
-    first touch point, which back then was this little web app called style transfer.
-  sec: 106
-  time: '1:46'
-  who: Johannes
-- line: You could upload an image of a dog and then choose an image of Picasso and
-    it was merged. From there, basically, I was super curious about how this works.
-    And in my Master's degree, I first started a consultancy. This was like the first
-    time I did something on my own. And this consultancy, at some point, kind of turned
-    into Kern. We did a couple of consultancy projects and found interesting topics
-    that were repeating and we started building software for that.
-  sec: 106
-  time: '1:46'
-  who: Johannes
-- line: You mentioned that you studied data engineering. So it was actually a part
-    of your degree?
-  sec: 173
-  time: '2:53'
+- line: "I mean, you sort of gave the broad strokes, right? I was originally a PhD\
+    \ mathematician. This is actually what brought me to Germany \u2013 an academic\
+    \ career. I did several postdocs first in Hamburg. And you reach a point where\
+    \ either it\u2019s gonna work or it's not [chuckles] relative to your constraints\
+    \ in your life. So I decided, \u201COkay, industry it is.\u201D Then that's been\
+    \ about six years. I've tried many roles. I sometimes tell people that looking\
+    \ at my career path looks kind of like I'm a data Roomba, \u201CLet's try this.\
+    \ I go in this direction, I hit a block, spin around.\u201D"
+  sec: 158
+  time: '2:38'
+  who: Rosona
+- line: Sorry, a data what?
+  sec: 195
+  time: '3:15'
   who: Alexey
-- line: Yes. Data engineering, basically, the name of the course is data engineering,
-    and it's like a mixture of data engineering and also data science. So both fields,
-    basically,
-  sec: 178
-  time: '2:58'
-  who: Johannes
-- line: Which university was it?
-  sec: 194
-  time: '3:14'
+- line: "A Roomba. You know those vacuum machines that you\u2026? You don't. A robot\
+    \ \u2013 a robot that cleans your house. Except that makes me sound like I'm a\
+    \ data cleaner by trade, which I'm not. But I mean, just like\u2026 there was\
+    \ intention, which is more than I could say for a robot, I guess, or this particular\
+    \ robot, but I explored a lot of things and each time, I pivoted. as someone on\
+    \ LinkedIn was saying, \u201CHave a goal and then you have to keep pivoting.\u201D\
+    \ Yeah, sure. But you should also adjust the goal as you go. Before you get into\
+    \ industry, you don't really know what it means to be in industry. Anyway, a mixture\
+    \ of things \u2013 financial data, CRM data, and then industrial data about three\
+    \ years ago. A contract position for about nine months to a year and then where\
+    \ I am now permanently."
+  sec: 196
+  time: '3:16'
+  who: Rosona
+- line: "I think industrial data is something that really frustrated me and why I\
+    \ wanted to do this topic is \u2013 I feel like we're ignored by a lot of tools\
+    \ and a lot of demos. You get kind of tired of being that person in the audience\
+    \ being like, \u201CBut what about our use case?\u201D So I'm here to say, \u201C\
+    We have all of these data. It's cool! We have great challenges. If you're looking\
+    \ for a new area, or in the future, what might you do in industry, this is a great\
+    \ place that I think is under-represented, maybe in the space of events.\u201D\
+    \ Also, a caveat I have to say. I'm here as a private person. None of my opinions\
+    \ are those of my employer. I will do my very best not to use profanity, but I\
+    \ make no promises. [chuckles]"
+  sec: 196
+  time: '3:16'
+  who: Rosona
+- line: '[chuckles] What did you actually research as a mathematician?'
+  sec: 296
+  time: '4:56'
   who: Alexey
-- line: It's the Hasso Plattner Institute in Potsdam. That's where I did my Master’s
-    and Bachelor’s. I chose the smaller university.
-  sec: 197
-  time: '3:17'
-  who: Johannes
-- line: Are you still in Potsdam? Or you moved?
-  sec: 210
-  time: '3:30'
-  who: Alexey
-- line: No, I actually moved back to Bonn. I studied in Potsdam, but I moved back
-    to Bonn, close to my family. [chuckles]
-  sec: 213
-  time: '3:33'
-  who: Johannes
-- line: I'm surprised that there are actually courses for data engineering, because
-    usually universities are… It's not always possible for them to catch up to these
-    things. So that's really cool that you can do this already. Okay. So it started
-    with style transfer?
-  sec: 222
-  time: '3:42'
-  who: Alexey
-- line: Exactly. Exactly. It was a curiosity for me. It was basically that I just
-    started generic programming roughly eight years ago – a little bit more than eight
-    years ago. I was just still in the mindset of, “Okay, the thing I can program
-    is if/else and so on”. I was thinking in that sense and then realized that you
-    could do something like style transfer – it was just too interesting for me to
-    dive into. So that was cool. [chuckles]
-  sec: 241
-  time: '4:01'
-  who: Johannes
-- header: Johannes’s Open Source Spotlight demos – Refinery and Bricks
-- line: So, Johannes, this is not the first time you appear on our YouTube channel.
-    You appeared twice before that. We have this thing called Open Source spotlight,
-    where we invite open source authors and ask them to demo their tools. You already
-    did two demos. Can you tell us about these demos? By the way, we will of course,
-    make sure that we add links to the show notes so you can also check them out.
-  sec: 273
-  time: '4:33'
-  who: Alexey
-- line: Yeah, sure. I've been a big fan of the series myself. So I’ve already known
-    about it before. When we did our first open source launch of Refinery, which is
-    our flagship project that we're working on, I reached out to you guys and asked
-    if we can show it. Refinery is basically a data visualization labeling tool specifically
-    designed for engineers. If you, for instance, want to build a really cool natural
-    language processing application, and you have just a web scrape, a ton of data,
-    and you now want to look into how you can refine it (that's also where the name
-    comes from) that's a really cool tool for it. One of the fuels, so to say, or
-    the drivers of Refinery is automated heuristics.
+- line: Oh, I meant to have a prop. Can I get off camera and come back? Is that okay?
+    Alright, I'll be right back.
   sec: 300
   time: '5:00'
-  who: Johannes
-- line: For this, we have the second open source project, which is Bricks. These are
-    the Bricks with which you can build your project, which is basically, a content
-    library, so to say, where we collect for abstract things like sentiment analysis,
-    multiple algorithms, both open source and both machine learning and regular programming,
-    and so on. So those are the two open source projects – the bigger ones we have
-    so far.
-  sec: 300
-  time: '5:00'
-  who: Johannes
-- line: Can you tell us a bit more about Refinery? You said that it's a data visualization
-    labeling tool, and it kind of refines your labels, or refines your data right?
-    So how does it do this? What does it do exactly?
-  sec: 380
-  time: '6:20'
+  who: Rosona
+- line: I'm really curious as to what happens next.
+  sec: 314
+  time: '5:14'
   who: Alexey
-- line: Yes. We basically had two questions in mind. Also, previous to the launch,
-    we also already worked with a dozen of data science teams. One idea was basically,
-    “What can I do if I just have the raw data and I want to quickly label a lot of
-    it?” That was the first idea. We saw that if, for instance, you want to do something
-    like sentiment analysis, you typically can use some techniques like active learning
-    or integrating something like GPT or other tools to use a heuristic that can label
-    data automatically but in a “noisy” way, so to say.
-  sec: 393
-  time: '6:33'
-  who: Johannes
-- line: How can you combine that so that you basically have a framework? This is called
-    weak supervision, which we did not invent, but we do make use of it. Basically,
-    it helps to relatively quickly get training data instead of raw data. That’s one
-    of the cool things about Refinery because it really shortens the gap between “I
-    have an idea for some kind of project I want to do,” and “I have to baseline implementation.”
-    That's the first thing.
-  sec: 393
-  time: '6:33'
-  who: Johannes
-- line: The second thing about Refinery is that as soon as you have some automated
-    labels, and you now want to dive deeper, you may also already have lots of manual
-    labels. But we typically have seen that, in the real world, even the manual labels
-    are extremely messy. Even if they are called “ground truths”, oftentimes, they're
-    not the truth. [chuckles] It's also super, super valuable to dive deeper into
-    the existing neighborhoods that they have – which of those are most likely wrong?
-    Or what are the subsets of my data set where I'm really having headaches because
-    there's so much mess going on? You can actually use those heuristics that, for
-    instance, are part of Bricks, to quickly dive deeper into this.
-  sec: 393
-  time: '6:33'
-  who: Johannes
-- line: Let's say we have a sentiment analysis and we see that the sentiment analysis
-    is performing really well for short texts, but it's very, very difficult for texts
-    that are complicated to read, for instance, or a long, long text. That's where
-    you want to dive into and see what you can do there. For this, you can use Refinery
-    perfectly.
-  sec: 393
-  time: '6:33'
-  who: Johannes
-- line: I'm wondering why… This problem is not new to me personally, and I think for
-    many data scientists. Ever since I started doing data science, I think even before
-    my first real full-time job, it was already a problem. I remember solving this
-    problem with this iPython Notebook widget – back then it was called iPython Notebooks
-    – this Jupyter Notebook widget .There are these little tools, one of which is
-    called Pigeon. It allows you to quickly create a simple annotation tool with these
-    iPy widgets. But it never occurred to me to actually make a proper tool from this.
-  sec: 540
-  time: '9:00'
+- line: Originally it was going to be at my desk and I would have had this there.
+    So I didn't plan for that part. This is the shortest answer [holds up 3D-printed
+    plastic item].
+  sec: 322
+  time: '5:22'
+  who: Rosona
+- line: For those who do not see the video because we will also release it as audio-only,
+    what is that?
+  sec: 332
+  time: '5:32'
   who: Alexey
-- line: I would use these widgets, label data quickly and then I forget about this.
-    So how did it happen for you that you realized “Okay, there is some potential.
-    There aren’t really any good tools for that. Let’s make a tool and then people
-    in the community will benefit from this.” How did it happen to you?
-  sec: 540
-  time: '9:00'
+- line: "I actually don't know. I was thinking more\u2026 [cross-talk]"
+  sec: 337
+  time: '5:37'
+  who: Rosona
+- line: Those who are seeing the video are also wondering. [laughs]
+  sec: 339
+  time: '5:39'
   who: Alexey
-- line: Yes. One of the things is that it's mainly designed for natural language.
-    For natural language, it was a bit more difficult than what we see… [cross-talk]
-  sec: 602
-  time: '10:02'
-  who: Johannes
-- header: The difficulties of working with natural language processing (NLP)
-- line: So these widgets didn't really work for NLP, right? It's much harder.
-  sec: 614
-  time: '10:14'
+- line: These are 3D printed topological spaces. This is an inverted sphere. I think
+    this might be a Mobius band, it might not.
+  sec: 345
+  time: '5:45'
+  who: Rosona
+- line: "It\u2019s a Mobius strip, right? [cross-talk]"
+  sec: 351
+  time: '5:51'
   who: Alexey
-- line: Yeah, it's much, much more designed, in many ways, for structured data. When
-    you, for instance, already have something like an Excel spreadsheet. But if you
-    have a .txt file, which only contains textual data, something that we've seen
-    is that, oftentimes people are missing those valuable metadata insights such as
-    the language and so on, so forth. We have been coming from a research perspective,
-    mainly. We were studying and looking into what kind of new interesting technologies
-    are coming out.
-  sec: 617
-  time: '10:17'
-  who: Johannes
-- line: I think one of the big things that also made this product possible is the
-    general pace at which natural language processing is currently developing. There
-    are so many new techniques that you can use that make this tool not just nice,
-    but really strong. Maybe a decade ago that would not have been possible. So I
-    think there are two factors. Basically, the general interest in natural language
-    processing is rising so much, especially in the last months, and also what's possible
-    in the end – what special pain points that language processing has.
-  sec: 617
-  time: '10:17'
-  who: Johannes
-- line: Yes, especially these tools like ChatGPT. I remember having a lot of fun.
-    I would ask it to summarize an article and then I would ask it, “Hey, can you
-    please write it, as if Donald Trump wrote this article?” [Johannes laughs] It's
-    so much more entertaining. Unfortunately, right now, they changed something. When
-    I ask ChatGPT to rewrite an article as Donald Trump, it would say, “Sorry, I'm
-    not going to do this.” That's very unfortunate. But I guess indeed, NLP is quite
-    a nice place to be right now, with all these tools.
-  sec: 685
-  time: '11:25'
+- line: "Yeah, I think so, but actually, I think it's like an equivalent, but it's\
+    \ not actually the same. Geometrically it's different, but topologically it is.\
+    \ So that's the long answer to the short answer of \u201CI was an algebraic topologist\u201D\
+    . I was way off in the far\u2026 have you seen the XKCD where he's got applied\
+    \ fields and he's got \u201Csociologist, scientist, blah, blah, blah, blah, blah,\
+    \ engineers,\u201D and then way over here is mathematicians? If you did the same\
+    \ graph, but inside of mathematics, I feel like topology, especially algebraic\
+    \ topology, especially my sub- sub- sub-discipline, is similarly way off the deep\
+    \ end. Like, \u201CHey, guys, we're over here!\u201D So it\u2019s the study of\
+    \ spaces. Some people call it \u201Crubber sheet geometry\u201D. It was fun. I\
+    \ liked it, I think."
+  sec: 352
+  time: '5:52'
+  who: Rosona
+- line: You were inverting spheres?
+  sec: 401
+  time: '6:41'
   who: Alexey
-- line: It's super, super interesting. We've been in this field – we've been focusing
-    on natural language processing purely for a bit more than three years. Pre-November
-    2022, people were always asking us “Why the hell are you focusing on natural language
-    processing? This is too complicated.” Of course, we didn't know that ChatGPT would
-    be there, but we already saw, because of the being so close to research, that
-    things like Hugging Face were happening. Transformers were becoming more and more
-    strong. Ever since then, ever since ChatGPT, it feels like the whole perspective
-    shifted by 180 degrees. Now they are saying “Okay, of course you're focusing on
-    natural language processing.” So that's interesting to see. [chuckles]
-  sec: 722
-  time: '12:02'
-  who: Johannes
-- line: For you, you started doing it before it was popular, right?
-  sec: 774
-  time: '12:54'
+- line: "Inverting spheres. There you go. There is actually applied algebraic topology,\
+    \ but that's not what I did. But if you're excited about things like this like,\
+    \ \u201CHey, this sounds cool. What can I do?\u201D Maybe go that way. I can name\
+    \ my first advisor, who was Rob Ghrist, who then changed to more pure discipline.\
+    \ But he has a lot of cool presentations."
+  sec: 402
+  time: '6:42'
+  who: Rosona
+- header: How mathematics knowledge helps in industry
+- line: So one of the skills you gained is that you know a lot of mathematics. What
+    parts of these mathematics were actually useful for your industrial career?
+  sec: 422
+  time: '7:02'
   who: Alexey
-- line: Yeah. [chuckles] I was really hoping for something like this to happen. But
-    of course, I didn't know that it would happen. I mean, and natural language processing
-    already was becoming more and more popular, even before ChatGPT, but I think mainly
-    for the developer base. Developers were seeing that something like this was happening,
-    but not for the broader masses, I would say.
-  sec: 779
-  time: '12:59'
-  who: Johannes
-- header: Incorporating ChatGPT into a process as a heuristic
-- line: GPT-3 was around for quite some time already when ChatGPT was released. [Johannes
-    agrees] So your research was about NLP right? Probably for this, you needed to
-    label data. Right? And that's how Refinery appeared?
-  sec: 802
-  time: '13:22'
+- line: '[chuckles] Sorry. [laughs] This is not fair. Because it''s totally not a
+    question. It''s also a little mean, I feel like. [chuckles]'
+  sec: 434
+  time: '7:14'
+  who: Rosona
+- line: '[laughs] I''m sorry. We can skip that one.'
+  sec: 442
+  time: '7:22'
   who: Alexey
-- line: Yeah, as we were working in the consultancy, we basically saw this quite often.
-    We were trying to figure out with people in workshops, what kind of use cases
-    would be helpful and if you could ever have this completely data-centric perspective,
-    in the sense of, “Okay, what kind of data do we already have and what kind of
-    use case can we build on that?” Or you could take the other approach thinking,
-    “Okay, what kind of use cases would be valuable? But do we have the data for that?”
-    We typically went for the second approach of, “Okay, what would be helpful?” And
-    then try to figure out how we can build the data for that.
-  sec: 817
-  time: '13:37'
-  who: Johannes
-- line: At the same time we did this, we were in a research project at the university,
-    where we also already saw, “Okay some things are happening.” This weak supervision
-    approach is not absolutely magical. I think it was hyped a bit more than what
-    it actually offers, but it's a really strong framework to bring together any kind
-    of heuristic that you can imagine. For instance, ChatGPT is also an amazing heuristic
-    that you can use, right? We saw it back then and realized that very, very quickly,
-    it could not only bring interesting research insights that would actually be helpful
-    in business applications. So that's where we came from.
-  sec: 817
-  time: '13:37'
-  who: Johannes
-- line: I recently came across a paper that says… What I think the researchers did
-    was compare ChatGPT with Mechanical Turk (a crowdsourcing platform). Did you see
-    this paper? [Johannes agrees] ChatGPT was basically better at labeling the data
-    than crowdsourcing. I'm wondering, for you, does this possess any risks that people
-    will not use Refinery and they will just go directly to ChatGPT to extract sentiment
-    from the data and use it for labels?
-  sec: 897
-  time: '14:57'
+- line: "No, no, no. It's fine. It's fine. It just reminds me. I had this interview\
+    \ with a group of (I'm not gonna name the employer, obviously) but a group of\
+    \ applied mathematicians. I came into this interview and they\u2019re like, \u201C\
+    How did you end up in IT?\u201D Like, \u201COkay, hostile environment\u2026\u201D\
+    \ [chuckles]"
+  sec: 444
+  time: '7:24'
+  who: Rosona
+- line: '[chuckles] Because I''m curious, it was probably very useful when you were
+    picking up some basics of machine learning. But maybe not all of that, right?'
+  sec: 459
+  time: '7:39'
   who: Alexey
-- line: Honestly, I love it. I love it because I rather see it as one kind of heuristic.
-    I know from business that there are still many applications where it's not that
-    easy to just plug in ChatGPT and have it work.
-  sec: 935
-  time: '15:35'
-  who: Johannes
-- line: By heuristic do you mean that you can use it to create an initial set of labels
-    and then refine them with Refinery?
-  sec: 951
-  time: '15:51'
+- line: "Yeah. But I think this is also a deeper question of \u201CHow is mathematics\
+    \ useful?\u201D And \u201CWhat is mathematics?\u201D And I think most\u2026 [Alexey\
+    \ chuckles] No, I'm dead serious. Give me a second to address this. I think most\
+    \ of what we learned in school of mathematics isn't mathematics. And what really\
+    \ is mathematics to me is thinking logically. What I bring\u2026 Really, another\
+    \ question that I like better is \u201CWhat do you bring, as a pure mathematician,\
+    \ into this space?\u201D And I think, in math, especially in pure math \u2013\
+    \ in a really niche discipline, where people are not willing to repeat themselves,\
+    \ you have one chance to learn something from someone. You're at a conference.\
+    \ There's that fancy guy over there and you're like, \u201COh, my God! He wrote\
+    \ this paper (or she wrote this paper). I need to talk to them.\u201D And you\
+    \ have maybe 40 minutes of their time, if you're lucky. Probably 20. Maybe 10.\
+    \ And you have to optimize, the thing I want to know and what questions to ask\
+    \ and like, \u201CHave I answered these questions?\u201D"
+  sec: 468
+  time: '7:48'
+  who: Rosona
+- line: "These are really valuable skills. I think just going in and understanding\
+    \ what questions to ask, how you learn enough about something to sort of keep\
+    \ a model of it in your head, and then (here's the pure math part) say, \u201C\
+    How is this going to break?\u201D Because this is the difference between a proof\
+    \ and a simulation. When you try to prove things, you're actually not trying to\
+    \ prove something. I'm not out there being, \u201CHere's my argument for why you\
+    \ should vote this way.\u201D I'm out there trying to first see, \u201CWhy will\
+    \ this fail?\u201D and then fill those holes. And that's incredibly valuable and\
+    \ I think it\u2019s the biggest thing I bring as a pure mathematician. It\u2019\
+    s this \u201Cproof\u201D viewpoint."
+  sec: 468
+  time: '7:48'
+  who: Rosona
+- line: How long did you actually do this for?
+  sec: 565
+  time: '9:25'
   who: Alexey
-- line: Yeah. For instance, very simply, let's say we want to build an intent classifier.
-    We have an email inbox, emails are coming in, and we want to understand, “Are
-    they about cancellations? Are they about feedback?” Whatever. We want to understand
-    the intent. One really good approach if you want to build a classifier now would
-    be to say, “I want to use the power of ChatGPT. The first 10,000 examples I have
-    – I would just ask ChatGPT to label them for me and then I will train a model
-    on top of that label data.” That is one very solid approach. With that, I think
-    you can already get something like (this is a random number, of course) but something
-    like an 80% precision, let's say.
-  sec: 958
-  time: '15:58'
-  who: Johannes
-- line: If you now say, “Well, I have ChatGPT as one heuristic, and I also use an
-    active learner, like a Hugging Face model, for instance, that I train on manually,
-    and maybe I also use a crowd labeler. Then I would achieve a 90% precision. So
-    I think it's like one ingredient in a complete dish and I think it's an incredibly
-    cool ingredient. In many cases, it will already be super helpful to just use ChatGPT.
-    But I'm thinking that it becomes even stronger when you combine it with other
-    techniques.
-  sec: 958
-  time: '15:58'
-  who: Johannes
-- line: Okay, so it's not a competitor, it's one of the things you can take advantage
-    of and use it together with your tools.
-  sec: 1046
-  time: '17:26'
+- line: Academics?
+  sec: 569
+  time: '9:29'
+  who: Rosona
+- line: Mathematics, yeah.
+  sec: 570
+  time: '9:30'
   who: Alexey
-- line: Yeah, I think so. As I mentioned initially, I think we finally would not exist
-    if, for instance, Hugging Face would not exist, because that's something that
-    we already see as one of the key foundations where we finally said, “We can build
-    really strong embeddings and the embeddings have a data management part.” Of course,
-    you could already also say, “I have the Hugging Face models. I want to fine-tune
-    them.” And that's good. That's a super valid approach.
-  sec: 1054
-  time: '17:34'
-  who: Johannes
-- line: I think with Refinery, it just makes it a bit easier to get there faster,
-    and especially for business users to get there much faster. So I think that GPT
-    is something that we actively make use of honestly. It's already a brick. [chuckles]
-    We use GPT as a couple of bricks. It just helps so much in prototyping and everything.
-    So that's amazing.
-  sec: 1054
-  time: '17:34'
-  who: Johannes
-- header: What is Bricks?
-- line: And by “bricks,” you mean this other project that you mentioned in the beginning
-    and the other project we also demoed at Open Source Spotlight, which is this collection
-    of different recipes that people can just grab and use?
-  sec: 1113
-  time: '18:33'
+- line: "Oh. [chuckles thoughtfully]\_I mean\u2026 You mean from the point I decided\
+    \ to study pure mathematics? That was like two years of undergrad plus seven years\
+    \ of Master\u2019s plus PhD plus six years of postdoc."
+  sec: 571
+  time: '9:31'
+  who: Rosona
+- line: Okay. That's a lot of mathematics.
+  sec: 587
+  time: '9:47'
   who: Alexey
-- line: Exactly, exactly. For instance, just to give an example, we have a Brick for
-    sentiment analytics. One implementation could be, for instance, using Textblob
-    very simply, as a module that you can just pip install. Another implementation
-    could be a prompt that we have prepared for GPT, which basically says, “The following
-    examples are positive/negative. What is this example?” That's kind of, again,
-    the idea.
-  sec: 1123
-  time: '18:43'
-  who: Johannes
-- line: If you want to implement a sentiment analysis for your own project, one idea
-    could be to say, “Okay, let's look into what kind of Brick implementations I have.
-    Let's just take all of them. Let's just see how well they perform. Because if
-    each of them perform at an 80% precision, together they will perform at a 90%
-    precision.” It's a very simple idea, but it works. [chuckles]
-  sec: 1123
-  time: '18:43'
-  who: Johannes
-- line: That's the idea behind Ensemble methods in machine learning, right? You have
-    a bunch of quick classifiers and when you put them together, they perform a lot
-    stronger.
-  sec: 1178
-  time: '19:38'
+- line: "It's a lot. This is a full career. I think this is also something that makes\
+    \ it really difficult \u2013 jumping to the end of the talk to \u201CWhat is this\
+    \ transition like?\u201D I think it's very\u2026 people don't know where to put\
+    \ you because you're lopsided. You have this whole career in a completely separate\
+    \ space. So you're senior. You're obviously senior. I mean, look at your age.\
+    \ Look at how long you've been working. But you aren't senior in a business sense.\
+    \ There are a lot of things you don't know, right? You come in and maybe you don't\
+    \ know SQL or whatever. You can learn it, obviously. But you're this weird, lopsided\
+    \ human that people have to figure out, \u201CHow do I deal with the development\
+    \ of this person?\u201D"
+  sec: 588
+  time: '9:48'
+  who: Rosona
+- line: "Yeah. If you can invert a sphere, the SQL is like ten minutes, right? [Rosona\
+    \ laughs] It\u2019s very easy to pick up."
+  sec: 629
+  time: '10:29'
   who: Alexey
-- line: Exactly. And the thing with weak supervision, mainly, is that – of course,
-    weak supervision has different kinds of implementation, so you can have different
-    kinds of strategies of how you want to make use of those single workers. But the
-    idea roughly is as if you have a random forest, but instead of decision trees,
-    you have concrete implementations – concrete heuristics. One decision tree can
-    be GPT, one can be Textblob, one can be Vader, and so on and so forth. And one
-    could even be crowd labeling, right? So that's kind of the big idea behind weak
-    supervision.
+- header: What is industrial data?
+- line: Okay. So we actually wanted to talk about industrial data. So what is industrial
+    data?
+  sec: 637
+  time: '10:37'
+  who: Alexey
+- line: "Let me first make a caveat that I really like this topic. I'm working on\
+    \ this topic. But I think there are obviously people who are super experts on\
+    \ this. So before I offend anybody, industrial data is not a monolith. I think\
+    \ it's a great question, \u201CWhat is it?\u201D It's very broad. Let me say that\
+    \ the simplest answer is \u201CA productive industry generates the data.\u201D"
+  sec: 645
+  time: '10:45'
+  who: Rosona
+- line: "That\u2019s pretty much everything, right?"
+  sec: 671
+  time: '11:11'
+  who: Alexey
+- line: Not really. [cross-talk] I find that CRM data does not fall into this. HR
+    data does not fall into this. Obviously, we have this data.
+  sec: 672
+  time: '11:12'
+  who: Rosona
+- line: "Why doesn\u2019t it fall into this? There is a process that generates data\
+    \ \u2013 somebody is hired and there's a new record."
+  sec: 682
+  time: '11:22'
+  who: Alexey
+- line: "Sure, but it's not like I have a thing that I'm trying to make. I mean, in\
+    \ industries like the chemical industry, or the semiconductor industry, or our\
+    \ friends in the automobile industry \u2013 people who have a thing that they\
+    \ sell at the end of the day."
+  sec: 691
+  time: '11:31'
+  who: Rosona
+- line: Like a physical thing or process or something like that?
+  sec: 712
+  time: '11:52'
+  who: Alexey
+- line: A physical thing that they produce.
+  sec: 714
+  time: '11:54'
+  who: Rosona
+- line: Not necessarily a program.
+  sec: 715
+  time: '11:55'
+  who: Alexey
+- line: Not a program, not a person, not recommendations on a website. An actual physical
+    thing.
+  sec: 717
+  time: '11:57'
+  who: Rosona
+- line: So say I want to create blue paint, there is a process for creating the paint,
+    and there is some data produced by this process. [Rosona agrees] And when you
+    work with this data, this is industrial data. Right?
+  sec: 726
+  time: '12:06'
+  who: Alexey
+- line: "Right. And then within industrial data, I just want to\u2026 [audio cuts\
+    \ out] R&D data, which is small. This is why there's this like, \u201COh, small\
+    \ R&D data,\u201D because that's where I have historically been sitting. But I've\
+    \ been sort of half. I've also done some of what I would call \u201Cthe productive\u201D\
+    . So there's industrial R&D, where experiments can be very expensive, which is\
+    \ why it's small data \u2013 because it's expensive. And then you develop a process\
+    \ for a new product. And then there's something like a pseudo-plant where you\
+    \ do this \u2013 you run the process with a lot of Q&C, a lot of stopping it,\
+    \ adjusting things."
+  sec: 743
+  time: '12:23'
+  who: Rosona
+- line: Q&C?
+  sec: 783
+  time: '13:03'
+  who: Alexey
+- line: "QC. Quality control, where you stop it. Good call, I'm usually better about\
+    \ abbreviations. Right. So you stop it, and you adjust it, and you're developing\
+    \ the process of making the thing. Step one, \u201CHere's the formulation for\
+    \ the thing.\u201D Step two, \u201CHow do we actually do it? And what information\
+    \ do we need to record to make sure that it's produced at a good quality?\u201D\
+    \ And then step three is \u201CWe've developed that process. We've got it live.\
+    \ It's running.\u201D And then there are live quality controls that you have to\
+    \ do like, \u201CThis machine has a part that welds and it needs to be replaced\
+    \ regularly because it wears out. How often does it need to be replaced?\u201D\
+    \ Sort of productive maintenance or planned maintenance kinds of tasks happen\
+    \ there."
+  sec: 786
+  time: '13:06'
+  who: Rosona
+- line: "I would say there are broadly three large areas. Then within those, there\
+    \ are all sorts of directions people can go. There's agricultural stuff, where\
+    \ data is expensive because it just takes so long. You have to wait until corn\
+    \ grows. [chuckles] Or toxicology \u2013 you have to kill a rat (it's kind of\
+    \ expensive to kill animals) to measure the toxicology. I mean, there's a lot\
+    \ of stuff, not even just R&D, but all over. There's a lot of directions."
+  sec: 786
+  time: '13:06'
+  who: Rosona
+- line: Just to summarize, there are three categories of industrial data. First are
+    R&D experiments. These experiments are expensive, so we have very little data
+    there. Then there is production data. That's the other side of the spectrum. And
+    then the thing in between, I kind of missed. What was that?
+  sec: 858
+  time: '14:18'
+  who: Alexey
+- line: "I mean, I haven't worked with this myself. I just know it exists. This is\
+    \ how people have explained it to me. I've worked on the two extremes. In the\
+    \ middle is sort of a mock-up of a running process. In step one of your R&D, you've\
+    \ started developing this process. Step two is maybe where you've built the sketch\
+    \ of a plant. Your plant\u2019s there, but you need to\u2026 [cross-talk]"
+  sec: 879
+  time: '14:39'
+  who: Rosona
+- line: Like a proof of concept?
+  sec: 901
+  time: '15:01'
+  who: Alexey
+- line: Yeah, like a POC. Instead of a whole giant warehouse, you build a room running
+    this process and you're trying to fine-tune how this should work.
+  sec: 902
+  time: '15:02'
+  who: Rosona
+- header: Setting up an industrial process using blue paint
+- line: "So if we take this example of blue paint, then the expensive experiment part\
+    \ would be combining different chemicals to see that the shade of blue is the\
+    \ right one. Then the mock-up could be like, \u201CHow can we combine it in a\
+    \ more automatic way?\u201D [cross-talk]"
+  sec: 910
+  time: '15:10'
+  who: Alexey
+- line: "Exactly. Right. \u201CHow do we automate this process? How do we get the\
+    \ right volume? How do we make sure that it's always this color blue?\u201D"
+  sec: 930
+  time: '15:30'
+  who: Rosona
+- line: "Uh-huh. And then production would be\u2026 [cross-talk]"
+  sec: 936
+  time: '15:36'
+  who: Alexey
+- line: "Because volume can affect the color of paint. Also, paint is\u2026 I mean,\
+    \ color is a hard problem, as we all know. I've painted a few apartments. [chuckles]"
+  sec: 937
+  time: '15:37'
+  who: Rosona
+- line: "I don't know why I decided to use this example. I think maybe five or six\
+    \ years ago, I interviewed with a company. It was a chemical company in a very\
+    \ small German village. And that was the only company in that village. It was\
+    \ a huge company \u2013 a huge chemical company. And they were doing paints."
+  sec: 949
+  time: '15:49'
+  who: Alexey
+- line: "It's a good example. There's a lot of cool stuff with paints. Actually, another\
+    \ reason why it's expensive is that one of the standard tests you do with paints\
+    \ is called the \u201CFlorida test\u201D. I think originally, it was like \u201C\
+    We leave it out in Florida for 30 years.\u201D But obviously, that's way too long\
+    \ for R&D length. So you paint some paint and you send it to Florida and you let\
+    \ it sit there for I don't know how long. But this is one of those\u2026 paint\
+    \ is a big application."
+  sec: 968
+  time: '16:08'
+  who: Rosona
+- line: "That's also an expensive experiment, right? If you live in Germany, sending\
+    \ something to Florida\u2026 [cross-talk]"
+  sec: 996
+  time: '16:36'
+  who: Alexey
+- line: "Yeah. Imagine \u2013 you have to ship it to Florida."
+  sec: 999
+  time: '16:39'
+  who: Rosona
+- line: '[chuckles] So Spain will not work, right? It has to be Florida?'
+  sec: 1003
+  time: '16:43'
+  who: Alexey
+- line: "No. There's something special. You can look it up. I encourage people in\
+    \ the audience to look up the \u201CFlorida paint test\u201D or whatever. You\
+    \ can see pictures of these huge fields. They explain it to you like \u201CThere\u2019\
+    s a special tropical environment, blah, blah, blah.\u201D I don't know the technical\
+    \ aspect. I just know that it exists and I was shocked."
+  sec: 1006
+  time: '16:46'
+  who: Rosona
+- header: "Internet companies\u2019 data vs industrial data"
+- line: "Okay. So we already discussed that industrial data is different from the\
+    \ usual internet companies\u2019 data. So the main difference is that there is\
+    \ a physical process that creates a physical thing, most of the time, in industrial\
+    \ data. There is an assembly line that creates a car, right? While in usual internet\
+    \ companies\u2019 data, it\u2019s like a person comes, clicks, and then there\
+    \ is a recommendation and that\u2019s it. It\u2019s all virtual, right?"
+  sec: 1023
+  time: '17:03'
+  who: Alexey
+- line: "Yeah, and I think it's also hard to adjust what data you get once it's productive.\
+    \ There's a lot of things that seem to surprise people and one of them is you\
+    \ can have tons of data on the productive end. Processes are not designed with\
+    \ data in mind, necessarily, which I think is a difference with CRM \u2013 you\
+    \ run experiments, you can say, \u201CWhat information do I actually need about\
+    \ my customers?\u201D You can adjust what information you're collecting very quickly.\
+    \ In industry, you can't necessarily\u2026"
+  sec: 1049
+  time: '17:29'
+  who: Rosona
+- line: "If your plant\u2019s in another country, you first need to explain what it\
+    \ is you want them to do. I mean, things like what sensors are available to you.\
+    \ There are also issues where you might have a work floor where you've got a consistent\
+    \ process, but you have machines from four different manufacturers and each machine\
+    \ has different sensors and different positions. How much do you trust your model\
+    \ that you're building with these? First, of course, you have to do cleaning,\
+    \ and you have to sort of pull this data together so that it makes sense as a\
+    \ whole."
+  sec: 1049
+  time: '17:29'
+  who: Rosona
+- header: Explaining industrial processes using packing peanuts
+- line: "Can you maybe give an example? I don't know to what extent you can. It can\
+    \ be a made-up example of the process of creating something physical. Then, what\
+    \ kinds of things can we observe and record and use for\u2026?"
+  sec: 1109
+  time: '18:29'
+  who: Alexey
+- line: "Sure. I'm gonna make one up. This is a made-up example. I was thinking about\
+    \ this, like, \u201CHow do I make something up?\u201D Because I obviously shouldn\u2019\
+    t be talking about work. [chuckles] So what's something that we all know and understand?\
+    \ I went with packing peanuts, because this for me illustrates several problems\
+    \ all at once. I have no idea how you make packing peanuts, by the way. I don't\
+    \ even know. [cross-talk]"
+  sec: 1122
+  time: '18:42'
+  who: Rosona
+- line: What is packing peanuts? You have peanuts and then you want to pack them?
+  sec: 1148
+  time: '19:08'
+  who: Alexey
+- line: "Oh, no, no. I'm sorry. I thought this was a standard phrase. You know when\
+    \ you open a box that's been shipped to you, and there's various ways to pack\
+    \ things? One of them is with those big cushions of air and one of them is \u2013\
+    \ there's these little Styrofoam things."
+  sec: 1152
+  time: '19:12'
+  who: Rosona
+- line: Oh. So it's not actual peanuts.
+  sec: 1168
+  time: '19:28'
+  who: Alexey
+- line: "They look sort of vaguely like a peanut. That's what we call them \u2013\
+    \ packaging peanuts."
+  sec: 1170
+  time: '19:30'
+  who: Rosona
+- line: Ah. I got overly excited. I thought we would be talking about peanuts. [chuckles]
+  sec: 1173
+  time: '19:33'
+  who: Alexey
+- line: Sorry. No. [laughs]
+  sec: 1176
+  time: '19:36'
+  who: Rosona
+- line: Well packing peanuts is also a process. You need to add salt or roast them
+    or whatever.
+  sec: 1179
+  time: '19:39'
+  who: Alexey
+- line: Okay. So this is a production process. I have no idea how you make packing
+    peanuts. I'm just going to make up a process, just because. Okay, packing peanuts.
+    I'm going to assume you extrude them or something. Something is mixing some kind
+    of polymer and then there's an extruder that spits it out.
   sec: 1188
   time: '19:48'
-  who: Johannes
-- header: The process of starting a startup – Kern
-- line: Okay, you have this cool project – multiple cool projects – and at some point,
-    you decided that you should start a company to actually focus on this project.
-    How did this happen? Can you walk us through the process?
-  sec: 1222
-  time: '20:22'
+  who: Rosona
+- line: What is an extruder?
+  sec: 1208
+  time: '20:08'
   who: Alexey
-- line: Yeah, exactly. First, actually, it was the other way around. We already knew
-    what we were building. We started with the consultancy, and we started the consultancy
-    already knowing that at some point, we want to build products. But we didn't know
-    what yet. We didn't know whether Henrik and I (we are the co-founders) would get
-    along well or not. [chuckles] And we also needed some initial capital. Those were
-    the three reasons why we started the consultancy. It quickly turned out that Henrik
-    and I worked along really, really well together, which already was a cool thing.
-  sec: 1237
-  time: '20:37'
-  who: Johannes
-- line: We initially started building a software that completely failed. The first
-    product that we built was really bad. [chuckles] It was a complete, no-code, machine
-    learning builder, basically. The idea was, we were working with business units
-    quite a lot and we wanted to help them basically say, “Just label a bit of data
-    and then you have the model and you can use it.” That didn't work for two reasons,
-    basically. One, of course, the training data that the business has to put into
-    the auto-AI was really bad. [chuckles]
-  sec: 1237
-  time: '20:37'
-  who: Johannes
-- line: And the second thing was – and I don't know if this is now shifting or not,
-    but it was the reason back then – they had a big fear of building AI themselves
-    because they were not the experts. Or they didn't want to have the responsibility
-    for building something like an AI. This was not a technical problem, but one rather
-    from a mindset or perspective. It’s just as I want to read a legal document, but
-    I don't want to write a legal document myself. It's kind of how I like to put
-    it. So what we wound up doing back then – we still had a consultancy, so everything
-    was going well.
-  sec: 1237
-  time: '20:37'
-  who: Johannes
-- line: We realized that we had this research project and we just said, “Okay, let's
-    shift the user from the non-technical user to the technical user and let's take
-    care of this specific problem that we realized is causing bad models, which is
-    training data.” From there, basically, we started building Refinery, the very
-    first version. We had specifically designed everything for engineers. We already
-    knew there are already many labeling tools that are already really good, but what
-    we were missing was something that gives engineers more control. That’s also the
-    idea of Refinery.
-  sec: 1237
-  time: '20:37'
-  who: Johannes
-- line: Why did you specifically focus on engineers?
-  sec: 1390
-  time: '23:10'
+- line: Imagine your toothpaste.
+  sec: 1211
+  time: '20:11'
+  who: Rosona
+- line: Okay, instead of toothpaste, you have this material.
+  sec: 1218
+  time: '20:18'
   who: Alexey
-- line: Because that's what we saw – they were the ones that were confident in building
-    AI models.
-  sec: 1394
-  time: '23:14'
-  who: Johannes
-- line: Your first product was focused on business people, and they weren't confident
-    in that.
-  sec: 1405
-  time: '23:25'
+- line: "Right. And then maybe something that cuts it off. I don't know. Maybe there's\
+    \ mold. Maybe it's a molding process. Somebody is going to come see this with\
+    \ a transcript and tell us next week, \u201CHow you make packing peanuts.\u201D\
+    \ But whatever. We're going to pretend this is how you make packing peanuts."
+  sec: 1220
+  time: '20:20'
+  who: Rosona
+- line: "Alright. It gets extruded. Maybe it gets dried. You obviously might collect\
+    \ them together at some point right into a big batch of packing peanuts. Now you\
+    \ have them and you ship those packing peanuts off. But obviously, you need some\
+    \ kind of\u2026 you need to measure the quality of your packing peanuts. I don't\
+    \ know what's important. What's important about packing peanuts? That they actually\
+    \ take up space, I guess? That they're not flat?"
+  sec: 1220
+  time: '20:20'
+  who: Rosona
+- line: Yeah, and they're not squishy?
+  sec: 1261
+  time: '21:01'
   who: Alexey
-- line: Exactly. They wanted to use the model in the process and they wanted to say
-    “I have the following problem. I have incoming emails and I want to classify them.
-    I want to have them draft the response for me.” But they don't want to build AI.
-    [chuckles]
-  sec: 1412
-  time: '23:32'
-  who: Johannes
-- line: So then they actually ask engineers to do this. Then the engineers would discover
-    Refinery, for example, and just go ahead and use it in building their solution.
-    Right?
-  sec: 1429
-  time: '23:49'
+- line: Not squishy. That they crumble. That they're not wet, I guess. That would
+    be good. But let's just say I want to make sure that they are not flattened. Maybe
+    flattening is a big problem. You extrude them and they dry wrong. I don't know.
+    How can I measure this? At this point, I've got some sensors I can put in. I feel
+    like visual sensors are always expensive.
+  sec: 1266
+  time: '21:06'
+  who: Rosona
+- line: I don't know if it's true, but my impression from what kind of data is available
+    is that other kinds of sensors are cheaper and easier to deal with. You might
+    have its weight, I guess. It's rolling along the belt and there's a weight sensor
+    underneath it and it says, suddenly, there was a drop in weight. Okay, what happened?
+    Did the batch of peanuts actually get excluded?
+  sec: 1266
+  time: '21:06'
+  who: Rosona
+- line: Maybe this thing that extrudes them can measure the volume? How much comes
+    out each time?
+  sec: 1311
+  time: '21:51'
   who: Alexey
-- line: Exactly. That's kind of the shift that we had. One of the insights that we
-    had with the first bad product was that we didn't yet understand… We understood
-    what our users wanted, but not that they didn't want to build it themselves. So
-    we took that insight and tried to shift the user perspective to different people.
-    We said, “Okay, can we help you build those models in a better way?” And it was
-    interesting, because we then realized that engineers had problems with training
-    data. The first team that we went to, who we are still actively working with,
-    basically had a process in which they were supposed to build this very AI. It
-    was a key process – something that the company has been working on for more than
-    a decade. The training data has been an Excel spreadsheet with 10,000 rows and
-    two columns. That was the foundation for their work. [chuckles]
-  sec: 1440
-  time: '24:00'
-  who: Johannes
-- line: So we asked them, “Is this for real? This is actually your training database?”
-    And it was. That was basically how we realized, “Okay, there are teams that have
-    almost no control over the training data that they have, so they have no insights.
-    And there are also teams that quickly want to prototype things so that they can
-    discuss with the business unit if it makes sense to follow through and if they
-    want to look deeper into it.” This is also why Refinery is now the product that
-    it is, because we tried helping those teams that quickly want to set something
-    up as a prototype. But it also is specifically designed to help engineers who
-    already have a labeled dataset and now want to dive deeper into what is going
-    on there.
-  sec: 1440
-  time: '24:00'
-  who: Johannes
-- line: This is also where the heuristics are super helpful, because you can do things
-    data management like looking for those records with two heuristics that your domain
-    experts gave you, where they collide – where they say different things. That's
-    basically that's how we got to the product. We've been going to developer conferences
-    and developer conferences and developer conferences – many of them –  and just
-    try to be super close to the users of it. At some point, we realized, “Okay, this
-    product that we've made, we have to open source it. That's the best way for us
-    to get more and more feedback and to distribute it faster.”
-  sec: 1440
-  time: '24:00'
-  who: Johannes
-- header: Making the decision to go with open source
-- line: I was just going to ask you how exactly you made this decision. So you attended
-    conferences. Was it your realization that you need to open source so that more
-    people try it? Or was this something you heard from other people at the conferences?
+- line: "Sure, yeah. You can. There you go. You can measure with each one \u201CIs\
+    \ the volume consistent? Am I always extruding 10 grams?\u201D Or whatever. Liters?\
+    \ No, milliliters. [laughs] I don't want a 10-liter packing peanut. [chuckles]\
+    \ Right."
+  sec: 1318
+  time: '21:58'
+  who: Rosona
+- line: So you monitor every step of this process.
+  sec: 1334
+  time: '22:14'
+  who: Alexey
+- line: "You might. But you have to decide. There's a person designing this process.\
+    \ This is also the thing \u2013 the person designing the process is not optimizing\
+    \ for the data collection necessarily. I feel like it's generally an afterthought.\
+    \ I have had this told to me by someone who runs a huge process that, \u201CData\
+    \ is an afterthought.\u201D And they're working on it. This is an industry-wide,\
+    \ \u201COh, yeah. We should really work on this problem.\u201D It's changing.\
+    \ But in general, historically, when you design a workflow, what you're optimizing\
+    \ for is \u2013 you don't want the people doing the things to cross paths too\
+    \ many times. Otherwise, they're going to slow things down by running into each\
+    \ other."
+  sec: 1337
+  time: '22:17'
+  who: Rosona
+- line: "So you design your shop floor full of machines and processes to minimize\
+    \ people running into each other. But that can make data collection and identification\
+    \ and tracking difficult. Why would you track one peanut? You wouldn't track one\
+    \ peanut, right? I wouldn't care about one peanut. I care about maybe 10 grams\
+    \ of peanuts. But then that's sort of tough, because at each stage of the process,\
+    \ maybe they get mixed up. Maybe you have data at the beginning that says this\
+    \ peanut was made with 10 milliliters of gunk. And then later on the process,\
+    \ you have 10 kilos of peanuts. And you can say, I guess, what their weight is.\
+    \ And then \u201COkay. Well, how do I know what peanuts were in here? How do I\
+    \ pull this data together so that it makes sense all together?\u201D There\u2019\
+    s a sort of coarseness and fineness of data and you mix things with processes\
+    \ that mix them together. Like when you're drying them \u2013 you could imagine\
+    \ that you put them in some big thing and they dry and then you have some kind\
+    \ of cycle to squish them around, mush them around."
+  sec: 1337
+  time: '22:17'
+  who: Rosona
+- line: "So I feel like coarseness and fineness of data is a problem. How you model\
+    \ the data when you finally want to work with it as a problem. Or challenge, sorry.\
+    \ A challenge. I mean, it's exciting. It's really cool. There's also processes\
+    \ where\u2026 I was told sewing (when you cut things) is really messy and it's\
+    \ a really hard problem to solve, \u201CHow do you model anything with a process\
+    \ that does cutting?\u201D Because there's so much vibration. Whatever sensors\
+    \ you have are going to have a lot of noise."
+  sec: 1337
+  time: '22:17'
+  who: Rosona
+- header: Why productive industry needs data
+- line: "Okay. So we have this process. This process produces a lot of data and not\
+    \ necessarily all the data we need. But what I\u2019m now wondering is, why do\
+    \ we actually care about this data? Do we want to make sure that the quality is\
+    \ good? Do we want to make sure that nothing breaks or what's the purpose?"
+  sec: 1474
+  time: '24:34'
+  who: Alexey
+- line: "On the productive end, definitely quality. For the research end, it's \u201C\
+    How do I make the best product?\u201D And then on the production, \u201CIt's gone\
+    \ live. What am I doing?\u201D Maybe this thing that you're doing gets turned\
+    \ into something else later. This is often the case in the productive industry.\
+    \ I wouldn't buy a semiconductor (I suppose I could) but I would buy something\
+    \ that has this chip in it. What you worry about is, \u201CWhat does my quality\
+    \ control tell you about the quality control of the downstream product?\u201D\
+    \ That's a big challenge. So this is something \u201CWhy do I even care?\u201D"
+  sec: 1493
+  time: '24:53'
+  who: Rosona
+- line: "Okay, maybe packing peanuts is a terrible example. But I don't want to ship\
+    \ a box full of flattened packing peanuts, because then they don't do their job.\
+    \ So quality control going out, quality control coming in of the product we're\
+    \ using to make our product. Also, stuff like, \u201CCan I improve processes?\u201D\
+    This example where I have a machine that's doing something and it needs to be\
+    \ changed regularly? Often you do this with just a rule of thumb. But maybe the\
+    \ costs are, especially now, so much of a pressure that you really want to optimize\
+    \ this process and change this part one less time a day, if possible. So you need\
+    \ to keep an eye on \u201CIs this process producing anomalous pieces? How good\
+    \ is the quality? Is it within the range I need?\u201D"
+  sec: 1493
+  time: '24:53'
+  who: Rosona
+- line: "Basically, we use this data for monitoring, I guess, at the beginning. [Rosona\
+    \ agrees] For example, we have one kilo or one liter of the material from which\
+    \ the peanuts are produced and we expect one kilo out. Right? [Rosona agrees]\
+    \ Or whatever volume. We can monitor it and we see \u201COkay. Something is happening.\
+    \ We put one kilo/one liter in but then something is happening, so we have less\
+    \ or more (or whatever) coming out.\u201D Then there are some charts and we can\
+    \ observe this."
   sec: 1582
   time: '26:22'
   who: Alexey
-- line: It was a combination, honestly. Basically, we already had the feeling that
-    open source could be an interesting approach. But I also have to say, I was a
-    bit afraid of open sourcing at first, because I thought we now have these really
-    cool products. It has been coming from research, so we did a lot of cool things,
-    and if we now open source it, we're basically showing exactly how it works.
-  sec: 1598
-  time: '26:38'
-  who: Johannes
-- line: It's something that was my initial mindset. I was realizing it more and more
-    as I spoke with more users. I also had kind of “help” in the sense that I had
-    a discussion with a befriended co-founder, who was also going through that phase.
-    He was also thinking “Oh, should I open source?” We just had a beer together and
-    talked a lot about it. At the end of the discussion, we both said, “We have to
-    open source what we’re building.”
-  sec: 1598
-  time: '26:38'
-  who: Johannes
-- line: Who is this other founder? What’s the product they have?
-  sec: 1656
-  time: '27:36'
+- line: "That's one thing \u2013 monitoring the process and making sure that things\
+    \ do not go wrong. And if something goes wrong, some of the metrics deviate from\
+    \ the usual things. You notice that, you detect an anomaly, and then you can do\
+    \ something with this \u2013 maybe send a technician to check what's happening."
+  sec: 1582
+  time: '26:22'
   who: Alexey
-- line: It's actually a product specifically designed for other developer toolings,
-    which is called Crowd. It's basically a tool that allows source projects for developers
-    to measure, “Where's my community? How big is my community? Where are the people
-    that are most engaged with my product?” He's basically the one who convinced me
-    to take the insights that we had from users and say, “Okay, let's open source
-    it.” [chuckles]
-  sec: 1660
-  time: '27:40'
-  who: Johannes
-- header: Pros and cons of launching as open source
-- line: So you had some fears of opening all the code. Did any of these fears, actually,
-    realize? Did any of the things you were afraid of actually happen? Now everyone
-    could just go and open the code and get the insight of your years of research.
+- line: "I\u2019m just here nodding. For the listeners."
+  sec: 1637
+  time: '27:17'
+  who: Rosona
+- header: Measuring product qualities
+- line: The other thing you mentioned is maybe the qualities of this thing. For example,
+    when you squash them, they need to recover their shape. Maybe there is a part
+    of the process that does that and we also record it?
+  sec: 1641
+  time: '27:21'
+  who: Alexey
+- line: 'We should also talk about tiny data. [chuckles] We should also talk about
+    R&D, but this one''s much easier because I think it''s understandable and faster.
+    But my impression is that there are two kinds of quality controls: live, on the
+    conveyor belt or whatever. During the process, you take a picture and keep going
+    and you leave the thing in the line. There''s a second kind, where you destroy
+    the product.'
+  sec: 1657
+  time: '27:37'
+  who: Rosona
+- line: I see. Okay.
+  sec: 1687
+  time: '28:07'
+  who: Alexey
+- line: "So that answers your question, which is \u201CHow do you tell if this is\
+    \ viscous enough (or whatever)?\u201D You take the thing out and you squash it.\
+    \ [laughs] You'd imagine this giant bin of packing peanuts, and you take your\
+    \ shovel, and you go in and you examine one shovel full of them and destroy that,\
+    \ so that you're only impacting a small percentage of what you're actually producing.\
+    \ Then, of course, there's a whole science around, \u201CHow much of a sample\
+    \ do I need? How often do I need the sample?\u201D Statisticians have certainly\
+    \ been working on this for a while."
   sec: 1691
   time: '28:11'
+  who: Rosona
+- header: How data specialists use industrial data
+- line: "But what I was going to ask is \u2013 as a data person, what do you do with\
+    \ this data? How do you use it? Do you build all these anomaly detection models\
+    \ that we just talked about? Or is there more?"
+  sec: 1723
+  time: '28:43'
   who: Alexey
-- line: It comes to both advantages and disadvantages, honestly. I think open source
-    itself is not a business model, but open source changes your business model. As
-    I already mentioned, we were coming from first the company, then the open source
-    perspective. We already knew that if we want to survive as a startup, we have
-    to make money at some point or find a way. What we realized is that you “lose”
-    some customers, in a sense, and you “win” some customers. You have to get an understanding
-    of what's bigger is – the losing customers or is the gaining customers bigger.
-  sec: 1712
-  time: '28:32'
-  who: Johannes
-- line: How exactly do you lose customers by opening the code?
-  sec: 1765
-  time: '29:25'
+- line: "Yeah, you can certainly do that. There are people who are adjacent to data\
+    \ science, or maybe in the broader data science family. You can also talk about\
+    \ econometrics, people who are computational scientists \u2013 I don't know how\
+    \ they would like to describe themselves \u2013 where they actually have the scientific\
+    \ background and have models based on these measurements, \u201CWhat do I expect\
+    \ about this particular quality of this product?\u201D Certainly, when you have\
+    \ to physically have to reach in and look at things and touch them, it's expensive.\
+    \ Anything you can automate is great."
+  sec: 1734
+  time: '28:54'
+  who: Rosona
+- line: "My experience talking to people has been primarily quality control. I'm sure\
+    \ there are other things right, like predictive maintenance and things like anomaly\
+    \ detection. Why do you care about anomaly detection? Or maybe the volume of anomalies?\
+    \ If suddenly you go from where your process has a 5% failure rate to a 20% failure\
+    \ rate, this is bad. Right? And then it's, but it's not something that you can\u2026\
+    \ it's like a pre-warning. Your role is to give them a flag that says something's\
+    \ terribly wrong. Then someone has to make the decision about what you do about\
+    \ it. Do you stop the machine? Do you stop the process? That also costs money.\
+    \ It really depends on the situation, what people need and what you can do."
+  sec: 1734
+  time: '28:54'
+  who: Rosona
+- header: Defining and measuring sustainability
+- line: "I have no idea how it works in this industry, but in internet companies (where\
+    \ I work) it works like this. There is a problem, users complain, or we want to\
+    \ improve something. We think, \u201COkay, what kind of data do we have for that?\u201D\
+    \ And if there is data \u2013 good. We just take this data and try to see if we\
+    \ can use this data to solve this problem."
+  sec: 1824
+  time: '30:24'
   who: Alexey
-- line: Yes, precisely. That’s a good question. We know that if you're working with
-    really small teams, like other startups, in many cases, the open source version
-    is everything that they need.
-  sec: 1771
-  time: '29:31'
-  who: Johannes
-- line: Oh, you mean they remain customers, but they don't pay you. Right?
-  sec: 1791
-  time: '29:51'
+- line: If there is no data, we need to collect this data, and then eventually hope
+    that it will be enough to solve the problem. Is it a similar situation with industrial
+    data? Say there is a problem where we need to make sure that the percentage of
+    defects is less than 1%.
+  sec: 1824
+  time: '30:24'
   who: Alexey
-- line: Exactly. Right.
-  sec: 1793
-  time: '29:53'
-  who: Johannes
-- line: They basically use the “free version”. The open source one.
-  sec: 1796
-  time: '29:56'
-  who: Alexey
-- line: Exactly. The open source version, I really must say, is a really good product.
-    It's basically already offering so many things, because we really tried to make
-    it a big open source. We didn't want to make this as a “marketing gimmick,” so
-    to say. We really wanted to commit to this open source idea. So, yes, we already
-    have lost revenue in that segment, because people who would otherwise have paid
-    for the software just took it and use it. And that's perfectly fine. That's cool,
-    because they use it and we get much more feedback and everything.
-  sec: 1799
-  time: '29:59'
-  who: Johannes
-- line: I think what we see more is that we are rather making money from the business
-    unit side. When we are working, for instance, with enterprises – we try to discuss,
-    “Okay, what kind of use cases are you working on? What kind of use cases do you
-    want to implement?” Then we talk about very specific details, for instance, “What
-    kind of use cases are there in the insurance industry?” It's much more that we
-    are now selling to the business units, but we get like the biggest support we
-    can imagine from the developers inside those companies, because they say, “Okay,
-    I downloaded the open source version. I played around with it. It's much better
-    than what we had before.” We, as developers, say, “Yes, that's good.”
-  sec: 1799
-  time: '29:59'
-  who: Johannes
-- line: The business typically pays for something different. They pay for some things
-    like support –the knowledge that you have from certain use cases. That's something
-    that we see. So we still have small companies also paying for the product, but
-    I would say the distribution shifted for sure. So we lost some and we gained some.
-  sec: 1799
-  time: '29:59'
-  who: Johannes
-- header: Kern’s business model
-- line: So what's your business model? From what I understood regarding what you just
-    said, you have the open source library and then there are some enterprises that
-    use this library – you support them and share the knowledge you already have.
-    I guess that’s one of the income sources, right? You consult on how to use your
-    product. Is this correct?
+- line: "In answer to what you were just saying, I was thinking of a new requirement.\
+    \ Right? Your downstream customer says, \u201CActually, we really want to track\
+    \ X. We have sustainability requirements.\u201D And then suddenly, it's a new\
+    \ requirement. Then the first thing is, \u201CDoes our data tell us that? Can\
+    \ we actually answer your question with our data? And if we can't, what do we\
+    \ need to do? Do we need to add a sensor? Is it just one sensor? Can we get away\
+    \ with one? Can we add a camera? Can we bring in some computer vision guys and\
+    \ gals?\u201D"
+  sec: 1870
+  time: '31:10'
+  who: Rosona
+- line: "What kind of requirements\u2026 you mentioned sustainability. This means\
+    \ that the process we have for producing packing peanuts is not too bad for the\
+    \ environment? There isn\u2019t too much emission?"
   sec: 1907
   time: '31:47'
   who: Alexey
-- line: Yes. Mainly, at the moment, we have the Refinery open source version as a
-    single user version. That's at the moment of the case. What that basically means
-    is, if you want to implement a project, you can just download it and use every
-    feature but you can just work in a single user setting. For instance, if you want
-    to invite me so that I can label your data, that can’t happen in the open source
-    version at the moment. The commercial one basically works like this – the engineers
-    don't want to label themselves, but rather they want to say, “I want to have control
-    over my project. So what I'm rather doing is setting those things up and then
-    asking my colleagues to label it in the subset where I really have headaches.”
-  sec: 1930
-  time: '32:10'
-  who: Johannes
-- line: That's what I meant so far, for instance for a pre-seed data product that
-    started, where they have one or two engineers at a time – that's okay, they don't
-    need that. They sometimes find workarounds that we didn't know existed to work
-    with the product. On the other side, you have the team that tries to think of
-    the opportunity costs. They say, “Okay, if I pay 150 euros per month right now
-    for this set up infrastructure for the multi-user setting and everything, for
-    the knowledge, we're basically saving a lot of money.” Then they would rather
-    pick that option.
-  sec: 1930
-  time: '32:10'
-  who: Johannes
-- line: So you do not do consulting? The income you have in your business model is
-    this extra thing, which is collaboration?
-  sec: 2033
-  time: '33:53'
+- line: "Let's pick another industry that I'm further away from. [chuckles] Like the\
+    \ airlines, and also the train companies have started saying \u201CWe're sustainable,\u201D\
+    \ or whatever. How are they guaranteeing that? I bought something recently that\
+    \ said, \u201CWe're 100% sustainable.\u201D Your T-shirt, right? There you go.\
+    \ Clothing is technically also a manufacturing industry. How do they certify that?\
+    \ The person making the shirt is taking fabric and thread and whatever from different\
+    \ customers and putting it all together."
+  sec: 1920
+  time: '32:00'
+  who: Rosona
+- line: "So they have to go to each of them and say, \u201CWe want this to be sustainable.\u201D\
+    \ And then they have to say what that means. I think this is a developing label,\
+    \ where people say, \u201CSustainable means X, Y, Z.\u201D And I don't know what\
+    \ it means. I haven't looked it up. I just threw it out there as a word. Maybe\
+    \ it means it has to be organic. Maybe it means you have to be CO2-neutral. I\
+    \ don't know. So you take these requirements to your cotton manufacturer, and\
+    \ then they have to go and see, \u201COkay, who do we buy our cotton from? What\
+    \ are the pesticides? What are the blah, blah, blah, blah? Do we even know that?\u201D"
+  sec: 1920
+  time: '32:00'
+  who: Rosona
+- line: "I feel like a lot of the problem is that no one thought about this problem\
+    \ at the time they developed the process. And so you have to figure out, \u201C\
+    Can I approximate? Can I create an avatar that answers this question given what\
+    \ I have? Or do I need to figure out a way to get that information going forward?\u201D"
+  sec: 1920
+  time: '32:00'
+  who: Rosona
+- header: Using data in reactionary measures to changing regulations
+- line: Do you have other examples (different examples) for these kinds of problems?
+  sec: 2009
+  time: '33:29'
   who: Alexey
-- line: It's both. I would say for the developers, it's mostly that they contact us
-    and they say “I want to build the following,” then it's mostly just giving them
-    the software and supporting them. Then they reach out to us with use cases that
-    we've never heard of, or they can give “process knowledge,” so to say. But when
-    it's more on the enterprise segment, and we reach out to clients ourselves, then
-    we reach out to them with very specific pain points and very specific industry
-    use cases. For example, how you can automate certain high value underwriting and
-    insurance. Then we basically say, “Okay, we're going to work very closely with
-    your development teams.
-  sec: 2043
-  time: '34:03'
-  who: Johannes
-- line: We're going to give you the software – basically the whole platform – but
-    we're also going to do things like workshops and the like, for you to dive deep
-    into it and make sure that everything is exactly as you want.” What I mentioned,
-    initially, the business units want solutions. In the end, they wouldn’t care if
-    it's… maybe they care a little bit, but they don't worry too much if it's AI or
-    not. They want a solution for their use case, so you really have to make sure
-    that that works.
-  sec: 2043
-  time: '34:03'
-  who: Johannes
-- line: As for the developers, they get super creative. They play with a lot of things
-    and they want to implement their own things. It's a bit different around the segments.
-    That's what I'm trying to say. I think open source pushes you more, more, and
-    more into understanding what kind of segments there are. So that's something I
-    definitely see impacted us.
-  sec: 2043
-  time: '34:03'
-  who: Johannes
-- line: The workarounds you mentioned that the engineers find – these are workarounds
-    to not pay you, right? [Johannes agrees and laughs] What do you do with these
-    workarounds when the developers share them with you? [cross-talk]
-  sec: 2144
-  time: '35:44'
+- line: "Right. Let\u2019s do toxicology. A friend of mine did this. Well, not toxicology,\
+    \ but he's doing brain research. But this is all just anything that involves animal\
+    \ trials. Pharmacology. I have never worked in this field, so this is another\
+    \ one where I'm making things up speculatively. My apologies to people who work\
+    \ with drugs. [cross-talk]"
+  sec: 2016
+  time: '33:36'
+  who: Rosona
+- line: Or paint, right? Paint is not supposed to be toxic.
+  sec: 2032
+  time: '33:52'
   who: Alexey
-- line: Honestly, when they share it with us on Discord – and I'm not kidding, you
-    can look into our Discord – we help them with that workaround. Basically, we had
-    one that I'm going to share because you can look into our Discord and see it anyway.
-    One way, basically, to work around it is that you can create a “smooth user” setup.
-    If you have multiple users, every one of them downloads the open source version
-    of Refinery and if user A starts labeling, what they can do is create a project
-    back up, which is like a snapshot of the whole project, and export that. It’s
-    not a regular export – a regular export looks a bit different. But you can create
-    something like a backup. If you import that backup into the other machine of the
-    other user, they can continue labeling. That's basically one workaround that you
-    can use.
-  sec: 2160
-  time: '36:00'
-  who: Johannes
-- line: But not at the same time, right? They cannot label at the same time. [Johannes
-    agrees] Basically, this is not convenient. Right?
-  sec: 2216
-  time: '36:56'
+- line: "No, no, but I mean\u2026 No. But paint can be toxic. Right? I mean, lots\
+    \ of things can be toxic."
+  sec: 2036
+  time: '33:56'
+  who: Rosona
+- line: "But better if it\u2019s not, right? [cross-talk]"
+  sec: 2041
+  time: '34:01'
   who: Alexey
-- line: Exactly. It's not convenient. For very early startups, it's rather that you
-    can say, “Okay, I will work two more hours today and we'll save 100 euros. That
-    sounds better so I'm going to do it even if it's not convenient.” That's something
-    different from corporate saying “We have way too little resources, but we have
-    money.” So it's two different pain points and two different perspectives. The
-    startup has a lack of money. Corporate has a lack of time. So it makes perfect
-    sense. We want to help people using our software. In the end, even the people
-    that find workarounds, they give us some super interesting insights. We want them
-    to use our software. We want them to find workarounds, and we will help them.
-  sec: 2222
-  time: '37:02'
-  who: Johannes
-- line: You mentioned the Discord channel. Do you have the link? This Discord is in
-    your GitHub, right?
-  sec: 2275
-  time: '37:55'
+- line: "But take drugs, right? You have to have drug trials. I know in the States,\
+    \ we have changing rules on what you're allowed to have in various things. At\
+    \ some point, it came out that BPA is terrible. So suddenly, all the plastics\u2026"
+  sec: 2041
+  time: '34:01'
+  who: Rosona
+- line: BPA? What is BPA?
+  sec: 2063
+  time: '34:23'
   who: Alexey
-- line: Yes. And the description is basically about our software. But we also like
-    to share things generally around data-centric AI, so for people that are also
-    just getting started, don't feel shy. There’s a super, super happy team and we’re
-    happy to have you.
-  sec: 2284
-  time: '38:04'
-  who: Johannes
-- header: Working with enterprises
-- line: You mentioned that for this second income source (consulting), you find enterprises,
-    for example insurance companies, and then you come to them with a use case already.
-    You say, “Okay, we think that a company like yours will benefit from this use
-    case because we saw that other companies already use this and they get a lot of
-    money or save a lot of time.” Right? This is how you would do this. [Johannes
-    agrees] And how do you find these clients? Or you just take a segment – let's
-    say insurance in Germany – and then you just start calling them?
-  sec: 2303
-  time: '38:23'
+- line: "It's a chemical. That\u2019s all I know. All I know is that at some point,\
+    \ we hit this, \u201COh, no! This is terrible!\u201D And so, all the chemical\
+    \ companies that made plastics had to suddenly make BPA-free plastics for food-safe\
+    \ things. So there was this sort of sudden reactive change. What\u2019s another\
+    \ example? Right \u2013 toxicology. I was just thinking, laws change, regulation\
+    \ changes, \u201Cthe allowable amount of X in Y\u201D changes regularly."
+  sec: 2064
+  time: '34:24'
+  who: Rosona
+- line: "You have to keep on top of regulations \u2013 what's allowed. Then, \u201C\
+    Okay, can we still keep selling this thing? Can we still keep producing this thing\
+    \ with the current regulation? Can we adjust our processes so that we have no\
+    \ BPA? Or only 5% BPA? Or we just don't sell water bottles anymore because we\
+    \ can't avoid this?\u201D"
+  sec: 2064
+  time: '34:24'
+  who: Rosona
+- line: "Okay. So there is a new requirement about a certain percentage of certain\
+    \ elements \u2013 BPA, or whatever element. Then you think, \u201COkay. Now how\
+    \ do I measure this?\u201D Then maybe there is a sensor that you can add to one\
+    \ of the pieces of equipment that you have. [cross-talk]"
+  sec: 2117
+  time: '35:17'
   who: Alexey
-- line: I think that's the difference between commercial software and purely open
-    source projects. You really have to try to understand how you can get in contact
-    with them, because it's not as simple as building a really great product and then
-    just calling and hoping everyone will say yes. [chuckles] That's not the case,
-    sadly. Honestly, it's a lot of trial and error. We see that different approaches
-    work for different segments.
+- line: "This actually would be a good transition into small data. Because at that\
+    \ point, if there's a law that says \u2013 well, I don't think there was a law\
+    \ about BPA, but whatever \u2013 if there's a customer demand or a law that says,\
+    \ \u201CWe cannot have this thing in our product,\u201D then you have to go back\
+    \ to the drawing board. You have to go back into research and say, \u201CCan we\
+    \ develop an equivalent product with similar enough properties without using this\
+    \ substance?\u201D"
+  sec: 2135
+  time: '35:35'
+  who: Rosona
+- line: So how do we do this?
+  sec: 2169
+  time: '36:09'
+  who: Alexey
+- line: '[chuckles] Experiments!'
+  sec: 2171
+  time: '36:11'
+  who: Rosona
+- line: '[chuckles] Real experiments, right? Not A/B tests.'
+  sec: 2174
+  time: '36:14'
+  who: Alexey
+- line: "Real experiments! I think that's also what's exciting about industry, is\
+    \ that there's real science\u2026 [chuckles nervously] I shouldn\u2019t say it\
+    \ like that, should I? [laughs]"
+  sec: 2175
+  time: '36:15'
+  who: Rosona
+- line: "Well I mean data science \u2013 is it a real science or not? Maybe not so\
+    \ much."
+  sec: 2186
+  time: '36:26'
+  who: Alexey
+- line: Sorry, natural sciences. People who have spent many years in a windowless
+    office blowing things up and losing fingers and whatever. [chuckles] Maybe not
+    losing fingers.
+  sec: 2188
+  time: '36:28'
+  who: Rosona
+- line: Hopefully not.
+  sec: 2201
+  time: '36:41'
+  who: Alexey
+- line: "It's a really different kind of place. I think people really hyper-specialize\
+    \ into their area, which is great. It's really valuable. It's really cool that\
+    \ people can explain to you\u2026 they give you a dataset, and you're like, \u201C\
+    Man, this is really hard to model this.\u201D And they're like, \u201CYeah. We're\
+    \ not surprised because blah, blah, blah.\u201D The way that you even define a\
+    \ measurement can be highly subjective. Right. Back to the point. The question?\
+    \ Sorry."
+  sec: 2203
+  time: '36:43'
+  who: Rosona
+- line: "The question was, there is a new requirement and we need to change the process.\
+    \ I imagine that in an internet company it could be something like, for example,\
+    \ four or five years ago GDPR appeared. All of a sudden, all the processes of\
+    \ collecting data needed to be redesigned or changed. For us, internet companies,\
+    \ that meant going there, changing the code and thinking \u201COkay. Does the\
+    \ new code we have and the processes we have now satisfy the new requirements?\u201D\
+    \ But it's code. It\u2019s all virtual. So it's just changes in Git or whatever.\
+    \ But in this case, in industry, it's actual scientists going there and starting\
+    \ to experiment with different chemicals or other things."
+  sec: 2233
+  time: '37:13'
+  who: Alexey
+- line: "Yeah. If you're in a situation \u2013 going back to your blue paint. Let's\
+    \ say we had our blue paint, and suddenly, it came out that there's something\
+    \ in this particular blue dye that's toxic when exposed to water."
+  sec: 2285
+  time: '38:05'
+  who: Rosona
+- line: Does not pass the Florida test. [chuckles]
+  sec: 2299
+  time: '38:19'
+  who: Alexey
+- line: I don't know, whatever. Something happens and we have to remove one of the
+    components of this blue dye. All production on it gets stopped. We go back to
+    R&D. So if it's something like that, where you're redeveloping something, that's
+    an interesting place to start. Because you do also have the old data. You have
+    the historic data, you have the experiments that got you there, and maybe you
+    can reuse some of that data to help you plan your next experiments.
+  sec: 2300
+  time: '38:20'
+  who: Rosona
+- line: What kind of data is there? Because it's different from the sensor data we
+    discussed.
+  sec: 2328
+  time: '38:48'
+  who: Alexey
+- line: Yeah, super different.
+  sec: 2333
+  time: '38:53'
+  who: Rosona
+- header: Types of industrial data
+- line: What kind of data is there? For example, paint or packing peanuts or whatever.
+  sec: 2336
+  time: '38:56'
+  who: Alexey
+- line: "I'll try to give you a spectrum. Oh! That's a great example, actually \u2013\
+    \ spectra. It depends on what stage of the process we're at, honestly. A year\
+    \ ago, I was working with polymers so I know a little more about polymers. There's\
+    \ a paper, which I think I added to the document for linked recommendations on\
+    \ polymer informatics and its challenges. It\u2019s a really cool field. So if\
+    \ you're doing something with chemicals, whether it's polymers or not, you have\
+    \ ingredients. It\u2019s the same for pharma \u2013 any field that has chemicals.\
+    \ Also in drug development. You have the ingredients that you put together. You\
+    \ have the recipe of how you make it."
   sec: 2340
   time: '39:00'
-  who: Johannes
-- line: One example, for insurance, especially in Germany, it's really a lot about
-    who you already know, what kind of networks they are. We are located in Bonn,
-    and many, many insurers in Germany are located in Cologne, which is very close
-    to Bonn. So what we basically do there is try to go to meetups or get in contact
-    with people that have a good network and can help us. That's one approach.
+  who: Rosona
+- line: "Like if you're baking a cake. If I tell you, \u201CThis cake is made out\
+    \ of\u2026 I don't know.\u201D This works with some recipes, but not all of them.\
+    \ Cake is actually chemistry. If I tell you, \u201CIt's 5 eggs, 100 milliliters\
+    \ of milk, 100 milliliters of flour.\u201D I made something terrible \u2013 some\
+    \ terrible slurry at this point. But if I just tell you the ingredients and you\
+    \ know nothing about baking a cake, you're not going to be able to bake a cake.\
+    \ [Alexey agrees] So there's effectively two sets of data and I think one of them\
+    \ tends to be held secret, which is one of the challenges of industrial data I\
+    \ wanted to come to. There's the data you are allowed to see and there's the data\
+    \ that you are not allowed to see."
   sec: 2340
   time: '39:00'
-  who: Johannes
-- line: Other approaches, in other segments, completely different things work. It
-    feels a little bit like not only building a product, but you also have to build
-    some kind of machinery to get in contact with people that could find this interesting.
-    There are many approaches that you just have to try out, I guess.
-  sec: 2340
-  time: '39:00'
-  who: Johannes
-- header: Johannes as a salesperson
-- line: Do you do this sales part yourself, or are there people in your team who take
-    care of that?
-  sec: 2421
-  time: '40:21'
+  who: Rosona
+- line: "You as a data person \u2013 you're not allowed to see some data."
+  sec: 2445
+  time: '40:45'
   who: Alexey
-- line: It’s both. Basically, up until March, it was completely on my own. We now
-    expanded the team a little bit. We didn't grow like crazy, but we hired a few
-    more people and added more people into this, but it's still 100% a very big part
-    of my job to do that.
-  sec: 2429
-  time: '40:29'
-  who: Johannes
-- line: As an engineer, how did you learn sales? For me, it's so unnatural – it's
-    so different. It's a totally different world.
-  sec: 2451
-  time: '40:51'
+- line: Yeah. So, baking a cake, right? Sure, the ingredients tell you something.
+    They tell you, for instance, if you are celiac (if you're allergic or to gluten)
+    you know whether the cake contains gluten. So you can certainly do something with
+    this information. But if you want to study the cake making process and figure
+    out if this cake is gonna be tasty or not, I don't think I can tell you from the
+    ingredients if the cake is gonna be tasty.
+  sec: 2449
+  time: '40:49'
+  who: Rosona
+- line: "But what do you do with this information? I imagine that there is a table,\
+    \ there are different sorts of ingredients with different\u2026 [cross-talk]"
+  sec: 2480
+  time: '41:20'
   who: Alexey
-- line: I think this sales thing has a bad connotation for engineers and I understand
-    it. But I think it's not true, honestly. Let me give you an analogy where I currently
-    see something super interesting happening. We have in our team, a so-called Developer
-    Relations Team. These are people that are very much focused on creating really
-    good content on YouTube, that also have people on Discord, go to meetups and everything.
-    Those are developers who do marketing. There’s this joke for developer advocates,
-    that you should never tell them that they are doing marketing, but they are doing
-    marketing. Because that's some approach that helps developers a lot.
-  sec: 2462
-  time: '41:02'
-  who: Johannes
-- line: Developers hate being sold something, but they love learning new things. So
-    what you try to do is go to conferences, talk with them, try to educate them about
-    new things and talk about your really cool open source project that they should
-    check out, because they will learn something from it. And that makes sense. I
-    like to think of sales very similarly. If you have a really interesting product,
-    and you see that it's helping people, then you can feel confident about it. Then
-    you don't feel shame when trying to sell something that they don't want, but instead
-    you actually want to try to help. You get in contact with them with a “big chest,”
-    a happy face and try to help them and try to understand what their problems are
-    and how you can help them. And then it's practice.
-  sec: 2462
-  time: '41:02'
-  who: Johannes
-- line: I'm also not perfect yet in that field. I used to make many excuses and will
-    continue to do so for the whole of my career. But I think it's the moment you
-    try to shift the perspective of trying to be someone who says something that people
-    don't need – to something like, “Okay, I'm trying to first understand what the
-    problems are and how I could potentially help you.” Then I think it's a whole
-    different topic.
-  sec: 2462
-  time: '41:02'
-  who: Johannes
-- header: The team at Kern
-- line: Okay, that's interesting. But right now you have people who help you with
-    that. Who do you actually have on the team? What kind of roles do you already
-    have?
-  sec: 2592
-  time: '43:12'
+- line: "Sure, let\u2019s say eggs, flour, milk."
+  sec: 2488
+  time: '41:28'
+  who: Rosona
+- line: "The amount of eggs\u2026 for this cake, you use 100 grams of sugar. For this,\
+    \ you use 200. And then you record everything you have in a database. So what\
+    \ do you do with this? In the end, maybe you predict whether the cake is tasty?"
+  sec: 2493
+  time: '41:33'
   who: Alexey
-- line: Yes. I think at this moment, we have 11 full-time people and 2 working students.
-    It's a small team. You can fit everyone at one table. [chuckles] We kind of have
-    three… this term sounds way too big for the team as it is, but we have but we
-    have three “departments” so to say. One being the development/product team – these
-    people work with Refinery, mainly, Bricks and the other products that we have.
-    Those are very engineering people. They can build stuff. They are very, very close
-    to the developers. So that's one department.
-  sec: 2602
-  time: '43:22'
-  who: Johannes
-- line: The other department is the developer application department, which is basically
-    just trying to focus on “Okay, how can we spread the word, how can we engage with
-    people, and how can we be helpful to them?” And “How is what we offer bigger than
-    our product?” For instance, they focus more on the topic of data-centric NLP instead
-    of just Refinery. Then we have our “go-to-market” team, which is basically a team
-    that is fairly close to sales. But instead of just doing sales in the sense of
-    calling people and selling the product, this team rather tries to understand,
-    “What kind of segments do we have? What kind of use cases are there? What kind
-    of things are people currently seeing? What kind of trends do we have?”
-  sec: 2602
-  time: '43:22'
-  who: Johannes
-- line: To give you an idea, something that we are seeing since November, there are
-    strategy and innovation departments in companies – they all have the same task,
-    which is basically to understand what GPT means for their business. It's people
-    that previously haven't worked with NLP. What the go-to-market team does is try
-    to understand “How can we help them? What kind of knowledge do they need to have?
-    And how can we help them?” Another part of the go-to-market team is setting up
-    campaigns, trying to reach out to them, having conversations with them, and so
-    forth.
-  sec: 2602
-  time: '43:22'
-  who: Johannes
-- line: That's kind of how it currently looks like. Something that I think we are
-    really good at is having the teams work together really, really well and I think
-    that's super critical for a startup. For instance, if the go-to-market team identifies
-    that logistics companies are struggling with email communication because vendors
-    are telling them what kind of shipments they need to send to Sweden the next day,
-    and they need to parse email data, then the dev team will have to set up some
-    Brick the next day. Then the dev team will make sure that this use case that the
-    go-to-market team wants to showcase is part of the playground. So that's how they
-    work together really well at the moment.
-  sec: 2602
-  time: '43:22'
-  who: Johannes
-- line: So then for the next logistics company, you can already showcase it and say
-    “Okay, this is what we do with our logistics companies. Do you want to have this
-    too?” and then you cover them.
-  sec: 2783
-  time: '46:23'
+- line: "You also measure your stuff. There are several kinds of measurements you\
+    \ can make. This is a beautiful transition. Thank you for the question. There's\
+    \ material properties, like hardness. There's different kinds of hardness. Viscosity,\
+    \ which there are also different kinds of. There's surface tension. There's things\
+    \ where you can pull it. I imagine I wouldn\u2019t do this with a cake. I wouldn't\
+    \ pull my cake apart. But certainly, if I were an industrial cake baker (they\
+    \ exist) I probably would pull a cake. I probably would measure how much force\
+    \ it takes to pull my cake apart. And then I would try to work out backwards,\
+    \ \u201CDoes that mean my cake is delicious?\u201D"
+  sec: 2508
+  time: '41:48'
+  who: Rosona
+- line: I really want to try it now. [chuckles]
+  sec: 2551
+  time: '42:31'
   who: Alexey
-- line: Yeah, basically. Kind of that way. Very often, depending on the enterprise
-    size, if it's a smaller enterprise, you can have recurring exact templates, so
-    to say, with pre-build AI models, because most logistics companies are struggling
-    with identifying unit dimensions in the emails. But if it's, for instance, going
-    into a bigger enterprise, they typically have very niche problems. Then you need
-    to take an example reference in this case, and try to narrow it down to what exactly
-    they are facing. I would say the bigger the client, the more you need to really…
-    I mean you should always understand what your client is facing – but the bigger
-    the clients, the more niche the problems become. That’s something that we’re seeing.
-  sec: 2794
-  time: '46:34'
-  who: Johannes
-- header: Johannes’s role at Kern
-- line: Interesting. And what exactly do you do? All three and more?
-  sec: 2840
-  time: '47:20'
+- line: "Because you can't just have people sit down and eat cake all day. You need\
+    \ approximations to that, which tell you something. So there's material properties,\
+    \ like I said the viscosity, or like the color, moistness. I don't know. Material\
+    \ properties. Then there's also \u201Capplication tests,\u201D which are, \u201C\
+    I've put this thing into another thing and I've done something to it.\u201D I\
+    \ don't have a good example\u2026 What would a cake application test be? [chuckles]"
+  sec: 2553
+  time: '42:33'
+  who: Rosona
+- line: Well, eating it?
+  sec: 2584
+  time: '43:04'
   who: Alexey
-- line: Me personally? [Alexey confirms] I'm jumping in between. Now I think my main
-    task is mainly in the go-to-market side. But I'm still programming. I do my side
-    of the programming as well, but the prototyping part. For instance, if I'm in
-    the go-to-market area, I'm trying to talk with potential clients to see what kind
-    of problems they are facing, and I'm hearing more and more certain things, then
-    I'm trying to very quickly set up some kind of prototype that I can demo to our
-    development team. I then try to understand and discuss with them what kind of
-    problems the potential clients are facing and how we could build something for
-    that or how we can nudge features. But I rarely do any fixing stuff or building
-    PRs for Refinery. Refinery is something that sadly, I don't touch at all anymore.
-    [chuckles]
-  sec: 2846
-  time: '47:26'
-  who: Johannes
-- line: But it wasn't like that all the time, right? I guess at the beginning, maybe
-    you focused more on the engineering side of things, then maybe developer advocacy
-    and now the go-to-market part.
-  sec: 2906
-  time: '48:26'
+- line: Um. Honestly, it would be something like you put it in a box and you ship
+    it. You drive it around Germany for a month with improper conditions and then
+    you measure if it's moldy. I can imagine that'd be an application test. It's more
+    extended. It's not a pure property of the cake. It's something you've done to
+    it.
+  sec: 2586
+  time: '43:06'
+  who: Rosona
+- line: "Okay, so you have\u2026 [cross-talk]"
+  sec: 2608
+  time: '43:28'
   who: Alexey
-- line: The coding part is becoming less and less, but it's still there. But I'm also
-    perfectly fine with that because I see that the overall speed in which we are
-    developing is just growing a lot and we just see that more and more cool things
-    are happening. This happiness of a developer seeing stuff becoming reality, that's
-    completely true. And it's becoming more and more true, even though I'm coding
-    less and less.
-  sec: 2919
-  time: '48:39'
-  who: Johannes
-- line: What's your actual title? I don't think I asked you. Are you the CEO, CTO,
-    or?
-  sec: 2949
-  time: '49:09'
+- line: "Everybody's going to be like, \u201CWhat are you really talking about Rosona?\u201D\
+    \ [chuckles] Yeah, I don't know if I can give you a real example. That\u2019s\
+    \ the thing."
+  sec: 2609
+  time: '43:29'
+  who: Rosona
+- line: Let's stick to the cake example. So what we record in our dataset is the ingredients
+    we use and how much of these ingredients we use. Then there are some properties
+    of the process that produces the cakes. And then there are all these properties
+    of the end result of the cake, like what happens if it's stretched. [chuckles]
+  sec: 2619
+  time: '43:39'
   who: Alexey
-- line: Yeah, but I'm also the person that's cleaning the office. [chuckles] Many
-    roles. No, I'm just one of the co-founders. Just for the official title, I'm the
-    CEO and my other co-founder is the COO, because we kind of have these roles where
-    he's working more on the stuff that's happening internally, like processes that
-    we need to set up and security stuff, whereas I'm rather the outside position,
-    like talking with clients. But yeah, that's just about it.
-  sec: 2955
-  time: '49:15'
-  who: Johannes
-- header: How Johannes and Henrik separate responsibilities at Kern
-- line: How did you come up with this separation of responsibilities? Was it something
-    natural or you just decided to sit down and discuss it?
-  sec: 2991
-  time: '49:51'
+- line: I like this example where we drive it around Germany and then we measure if
+    it's moldy.
+  sec: 2647
+  time: '44:07'
+  who: Rosona
+- line: "All these things \u2013 you do all these things and maybe one of the tests\
+    \ is actually eating the cake or trying to cut it and see how much stuff there\
+    \ is on the knife?"
+  sec: 2650
+  time: '44:10'
   who: Alexey
-- line: No, we didn't know that. When we started the consultancy, we didn't know what
-    our strengths and weaknesses would be because we didn't know too much about each
-    other yet. The setting basically was –I was looking for a co-founder for many
-    months for the consultancy and found no one. So I've started the consultancy myself
-    at first. I met Henrik during university and I was talking about a project that
-    I just landed that I realized I couldn't do myself. [chuckles] But I already signed
-    the contract, so I was kind of in a difficult situation.
-  sec: 3000
-  time: '50:00'
-  who: Johannes
-- line: We were talking a bit and I just asked, “Hey, do you want to join me for this
-    project and see if that works. Then we can potentially work together.” And he
-    was super enthusiastic and I'm so, so happy that he worked on a project with me.
-    But we didn't know our strengths and weaknesses. We figured that out, I think
-    over more than half a year later. That took a lot of time. At some point, we realize
-    that I'm a messy person. [chuckles] I jump around between different things and
-    Henrik is super calm. He's super structured and he is more analytical than I am.
-  sec: 3000
-  time: '50:00'
-  who: Johannes
-- line: I'm also an introvert but I'm still trying to talk with people to validate
-    ideas a bit quicker. That's something that we at some point realized that that's
-    kind of good that we are different in that sense. So Henrik is focusing more on
-    the internal stuff and I’m focusing more on the external stuff. But it took us
-    a lot of time to realize that.
-  sec: 3000
-  time: '50:00'
-  who: Johannes
-- line: Both of you come from a technical background. [Johannes agrees]. And neither
-    of you do any coding right now. Correct?
-  sec: 3104
-  time: '51:44'
+- line: Cutting it is a nice example. Yeah, there you go. That's how you actually
+    test the cake, right? You put the knife in to see if it's done. [chuckles]
+  sec: 2658
+  time: '44:18'
+  who: Rosona
+- line: So then I can imagine something like 20-30 different tests and you put all
+    this data in a database. What happens next? What do you do with this?
+  sec: 2669
+  time: '44:29'
   who: Alexey
-- line: Henrik doesn't code since the beginning anymore – basically, since the beginning
-    of our software consultancies he coded. And I code, essentially, if I want to
-    prototype something to showcase to the development team. At the moment, I'm working
-    on a prototype for native PDF labeling – basically extending Refinery, which is
-    currently for natural language processing. I'm currently prototyping. I don't
-    know whether we're going to continue on it, but it's just something that I want
-    to discuss with the dev team. I'm working a bit on that prototype, but it's definitely
-    not my main focus. That's kind of what I'm doing.
-  sec: 3117
-  time: '51:57'
-  who: Johannes
-- header: Working with very niche use cases
-- line: That sounds like a cool project. I guess one of your clients has this use
-    case, right? Or maybe multiple clients – they have a bunch of PDFs and they need
-    to do some NLP on these PDFs, right?
-  sec: 3160
-  time: '52:40'
+- line: "Well, first of all. It's there and they do whatever they do with it. I'm\
+    \ not a person who works in a lab. I\u2019m a data scientist."
+  sec: 2680
+  time: '44:40'
+  who: Rosona
+- header: Solving problems and optimizing with industrial data
+- line: But as a data scientist, what do you do with this?
+  sec: 2684
+  time: '44:44'
   who: Alexey
-- line: Yeah, it's many, many, many, many clients that have these PDF problems, but
-    it's just also so difficult. [chuckles] But we are already seeing that we made
-    incredibly good progress. It's not the first time that I'm touching this prototype.
-    I've touched this prototype, I think, already five times. This time, (I hope,
-    let's see) I cracked the code on how we can use our weak supervision approaches.
-    In the past, I already also looked into it and couldn't figure out any good way.
-    [chuckles] But basically, there's something manageable.
-  sec: 3174
-  time: '52:54'
-  who: Johannes
-- line: There are companies who specialize on just that – and not just on PDFs, but
-    on PDFs in a specific niche. For example, I remember five years ago I spoke with
-    a company in Berlin that was processing PDFs for real estate in Germany. It's
-    a very specific niche, real estate developers. They have specific processes, specific
-    documents. And it was enough just to start a company on this. I guess it’s not
-    a simple problem, right?
-  sec: 3208
-  time: '53:28'
+- line: "As a data scientist, at that point, the reason that they're coming to you\
+    \ is that they want to optimize something. This is a slight divergence to \u2013\
+    \ if you like mathematical optimization or Villard mathematical optimization,\
+    \ there are tons of those problems in industry. There's also a fight \u2013 okay\
+    \ a \u201Cgentle disagreement\u201D \u2013 on whether mathematical optimization\
+    \ falls under the larger ML/data science/AI world. Putting those aside, it's really\
+    \ important. I had an interview somewhere else where it was like a traveling salesman\
+    \ problem."
+  sec: 2686
+  time: '44:46'
+  who: Rosona
+- line: "We have logistics, we have 10 places where we store stuff \u2013 how many\
+    \ trucks do we need to get things from A to B in the correct time? We want to\
+    \ minimize that, obviously, for various reasons. And what route should they take?\
+    \ Planning, graph theory, mathematical optimization \u2013 these kinds of problems\
+    \ come in at this point. Coming back to your actual question, it's an optimization\
+    \ problem. They want the best cake. And they come to me and they say, \u201CWe\
+    \ want the best cake. Here's our data. We've done our experiments.\u201D"
+  sec: 2686
+  time: '44:46'
+  who: Rosona
+- line: "Do they define what is \u201Cbest\u201D?"
+  sec: 2759
+  time: '45:59'
   who: Alexey
-- line: Yeah. That's also something that I find extremely interesting, because it's
-    something that we are seeing when we're working with clients. You're working with
-    the development teams and they typically try to think about what helps the company
-    a lot and you see that there are different sets of use cases in a company. I like
-    to think of the long tail, so to say. There are very repeating use cases.
-  sec: 3241
-  time: '54:01'
-  who: Johannes
-- line: Every company processes invoices – every company. Of course, if you look at
-    it from a company perspective, the total market for generating invoices is huge.
-    And so, of course, there are like many vertical solutions for general invoices.
-    But there are also dozens of documents, as you already mentioned, that have different
-    categories. And from a total market perspective, they are tiny – but for the very
-    specific company, they are huge.
-  sec: 3241
-  time: '54:01'
-  who: Johannes
-- line: For instance, just to give one example, it could be that a certain type of
-    invoices like ones made by doctors or clerks or whatever – they may be a huge
-    volume of the general invoices that a company processes. So what they're doing
-    is, the data science teams are working on creating internal solutions for those
-    niche-y kinds of documents. There's no vertical solution that is out-of-the-box,
-    but we can have those data science teams come up with a niche solution much quicker.
-    That's also what we at Kern see often.
-  sec: 3241
-  time: '54:01'
-  who: Johannes
-- line: If I understood you correctly, there is a company (an enterprise) that already
-    has a data team, and they have this problem with processing invoices – they have
-    a lot of PDFs. What you do is you help them set up or improve the processes by
-    using Refinery to label data, so then they can train models and optimize these
-    processes.
-  sec: 3339
-  time: '55:39'
+- line: "Yeah. But before that even happens \u2013 in an ideal world, let me tell\
+    \ you the ideal. The ideal workflow, which does not always happen, is they first\
+    \ come to you and say, \u201CWe want to run experiments such that we can then\
+    \ determine the best cake relative to these requirements.\u201D And if they do\
+    \ that, then you can do a design of experiment."
+  sec: 2763
+  time: '46:03'
+  who: Rosona
+- line: I was thinking of a situation, for example, when you bake a cheesecake, sometimes
+    there could be cracks in the cheesecake. After you bake it.
+  sec: 2782
+  time: '46:22'
   who: Alexey
-- line: Exactly. That's not just for documents. But for documents that's what we're
-    currently trying to figure out a bit. But it's also something for natural language
-    processing. Very often, you go into the companies, and you see that there are
-    already data science teams working on a long list of use cases. It's not just
-    one use case. Basically, it’s internal processes that are high in value. So if
-    you optimize them, it's beneficial for the company.
-  sec: 3363
-  time: '56:03'
-  who: Johannes
-- line: What we typically try to do is just work together very closely with the developer
-    team to figure out ways to improve that. And the reason that having an open source
-    project is helping us so much to start at a good baseline, basically, on a human
-    to human level with the dev team, is because they already know that we are contributing
-    to the open source community. Every developer likes that. That's one of the big
-    advantages of our open source launch.
-  sec: 3363
-  time: '56:03'
-  who: Johannes
-- header: The short story of how Kern got its funding
-- line: I just realized that I did not ask you about that. First of all, congratulations
-    on getting funding of 2.7 million – very nice. I wanted to ask you, how did you
-    actually get it and what the process was. I don't think we have a lot of time,
-    but maybe you can quickly tell us. Was it difficult, or because you already had
-    a good product, it was only natural that investors just wanted to give you money?
+- line: "So \u201Cbest\u201D could be minimizing cracks, or there's no cracks, right?\
+    \ So you got things that you measured. What do they want to optimize? They want\
+    \ maybe the lowest cost possible relative to the best taste and, the least cracks,\
+    \ the best color. Maybe you want a shiny cake. If you got one of those (I don't\
+    \ know if you watch baking shows) but there are these baking shows where they\
+    \ make really shiny cakes. I don't know how they make them shiny, but they do\
+    \ look really tasty. So maybe you want a shiny cake. And then you can measure\
+    \ the shininess. There was a way to measure that using light and reflection and\
+    \ sensors."
+  sec: 2792
+  time: '46:32'
+  who: Rosona
+- line: So you have all these requirements and then you have an optimization problem.
+    [Rosona agrees] How do you combine your ingredients in such a way, or how do you
+    optimize your process in such a way that you still satisfy all the requirements.
+    You maybe maximize some of the things you minimize some of the other things. Is
+    it called linear programming? Simplex method? Things like that?
+  sec: 2826
+  time: '47:06'
+  who: Alexey
+- line: Yeah, related.
+  sec: 2848
+  time: '47:28'
+  who: Rosona
+- line: That's what you use. Or what do you typically use?
+  sec: 2850
+  time: '47:30'
+  who: Alexey
+- line: "I'm gonna say we're coming a little too close to things I probably shouldn\u2019\
+    t talk about. [chuckles]"
+  sec: 2852
+  time: '47:32'
+  who: Rosona
+- header: Industrial solvers
+- line: Well, let's say for this hypothetical example of a cake. What would you use?
+  sec: 2859
+  time: '47:39'
+  who: Alexey
+- line: "No, I\u2019m not going to."
+  sec: 2864
+  time: '47:44'
+  who: Rosona
+- line: Simplex method? Would you use the simplex method?
+  sec: 2868
+  time: '47:48'
+  who: Alexey
+- line: I think honestly, and I think this is probably obvious that we have tools
+    that help us. There are companies who specialize in doing mathematical optimization
+    and making it super easy and we might make use of their offerings to make our
+    lives easier. Then what are we actually doing? Well, we're setting up the problem.
+    And if there's not enough data, there are ways to deal with that. That's where
+    data science comes in, as well. And then you hand all that to a solver.
+  sec: 2872
+  time: '47:52'
+  who: Rosona
+- line: Okay. So there is some industrial solver. There is a company that maybe specializes
+    in optimizing these kinds of processes. For you, what you need to do is define
+    the problem and then put the data there. Then you click a button and watch the
+    solver find the best solution?
+  sec: 2902
+  time: '48:22'
+  who: Alexey
+- line: If you only have like 10 data points, you can't feed that into a solver. There's
+    modeling in the middle. And that's where data science comes in as well.
+  sec: 2921
+  time: '48:41'
+  who: Rosona
+- line: What kind of modeling is it? Creating new data?
+  sec: 2930
+  time: '48:50'
+  who: Alexey
+- line: "Alexey\u2026"
+  sec: 2935
+  time: '48:55'
+  who: Rosona
+- line: That's the most interesting stuff. [laughs]
+  sec: 2936
+  time: '48:56'
+  who: Alexey
+- line: I know, I know. But I'm not officially here to officially talk about this.
+    I haven't had a deep heart-to-heart discussion with communications about what
+    I'm allowed to say. And we're recording, and this is live. I have no way to edit
+    this out later if I say something I'm not supposed to.
+  sec: 2937
+  time: '48:57'
+  who: Rosona
+- line: Okay. Understood.
+  sec: 2956
+  time: '49:16'
+  who: Alexey
+- line: "Now I have to figure out if I can answer your question at all? [chuckles]\
+    \ We do have hack\u2026 \u201CWe\u201D now I'm talking from my company's perspective.\
+    \ There are hackathons that are faced to the outside world. And that's not a bad\
+    \ place to learn about what kind of modeling one does. And there certainly are,\
+    \ with tiny data, the answer is not\u2026 This is obvious. It is not a secret\
+    \ that the answer is not going to be a neural net, unless it's something that's\
+    \ been pre-trained and you can do transfer learning. Make good friends and statisticians,\
+    \ if you think tiny data is exciting."
+  sec: 2961
+  time: '49:21'
+  who: Rosona
+- line: "And I think there's no one answer. That's what I also found exciting. We\
+    \ have a working group at work to talk about, \u201CHey, I have this problem.\
+    \ What do I do with it?\u201D It's not just optimization. There's also \u201C\
+    Can we do prediction?\u201D And sometimes the smallness of the data is actually\
+    \ \u2013 we have an infrared spectrum, or some kind of measurement that's like\
+    \ a time series. So it looks huge, but it's actually small. And then, \u201CHow\
+    \ do I take this data and figure out things from it?\u201D [chuckles] I keep wanting\
+    \ to say that there are all these cool challenges."
+  sec: 2961
+  time: '49:21'
+  who: Rosona
+- line: "I imagine a binary classification model that says \u201CWith these ingredients\
+    \ and this process of baking the cake, will it crack at the end or not?\u201D"
+  sec: 3031
+  time: '50:31'
+  who: Alexey
+- line: "Well, that's another problem. Yeah. If you don't want to do optimization,\
+    \ if you don't want to do \u201CWhat's the best formulation for this cake,\u201D\
+    \ which is what I was working on, then what you want is, \u201CGiven these things,\
+    \ what's going to happen?\u201D \u201CWill the cake crack?\u201D Completely separate\
+    \ question? We have those questions as well."
+  sec: 3044
+  time: '50:44'
+  who: Rosona
+- line: "I think something I was sort of struggling to explain to someone the other\
+    \ day is that with this kind of work, you don't necessarily have a high volume\
+    \ of in-production models. Back when I hung out in the MLOps community, I was\
+    \ trying to figure out, \u201CCan I use this structure for my problems?\u201D\
+    \ But if you don't have high volume things, because you only have tiny data or\
+    \ you have a consulting project to do this one thing, then you don't need a model\
+    \ that\u2019s there and tells you the optimal solution. You have one."
+  sec: 3044
+  time: '50:44'
+  who: Rosona
+- header: Tiny data vs Big data in productive industry
+- line: "Well, since you mentioned MLOps, I'm wondering \u2013 in internet companies,\
+    \ I know that people use Kubernetes and all this stuff, Cloud for deploying the\
+    \ models. I imagine that this is a pretty different situation in the real industry."
+  sec: 3102
+  time: '51:42'
+  who: Alexey
+- line: "If you go to the productive side, I would say that it should feel to you\
+    \ like everywhere else. So if you're coming from anywhere else in IT. Can we call\
+    \ IT? In the data space. If you're working in the data space, and you're used\
+    \ to how people deploy things, CI/CD, MLOps, whatever, and you like working in\
+    \ that space and you're looking over here saying, \u201CHmm. Manufacturing. What\
+    \ can I do?\u201D I would definitely say the productive side, where you're generating,\
+    \ depending on the speed of this conveyor belt, if each of our packing peanuts\
+    \ is gonna have a time series associated with it. It's giant piles of data."
+  sec: 3123
+  time: '52:03'
+  who: Rosona
+- line: "At one point, I was so excited because I was using Spark to pivot like two\
+    \ terabytes of data and that was like a day of data. So there is big data and\
+    \ there are these things where people have models and they're doing experiments,\
+    \ and they're constantly deploying and all that. It's there. But I would say with\
+    \ the tiny data, it should feel obvious that that's not necessarily the challenge\
+    \ that you're dealing with. I knew someone who was embedding their model into\
+    \ a software that was being used for visual inspections. There's also deployment\
+    \ in a kind of local sense as well. Not a big\u2026"
+  sec: 3123
+  time: '52:03'
+  who: Rosona
+- line: I understand. So for the production settings, you probably have all these
+    Kafkas and streaming data.
+  sec: 3205
+  time: '53:25'
+  who: Alexey
+- line: "Again, I can\u2019t tell you what our stack is."
+  sec: 3213
+  time: '53:33'
+  who: Rosona
+- line: "It doesn't matter. What I mean is, there are some systems that maybe you\
+    \ will find in other places, like internet companies. Because you want to react\
+    \ to this data reliably. Right? You want to observe this data, you want to make\
+    \ sure all their alerting are set and all the models work in real-time, as the\
+    \ process is actually happening. And then there is the other side of the spectrum,\
+    \ which is these experiments, where maybe you have like 10 data points and you\
+    \ put them in Excel and then you look at them, and then\u2026"
+  sec: 3215
+  time: '53:35'
+  who: Alexey
+- header: The advantages of coming from academia into productive industry
+- line: "You don't even just look at them. I appreciate your summary and I like what\
+    \ you're doing and you're trying to bring us to an end. But I think part of what's\
+    \ really interesting is you have to learn about the data. If you're a scientist\
+    \ now and by scientist, I mean a real\u2026 [chuckles] if you're a physical scientist,\
+    \ if you're a chemist, you're a physicist, you're a \u2013 I don't know what other\
+    \ sciences we have, sorry, guys [chuckles] \u2013 it's a really powerful place\
+    \ to be because then you can learn the machine learning methods and then you have\
+    \ the background. You go into it."
+  sec: 3250
+  time: '54:10'
+  who: Rosona
+- line: "People don't write everything down. Everybody knows when you start making\
+    \ whatever it is \u2013 when you start making blue paint \u2013 the first thing\
+    \ you do is you heat up the container to 100 Celsius. Or whatever it is. But everybody\
+    \ knows it so we don't write it down. So if you are a chemist who did this thing,\
+    \ then you know that thing. You know all the context, you know the baked-in knowledge.\
+    \ So it's more than just the Excel file. And I've talked to people about that\
+    \ and their challenges with past projects and they're like, \u201CYeah, we just\
+    \ threw a data scientist at it and got nowhere.\u201D And it's because they didn't\
+    \ ask the right questions."
+  sec: 3250
+  time: '54:10'
+  who: Rosona
+- line: And the data scientist had no idea about all this hidden knowledge, right?
+  sec: 3324
+  time: '55:24'
+  who: Alexey
+- line: You have to work really closely with your partners. You can't just be a hermit
+    data scientist. You have to be incredibly engaged with your partners and interested
+    about their processes and ask them.
+  sec: 3328
+  time: '55:28'
+  who: Rosona
+- line: "You cannot just open your CSV file with pandas and then throw it to XGBoost\
+    \ and then\u2026"
+  sec: 3340
+  time: '55:40'
+  who: Alexey
+- line: "No. First you talk to them and you ask them what the problem is, and that\
+    \ you understand it. Then they explain the process to you and what everything\
+    \ means and then you go digest it. You do your EDA, and you come back and you're\
+    \ like, \u201CThese things are both called shininess. Shininess 1, Shininess 2.\
+    \ And their ranges are really different. Their distributions are really different.\
+    \ What is this? What is this shininess? Is it a data collection problem? Is it\
+    \ a definition? Do I just not understand the difference? Should I be taking their\
+    \ differences?\u201D"
+  sec: 3344
+  time: '55:44'
+  who: Rosona
+- line: "Also, people measure stuff, after 6 days, after 12 days, after a month, and\
+    \ then they view these as really separate measurements, but to me, they're just\
+    \ the same measurement but over time. \u201CWhich way should you model it? How\
+    \ do I cut the data? How do I model it? How many models do I need to bring together\
+    \ to actually give what they need?\u201D There's a lot of really cool challenges."
+  sec: 3344
+  time: '55:44'
+  who: Rosona
+- header: Materials and resources for industrial data
+- line: There any open materials about this subject? Courses, books, whatever, where
+    people can just go and learn about this?
+  sec: 3409
+  time: '56:49'
+  who: Alexey
+- line: There must be. [laughs]
+  sec: 3418
+  time: '56:58'
+  who: Rosona
+- line: "Oh, okay. I should ask \u201CDo you know any and can you recommend some?\u201D"
   sec: 3422
   time: '57:02'
   who: Alexey
-- line: I’ll try to give the short answer even though it’s possible there would be
-    a long answer as well. [chuckles] So in short, I think we had a relatively good
-    standing because we were interesting for a very niche kind of investor. If you
-    think of 100 investors, (it's also just a random number, but just to tell the
-    story) 10 of them are specifically interested in open source for machine learning
-    and maybe five of them are also specifically interested in developer tooling.
-    The number of investors we talked to was relatively small, but those that we talked
-    with, we had the benefit that they were very interested. A big part of this was
-    also that not all of them, but many of those investors basically contacted us,
-    because of the open source launch. In a very short way, that’s how the funding
-    happened.
-  sec: 3452
-  time: '57:32'
-  who: Johannes
-- line: I just realized that I actually completely forgot about that. So after we
-    did this Open Source Spotlight, I got a message in LinkedIn from one of the investor
-    families – there are actually families that invest in, surprisingly, in open source
-    ML tools – and they told me, “Look, we are big fans of your open source spotlight
-    and we want to invest into this company called Kern. What do you know about them?”
-  sec: 3515
-  time: '58:35'
+- line: "No, no. I mean, I'm happy to try to figure out the answer to that question.\
+    \ I wish I had gotten you an answer beforehand. I did put on this document \u2013\
+    \ there's this machine learning repository, which has a very realistic dataset\
+    \ on sensors. It's from the semiconductor industry. You can go play with that,\
+    \ if you want to build yourself into an anomaly detection model for whatever the\
+    \ process is that they're modeling. [cross-talk]"
+  sec: 3426
+  time: '57:06'
+  who: Rosona
+- line: The , right?
+  sec: 3455
+  time: '57:35'
   who: Alexey
-- line: '[laughs] Really?'
-  sec: 3540
-  time: '59:00'
-  who: Johannes
-- line: Yeah. I hope I actually went through. I don't know what happened after that.
-    But they were also asking about other startups. They said they are big fans of
-    this Open Source Spotlight, which I never realized. It was never the intention
-    to do these things for investors. It was just very surprising. Maybe we need to
-    get one of these investors on the podcast. It would be quite interesting to see
-    how they make decisions.
-  sec: 3542
-  time: '59:02'
+- line: Exactly that, right. That's a short answer. There must be a book. I just don't
+    know what it is.
+  sec: 3458
+  time: '57:38'
+  who: Rosona
+- line: Well, we will release this interview in a couple of weeks as an audio-only
+    version with transcripts and footnotes. If by then you find anything interesting,
+    then please let us know and we will add this to the show notes. By the way, I
+    just shared the link in the live chat and I'm going to put this in the description
+    too.
+  sec: 3473
+  time: '57:53'
   who: Alexey
-- line: That would be super interesting, I guess, because it's something that you
-    see so much in the last five years or so – funds (not all of them, but many of
-    them) are building their investment thesis specifically for open source. I think
-    that the time of “commercial open source” companies is basically just going to
-    go bigger and bigger and bigger. So yes, that's a good idea. [chuckles]
-  sec: 3569
-  time: '59:29'
-  who: Johannes
-- header: Johannes’s resource recommendation
-- line: Maybe the last question before we wrap up. So you know any resources or books
-    or anything that you want to recommend to our listeners about the topic of starting
-    an open source startup?
-  sec: 3598
-  time: '59:58'
+- line: "We\u2019re at the end, but there was a Slido. Did you check the questions?\
+    \ Do you want to do a quick question?"
+  sec: 3496
+  time: '58:16'
+  who: Rosona
+- header: Women in industry
+- line: "Yeah, there was a question. There's one \u2013 I don't know, it\u2019s a\
+    \ bit personal if you want to answer that or not. Are you the only woman on the\
+    \ team?"
+  sec: 3499
+  time: '58:19'
   who: Alexey
-- line: Not on that precisely, but one book that I would recommend for people to read,
-    when talking about machine learning and natural language processing more from
-    the economic perspective, is a book that's called Prediction Machines. This is
-    basically a book I think it's like five years old or something, but it's looking
-    at machine learning from a very dry economic perspective. It's still fun to read.
-    But it just gives you so much of an understanding on what kind of business applications
-    machine learning has. It tries to view this topic from not just the technical
-    perspective, but also what automating one part of a task means for the other tasks
-    in the process. It just has so much to get a better overview of applied AI.
-  sec: 3610
-  time: '1:00:10'
-  who: Johannes
-- line: 'I am checking it on Amazon. It''s called Prediction Machines, Updated and
-    Expanded: The Simple Economics of Artificial Intelligence.'
-  sec: 3664
-  time: '1:01:04'
+- line: "In my current team? No. In my larger previous team, definitely not. I'm not\
+    \ going to share a picture, but we had a dinner on Friday and let's see\u2026\
+    \ There were ten people and four women."
+  sec: 3513
+  time: '58:33'
+  who: Rosona
+- line: "Okay. So gender balance is\u2026"
+  sec: 3532
+  time: '58:52'
   who: Alexey
-- line: Yes, exactly. That one. That's good.
-  sec: 3672
-  time: '1:01:12'
-  who: Johannes
-- line: Okay. Thanks, Johannes, for joining us today, for sharing your experience
-    with us. It was really nice talking to you. And thanks, everyone, also for joining
-    us today and listening in.
-  sec: 3675
-  time: '1:01:15'
+- line: "Gender balance is fine. I don't think it's always \u2013 it's not always\
+    \ half. I think some of this is, of course, who actually comes out to dinner.\
+    \ But it's not terrible."
+  sec: 3534
+  time: '58:54'
+  who: Rosona
+- header: Why Rosona decided to shift to industrial data
+- line: "Yeah, we have more questions, but I think we already answered some of them.\
+    \ For the rest it\u2019s \u201CCan you talk more about your decision to work in\
+    \ industry?\u201D It will probably require another episode and another interview.\
+    \ So maybe we can just wrap up."
+  sec: 3545
+  time: '59:05'
   who: Alexey
-- line: Thanks for the invitation.
-  sec: 3688
-  time: '1:01:28'
-  who: Johannes
+- line: "Yeah. Hmm. \u201CWhy Industry.\u201D You mean productive industry? There's\
+    \ sort of two questions, depending on how you define \u201Cindustry\u201D. Do\
+    \ we mean just not academia? Or do we mean productive industry?"
+  sec: 3562
+  time: '59:22'
+  who: Rosona
+- line: Well, I guess maybe both?
+  sec: 3580
+  time: '59:40'
+  who: Alexey
+- line: "Okay. Not academia because I like it all right here. I reached the point\
+    \ where the next academic position I could take would have been six months with\
+    \ a possible renewal for an extra six months. Moving to another country, learning\
+    \ another language. And I thought, \u201CYou know, I'm not\u2026 No.\u201D [laughs]\
+    \ At that point, obviously, I needed to do something not in academia. And then\
+    \ why I started where I started is \u2013 I applied for everything and I asked\
+    \ everybody, \u201CDo you know people who are in industry?\u201D [chuckles] \u201C\
+    Oh, yeah! I know this guy. Oh, yeah.\u201D I talked to him and it's over someone\
+    \ I knew."
+  sec: 3583
+  time: '59:43'
+  who: Rosona
+- line: "Was it just something attractive to you? You thought, \u201COkay, this is\
+    \ something I want to work with because it sounds way cooler than your usual e-commerce\
+    \ store.\u201D"
+  sec: 3632
+  time: '1:00:32'
+  who: Alexey
+- line: "Six years ago, it was \u201CI need a job.\u201D [laughs] And then three years\
+    \ ago it was the way the project was pitched to me, which was, \u201CHey, we're\
+    \ effectively this little research group in industry and we have all these POCs.\
+    \ We want someone to help us try to figure out how to take them and turn them\
+    \ into productive product projects.\u201D And I thought that sounded really cool.\
+    \ That's what got me into it. And like the people. I have to say, I hung out with\
+    \ a lot of physicists in grad school. If you're listening \u2013 Hi. [laughs]\
+    \ There's a lot of physicists and chemists. It's just a different worldview \u2013\
+    \ the people that you end up interfacing with. And in data science as well, the\
+    \ people touching the data and generating the data."
+  sec: 3640
+  time: '1:00:40'
+  who: Rosona
+- line: "It's just a very different flavor of workplace. My previous employer, the\
+    \ people who worked on the shop floor were walking around in these ridiculous\
+    \ shiny jumpsuits, because of something in the fabric that reduces the static.\
+    \ So you know people just wear whatever, right? People show up in hiking clothes.\
+    \ It\u2019s just very casual. It's much more about the work and the science. It's\
+    \ very\u2026 the people. The people \u2013 that\u2019s the answer."
+  sec: 3640
+  time: '1:00:40'
+  who: Rosona
+- line: I also guess that it depends on where you are geographically. When it comes
+    to Germany, for example, if you're in Berlin, there are not so many companies
+    in this kind of industry. You'll probably end up working for an internet company.
+  sec: 3718
+  time: '1:01:58'
+  who: Alexey
+- line: There's like a little bit.
+  sec: 3735
+  time: '1:02:15'
+  who: Rosona
+- line: "A little bit, but you need to be specifically looking\u2026"
+  sec: 3739
+  time: '1:02:19'
+  who: Alexey
+- line: A little further away. Like closer to Dresden or something. There are a few
+    down there. You have to get outside of Berlin itself. Yeah.
+  sec: 3741
+  time: '1:02:21'
+  who: Rosona
+- line: Yeah. Well, I think that's all we have time for today. Thanks a lot. That
+    was a really good discussion. I'm pretty hungry now after talking about peanuts
+    and cakes. [laughs] I should probably go and eat something. Thanks again. And
+    thanks, everyone, for joining us today. It was nice talking to you.
+  sec: 3750
+  time: '1:02:30'
+  who: Alexey
+- line: Yeah, likewise.
+  sec: 3771
+  time: '1:02:51'
+  who: Rosona
 ---
 
 Links:
