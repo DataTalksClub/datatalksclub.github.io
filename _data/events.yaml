@@ -1,4 +1,11 @@
 
+- time: 2023-05-02 17:00:00
+  title: "Introduction to MLOps and MLOps Zoomcamp"
+  speakers: [alexeygrigorev]
+  type: webinar
+  link: https://eventbrite.com/e/625151012507
+
+
 - time: 2023-05-09 17:00:00
   title: "From Data to Deployment"
   speakers: [agostinocalamia]
