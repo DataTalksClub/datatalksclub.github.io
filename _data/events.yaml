@@ -1,5 +1,12 @@
 
 - time: 2023-05-02 17:00:00
+  title: "Building Scalable and Reliable Machine Learning Systems"
+  speakers: [arsenykravchenko]
+  type: podcast
+  link: https://eventbrite.com/e/628397232037
+
+
+- time: 2023-05-02 17:00:00
   title: "Introduction to MLOps and MLOps Zoomcamp"
   speakers: [alexeygrigorev]
   type: webinar
