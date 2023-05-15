@@ -1,9 +1,9 @@
 
-- name: "Iterative"
-  link: https://iterative.ai/
-  image: /images/partners/iterative.png
-  from: 2022-04-27 00:00:00
-  to: 2023-05-01 00:00:00
+# - name: "Iterative"
+#   link: https://iterative.ai/
+#   image: /images/partners/iterative.png
+#   from: 2022-04-27 00:00:00
+#   to: 2023-05-01 00:00:00
 - name: "Weights & Biases"
   link: https://wandb.ai/
   image: /images/partners/wandb-abb.svg
