@@ -1,4 +1,11 @@
 
+- time: 2023-05-30 17:00:00
+  title: "MLOps Zoomcamp - Experiment Tracking with Weights and Biases"
+  speakers: [soumikrakshit]
+  type: workshop
+  link: https://eventbrite.com/e/638021528567
+
+
 - time: 2023-05-23 17:00:00
   title: "Building and Scaling a Machine Learning Platform"
   speakers: [magdalenakuhn]
