@@ -9,7 +9,7 @@ image: images/podcast/s12e09-staff-ai-engineer.jpg
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Staff-AI-Engineer---Tatiana-Gabruseva-e1v3on7
   apple: https://podcasts.apple.com/us/podcast/staff-ai-engineer-tatiana-gabruseva/id1541710331?i=1000600246792
-  spotify: https://open.spotify.com/episode/6pRkAK9Zo2QrXZCAzh2veV?si=AaeqeAP-RkOfzGDNibZI-A
+  spotify: https://open.spotify.com/episode/4o52jMRR2cctCD8LuFFLdD?si=tBO_9KkiSWySHu7jaM-McQ
   youtube: https://www.youtube.com/watch?v=_xr1_xb736E
 season: 12
 short: Staff AI Engineer
