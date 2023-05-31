@@ -9,7 +9,7 @@ image: images/podcast/s13e01-accelerating-adoption-of-ai-through-diversity.jpg
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Accelerating-the-Adoption-of-AI-through-Diversity---Dnia-Meira-e1v9obp
   apple: https://podcasts.apple.com/us/podcast/accelerating-the-adoption-of-ai-through-diversity/id1541710331?i=1000601491838
-  spotify: https://open.spotify.com/episode/4o52jMRR2cctCD8LuFFLdD?si=4k3IjJQVR_SsFha6NQBv5A
+  spotify: https://open.spotify.com/episode/6pRkAK9Zo2QrXZCAzh2veV?si=ixEmGK5-RemknBcHrChMNA
   youtube: https://www.youtube.com/watch?v=SRUwwvk_YCk
 season: 13
 short: Accelerating the Adoption of AI through Diversity
