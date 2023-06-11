@@ -1,4 +1,11 @@
 
+- time: 2023-06-12 17:00:00
+  title: "From MLOps to DataOps"
+  speakers: [santonatuli]
+  type: podcast
+  link: https://eventbrite.com/e/656169650087
+
+
 - time: 2023-06-13 17:00:00
   title: "Identity Resolution Essentials from a Data Scientist"
   speakers: [nathanwang]
