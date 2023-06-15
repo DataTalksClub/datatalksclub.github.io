@@ -1,6 +1,7 @@
 ---
 authors:
 - ashishpatel
+- vishwasbv
 cover: images/books/20230612-hands-on-time-series-analysis-with-python/cover.jpg
 description: Book of the Week. Hands-on Time Series Analysis with Python by Ashish
   Patel
