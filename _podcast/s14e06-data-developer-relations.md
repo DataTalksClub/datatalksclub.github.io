@@ -1059,4 +1059,3 @@ Links:
 * [Hugo's personal page](http://hugobowne.github.io/){:target="_blank"}
 * [Vanishing Gradients](https://vanishinggradients.fireside.fm/){:target="_blank"}
 * [MLOps and DevOps: Why Data Makes It Different](https://www.oreilly.com/radar/mlops-and-devops-why-data-makes-it-different/){:target="_blank"}
-* [Metaflow Sandbox](https://outerbounds.com/sandbox/){:target="_blank"}
