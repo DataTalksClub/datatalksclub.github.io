@@ -1,4 +1,11 @@
 
+- time: 2023-07-11 17:00:00
+  title: " Bela Wiertz"
+  speakers: [belawiertz]
+  type: podcast
+  link: https://eventbrite.com/e/667971279077
+
+
 - time: 2023-07-03 17:00:00
   title: "Why Machine Learning Design is Broken"
   speakers: [valeriybabushkin]
