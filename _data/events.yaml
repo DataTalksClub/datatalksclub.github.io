@@ -1,4 +1,11 @@
 
+- time: 2023-07-20 17:00:00
+  title: "LLMs for Everyone"
+  speakers: [meryemarik]
+  type: podcast
+  link: https://eventbrite.com/e/680100247147
+
+
 - time: 2023-07-10 17:00:00
   title: "Building a Group Wide Data Lakehouse for Data Science & BI"
   speakers: [loicmagnien]
