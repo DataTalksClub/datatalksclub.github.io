@@ -16,7 +16,7 @@ short: LLMs for Everyone
 title: LLMs for Everyone
 transcript:
 - line: This week, we'll talk about ways to put LLMs (large language models) into
-    production. We have a special guest today, Meryam. Meryam is a “recovering” physicist
+    production. We have a special guest today, Meryem. Meryem is a “recovering” physicist
     (very interesting) and the co-founder of TitanML. Titan ML is an LLP development
     platform that focuses on the deployability of LLM and allows businesses to build
     smaller and cheaper deployments of language models. Welcome to the show!
@@ -26,13 +26,13 @@ transcript:
 - line: Lovely to be here. Thanks for having me.
   sec: 94
   time: '1:34'
-  who: Meryam
+  who: Meryem
 - line: Yeah, our pleasure. The questions for today's interview were prepared by Johanna
     Bayer. Thanks, Johanna, as always, for your help.
   sec: 97
   time: '1:37'
   who: Alexey
-- header: Meryam's background
+- header: Meryem's background
 - line: Before we go into our main topic of LLMs, let us start with your background.
     Can you tell us about your career journey so far?
   sec: 105
@@ -43,8 +43,8 @@ transcript:
     I became an investment banker, which I really, really enjoyed.
   sec: 113
   time: '1:53'
-  who: Meryam
-- line: That's quite a change. [chuckles]
+  who: Meryem
+- line: That's quite a change. (chuckles)
   sec: 131
   time: '2:11'
   who: Alexey
@@ -60,7 +60,7 @@ transcript:
     been working on ever since.
   sec: 133
   time: '2:13'
-  who: Meryam
+  who: Meryem
 - line: That's quite an interesting career – working in physics and philosophy. When
     you mentioned that, I was like, “Hmm... How does that even work? What's the intersection
     between these two?”
@@ -74,7 +74,7 @@ transcript:
     so there is actually a really nice intersection.
   sec: 201
   time: '3:21'
-  who: Meryam
+  who: Meryem
 - line: I never thought about this from that angle. Interesting. But then you worked
     in investment banking, which is like a completely different area. I don't know,
     maybe your background in theoretical physics did help. Did it, actually? Or was
@@ -82,7 +82,7 @@ transcript:
   sec: 218
   time: '3:38'
   who: Alexey
-- line: Other than the fact that I'm really good at maths, not really. [chuckles]
+- line: Other than the fact that I'm really good at maths, not really. (chuckles)
     So no, I learned everything completely from scratch when I became an investment
     banker. I think one of the streams that's followed me throughout my entire life
     is that I just like doing things that are pretty difficult and I learn pretty
@@ -91,10 +91,10 @@ transcript:
     able to learn pretty quickly. And I had fantastic people that I was working with
     and a fantastic boss. I just liked the fact that investment banking was “difficult,”
     or, you know... that it was something I'd never done before, so it was really
-    exciting. [inaudible]
+    exciting. (inaudible)
   sec: 237
   time: '3:57'
-  who: Meryam
+  who: Meryem
 - header: The constant evolution of startups
 - line: So what's the most difficult thing – theoretical physics, investment banking,
     or being a startup co-founder?
@@ -109,7 +109,7 @@ transcript:
     we've been doing so far. So I don't know what my next one will be. [chuckles]
   sec: 289
   time: '4:49'
-  who: Meryam
+  who: Meryem
 - line: And the main difficulty is this variety of things – you have to do pretty
     much everything. What's your official title? Are you a CEO, CTO, or...? Do you
     have a title?
@@ -123,7 +123,7 @@ transcript:
     the kind of way that we dispurse ourselves.'
   sec: 333
   time: '5:33'
-  who: Meryam
+  who: Meryem
 - line: But you don't officially have a title of Chief Fundraising Officer?
   sec: 357
   time: '5:57'
@@ -134,7 +134,7 @@ transcript:
     get to the point where we'll have really official titles – at some point.
   sec: 362
   time: '6:02'
-  who: Meryam
+  who: Meryem
 - line: In half a year, you'll probably be doing a different thing, right?
   sec: 381
   time: '6:21'
@@ -145,8 +145,8 @@ transcript:
     now. It's ever-changing.
   sec: 386
   time: '6:26'
-  who: Meryam
-- header: How Meryam became interested in LLMs
+  who: Meryem
+- header: How Meryem became interested in LLMs
 - line: I know we're kind of late to the party in terms of speaking about the LLM
     because, as I mentioned at the beginning, this is actually our first event ever
     about LLMs (where we explicitly talk about them). LLMs are large language models,
@@ -170,7 +170,7 @@ transcript:
     getting interested in that particular space.
   sec: 450
   time: '7:30'
-  who: Meryam
+  who: Meryem
 - line: Part of the reason they were telling us, “This is way more important,” is
     because there's way more text in the world than there are images – or at least
     from an enterprise setting and that's when we really switched our focus. Then
@@ -180,11 +180,11 @@ transcript:
     that something special is happening in the language modeling space.
   sec: 450
   time: '7:30'
-  who: Meryam
+  who: Meryem
 - line: To be honest, for me, these demos – when I saw GPT-3 appearing – they were
     kind of “Okay, cool,” but it wasn't like, “Wow, this is going to change everything.”
     For me, it was like, “Okay, whatever. It's cool that these things exist.” But
-    when ChatGPT appeared, it was mind blowing for me. [Meryam agrees] The tech is
+    when ChatGPT appeared, it was mind blowing for me. [Meryem agrees] The tech is
     still the same, right?
   sec: 533
   time: '8:53'
@@ -199,7 +199,7 @@ transcript:
     the thing you wanted it to do.
   sec: 557
   time: '9:17'
-  who: Meryam
+  who: Meryem
 - line: So when we moved from “you have to do really clever prompting” to “you can
     just have a conversation with it,” that's a huge mindset shift in how accessible
     and relatable these systems are. Even us, in this space, when we saw ChatGPT and
@@ -208,7 +208,7 @@ transcript:
     exciting.
   sec: 557
   time: '9:17'
-  who: Meryam
+  who: Meryem
 - header: What is an LLM (generative vs non-generative models)?
 - line: So what is an LLM? What is this thing, actually?
   sec: 619
@@ -224,7 +224,7 @@ transcript:
     models.
   sec: 624
   time: '10:24'
-  who: Meryam
+  who: Meryem
 - line: The state of the art for both of them is held by transformer architecture,
     although I'm not going to get into the nitty gritty because you can go and read
     the transformer papers themselves. But that was really the breakthrough in creating
@@ -232,8 +232,8 @@ transcript:
     I tend to differentiate between generative and then non-generative models.
   sec: 624
   time: '10:24'
-  who: Meryam
-- line: And ChatGPT is a generative model – and GPT-3.5? [Meryam agrees]
+  who: Meryem
+- line: And ChatGPT is a generative model – and GPT-3.5? (Meryem agrees)
   sec: 686
   time: '11:26'
   who: Alexey
@@ -243,11 +243,11 @@ transcript:
     tasks.
   sec: 691
   time: '11:31'
-  who: Meryam
+  who: Meryem
 - line: So if I need to classify the intent of a search query – for example whether
     the customer wants to buy something or just conduct research – then I would go
     with BERT, right? I would not necessarily go with a generative model because it
-    would be overkill. [Meryam agrees] But I would still be able to use an LLM, saying,
+    would be overkill. [Meryem agrees] But I would still be able to use an LLM, saying,
     “Hey, I have this query. Here are examples of other queries. Based on these examples,
     what do you think is the intent of this query?” Right?
   sec: 704
@@ -260,7 +260,7 @@ transcript:
     by models that are in the millions of parameters rather than the billions of parameters.
   sec: 734
   time: '12:14'
-  who: Meryam
+  who: Meryem
 - line: So, BERT, which is a non-generative model, is it a large language model? Is
     it even a language model?
   sec: 761
@@ -275,7 +275,7 @@ transcript:
     are still relatively big when we compare them to typical machine learning models.
   sec: 771
   time: '12:51'
-  who: Meryam
+  who: Meryem
 - line: A usual language model can still be a generative model – maybe it will not
     have an output that is as good as GPT 3.5 or 4, but it can still generate some
     text, right?
@@ -291,7 +291,7 @@ transcript:
     it's still a language model that is able to both understand and generate and converse.
   sec: 825
   time: '13:45'
-  who: Meryam
+  who: Meryem
 - header: Why LLMs are important
 - line: So the main advantage of LLMs is that they are better at what they do – they're
     better at generating text. Right? So why do we even care about them? Why do you
@@ -302,7 +302,7 @@ transcript:
 - line: Why are these important?
   sec: 882
   time: '14:42'
-  who: Meryam
+  who: Meryem
 - line: Yeah.
   sec: 884
   time: '14:44'
@@ -316,7 +316,7 @@ transcript:
     data to a level that appears human-like, or sometimes even better.
   sec: 885
   time: '14:45'
-  who: Meryam
+  who: Meryem
 - line: So that's why it's a huge paradigm shift because for the first time, it's
     really able to work with these documents in a way that humans generate these documents
     – in an unstructured format – and then also generate documents in a similar format.
@@ -325,7 +325,7 @@ transcript:
     in databases, unfortunately.
   sec: 885
   time: '14:45'
-  who: Meryam
+  who: Meryem
 - line: That would be convenient ,right?
   sec: 956
   time: '15:56'
@@ -333,7 +333,7 @@ transcript:
 - line: I mean, it would be convenient. But you know – we don't need to anymore. [chuckles]
   sec: 957
   time: '15:57'
-  who: Meryam
+  who: Meryem
 - line: '[chuckles] Right. You mentioned, LLaMA, which is an open source LLM. I know
     that with Open AI – they have all these models, but they are closed, even though
     the name “Open AI” kind of suggests that it will be open. But they are not – they''re
@@ -344,7 +344,7 @@ transcript:
 - line: Don't get me started. [chuckles]
   sec: 977
   time: '16:17'
-  who: Meryam
+  who: Meryem
 - header: Open source models vs API models
 - line: Yeah, I think the reason behind not opening them is that it can do harm in
     [the wrong people] hands, right? If they open it, then it will do more harm than
@@ -369,7 +369,7 @@ transcript:
     from Open AI.
   sec: 1008
   time: '16:48'
-  who: Meryam
+  who: Meryem
 - line: These open source language models are getting better and better, literally,
     by the day or by the week. They allow the user, or the business, to have control
     over these language models and really deploy them in the way that they want to,
@@ -382,7 +382,7 @@ transcript:
     shift for how we think about how we build and deploy these models.
   sec: 1008
   time: '16:48'
-  who: Meryam
+  who: Meryem
 - line: What actually happened this week? I saw a couple of posts on social media
     about the drop in performance or GPT-4, but I don't really know any details. What
     happened?
@@ -403,7 +403,7 @@ transcript:
     accuracy – I think less than 10%.'
   sec: 1126
   time: '18:46'
-  who: Meryam
+  who: Meryem
 - line: What that showed was that Open AI had been changing the models without the
     users' knowledge, which is super problematic. Firstly, because Open AI had been
     denying it for ages and ages and ages and secondly, businesses had built products
@@ -418,7 +418,7 @@ transcript:
     them or they can remove them at any point.
   sec: 1126
   time: '18:46'
-  who: Meryam
+  who: Meryem
 - line: A couple of weeks ago, we saw Open AI stopped running a whole bunch of their
     legacy models, which meant that anyone who's running applications on top of these
     legacy models had to change their architectures and switch over – potentially
@@ -428,7 +428,7 @@ transcript:
     with these models behind the scenes.” So you have to be careful there.
   sec: 1126
   time: '18:46'
-  who: Meryam
+  who: Meryem
 - line: From what I understood – as a user of Open AI, I have an endpoint (a URL that
     I use for sending requests). And in the request, I say, “Okay, this is the prompt.
     This is the model I want to use.” And I send the request. But what happens under
@@ -453,7 +453,7 @@ transcript:
     why I think it's kind of problematic.
   sec: 1341
   time: '22:21'
-  who: Meryam
+  who: Meryem
 - line: And in case of open source LLMs – say we take LLaMA and we host LLaMA with
     Titan (or whatever tool). Then the model stays the same all the time until we
     want to change it ourselves. Right?
@@ -468,7 +468,7 @@ transcript:
     that. Whereas you can't do that with the API's.
   sec: 1392
   time: '23:12'
-  who: Meryam
+  who: Meryem
 - header: What TitanML does
 - line: I kind of assumed that what you do is host open source models – I don't know
     if my assumption was wrong or right. Maybe you can tell us what you actually do
@@ -493,7 +493,7 @@ transcript:
     we''ve done before as well.'
   sec: 1428
   time: '23:48'
-  who: Meryam
+  who: Meryem
 - line: So if I understood correctly, previously, you were mostly focusing on training
     and fine-tuning, but now you're also moving in the serving space for LLMs. Correct?
   sec: 1510
@@ -502,7 +502,7 @@ transcript:
 - line: Yeah, the serving part is really difficult. We...
   sec: 1520
   time: '25:20'
-  who: Meryam
+  who: Meryem
 - line: Well, they are large, right? [chuckles]
   sec: 1523
   time: '25:23'
@@ -516,7 +516,7 @@ transcript:
     easier as well. What it means is that people need less GPUs, which is nice.
   sec: 1526
   time: '25:26'
-  who: Meryam
+  who: Meryem
 - header: How fine-tuning a model helps in LLM use cases
 - line: Okay. I have a question here about use cases. I'm also interested in learning
     more about fine-tuning. I was wondering, maybe you can give us a few use cases
@@ -540,7 +540,7 @@ transcript:
     you care about, and probably “okay” on everything else.
   sec: 1590
   time: '26:30'
-  who: Meryam
+  who: Meryem
 - line: So that's what I think about when we think about fine-tuning language models.
     I can give you a couple examples. If we think first with the natural language
     understanding tasks, here, fine-tuning is necessary. If we want a model that classifies
@@ -549,7 +549,7 @@ transcript:
     a model to classify for whatever it is you need to classify for. [cross-talk]
   sec: 1590
   time: '26:30'
-  who: Meryam
+  who: Meryem
 - line: Here, fine-tuning means, “Here is a set of examples, input text, output label
     – please adjust the weights in whatever way you want, so that we get the best
     performance possible on this training set.”
@@ -563,7 +563,7 @@ transcript:
     data, then it makes fine-tuning much harder.
   sec: 1705
   time: '28:25'
-  who: Meryam
+  who: Meryem
 - line: Here, usually we talk about classification, right? Intent classification,
     sentiment classification – basically, we have some text as input, and the output
     is a set of labels.
@@ -577,7 +577,7 @@ transcript:
     very hard to get working with prompting. So...
   sec: 1745
   time: '29:05'
-  who: Meryam
+  who: Meryem
 - line: What do you mean by “particular voice or style”? You mean more colloquial
     or more formal?
   sec: 1767
@@ -591,7 +591,7 @@ transcript:
     as well.
   sec: 1773
   time: '29:33'
-  who: Meryam
+  who: Meryem
 - line: ChatGPT sometimes speaks too formally and then I say “Hey, it's too formal.
     Can you make it less formal?” And then it speaks like a teenager from Reddit.
   sec: 1800
@@ -610,7 +610,7 @@ transcript:
     that you can do with fine-tuning that really allows you to get this domain adaptation.
   sec: 1808
   time: '30:08'
-  who: Meryam
+  who: Meryem
 - line: Funny example – a market selling bears – because that's exactly what I would
     think. [laughs]
   sec: 1870
@@ -619,7 +619,7 @@ transcript:
 - line: '[chuckles] Exactly.'
   sec: 1874
   time: '31:14'
-  who: Meryam
+  who: Meryem
 - header: Fine-tuning generative models
 - line: How does this process of fine-tuning look for generative models? Because for
     these BERT-style models, as we discussed, it's more like you have an input set
@@ -635,7 +635,7 @@ transcript:
     for the understanding models – unless that is what you want it to do in the end.
   sec: 1898
   time: '31:38'
-  who: Meryam
+  who: Meryem
 - line: You said it depends on the end task. I was wondering what kind of end tasks
     there actually are.
   sec: 1925
@@ -653,7 +653,7 @@ transcript:
     language model.
   sec: 1932
   time: '32:12'
-  who: Meryam
+  who: Meryem
 - header: How generative models change the landscape of human work
 - line: A few days ago, I read an article about a copywriter who lost her job because
     of ChatGPT. At the beginning, instead of getting 10 articles per week (or whatever
@@ -675,7 +675,7 @@ transcript:
     implications for what we're doing.
   sec: 2038
   time: '33:58'
-  who: Meryam
+  who: Meryem
 - line: I tried using GPT-4 for creating a website in Django. I would say, “Okay,
     this is the website I want to create. These are the tasks that I want to perform
     with this website. Generate the code for me.” Then, step by step it would actually
@@ -692,7 +692,7 @@ transcript:
     taken you to just do it yourself.
   sec: 2114
   time: '35:14'
-  who: Meryam
+  who: Meryem
 - line: Yeah! I used Django like 10 years ago. For me, I would need to look up many,
     many things. But it will just tell me what I need to do. At the beginning it generated
     a requirements.txt file and I told it, “Hey, I want to use pipenv.” And then it
@@ -709,7 +709,7 @@ transcript:
     packages and put malware in it.
   sec: 2152
   time: '35:52'
-  who: Meryam
+  who: Meryem
 - line: Ingenious. [chuckles]
   sec: 2183
   time: '36:23'
@@ -720,9 +720,9 @@ transcript:
     and years.
   sec: 2184
   time: '36:24'
-  who: Meryam
+  who: Meryem
 - line: Today, you still need an engineer to see if whatever the model outputs makes
-    sense. Right? That's why, for now, engineering jobs are kind of safe? [Meryam
+    sense. Right? That's why, for now, engineering jobs are kind of safe? [Meryem
     agrees] Somebody still needs to do that. But what you're saying is that in 10
     years, it might be a completely different situation.
   sec: 2199
@@ -737,7 +737,7 @@ transcript:
     term, we are just going to have less software engineers, which is sad.
   sec: 2217
   time: '36:57'
-  who: Meryam
+  who: Meryem
 - line: What do you feel about this? Because you're practically building a startup
     to makу it happen. [chuckles]
   sec: 2258
@@ -757,7 +757,7 @@ transcript:
     very, very, very good very, very quickly.
   sec: 2265
   time: '37:45'
-  who: Meryam
+  who: Meryem
 - line: I think a few episodes (a few interviews) ago – I don't remember what we talked
     about, but then, at some point, we talked about a TV show called the Mandalorian.
     In this TV show, there was an episode where a bunch of droids who went rouge –
@@ -780,7 +780,7 @@ transcript:
     people would be happier in the long term. I think actually...
   sec: 2380
   time: '39:40'
-  who: Meryam
+  who: Meryem
 - line: Sounds like communism.
   sec: 2426
   time: '40:26'
@@ -791,7 +791,7 @@ transcript:
     society. And that will be a really interesting transition.
   sec: 2428
   time: '40:28'
-  who: Meryam
+  who: Meryem
 - header: How to adjust models over time
 - line: So we're getting a bit too philosophical and we actually have a few questions.
     One of them is related to the topic of fine-tuning. Here, the question is about
@@ -811,7 +811,7 @@ transcript:
     blah, blah.
   sec: 2496
   time: '41:36'
-  who: Meryam
+  who: Meryem
 - line: A huge knowledge base, right?
   sec: 2521
   time: '42:01'
@@ -826,7 +826,7 @@ transcript:
     expensive process than just re-embedding this big knowledge base and this documentation.
   sec: 2522
   time: '42:02'
-  who: Meryam
+  who: Meryem
 - line: So as I understood, there are two ways. Let's say we have a knowledge base
     and we want our model to use this knowledge base in replies. In the same way,
     as let's say, I use ChatGPT to create a website in Django. For example, there
@@ -860,7 +860,7 @@ transcript:
     it in a way that sounds conversational.
   sec: 2657
   time: '44:17'
-  who: Meryam
+  who: Meryem
 - line: When I think about documentation that I, as a software engineer or as a data
     scientist, create, I usually have something like a big Confluence page with all
     the things there. But oftentimes, when I have a question, the answer is in a specific
@@ -882,7 +882,7 @@ transcript:
     at three different places – it can pull those three different sources together.
   sec: 2732
   time: '45:32'
-  who: Meryam
+  who: Meryem
 - line: And how does this work in practice? I guess we need to put the entire document
     in the prompt, right? We need to somehow find a way that, “For this question,
     these are the relevant documents. Let's put them all in the prompt and let the
@@ -903,7 +903,7 @@ transcript:
     through information retrieval, and then put it through a summarizer.
   sec: 2802
   time: '46:42'
-  who: Meryam
+  who: Meryem
 - header: Vector databases and LLMs
 - line: The next question we have is about a vector database. Before we talk about
     this, maybe you can tell us what these vector databases are and how they are relevant
@@ -920,7 +920,7 @@ transcript:
     part.
   sec: 2881
   time: '48:01'
-  who: Meryam
+  who: Meryem
 - line: Let's say in practice, we have a Confluence with all the documentation. What
     we do is get each document from this Confluence and then somehow index it with
     a vector database. Then for each of the documents, we have a vector, which we
@@ -934,7 +934,7 @@ transcript:
     it.
   sec: 2951
   time: '49:11'
-  who: Meryam
+  who: Meryem
 - line: LLMs can also “vectorize” a document, right? They can take a document and
     create embeddings from this document so we can put them in a vector database.
     Correct?
@@ -946,7 +946,7 @@ transcript:
     them, which is why they've exploded in the startup scene.
   sec: 2970
   time: '49:30'
-  who: Meryam
+  who: Meryem
 - header: How to choose an open source LLM or an API
 - line: For this task, do you know if we should go with an open source LLM or go with
     GPT-3.5 or 4? Are there any pros and cons?
@@ -970,7 +970,7 @@ transcript:
     with a fine-tuned large language model.
   sec: 2997
   time: '49:57'
-  who: Meryam
+  who: Meryem
 - line: So the benefits of going with an open source model eventually (after the prototyping
     stage) is that the models do not change, data privacy, it's cheaper, and you also
     mentioned faster. I wanted to ask – faster? Because for me, these Open AI models
@@ -991,7 +991,7 @@ transcript:
     speeds for much, much lower prices.
   sec: 3095
   time: '51:35'
-  who: Meryam
+  who: Meryem
 - line: But you have to put in some effort. For example, in the case of Open AI, you
     just take an off-the-shelf API and start using it. Of course, you pay, but you
     can move very fast. But then, at some point, you start thinking about costs, data
@@ -1010,7 +1010,7 @@ transcript:
     but it's now much easier to do that.
   sec: 3177
   time: '52:57'
-  who: Meryam
+  who: Meryem
 - header: Measuring input data quality
 - line: We have a few interesting questions from Tara. The first question he's asking
     is, “How can you measure if the data you feed into an LLM is good enough?” Do
@@ -1034,7 +1034,7 @@ transcript:
     – have a smaller amount of quality and then expand it with an LLM.
   sec: 3238
   time: '53:58'
-  who: Meryam
+  who: Meryem
 - line: Date expansion is a strategy, I guess, that is similar to how we use data
     augmentation for computer vision. We take a picture and rotate it slightly or
     crop it, ow whatever – we basically use existing data to generate more data. Dataset
@@ -1055,7 +1055,7 @@ transcript:
     It was obviously much quicker and cheaper than hand-labeling all of them.
   sec: 3332
   time: '55:32'
-  who: Meryam
+  who: Meryem
 - line: You mentioned good performance. This is another question from Taras, “How
     do you actually benchmark in LLMs? How can you tell that performance is actually
     good?” You need to have an objective way of saying that. Of course, you can subjectively
@@ -1077,7 +1077,7 @@ transcript:
     for quality.
   sec: 3430
   time: '57:10'
-  who: Meryam
+  who: Meryem
 - line: There are interesting things you might have to do with automating it if you're
     refine-tuning – maybe coming up with example benchmark test datasets that you
     can then go in and hand-evaluate. I would always recommend hand-evaluating at
@@ -1087,7 +1087,7 @@ transcript:
     mind.
   sec: 3430
   time: '57:10'
-  who: Meryam
+  who: Meryem
 - line: So right now, currently, with the existing methods, we still need to keep
     the human in the loop to assess the performance.
   sec: 3506
@@ -1100,7 +1100,7 @@ transcript:
     All of that.
   sec: 3515
   time: '58:35'
-  who: Meryam
+  who: Meryem
 - line: Maybe the job of copywriters might be not safe as of yet, but at least they
     can be these humans in the loop.
   sec: 3536
@@ -1109,8 +1109,8 @@ transcript:
 - line: Maybe.
   sec: 3547
   time: '59:07'
-  who: Meryam
-- header: Meryam's resource recommendations
+  who: Meryem
+- header: Meryem's resource recommendations
 - line: To help eliminate them in the future. It's kind of an interesting dilemma.
     Anyway, we should be wrapping up. Maybe before we finish – is there any good resource,
     like a book or a course or a blog, that you can recommend for those who want to
@@ -1129,7 +1129,7 @@ transcript:
     over time.
   sec: 3569
   time: '59:29'
-  who: Meryam
+  who: Meryem
 - line: '60:10
 
     Alexey
@@ -1138,12 +1138,12 @@ transcript:
     (this episode) there will be a new course.'
   sec: 3569
   time: '59:29'
-  who: Meryam
+  who: Meryem
 - line: Exactly. Everything that I say will be completely out of date within a week,
     probably. [chuckles]
   sec: 3617
   time: '1:00:17'
-  who: Meryam
+  who: Meryem
 - line: Yeah. Have a great rest of your week. Bye, everyone!
   sec: 3638
   time: '1:00:38'
