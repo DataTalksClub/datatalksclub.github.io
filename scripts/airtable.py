@@ -326,6 +326,8 @@ def process_podcast(record):
     spotify_url = fields['spotify_url']
 
     anchor_url = fields['anchor_url']
+    anchor_url = anchor_url.replace('/pod/pod/', '/pod/')
+
     anchor_id = anchor_url[len('https://anchor.fm/datatalksclub/episodes/'):]
 
     params = {
