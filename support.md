@@ -13,7 +13,7 @@ Hi everyone!
 
 I'm Alexey and I'm running the DataTalks.Club community.
 
-I started it in September 2020 and by now it has grown to 22,000 members.
+I started it in September 2020 and by now it has grown to 38,000+ members.
 
 There are a lot of activities in our community: we have courses,
 weekly events and workshops. Also, our Slack is quite active and
