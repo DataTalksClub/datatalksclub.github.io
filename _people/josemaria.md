@@ -1,6 +1,6 @@
 ---
 short: josemaria
-title: "José María"
+title: "José María Sánchez Salas"
 picture: "images/authors/josemaria.jpg"
 github: jmssalas
 
