@@ -418,7 +418,7 @@ EVENT_TEMPLATE = """
   title: "{{ title }}"
   speakers: [{{ speaker }}]
   type: {{ typ }}
-  link: https://eventbrite.com/e/{{ event_id }}
+  link: {{ url }}
 """
 
 
@@ -433,14 +433,14 @@ def process_event(record):
     date_raw = fields['date']
     date = utils.parse_date(date_raw)
 
-    event_id = fields['eventbrite_id']
+    url = fields['url']
     event_type = fields['event_type']
 
     params = {
         'title': title,
         'speaker': speaker,
         'typ': event_type,
-        'event_id': event_id,
+        'url': url,
         'year': f'{date.year:04d}',
         'month': f'{date.month:02d}',
         'day': f'{date.day:02d}'
