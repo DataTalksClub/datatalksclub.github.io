@@ -1,4 +1,18 @@
 
+- time: 2023-10-17 17:00:00
+  title: "Machine Learning with Ray: Supercharge Your GPU Clusters"
+  speakers: [sadikbakiu]
+  type: webinar
+  link: https://lu.ma/le6w043s
+
+
+- time: 2023-10-02 17:00:00
+  title: "Collaborative Data Science in Business"
+  speakers: [ioannismesionis]
+  type: podcast
+  link: https://lu.ma/ido9gxps
+
+
 - time: 2023-09-25 17:00:00
   title: "Bridging Data Science and Healthcare"
   speakers: [elenistamatelou]
