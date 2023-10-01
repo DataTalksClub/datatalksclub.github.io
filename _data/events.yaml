@@ -1,4 +1,11 @@
 
+- time: 2023-10-31 17:00:00
+  title: "The Trade-off Between Simplicity And Optimality In Problem-solving"
+  speakers: [armanjabbari]
+  type: webinar
+  link: https://lu.ma/xl02v7u4
+
+
 - time: 2023-10-17 17:00:00
   title: "Machine Learning with Ray: Supercharge Your GPU Clusters"
   speakers: [sadikbakiu]
