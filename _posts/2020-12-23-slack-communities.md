@@ -53,7 +53,7 @@ This is the place for discussing practical aspects of search and recommender sys
 It welcomes engineers, data scientists, and product managers who want to learn more about it and solve 
 tough problems in this space. 
 
-To join, go to [http://o19s.com/slack](http://o19s.com/slack){:target="_blank"}.
+To join, go to [http://www.opensourceconnections.com/slack](http://www.opensourceconnections.com/slack){:target="_blank"}.
 
 ## 6. The AI Guild
 
