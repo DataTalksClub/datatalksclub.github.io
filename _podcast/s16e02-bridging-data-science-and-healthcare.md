@@ -3,7 +3,7 @@ episode: 2
 guests:
 - elenistamatelou
 ids:
-  anchor: atatalksclub/episodes/Bridging-Data-Science-and-Healthcare---Eleni-Stamatelou-e2aegvc
+  anchor: datatalksclub/episodes/Bridging-Data-Science-and-Healthcare---Eleni-Stamatelou-e2aegvc
   youtube: pDOwlulDh0c
 image: images/podcast/s16e02-bridging-data-science-and-healthcare.jpg
 links:
