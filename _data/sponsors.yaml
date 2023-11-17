@@ -5,7 +5,7 @@
 #   from: 2022-04-27 00:00:00
 #   to: 2023-05-01 00:00:00
 - name: "Weights & Biases"
-  link: https://wandb.ai/
+  link: http://wandb.me/data_talks_club
   image: /images/partners/wandb-abb.svg
   from: 2023-02-01 00:00:00
   to: 2024-02-01 00:00:00
