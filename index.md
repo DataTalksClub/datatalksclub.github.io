@@ -111,7 +111,7 @@ layout: home
 
     <h4>Latest articles</h4>
     <ul>
-      {% for post in site.posts %}
+      {% for post in site.posts limit: 5 %}
         <li>
           <a href="{{ post.url }}">{{ post.title }}</a> by
             {% include authors.html authors=post.authors %}
