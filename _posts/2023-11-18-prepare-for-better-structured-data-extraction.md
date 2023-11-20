@@ -159,5 +159,5 @@ Evaluating data extraction tasks performed by LLMs is challenging with these mod
 
 Ready to dive deeper? Get certified in key areas like [Traces and Spans](https://courses.arize.com/p/llm-observability-traces-spans?dl_cd=eyJrdiI6IktWX2VjOGE0OTI2YTE5MGVhNzBiZTMyMWUzMWFlZDM2YWEwIiwiaXNQcmV2aWV3IjpmYWxzZX0%3D){:target="_blank"} or [Agents, Tools, and Chains](https://courses.arize.com/p/agents-tools-and-chains?dl_cd=eyJrdiI6IktWX2VjOGE0OTI2YTE5MGVhNzBiZTMyMWUzMWFlZDM2YWEwIiwiaXNQcmV2aWV3IjpmYWxzZX0%3D){:target="_blank"} or ask questions on the [Arize community](https://arize.com/community/){:target="_blank"}.
 
-<em>This post is sponsored by [Arize](https://arize.com/model-monitoring/){:target="_blank"}.
-We thank the [Arize](https://arize.com/model-monitoring/) team for their ongoing support of the community.</em>
+<em>This post is sponsored by [Arize](https://arize.com/){:target="_blank"}.
+We thank the [Arize](https://arize.com/) team for their ongoing support of the community.</em>
