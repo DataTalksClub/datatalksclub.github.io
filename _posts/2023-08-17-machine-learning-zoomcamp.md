@@ -53,8 +53,9 @@ Part 1 focuses on the main machine learning algorithms and their practical appli
 <figcaption><p>Technologies used in the first part of the course</p></figcaption>
 </figure>
 
-For the deep learning part, we need to use a GPU. Luckily, we partnered with [Saturn Cloud](https://bit.ly/saturn-mlzoomcamp), so any
-Machine Learning Zoomcamp student can get extra 150 GPU hours in Saturn Cloud. To get it, message support 
+For the deep learning part, we need to use a GPU. Luckily, we partnered with
+[Saturn Cloud](https://bit.ly/saturn-mlzoomcamp){:target="_blank"}, so any Machine Learning Zoomcamp student
+can get extra 150 GPU hours in Saturn Cloud. To get it, message support 
 and say "I'm enrolled in ML Zoomcamp". 
 
 ### Part 2: Deployment
