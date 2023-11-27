@@ -45,6 +45,11 @@ We'll mainly use Python, but if you're not familiar with it yet, it's not a prob
 
 The course curriculum is structured to guide you through the essential elements of data engineering, beginning with foundational concepts and advancing to complex topics.
 
+<figure>
+<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.jpeg"  />
+<figcaption><p>Course overview</p></figcaption>
+</figure>
+
 You’ll spend the first six weeks learning and practicing each part of the data engineering process. In the concluding three weeks, you will apply your acquired knowledge and skills to develop an end-to-end data pipeline from the ground up.
 
 -   Week 1: Introduction & Prerequisites
