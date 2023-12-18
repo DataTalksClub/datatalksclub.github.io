@@ -14,6 +14,7 @@ links:
 season: 16
 short: Become a Data Freelancer
 title: Become a Data Freelancer
+
 transcript:
 - line: "This week, we'll talk about doing data freelancing. We have a very special\
     \ guest today, Dimitri. Dimitri is an independent data consultant. He has worked\
@@ -1194,6 +1195,7 @@ transcript:
   sec: 3680
   time: '1:01:20'
   who: Dimitri
+---
 
 Links:
 
