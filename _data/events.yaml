@@ -1,4 +1,11 @@
 
+- time: 2024-03-04 17:00:00
+  title: "Stream Processing"
+  speakers: [noelkwan]
+  type: workshop
+  link: https://lu.ma/24re7c0h
+
+
 - time: 2024-02-05 17:00:00
   title: "Data Ingestion From APIs to Warehouses"
   speakers: [adrianbrudaru]
