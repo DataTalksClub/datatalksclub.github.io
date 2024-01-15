@@ -2,7 +2,7 @@
 authors:
 - yuantang
 cover: images/books/20240115-distributed-machine-learning-patterns/cover.jpg
-description: Book of the Week. Distributed Machine Learning Patterns by Yuan Tang
+description: Book of the Week. Distributed Machine Learning Sytems by Yuan Tang
 end: 2024-01-19 23:59:59
 image: images/books/20240115-distributed-machine-learning-patterns/preview.jpg
 links:
