@@ -8,4 +8,4 @@ linkedin: sarahmestiri
 
 ---
 
-Sarah Mestiri is a Data Scientist with 4+ years of experience developing ML models in the Advertising and Marketing industry, and the capability for ongoing supervision of Technology & Teams (2+ years as coach and mentor). I have a background as a computer science engineer and I work on production-ready infrastructure. 
+Sarah is a Data Scientist and a Certified Career & Interview Coach. She has 6 years+ of experience in Tech, working at international companies, financial companies (FIS), and startups. Sarah’s experience of going through a career transition and her natural drive to support other women in following their professional dreams inspired her to become a certified career coach. She is on a mission to support more women to find the right job for them and achieve their full potential. As a career coach, She has been supporting women returning to work after a career break and transitioning to the data field. 
