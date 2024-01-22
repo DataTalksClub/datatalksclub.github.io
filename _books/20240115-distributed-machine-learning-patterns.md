@@ -16,7 +16,7 @@ start: 2024-01-15 00:00:00
 title: Distributed Machine Learning Patterns
 ---
 
-Distributing machine learning systems allow developers to handle extremely large datasets across multiple clusters, take advantage of automation tools, and benefit from hardware accelerations. This book reveals best practice techniques and insider tips for tackling the challenges of scaling machine learning systems.
+Distributed machine learning systems allow developers to handle extremely large datasets across multiple clusters, take advantage of automation tools, and benefit from hardware accelerations. This book reveals best practice techniques and insider tips for tackling the challenges of scaling machine learning systems.
 
 In Distributed Machine Learning Patterns you will learn how to:
 
