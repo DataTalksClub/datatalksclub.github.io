@@ -1,4 +1,11 @@
 
+- time: 2024-02-19 17:00:00
+  title: "How to Build an LLM-powered QA bot"
+  speakers: [alexlitvinov]
+  type: webinar
+  link: https://lu.ma/gjt2o838
+
+
 - time: 2024-02-26 17:00:00
   title: "Building Production Search Systems"
   speakers: [danielsvonava]
