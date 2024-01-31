@@ -46,7 +46,7 @@ We'll mainly use Python, but if you're not familiar with it yet, it's not a prob
 The course curriculum is structured to guide you through the essential elements of data engineering, beginning with foundational concepts and advancing to complex topics.
 
 <figure>
-<img src="images/posts/2023-11-18-data-engineering-zoomcamp/Image7.jpg"  />
+<img src="images/posts/2023-11-18-data-engineering-zoomcamp/Image7.jpg"/>
 <figcaption><p>Course overview</p></figcaption>
 </figure>
 
