@@ -15,6 +15,11 @@ title: MLOps Zoomcamp
 
 In this article, we take a closer look at the MLOps Zoomcamp, a free nine-week course that covers practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring. It is perfect for people who plan to work with ML services at any stage.
 
+<figure>
+<img src="/images/posts/2024-03-07-mlops-zoomcamp/image2.png"  />
+<figcaption>Course Curriculum</figcaption>
+</figure>
+
 We will describe different aspects of this course so you can learn more about it:
 
 -   Key course features
