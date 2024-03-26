@@ -28,12 +28,10 @@ When participating in discussions, follow [our community guidelines](/slack/guid
 ## Channels 
 
 - `#book-of-the-week` &ndash; to talk about books with book authors (check the [books page](/books.html) for more information)
-- `#career` &ndash; for career discussions (switching from one role to something data-related, being better at work, etc)
+- `#career-questions` &ndash; for career discussions (switching from one role to something data-related, being better at work, etc)
 - `#datascience` &ndash; for talking about data science, machine learning, algorithms, training process, and ml-related libraries
 - `#engineering` &ndash; for discussing the engineering aspects of data science: data engineering, ML engineering, MLOps, and so on
 - `#events` &ndash; to talk about events (not just our events, but events in other communities as well)
-- `#process` &ndash; how to organize our work
-- `#projects` &ndash; to discuss your side projects or find collaborators
 - `#jobs` &ndash; for jobs
 - `#ai-memes-for-ai-peeps` &ndash; for pictures and memes
 - `#random` &ndash; for everything else
