@@ -34,7 +34,7 @@ the “Inappropriate Behavior” section.
 Some examples of inappropriate behaviour:
 
 * Judging the question or the person asking the question ("this is a stupid questions and everyone who can read docs knows the answer")
-* Soliciting any kind of personal information (such as marital status, sexual orientation, phone number, address, etc)
+* Soliciting any kind of personal information (such as marital status, sexual orientation, phone number, address, income, etc)
 * Continued one-on-one communication after requests to cease
 
 
