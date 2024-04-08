@@ -1,6 +1,6 @@
 ---
-short: tanyawold
-title: "Tanya Wold"
+short: tanyaberger-wolf
+title: "Tanya Berger-Wolf"
 picture: "images/authors/tanyawold.jpg"
 
 
