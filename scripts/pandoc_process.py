@@ -43,6 +43,13 @@ def create_post_id(title):
     return post_id
 
 
+def remove_specific_tags(html, tags):
+    """Remove specified HTML tags from a string."""
+    for tag in tags:
+        html = re.sub(f'<{tag}[^>]*>', '', html)  # Remove opening tags
+        html = re.sub(f'</{tag}>', '', html)  # Remove closing tags
+    return html
+
 def prepare_content(post_id, content):
 
     def replace_path(m):
@@ -89,6 +96,8 @@ def prepare_content(post_id, content):
 
             # print(f'{next_line=}')
             next_line_html = markdown.markdown(next_line)
+            next_line_html = remove_specific_tags(next_line_html, ['u', 'p'])
+
             replace_image_caption = functools.partial(replace_image, caption=next_line_html)
             line = re_img.sub(replace_image_caption, line)
             result.append(line)
@@ -121,7 +130,7 @@ def prepare_content(post_id, content):
 
             # print('')
             continue
-            
+
         if line.startswith('#'):
             line = '#' + line
             result.append(line)
