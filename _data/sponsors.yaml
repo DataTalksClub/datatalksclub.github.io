@@ -1,27 +1,18 @@
 
-# - name: "Iterative"
-#   link: https://iterative.ai/
-#   image: /images/partners/iterative.png
-#   from: 2022-04-27 00:00:00
-#   to: 2023-05-01 00:00:00
-- name: "Weights & Biases"
-  link: http://wandb.me/data_talks_club
-  image: /images/partners/wandb-abb.svg
-  from: 2023-02-01 00:00:00
-  to: 2024-02-01 00:00:00
+- name: "Mage"
+  link: https://mage.ai/
+  image: /images/partners/mage.svg
+  from: 2024-01-01 00:00:00
+  to: 2025-01-01 00:00:00
 
-- name: "AIIA"
-  link: "https://ai-infrastructure.org/?utm_source=dtc&utm_medium=website&utm_campaign=partner"
-  image: /images/partners/aiia.png
-  from: 2022-03-01 00:00:00
-  to: 2024-01-01 00:00:00
-# - name: "WhyLabs"
-#   link: https://whylabs.ai/
-#   image: /images/partners/whylabs.png
-#   from: 2022-05-16 00:00:00
-#   to: 2023-05-16 00:00:00
 - name: "Arize AI"
   link: https://arize.com/model-monitoring/
   image: /images/partners/arize.png
   from: 2022-09-01 00:00:00
   to: 2023-09-01 00:00:00
+
+# - name: "AIIA"
+#   link: "https://ai-infrastructure.org/?utm_source=dtc&utm_medium=website&utm_campaign=partner"
+#   image: /images/partners/aiia.png
+#   from: 2022-03-01 00:00:00
+#   to: 2024-01-01 00:00:00
