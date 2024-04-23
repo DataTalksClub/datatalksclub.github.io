@@ -41,12 +41,12 @@ def slugify_title(title):
 
 
 def person_path_exists(slug):
-    print('Checking if person exist...')
+    print(f'Checking if person "{slug}" exist...')
 
-    path = './_people/%s.md' % slug
+    path = f'./_people/{slug}.md'
 
     if os.path.exists(path):
-        print('Person already exists')
+        print(f'Person file for "{slug}" already exists at "{path}"')
         return path, True
     
     return path, False
