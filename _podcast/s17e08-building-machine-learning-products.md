@@ -15,1198 +15,1050 @@ season: 17
 short: Building Machine Learning Products
 title: Building Machine Learning Products
 transcript:
-- line: This week, we will talk about building machine learning products and themes.
-    We will see where it goes. Originally that topic was that, but we changed the
-    questions a little bit in the meantime. But we have a very special guest today,
-    Reem. Reem is the Director of Data Science at Intervu.ai, which is an HR tech
-    startup. She has a lot of experience in training and mentoring people in the data
-    space. She also co-founded an AI education company, and upskilled more than 3000
-    people. In total, she has over eight years of experience in the data space. And
-    she also has a PhD. You researched transfer learning, right?
+- line: "This week, we'll talk about building production search systems. We have a\
+    \ special guest today, Daniel. Daniel is an entrepreneurial technologist with\
+    \ a 20 years\u2019 career. He is the co-founder of Superlinked.com. What we saw,\
+    \ VectorHub is one of the projects by Superlinked. It's a machine learning infrastructure\
+    \ startup that helps build information retrieval systems, from recommender engines\
+    \ to enterprise focused LLM apps. Before starting his own company, he was a tech\
+    \ lead for machine learning infra at YouTube Ads. So welcome, Daniel."
+  sec: 107
+  time: '1:47'
+  who: Alexey
+- line: Hey, happy to be here! Thanks for having me!
+  sec: 145
+  time: '2:25'
+  who: Daniel
+- header: "Daniel\u2019s background"
+- line: Before we go into our main topic of building search systems, let's start with
+    your background. Can you tell us about your career journey so far?
+  sec: 149
+  time: '2:29'
+  who: Alexey
+- line: "Yes. Very happy to have this kind of\u2026 20 year time horizon is maybe\
+    \ a little bit of an exaggeration. But\u2026 Basically, I'm originally from Slovakia,\
+    \ with this kind of typical Eastern European technical background of coding competitions\
+    \ in high school. I've been through a couple of internships during university\
+    \ with Google and IBM Research. Eventually, I decided to start my own company,\
+    \ the first one, out of university, because both of those companies were very\
+    \ big, and it took months to launch new things. I started my first startup already\
+    \ after I moved to Switzerland."
   sec: 160
   time: '2:40'
+  who: Daniel
+- line: "Then, I eventually ended up back at Google, as you said, in YouTube Ads,\
+    \ building systems that predict ad campaign performance. When people buy these\
+    \ ad campaigns, they like to get feedback of \u201COkay, if you run this campaign,\
+    \ you'll get 1000 clicks,\u201D or something like that. Then they see the forecast,\
+    \ they tweak it. And then once they are happy with the forecast, they bite, and\
+    \ eventually, the systems I was working on powered (or power) all of YouTube ad\
+    \ buying. There is reservation [when it comes to] the auction ads. You know, the\
+    \ ads world is not so transparent for many people, and there are a lot of rabbit\
+    \ holes you can fall into."
+  sec: 160
+  time: '2:40'
+  who: Daniel
+- line: Then towards the end of 2018, I left, and started working on my second startup.
+    We went through many different ideas, and a couple of years into that process,
+    we landed on Superlinked. That's the project, or company, I'm working on now.
+  sec: 160
+  time: '2:40'
+  who: Daniel
+- line: "I loved how casually you dropped this, \u201COh, yeah \u2013 I just have\
+    \ this typical Eastern European background where people do competitive programming\
+    \ at school.\u201D [chuckles] Seriously, did you do this at school?"
+  sec: 283
+  time: '4:43'
   who: Alexey
-- line: Yeah. Machine learning from limited data. Transfer learning was essentially
-    where that led to.
-  sec: 214
-  time: '3:34'
-  who: Reem
-- line: "Welcome to the interview \u2013 to our event."
-  sec: 221
-  time: '3:41'
+- line: Yes. In, I think, about the second year of high school, I had this realization
+    that if I don't do something like competitive programming, it will be very difficult
+    to leave the country and work on some interesting problems. So I always get some
+    math kinds of competitions but, basically, programming seemed like the thing [that
+    can help] you can actually get a job, right? So I decided to take it more seriously.
+  sec: 299
+  time: '4:59'
+  who: Daniel
+- line: "Eventually, it did land me those internships. But it was a few years kind\
+    \ of journey of getting up at 3am and doing TopCoder competitions that were US\
+    \ time-friendly. Also meeting lots of people who eventually ended up all in California\
+    \ optimizing the ads with me, in one way or another. So that cohort of the competitive\
+    \ programming folks is a small one, and I keep running into those people, still.\
+    \ It\u2019s fun."
+  sec: 299
+  time: '4:59'
+  who: Daniel
+- line: It's probably still easy for you to pass all these programming interviews
+    at Google, Meta and the like, right?
+  sec: 370
+  time: '6:10'
   who: Alexey
-- line: "Thank you. It's a pleasure to be here. Like I said, I\u2019m a huge fan of\
-    \ what you guys do, so I was very happy to get the chance to be here and contribute\
-    \ back in some way."
-  sec: 225
-  time: '3:45'
-  who: Reem
-- line: Yeah, thank you for being here. The questions for today's interview were prepared
-    by Hannah Bayer, and also Reem. But thanks, Johanna, for your help, as always.
-  sec: 235
-  time: '3:55'
+- line: "Well, luckily, I didn't have to do it for quite a while in that sense. But\
+    \ you may be surprised at how many of such problems I encounter quite often, now\
+    \ that we work with an infrastructure-focused product. All of those tasks that\
+    \ for many people are maybe hard to connect to real work \u2013 doing some rotations\
+    \ of three data structures and things like that. Actually, if you work on infrastructure\
+    \ and these hard problems, you\u2019ll find many applications for those types\
+    \ of things. Like dynamic programming, for example, has always been a little bit\
+    \ out there in terms of applications. But actually, now we have this chunking\
+    \ problem as a part of the search problem overall, and I find certain types of\
+    \ chunking can be solved by dynamic programming. So it all kind of comes together\
+    \ in the end, which is funny, too."
+  sec: 380
+  time: '6:20'
+  who: Daniel
+- line: What is search?
+  sec: 380
+  time: '6:20'
+  who: Daniel
+- line: I added a note because this is something I want to ask you, but probably towards
+    the end, because we have quite a few questions that we need to cover first. Since
+    we will talk about production search systems today, what actually is search?
+  sec: 455
+  time: '7:35'
   who: Alexey
-- header: "Reem\u2019s background"
-- line: Before we go into our main topic of building machine learning teams, let's
-    start with your background. Can you tell us about your career journey so far?
-  sec: 248
-  time: '4:08'
+- line: "[chuckles] Depending on how philosophical you want to get here\u2026"
+  sec: 474
+  time: '7:54'
+  who: Daniel
+- line: Maybe not too much. Not philosophical.
+  sec: 477
+  time: '7:57'
   who: Alexey
-- line: Yes. I originally started my career with my Bachelor's studies, as most people
-    [do]. There, I was actually an electrical engineer. I was fascinated with physics.
-    I was a huge nerd when it came to electromagnetics and that was something I was
-    very passionate about. That led me into electrical engineering. So it was not
-    too far, but a bit of a different field than where I am today. But there was still
-    an intersection with software engineering [and] computer engineering in general.
-    It was in my last year where I took (accidentally, actually) my first course in
-    AI.
-  sec: 257
-  time: '4:17'
-  who: Reem
-- line: That was my first exposure to the topic. I became fascinated. I was someone
-    who's always curious about how things are built. So when I came across this idea
-    that we could get machines to do things in a smart way, that was fascinating for
-    me, because I was only familiar with traditional software, and explicitly giving
-    machines instructions on how to do things. So this idea of being able to do more
-    than that was very cool for myself back then. So I decided that I wanted to pursue
-    a Master's degree specializing in this area, purely out of just being more curious.
-  sec: 257
-  time: '4:17'
-  who: Reem
-- line: Back then (it wasn't that long ago, But) back in 2015, it was kind of an obvious
-    choice to go for graduate school. I think today, you have a lot more options on
-    how you can dive into the field. So that's what I did. I went into graduate school.
-    I really enjoyed the research that I did and so I extended it into the PhD as
-    well [chuckles] and continued working in the field. During my PhD, that's when
-    I co-founded the startup on AI education. So I started kind of balancing between
-    my academic work as well as the startup world and how things work there. I got
-    fascinated with startups, finished my PhD, joined another startup, where I'm currently
-    building the HR tech solution that you mentioned. And yeah, this is where I'm
-    at today.
-  sec: 257
-  time: '4:17'
-  who: Reem
-- line: Well, it must not be easy to simultaneously start a startup and do your PhD,
-    right?
-  sec: 389
-  time: '6:29'
+- line: "One way you can frame search is actually as a decision problem. You have\
+    \ a lot of information somewhere, and you want to decide which pieces of that\
+    \ information matter in a given situation \u2013 which are the most relevant pieces\
+    \ of that information? That's the first decision and then you're typically navigating\
+    \ some broader problem. Say somebody wants to buy something on the internet, or\
+    \ discover their next article to read, or you are looking for a machine part that\
+    \ is required to fix a machine. All of those situations probably contain an information\
+    \ retrieval sub problem in there somewhere. Isolating relevant data within a bigger\
+    \ pile of data, and then we can talk about what is \u201Crelevant\u201D and what\
+    \ is a \u201Cpile\u201D, right?"
+  sec: 480
+  time: '8:00'
+  who: Daniel
+- header: Search vs information retrieval system
+- line: I asked you about search, and in your answer, you mentioned an information
+    retrieval system, which is like the same thing, right?
+  sec: 544
+  time: '9:04'
   who: Alexey
-- line: "No, it was not easy. But it was a lot of fun, actually, because it was a\
-    \ nice balance. During the PhD\u2026 A PhD is very intense and you get to do a\
-    \ lot of work. I mean, for those who have been on a similar journey, you get to\
-    \ do a lot of very intense work, and mostly (to some extent) alone. When I balance\
-    \ that out with the excitement of working with a team and training people and\
-    \ that community aspect \u2013 because everything that we also did in that company\
-    \ was very much community-driven. It was kind of like a balancing act. As long\
-    \ as you're enjoying what you're doing, you end up managing somehow, I guess."
-  sec: 400
-  time: '6:40'
-  who: Reem
-- line: "So what did you\u2026? You said that your research was\u2026 You had your\
-    \ first course in AI during the last year of your Bachelor studies, you really\
-    \ liked it, and you enrolled in a Master's program. You also liked it, so then\
-    \ you continued researching it during your PhD. Your research was about transfer\
-    \ learning with limited data, right? [Reem agrees] Can you tell us a bit more?\
-    \ What did you research?"
-  sec: 442
-  time: '7:22'
+- line: "Basically. By the way, these boundaries are often quite arbitrary. [Boundaries]\
+    \ of where recommender systems start and personalized search ends, for example.\
+    \ Or now we have retrieval augmented generation \u2013 how is that any different\
+    \ at all? I think that we try to put some brackets of functionality just to make\
+    \ it easier to talk about it but, at the end of the day, information retrieval\
+    \ is the common name for the field. Maybe one other kind of keyword when people\
+    \ are searching for learning materials, I would say, is \u201Crepresentation learning\u201D\
+    . Right? That's the domain of machine learning where we are trying to build models\
+    \ that help us encode this information that we are trying to find or search through\
+    \ in a way that makes it more efficient to search it."
+  sec: 550
+  time: '9:10'
+  who: Daniel
+- line: "I think, in Berlin, there is a conference called Haystack, which is about\
+    \ search. I think that the reason they use it is because you have a pile of hay\
+    \ \u2013 there is a needle there, and you want to find it, right? This is the\
+    \ search problem. So this pile of information, this is what you have (like the\
+    \ internet) and then the needle is what you want to find. Because you can\u2019\
+    t sift through the entire pile, you need a smart method of finding the needle,\
+    \ like a magnet or whatever."
+  sec: 613
+  time: '10:13'
   who: Alexey
-- line: "Yeah, sure. I mean, that was a very long time ago, but I hope I can remember\
-    \ how things came together. During my Master's, my advisor was already working\
-    \ on certain areas, and he was specifically focused on natural language processing\
-    \ and context-aware sensing. Back then, NLP was still not the hype that it is\
-    \ today. It was more basic\u2026 more foundational NLP stuff, I would say (not\
-    \ basic, but more foundational). I was fascinated with context-aware sensing because\
-    \ the applications that he was working on were very much touching people's lives.\
-    \ For me\u2026 [cross-talk]"
-  sec: 470
-  time: '7:50'
-  who: Reem
-- line: "\u201CContext oversensing\u201D you said?"
-  sec: 508
-  time: '8:28'
+- line: "Yes. Because usually there is the constraint of a finite amount of time.\
+    \ If we had forever, then we could always go through the whole pile and very carefully\
+    \ look at each blade of grass. But typically, there is a constraint of, as they\
+    \ say, \u201Cevery 10 milliseconds added to a shopping interface significantly\
+    \ impacts the revenue.\u201D These kinds of situations repeat across many domains.\
+    \ So latency is a big factor. Search existed \u2013 the problem existed \u2013\
+    \ since the beginning of computer science, right? These concepts are not new at\
+    \ all."
+  sec: 645
+  time: '10:45'
+  who: Daniel
+- header: Vector search
+- line: "I think there is a paper about vector spaces, which is from like the 70s,\
+    \ where they explain this bag of words. I wanted to talk about\u2026 There is\
+    \ a very good book, which is called Introduction to Information Retrieval. I think\
+    \ one of the authors is Christopher Manning. This is a very good book. This is\
+    \ one of the books I started my journey into NLP with. It is super well-written."
+  sec: 689
+  time: '11:29'
   who: Alexey
-- header: Context-aware sensing and transfer learning
-- line: Context-aware sensing.
-  sec: 511
-  time: '8:31'
-  who: Reem
-- line: Oh! Context-aware sensing. What is that?
-  sec: 513
-  time: '8:33'
+- line: "There, the idea is that you have a document. The document contains words.\
+    \ And then you have a phrase. Let's say the document is about\u2026 I don't know,\
+    \ search. Then we look for the word \u201Csearch\u201D. Then it's like, \u201C\
+    Okay, this document contains the word \u2018search\u2019 1000 times. Must be relevant.\
+    \ Let's show it.\u201D So the book is mostly about text search. Yet, today, we\
+    \ talk so much about vector search, vector embeddings, and all of that. What are\
+    \ these things? How are they related? How is this vector search relevant to what\
+    \ I mentioned \u2013 to the text search?"
+  sec: 689
+  time: '11:29'
   who: Alexey
-- line: "Yeah, so something like wearable devices for human activity recognition,\
-    \ emotion recognition, sensing human behavior and environment \u2013 stuff like\
-    \ that. He was working on a variety of these things. I started looking down this\
-    \ direction. I didn't end up down that path [chuckles] but along the way, I came\
-    \ across the idea of transfer learning and multitask learning and this concept\
-    \ of getting models to learn from each other. Again, I was starting in the field\
-    \ back then, so for me, driven by the same curiosity, I was like, \u201CWow! Okay,\
-    \ that's interesting. Not only can you teach a machine, but we can get them to\
-    \ kind of learn from each other's experiences. That sounds very cool.\u201D"
-  sec: 515
-  time: '8:35'
-  who: Reem
-- line: "So that's when I got into diving into multitask learning \u2013 specifically\
-    \ a branch of transfer learning \u2013 where you're able to learn multiple tasks,\
-    \ multiple problems that you're trying to basically optimize the model for, using\
-    \ one model, essentially. [This] saves on resources. If your datasets are limited,\
-    \ you're able to share and leverage knowledge across the tasks to boost the performance\
-    \ and stuff like that. That was the focus and my Master's, extended into my PhD,\
-    \ and branched out a bit more, where I started looking into teacher models and\
-    \ or more overarching challenges in multitask learning, transfer learning."
-  sec: 515
-  time: '8:35'
-  who: Reem
-- line: "Like the challenges of catastrophic learning, where when you fine tune a\
-    \ model, you forget the old task \u2013 are you able to maintain tasks as you\
-    \ fine tune models, even though their data is missing, and diving into these things\
-    \ in more detail, but all within the realm (or the umbrella) of leveraging train\
-    \ models to boost performance on other tasks and new tasks that suffer from limited\
-    \ data, whether it\u2019s naturally (some tasks naturally suffer from limited\
-    \ data) or whether you\u2019re in the initial stages of training and you don't\
-    \ have access to this data."
-  sec: 515
-  time: '8:35'
-  who: Reem
-- line: "This is the first time I hear the term \u201Ccatastrophic learning\u201D\
-    . That's interesting. [cross-talk] Like, I know the concept. Yeah, sorry. Forgetting\u2026\
-    \ [cross-talk] Yeah. I know the term. Not the term, but the concept. Because it\
-    \ happens, when you set the \u201Clearning rate too high,\u201D the model just\
-    \ accidentally overrides the weights, if you take this ImageNet model. [Reem agrees]\
-    \ It just forgets everything."
-  sec: 643
-  time: '10:43'
+- line: "So if we talk about the search world before vectors became very popular \u2013\
+    \ and they have always been there. I think the difference is, \u201CHave they\
+    \ been used in production systems?\u201D Or \u201CDid people keep production systems\
+    \ a bit simpler, until recently?\u201D Which I think is the case. For the previous\
+    \ generation of search systems, you tried to build data structures that helped\
+    \ you find\u2026 There is always a concept of query, and then you want to do things\
+    \ to this query \u2013 to prepare it for the evaluation. You might expand the\
+    \ synonyms, you might rewrite the query to make it more efficient to evaluate,\
+    \ and you will end with some object that describes your objective \u2013 like,\
+    \ \u201CWhat do you want?\u201D Then, on the search index side \u2013 there is\
+    \ this whole field of infrastructure work, in which you have your haystack \u2013\
+    \ you want to process it, you want to ingest it, and build some kind of data structure\
+    \ on top of it that we call index. [Index] makes it very efficient to take that\
+    \ query object and match it against the whole haystack but as fast as possible."
+  sec: 765
+  time: '12:45'
+  who: Daniel
+- line: "So three vectors \u2013 the core idea of that index structure was this \u201C\
+    reverse list,\u201D where you basically have a list of keywords with pointers\
+    \ to where those keywords appear in the original query. Any of those keywords\
+    \ can be parts of the words, they can be all keywords, they can be normalized\
+    \ in different ways. But that's kind of the basic idea. You make a kind of dictionary,\
+    \ and then you use that to match the queries to the text. The obvious problem\
+    \ is the brittleness of the setup because you rely on a very specific handcrafted\
+    \ heuristic of how to create the dictionary and what to do to those queries to\
+    \ match the two sides together. By the way, this is still in the realm of the\
+    \ underlying retrieval step, right."
+  sec: 765
+  time: '12:45'
+  who: Daniel
+- line: "We should probably also mention that there are usually two distinct steps\
+    \ in each of these search systems. You have the initial retrieval step \u2013\
+    \ you can call it \u201Ccandidate generation,\u201D where you want to quickly\
+    \ figure out, \u201COkay, here are the \u2018potential\u2019 good results.\u201D\
+    \ You are narrowing the whole haystack to some tiny fraction of it. And then you\
+    \ have the second step of ranking. People consider these problems very differently.\
+    \ In the ranking step, in its final, most sophisticated form, you can think about\
+    \ it as a machine learning problem that's usually framed as, \u201COkay, for this\
+    \ query, and this potential candidate result, what is the probability that they\
+    \ actually match?\u201D It could be, \u201CWhat is the probability that the user\
+    \ that's doing the search actually clicks on this particular result?\u201D There\
+    \ are different ways to frame the problem. But this part sounds more like machine\
+    \ learning, while the first part sounds more like engineering. So we had a, in\
+    \ a way, stupid retrieval and smart ranking."
+  sec: 765
+  time: '12:45'
+  who: Daniel
+- line: "Then in the ranking step is usually where those models get complicated, you\
+    \ have all the MLOps issues. That's where you bring all that context into the\
+    \ picture, and you try to run that model on all the candidates, and reorder them\
+    \ and serve that to the user, or to the system that's doing the searching. So\
+    \ that's the anatomy \u2013 you have those two parts, usually."
+  sec: 765
+  time: '12:45'
+  who: Daniel
+- line: "I have this book. For those who are listening to this as a recording and\
+    \ don't see \u2013 this is a German grammar book. So there is a lot of information.\
+    \ Let's say I want to find something in it. How would we build a search system\
+    \ for that? We need two steps, right? You mentioned candidate generation and binary\
+    \ classification, but even before that, we need to index the entire book \u2013\
+    \ build the index. How would we go about that, step-by-step?"
+  sec: 1005
+  time: '16:45'
   who: Alexey
-- line: Or even if you fine-tune it on a smaller dataset, it's going to become optimized
-    for the new one and not be able to perform the same on the old task. These are
-    very, very interesting problems. Again, research driven. So they were very detailed
-    about the problems. But it was an interesting space, and this was the direction
-    that I took.
-  sec: 672
-  time: '11:12'
-  who: Reem
-- header: Shifting focus from PhD to industry
-- line: How do you switch your focus more towards the industry? You're doing your
-    PhD and then you probably wanted to have something more practical? How did that
-    happen?
-  sec: 695
-  time: '11:35'
+- header: Index building
+- line: "Yeah. You basically\u2026 Actually, at the end of the book, you would most\
+    \ likely fetch a lookup table. Maybe call the reference? Or maybe this one doesn't\
+    \ have it, but\u2026"
+  sec: 1041
+  time: '17:21'
+  who: Daniel
+- line: It does have it. It only has a table of contents. But some books do. Yeah.
+  sec: 1053
+  time: '17:33'
   who: Alexey
-- line: "Yes, actually. Even though I enjoyed the research that I was doing, and the\
-    \ work that I was doing, I wasn't very much driven by the way that academia worked\
-    \ \_\u2013 the reward that you would get out of this heavy, heavy effort that\
-    \ you would put in. I really wanted to be in a place where I was able to build\
-    \ something that would actually make it into practice, and I would actually be\
-    \ able to see the impact and touch people's lives, basically. Because most of\
-    \ the research that you do today doesn't end up making it to industry, because\
-    \ of many, many factors. So that was something I actually decided early on \u2013\
-    \ that I would be switching to industry once I'm done with my PhD. It was driven\
-    \ from that \u2013 from being able to make a direct impact with a solution that\
-    \ people can actually use."
-  sec: 711
-  time: '11:51'
-  who: Reem
-- line: "Yeah. I guess touching people\u2019s lives with PhD research is way more\
-    \ difficult, because in industry\u2026 The loop between you doing something and\
-    \ then affecting people is way shorter, right? Compared to\u2026"
-  sec: 771
-  time: '12:51'
+- line: "Some books do. I mean, the practical answer is \u2013 use Leucine. There\
+    \ are big, open source projects out there that help you solve this problem of\
+    \ ingesting a whole bunch of documents, cutting them up, and building that index\
+    \ structure. And these things are built into databases now. There also exists\
+    \ the standalone solutions. You should really, really not build reverse keyword\
+    \ lookup systems [cross-talk]"
+  sec: 1060
+  time: '17:40'
+  who: Daniel
+- line: "I actually found it. In German it\u2019s called \u201Cregister index\u201D\
+    . And then for \u201Caber\u201D which means \u201Cbut\u201D \u2013 it says to\
+    \ go to page 108. For the word \u201Cgigen\u201D go to page 84. For \u201Cnoch\
+    \ nicht\u201D go to page 126."
+  sec: 1099
+  time: '18:19'
   who: Alexey
-- line: "Yes. Yes. Again, most research doesn't make it into industry. On the industry\
-    \ side, you don't see it that way, because you do see these foundational models\
-    \ that come up from R&D teams, but they are really  centralized in these big tech\
-    \ companies. Everyone else in the world who's doing research, most of the time\
-    \ they're contributing to the body of work that's out there, yes, but it's not\
-    \ making it to production. One of the main reasons actually is \u2013 when you\
-    \ do research, and you're optimizing models, or you're improving, you're not really\
-    \ doing it with industry standards in mind."
-  sec: 786
-  time: '13:06'
-  who: Reem
-- line: "Many of the methods that are out there are probably not practical to make\
-    \ it into production \u2013 they\u2019re probably not needed, especially with\
-    \ companies that are still in early stages. At least where I am, I know that getting\
-    \ to a point where you have R&D-grade models in production is not really needed\
-    \ in most of the companies in the region where I am. People are still in very\
-    \ early stages, discovering how AI can help bring value to their organizations."
-  sec: 786
-  time: '13:06'
-  who: Reem
-- header: "Reem\u2019s experience with startups and dealing with prejudices towards\
-    \ PhDs"
-- line: Did you immediately start with a startup or was there something else? How
-    did you transition? What did you do?
-  sec: 860
-  time: '14:20'
+- line: Right. You will notice that an interesting aspect of this page is that these
+    words are usually ordered alphabetically. Right?
+  sec: 1119
+  time: '18:39'
+  who: Daniel
+- line: They are, yeah.
+  sec: 1127
+  time: '18:47'
   who: Alexey
-- line: I did. I immediately started with the startup. Actually, I started before
-    I finished my PhD [chuckles] by a few months. I mean, it was just a coincidence,
-    really. I got approached by the founder.
-  sec: 869
-  time: '14:29'
-  who: Reem
-- line: Coincidence? So you accidentally started the startup? [chuckles]
-  sec: 883
-  time: '14:43'
+- line: "Yeah. So that's a very basic way to make it easy to find a word in the list.\
+    \ You can basically binary search for an index in that list if that's the data\
+    \ structure that works for a person looking at the book. Normally, you would have\
+    \ some kind of tree sector where you go down a tree, following the letters. You\
+    \ would have the first letter and then the second letter, and as you go through\
+    \ the Word, you follow down the tree, and eventually the leaf of the tree (the\
+    \ node where you end) would have a list of places where the keyword matching that\
+    \ prefix that took you to that node exists in the original data. And then the\
+    \ whole game is, \u201CHow do you keep this thing updated when you ingest new\
+    \ documents?\u201D But again, Leucine is your friend for this. Okay, so we talked\
+    \ a little bit about the first part of your question \u2013 if you parachute into\
+    \ the 2000s\u2026 [cross-talk]"
+  sec: 1129
+  time: '18:49'
+  who: Daniel
+- header: Increased complexity in indexing
+- line: For this book, just use Lucene, right?
+  sec: 1200
+  time: '20:00'
   who: Alexey
-- line: "[laughs] Not really. I mean, I'm not I'm not a founder of the startup. But\
-    \ I was approached by the founders who I'm sure did not accidentally begin their\
-    \ startup. But they were still in the initial stages of thinking it out. They\
-    \ wanted to brainstorm feasibility and all that stuff. Through the conversation,\
-    \ we got to a point where I was like, \u201CYeah, I'm finishing my PhD.\u201D\
-    \ And they were like, \u201COh! Would you be interested in joining?\u201D And\
-    \ I was."
-  sec: 889
-  time: '14:49'
-  who: Reem
-- line: "It was a very interesting product that they had in mind. It was something\
-    \ I knew would be very challenging and interesting to work on, and the impact,\
-    \ for me, was very meaningful. So I was like, \u201COkay. Here we go. That's what\
-    \ I'll be doing after I'm done.\u201D"
-  sec: 889
-  time: '14:49'
-  who: Reem
-- line: Was it a difficult transition?
-  sec: 928
-  time: '15:28'
+- line: "Yes. And now the question is, \u201COkay, why do we need something new?\u201D\
+    \ The deficiency of this system is\u2026 I would focus on maybe two elements.\
+    \ One is that it's brittle. It relies on very specific forms of these keywords\
+    \ appearing both in the query and in the original document. Even though you may\
+    \ have expanded the synonyms, the practical reality of managing a search system\
+    \ in production is that you have very many special cases and very long configuration\
+    \ files, that helps you\u2026"
+  sec: 1202
+  time: '20:02'
+  who: Daniel
+- line: I want to use English to search for something in the German book, right?
+  sec: 1237
+  time: '20:37'
   who: Alexey
-- line: "Not really. I know a lot of people think that the transition from PhD to\
-    \ industry is challenging. I think the one area that it's challenging in is the\
-    \ perception on the opposite side. I think people in industry look at you as a\
-    \ PhD candidate and they have certain assumptions that are difficult for you to\
-    \ navigate. It depends, of course, on who you're talking with, but I've seen this\
-    \ a lot \u2013 people assume that you're going to be driven by whatever you're\
-    \ doing in research, and that you're going to be very detail-oriented, and you're\
-    \ not going to be able to adapt to industry standards and industry requirements."
-  sec: 934
-  time: '15:34'
-  who: Reem
-- line: Prejudices.
-  sec: 973
-  time: '16:13'
+- line: "I mean, that's a whole other type of problem. You could consider the synonym\
+    \ expansion to maybe go cross-language. But there is always a set of queries that\
+    \ you will find in your logs, where you didn't return any results, for example\
+    \ \u2013 or returned the wrong results. So the day-to-day life of a search relevance\
+    \ engineer is to look at that log, somehow figure out which type of queries make\
+    \ the most impact and are still handled poorly, and then you go when you try to\
+    \ create the rules, and you try to address that problem."
+  sec: 1242
+  time: '20:42'
+  who: Daniel
+- line: "This increases the complexity of your system. Then this goes forward, and\
+    \ then this person quits, and a new one joins, and sees all the rules. It's layers\
+    \ of complexity. So that's the first problem. It's very brittle and very heuristic-based.\
+    \ There is the other side of the problem, which is, \u201COkay, but in reality,\
+    \ we rarely just have text.\u201D We rarely have just documents."
+  sec: 1242
+  time: '20:42'
+  who: Daniel
+- line: Pictures?
+  sec: 1313
+  time: '21:53'
   who: Alexey
-- line: "Yes, exactly. And that you're going to be stuck with your academic mindset.\
-    \ Obviously, some people think you're overqualified, and they don't consider you,\
-    \ etc. \u2013 these challenges."
-  sec: 976
-  time: '16:16'
-  who: Reem
-- line: "It\u2019s not like you're going to be stuck with your academic mindset, it\u2019\
-    s what people think you're going to do."
-  sec: 985
-  time: '16:25'
+- line: "There are pictures there. There are\u2026 If you imagine a database of an\
+    \ enterprise company with hundreds of columns (sitting somewhere in MySQL, or\
+    \ Postgres) that this company literally runs on. It's a critical table. Some of\
+    \ these columns will be strings, probably. But there'll be all kinds of other\
+    \ things in there. And then you have your data warehouse with all the logs, generated\
+    \ by our infrastructure, by your users. So that's the data reality. And then you\
+    \ somehow want to do retrieval that uses all this data. This is the second part\
+    \ of the problem, \u201CHow do you go beyond just matching some strings to strings?\u201D\
+    \ First, the specific way you often encounter this is personalization. We have\
+    \ some users, we have some data about these users, and maybe they send us a search\
+    \ query, or maybe they just show up on the website or in the app? How do we show\
+    \ them the product they want to buy or the document they want to read \u2013 all\
+    \ of this stuff?"
+  sec: 1315
+  time: '21:55'
+  who: Daniel
+- line: "How do we combine the behavioral data with the content? This typically happens\
+    \ in the ranking step. So that's why it's so complicated. You have all the kinds\
+    \ of machine learning problems there. I would say there's the state of the world,\
+    \ and now we can kind of switch to vectors and talk about the difference. \u201C\
+    What's going on there?\u201D Right? I would say that the first problem that gets\
+    \ addressed is this brittleness. How do we make this problem of matching the query\
+    \ to the index object more robust? When we say a manager in the document says\
+    \ \u201Cleader\u201D there will be a match. Yes, you can handle this specific\
+    \ case with the synonym expansion, but there are basically infinite such cases."
+  sec: 1315
+  time: '21:55'
+  who: Daniel
+- line: "So how do we make it more robust? The idea is that, instead of trying to\
+    \ figure out all the possible rules in which we can match the words, what about\
+    \ we come up with some representation that will exist in the middle of those two\
+    \ kinds of documents and queries, where we will project both sides into this shared\
+    \ representation \u2013 and this projection will be more robust. That's basically\
+    \ what embedding models helps us do \u2013 we do this kind of projection, such\
+    \ that, when things on the input of the projection are similar (for some definition\
+    \ of similar) then they will land in a similar place as that representation. This\
+    \ representation is vectors."
+  sec: 1315
+  time: '21:55'
+  who: Daniel
+- line: "In a way, vectors make that initial matching candidate retrieval problem\
+    \ more robust. That then scales across modalities, because it turns out that we\
+    \ can index images on one side into this representation. And then from the other\
+    \ side, we still embed queries \u2013 text queries. So now we're matching text\
+    \ to image, somehow, through this common place in the middle. In principle, you\
+    \ can do this for anything. In principle, you can take all kinds of data on the\
+    \ left side, all kinds of contexts on the right side (not just text queries, but\
+    \ also the history of the user \u2013 whatever it might be) and you can kind of\
+    \ have a model that encodes or\u2026 one model for the left side, one model for\
+    \ right side, and then they encode those two pieces in the middle, and then you\
+    \ do the matching."
+  sec: 1315
+  time: '21:55'
+  who: Daniel
+- line: "The whole hype around vector databases comes from this \u2013 that matching\
+    \ and doing it very efficiently seems pretty important. That also kind of helps\
+    \ you understand that \u201COkay, in this new world of vector-based search, or\
+    \ dense vector-based search, there will probably be two main problems.\u201D One\
+    \ is, \u201CHow do you make vectors from data, such that those vectors represent\
+    \ the different properties of your data that you care about?\u201D And then, \u201C\
+    How do you index and match those vectors very quickly?\u201D So there'll be some\
+    \ compute problem and there'll be some kind of search/database problem."
+  sec: 1315
+  time: '21:55'
+  who: Daniel
+- line: "And then, broadly, is how I think people should think about the space. Just\
+    \ to finish that thought, we mentioned my newest startup that a bunch of clever\
+    \ people and I have been working on for the last couple years \u2013 we work on\
+    \ the compute problem. We're not building a vector database. We actually work\
+    \ with vector databases. The idea is that, together, we can solve those two parts\
+    \ of the problem and then the end client gets the solution that both can do the\
+    \ compute and can do the search."
+  sec: 1315
+  time: '21:55'
+  who: Daniel
+- line: "What do you actually mean by \u201Cthe compute\u201D? Maybe I'll take a bit\
+    \ of a step back because there was quite a lot of information, and I want to make\
+    \ sure I understood it. If I go back to my German grammar book example. Previously,\
+    \ we would index each page or maybe each part, each section of the book with a\
+    \ word index. So we put this into Lucene, and then we would have a bunch of rules."
+  sec: 1641
+  time: '27:21'
   who: Alexey
-- line: "Well, yeah. Yeah, exactly. And then there's also this thing that I faced,\
-    \ and  that I know that many people faced, which is \u2013 you leave your PhD\
-    \ and there's also this challenge of, in industry your experience is counted in\
-    \ years of work in other companies. For them, it's a bit weird to process, \u201C\
-    But you've been in school for the past X years. So do you have work experience?\u201D\
-    \ [chuckles] I've been there. I mean, it's hard to explain it, honestly. I've\
-    \ been in situations where it was hard to explain, \u201CI have the experience.\
-    \ I might not have the experience that you have structured in your mind \u2013\
-    \ I gained that elsewhere and in different ways.\u201D So it's hard to communicate\
-    \ that to the opposite side. But the transition, at least for me, personally,\
-    \ wasn't that difficult."
-  sec: 989
-  time: '16:29'
-  who: Reem
-- line: "Maybe it was that I had already gotten exposed to industry \u2013 I was already\
-    \ consulting on projects, so it wasn't something entirely new for me (working\
-    \ on industry projects). So I knew that the mindset would have to be different.\
-    \ You're not coming in to try and build complex models that are 1-2% outperforming\
-    \ state-of-the-art and so on, so forth. Right? As long as you have the right expectations\
-    \ in mind and you do this transition, it shouldn't be difficult. And in many cases,\
-    \ actually, there are industry rules specifically tailored for PhD graduates.\
-    \ In my case, it wasn't. I wasn't working in a role that would require, let's\
-    \ say, a PhD. But there are many roles that would require that, in which case,\
-    \ you don't really need to transition from your mindset."
-  sec: 989
-  time: '16:29'
-  who: Reem
-- line: "Let's maybe talk in a bit more detail about your\u2026 What you were doing\
-    \ for these HR tech companies. As I understood, the first was a startup \u2013\
-    \ not the one you co-founded, but a startup. Was it in HR tech?"
-  sec: 1093
-  time: '18:13'
+- line: "But basically, for each word that I have on the page here, we would have\
+    \ a link to that page (or to that section). So if I\u2019m interested in the word\
+    \ \u201Cbut (aber)\u201D then I know that I need to go to section two of the book.\
+    \ That works up to some point when there are so many rules \u2013 synonyms and\
+    \ all that. For example, what if I want to use English to search for German? Or\
+    \ Russian? Or Slovakian? We cannot infinitely expand our index to include all\
+    \ these synonyms and other languages."
+  sec: 1641
+  time: '27:21'
   who: Alexey
-- line: "The first one, you mean? [Alexey agrees] The first startup was a training\u2026\
-    \ It was an education startup. That was my startup that I co-founded with a group\
-    \ of friends. Yeah. And that, I worked on during my PhD. But the one I'm in right\
-    \ now, I joined after I finished my PhD and I was one of the initial team members.\
-    \ I'm not a founder, but I was one of the people who kind of initiated the whole\
-    \ thing. And yes, it's an HR tech startup. We're building an AI\u2026 [cross-talk]"
-  sec: 1115
-  time: '18:35'
-  who: Reem
-- line: "So it\u2019s actually HR tech in general."
-  sec: 1144
-  time: '19:04'
+- line: "For example, you would want to search for swear words. Somebody comes and\
+    \ says, \u201COkay, what are the swear words?\u201D That concept doesn't necessarily\
+    \ exist in your index, but it exists in how we understand languages. So you need\
+    \ some strategy for handling that query and that's where I think it becomes quite\
+    \ obvious that you can\u2019t anticipate all these questions that people might\
+    \ be asking."
+  sec: 1714
+  time: '28:34'
+  who: Daniel
+- header: Compute in relation to vectors
+- line: "So then we can come up with some sort of numerical representation for each\
+    \ word or document. Basically, each document becomes a large array of numbers\
+    \ right, such that, if two things are similar then the numbers are similar. For\
+    \ example, I have a query which is \u201Cbut\u201D in English, and then I have\
+    \ a section/unit in my book that talks about prepositions right. They would have\
+    \ similar representation, right? [Daniel agrees] So then we have a different way\
+    \ of looking for information \u2013 each word (each document) is a sequence of\
+    \ numbers (an array of numbers) and then we use vector databases to store the\
+    \ documents. And then the document would say, \u201COkay, you need to go to page\
+    \ 110 to read about that.\u201D So this is how we would do things now with vector\
+    \ databases."
+  sec: 1740
+  time: '29:00'
   who: Alexey
-- line: I mean, in a nutshell, any technological solution that's serving the HR space.
-    Right?
-  sec: 1149
-  time: '19:09'
-  who: Reem
-- header: AI interviewing solution
-- line: "Which is like hiring or upskilling people or\u2026?"
-  sec: 1156
-  time: '19:16'
+- line: "And then you mentioned \u201Ccompute\u201D. Okay, I understand what a vector\
+    \ database is \u2013 this is a thing that stores vectors. Then I have a vector\
+    \ and I say, \u201COkay, I need to find top 10 vectors that are similar to this\
+    \ vector. Give them to me. This is what the vector database is doing. But what\
+    \ exactly is the \u201Ccompute\u201D that you mentioned?"
+  sec: 1740
+  time: '29:00'
   who: Alexey
-- line: "Both. Whether you're talking about\u2026 Usually, in HR, you can talk about\
-    \ hiring, which actually involves many, many things. There\u2019s screening, and\
-    \ then the different interviewing phases that can be involved, managing (what\
-    \ ATSs probably do today) and then you can talk about employee\u2026 I don't know\
-    \ what the exact term is, but things like employee retention, employee assessment,\
-    \ and training as well. This is all within HR. In my case, we're focusing specifically\
-    \ on recruitment \u2013 the initial stages of people coming in. More specifically,\
-    \ on the screening phase."
-  sec: 1160
-  time: '19:20'
-  who: Reem
-- line: This is the company where you work at right now. Right? [Reem agrees] So what
-    do you do?
-  sec: 1201
-  time: '20:01'
+- line: "Right. So you have two places where you are running some models. The first\
+    \ place is the ingestion into the vector database. You have some document somewhere,\
+    \ and you need to compute all the vectors that correspond to these documents.\
+    \ Maybe when the documents change, you need to recompute these vectors. And maybe,\
+    \ when you want to use the submitted data of these documents, for example, \u201C\
+    Which documents are people actually clicking on?\u201D Or \u201CWhen were these\
+    \ documents created?\u201D This creates some kind of data landscape on the input.\
+    \ And then you have your vector database on the \u201Cdestination\u201D [side]\
+    \ and we somehow need to connect these two sides."
+  sec: 1822
+  time: '30:22'
+  who: Daniel
+- line: "So there'll be some data engineering work happening \u2013 some kind of pipeline\
+    \ work. That's half of the problem. The other half of the problem is the modeling\
+    \ work, like, \u201CWhich kinds of models are we running on this data? How are\
+    \ we rolling out new model versions? Do we need to recompute the database when\
+    \ we do that? Or not, or partially?\u201D So you have this ingestion problem,\
+    \ where there is a big compute component \u2013 basically running models on some\
+    \ data. And then there is the query handling path, where you have, let's say,\
+    \ your user who put in a query and you need to also turn that into a vector so\
+    \ that the database can match those two vectors against each other \u2013 the\
+    \ document part vector with the query vector. In both of those pathways, you basically\
+    \ need to construct vectors from some inputs."
+  sec: 1822
+  time: '30:22'
+  who: Daniel
+- line: "Of course, these are different requirements because for the ingestion, you\
+    \ can maybe batch these workloads. For the query handling, we maybe want to be\
+    \ fast. But you always need to be consistent because you are landing into the\
+    \ same vector space since you want to be matching those two sides together. So\
+    \ those are the two instances of what we call the \u201Cvector compute problem\u201D\
+    ."
+  sec: 1822
+  time: '30:22'
+  who: Daniel
+- line: "Yeah. So if I talk about a specific example \u2013 if I can think about a\
+    \ specific example\u2026 There is a model from Open AI called CLIP. What this\
+    \ model can do is turn text into vectors, and images into vectors, in such a way\
+    \ that you can use text to look for images. You can just write \u201Cblack cat\u201D\
+    \ and then you would get images of black cats, right?"
+  sec: 1963
+  time: '32:43'
   who: Alexey
-- line: "We're building an AI video interviewing solution. So the idea is\u2026 [cross-talk]"
-  sec: 1210
-  time: '20:10'
-  who: Reem
-- line: That's cool.
-  sec: 1215
-  time: '20:15'
+- line: That's right.
+  sec: 1991
+  time: '33:11'
+  who: Daniel
+- header: Embedding strategies and hybrid search
+- line: "Let's say we use some way of embedding \u2013 let's say we use BERT for embedding\
+    \ our book (for embedding all the words, creating this vector, and indexing).\
+    \ But then we heard about CLIP and we thought, \u201COkay, we also have images\
+    \ in the book. Now we want to switch our embedding strategy. We want to use a\
+    \ different model for embedding. Instead of rewriting the whole pipeline \u2013\
+    \ if we used a special framework for creating this pipeline, for indexing, re-indexing,\
+    \ and all that \u2013 for us, replacing one model with another and adding images\
+    \ would be much easier if used that framework, right?"
+  sec: 1993
+  time: '33:13'
   who: Alexey
-- line: "It is. It's very cool. Of course, I'm biased, but the idea (or the motivation)\
-    \ behind what we're doing is\u2026 and I think we'd all agree \u2013 CVs are not\
-    \ really the best way to present yourself, right? And so the motivation is to\
-    \ give you a chance \u2013 give everyone a chance \u2013 to present themselves\
-    \ through a richer medium than just their CV. Usually, in the screening process,\
-    \ you submit your CV wherever you submit it, the ATS system will do some keyword\
-    \ matching, and then decide if you match the requirements or not. [There are]\
-    \ many flaws there on many different levels. We want to change that and allow\
-    \ you to start with an interview and your CV."
-  sec: 1217
-  time: '20:17'
-  who: Reem
-- line: "I mean, we're not going to get rid of your CV \u2013 we still need to know\
-    \ what you've done (or the recruiters still need to know what you've done). But\
-    \ to allow you to interview. So it's kind of like you're getting directly into\
-    \ the first HR interview, where you usually would not get this chance. We assess\
-    \ you, basically, on behavioral traits. We're not looking to assess you on your\
-    \ technical capacity \u2013 that would happen in later stages, beyond screening.\
-    \ But the point is to give you a chance to present yourself and your qualifications\
-    \ as an individual. So behavioral aspects like soft skills."
-  sec: 1217
-  time: '20:17'
-  who: Reem
-- line: Is the interview with an actual human, or with an AI?
-  sec: 1296
-  time: '21:36'
+- line: "Yeah, that's exactly right. We are still at the basic level of this problem,\
+    \ because you used an example where we just replaced the old model with a new\
+    \ one. The thing is that, in practice, it is not so easy. At some point, basically,\
+    \ the data that you want to process in this way just starts to not just be one\
+    \ big string, or one image. You start to have these\u2026 Let's say your product\
+    \ manager comes in and says, \u201CHey, the search that we have built for our\
+    \ news website \u2013 when I type \u201Ccar,\u201D I'm getting results which are\
+    \ too old. We are a news website; we need to have fresh results.\u201D What do\
+    \ you do?"
+  sec: 2040
+  time: '34:00'
+  who: Daniel
+- line: "One of the concepts of how people deal with this kind of stuff is called\
+    \ \u201Chybrid search\u201D. You start to combine, \u201COkay, I'll have my vector\
+    \ similarity search, and I\u2019ll layer on top of it, some other constraints.\u201D\
+    \ And I say, \u201COkay, pre-filter all the news articles that are newer than\
+    \ one month, and then, within those, match with the vector proximity to the query.\u201D\
+    \ Now, the problem with that, is that \u2013 what if there is a super relevant\
+    \ article that's 32 days old? You will miss it. And then, of course, there are\
+    \ many such instances. The product managers are creative \u2013 they come up with\
+    \ all kinds of constraints."
+  sec: 2040
+  time: '34:00'
+  who: Daniel
+- line: "If you layer all of these in this classic \u201Cwaterfall of constraints\u201D\
+    \ type of model, it will overconstrain your results and it will ultimately not\
+    \ work for the end user, actually. What the end user is looking for is some combination\
+    \ \u2013 some compromise. \u201CI want kind of new stuff, but also relevant, (and\
+    \ probably a good idea from the recommender engine side of things) some of these\
+    \ results should be quite popular \u2013 or maybe popular for people like me.\u201D\
+    \ And then you get into this complicated and also real world\u2026 [cross-talk]"
+  sec: 2040
+  time: '34:00'
+  who: Daniel
+- line: Has to be popular, right?
+  sec: 2179
+  time: '36:19'
   who: Alexey
-- line: "\u0422o, it's with an AI. It's an avatar that interviews you. [chuckles]\
-    \ She actually has a name \u2013 her name is Aila, at the moment. We're going\
-    \ to have more interviewers in the future. But you get interviewed by an avatar.\
-    \ The entire process is automated. It's cool, because you get to do the interview,\
-    \ really, at any time that suits you, anywhere that you'd like \u2013 your phone\
-    \ or your laptop, etc. It's like a 15-20 minute interview, and you get the chance\
-    \ to really give more than just your CV. And then, in the background, your recruiter\
-    \ is able to look at your CV, as well as your richer representation, if you will,\
-    \ of what you can bring to the table as an individual."
-  sec: 1301
-  time: '21:41'
-  who: Reem
-- line: "I guess it\u2019s also recorded, so then the recruiter can look at the interview\
-    \ itself. There is probably a summary at the end of the interview that they can\
-    \ look at. [Reem agrees]"
-  sec: 1348
-  time: '22:28'
+- line: "Yeah, yeah. So this is the real world, right? Yes, you start with this, \u201C\
+    Okay, let's embed some text. Let's embed the query. Let's match the two.\u201D\
+    \ Maybe we\u2019ll use another language model to reorder the results because that\
+    \ can then be refining the match between the query and the document. That whole\
+    \ system will still just take the text part of the data into account and, as I\
+    \ said in my examples, you very quickly run out of the levers to actually get\
+    \ to a result that you can run in production so that it can power a significant\
+    \ part of your product at scale."
+  sec: 2181
+  time: '36:21'
+  who: Daniel
+- line: "What people do then is they go custom, like, \u201COkay, custom embedding\
+    \ models, custom ranking models, PyTorch.\u201D There\u2019s all the associated\
+    \ MLOps problems again. \u201CHow do we have enough data? How do we train this\
+    \ thing? Should we train embeddings for each retrieval task separately, or have\
+    \ some general embedding at the end, and then maybe have a ranking model separate\
+    \ for the use cases?\u201D And that's where we're looking at a six to nine months\
+    \ project with some ML/Data Science folks."
+  sec: 2181
+  time: '36:21'
+  who: Daniel
+- line: That is precisely the point where you should come talk to us, because we have
+    a way to embed complicated data. But we productized that process. Our goal is
+    to make it much easier to deal with those more complicated situations and make
+    it not take nine months. [chuckles]
+  sec: 2181
+  time: '36:21'
+  who: Daniel
+- line: "You said that it's possible that you have multiple embeddings for a single\
+    \ document. So there could be embedding for titles, embedding for content, embedding\
+    \ for images, embedding for some parameters, and then you may have five embeddings\
+    \ and as a lot of extra meta information, like popularity, tags, whether a user\
+    \ clicked or clicked similar items \u2013 all this kind of stuff. And then it's\
+    \ all there in the database or databases, and you need to link it together somehow."
+  sec: 2291
+  time: '38:11'
   who: Alexey
-- line: "There's a whole assessment. You're getting interviewed by an AI, you get\
-    \ assessed by an AI \u2013 but the point of the AI assessment that happens in\
-    \ the background is to rank the candidates based on their performance in terms\
-    \ of the level of soft skills. In the background, the recruiter has an open position\
-    \ (whatever that position may be, let's say it's for a software engineer) and\
-    \ they would define the required level of soft skills that they believe is necessary\
-    \ for the role. So you perform the interview, and then your performance on those\
-    \ soft skills is compared and benchmarked against the requirements and you get\
-    \ ranked."
-  sec: 1364
-  time: '22:44'
-  who: Reem
-- line: "The recruiter, at the end of the day, gets a ranked list of candidates. We\
-    \ don't tell them, \u201CYou should hire this person,\u201D the decision is up\
-    \ to them. But they get an easier, if you want, filtration, where they can start\
-    \ with the best-fit candidates in terms of behavioral qualification. We check\
-    \ the CVs to see if they make it through the requirements and they get into the\
-    \ system for the next stage of the interview. This is essentially how it works."
-  sec: 1364
-  time: '22:44'
-  who: Reem
-- header: How candidates react to getting interviewed by an AI avatar
-- line: And what do candidates think about being interviewed by an avatar?
-  sec: 1428
-  time: '23:48'
+- line: "Exactly. Exactly. Ideally, at the end of the day, for your articles (or pieces\
+    \ of the articles and your users) you have one vector each, and this vector encodes\
+    \ everything you know \u2013 all the information that you have about your articles\
+    \ (all of the stuff you listed) somehow needs to eventually make it into the article\
+    \ chunk vector. And everything you know about your user needs to make it into\
+    \ the user preference vector. Then the question is \u201CHow?\u201D Then you have\
+    \ the ETL problem of \u201Cmake it in there\u201D in terms of getting the data\
+    \ from wherever it is out and into your processing pipeline. And then you have\
+    \ the modeling problem of \u201COkay, how do we deal with those clicks, those\
+    \ categories, those separate vectors \u2013 how can we bring it all together?\u201D"
+  sec: 2330
+  time: '38:50'
+  who: Daniel
+- header: Embeddings in relation to queries and vectors
+- line: "Yeah. I know that in Lucene\u2026 We talked about this problem of recency,\
+    \ right? So what if we are a news website? This means that we want to show something\
+    \ that is recent. But what if there is a super relevant article related to my\
+    \ search that is more than a one month old? And I know that in Lucene, there are\
+    \ these types of query filters \u201Cshould\u201D and \u201Cmust\u201D. You can\
+    \ say, \u201CThe article must be less than one month old.\u201D And then it would\
+    \ just filter all the old articles completely. Or you can say \u201Cit should\u201D\
+    \ and then if it's super relevant, Lucene would still bring it up. But when it\
+    \ comes to vector databases, I don't know if they can have this sort of functionality.\
+    \ Right? Does it mean we need to always have multiple databases when we want to\
+    \ do things like that?"
+  sec: 2393
+  time: '39:53'
   who: Alexey
-- line: "Mixed feelings. [chuckles] I've seen mixed feelings, actually. And one interesting\
-    \ pattern I noticed is that it seems the younger generations really enjoy it,\
-    \ which I find weird. I get it if you're neutral, but they really enjoy it. I\
-    \ even had candidates who would tell me they were more comfortable interviewing\
-    \ with the avatar than an actual person [chuckles] because the Avatar was not\
-    \ judging them with facial expressions. Sounds like, \u201CYou've probably had\
-    \ bad interviews in the past. I don't know. [chuckles] What kind of recruiter\
-    \ was judging you straight on?\u201D"
-  sec: 1433
-  time: '23:53'
-  who: Reem
-- line: "But yeah, I've had mixed feelings. I\u2019ve seen candidates who are excited\
-    \ about this innovation and this new way of doing things, candidates who are obviously\
-    \ uncomfortable, like \u201CI'm not comfortable talking to the screen,\u201D and\
-    \ then candidates who refuse the process altogether. [There are] candidates who\
-    \ are not comfortable getting recorded and their data being stored or being used\
-    \ for training or whatever reasons that they may have."
-  sec: 1433
-  time: '23:53'
-  who: Reem
-- line: I was wondering, maybe there are cases when people think it's disrespectful
-    that instead of an actual human being, [there is an avatar].
-  sec: 1497
-  time: '24:57'
+- line: "That's an interesting question. Our view on this problem is that\u2026 We\
+    \ believe that you can basically replicate a lot of that \u201Cshould\u201D type\
+    \ of functionality in pure vector form. You can basically say, \u201CHey, I want\
+    \ relevant results towards this query, and biases towards the type of stuff the\
+    \ user clicked on before and also biases it towards popular stuff and recent stuff,\
+    \ with these kinds of weights (for example).\u201D Or you can tune the weights\
+    \ with an added model, for example. And you can express these types of queries\
+    \ purely in the embedding, such that\u2026 [cross-talk]"
+  sec: 2448
+  time: '40:48'
+  who: Daniel
+- line: "But how do you do it with a date \u2013 with recency? Let's say we have a\
+    \ model that embeds a document and somehow contains the recency information. But\
+    \ in one month, it will no longer be recent. Does that mean we will need to always\
+    \ recalculate the vectors for the old."
+  sec: 2494
+  time: '41:34'
   who: Alexey
-- line: Ah, interesting.
-  sec: 1506
-  time: '25:06'
-  who: Reem
-- line: "Like, \u201CCan't you just find time for me? Why is there a robot?\u201D"
-  sec: 1507
-  time: '25:07'
+- line: "If you do it naively, then yes, you will. So that's a bad idea. But there\
+    \ is a way to encode a timestamp into couple of vector dimensions, such that,\
+    \ when you do cosine similarity between two such encoded timestamps \u2013 it\
+    \ behaves like a normal time delta. Because that similarity is basically angled\
+    \ between vectors. There is math, which is \u2013 by the way, spoiler alert for\
+    \ the people listening \u2013 the math is somewhat similar to how the transformer\
+    \ model that's positional encoding."
+  sec: 2516
+  time: '41:56'
+  who: Daniel
+- line: "So when the transformer model eats a big string, the innovation that is happening\
+    \ there in parallel \u2013 it eats all the words in parallel instead of a sequence,\
+    \ like LSTMs \u2013 but if it only ate embeddings of all the words on the input\
+    \ in parallel, it would lose the sequence information. It would no longer understand\
+    \ which order the words came in. The transformer architecture solves this with\
+    \ a trick called positional encoding, where you basically add into the same set\
+    \ of dimensions information of the ordering. This is like a little bit crazy,\
+    \ because you literally add it into the same set of dimensions \u2013 the translation\
+    \ is that you basically move (perturb) each word in the semantic space with some\
+    \ kind of delta, and then the model (the next layers of the model) disentangle\
+    \ this information somehow. But we do it using a separate set of dimensions. Literally,\
+    \ dimension-wise concatenate all the signals into one big vector for content and\
+    \ users and other entities."
+  sec: 2516
+  time: '41:56'
+  who: Daniel
+- line: "But yeah, these are the types of puzzles that you have to solve when you\
+    \ decide, \u201COkay, I want to express these complicated objectives and these\
+    \ complicated data objects purely in the vector form.\u201D Each new property\
+    \ type will generate this kind of puzzle. Or then you go completely custom, like,\
+    \ \u201CLet's just make a custom embedding model. Let's feature-engineer all these\
+    \ inputs. Let's train a model that encodes all this data into embedding. And let's\
+    \ figure out how to constrain and train the model.\u201D And you kind of go that\
+    \ way."
+  sec: 2516
+  time: '41:56'
+  who: Daniel
+- header: Knowing when to implement weights and biases
+- line: Yeah, interesting. Basically, the summary is that you can encode the timestamp
+    also in vector form. Then the similarity between now and the timestamp in the
+    past gives a sense of recency. Right? [Daniel agrees] Then you can also prioritize
+    recent articles if it makes sense. Or prioritize relevancy if it makes sense.
+    Right? [Daniel agrees] The model would be smart enough to figure out what is more
+    [important]. Because I guess there will be one vector, and then one part of this
+    vector is recency, and one part is relevancy.
+  sec: 2676
+  time: '44:36'
   who: Alexey
-- line: "That's a good point. But I mean\u2026 I would get that as a candidate, right?\
-    \ Maybe for me, I would motivate it from the perspective of, \u201CThis is not\
-    \ even an interview you would get. It's not like we're replacing the recruiter\u2019\
-    s interview or the interviews that come into the process, we're giving you an\
-    \ extra opportunity where you can showcase yourself better.\u201D You can think\
-    \ about it, in a way, it's kind of like we present ourselves on LinkedIn as well."
-  sec: 1511
-  time: '25:11'
-  who: Reem
-- line: "You have your LinkedIn profile, which is an additional representation to\
-    \ your CV. Now, this is an additional step, where you can present yourself as\
-    \ naturally as possible and have that taken into consideration. I mean, what was\
-    \ the other option? You're going to upload your CV, and some ATS is going to screen\
-    \ you for keywords, and probably not hear back from the recruiter for a while.\
-    \ Again, that's my perspective \u2013 I'm on the inside. But that's interesting.\
-    \ I will see how we can translate that into the solution [chuckles] so no one\
-    \ feels disrespected. That's a good point, actually. It\u2019s never crossed my\
-    \ mind."
-  sec: 1511
-  time: '25:11'
-  who: Reem
-- line: "I imagine that this is a replacement\u2026 When I apply for a job, there\
-    \ could be a questionnaire that I need to fill in. [Reem agrees] This is kind\
-    \ of a replacement [of that], but more interactive. Instead of thinking and typing\
-    \ \u2013 that might take even more time, actually, than just having a 15-minute\
-    \ chat. I guess the time is when it's convenient for me as a candidate. It's not\
-    \ like, \u201COkay, you need to show up at 3pm.\u201D Whenever I feel like it,\
-    \ I can do it."
-  sec: 1582
-  time: '26:22'
+- line: "The key observation is to normalize all these components. When you index\
+    \ any kind of data, you want to do this as bias-free as possible. This means that\
+    \ you will not be recomputing the index matches when you find your favorite biases.\
+    \ You want to postpone the decision of, \u201CWhich signal matters how much in\
+    \ which context\u201D as late as possible \u2013 at the query time, ideally. In\
+    \ our system, basically, when we embed these complicated entities, we normalize\
+    \ those components and then, when you use RSDK to formulate those queries, that's\
+    \ where you can start applying weights. That's where you can also start to train\
+    \ the weights. Because in different contexts, the weights will be different. Your\
+    \ landing page is probably different from your \u201Cfor you\u201D page, and a\
+    \ category page. Obviously, this depends very much on the use case as well."
+  sec: 2711
+  time: '45:11'
+  who: Daniel
+- header: LLM implementation strategies
+- line: "Speaking of this, I'm thinking about ChatGPT. I know GPTs don't have this\
+    \ information about the time. So if you say\u2026 You somehow need to be explicit\
+    \ in your prompt and you say, \u201CToday is this day.\u201D Then you add a bunch\
+    \ of articles and say, \u201CWhen you answer my question, keep in mind that today's\
+    \ this day, and the timestamps you have in the prompt are these [days].\u201D"
+  sec: 2778
+  time: '46:18'
   who: Alexey
-- line: "Yeah, exactly. You can take it whenever you want. Exactly. We tried to make\
-    \ it as convenient as possible. This is actually what I do. When I recruit from\
-    \ acquisitions, this is your application process. Upload your CV and take the\
-    \ interview and this is where the screening would start. We can talk about this\
-    \ a bit more, but I've had many cases where I really felt like, \u201CIf I had\
-    \ looked at your CV, I would not have picked you out of the screening. But it\
-    \ was because of the interview and because of the way I saw that you presented\
-    \ yourself that I was interested in you, and I thought, \u2018This candidate looks\
-    \ like they have promise and I would like to interview them further.\u2019\u201D\
-    \ So I've been there personally, and I see the value. I felt that I sensed the\
-    \ value that can be brought to the table out of this experience."
-  sec: 1616
-  time: '26:56'
-  who: Reem
-- line: "A CV is a soulless thing. It\u2019s just a piece of paper \u2013 not even\
-    \ a piece of paper \u2013 it\u2019s one or two PDF pages. You don't always remember\
-    \ that there is a human [behind it] but when it's like that \u2013 when it's recorded,\
-    \ when you can see what kind of person it is, maybe it gives\u2026"
-  sec: 1665
-  time: '27:45'
+- line: "And then it can figure out the answer. For example, we haven't talked about\
+    \ that, but in DataTalks.Club, we have a bot \u2013 one of the community members,\
+    \ Alex, created this chatbot for our courses, to help students find the answers.\
+    \ We have long FAQ documents, which are very hard to use to find things. So we\
+    \ have a bot that answers questions. And the prompt, what Alex is doing is \u2013\
+    \ it says, \u201CToday's this day and keep that in mind when answering questions,\
+    \ right?\u201D When somebody asks, \u201CCan I still get enrolled in the course?\u201D\
+    \ or something like that, it knows. I think it's similar to what you said. Right?"
+  sec: 2778
+  time: '46:18'
   who: Alexey
-- line: "Yeah, exactly. [cross-talk] They provide richer responses. They give you\
-    \ examples from their work experience. You get to know them. You get to know them\
-    \ a bit better. The CV\u2026 I mean, also, a lot of us are not actually very good\
-    \ at making our CV. [chuckles] It's probably better these days because you get\
-    \ all these tools that help you. Still, most of us are not good at designing our\
-    \ CVs, so it's really not a good representation of you even in that single page."
-  sec: 1688
-  time: '28:08'
-  who: Reem
-- header: End-to-end overview of a machine learning project
-- line: "Well, I imagine that in this company, you have a lot of ML products there.\
-    \ Since we\u2019re talking about building ML products today, there is\u2026 We\
-    \ have quite a lot of questions. But there is a question from Peter, which seems\
-    \ like a summary of all the questions we have. The question is, \u201CCan we have\
-    \ an overview of the journey of a machine learning project from the beginning\
-    \ to the end? Also, how does one track value from the product?\u201D I guess this\
-    \ is quite an extensive question that covers pretty much everything we want to\
-    \ cover."
-  sec: 1719
-  time: '28:39'
+- line: "Right. This kind of thought of, basically, stringifying timestamps and then\
+    \ eating them with a language model is within the broader bracket of thoughts\
+    \ of, \u201CHey, let's string the five things and encode them with the LLM.\u201D\
+    \ This has limitations, because the underlying model doesn't have exactly the\
+    \ same understanding as you or me of how timestamps increment. There can be surprising\
+    \ results of holes, for example, or misordering."
+  sec: 2857
+  time: '47:37'
+  who: Daniel
+- line: "I think the main problem of \u201CYeah, let's just take this complicated\
+    \ entity (user) with all the history, make a big string and run it through a language\
+    \ model,\u201D is that you lose the control. You don't get to say how important\
+    \ things are. You also lose the efficiency of using specialized models to encode\
+    \ subsets of the data. Because there are separate research fields in how you turn\
+    \ graphs vectors into vectors, or how to turn time series into vectors, or other\
+    \ types of data."
+  sec: 2857
+  time: '47:37'
+  who: Daniel
+- line: "They are dedicated models for doing that for different data types, and if\
+    \ you try to do the whole thing with an LLM, it\u2019s computationally inefficient,\
+    \ hard to control,  and the resulting retrieval quality won\u2019t be as good.\
+    \ So I think those are the three main issues."
+  sec: 2857
+  time: '47:37'
+  who: Daniel
+- header: Transforming different types of input into vectors
+- line: I see an interesting question from Demetrios. Demetrios is asking if you have
+    any publications that go into detail about the approaches you described on how
+    to combine various signals into a single vector.
+  sec: 2959
+  time: '49:19'
   who: Alexey
-- line: "Especially the last part \u2013 that's a good one, actually."
-  sec: 1754
-  time: '29:14'
-  who: Reem
-- line: "So should we start from\u2026 If we take this question, and kind of break\
-    \ it down into parts."
-  sec: 1759
-  time: '29:19'
+- line: "We have a few pieces that you can understand \u2013 between tutorial and\
+    \ research exploration on vector hub. So if you go to hub.superlink.com (and I\
+    \ think you'll also include the link in the notes) we already have an article\
+    \ out there that illustrates how to combine graph and text embeddings together,\
+    \ and also image and text embeddings. Hopefully, that can serve as inspiration."
+  sec: 2976
+  time: '49:36'
+  who: Daniel
+- line: "I found one on retrieval from image and text modalities. Is this the one\
+    \ you\u2019re referring to?"
+  sec: 3011
+  time: '50:11'
   who: Alexey
-- line: I would prefer actually, if we can take the questions for people who are interested
-    in them, that would be better, even.
-  sec: 1766
-  time: '29:26'
-  who: Reem
-- line: Yeah, you could talk about an overview from the beginning to the end. Maybe
-    you have a sequence of steps in mind. How do we actually usually approach that?
-  sec: 1775
-  time: '29:35'
+- line: "Yeah. There is that one and, also, another article that's worth checking\
+    \ out, called Representation Learning on Graphs \u2013 or something like that."
+  sec: 3016
+  time: '50:16'
+  who: Daniel
+- line: Yeah, I can see it. Representation Learning on Graph Structured Data. You
+    see this in the navigation panel. It's under the blog section.
+  sec: 3025
+  time: '50:25'
   who: Alexey
-- line: "Yeah. I don't know if there's a global skeleton for this, but I'll just talk\
-    \ based on my experience. I think there are essential steps that we're all familiar\
-    \ with. Obviously, step number zero is to start with really understanding what\
-    \ it is that you're trying to solve. I feel like this is actually a step that\
-    \ many people kind of go past pretty quickly. In many cases \u2013 I've been there\
-    \ \u2013 we make the mistake of assuming things that are not necessarily the case,\
-    \ and we kind of go past a lot of information that's missing from the table. Defining\
-    \ the problem doesn't really happen in one stage. I've tried to do this, where\
-    \ I would sit and be like, \u201COkay, I'm gonna define the problem and work through\
-    \ the data science lifecycle: collect the data and build the models and put them\
-    \ into production.\u201D It never actually ends up working that way, especially\
-    \ when you're in a startup and there's a lot of changing dynamics \u2013 what\
-    \ you define today may not be what you need in another month. Being aware of that\
-    \ is very important."
-  sec: 1786
-  time: '29:46'
-  who: Reem
-- line: "You would start with a cycle, and I'll walk through my cycle, and then I'll\
-    \ add important points at the end of it. So, defining the problem. This could\
-    \ be with the stakeholders \u2013 the business owners or whatever business departments\
-    \ you're working with to make this product happen, whoever is involved in bringing\
-    \ this product to life. Depending on your problem, and in most cases, I assume\
-    \ you're going to need the domain experts. This is not something you should overlook.\
-    \ In my case, for example, and in the case of the HR tech company, I came into\
-    \ this problem of, \u201CLet's do behavioral interviews and let's get AI to assess\
-    \ them.\u201D And the first thing that popped into my mind was, \u201CHow on Earth\
-    \ are we going to assess soft skills?\u201D Because as people, we can assess them\
-    \ quite differently. I had no idea how to tackle this problem from even just a\
-    \ general sense, not from a machine learning sense."
-  sec: 1786
-  time: '29:46'
-  who: Reem
-- line: "We came to realize that, actually, there are experts who specialize in designing\
-    \ these behavioral interviews and in scoring behavioral interviews in real life.\
-    \ This is actually a process that happens. Humans usually score \u2013 they have\
-    \ a system to have a framework, and it's very, very well-defined, and it's very\
-    \ rigorous. There\u2019s a scientific framework behind it. It's very important\
-    \ that the domain expert is involved at that stage, in order to define the problem\
-    \ property. In parallel, I would say, \u2013 not even as a second step, but in\
-    \ parallel to this, you need to keep in mind access to data. Obviously, depending\
-    \ on your situation, this may vary a lot. Do you already have access to the data?\
-    \ Do you not have access to the data? How long would it take you to get access\
-    \ to the data? This was, for me, one of the biggest challenges that I have with\
-    \ the HR tech startup, because you have this balance \u2013 you need to get a\
-    \ product out there, the product is still not there, the data is still not in,\
-    \ right? [chuckles]"
-  sec: 1786
-  time: '29:46'
-  who: Reem
-- line: "So where do you start? There's a lot that you can do here. You can try to\
-    \ find proxy data that might kind of serve as an additional dataset for your problem,\
-    \ if that's something that you can find \u2013 something available online, that's\
-    \ as close as possible to what you're trying to solve. You could try to somehow\
-    \ get data\u2026 in any way possible. For example, for me, it was trying to get\
-    \ people I know to conduct interviews and start collecting that initial base to\
-    \ run experiments and get some POCs to see how we can get this off the ground.\
-    \ Defining the problem and access to data would be the initial stage of starting\
-    \ the whole process."
-  sec: 1786
-  time: '29:46'
-  who: Reem
-- line: "Once you have a good idea of what the problem is, and you've understood from\
-    \ the domain expert what it would take to actually bring that to life \u2013 for\
-    \ example, in my case with the product that I have right now, it's understanding\
-    \ that there are psychologists who conduct these interviews, they have criteria\
-    \ (when I say criteria, I mean an Excel sheet of criteria), \u201CThis is what\
-    \ we look for in a candidate when we're evaluating their communication skills\
-    \ (let's say),\u201D So once I was able to get this criteria it\u2019s like, \u201C\
-    Okay, now this is something I can work with.\u201D If you were to tell me, \u201C\
-    Score this person's communication skill,\u201D I wouldn't even know where to start.\
-    \ But when you tell me, \u201CWe need to look specifically at how the person presents\
-    \ certain things in the conversation,\u201D or \u201CHow does the person speak?\u201D\
-    \ or \u201CHow fluent are they in the conversation?\u201D This is where you can\
-    \ start to translate the business problem into a data science problem and have\
-    \ something solid that you can actually build in the data science world."
-  sec: 1786
-  time: '29:46'
-  who: Reem
-- line: "Then you kind of start diving into the modeling side \u2013 \u201CHow do\
-    \ I tackle the problem?\u201D The most straightforward way is to see what others\
-    \ have done in a similar place. What have they used before? What has worked, what\
-    \ has not worked? From there, I\u2019m always someone who would opt to start with\
-    \ a simpler solution as a starting point POC \u2013 see how it goes, and then\
-    \ add complexity, if needed. I have seen a lot of directions, especially recently,\
-    \ where people would jump directly on, \u201COh, let's get a GPT to take all the\
-    \ data and solve the problem for us.\u201D And it really, really doesn't work\
-    \ that way. There's a lot of benefit to the latest type of LLMs that we've seen.\
-    \ There are a lot of amazing things that you can do. But, for example, there is\
-    \ no way that I could throw whatever criteria I have at GPT and be like, \u201C\
-    Score this interview for me.\u201D That would be a disaster."
-  sec: 1786
-  time: '29:46'
-  who: Reem
-- line: "That would be a disaster. So you really want to work with what you have.\
-    \ Make sure that you really understand the problem, see what people have done\
-    \ and how they solved it, and start with the simplest possible solution that you\
-    \ can find to solve it, and iterate from there. Once you've had an initial good\
-    \ starting point with a POC in the modeling stage, where you actually have a brain\
-    \ that functions for the functionality that you want, then you want to also start\
-    \ thinking about the engineering side. I actually did those things at the same\
-    \ time. I was thinking of modeling and\u2026 when I say \u201Cengineering,\u201D\
-    \ I mean the serving of the models and what that would require."
-  sec: 1786
-  time: '29:46'
-  who: Reem
-- line: "With that, I would stress even more on simplicity, because I feel like one\
-    \ thing\u2026 For me, this was the area that I was newer to coming from a PhD,\
-    \ \u201CWhat would be the best way to do it? What would be the best way to serve?\
-    \ What would be the best way to put things into production?\u201D And I was bombarded\
-    \ [with information] when you read online, there are so many recommendations,\
-    \ best practices, so many tools, so many tools, so many tools. I really felt like,\
-    \ at least at the stage that I was at, that I don't really need this whole world\
-    \ of MLOps with all the delicate pieces and all the complexities that would come\
-    \ into it, to do what I need to do today. One, very critical thing for me was\
-    \ to block out like this noise of, \u201CYou need to do it this certain way,\u201D\
-    \ and really try to have the best judgment that you can, taken into consideration\
-    \ your resources, the size of your company, the size of users that you're serving,\
-    \ and the reliability you need to offer in the product that you're serving."
-  sec: 1786
-  time: '29:46'
-  who: Reem
-- line: "There are certain places where mistakes are tolerable, and certain places\
-    \ where mistakes are not. This is kind of how I went through the flow. It's a\
-    \ typical flow, but the most important point that I said I'll mention at the end,\
-    \ is the iteration. I know it's clich\xE9 \u2013 we all say that, right? But if\
-    \ you don't stop maybe every sprint or however long you work \u2013 every month,\
-    \ or whatever \u2013 at a certain interval, and look back at the decisions that\
-    \ you've made, and see what has changed, and what needs to be improved, or what\
-    \ needs to be put on hold, or what needs to be added now that wasn't necessary\
-    \ before \u2013 you will end up finding yourself in a disastrous position, really.\
-    \ Because especially startups \u2013 smaller\u2026 It doesn't even have to be\
-    \ a startup, but a smaller organization, or even an organization that's large,\
-    \ but that is just starting with their data initiatives \u2013 there's going to\
-    \ be a lot of change."
-  sec: 1786
-  time: '29:46'
-  who: Reem
-- line: "If you're not conscious, if you get sucked into the work ([chuckles] this\
-    \ is something that happened to me) \u2013 if you get sucked into the details\
-    \ of your work and you forget to zoom out and reflect and see what needs to change,\
-    \ what needs to be moved up etc., you will face very challenging situation, I\
-    \ believe. I mean, this is as much as I could put into detail in a roadmap of\
-    \ how I would tackle things."
-  sec: 1786
-  time: '29:46'
-  who: Reem
-- line: "What you described is CRISP-DM \u2013 a simplified version of it. Do you\
-    \ know this?"
-  sec: 2348
-  time: '39:08'
+- line: "Yeah. And, again, this idea to take structured and unstructured data and\
+    \ put them into a vector is not new, right? In Big Tech, people have been building\
+    \ custom embedding models that combine structured and unstructured information\
+    \ into a shared vector representation for a very long time. The question is now\
+    \ more about, \u201CHow do we productionize it? How do we let people quickly experiment,\
+    \ iterate?\u201D We are very close to launching our actual product. We have been\
+    \ private\u2026 I don't want to be too salesy, but basically, we have a framework\
+    \ that's coming out that helps you do this."
+  sec: 3041
+  time: '50:41'
+  who: Daniel
+- line: "I'm looking at the article in the blog post you mentioned \u2013 Representation\
+    \ Learning on Graph Structure Data. From what I see, you show how to use PyTorch?"
+  sec: 3091
+  time: '51:31'
   who: Alexey
-- line: No. [chuckles]
-  sec: 2354
-  time: '39:14'
-  who: Reem
-- line: Let me try to summarize what you said. The zero step is understanding what
-    you want to solve. We don't need to assume things; we need to understand. Then
-    step number one is defining the problem, which, to me, sounds very related to
-    step number zero. I guess from one, it follows the other.
-  sec: 2357
-  time: '39:17'
+- line: "Yeah. In all of those examples, we use standard tools [that are] out there\
+    \ \u2013 SciKit Learn, NumPy, PyTorch. Right now, our goal in VectorHub is to\
+    \ help people learn the techniques and not push our product. There'll be a separate\
+    \ place for describing what our product does and how it relates to all of this.\
+    \ But as you will notice on VectorHub \u2013 it's kind of external, contributor-driven.\
+    \ And it's kind of a compromise between entertaining the research thoughts of\
+    \ practitioners out there and steering them towards, \u201COkay, let's look at\
+    \ vectors and information retrieval.\u201D I think that's just a good place to\
+    \ start learning about the concepts."
+  sec: 3101
+  time: '51:41'
+  who: Daniel
+- header: Choosing vector database vendors
+- line: "And then I see that you also have a Vector DB Comparison, which is a super\
+    \ relevant thing. Because if you Google, or if you just open any article about\
+    \ LLMs, (or take our interviews as an example) \u2013 there are so many different\
+    \ vector databases. From what I understood, this article that you have here (or\
+    \ not article, this comparison database) actually helps us to pick the right database\
+    \ for our use case, right?"
+  sec: 3155
+  time: '52:35'
   who: Alexey
-- line: "Then for step three, we understand what kind of data we have. We define the\
-    \ problem and then we see what kind of data is available. And if not, what kind\
-    \ of proxy data we can get \u2013 how can we actually do the modeling? Then the\
-    \ next part is modeling. Here, we start with the simplest solution."
-  sec: 2357
-  time: '39:17'
+- line: "That's right. We crowdsourced this\u2026 It's powered by a git repository\
+    \ \u2013 the same as VectorHub. And we crowdsource this. Also, we got a bunch\
+    \ of contributions from the vendors. It's basically a feature comparison of vector\
+    \ databases for different types of search constraints and operational questions,\
+    \ \u201CCan I run this in the process with my app? And separately? Is there a\
+    \ managed offering? What is the open source license?\u201D We also have stats\
+    \ now of GitHub stars and NPM pools and Pbin styles and all of that stuff. People\
+    \ sort of look at the table and they think, \u201COkay, this is way too many offerings\
+    \ in the market.\u201D"
+  sec: 3190
+  time: '53:10'
+  who: Daniel
+- line: But actually, I think that we haven't really seen the full potential that
+    this technology enables. And I think as we go and apply the technology, there'll
+    be a bunch of different specializations and different buckets, where different
+    solutions perform better. Do you want a few big industries versus many small ones?
+    This, alone, is one of those decisions that inspire completely different designs
+    of the underlying system. So I believe there'll be a bunch of these things and,
+    obviously, the incumbent databases, they all basically launch the vector index
+    as well, and there are different trade-offs for that, of course. But yeah, I think
+    that table (vdbs.superlinked.com) is a good starting point for that exploration,
+    I would say.
+  sec: 3190
+  time: '53:10'
+  who: Daniel
+- header: Just throwing everything at Lucene
+- line: "I see that we have another interesting question from Vishaka. The question\
+    \ is, \u201CIs there any reason why you wouldn't use a database that goes beyond\
+    \ just vector search?\u201D And then I immediately started thinking about databases\
+    \ like Elasticsearch or Lucene, where we can actually combine\u2026 We have these\
+    \ \u201Cmust\u201D and \u201Cshould\u201D type of queries, we have the inverted\
+    \ index (like the word index), then we have a bunch of other things. Also, in\
+    \ Elasticsearch \u2013 I don't remember if you still need to install a plugin,\
+    \ I think now it comes with Lucene. You organically have vector search in all\
+    \ Lucene-based databases. Then you can just use vector search in your database.\
+    \ So why can't we just put everything in Lucene and let it do its magic?"
+  sec: 3296
+  time: '54:56'
   who: Alexey
-- line: "And I say this because I've also worked with a lot of people. And the last\
-    \ part, which is the iteration. It is always there in those images that we see\
-    \ online, but it kind of slips by. Right. I would add, for the point about, \u201C\
-    What data is available?\u201D Also, \u201CWhat data do you need?\u201D Because\
-    \ sometimes you have data available and you might think that this is what works\
-    \ for your problem, but you have things that are missing. Over and over again,\
-    \ actually, this is an ongoing process for me, where you collect data, and then\
-    \ you look at it, and when you really evaluate it, you find that it's missing\
-    \ something that's critical for you. You need to go back, adjust the data generation\
-    \ processes, recollect data, and see whether that really gives you the data that\
-    \ you're looking for or not. For example, to give you something practical \u2013\
-    \ when we first started conducting interviews, we started with a set of questions."
-  sec: 2402
-  time: '40:02'
-  who: Reem
-- line: "We realized the candidates were not really giving very detailed responses.\
-    \ We need details from them, right? So we were like, \u201COkay, maybe the questions\
-    \ are too broad.\u201D So we improved the questions, and we made them more detailed\
-    \ and more specific. Their responses got a lot better. The candidates were responding\
-    \ for longer. Previously, they had really short responses that were not enough\
-    \ to extract information from. Now, they've gotten to a point where they're giving\
-    \ longer responses, they're giving examples, etc. We noticed that in some cases,\
-    \ candidates were kind of assuming that the person is watching, and they were\
-    \ referring to the CV, etc., so we added guidelines that clarified, \u201CYou're\
-    \ being assessed by an AI. Make sure that each response is complete and coherent.\
-    \ Don't refer to other responses or something offline.\u201D This helped. So on,\
-    \ so forth. You collect, you see, you evaluate, you see something's missing, you\
-    \ adjust. This is also something that I assume would happen in any case, especially\
-    \ when you're building something new."
-  sec: 2402
-  time: '40:02'
-  who: Reem
-- line: "And many of these things are more related to the product work and user experience\
-    \ work rather than only the model, right? \u201CThis is how you present the thing\
-    \ to the user. This is how it interacts with this thing.\u201D You probably cannot\
-    \ easily separate one from another when we talk about\u2026 [cross-talk]"
-  sec: 2522
-  time: '42:02'
-  who: Alexey
-- line: "Not really, exactly. Because how did we realize that the interviews were\
-    \ not sufficient? It was because of the modeling results that we came back and\
-    \ we were like, \u201CWhy are things not going well? What's happening?\u201D We\
-    \ went back to the interviews and we were like, \u201COh, okay. That makes sense,\
-    \ because the interviews are really quite bad.\u201D But it's not the candidates\u2019\
-    \ fault. It's never the candidates\u2019 fault, right? [chuckles] So you have\
-    \ to improve the user experience. And it's an ongoing thing. Until today, I found\
-    \ that it's always about going back and changing something in the user experience\
-    \ that would improve how they interact with these models, so that you end up getting\
-    \ the results that you need. So they're quite introspective."
-  sec: 2543
-  time: '42:23'
-  who: Reem
-- header: The pitfalls of using LLMs in your process
-- line: "I'm thinking about your use case. You said that you want to understand the\
-    \ soft skills, and for that, people have developed frameworks \u2013 there are\
-    \ criteria that let you assess candidates according to different dimensions, so\
-    \ to speak. There is fluency, and you mentioned there is something else. I guess\
-    \ what you need to do is \u2013 you would have a model that assesses one or multiple\
-    \ of these criteria/dimensions, right?"
-  sec: 2586
-  time: '43:06'
-  who: Alexey
-- line: "Let's say if we talk about fluency, how can we build a model that says whether\
-    \ a candidate is fluent or not fluent? This is your problem, right? Then you start\
-    \ from this, like, \u201COkay, what do I want to solve? I want to understand the\
-    \ fluency of a candidate. How can I do it with AI (with machine learning)? What\
-    \ data?\u201D This is what the process looks like. Right? Then for each of the\
-    \ criteria, you will have a model. Something like that?"
-  sec: 2586
-  time: '43:06'
-  who: Alexey
-- line: "Or more. Yeah. [chuckles] Yeah, exactly. Because the criteria are defined\
-    \ for humans. When you read it as a person, it makes sense that it's quite easy\
-    \ to assess. But when it comes to doing it through machine learning, or data science,\
-    \ or maybe even basic text analytics, you probably end up having to use several\
-    \ techniques for assessing one single criteria, depending on what the criteria\
-    \ is \u2013 some of them are easier than others."
-  sec: 2651
-  time: '44:11'
-  who: Reem
-- line: "You've mentioned LLMs and also said something along the lines that, \u201C\
-    Nowadays, some people think that all you need to do is just throw your problems\
-    \ at an LLM, and then the LLM will just magically solve it, which is not the case\
-    \ \u2013 it will lead to a disaster when you do that.\u201D In your opinion, in\
-    \ your experience, all these LLMs that we have now \u2013 do it change the process\
-    \ we follow when working with ML products? Or is it just one of the tools and\
-    \ the process still stays the same as four- five years ago?"
-  sec: 2690
-  time: '44:50'
-  who: Alexey
-- line: "I would say the process should not change. Has it? Probably. [chuckles] I\
-    \ think people are taking shortcuts. Well, whoever is following the mindset that\
-    \ I shared, which is, \u201COkay, let's get GPT to solve it, (or to score it,\
-    \ or to assess it, or whatever).\u201D Because that that would get you past all\
-    \ the initial stages of understanding the problem, of choosing the right technique\
-    \ to solve the problem, maybe even finding the right data for it, especially if\
-    \ you're not eloquent enough to be able to properly assess these LLMs and how\
-    \ they're performing at the end of the day. I say GPT because LLMs have been around\
-    \ for longer, but I'm talking about more of the GPTs of the generation models\
-    \ and the hype that happened there. We still have the LLMs like Bert, for example\
-    \ \u2013 text classification, all that stuff \u2013 so these are still very task\
-    \ specific. I would say these are still tools that we can use."
-  sec: 2733
-  time: '45:33'
-  who: Reem
-- line: "What they have changed is the way that we can do things. One application\
-    \ for LLMs that I really love, and I feel like there's a lot of value there, is\
-    \ using it as an interface to your product. You can use it as an orchestration\
-    \ layer. The way that the user will be able to interact with your application\
-    \ can be enhanced greatly because of this advancement that we've seen. But I wouldn't\
-    \ use it as a replacement. I have been in many scenarios where I have people tell\
-    \ me, \u201CCan we get Open.AI\u2019s models to predict a certain classification\
-    \ value for us in a certain problem?\u201D And this is what people assume. They\
-    \ assume these models can do anything, and they forget the initial capability\
-    \ of the model. They're not built to support such tasks. This is kind of the challenge\
-    \ that I've seen. I don't know if you've been there or I don't know, actually\
-    \ \u2013 I want to hear your opinion on this \u2013 but I've been in many situations\
-    \ where I kind of felt like I was looked upon like I'm outdated. It's like, \u201C\
-    Oh, you're anti-GPT!\u201D And I\u2019m like \u201CNo! But this is not the intention\
-    \ of these models.\u201D You're setting yourself up for failure if you work with\
-    \ them with an incorrect assumption. So I think these models have brought about\
-    \ a lot of opportunities. But I don't see it changing the way that things have\
-    \ been done, but more new opportunities, actually, that can be presented and how\
-    \ we solve problems. What's your take? [chuckles]"
-  sec: 2733
-  time: '45:33'
-  who: Reem
-- line: "Well, if we manage to keep the process the same, it looks like we can have\
-    \ a first iteration way faster with these new tools. For example, what we can\
-    \ do is just say, \u201CHey, these are the criteria for assessing fluency. Just\
-    \ tell us if the candidate is fluent or not.\u201D Well, fluency may be a bad\
-    \ example, because you probably analyze audio rather than text. But let's say\
-    \ coherence. You just throw a bunch of text at this and say, \u201CHere are the\
-    \ criteria of how to evaluate coherence. What do you think?\u201D So you can probably\
-    \ arrive at the first solution rather quickly. Then maybe it will work, maybe\
-    \ it will not, But at least you will start getting some feedback."
-  sec: 2891
-  time: '48:11'
-  who: Alexey
-- line: "Yeah, the first POC. Yeah, that's also another one of the good opportunities\
-    \ that you could have. Being able to\u2026 I mean, if it's applicable for you\
-    \ to test things quickly, and to have something that works for you quickly. Because\
-    \ that's something I was faced with, honestly. One thing that might come back\
-    \ to bite you is, if you start POCing with these models and you think that they\
-    \ work, but they're not working, then you realize you have to take a step back\
-    \ and you're going into more basic techniques. Now, instead of starting with something\
-    \ that works, you're kind of put behind, right? You're kind of put behind on schedule.\
-    \ This is something that I, at least, faced in the past."
-  sec: 2941
-  time: '49:01'
-  who: Reem
-- line: "I see. Well, it's not like I have a lot of experience of using LLMs to solve\
-    \ business problems but, as a user, I use them quite extensively. For example,\
-    \ right now, I\u2019m preparing for an exam in German. There is this writing part,\
-    \ and then they have strict criteria. What I do is I give ChatGPT my text and\
-    \ the set of criteria, and then say, \u201COkay, ChatGPT. What do you think? How\
-    \ many points will I get?\u201D And then it says, \u201COh! Your text is awesome.\
-    \ You'll get 15 out of 15!\u201D"
-  sec: 2991
-  time: '49:51'
-  who: Alexey
-- line: "Don't trust it. [chuckles] Yeah. I've played around with it, honestly, specifically\
-    \ these criteria and seeing if it's able to do things as needed. Because it depends\
-    \ on what you're trying to solve. If you're trying to just say, \u201Cthe person\
-    \ is good, the person is bad,\u201D maybe it can do that properly or decently\
-    \ well. But if you're trying to distinguish between people on a scale of 0\u2013\
-    100, and really kind of be very specific about the criteria, and how good this\
-    \ person is versus this person, you really need something that's a lot more specialized\
-    \ for what you're trying to build. For me, GPTs did not do that."
-  sec: 3026
-  time: '50:26'
-  who: Reem
-- line: "So this means that your life doesn't really become simpler \u2013 you still\
-    \ need to do all this modeling, collect all this data\u2026 Right?"
-  sec: 3073
-  time: '51:13'
-  who: Alexey
-- line: "For this specific problem, yeah. [chuckles] In other areas, a lot of things\
-    \ have been simplified. Because like I told you, there are a lot of opportunities.\
-    \ For example, enhancing the interview process, being able to make it more user-friendly,\
-    \ maybe giving the candidates live feedback \u2013 these are things that you can\
-    \ very easily do leveraging these models without having to build complex engines."
-  sec: 3083
-  time: '51:23'
-  who: Reem
-- line: "Yeah. I imagine that if I talk to a screen, it\u2019s one thing if I just\
-    \ talk to the screen and it's recorded, but it\u2019s another thing if it\u2019\
-    s, \u201COkay, it\u2019s an avatar. It's still not a human, but it\u2019s something\
-    \ that reacts to me (maybe it nods)\u2026\u201D [cross-talk]"
-  sec: 3108
-  time: '51:48'
-  who: Alexey
-- line: She talks to you. She encourages you. She's really nice. [chuckles]
-  sec: 3126
-  time: '52:06'
-  who: Reem
-- line: Yeah. I imagine these sorts of things can be built with these chatbot capabilities
-    that are way better with LLMs than without them.
-  sec: 3132
-  time: '52:12'
-  who: Alexey
-- line: "Yeah, exactly. Exactly. There's definitely a lot that's improved \u2013 a\
-    \ lot that can be done better. There are some things that can be done a lot faster.\
-    \ I didn't get that lucky with my specific use case. I'll give you another example,\
-    \ one thing that I assumed was that we can leverage these models for data generation.\
-    \ Maybe they can produce a few interviews for us? They really don't do a good\
-    \ job at it because it's really hard to get them to diversify and to give you\
-    \ enough diversity. It's really hard to get them to reflect a bad interview, actually.\
-    \ This was one of the challenges that I had. It would very explicitly tell you\
-    \ that it's doing a bad job, and people would never really do that. They didn't\
-    \ really serve the job as well as needed. I guess it was one of those use cases\
-    \ that didn't see much value \u2013 at this point, at least."
-  sec: 3141
-  time: '52:21'
-  who: Reem
-- header: Mitigating biases
-- line: "I see an interesting question from Brendan. I imagine that in these evaluation\
-    \ systems, we can have some biases. Because even when humans evaluate other humans,\
-    \ we have some biases, and these biases inadvertently creep into our machine learning\
-    \ solutions for evaluating people. So are there\u2026? How can we mitigate these\
-    \ biases when we work with machine learning?"
-  sec: 3200
-  time: '53:20'
-  who: Alexey
-- line: "Very good question\u044E Because the bias comes up in many different areas,\
-    \ the first initial step is the human bias that can creep in, which is essentially\
-    \ where the data is being labeled \u2013 the interviews are being labeled, for\
-    \ example, in my case. I'm gonna give specific examples here, for my use case.\
-    \ If you want methodology that we use to mitigate having a person's bias creep\
-    \ into the modeling process, at least, is to have many people score an interview\
-    \ \u2013 to have several people\u2019s scores on an interview and then take an\
-    \ aggregate of their scores. By the way, this is actually how it's done in practice."
-  sec: 3230
-  time: '53:50'
-  who: Reem
-- line: "Usually, when companies conduct these interviews, you have several interviewers\
-    \ who are scoring you, and then they would combine their results to come up with\
-    \ the final results so that it\u2019s not one person's bias creeping into the\
-    \ system and defining their own opinions on you. The second way is through the\
-    \ criteria that I've mentioned. By having very clear criteria, and by trying to\
-    \ standardize the process across every candidate and across everyone who's scoring,\
-    \ you try, as much as possible, to navigate that people don't come up with their\
-    \ own definition of what good communication is."
-  sec: 3230
-  time: '53:50'
-  who: Reem
-- line: "They follow very specific criteria, \u201CDid the candidate show this behavior?\
-    \ Yes/No, Medium/High, etc. Did the candidate show this specific behavior?\u201D\
-    \ To break it down to as small pieces as possible, to mitigate these internal\
-    \ biases, to standardize, and to aggregate results across the scoring panel, essentially,\
-    \ whose labels are taken and fed into the models."
-  sec: 3230
-  time: '53:50'
-  who: Reem
-- line: I imagine that these criteria, these standards, exist for a reason. And this
-    reason is that we humans have biases. So how can we remove subjectivity as much
-    as possible?
-  sec: 3341
-  time: '55:41'
-  who: Alexey
-- line: Exactly!
+- line: "You might? Maybe that's a good place to start. Because it's right there.\
+    \ The question\u2026 I think the considerations break into a few different categories.\
+    \ For a while, it used to be performance \u2013 if you have a couple million vectors,\
+    \ the PG vector and other solutions were considered orders of magnitude slower\
+    \ than the dedicated solutions. I think there is still some difference. People\
+    \ should check out if the difference is big enough for them that it matters. So,\
+    \ performance. The other category of thought is, \u201CWhat is the right set of\
+    \ tools and abstractions around this new type of search?\u201D For example, query\
+    \ language, \u201CTo what extent can you tap into\u2026\u201D [cross-talk]"
   sec: 3353
   time: '55:53'
-  who: Reem
-- line: When humans interview other humans, we want to remove subjectivity there.
-    That's why these criteria are there, right? That's why these processes are there.
-    That's why these standards are there.
-  sec: 3354
-  time: '55:54'
+  who: Daniel
+- line: '[inaudible]'
+  sec: 3403
+  time: '56:43'
   who: Alexey
-- line: "Exactly. My teammate, who's the psychologist on the team, explained it to\
-    \ me in a very nice way. She said, \u201CI tell you, \u2018Score this person\u2019\
-    s communication,\u2019 and I score this person on communication, and that's the\
-    \ only criteria we have. We have very different mental models of what communication\
-    \ means.\u201D When we talk about bias here, I'm not talking about negative intended\
-    \ bias, but these internal mental models that we have. But if I tell you, \u201C\
-    We mean \u2018X, Y, Z\u2019 by communication,\u201D You have a better idea \u2013\
-    \ we have a closer model representation in our minds when we're scoring. But if\
-    \ I pick a very specific criteria, we're as close as possible to thinking about\
-    \ this assessment in the same way. There's still differentiation and that's a\
-    \ good thing."
-  sec: 3367
-  time: '56:07'
-  who: Reem
-- line: "There's still differentiation, because you're getting an overall assessment\
-    \ from several people, and not just one person's opinion, which is to ensure fairness\
-    \ and to ensure that there's not one specific person's opinion going into play.\
-    \ But we're assessing the same thing. We're looking at the same criteria. And\
-    \ we're very diligent about this. There's a lot that's done. We conduct regular\
-    \ sessions, where, for example, the panel scores together, and they meet, and\
-    \ they discuss the results, and then make sure no one has to trained scoring in\
-    \ a different way, to make sure we're following the criteria the same way, the\
-    \ rules of scoring the same way \u2013 trying to standardize that as much as possible.\
-    \ Again, there's always, potentially, flaws that can creep in. But for me, I always\
-    \ go back and compare to the benchmark. The benchmark is, you would be assessed\
-    \ by one person, (in reality, if you make it to the actual interview) and you\
-    \ will be judged by that person's own biases."
-  sec: 3367
-  time: '56:07'
-  who: Reem
-- line: "In an automated interview like the one that we have, and actually, there\
-    \ are many of them out there today, it's a standardized approach. But also, at\
-    \ least in our case, we don't really know anything about you \u2013 we're not\
-    \ collecting anything about you in terms of personal information. We don't care.\
-    \ We're really just listening to your interview and following that criteria. We're\
-    \ very careful about how we evaluate audio and video. We don't use these to assess\
-    \ your soft skills, by the way. We assess different aspects, because according\
-    \ to literature, they're not reliable. Obviously, trying to do things as diligently\
-    \ as possible to make sure you're not coming up with your own idea of what good\
-    \ communication is, and you're following standard research that's been established\
-    \ in the psychology space. That's the best that you can do, really, to make sure\
-    \ that the process is as reliable as possible."
-  sec: 3367
-  time: '56:07'
-  who: Reem
-- line: Maybe one last question. I know we're a bit overtime.
-  sec: 3527
-  time: '58:47'
+- line: Right.
+  sec: 3404
+  time: '56:44'
+  who: Daniel
+- line: Elasticsearch is [inaudible]
+  sec: 3405
+  time: '56:45'
   who: Alexey
-- line: "It\u2019s okay. It's good from my side."
-  sec: 3531
-  time: '58:51'
-  who: Reem
-- header: Addressing specific requirements for specific roles
-- line: "So there's a question from Batul and it's related to what we were talking\
-    \ about. Communication can be quite subjective, but it's also different for different\
-    \ roles. The \u201Ccommunication\u201D that we expect from a data analyst can\
-    \ be different from the communication skills we expect from a data engineer, right?\
-    \ Data analysts need to talk more with stakeholders, while data engineers might\
-    \ mostly need to talk to their managers \u2013 something like that. So the expectations\
-    \ are different, and the sort of communication skills are different. Does it mean\
-    \ that your system needs to have adjustments for different roles?"
-  sec: 3534
-  time: '58:54'
+- line: "Yeah. People had similar thoughts with graph databases. I think we had some\
+    \ successes and some challenges to learn from, from that era, as well. I would\
+    \ say, the question is, \u201CWhat are you optimizing for? Are you optimizing\
+    \ for only ever having one database? Or are you optimizing for solving business\
+    \ problems and building stuff that works as fast as possible?\u201D Then, if the\
+    \ new abstraction helps you deliver faster \u2013 it still gives you the expressive\
+    \ power you need, but also gets you to the destination faster \u2013 then maybe\
+    \ you should look at the tool, right? I think that's kind of the decision space."
+  sec: 3407
+  time: '56:47'
+  who: Daniel
+- line: Do you have more time, or do you need to go?
+  sec: 3459
+  time: '57:39'
   who: Alexey
-- line: It does. Today, the way that it's handled is by the recruiter. So the recruiter
-    is the one who essentially knows (or should know) the requirements for the position
-    they're hiring for. The system assesses you the same way. In the background, the
-    system is assessing you regardless of what your industry is, where you're going
-    to work, etc. You have a certain communication capability that's been presented
-    in your interview, and that's assessed. But the way that you are ranked and presented
-    to the recruiter is based on criteria that they set.
-  sec: 3579
-  time: '59:39'
-  who: Reem
-- line: "They may set a specific level or expectation of communication, let's say,\
-    \ depending on the role requirements, and then your score is matched with their\
-    \ requirements. If you are above that score, you're considered to be a good fit\
-    \ for the role. If you're below, you're considered to be not well-fit in this\
-    \ specific capacity (the specific competency). We also have this interesting concept,\
-    \ actually, that I wasn't aware of before \u2013 if you are above the requirements\
-    \ and a certain threshold, you're also considered to be \u201Coverqualified\u201D\
-    ."
-  sec: 3579
-  time: '59:39'
-  who: Reem
-- line: You could have an overqualification of soft skills that would make you get
-    to a point where perhaps you might end up unsatisfied with the role and wants
-    more. So these are things that we measure and show where you are at the scale
-    reference that the recruiter defines, depending on the job requirements. So that's
-    a good question, actually.
-  sec: 3579
-  time: '59:39'
-  who: Reem
-- line: "On the candidate\u2019s side, it must be quite frustrating when you get rejected\
-    \ with this \u201Coverqualified\u201D mark."
-  sec: 3670
-  time: '1:01:10'
+- line: Yeah, we can keep going for a couple more minutes.
+  sec: 3463
+  time: '57:43'
+  who: Daniel
+- header: Choosing vendors for your use case
+- line: "Well, maybe this will require more time. The question from Adjay is, \u201C\
+    If I'm a midsize D2C (direct to consumer) brand, what would be the best way to\
+    \ build my search tech? I'm looking only to add personalization and switch from\
+    \ pricey third-party vendors.\u201D"
+  sec: 3468
+  time: '57:48'
   who: Alexey
-- line: "You don't. [chuckles] We don't reject you because you're overqualified. It's\
-    \ a concept of\u2026 What was it? It was a really interesting concept that was\
-    \ defined by, again, my teammate \u2013 this is her area of expertise. But she\
-    \ compared it \u2013 it's not like you're overqualified, like you're not a good\
-    \ fit. She actually defined it differently, which is \u2013 you could have the\
-    \ capability, (this is what makes you like the perfect fit today) but you could\
-    \ also have exceeding potential. So when you're overqualified, you have the capability,\
-    \ and you have potential. So you're a plus/plus, right? You have the potential\
-    \ to grow, you have the potential, perhaps, for a higher role \u2013 maybe a different\
-    \ position. All these things are monitored and reported back."
-  sec: 3678
-  time: '1:01:18'
-  who: Reem
-- line: "That\u2019s actually a good thing in this case."
-  sec: 3722
-  time: '1:02:02'
+- line: "Okay, that's\u2026 [chuckles] That\u2019s a big one."
+  sec: 3491
+  time: '58:11'
+  who: Daniel
+- line: Yeah. They probably need a consultation, right? [chuckles]
+  sec: 3494
+  time: '58:14'
   who: Alexey
-- line: "Well, yeah. Even if you're under qualified in that skill, you're not rejected\
-    \ automatically. If you don't match for a specific portion of the criteria, then\
-    \ you're \u201Cnot the best fit,\u201D but you're not thrown out. Again, the way\
-    \ that we've done the system is to be very careful that we're not making decisions.\
-    \ All the candidates are there, we're simply assessing, the recruiter looks at\
-    \ the results and makes [cross-talk]"
-  sec: 3725
-  time: '1:02:05'
-  who: Reem
-- line: "You just give them a bunch of numbers, [Reem agrees] explain these numbers,\
-    \ and then they think, \u201COkay, this is important for us. Maybe for this part,\
-    \ it's not really important. Let's just take a look at this candidate anyway.\u201D"
-  sec: 3750
-  time: '1:02:30'
+- line: "Also, for any questions that remain unanswered, I think there'll be a link\
+    \ to my LinkedIn \u2013 people should connect to me and shoot those questions\
+    \ over. For e-commerce, I think there is a huge opportunity to do real-time personalization\
+    \ across many different surfaces \u2013 feeds, category pages, product detail\
+    \ pages, basket pages, personalized emails, [etc.]. In fact, our first production\
+    \ deployment is of this type, and we see large lifts of revenue and so on. So\
+    \ I think there is a big opportunity there. Also, because of the multi-modality\
+    \ of the e-commerce Data, (you often have product images and descriptions and\
+    \ behavioral data) I think there isn't a go-to stack that you should absolutely\
+    \ use."
+  sec: 3497
+  time: '58:17'
+  who: Daniel
+- line: "I think it depends somewhat on the constraints. Look, if you have, let's\
+    \ say, 100,000 data points across all your stuff \u2013 behavioral events and\
+    \ products, users, and everything is on the order of 100,000 (a couple hundred\
+    \ thousand) then I would just pull the data into a Python notebook and just kind\
+    \ of see what you can do with basic tools out there. Do some embeddings, do some\
+    \ matching, pull frequent queries that you get on search, see if you can make\
+    \ embeddings of users and cluster them to see if there are some clusters to be\
+    \ exploited. I think you can explore quite a lot in this way. And then, if you\
+    \ are getting results that are dramatically different from what your current production\
+    \ system is doing \u2013 you can literally just eyeball this."
+  sec: 3497
+  time: '58:17'
+  who: Daniel
+- line: "For example, the CLIP model that you mentioned from Open AI \u2013 I think\
+    \ this is an eye-opener for many people, that they can ingest a bunch of photos\
+    \ of clothes and then they get a search query like \u201Cblue t-shirt with short\
+    \ sleeves,\u201D and it actually works. And it differentiates between short sleeves\
+    \ and long sleeves. This feels kind of magical. Most people start this way, right?\
+    \ They create a demo of some queries that are dramatically better than the current\
+    \ system and then they figure out how to productionize that \u2013 probably some\
+    \ kind of tightened server, getting all this data on the input, handling those\
+    \ queries, there's probably a vector database (or a vector-enabled traditional\
+    \ database) somewhere in there. I think that's a cool place to start. Maybe we\
+    \ can do one more, and then I'll have to jump."
+  sec: 3497
+  time: '58:17'
+  who: Daniel
+- header: In the end, the main metric is USD
+- line: "Yeah, well\u2026  We have other questions. This one is also big. The question\
+    \ is, \u201CWhat are some metrics that can be used to monitor search performance?\u201D"
+  sec: 3685
+  time: '1:01:25'
   who: Alexey
-- line: Yeah, exactly.
-  sec: 3762
-  time: '1:02:42'
-  who: Reem
-- line: Yeah, that's amazing. Do you have a few more minutes?
-  sec: 3765
-  time: '1:02:45'
+- line: "Yeah. I mean, that's\u2026 [chuckles] That's a huge one, because performance\
+    \ is very ambiguous, right? Actually, our Chief Architect likes to say that \u201C\
+    The main metric that should be used is USD.\u201D And I love this joke because\
+    \ people hear this \u201Cmean squared error.\u201D People are trying to figure\
+    \ out what USD stands for? It's dollars, in the end. Right? So high level thoughts\
+    \ on this very long question is \u2013 you will get more funding for a project\
+    \ as a data scientist or engineer in your company, if you can connect your metrics\
+    \ to the actual business performance. Then, do A/B testing carefully and intentionally.\
+    \ I mean, there is so much content about this out there that I don't think I can\
+    \ do it justice. But yeah, I think the dollars \u2013 that's the delta to most\
+    \ of the content that I see out there. It\u2019s connected to something that the\
+    \ business cares about, and not having 50 Grafana charts that only you care about."
+  sec: 3701
+  time: '1:01:41'
+  who: Daniel
+- line: "Yeah. Sometimes it's not immediately possible to calculate the impact in\
+    \ dollars. But sometimes you can have some other business metrics that are important\
+    \ as well. For example, in the company where I used to work, we cared about contacts.\
+    \ It was a marketplace. What we wanted from search is \u2013 if somebody is looking\
+    \ for something, then they contact the sellers, right? So this is one of the important\
+    \ things. That, or they click at a certain thing, or order a delivery. These are\
+    \ two metrics that are important. And then for each of these \u201Csuccessful\
+    \ events,\u201D we can attribute some monetary value, right?"
+  sec: 3786
+  time: '1:03:06'
   who: Alexey
-- line: I do.
-  sec: 3768
-  time: '1:02:48'
-  who: Reem
-- header: "Reem\u2019s resource recommendations"
-- line: "Because I was wondering, maybe there are interesting resources: books, courses,\
-    \ articles, YouTube videos \u2013 about machine learning in HR tech. Do you know\
-    \ of any?"
-  sec: 3770
-  time: '1:02:50'
+- line: "Yes. Those are proxies \u2013 proxies for the dollars. That's the only reason\
+    \ that you would care about somebody contacting a seller. Somebody figured out\
+    \ that there is some probability of that leading to a transaction down the line.\
+    \ And then you think about that funnel and those probabilities and \u201Call things\
+    \ being equal,\u201D more clicks probably means more money. Usually, the \u201C\
+    all things being equal\u201D does a lot of heavy lifting, because we have experiments\
+    \ that are not fully isolated and all kinds of seasonal effects that upset e-commerce.\
+    \ That's why we run control groups. Search relevance monitoring is definitely\u2026\
+    \ One more thing I'll say on this topic. Having metrics that engineers can affect\
+    \ without going through the data scientist and iterating on them quickly \u2013\
+    \ I think that's interesting. Basically, how can you create metrics that facilitate\
+    \ fast iteration?"
+  sec: 3830
+  time: '1:03:50'
+  who: Daniel
+- line: "Sometimes that could be offline evaluation tests, sometimes it can be A/B\
+    \ tests. But one of my goals (or our goals with Superlinked) is to enable the\
+    \ engineers to solve a lot of these challenges, without going through the data\
+    \ scientist. Because the data scientist is busy and has many problems (and should\
+    \ work on them) but for some of the more basic stuff or clearer stuff, we want\
+    \ to give engineers the levers to explore and still have the power. But, also,\
+    \ [we want to give them] the abstraction that helps them actually navigate the\
+    \ problem, so it feels more like engineering, and less like magic. I think with\
+    \ the pre-trained models, this is one way to understand the current opportunity\
+    \ in the current ML hype wave \u2013 engineers can solve information retrieval\
+    \ problems directly. This, I think, will unlock a lot of value."
+  sec: 3830
+  time: '1:03:50'
+  who: Daniel
+- header: Closing
+- line: "Sadly, we didn't talk about the algorithms, and competitive programming,\
+    \ and their relevance to everyday work \u2013 maybe some other time. Actually,\
+    \ by the way, right behind your head, I see a bluish patch of sky."
+  sec: 3979
+  time: '1:06:19'
   who: Alexey
-- line: "No, actually. In HR tech, I struggled when I was in the space, until I got\
-    \ my colleague on board, who was a domain expert. She taught me everything that\
-    \ I know today, when it comes to the recruitment side. It\u2019s clich\xE9, but\
-    \ I actually recommend your Zoomcamps to everyone who tells me, \u201CIf I want\
-    \ to grow in the space, how do I do that?\u201D And I always recommend DataTalks.Club\u2019\
-    s Zoomcamps as an experience. I know many people kind of go\u2026 This is kind\
-    \ of drifting a bit, but a lot of people talk to me about building their profiles,\
-    \ and struggling to find their first role, or their second role, or whatever.\
-    \ Projects are always something that's encouraged, but one thing I've always encouraged\
-    \ towards is to find as close as possible to real-world projects. And one community\
-    \ whose project I really like is Omdena, as well. There, you work on actual projects\
-    \ with big teams, and it's quite a realistic experience, I would say \u2013 as\
-    \ close as possible to what you could get if you're working on a team. This way,\
-    \ you build your portfolio as well."
-  sec: 3782
-  time: '1:03:02'
-  who: Reem
-- line: "Communities have been a big thing for me \u2013 being part of communities\
-    \ like DataTalks.Club. I'm not selling you guys [chuckles] I'm actually a huge\
-    \ fan. [chuckles] But communities like DataTalks and MLOps Community are very\
-    \ interactive, very helpful, very responsive. So if you're struggling, feeling\
-    \ stuck on something, ask. People are a lot more helpful than you would assume.\
-    \ Joining communities has been a big thing for me and navigating a lot of the\
-    \ challenges that I encountered. These are things that I would recommend, from\
-    \ the top of my head."
-  sec: 3782
-  time: '1:03:02'
-  who: Reem
-- line: Yeah. Thank you for your kind words about this community and communities in
-    general. And thanks for staying a bit longer to answer questions.
-  sec: 3886
-  time: '1:04:46'
+- line: "Yeah. Okay, I'll play with your optimism and say that I also see it. But\
+    \ I\u2019m tuning in from London today, and it's the beginning of March, so\u2026"
+  sec: 3998
+  time: '1:06:38'
+  who: Daniel
+- line: "Yeah, I was going to say maybe you can now go celebrate the sky. [chuckles]\
+    \ Thanks a lot for joining us today. Thanks, everyone, too, for joining us today\
+    \ \u2013 and for asking your questions, tuning in. And also, thanks, Superlinked\
+    \ and VectorHub for supporting this podcast interview."
+  sec: 4008
+  time: '1:06:48'
   who: Alexey
-- line: It was my pleasure. Thank you so much. Thank you for having me. Thank you
-    as well.
-  sec: 3896
-  time: '1:04:56'
-  who: Reem
-- line: "Thanks for being here. I guess that's it for today. Thanks, again, a lot.\
-    \ And thanks, everyone, for joining us today too, for asking questions, for being\
-    \ active. We\u2019ll see each other next week. I think next week we have two or\
-    \ three interviews. It will be fun."
-  sec: 3898
-  time: '1:04:58'
-  who: Alexey
+- line: "Thank you, Alexey. Big fan of the community, of the podcast. I actually binged\
+    \ a few episodes just recently. Please keep doing what you're doing. It\u2019\
+    s always good to have this kind of engineer-first view. Hopefully, we get to chat\
+    \ soon."
+  sec: 4030
+  time: '1:07:10'
+  who: Daniel
 ---
 
 Links:
