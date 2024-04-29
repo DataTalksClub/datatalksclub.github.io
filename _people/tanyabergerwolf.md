@@ -1,7 +1,7 @@
 ---
-short: tanyaberger-wolf
+short: tanyabergerwolf
 title: "Tanya Berger-Wolf"
-picture: "images/authors/tanyawold.jpg"
+picture: "images/authors/tanyabergerwolf.jpg"
 
 
 linkedin: tanyabw
