@@ -1,7 +1,7 @@
 top:
-  - text: Home
-    link: "/"
-    new_window: false
+  # - text: Home
+  #   link: "/"
+  #   new_window: false
   - text: Articles
     link: "/articles.html"
     new_window: false
@@ -16,6 +16,9 @@ top:
     new_window: false
   - text: Books
     link: "/books.html"
+    new_window: false
+  - text: Courses
+    link: "/blog/guide-to-free-online-courses-at-datatalks-club.html"
     new_window: false
 bottom:
   - text: YouTube
