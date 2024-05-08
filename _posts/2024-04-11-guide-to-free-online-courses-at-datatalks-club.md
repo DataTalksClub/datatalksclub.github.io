@@ -31,7 +31,7 @@ The structure of this article is as follows:
 
 ### Table with the main information about DataTalks.Club courses
 
-| Course | Duration | Topics | Starting date of the next cohort | GitHub | Article |
+| Course | Duration | Topics | Next cohort |  | Article |
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | <a href="#machine-learning-zoomcamp">Machine Learning Zoomcamp</a> | 4 months | Machine learning engineering | September 2024 | <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> | [Article](https://datatalks.club/blog/machine-learning-zoomcamp.html) |
 | <a href="#data-engineering-zoomcamp">Data Engineering Zoomcamp</a> | 9 weeks | Data engineering | January 2025 | <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> | [Article](https://datatalks.club/blog/data-engineering-zoomcamp.html) |
