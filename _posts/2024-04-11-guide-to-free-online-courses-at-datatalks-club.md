@@ -77,7 +77,7 @@ You don’t have to have any prior knowledge of machine learning as we’ll guid
 -   Part 1 covers machine learning algorithms implemented in Python, including Linear Regression, Classification, Decision Trees, Ensemble Learning, and Neural Networks.
 -   Part 2 focuses on deploying models using popular frameworks like Flask, TensorFlow, and Kubernetes.
 
-
+> You can find more information about the course on its [GitHub repository](https://github.com/DataTalksClub/machine-learning-zoomcamp). If you’re ready to join, sign up using this [form](https://airtable.com/appflP5cuR8bD5MIm/shryxwLd0COOEaqXo)
 
 ### Data Engineering Zoomcamp
 
@@ -98,7 +98,7 @@ You’ll spend the first six weeks learning and practicing each part of the data
 -   Week 6: Streaming
 -   Weeks 7, 8, 9: Project
 
-
+> You can find more information about the course on its [GitHub repository](https://github.com/DataTalksClub/data-engineering-zoomcamp). If you’re ready to join, sign up using this [form](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD)
 
 ### MLOps Zoomcamp
 
@@ -119,7 +119,7 @@ The course guides you step-by-step through each stage of the MLOps cycle startin
 -   Week 6: Best Practices
 -   Weeks 7, 8, 9: Project
 
-
+> You can find more information about the course on its [GitHub repository](https://github.com/DataTalksClub/mlops-zoomcamp). If you’re ready to join, sign up using this [form](https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL)
 
 ### Analytics in Stock Markets Zoomcamp
 
@@ -139,7 +139,7 @@ You need basic Python knowledge, an analytical mindset to make decisions based o
 -   Week 5: Deployment and Automation
 -   Week 6, 7, 8: Project
 
-
+> You can find more information about the course on its [GitHub repository](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp). If you’re ready to join, sign up using this [form](https://docs.google.com/forms/d/e/1FAIpQLSc5H6Jc-HJg9B7irveRASJCAS4BTnJcvM2QX2ykIGZ0UNgCPQ/viewform)
 
 ### LLM Zoomcamp
 
@@ -159,7 +159,7 @@ This is a work in progress as we just plan to run the course’s first iteration
 -   Monitoring and guardrails
 -   Tips and tricks
 
-
+> You can find more information about the course on its [GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp). If you’re ready to join, sign up using this [form](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q)
 
 ### DataTalks.Club community
 
