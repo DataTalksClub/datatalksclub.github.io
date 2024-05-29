@@ -3,8 +3,8 @@ short: balinhle
 title: "Ba Linh Le"
 picture: "images/authors/balinhle.jpg"
 
-twitter: https://x.com/balinhle1
-linkedin: https://www.linkedin.com/in/ba-linh-le-/
+twitter: balinhle1
+linkedin: ba-linh-le
 
 ---
 
