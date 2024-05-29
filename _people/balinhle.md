@@ -4,7 +4,7 @@ title: "Ba Linh Le"
 picture: "images/authors/balinhle.jpg"
 
 twitter: balinhle1
-linkedin: ba-linh-le
+linkedin: ba-linh-le-
 
 ---
 
