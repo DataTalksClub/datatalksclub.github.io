@@ -31,13 +31,14 @@ The structure of this article is as follows:
 
 ### Table with the main information about DataTalks.Club courses
 
-| Course | Duration | Topics | Next cohort | &nbsp; &nbsp; &nbsp; | Article |
-| -------- | ------- | ------- | ------- | ------- | ------- |
-| <a href="#machine-learning-zoomcamp">Machine Learning Zoomcamp</a> | 4 months | Machine learning engineering | September 2024 | <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> | [Article](https://datatalks.club/blog/machine-learning-zoomcamp.html) |
-| <a href="#data-engineering-zoomcamp">Data Engineering Zoomcamp</a> | 9 weeks | Data engineering | January 2025 | <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> | [Article](https://datatalks.club/blog/data-engineering-zoomcamp.html) |
-| <a href="#mlops-zoomcamp">MLOps Zoomcamp</a> | 9 weeks | Productionizing ML services | 13 May 2024 | <a href="https://github.com/DataTalksClub/mlops-zoomcamp"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> | [Article](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"} |
-| <a href="#analytics-in-stock-markets-zoomcamp">Analytics in Stock Markets Zoomcamp</a> | 8 weeks | Stock market trading, analytics, visualisation | 15 April 2024 | <a href="https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> | [Article](https://pythoninvest.com/course) |
-| <a href="#llm-zoomcamp">LLM Zoomcamp</a> | 10 weeks | Real-life applications of LLMs | June 2024 | <a href="https://github.com/DataTalksClub/llm-zoomcamp"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a>| Article |
+| Course | Duration | Next cohort | Article |  |
+| -------- | ------- | ------- | ------- | ------- |
+| <a href="#machine-learning-zoomcamp" target="_blank">Machine Learning Zoomcamp</a> | 16 weeks | September 2024 | [Article](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| <a href="#data-engineering-zoomcamp" target="_blank">Data Engineering Zoomcamp</a> | 9 weeks | January 2025 | [Article](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| <a href="#mlops-zoomcamp" target="_blank">MLOps Zoomcamp</a> | 9 weeks | May 2024 | [Article](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| <a href="#analytics-in-stock-markets-zoomcamp" target="_blank">Stock Markets Analytics Zoomcamp</a> | 8 weeks | April 2024 | [Article](https://pythoninvest.com/course){:target="_blank"} | <a href="https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| <a href="#llm-zoomcamp" target="_blank">LLM Zoomcamp</a> | 10 weeks | June 2024 | Article | <a href="https://github.com/DataTalksClub/llm-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+
 
 ### How do I participate in the courses? Self-paced mode vs. cohort mode
 

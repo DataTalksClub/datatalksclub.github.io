@@ -29,13 +29,13 @@ body, html {
 }
 
 .content table {
-  margin-top: 2em;
-  margin-bottom: 2em;
+  border-collapse: collapse;
+  margin: 0 auto;
+  width: auto;
 }
 
+
 .content th {
-  border-bottom: grey 0.5px solid;
-  border-top: grey 0.5px solid;
   padding: 0.3em;
 }
 
@@ -150,14 +150,6 @@ body, html {
 }
 
 
-.content img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
-  max-height: 31.25rem;
-}
-
 .content-main > p > img {
   margin-top: 2em;
   margin-bottom: 2em; 
@@ -167,6 +159,20 @@ body, html {
   margin-top: 2em;
   margin-bottom: 2em;  
 }
+
+.content figure img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  max-height: 31.25rem;
+}
+
+.content table img {
+  display: block;
+  max-height: 31.25rem;
+} 
+
 
 .content figcaption {
   text-align: center;
