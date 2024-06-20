@@ -1,4 +1,11 @@
 
+- time: 2024-07-08 17:00:00
+  title: "Open source data ingestion for RAGs with dlt"
+  speakers: [akeladrissner]
+  type: workshop
+  link: https://lu.ma/cnpdoc5n
+
+
 - time: 2024-07-02 17:00:00
   title: "Inventory Optimization in E-commerce"
   speakers: [hagopdippel, andreassyren]
