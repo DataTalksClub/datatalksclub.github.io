@@ -1,4 +1,11 @@
 
+- time: 2024-06-27 17:00:00
+  title: "Working as a Core Developer in the Scikit Learn Universe"
+  speakers: [guillaumelemaitre]
+  type: podcast
+  link: https://lu.ma/erxexngk
+
+
 - time: 2024-07-08 17:00:00
   title: "Open source data ingestion for RAGs with dlt"
   speakers: [akeladrissner]
