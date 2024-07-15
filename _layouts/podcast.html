@@ -76,6 +76,12 @@
         {% if page.transcript %}
         <div class="content-main mb-5">
           <h2 id="transcript">Transcript</h2>
+          <p>
+            The transcripts are edited for clarity, sometimes with AI.
+            If you notice any incorrect information,
+            <a href="https://github.com/DataTalksClub/datatalksclub.github.io/issues/new/choose" target="_blank">let us know</a>.
+          </p>
+
           {% assign toc = page.transcript | where_exp: "line", "line.header" %}
           <ul>
           {% for line in toc %}
