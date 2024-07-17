@@ -1,7 +1,6 @@
 ---
 episode: 7
 guests:
-- balinhle
 - sabinafirtala
 ids:
   anchor: lub/episodes/Building-a-Domestic-Risk-Assessment-Tool---Sabina-Firtala-e2lr92i
