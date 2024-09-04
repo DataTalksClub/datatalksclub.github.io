@@ -51,6 +51,30 @@ def url_as_bytes_stream(url):
     return stream
 
 
+def extract_lines(paragraphs):
+    styled_lines = []
+
+    for p in paragraphs:
+        style = p.style.name.lower()
+        paragraph = clean_line(p.text)
+
+        if len(paragraph) == 0:
+            continue
+
+        if style != 'normal':
+            paragraph = re.sub(r'\s+', ' ', paragraph)
+            styled_lines.append((paragraph, style))
+            continue
+
+        for line in paragraph.split('\n'):
+            line = clean_line(line)
+            if len(line) == 0:
+                continue
+            styled_lines.append((line, style))
+
+    return styled_lines
+
+
 def read_docx(input_file):
     if input_file.startswith('http'):
         stream = url_as_bytes_stream(input_file)
@@ -67,16 +91,9 @@ def read_docx(input_file):
 
     elements = []
 
-    paragraphs = doc.paragraphs
+    styled_lines = extract_lines(doc.paragraphs)
 
-
-    for i, p in enumerate(paragraphs):
-        style = p.style.name.lower()
-        line = clean_line(p.text)
-
-        if len(line) == 0:
-            continue
-
+    for line, style in styled_lines:
         if style.startswith('heading'):
             element = {
                 'header': line
