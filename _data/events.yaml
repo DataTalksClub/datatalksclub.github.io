@@ -11,6 +11,7 @@
   speakers: [rachellim]
   type: podcast
   link: https://lu.ma/l3i43o1e
+  youtube: https://www.youtube.com/watch?v=VXQIGHUWeL0
 
 
 - time: 2024-09-02 17:00:00
@@ -18,10 +19,11 @@
   speakers: [alexeygrigorev]
   type: webinar
   link: https://lu.ma/p0nge3kq
+  youtube: https://www.youtube.com/watch?v=htsvF-QUJDc
 
 
 - time: 2024-10-15 12:30:00
-  title: "Developing Your Career in ML by Studying  "
+  title: "Developing Your Career in ML by Studying"
   speakers: [ella(wati)sahnan]
   type: podcast
   link: https://lu.ma/bm01veg6
@@ -32,9 +34,10 @@
   speakers: [christopherbergh]
   type: podcast
   link: https://lu.ma/a5cjc7h5
+  youtube: https://www.youtube.com/watch?v=HzGpIxV8HtA
 
 
-- time: 2024-07-17 17:00:00
+- time: 2024-07-10 17:00:00
   title: "MLOps as a Team"
   speakers: [raphaelhoogvliets]
   type: podcast
