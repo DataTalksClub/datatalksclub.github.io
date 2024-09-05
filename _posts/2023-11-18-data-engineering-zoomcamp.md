@@ -25,7 +25,7 @@ We will describe different aspects of this course so you can learn more about it
 
 
 
-> The next cohort of the course starts on January 15, 2024. You can find more information about the course [here](https://github.com/DataTalksClub/data-engineering-zoomcamp/){:target="_blank"}. If you’re ready to join, sign up [here](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD){:target="_blank"}.
+> The next cohort of the course starts in January 2025. You can find more information about the course [here](https://github.com/DataTalksClub/data-engineering-zoomcamp/){:target="_blank"}. If you’re ready to join, sign up [here](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD){:target="_blank"}.
 
 ### Who the course is for?
 
