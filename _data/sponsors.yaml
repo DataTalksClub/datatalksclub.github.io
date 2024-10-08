@@ -11,9 +11,3 @@
   from: 2022-09-01 00:00:00
   to: 2023-09-01 00:00:00
 
-- name: "DoubleCloud"
-  link: "https://double.cloud/"
-  image: /images/partners/doublecloud.svg
-  from: 2024-06-01 00:00:00
-  to: 2024-12-31 00:00:00
-
