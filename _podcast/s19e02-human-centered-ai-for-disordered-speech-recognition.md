@@ -15,767 +15,788 @@ season: 19
 short: Human-Centered AI for Disordered Speech Recognition
 title: Human-Centered AI for Disordered Speech Recognition
 transcript:
-- header: Using data to create livable cities
-- line: This week, we'll talk about using data to create livable cities. We have a
-    special guest today, Rachel Lim. Rachel is an urban data scientist dedicated to
-    creating livable cities through the innovative use of data. Welcome, Rachel!
-  sec: 116
-  time: '1:56'
+- header: Background and career journey of Katarzyna
+- line: "This week, we'll talk about human-centered AI for disordered speech recognition.\
+    \ We have a special guest today\u2014Katarzyna Foremniak is a computational linguist\
+    \ with over ten years of experience in NLP and speech recognition. She has developed\
+    \ language models for automotive brands like Audi and Porsche and specializes\
+    \ in phonetics, morpho-syntax, and sentiment analysis. Katarzyna also teaches\
+    \ at the University of Warsaw and is passionate about human-centered AI and multilingual\
+    \ NLP. Welcome to the show!"
+  sec: 486
+  time: '8:06'
   who: Alexey
-- line: Thank you! I'm happy to be here today. I've benefited greatly from the DataTalks.Club
-    courses, and I'm excited to share my experiences.
-  sec: 151
-  time: '2:31'
-  who: Rachel
-- line: We're happy to have you. Before diving into our main topic, could you tell
-    us about your career journey so far?
-  sec: 161
-  time: '2:41'
+- line: Thank you. I'm very happy and honored to be here with you today.
+  sec: 521
+  time: '8:41'
+  who: Katarzyna
+- line: How accurate was the bio? I asked GPT to summarize my longer bio, so I hope
+    it was accurate.
+  sec: 527
+  time: '8:47'
   who: Alexey
-- header: 'Rachel''s career journey: from geography to urban data science'
-- line: Yes, I'm currently working as a data engineer in Singapore, focusing on creating
-    livable cities using data. My background is in geography — I have a bachelor's
-    degree in geography and a master's in urban data science. I blend qualitative
-    and quantitative analysis to tackle urban challenges.
-  sec: 172
-  time: '2:52'
-  who: Rachel
-- line: I began my career in data science, applying analytics and machine learning
-    to various transportation projects, such as bike-sharing analytics to address
-    indiscriminate parking and road defect detection using computer vision. These
-    projects allowed me to make a tangible impact in cities. Seeing my work lead to
-    real-world solutions motivated me to become a transport scientist. I focus on
-    analyzing travel patterns to support long-term planning in Singapore. Recently,
-    I transitioned to data engineering after completing the DataTalks.Club data engineering
-    course. By diving into data foundations and building data platforms, I aim to
-    optimize AI applications for creating livable cities.
-  sec: 172
-  time: '2:52'
-  who: Rachel
-- line: That sounds amazing! How was the course?
-  sec: 242
-  time: '4:02'
+- line: Yes, it was accurate. It was quite rich for a summary.
+  sec: 536
+  time: '8:56'
+  who: Katarzyna
+- header: Transition from linguistics to computational linguistics
+- line: "Before we dive into our main topic of human-centered AI and speech recognition,\
+    \ let\u2019s start with your background. I think GPT already provided a lot of\
+    \ good insights, but could you tell us more about your career journey?"
+  sec: 546
+  time: '9:06'
   who: Alexey
-- line: It was really good. It covered a lot about building data pipelines and using
-    tools like Apache Kafka, which was quite an eye-opener. The course was very relevant
-    and helpful in my transition to my current role.
-  sec: 245
-  time: '4:05'
-  who: Rachel
-- header: What does a transport scientist do?
-- line: You mentioned you were a transport scientist. That’s an interesting title.
-    What exactly does a transport scientist do, and what types of organizations need
-    this role?
-  sec: 260
-  time: '4:20'
+- line: "Sure. I\u2019m a computational linguist, which is a short answer. On one\
+    \ hand, I\u2019m a researcher and a teacher at the Department of Italian Studies\
+    \ in the Faculty of Modern Languages at the University of Warsaw. On the other\
+    \ hand, I work on NLP projects in the automotive industry and collaborate with\
+    \ companies in data handling. My background is mainly in linguistics, which was\
+    \ my starting point. I studied Italian and Polish in parallel and added some technical\
+    \ skills along the way, leading me to my journey as a computational linguist.\
+    \ My main field of interest is phonetics, which is why this topic is relevant\
+    \ for today's meeting. Sorry for being a bit lengthy!"
+  sec: 561
+  time: '9:21'
+  who: Katarzyna
+- line: "It wasn\u2019t long at all. I\u2019m curious, to be a linguist in Italian,\
+    \ do you have to speak Italian perfectly?"
+  sec: 642
+  time: '10:42'
   who: Alexey
-- line: Transport scientists are usually needed in the public sector, especially in
-    government agencies involved in transportation planning. The role involves applying
-    data science in a practical way to public transport and transportation planning.
-    Another sector where transport scientists are valuable is transport consultancy,
-    such as firms like Sam Schwartz. It's essentially about applying data science
-    within an urban context to improve transportation systems.
-  sec: 287
-  time: '4:47'
-  who: Rachel
-- line: So, is it about planning where to put bus stops, how often buses should run,
-    and similar things?
-  sec: 323
-  time: '5:23'
+- line: It helps!
+  sec: 655
+  time: '10:55'
+  who: Katarzyna
+- line: Do you speak it well?
+  sec: 658
+  time: '10:58'
   who: Alexey
-- header: Short-term and long-term transportation planning
-- line: Yes, that’s part of it. We separate our work into short-term and long-term
-    planning. In the short term, we look at bus routes, service frequencies, travel
-    patterns, and how well services are meeting users' needs. In the long term, we
-    use travel pattern data to make projections and plan for future infrastructure
-    needs, such as additional roads or rail lines and their alignment.
-  sec: 334
-  time: '5:34'
-  who: Rachel
-- header: Data sources for transportation planning in Singapore
-- line: I guess each bus in Singapore has sensors to track its location and passenger
-    load, right? This data helps you see if certain routes are overcrowded and need
-    more frequent service?
-  sec: 374
-  time: '6:14'
+- line: Yes, I do.
+  sec: 658
+  time: '10:58'
+  who: Katarzyna
+- line: I usually go to Italy as a tourist. The funny thing is that I live in Germany,
+    and when I go to places like Garda, which is a popular vacation destination for
+    Germans, people just look at me and start speaking German.
+  sec: 660
+  time: '11:00'
   who: Alexey
-- line: Exactly. We use a combination of data sources. Buses are equipped with GPS
-    transponders, allowing us to track their locations and times at each bus stop.
-    This helps us identify issues like bus bunching, where multiple buses arrive at
-    the same stop simultaneously. Ideally, buses should be spaced out to optimize
-    service.
-  sec: 407
-  time: '6:47'
-  who: Rachel
-- line: On the demand side, we look at fare card data to understand where passengers
-    are tapping in and out, giving us a clearer picture of travel demand.
-  sec: 407
-  time: '6:47'
-  who: Rachel
-- line: What do you mean by "tapping in and out"?
-  sec: 456
-  time: '7:36'
+- line: "Maybe that\u2019s why! Italians are usually very open and appreciate it when\
+    \ you speak their language."
+  sec: 681
+  time: '11:21'
+  who: Katarzyna
+- header: Merging linguistics and computer science
+- line: "I\u2019m curious about how difficult it was for you to transition from linguist\
+    \ to computational linguist. Linguistics, as I understand it, is less mathematical\
+    \ than other disciplines."
+  sec: 698
+  time: '11:38'
   who: Alexey
-- line: In Singapore, we use a fare card system similar to London's Oyster card or
-    New York's MetroCard. Passengers tap their card when they enter and exit public
-    transportation, like trains and buses.
-  sec: 460
-  time: '7:40'
-  who: Rachel
-- line: So there's a card and a reader? That makes sense. In Berlin, people can just
-    hop on a bus without any interaction. Sometimes there's a fare check, but it's
-    not consistent.
-  sec: 479
-  time: '7:59'
+- line: There was an audio problem; I only caught the first part of your question.
+  sec: 707
+  time: '11:47'
+  who: Katarzyna
+- line: "How difficult was it for you to become a computational linguist? It seems\
+    \ like linguistics isn\u2019t as math-heavy, so how was the transition for you?"
+  sec: 713
+  time: '11:53'
   who: Alexey
-- line: Yes, that approach makes it more challenging to collect travel data. You’d
-    need to rely on video surveillance and computer vision to analyze passenger flow,
-    which is more complex than just processing fare card events.
-  sec: 500
-  time: '8:20'
-  who: Rachel
-- header: Rachel's motivation for combining geography and data science
-- line: Definitely. So, what motivated you to work at the intersection of geography
-    and data science?
-  sec: 518
-  time: '8:38'
+- line: "You raised two interesting points. First, linguistics can indeed seem distant\
+    \ from mathematics. However, it depends on the approach; literature might seem\
+    \ far removed, but if you focus on data and relationships between datasets, it\u2019\
+    s a different story."
+  sec: 745
+  time: '12:25'
+  who: Katarzyna
+- line: "You\u2019ve touched on how important the use of data is. Is it safe to say\
+    \ that computational linguistics merges linguistics and computer science?"
+  sec: 802
+  time: '13:22'
   who: Alexey
-- line: Growing up in Singapore, I was fascinated by the systems shaping our cities.
-    I witnessed firsthand how the city rapidly expanded its MRT (Mass Rapid Transit)
-    network and developed new housing estates. This sparked my interest in urban planning
-    and geography.
-  sec: 535
-  time: '8:55'
-  who: Rachel
-- line: I did an internship at the Center for Livable Cities, which deepened my understanding
-    of sustainable urban environments. During this time, I attended the World City
-    Summit, where city leaders from around the world shared ideas on improving urban
-    spaces.
-  sec: 535
-  time: '8:55'
-  who: Rachel
-- line: This inspired me to study geography, focusing on urban design, geocomputation,
-    and geospatial analytics. Eventually, this led me to pursue a master's in urban
-    informatics at New York University, specializing in applying data science in urban
-    contexts. This combination of experiences has shaped my current role.
-  sec: 535
-  time: '8:55'
-  who: Rachel
-- header: Urban design and its connection to geography
-- line: That's interesting. My knowledge of geography is mostly from school, where
-    we learned things like capital cities and natural features. I didn't realize geography
-    could involve urban design. Is urban design about planning new districts, including
-    schools and parks?
-  sec: 619
-  time: '10:19'
+- line: "Yes, that\u2019s correct. When I began, there were not many studies in computational\
+    \ linguistics in Poland. At that time, it was necessary to acquire programming\
+    \ skills along with linguistic knowledge. I had to catch up and was fortunate\
+    \ enough to meet several people who were willing to teach me."
+  sec: 814
+  time: '13:34'
+  who: Katarzyna
+- line: When you say that linguistics might not be too far from mathematics, I remember
+    reading about syntax trees. They represent language in a more concrete way, almost
+    like algebra, allowing us to work with mathematical abstractions instead of just
+    letters and characters.
+  sec: 827
+  time: '13:47'
   who: Alexey
-- line: Yes, but it goes beyond just planning where things go. It’s about designing
-    environments that are livable. This involves making streets walkable, deciding
-    on the width of streets, placing sidewalks, and using elements like planter boxes
-    to separate pedestrians from traffic. It's also about creating safe, welcoming
-    spaces where people want to linger and interact, fostering a sense of community.
-  sec: 686
-  time: '11:26'
-  who: Rachel
-- line: I see. Why is this field still called geography when it covers urban design
-    and other aspects?
-  sec: 726
-  time: '12:06'
+- line: "Indeed, that\u2019s one of the main perspectives in linguistics: viewing\
+    \ language as a structured system. This aligns closely with your description."
+  sec: 872
+  time: '14:32'
+  who: Katarzyna
+- line: When you were studying linguistics in Italian, did you learn Italian first
+    and then focus on linguistics, or did you approach it from a linguistic perspective
+    before using the language more practically?
+  sec: 887
+  time: '14:47'
   who: Alexey
-- line: Geography isn't just about physical features like mountains or rivers. It
-    also includes human geography, which focuses on people, migration, and population
-    changes. It’s about how these factors interact with physical spaces. Geography
-    is fascinating because it’s connected to the real world — what we study directly
-    influences how we live and interact with our environments.
-  sec: 740
-  time: '12:20'
-  who: Rachel
-- header: Defining a livable city
-- line: So far, we’ve talked about what makes a city livable — parks, pedestrian zones,
-    traffic management, and fostering community. How would you define a livable city?
-  sec: 792
-  time: '13:12'
+- line: "I started learning Italian first. I managed to communicate in the language\
+    \ before diving deeper into its linguistic aspects. I also specialize in Polish\
+    \ linguistics, which felt much more natural since it\u2019s my first language."
+  sec: 904
+  time: '15:04'
+  who: Katarzyna
+- header: Understanding phonetics and morpho-syntax
+- line: "In your biography, summarized by GPT, it mentions that you specialize in\
+    \ phonetics, morpho-syntax, and sentiment analysis. I\u2019m familiar with sentiment\
+    \ analysis, but could you explain what phonetics and morpho-syntax are?"
+  sec: 925
+  time: '15:25'
   who: Alexey
-- line: A livable city is one where people feel connected to their community and have
-    opportunities to thrive. In terms of the built environment, this can include efficient
-    public transport with a well-connected network of buses, trains, and bike-sharing
-    programs. It also means safe, pedestrian-friendly streets with dedicated bike
-    lanes and walkways.
-  sec: 829
-  time: '13:49'
-  who: Rachel
-- line: Other aspects are affordable housing, proximity to essential services, and
-    green spaces. Beyond physical infrastructure, digital infrastructure plays a role
-    too. This includes online access to government services, digital safety, and platforms
-    that connect residents, recognizing that people spend a lot of time in digital
-    spaces now.
-  sec: 829
-  time: '13:49'
-  who: Rachel
-- header: Livability of Singapore and urban planning
-- line: How livable is Singapore, in your opinion? I've never been there, but it's
-    on my list.
-  sec: 930
-  time: '15:30'
+- line: "Sure! Phonetics is the study of sounds in the language system, focusing on\
+    \ how we produce speech. It often intersects with phonology, which explores sounds\
+    \ on a mental level. Morphology, on the other hand, deals with how words are formed\
+    \ and how they interact with one another. In morphologically rich languages like\
+    \ Polish, this includes inflection and the use of prefixes and suffixes. It\u2019\
+    s essential to consider both phonetics and morphology, as many aspects of our\
+    \ speech are interconnected."
+  sec: 947
+  time: '15:47'
+  who: Katarzyna
+- header: Exploring morpho-syntax and its relation to grammar
+- line: So we have linguistics, and within linguistics, we have morphology and phonetics,
+    right?
+  sec: 1048
+  time: '17:28'
   who: Alexey
-- line: Singapore has made significant progress. Initially, we focused on developing
-    housing estates, but now there's a greater emphasis on placemaking — creating
-    spaces where people can gather and enjoy. We're also converting certain streets
-    into car-free zones, improving walkability and cycling infrastructure. It's a
-    journey; some parts of the city are more livable than others, but we're working
-    to expand these spaces.
-  sec: 948
-  time: '15:48'
-  who: Rachel
-- line: Singapore is geographically small and densely populated, so I imagine land
-    use has to be very efficient.
-  sec: 995
-  time: '16:35'
+- line: Yes, we can delve even deeper into other areas like semantics (the meaning
+    of words) and pragmatics (the use of language). However, for today, I believe
+    phonetics and speech are the most relevant.
+  sec: 1054
+  time: '17:34'
+  who: Katarzyna
+- line: "I\u2019m not sure if you answered this already, but what exactly is morpho-syntax?"
+  sec: 1078
+  time: '17:58'
   who: Alexey
-- line: Absolutely. Singapore practices a process called Master Planning, which involves
-    planning 15 years ahead. This ensures that amenities and infrastructure are effectively
-    integrated over time.
-  sec: 1015
-  time: '16:55'
-  who: Rachel
-- line: Interesting. I live in Berlin, and I think the city is fairly livable. It
-    has good public transport, though cycling infrastructure could be improved. In
-    Moscow, it's harder for people with disabilities to get around, whereas Berlin
-    is more accommodating. It’s fascinating to see the practical application of geography
-    and data science. Could you share more about what you do as a transport scientist
-    and now as a data engineer?
-  sec: 1036
-  time: '17:16'
+- line: Morpho-syntax combines morphology and syntax. It studies how words are constructed
+    and how they fit into sentences, which are larger segments of text. There's a
+    strong connection between how we use words and their arrangement in the overall
+    structure.
+  sec: 1083
+  time: '18:03'
+  who: Katarzyna
+- line: How does morpho-syntax relate to grammar? Are they basically the same thing?
+  sec: 1114
+  time: '18:34'
   who: Alexey
-- header: Role of data science in urban and transportation planning
-- line: Planning a city requires deliberate effort, and data science plays a critical
-    role in improving livability by offering insights and supporting data-driven decision-making.
-    By analyzing data collected throughout the city, we can optimize services, enhance
-    public safety, and promote sustainability.
-  sec: 1104
-  time: '18:24'
-  who: Rachel
-- line: In Singapore, we collect a lot of public data, which we share on open data
-    platforms. This enables collaboration with citizen developers, students, and research
-    institutions. Our data sources include transportation data like fare card usage,
-    as well as census and survey data. This helps us understand travel patterns and
-    conduct transport modeling to plan future infrastructure, such as rail lines.
-  sec: 1104
-  time: '18:24'
-  who: Rachel
-- line: We're also increasingly using data from the private sector, like mobility
-    data from ride-sharing apps. This gives us additional insights into how people
-    move around the city, beyond just public transportation.
-  sec: 1104
-  time: '18:24'
-  who: Rachel
-- header: Predicting travel patterns for future transportation needs
-- line: That's interesting because you mentioned predicting where people will move.
-    If I understood correctly, for instance, if more people start moving from one
-    part of Singapore to another, you can anticipate this trend. Maybe a district
-    is becoming more popular, so it's gradually getting more populated. You want to
-    predict these patterns to plan accordingly, right? Like adding a new bus line
-    or increasing the frequency of existing buses?
-  sec: 1231
-  time: '20:31'
+- line: Grammar is linked to both morphology and syntax. When we discuss grammar,
+    we often start with the word itself, looking at its structure and inflection,
+    such as verb conjugation or tense.
+  sec: 1119
+  time: '18:39'
+  who: Katarzyna
+- line: So syntax is a higher-level concept, then? Each word is correctly formed and
+    used, and syntax governs how we arrange them in sentences.
+  sec: 1140
+  time: '19:00'
   who: Alexey
-- line: Yes, that's right. Singapore is quite small, so we actively plan how housing
-    estates will develop. This could involve building new housing estates or renewing
-    and rejuvenating existing areas. By doing so, we can estimate how many people
-    will live in a particular district. From there, we use past travel patterns and
-    data on new modes of transport to predict future movements. This helps us plan
-    ahead for necessary transportation services, such as adding new bus lines or stops
-    to ensure these areas are well-connected to the rest of Singapore.
-  sec: 1269
-  time: '21:09'
-  who: Rachel
-- header: Data collection and processing in transportation systems
-- line: I see. As a data scientist, you can't do much without data. You mentioned
-    various data types, like sensor data, movement patterns, and ride-hailing information.
-    All of this needs to be collected, processed, and analyzed. This must involve
-    having sensors on buses and other physical means of data collection, right? Then,
-    this data needs to be sent to a platform, aggregated, processed, and perhaps stored
-    in a data warehouse for data scientists to use. As a data engineer, you're probably
-    involved in these steps. Can you tell us more about what happens behind the scenes?
-  sec: 1322
-  time: '22:02'
+- line: Exactly. Syntax is all about constructing sentences and how words relate to
+    each other within those sentences.
+  sec: 1158
+  time: '19:18'
+  who: Katarzyna
+- line: "Is syntax also related to word order? For example, in German, the verb must\
+    \ always be in the second position, right? That\u2019s part of syntax, correct?"
+  sec: 1164
+  time: '19:24'
   who: Alexey
-- line: Yes, we work with a combination of data sources. We gather GPS data from ride-hailing
-    companies and public transport, along with fare card information about when and
-    where people are tapping in and out. In our data pipelines, we have an end-to-end
-    system that aggregates this information, stores it in a data warehouse, and processes
-    it so that it's suitable for downstream data analysis. We don't just need real-time
-    data; we also require historical data to do projections. Long-term data allows
-    us to track patterns over time, which is crucial for providing stable and reliable
-    insights.
-  sec: 1381
-  time: '23:01'
-  who: Rachel
-- header: Use of real-time data for traffic management
-- line: Are there situations where you actually need real-time data as well?
-  sec: 1442
-  time: '24:02'
+- line: "Yes, that\u2019s a syntactic pattern."
+  sec: 1174
+  time: '19:34'
+  who: Katarzyna
+- line: "For me, syntax was always associated with programming languages. For instance,\
+    \ in Java, you have to use curly braces. I didn\u2019t realize that the concept\
+    \ originates from linguistics."
+  sec: 1181
+  time: '19:41'
   who: Alexey
-- line: Yes, real-time data is often needed for managing operations. For example,
-    to monitor the reliability of services, real-time data is essential. Another use
-    case is tracking traffic flow during specific events. In Singapore, we host the
-    F1 night race, which takes place on a street circuit, so parts of the roads are
-    closed. We use taxi data as a proxy to understand how traffic is flowing around
-    the closed areas. By monitoring how quickly the GPS coordinates from taxis are
-    moving, we can detect congestion and adjust traffic management strategies accordingly.
-  sec: 1449
-  time: '24:09'
-  who: Rachel
-- line: What actions are taken if there's a traffic jam?
-  sec: 1507
-  time: '25:07'
+- line: "That\u2019s a great example! It illustrates the same patterns we see in both\
+    \ natural languages and programming languages, such as what comes first and what\
+    \ should follow."
+  sec: 1203
+  time: '20:03'
+  who: Katarzyna
+- header: Connection between phonetics and speech disorders
+- line: "When it comes to phonetics, it\u2019s about how we pronounce words, right?"
+  sec: 1233
+  time: '20:33'
   who: Alexey
-- line: It depends on the location. If a traffic jam occurs on an expressway, we have
-    cameras that monitor these areas, pinpointing where the issue is. Recovery services,
-    like tow trucks or other assistance, are dispatched to manage the situation and
-    clear the blockage.
-  sec: 1510
-  time: '25:10'
-  who: Rachel
-- line: So it could involve police officers managing traffic or using other traffic
-    marshals to control the situation?
-  sec: 1529
-  time: '25:29'
+- line: "Exactly, it\u2019s about the production of sounds."
+  sec: 1240
+  time: '20:40'
+  who: Katarzyna
+- line: And we want to discuss speech disorders, so how are phonetics and speech disorders
+    connected?
+  sec: 1242
+  time: '20:42'
   who: Alexey
-- line: Yes, a combination of traffic marshals and recovery services are deployed
-    to clear any blockages and ensure that traffic can flow smoothly again.
-  sec: 1535
-  time: '25:35'
-  who: Rachel
-- line: In Berlin, we often have events like half marathons or marathons that require
-    large streets to be closed for half a day. This can be quite inconvenient for
-    drivers who need to find alternative routes. These events cover large distances,
-    so multiple roads must be blocked. Do you have similar events in Singapore, and
-    how do you handle them?
-  sec: 1545
-  time: '25:45'
+- line: If we speak, it can be in a standard or non-standard manner. Speech disorders
+    are examples of communication disorders. They can affect articulation, meaning
+    the pronunciation of sounds and sound clusters, as well as fluency and voice quality.
+    We might articulate a sound incorrectly, or have issues with fluency, such as
+    interruptions or stuttering. These disorders can lead to difficulties in understanding
+    speech.
+  sec: 1251
+  time: '20:51'
+  who: Katarzyna
+- line: Did I understand correctly that an accent can be seen as a speech disorder,
+    or is it simply a normal variation?
+  sec: 1399
+  time: '23:19'
   who: Alexey
-- line: Yes, we host marathons and similar events in Singapore. These events often
-    use a mix of roads and our network of park connectors, which are pathways that
-    connect different parks and are free of vehicles. This allows most of the marathon
-    routes to take place without significantly disrupting traffic on main roads. The
-    impact on traffic is minimized because only a few roads need to be closed, thanks
-    to these park connectors.
-  sec: 1590
-  time: '26:30'
-  who: Rachel
-- header: Incorporating generative AI into data engineering
-- line: That makes sense. Having connected parks where people can run without needing
-    to wait for traffic lights is an excellent way to make a city more livable. I'm
-    into running myself, and finding a route without having to wait for traffic lights
-    is always a challenge. It's great that Singapore has planned these aspects so
-    well. Do you participate in organizing these events, or are you more focused on
-    transportation in your role?
+- line: "When we talk about foreign accents, we don\u2019t typically classify them\
+    \ as speech disorders. They may lead to comprehension difficulties, but they\u2019\
+    re generally accepted as part of normal variation. Speech disorders, on the other\
+    \ hand, are often linked to biological or neurological causes that hinder normal\
+    \ speech production."
+  sec: 1414
+  time: '23:34'
+  who: Katarzyna
+- header: Improvement of voice recognition systems
+- line: "That\u2019s interesting! I remember that even five years ago, many voice\
+    \ recognition systems struggled to transcribe what I said accurately. For instance,\
+    \ YouTube's transcription was quite poor in the beginning. But now, with systems\
+    \ like Whisper, they work much better with my accent. Perhaps my accent has improved\
+    \ too, but I think the systems have advanced more significantly."
+  sec: 1481
+  time: '24:41'
+  who: Alexey
+- line: "That\u2019s true! The models have improved considerably. Any non-standard\
+    \ speech can present challenges, but we generally don\u2019t view foreign accents\
+    \ as a problem. We can choose to work on them if we want, or embrace our accents\
+    \ as part of our identity. However, discussing speech recognition for disordered\
+    \ speech is very similar to recognizing atypical speech, including child speech,\
+    \ foreign speech, and idiosyncratic pronunciations. Dialects and variations also\
+    \ fall under this category."
+  sec: 1523
+  time: '25:23'
+  who: Katarzyna
+- line: For example, the Scottish accent.
+  sec: 1582
+  time: '26:22'
+  who: Alexey
+- line: Some languages have rich regional varieties, and others do not. In the case
+    of Scottish, a local variant can differ significantly from the so-called standard.
+  sec: 1586
+  time: '26:26'
+  who: Katarzyna
+- line: I remember watching a video from the British Parliament where a representative
+    from Scotland spoke, and nobody could understand him. They asked him to repeat
+    himself several times. It was quite amusing!
+  sec: 1606
+  time: '26:46'
+  who: Alexey
+- line: "In such cases, it\u2019s often best to use the standard version for effective\
+    \ communication, but that\u2019s not always possible. Sometimes, not conveying\
+    \ everything can have its advantages."
   sec: 1626
   time: '27:06'
+  who: Katarzyna
+- header: Overview of speech recognition technology
+- line: "Can we talk about speech recognition? How does it work in general? Before\
+    \ diving into the differences between typical and atypical speech recognition,\
+    \ what\u2019s the proper term to use for standard speech?"
+  sec: 1651
+  time: '27:31'
   who: Alexey
-- line: My role is more focused on transportation. While I don't directly manage these
-    events, I work on data preparation and building data pipelines, ensuring that
-    transportation systems run smoothly. Increasingly, I'm also looking at ways to
-    incorporate generative AI into data engineering, such as enabling users to query
-    databases without needing SQL knowledge.
-  sec: 1679
-  time: '27:59'
-  who: Rachel
-- line: How often do people need to make these types of queries?
-  sec: 1723
-  time: '28:43'
+- line: "That\u2019s a very timely topic, as there\u2019s so much change happening\
+    \ in this area. We have large language models with generative AI. Traditionally,\
+    \ models were trained on precise datasets, typically collected according to a\
+    \ prepared scenario. A good example of standard speech is data collected from\
+    \ speakers like those from the BBC."
+  sec: 1674
+  time: '27:54'
+  who: Katarzyna
+- line: So if we consider British English, that would be a standard reference, right?
+  sec: 1715
+  time: '28:35'
   who: Alexey
-- line: Quite often. As data engineers or scientists, we frequently receive requests
-    to extract data or perform specific analyses. Building tools that allow users
-    to access insights on their own would free up our time for more innovative work.
-    I believe that subject matter experts should drive data science and analysis because
-    they best understand their needs and the problems they want to solve. When problems
-    and requests are passed through multiple people, the original intent can sometimes
-    get diluted. Clear, well-defined problem statements are essential for effective
-    analysis.
-  sec: 1728
-  time: '28:48'
-  who: Rachel
-- line: Who are the people making these requests, usually? I assume they are subject
-    matter experts who aren't necessarily technical, right?
-  sec: 1793
-  time: '29:53'
+- line: "Yes, usually these datasets are designed to reflect standard speech. The\
+    \ systems are trained to map the output of spoken language to the model phrases\
+    \ they were trained on. However, with the advent of large language models, we\
+    \ can incorporate contextual training, which improves recognition. There\u2019\
+    s hope for better recognition of atypical speech as well."
+  sec: 1715
+  time: '28:35'
+  who: Katarzyna
+- line: "Right. It\u2019s important to distinguish between standard and atypical speech."
+  sec: 1734
+  time: '28:54'
   who: Alexey
-- header: Data analysis for transportation policies
-- line: Yes, they could be subject matter experts, like those working in policy-making.
-    They need data to develop data-driven policies.
-  sec: 1809
-  time: '30:09'
-  who: Rachel
-- line: Can you give an example of a policy that might need data analysis?
-  sec: 1821
-  time: '30:21'
+- line: "Yes, and it\u2019s essential to recognize that we all speak atypically at\
+    \ times. Factors like speaking fast or slow can affect clarity. Automatic speech\
+    \ recognition systems are typically trained on data from speakers without speech\
+    \ disorders. Therefore, they can struggle to recognize atypical patterns, which\
+    \ leads to poor accuracy."
+  sec: 1742
+  time: '29:02'
+  who: Katarzyna
+- line: So if I understand correctly, ASR (automatic speech recognition) systems struggle
+    with speech that deviates from what they were trained on.
+  sec: 1812
+  time: '30:12'
   who: Alexey
-- line: Sure, one example is analyzing fare card data to determine appropriate transportation
-    pricing. We might want to know how many people use concession cards, like those
-    for senior citizens or students, to evaluate the effectiveness of a new policy
-    or fare adjustment.
-  sec: 1827
-  time: '30:27'
-  who: Rachel
-- line: What is a concession card?
-  sec: 1871
-  time: '31:11'
+- header: Challenges of ASR systems with atypical speech
+- line: Absolutely. This misalignment between training and real-world usage can lead
+    to significant recognition challenges.
+  sec: 1824
+  time: '30:24'
+  who: Katarzyna
+- line: So what can be done about this?
+  sec: 1833
+  time: '30:33'
   who: Alexey
-- line: A concession card provides discounted fares. In Singapore, for instance, senior
-    citizens and students can use these cards to pay reduced rates on public transportation.
-  sec: 1860
-  time: '31:00'
-  who: Rachel
-- line: So, policy questions might include things like what happens if we increase
-    fares or introduce a new ticket option? For example, in Berlin, there are discounted
-    bundles of tickets. You might need data to predict the impact of similar changes.
-  sec: 1871
-  time: '31:11'
+- header: Strategies for improving recognition of disordered speech
+- line: There are several strategies we can implement. One approach is to collect
+    and curate specialized datasets that include speech from individuals with various
+    disorders, using this as a subset in training. We can also employ transfer learning
+    techniques to adapt models that were trained on standard data for individuals
+    with speech disorders.
+  sec: 1853
+  time: '30:53'
+  who: Katarzyna
+- line: "What if we don\u2019t have such data available?"
+  sec: 2222
+  time: '37:02'
   who: Alexey
-- line: Exactly. In Singapore, we have monthly passes offering unlimited travel for
-    a fixed price, with specific options for students. We might analyze how many students
-    use these passes and how effective they are in encouraging public transport use.
-  sec: 1897
-  time: '31:37'
-  who: Rachel
-- line: And since people need to tap their cards to use transportation, you have all
-    this data. But policy specialists might not know how to query it. Are you working
-    on making this easier for them, perhaps through a chat interface that translates
-    their questions into SQL queries?
-  sec: 1925
-  time: '32:05'
+- header: Data augmentation for training models
+- line: If data collection is challenging, we can utilize data augmentation to expand
+    the training dataset by artificially simulating disordered speech. For example,
+    if we know specific sounds or consonant clusters are problematic, we can create
+    artificial variations.
+  sec: 2227
+  time: '37:07'
+  who: Katarzyna
+- line: "That\u2019s interesting."
+  sec: 2251
+  time: '37:31'
   who: Alexey
-- line: Yes, that's something we're looking to build. It's still in development, but
-    we're working on tools that can help extract information and perform analysis
-    more intuitively, potentially using plain language queries.
-  sec: 1955
-  time: '32:35'
-  who: Rachel
-- line: Is this a project you're actively working on now?
-  sec: 1973
-  time: '32:53'
-  who: Alexey
-- line: Yes, it's one of the projects we're currently focusing on.
-  sec: 1979
-  time: '32:59'
-  who: Rachel
-- header: Technologies used in text-to-SQL projects
-- line: What technologies or approaches are you using for this project? It sounds
-    like a fascinating application of large language models (LLMs), and it might interest
-    our LLM Zoomcamp students to learn about its practical uses.
-  sec: 1999
-  time: '33:19'
-  who: Alexey
-- line: In the text-to-SQL space, we're looking at using metadata from data warehouses
-    and data catalogs. We chunk this information and create a vector database, then
-    apply a large language model (LLM) on top of it. The LLM takes user queries in
-    plain English, translates them into SQL statements, and returns outputs to the
-    users.
-  sec: 2028
-  time: '33:48'
-  who: Rachel
-- line: So, it's like a retrieval-augmented generation (RAG) setup. A user provides
-    a plain English query, and you use context from metadata to generate the SQL query.
-    The LLM then executes the query and returns the results. Is that how it works?
-  sec: 2040
-  time: '34:00'
-  who: Alexey
-- line: Yes, exactly. We use RAG techniques. The metadata helps the LLM understand
-    which tables to refer to for the correct information extraction.
-  sec: 2083
-  time: '34:43'
-  who: Rachel
-- line: How often do the queries generated by this process fail or need correction?
-  sec: 2109
-  time: '35:09'
-  who: Alexey
-- line: I don't have exact numbers, but it does happen. Success largely depends on
-    effective prompt engineering. Providing sufficient examples of text-to-SQL conversions
-    helps guide the LLM. It’s also important to restrict certain types of SQL commands,
-    like insert, update, or delete statements, to prevent unintended database modifications.
-  sec: 2118
-  time: '35:18'
-  who: Rachel
-- header: Handling large datasets and transportation data in Singapore
-- line: That's a fascinating project. I'm always keen to learn about new LLM use cases
-    because there are so many possibilities. It's great that you're exploring this
-    space too. This project is in an early development phase, right?
-  sec: 2172
-  time: '36:12'
-  who: Alexey
-- line: Yes, it’s still in early development.
-  sec: 2190
-  time: '36:30'
-  who: Rachel
-- line: How large are the datasets you're working with for these projects? Besides
-    the text-to-SQL project, are there other more established projects you're involved
-    in? You mentioned transportation data — like fare card data. How large are these
-    datasets?
-  sec: 2192
-  time: '36:32'
-  who: Alexey
-- line: We collect a significant amount of data. For fare card data alone, we gather
-    millions of passenger flow records daily in Singapore. This provides numerous
-    data points for analyzing passenger movements, identifying peak travel times,
-    and assessing route popularity. This data is crucial for optimizing routes and
-    fare structures.
-  sec: 2231
-  time: '37:11'
-  who: Rachel
-- line: For example, in Singapore, the Public Transport Council implemented a "morning
-    pre-peak fare" policy, offering savings for commuters who travel before 7:45 AM.
-    This aims to shift demand away from peak hours, balancing train load and encouraging
-    earlier travel. By analyzing fare card data, we can evaluate the effectiveness
-    of such policies.
-  sec: 2231
-  time: '37:11'
-  who: Rachel
-- line: Regarding these millions of data points you collect, how are they processed?
-    Do you use standard tools like Kafka, data lakes, and data warehouses? Also, how
-    does data from the buses get collected? Are there transmitters on the buses that
-    send data to Kafka or another system?
-  sec: 2314
-  time: '38:34'
-  who: Alexey
-- line: Yes, we have sensors on the buses that collect location information. We also
-    gather data from fare card systems at the entry and exit points.
-  sec: 2344
-  time: '39:04'
-  who: Rachel
-- line: Is this data collected in real-time? For example, the moment I tap my card,
-    does an event get recorded immediately, or is the data only gathered at the end
-    of the day?
-  sec: 2354
-  time: '39:14'
-  who: Alexey
-- line: The data is collected in real-time, but aggregation happens afterward. In
-    Singapore, we use a system that defines a ride and a journey. Our fare structure
-    allows commuters to make multiple transfers within a 45-minute period, which is
-    considered one journey. We calculate fares based on the total distance traveled.
-    So, while data is collected in real-time, processing and aggregation occur after
-    a time lag. This allows us to combine all this information before storing it in
-    a data warehouse. We use tools like Kafka and Apache Spark for processing.
-  sec: 2367
-  time: '39:27'
-  who: Rachel
-- line: So, the events from the bus are sent immediately to your system. You don't
-    need to wait until the bus completes its shift to connect and download the data,
-    right?
+- line: "Another strategy is using multimodal outputs. While we learn from audio,\
+    \ adding visual data\u2014such as lip reading or gesture recognition\u2014"
+  sec: 2253
+  time: '37:33'
+  who: Katarzyna
+- header: Transfer learning in speech recognition
+- line: "Yeah, not yet, of course. But I've worked with images, and in a typical situation,\
+    \ you have an ImageNet neural network trained on ImageNet. Then you have your\
+    \ own data, which could be tractors or anything else not included in ImageNet.\
+    \ You might find tractors there, but also something else. You take, say, 1,000\
+    \ examples and fine-tune your network that was trained previously on ImageNet.\
+    \ The same process applies to speech. There is a model trained on standard data,\
+    \ and then you collect disordered speech. It doesn\u2019t have to be a very large\
+    \ sample, like with images, and you apply transfer learning to fine-tune your\
+    \ model, right?"
   sec: 2417
   time: '40:17'
   who: Alexey
-- line: Yes, that's correct.
-  sec: 2436
-  time: '40:36'
-  who: Rachel
-- line: That's great. You use Kafka, Apache Spark, and other common tools in data
-    engineering, right?
-  sec: 2440
-  time: '40:40'
+- line: "You mentioned data collection, and I said it\u2019s not always easy because\
+    \ of the variety of speech disorders. For people with motor speech disorders,\
+    \ it can be challenging to organize the entire collection process. Also, considering\
+    \ we\u2019re dealing with health issues, GDPR regulations come into play. It would\
+    \ be ideal for research purposes to have large corpora of disordered speech."
+  sec: 2470
+  time: '41:10'
+  who: Katarzyna
+- line: "In terms of transfer learning, we don\u2019t need a lot of data. A few hundred\
+    \ examples are usually sufficient to get started, at least with images."
+  sec: 2515
+  time: '41:55'
   who: Alexey
-- line: Yes, that's right.
-  sec: 2448
-  time: '40:48'
-  who: Rachel
-- line: Have you ever had to go on a bus to fix a sensor?
-  sec: 2460
-  time: '41:00'
+- line: Indeed. However, when we consider different disorders, languages, and non-English
+    languages, the volume of data needed becomes substantial.
+  sec: 2529
+  time: '42:09'
+  who: Katarzyna
+- header: Challenges of collecting data for various speech disorders
+- line: "You need to account for each subset. For instance, stammering is a relatively\
+    \ common disorder. It might not be too difficult to gather data from American\
+    \ English speakers who stammer. But if we look at a particular dialect or a less\
+    \ common language\u2014"
+  sec: 2538
+  time: '42:18'
   who: Alexey
-- line: No, I haven't needed to do that.
-  sec: 2464
-  time: '41:04'
-  who: Rachel
-- line: So, the sensors are quite reliable, right?
-  sec: 2468
-  time: '41:08'
+- line: For example, take a language that isn't widely spoken.
+  sec: 2567
+  time: '42:47'
+  who: Katarzyna
+- line: That's a good example. An interesting case is bilingual individuals, as studies
+    show stammering can occur in one language and not in another. This is linked to
+    specific semantic clusters or syllables that may be more common in one language
+    than in another.
+  sec: 2568
+  time: '42:48'
   who: Alexey
-- line: Yes, generally they are reliable. However, part of data engineering involves
-    detecting data quality issues or anomalies. For instance, if a transponder on
-    a bus isn’t sending data correctly, we need to identify that issue. While I haven't
-    personally gone to a bus to fix a sensor, maintaining data quality is a critical
-    aspect of data engineering.
-  sec: 2468
-  time: '41:08'
-  who: Rachel
-- line: I'm considering whether to dive deeper into traditional data engineering topics
-    or explore generative AI applications. What would you like to focus on next?
-  sec: 2506
-  time: '41:46'
+- line: There are significant differences in these cases.
+  sec: 2611
+  time: '43:31'
+  who: Katarzyna
+- line: "Exactly. I sometimes experience this myself. Maybe it\u2019s because I'm\
+    \ thinking about what to say next, and then I start stammering. It doesn\u2019\
+    t happen often, but I\u2019ve noticed it happening to others, too."
+  sec: 2633
+  time: '43:53'
   who: Alexey
-- line: We could go more into how AI is being used.
-  sec: 2531
-  time: '42:11'
-  who: Rachel
-- header: Generative AI applications beyond text-to-SQL
-- line: Do you have other AI applications besides the text-to-SQL tool?
-  sec: 2537
-  time: '42:17'
+- header: Stammering and its connection to fluency issues
+- line: Fluency issues are normal human behaviors, but stammering should be diagnosed
+    as it differs from what most of us experience. Fluency is more common when using
+    a foreign language; we often need time to find the right words.
+  sec: 2671
+  time: '44:31'
+  who: Katarzyna
+- line: With stammering, individuals know what they want to say, but they struggle
+    with certain sequences of sounds.
+  sec: 2683
+  time: '44:43'
   who: Alexey
-- line: The text-to-SQL tool is my main focus right now. However, generative AI has
-    other potential applications, such as creating synthetic data. In projects where
-    we don't have a full data set, generative AI could help generate synthetic data.
-    Additionally, I believe generative AI could redefine user interfaces, making information
-    retrieval more conversational and intuitive, moving away from traditional keyword
-    searches to semantic searches. This approach could change how people search for
-    things, not just in e-commerce but in various domains, like planning what to buy
-    for a gift.
-  sec: 2548
-  time: '42:28'
-  who: Rachel
-- line: I'm becoming more accustomed to using tools like ChatGPT with voice recognition.
-    It's very convenient. Regarding synthetic data, how effective is generative AI
-    at creating data, especially numerical data or time series data?
-  sec: 2635
-  time: '43:55'
+- line: "Yes, it can block speech at the beginning of a sentence, while the rest flows\
+    \ fine. Sometimes, it\u2019s linked to specific consonant clusters that are tough\
+    \ to pronounce. If a language has many of these, like English or Polish, it can\
+    \ be challenging."
+  sec: 2688
+  time: '44:48'
+  who: Katarzyna
+- header: Polish consonant combinations and pronunciation challenges
+- line: "Polish does have many challenging consonant combinations. I recall a funny\
+    \ story from Krakow about a central street called \"Czarnowiejska.\" It's packed\
+    \ with consonants, and it\u2019s always amusing to see a British person trying\
+    \ to pronounce it."
+  sec: 2716
+  time: '45:16'
   who: Alexey
-- line: I was speaking generally about the potential of generative AI for creating
-    synthetic data, especially when dealing with complex or sensitive data sets. Generative
-    AI could help create synthetic versions that mask confidential information while
-    retaining essential characteristics.
-  sec: 2682
-  time: '44:42'
-  who: Rachel
-- header: Publishing public data and maintaining privacy
-- line: Since Singapore releases a lot of public data on open platforms, sometimes
-    you might need to edit this data before publishing it, right?
-  sec: 2726
-  time: '45:26'
+- line: "Exactly! There\u2019s a trick with certain sounds, where two consonants together\
+    \ create one sound. This can make pronunciation tricky."
+  sec: 2751
+  time: '45:51'
+  who: Katarzyna
+- header: Use of Amazon Transcribe for generating podcast transcripts
+- line: By the way, I use automatic speech recognition for podcast episodes after
+    recording. I utilize Amazon Transcribe, which is supposed to recognize English.
+  sec: 2777
+  time: '46:17'
   who: Alexey
-- line: The current publicly shared data is collected from various systems, and we
-    mask sensitive information, such as fare card numbers, before publishing.
-  sec: 2740
-  time: '45:40'
-  who: Rachel
-- header: Recommended datasets and projects for data engineering beginners
-- line: Where can people find this public data?
-  sec: 2752
-  time: '45:52'
+- line: "So, you\u2019re using that for generating transcripts?"
+  sec: 2792
+  time: '46:32'
+  who: Katarzyna
+- line: "Yes, but it expects English. Then, all of a sudden, I might throw in a Polish\
+    \ word, like \"sensu.\" I think it\u2019s interesting how LMs are being used more\
+    \ frequently in this area. I do this as well. After getting the output from Amazon\
+    \ Transcribe, I feed that into an LM or an LLM. Even if the transcriber misses\
+    \ something, the LLM, using the surrounding context, can often correct it."
+  sec: 2794
+  time: '46:34'
   who: Alexey
-- line: 'Two main platforms provide public data in Singapore: data.gov.sg and DataMall.
-    Data.gov.sg aggregates data from various government bodies, covering areas like
-    rainfall, air pollution, transportation, and more.'
-  sec: 2760
-  time: '46:00'
-  who: Rachel
-- line: There are categories like arts, education, economy, environment, housing,
-    health, social, transport, and real-time APIs. I assume I should look under the
-    transport category to find relevant data, right?
-  sec: 2780
-  time: '46:20'
+- header: Role of language models in speech recognition
+- line: Absolutely. LMs can assist at various levels. Adding context is crucial for
+    recognition and transcription. We should focus more on meaning preservation rather
+    than traditional metrics like word error rate or accuracy.
+  sec: 2848
+  time: '47:28'
+  who: Katarzyna
+- header: Contextual understanding in speech recognition
+- line: That makes sense. In my case, I had an interview about Scikit-learn. Many
+    in the machine learning community know it, but the speech recognition system struggled
+    to identify it correctly, especially since I was speaking with a French accent.
+    However, because we provided context in our discussion, the LLM was able to infer
+    the correct term.
+  sec: 2959
+  time: '49:19'
   who: Alexey
-- line: Yes, you’ll find transportation data, such as air travel and geospatial information,
-    under the transport category.
-  sec: 2801
-  time: '46:41'
-  who: Rachel
-- line: If someone is starting the next cohort of a data engineering course in January,
-    what kinds of projects would you recommend they try using these data sets?
-  sec: 2810
-  time: '46:50'
+- line: "That's a fantastic example! This two-step process\u2014first speech recognition\
+    \ and then using an LM\u2014works well. There are also models that can integrate\
+    \ both steps into one."
+  sec: 3029
+  time: '50:29'
+  who: Katarzyna
+- header: How voice recognition systems analyze utterances
+- line: "I suppose it\u2019s about understanding how voice recognition systems operate.\
+    \ They analyze utterances, right?"
+  sec: 3087
+  time: '51:27'
   who: Alexey
-- line: One useful data set could be car parking data, as we collect real-time parking
-    transaction data. It's a large and dynamic data set, ideal for real-time data
-    ingestion, storage in a data warehouse or data lake, and subsequent analysis.
-  sec: 2825
-  time: '47:05'
-  who: Rachel
-- line: How do I find the car parking data?
-  sec: 2856
-  time: '47:36'
+- line: It can be anything; it can be a word, it can be a phrase. A phoneme is what...
+  sec: 3104
+  time: '51:44'
+  who: Katarzyna
+- line: One sound, but like a word that I say, an utterance, right? For example, I
+    have a disorder; I say "whiskey" instead of "whiskey." If I have a language model
+    in my voice recognition system, it can understand from the context that I'm not
+    talking about the alcoholic beverage, but rather about something that carries
+    a lot of risk. Because it has access to the other words, the goal of a language
+    model is to predict the next word based on the context. We can utilize language
+    models, and we probably do, in voice recognition systems, right?
+  sec: 3110
+  time: '51:50'
   who: Alexey
-- line: Car parking data is typically part of our dynamic data sets.
-  sec: 2867
-  time: '47:47'
-  who: Rachel
-- line: There are real-time APIs. Maybe that’s what I need to look for. Could you
-    send me the link later?
-  sec: 2871
-  time: '47:51'
+- line: "It can be trained to predict it or, in post-processing, it can say, \"Okay,\
+    \ it\u2019s strange that it\u2019s in this context; it should be something else.\"\
+    \ All predictions we make are what happens next, as LLMs do. It can indicate that\
+    \ \"risky\" should come instead of the beverage from your example. So, it can\
+    \ be done before and also at the second step. One thing that came to my mind now,\
+    \ if we still have time, is that ASR models can also be personalized for specific\
+    \ individuals with specific disorders. In this case, this first stage, the training,\
+    \ and preparing the model to expect atypical productions or articulations can\
+    \ be done. It\u2019s a bit different if we want to have a model that recognizes\
+    \ both standard speech and atypical productions."
+  sec: 3151
+  time: '52:31'
   who: Alexey
-- line: Sure, I can send it to you. Another valuable data set is real-time taxi data,
-    which can be useful for examining data engineering processes. In previous data
-    engineering courses, we used the New York taxi data set, which is aggregated.
-    Real-time data offers another layer of complexity and learning opportunities.
-  sec: 2888
-  time: '48:08'
-  who: Rachel
-- line: I see public transport capacity, taxi population data, and more, some of which
-    are updated regularly. You've sent me another link, right?
-  sec: 2915
-  time: '48:35'
+- header: Personalization of ASR models for individuals
+- line: I guess with personalization, the way it works is I first need to train it
+    as a user. It asks me, "Hey, can you pronounce this sentence?" I record myself
+    saying the sentence, and then it asks me to pronounce something else. I do this
+    for about ten sentences, and then it builds a model tailored specifically to the
+    way I speak.
+  sec: 3245
+  time: '54:05'
+  who: Katarzyna
+- line: Individual speaking features, yes, tailored to your style of speaking.
+  sec: 3275
+  time: '54:35'
   who: Alexey
-- line: Yes, I've sent another link, specifically for transportation data under the
-    dynamic data sets, including real-time taxi availability and parking information.
-  sec: 2943
-  time: '49:03'
-  who: Rachel
-- header: Recommended resources for learning urban data science
-- line: Great, I'll add this link to our description. Thanks. I don't see any questions
-    from the audience at the moment. I'm wondering if someone wants to study what
-    you do — urban data science and transport planning — what resources, books, or
-    courses would you recommend?
-  sec: 2956
-  time: '49:16'
+- line: "There was a system like that before Whisper existed. I think I even tried\
+    \ it. But now with Whisper, it\u2019s doing such a good job. I use it in ChatGPT;\
+    \ when I dictate whatever I want, it recognizes it, and even if it misunderstands\
+    \ something, ChatGPT figures out what I want. So it's quite convenient."
+  sec: 3282
+  time: '54:42'
+  who: Katarzyna
+- line: "Amazing! But, I know, it\u2019s a bit terrifying. It knows me so well\u2014\
+    maybe better than I know myself!"
+  sec: 3313
+  time: '55:13'
   who: Alexey
-- line: 'The courses by DataTalks.Club are a good primer. For a deeper understanding
-    of urban data science, the book "The Death and Life of Great American Cities"
-    by Jane Jacobs is a classic. It critiques traditional urban planning and advocates
-    for vibrant, livable cities through community-based approaches and human-scale
-    design. Another book is "Happy City: Transforming Our Lives Through Urban Design"
-    by Charles Montgomery. This book blends urban planning with psychology and sociology,
-    exploring how thoughtful urban design can improve happiness and well-being. Both
-    books offer insights into why we study urban data and plan cities thoughtfully.'
-  sec: 3022
-  time: '50:22'
-  who: Rachel
-- line: Those sound interesting. The first one is "The Death and Life of Great American
-    Cities," and the second is "Happy City," right?
-  sec: 3102
-  time: '51:42'
+- line: "I assume that when we talk about speech disorders\u2014not accents or similar\
+    \ issues\u2014having a personalized model is quite useful, right?"
+  sec: 3323
+  time: '55:23'
+  who: Katarzyna
+- line: "Of course. Especially when it\u2019s difficult for you to use standard models.\
+    \ The personalized one can be a tool for communication. Today, we also discussed\
+    \ speech disorders, but there are also language disorders, especially as a result\
+    \ of neurological diseases, where individuals struggle to find the right words\
+    \ or use words in context. These issues are more connected to the content itself\
+    \ than to articulation."
+  sec: 3339
+  time: '55:39'
   who: Alexey
-- line: Yes, that's correct.
-  sec: 3120
-  time: '52:00'
-  who: Rachel
-- line: I remember visiting the United States, where getting around without a car
-    is challenging, except in cities like New York or Boston. It would be great if
-    some of the practices from Europe or Singapore were implemented there. I recall
-    once being picked up by the police while walking down a road without sidewalks
-    because I wasn't used to the idea that you need a car to move around.
-  sec: 3125
-  time: '52:05'
+- header: Language disorders and their impact on communication
+- line: How does it work? For example, if I have a disorder, I cannot pronounce a
+    specific word?
+  sec: 3385
+  time: '56:25'
+  who: Katarzyna
+- line: You might not remember the right word in context, for example.
+  sec: 3393
+  time: '56:33'
   who: Alexey
-- line: That's quite amusing!
-  sec: 3160
-  time: '52:40'
-  who: Rachel
-- line: Anyway, Rachel, thank you so much for joining us today and sharing your experiences.
-    I’ve learned a lot. These topics were new to me, and it was enlightening to hear
-    about your work. Thanks for being here, and thanks to everyone else who joined
-    us today. This was our first episode after a break, and it was a great start.
-  sec: 3162
-  time: '52:42'
+- line: That happens to me all the time.
+  sec: 3399
+  time: '56:39'
+  who: Katarzyna
+- line: Yes, it occurs to all of us from time to time.
+  sec: 3402
+  time: '56:42'
+  who: Katarzyna
+- line: Especially in foreign languages.
+  sec: 3406
+  time: '56:46'
   who: Alexey
-- line: Thank you for having me.
-  sec: 3189
-  time: '53:09'
-  who: Rachel
-- line: I'm happy to hear about your transition to data engineering and that our course
-    helped. It means a lot to see success stories like yours. Thanks again!
-  sec: 3191
-  time: '53:11'
+- line: If it happens too frequently, it can become problematic.
+  sec: 3407
+  time: '56:47'
+  who: Katarzyna
+- line: "When it happens in your native language and interferes with your daily life,\
+    \ then it\u2019s a problem."
+  sec: 3412
+  time: '56:52'
   who: Alexey
-- line: Thank you.
-  sec: 3206
-  time: '53:26'
-  who: Rachel
-- line: Have a wonderful rest of your day, Rachel, and to everyone else — see you
-    around!
-  sec: 3208
-  time: '53:28'
+- line: "Absolutely. Then it\u2019s a real issue because stuttering and other speech\
+    \ problems can occur to anyone, and that\u2019s completely natural. However, if\
+    \ it becomes excessive, it leads to communication problems."
+  sec: 3419
+  time: '56:59'
+  who: Katarzyna
+- line: 'Maybe this is something I should have asked you at the beginning: how do
+    we actually use this? What are the applications? I might guess, given your work
+    with the automotive industry, that what we discussed could be used in cars. Can
+    you provide some examples?'
+  sec: 3444
+  time: '57:24'
   who: Alexey
+- line: When you ask me about where speech recognition models can be used...
+  sec: 3470
+  time: '57:50'
+  who: Katarzyna
+- line: Especially regarding disorders.
+  sec: 3478
+  time: '57:58'
+  who: Alexey
+- header: Applications of speech recognition technology
+- line: "Of course, in cars. But that wouldn\u2019t be my first answer for people\
+    \ with speech disorders. It can be used as a communication tool because sometimes\
+    \ it\u2019s hard for humans to understand atypical speech. A pre-trained, personalized\
+    \ model can do this more easily. So that would be my primary answer, as I think\
+    \ that\u2019s the most important application today."
+  sec: 3480
+  time: '58:00'
+  who: Katarzyna
+- line: How does it look in practice? Like, let's say I have an app on my phone, and
+    I speak to the app, and then I show the result to someone I want to communicate
+    with.
+  sec: 3527
+  time: '58:47'
+  who: Alexey
+- line: "For example, it's not common yet\u2014common enough, but we're talking today\
+    \ about..."
+  sec: 3540
+  time: '59:00'
+  who: Katarzyna
+- line: I do this all the time with German.
+  sec: 3544
+  time: '59:04'
+  who: Alexey
+- line: "But we are not\u2014 I think you see any serious pronunciation problems in\
+    \ your case. We are discussing human-centered AI today, and yeah, AI shouldn't\
+    \ be the obvious one. The number of centers that dedicate their work to human-centered\
+    \ AI proves that this is an important topic and not obvious for everyone. Human\
+    \ needs should come first. It's not yet standard to give each person with serious\
+    \ disorders this kind of tool. But I think there is hope."
+  sec: 3549
+  time: '59:09'
+  who: Katarzyna
+- line: What you're working on right now to make it possible.
+  sec: 3595
+  time: '59:55'
+  who: Alexey
+- line: Yes, that's one small step. But...
+  sec: 3598
+  time: '59:58'
+  who: Katarzyna
+- line: "Are these models heavy? Because especially when it comes to personalized\
+    \ models and fine-tuning\u2014if we talk about mobile devices, then these apps\
+    \ need to run on devices, and not everyone has the latest iPhone Pro. They have\
+    \ to be conservative regarding resource consumption. I guess that's quite challenging."
+  sec: 3602
+  time: '1:00:02'
+  who: Alexey
+- header: Challenges of personalized and universal models
+- line: "It's a challenge. One is creating a personalized model for a person\u2014\
+    that's quite doable. But creating one that can be universal for many speech disorders\
+    \ makes things much more complicated. We\u2019ll probably include some readings\
+    \ in the episode description. There are some studies from Asia for Korean and\
+    \ Chinese that managed to create such tools. We often talk about European languages,\
+    \ but let\u2019s not forget about what\u2019s happening a bit farther away from\
+    \ us."
+  sec: 3634
+  time: '1:00:34'
+  who: Katarzyna
+- header: Voice recognition in automotive applications
+- line: And when it comes to cars, how is it used? How is voice recognition used in
+    cars? Like, play Spotify with Alexa or...?
+  sec: 3683
+  time: '1:01:23'
+  who: Alexey
+- line: Yeah, you can ask it to behave in a certain manner. For example, if it...
+  sec: 3696
+  time: '1:01:36'
+  who: Katarzyna
+- line: If I cannot pronounce "R," then please park, and the car has no idea what
+    I'm talking about.
+  sec: 3708
+  time: '1:01:48'
+  who: Alexey
+- line: "And it's parking, and it's parking! Everything you need and what is planned\
+    \ by the producers and car designers includes opening the windows, air conditioning,\
+    \ seat heating, steering wheel heating, radio, calling, etc. That\u2019s also\
+    \ an interesting example\u2014not for disordered speech but for recognition in\
+    \ general. For years, it was part of IR systems that developed a bit slower because\
+    \ the purpose was to make it work all by itself, even when not connected to the\
+    \ internet. So these built-in systems were more traditional, based on n-grams.\
+    \ Now things are changing, and LLMs are being introduced, so recognition is improving.\
+    \ Still, there are many videos on YouTube with Porsche drivers and others trying\
+    \ to convince their cars in Polish, Italian, Spanish, etc., to do something, and\
+    \ the cars are doing completely different things. So there is so much work to\
+    \ be done."
+  sec: 3713
+  time: '1:01:53'
+  who: Katarzyna
+- header: Humorous voice recognition failures in cars
+- line: "There\u2019s this hilarious video with two Scottish guys trying to go to\
+    \ the 11th floor in an elevator using voice recognition. Have you seen that?"
+  sec: 3807
+  time: '1:03:27'
+  who: Alexey
+- line: No, you have to send it to me!
+  sec: 3817
+  time: '1:03:37'
+  who: Katarzyna
+- line: "I\u2019ll send it if you just Google..."
+  sec: 3820
+  time: '1:03:40'
+  who: Alexey
+- line: "Alex, we\u2019ll put it in the post like the icing on the cake."
+  sec: 3822
+  time: '1:03:42'
+  who: Katarzyna
+- line: "If I just Google \"11 elevator,\" then there\u2019s a video. I\u2019ll include\
+    \ this in the description; it's amazing. So, I think we\u2019ll run out of time."
+  sec: 3832
+  time: '1:03:52'
+  who: Alexey
+- line: Sorry, but it was fantastic!
+  sec: 3850
+  time: '1:04:10'
+  who: Katarzyna
+- header: Closing remarks and reflections on the discussion
+- line: "I think we covered only three questions out of\u2014I don\u2019t know how\
+    \ many we prepared, but it was..."
+  sec: 3853
+  time: '1:04:13'
+  who: Alexey
+- line: "I think that's good! There\u2019s still something to think about, something\
+    \ to read, to dive deeper into."
+  sec: 3858
+  time: '1:04:18'
+  who: Katarzyna
+- line: "I\u2019m going to send the video to you right now. Then for the rest, I'll\
+    \ send it to Zoom, and I will also put it on YouTube. That should be a good way\
+    \ to end this interview today. There\u2019s still so much to discuss. I think\
+    \ this video is like ten years old, if not more. You probably know the systems\
+    \ are better now."
+  sec: 3867
+  time: '1:04:27'
+  who: Alexey
+- line: "Ten years old and it\u2019s still valid. We still have the same problems.\
+    \ I think the situation is a bit better, but probably such things still happen."
+  sec: 3898
+  time: '1:04:58'
+  who: Katarzyna
+- line: Thanks, Kasha, for joining us today, for answering questions, and for sharing
+    your experience and what you work on. That was amazing! I really enjoyed this,
+    and I'm sure everyone else did too.
+  sec: 3913
+  time: '1:05:13'
+  who: Alexey
+- line: Thank you. Thank you for the invitation, and really congratulations on the
+    great series of podcasts, but also for the fantastic platform that you created.
+    I feel really impressed, and as I said at the beginning, I feel honored to be
+    here.
+  sec: 3925
+  time: '1:05:25'
+  who: Katarzyna
+
+
 ---
 
 Links:
