@@ -1,8 +1,9 @@
 ---
 authors:
 - pauliusztin
+- maximelabonne
 cover: images/books/20241104-llm-engineer-s-handbook/cover.jpg
-description: Book of the Week. LLM Engineer's Handbook by Paul Iusztin
+description: Book of the Week. LLM Engineer's Handbook by Paul Iusztin and Maxime Labonne
 end: 2024-11-08 23:59:59
 image: images/books/20241104-llm-engineer-s-handbook/preview.jpg
 links:
