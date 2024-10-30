@@ -4,6 +4,7 @@
   speakers: [alexeygrigorev]
   type: podcast
   link: https://lu.ma/0mpu5d4a
+  youtube: https://www.youtube.com/watch?v=GHbeXIKnkLQ
 
 
 - time: 2024-10-24 17:00:00
@@ -11,6 +12,7 @@
   speakers: [anastasiakaravdina]
   type: podcast
   link: https://lu.ma/4kse1c8k
+  youtube: https://www.youtube.com/watch?v=kV0ZDy2UtJA
 
 
 - time: 2024-11-04 17:00:00
@@ -67,11 +69,13 @@
   youtube: https://www.youtube.com/watch?v=HzGpIxV8HtA
 
 
-- time: 2024-07-10 17:00:00
+- time: 2024-10-23 17:00:00
   title: "MLOps as a Team"
   speakers: [raphaelhoogvliets]
   type: podcast
   link: https://lu.ma/y9wwu7i7
+  youtube: https://www.youtube.com/watch?v=HzGpIxV8HtA
+
 
 
 - time: 2024-06-27 17:00:00
