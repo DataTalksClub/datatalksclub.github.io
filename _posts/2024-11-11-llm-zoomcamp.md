@@ -187,7 +187,7 @@ For instance, in one of the lectures about a linear algebra refresher, the lectu
 
 ### Homework and getting feedback
 
-## <figure>
+<figure>
 <img src="/images/posts/2024-11-11-llm-zoomcamp/image6.png"  />
 <figcaption>Examples of the homework assignments from 2024 cohort of the LLM Zoomcamp</figcaption>
 </figure>
