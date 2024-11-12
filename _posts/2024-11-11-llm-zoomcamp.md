@@ -33,7 +33,7 @@ We will cover different aspects of this course so you can learn more about it:
 
 ## Who is the course for?
 
-Before we get into the details, it’s important to know what skills you should have to join the course comfortably.
+Before we get into the details, it’s important to know what skills you should have to comfortably join the course.
 
 Here are the main prerequisites for the course:
 
@@ -56,7 +56,7 @@ Here are the main prerequisites for the course:
 
 
 
-Let's quickly go over each week, focusing on the main points and the tech you'll use.
+Let's quickly review each module, focusing on the main points and the tech you'll use.
 
 ### Module 1: Introduction to LLMs and RAG
 
@@ -122,7 +122,7 @@ You will learn to:
 -   Perform offline evaluations of your RAG pipeline
 -   Use Cosine Similarity and LLM-as-a-Judge metrics to assess retrieval
 -   Track chat history and collect user feedback for iterative improvement
--   Build Grafana dashboards to monitor performance in real time
+-   Build Grafana dashboards to monitor performance in real-time
 
 
 
@@ -147,7 +147,7 @@ You will learn to:
 -   Apply best practices to optimize your RAG pipeline
 -   Use hybrid search techniques to increase retrieval accuracy
 -   Implement document reranking to enhance search results
--   Set up hybrid search with LangChain for advanced retrieval tasks
+-   Set up a hybrid search with LangChain for advanced retrieval tasks
 
 
 
@@ -166,9 +166,7 @@ You will learn to:
 -   Practice preprocessing text data for specific use cases
 -   Apply learned techniques in a real-world project
 
-
-
-The [course description](https://github.com/DataTalksClub/llm-zoomcamp){:target="_blank"} on GitHub provides a detailed overview of the topics covered each week. You can see the video lectures, slides, code, and community notes for each week of the course to dive into the content. By the end of the course, you will have acquired the fundamental skills necessary for a career as a data engineer.
+The [course description](https://github.com/DataTalksClub/llm-zoomcamp){:target="_blank"} on GitHub provides a detailed overview of the topics covered each module. To dive into the content, you can see the video lectures, slides, code, and community notes for each course module.
 
 > If you’re ready to join the next cohort of the course, submit this [form](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q){:target="_blank"} to register and stay updated.
 
@@ -189,7 +187,7 @@ For instance, in one of the lectures about a linear algebra refresher, the lectu
 
 <figure>
 <img src="/images/posts/2024-11-11-llm-zoomcamp/image6.png"  />
-<figcaption>Examples of the homework assignments from 2024 cohort of the LLM Zoomcamp</figcaption>
+<figcaption>Examples of the homework assignments from the 2024 cohort of the LLM Zoomcamp</figcaption>
 </figure>
 
 To reinforce your learning, we offer regular homework assignments. Your scores are added to a [leaderboard](https://courses.datatalks.club/llm-zoomcamp-2024/leaderboard){:target="_blank"}, creating friendly competition among course members and motivating you to do your best.
@@ -209,7 +207,7 @@ For support, we have an [FAQ](https://docs.google.com/document/d/1m2KexowAXTmexf
 
 ### Learning in public approach
 
-A unique feature is our "learning in public" approach, inspired by [Shawn @swyx Wang](https://www.youtube.com/watch?v=tkBCPqWKCL8&list=PL7NIGf5_PlM-Dk3lgPsZFT94Ng7PpRQEh&index=5&t=195s){:target="_blank"}'s [article](https://www.swyx.io/learn-in-public){:target="_blank"}. We believe that everyone has something valuable to contribute, regardless of their expertise level.
+A unique feature is our "learning in public" approach, inspired by [Shawn @swyx Wang](https://www.youtube.com/watch?v=tkBCPqWKCL8&list=PL7NIGf5_PlM-Dk3lgPsZFT94Ng7PpRQEh&index=5&t=195s){:target="_blank"}'s [article](https://www.swyx.io/learn-in-public){:target="_blank"}. We believe everyone has something valuable to contribute, regardless of their expertise level.
 
 <figure>
 <img src="/images/posts/2024-11-11-llm-zoomcamp/image10.png"  />
@@ -240,7 +238,7 @@ DataTalks.Club has a supportive community of like-minded individuals in [our Sla
 
 ## Conclusion
 
-LLM Zoomcamp is a structured and practical introduction to applying Large Language Models in real-world contexts. Over the course of 10 weeks, you gain hands-on experience, from setting up retrieval systems to building a complete RAG application.
+LLM Zoomcamp is a structured and practical introduction to applying Large Language Models in real-world contexts. Over 10 weeks, you gain hands-on experience, from setting up retrieval systems to building a complete RAG application.
 
 Each module is crafted to build useful skills step-by-step, ensuring you can put what you learn into practice. If you’re interested in learning about and applying LLMs, joining the next cohort is a good way to start.
 
