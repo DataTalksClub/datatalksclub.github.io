@@ -12,7 +12,7 @@
   speakers: [isabellabicalho]
   type: podcast
   link: https://lu.ma/wv1rajku
-  youtube:https://www.youtube.com/watch?v=GifY8Zn-pnU
+  youtube: https://www.youtube.com/watch?v=GifY8Zn-pnU
 
 - time: 2024-11-25 17:00:00
   title: "Applied Causal Inference "
@@ -33,7 +33,7 @@
   speakers: [ivanbrigida]
   type: workshop
   link: https://lu.ma/kwlnw4jo
-
+  youtube: https://www.youtube.com/watch?v=MeDUe75WQaQ
 
 - time: 2024-11-11 17:00:00
   title: "Ubuntu for AI/ML projects"
