@@ -1,6 +1,6 @@
 
 - time: 2024-12-09 17:00:00
-  title: " Elevating RAG Systems "
+  title: "Elevating RAG Systems"
   speakers: [apurvamisra]
   type: webinar
   link: https://lu.ma/ixaaq7ye
@@ -22,14 +22,14 @@
   youtube: https://www.youtube.com/watch?v=GifY8Zn-pnU
 
 - time: 2024-01-28 17:00:00
-  title: "Applied Causal Inference "
+  title: "Applied Causal Inference"
   speakers: [irinabrudaru]
   type: webinar
   link: https://lu.ma/4lzktvbz
 
 
 - time: 2024-12-10 17:00:00
-  title: "Linguistics and Fairness "
+  title: "Linguistics and Fairness"
   speakers: [tamaraatanasoska]
   type: podcast
   link: https://lu.ma/1ggund44 
@@ -41,12 +41,6 @@
   type: workshop
   link: https://lu.ma/kwlnw4jo
   youtube: https://www.youtube.com/watch?v=MeDUe75WQaQ
-
-- time: 2024-11-11 17:00:00
-  title: "Ubuntu for AI/ML projects"
-  speakers: [andreeamunteanu]
-  type: podcast
-  link: https://lu.ma/c5qa10su
 
 
 - time: 2024-09-26 17:00:00
@@ -64,14 +58,12 @@
   link: https://lu.ma/4kse1c8k
   youtube: https://www.youtube.com/watch?v=kV0ZDy2UtJA
 
-
 - time: 2024-11-04 17:00:00
   title: "AI in Industry: Trust, Return on Investment and Future"
   speakers: [mariasukhareva]
   type: podcast
   link: https://lu.ma/w6krcdf8
   youtube: https://www.youtube.com/watch?v=bT7-HRNCltk
-
 
 - time: 2024-09-16 17:00:00
   title: "Human-Centered AI for Disordered Speech Recognition"
