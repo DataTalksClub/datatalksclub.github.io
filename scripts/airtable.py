@@ -70,7 +70,7 @@ def mark_record_processed(table, record_id):
 def process_person(record):
     fields = record['fields']
 
-    email = fields['email']
+    email = fields['email'].strip()
 
     name = fields['name']
     name = utils.clean_name(name)
@@ -93,9 +93,9 @@ def process_person(record):
 
     if 'picture' in fields:
         picture_record = fields['picture'][0]
-        image_location = picture_record['url']
+        image_location = picture_record['url'].strip()
     elif 'picture_url' in fields:
-        image_location = fields['picture_url']
+        image_location = fields['picture_url'].strip()
     else:
         raise Exception('no image')
 
@@ -213,9 +213,9 @@ def process_book(record):
 
     if 'book_cover' in fields:
         picture_record = fields['book_cover'][0]
-        image_location = picture_record['url']
+        image_location = picture_record['url'].strip()
     elif 'book_cover_url' in fields:
-        image_location = fields['book_cover_url']
+        image_location = fields['book_cover_url'].strip()
     else:
         raise Exception('no image')
 
@@ -282,12 +282,13 @@ def find_matching_podcasts_youtube(youtube_id):
         if 'youtube' not in event:
             continue
 
-        event_youtube_url = event['youtube']
+        event_youtube_url = event['youtube'].strip()
         if '?v=' not in event_youtube_url:
             print(f'wrong url: {event_youtube_url}, skipping it...')
             continue
 
         event_youtube_id = event_youtube_url.split('?v=')[1]
+        event_youtube_id = event_youtube_id.strip()
 
         if event_youtube_id == youtube_id:
             matches.append(event)
@@ -304,16 +305,17 @@ def process_podcast(record):
     season = int(fields['season'])
     episode = int(fields['episode'])
 
-    youtube_url = fields['youtube_url']
+    youtube_url = fields['youtube_url'].strip()
     youtube_id = youtube_url.split('?v=')[1]
+    youtube_id = youtube_id.strip()
 
     matching_event = find_matching_podcasts_youtube(youtube_id)
 
-    title = matching_event['title']
+    title = matching_event['title'].strip()
     short = matching_event.get('short', title)
 
     if 'slug' in matching_event:
-        slug = matching_event['slug']
+        slug = matching_event['slug'].strip()
     else:
         slug = utils.slugify_title(short)
 
@@ -322,10 +324,10 @@ def process_podcast(record):
     podcast_id = f's{season:02d}e{episode:02d}-{slug}'
     image_path = f'images/podcast/{podcast_id}.jpg'
 
-    apple_url = fields['apple_url']
-    spotify_url = fields['spotify_url']
+    apple_url = fields['apple_url'].strip()
+    spotify_url = fields['spotify_url'].strip()
 
-    anchor_url = fields['anchor_url']
+    anchor_url = fields['anchor_url'].strip()
     anchor_url = anchor_url.replace('/pod/pod/', '/pod/')
 
     anchor_id = anchor_url[len('https://anchor.fm/datatalksclub/episodes/'):]
@@ -425,15 +427,15 @@ EVENT_TEMPLATE = """
 def process_event(record):
     fields = record['fields']
 
-    email = fields['email']
+    email = fields['email'].strip()
     speaker = utils.lookup_author_id(email)
 
-    title = fields['event_title']
+    title = fields['event_title'].strip()
     
     date_raw = fields['date']
     date = utils.parse_date(date_raw)
 
-    url = fields['url']
+    url = fields['url'].strip()
     event_type = fields['event_type']
 
     params = {

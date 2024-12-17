@@ -11,6 +11,11 @@ import frontmatter
 from jinja2 import Template
 
 
+def strip(s):
+    if s:
+        return s.strip()
+    return ""
+
 def clean_name(name):
     tokens = name.strip().split()
     return ' '.join(tokens)
