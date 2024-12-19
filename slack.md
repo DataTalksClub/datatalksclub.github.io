@@ -33,7 +33,7 @@ When participating in discussions, follow [our community guidelines](/slack/guid
 - `#engineering` &ndash; for discussing the engineering aspects of data science: data engineering, ML engineering, MLOps, and so on
 - `#events` &ndash; to talk about events (not just our events, but events in other communities as well)
 - `#jobs` &ndash; for jobs
-- `#ai-memes-for-ai-peeps` &ndash; for pictures and memes
+- `#memes` &ndash; for pictures and memes
 - `#random` &ndash; for everything else
 
 
