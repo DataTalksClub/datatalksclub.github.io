@@ -1,4 +1,16 @@
 
+- name: "dltHub"
+  link: https://dlthub.com/
+  image: /images/partners/dlthub.png
+  from: 2025-01-01 00:00:00
+  to: 2026-01-01 00:00:00
+
+- name: "dstack"
+  link: https://dstack.ai/
+  image: /images/partners/dstack.svg
+  from: 2025-01-01 00:00:00
+  to: 2026-01-01 00:00:00
+
 - name: "Mage"
   link: https://mage.ai/
   image: /images/partners/mage.svg
