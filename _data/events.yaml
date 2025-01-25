@@ -1,4 +1,11 @@
 
+- time: 2025-02-10 17:00:00
+  title: "Data Ingestion From APIs to Warehouses and Data Lakes"
+  speakers: [violettamishechkina]
+  type: workshop
+  link: https://lu.ma/quyfn4q8
+
+
 - time: 2025-01-22 17:00:00
   title: "Trends in Data Engineering"
   speakers: [adrianbrudaru]
