@@ -17,14 +17,6 @@
   from: 2025-01-01 00:00:00
   to: 2026-01-01 00:00:00
 
-
-
-- name: "Mage"
-  link: https://mage.ai/
-  image: /images/partners/mage.svg
-  from: 2024-01-01 00:00:00
-  to: 2025-01-01 00:00:00
-
 - name: "Arize AI"
   link: https://arize.com/model-monitoring/
   image: /images/partners/arize.png
