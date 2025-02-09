@@ -16,25 +16,23 @@ short: Career choices, transitions and promotions in and out of tech
 title: Career choices, transitions and promotions in and out of tech
 transcript:
 - header: Career choices, transitions and promotions in and out of tech
-- line: She has experience in corporate environments, startups, open-source projects,
+- line: We
+    have a special guest today, Agita. She has done a lot in her career, including
+    work in DevOps, DataOps, data engineering, management, community building, education,
+    and facilitation, among other things. I’m sure that’s not even the full list!
+    She has experience in corporate environments, startups, open-source projects,
     and non-governmental sectors. She also founded an NGO focused on integrating expats
     and locals in Porto.
   sec: 0
   time: 0:00
-  who: Alexey                                                                                                                                          We
-    have a special guest today, Agita. She has done a lot in her career, including
-    work in DevOps, DataOps, data engineering, management, community building, education,
-    and facilitation, among other things. I’m sure that’s not even the full list!
+  who: Alexey
 - line: Agita and I first connected a while back when she was at VMware. Later, we
     met in Porto during the Data Makers Fest. We even hosted a DataTalks.Club dinner,
     and our chat there was so interesting that I knew she had to be a guest on this
     podcast. Finally, here she is! Welcome, Agita.
   sec: 0
   time: 0:00
-  who: Alexey                                                                                                                                          We
-    have a special guest today, Agita. She has done a lot in her career, including
-    work in DevOps, DataOps, data engineering, management, community building, education,
-    and facilitation, among other things. I’m sure that’s not even the full list!
+  who: Alexey
 - line: Thank you! It’s great to be here.
   sec: 156
   time: '2:36'
