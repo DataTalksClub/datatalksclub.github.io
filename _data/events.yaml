@@ -1,4 +1,11 @@
 
+- time: 2025-04-28 17:00:00
+  title: "How to write data pipelines with Apache Airflow® 3.0"
+  speakers: [timothydavis]
+  type: workshop
+  link: https://lu.ma/j08vdne9
+
+
 - time: 2025-04-08 17:00:00
   title: "Using GenAI to Create Horror Stories"
   speakers: [alexeygrigorev]
