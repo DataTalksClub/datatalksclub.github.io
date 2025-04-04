@@ -1,4 +1,11 @@
 
+- time: 2025-04-07 17:00:00
+  title: "From Hackathons To Developer Advocacy"
+  speakers: [willrussell]
+  type: podcast
+  link: https://lu.ma/qcbb9vnh
+
+
 - time: 2025-04-28 17:00:00
   title: "How to write data pipelines with Apache Airflow® 3.0"
   speakers: [timothydavis]
