@@ -1,0 +1,75 @@
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".ai-chart").forEach(function (canvas) {
+    const type = canvas.dataset.type || "bar";
+    const labels = JSON.parse(canvas.dataset.labels || "[]");
+    const values = JSON.parse(canvas.dataset.values || "[]");
+    const title = canvas.dataset.title || "";
+    const isHorizontal = canvas.dataset.orientation === "horizontal";
+
+    const width = canvas.dataset.width || "400px";
+    const height = canvas.dataset.height || "300px";
+
+    // Create sizing wrapper div
+    const sizeWrapper = document.createElement("div");
+    sizeWrapper.style.position = "relative";
+    sizeWrapper.style.width = "100%";
+    sizeWrapper.style.maxWidth = width;
+    sizeWrapper.style.height = height;
+
+    // Create flexbox centering wrapper
+    const centerWrapper = document.createElement("div");
+    centerWrapper.style.display = "flex";
+    centerWrapper.style.justifyContent = "center";
+
+    // Insert wrappers
+    canvas.parentNode.insertBefore(centerWrapper, canvas);
+    centerWrapper.appendChild(sizeWrapper);
+    sizeWrapper.appendChild(canvas);
+
+    // Create Chart
+    new Chart(canvas.getContext("2d"), {
+      type: isHorizontal ? "bar" : type,
+      data: {
+        labels: labels,
+        datasets: [{
+          label: title,
+          data: values,
+          backgroundColor: [
+            "#3366cc", "#dc3912", "#ff9900", "#109618", "#990099", "#0099c6"
+          ],
+          borderWidth: 1
+        }]
+      },
+      options: {
+        indexAxis: isHorizontal ? "y" : "x",
+        plugins: {
+          tooltip: {
+            callbacks: {
+              label: function(context) {
+                return `${context.label}: ${context.raw}%`;
+              }
+            }
+          },
+          legend: {
+            display: type !== "bar" || !isHorizontal,
+            position: "right"
+          },
+          title: {
+            display: !!title,
+            text: title,
+            font: {
+              family: 'Alegreya Sans, sans-serif',
+              size: 18,
+              weight: 'bold'
+            }
+          }
+        },
+        responsive: true,
+        maintainAspectRatio: false
+      }
+    });
+  });
+});
+</script>
