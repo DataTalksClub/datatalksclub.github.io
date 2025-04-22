@@ -1,6 +1,7 @@
 ---
 authors:
-- markryan,lucamassaron
+- markryan
+- lucamassaron
 cover: images/books/20250505-machine-learning-for-tabular-data/cover.jpg
 description: Book of the Week. Machine Learning for Tabular Data by Luca Massaron
 end: 2025-05-09 23:59:59
