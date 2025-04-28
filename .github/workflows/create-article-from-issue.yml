@@ -42,11 +42,11 @@ jobs:
       - name: Extract information from Issue
         id: extract
         run: |
-          ISSUE_BODY="${{ github.event.issue.body }}"
+          echo "${{ github.event.issue.body }}" > issue_body.txt
 
-          FILEID=$(echo "$ISSUE_BODY" | grep -oP '(?<=\*\*Google doc\*\*: ).*' | sed 's|.*\/d/||' | sed 's|/.*||')
-          AUTHOR=$(echo "$ISSUE_BODY" | grep -oP '(?<=\*\*Profile\*\*: ).*')
-          TAGS=$(echo "$ISSUE_BODY" | grep -oP '(?<=\*\*Tags\*\*: ).*')
+          FILEID=$(grep -oP '(?<=\*\*Google doc\*\*: ).*' issue_body.txt | sed 's|.*\/d/||' | sed 's|/.*||')
+          AUTHOR=$(grep -oP '(?<=\*\*Profile\*\*: ).*' issue_body.txt)
+          TAGS=$(grep -oP '(?<=\*\*Tags\*\*: ).*' issue_body.txt)
 
           echo "fileid=$FILEID" >> "$GITHUB_OUTPUT"
           echo "author=$AUTHOR" >> "$GITHUB_OUTPUT"
