@@ -26,6 +26,10 @@ jobs:
               --no-install-recommends
       - run: chromium-browser --version
 
+      - name: Install pandoc
+        run: |
+          sudo apt-get install -y pandoc
+
       - name: pipenv install
         run: |
           pip install pipenv
