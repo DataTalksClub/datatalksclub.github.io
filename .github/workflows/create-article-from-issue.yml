@@ -1,0 +1,90 @@
+name: Create Article from Issue
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  create-article:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.title, 'New article')
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: install chromium
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser libxss1 \
+              fonts-ipafont-gothic fonts-wqy-zenhei \
+              fonts-thai-tlwg fonts-kacst fonts-freefont-ttf \
+              --no-install-recommends
+      - run: chromium-browser --version
+
+      - name: pipenv install
+        run: |
+          pip install pipenv
+          pipenv install
+      - name: npm install
+        run: |
+          (cd previews && \
+            PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true npm install)
+
+      - name: Extract information from Issue
+        id: extract
+        run: |
+          ISSUE_BODY="${{ github.event.issue.body }}"
+
+          FILEID=$(echo "$ISSUE_BODY" | grep -oP '(?<=\*\*Google doc\*\*: ).*' | sed 's|.*\/d/||' | sed 's|/.*||')
+          AUTHOR=$(echo "$ISSUE_BODY" | grep -oP '(?<=\*\*Profile\*\*: ).*')
+          TAGS=$(echo "$ISSUE_BODY" | grep -oP '(?<=\*\*Tags\*\*: ).*')
+
+          echo "fileid=$FILEID" >> "$GITHUB_OUTPUT"
+          echo "author=$AUTHOR" >> "$GITHUB_OUTPUT"
+          echo "tags=$TAGS" >> "$GITHUB_OUTPUT"
+
+      - name: Run the article generation script
+        run: |
+          pipenv run python scripts/pandoc_google_doc.py \
+            --fileid "${{ steps.extract.outputs.fileid }}" \
+            --author "${{ steps.extract.outputs.author }}" \
+            --tags "${{ steps.extract.outputs.tags }}"
+
+      - name: Commit and push generated article
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          BRANCH="articles/${{ steps.extract.outputs.fileid }}"
+          git checkout -b "$BRANCH"
+
+          git add .
+          git commit -m "Generated article from Google Doc ID: ${{ steps.extract.outputs.fileid }}"
+          git push origin "$BRANCH"
+
+      - name: Create Pull Request
+        id: create_pr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          title: "Article draft: ${{ steps.extract.outputs.fileid }}"
+          body: |
+            This PR was automatically generated from issue #${{ github.event.issue.number }}.
+
+            Closes #${{ github.event.issue.number }}
+          head: articles/${{ steps.extract.outputs.fileid }}
+          base: main
+          draft: true
+
+      - name: Comment on the original Issue
+        uses: peter-evans/create-or-update-comment@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            A pull request has been created to draft your article: [#${{ steps.create_pr.outputs.pull-request-number }}](https://github.com/${{ github.repository }}/pull/${{ steps.create_pr.outputs.pull-request-number }}).
+
+            Thank you for your contribution! 🚀
