@@ -43,12 +43,25 @@ jobs:
         id: extract
         run: |
           echo "${{ github.event.issue.body }}" > issue_body.txt
-          
+        
+          echo "Extracted issue body:"
           cat issue_body.txt
+          echo "------------------------"
 
-          FILEID=$(grep -oP '(?<=\*\*Google doc\*\*: ).*' issue_body.txt | sed 's|.*\/d/||' | sed 's|/.*||')
-          AUTHOR=$(grep -oP '(?<=\*\*Profile\*\*: ).*' issue_body.txt)
-          TAGS=$(grep -oP '(?<=\*\*Tags\*\*: ).*' issue_body.txt)
+          while IFS= read -r line; do
+            KEY=$(echo "$line" | cut -d':' -f1 | xargs)
+            VALUE=$(echo "$line" | cut -d':' -f2- | xargs)
+
+            if [ "$KEY" = "Title" ]; then
+              TITLE="$VALUE"
+            elif [ "$KEY" = "Google doc" ]; then
+              FILEID="$VALUE"
+            elif [ "$KEY" = "Profile" ]; then
+              AUTHOR="$VALUE"
+            elif [ "$KEY" = "Tags" ]; then
+              TAGS="$VALUE"
+            fi
+          done < issue_body.txt
 
           echo "Extracted values:"
           echo "File ID: $FILEID"
