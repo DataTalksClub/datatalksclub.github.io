@@ -9,7 +9,7 @@ tags:
 - survey
 - ai
 - '2024'
-title: AI Tools for Personal Productivity
+title: How Do Professionals Use AI Tools for Personal Productivity?
 charts: true
 ---
 
