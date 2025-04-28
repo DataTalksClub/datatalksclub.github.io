@@ -2,7 +2,7 @@
 authors:
 - valeriiakuka
 description: Results of our DataTalks.Club Survey
-image: tbd
+image: images/posts/2025-04-15-how-do-data-professionals-use-data-engineering-tools-and-practices/cover.jpg
 layout: post
 subtitle: Results of our DataTalks.Club Survey
 tags:
@@ -33,8 +33,8 @@ Organizations rely on a mix of established and emerging storage options. Traditi
           data-type="bar"
           data-orientation="horizontal"
           data-title="Which data storage solutions do you use?"
-          data-labels='["Relational Databases", "Data Warehouses", "Data Lakehouses", "Data Lakes", "NoSQL Databases", "Vector Databases", "MinIO"]'
-          data-values='[70.9, 53.6, 53.6, 49.8, 27.8, 18.6, 0.8]'
+          data-labels='["Relational Databases", "Data Warehouses", "Data Lakehouses", "Data Lakes", "NoSQL Databases", "Vector Databases"]'
+          data-values='[70.9, 53.6, 53.6, 49.8, 27.8, 18.6]'
           data-height="300px"
           data-width="600px">
   </canvas>

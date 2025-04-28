@@ -2,7 +2,7 @@
 authors:
 - valeriiakuka
 description: Results of our DataTalks.Club Survey
-image: tbd
+image: images/posts/2025-04-28-how-do-data-professionals-use-ml-and-mlops-tools-and-practices/cover.jpg
 layout: post
 subtitle: Results of our DataTalks.Club Survey
 tags:
@@ -71,18 +71,15 @@ Among specific tools:
 
 CI/CD adoption for ML shows mixed usage. Almost half of respondents don't use CI/CD for ML. Among those who do, GitLab CI/CD and MLflow are leading choices. Traditional DevOps tools dominate over ML-native pipelines.
 
-Among those who do:
-
-* **GitLab CI/CD** leads with 26.6%, followed by **Jenkins** (14.5%) and **MLflow** (20.6%).  
-* **Kubeflow Pipelines** and **Argo Workflows** are used by a smaller fraction (6.5% and 2.8%, respectively).
+**GitLab CI/CD** leads with 26.6%, followed by **Jenkins** (14.5%).
 
 <figure>
   <canvas class="ai-chart"
           data-type="bar"
           data-orientation="horizontal"
           data-title="CI/CD Tools Usage for ML Workflows"
-          data-labels='["We don’t use CI/CD tools", "GitLab CI/CD", "MLflow", "Jenkins", "Kubeflow Pipelines", "CircleCI", "Argo Workflows", "Others"]'
-          data-values='[44.2, 27.0, 20.5, 14.4, 6.5, 3.3, 2.8, 1.3]'
+          data-labels='["We don’t use CI/CD tools", "GitLab CI/CD", "Jenkins", "CircleCI", "Argo Workflows", "Others"]'
+          data-values='[44.2, 27.0, 20.5, 14.4, 6.5, 2.8, 1.3]'
           data-height="300px"
           data-width="600px">
   </canvas>
