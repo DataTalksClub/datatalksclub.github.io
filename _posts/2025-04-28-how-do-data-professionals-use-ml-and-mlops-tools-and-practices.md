@@ -37,7 +37,7 @@ Some respondents mentioned alternatives (e.g., TorchServe, OpenVino, MLFlow Serv
           data-type="bar"
           data-orientation="horizontal"
           data-title="Model Deployment Tools Usage"
-          data-labels='["We don't deploy models", "Kubernetes", "AWS SageMaker", "Azure Machine Learning", "Google AI Platform", "TensorFlow Serving", "TorchServe", "Others"]'
+          data-labels='["We don’t deploy models", "Kubernetes", "AWS SageMaker", "Azure Machine Learning", "Google AI Platform", "TensorFlow Serving", "TorchServe", "Others"]'
           data-values='[38.8, 26.9, 21.5, 18.3, 11.9, 9.6, 1.8, 0.5]'
           data-height="300px"
           data-width="600px">
@@ -59,7 +59,7 @@ Among specific tools:
           data-type="bar"
           data-orientation="horizontal"
           data-title="ML Model Monitoring Tools Usage"
-          data-labels='["We don't monitor models", "Prometheus & Grafana", "Custom scripts", "ELK Stack", "Evidently AI", "Arize AI", "WhyLabs", "Others"]'
+          data-labels='["We don’t monitor models", "Prometheus & Grafana", "Custom scripts", "ELK Stack", "Evidently AI", "Arize AI", "WhyLabs", "Others"]'
           data-values='[58.1, 20.7, 11.1, 9.1, 5.6, 2.5, 2.0, 0.5]'
           data-height="300px"
           data-width="600px">
@@ -81,7 +81,7 @@ Among those who do:
           data-type="bar"
           data-orientation="horizontal"
           data-title="CI/CD Tools Usage for ML Workflows"
-          data-labels='["We don't use CI/CD tools", "GitLab CI/CD", "MLflow", "Jenkins", "Kubeflow Pipelines", "CircleCI", "Argo Workflows", "Others"]'
+          data-labels='["We don’t use CI/CD tools", "GitLab CI/CD", "MLflow", "Jenkins", "Kubeflow Pipelines", "CircleCI", "Argo Workflows", "Others"]'
           data-values='[44.2, 27.0, 20.5, 14.4, 6.5, 3.3, 2.8, 1.3]'
           data-height="300px"
           data-width="600px">
@@ -103,7 +103,7 @@ Among those who do:
           data-type="bar"
           data-orientation="horizontal"
           data-title="Model Versioning Tools Usage"
-          data-labels='["We don't use versioning tools", "MLflow", "Weights & Biases", "DVC", "Others"]'
+          data-labels='["We don’t use versioning tools", "MLflow", "Weights & Biases", "DVC", "Others"]'
           data-values='[58.3, 32.2, 11.1, 10.6, 0.5]'
           data-height="300px"
           data-width="600px">
@@ -125,7 +125,7 @@ Among those who do:
           data-type="bar"
           data-orientation="horizontal"
           data-title="Data Versioning Tools Usage"
-          data-labels='["We don't use data versioning tools", "DVC", "LakeFS", "Quilt", "Pachyderm", "Others"]'
+          data-labels='["We don’t use data versioning tools", "DVC", "LakeFS", "Quilt", "Pachyderm", "Others"]'
           data-values='[75.9, 16.4, 3.6, 2.6, 2.1, 1.4]'
           data-height="300px"
           data-width="600px">
@@ -144,7 +144,7 @@ Only a minority use dedicated feature stores like **AWS SageMaker Feature Store*
           data-type="bar"
           data-orientation="horizontal"
           data-title="Feature Store Usage"
-          data-labels='["We don't use feature stores", "AWS SageMaker Feature Store", "Databricks Feature Store", "Vertex AI Feature Store", "Hopsworks", "Feast", "Custom solutions"]'
+          data-labels='["We don’t use feature stores", "AWS SageMaker Feature Store", "Databricks Feature Store", "Vertex AI Feature Store", "Hopsworks", "Feast", "Custom solutions"]'
           data-values='[75.0, 12.2, 10.7, 7.7, 3.1, 2.0, 2.5]'
           data-height="300px"
           data-width="600px">
@@ -166,7 +166,7 @@ Among those who do:
           data-type="bar"
           data-orientation="horizontal"
           data-title="Model Training and Experimentation Tools Usage"
-          data-labels='["We don't use dedicated tools", "MLflow", "Weights & Biases", "TensorBoard", "Neptune.ai", "Others"]'
+          data-labels='["We don’t use dedicated tools", "MLflow", "Weights & Biases", "TensorBoard", "Neptune.ai", "Others"]'
           data-values='[55.4, 34.2, 13.4, 9.9, 3.5, 3.6]'
           data-height="300px"
           data-width="600px">
@@ -188,7 +188,7 @@ Among those who do:
           data-type="bar"
           data-orientation="horizontal"
           data-title="Workflow Orchestration Tools Usage"
-          data-labels='["We don't use orchestration tools", "Apache Airflow", "AWS Step Functions", "Kubeflow", "Prefect", "Others"]'
+          data-labels='["We don’t use orchestration tools", "Apache Airflow", "AWS Step Functions", "Kubeflow", "Prefect", "Others"]'
           data-values='[53.8, 33.8, 7.7, 7.2, 6.2, 7.3]'
           data-height="300px"
           data-width="600px">
@@ -208,7 +208,7 @@ Retraining remains reactive or infrequent for most teams.
   <canvas class="ai-chart"
           data-type="pie"
           data-title="Model Retraining Frequency"
-          data-labels='["We don't retrain models", "As needed", "Periodically", "Continuously (online learning)"]'
+          data-labels='["We don’t retrain models", "As needed", "Periodically", "Continuously (online learning)"]'
           data-values='[43.7, 28.9, 22.8, 3.0]'
           data-height="300px"
           data-width="400px">

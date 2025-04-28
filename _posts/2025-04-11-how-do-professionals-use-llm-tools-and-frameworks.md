@@ -35,7 +35,7 @@ Respondents primarily rely on managed LLM services, with OpenAI clearly in the l
           data-type="bar"
           data-orientation="horizontal"
           data-title="Which managed LLM services or cloud-based providers do you use?"
-          data-labels='["OpenAI", "Anthropic", "I don't use any managed LLM services"]'
+          data-labels='["OpenAI", "Anthropic", "I don’t use any managed LLM services"]'
           data-values='[73.1, 24.4, 21.1]'
           data-height="300px"
           data-width="600px">
