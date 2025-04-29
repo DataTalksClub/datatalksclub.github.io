@@ -72,10 +72,13 @@ jobs:
           done < issue_body.txt
 
           echo "Extracted values:"
+          echo "Title: $TITLE"
           echo "File ID: $FILEID"
           echo "Author: $AUTHOR"
           echo "Tags: $TAGS"
 
+          echo "------------------------"
+          echo "title=$TITLE" >> "$GITHUB_OUTPUT"
           echo "fileid=$FILEID" >> "$GITHUB_OUTPUT"
           echo "author=$AUTHOR" >> "$GITHUB_OUTPUT"
           echo "tags=$TAGS" >> "$GITHUB_OUTPUT"
