@@ -2,7 +2,7 @@ name: Create Article from Issue
 
 on:
   issues:
-    types: [opened]
+    types: [opened, edited]
 
 permissions:
   contents: write
