@@ -101,17 +101,12 @@ jobs:
           git push origin "$BRANCH"
 
       - name: Create Pull Request
-        id: create_pr
-        uses: peter-evans/create-pull-request@v5
-        with:
-          title: "Article draft: ${{ steps.extract.outputs.fileid }}"
-          body: |
-            This PR was automatically generated from issue #${{ github.event.issue.number }}.
-
-            Closes #${{ github.event.issue.number }}
-          head: articles/${{ steps.extract.outputs.fileid }}
-          base: main
-          draft: true
+        run: |
+            gh pr create \
+              --title "Article draft: ${{ steps.extract.outputs.title }}" \
+              --body "This PR was automatically generated from issue #${{ github.event.issue.number }}.\n\nCloses #${{ github.event.issue.number }}" \
+              --head "articles/${{ steps.extract.outputs.fileid }}" \
+              --base main
 
       - name: Comment on the original Issue
         uses: peter-evans/create-or-update-comment@v3
