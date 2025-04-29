@@ -30,6 +30,9 @@ jobs:
         run: |
           sudo apt-get install -y pandoc
 
+      - name: Create gitbash alias
+        run: sudo ln -s /bin/bash /bin/gitbash
+
       - name: pipenv install
         run: |
           pip install pipenv
