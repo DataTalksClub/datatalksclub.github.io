@@ -102,11 +102,13 @@ jobs:
 
       - name: Create Pull Request
         run: |
-            gh pr create \
-              --title "Article draft: ${{ steps.extract.outputs.title }}" \
-              --body "This PR was automatically generated from issue #${{ github.event.issue.number }}.\n\nCloses #${{ github.event.issue.number }}" \
-              --head "articles/${{ steps.extract.outputs.fileid }}" \
-              --base main
+          gh pr create \
+            --title "Article draft: ${{ steps.extract.outputs.title }}" \
+            --body "This PR was automatically generated from issue #${{ github.event.issue.number }}.\n\nCloses #${{ github.event.issue.number }}" \
+            --head "articles/${{ steps.extract.outputs.fileid }}" \
+            --base main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Comment on the original Issue
         uses: peter-evans/create-or-update-comment@v3
