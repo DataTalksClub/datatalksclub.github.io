@@ -112,7 +112,8 @@ jobs:
             --body "This PR was automatically generated from issue #${{ github.event.issue.number }}. Closes #${{ github.event.issue.number }}" \
             --head "articles/${{ steps.extract.outputs.fileid }}" \
             --base main 
-
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Comment on the original Issue
         uses: peter-evans/create-or-update-comment@v3
         with:
