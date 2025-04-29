@@ -2,7 +2,7 @@ name: Create Article from Issue
 
 on:
   issues:
-    types: [opened, edited]
+    types: [opened]
 
 permissions:
   contents: write
@@ -102,20 +102,28 @@ jobs:
           git push origin "$BRANCH"
 
       - name: Create Pull Request
+        id: create_pr
         run: |
-          gh pr create \
+          PR_DATA=$(gh pr create \
             --title "Article draft: ${{ steps.extract.outputs.title }}" \
             --body "This PR was automatically generated from issue #${{ github.event.issue.number }}. Closes #${{ github.event.issue.number }}" \
             --head "articles/${{ steps.extract.outputs.fileid }}" \
-            --base main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            --base main \
+            --json number,url)
+      
+          echo "$PR_DATA"
+      
+          PR_NUMBER=$(echo "$PR_DATA" | jq -r '.number')
+          PR_URL=$(echo "$PR_DATA" | jq -r '.url')
+      
+          echo "pr_number=$PR_NUMBER" >> "$GITHUB_OUTPUT"
+          echo "pr_url=$PR_URL" >> "$GITHUB_OUTPUT"
 
       - name: Comment on the original Issue
         uses: peter-evans/create-or-update-comment@v3
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-            A pull request has been created to draft your article: [#${{ steps.create_pr.outputs.pull-request-number }}](https://github.com/${{ github.repository }}/pull/${{ steps.create_pr.outputs.pull-request-number }}).
+            A pull request has been created to draft your article: [#${{ steps.create_pr.outputs.pr_number }}](${{ steps.create_pr.outputs.pr_url }}).
 
             Thank you for your contribution! 🚀
