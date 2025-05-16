@@ -17,11 +17,8 @@ title: DataTalks.Club Community Demographics
 Previously, we published 4 articles on the results of a big survey about the usage of AI tools, data engineering tools, MLOps tools and LLMs-related tools by our community members:
 
 - [How Do Data Professionals Use MLOps Tools and Frameworks?](https://datatalks.club/blog/how-do-data-professionals-use-ml-and-mlops-tools-and-practices.html){:target="_blank"}
-
 - [How Do Professionals Use Data Engineering Tools and Practices?](https://datatalks.club/blog/how-do-data-professionals-use-data-engineering-tools-and-practices.html){:target="_blank"}
-
 - [How Do Professionals Use LLM Tools and Frameworks?](https://datatalks.club/blog/how-do-professionals-use-llm-tools-and-frameworks.html){:target="_blank"}
-
 - [How Do Professionals Use AI Tools for Personal Productivity?](https://datatalks.club/blog/ai-tools-for-personal-productivity.html){:target="_blank"}
 
 Check them out if you still haven't!
@@ -170,13 +167,9 @@ Technology and software companies dominate the survey sample, but there is healt
 ## Key Takeaways
 
 1.  **Truly global**: Engagement spans six continents and dozens of languages.
-
 2.  **Experience spectrum**: Senior experts and entry-level professionals represent the majority of our community dividing it almost equally, with leadership roles forming a focused minority.
-
 3.  **Role diversity**: Data engineering, analytics, ML, and software development all well represented, plus niche specialties.
-
 4.  **Organizational breadth**: Active participants range from one-person consultancies to multinational enterprises.
-
 5.  **Cross-sector relevance**: Dominant tech presence balanced by finance, healthcare, research, and public-sector voices.
 
 ## Conclusion
