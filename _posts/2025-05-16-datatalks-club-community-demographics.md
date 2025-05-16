@@ -12,6 +12,7 @@ tags:
 - mlops
 - '2025'
 title: DataTalks.Club Community Demographics
+charts: true
 ---
 
 Previously, we published 4 articles on the results of a big survey about the usage of AI tools, data engineering tools, MLOps tools and LLMs-related tools by our community members:
