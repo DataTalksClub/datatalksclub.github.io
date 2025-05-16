@@ -26,21 +26,23 @@ Previously, we published 4 articles on the results of a big survey about the usa
 
 Check them out if you still haven't!
 
-What we also asked them to share is their background information to better understand who makes up the DataTalks.Club audience.
+What we also asked our community members was about their background to better understand who makes up the DataTalks.
+Club audience.
 
-In this article, we present aggregated insights on respondents' geography, seniority, roles, organization size, and industry, completing the picture of our global data community.
+In this article, we share insights about where our members are from, their experience levels, what they do, where they work, and what industries they're in, completing the picture of our diverse global data community.
 
 ## Geographic Distribution
 
-Our survey attracted voices from more than 65 countries, but five of them stand out:
+Our community spans the globe, with members from more than 65 countries. Here are the top five most represented countries:
 
-- India (10.3%)
-- Germany (8.6%)
-- United States (8.3%)
-- Nigeria (5.5%)
-- France (4.8%)
+- India: 10.3%
+- Germany: 8.6%
+- United States: 8.3%
+- Nigeria: 5.5%
+- France: 4.8%
 
 Beyond this top five, contributors span everywhere from Canada and Spain to smaller contingents in Paraguay, Yemen, and Uzbekistan. We have a truly global data community!
+
 <figure>
   <canvas class="ai-chart"
           data-type="bar"
@@ -56,15 +58,15 @@ Beyond this top five, contributors span everywhere from Canada and Spain to smal
 
 ## Career Level / Seniority
 
-Our respondents skew heavily toward hands-on professionals:
+Looking at experience levels, our community has a mix of seasoned professionals and newcomers:
 
-- **Senior-level** practitioners represent **41.2%** of the sample
-- **Entry-level** newcomers make up **35.8%**
-- **Mid-management** roles (Lead/Head) account for **10.1%**
-- **Executives** (Director & C-suite) only **3.4%**
-- **Freelancers, students, and other backgrounds** combined total **6.4%**
+- Senior-level practitioners: 41.2%
+- Entry-level professionals: 35.8%
+- Team leads and managers: 10.1%
+- Directors and executives: 3.4%
+- Freelancers and students: 6.4%
 
-This distribution suggests DataTalks.Club is a community rich in experience but yet still welcoming to early-career talent! Leadership voices remain a smaller, specialized segment.
+This balance shows that DataTalks.Club is both a place where experienced professionals share their knowledge and where newcomers can learn and grow. While leadership roles make up a smaller portion, they bring valuable strategic perspectives to our discussions.
 
 <figure>
   <canvas class="ai-chart"
@@ -83,14 +85,17 @@ Most respondents occupy senior or entry-level roles, with a smaller fraction in 
 
 ## Job Role
 
-Data engineering emerges as the single largest discipline, but analytics and Machine Learning (ML) remain well represented:
+The roles in our community reflect the diverse landscape of data professions:
 
-- **Data Engineers**: **26.2%** (over a quarter of respondents)
-- **Data/Product Analysts**: **11.8%** and **Data Scientists**: **13.8%** together form a robust analytics cohort
-- **Machine Learning Engineers**: **11.1%** and **Software Developers**: **11.1%** round out the top five
-- A diverse tail of **Consultants**: **4.0%**, **Business Analysts**: **3.4%**, **Researchers**: **2.3%**, **DevOps/Site Reliability Engineering (SRE) specialists**: **1.3%**, and other niche roles provides additional depth.
+- Data Engineers lead the way at 26.2%
+- Data Scientists make up 13.8%
+- Data and Product Analysts represent 11.8%
+- Machine Learning Engineers account for 11.1%
+- Software Developers comprise 11.1%
 
-This diversity reflects the reality where raw data pipelines, statistical modeling, and production-grade machine learning systems all intersect and that most of the knowledge we provide in our courses and events is useful for a wide range of roles.
+We also have a rich mix of other specialists, including consultants (4.0%), business analysts (3.4%), researchers (2.3%), and DevOps engineers (1.3%).
+
+This variety shows how interconnected the world of data has become, from building data pipelines to creating ML models and developing data products. It's why our courses and events often appeal to professionals across different specializations.
 
 <figure>
   <canvas class="ai-chart"
@@ -109,14 +114,14 @@ Data engineering leads in representation, closely followed by core analytics and
 
 ## Organization Size
 
-The employment of our community spans the full range of organization from solo practitioners to global enterprises:
+Our community members work in organizations of all sizes:
 
 - Large enterprises (1,000+ employees): 30.1%
-- Mid-sized firms (51–500 employees): 34.8%
-- Small teams (1–50 employees): 20.6%
-- Freelancers and solo operators: 15.2%
+- Mid-sized companies (51-1,000 employees): 30.4%
+- Small businesses (1-50 employees): 20.6%
+- Independent professionals: 15.2%
 
-Such a bimodal split highlights both the scale at which data initiatives operate in established organizations and the agility of boutique or freelance setups.
+From the structured approaches of large enterprises to the agility of startups and the flexibility of independent consultants, this diversity brings together different perspectives.
 
 <figure>
   <canvas class="ai-chart"
@@ -135,16 +140,17 @@ Nearly one-third work in large enterprises (1,000+), while small teams and freel
 
 ## Industry / Sector
 
-While technology and software companies lead the pack with **41.0%** representation, our survey also captures other fields:
+The technology sector leads in representation, but our community spans many industries:
 
 - Technology/Software: 41.0%
 - Finance/Banking: 9.5%
 - Education/Research: 9.2%
 - Healthcare: 8.1%
 - Retail/E-commerce: 7.5%
-- Remaining contributions come from Manufacturing, Telecommunications, Public Sector, and other specialized verticals.
 
-This mix confirms that data and AI capabilities are vital across industries, not just in technology companies.
+The remaining members come from manufacturing, telecommunications, public sector, and other specialized fields.
+
+This spread shows that data skills are valuable across many sectors, including traditional industries with data-driven approaches.
 
 <figure>
   <canvas class="ai-chart"
