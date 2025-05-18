@@ -24,8 +24,7 @@ Previously, we published 4 articles on the results of a big survey about the usa
 
 Check them out if you still haven't!
 
-What we also asked our community members was about their background to better understand who makes up the DataTalks.
-Club audience.
+What we also asked our community members was about their background to better understand who makes up DataTalks.Club audience.
 
 In this article, we share insights about where our members are from, their experience levels, what they do, where they work, and what industries they're in, completing the picture of our diverse global data community.
 
@@ -163,7 +162,7 @@ This spread shows that data skills are valuable across many sectors, including t
   <figcaption>Distribution of industries among survey respondents.</figcaption>
 </figure>
 
-Technology and software companies dominate the survey sample, but there is healthy representation from regulated sectors (finance, healthcare) and academia, illustrating the broad applicability of data skills.
+Technology and software companies dominate the survey sample, but there is a healthy representation from regulated sectors (finance, healthcare) and academia, illustrating the broad applicability of data skills.
 
 ## Key Takeaways
 
