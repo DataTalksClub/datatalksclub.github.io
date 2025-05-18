@@ -1,6 +1,6 @@
 ---
 authors:
-- Valeriia Kuka
+- valeriiakuka
 description: Results of our DataTalks.Club Survey
 image: images/posts/2025-05-16-datatalks-club-community-demographics/cover.jpg
 layout: post
