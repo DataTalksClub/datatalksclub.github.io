@@ -140,7 +140,7 @@ You need basic Python knowledge, an analytical mindset to make decisions based o
 -   Week 5: Deployment and Automation
 -   Week 6, 7, 8: Project
 
-> You can find more information about the course on its [GitHub repository](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp). If you’re ready to join, register using this [form](pythoninvest.com/course).
+> You can find more information about the course on its [GitHub repository](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp). If you’re ready to join, register using this [form](https://pythoninvest.com/course).
 
 ### LLM Zoomcamp
 
