@@ -1,6 +1,6 @@
 ---
 authors:
-- Valeriia Kuka
+- valeriiakuka
 description: Results of our DataTalks.Club Survey
 image: images/posts/2025-05-16-datatalks-club-community-demographics/cover.jpg
 layout: post
@@ -24,8 +24,7 @@ Previously, we published 4 articles on the results of a big survey about the usa
 
 Check them out if you still haven't!
 
-What we also asked our community members was about their background to better understand who makes up the DataTalks.
-Club audience.
+What we also asked our community members was about their background to better understand who makes up DataTalks.Club audience.
 
 In this article, we share insights about where our members are from, their experience levels, what they do, where they work, and what industries they're in, completing the picture of our diverse global data community.
 
