@@ -58,112 +58,126 @@ Beyond this top five, contributors span everywhere from Canada and Spain to smal
 
 Looking at experience levels, our community has a mix of seasoned professionals and newcomers:
 
-- Senior-level practitioners: 41.2%
-- Entry-level professionals: 35.8%
+- Senior-level practitioners: 40.6%
+- Entry-level professionals: 35.6%
 - Team leads and managers: 10.1%
-- Directors and executives: 3.4%
-- Freelancers and students: 6.4%
+- Middle-level professionals: 3.0%
+- Directors: 2.4%
+- Students and interns: 3.0%
+- Freelancers and entrepreneurs: 2.0%
+- Executives: 1.3%
+- Others: 2.0%
 
 This balance shows that DataTalks.Club is both a place where experienced professionals share their knowledge and where newcomers can learn and grow. While leadership roles make up a smaller portion, they bring valuable strategic perspectives to our discussions.
 
 <figure>
   <canvas class="ai-chart"
-          data-type="bar"
-          data-orientation="horizontal"
+          data-type="pie"
           data-title="Career Level Distribution"
-          data-labels='["Senior Level", "Entry Level", "Lead / Head", "Director & Executive", "Freelancer / Student / Other"]'
-          data-values='[41.2, 35.8, 10.1, 3.4, 6.4]'
+          data-labels='["Senior Level", "Entry Level", "Lead/Head", "Middle Level", "Director", "Students & Interns", "Freelancer & Entrepreneur", "Executive", "Others"]'
+          data-values='[40.6, 35.6, 10.1, 3.0, 2.4, 3.0, 2.0, 1.3, 2.0]'
           data-height="300px"
           data-width="600px">
   </canvas>
   <figcaption>Distribution of career levels among survey respondents.</figcaption>
 </figure>
 
-Most respondents occupy senior or entry-level roles, with a smaller fraction in leadership/executive positions. Freelancers and students together account for under 7%, indicating that this survey skews toward industry professionals over learners.
+Most respondents occupy senior or entry-level roles, with a smaller fraction in leadership/executive positions. The presence of students, interns, freelancers, and entrepreneurs adds diversity to our community's perspective.
 
 ## Job Role
 
 The roles in our community reflect the diverse landscape of data professions:
 
-- Data Engineers lead the way at 26.2%
-- Data Scientists make up 13.8%
-- Data and Product Analysts represent 11.8%
-- Machine Learning Engineers account for 11.1%
-- Software Developers comprise 11.1%
-
-We also have a rich mix of other specialists, including consultants (4.0%), business analysts (3.4%), researchers (2.3%), and DevOps engineers (1.3%).
+- Data Engineers lead the way at 26.5%
+- Data Scientists make up 15.4%
+- Developers and Software Engineers comprise 13.1%
+- Data and Product Analysts represent 13.1%
+- Machine Learning Engineers account for 11.4%
+- Consultants at 4.0%
+- Business Analysts at 3.7%
+- Researchers and Teachers at 3.4%
+- Project and Product Managers at 2.0%
+- Students at 1.7%
+- DevOps/SRE/Platform Engineers at 1.3%
+- Database Specialists at 0.7%
+- Other professionals (including Operations, Marketing, Finance) at 3.7%
 
 This variety shows how interconnected the world of data has become, from building data pipelines to creating ML models and developing data products. It's why our courses and events often appeal to professionals across different specializations.
 
 <figure>
   <canvas class="ai-chart"
-          data-type="bar"
-          data-orientation="horizontal"
+          data-type="pie"
           data-title="Job Role Distribution"
-          data-labels='["Data Engineer", "Data Scientist", "Machine Learning Engineer", "Data / Product Analyst", "Developer / Software Engineer", "Consultant", "Business Analyst", "Researcher", "DevOps / SRE / Platform Engineer"]'
-          data-values='[26.2, 13.8, 11.1, 11.8, 11.1, 4.0, 3.4, 2.3, 1.3]'
+          data-labels='["Data Engineer", "Data Scientist", "Developer / Software Engineer", "Data / Product Analyst", "Machine Learning Engineer", "Consultant", "Business Analyst", "Researchers & Teachers", "Project & Product Manager", "Student", "DevOps / SRE / Platform Engineer", "Database Specialist", "Others"]'
+          data-values='[26.5, 15.4, 13.1, 13.1, 11.4, 4.0, 3.7, 3.4, 2.0, 1.7, 1.3, 0.7, 3.7]'
           data-height="300px"
           data-width="600px">
   </canvas>
   <figcaption>Distribution of job roles among survey respondents.</figcaption>
 </figure>
 
-Data engineering leads in representation, closely followed by core analytics and ML roles. A broad array of specialist titles (e.g., BI Analyst, MLOps Engineer, CAE Engineer) appears at low frequency.
+Data engineering leads in representation, followed by data science and software development roles. The diversity of roles, from core analytics and ML positions to specialized roles like DevOps and database specialists, reflects the broad spectrum of data-related professions in our community.
 
 ## Organization Size
 
 Our community members work in organizations of all sizes:
 
-- Large enterprises (1,000+ employees): 30.1%
-- Mid-sized companies (51-1,000 employees): 30.4%
-- Small businesses (1-50 employees): 20.6%
-- Independent professionals: 15.2%
+- Large enterprises (1,000+ employees): 29.9%
+- Mid-sized companies (201-1,000 employees): 17.8%
+- Small-medium companies (51-200 employees): 12.4%
+- Small businesses (11-50 employees): 12.4%
+- Micro businesses (1-10 employees): 8.1%
+- Freelancers and independent professionals: 14.8%
+- Academic/Research institutions: 2.3%
+- Others: 2.3%
 
 From the structured approaches of large enterprises to the agility of startups and the flexibility of independent consultants, this diversity brings together different perspectives.
 
 <figure>
   <canvas class="ai-chart"
-          data-type="bar"
-          data-orientation="horizontal"
+          data-type="pie"
           data-title="Organization Size Distribution"
-          data-labels='["1,000+ employees", "Freelance / Solo", "11-50 employees", "51-200 employees", "201-500 employees", "501-1,000 employees", "1-10 employees"]'
-          data-values='[30.1, 15.2, 12.5, 12.5, 9.8, 8.1, 8.1]'
+          data-labels='["1,000+ employees", "201-1,000 employees", "51-200 employees", "11-50 employees", "1-10 employees", "Freelance", "Academic/Research", "Others"]'
+          data-values='[29.9, 17.8, 12.4, 12.4, 8.1, 14.8, 2.3, 2.3]'
           data-height="300px"
           data-width="600px">
   </canvas>
   <figcaption>Distribution of organization sizes among survey respondents.</figcaption>
 </figure>
 
-Nearly one-third work in large enterprises (1,000+), while small teams and freelancers together comprise over one-quarter of respondents—highlighting a mix of large-scale and boutique operations across the industry.
+Nearly one-third work in large enterprises (1,000+), while freelancers make up the third-largest group at about 15%. The remaining respondents are distributed across organizations of various sizes, from small startups to mid-sized companies, showing the diverse nature of data work across different organizational contexts.
 
 ## Industry / Sector
 
 The technology sector leads in representation, but our community spans many industries:
 
-- Technology/Software: 41.0%
-- Finance/Banking: 9.5%
-- Education/Research: 9.2%
+- Technology/Software: 40.6%
+- Finance/Banking: 9.4%
+- Education/Research: 9.1%
 - Healthcare: 8.1%
-- Retail/E-commerce: 7.5%
+- Retail/E-commerce: 7.4%
+- Manufacturing: 5.4%
+- Telecommunications: 4.7%
+- Government/Public Sector: 4.4%
+- Travel/Tourism/Hospitality: 1.4%
+- Consulting: 1.0%
+- Other sectors (including Energy, Real Estate, Media): 8.5%
 
-The remaining members come from manufacturing, telecommunications, public sector, and other specialized fields.
-
-This spread shows that data skills are valuable across many sectors, including traditional industries with data-driven approaches.
+This spread shows that data skills are valuable across many sectors, from technology giants to traditional industries embracing data-driven approaches.
 
 <figure>
   <canvas class="ai-chart"
-          data-type="bar"
-          data-orientation="horizontal"
+          data-type="pie"
           data-title="Industry Distribution"
-          data-labels='["Technology / Software", "Finance / Banking", "Healthcare", "Education / Research", "Retail / E-commerce", "Manufacturing", "Telecommunications", "Government / Public Sector"]'
-          data-values='[41.0, 9.5, 8.1, 9.2, 7.5, 5.4, 4.7, 4.4]'
+          data-labels='["Technology/Software", "Finance/Banking", "Education/Research", "Healthcare", "Retail/E-commerce", "Manufacturing", "Telecommunications", "Government/Public Sector", "Travel & Tourism", "Consulting", "Others"]'
+          data-values='[40.6, 9.4, 9.1, 8.1, 7.4, 5.4, 4.7, 4.4, 1.4, 1.0, 8.5]'
           data-height="300px"
           data-width="600px">
   </canvas>
   <figcaption>Distribution of industries among survey respondents.</figcaption>
 </figure>
 
-Technology and software companies dominate the survey sample, but there is healthy representation from regulated sectors (finance, healthcare) and academia, illustrating the broad applicability of data skills.
+Technology and software companies dominate the survey sample, but there is healthy representation from regulated sectors (finance, healthcare) and academia, illustrating the broad applicability of data skills across different domains.
 
 ## Key Takeaways
 
