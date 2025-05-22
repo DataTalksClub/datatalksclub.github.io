@@ -87,19 +87,14 @@ Most respondents occupy senior or entry-level roles, with a smaller fraction in 
 
 The roles in our community reflect the diverse landscape of data professions:
 
-- Data Engineers lead the way at 26.5%
-- Data Scientists make up 15.4%
-- Developers and Software Engineers comprise 13.1%
-- Data and Product Analysts represent 13.1%
-- Machine Learning Engineers account for 11.4%
-- Consultants at 4.0%
-- Business Analysts at 3.7%
-- Researchers and Teachers at 3.4%
-- Project and Product Managers at 2.0%
-- Students at 1.7%
-- DevOps/SRE/Platform Engineers at 1.3%
-- Database Specialists at 0.7%
-- Other professionals (including Operations, Marketing, Finance) at 3.7%
+- Data Engineering and Infrastructure: 28.5% (Data Engineers, Database Specialists, DevOps/Platform Engineers)
+- Data Science and ML: 26.8% (Data Scientists, Machine Learning Engineers)
+- Software Development: 13.1% (Developers and Software Engineers)
+- Analytics: 16.8% (Data/Product Analysts, Business Analysts)
+- Management and Consulting: 7.0% (Project Managers, Product Managers, Consultants)
+- Research and Education: 3.4% (Researchers and Teachers)
+- Students: 1.7%
+- Others: 2.7%
 
 This variety shows how interconnected the world of data has become, from building data pipelines to creating ML models and developing data products. It's why our courses and events often appeal to professionals across different specializations.
 
@@ -107,15 +102,15 @@ This variety shows how interconnected the world of data has become, from buildin
   <canvas class="ai-chart"
           data-type="pie"
           data-title="Job Role Distribution"
-          data-labels='["Data Engineer", "Data Scientist", "Developer / Software Engineer", "Data / Product Analyst", "Machine Learning Engineer", "Consultant", "Business Analyst", "Researchers & Teachers", "Project & Product Manager", "Student", "DevOps / SRE / Platform Engineer", "Database Specialist", "Others"]'
-          data-values='[26.5, 15.4, 13.1, 13.1, 11.4, 4.0, 3.7, 3.4, 2.0, 1.7, 1.3, 0.7, 3.7]'
-          data-height="300px"
+          data-labels='["Data Engineering & Infrastructure", "Data Science & ML", "Software Development", "Analytics", "Management & Consulting", "Research & Education", "Students", "Others"]'
+          data-values='[28.5, 26.8, 13.1, 16.8, 7.0, 3.4, 1.7, 2.7]'
+          data-height="600px"
           data-width="600px">
   </canvas>
   <figcaption>Distribution of job roles among survey respondents.</figcaption>
 </figure>
 
-Data engineering leads in representation, followed by data science and software development roles. The diversity of roles, from core analytics and ML positions to specialized roles like DevOps and database specialists, reflects the broad spectrum of data-related professions in our community.
+Data engineering and infrastructure roles lead in representation, closely followed by data science and ML positions. The significant presence of analytics and software development roles shows the diverse technical expertise in our community.
 
 ## Organization Size
 
