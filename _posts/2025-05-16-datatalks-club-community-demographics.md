@@ -109,7 +109,7 @@ This variety shows how interconnected the world of data has become, from buildin
           data-title="Job Role Distribution"
           data-labels='["Data Engineer", "Data Scientist", "Developer / Software Engineer", "Data / Product Analyst", "Machine Learning Engineer", "Consultant", "Business Analyst", "Researchers & Teachers", "Project & Product Manager", "Student", "DevOps / SRE / Platform Engineer", "Database Specialist", "Others"]'
           data-values='[26.5, 15.4, 13.1, 13.1, 11.4, 4.0, 3.7, 3.4, 2.0, 1.7, 1.3, 0.7, 3.7]'
-          data-height="300px"
+          data-height="600px"
           data-width="600px">
   </canvas>
   <figcaption>Distribution of job roles among survey respondents.</figcaption>
