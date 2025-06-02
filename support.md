@@ -9,36 +9,35 @@ layout: page
 ---
 
 
-Hi everyone!
+Hello everyone!
 
-I'm Alexey and I'm running the DataTalks.Club community.
+I'm Alexey, and I run the DataTalks.Club community.
 
-I started it in September 2020 and by now it has grown to 38,000+ members.
+I founded it in September 2020, and it has since grown to over 73,000 members.
 
-There are a lot of activities in our community: we have courses,
-weekly events and workshops. Also, our Slack is quite active and
-sometimes requires moderation.
+Our community hosts numerous activities: we offer free courses,
+weekly podcasts, webinars, and workshops. Additionally, our Slack workspace is highly active and
+requires regular moderation.
 
-All this takes a lot of time, energy, and money.
+All of this demands significant time, energy, and financial resources.
 
-Sponsorship helps me cover the costs and stay motivated.
-On top of that, I invest the money from our sponsors back
-into the community to ensure its further growth.
+Sponsorship helps me cover operational costs and maintain motivation.
+Furthermore, I reinvest the money from our sponsors directly back
+into the community to ensure its continued growth.
 
-I promise the following:
+I commit to the following principles:
 
-* Your emails are safe. No sponsor will ever get direct access
-  to your email addresses without your concent. 
-* I will clearly indicate if content is sponsored.
+* Your privacy is protected. No sponsor will ever receive direct access
+  to your email addresses without your explicit consent. 
+* I will clearly indicate when content is sponsored.
 
-If you're a company and want to support the community,
-reach out to me via email (alexey@datatalks.club).
+If you represent a company and would like to support our community,
+please reach out to me via email (alexey@datatalks.club).
 
-If you're an individual and want to support me personally, you can use
-[GitHub](https://github.com/sponsors/alexeygrigorev){:target="_blank"}
-for that.
+If you're an individual who wants to support me personally, you can do so through
+[GitHub Sponsors](https://github.com/sponsors/alexeygrigorev){:target="_blank"}.
 
-Some of our previous and current sponsors:
+Some of our previous and current sponsors include:
 
 - [BentoML](https://www.bentoml.com/){:target="_blank"}
 - [Scale](https://scale.com/){:target="_blank"}
@@ -55,4 +54,4 @@ Some of our previous and current sponsors:
 - [Toloka](https://toloka.ai/){:target="_blank"}
 
 
-Get in touch for more information (email: alexey@datatalks.club).
+For more information, please get in touch via email: alexey@datatalks.club.
