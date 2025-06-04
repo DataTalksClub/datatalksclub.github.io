@@ -1,4 +1,39 @@
 
+- time: 2025-07-21 17:00:00
+  title: "Build an AI Coding Agent"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://lu.ma/e5xkz413
+
+
+- time: 2025-07-01 17:00:00
+  title: "Introduction to Vibe Coding: Build a Game with AI"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://lu.ma/ubf5skqu
+
+
+- time: 2025-06-16 17:00:00
+  title: "Open-Source LLM Zoomcamp 2025 Pre-Course Live Q&A"
+  speakers: [alexeygrigorev]
+  type: webinar
+  link: https://lu.ma/0vw2m2dn
+
+
+- time: 2025-04-15 17:00:00
+  title: "MLOps Zoomcamp 2025 Pre-Course Live Q&A"
+  speakers: [alexeygrigorev]
+  type: webinar
+  link: https://lu.ma/3a2avlrx
+
+
+- time: 2025-05-27 17:00:00
+  title: "LLM Zoomcamp Course Launch"
+  speakers: [alexeygrigorev]
+  type: webinar
+  link: https://lu.ma/ei5wx9ck
+
+
 - time: 2025-06-10 17:00:00
   title: "MLOps Zoomcamp Competition - Bot or Not?"
   speakers: [alexanderguschin, alexeygrigorev]
