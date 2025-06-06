@@ -30,27 +30,28 @@ In this article, we share insights about where our members are from, their exper
 
 ## Geographic Distribution
 
-Our community spans the globe, with members from more than 65 countries. Here are the top five most represented countries:
+Our community spans the globe, with members from more than 65 countries across all continents. Here's the regional breakdown:
 
-- India: 10.3%
-- Germany: 8.6%
-- United States: 8.3%
-- Nigeria: 5.5%
-- France: 4.8%
+- Europe: 27.2%
+- Asia-Pacific: 23.5%
+- Africa: 18.8%
+- North America: 17.1%
+- South America: 6.4%
+- Middle East: 2.4%
+- Other/Not specified: 4.6%
 
-Beyond this top five, contributors span everywhere from Canada and Spain to smaller contingents in Paraguay, Yemen, and Uzbekistan. We have a truly global data community!
+This distribution shows our strong global presence, with significant representation from every major region. Europe leads slightly, followed closely by Asia-Pacific, while Africa and North America are also strongly represented.
 
 <figure>
   <canvas class="ai-chart"
-          data-type="bar"
-          data-orientation="horizontal"
+          data-type="pie"
           data-title="Geographic Distribution of Respondents"
-          data-labels='["India", "Germany", "United States", "Nigeria", "France"]'
-          data-values='[10.3, 8.6, 8.3, 5.5, 4.8]'
+          data-labels='["Europe", "Asia-Pacific", "Africa", "North America", "South America", "Middle East", "Other/Not specified"]'
+          data-values='[27.2, 23.5, 18.8, 17.1, 6.4, 2.4, 4.6]'
           data-height="300px"
           data-width="600px">
   </canvas>
-  <figcaption>Top 5 countries represented in the DataTalks.Club community survey.</figcaption>
+  <figcaption>Regional distribution of DataTalks.Club community survey respondents.</figcaption>
 </figure>
 
 ## Career Level / Seniority
