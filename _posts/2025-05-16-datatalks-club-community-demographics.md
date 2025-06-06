@@ -30,24 +30,24 @@ In this article, we share insights about where our members are from, their exper
 
 ## Geographic Distribution
 
-Our community spans the globe, with members from more than 65 countries across all continents. Here's the regional breakdown:
+Our community spans the globe, with members from more than 65 countries across all continents. Here's the regional breakdown of our global community:
 
-- Europe: 27.2%
-- Asia-Pacific: 23.5%
-- Africa: 18.8%
-- North America: 17.1%
-- South America: 6.4%
-- Middle East: 2.4%
-- Other/Not specified: 4.6%
+- North America: 37.2%
+- Europe: 25.1%
+- Asia-Pacific: 24.5%
+- Africa: 6.8%
+- South America: 3.8%
+- Middle East: 1.8%
+- Other: 0.8%
 
-This distribution shows our strong global presence, with significant representation from every major region. Europe leads slightly, followed closely by Asia-Pacific, while Africa and North America are also strongly represented.
+This distribution shows our strong global presence across all major regions. North America leads with over one-third of our community (37.2%), primarily driven by significant participation from the United States (31.84%) and Canada (4.48%). Europe (25.1%) and Asia-Pacific (24.5%) follow closely behind, together representing nearly half of our members. We also have substantial representation from Africa (6.8%), South America (3.8%), and the Middle East (1.8%), demonstrating the truly global reach in our community.
 
 <figure>
   <canvas class="ai-chart"
           data-type="pie"
           data-title="Geographic Distribution of Respondents"
-          data-labels='["Europe", "Asia-Pacific", "Africa", "North America", "South America", "Middle East", "Other/Not specified"]'
-          data-values='[27.2, 23.5, 18.8, 17.1, 6.4, 2.4, 4.6]'
+          data-labels='["North America", "Europe", "Asia-Pacific", "Africa", "South America", "Middle East", "Other"]'
+          data-values='[37.2, 25.1, 24.5, 6.8, 3.8, 1.8, 0.8]'
           data-height="300px"
           data-width="600px">
   </canvas>
