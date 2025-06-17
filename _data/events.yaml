@@ -1,4 +1,11 @@
 
+- time: 2025-06-30 17:00:00
+  title: "From Simulation Algorithms to Production-Grade Data Systems"
+  speakers: [orellgarten]
+  type: podcast
+  link: https://lu.ma/8tihhq0h
+
+
 - time: 2025-07-21 17:00:00
   title: "Build an AI Coding Agent"
   speakers: [alexeygrigorev]
