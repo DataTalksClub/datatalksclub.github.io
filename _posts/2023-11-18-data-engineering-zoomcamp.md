@@ -26,10 +26,12 @@ Data Engineering Zoomcamp by DataTalks.Club is a free, comprehensive 9-week cour
 
 ## What You'll Learn in This Guide
 - [What makes Data Engineering Zoomcamp different](#what-makes-data-engineering-zoomcamp-different)
-- [Course curriculum and technologies](#course-curriculum)
-- [Certification requirements](#certification-requirements)
-- [Learning experience and community](#datatalks-club-community)
-- [Frequently asked questions](#frequently-asked-questions)
+- [Course curriculum](#course-curriculum)
+- [Course assignments and scoring](#course-assignments-and-scoring)
+- [Building Your Portfolio](#building-your-portfolio-with-data-engineering-projects)
+- [Community and Resources](#datatalks-club-community)
+- [Quick Start Guide](#quick-start-guide)
+- [Frequently Asked Questions](#frequently-asked-questions)
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
@@ -175,36 +177,6 @@ Throughout the course, we actively encourage and incentivize learning in public.
 
 This not only demonstrates your knowledge but also builds a portfolio of valuable content. Sharing your work online also helps you get noticed by social media algorithms, reaching a broader audience and creating opportunities to connect with individuals and organizations you may not have encountered otherwise.
 
-## DataTalks.Club community
-
-DataTalks.Club has a supportive community of like-minded individuals in [our Slack](https://datatalks.club/slack.html){:target="_blank"}. It is the perfect place to enhance your skills, deepen your knowledge, and connect with peers who share your passion. These connections can lead to lasting friendships, potential collaborations in future projects, and exciting career prospects.
-
-<figure>
-<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/image2.png" alt="DataTalks.Club Slack workspace showing active discussions in the Data Engineering Zoomcamp channel with community interactions" />
-<figcaption><p>Active discussions and peer support in our dedicated Slack community channel</p></figcaption>
-</figure>
-
-## Quick Start Guide
-
-Data Engineering Zoomcamp offers a practical path to becoming a data engineer. In just 9 weeks, you'll gain:
-
-- Hands-on experience with modern data engineering stack (Docker, Terraform, dbt, Spark, Kafka)
-- Build production-ready data pipelines from ingestion to visualization
-- Join a vibrant community of data professionals and learners
-
-The next cohort starts in January 2026! Take the first step toward your data engineering career. Register for the course and start your learning journey today!
-
-<div style="text-align: center; margin: 2em 0;">
-    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
-        <a href="https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
-            <span>Join the next cohort</span>
-            <span style="margin-left: 0.25em;">→</span>
-        </a>
-    </div>
-</div>
-
-[Register](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD){:target="_blank"} for the Data Engineering Zoomcamp.
-
 ## Building Your Portfolio with Data Engineering Projects
 
 If you've participated in data engineering interviews or researched the field, you know the importance of having real-world projects in your portfolio. This is especially crucial if you're transitioning into data engineering or seeking your first role in the field.
@@ -226,6 +198,34 @@ You'll use modern tools like:
 Your project will be peer-reviewed by other participants, giving you valuable feedback and the opportunity to learn from others' solutions.
 
 Want to make your project stand out? Consider adding extra features like automated testing, CI/CD pipelines, or advanced visualizations. These additions can make your portfolio more impressive to potential employers.
+
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the next cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+## DataTalks.Club community
+
+DataTalks.Club has a supportive community of like-minded individuals in [our Slack](https://datatalks.club/slack.html){:target="_blank"}. It is the perfect place to enhance your skills, deepen your knowledge, and connect with peers who share your passion. These connections can lead to lasting friendships, potential collaborations in future projects, and exciting career prospects.
+
+<figure>
+<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/image2.png" alt="DataTalks.Club Slack workspace showing active discussions in the Data Engineering Zoomcamp channel with community interactions" />
+<figcaption><p>Active discussions and peer support in our dedicated Slack community channel</p></figcaption>
+</figure>
+
+## Quick Start Guide
+
+Data Engineering Zoomcamp offers a practical path to becoming a data engineer. In just 9 weeks, you'll gain:
+
+- Hands-on experience with modern data engineering stack (Docker, Terraform, dbt, Spark, Kafka)
+- Build production-ready data pipelines from ingestion to visualization
+- Join a vibrant community of data professionals and learners
+
+The next cohort starts in January 2026! Take the first step toward your data engineering career. Register for the course and start your learning journey today!
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
