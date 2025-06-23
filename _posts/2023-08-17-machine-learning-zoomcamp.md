@@ -13,23 +13,22 @@ tags:
 title: "ML Zoomcamp 2025: Free Machine Learning Engineering Course"
 ---
 
+> **TL;DR:** ML Zoomcamp is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. Next cohort starts September 2025. You can join the course [here](https://airtable.com/shryxwLd0COOEaqXo).
+
 <figure>
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png" alt="ML Zoomcamp course overview showing progression from ML algorithms (Python, NumPy, Pandas, Scikit-learn) to deployment (Docker, Flask, Kubernetes)" />
 <figcaption>Complete ML Zoomcamp curriculum: from machine learning fundamentals to production deployment</figcaption>
 </figure>
 
-Want to become a machine learning engineer? Machine Learning Zoomcamp is a comprehensive, free four-month course that takes you from ML basics to production deployment. In this guide, we'll explore how this course can help you start your ML engineering career.
+Want to become a machine learning engineer? 
+
+Machine Learning Zoomcamp is a comprehensive, free four-month course that takes you from ML basics to production deployment.
 
 ## What You'll Learn in This Guide
 
 - [What Makes ML Zoomcamp Different](#what-makes-ml-zoomcamp-different)
 - [Course Curriculum and Structure](#comprehensive-course-curriculum)
-    - [Part 1: Machine Learning Foundations](#part-1-key-machine-learning-algorithms)
-    - [Part 2: Production Deployment](#part-2-model-deployment)
 - [Learning Experience and Support](#learning-experience-and-support)
-    - [Weekly Homework and Feedback](#weekly-homework-and-getting-feedback)
-    - [Learning in Public Benefits](#learning-in-public-approach)
-    - [Building Your Portfolio](#course-projects-for-your-portfolio)
 - [Community and Resources](#datatalks-club-community)
 - [Common Questions Answered](#frequently-asked-questions)
 - [Getting Started](#quick-links)
@@ -57,18 +56,20 @@ The course is structured in two main parts, designed to give you both theoretica
 
 ### Part 1: Machine Learning Foundations
 
-Part 1 focuses on core machine learning concepts and their practical implementation using Python. You'll learn:
+Part 1 focuses on core machine learning concepts and their practical implementation using Python.
+
+You'll master:
 
 -   **Linear Regression and Feature Engineering:** Master feature creation, categorical variable handling, and regularization techniques
 -   **Classification with Logistic Regression:** Learn feature importance and model evaluation
 -   **Decision Trees and Ensemble Methods:** Explore gradient boosting and XGBoost implementation
 -   **Neural Networks and Deep Learning:** Build CNNs and implement transfer learning
--   **Python Tools:**
-    -   Jupyter Notebooks for efficient coding
-    -   NumPy and Pandas for data manipulation
-    -   Matplotlib and Seaborn for visualization
-    -   Scikit-Learn for ML algorithms
-    -   TensorFlow and Keras for deep learning
+Tools you'll learn:
+- Jupyter Notebooks for efficient coding
+- NumPy and Pandas for data manipulation
+- Matplotlib and Seaborn for visualization
+- Scikit-Learn for ML algorithms
+- TensorFlow and Keras for deep learning
 
 <figure>
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image1.png" alt="Overview of Python libraries and tools covered in ML Zoomcamp: NumPy, Pandas, Scikit-learn, TensorFlow" />
@@ -78,12 +79,18 @@ Part 1 focuses on core machine learning concepts and their practical implementat
 
 ### Part 2: Production Deployment
 
-Part 2 is dedicated to model deployment, which involves putting machine learning models into production. In this section, you'll gain practical skills using popular frameworks and tools. The topics covered include:
+Part 2 focuses on model deployment, which involves putting machine learning models into production.
 
--   **Flask, Pipenv, and Docker:** machine learning models deployment, enabling you to move your models from notebooks to services and applications.
--   **AWS Lambda and TensorFlow Lite:** serverless deep learning, understanding how to efficiently operate within this paradigm.
--   **Kubernetes and TensorFlow Serving:** automating deployment, scaling, and management of containerized applications.
--   **KServe (optional):** an additional topic for those seeking advanced knowledge, offering insights into further enhancing deployment capabilities.
+You'll learn to deploy models using:
+
+- **Flask, Pipenv, and Docker:** machine learning models deployment, enabling you to move 
+your models from notebooks to services and applications.
+- **AWS Lambda and TensorFlow Lite:** serverless deep learning, understanding how to 
+efficiently operate within this paradigm.
+- **Kubernetes and TensorFlow Serving:** automating deployment, scaling, and management of 
+containerized applications.
+- **KServe (optional):** an additional topic for those seeking advanced knowledge, offering 
+insights into further enhancing deployment capabilities.
 
 <figure>
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image3.png" alt="Deployment tools and frameworks in ML Zoomcamp: Flask, Docker, AWS Lambda, Kubernetes" />
@@ -105,7 +112,11 @@ Part 2 is dedicated to model deployment, which involves putting machine learning
 
 Our lectures aim to make machine learning theory accessible and engaging through real-world examples. Code demonstrations are provided directly in the lectures to show the implementation of concepts, enabling easier application in your projects.
 
-For instance, in one of the lectures about a linear algebra refresher, the lecturer switches between screens. Firstly, they explain the concept of the dot product of two vectors, and then they demonstrate its implementation using Python.
+Each concept comes with:
+- Clear explanations
+- Live code demos
+- Hands-on exercises
+- Real-world examples
 
 <figure>
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image7.png" alt="Screenshot of ML Zoomcamp lecture showing linear algebra concepts with Python implementation" />
@@ -114,24 +125,21 @@ For instance, in one of the lectures about a linear algebra refresher, the lectu
 
 ## Course Assignments and Scoring
 
-### Weekly Homework and Getting Feedback
+### Weekly Homework and Feedback
 
-To reinforce your learning, we offer regular homework assignments, reviewed and scored by industry professionals. Your scores are added to an anonymous leaderboard, creating friendly competition among course members and motivating you to do your best.
+What to expect:
+- Regular assignments
+- Anonymous leaderboard
+- Quick support via Slack
+- Live Q&A sessions
 
 <figure>
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image6.png" alt="ML Zoomcamp homework leaderboard showing student rankings and scores" />
-<figcaption>Anonymous leaderboard tracking student progress through weekly homework assignments</figcaption>
+<figcaption>Track your progress on the anonymous leaderboard</figcaption>
 </figure>
 
-For support, we have an [FAQ](https://docs.google.com/document/d/1LpPanc33QJJ6BSsyxVg-pWNMplal84TdZtq10naIhD8/edit#heading=h.sh0bgh8fj5rw){:target="_blank"} section with quick answers to common questions. If you need more help, [our Slack community](https://datatalks.club/slack.html){:target="_blank"} is always available for technical questions, clarifications, or guidance. Additionally, we host live Q&A sessions called "office hours" where you can interact with instructors and get immediate answers to your questions.
+### Learning in Public
 
-
-<figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image4.png" alt="ML Zoomcamp FAQ document with common student questions and answers" />
-<figcaption>Comprehensive FAQ section addressing common questions about the course</figcaption>
-</figure>
-
-### Learning in Public Benefits
 
 A unique feature is our "learning in public" approach, inspired by [Shawn @swyx Wang](https://www.youtube.com/watch?v=tkBCPqWKCL8&list=PL7NIGf5_PlM-Dk3lgPsZFT94Ng7PpRQEh&index=5&t=195s){:target="_blank"}'s [article](https://www.swyx.io/learn-in-public){:target="_blank"}. We believe that everyone has something valuable to contribute, regardless of their expertise level.
 
@@ -143,11 +151,12 @@ A unique feature is our "learning in public" approach, inspired by [Shawn @swyx 
 Throughout the course, we actively encourage and incentivize learning in public. By sharing your progress, insights, and projects online, you earn additional points for your homework and projects.
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image2.png" alt="ML Zoomcamp leaderboard showing bonus points for learning in public" />
-<figcaption>Course leaderboard highlighting bonus points earned through public learning activities</figcaption>
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image2.png" alt="ML Zoomcamp 
+leaderboard showing bonus points for learning in public" />
+<figcaption>Course leaderboard highlighting bonus points earned through public learning 
+activities</figcaption>
 </figure>
 
-This not only demonstrates your knowledge but also builds a portfolio of valuable content. Sharing your work online also helps you get noticed by social media algorithms, reaching a broader audience and creating opportunities to connect with individuals and organizations you may not have encountered otherwise.
 
 ### Building Your Portfolio with Course Projects
 
