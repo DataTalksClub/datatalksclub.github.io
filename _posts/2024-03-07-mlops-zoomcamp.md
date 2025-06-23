@@ -1,26 +1,26 @@
 ---
 authors:
 - valeriiakuka
-description: Learn MLOps principles and take your projects from the notebook to production
-  in 9 weeks
+description: "Free MLOps Course & Certification: Master Machine Learning Operations (MLOps) with hands-on training. Learn MLflow, Docker, AWS, and monitoring tools in this comprehensive 3-month program. Perfect for data scientists and ML engineers looking to master MLOps best practices, ML pipelines, and production deployment."
 image: images/posts/2024-03-07-mlops-zoomcamp/image9.png
 layout: post
-subtitle: Learn MLOps principles and take your projects from the notebook to production
-  in 9 weeks
+subtitle: "Master MLOps: From ML Engineering to Production Deployment"
 tags:
 - courses
 - mlops
-title: MLOps Zoomcamp
+title: "MLOps Zoomcamp: Free MLOps Course & Certification"
 ---
-
-In this article, we take a closer look at the MLOps Zoomcamp, a free nine-week course that covers practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring. It is perfect for people who plan to work with ML services at any stage.
 
 <figure>
 <img src="/images/posts/2024-03-07-mlops-zoomcamp/image2.png"  />
 <figcaption>Course Curriculum</figcaption>
 </figure>
 
-We will describe different aspects of this course so you can learn more about it:
+MLOps Zoomcamp is a free 3-month bootcamp that covers everything from basic MLOps concepts to advanced model deployment and monitoring.
+
+It is perfect for people who plan to work with ML services at any stage.
+
+## What You'll Learn in This Guide
 
 -   Key course features
 -   Who is the course for?
@@ -30,27 +30,35 @@ We will describe different aspects of this course so you can learn more about it
 -   Learning in public
 -   DataTalks.Club community
 
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the waitlist</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
 
+## Why is MLOps Important?
 
-> The next cohort of the course starts on 13 May (Monday), 2024. If you’re ready to join, sign up [here](https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL){:target="_blank"}.
+MLOps (Machine Learning Operations) is becoming a critical skill in the AI and machine learning industry. As organizations move from experimental ML projects to production systems, understanding the complete MLOps cycle is essential for:
 
-### Why is it important?
+- **Streamlining ML development**: Automate and standardize the machine learning lifecycle
+- **Ensuring production success**: Bridge the gap between data science and operations
+- **Maintaining quality**: Implement MLOps best practices for reliable ML systems
+- **Scaling ML solutions**: Build robust ML pipelines that can handle real-world demands
 
-MLOps (machine learning operations) is becoming a must-know skill for many data professionals. With all the noise around that topic, it might be difficult to find one source covering the basics of each stage of the MLOps cycle and giving you the practical knowledge you could apply to your work.
+This free MLOps course provides hands-on training with industry-standard tools like MLflow, Docker, and AWS. Whether you're interested in MLOps training, looking for an MLOps bootcamp, or want to join an active MLOps community, our comprehensive program covers everything you need to succeed in machine learning operations.
 
-That's why DataTalks.Club created the free MLOps course. It is practical and focused, designed to help you take your projects from the notebook to production.
+## What Makes MLOps Zoomcamp Different
 
-### Key features of MLOps Zoomcamp
+- **Comprehensive Curriculum**: The course explores each part of the entire MLOps cycle
+- **Hands-On Project**: A final project to apply the skills learned from the course and enhance your portfolio
+- **Diverse materials**: Video lectures, code samples, and community notes. Weekly homework for practice.
+- **Supportive community**: Course channel in Slack to ask questions and interact with peers and instructors.
+- **Expert Instructors**: Cristian Martinez, Alexey Grigorev, Emeli Dral, and others.
 
--   Comprehensive Curriculum: The course explores each part of the entire MLOps cycle
--   Hands-On Project: A final project to apply the skills learned from the course and enhance your portfolio
--   Diverse materials: Video lectures, code samples, and community notes. Weekly homework for practice.
--   Supportive community: Course channel in Slack to ask questions and interact with peers and instructors.
--   Expert Instructors: Cristian Martinez, Alexey Grigorev, Emeli Dral, and others.
-
-
-
-### Who is the course for?
+## Who the Course is For and Prerequisites
 
 This course is for:
 
@@ -58,11 +66,7 @@ This course is for:
 -   ML engineers
 -   Software developers who are interested in understanding MLOps, the process of putting machine learning code in production.
 
-
-
 MLOps involves transitioning the raw code from a development environment into a deployed model within a live service, including stages for performance monitoring and problem-solving.
-
-Before we get into the details, it’s important to know what skills you should have to follow the course comfortably.
 
 Here are the main prerequisites for the course:
 
@@ -80,99 +84,94 @@ Here are the main prerequisites for the course:
 
 ## Course Curriculum
 
-The course curriculum is structured to guide you step-by-step through each stage of the MLOps cycle starting from experimentation and model selection to model deployment to monitoring. You’ll spend the first six weeks learning and practicing each part of the MLOps cycle. In the concluding two weeks, you will apply your acquired knowledge and skills to develop an [end-to-end machine learning project](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/07-project){:target="_blank"}.
+The course curriculum is structured to guide you through the essential elements of MLOps, beginning with foundational concepts and advancing to production deployment and monitoring.
 
 <figure>
 <img src="/images/posts/2024-03-07-mlops-zoomcamp/image2.png"  />
-<figcaption>Course Curriculum</figcaption>
+<figcaption><p>Course overview: A complete journey through modern MLOps tools and technologies</p></figcaption>
 </figure>
 
--   Week 1: Introduction & Prerequisites
--   Week 2: Experiment tracking and model management
--   Week 3: Orchestration and ML Pipelines
--   Week 4: Model Deployment
--   Week 5: Model Monitoring
--   Week 6: Best Practices
--   Weeks 7, 8, 9: Project
+### Course Structure
 
+The curriculum follows a logical progression from experimentation to production deployment, culminating in an end-to-end project. Here's what you'll learn each week:
 
+#### Core Technologies
 
-Let's quickly go over each week, focusing on the main points and the tech you'll use.
+**Module 1: Infrastructure & Prerequisites**
+- Set up development environment with Docker and cloud services
+- Learn AWS basics and infrastructure setup
+- Hands-on practice with containerization and ML model deployment basics
 
-<figure>
-<img src="/images/posts/2024-03-07-mlops-zoomcamp/image4.png"  />
-<figcaption>Course <a href="https://www.youtube.com/live/hwtdTrBp6TA?si=5P7u2BbQh2deIyI3">opening presentation</a> from the previous cohort</figcaption>
-</figure>
+**Module 2: Experiment Tracking and Model Management**
+- Master experiment tracking with MLflow
+- Implement model registry and versioning
+- Track and organize ML experiments effectively
+- Compare and analyze experiment results
 
-### Week 1: Introduction & Prerequisites
+**Module 3: Orchestration and ML Pipelines**
+- Build automated ML training pipelines with Mage
+- Implement reproducible model training workflows
+- Create end-to-end ML pipeline orchestration
+- Manage dependencies and data flow
 
-**Tech**: Docker, AWS
+**Module 4: Model Deployment**
+- Deploy models using multiple approaches:
+  - Batch prediction pipelines
+  - Real-time web services with Flask
+  - Streaming services with AWS Lambda & Kinesis
+- Learn containerization for model serving
+- Implement CI/CD for ML models
 
-**Focus**: Week 1 is dedicated to setting up the key tools and technologies you'll be using throughout the course and introducing you to the concept of MLOps and why we need to use that concept.
+**Module 5: Model Monitoring**
+- Set up monitoring systems with Prometheus and Grafana
+- Track model performance and data drift with Evidently AI
+- Implement alerting and dashboard creation
+- Monitor service health and model metrics
 
-### Week 2: Experiment tracking and model management
+**Module 6: Best Practices**
+- Implement testing strategies for ML systems
+- Write unit tests and integration tests
+- Set up CI/CD pipelines with GitHub Actions
+- Apply code quality checks and best practices
+- Work with cloud infrastructure using LocalStack
 
-**Tech**: MLFlow
+#### Project Phase
 
-**Focus**: Week 2 covers experiment tracking to store and organize relevant information about your experiments. For example, the input data, source code, model architecture parameters, and corresponding outputs of the model.
+The final weeks are dedicated to applying your knowledge in a real-world MLOps project. This project will become a valuable addition to your portfolio and demonstrate your practical MLOps skills.
 
-### Week 3: Orchestration and ML Pipelines
+1. Project Requirements
+  - Choose a dataset that interests you
+  - Train a model and track your experiments
+  - Create an automated training pipeline
+  - Deploy your model (batch, web service, or streaming)
+  - Set up monitoring and performance tracking
+  - Follow MLOps best practices
 
-**Tech**: Mage
+2. Technology Options
+  - Cloud: AWS, GCP, Azure
+  - Experiment tracking: MLflow, Weights & Biases
+  - Orchestration: Mage, Airflow, Prefect
+  - Monitoring: Evidently AI, Prometheus, Grafana
+  - CI/CD: GitHub Actions, GitLab CI/CD
 
-Focus: Week 3 focuses on creating a production-ready pipeline for training machine learning models. It means that the pipeline is easily reproduced, and re-run, in a fully automated way.
+3. Evaluation Process
+  - Develop your project over 2 weeks
+  - Review at least 3 other projects during peer review week
+  - Provide constructive feedback to your peers
+  - Document your solution and architecture
 
-### Week 4: Model Deployment
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the waitlist</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
 
-**Tech**: Flask, Docker, MLflow, Mage, AWS Lambda & AWS Kinesis
+## Course Assignments and Scoring
 
-**Focus**: Week 4 introduces you to the three ways of model deployment and gives you a demonstration of how to work with each of them.
-
-### Week 5: Model Monitoring
-
-Tech: Prometheus, Evidently AI, and Grafana
-
-**Focus**: Week 5 is about monitoring machine learning models including service health, model performance, data quality and integrity, and data Drift & concept drift.
-
-### Week 6: Best Practices
-
-**Tech**: Python, Docker, Localstack, Github Actions
-
-**Focus**: Week 6 summarizes the best practices like unit tests, integration tests, checking code quality, and automating deployments with CI/CD and GitHub Actions.
-
-### Weeks 7, 8, 9: Project
-
-**Duration**: 2 weeks for development, 1 week for peer review
-
-**Objective**: The project focuses on applying your acquired skills to build a data engineering pipeline from scratch. Completing this hands-on project not only validates your skills but also enhances your portfolio, offering a competitive edge in job searches.
-
-**Peer Review**: To complete the project, you are required to evaluate projects from at least three of your peers. Failure to do so will result in your project being marked as incomplete. For detailed peer review criteria, check this [link](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/07-project){:target="_blank"}.
-
-**Project Requirements**:
-
--   Choose a dataset of interest
--   Train a model on the selected dataset and track your experiments
--   Develop a pipeline for model training
--   Deploy the model in a batch, as a web service, or in a streaming format
--   Monitor your model's performance
--   Adhere to best practices
-
-
-
-<figure>
-<img src="/images/posts/2024-03-07-mlops-zoomcamp/image6.png"  />
-<figcaption>Star history of the <a href="https://github.com/DataTalksClub/mlops-zoomcamp/tree/main">MLOps Zoomcamp GitHub repository</a></figcaption>
-</figure>
-
-> To support us, star the repository of the MLOps Zoomcamp. You can do it [here](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main){:target="_blank"}.
-
-The [course description](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main){:target="_blank"} on GitHub provides a detailed overview of the topics covered each week. You can see the video lectures, slides, code, and community notes for each week of the course to dive into the content. By the end of the course, you will have acquired the fundamental skills necessary for a career as a data engineer.
-
-> If you’re ready to join the next cohort of the course, submit this [form](https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL){:target="_blank"} to register and stay updated.
-
-## Course assignments and scoring
-
-### Homework and getting feedback
+### Homework and Getting Feedback
 
 To reinforce your learning, you can submit a homework assignment at the end of each week. Your scores are added to an anonymous leaderboard, creating friendly competition among course members and motivating you to do your best.
 
@@ -188,7 +187,7 @@ For support, we have an [FAQ](https://docs.google.com/document/d/12TlBfhIiKtyBv8
 <figcaption>A screenshot of a <a href="https://docs.google.com/document/d/12TlBfhIiKtyBv8RnsoJR6F72bkPDGEvPOItJIxaEzE0/edit">FAQ document</a></figcaption>
 </figure>
 
-### Learning in public approach
+### Learning in Public
 
 A unique feature is our "learning in public" approach, inspired by [Shawn @swyx Wang](https://www.youtube.com/watch?v=tkBCPqWKCL8&list=PL7NIGf5_PlM-Dk3lgPsZFT94Ng7PpRQEh&index=5&t=195s){:target="_blank"}'s [article](https://www.swyx.io/learn-in-public){:target="_blank"}. We believe that everyone has something valuable to contribute, regardless of their expertise level.
 
@@ -206,7 +205,13 @@ Throughout the course, we actively encourage and incentivize learning in public.
 
 This not only demonstrates your knowledge but also builds a portfolio of valuable content. Sharing your work online also helps you get noticed by social media algorithms, reaching a broader audience and creating opportunities to connect with individuals and organizations you may not have encountered otherwise.
 
-## DataTalks.Club community
+## Building Your Portfolio with MLOps Projects
+
+If you've been in machine learning interviews or researched MLOps roles, you know that having practical experience with production ML systems is crucial. This is especially important if you're transitioning from data science to MLOps or seeking your first role in the field.
+
+In the final weeks of the course, you'll build an end-to-end MLOps project that showcases everything you've learned. Your project will be peer-reviewed by other participants, providing you with valuable feedback and the opportunity to learn from different approaches to MLOps challenges.
+
+## DataTalks.Club Community
 
 DataTalks.Club has a supportive community of like-minded individuals in [our Slack](https://datatalks.club/slack.html){:target="_blank"}. It is the perfect place to enhance your skills, deepen your knowledge, and connect with peers who share your passion. These connections can lead to lasting friendships, potential collaborations in future projects, and exciting career prospects.
 
@@ -215,8 +220,132 @@ DataTalks.Club has a supportive community of like-minded individuals in [our Sla
 <figcaption>Course channel in <a href="https://datatalks.club/slack.html">our Slack community</a></figcaption>
 </figure>
 
-## Conclusion
 
-The MLOps Zoomcamp offers a comprehensive and hands-on approach to mastering the essentials of machine learning operations. It provides a solid foundation for anyone looking to integrate ML services into real-world applications. Whether you’re looking to enhance your portfolio, boost your career prospects, or simply deepen your understanding of MLOps, this course can help you achieve your goals.
+## Quick Start Guide for MLOps Zoomcamp
 
-Again, the next cohort starts on 13 May (Monday), 2024. You can [register](https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL){:target="_blank"} for the MLOps Zoomcamp now.
+MLOps Zoomcamp offers a practical path to mastering machine learning operations. In just 3 months, you'll gain:
+
+- Hands-on experience with modern MLOps stack (MLflow, Docker, AWS, Evidently AI, Prometheus)
+- Build production-ready ML systems from experimentation to monitoring
+- Join a vibrant community of ML practitioners and MLOps enthusiasts
+
+
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the waitlist</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+## Frequently Asked Questions
+
+<details>
+<summary><strong>What is MLOps and why should I learn it?</strong></summary>
+
+MLOps (Machine Learning Operations) is a set of practices that combines Machine Learning, DevOps, and Data Engineering. It's crucial for:
+- Automating ML pipelines
+- Deploying models to production
+- Monitoring model performance
+- Ensuring ML system reliability
+
+Learning MLOps is essential for anyone working with machine learning in production environments.
+</details>
+
+<details>
+<summary><strong>Is this MLOps course really free?</strong></summary>
+
+Yes! This is a completely free MLOps course. You get:
+- Full access to all course materials
+- Hands-on projects and assignments
+- Community support in our Slack workspace
+- Certificate upon completion (for live cohort participants)
+</details>
+
+<details>
+<summary><strong>How long does the course take to complete?</strong></summary>
+
+Approximately 3 months, with content spread across different modules covering the complete MLOps cycle. The course includes:
+- 6 core technical modules
+- Project work
+- Peer review period
+</details>
+
+<details>
+<summary><strong>What tools and technologies will I learn?</strong></summary>
+
+The course covers essential MLOps tools and platforms:
+- MLflow for experiment tracking
+- Docker for containerization
+- AWS services (including Kinesis)
+- Prometheus and Grafana for monitoring
+- Mage for ML pipeline orchestration
+- GitHub Actions for CI/CD
+</details>
+
+<details>
+<summary><strong>Do I need to register for the course?</strong></summary>
+
+Registration is not mandatory - it's primarily used to gauge interest and for analytics. You can:
+- Start learning and submitting homework without registering while a cohort is "live"
+- Join the course even after it has started
+- Submit homework as long as the submission forms are open
+
+However, be aware that there are deadlines for final projects, so plan accordingly.
+</details>
+
+<details>
+<summary><strong>How is the course delivered?</strong></summary>
+
+The course includes:
+- Pre-recorded video lectures you can watch at your own pace
+- Regular office hours (live Q&A sessions) which are also recorded
+- Course materials available in the GitHub repository
+- Active MLOps community support in Slack
+</details>
+
+<details>
+<summary><strong>What are the prerequisites?</strong></summary>
+
+To get the most out of this MLOps course, you should have:
+- Prior programming experience (1+ year)
+- Basic understanding of machine learning concepts
+- Familiarity with Python
+- Basic command line knowledge
+- Previous exposure to Docker (recommended)
+</details>
+
+<details>
+<summary><strong>Can I get a certificate?</strong></summary>
+
+Yes, certificates are available when completing the course with a "live" cohort. Requirements include:
+- Completing the technical modules
+- Building an end-to-end MLOps project
+- Participating in peer reviews
+- Following MLOps best practices
+
+Note: Certificates are not available in self-paced mode.
+</details>
+
+<details>
+<summary><strong>When is the next cohort?</strong></summary>
+
+The next cohort starts in May 2024. For future cohorts and other courses, check the [complete schedule of DataTalks.Club courses](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}.
+
+Note: While we aim to run regular cohorts, there's no guarantee that the same courses will be conducted year after year.
+</details>
+
+
+## Quick Links
+
+Ready to begin your data engineering journey? Here's everything you need:
+
+- [MLOps Zoomcamp GitHub Repository](https://github.com/DataTalksClub/mlops-zoomcamp){:target="_blank"}
+- [Join DataTalks.Club Community](https://datatalks.club/slack.html){:target="_blank"}
+- [Other Free Courses](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}
+
+## Related Posts
+- [Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"}
+- [Data Engineering Zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"}
+- [LLM Zoomcamp](https://datatalks.club/blog/llm-zoomcamp.html){:target="_blank"}

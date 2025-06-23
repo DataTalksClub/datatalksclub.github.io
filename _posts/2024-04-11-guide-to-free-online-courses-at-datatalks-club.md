@@ -1,12 +1,10 @@
 ---
 authors:
 - valeriiakuka
-description: Earn Certificates, Get Practical Projects & Learn Machine Learning, Data
-  Engineering, and MLOps, LLMs, Analytics in Stock Markets
+description: Discover DataTalks.Club's free online courses in Machine Learning, Data Engineering, MLOps, LLMs, and Stock Market Analytics. Learn practical skills, earn certificates, and join a supportive community.
 image: images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/cover.jpg
 layout: post
-subtitle: Earn Certificates, Get Practical Projects & Learn Machine Learning, Data
-  Engineering, and MLOps, LLMs, Analytics in Stock Markets
+subtitle: Earn Certificates, Get Practical Projects & Learn Machine Learning, Data Engineering, and MLOps, LLMs, Analytics in Stock Markets
 tags:
 - courses
 title: A Guide to Free Online Courses at DataTalks.Club
@@ -17,99 +15,130 @@ title: A Guide to Free Online Courses at DataTalks.Club
 <figcaption>DataTalks.Club courses</figcaption>
 </figure>
 
-We often receive questions about our free courses, such as when the next cohort starts, how to prepare, and whether materials are available beforehand. To address these inquiries, we've crafted this article as a comprehensive guide for all free DataTalks.Club courses.
+DataTalks.Club offers a range of free online courses in Machine Learning, Data Engineering, MLOps, LLMs, and Stock Market Analytics. Each course is designed to provide practical skills and real-world experience, with a focus on hands-on learning and project-based learning.
 
-The structure of this article is as follows:
+## DataTalks.Club Free Online Courses
 
--   A table with the main information about our courses alongside the start dates of their next cohorts
--   How do I participate in the courses? Self-paced mode vs. cohort mode
--   Key aspects of our courses
--   Brief descriptions of each course
--   Information about DataTalks.Club community
-
-
-
-### Table with the main information about DataTalks.Club courses
-
-| Course | Duration | Next cohort | Article |  |
-| -------- | ------- | ------- | ------- | ------- |
-| <a href="#machine-learning-zoomcamp" target="_blank">Machine Learning Zoomcamp</a> | 16 weeks | September 2025 | [Article](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
-| <a href="#data-engineering-zoomcamp" target="_blank">Data Engineering Zoomcamp</a> | 9 weeks | January 2026 | [Article](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
-| <a href="#mlops-zoomcamp" target="_blank">MLOps Zoomcamp</a> | 9 weeks | May 2025 | [Article](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
-| <a href="#analytics-in-stock-markets-zoomcamp" target="_blank">Stock Markets Analytics Zoomcamp</a> | 8 weeks | April 2025 | [Article](https://pythoninvest.com/course){:target="_blank"} | <a href="https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
-| <a href="#llm-zoomcamp" target="_blank">LLM Zoomcamp</a> | 10 weeks | June 2025 | Article | <a href="https://github.com/DataTalksClub/llm-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| Course | Duration | Next cohort | Register | Article |  |
+| -------- | ------- | ------- | ------- | ------- | ------- |
+| [Machine Learning Zoomcamp](#machine-learning-zoomcamp) | 16 weeks | September 2025 | [Register](https://airtable.com/appflP5cuR8bD5MIm/shryxwLd0COOEaqXo) | [Article](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| [Data Engineering Zoomcamp](#data-engineering-zoomcamp) | 9 weeks | January 2026 | [Register](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD) | [Article](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| [MLOps Zoomcamp](#mlops-zoomcamp) | 3 months | May 2025 | [Register](https://airtable.com/shryxwLd0COOEaqXo) | [Article](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| [Stock Markets Analytics Zoomcamp](#stock-markets-analytics-zoomcamp) | 8 weeks | April 2025 | [Register](https://airtable.com/shryxwLd0COOEaqXo) | [Article](https://pythoninvest.com/course){:target="_blank"} | <a href="https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| [LLM Zoomcamp](#llm-zoomcamp) | 10 weeks | June 2025 | [Register](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q) | [Article](https://datatalks.club/blog/llm-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/llm-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
 
 
-### How do I participate in the courses? Self-paced mode vs. cohort mode
-
-All course materials are freely accessible on DataTalks.Club's GitHub page. You can choose from two modes of learning:
-
--   Self-paced mode: Ideal for individuals who prefer to learn at their own pace or are interested in specific topics from the course. In this mode, you cannot submit homework for review or receive a certificate. For those features, consider the alternative mode.
--   Cohort mode: This mode enables participants to earn a certificate by timely completing and submitting the required course project(s). Additional benefits include homework submission for feedback, participation in online office hours to ask your questions, and access to bonus workshops and other online events organized for some cohorts.
-
-
+## Machine Learning Zoomcamp
 
 <figure>
-<img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/image7.png"  />
-<figcaption>Sample certificates for all DataTalks.Club courses</figcaption>
-</figure>
-
-### Key aspects of our courses
-
--   **Blending Theory and Practice:** We cover the key concepts of each topic, and then give you the chance to put what you've learned into practice.
--   **Course Materials:** Alongside video lectures, we provide code demos to bring the concepts to life. This way, you get to see how these ideas work in practice, not just in theory.
--   **Homework:** After each module, we assign homework. It's your opportunity to test your understanding.
--   **The Final Project:** At the end of the course, you'll tackle a final project. This is where you can apply everything from the course to create an end-to-end project and enhance your portfolio.
--   **DataTalks.Club Community:** Our community is here to support you. Through our Slack channel, you can ask questions, share insights, or simply connect with fellow learners and instructors.
-
-
-
-### Machine Learning Zoomcamp
-
-<figure>
-<img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/image6.png"  />
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png"  />
 <figcaption>Technologies used in the Machine Learning Zoomcamp</figcaption>
 </figure>
 
-This course is perfect for those who want to understand the fundamentals of machine learning and learn to use the main ML frameworks and tools. The only requirement for this course is prior programming experience (1+ year) and familiarity with the command line.
+[Machine Learning Zoomcamp](#machine-learning-zoomcamp) is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. Next cohort starts September 2025.
 
-You don’t have to have any prior knowledge of machine learning as we’ll guide you from the very basics to advanced topics. The course is divided into two parts:
+### Prerequisites
 
--   Part 1 covers machine learning algorithms implemented in Python, including Linear Regression, Classification, Decision Trees, Ensemble Learning, and Neural Networks.
--   Part 2 focuses on deploying models using popular frameworks like Flask, TensorFlow, and Kubernetes.
+The only requirement for this course is prior programming experience (1+ year) and familiarity with the command line.
 
-> You can find more information about the course on its [GitHub repository](https://github.com/DataTalksClub/machine-learning-zoomcamp). If you’re ready to join, register using this [form](https://airtable.com/appflP5cuR8bD5MIm/shryxwLd0COOEaqXo).
+### Course Structure
 
-### Data Engineering Zoomcamp
+The course is divided into two parts:
+
+#### Part 1: Machine Learning Fundamentals
+- Linear regression and feature engineering
+- Classification and model evaluation
+- Decision trees and ensemble learning
+- Neural networks and deep learning
+
+**Key tools:** Python, NumPy, Pandas, Scikit-Learn, TensorFlow
+
+#### Part 2: Model Deployment
+- Web services with Flask
+- Containerization with Docker
+- Cloud deployment on AWS Lambda
+- Orchestration with Kubernetes
+
+**Key tools:** Flask, Docker, AWS Lambda, Kubernetes, TensorFlow Serving
+
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appflP5cuR8bD5MIm/shryxwLd0COOEaqXo" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join Machine Learning Zoomcamp</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+[↑ Back to the courses table](#datatalksclub-free-online-courses)
+
+## Data Engineering Zoomcamp
 
 <figure>
-<img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/image4.png"  />
+<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.jpeg"  />
 <figcaption>Data Engineering Zoomcamp overview</figcaption>
 </figure>
 
-This course is suited for people who already know how to code and use basic SQL and want to learn about building data systems.
+[Data Engineering Zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"} is a free 9-week course teaching data engineering. You'll learn how to build data pipelines, data warehouses, and analytics engines, and apply your skills to a real-world project. Next cohort starts January 2026.
 
-You’ll spend the first six weeks learning and practicing each part of the data engineering pipeline. In the concluding three weeks, you will apply your acquired knowledge and skills to develop an end-to-end data pipeline from the ground up.
+### Prerequisites
 
--   Week 1: Introduction & Prerequisites
--   Week 2: Workflow Orchestration
--   Week 3: Data Warehouse
--   Week 4: Analytics engineering
--   Week 5: Batch processing
--   Week 6: Streaming
--   Weeks 7, 8, 9: Project
+-   Skilled in coding
+-   Comfortable with the command line
+-   Basic SQL knowledge
 
-> You can find more information about the course on its [GitHub repository](https://github.com/DataTalksClub/data-engineering-zoomcamp). If you’re ready to join, register using this [form](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD).
+### Course Structure
 
-### MLOps Zoomcamp
+You'll spend the first six weeks learning and practicing each part of the data engineering pipeline. In the concluding three weeks, you will apply your acquired knowledge and skills to develop an end-to-end data pipeline from the ground up.
+
+- Week 1: Introduction & Prerequisites
+- Week 2: Workflow Orchestration
+- Week 3: Data Warehouse
+- Week 4: Analytics engineering
+- Week 5: Batch processing
+- Week 6: Streaming
+- Weeks 7, 8, 9: Project
+
+Technologies you'll learn:
+
+- **Infrastructure:** Docker, PostgreSQL, Google Cloud Platform (GCP), Terraform
+- **Orchestration:** Mage.AI, Google Cloud Storage
+- **Data Warehousing:** BigQuery, SQL
+- **Analytics:** dbt, Looker Studio
+- **Processing:** Apache Spark, Spark SQL
+- **Streaming:** Apache Kafka, KSQL, Faust
+- **Programming:** Python, SQL
+
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join Data Engineering Zoomcamp</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+[↑ Back to the courses table](#datatalksclub-free-online-courses)
+
+
+## MLOps Zoomcamp
 
 <figure>
 <img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/image2.png"  />
 <figcaption>MLOps Zoomcamp overview</figcaption>
 </figure>
 
-This course is useful for people who plan to work with ML services at any stage. It can be useful for data scientists, ML engineers, and software developers who are interested in understanding MLOps, the process of putting machine learning code in production.
+[MLOps Zoomcamp](https://datatalks.club/blog/mlops-zoomcamp.html) is useful for people who plan to work with ML services at any stage. It can be useful for data scientists, ML engineers, and software developers who are interested in understanding MLOps, the process of putting machine learning code in production.
 
+### Prerequisites
+-   Prior programming experience (at least 1+ year)
+-   Prior exposure to machine learning (at work or from other courses, e.g. from [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"})
+-   Being comfortable with the command line
+-   Python
+-   Docker (you can check [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} for that)
+
+
+### Course Structure
 The course guides you step-by-step through each stage of the MLOps cycle starting from experimentation and model selection to model deployment to monitoring. In the concluding three weeks, you will apply your acquired knowledge and skills to develop an end-to-end machine learning project.
 
 -   Week 1: Introduction & Prerequisites
@@ -120,18 +149,91 @@ The course guides you step-by-step through each stage of the MLOps cycle startin
 -   Week 6: Best Practices
 -   Weeks 7, 8, 9: Project
 
-> You can find more information about the course on its [GitHub repository](https://github.com/DataTalksClub/mlops-zoomcamp). If you’re ready to join, register using this [form](https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL).
+Technologies you'll learn:
 
-### Analytics in Stock Markets Zoomcamp
+- Python
+- Docker
+- OpenAI API
+- LangChain
+- Hugging Face
+- Ollama
+- Elasticsearch
+- Qdrant
+- dlt
+- Streamlit
+
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join MLOps Zoomcamp</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+[↑ Back to the courses table](#datatalksclub-free-online-courses)
+
+
+## LLM Zoomcamp
+
+<figure>
+<img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/image1.png"  />
+<figcaption>LLM Zoomcamp cover</figcaption>
+</figure>
+
+LLM Zoomcamp is a free online course to get started with real-life applications of LLMs. In 10 weeks, you will learn how to build an AI system that answers questions about your knowledge base. The next cohort starts June 2025.
+
+### Prerequisites
+- Comfortable with programming and Python
+- Comfortable with command line
+- Comfortable with Docker
+- No previous exposure to AI or ML is required
+
+### Course Curriculum
+
+- Module 1: Introduction to LLMs and RAG
+- Module 2: Vector Search
+- Module 3: Evaluation
+- Module 4: Monitoring
+- Module 5: Best Practices
+- Module 6: End-to-End Project Example
+
+Technologies you'll learn:
+- OpenAI API
+- LangChain
+- Hugging Face
+- Ollama
+- Qdrant
+- Elasticsearch
+- Streamlit
+- Python
+
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join LLM Zoomcamp</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+[↑ Back to the courses table](#datatalksclub-free-online-courses)
+
+## Analytics in Stock Markets Zoomcamp
 
 <figure>
 <img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/image3.png"  />
 <figcaption>Analytics in Stock Markets Zoomcamp cover</figcaption>
 </figure>
 
-This course will teach you data-driven decision-making, using popular Python libraries to work with financial data from data types and cleaning to hypothesis testing and making predictions. Also, it will cover the basics of trading strategies and simulation. As a result, you will build a semi-automatic trading system to systematically generate predictions and execute trades.
+[Analytics in Stock Markets Zoomcamp](https://pythoninvest.com/course) will teach you data-driven decision-making, using popular Python libraries to work with financial data from data types and cleaning to hypothesis testing and making predictions. Also, it will cover the basics of trading strategies and simulation. As a result, you will build a semi-automatic trading system to systematically generate predictions and execute trades.
 
-You need basic Python knowledge, an analytical mindset to make decisions based on data, and a keen interest in financial markets to apply the knowledge immediately to succeed in this course.
+### Prerequisites
+- Basic Python knowledge
+- An analytical mindset to make decisions based on data
+- A keen interest in financial markets
+
+### Course Structure
 
 -   Week 1: Introduction and Data Sources
 -   Week 2: Working with the Data (in Pandas)
@@ -140,32 +242,82 @@ You need basic Python knowledge, an analytical mindset to make decisions based o
 -   Week 5: Deployment and Automation
 -   Week 6, 7, 8: Project
 
-> You can find more information about the course on its [GitHub repository](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp). If you’re ready to join, register using this [form](https://pythoninvest.com/course).
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://pythoninvest.com/course" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join Analytics in Stock Markets Zoomcamp</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
 
-### LLM Zoomcamp
+[↑ Back to the courses table](#datatalksclub-free-online-courses)
+
+## Course Participation Options
+
+All course materials are hosted on DataTalks.Club's GitHub repositories and are freely accessible to everyone. We offer two distinct ways to participate in our courses:
+
+### Self-paced Learning
+This option allows you to access all course materials and learn independently:
+- Access to all course content, including videos and code examples
+- Freedom to study at your own pace
+- Ability to focus on specific topics of interest
+- No deadlines or formal assessments
+- No certificate of completion
+
+### Cohort-based Learning
+This structured option runs on a fixed schedule with a group of learners:
+- Fixed start and end dates
+- Weekly deadlines to keep you on track
+- Certificate upon successful completion of course requirements
+- Access to additional features:
+  - Homework assignments
+  - Weekly live office hours
+  - Interactive workshops
 
 <figure>
-<img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/image1.png"  />
-<figcaption>LLM Zoomcamp cover</figcaption>
+<img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/image7.png"  />
+<figcaption>Sample certificates for all DataTalks.Club courses</figcaption>
 </figure>
 
-If you’re comfortable with Python and the command line, you can pass this course to learn about real-life applications of LLMs. In 10 weeks you will learn how to build an AI bot that can answer questions about your knowledge base. No previous exposure to AI or ML is required!
+## Course Structure and Components
 
-This is a work in progress as we just plan to run the course’s first iteration in Summer 2024. We want to cover:
+### Core Learning Materials
+- **Video Lectures:** Each module includes recorded lectures explaining key concepts
+- **Code Examples:** Practical demonstrations of concepts in action
+- **Homework Assignments:** Weekly exercises to practice new skills
+- **Course Projects:** End-to-end implementations that integrate all learned concepts
 
--   Introduction to LLMs and RAG
--   Open-source and self-hosting LLMs
--   Vector databases
--   LLM Orchestration
--   Monitoring and guardrails
--   Tips and tricks
+### Learning Approach
+Our courses follow a practical, hands-on approach:
+- Start with fundamental concepts
+- Progress to practical implementations
+- Focus on industry-standard tools and practices
+- Culminate in a comprehensive final project
 
-> You can find more information about the course on its [GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp). If you’re ready to join, register using this [form](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q).
+### Tools and Technologies
+- All courses use current, industry-relevant tools
+- Emphasis on open-source technologies
+- Focus on tools commonly used in professional settings
+- Regular updates to keep content current
 
-### DataTalks.Club community
+## Community and Support
 
-DataTalks.Club has a supportive community of like-minded individuals in [our Slack](https://datatalks.club/slack.html){:target="_blank"}. It is the perfect place to enhance your skills, deepen your knowledge, and connect with peers who share your passion. These connections can lead to lasting friendships, potential collaborations in future projects, and exciting career prospects.
+### Slack Community
+Our [Slack workspace](https://datatalks.club/slack.html){:target="_blank"} serves as the hub for:
+- Course discussions and questions
+- Technical problem-solving
+- Career discussions
+- Industry networking
+- Job opportunity sharing
 
-We host multiple types of events: podcasts, webinars, workshops, open-source spotlight, and book-of-the-week. You can check [our website](https://datatalks.club/events.html){:target="_blank"} and [YouTube channel with recordings](https://www.youtube.com/@DataTalksClub){:target="_blank"} to learn more about our events.
+### Regular Events
+We maintain an active community through various events:
+- Weekly technical podcasts with industry experts
+- Practical workshops on specific topics
+- Open-source project discussions
+- Book club meetings focusing on technical literature
 
-Use the form below to join DataTalks.Club!
+All events are recorded and available on our [YouTube channel](https://www.youtube.com/@DataTalksClub){:target="_blank"}, and upcoming events are listed on [our website](https://datatalks.club/events.html){:target="_blank"}.
+
+Ready to join our community? Use the form below to get started!
