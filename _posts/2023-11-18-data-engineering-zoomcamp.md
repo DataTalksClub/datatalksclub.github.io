@@ -1,35 +1,59 @@
 ---
 authors:
 - valeriiakuka
-description: Learn Data Engineering in 9 weeks
+description: "Free Data Engineering Bootcamp 2026: Master data engineering with hands-on training in Python, SQL, dbt, Kafka, and Spark. Join DataTalks.Club's comprehensive 9-week course covering modern data engineering tools, batch and stream processing, and real-world projects. Perfect for beginners and experienced developers."
 image: images/posts/2023-11-18-data-engineering-zoomcamp/cover.jpg
 layout: post
-subtitle: Learn Data Engineering in 9 weeks
+subtitle: "Master Modern Data Engineering: From Basics to Advanced Pipeline Development"
 tags:
 - courses
 - data-engineering
-title: Data Engineering Zoomcamp
+- bootcamp
+- certification
+title: "Data Engineering Zoomcamp 2026: Free Data Engineering Course & Certification"
 ---
 
-In this article, we take a closer look at the Data Engineering Zoomcamp, a free nine-week course that covers the fundamentals of data engineering. It is perfect for people who already know how to code and want to learn about building data systems.
+> **TL;DR:** Looking for a comprehensive data engineering course? Data Engineering Zoomcamp is a free 9-week bootcamp that covers everything from basic data engineering concepts to advanced pipeline development. Perfect for both beginners and experienced developers wanting to master modern data engineering tools and practices. The next cohort starts in January 2026. [Join here](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD){:target="_blank"}.
 
-We will describe different aspects of this course so you can learn more about it:
+<figure>
+<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.jpeg" alt="Data Engineering Zoomcamp course overview showing progression from Docker and Terraform setup through workflow orchestration, data warehousing, analytics engineering, to batch and stream processing" />
+<figcaption><p>Complete Data Engineering Zoomcamp curriculum: from infrastructure setup to stream processing</p></figcaption>
+</figure>
 
--   Who the course is for?
--   Course curriculum: what topics and technologies are covered by the course
-    -   Course project for your portfolio
--   Course assignments and scoring
-    -   Homework and getting feedback
-    -   Learning in public approach
--   DataTalks.Club community
+Want to become a data engineer or enhance your data engineering skills? 
 
+Data Engineering Zoomcamp by DataTalks.Club is a free, comprehensive 9-week course that takes you from fundamentals to production-ready data pipelines. Whether you're a beginner or an experienced developer, this bootcamp will help you master the essential tools and practices used by professional data engineers.
 
+## What You'll Learn in This Guide
+- [What makes Data Engineering Zoomcamp different](#what-makes-data-engineering-zoomcamp-different)
+- [Course curriculum and technologies](#course-curriculum)
+- [Certification requirements](#certification-requirements)
+- [Learning experience and community](#datatalks-club-community)
+- [Frequently asked questions](#frequently-asked-questions)
 
-> The next cohort of the course starts in January 2025. You can find more information about the course [here](https://github.com/DataTalksClub/data-engineering-zoomcamp/){:target="_blank"}. If you’re ready to join, sign up [here](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD){:target="_blank"}.
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the next cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+## What Makes Data Engineering Zoomcamp Different
+
+- **Free and Comprehensive**: Complete data engineering curriculum without cost barriers
+- **Practical Focus**: Learn by building real data pipelines and systems
+- **Industry-Standard Tools**: Master tools like Python, SQL, dbt, Kafka, and Spark
+- **Certification Path**: Earn a certificate by completing projects and peer reviews
+- **Active Community**: Join DataTalks.Club's vibrant community of data professionals
+
+> Read more about [all free courses at DataTalks.Club](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}.
+
 
 ### Who the course is for?
 
-Before we get into the details, it’s important to know what skills you should have to join the course comfortably.
+Before we get into the details, it's important to know what skills you should have to join the course comfortably.
 
 Here are the main prerequisites for the course:
 
@@ -37,139 +61,100 @@ Here are the main prerequisites for the course:
 -   Comfortable with the command line
 -   Basic SQL
 
-
-
-We'll mainly use Python, but if you're not familiar with it yet, it's not a problem. If you’re already programming in another language, you’ll have no trouble picking up Python [here](https://mlbookcamp.com/article/python){:target="_blank"}.
+We'll mainly use Python, but if you're not familiar with it yet, it's not a problem. If you're already programming in another language, you'll have no trouble picking up Python [here](https://mlbookcamp.com/article/python){:target="_blank"}.
 
 ## Course Curriculum
 
 The course curriculum is structured to guide you through the essential elements of data engineering, beginning with foundational concepts and advancing to complex topics.
 
 <figure>
-<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.jpeg"  />
-<figcaption><p>Course overview</p></figcaption>
+<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.jpeg" alt="Comprehensive overview of Data Engineering Zoomcamp showing the 9-week progression through different technologies and tools including Docker, Terraform, Mage, BigQuery, dbt, Spark, and Kafka" />
+<figcaption><p>Course overview: A complete journey through modern data engineering tools and technologies</p></figcaption>
 </figure>
 
-You’ll spend the first six weeks learning and practicing each part of the data engineering process. In the concluding three weeks, you will apply your acquired knowledge and skills to develop an end-to-end data pipeline from the ground up.
+### Course Structure
 
--   Week 1: Introduction & Prerequisites
--   Week 2: Workflow Orchestration
--   Week 3: Data Warehouse
--   Week 4: Analytics engineering
--   Week 5: Batch processing
--   Week 6: Streaming
--   Weeks 7, 8, 9: Project
+The curriculum follows a logical progression from infrastructure setup to advanced data processing, culminating in an end-to-end project. Here's what you'll learn each week:
 
+#### Core Technologies (Weeks 1-6)
 
+**Week 1: Infrastructure & Prerequisites**
+- Set up development environment with Docker and PostgreSQL
+- Learn cloud basics with GCP and infrastructure-as-code using Terraform
+- Hands-on practice with containerization and cloud resource management
 
-Let's quickly go over each week, focusing on the main points and the tech you'll use.
+**Week 2: Workflow Orchestration**
+- Master data pipeline orchestration with Mage.AI
+- Implement and manage Data Lakes using Google Cloud Storage
+- Build automated, reproducible data workflows
 
-### Week 1: Introduction & Prerequisites
+**Week 3: Data Warehouse**
+- Deep dive into BigQuery for enterprise data warehousing
+- Learn optimization techniques: partitioning and clustering
+- Implement best practices for data storage and retrieval
 
-**Tech**: Docker, Postgres, Google Cloud Platform (GCP), Terraform
+**Week 4: Analytics Engineering**
+- Transform raw data into analytics-ready models using dbt
+- Develop testing and documentation strategies
+- Create impactful visualizations with modern BI tools
 
-**Focus**: Week 1 is dedicated to setting up the key tools and technologies you'll be using throughout the course.
+**Week 5: Batch Processing**
+- Process large-scale data with Apache Spark
+- Master Spark SQL and DataFrame operations
+- Optimize batch processing workflows
 
--   **Local Part**: Learn to package your application and its dependencies with Docker and run a fully functioning database using PostgreSQL.
--   **Cloud Part**: Discover Google Cloud Platform and Terraform, focusing on automating the setup and management of your cloud architecture.
+**Week 6: Stream Processing**
+- Build real-time data pipelines with Kafka
+- Develop streaming applications using KSQL and Faust
+- Implement stream processing patterns and best practices
 
+#### Project Phase (Weeks 7-9)
 
+The final three weeks are dedicated to applying your knowledge in a real-world project:
 
-### Week 2: Workflow Orchestration
+1. **Project Requirements**:
+   - Select and process a dataset that interests you
+   - Build end-to-end data pipelines (batch or streaming)
+   - Implement both data lake and warehouse solutions
+   - Create analytical dashboards
+   
+2. **Deliverables**:
+   - Production-ready data pipeline
+   - Documented data models
+   - Interactive dashboard
+   - Project presentation
 
-**Tech**: Mage.AI, Google Cloud Storage (GCS)
+3. **Evaluation**:
+   - Peer review of at least three other projects
+   - Technical implementation quality
+   - Documentation completeness
+   - Solution architecture design
 
-**Focus**: Week 2 is about task automation and coordination within complex data pipelines.
-
--   Learn what Data Lakes are and how to set them up using GCS.
--   Use [Mage](https://www.mage.ai/){:target="_blank"} to connect multiple steps in the workflow into a single process.
-
-### Week 3: Data Warehouse
-
-**Tech**: BigQuery
-
-**Focus**: Week 3 focuses on efficient data management.
-
--   Learn to use Google's BigQuery for effective data management.
--   Study data storage techniques like partitioning and clustering, and understand their differences.
-
-
-
-### Week 4: Analytics engineering
-
-**Tech**: dbt
-
-**Focus**: Week 4 emphasizes transforming raw data into actionable insights.
-
--   Get introduced to dbt, a tool for data transformation.
--   Explore dbt models, their testing, documentation, and deployment options.
--   Conclude with a section on data visualization using Google Data Studio or Metabase.
-
-
-
-### Week 5: Batch processing
-
-Tech: Spark
-
-**Focus**: Week 5 explores the collection and processing of data blocks.
-
--   Dive into Spark SQL, DataFrames, and Spark internals.
--   Learn data manipulation techniques like joins.
--   Explore cloud-based options for running Spark more efficiently.
-
-
-
-### Week 6: Streaming
-
-**Tech**: Kafka, Stream Processing
-
-**Focus**: Week 6 transitions you from batch to Stream Processing, enabling real-time data handling.
-
--   Understand Kafka fundamentals, including advanced techniques like stream joins and windowing.
--   Cover Faust and Pyspark for Python-based stream processing.
--   Learn how to use KSQL and ksqlDB for data manipulation.
--   Complete the week by setting up your environment with Docker.
-
-
-
-### Weeks 7, 8, 9: Project
-
-**Duration**: 2 weeks for development, 1 week for peer review
-
-**Objective**: The project focuses on applying your acquired skills to build a data engineering pipeline from scratch. Completing this hands-on project not only validates your skills but also enhances your portfolio, offering a competitive edge in job searches.
-
-**Peer Review**: To complete the project, you are required to evaluate projects from at least three of your peers. Failure to do so will result in your project being marked as incomplete. For detailed peer review criteria, check this [link](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_7_project#peer-review-criteria){:target="_blank"}.
-
-**Project Requirements**:
-
--   Select a Dataset: Choose a dataset that intrigues you
--   Data Lake Pipeline: Create a pipeline to process the selected dataset and store it in a data lake.
--   Data Warehouse Pipeline: Develop another pipeline to move the data from the lake to a data warehouse.
--   Data Transformation: Transform and prepare the data in the warehouse to make it dashboard-ready.
--   Dashboard Creation: Build a dashboard featuring at least two tiles that visually represent your data.
-
-
-
-The [course description](https://github.com/DataTalksClub/data-engineering-zoomcamp){:target="_blank"} on GitHub provides a detailed overview of the topics covered each week. You can see the video lectures, slides, code, and community notes for each week of the course to dive into the content. By the end of the course, you will have acquired the fundamental skills necessary for a career as a data engineer.
-
-> If you’re ready to join the next cohort of the course, submit this [form](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD){:target="_blank"} to register and stay updated.
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the next cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
 
 ## Course assignments and scoring
 
 ### Homework and getting feedback
 
-To reinforce your learning, you can submit a homework assignment at the end of each week. It’s reviewed and scored by course instructors. Your scores are added to an anonymous leaderboard, creating friendly competition among course members and motivating you to do your best.
+To reinforce your learning, you can submit a homework assignment at the end of each week. It's reviewed and scored by course instructors. Your scores are added to an anonymous leaderboard, creating friendly competition among course members and motivating you to do your best.
 
 <figure>
-<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/image3.png"  />
-<figcaption><p>Anonymous leaderboard with scored homework</p></figcaption>
+<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/image3.png" alt="Anonymous leaderboard interface showing student rankings and scores for homework assignments with detailed breakdown of points" />
+<figcaption><p>Course leaderboard displaying student progress and achievements anonymously</p></figcaption>
 </figure>
 
 For support, we have an [FAQ](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit#heading=h.ak8tzux5gjvp){:target="_blank"} section with quick answers to common questions. If you need more help, [our Slack community](https://datatalks.club/slack.html){:target="_blank"} is always available for technical questions, clarifications, or guidance. Additionally, we host live Q&A sessions called "office hours" where you can interact with instructors and get immediate answers to your questions.
 
 <figure>
-<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/image1.png" />
-<figcaption><p>A screenshot of a FAQ document</p></figcaption>
+<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/image1.png" alt="Comprehensive FAQ document interface showing common questions and detailed answers about the Data Engineering Zoomcamp" />
+<figcaption><p>FAQ section providing quick answers to common course-related questions</p></figcaption>
 </figure>
 
 ### Learning in public approach
@@ -184,8 +169,8 @@ A unique feature is our "learning in public" approach, inspired by [Shawn @swyx 
 Throughout the course, we actively encourage and incentivize learning in public. By sharing your progress, insights, and projects online, you earn additional points for your homework and projects.
 
 <figure>
-<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/image4.png"  />
-<figcaption><p>Anonymous leaderboard from the previous cohort of the course. On the right, you can see the bonus points for learning in public</p></figcaption>
+<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/image4.png" alt="Course leaderboard showing student rankings with special highlighting of bonus points earned through public learning activities" />
+<figcaption><p>Previous cohort's leaderboard highlighting bonus points earned through learning in public activities</p></figcaption>
 </figure>
 
 This not only demonstrates your knowledge but also builds a portfolio of valuable content. Sharing your work online also helps you get noticed by social media algorithms, reaching a broader audience and creating opportunities to connect with individuals and organizations you may not have encountered otherwise.
@@ -195,16 +180,152 @@ This not only demonstrates your knowledge but also builds a portfolio of valuabl
 DataTalks.Club has a supportive community of like-minded individuals in [our Slack](https://datatalks.club/slack.html){:target="_blank"}. It is the perfect place to enhance your skills, deepen your knowledge, and connect with peers who share your passion. These connections can lead to lasting friendships, potential collaborations in future projects, and exciting career prospects.
 
 <figure>
-<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/image2.png"  />
-<figcaption><p>Course channel in our Slack community</p></figcaption>
+<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/image2.png" alt="DataTalks.Club Slack workspace showing active discussions in the Data Engineering Zoomcamp channel with community interactions" />
+<figcaption><p>Active discussions and peer support in our dedicated Slack community channel</p></figcaption>
 </figure>
 
-## Conclusion
+## Quick Start Guide
 
-The Data Engineering Zoomcamp offers a nine-week program covering the essentials of data engineering. As a student, you will explore different aspects of data engineering and technologies to work with each of them. The curriculum covers everything from managing workflows to proficiency in data warehousing and analytics engineering, emphasizing practical knowledge and its application in real-world scenarios.
+Data Engineering Zoomcamp offers a practical path to becoming a data engineer. In just 9 weeks, you'll gain:
 
-We focus on hands-on learning through consistent homework assignments and a final project, preparing graduates to advance in their data engineering careers. DataTalks.Club is a supportive community. We help more students finish the course and stay motivated.
+- Hands-on experience with modern data engineering stack (Docker, Terraform, dbt, Spark, Kafka)
+- Build production-ready data pipelines from ingestion to visualization
+- Join a vibrant community of data professionals and learners
 
-Again, the next cohort starts on January 15, 2024! Take your chance to start 2024 by learning data engineering.
+The next cohort starts in January 2026! Take the first step toward your data engineering career. Register for the course and start your learning journey today!
+
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the next cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
 
 [Register](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD){:target="_blank"} for the Data Engineering Zoomcamp.
+
+## Building Your Portfolio with Data Engineering Projects
+
+If you've participated in data engineering interviews or researched the field, you know the importance of having real-world projects in your portfolio. This is especially crucial if you're transitioning into data engineering or seeking your first role in the field.
+
+In the final three weeks of the course, you'll build an end-to-end data pipeline project that showcases everything you've learned. Your project will include:
+
+- Selecting and processing a dataset of your choice
+- Building data pipelines (batch or streaming)
+- Setting up a data warehouse
+- Creating analytical dashboards
+- Documenting your solution
+
+You'll use modern tools like:
+- Cloud platforms (GCP, AWS, or Azure)
+- Infrastructure as Code (Terraform)
+- Data processing frameworks (Spark, Kafka)
+- Analytics tools (dbt, BigQuery)
+
+Your project will be peer-reviewed by other participants, giving you valuable feedback and the opportunity to learn from others' solutions.
+
+Want to make your project stand out? Consider adding extra features like automated testing, CI/CD pipelines, or advanced visualizations. These additions can make your portfolio more impressive to potential employers.
+
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the next cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+## Frequently Asked Questions
+
+<details>
+<summary><strong>When does the next cohort start?</strong></summary>
+
+The next cohort starts in January 2026. [Register here](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD){:target="_blank"} before the course starts.
+</details>
+
+<details>
+<summary><strong>What are the prerequisites?</strong></summary>
+
+To get the most out of this course, you should have:
+- Basic coding experience
+- Familiarity with SQL
+- Python experience (helpful but not required)
+- No prior data engineering experience needed
+
+See [DE zoomcamp 2025 pre-course Q&A](https://github.com/DataTalksClub/data-engineering-zoomcamp#prerequisites){:target="_blank"} for more details.
+</details>
+
+<details>
+<summary><strong>How much time should I expect to spend?</strong></summary>
+
+- 5-15 hours per week, depending on your background
+- Includes watching videos, completing homework, and working on projects
+- More time might be needed during project weeks
+- Time commitment varies based on your familiarity with the tools and concepts
+</details>
+
+<details>
+<summary><strong>Can I take the course in self-paced mode?</strong></summary>
+
+Yes! The self-paced option includes:
+- All materials remain available after the course
+- Access to Slack community for support
+- Search previous discussions or ask @ZoomcampQABot for help
+- Continue working on homework and projects at your own pace
+- All course materials and recordings stay accessible
+</details>
+
+<details>
+<summary><strong>Where can I find the course videos?</strong></summary>
+
+Our videos are available in several playlists:
+- [Main Data Engineering Zoomcamp Playlist](https://www.youtube.com){:target="_blank"} (primary reference)
+- Year-specific playlists for office hours and updates
+</details>
+
+<details>
+<summary><strong>What are the certification requirements?</strong></summary>
+
+To earn your Data Engineering certification, you'll need to:
+
+1. **Complete the Project Requirements**
+   - Build an end-to-end data pipeline
+   - Implement both batch and streaming components
+   - Create analytical dashboards
+   - Document your solution architecture
+
+2. **Participate in Peer Learning**
+   - Review at least 3 other projects
+   - Submit reviews by the deadline
+   - Provide constructive feedback
+   - Engage with the community
+
+3. **Optional Bonus Activities**
+   - Share your learning journey
+   - Write technical articles
+   - Contribute to discussions
+   - Help other students
+</details>
+
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the next cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+## Quick Links
+
+Ready to begin your data engineering journey? Here's everything you need:
+
+- [DE Zoomcamp GitHub Repository](https://github.com/DataTalksClub/data-engineering-zoomcamp){:target="_blank"}
+- [Join DataTalks.Club Community](https://datatalks.club/slack.html){:target="_blank"}
+- [Other Free Courses](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}
+
+## Related Posts
+- [Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"}
+- [MLOps Zoomcamp](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"}
+- [LLM Zoomcamp](https://datatalks.club/blog/llm-zoomcamp.html){:target="_blank"}

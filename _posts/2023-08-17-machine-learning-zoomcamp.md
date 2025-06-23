@@ -8,8 +8,6 @@ subtitle: Master Machine Learning Engineering with Python in 4 Months
 tags:
 - courses
 - machine-learning
-- mlzoomcamp
-- zoomcamp
 title: "ML Zoomcamp 2025: Free Machine Learning Engineering Course"
 ---
 
@@ -19,6 +17,8 @@ title: "ML Zoomcamp 2025: Free Machine Learning Engineering Course"
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png" alt="ML Zoomcamp course overview showing progression from ML algorithms (Python, NumPy, Pandas, Scikit-learn) to deployment (Docker, Flask, Kubernetes)" />
 <figcaption>Complete ML Zoomcamp curriculum: from machine learning fundamentals to production deployment</figcaption>
 </figure>
+
+
 
 Want to become a machine learning engineer? 
 
@@ -49,6 +49,8 @@ Machine Learning Zoomcamp is a comprehensive, free four-month course that takes 
 - **Community-Driven**: Active Slack community and peer learning opportunities
 - **Industry-Relevant**: Tools and skills that employers actually look for
 - **Flexible Learning**: Choose between self-paced or structured cohort learning
+
+> Read more about [all free courses at DataTalks.Club](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}.
 
 ## Comprehensive Course Curriculum
 
@@ -336,6 +338,11 @@ Many of our alumni have successfully used their course projects in job interview
 
 Ready to begin your ML engineering journey? Here's everything you need:
 
-- [Course GitHub Repository](https://github.com/DataTalksClub/machine-learning-zoomcamp){:target="_blank"}: All course materials and code
-- [Join DataTalks.Club Community](https://datatalks.club/slack.html){:target="_blank"}: Connect with peers
-- [Other Free Courses](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}: Explore our MLOps and Data Engineering programs
+- [ML Zoomcamp GitHub Repository](https://github.com/DataTalksClub/machine-learning-zoomcamp){:target="_blank"}
+- [Join DataTalks.Club Community](https://datatalks.club/slack.html){:target="_blank"}
+- [Other Free Courses](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}
+
+## Related Posts
+- [Data Engineering Zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"}
+- [MLOps Zoomcamp](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"}
+- [LLM Zoomcamp](https://datatalks.club/blog/llm-zoomcamp.html){:target="_blank"}
