@@ -51,7 +51,7 @@ Machine Learning Zoomcamp is a comprehensive, free four-month course that takes 
 
 > Explore more [free courses at DataTalks.Club](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}.
 
-## Comprehensive Course Curriculum
+## Course Curriculum
 
 The course is divided into two main parts, carefully designed to build both your theoretical knowledge and practical skills.
 

@@ -5,6 +5,9 @@ name: DataTalks.Club
 twitter: '@DataTalksClub'
 permalink: /blog/:title.html
 
+kramdown:
+  parse_block_html: true
+
 exclude:
   - Gemfile
   - Gemfile.lock
