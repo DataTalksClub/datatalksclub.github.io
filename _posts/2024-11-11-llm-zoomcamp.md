@@ -1,14 +1,15 @@
 ---
 authors:
 - valeriiakuka
-description: Learn to apply LLMs in real life in 10 weeks
+description: "Free LLM Zoomcamp: Master Large Language Models with hands-on training in RAG, Vector Databases, and LLM Orchestration. Join DataTalks.Club's comprehensive 10-week course covering LLMs, evaluation, monitoring, and real-world applications. Perfect for Python developers looking to build AI-powered applications."
 image: images/posts/2024-11-11-llm-zoomcamp/cover.jpg
 layout: post
-subtitle: Learn to apply LLMs in real life in 10 weeks
+subtitle: "Master Modern LLM Applications: From Fundamentals to Production-Ready Systems"
 tags:
 - courses
-- llm
-title: LLM Zoomcamp
+- artificial-intelligence
+- large-language-models
+title: "LLM Zoomcamp 2025: Free Large Language Models Course & Certification"
 ---
 
 <figure>
@@ -16,36 +17,34 @@ title: LLM Zoomcamp
 <figcaption>Cover of the LLM Zoomcamp course</figcaption>
 </figure>
 
-In this article, we will talk about [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp){:target="_blank"}, our free online course to get started with real-life applications of LLMs. In 10 weeks, you will learn how to build an AI system that answers questions about your knowledge base.
+LLM Zoomcamp is a free online course to get started with real-life applications of LLMs. In 10 weeks, you will learn how to build an AI system that answers questions about your knowledge base.
 
-We will cover different aspects of this course so you can learn more about it:
+## What You'll Learn in This Guide
+- [Who is the Course For?](#who-is-the-course-for)
+- [Course Curriculum](#course-curriculum)
+- [Course Assignments and Scoring](#course-assignments-and-scoring)
+- [DataTalks.Club Community](#datatalksclub-community)
 
--   [Who is the Course For?](#who-is-the-course-for)
--   [Course Curriculum](#course-curriculum)
--   [Course Assignments and Scoring](#course-assignments-and-scoring)
-    -   [Homework and getting feedback](#homework-and-getting-feedback)
-    -   [Learning in Public Approach](#learning-in-public-approach)
-    -   [Course Projects for Your Portfolio](#course-projects-for-your-portfolio)
--   [DataTalks.Club Community](#datatalksclub-community)
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the 2025 cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
 
+## Who the Course is For and Prerequisites
 
-> [Looking for a free course about LLMs? Join our LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp/tree/main){:target="_blank"}
-
-## Who is the course for?
-
-Before we get into the details, it’s important to know what skills you should have to comfortably join the course.
+Before we get into the details, it's important to know what skills you should have to comfortably join the course.
 
 Here are the main prerequisites for the course:
-
--   Comfortable with programming and Python
--   Comfortable with command line
--   Docker
--   No previous exposure to AI or ML is required
-
-
+- Comfortable with programming and Python
+- Comfortable with command line
+- Comfortable with Docker
+- No previous exposure to AI or ML is required
 
 ## Course Curriculum
-
 -   Module 1: Introduction to LLMs and RAG
 -   Module 2: Open-source LLMs
 -   Module 3: Vector Databases
@@ -53,8 +52,6 @@ Here are the main prerequisites for the course:
 -   Module 5: LLM Orchestration and Ingestion
 -   Module 6: Best Practices
 -   Module 7: Bonus: End-to-End Project Example
-
-
 
 Let's quickly review each module, focusing on the main points and the tech you'll use.
 
@@ -65,7 +62,7 @@ Let's quickly review each module, focusing on the main points and the tech you'l
 <figcaption>Screenshot of the <a href="https://youtu.be/Q75JgLEXMsM?si=O8DOJqARkOlzEhKH">lecture slides</a> from <a href="https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-intro">module 1</a></figcaption>
 </figure>
 
-We introduce the core ideas behind Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). You’ll set up your development environment, learn how retrieval works, and start experimenting with APIs and search tools. By the end of this module, you’ll have a basic RAG setup and be familiar with text search fundamentals.
+We introduce the core ideas behind Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). You'll set up your development environment, learn how retrieval works, and start experimenting with APIs and search tools. By the end of this module, you'll have a basic RAG setup and be familiar with text search fundamentals.
 
 You will learn to:
 
@@ -75,20 +72,16 @@ You will learn to:
 -   Build a simple RAG system
 -   Implement basic text search with Elasticsearch
 
-
-
 ### Module 2: Open-source LLMs
 
-We dive into the world of open-source LLMs, providing hands-on experience with popular, freely available models. You’ll learn how to configure a GPU environment, access models from the Hugging Face Hub, and even run LLMs on CPUs when GPUs aren’t available. This module ends with creating a simple UI to see your model in action.
+We dive into the world of open-source LLMs, providing hands-on experience with popular, freely available models. You'll learn how to configure a GPU environment, access models from the Hugging Face Hub, and even run LLMs on CPUs when GPUs aren't available. This module ends with creating a simple UI to see your model in action.
 
 You will learn to:
 
--   Set up and optimize a GPU environment
--   Access and use open-source models from Hugging Face
--   Run models on a CPU using Ollama when GPUs aren’t available
--   Create a basic, interactive UI with Streamlit for testing your model
-
-
+- Set up and optimize a GPU environment
+- Access and use open-source models from Hugging Face
+- Run models on a CPU using Ollama when GPUs aren't available
+- Create a basic, interactive UI with Streamlit for testing your model
 
 ### Module 3: Vector Databases
 
@@ -97,16 +90,14 @@ You will learn to:
 <figcaption>Screenshot of the <a href="https://youtu.be/C5AWdL3kg1Q?si=MB8ODE4Z-hphfvX1">lecture slides</a> from <a href="https://github.com/DataTalksClub/llm-zoomcamp/tree/main/03-vector-search">module 3</a></figcaption>
 </figure>
 
-This module covers how to use vector databases for effective search and retrieval. You’ll learn to create embeddings (vector representations of text), index them, and use vector search to improve RAG performance.
+This module covers how to use vector databases for effective search and retrieval. You'll learn to create embeddings (vector representations of text), index them, and use vector search to improve RAG performance.
 
 You will learn to:
 
--   Create and index embeddings for vector-based retrieval
--   Implement vector search using Elasticsearch
--   Conduct offline evaluations to assess your retrieval system
--   Work hands-on with dlt to practice embedding indexing and search
-
-
+- Create and index embeddings for vector-based retrieval
+- Implement vector search using Elasticsearch
+- Conduct offline evaluations to assess your retrieval system
+- Work hands-on with dlt to practice embedding indexing and search
 
 ### Module 4: Evaluation and Monitoring
 
@@ -115,14 +106,14 @@ You will learn to:
 <figcaption>Screenshot of the <a href="https://youtu.be/OWqinqemCmk?si=CJZDFiFu5H31Gr6x">lecture slides</a> from <a href="https://github.com/DataTalksClub/llm-zoomcamp/tree/main/04-monitoring">module 4</a></figcaption>
 </figure>
 
-We focus on evaluating your RAG system and setting up monitoring tools. You’ll explore different metrics to judge your system’s performance and set up a feedback loop for continuous improvement. Grafana dashboards will help you visualize insights and track system usage.
+We focus on evaluating your RAG system and setting up monitoring tools. You'll explore different metrics to judge your system's performance and set up a feedback loop for continuous improvement. Grafana dashboards will help you visualize insights and track system usage.
 
 You will learn to:
 
--   Perform offline evaluations of your RAG pipeline
--   Use Cosine Similarity and LLM-as-a-Judge metrics to assess retrieval
--   Track chat history and collect user feedback for iterative improvement
--   Build Grafana dashboards to monitor performance in real-time
+- Perform offline evaluations of your RAG pipeline
+- Use Cosine Similarity and LLM-as-a-Judge metrics to assess retrieval
+- Track chat history and collect user feedback for iterative improvement
+- Build Grafana dashboards to monitor performance in real-time
 
 
 
@@ -132,24 +123,19 @@ This module teaches you how to efficiently manage data ingestion for LLMs.
 
 You will learn to:
 
--   Ingest data seamlessly
--   Set up a smooth data pipeline for LLM projects
--   Prepare data for scalable and efficient processing in RAG systems
-
-
+- Ingest data seamlessly
+- Set up a smooth data pipeline for LLM projects
+- Prepare data for scalable and efficient processing in RAG systems
 
 ### Module 6: Best Practices
 
-We dive into advanced techniques for refining your RAG pipeline, from improving retrieval quality to enhancing search relevance. You’ll practice hybrid search methods, document reranking, and explore using LangChain for more complex applications.
+We dive into advanced techniques for refining your RAG pipeline, from improving retrieval quality to enhancing search relevance. You'll practice hybrid search methods, document reranking, and explore using LangChain for more complex applications.
 
 You will learn to:
-
--   Apply best practices to optimize your RAG pipeline
--   Use hybrid search techniques to increase retrieval accuracy
--   Implement document reranking to enhance search results
--   Set up a hybrid search with LangChain for advanced retrieval tasks
-
-
+- Apply best practices to optimize your RAG pipeline
+- Use hybrid search techniques to increase retrieval accuracy
+- Implement document reranking to enhance search results
+- Set up a hybrid search with LangChain for advanced retrieval tasks
 
 ### Module 7: End-to-End Project
 
@@ -158,32 +144,28 @@ You will learn to:
 <figcaption>Screenshot of the <a href="https://youtu.be/E9O0Tg68PPg?si=hgbdVIE-uMH70cHQ">lecture slides</a> from <a href="https://github.com/DataTalksClub/llm-zoomcamp/tree/main/07-project-example">module 7</a></figcaption>
 </figure>
 
-You’ll bring everything together in a practical project. You’ll apply all the skills you’ve learned to complete an end-to-end project, from data preprocessing to deploying your solution.
+You'll bring everything together in a practical project. You'll apply all the skills you've learned to complete an end-to-end project, from data preprocessing to deploying your solution.
 
 You will learn to:
 
--   Build an end-to-end project using RAG techniques
--   Practice preprocessing text data for specific use cases
--   Apply learned techniques in a real-world project
+- Build an end-to-end project using RAG techniques
+- Practice preprocessing text data for specific use cases
+- Apply learned techniques in a real-world project
 
 The [course description](https://github.com/DataTalksClub/llm-zoomcamp){:target="_blank"} on GitHub provides a detailed overview of the topics covered each module. To dive into the content, you can see the video lectures, slides, code, and community notes for each course module.
 
-> If you’re ready to join the next cohort of the course, submit this [form](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q){:target="_blank"} to register and stay updated.
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the 2025 cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
 
-### Theory and practice
+## Course Assignments and Scoring
 
-We make LLMs theory accessible and engaging through real-world examples. We also demonstrate code directly in the lectures to show the implementation of concepts. This way, you can easily apply them in your projects.
-
-For instance, in one of the lectures about a linear algebra refresher, the lecturer switches between screens. Firstly, they explain the concept of the dot product of two vectors, and then they demonstrate its implementation using Python.
-
-<figure>
-<img src="/images/posts/2024-11-11-llm-zoomcamp/image3.png"  />
-<figcaption>Extract from the first lecture about Retrieval-Augmented Generation (RAG)</figcaption>
-</figure>
-
-## Course assignments and scoring
-
-### Homework and getting feedback
+### Homework and Getting Feedback
 
 <figure>
 <img src="/images/posts/2024-11-11-llm-zoomcamp/image6.png"  />
@@ -205,7 +187,7 @@ For support, we have an [FAQ](https://docs.google.com/document/d/1m2KexowAXTmexf
 </figure>
 
 
-### Learning in public approach
+### Learning in Public
 
 A unique feature is our "learning in public" approach, inspired by [Shawn @swyx Wang](https://www.youtube.com/watch?v=tkBCPqWKCL8&list=PL7NIGf5_PlM-Dk3lgPsZFT94Ng7PpRQEh&index=5&t=195s){:target="_blank"}'s [article](https://www.swyx.io/learn-in-public){:target="_blank"}. We believe everyone has something valuable to contribute, regardless of their expertise level.
 
@@ -218,16 +200,16 @@ Throughout the course, we actively encourage and incentivize learning in public.
 
 Sharing your work online also helps you get noticed by social media algorithms, reaching a broader audience and creating opportunities to connect with individuals and organizations you may not have encountered otherwise.
 
-### Course projects for your portfolio
+### Course Projects for Your Portfolio
 
-If you've ever participated in an interview or conducted online research, you likely understand the significance of personal projects. To receive a certificate, you’ll need to finalize and submit an [end-to-end RAG application](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/project.md){:target="_blank"}. It allows you to choose a problem that interests you, find a suitable dataset, and develop your model.
+If you've ever participated in an interview or conducted online research, you likely understand the significance of personal projects. To receive a certificate, you'll need to finalize and submit an [end-to-end RAG application](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/project.md){:target="_blank"}. It allows you to choose a problem that interests you, find a suitable dataset, and develop your model.
 
 <figure>
 <img src="/images/posts/2024-11-11-llm-zoomcamp/image8.png"  />
 <figcaption><a href="https://github.com/Optimistix/medical_QandA_assistant">Example project</a> from <a href="https://courses.datatalks.club/llm-zoomcamp-2024/leaderboard/3623/">Rileen Sinha</a>, one of the students of the course</figcaption>
 </figure>
 
-## DataTalks.Club community
+## DataTalks.Club Community
 
 DataTalks.Club has a supportive community of like-minded individuals in [our Slack](https://datatalks.club/slack.html){:target="_blank"}. It is the perfect place to enhance your skills, deepen your knowledge, and connect with peers who share your passion. These connections can lead to lasting friendships, potential collaborations in future projects, and exciting career prospects.
 
@@ -236,10 +218,72 @@ DataTalks.Club has a supportive community of like-minded individuals in [our Sla
 <figcaption>Course channel in <a href="https://datatalks.club/slack.html">our Slack community</a></figcaption>
 </figure>
 
-## Conclusion
+
+## Quick Start Guide for LLM Zoomcamp
 
 LLM Zoomcamp is a structured and practical introduction to applying Large Language Models in real-world contexts. Over 10 weeks, you gain hands-on experience, from setting up retrieval systems to building a complete RAG application.
 
-Each module is crafted to build useful skills step-by-step, ensuring you can put what you learn into practice. If you’re interested in learning about and applying LLMs, joining the next cohort is a good way to start.
+Each module is crafted to build useful skills step-by-step, ensuring you can put what you learn into practice. If you're interested in learning about and applying LLMs, joining the next cohort is a good way to start.
 
-> Register for the next LLM Zoomcamp cohort and stay updated on start dates by filling out this [form](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q){:target="_blank"}.
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the 2025 cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+## Frequently Asked Questions
+
+<details>
+<summary>Can I still join if I just discovered the course?</summary>
+
+Yes, but if you want to receive a certificate, you need to submit your project while we're still accepting submissions.
+</details>
+
+<details>
+<summary>Do I need a confirmation email after registration?</summary>
+
+You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is Open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.
+</details>
+
+<details>
+<summary>How do I join the "Office Hours" or live sessions?</summary>
+
+- Students participate via Youtube Live and submit questions to Slido (link will be pinned in the chat)
+- The video URL is posted in the announcements channel on Telegram & Slack before it begins
+- You can also find it live on the DataTalks.Club YouTube Channel
+- Important: Don't post your questions in chat as they may be missed due to high activity
+</details>
+
+<details>
+<summary>Can I get a certificate in self-paced mode?</summary>
+
+No, certificates are only available when completing with a "live" cohort because:
+- You need to peer-review 3 capstone projects
+- Peer reviews only happen during the active course period
+- The form closes after the peer-review list is compiled
+</details>
+
+<details>
+<summary>Can I still get a certificate if I missed the first homework?</summary>
+
+Yes! You only need to pass the Capstone project to get the certificate. Homework is:
+- Not mandatory
+- Recommended for reinforcing concepts
+- Points count towards your leaderboard ranking
+</details>
+
+## Quick Links
+
+Ready to start your LLM journey? Here's everything you need:
+
+- [LLM Zoomcamp GitHub Repository](https://github.com/DataTalksClub/llm-zoomcamp){:target="_blank"}
+- [Join DataTalks.Club Community](https://datatalks.club/slack.html){:target="_blank"}
+- [Other Free Courses](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}
+
+## Related Posts
+- [Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"}
+- [MLOps Zoomcamp](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"}
+- [Data Engineering Zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"}

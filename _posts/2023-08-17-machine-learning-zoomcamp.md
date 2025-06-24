@@ -1,157 +1,349 @@
 ---
 authors:
 - valeriiakuka
-description: Learn Machine Learning engineering in 4 months
+description: "Learn machine learning engineering with Python in 2025: A free 4-month course covering ML algorithms, deployment, and real-world projects. Master regression, classification, deep learning, and MLOps with hands-on practice."
 image: images/posts/2023-08-17-machine-learning-zoomcamp/cover.jpg
 layout: post
-subtitle: Learn Machine Learning engineering in 4 months
+subtitle: Master Machine Learning Engineering with Python in 4 Months
 tags:
 - courses
 - machine-learning
-title: Machine Learning Zoomcamp
+title: "ML Zoomcamp 2025: Free Machine Learning Engineering Course & Certification"
 ---
 
-In this article, we will talk about Machine Learning Zoomcamp. It’s a four-month-long program to get started with machine learning engineering.
-
-We will cover different aspects of this course so you can learn more about it:
-
--   Course curriculum: what topics and technologies are covered by the course
--   Course assignments and scoring
-    -   Homework and getting feedback
-    -   Learning in public approach
-    -   Course projects for your portfolio
--   DataTalks.Club community
-
-
-
-## Course curriculum: where theory meets practice
-
-The course consists of two parts.
-
-Part 1 of the course covers machine learning algorithms implemented in Python, including Linear Regression, Classification, Decision Trees, Ensemble Learning, and Neural Networks.
-
-Part 2 focuses on deploying models using frameworks like Flask, TensorFlow, and Kubernetes, enabling practical application of machine learning in real-world scenarios.
-
-### Part 1: Machine learning algorithms and their implementation 
-
-Part 1 focuses on the main machine learning algorithms and their practical application using Python. The topics covered include:
-
--   **Linear Regression:** feature engineering, handling categorical variables, and the importance of regularization.
--   **Classification:** logistic regression and feature importance.
--   **Decision Trees and Ensemble Learning:** gradient boosting technique and XGBoost, a popular ensemble learning algorithm.
--   **Neural Networks and Deep Learning:** Convolutional Neural Networks (CNNs) and transfer learning techniques for tackling complex problems with deep learning.
--   **Python and Jupyter Notebooks:** working efficiently with code.
--   **NumPy and Pandas:** linear algebra concepts like matrices and data manipulation and analysis.
--   **Matplotlib and Seaborn:** data visualization and graphical representations.
--   Scikit-Learn: application of various machine learning algorithms to real-world datasets.
--   **TensorFlow and Keras:** popular frameworks for building neural networks and deep learning models.
-
-
+> **TL;DR:** ML Zoomcamp is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. Next cohort starts September 2025. [Join the course here](https://airtable.com/shryxwLd0COOEaqXo).
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image1.png"  />
-<figcaption><p>Technologies used in the first part of the course</p></figcaption>
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png" alt="ML Zoomcamp course overview showing progression from ML algorithms (Python, NumPy, Pandas, Scikit-learn) to deployment (Docker, Flask, Kubernetes)" />
+<figcaption>Complete ML Zoomcamp curriculum: from machine learning fundamentals to production deployment</figcaption>
+</figure>
+
+Want to become a machine learning engineer? 
+
+Machine Learning Zoomcamp is a comprehensive, free four-month course that takes you from ML basics to production deployment.
+
+## What You'll Learn in This Guide
+
+- [What Makes ML Zoomcamp Different](#what-makes-ml-zoomcamp-different)
+- [Course Curriculum and Structure](#comprehensive-course-curriculum)
+- [Learning Experience and Support](#learning-experience-and-support)
+- [Community and Resources](#datatalks-club-community)
+- [Common Questions Answered](#frequently-asked-questions)
+- [Getting Started](#quick-links)
+
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/shryxwLd0COOEaqXo" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the next cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+## What Makes ML Zoomcamp Different
+
+
+- **Free and Comprehensive**: Complete ML engineering curriculum at zero cost
+- **Practical Focus**: Real-world projects and hands-on exercises
+- **Community-Driven**: Active Slack community for peer support
+- **Industry-Relevant**: Tools and skills valued by employers
+- **Flexible Learning**: Self-paced or structured cohort options
+
+> Explore more [free courses at DataTalks.Club](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}.
+
+## Comprehensive Course Curriculum
+
+The course is divided into two main parts, carefully designed to build both your theoretical knowledge and practical skills.
+
+### Part 1: Machine Learning Foundations
+
+Part 1 focuses on core machine learning concepts and their practical implementation using Python.
+
+You'll master:
+
+-   **Linear Regression and Feature Engineering:** Master feature creation, categorical variable handling, and regularization techniques
+-   **Classification with Logistic Regression:** Learn feature importance and model evaluation
+-   **Decision Trees and Ensemble Methods:** Explore gradient boosting and XGBoost implementation
+-   **Neural Networks and Deep Learning:** Build CNNs and implement transfer learning
+Tools you'll learn:
+- Jupyter Notebooks for efficient coding
+- NumPy and Pandas for data manipulation
+- Matplotlib and Seaborn for visualization
+- Scikit-Learn for ML algorithms
+- TensorFlow and Keras for deep learning
+
+<figure>
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image1.png" alt="Overview of Python libraries and tools covered in ML Zoomcamp: NumPy, Pandas, Scikit-learn, TensorFlow" />
+<figcaption>Key technologies and libraries covered in Part 1 of ML Zoomcamp</figcaption>
 </figure>
 
 
-### Part 2: Deployment
+### Part 2: Production Deployment
 
-Part 2 is dedicated to model deployment, which involves putting machine learning models into production. In this section, you'll gain practical skills using popular frameworks and tools. The topics covered include:
+Part 2 focuses on model deployment, which involves putting machine learning models into production.
 
--   **Flask, Pipenv, and Docker:** machine learning models deployment, enabling you to move your models from notebooks to services and applications.
--   **AWS Lambda and TensorFlow Lite:** serverless deep learning, understanding how to efficiently operate within this paradigm.
--   **Kubernetes and TensorFlow Serving:** automating deployment, scaling, and management of containerized applications.
--   **KServe (optional):** an additional topic for those seeking advanced knowledge, offering insights into further enhancing deployment capabilities.
+You'll learn to deploy models using:
 
-
+- **Flask, Pipenv, and Docker:** machine learning models deployment, enabling you to move 
+your models from notebooks to services and applications.
+- **AWS Lambda and TensorFlow Lite:** serverless deep learning, understanding how to 
+efficiently operate within this paradigm.
+- **Kubernetes and TensorFlow Serving:** automating deployment, scaling, and management of 
+containerized applications.
+- **KServe (optional):** an additional topic for those seeking advanced knowledge, offering 
+insights into further enhancing deployment capabilities.
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image3.png"  />
-<figcaption><p>Technologies used in the second part of the course</p></figcaption>
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image3.png" alt="Deployment tools and frameworks in ML Zoomcamp: Flask, Docker, AWS Lambda, Kubernetes" />
+<figcaption>Deployment technologies used in Part 2 of ML Zoomcamp for putting ML models into production</figcaption>
 </figure>
 
-[Course description](https://github.com/DataTalksClub/machine-learning-zoomcamp#syllabus){:target="_blank"} on GitHub provides a detailed overview of the topics covered each week, enabling you to delve deeper into the content. By the end of the course, you will have acquired the fundamental skills necessary for a career as a machine learning engineer.
+> View the complete [course syllabus on GitHub](https://github.com/DataTalksClub/machine-learning-zoomcamp#syllabus){:target="_blank"} for a detailed week-by-week breakdown.
 
-### Theory and practice
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/shryxwLd0COOEaqXo" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the next cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+### Theory and Practice
 
 Our lectures aim to make machine learning theory accessible and engaging through real-world examples. Code demonstrations are provided directly in the lectures to show the implementation of concepts, enabling easier application in your projects.
 
-For instance, in one of the lectures about a linear algebra refresher, the lecturer switches between screens. Firstly, they explain the concept of the dot product of two vectors, and then they demonstrate its implementation using Python.
+Each concept comes with:
+- Clear explanations
+- Live code demos
+- Hands-on exercises
+- Real-world examples
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image7.png"  />
-<figcaption><p>Extract from one of the lectures about linear algebra refresher</p></figcaption>
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image7.png" alt="Screenshot of ML Zoomcamp lecture showing linear algebra concepts with Python implementation" />
+<figcaption>Example from ML Zoomcamp lecture: bridging theory and practice with hands-on Python implementation</figcaption>
 </figure>
 
-## Course assignments and scoring
+> View the complete [course syllabus on GitHub](https://github.com/DataTalksClub/machine-learning-zoomcamp#syllabus){:target="_blank"} for a detailed week-by-week breakdown.
 
-### Homework and getting feedback
+## Course Assignments and Scoring
 
-To reinforce your learning, we offer regular homework assignments, reviewed and scored by industry professionals. Your scores are added to an anonymous leaderboard, creating friendly competition among course members and motivating you to do your best.
+### Weekly Homework and Feedback
+
+What to expect:
+- Regular assignments
+- Anonymous leaderboard
+- Quick support via Slack
+- Live Q&A sessions
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image6.png"  />
-<figcaption><p>Anonymous leaderboard with scored homework</p></figcaption>
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image6.png" alt="ML Zoomcamp homework leaderboard showing student rankings and scores" />
+<figcaption>Track your progress on the anonymous leaderboard</figcaption>
 </figure>
 
-For support, we have an [FAQ](https://docs.google.com/document/d/1LpPanc33QJJ6BSsyxVg-pWNMplal84TdZtq10naIhD8/edit#heading=h.sh0bgh8fj5rw){:target="_blank"} section with quick answers to common questions. If you need more help, [our Slack community](https://datatalks.club/slack.html){:target="_blank"} is always available for technical questions, clarifications, or guidance. Additionally, we host live Q&A sessions called "office hours" where you can interact with instructors and get immediate answers to your questions.
+### Learning in Public
 
-
-<figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image4.png"  />
-<figcaption><p>A screenshot of an FAQ document</p></figcaption>
-</figure>
-
-
-
-### Learning in public approach
 
 A unique feature is our "learning in public" approach, inspired by [Shawn @swyx Wang](https://www.youtube.com/watch?v=tkBCPqWKCL8&list=PL7NIGf5_PlM-Dk3lgPsZFT94Ng7PpRQEh&index=5&t=195s){:target="_blank"}'s [article](https://www.swyx.io/learn-in-public){:target="_blank"}. We believe that everyone has something valuable to contribute, regardless of their expertise level.
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image8.png"  />
-<figcaption><p>An extract from the Shawn @swyx Wang's article about learning in public</p></figcaption>
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image8.png" alt="Learning in public concept from Shawn Wang's article" />
+<figcaption>Extract from Shawn @swyx Wang's article explaining the benefits of learning in public</figcaption>
 </figure>
 
 Throughout the course, we actively encourage and incentivize learning in public. By sharing your progress, insights, and projects online, you earn additional points for your homework and projects.
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image2.png"  />
-<figcaption><p>Anonymous leaderboard from previous cohort of the course. On the right, you can see the bonus points for learning in public</p></figcaption>
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image2.png" alt="ML Zoomcamp 
+leaderboard showing bonus points for learning in public" />
+<figcaption>Course leaderboard highlighting bonus points earned through public learning 
+activities</figcaption>
 </figure>
 
-This not only demonstrates your knowledge but also builds a portfolio of valuable content. Sharing your work online also helps you get noticed by social media algorithms, reaching a broader audience and creating opportunities to connect with individuals and organizations you may not have encountered otherwise.
 
-### Course projects for your portfolio
+### Building Your Portfolio with Course Projects
 
-If you've ever participated in an interview or conducted online research, you likely understand the significance of personal projects for a machine learning engineer role. Especially in case you don’t have any previous experience in machine learning and it’s your first job.
+If you've ever participated in an interview or conducted online research, you likely understand the significance of personal projects for a machine learning engineer role. Especially in case you don't have any previous experience in machine learning and it's your first job.
 
-To receive a certificate, you’ll need to finalize and submit two projects: one during the midterm ([Midterm project](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#midterm-project){:target="_blank"}) and another at the end ([Capstone project 1](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#capstone-project-1){:target="_blank"} and/or [Capstone project 2](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#capstone-project-2-optional){:target="_blank"}). These projects allow you to choose a problem that interests you, find a suitable dataset, and develop your model. For the capstone project, you are also required to deploy your model into a web service, with an option for local deployment or on the cloud, earning bonus points.
+To receive a certificate, you'll need to finalize and submit two projects: one during the midterm ([Midterm project](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#midterm-project){:target="_blank"}) and another at the end ([Capstone project 1](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#capstone-project-1){:target="_blank"} and/or [Capstone project 2](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#capstone-project-2-optional){:target="_blank"}). These projects allow you to choose a problem that interests you, find a suitable dataset, and develop your model. For the capstone project, you are also required to deploy your model into a web service, with an option for local deployment or on the cloud, earning bonus points.
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image9.png"  />
-<figcaption><p>Screenshot of the GitHub repository for the project of Pastor Soto. Pastor scored first in the final leaderboard for the 2022 year cohort</p></figcaption>
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image9.png" alt="Example student project from ML Zoomcamp showing GitHub repository" />
+<figcaption>Outstanding student project example: GitHub repository of Pastor Soto, top performer in 2022 cohort</figcaption>
 </figure>
 
 For proactive participants, there's an exciting opportunity to engage in an optional project and write an [article](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#article){:target="_blank"}. The article will require you to conduct research on a topic not covered in the course, encouraging you to explore beyond the curriculum's confines.
 
-You can find all the projects from the year 2022 in the final [leaderboard](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2022/leaderboard.md){:target="_blank"}. These projects allow you to apply everything you’ve learned and make a great addition to your GitHub profile.
+You can find all the projects from the year 2022 in the final [leaderboard](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/master/cohorts/2022/leaderboard.md){:target="_blank"}. These projects allow you to apply everything you've learned and make a great addition to your GitHub profile.
 
-## DataTalks.Club community
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/shryxwLd0COOEaqXo" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the next cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+## DataTalks.Club Community
 
 DataTalks.Club has a supportive community of like-minded individuals in [our Slack](https://datatalks.club/slack.html){:target="_blank"}. It is the perfect place to enhance your skills, deepen your knowledge, and connect with peers who share your passion. These connections can lead to lasting friendships, potential collaborations in future projects, and exciting career prospects.
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image5.png"  />
-<figcaption><p>Course channel in our Slack community</p></figcaption>
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image5.png" alt="DataTalks.Club Slack community discussion about ML Zoomcamp" />
+<figcaption>Active discussions and support in the ML Zoomcamp Slack community channel</figcaption>
 </figure>
 
-## Conclusion
+## Quick Start Guide
 
-The Machine Learning Zoomcamp offers covers key machine learning concepts, algorithms, and deployment techniques. With a practical hands-on approach focused on real-world application, this 4-month program provides the essential skills to kickstart a career in machine learning engineering.
+Machine Learning Zoomcamp offers a practical path to becoming an ML engineer. In just 4 months, you'll gain:
 
-The combination of theory, coding implementation, and project work develops proficiency across the machine learning pipeline. Supported by a motivated community and led by experienced instructors, the Machine Learning Zoomcamp delivers an engaging learning experience. For anyone seeking to gain industry-relevant machine learning skills and build an impressive portfolio in just 4 months, this course provides an accelerated path to launch or advance your career.
+- Hands-on experience with industry-standard tools (Python, TensorFlow, Docker)
+- A portfolio of real-world ML projects
+- Professional deployment skills
+- Access to an active learning community
 
-The next cohort starts on September 11, 2023!
+The next cohort starts on September 2025! Take the first step toward your ML engineering career. Register for the course and start your learning journey today!
 
-Register for the Machine Learning Zoomcamp: [https://airtable.com/shryxwLd0COOEaqXo](https://airtable.com/shryxwLd0COOEaqXo){:target="_blank"}
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/shryxwLd0COOEaqXo" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Register for ML Zoomcamp</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+## Frequently Asked Questions
+
+<details>
+<summary><strong>How is the course structured?</strong></summary>
+
+The course runs for 4 months and includes pre-recorded videos, live office hours, hands-on projects, and a vibrant community. You'll need around 10 hours per week for coursework and projects.
+</details>
+
+<details>
+<summary><strong>How can I start learning?</strong></summary>
+
+You have two options:
+- **Self-paced learning:** Start immediately! All course materials are pre-recorded and freely available on GitHub. You can learn at your own pace.
+- **Live cohort:** Join our next cohort starting September 2025 to learn with peers, participate in live sessions, and earn a certificate.
+</details>
+
+<details>
+<summary><strong>What's included in the live cohort?</strong></summary>
+
+- Regular live office hours with instructors
+- Structured learning path with deadlines
+- Peer interaction and community support
+- Opportunity to earn a certificate
+- Access to all recorded sessions and office hours
+
+*Note: Even if you're self-paced, you still have access to all course materials and recordings!*
+</details>
+
+<details>
+<summary><strong>How do I get certified?</strong></summary>
+
+To earn a certificate, you'll need to:
+1. Join a live cohort
+2. Complete 2 out of 3 projects:
+   - Midterm project
+   - Capstone project (includes deploying a model as a web service)
+3. Review 3 peers' projects by the deadline
+
+**Important:** Projects must be completed individually, and you must be part of a cohort to be eligible for certification.
+</details>
+
+<details>
+<summary><strong>Can I join after the course has started?</strong></summary>
+
+Yes! While you might miss some homework deadlines, you can still join and get certified by completing the required projects. All course materials remain accessible.
+</details>
+
+<details>
+<summary><strong>What Python knowledge do I need?</strong></summary>
+
+You should be familiar with basic Python concepts like variables, libraries, and Jupyter notebooks. If you need to brush up, we recommend taking our Introduction to Python course first.
+</details>
+
+<details>
+<summary><strong>What technical setup do I need?</strong></summary>
+
+For machine learning modules, you only need a laptop with internet connection. For deep learning sections, we'll use cloud resources (like Saturn Cloud) for more intensive computations.
+</details>
+
+<details>
+<summary><strong>What's the balance between theory and practice?</strong></summary>
+
+The course is heavily focused on practical implementation. We cover theoretical concepts at an intuitive level, emphasizing hands-on coding and real-world applications over mathematical derivations.
+</details>
+
+<details>
+<summary><strong>How can I engage with the community?</strong></summary>
+
+Join our active Slack community, participate in office hours, and share your learning journey on social media with #mlzoomcamp. You can earn extra points for sharing your learning experience publicly.
+</details>
+
+<details>
+<summary><strong>Is this course suitable for beginners?</strong></summary>
+
+Yes! If you have basic Python knowledge, you can start the course. The course is designed to be beginner-friendly, with:
+- Step-by-step explanations of concepts
+- Practical, hands-on learning approach
+- Active community support in Slack
+- Regular office hours for questions
+- Comprehensive learning materials
+</details>
+
+<details>
+<summary><strong>What are the prerequisites for the course?</strong></summary>
+
+The main prerequisites are:
+- Basic Python knowledge (variables, functions, libraries)
+- Familiarity with Jupyter notebooks
+- Basic SQL knowledge (but you can learn this during the course)
+- Willingness to learn and participate in the community
+
+Don't worry if you're not an expert in these areas - the course is designed to help you grow from these foundations.
+</details>
+
+<details>
+<summary><strong>What's the difference between self-paced and cohort learning?</strong></summary>
+
+While all course materials are freely available for self-paced learning, joining a cohort offers additional benefits:
+- Structured timeline with regular deadlines
+- Active peer learning and discussion
+- Live office hours and troubleshooting support
+- Opportunity to earn a certificate
+- Shared learning experience with others facing similar challenges
+
+The content is the same, but many students find the cohort structure helps them stay motivated and complete the course successfully.
+</details>
+
+<details>
+<summary><strong>How can I make the most of this course for my career?</strong></summary>
+
+Here are some tips for maximizing the course's career impact:
+- Start planning your capstone project early
+- Build a portfolio-worthy project that solves a real problem
+- Engage actively in the Slack community
+- Share your learning journey on social media (#mlzoomcamp)
+- Review and learn from other students' projects
+- Use the project in your job applications to demonstrate practical skills
+
+Many of our alumni have successfully used their course projects in job interviews to demonstrate their machine learning capabilities.
+</details>
+
+## Quick Links
+
+Ready to begin your ML engineering journey? Here's everything you need:
+
+- [ML Zoomcamp GitHub Repository](https://github.com/DataTalksClub/machine-learning-zoomcamp){:target="_blank"}
+- [Join DataTalks.Club Community](https://datatalks.club/slack.html){:target="_blank"}
+- [Other Free Courses](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}
+
+## Related Posts
+- [Data Engineering Zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"}
+- [MLOps Zoomcamp](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"}
+- [LLM Zoomcamp](https://datatalks.club/blog/llm-zoomcamp.html){:target="_blank"}
