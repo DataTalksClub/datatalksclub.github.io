@@ -2,6 +2,7 @@
 authors:
 - valeriiakuka
 description: Discover DataTalks.Club's free online courses in Machine Learning, Data Engineering, MLOps, LLMs, and Stock Market Analytics. Learn practical skills, earn certificates, and join a supportive community.
+description: Discover DataTalks.Club's free online courses in Machine Learning, Data Engineering, MLOps, LLMs, and Stock Market Analytics. Learn practical skills, earn certificates, and join a supportive community.
 image: images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/cover.jpg
 layout: post
 subtitle: Earn Certificates, Get Practical Projects & Learn Machine Learning, Data Engineering, and MLOps, LLMs, Analytics in Stock Markets
@@ -32,10 +33,11 @@ DataTalks.Club offers a range of free online courses in Machine Learning, Data E
 
 <figure>
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png"  />
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png"  />
 <figcaption>Technologies used in the Machine Learning Zoomcamp</figcaption>
 </figure>
 
-[Machine Learning Zoomcamp](#machine-learning-zoomcamp) is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. Next cohort starts September 2025.
+[Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. Next cohort starts September 2025.
 
 ### Prerequisites
 
@@ -101,13 +103,12 @@ You'll spend the first six weeks learning and practicing each part of the data e
 
 Technologies you'll learn:
 
-- **Infrastructure:** Docker, PostgreSQL, Google Cloud Platform (GCP), Terraform
-- **Orchestration:** Mage.AI, Google Cloud Storage
-- **Data Warehousing:** BigQuery, SQL
-- **Analytics:** dbt, Looker Studio
-- **Processing:** Apache Spark, Spark SQL
-- **Streaming:** Apache Kafka, KSQL, Faust
-- **Programming:** Python, SQL
+- Docker
+- Postgres
+- BigQuery
+- dbt
+- Apache Spark
+- Apache Kafka
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
@@ -151,16 +152,11 @@ The course guides you step-by-step through each stage of the MLOps cycle startin
 
 Technologies you'll learn:
 
-- Python
-- Docker
-- OpenAI API
-- LangChain
-- Hugging Face
-- Ollama
-- Elasticsearch
-- Qdrant
-- dlt
-- Streamlit
+- MLFlow
+- Flask
+- AWS
+- Mage
+- Evidently AI
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
