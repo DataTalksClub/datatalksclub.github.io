@@ -316,4 +316,84 @@ We maintain an active community through various events:
 
 All events are recorded and available on our [YouTube channel](https://www.youtube.com/@DataTalksClub){:target="_blank"}, and upcoming events are listed on [our website](https://datatalks.club/events.html){:target="_blank"}.
 
+## Frequently Asked Questions
+
+<details>
+<summary><strong>Are these courses really free?</strong></summary>
+
+Yes, all our courses are completely free. The course materials, including videos and code examples, are freely available on GitHub. You only need to invest your time and effort.
+</details>
+
+<details>
+<summary><strong>Do I need to attend live sessions?</strong></summary>
+
+Live sessions (office hours and workshops) are optional but recommended for cohort-based participants. All sessions are recorded and made available afterward.
+</details>
+
+<details>
+<summary><strong>Can I switch from self-paced to cohort-based learning?</strong></summary>
+
+Yes, you can start self-paced and join a cohort later. Just register for the next cohort when you're ready.
+</details>
+
+<details>
+<summary><strong>How much time should I dedicate per week?</strong></summary>
+
+We recommend dedicating 10-15 hours per week for cohort-based learning. Self-paced learners can adjust this according to their schedule.
+</details>
+
+<details>
+<summary><strong>What programming languages do I need to know?</strong></summary>
+
+Python is the primary programming language used in all courses. The required proficiency level varies by course and is specified in the prerequisites section.
+</details>
+
+<details>
+<summary><strong>Do I need a powerful computer?</strong></summary>
+
+Most exercises can run on any modern computer. For more demanding tasks, we provide instructions for using cloud services, many of which offer free tiers.
+</details>
+
+<details>
+<summary><strong>Can I use Windows for these courses?</strong></summary>
+
+Yes, all courses support Windows, macOS, and Linux. We provide specific setup instructions for each operating system.
+</details>
+
+<details>
+<summary><strong>How do I earn a certificate?</strong></summary>
+
+Certificates are available for cohort-based participants who complete the final project and peer-review 3 projects.
+</details>
+
+<details>
+<summary><strong>Are the certificates recognized by employers?</strong></summary>
+
+While our certificates demonstrate practical skills and project completion, they are not accredited. However, the projects you build during the course can be valuable additions to your portfolio.
+</details>
+
+<details>
+<summary><strong>What happens if I miss a homework deadline?</strong></summary>
+
+We understand that life happens. You can still submit homework after the deadline, but it won't be scored if the form is closed. We encourage staying on schedule with the cohort for the best learning experience.
+</details>
+
+<details>
+<summary><strong>How long do I have access to the Slack community?</strong></summary>
+
+Access to our Slack community is permanent. You can continue participating in discussions and networking even after completing your course.
+</details>
+
+<details>
+<summary><strong>Can I participate in multiple courses simultaneously?</strong></summary>
+
+While it's possible, we recommend focusing on one course at a time to ensure you can dedicate sufficient time and attention to learning the material thoroughly.
+</details>
+
+<details>
+<summary><strong>What if I need help with the course material?</strong></summary>
+
+You can get help through multiple channels: course-specific Slack channels, weekly office hours (for cohort-based participants), FAQ section in the course repository.
+</details>
+
 Ready to join our community? Use the form below to get started!

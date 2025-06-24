@@ -245,34 +245,25 @@ Yes, but if you want to receive a certificate, you need to submit your project w
 <details>
 <summary>Do I need a confirmation email after registration?</summary>
 
-You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is Open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.
+You don't need a confirmation email. You are automatically accepted into the course. You can even start learning and submitting homework (while the form is open) without registering, as submissions are not checked against any registered list. Registration is primarily used to gauge interest before the start date.
 </details>
 
 <details>
 <summary>How do I join the "Office Hours" or live sessions?</summary>
 
-- Students participate via Youtube Live and submit questions to Slido (link will be pinned in the chat)
-- The video URL is posted in the announcements channel on Telegram & Slack before it begins
-- You can also find it live on the DataTalks.Club YouTube Channel
-- Important: Don't post your questions in chat as they may be missed due to high activity
+Office hours are conducted via YouTube Live where students can participate by submitting questions through Slido (a link will be pinned in the chat). The video URL for each session is posted in the announcements channel on both Telegram and Slack before it begins. You can also find the live stream on the DataTalks.Club YouTube Channel. Please note that questions should be submitted through Slido rather than the chat, as chat messages may be missed due to high activity.
 </details>
 
 <details>
 <summary>Can I get a certificate in self-paced mode?</summary>
 
-No, certificates are only available when completing with a "live" cohort because:
-- You need to peer-review 3 capstone projects
-- Peer reviews only happen during the active course period
-- The form closes after the peer-review list is compiled
+No, certificates are only available when completing the course with a live cohort. This is because the certification process requires you to peer-review three capstone projects, and these peer reviews only happen during the active course period. Additionally, the submission form closes after the peer-review list is compiled.
 </details>
 
 <details>
 <summary>Can I still get a certificate if I missed the first homework?</summary>
 
-Yes! You only need to pass the Capstone project to get the certificate. Homework is:
-- Not mandatory
-- Recommended for reinforcing concepts
-- Points count towards your leaderboard ranking
+Yes! The only requirement for receiving a certificate is passing the Capstone project. Homework assignments are not mandatory, though they are recommended for reinforcing concepts and understanding the material better. Your homework points will count towards your position on the course leaderboard, but they don't affect certificate eligibility.
 </details>
 
 ## Quick Links

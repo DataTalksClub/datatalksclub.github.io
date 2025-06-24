@@ -226,34 +226,19 @@ The course runs for 4 months and includes pre-recorded videos, live office hours
 <details>
 <summary><strong>How can I start learning?</strong></summary>
 
-You have two options:
-- **Self-paced learning:** Start immediately! All course materials are pre-recorded and freely available on GitHub. You can learn at your own pace.
-- **Live cohort:** Join our next cohort starting September 2025 to learn with peers, participate in live sessions, and earn a certificate.
+You can choose between two learning paths: self-paced learning, where you can start immediately with pre-recorded materials freely available on GitHub and learn at your own pace, or joining our live cohort starting September 2025 to learn alongside peers, participate in live sessions, and earn a certificate.
 </details>
 
 <details>
 <summary><strong>What's included in the live cohort?</strong></summary>
 
-- Regular live office hours with instructors
-- Structured learning path with deadlines
-- Peer interaction and community support
-- Opportunity to earn a certificate
-- Access to all recorded sessions and office hours
-
-*Note: Even if you're self-paced, you still have access to all course materials and recordings!*
+The live cohort includes regular office hours with instructors, a structured learning path with deadlines, peer interaction and community support, the opportunity to earn a certificate, and access to all recorded sessions and office hours. Note that even if you're learning at your own pace, you still have access to all course materials and recordings.
 </details>
 
 <details>
 <summary><strong>How do I get certified?</strong></summary>
 
-To earn a certificate, you'll need to:
-1. Join a live cohort
-2. Complete 2 out of 3 projects:
-   - Midterm project
-   - Capstone project (includes deploying a model as a web service)
-3. Review 3 peers' projects by the deadline
-
-**Important:** Projects must be completed individually, and you must be part of a cohort to be eligible for certification.
+To earn a certificate, you’ll need to finalize and submit two projects: one during the midterm (Midterm project) and another at the end (Capstone project 1 and/or Capstone project 2). You'll also need to review 3 peers' projects by the deadline. Keep in mind that projects must be completed individually, and you must be part of a cohort to be eligible for certification.
 </details>
 
 <details>
@@ -289,51 +274,25 @@ Join our active Slack community, participate in office hours, and share your lea
 <details>
 <summary><strong>Is this course suitable for beginners?</strong></summary>
 
-Yes! If you have basic Python knowledge, you can start the course. The course is designed to be beginner-friendly, with:
-- Step-by-step explanations of concepts
-- Practical, hands-on learning approach
-- Active community support in Slack
-- Regular office hours for questions
-- Comprehensive learning materials
+Yes! If you have basic Python knowledge, you can start the course. The course is designed to be beginner-friendly, with step-by-step explanations of concepts, a practical hands-on learning approach, active community support in Slack, regular office hours for questions, and comprehensive learning materials.
 </details>
 
 <details>
 <summary><strong>What are the prerequisites for the course?</strong></summary>
 
-The main prerequisites are:
-- Basic Python knowledge (variables, functions, libraries)
-- Familiarity with Jupyter notebooks
-- Basic SQL knowledge (but you can learn this during the course)
-- Willingness to learn and participate in the community
-
-Don't worry if you're not an expert in these areas - the course is designed to help you grow from these foundations.
+The only requirement for this course is prior programming experience (1+ year) and familiarity with the command line.
 </details>
 
 <details>
 <summary><strong>What's the difference between self-paced and cohort learning?</strong></summary>
 
-While all course materials are freely available for self-paced learning, joining a cohort offers additional benefits:
-- Structured timeline with regular deadlines
-- Active peer learning and discussion
-- Live office hours and troubleshooting support
-- Opportunity to earn a certificate
-- Shared learning experience with others facing similar challenges
-
-The content is the same, but many students find the cohort structure helps them stay motivated and complete the course successfully.
+While all course materials are freely available for self-paced learning, joining a cohort offers additional benefits. You'll get a structured timeline with regular deadlines, active peer learning and discussion, live office hours and troubleshooting support, the opportunity to earn a certificate, and a shared learning experience with others facing similar challenges. The content is the same, but many students find the cohort structure helps them stay motivated and complete the course successfully.
 </details>
 
 <details>
 <summary><strong>How can I make the most of this course for my career?</strong></summary>
 
-Here are some tips for maximizing the course's career impact:
-- Start planning your capstone project early
-- Build a portfolio-worthy project that solves a real problem
-- Engage actively in the Slack community
-- Share your learning journey on social media (#mlzoomcamp)
-- Review and learn from other students' projects
-- Use the project in your job applications to demonstrate practical skills
-
-Many of our alumni have successfully used their course projects in job interviews to demonstrate their machine learning capabilities.
+To maximize the course's career impact, we recommend starting your capstone project planning early and building a portfolio-worthy project that solves a real problem. Stay engaged with the Slack community and share your learning journey on social media using #mlzoomcamp. Take time to review and learn from other students' projects. When job hunting, use your project to demonstrate practical skills in applications and interviews - many of our alumni have successfully leveraged their course projects to demonstrate their machine learning capabilities during the hiring process.
 </details>
 
 ## Quick Links

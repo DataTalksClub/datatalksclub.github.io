@@ -244,98 +244,50 @@ MLOps Zoomcamp offers a practical path to mastering machine learning operations.
 <details>
 <summary><strong>What is MLOps and why should I learn it?</strong></summary>
 
-MLOps (Machine Learning Operations) is a set of practices that combines Machine Learning, DevOps, and Data Engineering. It's crucial for:
-- Automating ML pipelines
-- Deploying models to production
-- Monitoring model performance
-- Ensuring ML system reliability
-
-Learning MLOps is essential for anyone working with machine learning in production environments.
+MLOps (Machine Learning Operations) is a set of practices that combines Machine Learning, DevOps, and Data Engineering. It's crucial for automating ML pipelines, deploying models to production, monitoring model performance, and ensuring ML system reliability. Learning MLOps is essential for anyone working with machine learning in production environments.
 </details>
 
 <details>
 <summary><strong>Is this MLOps course really free?</strong></summary>
 
-Yes! This is a completely free MLOps course. You get:
-- Full access to all course materials
-- Hands-on projects and assignments
-- Community support in our Slack workspace
-- Certificate upon completion (for live cohort participants)
+Yes! This is a completely free MLOps course. You get full access to all course materials, hands-on projects and assignments, community support in our Slack workspace, and a certificate upon completion if you participate in a live cohort.
 </details>
 
 <details>
 <summary><strong>How long does the course take to complete?</strong></summary>
 
-Approximately 3 months, with content spread across different modules covering the complete MLOps cycle. The course includes:
-- 6 core technical modules
-- Project work
-- Peer review period
+The course takes approximately 3 months to complete, with content spread across different modules covering the complete MLOps cycle. The course includes 6 core technical modules, project work, and a peer review period.
 </details>
 
 <details>
 <summary><strong>What tools and technologies will I learn?</strong></summary>
 
-The course covers essential MLOps tools and platforms:
-- MLflow for experiment tracking
-- Docker for containerization
-- AWS services (including Kinesis)
-- Prometheus and Grafana for monitoring
-- Mage for ML pipeline orchestration
-- GitHub Actions for CI/CD
+The course covers essential MLOps tools and platforms including MLflow for experiment tracking, Docker for containerization, AWS services (including Kinesis), Prometheus and Grafana for monitoring, Mage for ML pipeline orchestration, and GitHub Actions for CI/CD.
 </details>
 
 <details>
 <summary><strong>Do I need to register for the course?</strong></summary>
 
-Registration is not mandatory - it's primarily used to gauge interest and for analytics. You can:
-- Start learning and submitting homework without registering while a cohort is "live"
-- Join the course even after it has started
-- Submit homework as long as the submission forms are open
-
-However, be aware that there are deadlines for final projects, so plan accordingly.
+Registration is not mandatory - it's primarily used to gauge interest and for analytics. You can start learning and submitting homework without registering while a cohort is "live", join the course even after it has started, and submit homework as long as the submission forms are open. However, be aware that there are deadlines for final projects, so plan accordingly.
 </details>
 
 <details>
 <summary><strong>How is the course delivered?</strong></summary>
 
-The course includes:
-- Pre-recorded video lectures you can watch at your own pace
-- Regular office hours (live Q&A sessions) which are also recorded
-- Course materials available in the GitHub repository
-- Active MLOps community support in Slack
+The course includes pre-recorded video lectures you can watch at your own pace, regular office hours (live Q&A sessions) which are also recorded, course materials available in the GitHub repository, and active MLOps community support in Slack.
 </details>
 
 <details>
 <summary><strong>What are the prerequisites?</strong></summary>
 
-To get the most out of this MLOps course, you should have:
-- Prior programming experience (1+ year)
-- Basic understanding of machine learning concepts
-- Familiarity with Python
-- Basic command line knowledge
-- Previous exposure to Docker (recommended)
+To get the most out of this MLOps course, you should have prior programming experience (1+ year), basic understanding of machine learning concepts, familiarity with Python, basic command line knowledge, and previous exposure to Docker (recommended).
 </details>
 
 <details>
 <summary><strong>Can I get a certificate?</strong></summary>
 
-Yes, certificates are available when completing the course with a "live" cohort. Requirements include:
-- Completing the technical modules
-- Building an end-to-end MLOps project
-- Participating in peer reviews
-- Following MLOps best practices
-
-Note: Certificates are not available in self-paced mode.
+Yes, certificates are available when completing the course with a "live" cohort. Requirements include completing the technical modules, building an end-to-end MLOps project, participating in peer reviews, and following MLOps best practices. Note that certificates are not available in self-paced mode.
 </details>
-
-<details>
-<summary><strong>When is the next cohort?</strong></summary>
-
-The next cohort starts in May 2024. For future cohorts and other courses, check the [complete schedule of DataTalks.Club courses](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}.
-
-Note: While we aim to run regular cohorts, there's no guarantee that the same courses will be conducted year after year.
-</details>
-
 
 ## Quick Links
 

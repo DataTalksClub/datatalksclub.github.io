@@ -232,71 +232,37 @@ The next cohort starts in January 2026! Take the first step toward your data eng
 <details>
 <summary><strong>When does the next cohort start?</strong></summary>
 
-The next cohort starts in January 2026. [Register here](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD){:target="_blank"} before the course starts.
+The next cohort starts in January 2026. Register here: https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD before the course starts.
 </details>
 
 <details>
 <summary><strong>What are the prerequisites?</strong></summary>
 
-To get the most out of this course, you should have:
-- Basic coding experience
-- Familiarity with SQL
-- Python experience (helpful but not required)
-- No prior data engineering experience needed
-
-See [DE zoomcamp 2025 pre-course Q&A](https://github.com/DataTalksClub/data-engineering-zoomcamp#prerequisites){:target="_blank"} for more details.
+To get the most out of this course, you should have basic coding experience and familiarity with SQL. Python experience is helpful but not required. No prior data engineering experience is needed.
 </details>
 
 <details>
 <summary><strong>How much time should I expect to spend?</strong></summary>
 
-- 5-15 hours per week, depending on your background
-- Includes watching videos, completing homework, and working on projects
-- More time might be needed during project weeks
-- Time commitment varies based on your familiarity with the tools and concepts
+You should expect to spend between 5-15 hours per week, depending on your background. This includes watching videos, completing homework, and working on projects. More time might be needed during project weeks. The time commitment varies based on your familiarity with the tools and concepts.
 </details>
 
 <details>
 <summary><strong>Can I take the course in self-paced mode?</strong></summary>
 
-Yes! The self-paced option includes:
-- All materials remain available after the course
-- Access to Slack community for support
-- Search previous discussions or ask @ZoomcampQABot for help
-- Continue working on homework and projects at your own pace
-- All course materials and recordings stay accessible
+Yes! All course materials remain available after the course ends. You'll have access to the Slack community for support, where you can search previous discussions or ask @ZoomcampQABot for help. You can continue working on homework and projects at your own pace, and all course materials and recordings stay accessible.
 </details>
 
 <details>
 <summary><strong>Where can I find the course videos?</strong></summary>
 
-Our videos are available in several playlists:
-- [Main Data Engineering Zoomcamp Playlist](https://www.youtube.com){:target="_blank"} (primary reference)
-- Year-specific playlists for office hours and updates
+Our videos are available in several playlists, with the "Data Engineering Zoomcamp" playlist serving as the primary reference. We also maintain year-specific playlists for office hours and updates.
 </details>
 
 <details>
 <summary><strong>What are the certification requirements?</strong></summary>
 
-To earn your Data Engineering certification, you'll need to:
-
-1. **Complete the Project Requirements**
-   - Build an end-to-end data pipeline
-   - Implement both batch and streaming components
-   - Create analytical dashboards
-   - Document your solution architecture
-
-2. **Participate in Peer Learning**
-   - Review at least 3 other projects
-   - Submit reviews by the deadline
-   - Provide constructive feedback
-   - Engage with the community
-
-3. **Optional Bonus Activities**
-   - Share your learning journey
-   - Write technical articles
-   - Contribute to discussions
-   - Help other students
+To earn your Data Engineering certification, you need to complete the project requirements by building an end-to-end data pipeline. You must also participate in peer learning by reviewing at least 3 other projects, submitting reviews by the deadline, and providing constructive feedback.
 </details>
 
 <div style="text-align: center; margin: 2em 0;">
