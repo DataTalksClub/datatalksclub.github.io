@@ -2,6 +2,7 @@
 authors:
 - valeriiakuka
 description: "Learn machine learning engineering with Python in 2025: A free 4-month course covering ML algorithms, deployment, and real-world projects. Master regression, classification, deep learning, and MLOps with hands-on practice."
+description: "Learn machine learning engineering with Python in 2025: A free 4-month course covering ML algorithms, deployment, and real-world projects. Master regression, classification, deep learning, and MLOps with hands-on practice."
 image: images/posts/2023-08-17-machine-learning-zoomcamp/cover.jpg
 layout: post
 subtitle: Master Machine Learning Engineering with Python in 4 Months

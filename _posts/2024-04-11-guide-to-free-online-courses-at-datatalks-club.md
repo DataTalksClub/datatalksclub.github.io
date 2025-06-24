@@ -2,6 +2,7 @@
 authors:
 - valeriiakuka
 description: Discover DataTalks.Club's free online courses in Machine Learning, Data Engineering, MLOps, LLMs, and Stock Market Analytics. Learn practical skills, earn certificates, and join a supportive community.
+description: Discover DataTalks.Club's free online courses in Machine Learning, Data Engineering, MLOps, LLMs, and Stock Market Analytics. Learn practical skills, earn certificates, and join a supportive community.
 image: images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/cover.jpg
 layout: post
 subtitle: Earn Certificates, Get Practical Projects & Learn Machine Learning, Data Engineering, and MLOps, LLMs, Analytics in Stock Markets
@@ -31,6 +32,7 @@ DataTalks.Club offers a range of free online courses in Machine Learning, Data E
 ## Machine Learning Zoomcamp
 
 <figure>
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png"  />
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png"  />
 <figcaption>Technologies used in the Machine Learning Zoomcamp</figcaption>
 </figure>
