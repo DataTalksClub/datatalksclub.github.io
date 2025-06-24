@@ -177,7 +177,7 @@ Technologies you'll learn:
 <figcaption>LLM Zoomcamp cover</figcaption>
 </figure>
 
-LLM Zoomcamp is a free online course to get started with real-life applications of LLMs. In 10 weeks, you will learn how to build an AI system that answers questions about your knowledge base. Next cohort starts June 2025.
+[LLM Zoomcamp](https://datatalks.club/blog/llm-zoomcamp.html) is a free online course to get started with real-life applications of LLMs. In 10 weeks, you will learn how to build an AI system that answers questions about your knowledge base. Next cohort starts June 2025.
 
 ### Prerequisites
 - Comfortable with programming and Python
