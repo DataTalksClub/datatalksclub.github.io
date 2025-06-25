@@ -1,4 +1,18 @@
 
+- time: 2025-07-01 17:00:00
+  title: "From RAG to Agents: Making Smart AI Assistants (LLM Zoomcamp bonus module)"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://lu.ma/b7p9p365
+
+
+- time: 2025-06-30 17:00:00
+  title: "From REST to reasoning: ingest, index, and query with dlt and Cognee"
+  speakers: [hibajamal]
+  type: workshop
+  link: https://lu.ma/kdp6ex5s
+
+
 - time: 2025-06-30 17:00:00
   title: "From Simulation Algorithms to Production-Grade Data Systems"
   speakers: [orellgarten]
