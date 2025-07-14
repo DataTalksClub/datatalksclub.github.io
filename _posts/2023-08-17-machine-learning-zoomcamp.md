@@ -12,7 +12,7 @@ tags:
 title: "ML Zoomcamp 2025: Free Machine Learning Engineering Course & Certification"
 ---
 
-> **TL;DR:** ML Zoomcamp is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. Next cohort starts September 2025. [Join the course here](https://airtable.com/shryxwLd0COOEaqXo).
+> **TL;DR:** ML Zoomcamp is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. The next cohort starts on September 15, 2025. [Join the course here](https://airtable.com/shryxwLd0COOEaqXo).
 
 <figure>
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png" alt="ML Zoomcamp course overview showing progression from ML algorithms (Python, NumPy, Pandas, Scikit-learn) to deployment (Docker, Flask, Kubernetes)" />
@@ -204,7 +204,7 @@ Machine Learning Zoomcamp offers a practical path to becoming an ML engineer. In
 - Professional deployment skills
 - Access to an active learning community
 
-The next cohort starts on September 2025! Take the first step toward your ML engineering career. Register for the course and start your learning journey today!
+The next cohort starts on September 15, 2025! Take the first step toward your ML engineering career. Register for the course and start your learning journey today!
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
@@ -226,7 +226,7 @@ The course runs for 4 months and includes pre-recorded videos, live office hours
 <details>
 <summary><strong>How can I start learning?</strong></summary>
 
-You can choose between two learning paths: self-paced learning, where you can start immediately with pre-recorded materials freely available on GitHub and learn at your own pace, or joining our live cohort starting September 2025 to learn alongside peers, participate in live sessions, and earn a certificate.
+You can choose between two learning paths: self-paced learning, where you can start immediately with pre-recorded materials freely available on GitHub and learn at your own pace, or joining our live cohort starting on September 15, 2025, to learn alongside peers, participate in live sessions, and earn a certificate.
 </details>
 
 <details>
