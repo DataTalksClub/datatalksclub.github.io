@@ -22,7 +22,7 @@ DataTalks.Club offers a range of free online courses in Machine Learning, Data E
 
 | Course | Duration | Next cohort | Register | Article |  |
 | -------- | ------- | ------- | ------- | ------- | ------- |
-| [Machine Learning Zoomcamp](#machine-learning-zoomcamp) | 16 weeks | September 2025 | [Register](https://airtable.com/appflP5cuR8bD5MIm/shryxwLd0COOEaqXo) | [Article](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| [Machine Learning Zoomcamp](#machine-learning-zoomcamp) | 16 weeks | September 15, 2025 | [Register](https://airtable.com/appflP5cuR8bD5MIm/shryxwLd0COOEaqXo) | [Article](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
 | [Data Engineering Zoomcamp](#data-engineering-zoomcamp) | 9 weeks | January 2026 | [Register](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD) | [Article](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
 | [MLOps Zoomcamp](#mlops-zoomcamp) | 12 weeks | May 2025 | [Register](https://airtable.com/shryxwLd0COOEaqXo) | [Article](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
 | [Stock Markets Analytics Zoomcamp](#stock-markets-analytics-zoomcamp) | 8 weeks | April 2025 | [Register](https://airtable.com/shryxwLd0COOEaqXo) | [Article](https://pythoninvest.com/course){:target="_blank"} | <a href="https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
@@ -33,11 +33,10 @@ DataTalks.Club offers a range of free online courses in Machine Learning, Data E
 
 <figure>
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png"  />
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png"  />
 <figcaption>Technologies used in the Machine Learning Zoomcamp</figcaption>
 </figure>
 
-[Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. Next cohort starts September 2025.
+[Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. The next cohort starts on September 15, 2025.
 
 ### Prerequisites
 
