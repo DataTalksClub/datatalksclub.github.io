@@ -12,9 +12,9 @@ tags:
 title: 'Key Lessons from ML Zoomcamp: Serena Haidar'
 ---
 
-DataTalks.Club’s [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} is a free, four-month online course on machine-learning fundamentals and deploying models to production.
+DataTalks.Club’s [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} is a free, four-month online course on machine-learning fundamentals and deploying models to production. To complete the course and earn a certificate, students submit a final project and participate in peer evaluation.
 
-In our previous article, we covered graduate Serena Haidar’s end-to-end capstone. In this follow-up, she shares key lessons, study pace, how to get unstuck, and how the program shaped her approach to ML engineering.
+In our previous article, we profiled Serena Haidar’s [end-to-end waste-classifier project](https://datatalks.club/blog/how-to-build-waste-classifier-case-study-from-ml-zoomcamp.html) from her Zoomcamp capstone. In this follow-up article, Serena shares the lessons that mattered most: study cadence, how to overcome obstacles, and how the program influenced her approach to ML engineering.
 
 ## Key Lessons Learned
 
