@@ -1,6 +1,5 @@
 ---
-authors:
-- valeriiakuka, serenahaidar
+authors: [valeriiakuka, serenahaidar]
 description: Learn what you can build after ML Zoomcamp based on the final end-to-end
   ML engineering project from one of the graduates.
 image: images/posts/2025-08-05-how-to-build-waste-classifier-case-study-from-ml-zoomcamp/cover.jpg
