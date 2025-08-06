@@ -1,6 +1,5 @@
 ---
-authors:
-- valeriiakuka, serenahaidar
+authors: [serenahaidar, valeriiakuka]
 description: 'Interview with ML Zoomcamp grad Serena Haidar: practical lessons, getting
   unstuck, and the impact of the final project'
 image: images/posts/2025-08-05-key-lessons-from-ml-zoomcamp-serena-haidar/cover.jpg
