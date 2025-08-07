@@ -1,5 +1,12 @@
 
 - time: 2025-08-11 17:00:00
+  title: "From Medicine to Machine Learning: How Public Learning Turned into a Career"
+  speakers: [pastorsoto]
+  type: podcast
+  link: https://lu.ma/4q7tfdmj
+
+
+- time: 2025-08-11 17:00:00
   title: "Deploying ML Models with FastAPI and uv"
   speakers: [alexeygrigorev]
   type: workshop
