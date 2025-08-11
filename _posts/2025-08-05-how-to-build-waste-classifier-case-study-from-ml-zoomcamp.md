@@ -20,7 +20,7 @@ How does [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.htm
 
 If you’re evaluating this free course, this article shows how a graduate moves from a notebook to a small production app—what gets built, why each step matters, and how to approach the work methodically.
 
-> At DataTalks.Club, [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){\:target="\_blank"} is a free, four-month online course on core machine learning and taking models to production. To complete the course and earn a certificate, students deliver an end-to-end final project that turns course concepts into a working system.
+> At DataTalks.Club, [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) is a free, four-month online course on core machine learning and taking models to production. To complete the course and earn a certificate, students deliver an end-to-end final project that turns course concepts into a working system.
 
 ## Interview with Serena about Her Project Idea
 
