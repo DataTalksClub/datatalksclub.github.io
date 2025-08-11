@@ -1,21 +1,13 @@
 ---
-authors:
-- alexanderdanielrios, valeriiakuka
-description: Learn what you can build after ML Zoomcamp based on a real project from
-  one of the graduates
+authors: [alexanderdanielrios, valeriiakuka]
+description: Learn what you can build after ML Zoomcamp based on a real project from one of the graduates
 image: images/posts/2025-08-11-tab-1-how-to-build-blood-cell-classifier-for-cancer-prediction-case-study-from-ml-zoomcamp/cover.jpg
 layout: post
-subtitle: Learn what you can build after ML Zoomcamp based on a real project from
-  one of the graduates
+subtitle: Learn what you can build after ML Zoomcamp based on a real project from one of the graduates
 tags:
 - ml-zoomcamp
-title: 'Tab 1
-
-
-  How to Build a Blood Cell Classifier for Cancer Prediction: A Case Study from ML
-  Zoomcamp
-
-  '
+- course
+title: "How to Build a Blood Cell Classifier for Cancer Prediction: A Case Study from ML Zoomcamp"
 ---
 
 [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} is a free, four-month online course on core machine learning and taking models to production. A key requirement is an end-to-end capstone/final project that turns course concepts into a working system.
