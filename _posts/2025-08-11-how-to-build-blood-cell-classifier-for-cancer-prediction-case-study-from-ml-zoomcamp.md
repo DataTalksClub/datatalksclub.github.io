@@ -10,11 +10,11 @@ tags:
 title: "How to Build a Blood Cell Classifier for Cancer Prediction: A Case Study from ML Zoomcamp"
 ---
 
-[ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} is a free, four-month online course on core machine learning and taking models to production. A key requirement is an end-to-end capstone/final project that turns course concepts into a working system.
-
-In our previous article, we covered the [waste classifier](https://datatalks.club/blog/how-to-build-waste-classifier-case-study-from-ml-zoomcamp.html){:target="_blank"} built by ML Zoomcamp graduate Serena Haidar. This time, another graduate, Alexander Daniel Rios, walks through his final project: an end-to-end tool that segments and classifies blood cells from microscope images to assist in detecting signs of acute lymphoblastic leukemia (ALL).
+In one of our previous articles, we covered the [waste classifier](https://datatalks.club/blog/how-to-build-waste-classifier-case-study-from-ml-zoomcamp.html) built by [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) graduate Serena Haidar. This time, another graduate, Alexander Daniel Rios, walks through his final project: an end-to-end tool that segments and classifies blood cells from microscope images to assist in detecting signs of acute lymphoblastic leukemia (ALL).
 
 Below, Alexander explains his approach, from problem framing and data preparation to modeling choices, evaluation, and deployment, and what it takes to make the system usable outside a notebook.
+
+> [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) is a free, four-month online course on core machine learning and taking models to production. A key requirement is an end-to-end capstone/final project that turns course concepts into a working system.
 
 ## ML Zoomcamp Contribution
 
@@ -27,8 +27,6 @@ What I gained:
 - Sensible metric selection tied to use cases
 - Practical confidence with neural nets and transfer learning
 - Lightweight deployment paths (Flask, AWS Lambda)
-
-
 
 ## My Final Projects
 
