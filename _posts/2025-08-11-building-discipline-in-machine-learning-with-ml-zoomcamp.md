@@ -1,26 +1,18 @@
 ---
-authors:
-- '[alexanderdanielrios, valeriiakuka]'
-description: A disciplined path to data prep, validation, and deployment, plus how
-  public sharing accelerated my skills, connections, and offers.
+authors: [alexanderdanielrios, valeriiakuka]
+description: A disciplined path to data prep, validation, and deployment, plus how public sharing accelerated my skills, connections, and offers.
 image: images/posts/2025-08-11-tab-2-building-discipline-in-machine-learning-with-ml-zoomcamp/cover.jpg
 layout: post
-subtitle: A disciplined path to data prep, validation, and deployment, plus how public
-  sharing accelerated my skills, connections, and offers.
+subtitle: A disciplined path to data prep, validation, and deployment, plus how public sharing accelerated my skills, connections, and offers.
 tags:
 - ml-zoomcamp
 - course
-title: 'Tab 2
-
-
-  Building Discipline in Machine Learning with ML Zoomcamp
-
-  '
+title: "Building Discipline in Machine Learning with ML Zoomcamp"
 ---
 
 In our previous article, we wrote about an [end-to-end blood cell classifier for cancer prediction](https://datatalks.club/blog/how-to-build-blood-cell-classifier-for-cancer-prediction-case-study-from-ml-zoomcamp.html){:target="_blank"}, a final project for ML Zoomcamp created by graduate Alexander Daniel Rios. In this follow-up, Alexander reflects on how the course shifted his approach from ad-hoc experimentation to a structured, professional workflow. He walks through the skills he developed, the two final projects he completed, and why working in public and with a community made a difference for his professional growth.
 
-\> [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} is a free, four-month online course on machine learning fundamentals and deploying models to production.
+> [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} is a free, four-month online course on machine learning fundamentals and deploying models to production.
 
 ## What were your projects like before ML Zoomcamp?
 
