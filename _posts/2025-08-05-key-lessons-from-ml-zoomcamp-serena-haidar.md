@@ -1,7 +1,6 @@
 ---
 authors: [serenahaidar, valeriiakuka]
-description: 'Interview with ML Zoomcamp grad Serena Haidar: practical lessons, getting
-  unstuck, and the impact of the final project'
+description: 'What you learn in ML Zoomcamp, a free ML engineering course: graduate Serena Haidar on study rhythm, obstacles, and refining a deployment-focused workflow.'
 image: images/posts/2025-08-05-key-lessons-from-ml-zoomcamp-serena-haidar/cover.jpg
 layout: post
 subtitle: 'Interview with ML Zoomcamp grad Serena Haidar: practical lessons, getting
@@ -12,9 +11,9 @@ tags:
 title: 'Key Lessons from ML Zoomcamp: Serena Haidar'
 ---
 
-DataTalks.Club’s [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} is a free, four-month online course on machine-learning fundamentals and deploying models to production. To complete the course and earn a certificate, students submit a final project and participate in peer evaluation.
+In our previous article, we profiled [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) graduate Serena Haidar’s [end-to-end waste-classifier capstone](https://datatalks.club/blog/how-to-build-waste-classifier-case-study-from-ml-zoomcamp.html). In this follow-up, Serena shares the lessons that mattered most—study cadence, how to get unstuck, and how the program shaped her approach to ML engineering.
 
-In our previous article, we profiled Serena Haidar’s [end-to-end waste-classifier project](https://datatalks.club/blog/how-to-build-waste-classifier-case-study-from-ml-zoomcamp.html) from her Zoomcamp capstone. In this follow-up article, Serena shares the lessons that mattered most: study cadence, how to overcome obstacles, and how the program influenced her approach to ML engineering.
+> DataTalks.Club’s [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) is a free, four-month online course on machine-learning fundamentals and deploying models to production. To earn a certificate, students must deliver an end-to-end final project and participate in peer review.
 
 ## Key Lessons Learned
 
