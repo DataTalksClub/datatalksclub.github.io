@@ -1,11 +1,9 @@
 ---
 authors: [serenahaidar, valeriiakuka]
-description: Learn what you can build after ML Zoomcamp based on the final end-to-end
-  ML engineering project from one of the graduates.
+description: Learn what you can build after ML Zoomcamp, a free course on ML engineering, based on the final end-to-end ML engineering project from one of the graduates: Xception waste classifier on ~15k images, 93.3% accuracy, deployed with Flask and Docker.
 image: images/posts/2025-08-05-how-to-build-waste-classifier-case-study-from-ml-zoomcamp/cover.jpg
 layout: post
-subtitle: Learn what you can build after ML Zoomcamp based on the final end-to-end
-  ML engineering project from one of the graduates.
+subtitle: Learn what you can build after ML Zoomcamp based on the final end-to-end ML engineering project from one of the graduates.
 tags:
 - courses
 - machine-learning
@@ -18,11 +16,11 @@ title: 'How to Build a Waste Classifier: A Case Study from ML Zoomcamp'
 <figcaption>GitHub of Serena’s final project from ML Zoomcamp</figcaption>
 </figure>
 
-How does ML Zoomcamp translate into real ML engineering? At DataTalks.Club, [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} is a free, four-month online course on core machine learning and taking models to production. A key requirement is an end-to-end capstone/final project that turns course concepts into a working system.
+How does [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) turn course content into practical ML engineering? In this case study, **Serena Haidar** walks through her final project from ML Zoomcamp: training an Xception-based image classifier on ~15,000 waste images, reaching **93.3%** test accuracy, and serving predictions via a Flask API packaged in Docker.
 
-In this case study, Serena Haidar walks through her final project: training an Xception-based image classifier on ~15k waste images, achieving 93.3% test accuracy, and serving predictions via a Flask API in Docker.
+If you’re evaluating this free course, this article shows how a graduate moves from a notebook to a small production app—what gets built, why each step matters, and how to approach the work methodically.
 
-If you’re evaluating the program, this is how a graduate takes the course material from notebook to a small production app, and what you can build after the course and how to approach it step by step.
+> At DataTalks.Club, [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){\:target="\_blank"} is a free, four-month online course on core machine learning and taking models to production. To complete the course and earn a certificate, students deliver an end-to-end final project that turns course concepts into a working system.
 
 ## Interview with Serena about Her Project Idea
 
