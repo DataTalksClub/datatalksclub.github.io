@@ -1,4 +1,25 @@
 
+- time: 2025-08-19 17:00:00
+  title: "ML Zoomcamp 2025 Pre-Course Live Q&A"
+  speakers: [alexeygrigorev]
+  type: webinar
+  link: https://lu.ma/93concgq
+
+
+- time: 2025-08-18 17:00:00
+  title: "Deploying ML Models with AWS Lambda (Serverless)"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://lu.ma/dp38rt40
+
+
+- time: 2025-09-15 17:00:00
+  title: "From Algorithms to Agents: Lessons from Building Copilot"
+  speakers: [vadimsmolyakov]
+  type: podcast
+  link: https://luma.com/ppb1xehx
+
+
 - time: 2025-08-18 17:00:00
   title: "From Medicine to Machine Learning: How Public Learning Turned into a Career"
   speakers: [pastorsoto]
