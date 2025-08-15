@@ -19,18 +19,6 @@ title: "ML Zoomcamp 2025: Free Machine Learning Engineering Course & Certificati
 <figcaption>Complete ML Zoomcamp curriculum: from machine learning fundamentals to production deployment</figcaption>
 </figure>
 
-Want to become a machine learning engineer? 
-
-Machine Learning Zoomcamp is a comprehensive, free four-month course that takes you from ML basics to production deployment.
-
-## What You'll Learn in This Guide
-
-- [What Makes ML Zoomcamp Different](#what-makes-ml-zoomcamp-different)
-- [Course Curriculum and Structure](#comprehensive-course-curriculum)
-- [Learning Experience and Support](#learning-experience-and-support)
-- [Community and Resources](#datatalks-club-community)
-- [Common Questions Answered](#frequently-asked-questions)
-- [Getting Started](#quick-links)
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
@@ -40,17 +28,6 @@ Machine Learning Zoomcamp is a comprehensive, free four-month course that takes 
         </a>
     </div>
 </div>
-
-## What Makes ML Zoomcamp Different
-
-
-- **Free and Comprehensive**: Complete ML engineering curriculum at zero cost
-- **Practical Focus**: Real-world projects and hands-on exercises
-- **Community-Driven**: Active Slack community for peer support
-- **Industry-Relevant**: Tools and skills valued by employers
-- **Flexible Learning**: Self-paced or structured cohort options
-
-> Explore more [free courses at DataTalks.Club](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}.
 
 ## Course Curriculum
 
@@ -99,8 +76,6 @@ insights into further enhancing deployment capabilities.
 <figcaption>Deployment technologies used in Part 2 of ML Zoomcamp for putting ML models into production</figcaption>
 </figure>
 
-> View the complete [course syllabus on GitHub](https://github.com/DataTalksClub/machine-learning-zoomcamp#syllabus){:target="_blank"} for a detailed week-by-week breakdown.
-
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
         <a href="https://airtable.com/shryxwLd0COOEaqXo" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
@@ -144,7 +119,6 @@ What to expect:
 
 ### Learning in Public
 
-
 A unique feature is our "learning in public" approach, inspired by [Shawn @swyx Wang](https://www.youtube.com/watch?v=tkBCPqWKCL8&list=PL7NIGf5_PlM-Dk3lgPsZFT94Ng7PpRQEh&index=5&t=195s){:target="_blank"}'s [article](https://www.swyx.io/learn-in-public){:target="_blank"}. We believe that everyone has something valuable to contribute, regardless of their expertise level.
 
 <figure>
@@ -161,6 +135,7 @@ leaderboard showing bonus points for learning in public" />
 activities</figcaption>
 </figure>
 
+> Explore more [free courses at DataTalks.Club](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}.
 
 ### Building Your Portfolio with Course Projects
 
