@@ -3,7 +3,7 @@ authors:
 - valeriiakuka
 description: Learn ML from top universities and platforms with these free or free-to-audit
   courses, covering foundations, core algorithms, and practical projects.
-image: images/posts/2025-08-16-tab-1-ultimate-list-of-20-free-online-courses-on-machine-learning/cover.jpg
+image: images/posts/2025-08-16-ultimate-list-of-20-free-online-courses-on-machine-learning/cover.jpg
 layout: post
 subtitle: Learn ML from top universities and platforms with these free or free-to-audit
   courses, covering foundations, core algorithms, and practical projects.
