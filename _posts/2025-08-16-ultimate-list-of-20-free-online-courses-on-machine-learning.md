@@ -10,13 +10,12 @@ subtitle: Learn ML from top universities and platforms with these free or free-t
 tags:
 - mlzoomcamp
 - course
-title: 'Tab 1
-
-
-  An Ultimate List of 20+ Free Online Courses on Machine Learning
-
-  '
+title: 'An Ultimate List of 20+ Free Online Courses on Machine Learning'
 ---
+
+<figure>
+<img src="/images/posts/2025-08-16-tab-1-ultimate-list-of-20-free-online-courses-on-machine-learning/free-ml-courses.png"/>
+</figure>
 
 ## Introduction
 
