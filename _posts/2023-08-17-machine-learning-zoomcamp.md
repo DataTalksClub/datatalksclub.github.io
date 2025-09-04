@@ -9,7 +9,7 @@ subtitle: Master Machine Learning Engineering with Python in 4 Months
 tags:
 - courses
 - machine-learning
-title: "ML Zoomcamp 2025: Free Machine Learning Engineering Course & Certification"
+title: "ML Zoomcamp 2025: Free Machine Learning Engineering Course and Certification"
 date: 2025-09-01
 ---
 
