@@ -10,6 +10,7 @@ tags:
 - courses
 - machine-learning
 title: "ML Zoomcamp 2025: Free Machine Learning Engineering Course & Certification"
+date: 2025-09-01
 ---
 
 > **TL;DR:** ML Zoomcamp is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. The next cohort starts on September 15, 2025. [Join the course here](https://airtable.com/shryxwLd0COOEaqXo).
@@ -28,6 +29,19 @@ title: "ML Zoomcamp 2025: Free Machine Learning Engineering Course & Certificati
         </a>
     </div>
 </div>
+
+If you're looking to master the foundations of machine learning and understand how real-world ML systems are built, **ML Zoomcamp** is a free, hands-on course that takes you from first principles to deployment.
+
+In this guide, you'll read about:
+
+- [What the course covers](#course-curriculum)
+- [How theory connects to practice](#theory-and-practice)
+- [What the assignments look like](#course-assignments-and-scoring)
+- [How "learning in public" helps your career](#learning-in-public)
+- [Projects you'll build to showcase your skills](#building-your-portfolio-with-course-projects)
+- [Why the DataTalks.Club community matters](#datatalksclub-community)
+- [How to get started today](#quick-start-guide)
+- [Answers to common questions](#frequently-asked-questions)
 
 ## Course Curriculum
 
@@ -87,7 +101,7 @@ insights into further enhancing deployment capabilities.
 
 ### Theory and Practice
 
-Our lectures aim to make machine learning theory accessible and engaging through real-world examples. Code demonstrations are provided directly in the lectures to show the implementation of concepts, enabling easier application in your projects.
+Our lectures aim to make machine learning theory accessible and engaging through real-world examples. Code demonstrations are provided directly in the lectures to illustrate the implementation of concepts, making it easier to apply them in your projects.
 
 Each concept comes with:
 - Clear explanations
@@ -119,7 +133,7 @@ What to expect:
 
 ### Learning in Public
 
-A unique feature is our "learning in public" approach, inspired by [Shawn @swyx Wang](https://www.youtube.com/watch?v=tkBCPqWKCL8&list=PL7NIGf5_PlM-Dk3lgPsZFT94Ng7PpRQEh&index=5&t=195s){:target="_blank"}'s [article](https://www.swyx.io/learn-in-public){:target="_blank"}. We believe that everyone has something valuable to contribute, regardless of their expertise level.
+A unique feature is our "learning in public" approach, inspired by [Shawn @swyx Wang](https://www.youtube.com/watch?v=tkBCPqWKCL8&list=PL7NIGf5_PlM-Dk3lgPsZFT94Ng7PpRQEh&index=5&t=195s){:target="_blank"}'s [article](https://www.swyx.io/learn-in-public){:target="_blank"}. We believe that everyone has something valuable to contribute, regardless of their level of expertise.
 
 <figure>
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image8.png" alt="Learning in public concept from Shawn Wang's article" />
@@ -139,9 +153,11 @@ activities</figcaption>
 
 ### Building Your Portfolio with Course Projects
 
-If you've ever participated in an interview or conducted online research, you likely understand the significance of personal projects for a machine learning engineer role. Especially in case you don't have any previous experience in machine learning and it's your first job.
+If you've ever participated in an interview or conducted online research, you likely understand the significance of personal projects for a machine learning engineer role. Especially in case you don't have any previous experience in machine learning, and it's your first job.
 
-To receive a certificate, you'll need to finalize and submit two projects: one during the midterm ([Midterm project](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#midterm-project){:target="_blank"}) and another at the end ([Capstone project 1](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#capstone-project-1){:target="_blank"} and/or [Capstone project 2](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#capstone-project-2-optional){:target="_blank"}). These projects allow you to choose a problem that interests you, find a suitable dataset, and develop your model. For the capstone project, you are also required to deploy your model into a web service, with an option for local deployment or on the cloud, earning bonus points.
+To receive a certificate, you'll need to finalize and submit two projects: one during the midterm ([Midterm project](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#midterm-project){:target="_blank"}) and another at the end ([Capstone project 1](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#capstone-project-1){:target="_blank"} and/or [Capstone project 2](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master#capstone-project-2-optional){:target="_blank"}). These projects allow you to choose a problem that interests you, find a suitable dataset, and develop your model. For the capstone project, you are also required to deploy your model as a web service, with the option for local deployment or cloud deployment, earning bonus points.
+
+Students from previous cohorts built a wide range of projects. For example, one graduate created a [blood cell classifier for cancer prediction](https://datatalks.club/blog/how-to-build-blood-cell-classifier-for-cancer-prediction-case-study-from-ml-zoomcamp.html) using deep learning, while another tackled [waste classification](https://datatalks.club/blog/how-to-build-waste-classifier-case-study-from-ml-zoomcamp.html) with over 15,000 images, achieving 93% accuracy. Both projects started from scratch with open datasets, evolved through careful model training and evaluation, and resulted in deployable applications.  
 
 <figure>
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image9.png" alt="Example student project from ML Zoomcamp showing GitHub repository" />
