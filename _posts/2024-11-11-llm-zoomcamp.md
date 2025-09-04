@@ -9,7 +9,8 @@ tags:
 - courses
 - artificial-intelligence
 - large-language-models
-title: "LLM Zoomcamp 2025: Free Large Language Models Course & Certification"
+title: "LLM Zoomcamp 2025: Free Large Language Models Course and Certification"
+date: 2025-08-25
 ---
 
 <figure>
@@ -17,13 +18,18 @@ title: "LLM Zoomcamp 2025: Free Large Language Models Course & Certification"
 <figcaption>Cover of the LLM Zoomcamp course</figcaption>
 </figure>
 
-LLM Zoomcamp is a free online course to get started with real-life applications of LLMs. In 10 weeks, you will learn how to build an AI system that answers questions about your knowledge base.
+If you want to learn how to build practical applications with large language models, **LLM Zoomcamp** is a free, hands-on course that guides you step by step. Over 10 weeks, you'll go from the basics to creating an AI system that can answer questions about your own knowledge base.
 
-## What You'll Learn in This Guide
-- [Who is the Course For?](#who-is-the-course-for)
-- [Course Curriculum](#course-curriculum)
-- [Course Assignments and Scoring](#course-assignments-and-scoring)
-- [DataTalks.Club Community](#datatalksclub-community)
+In this guide, you'll find:
+
+- [Who the course is for and prerequisites](#who-the-course-is-for-and-prerequisites)
+- [What the course covers](#course-curriculum)
+- [How the assignments are structured](#course-assignments-and-scoring)
+- [How “learning in public” accelerates your progress](#learning-in-public)
+- [Projects you’ll build for your portfolio](#course-projects-for-your-portfolio)
+- [How to get started quickly](#quick-start-guide)
+- [Answers to common questions](#frequently-asked-questions)
+
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
@@ -219,7 +225,7 @@ DataTalks.Club has a supportive community of like-minded individuals in [our Sla
 </figure>
 
 
-## Quick Start Guide for LLM Zoomcamp
+## Quick Start Guide
 
 LLM Zoomcamp is a structured and practical introduction to applying Large Language Models in real-world contexts. Over 10 weeks, you gain hands-on experience, from setting up retrieval systems to building a complete RAG application.
 
