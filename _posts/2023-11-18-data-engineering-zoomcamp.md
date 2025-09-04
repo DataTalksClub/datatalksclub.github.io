@@ -8,7 +8,8 @@ subtitle: "Master Modern Data Engineering: From Basics to Advanced Pipeline Deve
 tags:
 - courses
 - data-engineering
-title: "Data Engineering Zoomcamp 2026: Free Data Engineering Course & Certification"
+title: "Data Engineering Zoomcamp 2026: Free Data Engineering Course and Certification"
+date: 2025-09-02
 ---
 
 <figure>
@@ -16,18 +17,23 @@ title: "Data Engineering Zoomcamp 2026: Free Data Engineering Course & Certifica
 <figcaption><p>Complete Data Engineering Zoomcamp curriculum: from infrastructure setup to stream processing</p></figcaption>
 </figure>
 
-Want to become a data engineer or enhance your data engineering skills? 
+> **TL;DR:** Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. [Join the course here](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD).
 
-Data Engineering Zoomcamp by DataTalks.Club is a free, comprehensive 9-week course that takes you from fundamentals to production-ready data pipelines. Whether you're a beginner or an experienced developer, this bootcamp will help you master the essential tools and practices used by professional data engineers.
+Want to become a data engineer or level up your existing skills? 
 
-## What You'll Learn in This Guide
-- [What makes Data Engineering Zoomcamp different](#what-makes-data-engineering-zoomcamp-different)
-- [Course curriculum](#course-curriculum)
-- [Course assignments and scoring](#course-assignments-and-scoring)
-- [Building Your Portfolio](#building-your-portfolio-with-data-engineering-projects)
-- [Community and Resources](#datatalks-club-community)
-- [Quick Start Guide](#quick-start-guide)
-- [Frequently Asked Questions](#frequently-asked-questions)
+**Data Engineering Zoomcamp** by DataTalks.Club is a free, comprehensive program that takes you from the fundamentals to running production-grade pipelines. By joining this course, you'll get hands-on experience with the tools and workflows used by professional data engineers.
+
+In this guide, you'll learn about:
+
+- [What makes Data Engineering Zoomcamp different](#what-makes-data-engineering-zoomcamp-different)  
+- [Who the course is for and prerequisites](#who-the-course-is-for-and-prerequisites)  
+- [Course curriculum](#course-curriculum)  
+- [Assignments and scoring](#course-assignments-and-scoring)  
+- [Why learning in public matters](#learning-in-public)  
+- [Building your portfolio with real projects](#building-your-portfolio-with-data-engineering-projects)  
+- [The DataTalks.Club community](#datatalksclub-community)  
+- [Quick start guide](#quick-start-guide)  
+- [Frequently asked questions](#frequently-asked-questions)  
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
@@ -58,18 +64,12 @@ We'll mainly use Python, but if you're not familiar with it yet, it's not a prob
 
 ## Course Curriculum
 
-The course curriculum is structured to guide you through the essential elements of data engineering, beginning with foundational concepts and advancing to complex topics.
+The curriculum follows a logical progression from infrastructure setup to advanced data processing, culminating in an end-to-end project. Here's what you'll learn each week:
 
 <figure>
 <img src="/images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.jpeg" alt="Comprehensive overview of Data Engineering Zoomcamp showing the 9-week progression through different technologies and tools including Docker, Terraform, Mage, BigQuery, dbt, Spark, and Kafka" />
 <figcaption><p>Course overview: A complete journey through modern data engineering tools and technologies</p></figcaption>
 </figure>
-
-### Course Structure
-
-The curriculum follows a logical progression from infrastructure setup to advanced data processing, culminating in an end-to-end project. Here's what you'll learn each week:
-
-#### Core Technologies (Weeks 1-6)
 
 **Week 1: Infrastructure & Prerequisites**
 - Set up development environment with Docker and PostgreSQL
@@ -101,7 +101,7 @@ The curriculum follows a logical progression from infrastructure setup to advanc
 - Develop streaming applications using KSQL and Faust
 - Implement stream processing patterns and best practices
 
-#### Project Phase (Weeks 7-9)
+### Project Phase
 
 The final three weeks are dedicated to applying your knowledge in a real-world project:
 
@@ -208,7 +208,7 @@ DataTalks.Club has a supportive community of like-minded individuals in [our Sla
 <figcaption><p>Active discussions and peer support in our dedicated Slack community channel</p></figcaption>
 </figure>
 
-## Quick Start Guide for Data Engineering Zoomcamp
+## Quick Start Guide
 
 Data Engineering Zoomcamp offers a practical path to becoming a data engineer. In just 9 weeks, you'll gain:
 
