@@ -9,6 +9,7 @@ subtitle: Earn Certificates, Get Practical Projects & Learn Machine Learning, Da
 tags:
 - courses
 title: A Guide to Free Online Courses at DataTalks.Club
+date: 2025-09-04
 ---
 
 <figure>
