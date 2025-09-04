@@ -13,22 +13,12 @@ title: "ML Zoomcamp 2025: Free Machine Learning Engineering Course & Certificati
 date: 2025-09-01
 ---
 
-> **TL;DR:** ML Zoomcamp is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. The next cohort starts on September 15, 2025. [Join the course here](https://airtable.com/shryxwLd0COOEaqXo).
-
 <figure>
 <img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png" alt="ML Zoomcamp course overview showing progression from ML algorithms (Python, NumPy, Pandas, Scikit-learn) to deployment (Docker, Flask, Kubernetes)" />
 <figcaption>Complete ML Zoomcamp curriculum: from machine learning fundamentals to production deployment</figcaption>
 </figure>
 
-
-<div style="text-align: center; margin: 2em 0;">
-    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
-        <a href="https://airtable.com/shryxwLd0COOEaqXo" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
-            <span>Join the next cohort</span>
-            <span style="margin-left: 0.25em;">→</span>
-        </a>
-    </div>
-</div>
+> **TL;DR:** ML Zoomcamp is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. The next cohort starts on September 15, 2025. [Join the course here](https://airtable.com/shryxwLd0COOEaqXo).
 
 If you're looking to master the foundations of machine learning and understand how real-world ML systems are built, **ML Zoomcamp** is a free, hands-on course that takes you from first principles to deployment.
 
@@ -42,6 +32,15 @@ In this guide, you'll read about:
 - [Why the DataTalks.Club community matters](#datatalksclub-community)
 - [How to get started today](#quick-start-guide)
 - [Answers to common questions](#frequently-asked-questions)
+
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/shryxwLd0COOEaqXo" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join the next cohort</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
 
 ## Course Curriculum
 
