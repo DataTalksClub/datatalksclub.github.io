@@ -1,7 +1,7 @@
 ---
 authors:
 - valeriiakuka
-description: "Free Data Engineering Bootcamp 2026: Master data engineering with hands-on training in Python, SQL, dbt, Kafka, and Spark. Join DataTalks.Club's comprehensive 9-week course covering modern data engineering tools, batch and stream processing, and real-world projects. Perfect for beginners and experienced developers."
+description: "Master data engineering with hands-on training in Python, SQL, dbt, Kafka, and Spark. Join DataTalks.Club's comprehensive 9-week course covering modern data engineering tools, batch and stream processing, and real-world projects. Perfect for beginners and experienced developers."
 image: images/posts/2023-11-18-data-engineering-zoomcamp/cover.jpg
 layout: post
 subtitle: "Master Modern Data Engineering: From Basics to Advanced Pipeline Development"

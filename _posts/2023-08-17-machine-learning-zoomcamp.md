@@ -14,7 +14,7 @@ date: 2025-09-01
 ---
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png" alt="ML Zoomcamp course overview showing progression from ML algorithms (Python, NumPy, Pandas, Scikit-learn) to deployment (Docker, Flask, Kubernetes)" />
+<img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/ml_zoomcamp_overview_horizontal_2025.png" alt="ML Zoomcamp course overview showing progression from ML algorithms (Python, NumPy, Pandas, Scikit-learn) to deployment (Docker, FastAPI, Kubernetes)" />
 <figcaption>Complete ML Zoomcamp curriculum: from machine learning fundamentals to production deployment</figcaption>
 </figure>
 
@@ -61,10 +61,10 @@ Tools you'll learn:
 - NumPy and Pandas for data manipulation
 - Matplotlib and Seaborn for visualization
 - Scikit-Learn for ML algorithms
-- TensorFlow and Keras for deep learning
+- TensorFlow and PyTorch for deep learning
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image1.png" alt="Overview of Python libraries and tools covered in ML Zoomcamp: NumPy, Pandas, Scikit-learn, TensorFlow" />
+<img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/vertical1.png" alt="Overview of Python libraries and tools covered in ML Zoomcamp: NumPy, Pandas, Scikit-learn, TensorFlow" />
 <figcaption>Key technologies and libraries covered in Part 1 of ML Zoomcamp</figcaption>
 </figure>
 
@@ -75,17 +75,17 @@ Part 2 focuses on model deployment, which involves putting machine learning mode
 
 You'll learn to deploy models using:
 
-- **Flask, Pipenv, and Docker:** machine learning models deployment, enabling you to move 
+- **FastAPI, Pipenv, and Docker:** machine learning models deployment, enabling you to move 
 your models from notebooks to services and applications.
-- **AWS Lambda and TensorFlow Lite:** serverless deep learning, understanding how to 
+- **AWS Lambda and ONNX Runtime:** serverless deep learning, understanding how to 
 efficiently operate within this paradigm.
-- **Kubernetes and TensorFlow Serving:** automating deployment, scaling, and management of 
+- **Kubernetes and TensorFlow Serving** automating deployment, scaling, and management of 
 containerized applications.
 - **KServe (optional):** an additional topic for those seeking advanced knowledge, offering 
 insights into further enhancing deployment capabilities.
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image3.png" alt="Deployment tools and frameworks in ML Zoomcamp: Flask, Docker, AWS Lambda, Kubernetes" />
+<img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/vertical2.png" alt="Deployment tools and frameworks in ML Zoomcamp: FastAPI, Docker, AWS Lambda, Kubernetes" />
 <figcaption>Deployment technologies used in Part 2 of ML Zoomcamp for putting ML models into production</figcaption>
 </figure>
 

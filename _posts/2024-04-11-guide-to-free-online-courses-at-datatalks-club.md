@@ -33,7 +33,7 @@ DataTalks.Club offers a range of free online courses in Machine Learning, Data E
 ## Machine Learning Zoomcamp
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml_zoomcamp_overview_horizontal.png"  />
+<img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/ml_zoomcamp_overview_horizontal_2025.png"  />
 <figcaption>Technologies used in the Machine Learning Zoomcamp</figcaption>
 </figure>
 
@@ -53,15 +53,15 @@ The course is divided into two parts:
 - Decision trees and ensemble learning
 - Neural networks and deep learning
 
-**Key tools:** Python, NumPy, Pandas, Scikit-Learn, TensorFlow
+**Key tools:** Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch
 
 #### Part 2: Model Deployment
-- Web services with Flask
+- Web services with FastAPI
 - Containerization with Docker
 - Cloud deployment on AWS Lambda
 - Orchestration with Kubernetes
 
-**Key tools:** Flask, Docker, AWS Lambda, Kubernetes, TensorFlow Serving
+**Key tools:** FastAPI, Docker, AWS Lambda, Kubernetes, TensorFlow Runtime
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
@@ -153,7 +153,7 @@ The course guides you step-by-step through each stage of the MLOps cycle, starti
 Technologies you'll learn:
 
 - MLFlow
-- Flask
+- FastAPI
 - AWS
 - Mage
 - Evidently AI
