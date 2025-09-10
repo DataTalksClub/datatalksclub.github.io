@@ -25,9 +25,9 @@ DataTalks.Club offers a range of free online courses in Machine Learning, Data E
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | [Machine Learning Zoomcamp](#machine-learning-zoomcamp) | 16 weeks | September 15, 2025 | [Register](https://airtable.com/appflP5cuR8bD5MIm/shryxwLd0COOEaqXo) | [Article](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
 | [Data Engineering Zoomcamp](#data-engineering-zoomcamp) | 9 weeks | January 2026 | [Register](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD) | [Article](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
-| [MLOps Zoomcamp](#mlops-zoomcamp) | 12 weeks | May 2025 | [Register](https://airtable.com/shryxwLd0COOEaqXo) | [Article](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
-| [Stock Markets Analytics Zoomcamp](#stock-markets-analytics-zoomcamp) | 8 weeks | April 2025 | [Register](https://airtable.com/shryxwLd0COOEaqXo) | [Article](https://pythoninvest.com/course){:target="_blank"} | <a href="https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
-| [LLM Zoomcamp](#llm-zoomcamp) | 10 weeks | June 2025 | [Register](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q) | [Article](https://datatalks.club/blog/llm-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/llm-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| [MLOps Zoomcamp](#mlops-zoomcamp) | 12 weeks | May 2026 | [Register](https://airtable.com/shryxwLd0COOEaqXo) | [Article](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| [Stock Markets Analytics Zoomcamp](#stock-markets-analytics-zoomcamp) | 8 weeks | April 2026 | [Register](https://airtable.com/shryxwLd0COOEaqXo) | [Article](https://pythoninvest.com/course){:target="_blank"} | <a href="https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+| [LLM Zoomcamp](#llm-zoomcamp) | 10 weeks | June 2026 | [Register](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q) | [Article](https://datatalks.club/blog/llm-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/llm-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
 
 
 ## Machine Learning Zoomcamp
@@ -81,7 +81,7 @@ The course is divided into two parts:
 <figcaption>Data Engineering Zoomcamp overview</figcaption>
 </figure>
 
-[Data Engineering Zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"} is a free 9-week course teaching data engineering. You'll learn how to build data pipelines, data warehouses, and analytics engines, and apply your skills to a real-world project. Next cohort starts January 2026.
+[Data Engineering Zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"} is a free 9-week course teaching data engineering. You'll learn how to build data pipelines, data warehouses, and analytics engines, and apply your skills to a real-world project. The next cohort starts in January 2026.
 
 ### Prerequisites
 
@@ -140,7 +140,7 @@ Technologies you'll learn:
 
 
 ### Course Structure
-The course guides you step-by-step through each stage of the MLOps cycle starting from experimentation and model selection to model deployment to monitoring. In the concluding three weeks, you will apply your acquired knowledge and skills to develop an end-to-end machine learning project.
+The course guides you step-by-step through each stage of the MLOps cycle, starting from experimentation and model selection to model deployment to monitoring. In the concluding three weeks, you will apply your acquired knowledge and skills to develop an end-to-end machine learning project.
 
 -   Week 1: Introduction & Prerequisites
 -   Week 2: Experiment tracking and model management
@@ -177,7 +177,7 @@ Technologies you'll learn:
 <figcaption>LLM Zoomcamp cover</figcaption>
 </figure>
 
-[LLM Zoomcamp](https://datatalks.club/blog/llm-zoomcamp.html) is a free online course to get started with real-life applications of LLMs. In 10 weeks, you will learn how to build an AI system that answers questions about your knowledge base. Next cohort starts June 2025.
+[LLM Zoomcamp](https://datatalks.club/blog/llm-zoomcamp.html) is a free online course to get started with real-life applications of LLMs. In 10 weeks, you will learn how to build an AI system that answers questions about your knowledge base. Next cohort starts June 2026.
 
 ### Prerequisites
 - Comfortable with programming and Python
