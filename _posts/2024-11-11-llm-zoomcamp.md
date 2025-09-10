@@ -9,7 +9,7 @@ tags:
 - courses
 - artificial-intelligence
 - large-language-models
-title: "LLM Zoomcamp 2025: Free Large Language Models Course and Certification"
+title: "LLM Zoomcamp 2026: Free Large Language Models Course and Certification"
 date: 2025-08-25
 ---
 
@@ -34,7 +34,7 @@ In this guide, you'll find:
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
         <a href="https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
-            <span>Join the 2025 cohort</span>
+            <span>Join the 2026 cohort</span>
             <span style="margin-left: 0.25em;">→</span>
         </a>
     </div>
@@ -163,7 +163,7 @@ The [course description](https://github.com/DataTalksClub/llm-zoomcamp){:target=
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
         <a href="https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
-            <span>Join the 2025 cohort</span>
+            <span>Join the 2026 cohort</span>
             <span style="margin-left: 0.25em;">→</span>
         </a>
     </div>
@@ -234,7 +234,7 @@ Each module is crafted to build useful skills step-by-step, ensuring you can put
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
         <a href="https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
-            <span>Join the 2025 cohort</span>
+            <span>Join the 2026 cohort</span>
             <span style="margin-left: 0.25em;">→</span>
         </a>
     </div>
