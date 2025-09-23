@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML Zoomcamp Module {{X}} - DataTalks.Club</title>
+    <!--[if mso]>
+    <noscript>
+        <xml>
+            <o:OfficeDocumentSettings>
+                <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+    </noscript>
+    <![endif]-->
+    <style>
+        /* Reset and Base Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body, table, td, p, a, li, blockquote {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+        
+        table, td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+        
+        img {
+            -ms-interpolation-mode: bicubic;
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+        }
+        
+        /* Main Styles */
+        body {
+            font-family: "Alegreya Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: #2c573e;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+            width: 100% !important;
+            height: 100% !important;
+        }
+        
+        .email-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, #2c573e 0%, #3d6b4f 100%);
+            padding: 30px 20px;
+            text-align: center;
+            color: white;
+        }
+        
+        .header h1 {
+            font-family: "Raleway", sans-serif;
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+        }
+        
+        .header .subtitle {
+            font-size: 16px;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+        
+        /* Module Badge */
+        .module-badge {
+            background-color: rgba(255, 255, 255, 0.2);
+            display: inline-block;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 500;
+            margin-top: 15px;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+        
+        /* Content */
+        .content {
+            padding: 40px 30px;
+        }
+        
+        .greeting {
+            font-size: 18px;
+            margin-bottom: 30px;
+            line-height: 1.7;
+        }
+        
+        .section {
+            margin-bottom: 40px;
+        }
+        
+        .section-title {
+            font-family: "Raleway", sans-serif;
+            font-size: 22px;
+            font-weight: 600;
+            color: #2c573e;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #e9ecef;
+            padding-bottom: 8px;
+        }
+        
+        .outcomes-list {
+            background-color: #f8f9fa;
+            border-left: 4px solid #2c573e;
+            padding: 20px;
+            border-radius: 0 8px 8px 0;
+            margin: 20px 0;
+        }
+        
+        .outcomes-list ul, .check-questions ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .outcomes-list li, .check-questions li {
+            position: relative;
+            padding-left: 30px;
+            margin-bottom: 12px;
+            line-height: 1.6;
+        }
+        
+        .outcomes-list li::before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: #28a745;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        
+        .check-questions {
+            background-color: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 20px;
+            border-radius: 0 8px 8px 0;
+            margin: 20px 0;
+        }
+        
+        .check-questions li::before {
+            content: "?";
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: #856404;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        
+        /* Homework Section */
+        .homework-section {
+            background: linear-gradient(135deg, #d6dbfb 0%, #e8ebfd 100%);
+            border-radius: 12px;
+            padding: 30px;
+            margin: 30px 0;
+            text-align: center;
+            border: 1px solid rgba(44, 87, 62, 0.1);
+        }
+        
+        .homework-title {
+            font-family: "Raleway", sans-serif;
+            font-size: 24px;
+            font-weight: 600;
+            color: #2c573e;
+            margin-bottom: 15px;
+        }
+        
+        .homework-description {
+            font-size: 18px;
+            margin-bottom: 25px;
+            line-height: 1.6;
+        }
+        
+        /* Buttons */
+        .btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #28a745 0%, #34ce57 100%);
+            color: white;
+            text-decoration: none;
+            padding: 14px 28px;
+            border-radius: 25px;
+            font-weight: 600;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(40, 167, 69, 0.3);
+            margin: 8px;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(40, 167, 69, 0.4);
+            color: white;
+            text-decoration: none;
+        }
+        
+        .btn-secondary {
+            background: linear-gradient(135deg, #6c757d 0%, #7d8a97 100%);
+            box-shadow: 0 4px 15px rgba(108, 117, 125, 0.3);
+        }
+        
+        .btn-secondary:hover {
+            box-shadow: 0 6px 20px rgba(108, 117, 125, 0.4);
+        }
+        
+        /* Pro Tips */
+        .pro-tips {
+            background-color: #e7f3ff;
+            border-left: 4px solid #007bff;
+            padding: 25px;
+            border-radius: 0 8px 8px 0;
+            margin: 25px 0;
+        }
+        
+        .pro-tips-title {
+            font-family: "Raleway", sans-serif;
+            font-size: 20px;
+            font-weight: 600;
+            color: #007bff;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .pro-tips-title::before {
+            content: "💡";
+            margin-right: 10px;
+            font-size: 24px;
+        }
+        
+        .pro-tips ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .pro-tips li {
+            position: relative;
+            padding-left: 35px;
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+        
+        .pro-tips li::before {
+            position: absolute;
+            left: 0;
+            top: 0;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        
+        .pro-tips li:nth-child(1)::before { content: "⏱️"; }
+        .pro-tips li:nth-child(2)::before { content: "🗂️"; }
+        .pro-tips li:nth-child(3)::before { content: "💬"; }
+        
+        /* FAQ Section */
+        .faq-section {
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            padding: 25px;
+            margin: 25px 0;
+        }
+        
+        .faq-title {
+            font-family: "Raleway", sans-serif;
+            font-size: 20px;
+            font-weight: 600;
+            color: #2c573e;
+            margin-bottom: 15px;
+        }
+        
+        .faq-item {
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+        
+        .faq-question {
+            font-weight: 600;
+            color: #495057;
+        }
+        
+        .faq-arrow {
+            color: #28a745;
+            font-weight: bold;
+        }
+        
+        /* Encouragement Section */
+        .encouragement {
+            text-align: center;
+            background: linear-gradient(135deg, #fff8e1 0%, #fffbf0 100%);
+            border-radius: 12px;
+            padding: 30px;
+            margin: 30px 0;
+            border: 1px solid #ffd54f;
+        }
+        
+        .encouragement-title {
+            font-family: "Raleway", sans-serif;
+            font-size: 24px;
+            font-weight: 600;
+            color: #2c573e;
+            margin-bottom: 15px;
+        }
+        
+        .progress-indicator {
+            background-color: #e9ecef;
+            height: 8px;
+            border-radius: 4px;
+            margin: 20px 0;
+            overflow: hidden;
+        }
+        
+        .progress-bar {
+            background: linear-gradient(90deg, #28a745, #34ce57);
+            height: 100%;
+            border-radius: 4px;
+            transition: width 0.3s ease;
+        }
+        
+        /* Footer */
+        .footer {
+            background-color: #2c573e;
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+        
+        .footer-logo {
+            font-family: "Raleway", sans-serif;
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+        
+        .footer-links {
+            margin-bottom: 20px;
+        }
+        
+        .footer-links a {
+            color: rgba(255, 255, 255, 0.8);
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 14px;
+        }
+        
+        .footer-links a:hover {
+            color: white;
+            text-decoration: underline;
+        }
+        
+        .footer-text {
+            font-size: 14px;
+            opacity: 0.8;
+            line-height: 1.5;
+        }
+        
+        /* Responsive */
+        @media only screen and (max-width: 600px) {
+            .email-container {
+                margin: 0;
+                border-radius: 0;
+                box-shadow: none;
+            }
+            
+            .content {
+                padding: 30px 20px;
+            }
+            
+            .header {
+                padding: 25px 20px;
+            }
+            
+            .header h1 {
+                font-size: 24px;
+            }
+            
+            .section-title {
+                font-size: 20px;
+            }
+            
+            .homework-section, .encouragement {
+                padding: 25px 20px;
+            }
+            
+            .btn {
+                display: block;
+                margin: 10px 0;
+                text-align: center;
+            }
+            
+            .footer-links a {
+                display: block;
+                margin: 10px 0;
+            }
+        }
+        
+        /* Dark Mode Support */
+        @media (prefers-color-scheme: dark) {
+            .email-container {
+                background-color: #1a1a1a;
+            }
+            
+            .content {
+                color: #e0e0e0;
+            }
+            
+            .section-title {
+                color: #4a9d5f;
+            }
+            
+            .outcomes-list {
+                background-color: #2d2d2d;
+            }
+            
+            .check-questions {
+                background-color: #3d3520;
+            }
+            
+            .faq-section {
+                background-color: #2d2d2d;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <!-- Header -->
+        <div class="header">
+            <h1>DataTalks.Club</h1>
+            <div class="subtitle">ML Zoomcamp</div>
+            <div class="module-badge">Module {{X}} / {{total_modules}}</div>
+        </div>
+        
+        <!-- Content -->
+        <div class="content">
+            <!-- Greeting -->
+            <div class="greeting">
+                Hey there,<br><br>
+                Welcome to Module <strong>{{X}}</strong>! Over the next two weeks, we'll dive into <strong>{{topic}}</strong> — one of the core skills in machine learning. You're not doing this alone: hundreds of learners are starting this module with you.
+            </div>
+            
+            <!-- What You'll Learn Section -->
+            <div class="section">
+                <h2 class="section-title">What You'll Learn</h2>
+                <p>By the end of this module, you'll be able to:</p>
+                <div class="outcomes-list">
+                    <ul>
+                        <li>{{Outcome 1}}</li>
+                        <li>{{Outcome 2}}</li>
+                        <li>{{Outcome 3}}</li>
+                    </ul>
+                </div>
+                
+                <p><strong>Quick check:</strong> you should be able to answer questions like:</p>
+                <div class="check-questions">
+                    <ul>
+                        <li>{{Check Question 1}}</li>
+                        <li>{{Check Question 2}}</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Homework Section -->
+            <div class="homework-section">
+                <h2 class="homework-title">Homework</h2>
+                <div class="homework-description">
+                    Your assignment for this module is: 👉 <strong>{{Homework description}}</strong>
+                </div>
+                <a href="#" class="btn">Submit Homework →</a>
+                
+                <div style="margin-top: 25px; font-size: 16px; line-height: 1.6;">
+                    Got stuck while starting the homework? That's normal — we collect your questions in Week 1 and answer them in Week 2.<br><br>
+                    Even if it feels like a small thing, chances are others have the same question.
+                </div>
+                
+                <a href="#" class="btn btn-secondary">Submit Your Question Here →</a>
+            </div>
+            
+            <!-- Pro Tips Section -->
+            <div class="pro-tips">
+                <h3 class="pro-tips-title">Pro Tips</h3>
+                <ul>
+                    <li>Expect to spend about <strong>{{time estimate}}</strong> on this module.</li>
+                    <li>Break it into smaller chunks — don't wait until the last day.</li>
+                    <li>Ask questions and share progress in ML Zoomcamp Slack channel</li>
+                </ul>
+                
+                <div style="margin-top: 20px; padding: 15px; background-color: rgba(255, 193, 7, 0.1); border-radius: 8px; border-left: 4px solid #ffc107;">
+                    <strong>💡 Pro Tip from past students:</strong> start the homework right after finishing the first lesson, not on Sunday evening. It feels much easier in smaller steps.
+                </div>
+            </div>
+            
+            <!-- FAQ Section -->
+            <div class="faq-section">
+                <h3 class="faq-title">Mini-FAQ</h3>
+                <div class="faq-item">
+                    <span class="faq-question">Where do I submit homework?</span> <span class="faq-arrow">→</span> <a href="#" style="color: #007bff; text-decoration: none;">Here</a>
+                </div>
+                <div class="faq-item">
+                    <span class="faq-question">Do I need 100% correct answers?</span> <span class="faq-arrow">→</span> No, even partial attempts count.
+                </div>
+                <div class="faq-item">
+                    <span class="faq-question">What if I'm stuck?</span> <span class="faq-arrow">→</span> Ask in Slack and check FAQ
+                </div>
+            </div>
+            
+            <!-- Encouragement Section -->
+            <div class="encouragement">
+                <h2 class="encouragement-title">You've Got This!</h2>
+                <div class="progress-indicator">
+                    <div class="progress-bar" style="width: calc({{X}} / {{total_modules}} * 100%);"></div>
+                </div>
+                <p style="margin-bottom: 20px;">
+                    This is Module <strong>{{X}} / {{total_modules}}</strong> — completing the homework brings you one step closer to the final certificate.
+                </p>
+                <p style="margin-bottom: 25px;">
+                    It's okay if you don't get everything right away — most students don't. Every attempt gets you closer to mastering ML.
+                </p>
+                <a href="#" class="btn">👉 Start Module {{X}} Now →</a>
+            </div>
+            
+            <!-- Closing -->
+            <div style="text-align: center; margin-top: 40px;">
+                <p style="font-size: 18px; margin-bottom: 10px;">Good luck with learning!</p>
+                <p style="color: #6c757d; font-style: italic;">— The ML Zoomcamp Team</p>
+            </div>
+        </div>
+        
+        <!-- Footer -->
+        <div class="footer">
+            <div class="footer-logo">DataTalks.Club</div>
+            <div class="footer-links">
+                <a href="https://datatalks.club">Website</a>
+                <a href="https://datatalks.club/slack.html">Slack</a>
+                <a href="https://datatalks.club/podcast.html">Podcast</a>
+                <a href="https://datatalks.club/books.html">Books</a>
+            </div>
+            <div class="footer-text">
+                You're receiving this email because you're enrolled in ML Zoomcamp.<br>
+                <a href="#" style="color: rgba(255, 255, 255, 0.6);">Unsubscribe</a> | 
+                <a href="#" style="color: rgba(255, 255, 255, 0.6);">Update preferences</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
