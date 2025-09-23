@@ -192,7 +192,7 @@ All materials are openly available, including lessons, slides, and recordings.
 
 You won't be learning in isolation. The Zoomcamp is supported by [DataTalks.Club community on Slack](https://datatalks.club/blog/slack-communities.html){:target="_blank"}, where thousands of learners exchange ideas, ask questions, and provide feedback. This space makes it easier to stay accountable, find study partners, and connect with peers who share your interests. Many learners have turned these connections into collaborations and long-term professional relationships.
 
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image5.png" alt="DataTalks.Club Slack community discussion about ML Zoomcamp" />Active discussions and support in the [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} [Slack community](https://datatalks.club/slack.html){:target="_blank"} channel
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/image5.png" style="width:6.5in;height:3.33333in" alt="DataTalks.Club Slack community discussion about ML Zoomcamp" />Active discussions and support in the [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} [Slack community](https://datatalks.club/slack.html){:target="_blank"} channel
 
 ### Learning in Public
 
