@@ -1,7 +1,7 @@
 announcement:
-  text: "Machine Learning Zoomcamp: Free ML Engineering course."
-  link_text: "Register here!"
-  link: "http://mlzoomcamp.com"
+  # text: "Machine Learning Zoomcamp: Free ML Engineering course."
+  # link_text: "Register here!"
+  # link: "http://mlzoomcamp.com"
   # text: "Data Engineering Zoomcamp: Free Data Engineering course."
   # link_text: "Register here!"
   # link: "https://github.com/DataTalksClub/data-engineering-zoomcamp"
@@ -11,4 +11,6 @@ announcement:
   # text: "LLM Zoomcamp: Free LLM engineering course."
   # link_text: "Register here!"
   # link: "https://github.com/DataTalksClub/llm-zoomcamp"
-
+  text: "AI Dev Tools Zoomcamp 2025: Master coding assistants, agents and automation. Starts Nov 18."
+  link_text: "Register here!"
+  link: "https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG"
