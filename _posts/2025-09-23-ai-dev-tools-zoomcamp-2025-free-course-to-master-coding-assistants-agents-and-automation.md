@@ -34,7 +34,6 @@ In this guide, you'll find:
 - [Building Your Project Portfolio](#building-your-project-portfolio)
 - [Who This Course Is For](#who-this-course-is-for)
 - [How It Works](#how-it-works)
-- [Answers to common questions](#frequently-asked-questions)
 
 ## What You'll Learn in AI Dev Tools Zoomcamp 2025
 
