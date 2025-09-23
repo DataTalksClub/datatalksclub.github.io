@@ -167,8 +167,10 @@ Each module includes homework to practice what you've learned and track your pro
 
 <figure>
 <img src="/images/posts/2025-09-23-ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation/image5.png"  alt="ML Zoomcamp homework leaderboard showing student rankings and scores" />
-<figcaption><h2>Final Project and Certificate</h2></figcaption>
-</figure>Track your progress on the anonymous leaderboard
+<figcaption>Track your progress on the anonymous leaderboard</figcaption>
+</figure>
+
+### Final Project and Certificate
 
 To earn your free certificate, you'll complete a final project and submit it for peer review. This ensures you demonstrate practical application of the concepts.
 
