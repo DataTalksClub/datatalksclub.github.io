@@ -24,6 +24,7 @@ DataTalks.Club offers a range of free online courses in Machine Learning, Data E
 | Course | Duration | Next cohort | Register | Article |  |
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | [Machine Learning Zoomcamp](#machine-learning-zoomcamp) | 16 weeks | September 15, 2025 | [Register](https://airtable.com/appflP5cuR8bD5MIm/shryxwLd0COOEaqXo) | [Article](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
+|[AI Dev Tools Zoomcamp](#ai-dev-tools-zoomcamp) | 6 weeks | November 18, 2025 | [Register](https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG) | [Article](https://datatalks.club/blog/ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/ai-dev-tools-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
 | [Data Engineering Zoomcamp](#data-engineering-zoomcamp) | 9 weeks | January 2026 | [Register](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD) | [Article](https://datatalks.club/blog/data-engineering-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
 | [MLOps Zoomcamp](#mlops-zoomcamp) | 12 weeks | - | [Register](https://airtable.com/shryxwLd0COOEaqXo) | [Article](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"} | <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
 | [Stock Markets Analytics Zoomcamp](#stock-markets-analytics-zoomcamp) | 8 weeks | April 2026 | [Register](https://airtable.com/shryxwLd0COOEaqXo) | [Article](https://pythoninvest.com/course){:target="_blank"} | <a href="https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp" target="_blank"><img src="https://user-images.githubusercontent.com/875246/192300611-a606521b-cb76-4090-be8e-7cc21752b996.png" height="16em" /></a> |
@@ -67,6 +68,43 @@ The course is divided into two parts:
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
         <a href="https://airtable.com/appflP5cuR8bD5MIm/shryxwLd0COOEaqXo" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
             <span>Join Machine Learning Zoomcamp</span>
+            <span style="margin-left: 0.25em;">→</span>
+        </a>
+    </div>
+</div>
+
+[↑ Back to the courses table](#datatalksclub-free-online-courses)
+
+## AI Dev Tools Zoomcamp
+
+<figure>
+<img src="/images/posts/2025-09-23-ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation/image2.png"  />
+<figcaption>AI Dev Tools Zoomcamp cover</figcaption>
+</figure>
+
+[AI Dev Tools Zoomcamp](https://datatalks.club/blog/ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html) teaches how to integrate AI into developer workflows. Learn to use coding assistants like Copilot and Cursor, build AI agents, and automate workflows. The next cohort starts November 18, 2025.
+
+### Prerequisites
+
+Basic programming knowledge (Python, JavaScript, or similar). No AI experience required.
+
+### Course Structure
+
+Six modules covering:
+
+1. **AI Tool Landscape**: Compare ChatGPT, Copilot, Cursor, and other tools
+2. **End-to-End Projects**: Build React/TypeScript apps with FastAPI backends
+3. **Model Context Protocol (MCP)**: Connect AI to GitHub, databases, and CI/CD
+4. **Building AI Agents**: Create coding agents with Django
+5. **AI for DevOps**: Automated testing, PR reviews, and incident response
+6. **No-Code Automation**: Build workflows with n8n
+
+**Key tools:** GitHub Copilot, Cursor, MCP, Django, FastAPI, n8n
+
+<div style="text-align: center; margin: 2em 0;">
+    <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
+        <a href="https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+            <span>Join AI Dev Tools Zoomcamp</span>
             <span style="margin-left: 0.25em;">→</span>
         </a>
     </div>
