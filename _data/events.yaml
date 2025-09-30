@@ -1,4 +1,39 @@
 
+- time: 2025-11-18 17:00:00
+  title: "AI Dev Tools Zoomcamp 2025 Course Launch"
+  speakers: [alexeygrigorev]
+  type: webinar
+  link: https://luma.com/80ve8r1u
+
+
+- time: 2025-11-04 17:00:00
+  title: "AI Dev Tools Zoomcamp 2025 Pre-Course Live Q&A"
+  speakers: [alexeygrigorev]
+  type: webinar
+  link: https://luma.com/6p356li5
+
+
+- time: 2025-10-21 17:00:00
+  title: "Deep Learning with PyTorch"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://luma.com/vc02zy6a
+
+
+- time: 2025-10-13 17:00:00
+  title: "Practical guide: Fine-tuning Qwen3 with LoRA"
+  speakers: [ivanpotapov]
+  type: workshop
+  link: https://luma.com/n41kqkfh
+
+
+- time: 2025-10-07 17:00:00
+  title: "Deploying ML Models with Kubernetes"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://lu.ma/hx6v50yr
+
+
 - time: 2025-10-06 17:00:00
   title: "From Biotechnology to Bioinformatics Software"
   speakers: [sebastianayalaruano]
