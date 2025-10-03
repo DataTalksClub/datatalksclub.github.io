@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Roles in a Data Team"
-subtitle: "Different roles in a data team and their responsibilities"
-description: "Different roles in a data team and their responsibilities"
+title: "A Guide to Data Team Roles"
+subtitle: "Complete guide to data team roles and responsibilities: Product Managers, Data Analysts, Data Scientists, Data Engineers, ML Engineers, and MLOps Engineers"
+description: "Understand the key differences between data scientist, data engineer, ML engineer, data analyst, and other data team roles. Learn responsibilities, required skills, and how each role contributes to building data products."
 image: "images/posts/2020-12-14-data-roles/cover.jpg"
 authors: [alexeygrigorev]
 tags: [team, process, podcast]
+date: 2025-08-05
 ---
 
 In this article, we'll talk about different roles in a data team and discuss their responsibilities.
