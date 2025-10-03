@@ -178,7 +178,7 @@ The [course description](https://github.com/DataTalksClub/llm-zoomcamp){:target=
 <figcaption>Examples of the homework assignments from the 2024 cohort of the LLM Zoomcamp</figcaption>
 </figure>
 
-To reinforce your learning, we offer regular homework assignments. Your scores are added to a [leaderboard](https://courses.datatalks.club/llm-zoomcamp-2024/leaderboard){:target="_blank"}, creating friendly competition among course members and motivating you to do your best.
+To reinforce your learning, we offer regular homework assignments. Your scores are added to a leaderboard, creating friendly competition among course members and motivating you to do your best.
 
 <figure>
 <img src="/images/posts/2024-11-11-llm-zoomcamp/image5.png"  />
@@ -212,7 +212,7 @@ If you've ever participated in an interview or conducted online research, you li
 
 <figure>
 <img src="/images/posts/2024-11-11-llm-zoomcamp/image8.png"  />
-<figcaption><a href="https://github.com/Optimistix/medical_QandA_assistant">Example project</a> from <a href="https://courses.datatalks.club/llm-zoomcamp-2024/leaderboard/3623/">Rileen Sinha</a>, one of the students of the course</figcaption>
+<figcaption><a href="https://github.com/Optimistix/medical_QandA_assistant">Example project</a> from Rileen Sinha, one of the students of the course</figcaption>
 </figure>
 
 ## DataTalks.Club Community
