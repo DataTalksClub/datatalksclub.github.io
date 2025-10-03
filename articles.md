@@ -1,14 +1,13 @@
 ---
 
 title: Articles
-description:
-  "DataTalks.Club &ndash; the place to talk about data"
+description: "Explore the latest articles on data science, machine learning, and AI from the DataTalks.Club community. Insights, tutorials, and best practices from industry experts."
 image: images/cover.jpg
 layout: page
 
 ---
 
-## Latest articles
+# Latest Articles
 
 <ul>
 {% for post in site.posts %}
@@ -20,4 +19,4 @@ layout: page
     {% endfor %}
   </li>
 {% endfor %}
-<ul>
+</ul>

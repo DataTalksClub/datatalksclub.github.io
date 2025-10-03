@@ -16,4 +16,19 @@ start: 2025-09-08 00:00:00
 title: Machine Learning Algorithms in Depth
 ---
 
-Machine Learning Algorithms in Depth dissects and explains dozens of algorithms across a variety of applications, including finance, computer vision, and NLP. Each algorithm is mathematically derived, followed by its hands-on Python implementation along with insightful code annotations and informative graphics. You’ll especially appreciate author Vadim Smolyakov’s clear interpretations of Bayesian algorithms for Monte Carlo and Markov models.
+Learn how machine learning algorithms work from the ground up so you can effectively troubleshoot your models and improve their performance.
+
+This book guides you from the core mathematical foundations to Python implementations across a variety of applications, including finance, computer vision, and NLP. With a particular emphasis on probabilistic algorithms, you'll learn the fundamentals of Bayesian inference and deep learning. Each algorithm is mathematically derived, followed by hands-on implementation with insightful code annotations and informative graphics.
+
+**Algorithms You'll Explore**
+
+* Monte Carlo Stock Price Simulation
+* Image Denoising using Mean-Field Variational Inference
+* EM algorithm for Hidden Markov Models
+* Imbalanced Learning, Active Learning and Ensemble Learning
+* Bayesian Optimization for Hyperparameter Tuning
+* Dirichlet Process K-Means for Clustering Applications
+* Stock Clusters based on Inverse Covariance Estimation
+* Energy Minimization using Simulated Annealing
+* Image Search based on ResNet Convolutional Neural Network
+* Anomaly Detection in Time-Series using Variational Autoencoders

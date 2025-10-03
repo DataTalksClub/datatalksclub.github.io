@@ -5,44 +5,67 @@
 <body>
   {% include header.html %}
 
-  <div class="container">
+  <main class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
 
-        <div class="my-3 author-name text-center">
-          <img class="author-image" src="/{{ page.picture }}" />
-          {{ page.title }}
-        </div>
+        <!-- SEO: Author Profile Header with Semantic HTML -->
+        <header class="my-3 author-name text-center">
+          <img class="author-image" src="/{{ page.picture }}" 
+               alt="{{ page.title }} - Author Profile Photo" 
+               loading="eager" />
+          <h1 class="author-title">{{ page.title }}</h1>
+        </header>
 
-        <div class="content-main my-3">
+        <!-- SEO: Author Biography Section -->
+        <section class="content-main my-3" aria-labelledby="author-bio">
+          <h2 id="author-bio" class="sr-only">Author Biography</h2>
           {{ content }}
-        </div>
+        </section>
 
-        <div class="author-links my-3">
+        <!-- SEO: Author Social Links with Security and Accessibility -->
+        <nav class="author-links my-3" aria-label="Author Social Media Links">
           {% if page.twitter %} 
-            <a href="https://twitter.com/{{ page.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://twitter.com/{{ page.twitter }}" target="_blank" rel="noopener noreferrer" aria-label="Follow {{ page.title }} on Twitter">
+              <i class="fab fa-twitter" aria-hidden="true"></i>
+              <span class="sr-only">Twitter</span>
+            </a>
           {% endif %}
           {% if page.linkedin %} 
-            <a href="https://linkedin.com/in/{{ page.linkedin }}" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://linkedin.com/in/{{ page.linkedin }}" target="_blank" rel="noopener noreferrer" aria-label="Connect with {{ page.title }} on LinkedIn">
+              <i class="fab fa-linkedin-in" aria-hidden="true"></i>
+              <span class="sr-only">LinkedIn</span>
+            </a>
           {% endif %}
           {% if page.github %} 
-            <a href="https://github.com/{{ page.github }}" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://github.com/{{ page.github }}" target="_blank" rel="noopener noreferrer" aria-label="View {{ page.title }}'s GitHub profile">
+              <i class="fab fa-github" aria-hidden="true"></i>
+              <span class="sr-only">GitHub</span>
+            </a>
           {% endif %}
           {% if page.web %} 
-            <a href="{{ page.web }}" target="_blank"><i class="fas fa-link"></i></a>
+            <a href="{{ page.web }}" target="_blank" rel="noopener noreferrer" aria-label="Visit {{ page.title }}'s personal website">
+              <i class="fas fa-link" aria-hidden="true"></i>
+              <span class="sr-only">Personal Website</span>
+            </a>
           {% endif %}
-        </div>
+        </nav>
 
         {% assign articles = site.posts 
           | where_exp: "post", "post.authors contains page.short" %}
 
         {% if articles.size > 0 %}
-          <h3>Articles</h3>
-          <ul>
-            {% for post in articles %}
-              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-          </ul>
+          <!-- SEO: Author Articles Section with Semantic Structure -->
+          <section class="author-articles my-4" aria-labelledby="articles-heading">
+            <h2 id="articles-heading">Articles by {{ page.title }}</h2>
+            <ul class="articles-list">
+              {% for post in articles %}
+                <li class="article-item">
+                  <a href="{{ post.url }}" title="Read: {{ post.title }}">{{ post.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </section>
         {% endif %}
 
         {% assign events = site.data.events 
@@ -51,34 +74,75 @@
           | sort: 'time' %}
 
         {% if events.size > 0 %}
-          <h3>Events</h3>
-          <ul>
-            {% for event in events %}
-              <li>{% include event.html event=event speakers=false %}</li>
-            {% endfor %}
-          </ul>
+          <!-- SEO: Author Events Section with Semantic Structure -->
+          <section class="author-events my-4" aria-labelledby="events-heading">
+            <h2 id="events-heading">Events by {{ page.title }}</h2>
+            <ul class="events-list">
+              {% for event in events %}
+                <li class="event-item">
+                  {% include event.html event=event speakers=false %}
+                </li>
+              {% endfor %}
+            </ul>
+          </section>
         {% endif %}
 
         {% assign books = site.books
           | where_exp: "book", "book.authors contains page.short" %}
 
         {% if books.size > 0 %}
-          <h3>Books</h3>
-          <ul>
-            {% for book in books %}
-              <li><a href="{{ book.id }}.html">{{ book.title }}</a> (the book of the week from {{ book.start | date_to_string }} to {{ book.end | date_to_string }})</li>
-            {% endfor %}
-          </ul>
+          <!-- SEO: Author Books Section with Semantic Structure -->
+          <section class="author-books my-4" aria-labelledby="books-heading">
+            <h2 id="books-heading">Books by {{ page.title }}</h2>
+            <ul class="books-list">
+              {% for book in books %}
+                <li class="book-item">
+                  <a href="{{ book.id }}.html" title="Read about: {{ book.title }}">{{ book.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </section>
         {% endif %}
 
         <div class="article-divider"></div>
 
-        <div class="article-end">
+        <!-- SEO: Newsletter Subscription Section -->
+        <aside class="article-end" aria-labelledby="subscribe-heading">
+          <h2 id="subscribe-heading" class="sr-only">Newsletter Subscription</h2>
           {% include subscribe.html subscribe="true" %}
-        </div>
+        </aside>
       </div>
     </div>
-  </div>
+  </main>
 
   {% include footer.html %}
+
+  <!-- SEO: JSON-LD Structured Data for Author -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "{{ page.title }}",
+    "image": "{{ site.url }}/{{ page.picture }}",
+    "description": "{{ page.content | strip_html | truncate: 160 | escape }}",
+    "url": "{{ site.url }}{{ page.url }}",
+    {% if page.twitter %}
+    "sameAs": [
+      "https://twitter.com/{{ page.twitter }}",
+      {% if page.linkedin %}"https://linkedin.com/in/{{ page.linkedin }}",{% endif %}
+      {% if page.github %}"https://github.com/{{ page.github }}",{% endif %}
+      {% if page.web %}"{{ page.web }}"{% endif %}
+    ],
+    {% endif %}
+    "jobTitle": "Data Science Professional",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "DataTalks.Club"
+    },
+    "alumniOf": {
+      "@type": "EducationalOrganization",
+      "name": "DataTalks.Club Community"
+    }
+  }
+  </script>
 </body>

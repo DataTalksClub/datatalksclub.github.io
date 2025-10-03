@@ -1,8 +1,7 @@
 ---
 
 title: Welcome to DataTalks.Club
-description:
-  "DataTalks.Club &ndash; the place to talk about data"
+description: "DataTalks.Club &ndash; the place to talk about data. Join the global community of data science professionals. Access free courses, weekly podcasts, webinars, workshops, and book discussions with industry experts."
 image: images/cover.jpg
 layout: home
 
@@ -15,7 +14,7 @@ layout: home
 <div class="row">
   <div class="col title">
     <h1>The place to talk about data</h1>
-    <h2>Global online community of data enthusiasts</h2>
+    <h2>Global online community of data science professionals, ML engineers, and AI practitioners</h2>
   </div>
 </div>
 
@@ -24,19 +23,19 @@ layout: home
 <div class="row">
   <div class="col-md-4 landing-item">
     <div class="landing-image-container">
-      <img class="landing-image" src="images/landing/talks.jpg"  />
+      <img class="landing-image" src="images/landing/talks.jpg" alt="Data science discussions and talks" />
     </div>
     <h4 class="landing-subtitle">Talk about data, machine<br/> learning, and engineering</h4>
   </div>
   <div class="col-md-4 landing-item">
     <div class="landing-image-container">
-      <img class="landing-image" src="images/landing/events.jpg"  />
+      <img class="landing-image" src="images/landing/events.jpg" alt="Data science events and courses" />
     </div>
     <h4 class="landing-subtitle">Attend weekly events<br/> and learn from free courses</h4>
   </div>
   <div class="col-md-4 landing-item">
     <div class="landing-image-container">
-      <img class="landing-image" src="images/landing/career.jpg"  />
+      <img class="landing-image" src="images/landing/career.jpg" alt="Career guidance and mentorship" />
     </div>
     <h4 class="landing-subtitle">Ask career questions and<br/> discuss career options</h4>
   </div>
@@ -59,7 +58,7 @@ layout: home
       {% endfor %}
     </ul>
 
-    <p>Check <a href="/events.html">events</a> for all past events. You can also subscribe to <a href="https://calendar.google.com/calendar/?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">our Google calendar</a> to get notified about all our events.</p>
+    <p>Check <a href="/events.html">events</a> for all past events. You can also subscribe to <a href="https://calendar.google.com/calendar/?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noopener noreferrer">our Google calendar</a> to get notified about all our events.</p>
     <p>&nbsp;</p>
 
     {% assign episodes = site.podcast
@@ -83,8 +82,8 @@ layout: home
     <div class="text-center row justify-content-center">
     {% for sponsor in site.data.sponsors %}
       <div class="my-3 col-md-6" style="display: flex">
-        <a href="{{ sponsor.link }}" style="margin: auto" target="_blank">
-          <img src="{{ sponsor.image }}" class="partner">
+        <a href="{{ sponsor.link }}" style="margin: auto" target="_blank" rel="noopener noreferrer">
+          <img src="{{ sponsor.image }}" class="partner" alt="{{ sponsor.name | default: 'Sponsor logo' }}">
         </a>
       </div>
     {% endfor %}

@@ -3,51 +3,154 @@
 {% include head.html %}
 
 <body>
+  <!-- 
+    SEO OPTIMIZATION: Structured Data (JSON-LD) for Rich Snippets
+    This Schema.org Book markup enables search engines to understand the content type
+    and display rich snippets with book information, author details, and purchase links.
+    Critical for SEO as it helps Google understand this is book content.
+  -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "{{ page.title }}",
+    "description": "{{ page.description }}",
+    "image": "{{ site.url }}/{{ page.cover }}",
+    "url": "{{ site.url }}{{ page.url }}",
+    "author": [
+      {% for author_id in page.authors %}
+        {% assign author = site.people | where: 'name', author_id | first %}
+        {
+          "@type": "Person",
+          "name": "{{ author.name | default: author_id }}",
+          "url": "{{ site.url }}/people/{{ author_id }}.html"
+        }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.name }}",
+      "url": "{{ site.url }}"
+    },
+    "datePublished": "{{ page.start | date: '%Y-%m-%d' }}",
+    "inLanguage": "en",
+    "isPartOf": {
+      "@type": "BookSeries",
+      "name": "Book of the Week",
+      "url": "{{ site.url }}/books.html"
+    },
+    "offers": [
+      {% for link in page.links %}
+        {
+          "@type": "Offer",
+          "url": "{{ link.link }}",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "{{ link.text }}"
+          }
+        }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+  </script>
   {% include header.html %}
 
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
 
-        <div class="my-5">
-          <h2>{{ page.title }}</h2>
-          <h4>by {% include authors.html authors=page.authors %}</h4>
-          <h5>The book of the week from {{ page.start | date_to_string }} to {{ page.end | date_to_string }}</h5>
-        </div> 
+        <!-- 
+          SEO OPTIMIZATION: Semantic HTML Structure
+          - Using <article> element for book content with Schema.org microdata
+          - Proper heading hierarchy: H1 for main title, H2 for authors, H3 for dates
+          - This improves accessibility and helps search engines understand content structure (also marked by Ubersuggest)
+        -->
+        <article class="my-5" itemscope itemtype="https://schema.org/Book">
+          <header>
+            <!-- SEO: H1 tag for main page title (was H2) - critical for SEO hierarchy -->
+            <h1 itemprop="name">{{ page.title }}</h1>
+            <!-- SEO: H2 for author information (was H4) - proper heading progression -->
+            <h2>by {% include authors.html authors=page.authors %}</h2>
+            <!-- SEO: H3 for date range (was H5) - maintains logical heading structure -->
+            <h3>The book of the week from {{ page.start | date_to_string }} to {{ page.end | date_to_string }}</h3>
+          </header> 
 
-        <div class="content-book mb-5">
+        <!-- SEO: Semantic section for main book content -->
+        <section class="content-book mb-5">
           <div class="content-book-image-container">
-             <img class="img-border" src="/{{ page.cover }}" />
+             <!-- 
+               SEO OPTIMIZATION: Image SEO Best Practices
+               - Descriptive alt text for accessibility and SEO
+               - lazy loading improves page performance
+               - async decoding prevents blocking
+               - itemprop="image" for Schema.org microdata
+             -->
+             <img class="img-border" 
+                  src="/{{ page.cover }}" 
+                  alt="Book cover: {{ page.title }}{% for author_id in page.authors %}{% assign author = site.people | where: 'name', author_id | first %} by {{ author.name | default: author_id }}{% endfor %}"
+                  itemprop="image"
+                  loading="lazy"
+                  decoding="async" />
           </div>
-          <div class="content-book-description">
+          <!-- SEO: Book description with Schema.org microdata -->
+          <div class="content-book-description" itemprop="description">
               <div>{{ content }}</div>
               <div>
+                <!-- SEO: Descriptive heading for book purchase links -->
+                <h4>Where to buy this book:</h4>
                 <ul>
                 {% for link in page.links %}
-                  <li><a href="{{ link.link }}" target="_blank">{{ link.text }}</a></li>
+                  <!-- 
+                    SEO: External links with security attributes
+                    - rel="noopener noreferrer" prevents security issues
+                    - target="_blank" opens in new tab for better UX
+                  -->
+                  <li><a href="{{ link.link }}" target="_blank" rel="noopener noreferrer">{{ link.text }}</a></li>
                 {% endfor %}
                 </ul>
               </div>
           </div>
-        </div>
+        </section>
 
         {% if page.archive %}
-        <div class="content content-main mb-5">
+        <!-- 
+          SEO OPTIMIZATION: Q&A Section Structure
+          - Semantic <section> element for Q&A content
+          - Proper heading hierarchy (H2, H4, H5)
+          - <article> elements for each discussion thread
+          - Improves content organization for search engines
+        -->
+        <section class="content content-main mb-5">
           <h2>Questions and Answers</h2>
+          <div class="book-discussion">
           {% for thread in page.archive %}
-            <div class="book-archive-thread">
-              <b>{{ thread.name }}</b> {{ thread.text | newline_to_br | markdownify }}
+            <!-- SEO: Each Q&A thread as semantic article -->
+            <article class="book-archive-thread">
+              <!-- SEO: Proper heading for question author -->
+              <h4>{{ thread.name }}</h4>
+              <div>{{ thread.text | newline_to_br | markdownify }}</div>
               {% for reply in thread.replies %}
                 <div class="book-archive-reply">
-                  <b>{{ reply.name }}</b> {{ reply.text | newline_to_br | markdownify }}
+                  <!-- SEO: Proper heading for reply author -->
+                  <h5>{{ reply.name }}</h5>
+                  <div>{{ reply.text | newline_to_br | markdownify }}</div>
                 </div>
               {% endfor %}
-            </div>
+            </article>
           {% endfor %}
-        </div>
+          </div>
+        </section>
         {% endif %}
 
-        <div class="content-main mb-5">
+        <!-- 
+          SEO OPTIMIZATION: Call-to-Action Section
+          - Semantic <section> for engagement content
+          - Descriptive heading for better content organization
+          - Internal links for site navigation and SEO
+        -->
+        <section class="content-main mb-5">
+          <h2>Join the Book of the Week Discussion</h2>
           <p>To take part in the book of the week event:</p>
           <ul>
             <li><a href="/slack.html">Register in our Slack</a></li>
@@ -56,14 +159,17 @@
             <li>The book authors answer questions from Monday till Thursday</li>
             <li>On Friday, the authors decide who wins free copies of their book</li>
           </ul>
-          <p class="pt-3">To see other books, check the <a href="/books.html">the book of the week</a> page.</p>
-        </div>
+          <!-- SEO: Internal link to book listing page -->
+          <p class="pt-3">To see other books, check the <a href="/books.html">book of the week</a> page.</p>
+        </section>
   
         <div class="article-divider"></div>
 
-        <div class="article-end">
+        <!-- SEO: Semantic footer element for subscription section -->
+        <footer class="article-end">
           {% include subscribe.html subscribe="true" %}
-        </div>
+        </footer>
+        </article>
       </div>
     </div>
   </div>
