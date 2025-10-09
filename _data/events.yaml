@@ -540,7 +540,7 @@
   speakers: [alexeygrigorev]
   type: workshop
   link: https://lu.ma/jsyob4df
-  youtube: https://www.youtube.com/watch?v=nMrGK5QgPVE&t=1815s
+  youtube: https://www.youtube.com/watch?v=nMrGK5QgPVE
 
 
 - time: 2024-05-21 17:00:00
@@ -2253,7 +2253,7 @@
   speakers: [jessieyaros]
   type: webinar
   link: https://eventbrite.com/e/157544147787
-  youtube: https://www.youtube.com/watch?v=6X7P-zwSi7E&
+  youtube: https://www.youtube.com/watch?v=6X7P-zwSi7E
 - time: 2021-06-25 17:00:00
   title: "The Importance of Data Quality"
   speakers: [fabianaclemente]
@@ -2297,7 +2297,7 @@
   speakers: [janzawadzki, benwilson, linaweichbrodt, dougturnbull, fabianaclemente]
   type: conference
   link: /conferences/2021-summer-marathon.html#machine-learning-in-production
-  youtube: https://www.youtube.com/watch?v=jQDkBpzK-7w&list=PL3MmuxUbc_hJVHxIcDITxkWiImNxDa6jh&index=23
+  youtube: https://www.youtube.com/watch?v=jQDkBpzK-7w
 
 - time: 2021-06-18 17:00:00
   title: "I Want to Build a Machine Learning Startup!"
@@ -2340,8 +2340,7 @@
   speakers: [svpino, dalianaliu, andreaskretz, roksolanadiachuk, elenasamuylova]
   type: conference
   link: /conferences/2021-summer-marathon.html#career-in-data
-  youtube: https://www.youtube.com/watch?v=xVYOdRrN7hw&list=PL3MmuxUbc_hJVHxIcDITxkWiImNxDa6jh&index=19
-
+  youtube: https://www.youtube.com/watch?v=xVYOdRrN7hw
 - time: 2021-06-11 17:00:00
   title: "Analytics Engineer: New Role in a Data Team"
   slug: "analytics-engineer"
@@ -2372,7 +2371,7 @@
   speakers: [mervenoyan]
   type: webinar
   link: https://eventbrite.com/e/154127861583
-  youtube: https://www.youtube.com/watch?v=Jrigg7n-bt8&t=945s
+  youtube: https://www.youtube.com/watch?v=Jrigg7n-bt8
 
 # may
 - time: 2021-05-28 17:00:00
