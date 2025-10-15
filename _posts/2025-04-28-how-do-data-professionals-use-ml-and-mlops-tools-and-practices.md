@@ -1,7 +1,7 @@
 ---
 authors:
 - valeriiakuka
-description: Results of our DataTalks.Club Survey
+description: Discover how 200+ data professionals deploy, monitor, and manage ML models in production. Survey insights on MLOps tools, deployment practices, model versioning, CI/CD workflows, and team structures in 2024.
 image: images/posts/2025-04-28-how-do-data-professionals-use-ml-and-mlops-tools-and-practices/cover.jpg
 layout: post
 subtitle: Results of our DataTalks.Club Survey

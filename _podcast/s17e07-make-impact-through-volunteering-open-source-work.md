@@ -1220,4 +1220,3 @@ Links:
 * [Twitter](https://twitter.com/el_ateifSara){:target="_blank"}
 * [Instagram](https://www.instagram.com/saraelateif/){:target="_blank"}
 * [LinkedIn](https://www.linkedin.com/in/sara-el-ateif/){:target="_blank"}
-* [Youtube](www.youtube.com/@elateifsara){:target="_blank"}

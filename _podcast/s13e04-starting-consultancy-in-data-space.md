@@ -1081,4 +1081,3 @@ Links:
 
 * [LinkedIn](https://www.linkedin.com/in/alkrusz/){:target="_blank"}
 * [Twitter](https://twitter.com/alkrusz){:target="_blank"}
-* [Website](www.leukos.io){:target="_blank"}

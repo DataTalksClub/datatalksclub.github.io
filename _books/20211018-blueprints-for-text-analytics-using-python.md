@@ -99,7 +99,7 @@ archive:
 - name: Christian Winkler
   text: Thanks for your question, Nikhil Shrestha. You could use semantic embeddings
     like word2vec for supporting information retrieval. Another option would be to
-    use something more full-fledged like [txtai]([https://github.com/neuml/txtai](https://github.com/neuml/txtai))
+    use something more full-fledged like txtai.
   replies: []
 - name: Christian Winkler
   text: Good question, Asmita! I think it depends on the kind of task you are automating.

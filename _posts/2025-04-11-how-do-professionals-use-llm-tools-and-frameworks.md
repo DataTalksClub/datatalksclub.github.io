@@ -1,7 +1,7 @@
 ---
 authors:
 - valeriiakuka
-description: Results of our DataTalks.Club Survey
+description: "2024 LLM Survey Results: 200+ professionals reveal OpenAI dominance (73%), self-hosting trends, fine-tuning practices, and production deployment strategies. Key insights on managed services, cloud infrastructure, and integration frameworks."
 image: images/posts/2025-04-11-how-do-professionals-use-llm-tools-and-frameworks/cover.jpg
 layout: post
 subtitle: Results of our DataTalks.Club Survey

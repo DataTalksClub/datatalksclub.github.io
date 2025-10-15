@@ -1122,4 +1122,4 @@ Links:
 * [NASA also has an archive of data collected from their various missions, including a node related to small bodies](https://pds-smallbodies.astro.umd.edu/){:target="_blank"}
 * [Sub-node directly related to asteroids](https://sbn.psi.edu/pds/){:target="_blank"}
 * [Size, Mass, and Density of Asteroids (SiMDA) is a nice catalog of observed asteroid attributes (and an indication of how small our sample size is!)](https://astro.kretlow.de/?SiMDA){:target="_blank"}
-* [The source survey data, several are useful for asteroids](Pan-STARRS (https://outerspace.stsci.edu/display/PANSTARRS)){:target="_blank"}
+* [The source survey data, several are useful for asteroids](https://outerspace.stsci.edu/display/PANSTARRS){:target="_blank"}

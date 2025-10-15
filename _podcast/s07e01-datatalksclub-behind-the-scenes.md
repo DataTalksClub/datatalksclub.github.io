@@ -955,4 +955,4 @@ transcript:
 
 Links:
 
-- [https://eugeneyan.com/writing/informal-mentors-alexey-grigorev/](Eugene interviews Alexey){:target="_blank"} 
+- [Eugene interviews Alexey](https://eugeneyan.com/writing/informal-mentors-alexey-grigorev/){:target="_blank"} 
