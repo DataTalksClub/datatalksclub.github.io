@@ -1,9 +1,12 @@
 ---
+
 title: "Advancing Big Data Analytics: Post-Doctoral Research"
 short: "Advancing Big Data Analytics: Post-Doctoral Research"
 guests: [elenitziritazacharatou]
 
 image: images/podcast/s06e05-post-doctoral-research.jpg
+
+description: "Learn post-doctoral research in data science and ML. Discover academic career paths, research opportunities, and industry transitions."
 
 season: 6
 episode: 5
@@ -1034,6 +1037,7 @@ transcript:
   sec: 3770
   time: '1:02:50'
   who: Eleni
+
 ---
 
 Links:

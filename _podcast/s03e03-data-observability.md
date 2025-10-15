@@ -1,9 +1,12 @@
 ---
+
 title: "Data Observability: The Next Frontier of Data Engineering"
 short: "Data Observability: The Next Frontier of Data Engineering"
 guests: [barrmoses]
 
 image: images/podcast/s03e03-data-observability.jpg
+
+description: "Discover data observability with Barr Moses. Learn monitoring, data quality, and incident detection for reliable data pipelines."
 
 season: 3
 episode: 3
@@ -995,6 +998,7 @@ transcript:
   sec: 3818
   time: '1:03:38'
   who: Barr
+
 ---
 
 Links:

@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - stefangudmundsson
@@ -6,6 +7,8 @@ ids:
   anchor: Machine-Learning-and-Personalization-in-Healthcare---Stefan-Gudmundsson-e1h5gdg
   youtube: IDzhmmKeNG4
 image: images/podcast/s08e04-machine-learning-and-personalization-in-healthcare.jpg
+
+description: "Discover ML and personalization in healthcare. Learn medical AI applications, privacy considerations, and improving patient outcomes with ML."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Machine-Learning-and-Personalization-in-Healthcare---Stefan-Gudmundsson-e1h5gdg
   apple: https://podcasts.apple.com/us/podcast/machine-learning-and-personalization-in-healthcare/id1541710331?i=1000557726819
@@ -1135,6 +1138,7 @@ transcript:
   sec: 3469
   time: '57:49'
   who: Stefan
+
 ---
 
 Links:

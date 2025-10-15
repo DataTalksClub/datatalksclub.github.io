@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - mehdiouazza
@@ -6,6 +7,8 @@ ids:
   anchor: Growing-Data-Engineering-Team-in-a-Scale-Up---Mehdi-OUAZZA-e1mq8et
   youtube: acJ6sVqKOUk
 image: images/podcast/s10e05-growing-data-engineering-team-in-scale-up.jpg
+
+description: "Learn growing data engineering teams in scale-ups. Discover hiring strategies, team scaling, and maintaining quality during rapid growth."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Growing-Data-Engineering-Team-in-a-Scale-Up---Mehdi-OUAZZA-e1mq8et
   apple: https://podcasts.apple.com/us/podcast/growing-data-engineering-team-in-a-scale-up-mehdi-ouazza/id1541710331?i=1000577461365
@@ -1074,6 +1077,7 @@ transcript:
   sec: 3802
   time: '1:03:22'
   who: Mehdi
+
 ---
 
 Links:

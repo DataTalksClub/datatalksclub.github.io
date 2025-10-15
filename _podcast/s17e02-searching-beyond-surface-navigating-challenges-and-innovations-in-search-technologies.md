@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - atitaarora
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Navigating-Challenges-and-Innovations-in-Search-Technologies---Atita-Arora-e2d7rps
   youtube: _fbe1QyJ1PY
 image: images/podcast/s17e02-searching-beyond-surface-navigating-challenges-and-innovations-in-search-technologies.jpg
+
+description: "Master modern search technologies. Learn search innovation, challenges, and building effective search systems beyond basic keyword matching."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Navigating-Challenges-and-Innovations-in-Search-Technologies---Atita-Arora-e2d7rps
   apple: https://podcasts.apple.com/us/podcast/navigating-challenges-and-innovations-in-search/id1541710331?i=1000639476594
@@ -1131,6 +1134,7 @@ transcript:
   sec: 3668
   time: '1:01:08'
   who: Atita
+
 ---
 
 Links:

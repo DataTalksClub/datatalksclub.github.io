@@ -6,6 +6,9 @@ ids:
   anchor: atatalksclub/episodes/DataOps--Observability--and-The-Cure-for-Data-Team-Blues---Christopher-Bergh-e2n775f
   youtube: HzGpIxV8HtA
 image: images/podcast/s18e09-dataops-observability-and-cure-for-data-team-blues.jpg
+
+description: "Master DataOps and observability. Learn monitoring data systems, preventing failures, and curing common data team challenges effectively."
+
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/DataOps--Observability--and-The-Cure-for-Data-Team-Blues---Christopher-Bergh-e2n775f
   apple: https://podcasts.apple.com/us/podcast/dataops-observability-and-the-cure-for-data-team/id1541710331?i=1000665429770

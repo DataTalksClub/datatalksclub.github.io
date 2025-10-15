@@ -6,6 +6,9 @@ ids:
   anchor: atatalksclub/episodes/DataTalks-Club-4th-Anniversary-AMA-Podcast--Alexey-Grigorev-and-Johanna-Bayer-e2q3ch2
   youtube: GHbeXIKnkLQ
 image: images/podcast/s19e03-datatalks-club-anniversary-podcast.jpg
+
+description: "Learn DataTalks.Club anniversary reflections. Discover community milestones, member stories, and celebrating data science community growth."
+
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/DataTalks-Club-4th-Anniversary-AMA-Podcast--Alexey-Grigorev-and-Johanna-Bayer-e2q3ch2
   apple: https://podcasts.apple.com/us/podcast/datatalks-club-4th-anniversary-ama-podcast-alexey-grigorev/id1541710331?i=1000674473200

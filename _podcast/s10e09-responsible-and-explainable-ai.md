@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - supreetkaur
@@ -6,6 +7,8 @@ ids:
   anchor: Responsible-and-Explainable-AI---Supreet-Kaur-e1o6mgj
   youtube: 8Eb5mG-pC3o
 image: images/podcast/s10e09-responsible-and-explainable-ai.jpg
+
+description: "Master responsible and explainable AI. Learn fairness, transparency, interpretability, and building trustworthy ML systems ethically."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Responsible-and-Explainable-AI---Supreet-Kaur-e1o6mgj
   apple: https://podcasts.apple.com/us/podcast/responsible-and-explainable-ai-supreet-kaur/id1541710331?i=1000581178150
@@ -1158,6 +1161,7 @@ transcript:
   sec: 3630
   time: '1:00:30'
   who: Alexey
+
 ---
 
 Links:

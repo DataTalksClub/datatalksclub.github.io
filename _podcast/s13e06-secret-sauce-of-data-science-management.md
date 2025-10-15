@@ -1,4 +1,5 @@
 ---
+
 episode: 6
 guests:
 - shirmeirlador
@@ -6,6 +7,8 @@ ids:
   anchor: ow/datatalksclub/episodes/The-Secret-Sauce-of-Data-Science-Management---Shir-Meir-Lador-e21cu92
   youtube: gcxP0qRO-MY
 image: images/podcast/s13e06-secret-sauce-of-data-science-management.jpg
+
+description: "Master data science management secrets. Learn proven leadership techniques, team building, and maximizing DS team performance and impact."
 links:
   anchor: https://podcasters.spotify.com/pod/pod/show/datatalksclub/episodes/The-Secret-Sauce-of-Data-Science-Management---Shir-Meir-Lador-e21cu92
   apple: https://podcasts.apple.com/us/podcast/the-secret-sauce-of-data-science-management-shir-meir-lador/id1541710331?i=1000606790142
@@ -1085,6 +1088,7 @@ transcript:
   sec: 3517
   time: '58:37'
   who: Alexey
+
 ---
 
 Links:

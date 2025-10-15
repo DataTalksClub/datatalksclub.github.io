@@ -1,4 +1,5 @@
 ---
+
 episode: 3
 guests:
 - jeffkatz
@@ -6,6 +7,8 @@ ids:
   anchor: Getting-a-Data-Engineering-Job-Summary-and-QA---Jeff-Katz-e1jljmd
   youtube: asnt7xlyZXQ
 image: images/podcast/s09e03-getting-data-engineering-job-(summary-and-q&a).jpg
+
+description: "Master getting data engineering job. Learn interview prep, portfolio building, and job search strategies for aspiring data engineers."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Getting-a-Data-Engineering-Job-Summary-and-QA---Jeff-Katz-e1jljmd
   apple: https://podcasts.apple.com/us/podcast/getting-a-data-engineering-job-summary-and-q-a-jeff-katz/id1541710331?i=1000566005592
@@ -755,6 +758,7 @@ transcript:
   sec: 2882
   time: '48:02'
   who: Jeff
+
 ---
 
 Links:

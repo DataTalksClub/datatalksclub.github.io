@@ -1,9 +1,12 @@
 ---
+
 title: "How to Market Yourself (without Being a Celebrity)"
 short: "How to Market Yourself (without Being a Celebrity)"
 guests: [swyx]
 
 image: images/podcast/s03e07-market-yourself.jpg
+
+description: "Learn self-marketing for data scientists. Discover personal branding, portfolio building, and visibility strategies for career growth."
 
 season: 3
 episode: 7
@@ -1044,6 +1047,7 @@ transcript:
   sec: 3830
   time: '1:03:50'
   who: Alexey
+
 ---
 
 

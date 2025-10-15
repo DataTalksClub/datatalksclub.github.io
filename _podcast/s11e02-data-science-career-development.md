@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - katiebauer
@@ -6,6 +7,8 @@ ids:
   anchor: Data-Science-Career-Development---Katie-Bauer-e1oq96g
   youtube: i1NHRroQClQ
 image: images/podcast/s11e02-data-science-career-development.jpg
+
+description: "Master data science career development. Learn growth strategies, skill advancement, and navigating career progression in data science."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Data-Science-Career-Development---Katie-Bauer-e1oq96g
   apple: https://podcasts.apple.com/us/podcast/data-science-career-development-katie-bauer/id1541710331?i=1000582680396
@@ -1190,6 +1193,7 @@ transcript:
   sec: 3613
   time: '1:00:13'
   who: Alexey
+
 ---
 
 Links:

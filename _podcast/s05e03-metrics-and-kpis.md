@@ -1,9 +1,12 @@
 ---
+
 title: "Defining Success: Metrics and KPIs"
 short: "Defining Success: Metrics and KPIs"
 guests: [adamsroka]
 
 image: images/podcast/s05e03-metrics-and-kpis.jpg
+
+description: "Master metrics and KPIs for data science. Learn measurement frameworks, business metrics selection, and impact quantification strategies."
 
 season: 5
 episode: 3
@@ -1083,6 +1086,7 @@ transcript:
   sec: 3840
   time: '1:04:00'
   who: Alexey
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 episode: 6
 guests:
 - nicolasrassam
@@ -6,6 +7,8 @@ ids:
   anchor: Recruiting-Data-Engineers---Nicolas-Rassam-e1hnkl1
   youtube: hylxiu4VGTo
 image: images/podcast/s08e06-recruiting-data-engineers.jpg
+
+description: "Master recruiting data engineers. Learn technical assessment, cultural fit evaluation, and building strong data engineering teams."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Recruiting-Data-Engineers---Nicolas-Rassam-e1hnkl1
   apple: https://podcasts.apple.com/us/podcast/recruiting-data-engineers-nicolas-rassam/id1541710331?i=1000559128813
@@ -824,6 +827,7 @@ transcript:
   sec: 3712
   time: '1:01:52'
   who: Nicolas
+
 ---
 
 Links:

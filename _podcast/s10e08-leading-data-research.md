@@ -1,4 +1,5 @@
 ---
+
 episode: 8
 guests:
 - davidbader
@@ -6,6 +7,8 @@ ids:
   anchor: Leading-Data-Research---David-Bader-e1nmt3r
   youtube: vZLlpsUlchQ
 image: images/podcast/s10e08-leading-data-research.jpg
+
+description: "Learn leading data research teams. Discover research management, publication strategies, and balancing research with business goals."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Leading-Data-Research---David-Bader-e1nmt3r
   apple: https://podcasts.apple.com/us/podcast/leading-data-research-david-bader/id1541710331?i=1000579710785
@@ -1129,6 +1132,7 @@ transcript:
   sec: 3890
   time: '1:04:50'
   who: Alexey
+
 ---
 
 Links:

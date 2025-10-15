@@ -1,4 +1,5 @@
 ---
+
 episode: 6
 guests:
 - hugobowneanderson
@@ -6,6 +7,8 @@ ids:
   anchor: ow/datatalksclub/episodes/Data-Developer-Relations---Hugo-Bowne-Anderson-e25q88q
   youtube: z7BvslwVRbQ
 image: images/podcast/s14e06-data-developer-relations.jpg
+
+description: "Discover data developer relations. Learn community building, technical advocacy, and supporting data engineering and ML communities."
 links:
   anchor: https://podcasters.spotify.com/pod/pod/show/datatalksclub/episodes/Data-Developer-Relations---Hugo-Bowne-Anderson-e25q88q
   apple: https://podcasts.apple.com/us/podcast/data-developer-relations-hugo-bowne-anderson/id1541710331?i=1000617298688
@@ -1052,6 +1055,7 @@ transcript:
   sec: 3565
   time: '59:25'
   who: Alexey
+
 ---
 
 Links:

@@ -1,9 +1,12 @@
 ---
+
 title: "Effective Communication with Business for Data Professionals"
 short: "Effective Communication with Business for Data Professionals"
 guests: [liorbarak]
 
 image: images/podcast/s03e04-effective-communication-with-business.jpg
+
+description: "Master business communication for data scientists. Learn stakeholder management, presentation skills, and translating technical insights."
 
 season: 3
 episode: 4
@@ -952,6 +955,7 @@ transcript:
   sec: 3534
   time: '58:54'
   who: Lior
+
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - micheallanham
@@ -6,6 +7,8 @@ ids:
   anchor: datatalksclub/episodes/Lessons-from-Two-Decades-of-AI---Micheal-Lanham-e38oarc
   youtube: DSxqUlumM3A
 image: images/podcast/s21e07-lessons-from-two-decades-of-ai.jpg
+
+description: "Learn lessons from 20 years of AI. Discover evolution of AI, enduring principles, and wisdom from decades of machine learning experience."
 links:
   anchor: https://creators.spotify.com/pod/profile/datatalksclub/episodes/Lessons-from-Two-Decades-of-AI---Micheal-Lanham-e38oarc
   apple: https://podcasts.apple.com/us/podcast/lessons-from-two-decades-of-ai-micheal-lanham/id1541710331?i=1000728604349
@@ -893,6 +896,7 @@ transcript:
   sec: 3648
   time: '1:00:48'
   who: Michael
+
 ---
 
 Links:

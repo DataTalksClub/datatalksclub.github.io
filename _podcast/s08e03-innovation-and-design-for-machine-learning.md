@@ -1,4 +1,5 @@
 ---
+
 episode: 3
 guests:
 - liesbethdingemans
@@ -6,6 +7,8 @@ ids:
   anchor: Innovation-and-Design-for-Machine-Learning---Liesbeth-Dingemans-e1gq0en
   youtube: tcqBfZw41FM
 image: images/podcast/s08e03-innovation-and-design-for-machine-learning.jpg
+
+description: "Learn innovation and design thinking for ML products. Discover user-centered ML, creative problem-solving, and building impactful solutions."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Innovation-and-Design-for-Machine-Learning---Liesbeth-Dingemans-e1gq0en
   apple: https://podcasts.apple.com/us/podcast/innovation-and-design-for-machine-learning-liesbeth/id1541710331?i=1000556693861
@@ -1088,6 +1091,7 @@ transcript:
   sec: 3632
   time: '1:00:32'
   who: Liesbeth
+
 ---
 
 Links:

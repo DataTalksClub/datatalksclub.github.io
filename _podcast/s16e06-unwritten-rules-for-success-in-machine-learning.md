@@ -1,4 +1,5 @@
 ---
+
 episode: 6
 guests:
 - jackblandin
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/The-Unwritten-Rules-for-Success-in-Machine-Learning---Jack-Blandin-e2bojjk
   youtube: su2M058m3Lw
 image: images/podcast/s16e06-unwritten-rules-for-success-in-machine-learning.jpg
+
+description: "Discover unwritten ML success rules. Learn insider knowledge, career navigation, and hidden factors for thriving in machine learning field."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/The-Unwritten-Rules-for-Success-in-Machine-Learning---Jack-Blandin-e2bojjk
   apple: https://podcasts.apple.com/us/podcast/the-unwritten-rules-for-success-in-machine-learning/id1541710331?i=1000635206953
@@ -1124,6 +1127,7 @@ transcript:
   sec: 3216
   time: '53:36'
   who: Jack
+
 ---
 
 Links:

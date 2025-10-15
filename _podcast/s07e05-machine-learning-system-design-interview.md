@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - valeriybabushkin
@@ -6,6 +7,8 @@ ids:
   anchor: Machine-Learning-System-Design-Interview---Valerii-Babushkin-e1ej65e
   youtube: 0RsmRjar66E
 image: images/podcast/s07e05-machine-learning-system-design-interview.jpg
+
+description: "Master ML system design interviews. Learn architecture patterns, scalability considerations, and interview preparation for senior ML roles."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Machine-Learning-System-Design-Interview---Valerii-Babushkin-e1ej65e
   apple: https://podcasts.apple.com/us/podcast/machine-learning-system-design-interview-valerii-babushkin/id1541710331?i=1000551566652
@@ -1254,6 +1257,7 @@ transcript:
   sec: 3651
   time: '1:00:51'
   who: Valerii
+
 ---
 
 Links:

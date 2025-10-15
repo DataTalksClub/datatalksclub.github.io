@@ -1,4 +1,5 @@
 ---
+
 episode: 8
 guests:
 - jeffkatz
@@ -6,6 +7,8 @@ ids:
   anchor: Teaching-Data-Engineers---Jeff-Katz-e1iaoru
   youtube: dFo10l8B6Go
 image: images/podcast/s08e08-teaching-data-engineers.jpg
+
+description: "Learn teaching data engineering effectively. Discover curriculum design, hands-on learning, and preparing students for data engineering careers."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Teaching-Data-Engineers---Jeff-Katz-e1iaoru
   apple: https://podcasts.apple.com/us/podcast/teaching-data-engineers-jeff-katz/id1541710331?i=1000561145955
@@ -1269,6 +1272,7 @@ transcript:
   sec: 3711
   time: '1:01:51'
   who: Jeff
+
 ---
 
 Links:

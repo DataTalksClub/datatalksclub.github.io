@@ -1,4 +1,5 @@
 ---
+
 episode: 3
 guests:
 - pastorsoto
@@ -6,6 +7,8 @@ ids:
   anchor: datatalksclub/episodes/From-Medicine-to-Machine-Learning-How-Public-Learning-Turned-into-a-Career---Pastor-Soto-e376e66
   youtube: 5km62e4nDaw
 image: images/podcast/s21e03-from-medicine-to-machine-learning-how-public-learning-turned-into-career.jpg
+
+description: "Discover career change from medicine to ML through public learning. Learn learning in public, career pivoting, and medical to tech transition."
 links:
   anchor: https://creators.spotify.com/pod/profile/datatalksclub/episodes/From-Medicine-to-Machine-Learning-How-Public-Learning-Turned-into-a-Career---Pastor-Soto-e376e66
   apple: https://podcasts.apple.com/us/podcast/how-to-rebuild-data-trust-mindful-data-strategy-and/id1541710331?i=1000722107501
@@ -849,6 +852,7 @@ transcript:
   sec: 3667
   time: '1:01:07'
   who: Alexey
+
 ---
 
 Links:

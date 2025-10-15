@@ -1,4 +1,5 @@
 ---
+
 episode: 8
 guests:
 - willrussell
@@ -6,6 +7,8 @@ ids:
   anchor: datatalksclub/episodes/From-Hackathons-to-Developer-Advocacy---Will-Russel-e339a5f
   youtube: vXbMUfHE1OE
 image: images/podcast/s20e08-from-hackathons-to-developer-advocacy.jpg
+
+description: "Learn journey from hackathons to developer advocacy. Discover community engagement, technical evangelism, and career in developer relations."
 links:
   anchor: https://creators.spotify.com/pod/profile/datatalksclub/episodes/From-Hackathons-to-Developer-Advocacy---Will-Russel-e339a5f
   apple: https://podcasts.apple.com/us/podcast/from-hackathons-to-developer-advocacy-will-russel/id1541710331?i=1000709634418
@@ -1430,6 +1433,7 @@ transcript:
   sec: 3689
   time: '1:01:29'
   who: Alexey
+
 ---
 
 Links:

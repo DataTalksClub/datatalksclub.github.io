@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - parvathykrishnan
@@ -6,6 +7,8 @@ ids:
   anchor: Analytics-for-a-Better-World---Parvathy-Krishnan-e1vo27h
   youtube: b6x5zZ3C6sQ
 image: images/podcast/s13e02-analytics-for-better-world.jpg
+
+description: "Discover analytics for social good. Learn applying data skills to global challenges, ethics, and creating positive change with analytics."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Analytics-for-a-Better-World---Parvathy-Krishnan-e1vo27h
   apple: https://podcasts.apple.com/us/podcast/analytics-for-a-better-world-parvathy-krishnan/id1541710331?i=1000602678901
@@ -1049,6 +1052,7 @@ transcript:
   sec: 3631
   time: '1:00:31'
   who: Alexey
+
 ---
 
 Links:

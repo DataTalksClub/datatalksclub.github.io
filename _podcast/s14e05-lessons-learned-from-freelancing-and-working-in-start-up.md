@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - antonisstellas
@@ -6,6 +7,8 @@ ids:
   anchor: ow/datatalksclub/episodes/Lessons-Learned-from-Freelancing-and-Working-in-a-Start-up---Antonis-Stellas-e25g94r
   youtube: -Gj7SaI-QW4
 image: images/podcast/s14e05-lessons-learned-from-freelancing-and-working-in-start-up.jpg
+
+description: "Master lessons from freelancing and startups. Learn flexibility, business skills, and thriving in fast-paced entrepreneurial environments."
 links:
   anchor: https://podcasters.spotify.com/pod/pod/show/datatalksclub/episodes/Lessons-Learned-from-Freelancing-and-Working-in-a-Start-up---Antonis-Stellas-e25g94r
   apple: https://podcasts.apple.com/us/podcast/lessons-learned-from-freelancing-and-working-in-a/id1541710331?i=1000616311575
@@ -972,6 +975,7 @@ transcript:
   sec: 3583
   time: '59:43'
   who: Alexey
+
 ---
 
 Links:

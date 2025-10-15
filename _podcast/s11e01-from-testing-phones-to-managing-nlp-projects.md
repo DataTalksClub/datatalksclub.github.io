@@ -1,4 +1,5 @@
 ---
+
 episode: 1
 guests:
 - alvaronavaspeire
@@ -6,6 +7,8 @@ ids:
   anchor: From-Testing-Phones-to-Managing-NLP-Projects---Alvaro-Navas-Peire-e1oj7n8
   youtube: -xumbiXOlA8
 image: images/podcast/s11e01-from-testing-phones-to-managing-nlp-projects.jpg
+
+description: "Discover career journey from phone testing to NLP management. Learn skill development, career pivoting, and managing language AI projects."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/From-Testing-Phones-to-Managing-NLP-Projects---Alvaro-Navas-Peire-e1oj7n8
   apple: https://podcasts.apple.com/us/podcast/from-testing-phones-to-managing-nlp-projects-alvaro/id1541710331?i=1000581943071
@@ -1257,6 +1260,7 @@ transcript:
   sec: 3759
   time: '1:02:39'
   who: Alexey
+
 ---
 
 Links:

@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - aleksanderkruszelnicki
@@ -6,6 +7,8 @@ ids:
   anchor: ow/datatalksclub/episodes/Starting-a-Consultancy-in-the-Data-Space---Aleksander-Kruszelnicki-e203c8g
   youtube: rh_pE35m3vE
 image: images/podcast/s13e04-starting-consultancy-in-data-space.jpg
+
+description: "Learn starting data consultancy business. Discover client acquisition, service offerings, and building successful data consulting practice."
 links:
   anchor: https://podcasters.spotify.com/pod/pod/show/datatalksclub/episodes/Starting-a-Consultancy-in-the-Data-Space---Aleksander-Kruszelnicki-e203c8g
   apple: https://podcasts.apple.com/us/podcast/starting-a-consultancy-in-the-data-space/id1541710331?i=1000604682286
@@ -1075,6 +1078,7 @@ transcript:
   sec: 3686
   time: '1:01:26'
   who: Alexey
+
 ---
 
 Links:

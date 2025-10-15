@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - irinabrudaru
@@ -6,6 +7,8 @@ ids:
   anchor: Teaching-and-Mentoring-in-Data-Analytics---Irina-Brudaru-e1rihm1
   youtube: saaRRzgHsmE
 image: images/podcast/s11e09-teaching-and-mentoring-in-data-analytics.jpg
+
+description: "Learn teaching and mentoring in data analytics. Discover educational strategies, curriculum design, and developing next generation of analysts."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Teaching-and-Mentoring-in-Data-Analytics---Irina-Brudaru-e1rihm1
   apple: https://podcasts.apple.com/us/podcast/teaching-and-mentoring-in-data-analytics-irina-brudaru/id1541710331?i=1000588551445
@@ -1423,6 +1426,7 @@ transcript:
   sec: 3714
   time: '1:01:54'
   who: Irina
+
 ---
 
 Links:

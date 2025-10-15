@@ -1,4 +1,5 @@
 ---
+
 episode: 6
 guests:
 - zhamakdehghani
@@ -6,6 +7,8 @@ ids:
   anchor: Data-Mesh-101---Zhamak-Dehghani-e1n7vlk
   youtube: 346N_pCtYZU
 image: images/podcast/s10e06-data-mesh-101.jpg
+
+description: "Master data mesh fundamentals. Learn decentralized data architecture, domain ownership, and implementing data mesh in organizations."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Data-Mesh-101---Zhamak-Dehghani-e1n7vlk
   apple: https://podcasts.apple.com/us/podcast/data-mesh-101-zhamak-dehghani/id1541710331?i=1000578193372
@@ -994,6 +997,7 @@ transcript:
   sec: 3739
   time: '1:02:19'
   who: Zhamak
+
 ---
 
 Links:

@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - danielsvonava
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Building-Production-Search-Systems---Daniel-Svonava-e2hccnh
   youtube: gEmSrknGKDE
 image: images/podcast/s17e09-building-production-search-systems.jpg
+
+description: "Master building production search systems. Learn search architecture, relevance, and deploying scalable search solutions for real applications."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Building-Production-Search-Systems---Daniel-Svonava-e2hccnh
   apple: https://podcasts.apple.com/us/podcast/building-production-search-systems-daniel-svonava/id1541710331?i=1000650138905
@@ -1059,6 +1062,7 @@ transcript:
   sec: 4030
   time: '1:07:10'
   who: Daniel
+
 ---
 
 Links:

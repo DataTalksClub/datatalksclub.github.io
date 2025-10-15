@@ -1,9 +1,12 @@
 ---
+
 title: "Becoming a Data-led Professional"
 short: "Becoming a Data-led Professional"
 guests: [arpitchoudhury]
 
 image: images/podcast/s03e08-data-led-professional.jpg
+
+description: "Master data-driven decision making with Nikki Stacey. Learn analytics mindset, metrics selection, and business impact measurement."
 
 season: 3
 episode: 8
@@ -927,4 +930,5 @@ transcript:
   sec: 3762
   time: '1:02:42'
   who: Alexey
+
 ---

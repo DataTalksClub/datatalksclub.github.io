@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - anastasiakaravdina
@@ -6,6 +7,8 @@ ids:
   anchor: atalksclub/episodes/Large-Hadron-Collider-and-Mentorship--Anastasia-Karavdina-e2rc2bj/a-abl5fth
   youtube: kV0ZDy2UtJA
 image: images/podcast/s19e05-large-hadron-collider-and-mentorship.jpg
+
+description: "Master insights from Large Hadron Collider and mentorship. Learn big science data, physics computing, and effective mentoring in research."
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Large-Hadron-Collider-and-Mentorship--Anastasia-Karavdina-e2rc2bj/a-abl5fth
   apple: https://podcasts.apple.com/us/podcast/large-hadron-collider-and-mentorship-anastasia-karavdina/id1541710331?i=1000677930293
@@ -880,6 +883,7 @@ transcript:
   sec: 3682
   time: '1:01:22'
   who: Alexey
+
 ---
 
 Links:

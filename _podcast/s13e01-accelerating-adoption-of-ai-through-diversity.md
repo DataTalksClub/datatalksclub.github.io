@@ -1,4 +1,5 @@
 ---
+
 episode: 1
 guests:
 - daniameira
@@ -6,6 +7,8 @@ ids:
   anchor: Accelerating-the-Adoption-of-AI-through-Diversity---Dnia-Meira-e1v9obp
   youtube: SRUwwvk_YCk
 image: images/podcast/s13e01-accelerating-adoption-of-ai-through-diversity.jpg
+
+description: "Learn accelerating AI adoption through diversity. Discover inclusive practices, diverse teams, and democratizing AI across organizations."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Accelerating-the-Adoption-of-AI-through-Diversity---Dnia-Meira-e1v9obp
   apple: https://podcasts.apple.com/us/podcast/accelerating-the-adoption-of-ai-through-diversity/id1541710331?i=1000601491838
@@ -1156,6 +1159,7 @@ transcript:
   sec: 3678
   time: '1:01:18'
   who: Alexey
+
 ---
 
 Links:

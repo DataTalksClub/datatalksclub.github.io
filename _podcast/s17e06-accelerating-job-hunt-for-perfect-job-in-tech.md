@@ -1,4 +1,5 @@
 ---
+
 episode: 6
 guests:
 - sarahmestiri
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Accelerating-The-Job-Hunt-for-The-Perfect-Job-in-Tech---Sarah-Mestiri-e2f93r6
   youtube: PchwbIs0tOg
 image: images/podcast/s17e06-accelerating-job-hunt-for-perfect-job-in-tech.jpg
+
+description: "Discover accelerating tech job search. Learn efficient job hunting, interview prep, and landing perfect role in data science and ML."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Accelerating-The-Job-Hunt-for-The-Perfect-Job-in-Tech---Sarah-Mestiri-e2f93r6
   apple: https://podcasts.apple.com/us/podcast/accelerating-the-job-hunt-for-the-perfect-job-in/id1541710331?i=1000643971899
@@ -1051,6 +1054,7 @@ transcript:
   sec: 3797
   time: '1:03:17'
   who: Sarah
+
 ---
 
 Links:

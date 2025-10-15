@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - sabinafirtala
@@ -6,6 +7,8 @@ ids:
   anchor: lub/episodes/Building-a-Domestic-Risk-Assessment-Tool---Sabina-Firtala-e2lr92i
   youtube: CpWlBAmD9ok
 image: images/podcast/s18e07-building-domestic-risk-assessment-tool.jpg
+
+description: "Learn building domestic risk assessment tools. Discover social impact tech, safety applications, and responsible AI for vulnerable populations."
 links:
   anchor: https://podcasters.spotify.com/datatalksclub/episodes/Building-a-Domestic-Risk-Assessment-Tool---Sabina-Firtala-e2lr92i
   apple: https://podcasts.apple.com/us/podcast/building-a-domestic-risk-assessment-tool-sabina-firtala/id1541710331?i=1000662124309
@@ -14,6 +17,7 @@ links:
 season: 18
 short: Building a Domestic Risk Assessment Tool
 title: Building a Domestic Risk Assessment Tool
+
 ---
 
 Links:

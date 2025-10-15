@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - angelaramirez
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Data-Engineering-for-Fraud-Prevention---Angela-Ramirez-e29rkab
   youtube: ZXNKjrrKU_I
 image: images/podcast/s15e09-data-engineering-for-fraud-prevention.jpg
+
+description: "Discover data engineering for fraud detection. Learn real-time pipelines, anomaly detection, and building systems that prevent financial fraud."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Data-Engineering-for-Fraud-Prevention---Angela-Ramirez-e29rkab
   apple: https://podcasts.apple.com/us/podcast/data-engineering-for-fraud-prevention-angela-ramirez/id1541710331?i=1000630468398
@@ -1137,6 +1140,7 @@ transcript:
   sec: 3675
   time: '1:01:15'
   who: Alexey
+
 ---
 
 Links:

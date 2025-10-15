@@ -1,9 +1,12 @@
 ---
+
 title: "The ABC’s of Data Science"
 short: "The ABC’s of Data Science"
 guests: [dannyma]
 
 image: images/podcast/s02e07-abc-data-science.jpg
+
+description: "Learn ABCs of data science from Nicolas Vandeput. Discover fundamentals, career paths, and essential skills for aspiring data scientists."
 
 season: 2
 episode: 7
@@ -1272,6 +1275,7 @@ transcript:
   sec: 5146
   time: '1:25:46'
   who: Danny
+
 
 ---
 

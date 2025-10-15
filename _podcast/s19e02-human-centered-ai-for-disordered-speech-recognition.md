@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - katarzynaforemniak
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Human-Centered-AI-for-Disordered-Speech-Recognition---Katarzyna-Foremniak-e2p8360
   youtube: yTZ4cddD7DU
 image: images/podcast/s19e02-human-centered-ai-for-disordered-speech-recognition.jpg
+
+description: "Master human-centered AI for speech disorders. Learn accessibility technology, inclusive AI, and building assistive ML for speech recognition."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Human-Centered-AI-for-Disordered-Speech-Recognition---Katarzyna-Foremniak-e2p8360
   apple: https://podcasts.apple.com/us/podcast/human-centered-ai-for-disordered-speech-recognition/id1541710331?i=1000671805368
@@ -795,6 +798,7 @@ transcript:
   sec: 3925
   time: '1:05:25'
   who: Katarzyna
+
 
 
 ---

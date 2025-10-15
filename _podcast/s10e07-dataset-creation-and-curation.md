@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - christiannswart
@@ -6,6 +7,8 @@ ids:
   anchor: Dataset-Creation-and-Curation---Christiaan-Swart-e1nd1f6
   youtube: QggWydGrWoo
 image: images/podcast/s10e07-dataset-creation-and-curation.jpg
+
+description: "Discover dataset creation and curation. Learn data collection, quality assurance, and building valuable datasets for ML projects."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Dataset-Creation-and-Curation---Christiaan-Swart-e1nd1f6
   apple: https://podcasts.apple.com/us/podcast/dataset-creation-and-curation-christiaan-swart/id1541710331?i=1000578975804
@@ -1042,6 +1045,7 @@ transcript:
   sec: 3902
   time: '1:05:02'
   who: Alexey
+
 ---
 
 Links:

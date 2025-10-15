@@ -1,9 +1,12 @@
 ---
+
 title: "Conquering the Last Mile in Data"
 short: "Conquering the Last Mile in Data"
 guests: [caitlinmoorman]
 
 image: images/podcast/s05e08-the-last-mile-in-data.jpg
+
+description: "Learn solving last-mile problems in data science. Discover deployment challenges, production readiness, and ensuring business impact."
 
 season: 5
 episode: 8
@@ -1047,6 +1050,7 @@ transcript:
   sec: 3905
   time: '1:05:05'
   who: Caitlin
+
 
 
 ---

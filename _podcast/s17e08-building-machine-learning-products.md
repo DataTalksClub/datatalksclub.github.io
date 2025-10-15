@@ -1,4 +1,5 @@
 ---
+
 episode: 8
 guests:
 - reemmahmoud
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Building-Machine-Learning-Products---Reem-Mahmoud-e2gttcd
   youtube: m45tNY-8gY8
 image: images/podcast/s17e08-building-machine-learning-products.jpg
+
+description: "Learn building successful ML products. Discover product thinking, user research, and creating ML solutions that users love and adopt."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Building-Machine-Learning-Products---Reem-Mahmoud-e2gttcd
   apple: https://podcasts.apple.com/us/podcast/building-machine-learning-products-reem-mahmoud/id1541710331?i=1000649393833
@@ -1059,6 +1062,7 @@ transcript:
   sec: 4030
   time: '1:07:10'
   who: Daniel
+
 ---
 
 Links:

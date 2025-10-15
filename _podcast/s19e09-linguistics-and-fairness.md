@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - tamaraatanasoska
@@ -6,6 +7,8 @@ ids:
   anchor: atalksclub/episodes/Linguistics-and-Fairness---Tamara-Atanasoska-e2thdk0
   youtube: sXU9vMDBjmk
 image: images/podcast/s19e09-linguistics-and-fairness.jpg
+
+description: "Master linguistics and fairness in NLP. Learn language bias, fair AI, and building equitable natural language processing systems."
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Linguistics-and-Fairness---Tamara-Atanasoska-e2thdk0
   apple: https://podcasts.apple.com/us/podcast/linguistics-and-fairness-tamara-atanasoska/id1541710331?i=1000684411354
@@ -896,6 +899,7 @@ transcript:
   sec: 3554
   time: '59:14'
   who: Alexey
+
 ---
 
 Links:

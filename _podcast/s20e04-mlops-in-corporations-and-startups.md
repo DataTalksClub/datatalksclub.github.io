@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - nemanjaradojkovic
@@ -6,6 +7,8 @@ ids:
   anchor: atalksclub/episodes/MLOps-in-Corporations-and-Startups---Nemanja-Radojkovic-e304g53
   youtube: DX9c__a4jzg
 image: images/podcast/s20e04-mlops-in-corporations-and-startups.jpg
+
+description: "Master MLOps in corporations vs startups. Learn different approaches, constraints, and implementing ML operations across organization types."
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/MLOps-in-Corporations-and-Startups---Nemanja-Radojkovic-e304g53
   apple: https://podcasts.apple.com/us/podcast/mlops-in-corporations-and-startups-nemanja-radojkovic/id1541710331?i=1000699195928
@@ -1218,6 +1221,7 @@ transcript:
   sec: 3726
   time: '1:02:06'
   who: Nemanja
+
 ---
 
 Links:

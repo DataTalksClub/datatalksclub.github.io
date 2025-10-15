@@ -1,4 +1,5 @@
 ---
+
 episode: 8
 guests:
 - mariabruckert
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/AI-for-Digital-Health---Maria-Bruckert-e2cejoc
   youtube: whpkDmVVGUE
 image: images/podcast/s16e08-ai-for-digital-health.jpg
+
+description: "Learn AI for digital health applications. Discover wearables, health monitoring, and applying AI to improve personal and public health."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/AI-for-Digital-Health---Maria-Bruckert-e2cejoc
   apple: https://podcasts.apple.com/us/podcast/ai-for-digital-health-maria-bruckert/id1541710331?i=1000637212773
@@ -1056,6 +1059,7 @@ transcript:
   sec: 3147
   time: '52:27'
   who: Maria
+
 ---
 
 Links:

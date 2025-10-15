@@ -1,4 +1,5 @@
 ---
+
 episode: 3
 guests:
 - marysiawinkels
@@ -6,6 +7,8 @@ ids:
   anchor: Data-Centric-AI---Marysia-Winkels-e1shctn
   youtube: t3HDdVWQzNM
 image: images/podcast/s12e03-data-centric-ai.jpg
+
+description: "Learn data-centric AI with Andrew Ng's principles. Discover improving AI through better data quality rather than just better algorithms."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Data-Centric-AI---Marysia-Winkels-e1shctn
   apple: https://podcasts.apple.com/us/podcast/data-centric-ai-marysia-winkels/id1541710331?i=1000592911172
@@ -1231,6 +1234,7 @@ transcript:
   sec: 3540
   time: '59:00'
   who: Alexey
+
 ---
 
 Links:

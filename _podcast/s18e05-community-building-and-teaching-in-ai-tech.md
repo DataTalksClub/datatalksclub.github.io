@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - erumafzal
@@ -6,6 +7,8 @@ ids:
   anchor: lub/episodes/Community-Building-and-Teaching-in-AI--Tech---Erum-Afzal-e2jg61r
   youtube: 7SLd5V7z3xQ
 image: images/podcast/s18e05-community-building-and-teaching-in-ai-tech.jpg
+
+description: "Master community building and teaching in AI. Learn education strategies, community growth, and making AI accessible through teaching."
 links:
   anchor: https://podcasters.spotify.com/datatalksclub/episodes/Community-Building-and-Teaching-in-AI--Tech---Erum-Afzal-e2jg61r
   apple: https://podcasts.apple.com/us/podcast/community-building-and-teaching-in-ai-tech-erum-afzal/id1541710331?i=1000655187649
@@ -539,6 +542,7 @@ transcript:
   sec: 3508
   time: '58:28'
   who: Alexey
+
 ---
 
 Links:

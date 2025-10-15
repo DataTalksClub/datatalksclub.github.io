@@ -1,4 +1,5 @@
 ---
+
 episode: 1
 guests:
 - arsenykravchenko
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Building-Scalable-and-Reliable-Machine-Learning-Systems---Arseny-Kravchenko-e23m33q
   youtube: i-pIdekjUow
 image: images/podcast/s14e01-building-scalable-and-reliable-machine-learning-systems.jpg
+
+description: "Learn building scalable and reliable ML systems. Discover architecture patterns, monitoring, and production-grade machine learning at scale."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Building-Scalable-and-Reliable-Machine-Learning-Systems---Arseny-Kravchenko-e23m33q
   apple: https://podcasts.apple.com/us/podcast/building-scalable-and-reliable-machine-learning/id1541710331?i=1000612813133
@@ -936,6 +939,7 @@ transcript:
   sec: 3658
   time: '1:00:58'
   who: Alexey
+
 ---
 
 Links:

@@ -1,9 +1,12 @@
 ---
+
 title: "Freelancing in Machine Learning"
 short: "Freelancing in Machine Learning"
 guests: [mikiobraun]
 
 image: images/podcast/s04e08-freelancing.jpg
+
+description: "Master data science freelancing with Moritz Mair. Learn client acquisition, pricing, project management, and building freelance business."
 
 season: 4
 episode: 8
@@ -1141,6 +1144,7 @@ transcript:
   sec: 3827
   time: '1:03:47'
   who: Alexey
+
 
 ---
 

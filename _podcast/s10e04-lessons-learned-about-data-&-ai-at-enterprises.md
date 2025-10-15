@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - alexanderhendorf
@@ -6,6 +7,8 @@ ids:
   anchor: Lessons-Learned-About-Data--AI-at-Enterprises---Alexander-Hendorf-e1milm0/a-a8d08ua
   youtube: Vms29u9xC3k
 image: images/podcast/s10e04-lessons-learned-about-data-&-ai-at-enterprises.jpg
+
+description: "Discover enterprise data and AI lessons. Learn organizational challenges, adoption strategies, and success patterns in large organizations."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Lessons-Learned-About-Data--AI-at-Enterprises---Alexander-Hendorf-e1milm0/a-a8d08ua
   apple: https://podcasts.apple.com/us/podcast/lessons-learned-about-data-ai-at-enterprises-alexander/id1541710331?i=1000576622709
@@ -1017,6 +1020,7 @@ transcript:
   sec: 3807
   time: '1:03:27'
   who: Alexander
+
 ---
 
 Links:

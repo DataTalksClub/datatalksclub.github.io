@@ -1,4 +1,5 @@
 ---
+
 episode: 3
 guests:
 - dannyleybzon
@@ -6,6 +7,8 @@ ids:
   anchor: MLOps-Architect---Danny-Leybzon-e1m81iu
   youtube: p1gVaS4Zx5M
 image: images/podcast/s10e03-mlops-architect.jpg
+
+description: "Master MLOps architecture. Learn designing ML infrastructure, platform engineering, and scalable ML systems for production environments."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/MLOps-Architect---Danny-Leybzon-e1m81iu
   apple: https://podcasts.apple.com/us/podcast/mlops-architect-danny-leybzon/id1541710331?i=1000575901051
@@ -1263,6 +1266,7 @@ transcript:
   sec: 3587
   time: '59:47'
   who: Danny
+
 ---
 
 Links:

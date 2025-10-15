@@ -1,9 +1,12 @@
 ---
+
 title: "What I Learned After Interviewing 300 Data Scientists"
 short: "What I Learned After Interviewing 300 Data Scientists"
 guests: [olegnovikov]
 
 image: images/podcast/s03e04-interviewing-300-data-scientists.jpg
+
+description: "Learn hiring insights from interviewing 300+ data scientists. Discover patterns, red flags, and best practices for DS recruitment."
 
 season: 3
 episode: 4
@@ -945,6 +948,7 @@ transcript:
   sec: 4194
   time: '1:09:54'
   who: Alexey
+
 
 ---
 

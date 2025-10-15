@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - elenistamatelou
@@ -6,6 +7,8 @@ ids:
   anchor: datatalksclub/episodes/Bridging-Data-Science-and-Healthcare---Eleni-Stamatelou-e2aegvc
   youtube: pDOwlulDh0c
 image: images/podcast/s16e02-bridging-data-science-and-healthcare.jpg
+
+description: "Master bridging data science with healthcare. Learn medical AI, clinical applications, and improving healthcare outcomes with data science."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Bridging-Data-Science-and-Healthcare---Eleni-Stamatelou-e2aegvc
   apple: https://podcasts.apple.com/us/podcast/bridging-data-science-and-healthcare-eleni-stamatelou/id1541710331?i=1000632040444
@@ -996,6 +999,7 @@ transcript:
   sec: 3585
   time: '59:45'
   who: Alexey
+
 ---
 
 Links:

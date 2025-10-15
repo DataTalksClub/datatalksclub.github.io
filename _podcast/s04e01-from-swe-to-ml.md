@@ -1,9 +1,12 @@
 ---
+
 title: "From Software Engineering to Machine Learning"
 short: "From Software Engineering to Machine Learning"
 guests: [svpino]
 
 image: images/podcast/s04e01-from-swe-to-ml.jpg
+
+description: "Learn career transition from software engineering to ML. Discover required skills, learning paths, and success strategies for SWE-to-ML."
 
 season: 4
 episode: 1
@@ -1135,6 +1138,7 @@ transcript:
   sec: 3723
   time: '1:02:03'
   who: Alexey
+
 
 ---
 

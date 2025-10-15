@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - lerakaimashnikova
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/From-Marketing-to-Product-Owner-in-Search---Lera-Kaimashnkova-e2b33qt
   youtube: -HbQQ_bVdfE
 image: images/podcast/s16e04-from-marketing-to-product-owner-in-search.jpg
+
+description: "Learn transition from marketing to search product owner. Discover transferable skills, search technology, and product management in tech."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/From-Marketing-to-Product-Owner-in-Search---Lera-Kaimashnkova-e2b33qt
   apple: https://podcasts.apple.com/us/podcast/from-marketing-to-product-owner-in-search-lera-kaimashn%D1%96kova/id1541710331?i=1000633617858
@@ -965,6 +968,7 @@ transcript:
   sec: 3818
   time: '1:03:38'
   who: Alexey
+
 ---
 
 Links:

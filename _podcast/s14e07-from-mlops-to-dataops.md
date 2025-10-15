@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - santonatuli
@@ -6,6 +7,8 @@ ids:
   anchor: ow/datatalksclub/episodes/From-MLOps-to-DataOps---Santona-Tuli-e25vb0q
   youtube: kSTfhQ_SZgc
 image: images/podcast/s14e07-from-mlops-to-dataops.jpg
+
+description: "Learn transitioning from MLOps to DataOps. Discover operational differences, infrastructure skills, and expanding from ML to data operations."
 links:
   anchor: https://podcasters.spotify.com/pod/pod/show/datatalksclub/episodes/From-MLOps-to-DataOps---Santona-Tuli-e25vb0q
   apple: https://podcasts.apple.com/us/podcast/from-mlops-to-dataops-santona-tuli/id1541710331?i=1000618121008
@@ -991,6 +994,7 @@ transcript:
   sec: 3673
   time: '1:01:13'
   who: Santona
+
 ---
 
 Links:

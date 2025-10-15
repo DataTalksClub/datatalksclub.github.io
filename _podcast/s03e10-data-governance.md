@@ -1,9 +1,12 @@
 ---
+
 title: "Data Governance"
 short: "Data Governance"
 guests: [jessiashdown, urigilad]
 
 image: images/podcast/s03e10-data-governance.jpg
+
+description: "Learn data governance essentials with Laura Uzcategui. Discover policies, compliance, and best practices for data management."
 
 season: 3
 episode: 10
@@ -878,6 +881,7 @@ transcript:
   sec: 3640
   time: '1:00:40'
   who: Uri
+
 ---
 
 Links:

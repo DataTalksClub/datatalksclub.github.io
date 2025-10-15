@@ -1,4 +1,5 @@
 ---
+
 episode: 3
 guests:
 - ruslanshchuchkin
@@ -6,6 +7,8 @@ ids:
   anchor: ow/datatalksclub/episodes/Biohacking-for-Data-Scientists-and-ML-Engineers---Ruslan-Shchuchkin-e1vpm1i
   youtube: uyxUBADZYpU
 image: images/podcast/s13e03-biohacking-for-data-scientists-and-ml-engineers.jpg
+
+description: "Master biohacking for data professionals. Learn productivity optimization, health tracking, and peak performance for data scientists and ML engineers."
 links:
   anchor: https://podcasters.spotify.com/pod/pod/show/datatalksclub/episodes/Biohacking-for-Data-Scientists-and-ML-Engineers---Ruslan-Shchuchkin-e1vpm1i
   apple: https://podcasts.apple.com/us/podcast/biohacking-for-data-scientists-and-ml-engineers/id1541710331?i=1000603633848
@@ -1417,6 +1420,7 @@ transcript:
   sec: 3565
   time: '59:25'
   who: Alexey
+
 ---
 
 Links:

@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - mariavechtomova
@@ -6,6 +7,8 @@ ids:
   anchor: lub/episodes/Pragmatic-and-Standardized-MLOps---Maria-Vechtomova-e292ksv
   youtube: q3DTR3Od1MA
 image: images/podcast/s15e07-pragmatic-and-standardized-mlops.jpg
+
+description: "Master pragmatic MLOps standardization. Learn practical patterns, reusable components, and implementing scalable ML operations effectively."
 links:
   anchor: https://podcasters.spotify.com/datatalksclub/episodes/Pragmatic-and-Standardized-MLOps---Maria-Vechtomova-e292ksv
   apple: https://podcasts.apple.com/us/podcast/pragmatic-and-standardized-mlops-maria-vechtomova/id1541710331?i=1000627227242
@@ -1116,6 +1119,7 @@ transcript:
   sec: 3526
   time: '58:46'
   who: Alexey
+
 ---
 
 Links:

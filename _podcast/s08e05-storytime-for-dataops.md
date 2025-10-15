@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - christopherbergh
@@ -6,6 +7,8 @@ ids:
   anchor: Storytime-for-DataOps---Christopher-Bergh-e1hgl0m
   youtube: 0Fx5PCoLkf4
 image: images/podcast/s08e05-storytime-for-dataops.jpg
+
+description: "Learn DataOps through real stories. Discover practical lessons, common pitfalls, and success patterns from experienced data operations teams."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Storytime-for-DataOps---Christopher-Bergh-e1hgl0m
   apple: https://podcasts.apple.com/us/podcast/storytime-for-dataops-christopher-bergh/id1541710331?i=1000558399936
@@ -1066,6 +1069,7 @@ transcript:
   sec: 3744
   time: '1:02:24'
   who: Alexey
+
 ---
 
 Links:

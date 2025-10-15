@@ -1,9 +1,12 @@
 ---
+
 title: "Building Business Acumen for Data Professionals"
 short: "Building Business Acumen for Data Professionals"
 guests: [thomives]
 
 image: images/podcast/s05e09-business-acumen.jpg
+
+description: "Master business acumen for data scientists. Learn finance basics, ROI calculation, and aligning data projects with business goals."
 
 season: 5
 episode: 9
@@ -1064,6 +1067,7 @@ transcript:
   sec: 3992
   time: '1:06:32'
   who: Thom
+
 
 ---
 

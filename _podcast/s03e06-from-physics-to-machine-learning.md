@@ -1,9 +1,12 @@
 ---
+
 title: "From Physics to Machine Learning"
 short: "From Physics to Machine Learning"
 guests: [tatianagabruseva]
 
 image: images/podcast/s03e06-from-physics-to-machine-learning.jpg
+
+description: "Discover career path from physics to ML with Priscilla Jiang. Learn transferable skills, transition strategies, and academic-to-industry tips."
 
 season: 3
 episode: 6
@@ -1150,6 +1153,7 @@ transcript:
   sec: 4090
   time: '1:08:10'
   who: Alexey
+
 
 ---
 

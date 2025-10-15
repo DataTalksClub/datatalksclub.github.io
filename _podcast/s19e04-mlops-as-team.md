@@ -6,6 +6,9 @@ ids:
   anchor: atalksclub/episodes/MLOps-as-a-Team---Raphal-Hoogvliets-e2qnnu5/a-abkcdlr
   youtube: rMq63r3zi4c
 image: images/podcast/s19e04-mlops-as-team.jpg
+
+description: "Discover MLOps as team discipline. Learn collaborative ML operations, team structure, and building effective MLOps practices together."
+
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/MLOps-as-a-Team---Raphal-Hoogvliets-e2qnnu5/a-abkcdlr
   apple: https://podcasts.apple.com/us/podcast/mlops-as-a-team-rapha%C3%ABl-hoogvliets/id1541710331?i=1000676238840

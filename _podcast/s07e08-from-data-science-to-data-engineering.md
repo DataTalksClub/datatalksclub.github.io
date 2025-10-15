@@ -1,4 +1,5 @@
 ---
+
 episode: 8
 guests:
 - ellenkonig
@@ -6,6 +7,8 @@ ids:
   anchor: From-Data-Science-to-Data-Engineering---Ellen-Knig-e1fgfbm
   youtube: 3TTu-hYzxeg
 image: images/podcast/s07e08-from-data-science-to-data-engineering.jpg
+
+description: "Master career switch from data science to data engineering. Learn required skills, tools, and strategies for successful DS-to-DE transition."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/From-Data-Science-to-Data-Engineering---Ellen-Knig-e1fgfbm
   apple: https://podcasts.apple.com/us/podcast/from-data-science-to-data-engineering-ellen-k%C3%B6nig/id1541710331?i=1000553736781
@@ -1134,6 +1137,7 @@ transcript:
   sec: 3659
   time: '1:00:59'
   who: Ellen
+
 
 
 ---

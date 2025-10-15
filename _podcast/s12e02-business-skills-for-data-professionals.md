@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - lorismarini
@@ -6,6 +7,8 @@ ids:
   anchor: Business-Skills-for-Data-Professionals---Loris-Marini-e1s89hu
   youtube: xMYRUiTu960
 image: images/podcast/s12e02-business-skills-for-data-professionals.jpg
+
+description: "Master business skills for data professionals. Learn finance, strategy, communication, and driving business impact with data insights."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Business-Skills-for-Data-Professionals---Loris-Marini-e1s89hu
   apple: https://podcasts.apple.com/us/podcast/business-skills-for-data-professionals-loris-marini/id1541710331?i=1000590422440
@@ -1112,6 +1115,7 @@ transcript:
   sec: 3717
   time: '1:01:57'
   who: Loris
+
 ---
 
 Links:

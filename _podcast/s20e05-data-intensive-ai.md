@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - bartoszmikulski
@@ -6,6 +7,8 @@ ids:
   anchor: atalksclub/episodes/Data-Intensive-AI---Bartosz-Mikulski-e30fhoi
   youtube: BP6w_vKySN0
 image: images/podcast/s20e05-data-intensive-ai.jpg
+
+description: "Learn data-intensive AI approaches. Discover scaling data processing, big data ML, and building AI systems that handle massive datasets."
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Data-Intensive-AI---Bartosz-Mikulski-e30fhoi
   apple: https://podcasts.apple.com/us/podcast/data-intensive-ai-bartosz-mikulski/id1541710331?i=1000700288876
@@ -1021,6 +1024,7 @@ transcript:
   sec: 3697
   time: '1:01:37'
   who: Alexey
+
 ---
 
 Links:

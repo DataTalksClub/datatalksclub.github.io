@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - marijnmarkus
@@ -6,6 +7,8 @@ ids:
   anchor: Hacking-Your-Data-Career---Marijn-Markus-e1gijep
   youtube: RhSg8ill1So
 image: images/podcast/s08e02-hacking-your-data-career.jpg
+
+description: "Master hacking your data career growth. Learn unconventional strategies, skill stacking, and accelerating career progression in data."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Hacking-Your-Data-Career---Marijn-Markus-e1gijep
   apple: https://podcasts.apple.com/us/podcast/hacking-your-data-career-marijn-markus/id1541710331?i=1000555977653
@@ -1192,6 +1195,7 @@ transcript:
   sec: 3806
   time: '1:03:26'
   who: Marijn
+
 ---
 
 Links:

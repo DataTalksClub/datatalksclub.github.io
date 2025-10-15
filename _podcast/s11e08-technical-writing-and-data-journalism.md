@@ -1,4 +1,5 @@
 ---
+
 episode: 8
 guests:
 - angelicaloduca
@@ -6,6 +7,8 @@ ids:
   anchor: Technical-Writing-and-Data-Journalism---Angelica-Lo-Duca-e1r7j8k
   youtube: uO_lk12q02A
 image: images/podcast/s11e08-technical-writing-and-data-journalism.jpg
+
+description: "Master technical writing and data journalism. Learn storytelling with data, writing compelling narratives, and communicating insights effectively."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Technical-Writing-and-Data-Journalism---Angelica-Lo-Duca-e1r7j8k
   apple: https://podcasts.apple.com/us/podcast/technical-writing-and-data-journalism-angelica-lo-duca/id1541710331?i=1000587507530
@@ -973,6 +976,7 @@ transcript:
   sec: 3810
   time: '1:03:30'
   who: Alexey
+
 ---
 
 Links:

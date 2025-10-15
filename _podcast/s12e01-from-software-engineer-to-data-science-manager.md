@@ -1,4 +1,5 @@
 ---
+
 episode: 1
 guests:
 - sadatanwar
@@ -6,6 +7,8 @@ ids:
   anchor: From-Software-Engineer-to-Data-Science-Manager---Sadat-Anwar-e1rqkdf
   youtube: xyTfqIWeKf8
 image: images/podcast/s12e01-from-software-engineer-to-data-science-manager.jpg
+
+description: "Discover transition from software engineer to DS manager. Learn leadership skills, technical management, and building high-performing teams."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/From-Software-Engineer-to-Data-Science-Manager---Sadat-Anwar-e1rqkdf
   apple: https://podcasts.apple.com/us/podcast/from-software-engineer-to-data-science-manager-sadat-anwar/id1541710331?i=1000589637838
@@ -1379,6 +1382,7 @@ transcript:
   sec: 3693
   time: '1:01:33'
   who: Sadat
+
 ---
 
 Links:

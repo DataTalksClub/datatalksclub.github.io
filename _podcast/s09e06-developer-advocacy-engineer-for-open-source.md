@@ -1,4 +1,5 @@
 ---
+
 episode: 6
 guests:
 - mervenoyan
@@ -6,6 +7,8 @@ ids:
   anchor: Developer-Advocacy-Engineer-for-Open-Source---Merve-Noyan-e1kcm3u
   youtube: SnEYvF-Ztb8
 image: images/podcast/s09e06-developer-advocacy-engineer-for-open-source.jpg
+
+description: "Master developer advocacy for open source. Learn community engagement, technical content creation, and supporting open source communities."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Developer-Advocacy-Engineer-for-Open-Source---Merve-Noyan-e1kcm3u
   apple: https://podcasts.apple.com/us/podcast/developer-advocacy-engineer-for-open-source-merve-noyan/id1541710331?i=1000568463048
@@ -1085,6 +1088,7 @@ transcript:
   sec: 3570
   time: '59:30'
   who: Alexey
+
 ---
 
 Links:

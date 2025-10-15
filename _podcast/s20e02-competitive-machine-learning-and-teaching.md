@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - alexanderguschin
@@ -6,6 +7,8 @@ ids:
   anchor: atalksclub/episodes/Competitive-Machine-Leaning-And-Teaching--Alexander-Guschin-e2uslu8
   youtube: NfAJAr7FvyY&t
 image: images/podcast/s20e02-competitive-machine-learning-and-teaching.jpg
+
+description: "Master competitive ML and teaching. Learn Kaggle strategies, competition skills, and teaching ML through hands-on competitive learning."
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Competitive-Machine-Leaning-And-Teaching--Alexander-Guschin-e2uslu8
   apple: https://podcasts.apple.com/us/podcast/competitive-machine-leaning-and-teaching-alexander/id1541710331?i=1000692309866
@@ -601,6 +604,7 @@ transcript:
   sec: 4139
   time: '1:08:59'
   who: Alexey
+
 ---
 
 Links:

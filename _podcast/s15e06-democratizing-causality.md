@@ -1,4 +1,5 @@
 ---
+
 episode: 6
 guests:
 - aleksandermolak
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Democratizing-Causality---Aleksander-Molak-e28e0vh
   youtube: 0I2FHH95Ofs
 image: images/podcast/s15e06-democratizing-causality.jpg
+
+description: "Discover democratizing causal inference. Learn accessible causality methods, tools, and applying causal thinking beyond specialized research."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Democratizing-Causality---Aleksander-Molak-e28e0vh
   apple: https://podcasts.apple.com/us/podcast/democratizing-causality-aleksander-molak/id1541710331?i=1000625694605
@@ -1157,6 +1160,7 @@ transcript:
   sec: 4080
   time: '1:08:00'
   who: Alexey
+
 ---
 
 Links:

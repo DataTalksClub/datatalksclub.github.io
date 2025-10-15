@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - liorbarak
@@ -6,6 +7,8 @@ ids:
   anchor: datatalksclub/episodes/How-to-Rebuild-Data-Trust--Mindful-Data-Strategy-and-Maintenance-vs-Innovation---Lior-Barak-e36obcs
   youtube: B76J4QkZPWs
 image: images/podcast/s21e02-mindful-data-strategy-from-pipelines-to-business-impact.jpg
+
+description: "Learn mindful data strategy. Discover aligning technical work with business goals, measuring impact, and strategic thinking for data leaders."
 links:
   anchor: https://creators.spotify.com/pod/profile/datatalksclub/episodes/How-to-Rebuild-Data-Trust--Mindful-Data-Strategy-and-Maintenance-vs-Innovation---Lior-Barak-e36obcs
   apple: https://podcasts.apple.com/us/podcast/how-to-rebuild-data-trust-mindful-data-strategy-and/id1541710331?i=1000722107501
@@ -1252,6 +1255,7 @@ transcript:
   sec: 3965
   time: '1:06:05'
   who: Alexey
+
 ---
 
 Links:

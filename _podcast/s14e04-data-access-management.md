@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - bartvandekerckhove
@@ -6,6 +7,8 @@ ids:
   anchor: ow/datatalksclub/episodes/Data-Access-Management---Bart-Vandekerckhove-e253r4u
   youtube: IiPOIiUy5b4
 image: images/podcast/s14e04-data-access-management.jpg
+
+description: "Learn data access management. Discover security, permissions, governance, and controlling data access across organizations securely."
 links:
   anchor: https://podcasters.spotify.com/pod/pod/show/datatalksclub/episodes/Data-Access-Management---Bart-Vandekerckhove-e253r4u
   apple: https://podcasts.apple.com/us/podcast/data-access-management-bart-vandekerckhove/id1541710331?i=1000615456026
@@ -1038,6 +1041,7 @@ transcript:
   sec: 3441
   time: '57:21'
   who: Alexey
+
 ---
 
 Links:

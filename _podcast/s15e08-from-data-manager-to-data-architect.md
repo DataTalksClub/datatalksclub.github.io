@@ -1,4 +1,5 @@
 ---
+
 episode: 8
 guests:
 - loicmagnien
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/From-Data-Manager-to-Data-Architect---Loc-Magnien-e29rk73
   youtube: qWG--iYO2uc
 image: images/podcast/s15e08-from-data-manager-to-data-architect.jpg
+
+description: "Learn transition from data manager to architect. Discover technical architecture skills, strategic thinking, and designing data systems at scale."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/From-Data-Manager-to-Data-Architect---Loc-Magnien-e29rk73
   apple: https://podcasts.apple.com/us/podcast/from-data-manager-to-data-architect-lo%C3%AFc-magnien/id1541710331?i=1000629678056
@@ -926,6 +929,7 @@ transcript:
   sec: 3732
   time: '1:02:12'
   who: Loïc
+
 ---
 
 Links:

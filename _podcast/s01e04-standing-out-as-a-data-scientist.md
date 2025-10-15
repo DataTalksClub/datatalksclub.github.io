@@ -1,9 +1,12 @@
 ---
+
 title: "Standing out as a Data Scientist"
 short: "Standing out as a Data Scientist"
 guests: [lukewhipps]
 
 image: images/podcast/s01e04-standing-out-as-a-data-scientist.jpg
+
+description: "Discover how to stand out as a data scientist with Hamel Husain. Learn career strategies, portfolio building, and differentiation tactics."
 
 season: 1
 episode: 4
@@ -1102,5 +1105,6 @@ transcript:
   sec: 4226
   time: '1:10:26'
   who: Alexey
+
 
 ---

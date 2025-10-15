@@ -1,9 +1,12 @@
 ---
+
 title: "Build Your Own Data Pipeline"
 short: "Build Your Own Data Pipeline"
 guests: [andreaskretz]
 
 image: images/podcast/s04e02-build-your-own-data-pipeline.jpg
+
+description: "Master building data pipelines from scratch. Learn architecture, tools, and best practices for scalable data infrastructure."
 
 season: 4
 episode: 2
@@ -1031,6 +1034,7 @@ transcript:
   sec: 3791
   time: '1:03:11'
   who: Alexey
+
 ---
 
 

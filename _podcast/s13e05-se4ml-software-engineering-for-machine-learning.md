@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - nadianahar
@@ -6,6 +7,8 @@ ids:
   anchor: ow/datatalksclub/episodes/SE4ML---Software-Engineering-for-Machine-Learning---Nadia-Nahar-e20svmn
   youtube: 35Ch8xL2SA8
 image: images/podcast/s13e05-se4ml-software-engineering-for-machine-learning.jpg
+
+description: "Discover software engineering for ML. Learn engineering best practices, code quality, testing, and building maintainable ML systems."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/SE4ML---Software-Engineering-for-Machine-Learning---Nadia-Nahar-e20svmn
   apple: https://podcasts.apple.com/us/podcast/se4ml-software-engineering-for-machine-learning-nadia/id1541710331?i=1000605782433
@@ -1075,6 +1078,7 @@ transcript:
   sec: 3601
   time: '1:00:01'
   who: Nadia
+
 ---
 
 Links:

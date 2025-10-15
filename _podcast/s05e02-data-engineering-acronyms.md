@@ -1,9 +1,12 @@
 ---
+
 title: "Making Sense of Data Engineering Acronyms and Buzzwords"
 short: "Making Sense of Data Engineering Acronyms and Buzzwords"
 guests: [nataliekwong]
 
 image: images/podcast/s05e02-data-engineering-acronyms.jpg
+
+description: "Learn data engineering terminology with Zach Wilson. Discover essential acronyms, tools, and concepts every data professional should know."
 
 season: 5
 episode: 2
@@ -1039,6 +1042,7 @@ transcript:
   sec: 3689
   time: '1:01:29'
   who: Alexey
+
 
 ---
 

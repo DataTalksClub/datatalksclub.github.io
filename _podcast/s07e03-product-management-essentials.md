@@ -1,9 +1,12 @@
 ---
+
 title: "Product Management Essentials for Data Professionals"
 short: "Product Management Essentials for Data Professionals"
 guests: [gregcoquillo]
 
 image: images/podcast/s07e03-product-management-essentials.jpg
+
+description: "Master product management essentials for data products. Learn prioritization, roadmapping, and delivering value with data-driven products."
 
 season: 7
 episode: 3
@@ -889,6 +892,7 @@ transcript:
   sec: 3647
   time: '1:00:47'
   who: Alexey
+
 ---
 
 Links:
