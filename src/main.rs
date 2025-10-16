@@ -186,6 +186,7 @@ impl SiteGenerator {
         options.insert(Options::ENABLE_FOOTNOTES);
         options.insert(Options::ENABLE_STRIKETHROUGH);
         options.insert(Options::ENABLE_TASKLISTS);
+        options.insert(Options::ENABLE_SMART_PUNCTUATION);
 
         let parser = Parser::new_ext(markdown, options);
         let mut html_output = String::new();
@@ -338,14 +339,227 @@ impl SiteGenerator {
         Ok(pages)
     }
 
+    fn apply_filters<'a>(&self, mut pages: Vec<&'a Page>, filters: &[&str]) -> Vec<&'a Page> {
+        for filter in filters {
+            let filter = filter.trim();
+            
+            if filter.starts_with("sort:") {
+                // Extract field name from sort: 'field' or sort: "field"
+                let field = filter[5..].trim().trim_matches(|c| c == '\'' || c == '"');
+                
+                pages.sort_by(|a, b| {
+                    match field {
+                        "episode" => {
+                            // Try to extract episode number from frontmatter or filename
+                            let a_ep = a.frontmatter.extra.get("episode")
+                                .and_then(|v| v.as_i64())
+                                .unwrap_or(0);
+                            let b_ep = b.frontmatter.extra.get("episode")
+                                .and_then(|v| v.as_i64())
+                                .unwrap_or(0);
+                            a_ep.cmp(&b_ep)
+                        }
+                        "season" => {
+                            let a_season = a.frontmatter.extra.get("season")
+                                .and_then(|v| v.as_i64())
+                                .unwrap_or(0);
+                            let b_season = b.frontmatter.extra.get("season")
+                                .and_then(|v| v.as_i64())
+                                .unwrap_or(0);
+                            a_season.cmp(&b_season)
+                        }
+                        "date" => {
+                            a.frontmatter.date.as_ref().cmp(&b.frontmatter.date.as_ref())
+                        }
+                        "title" => {
+                            a.frontmatter.title.as_ref().cmp(&b.frontmatter.title.as_ref())
+                        }
+                        _ => std::cmp::Ordering::Equal,
+                    }
+                });
+            } else if filter == "reverse" {
+                pages.reverse();
+            }
+        }
+        
+        pages
+    }
+    
+    fn apply_data_filters(&self, mut items: Vec<serde_yaml::Value>, filters: &[&str]) -> Vec<serde_yaml::Value> {
+        for filter in filters {
+            let filter = filter.trim();
+            
+            if filter.starts_with("sort:") {
+                let field = filter[5..].trim().trim_matches(|c| c == '\'' || c == '"');
+                
+                items.sort_by(|a, b| {
+                    let a_val = a.as_mapping().and_then(|m| {
+                        m.get(&serde_yaml::Value::String(field.to_string()))
+                    });
+                    let b_val = b.as_mapping().and_then(|m| {
+                        m.get(&serde_yaml::Value::String(field.to_string()))
+                    });
+                    
+                    match (a_val, b_val) {
+                        (Some(a), Some(b)) => {
+                            // Try to compare as strings
+                            match (a.as_str(), b.as_str()) {
+                                (Some(a_str), Some(b_str)) => a_str.cmp(b_str),
+                                _ => std::cmp::Ordering::Equal,
+                            }
+                        }
+                        _ => std::cmp::Ordering::Equal,
+                    }
+                });
+            } else if filter == "reverse" {
+                items.reverse();
+            } else if filter.starts_with("where_exp:") {
+                // Simple where_exp implementation
+                // Format: where_exp: "item", "item.field != value" or "item.field > site.time"
+                // For now, we'll filter based on common patterns
+                
+                // Extract the condition - it's complex, so we'll handle specific cases
+                let condition_part = filter[10..].trim();
+                
+                // Handle draft filter: event.draft != true
+                if condition_part.contains("draft != true") {
+                    items.retain(|item| {
+                        if let Some(mapping) = item.as_mapping() {
+                            let draft = mapping.get(&serde_yaml::Value::String("draft".to_string()))
+                                .and_then(|v| v.as_bool())
+                                .unwrap_or(false);
+                            !draft
+                        } else {
+                            true
+                        }
+                    });
+                }
+                
+                // Handle time filter: event.time > site.time (future events)
+                if condition_part.contains("time > site.time") {
+                    use chrono::Utc;
+                    let now = Utc::now();
+                    
+                    items.retain(|item| {
+                        if let Some(mapping) = item.as_mapping() {
+                            if let Some(time_val) = mapping.get(&serde_yaml::Value::String("time".to_string())) {
+                                if let Some(time_str) = time_val.as_str() {
+                                    // Try to parse the time
+                                    if let Ok(event_time) = chrono::DateTime::parse_from_str(time_str, "%Y-%m-%d %H:%M:%S") {
+                                        return event_time.with_timezone(&Utc) > now;
+                                    }
+                                }
+                            }
+                        }
+                        false
+                    });
+                }
+                
+                // Handle end time filter: book.end > site.time
+                if condition_part.contains("end > site.time") {
+                    use chrono::Utc;
+                    let now = Utc::now();
+                    
+                    items.retain(|item| {
+                        if let Some(mapping) = item.as_mapping() {
+                            if let Some(end_val) = mapping.get(&serde_yaml::Value::String("end".to_string())) {
+                                if let Some(end_str) = end_val.as_str() {
+                                    if let Ok(end_time) = chrono::DateTime::parse_from_str(end_str, "%Y-%m-%d %H:%M:%S") {
+                                        return end_time.with_timezone(&Utc) > now;
+                                    }
+                                }
+                            }
+                        }
+                        false
+                    });
+                }
+            }
+        }
+        
+        items
+    }
+
     fn process_template(&self, template: &str, replacements: &HashMap<String, String>, all_pages: &[Page]) -> String {
         let mut result = template.to_string();
+        let mut assigned_variables: HashMap<String, Vec<&Page>> = HashMap::new();
+        let mut assigned_data: HashMap<String, Vec<serde_yaml::Value>> = HashMap::new();
         
-        // Process assign statements {% assign var = site.collection %}
-        // For simplicity, we'll just remove them and handle collections directly in loops
-        // The (?s) flag makes . match newlines
-        let assign_re = Regex::new(r"(?s)\{%\s*assign\s+\w+\s*=\s*.*?%\}").unwrap();
-        result = assign_re.replace_all(&result, "").to_string();
+        // Process assign statements {% assign var = source | filters %}
+        let assign_re = Regex::new(r"(?s)\{%\s*assign\s+(\w+)\s*=\s*(.*?)%\}").unwrap();
+        let assigns: Vec<_> = assign_re.captures_iter(&result).map(|cap| {
+            let var_name = cap.get(1).unwrap().as_str().to_string();
+            let expression = cap.get(2).unwrap().as_str().trim().to_string();
+            let full_match = cap.get(0).unwrap().as_str().to_string();
+            (var_name, expression, full_match)
+        }).collect();
+        
+        for (var_name, expression, full_match) in assigns {
+            // Parse the expression to get source and filters
+            let parts: Vec<&str> = expression.split('|').map(|s| s.trim()).collect();
+            let source = parts[0];
+            let filters = &parts[1..];
+            
+            // Get the source collection or data
+            if source.starts_with("site.data.") {
+                let data_name = &source[10..];
+                if let Some(data) = self.data_files.get(data_name) {
+                    if let Some(data_array) = data.as_sequence() {
+                        let mut items: Vec<serde_yaml::Value> = data_array.iter().cloned().collect();
+                        
+                        // Apply filters
+                        items = self.apply_data_filters(items, filters);
+                        
+                        assigned_data.insert(var_name.clone(), items);
+                    }
+                }
+            } else if source.starts_with("site.") {
+                let collection_name = &source[5..];
+                let mut collection_pages: Vec<&Page> = if collection_name == "posts" {
+                    all_pages.iter().filter(|p| p.relative_path.starts_with("_posts/")).collect()
+                } else {
+                    all_pages.iter().filter(|p| p.relative_path.starts_with(&format!("_{}/", collection_name))).collect()
+                };
+                
+                // Apply filters
+                collection_pages = self.apply_filters(collection_pages, filters);
+                
+                assigned_variables.insert(var_name.clone(), collection_pages);
+            }
+            
+            // Remove the assign statement
+            result = result.replace(&full_match, "");
+        }
+        
+        // After removing all assigns, normalize whitespace to prevent code blocks
+        // Remove lines that are now empty or just whitespace after assign removal
+        let lines: Vec<&str> = result.lines().collect();
+        let mut normalized_lines = Vec::new();
+        let mut in_html_block = false;
+        
+        for line in lines {
+            // Check if this line starts an HTML block
+            if line.trim_start().starts_with('<') && !line.trim_start().starts_with("</") {
+                in_html_block = true;
+            }
+            
+            // For HTML blocks, remove leading whitespace to prevent code block interpretation
+            if in_html_block && line.trim().starts_with('<') {
+                normalized_lines.push(line.trim_start());
+            } else if !line.trim().is_empty() || !in_html_block {
+                normalized_lines.push(line);
+            }
+            
+            // Check if this line closes the HTML block
+            if line.trim().starts_with("</div>") || line.trim() == "</ul>" || line.trim() == "</p>" {
+                // Check if we're closing the outermost block
+                let open_count = result[..result.find(line).unwrap_or(0)].matches("<div").count();
+                let close_count = result[..result.find(line).unwrap_or(0)].matches("</div>").count();
+                if open_count <= close_count + 1 {
+                    in_html_block = false;
+                }
+            }
+        }
+        result = normalized_lines.join("\n");
         
         // Process for loops {% for item in collection %} ... {% endfor %}
         // Updated regex to handle both direct site.collection and assigned variables
@@ -360,21 +574,64 @@ impl SiteGenerator {
             
             let mut loop_output = String::new();
             
-            // Handle different collection types
-            // For assigned variables like "episodes", treat as site.podcast
-            let actual_path = if collection_path == "episodes" || collection_path == "upcoming" || collection_path == "books" {
-                match collection_path {
-                    "episodes" => "site.podcast",
-                    "upcoming" => "site.data.events",
-                    "books" => "site.books",
-                    _ => collection_path,
+            // Check if this is an assigned variable
+            if let Some(assigned_pages) = assigned_variables.get(collection_path) {
+                // Use assigned variable (already filtered/sorted)
+                let items: Vec<_> = if let Some(limit_val) = limit {
+                    assigned_pages.iter().take(limit_val).collect()
+                } else {
+                    assigned_pages.iter().collect()
+                };
+                
+                for (idx, page) in items.iter().enumerate() {
+                    let mut item_replacements = replacements.clone();
+                    
+                    if let Some(title) = &page.frontmatter.title {
+                        item_replacements.insert(format!("{}.title", item_name), title.clone());
+                    }
+                    if let Some(authors) = &page.frontmatter.authors {
+                        item_replacements.insert(format!("{}.authors", item_name), authors.join(", "));
+                    }
+                    
+                    let id = page.output_path.trim_end_matches(".html");
+                    item_replacements.insert(format!("{}.id", item_name), id.to_string());
+                    item_replacements.insert("forloop.last".to_string(), (idx == items.len() - 1).to_string());
+                    
+                    let processed_body = self.process_simple_vars(&loop_body, &item_replacements);
+                    loop_output.push_str(&processed_body);
                 }
-            } else {
-                collection_path
-            };
-            
-            if actual_path.starts_with("site.") && !actual_path.starts_with("site.data.") {
-                let collection_name = &actual_path[5..]; // Remove "site."
+            } else if let Some(assigned_data_items) = assigned_data.get(collection_path) {
+                // Use assigned data variable
+                let items: Vec<_> = if let Some(limit_val) = limit {
+                    assigned_data_items.iter().take(limit_val).collect()
+                } else {
+                    assigned_data_items.iter().collect()
+                };
+                
+                for (idx, data_item) in items.iter().enumerate() {
+                    let mut item_replacements = replacements.clone();
+                    
+                    if let Some(obj) = data_item.as_mapping() {
+                        for (key, value) in obj {
+                            if let Some(key_str) = key.as_str() {
+                                let value_str = match value {
+                                    serde_yaml::Value::String(s) => s.clone(),
+                                    serde_yaml::Value::Number(n) => n.to_string(),
+                                    serde_yaml::Value::Bool(b) => b.to_string(),
+                                    _ => String::new(),
+                                };
+                                item_replacements.insert(format!("{}.{}", item_name, key_str), value_str);
+                            }
+                        }
+                    }
+                    
+                    item_replacements.insert("forloop.last".to_string(), (idx == items.len() - 1).to_string());
+                    
+                    let processed_body = self.process_simple_vars(&loop_body, &item_replacements);
+                    loop_output.push_str(&processed_body);
+                }
+            } else if collection_path.starts_with("site.") && !collection_path.starts_with("site.data.") {
+                let collection_name = &collection_path[5..]; // Remove "site."
                 
                 // Get pages from collection
                 let mut collection_pages: Vec<&Page> = if collection_name == "posts" {
@@ -570,37 +827,35 @@ impl SiteGenerator {
     }
 
     fn render_page(&self, page: &Page, all_pages: &[Page]) -> Result<String> {
-        let html_content = self.markdown_to_html(&page.content);
-        
-        let mut replacements = HashMap::new();
-        replacements.insert("content".to_string(), html_content.clone());
+        // First, set up page variables for template processing
+        let mut page_replacements = HashMap::new();
         
         if let Some(title) = &page.frontmatter.title {
-            replacements.insert("page.title".to_string(), title.clone());
+            page_replacements.insert("page.title".to_string(), title.clone());
         }
         
         if let Some(subtitle) = &page.frontmatter.subtitle {
-            replacements.insert("page.subtitle".to_string(), subtitle.clone());
+            page_replacements.insert("page.subtitle".to_string(), subtitle.clone());
         }
         
         if let Some(date) = &page.frontmatter.date {
-            replacements.insert("page.date".to_string(), date.clone());
+            page_replacements.insert("page.date".to_string(), date.clone());
         }
         
         if let Some(description) = &page.frontmatter.description {
-            replacements.insert("page.description".to_string(), description.clone());
+            page_replacements.insert("page.description".to_string(), description.clone());
         }
         
         if let Some(image) = &page.frontmatter.image {
-            replacements.insert("page.image".to_string(), image.clone());
+            page_replacements.insert("page.image".to_string(), image.clone());
         }
         
         if let Some(picture) = &page.frontmatter.picture {
-            replacements.insert("page.picture".to_string(), picture.clone());
+            page_replacements.insert("page.picture".to_string(), picture.clone());
         }
         
         if let Some(short) = &page.frontmatter.short {
-            replacements.insert("page.short".to_string(), short.clone());
+            page_replacements.insert("page.short".to_string(), short.clone());
         }
         
         // Determine page name for conditional logic
@@ -609,13 +864,23 @@ impl SiteGenerator {
         } else {
             ""
         };
-        replacements.insert("page.name".to_string(), page_name.to_string());
+        page_replacements.insert("page.name".to_string(), page_name.to_string());
         
         let url = format!("/{}", page.output_path);
-        replacements.insert("page.url".to_string(), url);
+        page_replacements.insert("page.url".to_string(), url);
         
         let layout = page.frontmatter.layout.as_deref().unwrap_or("page");
-        replacements.insert("page.layout".to_string(), layout.to_string());
+        page_replacements.insert("page.layout".to_string(), layout.to_string());
+        
+        // Process Liquid templates in the page content BEFORE converting to HTML
+        let processed_content = self.process_template(&page.content, &page_replacements, all_pages);
+        
+        // Now convert the processed content to HTML
+        let html_content = self.markdown_to_html(&processed_content);
+        
+        // Add the HTML content to replacements for layout processing
+        let mut replacements = page_replacements;
+        replacements.insert("content".to_string(), html_content.clone());
         
         if let Some(layout_template) = self.layouts.get(layout) {
             let rendered = self.process_template(layout_template, &replacements, all_pages);
