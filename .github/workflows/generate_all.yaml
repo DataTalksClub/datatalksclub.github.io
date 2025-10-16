@@ -21,10 +21,10 @@ jobs:
         with:
           python-version: '3.12'
       - uses: actions/checkout@v2
-      - name: pipenv install
+      - name: uv install
         run: |
-          pip install pipenv
-          pipenv install
+          pip install uv
+          uv sync
       - name: npm install
         run: |
           (cd previews && \

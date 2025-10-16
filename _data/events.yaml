@@ -1,4 +1,25 @@
 
+- time: 2025-11-17 17:00:00
+  title: "Reinventing a Career in Tech"
+  speakers: [xiahebleinagel]
+  type: podcast
+  link: https://luma.com/ifmqg2xb
+
+
+- time: 2025-10-28 17:00:00
+  title: "From Black-Box Systems to Augmented Decision-Making"
+  speakers: [anushaakkina]
+  type: podcast
+  link: https://luma.com/gqmsx9zd
+
+
+- time: 2025-10-21 17:00:00
+  title: "How to Build and Evaluate AI systems in the Age of LLMs"
+  speakers: [hugobowneanderson]
+  type: podcast
+  link: https://luma.com/w65omumd
+
+
 - time: 2025-10-14 17:00:00
   title: "Advancing Cancer Genomics with Machine Learning"
   speakers: [rileensinha]

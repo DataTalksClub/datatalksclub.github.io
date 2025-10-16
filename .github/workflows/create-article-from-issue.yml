@@ -38,10 +38,10 @@ jobs:
       - name: Create gitbash alias
         run: sudo ln -s /bin/bash /bin/gitbash
 
-      - name: pipenv install
+      - name: uv install
         run: |
-          pip install pipenv
-          pipenv install
+          pip install uv
+          uv sync
       - name: npm install
         run: |
           (cd previews && \
@@ -87,7 +87,7 @@ jobs:
 
       - name: Run the article generation script
         run: |
-          pipenv run python scripts/pandoc_google_doc.py \
+          uv run python scripts/pandoc_google_doc.py \
             --fileid "${{ steps.extract.outputs.fileid }}" \
             --author "${{ steps.extract.outputs.author }}" \
             --tags "${{ steps.extract.outputs.tags }}"

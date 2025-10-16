@@ -1,19 +1,19 @@
 people:
-	pipenv run python scripts/airtable.py people
+	uv run python scripts/airtable.py people
 
 books:
-	pipenv run python scripts/airtable.py books
+	uv run python scripts/airtable.py books
 
 podcast:
-	pipenv run python scripts/airtable.py podcast
+	uv run python scripts/airtable.py podcast
 
 events:
-	pipenv run python scripts/airtable.py events
+	uv run python scripts/airtable.py events
 
 all: people books podcast events
 
 doc:
-	pipenv run python scripts/pandoc_google_doc.py -i
+	uv run python scripts/pandoc_google_doc.py -i
 
 run:
 	bundle exec jekyll serve

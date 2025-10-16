@@ -29,7 +29,7 @@ Open [http://localhost:4000](http://localhost:4000)
 Installing the requirements:
 
 ```bash
-pipenv install 
+uv sync
 
 cd previews
 npm install
@@ -39,13 +39,13 @@ cd ..
 Running:
 
 ```bash
-pipenv run python scripts/create.py
+uv run python scripts/create.py
 ``` 
 
 ### Generating post from docx
 
 ```bash
-python scripts/pandoc_full.py \
+uv run python scripts/pandoc_full.py \
     --input ~/Downloads/template.docx \
     --author angelicaloduca \
     --tags "mlops,devops,process"
