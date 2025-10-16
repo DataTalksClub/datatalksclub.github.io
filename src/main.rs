@@ -111,15 +111,16 @@ impl SiteGenerator {
         })
     }
 
-    fn parse_frontmatter(&self, content: &str) -> Result<(PageFrontMatter, String)> {
-        let re = Regex::new(r"^---\s*\n(.*?)\n---\s*\n(.*)$").unwrap();
+    fn parse_frontmatter(&self, content: &str, path: &str) -> Result<(PageFrontMatter, String)> {
+        // Use DOTALL flag to match across newlines
+        let re = Regex::new(r"(?s)^---\s*\n(.*?)\n---\s*\n(.*)$").unwrap();
         
         if let Some(caps) = re.captures(content) {
             let yaml = caps.get(1).unwrap().as_str();
             let body = caps.get(2).unwrap().as_str();
             
             let frontmatter: PageFrontMatter = serde_yaml::from_str(yaml)
-                .context("Failed to parse frontmatter")?;
+                .with_context(|| format!("Failed to parse frontmatter in {}", path))?;
             
             Ok((frontmatter, body.to_string()))
         } else {
@@ -163,6 +164,7 @@ impl SiteGenerator {
 
     fn collect_pages(&self) -> Result<Vec<Page>> {
         let mut pages = Vec::new();
+        let mut errors = Vec::new();
 
         // Process regular markdown files in root
         for entry in fs::read_dir(&self.source_dir)? {
@@ -177,7 +179,14 @@ impl SiteGenerator {
                     .to_string();
                 
                 let content = fs::read_to_string(&path)?;
-                let (frontmatter, body) = self.parse_frontmatter(&content)?;
+                let (frontmatter, body) = match self.parse_frontmatter(&content, &relative_path) {
+                    Ok(result) => result,
+                    Err(e) => {
+                        eprintln!("Warning: Skipping {}: {}", relative_path, e);
+                        errors.push(relative_path.clone());
+                        continue;
+                    }
+                };
                 
                 let file_stem = path.file_stem().unwrap().to_str().unwrap();
                 let output_path = if file_stem == "index" {
@@ -211,16 +220,25 @@ impl SiteGenerator {
                 .into_iter()
                 .filter_map(|e| e.ok())
                 .filter(|e| e.path().extension().map_or(false, |ext| ext == "md"))
+                .filter(|e| !e.file_name().to_str().unwrap().starts_with("_template"))
             {
                 let path = entry.path();
                 let content = fs::read_to_string(path)?;
-                let (frontmatter, body) = self.parse_frontmatter(&content)?;
                 
                 let relative_path = path.strip_prefix(&self.source_dir)
                     .unwrap()
                     .to_str()
                     .unwrap()
                     .to_string();
+                
+                let (frontmatter, body) = match self.parse_frontmatter(&content, &relative_path) {
+                    Ok(result) => result,
+                    Err(e) => {
+                        eprintln!("Warning: Skipping {}: {}", relative_path, e);
+                        errors.push(relative_path.clone());
+                        continue;
+                    }
+                };
                 
                 let file_stem = path.file_stem().unwrap().to_str().unwrap();
                 let output_path = format!("{}/{}.html", collection_name, file_stem);
@@ -242,16 +260,25 @@ impl SiteGenerator {
                 .into_iter()
                 .filter_map(|e| e.ok())
                 .filter(|e| e.path().extension().map_or(false, |ext| ext == "md"))
+                .filter(|e| !e.file_name().to_str().unwrap().starts_with("_template"))
             {
                 let path = entry.path();
                 let content = fs::read_to_string(path)?;
-                let (frontmatter, body) = self.parse_frontmatter(&content)?;
                 
                 let relative_path = path.strip_prefix(&self.source_dir)
                     .unwrap()
                     .to_str()
                     .unwrap()
                     .to_string();
+                
+                let (frontmatter, body) = match self.parse_frontmatter(&content, &relative_path) {
+                    Ok(result) => result,
+                    Err(e) => {
+                        eprintln!("Warning: Skipping {}: {}", relative_path, e);
+                        errors.push(relative_path.clone());
+                        continue;
+                    }
+                };
                 
                 let file_name = path.file_stem().unwrap().to_str().unwrap();
                 // Extract title from filename (format: YYYY-MM-DD-title)
@@ -271,6 +298,10 @@ impl SiteGenerator {
                     output_path,
                 });
             }
+        }
+
+        if !errors.is_empty() {
+            eprintln!("\nWarning: {} files were skipped due to errors", errors.len());
         }
 
         Ok(pages)
