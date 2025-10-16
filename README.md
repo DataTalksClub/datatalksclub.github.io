@@ -4,9 +4,18 @@
 
 You have two options for building the site:
 
-#### Option 1: Rust Static Site Generator (Recommended - Much Faster!)
+#### Option 1: Rust Static Site Generator (Recommended for Development - Much Faster!)
 
-The Rust SSG is **100x+ faster** than Jekyll, building 765+ pages in under 1 second.
+The Rust SSG is **100x+ faster** than Jekyll, building 761 pages in ~1.8 seconds.
+
+**Best for:**
+- Quick local development and testing
+- Previewing content changes
+- Fast iteration cycles
+
+**Limitations:**
+- Index page and listing pages won't show dynamic content (events, latest posts)
+- Direct page URLs work correctly
 
 ```bash
 # Build the site
@@ -22,7 +31,14 @@ make serve-rust
 
 See [SSG_README.md](SSG_README.md) for more details.
 
-#### Option 2: Jekyll (Traditional)
+#### Option 2: Jekyll (Traditional - For Production)
+
+Use Jekyll for production builds with full feature support including dynamic listings.
+
+**Best for:**
+- Production deployments
+- Full dynamic content support
+- Complex template features
 
 Use ruby 2.7.0:
 

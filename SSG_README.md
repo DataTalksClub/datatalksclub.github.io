@@ -47,10 +47,22 @@ This will build the site and serve it at http://localhost:4000
 ## Performance
 
 Typical build times:
-- **Rust SSG**: ~600ms - 1.1s for 765 pages
-- **Jekyll**: Several minutes (varies)
+- **Rust SSG**: ~1.7-1.8s for 761 pages (with 2 pages skipped due to malformed YAML)
+- **Jekyll**: Several minutes (varies, typically 3-10+ minutes for this size of site)
 
 This represents a **100x+ speedup** compared to Jekyll!
+
+### Benchmark Results
+
+Tested on the DataTalks.Club repository:
+```
+Build #1: 1.79s
+Build #2: 1.79s  
+Build #3: 1.77s
+Average: 1.78s
+```
+
+The build is highly parallelized using Rayon, taking advantage of multiple CPU cores for rendering pages.
 
 ## How it works
 
@@ -87,16 +99,48 @@ The SSG supports a subset of Liquid template syntax:
 - `{{ page.title | default: site.name }}` - Default values
 - `{{ page.date | date_to_string }}` - Date formatting
 
+## What Works
+
+✅ **Fully Supported:**
+- Markdown to HTML conversion
+- YAML frontmatter parsing
+- Collections (_books, _posts, _podcast, _people, _courses, _tools, _conferences)
+- Layouts from `_layouts/`
+- Includes from `_includes/`
+- Basic variable substitution (page.*, site.*)
+- Basic conditionals (`{% if %}`)
+- Static asset copying (CSS, images, etc.)
+- Parallel page rendering
+
+✅ **Pages that render correctly:**
+- Blog posts (`/blog/`)
+- Books (`/books/`)
+- Podcast episodes (`/podcast/`)
+- People/Authors (`/people/`)
+- Root-level pages (articles.md, events.md, etc.)
+
 ## Limitations
 
-This is a simplified implementation focused on the specific needs of the DataTalks.Club website. It doesn't support:
-- Full Liquid template engine (only basic subset)
-- Pagination
-- Data files (YAML/JSON in `_data/`)
-- Complex loops and filters
-- Plugins
+This is a simplified implementation focused on the specific needs of the DataTalks.Club website. Features not yet supported:
 
-For these features, you can extend the Rust implementation or continue using Jekyll.
+⚠️ **Partially Supported:**
+- Complex Liquid templates (only basic subset implemented)
+- Loop constructs (`{% for %}`) - templates with loops are rendered but the loop content is removed
+- Data files (YAML/JSON in `_data/`) - not loaded or accessible
+
+❌ **Not Supported:**
+- Pagination
+- Complex filters (only `default` and `date_to_string` are implemented)
+- Plugins
+- Dynamic content that requires `site.data` (events list, sponsors, etc.)
+- Collection iteration in templates (e.g., `site.posts`, `site.books`)
+
+**Impact:** The index page and some listing pages won't show dynamic content (events, latest posts, etc.), but direct page URLs work correctly.
+
+For these features, you can:
+1. Extend the Rust implementation
+2. Continue using Jekyll for full builds
+3. Use Rust for quick previews and Jekyll for production
 
 ## Architecture
 
