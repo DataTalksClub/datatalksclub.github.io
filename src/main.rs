@@ -45,6 +45,7 @@ struct SiteGenerator {
     layouts: HashMap<String, String>,
     includes: HashMap<String, String>,
     config: SiteConfig,
+    data_files: HashMap<String, serde_yaml::Value>,
 }
 
 #[derive(Debug, Deserialize, Serialize, Clone)]
@@ -102,12 +103,42 @@ impl SiteGenerator {
             includes.insert(name, content);
         }
 
+        // Load data files from _data/
+        let mut data_files = HashMap::new();
+        let data_dir = source_dir.join("_data");
+        if data_dir.exists() {
+            for entry in WalkDir::new(&data_dir)
+                .into_iter()
+                .filter_map(|e| e.ok())
+                .filter(|e| {
+                    e.path().extension().map_or(false, |ext| {
+                        ext == "yml" || ext == "yaml" || ext == "json"
+                    })
+                })
+            {
+                let path = entry.path();
+                let name = path.file_stem().unwrap().to_str().unwrap().to_string();
+                let content = fs::read_to_string(path)?;
+                
+                let data: serde_yaml::Value = if path.extension().unwrap() == "json" {
+                    serde_json::from_str(&content)
+                        .with_context(|| format!("Failed to parse JSON data file: {}", name))?
+                } else {
+                    serde_yaml::from_str(&content)
+                        .with_context(|| format!("Failed to parse YAML data file: {}", name))?
+                };
+                
+                data_files.insert(name, data);
+            }
+        }
+
         Ok(Self {
             source_dir,
             output_dir,
             layouts,
             includes,
             config,
+            data_files,
         })
     }
 
@@ -307,17 +338,138 @@ impl SiteGenerator {
         Ok(pages)
     }
 
-    fn simple_replace(&self, template: &str, replacements: &HashMap<String, String>) -> String {
+    fn process_template(&self, template: &str, replacements: &HashMap<String, String>, all_pages: &[Page]) -> String {
         let mut result = template.to_string();
         
-        // Process includes first
+        // Process assign statements {% assign var = site.collection %}
+        // For simplicity, we'll just remove them and handle collections directly in loops
+        // The (?s) flag makes . match newlines
+        let assign_re = Regex::new(r"(?s)\{%\s*assign\s+\w+\s*=\s*.*?%\}").unwrap();
+        result = assign_re.replace_all(&result, "").to_string();
+        
+        // Process for loops {% for item in collection %} ... {% endfor %}
+        // Updated regex to handle both direct site.collection and assigned variables
+        let for_re = Regex::new(r"(?s)\{%\s*for\s+(\w+)\s+in\s+([^\s%]+)(?:\s+limit:\s*(\d+))?\s*%\}(.*?)\{%\s*endfor\s*%\}").unwrap();
+        while let Some(cap) = for_re.captures(&result.clone()) {
+            let item_name = cap.get(1).unwrap().as_str();
+            let collection_path = cap.get(2).unwrap().as_str();
+            let limit = cap.get(3).and_then(|m| m.as_str().parse::<usize>().ok());
+            let loop_body = cap.get(4).unwrap().as_str();
+            
+
+            
+            let mut loop_output = String::new();
+            
+            // Handle different collection types
+            // For assigned variables like "episodes", treat as site.podcast
+            let actual_path = if collection_path == "episodes" || collection_path == "upcoming" || collection_path == "books" {
+                match collection_path {
+                    "episodes" => "site.podcast",
+                    "upcoming" => "site.data.events",
+                    "books" => "site.books",
+                    _ => collection_path,
+                }
+            } else {
+                collection_path
+            };
+            
+            if actual_path.starts_with("site.") && !actual_path.starts_with("site.data.") {
+                let collection_name = &actual_path[5..]; // Remove "site."
+                
+                // Get pages from collection
+                let mut collection_pages: Vec<&Page> = if collection_name == "posts" {
+                    all_pages
+                        .iter()
+                        .filter(|p| p.relative_path.starts_with("_posts/"))
+                        .collect()
+                } else {
+                    all_pages
+                        .iter()
+                        .filter(|p| p.relative_path.starts_with(&format!("_{}/", collection_name)))
+                        .collect()
+                };
+                
+                // Apply limit if specified
+                if let Some(limit_val) = limit {
+                    collection_pages.truncate(limit_val);
+                }
+                
+                // Generate output for each item
+                for (idx, page) in collection_pages.iter().enumerate() {
+                    let mut item_replacements = replacements.clone();
+                    
+                    // Add loop variables
+                    if let Some(title) = &page.frontmatter.title {
+                        item_replacements.insert(format!("{}.title", item_name), title.clone());
+                    }
+                    if let Some(authors) = &page.frontmatter.authors {
+                        // For now, just join authors with comma
+                        item_replacements.insert(format!("{}.authors", item_name), authors.join(", "));
+                    }
+                    
+                    // Add page ID (output path without .html)
+                    let id = page.output_path.trim_end_matches(".html");
+                    item_replacements.insert(format!("{}.id", item_name), id.to_string());
+                    
+                    // Add forloop variables
+                    item_replacements.insert("forloop.last".to_string(), (idx == collection_pages.len() - 1).to_string());
+                    
+                    // Process the loop body with item replacements
+                    let processed_body = self.process_simple_vars(&loop_body, &item_replacements);
+                    loop_output.push_str(&processed_body);
+                }
+            } else if collection_path.starts_with("site.data.") {
+                // Handle data files like site.data.events
+                let data_name = &collection_path[10..]; // Remove "site.data."
+                
+                if let Some(data) = self.data_files.get(data_name) {
+                    if let Some(data_array) = data.as_sequence() {
+                        let items: Vec<_> = if let Some(limit_val) = limit {
+                            data_array.iter().take(limit_val).collect()
+                        } else {
+                            data_array.iter().collect()
+                        };
+                        
+                        for (idx, data_item) in items.iter().enumerate() {
+                            let mut item_replacements = replacements.clone();
+                            
+                            // Extract fields from data item
+                            if let Some(obj) = data_item.as_mapping() {
+                                for (key, value) in obj {
+                                    if let Some(key_str) = key.as_str() {
+                                        let value_str = match value {
+                                            serde_yaml::Value::String(s) => s.clone(),
+                                            serde_yaml::Value::Number(n) => n.to_string(),
+                                            serde_yaml::Value::Bool(b) => b.to_string(),
+                                            _ => String::new(),
+                                        };
+                                        item_replacements.insert(format!("{}.{}", item_name, key_str), value_str);
+                                    }
+                                }
+                            }
+                            
+                            // Add forloop variables
+                            item_replacements.insert("forloop.last".to_string(), (idx == items.len() - 1).to_string());
+                            
+                            // Process the loop body
+                            let processed_body = self.process_simple_vars(&loop_body, &item_replacements);
+                            loop_output.push_str(&processed_body);
+                        }
+                    }
+                }
+            }
+            
+            result = result.replace(&cap[0], &loop_output);
+        }
+        
+        // Process includes
         let include_re = Regex::new(r"\{%\s*include\s+(\S+?)\s*%\}").unwrap();
         loop {
             let mut found = false;
             if let Some(cap) = include_re.captures(&result.clone()) {
                 let include_name = cap.get(1).unwrap().as_str().replace(".html", "");
                 if let Some(include_content) = self.includes.get(&include_name) {
-                    let processed = self.simple_replace(include_content, replacements);
+                    let processed = self.process_template(include_content, replacements, all_pages);
                     result = result.replace(&cap[0], &processed);
                     found = true;
                 }
@@ -328,7 +480,7 @@ impl SiteGenerator {
         }
         
         // Process conditional blocks {% if %} ... {% endif %}
-        let if_re = Regex::new(r"\{%\s*if\s+([^%]+?)\s*%\}(.*?)\{%\s*endif\s*%\}").unwrap();
+        let if_re = Regex::new(r"(?s)\{%\s*if\s+([^%]+?)\s*%\}(.*?)\{%\s*endif\s*%\}").unwrap();
         while let Some(cap) = if_re.captures(&result.clone()) {
             let condition = cap.get(1).unwrap().as_str().trim();
             let content = cap.get(2).unwrap().as_str();
@@ -350,23 +502,31 @@ impl SiteGenerator {
             result = result.replace(&cap[0], &replacement);
         }
         
-        // Replace variables
-        result = result.replace("{{ content }}", replacements.get("content").unwrap_or(&String::new()));
-        result = result.replace("{{ page.title }}", replacements.get("page.title").unwrap_or(&String::new()));
-        result = result.replace("{{ page.subtitle }}", replacements.get("page.subtitle").unwrap_or(&String::new()));
-        result = result.replace("{{ page.date | date_to_string }}", replacements.get("page.date").unwrap_or(&String::new()));
-        result = result.replace("{{ page.url }}", replacements.get("page.url").unwrap_or(&String::new()));
-        result = result.replace("{{ page.image }}", replacements.get("page.image").unwrap_or(&String::new()));
-        result = result.replace("{{ page.picture }}", replacements.get("page.picture").unwrap_or(&String::new()));
-        result = result.replace("{{ page.description }}", replacements.get("page.description").unwrap_or(&String::new()));
-        result = result.replace("{{ page.name }}", replacements.get("page.name").unwrap_or(&String::new()));
-        result = result.replace("{{ page.short }}", replacements.get("page.short").unwrap_or(&String::new()));
-        result = result.replace("{{ page.layout }}", replacements.get("page.layout").unwrap_or(&String::new()));
+        // Process simple variable replacements
+        result = self.process_simple_vars(&result, replacements);
         
-        // Replace site variables
+        result
+    }
+    
+    fn process_simple_vars(&self, template: &str, replacements: &HashMap<String, String>) -> String {
+        let mut result = template.to_string();
+        
+        // Replace site variables first
         result = result.replace("{{ site.name }}", &self.config.name);
         result = result.replace("{{ site.url }}", &self.config.url);
         result = result.replace("{{ site.twitter }}", &self.config.twitter);
+        
+        // Replace all variables from replacements map
+        // First pass: exact matches with spaces
+        for (key, value) in replacements {
+            let patterns = vec![
+                format!("{{{{ {} }}}}", key),
+                format!("{{{{  {}  }}}}", key),
+            ];
+            for pattern in patterns {
+                result = result.replace(&pattern, value);
+            }
+        }
         
         // Handle default filter: {{ page.title | default: site.name }}
         let default_re = Regex::new(r"\{\{\s*([^|]+?)\s*\|\s*default:\s*([^}]+?)\s*\}\}").unwrap();
@@ -409,7 +569,7 @@ impl SiteGenerator {
         result
     }
 
-    fn render_page(&self, page: &Page, _all_pages: &[Page]) -> Result<String> {
+    fn render_page(&self, page: &Page, all_pages: &[Page]) -> Result<String> {
         let html_content = self.markdown_to_html(&page.content);
         
         let mut replacements = HashMap::new();
@@ -458,7 +618,7 @@ impl SiteGenerator {
         replacements.insert("page.layout".to_string(), layout.to_string());
         
         if let Some(layout_template) = self.layouts.get(layout) {
-            let rendered = self.simple_replace(layout_template, &replacements);
+            let rendered = self.process_template(layout_template, &replacements, all_pages);
             Ok(rendered)
         } else {
             // No layout, just return the HTML content

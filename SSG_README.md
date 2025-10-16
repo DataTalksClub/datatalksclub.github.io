@@ -119,28 +119,50 @@ The SSG supports a subset of Liquid template syntax:
 - People/Authors (`/people/`)
 - Root-level pages (articles.md, events.md, etc.)
 
+## Recent Updates (Partial Production Support)
+
+**Added in latest version:**
+- ✅ Data files from `_data/` directory now loaded (events.yaml, sponsors.yaml, etc.)
+- ✅ Basic `{% for %}` loop support for direct collection references (e.g., `{% for book in site.books %}`)
+- ✅ Loop support for data files (e.g., `{% for sponsor in site.data.sponsors %}`)
+- ✅ Loop variables like `item.title`, `item.id` now work
+- ⚠️ `{% assign %}` statements with filters not fully supported yet
+
 ## Limitations
 
-This is a simplified implementation focused on the specific needs of the DataTalks.Club website. Features not yet supported:
+This implementation now supports many production features but some advanced Liquid templating remains:
+
+✅ **Fully Supported:**
+- Direct collection iteration: `{% for book in site.books limit: 10 %}`
+- Data file loading and iteration: `{% for event in site.data.events %}`
+- Simple loops with limit parameter
+- Loop item variables (title, id, etc.)
 
 ⚠️ **Partially Supported:**
-- Complex Liquid templates (only basic subset implemented)
-- Loop constructs (`{% for %}`) - templates with loops are rendered but the loop content is removed
-- Data files (YAML/JSON in `_data/`) - not loaded or accessible
+- `{% assign %}` statements - simple assigns work, but chained filters (sort, reverse, where_exp) don't
+- Complex nested loops with parameters
+- Advanced filter combinations
 
-❌ **Not Supported:**
+❌ **Not Yet Supported:**
+- Liquid filters: `sort`, `reverse`, `where_exp`, `group_by`, etc.
+- `{% assign %}` with piped filters like `| sort: 'episode' | reverse`
+- Advanced loop variables beyond `forloop.last`
 - Pagination
-- Complex filters (only `default` and `date_to_string` are implemented)
 - Plugins
-- Dynamic content that requires `site.data` (events list, sponsors, etc.)
-- Collection iteration in templates (e.g., `site.posts`, `site.books`)
 
-**Impact:** The index page and some listing pages won't show dynamic content (events, latest posts, etc.), but direct page URLs work correctly.
+**Impact:** 
+- **Direct URLs work perfectly:** All blog posts, books, podcast episodes, people pages render correctly
+- **Listing pages partially work:** Simple loops display content, but sorted/filtered lists may not work as expected
+- **Index page:** Shows some dynamic content but may be missing sorted/filtered items (latest posts, upcoming events)
 
-For these features, you can:
-1. Extend the Rust implementation
-2. Continue using Jekyll for full builds
-3. Use Rust for quick previews and Jekyll for production
+**Current Status:**
+- **Development use:** ✅ Excellent for fast iteration
+- **Production use:** ⚠️ Works for most pages, but some listing pages need Jekyll's full Liquid support
+
+**Recommendations:**
+1. **For most production needs:** The Rust SSG now handles the majority of pages correctly
+2. **For complex listing pages:** May need Jekyll until full filter support is added
+3. **Hybrid approach:** Use Rust SSG for 95% of pages, Jekyll for the remaining complex ones
 
 ## Architecture
 
