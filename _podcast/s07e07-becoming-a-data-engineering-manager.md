@@ -2,6 +2,12 @@
 episode: 7
 guests:
 - 16rahuljain
+description: "Learn how to become a data engineering manager. Discover hiring strategies, interview techniques, data reconciliation, GDPR compliance, ELT vs ETL approaches, and how to balance hands-on work with people management."
+intro: "In this episode, Rahul Jain—Senior Solutions Engineer at Snowflake and former Data Engineering Manager—shares his journey from ETL developer to leading data teams at enterprise scale. He explains how to balance technical depth with people management, build trust, and cultivate a strong data culture. Rahul covers essential skills like SQL, Python, CI/CD, and business acumen, while discussing modern challenges such as GDPR compliance, ELT modeling, and data lineage. You'll learn how to grow from individual contributor to data leader and keep evolving in the rapidly changing data landscape."
+topics:
+- data engineering
+- career growth
+- career switch
 ids:
   anchor: Becoming-a-Data-Engineering-Manager---Rahul-Jain-e1f5nvf
   youtube: FljnbUQ796w
@@ -13,7 +19,7 @@ links:
   youtube: https://www.youtube.com/watch?v=FljnbUQ796w
 season: 7
 short: Becoming a Data Engineering Manager
-title: Becoming a Data Engineering Manager
+title: "Becoming a Data Engineering Manager: Leadership, Skills & Career Lessons"
 transcript:
 - line: This week, we'll talk about becoming a data engineering manager. We have a
     special guest today, Rahul. Rahul has over 12 years of experience in data and
@@ -32,7 +38,7 @@ transcript:
   sec: 103
   time: '1:43'
   who: Alexey
-- header: Rahul’s background
+- header: "Career Journey: ETL Developer to Data Engineering Manager"
 - line: Yeah. So first of all, thanks, everyone, for joining. And thanks, Alexey,
     for inviting me. Yeah, I started my career somewhere in 2010 – 12 years back and
     started as a traditional ETL developer. I was working with databases (relational
@@ -55,7 +61,8 @@ transcript:
   sec: 116
   time: '1:56'
   who: Rahul
-- line: That's a pretty cool journey. Your journey into what we call today “data engineering”
+- header: "Data Engineering: ETL Basics, New Skills, Open Source Shift"
+- line: That's a pretty cool journey. Your journey into what we call today "data engineering"
     started with cloud adoption, right? You saw that many companies started to use
     cloud and this is when you turned to the transition from ETL developer to a data
     engineer. Do you think it's different or just the same thing, but under a different
@@ -82,7 +89,7 @@ transcript:
   sec: 281
   time: '4:41'
   who: Rahul
-- header: What do data engineering managers do and why do we need them?
+- header: "Data Engineering Manager: People, Stakeholders, Prioritization"
 - line: Okay. Yeah, thanks. So let's talk about data engineering managers. What do
     they do and why do we need them?
   sec: 292
@@ -129,6 +136,7 @@ transcript:
   sec: 444
   time: '7:24'
   who: Rahul
+- header: "Necessity of DEM Role; Technical Expertise & Hands-on Work"
 - line: Yeah. I guess it's helpful for data engineers to have a manager who is also
     a data engineer, or at least someone who can relate to the problems they have.
     This way, they can think about the best way to approach their development and
@@ -160,11 +168,11 @@ transcript:
   sec: 534
   time: '8:54'
   who: Alexey
-- line: Currently, I manage eight people. Including me, it’s 9 people. [laughs]
+- line: Currently, I manage eight people. Including me, it's 9 people. [laughs]
   sec: 539
   time: '8:59'
   who: Rahul
-- header: Balancing engineering and management
+- header: "Balancing Managerial and Individual Contributor Roles"
 - line: '[laughs] How do you find time? I guess if you just have one-on-ones with
     everyone on the team, half a week is already gone. So how do you manage to find
     time to actually work on hands-on activities?'
@@ -200,7 +208,7 @@ transcript:
   sec: 633
   time: '10:33'
   who: Alexey
-- header: Rahul’s transition into data engineering management
+- header: "Management Transition: Organic Growth; Business Acumen Qualities"
 - line: How did you become a data engineering manager? How did it happen for you?
   sec: 669
   time: '11:09'
@@ -237,9 +245,10 @@ transcript:
   sec: 776
   time: '12:56'
   who: Alexey
+- header: "Essential Qualities: Empathy, Technical Skills, Upholding Standards"
 - line: Well, I think these are the essential ingredients, but one thing that I forgot
     to mention is about people skills. That is most important. In one word, I would
-    say “empathy”. That is something that is more of a behavioral factor. So whether
+    say "empathy". That is something that is more of a behavioral factor. So whether
     you can empathize with the team or people who report to you – that's one of the
     most important ingredients. Then you add these things that I mentioned as well
     as some technical skills and business knowledge.
@@ -300,10 +309,10 @@ transcript:
   sec: 971
   time: '16:11'
   who: Rahul
-- header: Planning the transition to manager and other challenges
-- line: So you had this chat with your manager and he told you, “Hey, you're doing
-    such a good job as a data engineer, how about becoming a manager?” Your first
-    reaction was “Why me?” But then I guess it took some time for you to think about
+- header: "Manager Transition: Initial Challenges, Trust, and Assertiveness"
+- line: So you had this chat with your manager and he told you, "Hey, you're doing
+    such a good job as a data engineer, how about becoming a manager?" Your first
+    reaction was "Why me?" But then I guess it took some time for you to think about
     this and agree. After that, what did you do next? Did you do anything to make
     this transition smooth, or what did you do?
   sec: 992
@@ -407,7 +416,7 @@ transcript:
   sec: 1301
   time: '21:41'
   who: Rahul
-- header: Setting expectations for the team and measuring success
+- header: "Setting Expectations: Committed vs. Aspirational Team Goals"
 - line: And how do you set clear expectations for a team? Let's say you have a team
     that works on a data platform for IoT. How do you set expectations for them? How
     do you understand what the team's purposes are?
@@ -439,8 +448,9 @@ transcript:
   sec: 1395
   time: '23:15'
   who: Rahul
-- line: Thanks. We have a related question from Lok. The question is “What are the
-    success measures of a data engineering team?”
+- header: "Success Measures: Cultivating Data Culture; Use Cases Served"
+- line: Thanks. We have a related question from Lok. The question is "What are the
+    success measures of a data engineering team?"
   sec: 1504
   time: '25:04'
   who: Alexey
@@ -482,7 +492,7 @@ transcript:
   sec: 1623
   time: '27:03'
   who: Rahul
-- header: Data reconciliation
+- header: "Tool: Data Reconciliation; GDPR Compliance & Data Masking"
 - line: Yeah, that's a good one. What is data reconciliation?
   sec: 1684
   time: '28:04'
@@ -546,10 +556,10 @@ transcript:
   sec: 1845
   time: '30:45'
   who: Rahul
-- header: Data modeling for Big Data
-- line: Yeah, nice. Thanks. Another question from Nishikant is, “How do you handle
+- header: "Big Data Modeling: Transition from ETL to ELT, Data Lineage"
+- line: Yeah, nice. Thanks. Another question from Nishikant is, "How do you handle
     data modeling for big data? Do you do Agile or something like this to handle evolving
-    requirements?”
+    requirements?"
   sec: 1850
   time: '30:50'
   who: Alexey
@@ -598,7 +608,7 @@ transcript:
   sec: 1995
   time: '33:15'
   who: Rahul
-- header: Advice for people transitioning into data engineering management
+- header: "Advice: Prioritizing Business View, Empathy, Enabling Team Growth"
 - line: Okay. Back to our topic of data engineering management – there are still a
     few things I wanted to ask you. What would you suggest to somebody who is transitioning
     right now into an engineering management role and specifically to a data engineering
@@ -627,7 +637,7 @@ transcript:
   sec: 2042
   time: '34:02'
   who: Rahul
-- header: Staying on top of trends and enabling team members
+- header: "Staying Current: Self-Reinvention, Automating Monotonous Work"
 - line: That was actually the question that I wanted to ask you – how exactly do you
     enable team members? One thing is to be on top of the latest trends. How do you
     actually do this? How do you stay on top of trends? I'm a data scientist and in
@@ -681,7 +691,7 @@ transcript:
   sec: 2292
   time: '38:12'
   who: Alexey
-- header: The qualities of a good data engineering team
+- header: "Core Skills: Business Acumen, Ownership, SQL, Python, CI/CD"
 - line: In your opinion, what are the qualities and skills that people in the data
     team should know? You manage a team as a manager – what qualities should the team
     have?
@@ -722,11 +732,11 @@ transcript:
   sec: 2445
   time: '40:45'
   who: Rahul
-- header: The qualities of a good data engineer candidate (interview advice)
+- header: "Hiring: Communication; Explaining Projects in Five Minutes"
 - line: Okay. Technology-wise, you said that the non-negotiable minimum in SQL, knowing
     what ETL is, knowing what a data warehouse is, one scripting language like Python,
     knowing the concept of CI/CD, and knowing a cloud platform. That's the technology
-    part. Then there’s also this business acumen part – knowing the problems and things
+    part. Then there's also this business acumen part – knowing the problems and things
     like that. These are the qualities that people in the data engineering team –
     the data engineers – should have, right? We also mentioned ownership. As a manager,
     you probably devote a lot of time to hiring people. I guess these are the things
@@ -783,6 +793,7 @@ transcript:
   sec: 2663
   time: '44:23'
   who: Alexey
+- header: "Interview Strategy: Hypotheticals, Gauging Potential, Due Diligence"
 - line: Initially, I did part of the technical screening as well, but these days I
     focus more on the hiring manager round. Somebody from my team or the PR team does
     the technical discussions. If that goes through, then the hiring manager round
@@ -864,10 +875,10 @@ transcript:
   sec: 2968
   time: '49:28'
   who: Rahul
-- header: The difference between having knowledge and stuffing a CV with buzzwords
+- header: "Spotting Buzzwords: Asking for Technology Context & Basic Concepts"
 - line: There is a quite related question from Fredrik. The question is about hiring
     data engineers. I also saw this in my work. We often get candidates who just put
-    a lot of buzzwords in their CVs, like “big data,” “security,” and “scalable.”
+    a lot of buzzwords in their CVs, like "big data," "security," and "scalable."
     Then you add a bunch of technologies like Spark, Flink, Pulsar, Kafka. You just
     put a lot of buzzwords there. Of course, I mentioned that these people pass the
     first recruiter filter because all the keywords match, but then at the end, maybe
@@ -950,10 +961,10 @@ transcript:
   sec: 3263
   time: '54:23'
   who: Rahul
-- header: Advice for students and fresh graduates
+- header: "Student Advice: Focus on Basics (SQL, Python, DBMS)"
 - line: Yeah. That makes sense. There is a question from Krushal, who I think is a
-    second-year student. The question is, “What would you suggest acing in order to
-    become a data engineer?”
+    second-year student. The question is, "What would you suggest acing in order to
+    become a data engineer?"
   sec: 3274
   time: '54:34'
   who: Alexey
@@ -1001,12 +1012,12 @@ transcript:
   sec: 3394
   time: '56:34'
   who: Rahul
-- header: An overview of an end-to-end data engineering process
+- header: "End-to-End DE: Data Ingestion, Centralized Hub, Consumer Exposure"
 - line: There is one question and probably the last one, because I see we should be
     wrapping up. This question has seven upvotes, so I think I have to ask it. A question
-    from Akshay is, “I want to know the real world end-to-end process of how a data
+    from Akshay is, "I want to know the real world end-to-end process of how a data
     engineering team designs, builds, deploys, and monitors structured data in both
-    real-time and batch.” [laughs] I think this is too much for one minute that we
+    real-time and batch." [laughs] I think this is too much for one minute that we
     have left, but maybe you can give us an overview?
   sec: 3449
   time: '57:29'

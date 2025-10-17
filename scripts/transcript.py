@@ -1,6 +1,26 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+"""
+Transcript Parser for DataTalksClub Podcasts
+
+This script parses podcast/interview transcripts from Word documents (.docx) or a URL
+pointing to a document and converts them into a structured format.
+
+Expected input format:
+    [0:15]
+    John Doe
+    This is what I'm saying...
+    
+    [1:30]
+    Jane Smith
+    Here's my response...
+
+Output: A list of dictionaries containing:
+    - Section headers: {'header': 'Section Title'}
+    - Dialogue entries: {'time': '1:30', 'sec': 90, 'who': 'Speaker', 'line': 'Text'}
+"""
+
 import re
 
 from io import BytesIO

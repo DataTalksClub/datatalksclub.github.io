@@ -2,6 +2,10 @@
 episode: 1
 guests:
 - meoramer
+intro: "In this episode, Meor Amer—Developer Relations professional at Cohere and author of A Visual Introduction to Deep Learning—explains how to make complex machine learning ideas intuitive through visuals. He shares how he founded kDimensions to “visualize the verb” behind AI concepts, drawing inspiration from Jack Butcher’s Visualize Value and applying principles like creativity through constraint and message-over-aesthetics design. You’ll learn his process for creating educational ML visuals in Figma, turning ideas into shareable content, and teaching AI concepts that connect logic with emotion."
+topics:
+- machine learning
+- education
 ids:
   anchor: Visualising-Machine-Learning---Meor-Amer-e1g7iri
   youtube: OuCuk-7RHjM
@@ -13,9 +17,10 @@ links:
   youtube: https://www.youtube.com/watch?v=OuCuk-7RHjM
 season: 8
 short: Visualising Machine Learning
-title: Visualising Machine Learning
-
+title: "Visual Thinking in Machine Learning: How to Explain AI with Simple Visuals"
+description: "Learn to visualize ML concepts with Meor Amer. Discover Figma techniques, visual engineering, and how to teach AI through simple visuals."
 transcript:
+- header: "Introduction: Visualizing ML Concepts and Posting Cadence"
 - line: This week, we'll talk about visualising machine learning. And we have a special
     guest today, Meor. You probably saw Meor on LinkedIn where he shares amazing visualisation
     about different machine learning concepts. One of the last ones I remember well
@@ -39,7 +44,7 @@ transcript:
   sec: 173
   time: '2:53'
   who: Meor
-- header: "Meor\u2019s backround"
+- header: "Career Path: Bio Engineering, Telecom Analytics, Self-Employment"
 - line: Before we go into our main topic of visualising machine learning, let's start
     with your background. Can you tell us about your career journey so far?
   sec: 177
@@ -81,7 +86,7 @@ transcript:
   sec: 222
   time: '3:42'
   who: Meor
-- header: kDimensions
+- header: "Concept: kDimensions Name; Visuals as Dimensionality Reduction"
 - line: Why this name?
   sec: 370
   time: '6:10'
@@ -126,7 +131,7 @@ transcript:
   sec: 484
   time: '8:04'
   who: Meor
-- header: Visual engineering
+- header: "Inspiration: Jack Butcher & \"Visualise Value\"; Visual Engineering"
 - line: There is a guy called Jack Butcher. He has a Twitter profile called "visualise
     value", and a website as well. They see some similarities in what you do and what
     Jack is doing. Did you get inspiration from him with coming up with all these
@@ -160,6 +165,7 @@ transcript:
   sec: 568
   time: '9:28'
   who: Meor
+- header: "Purpose of Visuals: Intuition Before Math; Key Creators"
 - line: There are many reasons to do it. One of the reasons is that there is more
     information that we need, when it comes to machine learning because there are
     so many resources, there are courses, books, blog posts, code examples, it goes
@@ -199,7 +205,7 @@ transcript:
   sec: 700
   time: '11:40'
   who: Meor
-- header: Constrain yourself to get creative
+- header: "Constraint Strategy: Creativity via Limits (Color, Shapes, Focus)"
 - line: "You were already in the educational space. Then you were browsing through\
     \ your feed, and saw a visual from Jake Butcher. You thought, \"This is so cool.\
     \ I want to do something similar.\" When I saw images from Jack, I thought \u201C\
@@ -240,7 +246,7 @@ transcript:
   sec: 1010
   time: '16:50'
   who: Meor
-- header: Coming up with ideas
+- header: "Idea Generation: Visualizing the Verb; Metaphors and Objects"
 - line: "How do you come up with these ideas? For example, you recently created an\
     \ illustration about \u201Cdrift\u201D. How did it happen?"
   sec: 1053
@@ -291,6 +297,7 @@ transcript:
   sec: 1135
   time: '18:55'
   who: Meor
+- header: "Examples: Drift (Changing Target); Data-Centric AI (Airplane Balance)"
 - line: "Okay, so first, you think, \"I want to create something on drift\u201D Then\
     \ you give yourself a bit of time, use a timer, set it to 5-10 minutes. And then\
     \ you start brainstorming, like \u201CHow can I show the action? What is the action\
@@ -323,7 +330,7 @@ transcript:
   sec: 1323
   time: '22:03'
   who: Meor
-- header: The process of creating visuals
+- header: "Process: Long List to Short List; Visualizing Emotional Aspects"
 - line: Can you walk us through the process of creating it? How did you come up with
     the idea? Did you want to create something on data-centric AI? Or first, you had
     an image of your plane in your head and then you did this? Can you walk us through
@@ -414,7 +421,7 @@ transcript:
   sec: 1871
   time: '31:11'
   who: Meor
-- header: Creating visuals
+- header: "Tool: Figma (Sweet Spot for Engineers); Geometric Shapes Approach"
 - line: What do you use for creating your visuals?
   sec: 1874
   time: '31:14'
@@ -472,7 +479,7 @@ transcript:
   sec: 2122
   time: '35:22'
   who: Alexey
-- header: Learning to create visuals for engineers
+- header: "Advice: Focus on Message over Aesthetics; Practice and Posting"
 - line: For somebody like you - an engineer who hasn't worked with anything like Figma
     - how can they start creating visuals? How can they learn this?
   sec: 2132
@@ -540,7 +547,7 @@ transcript:
   sec: 2381
   time: '39:41'
   who: Meor
-- header: Consuming with intention to create
+- header: "Technique: Consuming Content with Intention to Teach (\"What If?\")"
 - line: "One of the things you mentioned is \u201Cconsume with intention to create\
     \ something\u201D. Can you tell us how it works?"
   sec: 2450
@@ -610,7 +617,7 @@ transcript:
   sec: 2635
   time: '43:55'
   who: Meor
-- header: Earning with visuals
+- header: "Earning: Visual Design Service for Startups and Content Creators"
 - line: Thanks! You said that since 2019 you're self-employed. You don't work for
     a company, you work for yourself. You mentioned that you were doing some sort
     of consulting and training, but now making visuals is part of what you do. Are
@@ -668,7 +675,7 @@ transcript:
   sec: 2897
   time: '48:17'
   who: Alexey
-- header: Adding visuals to blog posts
+- header: "Service: Adding Visuals to Text; Extracting Keywords for Essence"
 - line: One thing you mentioned is sometimes there is a bunch of text-based information
     - an article - and you need to add visuals to this article. Do I understand correctly
     that companies come to you for this service?
@@ -768,7 +775,7 @@ transcript:
   sec: 3246
   time: '54:06'
   who: Meor
-- header: "Meor\u2019s book: visual introduction to deep learning"
+- header: "Book: *Visual Introduction to Deep Learning*; Modular Neuron Concepts"
 - line: "I also know that you wrote a book. You recently came to DataTalks.Club\u2019\
     s slack to answer questions about your book. Can you tell us about it? And how\
     \ did you come up with the idea behind the book?"
@@ -802,6 +809,7 @@ transcript:
   sec: 3430
   time: '57:10'
   who: Meor
+- header: "Book Process: Visuals First, Supplemented by Minimal Text"
 - line: Did you first come up with text and then created illustrations? Or did you
     first come up with illustrations and then wrote text for them?
   sec: 3536

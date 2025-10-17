@@ -2,6 +2,7 @@
 episode: 9
 guests:
 - gloriaquiceno
+intro: "In this episode, Gloria Quiceno—Data Analyst turned Data Engineer at ICE—shares her transition from neuroscience research to data engineering during the pandemic. She talks about learning programming through tools like MATLAB and Python, joining a data science bootcamp, and discovering her passion for building data pipelines. Gloria discusses job-hunting strategies, Docker implementation for collaboration, cloud tools like AWS and GCP, and why data quality and documentation are key to success. You’ll learn practical advice on breaking into data roles, building strong portfolios, and negotiating with confidence."
 ids:
   anchor: From-Academia-to-Data-Analytics-and-Engineering---Gloria-Quiceno-e1ikrd8
   youtube: 0wANfIvum4U
@@ -13,7 +14,11 @@ links:
   youtube: https://www.youtube.com/watch?v=0wANfIvum4U
 season: 8
 short: From Academia to Data Analytics and Engineering
-title: From Academia to Data Analytics and Engineering
+title: "From Neuroscience to Data Engineering: Bootcamps, Career Strategy & Cloud Skills"
+topics:
+- career switch
+- data engineering
+- career growth
 transcript:
 - line: So this week we'll talk about becoming a data engineer – a data engineer or
     analyst – and we have a special guest today, Gloria. Gloria works as a business
@@ -29,7 +34,7 @@ transcript:
   sec: 151
   time: '2:31'
   who: Gloria
-- header: Gloria’s background
+- header: Career Shift - Neuroscience Research to Data Science Bootcamp
 - line: Before we go into today’s main topic, let's start with your background. Can
     you tell us about your career journey so far?
   sec: 154
@@ -106,7 +111,7 @@ transcript:
   sec: 331
   time: '5:31'
   who: Gloria
-- header: Working with MATLAB, R, C, Python, and SQL
+- header: 'Tool: C, Igor, MATLAB; Finding Passion in Programming'
 - line: With your background, was it difficult for you to learn to use Igor and its
     language?
   sec: 393
@@ -128,7 +133,7 @@ transcript:
   sec: 402
   time: '6:42'
   who: Gloria
-- header: Working at ICE
+- header: 'Analyst Role at ICE: SQL, Reports, Business Model Complexity'
 - line: I know that MATLAB can be quite frightening, especially if you don't have
     any programming background. I also needed to use MATLAB at University for doing
     some signal processing. And I thought, “Okay, why are we being tortured with this
@@ -202,6 +207,7 @@ transcript:
   sec: 710
   time: '11:50'
   who: Gloria
+- header: 'ICE Business Model: Music Processing, Royalties, Data Pipeline'
 - line: I'm just curious, what does the company actually do? You said it's something
     related to music, right?
   sec: 713
@@ -278,7 +284,7 @@ transcript:
   sec: 856
   time: '14:16'
   who: Gloria
-- header: Job hunting after the bootcamp
+- header: 'Job Hunting: Four-Month Search During the Pandemic'
 - line: Yeah, interesting. Can you tell us how you got this job? You graduated from
     a bootcamp and then, I imagine, it wasn't easy to get this job. So how did you
     do this?
@@ -331,6 +337,7 @@ transcript:
   sec: 1085
   time: '18:05'
   who: Alexey
+- header: 'Strategy: Volunteering at Omdena; Shift to Data Engineering Focus'
 - line: In parallel to applying for all these jobs, going on LinkedIn, Googling around
     and stuff like that, I also volunteered for Omdena, doing one of their projects.
     I chose to do that as kind of a CV filler, but also to keep me occupied and keep
@@ -355,7 +362,7 @@ transcript:
   sec: 1157
   time: '19:17'
   who: Gloria
-- header: Data engineering vs Data science
+- header: Data Engineering vs Data Science
 - line: I remember you mentioned that last time we talked. I think it was before you
     found a job. I remember you were actually asking how to figure out if you’re more
     interested in engineering. But I think you did this bootcamp in data science,
@@ -393,7 +400,7 @@ transcript:
   sec: 1192
   time: '19:52'
   who: Gloria
-- header: Using Docker
+- header: 'Tool: Docker Implementation for Collaborative Script Management'
 - line: And you learned all that at ICE already, right? Or did you already know a
     bit of that? I think you mentioned that you learned a bit of Docker at Spiced,
     right?
@@ -422,7 +429,7 @@ transcript:
   sec: 1295
   time: '21:35'
   who: Gloria
-- header: Keeping track of job applications, employers and questions
+- header: 'Strategy: Tracking 130 Applications; Post-Interview Question Prep'
 - line: Coming back to your job search – do you remember how many applications you
     needed to send in order to eventually get the job?
   sec: 1377
@@ -552,7 +559,7 @@ transcript:
   sec: 1674
   time: '27:54'
   who: Gloria
-- header: Challenges during the job search and transition
+- header: 'Challenges: Live Coding, Performance Under Pressure, GDPR'
 - line: I see. What do you think was the most difficult thing during this process
     for you? [cross-talk] …maybe or something else?
   sec: 1675
@@ -607,7 +614,7 @@ transcript:
   sec: 1816
   time: '30:16'
   who: Alexey
-- header: Concerns over data privacy
+- header: Concerns Over Data Privacy
 - line: Yeah. The letter said “Unfortunately, we're not going to continue with your
     application. But if you allow us, (because of the GDPR and data protection laws
     and stuff like that), we would like to keep your personal data on file.” In the
@@ -639,7 +646,7 @@ transcript:
   sec: 1860
   time: '31:00'
   who: Gloria
-- header: Challenges with salary negotiation
+- header: 'Salary Negotiation: Market Research, Confidence, Career Coaching'
 - line: I think I primed you a little bit when I asked what the most difficult thing
     was. Maybe you were going to say something else – not live coding?
   sec: 1889
@@ -705,7 +712,7 @@ transcript:
   sec: 2059
   time: '34:19'
   who: Gloria
-- header: The importance of career coaching and support
+- header: The Importance of Career Coaching and Support
 - line: Yeah, I imagine that could be tough even for people with experience already.
     Although with people that have experience and those who already have a job, they
     can just say “Okay, what I'm making now – let's add 10% to that. That would probably
@@ -741,7 +748,7 @@ transcript:
   sec: 2129
   time: '35:29'
   who: Gloria
-- header: Skills learned at Spiced
+- header: 'Bootcamp Value: Learning Python, Docker, Airflow, Networking'
 - line: Yeah, thanks for sharing the tips. So, you studied data science, but you ended
     up not doing data science. Was what you learned at Spiced actually useful for
     you?
@@ -761,7 +768,7 @@ transcript:
   sec: 2193
   time: '36:33'
   who: Gloria
-- header: Retrospective on Gloria’s transition to data and advice
+- header: Retrospective on Gloria's Transition to Data and Advice
 - line: Let's say you were to go back in time and look for a job again, but with remembering
     all the experience that you have right now – what would you do differently now?
   sec: 2245
@@ -873,7 +880,7 @@ transcript:
   sec: 2463
   time: '41:03'
   who: Gloria
-- header: Top skills that helped Gloria get the job
+- header: 'Top Skill: Data Quality Checks; Learning SQL Flavors On-the-Job'
 - line: Yeah. Interesting. Thanks for sharing that. I see that we have some questions.
     So one of the questions is from Vadim, who asks “What are the top skills or tech
     stack that you believe helped you to get this role?”
@@ -935,7 +942,7 @@ transcript:
   sec: 2704
   time: '45:04'
   who: Gloria
-- header: Thoughts on cloud platforms
+- header: 'Tool: AWS vs. Google Cloud Platform; Managing Cloud Credits'
 - line: Another question from Bala, “Which cloud platform did you learn? Did you learn
     any cloud platform in the bootcamp?”
   sec: 2729
@@ -991,7 +998,7 @@ transcript:
   sec: 2850
   time: '47:30'
   who: Gloria
-- header: Thoughts on bootcamps and courses
+- header: 'Bootcamp Choice: Interaction, Customization; Twitter Bot Pipeline'
 - line: Let's say you needed to go through the same career transitioning again. You
     work in academia doing research, your contract is over, and you want to go to
     programming. Would you go through a data science bootcamp again, or you would
@@ -1052,7 +1059,7 @@ transcript:
   sec: 3002
   time: '50:02'
   who: Gloria
-- header: Spiced graduation project
+- header: Spiced Graduation Project
 - line: Can you maybe tell us a bit about the projects that you did at Spiced? At
     the end, I know that you had some individual projects where you needed to work
     by yourself on some things. I think you did something related to Twitter analytics,
@@ -1090,7 +1097,7 @@ transcript:
   sec: 3084
   time: '51:24'
   who: Gloria
-- header: Standing out in a sea of applicants
+- header: 'Portfolio Strategy: Individualized Projects; Cohort Diversity'
 - line: I'm wondering. Let's say somebody graduates from bootcamp – at DataTalks.Club
     we also call them zoomcamps, but they're similar, like workshops. People finish
     these courses with a bunch of projects that they did during the course, and also
@@ -1199,7 +1206,7 @@ transcript:
   sec: 3406
   time: '56:46'
   who: Gloria
-- header: The cohorts at Spiced
+- header: 'Interesting Backgrounds: Literature PhD to Data Engineering'
 - line: We have another question from Chris. So Chris is asking “What was your cohort
     like at Spiced?” Were they all at similar career stages as you? People with PhD,
     Master’s, etc.? Or did they have different backgrounds?”
@@ -1239,7 +1246,7 @@ transcript:
   sec: 3517
   time: '58:37'
   who: Alexey
-- header: Conclusion
+- header: Wrapping Up
 - line: No, I think your questions essentially covered all of them. It was really
     cool doing this. This is the first time in a long time that I've been asked about
     this whole transition phase in my life. It was nice reminiscing about all these

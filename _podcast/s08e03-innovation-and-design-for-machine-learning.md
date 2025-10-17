@@ -2,6 +2,7 @@
 episode: 3
 guests:
 - liesbethdingemans
+intro: "In this episode, Liesbeth Dingemans—AI strategy and innovation leader—explains how design thinking can transform how AI teams build products. She introduces the concept of algorithm-friendly design, where systems are structured to collect sharper user signals and improve model performance. Liesbeth walks through tools like the Double Diamond framework, Google PAIR, and design sprints, showing how to define problems effectively, eliminate weak solutions through experimentation, and drive radical innovation beyond incremental OKRs. You’ll learn how design and data can work together to create AI systems that are both intelligent and human-centered."
 ids:
   anchor: Innovation-and-Design-for-Machine-Learning---Liesbeth-Dingemans-e1gq0en
   youtube: tcqBfZw41FM
@@ -13,9 +14,14 @@ links:
   youtube: https://www.youtube.com/watch?v=tcqBfZw41FM
 season: 8
 short: Innovation and Design for Machine Learning
-title: Innovation and Design for Machine Learning
+title: "Algorithm-Friendly Design, Innovation & Design Thinking for AI Teams"
+description: "Learn algorithm-friendly design with Liesbeth Dingemans. Master Double Diamond, design sprints, Google PAIR, and innovation for AI teams."
+topics:
+- machine learning
+- design thinking
+- practices
 transcript:
-- header: Liesbeth’s background
+- header: "Guest Introduction: Strategy, AI, and Product Design"
 - line: This week, we'll talk about innovation and design for machine learning. We
     have a special guest today, Liesbeth. Liesbeth has been working on topics related
     to strategy, product and AI for the last six years – first at McKinsey and then
@@ -68,6 +74,7 @@ transcript:
   sec: 239
   time: '3:59'
   who: Alexey
+- header: "Complementary Skill Set: Physics vs. Humanities Perspective"
 - line: I would say that the humanities – or art history – definitely has a completely
     different way of thinking about problems. In physics, it was always the case that
     you had a challenge and there's only one possible answer. Whereas in history or
@@ -88,7 +95,7 @@ transcript:
   sec: 301
   time: '5:01'
   who: Liesbeth
-- header: What is design?
+- header: "Defining Design: Tool for User-Centered Product Processes"
 - line: Okay. So what is design? Is it about making websites look good or is there
     more to that?
   sec: 307
@@ -134,6 +141,7 @@ transcript:
   sec: 403
   time: '6:43'
   who: Liesbeth
+- header: "Concept: Algorithm-Friendly Design; Collecting Signals"
 - line: Back in the days, three years ago, when I joined Prosus, I had assumed a lot
     of data science teams would build AI applications using the data that was already
     there, which was usually generated for a different purpose, not necessarily for
@@ -158,7 +166,7 @@ transcript:
   sec: 403
   time: '6:43'
   who: Liesbeth
-- header: The importance of interaction in design
+- header: "Interaction Design: Sharp Signal Collection (TikTok Example)"
 - line: I think you mentioned one important word that I took a note of. You mentioned
     that it's about interaction. Design is about how you interact with something –
     be it a piece of furniture or a website, a physical or a virtual product. So it's
@@ -204,7 +212,7 @@ transcript:
   sec: 682
   time: '11:22'
   who: Alexey
-- header: Design as a process (Double Diamond technique)
+- header: "Tool: Double Diamond Technique for Problem Solving"
 - line: Exactly, yeah. It might be nice if I mentioned another example of how, for
     me, design and machine learning come together, because what we've just been talking
     about is really a bit more about design as a way that you shape the interface
@@ -289,10 +297,11 @@ transcript:
   sec: 1003
   time: '16:43'
   who: Alexey
-- line: Then the third option could be something else – let’s just say, “Open my Jupyter
-    Notebook and train a simple model myself.” Then we do this in parallel. We have
-    three proofs of concepts and at the end of this step we can also say “Okay, which
-    seems more viable?” This is also part of the process, right?
+- header: "Strategy: Experimentation; Eliminating Non-Viable Solutions"
+- line: Then the third option could be something else – let's just say, "Open my Jupyter
+    Notebook and train a simple model myself." Then we do this in parallel. We have
+    three proofs of concepts and at the end of this step we can also say "Okay, which
+    seems more viable?" This is also part of the process, right?
   sec: 1003
   time: '16:43'
   who: Alexey
@@ -353,9 +362,9 @@ transcript:
   sec: 1135
   time: '18:55'
   who: Liesbeth
-- header: Design thinking (Google’s PAIR)
-- line: I heard about this “double diamond” in the context of another term called
-    “design thinking”. So what is design thinking? How are these two things related?
+- header: "Concept: Design Thinking; Tool: Google PAIR Resources"
+- line: I heard about this "double diamond" in the context of another term called
+    "design thinking". So what is design thinking? How are these two things related?
   sec: 1217
   time: '20:17'
   who: Alexey
@@ -411,7 +420,7 @@ transcript:
   sec: 1365
   time: '22:45'
   who: Liesbeth
-- header: What is a Design Sprint and who should participate in it?
+- header: "Concept: Design Sprint; Full Team Involvement"
 - line: And what is a design sprint? Is it related to what we talked about?
   sec: 1396
   time: '23:16'
@@ -510,16 +519,16 @@ transcript:
   sec: 1633
   time: '27:13'
   who: Liesbeth
-- header: Why should data specialists care about design?
+- header: "Data Scientists' Role in Problem Definition; Avoiding Rework"
 - line: The next question I had was – as a data scientist, why should they care about
     all that? It sounds like a joke, but I think you answered that, right? In this
     process, when we talk about a potential solution – even before that – for a data
     scientist, it's very helpful to understand the problem because it will influence
-    how exactly you solve it. But then also during the solution phase – let’s say
+    how exactly you solve it. But then also during the solution phase – let's say
     when we're thinking about the interface and how exactly the interface will look
     like – if I, as a data scientist, am not in this meeting, then I might not be
-    able to say, “Hey, wait a minute, how exactly are we going to collect this data
-    that we will actually need for something like this?”
+    able to say, "Hey, wait a minute, how exactly are we going to collect this data
+    that we will actually need for something like this?"
   sec: 1698
   time: '28:18'
   who: Alexey

@@ -2,6 +2,8 @@
 episode: 8
 guests:
 - ellenkonig
+description: "Transition from data science to data engineering. Learn DevOps, CI/CD, collaboration skills, and cloud platforms. Career advice from Ellen König."
+intro: "In this episode, Ellen König—Head of Engineering at alcemy—shares her journey from software and data science to data engineering leadership. She explains why many professionals make the switch, the skills that matter most (from DevOps and CI/CD to collaboration), and how to prepare through side projects and software fundamentals. Ellen also breaks down key tools like Git, Docker, and Airflow, discusses the realities of cloud costs and team structures, and offers practical advice for anyone planning a transition into data engineering."
 ids:
   anchor: From-Data-Science-to-Data-Engineering---Ellen-Knig-e1fgfbm
   youtube: 3TTu-hYzxeg
@@ -13,7 +15,11 @@ links:
   youtube: https://www.youtube.com/watch?v=3TTu-hYzxeg
 season: 7
 short: From Data Science to Data Engineering
-title: From Data Science to Data Engineering
+title: "Switching from Data Science to Data Engineering: Skills, Tools & Career Advice"
+topics:
+- data science
+- data engineering
+- career switch
 
 transcript:
 - line: This week, we'll talk about transitioning from data science to data engineering.
@@ -30,13 +36,14 @@ transcript:
   sec: 108
   time: '1:48'
   who: Ellen
-- header: "Ellen\u2019s background"
+- header: "Podcast Introduction; Guest Ellen's Data Engineering Role"
 - line: Happy to have you on. Before we go into our main topic of transitioning to
     data engineering, let's start with your background. Can you tell us about your
     career journey so far?
   sec: 111
   time: '1:51'
   who: Alexey
+- header: "Career Journey: Software Engineering, Data Science, Transition to DE"
 - line: "Of course I can. I studied computer science at Uni. It was my first degree\
     \ and I really enjoyed it. I specialized in software engineering and what's called\
     \ in German \u201CWirtschaftsinformatik\u201D which translates to business applications\
@@ -120,6 +127,7 @@ transcript:
   sec: 392
   time: '6:32'
   who: Alexey
+- header: "Switching from DS: Blackbox Models, Low Code Quality, Professional Respect"
 - line: "You also mentioned that as a data scientist, the code that you were writing\
     \ wasn't really high quality. This is something that maybe because it isn't the\
     \ focus for data scientists. You focus on other things. Were there other reasons\
@@ -161,7 +169,7 @@ transcript:
   sec: 572
   time: '9:32'
   who: Ellen
-- header: The overlap between data science and data engineering
+- header: "Data Science/Engineering Overlap: Pipelines, Analytics Engineering, Data Quality"
 - line: "I guess, as a data scientist, you already needed to do some things that data\
     \ engineers would do, right? You mentioned that at SoundCloud, you not only did\
     \ modeling, but also everything that was before modeling, like building data pipelines,\
@@ -264,7 +272,7 @@ transcript:
   sec: 863
   time: '14:23'
   who: Ellen
-- header: Skills to learn and improve for data engineering
+- header: "Skills to Learn: Collaboration, DevOps, CI/CD, Infrastructure Automation"
 - line: "Okay. So: pipeline building, getting a feel for the data, and stakeholder\
     \ management and communication. But what were the things where you needed to upskill\
     \ yourself or to learn in order to make the transition? One thing you mentioned\
@@ -341,7 +349,7 @@ transcript:
   sec: 1111
   time: '18:31'
   who: Ellen
-- header: Ways to pick up and improve skills (advice for making the transition)
+- header: "Strategy: Learn Skills at Work; Try Side Projects Before Transition"
 - line: "This part of modeling is only a small part, right? But the vast thing before\
     \ that is \u201CHow do you prepare data?\u201D Then a vast thing after you train\
     \ the model is \u201CHow do you go about deploying this?\u201D The modeling part\
@@ -427,6 +435,7 @@ transcript:
   sec: 1421
   time: '23:41'
   who: Alexey
+- header: "Upskilling: Learn General Software Engineering Fundamentals (not DS tracks)"
 - line: "For those who are software engineers and become data scientists, it's not\
     \ that difficult to then transition to data engineering because they already have\
     \ all the necessary skills. They know how to use the terminal properly, they know\
@@ -459,7 +468,7 @@ transcript:
   sec: 1504
   time: '25:04'
   who: Ellen
-- header: "What makes a data engineering course \u201Cgood\u201D"
+- header: "Tool: Essential DE Course Components (Git, Docker, Clean Code)"
 - line: "So what kind of things do you think a good course should contain? I guess,\
     \ build tools \u2013 how exactly you build your software, right? Then testing,\
     \ CI/CD, command line basics \u2013 how you navigate something like Linux, or\
@@ -527,7 +536,7 @@ transcript:
   sec: 1708
   time: '28:28'
   who: Ellen
-- header: Languages to know for data engineering
+- header: "Languages: SQL, Python for Analytics; Java/Scala for Distributed Systems"
 - line: "Even though it's Java, right? I started as a Java developer, and for me,\
     \ it was eye opening. I also recommend this book to people, but I realize that\
     \ now it may be outdated. Maybe that's another question \u2013 what kind of languages\
@@ -606,7 +615,7 @@ transcript:
   sec: 1960
   time: '32:40'
   who: Ellen
-- header: The easiest part of transitioning into data engineering
+- header: "Transition Ease: High Demand; Drawback: Mismatch of Expectations"
 - line: "Perhaps that just gives some wider coverage to Google \u2013 to BigQuery.\
     \ Okay. What do you think was the easiest part of your transition?"
   sec: 1963
@@ -663,6 +672,7 @@ transcript:
   sec: 2123
   time: '35:23'
   who: Alexey
+- header: "Hardest Part: Paired Programming, Collaboration, Team Communication"
 - line: "The most difficult part for me was losing some of the autonomy I had as a\
     \ data scientist, and then also having to work in these really close, tight-knit\
     \ software engineering teams. I was really used to having a lot of space, working\
@@ -720,7 +730,7 @@ transcript:
   sec: 2288
   time: '38:08'
   who: Ellen
-- header: Common data engineering team distributions
+- header: "DE Team Structure: Embedded vs. Platform; Intersection Roles"
 - line: In your experience, do data engineers usually work in one team? For example,
     maybe there is one platform or data engineering team? Or are they spread across
     different teams?
@@ -787,7 +797,7 @@ transcript:
   sec: 2485
   time: '41:25'
   who: Ellen
-- header: Pet projects and other ways to pick up development skills
+- header: "Pet Projects: Build Fun, Full-Stack Pipelines (Scraping, Airflow, Cloud)"
 - line: "Yeah. It\u2019s probably people who ended up doing data stuff even though\
     \ they were hired as data scientists. Okay. Chetna is asking if you have any tips\
     \ for people who do not have development experience \u2013 how can they transition\
@@ -908,7 +918,7 @@ transcript:
   sec: 2959
   time: '49:19'
   who: Ellen
-- header: Dealing with cloud processing costs (alerts, billing reports, trial periods)
+- header: "Tool: Managing Cloud Costs (Billing Reports, Budgeting Alerts)"
 - line: "I don't know, maybe it's a bit off topic, but there\u2019s a question from\
     \ Brahm. \u201CMost cloud platforms, data processing cost structures are not really\
     \ transparent. Do you have any suggestions to manage data processing costs?\u201D\
@@ -972,7 +982,7 @@ transcript:
   sec: 3072
   time: '51:12'
   who: Alexey
-- header: Advice for getting into entry level positions
+- header: "Entry Level Strategy: Consultancies, Large Companies, Structured Mentoring"
 - line: "Other questions. \u201CIn your perspective, what amount of project experience\
     \ should we get to start applying for entry level roles in the industry?\u201D"
   sec: 3166
@@ -1070,7 +1080,7 @@ transcript:
   sec: 3479
   time: '57:59'
   who: Ellen
-- header: Which cloud platform should data engineers learn?
+- header: "Cloud Platform Choice: All Similar; Learn Based on Sector/Free Tiers"
 - line: "Yeah, thanks. Maybe the last question. If somebody wants to learn cloud \u2013\
     \ should they go with AWS, Google Cloud Platform, Azure, or something else?"
   sec: 3516
