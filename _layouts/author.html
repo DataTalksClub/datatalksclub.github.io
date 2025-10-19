@@ -126,23 +126,14 @@
     "image": "{{ site.url }}/{{ page.picture }}",
     "description": "{{ page.content | strip_html | truncate: 160 | escape }}",
     "url": "{{ site.url }}{{ page.url }}",
-    {% if page.twitter %}
+    {% if page.twitter or page.linkedin or page.github or page.web %}
     "sameAs": [
-      "https://twitter.com/{{ page.twitter }}",
-      {% if page.linkedin %}"https://linkedin.com/in/{{ page.linkedin }}",{% endif %}
-      {% if page.github %}"https://github.com/{{ page.github }}",{% endif %}
-      {% if page.web %}"{{ page.web }}"{% endif %}
-    ],
+      {% if page.twitter %}"https://twitter.com/{{ page.twitter }}"{% endif %}
+      {% if page.linkedin %}{% if page.twitter %},{% endif %}"https://linkedin.com/in/{{ page.linkedin }}"{% endif %}
+      {% if page.github %}{% if page.twitter or page.linkedin %},{% endif %}"https://github.com/{{ page.github }}"{% endif %}
+      {% if page.web %}{% if page.twitter or page.linkedin or page.github %},{% endif %}"{{ page.web }}"{% endif %}
+    ]
     {% endif %}
-    "jobTitle": "Data Science Professional",
-    "worksFor": {
-      "@type": "Organization",
-      "name": "DataTalks.Club"
-    },
-    "alumniOf": {
-      "@type": "EducationalOrganization",
-      "name": "DataTalks.Club Community"
-    }
   }
   </script>
 </body>
