@@ -2,6 +2,11 @@
 episode: 5
 guests:
 - valeriybabushkin
+intro: "In this episode, Valerii Babushkin—then Head of Data Science at Blockchain.com and Kaggle Grandmaster—breaks down how to approach machine learning system design at scale. He shares insights from building ML systems at Meta, Alibaba, and Yandex, explaining how to move beyond algorithms to focus on end-to-end design, feature engineering, and evaluation. Valerii walks through a real-world fraud detection example, discusses how to structure interview answers, and outlines the core principles from his book Machine Learning System Design. You’ll learn how to think like a senior ML engineer and design robust, production-ready systems."
+description: "Master ML system design interviews with Valerii Babushkin, ex-Meta Head of Data Science. Learn fraud detection systems, feature engineering, metrics selection, and production ML best practices for FAANG interviews."
+topics:
+- machine learning
+- career growth
 ids:
   anchor: Machine-Learning-System-Design-Interview---Valerii-Babushkin-e1ej65e
   youtube: 0RsmRjar66E
@@ -13,7 +18,7 @@ links:
   youtube: https://www.youtube.com/watch?v=0RsmRjar66E
 season: 7
 short: Machine Learning System Design Interview
-title: Machine Learning System Design Interview
+title: "Machine Learning System Design & Interview Strategies for Senior ML Engineers"
 transcript:
 - line: This week, we'll talk about machine learning system design interviews. We
     have a special guest today, Valerii. Valerii works at Blockchain.com as a head
@@ -42,7 +47,7 @@ transcript:
   sec: 182
   time: '3:02'
   who: Valerii
-- header: Valerii’s background
+- header: "Guest Introduction: Head of Data Science & Kaggle Grandmaster"
 - line: '[laughs] Okay, so I briefly already told everyone about your background.
     But before we go into our main topic of machine learning system design, maybe
     let''s talk a bit more about your career journey in detail. Can you tell us a
@@ -50,6 +55,7 @@ transcript:
   sec: 186
   time: '3:06'
   who: Alexey
+- header: "Blockchain.com History & Broad Head of Data Science Role"
 - line: Well, sure. Let's start from the current time. As you said, I'm head of data
     science at Blockchain. So a bit about blockchain, first. It's a very old crypto
     company. When I say very old – it is very, very old. It was founded in 2011. Try
@@ -84,10 +90,11 @@ transcript:
   sec: 201
   time: '3:21'
   who: Valerii
-- line: So it’s more like head of data rather than data science.
+- line: So it's more like head of data rather than data science.
   sec: 342
   time: '5:42'
   who: Alexey
+- header: "Career Shift: Retail to Facebook Privacy & Large-Scale Systems"
 - line: To some extent, yes, because it's everything related to data – from infrastructure
     to applications. From analytics to visualization. Before that, I was working in
     – well, I joined Facebook and left Meta. I will just rotate my screen a bit –
@@ -156,7 +163,7 @@ transcript:
   sec: 547
   time: '9:07'
   who: Valerii
-- header: Who goes through an ML system design interview
+- header: "ML System Design: Target Audience (Level 5 Senior MEs)"
 - line: Okay. Let's talk about machine learning system design. This is a part of the
     interview process and you said you did a lot of interviews as the interviewer.
     I imagine also, when you were joining Facebook before that, you also had to take
@@ -234,7 +241,7 @@ transcript:
   sec: 798
   time: '13:18'
   who: Valerii
-- header: System design VS ML System design
+- header: "System Design vs. ML Design & Focusing on Machine Learning"
 - line: 'I think this is what happened to me, but this is something that I prepared
     for later. So, you said that important interviews for detecting, or assessing
     your level are: behavioral interview, system design interview, and machine learning
@@ -264,6 +271,7 @@ transcript:
   sec: 838
   time: '13:58'
   who: Valerii
+- header: "Fraud Detection Walkthrough: Loss Functions, Metrics, Modeling"
 - line: 'Now we can say that we know that we have to put not zero or one, but some
     score between zero and one, when we have a transaction. When we have a transaction
     now, that probably means we''d like to have the system in real time. Okay, let''s
@@ -354,13 +362,14 @@ transcript:
   who: Valerii
 - line: That's quite a lot of information. I was trying to process this. That's quite
     a lot of things. So this was an example of machine learning system design. The
-    interview starts and then the person – the interviewer – asks you, “Let's design
-    a system for detecting fraud.” And then you probably ask this person a few questions
+    interview starts and then the person – the interviewer – asks you, "Let's design
+    a system for detecting fraud." And then you probably ask this person a few questions
     and then you do this information dump on that person, right?
   sec: 1233
   time: '20:33'
   who: Alexey
-- line: The best way is not even to ask, but to say “My assumption is that. Do you
+- header: "Interview Strategy: Making Assumptions & System vs. ML Design Examples"
+- line: The best way is not even to ask, but to say "My assumption is that. Do you
     agree with that or not?” You see, you asked the question, but actually, you’ve
     made an assumption. You say “Are you okay with that?” Because you've been given
     some information. Of course, in the real world, we would gather the context because
@@ -434,6 +443,7 @@ transcript:
   sec: 1467
   time: '24:27'
   who: Valerii
+- header: "ML System is the Whole Pipeline & Interview Failure: Too Much Heuristics"
 - line: But where does system design actually come into the picture here? Because
     here, we talked about selecting the right metric, which was the important thing,
     as you said. You said it was log loss for this specific case. Or even before log
@@ -481,10 +491,6 @@ transcript:
   sec: 1542
   time: '25:42'
   who: Valerii
-- line: Alexey’s interview case study
-  sec: 1542
-  time: '25:42'
-  who: Valerii
 - line: Okay, yeah. I was already talking about my experience with interviews. There,
     I was interviewed for a tech lead position and this question was about designing
     a recommender system for points of interest. The way I approached it – first,
@@ -519,12 +525,13 @@ transcript:
   sec: 1684
   time: '28:04'
   who: Alexey
-- line: British HR would never write you that. They would say something like “Alex,
-    it was wonderful. It was brilliant. There was just that slight miscommunication.”
+- line: British HR would never write you that. They would say something like "Alex,
+    it was wonderful. It was brilliant. There was just that slight miscommunication."
     Something like that. They'll never tell you that you completely failed. Never.
   sec: 1690
   time: '28:10'
   who: Valerii
+- header: "Securing the Interview: Iterative Baseline Design & Technical Depth"
 - line: '[laughs] I might be wrong with using these words. I think the recruiter probably
     used different words. But the reason for me failing the process – the whole interview
     – was machine learning system design. Not the others. I was afraid about the others.
@@ -616,7 +623,7 @@ transcript:
   sec: 1999
   time: '33:19'
   who: Valerii
-- header: Preparing for ML system design interviews
+- header: "ML System Prep: Experience, Mock Interviews, Dealing with Unknown Domains"
 - line: Okay. [laughs] So, how do I actually prepare for machine learning system design
     interviews? It feels as though just being a practitioner is not enough. Because,
     first, you never know what exactly is expected. I guess you need to ask that.
@@ -702,7 +709,7 @@ transcript:
   sec: 2248
   time: '37:28'
   who: Valerii
-- header: Machine learning project checklist
+- header: "Tool: ML Project Checklist & Defining Goal, Proxy Metrics, Long-Term Health"
 - line: Speaking of this mock interview – a while ago, I had a mock interview with
     Valerii, where Valerii interviewed me. The question was about designing a fraud
     detection system.
@@ -748,7 +755,7 @@ transcript:
   sec: 2353
   time: '39:13'
   who: Valerii
-- header: The importance of defining a goal and ways of measuring it
+- header: "Post-Goal Steps: Features, Validation, A/B Testing, Monitoring, Fallbacks"
 - line: So about this checklist – let's say we need to design a system, not necessarily
     for an interview, but just design a system. What is the first thing we need to
     do? Do you remember what is in this checklist?
@@ -826,7 +833,6 @@ transcript:
   sec: 2633
   time: '43:53'
   who: Valerii
-- header: What to do after you set a goal
 - line: Okay. So we do this, and then you also mentioned A/B tests. We define a metric,
     and then we say how exactly we are going to measure this metric. What do we do
     next?
@@ -908,7 +914,7 @@ transcript:
   sec: 2868
   time: '47:48'
   who: Valerii
-- header: Typical components of an ML system
+- header: "ML System Components: Algorithms are 1-5% & Features are Paramount"
 - line: Okay. So let's go to the questions. We have quite a few of them. The first
     question we have is, “What are the typical components of a machine learning system?
     And what percentage of it are machine learning algorithms?”
@@ -995,7 +1001,8 @@ transcript:
   sec: 3134
   time: '52:14'
   who: Alexey
-- line: “Do we really need machine learning here exactly?” Maybe we can be lucky and
+- header: "Concept: Avoiding ML & Tool: Machine Learning Design Patterns Book"
+- line: Do we really need machine learning here exactly? Maybe we can be lucky and
     we can just avoid it.
   sec: 3145
   time: '52:25'
@@ -1046,7 +1053,7 @@ transcript:
   sec: 3239
   time: '53:59'
   who: Valerii
-- header: System design and coding in interviews for new graduates
+- header: "New Grad Interviews: No System Design & Focus on Coding (LeetCode)"
 - line: Yeah, so another question from Alvaro. Alvaro is graduating soon and he is
     a machine learning intern at a startup. He's starting a job hunt, hopefully [inaudible].
     So how much system design should he expect as a new grad?
@@ -1124,7 +1131,7 @@ transcript:
   sec: 3440
   time: '57:20'
   who: Valerii
-- header: Humans in the validation of model performance
+- header: "Validation in Production: A/B Tests, Human Labels, Practitioner Experience"
 - line: Okay. I don't think we have a lot of time for more questions. There is an
     interesting question from Vijay, which is about, “What is the best way to validate
     the model performance in production? Do we need humans for that or are there other

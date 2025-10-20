@@ -9,103 +9,249 @@
     <div class="row">
       <div class="col-lg-8 mx-auto content">
 
-        <div class="content-head d-flex justify-content-between align-items-center">
-          <div>
-            <h1>{{ page.title }}</h1>
+        <div class="podcast-head-section">
+          <div class="podcast-header">
+            <div class="podcast-meta-top">
+              <span class="podcast-type-badge">Season {{ page.season }}, Episode {{ page.episode }}</span>
+            </div>
+            <h1>{{ page.title }}{% if page.guests %} | {% for a in page.guests %}{% assign author = site.people | where: "short", a | first %}{{ author.title }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</h1>
             {% if page.subtitle %}
-              <h3>{{ page.subtitle }}</h3>
+              <h3 class="podcast-subtitle">{{ page.subtitle }}</h3>
             {% endif %}
-
-            <p>Season {{ page.season }}, episode {{ page.episode }} of the DataTalks.Club podcast with
-              {% for a in page.guests %}
-                {% assign author = site.people | where: "short", a | first %}
-                <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}
-              {% endfor %}
-            </p>
           </div>
-          <div>
-            <div class="social">
-            </div>
-          </div>
-        </div>
 
-        <div class="content-main mb-5">
-          <div class="pod-badges">
+          <div class="podcast-video-container">
+            {% include youtube.html video_id=page.ids.youtube %}
+          </div>
+
+        <div class="podcast-listen-links">
+          <span class="listen-label">Listen or watch on your favorite platforms</span>
+          <div class="listen-buttons">
+            <a href="{{ page.links.youtube }}" target="_blank" class="listen-btn listen-btn-youtube">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+              </svg>
+              YouTube
+            </a>
             {% if page.links.apple and page.links.apple != 'TODO' %}
-            <div class="pod-badge-container">
-              <a href="{{ page.links.apple }}" target="_blank">
-                <img class="pod-badge" src="/images/podcast/badges/apple-podcasts.svg" />
-              </a>
-            </div>
+            <a href="{{ page.links.apple }}" target="_blank" class="listen-btn listen-btn-apple">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
+              </svg>
+              Apple Podcasts
+            </a>
             {% endif %}
             {% if page.links.spotify and page.links.spotify != 'TODO' %}
-            <div class="pod-badge-container">
-              <a href="{{ page.links.spotify }}" target="_blank">
-                <img class="pod-badge" src="/images/podcast/badges/spotify.svg" />
-              </a>
-            </div>
+            <a href="{{ page.links.spotify }}" target="_blank" class="listen-btn listen-btn-spotify">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z"/>
+              </svg>
+              Spotify
+            </a>
             {% endif %}
-            <div class="pod-badge-container">
-              <a href="{{ page.links.youtube }}" target="_blank">
-                <img class="pod-badge" src="/images/podcast/badges/youtube.svg" />
-              </a>
-            </div>
-            <div class="pod-badge-container">
-              <a href="{{ page.links.anchor }}" target="_blank">
-                <img class="pod-badge" src="/images/podcast/badges/anchor.svg" />
-              </a>
-            </div>
+          </div>
+        </div>
+      </div>
+
+        <!-- Tabs Navigation -->
+        <div class="podcast-tabs">
+          <button class="podcast-tab-button active" data-tab="shownotes">Show Notes</button>
+          <button class="podcast-tab-button" data-tab="timestamps">Timestamps</button>
+          {% if page.transcript %}
+          <button class="podcast-tab-button" data-tab="transcript">Transcript</button>
+          {% endif %}
+        </div>
+
+        <!-- Tab Contents -->
+        <div class="podcast-tab-content active" id="shownotes-tab">
+          {% if page.intro %}
+          <!-- Intro Text Section -->
+          <div class="podcast-intro-section">
+            <p>{{ page.intro }}</p>
+          </div>
+          {% endif %}
+
+          <!-- Show Notes Content -->
+          <div class="content-main mb-5">
+            {{ content }}
           </div>
 
+          <!-- Guest Bio Cards -->
+          {% if page.guests %}
+          <div class="guest-bio-section mb-4">
+            {% for guest_short in page.guests %}
+              {% assign guest = site.people | where: "short", guest_short | first %}
+              {% if guest %}
+              <div class="guest-bio-card">
+                <img src="/{{ guest.picture }}" alt="{{ guest.title }}" class="guest-bio-img">
+                <div class="guest-bio-content">
+                  <div class="guest-bio-header">
+                    <span class="guest-bio-label">About this Guest</span>
+                    <h3 class="guest-bio-name">{{ guest.title }}</h3>
+                  </div>
+                  <div class="guest-bio-description">
+                    {% if guest.bio_short %}
+                      {{ guest.bio_short }}
+                    {% else %}
+                      {{ guest.content }}
+                    {% endif %}
+                  </div>
+                  <div class="guest-bio-links">
+                    {% if guest.linkedin %}
+                      <a href="https://www.linkedin.com/in/{{ guest.linkedin }}" target="_blank">LinkedIn</a>
+                    {% endif %}
+                    {% if guest.twitter %}
+                      <a href="https://twitter.com/{{ guest.twitter }}" target="_blank">X</a>
+                    {% endif %}
+                    <a href="{{ guest.url }}">{{ guest.title }} on DataTalks.Club</a>
+                  </div>
+                </div>
+              </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+          {% endif %}
+
+
+          <!-- Newsletter Section -->
+        <div class="podcast-newsletter-section">
+          <div class="podcast-newsletter-content">
+            <h2 class="podcast-newsletter-title">Join 130,000+ data professionals and get weekly updates on new podcast episodes, upcoming events, free courses, and more.</h2>
+            <p class="podcast-newsletter-description">
+              You'll also receive an invite to our Slack community with instant access to discussions, networking, and peer support.
+            </p>
+            {% include subscribe.html subscribe="true" %}
+          </div>
         </div>
 
-        <div class="content-main mb-5">
-          {% include youtube.html video_id=page.ids.youtube %}
-          {% include anchor.html id=page.ids.anchor %}
+          <!-- Related Episodes Section -->
+          <div class="related-episodes-section">
+            <h2 class="related-episodes-title">Related episodes</h2>
+            <div class="related-episodes-grid">
+              {% assign related_count = 0 %}
+              {% assign related_episodes = site.podcast | where: "season", page.season | sort: "episode" | reverse %}
+              {% for episode in related_episodes %}
+                {% if episode.url != page.url and related_count < 3 %}
+                  <a href="{{ episode.url }}" class="related-episode-card">
+                    <div class="related-episode-image">
+                      <img src="/{{ episode.image }}" alt="{{ episode.title }}">
+                    </div>
+                    <div class="related-episode-content">
+                      {% if episode.season and episode.episode %}
+                        <span class="related-episode-badge">Season {{ episode.season }}, Episode {{ episode.episode }}</span>
+                      {% endif %}
+                      <h3 class="related-episode-title">{{ episode.title }}</h3>
+                      {% if episode.guests %}
+                        <p class="related-episode-guest">
+                          {% for guest_short in episode.guests limit:1 %}
+                            {% assign guest = site.people | where: "short", guest_short | first %}
+                            {{ guest.title }}
+                          {% endfor %}
+                        </p>
+                      {% endif %}
+                    </div>
+                  </a>
+                  {% assign related_count = related_count | plus: 1 %}
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
         </div>
 
-        <div class="content-main mb-5">
-          {{ content }}
-        </div>
-
-        <div class="content-main mb-5">
-          Did you like this episode? Check <a href="/podcast.html" target="_blank">other episodes of the podcast</a>,
-          and <a href="/events.html" target="_blank">register for new events</a>.
+        <div class="podcast-tab-content" id="timestamps-tab">
+          {% if page.transcript %}
+            <p class="timestamps-prompt">Click any timestamp to jump to that moment in the video</p>
+            <div class="timestamps-list">
+              <ul>
+              {% assign found_header = false %}
+              {% assign header_text = "" %}
+              {% for line in page.transcript %}
+                {% if line.header %}
+                  {% assign found_header = true %}
+                  {% assign header_text = line.header %}
+                {% elsif found_header and line.sec %}
+                  <li>
+                    <a href="#" class="timestamp-link" data-time="{{ line.sec }}">
+                      <span class="timestamp-time">{{ line.time }}</span>
+                      <span class="timestamp-text">{{ header_text }}</span>
+                    </a>
+                  </li>
+                  {% assign found_header = false %}
+                {% endif %}
+              {% endfor %}
+              </ul>
+            </div>
+          {% else %}
+          <p>Timestamps coming soon...</p>
+          {% endif %}
         </div>
 
         {% if page.transcript %}
-        <div class="content-main mb-5">
-          <h2 id="transcript">Transcript</h2>
-          <p>
-            The transcripts are edited for clarity, sometimes with AI.
-            If you notice any incorrect information,
-            <a href="https://github.com/DataTalksClub/datatalksclub.github.io/issues/new/choose" target="_blank">let us know</a>.
-          </p>
+        <div class="podcast-tab-content" id="transcript-tab">
+          <div class="content-main mb-5">
+            <p class="transcript-disclaimer">
+              The transcripts are edited for clarity, sometimes with AI.
+              If you notice any incorrect information,
+              <a href="https://github.com/DataTalksClub/datatalksclub.github.io/issues/new/choose" target="_blank">let us know</a>.
+            </p>
 
-          {% assign toc = page.transcript | where_exp: "line", "line.header" %}
-          <ul>
-          {% for line in toc %}
-            <li><a href="#{{ line.header | slugify }}">{{ line.header }}</a></li>
-          {% endfor %}
-          </ul>
-          {% for line in page.transcript %}
-            {% if line.header %}
-            <h3 id="{{ line.header | slugify }}">{{ line.header }}</h3>
-            {% else %}
-            <p><b>{{ line.who }}</b>: {{ line.line }}{% if line.sec %} (<a href="{{ page.links.youtube }}&t={{ line.sec }}s" target="youtube">{{ line.time }}</a>){% endif %}</p>
-            {% endif %}
-          {% endfor %}
+            {% for line in page.transcript %}
+              {% if line.header %}
+              <h3 id="{{ line.header | slugify }}" class="transcript-header">{{ line.header }}</h3>
+              {% else %}
+              <p class="transcript-line"><b>{{ line.who }}</b>: {{ line.line }}{% if line.sec %} (<a href="{{ page.links.youtube }}&t={{ line.sec }}s" target="youtube">{{ line.time }}</a>){% endif %}</p>
+              {% endif %}
+            {% endfor %}
+          </div>
         </div>
         {% endif %}
 
-        <div class="article-divider"></div>
-
-        <div class="article-end">
-          {% include subscribe.html subscribe="true" %}
-        </div>
       </div>
     </div>
   </div>
+
+  <script>
+    // Tab switching functionality
+    document.addEventListener('DOMContentLoaded', function() {
+      const tabButtons = document.querySelectorAll('.podcast-tab-button');
+      const tabContents = document.querySelectorAll('.podcast-tab-content');
+
+      tabButtons.forEach(button => {
+        button.addEventListener('click', function() {
+          const targetTab = this.getAttribute('data-tab');
+
+          // Remove active class from all buttons and contents
+          tabButtons.forEach(btn => btn.classList.remove('active'));
+          tabContents.forEach(content => content.classList.remove('active'));
+
+          // Add active class to clicked button and corresponding content
+          this.classList.add('active');
+          document.getElementById(targetTab + '-tab').classList.add('active');
+        });
+      });
+
+      // Timestamp click functionality
+      const timestampLinks = document.querySelectorAll('.timestamp-link');
+      timestampLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+          e.preventDefault();
+          const timeInSeconds = parseInt(this.getAttribute('data-time'));
+          
+          // Get the YouTube iframe
+          const iframe = document.getElementById('podcast-video-player');
+          if (iframe) {
+            // Get the video ID from the src
+            const videoId = iframe.src.match(/embed\/([^?]+)/)[1];
+            // Reload iframe with new timestamp
+            iframe.src = `https://www.youtube.com/embed/${videoId}?enablejsapi=1&start=${timeInSeconds}&autoplay=1`;
+            
+            // Scroll to video
+            document.querySelector('.podcast-video-container').scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }
+        });
+      });
+    });
+  </script>
 
   {% include footer.html %}
 </body>

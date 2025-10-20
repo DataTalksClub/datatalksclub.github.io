@@ -2,6 +2,12 @@
 episode: 4
 guests:
 - lindsaymcquade
+short: Career Coaching
+title: "How to Navigate Career Transitions, Overcome Imposter Syndrome, and Build Confidence"
+intro: "In this episode, Transformational and Executive Coach Lindsay McQuade shares practical insights on how professionals can navigate career transitions, overcome imposter syndrome, and build confidence in competitive fields like tech and consulting. Drawing from over 20 years of experience—including roles at Accenture, Cass Business School, and SPICED Academy—Lindsay explains how to reframe your past experience, identify transferable skills, and use frameworks like Ikigai to clarify career focus. You’ll learn proven strategies for job searching, networking on LinkedIn, working with recruiters, and developing structured learning paths to accelerate growth and promotion. Whether you’re pivoting careers or aiming for your next role, this episode offers actionable guidance to manage uncertainty and thrive in professional transitions."
+description: "Learn proven strategies to navigate career transitions, overcome imposter syndrome, and land data roles. Expert tips on CVs, networking, and confidence building."
+topics:
+- career growth
 ids:
   anchor: Career-Coaching---Lindsay-McQuade-e1e8elk
   youtube: _U8GrYJvmJM
@@ -12,8 +18,6 @@ links:
   spotify: https://open.spotify.com/episode/3jMRuqU3ZEcSeoizuOU5q1
   youtube: https://www.youtube.com/watch?v=_U8GrYJvmJM
 season: 7
-short: Career Coaching
-title: Career Coaching
 transcript:
 - line: This week, we'll talk about career coaching. We have a special guest today,
     Lindsey. Lindsey works at the Spiced Academy in Berlin, where she helps bootcamp
@@ -33,7 +37,7 @@ transcript:
   sec: 94
   time: '1:34'
   who: Lindsay
-- header: Lindsay’s background
+- header: "Podcast Start: Career Coaching with Lindsay McQuade"
 - line: Before we go into our main topic of career coaching, let's start with your
     background. Can you tell us about your career journey so far?
   sec: 99
@@ -86,7 +90,7 @@ transcript:
   sec: 106
   time: '1:46'
   who: Lindsay
-- header: Spiced Academy
+- header: "Spiced Academy Programs and Defining the Career Coach Role"
 - line: Interesting. Can you tell us a few words about the school – Spiced Academy?
     What do you do there?
   sec: 302
@@ -104,7 +108,6 @@ transcript:
   sec: 309
   time: '5:09'
   who: Lindsay
-- header: Career coaching role
 - line: I think this school is quite prolific now. If you take any company in Berlin,
     they probably have a graduate that is working there or they at least know that
     this school exists. So you're doing quite a good job. Thanks for doing that. Before
@@ -194,7 +197,7 @@ transcript:
   sec: 613
   time: '10:13'
   who: Lindsay
-- header: Reframing your experience
+- header: "Reframing Past Experience; Defining Ideal Job Environment"
 - line: There is a comment from one of your former students, Anna, who says that she
     definitely agrees that making people feel good about themselves is very important
     and you are definitely good at this. I actually have a friend who was a lawyer
@@ -249,6 +252,7 @@ transcript:
   sec: 782
   time: '13:02'
   who: Lindsay
+- header: "Strategy: Packaging Experience (Data, Skills, Transferable Competencies)"
 - line: Then the third thing would be transferable competencies like problem solving
     and analytical skills. “When have you done this?” A lot of people have done this
     already. Here, it's important to describe it in a way as achievement-based. What
@@ -325,7 +329,7 @@ transcript:
   sec: 1029
   time: '17:09'
   who: Lindsay
-- header: Helping with career problems
+- header: "The Value of Career Coaches: Belief, Navigation, and Paperwork"
 - line: How important is it, in your opinion, to have career coaches for boot camps?
     Let's say, what would happen if there were no career coaches in the boot camp
     where you're working?
@@ -420,6 +424,7 @@ transcript:
   sec: 1416
   time: '23:36'
   who: Alexey
+- header: "Marketplace Ambiguity; The Difficult Problem of Finding Job Focus"
 - line: I think one problem that I maybe didn't mention yet, which actually is the
     most difficult one – I think getting students oriented around the role. Eventually
     they understand and they know what they want to do. They may also understand how
@@ -446,7 +451,7 @@ transcript:
   sec: 1428
   time: '23:48'
   who: Lindsay
-- header: Finding what interests you
+- header: "Tool: Ikigai Model for Finding Tailored Career Focus"
 - line: I was going to ask that.
   sec: 1536
   time: '25:36'
@@ -530,8 +535,8 @@ transcript:
   sec: 1774
   time: '29:34'
   who: Lindsay
-- header: Tailoring a CV and “spray and pray”
-- line: Let’s come back to having focus when looking for a job. How much research
+- header: "Job Search Strategy: Balancing Tailored Applications and \"Spray & Pray\""
+- line: Let's come back to having focus when looking for a job. How much research
     do you think people should put into learning about companies before they apply?
     Should they just “spray and pray” – just apply everywhere? Or should they do a
     bit of research and first select a niche, and then select a few companies and
@@ -566,7 +571,6 @@ transcript:
   sec: 1913
   time: '31:53'
   who: Alexey
-- header: Career coaching outside a bootcamp
 - line: I would also add to what you've said is – if you can, if those companies can
     belong to some sort of industry or domain, or even technology focus, then that's
     even better. Because then, you can really do some research at this high level
@@ -622,7 +626,7 @@ transcript:
   sec: 2086
   time: '34:46'
   who: Lindsay
-- header: Imposter syndrome
+- header: "Imposter Syndrome: Objective Success vs. Distorted Self-View"
 - line: There is quite a big topic that I also wanted to talk about, which is when
     people don't believe in themselves. As we talked about, this is one of the reasons
     that people decide not to look for a job – they just don't believe that they are
@@ -750,7 +754,8 @@ transcript:
   sec: 2514
   time: '41:54'
   who: Alexey
-- line: No. It's very hidden. So the next step is to think “Okay, what is the trigger?
+- header: "Coping Strategies: Accepting Failure; Confirmation Bias; External Support"
+- line: No. It's very hidden. So the next step is to think "Okay, what is the trigger?
     What is the thing that happens before I get to those thoughts?” At work, we're
     often given a task. And our tasks are challenging. We're in workplaces – we're
     asked to do stuff that we don't always know how to do. Maybe we do this task and
@@ -827,7 +832,7 @@ transcript:
   sec: 2695
   time: '44:55'
   who: Lindsay
-- header: After bootcamp
+- header: "Building Confidence in Transition; Creating Structured Learning Paths"
 - line: I'm curious. For example, for me, I've been in this industry for quite a while
     – I have worked as a data scientist for the last six, seven years. For quite some
     time. I learned how to live with this feeling. But I imagine for somebody who
@@ -929,7 +934,7 @@ transcript:
   sec: 3070
   time: '51:10'
   who: Lindsay
-- header: Internships
+- header: "Internships vs. Junior Roles; Generating Opportunities via Networking"
 - line: Yeah. We have quite a few questions. The first question I see is about internships
     – we have internships and we have junior positions. So do you see your students
     applying for internships or is it only for university students? Is it even advisable
@@ -978,8 +983,8 @@ transcript:
   sec: 3274
   time: '54:34'
   who: Alexey
-- header: Working with recruiters
-- line: Another question we have is, “What advice would you give for working with
+- header: "Advice for Working with Recruiters; Junior Level Strategy"
+- line: Another question we have is, "What advice would you give for working with
     recruiters?”
   sec: 3315
   time: '55:15'
@@ -1047,7 +1052,7 @@ transcript:
   sec: 3475
   time: '57:55'
   who: Lindsay
-- header: Networking on LinkedIn
+- header: "LinkedIn Networking Tips: Sending Credible, Informational Notes"
 - line: Yeah, thanks. Maybe the last question, because I see we're almost out of time.
     If you can answer this quickly, because this may be more of a complex question
     that it looks like. So the question is “Can you give some tips for networking

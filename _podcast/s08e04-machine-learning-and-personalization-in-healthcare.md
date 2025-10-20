@@ -2,6 +2,7 @@
 episode: 4
 guests:
 - stefangudmundsson
+intro: "In this episode from our archives, Stefan Gudmundsson—Director of Data, Analytics, and AI at CCP Games—shares insights from his experience leading AI at Sidekick Health, where he built data-driven healthcare products that combine personalization, behavioral psychology, and ethical design. Stefan explains how to apply machine learning for diagnosis and patient engagement, design A/B tests in regulated environments, and balance speed with medical responsibility. You’ll learn how to create scalable analytics foundations, ethical recommender systems, and data cultures that prioritize both innovation and empathy."
 ids:
   anchor: Machine-Learning-and-Personalization-in-Healthcare---Stefan-Gudmundsson-e1h5gdg
   youtube: IDzhmmKeNG4
@@ -13,7 +14,11 @@ links:
   youtube: https://www.youtube.com/watch?v=IDzhmmKeNG4
 season: 8
 short: Machine Learning and Personalization in Healthcare
-title: Machine Learning and Personalization in Healthcare
+title: "Building Data-Driven Healthcare Apps: Personalization, A/B Testing & Ethics"
+description: "Learn ML in healthcare with Stefan Gudmundsson. Master gamified digital therapeutics, A/B testing, GDPR, and agenda-driven recommender systems."
+topics:
+- machine learning
+- healthcare
 transcript:
 - line: Hello, everyone. This week we'll talk about machine learning in healthcare,
     and in particular, about personalization in healthcare. We have a special guest
@@ -27,7 +32,7 @@ transcript:
   sec: 36
   time: 0:36
   who: Stefan
-- header: Stefan’s background
+- header: "Career Journey: Development, Data Warehouse, AI Leadership, Retail"
 - line: Before we go into our main topic of machine learning in healthcare and personalization
     in healthcare, let's start with your background. Can you tell us about your career
     journey so far?
@@ -139,6 +144,7 @@ transcript:
   sec: 367
   time: '6:07'
   who: Alexey
+- header: "ML in Healthcare: Diagnosis, Drug Discovery, Protein Folding, Personalization"
 - line: There are, of course. With myself, this is also what comes to mind first –
     a typical vision you have is that there's an X-ray of some broken arm or whatnot
     and then you have deep learning image recognition to tell you “Okay, this is wrong,
@@ -203,7 +209,7 @@ transcript:
   sec: 593
   time: '9:53'
   who: Stefan
-- header: Sidekick Health – gamified therapeutics
+- header: "Sidekick Health: Gamified Digital Therapeutics; Maximizing Quality Life Years"
 - line: So basically every scientist becomes the target audience. Before this episode,
     I was doing a little bit of research about the company where you work right now
     – Sidekick Health – and I know that this is in the healthcare domain. In my mind,
@@ -280,6 +286,7 @@ transcript:
   sec: 874
   time: '14:34'
   who: Alexey
+- header: "Key Difference: Low In-App Time; Behavioral Psychology & Habit Formation"
 - line: Yes, yes. But at the same time, there are critical differences. We don't want
     to keep you in the app for hours, because most of the activity you need to do
     is outside of the app. So that is a very interesting difference between the two
@@ -372,6 +379,7 @@ transcript:
   sec: 1119
   time: '18:39'
   who: Alexey
+- header: "Culture Similarity; Metric Proxy: Daily Opening; Cautious A/B Testing"
 - line: Exactly. I think it's much more similar than you would think in the beginning.
     You basically have a program – some kind of solution – and you're in a company
     where you really want to create this data-driven culture from the data science
@@ -448,10 +456,11 @@ transcript:
   who: Stefan
 - line: The experiment in this scenario could be “Let's ask people to, instead of
     walking 3000 steps per day, let's ask them to walk 4000 steps and then we see
-    if it changes the habit.” Right?
+    if it changes the habit." Right?
   sec: 1401
   time: '23:21'
   who: Alexey
+- header: "Reward Systems: Altruistic Charity vs. Vanity Items/Leaderboards"
 - line: Exactly. That's why companies like King and games like Candy Crush and social
     media are so good at retaining you – they are constantly experimenting and doing
     A/B tests, giving the audience two or three different versions and then you pick
@@ -532,7 +541,7 @@ transcript:
   sec: 1595
   time: '26:35'
   who: Stefan
-- header: The importance of building a strong foundation for a data science team
+- header: "Building Data Foundation: Analytics, Infrastructure, Personalization, Wearables"
 - line: Can you maybe tell us about what kind of problems your team solves? Maybe
     you can also mention a few of the last projects that you worked on.
   sec: 1613
@@ -603,6 +612,7 @@ transcript:
   sec: 1808
   time: '30:08'
   who: Alexey
+- header: "Challenges: Regulation, Data Privacy, Ethics, Empathy, GDPR/HIPAA"
 - line: Usually innovation is at its best when you have experts from different fields
     coming together. Somehow the space between them – that makes it automatic. And
     I think that's what we have. We have the medical doctors and the behavioral psychologists
@@ -689,7 +699,7 @@ transcript:
   sec: 2100
   time: '35:00'
   who: Stefan
-- header: Sidekick Health’s personalized recommendations and content
+- header: "Personalization: Agenda-Driven Recommender System (Spotify Analogy)"
 - line: Okay. I wanted to go back to what we were talking about. You said that the
     app is based on the customer profile – patient profile – it makes different recommendations,
     or personalized recommendations, based on that. Can you maybe tell us a bit more
@@ -806,6 +816,7 @@ transcript:
   sec: 2473
   time: '41:13'
   who: Alexey
+- header: "A/B Testing: Foundation for Personalization; Strong Analytics Crucial"
 - line: But it is very linked. Because if you offer everyone an A/B test to begin
     with, there are so many low hanging fruits, but you're just improving your program
     easily if you just take the winner of two in every test. But then you gradually
@@ -918,8 +929,7 @@ transcript:
   sec: 2847
   time: '47:27'
   who: Stefan
-- header: The importance of having domain knowledge to work as a data professional
-    in the healthcare industry
+- header: "Data-Driven Culture: Speed over Perfection; Managing Medical Risk"
 - line: So if I want to work in the healthcare industry as a machine learning engineer
     or a data scientist or a data engineer, how much do I need to know about healthcare
     in general? Do I need to have MD status to work there?
@@ -1063,6 +1073,7 @@ transcript:
   sec: 3219
   time: '53:39'
   who: Stefan
+- header: "Rapid Growth and Hiring Strategy; AI for Psychiatric Monitoring"
 - line: You're hiring in Germany, in Sweden and in Iceland. Right?
   sec: 3279
   time: '54:39'

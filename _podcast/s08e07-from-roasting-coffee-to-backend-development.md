@@ -2,6 +2,7 @@
 episode: 7
 guests:
 - jessicagreene
+intro: "In this episode, Jessica Greene—Senior Machine Learning Engineer at Ecosia—shares her remarkable journey from film and coffee roasting to building AI systems that power eco-friendly search. She explains how community support through PyLadies Berlin, open source projects, and government programs like Bildungsgutschein helped her transition into tech. Jessica offers candid advice on learning Python, overcoming imposter syndrome, and creating your own opportunities through internships and conference talks. You’ll learn how community involvement, persistence, and curiosity can turn an unconventional background into a thriving career in machine learning."
 ids:
   anchor: From-Roasting-Coffee-to-Backend-Development---Jessica-Greene-e1i1ten/a-a7s65oj
   youtube: BKqmNdxsBko
@@ -13,8 +14,14 @@ links:
   youtube: https://www.youtube.com/watch?v=BKqmNdxsBko
 season: 8
 short: From Roasting Coffee to Backend Development
-title: From Roasting Coffee to Backend Development
+title: "From Barista to Machine Learning Engineer: Career Change, Community & Confidence"
+description: "Learn career change strategies from Jessica Greene. Master Python, PyLadies community, public speaking, imposter syndrome, and breaking into tech."
+topics:
+- career switch
+- data science
+- career growth
 transcript:
+- header: "Career Change: Film, Coffee Roasting, Seeking Tech Stability"
 - line: This week, we'll talk about career changing. We have a special guest today,
     Jessica. As you might have guessed from the title, Jessica was roasting coffee
     working as a barista at some point, but then she decided to learn Python and eventually,
@@ -36,7 +43,7 @@ transcript:
   sec: 125
   time: '2:05'
   who: Jessica
-- header: Jessica’s background
+- header: "PyLadies Community; Speaking at Tech Conferences as Barista"
 - line: Yeah, thanks. And thanks for taking that course. Let's start with your background.
     I already told everyone who is listening to this that you have quite an interesting
     career. Can you maybe tell us about your career journey so far?
@@ -108,6 +115,7 @@ transcript:
   sec: 361
   time: '6:01'
   who: Alexey
+- header: "Transition Strategy: Code Academy; German Government Financial Support"
 - line: I think the first thing I did – which a lot of folks that I've spoken to did
     something similar – I went online and I searched for [chuckles] “What is programming?
     What courses can I do?” At the time, the big platform was Code Academy and I did
@@ -152,6 +160,7 @@ transcript:
   sec: 495
   time: '8:15'
   who: Alexey
+- header: "Tool: Bildungsgutschein; Andrew Ng Course; Free Code Camp"
 - line: Yeah, so they offer something called Bildungsgutschein in Germany, which means
     “a voucher for further education”. Now, in the last couple of years, it's very
     popular that the boot camps kind of keyed into this and you can use this towards
@@ -210,7 +219,7 @@ transcript:
   sec: 620
   time: '10:20'
   who: Jessica
-- header: Going from learning to actually making money
+- header: "Program: Rails Girls Summer of Code for Open Source Experience"
 - line: Was I correct when I said that you picked Python? You studied Python in Codecademy?
     So you were learning Python, you were learning math, and you are also taking the
     Andre Ng class. You were sitting somewhere in a room with a computer and WiFi,
@@ -280,8 +289,8 @@ transcript:
   sec: 923
   time: '15:23'
   who: Jessica
-- header: Landing your first job in tech
-- line: There is a question that I see, “How did you get your first job in the industry?”
+- header: "Landing First Tech Job: Internship Creation; Learning Willingness"
+- line: There is a question that I see, "How did you get your first job in the industry?"
     I think you just answered that. I don't know if an internship counts as the first
     job or not, but I think the experience is pretty much real industry experience.
     But, as I understood, you stayed there as a full time employee after finishing
@@ -353,8 +362,8 @@ transcript:
   sec: 1154
   time: '19:14'
   who: Jessica
-- header: Does your age matter when you’re trying to get a job?
-- line: There is a follow up question from the same person, “At what age?” But before
+- header: "Career Switching Age Concerns; Avoiding Self-Doubt and Stress"
+- line: There is a follow up question from the same person, "At what age?" But before
     you answer, you don't have to answer that, of course. But maybe – does it even
     matter at what age you do this? You said you changed your career three times,
     right? At least in Germany, do you feel age makes any difference when you try
@@ -403,10 +412,10 @@ transcript:
   sec: 1321
   time: '22:01'
   who: Jessica
-- header: Challenges that Jessica faced in the beginning of her career
+- header: "Community, Meetups, & Mastermind Groups for Motivation"
 - line: There's a question from Nelson and I think this is also similar to a question
-    that I prepared. “What are some of the challenges that you faced during the beginning
-    of your career?” What was the most challenging thing for you? Or things?
+    that I prepared. "What are some of the challenges that you faced during the beginning
+    of your career?" What was the most challenging thing for you? Or things?
   sec: 1329
   time: '22:09'
   who: Alexey
@@ -461,7 +470,7 @@ transcript:
   sec: 1498
   time: '24:58'
   who: Jessica
-- header: Jessica’s role at PyLadies
+- header: "PyLadies Organizing: Soft Skills & Community Support Focus"
 - line: Did you also do this with PyLadies? You mentioned that you can learn for free
     and you can get some pizza. Is it something that PyLadies also does, like these
     community learning events? Or is it more like a meetup where you just attend and
@@ -496,7 +505,7 @@ transcript:
   sec: 1550
   time: '25:50'
   who: Jessica
-- header: Fighting the Imposter Syndrome
+- header: "Imposter Syndrome; Jupyter Notebook Setup Challenges"
 - line: How do you fight your imposter syndrome? You said that you just learned your
     first two lines of Python code, so I don't think you felt like you were qualified
     to run a Python group. You said that, at the end, you realized that it doesn't
@@ -537,7 +546,7 @@ transcript:
   sec: 1794
   time: '29:54'
   who: Jessica
-- header: Generational differences in digital literacy and how to improve it
+- header: "Learning the Terminal; Dual-Booting Linux (Learning by Necessity)"
 - line: Yeah, I remember it was not easy for me as well. I was coming from the Java
     world to Python and I had a Windows computer as well, back then. It wasn't super
     easy. Now it's easier with Anaconda, but a while ago – maybe you've been doing
@@ -620,7 +629,7 @@ transcript:
   sec: 2035
   time: '33:55'
   who: Jessica
-- header: Events organized by PyLadies
+- header: "PyLadies Events: Workshops, Open Source Hacks, Remote CFPs"
 - line: Coming back to PyLadies – what kind of events do you actually organize? I
     know one, which is a physical meetup – there are speakers, you watch the talk,
     you attend the talks, and then there is some networking before and after. Is this
@@ -688,6 +697,7 @@ transcript:
   sec: 2267
   time: '37:47'
   who: Alexey
+- header: "Benefits of Community Organizing; Building Management Skills"
 - line: I mean, yeah, that's true. [cross-talk] It's interesting. I think there's
     different overhead with online. But what we would love to do is hybrid. We found
     being remote allowed us to reach more people, because we could also do collaborations
@@ -773,7 +783,7 @@ transcript:
   sec: 2558
   time: '42:38'
   who: Jessica
-- header: Jessica’s experience with public speaking
+- header: "Public Speaking: Starting Small; Gracefully Handling \"I Don't Know\""
 - line: Yeah, I imagine. You mentioned public speaking and this is something we indeed
     wanted to talk about. I know that you are quite an active speaker and you mentioned
     that you spoke, or gave a presentation, or was it a lightning talk? It doesn't
@@ -901,7 +911,7 @@ transcript:
   sec: 2993
   time: '49:53'
   who: Jessica
-- header: The impact of public speaking on your career
+- header: "Speaking Impact & Tips: Dry Runs, Personal Edge, Visibility"
 - line: Yeah, so how helpful was public speaking to your career? Did it help you land
     a job or broaden your network?
   sec: 3032
@@ -1011,9 +1021,9 @@ transcript:
   sec: 3329
   time: '55:29'
   who: Jessica
-- header: Jessica’s work at Ecosia
+- header: "Ecosia Search Engine: Tree Planting Mission; Backend Development (Go)"
 - line: I see that we don't have a lot of time left and I really wanted to talk to
-    you about the company where you work – Ecosia. I hope I’m pronouncing it correctly.
+    you about the company where you work – Ecosia. I hope I'm pronouncing it correctly.
     I know that you're doing some amazing stuff there. So can you tell us more about
     that?
   sec: 3336
@@ -1052,10 +1062,10 @@ transcript:
   sec: 3351
   time: '55:51'
   who: Jessica
-- header: Discrimination in the tech industry (and in general)
+- header: "Discrimination in Tech; Finding Guest Online (Social Media)"
 - line: Yeah, great. Before we finish, there is one question with three upvotes. Maybe
-    we can cover that quickly. The question is, “Did you face any discrimination for
-    being a woman in tech? It is said that tech bros can be pretty annoying.”
+    we can cover that quickly. The question is, "Did you face any discrimination for
+    being a woman in tech? It is said that tech bros can be pretty annoying."
   sec: 3490
   time: '58:10'
   who: Alexey

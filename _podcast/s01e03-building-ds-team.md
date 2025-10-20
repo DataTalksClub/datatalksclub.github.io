@@ -1,5 +1,5 @@
 ---
-title: "Building a Data Science Team"
+title: "Building Scalable AI Teams and Products: Lessons in MLOps, Leadership & Data Strategy"
 short: "Building a Data Science Team"
 guests: [dattran]
 
@@ -18,6 +18,8 @@ links:
   spotify: https://open.spotify.com/episode/0daFpY1z2J4Uop1XdMNsnY
   apple: https://podcasts.apple.com/us/podcast/building-a-data-science-team-dat-tran/id1541710331?i=1000502061864
 
+intro: "In this episode, Dat Tran, Partner and CTO at DATANOMIQ, shares his journey from economics and gaming to leading AI and data science teams at companies like idealo and Axel Springer. He discusses how to scale AI from prototype to production, build strong product cultures, and balance generalists vs. specialists when hiring. Drawing on his experience founding Priceloop, Dat dives into MLOps in production, open-source collaboration, explainable AI, and how to retain top talent in competitive markets. Packed with lessons on leadership, data strategy, and sustainable AI systems, this episode is a must-listen for data professionals aiming to build real impact with machine learning."
+
 transcript:
 - header: Intro
 - line: Today we have pleasure to have Dat as a guest. Dat needs no introduction.
@@ -34,7 +36,7 @@ transcript:
   sec: 173
   time: '2:53'
   who: Dat
-- header: "Dat\u2019s early career"
+- header: "Career Path: Economics, Gaming, and Early Coding Skills"
 - line: Yes, we'll start with your background. So can you please tell us how you started
     your career? How did you get into machine learning? And how this all led to becoming
     a CTO of your own startup?
@@ -166,7 +168,7 @@ transcript:
   sec: 629
   time: '10:29'
   who: Dat
-- header: Work at Idealo and Axel Springer
+- header: "Leadership Role at Idealo: Creating Teams and Sustainable Culture"
 - line: "I looked at some companies, which were interesting for me at the time. I\
     \ applied for several companies. I interviewed for companies like Deutsche Bahn,\
     \ Telekom and whatever. But then, none of these big companies were really interesting\
@@ -300,7 +302,7 @@ transcript:
   sec: 1198
   time: '19:58'
   who: Dat
-- header: Story of Priceloop
+- header: "Priceloop Founding: Disrupting Pricing with White Box AI Framework"
 - line: "Then I was talking to a few friends. One idea was \u201COkay, maybe you go\
     \ back to Vietnam.\u201D I'm not from Vietnam, I'm from Germany, but maybe go\
     \ to Vietnam and go to a consultancy, because the tech is really strong there,\
@@ -375,7 +377,7 @@ transcript:
   sec: 1492
   time: '24:52'
   who: Dat
-- header: Team at Priceloop
+- header: "Team Building Strategy: Experienced Generalists for Early Stage Startup"
 - line: "A long story. But very interesting. What stood out to me was, first of all,\
     \ you mentioned Andrew Ng and his course on Coursera. I think so many people ended\
     \ up where they are now, because of that course. Including myself. Yeah, it changed\
@@ -408,7 +410,7 @@ transcript:
   sec: 1645
   time: '27:25'
   who: Dat
-- header: How to start building a data team
+- header: "Transition to Consulting: MLOps Production and Day-Two Concepts"
 - line: That's an amazing topic. Many, many different companies, ecommerce companies
     will benefit from that. I know that it will all work out. So now you're already
     in the process of building a team. Some people already signed their offers, and
@@ -459,7 +461,7 @@ transcript:
   sec: 1839
   time: '30:39'
   who: Dat
-- header: Specialists vs generalists
+- header: "Hiring: Generalists vs. Specialists based on Organizational Maturity"
 - line: "It\u2019s an interesting discussion \u2013 this specialist versus generalist\
     \ \u2013 and I'm wondering. Let's say, if you were still at Idealo. Who would\
     \ you prefer to hire back then? If you wanted to hire somebody in your team? Would\
@@ -522,7 +524,7 @@ transcript:
   sec: 2084
   time: '34:44'
   who: Dat
-- header: Who to hire first
+- header: "Corporate Transformation at Axel Springer: Research and Open Source"
 - line: "Going back to your current company, Priceloop. You mentioned you want to\
     \ hire a lot of different people. You want to hire a product manager, you want\
     \ to hire a frontend engineer, backend engineer, UI/UX designer, data engineer.\
@@ -563,7 +565,7 @@ transcript:
   sec: 2241
   time: '37:21'
   who: Dat
-- header: What is a strong product team
+- header: "Strong Product Culture: Mission, Short Feedback, and Open Source"
 - line: "You mentioned a couple of things previously. And one thing that stood out\
     \ to me was \u2013 you want to build a strong product team. What does that mean\
     \ to you \u2013 a strong product team?"
@@ -608,7 +610,7 @@ transcript:
   sec: 2371
   time: '39:31'
   who: Dat
-- header: Motivating team to write articles and contribute to open source
+- header: "Data Scientist Hiring: Programming, Code Quality, and Soft Skills"
 - line: "Yes, that's definitely true. With this open source, many developers want\
     \ to do this. But when it comes to actually doing this\u2026 sometimes it's difficult.\
     \ Do you try to give some extra motivation? How do you motivate people to actually\
@@ -665,7 +667,7 @@ transcript:
   sec: 2605
   time: '43:25'
   who: Dat
-- header: Hiring a data scientist
+- header: "Tool: Project Prioritization Matrix (Impact vs. Feasibility); Fail Fast"
 - line: That's awesome. Coming back to the hiring process. So you need to hire engineers
     to make sure that the infrastructure is there. The process for collecting data
     is there. But at some point, you want to hire a data scientist. How do you do
@@ -768,7 +770,7 @@ transcript:
   sec: 2935
   time: '48:55'
   who: Dat
-- header: How to pick the next projects to work on
+- header: "Q&A: Retaining Talent, Managing Hype, and Product Manager Role"
 - line: "That's interesting\u2026 It didn\u2019t occur to me to look at these things.\
     \ But that's an interesting perspective. We just wanted to remind you that you\
     \ can ask Dat a question. You can go there and ask Dat a question. And we already\
@@ -815,7 +817,7 @@ transcript:
   sec: 3130
   time: '52:10'
   who: Alexey
-- header: Questions to Dat
+- header: "Starting Data Science: Dealing with Poor Data Quality; Collecting Data"
 - line: "Question from Pratap. \u201CIf I'm about to set up a complete data science,\
     \ AI team in a product space \u2013 from where I need to start with?\u201D"
   sec: 3152
@@ -964,3 +966,46 @@ transcript:
   who: Alexey
 
 ---
+
+## Books
+
+* [**Extreme Programming Explained** by Kent Beck (1999)](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658): Introduces Extreme Programming practices and **pair programming** as a core engineering ritual.
+* [**Test-Driven Development: By Example** by Kent Beck (2002)](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530): Canonical guide that formalized **TDD** as a development workflow.
+* [**Introduction to Operations Research** by Churchman, Ackoff & Arnoff (1957)](https://www.amazon.com/Introduction-Operations-Research-Charles-Churchman/dp/0395042001): Foundational text establishing **operations research** as a discipline.
+* [**The Theory and Practice of Revenue Management** by Talluri & van Ryzin (2004)](https://link.springer.com/book/10.1007/b139000): Definitive reference for **revenue management** and dynamic pricing models.
+* [**High Output Management** by Andrew S. Grove (1983)](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884): Management classic informing **effective 1:1s** and pragmatic leadership.
+* [**The Lean Startup** by Eric Ries (2011)](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898): Popularized **“fail fast”** and validated learning for product development.
+* [**First Things First** by Stephen R. Covey, A. Roger Merrill, Rebecca R. Merrill (1994)](https://www.amazon.com/First-Things-Stephen-R-Covey/dp/0684802031): Popularizes the **Eisenhower priority matrix** (urgent/important) used in **2×2 prioritization**.
+
+## Research Papers
+
+* [**Hidden Technical Debt in Machine Learning Systems** (Sculley et al., 2015)](https://arxiv.org/abs/1706.04972): Seminal paper that seeded **MLOps/Day-Two** thinking for production ML.
+* [**Random Search for Hyper-Parameter Optimization** (Bergstra & Bengio, 2012)](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf): Shows **random search** often outperforms grid search for **hyperparameter tuning**.
+* [**On the Input-Output Stability of Time-Varying Nonlinear Feedback Systems** (Zames, 1966)](https://ieeexplore.ieee.org/document/1089830): Core **control theory** result frequently adapted to **dynamic pricing/control** formulations.
+
+## Programs / Reports
+
+* [**DARPA Explainable AI (XAI)** (Program page, 2017)](https://www.darpa.mil/program/explainable-artificial-intelligence): Flagship initiative that catalyzed modern **white-box / XAI** research.
+
+## Essays / Models
+
+* [**The AI Hierarchy of Needs** by Monica Rogati (2017)](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007): Influential essay behind the **Data/AI pyramid** framing (data → features → ML → AI).
+* [**Eisenhower Decision Principle** (Background)](https://www.eisenhowerlibrary.gov/eisenhowers/quotes): Historical basis for the **Eisenhower matrix** used in **impact/effort prioritization**.
+
+## Courses
+
+* [**Machine Learning (Coursera) by Andrew Ng**](https://www.coursera.org/learn/machine-learning): Landmark MOOC that standardized introductory **ML curricula** and terminology.
+
+## Tools
+
+* **GitHub**: Platform hosting Dat’s open-source interview guide and community projects.
+* **Slido**: Live Q&A tool for collecting audience questions.
+* **VBA (Visual Basic for Applications)**: Excel automation language used in Dat’s early analytics work.
+* **Jupyter Notebooks**: Interactive Python environment used for assignments and demos.
+* **AWS Lambda**: Serverless compute platform from Amazon Web Services enabling on-demand ML functions.
+* **AWS Glue Data Brew**: Visual data-preparation tool for cleaning and transforming datasets.
+* **Kubernetes**: Container-orchestration system introduced by Google (2014) for scalable deployment.
+* **Cloud Foundry**: Open-source PaaS (VMware / Pivotal) enabling app deployment at scale.
+* **Greenplum Database**: MPP analytic DBMS (Pivotal) based on PostgreSQL.
+* **Snowflake**: Cloud data-warehousing platform (founded 2012).
+* **Amazon Redshift**: Cloud data-warehouse service from AWS (2013).

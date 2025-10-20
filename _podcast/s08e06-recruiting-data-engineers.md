@@ -2,6 +2,7 @@
 episode: 6
 guests:
 - nicolasrassam
+intro: "In this episode, Nicolas Rassam—then Senior Technical Recruiter at Onfido and former member of the Criteo AI Lab talent team—explains what hiring data engineers really looks like in today’s European tech market. He breaks down key differences between recruiting data scientists and data engineers, the growing demand for formal data engineering skills, and how candidates can stand out with real project experience. You’ll learn how recruiters evaluate portfolios and GitHub profiles, what skills matter most (SQL, Python, cloud fundamentals), and why targeted applications beat the “spray and pray” approach for breaking into data roles."
 ids:
   anchor: Recruiting-Data-Engineers---Nicolas-Rassam-e1hnkl1
   youtube: hylxiu4VGTo
@@ -13,8 +14,14 @@ links:
   youtube: https://www.youtube.com/watch?v=hylxiu4VGTo
 season: 8
 short: Recruiting Data Engineers
-title: Recruiting Data Engineers
+title: "Hiring Data Engineers: Skills, Portfolios & Career Switch Strategies"
+description: "Learn how to land data engineering roles with Nicolas Rassam. Master SQL, Python, portfolios, interviews, and switching careers effectively."
+topics:
+- data engineering
+- career switch
+- career growth
 transcript:
+- header: "Podcast Introduction: Recruiting Data Engineers with Nicolas"
 - line: This week, we'll talk about recruiting data engineers. We have a special guest
     today Nicolas. Nicolas is a technical recruiter who is hiring for a wide variety
     of engineering and AI roles. He worked for many years as an in-house recruiter
@@ -26,7 +33,7 @@ transcript:
   sec: 72
   time: '1:12'
   who: Nicolas
-- header: Nicolas’ background
+- header: "Guest Background: International Business, HR Master's, Tech Recruiting"
 - line: Before we go into our main topic of recruiting data engineers, let's start
     with your background. Can you tell us about your career journey so far?
   sec: 75
@@ -44,6 +51,7 @@ transcript:
   sec: 83
   time: '1:23'
   who: Nicolas
+- header: "Experience: Criteo AI Lab; Current Role at Onfido (Identity Verification)"
 - line: I helped build the AI Lab of these companies, which is pretty successful.
     Since last year, I've joined a company called Onfido, which is a British company.
     Basically, they are in the field of online identity verification. Here, I’m doing
@@ -78,9 +86,9 @@ transcript:
   sec: 220
   time: '3:40'
   who: Nicolas
-- header: The tech talent market in different countries
+- header: "Tech Talent Market: Cross-European Trends and Competition"
 - line: You mentioned that you are looking for candidates in four countries – the
-    UK, France, Portugal and Germany. I’m wondering how different are the candidates
+    UK, France, Portugal and Germany. I'm wondering how different are the candidates
     that you find in these countries and processes? Is it the same or different? Did
     you see any differences in these countries?
   sec: 273
@@ -117,24 +125,26 @@ transcript:
     that was about hiring data professionals – where we talked to Alicia, who was
     a guest here – but we mostly talked about data scientists. Then some people reached
     out to me saying, “Hey, that was a cool episode, but we want to hear more about
-    data engineers.” So here we go.
+    data engineers." So here we go.
   sec: 419
   time: '6:59'
   who: Alexey
-- line: 'We’re talking about hiring data engineers, but I also wanted to ask you –
+- header: "Hiring Differences: Data Scientists vs. Data Engineers (Tech/Business Ratio)"
+- line: 'We're talking about hiring data engineers, but I also wanted to ask you –
     you are recruiting for a wide range of positions: ML engineers, data scientists,
     data analysts, data engineers – in your opinion, what is the main difference between
     hiring data scientists and data engineers?'
   sec: 419
   time: '6:59'
   who: Alexey
+- header: "Data Science Hype; Lack of Formal Data Engineering Training"
 - line: Yeah. I would say that there's two different things. You have kind of a ratio
     between tech and business, in terms of skills. After all, it really depends. In
     data science, you have data analysts who call themselves data scientists and vice
     versa. For me, a data scientist is someone who will work on things like feature
     engineering, for example. So you don't have the same ratio between tech and business
     in terms of skills. The other thing is really that, as we've seen in the last
-    five or six years, there’s this very big hype about data science. We've seen that
+    five or six years, there's this very big hype about data science. We've seen that
     it was purported to be one of the hardest jobs, or one of the most high demand
     jobs in the market. So the difference, I would say, is that for a data science
     role, I have plenty of applications, because you have this hype around it.
@@ -192,7 +202,7 @@ transcript:
   sec: 747
   time: '12:27'
   who: Nicolas
-- header: A spike in interest for data engineering roles
+- header: "Spike in Data Engineering Interest; Automation Trends"
 - line: Have you observed a spike of interest in data engineering roles recently?
     I am judging from the blog posts that I see on the internet. For a year, maybe
     a bit longer, I've seen posts on Hacker News, and in general, Reddit and on social
@@ -235,6 +245,7 @@ transcript:
   sec: 960
   time: '16:00'
   who: Alexey
+- header: "Recruiter Requirements: Big Picture Technical Knowledge; Credibility"
 - line: Yeah. Okay. First, I'd say it depends on the recruiter. For me, I'm passionate
     about technology. Each time I'm talking with someone like an engineer and have
     some stuff I don’t, I just always ask. I'm also just curious by nature. For me,
@@ -258,7 +269,7 @@ transcript:
   sec: 997
   time: '16:37'
   who: Nicolas
-- header: The main challenges of hiring data engineers
+- header: "Main Hiring Challenges: Lack of Formal Training; High Demand"
 - line: In your opinion, what are the main difficulties? What are the main challenges
     of hiring data engineers?
   sec: 1127
@@ -292,6 +303,7 @@ transcript:
   sec: 1257
   time: '20:57'
   who: Alexey
+- header: "Identifying Data Engineers by Projects, Not Titles (e.g., Software Engineers)"
 - line: Yeah, exactly. I mean, you can have that with data science as well. You can
     have people who have data scientist as a title, but they are only doing R or MATLAB,
     for example, or R and SQL. But yeah, that's one of the reasons. I would also say
@@ -311,7 +323,7 @@ transcript:
   sec: 1286
   time: '21:26'
   who: Nicolas
-- header: The difference in hiring junior, mid, and senior level data engineers
+- header: "Hiring Levels: Junior (Task-Oriented) to Senior (Influence, Expertise)"
 - line: Do you think there are a lot of differences between hiring junior data engineers,
     middle level data engineers, and senior engineers? [cross-talk]
   sec: 1375
@@ -352,6 +364,7 @@ transcript:
   sec: 1553
   time: '25:53'
   who: Alexey
+- header: "Strategy: Interview Process Reflects Level Expectation (Trade-offs)"
 - line: Then maybe for the intermediate level, you would maybe ask about cases when
     they showed this proactiveness that you talked about – when they made a design
     decision. Then for a senior, you would ask them how they showed this influence
@@ -383,11 +396,12 @@ transcript:
     about the business. Because as a data engineer, you talk with different kinds
     of stakeholders and you also have to understand the business. Of course, if you
     are more senior, you will be able – on any technical question or discussion –
-    to be able to say, “Why would you do it this way and not that way? What would
-    be the drawbacks and what would be the benefits?”
+    to be able to say, "Why would you do it this way and not that way? What would
+    be the drawbacks and what would be the benefits?"
   sec: 1598
   time: '26:38'
   who: Nicolas
+- header: "Junior Engineer Requirement: Business Acumen; Understanding Trade-offs"
 - line: You need to be able to explain the different trade-offs – trade-offs, in terms
     of time, money, and performance as well. So the more senior you are and the more
     you tackle all these problems, you can say, “Oh, for this kind of problem, I would
@@ -403,12 +417,12 @@ transcript:
   sec: 1598
   time: '26:38'
   who: Nicolas
-- header: Things recruiters look for in people who switch to a data engineering role
+- header: "Switching Careers: Importance of Internships and Focused Skills"
 - line: There is a related question. We talked about different levels – talking about
     people who are switching to data engineering. What do you look for in these people?
     I think you did mention one thing – for people who are just starting their career
     in data engineering, they need to care about the business and do some research
-    about the domain of the company that they’re interviewing for, right? Are there
+    about the domain of the company that they're interviewing for, right? Are there
     other things you look for in these candidates who are just getting started in
     data engineering?
   sec: 1839
@@ -426,6 +440,7 @@ transcript:
   sec: 1876
   time: '31:16'
   who: Nicolas
+- header: "Core Skills: SQL, Python; Resumes Must Detail Problems and Outcomes"
 - line: Basically, on the resume for data engineering, of course, you have SQL, Python.
     I would say, this is the bare minimum. Also, in terms of projects, if I put myself
     in the shoes of candidates, it's really important to have a balance – whether
@@ -463,6 +478,7 @@ transcript:
   sec: 2107
   time: '35:07'
   who: Alexey
+- header: "Strategy for Switching: Considering Junior Roles and Team Structure"
 - line: Do you think these people should also apply for junior positions – let's say
     somebody who currently works as a data scientist. Or should they go directly to
     the usual intermediate or senior data engineer roles?
@@ -504,7 +520,7 @@ transcript:
   sec: 2161
   time: '36:01'
   who: Nicolas
-- header: The importance of knowing cloud tools
+- header: "Cloud Importance: Tech-Agnostic Knowledge of Core Concepts"
 - line: How important is it for data engineers to know cloud tools like AWS, Google
     Cloud Platform, and others? Most of the jobs, at least from what I see in Berlin,
     require that to some extent. For the rest of Europe, is that also what you see?
@@ -532,8 +548,8 @@ transcript:
   sec: 2406
   time: '40:06'
   who: Nicolas
-- header: The importance of knowing infrastructure tools
-- line: Then the question goes on, “How important is it to know infrastructure tools?”
+- header: "Infrastructure Tools: Importance Depends on Company Size/DevOps Team"
+- line: Then the question goes on, "How important is it to know infrastructure tools?"
     By this, I think they mean tools like Kubernetes or setting up databases, or whatever
     we use for data pipelines, like Kubernetes, Terraform. Is it something you also
     look for in candidates or is this secondary?
@@ -568,9 +584,9 @@ transcript:
   sec: 2637
   time: '43:57'
   who: Nicolas
-- header: Preparing for the interview
-- line: Yeah. Another question, “What would you recommend that job applicants do before
-    talking to a recruiter or a hiring manager?”
+- header: "Preparation: Researching Business, Explaining Projects to Non-Tech"
+- line: Yeah. Another question, "What would you recommend that job applicants do before
+    talking to a recruiter or a hiring manager?"
   sec: 2675
   time: '44:35'
   who: Alexey
@@ -611,11 +627,12 @@ transcript:
     just go to LinkedIn and other websites and just apply to everyone. Standard cover
     letter – the same CV. Then, of course, recruiters were answering me. Then I had
     a call with one of the recruiters who asked me as the first thing, “Okay, tell
-    us what you know about us?” And they was like… [cross-talk]
+    us what you know about us?" And they was like… [cross-talk]
   sec: 2863
   time: '47:43'
   who: Alexey
-- line: Exactly. I always ask this question. [laughs] I always ask, “What do you know
+- header: "Strategy: Avoiding \"Spray and Pray\"; Targeting Interesting Companies"
+- line: Exactly. I always ask this question. [laughs] I always ask, "What do you know
     about the company? Just tell me everything that you know, and if there's something
     that is not true. Then I will complete the gap and give you more details.” Because
     also, especially as a data engineer, if you apply to a company where the business
@@ -650,7 +667,7 @@ transcript:
   sec: 2977
   time: '49:37'
   who: Nicolas
-- header: The importance of a formal education
+- header: "Formal Education: Skills and Experience Over Degrees; Continuous Learning"
 - line: What would you say about people without a formal computer science degree?
     Would you hire somebody without a formal degree, but someone that has a set of
     data engineering projects?
@@ -699,10 +716,10 @@ transcript:
   sec: 3199
   time: '53:19'
   who: Nicolas
-- header: The importance having a project portfolio
+- header: "Project Portfolio: Standout Examples (e.g., First Pipelines, GDPR Solutions)"
 - line: So, you mentioned projects like 10 times by now. Do you maybe remember some
-    of the projects that really stood out, where you thought “Wow! Cool! This candidate
-    is definitely passing my screen into the next step.”
+    of the projects that really stood out, where you thought "Wow! Cool! This candidate
+    is definitely passing my screen into the next step."
   sec: 3265
   time: '54:25'
   who: Alexey
@@ -726,6 +743,7 @@ transcript:
   sec: 3353
   time: '55:53'
   who: Alexey
+- header: "Tool: GitHub Profile; Stories and Project Details are Key"
 - line: I would say when candidates share the link – yeah, I have a quick look. I
     do believe that my colleagues on the data engineering side definitely have a look,
     when you're applying as an engineer. But similarly, there's no obligation to share
@@ -748,11 +766,11 @@ transcript:
   sec: 3382
   time: '56:22'
   who: Nicolas
-- header: How your current domain influence the interview
+- header: "Industry Switch: Domain Knowledge Matters only for Regulated/Private Data"
 - line: There is a question from Dan. The question is about switching from one industry
-    to another. I’m wondering, do you actually look at the industry where the candidate
-    works in? Or do you care mostly about “Okay, this person is already a data engineer
-    or knows some data engineer,” and then only after that you look at the industry
+    to another. I'm wondering, do you actually look at the industry where the candidate
+    works in? Or do you care mostly about "Okay, this person is already a data engineer
+    or knows some data engineer," and then only after that you look at the industry
     where they work?
   sec: 3485
   time: '58:05'

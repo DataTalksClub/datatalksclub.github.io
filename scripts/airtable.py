@@ -1,3 +1,29 @@
+"""
+Airtable Integration Script for DataTalksClub Website
+
+This script automates content management by syncing data from Airtable to the Jekyll site.
+It pulls records from Airtable tables and generates corresponding website content including
+people profiles, book reviews, podcast episodes, and events.
+
+Usage:
+    python airtable.py people   # Process people profiles
+    python airtable.py books    # Process book of the week entries
+    python airtable.py events   # Process event listings
+    python airtable.py podcast  # Process podcast episodes
+
+Environment Variables Required:
+    AIRTABLE_TOKEN    - Airtable API authentication token
+    AIRTABLE_DATABASE - Airtable database ID
+
+Features:
+    - People: Creates profile pages in _people/, downloads profile pictures, extracts social links
+    - Books: Creates book posts in _books/, downloads covers, generates preview images
+    - Podcasts: Creates podcast pages in _podcast/, processes transcripts, matches with events
+    - Events: Adds events to _data/events.yaml, links speakers to profiles
+
+After processing, records are marked as "Done" in Airtable to prevent duplicate processing.
+"""
+
 import os
 import sys
 import subprocess

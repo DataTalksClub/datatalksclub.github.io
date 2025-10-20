@@ -2,6 +2,10 @@
 episode: 2
 guests:
 - marijnmarkus
+intro: "In this episode, Marijn Markus—AI Lead and Managing Data Scientist at Capgemini—shares how to stand out in data science by combining curiosity, courage, and creativity. From his unconventional background in sociology and criminology, Marijn explains how diverse teams outperform homogeneous ones, why proactive problem-solving matters, and how to challenge hierarchy with data-driven insights. You’ll learn how to build unique portfolio projects (like time series modeling from a coffee machine), apply OSINT concepts to modern analytics, and grow your visibility through a thoughtful LinkedIn strategy."
+topics:
+- data science
+- career growth
 ids:
   anchor: Hacking-Your-Data-Career---Marijn-Markus-e1gijep
   youtube: RhSg8ill1So
@@ -13,8 +17,10 @@ links:
   youtube: https://www.youtube.com/watch?v=RhSg8ill1So
 season: 8
 short: Hacking Your Data Career
-title: Hacking Your Data Career
+title: "Standing Out as a Data Scientist: Proactivity, Unique Projects & Career Strategy"
+description: "Stand out in data science with Marijn Markus. Learn unique portfolio projects, LinkedIn growth, OSINT, and career strategies beyond Kaggle."
 transcript:
+- header: "Career Journey: Sociology, Criminology, and Data Science"
 - line: This week, we'll talk about hacking your data career. We have a special Marijn.
     Marijn is a sociologist and a data scientist. He works at Capgemini. Did I pronounce
     it correctly? I had to look it up.
@@ -80,6 +86,7 @@ transcript:
   sec: 233
   time: '3:53'
   who: Alexey
+- header: "Competitive Advantage of Diverse, Non-Homogenous Teams"
 - line: I can go on for a few more if you want me too. But the main point here – and
     that's also something we're going to talk about a lot today, I think – is that
     I stand out in the field of data science because of my background. But that has
@@ -175,12 +182,13 @@ transcript:
   sec: 511
   time: '8:31'
   who: Marijn
+- header: "Strategy: Rejecting Perfect Curriculum; Doubling Down on Strengths"
 - line: There is no perfect curriculum, just like there is no consensus within science.
     There shouldn't be. Science agrees that this is a very dangerous statement to
-    make. In the same way, your “perfect curriculum” at the micro level (because you
+    make. In the same way, your "perfect curriculum" at the micro level (because you
     can have a local one) very much depends on the field you're coming from. Now,
-    this relates to my previous statement of “Don't double down on the things you
-    don't know. Double down on the things you know that give you a competitive advantage.”
+    this relates to my previous statement of "Don't double down on the things you
+    don't know. Double down on the things you know that give you a competitive advantage."
     Sure, I try to improve my programming. I will never be as good a Pythonist as
     some of the computer scientists in my team – also because I still prefer R (I'm
     sorry). But I don't try to compete on that stuff.
@@ -217,16 +225,16 @@ transcript:
   sec: 676
   time: '11:16'
   who: Marijn
-- header: Doing the opposite of what people tell you
+- header: "Career Hack: Standing Out; Being Proactive in Task Selection"
 - line: Okay. [laughs] I came across your post on LinkedIn. I reached out to you multiple
-    times inviting you for the podcast. Then I saw this post, and I thought, “Okay.
-    This is what I want to talk to Marijn about.” And the post was about “how to hack
-    your career” and this is actually the name of the event we have.
+    times inviting you for the podcast. Then I saw this post, and I thought, "Okay.
+    This is what I want to talk to Marijn about." And the post was about "how to hack
+    your career" and this is actually the name of the event we have.
   sec: 725
   time: '12:05'
   who: Alexey
-- line: First you wrote “How do you hack your career?” and the answer was “Do the
-    opposite of what people tell you.” So can you tell us more about this post that
+- line: First you wrote "How do you hack your career?" and the answer was "Do the
+    opposite of what people tell you." So can you tell us more about this post that
     you made and what exactly did you mean by that? Maybe you can also give some examples.
   sec: 725
   time: '12:05'
@@ -280,13 +288,14 @@ transcript:
   sec: 764
   time: '12:44'
   who: Marijn
-- line: But maybe about this “delegate task” instead, your suggestion is be proactive.
+- header: "Proactivity: Learning Opportunities; The Risk of Unpopular Data Insights"
+- line: But maybe about this "delegate task" instead, your suggestion is be proactive.
     First, pick the task, which gives you an opportunity to choose things. So it's
-    like, there is a meeting and then somebody says, “Okay, we need to do this thing.”
+    like, there is a meeting and then somebody says, "Okay, we need to do this thing."
     And for that thing, I imagine there is a senior data scientist who decomposes
-    the task, the product manager says, “We need to do this.” Then the senior data
-    scientist says, “Okay, for this, we need to do this, this and this.” And you can
-    say, “Me, me! I want to do that!” Is that right? How does it happen usually?
+    the task, the product manager says, "We need to do this." Then the senior data
+    scientist says, "Okay, for this, we need to do this, this and this." And you can
+    say, "Me, me! I want to do that!" Is that right? How does it happen usually?
   sec: 996
   time: '16:36'
   who: Alexey
@@ -397,9 +406,9 @@ transcript:
   sec: 1405
   time: '23:25'
   who: Marijn
-- header: Advising the seniors
-- line: Yeah, the next one. Or one of the next ones – “Don’t be advised by a senior
-    with 20 years of experience. Instead, talk back and advise the seniors.” Do you
+- header: "Challenging Organizational Hierarchy and Advising Seniors"
+- line: Yeah, the next one. Or one of the next ones – "Don't be advised by a senior
+    with 20 years of experience. Instead, talk back and advise the seniors." Do you
     have a story about that?
   sec: 1417
   time: '23:37'
@@ -515,7 +524,7 @@ transcript:
   sec: 1664
   time: '27:44'
   who: Marijn
-- header: Bite off more than you can chew, then chew
+- header: "Strategy: Bite Off More; Tool: Home Automation Pet Projects"
 - line: Was there anything else in that post? I think we covered pretty much everything,
     but I'm sure you have a couple of more stories.
   sec: 1696
@@ -627,9 +636,10 @@ transcript:
   sec: 1878
   time: '31:18'
   who: Marijn
+- header: "Experience Gained from Coffee Machine Time Series Modeling"
 - line: What happened to your plants that you had to make a system to water them?
-    Did they just die one day and then you thought “Okay. How can I make sure that
-    they don't die again?”
+    Did they just die one day and then you thought "Okay. How can I make sure that
+    they don't die again?"
   sec: 2036
   time: '33:56'
   who: Alexey
@@ -724,7 +734,7 @@ transcript:
 - line: This is a question I get quite often. “How do you get inspiration for these
     projects?” I imagine it might be difficult. Let's say you are looking for a job
     because you're switching careers or you're just graduated or for whatever reason
-    – you want to have a portfolio. Then the question is, “How do I build this portfolio?”
+    – you want to have a portfolio. Then the question is, "How do I build this portfolio?"
     Okay, you can go to Kaggle. You can pick a competition. You can take part in this
     competition. Then you can train a model, and then maybe if you're lucky, you can
     get a silver medal. Then you put it on your CV. But so do the rest of the people
@@ -732,6 +742,7 @@ transcript:
   sec: 2233
   time: '37:13'
   who: Alexey
+- header: "Portfolio Strategy: Building Unique Projects over Kaggle Competition"
 - line: Don’t get me wrong, I highly respect the Kaggle grandmasters who can optimize
     the heck out of stuff. I can't do that to that extent. But that brings me back
     to my original statement, “Why fit in when you're born to stand out?” Because
@@ -823,7 +834,7 @@ transcript:
   sec: 2430
   time: '40:30'
   who: Marijn
-- header: The importance of a team
+- header: "The Importance of Team Collaboration and Domain Experts"
 - line: If you are not an expert in farming – or whatever other domain, whatever other
     field – and there are some things that domain experts, people who are your customers,
     don't ask for. How do you know that they are going to need this if you're not
@@ -878,12 +889,12 @@ transcript:
   sec: 2716
   time: '45:16'
   who: Marijn
-- header: Open source intelligence (OSINT)
+- header: "Concept: Open Source Intelligence (OSINT) and Modern Warfare"
 - line: Another thing you and I talked about just a couple of days ago – you mentioned
     already that there might be a problem with famine and hunger in the next months
     again, right? I think it's related to war in Ukraine. This is something we've
     talked about recently and one of the things you mentioned is that, as a data scientist,
-    you can do what you called “open source intelligence.” Can you talk about that
+    you can do what you called "open source intelligence." Can you talk about that
     a bit and also about hunger?
   sec: 2759
   time: '45:59'
@@ -999,12 +1010,12 @@ transcript:
   sec: 3211
   time: '53:31'
   who: Marijn
-- header: The importance of soft skills for data experts
+- header: "Soft Skills, Uniqueness, and Avoiding the Average Profile"
 - line: Yeah. Okay. I don't know if I should change the topic or not because we have
     some questions. One question from Mike (you probably don't see this question because
-    it’s from Slido). Mike is asking “Should data experts learn soft skills, like
+    it's from Slido). Mike is asking "Should data experts learn soft skills, like
     people skills, communication, networking, drinking, as well as hard skills to
-    go further and faster?”
+    go further and faster?"
   sec: 3214
   time: '53:34'
   who: Alexey
@@ -1077,7 +1088,7 @@ transcript:
   sec: 3438
   time: '57:18'
   who: Marijn
-- header: Marijn’s LinkedIn growth strategy and tips
+- header: "Tool: LinkedIn Growth Strategy (Timing, Comments, Content Mix)"
 - line: Yeah. Right. Well, we still have time for one more question maybe. This is
     something I wanted to ask you – so one question about LinkedIn. I see that you're
     pretty active there and you have quite a few followers. What is your growth strategy

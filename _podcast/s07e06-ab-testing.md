@@ -2,6 +2,13 @@
 episode: 6
 guests:
 - jakobgraff
+short: A/B Testing
+title: "Mastering A/B Testing: Causality, Experimentation & Metrics for Data Teams"
+description: "Master A/B testing and experimentation with data scientist Jakob Graff. Learn statistical hypothesis testing, power analysis, p-values, frequentist vs Bayesian approaches, A/A testing, metric selection, and how to build experimentation platforms."
+intro: "In this episode, Jakob Graff—Director of Data Science and Analytics at diconium—explains how to design, run, and interpret A/B tests that truly inform product decisions. Drawing from his experience at Inkitt, Babbel, and King, Jakob breaks down key concepts like econometrics vs. machine learning, hypothesis testing, and noise control. He shares practical techniques for setting up in-house experimentation platforms, validating results with A/A tests, and balancing frequentist and Bayesian approaches. You'll learn how to use testing to de-risk product launches, improve data culture, and build statistically sound decision-making systems."
+topics:
+- data science
+- practices
 ids:
   anchor: AB-Testing---Jakob-Graff-e1eq73v
   youtube: 0Gqx1LtqRZU
@@ -12,8 +19,6 @@ links:
   spotify: https://open.spotify.com/episode/3LhBOO1UANCGbOwkntZt4j
   youtube: https://www.youtube.com/watch?v=0Gqx1LtqRZU
 season: 7
-short: A/B Testing
-title: A/B Testing
 transcript:
 - line: This week we'll talk about A/B testing and experimentation. We have a special
     guest today, Jakob. Jakob has more than three years of experience of growing data
@@ -26,14 +31,15 @@ transcript:
   sec: 83
   time: '1:23'
   who: Jakob
-- header: Jakob’s background
-- line: I’m especially curious about the last point – the pizza dough. But maybe this
+- header: "Guest Introduction; A/B Testing and Experimentation Focus"
+- line: I'm especially curious about the last point – the pizza dough. But maybe this
     is something that we'll talk about later. But before we go into our main topic
     of A/B tests, let's start with your background. Can you tell us about your career
     journey so far?
   sec: 85
   time: '1:25'
   who: Alexey
+- header: "Career Path: Econometrics, Data Science, Building Data Orgs"
 - line: Sure, yeah. I guess my journey started with finishing my Master's degree in
     economics and econometrics –it was a quantitative focus. Back then I was super
     into economics and really wanted to actually be a practicing economist, which
@@ -80,6 +86,7 @@ transcript:
   sec: 304
   time: '5:04'
   who: Jakob
+- header: "Concept: Econometrics vs. ML; Causality & Hypothesis Testing"
 - line: Not for technical books?
   sec: 309
   time: '5:09'
@@ -147,9 +154,9 @@ transcript:
   sec: 490
   time: '8:10'
   who: Jakob
-- header: The importance of A/B tests
+- header: "Concept: A/B Testing Defined; Clinical Trials Analogy"
 - line: Can you tell us what an A/B test actually is? Why should we care about this
-    test if we're not somebody who is in econometrics, but let’s say in data science?
+    test if we're not somebody who is in econometrics, but let's say in data science?
   sec: 493
   time: '8:13'
   who: Alexey
@@ -190,20 +197,21 @@ transcript:
   time: '8:26'
   who: Jakob
 - line: In clinical trials – the example with vaccines – there are two groups. One
-    gets the proper vaccine and the other gets something that’s not the vaccine. Then
-    there is some metric that is measured, for example, “After half a year, how many
-    of them get the disease?” This is the metric that is measured, and it is expected
+    gets the proper vaccine and the other gets something that's not the vaccine. Then
+    there is some metric that is measured, for example, "After half a year, how many
+    of them get the disease?" This is the metric that is measured, and it is expected
     in the treatment group that this percentage will be lower than in the control
     group. Is that right?
   sec: 680
   time: '11:20'
   who: Alexey
+- header: "A/B Testing Purpose: Establishing Causality; Controlling Noise"
 - line: Yeah, exactly. The idea behind why we do A/B testing in the first place is
     really to establish this causal link of the change and the impact. Otherwise,
     as I mentioned before, econometrics is so sophisticated because economists have
     to work with observational data. You can't do experiments on entire countries
     or something like that. That gets very hard – and it's unethical, of course. But
-    in the online world it’s much easier to do. At the same time, we have so many
+    in the online world it's much easier to do. At the same time, we have so many
     external factors that may otherwise influence our metrics that it often gets really
     hard to establish whether something had an impact unless it's really big. This
     is why we need these types of experiments to really make sure of what we're actually
@@ -211,7 +219,6 @@ transcript:
   sec: 708
   time: '11:48'
   who: Jakob
-- header: Statistical noise
 - line: This is what you mentioned. You said “control the noise,” right? So “noise”
     is all the factors that we don't want to have control of. We want to make sure
     that whatever we're observing is not affected by that. Because I guess, let's
@@ -237,7 +244,7 @@ transcript:
   sec: 805
   time: '13:25'
   who: Jakob
-- header: A/B test example
+- header: "Inkyy Example: Subscription Model Testing vs. Point System"
 - line: Can you maybe give us an example from something you did recently? An A/B test
     that you ran – maybe something simple?
   sec: 867
@@ -310,12 +317,12 @@ transcript:
   sec: 1084
   time: '18:04'
   who: Jakob
-- header: A/B tests vs expert opinion
+- header: "Importance of Testing: De-risking Features; Organizational Learning"
 - line: So why can't we just trust our gut feeling? In this case, let's say you have
     this experience from King and you know that for users, they really like this gamification
     system, and that some of them would actually pay to be able to go to the next
     level of Bubble Witch or some other game. So can't you just trust your gut feeling
-    and say, “Okay, trust me. It will work. Let's go ahead and deploy it.”?
+    and say, "Okay, trust me. It will work. Let's go ahead and deploy it."?
   sec: 1086
   time: '18:06'
   who: Alexey
@@ -395,7 +402,7 @@ transcript:
   sec: 1433
   time: '23:53'
   who: Jakob
-- header: Traffic splitting, A/A tests, and designing experiments
+- header: "Infrastructure Setup: In-House vs. Third-Party Tools"
 - line: Now we know that A/B tests are good. We need to experiment – how do we start
     with this? Let's say you join a company – a startup. At the startup they do not
     experiment yet. They already have data in the data engineering team, or maybe
@@ -465,6 +472,7 @@ transcript:
   sec: 1672
   time: '27:52'
   who: Jakob
+- header: "Technique: A/A Testing for System Trust and Randomization Check"
 - line: So from scratch, I think you need to build out a system that you can fully
     monitor and trust. If you don't trust that system, then you can forget about your
     A/B tests. A good way to understand what's happening there is to do an A/A test,
@@ -473,7 +481,7 @@ transcript:
     same thing. You should ideally be able to measure the same thing, but the only
     differences are due to chance – due to users being individuals. But for example,
     if you've 50/50 split between test and control, then in an A/A test, you can at
-    first understand “Well, are the assignments actually 50/50? Or is it 60/40?” That
+    first understand "Well, are the assignments actually 50/50? Or is it 60/40?" That
     would be a warning sign that something's going wrong. Or other experiment results
     were tracking some conversion rates, where in Group A, it's 40% and in group B,
     it's 60%. Then also probably something's going on with the randomization. So that
@@ -527,7 +535,7 @@ transcript:
   sec: 1959
   time: '32:39'
   who: Alexey
-- header: Noisy vs stable metrics – test duration and business cycles
+- header: "Metric Analysis: Noise, Stability, Seasonality, Business Cycles"
 - line: You also mentioned a few things, which are – we need to understand the metric,
     we need to understand if they are noisy or stable, and what the expected impact
     is. I have a few questions about this. First of all, what is a noisy metric? What
@@ -598,7 +606,7 @@ transcript:
   sec: 2191
   time: '36:31'
   who: Jakob
-- header: Z-tests, T-tests, and time series
+- header: "Test Duration: Power Analysis; Z-tests, T-tests, Non-parametric Tests"
 - line: You also mentioned duration. For metrics that have these oscillations – there
     are more users on the weekend, for example – we need to plan to at least cover
     the entire week. What do we need to think about when we're talking about duration
@@ -685,6 +693,7 @@ transcript:
   sec: 2465
   time: '41:05'
   who: Jakob
+- header: "Required Skills: Visualizing Data Distribution; Basic Statistics"
 - line: How can we pick this up? Let's say, for those who have no idea what (T-test
     is probably quite a widespread thing) but for those who don't know what a T-test
     is or what a nonparametric test is, but maybe they did some machine learning or
@@ -735,13 +744,10 @@ transcript:
   sec: 2866
   time: '47:46'
   who: Jakob
-- line: What is a p-value
-  sec: 2866
-  time: '47:46'
-  who: Jakob
+- header: "Concept: P-Value Explained Simply (A/A Comparison)"
 - line: We have quite a few questions. We already talked about the frequentist approach
-    and the question is related to that. “Can you please explain it like I'm five
-    years old – what is a p-value?” Or maybe five is a bit tough – maybe like I'm
+    and the question is related to that. "Can you please explain it like I'm five
+    years old – what is a p-value?" Or maybe five is a bit tough – maybe like I'm
     ten years old?
   sec: 2864
   time: '47:44'
@@ -796,8 +802,8 @@ transcript:
   sec: 3094
   time: '51:34'
   who: Jakob
-- header: Frequentist approach vs Bayesian approach
-- line: What do you think about this “other way” of doing tests? The “other way” meaning
+- header: "Frequentist vs. Bayesian: Credible Intervals, Computational Cost"
+- line: What do you think about this "other way" of doing tests? The "other way" meaning
     – we have the frequentist approach to testing and then we have the Bayesian approach
     to testing, which I think (correct me if I'm wrong) but there is no notion of
     a P-value in a Bayesian test. Right? What do you think about this?
@@ -895,11 +901,11 @@ transcript:
   sec: 3430
   time: '57:10'
   who: Jakob
-- header: A/B/C/D tests
+- header: "A/B/C/D Tests: Longer Duration; Multiple Comparison Problem"
 - line: I see that we are almost running out of time, but there is one question that
     perhaps you can answer pretty quickly. The question is about A/B/C/D tests. So,
-    “What is an A/B/C/D test with respect to A/B tests? And when do we need this complex
-    test?”
+    "What is an A/B/C/D test with respect to A/B tests? And when do we need this complex
+    test?"
   sec: 3548
   time: '59:08'
   who: Alexey
@@ -932,16 +938,19 @@ transcript:
     prevalent with multiple test groups.
   sec: 3642
   time: '1:00:42'
-  who: Often, we all want to get things over with quickly. The other pitfall that
+- line: Often, we all want to get things over with quickly. The other pitfall that
     can be – going back to this frequentist approach – basically, you usually set
-    this confidence level to 5% and what that says is “I want to limit the chance
-    of type one errors to 5%.” It’s basically seeing when a test says there’s an impact,
+    this confidence level to 5% and what that says is "I want to limit the chance
+    of type one errors to 5%." It's basically seeing when a test says there's an impact,
     even though in reality, it doesn't have an impact – the chances of that are fairly
     small. Now, when you have to do pairwise comparisons in A/B/C/D tests, then you're
     not only doing one test decision, you're doing A versus B, you're doing A versus
     C, A versus D, B versus C, and so on, right? All of a sudden, you have a much
     higher chance that one of those is wrong.
-- header: Pizza dough and finding Jakob online
+  sec: 3642
+  time: '1:00:42'
+  who: Jakob
+- header: "Practice Pizza Dough; Finding Guest Online"
 - line: Okay, thanks. I actually wanted to ask you about pizza dough, as well. We
     didn't have a chance to talk about it. Do you have any resources that you can
     recommend to us in order to learn more about this topic and A/B tests? Maybe how

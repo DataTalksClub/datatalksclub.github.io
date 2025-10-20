@@ -2,6 +2,7 @@
 episode: 5
 guests:
 - christopherbergh
+intro: "In this episode, Chris Bergh—CEO and Co-Founder of DataKitchen—shares the origin story of DataOps and how it’s transforming data team productivity. Drawing parallels to DevOps, Chris explains how treating “data like a factory” helps teams reduce cycle time, lower errors, and deliver analytics faster. He discusses lean principles, defining “done” and “good,” and balancing heroism with repeatable processes. You’ll learn the seven steps to implementing DataOps, how automation simplifies orchestration, and how the same principles apply to both data engineering and MLOps."
 ids:
   anchor: Storytime-for-DataOps---Christopher-Bergh-e1hgl0m
   youtube: 0Fx5PCoLkf4
@@ -13,7 +14,12 @@ links:
   youtube: https://www.youtube.com/watch?v=0Fx5PCoLkf4
 season: 8
 short: Storytime for DataOps
-title: Storytime for DataOps
+title: "What Is DataOps? Automating Data Pipelines & Reducing Errors"
+description: "Learn DataOps with Chris Bergh. Master Lean principles, automation, cycle time reduction, testing, and DevOps for data teams."
+intro: "In this episode, Chris Bergh—CEO and Co-Founder of DataKitchen—shares the origin story of DataOps and how it's transforming data team productivity. Drawing parallels to DevOps, Chris explains how treating "data like a factory" helps teams reduce cycle time, lower errors, and deliver analytics faster. He discusses lean principles, defining "done" and "good," and balancing heroism with repeatable processes. You'll learn the seven steps to implementing DataOps, how automation simplifies orchestration, and how the same principles apply to both data engineering and MLOps."
+topics:
+- dataops
+- practices
 transcript:
 - line: Some people call you the “Father of DataOps”.
   sec: 1
@@ -34,9 +40,10 @@ transcript:
   sec: 18
   time: '0:18'
   who: Chris
+- header: "Introduction: CEO Chris Bergh and DataOps Origin Story"
 - line: This week, we'll talk about DataOps. We have a special guest today, Chris.
-    Chris is the CEO and Head Chief at DataKitchen. Some people call Chris the “Father
-    of DataOps” maybe he will tell us why. Welcome to our event today!
+    Chris is the CEO and Head Chief at DataKitchen. Some people call Chris the "Father
+    of DataOps" maybe he will tell us why. Welcome to our event today!
   sec: 80
   time: '1:20'
   who: Alexey
@@ -46,7 +53,7 @@ transcript:
   sec: 98
   time: '1:38'
   who: Chris
-- header: Christopher’s background
+- header: "Career Shift: Managing Data Teams; Realizing Process Problems"
 - line: '[chuckles] I''m sure nobody will. Before we go into our main topic of DataOps,
     let''s start with your background. Can you tell us about your career journey so
     far? Maybe you can also mention why they call you the Father of DataOps?'
@@ -90,6 +97,7 @@ transcript:
   sec: 252
   time: '4:12'
   who: Alexey
+- header: "Concept: Data as a Factory; Agile Software & Hard Hats"
 - line: No, no. Well, it works as a metaphor. In some ways, I think, when you have
     a lot of data pipelines in production, and you have customers who will yell at
     you when they're late or when things are wrong, having a good production process
@@ -127,7 +135,7 @@ transcript:
   sec: 255
   time: '4:15'
   who: Chris
-- header: The essence of DataOps
+- header: "DataOps Essence: Lowering Errors; Cycle Time; Productivity"
 - line: Is this the essence of DataOps?
   sec: 402
   time: '6:42'
@@ -251,6 +259,7 @@ transcript:
   sec: 800
   time: '13:20'
   who: Chris
+- header: "Naming DataOps; DevOps Analogy; Stressful Data Work"
 - line: It's frustrating to go and work for years and build software and then no one
     goes, “What? Are you an ETL tool? Are you a data science tool? Do you build a
     data lake?” I'm like, “Ah, no. We do this thing called DataOps.” “What's that?”
@@ -384,7 +393,8 @@ transcript:
   sec: 1262
   time: '21:02'
   who: Chris
-- line: So what is “done” and what is “good,” we have to talk about. Because a lot
+- header: "Defining \"Done\" and \"Good\"; Balance: Heroism vs. Fear"
+- line: So what is "done" and what is "good," we have to talk about. Because a lot
     of times we think “done” means our customers are happy. And then it's on to the
     next thing. But then the discussion with the customer comes and it’s like, “Look,
     it's not done because of those situations.” I need to do more and so we need to
@@ -489,10 +499,11 @@ transcript:
     your iteration with the customer on “Is this data telling you what you want?”
     And “Am I showing it in the right way?” And then the second is, you've got an
     iteration with the data itself, like, “Is it actually predictive?” “Is this the
-    right data set?”
+    right data set?"
   sec: 1694
   time: '28:14'
   who: Chris
+- header: "Lean Principles; Two Iteration Cycles; Avoiding Silos"
 - line: 'So you''ve got these two cycles of iteration. In software, you sort of an
     application, you send it to someone, they go “No. Change this. Change that.” You''ve
     got one. You''re really working on, “Can they use it?” And “Do they understand
@@ -598,6 +609,7 @@ transcript:
   sec: 2077
   time: '34:37'
   who: Chris
+- header: "Tool: Seven Steps to DataOps; Automate Checklists"
 - line: If you have an error, make a JIRA ticket or put it in a spreadsheet. If you
     want to improve your cycle time, just every week – start trying to deploy every
     week. And if you don't, note that. I think those things are good. Then you should
@@ -642,8 +654,8 @@ transcript:
   sec: 2279
   time: '37:59'
   who: Chris
-- header: Wanting to become replaceable
-- line: So that’s the first step for that data engineer, before they hire a college
+- header: "Career Goal: Replaceability; Avoiding the Technical Hairball"
+- line: So that's the first step for that data engineer, before they hire a college
     graduate. Right? To have some sort of system.
   sec: 2281
   time: '38:01'
@@ -759,7 +771,8 @@ transcript:
   sec: 2652
   time: '44:12'
   who: Chris
-- line: So number one is like, “To prove data systems work, you have to pour data
+- header: "DataOps Adoption Challenges; 15% Time for Process"
+- line: So number one is like, "To prove data systems work, you have to pour data
     into them. You have to run them with data that's realistic.” Sometimes – in a
     startup, maybe – you're dealing with marketing data and you can just run the whole
     dataset over again. I'm a big fan of more functional data systems, where the raw
@@ -851,7 +864,8 @@ transcript:
   sec: 3055
   time: '50:55'
   who: Chris
-- line: When I say this, people roll their eyes and say, “No, MLOps is different,
+- header: "Concept: DataOps vs. MLOps (Same Principles Applied)"
+- line: When I say this, people roll their eyes and say, "No, MLOps is different,
     because it's about machine learning.”
   sec: 3075
   time: '51:15'
@@ -972,6 +986,7 @@ transcript:
   sec: 3400
   time: '56:40'
   who: Chris
+- header: "DataKitchen Platform: Automating Environments and Orchestration"
 - line: What we're trying to do is help people where they are and where they start.
     We tend to sell – we have a different way of building the company. We're profitable.
     We never took any financing. So, we're trying to grow a reasonable company and
@@ -1048,6 +1063,7 @@ transcript:
   sec: 3652
   time: '1:00:52'
   who: Chris
+- header: "Resources: DataOps Cookbook, Manifesto, and Manager Book"
 - line: Yeah, thanks a lot for putting this together. These are invaluable resources,
     I will make sure to include all these links in the description so that everyone
     who is watching this can find them. And thank you for joining us today, for sharing
