@@ -1148,7 +1148,18 @@ transcript:
 
 ---
 
-Links:
+## Books
+- *Clean Code: A Handbook of Agile Software Craftsmanship* by Robert C. Martin (2008): Defines principles of clean coding, naming, and refactoring that became a foundation for modern software engineering practices.
 
-* [Twitter](https://twitter.com/ellen_koenig){:target="_blank"}
-* [LinkedIn](https://www.linkedin.com/in/ellenkoenig/){:target="_blank"}
+- *Extreme Programming Explained: Embrace Change* by Kent Beck (1999): Introduces Extreme Programming, establishing *pair programming* and *test-driven development* as key engineering practices.
+
+- *Continuous Delivery* by Jez Humble & David Farley (2010): Formalized the principles of *CI/CD* and automated testing pipelines for rapid, reliable software releases.
+
+- *The DevOps Handbook* by Gene Kim, Jez Humble, Patrick Debois & John Willis (2016): Popularized the *DevOps* movement, integrating development and operations with automation and continuous improvement.
+
+- *Code Complete* by Steve McConnell (1993): Establishes software construction and *clean coding* best practices before Martin's "Clean Code," influencing later craftsmanship principles.
+
+- *Infrastructure as Code* by Kief Morris (2016, O'Reilly): Codified the practice of automating infrastructure setup and management using tools like Terraform.
+
+## Online Courses
+- *Udacity Data Analyst Nanodegree* (launched 2014): One of the first structured, project-based online programs teaching applied data analysis and programming at scale.

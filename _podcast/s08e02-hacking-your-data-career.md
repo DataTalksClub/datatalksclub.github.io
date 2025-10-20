@@ -1204,7 +1204,3 @@ transcript:
   time: '1:03:26'
   who: Marijn
 ---
-
-Links:
-
-* [LinkedIn](https://www.linkedin.com/in/marijnmarkus/){:target="_blank"}

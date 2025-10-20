@@ -865,9 +865,41 @@ transcript:
   who: Meor
 ---
 
-Links:
 
-* [A Visual Introduction to Deep Learning by Meor Amer](https://gumroad.com/a/63231091){:target="_blank"}
-* [kDimensions website](https://kdimensions.com/){:target="_blank"}
-* [Book to learn about Figma](https://figmabook.com/){:target="_blank"}
-* [Jack Butcher's approach](https://www.youtube.com/watch?v=azhqc4K-GAE){:target="_blank"}
+## Books
+
+- *Grokking Machine Learning* by Luis Serrano (2021): Introduces core machine learning concepts through intuitive, visual explanations, making topics like classification, gradient descent, and neural networks accessible to beginners.
+
+- *Attention Is All You Need* by Vaswani et al. (2017): Introduces the Transformer architecture that underpins Jay Alammar's *Illustrated Transformer* and much of modern NLP visualization work.
+
+- *The Visual Display of Quantitative Information* by Edward R. Tufte (1983): Established foundational principles of data visualization, emphasizing clarity, efficiency, and integrity in visual communication—aligning with Meor's focus on "message over aesthetics."
+
+- *The Laws of Simplicity* by John Maeda (2006): Articulates the principle that constraints and simplicity breed creativity, providing philosophical grounding for Meor's "Constraint Methodology" and minimal color palette.
+
+- *The Art of Explanation* by Lee LeFever (2012): Presents a structured process for simplifying and visualizing abstract ideas, paralleling Meor's workflow of defining a key message before visualization.
+
+- *Make It Stick: The Science of Successful Learning* by Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel (2014): Demonstrates how teaching others and retrieval practice enhance understanding, supporting the "consume to teach" methodology.
+
+- *Mindstorms: Children, Computers, and Powerful Ideas* by Seymour Papert (1980): Introduces the concept of learning through exploration and modification—foundational for the "learning by breaking code" and "what if" learning approach.
+
+- *The Elements of Story* by Francis Flaherty (2009): Explores how to structure narratives with logical flow and coherence, relevant to Meor's "logical flow" approach for technical content structuring.
+
+- *Show Your Work!* by Austin Kleon (2014): Encourages creators to share their process publicly to attract opportunities, aligning with Meor's professional strategy of using visual design as outreach and inbound marketing.
+
+- [Designing in Figma](https://figmabook.com/): Book to learn about Figma
+
+- *Build Once, Sell Twice* by Jack Butcher (2020): Establishes the framework behind the "Visualize Value" philosophy, teaching creators how to distill complex ideas into minimalist visuals and productize their expertise—what Butcher calls "proving your intellectual capital" by making thinking visible and scalable.
+
+## Articles
+
+- *The Illustrated Transformer* by Jay Alammar (2018): Visually explains the architecture and mechanics of the Transformer model introduced by Vaswani et al. (2017), helping popularize the concept for a broad audience.
+
+- *Metaphors We Live By* by George Lakoff and Mark Johnson (1980): Introduces the theory of conceptual metaphors—how people understand complex ideas through familiar experiences—underpinning Meor's method of using relatable objects in visuals.
+
+## Courses
+
+- *How to Visualize Value* by Jack Butcher (2019): A foundational online course teaching visual communication principles—condensing complex ideas into minimalist visuals for clarity and impact.
+
+## Guides
+
+- [A Visual Introduction to Deep Learning by Meor Amer](https://gumroad.com/a/63231091){:target="_blank"}

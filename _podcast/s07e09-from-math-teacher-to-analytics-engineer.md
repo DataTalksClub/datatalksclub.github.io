@@ -1049,6 +1049,59 @@ transcript:
   who: Juan Pablo
 ---
 
+
+## Books
+
+*An Introduction to Statistical Learning* by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani (2013): Introduced applied statistical learning concepts—such as hypothesis testing and linear models—in an accessible, modernized form widely adopted in data science education.
+
+*What Color Is Your Parachute?* by Richard N. Bolles (first edition 1970): Introduced systematic career transition strategies emphasizing networking, informational interviews, and proactive job search—concepts echoed in the podcast's advice on "hustling" and "uncrowded doors."
+
+*The Elements of Style* by William Strunk Jr. & E.B. White (1959): Established concise, direct writing principles foundational for technical communication and documentation skills in engineering contexts.
+
+*Storytelling with Data* by Cole Nussbaumer Knaflic (2015): Codified modern best practices for data visualization and communication tailored to business and analytics contexts.
+
+*Show Your Work!* by Austin Kleon (2014): Popularized the idea of learning in public, portfolio building, and consistent online presence—core ideas in the podcast's networking and visibility strategies.
+
+*R: A Language and Environment for Statistical Computing* by Ross Ihaka and Robert Gentleman (first released 1993): Introduced R as an open-source language for statistical analysis, later evolving into a dominant data science ecosystem.
+
+*Python Tutorial* by Guido van Rossum (1995): The official guide introducing Python, emphasizing simplicity and readability—qualities that made it dominant in data analytics and ML.
+
+*SAS User's Guide: Basics* (SAS Institute, first edition 1976): Defined early statistical computing interfaces and remains a historical foundation for statistical data processing tools.
+
+*System R: Relational Approach to Database Management* by Chamberlin & Boyce (1974, IBM Research): Introduced SQL as the declarative language for relational databases.
+
+## Online Courses
+
+*DataTalks.Club Data Engineering Zoomcamp* by Alexey Grigorev (launched 2022): Free open-source course providing hands-on, project-based training in data engineering with real tools like Airflow, Terraform, and Docker.
+
+*freeCodeCamp* by Quincy Larson (founded 2014): Open-source, self-paced web development curriculum that popularized free coding education through project-based learning and certification.
+
+## Tools
+
+*RPubs by RStudio* (launched 2012): Introduced a lightweight publishing system for sharing R Markdown documents directly online, bridging analytics and public communication.
+
+*TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems* by Abadi et al. (2015, Google): Introduced TensorFlow as an open-source library for deep learning, automating gradient computation and backpropagation.
+
+*R Markdown* by Yihui Xie (2012): Created a unified authoring format combining prose, code, and output for reproducible research and reporting in R.
+
+*Tableau Desktop* by Christian Chabot, Pat Hanrahan, and Chris Stolte (first release 2003): Revolutionized data visualization by introducing a drag-and-drop interface for interactive analytics.
+
+*Microsoft Power BI* (launched 2015): Democratized business intelligence with tight integration into Microsoft's cloud ecosystem, extending the lineage of Excel analytics.
+
+*Amazon QuickSight* (launched 2016): AWS-native BI tool enabling scalable, serverless data visualization and reporting within cloud environments.
+
+*Google Maps JavaScript API* (launched 2005): Enabled web developers to embed and customize interactive maps, supporting visualizations like geographic heatmaps.
+
+*Amazon Web Services (AWS)* (launched 2006): Introduced on-demand cloud infrastructure, establishing the foundation for modern cloud computing and services like Lambda and QuickSight.
+
+*Zyro Website Builder* by Hostinger (launched 2019): Simplified website creation for non-technical users through no-code templates and automation.
+
+## Articles & Frameworks
+
+*The Data Science Process* by Drew Conway (2010): Early conceptual framing of data wrangling, exploration, and visualization as central components of the data science workflow.
+
+*STAR Interviewing Technique* (coined 1980s, first formal publication by the U.S. Office of Personnel Management, 1999): Provides a structured behavioral interview format—Situation, Task, Action, Result—widely used in data and engineering job interviews.
+
 Links:
 
 * [Website](https://www.thatjuanpablo.com/){:target="_blank"}
