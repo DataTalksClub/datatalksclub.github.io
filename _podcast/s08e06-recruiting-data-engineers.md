@@ -2,7 +2,7 @@
 episode: 6
 guests:
 - nicolasrassam
-intro: "In this episode, Nicolas Rassam—then Senior Technical Recruiter at Onfido and former member of the Criteo AI Lab talent team—explains what hiring data engineers really looks like in today’s European tech market. He breaks down key differences between recruiting data scientists and data engineers, the growing demand for formal data engineering skills, and how candidates can stand out with real project experience. You’ll learn how recruiters evaluate portfolios and GitHub profiles, what skills matter most (SQL, Python, cloud fundamentals), and why targeted applications beat the “spray and pray” approach for breaking into data roles."
+intro: "In this episode, Nicolas Rassam—then Senior Technical Recruiter at Onfido and former member of the Criteo AI Lab talent team—explains what hiring data engineers really looks like in today’s European tech market. He breaks down key differences between recruiting data scientists and data engineers, the growing demand for formal data engineering skills, and how candidates can stand out with real project experience. You’ll learn how recruiters evaluate portfolios and GitHub profiles, what skills matter most (SQL, Python, cloud fundamentals), and why targeted applications beat the spray and pray approach for breaking into data roles."
 ids:
   anchor: Recruiting-Data-Engineers---Nicolas-Rassam-e1hnkl1
   youtube: hylxiu4VGTo
@@ -130,7 +130,7 @@ transcript:
   time: '6:59'
   who: Alexey
 - header: "Hiring Differences: Data Scientists vs. Data Engineers (Tech/Business Ratio)"
-- line: 'We're talking about hiring data engineers, but I also wanted to ask you –
+- line: 'We''re talking about hiring data engineers, but I also wanted to ask you –
     you are recruiting for a wide range of positions: ML engineers, data scientists,
     data analysts, data engineers – in your opinion, what is the main difference between
     hiring data scientists and data engineers?'

@@ -1,8 +1,12 @@
 ---
+season: 8
 episode: 5
+title: "What Is DataOps? Automating Data Pipelines & Reducing Errors"
+short: Storytime for DataOps
+description: "Learn DataOps with Chris Bergh. Master Lean principles, automation, cycle time reduction, testing, and DevOps for data teams."
 guests:
 - christopherbergh
-intro: "In this episode, Chris Bergh—CEO and Co-Founder of DataKitchen—shares the origin story of DataOps and how it’s transforming data team productivity. Drawing parallels to DevOps, Chris explains how treating “data like a factory” helps teams reduce cycle time, lower errors, and deliver analytics faster. He discusses lean principles, defining “done” and “good,” and balancing heroism with repeatable processes. You’ll learn the seven steps to implementing DataOps, how automation simplifies orchestration, and how the same principles apply to both data engineering and MLOps."
+intro: "In this episode, Chris Bergh—CEO and Co-Founder of DataKitchen—shares the origin story of DataOps and how it’s transforming data team productivity. Drawing parallels to DevOps, Chris explains how treating data like a factory helps teams reduce cycle time, lower errors, and deliver analytics faster. He discusses lean principles, defining done and good, and balancing heroism with repeatable processes. You’ll learn the seven steps to implementing DataOps, how automation simplifies orchestration, and how the same principles apply to both data engineering and MLOps."
 ids:
   anchor: Storytime-for-DataOps---Christopher-Bergh-e1hgl0m
   youtube: 0Fx5PCoLkf4
@@ -12,26 +16,23 @@ links:
   apple: https://podcasts.apple.com/us/podcast/storytime-for-dataops-christopher-bergh/id1541710331?i=1000558399936
   spotify: https://open.spotify.com/episode/2PcBsHslUVnjXFhC9hv6zk
   youtube: https://www.youtube.com/watch?v=0Fx5PCoLkf4
-season: 8
-short: Storytime for DataOps
-title: "What Is DataOps? Automating Data Pipelines & Reducing Errors"
-description: "Learn DataOps with Chris Bergh. Master Lean principles, automation, cycle time reduction, testing, and DevOps for data teams."
-intro: "In this episode, Chris Bergh—CEO and Co-Founder of DataKitchen—shares the origin story of DataOps and how it's transforming data team productivity. Drawing parallels to DevOps, Chris explains how treating "data like a factory" helps teams reduce cycle time, lower errors, and deliver analytics faster. He discusses lean principles, defining "done" and "good," and balancing heroism with repeatable processes. You'll learn the seven steps to implementing DataOps, how automation simplifies orchestration, and how the same principles apply to both data engineering and MLOps."
 topics:
 - dataops
 - practices
+
 transcript:
-- line: Some people call you the “Father of DataOps”.
+- header: "Podcast Introduction"
+- line: Some people call you the Father of DataOps.
   sec: 1
   time: '0:01'
   who: Alexey
-- line: '[laughs]Oh, yeah. One guy called me the “Grandfather of DataOps”. That hurt.
-    [laughs]'
+- line: '[laughs] Oh, yeah. One guy called me the Grandfather of DataOps. That hurt.
+  [laughs].'
   sec: 4
   time: '0:04'
   who: Chris
-- line: I'm just thinking about the introduction – should we use that. Or do you prefer
-    I don’t? [laughs]
+- line: 'I''m just thinking about the introduction – should we use that. Or do you prefer
+    I don''t? [laughs]'
   sec: 13
   time: '0:13'
   who: Alexey
