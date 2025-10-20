@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - gloriaquiceno
@@ -6,6 +7,8 @@ ids:
   anchor: From-Academia-to-Data-Analytics-and-Engineering---Gloria-Quiceno-e1ikrd8
   youtube: 0wANfIvum4U
 image: images/podcast/s08e09-from-academia-to-data-analytics-and-engineering.jpg
+
+description: "Master transition from academia to data analytics and engineering. Learn practical skills, industry expectations, and successful career pivoting."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/From-Academia-to-Data-Analytics-and-Engineering---Gloria-Quiceno-e1ikrd8
   apple: https://podcasts.apple.com/us/podcast/from-academia-to-data-analytics-and-engineering/id1541710331?i=1000562898040
@@ -1266,6 +1269,7 @@ transcript:
   sec: 3597
   time: '59:57'
   who: Alexey
+
 ---
 
 Links:

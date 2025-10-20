@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - aaishamuhammad
@@ -6,6 +7,8 @@ ids:
   anchor: ow/datatalksclub/episodes/Mastering-Self-Learning-in-Machine-Learning---Aaisha-Muhammad-e21ud62
   youtube: Kc3Puh3UCRQ
 image: images/podcast/s13e07-mastering-self-learning-in-machine-learning.jpg
+
+description: "Learn mastering self-directed ML learning. Discover effective study strategies, resources, and becoming proficient ML practitioner independently."
 links:
   anchor: https://podcasters.spotify.com/pod/pod/show/datatalksclub/episodes/Mastering-Self-Learning-in-Machine-Learning---Aaisha-Muhammad-e21ud62
   apple: https://podcasts.apple.com/us/podcast/mastering-self-learning-in-machine-learning-aaisha/id1541710331?i=1000607892159
@@ -1261,6 +1264,7 @@ transcript:
   sec: 3611
   time: '1:00:11'
   who: Alexey
+
 ---
 
 Links:

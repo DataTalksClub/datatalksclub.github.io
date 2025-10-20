@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - sonalgoyal
@@ -6,6 +7,8 @@ ids:
   anchor: Large-Scale-Entity-Resolution---Sonal-Goyal-e1pibrh
   youtube: lpjffCOPxlY
 image: images/podcast/s11e04-large-scale-entity-resolution.jpg
+
+description: "Discover large-scale entity resolution. Learn data matching, deduplication techniques, and solving identity problems at massive scale."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Large-Scale-Entity-Resolution---Sonal-Goyal-e1pibrh
   apple: https://podcasts.apple.com/us/podcast/large-scale-entity-resolution-sonal-goyal/id1541710331?i=1000584270745
@@ -1106,6 +1109,7 @@ transcript:
   sec: 3694
   time: '1:01:34'
   who: Sonal
+
 ---
 
 Links:

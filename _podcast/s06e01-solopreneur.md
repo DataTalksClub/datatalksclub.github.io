@@ -1,9 +1,12 @@
 ---
+
 title: "Becoming a Solopreneur in Data"
 short: "Becoming a Solopreneur in Data"
 guests: [noahgift]
 
 image: images/podcast/s06e01-solopreneur.jpg
+
+description: "Discover solopreneurship in data science. Learn building one-person data business, productization, and monetization strategies."
 
 season: 6
 episode: 1
@@ -1068,6 +1071,7 @@ transcript:
   sec: 3610
   time: '1:00:10'
   who: Alexey
+
 
 ---
 

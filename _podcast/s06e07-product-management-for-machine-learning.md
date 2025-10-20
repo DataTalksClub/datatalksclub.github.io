@@ -1,9 +1,12 @@
 ---
+
 title: "Product Management for Machine Learning"
 short: "Product Management for Machine Learning"
 guests: [geojolly]
 
 image: images/podcast/s06e07-product-management-for-machine-learning.jpg
+
+description: "Discover product management for ML products. Learn roadmap planning, stakeholder management, and delivering successful ML solutions."
 
 season: 6
 episode: 7
@@ -1114,6 +1117,7 @@ transcript:
   sec: 3839
   time: '1:03:59'
   who: Geo
+
 
 ---
 

@@ -1,9 +1,12 @@
 ---
+
 title: "Data Science Manager vs Data Science Expert"
 short: "Data Science Manager vs Data Science Expert"
 guests: [barbarasobkowiak]
 
 image: images/podcast/s06e03-manager-vs-expert.jpg
+
+description: "Learn choosing between management and IC expert track. Discover career paths, trade-offs, and decision frameworks for data professionals."
 
 season: 6
 episode: 3
@@ -976,6 +979,7 @@ transcript:
   sec: 3662
   time: '1:01:02'
   who: Barbara
+
 
 ---
 

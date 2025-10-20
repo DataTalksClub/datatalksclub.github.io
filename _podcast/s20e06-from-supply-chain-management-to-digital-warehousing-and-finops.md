@@ -1,4 +1,5 @@
 ---
+
 episode: 6
 guests:
 - eddyzulkifly
@@ -6,6 +7,8 @@ ids:
   anchor: datatalksclub/episodes/From-Supply-Chain-Management-to-Digital-Warehousing-and-FinOps---Eddy-Zulkifly-e313t7b
   youtube: 7ePp6wuxM5s
 image: images/podcast/s20e06-from-supply-chain-management-to-digital-warehousing-and-finops.jpg
+
+description: "Discover career from supply chain to digital warehousing and FinOps. Learn cloud cost optimization, financial operations, and data management."
 links:
   anchor: https://creators.spotify.com/pod/profile/datatalksclub/episodes/From-Supply-Chain-Management-to-Digital-Warehousing-and-FinOps---Eddy-Zulkifly-e313t7b
   apple: https://podcasts.apple.com/us/podcast/from-supply-chain-management-to-digital-warehousing/id1541710331?i=1000702233986
@@ -953,6 +956,7 @@ transcript:
   sec: 3594
   time: '59:54'
   who: Eddy
+
 ---
 
 Links:

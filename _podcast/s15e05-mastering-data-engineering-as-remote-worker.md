@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - josemaria
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Mastering-Data-Engineering-as-a-Remote-Worker---Jos-Mara-Snchez-Salas-e28716c
   youtube: UX7UShEioKc
 image: images/podcast/s15e05-mastering-data-engineering-as-remote-worker.jpg
+
+description: "Master data engineering as remote worker. Learn remote collaboration, productivity, and building successful DE career while working remotely."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Mastering-Data-Engineering-as-a-Remote-Worker---Jos-Mara-Snchez-Salas-e28716c
   apple: https://podcasts.apple.com/us/podcast/mastering-data-engineering-as-a-remote-worker-jos%C3%A9/id1541710331?i=1000624908396
@@ -985,6 +988,7 @@ transcript:
   sec: 3550
   time: '59:10'
   who: Alexey
+
 ---
 
 Links:

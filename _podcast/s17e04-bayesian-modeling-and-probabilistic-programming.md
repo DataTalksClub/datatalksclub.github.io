@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - robzinkov
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Bayesian-Modeling-and-Probabilistic-Programming---Rob-Zinkov-e2dokr5
   youtube: kcKvUSInm-M
 image: images/podcast/s17e04-bayesian-modeling-and-probabilistic-programming.jpg
+
+description: "Master Bayesian modeling and probabilistic programming. Learn PyMC, uncertainty quantification, and building probabilistic ML systems."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Bayesian-Modeling-and-Probabilistic-Programming---Rob-Zinkov-e2dokr5
   apple: https://podcasts.apple.com/us/podcast/bayesian-modeling-and-probabilistic-programming-rob/id1541710331?i=1000642253191
@@ -1169,6 +1172,7 @@ transcript:
   sec: 4009
   time: '1:06:49'
   who: Alexey
+
 ---
 
 Links:

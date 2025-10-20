@@ -1,9 +1,12 @@
 ---
+
 title: "Building and Leading Data Teams"
 short: "Building and Leading Data Teams"
 guests: [tammyliang]
 
 image: images/podcast/s05e06-building-and-leading-data-teams.jpg
+
+description: "Master building and leading data teams. Learn hiring strategies, team structure, culture building, and maximizing team performance."
 
 season: 5
 episode: 6
@@ -1203,6 +1206,7 @@ transcript:
   sec: 3624
   time: '1:00:24'
   who: Alexey
+
 ---
 
 

@@ -1,9 +1,12 @@
 ---
+
 title: "Building a Data Science Team"
 short: "Building a Data Science Team"
 guests: [dattran]
 
 image: images/podcast/s01e03-building-ds-team.jpg
+
+description: "Learn to build data teams from Dat Tran (ex-Axel Springer AI Head). Hiring tips, culture building, and project selection for data leaders."
 
 season: 1
 episode: 3
@@ -962,5 +965,6 @@ transcript:
   sec: 3650
   time: '60:50'
   who: Alexey
+
 
 ---

@@ -1,9 +1,12 @@
 ---
+
 title: "Developer Advocacy for Data Science"
 short: "Developer Advocacy for Data Science"
 guests: [elleobrien]
 
 image: images/podcast/s02e02-developer-advocacy.jpg
+
+description: "Discover developer advocacy in data science with Demetrios Brinkmann. Learn community building, content creation, and engagement strategies."
 
 season: 2
 episode: 2
@@ -974,4 +977,5 @@ transcript:
   sec: 3492
   time: '58:12'
   who: Alexey
+
 ---

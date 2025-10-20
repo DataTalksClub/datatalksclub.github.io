@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - terezaiofciu
@@ -6,6 +7,8 @@ ids:
   anchor: Decoding-Data-Science-Job-Descriptions---Tereza-Iofciu-e1m079l
   youtube: bqxBiIwtmX4
 image: images/podcast/s10e02-decoding-data-science-job-descriptions.jpg
+
+description: "Learn decoding data science job descriptions. Discover hidden requirements, realistic expectations, and matching skills to job postings."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Decoding-Data-Science-Job-Descriptions---Tereza-Iofciu-e1m079l
   apple: https://podcasts.apple.com/us/podcast/decoding-data-science-job-descriptions-tereza-iofciu/id1541710331?i=1000575150345
@@ -1116,6 +1119,7 @@ transcript:
   sec: 3626
   time: '1:00:26'
   who: Tereza
+
 ---
 
 Links:

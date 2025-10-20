@@ -1,9 +1,12 @@
 ---
+
 title: "What Researchers and Engineers Can Learn from Each Other"
 short: "What Researchers and Engineers Can Learn from Each Other"
 guests: [mihaileric]
 
 image: images/podcast/s05e05-researchers-vs-engineers.jpg
+
+description: "Learn differences between ML researchers and engineers. Discover role expectations, skills, and career paths in research vs production."
 
 season: 5
 episode: 5
@@ -1150,6 +1153,7 @@ transcript:
   sec: 3773
   time: '1:02:53'
   who: Alexey
+
 
 ---
 

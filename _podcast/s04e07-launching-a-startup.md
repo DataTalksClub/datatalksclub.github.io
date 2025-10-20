@@ -1,9 +1,12 @@
 ---
+
 title: "Launching a Startup: From Idea to First Hire"
 short: "Launching a Startup: From Idea to First Hire"
 guests: [carminepaolino]
 
 image: images/podcast/s04e07-launching-a-startup.jpg
+
+description: "Learn startup launch strategies from data science perspective. Discover validation, product-market fit, and early-stage growth tactics."
 
 season: 4
 episode: 7
@@ -1055,6 +1058,7 @@ transcript:
   sec: 4150
   time: '1:09:10'
   who: Alexey
+
 
 ---
 

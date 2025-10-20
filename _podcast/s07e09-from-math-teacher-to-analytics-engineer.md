@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - juanpablo
@@ -6,6 +7,8 @@ ids:
   anchor: From-Math-Teacher-to-Analytics-Engineer---Juan-Pablo-e1fplc1
   youtube: qh6-HDhw2xY
 image: images/podcast/s07e09-from-math-teacher-to-analytics-engineer.jpg
+
+description: "Learn career change from math teacher to analytics engineer. Discover transferable skills, learning path, and breaking into data careers."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/From-Math-Teacher-to-Analytics-Engineer---Juan-Pablo-e1fplc1
   apple: https://podcasts.apple.com/us/podcast/from-math-teacher-to-analytics-engineer-juan-pablo/id1541710331?i=1000554506607
@@ -1028,6 +1031,7 @@ transcript:
   sec: 3802
   time: '1:03:22'
   who: Juan Pablo
+
 ---
 
 Links:

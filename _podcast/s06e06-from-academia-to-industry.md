@@ -1,9 +1,12 @@
 ---
+
 title: "Moving from Academia to Industry"
 short: "Moving from Academia to Industry"
 guests: [cjjenkins]
 
 image: images/podcast/s06e06-from-academia-to-industry.jpg
+
+description: "Master transition from academia to industry. Learn skill adaptation, expectations, and success strategies for PhD-to-industry career change."
 
 season: 6
 episode: 6
@@ -1254,6 +1257,7 @@ transcript:
   sec: 3582
   time: '59:42'
   who: Alexey
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 episode: 8
 guests:
 - willmcgugan
@@ -6,6 +7,8 @@ ids:
   anchor: From-Open-Source-Maintainer-to-Founder---Will-McGugan-e1kqtu5
   youtube: bwfR9dyxf1M
 image: images/podcast/s09e08-from-open-source-maintainer-to-founder.jpg
+
+description: "Learn journey from open source maintainer to startup founder. Discover community building, monetization, and entrepreneurship in tech."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/From-Open-Source-Maintainer-to-Founder---Will-McGugan-e1kqtu5
   apple: https://podcasts.apple.com/us/podcast/designing-a-data-science-organization-lisa-cohen/id1541710331?i=1000569172916
@@ -1263,6 +1266,7 @@ transcript:
   sec: 3620
   time: '1:00:20'
   who: Alexey
+
 ---
 
 Links:

@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - lavanyagupta
@@ -6,6 +7,8 @@ ids:
   anchor: atalksclub/episodes/Build-a-Strong-Career-in-Data---Lavanya-Gupta-e32k61phttps://creators.spotify.com/pod/show/datatalksclub/episodes/Build-a-Strong-Career-in-Data---Lavanya-Gupta-e32k61p
   youtube: ekG5zJioyFs
 image: images/podcast/s20e07-build-strong-career-in-data.jpg
+
+description: "Master building strong data career. Learn skill development, networking, continuous learning, and long-term career success in data science."
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Build-a-Strong-Career-in-Data---Lavanya-Gupta-e32k61phttps://creators.spotify.com/pod/show/datatalksclub/episodes/Build-a-Strong-Career-in-Data---Lavanya-Gupta-e32k61p
   apple: https://podcasts.apple.com/us/podcast/build-a-strong-career-in-data-lavanya-gupta/id1541710331?i=1000706988972
@@ -1040,6 +1043,7 @@ transcript:
   sec: 3490
   time: '58:10'
   who: Alexey
+
 ---
 
 Links:

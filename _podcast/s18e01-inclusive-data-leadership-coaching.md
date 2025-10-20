@@ -1,4 +1,5 @@
 ---
+
 episode: 1
 guests:
 - terezaiofciu
@@ -10,6 +11,8 @@ ids:
     conditions readings: temperature, humidity, and wood moisture. '
   youtube: Z4vOTgzLkJQ
 image: images/podcast/s18e01-inclusive-data-leadership-coaching.jpg
+
+description: "Discover inclusive data leadership and coaching. Learn building diverse teams, equitable practices, and leading with inclusion in data science."
 links:
   apple: https://podcasts.apple.com/us/podcast/inclusive-data-leadership-coaching-tereza-iofciu/id1541710331?i=1000650865043
   spotify: https://open.spotify.com/episode/3zVzlQ0NmAVCtaFQXbqvHE?si=sSZhU-KXRamv2x5YZCDxAg
@@ -1118,6 +1121,7 @@ transcript:
   sec: 3481
   time: '58:01'
   who: Tereza
+
 ---
 
 Links:

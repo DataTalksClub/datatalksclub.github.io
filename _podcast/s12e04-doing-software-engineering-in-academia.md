@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - johannabayer
@@ -6,6 +7,8 @@ ids:
   anchor: Doing-Software-Engineering-in-Academia---Johanna-Bayer-e1snqcb
   youtube: K0PdQITQzVQ
 image: images/podcast/s12e04-doing-software-engineering-in-academia.jpg
+
+description: "Discover software engineering in academia. Learn research software development, reproducibility, and bridging academic and industry practices."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Doing-Software-Engineering-in-Academia---Johanna-Bayer-e1snqcb
   apple: https://podcasts.apple.com/us/podcast/doing-software-engineering-in-academia-johanna-bayer/id1541710331?i=1000594351759
@@ -1141,6 +1144,7 @@ transcript:
   sec: 3558
   time: '59:18'
   who: Alexey
+
 ---
 
 Links:

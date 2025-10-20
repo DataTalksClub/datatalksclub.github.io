@@ -1,9 +1,12 @@
 ---
+
 title: "Leading NLP Teams"
 short: "Leading NLP Teams"
 guests: [ivanbilan]
 
 image: images/podcast/s06e08-nlp-teams.jpg
+
+description: "Learn building and managing NLP teams. Discover hiring strategies, project selection, and team structure for natural language processing."
 
 season: 6
 episode: 8
@@ -1097,6 +1100,7 @@ transcript:
   sec: 3663
   time: '1:01:03'
   who: Ivan
+
 ---
 
 Links:

@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - johanneshotter
@@ -6,6 +7,8 @@ ids:
   anchor: ow/datatalksclub/episodes/Building-an-Open-Source-NLP-Tool---Johannes-Htter-e22lbn4
   youtube: WIpnyiHp4IE
 image: images/podcast/s13e09-building-open-source-nlp-tool.jpg
+
+description: "Master building open source NLP tools. Learn library development, community building, and creating successful NLP projects in open source."
 links:
   anchor: https://podcasters.spotify.com/pod/pod/show/datatalksclub/episodes/Building-an-Open-Source-NLP-Tool---Johannes-Htter-e22lbn4
   apple: https://podcasts.apple.com/us/podcast/building-an-open-source-nlp-tool-johannes-h%C3%B6tter/id1541710331?i=1000610117894
@@ -1151,6 +1154,7 @@ transcript:
   sec: 3688
   time: '1:01:28'
   who: Johannes
+
 ---
 
 Links:

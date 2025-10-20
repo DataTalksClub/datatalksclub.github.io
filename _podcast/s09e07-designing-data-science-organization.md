@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - lisacohen
@@ -6,6 +7,8 @@ ids:
   anchor: Designing-a-Data-Science-Organization---Lisa-Cohen-e1kcm5e
   youtube: F_rJ4fg5ZEA
 image: images/podcast/s09e07-designing-data-science-organization.jpg
+
+description: "Discover designing effective data science organizations. Learn team structure, reporting lines, and organizational patterns for DS success."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Designing-a-Data-Science-Organization---Lisa-Cohen-e1kcm5e
   apple: https://podcasts.apple.com/us/podcast/designing-a-data-science-organization-lisa-cohen/id1541710331?i=1000569172916
@@ -1133,6 +1136,7 @@ transcript:
   sec: 3612
   time: '1:00:12'
   who: Alexey
+
 ---
 
 Links:

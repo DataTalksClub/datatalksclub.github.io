@@ -1,9 +1,12 @@
 ---
+
 title: "Becoming a Data Product Manager"
 short: "Becoming a Data Product Manager"
 guests: [saramenefee]
 
 image: images/podcast/s06e04-becoming-a-data-product-manager.jpg
+
+description: "Discover path to becoming data product manager. Learn required skills, responsibilities, and transition strategies from data science."
 
 season: 6
 episode: 4
@@ -1084,6 +1087,7 @@ transcript:
   sec: 3722
   time: '1:02:02'
   who: Alexey
+
 
 ---
 

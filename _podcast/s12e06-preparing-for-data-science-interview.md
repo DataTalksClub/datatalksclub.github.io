@@ -1,4 +1,5 @@
 ---
+
 episode: 6
 guests:
 - lukewhipps
@@ -6,6 +7,8 @@ ids:
   anchor: Preparing-for-a-Data-Science-Interview---Luke-Whipps-e1tsh5d
   youtube: NnZjlMowkWA
 image: images/podcast/s12e06-preparing-for-data-science-interview.jpg
+
+description: "Learn comprehensive data science interview prep. Discover technical topics, behavioral questions, and strategies for landing DS roles."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Preparing-for-a-Data-Science-Interview---Luke-Whipps-e1tsh5d
   apple: https://podcasts.apple.com/us/podcast/preparing-for-a-data-science-interview-luke-whipps/id1541710331?i=1000596975225
@@ -1219,6 +1222,7 @@ transcript:
   sec: 3730
   time: '1:02:10'
   who: Alexey
+
 ---
 
 Links:

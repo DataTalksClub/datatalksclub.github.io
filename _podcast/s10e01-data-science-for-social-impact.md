@@ -1,4 +1,5 @@
 ---
+
 episode: 1
 guests:
 - christinecepelak
@@ -6,6 +7,8 @@ ids:
   anchor: Data-Science-for-Social-Impact---Christine-Cepelak-e1li47e
   youtube: xWC1HAfekRk
 image: images/podcast/s10e01-data-science-for-social-impact.jpg
+
+description: "Discover data science for social good. Learn applying ML to social problems, ethics, and creating positive impact with data skills."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Data-Science-for-Social-Impact---Christine-Cepelak-e1li47e
   apple: https://podcasts.apple.com/us/podcast/data-science-for-social-impact-christine-cepelak/id1541710331?i=1000571591865
@@ -1149,6 +1152,7 @@ transcript:
   sec: 3524
   time: '58:44'
   who: Christine
+
 ---
 
 Links:

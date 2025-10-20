@@ -1,9 +1,12 @@
 ---
+
 title: "Mastering Algorithms and Data Structures"
 short: "Mastering Algorithms and Data Structures"
 guests: [marcellolarocca]
 
 image: images/podcast/s05e01-mastering-algorithms-and-data-structures.jpg
+
+description: "Master algorithms and data structures for data science. Learn essential concepts, interview prep, and computational thinking for ML engineers."
 
 season: 5
 episode: 1
@@ -782,6 +785,7 @@ transcript:
   sec: 3822
   time: '1:03:42'
   who: Alexey
+
 
 ---
 

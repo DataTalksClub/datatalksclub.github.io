@@ -1,4 +1,5 @@
 ---
+
 episode: 3
 guests:
 - meryemarik
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/LLMs-for-Everyone---Meryem-Arik-e27bouf
   youtube: 6dn6uZFkk04
 image: images/podcast/s15e03-llms-for-everyone.jpg
+
+description: "Discover large language models for everyone. Learn LLM applications, fine-tuning, and democratizing access to powerful language AI technology."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/LLMs-for-Everyone---Meryem-Arik-e27bouf
   apple: https://podcasts.apple.com/us/podcast/llms-for-everyone-meryem-arik/id1541710331?i=1000622675129
@@ -1148,6 +1151,7 @@ transcript:
   sec: 3638
   time: '1:00:38'
   who: Alexey
+
 ---
 
 Links:

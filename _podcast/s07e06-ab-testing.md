@@ -1,4 +1,5 @@
 ---
+
 episode: 6
 guests:
 - jakobgraff
@@ -6,6 +7,8 @@ ids:
   anchor: AB-Testing---Jakob-Graff-e1eq73v
   youtube: 0Gqx1LtqRZU
 image: images/podcast/s07e06-ab-testing.jpg
+
+description: "Learn A/B testing best practices. Discover experimental design, statistical significance, and making data-driven decisions with confidence."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/AB-Testing---Jakob-Graff-e1eq73v
   apple: https://podcasts.apple.com/us/podcast/a-b-testing-jakob-graff/id1541710331?i=1000552243668
@@ -979,6 +982,7 @@ transcript:
   sec: 3880
   time: '1:04:40'
   who: Alexey
+
 ---
 
 Links:

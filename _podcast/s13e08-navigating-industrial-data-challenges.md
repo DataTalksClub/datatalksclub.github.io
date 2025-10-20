@@ -1,4 +1,5 @@
 ---
+
 episode: 8
 guests:
 - rosonaeldred
@@ -6,6 +7,8 @@ ids:
   anchor: ow/datatalksclub/episodes/Navigating-Industrial-Data-Challenges---Rosona-Eldred-e225aam
   youtube: rwuud5wr3J4
 image: images/podcast/s13e08-navigating-industrial-data-challenges.jpg
+
+description: "Discover navigating industrial data challenges. Learn manufacturing data, IoT, and applying data science in industrial environments."
 links:
   anchor: https://podcasters.spotify.com/pod/pod/show/datatalksclub/episodes/Navigating-Industrial-Data-Challenges---Rosona-Eldred-e225aam
   apple: https://podcasts.apple.com/us/podcast/navigating-industrial-data-challenges-rosona-eldred/id1541710331?i=1000608992445
@@ -1528,6 +1531,7 @@ transcript:
   sec: 3771
   time: '1:02:51'
   who: Rosona
+
 ---
 
 Links:

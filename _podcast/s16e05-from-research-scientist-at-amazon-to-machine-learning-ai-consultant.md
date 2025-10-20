@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - verenaweber
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/From-a-Research-Scientist-at-Amazon-to-a-Machine-learningAI-Consultant---Verena-Webber-e2bbmgr
   youtube: 4RargY8iOaE
 image: images/podcast/s16e05-from-research-scientist-at-amazon-to-machine-learning-ai-consultant.jpg
+
+description: "Master career change from Amazon research scientist to ML consultant. Learn independence, consulting skills, and thriving as AI consultant."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/From-a-Research-Scientist-at-Amazon-to-a-Machine-learningAI-Consultant---Verena-Webber-e2bbmgr
   apple: https://podcasts.apple.com/us/podcast/from-a-research-scientist-at-amazon-to-a/id1541710331?i=1000634411188
@@ -1219,6 +1222,7 @@ transcript:
   sec: 3656
   time: '1:00:56'
   who: Alexey
+
 ---
 
 Links:

@@ -1,9 +1,12 @@
 ---
+
 title: "DataOps 101"
 short: "DataOps 101"
 guests: [larsalbertsson]
 
 image: images/podcast/s02e11-dataops.jpg
+
+description: "Learn DataOps principles with Demetrios Brinkmann. Discover automation, collaboration, and agile practices for data engineering teams."
 
 season: 2
 episode: 11
@@ -933,6 +936,7 @@ transcript:
   sec: 4326
   time: '1:12:06'
   who: Lars
+
 
 ---
 

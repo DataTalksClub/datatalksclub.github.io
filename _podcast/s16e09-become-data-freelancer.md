@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - dimitrivisnadi
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Become-a-Data-Freelancer---Dimitri-Visnadi-e2cslo2
   youtube: R_EnSa9aZtE
 image: images/podcast/s16e09-become-data-freelancer.jpg
+
+description: "Discover becoming data freelancer. Learn starting freelance career, finding clients, and building sustainable data science consulting business."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Become-a-Data-Freelancer---Dimitri-Visnadi-e2cslo2
   apple: https://podcasts.apple.com/us/podcast/become-a-data-freelancer-dimitri-visnadi/id1541710331?i=1000637962993
@@ -1194,6 +1197,7 @@ transcript:
   sec: 3680
   time: '1:01:20'
   who: Dimitri
+
 ---
 
 Links:

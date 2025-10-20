@@ -1,4 +1,5 @@
 ---
+
 episode: 8
 guests:
 - agitajaunzeme
@@ -6,6 +7,8 @@ ids:
   anchor: atalksclub/episodes/Career-choices--transitions-and-promotions-in-and-out-of-tech---Agita-Jaunzeme-e2t05nv
   youtube: QKWu5-6_6TE
 image: images/podcast/s19e08-career-choices-transitions-and-promotions-in-and-out-of-tech.jpg
+
+description: "Discover career choices and transitions in tech. Learn changing roles, promotion strategies, and navigating career moves inside and outside tech."
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Career-choices--transitions-and-promotions-in-and-out-of-tech---Agita-Jaunzeme-e2t05nv
   apple: https://podcasts.apple.com/us/podcast/career-choices-transitions-and-promotions-in-and-out/id1541710331?i=1000683499310
@@ -1021,6 +1024,7 @@ transcript:
   sec: 3706
   time: '1:01:46'
   who: Agita
+
 ---
 
 Links:

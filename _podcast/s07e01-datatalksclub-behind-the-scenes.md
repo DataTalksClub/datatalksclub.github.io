@@ -1,9 +1,12 @@
 ---
+
 title: "DataTalks.Club Behind the Scenes"
 short: "DataTalks.Club Behind the Scenes"
 guests: [eugeneyan, alexeygrigorev]
 
 image: images/podcast/s07e01-datatalksclub-behind-the-scenes.jpg
+
+description: "Discover DataTalks.Club behind the scenes. Learn community building, event organization, and running successful data science community."
 
 season: 7
 episode: 1
@@ -950,6 +953,7 @@ transcript:
   sec: 3426
   time: '57:06'
   who: Alexey
+
 
 ---
 

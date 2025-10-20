@@ -1,4 +1,5 @@
 ---
+
 episode: 1
 guests:
 - valeriybabushkin
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Why-Machine-Learning-Design-is-Broken---Valerii-Babushkin-e26rv8o
   youtube: 6YBMU6475KQ
 image: images/podcast/s15e01-why-machine-learning-design-broken.jpg
+
+description: "Learn why ML design is broken. Discover common pitfalls, design anti-patterns, and better approaches to designing ML systems effectively."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Why-Machine-Learning-Design-is-Broken---Valerii-Babushkin-e26rv8o
   apple: https://podcasts.apple.com/us/podcast/why-machine-learning-design-is-broken-valerii-babushkin/id1541710331?i=1000621176183
@@ -926,6 +929,7 @@ transcript:
   sec: 3704
   time: '1:01:44'
   who: Alexey
+
 ---
 
 Links:

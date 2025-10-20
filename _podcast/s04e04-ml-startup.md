@@ -1,9 +1,12 @@
 ---
+
 title: "I Want to Build a Machine Learning Startup!"
 short: "I Want to Build a Machine Learning Startup!"
 guests: [elenasamuylova]
 
 image: images/podcast/s04e04-ml-startup.jpg
+
+description: "Learn building ML startups with Larysa Visengeriyeva. Discover product development, team building, and go-to-market strategies for ML."
 
 season: 4
 episode: 4
@@ -1404,6 +1407,7 @@ transcript:
   sec: 3631
   time: '1:00:31'
   who: Elena
+
 
 ---
 

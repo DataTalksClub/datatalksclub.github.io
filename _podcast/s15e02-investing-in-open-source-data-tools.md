@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - belawiertz
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Investing-in-Open-Source-Data-Tools---Bela-Wiertz-e274dr8
   youtube: 7Bg1JQLnCao
 image: images/podcast/s15e02-investing-in-open-source-data-tools.jpg
+
+description: "Master investing in open source data tools. Learn evaluation criteria, adoption strategies, and leveraging open source for data infrastructure."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Investing-in-Open-Source-Data-Tools---Bela-Wiertz-e274dr8
   apple: https://podcasts.apple.com/us/podcast/investing-in-open-source-data-tools-bela-wiertz/id1541710331?i=1000621912675
@@ -1070,6 +1073,7 @@ transcript:
   sec: 3761
   time: '1:02:41'
   who: Alexey
+
 ---
 
 Links:

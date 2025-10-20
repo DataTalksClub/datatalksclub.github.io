@@ -1,9 +1,12 @@
 ---
+
 title: "Becoming a Data Science Manager"
 short: "Becoming a Data Science Manager"
 guests: [marianosemelman]
 
 image: images/podcast/s06e09-data-science-manager.jpg
+
+description: "Master data science management. Learn team leadership, project prioritization, and balancing technical depth with management responsibilities."
 
 season: 6
 episode: 9
@@ -987,5 +990,6 @@ transcript:
   sec: 4005
   time: '1:06:45'
   who: Mariano
+
 
 ---

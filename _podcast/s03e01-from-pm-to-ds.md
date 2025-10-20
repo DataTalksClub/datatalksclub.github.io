@@ -1,9 +1,12 @@
 ---
+
 title: "Transitioning from Project Management to Data Science"
 short: "Transitioning from Project Management to Data Science"
 guests: [ksenialegostay]
 
 image: images/podcast/s03e01-from-pm-to-ds.jpg
+
+description: "Learn career transition from product management to data science. Discover essential skills, challenges, and success strategies for PM-to-DS path."
 
 season: 3
 episode: 1
@@ -888,6 +891,7 @@ transcript:
   sec: 3944
   time: '1:05:44'
   who: Alexey
+
 
 ---
 

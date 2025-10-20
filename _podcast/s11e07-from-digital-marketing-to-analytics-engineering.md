@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - nikolamaksimovic
@@ -6,6 +7,8 @@ ids:
   anchor: From-Digital-Marketing-to-Analytics-Engineering---Nikola-Maksimovic-e1qr75s
   youtube: GawJ7mG5ElQ
 image: images/podcast/s11e07-from-digital-marketing-to-analytics-engineering.jpg
+
+description: "Discover career shift from digital marketing to analytics engineering. Learn transferable skills, learning path, and leveraging marketing background."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/From-Digital-Marketing-to-Analytics-Engineering---Nikola-Maksimovic-e1qr75s
   apple: https://podcasts.apple.com/us/podcast/from-digital-marketing-to-analytics-engineering-nikola/id1541710331?i=1000586740912
@@ -948,6 +951,7 @@ transcript:
   sec: 3274
   time: '54:34'
   who: Nikola
+
 ---
 
 Links:

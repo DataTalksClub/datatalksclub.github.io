@@ -1,9 +1,12 @@
 ---
+
 title: "Ace Non-Technical Data Science Interviews"
 short: "Ace Non-Technical Data Science Interviews"
 guests: [nicksingh]
 
 image: images/podcast/s06e02-non-technical-interviews.jpg
+
+description: "Master non-technical interviews for data roles. Learn behavioral questions, culture fit assessment, and soft skills evaluation strategies."
 
 season: 6
 episode: 2
@@ -1168,5 +1171,6 @@ transcript:
   sec: 3816
   time: '1:03:36'
   who: Nick
+
 
 ---

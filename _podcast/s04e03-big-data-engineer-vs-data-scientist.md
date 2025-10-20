@@ -1,9 +1,12 @@
 ---
+
 title: "Big Data Engineer vs Data Scientist"
 short: "Big Data Engineer vs Data Scientist"
 guests: [roksolanadiachuk]
 
 image: images/podcast/s04e03-big-data-engineer-vs-data-scientist.jpg
+
+description: "Discover differences between big data engineer and data scientist. Learn roles, skills, and career paths in data professions."
 
 season: 4
 episode: 3
@@ -1338,6 +1341,7 @@ transcript:
   sec: 3799
   time: '1:03:19'
   who: Alexey
+
 
 ---
 

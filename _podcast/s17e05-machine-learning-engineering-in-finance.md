@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - nemanjaradojkovic
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Machine-Learning-Engineering-in-Finance---Nemanja-Radojkovic-e2evai8
   youtube: Nl4aibeFwiI
 image: images/podcast/s17e05-machine-learning-engineering-in-finance.jpg
+
+description: "Learn ML engineering in finance. Discover financial ML applications, risk modeling, and building production ML systems for fintech."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Machine-Learning-Engineering-in-Finance---Nemanja-Radojkovic-e2evai8
   apple: https://podcasts.apple.com/us/podcast/machine-learning-engineering-in-finance-nemanja-radojkovic/id1541710331?i=1000643322929
@@ -1179,6 +1182,7 @@ transcript:
   sec: 3579
   time: '59:39'
   who: Nemanja
+
 ---
 
 Links:

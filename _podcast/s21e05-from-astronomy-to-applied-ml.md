@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - danielegbo
@@ -6,6 +7,8 @@ ids:
   anchor: datatalksclub/episodes/From-Astronomy-to-Applied-ML---Daniel-Egbo-e38ha20
   youtube: b92gwrsVQtg
 image: images/podcast/s21e05-from-astronomy-to-applied-ml.jpg
+
+description: "Master transition from astronomy to applied ML. Learn transferable skills, physics to ML career path, and leveraging scientific background."
 links:
   anchor: https://creators.spotify.com/pod/profile/datatalksclub/episodes/From-Astronomy-to-Applied-ML---Daniel-Egbo-e38ha20
   apple: https://podcasts.apple.com/us/podcast/from-astronomy-to-applied-ml-daniel-egbo/id1541710331?i=1000728601772
@@ -1138,6 +1141,7 @@ transcript:
   sec: 3875
   time: '1:04:35'
   who: Alexey
+
 ---
 
 Links:

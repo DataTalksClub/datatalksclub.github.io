@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - paulineclavelloux
@@ -6,6 +7,8 @@ ids:
   anchor: Doing-Software-Engineering-in-Academia---Johanna-Bayer-e1snqcb
   youtube: KsV_SVXlTo8
 image: images/podcast/s12e05-indie-hacking.jpg
+
+description: "Master indie hacking for data professionals. Learn building solo projects, monetization, and creating sustainable one-person data businesses."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Doing-Software-Engineering-in-Academia---Johanna-Bayer-e1snqcb
   apple: https://podcasts.apple.com/us/podcast/indie-hacking-pauline-clavelloux/id1541710331?i=1000595787491
@@ -1171,6 +1174,7 @@ transcript:
   sec: 3567
   time: '59:27'
   who: Pauline
+
 ---
 
 Links:

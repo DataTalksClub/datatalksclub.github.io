@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - adrianbrudaru
@@ -6,6 +7,8 @@ ids:
   anchor: Freelancing-and-Consulting-with-Data-Engineering---Adrian-Brudaru-e1jtkkg
   youtube: 9DTTrN-khCk
 image: images/podcast/s09e04-freelancing-and-consulting-with-data-engineering.jpg
+
+description: "Discover freelancing in data engineering. Learn client management, project scoping, and building successful consulting business in data."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Freelancing-and-Consulting-with-Data-Engineering---Adrian-Brudaru-e1jtkkg
   apple: https://podcasts.apple.com/us/podcast/freelancing-and-consulting-with-data-engineering/id1541710331?i=1000566841525
@@ -1271,6 +1274,7 @@ transcript:
   sec: 3776
   time: '1:02:56'
   who: Adrian
+
 ---
 
 Links:

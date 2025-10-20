@@ -1,4 +1,5 @@
 ---
+
 episode: 3
 guests:
 - tomaszhinc
@@ -6,6 +7,8 @@ ids:
   anchor: From-Data-Science-to-DataOps---Tomasz-Hinc-e1p7sjb
   youtube: lem7knxqNzg
 image: images/podcast/s11e03-from-data-science-to-dataops.jpg
+
+description: "Learn transition from data science to DataOps. Discover operational skills, infrastructure knowledge, and bridging DS with operations."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/From-Data-Science-to-DataOps---Tomasz-Hinc-e1p7sjb
   apple: https://podcasts.apple.com/us/podcast/from-data-science-to-dataops-tomasz-hinc/id1541710331?i=1000583457504
@@ -964,6 +967,7 @@ transcript:
   sec: 4009
   time: '1:06:49'
   who: Alexey
+
 ---
 
 Links:

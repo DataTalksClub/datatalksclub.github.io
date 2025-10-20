@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - katharinejarmul
@@ -6,6 +7,8 @@ ids:
   anchor: ow/datatalksclub/episodes/Practical-Data-Privacy---Katharine-Jarmul-e23u551
   youtube: gbjoFfrm4iw
 image: images/podcast/s14e02-practical-data-privacy.jpg
+
+description: "Master practical data privacy. Learn GDPR compliance, anonymization, privacy-preserving ML, and protecting user data in practice."
 links:
   anchor: https://podcasters.spotify.com/pod/pod/show/datatalksclub/episodes/Practical-Data-Privacy---Katharine-Jarmul-e23u551
   apple: https://podcasts.apple.com/us/podcast/practical-data-privacy-katharine-jarmul/id1541710331?i=1000613701646
@@ -1253,6 +1256,7 @@ transcript:
   sec: 3788
   time: '1:03:08'
   who: Katharine
+
 ---
 
 Links:

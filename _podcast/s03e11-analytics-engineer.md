@@ -1,9 +1,12 @@
 ---
+
 title: "Analytics Engineer: New Role in a Data Team"
 short: "Analytics Engineer: New Role in a Data Team"
 guests: [victoriaperezmola]
 
 image: images/podcast/s03e11-analytics-engineer.jpg
+
+description: "Discover analytics engineering with Claire Carroll. Learn dbt, data modeling, and bridging data science with engineering best practices."
 
 season: 3
 episode: 11
@@ -878,6 +881,7 @@ transcript:
     detailed. It has the code and it has dependencies. It's very easy to go from there
     and see what else you are going to affect if you touch something.
   who: Victoria
+
 ---
 
 

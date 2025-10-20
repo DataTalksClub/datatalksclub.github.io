@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - lindsaymcquade
@@ -6,6 +7,8 @@ ids:
   anchor: Career-Coaching---Lindsay-McQuade-e1e8elk
   youtube: _U8GrYJvmJM
 image: images/podcast/s07e04-career-coaching.jpg
+
+description: "Discover career coaching for data professionals. Learn goal setting, skill development, and navigating career transitions in data science."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Career-Coaching---Lindsay-McQuade-e1e8elk
   apple: https://podcasts.apple.com/us/podcast/career-coaching-lindsay-mcquade/id1541710331?i=1000550822996
@@ -1091,6 +1094,7 @@ transcript:
   sec: 3587
   time: '59:47'
   who: Alexey
+
 ---
 
 Links:

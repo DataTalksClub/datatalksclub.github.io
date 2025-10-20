@@ -1,9 +1,12 @@
 ---
+
 title: "Recruiting Data Professionals"
 short: "Recruiting Data Professionals"
 guests: [alicjanotowska]
 
 image: images/podcast/s07e02-recruiting-data-professionals.jpg
+
+description: "Learn recruiting data professionals effectively. Discover sourcing strategies, interview techniques, and evaluating technical candidates."
 
 season: 7
 episode: 2
@@ -1248,5 +1251,6 @@ transcript:
   sec: 4020
   time: '1:07:00'
   who: Alicja
+
 
 ---

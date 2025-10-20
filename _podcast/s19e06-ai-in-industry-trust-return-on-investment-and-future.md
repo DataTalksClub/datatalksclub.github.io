@@ -6,6 +6,9 @@ ids:
   anchor: atalksclub/episodes/AI-in-Industry-Trust--Return-on-Investment-and-Future---Maria-Sukhareva-e2rp9f8
   youtube: bT7-HRNCltk
 image: images/podcast/s19e06-ai-in-industry-trust-return-on-investment-and-future.jpg
+
+description: "Learn AI in industry fundamentals. Discover building trust, measuring ROI, and future trends for successful industrial AI implementations."
+
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/AI-in-Industry-Trust--Return-on-Investment-and-Future---Maria-Sukhareva-e2rp9f8
   apple: https://podcasts.apple.com/us/podcast/ai-in-industry-trust-return-on-investment-and-future/id1541710331?i=1000679505962

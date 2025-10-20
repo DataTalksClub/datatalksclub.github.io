@@ -1,4 +1,5 @@
 ---
+
 episode: 1
 guests:
 - rachellim
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Using-Data-to-Create-Liveable-Cities---Rachel-Lim-e2qecup
   youtube: VXQIGHUWeL0
 image: images/podcast/s19e01-using-data-to-create-liveable-cities.jpg
+
+description: "Discover using data for liveable cities. Learn urban analytics, smart city applications, and improving city life through data science."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Using-Data-to-Create-Liveable-Cities---Rachel-Lim-e2qecup
   apple: https://podcasts.apple.com/us/podcast/using-data-to-create-liveable-cities-rachel-lim/id1541710331?i=1000675373908
@@ -776,6 +779,7 @@ transcript:
   sec: 3208
   time: '53:28'
   who: Alexey
+
 ---
 
 Links:

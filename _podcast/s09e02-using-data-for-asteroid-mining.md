@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - daynancrull
@@ -6,6 +7,8 @@ ids:
   anchor: Using-Data-for-Asteroid-Mining---Daynan-Crull-e1jbhr0
   youtube: YxijEUoDCfw
 image: images/podcast/s09e02-using-data-for-asteroid-mining.jpg
+
+description: "Learn using data science for asteroid mining. Discover space tech applications, data analysis in aerospace, and frontier data science."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Using-Data-for-Asteroid-Mining---Daynan-Crull-e1jbhr0
   apple: https://podcasts.apple.com/us/podcast/machine-learning-in-marketing-juan-orduz/id1541710331?i=1000564219176
@@ -1109,6 +1112,7 @@ transcript:
   sec: 3699
   time: '1:01:39'
   who: Alexey
+
 ---
 
 Links:

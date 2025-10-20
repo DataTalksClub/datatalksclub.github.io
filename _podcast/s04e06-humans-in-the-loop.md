@@ -1,9 +1,12 @@
 ---
+
 title: "Humans in the Loop"
 short: "Humans in the Loop"
 guests: [linaweichbrodt]
 
 image: images/podcast/s04e06-humans-in-the-loop.jpg
+
+description: "Discover human-in-the-loop ML with Robert Munro. Learn active learning, annotation strategies, and improving model accuracy with humans."
 
 season: 4
 episode: 6
@@ -1125,5 +1128,6 @@ transcript:
   sec: 3621
   time: '1:00:21'
   who: Lina
+
 
 ---

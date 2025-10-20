@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - polinamosolova
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Interpretable-AI-and-ML---Polina-Mosolova-e26hffq
   youtube: EQcY83VA0Us
 image: images/podcast/s14e09-interpretable-ai-and-ml.jpg
+
+description: "Discover interpretable AI and ML. Learn explainability techniques, model transparency, and building trustworthy AI systems stakeholders understand."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Interpretable-AI-and-ML---Polina-Mosolova-e26hffq
   apple: https://podcasts.apple.com/us/podcast/interpretable-ai-and-ml-polina-mosolova/id1541710331?i=1000619926085
@@ -1067,6 +1070,7 @@ transcript:
   sec: 3782
   time: '1:03:02'
   who: Polina
+
 ---
 
 Links:

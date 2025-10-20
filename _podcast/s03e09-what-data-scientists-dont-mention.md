@@ -1,9 +1,12 @@
 ---
+
 title: "What Data Scientists Don’t Mention in Their LinkedIn Profiles"
 short: "What Data Scientists Don’t Mention in Their LinkedIn Profiles"
 guests: [yurykashnitsky]
 
 image: images/podcast/s03e09-what-data-scientists-dont-mention.jpg
+
+description: "Discover unspoken truths about data science careers. Learn real challenges, expectations vs reality, and insider career advice."
 
 season: 3
 episode: 9
@@ -825,6 +828,7 @@ transcript:
   sec: 3687
   time: '1:01:27'
   who: Yury
+
 
 ---
 

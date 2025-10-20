@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - christophmolnar
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Cracking-the-Code-Machine-Learning-Made-Understandable---Christoph-Molnar-e2c10n4
   youtube: LBuGzyOkx7c
 image: images/podcast/s16e07-cracking-code-machine-learning-made-understandable.jpg
+
+description: "Master making ML understandable. Learn communication strategies, simplification techniques, and explaining complex ML concepts to any audience."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Cracking-the-Code-Machine-Learning-Made-Understandable---Christoph-Molnar-e2c10n4
   apple: https://podcasts.apple.com/us/podcast/cracking-the-code-machine-learning-made/id1541710331?i=1000636448000
@@ -1199,6 +1202,7 @@ transcript:
   sec: 3422
   time: '57:02'
   who: Alexey
+
 ---
 
 Links:

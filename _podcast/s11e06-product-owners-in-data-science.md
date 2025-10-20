@@ -1,4 +1,5 @@
 ---
+
 episode: 6
 guests:
 - annahannemann
@@ -6,6 +7,8 @@ ids:
   anchor: Product-Owners-in-Data-Science---Anna-Hannemann-e1q0ord
   youtube: rTRTjB6cGng
 image: images/podcast/s11e06-product-owners-in-data-science.jpg
+
+description: "Learn product ownership in data science. Discover backlog management, stakeholder communication, and delivering successful DS products."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Product-Owners-in-Data-Science---Anna-Hannemann-e1q0ord
   apple: https://podcasts.apple.com/us/podcast/product-owners-in-data-science-anna-hannemann/id1541710331?i=1000585888321
@@ -1055,6 +1058,7 @@ transcript:
   sec: 3649
   time: '1:00:49'
   who: Anna
+
 ---
 
 Links:

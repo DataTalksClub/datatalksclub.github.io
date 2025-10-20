@@ -1,4 +1,5 @@
 ---
+
 episode: 1
 guests:
 - meoramer
@@ -6,6 +7,8 @@ ids:
   anchor: Visualising-Machine-Learning---Meor-Amer-e1g7iri
   youtube: OuCuk-7RHjM
 image: images/podcast/s08e01-visualising-machine-learning.jpg
+
+description: "Discover ML visualization techniques. Learn communicating model insights, interpretability tools, and making ML accessible to stakeholders."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Visualising-Machine-Learning---Meor-Amer-e1g7iri
   apple: https://podcasts.apple.com/us/podcast/visualising-machine-learning-meor-amer/id1541710331?i=1000555246590
@@ -855,6 +858,7 @@ transcript:
   sec: 3701
   time: '1:01:41'
   who: Meor
+
 ---
 
 Links:

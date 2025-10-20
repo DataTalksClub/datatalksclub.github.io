@@ -1,9 +1,12 @@
 ---
+
 title: "Shifting Career from Analytics to Data Science"
 short: "Shifting Career from Analytics to Data Science"
 guests: [andradaolteanu]
 
 image: images/podcast/s03e02-from-analytics-to-data-science.jpg
+
+description: "Master transition from analytics to data science. Learn required skills, tools, and strategies for successful career advancement."
 
 season: 3
 episode: 2
@@ -889,6 +892,7 @@ transcript:
   sec: 3838
   time: '1:03:58'
   who: Alexey
+
 ---
 
 Links:

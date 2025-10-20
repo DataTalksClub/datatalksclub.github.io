@@ -1,9 +1,12 @@
 ---
+
 title: "Similarities and Differences between ML and Analytics"
 short: "Similarities and Differences between ML and Analytics"
 guests: [rishabhbhargava]
 
 image: images/podcast/s05e07-ml-vs-analytics.jpg
+
+description: "Discover differences between machine learning and analytics. Learn when to use each approach, tools, and career implications."
 
 season: 5
 episode: 7
@@ -1058,6 +1061,7 @@ transcript:
   sec: 3620
   time: '1:00:20'
   who: Alexey
+
 
 ---
 

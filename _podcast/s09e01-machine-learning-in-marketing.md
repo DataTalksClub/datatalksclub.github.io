@@ -1,4 +1,5 @@
 ---
+
 episode: 1
 guests:
 - juanorduz
@@ -6,6 +7,8 @@ ids:
   anchor: Machine-Learning-in-Marketing---Juan-Orduz-e1j1muj
   youtube: jsAxUd_bZpw
 image: images/podcast/s09e01-machine-learning-in-marketing.jpg
+
+description: "Discover ML applications in marketing. Learn personalization, customer segmentation, and data-driven marketing strategies with machine learning."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Machine-Learning-in-Marketing---Juan-Orduz-e1j1muj
   apple: https://podcasts.apple.com/us/podcast/machine-learning-in-marketing-juan-orduz/id1541710331?i=1000564219176
@@ -1089,6 +1092,7 @@ transcript:
   sec: 3673
   time: '1:01:13'
   who: Alexey
+
 ---
 
 Links:

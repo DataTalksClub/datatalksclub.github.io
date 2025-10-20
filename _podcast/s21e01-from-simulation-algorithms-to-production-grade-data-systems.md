@@ -1,4 +1,5 @@
 ---
+
 episode: 1
 guests:
 - orellgarten
@@ -6,6 +7,8 @@ ids:
   anchor: datatalksclub/episodes/From-Simulations-to-Freelance-Data-Engineering-Orells-Journey-Out-of-Academia-and-Into-Consulting---Orell-Garten-e369a6b
   youtube: pkcpH5N-GP8
 image: images/podcast/s21e01-from-simulation-algorithms-to-production-grade-data-systems.jpg
+
+description: "Master transition from algorithms to production systems. Learn engineering rigor, scalability, and building production-grade data infrastructure."
 links:
   anchor: https://creators.spotify.com/pod/profile/datatalksclub/episodes/From-Simulations-to-Freelance-Data-Engineering-Orells-Journey-Out-of-Academia-and-Into-Consulting---Orell-Garten-e369a6b
   apple: https://podcasts.apple.com/us/podcast/from-simulations-to-freelance-data-engineering-orells/id1541710331?i=1000720245457
@@ -768,6 +771,7 @@ transcript:
   sec: 3811
   time: '1:03:31'
   who: Alexey
+
 ---
 
 Links:

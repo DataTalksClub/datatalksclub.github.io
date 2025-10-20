@@ -1,9 +1,12 @@
 ---
+
 title: "Introducing Data Science in Startups"
 short: "Introducing Data Science in Startups"
 guests: [mariannadiachuk]
 
 image: images/podcast/s05e04-introducing-data-science-in-startups.jpg
+
+description: "Discover strategies for introducing data science in startups. Learn building DS practice, quick wins, and demonstrating value in early-stage."
 
 season: 5
 episode: 4
@@ -966,6 +969,7 @@ transcript:
   sec: 3486
   time: '58:06'
   who: Alexey
+
 
 ---
 

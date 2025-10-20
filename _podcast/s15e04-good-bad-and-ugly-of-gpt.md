@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - sandrakublik
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/The-Good--the-Bad-and-the-Ugly-of-GPT---Sandra-Kublik-e27o8r4
   youtube: bM6AR4A-f98
 image: images/podcast/s15e04-good-bad-and-ugly-of-gpt.jpg
+
+description: "Learn GPT's good, bad, and ugly. Discover practical applications, limitations, pitfalls, and realistic expectations for GPT models."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/The-Good--the-Bad-and-the-Ugly-of-GPT---Sandra-Kublik-e27o8r4
   apple: https://podcasts.apple.com/us/podcast/the-good-the-bad-and-the-ugly-of-gpt-sandra-kublik/id1541710331?i=1000623464507
@@ -888,6 +891,7 @@ transcript:
   sec: 3684
   time: '1:01:24'
   who: Sandra
+
 ---
 
 Links:

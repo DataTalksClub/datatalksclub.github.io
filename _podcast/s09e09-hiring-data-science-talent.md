@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - olgaivina
@@ -6,6 +7,8 @@ ids:
   anchor: Hiring-Data-Science-Talent---Olga-Ivina-e1l4aku
   youtube: Af9t9r2b0z0
 image: images/podcast/s09e09-hiring-data-science-talent.jpg
+
+description: "Master hiring data science talent. Learn candidate assessment, technical interviews, and building world-class data science teams."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Hiring-Data-Science-Talent---Olga-Ivina-e1l4aku
   apple: https://podcasts.apple.com/us/podcast/hiring-data-science-talent-olga-ivina/id1541710331?i=1000570846380
@@ -1262,6 +1265,7 @@ transcript:
   sec: 3596
   time: '59:56'
   who: Olga
+
 ---
 
 Links:

@@ -1,4 +1,5 @@
 ---
+
 episode: 1
 guests:
 - adrianbrudaru
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/The-Entrepreneurship-Journey-From-Freelancing-to-Starting-a-Company---Adrian-Brudaru-e2cut0k
   youtube: vOpEQiCsaLw
 image: images/podcast/s17e01-entrepreneurship-journey-from-freelancing-to-starting-company.jpg
+
+description: "Learn entrepreneurship journey from freelancing to startup. Discover scaling from solo consultant to company founder in data space."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/The-Entrepreneurship-Journey-From-Freelancing-to-Starting-a-Company---Adrian-Brudaru-e2cut0k
   apple: https://podcasts.apple.com/us/podcast/the-entrepreneurship-journey-from-freelancing-to/id1541710331?i=1000638715212
@@ -1171,6 +1174,7 @@ transcript:
   sec: 3696
   time: '1:01:36'
   who: Alexey
+
 ---
 
 Links:

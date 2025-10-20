@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - andreyshtylenko
@@ -6,6 +7,8 @@ ids:
   anchor: Building-Data-Science-Practice---Andrey-Shtylenko-e1q2ka6
   youtube: XbDQv8FTA4U
 image: images/podcast/s11e05-building-data-science-practice.jpg
+
+description: "Master building data science practice. Learn establishing DS function, demonstrating value, and growing data science from zero to hero."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Building-Data-Science-Practice---Andrey-Shtylenko-e1q2ka6
   apple: https://podcasts.apple.com/us/podcast/building-data-science-practice-andrey-shtylenko/id1541710331?i=1000585100407
@@ -947,6 +950,7 @@ transcript:
   sec: 3702
   time: '1:01:42'
   who: Alexey
+
 ---
 
 Links:

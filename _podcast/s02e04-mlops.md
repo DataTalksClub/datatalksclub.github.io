@@ -1,9 +1,12 @@
 ---
+
 title: "The Rise of MLOps"
 short: "The Rise of MLOps"
 guests: [theofilospapapanagiotou]
 
 image: images/podcast/s02e04-mlops.jpg
+
+description: "Learn MLOps essentials from Noah Gift. Discover production ML deployment, DevOps for data science, and scalability best practices."
 
 season: 2
 episode: 4
@@ -1115,5 +1118,6 @@ transcript:
   sec: 3922
   time: '1:05:22'
   who: 'Theo:'
+
 
 ---

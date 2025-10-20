@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - 16rahuljain
@@ -6,6 +7,8 @@ ids:
   anchor: Becoming-a-Data-Engineering-Manager---Rahul-Jain-e1f5nvf
   youtube: FljnbUQ796w
 image: images/podcast/s07e07-becoming-a-data-engineering-manager.jpg
+
+description: "Discover path to data engineering management. Learn transition strategies, team building, and technical leadership for data engineering."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Becoming-a-Data-Engineering-Manager---Rahul-Jain-e1f5nvf
   apple: https://podcasts.apple.com/us/podcast/becoming-a-data-engineering-manager-rahul-jain/id1541710331?i=1000552953646
@@ -1074,6 +1077,7 @@ transcript:
   sec: 3650
   time: '1:00:50'
   who: Rahul
+
 ---
 
 Links:

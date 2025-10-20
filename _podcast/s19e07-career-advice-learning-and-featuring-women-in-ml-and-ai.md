@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - isabellabicalho
@@ -6,6 +7,8 @@ ids:
   anchor: atalksclub/episodes/Career-advice--learning--and-featuring-women-in-ML-and-AI---Isabella-Bicalho-e2s3ura
   youtube: GifY8Zn-pnU
 image: images/podcast/s19e07-career-advice-learning-and-featuring-women-in-ml-and-ai.jpg
+
+description: "Master career advice for women in ML and AI. Learn navigating tech careers, continuous learning, and supporting women in technology."
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Career-advice--learning--and-featuring-women-in-ML-and-AI---Isabella-Bicalho-e2s3ura
   apple: https://podcasts.apple.com/us/podcast/career-advice-learning-and-featuring-women-in-ml-and/id1541710331?i=1000680294201
@@ -954,6 +957,7 @@ transcript:
   sec: 3822
   time: '1:03:42'
   who: Alexey
+
 ---
 
 Links:

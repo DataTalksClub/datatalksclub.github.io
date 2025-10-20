@@ -1,4 +1,5 @@
 ---
+
 episode: 2
 guests:
 - anahitapakiman
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Knowledge-Graphs-and-LLMs-Across-Academia-and-Industry---Anahita-Pakiman-e2hpo20
   youtube: YncdlUscUOo
 image: images/podcast/s18e02-knowledge-graphs-and-llms-across-academia-and-industry.jpg
+
+description: "Master knowledge graphs and LLMs. Learn combining structured knowledge with language models across academic research and industry applications."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Knowledge-Graphs-and-LLMs-Across-Academia-and-Industry---Anahita-Pakiman-e2hpo20
   apple: https://podcasts.apple.com/us/podcast/knowledge-graphs-and-llms-across-academia-and/id1541710331?i=1000651561079
@@ -1045,6 +1048,7 @@ transcript:
   sec: 3664
   time: '1:01:04'
   who: Alexey
+
 ---
 
 Links:

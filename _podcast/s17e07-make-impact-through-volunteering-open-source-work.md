@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - saraelateif
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Make-an-Impact-Through-Volunteering-Open-Source-Work---Sara-EL-ATEIF-e2g4dan
   youtube: aHdaIwOEI8Q
 image: images/podcast/s17e07-make-impact-through-volunteering-open-source-work.jpg
+
+description: "Master making impact through volunteering and open source. Learn contributing meaningfully, building portfolio, and giving back to community."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Make-an-Impact-Through-Volunteering-Open-Source-Work---Sara-EL-ATEIF-e2g4dan
   apple: https://podcasts.apple.com/us/podcast/make-an-impact-through-volunteering-open-source-work/id1541710331?i=1000646627892
@@ -1209,6 +1212,7 @@ transcript:
   sec: 3677
   time: '1:01:17'
   who: Sara
+
 ---
 
 Links:

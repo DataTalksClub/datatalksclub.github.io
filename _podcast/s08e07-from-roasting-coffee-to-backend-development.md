@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - jessicagreene
@@ -6,6 +7,8 @@ ids:
   anchor: From-Roasting-Coffee-to-Backend-Development---Jessica-Greene-e1i1ten/a-a7s65oj
   youtube: BKqmNdxsBko
 image: images/podcast/s08e07-from-roasting-coffee-to-backend-development.jpg
+
+description: "Discover unique career path from coffee roasting to backend development. Learn non-traditional transitions and breaking into tech careers."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/From-Roasting-Coffee-to-Backend-Development---Jessica-Greene-e1i1ten/a-a7s65oj
   apple: https://podcasts.apple.com/us/podcast/from-roasting-coffee-to-backend-development-jessica/id1541710331?i=1000559856138
@@ -1113,6 +1116,7 @@ transcript:
   sec: 3656
   time: '1:00:56'
   who: Jessica
+
 ---
 
 Links:

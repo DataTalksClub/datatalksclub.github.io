@@ -1,9 +1,12 @@
 ---
+
 title: "Personal Branding"
 short: "Personal Branding"
 guests: [admondleekinlim]
 
 image: images/podcast/s02e08-personal-branding.jpg
+
+description: "Build your personal brand in data science with Stephen Bailey. Learn LinkedIn strategies, content creation, and career visibility tactics."
 
 season: 2
 episode: 8
@@ -17,6 +20,7 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Personal-Branding---Admond-Lee-Kin-Lim-ern77e
   spotify: https://open.spotify.com/episode/61Yv13MISTeP5nOVAZpY88
   apple: https://podcasts.apple.com/us/podcast/personal-branding-admond-lee-kin-lim/id1541710331?i=1000511761026
+
 ---
 
 We talked about:

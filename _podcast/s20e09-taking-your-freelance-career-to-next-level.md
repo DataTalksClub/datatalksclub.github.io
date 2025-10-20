@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - dimitrivisnadi
@@ -6,6 +7,8 @@ ids:
   anchor: datatalksclub/episodes/Can-You-Quit-Your-Job-and-Still-Succeed-as-a-Data-Freelancer-e360j7e
   youtube: S93V8RgwBig
 image: images/podcast/s20e09-taking-your-freelance-career-to-next-level.jpg
+
+description: "Discover taking freelance career to next level. Learn scaling consulting, premium positioning, and building thriving independent data business."
 links:
   anchor: https://creators.spotify.com/pod/profile/datatalksclub/episodes/Can-You-Quit-Your-Job-and-Still-Succeed-as-a-Data-Freelancer-e360j7e
   apple: https://podcasts.apple.com/us/podcast/can-you-quit-your-job-and-still-succeed-as-a-data-freelancer/id1541710331?i=1000718997257
@@ -559,6 +562,7 @@ transcript:
   sec: 3929
   time: '1:05:29'
   who: Alexey
+
 ---
 
 Links:

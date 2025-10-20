@@ -1,4 +1,5 @@
 ---
+
 episode: 3
 guests:
 - boyanangelov
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Data-Strategy-Key-Principles-and-Best-Practices---Boyan-Angelov-e24mete
   youtube: jGbfeYdlCiQ
 image: images/podcast/s14e03-data-strategy-key-principles-and-best-practices.jpg
+
+description: "Discover data strategy fundamentals. Learn strategic planning, governance, and aligning data initiatives with business objectives effectively."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Data-Strategy-Key-Principles-and-Best-Practices---Boyan-Angelov-e24mete
   apple: https://podcasts.apple.com/us/podcast/data-strategy-key-principles-and-best-practices-boyan/id1541710331?i=1000614629229
@@ -1133,6 +1136,7 @@ transcript:
   sec: 3512
   time: '58:32'
   who: Alexey
+
 ---
 
 Links:

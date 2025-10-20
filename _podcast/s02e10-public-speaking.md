@@ -1,9 +1,12 @@
 ---
+
 title: "The Essentials of Public Speaking for Career in Data Science"
 short: "The Essentials of Public Speaking for Career in Data Science"
 guests: [bentaylor]
 
 image: images/podcast/s02e10-public-speaking.jpg
+
+description: "Master public speaking for data scientists with David Neuzerling. Learn presentation skills, conference talks, and communication strategies."
 
 season: 2
 episode: 10
@@ -1162,6 +1165,7 @@ transcript:
   sec: 4278
   time: '1:11:18'
   who: Alexey
+
 
 ---
 

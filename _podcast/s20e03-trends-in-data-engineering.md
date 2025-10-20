@@ -1,4 +1,5 @@
 ---
+
 episode: 3
 guests:
 - adrianbrudaru
@@ -6,6 +7,8 @@ ids:
   anchor: atalksclub/episodes/Trends-in-Data-Engineering--Adrian-Brudaru-e2ui9ae
   youtube: AlCFKbFIEM8
 image: images/podcast/s20e03-trends-in-data-engineering.jpg
+
+description: "Discover trends in data engineering. Learn modern tools, best practices, and evolving landscape of data infrastructure and platforms."
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Trends-in-Data-Engineering--Adrian-Brudaru-e2ui9ae
   apple: https://podcasts.apple.com/us/podcast/trends-in-data-engineering-adrian-brudaru/id1541710331?i=1000698294801
@@ -506,6 +509,7 @@ transcript:
   sec: 3737
   time: '1:02:17'
   who: Alexey
+
 ---
 
 Links:

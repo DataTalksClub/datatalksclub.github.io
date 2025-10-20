@@ -5,6 +5,8 @@ guests: [{{ guest }}]
 
 image: {{ image }}
 
+description: "{{ description }}"
+
 season: {{ season }}
 episode: {{ episode }}
 

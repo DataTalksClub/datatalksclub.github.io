@@ -1,4 +1,5 @@
 ---
+
 episode: 7
 guests:
 - krzysztofszafanek
@@ -6,6 +7,8 @@ ids:
   anchor: Navigating-Career-Changes-in-Machine-Learning---Chris-Szafranek-e1ucvn2
   youtube: cUxZBXQgZaU
 image: images/podcast/s12e07-navigating-career-changes-in-machine-learning.jpg
+
+description: "Discover navigating ML career changes. Learn transition strategies, skill development, and making smart career moves in machine learning."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Navigating-Career-Changes-in-Machine-Learning---Chris-Szafranek-e1ucvn2
   apple: https://podcasts.apple.com/us/podcast/navigating-career-changes-in-machine-learning-chris/id1541710331?i=1000597921745
@@ -1215,6 +1218,7 @@ transcript:
   sec: 3652
   time: '1:00:52'
   who: Chris
+
 ---
 
 Links:

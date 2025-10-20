@@ -1,9 +1,12 @@
 ---
+
 title: "Chief Data Officer"
 short: "Chief Data Officer"
 guests: [marcodesa]
 
 image: images/podcast/s04e09-chief-data-officer.jpg
+
+description: "Discover Chief Data Officer role with Barton George. Learn executive leadership, data strategy, and organizational transformation."
 
 season: 4
 episode: 9
@@ -1001,4 +1004,5 @@ transcript:
   sec: 3789
   time: '1:03:09'
   who: Marco
+
 ---

@@ -1,9 +1,12 @@
 ---
+
 title: "Running from Complexity"
 short: "Running from Complexity"
 guests: [benwilson]
 
 image: images/podcast/s04e05-running-from-complexity.jpg
+
+description: "Master simplicity in data science with Marco Monteiro. Learn avoiding over-engineering, practical solutions, and effective project delivery."
 
 season: 4
 episode: 5
@@ -1221,6 +1224,7 @@ transcript:
   sec: 4435
   time: '1:13:55'
   who: Ben
+
 
 ---
 

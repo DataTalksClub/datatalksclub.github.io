@@ -1,4 +1,5 @@
 ---
+
 episode: 4
 guests:
 - vincentwarmerdam
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Working-in-Open-Source---Probabl-ai-and-sklearn---Vincent-Warmerdam-e2j78fs
   youtube: UPlIETGwTg8
 image: images/podcast/s18e04-working-in-open-source-probabl-ai-and-sklearn.jpg
+
+description: "Discover working in open source at Probabl and scikit-learn. Learn open source career, community contribution, and maintaining major ML libraries."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Working-in-Open-Source---Probabl-ai-and-sklearn---Vincent-Warmerdam-e2j78fs
   apple: https://podcasts.apple.com/us/podcast/working-in-open-source-probabl-ai-and-sklearn-vincent/id1541710331?i=1000654481795
@@ -848,6 +851,7 @@ transcript:
   sec: 3715
   time: '1:01:55'
   who: Alexey
+
 
 ---
 

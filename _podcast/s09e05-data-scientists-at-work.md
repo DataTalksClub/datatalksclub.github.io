@@ -1,4 +1,5 @@
 ---
+
 episode: 5
 guests:
 - misraturp
@@ -6,6 +7,8 @@ ids:
   anchor: Data-Scientists-at-Work---Msra-Turp-e1k7pbn
   youtube: oUycqtMoYr8
 image: images/podcast/s09e05-data-scientists-at-work.jpg
+
+description: "Learn what data scientists actually do at work. Discover daily activities, tools, and real-world responsibilities beyond the hype."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Data-Scientists-at-Work---Msra-Turp-e1k7pbn
   apple: https://podcasts.apple.com/us/podcast/data-scientists-at-work-m%C4%B1sra-turp/id1541710331?i=1000567625873
@@ -1294,6 +1297,7 @@ transcript:
   sec: 3919
   time: '1:05:19'
   who: Misra
+
 ---
 
 Links:

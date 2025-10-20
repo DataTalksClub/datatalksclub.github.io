@@ -1,9 +1,12 @@
 ---
+
 title: "Building Online Tech Communities"
 short: "Building Online Tech Communities"
 guests: [demetriosbrinkmann]
 
 image: images/podcast/s02e12-communities.jpg
+
+description: "Discover data science community building with David Neuzerling. Learn engagement strategies, event organization, and networking techniques."
 
 season: 2
 episode: 12
@@ -1105,6 +1108,7 @@ transcript:
   sec: 4436
   time: '1:13:56'
   who: Alexey
+
 
 ---
 

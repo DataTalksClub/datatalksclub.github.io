@@ -1,4 +1,5 @@
 ---
+
 episode: 3
 guests:
 - ioannismesionis
@@ -6,6 +7,8 @@ ids:
   anchor: atatalksclub/episodes/Collaborative-Data-Science-in-Business---Ioannis-Mesionis-e2app0c
   youtube: 1pExOVuCF8Q
 image: images/podcast/s16e03-collaborative-data-science-in-business.jpg
+
+description: "Discover collaborative data science in business. Learn cross-functional teamwork, stakeholder management, and delivering business value together."
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Collaborative-Data-Science-in-Business---Ioannis-Mesionis-e2app0c
   apple: https://podcasts.apple.com/us/podcast/collaborative-data-science-in-business-ioannis-mesionis/id1541710331?i=1000632860980
@@ -1259,6 +1262,7 @@ transcript:
   sec: 3714
   time: '1:01:54'
   who: Alexey
+
 ---
 
 Links:

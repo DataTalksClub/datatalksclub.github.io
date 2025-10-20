@@ -1,4 +1,5 @@
 ---
+
 episode: 9
 guests:
 - tatianagabruseva
@@ -6,6 +7,8 @@ ids:
   anchor: Staff-AI-Engineer---Tatiana-Gabruseva-e1v3on7
   youtube: _xr1_xb736E
 image: images/podcast/s12e09-staff-ai-engineer.jpg
+
+description: "Master staff-level AI engineering. Learn technical leadership, system design, and advancing to senior IC roles in AI engineering."
 links:
   anchor: https://anchor.fm/datatalksclub/episodes/Staff-AI-Engineer---Tatiana-Gabruseva-e1v3on7
   apple: https://podcasts.apple.com/us/podcast/staff-ai-engineer-tatiana-gabruseva/id1541710331?i=1000600246792
@@ -1073,6 +1076,7 @@ transcript:
   sec: 3634
   time: '1:00:34'
   who: Alexey
+
 ---
 
 Links:

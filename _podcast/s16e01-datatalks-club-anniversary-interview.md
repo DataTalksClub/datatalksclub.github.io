@@ -7,6 +7,9 @@ ids:
   anchor: atatalksclub/episodes/DataTalks-Club-Anniversary-Interview---Alexey-Grigorev--Johanna-Bayer-e2a5cqo
   youtube: nCqwZT9zA0M
 image: images/podcast/s16e01-datatalks-club-anniversary-interview.jpg
+
+description: "Learn DataTalks.Club anniversary insights. Discover community growth, lessons learned, and future of data science education and networking."
+
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/DataTalks-Club-Anniversary-Interview---Alexey-Grigorev--Johanna-Bayer-e2a5cqo
   apple: https://podcasts.apple.com/us/podcast/datatalks-club-anniversary-interview-alexey-grigorev/id1541710331?i=1000631114088

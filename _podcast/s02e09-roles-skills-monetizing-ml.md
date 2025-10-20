@@ -1,9 +1,12 @@
 ---
+
 title: "New Roles and Key Skills to Monetize Machine Learning"
 short: "New Roles and Key Skills to Monetize Machine Learning"
 guests: [vinvashishta]
 
 image: images/podcast/s02e09-roles-skills-monetizing-ml.jpg
+
+description: "Discover ML roles, essential skills, and monetization strategies with Ben Wilson. Expert insights on building profitable ML careers."
 
 season: 2
 episode: 9
@@ -1326,6 +1329,7 @@ transcript:
   sec: 4743
   time: '1:19:03'
   who: Alexey
+
 
 ---
 
