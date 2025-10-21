@@ -276,7 +276,7 @@ transcript:
   sec: 847
   time: '14:07'
   who: Rahul
-- header: The importance of updating your skill set
+- header: "The Importance of Updating Your Skill Set"
 - line: Okay, so let's say for an example – right now you heard that there is a tool
     called Prefect, which might be nicer and then maybe you allocate some time to
     give it a try. Then you see how it is different from the current technologies
@@ -524,7 +524,7 @@ transcript:
   sec: 1726
   time: '28:46'
   who: Rahul
-- header: GDPR compliance
+- header: "GDPR Compliance: Dynamic Data Masking, Role-Based Access Control"
 - line: There is a question that is related, I think, to the data platform. “Data
     engineering is moving towards full automation with data versioning and managed
     model serving – how do you solve GDPR compliance issues and bring stakeholders
@@ -1056,7 +1056,6 @@ transcript:
   sec: 3476
   time: '57:56'
   who: Rahul
-- header: Finding Rahul online
 - line: Yeah, thanks a lot. What's the best way to find you if somebody has questions?
     Is it LinkedIn or are there other ways?
   sec: 3599
@@ -1086,7 +1085,3 @@ transcript:
   time: '1:00:50'
   who: Rahul
 ---
-
-Links:
-
-* [Rahul's LinkedIn](https://www.linkedin.com/in/16rahuljain/){:target="_blank"}

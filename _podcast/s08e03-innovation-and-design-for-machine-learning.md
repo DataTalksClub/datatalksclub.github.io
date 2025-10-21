@@ -324,7 +324,6 @@ transcript:
   sec: 1045
   time: '17:25'
   who: Liesbeth
-- header: How long does it take to go from an idea to finishing the second diamond?
 - line: At the beginning, when you were describing this, it may have looked like a
     thing that could have been done in a couple of days. But when you talked about
     creating multiple proofs of concept and also showed them to the users it paints
@@ -567,13 +566,13 @@ transcript:
   sec: 1817
   time: '30:17'
   who: Liesbeth
-- header: Challenging your task-giver (asking “why”)
 - line: 'Let''s imagine we have this situation: a manager comes to me, or to the team,
     or to the product manager and says, “Hey, this is the problem we think we have.
     Let''s solve it with a neural network.” So how do we challenge that person? How
     do we challenge the CTO or whoever and say, “No, no. Let''s first figure out what
     the problem is.” How do we go about that?'
   sec: 1864
+- header: "Challenging Task-Givers: Asking Why; Strategy: Scoping Document"
   time: '31:04'
   who: Alexey
 - line: Also during my time working as a consultant, I think I've gained some experience
@@ -673,7 +672,6 @@ transcript:
   sec: 2211
   time: '36:51'
   who: Liesbeth
-- header: Defining the roadmap for data science teams
 - line: '[laughs] Do we need to have some sort of processes in our organization? How
     exactly should this happen? I can imagine if there are such ad hoc requests coming
     in, I guess there should be some process, like how exactly we define the roadmap
@@ -707,7 +705,7 @@ transcript:
   sec: 2235
   time: '37:15'
   who: Liesbeth
-- header: What is innovation?
+- header: "Innovation Defined: Moving Beyond Incremental OKRs"
 - line: One other thing that I wanted to talk about here – so we talked about design
     – but we also wanted to talk about innovation. How is everything we talked about
     (design, communication with different people) how is it related to innovation?
@@ -771,6 +769,7 @@ transcript:
   sec: 2540
   time: '42:20'
   who: Alexey
+- header: "Example: Second-Hand Car Platforms & Radical Innovation"
 - line: Exactly. Yeah. As an example – second hand cars. Within OLX, there are a lot
     of platforms where people can buy and sell second hand cars. But the core problem
     when you're buying a secondhand car is trust. Not very surprisingly, the number
@@ -803,7 +802,6 @@ transcript:
   sec: 2599
   time: '43:19'
   who: Liesbeth
-- header: Bringing innovation to your management
 - line: I heard this story many times – let's say somebody works at Amazon or Facebook
     or some other company, and they have a problem with something. But because they
     don't have the freedom to solve this in an innovative way, they need to take these
@@ -847,6 +845,7 @@ transcript:
   sec: 2790
   time: '46:30'
   who: Liesbeth
+- header: "Strategy: Collecting Data Evidence to Pitch Innovative Ideas"
 - line: I guess if you're at Amazon, you don't want your people to leave and start
     a startup, right? You want to keep them in the company and you want to encourage
     them to do [inaudible] because they don't know, maybe this will become the new,
@@ -874,7 +873,7 @@ transcript:
   sec: 2889
   time: '48:09'
   who: Liesbeth
-- header: Task force-team approach to solving problems
+- header: "Strategy: Task Force Approach (Jet Skis); Encouraging New Ideas"
 - line: I heard that there is a company in Germany (I think in the whole of Europe)
     called Zalando that sells clothes. And what they have is some freedom to work
     on small projects. They see a problem and they form a small task force – the person
@@ -947,7 +946,6 @@ transcript:
   sec: 3165
   time: '52:45'
   who: Liesbeth
-- header: Innovation, resource management issues, and using data to back your ideas
 - line: I imagine a different challenge. Let's say I'm a manager and I have a lot
     of fires to fight. Now somebody comes to me and says, “Hey, I have this amazing
     idea. We can completely revolutionize the way we're solving this problem.” But
@@ -968,6 +966,7 @@ transcript:
   sec: 3251
   time: '54:11'
   who: Liesbeth
+- header: "Advice: Design and Innovation Skills Are Learnable"
 - line: But I'm not sure if there's a one-size-fits-all solution to be able to both
     work on really cool enough projects and make sure that whatever the team needs
     to deliver actually gets delivered. A solution direction that I believe in is
@@ -1037,7 +1036,6 @@ transcript:
   sec: 3447
   time: '57:27'
   who: Alexey
-- header: Words of advice for those interested in design and innovation
 - line: Yeah. Plenty of interesting topics, right? [laughs] I guess your work – design
     and innovation – you can keep talking about them for a long time. But maybe one
     encouragement for anyone listening in are kind of interested but maybe don't know

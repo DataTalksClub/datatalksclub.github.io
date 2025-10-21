@@ -717,7 +717,7 @@ transcript:
   sec: 2709
   time: '45:09'
   who: Jakob
-- header: A/B test crash course advice
+- header: "Course: A/B Test Crash Course Advice"
 - line: Do you know of a good crash course on A/B tests that does not involve a lot
     of math – ones that are more practical? “If your data looks like this, use this
     test. If your data looks like that, use another test.” Something like that?
@@ -989,8 +989,3 @@ transcript:
   time: '1:04:40'
   who: Alexey
 ---
-
-Links:
-
-* [Jakob's LinkedIn](https://www.linkedin.com/in/jakob-graff-a6113a3a/){:target="_blank"}
-* [Product Analyst role at Inkitt](https://jobs.lever.co/inkitt/d2b0427a-f37f-4002-975d-28bd60b56d70){:target="_blank"}

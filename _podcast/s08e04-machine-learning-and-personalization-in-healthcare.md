@@ -133,7 +133,6 @@ transcript:
   sec: 365
   time: '6:05'
   who: Stefan
-- header: Applications of machine learning in healthcare
 - line: '[laughs] Okay. Coming back to our main topic of machine learning in healthcare
     – Usually, when I hear machine learning in healthcare (in general, in healthcare)
     I think about clinical trials. But when people talk about machine learning in
@@ -367,7 +366,6 @@ transcript:
   sec: 1093
   time: '18:13'
   who: Stefan
-- header: How is working for King different from Sidekick Health?
 - line: Interesting. I really want to try it now. [laughs] So we already talked a
     bit about how your previous background was useful, at King for example, where
     you knew how to attract or keep people engaged. But it also seems like it's quite
@@ -478,7 +476,6 @@ transcript:
   sec: 1454
   time: '24:14'
   who: Stefan
-- header: The rewards systems in gamified apps
 - line: Yeah. For those who haven't, this is a tool (an app) for learning languages
     that has gamification inside to keep you motivated to learn. My wife is actually
     using it to learn French right now. I can see that they did quite a good job of
@@ -600,7 +597,6 @@ transcript:
   sec: 1773
   time: '29:33'
   who: Stefan
-- header: The challenges of building an app in the healthcare industry
 - line: Okay. Usually when I think of the healthcare industry, (I might be wrong.
     Don't judge me. I never worked in healthcare.) But usually when I think about
     this, it's regulated – it's quite slow. There is a lot of legacy software, a lot
@@ -668,7 +664,6 @@ transcript:
   sec: 2034
   time: '33:54'
   who: Stefan
-- header: Dealing with ethics issues
 - line: Yeah. The question is, “How do we deal with issues of ethics in machine learning
     and health care?” I guess you mentioned that one of these things is making sure
     that (following Apple’s lead of opt-in instead of opt-out) we keep track of all
@@ -806,8 +801,6 @@ transcript:
   sec: 2397
   time: '39:57'
   who: Stefan
-- header: The importance of having the right approach in A/B tests (strong analytics
-    and good data)
 - line: When it comes to A/B tests, it feels to me (maybe I'm wrong) but they're less
     personalized, right? You're trying to test the same piece of content – or two
     pieces of content in this case, if we're talking about an A/B test on the entire
@@ -948,7 +941,6 @@ transcript:
   sec: 2868
   time: '47:48'
   who: Stefan
-- header: Making a data-driven company
 - line: You mentioned that you have medical doctors who are domain experts, in your
     case, then behavioral scientists who are also domain experts, and then the engineers,
     the data scientists, who take care of the way of working, as you mentioned. Then
@@ -991,7 +983,6 @@ transcript:
   sec: 2965
   time: '49:25'
   who: Stefan
-- header: Risks for Sidekick Health
 - line: Right. You mentioned risk. As I understand, for your case, the risk is not
     that high, because you're not recommending medicine. Right? You're not saying
     “You have to take these pills.”
@@ -1053,7 +1044,6 @@ transcript:
   sec: 3198
   time: '53:18'
   who: Stefan
-- header: Sidekick Health growth strategy
 - line: Yeah, but it’s better this way rather than just going to the pharmacy by doing
     self-diagnosis and buying something that can cause more harm than good. I've heard
     you're hiring. Can you tell us more about that?
@@ -1085,7 +1075,7 @@ transcript:
   sec: 3283
   time: '54:43'
   who: Stefan
-- header: Using AI to help people live better lives
+- header: "Using AI to Help People Live Better Lives"
 - line: You're the first guest we had from Iceland. Not that many people – I don't
     think I know anyone apart from you. [laughs] I noticed that we have a question
     from Slido. The question is (I don't know if you know about this) “What are your

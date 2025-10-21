@@ -119,7 +119,6 @@ transcript:
   sec: 375
   time: '6:15'
   who: Nicolas
-- header: Hiring data scientists vs data engineers
 - line: Okay. Interesting. Actually, the reason I reached out to you a couple of weeks
     ago and invited you to this podcast is because we had a different podcast episode
     that was about hiring data professionals – where we talked to Alicia, who was
@@ -234,7 +233,6 @@ transcript:
   sec: 830
   time: '13:50'
   who: Nicolas
-- header: The importance of recruiters having  technical knowledge
 - line: I'm wondering, as a recruiter who recruits for data engineering roles, and
     in general, for technical roles – how much of this stuff do you need to know?
     You seem to know quite a lot already, because we're talking about quite technical
@@ -785,7 +783,6 @@ transcript:
   sec: 3510
   time: '58:30'
   who: Nicolas
-- header: Conclusion
 - line: Yeah. William said that he really liked our sweaters.
   sec: 3565
   time: '59:25'
@@ -846,8 +843,6 @@ transcript:
 
 Links:
 
-* [Nicolas' Twitter](https://twitter.com/n_rassam){:target="_blank"}
-* [Nicolas' LinkedIn](https://www.linkedin.com/in/nicolasrassam/){:target="_blank"}
 * [Onfido is hiring](https://onfido.com/engineering-technology/){:target="_blank"}
 * [Interview with Alicja about recruiting data scientists](https://datatalks.club/podcast/s07e02-recruiting-data-professionals.html){:target="_blank"}
 * [Webinar "Getting a Data Engineering Job" with Jeff Katz](https://eventbrite.com/e/310270877547){:target="_blank"}

@@ -499,7 +499,6 @@ transcript:
   sec: 1913
   time: '31:53'
   who: Juan Pablo
-- header: Eight tips to get your first analytics job
 - line: In that tweet that we mentioned. I think you have it pinned. The tweet says
     "Getting your first job in data analytics isn't always easy. Blind applications
     don't work for everyone. Sometimes they only lead to rejections. These eight tips
@@ -1008,7 +1007,6 @@ transcript:
   sec: 3672
   time: '1:01:12'
   who: Juan Pablo
-- header: Finding Juan Pablo online
 - line: Anything else you want to say before we finish?
   sec: 3714
   time: '1:01:54'
@@ -1051,7 +1049,4 @@ transcript:
 
 Links:
 
-* [Website](https://www.thatjuanpablo.com/){:target="_blank"}
-* [Twitter](https://twitter.com/thatjuanpablo){:target="_blank"}
 * [BROKE teacher to FAANG engineer Twitter thread](https://twitter.com/thatjuanpablo/status/1475806246317875203){:target="_blank"}
-* [LinkedIn](https://www.linkedin.com/in/thatjuanpablo/){:target="_blank"}

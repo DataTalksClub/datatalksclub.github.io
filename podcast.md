@@ -14,34 +14,32 @@ layout: page
 </div>
 
 <section class="podcast-platforms" aria-labelledby="platforms-heading">
-  <h2 id="platforms-heading" class="sr-only">Listen on Your Favorite Platform</h2>
-  <div class="pod-badges">
-    <div class="pod-badge-container">
-      <a href="https://podcasts.apple.com/us/podcast/id1541710331" target="_blank" rel="noopener noreferrer" aria-label="Listen on Apple Podcasts">
-        <img class="pod-badge" src="/images/podcast/badges/apple-podcasts.svg" alt="Apple Podcasts" />
-      </a>
-    </div>
-    <div class="pod-badge-container">
-      <a href="https://open.spotify.com/show/0pck8zuiXdI0OrCg86DAPy" target="_blank" rel="noopener noreferrer" aria-label="Listen on Spotify">
-        <img class="pod-badge" src="/images/podcast/badges/spotify.svg" alt="Spotify" />
-      </a>
-    </div>
-    <div class="pod-badge-container">
-      <a href="https://www.youtube.com/c/DataTalksClub" target="_blank" rel="noopener noreferrer" aria-label="Watch on YouTube">
-        <img class="pod-badge" src="/images/podcast/badges/youtube.svg" alt="YouTube" />
-      </a>
-    </div>
-    <div class="pod-badge-container">
-      <a href="https://anchor.fm/datatalksclub" target="_blank" rel="noopener noreferrer" aria-label="Listen on Anchor">
-        <img class="pod-badge" src="/images/podcast/badges/anchor.svg" alt="Anchor" />
-      </a>
-    </div>
+  <h2 class="platforms-heading">Listen to or watch on your favorite platform</h2>
+  <div class="platforms-chips-wrapper">
+    <a href="https://podcasts.apple.com/us/podcast/id1541710331" target="_blank" rel="noopener noreferrer" class="chip-platform">
+      <img src="https://cdn.prod.website-files.com/64416928859cbdd1716d79ce/6477a7c7ea921d6b17e8336c_icon-platform-apple-podcasts.webp" alt="Apple Podcasts icon" class="chip-platform-icon"/>
+      <div>Apple Podcasts</div>
+    </a>
+    <a href="https://open.spotify.com/show/0pck8zuiXdI0OrCg86DAPy" target="_blank" rel="noopener noreferrer" class="chip-platform">
+      <img src="https://cdn.prod.website-files.com/64416928859cbdd1716d79ce/6477a7c8fe3abf5dc324b071_icon-platform-spotify.webp" alt="Spotify icon" class="chip-platform-icon"/>
+      <div>Spotify</div>
+    </a>
+    <a href="https://www.youtube.com/c/DataTalksClub" target="_blank" rel="noopener noreferrer" class="chip-platform">
+      <img src="https://cdn.prod.website-files.com/64416928859cbdd1716d79ce/6477a7c7df55dac86621aa7f_icon-platform-youtube.webp" alt="YouTube icon" class="chip-platform-icon"/>
+      <div>YouTube</div>
+    </a>
+    <a href="https://anchor.fm/datatalksclub" target="_blank" rel="noopener noreferrer" class="chip-platform">
+      <img src="/images/podcast/badges/anchor-icon.jpg" alt="Anchor icon" class="chip-platform-icon"/>
+      <div>Anchor</div>
+    </a>
   </div>
 </section>
 
 {% assign seasons = site.podcast | reverse | group_by: 'season'  %}
 
+
 <section class="podcast-info">
+<br/>
   <p>Register for upcoming podcast events in <a href="/events.html" target="_blank" rel="noopener noreferrer">events</a>.</p>
 </section>
 

@@ -115,7 +115,6 @@ transcript:
   sec: 455
   time: '7:35'
   who: Alexey
-- header: Being self-employed
 - line: In 2019, you became self-employed, and started being an independent consultant.
     You started also working on these visuals. Was it scary for you to go solo?
   sec: 455
@@ -269,7 +268,6 @@ transcript:
   sec: 1061
   time: '17:41'
   who: Meor
-- header: Visualising difficult concepts
 - line: "The other thing that works for me is trying to visualize not \u201Cwhat it\
     \ is\u201D, but \u201Cwhat it means\u201D. What I learned from Jack, when you\
     \ try to visualize a concept, you don't visualize the noun, but the verb or the\
@@ -595,7 +593,7 @@ transcript:
   sec: 2544
   time: '42:24'
   who: Meor
-- header: Learning by breaking code
+- header: "Learning by Breaking Code"
 - line: "How do you come up with this \u201CWhat if?\u201D and \u201CWhat can go wrong?\u201D\
     ? If you have practical experience, then you can use it. But if you're just learning\
     \ this thing, how can you know about these things?"
@@ -830,7 +828,6 @@ transcript:
   sec: 3602
   time: '1:00:02'
   who: Alexey
-- header: Wrapping up
 - line: We should be wrapping up. Do you want to say anything before we finish?
   sec: 3612
   time: '1:00:12'

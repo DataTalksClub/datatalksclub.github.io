@@ -95,6 +95,109 @@ body, html {
   margin: 0;
 }
 
+.newsletter-main-text {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+.newsletter-sub-text {
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+}
+
+.newsletter-combined-text {
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+}
+
+/* Platform Chips Styles */
+.platforms-chips-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+  width: 100%;
+  max-width: 100%;
+}
+
+.chip-platform {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 25px;
+  text-decoration: none;
+  color: #333;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.chip-platform:hover {
+  background-color: #e9ecef;
+  border-color: #dee2e6;
+  color: #333;
+  text-decoration: none;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.chip-platform-icon {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+
+.platforms-heading {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.podcast-listen-links {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  padding-left: 15px;
+  padding-right: 15px;
+  box-sizing: border-box;
+}
+
+.podcast-platforms {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  padding-left: 15px;
+  padding-right: 15px;
+  box-sizing: border-box;
+}
+
+/* Responsive adjustments for platform chips */
+@media (max-width: 768px) {
+  .platforms-chips-wrapper {
+    gap: 0.5rem;
+  }
+  
+  .chip-platform {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.8rem;
+  }
+  
+  .chip-platform-icon {
+    width: 18px;
+    height: 18px;
+  }
+}
+
 
 .landing-image-container {
   display: flex;
@@ -564,7 +667,7 @@ img.partner {
 
 /* Podcast Video Container */
 .podcast-video-container {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .podcast-video-container .video-container {
@@ -574,7 +677,7 @@ img.partner {
 /* Listen Links */
 .podcast-listen-links {
   margin-bottom: 0;
-  padding: 1rem;
+  padding: 0.5rem;
   background: #ffffff;
   border-radius: 8px;
   text-align: center;
@@ -679,7 +782,7 @@ img.partner {
   gap: 0;
   border-bottom: 2px solid #e0e0e0;
   margin-bottom: 1.5rem;
-  margin-top: 1.5rem;
+  margin-top: 0.5rem;
   background: #ffffff;
   padding-top: 0.5rem;
 }
@@ -750,8 +853,8 @@ img.partner {
 }
 
 .guest-bio-img {
-  width: 150px;
-  height: 150px;
+  width: 128px;
+  height: 128px;
   border-radius: 0;
   object-fit: cover;
   flex-shrink: 0;
@@ -1136,7 +1239,7 @@ img.partner {
   .guest-bio-img {
     width: 100%;
     height: auto;
-    max-width: 150px;
+    max-width: 128px;
     margin: 0 auto;
     display: block;
   }

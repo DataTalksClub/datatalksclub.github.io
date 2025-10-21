@@ -665,7 +665,6 @@ transcript:
   sec: 2120
   time: '35:20'
   who: Ellen
-- header: The hardest part of transitioning into data engineering
 - line: This is the type of content that people on Hacker News usually like - very
     controversial stuff. Yeah. So that's interesting. What was the most difficult
     part of the transition for you?
@@ -757,7 +756,6 @@ transcript:
   sec: 2358
   time: '39:18'
   who: Ellen
-- header: People who are both data scientists and data engineers
 - line: Okay. There is a question. Do you know if there is a name for the role for
     people who are both data engineers and data scientists? Does such a thing even
     exist at all?
@@ -1114,7 +1112,6 @@ transcript:
   sec: 3586
   time: '59:46'
   who: Ellen
-- header: Finding Ellen online
 - line: Okay, thanks. Before we finish, how can people find you if they have questions?
     LinkedIn, Twitter?
   sec: 3621
@@ -1147,8 +1144,3 @@ transcript:
 
 
 ---
-
-Links:
-
-* [Twitter](https://twitter.com/ellen_koenig){:target="_blank"}
-* [LinkedIn](https://www.linkedin.com/in/ellenkoenig/){:target="_blank"}

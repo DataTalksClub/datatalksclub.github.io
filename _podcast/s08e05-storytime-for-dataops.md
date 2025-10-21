@@ -242,7 +242,6 @@ transcript:
   sec: 770
   time: '12:50'
   who: Chris
-- header: Agile Analytics Operations or DevOps for Data Science
 - line: Did you say that you actually didn't know what to call it? I think there were
     a few names, “Agile Analytics Operations,” then “DevOps for Data Science,” but
     then it was actually you who came up with this term – “DataOps”?
@@ -356,7 +355,6 @@ transcript:
   sec: 1194
   time: '19:54'
   who: Chris
-- header: Defining processes and automating them (defining “done” and “good”)
 - line: All these “funky” systems, bad quality data – that will keep you awake at
     night, right? You don't want to have that. You want to be in control of these
     issues, so you need to take control of that. Yes, so you said that having these
@@ -433,7 +431,6 @@ transcript:
   sec: 1445
   time: '24:05'
   who: Alexey
-- header: The balance between heroism and fear (avoiding deferred value)
 - line: DataOps is all about balance between heroism and fear. One way to do it is
     to have fear and sort of say,” I'm not going to show it to people for weeks and
     weeks, while I do all this stuff.” And…
@@ -481,7 +478,6 @@ transcript:
   sec: 1499
   time: '24:59'
   who: Chris
-- header: The Lean approach
 - line: I think this is one of the principles that you mentioned – this Lean approach,
     right? In Lean – I think there is a book called “Lean Startup” – you don't do
     that. You don't close yourself in a garage for a year and implement something
@@ -536,7 +532,6 @@ transcript:
   sec: 1694
   time: '28:14'
   who: Chris
-- header: Avoiding silos
 - line: You have to put everyone together, right?
   sec: 1883
   time: '31:23'
@@ -584,7 +579,6 @@ transcript:
   sec: 1997
   time: '33:17'
   who: Chris
-- header: The 7 steps to DataOps
 - line: You described this picture of isolated teams – data analytics teams – who
     don't care about data scientists, and then there are data engineers who just create
     data lakes because they want to. If we go back to that one data engineer that
@@ -740,7 +734,6 @@ transcript:
   sec: 2520
   time: '42:00'
   who: Chris
-- header: DataOps is doable
 - line: All these steps you described that this particular data engineer could take
     to improve the system – they don't seem to be that difficult or that complex.
     Okay, put the code in Git. I think everyone's doing this – I hope. Then tests.
@@ -818,7 +811,6 @@ transcript:
   sec: 2652
   time: '44:12'
   who: Chris
-- header: Testing tools
 - line: Are there any tools you can recommend? You described all the difficulties
     that the teams face when implementing all these DataOps principles. It's not just
     about having CI/CD configured, but you also need to think about integration tests,
@@ -852,7 +844,6 @@ transcript:
   sec: 2939
   time: '48:59'
   who: Chris
-- header: DataOps vs MLOps
 - line: Okay. There is another question. “What are the differences between DataOps
     and MLOps? Are they the same thing or different?”
   sec: 3042
@@ -901,7 +892,6 @@ transcript:
   sec: 3081
   time: '51:21'
   who: Chris
-- header: The Head Chef at Data Kitchen
 - line: So your position – your title – is Head Chief at Data Kitchen.
   sec: 3213
   time: '53:33'
@@ -972,7 +962,7 @@ transcript:
   sec: 3359
   time: '55:59'
   who: Chris
-- header: What’s grilling at Data Kitchen?
+- header: "Grilling at Data Kitchen: Automating Environments and Orchestration"
 - line: Okay. So you said as the cook, you like to grill data at Data Kitchen? So
     what is the software you mentioned? What are you grilling?
   sec: 3392
@@ -1041,7 +1031,7 @@ transcript:
   sec: 3625
   time: '1:00:25'
   who: Chris
-- header: The DataOps Cookbook
+- header: "The DataOps Cookbook: Free Resources for Learning and Adopting DataOps"
 - line: I know that you have a book called “The DataOps Cookbook,” so I see that you
     love these cooking metaphors. Of course, what kind of books would you have in
     a Data Kitchen? So maybe you can briefly tell us what is in this book? I know

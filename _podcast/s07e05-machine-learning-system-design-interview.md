@@ -968,7 +968,6 @@ transcript:
   sec: 2997
   time: '49:57'
   who: Valerii
-- header: Applying ML systems to real-world problems
 - line: Thank you. Let's go to the next one, “How to make machine learning algorithms
     work with other parts of systems to solve real world problems?” I guess the question
     is more about, “Okay, we have this model that we just discussed. This model for
@@ -1204,7 +1203,6 @@ transcript:
   sec: 3583
   time: '59:43'
   who: Valerii
-- header: Finding Valerii online
 - line: '[laughs] Okay, I think that''s all we have time for. So maybe last one –
     How can people find you?'
   sec: 3603

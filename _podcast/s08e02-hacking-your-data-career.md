@@ -53,7 +53,6 @@ transcript:
   sec: 137
   time: '2:17'
   who: Marijn
-- header: Marijn’s background
 - line: Yeah, I had to train myself a little bit with your name, because you were
     already at our event last time. Before we go into our main topic of hacking a
     data career, let's start with your background. Can you tell us about your career
@@ -153,7 +152,6 @@ transcript:
   sec: 456
   time: '7:36'
   who: Marijn
-- header: Standing out in data science
 - line: You mentioned that people need to find something they know that others don't
     know. Since you mentioned that – this wasn't a part of the questions I prepared,
     but maybe you maybe you can help with that. A few days ago, I think it was yesterday,
@@ -323,7 +321,6 @@ transcript:
   sec: 1029
   time: '17:09'
   who: Marijn
-- header: Don’t shoot the messenger (carefully sharing your findings)
 - line: Yeah – some accountants are very difficult to automate, I think. Anyways,
     we already talked about everyone delegating tasks. Then you also mentioned being
     proactive, right? What was next on the list?
@@ -572,7 +569,7 @@ transcript:
   sec: 1807
   time: '30:07'
   who: Marijn
-- header: Marijn’s side projects (finding value in doing things you find interesting)
+- header: "Marijn’s Side Projects: Finding Value in Doing Things You Find Interesting"
 - line: '[laughs] Three people say that they got it. While you''re looking it up,
     one thing I know you for is that you always find these little pet projects that
     you do and then you tell the world about them. And these projects are so cool.'
@@ -730,7 +727,6 @@ transcript:
   sec: 2208
   time: '36:48'
   who: Marijn
-- header: Building a project portfolio
 - line: This is a question I get quite often. “How do you get inspiration for these
     projects?” I imagine it might be difficult. Let's say you are looking for a job
     because you're switching careers or you're just graduated or for whatever reason
@@ -791,7 +787,7 @@ transcript:
   sec: 2356
   time: '39:16'
   who: Marijn
-- header: Marijn’s NGO project
+- header: "Marijn's NGO Project: Helping Smallholder Farmers Achieve Higher Yields"
 - line: Yeah. Can you tell us about this helping farmers project?
   sec: 2425
   time: '40:25'
@@ -1204,7 +1200,3 @@ transcript:
   time: '1:03:26'
   who: Marijn
 ---
-
-Links:
-
-* [LinkedIn](https://www.linkedin.com/in/marijnmarkus/){:target="_blank"}

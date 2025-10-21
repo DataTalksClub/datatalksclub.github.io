@@ -82,7 +82,6 @@ transcript:
   sec: 264
   time: '4:24'
   who: Alexey
-- header: Giving a talk at a tech conference about coffee
 - line: Exactly. Not only that, but I also gave a lightning talk at Eurocamp – the
     Ruby Conference – and they said to me, “Oh, why don't you come and give a talk?
     We do these lightning talks.” I, of course, had no conception of what this was.
@@ -106,7 +105,6 @@ transcript:
   sec: 341
   time: '5:41'
   who: Jessica
-- header: Jessica’s transition into tech (How to get started)
 - line: And then you thought, “Okay, this seems like a more financially stable industry.
     Let's go there.” How did you actually make this transition? From the point when
     you decided, “Okay, coffee is cool, but I'm looking for something more financially
@@ -726,7 +724,6 @@ transcript:
   sec: 2372
   time: '39:32'
   who: Jessica
-- header: Jessica’s beginnings at PyLadies (organizing events)
 - line: I think you mentioned that a bit, but how did you find them? Or how did they
     find you? PyLadies – how did you start working with them? How did you start running
     the group?
@@ -950,7 +947,6 @@ transcript:
   sec: 3141
   time: '52:21'
   who: Jessica
-- header: Tips for public speaking
 - line: Do you have any tips regarding public speaking? If somebody wants to improve
     their public speaking skills, or I don't know, just get started – do you have
     any tips or suggestions?
@@ -1091,7 +1087,7 @@ transcript:
   sec: 3510
   time: '58:30'
   who: Jessica
-- header: Finding Jessica online
+- header: "Finding Jessica Online: Twitter, GitHub, and PyLadies Slack"
 - line: Yeah, thanks. Before we finish, how can people find you? @sleepypioneer on
     Twitter, right? That's the way to find you?
   sec: 3593
