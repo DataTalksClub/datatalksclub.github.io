@@ -1,8 +1,8 @@
 ---
 authors:
 - valeriiakuka
-description: Learn ML from top universities and platforms with these free or free-to-audit
-  courses, covering foundations, core algorithms, and practical projects.
+description: Discover 20+ best free machine learning courses from Stanford, MIT,
+  Coursera, and edX. Start learning ML today.
 image: images/posts/2025-08-16-ultimate-list-of-20-free-online-courses-on-machine-learning/cover.jpg
 layout: post
 subtitle: Learn ML from top universities and platforms with these free or free-to-audit
@@ -10,7 +10,7 @@ subtitle: Learn ML from top universities and platforms with these free or free-t
 tags:
 - mlzoomcamp
 - course
-title: 'An Ultimate List of 20+ Free Online Courses on Machine Learning'
+title: '20+ Best Free Machine Learning Courses [2025]'
 ---
 
 <figure>
