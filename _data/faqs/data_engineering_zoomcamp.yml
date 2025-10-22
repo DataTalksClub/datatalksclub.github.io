@@ -1,0 +1,55 @@
+- question: "What is the Data Engineering Zoomcamp?"
+  answer: |
+    The Data Engineering Zoomcamp is a free, community-driven program by [DataTalks.Club](https://datatalks.club/) that teaches core data engineering skills through [hands-on projects](#building-your-portfolio-with-data-engineering-projects).
+    
+    This data engineering course has a 9-week [curriculum](#course-curriculum) and all the materials are open and available any time on the [Data Engineering Zoomcamp GitHub repo](https://github.com/DataTalksClub/data-engineering-zoomcamp). You'll work with an industry-standard stack including Docker, Terraform, dbt, Spark, Kafka, and BigQuery and earn a [certificate](#how-does-the-data-engineering-zoomcamp-certificate-work).
+
+- question: "How does the Data Engineering Zoomcamp compare to traditional data engineering bootcamps?"
+  answer: |
+    The Data Engineering Zoomcamp differs significantly from traditional data engineering bootcamps in several key ways.
+
+    1. **Cost**: While bootcamps typically cost $10,000-$20,000+, the Data Engineering Zoomcamp has no tuition fees whatsoever.
+    2. **Community**: The Data Engineering Zoomcamp is community-driven and open source. All materials remain available forever on GitHub, unlike bootcamps that lock content behind paywalls.
+    3. **Flexibility**: You can continue at your own pace even after the cohort ends, whereas bootcamps usually have rigid schedules and limited access periods.
+
+- question: "How does the Data Engineering Zoomcamp certificate work?"
+  answer: |
+    To earn your Data Engineering Zoomcamp [certificate](#how-does-the-data-engineering-zoomcamp-certificate-work), you need to complete the [project requirements](#building-your-portfolio-with-data-engineering-projects) by building an end-to-end data pipeline.
+
+    After submitting your project, you must also participate in peer learning by reviewing at least 3 other projects, submitting reviews by the deadline, and providing constructive feedback.
+
+- question: "When does the next cohort of the DE Zoomcamp start?"
+  answer: |
+    The next cohort of the DE Zoomcamp starts in January 2026. Register here: [https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD) before the course starts.
+
+- question: "Who runs the Data Engineering Zoomcamp?"
+  answer: |
+    The Data Engineering Zoomcamp is run by [DataTalks.Club](https://datatalks.club/), a global online community of data professionals and learners. While the initial idea and most of the content were created by [Alexey Grigorev](https://datatalks.club/people/alexeygrigorev.html), memebers of the DataTalks.Club community contribute to the course as instructors and maintainers of the course materials.
+
+    DataTalks.Club is often referred to as "the DataTalks Club", "data talks club", or "datatalks club".
+
+- question: "What background knowledge do I need to take the Data Engineering Zoomcamp? Course prerequisites."
+  answer: |
+    No prior data engineering experience is needed. You should be comfortable with the command line and have basic SQL knowledge. Python experience is helpful but not required.
+
+- question: "How much time should I expect to spend?"
+  answer: |
+    You should expect to spend between 5-15 hours per week, depending on your background. This includes watching videos, completing homework, and working on [projects](#building-your-portfolio-with-data-engineering-projects). More time might be needed during project weeks. The time commitment varies based on your familiarity with the tools and concepts.
+
+- question: "Can I take the course in self-paced mode?"
+  answer: |
+    Yes! All course materials remain available after the course ends. You'll have access to the Slack community for support, where you can search previous discussions or ask @ZoomcampQABot for help. You can continue working on homework and [projects](#building-your-portfolio-with-data-engineering-projects) at your own pace, and all course materials and recordings stay accessible.
+
+- question: "Where is the official Data Engineering Zoomcamp GitHub repository?"
+  answer: |
+    The Data Engineering Zoomcamp GitHub repository is [https://github.com/DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp).
+
+- question: "Where can I find the course videos?"
+  answer: |
+    The course videos are available in our official [Data Engineering Zoomcamp YouTube Playlist](https://www.youtube.com/live/-zpVha7bw5A?si=ASoCMCwIT3P9Yij4). But please refer to the [Data Engineering Zoomcamp GitHub repository](https://github.com/DataTalksClub/data-engineering-zoomcamp) for easier navigation through the course materials.
+
+    We also maintain [year-specific playlists](https://www.youtube.com/@DataTalksClub/playlists) for office hours and updates.
+
+- question: "Is it the same as DE Zoomcamp, Data Engineer Zoomcamp, or Zoomcamp Data Engineering?"
+  answer: |
+    Yes, people use these names interchangeably. Throughout this page we'll use "Data Engineering Zoomcamp" as the canonical name.

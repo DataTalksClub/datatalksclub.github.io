@@ -1,0 +1,21 @@
+<!-- FAQ Accordion Component -->
+<div class="faq-accordion">
+  {% for faq in include.faqs %}
+  <div class="faq-item">
+    <button class="faq-question" type="button">
+      <span>{{ faq.question }}</span>
+      <svg class="faq-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="6,9 12,15 18,9"></polyline>
+      </svg>
+    </button>
+    <div class="faq-answer">
+      <div class="faq-answer-content">
+        {{ faq.answer | markdownify }}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<!-- Load accordion JavaScript -->
+<script src="/assets/accordion.js"></script>

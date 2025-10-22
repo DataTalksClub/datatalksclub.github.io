@@ -1,15 +1,21 @@
 ---
-authors:
-- valeriiakuka
+title: "Data Engineering Zoomcamp 2026: Free Data Engineering Course and Certification"
+subtitle: "Become a Data Engineer: Master Modern Data Engineering with Hands-On Training"
 description: "Master data engineering with hands-on training in Python, SQL, dbt, Kafka, and Spark. Join DataTalks.Club's comprehensive 9-week course covering modern data engineering tools, batch and stream processing, and real-world projects. Perfect for beginners and experienced developers."
 image: images/posts/2023-11-18-data-engineering-zoomcamp/cover.jpg
-layout: post
-subtitle: "Master Modern Data Engineering: From Basics to Advanced Pipeline Development"
+date: 2025-10-22
+authors:
+- valeriiakuka
 tags:
-- courses
+- course
 - data-engineering
-title: "Data Engineering Zoomcamp 2026: Free Data Engineering Course and Certification"
-date: 2025-09-02
+related_posts:
+     - guide-to-free-online-courses-at-datatalks-club.html
+     - machine-learning-zoomcamp.html
+     - mlops-zoomcamp.html
+     - llm-zoomcamp.html
+     - ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html
+layout: post
 ---
 
 <figure>
@@ -19,21 +25,11 @@ date: 2025-09-02
 
 > **TL;DR:** Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. [Join the course here](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD).
 
-Want to become a data engineer or level up your existing skills? 
+Breaking into data engineering requires hands-on experience with production tools, but most courses teach theory without real-world application.
 
-**Data Engineering Zoomcamp** by DataTalks.Club is a free, comprehensive program that takes you from the fundamentals to running production-grade pipelines. By joining this course, you'll get hands-on experience with the tools and workflows used by professional data engineers.
+**Data Engineering Zoomcamp** gives you practical experience building production-grade data pipelines using industry-standard tools like Docker, Kubernetes, and Apache Airflow, preparing you for data engineering roles with a portfolio of real projects.
 
 In this guide, you'll learn about:
-
-- [What makes Data Engineering Zoomcamp different](#what-makes-data-engineering-zoomcamp-different)  
-- [Who the course is for and prerequisites](#who-the-course-is-for-and-prerequisites)  
-- [Course curriculum](#course-curriculum)  
-- [Assignments and scoring](#course-assignments-and-scoring)  
-- [Why learning in public matters](#learning-in-public)  
-- [Building your portfolio with real projects](#building-your-portfolio-with-data-engineering-projects)  
-- [The DataTalks.Club community](#datatalksclub-community)  
-- [Quick start guide](#quick-start-guide)  
-- [Frequently asked questions](#frequently-asked-questions)  
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
@@ -43,6 +39,11 @@ In this guide, you'll learn about:
         </a>
     </div>
 </div>
+
+## What is the Data Engineering Zoomcamp?
+
+Data Engineering Zoomcamp is a free, comprehensive program that takes you from the fundamentals to running production-grade pipelines. By joining this course, you'll get hands-on experience with the tools and workflows used by professional data engineers.
+
 
 ## What Makes Data Engineering Zoomcamp Different
 
@@ -62,7 +63,7 @@ In this guide, you'll learn about:
 
 We'll mainly use Python, but if you're not familiar with it yet, it's not a problem. If you're already programming in another language, you'll have no trouble picking up Python [here](https://mlbookcamp.com/article/python){:target="_blank"}.
 
-## Course Curriculum
+## Course Curriculum: What You'll Learn
 
 The curriculum follows a logical progression from infrastructure setup to advanced data processing, culminating in an end-to-end project. Here's what you'll learn each week:
 
@@ -132,7 +133,9 @@ The final three weeks are dedicated to applying your knowledge in a real-world p
     </div>
 </div>
 
-## Course Assignments and Scoring
+## How the Data Engineering Zoomcamp Works (format & schedule)
+
+[add content here]
 
 ### Homework and Getting Feedback
 
@@ -199,6 +202,8 @@ Want to make your project stand out? Consider adding extra features like automat
     </div>
 </div>
 
+## Certificate Requirements
+
 ## DataTalks.Club Community
 
 DataTalks.Club has a supportive community of like-minded individuals in [our Slack](https://datatalks.club/slack.html){:target="_blank"}. It is the perfect place to enhance your skills, deepen your knowledge, and connect with peers who share your passion. These connections can lead to lasting friendships, potential collaborations in future projects, and exciting career prospects.
@@ -229,41 +234,7 @@ The next cohort starts in January 2026! Take the first step toward your data eng
 
 ## Frequently Asked Questions
 
-<details>
-<summary><strong>When does the next cohort start?</strong></summary>
-
-The next cohort starts in January 2026. Register here: https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD before the course starts.
-</details>
-
-<details>
-<summary><strong>What are the prerequisites?</strong></summary>
-
-To get the most out of this course, you should have basic coding experience and familiarity with SQL. Python experience is helpful but not required. No prior data engineering experience is needed.
-</details>
-
-<details>
-<summary><strong>How much time should I expect to spend?</strong></summary>
-
-You should expect to spend between 5-15 hours per week, depending on your background. This includes watching videos, completing homework, and working on projects. More time might be needed during project weeks. The time commitment varies based on your familiarity with the tools and concepts.
-</details>
-
-<details>
-<summary><strong>Can I take the course in self-paced mode?</strong></summary>
-
-Yes! All course materials remain available after the course ends. You'll have access to the Slack community for support, where you can search previous discussions or ask @ZoomcampQABot for help. You can continue working on homework and projects at your own pace, and all course materials and recordings stay accessible.
-</details>
-
-<details>
-<summary><strong>Where can I find the course videos?</strong></summary>
-
-Our videos are available in several playlists, with the "Data Engineering Zoomcamp" playlist serving as the primary reference. We also maintain year-specific playlists for office hours and updates.
-</details>
-
-<details>
-<summary><strong>What are the certification requirements?</strong></summary>
-
-To earn your Data Engineering certification, you need to complete the project requirements by building an end-to-end data pipeline. You must also participate in peer learning by reviewing at least 3 other projects, submitting reviews by the deadline, and providing constructive feedback.
-</details>
+{% include faq-accordion.html faqs=site.data.faqs.data_engineering_zoomcamp %}
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
@@ -274,15 +245,4 @@ To earn your Data Engineering certification, you need to complete the project re
     </div>
 </div>
 
-## Quick Links
-
-Ready to begin your data engineering journey? Here's everything you need:
-
-- [DE Zoomcamp GitHub Repository](https://github.com/DataTalksClub/data-engineering-zoomcamp){:target="_blank"}
-- [Join DataTalks.Club Community](https://datatalks.club/slack.html){:target="_blank"}
-- [Other Free Courses](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html){:target="_blank"}
-
-## Related Posts
-- [Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html){:target="_blank"}
-- [MLOps Zoomcamp](https://datatalks.club/blog/mlops-zoomcamp.html){:target="_blank"}
-- [LLM Zoomcamp](https://datatalks.club/blog/llm-zoomcamp.html){:target="_blank"}
+{% include related-posts.html manual_posts=page.related_posts max_posts=5 %}

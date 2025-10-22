@@ -1,0 +1,66 @@
+<!-- Related Posts Section -->
+{% assign max_related = include.max_posts | default: 3 %}
+{% assign current_post = page %}
+
+<!-- Get related posts -->
+{% if include.manual_posts %}
+  <!-- Use manually specified posts -->
+  {% assign related_posts = "" | split: "" %}
+  {% for post_path in include.manual_posts %}
+    {% for post in site.posts %}
+      {% assign full_url = "/blog/" | append: post_path %}
+      {% if post.url == full_url %}
+        {% assign related_posts = related_posts | push: post %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  <!-- Auto-generate based on tags - simplified approach -->
+  {% assign related_posts = "" | split: "" %}
+  {% assign current_tags = current_post.tags %}
+  
+  <!-- Find posts with matching tags -->
+  {% for post in site.posts limit: 20 %}
+    {% if post.url != current_post.url %}
+      {% assign has_common_tag = false %}
+      {% for tag in current_tags %}
+        {% if post.tags contains tag %}
+          {% assign has_common_tag = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      
+      {% if has_common_tag %}
+        {% assign related_posts = related_posts | push: post %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  
+  <!-- Sort by date (most recent first) -->
+  {% assign related_posts = related_posts | sort: "date" | reverse %}
+{% endif %}
+
+<!-- Limit to max_related posts -->
+{% assign related_posts = related_posts | slice: 0, max_related %}
+
+{% if related_posts.size > 0 %}
+<div class="related-posts-section">
+  <h2 class="related-posts-title">Related Posts</h2>
+  <div class="related-posts-grid">
+    {% for post in related_posts %}
+    <a href="{{ post.url }}" class="related-post-card">
+      <div class="related-post-content">
+        <h3 class="related-post-title">{{ post.title }}</h3>
+        {% if post.subtitle %}
+        <p class="related-post-excerpt">{{ post.subtitle }}</p>
+        {% elsif post.excerpt %}
+        <p class="related-post-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
+        {% endif %}
+        <span class="related-post-read-more">Read more</span>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
