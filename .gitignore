@@ -11,3 +11,7 @@
 __pycache__/
 /scripts/tmp
 .vscode/
+
+# Added by cargo
+/target
+Cargo.lock
