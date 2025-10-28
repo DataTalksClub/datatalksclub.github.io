@@ -21,7 +21,7 @@ Traditional machine learning education costs thousands of dollars and takes year
 
 These carefully selected free ML courses cover everything from fundamental concepts and core algorithms to hands-on projects and real-world applications. You'll master industry-standard tools like Python and TensorFlow, work with actual datasets, and build a portfolio of ML projects that showcase your abilities to potential employers.
 
-## What are Free Courses?
+## What are Free Courses and How to Choose the Right One?
 
 Free courses provide access to educational content without upfront payment, though they vary in what's included. Understanding the different types can help you choose the right option for your learning goals.
 
