@@ -263,7 +263,7 @@ Office hours are conducted via YouTube Live where students can participate by su
 <details>
 <summary>Can I get a certificate in self-paced mode?</summary>
 
-No, certificates are only available when completing the course with a live cohort. This is because the certification process requires you to peer-review three capstone projects, and these peer reviews only happen during the active course period. Additionally, the submission form closes after the peer-review list is compiled.
+No, certificates are only available when completing the course with a live cohort. Self-paced mode does not include homework submissions, project evaluations, or certificates. This is because the certification process requires you to peer-review three capstone projects, and these peer reviews only happen during the active course period. Additionally, the submission form closes after the peer-review list is compiled. Self-paced learners can access all course materials and the Slack community, but must join a live cohort to earn a certificate.
 </details>
 
 <details>

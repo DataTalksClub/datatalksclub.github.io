@@ -296,7 +296,9 @@ This option allows you to access all course materials and learn independently:
 - Access to all course content, including videos and code examples
 - Freedom to study at your own pace
 - Ability to focus on specific topics of interest
+- Access to the Slack community for support
 - No deadlines or formal assessments
+- No homework submissions or project evaluations
 - No certificate of completion
 
 ### Cohort-based Learning
@@ -371,7 +373,7 @@ Live sessions (office hours and workshops) are optional but recommended for coho
 <details>
 <summary><strong>Can I switch from self-paced to cohort-based learning?</strong></summary>
 
-Yes, you can start self-paced and join a cohort later. Just register for the next cohort when you're ready.
+Yes, you can start self-paced and join a cohort later. Just register for the next cohort when you're ready. Note that only cohort-based participants can submit homework, participate in project evaluations, and earn certificates.
 </details>
 
 <details>

@@ -4,6 +4,10 @@
     
     This data engineering course has a 9-week [curriculum](#course-curriculum) and all the materials are open and available any time on the [Data Engineering Zoomcamp GitHub repo](https://github.com/DataTalksClub/data-engineering-zoomcamp). You'll work with an industry-standard stack including Docker, Terraform, dbt, Spark, Kafka, and BigQuery and earn a [certificate](#how-does-the-data-engineering-zoomcamp-certificate-work).
 
+- question: "Is it really free?"
+  answer: |
+    Yes, the Data Engineering Zoomcamp is completely free. There are no hidden costs, no tuition fees, and no paid tiers. All course materials, videos, homework assignments, and access to the [community](#datatalksclub-community-and-support) are provided at no cost. Unlike traditional bootcamps that charge $10,000-$20,000+, this course is entirely community-driven and open source.
+
 - question: "How does the Data Engineering Zoomcamp compare to traditional data engineering bootcamps?"
   answer: |
     The Data Engineering Zoomcamp differs significantly from traditional data engineering bootcamps in several key ways.
@@ -38,7 +42,11 @@
 
 - question: "Can I take the course in self-paced mode?"
   answer: |
-    Yes! All course materials remain available after the course ends. You'll have access to the Slack community for support, where you can search previous discussions or ask @ZoomcampQABot for help. You can continue working on homework and [projects](#building-your-portfolio-with-data-engineering-projects) at your own pace, and all course materials and recordings stay accessible.
+    Yes! All course materials, videos, and recordings remain available after the cohort ends, and you can learn at your own pace. You'll have access to the Slack community for support, where you can search previous discussions or ask @ZoomcampQABot for help. However, please note that self-paced learning does not include homework submissions, project evaluations, or the ability to earn a [certificate](#how-does-the-data-engineering-zoomcamp-certificate-work). To receive a certificate, you need to join an active cohort.
+
+- question: "What if I get stuck?"
+  answer: |
+    You have multiple support channels available. Join the [DataTalks.Club Slack community](https://datatalks.club/slack.html) where you can ask questions and get help from instructors and fellow students. We also have an [FAQ repository](https://github.com/DataTalksClub/faq) with answers to common questions, a @ZoomcampQABot in Slack for quick help, and regular office hours where you can interact directly with instructors.
 
 - question: "Where is the official Data Engineering Zoomcamp GitHub repository?"
   answer: |
@@ -46,7 +54,7 @@
 
 - question: "Where can I find the course videos?"
   answer: |
-    The course videos are available in our official [Data Engineering Zoomcamp YouTube Playlist](https://www.youtube.com/live/-zpVha7bw5A?si=ASoCMCwIT3P9Yij4). But please refer to the [Data Engineering Zoomcamp GitHub repository](https://github.com/DataTalksClub/data-engineering-zoomcamp) for easier navigation through the course materials.
+    The course videos are available in our official [Data Engineering Zoomcamp YouTube Playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb). But please refer to the [Data Engineering Zoomcamp GitHub repository](https://github.com/DataTalksClub/data-engineering-zoomcamp) for easier navigation through the course materials.
 
     We also maintain [year-specific playlists](https://www.youtube.com/@DataTalksClub/playlists) for office hours and updates.
 

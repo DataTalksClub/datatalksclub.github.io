@@ -216,7 +216,7 @@ The course runs for 4 months and includes pre-recorded videos, live office hours
 <details>
 <summary><strong>How can I start learning?</strong></summary>
 
-You can choose between two learning paths: self-paced learning, where you can start immediately with pre-recorded materials freely available on GitHub and learn at your own pace, or joining our live cohort starting on September 15, 2025, to learn alongside peers, participate in live sessions, and earn a certificate.
+You can choose between two learning paths: self-paced learning, where you can start immediately with pre-recorded materials freely available on GitHub and learn at your own pace, or joining our live cohort starting on September 15, 2025, to learn alongside peers, participate in live sessions, submit homework and projects, and earn a certificate. Note that certificates are only available for cohort participants.
 </details>
 
 <details>
@@ -276,7 +276,7 @@ The only requirement for this course is prior programming experience (1+ year) a
 <details>
 <summary><strong>What's the difference between self-paced and cohort learning?</strong></summary>
 
-While all course materials are freely available for self-paced learning, joining a cohort offers additional benefits. You'll get a structured timeline with regular deadlines, active peer learning and discussion, live office hours and troubleshooting support, the opportunity to earn a certificate, and a shared learning experience with others facing similar challenges. The content is the same, but many students find the cohort structure helps them stay motivated and complete the course successfully.
+While all course materials are freely available for self-paced learning, joining a cohort offers additional benefits. You'll get a structured timeline with regular deadlines, the ability to submit homework and projects for evaluation, active peer learning and discussion, live office hours and troubleshooting support, the opportunity to earn a certificate, and a shared learning experience with others facing similar challenges. Self-paced learners can access all materials and the Slack community but cannot submit homework, participate in project evaluations, or earn certificates. Many students find the cohort structure helps them stay motivated and complete the course successfully.
 </details>
 
 <details>
