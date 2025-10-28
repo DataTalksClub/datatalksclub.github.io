@@ -282,7 +282,7 @@ To get the most out of this MLOps course, you should have prior programming expe
 <details>
 <summary><strong>Can I get a certificate?</strong></summary>
 
-Yes, certificates are available when completing the course with a "live" cohort. Requirements include completing the technical modules, building an end-to-end MLOps project, participating in peer reviews, and following MLOps best practices. Note that certificates are not available in self-paced mode.
+Yes, certificates are available when completing the course with a live cohort. Requirements include completing the technical modules, building an end-to-end MLOps project, participating in peer reviews, and following MLOps best practices. Note that certificates, homework submissions, and project evaluations are not available in self-paced mode.
 </details>
 
 ## Quick Links

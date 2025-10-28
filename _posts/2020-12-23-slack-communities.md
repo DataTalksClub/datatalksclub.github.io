@@ -62,7 +62,7 @@ Since it’s 2025, we decided to collect an updated list of active communities. 
 
 ### DataTalks.Club
 
-One of the largest Slack communities dedicated to all things data, from analytics and visualization to machine learning and data engineering. Among its 78,000+ members, you'll find data scientists, ML engineers, and enthusiasts who use the space to share knowledge, ask career questions, and join in discussions. You'll find channels ranging from `#career` and `#datascience` to `#book-of-the-week`.
+One of the largest Slack communities dedicated to all things data, from analytics and visualization to machine learning and data engineering. Among its 80,000+ members, you'll find data scientists, ML engineers, and enthusiasts who use the space to share knowledge, ask career questions, and join in discussions. You'll find channels ranging from `#career` and `#datascience` to `#book-of-the-week`.
 
 [Join here](https://datatalks.club/slack.html)
 

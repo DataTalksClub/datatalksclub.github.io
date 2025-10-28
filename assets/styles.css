@@ -149,7 +149,6 @@ body, html {
   margin: 0;
   padding: 0;
   line-height: 1;
-  vertical-align: middle;
 }
 
 .chip-platform:hover {
@@ -1228,6 +1227,104 @@ img.partner {
   line-height: 1.6;
 }
 
+/* FAQ Accordion Styles */
+.faq-accordion {
+  margin: 2rem 0;
+}
+
+.faq-item {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  margin-bottom: 0.5rem;
+  overflow: hidden;
+  background: #ffffff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  transition: all 0.2s ease;
+}
+
+.faq-item:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-color: #2c573e;
+}
+
+.faq-question {
+  background: #f8f9fa;
+  border: none;
+  width: 100%;
+  padding: 1.25rem 1.5rem;
+  text-align: left;
+  cursor: pointer;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #1a1a1a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.faq-question:hover {
+  background: #e9ecef;
+  color: #2c573e;
+}
+
+.faq-question:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(44, 87, 62, 0.1);
+}
+
+.faq-icon {
+  width: 20px;
+  height: 20px;
+  transition: transform 0.3s ease;
+  flex-shrink: 0;
+  margin-left: 1rem;
+}
+
+.faq-item.active .faq-icon {
+  transform: rotate(180deg);
+}
+
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease, padding 0.3s ease;
+  background: #ffffff;
+}
+
+.faq-item.active .faq-answer {
+  max-height: 1000px;
+}
+
+.faq-answer-content {
+  padding: 0 1.5rem 1.5rem 1.5rem;
+  line-height: 1.7;
+  color: #333;
+  font-size: 1.0625rem;
+}
+
+.faq-answer-content p {
+  margin: 0.75rem 0;
+}
+
+.faq-answer-content p:first-child {
+  margin-top: 0;
+}
+
+.faq-answer-content p:last-child {
+  margin-bottom: 0;
+}
+
+.faq-answer-content ul, .faq-answer-content ol {
+  margin: 0.75rem 0;
+  padding-left: 1.5rem;
+}
+
+.faq-answer-content li {
+  margin: 0.25rem 0;
+}
+
 /* Mobile responsive */
 @media (max-width: 768px) {
   .podcast-tabs {
@@ -1283,4 +1380,137 @@ img.partner {
   .timestamp-time {
     min-width: 60px;
   }
+
+  .faq-question {
+    padding: 1rem 1.25rem;
+    font-size: 1rem;
+  }
+
+  .faq-answer-content {
+    padding: 0 1.25rem 1.25rem 1.25rem;
+    font-size: 1rem;
+  }
+
+  .faq-icon {
+    width: 18px;
+    height: 18px;
+  }
+}
+
+/* Related Posts Styles */
+.related-posts-section {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+  border-top: 2px solid #e0e0e0;
+}
+
+.related-posts-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.related-posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.related-post-card {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  display: block;
+}
+
+.related-post-card:hover {
+  background: #f8f9fa;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-color: #2c573e;
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+.related-post-content {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.related-post-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #1a1a1a;
+  line-height: 1.3;
+  margin: 0 0 0.75rem 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.related-post-excerpt {
+  color: #666;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  flex: 1;
+}
+
+.related-post-read-more {
+  margin-top: 1rem;
+  color: #2c573e;
+  font-weight: 500;
+  font-size: 0.9rem;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  transition: color 0.2s ease;
+}
+
+.related-post-read-more:hover {
+  color: #1a3d2e;
+  text-decoration: none;
+}
+
+.related-post-read-more::after {
+  content: "→";
+  transition: transform 0.2s ease;
+}
+
+.related-post-card:hover .related-post-read-more::after {
+  transform: translateX(2px);
+}
+
+/* Mobile responsive for related posts */
+@media (max-width: 768px) {
+  .related-posts-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .related-post-content {
+    padding: 1.25rem;
+  }
+
+  .related-post-title {
+    font-size: 1rem;
+  }
+
+  .related-post-excerpt {
+    font-size: 0.9rem;
+  }
+
 }
