@@ -2,7 +2,7 @@
 layout: post
 title: "Not A Regular RFM Analysis"
 subtitle: "Why limit to Recency, Frequency and Monetary measures during Customer Segmentation?"
-description: "Why limit to Recency, Frequency and Monetary measures during Customer Segmentation?"
+description: "Customer segmentation with limited data: learn a proven 5D RFM+ approach using k-means to segment responders/non-responders and drive targeted in-game marketing."
 image: "images/posts/2020-11-29-segmentation/cover.jpg"
 authors: [nishantmohan]
 tags: [analytics, clustering]
