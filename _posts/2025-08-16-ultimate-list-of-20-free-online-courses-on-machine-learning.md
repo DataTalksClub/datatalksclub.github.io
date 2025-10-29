@@ -3,7 +3,7 @@ authors:
 - valeriiakuka
 description: Discover 20+ best free machine learning courses from Stanford, MIT,
   Coursera, and edX. Start learning ML today.
-image: images/posts/2025-08-16-ultimate-list-of-20-free-online-courses-on-machine-learning/cover.jpg
+image: images/posts/2025-08-16-ultimate-list-of-20-free-online-courses-on-machine-learning/cover.png
 layout: post
 subtitle: Learn ML from top universities and platforms with these free courses, covering foundations, core algorithms, and practical projects.
 tags:
@@ -13,13 +13,14 @@ title: '20+ Best Free Machine Learning Courses: An Ultimate List'
 date: 2025-10-21
 ---
 
-<figure>
-<img src="/images/posts/2025-08-16-ultimate-list-of-20-free-online-courses-on-machine-learning/free-ml-courses.png"/>
-</figure>
-
 Traditional machine learning education costs thousands of dollars and takes years to complete. This curated collection of 20+ free machine learning courses from Stanford, MIT, Coursera, edX, and specialized ML platforms delivers the same foundational knowledge and practical skills without the financial barrier.
 
+<figure>
+<img src="/images/posts/2025-08-16-ultimate-list-of-20-free-online-courses-on-machine-learning/cover.png"/>
+</figure>
+
 These carefully selected free ML courses cover everything from fundamental concepts and core algorithms to hands-on projects and real-world applications. You'll master industry-standard tools like Python and TensorFlow, work with actual datasets, and build a portfolio of ML projects that showcase your abilities to potential employers.
+
 ## What are Free Machine Learning Courses?
 
 Free courses provide access to educational content without upfront payment, though they vary in what's included. Understanding the different types can help you choose the right option for your learning goals.
