@@ -1,0 +1,31 @@
+- question: "Do I need to know programming before taking these courses?"
+  answer: |
+    Most courses require basic Python knowledge. If you're new to programming, start with Microsoft ML for Beginners or Google ML Crash Course, which include gentler introductions. For intensive programming preparation, consider pairing ML study with foundational Python courses.
+
+- question: "Which course is best for someone with no math background?"
+  answer: |
+    Start with Google Machine Learning Crash Course, Microsoft ML for Beginners, or Fast.ai Practical Deep Learning for Coders. These courses teach ML concepts with minimal math prerequisites. Once you're comfortable, you can take the Mathematics for ML Specialization to deepen your understanding.
+
+- question: "Can I really learn ML for free, or do I need to pay for certificates?"
+  answer: |
+    Absolutely! All courses listed offer free access to materials. Certificates are optional and mainly useful for LinkedIn/resume credentials. Your portfolio projects (especially from ML Zoomcamp or FreeCodeCamp) will be more valuable to employers than certificates.
+
+- question: "How long does it take to learn machine learning?"
+  answer: |
+    For basic competency: 2-3 months with consistent study. For job readiness: 4-6 months including projects. For advanced expertise: 1-2 years of continuous learning and practice. Start with one course (like ML Zoomcamp or DeepLearning.AI Specialization) and build from there.
+
+- question: "Should I take multiple courses simultaneously?"
+  answer: |
+    Generally no. Focus on one primary course and one supplementary resource (like Kaggle for practice). Exception: You can pair a math course (Imperial College) with a practical course if you need math foundations.
+
+- question: "What's the difference between ML and AI courses?"
+  answer: |
+    Machine Learning is a subset of AI focused on algorithms that learn from data. These ML courses teach core algorithms (regression, neural networks, decision trees). For broader AI topics including agents, LLMs, and automation, check out our [AI Dev Tools Zoomcamp](/blog/ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html).
+
+- question: "Which courses offer job placement support?"
+  answer: |
+    Most free courses don't offer formal placement services, but ML Zoomcamp includes an active Slack community where members share job opportunities, and the capstone project creates a strong portfolio piece. Focus on building projects and networking within course communities.
+
+- question: "Can I get college credit for these courses?"
+  answer: |
+    University OpenCourseWare (MIT 6.036, Stanford CS229, etc.) don't offer credit, but platforms like Coursera and edX sometimes offer credit-eligible versions for a fee. Check each platform's credit policies if this is important to you.
