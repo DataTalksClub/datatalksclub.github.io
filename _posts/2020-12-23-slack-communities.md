@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "20+ Best Data Science Slack Communities to Join in 2025"
+h1: "20+ Best Data Science Slack Communities"
 subtitle: "A guide to the most active Slack groups for data, AI, and machine learning professionals."
 description: "Explore top data science Slack communities for 2025. Join groups on AI, ML, MLOps, Python, R, visualization, and diversity in tech."
 image: "images/posts/2020-12-23-slack-communities/cover.png"

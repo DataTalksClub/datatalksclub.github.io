@@ -14,7 +14,7 @@ date: 2025-08-10
 ---
 
 <figure>
-<img src="/images/posts/2022-07-12-building-data-science-team/image6.jpg" alt="Team members collaborating around a table during a meeting" />
+<img src="/images/posts/2022-07-12-building-data-science-team/data-science-team-collaboration-meeting.jpg" alt="Data science team collaborating in a meeting" title="Data science team collaborating in a meeting" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" width="auto" height="auto" />
 <figcaption>Photo by <a href="https://unsplash.com/@hannahbusing?utm_source=medium&utm_medium=referral" target="_blank">Hannah Busing</a> on <a href="https://unsplash.com?utm_source=medium&utm_medium=referral" target="_blank">Unsplash</a>.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ The article is organized as follows:
 There are two ways to start building a data team, as shown in the following figure:
 
 <figure>
-<img src="/images/posts/2022-07-12-building-data-science-team/image3.png" alt="Two approaches to building a data science team: project-first vs hiring-first" />
+<img src="/images/posts/2022-07-12-building-data-science-team/approaches-to-building-data-science-team-project-first-vs-hiring-first.png" alt="Two approaches to building a data science team: project-first vs hiring-first" title="Two approaches to building a data science team: project-first vs hiring-first" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" width="auto" height="auto" />
 <figcaption>Two main approaches to starting your data science team</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ Building a data team can be a challenge, but it's definitely doable with careful
 When you start hiring, you may search for two types of profiles, as shown in the following figure:
 
 <figure>
-<img src="/images/posts/2022-07-12-building-data-science-team/image1.png" alt="Comparison between specialists and generalists in data science" />
+<img src="/images/posts/2022-07-12-building-data-science-team/specialists-vs-generalists-data-science-team.png" alt="Specialists vs generalists in a data science team" title="Specialists vs generalists in a data science team" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" width="auto" height="auto" />
 <figcaption>Specialists vs Generalists: choosing the right profile for your team</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ When building a data science team, it can be difficult to decide who to hire fir
 But in general, we recommend hiring first the following three profiles, as shown in the following figure:
 
 <figure>
-<img src="/images/posts/2022-07-12-building-data-science-team/image4.png" alt="Key roles to hire first: ML engineers, data engineers, and product managers" />
+<img src="/images/posts/2022-07-12-building-data-science-team/first-hires-ml-engineer-data-engineer-product-manager.png" alt="First hires for a data science team: ML engineer, data engineer, product manager" title="First hires for a data science team: ML engineer, data engineer, product manager" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" width="auto" height="auto" />
 <figcaption>The three key roles to prioritize when building your data science team</figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ A strong product team is a team that is building a product that the customer wan
 - Testing these things out with customers very fast.
 
 <figure>
-<img src="/images/posts/2022-07-12-building-data-science-team/image5.png" alt="Characteristics of a strong product team: customer-centric, fast delivery, rapid testing" />
+<img src="/images/posts/2022-07-12-building-data-science-team/strong-product-team-characteristics-customer-centric-fast-iteration.png" alt="Strong product team characteristics: customer-centric, fast delivery, rapid testing" title="Strong product team characteristics: customer-centric, fast delivery, rapid testing" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" width="auto" height="auto" />
 <figcaption>Key characteristics of a strong product team</figcaption>
 </figure>
 
@@ -136,7 +136,7 @@ The interview should also include questions on personal experiences, to check wh
 You could also include a second interview, which could be a **homework assignment**. You could send out some homework, which is not very difficult. Then the candidate sends you the code, whether it is Jupyter Notebook or whatever. Then you should check it. From this simple task, you could already see how much people are working.
 
 <figure>
-<img src="/images/posts/2022-07-12-building-data-science-team/image2.png" alt="Data scientist interview process: resume review, interviews, and take-home assignments" />
+<img src="/images/posts/2022-07-12-building-data-science-team/data-scientist-hiring-process-resume-interviews-take-home.png" alt="Data scientist hiring process: resume review, interviews, take-home assignment" title="Data scientist hiring process: resume review, interviews, take-home assignment" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" width="auto" height="auto" />
 <figcaption>Three-step process for hiring data scientists</figcaption>
 </figure>
 

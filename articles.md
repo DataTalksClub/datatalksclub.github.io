@@ -12,7 +12,7 @@ layout: page
 <ul>
 {% for post in site.posts %}
   <li>
-    <a href="{{ post.url }}">{{ post.title }}</a> by
+    <a href="{{ post.url }}">{{ post.h1 | default: post.title  }}</a> by
     {% for a in post.authors %}
       {% assign author = site.people | where: "short", a | first %}
       <a href="/people/{{a}}.html">{{ author.title }}</a>{% unless forloop.last %}, {% endunless %}

@@ -12,7 +12,7 @@ title: What Open Source Can Do For Your Data Career
 ---
 
 <figure>
-<img src="/images/posts/2022-07-15-what-open-source-can-do-for-your-data-career/image1.jpg"  />
+<img src="/images/posts/2022-07-15-what-open-source-can-do-for-your-data-career/image1.jpg" alt="Open source for your data career: developer collaborating on GitHub" title="Open source for your data career: how contributions boost tech careers" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" width="auto" height="auto" />
 <figcaption>Image by Kushagra Kevat on <a href="https://unsplash.com/photos/KZs5Bt5VDng" target="_blank">Unsplash</a></figcaption>
 </figure>
 
@@ -77,8 +77,8 @@ Merve Noyan contributed to different Open Source projects already before joining
 After these contributions to the open-source community, Hugging face project included, they seamlessly reached out to offer a job opportunity.
 
 <figure>
-<img src="/images/posts/2022-07-15-what-open-source-can-do-for-your-data-career/image2.png"  />
-<figcaption></figcaption>
+<img src="/images/posts/2022-07-15-what-open-source-can-do-for-your-data-career/image2.png" alt="From open source contributions to landing a developer advocate job" title="From open source contributions to landing your dream developer advocate job" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" width="auto" height="auto" />
+<figcaption>From contributing in public to showcasing a portfolio that lands interviews</figcaption>
 </figure>
 
 ## How to get started in NLP
