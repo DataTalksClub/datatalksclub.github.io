@@ -15,8 +15,8 @@ title: Starting a Career in Data Science at 45
 A citizen of Belarus Tatiana Ankudo left the country 20 years ago. A graduate of the Biological Faculty of the Belarusian State University, she worked as a microbiologist in laboratories in Minsk, Hungary, Sweden and Germany, received a PhD in biology, Hungarian citizenship, got married, gave birth to a daughter. And a few years ago she changed her life and became a data scientist. Tatiana has been working for the international company dunnhumby for 7 months, analyzing data from a large grocery store chain and growing as a data analyst. We talked about what it is like to go into the IT field when you are over 40 and start building your career over again.
 
 <figure>
-<img src="/images/posts/2022-05-20-starting-career-in-data-science-at-45/image2.jpg"  />
-<figcaption></figcaption>
+<img src="/images/posts/2022-05-20-starting-career-in-data-science-at-45/image2.jpg" alt="Tatiana Ankudo, former microbiologist, transitioning to data science in her 40s" title="From Microbiologist to Data Scientist at 45" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Tatiana’s mid-career pivot: applying scientific rigor to data science.</p></figcaption>
 </figure>
 
 ## "The first two months I cried and said - its not for me"
@@ -40,8 +40,8 @@ The first step was to enroll in Java courses, which were held offline. For 5-6 h
 I always liked computers and programming, and the courses made it clear thatI could do it on a professional level. The first two months I cried and said - “it’s not for me”, but then it started working out for me .
 
 <figure>
-<img src="/images/posts/2022-05-20-starting-career-in-data-science-at-45/image5.jpg"  />
-<figcaption></figcaption>
+<img src="/images/posts/2022-05-20-starting-career-in-data-science-at-45/image5.jpg" alt="Learning to code: overcoming the steep initial programming learning curve" title="Overcoming the Programming Learning Curve" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Early challenges in programming give way to confidence with practice.</p></figcaption>
 </figure>
 
 **Why did you cry?**
@@ -63,8 +63,8 @@ My employer is paying for Udemy courses and giving 2 days a month for self-educa
 In the course I took, there was a career module. After a year of study, you can start looking for a job. I went through this course in 5 months and started mailing out resumes. I wrote to about 60 companies, giving preference to those who worked in biology. They were interested in talking to me, but after the test tasks, they rejected my application
 
 <figure>
-<img src="/images/posts/2022-05-20-starting-career-in-data-science-at-45/image3.jpg"  />
-<figcaption></figcaption>
+<img src="/images/posts/2022-05-20-starting-career-in-data-science-at-45/image3.jpg" alt="Interview preparation: presenting project results and storytelling for hiring panels" title="Interviewing with Storytelling and Clear Insights" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Storytelling and clear business narratives help interviews stand out.</p></figcaption>
 </figure>
 
 ## "My resume had work experience"
@@ -88,8 +88,8 @@ The fourth interview was a kind of face control: an employee of the company foun
 Life experience. When, in addition to studying at the university, you have 3 years of graduate school, 2 years of postdoc and 10 years of work experience, you develop self-confidence and a professional approach to life.. After getting a job, I found out that they selected me among 200 other applicants. The employer took into account my work experience, scientific degree and soft skill I gained through the long career path.
 
 <figure>
-<img src="/images/posts/2022-05-20-starting-career-in-data-science-at-45/image1.jpg"  />
-<figcaption></figcaption>
+<img src="/images/posts/2022-05-20-starting-career-in-data-science-at-45/image1.jpg" alt="Experienced professional leveraging life experience and soft skills in analytics" title="Leveraging Life Experience and Soft Skills in DS" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Life experience and soft skills complement technical growth in data science.</p></figcaption>
 </figure>
 
 **A number of Belarusian companies are looking for young people - it is easier for them to enter the specialty.**
@@ -121,8 +121,8 @@ Yes. Some students did not like the quality of the material, they took the money
 Wherever there is data. The most developed analytics is in the financial sector, work is underway in the product segment. In medicine and biology, everything is just beginning.
 
 <figure>
-<img src="/images/posts/2022-05-20-starting-career-in-data-science-at-45/image4.jpg"  />
-<figcaption></figcaption>
+<img src="/images/posts/2022-05-20-starting-career-in-data-science-at-45/image4.jpg" alt="Future of data science in biology and pharmacology: domain knowledge meets ML" title="Applying Data Science to Biology and Pharmacology" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Promising path: combining biology expertise with machine learning for drug discovery.</p></figcaption>
 </figure>
 
 **What direction do you think is the most promising?**

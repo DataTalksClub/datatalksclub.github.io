@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Simplifying Difficult Concepts"
-subtitle: "Technical explanations for a non-technical audience"
-description: "Technical explanations for a non-technical audience"
+title: "Simplify Technical Concepts: A 3-Step Framework for Non-Technical Audiences"
+subtitle: "Use softening language, relatable examples, and clear summaries to avoid communication walls and explain data science effectively"
+description: "Simplify technical concepts for non-technical audiences. Learn a proven 3-step framework with relatable examples and summaries. Master communication."
 image: "images/posts/2020-12-17-simplifying-concepts/cover.jpg"
 authors: [davidgates]
 tags: [communication]
@@ -24,10 +24,8 @@ does, what happened to cause this issue, and what will happen if you don’t fix
 is that it's going to cost you quite a bit of money.
 
 <figure>
-<img src="/images/posts/2020-12-17-simplifying-concepts/hand.jpg" />
-<figcaption>
-Image by <a href="https://pixabay.com/users/counselling-440107/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=707699">Ulrike Mai</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=707699">Pixabay</a>
-</figcaption>
+<img src="/images/posts/2020-12-17-simplifying-concepts/hand.jpg" alt="Open hand symbolizing clear communication and empathy in technical explanations" title="Clear, Empathetic Communication" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Image by <a href="https://pixabay.com/users/counselling-440107/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=707699">Ulrike Mai</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=707699">Pixabay</a></p></figcaption>
 </figure>
 
 
@@ -66,7 +64,10 @@ process.
 2. Relatable example- After priming the audience, choose a relatable example that highlights the concepts you’re going to introduce. By choosing something the audience is familiar with, they’re going to be more receptive to your talk.
 3. Summarize- Go over the details one more time.
 
-<img src="/images/posts/2020-12-17-simplifying-concepts/summary-explanation.png" />
+<figure>
+<img src="/images/posts/2020-12-17-simplifying-concepts/summary-explanation.png" alt="Three-step framework: soften language, use a relatable example, and summarize to avoid communication walls" title="Summary of the Explanation Framework" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Three-step method: soften, give a relatable example, and summarize clearly</p></figcaption>
+</figure>
 
 ## Putting It Together
 
@@ -90,10 +91,8 @@ taxi ride you understand regression.
 > beyond that constant."
 
 <figure>
-<img src="/images/posts/2020-12-17-simplifying-concepts/taxi.jpg" />
-<figcaption>
-Image by <a href="https://pixabay.com/users/life-of-pix-364018/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=498437">LEEROY Agency</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=498437">Pixabay</a>
-</figcaption>
+<img src="/images/posts/2020-12-17-simplifying-concepts/taxi.jpg" alt="Taxi fare meter example illustrating regression with base fare plus distance and time" title="Taxi Fare Analogy for Regression" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Image by <a href="https://pixabay.com/users/life-of-pix-364018/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=498437">LEEROY Agency</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=498437">Pixabay</a></p></figcaption>
 </figure>
 
 
@@ -133,10 +132,8 @@ Now that you have the framework, you can put it to use. A great way to get start
 how you could explain classification in a similar way.
 
 <figure>
-<img src="/images/posts/2020-12-17-simplifying-concepts/workplace.jpg" />
-<figcaption>
-Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Pixabay</a>
-</figcaption>
+<img src="/images/posts/2020-12-17-simplifying-concepts/workplace.jpg" alt="Coworkers collaborating at a desk to communicate complex ideas simply" title="Collaborative Communication at Work" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Pixabay</a></p></figcaption>
 </figure>
 
 

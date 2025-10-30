@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "A Guide to Data Team Roles"
-subtitle: "Complete guide to data team roles and responsibilities: Product Managers, Data Analysts, Data Scientists, Data Engineers, ML Engineers, and MLOps Engineers"
-description: "Understand the key differences between data scientist, data engineer, ML engineer, data analyst, and other data team roles. Learn responsibilities, required skills, and how each role contributes to building data products."
+title: "Data Team Roles Explained — Alexey Grigorev (OLX) on Skills and Responsibilities"
+subtitle: "Essential guide to PM, Data Analyst, Data Scientist, Data Engineer, ML Engineer, and MLOps/SRE: skills, responsibilities, and how teams ship ML products"
+description: "Data team roles and responsibilities explained. Learn skills, workflows, and collaboration across PM, analysts, scientists, engineers, MLE/SRE. Discover proven tips."
 image: "images/posts/2020-12-14-data-roles/cover.jpg"
 authors: [alexeygrigorev]
 tags: [team, process, podcast]
@@ -37,10 +37,8 @@ A typical data team consists of the following roles:
 * Site reliability engineers / MLOps engineers.
 
 <figure>
-<img src="/images/posts/2020-12-14-data-roles/roles.png" />
-<figcaption>
-The data team.
-</figcaption>
+<img src="/images/posts/2020-12-14-data-roles/roles.png" alt="Overview of data team roles including PM, analyst, data scientist, data engineer, ML engineer, and SRE/MLOps" title="Data Team Roles Overview" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>The data team: key roles collaborating to deliver ML-powered products</p></figcaption>
 </figure>
 
 
@@ -56,10 +54,8 @@ On this platform, sellers sometimes have problems with identifying the correct c
 
 
 <figure>
-<img src="/images/posts/2020-12-14-data-roles/category-classification.png" />
-<figcaption>
-Use case: we want to build a service that automatically identifies the correct category for a listing.
-</figcaption>
+<img src="/images/posts/2020-12-14-data-roles/category-classification.png" alt="Category classification example for marketplace listings like iPhone mapped to mobile phones" title="Marketplace Listing Category Classification" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Use case: service suggests the correct listing category automatically</p></figcaption>
 </figure>
 
 Let’s start with the first role: product manager.
@@ -70,10 +66,8 @@ A product manager is someone responsible for developing products. Their goal is 
 
 
 <figure>
-<img src="/images/posts/2020-12-14-data-roles/pm.png" />
-<figcaption>
-A product manager makes sure the team builds a product that users will use.
-</figcaption>
+<img src="/images/posts/2020-12-14-data-roles/pm.png" alt="Product manager role focusing on user needs, planning, and prioritization" title="Product Manager Responsibilities" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>PM ensures the team builds the right product for users</p></figcaption>
 </figure>
 
 
@@ -108,10 +102,8 @@ Data analysts know how to analyze the data available in the company. They discov
 
 
 <figure>
-<img src="/images/posts/2020-12-14-data-roles/analyst.png" />
-<figcaption>
-Analysts discover insights in data.
-</figcaption>
+<img src="/images/posts/2020-12-14-data-roles/analyst.png" alt="Data analyst role analyzing data, defining metrics, and communicating insights" title="Data Analyst Responsibilities" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Analysts discover insights and define metrics for decisions</p></figcaption>
 </figure>
 
 
@@ -143,10 +135,8 @@ For our example, product managers turn to data analysts to help them quantify th
 
 
 <figure>
-<img src="/images/posts/2020-12-14-data-roles/pm-da-example.png" />
-<figcaption>
-The PM turns to the analyst to understand the extent of the problem.
-</figcaption>
+<img src="/images/posts/2020-12-14-data-roles/pm-da-example.png" alt="PM collaborating with data analyst to quantify problem impact with metrics" title="PM and Analyst Collaboration" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>PM partners with analyst to quantify problem scope and impact</p></figcaption>
 </figure>
 
 
@@ -170,10 +160,8 @@ A data analyst fetches the data, looks at it, explains what’s going on to the 
 
 
 <figure>
-<img src="/images/posts/2020-12-14-data-roles/ds.png" />
-<figcaption>
-Data scientists create machine learning services.
-</figcaption>
+<img src="/images/posts/2020-12-14-data-roles/ds.png" alt="Data scientist role building predictive models and ML services" title="Data Scientist Responsibilities" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Data scientists build predictive models and ML services</p></figcaption>
 </figure>
 
 
@@ -197,10 +185,8 @@ Data engineers do all the heavy lifting when it comes to data. A lot of work nee
 
 
 <figure>
-<img src="/images/posts/2020-12-14-data-roles/de.png" />
-<figcaption>
-Data engineers make the data available for data analysts and data scientists.
-</figcaption>
+<img src="/images/posts/2020-12-14-data-roles/de.png" alt="Data engineer role creating data pipelines, lakes, and governance for analysis" title="Data Engineer Responsibilities" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Data engineers build reliable pipelines and make data accessible</p></figcaption>
 </figure>
 
 
@@ -230,10 +216,8 @@ Machine learning engineers take whatever data scientists build and help them sca
 
 
 <figure>
-<img src="/images/posts/2020-12-14-data-roles/ds-mle.png" />
-<figcaption>
-Machine learning engineers help data scientists put the model into production.
-</figcaption>
+<img src="/images/posts/2020-12-14-data-roles/ds-mle.png" alt="Machine learning engineer role scaling, deploying, and maintaining ML models" title="Machine Learning Engineer Responsibilities" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>ML engineers productionize models and ensure reliability at scale</p></figcaption>
 </figure>
 
 
@@ -261,10 +245,8 @@ SREs aren’t strictly limited to working with data. Their role is more general:
 
 
 <figure>
-<img src="/images/posts/2020-12-14-data-roles/mle-sre.png" />
-<figcaption>
-SREs take care of the infrastructure and make sure the services work reliably.
-</figcaption>
+<img src="/images/posts/2020-12-14-data-roles/mle-sre.png" alt="Site reliability engineer and MLOps roles ensuring availability, monitoring, and automation" title="SRE and MLOps Responsibilities" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>SREs/MLOps ensure reliability, monitoring, and automation of services</p></figcaption>
 </figure>
 
 

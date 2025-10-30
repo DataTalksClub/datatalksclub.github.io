@@ -1,7 +1,7 @@
 ---
 
 title: Welcome to DataTalks.Club
-description: "DataTalks.Club &ndash; the place to talk about data. Join the global community of data science professionals. Access free courses, weekly podcasts, webinars, workshops, and book discussions with industry experts."
+description: "DataTalks.Club is the place to talk about data. Join the global community of data science professionals, ML engineers, and AI practitioners. Access free courses, weekly podcasts, webinars, workshops, and book discussions with industry experts."
 image: images/cover.jpg
 layout: home
 
