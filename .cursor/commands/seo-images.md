@@ -7,4 +7,3 @@ For each image in the page, update the image formatting to be SEO-optimized:
 ```html
 loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;"
 ```
-- If the name of the image is not descriptive, update the name of the image to be descriptive

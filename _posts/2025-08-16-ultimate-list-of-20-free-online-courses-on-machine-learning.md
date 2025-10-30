@@ -10,6 +10,7 @@ tags:
 - mlzoomcamp
 - course
 title: '20+ Best Free Machine Learning Courses: Learn from Stanford, MIT and Google Without Paying Tuition'
+h1: "20+ Best Free Machine Learning Courses"
 date: 2025-10-21
 ---
 

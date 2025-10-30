@@ -11,7 +11,9 @@
 
         <div class="content-head d-flex justify-content-between align-items-center">
           <div>
-            <h1>{{ page.title }}</h1>
+            <title>{{ page.title }}</title>
+
+            <h1>{{ page.h1 | default: page.title }}</h1>
             {% if page.subtitle %}
               <h3>{{ page.subtitle }}</h3>
             {% endif %}
