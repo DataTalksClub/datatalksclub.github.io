@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "A practical guide for better-looking python code"
-description: "Setting up a CI/CD pipeline using GitHub"
+title: "Python CI/CD with GitHub Actions: Pre-commit, Linters, and Pytest Guide"
+subtitle: "Step-by-step workflow to secure branches, automate linting, and run tests using GitHub Actions, pre-commit, black/isort/flake8/mypy, and pytest."
+description: "Python CI/CD with GitHub Actions: Discover branch protection, pre-commit, black, isort, flake8, mypy, and pytest to enforce essential, tested code—start now."
 image: "images/posts/2020-12-07-practical-guide-better-code/cover.jpg"
 authors: [olegpolivin]
 tags: [github, python, cicd]
@@ -34,7 +35,10 @@ I create an empty repository to illustrate how one sets up a CI/CD pipeline step
 git clone https://github.com/olegpolivin/Fizz-Buzz-CI-CD.git
 ```
 
-<img src="/images/posts/2020-12-07-practical-guide-better-code/empty-repo.png" />
+<figure>
+<img src="/images/posts/2020-12-07-practical-guide-better-code/empty-repo.png" alt="New GitHub repository with only README on main branch" title="Empty Repository on GitHub" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Starting point: an empty repo with a single README on main</p></figcaption>
+</figure>
 
 
 ### Rules for branches
@@ -43,7 +47,10 @@ git clone https://github.com/olegpolivin/Fizz-Buzz-CI-CD.git
 As usual I can work on the code, and then push to the `main` branch. That’s what I want to prohibit.
 Go to the `Settings` menu for a given repo and choose `Branches`.
 
-<img src="/images/posts/2020-12-07-practical-guide-better-code/branches.png" />
+<figure>
+<img src="/images/posts/2020-12-07-practical-guide-better-code/branches.png" alt="GitHub settings page showing Branches section for adding protection rules" title="GitHub Branches Settings" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Navigate to Settings → Branches to configure protection rules</p></figcaption>
+</figure>
 
 
 There are two ways to prevent pushing to the main branch, and you can choose it in the Add rule section. They are:
@@ -58,7 +65,10 @@ However, indeed, this will prevent you from pushing to `main` branch, but you ca
 
 Click on `Add rule`, and here is the rule that I’ve added:
 
-<img src="/images/posts/2020-12-07-practical-guide-better-code/branch-protection.png" />
+<figure>
+<img src="/images/posts/2020-12-07-practical-guide-better-code/branch-protection.png" alt="Add branch protection rule modal with required status checks and include administrators" title="Add Branch Protection Rule" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Add a protection rule for main with required status checks and admin inclusion</p></figcaption>
+</figure>
 
 
 In particular, I have added:
@@ -125,7 +135,10 @@ Creating a pull request will run the script above. Pull request will always pass
 
 It is necessary just to add some modifications to the `Settings -> Branches -> Rules part`. See what’s new:
 
-<img src="/images/posts/2020-12-07-practical-guide-better-code/branch-protection-rule.png" />
+<figure>
+<img src="/images/posts/2020-12-07-practical-guide-better-code/branch-protection-rule.png" alt="List of branch protection rules showing required check build (3.7)" title="Branch Protection Rule with Required Check" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Required check “build (3.7)” appears after configuring the workflow</p></figcaption>
+</figure>
 
 Notice that `build (3.7)` has appeared among status checks. This corresponds to the name of the job (`build`) and python version `3.7`. I made a small modification to the `README.md` file, and let’s see if I can push it now to the main branch. Here is the error I get:
 
@@ -151,13 +164,19 @@ git push origin dev
 A new branch called `dev` is created on the remote repository. What’s left is to create a pull request, and merge it to the `main` branch.
 
 
-<img src="/images/posts/2020-12-07-practical-guide-better-code/pull-request.png" />
+<figure>
+<img src="/images/posts/2020-12-07-practical-guide-better-code/pull-request.png" alt="GitHub pull request UI ready to merge after checks" title="Pull Request Flow on GitHub" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Create a PR from your feature branch to main to trigger checks</p></figcaption>
+</figure>
 
 
 It becomes possible to merge after all checks are run:
 
 
-<img src="/images/posts/2020-12-07-practical-guide-better-code/status-check-passed.png" />
+<figure>
+<img src="/images/posts/2020-12-07-practical-guide-better-code/status-check-passed.png" alt="GitHub PR showing all status checks have passed" title="Status Checks Passed" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>All required checks pass—your PR is ready to merge</p></figcaption>
+</figure>
 
 
 We would like to introduce actions or tests to be performed, before the pull request is ready to be approved, so let’s provide code that will be actually checked. We will consider solving the `FizzBuzz` problem, see the next section.
@@ -264,7 +283,10 @@ jobs:
 
 Let’s now try to push the solution above to the repository.
 
-<img src="/images/posts/2020-12-07-practical-guide-better-code/fail.png" />
+<figure>
+<img src="/images/posts/2020-12-07-practical-guide-better-code/fail.png" alt="GitHub Actions CI job failing due to linter or formatter issues" title="CI Job Failing Example" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Example of a failing CI run—fix issues locally and push updates</p></figcaption>
+</figure>
 
 
 And we see that it fails on the first check. When it fails it does not proceed to the next steps, but it turns out that the code above for solving the `FizzBuzz` problem will fail on every check.
@@ -360,12 +382,18 @@ After the file is created in the repository, run `pre-commit install` to install
 Here is a small test: let’s change the neat `fizzbuzz.py` code to get back to the one that does not pass the checks and see what happens. Here is a part of the result: we see where it fails. Note that the pre-commit hook modifies files for some commands (like black or isort).
 
 
-<img src="/images/posts/2020-12-07-practical-guide-better-code/pre-commit.png" />
+<figure>
+<img src="/images/posts/2020-12-07-practical-guide-better-code/pre-commit.png" alt="Terminal output showing pre-commit hooks failing on formatting and linting" title="Pre-commit Hooks Catch Issues" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Pre-commit prevents bad commits by running formatters and linters before commit</p></figcaption>
+</figure>
 
 Coming back to the neat version of the `fizzbuzz.py`, the pre-commit hook test is passed. That’s how it looks like in my case:
 
 
-<img src="/images/posts/2020-12-07-practical-guide-better-code/pre-commit-pass.png" />
+<figure>
+<img src="/images/posts/2020-12-07-practical-guide-better-code/pre-commit-pass.png" alt="Terminal output showing all pre-commit hooks passing" title="Pre-commit Hooks Passing" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>All hooks pass—your changes are clean and consistent</p></figcaption>
+</figure>
 
 Nice!
 
@@ -425,7 +453,10 @@ Append the code below to the `ci.yml` file:
 
 And here is the result:
 
-<img src="/images/posts/2020-12-07-practical-guide-better-code/test-pass.png" />
+<figure>
+<img src="/images/posts/2020-12-07-practical-guide-better-code/test-pass.png" alt="GitHub Actions run with pytest tests passing" title="Pytest Suite Passing in CI" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Unit tests executed by pytest pass successfully in CI</p></figcaption>
+</figure>
 
 
 But that was the case when everything is ok. We are happy.
@@ -452,7 +483,10 @@ def fizz_buzz(num: int) -> str:
 
 Great, let’s push and see that one test has failed:
 
-<img src="/images/posts/2020-12-07-practical-guide-better-code/test-fail.png" />
+<figure>
+<img src="/images/posts/2020-12-07-practical-guide-better-code/test-fail.png" alt="GitHub Actions run showing a failing pytest test case" title="Pytest Failure Caught in CI" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Failing test demonstrates how CI guards against regressions before merge</p></figcaption>
+</figure>
 
 
 That is, by introducing unit tests into the CI/CD pipeline we were able to catch the problem before merging pull request into the `main` branch.

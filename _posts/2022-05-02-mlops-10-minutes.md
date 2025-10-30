@@ -1,18 +1,16 @@
 ---
 layout: post
-title: "MLOps in 10 Minutes"
-subtitle: "How MLOps helps across all stages of ML project"
-description: "How MLOps helps across all stages of ML project"
+title: "MLOps in 10 Minutes: Design, Train, and Operate with Proven Practices"
+subtitle: "Fast, practical overview of experiment tracking, pipelines, deployment, and monitoring"
+description: "MLOps essentials: Learn to streamline design, training, and operations with experiment tracking, pipelines, deployment, and monitoring. Get started today."
 image: "images/posts/2022-05-02-mlops-10-minutes/cover.jpg"
 authors: [alexeygrigorev]
 tags: [mlops, team, process]
 ---
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/cover-start.png" />
-<figcaption>
-MLOps is DevOps for ML.
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/cover-start.png" alt="MLOps overview: DevOps practices applied to machine learning lifecycle and teams" title="MLOps: DevOps Practices for Machine Learning" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>MLOps applies DevOps practices to machine learning across design, training, and operations.</p></figcaption>
 </figure>
 
 
@@ -37,10 +35,8 @@ To do it, we’ll start with a helicopter view of a typical process for ML proje
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/3-stages.png" />
-<figcaption>
-We can break an ML project in three stages: design, train and operate.
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/3-stages.png" alt="Diagram of ML project lifecycle stages: design, train, operate" title="Machine Learning Lifecycle: Design, Train, Operate" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Machine learning lifecycle split into three stages: design, training, and operations.</p></figcaption>
 </figure>
 
 
@@ -58,10 +54,8 @@ In the train stage, we experiment with different models and try to find the best
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/train-jupyter.png" />
-<figcaption>
-Training the model and finding the best parameters.
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/train-jupyter.png" alt="Jupyter notebook experiment showing model training and hyperparameter tuning" title="Model Training and Hyperparameter Tuning in Jupyter" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Iterative model training and hyperparameter tuning to improve performance.</p></figcaption>
 </figure>
 
 
@@ -84,10 +78,8 @@ In experiment tracking, we establish the process of saving the results of each e
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/experiment-tracking.png" />
-<figcaption>
-Tracking helps stay sane when experimenting with different features, models, and parameters.
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/experiment-tracking.png" alt="Experiment tracking UI comparing runs, parameters, metrics for reproducible ML" title="Experiment Tracking for Reproducible ML" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Experiment tracking logs runs, parameters, and metrics for reproducible comparisons.</p></figcaption>
 </figure>
 
 
@@ -102,10 +94,8 @@ To solve it, we decompose the notebook into a set of building blocks executed on
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/ml-pipeline.png" />
-<figcaption>
-A machine learning pipeline is a sequence of steps that need to be executed in a specific order.
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/ml-pipeline.png" alt="Machine learning pipeline diagram: data prep, training, evaluation steps" title="ML Pipeline: Data Prep, Training, Evaluation" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>End-to-end ML pipeline orchestrates data prep, training, evaluation, and retraining.</p></figcaption>
 </figure>
 
 Once we express the training process as a pipeline, we can execute it and retrain the model on new data with just one click. Or without any clicks at all. 
@@ -117,10 +107,8 @@ To summarize, in the training stage, MLOps helps with reproducibility and automa
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/train-stage.png" />
-<figcaption>
-Experiment tracking helps with automating evaluation and training pipelines help with automating training.
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/train-stage.png" alt="Train stage summary: experiment tracking, automated training pipelines" title="Train Stage Summary: Tracking and Automation" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Automate evaluation with experiment tracking and automate training with pipelines.</p></figcaption>
 </figure>
 
 
@@ -141,10 +129,8 @@ In the batch mode, we don’t need to immediately react to all new data. Instead
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/operate-batch.png" />
-<figcaption>
-A typical way of applying a model in batch mode is running it for the data generated yesterday.
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/operate-batch.png" alt="Batch model deployment: scheduled jobs applying ML to daily data" title="Batch Model Deployment with Scheduled Jobs" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Batch inference runs models on scheduled data windows (e.g., previous day’s data).</p></figcaption>
 </figure>
 
 
@@ -156,10 +142,8 @@ In contrast to batch, in the online mode we need to react to new data as soon as
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/model-deploy.png" />
-<figcaption>
-Two way of deploying ML models: batch and online.
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/model-deploy.png" alt="Comparison diagram: batch processing vs online real-time ML deployment" title="Batch vs Online Deployment for ML" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Two deployment modes for ML: batch processing and online real-time serving.</p></figcaption>
 </figure>
 
 
@@ -169,10 +153,8 @@ In the first one we deploy the model as a web service. The users of our model se
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/operate-web.png" />
-<figcaption>
-A model deployed as a web service is always ready to respond with predictions.
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/operate-web.png" alt="Online inference: ML model served as a REST API handling HTTP requests" title="Online Inference via REST API" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Online serving exposes a REST API for low-latency predictions on demand.</p></figcaption>
 </figure>
 
 
@@ -185,10 +167,8 @@ Every time there’s a new event, the service reacts to it and applies the model
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/operate-stream.png" />
-<figcaption>
-In the streaming case, the communication between services happens via streams. The model service reacts to events in one stream and puts the predictions to another.
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/operate-stream.png" alt="Streaming inference: event-driven ML service consuming Kafka and producing prediction stream" title="Streaming Inference with Event Streams (Kafka/Kinesis)" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Streaming inference consumes event streams and publishes prediction events to downstream topics.</p></figcaption>
 </figure>
 
 
@@ -216,10 +196,8 @@ But that’s not enough. We also need to make sure that the predictions of our m
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/operate-monitoring.png" />
-<figcaption>
-Monitoring helps us detect changes in model behaviour (<a href="https://commons.wikimedia.org/wiki/File:Slack_icon_2019.svg" target="_blank">slack icon source</a>).
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/operate-monitoring.png" alt="Model monitoring dashboard for drift detection, SLA metrics, and Slack alerts" title="Model Monitoring: Drift, SLAs, and Alerts" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Monitoring detects drift and SLA breaches and triggers alerts (<a href="https://commons.wikimedia.org/wiki/File:Slack_icon_2019.svg" target="_blank">slack icon source</a>).</p></figcaption>
 </figure>
 
 
@@ -230,10 +208,8 @@ To summarize, in the operate stage, MLOps helps us deploy the model and monitor 
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/operate-stage.png" />
-<figcaption>
-In operate stage, we select deploy the model and keep an eye on it.
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/operate-stage.png" alt="Operate stage summary: ML model deployment options and performance monitoring" title="Operate Stage Summary: Deploy and Monitor ML" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Operate stage: deploy the model, monitor performance and data drift, and retrain as needed.</p></figcaption>
 </figure>
 
 
@@ -247,10 +223,8 @@ Processes help us with that. There are tools and frameworks like [CRISP-DM](http
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/crisp-dm.png" />
-<figcaption>
-CRISP-DM is one of the frameworks for running ML projects. It highlights the iterative nature of ML: we start simple and gradually improve (<a href="https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png" target="_blank">image source</a>).
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/crisp-dm.png" alt="CRISP-DM framework diagram: business understanding, data, modeling, evaluation, deployment" title="CRISP-DM: Iterative Framework for ML Projects" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>CRISP-DM framework emphasizes iterative ML: define goals, prepare data, model, evaluate, and deploy (<a href="https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png" target="_blank">image source</a>).</p></figcaption>
 </figure>
 
 
@@ -297,10 +271,8 @@ For each of these stages we saw how MLOps helps:
 
 
 <figure>
-<img src="/images/posts/2022-05-02-mlops-10-minutes/mlops-zoomcamp.png" />
-<figcaption>
-Want to get hands-on experience with MLOps tools?
-</figcaption>
+<img src="/images/posts/2022-05-02-mlops-10-minutes/mlops-zoomcamp.png" alt="MLOps Zoomcamp course banner: hands-on tools for production ML" title="MLOps Zoomcamp: Hands-On Production ML Tools" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Join the free MLOps Zoomcamp to practice production ML tools end to end.</p></figcaption>
 </figure>
 
 Are you interested in learning MLOps? At DataTalks.Club we launch a free online course. We will cover all the topics discussed here and teach you how to apply all these concepts in practice. 

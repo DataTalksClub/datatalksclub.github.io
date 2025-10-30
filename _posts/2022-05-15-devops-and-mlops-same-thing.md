@@ -1,22 +1,20 @@
 ---
 authors:
 - angelicaloduca
-description: An overview of what DevOps and MLOps have in common and what are their
-  differences (if any).
+description: "DevOps vs MLOps: discover key differences, workflows, monitoring, and maturity models. Learn proven practices to build, maintain, and retrain ML systems."
 image: images/posts/2022-05-15-devops-and-mlops-same-thing/cover.jpg
 layout: post
-subtitle: An overview of what DevOps and MLOps have in common and what are their differences
-  (if any).
+subtitle: Compare DevOps and MLOps across pipelines, drift monitoring, team roles, and maturity levels—and when to automate retraining.
 tags:
 - mlops
 - devops
 - process
-title: Are DevOps and MLOps the Same Thing?
+title: "DevOps vs MLOps: Workflows, Monitoring, and Maturity Models Explained"
 ---
 
 <figure>
-<img src="/images/posts/2022-05-15-devops-and-mlops-same-thing/image2.jpg"  />
-<figcaption>Image from <a href="https://pixabay.com/it/photos/devops-attivit%c3%a0-commerciale-3155972/" target="_blank">Pixabay</a></figcaption>
+<img src="/images/posts/2022-05-15-devops-and-mlops-same-thing/image2.jpg" alt="DevOps concept illustration showing collaboration between development and operations" title="DevOps Collaboration: Development and Operations" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>DevOps fosters collaboration to automate software delivery (<a href="https://pixabay.com/it/photos/devops-attivit%c3%a0-commerciale-3155972/" target="_blank">image source</a>).</p></figcaption>
 </figure>
 
 
@@ -57,8 +55,8 @@ The typical DevOps workflow includes three main steps:
 The idea is to connect the third phase with the first one, to make the process as much as possible automatic. The classical DevOps workflow is represented through the symbol of infinity, as shown in the following figure:
 
 <figure>
-<img src="/images/posts/2022-05-15-devops-and-mlops-same-thing/image3.png"  />
-<figcaption>Image from <a href="https://pixabay.com/it/illustrations/devops-attivit%c3%a0-commerciale-3148393/" target="_blank">Pixabay</a> with Pixabay license.</figcaption>
+<img src="/images/posts/2022-05-15-devops-and-mlops-same-thing/image3.png" alt="DevOps infinity loop illustrating continuous build, test, deliver, operate" title="DevOps Infinity Loop: Continuous Delivery Cycle" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>DevOps infinity loop: build, test, deliver, operate—continuously (<a href="https://pixabay.com/it/illustrations/devops-attivit%c3%a0-commerciale-3148393/" target="_blank">image source</a>).</p></figcaption>
 </figure>
 
 The infinity symbol indicates that all the steps should be run endlessly.
@@ -112,8 +110,8 @@ Maturity in both DevOps and MLOps measures the extent to which human interventio
 You can check at which level of DevOps and MLOps your organization is. DevOps does not define any specific levels of maturity. However, broadly, we can define the following levels of maturity in DevOps, as shown in the following figure:
 
 <figure>
-<img src="/images/posts/2022-05-15-devops-and-mlops-same-thing/image1.png"  />
-<figcaption></figcaption>
+<img src="/images/posts/2022-05-15-devops-and-mlops-same-thing/image1.png" alt="DevOps maturity model showing initial, managed, defined, measured, optimized levels" title="DevOps Maturity Levels" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>DevOps maturity model: from initial and managed to measured and optimized.</p></figcaption>
 </figure>
 
 The levels are:
@@ -137,8 +135,8 @@ In MLOps, both Google and Microsoft have defined some levels of maturity:
 The two models are quite similar. In this article, we describe the Google’s ones, as shown in the following figure:
 
 <figure>
-<img src="/images/posts/2022-05-15-devops-and-mlops-same-thing/image4.png"  />
-<figcaption></figcaption>
+<img src="/images/posts/2022-05-15-devops-and-mlops-same-thing/image4.png" alt="Google MLOps maturity levels 0–2: manual processes to automated retraining triggers" title="Google MLOps Maturity Levels (0–2)" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>MLOps maturity: level 0 (manual), level 1 (pipelines, buttons), level 2 (automated triggers).</p></figcaption>
 </figure>
 
 The levels are:

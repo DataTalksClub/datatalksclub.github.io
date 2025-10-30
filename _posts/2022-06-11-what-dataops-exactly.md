@@ -15,10 +15,8 @@ title: What is DataOps exactly?
 ---
 
 <figure>
-<img src="/images/posts/2022-06-11-what-dataops-exactly/image3.jpg"  />
-<figcaption>
-Photo by <a href="https://unsplash.com/@fabioha?utm_source=medium&amp;utm_medium=referral" target="_blank">fabio</a> on <a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" target="_blank">Unsplash</a>
-</figcaption>
+<img src="/images/posts/2022-06-11-what-dataops-exactly/image3.jpg" alt="DataOps concept: unifying data engineering, quality, and deployment with DevOps principles" title="DataOps: DevOps Principles Applied to Data Lifecycle" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>DataOps aligns teams and automation across the data lifecycle (<a href="https://unsplash.com/@fabioha?utm_source=medium&amp;utm_medium=referral" target="_blank">photo</a> via <a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" target="_blank">Unsplash</a>).</p></figcaption>
 </figure>
 
 It’s hard to overstate the importance of data in modern enterprises. As a new practice, DataOps is aimed at helping organizations overcome obstacles in their data analytics processes. **But what exactly is this emerging practice, and how can it help businesses better leverage their data?** In this article, we’ll explore how important DataOps has become by looking at its various aspects and examining the ways it complements other DevOps and MLOps practices.
@@ -62,8 +60,8 @@ Those are really important metrics. It’s not so much about data science or dat
 DataOps involves the following seven steps:
 
 <figure>
-<img src="/images/posts/2022-06-11-what-dataops-exactly/image1.png"  />
-<figcaption></figcaption>
+<img src="/images/posts/2022-06-11-what-dataops-exactly/image1.png" alt="Seven steps of DataOps from tests and version control to parameterized, containerized pipelines" title="Seven Steps of DataOps" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>DataOps steps: add data tests, version control, branch/merge, prod tests, multiple environments, containerize and reuse, parameterize processes.</p></figcaption>
 </figure>
 
 -   **Add data to logic tests,** to move from DevOps to DataOps.
@@ -121,8 +119,8 @@ DataOps can lead to the following benefits:
 The following figure shows the specific focus of Data, Machine Learning, Development, and Operations:
 
 <figure>
-<img src="/images/posts/2022-06-11-what-dataops-exactly/image2.png"  />
-<figcaption></figcaption>
+<img src="/images/posts/2022-06-11-what-dataops-exactly/image2.png" alt="Focus areas of DataOps, MLOps, Dev, and Ops showing overlaps across data, models, software, and operations" title="DataOps vs MLOps: Focus Areas and Overlap" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>DataOps vs MLOps: data, models, development, and operations responsibilities and overlaps.</p></figcaption>
 </figure>
 
 ## 4 DataOps tools

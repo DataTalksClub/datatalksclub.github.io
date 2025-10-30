@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Named Entity Recognition: A Brief Overview and Implementation using Reformer"
-description: "In-depth end-to-end tutorial on implementing Named Entity Recognition on a Kaggle Dataset using the Trax Framework"
+title: "NER with Reformer in Trax: End‑to‑End Tutorial on a Kaggle Dataset"
+subtitle: "Discover NER fundamentals, Transformer vs Reformer basics, and a hands‑on Trax implementation on a Kaggle dataset with training and evaluation."
+description: "Named Entity Recognition (NER) with Reformer in Trax. Learn core NER, implement and train on a Kaggle dataset with code, evaluation, and proven tips."
 image: "images/posts/2020-12-17-ner-reformers/cover.jpg"
 authors: [sauravmaheshkar]
 tags: [nlp, transformers]

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Not A Regular RFM Analysis"
-subtitle: "Why limit to Recency, Frequency and Monetary measures during Customer Segmentation?"
-description: "Customer segmentation with limited data: learn a proven 5D RFM+ approach using k-means to segment responders/non-responders and drive targeted in-game marketing."
+title: "Customer Segmentation with RFM+ and K-Means: 7 Segments from Gaming Data"
+subtitle: "Build a 5D RFM+ framework, engineer metrics, and segment responders/non-responders with k-means to power targeted in‑game marketing"
+description: "Customer segmentation with limited data. Learn a 5D RFM+ framework, engineer metrics, and use k-means to create 7 segments—apply insights now."
 image: "images/posts/2020-11-29-segmentation/cover.jpg"
 authors: [nishantmohan]
 tags: [analytics, clustering]
@@ -35,7 +35,10 @@ So let's start, shall we!?
 
 Let's take a quick look at the available features.
 
-<img src="/images/posts/2020-11-29-segmentation/data.jpg" />
+<figure>
+<img src="/images/posts/2020-11-29-segmentation/data.jpg" alt="Sample of gaming user-level dataset with purchase dates for base game, expansion packs, and downloadable content" title="User-Level Gaming Dataset Features" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Snapshot of available features used for segmentation: base game, expansions, and DLC install dates</p></figcaption>
+</figure>
 
 So the last 8 features are the names of either an expansion pack of the game or a downloadable content. The dataset has 500k rows. That's good because it means we can make more segments, right!?
 
@@ -53,7 +56,10 @@ I tag the users as responders or non-responders based on whether they buy any ad
 
 Now I can begin defining my key metrics for segmenting the responders:
 
-<img src="/images/posts/2020-11-29-segmentation/recency.jpg" />
+<figure>
+<img src="/images/posts/2020-11-29-segmentation/recency.jpg" alt="Recency distribution showing user activity recency across years with higher activity in 2019" title="Recency Distribution of Player Activity" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Recency metric: days since last activity, highlighting more recent engagement in 2019</p></figcaption>
+</figure>
 
 
 ### Recency
@@ -62,7 +68,10 @@ This is the number of days passed since the user was seen active on the gaming p
 
 The chart shows that more users have been active in 2019, as compared to the users in 2017.
 
-<img src="/images/posts/2020-11-29-segmentation/frequency.jpg" />
+<figure>
+<img src="/images/posts/2020-11-29-segmentation/frequency.jpg" alt="Frequency distribution of days played since installation, skewed toward fewer active days" title="Frequency of Gameplay Days" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Frequency metric: number of active days since install, skewed toward fewer days for most players</p></figcaption>
+</figure>
 
 ### Frequency
 
@@ -71,7 +80,10 @@ Since the day a player installed the game, how many days did he play the game?
 The chart is concentrated towards left, meaning that most players are active for lesser days. However, it should be noted that new players have less number of days where they could be active, as compared to older players.
 
 
-<img src="/images/posts/2020-11-29-segmentation/monetary-value.png" />
+<figure>
+<img src="/images/posts/2020-11-29-segmentation/monetary-value.png" alt="Monetary value distribution of player spending based on mapped add-on prices" title="Monetary Value of Player Spend" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Monetary value metric: spend estimated by mapping store prices to user add-on purchases</p></figcaption>
+</figure>
 
 
 ### Monetary Value
@@ -80,7 +92,10 @@ Since this information is not available in the data, I went to the game store we
 
 Most players spend less than a hundred bucks. This is expected because the base game costs 55 bucks. And the downloadable content is generally cheap!
 
-<img src="/images/posts/2020-11-29-segmentation/responses.png" />
+<figure>
+<img src="/images/posts/2020-11-29-segmentation/responses.png" alt="Distribution of number of add-ons purchased per player showing most buyers purchase one" title="Responses: Add-ons Purchased per Player" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Responses metric: count of prior add-on purchases per player; most buyers purchase only one</p></figcaption>
+</figure>
 
 
 ### Responses
@@ -89,7 +104,10 @@ How many add-ons did the player buy previously? This will not be correlated with
 
 It can be seen that most people who bought any add-on, only bought one.
 
-<img src="/images/posts/2020-11-29-segmentation/purchase-frequency.png" />
+<figure>
+<img src="/images/posts/2020-11-29-segmentation/purchase-frequency.png" alt="Histogram of purchase intervals showing peaks near expansion launch windows" title="Purchase Frequency Over Time" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Purchase frequency metric: intervals between purchases with peaks around expansion release periods</p></figcaption>
+</figure>
 
 
 ### Purchase Frequency
@@ -104,7 +122,10 @@ While most players buy everything soon after they buy the game, we see other hig
 
 Using the 5 key metrics, I apply k-means clustering to segment the users.
 
-<img src="/images/posts/2020-11-29-segmentation/elbow.jpg" />
+<figure>
+<img src="/images/posts/2020-11-29-segmentation/elbow.jpg" alt="Elbow method chart indicating optimal k around five clusters for k-means" title="Elbow Method for Optimal k" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Elbow plot suggests k=5 as a balanced choice for k-means clustering complexity and cohesion</p></figcaption>
+</figure>
 
 Looking at the chart, I select 5 as the optimum number of clusters/segments. This gives me a balance between homogeneity within clusters and complexity of the analysis.
 
@@ -113,7 +134,10 @@ Looking at the chart, I select 5 as the optimum number of clusters/segments. Thi
 
 Since these are the users who have not interacted much, we only have two measures to judge them: Recency and Frequency.
 
-<img src="/images/posts/2020-11-29-segmentation/recency-vs-frequency.jpg" />
+<figure>
+<img src="/images/posts/2020-11-29-segmentation/recency-vs-frequency.jpg" alt="Scatter plot of recency versus frequency used to segment non-responders by activity threshold" title="Recency vs Frequency for Non-Responders" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Non-responder segmentation using a recency threshold to separate recently active from lapsed users</p></figcaption>
+</figure>
 
 As can be seen in the above chart, I segment such users by a threshold of 1000 days. That is, those who have been active in last 200 days are in Cluster 6, others are in Cluster 5 (Cluster 0–4 being the responders).
 
@@ -121,7 +145,10 @@ As can be seen in the above chart, I segment such users by a threshold of 1000 d
 
 Following table gives means of all the features across the user segments.
 
-<img src="/images/posts/2020-11-29-segmentation/segments.jpg" />
+<figure>
+<img src="/images/posts/2020-11-29-segmentation/segments.jpg" alt="Table of means for key metrics across identified customer segments" title="Segment Means Across Metrics" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Summary statistics by segment for recency, frequency, responses, monetary value, and purchase cadence</p></figcaption>
+</figure>
 
 Look at the first row. On average, players in Cluster 0 were active for nearly 15 days, bought 1.5 add-ons, were active 477 days from the beginning (long back), spent 65 bucks, and purchased an add-on every 33 days. Since these were active long back, they have probably forgotten about the game. So, in-game marketing may not work on them! On the other hand, email marketing might!
 
@@ -129,7 +156,10 @@ Now look at the second row. On average, players in Cluster 1 were active for a w
 
 Following figure gives similar summary of each cluster/segment.
 
-<img src="/images/posts/2020-11-29-segmentation/strategy.jpg" />
+<figure>
+<img src="/images/posts/2020-11-29-segmentation/strategy.jpg" alt="Per-segment strategy summary visualization guiding targeted marketing actions" title="Per-Segment Strategy Overview" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Actionable strategy guidance for each segment to tailor in-game and email marketing</p></figcaption>
+</figure>
 
 ## Conclusion
 

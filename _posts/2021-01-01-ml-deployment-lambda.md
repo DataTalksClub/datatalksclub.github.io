@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Containerized ML deployment with AWS Lambda"
+title: "Deploy ML Models on AWS Lambda with Docker Containers and SAM"
+subtitle: "End-to-end guide to train, containerize, and serve ML via Lambda, ECR, SAM, and GitHub Actions"
 description:
-    This post will demonstrate how you can deploy a Machine Learning model on a Serverless API (AWS Lambda),
-    using ECR with Docker as runtime
+    Learn containerized ML deployment on AWS Lambda: build, train, and serve with Docker, ECR, and SAM, plus CI/CD via GitHub Actions. Follow this proven guide.
 image: "images/posts/2021-01-01-ml-deployment-lambda/cover.jpg"
 authors: [sejalvaidya]
 tags: [engineering, deployment, serverless, aws]
@@ -90,7 +90,10 @@ Once you have the pre-reqs installed, you can generate a new project using the S
 $ sam init
 ```
 
-<img src="/images/posts/2021-01-01-ml-deployment-lambda/sam_init.png" />
+<figure>
+<img src="/images/posts/2021-01-01-ml-deployment-lambda/sam_init.png" alt="AWS SAM CLI initialization interactive prompt to scaffold a serverless project" title="AWS SAM Init Prompt" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Initialize a new serverless project with AWS SAM to scaffold code and templates</p></figcaption>
+</figure>
 
 
 The project structure generated as a result:
@@ -283,7 +286,10 @@ The SAM CLI builds a docker image from the `Dockerfile`, and generates a **Cloud
 
 Output:
 
-<img src="/images/posts/2021-01-01-ml-deployment-lambda/sam_build.png" />
+<figure>
+<img src="/images/posts/2021-01-01-ml-deployment-lambda/sam_build.png" alt="SAM build output showing Docker build and CloudFormation stack artifacts" title="AWS SAM Build Output" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>SAM builds the Docker image and generates CloudFormation artifacts for deployment</p></figcaption>
+</figure>
 
 
 **To test:**
@@ -312,7 +318,10 @@ The guided deployment will walk through all required parameters and will create 
 
 Output:
 
-<img src="/images/posts/2021-01-01-ml-deployment-lambda/sam_deploy.png" />
+<figure>
+<img src="/images/posts/2021-01-01-ml-deployment-lambda/sam_deploy.png" alt="SAM guided deploy terminal output prompting for parameters and creating resources" title="AWS SAM Guided Deploy" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Guided deploy walks through parameters and provisions resources via CloudFormation</p></figcaption>
+</figure>
 
 
 

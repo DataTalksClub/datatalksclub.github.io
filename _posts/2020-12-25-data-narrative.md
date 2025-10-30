@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Transforming Data into a Narrative"
-subtitle: "Characters, conflicts, and a conclusion"
+title: "Data Storytelling: Characters, Conflict, and Conclusion for Data Professionals"
+subtitle: "A practical framework and example to turn analysis into action"
 description:
-    "The ability to turn your data into
-    a story is an essential communication skill. Your insights are only valuable if you can
-    communicate them effectively"
+    "Data storytelling for analysts: Learn characters, conflict, and conclusion to turn insights into action, with a retail forecasting example. Master essential skills."
 image: "images/posts/2020-12-25-data-narrative/cover.jpg"
 authors: [davidgates]
 tags: [communication]
@@ -24,10 +22,8 @@ some, and not others. Stories, however, are universal.
 <!-- more -->
 
 <figure>
-<img src="/images/posts/2020-12-25-data-narrative/books.jpg" />
-<figcaption>
-Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245690">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245690">Pixabay</a>
-</figcaption>
+<img src="/images/posts/2020-12-25-data-narrative/books.jpg" alt="Stack of books representing storytelling fundamentals for data communication" title="Storytelling Foundations for Data Professionals" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245690">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245690">Pixabay</a></p></figcaption>
 </figure>
 
 _Data professionals do not need to be natural storytellers. Instead, they simply must understand the elements of a good story._
@@ -58,7 +54,10 @@ What problems are they facing? Why are these problems so important? How are thes
 affecting their well-being? Maybe the characters are your audience members. In that case, ​
 _what problem are they causing_?
 
-<img src="/images/posts/2020-12-25-data-narrative/elements.png" />
+<figure>
+<img src="/images/posts/2020-12-25-data-narrative/elements.png" alt="Diagram highlighting characters, conflict, and conclusion as core story elements" title="Core Story Elements: Characters, Conflict, Conclusion" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Three essentials of a compelling narrative: characters, conflict, and a conclusion</p></figcaption>
+</figure>
 
 Finally, a good story must have a conclusion. A conflict needs resolution. This is where your
 insights into the situation become essential. As a data expert, you understand the problems and
@@ -92,10 +91,8 @@ but we have....” I told Paul sorry but I’m not interested._
 
 
 <figure>
-<img src="/images/posts/2020-12-25-data-narrative/ireland.jpg" />
-<figcaption>
-Image by <a href="https://pixabay.com/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=81310">David Mark</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=81310">Pixabay</a>
-</figcaption>
+<img src="/images/posts/2020-12-25-data-narrative/ireland.jpg" alt="Country road scene illustrating a customer journey in a narrative example" title="Narrative Example: Customer Journey" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Image by <a href="https://pixabay.com/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=81310">David Mark</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=81310">Pixabay</a></p></figcaption>
 </figure>
 
 _I knew I didn’t want any of the alternative options, so I left the store and was able to find what I
@@ -148,10 +145,8 @@ action. How do they do it? Through stories. Storytelling is a do-it-all tool. It
 complex ideas, engage an audience, and motivate action.
 
 <figure>
-<img src="/images/posts/2020-12-25-data-narrative/speaker.jpg" />
-<figcaption>
-Image by <a href="https://pixabay.com/users/rocheartist-7638257/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4610564">Roché Oosthuizen</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4610564">Pixabay</a>
-</figcaption>
+<img src="/images/posts/2020-12-25-data-narrative/speaker.jpg" alt="Public speaker presenting a story-driven data narrative to an audience" title="Story-Driven Presentations" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>Image by <a href="https://pixabay.com/users/rocheartist-7638257/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4610564">Roché Oosthuizen</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4610564">Pixabay</a></p></figcaption>
 </figure>
 
 So do your communication skills match your analytical skills?
