@@ -238,7 +238,7 @@ The lectures are pre-recorded and available on YouTube in our official [Machine 
 To strengthen your understanding of the course material, we provide homework assignments for each module.
 
 <figure>
-<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml-zoomcamp-schedule.png" alt="ML Zoomcamp 2026 schedule - weekly course timeline with homework submission deadlines for 4-month machine learning certification program" title="ML Zoomcamp Course Schedule 2026" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<img src="/images/posts/2023-08-17-machine-learning-zoomcamp/ml-zoomcamp-schedule.png" alt="ML Zoomcamp 2026 schedule - weekly course timeline with homework submission deadlines for 4-month machine learning certification program" title="ML Zoomcamp Course Schedule 2025" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
 <figcaption><p>ML Zoomcamp schedule showing the course schedule and submission deadlines</p></figcaption>
 </figure>
 
