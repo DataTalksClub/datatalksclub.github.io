@@ -6,6 +6,14 @@ ids:
   anchor: atatalksclub/episodes/The-Entrepreneurship-Journey-From-Freelancing-to-Starting-a-Company---Adrian-Brudaru-e2cut0k
   youtube: vOpEQiCsaLw
 image: images/podcast/s17e01-entrepreneurship-journey-from-freelancing-to-starting-company.jpg
+topics:
+- entrepreneurship
+- freelance
+- startups
+- business development
+- leadership
+- career growth
+- consulting
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/The-Entrepreneurship-Journey-From-Freelancing-to-Starting-a-Company---Adrian-Brudaru-e2cut0k
   apple: https://podcasts.apple.com/us/podcast/the-entrepreneurship-journey-from-freelancing-to/id1541710331?i=1000638715212

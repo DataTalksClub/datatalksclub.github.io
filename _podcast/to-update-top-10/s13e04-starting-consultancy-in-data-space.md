@@ -2,6 +2,14 @@
 episode: 4
 guests:
 - aleksanderkruszelnicki
+topics:
+- consulting
+- entrepreneurship
+- freelance
+- data strategy
+- Business Development
+- Career Growth
+- Startups
 ids:
   anchor: ow/datatalksclub/episodes/Starting-a-Consultancy-in-the-Data-Space---Aleksander-Kruszelnicki-e203c8g
   youtube: rh_pE35m3vE

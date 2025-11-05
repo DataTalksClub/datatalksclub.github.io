@@ -5,6 +5,15 @@ guests: [mikiobraun]
 
 image: images/podcast/s04e08-freelancing.jpg
 
+topics:
+- freelance
+- consulting
+- machine learning
+- career growth
+- entrepreneurship
+- remote work
+- business strategy
+
 season: 4
 episode: 8
 

@@ -15,7 +15,7 @@ season: 22
 short: How to Build and Evaluate AI systems in the Age of LLMs
 title: How to Build and Evaluate AI systems in the Age of LLMs
 transcript:
-- header: Introduction and Expertise
+- header: Episode Introduction & Guest Bio
 - line: This week we will talk about LLMs and AI like everyone else, I guess.
   sec: 0
   time: 0:00
@@ -41,6 +41,7 @@ transcript:
   sec: 50
   time: 0:50
   who: Alexey
+- header: 'Podcasts Overview: Vanishing Gradients and High Signal'
 - line: One, Vanishing Gradients, is really for builders who want to know what they
     can learn today to ship and maintain products. High Signal is a lot of conversations
     with people in leadership. We have had Michael Jordan on High Signal and Fay Lee
@@ -74,6 +75,7 @@ transcript:
   sec: 118
   time: '1:58'
   who: Hugo
+- header: 'Career Journey: Academia to Data science and DevRel'
 - line: I remember when I was studying machine learning in 2012 or 2013. I thought,
     “Oh, Michael Jordan, interesting.” Later, after some time, I realized which one
     you meant. Tell us about your career journey so far. We remember that you were
@@ -111,7 +113,7 @@ transcript:
   sec: 207
   time: '3:27'
   who: Hugo
-- header: Transition to Freelance Consulting and Advising
+- header: Freelance Consulting, Advising, and Teaching Focus
 - line: I started a podcast there called The DataFrame Podcast which was super fun.
     During the pandemic I worked at several PyData adjacent open source tooling companies
     leading developer relations. Then last year the space became too exciting for
@@ -183,6 +185,7 @@ transcript:
   sec: 429
   time: '7:09'
   who: Alexey
+- header: 'Consulting vs Advisory: Hands-on Work and Organizational Advice'
 - line: In my consulting work I really help people ship products and build.
   sec: 431
   time: '7:11'
@@ -212,7 +215,8 @@ transcript:
   sec: 466
   time: '7:46'
   who: Hugo
-- header: Restructuring Teams and Incentivizing AI Adoption
+- header: 'Incentivizing AI Adoption: Loss Aversion and Dedicated Experimentation
+    Time'
 - line: There is interesting research on loss aversion. If you frame not using AI
     as a potential loss rather than using it as a gain, it can incentivize people
     more. Another thing that is important is that the most successful organizations
@@ -253,6 +257,7 @@ transcript:
   sec: 646
   time: '10:46'
   who: Alexey
+- header: 'Practical Prompting Use Cases: Summaries, CSVs, and Role-Based Prompts'
 - line: Exactly. Many people do not realize you can generate CSV files or PDFs with
     it. Helping people understand how to prompt is also key. If you give it a role
     and an objective, like “You are a chief marketing officer writing this campaign,”
@@ -268,7 +273,7 @@ transcript:
   sec: 705
   time: '11:45'
   who: Alexey
-- header: Improving Prompting for Timestamp Generation
+- header: Timestamp Generation Tools & Workflows (Gemini, Descript)
 - line: I use Gemini because I do it programmatically as well. Gemini can get data
     directly from YouTube, and ChatGPT cannot because Google has blocked it from transcribing.
   sec: 742
@@ -298,6 +303,7 @@ transcript:
   sec: 813
   time: '13:33'
   who: Hugo
+- header: 'Quality Control Pattern: Evaluator–Optimizer for Generated Outputs'
 - line: You would also want a subject matter expert in the loop to evaluate the results.
     Whoever used to write timestamps should be involved. Another effective approach
     is the evaluator optimizer pattern. You can have one model generate timestamps
@@ -351,7 +357,7 @@ transcript:
   sec: 1022
   time: '17:02'
   who: Alexey
-- header: Evaluation Sets and Failure Analysis for Reliable Software
+- header: 'Scaling Transcript Work: Automation and GitHub Actions'
 - line: If we have hundreds of transcripts, optimizing for one may worsen others,
     and I cannot check all one hundred. That is why we need an evaluator. I want correct
     transcripts and timestamps at least five minutes apart.
@@ -436,7 +442,7 @@ transcript:
   sec: 1369
   time: '22:49'
   who: Hugo
-- header: 'Evaluating Prompts: The Cost and Size of Gold Test Sets'
+- header: 'Gold Test Sets: Size, Cost, and Representativeness for Evaluation'
 - line: If you want to iterate 500 times on a prompt, you need to have a proper evaluation
     set, right?
   sec: 1380
@@ -503,6 +509,7 @@ transcript:
   sec: 1585
   time: '26:25'
   who: Alexey
+- header: 'Failure Analysis: Categorizing Errors and Prioritizing Retrieval Fixes'
 - line: You use this process to guide your development as well. This is something
     I teach a lot in my work and courses. You should do failure analysis and rank
     order your failures. Formatting issues might be more obvious but if they are only
@@ -520,7 +527,7 @@ transcript:
   sec: 1650
   time: '27:30'
   who: Alexey
-- header: Software Tools for Evaluation and Monitoring
+- header: 'Monitoring & Vibe Coding: Logging, Traces, and Debuggable MVPs'
 - line: We have many monitoring and evaluation tools to help with this process. I
     output things to pandas, copy them to Google Sheets, and analyze there. But there
     are special tools. Have you tried any of them? Do you like any?
@@ -615,7 +622,7 @@ transcript:
   sec: 1983
   time: '33:03'
   who: Hugo
-- header: 'Evolution of AI Tools: Proactivity and Embedded Agents'
+- header: 'Embedded Agents and IDE Integrations: Cursor, Copilot, and Slack Workflows'
 - line: I am also excited about having these tools in normal interfaces. Some people
     use Cursor and Devon in Slack. You can be in Slack and say, “This documentation
     is wrong, update it.”
@@ -750,7 +757,7 @@ transcript:
   sec: 2407
   time: '40:07'
   who: Alexey
-- header: The Future of AI is Not Just Chat
+- header: 'Agentic Value Beyond Chat: Actions, Documents, and Automation'
 - line: Definitely a provocative statement, but I do not think the future of AI happens
     in chat. We will still chat and do that kind of stuff, but the amount of value
     a conversation can generate is limited by human time, and human time is scarce.
@@ -818,7 +825,7 @@ transcript:
   sec: 2637
   time: '43:57'
   who: Hugo
-- header: 'Avoiding Proof of Concept Purgatory: Prioritizing RAG for Business Value'
+- header: 'Prioritizing RAG for Business Impact: Quick Wins over Moonshots'
 - line: So instead of building a moonshot tutor, if they just built a simple RAG bot
     with good chunking, embeddings, and a nice interface, they could solve one in
     five support tickets immediately. It is less flashy, but delivers real business
@@ -897,6 +904,7 @@ transcript:
   sec: 2942
   time: '49:02'
   who: Alexey
+- header: 'Chunking Strategies and Context Rot: Sliding Windows and Summarizers'
 - line: You are right. Also, RAG struggles with certain questions like “What is this
     whole video about?” because it looks for individual chunks. That is where agents
     and tool calls can help. For example, a summarization tool can answer broad questions
@@ -909,7 +917,7 @@ transcript:
   sec: 2995
   time: '49:55'
   who: Hugo
-- header: 'RAG vs. Agents: Complexity and Power Trade-Offs'
+- header: 'Adding Tooling vs. Simplicity: When to Move from RAG to Agents'
 - line: But the moment we go from RAG to agents, system complexity increases a lot.
     We must define tool calls carefully, repeat instructions to ensure correct use,
     and handle more errors. While RAG follows a fixed path and is predictable. So
@@ -956,6 +964,7 @@ transcript:
   sec: 3181
   time: '53:01'
   who: Hugo
+- header: 'Practical Project Example: Building an Email Assistant'
 - line: Like Arise with Phoenix, right? Okay, we should wrap up. Maybe share some
     advice for people starting with agents. What should they focus on first?
   sec: 3189
@@ -1005,7 +1014,7 @@ transcript:
   sec: 3314
   time: '55:14'
   who: Hugo
-- header: Recommended Steps for Building Agents
+- header: Four-Step Framework for Building Agents (Problem, Start Small, Data, Evaluation)
 - line: 'In short, four steps:'
   sec: 3381
   time: '56:21'
@@ -1037,6 +1046,7 @@ transcript:
   sec: 3438
   time: '57:18'
   who: Alexey
+- header: 'Memory Design: Multi-Turn Conversation Memory vs. Retrieval-Based Memory'
 - line: Good question. Many people handle memory poorly. GPT-5 itself has changed
     how it handles memory; long conversations now work differently. You should first
     ask if you even need memory. Many systems are single-turn and do not require it
@@ -1059,7 +1069,6 @@ transcript:
   sec: 3568
   time: '59:28'
   who: Hugo
-- header: Defining Memory in Multi-Turn Conversations
 - line: I see. I was thinking of memories across conversations.
   sec: 3597
   time: '59:57'
@@ -1072,6 +1081,7 @@ transcript:
   sec: 3599
   time: '59:59'
   who: Hugo
+- header: Episode Wrap-Up and Next Steps
 - line: Yes, it makes sense. I still have many questions, but we should wrap up.
   sec: 3655
   time: '1:00:55'
@@ -1104,7 +1114,6 @@ transcript:
   time: '1:01:30'
   who: Alexey
 ---
-
 Links:
 
 * [Twitter](https://x.com/hugobowne){:target="_blank"}

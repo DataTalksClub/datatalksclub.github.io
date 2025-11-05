@@ -2,6 +2,14 @@
 episode: 5
 guests:
 - paulineclavelloux
+topics:
+- Entrepreneurship
+- Indie Hacking
+- Freelance
+- Product Development
+- Startups
+- Bootstrapping
+- Data Tools
 ids:
   anchor: Doing-Software-Engineering-in-Academia---Johanna-Bayer-e1snqcb
   youtube: KsV_SVXlTo8

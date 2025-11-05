@@ -2,6 +2,14 @@
 episode: 9
 guests:
 - dimitrivisnadi
+topics:
+- Freelance
+- Career Growth
+- Consulting
+- Personal Branding
+- Entrepreneurship
+- Remote Work
+- Business Development
 ids:
   anchor: datatalksclub/episodes/Can-You-Quit-Your-Job-and-Still-Succeed-as-a-Data-Freelancer-e360j7e
   youtube: S93V8RgwBig

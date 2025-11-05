@@ -2,6 +2,14 @@
 episode: 5
 guests:
 - antonisstellas
+topics:
+- Freelance
+- Startups
+- Entrepreneurship
+- Career Growth
+- Remote Work
+- Consulting
+- Self-Employment
 ids:
   anchor: ow/datatalksclub/episodes/Lessons-Learned-from-Freelancing-and-Working-in-a-Start-up---Antonis-Stellas-e25g94r
   youtube: -Gj7SaI-QW4
