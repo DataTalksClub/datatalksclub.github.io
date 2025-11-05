@@ -1,0 +1,29 @@
+00:00:00 Podcast Introduction
+00:01:34 Episode Overview: Decoding Data Engineering Acronyms
+00:01:58 Guest Career Journey: From Marketing Ops to Analytics & Growth
+00:03:19 Airbyte Overview: ELT Focus and Connector Purpose
+00:03:46 ETL Explained: Extract, Transform, Load (Traditional Model)
+00:06:37 ETL Use Case: Calculating Customer Acquisition Cost
+00:07:57 ELT Advantages: Flexibility, Speed, and Analyst Autonomy
+00:10:00 Transformations in Practice: From Type Casting to Complex SQL Joins
+00:12:39 Analytics Engineer Emergence: Empowering Analysts with DBT & SQL
+00:15:30 Data Marts vs. Warehouses: Purpose, Layers, and Consumption
+00:17:55 Ingestion Layer: Raw Data Storage, Sanity, and Guardrails
+00:18:47 Bringing Transforms Into the Warehouse: ELT vs Legacy Workflows
+00:19:50 Data Lakes: Unstructured Storage for Files, Logs, and Media
+00:21:22 Data Quality: Preventing Data Swamps Through Governance
+00:24:24 Warehouse Ingestion vs. Data Lake: Trade-offs and Convergence
+00:27:39 Architecture Decision: When to Maintain a Lake, a Warehouse, or Both
+00:30:59 Orchestration: Airflow’s Role in Scheduling and Running Pipelines
+00:31:31 Airbyte’s Role in the Stack: Reliable E‑L and DBT Integration
+00:33:45 Modern Analytics Stack: Best‑of‑Breed Tools and Typical Components
+00:35:42 Operational Reverse Data Flows: Pushing Warehouse Tables Back to Sources
+00:39:06 Low‑Code/No‑Code Tools: Evolving Data Engineering Roles, Not Replacing Them
+00:41:30 ETL’s Continued Relevance: Large Enterprises and Complex Staging Needs
+00:43:02 Managing Unused Data: Team Ownership and Regular Cleanup Practices
+00:43:45 Open Source Strategy: Why Airbyte Is Open and the Cloud Offering Model
+00:45:59 CDC Explained: Capturing and Syncing Only Row-Level Changes
+00:48:26 Open‑Source Risks: Competition and Licensing (Elasticsearch Example)
+00:48:58 Schema Evolution: Handling Slowly Changing Attributes
+00:49:32 Licensing Considerations: MIT, Cloud Products, and Future Choices
+01:00:42 Episode Wrap‑Up: Final Thoughts, Hiring News, and Contact Information

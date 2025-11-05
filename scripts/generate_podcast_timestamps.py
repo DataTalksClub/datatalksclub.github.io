@@ -2,11 +2,14 @@
 """
 Generate timestamps for podcast episodes using OpenAI API.
 
+Automatically saves timestamps to podcast-timestamps/<podcast-name>.txt
+
 Usage:
     python generate_podcast_timestamps.py <podcast_file> [--api-key YOUR_KEY]
     
 Example:
     python generate_podcast_timestamps.py _podcast/s22e04-how-to-build-and-evaluate-ai-systems-in-age-of-llms.md
+    # Creates: podcast-timestamps/s22e04-how-to-build-and-evaluate-ai-systems-in-age-of-llms.txt
     
 Note: To insert generated timestamps into the transcript, use insert_podcast_timestamps.py
 """
@@ -26,13 +29,13 @@ You are given file content for a podcast episode including title, season, episod
 TASK: Generate new high-quality timestamps that accurately reflect the content and help listeners navigate the episode.
 
 REQUIREMENTS:
-- Max 20 timestamps
+- Max 30 timestamps
 - Create a structured outline highlighting major topics
 - Be factual and accurate
 - Do not be over-granular
 - Use concise, nominative phrases (describe what's covered, not what's asked)
 - Focus on clarity, parallel grammar, and information hierarchy
-- Do not repeat existing timestamps mentioned as "header" in the transcript
+- Do not repeat existing timestamps mentioned as "header" in the transcript. Generate new, high-quality timestamps that are valuable to the listener for navigating the episode.
 - Don't write: "How to contribute to open source?"
 - Do write: "Open Source Contribution: Starting Small & Building Confidence."
 
@@ -106,17 +109,14 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Generate timestamps and display
+  # Generate timestamps (saved to podcast-timestamps/ automatically)
   python generate_podcast_timestamps.py _podcast/s22e04-how-to-build-and-evaluate-ai-systems-in-age-of-llms.md
   
   # Use custom API key
   python generate_podcast_timestamps.py _podcast/s22e04-how-to-build-and-evaluate-ai-systems-in-age-of-llms.md --api-key sk-...
   
-  # Save output to a file
-  python generate_podcast_timestamps.py _podcast/s22e04-how-to-build-and-evaluate-ai-systems-in-age-of-llms.md > timestamps.txt
-  
   # Then insert timestamps using the separate script
-  python insert_podcast_timestamps.py _podcast/s22e04-how-to-build-and-evaluate-ai-systems-in-age-of-llms.md --timestamps-file timestamps.txt --update
+  python insert_podcast_timestamps.py _podcast/s22e04-how-to-build-and-evaluate-ai-systems-in-age-of-llms.md --timestamps-file podcast-timestamps/s22e04-how-to-build-and-evaluate-ai-systems-in-age-of-llms.txt --update
         """
     )
     
@@ -125,10 +125,18 @@ Examples:
     
     args = parser.parse_args()
     
-    # Check if file exists
+    # Resolve file path - try relative to current dir, then relative to project root
     file_path = Path(args.podcast_file)
     if not file_path.exists():
+        # If not found, try relative to project root (where script is located)
+        script_dir = Path(__file__).parent
+        project_root = script_dir.parent
+        file_path = project_root / args.podcast_file
+    
+    if not file_path.exists():
         print(f"Error: File not found: {args.podcast_file}", file=sys.stderr)
+        print(f"  Tried: {Path(args.podcast_file).resolve()}", file=sys.stderr)
+        print(f"  Tried: {(Path(__file__).parent.parent / args.podcast_file).resolve()}", file=sys.stderr)
         sys.exit(1)
     
     print(f"Processing: {file_path.name}", file=sys.stderr)
@@ -145,17 +153,33 @@ Examples:
         # Generate timestamps
         timestamps = generate_podcast_timestamps(file_content, api_key=args.api_key)
         
-        # Output to stdout (so it can be redirected to a file)
+        # Create output file path
+        script_dir = Path(__file__).parent
+        project_root = script_dir.parent
+        timestamps_dir = project_root / 'podcast-timestamps'
+        timestamps_dir.mkdir(exist_ok=True)
+        
+        # Use podcast filename (without .md) for the timestamp file
+        podcast_name = file_path.stem  # filename without extension
+        output_file = timestamps_dir / f"{podcast_name}.txt"
+        
+        # Write timestamps to file
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(timestamps)
+        
+        # Output to stdout as well (for backward compatibility)
         print(timestamps)
         
         # Instructions to stderr
         print(file=sys.stderr)
         print("=" * 60, file=sys.stderr)
+        print(f"✓ Timestamps saved to: {output_file.relative_to(project_root)}", file=sys.stderr)
+        print(file=sys.stderr)
         print("Next steps:", file=sys.stderr)
-        print("1. Review the timestamps above", file=sys.stderr)
-        print("2. Save them to a file (or redirect output: > timestamps.txt)", file=sys.stderr)
+        print("1. Review the timestamps file", file=sys.stderr)
+        print("2. Edit if needed", file=sys.stderr)
         print("3. Insert into transcript:", file=sys.stderr)
-        print(f"   python insert_podcast_timestamps.py {args.podcast_file} --timestamps-file timestamps.txt --update", file=sys.stderr)
+        print(f"   python insert_podcast_timestamps.py {args.podcast_file} --timestamps-file {output_file.relative_to(project_root)} --update", file=sys.stderr)
     
     except Exception as e:
         print(f"\nError: {e}", file=sys.stderr)

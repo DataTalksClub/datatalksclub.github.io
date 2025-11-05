@@ -23,6 +23,7 @@ season: 12
 short: Indie Hacking
 title: Indie Hacking
 transcript:
+- header: Episode Introduction
 - line: This week we'll talk about indie hacking. We have a special guest today, Pauline.
     Pauline is a data science manager and a consultant at IBM, where she has worked
     for eight years. She is also an indie hacker and is working on a few side hustles
@@ -46,7 +47,7 @@ transcript:
   sec: 37
   time: 0:37
   who: Alexey
-- header: Pauline’s background
+- header: 'Career Journey: Engineering Student to IBM Data Scientist'
 - line: Before we go into our main topic of indie hacking. Let's start with your background.
     Can you tell us about your career journey so far?
   sec: 72
@@ -97,6 +98,7 @@ transcript:
   sec: 173
   time: '2:53'
   who: Alexey
+- header: 'Consulting Work: Project Types and Client Engagement'
 - line: When you are a data consultant, it means I work in the data science area for
     various clients. I work from project to project. A project is a mission. It can
     last one month or four years, for example. I think my shortest mission lasted
@@ -121,7 +123,6 @@ transcript:
   sec: 258
   time: '4:18'
   who: Pauline
-- header: Pauline’s work as a manager at IBM
 - line: What do you do as a managing partner? What kind of responsibilities do you
     have?
   sec: 279
@@ -135,6 +136,7 @@ transcript:
   sec: 288
   time: '4:48'
   who: Alexey
+- header: 'Manager Role: Deliverables, Roadmaps, and Client Communication'
 - line: Yes. As a manager, you ensure that the models are created. That it fits the
     client's needs. You are also the relation between the clients and the team. I
     can present the results of what we achieved, what is in the roadmap – those kinds
@@ -147,6 +149,7 @@ transcript:
   sec: 318
   time: '5:18'
   who: Alexey
+- header: 'Case Study: Money-Laundering Detection Project and Deployment'
 - line: Yes. I won't name the clients, but I worked for two years to detect money
     laundering.
   sec: 331
@@ -185,7 +188,7 @@ transcript:
   sec: 429
   time: '7:09'
   who: Pauline
-- header: What is indie hacking?
+- header: 'Indie Hacking Explained: Bootstrapping Without External Funding'
 - line: Okay, that's all quite interesting and I want to ask more. But that's not
     the main topic today. Right? The main topic today is what you started one year
     ago, as you said, which is indie hacking. Maybe, can you tell us what indie hacking
@@ -209,6 +212,7 @@ transcript:
   sec: 460
   time: '7:40'
   who: Pauline
+- header: 'Day Job + Side Projects: Time Allocation and Routine'
 - line: So basically, during daytime, you work at IBM as a data science manager, but
     after work (after 5pm or 6pm) you start working on your side projects.
   sec: 538
@@ -252,7 +256,6 @@ transcript:
   sec: 608
   time: '10:08'
   who: Pauline
-- header: Pauline initial indie hacking projects
 - line: Some time ago, I was into games. In games, there was also this concept of
     “indie developers”. Usually, when you have a game, you work with some sort of
     publisher who then promotes the game and distributes it. But there are some indie
@@ -264,6 +267,7 @@ transcript:
   sec: 630
   time: '10:30'
   who: Alexey
+- header: 'Cryptopy Origin: Building Crypto Alerts for Personal Trading'
 - line: Yeah. Everything started with Cryptopy. That was my first project. Actually,
     for Cryptopy, at the very beginning, I did some trading of crypto and I noticed
     some patterns in the charts. And I was like, “Okay, that would be great to make
@@ -315,7 +319,6 @@ transcript:
   sec: 871
   time: '14:31'
   who: Pauline
-- header: Getting ready for launch
 - line: So that was useful. [Pauline agrees] You said it wasn't successful in the
     end, but I'm still curious – between the time you realized that it's useful for
     others and the time when you actually launched it, what happened?
@@ -332,6 +335,7 @@ transcript:
   sec: 892
   time: '14:52'
   who: Alexey
+- header: 'Productization: Company Setup, Landing Pages, Legal and Payments'
 - line: In January, we created the company because it was better for us to have money
     in common. We used our system on our side – so we had to maintain two systems,
     which was a bit time consuming. We decided to create one company in order to join
@@ -410,6 +414,7 @@ transcript:
   sec: 1121
   time: '18:41'
   who: Alexey
+- header: 'Technology Choices: Python/Flask, Team Contributions, and Architecture'
 - line: No, we used Python, [chuckles] because I wanted to be able to modify the code.
     Also, with Python, there is a framework that you can use for web development.
     It's called Flask and we used it. But we could have also used Java and do some
@@ -418,12 +423,12 @@ transcript:
   sec: 1125
   time: '18:45'
   who: Pauline
-- header: Responsibilities and challenges in indie hacking
 - line: I see. So you both work on everything? How do you split responsibilities between
     the two of you?
   sec: 1164
   time: '19:24'
   who: Alexey
+- header: 'Marketing Efforts: Audience Reach, Social Channels, and Challenges'
 - line: For Cryptopy, at first it was equally split for the development and then when
     we thought about launching an offer for people, we split it. She did the development,
     and I'm more in the marketing part – trying to find relationships, etc.
@@ -455,6 +460,7 @@ transcript:
   sec: 1213
   time: '20:13'
   who: Pauline
+- header: Operating Costs and Niche Product Strategy
 - line: Before we go into your second project – I'm really curious about that, too
     – maybe you can mention how much it costs you to maintain this thing. You said
     you're not actively working on this right now. It’s just there. But I guess you
@@ -491,7 +497,7 @@ transcript:
   sec: 1385
   time: '23:05'
   who: Pauline
-- header: Pauline’s latest indie hacking project
+- header: 'UnrealMe Origin: DreamBooth Inspiration and Rapid Prototyping'
 - line: So tell us about the other one you had.
   sec: 1413
   time: '23:33'
@@ -530,6 +536,7 @@ transcript:
   sec: 1537
   time: '25:37'
   who: Alexey
+- header: 'Implementation Decisions: API Fine-Tuning vs Self-Hosted GPUs'
 - line: First we studied. We were wondering, “Should we start from scratch with DreamBooth
     (DreamBooth is a model)? Should we use it with our own GPU?” Because it's fine
     tuning images, it uses GPU, and it's very expensive. We had this choice or we
@@ -569,7 +576,7 @@ transcript:
   sec: 1718
   time: '28:38'
   who: Pauline
-- header: Going live and marketing
+- header: 'Launch Channels: Twitter, Black Friday Listings, and Early Sales'
 - line: Okay. You said your first sale came even before you went live. You put the
     link somewhere?
   sec: 1721
@@ -629,7 +636,7 @@ transcript:
   sec: 1870
   time: '31:10'
   who: Pauline
-- header: Challenges with Unreal Me
+- header: Customer Acquisition and Pricing Constraints
 - line: What was the main challenge here for this project? In the previous project,
     you said the main challenge was reaching the target audience (crypto traders)
     and it's not easy. What was the main challenge here?
@@ -697,7 +704,7 @@ transcript:
   sec: 2084
   time: '34:44'
   who: Pauline
-- header: Staying motivated with indie hacking projects
+- header: 'Motivation: Creative Drive and Why Indie Hacking Matters'
 - line: What motivates you to do this? Why did you even start working on indie hacking?
     Because you wanted to learn more outside of your job? What was the main driver
     for you?
@@ -713,7 +720,7 @@ transcript:
   sec: 2108
   time: '35:08'
   who: Pauline
-- header: Skills Pauline picked up while doing indie hacking projects
+- header: 'Skills Gained: GCP, Data Engineering, Web Dev, and Marketing'
 - line: The skills that you acquire through these projects – through indie hacking
     – do they help you with your main job?
   sec: 2147
@@ -792,7 +799,7 @@ transcript:
   sec: 2359
   time: '39:19'
   who: Pauline
-- header: Balancing a day job and indie hacking
+- header: 'Work–Life Balance: Passion, Energy, and Time Management'
 - line: How do you balance your work at IBM with indie hacking? Is it difficult? I
     guess if you work from nine to five, and then at the end, you might be exhausted
     and then you have other projects to work on. How do you find the energy to do
@@ -840,7 +847,6 @@ transcript:
   sec: 2500
   time: '41:40'
   who: Pauline
-- header: Micro SaaS and AboutStartup.io
 - line: I saw a tweet from you – it was actually a reply. The tweet that you replied
     to was, “Do you have a list of micro SaaS ideas?” And you replied that “Of course,
     there are many on my list.” So maybe, can you tell us first of all, what is a
@@ -849,6 +855,7 @@ transcript:
   sec: 2519
   time: '41:59'
   who: Alexey
+- header: 'AboutStartup.io: Blog Concept, Interviews, and Monetization Paths'
 - line: Yeah. I don't know if the term “micro” is important but yeah, I have a lot
     of ideas. I have my Notion to-do list. Of course, I won't build them all. When
     I have an idea, I work on a project – if it works, that's cool, I can improve
@@ -894,7 +901,7 @@ transcript:
   sec: 2698
   time: '44:58'
   who: Pauline
-- header: How Pauline comes up with ideas for projects
+- header: 'Idea Generation: Frustration-Led Problems and Opportunity Sourcing'
 - line: I see. Interesting. You said you don't want to talk about particular ideas
     that you have on your list and that's understandable. But maybe you can tell us
     how these ideas ended up on your list? Where do you get ideas from?
@@ -951,7 +958,7 @@ transcript:
   sec: 2923
   time: '48:43'
   who: Pauline
-- header: Going from an idea on paper to building a project
+- header: 'Idea Validation: Competitor Scan, Skills Check, and Build Criteria'
 - line: And the way you do this – let's say you have an idea on this list that you
     haven't started working on yet. How do you go from this idea on the list to actually
     launching it? What are the steps?
@@ -971,7 +978,7 @@ transcript:
   sec: 2948
   time: '49:08'
   who: Pauline
-- header: Pauline’s Twitter success
+- header: 'Twitter Growth: Personal Branding and Audience Building'
 - line: Since you mentioned Twitter, you also said (correct me if I'm wrong) that
     you started your Twitter account in the summer of 2022. [Pauline agrees] Now,
     you recently tweeted that you have 10,000 followers. This means you got 10,000
@@ -1016,6 +1023,7 @@ transcript:
   sec: 3156
   time: '52:36'
   who: Pauline
+- header: 'Content Strategy: Balancing Data Science and Indie-Hacking Posts'
 - line: What do you think you followers like more, posts about data science or posts
     about indie hacking or something else?
   sec: 3158
@@ -1029,7 +1037,7 @@ transcript:
   sec: 3167
   time: '52:47'
   who: Pauline
-- header: Connecting with Pauline online
+- header: 'Community Access: Contact Options via Twitter and Slack'
 - line: I see that there is a question from Kevin. The question asks if there is any
     way to connect with you. Are your DMs on Twitter open? [Pauline confirms]. Okay,
     then we will have the link to your Twitter account in the description and then
@@ -1062,7 +1070,7 @@ transcript:
   sec: 3273
   time: '54:33'
   who: Pauline
-- header: Pauline’s indie hacking inspiration
+- header: 'Indie Inspiration: Pieter Levels and the “Many Projects” Approach'
 - line: So thank you. Happy New Year to you as well. Another question from Kevin is
     whether you know Pieter Levels. Do you know who Pieter Levels is?
   sec: 3275
@@ -1122,7 +1130,7 @@ transcript:
   sec: 3422
   time: '57:02'
   who: Pauline
-- header: Pauline’s resource recommendation
+- header: 'Recommended Resources: Data Sense and AboutStartup.io'
 - line: Do you have any book or other resources that you can recommend to the listeners?
   sec: 3430
   time: '57:10'
@@ -1142,7 +1150,7 @@ transcript:
   sec: 3469
   time: '57:49'
   who: Alexey
-- header: Conclusion
+- header: Episode Wrap-Up and Final Thoughts
 - line: I think we talked about pretty much everything.
   sec: 3499
   time: '58:19'
@@ -1180,7 +1188,6 @@ transcript:
   time: '59:27'
   who: Pauline
 ---
-
 Links:
 
 * [Website](https://wintopy.io/){:target="_blank"}

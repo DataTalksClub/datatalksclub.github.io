@@ -1,0 +1,30 @@
+00:00:00 Podcast Introduction
+00:01:53 Episode Overview: Building an Open‑Source Data Company
+00:03:19 Career Origins: 2012 Berlin Startups and Corporate Exit
+00:04:03 Freelancing Experience: Autonomy, Savings, Diverse Projects
+00:05:20 From Hourly Billing to Project-Based Work and Subcontracting
+00:07:18 Freelancing Lifestyle: Flexibility and Long‑Term Boredom
+00:08:46 Subcontracting Growth: Agency‑like Management Tradeoffs
+00:10:51 Agency Challenges: Responsibility, Incentives, and Misalignment
+00:12:31 Choosing Product Building Over Growing an Agency
+00:13:42 Recurring Pain: Stakeholder Alignment vs Technical Setup
+00:16:16 Target Users: Empowering Python Users with Dev Tooling
+00:17:51 Anti‑patterns: Dumping JSON into Data Warehouses
+00:19:38 DLT Concept: Declarative JSON→Relational Transformation
+00:23:30 Product Iteration: Engine, Abstractions, and User Feedback
+00:25:23 Team Formation: Meeting Co‑founders Through Projects
+00:27:39 Founding as Investment: Time, Risk, and Opportunity Cost
+00:31:08 Bootstrapping Strategy: Savings, Consulting Revenue, and Payroll
+00:34:20 Scrappy Operations: Office Squatting and Cost Management
+00:36:00 Workshop Validation: Teaching as a Product Feedback Loop
+00:37:28 Workshop Design: Checkpoints, Live Support, and CodeSpaces
+00:40:50 Product Identity: DLT as a Developer‑Focused Library
+00:41:23 Documentation Investment: When Docs Become Productive Assets
+00:44:00 Product–Market Fit Signals: Core Adoption and Removal Test
+00:47:56 Current Focus: Leading Go‑to‑Market and Bottom‑Up Strategy
+00:50:53 Ecosystem Partnerships: DocDB Integration and Joint Demos
+00:55:10 Roadmap: Paid Complement to the Open‑Source Library
+00:57:10 Source Generation Experiments: OpenAPI Generators for Pipelines
+00:58:11 Positioning vs Platforms: Library‑First vs Airbyte/Fivetran
+01:00:41 Recommended Reading: "From Survival to Thrival" on PMF
+01:00:56 Episode Wrap‑Up and Next Steps

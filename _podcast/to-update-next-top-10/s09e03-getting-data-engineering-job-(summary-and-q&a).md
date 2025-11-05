@@ -15,6 +15,7 @@ season: 9
 short: Getting a Data Engineering Job (Summary and Q&A)
 title: Getting a Data Engineering Job (Summary and Q&A)
 transcript:
+- header: Podcast Introduction
 - line: We had an amazing webinar about getting a data engineering job. It was a couple
     of weeks ago and it attracted a lot of attention. We had many questions and we
     didn't answer 12 of them. I thought it would be a pity just to throw away these
@@ -23,7 +24,7 @@ transcript:
   sec: 0
   time: 0:00
   who: Alexey
-- header: Summary of “Getting a Data Engineering Job” webinar
+- header: 'Webinar Recap: Hiring Demand and Skill Gaps'
 - line: For those who didn't listen to your webinar about getting a data engineering
     job, can you give a short summary of what you talked about there?
   sec: 36
@@ -37,6 +38,7 @@ transcript:
   sec: 48
   time: 0:48
   who: Jeff
+- header: 'Core Skills & Tools: Python, SQL, Docker, Airflow, Data Warehouses'
 - line: 'These skills are: backend engineering, cloud computing, and [building] data
     pipelines.'
   sec: 80
@@ -48,7 +50,7 @@ transcript:
   sec: 87
   time: '1:27'
   who: Jeff
-- header: Python and engineering skills
+- header: 'Python & SQL Depth: Project Volume and Emphasis'
 - line: You'll see that lots of people build projects that check these things off
     and post them on Reddit. But when I look at these projects, I see that there's
     not a lot of Python and SQL. And those are really the two main things you should
@@ -58,6 +60,7 @@ transcript:
   sec: 109
   time: '1:49'
   who: Jeff
+- header: 'Code Quality & OOP: Small Functions, Classes, Tests'
 - line: 'You also want to write cleaner code: small functions, like five fewer or
     fewer lines of code; use object oriented programming with 100 or fewer lines of
     code for each class; have descriptive naming; write tests. Show that this is a
@@ -65,6 +68,7 @@ transcript:
   sec: 142
   time: '2:22'
   who: Jeff
+- header: 'Portfolio Strategy: Personal Projects and Open Source Contributions'
 - line: You can showcase these skills in your own projects. But in addition to that,
     work on open source projects. This really enforces the quality of code. Your code
     needs to be reliable, to be tested - it should be close to professional level
@@ -76,12 +80,12 @@ transcript:
   sec: 166
   time: '2:46'
   who: Jeff
+- header: 'Application Funnel: LinkedIn, Resume, and Interview Stages'
 - line: That was the first half of the talk - discussing the skills and ways to get
     them.
   sec: 218
   time: '3:38'
   who: Jeff
-- header: Interview process
 - line: Then the second half of the talk is the interview process. You can think of
     it as a funnel. The bottom of the funnel is sending in the application or getting
     views on your LinkedIn. The middle of the funnel is the behavioural interview.
@@ -105,7 +109,7 @@ transcript:
   sec: 287
   time: '4:47'
   who: Jeff
-- header: Behavioral interviews
+- header: 'Behavioral Interview Best Practices: Positivity, Structure, Motivation'
 - line: Then the next step is the behavioural interview. For this too, I recommend
     speaking with a peer - someone that you trust, someone that you're close to. You'll
     take real feedback from them. Give them this criteria. You're a positive professional.
@@ -142,7 +146,7 @@ transcript:
   sec: 449
   time: '7:29'
   who: Jeff
-- header: Technical interviews
+- header: 'Technical Interview Formats: SQL LeetCode, Python Problems, Take-Home Projects'
 - line: After you get through the behavioural interview, then you have the technical
     interview. The easiest way to sum this up is generally it's leetcode SQL problems
     from medium to hard; and Python leetcode problems easy level.
@@ -179,6 +183,7 @@ transcript:
   sec: 554
   time: '9:14'
   who: Alexey
+- header: 'Core Database Concepts: Views, Materialized Views, OLTP vs OLAP'
 - line: Then you need to start applying. First, you send out applications. Then there's
     the behavioural interview. You need to show that you're a positive professional
     - you speak positively about things; you speak clearly; show that you're interested
@@ -199,7 +204,7 @@ transcript:
   sec: 631
   time: '10:31'
   who: Alexey
-- header: Learning Python and SQL from scratch
+- header: 'Learning Resources: Python Books, Flask Mega-Tutorial, SQL Platforms'
 - line: If you could go back in time, how would you learn about Python and SQL from
     scratch?
   sec: 684
@@ -240,6 +245,7 @@ transcript:
   sec: 845
   time: '14:05'
   who: Alexey
+- header: 'BI to Data Engineering Transition: Upskilling Within Your Role'
 - line: A question from Ilia. If I already work in BI and mostly use SQL and no-code
     tools, should I get the most from my current role to have a higher start in data
     engineering, or change without waiting?
@@ -267,6 +273,7 @@ transcript:
   sec: 938
   time: '15:38'
   who: Jeff
+- header: 'Job Search Strategy: Apply Broadly and Avoid Self-Filtering'
 - line: It's always worth keeping in mind that the job description describes the ideal
     candidate. This candidate usually does not exist. If you do not tick off the boxes,
     it doesn't mean that you shouldn't apply. If it's 60%, or 50%, you can still apply.
@@ -283,7 +290,7 @@ transcript:
   sec: 983
   time: '16:23'
   who: Jeff
-- header: Is having non-coding experience a disadvantage?
+- header: Leveraging Non-Coding Experience and Domain Expertise
 - line: Another question. I have almost 10 years of working experience, but non-coding
     related. Does that negatively impact the career path?
   sec: 1008
@@ -329,7 +336,7 @@ transcript:
   sec: 1156
   time: '19:16'
   who: Jeff
-- header: Analyst or engineer?
+- header: 'Role Differentiation: Data Analyst vs Data Engineer'
 - line: How to decide between data analysts or engineers?
   sec: 1197
   time: '19:57'
@@ -358,7 +365,7 @@ transcript:
   sec: 1275
   time: '21:15'
   who: Alexey
-- header: Do you need certificates?
+- header: 'Certifications vs Skills: When Certificates Help and When They Don’t'
 - line: Another question. I am just in my first year of an IT job in data integration.
     I monitor pipelines and solve data quality issues. I have a Python certificate
     from IBM and a data engineering certificate. Am I eligible to switch to a data
@@ -376,7 +383,7 @@ transcript:
   sec: 1356
   time: '22:36'
   who: Jeff
-- header: Do I need a master’s degree?
+- header: 'Master’s Degree Trade-offs: Research Depth vs Applied Learning'
 - line: And also it doesn't mean that if you go for a postgraduate degree in big data,
     you will automatically learn the skills. You'll spend two years learning interesting
     stuff. But after these two years, with a master's degree, you could be back to
@@ -434,7 +441,7 @@ transcript:
   sec: 1621
   time: '27:01'
   who: Jeff
-- header: Fully remote data engineering jobs
+- header: 'Remote Work Reality: Timezones, Legal Constraints, and Standout Candidates'
 - line: Okay, moving on to the next one. What do you think about fully remote - i.e.
     work from anywhere - data engineering jobs? I found many remote jobs, but all
     of them are based in the same country.
@@ -472,7 +479,7 @@ transcript:
   sec: 1756
   time: '29:16'
   who: Alexey
-- header: Should I include teaching on my resume?
+- header: 'Teaching & Coaching on Resume: Communication and Mentorship Value'
 - line: Okay, moving on. Should teaching and coaching on data science related classes
     be included in your CV in the past experience section?
   sec: 1806
@@ -510,7 +517,7 @@ transcript:
   sec: 1911
   time: '31:51'
   who: Alexey
-- header: Object-oriented programming for data engineering
+- header: 'OOP Relevance: Patterns for Airflow and Maintainable Code'
 - line: Moving on. Is object oriented programming a must for data engineering roles?
   sec: 1942
   time: '32:22'
@@ -523,7 +530,7 @@ transcript:
   sec: 1951
   time: '32:31'
   who: Jeff
-- header: Python vs Java/Scala
+- header: 'Language Choices: Python Focus; Java/Scala and Spark Considerations'
 - line: As for Java and Scala... I've had some students that didn't know Java but
     got hired in Java roles because they know object-oriented programming. So you
     can learn Java, but most of the roles that I see are Python. So that's what I
@@ -554,7 +561,7 @@ transcript:
   sec: 2090
   time: '34:50'
   who: Alexey
-- header: SQL and Python technical interview questions
+- header: 'Interview Load: Typical Number and Style of Technical Questions'
 - line: A question from Christian. How many technical questions are you given in the
     interview - SQL and Python? I guess this is a question about the technical interviews
     where we were talking about all the leetcode SQL and leetcode Python kind of questions.
@@ -595,7 +602,7 @@ transcript:
   sec: 2244
   time: '37:24'
   who: Jeff
-- header: GCP certificates
+- header: 'Cloud Certification Prep: Learning Fundamentals vs Credential Hunting'
 - line: I think we already talked a bit about certificates. So good. The question
     is, "Is GCP data engineer certification valuable for getting your first data engineering
     job?"
@@ -628,7 +635,7 @@ transcript:
   sec: 2360
   time: '39:20'
   who: Alexey
-- header: Is commercial experience really necessary?
+- header: 'Commercial Experience Alternatives: Nonprofits, Contract Work, Internships'
 - line: Another question. I find that open-source contributions still fall short as
     they ask for commercial experience. I think "they" refer to companies. You have
     open-source contributions, but companies want to have commercial experience from
@@ -685,7 +692,7 @@ transcript:
   sec: 2575
   time: '42:55'
   who: Alexey
-- header: From sales to engineering
+- header: 'Mid-Career Switch: Sales Skills as an Asset in Tech Hiring'
 - line: Okay. I am currently 40 and work in sales. How can I convince recruiters to
     give me a chance to do a career change? I'm currently pursuing a computer science
     degree.
@@ -718,7 +725,7 @@ transcript:
   sec: 2722
   time: '45:22'
   who: Alexey
-- header: Solution engineers
+- header: 'Solution Engineer Pathway: Pre-/Post-Sales Roles as Transition Options'
 - line: 'One other thing is finding solutions for problems. You find solutions for
     the customer, given a problem. We have students that are solutions engineers,
     and a lot of that involves sales. That''s a good background: it''s understanding
@@ -744,7 +751,7 @@ transcript:
   sec: 2834
   time: '47:14'
   who: Alexey
-- header: Wrapping up
+- header: Episode Wrap-Up and Further Resources
 - line: I think that is the last question. Amazing. So we covered all of these questions.
     It took a bit longer than I anticipated. But thanks a lot, Jeff, for being available
     and for taking some time to finish this.
@@ -756,7 +763,6 @@ transcript:
   time: '48:02'
   who: Jeff
 ---
-
 Links:
 
 * [Getting a Data Engineering Job (webinar)](https://www.youtube.com/watch?v=yvEWG-S1F_M){:target="_blank"}

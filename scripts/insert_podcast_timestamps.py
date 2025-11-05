@@ -168,13 +168,25 @@ Examples:
     
     args = parser.parse_args()
     
-    # Check if files exist
+    # Resolve file paths - try relative to current dir, then relative to project root
     file_path = Path(args.podcast_file)
+    if not file_path.exists():
+        # If not found, try relative to project root (where script is located)
+        script_dir = Path(__file__).parent
+        project_root = script_dir.parent
+        file_path = project_root / args.podcast_file
+    
     if not file_path.exists():
         print(f"Error: File not found: {args.podcast_file}", file=sys.stderr)
         sys.exit(1)
     
     timestamps_file = Path(args.timestamps_file)
+    if not timestamps_file.exists():
+        # Try relative to current directory first, then project root
+        script_dir = Path(__file__).parent
+        project_root = script_dir.parent
+        timestamps_file = project_root / args.timestamps_file
+    
     if not timestamps_file.exists():
         print(f"Error: Timestamps file not found: {args.timestamps_file}", file=sys.stderr)
         sys.exit(1)

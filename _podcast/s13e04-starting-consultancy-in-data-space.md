@@ -23,6 +23,7 @@ season: 13
 short: Starting a Consultancy in the Data Space
 title: Starting a Consultancy in the Data Space
 transcript:
+- header: Podcast Introduction
 - line: This week we'll talk about starting and running a consultancy in the data
     space. We have a special guest today, Aleksander. Aleksander was a product manager
     at Delivery Hero. Then he became a co-founder and failed a few startups. Currently,
@@ -41,7 +42,7 @@ transcript:
   sec: 101
   time: '1:41'
   who: Alexey
-- header: Aleksander’s background
+- header: Career Journey & Archaeology Origin Story
 - line: Before we start with our main topic of starting a data consultancy, let's
     start with your background. Can you tell us about your career journey so far?
     And please mention the archaeologist part.
@@ -81,6 +82,7 @@ transcript:
   sec: 119
   time: '1:59'
   who: Aleksander
+- header: 'Data Stack as a Service: Market and Technical Limits'
 - line: I’m wondering why. I see a lot of startups who work in this area and some
     of them are doing fine.
   sec: 256
@@ -109,7 +111,6 @@ transcript:
   sec: 320
   time: '5:20'
   who: Aleksander
-- header: The difficulty of selling data stack as a service
 - line: This is probably difficult for a startup that provides a data stack as a service.
     [Aleksander agrees] Because you only provide the stack and all the business knowledge
     – all the business transformation – happens after that.
@@ -148,7 +149,7 @@ transcript:
   sec: 434
   time: '7:14'
   who: Alexey
-- header: How Aleksander got into consulting
+- header: 'Transition to Consulting: Early Projects and First Customer'
 - line: Initially, we had a few other ideas about the product. The first one, we also
     validated very quickly and it just didn't make any sense. [chuckles] The idea
     was actually inspired by my inability to pull data from a SQL database back in
@@ -183,7 +184,7 @@ transcript:
   sec: 521
   time: '8:41'
   who: Aleksander
-- header: The Mom Test – extracting feedback from people
+- header: Customer Validation Techniques for Pre-Product Ideas
 - line: I’m wondering, how did it happen that you managed to sell an idea without
     having an actual implementation? Was it a part of your user research where you
     were reaching out to companies to understand what their problems are? And they
@@ -248,7 +249,7 @@ transcript:
   sec: 751
   time: '12:31'
   who: Aleksander
-- header: User interviews
+- header: 'User Interview Strategy: Questions, Frequency, and Evidence'
 - line: Can you maybe give us an example? How exactly does it work? Let's say you
     want to build a startup that sells data stack as a service. How do you approach
     these user interviews?
@@ -297,6 +298,7 @@ transcript:
   sec: 943
   time: '15:43'
   who: Alexey
+- header: 'Conducting Interviews: Pair Roles and Note-Taking'
 - line: Yeah. These conversations are usually… we didn't record them. We will take
     notes. Whenever we could, it would be the two of us doing a call. It's actually
     very beneficial to do it in pairs. You don't want more than two people. Because
@@ -333,6 +335,7 @@ transcript:
   sec: 1058
   time: '17:38'
   who: Alexey
+- header: 'Team Composition: PM + Engineer Partnership'
 - line: Marco is a software engineer.
   sec: 1067
   time: '17:47'
@@ -347,7 +350,7 @@ transcript:
   sec: 1079
   time: '17:59'
   who: Aleksander
-- header: Why Aleksander’s data stack as a service startup was not viable
+- header: 'Lessons from a Failed Product: Premature Build and Market Size'
 - line: Oh, so you could do both. [Aleksander agrees] Interesting. So you did these
     10-15 conversations following the Mom Test and then at the end found out that
     the problem is not big enough?
@@ -403,6 +406,7 @@ transcript:
   sec: 1162
   time: '19:22'
   who: Aleksander
+- header: 'Value Realization: Data Modeling vs Infrastructure'
 - line: This client of yours that you landed while conducting this Mom Test – they
     were interested in the product that you wanted to build, but then you kind of
     ended up consulting them, right? You said, “Let's build this thing for you.”
@@ -420,7 +424,7 @@ transcript:
   sec: 1316
   time: '21:56'
   who: Aleksander
-- header: How Aleksander decided to switch to consulting
+- header: 'Pivot Decision: Choosing Consulting to Capture Value'
 - line: How did you realize that building these models is what you want to do and
     that you and Marco want to start this consultancy company?
   sec: 1362
@@ -463,6 +467,7 @@ transcript:
   sec: 1370
   time: '22:50'
   who: Aleksander
+- header: 'Consulting Approach: Hands-On Implementation and Accountability'
 - line: I want to ask you about these simple, pragmatic, and boring things. But maybe
     before that, I’m curious. Why is it called consulting? Do you just go there, ask
     questions, or are you hands-on?
@@ -506,7 +511,7 @@ transcript:
   sec: 1639
   time: '27:19'
   who: Aleksander
-- header: Finding clients to consult
+- header: 'Client Acquisition: Network-First Outreach'
 - line: First, let me ask you about how you find these clients. You said that your
     clients are usually startups – pre-seed startups or series A startups – that do
     not necessarily have this data infrastructure. In order to do cool things in the
@@ -540,7 +545,7 @@ transcript:
   sec: 1758
   time: '29:18'
   who: Aleksander
-- header: Figuring out how to position your services
+- header: 'Positioning Services: Target Customers and Timing'
 - line: How would you actually do this? It sounds easy, right? You're just like, “Okay.
     Who is my target audience? How do we position ourselves?” It seems simple. But
     when you actually start, it's not easy, right? How do you actually do this? Mom
@@ -569,7 +574,7 @@ transcript:
   sec: 1837
   time: '30:37'
   who: Aleksander
-- header: Geographical limitations
+- header: 'Geographic Strategy: Europe Focus and VC Introductions'
 - line: Did you have any geographical restrictions? Did you focus on companies in
     Berlin or you just targeted everyone?
   sec: 1919
@@ -634,7 +639,6 @@ transcript:
   sec: 2163
   time: '36:03'
   who: Aleksander
-- header: Figuring out your target audience
 - line: What is that? In these two things – the first is the target customer, and
     then there’s the thing that you can solve for them. Is positioning related to
     the first one or the second or both?
@@ -648,6 +652,7 @@ transcript:
   sec: 2193
   time: '36:33'
   who: Aleksander
+- header: 'Messaging Example: Revenue and Marketing Optimization Offers'
 - line: Can you give an example of this messaging? Maybe this is what you’re suggesting
     to your customers right now? Maybe you can give an example of that?
   sec: 2223
@@ -701,7 +706,7 @@ transcript:
   sec: 2327
   time: '38:47'
   who: Aleksander
-- header: The importance of networking and marketing
+- header: 'Marketing Mix: Networking, Content, and LinkedIn'
 - line: Is there still room for consulting right now in this market?
   sec: 2450
   time: '40:50'
@@ -778,7 +783,7 @@ transcript:
   sec: 2665
   time: '44:25'
   who: Aleksander
-- header: Pricing your services
+- header: 'Pricing Framework: Value-Based Benchmarking'
 - line: There is a question that has been there for quite some time. I think now it's
     time we covered that. The question is, “How did you decide on pricing for your
     first client?”
@@ -845,6 +850,7 @@ transcript:
   sec: 2862
   time: '47:42'
   who: Aleksander
+- header: 'Rate Setting: Starting Rates, Maximums and Minimums'
 - line: Is there any rule of thumb for that? Let's say, “Take the salary of a senior
     data analyst and multiply it by two,” or something like that?
   sec: 2958
@@ -927,7 +933,7 @@ transcript:
   sec: 3135
   time: '52:15'
   who: Aleksander
-- header: The pitfalls of daily and hourly pricing and how to balance incentives
+- header: 'Contract Models: Day Rates vs Project Pricing and Incentives'
 - line: With the daily price – I have no experience in consulting, just something
     that's on my mind – you have this incentive to work for more days. So instead
     of thinking about, “What is the most effective way to solve the problem and have
@@ -1015,7 +1021,7 @@ transcript:
   sec: 3345
   time: '55:45'
   who: Aleksander
-- header: Is Germany a good place to found a company?
+- header: 'Legal & Administrative: Registering a Consultancy in Germany'
 - line: We don't have a lot of time so maybe I'll ask a very quick question with a
     yes or no answer. Is Germany a good country to register a consultancy company?
   sec: 3478
@@ -1051,7 +1057,7 @@ transcript:
   sec: 3568
   time: '59:28'
   who: Alexey
-- header: Aleksander’s book recommendations
+- header: 'Recommended Reading: Decision-Making and Interviewing Books'
 - line: Last question. Are there any books or other resources that you can recommend
     to our listeners?
   sec: 3569
@@ -1075,6 +1081,7 @@ transcript:
   sec: 3575
   time: '59:35'
   who: Aleksander
+- header: Closing Remarks and Episode Wrap-Up
 - line: Thank you. That's all we have time for today. Thanks a lot, Aleksander, for
     joining us today and for sharing your knowledge, expertise, and everything you
     learned from your experience of starting a consultancy company. Thanks, everyone
@@ -1084,7 +1091,6 @@ transcript:
   time: '1:01:26'
   who: Alexey
 ---
-
 Links:
 
 * [LinkedIn](https://www.linkedin.com/in/alkrusz/){:target="_blank"}

@@ -15,6 +15,8 @@ season: 15
 short: Investing in Open-Source Data Tools
 title: Investing in Open-Source Data Tools
 transcript:
+- header: Episode Start & Welcome
+- header: 'Guest Overview: Bela’s Role at a Family Office'
 - line: This week we'll talk about investing, and investing specifically in open source
     tools, and in data and ML tools. We have a special guest today, Bela. Bela is
     working for a German family office that invests in VC funds and early-stage startups
@@ -40,7 +42,7 @@ transcript:
   sec: 139
   time: '2:19'
   who: Alexey
-- header: Bela's background
+- header: 'Career Path: From Business Studies to Open Source Investing'
 - line: Before we go into our main topic of open source and investing in open source,
     let's start with your background. Can you tell us about your career journey so
     far?
@@ -94,6 +96,7 @@ transcript:
   sec: 307
   time: '5:07'
   who: Bela
+- header: 'Commercializing Open Source Communities: Company Builder Insights'
 - line: Okay. So in your studies, you learn how to run a business, how companies structure,
     and all that. With this background, you joined a company that was interested in
     commercializing open source communities. What does that actually mean “commercializing
@@ -158,7 +161,7 @@ transcript:
   sec: 548
   time: '9:08'
   who: Bela
-- header: Why startups even need investors
+- header: Why Venture Funding Matters for Early-Stage Startups
 - line: Why are investors needed at all? Can't founders just start companies without
     your help? Why are you needed?
   sec: 584
@@ -222,7 +225,7 @@ transcript:
   sec: 766
   time: '12:46'
   who: Bela
-- header: Why open source is a viable go-to-market strategy
+- header: 'Open Source as Go-to-Market: Community Trust and Distribution'
 - line: It's not one of the questions we planned to ask you, but maybe you have some
     ideas about the following. Why do companies actually do business in open source?
     It's a very difficult business model, right? You open all the code from the very
@@ -279,7 +282,7 @@ transcript:
   sec: 972
   time: '16:12'
   who: Bela
-- header: Building a bottom-up community
+- header: 'Bottom-Up Distribution: Developer Adoption Feeding Enterprise Sales'
 - line: And what does a “bottom-up community” actually mean?
   sec: 1000
   time: '16:40'
@@ -312,8 +315,7 @@ transcript:
   sec: 1081
   time: '18:01'
   who: Bela
-- header: The investment thesis for the TKM Family Office and the blurriness of the
-    funding round naming convention
+- header: 'Investment Focus: Early-Stage B2B Developer, Data & AI Tooling'
 - line: When preparing for this podcast episode, I learned a new word –“thesis”. Well,
     I did know this word, but in a different context. For me, it was something like
     a Master's thesis – the thing I wrote at university. But here, you already mentioned
@@ -333,6 +335,7 @@ transcript:
   sec: 1154
   time: '19:14'
   who: Bela
+- header: 'Funding Stage Primer: Angels, Pre-Seed, and Seed Explained'
 - line: Before we go to other rounds, what does it actually mean to have an “angel
     round” or “pre-seed round”? Why “angel”?
   sec: 1187
@@ -380,6 +383,7 @@ transcript:
   sec: 1267
   time: '21:07'
   who: Bela
+- header: 'Fundraising Strategy: 12–18 Month Runway & Use of Proceeds'
 - line: Typically, a company, or a founder, says, “Hey, this is what I have. Give
     me some money.” They put in an open call, or maybe they reach out to different
     investors, and then the investors think, “Okay, this is promising. Here's some
@@ -402,6 +406,7 @@ transcript:
   sec: 1356
   time: '22:36'
   who: Bela
+- header: 'Geographic & Sector Focus: Europe and Developer Stack Niches'
 - line: Okay. So you focus on Angel rounds, Pre-seed rounds, and Seed rounds – the
     early stage, when companies do not have much in terms of money (in terms of investment)
     yet. And you focus on open source. Right?
@@ -424,7 +429,7 @@ transcript:
   sec: 1439
   time: '23:59'
   who: Bela
-- header: Angel investors vs VC Funds vs family offices
+- header: 'Investor Types Compared: Angels, VCs, and Family Offices'
 - line: We already talked about Angels – they are individuals who have some money
     and they invest. Maybe not a lot of money, but they have some money that they
     say, “Okay, this startup's promising. Here's a small investment.” There are also
@@ -498,6 +503,7 @@ transcript:
   sec: 1756
   time: '29:16'
   who: Bela
+- header: 'Check Sizes & Stage Variability: No One-Size-Fits-All'
 - line: I was going to ask you about these checks. You mentioned that family offices
     typically give larger checks. I know a few people who do angel Investing, and
     from what they told me, the investments they make are not large – it can be 10,000,
@@ -539,7 +545,7 @@ transcript:
   sec: 1934
   time: '32:14'
   who: Bela
-- header: Bela's investment criteria and GitHub stars as a metric
+- header: 'Investment Criteria: Team, Market Need, and Commercialization Plan'
 - line: When you invest in open source companies, what do you actually look at? What
     are the criteria you use to make a decision whether you want to give them money
     or not, and how much you want to give them?
@@ -599,6 +605,7 @@ transcript:
   sec: 1966
   time: '32:46'
   who: Bela
+- header: 'Early-Stage Signals: Assessing Problem Validity over PMF'
 - line: So you look at the founders and the team, then you look at product market
     fit – whether there is a need in the market and how large it is. Right?
   sec: 2187
@@ -624,6 +631,7 @@ transcript:
   sec: 2233
   time: '37:13'
   who: Bela
+- header: 'Due Diligence: Founder Calls, User Interviews, and Co-Investor Checks'
 - line: Do you have an interview with them where you ask these questions and they
     reply? Or do they do a presentation? How does it usually work?
   sec: 2239
@@ -655,6 +663,7 @@ transcript:
   sec: 2320
   time: '38:40'
   who: Bela
+- header: 'Community Metrics: Interpreting GitHub Stars vs. Active Engagement'
 - line: We did talk a bit about GitHub stars. You said that this is not the most important
     metric, but you still look at this sometimes because it gives you an idea of how
     discoverable [the product] is. At the end, you do look, but, maybe the important
@@ -702,13 +711,13 @@ transcript:
   sec: 2463
   time: '41:03'
   who: Bela
+- header: 'Sourcing Deal Flow: GitHub Screening, Data Tools, and Networking'
 - line: So if a project is on the Trending page, it's most likely already too late
     for you to invest in this project. How do you actually find projects to invest
     in?
   sec: 2538
   time: '42:18'
   who: Alexey
-- header: Inbound sourcing, outbound sourcing, and investor networking
 - line: Networking is a large part of venture capital in general – knowing people
     who know people who know people. But for us, it's also more and more about looking
     and screening GitHub – I have my search queries where I look for startups. A lot
@@ -730,6 +739,7 @@ transcript:
   sec: 2546
   time: '42:26'
   who: Bela
+- header: 'Daily Sourcing Routine: Allocating Time for Outbound Discovery'
 - line: So how much time do you spend on discovering projects and products?
   sec: 2649
   time: '44:09'
@@ -771,7 +781,7 @@ transcript:
   sec: 2755
   time: '45:55'
   who: Bela
-- header: Making a good impression on an investor
+- header: 'Inbound Outreach: How Founders Should Pitch Investors'
 - line: Speaking of inbound leads, or whatever the right term is – when somebody contacts
     you, how can they make a good impression? How can they pitch their project in
     such a way that you would actually decide to talk to them?
@@ -831,7 +841,7 @@ transcript:
   sec: 2955
   time: '49:15'
   who: Alexey
-- header: Balancing open and closed source parts of a product
+- header: 'Open-Core & Licensing Strategies: Mixing Open and Proprietary Code'
 - line: We have a question which is quite related to what we just talked about. The
     question is, “We are building a conversational data tool. Some parts will be open
     source, while some other parts will remain closed source. Would you consider this
@@ -857,6 +867,7 @@ transcript:
   sec: 2986
   time: '49:46'
   who: Bela
+- header: 'Monetization Models: Hosted Services, Enterprise Licenses, Support'
 - line: We have open core, which is a model where there are some features that are
     closed, and they offer something like a “cloud version” of the tool – a hosted
     version. You don't have to host this thing yourself. What are the other models
@@ -927,6 +938,7 @@ transcript:
   sec: 3282
   time: '54:42'
   who: Alexey
+- header: 'Scalability Considerations: Limits of Support-Based Revenue'
 - line: So as I said, this is maybe great for bootstrapping, but I would say this
     is not really liked by investors because it's not scalable. You always have to
     think about... if you want to go the investment route, you have to figure out
@@ -947,7 +959,7 @@ transcript:
   sec: 3330
   time: '55:30'
   who: Bela
-- header: The future of open source
+- header: 'Open Source Outlook: Paths to Market Leadership and Challenges'
 - line: Another question. “How do you think open source will look in the future? Will
     it become more popular or less popular? What's your opinion on that?”
   sec: 3333
@@ -974,7 +986,7 @@ transcript:
   sec: 3344
   time: '55:44'
   who: Bela
-- header: Recent successes of open source companies
+- header: 'Recent Open Source Successes: Hugging Face, Supabase, Kong, Qdrant'
 - line: Do you know any more or less recent success stories of companies doing open
     source? Of course, there is Linux, Red Hat – companies like that, which have been
     around for a very long time. I know MySQL, Oracle, and Java have been around for
@@ -1020,7 +1032,7 @@ transcript:
   sec: 3617
   time: '1:00:17'
   who: Bela
-- header: Bela's resource recommendations
+- header: Recommended Reading & Resources on Investing and Community Building
 - line: Last question for you – we should be wrapping up. The question is, “Do you
     know any good book or other resource that you can recommend to the listeners or
     somebody who wants to learn more about investing and about things that we talked
@@ -1053,6 +1065,7 @@ transcript:
   sec: 3712
   time: '1:01:52'
   who: Bela
+- header: Episode Wrap-Up & Closing Remarks
 - line: Okay. On that note, I want to thank you for investing your time (one hour)
     to talk to us and share everything you learned, or at least everything I asked
     you. Thanks for that. And thanks, everyone, for joining us today and asking your
@@ -1071,7 +1084,6 @@ transcript:
   time: '1:02:41'
   who: Alexey
 ---
-
 Links:
 
 * [Understand who is engaging with your open source project article](https://www.crowd.dev/){:target="_blank"}

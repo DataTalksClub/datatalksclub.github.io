@@ -2,6 +2,14 @@
 episode: 6
 guests:
 - lukewhipps
+topics:
+- Job search
+- Career Growth
+- Hiring
+- Technical Interviews
+- Data Science
+- Portfolio Building
+- Interview
 ids:
   anchor: Preparing-for-a-Data-Science-Interview---Luke-Whipps-e1tsh5d
   youtube: NnZjlMowkWA
@@ -15,6 +23,7 @@ season: 12
 short: Preparing for a Data Science Interview
 title: Preparing for a Data Science Interview
 transcript:
+- header: 'Guest Introduction: Luke Whipps & Neural AI'
 - line: This week, we'll talk about preparing for a technical data science interview.
     We have a special guest today, Luke. Luke is a co-founder of Neural AI, a company
     that specializes in recruiting data scientists and other AI professionals. He
@@ -39,7 +48,7 @@ transcript:
   sec: 149
   time: '2:29'
   who: Alexey
-- header: Luke’s background
+- header: 'Recruitment Career Overview: ML focus, startups, Germany'
 - line: What have you been up to since we spoke last time? Maybe also tell us in your
     words about yourself before that.
   sec: 183
@@ -71,6 +80,7 @@ transcript:
   sec: 192
   time: '3:12'
   who: Luke
+- header: 'Remote Work & Client Geography: UK base serving German market'
 - line: But you're not based in Germany, right?
   sec: 280
   time: '4:40'
@@ -169,7 +179,7 @@ transcript:
   sec: 504
   time: '8:24'
   who: Luke
-- header: Luke’s podcast - AI Game Changers
+- header: 'Podcast Purpose: AI Game Changers format and goals'
 - line: I’m glad to hear that. So tell us about your podcast.
   sec: 515
   time: '8:35'
@@ -229,7 +239,7 @@ transcript:
   sec: 708
   time: '11:48'
   who: Luke
-- header: How Luke helps people get jobs
+- header: 'Recruiter Strategy: Embedded talent specialist and candidate coaching'
 - line: I don't know if it's just boredom, but maybe a need to be connected? [Luke
     agrees]. Well, you said during the pandemic times, you wanted to do something
     for the community, but you couldn't help them get jobs. So you decided to do a
@@ -290,7 +300,7 @@ transcript:
   sec: 931
   time: '15:31'
   who: Luke
-- header: What’s changed in the recruitment market over the last 6 months
+- header: 'Market Snapshot: hiring trends, layoffs, and candidate concerns'
 - line: Okay. [laughs] We should probably go through each of these – as you said,
     there's the intro stage, technical stage, talking to management, negotiation.
     I definitely want to cover all that. But before that, I have a very interesting
@@ -413,7 +423,7 @@ transcript:
   sec: 1200
   time: '20:00'
   who: Luke
-- header: Getting ready for the interview process
+- header: 'Interview Process Overview: stages, scope, and assumptions'
 - line: 'Okay. Well, the topic today is technical interviews, right? You said that
     you, as a recruiter, are quite involved in the interview process. What you do
     is help the candidates at every stage, which you mentioned are: introduction stage,
@@ -476,7 +486,7 @@ transcript:
   sec: 1545
   time: '25:45'
   who: Alexey
-- header: Stage “zero” – the filter between the candidate and the company
+- header: 'Stage Zero: recruiter screening and role-fit filtering'
 - line: Yeah. Do you think those are fair assumptions, though? [Alexey agrees] Yeah,
     cool. The intro meeting is obviously going to be the first stage with all candidates.
   sec: 1550
@@ -527,7 +537,7 @@ transcript:
   sec: 1603
   time: '26:43'
   who: Luke
-- header: Preparing for the introduction stage – research and communication
+- header: 'Intro Interview Prep: objectives, structure, and relationship building'
 - line: First stage is obviously always going to be the intro meeting. Again, there
     are going to be different ways that companies run this, but typically, it’s 30-40
     minutes of conversation. I guess the key thing that most people are trying to
@@ -566,6 +576,7 @@ transcript:
   sec: 1795
   time: '29:55'
   who: Alexey
+- header: 'Interviewer Research: personality signals and communication matching'
 - line: There are two elements to that. It's the pre-research and the immediate things
     that you do on the call with that person. If I was going to interview you, Alexey,
     you're a brilliant example of somebody that you can actually research. For a lot
@@ -721,7 +732,6 @@ transcript:
   sec: 2261
   time: '37:41'
   who: Luke
-- header: Reviewing the fundamentals during preparation
 - line: I took a look at the time and realized that the topic for this interview is
     technical interview. I love the topic. This is really interesting – 16 personalities
     and how you assess the person. Anything else you want to mention regarding the
@@ -729,6 +739,7 @@ transcript:
   sec: 2294
   time: '38:14'
   who: Alexey
+- header: 'Message Preparation: elevator pitches and STAR storytelling'
 - line: 'Yeah, there''s one more thing. Typically, you''ll have standardized questions:
     “Tell me a bit about you. What''s your background? Tell me about some projects
     that you''ve worked on. What are you looking for?” All the normal everyday recruitment
@@ -792,7 +803,7 @@ transcript:
   sec: 2492
   time: '41:32'
   who: Luke
-- header: Preparing for the technical part of the interview
+- header: 'Technical Interview Components: binary, scenario, example, and coding'
 - line: What is it? What do we usually have in the technical part? Is it coding? Theory
     questions? What else?
   sec: 2495
@@ -850,7 +861,7 @@ transcript:
   sec: 2602
   time: '43:22'
   who: Luke
-- header: Establishing the hiring company’s expectations
+- header: 'Aligning Expectations: clarifying technical depth with recruiters'
 - line: So you do this before – let's say I am working with you, I passed the introduction
     stage, and now you have a technical interview with somebody like a senior data
     scientist. So what do I do? Do I ask you or do I ask that person, “What are your
@@ -904,7 +915,7 @@ transcript:
   sec: 2881
   time: '48:01'
   who: Alexey
-- header: Depth vs breadth
+- header: 'Prep Prioritization: fundamentals first, then secondary and ideal skills'
 - line: Yeah, for sure. I always think it's like – if you imagine three circles of
     depth, the first point is fairly basic, everyone should understand points about
     this. I would never skip over those points, because candidates sometimes when
@@ -955,6 +966,7 @@ transcript:
   sec: 3023
   time: '50:23'
   who: Alexey
+- header: 'Question Flow Strategy: follow-ups to probe deeper understanding'
 - line: Yeah. But then if that is the case, we should know that. Right? If someone's
     going in for a “breadth interview”, where they want to see how much you know in
     cloud, and X, and Y, and Z, and all of these areas, then that's what we should
@@ -989,7 +1001,7 @@ transcript:
   sec: 3060
   time: '51:00'
   who: Luke
-- header: Overly theoretical and mathematical questions in interviews
+- header: 'Theory vs. Practice: relevance of mathematical and theoretical questions'
 - line: I'm just thinking, “How do I stop you?” [laughs] [cross-talk] It’s fine. I’m
     joking. I see that we have three questions. Maybe it's time we actually covered
     them. The first question is “What do you think of companies that mainly ask very
@@ -1031,7 +1043,6 @@ transcript:
   sec: 3257
   time: '54:17'
   who: Luke
-- header: Bombing (failing) in the middle of an interview
 - line: How do you keep going with an interview if you've flopped in between and feel
     uncomfortable? What does “flopped” mean? It’s like if you’ve failed?
   sec: 3294
@@ -1053,6 +1064,7 @@ transcript:
   sec: 3313
   time: '55:13'
   who: Alexey
+- header: 'Recovering from Failure: bombing interviews, feedback, and retakes'
 - line: Sorry, man. [laughs] I guess it depends. Sorry, I know it's a really awful
     answer. But I guess it depends on how you’ve bombed and how that feels in the
     scenario. It'd be good if they could give me a little bit more of a specific but…
@@ -1130,7 +1142,7 @@ transcript:
   sec: 3510
   time: '58:30'
   who: Luke
-- header: Applying to different roles within the same company
+- header: 'Applying Internally: focused applications and direct outreach tactics'
 - line: A question from Alvin. “Is it okay to apply to different roles in the same
     company within a short amount of time?”
   sec: 3527
@@ -1158,7 +1170,7 @@ transcript:
   sec: 3537
   time: '58:57'
   who: Luke
-- header: Luke’s resource recommendations
+- header: 'Practice Resources: LeetCode, HackerRank, Codeforces, Educative'
 - line: Yeah, I can add to that. I also see nothing wrong with that. We sometimes
     have positions that look similar, but they're from different teams. Talk to the
     recruiter on the first interview and say, “Yeah, I applied to other positions,
@@ -1194,6 +1206,7 @@ transcript:
   sec: 3697
   time: '1:01:37'
   who: Luke
+- header: 'Supplemental Material: Luke’s interview prep document (show notes)'
 - line: Is there any chance we could do that in the show notes? It will be released
     in a couple of weeks.
   sec: 3703
@@ -1204,7 +1217,7 @@ transcript:
   sec: 3712
   time: '1:01:52'
   who: Luke
-- header: Conclusion
+- header: Closing Remarks and Episode Wrap-up
 - line: Okay, it's always a pleasure talking with you. Second time was fun. Maybe
     we should have a couple of beers and do a third one.
   sec: 3717
@@ -1220,7 +1233,6 @@ transcript:
   time: '1:02:10'
   who: Alexey
 ---
-
 Links:
 
 * [Luke's LinkedIn](https://www.linkedin.com/in/lukewhipps/){:target="_blank"}

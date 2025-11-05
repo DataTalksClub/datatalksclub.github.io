@@ -15,6 +15,7 @@ season: 16
 short: From a Research Scientist at Amazon to a Machine learning/AI Consultant
 title: From a Research Scientist at Amazon to a Machine learning/AI Consultant
 transcript:
+- header: Episode Introduction
 - line: This week, we'll talk about being a research scientist at Amazon, and transitioning
     from being a research scientist to doing freelancing and consulting. We have a
     special guest today, Verena. Verena has strong expertise in NLP and machine learning,
@@ -33,7 +34,7 @@ transcript:
   sec: 96
   time: '1:36'
   who: Alexey
-- header: Verena’s background
+- header: 'Early Education: From Economics & Chinese to Statistics'
 - line: Before we go into our main topic of being research scientists and transitioning
     to a freelancer in machine learning, let's start with your background. Can you
     tell us about your career journey so far?
@@ -62,6 +63,7 @@ transcript:
   sec: 188
   time: '3:08'
   who: Alexey
+- header: Discovering Data Science During Master’s Studies
 - line: Yeah, econometrics, time series – all these kinds of things. Then I also did
     my Bachelor Thesis in statistics and went on to do the Master in statistics. Back
     at the time, data science was not that much of a hype yet, so I was really doing
@@ -75,6 +77,7 @@ transcript:
   sec: 217
   time: '3:37'
   who: Alexey
+- header: 'Career Progression: Consulting, In‑house Roles, and Platform Data'
 - line: I did the Master's in Berlin, yeah. This was a joint statistics program from
     the Free University, Humboldt University, and the Technical University. They have
     this Joint Master Program. Basically, I discovered data science and machine learning
@@ -120,13 +123,14 @@ transcript:
   sec: 393
   time: '6:33'
   who: Alexey
+- header: 'Freelance Transition: Becoming a Generative AI Consultant'
 - line: After Amazon? [chuckles] Yeah, now I'm working as a freelance Generative AI
     Consultant, enabling small and medium businesses to prepare for the GenAI revolution
     that we're going to witness in the next few years.
   sec: 397
   time: '6:37'
   who: Verena
-- header: Getting hired at Amazon without a Phd
+- header: 'Landing a Research Role Without a PhD: Hiring Dynamics'
 - line: I have a lot of questions about that. But first, I was curious to learn more
     about your transition from a data scientist to a research scientist, because I
     remember… When I was working as a data scientist, I kind of missed doing a bit
@@ -185,7 +189,7 @@ transcript:
   sec: 605
   time: '10:05'
   who: Verena
-- header: Research at Amazon
+- header: 'Amazon Research: Customer‑Focused, Production‑Oriented Work'
 - line: You said that research at Amazon is not the same as research in academia.
     So what does research at Amazon look like? What do you actually do there?
   sec: 641
@@ -207,6 +211,7 @@ transcript:
   sec: 693
   time: '11:33'
   who: Alexey
+- header: Using State‑of‑the‑Art Models and Publishing in Industry Tracks
 - line: Yeah. Basically, before you start, there's three things you need to look into.
     First, “What is the customer problem? How do we define the problem clearly?” Then,
     second, “What are the possible solutions?” and, “How are they going to solve the
@@ -284,7 +289,7 @@ transcript:
   sec: 974
   time: '16:14'
   who: Verena
-- header: Publishing papers and solving customer problems
+- header: Prioritizing Business Impact Over Publication Counts
 - line: I'm curious – so, the goal was to actually solve customers’ problems but yet,
     you had another goal, publishing papers – which was more important? Was publishing
     papers the main KPI?
@@ -314,6 +319,7 @@ transcript:
   sec: 1033
   time: '17:13'
   who: Verena
+- header: 'Research Output: Project Cadence and Paper Frequency'
 - line: As we speak, I'm looking at your LinkedIn profile and I see that you worked
     at Amazon for three years, nine months – so almost four years. How many papers
     (research projects) did you get a chance to work on?
@@ -356,7 +362,7 @@ transcript:
   sec: 1116
   time: '18:36'
   who: Verena
-- header: What it means to be a leading scientist on a project at Amazon
+- header: 'Project Leadership: Ownership, Stakeholders, and Delivery'
 - line: What does it mean to be a leading scientist on a project?
   sec: 1147
   time: '19:07'
@@ -404,7 +410,6 @@ transcript:
   sec: 1279
   time: '21:19'
   who: Verena
-- header: Does having a PhD give you an edge in industry?
 - line: The reason I brought it up was because there is a question from Atita. The
     question is, “How does having a PhD help getting some leverage over those who
     don't?” I guess the reason she's asking is, as I see from the question, “Do you
@@ -430,7 +435,7 @@ transcript:
   sec: 1323
   time: '22:03'
   who: Verena
-- header: An example of Verena’s published paper
+- header: 'Model‑in‑the‑Loop Annotation Study: Design and Rationale'
 - line: I'm looking at your Google Scholar, and there is one paper with six citations
     that you published in 2021, which is, “Is it better to verify semi-supervised
     learning with a human in the loop or large scale NLU models?” It’s a long name.
@@ -466,6 +471,7 @@ transcript:
   sec: 1518
   time: '25:18'
   who: Alexey
+- header: 'Annotation Outcomes: Time Savings and Improved Consistency'
 - line: It saves time. Exactly. But it also reduces the annotation volume a lot. I
     mean, if you imagine – Alexa was launched, I think seven or eight years ago now
     – and German was one of the first languages that came after English. So the model
@@ -518,7 +524,7 @@ transcript:
   sec: 1662
   time: '27:42'
   who: Verena
-- header: Evaluating models and high-performing Alexa utterances
+- header: Model Evaluation Strategy and Stabilizing High‑Traffic Utterances
 - line: How do you evaluate the performance of these models? I guess, you send it
     to the annotators – they say “Yes, no.” Right?
   sec: 1667
@@ -623,7 +629,7 @@ transcript:
   sec: 1895
   time: '31:35'
   who: Verena
-- header: Verena as a freelancer
+- header: 'Why Freelance: Impact on SMEs, Flexibility, and Entrepreneurship'
 - line: '[laughs] Okay, yeah. Recently, you decided to focus on something else that''s
     quite different from what you were doing, right? Now, you''re a freelancer. Can
     you maybe tell us more about that? What do you do now and how did you make this
@@ -631,6 +637,7 @@ transcript:
   sec: 1903
   time: '31:43'
   who: Alexey
+- header: 'Service Offerings: Generative AI Workshops and Use‑Case Discovery'
 - line: Yeah. I don't know if it's… I mean, it is different in the sense that I'm
     not working on one model anymore. But, of course, there is still going to be quite
     some overlap in terms of topic. As I said before, my goal is to support companies
@@ -693,7 +700,7 @@ transcript:
   sec: 2133
   time: '35:33'
   who: Alexey
-- header: Verena’s goals to support women in IT
+- header: 'Supporting Women in AI: Goals and Planned Initiatives'
 - line: Yeah, both. And maybe also have a bit more overlap between the two. One of
     the things that I want to do is support women in AI. Maybe you know about this
     study from Kinsey digital, that [says] half of women leave the tech industry at
@@ -746,7 +753,7 @@ transcript:
   sec: 2274
   time: '37:54'
   who: Verena
-- header: The challenges of being self-employed
+- header: 'Self‑Employment Realities: Taxes, Health Insurance, and Admin'
 - line: When I became self-employed this year, I was very surprised by how expensive
     health insurance is in Germany. Maybe it's less expensive than in the States,
     but still, when all these costs (all these taxes) are hidden and being a full-time
@@ -768,7 +775,7 @@ transcript:
   sec: 2328
   time: '38:48'
   who: Verena
-- header: Verena’s pitch deck
+- header: 'Crafting a Pitch Deck: Positioning, Evidence, and Rates'
 - line: Can you tell us what you’re working on?
   sec: 2343
   time: '39:03'
@@ -813,7 +820,7 @@ transcript:
   sec: 2423
   time: '40:23'
   who: Verena
-- header: Finding your audience and identifying their pain points
+- header: 'Finding Clients: Network Conversations, Mentorship, and Events'
 - line: So with skills that I have – with the strengths and values that I can bring
     – it's more or less clear. Maybe it's not always… I always know that these are
     my strengths. I know, more or less, what I'm good at, what I'm not good at, if
@@ -915,7 +922,7 @@ transcript:
   sec: 2847
   time: '47:27'
   who: Verena
-- header: Why Verena chose generative AI
+- header: 'Choosing Generative AI: NLP Passion and Market Opportunity'
 - line: Why did you decide to go with generative AI?
   sec: 2871
   time: '47:51'
@@ -952,6 +959,7 @@ transcript:
   sec: 2922
   time: '48:42'
   who: Alexey
+- header: 'Tailoring the Deck: Long Format, Short Versions, and Website'
 - line: Yeah. What I'm doing first is building a long deck that has a couple of slides
     that really have everything in it. Basically, some slides show, “Okay, why do
     you have to act on this generative AI revolution? What are the facts? What can
@@ -988,6 +996,7 @@ transcript:
   sec: 3047
   time: '50:47'
   who: Verena
+- header: 'Early Leads: LinkedIn Visibility and Network Referrals'
 - line: So even without this pitch deck, you already have some potential projects.
     How? Is it because people from your network already know that you are a freelancer
     and they came to you before somebody else took you?
@@ -1002,7 +1011,7 @@ transcript:
   sec: 3118
   time: '51:58'
   who: Verena
-- header: Verena’s LinkedIn posts and sound baths
+- header: 'Content Strategy: Technical Posts, Papers, and Personal Growth'
 - line: What do you post about, typically, on LinkedIn?
   sec: 3154
   time: '52:34'
@@ -1022,6 +1031,7 @@ transcript:
   sec: 3192
   time: '53:12'
   who: Alexey
+- header: 'Side Projects & Wellbeing: Sound Baths and Creative Outlets'
 - line: Crystal balls! [chuckles]
   sec: 3213
   time: '53:33'
@@ -1072,7 +1082,7 @@ transcript:
   sec: 3299
   time: '54:59'
   who: Verena
-- header: The importance of building a foundation based on formal education
+- header: 'Educational Foundation: Statistics, Probability, and Reading Papers'
 - line: Yeah, please do. Okay, that's very interesting. Let me check if we have questions.
     Yeah. A question from Taras. Taras asks, “What role did your formal education
     (school and university) play in your career?”
@@ -1135,7 +1145,7 @@ transcript:
   sec: 3472
   time: '57:52'
   who: Verena
-- header: Verena’s resource recommendations
+- header: 'Recommended Resources: Books and Podcasts'
 - line: Okay. Well, maybe one last question before we finish, “Is there any book or
     other resource that you can recommend to our listeners?”
   sec: 3473
@@ -1203,6 +1213,7 @@ transcript:
   sec: 3632
   time: '1:00:32'
   who: Verena
+- header: Closing Remarks and Contact Information
 - line: Exactly. Okay. Thanks a lot for joining us today, for sharing your experience
     and telling us about things you plan to work on and things you worked on. That
     was really great. Thanks! And thanks, everyone, for joining us today, too.
@@ -1220,7 +1231,6 @@ transcript:
   time: '1:00:56'
   who: Alexey
 ---
-
 Links:
 
 * [Verena's website](https://www.verenaweber.de/){:target="_blank"}

@@ -1,0 +1,27 @@
+00:00:00 Podcast Introduction & Episode Overview
+00:01:51 Valerii Background: Career Snapshot and Kaggle Achievements
+00:03:21 Blockchain.com Role: Scope, Responsibilities, and Data Ownership
+00:05:46 Transition to Meta: User Privacy Work and Large-Scale ML Experience
+00:07:31 Hiring Experience: Conducting High-Volume Interviews and Team Leadership
+00:09:12 Candidate Targeting: Who Faces ML System Design Interviews
+00:11:23 Interview Structure: 45-Minute Narrative and Evaluation Goals
+00:13:58 Contrast: Software System Design Versus ML System Design
+00:13:58 Fraud Detection Case Study: Probabilities, Loss Functions, and Real-Time Needs
+00:16:43 Labeling, Class Imbalance, and Feature Engineering Tradeoffs
+00:20:33 Interview Tactics: Stating Assumptions and Getting Alignment
+00:22:05 Example: Points-of-Interest System vs Personalized Recommender
+00:24:28 End-to-End ML Pipeline: Metrics, Baselines, and A/B Testing
+00:29:09 Securing the Interview: Iterative Baselines and Signposting Depth
+00:31:58 Appropriate Depth: Practical ML Decisions vs Research-Level Detail
+00:33:31 Preparation Strategies: Mock Interviews, Resources, and Experience
+00:37:59 Industry Checklist: Core ML Project Review Items and Patterns
+00:40:11 Defining Goals and Proxy Metrics: Business Alignment and Long-Term Health
+00:44:11 Features, Labels, Model Selection, and Validation Workflow
+00:46:02 Production Robustness: Monitoring, Distribution Shift, and Fallbacks
+00:47:52 System Components: Why Features Matter More Than Model Architecture
+00:50:57 Engineering Integration: Serving Models, Embeddings, and MLOps Roles
+00:52:25 When to Avoid ML and Useful Design Pattern References
+00:54:07 New Grad Expectations: Coding Focus and Limited System Design
+00:57:23 Validating in Production: A/B Tests, Causality, and Human Labels
+00:59:01 Career Path: Moving from Data Science Practice to System Design
+01:00:03 Closing Remarks and Contact Information

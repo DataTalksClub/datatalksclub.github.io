@@ -1,0 +1,27 @@
+00:00:00 Podcast Introduction
+00:00:36 Webinar Recap: Hiring Demand and Skill Gaps
+00:01:20 Core Skills & Tools: Python, SQL, Docker, Airflow, Data Warehouses
+00:01:49 Python & SQL Depth: Project Volume and Emphasis
+00:02:22 Code Quality & OOP: Small Functions, Classes, Tests
+00:02:46 Portfolio Strategy: Personal Projects and Open Source Contributions
+00:03:38 Application Funnel: LinkedIn, Resume, and Interview Stages
+00:05:15 Behavioral Interview Best Practices: Positivity, Structure, Motivation
+00:07:46 Technical Interview Formats: SQL LeetCode, Python Problems, Take-Home Projects
+00:09:41 Core Database Concepts: Views, Materialized Views, OLTP vs OLAP
+00:11:24 Learning Resources: Python Books, Flask Mega-Tutorial, SQL Platforms
+00:14:11 BI to Data Engineering Transition: Upskilling Within Your Role
+00:15:53 Job Search Strategy: Apply Broadly and Avoid Self-Filtering
+00:16:48 Leveraging Non-Coding Experience and Domain Expertise
+00:19:57 Role Differentiation: Data Analyst vs Data Engineer
+00:21:56 Certifications vs Skills: When Certificates Help and When They Don’t
+00:23:13 Master’s Degree Trade-offs: Research Depth vs Applied Learning
+00:27:46 Remote Work Reality: Timezones, Legal Constraints, and Standout Candidates
+00:30:06 Teaching & Coaching on Resume: Communication and Mentorship Value
+00:32:22 OOP Relevance: Patterns for Airflow and Maintainable Code
+00:33:03 Language Choices: Python Focus; Java/Scala and Spark Considerations
+00:35:09 Interview Load: Typical Number and Style of Technical Questions
+00:37:49 Cloud Certification Prep: Learning Fundamentals vs Credential Hunting
+00:39:49 Commercial Experience Alternatives: Nonprofits, Contract Work, Internships
+00:43:31 Mid-Career Switch: Sales Skills as an Asset in Tech Hiring
+00:46:16 Solution Engineer Pathway: Pre-/Post-Sales Roles as Transition Options
+00:47:26 Episode Wrap-Up and Further Resources

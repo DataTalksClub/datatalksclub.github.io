@@ -1,0 +1,27 @@
+00:01:16 Introduction & Episode Overview
+00:02:00 Career Path: Engineer → Recommenders → Data Science Management
+00:02:42 Differentiating Application: Building a Project to Showcase Skills
+00:05:19 Product Data Science at Uber: Forecasting & LTV Work
+00:06:38 NextRound: Mock Interview Chatbot with Personalized Feedback
+00:08:29 Why Companies Provide Generic Rejection Messages
+00:10:55 Designing Interview Scenarios: Common On-the-Job Dilemmas
+00:13:24 Typical Hiring Funnel: Recruiter Screen → Take-Home → Interview Rounds
+00:15:29 Role Spectrum: Product Data Scientist vs. Machine Learning Engineer
+00:17:13 Job Description Focus: Tailoring Your Application to the Role
+00:18:28 CV Optimization: Treat Your CV as a Landing Page
+00:25:51 CV Details: Highlight Personal Contribution and Remove Noise
+00:27:51 Take-Home Projects: Time Investment and ROI Considerations
+00:29:32 Behavioral Stories: Preparing Impactful Past-Project Narratives
+00:32:03 Case Study Strategy: From Business Goals to Evaluation Metrics
+00:36:38 Technical Assessments: ML Knowledge, SQL (Window Functions), and Coding
+00:39:10 Handling Rejection: Ask for Feedback and Reapply Strategically
+00:42:02 Offer Evaluation: Components, Market Comparison, and Negotiation
+00:44:38 Personal Data on CV: Avoid Age, Photo, and Irrelevant Details
+00:45:46 PhD to Industry: Cold-Start Projects, Synthetic Data, and Blogging
+00:49:10 Replying to Rejections: Be Gracious and Preserve Relationships
+00:50:17 Negotiation Tactics When Current Salary Is Low
+00:53:09 Applying Despite Experience Gaps: When It Makes Sense to Try
+00:55:17 ATS Reality: Parsing Myths vs. Human Screening
+00:58:14 Key Lessons from Hundreds of Interviews: Avoid Bias & Iterate
+01:04:24 Rethinking CV Format: Historical Constraints and Modern Design
+01:09:26 Closing Remarks and NextRound Resources
