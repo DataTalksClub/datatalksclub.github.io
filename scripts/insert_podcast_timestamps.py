@@ -98,39 +98,44 @@ def update_headers_in_transcript(transcript, timestamps):
         
         # Insert any timestamps that should come before this entry
         # For entries without sec, only insert if timestamp is clearly before next entry
-        if current_sec is not None:
-            # Insert timestamps that are <= current entry's sec
-            while timestamp_idx < len(timestamps):
-                timestamp_sec, topic = timestamps[timestamp_idx]
-                
-                # For entries with sec, insert if timestamp <= entry_sec
-                if entry_sec is not None:
-                    if timestamp_sec <= entry_sec:
+        while timestamp_idx < len(timestamps):
+            timestamp_sec, topic = timestamps[timestamp_idx]
+            
+            # For entries with sec, insert if timestamp <= entry_sec
+            if entry_sec is not None:
+                if timestamp_sec <= entry_sec:
+                    new_transcript.append({'header': topic})
+                    timestamp_idx += 1
+                else:
+                    break
+            else:
+                # For entries without sec, insert if timestamp is clearly in the range
+                # between last_sec and next_sec (if next_sec exists)
+                if next_sec is not None:
+                    # Insert if timestamp is between last_sec and next_sec
+                    if last_sec is not None and last_sec < timestamp_sec <= next_sec:
+                        new_transcript.append({'header': topic})
+                        timestamp_idx += 1
+                    elif last_sec is not None and timestamp_sec <= last_sec:
+                        # Timestamp should have been inserted before entry with last_sec
+                        # Since we missed it, insert it now (better late than never)
                         new_transcript.append({'header': topic})
                         timestamp_idx += 1
                     else:
                         break
                 else:
-                    # For entries without sec, insert if timestamp is clearly in the range
-                    # between last_sec and next_sec (if next_sec exists)
-                    if next_sec is not None:
-                        # Insert if timestamp is between last_sec and next_sec
-                        if last_sec is not None and last_sec < timestamp_sec <= next_sec:
-                            new_transcript.append({'header': topic})
-                            timestamp_idx += 1
-                        elif timestamp_sec <= last_sec:
-                            # Should have been inserted earlier, but insert now
+                    # No next sec
+                    if last_sec is not None:
+                        # Insert if timestamp > last_sec (new content)
+                        if timestamp_sec > last_sec:
                             new_transcript.append({'header': topic})
                             timestamp_idx += 1
                         else:
                             break
                     else:
-                        # No next sec, insert if timestamp > last_sec (new content)
-                        if last_sec is not None and timestamp_sec > last_sec:
-                            new_transcript.append({'header': topic})
-                            timestamp_idx += 1
-                        else:
-                            break
+                        # No sec values seen yet, insert at beginning (all timestamps)
+                        new_transcript.append({'header': topic})
+                        timestamp_idx += 1
         
         # Add the transcript entry (content, not headers)
         new_transcript.append(entry)
@@ -165,21 +170,28 @@ def update_podcast_file_with_timestamps(file_path, timestamps):
         
         # Find the closing --- (try both \n---\n and \n---)
         match = re.search(r'\n---\n', content[4:])
+        has_trailing_newline = True
         if not match:
             # Try without trailing newline
             match = re.search(r'\n---', content[4:])
+            has_trailing_newline = False
         
         if not match:
             print("Error: Could not find closing frontmatter delimiter", file=sys.stderr)
             return False
         
-        end_pos = match.start() + 4
-        frontmatter_text = content[4:end_pos]
-        # Handle both \n---\n and \n--- formats
-        if content[end_pos + 4:end_pos + 5] == '\n':
-            rest_content = content[end_pos + 5:]
+        # match.start() is relative to content[4:], so add 4 to get absolute position
+        # The match starts at the \n before ---, so add 1 to get to the start of ---
+        frontmatter_end = match.start() + 4 + 1  # Position of first '-' in closing ---
+        frontmatter_text = content[4:frontmatter_end]
+        
+        # Extract rest of content after closing ---
+        if has_trailing_newline:
+            # Format: \n---\n, so skip ---\n (4 chars)
+            rest_content = content[frontmatter_end + 4:]
         else:
-            rest_content = content[end_pos + 4:]
+            # Format: \n---, so skip --- (3 chars)
+            rest_content = content[frontmatter_end + 3:]
         
         # Parse frontmatter
         try:
@@ -206,8 +218,12 @@ def update_podcast_file_with_timestamps(file_path, timestamps):
             print(f"Error: Failed to serialize YAML: {e}", file=sys.stderr)
             return False
         
+        # Ensure frontmatter ends with newline before closing ---
+        if not new_frontmatter.endswith('\n'):
+            new_frontmatter += '\n'
+        
         # Reconstruct file
-        new_content = f"---\n{new_frontmatter}---{rest_content}"
+        new_content = f"---\n{new_frontmatter}---\n{rest_content}"
         
         # Write back to file
         try:
