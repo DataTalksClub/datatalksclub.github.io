@@ -35,6 +35,7 @@ REQUIREMENTS:
 - Do not be over-granular
 - Use concise, nominative phrases (describe what's covered, not what's asked)
 - Focus on clarity, parallel grammar, and information hierarchy
+- Naturally include key SEO keywords to timestamps if they are related to timestamps and accurately reflect the content of a given timestamp.
 - Do not repeat existing timestamps mentioned as "header" in the transcript. Generate new, high-quality timestamps that are valuable to the listener for navigating the episode.
 - Don't write: "How to contribute to open source?"
 - Do write: "Open Source Contribution: Starting Small & Building Confidence."

@@ -68,15 +68,27 @@ def insert_timestamps_into_transcript(transcript, timestamps):
     # Build new transcript with headers
     new_transcript = []
     timestamp_idx = 0
+    last_sec = None  # Track the last seen sec value for entries without sec
     
     for entry in transcript:
-        # Insert any timestamps that should come before this entry
-        entry_sec = entry.get('sec', float('inf'))
+        # Get entry timestamp - use last_sec if entry doesn't have sec
+        entry_sec = entry.get('sec')
         
-        while timestamp_idx < len(timestamps) and timestamps[timestamp_idx][0] <= entry_sec:
-            sec, topic = timestamps[timestamp_idx]
-            new_transcript.append({'header': topic})
-            timestamp_idx += 1
+        if entry_sec is not None:
+            # Entry has a sec value - use it and update last_sec
+            last_sec = entry_sec
+        else:
+            # Entry doesn't have sec - use last_sec if available, otherwise skip timestamp insertion
+            # This handles continuation lines that don't have their own timestamp
+            entry_sec = last_sec
+        
+        # Insert any timestamps that should come before this entry
+        # Only insert if entry_sec is not None (we have a valid timestamp)
+        if entry_sec is not None:
+            while timestamp_idx < len(timestamps) and timestamps[timestamp_idx][0] <= entry_sec:
+                sec, topic = timestamps[timestamp_idx]
+                new_transcript.append({'header': topic})
+                timestamp_idx += 1
         
         # Add the transcript entry
         new_transcript.append(entry)
@@ -100,48 +112,79 @@ def update_podcast_file_with_timestamps(file_path, timestamps):
     Returns:
         True if successful, False otherwise
     """
-    with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Find the frontmatter section
-    if content.startswith('---\n'):
-        # Find the closing ---
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # Find the frontmatter section
+        if not content.startswith('---\n'):
+            print("Error: File does not start with frontmatter delimiter", file=sys.stderr)
+            return False
+        
+        # Find the closing --- (try both \n---\n and \n---)
         match = re.search(r'\n---\n', content[4:])
-        if match:
-            end_pos = match.start() + 4
-            frontmatter_text = content[4:end_pos]
+        if not match:
+            # Try without trailing newline
+            match = re.search(r'\n---', content[4:])
+        
+        if not match:
+            print("Error: Could not find closing frontmatter delimiter", file=sys.stderr)
+            return False
+        
+        end_pos = match.start() + 4
+        frontmatter_text = content[4:end_pos]
+        # Handle both \n---\n and \n--- formats
+        if content[end_pos + 4:end_pos + 5] == '\n':
             rest_content = content[end_pos + 5:]
-            
-            # Parse frontmatter
+        else:
+            rest_content = content[end_pos + 4:]
+        
+        # Parse frontmatter
+        try:
             frontmatter = yaml.safe_load(frontmatter_text)
-            
-            # Check if transcript exists
-            if 'transcript' not in frontmatter:
-                print("Error: No transcript field found in frontmatter", file=sys.stderr)
-                return False
-            
-            # Remove existing headers
-            transcript_without_headers = remove_existing_headers(frontmatter['transcript'])
-            
-            # Insert new timestamps
-            updated_transcript = insert_timestamps_into_transcript(transcript_without_headers, timestamps)
-            
-            # Update frontmatter
-            frontmatter['transcript'] = updated_transcript
-            
-            # Convert back to YAML
+        except yaml.YAMLError as e:
+            print(f"Error: Failed to parse YAML frontmatter: {e}", file=sys.stderr)
+            return False
+        
+        # Check if transcript exists
+        if 'transcript' not in frontmatter:
+            print("Error: No transcript field found in frontmatter", file=sys.stderr)
+            return False
+        
+        # Remove existing headers
+        transcript_without_headers = remove_existing_headers(frontmatter['transcript'])
+        
+        # Insert new timestamps
+        updated_transcript = insert_timestamps_into_transcript(transcript_without_headers, timestamps)
+        
+        # Update frontmatter
+        frontmatter['transcript'] = updated_transcript
+        
+        # Convert back to YAML
+        try:
             new_frontmatter = yaml.dump(frontmatter, default_flow_style=False, allow_unicode=True, sort_keys=False)
-            
-            # Reconstruct file
-            new_content = f"---\n{new_frontmatter}---{rest_content}"
-            
-            # Write back to file
+        except Exception as e:
+            print(f"Error: Failed to serialize YAML: {e}", file=sys.stderr)
+            return False
+        
+        # Reconstruct file
+        new_content = f"---\n{new_frontmatter}---{rest_content}"
+        
+        # Write back to file
+        try:
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write(new_content)
-            
-            return True
+        except Exception as e:
+            print(f"Error: Failed to write file: {e}", file=sys.stderr)
+            return False
+        
+        return True
     
-    return False
+    except Exception as e:
+        print(f"Error in update_podcast_file_with_timestamps: {e}", file=sys.stderr)
+        import traceback
+        traceback.print_exc()
+        return False
 
 
 def main():
@@ -218,11 +261,17 @@ Examples:
                 print("[DRY RUN] Would update the file with new timestamps")
             else:
                 print("Updating podcast file with timestamps...")
-                success = update_podcast_file_with_timestamps(file_path, timestamps)
-                if success:
-                    print(f"\n✓ File updated successfully with {len(timestamps)} timestamps!")
-                else:
-                    print(f"\n✗ Failed to update file", file=sys.stderr)
+                try:
+                    success = update_podcast_file_with_timestamps(file_path, timestamps)
+                    if success:
+                        print(f"\n✓ File updated successfully with {len(timestamps)} timestamps!")
+                    else:
+                        print(f"\n✗ Failed to update file", file=sys.stderr)
+                        sys.exit(1)
+                except Exception as e:
+                    print(f"\n✗ Error updating file: {e}", file=sys.stderr)
+                    import traceback
+                    traceback.print_exc()
                     sys.exit(1)
         else:
             print("To update the file, run with --update flag")
