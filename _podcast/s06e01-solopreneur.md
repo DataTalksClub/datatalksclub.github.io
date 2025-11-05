@@ -77,26 +77,6 @@ transcript:
   time: '2:47'
   who: Noah
 - header: 'Transition to Independent Work: Solopreneur Since 2017'
-- header: 'Defining Solopreneurship: Intentional Smallness and Revenue Diversification'
-- header: 'Small-Business Philosophy: Alternatives to Venture-Backed Growth'
-- header: 'Daily Routine: Exercise, Prioritization, and Task Queues'
-- header: 'Work Allocation Strategy: Exponential Projects vs. Consulting'
-- header: 'Long-Term Escape Plan: Incremental Transition Out of Corporate Roles'
-- header: 'Income Mix Formula: Courses, University Teaching, and Select Consulting'
-- header: 'Goal Criteria: Scale, Ethics, and Asynchronous Work Preferences'
-- header: 'Maintaining Motivation: Deadlines, Enjoyment, and Accepting Imperfection'
-- header: 'Pressure Management: Demand as a Signal of Success'
-- header: 'Publishing Options: Tradeoffs Between Traditional and Self-Publishing'
-- header: 'Book Workflow: Outlines First, Build Projects, Then Write'
-- header: 'Writing Discipline: Treating Book Projects Like Marathons'
-- header: 'Distributed Income: Combining Books, Apps, Real Estate, and Investments'
-- header: 'Side-Gig Strategy: Building the “Tunnel” While Employed'
-- header: 'Time & Cost Tactics: Reduce Commute, Lower Expenses, and Save Cash'
-- header: 'Financial Readiness: When to Quit Full-Time Employment'
-- header: 'Networking for Independence: Deep Skill, Visibility, and Avoiding Management'
-- header: 'University Teaching Path: Leverage Expertise, Professors, and Written Work'
-- header: 'Contact & Resources: NoahGift.com and LinkedIn'
-- header: 'Closing Remarks: Final Advice — Be Excellent and Bet on Yourself'
 - line: I was always very interested in sports. I had a period of time where I seriously
     wanted to be either an Olympic athlete or a professional basketball player, or
     a track athlete. I had this whole period of time where I was tempted by it, and
@@ -145,6 +125,7 @@ transcript:
   sec: 400
   time: '6:40'
   who: Noah
+- header: 'Defining Solopreneurship: Intentional Smallness and Revenue Diversification'
 - line: What is a solopreneur?
   sec: 402
   time: '6:42'
@@ -165,6 +146,7 @@ transcript:
   sec: 404
   time: '6:44'
   who: Noah
+- header: 'Small-Business Philosophy: Alternatives to Venture-Backed Growth'
 - line: I think solopreneurship is just intentionally being small. It’s not about
     trying to scale something to be really, really big. It’s about building an anti-fragile
     way to make money. Just like with distributed computing and cloud computing, you
@@ -248,6 +230,7 @@ transcript:
   sec: 749
   time: '12:29'
   who: Noah
+- header: 'Daily Routine: Exercise, Prioritization, and Task Queues'
 - line: Yeah, I'm really wondering – what does your day look like? What do you do,
     usually?
   sec: 821
@@ -296,6 +279,7 @@ transcript:
   sec: 926
   time: '15:26'
   who: Noah
+- header: 'Work Allocation Strategy: Exponential Projects vs. Consulting'
 - line: What kind of projects are you working on? Are these clients’ projects? Your
     own projects? Your small businesses?
   sec: 987
@@ -348,6 +332,7 @@ transcript:
   sec: 1126
   time: '18:46'
   who: Noah
+- header: 'Long-Term Escape Plan: Incremental Transition Out of Corporate Roles'
 - line: Then you also have some things that could maybe take a long time to work out.
     Like if you write a book – who knows? Maybe it's a dud. Maybe it does nothing.
     So I think that's the trick. It’s very, very similar to doing computer science
@@ -392,6 +377,7 @@ transcript:
   sec: 1353
   time: '22:33'
   who: Noah
+- header: 'Income Mix Formula: Courses, University Teaching, and Select Consulting'
 - line: For example, you could write an application on the iOS store and put it there.
     Who knows? Maybe someone will buy it. But really, I think it's more of a mindset.
     It's a little bit like – if anyone's heard of the movie ‘The Shawshank Redemption,’
@@ -467,6 +453,7 @@ transcript:
   sec: 1664
   time: '27:44'
   who: Noah
+- header: 'Goal Criteria: Scale, Ethics, and Asynchronous Work Preferences'
 - line: We have quite a lot of questions. The first question we have is, “How do you
     structure your day?” I think we talked a bit about that. But the other part of
     the question is “How do you set your goals and go about them?” So do you have
@@ -515,6 +502,7 @@ transcript:
   sec: 1858
   time: '30:58'
   who: Noah
+- header: 'Maintaining Motivation: Deadlines, Enjoyment, and Accepting Imperfection'
 - line: How do you keep focus and motivation? Because when you work alone, sometimes
     it can be hard.
   sec: 1860
@@ -554,6 +542,7 @@ transcript:
   sec: 1971
   time: '32:51'
   who: Noah
+- header: 'Pressure Management: Demand as a Signal of Success'
 - line: I imagine if you're working on a book, then there is also a course, and then
     there is also a client… I know that maybe for you, it's easier because you've
     written many books. But sometimes, for example, I was struggling a lot with writing,
@@ -603,6 +592,7 @@ transcript:
   sec: 2130
   time: '35:30'
   who: Noah
+- header: 'Publishing Options: Tradeoffs Between Traditional and Self-Publishing'
 - line: Oh, cool. So what's your self-publishing experience? Is it better than working
     with a publisher?
   sec: 2144
@@ -646,6 +636,7 @@ transcript:
   sec: 2256
   time: '37:36'
   who: Noah
+- header: 'Book Workflow: Outlines First, Build Projects, Then Write'
 - line: The question that we have is also about books. The question is, “How do you
     plan books?” Because it takes a lot of time, right? You have a topic, let's say
     ML ops – like your latest book. This topic is a big thing, so you somehow need
@@ -701,6 +692,7 @@ transcript:
   sec: 2437
   time: '40:37'
   who: Noah
+- header: 'Writing Discipline: Treating Book Projects Like Marathons'
 - line: Yeah. Still, taking stuff out of your brain and then putting it on paper requires
     time, right? Also it takes practice and skill. And then you actually become better
     at this.
@@ -724,6 +716,7 @@ transcript:
   sec: 2509
   time: '41:49'
   who: Noah
+- header: 'Distributed Income: Combining Books, Apps, Real Estate, and Investments'
 - line: There is a question about distributed income. The question is “Can you give
     some tips on how to get distributed income?” I think we already talked about books,
     which is one piece of the puzzle. Let's say, if you have eight of them, it contributes
@@ -745,6 +738,7 @@ transcript:
   sec: 2611
   time: '43:31'
   who: Noah
+- header: 'Side-Gig Strategy: Building the “Tunnel” While Employed'
 - line: It's even better if the sources are not related. Maybe a book is a little
     bit. Let's say you need to make $10,000 a month – maybe 1000 bucks comes in from
     books. But what else could you do? You could also build an app. Maybe the app
@@ -806,6 +800,7 @@ transcript:
   sec: 2851
   time: '47:31'
   who: Noah
+- header: 'Time & Cost Tactics: Reduce Commute, Lower Expenses, and Save Cash'
 - line: Network with people and find some consulting clients that you can work with.
     Maybe do a little bit on the side – have a side gig. Maybe build an app, maybe
     build a book, maybe do rental property. Again, the more different it is in what
@@ -872,6 +867,7 @@ transcript:
   sec: 3111
   time: '51:51'
   who: Noah
+- header: 'Financial Readiness: When to Quit Full-Time Employment'
 - line: Although I will say that, I think we're at a weird period of time. Look at
     the just insane CEO to employee ratio. I don't know what the CEO of Google makes,
     but it's completely ridiculous. Why should the CEO of Google make 1000 times what
@@ -910,6 +906,7 @@ transcript:
   sec: 3262
   time: '54:22'
   who: Noah
+- header: 'Networking for Independence: Deep Skill, Visibility, and Avoiding Management'
 - line: Do you think building a network is important for being a solopreneur?
   sec: 3306
   time: '55:06'
@@ -972,6 +969,7 @@ transcript:
   sec: 3454
   time: '57:34'
   who: Noah
+- header: 'University Teaching Path: Leverage Expertise, Professors, and Written Work'
 - line: Yeah. I see that we should be wrapping up. But I have one question that I
     wanted to ask you. “How did you get into university and start teaching there?”
     Let's say somebody wants to do that. For example, I want to go to university and
@@ -1022,19 +1020,19 @@ transcript:
   sec: 3599
   time: '59:59'
   who: Alexey
+- header: 'Contact & Resources: NoahGift.com and LinkedIn'
 - line: LinkedIn is great. You can go to LinkedIn – Noah Gift. I’d be happy to connect
     with you. NoahGift.com is also great.
   sec: 3600
   time: '1:00:00'
   who: Noah
+- header: 'Closing Remarks: Final Advice — Be Excellent and Bet on Yourself'
 - line: OK. Thanks a lot. Thanks for your time. Thanks for sharing your story with
     us. Thanks for sharing your experience with us.  Also thank you, everyone for
     joining us and asking questions. Good bye.
   sec: 3610
   time: '1:00:10'
   who: Alexey
----
-
-Links:
+---Links:
 
 - [Noah's LinkedIn](https://www.linkedin.com/in/noahgift/){:target="_blank"}

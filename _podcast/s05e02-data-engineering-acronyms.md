@@ -46,32 +46,6 @@ transcript:
   time: '2:08'
   who: Natalie
 - header: 'Airbyte Overview: ELT Focus and Connector Purpose'
-- header: 'ETL Explained: Extract, Transform, Load (Traditional Model)'
-- header: 'ETL Use Case: Calculating Customer Acquisition Cost'
-- header: 'ELT Advantages: Flexibility, Speed, and Analyst Autonomy'
-- header: 'Transformations in Practice: From Type Casting to Complex SQL Joins'
-- header: 'Analytics Engineer Emergence: Empowering Analysts with DBT & SQL'
-- header: 'Data Marts vs. Warehouses: Purpose, Layers, and Consumption'
-- header: 'Ingestion Layer: Raw Data Storage, Sanity, and Guardrails'
-- header: 'Bringing Transforms Into the Warehouse: ELT vs Legacy Workflows'
-- header: 'Data Lakes: Unstructured Storage for Files, Logs, and Media'
-- header: 'Data Quality: Preventing Data Swamps Through Governance'
-- header: 'Warehouse Ingestion vs. Data Lake: Trade-offs and Convergence'
-- header: 'Architecture Decision: When to Maintain a Lake, a Warehouse, or Both'
-- header: 'Orchestration: Airflow’s Role in Scheduling and Running Pipelines'
-- header: 'Airbyte’s Role in the Stack: Reliable E‑L and DBT Integration'
-- header: 'Modern Analytics Stack: Best‑of‑Breed Tools and Typical Components'
-- header: 'Operational Reverse Data Flows: Pushing Warehouse Tables Back to Sources'
-- header: 'Low‑Code/No‑Code Tools: Evolving Data Engineering Roles, Not Replacing
-    Them'
-- header: 'ETL’s Continued Relevance: Large Enterprises and Complex Staging Needs'
-- header: 'Managing Unused Data: Team Ownership and Regular Cleanup Practices'
-- header: 'Open Source Strategy: Why Airbyte Is Open and the Cloud Offering Model'
-- header: 'CDC Explained: Capturing and Syncing Only Row-Level Changes'
-- header: 'Open‑Source Risks: Competition and Licensing (Elasticsearch Example)'
-- header: 'Schema Evolution: Handling Slowly Changing Attributes'
-- header: 'Licensing Considerations: MIT, Cloud Products, and Future Choices'
-- header: 'Episode Wrap‑Up: Final Thoughts, Hiring News, and Contact Information'
 - line: After that, I moved a little bit more into operations at AppDynamics, which
     has been acquired by Cisco, and then moved to actually manage my own team at a
     company called Keep Truckin’, which is focused on more on the IoT space, filling
@@ -92,6 +66,7 @@ transcript:
   sec: 202
   time: '3:22'
   who: Natalie
+- header: 'ETL Explained: Extract, Transform, Load (Traditional Model)'
 - line: 'You mentioned a few things – transform, ingest, and ELT. We wanted to talk
     about this today. Actually, this is a question I get sometimes. Not super often,
     but it pops up: “What''s the difference between ELT/ETL, all these acronyms –
@@ -141,6 +116,7 @@ transcript:
   sec: 369
   time: '6:09'
   who: Alexey
+- header: 'ETL Use Case: Calculating Customer Acquisition Cost'
 - line: Yeah, exactly. One really good use case that we could speak to here – just
     to be a little bit more concrete –“What is your cost to acquire a customer?” You
     need an accurate CAC, in other words. In order to get that, you need to know how
@@ -167,6 +143,7 @@ transcript:
   sec: 447
   time: '7:27'
   who: Natalie
+- header: 'ELT Advantages: Flexibility, Speed, and Analyst Autonomy'
 - line: What is ELT, then? Why do we want to switch to this tool?
   sec: 477
   time: '7:57'
@@ -183,6 +160,7 @@ transcript:
   sec: 483
   time: '8:03'
   who: Natalie
+- header: 'Transformations in Practice: From Type Casting to Complex SQL Joins'
 - line: You also have this lack of autonomy. What we've generally seen is that these
     ELT tools are actually managed by engineering teams. When analysts – who are working
     more with the business end – have these needs, they actually have a dependency
@@ -239,6 +217,7 @@ transcript:
   sec: 757
   time: '12:37'
   who: Natalie
+- header: 'Analytics Engineer Emergence: Empowering Analysts with DBT & SQL'
 - line: Yeah, and this part about depending on engineering teams – I'm curious. How
     does it help analysts to be more independent now? Why do they not depend on engineers
     now?
@@ -289,6 +268,7 @@ transcript:
   sec: 903
   time: '15:03'
   who: Natalie
+- header: 'Data Marts vs. Warehouses: Purpose, Layers, and Consumption'
 - line: You also mentioned one thing when talking about ETL – this thing called data
     mart. We also talked about the data warehouse. What are those? What is a data
     mart? What is a data warehouse? What is the difference between them?
@@ -327,6 +307,7 @@ transcript:
   sec: 1045
   time: '17:25'
   who: Natalie
+- header: 'Ingestion Layer: Raw Data Storage, Sanity, and Guardrails'
 - line: So ingestion databases are everything that comes before data marts, right?
     This is where the data that is maybe dirty or not cleaned or that is not aggregated
     – this is not something that business users can use. Right?
@@ -343,6 +324,7 @@ transcript:
   sec: 1091
   time: '18:11'
   who: Natalie
+- header: 'Bringing Transforms Into the Warehouse: ELT vs Legacy Workflows'
 - line: So previously, in ETL, we would extract some data, we would immediately do
     the transformation, apply it perhaps without saving it, and then put it into a
     data warehouse or data mart. Now the data that we extract, we first put it to
@@ -361,6 +343,7 @@ transcript:
   sec: 1166
   time: '19:26'
   who: Natalie
+- header: 'Data Lakes: Unstructured Storage for Files, Logs, and Media'
 - line: And what is a data lake?
   sec: 1190
   time: '19:50'
@@ -389,6 +372,7 @@ transcript:
   sec: 1271
   time: '21:11'
   who: Natalie
+- header: 'Data Quality: Preventing Data Swamps Through Governance'
 - line: We actually have a question about this, “What is a data swamp? How can a lake
     become a swamp?”
   sec: 1282
@@ -441,6 +425,7 @@ transcript:
   sec: 1463
   time: '24:23'
   who: Natalie
+- header: 'Warehouse Ingestion vs. Data Lake: Trade-offs and Convergence'
 - line: We also talked about the ingestion layer and the ingestion database. We talked
     about the data lake. I’m wondering – to me, they look similar. First of all, are
     they similar? Are they the same? Or are those different things?
@@ -490,6 +475,7 @@ transcript:
   sec: 1607
   time: '26:47'
   who: Natalie
+- header: 'Architecture Decision: When to Maintain a Lake, a Warehouse, or Both'
 - line: We have a question – “Do we need to have both a data lake and a data warehouse?”
     I think, from what I understood, the answer was “Yes.” Right? We have the raw
     data in the lake. We have prepared data in a data mart in a data warehouse. Then
@@ -545,6 +531,7 @@ transcript:
   sec: 1844
   time: '30:44'
   who: Natalie
+- header: 'Orchestration: Airflow’s Role in Scheduling and Running Pipelines'
 - line: Yeah. All this time I thought that Airflow was an ETL tool, but it’s actually
     an ELT tool, right?
   sec: 1859
@@ -557,6 +544,7 @@ transcript:
   sec: 1872
   time: '31:12'
   who: Natalie
+- header: 'Airbyte’s Role in the Stack: Reliable E‑L and DBT Integration'
 - line: I think you mentioned at the beginning what Airbyte does – it's about transformation,
     right? It's about ingesting and then putting it into a data warehouse. Maybe now
     we can try to make sense from all these buzzwords. We know what the transformation
@@ -595,6 +583,7 @@ transcript:
   sec: 2013
   time: '33:33'
   who: Natalie
+- header: 'Modern Analytics Stack: Best‑of‑Breed Tools and Typical Components'
 - line: Yeah. So speaking of this modern stack, I've heard this term many times and
     actually we have a talk about this quite soon. It's about this modern stack for
     analytics. Actually the talk we have is “modern data stack for analytics engineering.”
@@ -624,6 +613,7 @@ transcript:
   sec: 2138
   time: '35:38'
   who: Alexey
+- header: 'Operational Reverse Data Flows: Pushing Warehouse Tables Back to Sources'
 - line: Yeah, and of course, we can't forget Airflow, which does a lot of the orchestration.
     Then there's also this emerging space of reverse ETL, where you'll have tools
     like Hightouch or Census, and even Airbyte is thinking about going into this space
@@ -677,6 +667,8 @@ transcript:
   sec: 2316
   time: '38:36'
   who: Natalie
+- header: 'Low‑Code/No‑Code Tools: Evolving Data Engineering Roles, Not Replacing
+    Them'
 - line: 'To make sure I understood the whole picture: we have some of these tools
     like Google AdWords – all these systems, like Google AdWords, or Facebook Ads,
     or whatever. We first need to take the data from there and import – put it into
@@ -703,6 +695,7 @@ transcript:
   sec: 2413
   time: '40:13'
   who: Natalie
+- header: 'ETL’s Continued Relevance: Large Enterprises and Complex Staging Needs'
 - line: There are a lot of things that really are beyond the technical scope of even
     maybe any analytics engineer or an analyst – where a data engineer most definitely
     can enable that data team to be operating very efficiently. Something like common
@@ -730,6 +723,7 @@ transcript:
   sec: 2581
   time: '43:01'
   who: Natalie
+- header: 'Managing Unused Data: Team Ownership and Regular Cleanup Practices'
 - line: Okay, thanks. We have some more questions. The question is “70-90% of beta
     in many organizations is collected but never used. Who is responsible for taking
     care of that and for noticing that? Data engineers? How should we actually go
@@ -758,6 +752,7 @@ transcript:
   sec: 2617
   time: '43:37'
   who: Natalie
+- header: 'Open Source Strategy: Why Airbyte Is Open and the Cloud Offering Model'
 - line: The person who doesn't miss this context – who has the context – would be
     an analytics engineer, perhaps or an analyst. Right?
   sec: 2718
@@ -773,6 +768,7 @@ transcript:
   sec: 2728
   time: '45:28'
   who: Natalie
+- header: 'CDC Explained: Capturing and Syncing Only Row-Level Changes'
 - line: Thank you. Another question we have is, “I have no idea what CDC is. Do you
     know what CDC is?”
   sec: 2759
@@ -806,6 +802,7 @@ transcript:
   sec: 2846
   time: '47:26'
   who: Alexey
+- header: 'Open‑Source Risks: Competition and Licensing (Elasticsearch Example)'
 - line: Yeah, exactly. It’s essentially a performance consideration. It also allows
     you to capture deleted rows. So that's another benefit as well. I think that we
     don't offer it on all of our data warehouse sources yet. But we are actively working
@@ -814,6 +811,7 @@ transcript:
   sec: 2910
   time: '48:30'
   who: Natalie
+- header: 'Schema Evolution: Handling Slowly Changing Attributes'
 - line: Do you know what a “slowly changing dimension” is? I’ve heard this term a
     few times. I'm curious what this is.
   sec: 2938
@@ -976,6 +974,7 @@ transcript:
   sec: 2906
   time: '48:26'
   who: Alexey
+- header: 'Licensing Considerations: MIT, Cloud Products, and Future Choices'
 - line: Yeah, it's definitely something that we think very carefully about. The things
     that we talk about internally are “Are we under the right license? We're currently
     under MIT. Is this the right license for us moving forward, especially as we launch
@@ -998,6 +997,7 @@ transcript:
   sec: 3636
   time: '1:00:36'
   who: Alexey
+- header: 'Episode Wrap‑Up: Final Thoughts, Hiring News, and Contact Information'
 - line: It was such a pleasure to be on this, talking about these acronyms. I hope
     it helped some of your listeners get more clarity. Airbyte – check us out. We
     are also hiring on a lot of different fronts. Not just on the engineering front,
@@ -1023,7 +1023,6 @@ transcript:
   time: '1:01:29'
   who: Alexey
 ---
-
 Links:
 
 * [Natalie's LinkedIn](https://www.linkedin.com/in/nataliekwong/){:target="_blank"}

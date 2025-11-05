@@ -63,30 +63,6 @@ transcript:
   sec: 162
   time: '2:42'
   who: Oleg
-- header: 'Product Data Science at Uber: Forecasting & LTV Work'
-- header: 'NextRound: Mock Interview Chatbot with Personalized Feedback'
-- header: Why Companies Provide Generic Rejection Messages
-- header: 'Designing Interview Scenarios: Common On-the-Job Dilemmas'
-- header: 'Typical Hiring Funnel: Recruiter Screen → Take-Home → Interview Rounds'
-- header: 'Role Spectrum: Product Data Scientist vs. Machine Learning Engineer'
-- header: 'Job Description Focus: Tailoring Your Application to the Role'
-- header: 'CV Optimization: Treat Your CV as a Landing Page'
-- header: 'CV Details: Highlight Personal Contribution and Remove Noise'
-- header: 'Take-Home Projects: Time Investment and ROI Considerations'
-- header: 'Behavioral Stories: Preparing Impactful Past-Project Narratives'
-- header: 'Case Study Strategy: From Business Goals to Evaluation Metrics'
-- header: 'Technical Assessments: ML Knowledge, SQL (Window Functions), and Coding'
-- header: 'Handling Rejection: Ask for Feedback and Reapply Strategically'
-- header: 'Offer Evaluation: Components, Market Comparison, and Negotiation'
-- header: 'Personal Data on CV: Avoid Age, Photo, and Irrelevant Details'
-- header: 'PhD to Industry: Cold-Start Projects, Synthetic Data, and Blogging'
-- header: 'Replying to Rejections: Be Gracious and Preserve Relationships'
-- header: Negotiation Tactics When Current Salary Is Low
-- header: 'Applying Despite Experience Gaps: When It Makes Sense to Try'
-- header: 'ATS Reality: Parsing Myths vs. Human Screening'
-- header: 'Key Lessons from Hundreds of Interviews: Avoid Bias & Iterate'
-- header: 'Rethinking CV Format: Historical Constraints and Modern Design'
-- header: Closing Remarks and NextRound Resources
 - line: And I thought “I need to make something different”. So, instead of sending
     a CV, I wrote a blog post about how I would improve the recommender engine if
     I worked there. Since I did not work there, I did not have any data. I had to
@@ -105,6 +81,7 @@ transcript:
   sec: 313
   time: '5:13'
   who: Alexey
+- header: 'Product Data Science at Uber: Forecasting & LTV Work'
 - line: I put it on medium but I put it down afterwards. I didn’t know how much of
     it could be public. Even though I used only data accessible everywhere, I tried
     to do a little bit of reverse engineering, like what kind of data is being sent
@@ -117,6 +94,7 @@ transcript:
   sec: 319
   time: '5:19'
   who: Oleg
+- header: 'NextRound: Mock Interview Chatbot with Personalized Feedback'
 - line: After it I joined Uber in Amsterdam as a product data scientist. In a couple
     of years I became a manager again. I led a team of data scientists that worked
     on forecasting models. The goal was to predict the lifetime value of a user and
@@ -132,6 +110,7 @@ transcript:
   sec: 398
   time: '6:38'
   who: Oleg
+- header: Why Companies Provide Generic Rejection Messages
 - line: I ended up building a free service where you can practice data science interviews
     with a chabot. Then you will receive detailed personalized feedback based on your
     answers with some links to relevant materials to the topics where you can improve.
@@ -177,6 +156,7 @@ transcript:
   sec: 641
   time: '10:41'
   who: Alexey
+- header: 'Designing Interview Scenarios: Common On-the-Job Dilemmas'
 - line: Yeah. I began thinking of my experience as a hiring manager. What can I offer?
     I wrote down a list of situations that kept happening from company to company,
     from team to team. For example, as a data scientist or an analyst, you are always
@@ -209,6 +189,7 @@ transcript:
   sec: 792
   time: '13:12'
   who: Oleg
+- header: 'Typical Hiring Funnel: Recruiter Screen → Take-Home → Interview Rounds'
 - line: Speaking of interviews. I imagine you did quite a few interviews — at least
     300. How does a typical interview process look like? What are the steps in this
     process?
@@ -238,6 +219,7 @@ transcript:
   sec: 904
   time: '15:04'
   who: Alexey
+- header: 'Role Spectrum: Product Data Scientist vs. Machine Learning Engineer'
 - line: It really depends on the role. I even tried to visualize different types of
     job profiles. I took random 50 data science jobs and I found a lot of data science
     jobs that have literally nothing in common. It’s so generic. Data science is just
@@ -263,6 +245,7 @@ transcript:
   sec: 956
   time: '15:56'
   who: Alexey
+- header: 'Job Description Focus: Tailoring Your Application to the Role'
 - line: 'That is the main advice in general. We can stop this podcast right here.
     The main advice is to study the job description. Learn as much as you can about
     the role. Try to match your experience with the role. Say, you have two years
@@ -278,6 +261,7 @@ transcript:
   sec: 1033
   time: '17:13'
   who: Oleg
+- header: 'CV Optimization: Treat Your CV as a Landing Page'
 - line: This brings us to the question about CV. This is the very first step in the
     job process. A recruiter or hiring manager looks at your CV — a piece of paper,
     one or two or three pages. They figure out if this candidate should go through
@@ -301,6 +285,7 @@ transcript:
   sec: 1160
   time: '19:20'
   who: Oleg
+- header: 'CV Details: Highlight Personal Contribution and Remove Noise'
 - line: 'Even more specific: their goal is to estimate what will happen if they set
     up an interview between you and the hiring manager. How likely the hiring manager
     is to offer your job or reject you? The goal of a CV for you is to get to an interview
@@ -382,6 +367,7 @@ transcript:
   sec: 1626
   time: '27:06'
   who: Alexey
+- header: 'Take-Home Projects: Time Investment and ROI Considerations'
 - line: 'There might be a take home assignment. It will probably take a few hours
     for you to implement. There are controversial opinions about take-home assignments.
     It takes a lot of time. If you are applying to five different jobs, then you need
@@ -400,6 +386,7 @@ transcript:
   sec: 1671
   time: '27:51'
   who: Oleg
+- header: 'Behavioral Stories: Preparing Impactful Past-Project Narratives'
 - line: After the take home assignment, there will be interviews — from three to six
     rounds of interviews with different potential colleagues. One of them will be
     with the hiring manager. On the technical rounds, you can split these into two
@@ -408,6 +395,7 @@ transcript:
   sec: 1772
   time: '29:32'
   who: Oleg
+- header: 'Case Study Strategy: From Business Goals to Evaluation Metrics'
 - line: If you are asked about your past experience, make sure you have a couple of
     stories that help you demonstrate your skills. It’s really important to practice,
     to know exactly what you are going to say. When you are answering these questions
@@ -434,6 +422,7 @@ transcript:
   sec: 1923
   time: '32:03'
   who: Oleg
+- header: 'Technical Assessments: ML Knowledge, SQL (Window Functions), and Coding'
 - line: 'You will get asked a question about some vague problem statement: “predict
     user churn”, “classify which users are fraudsters on our platform”, “predict how
     many orders or subscriptions we will have next month”. It’s always a vaguely defined
@@ -511,6 +500,7 @@ transcript:
   sec: 2322
   time: '38:42'
   who: Oleg
+- header: 'Handling Rejection: Ask for Feedback and Reapply Strategically'
 - line: It often happens that I forget how to use window functions. For this company
     this is a super important thing and they decide to reject me. How can I handle
     this rejection? What happens if I get rejected?
@@ -548,6 +538,7 @@ transcript:
   sec: 2496
   time: '41:36'
   who: Alexey
+- header: 'Offer Evaluation: Components, Market Comparison, and Negotiation'
 - line: We celebrate. If you get an offer, first of all, learn what you are offered.
     The offers can be very different depending on the country and a company. It can
     be just the salary, it can be salary and some equity compensation, it can also
@@ -575,6 +566,7 @@ transcript:
   sec: 2636
   time: '43:56'
   who: Alexey
+- header: 'Personal Data on CV: Avoid Age, Photo, and Irrelevant Details'
 - line: They are not supposed to know it. Just don’t put it on your CV. Don’t put
     your picture, don’t put your age. Don’t say it — it’s illegal in most of the countries.
   sec: 2678
@@ -599,6 +591,7 @@ transcript:
   sec: 2745
   time: '45:45'
   who: Oleg
+- header: 'PhD to Industry: Cold-Start Projects, Synthetic Data, and Blogging'
 - line: Okay, yeah. So, if this does not tell you how good you are at your job, do
     not put it in your CV. Probably you still need to keep the name… So, we have a
     question from Diksha. I’m a PhD scholar with zero industry experience, but I have
@@ -645,6 +638,7 @@ transcript:
   sec: 2904
   time: '48:24'
   who: Oleg
+- header: 'Replying to Rejections: Be Gracious and Preserve Relationships'
 - line: 'Thank you. Another question we have: Some rejection emails look quite human.
     The question is, is it worth answering such emails? Do the recruiters even look
     at what you write to them after the rejection?'
@@ -662,6 +656,7 @@ transcript:
   sec: 2971
   time: '49:31'
   who: Oleg
+- header: Negotiation Tactics When Current Salary Is Low
 - line: Thank you. Another question we have from Muhammad is related to negotiations.
     How do I negotiate when my current salary is quite low? I think we covered that
     — by having two offers. But let’s say, I just have one offer and my current salary
@@ -701,6 +696,7 @@ transcript:
   sec: 3150
   time: '52:30'
   who: Oleg
+- header: 'Applying Despite Experience Gaps: When It Makes Sense to Try'
 - line: Thank you. Another question we have from somebody who just finished their
     PhD. The position they want to apply to requires 3-5 years of experience in industry.
     They don’t have it obviously because they just graduated from PhD. Do you think
@@ -731,6 +727,7 @@ transcript:
   sec: 3279
   time: '54:39'
   who: Alexey
+- header: 'ATS Reality: Parsing Myths vs. Human Screening'
 - line: 'Another question: I heard that these days, named entity recognition and some
     other things are used for screening CVs. It’s not a human that looks at the CV
     but a robot. You need to just to maximize your chances for applying for a job.
@@ -780,6 +777,7 @@ transcript:
   sec: 3477
   time: '57:57'
   who: Alexey
+- header: 'Key Lessons from Hundreds of Interviews: Avoid Bias & Iterate'
 - line: I wanted to ask you a few things. What did you actually learn after interviewing
     300 data scientists?
   sec: 3494
@@ -796,6 +794,7 @@ transcript:
   sec: 3504
   time: '58:24'
   who: Oleg
+- header: 'Rethinking CV Format: Historical Constraints and Modern Design'
 - line: There are a number of ideas like “random forests are always better than linear
     regression”, right? There is something like this in the air. But this is not true.
     In some cases, simple parametric models may perform better. Even if they require
@@ -893,6 +892,7 @@ transcript:
   sec: 4076
   time: '1:07:56'
   who: Oleg
+- header: Closing Remarks and NextRound Resources
 - line: What do we do with future engineering? We try to find future importance. We
     try to remove outliers. We try to clean up the data. Think about the signal to
     noise ratio. Put as much signal relevant for the job for a certain role, remove
@@ -918,7 +918,6 @@ transcript:
   time: '1:09:54'
   who: Alexey
 ---
-
 Links:
 
 - Oleg's service for interviews: [https://nextround.cc/](https://nextround.cc/){:target="_blank"}

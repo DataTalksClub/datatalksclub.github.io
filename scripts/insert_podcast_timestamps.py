@@ -47,50 +47,92 @@ def parse_timestamps_file(timestamps_file_path):
     return timestamps
 
 
-def remove_existing_headers(transcript):
-    """Remove all header entries from transcript list."""
-    return [entry for entry in transcript if 'header' not in entry]
-
-
-def insert_timestamps_into_transcript(transcript, timestamps):
-    """Insert timestamp headers into transcript at appropriate positions.
+def update_headers_in_transcript(transcript, timestamps):
+    """Update headers in transcript while keeping all content unchanged.
     
     Args:
-        transcript: List of transcript entries (without headers)
+        transcript: List of transcript entries (with existing headers)
         timestamps: List of (seconds, topic) tuples
         
     Returns:
-        Updated transcript with headers inserted
+        Updated transcript with headers replaced/inserted at correct positions
     """
     # Sort timestamps by time
     timestamps = sorted(timestamps, key=lambda x: x[0])
     
-    # Build new transcript with headers
+    # Build new transcript - keep all content, only update headers
     new_transcript = []
     timestamp_idx = 0
     last_sec = None  # Track the last seen sec value for entries without sec
+    next_entry_sec = None  # Track the next entry's sec to better position headers
     
-    for entry in transcript:
+    # First pass: collect all entries with sec to help position headers
+    entries_with_sec = []
+    for i, entry in enumerate(transcript):
+        if 'header' not in entry and entry.get('sec') is not None:
+            entries_with_sec.append((i, entry.get('sec')))
+    
+    def get_next_sec_after_index(idx):
+        """Get the next sec value after the given index."""
+        for i, entry in enumerate(transcript[idx+1:], start=idx+1):
+            if 'header' not in entry and entry.get('sec') is not None:
+                return entry.get('sec')
+        return None
+    
+    for i, entry in enumerate(transcript):
+        # Skip existing headers - we'll replace them with new ones
+        if 'header' in entry:
+            continue
+        
         # Get entry timestamp - use last_sec if entry doesn't have sec
         entry_sec = entry.get('sec')
+        next_sec = get_next_sec_after_index(i)
         
         if entry_sec is not None:
             # Entry has a sec value - use it and update last_sec
             last_sec = entry_sec
+            current_sec = entry_sec
         else:
-            # Entry doesn't have sec - use last_sec if available, otherwise skip timestamp insertion
-            # This handles continuation lines that don't have their own timestamp
-            entry_sec = last_sec
+            # Entry doesn't have sec - use last_sec if available
+            current_sec = last_sec
         
         # Insert any timestamps that should come before this entry
-        # Only insert if entry_sec is not None (we have a valid timestamp)
-        if entry_sec is not None:
-            while timestamp_idx < len(timestamps) and timestamps[timestamp_idx][0] <= entry_sec:
-                sec, topic = timestamps[timestamp_idx]
-                new_transcript.append({'header': topic})
-                timestamp_idx += 1
+        # For entries without sec, only insert if timestamp is clearly before next entry
+        if current_sec is not None:
+            # Insert timestamps that are <= current entry's sec
+            while timestamp_idx < len(timestamps):
+                timestamp_sec, topic = timestamps[timestamp_idx]
+                
+                # For entries with sec, insert if timestamp <= entry_sec
+                if entry_sec is not None:
+                    if timestamp_sec <= entry_sec:
+                        new_transcript.append({'header': topic})
+                        timestamp_idx += 1
+                    else:
+                        break
+                else:
+                    # For entries without sec, insert if timestamp is clearly in the range
+                    # between last_sec and next_sec (if next_sec exists)
+                    if next_sec is not None:
+                        # Insert if timestamp is between last_sec and next_sec
+                        if last_sec is not None and last_sec < timestamp_sec <= next_sec:
+                            new_transcript.append({'header': topic})
+                            timestamp_idx += 1
+                        elif timestamp_sec <= last_sec:
+                            # Should have been inserted earlier, but insert now
+                            new_transcript.append({'header': topic})
+                            timestamp_idx += 1
+                        else:
+                            break
+                    else:
+                        # No next sec, insert if timestamp > last_sec (new content)
+                        if last_sec is not None and timestamp_sec > last_sec:
+                            new_transcript.append({'header': topic})
+                            timestamp_idx += 1
+                        else:
+                            break
         
-        # Add the transcript entry
+        # Add the transcript entry (content, not headers)
         new_transcript.append(entry)
     
     # Add any remaining timestamps at the end
@@ -151,11 +193,8 @@ def update_podcast_file_with_timestamps(file_path, timestamps):
             print("Error: No transcript field found in frontmatter", file=sys.stderr)
             return False
         
-        # Remove existing headers
-        transcript_without_headers = remove_existing_headers(frontmatter['transcript'])
-        
-        # Insert new timestamps
-        updated_transcript = insert_timestamps_into_transcript(transcript_without_headers, timestamps)
+        # Update headers while keeping all content unchanged
+        updated_transcript = update_headers_in_transcript(frontmatter['transcript'], timestamps)
         
         # Update frontmatter
         frontmatter['transcript'] = updated_transcript

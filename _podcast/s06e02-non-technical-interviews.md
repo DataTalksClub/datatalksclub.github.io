@@ -15,6 +15,7 @@ links:
   spotify: https://open.spotify.com/episode/7tO8GmqAcFUUk4fLqxEXy1
   apple: https://podcasts.apple.com/us/podcast/ace-non-technical-data-science-interviews-nick-singh/id1541710331?i=1000541631687
 transcript:
+- header: Podcast Introduction
 - header: 'Guest Overview: Nick Singh’s career and book'
 - line: This week, we'll talk about the non-technical parts of a data science interview.
     We already had an episode where we talked about how to prepare a CV and other
@@ -198,26 +199,6 @@ transcript:
   sec: 581
   time: '9:41'
   who: Nick
-- header: 'Behavioral Prep Method: Grid planning and STAR storytelling'
-- header: 'Practiced Delivery: Preparation without sounding scripted'
-- header: 'Handling Tricky Prompts: Common pitfalls and recoveries'
-- header: 'Project Walkthroughs: Detailing work while showing ownership'
-- header: 'Lead with Impact: Pyramid principle for concise results-first stories'
-- header: 'Business Context: Translating technical work into product value'
-- header: 'Controlling Pacing: Avoiding rambling and burying the lead'
-- header: 'Technical Claims: Only present models you can defend'
-- header: 'Favorite-Model Strategy: Choose familiar, project-backed techniques'
-- header: 'Portfolio Impact: Quantifying non-enterprise projects'
-- header: 'Senior vs. Junior: Differences in behavioral and case expectations'
-- header: 'Case Interview Approach: Clarify goals before proposing solutions'
-- header: 'Product-Sense Interviews: Metrics, assumptions, and brainstorming'
-- header: 'Metric Identification: Researching unfamiliar domains effectively'
-- header: 'Company Context: Using reports and product knowledge to prepare'
-- header: 'Read Tech Blogs: Learning production and architecture from case studies'
-- header: 'Outreach Strategy: Cold emailing hiring managers and recruiters'
-- header: 'Cold Email Examples: Showcasing projects with links and visuals'
-- header: 'Final Tips and Resources: Book recommendations and next steps'
-- header: 'Contact & Follow-up: NickSingh.com and LinkedIn'
 - line: Definitely, as technical people, we just think, “Oh, I’ll grind LeetCode.
     Oh, I’ll just practice data structures or SQL or get really good at Kaggle, and
     then I'll be fine.” But there's this behavioral component that is important. Behavioral
@@ -269,6 +250,7 @@ transcript:
   sec: 793
   time: '13:13'
   who: Alexey
+- header: 'Behavioral Prep Method: Grid planning and STAR storytelling'
 - line: Yeah. But there is a way to prepare. There’s good news and bad news. The bad
     news is, it’s work – it's gonna take some time. The good news is – there's a process.
     It's not some arbitrary thing that you can't ever predict. In the book, I talk
@@ -353,6 +335,7 @@ transcript:
   sec: 1102
   time: '18:22'
   who: Alexey
+- header: 'Practiced Delivery: Preparation without sounding scripted'
 - line: 100%. Actually, you touched on a good point. I know some people in the audience
     are thinking, “Oh, I don't want to sound like a robot. I don't want to sound so
     scripted. I don't want to sound rehearsed.” You wish you were that good. You wish
@@ -369,6 +352,7 @@ transcript:
   sec: 1127
   time: '18:47'
   who: Nick
+- header: 'Handling Tricky Prompts: Common pitfalls and recoveries'
 - line: What about tricky questions? For me, a tricky one that I wasn't able to answer
     during the interview I mentioned was “Tell me about a time you disagreed with
     someone and weren't right.” For me, I was like, “Um… I don't remember.” So how
@@ -462,6 +446,7 @@ transcript:
   sec: 1504
   time: '25:04'
   who: Alexey
+- header: 'Project Walkthroughs: Detailing work while showing ownership'
 - line: Yeah. Another really popular one, especially in data science, are these project
     walkthrough questions where they ask you lots of details about work you've done
     in the past. You might be thinking, “But doesn't every industry have that kind
@@ -478,6 +463,7 @@ transcript:
   sec: 1513
   time: '25:13'
   who: Nick
+- header: 'Lead with Impact: Pyramid principle for concise results-first stories'
 - line: This starts getting into the technical realm. But again, it usually starts
     out as more like “Tell me about your project and what actually happened?” And
     Alexey, the biggest thing I've noticed, amongst data scientists and data-driven
@@ -558,6 +544,7 @@ transcript:
   sec: 1804
   time: '30:04'
   who: Nick
+- header: 'Business Context: Translating technical work into product value'
 - line: When we talk about projects, what I often notice is that candidates don't
     give enough business context. They immediately jump into technical things like,
     “I used logistic regression and it had 70% accuracy. It wasn't good enough, so
@@ -615,6 +602,7 @@ transcript:
   sec: 2018
   time: '33:38'
   who: Nick
+- header: 'Controlling Pacing: Avoiding rambling and burying the lead'
 - line: You actually brought up a good point – when somebody is trying to cover every
     single detail. When I interview, I don't feel very good saying, “Hey, stop. Let's
     not go into details,” because then I would have to interrupt. But I often have
@@ -667,6 +655,7 @@ transcript:
   sec: 2174
   time: '36:14'
   who: Alexey
+- header: 'Technical Claims: Only present models you can defend'
 - line: Right! Write real bullets on your thing, because you're going to be asked
     about them. Let's be honest and let's say you did do SVM and you just don't know
     everything about it. Well, go prepare that before your interview, because you
@@ -683,6 +672,7 @@ transcript:
   sec: 2238
   time: '37:18'
   who: Nick
+- header: 'Favorite-Model Strategy: Choose familiar, project-backed techniques'
 - line: I remember in one interview, the interviewer asked me, “Hey, what's your favorite
     model?” And then I thought, “Okay, the next question will be ‘tell me how this
     model actually works.’” So I answered “linear regression.” And then he was like
@@ -713,6 +703,7 @@ transcript:
   sec: 2375
   time: '39:35'
   who: Alexey
+- header: 'Portfolio Impact: Quantifying non-enterprise projects'
 - line: Perfect. Yeah, that's a real question. Because let's say you're a student
     and all you've done is internships or not even any internships. I feel like there's
     an art to being able to quantify your impact. In my book, I talk a ton about the
@@ -739,6 +730,7 @@ transcript:
   sec: 2455
   time: '40:55'
   who: Alexey
+- header: 'Senior vs. Junior: Differences in behavioral and case expectations'
 - line: Like staff or at principal – yeah. I think behavioral questions about ‘your
     biggest failure in this and that’ are going to be asked at every level, because
     everyone should have some kind of failure. I think just at the higher levels,
@@ -787,6 +779,7 @@ transcript:
   sec: 2648
   time: '44:08'
   who: Alexey
+- header: 'Case Interview Approach: Clarify goals before proposing solutions'
 - line: Yeah, exactly. I want to caveat one thing, though. This kind of framework
     of clarifying, I think it's true for all levels. I'm just saying the way the senior
     management might clarify would be more interesting than a junior person. A junior
@@ -810,6 +803,7 @@ transcript:
   sec: 2725
   time: '45:25'
   who: Alexey
+- header: 'Product-Sense Interviews: Metrics, assumptions, and brainstorming'
 - line: Sure. So product-sense interviews are not asked by every company, but they
     are asked by more product-driven companies like Facebook, as well as for roles
     like product data science, business analytics, marketing analytics. Most analytic
@@ -850,6 +844,7 @@ transcript:
   sec: 2833
   time: '47:13'
   who: Nick
+- header: 'Metric Identification: Researching unfamiliar domains effectively'
 - line: Usually, the first thing you try to do is, again, clarify. I talk about that
     framework in our book. You first have to say, “Hey! When you say ‘improve,’ what
     are we trying to improve? What's the key metric we're trying to improve?” Because
@@ -932,6 +927,7 @@ transcript:
   sec: 3183
   time: '53:03'
   who: Alexey
+- header: 'Company Context: Using reports and product knowledge to prepare'
 - line: Yeah. Then I think you'd still want to know what their product set was. Oftentimes,
     you might know what team you're interviewing with. Honestly, these days, if it's
     data scientists at GCP (Google Cloud Platform), there might be 100 teams there,
@@ -948,6 +944,7 @@ transcript:
   sec: 3191
   time: '53:11'
   who: Nick
+- header: 'Read Tech Blogs: Learning production and architecture from case studies'
 - line: Even just knowing the term ‘Total Cost of Ownership’ is not something that
     a junior data scientist might know, but a senior business leader thinks about
     it all the time. I think there's always a way. I also think that there's no foolproof
@@ -1003,6 +1000,7 @@ transcript:
   sec: 3410
   time: '56:50'
   who: Nick
+- header: 'Outreach Strategy: Cold emailing hiring managers and recruiters'
 - line: That's the first thing and the second thing is – dude, he gave a correct answer
     because that's all these engineering guys know – their own architecture. Someone
     who just regurgitates that? It's just like, “Oh, wow! That's pretty good.” Now,
@@ -1061,6 +1059,7 @@ transcript:
   sec: 3648
   time: '1:00:48'
   who: Alexey
+- header: 'Cold Email Examples: Showcasing projects with links and visuals'
 - line: You could even send it to a recruiter too. I've had great luck with sending
     it to recruiters as well. CEOs work too, for smaller companies, because they just
     want to hear from smart, talented people. I think the biggest thing is – a cover
@@ -1086,6 +1085,7 @@ transcript:
   sec: 3729
   time: '1:02:09'
   who: Alexey
+- header: 'Final Tips and Resources: Book recommendations and next steps'
 - line: No. I would just say – people who are about to interview or just want to know
     about how to ace their data science, data analyst, or machine learning interviews
     – go check out the book on Amazon. It's basically the “Cracking the Coding Interview”
@@ -1100,6 +1100,7 @@ transcript:
   sec: 3763
   time: '1:02:43'
   who: Alexey
+- header: 'Contact & Follow-up: NickSingh.com and LinkedIn'
 - line: You can check out the book on Amazon, of course. It’s just “Aced the Data
     Science Interview”. You can find me and my blogs on NickSingh.com. I also talk
     a ton on LinkedIn. I have about 65,000 followers on LinkedIn. I post tips daily,
