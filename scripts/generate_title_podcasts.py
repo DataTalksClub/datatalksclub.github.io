@@ -3,7 +3,7 @@
 Generate titles for podcast episodes using OpenAI API.
 
 This script takes a podcast page, finds the timestamp file from podcast-timestamps folder,
-and finds the guest's page in _people folder to use their information.
+and generates a SEO-optimized title for the podcast episode.
 
 Usage:
     python generate_title_podcasts.py <podcast_file> [--update] [--api-key YOUR_KEY]
@@ -26,24 +26,20 @@ from openai import OpenAI
 
 DEFAULT_PROMPT = """You are an SEO expert creating SEO-optimized titles for podcast episodes.
 
-You are given episode timestamps showing key topics and discussion flow and guest information (name, title, bio, expertise).
+You are given episode timestamps showing key topics and discussion flow.
 
-TASK: Based on the podcast timestamps and guest bio, generate a SEO-optimized title for the podcast episode.
+TASK: Based on the podcast timestamps, generate a SEO-optimized title for the podcast episode.
 
 REQUIREMENTS:
 - Make it clear and useful for the reader to grasp the main topic of the episode and its value proposition
 - Optimize for SEO with relevant keywords
 - Should be under 100 characters
-- Do not include guest's name in the title
-- Focus primarily on the main themes and topics in the timestamps, not the guest's current role
+- Focus primarily on the main themes and topics in the timestamps
 - Use action words and specific terms or concepts when appropriate
 - Make it compelling enough that someone would click on it in search results
 
 TIMESTAMPS:
 {timestamps_content}
-
-GUEST INFORMATION:
-{guest_info}
 
 OUTPUT: Generate ONLY the title text.
 """
@@ -84,73 +80,7 @@ def get_timestamps_file(podcast_file_path):
     return timestamp_file if timestamp_file.exists() else None
 
 
-def get_guest_info(guest_short):
-    """Get guest information from _people folder."""
-    script_dir = Path(__file__).parent
-    project_root = script_dir.parent
-    people_dir = project_root / '_people'
-    
-    guest_file = people_dir / f"{guest_short}.md"
-    
-    if not guest_file.exists():
-        return None
-    
-    with open(guest_file, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Extract front matter
-    if content.startswith('---\n'):
-        match = re.search(r'\n---\n', content[4:])
-        if match:
-            end_pos = match.start() + 4
-            frontmatter_text = content[4:end_pos]
-            rest_content = content[end_pos + 5:].strip()
-            
-            try:
-                frontmatter = yaml.safe_load(frontmatter_text)
-                # Combine front matter info with bio content
-                guest_info = {
-                    'name': frontmatter.get('title', ''),
-                    'short': frontmatter.get('short', ''),
-                    'picture': frontmatter.get('picture', ''),
-                    'linkedin': frontmatter.get('linkedin', ''),
-                    'twitter': frontmatter.get('twitter', ''),
-                    'web': frontmatter.get('web', ''),
-                    'bio': rest_content
-                }
-                return guest_info
-            except yaml.YAMLError:
-                return None
-    
-    return None
-
-
-def format_guest_info(guests_info):
-    """Format guest information for the prompt."""
-    if not guests_info:
-        return "No guest information available."
-    
-    formatted = []
-    for guest in guests_info:
-        if guest:
-            info_parts = []
-            if guest.get('name'):
-                info_parts.append(f"Name: {guest['name']}")
-            if guest.get('bio'):
-                info_parts.append(f"Bio: {guest['bio']}")
-            if guest.get('linkedin'):
-                info_parts.append(f"LinkedIn: {guest['linkedin']}")
-            if guest.get('twitter'):
-                info_parts.append(f"Twitter: {guest['twitter']}")
-            if guest.get('web'):
-                info_parts.append(f"Website: {guest['web']}")
-            
-            formatted.append("\n".join(info_parts))
-    
-    return "\n\n".join(formatted) if formatted else "No guest information available."
-
-
-def generate_title(timestamps_content, guest_info, api_key=None):
+def generate_title(timestamps_content, api_key=None):
     """Generate title using OpenAI API."""
     # Initialize OpenAI client
     if api_key:
@@ -162,12 +92,10 @@ def generate_title(timestamps_content, guest_info, api_key=None):
     # Format the prompt with all the information
     prompt = DEFAULT_PROMPT.format(
         timestamps_content=timestamps_content,
-        guest_info=guest_info
     )
 
     print(f"Prompt size: {len(prompt)} characters")
     print(f"  - Timestamps: {len(timestamps_content)} characters")
-    print(f"  - Guest info: {len(guest_info)} characters")
     print()
     
     # Call OpenAI API
@@ -303,11 +231,6 @@ def process_podcast_file(podcast_file: Path, api_key: str = None, update: bool =
             print("Warning: Could not parse frontmatter from podcast file", file=sys.stderr)
             frontmatter = {}
         
-        # Get guest names from front matter
-        guests = frontmatter.get('guests', [])
-        if not guests:
-            print("Warning: No guests found in front matter", file=sys.stderr)
-        
         # Get timestamp file
         timestamp_file = get_timestamps_file(podcast_file)
         if not timestamp_file:
@@ -318,24 +241,12 @@ def process_podcast_file(podcast_file: Path, api_key: str = None, update: bool =
             with open(timestamp_file, 'r', encoding='utf-8') as f:
                 timestamps_content = f.read().strip()
         
-        # Get guest information
-        guests_info = []
-        for guest_short in guests:
-            guest_info = get_guest_info(guest_short)
-            if guest_info:
-                print(f"Found guest info: {guest_short}")
-                guests_info.append(guest_info)
-            else:
-                print(f"Warning: Guest info not found for: {guest_short}", file=sys.stderr)
-        
-        formatted_guest_info = format_guest_info(guests_info)
-        
         print()
         print("Generating title...")
         print()
         
         # Generate title
-        title = generate_title(timestamps_content, formatted_guest_info, api_key=api_key)
+        title = generate_title(timestamps_content, api_key=api_key)
         
         print(f"Generated title ({len(title)} chars):")
         print(f"  {title}")
