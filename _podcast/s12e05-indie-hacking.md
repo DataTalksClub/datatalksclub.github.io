@@ -21,7 +21,8 @@ links:
   youtube: https://www.youtube.com/watch?v=KsV_SVXlTo8
 season: 12
 short: Indie Hacking
-title: "Build, Launch & Monetize Indie Hacker Products: Crypto Alerts, Generative AI & Growth"
+title: 'Build, Launch & Monetize Indie Hacker Products: Crypto Alerts, Generative
+  AI & Growth'
 transcript:
 - header: Episode Introduction
 - line: This week we'll talk about indie hacking. We have a special guest today, Pauline.
@@ -1187,7 +1188,24 @@ transcript:
   sec: 3567
   time: '59:27'
   who: Pauline
+intro: 'How do you build, launch, and actually monetize indie-hacker products in crypto
+  alerts and generative AI while keeping a day job? In this episode Pauline Clavelloux
+  — an IBM data science manager and consultant with eight years’ experience who also
+  ships side projects like Cryptopy (crypto alerts) and UnrealMe (a DreamBooth-inspired
+  selfie-to-art tool) — walks through the practical steps. <br><br> We cover Pauline’s
+  career path and an ML production case study (money‑laundering detection), then move
+  into indie-hacking essentials: bootstrapping, splitting time between a full‑time
+  role and side projects, and validating ideas. You’ll hear how she productized projects
+  (company setup, landing pages, legal, payments), chose a stack (Python/Flask, API
+  fine‑tuning vs self‑hosted GPUs), managed operating costs, and launched via Twitter
+  and niche listings. The conversation also tackles customer acquisition, pricing
+  constraints, marketing and content strategy, and skills gained across GCP, data
+  engineering, web dev, and growth. <br><br> Listen for actionable guidance on product
+  launch, monetization, and time management for indie hackers working on crypto alerts
+  and generative AI—concrete steps to validate, build, and grow side products without
+  external funding.'
 ---
+
 Links:
 
 * [Website](https://wintopy.io/){:target="_blank"}

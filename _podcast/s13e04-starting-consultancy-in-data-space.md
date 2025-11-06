@@ -21,7 +21,8 @@ links:
   youtube: https://www.youtube.com/watch?v=rh_pE35m3vE
 season: 13
 short: Starting a Consultancy in the Data Space
-title: "Build a Data Consulting Business: Customer Validation, User Interviews & Pricing Strategy"
+title: 'Build a Data Consulting Business: Customer Validation, User Interviews & Pricing
+  Strategy'
 transcript:
 - header: Podcast Introduction
 - line: This week we'll talk about starting and running a consultancy in the data
@@ -1090,6 +1091,23 @@ transcript:
   sec: 3686
   time: '1:01:26'
   who: Alexey
+intro: How do you validate customers, run effective user interviews, and set pricing
+  to build a sustainable data consulting business? In this episode Aleksander Kruszelnicki
+  — ex-Delivery Hero product manager turned co-founder of leukos, a boutique data
+  analytics agency in Berlin — walks through the practical steps he took shifting
+  from product ideas to a consulting model after early startup failures. <br><br>
+  We cover market and technical limits of “data stack as a service,” first-customer
+  stories, customer validation techniques for pre-product ideas, and a repeatable
+  user interview strategy (questions, cadence, roles, and note-taking). Aleksander
+  explains why value often sits in data modeling over infrastructure, the decision
+  to pivot to hands-on consulting, and team composition (PM + engineer). You’ll also
+  hear tactical guidance on client acquisition (network-first outreach), positioning
+  for European customers and VCs, messaging examples for revenue/marketing optimization,
+  marketing mix (networking, content, LinkedIn), pricing frameworks and rate setting,
+  contract models (day rates vs project pricing), and practical legal/admin steps
+  for registering a consultancy in Germany. <br><br> Listen to get actionable methods
+  for customer validation, user interviews, pricing strategy, and building a data
+  consulting business that captures real client value.
 ---
 Links:
 

@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=9DTTrN-khCk
 season: 9
 short: Freelancing and Consulting with Data Engineering
-title: "Freelance Data Engineering Playbook: Pricing, Client Acquisition & Tools — Adrian Brudaru"
+title: 'Freelance Data Engineering Playbook: Pricing, Client Acquisition & Tools —
+  Adrian Brudaru'
 transcript:
 - header: 'Guest Overview: Adrian’s Move to Freelancing'
 - line: This week we'll talk about freelancing in data engineering. We have a special
@@ -1273,6 +1274,22 @@ transcript:
   sec: 3776
   time: '1:02:56'
   who: Adrian
+intro: 'How do you price freelance data engineering work, win steady clients, and
+  pick the right tools for messy production problems? In this episode Adrian Brudaru
+  — an economist-turned-business analyst who moved to Berlin, left corporate/startup
+  cycles to freelance for five years, and now co‑founds a data company releasing open
+  source tooling — walks through a practical playbook for freelance data engineers.
+  <br><br> We cover pricing models (hourly rates, negotiation, occupancy and income
+  variability), client acquisition (networking, repeat business, recruiters vs direct
+  contracts, Upwork pros and cons), and scoping techniques (spikes, scope documents,
+  managing expectations). Adrian also digs into technical topics: legacy cleanup,
+  Airflow work, and a data loading tool for volatile schemas and automatic unpacking.
+  Along the way he explains building a reusable portfolio, transitioning from freelancing
+  to product or investing, working remotely vs on‑site, and how to create opportunities
+  in local markets like Berlin. <br><br> Listen to learn concrete approaches to freelance
+  data engineering pricing, client acquisition strategies, scoping projects, and practical
+  tools to handle unstable schemas — so you can evaluate projects, set rates, and
+  grow a sustainable freelance practice.'
 ---
 Links:
 

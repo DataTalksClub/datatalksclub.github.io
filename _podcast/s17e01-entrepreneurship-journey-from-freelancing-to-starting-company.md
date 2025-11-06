@@ -21,7 +21,8 @@ links:
   youtube: https://www.youtube.com/watch?v=vOpEQiCsaLw
 season: 17
 short: 'The Entrepreneurship Journey: From Freelancing to Starting a Company'
-title: "Build Open-Source Data Tools: Declarative JSON-to-Relational Pipelines for Python"
+title: 'Build Open-Source Data Tools: Declarative JSON-to-Relational Pipelines for
+  Python'
 transcript:
 - header: Podcast Introduction
 - header: 'Episode Overview: Building an Open‑Source Data Company'
@@ -1168,6 +1169,21 @@ transcript:
   sec: 3696
   time: '1:01:36'
   who: Alexey
+intro: How do you build an open‑source data tool that lets Python users turn messy
+  nested JSON into clean relational tables—without falling back on dumping JSON into
+  a warehouse? In this episode Adrian Brudaru, a Berlin‑based data founder who moved
+  from economics to business analysis, then freelancing and now co‑founding an open‑source
+  data company, walks through that exact challenge. <br><br> We unpack the core concept
+  of DLT (Declarative JSON→Relational Transformation), practical anti‑patterns to
+  avoid, and how a developer‑focused Python library can surface the right abstractions
+  and engine for reliable pipelines. Adrian also shares product lessons from iterating
+  on the engine and docs, using workshops and teaching as validation, bootstrapping
+  tactics (consulting revenue, scrappy ops), and signals that indicate product–market
+  fit. We close with go‑to‑market choices—library‑first vs platform positioning—ecosystem
+  partnerships, and roadmap ideas like paid complements and source‑generation experiments.
+  <br><br> If you build Python data pipelines or maintain data warehouses, this episode
+  offers concrete guidance on designing declarative JSON‑to‑relational pipelines,
+  documenting them as a product, and taking an open‑source data tool to users.
 ---
 Links:
 

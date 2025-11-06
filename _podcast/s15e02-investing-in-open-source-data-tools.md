@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=7Bg1JQLnCao
 season: 15
 short: Investing in Open-Source Data Tools
-title: "Investing in Open Source Developer, Data & AI Tooling: Go-to-Market, Funding & Monetization"
+title: 'Investing in Open Source Developer, Data & AI Tooling: Go-to-Market, Funding
+  & Monetization'
 transcript:
 - header: Episode Start & Welcome
 - header: 'Guest Overview: Bela’s Role at a Family Office'
@@ -1083,6 +1084,22 @@ transcript:
   sec: 3761
   time: '1:02:41'
   who: Alexey
+intro: How do you build a sustainable business around open source developer, data
+  and AI tooling — and what does it take to fund, commercialize and scale it? In this
+  episode Bela Wiertz, who works at a German family office investing in VC funds and
+  early-stage startups with a focus on open-source Data, AI & Developer Tooling, walks
+  through the practical playbook for founders and investors. Drawing on hands-on sourcing
+  and evaluation of early-stage open-source companies, Bela covers go-to-market strategies
+  that leverage community trust and bottom-up developer adoption, the role of venture
+  funding for angels, pre-seed and seed rounds, and fundraising hygiene like a 12–18
+  month runway. We dig into open-core and licensing trade-offs, monetization models
+  (hosted services, enterprise licenses, support), limits to support-led revenue,
+  and how to read community metrics — GitHub stars versus active engagement. Bela
+  also explains sourcing and due diligence techniques (GitHub screening, user interviews,
+  co-investor checks), geographic and sector focus in Europe, and real-world examples
+  like Hugging Face, Supabase, Kong and Qdrant. Listen to gain actionable frameworks
+  for GTM, funding strategy, monetization and early-stage investment signals for open
+  source developer, data and AI tooling.
 ---
 Links:
 

@@ -21,7 +21,7 @@ links:
   youtube: https://www.youtube.com/watch?v=S93V8RgwBig
 season: 20
 short: Taking your Freelance Career to the Next Level
-title: "Data Freelancer Playbook: Land Clients, Price Services & Use AI for Productivity"
+title: 'Data Freelancer Playbook: Land Clients, Price Services & Use AI for Productivity'
 transcript:
 - header: Episode Opening & Dimitri’s Data Journey
 - line: Hi everyone, welcome to our event. This event is brought to you by DataTalks.Club,
@@ -573,7 +573,25 @@ transcript:
   sec: 3929
   time: '1:05:29'
   who: Alexey
+intro: How do you move from employed data pro to a sustainable data freelancer who
+  consistently lands clients, prices services well, and uses AI to boost productivity?
+  In this episode Dimitri Visnadi — an independent data consultant focused on data
+  strategy who’s worked with Unilever, Ferrero, Heineken and Red Bull, held roles
+  at HP and a Google-partnered firm, and holds a Masters in Business Analytics & Computer
+  Science from UCL — walks through a practical playbook for data freelancers. <br><br>
+  Dimitri covers job-tenure trends and freelancer types, when to sell expertise versus
+  problem-solving, and how to validate freelance viability with financial targets.
+  He explains how to land initial clients through recruiters and LinkedIn, the idea
+  behind a data-freelancer job board, market-driven specialization, and insights on
+  rates, top skills and data management. You’ll hear about scaling choices (lifestyle
+  business vs agency), AI tools for productivity (Claude, ChatGPT, Cursor), course
+  and community approaches for branding and marketing, subscription models and client
+  relationship management, high-impact small analyses, pricing strategies (hourly
+  vs packages), and transition planning. <br><br> Listen to get concrete guidance
+  on landing clients, setting prices, structuring offers, and using AI tools to increase
+  productivity as a freelance data consultant.
 ---
+
 Links:
 
 * [Previous podcast episode](https://datatalks.club/podcast/s16e09-become-data-freelancer.html){:target="_blank"}

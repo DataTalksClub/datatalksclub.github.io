@@ -21,7 +21,8 @@ links:
   youtube: https://www.youtube.com/watch?v=-Gj7SaI-QW4
 season: 14
 short: Lessons Learned from Freelancing and Working in a Start-up
-title: "Freelance Data Scientist Playbook: MLOps, Model Monitoring, Upwork & Startup Skills"
+title: 'Freelance Data Scientist Playbook: MLOps, Model Monitoring, Upwork & Startup
+  Skills'
 transcript:
 - header: 'Podcast Introduction: guest Antonis and episode themes'
 - line: This week, we'll talk about freelancing and working at a startup. We have
@@ -995,7 +996,24 @@ transcript:
   sec: 3583
   time: '59:43'
   who: Alexey
+intro: How do you transition from startup engineering to a sustainable freelance data
+  science practice while handling MLOps, model monitoring, and client work on Upwork?
+  In this episode Antonis Stellas — a freelance data scientist at Nanometrisis with
+  a background in applied mathematics, physics and a professional doctorate working
+  on industry consultancy — lays out a practical playbook. <br><br> Antonis walks
+  through startup-honed skills (cross-functional roles, lean build-measure-learn,
+  communication and business know-how), concrete MLOps tooling and patterns (MLflow,
+  Prefect, Grafana), and model monitoring essentials like data drift, concept drift
+  and using Evidently AI. He shares a hands-on course project (semiconductor prediction),
+  streaming examples (YouTube metrics into BigQuery/Looker), Kafka/Confluent emphasis,
+  and an open-source Evidently how-to from Hacktoberfest. <br><br> For freelancers,
+  Antonis details starting on Upwork — profile building, proposal iteration, pricing
+  strategy, onboarding workflows, invoicing and balancing startup commitments. Listen
+  to get actionable guidance on building a portfolio, selecting projects, monitoring
+  production models, and practical steps to find and retain clients as a freelance
+  data scientist.
 ---
+
 Links:
 
 * [Lean Startup by Eric Ries](https://theleanstartup.com/){:target="_blank"}

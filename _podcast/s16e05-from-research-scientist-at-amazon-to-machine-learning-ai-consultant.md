@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=4RargY8iOaE
 season: 16
 short: From a Research Scientist at Amazon to a Machine learning/AI Consultant
-title: "Launch a Generative AI Freelance Business: NLP, Model-in-the-Loop Annotation & Client Pitch"
+title: 'Launch a Generative AI Freelance Business: NLP, Model-in-the-Loop Annotation
+  & Client Pitch'
 transcript:
 - header: Episode Introduction
 - line: This week, we'll talk about being a research scientist at Amazon, and transitioning
@@ -1230,6 +1231,21 @@ transcript:
   sec: 3656
   time: '1:00:56'
   who: Alexey
+intro: 'How do you turn NLP research experience into a viable generative AI freelance
+  business — and how do you actually win clients? In this episode Verena Weber, a
+  former Research Scientist at Alexa AI with 7+ years in machine learning and a background
+  in statistics, walks through that transition and the practical work that sells.
+  We cover launching a freelance generative AI business, designing and running model-in-the-loop
+  annotation studies (why they save time and improve consistency), model evaluation
+  strategies for stabilizing high‑traffic utterances, and how to package offerings
+  like generative AI workshops and use‑case discovery. <br><br> Verena also breaks
+  down the nuts-and-bolts of client acquisition: crafting pitch decks (long and short
+  formats), positioning, evidence and rates, LinkedIn visibility, network referrals,
+  events and mentorship. She doesn’t skip the realities of self-employment — taxes,
+  health insurance and admin — or content strategies to showcase expertise (technical
+  posts, papers, side projects). Listen to learn concrete steps for becoming an NLP
+  consultant, running annotation experiments that scale, and pitching value to SMEs
+  and product teams.'
 ---
 Links:
 

@@ -7,6 +7,8 @@ and finds the guest's page in _people folder to use their information.
 
 Usage:
     python generate_intro_podcasts.py <podcast_file> [--update] [--api-key YOUR_KEY]
+    python generate_intro_podcasts.py --all-in-dir _podcast/ --update
+    python generate_intro_podcasts.py --file-list podcasts.txt --update
     
 Example:
     python generate_intro_podcasts.py _podcast/s01e02-processes.md --update
@@ -18,38 +20,26 @@ import yaml
 import argparse
 import re
 from pathlib import Path
+from typing import List
 from openai import OpenAI
 
 
 DEFAULT_PROMPT = """You are an SEO expert creating podcast episode introductions for show notes and homepage descriptions.
 
-TASK: Generate an SEO-optimized intro summary based on episode timestamps and guest information.
+You are given episode timestamps showing key topics and discussion flow and guest information (name, title, bio, expertise) and episode title.
 
-INPUT PROVIDED:
-1. Episode timestamps showing key topics and discussion flow
-2. Guest information (name, title, bio, expertise)
+TASK: Generate an SEO-optimized intro summary based on episode timestamps, guest information and episode title.
 
 REQUIREMENTS:
-- Length: 150-300 words
-- Structure: Hook, Guest credibility, Key topics, Value proposition
-- SEO: Naturally integrate SEO keywords if they are related to the episode
-- Content: Base ONLY on actual timestamps and guest info (no generic filler)
+- Length: 150-200 words
+- Prioritize the topic highlighted in the episode title when generating the intro
+- Should include opening hook with a main challenge/question the episode explores, guest credibility for Google's E-E-A-T, introduce the key topics, and provide a value proposition for the listener
+- No marketer talk and hype, just focus on the content of the episode and the value it provides to the 
+- Do not invent things that are not in the timestamps or the episode title
+- Naturally integrate SEO keywords if they are related to the episode
 
-WRITING GUIDELINES:
-- Start with the main challenge/question the episode explores
-- Establish guest credibility and expertise early
-- Highlight 3-4 key topics from timestamps
-- End with clear value proposition for listeners
-- Use specific, actionable language
-- Avoid generic productivity/motivational content
-- Don't invent topics not in timestamps
-
-FORMAT STRUCTURE:
-1. Opening hook (main challenge/question)
-2. Guest introduction with credentials
-3. Key topics covered with description of what will be discussed in the episode
-4. Learning outcomes and listener benefits
-Formated as one coherent and natural text.
+EPISODE TITLE:
+{episode_title}
 
 TIMESTAMPS:
 {timestamps_content}
@@ -57,7 +47,7 @@ TIMESTAMPS:
 GUEST INFORMATION:
 {guest_info}
 
-OUTPUT: Generate ONLY the intro text using the structure above.
+OUTPUT: Generate ONLY the intro text.
 """
 
 
@@ -80,6 +70,7 @@ def parse_podcast_file(file_path):
             except yaml.YAMLError:
                 return None, content, content
     
+    # No frontmatter found
     return None, content, content
 
 
@@ -162,7 +153,7 @@ def format_guest_info(guests_info):
     return "\n\n".join(formatted) if formatted else "No guest information available."
 
 
-def generate_intro(timestamps_content, guest_info, api_key=None):
+def generate_intro(timestamps_content, guest_info, episode_title=None, api_key=None):
     """Generate intro using OpenAI API."""
     # Initialize OpenAI client
     if api_key:
@@ -173,11 +164,13 @@ def generate_intro(timestamps_content, guest_info, api_key=None):
     
     # Format the prompt with all the information
     prompt = DEFAULT_PROMPT.format(
+        episode_title=episode_title or "No episode title available",
         timestamps_content=timestamps_content,
         guest_info=guest_info
     )
     
     print(f"Prompt size: {len(prompt)} characters")
+    print(f"  - Episode title: {len(episode_title or '')} characters")
     print(f"  - Timestamps: {len(timestamps_content)} characters")
     print(f"  - Guest info: {len(guest_info)} characters")
     print()
@@ -196,7 +189,27 @@ def generate_intro(timestamps_content, guest_info, api_key=None):
     if intro.startswith("'") and intro.endswith("'"):
         intro = intro[1:-1]
     
+    # Format intro: replace paragraph breaks with <br><br>
+    intro = format_intro_with_breaks(intro)
+    
     return intro
+
+
+def format_intro_with_breaks(intro):
+    """Format intro text by replacing paragraph breaks with <br><br>."""
+    # Split by double newlines (paragraph breaks)
+    paragraphs = []
+    for para in intro.split('\n\n'):
+        para = para.strip()
+        if para:
+            # Replace single newlines within paragraph with spaces
+            para = ' '.join(para.split('\n'))
+            paragraphs.append(para)
+    
+    # Join paragraphs with <br><br>
+    formatted_intro = ' <br><br> '.join(paragraphs)
+    
+    return formatted_intro
 
 
 def update_podcast_file(file_path, intro):
@@ -223,7 +236,7 @@ def update_podcast_file(file_path, intro):
             new_frontmatter = yaml.dump(frontmatter, default_flow_style=False, allow_unicode=True, sort_keys=False)
             
             # Reconstruct file
-            new_content = f"---\n{new_frontmatter}---{rest_content}"
+            new_content = f"---\n{new_frontmatter}---\n{rest_content}"
             
             # Write back to file
             with open(file_path, 'w', encoding='utf-8') as f:
@@ -232,53 +245,87 @@ def update_podcast_file(file_path, intro):
             return True
     
     return False
-    
 
-def main():
-    parser = argparse.ArgumentParser(
-        description='Generate intros for podcast episodes using OpenAI API',
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-Examples:
-  # Generate intro and display it
-  python generate_intro_podcasts.py _podcast/s01e02-processes.md
-  
-  # Generate and update the file
-  python generate_intro_podcasts.py _podcast/s01e02-processes.md --update
-  
-  # Use custom API key
-  python generate_intro_podcasts.py _podcast/s01e02-processes.md --api-key sk-...
-  
-  # Process multiple files
-  for file in _podcast/s*.md; do python generate_intro_podcasts.py "$file" --update; done
-        """
-    )
+
+def get_project_root():
+    """Get the project root directory (parent of scripts directory)."""
+    script_dir = Path(__file__).parent
+    return script_dir.parent
+
+
+def resolve_podcast_path(podcast_file: str) -> Path:
+    """Resolve podcast file path relative to project root."""
+    file_path = Path(podcast_file)
+    if file_path.exists():
+        return file_path
     
-    parser.add_argument('podcast_file', help='Path to the podcast markdown file')
-    parser.add_argument('--update', action='store_true', help='Update the file with generated intro')
-    parser.add_argument('--api-key', help='OpenAI API key (or set OPENAI_API_KEY env var)')
-    parser.add_argument('--dry-run', action='store_true', help='Show what would be done without making changes')
+    # Try relative to project root
+    project_root = get_project_root()
+    file_path = project_root / podcast_file
+    if file_path.exists():
+        return file_path
     
-    args = parser.parse_args()
+    return None
+
+
+def get_podcast_files_from_args(args) -> List[Path]:
+    """Get list of podcast files from command line arguments."""
+    files = []
     
-    # Resolve file paths - try relative to current dir, then relative to project root
-    file_path = Path(args.podcast_file)
-    if not file_path.exists():
-        # If not found, try relative to project root (where script is located)
-        script_dir = Path(__file__).parent
-        project_root = script_dir.parent
-        file_path = project_root / args.podcast_file
+    if args.file_list:
+        # Read from file
+        list_file = Path(args.file_list)
+        if not list_file.exists():
+            project_root = get_project_root()
+            list_file = project_root / args.file_list
+        
+        if not list_file.exists():
+            print(f"Error: File list not found: {args.file_list}", file=sys.stderr)
+            sys.exit(1)
+        
+        with open(list_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#'):
+                    file_path = resolve_podcast_path(line)
+                    if file_path:
+                        files.append(file_path)
+                    else:
+                        print(f"Warning: File not found: {line}", file=sys.stderr)
     
-    if not file_path.exists():
-        print(f"Error: File not found: {args.podcast_file}", file=sys.stderr)
-        sys.exit(1)
+    elif args.all_in_dir:
+        # Get all .md files in directory
+        project_root = get_project_root()
+        dir_path = Path(args.all_in_dir)
+        if not dir_path.is_absolute():
+            dir_path = project_root / args.all_in_dir
+        
+        if not dir_path.exists():
+            print(f"Error: Directory not found: {args.all_in_dir}", file=sys.stderr)
+            sys.exit(1)
+        
+        files = sorted(dir_path.glob('*.md'))
     
-    print(f"Processing: {file_path.name}")
+    else:
+        # From command line arguments
+        for podcast_file in args.podcast_files:
+            file_path = resolve_podcast_path(podcast_file)
+            if file_path:
+                files.append(file_path)
+            else:
+                print(f"Error: File not found: {podcast_file}", file=sys.stderr)
+    
+    return files
+
+
+def process_podcast_file(podcast_file: Path, api_key: str = None, update: bool = False, dry_run: bool = False) -> bool:
+    """Process a single podcast file to generate and optionally update the intro."""
+    print(f"Processing: {podcast_file.name}")
     print("-" * 60)
     
     try:
         # Parse the podcast file
-        frontmatter, podcast_content, full_content = parse_podcast_file(file_path)
+        frontmatter, podcast_content, full_content = parse_podcast_file(podcast_file)
         
         if not frontmatter:
             print("Warning: Could not parse frontmatter from podcast file", file=sys.stderr)
@@ -290,9 +337,9 @@ Examples:
             print("Warning: No guests found in front matter", file=sys.stderr)
         
         # Get timestamp file
-        timestamp_file = get_timestamps_file(file_path)
+        timestamp_file = get_timestamps_file(podcast_file)
         if not timestamp_file:
-            print(f"Warning: Timestamp file not found: podcast-timestamps/{file_path.stem}.txt", file=sys.stderr)
+            print(f"Warning: Timestamp file not found: podcast-timestamps/{podcast_file.stem}.txt", file=sys.stderr)
             timestamps_content = "No timestamps available."
         else:
             print(f"Found timestamps: {timestamp_file.relative_to(timestamp_file.parent.parent)}")
@@ -311,35 +358,124 @@ Examples:
         
         formatted_guest_info = format_guest_info(guests_info)
         
+        # Get episode title from frontmatter
+        episode_title = frontmatter.get('title', '')
+        
         print()
         print("Generating intro...")
         print()
         
         # Generate intro
-        intro = generate_intro(timestamps_content, formatted_guest_info, api_key=args.api_key)
+        intro = generate_intro(timestamps_content, formatted_guest_info, episode_title=episode_title, api_key=api_key)
         
         print(f"Generated intro ({len(intro)} chars):")
         print(f"  {intro}")
         print()
         
         # Update file if requested
-        if args.update:
-            if args.dry_run:
+        if update:
+            if dry_run:
                 print("\n[DRY RUN] Would update the file with the new intro")
+                return True
             else:
-                success = update_podcast_file(file_path, intro)
+                success = update_podcast_file(podcast_file, intro)
                 if success:
                     print(f"\n✓ File updated successfully!")
+                    return True
                 else:
                     print(f"\n✗ Failed to update file", file=sys.stderr)
-                    sys.exit(1)
+                    return False
         else:
             print("\nTo update the file, run with --update flag")
+            return True
     
     except Exception as e:
         print(f"\nError: {e}", file=sys.stderr)
         import traceback
         traceback.print_exc()
+        return False
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description='Generate intros for podcast episodes using OpenAI API',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  # Generate intro and display it
+  python generate_intro_podcasts.py _podcast/s01e02-processes.md
+  
+  # Generate and update the file
+  python generate_intro_podcasts.py _podcast/s01e02-processes.md --update
+  
+  # Process multiple files
+  python generate_intro_podcasts.py _podcast/episode1.md _podcast/episode2.md --update
+  
+  # Process all files in a directory
+  python generate_intro_podcasts.py --all-in-dir _podcast/ --update
+  
+  # Read file list from a text file
+  python generate_intro_podcasts.py --file-list podcasts.txt --update
+  
+  # Use custom API key
+  python generate_intro_podcasts.py _podcast/s01e02-processes.md --api-key sk-...
+  
+  # Dry run to see what would be done
+  python generate_intro_podcasts.py --all-in-dir _podcast/ --dry-run
+        """
+    )
+    
+    parser.add_argument('podcast_files', nargs='*', help='Podcast markdown files to process')
+    parser.add_argument('--file-list', help='Text file containing list of podcast files (one per line)')
+    parser.add_argument('--all-in-dir', help='Process all .md files in the specified directory')
+    parser.add_argument('--update', action='store_true', help='Update the file with generated intro')
+    parser.add_argument('--api-key', help='OpenAI API key (or set OPENAI_API_KEY env var)')
+    parser.add_argument('--dry-run', action='store_true', help='Show what would be done without making changes')
+    
+    args = parser.parse_args()
+    
+    # Validate arguments
+    if not args.podcast_files and not args.file_list and not args.all_in_dir:
+        parser.error("Must provide podcast files, --file-list, or --all-in-dir")
+    
+    # Get list of files to process
+    files = get_podcast_files_from_args(args)
+    
+    if not files:
+        print("Error: No valid podcast files found", file=sys.stderr)
+        sys.exit(1)
+    
+    print(f"Found {len(files)} podcast file(s) to process")
+    if args.dry_run:
+        print("[DRY RUN MODE - No changes will be made]")
+    print()
+    
+    # Use API key from environment if not provided
+    api_key = args.api_key or os.getenv('OPENAI_API_KEY')
+    
+    # Process each file
+    successful = 0
+    failed = 0
+    
+    for i, podcast_file in enumerate(files, 1):
+        print(f"\n[{i}/{len(files)}] ", end='')
+        success = process_podcast_file(
+            podcast_file,
+            api_key=api_key,
+            update=args.update,
+            dry_run=args.dry_run
+        )
+        
+        if success:
+            successful += 1
+        else:
+            failed += 1
+    
+    # Summary
+    print("\n" + "=" * 60)
+    print(f"Summary: {successful} successful, {failed} failed")
+    
+    if failed > 0:
         sys.exit(1)
 
 

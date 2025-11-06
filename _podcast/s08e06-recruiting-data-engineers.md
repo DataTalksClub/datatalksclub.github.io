@@ -2,14 +2,23 @@
 episode: 6
 guests:
 - nicolasrassam
-intro: In this episode, Nicolas Rassam—then Senior Technical Recruiter at Onfido and
-  former member of the Criteo AI Lab talent team—explains what hiring data engineers
-  really looks like in today’s European tech market. He breaks down key differences
-  between recruiting data scientists and data engineers, the growing demand for formal
-  data engineering skills, and how candidates can stand out with real project experience.
-  You’ll learn how recruiters evaluate portfolios and GitHub profiles, what skills
-  matter most (SQL, Python, cloud fundamentals), and why targeted applications beat
-  the spray and pray approach for breaking into data roles.
+intro: How do you hire data engineers in Europe today — and what should candidates
+  and hiring managers actually focus on during interviews? In this episode Nicolas
+  Rassam, a Senior Talent Acquisition Partner at Helsing with 10+ years scaling AI
+  and engineering teams at Onfido and Criteo, walks through the practical realities
+  of hiring data engineers across Europe’s competitive, borderless market. <br><br>
+  We cover why data engineering matters now, differences in European hiring footprints,
+  and the rising demand for modern tooling. Nicolas breaks down common hiring challenges
+  — title ambiguity, experience mismatches, and recruiter technical literacy — and
+  explains how to evaluate transferable experience from software and BI roles. You’ll
+  get concrete guidance on level expectations (junior → senior), typical interview
+  processes and assessments, resume essentials (SQL, Python, problem solving, outcomes),
+  cloud fundamentals, when infrastructure/DevOps skills matter, portfolio/GitHub storytelling,
+  and strategies for career switchers (internships, targeted projects). The episode
+  also addresses hiring without degrees, industry fit for regulated data, and how
+  targeted applications beat spray-and-pray. Listen to learn what to prepare for interviews,
+  how to position projects, and what hiring teams really look for when recruiting
+  data engineering talent in Europe.
 ids:
   anchor: Recruiting-Data-Engineers---Nicolas-Rassam-e1hnkl1
   youtube: hylxiu4VGTo
@@ -21,7 +30,8 @@ links:
   youtube: https://www.youtube.com/watch?v=hylxiu4VGTo
 season: 8
 short: Recruiting Data Engineers
-title: "Hiring Data Engineers in Europe: Nicolas Rassam on Interviews, Skills & Career Switches"
+title: 'Hiring Data Engineers in Europe: Nicolas Rassam on Interviews, Skills & Career
+  Switches'
 description: Learn how to land data engineering roles with Nicolas Rassam. Master
   SQL, Python, portfolios, interviews, and switching careers effectively.
 topics:
@@ -852,6 +862,7 @@ transcript:
   time: '1:01:52'
   who: Nicolas
 ---
+
 Links:
 
 * [Onfido is hiring](https://onfido.com/engineering-technology/){:target="_blank"}

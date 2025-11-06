@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=eC3RNuI6ow0
 season: 22
 short: How to Build and Evaluate AI systems in the Age of LLMs
-title: "Build Scalable Machine Learning Infrastructure: Tools, Open Source & DevRel Strategies"
+title: 'Build Scalable Machine Learning Infrastructure: Tools, Open Source & DevRel
+  Strategies'
 transcript:
 - header: Episode Introduction & Guest Bio
 - line: This week we will talk about LLMs and AI like everyone else, I guess.
@@ -1113,6 +1114,22 @@ transcript:
   sec: 3690
   time: '1:01:30'
   who: Alexey
+intro: 'How do teams actually build scalable machine learning infrastructure—and what
+  roles do tools, open source, and developer relations play in making ML systems reliable
+  and adoptable? In this episode Hugo Bowne-Anderson, Head of Developer Relations
+  at Outerbounds and host of Vanishing Gradients, breaks down the practical challenges
+  of scaling ML: selecting the right ML tooling, leveraging open source foundations,
+  and using DevRel strategies to drive adoption across engineering and data science
+  teams. Hugo brings deep E-E-A-T: years at Coiled and DataCamp, creation of 30+ data
+  courses reaching millions, teaching at Yale and major conferences, plus hands-on
+  experience advocating for data science tooling and open source in enterprise settings.
+  We discuss concrete patterns for machine learning infrastructure, how open source
+  shapes deployability and reproducibility, and how developer relations can bridge
+  product, docs, and community to accelerate scaling ML in production. Listen to learn
+  actionable frameworks for choosing infrastructure components, practical DevRel tactics
+  to increase uptake, and how to align tooling with long-term data strategy—essential
+  listening for engineers, ML practitioners, and technical leaders building scalable
+  machine learning infrastructure.'
 ---
 Links:
 
