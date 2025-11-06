@@ -2,7 +2,14 @@
 episode: 2
 guests:
 - marijnmarkus
-intro: "In this episode, Marijn Markus—AI Lead and Managing Data Scientist at Capgemini—shares how to stand out in data science by combining curiosity, courage, and creativity. From his unconventional background in sociology and criminology, Marijn explains how diverse teams outperform homogeneous ones, why proactive problem-solving matters, and how to challenge hierarchy with data-driven insights. You’ll learn how to build unique portfolio projects (like time series modeling from a coffee machine), apply OSINT concepts to modern analytics, and grow your visibility through a thoughtful LinkedIn strategy."
+intro: In this episode, Marijn Markus—AI Lead and Managing Data Scientist at Capgemini—shares
+  how to stand out in data science by combining curiosity, courage, and creativity.
+  From his unconventional background in sociology and criminology, Marijn explains
+  how diverse teams outperform homogeneous ones, why proactive problem-solving matters,
+  and how to challenge hierarchy with data-driven insights. You’ll learn how to build
+  unique portfolio projects (like time series modeling from a coffee machine), apply
+  OSINT concepts to modern analytics, and grow your visibility through a thoughtful
+  LinkedIn strategy.
 topics:
 - data science
 - career growth
@@ -17,10 +24,10 @@ links:
   youtube: https://www.youtube.com/watch?v=RhSg8ill1So
 season: 8
 short: Hacking Your Data Career
-title: "Standing Out as a Data Scientist: Proactivity, Unique Projects & Career Strategy"
-description: "Stand out in data science with Marijn Markus. Learn unique portfolio projects, LinkedIn growth, OSINT, and career strategies beyond Kaggle."
+title: 'Standing Out as a Data Scientist: Proactivity, Unique Projects & Career Strategy'
+description: 'Learn how to hack your data career with proactive task selection, unique coffee-machine time-series projects, OSINT analytics, and expert LinkedIn growth tips.'
 transcript:
-- header: "Career Journey: Sociology, Criminology, and Data Science"
+- header: 'Career Journey: Sociology, Criminology, and Data Science'
 - line: This week, we'll talk about hacking your data career. We have a special Marijn.
     Marijn is a sociologist and a data scientist. He works at Capgemini. Did I pronounce
     it correctly? I had to look it up.
@@ -85,7 +92,7 @@ transcript:
   sec: 233
   time: '3:53'
   who: Alexey
-- header: "Competitive Advantage of Diverse, Non-Homogenous Teams"
+- header: Competitive Advantage of Diverse, Non-Homogenous Teams
 - line: I can go on for a few more if you want me too. But the main point here – and
     that's also something we're going to talk about a lot today, I think – is that
     I stand out in the field of data science because of my background. But that has
@@ -180,7 +187,7 @@ transcript:
   sec: 511
   time: '8:31'
   who: Marijn
-- header: "Strategy: Rejecting Perfect Curriculum; Doubling Down on Strengths"
+- header: 'Strategy: Rejecting Perfect Curriculum; Doubling Down on Strengths'
 - line: There is no perfect curriculum, just like there is no consensus within science.
     There shouldn't be. Science agrees that this is a very dangerous statement to
     make. In the same way, your "perfect curriculum" at the micro level (because you
@@ -223,7 +230,7 @@ transcript:
   sec: 676
   time: '11:16'
   who: Marijn
-- header: "Career Hack: Standing Out; Being Proactive in Task Selection"
+- header: 'Career Hack: Standing Out; Being Proactive in Task Selection'
 - line: Okay. [laughs] I came across your post on LinkedIn. I reached out to you multiple
     times inviting you for the podcast. Then I saw this post, and I thought, "Okay.
     This is what I want to talk to Marijn about." And the post was about "how to hack
@@ -286,7 +293,7 @@ transcript:
   sec: 764
   time: '12:44'
   who: Marijn
-- header: "Proactivity: Learning Opportunities; The Risk of Unpopular Data Insights"
+- header: 'Proactivity: Learning Opportunities; The Risk of Unpopular Data Insights'
 - line: But maybe about this "delegate task" instead, your suggestion is be proactive.
     First, pick the task, which gives you an opportunity to choose things. So it's
     like, there is a meeting and then somebody says, "Okay, we need to do this thing."
@@ -403,7 +410,7 @@ transcript:
   sec: 1405
   time: '23:25'
   who: Marijn
-- header: "Challenging Organizational Hierarchy and Advising Seniors"
+- header: Challenging Organizational Hierarchy and Advising Seniors
 - line: Yeah, the next one. Or one of the next ones – "Don't be advised by a senior
     with 20 years of experience. Instead, talk back and advise the seniors." Do you
     have a story about that?
@@ -521,7 +528,7 @@ transcript:
   sec: 1664
   time: '27:44'
   who: Marijn
-- header: "Strategy: Bite Off More; Tool: Home Automation Pet Projects"
+- header: 'Strategy: Bite Off More; Tool: Home Automation Pet Projects'
 - line: Was there anything else in that post? I think we covered pretty much everything,
     but I'm sure you have a couple of more stories.
   sec: 1696
@@ -569,7 +576,7 @@ transcript:
   sec: 1807
   time: '30:07'
   who: Marijn
-- header: "Marijn’s Side Projects: Finding Value in Doing Things You Find Interesting"
+- header: 'Marijn’s Side Projects: Finding Value in Doing Things You Find Interesting'
 - line: '[laughs] Three people say that they got it. While you''re looking it up,
     one thing I know you for is that you always find these little pet projects that
     you do and then you tell the world about them. And these projects are so cool.'
@@ -633,7 +640,7 @@ transcript:
   sec: 1878
   time: '31:18'
   who: Marijn
-- header: "Experience Gained from Coffee Machine Time Series Modeling"
+- header: Experience Gained from Coffee Machine Time Series Modeling
 - line: What happened to your plants that you had to make a system to water them?
     Did they just die one day and then you thought "Okay. How can I make sure that
     they don't die again?"
@@ -738,7 +745,7 @@ transcript:
   sec: 2233
   time: '37:13'
   who: Alexey
-- header: "Portfolio Strategy: Building Unique Projects over Kaggle Competition"
+- header: 'Portfolio Strategy: Building Unique Projects over Kaggle Competition'
 - line: Don’t get me wrong, I highly respect the Kaggle grandmasters who can optimize
     the heck out of stuff. I can't do that to that extent. But that brings me back
     to my original statement, “Why fit in when you're born to stand out?” Because
@@ -787,7 +794,7 @@ transcript:
   sec: 2356
   time: '39:16'
   who: Marijn
-- header: "Marijn's NGO Project: Helping Smallholder Farmers Achieve Higher Yields"
+- header: 'Marijn''s NGO Project: Helping Smallholder Farmers Achieve Higher Yields'
 - line: Yeah. Can you tell us about this helping farmers project?
   sec: 2425
   time: '40:25'
@@ -830,7 +837,7 @@ transcript:
   sec: 2430
   time: '40:30'
   who: Marijn
-- header: "The Importance of Team Collaboration and Domain Experts"
+- header: The Importance of Team Collaboration and Domain Experts
 - line: If you are not an expert in farming – or whatever other domain, whatever other
     field – and there are some things that domain experts, people who are your customers,
     don't ask for. How do you know that they are going to need this if you're not
@@ -885,7 +892,7 @@ transcript:
   sec: 2716
   time: '45:16'
   who: Marijn
-- header: "Concept: Open Source Intelligence (OSINT) and Modern Warfare"
+- header: 'Concept: Open Source Intelligence (OSINT) and Modern Warfare'
 - line: Another thing you and I talked about just a couple of days ago – you mentioned
     already that there might be a problem with famine and hunger in the next months
     again, right? I think it's related to war in Ukraine. This is something we've
@@ -1006,7 +1013,7 @@ transcript:
   sec: 3211
   time: '53:31'
   who: Marijn
-- header: "Soft Skills, Uniqueness, and Avoiding the Average Profile"
+- header: Soft Skills, Uniqueness, and Avoiding the Average Profile
 - line: Yeah. Okay. I don't know if I should change the topic or not because we have
     some questions. One question from Mike (you probably don't see this question because
     it's from Slido). Mike is asking "Should data experts learn soft skills, like
@@ -1084,7 +1091,7 @@ transcript:
   sec: 3438
   time: '57:18'
   who: Marijn
-- header: "Tool: LinkedIn Growth Strategy (Timing, Comments, Content Mix)"
+- header: 'Tool: LinkedIn Growth Strategy (Timing, Comments, Content Mix)'
 - line: Yeah. Right. Well, we still have time for one more question maybe. This is
     something I wanted to ask you – so one question about LinkedIn. I see that you're
     pretty active there and you have quite a few followers. What is your growth strategy

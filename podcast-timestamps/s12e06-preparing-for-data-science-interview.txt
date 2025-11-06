@@ -1,0 +1,22 @@
+00:00:00 Episode Introduction
+00:01:41 Guest Introduction: Luke Whipps & Neural AI
+00:03:03 Recruitment Career Overview: ML focus, startups, Germany
+00:04:40 Remote Work & Client Geography: UK base serving German market
+00:08:35 Podcast Purpose: AI Game Changers format and goals
+00:11:54 Recruiter Strategy: Embedded talent specialist and candidate coaching
+00:15:32 Market Snapshot: hiring trends, layoffs, and candidate concerns
+00:22:02 Interview Process Overview: stages, scope, and assumptions
+00:25:50 Stage Zero: recruiter screening and role-fit filtering
+00:28:06 Intro Interview Prep: objectives, structure, and relationship building
+00:30:26 Interviewer Research: personality signals and communication matching
+00:38:35 Message Preparation: elevator pitches and STAR storytelling
+00:41:35 Technical Interview Components: binary, scenario, example, and coding
+00:44:56 Aligning Expectations: clarifying technical depth with recruiters
+00:48:10 Prep Prioritization: fundamentals first, then secondary and ideal skills
+00:51:00 Question Flow Strategy: follow-ups to probe deeper understanding
+00:52:58 Theory vs. Practice: relevance of mathematical and theoretical questions
+00:55:17 Recovering from Failure: bombing interviews, feedback, and retakes
+00:58:47 Applying Internally: focused applications and direct outreach tactics
+01:00:05 Practice Resources: LeetCode, HackerRank, Codeforces, Educative
+01:01:43 Supplemental Material: Luke’s interview prep document (show notes)
+01:01:57 Closing Remarks and Episode Wrap-up

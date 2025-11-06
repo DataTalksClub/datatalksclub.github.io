@@ -2,6 +2,14 @@
 episode: 5
 guests:
 - antonisstellas
+topics:
+- Freelance
+- Startups
+- Entrepreneurship
+- Career Growth
+- Remote Work
+- Consulting
+- Self-Employment
 ids:
   anchor: ow/datatalksclub/episodes/Lessons-Learned-from-Freelancing-and-Working-in-a-Start-up---Antonis-Stellas-e25g94r
   youtube: -Gj7SaI-QW4
@@ -15,6 +23,7 @@ season: 14
 short: Lessons Learned from Freelancing and Working in a Start-up
 title: Lessons Learned from Freelancing and Working in a Start-up
 transcript:
+- header: 'Podcast Introduction: guest Antonis and episode themes'
 - line: This week, we'll talk about freelancing and working at a startup. We have
     a special guest today, Antonis. Antonis is a freelance data scientist who is currently
     working at Nanometrisis, which is a startup that focuses on providing software
@@ -36,7 +45,7 @@ transcript:
   sec: 125
   time: '2:05'
   who: Alexey
-- header: Antonis' background
+- header: 'Early Education: applied mathematics, physics and nanotechnology'
 - line: Before we go into our main topic of freelancing and working at a startup,
     let's start with your background. Can you tell us about your journey so far?
   sec: 148
@@ -63,6 +72,7 @@ transcript:
   sec: 227
   time: '3:47'
   who: Alexey
+- header: 'Professional Doctorate: industry projects and consultancy in the Netherlands'
 - line: Yeah. It's education and work in the same program. The first year you work
     as a kind of a consultant for a company, doing small projects, for like four or
     three months. Then in the second year, they send you to do a one-year contract
@@ -91,6 +101,7 @@ transcript:
   sec: 327
   time: '5:27'
   who: Alexey
+- header: 'Nanometrisis Focus: nanoscale inspection for chips, razors and cosmetics'
 - line: Yeah. Actually, one of the nanoproducts (or clients) that we have is building
     surfaces in the nanoscale. You can't see it with your eyes – you need a special
     machine to see them using electrons. So it uses electrons and not light. These
@@ -139,12 +150,12 @@ transcript:
   sec: 472
   time: '7:52'
   who: Antonis
-- header: The pros and cons of working for a startup
 - line: Anyways, you finished your program, you came back to Greece, and you decided
     to work at a startup. So how did it happen? Why a startup? Why not join a corporation?
   sec: 487
   time: '8:07'
   who: Alexey
+- header: 'Career Choice: choosing a startup over a corporation'
 - line: Yeah. I had an opportunity to either work for a corporation (kind of a corporation,
     it was the SNC company). I had the opportunity either to work there or to work
     at the startup. Both offers were around the same time. After I graduated, I finished
@@ -208,6 +219,7 @@ transcript:
   sec: 699
   time: '11:39'
   who: Alexey
+- header: 'Role Variety in Startups: cross-functional responsibilities'
 - line: Yeah. I think when it comes to a corporate environment, although there are
     always exceptions, you're kind of more focused on the job that is in the role
     description. But in a startup, you might take other positions as well, because
@@ -251,6 +263,7 @@ transcript:
   sec: 863
   time: '14:23'
   who: Alexey
+- header: 'Small-Team Dynamics: working in a four-person startup'
 - line: We are four active people.
   sec: 870
   time: '14:30'
@@ -284,11 +297,11 @@ transcript:
   sec: 907
   time: '15:07'
   who: Antonis
-- header: Useful skills for working at a startup and the Lean way to work
 - line: Since you joined, what kind of new skills have you learned working at a startup?
   sec: 941
   time: '15:41'
   who: Alexey
+- header: 'Skills Acquired: communication, business knowledge and self-organization'
 - line: I think communication – how to be better at communicating with the team. Because
     I was not the only data scientist. When I was building something, I had to translate
     it using not too many complicated, technical words to other people. Also, maybe
@@ -311,6 +324,7 @@ transcript:
   sec: 1056
   time: '17:36'
   who: Alexey
+- header: 'Lean Methodology: build-measure-learn applied to products and ML'
 - line: It comes from the fact that we cannot make very accurate predictions of something
     that we will publish, or how it will go. So we build the product and that product
     is built on assumptions. If it's physics or maybe you want to send something to
@@ -363,6 +377,7 @@ transcript:
   sec: 1259
   time: '20:59'
   who: Alexey
+- header: 'Model Monitoring: data drift, concept drift and Evidently AI'
 - line: I mean, yeah. Maybe life. [chuckles] In machine learning, you make assumptions
     when you publish a model about how it will go based on the training dataset that
     you have in the testing. But then when you publish it, things might change. One
@@ -373,7 +388,7 @@ transcript:
   sec: 1260
   time: '21:00'
   who: Antonis
-- header: How Antonis joined the DataTalks.Club community
+- header: 'Community Onboarding: discovering and joining DataTalks.Club'
 - line: For those who do not know, Antonis is talking about the MLOps course, which
     is the free course that started last week. We are still on module one and by the
     time the recording is out, we will probably be on module three, maybe. You can
@@ -429,6 +444,7 @@ transcript:
   sec: 1508
   time: '25:08'
   who: Alexey
+- header: 'MLOps Course Project: semiconductor prediction with MLflow, Prefect, Grafana'
 - line: Yeah. I chose a semiconductor project. [chuckles] I don't remember what I
     was predicting. There were a lot of features. It was a machine learning model
     that I think was predicting if a chip is going to fail or not. I'm not sure. I
@@ -441,11 +457,11 @@ transcript:
   sec: 1512
   time: '25:12'
   who: Antonis
-- header: Suggestions for students joining the MLOps course
 - line: Do you have any suggestions for the students who just started the MLOps course?
   sec: 1598
   time: '26:38'
   who: Alexey
+- header: 'Course Recommendations: do exercises, be patient, complete final project'
 - line: Yeah. I think I would definitely suggest doing the exercises in the end. You
     can watch a video and then you can forget what was done in it if you don't practice
     it yourself. For me, that happens all the time. I think I know it, but the knowledge
@@ -467,13 +483,13 @@ transcript:
   sec: 1603
   time: '26:43'
   who: Antonis
-- header: Antonis contributing to Evidently AI
 - line: That's pretty cool. I know that in the course you used Evidently and then
     I saw you in the Evidently community. I think you also contributed to the tool.
     How did that happen? Can you tell us about that?
   sec: 1711
   time: '28:31'
   who: Alexey
+- header: 'Open Source Contribution: creating an Evidently how-to during Hacktoberfest'
 - line: Yeah. I saw Evidently and I liked the tool. Then they announced the Hacktoberfest
     for October. The organization behind it announced it and Evidently itself had
     some issues posted, where you could do a pull request. I like them too, and I
@@ -494,7 +510,6 @@ transcript:
   sec: 1793
   time: '29:53'
   who: Antonis
-- header: How Antonis started freelancing
 - line: Well, speaking of not having so much time – I know that you work at a startup
     and that you also take a very active part in our community. You also contribute
     to open source projects, like with Evidently, and you also freelance. So tell
@@ -503,6 +518,7 @@ transcript:
   sec: 1813
   time: '30:13'
   who: Alexey
+- header: 'Starting on Upwork: goals, platform mechanics and client discovery'
 - line: Yeah, I was working at a startup and I wanted to expose myself more to data
     science and building things. Apart from gaining the knowledge I also wanted some
     actual clients for myself, for the data science part, just for me to grow and
@@ -525,6 +541,7 @@ transcript:
   sec: 1912
   time: '31:52'
   who: Alexey
+- header: 'Project Types on Upwork: ML, analytics, LLMs and variable durations'
 - line: All kinds. I have a niche – you can check out my dissertation over two hours
     or something, and there could be a six month project on building a model. Now
     I see a lot of LLMs there – GPT-related things.
@@ -556,7 +573,6 @@ transcript:
   sec: 1990
   time: '33:10'
   who: Antonis
-- header: Getting your first clients on Upwork
 - line: You mentioned that there is a lot of competition. I imagined that especially
     for those who are just getting started on a platform like Upwork or Fiverr, or
     other ones (there are a few of them), how do you actually get the first client
@@ -564,6 +580,7 @@ transcript:
   sec: 2039
   time: '33:59'
   who: Alexey
+- header: 'Profile Building: portfolios, attachments and iterative improvements'
 - line: Yeah, that's a very good question. You have to, again, have patience. [chuckles]
     That's definitely the biggest piece of advice. And you have to have persistence.
     You go step-by-step. First, you build a basic resume or portfolio. Upwork helps
@@ -605,6 +622,7 @@ transcript:
   sec: 2225
   time: '37:05'
   who: Antonis
+- header: 'Learning from Rejection: refining proposals and specializing skills'
 - line: Good. Happy to hear that. So you said that you were constantly improving and
     trying to figure out why rejections happened. Why do you think the rejections
     actually happened? Because your profile wasn't complete? Because the clients weren't
@@ -635,6 +653,7 @@ transcript:
   sec: 2347
   time: '39:07'
   who: Alexey
+- header: 'Motivation for Freelancing: learning, extra income and persistence'
 - line: It wasn't that I was doing only that. Again, for me, it was a learning experience
     from the beginning. So I enjoyed it. Also the frustration you get from not being
     where you should be kind of helps you build up until you achieve success.
@@ -659,7 +678,6 @@ transcript:
   sec: 2404
   time: '40:04'
   who: Antonis
-- header: Pricing your work as a freelancer
 - line: I've heard that one of the problems with Upwork and other similar platforms
     is that there are a lot of people who work for very little money and you kind
     of have to compete with them. How did you solve this problem? How do you come
@@ -667,6 +685,7 @@ transcript:
   sec: 2418
   time: '40:18'
   who: Alexey
+- header: 'Pricing Approach: hourly rates, client type and valuing your time'
 - line: I'm not able to answer this exactly. This is indeed an issue. I put an hourly,
     you know, $43 per hour. And I'm trying to follow that as much as I can, depending
     on the project. If the project is not gonna take a lot of time for me and it's
@@ -686,7 +705,6 @@ transcript:
   sec: 2439
   time: '40:39'
   who: Antonis
-- header: The process after getting approved by a client
 - line: So let's say you are at Upwork and you see a nice project, then you probably
     apply to this project, you send a cover letter, you send a PowerPoint presentation,
     and then you come up with a price depending on the type of the client. What happens
@@ -694,6 +712,7 @@ transcript:
   sec: 2532
   time: '42:12'
   who: Alexey
+- header: 'Onboarding Workflow: data inspection, milestones and client alignment'
 - line: That's a very interesting part of the process. After that, you might have
     already done an interview to get accepted, but then another process starts. You
     start with an approach to the client's problem. I've personally seen that I have
@@ -743,6 +762,7 @@ transcript:
   sec: 2712
   time: '45:12'
   who: Alexey
+- header: 'Financial Setup: registering as a freelancer and invoicing considerations'
 - line: Yeah. You have to register as a freelancer for your own country so when you
     get some income, you can say, “Okay, I make an invoice and publish it in the country
     and so they can bring in the taxes.”
@@ -780,7 +800,6 @@ transcript:
   sec: 2807
   time: '46:47'
   who: Antonis
-- header: Wearing many hats as a freelancer and while working at a startup
 - line: At your work, you have to wear multiple hats. We talked about many different
     things that you need to do, like talk to clients, maybe even do videos – all that
     kind of stuff. While, here, as a freelancer, you're more focused on machine learning,
@@ -788,6 +807,7 @@ transcript:
   sec: 2824
   time: '47:04'
   who: Alexey
+- header: 'Balancing Commitments: wearing many hats across startup and freelance work'
 - line: I think, again, it's communication skills – the whole process that I described.
     If you have good soft skills, it will help you because you have to control the
     whole process with the client. You also have to present to them what you did.
@@ -819,12 +839,12 @@ transcript:
   sec: 2966
   time: '49:26'
   who: Antonis
-- header: Other suggestions for getting clients as a freelancer
 - line: The question is, “I struggled to get freelance work. Other than being consistent
     in the search for freelance work, do you have any other suggestions?”
   sec: 2969
   time: '49:29'
   who: Alexey
+- header: 'Client Acquisition Tips: focus, upskilling and leveraging community resources'
 - line: Okay, I see. I think it can be a good idea to see what is valuable for the
     client and for you to get a job. So if you're being persistent and taking a lot
     of jobs, it will help you. The other thing is to fix your profile every day –
@@ -850,7 +870,7 @@ transcript:
   sec: 3091
   time: '51:31'
   who: Alexey
-- header: Antonis' thoughts on the Data Engineering course
+- header: 'Data Engineering Course: streaming emphasis and Kafka/Confluent usage'
 - line: Cool, thanks. Coming back to what you do at DataTalks.Club. This is something
     I wanted to talk about at the end. We already mentioned that you took part in
     our courses. You also recently finished the data engineering course. Right? [Antonis
@@ -883,6 +903,7 @@ transcript:
   sec: 3208
   time: '53:28'
   who: Alexey
+- header: 'Example Project: streaming YouTube metrics into BigQuery and Looker'
 - line: No. No, I wanted to actually make something valuable for DataTalks.Club. [chuckles]
     I tried in the beginning to use the Twitter API. But I was seeing that I was taking
     a lot of time to get accepted as a developer there. I don't know what the reason
@@ -918,6 +939,7 @@ transcript:
   sec: 3380
   time: '56:20'
   who: Alexey
+- header: 'Portfolio Advice: choose projects you enjoy and prioritize exploration'
 - line: Yeah. Find something that you personally like and try to see if there is data
     about that. And if there is, maybe you can build (if it's a data engineering project)
     a dashboard – or if it's a machine learning (MLOps) model. It does not have to
@@ -938,13 +960,13 @@ transcript:
   sec: 3446
   time: '57:26'
   who: Antonis
-- header: Antonis' resource recommendations
 - line: Okay. Well, I guess we should be wrapping up, so maybe a last question for
     you. Do you have any resource recommendations for anyone who is listening to this?
     I think you mentioned the Lean Startup book. Maybe you have some other recommendations?
   sec: 3476
   time: '57:56'
   who: Alexey
+- header: 'Recommended Reading: The Lean Startup, Lean Analytics, Designing ML Systems'
 - line: Yeah. I will definitely, again, recommend people to read The Lean Startup
     book. It will help them, whether they're in a startup or not. The whole idea of
     that process of working. I recommend that book for data scientists and machine
@@ -965,6 +987,7 @@ transcript:
   sec: 3578
   time: '59:38'
   who: Antonis
+- header: Closing Remarks and invitation to the community
 - line: Thank you. We should be wrapping up. Thanks for joining us today, for sharing
     all your experience, and thanks for being a very active member of our community.
     And thanks, everyone, for joining us today too and listening in. I guess that's
@@ -973,7 +996,6 @@ transcript:
   time: '59:43'
   who: Alexey
 ---
-
 Links:
 
 * [Lean Startup by Eric Ries](https://theleanstartup.com/){:target="_blank"}

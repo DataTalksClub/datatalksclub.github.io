@@ -1,0 +1,28 @@
+00:00:00 Episode Opening & Guest Welcome
+00:01:15 Guest Background and Career Path
+00:03:12 Onfido Role & European Hiring Footprint
+00:03:40 Roles Recruited: Data, ML & Research Spectrum
+00:04:33 European Tech Market Differences
+00:06:15 Borderless Recruitment and Competition Dynamics
+00:06:59 Episode Focus: Why Data Engineering Matters Now
+00:07:48 Tech vs Business Balance and Training Gaps
+00:11:06 Data Science Misconceptions and Data Quality Dependence
+00:13:14 Rising Demand for Data Engineering and Modern Tooling
+00:16:00 Recruiter Technical Literacy: Big-Picture Knowledge
+00:18:47 Hiring Challenges: Titles, Experience Mismatch, Demand
+00:20:57 Evaluating Transferable Experience from Software/BI Roles
+00:22:55 Expectations by Level: Junior → Senior Responsibilities
+00:26:38 Typical Interview Process and Level-Based Assessments
+00:30:39 Career Switchers: Internships, Projects, and Focused Skills
+00:31:16 Resume Essentials: SQL, Python, Problems & Outcomes
+00:35:07 Transition Strategy: Team Structure and Role Selection
+00:39:41 Cloud Fundamentals: Tool-Agnostic Conceptual Knowledge
+00:41:50 Infrastructure & DevOps Skills: When They Matter
+00:44:35 Interview Prep: Research Company and Explain Projects Clearly
+00:48:13 Targeted Applications vs. Spray-and-Pray Approach
+00:50:45 Hiring Without Degrees: Skills, Projects, Continuous Learning
+00:54:25 Standout Project Examples: First Pipelines & Privacy Work
+00:55:53 Portfolio & GitHub: Shareable Work and Storytelling
+00:58:05 Industry Fit: Domain Knowledge for Regulated Data
+01:00:59 Follow-up Resources: Webinars and Further Reading
+01:01:38 Episode Close and Final Tips

@@ -1,0 +1,29 @@
+00:00:00 Episode Introduction
+00:01:40 Guest Overview: Adrian’s Move to Freelancing
+00:02:12 Career Journey: Economics & Marketing to Data Engineering
+00:03:34 Becoming a Freelancer: Leaving Corporate Life & First Contract
+00:05:33 Hiring Process Differences: Freelance vs Corporate Engagements
+00:07:06 Income Variability & Occupancy Rate Explained
+00:09:27 Early Challenges: Impostor Syndrome and Team Fit
+00:11:36 First Projects: Legacy Cleanup, Airflow, Data Science & ICO Work
+00:15:08 Shift to Product: Founding a Company and Building a Prototype
+00:18:12 Pricing Models: Hourly Rates, Negotiation, and Market Ranges
+00:21:17 Skill Growth: Learning on the Job and Generalist Advantage
+00:23:19 Intermediaries: Recruitment Agencies vs Direct Client Work
+00:27:45 Client Acquisition: Networking Strategies and Repeat Business
+00:31:43 Scoping Work: Spikes, Scope Documents and Managing Expectations
+00:35:01 Networking Tactics: In-Person Meetings and Relationship Building
+00:39:45 Freelance Platforms: Upwork Pros, Cons, and Time Valuation
+00:40:57 Work Location: Choosing Remote or On‑Site Projects
+00:41:32 Data Loading Tool: Handling Volatile Schemas & Automatic Unpacking
+00:44:28 Transition Paths: From Freelancing to Product or Investing
+00:46:17 Reusable Portfolio: Building Demonstrable, Reusable Assets
+00:48:57 Personality Fit: Freelancing as an Introvert
+00:49:33 Work Flexibility: Feasibility of Working Three Months a Year
+00:51:27 Project Selection: Following Interest vs Strategic Skill Building
+00:52:22 Assessing Fit: Traits That Predict Freelance Success
+00:54:43 Local Market: Berlin Opportunities and How to Create Them
+00:55:30 Client Expectations: Proactivity, Ownership, and Outcomes
+00:57:23 Multiple Clients: Balancing Focus, Risk, and Side Gigs
+00:59:09 Freelance Cooperative: Slack Group for Collaboration & Referrals
+01:01:40 Contact & Resources: LinkedIn, GitHub, Slack Invite and Next Steps

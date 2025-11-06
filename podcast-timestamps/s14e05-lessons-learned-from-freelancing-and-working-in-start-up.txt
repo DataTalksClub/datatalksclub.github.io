@@ -1,0 +1,29 @@
+00:00:00 Podcast Introduction: guest Antonis and episode themes
+00:02:28 Early Education: applied mathematics, physics and nanotechnology
+00:03:50 Professional Doctorate: industry projects and consultancy in the Netherlands
+00:05:35 Nanometrisis Focus: nanoscale inspection for chips, razors and cosmetics
+00:08:19 Career Choice: choosing a startup over a corporation
+00:11:56 Role Variety in Startups: cross-functional responsibilities
+00:14:30 Small-Team Dynamics: working in a four-person startup
+00:15:49 Skills Acquired: communication, business knowledge and self-organization
+00:17:39 Lean Methodology: build-measure-learn applied to products and ML
+00:21:00 Model Monitoring: data drift, concept drift and Evidently AI
+00:21:54 Community Onboarding: discovering and joining DataTalks.Club
+00:25:12 MLOps Course Project: semiconductor prediction with MLflow, Prefect, Grafana
+00:26:43 Course Recommendations: do exercises, be patient, complete final project
+00:28:43 Open Source Contribution: creating an Evidently how-to during Hacktoberfest
+00:30:33 Starting on Upwork: goals, platform mechanics and client discovery
+00:31:57 Project Types on Upwork: ML, analytics, LLMs and variable durations
+00:34:19 Profile Building: portfolios, attachments and iterative improvements
+00:37:09 Learning from Rejection: refining proposals and specializing skills
+00:39:15 Motivation for Freelancing: learning, extra income and persistence
+00:40:39 Pricing Approach: hourly rates, client type and valuing your time
+00:42:33 Onboarding Workflow: data inspection, milestones and client alignment
+00:45:18 Financial Setup: registering as a freelancer and invoicing considerations
+00:47:28 Balancing Commitments: wearing many hats across startup and freelance work
+00:49:40 Client Acquisition Tips: focus, upskilling and leveraging community resources
+00:51:42 Data Engineering Course: streaming emphasis and Kafka/Confluent usage
+00:53:37 Example Project: streaming YouTube metrics into BigQuery and Looker
+00:56:41 Portfolio Advice: choose projects you enjoy and prioritize exploration
+00:58:11 Recommended Reading: The Lean Startup, Lean Analytics, Designing ML Systems
+00:59:43 Closing Remarks and invitation to the community

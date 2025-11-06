@@ -1,0 +1,28 @@
+00:00:00 Episode Introduction
+00:01:46 Early Education: From Economics & Chinese to Statistics
+00:03:09 Discovering Data Science During Master’s Studies
+00:03:39 Career Progression: Consulting, In‑house Roles, and Platform Data
+00:06:37 Freelance Transition: Becoming a Generative AI Consultant
+00:06:56 Landing a Research Role Without a PhD: Hiring Dynamics
+00:10:41 Amazon Research: Customer‑Focused, Production‑Oriented Work
+00:11:42 Using State‑of‑the‑Art Models and Publishing in Industry Tracks
+00:16:26 Prioritizing Business Impact Over Publication Counts
+00:17:49 Research Output: Project Cadence and Paper Frequency
+00:19:07 Project Leadership: Ownership, Stakeholders, and Delivery
+00:23:11 Model‑in‑the‑Loop Annotation Study: Design and Rationale
+00:25:20 Annotation Outcomes: Time Savings and Improved Consistency
+00:27:47 Model Evaluation Strategy and Stabilizing High‑Traffic Utterances
+00:31:43 Why Freelance: Impact on SMEs, Flexibility, and Entrepreneurship
+00:32:07 Service Offerings: Generative AI Workshops and Use‑Case Discovery
+00:35:35 Supporting Women in AI: Goals and Planned Initiatives
+00:37:55 Self‑Employment Realities: Taxes, Health Insurance, and Admin
+00:39:03 Crafting a Pitch Deck: Positioning, Evidence, and Rates
+00:41:59 Finding Clients: Network Conversations, Mentorship, and Events
+00:47:51 Choosing Generative AI: NLP Passion and Market Opportunity
+00:49:08 Tailoring the Deck: Long Format, Short Versions, and Website
+00:51:42 Early Leads: LinkedIn Visibility and Network Referrals
+00:52:34 Content Strategy: Technical Posts, Papers, and Personal Growth
+00:53:33 Side Projects & Wellbeing: Sound Baths and Creative Outlets
+00:55:06 Educational Foundation: Statistics, Probability, and Reading Papers
+00:57:53 Recommended Resources: Books and Podcasts
+01:00:39 Closing Remarks and Contact Information

@@ -1,0 +1,24 @@
+00:00:00 Episode Introduction & Guest Overview
+00:01:51 Career Narrative: From Backend Developer to Data Engineering Lead
+00:06:32 Motivation to Switch: Blackbox Models, Code Quality, and Professional Fit
+00:09:41 Role Overlap: Data Science Tasks That Are Data Engineering Work
+00:12:02 Data Intuition: How Data Is Produced, Structured, and Biased
+00:13:55 Transferable Strengths: Pipelines, Stakeholder Communication, Exploration
+00:15:02 Core Upskills: Collaborative Coding, CI/CD and DevOps Practices
+00:17:34 MLOps vs Research: When Data Scientists Need Production Engineering Skills
+00:19:36 Learning Pathways: On-the-Job Mentorship, Bootcamps, and Courses
+00:21:25 Experiment First: Side Projects and Small Work Assignments Before Switching
+00:23:41 Software Foundations: Take General Dev Courses (Web, Mobile) to Learn Engineering
+00:26:20 Essential Course Components: Git, Docker, Testing, CLI, Clean Code
+00:28:54 Language Guidance: SQL & Python for Analytics; Java/Scala for Streaming
+00:32:43 Market Dynamics: Strong Demand for Data Engineers and Expectation Gaps
+00:35:40 Teamwork Shift: Adapting to Pair Programming and Close Collaboration
+00:38:20 Organizational Models: Embedded Data Engineers vs Central Platform Teams
+00:39:30 Intersection Roles: Analytics Engineer, Data-Science-Engineers, MLOps
+00:41:29 Project Recipes: Build Scrapers, ETL Pipelines, Schedulers (Airflow)
+00:44:00 Portfolio Example: Domain-Focused Pipelines with Real Data & Automation
+00:49:22 Cloud Cost Control: Billing Exploration, Budgets, and Alerting
+00:52:46 Entry Strategy: When to Apply for Entry-Level Roles vs Internships
+00:55:46 Career Acceleration: Benefits of Consultancies and Large Companies
+00:58:36 Cloud Choice: Practical Differences, Local Demand, and Free Tiers
+01:00:21 Closing Remarks & How to Contact Ellen

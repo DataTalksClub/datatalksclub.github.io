@@ -2,6 +2,14 @@
 episode: 9
 guests:
 - dimitrivisnadi
+topics:
+- Freelance
+- Career Growth
+- Consulting
+- Personal Branding
+- Entrepreneurship
+- Remote Work
+- Business Development
 ids:
   anchor: datatalksclub/episodes/Can-You-Quit-Your-Job-and-Still-Succeed-as-a-Data-Freelancer-e360j7e
   youtube: S93V8RgwBig
@@ -15,7 +23,7 @@ season: 20
 short: Taking your Freelance Career to the Next Level
 title: Taking your Freelance Career to the Next Level
 transcript:
-- header: 00:00 Dimitri’s journey from corporate to freelance data specialist
+- header: Episode Opening & Dimitri’s Data Journey
 - line: Hi everyone, welcome to our event. This event is brought to you by DataTalks.Club,
     a community of people who love data. We have weekly events. If you want to find
     out more, there is a link in the description.
@@ -37,7 +45,7 @@ transcript:
   sec: 216
   time: '3:36'
   who: Dimitri
-- header: 05:41 Job tenure trends, tech career shifts, and freelance types
+- header: Job Tenure Trends & Freelancer Types
 - line: I want to apologize for going off script, but isn’t it fun? You mentioned
     staying one and a half years on average at companies. I had a similar situation
     until I found a company where I stayed much longer. Do you think staying around
@@ -74,7 +82,7 @@ transcript:
   sec: 562
   time: '9:22'
   who: Dimitri
-- header: 10:50 Freelancing challenges, success, and finding clients
+- header: Expertise vs Problem-Solving in Freelance Work
 - line: If you don’t know how to solve a specific problem, can you "fake it till you
     make it," like start solving and researching as you go? Does this apply in freelancing
     too, or is problem-solving itself the expertise you sell?
@@ -104,12 +112,14 @@ transcript:
   sec: 839
   time: '13:59'
   who: Alexey
+- header: 'Validating Freelance Viability: Financial Targets'
 - line: The most important part is making money. When I started, I had no clients
     but set an 8-month deadline to get enough clients or money to show it was viable.
     If it didn’t work, I had four months to find a job.
   sec: 853
   time: '14:13'
   who: Dimitri
+- header: 'Landing Initial Clients: Recruiters & LinkedIn'
 - line: How exactly did you get your first client? Did recruiters help you find clients?
     Was it easy?
   sec: 968
@@ -120,7 +130,7 @@ transcript:
   sec: 987
   time: '16:27'
   who: Dimitri
-- header: 17:33 Freelance market trends and Dimitri’s job board
+- header: Market Trends & Building a Data-Freelancer Job Board
 - line: You’ve been in the industry for a while and seen trends change. A few years
     ago, MLOps was popular, but now it seems less so. The problems remain, but AI
     and new terms are more popular. What is hot in the market now for freelancing?
@@ -192,7 +202,7 @@ transcript:
   sec: 1372
   time: '22:52'
   who: Dimitri
-- header: 23:51 Starting points, top freelance skills, and market insights
+- header: Market-Driven Specialization & Starting Paths
 - line: Do you think it could be more valuable to start freelancing as a generic software
     engineer, not focusing on data and then transition? Or, since freelancing usually
     means specializing and selling your expertise, is it better to learn data engineering
@@ -211,6 +221,7 @@ transcript:
   sec: 1469
   time: '24:29'
   who: Alexey
+- header: 'Job Board Insights: Rates, Top Skills & "Data Management"'
 - line: It really depends on the skills you have. If you're a data analyst, you likely
     won't become a software engineer overnight—it takes time to learn new skills.
     I could pull up numbers on how many software engineering roles get filtered out,
@@ -293,7 +304,7 @@ transcript:
   sec: 1912
   time: '31:52'
   who: Dimitri
-- header: '32:48 Building a lifestyle business: scaling and work-life balance'
+- header: 'Lifestyle Business vs Agency: Scaling Choices'
 - line: I’d be happy to help, since we’ve published datasets on Kaggle before. But
     the main topic is freelancing, not datasets. Suppose I found a few clients after
     a couple of months—what’s next? Do I just continue freelancing, or is there a
@@ -327,6 +338,7 @@ transcript:
   sec: 2033
   time: '33:53'
   who: Dimitri
+- header: 'AI Tools for Productivity: Claude, ChatGPT, Cursor'
 - line: I noticed my productivity surged after incorporating AI tools into my workflow.
     Besides Claude, do you use any other AI tools?
   sec: 2281
@@ -404,7 +416,7 @@ transcript:
   sec: 2689
   time: '44:49'
   who: Alexey
-- header: 45:30 Data Freelancer course and marketing for freelancers
+- header: 'Course & Community: Branding, Marketing, and Support'
 - line: Exactly. I also have an online course, Data Freelancer, for data professionals
     who have been employees but want to explore freelancing. Many don't know what
     to consider before making the move, how to attract clients, or what strategies
@@ -440,7 +452,7 @@ transcript:
   sec: 2901
   time: '48:21'
   who: Dimitri
-- header: 48:33 Subscription services and managing client relationships
+- header: Subscription Model & Client Relationship Management
 - line: That leads into diversifying the business. Your main focus is on client projects,
     but you also set aside time for other ideas like the course. Do you do anything
     else?
@@ -472,6 +484,7 @@ transcript:
   sec: 3114
   time: '51:54'
   who: Alexey
+- header: 'High-Impact Analytics: Small Analyses, Big Returns'
 - line: Yes. My clients are small teams who want a freelancer instead of an expensive
     agency. I’m clear that I can only handle one task at a time. So, for example,
     I’ll focus on building a dashboard and follow up when it’s ready. After four months
@@ -501,7 +514,7 @@ transcript:
   sec: 3315
   time: '55:15'
   who: Dimitri
-- header: 56:47 Pricing models and transitioning advice
+- header: 'Pricing Strategies: Hourly, Project Packages, and Transitioning'
 - line: The book also suggests moving away from hourly rates to packaged project models.
     That means pricing by project, not by hour, right?
   sec: 3407
@@ -527,7 +540,7 @@ transcript:
   sec: 3571
   time: '59:31'
   who: Alexey
-- header: 1:01:02 Notice periods, networking, and risks in freelancing transition
+- header: Notice Periods & Transition Planning for Freelancers
 - line: When I switched, I had a very long notice period of six months. One secure
     way is to ask your employer if you can continue working with them as your first
     client once you go freelance.
@@ -554,13 +567,13 @@ transcript:
   sec: 3662
   time: '1:01:02'
   who: Dimitri
+- header: Episode Wrap-up & Final Advice
 - line: Thanks so much for answering the questions and sharing your story, Dimitri.
     It’s always great talking with you. Looking forward to next time!.
   sec: 3929
   time: '1:05:29'
   who: Alexey
 ---
-
 Links:
 
 * [Previous podcast episode](https://datatalks.club/podcast/s16e09-become-data-freelancer.html){:target="_blank"}

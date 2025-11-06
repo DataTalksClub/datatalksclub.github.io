@@ -15,6 +15,7 @@ season: 9
 short: Freelancing and Consulting with Data Engineering
 title: Freelancing and Consulting with Data Engineering
 transcript:
+- header: 'Guest Overview: Adrian’s Move to Freelancing'
 - line: This week we'll talk about freelancing in data engineering. We have a special
     guest today, Adrian. Adrian worked as a data engineer, but four years ago (if
     I'm right, he will correct me if I'm wrong) he decided that office life is not
@@ -35,7 +36,7 @@ transcript:
   sec: 129
   time: '2:09'
   who: Adrian
-- header: Adrian’s background
+- header: 'Career Journey: Economics & Marketing to Data Engineering'
 - line: Thanks for joining. Before we go into our main topic of freelancing in data
     engineering, let's start with your background. Can you tell us about your career
     journey so far?
@@ -66,6 +67,7 @@ transcript:
   sec: 210
   time: '3:30'
   who: Adrian
+- header: 'Becoming a Freelancer: Leaving Corporate Life & First Contract'
 - line: '[laughs] Okay. Can you tell us about this story? How did you become a freelancer?'
   sec: 214
   time: '3:34'
@@ -97,7 +99,7 @@ transcript:
   sec: 290
   time: '4:50'
   who: Adrian
-- header: Freelancing vs Employment
+- header: 'Hiring Process Differences: Freelance vs Corporate Engagements'
 - line: It seems like it was quite easy for you. A recruiter just reached out to you
     and you said, “Hey, you know what? I'm more interested in project-based work rather
     than a full-time job.” And then the recruiter got back to you, right? Sounds quite
@@ -126,7 +128,7 @@ transcript:
   sec: 398
   time: '6:38'
   who: Alexey
-- header: Risk and occupancy rate in freelancing
+- header: Income Variability & Occupancy Rate Explained
 - line: Yeah, I think the reason why not a lot of people are doing this is because
     nobody likes risk. And there is an element of risk involved. Ultimately, you need
     to calculate with some kind of occupancy rate. I think if you calculate with it
@@ -187,7 +189,7 @@ transcript:
   sec: 544
   time: '9:04'
   who: Adrian
-- header: The scariest part of freelancing
+- header: 'Early Challenges: Impostor Syndrome and Team Fit'
 - line: What was the scariest part for you when you were transitioning to freelancing?
     Okay, you told the recruiter that you were more interested in projects and then
     the recruiter told you “Okay, we have these projects.” Were you scared at this
@@ -225,7 +227,7 @@ transcript:
   sec: 641
   time: '10:41'
   who: Adrian
-- header: Adrian’s first projects
+- header: 'First Projects: Legacy Cleanup, Airflow, Data Science & ICO Work'
 - line: Probably we should talk more about the personal network, but a bit later.
     Right now, I want to ask you about your first project. I think you talked a little
     bit about that – you said that your first project was to clean the legacy setup.
@@ -282,7 +284,7 @@ transcript:
   sec: 871
   time: '14:31'
   who: Adrian
-- header: Freelancing 5 years later
+- header: 'Shift to Product: Founding a Company and Building a Prototype'
 - line: How did your services evolve over these five years? What do you do now? Is
     it much different from what you did?
   sec: 908
@@ -335,7 +337,7 @@ transcript:
   sec: 1082
   time: '18:02'
   who: Adrian
-- header: Pay rates in freelancing
+- header: 'Pricing Models: Hourly Rates, Negotiation, and Market Ranges'
 - line: Okay. [chuckle] Yeah, interesting. But let's say now, you're pretty advanced
     in your freelancing/consulting career, but back when you started, I guess one
     of the difficult things (maybe it wasn't difficult for you, I don't know, but
@@ -405,7 +407,7 @@ transcript:
   sec: 1261
   time: '21:01'
   who: Adrian
-- header: Acquiring skills while freelancing
+- header: 'Skill Growth: Learning on the Job and Generalist Advantage'
 - line: A couple of questions ago, you mentioned that in startups you learned how
     to do things end-to-end. So you were fine doing pretty much everything. Your first
     job was engineering and programming, data engineering, and then it was data science
@@ -439,7 +441,7 @@ transcript:
   sec: 1359
   time: '22:39'
   who: Adrian
-- header: Working with recruitment agencies and networking
+- header: 'Intermediaries: Recruitment Agencies vs Direct Client Work'
 - line: '[chuckles] Yeah, I also don''t remember. I was checking questions on YouTube
     and I don''t remember. But maybe the other thing I wanted to ask you – I know,
     since I got contacted by agencies as well, and the way these agencies work is:
@@ -535,7 +537,7 @@ transcript:
   sec: 1644
   time: '27:24'
   who: Adrian
-- header: Looking for projects and getting clients
+- header: 'Client Acquisition: Networking Strategies and Repeat Business'
 - line: So how do you find new customers and projects now? Through your network?
   sec: 1665
   time: '27:45'
@@ -585,7 +587,6 @@ transcript:
   sec: 1792
   time: '29:52'
   who: Adrian
-- header: Freelancing vs consulting
 - line: Another thing I wanted to ask – you started as a freelancer, but now you say
     you do consulting for 20% of the work? What is the difference? In my opinion,
     from what I understood, freelancing is more often when you do the actual work
@@ -616,7 +617,7 @@ transcript:
   sec: 1882
   time: '31:22'
   who: Adrian
-- header: Clarity in clients’ expectations (scope of work)
+- header: 'Scoping Work: Spikes, Scope Documents and Managing Expectations'
 - line: Yeah. We have quite a few questions. One of the questions is, “When you talk
     to a company – to a potential customer – and they tell you about the problems
     and about the use cases, do you usually get enough clarity of what they expect
@@ -684,7 +685,7 @@ transcript:
   sec: 2078
   time: '34:38'
   who: Adrian
-- header: Building your network
+- header: 'Networking Tactics: In-Person Meetings and Relationship Building'
 - line: By now, I’ve understood that having a network is very important when freelancing.
     How do I go about building a network? Do I do this online and show this work online?
     Or nobody cares about online and you need to network offline?
@@ -777,7 +778,7 @@ transcript:
   sec: 2330
   time: '38:50'
   who: Adrian
-- header: Freelancing platforms
+- header: 'Freelance Platforms: Upwork Pros, Cons, and Time Valuation'
 - line: What do you think about platforms like Upwork?
   sec: 2385
   time: '39:45'
@@ -801,6 +802,7 @@ transcript:
   sec: 2389
   time: '39:49'
   who: Adrian
+- header: 'Work Location: Choosing Remote or On‑Site Projects'
 - line: When you work with your clients, do you normally choose if you want to work
     remotely or on-site, or is it up to the client?
   sec: 2457
@@ -813,7 +815,7 @@ transcript:
   sec: 2470
   time: '41:10'
   who: Adrian
-- header: Adrian’s data loading prototype
+- header: 'Data Loading Tool: Handling Volatile Schemas & Automatic Unpacking'
 - line: Yeah, thanks. You said you're working on something right now – on a prototype.
     Can you tell us more about this, or it's a bit too early?
   sec: 2492
@@ -874,7 +876,7 @@ transcript:
   sec: 2646
   time: '44:06'
   who: Adrian
-- header: Going from freelancing to making your own product (and other investments)
+- header: 'Transition Paths: From Freelancing to Product or Investing'
 - line: I heard that many people want to go to consulting, to freelancing, but they
     don't want to do it forever. Because here, you exchange time for money, but at
     some point, maybe you just want to get money without spending time. [chuckles]
@@ -911,7 +913,7 @@ transcript:
   sec: 2764
   time: '46:04'
   who: Adrian
-- header: The usefulness of a portfolio
+- header: 'Reusable Portfolio: Building Demonstrable, Reusable Assets'
 - line: '[chuckles] Okay, thanks. We have a bunch of other questions. Would you recommend
     building a portfolio to showcase your skill and for reaching out to new customers?'
   sec: 2777
@@ -970,7 +972,7 @@ transcript:
   sec: 2910
   time: '48:30'
   who: Adrian
-- header: Introverts in freelancing
+- header: 'Personality Fit: Freelancing as an Introvert'
 - line: Okay. Got it. There’s another question, “Is freelancing better suited for
     extroverts or can introverts also do this?”
   sec: 2937
@@ -982,7 +984,7 @@ transcript:
   sec: 2952
   time: '49:12'
   who: Adrian
-- header: Is it possible to work for 3 months a year in freelancing?
+- header: 'Work Flexibility: Feasibility of Working Three Months a Year'
 - line: When we were talking about exchanging time for money, you said that not everyone
     wants the same thing. Some people want to work less. Is it feasible to, let's
     say, work for three months per year or is it too little? Is it even possible?
@@ -1021,7 +1023,7 @@ transcript:
   sec: 3078
   time: '51:18'
   who: Adrian
-- header: Choosing projects and skill-building strategy (focusing on interests)
+- header: 'Project Selection: Following Interest vs Strategic Skill Building'
 - line: '[laughs] Oh, okay. You’re lucky. You said that now you''re not actively looking
     for new projects. But at some point, you were looking for new projects and you
     said you always wanted to leave some room for learning. In this case, do you have
@@ -1037,6 +1039,7 @@ transcript:
   sec: 3113
   time: '51:53'
   who: Adrian
+- header: 'Assessing Fit: Traits That Predict Freelance Success'
 - line: So interest can be – interest in technology, or interest in a domain, or interest
     in working with specific people, right? It doesn't matter. Okay. How can I check
     if freelancing is for me? Let's say I have a full time job and I hear this conversation
@@ -1091,7 +1094,7 @@ transcript:
   sec: 3270
   time: '54:30'
   who: Adrian
-- header: Freelancing in Berlin
+- header: 'Local Market: Berlin Opportunities and How to Create Them'
 - line: Yeah, I think you said that the market is different right now. On the topic
     of Berlin, there is a question about Berlin – Is the market in Berlin currently
     good for freelancers in terms of pay opportunities and everything?
@@ -1107,7 +1110,7 @@ transcript:
   sec: 3297
   time: '54:57'
   who: Adrian
-- header: Clients’ expectations for freelancers vs employees
+- header: 'Client Expectations: Proactivity, Ownership, and Outcomes'
 - line: Okay. In terms of expectations from clients – let's say if we compare a full
     time employee from a company and a freelancer, would a company expect more from
     a freelancer in terms of being more proactive, driving decision making, coming
@@ -1140,7 +1143,7 @@ transcript:
   sec: 3407
   time: '56:47'
   who: Adrian
-- header: Working with more than one client at the same time
+- header: 'Multiple Clients: Balancing Focus, Risk, and Side Gigs'
 - line: What do you think about working for two clients simultaneously? Does it make
     sense? Does it just happen?
   sec: 3443
@@ -1184,7 +1187,7 @@ transcript:
   sec: 3533
   time: '58:53'
   who: Adrian
-- header: Adrian’s freelance cooperative on Slack
+- header: 'Freelance Cooperative: Slack Group for Collaboration & Referrals'
 - line: Okay. I know that we should be wrapping up. I remember now that we actually
     talked in person a month ago, I think – and I was asking you about that. You said
     there is some cooperative – a freelance cooperative. Can you tell us more about
@@ -1212,7 +1215,6 @@ transcript:
   sec: 3617
   time: '1:00:17'
   who: Adrian
-- header: Other advice for novice freelancers (networking)
 - line: Would you say… [cross-talk] Sorry. You want to say something? Would you suggest
     that people start a similar cooperative, let's say, if they are not from Berlin
     but from some other geographical area? Would you suggest that they start like
@@ -1236,7 +1238,7 @@ transcript:
   sec: 3689
   time: '1:01:29'
   who: Adrian
-- header: Finding Adrian online
+- header: 'Contact & Resources: LinkedIn, GitHub, Slack Invite and Next Steps'
 - line: Well, I think that's all we have time for today. There are still quite a few
     questions, both in live chat and Slido – sorry for not being able to cover all
     of them. There is a lot of interest in the topic. Thanks, Adrian, for coming today,
@@ -1272,7 +1274,6 @@ transcript:
   time: '1:02:56'
   who: Adrian
 ---
-
 Links:
 
 * [Github](https://github.com/scale-vector){:target="_blank"}

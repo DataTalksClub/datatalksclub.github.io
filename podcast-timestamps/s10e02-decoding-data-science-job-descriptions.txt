@@ -1,0 +1,29 @@
+00:00:00 Podcast Introduction
+00:01:41 Guest Bio: Tereza’s multidisciplinary data roles & community work
+00:02:40 Academic Background: PhD, information retrieval, recommender systems
+00:03:52 Industry Transition: XING to mytaxi/FREE NOW and evolving responsibilities
+00:06:09 Technical Practices at XING: Scala, Elasticsearch, product-driven engineering
+00:08:07 Building Data Infrastructure at mytaxi: ETL, Airflow and platform challenges
+00:10:15 Job Titles vs. Reality: Renaming roles and shaping career narratives
+00:11:07 Coaching Role: Neuefische bootcamp focus on product, teamwork and coaching
+00:13:22 Teaching Challenges: PhDs, collaboration and professional skills
+00:13:53 Hiring Misalignment: Company expectations versus candidate reality
+00:16:25 Interview Practices: Take-home tasks and candidate time burden
+00:18:14 Candidate Preparedness: Defining goals and asking the right questions
+00:20:06 Interpreting Job Titles: Spotting mislabeled data roles
+00:21:50 Career-Stage Fit: Junior versus experienced candidate needs
+00:23:01 Role Clarity Checklist: Team, objectives, responsibilities vs. tech lists
+00:27:18 Data Team Signals: Presence of data engineering and analytics functions
+00:30:20 Red Flags in Descriptions: Long tech lists and vague responsibilities
+00:31:03 Language & Culture Signals: “Rockstar”, “ninja” and inclusivity cues
+00:33:33 Interview Rigor Indicator: Bullet-point overload and syntax-focused tests
+00:37:08 Salary Transparency: German norms and benefits of publishing ranges
+00:38:51 Company Research Tactics: LinkedIn, team pages and conference presence
+00:39:18 Colleagues & Role Models: Finding inspiring teammates and mentors
+00:41:04 Retention & Career Ladders: Using LinkedIn to gauge internal mobility
+00:43:45 Remote Work Fit: Assessing WFH policies and support structures
+00:48:32 Data Maturity Model: Before, during, after data and hiring implications
+00:50:24 Day-to-Day Expectations: Time allocation across maturity stages
+00:56:21 Tech Stack Signals: Modern vs legacy tools and what they reveal
+00:58:19 Community Visibility: Talks and knowledge sharing as healthy-team signals
+01:00:07 Closing & Resources: Slides, talk links and final advice

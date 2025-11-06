@@ -1,0 +1,23 @@
+00:01:10 Podcast Introduction
+00:01:47 Career Journey & Archaeology Origin Story
+00:04:16 Data Stack as a Service: Market and Technical Limits
+00:07:16 Transition to Consulting: Early Projects and First Customer
+00:09:08 Customer Validation Techniques for Pre-Product Ideas
+00:12:53 User Interview Strategy: Questions, Frequency, and Evidence
+00:15:55 Conducting Interviews: Pair Roles and Note-Taking
+00:17:47 Team Composition: PM + Engineer Partnership
+00:18:01 Lessons from a Failed Product: Premature Build and Market Size
+00:21:39 Value Realization: Data Modeling vs Infrastructure
+00:22:42 Pivot Decision: Choosing Consulting to Capture Value
+00:25:45 Consulting Approach: Hands-On Implementation and Accountability
+00:27:59 Client Acquisition: Network-First Outreach
+00:30:17 Positioning Services: Target Customers and Timing
+00:31:59 Geographic Strategy: Europe Focus and VC Introductions
+00:37:03 Messaging Example: Revenue and Marketing Optimization Offers
+00:40:50 Marketing Mix: Networking, Content, and LinkedIn
+00:45:19 Pricing Framework: Value-Based Benchmarking
+00:49:18 Rate Setting: Starting Rates, Maximums and Minimums
+00:52:38 Contract Models: Day Rates vs Project Pricing and Incentives
+00:57:58 Legal & Administrative: Registering a Consultancy in Germany
+00:59:29 Recommended Reading: Decision-Making and Interviewing Books
+01:01:26 Closing Remarks and Episode Wrap-Up

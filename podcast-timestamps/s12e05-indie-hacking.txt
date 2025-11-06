@@ -1,0 +1,28 @@
+00:00:00 Episode Introduction
+00:01:12 Career Journey: Engineering Student to IBM Data Scientist
+00:02:58 Consulting Work: Project Types and Client Engagement
+00:04:50 Manager Role: Deliverables, Roadmaps, and Client Communication
+00:05:31 Case Study: Money-Laundering Detection Project and Deployment
+00:07:23 Indie Hacking Explained: Bootstrapping Without External Funding
+00:08:58 Day Job + Side Projects: Time Allocation and Routine
+00:11:14 Cryptopy Origin: Building Crypto Alerts for Personal Trading
+00:15:09 Productization: Company Setup, Landing Pages, Legal and Payments
+00:18:45 Technology Choices: Python/Flask, Team Contributions, and Architecture
+00:19:33 Marketing Efforts: Audience Reach, Social Channels, and Challenges
+00:21:46 Operating Costs and Niche Product Strategy
+00:23:33 UnrealMe Origin: DreamBooth Inspiration and Rapid Prototyping
+00:25:48 Implementation Decisions: API Fine-Tuning vs Self-Hosted GPUs
+00:28:41 Launch Channels: Twitter, Black Friday Listings, and Early Sales
+00:31:31 Customer Acquisition and Pricing Constraints
+00:34:55 Motivation: Creative Drive and Why Indie Hacking Matters
+00:35:47 Skills Gained: GCP, Data Engineering, Web Dev, and Marketing
+00:39:27 Work–Life Balance: Passion, Energy, and Time Management
+00:42:27 AboutStartup.io: Blog Concept, Interviews, and Monetization Paths
+00:45:39 Idea Generation: Frustration-Led Problems and Opportunity Sourcing
+00:48:54 Idea Validation: Competitor Scan, Skills Check, and Build Criteria
+00:50:35 Twitter Growth: Personal Branding and Audience Building
+00:52:38 Content Strategy: Balancing Data Science and Indie-Hacking Posts
+00:53:24 Community Access: Contact Options via Twitter and Slack
+00:54:35 Indie Inspiration: Pieter Levels and the “Many Projects” Approach
+00:57:10 Recommended Resources: Data Sense and AboutStartup.io
+00:58:19 Episode Wrap-Up and Final Thoughts

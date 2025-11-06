@@ -15,6 +15,8 @@ season: 10
 short: Decoding Data Science Job Descriptions
 title: Decoding Data Science Job Descriptions
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Bio: Tereza’s multidisciplinary data roles & community work'
 - line: This week, we'll talk about decoding the data science job description. We
     have a special guest today, Tereza. Tereza is an experienced data practitioner.
     She worked as a data science manager, a data scientist, data engineer, product
@@ -38,13 +40,13 @@ transcript:
   sec: 144
   time: '2:24'
   who: Tereza
-- header: Tereza’s background
 - line: Before we go into the main topic of today, which is understanding job descriptions,
     let's start with your background. Can you tell us about your career journey so
     far?
   sec: 147
   time: '2:27'
   who: Alexey
+- header: 'Academic Background: PhD, information retrieval, recommender systems'
 - line: Yeah. Well, I guess I have a traditional career journey to data science, plus
     being at the right place at the right time. I studied computer science. I come
     from Romania and then I came to Hannover to do my diploma, and then I stayed to
@@ -68,6 +70,7 @@ transcript:
   sec: 227
   time: '3:47'
   who: Alexey
+- header: 'Industry Transition: XING to mytaxi/FREE NOW and evolving responsibilities'
 - line: Yeah, exactly. And in Austria – so the DACH area. I stayed there for like
     three and a half years, I think. Then I took a year off doing artsy things and
     kind of trying out startup-y stuff. Then I wanted to work with data again and
@@ -101,6 +104,7 @@ transcript:
   sec: 346
   time: '5:46'
   who: Alexey
+- header: 'Technical Practices at XING: Scala, Elasticsearch, product-driven engineering'
 - line: Oh, not really. Basically, when I was working at XING, you have to understand
     that I was working at XING doing data science from 2011 to 2015. We were writing
     code in Scala. Our recommender systems were ElasticSearch, doing smart, interesting
@@ -139,6 +143,7 @@ transcript:
   sec: 473
   time: '7:53'
   who: Alexey
+- header: 'Building Data Infrastructure at mytaxi: ETL, Airflow and platform challenges'
 - line: When I applied, there were not many jobs in Hamburg in 2016, when I decided
     to work again with data. That was a problem. There was mytaxi – I mean, of course,
     there was OTTO and XING. But I've been at XING and I wasn't going to go back.
@@ -175,6 +180,7 @@ transcript:
   sec: 613
   time: '10:13'
   who: Alexey
+- header: 'Job Titles vs. Reality: Renaming roles and shaping career narratives'
 - line: It worked. [chuckles] We had to put this on Airflow and back then Hadoop was
     quite popular. So I saw the building blocks and I thought… Well, I've been there
     and saw the whole data infrastructure being built – I saw it happening. I wasn't
@@ -185,12 +191,12 @@ transcript:
   sec: 615
   time: '10:15'
   who: Tereza
-- header: Working as a coach
 - line: Now your work as a coach. So what do you do as a coach? How's it different
     from your previous jobs?
   sec: 660
   time: '11:00'
   who: Alexey
+- header: 'Coaching Role: Neuefische bootcamp focus on product, teamwork and coaching'
 - line: Well, now I don't have to worry about not caring about the product that I'm
     working on or not. [laughs] Because I am just teaching people how to be responsible
     data scientists, so that whenever they go and do stuff, they are not destroying
@@ -227,6 +233,7 @@ transcript:
   sec: 788
   time: '13:08'
   who: Alexey
+- header: 'Teaching Challenges: PhDs, collaboration and professional skills'
 - line: Yeah. [chuckles] Why does it have to be so black and white? Then, of course,
     we are 10 coaches – so we are working as a team and trying to find sustainable
     ways of working and growing. The field of data just is so fluid at the moment.
@@ -235,7 +242,7 @@ transcript:
   sec: 802
   time: '13:22'
   who: Tereza
-- header: Identifying the mismatches between your needs and that of a company
+- header: 'Hiring Misalignment: Company expectations versus candidate reality'
 - line: Actually, what we wanted to talk about in this interview is decoding (understanding)
     data scientists’ job descriptions. A while ago, you gave a talk with the same
     name, or a similar name, Decoding the Data Science Job Description. That is a
@@ -283,6 +290,7 @@ transcript:
   sec: 982
   time: '16:22'
   who: Alexey
+- header: 'Interview Practices: Take-home tasks and candidate time burden'
 - line: Yeah. For the company side, it's four hours. They say that, but then in the
     end, if you want to do a good job…
   sec: 985
@@ -324,6 +332,7 @@ transcript:
   sec: 1076
   time: '17:56'
   who: Alexey
+- header: 'Candidate Preparedness: Defining goals and asking the right questions'
 - line: Yeah, exactly. But I've also heard quite often that people got a job and it
     turned out to be completely different than what they expected. I think, on the
     other side, regarding the goals of candidates – a lot of people don't really sit
@@ -362,6 +371,7 @@ transcript:
   sec: 1205
   time: '20:05'
   who: Alexey
+- header: 'Interpreting Job Titles: Spotting mislabeled data roles'
 - line: It was a while ago, but basically, I read the description and thought – this
     is data engineering in 2016 – so I thought “This is data engineering. You set
     up a data warehouse and you create the platform for the analytics team to work
@@ -385,7 +395,6 @@ transcript:
   sec: 1256
   time: '20:56'
   who: Tereza
-- header: How to avoid misalignments
 - line: What companies do first is CV-screening rounds, where they will look at the
     candidate’s CV. The job description is a similar thing, but from the other side
     – for the candidates. So how can we make sure that description matches what we
@@ -393,6 +402,7 @@ transcript:
   sec: 1290
   time: '21:30'
   who: Alexey
+- header: 'Career-Stage Fit: Junior versus experienced candidate needs'
 - line: Right. First of all, you have to think about what you want. [chuckles] And
     you also have to think about where you are in your career, because this changes
     what you need a little bit from what you want. I think, in general, you need to
@@ -419,6 +429,7 @@ transcript:
   sec: 1379
   time: '22:59'
   who: Alexey
+- header: 'Role Clarity Checklist: Team, objectives, responsibilities vs. tech lists'
 - line: Yeah, they need to be able to thrive in this “chaos” [chuckles] experiment
     often and figuring stuff out. But then there are people that want to take it slow
     and have stability and enjoy their time. Then you need a bigger company, and you
@@ -456,7 +467,6 @@ transcript:
   sec: 1381
   time: '23:01'
   who: Tereza
-- header: Considering what’s mentioned in the job description, what isn’t, and why
 - line: And by “stuff is there” you mean in the job description? What kind of stuff?
   sec: 1536
   time: '25:36'
@@ -499,6 +509,7 @@ transcript:
   sec: 1620
   time: '27:00'
   who: Alexey
+- header: 'Data Team Signals: Presence of data engineering and analytics functions'
 - line: Yeah. For example, for a data science job – data science is the part that
     comes down the line of data, right? It's not the stuff that the company starts
     with. So if you want to make the data people applying relaxed about it, you should
@@ -550,6 +561,7 @@ transcript:
   sec: 1809
   time: '30:09'
   who: Alexey
+- header: 'Red Flags in Descriptions: Long tech lists and vague responsibilities'
 - line: Not like, “Hey, it would be nice if you know everything, because maybe some
     of the stuff is going to be actually relevant to something that we are going to
     be doing. We don't know yet what we're doing.” This is how I would interpret it.
@@ -566,7 +578,7 @@ transcript:
   sec: 1844
   time: '30:44'
   who: Alexey
-- header: Diversity and culture of a company
+- header: 'Language & Culture Signals: “Rockstar”, “ninja” and inclusivity cues'
 - line: The other thing is, also, if they talk about diversity on the job description.
     I think “equal employment opportunity,” saying whether they care about diversity
     or not. Most of the time, I think it's starting to be the normal thing to do,
@@ -604,6 +616,7 @@ transcript:
   sec: 1964
   time: '32:44'
   who: Alexey
+- header: 'Interview Rigor Indicator: Bullet-point overload and syntax-focused tests'
 - line: Let's see. Well, a lot of bullet points is off-putting. From the research
     that I was doing for this talk, it’s actually a sign of a rigid interview process.
     The thing is, the person interviewing you will end up asking you questions that
@@ -664,7 +677,7 @@ transcript:
   sec: 2224
   time: '37:04'
   who: Alexey
-- header: Lack of a salary in the job description
+- header: 'Salary Transparency: German norms and benefits of publishing ranges'
 - line: Exactly. You could put it in the job description. I mean, for people doing
     job descriptions, when you have a lot of repetitive questions asked in the interview
     by the candidate, you could just as well add it. Lack of salary on the job description
@@ -696,7 +709,7 @@ transcript:
   sec: 2257
   time: '37:37'
   who: Tereza
-- header: Way of doing research about company where you will potentially work
+- header: 'Company Research Tactics: LinkedIn, team pages and conference presence'
 - line: Okay. You mentioned a couple of times that it's important to do some research.
     For example, to see how many juniors are in the company by going to LinkedIn and
     checking it. How do we actually do this? In addition to checking how many juniors
@@ -706,6 +719,7 @@ transcript:
   sec: 2331
   time: '38:51'
   who: Alexey
+- header: 'Colleagues & Role Models: Finding inspiring teammates and mentors'
 - line: Some companies (the smaller startups) actually have the team on their website.
     You can take a look there and you see the color of the people, the gender of the
     people – and if you feel represented by that, or if you want to contribute to
@@ -733,6 +747,7 @@ transcript:
   sec: 2459
   time: '40:59'
   who: Alexey
+- header: 'Retention & Career Ladders: Using LinkedIn to gauge internal mobility'
 - line: Exactly. But you can also check that out on LinkedIn to see how many people
     change their jobs within the company.
   sec: 2464
@@ -773,7 +788,7 @@ transcript:
   sec: 2479
   time: '41:19'
   who: Tereza
-- header: How to avoid a mismatch with a company other than learning from your mistakes
+- header: 'Remote Work Fit: Assessing WFH policies and support structures'
 - line: Yeah. That goes back to what you mentioned at the beginning. So you need to
     first understand what you want before starting to read the job description and
     see if this matches what you want. First, you need to understand what you want.
@@ -853,7 +868,7 @@ transcript:
   sec: 2910
   time: '48:30'
   who: Alexey
-- header: Before data, during data, after data (a company’s data maturity level)
+- header: 'Data Maturity Model: Before, during, after data and hiring implications'
 - line: Well, so that's what you have to actually find out. First you have to figure
     out if they actually have a data infrastructure. I think in my talk, I was talking
     about companies that are “before data,” “during data,” and “after data”. So which
@@ -896,6 +911,7 @@ transcript:
   sec: 3013
   time: '50:13'
   who: Alexey
+- header: 'Day-to-Day Expectations: Time allocation across maturity stages'
 - line: Well, I think it's more to kind of figure out or identify what the work you're
     going to do will be. With data science, there's all this visualization about this,
     this, this – you gather the business people, figure out what the business value
@@ -1003,13 +1019,13 @@ transcript:
   sec: 3363
   time: '56:03'
   who: Tereza
+- header: 'Tech Stack Signals: Modern vs legacy tools and what they reveal'
 - line: And how can we determine from a job description at which level the company
     is? To see if it’s mature enough? Is it before date, during data, or after data?
     I guess there are some signals in the description that we can use? Right?
   sec: 3381
   time: '56:21'
   who: Alexey
-- header: The company’s tech stack
 - line: The next step. I think I think I once looked at a job description in the energy
     domain and it had a tech stack that I've never heard of. It was like not even
     Python. [chuckles] I mean, it sounded like everything was done with Excel. I don't
@@ -1042,6 +1058,7 @@ transcript:
   sec: 3460
   time: '57:40'
   who: Tereza
+- header: 'Community Visibility: Talks and knowledge sharing as healthy-team signals'
 - line: And if it's not mentioned, then you can use something or other. With XING,
     can you also do this for a company? Can you see what kind of people work there?
     Like the titles and all that?
@@ -1097,7 +1114,7 @@ transcript:
   sec: 3589
   time: '59:49'
   who: Tereza
-- header: Finding Tereza online
+- header: 'Closing & Resources: Slides, talk links and final advice'
 - line: How can people find you?
   sec: 3607
   time: '1:00:07'
@@ -1117,7 +1134,6 @@ transcript:
   time: '1:00:26'
   who: Tereza
 ---
-
 Links:
 
 * [Decoding Data Science Job Descriptions (talk)](https://www.youtube.com/watch?v=WAs9vSNTza8){:target="_blank"}

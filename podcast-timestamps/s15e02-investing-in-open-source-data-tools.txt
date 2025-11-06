@@ -1,0 +1,27 @@
+00:00:00 Episode Start & Welcome
+00:01:15 Guest Overview: Bela’s Role at a Family Office
+00:02:40 Career Path: From Business Studies to Open Source Investing
+00:05:37 Commercializing Open Source Communities: Company Builder Insights
+00:09:44 Why Venture Funding Matters for Early-Stage Startups
+00:13:42 Open Source as Go-to-Market: Community Trust and Distribution
+00:16:40 Bottom-Up Distribution: Developer Adoption Feeding Enterprise Sales
+00:18:33 Investment Focus: Early-Stage B2B Developer, Data & AI Tooling
+00:19:47 Funding Stage Primer: Angels, Pre-Seed, and Seed Explained
+00:22:20 Fundraising Strategy: 12–18 Month Runway & Use of Proceeds
+00:23:42 Geographic & Sector Focus: Europe and Developer Stack Niches
+00:25:19 Investor Types Compared: Angels, VCs, and Family Offices
+00:30:28 Check Sizes & Stage Variability: No One-Size-Fits-All
+00:32:31 Investment Criteria: Team, Market Need, and Commercialization Plan
+00:36:27 Early-Stage Signals: Assessing Problem Validity over PMF
+00:37:19 Due Diligence: Founder Calls, User Interviews, and Co-Investor Checks
+00:39:01 Community Metrics: Interpreting GitHub Stars vs. Active Engagement
+00:42:18 Sourcing Deal Flow: GitHub Screening, Data Tools, and Networking
+00:44:09 Daily Sourcing Routine: Allocating Time for Outbound Discovery
+00:46:23 Inbound Outreach: How Founders Should Pitch Investors
+00:49:28 Open-Core & Licensing Strategies: Mixing Open and Proprietary Code
+00:51:09 Monetization Models: Hosted Services, Enterprise Licenses, Support
+00:54:47 Scalability Considerations: Limits of Support-Based Revenue
+00:55:33 Open Source Outlook: Paths to Market Leadership and Challenges
+00:57:26 Recent Open Source Successes: Hugging Face, Supabase, Kong, Qdrant
+01:00:18 Recommended Reading & Resources on Investing and Community Building
+01:02:19 Episode Wrap-Up & Closing Remarks
