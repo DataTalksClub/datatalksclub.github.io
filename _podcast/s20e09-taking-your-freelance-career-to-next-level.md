@@ -21,7 +21,7 @@ links:
   youtube: https://www.youtube.com/watch?v=S93V8RgwBig
 season: 20
 short: Taking your Freelance Career to the Next Level
-title: Taking your Freelance Career to the Next Level
+title: "Data Freelancer Playbook: Land Clients, Price Services & Use AI for Productivity"
 transcript:
 - header: Episode Opening & Dimitri’s Data Journey
 - line: Hi everyone, welcome to our event. This event is brought to you by DataTalks.Club,

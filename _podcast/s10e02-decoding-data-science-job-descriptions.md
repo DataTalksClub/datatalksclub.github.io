@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=bqxBiIwtmX4
 season: 10
 short: Decoding Data Science Job Descriptions
-title: Decoding Data Science Job Descriptions
+title: "Spot Misleading Data Job Titles, Hiring Red Flags & Build Better Data Teams"
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Bio: Tereza’s multidisciplinary data roles & community work'

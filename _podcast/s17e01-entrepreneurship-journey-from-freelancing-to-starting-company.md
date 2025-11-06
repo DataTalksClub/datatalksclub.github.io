@@ -21,7 +21,7 @@ links:
   youtube: https://www.youtube.com/watch?v=vOpEQiCsaLw
 season: 17
 short: 'The Entrepreneurship Journey: From Freelancing to Starting a Company'
-title: 'The Entrepreneurship Journey: From Freelancing to Starting a Company'
+title: "Build Open-Source Data Tools: Declarative JSON-to-Relational Pipelines for Python"
 transcript:
 - header: Podcast Introduction
 - header: 'Episode Overview: Building an Open‑Source Data Company'

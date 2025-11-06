@@ -21,7 +21,7 @@ links:
   youtube: https://www.youtube.com/watch?v=hylxiu4VGTo
 season: 8
 short: Recruiting Data Engineers
-title: 'Hiring Data Engineers: Skills, Portfolios & Career Switch Strategies'
+title: "Hiring Data Engineers in Europe: Nicolas Rassam on Interviews, Skills & Career Switches"
 description: Learn how to land data engineering roles with Nicolas Rassam. Master
   SQL, Python, portfolios, interviews, and switching careers effectively.
 topics:

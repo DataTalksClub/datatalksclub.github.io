@@ -27,7 +27,7 @@ links:
   youtube: https://www.youtube.com/watch?v=0RsmRjar66E
 season: 7
 short: Machine Learning System Design Interview
-title: Machine Learning System Design & Interview Strategies for Senior ML Engineers
+title: "ML System Design Interviews: Production ML, Fraud Detection, Features, A/B Testing & MLOps"
 transcript:
 - header: Podcast Introduction & Episode Overview
 - header: 'Valerii Background: Career Snapshot and Kaggle Achievements'

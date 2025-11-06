@@ -1,6 +1,6 @@
 ---
-title: How to Market Yourself (without Being a Celebrity)
-short: How to Market Yourself (without Being a Celebrity)
+title: "Learn in Public: Personal Branding & Career Marketing for Developers"
+short: "Learn in Public: Personal Branding & Career Marketing for Developers"
 guests:
 - swyx
 image: images/podcast/s03e07-market-yourself.jpg

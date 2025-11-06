@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=4RargY8iOaE
 season: 16
 short: From a Research Scientist at Amazon to a Machine learning/AI Consultant
-title: From a Research Scientist at Amazon to a Machine learning/AI Consultant
+title: "Launch a Generative AI Freelance Business: NLP, Model-in-the-Loop Annotation & Client Pitch"
 transcript:
 - header: Episode Introduction
 - line: This week, we'll talk about being a research scientist at Amazon, and transitioning

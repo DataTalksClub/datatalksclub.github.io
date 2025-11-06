@@ -1,6 +1,6 @@
 ---
-title: Becoming a Solopreneur in Data
-short: Becoming a Solopreneur in Data
+title: "Solopreneur Guide: Diversify Income with Courses, Consulting, Books & Side-Gigs"
+short: "Solopreneur Guide: Diversify Income with Courses, Consulting, Books & Side-Gigs"
 guests:
 - noahgift
 image: images/podcast/s06e01-solopreneur.jpg
@@ -1033,6 +1033,4 @@ transcript:
   sec: 3610
   time: '1:00:10'
   who: Alexey
----Links:
-
-- [Noah's LinkedIn](https://www.linkedin.com/in/noahgift/){:target="_blank"}
+---

@@ -1,5 +1,5 @@
 ---
-title: Making Sense of Data Engineering Acronyms and Buzzwords
+title: "ETL vs ELT & Data Lake vs Warehouse: Airbyte, dbt, CDC for Modern Data Engineering"
 short: Making Sense of Data Engineering Acronyms and Buzzwords
 guests:
 - nataliekwong

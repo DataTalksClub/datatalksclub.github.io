@@ -22,7 +22,7 @@ links:
   youtube: https://www.youtube.com/watch?v=3TTu-hYzxeg
 season: 7
 short: From Data Science to Data Engineering
-title: 'Switching from Data Science to Data Engineering: Skills, Tools & Career Advice'
+title: "How to Become a Data Engineer: Skills, MLOps, Pipelines, SQL, CI/CD & Cloud"
 topics:
 - data science
 - data engineering

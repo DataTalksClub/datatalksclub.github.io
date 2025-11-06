@@ -21,7 +21,7 @@ links:
   youtube: https://www.youtube.com/watch?v=KsV_SVXlTo8
 season: 12
 short: Indie Hacking
-title: Indie Hacking
+title: "Build, Launch & Monetize Indie Hacker Products: Crypto Alerts, Generative AI & Growth"
 transcript:
 - header: Episode Introduction
 - line: This week we'll talk about indie hacking. We have a special guest today, Pauline.

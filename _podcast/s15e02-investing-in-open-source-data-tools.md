@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=7Bg1JQLnCao
 season: 15
 short: Investing in Open-Source Data Tools
-title: Investing in Open-Source Data Tools
+title: "Investing in Open Source Developer, Data & AI Tooling: Go-to-Market, Funding & Monetization"
 transcript:
 - header: Episode Start & Welcome
 - header: 'Guest Overview: Bela’s Role at a Family Office'

@@ -21,7 +21,7 @@ links:
   youtube: https://www.youtube.com/watch?v=NnZjlMowkWA
 season: 12
 short: Preparing for a Data Science Interview
-title: Preparing for a Data Science Interview
+title: "Master ML & Data Science Technical Interviews: Recruiter-Proven Stages, Prep & Resources"
 transcript:
 - header: 'Guest Introduction: Luke Whipps & Neural AI'
 - line: This week, we'll talk about preparing for a technical data science interview.

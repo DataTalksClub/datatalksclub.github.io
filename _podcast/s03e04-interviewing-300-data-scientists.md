@@ -1,6 +1,6 @@
 ---
-title: What I Learned After Interviewing 300 Data Scientists
-short: What I Learned After Interviewing 300 Data Scientists
+title: "Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews & Negotiation"
+short: "Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews & Negotiation"
 guests:
 - olegnovikov
 image: images/podcast/s03e04-interviewing-300-data-scientists.jpg

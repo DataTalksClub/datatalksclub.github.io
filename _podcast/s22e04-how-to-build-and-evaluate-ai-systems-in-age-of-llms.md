@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=eC3RNuI6ow0
 season: 22
 short: How to Build and Evaluate AI systems in the Age of LLMs
-title: How to Build and Evaluate AI systems in the Age of LLMs
+title: "Build Scalable Machine Learning Infrastructure: Tools, Open Source & DevRel Strategies"
 transcript:
 - header: Episode Introduction & Guest Bio
 - line: This week we will talk about LLMs and AI like everyone else, I guess.

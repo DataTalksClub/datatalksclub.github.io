@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=9DTTrN-khCk
 season: 9
 short: Freelancing and Consulting with Data Engineering
-title: Freelancing and Consulting with Data Engineering
+title: "Freelance Data Engineering Playbook: Pricing, Client Acquisition & Tools — Adrian Brudaru"
 transcript:
 - header: 'Guest Overview: Adrian’s Move to Freelancing'
 - line: This week we'll talk about freelancing in data engineering. We have a special

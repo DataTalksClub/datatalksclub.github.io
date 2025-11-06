@@ -21,7 +21,7 @@ links:
   youtube: https://www.youtube.com/watch?v=-Gj7SaI-QW4
 season: 14
 short: Lessons Learned from Freelancing and Working in a Start-up
-title: Lessons Learned from Freelancing and Working in a Start-up
+title: "Freelance Data Scientist Playbook: MLOps, Model Monitoring, Upwork & Startup Skills"
 transcript:
 - header: 'Podcast Introduction: guest Antonis and episode themes'
 - line: This week, we'll talk about freelancing and working at a startup. We have

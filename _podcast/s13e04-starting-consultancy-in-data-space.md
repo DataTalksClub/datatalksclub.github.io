@@ -21,7 +21,7 @@ links:
   youtube: https://www.youtube.com/watch?v=rh_pE35m3vE
 season: 13
 short: Starting a Consultancy in the Data Space
-title: Starting a Consultancy in the Data Space
+title: "Build a Data Consulting Business: Customer Validation, User Interviews & Pricing Strategy"
 transcript:
 - header: Podcast Introduction
 - line: This week we'll talk about starting and running a consultancy in the data

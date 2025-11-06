@@ -1,5 +1,5 @@
 ---
-title: Ace Non-Technical Data Science Interviews
+title: "Ace Data Interviews: Behavioral STARs, Case Strategy, Portfolios & Cold Emails"
 short: Ace Non-Technical Data Science Interviews
 guests:
 - nicksingh

@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=R_EnSa9aZtE
 season: 16
 short: Become a Data Freelancer
-title: Become a Data Freelancer
+title: "Launch Your Data Freelancer Career: Pricing, Outreach, Contracts & Risk"
 transcript:
 - header: Podcast Introduction
 - line: This week, we'll talk about doing data freelancing. We have a very special
