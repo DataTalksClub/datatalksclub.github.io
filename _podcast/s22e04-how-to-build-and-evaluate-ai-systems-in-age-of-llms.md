@@ -2,6 +2,7 @@
 episode: 4
 guests:
 - hugobowneanderson
+date: 2025-11-07
 intro: How do you move from prototypes to reliable, scalable LLM systems that actually
   deliver business value? <br><br>In this episode, Hugo Bowne‑Anderson—tracing a path
   from biology research into Python, PyData, DataCamp curriculum and product work,

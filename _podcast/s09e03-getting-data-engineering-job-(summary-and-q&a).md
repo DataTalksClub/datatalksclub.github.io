@@ -2,6 +2,7 @@
 episode: 3
 guests:
 - jeffkatz
+date: 2025-11-07
 ids:
   anchor: Getting-a-Data-Engineering-Job-Summary-and-QA---Jeff-Katz-e1jljmd
   youtube: asnt7xlyZXQ

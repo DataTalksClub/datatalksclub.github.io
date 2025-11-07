@@ -2,6 +2,7 @@
 episode: 9
 guests:
 - dimitrivisnadi
+date: 2025-11-07
 topics:
 - Freelance
 - Career Growth

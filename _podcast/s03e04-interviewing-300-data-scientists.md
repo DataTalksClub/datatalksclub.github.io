@@ -8,6 +8,7 @@ guests:
 image: images/podcast/s03e04-interviewing-300-data-scientists.jpg
 season: 3
 episode: 4
+date: 2025-11-07
 ids:
   youtube: AYi7b-8GPm4
   anchor: What-I-Learned-After-Interviewing-300-Data-Scientists---Oleg-Novikov-e10ctbs

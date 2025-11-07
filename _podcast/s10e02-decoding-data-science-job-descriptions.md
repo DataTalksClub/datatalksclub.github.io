@@ -2,6 +2,7 @@
 episode: 2
 guests:
 - terezaiofciu
+date: 2025-11-07
 ids:
   anchor: Decoding-Data-Science-Job-Descriptions---Tereza-Iofciu-e1m079l
   youtube: bqxBiIwtmX4

@@ -2,6 +2,7 @@
 episode: 5
 guests:
 - verenaweber
+date: 2025-11-07
 ids:
   anchor: atatalksclub/episodes/From-a-Research-Scientist-at-Amazon-to-a-Machine-learningAI-Consultant---Verena-Webber-e2bbmgr
   youtube: 4RargY8iOaE

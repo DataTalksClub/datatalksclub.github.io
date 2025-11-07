@@ -2,6 +2,7 @@
 episode: 5
 guests:
 - antonisstellas
+date: 2025-11-07
 topics:
 - Freelance
 - Startups

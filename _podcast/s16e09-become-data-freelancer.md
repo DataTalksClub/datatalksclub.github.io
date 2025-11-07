@@ -2,6 +2,7 @@
 episode: 9
 guests:
 - dimitrivisnadi
+date: 2025-11-07
 ids:
   anchor: atatalksclub/episodes/Become-a-Data-Freelancer---Dimitri-Visnadi-e2cslo2
   youtube: R_EnSa9aZtE

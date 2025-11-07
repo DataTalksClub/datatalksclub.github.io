@@ -5,6 +5,7 @@ guests:
 - nataliekwong
 image: images/podcast/s05e02-data-engineering-acronyms.jpg
 season: 5
+date: 2025-11-07
 episode: 2
 ids:
   youtube: t9Z1S3OYnJU

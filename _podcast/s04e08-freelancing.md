@@ -12,6 +12,7 @@ topics:
 - entrepreneurship
 - remote work
 - business strategy
+date: 2025-11-07
 season: 4
 episode: 8
 ids:

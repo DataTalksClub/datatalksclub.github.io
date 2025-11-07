@@ -5,6 +5,7 @@ guests:
 - noahgift
 description: 'Discover solopreneur tactics to build a side-gig tunnel, diversify income mix with courses, teaching and consulting, and quit corporate on your terms.'
 image: images/podcast/s06e01-solopreneur.jpg
+date: 2025-11-07
 season: 6
 episode: 1
 ids:

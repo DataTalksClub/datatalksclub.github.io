@@ -2,6 +2,7 @@
 episode: 5
 guests:
 - paulineclavelloux
+date: 2025-11-07
 topics:
 - Entrepreneurship
 - Indie Hacking

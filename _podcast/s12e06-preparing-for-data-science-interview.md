@@ -2,6 +2,7 @@
 episode: 6
 guests:
 - lukewhipps
+date: 2025-11-07
 topics:
 - Job search
 - Career Growth

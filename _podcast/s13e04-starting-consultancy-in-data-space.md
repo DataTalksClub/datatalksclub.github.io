@@ -2,6 +2,7 @@
 episode: 4
 guests:
 - aleksanderkruszelnicki
+date: 2025-11-07
 topics:
 - consulting
 - entrepreneurship

@@ -2,6 +2,7 @@
 episode: 1
 guests:
 - adrianbrudaru
+date: 2025-11-07
 ids:
   anchor: atatalksclub/episodes/The-Entrepreneurship-Journey-From-Freelancing-to-Starting-a-Company---Adrian-Brudaru-e2cut0k
   youtube: vOpEQiCsaLw

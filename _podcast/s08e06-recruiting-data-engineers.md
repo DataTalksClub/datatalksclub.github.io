@@ -2,6 +2,7 @@
 episode: 6
 guests:
 - nicolasrassam
+date: 2025-11-07
 intro: How do you hire data engineers in Europe today — and what should candidates
   and hiring managers actually focus on during interviews? In this episode, Nicolas
   Rassam, a Senior Talent Acquisition Partner at Helsing with 10+ years scaling AI

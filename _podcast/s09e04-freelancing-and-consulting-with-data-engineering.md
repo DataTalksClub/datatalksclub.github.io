@@ -2,6 +2,7 @@
 episode: 4
 guests:
 - adrianbrudaru
+date: 2025-11-07
 ids:
   anchor: Freelancing-and-Consulting-with-Data-Engineering---Adrian-Brudaru-e1jtkkg
   youtube: 9DTTrN-khCk

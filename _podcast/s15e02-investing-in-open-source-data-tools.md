@@ -2,6 +2,7 @@
 episode: 2
 guests:
 - belawiertz
+date: 2025-11-07
 ids:
   anchor: atatalksclub/episodes/Investing-in-Open-Source-Data-Tools---Bela-Wiertz-e274dr8
   youtube: 7Bg1JQLnCao

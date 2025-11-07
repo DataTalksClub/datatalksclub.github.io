@@ -20,6 +20,7 @@ intro: 'How do you approach ML system design interviews that probe production co
   your ML system design interviews and production ML decisions.'
 description: 'Master ML system design: fraud detection, feature engineering & A/B
   testing to ace interviews, build robust production models, monitoring and MLOps.'
+date: 2025-11-07
 topics:
 - machine learning
 - career growth

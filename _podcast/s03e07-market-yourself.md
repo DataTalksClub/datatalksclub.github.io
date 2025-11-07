@@ -6,6 +6,7 @@ guests:
 image: images/podcast/s03e07-market-yourself.jpg
 season: 3
 episode: 7
+date: 2025-11-07
 ids:
   youtube: tkBCPqWKCL8
   anchor: How-to-Market-Yourself-without-Being-a-Celebrity---Shawn-Swyx-Wang-e11ai8t

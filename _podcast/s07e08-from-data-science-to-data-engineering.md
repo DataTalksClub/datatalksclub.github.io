@@ -10,6 +10,7 @@ intro: "In this episode, Ellen König—Head of Engineering at alcemy—shares h
   <br><br> Ellen also breaks down key tools like Git, Docker, and Airflow, discusses
   the realities of cloud costs and team structures, and offers practical advice for
   anyone planning a transition into data engineering."
+date: 2025-11-07
 ids:
   anchor: From-Data-Science-to-Data-Engineering---Ellen-Knig-e1fgfbm
   youtube: 3TTu-hYzxeg
