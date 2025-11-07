@@ -1,0 +1,25 @@
+00:00:00 Podcast Kickoff & Hugo Bowne‑Anderson Background
+00:01:12 Vanishing Gradients vs High Signal: Podcast Formats & Audiences
+00:02:04 From Academia to Industry: Biology Research, Python, and PyData
+00:03:27 Early Industry Work: DataCamp Curriculum and Product Roles
+00:03:57 Transition to Freelance: Consulting, Teaching, and DevRel
+00:07:11 Consulting vs Advisory: Hands‑On Coding and Organizational Advice
+00:08:24 Driving AI Adoption: Loss Aversion and Dedicated Experimentation Time
+00:09:28 Everyday LLM Use Cases: Summaries, Translation, and CSV Workflows
+00:11:11 Prompting Best Practices: Role Prompts, Structured Output, and Timestamps
+00:12:22 Transcript Workflows: Gemini, Descript, Loom and Automation Tools
+00:13:56 Generator–Evaluator Pattern: Automated Quality Control for Outputs
+00:17:38 Scaling Transcript Pipelines: Automation with GitHub Actions
+00:23:00 Evaluation Sets for LLMs: Gold Tests, Size, Cost, and Representativeness
+00:26:43 Failure Analysis: Categorizing Errors and Prioritizing Retrieval Fixes
+00:27:38 Vibe Coding & Monitoring: Logging, Traces, and Debuggable MVPs
+00:31:56 Developer Tools & Assistants: GitHub Copilot, Cursor, and IDE Agents
+00:33:14 Embedded Agents in Workflows: Slack Integration and Proactive Assistants
+00:40:12 Agentic Value Beyond Chat: Actions, Documents, and Automation
+00:44:26 Prioritizing RAG: Quick Business Wins with Chunking and Embeddings
+00:48:20 Chunking Strategies: Fixed Length, Sliding Windows, and Context Rot
+00:50:19 When to Add Tooling: Moving from RAG to Agents and Tool Calls
+00:53:34 Practical Build: Email Assistant Example using Gmail API + RAG
+00:56:21 Four‑Step Framework for Agents: Problem, Start Small, Data, Evaluation
+00:57:41 Memory Design: Retrieval‑Based Memory vs Multi‑Turn Conversation Memory
+01:00:55 Episode Wrap‑Up: Key Takeaways, Courses, and Next Steps

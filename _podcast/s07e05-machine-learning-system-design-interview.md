@@ -2,14 +2,14 @@
 episode: 5
 guests:
 - valeriybabushkin
-intro: 'How do you approach ML system design interviews that probe production constraints,
-  fraud detection trade-offs, and MLOps realities? In this episode Valerii Babushkin
+intro: "How do you approach ML system design interviews that probe production constraints,
+  fraud detection trade-offs, and MLOps realities? In this episode, Valerii Babushkin
   — Senior Director of Data, Analytics, and AI at BP, Kaggle Competitions Grandmaster,
   and author of Machine Learning System Design — walks through what interviewers look
   for and how candidates should structure answers for real-world ML problems. <br><br>
   We cover concrete topics you can use in interviews and on the job: distinguishing
-  software vs ML system design, a fraud detection case study (probabilities, loss
-  functions, real-time requirements), label noise, class imbalance, and feature engineering
+  software vs. ML system design; a fraud detection case study (probabilities, loss
+  functions, real-time requirements); label noise, class imbalance, and feature engineering
   trade-offs; end-to-end pipeline items like metrics, baselines, A/B testing, and
   validating in production; monitoring, distribution shift, fallbacks, and production
   robustness; serving models, embeddings, and MLOps roles; plus when to avoid ML and
@@ -17,7 +17,7 @@ intro: 'How do you approach ML system design interviews that probe production co
   — signposting depth, stating assumptions, iterative baselines — and guidance for
   new grads and career progression toward system design roles. <br><br> Listen to
   learn actionable frameworks, example trade-offs, and preparation strategies to improve
-  your ML system design interviews and production ML decisions.'
+  your ML system design interviews and production ML decisions."
 description: Master ML system design interviews with Valerii Babushkin, ex-Meta Head
   of Data Science. Learn fraud detection systems, feature engineering, metrics selection,
   and production ML best practices for FAANG interviews.

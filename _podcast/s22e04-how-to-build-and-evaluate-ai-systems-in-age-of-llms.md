@@ -2,6 +2,7 @@
 episode: 4
 guests:
 - hugobowneanderson
+intro: "How do you move from prototypes to reliable, scalable LLM systems that actually deliver business value? <br><br>In this episode, Hugo Bowne‑Anderson—tracing a path from biology research into Python, PyData, DataCamp curriculum and product work, then into consulting, teaching, and developer relations—walks through practical engineering and evaluation patterns for building LLM-driven workflows. <br><br> We cover prompt engineering (role prompts, structured output, timestamps), everyday LLM use cases (summaries, translation, CSV workflows), transcript pipelines (Gemini, Descript, Loom) and automation with GitHub Actions. Hugo explains the generator–evaluator pattern for automated quality control, how to design evaluation sets and failure analysis, and techniques for logging, traces, and debuggable MVPs. <br><br> You’ll hear when to prioritize RAG (retrieval-augmented generation) and chunking strategies, when to add tool calls or agents, plus a concrete email assistant build using Gmail API + RAG. The episode closes with a four‑step framework for agents and guidance on retrieval‑based vs multi‑turn memory. <br><br> If you’re building LLM systems, this conversation gives actionable tactics for prompt engineering, evaluation, scaling transcript pipelines, and deciding when to adopt agents, embeddings, and automation."
 ids:
   anchor: datatalksclub/episodes/How-to-Build-and-Evaluate-AI-systems-in-the-Age-of-LLMs---Hugo-Bowne-Anderson-e39vt24
   youtube: eC3RNuI6ow0
@@ -13,8 +14,7 @@ links:
   youtube: https://www.youtube.com/watch?v=eC3RNuI6ow0
 season: 22
 short: How to Build and Evaluate AI systems in the Age of LLMs
-title: 'Build Scalable Machine Learning Infrastructure: Tools, Open Source & DevRel
-  Strategies'
+title: "Build & Scale LLM Agents and RAG Pipelines: Prompting, Transcript Automation, Evaluation"
 transcript:
 - header: Episode Introduction & Guest Bio
 - line: This week we will talk about LLMs and AI like everyone else, I guess.
@@ -1114,22 +1114,6 @@ transcript:
   sec: 3690
   time: '1:01:30'
   who: Alexey
-intro: 'How do teams actually build scalable machine learning infrastructure—and what
-  roles do tools, open source, and developer relations play in making ML systems reliable
-  and adoptable? In this episode Hugo Bowne-Anderson, Head of Developer Relations
-  at Outerbounds and host of Vanishing Gradients, breaks down the practical challenges
-  of scaling ML: selecting the right ML tooling, leveraging open source foundations,
-  and using DevRel strategies to drive adoption across engineering and data science
-  teams. Hugo brings deep E-E-A-T: years at Coiled and DataCamp, creation of 30+ data
-  courses reaching millions, teaching at Yale and major conferences, plus hands-on
-  experience advocating for data science tooling and open source in enterprise settings.
-  We discuss concrete patterns for machine learning infrastructure, how open source
-  shapes deployability and reproducibility, and how developer relations can bridge
-  product, docs, and community to accelerate scaling ML in production. Listen to learn
-  actionable frameworks for choosing infrastructure components, practical DevRel tactics
-  to increase uptake, and how to align tooling with long-term data strategy—essential
-  listening for engineers, ML practitioners, and technical leaders building scalable
-  machine learning infrastructure.'
 ---
 Links:
 

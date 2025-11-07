@@ -1022,21 +1022,21 @@ transcript:
   sec: 3689
   time: '1:01:29'
   who: Alexey
-intro: How do you decide between ETL and ELT, or when to keep a data lake versus a
+intro: "How do you decide between ETL and ELT, or when to keep a data lake versus a
   warehouse—and where do tools like Airbyte, dbt, and CDC fit into a modern data stack?
-  In this episode Natalie Kwong, Growth Product Manager at Airbyte with prior analytics
-  and ops roles at Harness, KeepTruckin, and AppDynamics, pulls from hands‑on experience
+  In this episode, Natalie Kwong, Growth Product Manager at Airbyte with prior analytics
+  and ops roles at Harness, KeepTruckin, and AppDynamics, pulls from hands-on experience
   scaling analytics teams and systems to unpack these trade-offs. <br><br> We break
   down core concepts—ETL (traditional extract-transform-load) vs ELT (load then transform),
   the rise of the analytics engineer, and why ELT favors analyst autonomy with dbt.
-  Natalie explains Airbyte’s role as a connector/ingestion layer, CDC for row‑level
+  Natalie explains Airbyte's role as a connector/ingestion layer, CDC for row-level
   change syncing, and orchestration with Airflow. We also cover data lake vs data
   warehouse purposes, preventing data swamps through governance, schema evolution,
   operational reverse data flows, and when hybrid architectures make sense. <br><br>
-  If you’re designing a modern data platform or refining pipelines, this episode offers
+  If you're designing a modern data platform or refining pipelines, this episode offers
   practical guidance on ETL vs ELT decisions, choosing lakes vs warehouses, leveraging
   Airbyte and dbt, and operational considerations like data quality, orchestration,
-  and cleanup practices.
+  and cleanup practices."
 ---
 
 Links:

@@ -37,6 +37,7 @@ REQUIREMENTS:
 - Focus primarily on the main themes and topics in the timestamps
 - Use action words and specific terms or concepts when appropriate
 - Make it compelling enough that someone would click on it in search results
+- Do not include speaker name in the title
 
 TIMESTAMPS:
 {timestamps_content}

@@ -2,14 +2,7 @@
 episode: 2
 guests:
 - marijnmarkus
-intro: In this episode, Marijn Markus—AI Lead and Managing Data Scientist at Capgemini—shares
-  how to stand out in data science by combining curiosity, courage, and creativity.
-  From his unconventional background in sociology and criminology, Marijn explains
-  how diverse teams outperform homogeneous ones, why proactive problem-solving matters,
-  and how to challenge hierarchy with data-driven insights. You’ll learn how to build
-  unique portfolio projects (like time series modeling from a coffee machine), apply
-  OSINT concepts to modern analytics, and grow your visibility through a thoughtful
-  LinkedIn strategy.
+intro: "In this episode, Marijn Markus—AI Lead and Managing Data Scientist at Capgemini—shares how to stand out in data science by combining curiosity, courage, and creativity. From his unconventional background in sociology and criminology, Marijn explains how diverse teams outperform homogeneous ones, why proactive problem-solving matters, and how to challenge hierarchy with data-driven insights. <br><br> You'll learn how to build unique portfolio projects (like time series modeling from a coffee machine), apply OSINT concepts to modern analytics, and grow your visibility through a thoughtful LinkedIn strategy."
 topics:
 - data science
 - career growth

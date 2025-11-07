@@ -4,13 +4,13 @@ guests:
 - ellenkonig
 description: Transition from data science to data engineering. Learn DevOps, CI/CD,
   collaboration skills, and cloud platforms. Career advice from Ellen König.
-intro: In this episode, Ellen König—Head of Engineering at alcemy—shares her journey
+intro: "In this episode, Ellen König—Head of Engineering at alcemy—shares her journey
   from software and data science to data engineering leadership. She explains why
   many professionals make the switch, the skills that matter most (from DevOps and
   CI/CD to collaboration), and how to prepare through side projects and software fundamentals.
-  Ellen also breaks down key tools like Git, Docker, and Airflow, discusses the realities
-  of cloud costs and team structures, and offers practical advice for anyone planning
-  a transition into data engineering.
+  <br><br> Ellen also breaks down key tools like Git, Docker, and Airflow, discusses
+  the realities of cloud costs and team structures, and offers practical advice for
+  anyone planning a transition into data engineering."
 ids:
   anchor: From-Data-Science-to-Data-Engineering---Ellen-Knig-e1fgfbm
   youtube: 3TTu-hYzxeg

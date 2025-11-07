@@ -37,6 +37,7 @@ REQUIREMENTS:
 - No marketer talk and hype, just focus on the content of the episode and the value it provides to the 
 - Do not invent things that are not in the timestamps or the episode title
 - Naturally integrate SEO keywords if they are related to the episode
+- Correct grammar and punctuation
 
 EPISODE TITLE:
 {episode_title}

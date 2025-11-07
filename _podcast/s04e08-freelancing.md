@@ -1136,21 +1136,21 @@ transcript:
   sec: 3827
   time: '1:03:47'
   who: Alexey
-intro: 'How do you build a reliable freelance career around machine learning when
-  clients expect production-ready systems, not just prototypes? In this episode Mikio
+intro: "How do you build a reliable freelance career around machine learning when
+  clients expect production-ready systems, not just prototypes? In this episode, Mikio
   Braun — an ML researcher who has moved models into production at European unicorns
   Zalando and GetYourGuide and now advises companies as a consultant — walks through
   what freelancing in machine learning really involves. <br><br> We focus on practical,
   end-to-end concerns: aligning ML work with product goals, designing ML infrastructure
   that supports deployment and maintenance, and translating research or proofs-of-concept
-  into production-grade solutions. Mikio’s background in both research and industry
-  gives him direct experience with the technical and product-side tradeoffs that matter
+  into production-grade solutions. Mikio's background in both research and industry
+  gives him direct experience with the technical and product-side trade-offs that matter
   to clients hiring an ML consultant or machine learning freelancer. <br><br> Listeners
   will come away with concrete perspectives on where freelance ML work adds value,
   how to scope engagements that bridge experimentation and production, and what to
   prioritize when building ML systems for real users. This episode is essential for
   machine learning freelancers, aspiring ML consultants, and product teams evaluating
-  external ML expertise.'
+  external ML expertise."
 ---
 
 Books: 

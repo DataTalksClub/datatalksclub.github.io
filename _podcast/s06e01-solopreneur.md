@@ -1033,19 +1033,19 @@ transcript:
   sec: 3610
   time: '1:00:10'
   who: Alexey
-intro: How do you build a sustainable solopreneur business that doesn’t rely on VC
-  funding—while diversifying income across courses, consulting, books and side‑gigs?
-  In this episode Noah Gift, founder of Pragmatic AI Labs and a lecturer on machine
+intro: "How do you build a sustainable solopreneur business that doesn't rely on VC
+  funding—while diversifying income across courses, consulting, books, and side-gigs?
+  In this episode, Noah Gift, founder of Pragmatic AI Labs and a lecturer on machine
   learning and data science at Northwestern, Duke MIDS, UC Berkeley, UC Davis, and
   UNC Charlotte, walks through his transition to solo work (since 2017) and a repeatable
-  income mix for intentional small‑business ownership. <br><br> We cover defining
-  solopreneurship, the practical “income mix” formula—online courses, university teaching,
-  selective consulting, book publishing, apps, real estate and investments—plus how
-  to build a side‑gig “tunnel” while employed. Noah shares work allocation strategies
-  (exponential projects vs. consulting), publishing tradeoffs, a book workflow (outline
-  → projects → write), daily routines, time‑and‑cost tactics, and signals for financial
-  readiness to quit full‑time work. If you’re planning to diversify income streams
-  with online courses, consulting or writing, this episode gives actionable steps,
-  publishing considerations, and networking advice to help you transition deliberately
-  and scale revenue without sacrificing control.
+  income mix for intentional small-business ownership. <br><br> We cover defining
+  solopreneurship, the practical income mix formula (online courses, university teaching,
+  selective consulting, book publishing, apps, real estate, and investments) plus how
+  to build a side-gig tunnel while employed. Noah shares work allocation strategies
+  (exponential projects vs. consulting), publishing trade-offs, a book workflow (outline
+  -> projects -> write), daily routines, time-and-cost tactics, and signals for financial
+  readiness to quit full-time work. <br><br> If you're planning to diversify income
+  streams with online courses, consulting, or writing, this episode gives actionable
+  steps, publishing considerations, and networking advice to help you transition deliberately
+  and scale revenue without sacrificing control."
 ---
