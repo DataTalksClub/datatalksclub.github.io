@@ -1184,6 +1184,8 @@ intro: How do you build an open‑source data tool that lets Python users turn m
   <br><br> If you build Python data pipelines or maintain data warehouses, this episode
   offers concrete guidance on designing declarative JSON‑to‑relational pipelines,
   documenting them as a product, and taking an open‑source data tool to users.
+description: Discover building open-source JSON-to-Relational data pipelines in Python,
+  practical DLT patterns, anti-pattern fixes, bootstrap tips to speed adoption.
 ---
 Links:
 

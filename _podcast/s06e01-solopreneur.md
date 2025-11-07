@@ -3,6 +3,7 @@ title: 'Solopreneur Guide: Diversify Income with Courses, Consulting, Books & Si
 short: 'Solopreneur Guide: Diversify Income with Courses, Consulting, Books & Side-Gigs'
 guests:
 - noahgift
+description: 'Discover solopreneur tactics to build a side-gig tunnel, diversify income mix with courses, teaching and consulting, and quit corporate on your terms.'
 image: images/podcast/s06e01-solopreneur.jpg
 season: 6
 episode: 1

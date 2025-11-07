@@ -1012,6 +1012,8 @@ intro: How do you transition from startup engineering to a sustainable freelance
   to get actionable guidance on building a portfolio, selecting projects, monitoring
   production models, and practical steps to find and retain clients as a freelance
   data scientist.
+description: 'Discover MLOps, model monitoring & Upwork tips to build a freelance
+  data scientist portfolio: pricing, onboarding, tools to land clients including MLflow'
 ---
 
 Links:

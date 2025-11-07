@@ -4,6 +4,7 @@ short: Ace Non-Technical Data Science Interviews
 guests:
 - nicksingh
 image: images/podcast/s06e02-non-technical-interviews.jpg
+description: 'Master behavioral interviews & prep to break into data roles: build an impact portfolio, use STAR stories, nail case interviews and cold emails.'
 season: 6
 episode: 2
 ids:

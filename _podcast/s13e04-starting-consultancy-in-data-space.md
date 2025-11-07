@@ -1108,6 +1108,8 @@ intro: How do you validate customers, run effective user interviews, and set pri
   for registering a consultancy in Germany. <br><br> Listen to get actionable methods
   for customer validation, user interviews, pricing strategy, and building a data
   consulting business that captures real client value.
+description: 'Learn data consulting: customer validation, user interviews and pricing
+  strategy to validate ideas, win clients, set value-based rates & scale your practice.'
 ---
 Links:
 

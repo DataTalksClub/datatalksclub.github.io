@@ -19,4 +19,3 @@ _podcast/s16e05-from-research-scientist-at-amazon-to-machine-learning-ai-consult
 _podcast/s16e09-become-data-freelancer.md
 _podcast/s17e01-entrepreneurship-journey-from-freelancing-to-starting-company.md
 _podcast/s20e09-taking-your-freelance-career-to-next-level.md
-_podcast/s22e04-how-to-build-and-evaluate-ai-systems-in-age-of-llms.md

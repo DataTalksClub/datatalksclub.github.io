@@ -2,8 +2,7 @@
 episode: 8
 guests:
 - ellenkonig
-description: Transition from data science to data engineering. Learn DevOps, CI/CD,
-  collaboration skills, and cloud platforms. Career advice from Ellen König.
+description: "Master data engineering, MLOps and pipelines: learn CI/CD, cloud cost control and SQL/Python skills to switch careers and accelerate growth now."
 intro: "In this episode, Ellen König—Head of Engineering at alcemy—shares her journey
   from software and data science to data engineering leadership. She explains why
   many professionals make the switch, the skills that matter most (from DevOps and

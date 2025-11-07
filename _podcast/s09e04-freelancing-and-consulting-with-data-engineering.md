@@ -1273,7 +1273,7 @@ transcript:
   sec: 3776
   time: '1:02:56'
   who: Adrian
-intro: "How do you price freelance data engineering work, win steady clients, and
+intro: 'How do you price freelance data engineering work, win steady clients, and
   pick the right tools for messy production problems? In this episode, Adrian Brudaru
   — an economist-turned-business analyst who moved to Berlin, left corporate/startup
   cycles to freelance for five years, and now co-founds a data company releasing open
@@ -1288,7 +1288,9 @@ intro: "How do you price freelance data engineering work, win steady clients, an
   in local markets like Berlin. <br><br> Listen to learn concrete approaches to freelance
   data engineering pricing, client acquisition strategies, scoping projects, and practical
   tools to handle unstable schemas — so you can evaluate projects, set rates, and
-  grow a sustainable freelance practice."
+  grow a sustainable freelance practice.'
+description: 'Master freelance data engineering: pricing, client acquisition & tools
+  to negotiate rates, scope projects, build reusable portfolios and win repeat clients.'
 ---
 Links:
 

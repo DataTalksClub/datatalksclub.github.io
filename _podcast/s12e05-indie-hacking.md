@@ -1204,6 +1204,8 @@ intro: 'How do you build, launch, and actually monetize indie-hacker products in
   launch, monetization, and time management for indie hackers working on crypto alerts
   and generative AI—concrete steps to validate, build, and grow side products without
   external funding.'
+description: 'Build indie-hacking products: launch crypto alerts & generative AI apps,
+  validate ideas, choose tech, price effectively and monetize for sustainable growth.'
 ---
 
 Links:

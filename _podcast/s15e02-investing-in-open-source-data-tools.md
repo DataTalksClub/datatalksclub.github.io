@@ -1100,6 +1100,8 @@ intro: How do you build a sustainable business around open source developer, dat
   like Hugging Face, Supabase, Kong and Qdrant. Listen to gain actionable frameworks
   for GTM, funding strategy, monetization and early-stage investment signals for open
   source developer, data and AI tooling.
+description: 'Discover open source go-to-market for developer tooling: funding, monetization
+  models, community metrics and fundraising tactics to scale early-stage startups.'
 ---
 Links:
 

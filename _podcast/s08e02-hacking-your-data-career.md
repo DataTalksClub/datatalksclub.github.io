@@ -18,7 +18,7 @@ links:
 season: 8
 short: Hacking Your Data Career
 title: 'Standing Out as a Data Scientist: Proactivity, Unique Projects & Career Strategy'
-description: 'Learn how to hack your data career with proactive task selection, unique coffee-machine time-series projects, OSINT analytics, and expert LinkedIn growth tips.'
+description: 'Discover proven strategies to stand out in data science: build unique portfolio projects, master proactive task selection, and grow visibility with expert LinkedIn tactics.'
 transcript:
 - header: 'Career Journey: Sociology, Criminology, and Data Science'
 - line: This week, we'll talk about hacking your data career. We have a special Marijn.

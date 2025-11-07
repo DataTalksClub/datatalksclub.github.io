@@ -1246,6 +1246,8 @@ intro: 'How do you turn NLP research experience into a viable generative AI free
   posts, papers, side projects). Listen to learn concrete steps for becoming an NLP
   consultant, running annotation experiments that scale, and pitching value to SMEs
   and product teams.'
+description: 'Discover how to launch a generative AI freelance business: NLP services,
+  model-in-the-loop annotation, pitch-deck strategies, client leads & scalable workshops.'
 ---
 Links:
 

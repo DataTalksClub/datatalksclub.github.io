@@ -590,6 +590,8 @@ intro: How do you move from employed data pro to a sustainable data freelancer w
   vs packages), and transition planning. <br><br> Listen to get concrete guidance
   on landing clients, setting prices, structuring offers, and using AI tools to increase
   productivity as a freelance data consultant.
+description: Master data freelancer tactics, pricing strategies and AI tools to land
+  clients, price services confidently, and boost productivity for higher income.
 ---
 
 Links:

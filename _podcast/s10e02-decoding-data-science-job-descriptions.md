@@ -1149,6 +1149,9 @@ intro: 'How can you tell if a "data scientist" job is really a data engineering 
   salary transparency, remote-work fit, retention and career ladders. <br><br> Listen
   to learn concrete signals and questions to evaluate job descriptions, interviews,
   and shape better data hiring and team design.'
+description: Discover how to spot misleading job titles, hiring red flags and build
+  stronger data teams-assess tech stacks, interview rigor, salary ranges and career
+  fit.
 ---
 
 Links:

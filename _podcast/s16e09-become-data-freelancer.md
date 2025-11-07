@@ -1192,6 +1192,8 @@ intro: 'How do you move from corporate data roles into a sustainable freelance d
   approaches for rates, contract checkpoints, and resources (courses, mentors, newsletters)
   to reduce risk and build a reliable pipeline. Ideal for aspiring data freelancers
   seeking practical guidance on pricing, outreach, contracts and risk.'
+description: 'Launch your data freelancer career: pricing, outreach & contracts tactics,
+  client vetting, legal risk and runway tips to win steady projects.'
 ---
 Links:
 

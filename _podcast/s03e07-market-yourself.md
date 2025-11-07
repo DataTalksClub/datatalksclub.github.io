@@ -1011,21 +1011,23 @@ transcript:
   sec: 3830
   time: '1:03:50'
   who: Alexey
-intro: "How do developers build visibility, earn promotions, and steer their careers
+intro: 'How do developers build visibility, earn promotions, and steer their careers
   by learning in public? In this episode, Shawn Swyx Wang — Senior Developer Advocate
   for AWS Amplify, author of The Coding Career Handbook, and former engineer at Netlify
   and Temporal — walks through a practical framework for personal branding and career
   marketing for developers. We unpack why self-marketing matters beyond job hunting
   and the five-part personal marketing framework: brand, domain, value, skills, and
-  channel. <br><br> You'll hear concrete guidance on choosing and validating a niche
+  channel. <br><br> You''ll hear concrete guidance on choosing and validating a niche
   (meetups, conferences, community signals), building an owned platform (blog, newsletter,
   mailing list), and distribution tactics from early social growth to the engagement
-  move \"pick up what they put down.\" Swyx also covers career transition strategies,
+  move "pick up what they put down." Swyx also covers career transition strategies,
   hiring portfolios and case studies, internal pathways like lateral moves and signature
   initiatives, and creating reusable talks and demos. Practical tools discussed include
   brag documents, demos for internal promotion, and open knowledge projects as visibility
   builders. Tune in to get actionable steps to craft a developer personal brand, grow
-  influence, and apply learn-in-public tactics to advance your career and job opportunities."
+  influence, and apply learn-in-public tactics to advance your career and job opportunities.'
+description: 'Discover personal branding & career marketing for devs: learn-in-public
+  tactics, niche choice and internal promotion to boost visibility and land promotions.'
 ---
 Links:
 

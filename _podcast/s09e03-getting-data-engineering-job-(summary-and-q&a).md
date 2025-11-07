@@ -777,6 +777,8 @@ intro: 'How do you actually get a data engineering job today — and which skill
   remote work realities, and how to leverage non-coding experience. Listen to learn
   a practical roadmap for interviews, portfolio building, and job search tactics to
   increase your chances of landing a data engineering role.'
+description: 'Master data engineering job prep: Python, SQL tips, portfolio strategy,
+  interview formats and job search tactics to land offers faster. quick wins'
 ---
 
 Links:

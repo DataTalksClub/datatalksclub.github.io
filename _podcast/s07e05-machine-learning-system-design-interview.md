@@ -2,7 +2,7 @@
 episode: 5
 guests:
 - valeriybabushkin
-intro: "How do you approach ML system design interviews that probe production constraints,
+intro: 'How do you approach ML system design interviews that probe production constraints,
   fraud detection trade-offs, and MLOps realities? In this episode, Valerii Babushkin
   — Senior Director of Data, Analytics, and AI at BP, Kaggle Competitions Grandmaster,
   and author of Machine Learning System Design — walks through what interviewers look
@@ -17,10 +17,9 @@ intro: "How do you approach ML system design interviews that probe production co
   — signposting depth, stating assumptions, iterative baselines — and guidance for
   new grads and career progression toward system design roles. <br><br> Listen to
   learn actionable frameworks, example trade-offs, and preparation strategies to improve
-  your ML system design interviews and production ML decisions."
-description: Master ML system design interviews with Valerii Babushkin, ex-Meta Head
-  of Data Science. Learn fraud detection systems, feature engineering, metrics selection,
-  and production ML best practices for FAANG interviews.
+  your ML system design interviews and production ML decisions.'
+description: 'Master ML system design: fraud detection, feature engineering & A/B
+  testing to ace interviews, build robust production models, monitoring and MLOps.'
 topics:
 - machine learning
 - career growth
