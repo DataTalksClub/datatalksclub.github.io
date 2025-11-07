@@ -25,6 +25,13 @@ transcript:
     He also has experience building several startups in Europe. Recently he created
     NextRound which is a free service for practicing interviews, receiving personalized
     feedback, and learning materials. Welcome!
+- header: Introduction & Episode Overview
+- line: This week we will talk about the interview process, getting hired as a data
+    scientist — and not only data scientists. We have a special guest today — Oleg.
+    Oleg worked as a data science manager at Uber, where he built data science teams.
+    He also has experience building several startups in Europe. Recently he created
+    NextRound which is a free service for practicing interviews, receiving personalized
+    feedback, and learning materials. Welcome!
   sec: 76
   time: '1:16'
   who: Alexey

@@ -3,7 +3,19 @@ title: Freelancing in Machine Learning
 short: Freelancing in Machine Learning
 guests:
 - mikiobraun
+title: Freelancing in Machine Learning
+short: Freelancing in Machine Learning
+guests:
+- mikiobraun
 image: images/podcast/s04e08-freelancing.jpg
+topics:
+- freelance
+- consulting
+- machine learning
+- career growth
+- entrepreneurship
+- remote work
+- business strategy
 topics:
 - freelance
 - consulting
@@ -32,6 +44,14 @@ transcript:
     joined the industry. So I was able to witness his teaching. After working at TU
     Berlin, Mikio joined Zalando. He worked there in many different roles. He spent
     quite a few years there. Right?
+- header: 'Career Journey: Academia to Industry'
+- line: This week, we'll talk about freelancing and consulting. And we have a special
+    guest today — Mikio. Actually, Mikio was my teacher six years ago. I was studying
+    at TU Berlin for my master’s and Mikio was one of the teachers of the machine
+    learning class. I was very lucky, because, after that year, he left academia and
+    joined the industry. So I was able to witness his teaching. After working at TU
+    Berlin, Mikio joined Zalando. He worked there in many different roles. He spent
+    quite a few years there. Right?
   sec: 119
   time: '1:59'
   who: Alexey
@@ -50,6 +70,10 @@ transcript:
   sec: 194
   time: '3:14'
   who: Mikio
+- line: It was really great. I remember it was the sixth or seventh lecture of machine
+    learning. Professor Müller was on a business trip and you were a replacement.
+    You came into the class, you looked at a topic, and said, "Linear regression on
+    the sixth lesson? Seriously?"
 - line: It was really great. I remember it was the sixth or seventh lecture of machine
     learning. Professor Müller was on a business trip and you were a replacement.
     You came into the class, you looked at a topic, and said, "Linear regression on
@@ -104,11 +128,19 @@ transcript:
   time: '5:04'
   who: Mikio
 - header: 'Consulting Focus: ML in Production & Organizational Advice'
+- header: 'Consulting Focus: ML in Production & Organizational Advice'
 - line: Eventually, you ended up being a sole consultant. What do you help with? What
     do you consult about?
   sec: 373
   time: '6:13'
   who: Alexey
+- line: 'I help companies to do machine learning in practice. I worked on so many
+    different aspects: I created algorithms as a researcher, I organized teams, I
+    worked on a machine learning platform team at Zalando as a consulting architect.
+    This principal role was a bit like internal consulting. I always start with a
+    technical problem, but then I wonder, "what is the real problem?", and then you
+    end up thinking about organization and things like that. So I help companies become
+    better at that — whatever it is. That was the original idea.'
 - line: 'I help companies to do machine learning in practice. I worked on so many
     different aspects: I created algorithms as a researcher, I organized teams, I
     worked on a machine learning platform team at Zalando as a consulting architect.
@@ -130,6 +162,7 @@ transcript:
   sec: 444
   time: '7:24'
   who: Mikio
+- header: 'Transition to Freelancing: First Clients & Momentum'
 - header: 'Transition to Freelancing: First Clients & Momentum'
 - line: How does it work out for you?
   sec: 473
@@ -162,6 +195,7 @@ transcript:
   time: '8:54'
   who: Mikio
 - header: 'Client Acquisition: Network, Word-of-Mouth & Personal Branding'
+- header: 'Client Acquisition: Network, Word-of-Mouth & Personal Branding'
 - line: So it's not as hard as you think if you have a strong network.
   sec: 608
   time: '10:08'
@@ -174,6 +208,10 @@ transcript:
   sec: 612
   time: '10:12'
   who: Mikio
+- line: So this is how it happened to you. You found the first client through your
+    network of people who worked with you at Zalando. You found them — or they found
+    you. Then you worked for them, and they recommended you to others. Is this how
+    it started?
 - line: So this is how it happened to you. You found the first client through your
     network of people who worked with you at Zalando. You found them — or they found
     you. Then you worked for them, and they recommended you to others. Is this how
@@ -194,6 +232,9 @@ transcript:
   sec: 708
   time: '11:48'
   who: Alexey
+- line: That led to a few talks, but no new project at that time. But then I started
+    doing lots of talks. I gave a talk here, I did a couple of podcasts. Through that,
+    this summer, I got a large number — an okay number — of new inquiries.
 - line: That led to a few talks, but no new project at that time. But then I started
     doing lots of talks. I gave a talk here, I did a couple of podcasts. Through that,
     this summer, I got a large number — an okay number — of new inquiries.
@@ -252,9 +293,19 @@ transcript:
     make any money. Transitioning was smoother than I thought. Then you see how it
     goes. Also, if a client is good and everything works well, they can extend the
     project.
+- line: It's actually easy to start up. If you have one or two projects, then you’re
+    already making enough money. You don't have to bootstrap for two years and not
+    make any money. Transitioning was smoother than I thought. Then you see how it
+    goes. Also, if a client is good and everything works well, they can extend the
+    project.
   sec: 887
   time: '14:47'
   who: Mikio
+- header: 'Networking Tactics: Coffee Chats, LinkedIn & Lunchclub'
+- line: I want to ask you a few things. Let's first start with the network thing.
+    You said starting wasn't too difficult for you because you had a good network.
+    By the way, there is a message from Felix Müller, saying, "Greetings from one
+    of those ex-Zalando colleagues".
 - header: 'Networking Tactics: Coffee Chats, LinkedIn & Lunchclub'
 - line: I want to ask you a few things. Let's first start with the network thing.
     You said starting wasn't too difficult for you because you had a good network.
@@ -316,6 +367,7 @@ transcript:
   time: '19:02'
   who: Mikio
 - header: 'Intro Calls & Pre-sales: Building Trust Before Billing'
+- header: 'Intro Calls & Pre-sales: Building Trust Before Billing'
 - line: The other thing you said, "Now you get a client. The interesting part is what
     happens next". First, you have this intro call. You figure out if you can help
     the client. Right? How does it look like? Let's say you get a LinkedIn message
@@ -340,9 +392,16 @@ transcript:
     you have to do. When I started, I had these mentoring projects — working for a
     few days, more like a few meetings here and there. Over time I realised that all
     this other work is also work. You don't get money for it.
+- line: No. You try to build some trust, to see whether it actually makes sense. If
+    you get a client, and this would be a project that takes a few weeks or months
+    — usually for quite a lot of money. So this is the kind of unpaid marketing that
+    you have to do. When I started, I had these mentoring projects — working for a
+    few days, more like a few meetings here and there. Over time I realised that all
+    this other work is also work. You don't get money for it.
   sec: 1215
   time: '20:15'
   who: Mikio
+- header: 'Problem Discovery: Needs vs. Prescribed Solutions'
 - header: 'Problem Discovery: Needs vs. Prescribed Solutions'
 - line: We also need to understand what they want. And it's also important to understand
     what their problem actually is.
@@ -367,6 +426,7 @@ transcript:
   sec: 1332
   time: '22:12'
   who: Mikio
+- header: 'Proposal Best Practices: Written Summaries & Scope Alignment'
 - header: 'Proposal Best Practices: Written Summaries & Scope Alignment'
 - line: There's one book with a very funny title that somebody recommended. It's called
     "million dollar consulting" by Alan Weiss. That's a good book. I'm not sure whether
@@ -399,6 +459,7 @@ transcript:
   time: '23:40'
   who: Mikio
 - header: 'Pricing Strategies: Hourly, Fixed-Price, and Value-Based Trade-offs'
+- header: 'Pricing Strategies: Hourly, Fixed-Price, and Value-Based Trade-offs'
 - line: We already have a question here. How to decide on this rate? The question
     is about the daily rate. We had some prior chats about this, you also mentioned
     something about a trade-off between pay per day or per hour or per project. Maybe
@@ -406,6 +467,16 @@ transcript:
   sec: 1432
   time: '23:52'
   who: Alexey
+- line: First, I should say that I'm really bad at negotiating. If you're a future
+    client, you should know. The natural thing is to start with an hourly rate. It's
+    very transparent. You have Google Sheets where you put in all the hours. Then,
+    at the end of the month, you write an invoice. But as a downside, this is a very
+    strange incentive for you. It would be great if you get more money if you help
+    the client, and not if you just work more hours.  Sometimes it doesn't make any
+    sense. I also don't want to work more hours. And then you suddenly realise you're
+    actually not working as many hours as you thought you would. For whatever reason
+    — because it's easier, or the project is moving faster than you thought, or people
+    don't need that much help.
 - line: First, I should say that I'm really bad at negotiating. If you're a future
     client, you should know. The natural thing is to start with an hourly rate. It's
     very transparent. You have Google Sheets where you put in all the hours. Then,
@@ -506,6 +577,8 @@ transcript:
   who: Alexey
 - line: It should be more because you always have to pay more for your health insurance
     — you have to cover all of it. And you have this risk that there is no project.
+- line: It should be more because you always have to pay more for your health insurance
+    — you have to cover all of it. And you have this risk that there is no project.
   sec: 1894
   time: '31:34'
   who: Mikio
@@ -513,6 +586,7 @@ transcript:
   sec: 1908
   time: '31:48'
   who: Alexey
+- header: 'Financial Planning: Vacation, Risk Buffer, and Expected Income'
 - header: 'Financial Planning: Vacation, Risk Buffer, and Expected Income'
 - line: Yeah. And your vacations, right? Nobody pays for that.
   sec: 1912
@@ -564,12 +638,18 @@ transcript:
   time: '33:02'
   who: Mikio
 - header: 'Workload Management: Capacity, Calendars, and Burnout Prevention'
+- header: 'Workload Management: Capacity, Calendars, and Burnout Prevention'
 - line: So, if you have an hourly rate, you have this incentive of working all the
     time. You can get three clients and then work eight hours for each. And then,
     after a week, you burn out. How to avoid overworking. Do you have any tips?
   sec: 2038
   time: '33:58'
   who: Alexey
+- line: I want to say it depends on the kind of work you do. If you're mentoring and
+    working with people, you can't just work for eight hours per day. Maybe if you
+    have 10 clients, you can slice them together every day. You have to keep an eye
+    on your capacity. You have to find a balance — what makes sense for you in terms
+    of money and go from that.
 - line: I want to say it depends on the kind of work you do. If you're mentoring and
     working with people, you can't just work for eight hours per day. Maybe if you
     have 10 clients, you can slice them together every day. You have to keep an eye
@@ -594,9 +674,13 @@ transcript:
 - line: This seems quite difficult. So, you have this problem. On top of that, you
     also need to think about your mental health and avoid overworking — think how
     do you let yourself take a vacation? It's a lot to manage.
+- line: This seems quite difficult. So, you have this problem. On top of that, you
+    also need to think about your mental health and avoid overworking — think how
+    do you let yourself take a vacation? It's a lot to manage.
   sec: 2147
   time: '35:47'
   who: Alexey
+- header: Specialization & Productizing Consulting for Predictability
 - header: Specialization & Productizing Consulting for Predictability
 - line: 'It is. You also need to think this: consulting is like a product. In the
     beginning, you''re like, "It sounds interesting. It sounds like something I could
@@ -625,6 +709,9 @@ transcript:
 - line: So when you agree to take a client, you don't know if you like it or not.
     There's only one way to find it out if this is what you like — to try it. By trial
     and error, you focus on a specific thing.
+- line: So when you agree to take a client, you don't know if you like it or not.
+    There's only one way to find it out if this is what you like — to try it. By trial
+    and error, you focus on a specific thing.
   sec: 2284
   time: '38:04'
   who: Alexey
@@ -639,6 +726,9 @@ transcript:
   sec: 2317
   time: '38:37'
   who: Alexey
+- line: You have multiple clients at the same time. What does your day look like?
+    You work at the same time for them, during one day, you have meetings with multiple
+    clients? Or one day — meetings for one client, and another day — for another client?
 - line: You have multiple clients at the same time. What does your day look like?
     You work at the same time for them, during one day, you have meetings with multiple
     clients? Or one day — meetings for one client, and another day — for another client?
@@ -694,6 +784,7 @@ transcript:
   time: '41:03'
   who: Mikio
 - header: 'Freelance Trade-offs: Freedom, Overhead, and Side Projects'
+- header: 'Freelance Trade-offs: Freedom, Overhead, and Side Projects'
 - line: Because if you're doing pretty much the same work, and you're getting the
     same money, is it worth all this overhead?
   sec: 2479
@@ -724,6 +815,10 @@ transcript:
     really get used to. There's no boss now. You have to do good work for your clients,
     but then you can just take the afternoon off — if you manage to keep it free of
     meetings — and do your own stuff. It's all up to you.
+- line: Yeah, there's still so much potential. But also there's something I had to
+    really get used to. There's no boss now. You have to do good work for your clients,
+    but then you can just take the afternoon off — if you manage to keep it free of
+    meetings — and do your own stuff. It's all up to you.
   sec: 2548
   time: '42:28'
   who: Mikio
@@ -732,6 +827,10 @@ transcript:
   sec: 2580
   time: '43:00'
   who: Alexey
+- line: Also, sometimes at a company — I will not say which one — there's not a lot
+    to do, and you're left there for eight hours per day. And you feel like "I owe
+    them this time". But now if that happens, you can just do a couple of meetings,
+    and then spend the rest of the day doing whatever you want.
 - line: Also, sometimes at a company — I will not say which one — there's not a lot
     to do, and you're left there for eight hours per day. And you feel like "I owe
     them this time". But now if that happens, you can just do a couple of meetings,
@@ -746,6 +845,9 @@ transcript:
   sec: 2610
   time: '43:30'
   who: Mikio
+- line: So you get the freedom, but you need to worry about more things — also about
+    promoting yourself. You have to do a lot of work that you don't bill, but you
+    need to do it in order to get new clients.
 - line: So you get the freedom, but you need to worry about more things — also about
     promoting yourself. You have to do a lot of work that you don't bill, but you
     need to do it in order to get new clients.
@@ -766,6 +868,7 @@ transcript:
   sec: 2690
   time: '44:50'
   who: Mikio
+- header: 'Scaling Paths: Building an Agency, a Product, or Returning to Employment'
 - header: 'Scaling Paths: Building an Agency, a Product, or Returning to Employment'
 - line: There was another book called "Built to Sell". If you build a startup, you
     have the plan of selling it. It's a lot about standardising your product. If you
@@ -792,9 +895,24 @@ transcript:
     also start a startup, if you see that some of the projects from clients repeat
     — they're about the same thing. You can put this in a product and then start a
     product company.
+- line: But in general, when you start freelancing, you don't want to do this until
+    your retirement. What could be the next moves after freelancing? You can start
+    a consultancy company, you can hire new people, they will help you work. You can
+    also start a startup, if you see that some of the projects from clients repeat
+    — they're about the same thing. You can put this in a product and then start a
+    product company.
   sec: 2783
   time: '46:23'
   who: Alexey
+- line: Yeah, there are so many options. Some just freelancing, consulting, and the
+    freedom. You get better at negotiating than I am, and you make enough money so
+    that your retirement is taken care of. You can do this for a while, and then you
+    find a company — a great client — and then you think, "I'm done with experimenting,
+    I can become an employee again." At Zalando, I interviewed a lot of people. Every
+    now and then there was a consultant. When I ask them why, they always say that
+    they want more ownership. I  haven't experienced that yet, but if you do this
+    for a few years, it can happen. Because you always do one part of the project,
+    and then you move on.
 - line: Yeah, there are so many options. Some just freelancing, consulting, and the
     freedom. You get better at negotiating than I am, and you make enough money so
     that your retirement is taken care of. You can do this for a while, and then you
@@ -822,6 +940,9 @@ transcript:
 - header: 'Deliverables: Mentoring, Workshops, Prototypes, and Team Outcomes'
 - line: I remember seeing a question — What is the output of your work? Is it a report,
     a presentation? What do clients get at the end?
+- header: 'Deliverables: Mentoring, Workshops, Prototypes, and Team Outcomes'
+- line: I remember seeing a question — What is the output of your work? Is it a report,
+    a presentation? What do clients get at the end?
   sec: 2907
   time: '48:27'
   who: Alexey
@@ -832,6 +953,8 @@ transcript:
   sec: 2930
   time: '48:50'
   who: Mikio
+- line: Like a principal, right? This is what the principal would do at Zalando —
+    they help a team do better. Right?
 - line: Like a principal, right? This is what the principal would do at Zalando —
     they help a team do better. Right?
   sec: 2950
@@ -856,6 +979,14 @@ transcript:
   sec: 3017
   time: '50:17'
   who: Alexey
+- line: Usually, there's a thing that you're good at, but you want to get better at
+    it. You're looking for stretch assignments — stuff, where you think like "I can
+    do this, but it's a bit difficult." You can also be open about it. You can say
+    "I never did this before. I cannot guarantee whether it works. But let's try."
+    Also, during the project, there are often opportunities — there is something that
+    needs to be taken care of. Then you can try to do some of these things. You can
+    also team up with other people, see how they do it and learn from them. And  all
+    the other classical stuff.
 - line: Usually, there's a thing that you're good at, but you want to get better at
     it. You're looking for stretch assignments — stuff, where you think like "I can
     do this, but it's a bit difficult." You can also be open about it. You can say
@@ -905,9 +1036,11 @@ transcript:
   time: '52:57'
   who: Mikio
 - line: So, make sure you're on the same page — in writing.
+- line: So, make sure you're on the same page — in writing.
   sec: 3202
   time: '53:22'
   who: Alexey
+- header: 'Admin & Insurance: German Registration, Taxes, and Liability Coverage'
 - header: 'Admin & Insurance: German Registration, Taxes, and Liability Coverage'
 - line: Then there is a question from somebody from Germany. And the question is "How
     do you deal with all this 'normal' German paperwork?" It's a lot of bureaucracy.
@@ -951,6 +1084,10 @@ transcript:
   sec: 3359
   time: '55:59'
   who: Mikio
+- line: It was a two-part question. The second part was if you decided to operate
+    as a freelancer or as a company. I think you answered that — "as a freelancer".
+    The alternative is to start a one-person company. You decided that for your case
+    it's better to start as a freelancer?
 - line: It was a two-part question. The second part was if you decided to operate
     as a freelancer or as a company. I think you answered that — "as a freelancer".
     The alternative is to start a one-person company. You decided that for your case
@@ -1020,6 +1157,10 @@ transcript:
     over your laptop, and they get hurt — all this stuff. It covers a lot. There's
     GDPR and data. What if you lose the data? If you start reading insurance papers,
     you just wonder "There's a lot of stuff that can go wrong".
+- line: I don't, yes. There's also stuff like if you're onside and somebody trips
+    over your laptop, and they get hurt — all this stuff. It covers a lot. There's
+    GDPR and data. What if you lose the data? If you start reading insurance papers,
+    you just wonder "There's a lot of stuff that can go wrong".
   sec: 3493
   time: '58:13'
   who: Mikio
@@ -1033,6 +1174,7 @@ transcript:
   time: '58:50'
   who: Mikio
 - header: 'Global Market Dynamics: Remote Work, Competition, and Differentiation'
+- header: 'Global Market Dynamics: Remote Work, Competition, and Differentiation'
 - line: Do you think the freelance market is affected by globalisation? Now everyone
     can work remotely. Why would a German company hire you instead of going to China
     or India or some other countries? The labor is cheaper there.
@@ -1044,9 +1186,18 @@ transcript:
     to do a data science project. There, you're competing globally. But if you're
     more specialised or if you have a name, then that's how you get it — because everybody
     knows that it's super hard to find good data scientists.
+- line: I guess yes. It also depends on what you want to do. If you're a front-end
+    freelancer, it's commoditized. There are websites where you can go if you want
+    to do a data science project. There, you're competing globally. But if you're
+    more specialised or if you have a name, then that's how you get it — because everybody
+    knows that it's super hard to find good data scientists.
   sec: 3562
   time: '59:22'
   who: Mikio
+- line: It was also the reason why I started now. I always thought about it, but then
+    I thought I could never travel that much. If you have a number of clients, you
+    have to travel a lot. I didn't want to do that because of my family — small kids
+    and so on.
 - line: It was also the reason why I started now. I always thought about it, but then
     I thought I could never travel that much. If you have a number of clients, you
     have to travel a lot. I didn't want to do that because of my family — small kids
@@ -1065,6 +1216,7 @@ transcript:
   sec: 3646
   time: '1:00:46'
   who: Mikio
+- header: 'Starter Advice: Try Freelancing with a Safety Net'
 - header: 'Starter Advice: Try Freelancing with a Safety Net'
 - line: Before we wrap up, do you have any advice for people who want to start freelancing?
   sec: 3662
@@ -1096,6 +1248,7 @@ transcript:
   sec: 3776
   time: '1:02:56'
   who: Alexey
+- header: 'Wrap-up & Contact: Where to Find Mikio'
 - header: 'Wrap-up & Contact: Where to Find Mikio'
 - line: How can people find you?
   sec: 3792
@@ -1155,7 +1308,6 @@ intro: 'How do you build a reliable freelance career around machine learning whe
 description: 'Learn freelancing strategies for machine learning: win clients, price
   ML projects, build a portfolio and deliver production models to increase income.'
 ---
-
 Books: 
 
 * Million Dollar Consulting  by Alan Weiss

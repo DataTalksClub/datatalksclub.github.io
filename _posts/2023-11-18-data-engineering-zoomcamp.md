@@ -33,6 +33,17 @@ Unlike most courses, DE Zoomcamp helps you build your public portfolio, share yo
 
 > **TL;DR:** Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. [Join the course here](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD).
 
+## Table of Contents
+- [What is the Data Engineering Zoomcamp?](#what-is-the-data-engineering-zoomcamp)
+- [Why Learn Data Engineering?](#why-learn-data-engineering)
+- [Who Can Learn Data Engineering?](#who-can-learn-data-engineering-and-what-roles-it-leads-to)
+- [Course Prerequisites](#course-prerequisites)
+- [Course Curriculum: What You'll Learn](#course-curriculum-what-youll-learn-in-the-data-engineering-zoomcamp)
+- [How the Data Engineering Zoomcamp Works](#how-the-data-engineering-zoomcamp-works)
+- [Zoomcamp vs. Bootcamp](#zoomcamp-vs-bootcamp-whats-the-difference)
+- [How to Get Started](#how-to-get-started-with-the-data-engineering-zoomcamp)
+- [Frequently Asked Questions](#frequently-asked-questions)
+
 ## What is the Data Engineering Zoomcamp?
 
 Data Engineering Zoomcamp is a 9-week program that follows a clear progression: infrastructure setup, workflow orchestration, data warehousing, analytics engineering, batch processing, streaming, and a final capstone project.

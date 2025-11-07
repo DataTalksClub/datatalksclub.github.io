@@ -25,6 +25,7 @@ short: Taking your Freelance Career to the Next Level
 title: 'Data Freelancer Playbook: Land Clients, Price Services & Use AI for Productivity'
 transcript:
 - header: Episode Opening & Dimitri’s Data Journey
+- header: Episode Opening & Dimitri’s Data Journey
 - line: Hi everyone, welcome to our event. This event is brought to you by DataTalks.Club,
     a community of people who love data. We have weekly events. If you want to find
     out more, there is a link in the description.
@@ -46,6 +47,7 @@ transcript:
   sec: 216
   time: '3:36'
   who: Dimitri
+- header: Job Tenure Trends & Freelancer Types
 - header: Job Tenure Trends & Freelancer Types
 - line: I want to apologize for going off script, but isn’t it fun? You mentioned
     staying one and a half years on average at companies. I had a similar situation
@@ -84,6 +86,7 @@ transcript:
   time: '9:22'
   who: Dimitri
 - header: Expertise vs Problem-Solving in Freelance Work
+- header: Expertise vs Problem-Solving in Freelance Work
 - line: If you don’t know how to solve a specific problem, can you "fake it till you
     make it," like start solving and researching as you go? Does this apply in freelancing
     too, or is problem-solving itself the expertise you sell?
@@ -114,12 +117,14 @@ transcript:
   time: '13:59'
   who: Alexey
 - header: 'Validating Freelance Viability: Financial Targets'
+- header: 'Validating Freelance Viability: Financial Targets'
 - line: The most important part is making money. When I started, I had no clients
     but set an 8-month deadline to get enough clients or money to show it was viable.
     If it didn’t work, I had four months to find a job.
   sec: 853
   time: '14:13'
   who: Dimitri
+- header: 'Landing Initial Clients: Recruiters & LinkedIn'
 - header: 'Landing Initial Clients: Recruiters & LinkedIn'
 - line: How exactly did you get your first client? Did recruiters help you find clients?
     Was it easy?
@@ -131,6 +136,7 @@ transcript:
   sec: 987
   time: '16:27'
   who: Dimitri
+- header: Market Trends & Building a Data-Freelancer Job Board
 - header: Market Trends & Building a Data-Freelancer Job Board
 - line: You’ve been in the industry for a while and seen trends change. A few years
     ago, MLOps was popular, but now it seems less so. The problems remain, but AI
@@ -204,6 +210,7 @@ transcript:
   time: '22:52'
   who: Dimitri
 - header: Market-Driven Specialization & Starting Paths
+- header: Market-Driven Specialization & Starting Paths
 - line: Do you think it could be more valuable to start freelancing as a generic software
     engineer, not focusing on data and then transition? Or, since freelancing usually
     means specializing and selling your expertise, is it better to learn data engineering
@@ -222,6 +229,7 @@ transcript:
   sec: 1469
   time: '24:29'
   who: Alexey
+- header: 'Job Board Insights: Rates, Top Skills & "Data Management"'
 - header: 'Job Board Insights: Rates, Top Skills & "Data Management"'
 - line: It really depends on the skills you have. If you're a data analyst, you likely
     won't become a software engineer overnight—it takes time to learn new skills.
@@ -306,6 +314,7 @@ transcript:
   time: '31:52'
   who: Dimitri
 - header: 'Lifestyle Business vs Agency: Scaling Choices'
+- header: 'Lifestyle Business vs Agency: Scaling Choices'
 - line: I’d be happy to help, since we’ve published datasets on Kaggle before. But
     the main topic is freelancing, not datasets. Suppose I found a few clients after
     a couple of months—what’s next? Do I just continue freelancing, or is there a
@@ -339,6 +348,7 @@ transcript:
   sec: 2033
   time: '33:53'
   who: Dimitri
+- header: 'AI Tools for Productivity: Claude, ChatGPT, Cursor'
 - header: 'AI Tools for Productivity: Claude, ChatGPT, Cursor'
 - line: I noticed my productivity surged after incorporating AI tools into my workflow.
     Besides Claude, do you use any other AI tools?
@@ -418,6 +428,7 @@ transcript:
   time: '44:49'
   who: Alexey
 - header: 'Course & Community: Branding, Marketing, and Support'
+- header: 'Course & Community: Branding, Marketing, and Support'
 - line: Exactly. I also have an online course, Data Freelancer, for data professionals
     who have been employees but want to explore freelancing. Many don't know what
     to consider before making the move, how to attract clients, or what strategies
@@ -454,6 +465,7 @@ transcript:
   time: '48:21'
   who: Dimitri
 - header: Subscription Model & Client Relationship Management
+- header: Subscription Model & Client Relationship Management
 - line: That leads into diversifying the business. Your main focus is on client projects,
     but you also set aside time for other ideas like the course. Do you do anything
     else?
@@ -486,6 +498,7 @@ transcript:
   time: '51:54'
   who: Alexey
 - header: 'High-Impact Analytics: Small Analyses, Big Returns'
+- header: 'High-Impact Analytics: Small Analyses, Big Returns'
 - line: Yes. My clients are small teams who want a freelancer instead of an expensive
     agency. I’m clear that I can only handle one task at a time. So, for example,
     I’ll focus on building a dashboard and follow up when it’s ready. After four months
@@ -516,6 +529,7 @@ transcript:
   time: '55:15'
   who: Dimitri
 - header: 'Pricing Strategies: Hourly, Project Packages, and Transitioning'
+- header: 'Pricing Strategies: Hourly, Project Packages, and Transitioning'
 - line: The book also suggests moving away from hourly rates to packaged project models.
     That means pricing by project, not by hour, right?
   sec: 3407
@@ -541,6 +555,7 @@ transcript:
   sec: 3571
   time: '59:31'
   who: Alexey
+- header: Notice Periods & Transition Planning for Freelancers
 - header: Notice Periods & Transition Planning for Freelancers
 - line: When I switched, I had a very long notice period of six months. One secure
     way is to ask your employer if you can continue working with them as your first
@@ -568,6 +583,7 @@ transcript:
   sec: 3662
   time: '1:01:02'
   who: Dimitri
+- header: Episode Wrap-up & Final Advice
 - header: Episode Wrap-up & Final Advice
 - line: Thanks so much for answering the questions and sharing your story, Dimitri.
     It’s always great talking with you. Looking forward to next time!.

@@ -1,9 +1,17 @@
 
+- time: 2025-11-26 17:00:00
+  title: "n8n: From Fundamentals to Building Intelligent Automation Pipeline"
+  speakers: [moeinforoughi]
+  type: workshop
+  link: https://luma.com/xnro0u83
+
+
 - time: 2025-11-04 17:00:00
   title: "Building with MCP: Tools, Workflows, and Real Examples"
   speakers: [bhavaniravi]
   type: workshop
   link: https://luma.com/inds6ko1
+  youtube: https://www.youtube.com/watch?v=0IhZdcjddo4
 
 
 - time: 2025-11-17 17:00:00
@@ -18,6 +26,7 @@
   speakers: [anushaakkina]
   type: podcast
   link: https://luma.com/gqmsx9zd
+  yotube: https://www.youtube.com/watch?v=YZNaLm-_zwA
 
 
 - time: 2025-10-21 17:00:00
@@ -62,6 +71,7 @@
   speakers: [alexeygrigorev]
   type: workshop
   link: https://luma.com/vc02zy6a
+  youtube: https://www.youtube.com/watch?v=Ne25VujHRLA
 
 
 - time: 2025-10-30 12:30:00
@@ -69,6 +79,7 @@
   speakers: [ivanpotapov]
   type: workshop
   link: https://luma.com/n41kqkfh
+  youtube: https://www.youtube.com/watch?v=cayFaWkI39A
 
 
 - time: 2025-10-07 17:00:00

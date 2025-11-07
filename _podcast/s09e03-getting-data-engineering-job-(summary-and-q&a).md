@@ -781,7 +781,6 @@ intro: 'How do you actually get a data engineering job today — and which skill
 description: 'Master data engineering job prep: Python, SQL tips, portfolio strategy,
   interview formats and job search tactics to land offers faster. quick wins'
 ---
-
 Links:
 
 * [Getting a Data Engineering Job (webinar)](https://www.youtube.com/watch?v=yvEWG-S1F_M){:target="_blank"}

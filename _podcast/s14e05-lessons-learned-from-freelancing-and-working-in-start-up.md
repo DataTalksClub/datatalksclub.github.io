@@ -26,6 +26,7 @@ title: 'Freelance Data Scientist Playbook: MLOps, Model Monitoring, Upwork & Sta
   Skills'
 transcript:
 - header: 'Podcast Introduction: guest Antonis and episode themes'
+- header: 'Podcast Introduction: guest Antonis and episode themes'
 - line: This week, we'll talk about freelancing and working at a startup. We have
     a special guest today, Antonis. Antonis is a freelance data scientist who is currently
     working at Nanometrisis, which is a startup that focuses on providing software
@@ -47,6 +48,7 @@ transcript:
   sec: 125
   time: '2:05'
   who: Alexey
+- header: 'Early Education: applied mathematics, physics and nanotechnology'
 - header: 'Early Education: applied mathematics, physics and nanotechnology'
 - line: Before we go into our main topic of freelancing and working at a startup,
     let's start with your background. Can you tell us about your journey so far?
@@ -74,6 +76,7 @@ transcript:
   sec: 227
   time: '3:47'
   who: Alexey
+- header: 'Professional Doctorate: industry projects and consultancy in the Netherlands'
 - header: 'Professional Doctorate: industry projects and consultancy in the Netherlands'
 - line: Yeah. It's education and work in the same program. The first year you work
     as a kind of a consultant for a company, doing small projects, for like four or
@@ -103,6 +106,7 @@ transcript:
   sec: 327
   time: '5:27'
   who: Alexey
+- header: 'Nanometrisis Focus: nanoscale inspection for chips, razors and cosmetics'
 - header: 'Nanometrisis Focus: nanoscale inspection for chips, razors and cosmetics'
 - line: Yeah. Actually, one of the nanoproducts (or clients) that we have is building
     surfaces in the nanoscale. You can't see it with your eyes – you need a special
@@ -157,6 +161,7 @@ transcript:
   sec: 487
   time: '8:07'
   who: Alexey
+- header: 'Career Choice: choosing a startup over a corporation'
 - header: 'Career Choice: choosing a startup over a corporation'
 - line: Yeah. I had an opportunity to either work for a corporation (kind of a corporation,
     it was the SNC company). I had the opportunity either to work there or to work
@@ -222,6 +227,7 @@ transcript:
   time: '11:39'
   who: Alexey
 - header: 'Role Variety in Startups: cross-functional responsibilities'
+- header: 'Role Variety in Startups: cross-functional responsibilities'
 - line: Yeah. I think when it comes to a corporate environment, although there are
     always exceptions, you're kind of more focused on the job that is in the role
     description. But in a startup, you might take other positions as well, because
@@ -266,6 +272,7 @@ transcript:
   time: '14:23'
   who: Alexey
 - header: 'Small-Team Dynamics: working in a four-person startup'
+- header: 'Small-Team Dynamics: working in a four-person startup'
 - line: We are four active people.
   sec: 870
   time: '14:30'
@@ -304,6 +311,7 @@ transcript:
   time: '15:41'
   who: Alexey
 - header: 'Skills Acquired: communication, business knowledge and self-organization'
+- header: 'Skills Acquired: communication, business knowledge and self-organization'
 - line: I think communication – how to be better at communicating with the team. Because
     I was not the only data scientist. When I was building something, I had to translate
     it using not too many complicated, technical words to other people. Also, maybe
@@ -326,6 +334,7 @@ transcript:
   sec: 1056
   time: '17:36'
   who: Alexey
+- header: 'Lean Methodology: build-measure-learn applied to products and ML'
 - header: 'Lean Methodology: build-measure-learn applied to products and ML'
 - line: It comes from the fact that we cannot make very accurate predictions of something
     that we will publish, or how it will go. So we build the product and that product
@@ -380,6 +389,7 @@ transcript:
   time: '20:59'
   who: Alexey
 - header: 'Model Monitoring: data drift, concept drift and Evidently AI'
+- header: 'Model Monitoring: data drift, concept drift and Evidently AI'
 - line: I mean, yeah. Maybe life. [chuckles] In machine learning, you make assumptions
     when you publish a model about how it will go based on the training dataset that
     you have in the testing. But then when you publish it, things might change. One
@@ -390,6 +400,7 @@ transcript:
   sec: 1260
   time: '21:00'
   who: Antonis
+- header: 'Community Onboarding: discovering and joining DataTalks.Club'
 - header: 'Community Onboarding: discovering and joining DataTalks.Club'
 - line: For those who do not know, Antonis is talking about the MLOps course, which
     is the free course that started last week. We are still on module one and by the
@@ -447,6 +458,7 @@ transcript:
   time: '25:08'
   who: Alexey
 - header: 'MLOps Course Project: semiconductor prediction with MLflow, Prefect, Grafana'
+- header: 'MLOps Course Project: semiconductor prediction with MLflow, Prefect, Grafana'
 - line: Yeah. I chose a semiconductor project. [chuckles] I don't remember what I
     was predicting. There were a lot of features. It was a machine learning model
     that I think was predicting if a chip is going to fail or not. I'm not sure. I
@@ -463,6 +475,7 @@ transcript:
   sec: 1598
   time: '26:38'
   who: Alexey
+- header: 'Course Recommendations: do exercises, be patient, complete final project'
 - header: 'Course Recommendations: do exercises, be patient, complete final project'
 - line: Yeah. I think I would definitely suggest doing the exercises in the end. You
     can watch a video and then you can forget what was done in it if you don't practice
@@ -491,6 +504,7 @@ transcript:
   sec: 1711
   time: '28:31'
   who: Alexey
+- header: 'Open Source Contribution: creating an Evidently how-to during Hacktoberfest'
 - header: 'Open Source Contribution: creating an Evidently how-to during Hacktoberfest'
 - line: Yeah. I saw Evidently and I liked the tool. Then they announced the Hacktoberfest
     for October. The organization behind it announced it and Evidently itself had
@@ -521,6 +535,7 @@ transcript:
   time: '30:13'
   who: Alexey
 - header: 'Starting on Upwork: goals, platform mechanics and client discovery'
+- header: 'Starting on Upwork: goals, platform mechanics and client discovery'
 - line: Yeah, I was working at a startup and I wanted to expose myself more to data
     science and building things. Apart from gaining the knowledge I also wanted some
     actual clients for myself, for the data science part, just for me to grow and
@@ -543,6 +558,7 @@ transcript:
   sec: 1912
   time: '31:52'
   who: Alexey
+- header: 'Project Types on Upwork: ML, analytics, LLMs and variable durations'
 - header: 'Project Types on Upwork: ML, analytics, LLMs and variable durations'
 - line: All kinds. I have a niche – you can check out my dissertation over two hours
     or something, and there could be a six month project on building a model. Now
@@ -582,6 +598,7 @@ transcript:
   sec: 2039
   time: '33:59'
   who: Alexey
+- header: 'Profile Building: portfolios, attachments and iterative improvements'
 - header: 'Profile Building: portfolios, attachments and iterative improvements'
 - line: Yeah, that's a very good question. You have to, again, have patience. [chuckles]
     That's definitely the biggest piece of advice. And you have to have persistence.
@@ -625,6 +642,7 @@ transcript:
   time: '37:05'
   who: Antonis
 - header: 'Learning from Rejection: refining proposals and specializing skills'
+- header: 'Learning from Rejection: refining proposals and specializing skills'
 - line: Good. Happy to hear that. So you said that you were constantly improving and
     trying to figure out why rejections happened. Why do you think the rejections
     actually happened? Because your profile wasn't complete? Because the clients weren't
@@ -655,6 +673,7 @@ transcript:
   sec: 2347
   time: '39:07'
   who: Alexey
+- header: 'Motivation for Freelancing: learning, extra income and persistence'
 - header: 'Motivation for Freelancing: learning, extra income and persistence'
 - line: It wasn't that I was doing only that. Again, for me, it was a learning experience
     from the beginning. So I enjoyed it. Also the frustration you get from not being
@@ -688,6 +707,7 @@ transcript:
   time: '40:18'
   who: Alexey
 - header: 'Pricing Approach: hourly rates, client type and valuing your time'
+- header: 'Pricing Approach: hourly rates, client type and valuing your time'
 - line: I'm not able to answer this exactly. This is indeed an issue. I put an hourly,
     you know, $43 per hour. And I'm trying to follow that as much as I can, depending
     on the project. If the project is not gonna take a lot of time for me and it's
@@ -714,6 +734,7 @@ transcript:
   sec: 2532
   time: '42:12'
   who: Alexey
+- header: 'Onboarding Workflow: data inspection, milestones and client alignment'
 - header: 'Onboarding Workflow: data inspection, milestones and client alignment'
 - line: That's a very interesting part of the process. After that, you might have
     already done an interview to get accepted, but then another process starts. You
@@ -765,6 +786,7 @@ transcript:
   time: '45:12'
   who: Alexey
 - header: 'Financial Setup: registering as a freelancer and invoicing considerations'
+- header: 'Financial Setup: registering as a freelancer and invoicing considerations'
 - line: Yeah. You have to register as a freelancer for your own country so when you
     get some income, you can say, “Okay, I make an invoice and publish it in the country
     and so they can bring in the taxes.”
@@ -810,6 +832,7 @@ transcript:
   time: '47:04'
   who: Alexey
 - header: 'Balancing Commitments: wearing many hats across startup and freelance work'
+- header: 'Balancing Commitments: wearing many hats across startup and freelance work'
 - line: I think, again, it's communication skills – the whole process that I described.
     If you have good soft skills, it will help you because you have to control the
     whole process with the client. You also have to present to them what you did.
@@ -847,6 +870,7 @@ transcript:
   time: '49:29'
   who: Alexey
 - header: 'Client Acquisition Tips: focus, upskilling and leveraging community resources'
+- header: 'Client Acquisition Tips: focus, upskilling and leveraging community resources'
 - line: Okay, I see. I think it can be a good idea to see what is valuable for the
     client and for you to get a job. So if you're being persistent and taking a lot
     of jobs, it will help you. The other thing is to fix your profile every day –
@@ -872,6 +896,7 @@ transcript:
   sec: 3091
   time: '51:31'
   who: Alexey
+- header: 'Data Engineering Course: streaming emphasis and Kafka/Confluent usage'
 - header: 'Data Engineering Course: streaming emphasis and Kafka/Confluent usage'
 - line: Cool, thanks. Coming back to what you do at DataTalks.Club. This is something
     I wanted to talk about at the end. We already mentioned that you took part in
@@ -905,6 +930,7 @@ transcript:
   sec: 3208
   time: '53:28'
   who: Alexey
+- header: 'Example Project: streaming YouTube metrics into BigQuery and Looker'
 - header: 'Example Project: streaming YouTube metrics into BigQuery and Looker'
 - line: No. No, I wanted to actually make something valuable for DataTalks.Club. [chuckles]
     I tried in the beginning to use the Twitter API. But I was seeing that I was taking
@@ -942,6 +968,7 @@ transcript:
   time: '56:20'
   who: Alexey
 - header: 'Portfolio Advice: choose projects you enjoy and prioritize exploration'
+- header: 'Portfolio Advice: choose projects you enjoy and prioritize exploration'
 - line: Yeah. Find something that you personally like and try to see if there is data
     about that. And if there is, maybe you can build (if it's a data engineering project)
     a dashboard – or if it's a machine learning (MLOps) model. It does not have to
@@ -969,6 +996,7 @@ transcript:
   time: '57:56'
   who: Alexey
 - header: 'Recommended Reading: The Lean Startup, Lean Analytics, Designing ML Systems'
+- header: 'Recommended Reading: The Lean Startup, Lean Analytics, Designing ML Systems'
 - line: Yeah. I will definitely, again, recommend people to read The Lean Startup
     book. It will help them, whether they're in a startup or not. The whole idea of
     that process of working. I recommend that book for data scientists and machine
@@ -989,6 +1017,7 @@ transcript:
   sec: 3578
   time: '59:38'
   who: Antonis
+- header: Closing Remarks and invitation to the community
 - header: Closing Remarks and invitation to the community
 - line: Thank you. We should be wrapping up. Thanks for joining us today, for sharing
     all your experience, and thanks for being a very active member of our community.

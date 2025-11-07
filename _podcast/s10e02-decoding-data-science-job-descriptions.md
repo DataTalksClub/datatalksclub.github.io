@@ -1154,7 +1154,6 @@ description: Discover how to spot misleading job titles, hiring red flags and bu
   stronger data teams-assess tech stacks, interview rigor, salary ranges and career
   fit.
 ---
-
 Links:
 
 * [Decoding Data Science Job Descriptions (talk)](https://www.youtube.com/watch?v=WAs9vSNTza8){:target="_blank"}
