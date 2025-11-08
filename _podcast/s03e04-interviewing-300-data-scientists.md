@@ -1,11 +1,14 @@
 ---
-title: What I Learned After Interviewing 300 Data Scientists
-short: What I Learned After Interviewing 300 Data Scientists
+title: 'Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews
+  & Negotiation'
+short: 'Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews
+  & Negotiation'
 guests:
 - olegnovikov
 image: images/podcast/s03e04-interviewing-300-data-scientists.jpg
 season: 3
 episode: 4
+date: 2025-11-07
 ids:
   youtube: AYi7b-8GPm4
   anchor: What-I-Learned-After-Interviewing-300-Data-Scientists---Oleg-Novikov-e10ctbs
@@ -15,6 +18,13 @@ links:
   spotify: https://open.spotify.com/episode/406wN6xDkYPyLS8i9fUJL5
   apple: https://podcasts.apple.com/us/podcast/what-i-learned-after-interviewing-300-data-scientists/id1541710331?i=1000520681105
 transcript:
+- header: Introduction & Episode Overview
+- line: This week we will talk about the interview process, getting hired as a data
+    scientist — and not only data scientists. We have a special guest today — Oleg.
+    Oleg worked as a data science manager at Uber, where he built data science teams.
+    He also has experience building several startups in Europe. Recently he created
+    NextRound which is a free service for practicing interviews, receiving personalized
+    feedback, and learning materials. Welcome!
 - header: Introduction & Episode Overview
 - line: This week we will talk about the interview process, getting hired as a data
     scientist — and not only data scientists. We have a special guest today — Oleg.
@@ -917,6 +927,27 @@ transcript:
   sec: 4194
   time: '1:09:54'
   who: Alexey
+intro: How do you make your data science application stand out, ace take-home projects,
+  and negotiate an offer without leaving money on the table? In this episode, Oleg
+  Novikov — creator of NextRound and former data science manager at Uber with a background
+  in data and software engineering — walks through a practical data science interview
+  guide covering CV optimization, take-home projects, mock interviews, and negotiation.
+  <br><br> We dig into career trajectory from engineering to product data science,
+  building projects that differentiate your application, and concrete product work
+  like forecasting and LTV. Oleg demonstrates NextRound's mock-interview chatbot and
+  personalized feedback, explains common hiring funnels (recruiter screen → take-home
+  → interviews), and contrasts product data scientist vs. machine learning engineer
+  expectations. You'll hear specific advice on treating your CV as a landing page,
+  highlighting personal contributions, crafting case-study narratives from business
+  goals to evaluation metrics, and preparing for technical assessments (ML fundamentals,
+  SQL window functions, coding). We also cover handling rejection, replying graciously,
+  evaluating offers, negotiation tactics when your current salary is low, and practical
+  steps for PhDs breaking into industry. <br><br> Listen for actionable steps to refine
+  your data science resume, prioritize take-home ROI, and use mock interviews to iterate
+  faster.
+description: Master CV optimization, take-home projects and mock interviews to land
+  data science offers—learn SQL/ML prep, negotiation tactics and measurable project
+  impact.
 ---
 Links:
 

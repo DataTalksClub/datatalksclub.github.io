@@ -2,6 +2,7 @@
 episode: 2
 guests:
 - terezaiofciu
+date: 2025-11-07
 ids:
   anchor: Decoding-Data-Science-Job-Descriptions---Tereza-Iofciu-e1m079l
   youtube: bqxBiIwtmX4
@@ -13,7 +14,7 @@ links:
   youtube: https://www.youtube.com/watch?v=bqxBiIwtmX4
 season: 10
 short: Decoding Data Science Job Descriptions
-title: Decoding Data Science Job Descriptions
+title: Spot Misleading Data Job Titles, Hiring Red Flags & Build Better Data Teams
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Bio: Tereza’s multidisciplinary data roles & community work'
@@ -1133,6 +1134,25 @@ transcript:
   sec: 3626
   time: '1:00:26'
   who: Tereza
+intro: 'How can you tell if a "data scientist" job is really a data engineering role
+  — or a mismatched hire waiting to happen? In this episode Tereza Iofciu, PhD and
+  seasoned data practitioner, walks through practical ways to spot misleading data
+  job titles, hiring red flags, and how to build clearer, healthier data teams. Tereza
+  brings experience across data science manager, data scientist, data engineer and
+  product manager roles, plus teaching and community leadership (neuefische, PyLadies
+  Hamburg, PSF community award), grounding her advice in real hiring and team-building
+  work. <br><br> We cover why companies rename roles, examples from Scala, Elasticsearch,
+  ETL and Airflow stacks, and the costs of vague job descriptions. You’ll get a role-clarity
+  checklist (team structure, objectives, responsibilities vs. tech lists), signals
+  of data maturity, interview pitfalls (time-consuming take-home tasks, syntax-focused
+  tests), red flags in descriptions (long tech lists, “rockstar” language), and tactics
+  for researching employers (LinkedIn, team pages, conference talks). Also discussed:
+  salary transparency, remote-work fit, retention and career ladders. <br><br> Listen
+  to learn concrete signals and questions to evaluate job descriptions, interviews,
+  and shape better data hiring and team design.'
+description: Discover how to spot misleading job titles, hiring red flags and build
+  stronger data teams-assess tech stacks, interview rigor, salary ranges and career
+  fit.
 ---
 Links:
 

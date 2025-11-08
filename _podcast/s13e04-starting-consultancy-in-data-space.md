@@ -2,6 +2,7 @@
 episode: 4
 guests:
 - aleksanderkruszelnicki
+date: 2025-11-07
 topics:
 - consulting
 - entrepreneurship
@@ -21,8 +22,10 @@ links:
   youtube: https://www.youtube.com/watch?v=rh_pE35m3vE
 season: 13
 short: Starting a Consultancy in the Data Space
-title: Starting a Consultancy in the Data Space
+title: 'Build a Data Consulting Business: Customer Validation, User Interviews & Pricing
+  Strategy'
 transcript:
+- header: Podcast Introduction
 - header: Podcast Introduction
 - line: This week we'll talk about starting and running a consultancy in the data
     space. We have a special guest today, Aleksander. Aleksander was a product manager
@@ -42,6 +45,7 @@ transcript:
   sec: 101
   time: '1:41'
   who: Alexey
+- header: Career Journey & Archaeology Origin Story
 - header: Career Journey & Archaeology Origin Story
 - line: Before we start with our main topic of starting a data consultancy, let's
     start with your background. Can you tell us about your career journey so far?
@@ -82,6 +86,7 @@ transcript:
   sec: 119
   time: '1:59'
   who: Aleksander
+- header: 'Data Stack as a Service: Market and Technical Limits'
 - header: 'Data Stack as a Service: Market and Technical Limits'
 - line: I’m wondering why. I see a lot of startups who work in this area and some
     of them are doing fine.
@@ -150,6 +155,7 @@ transcript:
   time: '7:14'
   who: Alexey
 - header: 'Transition to Consulting: Early Projects and First Customer'
+- header: 'Transition to Consulting: Early Projects and First Customer'
 - line: Initially, we had a few other ideas about the product. The first one, we also
     validated very quickly and it just didn't make any sense. [chuckles] The idea
     was actually inspired by my inability to pull data from a SQL database back in
@@ -184,6 +190,7 @@ transcript:
   sec: 521
   time: '8:41'
   who: Aleksander
+- header: Customer Validation Techniques for Pre-Product Ideas
 - header: Customer Validation Techniques for Pre-Product Ideas
 - line: I’m wondering, how did it happen that you managed to sell an idea without
     having an actual implementation? Was it a part of your user research where you
@@ -250,6 +257,7 @@ transcript:
   time: '12:31'
   who: Aleksander
 - header: 'User Interview Strategy: Questions, Frequency, and Evidence'
+- header: 'User Interview Strategy: Questions, Frequency, and Evidence'
 - line: Can you maybe give us an example? How exactly does it work? Let's say you
     want to build a startup that sells data stack as a service. How do you approach
     these user interviews?
@@ -299,6 +307,7 @@ transcript:
   time: '15:43'
   who: Alexey
 - header: 'Conducting Interviews: Pair Roles and Note-Taking'
+- header: 'Conducting Interviews: Pair Roles and Note-Taking'
 - line: Yeah. These conversations are usually… we didn't record them. We will take
     notes. Whenever we could, it would be the two of us doing a call. It's actually
     very beneficial to do it in pairs. You don't want more than two people. Because
@@ -336,6 +345,7 @@ transcript:
   time: '17:38'
   who: Alexey
 - header: 'Team Composition: PM + Engineer Partnership'
+- header: 'Team Composition: PM + Engineer Partnership'
 - line: Marco is a software engineer.
   sec: 1067
   time: '17:47'
@@ -350,6 +360,7 @@ transcript:
   sec: 1079
   time: '17:59'
   who: Aleksander
+- header: 'Lessons from a Failed Product: Premature Build and Market Size'
 - header: 'Lessons from a Failed Product: Premature Build and Market Size'
 - line: Oh, so you could do both. [Aleksander agrees] Interesting. So you did these
     10-15 conversations following the Mom Test and then at the end found out that
@@ -407,6 +418,7 @@ transcript:
   time: '19:22'
   who: Aleksander
 - header: 'Value Realization: Data Modeling vs Infrastructure'
+- header: 'Value Realization: Data Modeling vs Infrastructure'
 - line: This client of yours that you landed while conducting this Mom Test – they
     were interested in the product that you wanted to build, but then you kind of
     ended up consulting them, right? You said, “Let's build this thing for you.”
@@ -424,6 +436,7 @@ transcript:
   sec: 1316
   time: '21:56'
   who: Aleksander
+- header: 'Pivot Decision: Choosing Consulting to Capture Value'
 - header: 'Pivot Decision: Choosing Consulting to Capture Value'
 - line: How did you realize that building these models is what you want to do and
     that you and Marco want to start this consultancy company?
@@ -467,6 +480,7 @@ transcript:
   sec: 1370
   time: '22:50'
   who: Aleksander
+- header: 'Consulting Approach: Hands-On Implementation and Accountability'
 - header: 'Consulting Approach: Hands-On Implementation and Accountability'
 - line: I want to ask you about these simple, pragmatic, and boring things. But maybe
     before that, I’m curious. Why is it called consulting? Do you just go there, ask
@@ -512,6 +526,7 @@ transcript:
   time: '27:19'
   who: Aleksander
 - header: 'Client Acquisition: Network-First Outreach'
+- header: 'Client Acquisition: Network-First Outreach'
 - line: First, let me ask you about how you find these clients. You said that your
     clients are usually startups – pre-seed startups or series A startups – that do
     not necessarily have this data infrastructure. In order to do cool things in the
@@ -546,6 +561,7 @@ transcript:
   time: '29:18'
   who: Aleksander
 - header: 'Positioning Services: Target Customers and Timing'
+- header: 'Positioning Services: Target Customers and Timing'
 - line: How would you actually do this? It sounds easy, right? You're just like, “Okay.
     Who is my target audience? How do we position ourselves?” It seems simple. But
     when you actually start, it's not easy, right? How do you actually do this? Mom
@@ -574,6 +590,7 @@ transcript:
   sec: 1837
   time: '30:37'
   who: Aleksander
+- header: 'Geographic Strategy: Europe Focus and VC Introductions'
 - header: 'Geographic Strategy: Europe Focus and VC Introductions'
 - line: Did you have any geographical restrictions? Did you focus on companies in
     Berlin or you just targeted everyone?
@@ -653,6 +670,7 @@ transcript:
   time: '36:33'
   who: Aleksander
 - header: 'Messaging Example: Revenue and Marketing Optimization Offers'
+- header: 'Messaging Example: Revenue and Marketing Optimization Offers'
 - line: Can you give an example of this messaging? Maybe this is what you’re suggesting
     to your customers right now? Maybe you can give an example of that?
   sec: 2223
@@ -706,6 +724,7 @@ transcript:
   sec: 2327
   time: '38:47'
   who: Aleksander
+- header: 'Marketing Mix: Networking, Content, and LinkedIn'
 - header: 'Marketing Mix: Networking, Content, and LinkedIn'
 - line: Is there still room for consulting right now in this market?
   sec: 2450
@@ -784,6 +803,7 @@ transcript:
   time: '44:25'
   who: Aleksander
 - header: 'Pricing Framework: Value-Based Benchmarking'
+- header: 'Pricing Framework: Value-Based Benchmarking'
 - line: There is a question that has been there for quite some time. I think now it's
     time we covered that. The question is, “How did you decide on pricing for your
     first client?”
@@ -850,6 +870,7 @@ transcript:
   sec: 2862
   time: '47:42'
   who: Aleksander
+- header: 'Rate Setting: Starting Rates, Maximums and Minimums'
 - header: 'Rate Setting: Starting Rates, Maximums and Minimums'
 - line: Is there any rule of thumb for that? Let's say, “Take the salary of a senior
     data analyst and multiply it by two,” or something like that?
@@ -933,6 +954,7 @@ transcript:
   sec: 3135
   time: '52:15'
   who: Aleksander
+- header: 'Contract Models: Day Rates vs Project Pricing and Incentives'
 - header: 'Contract Models: Day Rates vs Project Pricing and Incentives'
 - line: With the daily price – I have no experience in consulting, just something
     that's on my mind – you have this incentive to work for more days. So instead
@@ -1022,6 +1044,7 @@ transcript:
   time: '55:45'
   who: Aleksander
 - header: 'Legal & Administrative: Registering a Consultancy in Germany'
+- header: 'Legal & Administrative: Registering a Consultancy in Germany'
 - line: We don't have a lot of time so maybe I'll ask a very quick question with a
     yes or no answer. Is Germany a good country to register a consultancy company?
   sec: 3478
@@ -1058,6 +1081,7 @@ transcript:
   time: '59:28'
   who: Alexey
 - header: 'Recommended Reading: Decision-Making and Interviewing Books'
+- header: 'Recommended Reading: Decision-Making and Interviewing Books'
 - line: Last question. Are there any books or other resources that you can recommend
     to our listeners?
   sec: 3569
@@ -1082,6 +1106,7 @@ transcript:
   time: '59:35'
   who: Aleksander
 - header: Closing Remarks and Episode Wrap-Up
+- header: Closing Remarks and Episode Wrap-Up
 - line: Thank you. That's all we have time for today. Thanks a lot, Aleksander, for
     joining us today and for sharing your knowledge, expertise, and everything you
     learned from your experience of starting a consultancy company. Thanks, everyone
@@ -1090,6 +1115,25 @@ transcript:
   sec: 3686
   time: '1:01:26'
   who: Alexey
+intro: How do you validate customers, run effective user interviews, and set pricing
+  to build a sustainable data consulting business? In this episode Aleksander Kruszelnicki
+  — ex-Delivery Hero product manager turned co-founder of leukos, a boutique data
+  analytics agency in Berlin — walks through the practical steps he took shifting
+  from product ideas to a consulting model after early startup failures. <br><br>
+  We cover market and technical limits of “data stack as a service,” first-customer
+  stories, customer validation techniques for pre-product ideas, and a repeatable
+  user interview strategy (questions, cadence, roles, and note-taking). Aleksander
+  explains why value often sits in data modeling over infrastructure, the decision
+  to pivot to hands-on consulting, and team composition (PM + engineer). You’ll also
+  hear tactical guidance on client acquisition (network-first outreach), positioning
+  for European customers and VCs, messaging examples for revenue/marketing optimization,
+  marketing mix (networking, content, LinkedIn), pricing frameworks and rate setting,
+  contract models (day rates vs project pricing), and practical legal/admin steps
+  for registering a consultancy in Germany. <br><br> Listen to get actionable methods
+  for customer validation, user interviews, pricing strategy, and building a data
+  consulting business that captures real client value.
+description: 'Learn data consulting: customer validation, user interviews and pricing
+  strategy to validate ideas, win clients, set value-based rates & scale your practice.'
 ---
 Links:
 

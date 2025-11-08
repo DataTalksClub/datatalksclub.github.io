@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 """
-Generate intros for podcast episodes using OpenAI API.
+Generate titles for podcast episodes using OpenAI API.
 
 This script takes a podcast page, finds the timestamp file from podcast-timestamps folder,
-and finds the guest's page in _people folder to use their information.
+and generates a SEO-optimized title for the podcast episode.
 
 Usage:
-    python generate_intro_podcasts.py <podcast_file> [--update] [--api-key YOUR_KEY]
-    python generate_intro_podcasts.py --all-in-dir _podcast/ --update
-    python generate_intro_podcasts.py --file-list podcasts.txt --update
+    python generate_title_podcasts.py <podcast_file> [--update] [--api-key YOUR_KEY]
+    python generate_title_podcasts.py --all-in-dir _podcast/ --update
+    python generate_title_podcasts.py --file-list podcasts.txt --update
     
 Example:
-    python generate_intro_podcasts.py _podcast/s01e02-processes.md --update
+    python generate_title_podcasts.py _podcast/s01e02-processes.md --update
 """
 
 import os
@@ -24,31 +24,25 @@ from typing import List
 from openai import OpenAI
 
 
-DEFAULT_PROMPT = """You are an SEO expert creating podcast episode introductions for show notes and homepage descriptions.
+DEFAULT_PROMPT = """You are an SEO expert creating SEO-optimized titles for podcast episodes.
 
-You are given episode timestamps showing key topics and discussion flow and guest information (name, title, bio, expertise) and episode title.
+You are given episode timestamps showing key topics and discussion flow.
 
-TASK: Generate an SEO-optimized intro summary based on episode timestamps, guest information and episode title.
+TASK: Based on the podcast timestamps, generate a SEO-optimized title for the podcast episode.
 
 REQUIREMENTS:
-- Length: 150-200 words
-- Prioritize the topic highlighted in the episode title when generating the intro
-- Should include opening hook with a main challenge/question the episode explores, guest's background, introduce the key topics, and provide a value proposition for the listener
-- No marketer talk and hype, just focus on the content of the episode and the value it provides to the 
-- Do not invent things that are not in the timestamps or the episode title
-- Naturally integrate SEO keywords if they are related to the episode
-- Correct grammar and punctuation
-
-EPISODE TITLE:
-{episode_title}
+- Make it clear and useful for the reader to grasp the main topic of the episode and its value proposition
+- Optimize for SEO with relevant keywords
+- Should be under 100 characters
+- Focus primarily on the main themes and topics in the timestamps
+- Use action words and specific terms or concepts when appropriate
+- Make it compelling enough that someone would click on it in search results
+- Do not include speaker name in the title
 
 TIMESTAMPS:
 {timestamps_content}
 
-GUEST INFORMATION:
-{guest_info}
-
-OUTPUT: Generate ONLY the intro text.
+OUTPUT: Generate ONLY the title text.
 """
 
 
@@ -71,7 +65,6 @@ def parse_podcast_file(file_path):
             except yaml.YAMLError:
                 return None, content, content
     
-    # No frontmatter found
     return None, content, content
 
 
@@ -88,74 +81,8 @@ def get_timestamps_file(podcast_file_path):
     return timestamp_file if timestamp_file.exists() else None
 
 
-def get_guest_info(guest_short):
-    """Get guest information from _people folder."""
-    script_dir = Path(__file__).parent
-    project_root = script_dir.parent
-    people_dir = project_root / '_people'
-    
-    guest_file = people_dir / f"{guest_short}.md"
-    
-    if not guest_file.exists():
-        return None
-    
-    with open(guest_file, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Extract front matter
-    if content.startswith('---\n'):
-        match = re.search(r'\n---\n', content[4:])
-        if match:
-            end_pos = match.start() + 4
-            frontmatter_text = content[4:end_pos]
-            rest_content = content[end_pos + 5:].strip()
-            
-            try:
-                frontmatter = yaml.safe_load(frontmatter_text)
-                # Combine front matter info with bio content
-                guest_info = {
-                    'name': frontmatter.get('title', ''),
-                    'short': frontmatter.get('short', ''),
-                    'picture': frontmatter.get('picture', ''),
-                    'linkedin': frontmatter.get('linkedin', ''),
-                    'twitter': frontmatter.get('twitter', ''),
-                    'web': frontmatter.get('web', ''),
-                    'bio': rest_content
-                }
-                return guest_info
-            except yaml.YAMLError:
-                return None
-    
-    return None
-
-
-def format_guest_info(guests_info):
-    """Format guest information for the prompt."""
-    if not guests_info:
-        return "No guest information available."
-    
-    formatted = []
-    for guest in guests_info:
-        if guest:
-            info_parts = []
-            if guest.get('name'):
-                info_parts.append(f"Name: {guest['name']}")
-            if guest.get('bio'):
-                info_parts.append(f"Bio: {guest['bio']}")
-            if guest.get('linkedin'):
-                info_parts.append(f"LinkedIn: {guest['linkedin']}")
-            if guest.get('twitter'):
-                info_parts.append(f"Twitter: {guest['twitter']}")
-            if guest.get('web'):
-                info_parts.append(f"Website: {guest['web']}")
-            
-            formatted.append("\n".join(info_parts))
-    
-    return "\n\n".join(formatted) if formatted else "No guest information available."
-
-
-def generate_intro(timestamps_content, guest_info, episode_title=None, api_key=None):
-    """Generate intro using OpenAI API."""
+def generate_title(timestamps_content, api_key=None):
+    """Generate title using OpenAI API."""
     # Initialize OpenAI client
     if api_key:
         client = OpenAI(api_key=api_key)
@@ -165,15 +92,11 @@ def generate_intro(timestamps_content, guest_info, episode_title=None, api_key=N
     
     # Format the prompt with all the information
     prompt = DEFAULT_PROMPT.format(
-        episode_title=episode_title or "No episode title available",
         timestamps_content=timestamps_content,
-        guest_info=guest_info
     )
-    
+
     print(f"Prompt size: {len(prompt)} characters")
-    print(f"  - Episode title: {len(episode_title or '')} characters")
     print(f"  - Timestamps: {len(timestamps_content)} characters")
-    print(f"  - Guest info: {len(guest_info)} characters")
     print()
     
     # Call OpenAI API
@@ -182,71 +105,48 @@ def generate_intro(timestamps_content, guest_info, episode_title=None, api_key=N
         input=prompt,
     )
     
-    intro = response.output_text.strip()
+    title = response.output_text.strip()
     
     # Remove quotes if present
-    if intro.startswith('"') and intro.endswith('"'):
-        intro = intro[1:-1]
-    if intro.startswith("'") and intro.endswith("'"):
-        intro = intro[1:-1]
+    if title.startswith('"') and title.endswith('"'):
+        title = title[1:-1]
+    if title.startswith("'") and title.endswith("'"):
+        title = title[1:-1]
     
-    # Format intro: replace paragraph breaks with <br><br>
-    intro = format_intro_with_breaks(intro)
-    
-    return intro
+    return title
 
 
-def format_intro_with_breaks(intro):
-    """Format intro text by replacing paragraph breaks with <br><br>."""
-    # Split by double newlines (paragraph breaks)
-    paragraphs = []
-    for para in intro.split('\n\n'):
-        para = para.strip()
-        if para:
-            # Replace single newlines within paragraph with spaces
-            para = ' '.join(para.split('\n'))
-            paragraphs.append(para)
+def update_podcast_file(file_path, title):
+    """Update the podcast file with the generated title."""
+    # Ensure title has no quotes (strip if present)
+    title = title.strip()
+    if title.startswith('"') and title.endswith('"'):
+        title = title[1:-1]
+    if title.startswith("'") and title.endswith("'"):
+        title = title[1:-1]
     
-    # Join paragraphs with <br><br>
-    formatted_intro = ' <br><br> '.join(paragraphs)
-    
-    return formatted_intro
-
-
-def update_podcast_file(file_path, intro):
-    """Update the podcast file with the generated intro."""
     with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
+        lines = f.readlines()
     
-    # Find the frontmatter section
-    if content.startswith('---\n'):
-        # Find the closing ---
-        match = re.search(r'\n---\n', content[4:])
-        if match:
-            end_pos = match.start() + 4
-            frontmatter_text = content[4:end_pos]
-            rest_content = content[end_pos + 5:]
-            
-            # Parse frontmatter
-            frontmatter = yaml.safe_load(frontmatter_text)
-            
-            # Add or update intro field
-            frontmatter['intro'] = intro
-            
-            # Convert back to YAML
-            new_frontmatter = yaml.dump(frontmatter, default_flow_style=False, allow_unicode=True, sort_keys=False)
-            
-            # Reconstruct file
-            new_content = f"---\n{new_frontmatter}---\n{rest_content}"
-            
-            # Write back to file
-            with open(file_path, 'w', encoding='utf-8') as f:
-                f.write(new_content)
-            
-            return True
+    # Find and replace the title line
+    found = False
+    for i, line in enumerate(lines):
+        if line.strip().startswith('title:'):
+            # Always format as: title: "title-here"
+            indent = len(line) - len(line.lstrip())
+            lines[i] = ' ' * indent + f'title: "{title}"\n'
+            found = True
+            break
     
-    return False
-
+    if not found:
+        return False
+    
+    # Write back to file
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.writelines(lines)
+    
+    return True
+    
 
 def get_project_root():
     """Get the project root directory (parent of scripts directory)."""
@@ -320,7 +220,7 @@ def get_podcast_files_from_args(args) -> List[Path]:
 
 
 def process_podcast_file(podcast_file: Path, api_key: str = None, update: bool = False, dry_run: bool = False) -> bool:
-    """Process a single podcast file to generate and optionally update the intro."""
+    """Process a single podcast file to generate and optionally update the title."""
     print(f"Processing: {podcast_file.name}")
     print("-" * 60)
     
@@ -332,11 +232,6 @@ def process_podcast_file(podcast_file: Path, api_key: str = None, update: bool =
             print("Warning: Could not parse frontmatter from podcast file", file=sys.stderr)
             frontmatter = {}
         
-        # Get guest names from front matter
-        guests = frontmatter.get('guests', [])
-        if not guests:
-            print("Warning: No guests found in front matter", file=sys.stderr)
-        
         # Get timestamp file
         timestamp_file = get_timestamps_file(podcast_file)
         if not timestamp_file:
@@ -347,39 +242,24 @@ def process_podcast_file(podcast_file: Path, api_key: str = None, update: bool =
             with open(timestamp_file, 'r', encoding='utf-8') as f:
                 timestamps_content = f.read().strip()
         
-        # Get guest information
-        guests_info = []
-        for guest_short in guests:
-            guest_info = get_guest_info(guest_short)
-            if guest_info:
-                print(f"Found guest info: {guest_short}")
-                guests_info.append(guest_info)
-            else:
-                print(f"Warning: Guest info not found for: {guest_short}", file=sys.stderr)
-        
-        formatted_guest_info = format_guest_info(guests_info)
-        
-        # Get episode title from frontmatter
-        episode_title = frontmatter.get('title', '')
-        
         print()
-        print("Generating intro...")
+        print("Generating title...")
         print()
         
-        # Generate intro
-        intro = generate_intro(timestamps_content, formatted_guest_info, episode_title=episode_title, api_key=api_key)
+        # Generate title
+        title = generate_title(timestamps_content, api_key=api_key)
         
-        print(f"Generated intro ({len(intro)} chars):")
-        print(f"  {intro}")
+        print(f"Generated title ({len(title)} chars):")
+        print(f"  {title}")
         print()
         
         # Update file if requested
         if update:
             if dry_run:
-                print("\n[DRY RUN] Would update the file with the new intro")
+                print("\n[DRY RUN] Would update the file with the new title")
                 return True
             else:
-                success = update_podcast_file(podcast_file, intro)
+                success = update_podcast_file(podcast_file, title)
                 if success:
                     print(f"\n✓ File updated successfully!")
                     return True
@@ -399,37 +279,37 @@ def process_podcast_file(podcast_file: Path, api_key: str = None, update: bool =
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Generate intros for podcast episodes using OpenAI API',
+        description='Generate titles for podcast episodes using OpenAI API',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Generate intro and display it
-  python generate_intro_podcasts.py _podcast/s01e02-processes.md
+  # Generate title and display it
+  python generate_title_podcasts.py _podcast/s01e02-processes.md
   
   # Generate and update the file
-  python generate_intro_podcasts.py _podcast/s01e02-processes.md --update
+  python generate_title_podcasts.py _podcast/s01e02-processes.md --update
   
   # Process multiple files
-  python generate_intro_podcasts.py _podcast/episode1.md _podcast/episode2.md --update
+  python generate_title_podcasts.py _podcast/episode1.md _podcast/episode2.md --update
   
   # Process all files in a directory
-  python generate_intro_podcasts.py --all-in-dir _podcast/ --update
+  python generate_title_podcasts.py --all-in-dir _podcast/ --update
   
   # Read file list from a text file
-  python generate_intro_podcasts.py --file-list podcasts.txt --update
+  python generate_title_podcasts.py --file-list podcasts.txt --update
   
   # Use custom API key
-  python generate_intro_podcasts.py _podcast/s01e02-processes.md --api-key sk-...
+  python generate_title_podcasts.py _podcast/s01e02-processes.md --api-key sk-...
   
   # Dry run to see what would be done
-  python generate_intro_podcasts.py --all-in-dir _podcast/ --dry-run
+  python generate_title_podcasts.py --all-in-dir _podcast/ --dry-run
         """
     )
     
     parser.add_argument('podcast_files', nargs='*', help='Podcast markdown files to process')
     parser.add_argument('--file-list', help='Text file containing list of podcast files (one per line)')
     parser.add_argument('--all-in-dir', help='Process all .md files in the specified directory')
-    parser.add_argument('--update', action='store_true', help='Update the file with generated intro')
+    parser.add_argument('--update', action='store_true', help='Update the file with generated title')
     parser.add_argument('--api-key', help='OpenAI API key (or set OPENAI_API_KEY env var)')
     parser.add_argument('--dry-run', action='store_true', help='Show what would be done without making changes')
     

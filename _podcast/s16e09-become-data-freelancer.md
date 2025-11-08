@@ -2,6 +2,7 @@
 episode: 9
 guests:
 - dimitrivisnadi
+date: 2025-11-07
 ids:
   anchor: atatalksclub/episodes/Become-a-Data-Freelancer---Dimitri-Visnadi-e2cslo2
   youtube: R_EnSa9aZtE
@@ -13,7 +14,7 @@ links:
   youtube: https://www.youtube.com/watch?v=R_EnSa9aZtE
 season: 16
 short: Become a Data Freelancer
-title: Become a Data Freelancer
+title: 'Launch Your Data Freelancer Career: Pricing, Outreach, Contracts & Risk'
 transcript:
 - header: Podcast Introduction
 - line: This week, we'll talk about doing data freelancing. We have a very special
@@ -1177,6 +1178,23 @@ transcript:
   sec: 3680
   time: '1:01:20'
   who: Dimitri
+intro: 'How do you move from corporate data roles into a sustainable freelance data
+  career while setting rates, winning clients, and managing legal risk? In this episode
+  Dimitri Visnadi — an independent data consultant who has advised brands like Unilever,
+  Ferrero, Heineken and Red Bull, worked in HP’s data teams and a Google‑partner consulting
+  firm, and holds an MSc in Business Analytics from UCL — walks through the practical
+  steps he used to launch The Data Freelancer. <br><br> We cover the full arc of transition:
+  career pivot and early outreach, market research and recruiter channels, pricing
+  strategy across platforms vs direct clients, subcontracting and cutting out middlemen,
+  and the contract risks around dependent contractor status. Dimitri also breaks down
+  client vetting, handling corporate payment delays, recommended runway before quitting,
+  and common pitfalls like mispositioning and mispricing. Listeners will leave with
+  concrete tactics for freelance data consulting — outreach scripts, benchmarking
+  approaches for rates, contract checkpoints, and resources (courses, mentors, newsletters)
+  to reduce risk and build a reliable pipeline. Ideal for aspiring data freelancers
+  seeking practical guidance on pricing, outreach, contracts and risk.'
+description: 'Launch your data freelancer career: pricing, outreach & contracts tactics,
+  client vetting, legal risk and runway tips to win steady projects.'
 ---
 Links:
 

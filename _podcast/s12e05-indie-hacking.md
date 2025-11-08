@@ -2,6 +2,7 @@
 episode: 5
 guests:
 - paulineclavelloux
+date: 2025-11-07
 topics:
 - Entrepreneurship
 - Indie Hacking
@@ -21,8 +22,10 @@ links:
   youtube: https://www.youtube.com/watch?v=KsV_SVXlTo8
 season: 12
 short: Indie Hacking
-title: Indie Hacking
+title: 'Build, Launch & Monetize Indie Hacker Products: Crypto Alerts, Generative
+  AI & Growth'
 transcript:
+- header: Episode Introduction
 - header: Episode Introduction
 - line: This week we'll talk about indie hacking. We have a special guest today, Pauline.
     Pauline is a data science manager and a consultant at IBM, where she has worked
@@ -47,6 +50,7 @@ transcript:
   sec: 37
   time: 0:37
   who: Alexey
+- header: 'Career Journey: Engineering Student to IBM Data Scientist'
 - header: 'Career Journey: Engineering Student to IBM Data Scientist'
 - line: Before we go into our main topic of indie hacking. Let's start with your background.
     Can you tell us about your career journey so far?
@@ -99,6 +103,7 @@ transcript:
   time: '2:53'
   who: Alexey
 - header: 'Consulting Work: Project Types and Client Engagement'
+- header: 'Consulting Work: Project Types and Client Engagement'
 - line: When you are a data consultant, it means I work in the data science area for
     various clients. I work from project to project. A project is a mission. It can
     last one month or four years, for example. I think my shortest mission lasted
@@ -137,6 +142,7 @@ transcript:
   time: '4:48'
   who: Alexey
 - header: 'Manager Role: Deliverables, Roadmaps, and Client Communication'
+- header: 'Manager Role: Deliverables, Roadmaps, and Client Communication'
 - line: Yes. As a manager, you ensure that the models are created. That it fits the
     client's needs. You are also the relation between the clients and the team. I
     can present the results of what we achieved, what is in the roadmap – those kinds
@@ -149,6 +155,7 @@ transcript:
   sec: 318
   time: '5:18'
   who: Alexey
+- header: 'Case Study: Money-Laundering Detection Project and Deployment'
 - header: 'Case Study: Money-Laundering Detection Project and Deployment'
 - line: Yes. I won't name the clients, but I worked for two years to detect money
     laundering.
@@ -189,6 +196,7 @@ transcript:
   time: '7:09'
   who: Pauline
 - header: 'Indie Hacking Explained: Bootstrapping Without External Funding'
+- header: 'Indie Hacking Explained: Bootstrapping Without External Funding'
 - line: Okay, that's all quite interesting and I want to ask more. But that's not
     the main topic today. Right? The main topic today is what you started one year
     ago, as you said, which is indie hacking. Maybe, can you tell us what indie hacking
@@ -212,6 +220,7 @@ transcript:
   sec: 460
   time: '7:40'
   who: Pauline
+- header: 'Day Job + Side Projects: Time Allocation and Routine'
 - header: 'Day Job + Side Projects: Time Allocation and Routine'
 - line: So basically, during daytime, you work at IBM as a data science manager, but
     after work (after 5pm or 6pm) you start working on your side projects.
@@ -267,6 +276,7 @@ transcript:
   sec: 630
   time: '10:30'
   who: Alexey
+- header: 'Cryptopy Origin: Building Crypto Alerts for Personal Trading'
 - header: 'Cryptopy Origin: Building Crypto Alerts for Personal Trading'
 - line: Yeah. Everything started with Cryptopy. That was my first project. Actually,
     for Cryptopy, at the very beginning, I did some trading of crypto and I noticed
@@ -335,6 +345,7 @@ transcript:
   sec: 892
   time: '14:52'
   who: Alexey
+- header: 'Productization: Company Setup, Landing Pages, Legal and Payments'
 - header: 'Productization: Company Setup, Landing Pages, Legal and Payments'
 - line: In January, we created the company because it was better for us to have money
     in common. We used our system on our side – so we had to maintain two systems,
@@ -415,6 +426,7 @@ transcript:
   time: '18:41'
   who: Alexey
 - header: 'Technology Choices: Python/Flask, Team Contributions, and Architecture'
+- header: 'Technology Choices: Python/Flask, Team Contributions, and Architecture'
 - line: No, we used Python, [chuckles] because I wanted to be able to modify the code.
     Also, with Python, there is a framework that you can use for web development.
     It's called Flask and we used it. But we could have also used Java and do some
@@ -428,6 +440,7 @@ transcript:
   sec: 1164
   time: '19:24'
   who: Alexey
+- header: 'Marketing Efforts: Audience Reach, Social Channels, and Challenges'
 - header: 'Marketing Efforts: Audience Reach, Social Channels, and Challenges'
 - line: For Cryptopy, at first it was equally split for the development and then when
     we thought about launching an offer for people, we split it. She did the development,
@@ -460,6 +473,7 @@ transcript:
   sec: 1213
   time: '20:13'
   who: Pauline
+- header: Operating Costs and Niche Product Strategy
 - header: Operating Costs and Niche Product Strategy
 - line: Before we go into your second project – I'm really curious about that, too
     – maybe you can mention how much it costs you to maintain this thing. You said
@@ -497,6 +511,7 @@ transcript:
   sec: 1385
   time: '23:05'
   who: Pauline
+- header: 'UnrealMe Origin: DreamBooth Inspiration and Rapid Prototyping'
 - header: 'UnrealMe Origin: DreamBooth Inspiration and Rapid Prototyping'
 - line: So tell us about the other one you had.
   sec: 1413
@@ -537,6 +552,7 @@ transcript:
   time: '25:37'
   who: Alexey
 - header: 'Implementation Decisions: API Fine-Tuning vs Self-Hosted GPUs'
+- header: 'Implementation Decisions: API Fine-Tuning vs Self-Hosted GPUs'
 - line: First we studied. We were wondering, “Should we start from scratch with DreamBooth
     (DreamBooth is a model)? Should we use it with our own GPU?” Because it's fine
     tuning images, it uses GPU, and it's very expensive. We had this choice or we
@@ -576,6 +592,7 @@ transcript:
   sec: 1718
   time: '28:38'
   who: Pauline
+- header: 'Launch Channels: Twitter, Black Friday Listings, and Early Sales'
 - header: 'Launch Channels: Twitter, Black Friday Listings, and Early Sales'
 - line: Okay. You said your first sale came even before you went live. You put the
     link somewhere?
@@ -636,6 +653,7 @@ transcript:
   sec: 1870
   time: '31:10'
   who: Pauline
+- header: Customer Acquisition and Pricing Constraints
 - header: Customer Acquisition and Pricing Constraints
 - line: What was the main challenge here for this project? In the previous project,
     you said the main challenge was reaching the target audience (crypto traders)
@@ -705,6 +723,7 @@ transcript:
   time: '34:44'
   who: Pauline
 - header: 'Motivation: Creative Drive and Why Indie Hacking Matters'
+- header: 'Motivation: Creative Drive and Why Indie Hacking Matters'
 - line: What motivates you to do this? Why did you even start working on indie hacking?
     Because you wanted to learn more outside of your job? What was the main driver
     for you?
@@ -720,6 +739,7 @@ transcript:
   sec: 2108
   time: '35:08'
   who: Pauline
+- header: 'Skills Gained: GCP, Data Engineering, Web Dev, and Marketing'
 - header: 'Skills Gained: GCP, Data Engineering, Web Dev, and Marketing'
 - line: The skills that you acquire through these projects – through indie hacking
     – do they help you with your main job?
@@ -800,6 +820,7 @@ transcript:
   time: '39:19'
   who: Pauline
 - header: 'Work–Life Balance: Passion, Energy, and Time Management'
+- header: 'Work–Life Balance: Passion, Energy, and Time Management'
 - line: How do you balance your work at IBM with indie hacking? Is it difficult? I
     guess if you work from nine to five, and then at the end, you might be exhausted
     and then you have other projects to work on. How do you find the energy to do
@@ -856,6 +877,7 @@ transcript:
   time: '41:59'
   who: Alexey
 - header: 'AboutStartup.io: Blog Concept, Interviews, and Monetization Paths'
+- header: 'AboutStartup.io: Blog Concept, Interviews, and Monetization Paths'
 - line: Yeah. I don't know if the term “micro” is important but yeah, I have a lot
     of ideas. I have my Notion to-do list. Of course, I won't build them all. When
     I have an idea, I work on a project – if it works, that's cool, I can improve
@@ -901,6 +923,7 @@ transcript:
   sec: 2698
   time: '44:58'
   who: Pauline
+- header: 'Idea Generation: Frustration-Led Problems and Opportunity Sourcing'
 - header: 'Idea Generation: Frustration-Led Problems and Opportunity Sourcing'
 - line: I see. Interesting. You said you don't want to talk about particular ideas
     that you have on your list and that's understandable. But maybe you can tell us
@@ -959,6 +982,7 @@ transcript:
   time: '48:43'
   who: Pauline
 - header: 'Idea Validation: Competitor Scan, Skills Check, and Build Criteria'
+- header: 'Idea Validation: Competitor Scan, Skills Check, and Build Criteria'
 - line: And the way you do this – let's say you have an idea on this list that you
     haven't started working on yet. How do you go from this idea on the list to actually
     launching it? What are the steps?
@@ -978,6 +1002,7 @@ transcript:
   sec: 2948
   time: '49:08'
   who: Pauline
+- header: 'Twitter Growth: Personal Branding and Audience Building'
 - header: 'Twitter Growth: Personal Branding and Audience Building'
 - line: Since you mentioned Twitter, you also said (correct me if I'm wrong) that
     you started your Twitter account in the summer of 2022. [Pauline agrees] Now,
@@ -1024,6 +1049,7 @@ transcript:
   time: '52:36'
   who: Pauline
 - header: 'Content Strategy: Balancing Data Science and Indie-Hacking Posts'
+- header: 'Content Strategy: Balancing Data Science and Indie-Hacking Posts'
 - line: What do you think you followers like more, posts about data science or posts
     about indie hacking or something else?
   sec: 3158
@@ -1037,6 +1063,7 @@ transcript:
   sec: 3167
   time: '52:47'
   who: Pauline
+- header: 'Community Access: Contact Options via Twitter and Slack'
 - header: 'Community Access: Contact Options via Twitter and Slack'
 - line: I see that there is a question from Kevin. The question asks if there is any
     way to connect with you. Are your DMs on Twitter open? [Pauline confirms]. Okay,
@@ -1070,6 +1097,7 @@ transcript:
   sec: 3273
   time: '54:33'
   who: Pauline
+- header: 'Indie Inspiration: Pieter Levels and the “Many Projects” Approach'
 - header: 'Indie Inspiration: Pieter Levels and the “Many Projects” Approach'
 - line: So thank you. Happy New Year to you as well. Another question from Kevin is
     whether you know Pieter Levels. Do you know who Pieter Levels is?
@@ -1131,6 +1159,7 @@ transcript:
   time: '57:02'
   who: Pauline
 - header: 'Recommended Resources: Data Sense and AboutStartup.io'
+- header: 'Recommended Resources: Data Sense and AboutStartup.io'
 - line: Do you have any book or other resources that you can recommend to the listeners?
   sec: 3430
   time: '57:10'
@@ -1150,6 +1179,7 @@ transcript:
   sec: 3469
   time: '57:49'
   who: Alexey
+- header: Episode Wrap-Up and Final Thoughts
 - header: Episode Wrap-Up and Final Thoughts
 - line: I think we talked about pretty much everything.
   sec: 3499
@@ -1187,7 +1217,26 @@ transcript:
   sec: 3567
   time: '59:27'
   who: Pauline
+intro: 'How do you build, launch, and actually monetize indie-hacker products in crypto
+  alerts and generative AI while keeping a day job? In this episode Pauline Clavelloux
+  — an IBM data science manager and consultant with eight years’ experience who also
+  ships side projects like Cryptopy (crypto alerts) and UnrealMe (a DreamBooth-inspired
+  selfie-to-art tool) — walks through the practical steps. <br><br> We cover Pauline’s
+  career path and an ML production case study (money‑laundering detection), then move
+  into indie-hacking essentials: bootstrapping, splitting time between a full‑time
+  role and side projects, and validating ideas. You’ll hear how she productized projects
+  (company setup, landing pages, legal, payments), chose a stack (Python/Flask, API
+  fine‑tuning vs self‑hosted GPUs), managed operating costs, and launched via Twitter
+  and niche listings. The conversation also tackles customer acquisition, pricing
+  constraints, marketing and content strategy, and skills gained across GCP, data
+  engineering, web dev, and growth. <br><br> Listen for actionable guidance on product
+  launch, monetization, and time management for indie hackers working on crypto alerts
+  and generative AI—concrete steps to validate, build, and grow side products without
+  external funding.'
+description: 'Build indie-hacking products: launch crypto alerts & generative AI apps,
+  validate ideas, choose tech, price effectively and monetize for sustainable growth.'
 ---
+
 Links:
 
 * [Website](https://wintopy.io/){:target="_blank"}

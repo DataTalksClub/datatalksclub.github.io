@@ -2,6 +2,7 @@
 episode: 1
 guests:
 - adrianbrudaru
+date: 2025-11-07
 ids:
   anchor: atatalksclub/episodes/The-Entrepreneurship-Journey-From-Freelancing-to-Starting-a-Company---Adrian-Brudaru-e2cut0k
   youtube: vOpEQiCsaLw
@@ -21,7 +22,8 @@ links:
   youtube: https://www.youtube.com/watch?v=vOpEQiCsaLw
 season: 17
 short: 'The Entrepreneurship Journey: From Freelancing to Starting a Company'
-title: 'The Entrepreneurship Journey: From Freelancing to Starting a Company'
+title: 'Launch an Open-Source Data Company: Declarative JSON to Relational DLT for
+  Python Devs'
 transcript:
 - header: Podcast Introduction
 - header: 'Episode Overview: Building an Open‑Source Data Company'
@@ -1168,6 +1170,25 @@ transcript:
   sec: 3696
   time: '1:01:36'
   who: Alexey
+intro: 'How do you build an open-source data company that helps Python developers
+  turn messy JSON into reliable relational tables? In this episode Adrian Brudaru
+  — an economics-trained, Berlin-based founder who moved from startups to freelancing
+  and now co‑founded a data tooling company — walks through the journey of launching
+  developer-focused open‑source software for data engineering. <br><br> We cover why
+  dumping JSON into data warehouses is an anti‑pattern and introduce the core DLT
+  concept: a declarative JSON→relational transformation engine aimed at Python devs.
+  Adrian explains product iteration (engine, abstractions, user feedback), running
+  workshops as a validation loop, treating documentation as a product asset, and practical
+  bootstrapping strategies (savings, consulting revenue, scrappy operations). He also
+  discusses team formation via projects, go‑to‑market tactics with a bottom‑up, library‑first
+  approach, ecosystem partnerships (DocDB integration and joint demos), roadmap plans
+  for a paid complement to the open‑source library, and experiments with source generation
+  like OpenAPI generators for pipelines. <br><br> Listen if you want concrete technical
+  and GTM guidance on building an open‑source data company, implementing declarative
+  JSON→relational workflows for Python, and how to validate and scale developer tooling
+  without prematurely becoming a platform.'
+description: Discover building open-source JSON-to-Relational data pipelines in Python,
+  practical DLT patterns, anti-pattern fixes, bootstrap tips to speed adoption.
 ---
 Links:
 

@@ -2,6 +2,23 @@
 episode: 4
 guests:
 - hugobowneanderson
+date: 2025-11-07
+intro: How do you move from prototypes to reliable, scalable LLM systems that actually
+  deliver business value? <br><br>In this episode, Hugo Bowne‑Anderson—tracing a path
+  from biology research into Python, PyData, DataCamp curriculum and product work,
+  then into consulting, teaching, and developer relations—walks through practical
+  engineering and evaluation patterns for building LLM-driven workflows. <br><br>
+  We cover prompt engineering (role prompts, structured output, timestamps), everyday
+  LLM use cases (summaries, translation, CSV workflows), transcript pipelines (Gemini,
+  Descript, Loom) and automation with GitHub Actions. Hugo explains the generator–evaluator
+  pattern for automated quality control, how to design evaluation sets and failure
+  analysis, and techniques for logging, traces, and debuggable MVPs. <br><br> You’ll
+  hear when to prioritize RAG (retrieval-augmented generation) and chunking strategies,
+  when to add tool calls or agents, plus a concrete email assistant build using Gmail
+  API + RAG. The episode closes with a four‑step framework for agents and guidance
+  on retrieval‑based vs multi‑turn memory. <br><br> If you’re building LLM systems,
+  this conversation gives actionable tactics for prompt engineering, evaluation, scaling
+  transcript pipelines, and deciding when to adopt agents, embeddings, and automation.
 ids:
   anchor: datatalksclub/episodes/How-to-Build-and-Evaluate-AI-systems-in-the-Age-of-LLMs---Hugo-Bowne-Anderson-e39vt24
   youtube: eC3RNuI6ow0
@@ -13,7 +30,8 @@ links:
   youtube: https://www.youtube.com/watch?v=eC3RNuI6ow0
 season: 22
 short: How to Build and Evaluate AI systems in the Age of LLMs
-title: How to Build and Evaluate AI systems in the Age of LLMs
+title: 'Build & Scale LLM Agents and RAG Pipelines: Prompting, Transcript Automation,
+  Evaluation'
 transcript:
 - header: Episode Introduction & Guest Bio
 - line: This week we will talk about LLMs and AI like everyone else, I guess.
@@ -1113,6 +1131,9 @@ transcript:
   sec: 3690
   time: '1:01:30'
   who: Alexey
+description: Build LLM agents and RAG pipelines using prompting, transcript automation,
+  and evaluation to scale systems - learn chunking, monitoring, and practical build
+  steps.
 ---
 Links:
 

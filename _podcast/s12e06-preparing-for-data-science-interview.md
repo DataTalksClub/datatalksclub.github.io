@@ -2,6 +2,7 @@
 episode: 6
 guests:
 - lukewhipps
+date: 2025-11-07
 topics:
 - Job search
 - Career Growth
@@ -10,6 +11,7 @@ topics:
 - Data Science
 - Portfolio Building
 - Interview
+intro: "How do you reliably prepare for ML and data science technical interviews — from the initial recruiter screen to coding and scenario-based rounds? In this episode Luke Whipps, co-founder of Neural.AI and host of the AI Game Changer podcast, draws on 8+ years recruiting data scientists and AI professionals to lay out recruiter-proven interview stages and practical prep tactics. <br><br> Luke walks through the full interview lifecycle — Stage Zero recruiter screening and role-fit filtering, the intro interview for relationship building, and the technical rounds that include binary, scenario, example, and coding components. He explains how to research interviewers, craft elevator pitches and STAR stories, and align expectations with recruiters so you prepare to the right depth. You’ll learn how to prioritize fundamentals before secondary skills, use question-flow strategies to probe deeper, and balance theory versus practical math in machine learning interviews. <br><br> The episode also covers recovering from failed interviews, targeted internal applications and outreach, and concrete practice resources like LeetCode, HackerRank, Codeforces, and Educative. If you’re preparing for ML technical interviews or data science interviews, this episode gives recruiter-led structure, concrete prep priorities, and resource recommendations to maximize your chances in each interview stage."
 ids:
   anchor: Preparing-for-a-Data-Science-Interview---Luke-Whipps-e1tsh5d
   youtube: NnZjlMowkWA
@@ -21,8 +23,9 @@ links:
   youtube: https://www.youtube.com/watch?v=NnZjlMowkWA
 season: 12
 short: Preparing for a Data Science Interview
-title: Preparing for a Data Science Interview
+title: "Master ML & Data Science Technical Interviews: Recruiter-Proven Stages, Prep & Resources"
 transcript:
+- header: 'Guest Introduction: Luke Whipps & Neural AI'
 - header: 'Guest Introduction: Luke Whipps & Neural AI'
 - line: This week, we'll talk about preparing for a technical data science interview.
     We have a special guest today, Luke. Luke is a co-founder of Neural AI, a company
@@ -48,6 +51,7 @@ transcript:
   sec: 149
   time: '2:29'
   who: Alexey
+- header: 'Recruitment Career Overview: ML focus, startups, Germany'
 - header: 'Recruitment Career Overview: ML focus, startups, Germany'
 - line: What have you been up to since we spoke last time? Maybe also tell us in your
     words about yourself before that.
@@ -80,6 +84,7 @@ transcript:
   sec: 192
   time: '3:12'
   who: Luke
+- header: 'Remote Work & Client Geography: UK base serving German market'
 - header: 'Remote Work & Client Geography: UK base serving German market'
 - line: But you're not based in Germany, right?
   sec: 280
@@ -180,6 +185,7 @@ transcript:
   time: '8:24'
   who: Luke
 - header: 'Podcast Purpose: AI Game Changers format and goals'
+- header: 'Podcast Purpose: AI Game Changers format and goals'
 - line: I’m glad to hear that. So tell us about your podcast.
   sec: 515
   time: '8:35'
@@ -239,6 +245,7 @@ transcript:
   sec: 708
   time: '11:48'
   who: Luke
+- header: 'Recruiter Strategy: Embedded talent specialist and candidate coaching'
 - header: 'Recruiter Strategy: Embedded talent specialist and candidate coaching'
 - line: I don't know if it's just boredom, but maybe a need to be connected? [Luke
     agrees]. Well, you said during the pandemic times, you wanted to do something
@@ -300,6 +307,7 @@ transcript:
   sec: 931
   time: '15:31'
   who: Luke
+- header: 'Market Snapshot: hiring trends, layoffs, and candidate concerns'
 - header: 'Market Snapshot: hiring trends, layoffs, and candidate concerns'
 - line: Okay. [laughs] We should probably go through each of these – as you said,
     there's the intro stage, technical stage, talking to management, negotiation.
@@ -424,6 +432,7 @@ transcript:
   time: '20:00'
   who: Luke
 - header: 'Interview Process Overview: stages, scope, and assumptions'
+- header: 'Interview Process Overview: stages, scope, and assumptions'
 - line: 'Okay. Well, the topic today is technical interviews, right? You said that
     you, as a recruiter, are quite involved in the interview process. What you do
     is help the candidates at every stage, which you mentioned are: introduction stage,
@@ -487,6 +496,7 @@ transcript:
   time: '25:45'
   who: Alexey
 - header: 'Stage Zero: recruiter screening and role-fit filtering'
+- header: 'Stage Zero: recruiter screening and role-fit filtering'
 - line: Yeah. Do you think those are fair assumptions, though? [Alexey agrees] Yeah,
     cool. The intro meeting is obviously going to be the first stage with all candidates.
   sec: 1550
@@ -538,6 +548,7 @@ transcript:
   time: '26:43'
   who: Luke
 - header: 'Intro Interview Prep: objectives, structure, and relationship building'
+- header: 'Intro Interview Prep: objectives, structure, and relationship building'
 - line: First stage is obviously always going to be the intro meeting. Again, there
     are going to be different ways that companies run this, but typically, it’s 30-40
     minutes of conversation. I guess the key thing that most people are trying to
@@ -576,6 +587,7 @@ transcript:
   sec: 1795
   time: '29:55'
   who: Alexey
+- header: 'Interviewer Research: personality signals and communication matching'
 - header: 'Interviewer Research: personality signals and communication matching'
 - line: There are two elements to that. It's the pre-research and the immediate things
     that you do on the call with that person. If I was going to interview you, Alexey,
@@ -740,6 +752,7 @@ transcript:
   time: '38:14'
   who: Alexey
 - header: 'Message Preparation: elevator pitches and STAR storytelling'
+- header: 'Message Preparation: elevator pitches and STAR storytelling'
 - line: 'Yeah, there''s one more thing. Typically, you''ll have standardized questions:
     “Tell me a bit about you. What''s your background? Tell me about some projects
     that you''ve worked on. What are you looking for?” All the normal everyday recruitment
@@ -804,6 +817,7 @@ transcript:
   time: '41:32'
   who: Luke
 - header: 'Technical Interview Components: binary, scenario, example, and coding'
+- header: 'Technical Interview Components: binary, scenario, example, and coding'
 - line: What is it? What do we usually have in the technical part? Is it coding? Theory
     questions? What else?
   sec: 2495
@@ -862,6 +876,7 @@ transcript:
   time: '43:22'
   who: Luke
 - header: 'Aligning Expectations: clarifying technical depth with recruiters'
+- header: 'Aligning Expectations: clarifying technical depth with recruiters'
 - line: So you do this before – let's say I am working with you, I passed the introduction
     stage, and now you have a technical interview with somebody like a senior data
     scientist. So what do I do? Do I ask you or do I ask that person, “What are your
@@ -916,6 +931,7 @@ transcript:
   time: '48:01'
   who: Alexey
 - header: 'Prep Prioritization: fundamentals first, then secondary and ideal skills'
+- header: 'Prep Prioritization: fundamentals first, then secondary and ideal skills'
 - line: Yeah, for sure. I always think it's like – if you imagine three circles of
     depth, the first point is fairly basic, everyone should understand points about
     this. I would never skip over those points, because candidates sometimes when
@@ -967,6 +983,7 @@ transcript:
   time: '50:23'
   who: Alexey
 - header: 'Question Flow Strategy: follow-ups to probe deeper understanding'
+- header: 'Question Flow Strategy: follow-ups to probe deeper understanding'
 - line: Yeah. But then if that is the case, we should know that. Right? If someone's
     going in for a “breadth interview”, where they want to see how much you know in
     cloud, and X, and Y, and Z, and all of these areas, then that's what we should
@@ -1001,6 +1018,7 @@ transcript:
   sec: 3060
   time: '51:00'
   who: Luke
+- header: 'Theory vs. Practice: relevance of mathematical and theoretical questions'
 - header: 'Theory vs. Practice: relevance of mathematical and theoretical questions'
 - line: I'm just thinking, “How do I stop you?” [laughs] [cross-talk] It’s fine. I’m
     joking. I see that we have three questions. Maybe it's time we actually covered
@@ -1064,6 +1082,7 @@ transcript:
   sec: 3313
   time: '55:13'
   who: Alexey
+- header: 'Recovering from Failure: bombing interviews, feedback, and retakes'
 - header: 'Recovering from Failure: bombing interviews, feedback, and retakes'
 - line: Sorry, man. [laughs] I guess it depends. Sorry, I know it's a really awful
     answer. But I guess it depends on how you’ve bombed and how that feels in the
@@ -1143,6 +1162,7 @@ transcript:
   time: '58:30'
   who: Luke
 - header: 'Applying Internally: focused applications and direct outreach tactics'
+- header: 'Applying Internally: focused applications and direct outreach tactics'
 - line: A question from Alvin. “Is it okay to apply to different roles in the same
     company within a short amount of time?”
   sec: 3527
@@ -1170,6 +1190,7 @@ transcript:
   sec: 3537
   time: '58:57'
   who: Luke
+- header: 'Practice Resources: LeetCode, HackerRank, Codeforces, Educative'
 - header: 'Practice Resources: LeetCode, HackerRank, Codeforces, Educative'
 - line: Yeah, I can add to that. I also see nothing wrong with that. We sometimes
     have positions that look similar, but they're from different teams. Talk to the
@@ -1207,6 +1228,7 @@ transcript:
   time: '1:01:37'
   who: Luke
 - header: 'Supplemental Material: Luke’s interview prep document (show notes)'
+- header: 'Supplemental Material: Luke’s interview prep document (show notes)'
 - line: Is there any chance we could do that in the show notes? It will be released
     in a couple of weeks.
   sec: 3703
@@ -1217,6 +1239,7 @@ transcript:
   sec: 3712
   time: '1:01:52'
   who: Luke
+- header: Closing Remarks and Episode Wrap-up
 - header: Closing Remarks and Episode Wrap-up
 - line: Okay, it's always a pleasure talking with you. Second time was fun. Maybe
     we should have a couple of beers and do a third one.
@@ -1233,6 +1256,3 @@ transcript:
   time: '1:02:10'
   who: Alexey
 ---
-Links:
-
-* [Luke's LinkedIn](https://www.linkedin.com/in/lukewhipps/){:target="_blank"}

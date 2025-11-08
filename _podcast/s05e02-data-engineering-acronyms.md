@@ -1,10 +1,11 @@
 ---
-title: Making Sense of Data Engineering Acronyms and Buzzwords
+title: 'ETL vs ELT & Data Lake vs Warehouse: Airbyte, dbt, CDC for Modern Data Engineering'
 short: Making Sense of Data Engineering Acronyms and Buzzwords
 guests:
 - nataliekwong
 image: images/podcast/s05e02-data-engineering-acronyms.jpg
 season: 5
+date: 2025-11-07
 episode: 2
 ids:
   youtube: t9Z1S3OYnJU
@@ -15,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/1AvtwdcAXGGjdJ7fl0Hsuw
   apple: https://podcasts.apple.com/us/podcast/making-sense-of-data-engineering-acronyms-and/id1541710331?i=1000534990760
 transcript:
+- header: Podcast Introduction
+- header: 'Episode Overview: Decoding Data Engineering Acronyms'
 - header: Podcast Introduction
 - header: 'Episode Overview: Decoding Data Engineering Acronyms'
 - line: This week we'll try to make sense of common engineering acronyms and buzzwords
@@ -29,12 +32,20 @@ transcript:
   time: '1:56'
   who: Natalie
 - header: 'Guest Career Journey: From Marketing Ops to Analytics & Growth'
+- header: 'Guest Career Journey: From Marketing Ops to Analytics & Growth'
 - line: Before we go into our main topic of understanding these acronyms and buzzwords,
     let's start with your background. Can you tell us about your career journey so
     far?
   sec: 118
   time: '1:58'
   who: Alexey
+- line: Yeah, sure. I've been in startup tech for my entire career. I actually started
+    out in the Bay Area at Vox, doing marketing operations. Then I moved into marketing
+    analytics at a company called Admiral. I really went deeper into analytics there,
+    doing R, SQL, a little bit of Python, and really ended up becoming an acquisition
+    analyst. This involves looking at both marketing and sales and how they interact
+    – so that would be building out multi-touch attribution models and things like
+    that.
 - line: Yeah, sure. I've been in startup tech for my entire career. I actually started
     out in the Bay Area at Vox, doing marketing operations. Then I moved into marketing
     analytics at a company called Admiral. I really went deeper into analytics there,
@@ -54,6 +65,15 @@ transcript:
     Then I moved on to Harness doing a customer sales ops role. So I really kind of
     straddled that analytics and operation space. Now I'm in Airbyte, doing growth
     and analytics.
+- header: 'Airbyte Overview: ELT Focus and Connector Purpose'
+- line: After that, I moved a little bit more into operations at AppDynamics, which
+    has been acquired by Cisco, and then moved to actually manage my own team at a
+    company called Keep Truckin’, which is focused on more on the IoT space, filling
+    out dashcams and ELDs for the trucking industry. There, I built out a team of
+    about 11 analysts, already from marketing and sales to customer success and product.
+    Then I moved on to Harness doing a customer sales ops role. So I really kind of
+    straddled that analytics and operation space. Now I'm in Airbyte, doing growth
+    and analytics.
   who: Natalie
 - line: What does Airbyte do?
   sec: 199
@@ -63,9 +83,23 @@ transcript:
     – that essentially allows you to ingest a lot of different data from different
     sources, maybe APIs like AdWords or Facebook ads, weave it in data warehouses
     like Snowflake, and bring them into your data warehouse.
+- line: Airbyte is an extract/load or “ELT” platform – with Transform being the T
+    – that essentially allows you to ingest a lot of different data from different
+    sources, maybe APIs like AdWords or Facebook ads, weave it in data warehouses
+    like Snowflake, and bring them into your data warehouse.
   sec: 202
   time: '3:22'
   who: Natalie
+- header: 'ETL Explained: Extract, Transform, Load (Traditional Model)'
+- line: 'You mentioned a few things – transform, ingest, and ELT. We wanted to talk
+    about this today. Actually, this is a question I get sometimes. Not super often,
+    but it pops up: “What''s the difference between ELT/ETL, all these acronyms –
+    what do they actually mean?” That''s why we’re having a conversation today – to
+    finally figure that out and help everyone else with that. Let''s start with ETL,
+    which is probably the oldest concept from data engineering. I think it was used
+    even before the term ‘data engineering’ even existed. I think it''s pretty old,
+    coming from business intelligence times or even older. I don''t know. So what
+    is ETL?'
 - header: 'ETL Explained: Extract, Transform, Load (Traditional Model)'
 - line: 'You mentioned a few things – transform, ingest, and ELT. We wanted to talk
     about this today. Actually, this is a question I get sometimes. Not super often,
@@ -87,6 +121,14 @@ transcript:
     that you have that are operational. Then the loading piece is where you have destination-specific
     routines to push data into the place where it's going to be consumed. So that's
     kind of the traditional way to think about it.
+- line: ETL stands for – E is the extract, T is the transform, and L is the load.
+    When we think about ETL, we're really thinking about extracting the source-specific
+    routines where you pull selected data out of an external system. The transform
+    layer is kind of your specific business logic. Your organization is going to have
+    some sort of logic that really defines how you pull the data or certain use cases
+    that you have that are operational. Then the loading piece is where you have destination-specific
+    routines to push data into the place where it's going to be consumed. So that's
+    kind of the traditional way to think about it.
   sec: 270
   time: '4:30'
   who: Natalie
@@ -94,9 +136,21 @@ transcript:
     data from these sources, transform the data somehow, and then put it in a data
     warehouse. Can you think of an example for this – you mentioned something like
     Facebook ads or something like this?
+- line: Can you think of an example? Let's say there are some sources, right? We extract
+    data from these sources, transform the data somehow, and then put it in a data
+    warehouse. Can you think of an example for this – you mentioned something like
+    Facebook ads or something like this?
   sec: 313
   time: '5:13'
   who: Alexey
+- line: Generally, you might see – if you're working in the marketing space, for example
+    – your data is stored in Google AdWords, because you're running data or you're
+    running ads on Google. Or maybe the same thing but with Facebook. If you're working
+    in sales, your data might be stored in Salesforce, your CRM. If you're working
+    in finance, it might be stored in NetSuite, maybe. So all of these different kinds
+    of API sources all house some data that your business needs to build some picture
+    of how the business is doing. Those sources would be the places that we would
+    extract from.
 - line: Generally, you might see – if you're working in the marketing space, for example
     – your data is stored in Google AdWords, because you're running data or you're
     running ads on Google. Or maybe the same thing but with Facebook. If you're working
@@ -126,6 +180,16 @@ transcript:
     CRM, which stores all of your revenue information and where the customers came
     from. Then you also pull up the spend data from a more upper-funnel source. Then
     you merge those together using the transform capability.
+- header: 'ETL Use Case: Calculating Customer Acquisition Cost'
+- line: Yeah, exactly. One really good use case that we could speak to here – just
+    to be a little bit more concrete –“What is your cost to acquire a customer?” You
+    need an accurate CAC, in other words. In order to get that, you need to know how
+    many customers that you've specifically acquired from, let's say, Google AdWords.
+    You also need to know how much is being spent to acquire those customers. The
+    only way to really concretely bridge those things is to pull out data from your
+    CRM, which stores all of your revenue information and where the customers came
+    from. Then you also pull up the spend data from a more upper-funnel source. Then
+    you merge those together using the transform capability.
   sec: 397
   time: '6:37'
   who: Natalie
@@ -140,14 +204,30 @@ transcript:
     question.” Then you would have a visualization tool like Looker or Superset in
     order to show that from a visualization perspective – bring it out to the business
     so that they can actually consume the insights.
+- line: Exactly. Yep. The way that you finish out the process is – once it's loaded
+    in the data warehouse, in this traditional ETL model, you'd essentially have a
+    data mart that specifically says, “Hey, this is the data mart that answers that
+    question.” Then you would have a visualization tool like Looker or Superset in
+    order to show that from a visualization perspective – bring it out to the business
+    so that they can actually consume the insights.
   sec: 447
   time: '7:27'
   who: Natalie
+- header: 'ELT Advantages: Flexibility, Speed, and Analyst Autonomy'
 - header: 'ELT Advantages: Flexibility, Speed, and Analyst Autonomy'
 - line: What is ELT, then? Why do we want to switch to this tool?
   sec: 477
   time: '7:57'
   who: Alexey
+- line: I think the traditional way to think about this is – ETL is just a little
+    bit more inflexible. The business logic changes a lot of the time and you're going
+    to receive friction whenever you need to change part of this pipeline. So because
+    you're transforming it before you load it into a data warehouse, it's difficult
+    to actually bring in new data. Let's say, there's a new table or a new field that
+    gets added to Salesforce, the new data that you're collecting or the new data
+    source, it's fairly inflexible to just go ahead and add those things. It often
+    will force data to be completely re-extracted, which takes much more computation
+    and much more time than is really necessary for small changes like this.
 - line: I think the traditional way to think about this is – ETL is just a little
     bit more inflexible. The business logic changes a lot of the time and you're going
     to receive friction whenever you need to change part of this pipeline. So because
@@ -167,6 +247,13 @@ transcript:
     on an external team to go and compute those. This, of course, creates more cycles
     and takes more time to make these changes. Really the crux of it is – it requires
     engineering to be actually involved.
+- header: 'Transformations in Practice: From Type Casting to Complex SQL Joins'
+- line: You also have this lack of autonomy. What we've generally seen is that these
+    ELT tools are actually managed by engineering teams. When analysts – who are working
+    more with the business end – have these needs, they actually have a dependency
+    on an external team to go and compute those. This, of course, creates more cycles
+    and takes more time to make these changes. Really the crux of it is – it requires
+    engineering to be actually involved.
   who: Natalie
 - line: So ELT is really generalizing to the ETL. Instead of having the transform
     be in the middle, in ELT, the T is at the end. Thus, instead of having a tool
@@ -178,9 +265,23 @@ transcript:
 - line: Yeah, thanks. We already have a comment about transformations. The question
     is, “When you say transform, can you elaborate so that we can understand what’s
     happening here?” Like, “What kind of transformations do we run?”
+- line: Yeah, thanks. We already have a comment about transformations. The question
+    is, “When you say transform, can you elaborate so that we can understand what’s
+    happening here?” Like, “What kind of transformations do we run?”
   sec: 600
   time: '10:00'
   who: Alexey
+- line: Yeah, we definitely can be more specific about that. It can go from the very
+    basic – the simplest transformation I can think of is something like changing
+    a column type from a numeric to a character one. That's a very basic transformation.
+    It's almost like it's a casting of a column to a different data type. The more
+    complex transformations generally will join across different data sources. So
+    you'll say “I want to grab AdWords data and Salesforce data, join them using some
+    kind of unique identifier, and then figure out how to show these data sources
+    alongside each other in some sort of finalized data model.” Generally, we think
+    of these as a kind of transformations that you're running in SQL. These can be
+    very simple SQL statements or pretty complex ones. But those are the two ways
+    that I see transformation being done.
 - line: Yeah, we definitely can be more specific about that. It can go from the very
     basic – the simplest transformation I can think of is something like changing
     a column type from a numeric to a character one. That's a very basic transformation.
@@ -202,9 +303,23 @@ transcript:
     from the ads – if we’re talking about marketing. So this service gives us some
     response. Let's say we keep only one part of this response, if we're interested
     in how much money we spent, for example.
+- line: When you swap the T and L, so that the T comes at the end, you said the reason
+    for this is – when T is in the middle (ETL) it's not flexible because the business
+    logic can change. Then you also depend on engineering teams. I also imagine that,
+    let's say the data we extract from the source, we don't need the entire response
+    from the ads – if we’re talking about marketing. So this service gives us some
+    response. Let's say we keep only one part of this response, if we're interested
+    in how much money we spent, for example.
   sec: 679
   time: '11:19'
   who: Alexey
+- line: So we keep only this data, we transform it, and we load it to our data warehouse,
+    only the specific part. Later somebody comes and says, “Hey, what about some other
+    thing from Google AdWords?” and you reply “Okay, sorry, because our T was only
+    keeping this part and we don't have the rest of the data.” Thus, by keeping the
+    entire thing and then doing the transformation later, if somebody comes to us
+    and asks for something extra, then the data is there. We just write another transformation
+    on top of the data that we already extracted. Is that right?
 - line: So we keep only this data, we transform it, and we load it to our data warehouse,
     only the specific part. Later somebody comes and says, “Hey, what about some other
     thing from Google AdWords?” and you reply “Okay, sorry, because our T was only
@@ -221,9 +336,24 @@ transcript:
 - line: Yeah, and this part about depending on engineering teams – I'm curious. How
     does it help analysts to be more independent now? Why do they not depend on engineers
     now?
+- header: 'Analytics Engineer Emergence: Empowering Analysts with DBT & SQL'
+- line: Yeah, and this part about depending on engineering teams – I'm curious. How
+    does it help analysts to be more independent now? Why do they not depend on engineers
+    now?
   sec: 759
   time: '12:39'
   who: Alexey
+- line: Generally, analytics teams operate within the data warehouse itself. I know
+    you recently had an interview with Victoria, an analytics engineer. There's sort
+    of a rise of this analytics engineer role, which is a role that is generally found
+    on the analytics team. Essentially, it’s managing the process from the pipelines
+    to the data warehouse and building out that transformation later. Instead of business
+    analysts or product analysts going to the engineering team, which are generally
+    more focused on the data platform or data infrastructure, we can actually see
+    this rise of the analytics engineer role. This role allows there to be autonomy
+    within the analytics team itself. That allows them to not only understand the
+    business, its needs, and impact, but also to be able to make their changes very
+    quickly.
 - line: Generally, analytics teams operate within the data warehouse itself. I know
     you recently had an interview with Victoria, an analytics engineer. There's sort
     of a rise of this analytics engineer role, which is a role that is generally found
@@ -253,6 +383,15 @@ transcript:
     have to do is write SQL using something like DBT. Then I can service any requests
     or generate any insights autonomously. That reduces my time to be able to make
     positive relationships with my stakeholders.”
+- line: Yeah. I think a lot of these transformations can honestly be done using SQL.
+    That's just very ubiquitous – it's a very well understood, very common language.
+    The level of access or the level of ability to access it and build your own transformations
+    – that barrier is much lower. Even if the team is so small that you don't have
+    an analytics engineer, you're essentially empowering your analysts to be much
+    more full-stack and say, “I know that the data is in the data warehouse, all I
+    have to do is write SQL using something like DBT. Then I can service any requests
+    or generate any insights autonomously. That reduces my time to be able to make
+    positive relationships with my stakeholders.”
   sec: 840
   time: '14:00'
   who: Natalie
@@ -272,6 +411,10 @@ transcript:
 - line: You also mentioned one thing when talking about ETL – this thing called data
     mart. We also talked about the data warehouse. What are those? What is a data
     mart? What is a data warehouse? What is the difference between them?
+- header: 'Data Marts vs. Warehouses: Purpose, Layers, and Consumption'
+- line: You also mentioned one thing when talking about ETL – this thing called data
+    mart. We also talked about the data warehouse. What are those? What is a data
+    mart? What is a data warehouse? What is the difference between them?
   sec: 930
   time: '15:30'
   who: Alexey
@@ -283,8 +426,24 @@ transcript:
     converted from those sources, and actually serve a marketing use case. On the
     same level, you can produce data marts for sales, finance, or product. But they
     each serve a certain use case for the business.
+- line: =Data marts are very specific. Maybe we can use marketing again as a use case.
+    In this case, you could say “I'm going to build a data mart to serve a dashboard
+    that I'm going to build in Superset or Looker.” That data mart specifically contains
+    the average spend – the Facebook spending – aggregates. You put them together,
+    build out how many leads came in from those sources, how many customers actually
+    converted from those sources, and actually serve a marketing use case. On the
+    same level, you can produce data marts for sales, finance, or product. But they
+    each serve a certain use case for the business.
   sec: 945
   time: '15:45'
+  who: I think of data warehouses sort of as places to store data marts. When I think
+    about data warehouses, there's an ingestion layer. Some users of ours, they'll
+    call it an ingestion DB. Maybe within your data warehouse, you have multiple databases.
+    That first layer is almost like the rawest form that comes from Airbyte. You hook
+    your data warehouse up to, let's say, Snowflake, and you have a database called
+    “ingestion DB”. That's essentially it – you don't touch it – but that is where
+    your next layer comes from. This could be maybe a common layer, which is something
+    that maybe several teams can draw from in order to build out the data marts.
   who: I think of data warehouses sort of as places to store data marts. When I think
     about data warehouses, there's an ingestion layer. Some users of ours, they'll
     call it an ingestion DB. Maybe within your data warehouse, you have multiple databases.
@@ -304,6 +463,12 @@ transcript:
     are enough guardrails in place so that when they do pull metrics out of it, they're
     sanitized. They're ready to use and the business user can trust the data that
     comes out of there.
+- line: Yeah, it’s post-transformation. I think you can have a lot of different types
+    of data tables. But the ones that I would consider a data mart is like a finalized
+    table – it's almost production-ready. A business user can take this and there
+    are enough guardrails in place so that when they do pull metrics out of it, they're
+    sanitized. They're ready to use and the business user can trust the data that
+    comes out of there.
   sec: 1045
   time: '17:25'
   who: Natalie
@@ -311,9 +476,20 @@ transcript:
 - line: So ingestion databases are everything that comes before data marts, right?
     This is where the data that is maybe dirty or not cleaned or that is not aggregated
     – this is not something that business users can use. Right?
+- header: 'Ingestion Layer: Raw Data Storage, Sanity, and Guardrails'
+- line: So ingestion databases are everything that comes before data marts, right?
+    This is where the data that is maybe dirty or not cleaned or that is not aggregated
+    – this is not something that business users can use. Right?
   sec: 1075
   time: '17:55'
   who: Alexey
+- line: Exactly. It's the rawest form. We generally wouldn't want business users to
+    be pulling off the raw forms of data, because they'll probably have to do some
+    transformation. That transformation might not be consistent across different users
+    in the business. So in order to reduce the potential mistakes or different interpretations
+    of the data down the line, that's why that transformation layer exists – to separate
+    and bifurcate the ingestion from the actual business users and the data marts
+    that they use.
 - line: Exactly. It's the rawest form. We generally wouldn't want business users to
     be pulling off the raw forms of data, because they'll probably have to do some
     transformation. That transformation might not be consistent across different users
@@ -332,9 +508,22 @@ transcript:
     of this. Then we pull it again to create some tables that we call data marts.
     This is where the data that is used by the final users – the business users –
     is where we keep it. Is that right?
+- header: 'Bringing Transforms Into the Warehouse: ELT vs Legacy Workflows'
+- line: So previously, in ETL, we would extract some data, we would immediately do
+    the transformation, apply it perhaps without saving it, and then put it into a
+    data warehouse or data mart. Now the data that we extract, we first put it to
+    the ingestion database, where we keep it, and then we run transformation on top
+    of this. Then we pull it again to create some tables that we call data marts.
+    This is where the data that is used by the final users – the business users –
+    is where we keep it. Is that right?
   sec: 1127
   time: '18:47'
   who: Alexey
+- line: Yeah, exactly. Going back to ELT vs ETL – previously, these transformations
+    might have been done outside the data warehouse, and now we're bringing it into
+    the data warehouse. That's the biggest difference here. That transform layer is
+    essentially operating within the destination and then does the transformation,
+    creating new tables within the exact same destination.
 - line: Yeah, exactly. Going back to ELT vs ETL – previously, these transformations
     might have been done outside the data warehouse, and now we're bringing it into
     the data warehouse. That's the biggest difference here. That transform layer is
@@ -344,10 +533,22 @@ transcript:
   time: '19:26'
   who: Natalie
 - header: 'Data Lakes: Unstructured Storage for Files, Logs, and Media'
+- header: 'Data Lakes: Unstructured Storage for Files, Logs, and Media'
 - line: And what is a data lake?
   sec: 1190
   time: '19:50'
   who: Alexey
+- line: Yeah, it's interesting because a data lake has some similarities to data warehouses.
+    But a data lake is much more unstructured. When we think about data warehouses,
+    they're all relational tables – they all have set schemas. You can very easily
+    pull from them using SQL. When we think about data lakes, they're a little bit
+    more unstructured. I'd say the place that I've seen it become very useful is when
+    I was at Keep Truckin’. We were in the IoT business, so we had a bigger warehouse
+    and we had Snowflake. But the data that we had on all our customers weren’t always
+    in the table format. We would sometimes be collecting videos using our hardware,
+    and those are files. Those files are not things that data warehouses can store
+    and read. That's something that really belongs in a data lake, which is a lot
+    more unstructured and can support these different file types.
 - line: Yeah, it's interesting because a data lake has some similarities to data warehouses.
     But a data lake is much more unstructured. When we think about data warehouses,
     they're all relational tables – they all have set schemas. You can very easily
@@ -369,15 +570,29 @@ transcript:
   who: Alexey
 - line: Yes, it's definitely interesting at a very raw level. I know there are certain
     other terms like ‘data swamp’ or things that were, you know…
+- line: Yes, it's definitely interesting at a very raw level. I know there are certain
+    other terms like ‘data swamp’ or things that were, you know…
   sec: 1271
   time: '21:11'
   who: Natalie
 - header: 'Data Quality: Preventing Data Swamps Through Governance'
 - line: We actually have a question about this, “What is a data swamp? How can a lake
     become a swamp?”
+- header: 'Data Quality: Preventing Data Swamps Through Governance'
+- line: We actually have a question about this, “What is a data swamp? How can a lake
+    become a swamp?”
   sec: 1282
   time: '21:22'
   who: Alexey
+- line: Yeah, I think when I've heard that term it's generally because there's maybe
+    low quality or maybe very unrefined data. I've also heard this term refer to places
+    or data lakes that have essentially become large places of just unused data. You
+    put so much in there, and there's so little organization that it’s very difficult
+    to actually be able to utilize what’s in there. Maybe over time, especially as
+    new people come in or people leave the team, it becomes harder and harder to manage
+    what is there and what is usable. Yeah, I heard that term being used as a generic
+    term to refer to data lakes that essentially have low quality data – data that
+    people can't trust.
 - line: Yeah, I think when I've heard that term it's generally because there's maybe
     low quality or maybe very unrefined data. I've also heard this term refer to places
     or data lakes that have essentially become large places of just unused data. You
@@ -394,9 +609,24 @@ transcript:
     making sure that your data lake doesn't become a swamp. When you make sure that
     the data is clean, what kind of data is there, everything is accounted for. So
     you just keep it more organized, I guess.
+- line: Yeah, there is another buzzword, “data governance” – I guess this refers to
+    making sure that your data lake doesn't become a swamp. When you make sure that
+    the data is clean, what kind of data is there, everything is accounted for. So
+    you just keep it more organized, I guess.
   sec: 1341
   time: '22:21'
   who: Alexey
+- line: The data governance term also definitely applies to data warehouses. I have
+    one company I worked at, we had this schema called “ad hoc.” Of course, people
+    are going to throw things into “ad hoc” whenever they want – there are no rules
+    around it. So part of the data governance that we did was, “How do we ensure that
+    in certain databases or schemas, it's always clear what they're used for. It’s
+    always clear how long things will stay there.” Because I've kind of married into
+    the definition of “How is this useful?” Of course, there's always this continual
+    inspection of what is there, in order to ensure that it is still relevant or still
+    will be used. Rather than having almost a trash bin that never gets empty. You
+    want to make sure that your data warehouse or your data lake has that level of
+    quality and relevance.
 - line: The data governance term also definitely applies to data warehouses. I have
     one company I worked at, we had this schema called “ad hoc.” Of course, people
     are going to throw things into “ad hoc” whenever they want – there are no rules
@@ -418,6 +648,13 @@ transcript:
     “Do I need to track this data? Maybe I do. Let's track it. Let's keep this data.”
     Then one year later, you have this huge data source that nobody uses. So it becomes
     a swamp.
+- line: Maybe not a trash bin, I'm thinking about my basement, which has all the things
+    that I don't need right now. I don't know what to do with them. I don't want to
+    throw them away yet. So what to do with them? I'll just put them in my basement
+    and figure out what to do with them later. You can do the same with data, right?
+    “Do I need to track this data? Maybe I do. Let's track it. Let's keep this data.”
+    Then one year later, you have this huge data source that nobody uses. So it becomes
+    a swamp.
   sec: 1427
   time: '23:47'
   who: Alexey
@@ -429,9 +666,26 @@ transcript:
 - line: We also talked about the ingestion layer and the ingestion database. We talked
     about the data lake. I’m wondering – to me, they look similar. First of all, are
     they similar? Are they the same? Or are those different things?
+- header: 'Warehouse Ingestion vs. Data Lake: Trade-offs and Convergence'
+- line: We also talked about the ingestion layer and the ingestion database. We talked
+    about the data lake. I’m wondering – to me, they look similar. First of all, are
+    they similar? Are they the same? Or are those different things?
   sec: 1464
   time: '24:24'
   who: Alexey
+- line: Yeah, I think Evo actually came up with a good article on this too. Maybe
+    we can put it in the links. She wrote about the difference and how they might
+    be converging in some ways. I'd say there's still relevance for both. Data lakes
+    are obviously going to be more flexible – they're going to be able to support
+    a lot more different file types and structures. That's the thing that data warehouses
+    don't do. So there's a purpose for both. From what I've noticed, data warehouses
+    are generally very helpful for smaller or intermediate-sized teams. As your needs
+    grow and become more complex – maybe your organization gets larger – you may need
+    to move to the data lake structure, which offers flexibility. As your team organization
+    grows, it might be something that you have to weigh the pros and cons of, whether
+    to even add a data lake as an addition, or potentially migrating fully to it.
+    But a lot of the functionalities of the industry are allowing for the flexibility
+    to choose between a data lake and a data warehouse.
 - line: Yeah, I think Evo actually came up with a good article on this too. Maybe
     we can put it in the links. She wrote about the difference and how they might
     be converging in some ways. I'd say there's still relevance for both. Data lakes
@@ -453,6 +707,11 @@ transcript:
     Snowflake – this can be one of the tables that are already in Snowflake. It's
     just that the end users, the business users or analysts, don't use this particular
     table, but it's still part of the warehouse. Is that right?
+- line: Basically, the ingestion database is a part of a data warehouse, right? Maybe
+    this is one of the tables in the data warehouse. Let's say we’re talking about
+    Snowflake – this can be one of the tables that are already in Snowflake. It's
+    just that the end users, the business users or analysts, don't use this particular
+    table, but it's still part of the warehouse. Is that right?
   sec: 1556
   time: '25:56'
   who: Alexey
@@ -460,7 +719,22 @@ transcript:
     results. To me, a data lake also seems like a place where we keep intermediate
     results. So I was wondering – are the ingestion layers part of the data warehouse
     or not?
+- line: We were talking about the ingestion database. This is where we keep intermediate
+    results. To me, a data lake also seems like a place where we keep intermediate
+    results. So I was wondering – are the ingestion layers part of the data warehouse
+    or not?
   who: Alexey
+- line: I think in the analytics team framework, it generally is ingesting into a
+    data warehouse, not a data lake. Because they're generally dealing with different
+    APIs, different sources, and then doing that transformation there and, of course,
+    doing the visualization on top. From an analytics team perspective, I think the
+    data warehouse is the most relevant. Where it may not be as relevant is maybe
+    for engineering teams, who need data lakes to power parts of their application,
+    or maybe data science teams who need to parse through lots of data that isn't
+    necessarily in a structured format in order to do their analysis. I think it depends
+    on your business use case, what kind of team you're on, and what is helpful for
+    you. You have to make that call – what are the capabilities that you really need
+    to get your work done? Essentially, you choose the solution from there.
 - line: I think in the analytics team framework, it generally is ingesting into a
     data warehouse, not a data lake. Because they're generally dealing with different
     APIs, different sources, and then doing that transformation there and, of course,
@@ -481,9 +755,22 @@ transcript:
     data in the lake. We have prepared data in a data mart in a data warehouse. Then
     if somebody such as data scientists, like you said in your example – if they need
     to parse through raw data, they can just go ahead and do it.
+- header: 'Architecture Decision: When to Maintain a Lake, a Warehouse, or Both'
+- line: We have a question – “Do we need to have both a data lake and a data warehouse?”
+    I think, from what I understood, the answer was “Yes.” Right? We have the raw
+    data in the lake. We have prepared data in a data mart in a data warehouse. Then
+    if somebody such as data scientists, like you said in your example – if they need
+    to parse through raw data, they can just go ahead and do it.
   sec: 1659
   time: '27:39'
   who: Alexey
+- line: I don’t think you need to have both. We don't necessarily need it in our business
+    to have both. It really depends on the complexity of your business. From an analytics
+    perspective, generally, if I'm in the analytics team, I probably will never touch
+    a data lake. I’ll probably operate within the data warehouse. But I know that
+    there are teams within the organization that might rely on more of a data lake
+    structure instead. I think it really depends on the complexity of the business
+    and what different teams need.
 - line: I don’t think you need to have both. We don't necessarily need it in our business
     to have both. It really depends on the complexity of your business. From an analytics
     perspective, generally, if I'm in the analytics team, I probably will never touch
@@ -516,9 +803,27 @@ transcript:
     the top management sees “Okay, in this category, we have that many clicks. In
     that category, we have that many clicks.” Then to orchestrate everything, in our
     company at least, we typically use Airflow for all these things.
+- line: Let's say we have an ecommerce online shop. We want to track some events there
+    – so clicks. Every time a user comes to our online shop and selects a product,
+    clicks on this product, we track this event. These events – these clicks – they
+    end up in the data lake where we keep the clicks. I have a bunch of SQL queries
+    to transform these clicks into something else – so aggregate, calculate some statistics.
+    I'm a data scientist, so what I do is run some machine learning on top of these
+    clicks. For example, I have a model that wants to predict how many clicks there
+    will be for each product. So I need to use this information about the clicks.
+    I write some SQL queries, extract these clicks, and I build the model for that.
+    Maybe instead of building a model, I just put the clicks into a dashboard. Then
+    the top management sees “Okay, in this category, we have that many clicks. In
+    that category, we have that many clicks.” Then to orchestrate everything, in our
+    company at least, we typically use Airflow for all these things.
   sec: 1730
   time: '28:50'
   who: Alexey
+- line: So the question is, “Is this ETL, or ELT?” I think – let me answer this and
+    you correct me – I think this is ELT. Because first, we dump everything into a
+    data lake – we don't change the raw events. We leave them be in the data lake.
+    Then there are other jobs – other transformation jobs – that take the raw data,
+    transform, and then eventually put this in a model or in a dashboard. Right?
 - line: So the question is, “Is this ETL, or ELT?” I think – let me answer this and
     you correct me – I think this is ELT. Because first, we dump everything into a
     data lake – we don't change the raw events. We leave them be in the data lake.
@@ -534,6 +839,9 @@ transcript:
 - header: 'Orchestration: Airflow’s Role in Scheduling and Running Pipelines'
 - line: Yeah. All this time I thought that Airflow was an ETL tool, but it’s actually
     an ELT tool, right?
+- header: 'Orchestration: Airflow’s Role in Scheduling and Running Pipelines'
+- line: Yeah. All this time I thought that Airflow was an ETL tool, but it’s actually
+    an ELT tool, right?
   sec: 1859
   time: '30:59'
   who: Alexey
@@ -541,9 +849,21 @@ transcript:
     to just schedule. But ultimately, yeah. Everybody has a very good integration
     with Airflow that essentially runs your Airbyte jobs, using Airflow. So yeah –
     we also use Airflow here.
+- line: Airflow? Yeah, I think it's very much like an orchestrator. It also helps
+    to just schedule. But ultimately, yeah. Everybody has a very good integration
+    with Airflow that essentially runs your Airbyte jobs, using Airflow. So yeah –
+    we also use Airflow here.
   sec: 1872
   time: '31:12'
   who: Natalie
+- header: 'Airbyte’s Role in the Stack: Reliable E‑L and DBT Integration'
+- line: I think you mentioned at the beginning what Airbyte does – it's about transformation,
+    right? It's about ingesting and then putting it into a data warehouse. Maybe now
+    we can try to make sense from all these buzzwords. We know what the transformation
+    means. This is taking the data and changing it a little bit. Then ingestion is
+    about putting something into a data warehouse. Then a data warehouse is basically
+    the database that we use for all these analytical purposes. So yeah, maybe you
+    can tell us now what Airbyte does?
 - header: 'Airbyte’s Role in the Stack: Reliable E‑L and DBT Integration'
 - line: I think you mentioned at the beginning what Airbyte does – it's about transformation,
     right? It's about ingesting and then putting it into a data warehouse. Maybe now
@@ -564,9 +884,23 @@ transcript:
     do those SQL transformations once the data is there. We're not like a transform
     product necessarily, but we just integrate really well with that and have embedded
     that into our product.
+- line: Yeah, so everybody tackles the E-L part. That's our main goal – to ensure
+    that the E-L is as seamless and reliable as any other product on the market and
+    that you have a great understanding and expectation of what the output in your
+    data warehouse is going to be. We also integrate really well with DBT, right within
+    the product. So we're not handling the transformation ourselves, per se, but we're
+    relying on DBT as a part of our product to ensure that analysts can use DBT to
+    do those SQL transformations once the data is there. We're not like a transform
+    product necessarily, but we just integrate really well with that and have embedded
+    that into our product.
   sec: 1931
   time: '32:11'
   who: Natalie
+- line: One thing I didn't actually mention earlier is that Airbyte is also open source.
+    We are really focused on building our community, enabling users – people out there
+    who are excited to contribute back to our project – to enable those people to
+    actually build out potentially new connectors or maybe even amend existing ones,
+    and contribute back to our project.
 - line: One thing I didn't actually mention earlier is that Airbyte is also open source.
     We are really focused on building our community, enabling users – people out there
     who are excited to contribute back to our project – to enable those people to
@@ -590,9 +924,29 @@ transcript:
     I don't know if there are different stacks for analytics and for analytics engineering
     – probably they’re the same. So, what is it? Can you tell us a bit about it? Which
     tools are a part of this stack? Why do we even talk about it? Why is it a thing?
+- header: 'Modern Analytics Stack: Best‑of‑Breed Tools and Typical Components'
+- line: Yeah. So speaking of this modern stack, I've heard this term many times and
+    actually we have a talk about this quite soon. It's about this modern stack for
+    analytics. Actually the talk we have is “modern data stack for analytics engineering.”
+    I don't know if there are different stacks for analytics and for analytics engineering
+    – probably they’re the same. So, what is it? Can you tell us a bit about it? Which
+    tools are a part of this stack? Why do we even talk about it? Why is it a thing?
   sec: 2025
   time: '33:45'
   who: Alexey
+- line: So why it's a thing – because essentially, you are now able to choose each
+    piece of the stack individually instead of having a platform approach where “one
+    fits all” – where you have a lot of vendor lock-in. You now get to choose the
+    best of breed for each of the pieces of the data puzzle. For extract and load
+    obviously, there's Airbyte. There are also incomes like Fivetran that have been
+    around for quite a bit longer. From a data warehousing perspective, you have Snowflake,
+    you have Databricks, BigQuery, Amazon Redshift. Then for transformation, you have
+    DBT. Outside of DBT and all the features it provides, you could just write SQL
+    and that would also work as well. Then from a visualization perspective, we see
+    new tools like Superset being adopted fairly well. Then obviously, incumbents
+    like Looker, or even Tableau. The idea of the modern data stack is that instead
+    of having one solution that tries to do it all, you're essentially picking and
+    choosing the one that really fits with what you need the best.
 - line: So why it's a thing – because essentially, you are now able to choose each
     piece of the stack individually instead of having a platform approach where “one
     fits all” – where you have a lot of vendor lock-in. You now get to choose the
@@ -614,6 +968,7 @@ transcript:
   time: '35:38'
   who: Alexey
 - header: 'Operational Reverse Data Flows: Pushing Warehouse Tables Back to Sources'
+- header: 'Operational Reverse Data Flows: Pushing Warehouse Tables Back to Sources'
 - line: Yeah, and of course, we can't forget Airflow, which does a lot of the orchestration.
     Then there's also this emerging space of reverse ETL, where you'll have tools
     like Hightouch or Census, and even Airbyte is thinking about going into this space
@@ -624,9 +979,21 @@ transcript:
 - line: Yeah, so can you tell us a bit more about this “reverse ETL”? Or should it
     be reverse ETL or reverse ELT? Or what is that anyways? Why is it reverse? Why
     would you want to reverse it?
+- line: Yeah, so can you tell us a bit more about this “reverse ETL”? Or should it
+    be reverse ETL or reverse ELT? Or what is that anyways? Why is it reverse? Why
+    would you want to reverse it?
   sec: 2162
   time: '36:02'
   who: Alexey
+- line: =In the past, what I've seen data teams use is maybe a Python wrapper to push
+    data back into Salesforce. These “reverse ETL” tools are enabling really low-code
+    solutions for salespeople or marketers to actually come and just kind of “point
+    and click” and say, “I want to copy this table and the output of this table in
+    this data warehouse and bring it back into my source system to be able to action
+    on it.” You don't have to be technical – it's pretty low-code or no code. That's
+    really something that's very powerful, because it essentially allows analytics
+    to be a function within the organization itself. It allows analysts to really
+    be very aligned with what the business needs.
 - line: =In the past, what I've seen data teams use is maybe a Python wrapper to push
     data back into Salesforce. These “reverse ETL” tools are enabling really low-code
     solutions for salespeople or marketers to actually come and just kind of “point
@@ -655,9 +1022,32 @@ transcript:
     allow you to have this drag-and-drop experience, so you can say, “Okay, this data
     from this table in my BigQuery or Snowflake should go in my Salesforce or something
     else.” Right?
+  who: Reverse ETL is definitely something that a lot of data teams are trying to
+    already solve today using custom scripts that bring a lot of that analysis that
+    analytics teams do. It also brings that back into the operational systems that
+    business users actually need that data in. One good example is – let's say that
+    an analytics team is working on a lead scoring model. Essentially, it says, “I
+    have 100 leads. I rank them using behavioral data, demographic data. I take this
+    information and I rate these leads from 1 to 100 on what the priority is – who
+    you should reach out to.” Traditionally, that data would just live in a data warehouse
+    and maybe in a visualization tool too. If I'm a salesperson, I need that data
+    in the system that I'm using to actually action on it.
+- line: Basically, before, engineers would need to write a bunch of scripts for doing
+    this. This is emphasized in the healthcare APIs that allow them to push the data
+    there. But I guess it's not easy to maintain these scripts and it's also not the
+    core business of the companies to do that. So there are some tools that actually
+    allow you to have this drag-and-drop experience, so you can say, “Okay, this data
+    from this table in my BigQuery or Snowflake should go in my Salesforce or something
+    else.” Right?
   sec: 2281
   time: '38:01'
   who: Alexey
+- line: Exactly. Yeah. I would still consider this reverse-ETL, not reverse-ELT, because
+    that transformation is not happening in that source where you're pushing it back
+    to. The transformation is still happening before you move it out of the database.
+    Really, it's like a porting of the more finalized… maybe you could even call it
+    a data mart and bring it back into the source. No transformation is actually happening
+    in the source system itself.
 - line: Exactly. Yeah. I would still consider this reverse-ETL, not reverse-ELT, because
     that transformation is not happening in that source where you're pushing it back
     to. The transformation is still happening before you move it out of the database.
@@ -675,6 +1065,14 @@ transcript:
     our data warehouse or ingest. We import and then we do something and then we export
     back, right? Or using the terminology we just learned, we first extract, then
     do something, and then we do this reverse extract, and then put that back.'
+- header: 'Low‑Code/No‑Code Tools: Evolving Data Engineering Roles, Not Replacing
+    Them'
+- line: 'To make sure I understood the whole picture: we have some of these tools
+    like Google AdWords – all these systems, like Google AdWords, or Facebook Ads,
+    or whatever. We first need to take the data from there and import – put it into
+    our data warehouse or ingest. We import and then we do something and then we export
+    back, right? Or using the terminology we just learned, we first extract, then
+    do something, and then we do this reverse extract, and then put that back.'
   sec: 2346
   time: '39:06'
   who: Alexey
@@ -682,7 +1080,20 @@ transcript:
     the data engineering job dying with all these tools that give a drag-and-drop
     experience? Since you can do these kinds of drag-and-drop data pipelines with
     all these built integrations?
+- line: Speaking of this low-code/no-code, we have a question related to that. “Is
+    the data engineering job dying with all these tools that give a drag-and-drop
+    experience? Since you can do these kinds of drag-and-drop data pipelines with
+    all these built integrations?
   who: Alexey
+- line: I would not say dying, I think it is very much evolving. I think in data engineering,
+    these tools are essentially allowing for the more mundane parts of data engineers’
+    job to disappear and allow for them to focus on other things. For example, in
+    my team at Keep Truckin’, our data engineer was very much focused on a lot more
+    data infrastructure pieces, instead of being focused on managing pipelines and
+    waking up in the morning, and feeling like, “Oh, these pipelines have broken,
+    and I need to go fix that. This field was deleted.” It was more around tooling
+    for the analytics team – ensuring that we have proper data governance pieces in
+    place.
 - line: I would not say dying, I think it is very much evolving. I think in data engineering,
     these tools are essentially allowing for the more mundane parts of data engineers’
     job to disappear and allow for them to focus on other things. For example, in
@@ -705,7 +1116,27 @@ transcript:
     team and what they're producing. There are a lot of pieces that I think the data
     engineer can now actually go and tackle that the analytics team might not necessarily
     be very focused on. But without these things, they actually can't be successful.
+- header: 'ETL’s Continued Relevance: Large Enterprises and Complex Staging Needs'
+- line: There are a lot of things that really are beyond the technical scope of even
+    maybe any analytics engineer or an analyst – where a data engineer most definitely
+    can enable that data team to be operating very efficiently. Something like common
+    code standards, being able to bring the analytics team to a place where they can
+    be pushing out in a nearly-continuous delivery process. They’re ensuring that
+    there's validation of the code and that pipelines aren't breaking from the data
+    team and what they're producing. There are a lot of pieces that I think the data
+    engineer can now actually go and tackle that the analytics team might not necessarily
+    be very focused on. But without these things, they actually can't be successful.
   who: Natalie
+- line: We talked about these scripts that people would write before reverse ETL tools
+    existed. I imagined that maintaining the scripts was a nightmare because they
+    break in unpredictable ways. For example the API changes and then all your scripts
+    are not working. Then you have to deal with all these intricacies – I’m guessing
+    that this is not fun at all. A data engineer would probably rather focus on other
+    things. I'm not a data engineer, but I don't really want to even think about maintaining
+    scripts for talking to some third party tools like Salesforce and trying to maintain
+    them. Yeah, I'd rather focus on something else. I guess this is why these tools
+    are quite useful and why people love them. Data engineers are still happy – nobody
+    is going to fire them anytime soon.
 - line: We talked about these scripts that people would write before reverse ETL tools
     existed. I imagined that maintaining the scripts was a nightmare because they
     break in unpredictable ways. For example the API changes and then all your scripts
@@ -723,6 +1154,11 @@ transcript:
   sec: 2581
   time: '43:01'
   who: Natalie
+- header: 'Managing Unused Data: Team Ownership and Regular Cleanup Practices'
+- line: Okay, thanks. We have some more questions. The question is “70-90% of beta
+    in many organizations is collected but never used. Who is responsible for taking
+    care of that and for noticing that? Data engineers? How should we actually go
+    about noticing things like that?”
 - header: 'Managing Unused Data: Team Ownership and Regular Cleanup Practices'
 - line: Okay, thanks. We have some more questions. The question is “70-90% of beta
     in many organizations is collected but never used. Who is responsible for taking
@@ -749,9 +1185,30 @@ transcript:
     don't think it should ever be on one person. I think that would be a pretty difficult
     role to have if it was, because that person would be missing the context of the
     actual business.
+- line: If I can think back to my time when I took on more of that analytics manager
+    role, I would say it's very much a team effort. It's hard to know what is not
+    being used if you don't have the business analysts there trying to speak to, “What
+    are the use cases that we're solving for in that business today?” And then tracing
+    that back to the ingestion layer, “What is a dependency of those use cases? In
+    order to figure out what isn't being used – I remember how we would try to do
+    this on a quarterly or monthly cleanup level – we really try to take a critical
+    look as a team. It wouldn't be on a single person to really be responsible to
+    know everything, because that's impossible. We would really rely a lot on the
+    business analyst and I guess the analytics engineers to have them understand and
+    be able to trace back to what is actually being used and what are things that
+    may not be used today, but might be used in the future. So you always want to
+    have that forward-looking piece too. Of course, this whole idea of ELT is that
+    you have all the data there, and it maybe might not be used now, but potentially.
+    If there's a use case for that in the future, someone should speak to that.  I
+    don't think it should ever be on one person. I think that would be a pretty difficult
+    role to have if it was, because that person would be missing the context of the
+    actual business.
   sec: 2617
   time: '43:37'
   who: Natalie
+- header: 'Open Source Strategy: Why Airbyte Is Open and the Cloud Offering Model'
+- line: The person who doesn't miss this context – who has the context – would be
+    an analytics engineer, perhaps or an analyst. Right?
 - header: 'Open Source Strategy: Why Airbyte Is Open and the Cloud Offering Model'
 - line: The person who doesn't miss this context – who has the context – would be
     an analytics engineer, perhaps or an analyst. Right?
@@ -765,15 +1222,37 @@ transcript:
     of managing the data governance, the cleanliness of the database, then they need
     to communicate with them that, “Hey, this is data that's not currently being used,”
     and then execute on cleaning it up from there.
+- line: I think it's both the business analyst and the analytics engineer. Because
+    the business analyst might be really focused and working with the business, but
+    they might not know as much about the pipelining. So they need to work together
+    to ensure that they both have a mutual understanding. Then whoever is in charge
+    of managing the data governance, the cleanliness of the database, then they need
+    to communicate with them that, “Hey, this is data that's not currently being used,”
+    and then execute on cleaning it up from there.
   sec: 2728
   time: '45:28'
   who: Natalie
 - header: 'CDC Explained: Capturing and Syncing Only Row-Level Changes'
 - line: Thank you. Another question we have is, “I have no idea what CDC is. Do you
     know what CDC is?”
+- header: 'CDC Explained: Capturing and Syncing Only Row-Level Changes'
+- line: Thank you. Another question we have is, “I have no idea what CDC is. Do you
+    know what CDC is?”
   sec: 2759
   time: '45:59'
   who: Alexey
+- line: Yeah. It's “change data capture.” That's a feature that is available in our
+    connectors. CDC is essentially a way to be able to capture only changed records.
+    That's where the recording product comes from. Essentially, what it allows you
+    to do is avoid having to fully replicate your database every time. Instead, let's
+    say, I sync my database today – tomorrow, only 10% of those rows have changed.
+    I only want to sync those 10%. And I only want to capture those 10% that have
+    changed and then only update those 10% in my destination. Without Changed Data
+    Capture, you might have to be doing a whole replication every day. That isn't
+    really the optimal way to manage cloud resources, because you're consuming more
+    resources to do that replication. By doing CDC, you actually have the ability
+    to reduce your own cloud costs if you're self-hosting. But also, it's just much
+    faster because you're moving less data.
 - line: Yeah. It's “change data capture.” That's a feature that is available in our
     connectors. CDC is essentially a way to be able to capture only changed records.
     That's where the recording product comes from. Essentially, what it allows you
@@ -799,6 +1278,16 @@ transcript:
     (difference between the old version and the changes). Or we keep only the new
     thing instead of taking all the 30 million records and keeping them over and over
     again. Is that right?
+- line: I'm trying to think of an example. I work at OLX, an online marketplace. This
+    is a place, let's say, if you want to sell your phone, you go create a listing.
+    Sometimes users – the sellers – can go and change the title, or they can go and
+    change the price. I guess this CDC (Change Data Capture) will allow us to see…
+    let’s say if we have 30 million active listings right now on the website – we
+    don't want to look at the entire database of listings. If something changes, if
+    the prices change or titles change, we just want to see that and keep the delta
+    (difference between the old version and the changes). Or we keep only the new
+    thing instead of taking all the 30 million records and keeping them over and over
+    again. Is that right?
   sec: 2846
   time: '47:26'
   who: Alexey
@@ -808,9 +1297,18 @@ transcript:
     don't offer it on all of our data warehouse sources yet. But we are actively working
     on building out CDC capabilities for all the sources that essentially allow for
     that.
+- header: 'Open‑Source Risks: Competition and Licensing (Elasticsearch Example)'
+- line: Yeah, exactly. It’s essentially a performance consideration. It also allows
+    you to capture deleted rows. So that's another benefit as well. I think that we
+    don't offer it on all of our data warehouse sources yet. But we are actively working
+    on building out CDC capabilities for all the sources that essentially allow for
+    that.
   sec: 2910
   time: '48:30'
   who: Natalie
+- header: 'Schema Evolution: Handling Slowly Changing Attributes'
+- line: Do you know what a “slowly changing dimension” is? I’ve heard this term a
+    few times. I'm curious what this is.
 - header: 'Schema Evolution: Handling Slowly Changing Attributes'
 - line: Do you know what a “slowly changing dimension” is? I’ve heard this term a
     few times. I'm curious what this is.
@@ -839,9 +1337,26 @@ transcript:
     collecting something else, or there's another piece of data that's relevant to
     what you need. That's what I think of when I hear that. I hope that answers the
     question.
+- line: Yeah, I think in the business, you will probably start a pipeline process
+    with maybe 10 columns that you know you need. Maybe over time, if let's say a
+    salesperson says, “Oh, I'm actually now going to collect information on whether
+    or not they'd be interested in this new product feature we just launched.” And
+    they added maybe a checkbox or maybe a picklist in Salesforce. The slowly changing
+    dimension to me, when I hear that term, means your dimensions may change over
+    time as your business changes. Now that the sales team is collecting new information,
+    you also want to ingest that new information into your data warehouse. That will
+    mean that your dimensions change and that you will actually want to adjust not
+    just 10 fields, but now 11. Then maybe next week it's 12, because now they're
+    collecting something else, or there's another piece of data that's relevant to
+    what you need. That's what I think of when I hear that. I hope that answers the
+    question.
   sec: 2957
   time: '49:17'
   who: Natalie
+- line: Well, I think the example you gave about a new product feature that a user
+    is interested in – this user is currently interested in this feature, but maybe
+    in one year, the user is no longer interested. I guess this doesn't change quickly
+    – it changes slowly, right?
 - line: Well, I think the example you gave about a new product feature that a user
     is interested in – this user is currently interested in this feature, but maybe
     in one year, the user is no longer interested. I guess this doesn't change quickly
@@ -860,6 +1375,17 @@ transcript:
     always going to be this ever-changing and growing set of dimensions that you'll
     want to track and that's where the “slowly changing dimensions” aspect comes into
     place.
+- line: Well, when I think about dimensions, to me, it's like adding a new column
+    in a table structure – the value of that column, the field might change. So that's
+    kind of like capturing the history of the field. But ultimately, the way to think
+    about it is, you're actually capturing an additional dimension of data that you
+    weren't capturing before. I don't think that that ever happens all at once in
+    a business. A business is constantly evolving and changing, especially if you're
+    small and you're in that growth phase. You're constantly trying to think of new
+    things to track, maybe launching new products or new product features. There's
+    always going to be this ever-changing and growing set of dimensions that you'll
+    want to track and that's where the “slowly changing dimensions” aspect comes into
+    place.
   sec: 2439
   time: '40:39'
   who: Natalie
@@ -867,6 +1393,15 @@ transcript:
   sec: 2490
   time: '41:30'
   who: Alexey
+- line: I would say – if there's a large enterprise need for it. I personally can't
+    speak to being in a major enterprise company and having a need for this, but it
+    might be needed there. It might be something that much larger enterprises might
+    want to adopt. I think that is kind of the play where ETL has really been successful
+    – in these large enterprises. Where you're potentially combining multiple data
+    warehouses or data sources and bringing them together, and then pushing them out
+    to multiple data warehouses or lakes. So maybe there's a need for this kind of
+    intermediary place, maybe a staging area, where you need to ingest from a lot
+    and then you need to propagate out a lot.
 - line: I would say – if there's a large enterprise need for it. I personally can't
     speak to being in a major enterprise company and having a need for this, but it
     might be needed there. It might be something that much larger enterprises might
@@ -901,9 +1436,27 @@ transcript:
     open source, that Airbyte is open source, and we also talked about DBT being open
     source. Do you know why Airbyte is open source? Why make it open source? Aren't
     you afraid that somebody will come and just steal your code?
+- line: Thank you. The last question they prepared for you was about… we talked about
+    open source, that Airbyte is open source, and we also talked about DBT being open
+    source. Do you know why Airbyte is open source? Why make it open source? Aren't
+    you afraid that somebody will come and just steal your code?
   sec: 2625
   time: '43:45'
   who: Alexey
+- line: Your first question of “Why open source?” I really think that this is the
+    way forward for this space. When you look at incumbents in the place like Fivetran,
+    they're never going to be able to support the long tail of connectors that really
+    exists out there. This explosion of tools that we're seeing in pretty much every
+    space means that every tool has an API, they are all housing your business data,
+    and all of that data is really relevant. But there's kind of a long tail of connectors
+    that may not be like NetSuite, or like AdWords, like these really popular ones,
+    but maybe less popular ones that people are still using and experimenting with
+    and trying out and growing with. Those need to be supported too. Right now, what
+    we're seeing in this space – and this is how I like to think Airbyte actually
+    came to be – our founders did a bunch of interviews, what they heard was, “Yeah,
+    we're using Fivetran or Stitch. But we're still writing our own pipelines. We're
+    still building things on the side. We're still managing these numbers of scripts
+    that tackle that long tail, because the business still needs that data.”
 - line: Your first question of “Why open source?” I really think that this is the
     way forward for this space. When you look at incumbents in the place like Fivetran,
     they're never going to be able to support the long tail of connectors that really
@@ -936,6 +1489,14 @@ transcript:
     a developer can actually just go ahead and implement and then plug this thing
     into existing infrastructure and it just works. Is that right? Is that the main
     idea?
+- line: So basically, if I use some proprietary tool and I use something that this
+    proprietary tool doesn't support – some very unpopular system that, for some reasons,
+    we use at work. We need to be able to extract data from there. If I use something
+    like Fivetran, as you mentioned, or Stitch, they can say, “Yeah, we will consider
+    implementing this in five years… or never.” But if you use an open source tool
+    a developer can actually just go ahead and implement and then plug this thing
+    into existing infrastructure and it just works. Is that right? Is that the main
+    idea?
   sec: 2766
   time: '46:06'
   who: Alexey
@@ -948,6 +1509,17 @@ transcript:
   sec: 2812
   time: '46:52'
   who: Natalie
+- line: To your second question, though, I think… We are open source and we always
+    want to enable our long-term connectors to be available to anyone to use. We want
+    to make it super easy for small or medium-sized teams to just get that basic functionality
+    of being able to be supported by connectors anytime. We'll always have our connectors
+    be open source. We are coming to the market with a cloud offering which is more
+    that enterprise set of features like SSO, certain things around security like
+    RBAC (role based access control), and other features that generally larger enterprise
+    teams will want. For a small team or a single developer, they don't necessarily
+    have a need for these, but they just want to get up and running very quickly with
+    connectors and moving data. That's the part that will always be a part of our
+    mission and goal.
 - line: To your second question, though, I think… We are open source and we always
     want to enable our long-term connectors to be available to anyone to use. We want
     to make it super easy for small or medium-sized teams to just get that basic functionality
@@ -982,9 +1554,22 @@ transcript:
     there’s more to come soon in the coming month on that – on whether we have to
     make any changes or not. But that’s definitely something that we actively discuss
     internally.
+- header: 'Licensing Considerations: MIT, Cloud Products, and Future Choices'
+- line: Yeah, it's definitely something that we think very carefully about. The things
+    that we talk about internally are “Are we under the right license? We're currently
+    under MIT. Is this the right license for us moving forward, especially as we launch
+    cloud?” These are definitely things that we consider very carefully. I think probably
+    there’s more to come soon in the coming month on that – on whether we have to
+    make any changes or not. But that’s definitely something that we actively discuss
+    internally.
   sec: 2972
   time: '49:32'
   who: Natalie
+- line: Yeah, I guess many open source companies are starting to think about this.
+    This story of AWS and Elasticsearch – new things keep appearing. Now, all of a
+    sudden, Elasticsearch are the bad people because they are starting to hide things,
+    they are starting to close source some things. I’m curious to see how it will
+    end and I hope Elasticsearch figures it out.
 - line: Yeah, I guess many open source companies are starting to think about this.
     This story of AWS and Elasticsearch – new things keep appearing. Now, all of a
     sudden, Elasticsearch are the bad people because they are starting to hide things,
@@ -997,6 +1582,14 @@ transcript:
   sec: 3636
   time: '1:00:36'
   who: Alexey
+- header: 'Episode Wrap‑Up: Final Thoughts, Hiring News, and Contact Information'
+- line: It was such a pleasure to be on this, talking about these acronyms. I hope
+    it helped some of your listeners get more clarity. Airbyte – check us out. We
+    are also hiring on a lot of different fronts. Not just on the engineering front,
+    but also within the go-to-market side as well. So check us out. Our entire handle
+    gets listed on our company docs page – very public. If you want to contribute
+    back or check us out, you can do that very easily. All the information is on our
+    website.
 - header: 'Episode Wrap‑Up: Final Thoughts, Hiring News, and Contact Information'
 - line: It was such a pleasure to be on this, talking about these acronyms. I hope
     it helped some of your listeners get more clarity. Airbyte – check us out. We
@@ -1022,10 +1615,27 @@ transcript:
   sec: 3689
   time: '1:01:29'
   who: Alexey
+intro: How do you decide between ETL and ELT, or when to keep a data lake versus a
+  warehouse—and where do tools like Airbyte, dbt, and CDC fit into a modern data stack?
+  In this episode, Natalie Kwong, Growth Product Manager at Airbyte with prior analytics
+  and ops roles at Harness, KeepTruckin, and AppDynamics, pulls from hands-on experience
+  scaling analytics teams and systems to unpack these trade-offs. <br><br> We break
+  down core concepts—ETL (traditional extract-transform-load) vs ELT (load then transform),
+  the rise of the analytics engineer, and why ELT favors analyst autonomy with dbt.
+  Natalie explains Airbyte's role as a connector/ingestion layer, CDC for row-level
+  change syncing, and orchestration with Airflow. We also cover data lake vs data
+  warehouse purposes, preventing data swamps through governance, schema evolution,
+  operational reverse data flows, and when hybrid architectures make sense. <br><br>
+  If you're designing a modern data platform or refining pipelines, this episode offers
+  practical guidance on ETL vs ELT decisions, choosing lakes vs warehouses, leveraging
+  Airbyte and dbt, and operational considerations like data quality, orchestration,
+  and cleanup practices.
+description: Discover ETL vs ELT, data lake vs data warehouse with Airbyte and dbt—learn
+  CDC, orchestration, and governance to design reliable, fast modern data pipelines.
 ---
+
 Links:
 
-* [Natalie's LinkedIn](https://www.linkedin.com/in/nataliekwong/){:target="_blank"}
 * [Why the Future of ETL Is Not ELT, But EL(T)](https://airbyte.io/blog/why-the-future-of-etl-is-not-elt-but-el){:target="_blank"}
 
 
