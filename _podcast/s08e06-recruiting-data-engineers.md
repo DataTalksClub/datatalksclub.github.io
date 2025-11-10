@@ -157,12 +157,12 @@ transcript:
   sec: 419
   time: '6:59'
   who: Alexey
-- line: 'We''re talking about hiring data engineers, but I also wanted to ask you
+- line: "We're talking about hiring data engineers, but I also wanted to ask you
     – you are recruiting for a wide range of positions: ML engineers, data scientists,
 - line: 'We''re talking about hiring data engineers, but I also wanted to ask you
     – you are recruiting for a wide range of positions: ML engineers, data scientists,
     data analysts, data engineers – in your opinion, what is the main difference between
-    hiring data scientists and data engineers?'
+    hiring data scientists and data engineers?"
   sec: 419
   time: '6:59'
   who: Alexey
