@@ -1,5 +1,5 @@
 ---
-title: Build MLOps-Ready Data Teams & White-Box Dynamic Pricing for Startups
+title: 'How to Build and Scale ML Teams: Hiring, MLOps & Product-Driven AI for Startups'
 short: Building a Data Science Team
 guests:
 - dattran
@@ -14,22 +14,21 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Building-a-Data-Science-Team---Dat-Tran-enlmef
   spotify: https://open.spotify.com/episode/0daFpY1z2J4Uop1XdMNsnY
   apple: https://podcasts.apple.com/us/podcast/building-a-data-science-team-dat-tran/id1541710331?i=1000502061864
-intro: How do you build an MLOps‑ready data team while shipping a transparent, white‑box
-  dynamic pricing product for a startup? In this episode Dat Tran—Partner & CTO at
-  DATANOMIQ, former Head of Data at idealo, and co‑founder of Priceloop—walks through
-  the practical tradeoffs of moving from prototypes to production ML. <br><br> Dat
-  traces his path from economics and early coding to production ML at Accenture, Axel
-  Springer and idealo, and explains the “day‑two” operations mindset required for
-  model maintenance and MLOps. We cover building a Head of Data role, hiring strategies
-  for early‑stage startups (T‑shaped generalists first, specialists later), and how
-  to align hiring with product uncertainty. Dat also outlines Priceloop’s white‑box
-  AI approach to dynamic pricing—human‑centric systems that augment pricing managers
-  rather than replace them—and the role of open research and open‑source in competitive
-  advantage. <br><br> Tune in for concrete guidance on team composition (ML engineers,
-  data engineers, PMs), take‑home assessments, project prioritization, retention,
-  and educating leadership on realistic AI capabilities. Listeners will leave with
-  actionable steps to create production‑grade MLOps teams and build transparent dynamic
-  pricing solutions.
+intro: 'How do you build and scale an ML team that delivers product-driven AI without
+  getting bogged down by tech debt or false promises? In this episode Dat Tran — Partner
+  & CTO at DATANOMIQ and former AI lead at Axel Springer, idealo, and Pivotal — walks
+  through practical strategies for hiring, MLOps, and shaping data teams for startups.
+  <br><br> Dat draws on a decade of production ML experience to unpack the MLOps mindset
+  (day‑two operations, model maintenance), how to hire early (T‑shaped generalists,
+  take‑home assessments, key hiring signals), and when to shift to specialists as
+  you scale. He also explains product-centric practices: aligning hiring to prototype
+  vs. MVP needs, prioritizing impact over technical perfection, and building human‑centric
+  AI (augmenting pricing managers at Priceloop). Other topics include open research
+  and open source as strategic advantages, bootstrapping data capabilities, retention
+  through autonomy and interesting work, and educating leadership about realistic
+  AI expectations. <br><br> Listen for actionable guidance on building ML teams, hiring
+  machine learning engineers, and implementing MLOps and product-driven AI in early‑stage
+  startups.'
 transcript:
 - header: Podcast Introduction
 - header: Guest Overview & Career Snapshot
@@ -968,8 +967,8 @@ transcript:
   sec: 3650
   time: '60:50'
   who: Alexey
-description: Build MLOps-ready data teams and white-box dynamic pricing for startups—hiring
-  plan, production ML practices, and human-led pricing to boost revenue.
+description: 'Master building ML teams: hiring playbooks, MLOps day-two ops, and product-driven
+  AI for startups—scale with T-shaped engineers, ship robust models.'
 ---
 
 ## Books

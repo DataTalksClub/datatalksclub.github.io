@@ -1,6 +1,5 @@
 ---
-title: 'How to Build a Data-Led Growth Stack: Event Tracking, Tracking Plans & Reverse
-  ETL'
+title: 'How to Build a Data-Led Growth Stack: Event Tracking, Tracking Plans & Reverse ETL'
 short: Becoming a Data-led Professional
 guests:
 - arpitchoudhury

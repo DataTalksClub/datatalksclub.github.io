@@ -1,11 +1,11 @@
 ---
-title: How to Find a Mentor, Start Paid Mentoring & Grow as a Technical Leader
+title: 'How to Find a Mentor and Become One: Mentoring Strategies for Tech Careers'
 short: Mentoring
 guests:
 - rahuljain
 image: images/podcast/s01e05-mentoring.jpg
-description: Discover how to find a mentor, start paid mentoring and grow as a technical
-  leader - cold outreach scripts, pricing, session agendas, boundaries & career growth.
+description: 'Discover practical mentoring strategies for tech careers: find mentors,
+  master cold outreach, run effective sessions, start paid mentorship & boost leadership.'
 keywords: mentoring, career development, tech mentorship, finding a mentor, becoming
   a mentor, imposter syndrome, tech leadership, career advice, professional development,
   data engineering
@@ -19,22 +19,22 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Mentoring---Rahul-Jain-eo7cmu
   spotify: TODO
   apple: TODO
-intro: How do you find a mentor, turn mentoring into paid work, and grow as a technical
-  leader? In this episode Rahul Jain—Senior Solutions Engineer at Snowflake with 15+
-  years in data and AI—walks through practical steps for mentorship and leadership
-  development grounded in his career from mining engineering to data engineering and
-  management. We define mentoring (purpose, types, sponsorship), explore ways to find
-  a mentor via networks, cold outreach, and platforms, and share cold outreach best
-  practices like specificity, background, and follow‑up. Rahul outlines how to prepare
-  effective mentoring sessions (goals, agendas), compares one‑off advice to long‑term
-  relationships, and covers benefits of being a mentor including listening and pattern
-  recognition. Listeners will also learn people‑skills essentials (empathy, avoiding
-  the “advice monster”), balancing technical work with leadership, addressing common
-  mentee challenges like imposter syndrome, and when to use external coaches. Practical
-  guidance on setting boundaries, starting paid mentorship, pricing and accountability,
-  building reciprocal relationships, and maintaining development plans rounds out
-  the episode—ideal for engineers and aspiring technical leaders seeking actionable
-  mentoring and career growth strategies.
+intro: 'Struggling to find a mentor — or wondering how to become one — in a fast-moving
+  tech career? In this episode Rahul Jain, a senior solutions engineer and data/AI
+  leader with 15+ years driving enterprise data transformations and a career arc from
+  mining engineering to data engineering and leadership, walks through practical mentoring
+  strategies for tech professionals. We define mentoring (purpose, scope, types),
+  explore early models like Thoughtworks’ sponsorship, and show how to find mentors
+  through networks, platforms, and cold outreach — with concrete outreach best practices:
+  specificity, background, and follow‑up. Rahul covers preparing mentoring sessions
+  (goals, agendas), mentoring formats (one‑off advice vs long‑term relationships),
+  and how to start as a mentor using simple first steps and platforms. Topics include
+  benefits of mentoring, transferable workplace guidance, developing people skills
+  (empathy, listening), balancing technical work and leadership, tackling imposter
+  syndrome, coaching vs managing, setting boundaries and paid mentorship, and maintaining
+  development plans. Listen to gain actionable steps, templates, and mindset shifts
+  to both secure meaningful mentorship and build a sustainable mentoring practice
+  in your tech career.'
 ---
 
 Today we're discussing mentoring with [Rahul Jain](/people/rahuljain.html), a technical leader with about 20 years of experience building and running software products. He currently leads the Business Intelligence and Data Engineering units at Omio, a ticket-booking company, and mentors engineers and managers through The Mentoring Club.

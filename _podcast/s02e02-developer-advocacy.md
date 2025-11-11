@@ -1,5 +1,5 @@
 ---
-title: 'DevRel for Data Science: Community Growth, Reproducibility & Content Strategy'
+title: "DevRel for Data Science: Build Community, Create Content, and Grow Your Career"
 short: Developer Advocacy for Data Science
 guests:
 - elleobrien

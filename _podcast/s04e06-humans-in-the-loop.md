@@ -1,6 +1,5 @@
 ---
-title: 'Master Human-Centered MLOps: Stakeholder Buy-In, Monitoring, Debugging & Incident
-  Response'
+title: 'Master Human-Centered MLOps: Stakeholder Buy-In, Monitoring, Debugging & Incident Response'
 short: Humans in the Loop
 guests:
 - linaweichbrodt

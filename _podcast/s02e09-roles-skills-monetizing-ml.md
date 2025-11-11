@@ -1,6 +1,5 @@
 ---
-title: 'Monetize Machine Learning: Convert Models to ARR/MRR with ML Product & MLOps
-  Strategy'
+title: 'Monetize Machine Learning: Convert Models to ARR/MRR with ML Product & MLOps Strategy'
 short: New Roles and Key Skills to Monetize Machine Learning
 guests:
 - vinvashishta

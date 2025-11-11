@@ -1,6 +1,5 @@
 ---
-title: 'Data Science Career Guide: ABC Framework (Analyst, Builder, Consultant) &
-  Transition Tips'
+title: 'Data Science Career Guide: ABC Framework (Analyst, Builder, Consultant) & Transition Tips'
 short: The ABC’s of Data Science
 guests:
 - dannyma

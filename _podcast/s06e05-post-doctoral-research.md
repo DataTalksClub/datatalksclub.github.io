@@ -1,6 +1,5 @@
 ---
-title: 'Master Spatial Big Data Analytics: Nebula Stream Systems, Postdoc Mentoring
-  & PhD Tips'
+title: 'Master Spatial Big Data Analytics: Nebula Stream Systems, Postdoc Mentoring & PhD Tips'
 short: 'Advancing Big Data Analytics: Post-Doctoral Research'
 guests:
 - elenitziritazacharatou

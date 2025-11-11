@@ -8,6 +8,23 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto content">
+        {% assign season_episodes = site.podcast | where: "season", page.season | sort: "episode" %}
+        {% assign prev_episode = nil %}
+        {% assign next_episode = nil %}
+        {% assign prev_candidate = nil %}
+        {% assign capture_next = false %}
+        {% for episode in season_episodes %}
+          {% if capture_next %}
+            {% assign next_episode = episode %}
+            {% break %}
+          {% endif %}
+          {% if episode.url == page.url %}
+            {% assign prev_episode = prev_candidate %}
+            {% assign capture_next = true %}
+          {% else %}
+            {% assign prev_candidate = episode %}
+          {% endif %}
+        {% endfor %}
 
         <div class="podcast-head-section">
           <div class="podcast-header">
@@ -110,8 +127,31 @@
           </div>
           {% endif %}
 
+          <!-- Episode Navigation -->
+          {% if prev_episode or next_episode %}
+          <nav class="podcast-episode-nav" aria-label="Podcast episode navigation">
+            {% if prev_episode %}
+            <a class="episode-nav-link episode-nav-link--prev" href="{{ prev_episode.url }}">
+              <span class="episode-nav-direction">← Previous episode</span>
+              <span class="episode-nav-title">{{ prev_episode.title }}</span>
+              {% if prev_episode.season and prev_episode.episode %}
+              <span class="episode-nav-meta">Season {{ prev_episode.season }} · Episode {{ prev_episode.episode }}</span>
+              {% endif %}
+            </a>
+            {% endif %}
+            {% if next_episode %}
+            <a class="episode-nav-link episode-nav-link--next" href="{{ next_episode.url }}">
+              <span class="episode-nav-direction">Next episode →</span>
+              <span class="episode-nav-title">{{ next_episode.title }}</span>
+              {% if next_episode.season and next_episode.episode %}
+              <span class="episode-nav-meta">Season {{ next_episode.season }} · Episode {{ next_episode.episode }}</span>
+              {% endif %}
+            </a>
+            {% endif %}
+          </nav>
+          {% endif %}
 
-          <!-- Newsletter Section -->
+                    <!-- Newsletter Section -->
         <div class="main-cta">
           <p class="newsletter-main-text">
             Join 130,000+ data professionals and get weekly updates on new podcast episodes, upcoming events, free courses, and more.

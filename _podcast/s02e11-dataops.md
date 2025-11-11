@@ -1,6 +1,6 @@
 ---
-title: 'Scaling Data Teams & Platforms: DataOps, Immutable Pipelines, Data Lake vs
-  Data Warehouse'
+title: 'DataOps 101 for Scaling Data Platforms: Immutable Pipelines, Self‑Service
+  Lakehouse & Reproducibility'
 short: DataOps 101
 guests:
 - larsalbertsson
@@ -918,24 +918,23 @@ transcript:
   sec: 4326
   time: '1:12:06'
   who: Lars
-description: Discover DataOps and immutable pipelines, learn data lake vs data warehouse
-  tradeoffs, scale data teams, boost reproducibility and self-service analytics.
-intro: How do you scale data teams and platforms without losing reproducibility, governance,
-  or the ability to self‑serve? In this episode Lars Albertsson — founder of Scling
-  and former data engineer at Google, Spotify and Schibsted — walks through practical
-  architecture and organizational patterns for scaling data work. <br><br> We cover
-  building self‑service at Spotify, orchestration with Luigi, and a clear definition
-  of DataOps focused on enablement, workflows and people alignment. Lars explains
-  immutable, functional pipeline principles versus mutable ETL and why reproducibility
-  and versioning matter. You’ll hear a concise comparison of data lake vs data warehouse
-  (raw data, aggregates and use cases), plus core platform components — storage, compute
-  and workflow engines — and compute choices like Spark, Flink, containers and managed
-  services. The conversation also addresses batch vs streaming tradeoffs, micro‑batching,
-  data mesh decentralization risks, MLOps overlaps, database versioning strategies
-  (dumps and CDC), and lakehouse layering. <br><br> Listen to gain concrete guidance
-  on platform trade‑offs, how to enable self‑service analytics, when to centralize
-  or decentralize, and further reading from the Scling list to deepen your DataOps
-  and pipeline design knowledge.
+description: Discover DataOps strategies, immutable pipelines & a self-service lakehouse
+  to boost reproducibility, scale data platforms, enable analysts and speed delivery.
+intro: How do you scale a data platform that supports self‑service analytics while
+  keeping pipelines reproducible and maintainable? In this episode Lars Albertsson,
+  founder of Scling and former Google, Spotify and Schibsted engineer, walks through
+  pragmatic DataOps principles for building scalable data platforms. <br><br> We dig
+  into building self‑service at Spotify, orchestration with Luigi, and the core platform
+  components—storage, compute and workflow engines—plus compute choices like Spark,
+  Flink, containers and managed services. Lars explains immutable, functional pipeline
+  design to solve reproducibility problems, contrasts data lakes and warehouses (raw
+  dumps vs aggregates), and covers object storage, governance, ingress/egress patterns,
+  CDC and database versioning strategies. He also explores batch vs streaming trade‑offs,
+  micro‑batching, DataOps maturity (tests, schema automation), MLOps vs DataOps overlaps,
+  and risks around data mesh and decentralization. <br><br> Listeners will come away
+  with concrete architectural trade‑offs, patterns for immutable pipelines and self‑service
+  lakehouse design, and recommended readings from the Scling list to deepen expertise
+  in DataOps, lineage, versioning and practical data engineering.
 ---
 
 We talked about:

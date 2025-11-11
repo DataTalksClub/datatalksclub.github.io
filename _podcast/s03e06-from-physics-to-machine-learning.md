@@ -1,6 +1,5 @@
 ---
-title: 'Switch to Computer Vision & Deep Learning: Roadmap, Kaggle Projects, Mentors
-  & Interview Prep'
+title: 'Switch to Computer Vision & Deep Learning: Roadmap, Kaggle Projects, Mentors & Interview Prep'
 short: From Physics to Machine Learning
 guests:
 - tatianagabruseva

@@ -1,6 +1,6 @@
 ---
-title: 'Practical Machine Learning for Software Engineers: 7 Lessons, Tools, MLOps
-  & Project Roadmap'
+title: 'From Software Engineering to Machine Learning: 7 Lessons, Tools, MLOps & Project
+  Roadmap'
 short: From Software Engineering to Machine Learning
 guests:
 - svpino
@@ -1114,21 +1114,22 @@ transcript:
   time: '1:02:03'
   who: Alexey
 description: 'Learn practical machine learning for software engineers: 7 lessons,
-  tooling, MLOps roadmap to build deployable projects and accelerate your career.'
-intro: How can a software engineer practically add machine learning to their toolkit
-  and ship real projects without getting stuck on theory? In this episode Santiago
-  Valdarrama — Director of Computer Vision with roots in Cuba and an MS from Georgia
-  Tech — walks through a hands-on roadmap for practical machine learning for software
-  engineers. <br><br> We cover seven pragmatic lessons for starting an ML career (start
-  projects, treat learning as a marathon, teach and join community, apply knowledge,
-  prioritize coding, analyze problems first, and favor pragmatism), essential tooling
-  like Python, NumPy, Pandas, Matplotlib and scikit-learn, and concrete learning paths
-  including Google’s ML Crash Course, Kaggle, and recommended books. Santiago also
-  breaks down ML engineering skills — data pipelines, modeling, deployment, monitoring
-  — plus deployment and MLOps fundamentals (APIs, Docker, cloud providers) and how
-  to learn cloud pragmatically. <br><br> Listen to gain an actionable project roadmap,
-  toolset, course and book recommendations, and practical strategies for overcoming
-  math anxiety so you can build, deploy, and maintain ML systems as a software engineer.
+  Python tools, MLOps & a project roadmap to build, deploy and monitor real ML systems.'
+intro: 'How do you move from software engineering into practical machine learning
+  without getting stuck on theory or math? In this episode Santiago Valdarrama — Director
+  of Computer Vision and a computer scientist with two decades of software experience
+  — walks through a pragmatic roadmap for software engineers transitioning to machine
+  learning. <br><br> We cover seven practical lessons for getting started (start projects,
+  think long-term, teach and join communities, build real projects, prioritize coding,
+  analyze problems first, and favor pragmatism), core ML tooling (Python, NumPy, Pandas,
+  Matplotlib, scikit-learn), and recommended learning resources (Google ML Crash Course,
+  Kaggle, Deep Learning with Python, Hands-On Machine Learning). Santiago compares
+  problem-based vs top-down learning, outlines a course roadmap for engineers, and
+  explains ML engineering skills: data pipelines, modeling, deployment, monitoring,
+  plus MLOps fundamentals like APIs, Docker, and cloud providers. <br><br> Listen
+  to gain an actionable project roadmap, tools checklist, and concrete strategies
+  to conquer math anxiety and ship ML systems — practical guidance for engineers who
+  want to build, deploy, and maintain real machine learning solutions.'
 ---
 
 Links:

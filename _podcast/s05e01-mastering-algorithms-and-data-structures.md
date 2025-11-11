@@ -1,6 +1,5 @@
 ---
-title: 'Practical Algorithms for Engineers: Bloom Filters, Approximate Nearest-Neighbor
-  & Performance'
+title: 'Practical Algorithms for Engineers: Bloom Filters, Approximate Nearest-Neighbor & Performance'
 short: Mastering Algorithms and Data Structures
 guests:
 - marcellolarocca

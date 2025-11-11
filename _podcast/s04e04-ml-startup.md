@@ -1,6 +1,5 @@
 ---
-title: 'How to Build a Successful ML Startup: MLOps, Model Monitoring, Open Source
-  & Founder Fit'
+title: 'How to Build a Successful ML Startup: MLOps, Model Monitoring, Open Source & Founder Fit'
 short: I Want to Build a Machine Learning Startup!
 guests:
 - elenasamuylova

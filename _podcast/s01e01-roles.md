@@ -1,5 +1,5 @@
 ---
-title: "Data Team Roles Explained"
+title: "Data Team Roles Explained: Skills, Responsibilities, and How Teams Ship ML Products"
 short: "Roles in a Data Team"
 guests: [alexeygrigorev]
 

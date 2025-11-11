@@ -1,6 +1,5 @@
 ---
-title: 'Last-Mile Data Delivery for the Modern Data Stack: Build Data Products to
-  Boost Adoption'
+title: 'Last-Mile Data Delivery for the Modern Data Stack: Build Data Products to Boost Adoption'
 short: Conquering the Last Mile in Data
 guests:
 - caitlinmoorman

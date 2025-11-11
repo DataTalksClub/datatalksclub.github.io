@@ -1,6 +1,5 @@
 ---
-title: 'How to Transition from Design to Data Product Manager: SQL, Customer Discovery
-  & Data Quality'
+title: 'How to Transition from Design to Data Product Manager: SQL, Customer Discovery & Data Quality'
 short: Becoming a Data Product Manager
 guests:
 - saramenefee

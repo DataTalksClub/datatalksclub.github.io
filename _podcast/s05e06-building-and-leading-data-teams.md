@@ -1,6 +1,5 @@
 ---
-title: 'How to Build & Scale a Data Team: Hiring, Production ML, Forecasting & Driving
-  Adoption'
+title: 'How to Build & Scale a Data Team: Hiring, Production ML, Forecasting & Driving Adoption'
 short: Building and Leading Data Teams
 guests:
 - tammyliang

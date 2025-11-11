@@ -1,8 +1,6 @@
 ---
-title: 'Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews
-  & Negotiation'
-short: 'Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews
-  & Negotiation'
+title: 'Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews & Negotiation'
+short: "Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews & Negotiation"
 guests:
 - olegnovikov
 image: images/podcast/s03e04-interviewing-300-data-scientists.jpg

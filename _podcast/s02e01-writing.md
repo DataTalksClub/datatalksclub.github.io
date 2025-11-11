@@ -1,12 +1,11 @@
 ---
-title: 'Master Weekly Developer Blogging: Outline-First Writing, Tools & Technical
-  Portfolio Tips'
-short: The Importance of Writing in a Tech Career
+title: 'Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career'
+short: 'Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career'
 guests:
 - eugeneyan
 image: images/podcast/s02e01-writing.jpg
-description: Master developer blogging with an outline-first workflow, weekly writing
-  cadence and technical portfolio tips—tools, titles, repo READMEs to get hired.
+description: 'Master technical writing for data science with a practical 7-day workflow:
+  outline-first cadence, portfolio tips, docs & distribution to accelerate your career.'
 keywords: technical writing, data science career, ML engineer writing, documentation
   skills, technical communication, data science blog, career growth, writing process,
   Amazon data scientist, Eugene Yan, technical documentation, data science portfolio,
@@ -21,23 +20,22 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/The-Importance-of-Writing-in-a-Tech-Career---Eugene-Yan-ep17du
   spotify: TODO
   apple: TODO
-intro: How do you publish developer-focused posts weekly without sacrificing depth
-  or your day job? In this episode Eugene Yan — an Applied Scientist at Amazon who
-  builds pragmatic ML systems and previously led data science teams at Lazada and
-  uCare.ai — walks through a practical, outline-first approach to sustainable developer
-  blogging and building a technical portfolio. <br><br> We cover Eugene’s career pivot
-  into public writing, motivations for sharing knowledge, and how to target readers,
-  peers, and future teammates. Listen for his 7-day weekly writing cadence, time-budgeting
-  advice (including tips to avoid over-editing), and the outline-first method for
-  filtering ideas and rewriting from memory. He also breaks down idea sourcing, title
-  and length decisions, getting started tactics, and recommended blogging tools (Medium,
-  Substack, WordPress, Jekyll/GitHub Pages). You’ll hear routines for morning reps
-  and weekend deep work, distribution strategies via Twitter and LinkedIn, and how
-  to translate work artifacts into press-release-style docs, decision logs, and clearer
-  technical documentation. Plus, actionable portfolio best practices—clear README,
-  quick-start guide, and repo tours—to make your code and writing discoverable. <br><br>
-  Tune in to learn a repeatable workflow for weekly developer blogging, technical
-  writing, and portfolio building that scales with your career.
+intro: How can technical writing accelerate your data science career in just one week?
+  In this episode Eugene Yan — an Applied Scientist at Amazon who previously led data
+  science teams at Lazada and uCare.ai and writes about ML in production and career
+  growth — walks through a practical, repeatable 7-day workflow for technical writing
+  tailored to data scientists. <br><br> We cover Eugene’s career transition and first
+  public writing, motivations for sharing work, and how to target readers (peers,
+  future teammates, and hiring managers). He frames writing as a product with a weekly
+  shipping cadence, explains the outline-first method for filtering ideas, and outlines
+  a realistic time budget and editing limits. You’ll get concrete guidance on idea
+  sourcing, title crafting, article length, blogging tools (Medium, Substack, WordPress,
+  Jekyll), writing habits, distribution via Twitter and LinkedIn, and writing at work
+  (press releases, design docs, decision logs). Practical portfolio advice — clear
+  README, quick start, repo tour — and tips to iterate outlines and ship weekly round
+  out the episode. <br><br> Listen to learn a concrete 7-day workflow, documentation
+  and portfolio best practices, and distribution tactics to boost your technical writing
+  and advance your data science career.
 ---
 
 Today we're discussing technical writing, logging, documentation, and more. Our special guest is [Eugene Yan](/people/eugeneyan). Eugene works at the intersection of machine learning and product, building pragmatic ML systems while writing and speaking about effective data science, ML in production, and career growth.

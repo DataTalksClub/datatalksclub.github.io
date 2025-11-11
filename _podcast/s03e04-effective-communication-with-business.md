@@ -1,6 +1,6 @@
 ---
-title: 'Data Translator: How to Bridge Data & Management for Data-Driven Growth'
-short: Effective Communication with Business for Data Professionals
+title: 'Data Strategist Guide: Effective Communication to Bridge Data Teams & Management for Data-Driven Growth'
+short: "Data Strategist Guide to Driving Growth: Prototypes, MVPs & Building Data Trust"
 guests:
 - liorbarak
 image: images/podcast/s03e04-effective-communication-with-business.jpg

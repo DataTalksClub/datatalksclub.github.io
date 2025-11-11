@@ -1,6 +1,5 @@
 ---
-title: 'How to Build Data Governance in the Cloud: Classification, Catalogs, Policies
-  & ROI'
+title: 'How to Build Data Governance in the Cloud: Classification, Catalogs, Policies & ROI'
 short: Data Governance
 guests:
 - jessiashdown

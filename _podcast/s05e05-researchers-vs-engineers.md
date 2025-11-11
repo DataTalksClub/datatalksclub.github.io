@@ -1,6 +1,5 @@
 ---
-title: 'From Research to Production: Build Reproducible, Deployable Full-Stack ML
-  Systems'
+title: 'From Research to Production: Build Reproducible, Deployable Full-Stack ML Systems'
 short: What Researchers and Engineers Can Learn from Each Other
 guests:
 - mihaileric

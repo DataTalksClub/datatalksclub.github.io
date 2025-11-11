@@ -1,6 +1,5 @@
 ---
-title: 'Practical Machine Learning Engineering for Production: Ship Maintainable Models,
-  Avoid Complexity'
+title: 'Practical Machine Learning Engineering for Production: Ship Maintainable Models, Avoid Complexity'
 short: Running from Complexity
 guests:
 - benwilson

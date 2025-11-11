@@ -1,6 +1,5 @@
 ---
-title: 'From Notebooks to Production: Build Data Pipelines & Deploy ML (AWS, Kafka,
-  Streaming)'
+title: 'From Notebooks to Production: Build Data Pipelines & Deploy ML (AWS, Kafka, Streaming)'
 short: Build Your Own Data Pipeline
 guests:
 - andreaskretz

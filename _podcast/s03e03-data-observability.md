@@ -1,6 +1,5 @@
 ---
-title: 'Data Observability Explained: 5 Pillars to Prevent Downtime, Drift & False
-  Positives'
+title: 'Data Observability Explained: 5 Pillars to Prevent Downtime, Drift & False Positives'
 short: 'Data Observability: The Next Frontier of Data Engineering'
 guests:
 - barrmoses

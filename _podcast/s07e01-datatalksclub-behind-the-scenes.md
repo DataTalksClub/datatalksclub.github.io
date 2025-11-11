@@ -1,6 +1,5 @@
 ---
-title: 'Machine Learning Career: From Java to ML, Data Pipelines, ML Zoomcamp & Scaling
-  9K Community'
+title: 'DataTalks.Club Behind the Scenes: Alexey Grigorev on Scaling and Growing the Community'
 short: DataTalks.Club Behind the Scenes
 guests:
 - eugeneyan

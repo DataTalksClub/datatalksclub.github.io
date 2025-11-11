@@ -16,9 +16,7 @@ Example:
 
 import os
 import sys
-import yaml
 import argparse
-import re
 from pathlib import Path
 from typing import List
 from openai import OpenAI
@@ -44,28 +42,6 @@ TIMESTAMPS:
 
 OUTPUT: Generate ONLY the title text.
 """
-
-
-def parse_podcast_file(file_path):
-    """Parse a podcast markdown file and extract front matter and content."""
-    with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Extract front matter
-    if content.startswith('---\n'):
-        match = re.search(r'\n---\n', content[4:])
-        if match:
-            end_pos = match.start() + 4
-            frontmatter_text = content[4:end_pos]
-            rest_content = content[end_pos + 5:]
-            
-            try:
-                frontmatter = yaml.safe_load(frontmatter_text)
-                return frontmatter, rest_content, content
-            except yaml.YAMLError:
-                return None, content, content
-    
-    return None, content, content
 
 
 def get_timestamps_file(podcast_file_path):
@@ -101,7 +77,7 @@ def generate_title(timestamps_content, api_key=None):
     
     # Call OpenAI API
     response = client.responses.create(
-        model="gpt-5-mini",  # Using gpt-5-nano
+        model="gpt-5-mini",  # Using gpt-5-mini
         input=prompt,
     )
     
@@ -225,13 +201,6 @@ def process_podcast_file(podcast_file: Path, api_key: str = None, update: bool =
     print("-" * 60)
     
     try:
-        # Parse the podcast file
-        frontmatter, podcast_content, full_content = parse_podcast_file(podcast_file)
-        
-        if not frontmatter:
-            print("Warning: Could not parse frontmatter from podcast file", file=sys.stderr)
-            frontmatter = {}
-        
         # Get timestamp file
         timestamp_file = get_timestamps_file(podcast_file)
         if not timestamp_file:

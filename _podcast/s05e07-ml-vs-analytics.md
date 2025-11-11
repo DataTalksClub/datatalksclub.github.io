@@ -1,6 +1,5 @@
 ---
-title: 'From Analytics to Production ML: Team Building, Experiments, MLOps & Fraud
-  Detection'
+title: 'From Analytics to Production ML: Team Building, Experiments, MLOps & Fraud Detection'
 short: Similarities and Differences between ML and Analytics
 guests:
 - rishabhbhargava

@@ -1,6 +1,5 @@
 ---
-title: 'From Analytics to Data Science: Build a Kaggle Notebook Portfolio, Learn Python
-  & Get Hired'
+title: 'Career Transition from Analytics to Data Science: Build a Kaggle Notebook Portfolio, Learn Python & Get Hired'
 short: Shifting Career from Analytics to Data Science
 guests:
 - andradaolteanu

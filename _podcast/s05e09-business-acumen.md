@@ -1,6 +1,5 @@
 ---
-title: 'Practical Data Science & ML: Feature Engineering, Model Monitoring, Data Governance
-  & Storytelling'
+title: 'Practical Data Science & ML: Feature Engineering, Model Monitoring, Data Governance & Storytelling'
 short: Building Business Acumen for Data Professionals
 guests:
 - thomives

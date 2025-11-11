@@ -1,6 +1,5 @@
 ---
-title: 'Contribute to Open Source ML: scikit-learn Pipelines, PRs, Docs & Rasa Conversational
-  AI'
+title: 'Contribute to Open Source ML: scikit-learn Pipelines, PRs, Docs & Rasa Conversational AI'
 short: Getting Started with Open Source
 description: 'Learn open source contribution tactics for scikit-learn pipelines and
   Rasa: make solid PRs, write docs & tests, boost your OSS skills and career visibility.'

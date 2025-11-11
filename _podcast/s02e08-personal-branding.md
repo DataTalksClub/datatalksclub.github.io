@@ -1,6 +1,5 @@
 ---
-title: 'Build a Personal Brand: Publish on LinkedIn/Medium, Grow Audience, Monetize
-  with Online Courses'
+title: 'Build a Personal Brand: Publish on LinkedIn/Medium, Grow Audience, Monetize with Online Courses'
 short: Personal Branding
 guests:
 - admondleekinlim

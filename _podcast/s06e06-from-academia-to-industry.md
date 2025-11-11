@@ -1,6 +1,5 @@
 ---
-title: 'From Postdoc to Data Science Lead: ML Foundations, Docker Deployment & Hiring
-  Tips'
+title: 'From Postdoc to Data Science Lead: ML Foundations, Docker Deployment & Hiring Tips'
 short: Moving from Academia to Industry
 guests:
 - cjjenkins

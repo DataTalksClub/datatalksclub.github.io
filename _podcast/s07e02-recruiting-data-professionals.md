@@ -1,6 +1,5 @@
 ---
-title: 'Hiring Data Scientists & Analysts: Talent Pipelines, Job Specs, CV Screening
-  & Salary Tips'
+title: 'Hiring Data Scientists & Analysts: Talent Pipelines, Job Specs, CV Screening & Salary Tips'
 short: Recruiting Data Professionals
 guests:
 - alicjanotowska

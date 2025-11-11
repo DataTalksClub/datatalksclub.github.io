@@ -1,6 +1,5 @@
 ---
-title: 'KPI Design & Metrics Strategy: Prioritize Impact, Avoid Vanity Metrics, and
-  Prove ROI'
+title: 'KPI Design & Metrics Strategy: Prioritize Impact, Avoid Vanity Metrics, and Prove ROI'
 short: 'Defining Success: Metrics and KPIs'
 guests:
 - adamsroka

@@ -1,6 +1,5 @@
 ---
-title: 'Build, Optimize & Scale Big Data ETL Pipelines: Spark, Streaming vs Batch,
-  Delta Lake'
+title: 'Big Data Engineer vs Data Scientist: Skills, Tools, and Career Paths'
 short: Big Data Engineer vs Data Scientist
 guests:
 - roksolanadiachuk
@@ -1319,23 +1318,24 @@ transcript:
   sec: 3799
   time: '1:03:19'
   who: Alexey
-description: Master Spark ETL pipelines, streaming vs batch design and Delta Lake
-  time travel—optimize jobs, scale on S3/HDFS, and improve monitoring & data quality.
-intro: How do you build, optimize, and scale big data ETL pipelines while choosing
-  between streaming and batch, tuning Spark jobs, and retaining the ability to reprocess
-  with time travel? In this episode Roksolana Diachuk — Big Data Engineer at Captify,
-  Women Who Code Kyiv lead, speaker and mentor — walks through her path from backend
-  Java to Scala and big data, and explains practical trade-offs when designing ETL
-  pipelines. <br><br> We cover core responsibilities like building pipelines on HDFS/S3,
-  file formats (Avro, Parquet, ProtoBuf), Spark job optimization and cluster resource
-  planning, and tooling such as Kubernetes, Prometheus, Grafana. Roksolana contrasts
-  streaming vs batch (Flink for streaming, Spark for batch), explains Delta Lake for
-  data versioning and auditing, and addresses operational challenges like deduplication
-  and historical reprocessing. You’ll also get guidance on monitoring, schema governance,
-  ML deployment stacks (MLflow, Kubeflow), starter projects, datasets for practice,
-  and upskilling paths from analyst to data engineer. <br><br> Listen for actionable
-  advice on pipeline architecture, performance tuning, data quality monitoring, and
-  concrete learning resources to help you build scalable big data ETL systems.
+description: Discover how Big Data Engineer vs Data Scientist roles differ — skills,
+  performance optimization, ETL pipelines and ML deployment tips to advance your career.
+intro: 'How do the day‑to‑day responsibilities and skill sets really differ between
+  a Big Data Engineer and a Data Scientist—and what should you learn to move between
+  those roles? In this episode Roksolana Diachuk, a Big Data Engineer at Captify,
+  Women Who Code Kyiv lead and speaker on Scala and Kubernetes, walks through her
+  career transition from backend Java into big data engineering and R&D. <br><br>
+  We cover core responsibilities—building ETL data pipelines, HDFS/S3 storage, Impala
+  and Parquet formats—plus performance tuning: Spark job optimization, cluster resource
+  planning and monitoring with Prometheus/Grafana. Roksolana compares role boundaries
+  (data cleaning and feature engineering for data scientists vs pipeline design and
+  formats like Avro/Parquet/ProtoBuf), explores streaming vs batch tradeoffs (Flink
+  vs Spark), and outlines ML deployment stacks (MLflow, Kubeflow, Kubernetes). Practical
+  topics include databases to learn (Postgres, MySQL, MongoDB, Neo4j), data versioning
+  with Delta Lake, observability, documentation, starter projects and learning resources.
+  <br><br> Listen to learn which skills, tools and projects will help you choose or
+  transition between careers, and what to prioritize when building scalable data pipelines,
+  deploying models, and ensuring data quality.'
 ---
 
 Links:

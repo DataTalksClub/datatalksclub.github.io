@@ -1,5 +1,5 @@
 ---
-title: "CRISP-DM Methodology: Complete Guide to Data Science Project Process"
+title: "CRISP-DM Methodology for Data Science Projects: Business Understanding, Data Preparation, Modeling, Evaluation & Deployment"
 short: "Processes in a Data Science Project"
 guests: [alexeygrigorev]
 
