@@ -1,0 +1,23 @@
+00:00:00 Podcast Introduction
+00:01:33 Introduction: Episode focus on data science career development (Katie Bauer)
+00:02:27 Career trajectory: linguistics to data science; Reddit and Twitter experience
+00:04:36 GlossGenius product and head of data responsibilities (B2B SaaS)
+00:06:22 Current hiring needs: product analysts, analytics engineers, marketing scientists
+00:07:08 Data scientist role: broad definition and varied responsibilities
+00:08:33 Data science manager: building teams, matrix orgs, and cross-functional work
+00:11:58 Craft quality: maintainability, documentation, peer review for analytics
+00:15:12 Career framework: junior vs senior and the “terminal” career level
+00:18:50 Senior growth: abstraction, leadership exposure, and delegation
+00:25:54 IC vs management: trying people leadership and the IC–manager pendulum
+00:30:10 Managing juniors: mentorship, skills training, and project-based learning
+00:34:16 Stakeholder conversations: talking to PMs and senior leaders (prep & questions)
+00:39:02 Junior development: practice, exposure, and avoiding early specialization
+00:40:12 Hiring juniors: build vs buy, long-term org benefits, and succession
+00:44:39 Hiring managers: evaluation criteria for data science manager roles
+00:47:21 Strategy assessment: case studies, trade-offs, and measurement in interviews
+00:50:21 Entry-level hiring tips: standing out, outreach, and interview preparation
+00:52:43 Onboarding first month: proactive communication and asking for help
+00:54:11 Support mechanisms: regular check-ins, rubber‑duck channels, async help
+00:56:20 Head of data challenges: prioritization, data literacy, and culture building
+00:59:09 Closing advice: careers as direction and guiding team growth
+01:00:13 Episode wrap and contact information

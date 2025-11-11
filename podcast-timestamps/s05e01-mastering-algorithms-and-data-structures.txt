@@ -1,0 +1,28 @@
+00:00:00 Podcast Introduction
+00:01:51 Guest Intro: Marcello La Rocca and book announcement
+00:03:11 Career Path: web development to Twitter, Microsoft, Apple, Tundra
+00:05:19 Learning Philosophy: focus on applications over formal proofs
+00:07:30 Anecdote: mathematical proof vs practical innovation
+00:09:23 Recommended Resources: MIT course, Tim Roughgarden, Grokking Algorithms
+00:10:34 Core Data Structures: arrays, lists, sets, dictionaries, stacks, queues
+00:12:17 Abstraction vs Implementation: APIs, performance trade-offs
+00:15:57 Practicing Algorithms Outside Work: competitions and side projects
+00:19:14 Using Libraries & Profiling: spotting algorithmic wins in production
+00:20:14 Performance Pitfalls: containment checks and wrong list usage
+00:22:12 Data-Science Use Cases: Bloom filters and nearest-neighbour search
+00:23:39 Book Overview: bridging theory and practical use cases
+00:25:04 Book Structure: basics, nearest-neighbour & MapReduce, graphs & optimization
+00:26:31 Prerequisites & Format: appendices, pseudocode, who the book is for
+00:28:37 Code Repository: implementations in Java, JavaScript, Python (and more)
+00:30:09 Bloom Filter Explained: memory-efficient containment with false positives
+00:34:43 Bloom Filter Applications: crawlers, routing tables, marketing/adtech
+00:35:59 Adtech Example: device IDs and returning-user targeting with Bloom filters
+00:39:10 Nearest-Neighbour Need: KD-tree limits and high-dimensional data challenges
+00:42:44 Approximate Nearest-Neighbour: R-trees, SS-trees for geolocation & logistics
+00:44:46 Vector Similarity: embeddings, recommender systems, Faiss usage
+00:47:47 Frameworks vs Internals: when to trust libraries and when to inspect them
+00:49:52 Cross-language Compatibility: serializing Bloom filters and hash seeds
+00:52:55 Tech Interviews: algorithm emphasis, balanced assessment approaches
+00:58:53 Hands-on Learning: LeetCode, contests, open-source projects
+01:00:39 Language Trade-offs: Python vs C++ and using Cython for performance
+01:03:01 Closing: contact info and book links

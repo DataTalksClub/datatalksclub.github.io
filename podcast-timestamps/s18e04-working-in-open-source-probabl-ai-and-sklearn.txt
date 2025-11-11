@@ -1,0 +1,31 @@
+00:00:00 Episode Overview — Open Source Focus
+00:01:40 Guest Reintroduction & Vincent’s Open Source Profile
+00:04:00 Early Community Work & PyLadies Code Sprint
+00:04:19 Scikit Lego Origin, Adoption, and Career Impact
+00:06:03 Career Path: Econometrics → DevRel → Core Engineering
+00:08:33 Company Naming: Why :probabl. Is Separate from Scikit-Learn
+00:10:28 Scikit-Learn Governance, NumFOCUS, and Project History
+00:14:01 Ecosystem Strategy: Plugins vs. Core Scikit-Learn Features
+00:16:43 Scikit Lego in Corporate Training and Contributor Growth
+00:18:11 Maintainer Transition: Finding Sustainable Project Stewards
+00:21:51 Motivating Volunteer Maintainers and Keeping Projects Fun
+00:23:29 Demonstrating Quality: Open Source Work as a Hiring Signal
+00:25:46 Calm Code Philosophy: Practical, Low-Pressure Learning
+00:27:24 Content Production: Videos, Scale, and Communication Practice
+00:29:30 Calm Code Platform: Django, Monetization, and Hiring Contributors
+00:31:42 CI and Cost Optimization: Custom Runners and GitHub Actions
+00:32:26 Sustainable Compute Examples: Leaf.cloud and Environmental Impact
+00:34:29 Teaching Fundamentals: Docker, pip, and Git Challenges for Beginners
+00:35:36 Conceptual Learning: Mindset Over Commands for Tooling
+00:38:22 Combining DevRel and Core Development Responsibilities
+00:41:21 Role Definition: Developer Relations Engineer at :probabl.
+00:42:20 Enhancing Scikit-Learn with Interactive Content and Videos
+00:44:30 Deep Dive Example: Why the Standard Scaler Is Complex
+00:48:31 Skrub Overview: Table Vectorizer and Pragmatic Tabular Defaults
+00:50:27 Skrub GAP Encoder: Clustering Dirty Categories to Avoid One-Hot Explosion
+00:53:47 Why Form a Company for Scikit-Learn: Funding and European Tech Goals
+00:56:19 Potential Business Models: Training, Consulting, and Partnerships
+00:57:34 Upcoming Work: Calm Code Book on Expectations vs. Reality in Data
+00:58:17 Live Experiments: Converting Tree Models to SQL and Streaming Work
+01:00:27 Live Stream Format: Preparation, Live Coding, and Demos
+01:01:15 Episode Closing and Final Remarks

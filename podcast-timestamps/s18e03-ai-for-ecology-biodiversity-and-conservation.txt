@@ -1,0 +1,24 @@
+00:00:00 Podcast Introduction
+00:01:10 Episode Overview: AI for Ecology, Biodiversity, and Conservation
+00:02:30 Guest Introduction: Tanya Berger-Wolf — Computational Ecology & Wildbook
+00:04:00 Framing the Crisis: Biodiversity Loss and Data Gaps
+00:07:00 AI Techniques Overview: Computer Vision, Machine Learning, Remote Sensing
+00:10:30 Image-Based Monitoring: Camera Traps, Drone Imagery, and Species ID
+00:14:00 Individual Identification & Tracking: Photo‑ID and Longitudinal Monitoring
+00:17:00 Remote Sensing Applications: Habitat Mapping and Change Detection
+00:20:30 Data Challenges: Labeling, Class Imbalance, and Sparse Observations
+00:23:30 Data Integration: Combining Heterogeneous Sources and Interoperability
+00:26:00 Model Robustness: Domain Shift, Transfer Learning, and Generalization
+00:29:00 Ethics & Bias: Responsible AI, Indigenous Knowledge, and Equity
+00:32:00 Scalable Platforms: Wildbook and Large‑Scale Biodiversity Monitoring Tools
+00:35:30 Citizen Science: Crowdsourcing, Quality Control, and Community Engagement
+00:38:30 Conservation Impact: Decision Support, Enforcement, and Policy Use Cases
+00:41:30 Policy Recommendations: GPAI Report and Multistakeholder Action
+00:44:30 Open Data & Reproducibility: Datasets, Standards, and FAIR Principles
+00:47:00 Edge Deployment: Low‑Power Devices, Field Constraints, and Real‑Time Alerts
+00:49:30 Interdisciplinary Collaboration: Ecologists, Data Scientists, and Local Partners
+00:52:30 Funding & Sustainability: Maintaining Long‑Term Monitoring Systems
+00:55:30 Capacity Building: Training, Tools, and Community Adoption
+00:58:00 Future Directions: Emerging Research, LLMs, and Scaling AI for Conservation
+01:00:30 Resources & Further Reading: Biodiversity and AI Report and Tools
+01:02:00 Episode Closing: Key Takeaways and Next Steps

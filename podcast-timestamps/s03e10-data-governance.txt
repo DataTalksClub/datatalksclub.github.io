@@ -1,0 +1,26 @@
+00:00:00 Podcast Introduction
+00:03:29 Guest Background — Jessi: UX Researcher & Data Governance at Google Cloud
+00:04:46 Guest Background — Uri: Product Management & Data Governance Experience
+00:06:40 Defining Data Governance: Beyond Security and PII
+00:08:57 Cloud & Regulation Driving Governance Adoption (GDPR, Cambridge Analytica)
+00:14:04 Core Components: People, Processes, Tools and Cataloging
+00:15:33 Practical Implementation: Classify Data and Establish Policies
+00:19:40 Assessing Necessity: When Governance Can Be Minimal
+00:23:00 Prioritization: Start with the "Why" to Scope Your Program
+00:24:14 Data Classification & Taxonomy: Defining Meaningful Data Classes
+00:27:48 Tools vs Spreadsheets: Scalable Data Catalog Approaches
+00:30:20 Aligning Storage and Systems: Make Data Work for You
+00:33:03 Human Roles: Data Stewards, Producers and Decision Makers
+00:34:59 Data Quality: Trust Signals, Source, and Measurable Checks
+00:38:25 Policy Design: Retention, Freshness and Purpose-based Access
+00:42:04 Policies as Enablement: Guardrails for Democratized Data Access
+00:45:04 Enforcement Models: Catalog Interfaces vs Storage Control Plane
+00:47:02 Access Workflows: Request/Approval "Shopping Cart" Experience
+00:47:35 Governance Tools & Platforms: Dataplex, Collibra and Integrations
+00:48:50 Automation: Tagging, Requests and Reducing Manual Effort
+00:50:19 Measuring ROI: Catalog Metrics, Cost vs Usage and Compliance Value
+00:53:21 MVP Strategy: Minimum Viable Governance and Future-proofing
+00:54:37 Data Catalog Contents: Technical Metadata, Lineage and Business Glossary
+00:57:46 Governance Scope: Why It Extends Beyond the Catalog
+00:59:04 Closing Remarks, Contact Links and Next Steps
+00:59:20 Recommended Resource: Data Governance (O'Reilly Book)

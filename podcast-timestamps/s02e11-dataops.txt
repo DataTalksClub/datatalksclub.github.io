@@ -1,0 +1,26 @@
+00:02:39 Episode Opening & Guest Introduction
+00:03:38 Career Journey: Google, Spotify, Consulting and Scling
+00:07:52 Scaling Data Teams: Building Self‑Service at Spotify
+00:10:48 Orchestration Spotlight: Luigi as a Data Build System
+00:11:50 DataOps Defined: Enablement, Workflows and People Alignment
+00:16:42 Data Platform Principles: Immutability & Functional Architecture
+00:20:12 Reproducibility Problems: Mutable ETL vs Immutable Pipelines
+00:21:29 Data Lake vs Data Warehouse: Raw Data, Aggregates & Use Cases
+00:23:29 Data Lake Fundamentals: Object Storage, Governance & Raw Dumps
+00:28:22 Ingress & Egress: Offline Processing and Self‑Service SQL
+00:30:34 Core Platform Components: Storage, Compute & Workflow Engine
+00:31:18 Compute Options: Spark, Flink, Containers and Managed Services
+00:35:57 Cloud Trade‑offs: Prepackaged Platforms vs DIY Assembly
+00:39:57 Recommended Reading: Lambda Architecture, Practical DataOps & Scling List
+00:41:53 Batch vs Streaming: Latency Tradeoffs and Typical Use Cases
+00:45:11 Micro‑batching vs Streaming: Dependency Management & Predictability
+00:46:52 DataOps Maturity: Test‑Certified Practices, Quality & Schema Automation
+00:50:13 Enabling Self‑Service Analytics: Embedding Engineers with Analysts
+00:53:31 MLOps vs DataOps: Shared Principles and ML‑Specific Requirements
+00:57:46 Data Mesh Overview: Decentralization, Ownership & Governance Risks
+01:03:02 Splitting the Platform: When to Decentralize vs Centralize
+01:04:18 Lineage & Versioning: Code‑Defined Pipelines vs Catalog Tools
+01:06:01 Database Versioning: Full Dumps, CDC (Change Data Capture) Strategies
+01:07:52 Lakehouse Architecture: Warehouse Features Layered on Data Lake
+01:11:01 Further Resources: Scling Reading List & Presentations
+01:12:06 Episode Closing

@@ -1,0 +1,28 @@
+00:01:17 Podcast Introduction
+00:01:52 Guest Overview: Mihail’s Roles and Work
+00:02:00 Guest Background: Stanford NLP and Early Research
+00:05:00 From NLP to Self-Driving: Shared Long-Tail Challenges
+00:06:46 Transition to Industry: Building Engineering Foundations
+00:08:34 Research Infrastructure: Data Collection and Prototyping
+00:09:21 Hybrid Role at Amazon: Research Integrated with Production
+00:10:52 Researcher Focus: Hypothesis-Driven Work and Benchmarks
+00:12:50 Experimental Tooling: Notebooks, W&B, Fast Prototyping
+00:14:45 Sourcing Research Questions: Surveys, Citations, and "Future Work"
+00:17:35 ML Engineer Focus: Full ML Lifecycle and Production Systems
+00:17:53 Engineering Tooling: PyTorch, Docker, Cloud, and Web Frameworks
+00:20:25 Data Science Evolution: From Data Science 1.0 to Data Science 2.0
+00:23:32 Skills Swap — Researchers Learn: Engineering Rigor and Reproducibility
+00:28:50 Skills Swap — Engineers Learn: Handling Uncertainty and Experimental Rigor
+00:30:16 Bridging the Gap: Cultural and Organizational Challenges
+00:34:20 Embedded Teams vs. Handoffs: Avoiding the "Throw-It-Over-the-Wall" Trap
+00:36:57 Breaking Silos: Leadership, Sprints, and Active Collaboration
+00:39:08 Role Fluidity: Flexible Responsibilities in High-Performing Teams
+00:40:33 Full-Stack Data Scientist: From Model Development to Deployment
+00:44:36 Advice for Researchers: Build End-to-End Systems and Deploy
+00:46:57 Code Reviews for Researchers: Rapid Engineering Skill Development
+00:47:51 Advice for Engineers: Read Papers, Reproduce Models, Run Experiments
+00:51:28 Practical Paper Reading: Tutorials, Code, and Researcher Collaboration
+00:55:31 Choosing a Path: Internships, Masters, PhD — Try Both Early
+00:58:56 Confetti.ai: Career Preparation and Learning Resources for ML Roles
+01:01:40 Contact & Resources: Twitter, LinkedIn, and Confetti.ai
+01:02:36 Episode Wrap-Up and Key Takeaways

@@ -1,0 +1,23 @@
+00:00:00 Episode Overview: Building Scalable & Reliable Machine Learning Systems
+00:02:34 Guest Bio & Startup Experience (deep learning, MLOps, Ntropy, AR, Lyft)
+00:06:11 Startups: ML Productionization Trade-offs and Decision Ownership
+00:07:54 Defining Machine Learning System Design: Goals and Constraints
+00:10:34 Edge & Mobile ML Constraints: Latency, FPS, Energy, Core ML
+00:14:49 Managing Unknowns: Known Unknowns, Unknown Unknowns, Early Tests
+00:18:49 Planning Value: Why a Lightweight Design Phase Matters
+00:20:21 Design Document Approach: Problem-First, 50/50 Problem vs Solution
+00:22:48 Problem Framing: Product Scenarios, Realism vs Appeal Trade-offs
+00:29:01 Goals, Non-Goals & Assumptions: Turning Requirements into Metrics
+00:31:42 Solution Blueprint: Baseline, Metrics, Pipeline Components
+00:32:37 Data Strategy: Availability, Processing, Feature Needs, Data Lakes
+00:37:15 System Diagramming: Data Flow, Dependencies, Real-time vs Batch
+00:39:42 Motivation for the Book: Generalizing Experience into Patterns
+00:41:45 Heuristics for Datasets: Intuition, Limits, and Practical Guidance
+00:45:10 Design Doc Examples: Photostock Search & Super Mega Retail Pricing
+00:47:09 Reader Types: Theory-Focused vs Template-Focused Audiences
+00:48:27 Co-author Dynamics: Balancing Corporate & Hands-on Perspectives
+00:51:39 Book Development: Scope Decisions, Publisher Constraints, Reviewer Feedback
+00:55:48 Favorite Chapter: Preliminary Research, Reuse, and External Sources
+00:58:28 Further Learning: System Design Fundamentals & Software Engineering Skills
+01:00:00 Book Offer & Giveaway: Discount Code, Twitter Giveaway Winners
+01:00:37 Closing Remarks and Episode Wrap-up

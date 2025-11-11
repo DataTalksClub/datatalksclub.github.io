@@ -1,0 +1,24 @@
+00:00:00 Episode Intro & Guest Christine Cepelak
+00:01:33 Career Journey: Program Management to Data Science for Public Policy
+00:04:07 Private vs Public Sector: Differences for Data Work
+00:05:25 Public Policy Defined: Laws, Governance & Social Impact
+00:08:27 Community Organizing Case Study: Electronics Recycling Campaign
+00:10:14 Policy vs Political Science: Theory, Practice & Implementation
+00:12:10 Education Landscape: Data Science for Public Policy Programs & DSSG
+00:14:22 Domain Nuances: Data Science for Social Impact vs Typical Industry Work
+00:17:12 Use Cases: Drone Computer Vision for Refugee Aid & Rooftop Sustainability
+00:21:06 Ethics & Regulation: Ethical AI, EU AI Act and Social Scoring Risks
+00:26:21 Project Design: Long-term Impact, Iteration & Avoiding Tech-First Solutions
+00:28:06 Stakeholder Collaboration: NGOs, HR Use Cases & Mining Domain Knowledge
+00:30:32 Data Challenges: Building Pipelines with Limited IT Infrastructure
+00:36:49 Public Data Gaps: Recycling Programs, Corporate Transparency & Access Issues
+00:39:27 Future Focus Areas: Climate Justice, Gender Equality & Responsible Tech
+00:40:19 Gender Inequality Solutions: Salary Transparency & Inclusive Hiring Policies
+00:43:38 Corporate Responsibility: CSR Data Needs & Demand for Impact Data Scientists
+00:46:25 Public Sector Roles: Chief Data Scientist and Government Data Strategy
+00:48:19 Getting Started: Volunteer Projects, SDGs & Finding a Cause
+00:51:23 Project Marketplaces & Career Advice: DSSG Projects and 80,000 Hours
+00:54:16 Research Applications: Satellite Imagery for Poverty Estimation & Census Gaps
+00:56:22 Community Discussion: Ethics in AI Coffee Chats and Emerging Debates
+00:58:06 Connect with Christine: Website, LinkedIn & Twitter
+00:58:23 Episode Wrap-up & Resource Links

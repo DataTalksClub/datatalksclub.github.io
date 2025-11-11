@@ -1,0 +1,29 @@
+00:00:00 Podcast Introduction
+00:01:39 Guest Introduction: Luke Whipps, recruiter and podcast host
+00:02:57 Recruiting background: a decade in data, analytics and AI
+00:03:43 Neural AI origin: founding principles and non‑transactional recruiting
+00:05:16 Community focus: podcasts, events and value‑driven talent work
+00:07:02 Hiring challenges: why data scientist roles vary by company
+00:07:35 Recruitment workflow: six‑stage process from definition to close
+00:08:15 Role definition & market guidance for data science hires
+00:09:14 Shortlist, interview preparation, feedback and offer negotiation
+00:11:23 Candidate funnel sizes: longlists, headhunting and volume hiring
+00:14:07 First impressions: CV design, formatting and professional clarity
+00:16:15 Industry and use‑case alignment on resumes for better matches
+00:19:50 Projects & portfolio: linking tech stack to concrete work
+00:22:08 Career narrative: tenure, common themes and progression
+00:25:04 Demonstrating business impact and real world use cases
+00:27:19 CV structure: clarity, audience fit and information hierarchy
+00:30:10 Job‑hopping: red flags, ideal tenure and acceptable exceptions
+00:32:22 Junior candidates: pick an industry, aim small and show purpose
+00:37:54 Tailored applications: research job needs and map your skills
+00:39:41 Targeted outreach tactics: emails, LinkedIn and creative approaches
+00:44:26 Focus strategy: approach fewer companies and segment your market
+00:46:25 Academia → industry: adopt a product mindset and productionize research
+00:50:39 Motivation vs money: career focus, progression and tradeoffs
+00:52:22 Salary signals: asking salary, market alignment and recruiter views
+00:56:47 CV formats & length: country differences and the two‑page guideline
+00:58:51 Job title alignment: adapt titles to industry norms without lying
+01:00:15 Switching backgrounds: web development to machine learning skills
+01:02:07 Disclosing other interviews: transparency, trust and recruiter differences
+01:07:37 Episode summary: purpose‑driven candidates and standing out as a data scientist

@@ -1,0 +1,28 @@
+00:00:00 Episode Introduction: Humans in the Loop — MLOps & human-centered ML
+00:03:29 Guest Career Path: Lina Weichbrodt — business to ML engineering
+00:04:50 Project Intake Checklist: business case, KPIs, and alternative solutions
+00:09:43 Evaluate AI Necessity: quantify alternatives before modeling
+00:10:26 Problem Scoping: make business problems specific and UI-visible
+00:12:22 Stakeholder Engagement: pairing, availability, and buy‑in
+00:13:47 Communicating Across Teams: translating technical and business language
+00:15:07 Trust Building: domain understanding and helping with data issues
+00:18:29 Addressing Concerns: convert stakeholder fears into mitigations and metrics
+00:22:36 Demos vs Reporting: what stakeholders need to believe the solution works
+00:24:34 Incident Preparedness: service levels and impact assessment with stakeholders
+00:27:14 ML Incident Response: post‑mortems and ML‑specific recovery steps
+00:29:23 Live Test Sets & Small A/B Tests for model monitoring and detection
+00:32:11 Root‑Cause Debugging: applying Five Whys to ML product issues
+00:36:41 User Feedback Channels: internal bug reports and product QA processes
+00:37:12 Case Study: credit scoring surprises and interpreting feature importance
+00:38:20 Prioritizing Bugs: investigating widespread user complaints
+00:39:26 Post‑Mortem Evidence: facts, blameless analysis, and investigation steps
+00:42:03 Action Items: turning post‑mortems into tickets and process changes
+00:44:11 Explainability vs Debugging: when to use Explainable AI tools
+00:46:28 Data Monitoring: input distribution, unit changes, and feature drift
+00:47:20 Project Evaluation Tools: AI Canvas and online checklists
+00:49:28 Observability Practices: logging features, feature stores, and reproducibility
+00:50:30 End‑User Research: mystery shopping and direct user testing
+00:52:39 Idea Sourcing: proposing ML projects vs refining stakeholder problems
+00:54:49 Data Literacy: educating teams and community building inside companies
+00:56:28 People Skills & Tactical Hacks: convincing stakeholders and improving data quality
+00:59:26 Wrap‑Up & Contact: where to find Lina and episode closing

@@ -1,0 +1,28 @@
+00:00:00 Episode Introduction & Topic Overview
+00:02:15 Career Journey: Academia → Consulting → Finance Machine Learning Engineering
+00:06:03 Startup Pace: Agility, Speed, and Managerial Insights
+00:07:54 Lean MLOps: Shoestring Strategies for Early-Stage Companies
+00:11:54 SaaS-First Approach: Vendor Solutions for Small Teams
+00:12:54 Cloud Trade-offs: Startup Credits, Migration Friction, and Lock‑in
+00:15:06 Cloud Complexity: Infrastructure as Code and Operational Overhead
+00:17:38 MVP Stack: Prioritizing Tools for Rapid Prototyping and Launch
+00:19:19 Portability vs Managed Services: Avoiding Vendor Lock‑In (Vertex AI, SageMaker)
+00:21:35 Low‑Code Trade-offs: Speed vs Future Flexibility
+00:22:22 Career Decision Framework: Choosing Startups or Corporations
+00:27:30 End‑to‑End Ownership: Multidisciplinary Work in Startups
+00:29:37 Corporate Processes: "Agile" vs Bureaucratic Planning Cycles
+00:33:17 Platform & Frameworks: Automating Developer Workflows
+00:34:32 Team Scale Advantages: Redundancy, Support, and Internal Mobility
+00:35:48 Startup Intensity: Learning Curve, Burnout Risk, and Rewards
+00:37:54 AI‑Assisted Coding: Productivity Gains and Technical Debt Risks
+00:40:01 Technical Debt Management: Notes, Awareness, and Security Implications
+00:43:12 Early‑Career Advice: Mentorship, Pairing, and Role Selection
+00:44:10 Minimal MLOps Stack: Python, CI/CD Orchestration, and Dagster
+00:45:55 Observability Choices: Logfire, Prometheus/Grafana, and Streamlit
+00:48:11 Product Modularity: Desire for Standalone Model Registries & Observability
+00:49:00 Skill Investment: Foundational Tools (Linux, Python, Bash) vs New Tech
+00:51:27 Market Signals for Learning: Job Postings, Airflow, and Targeted Skills
+00:55:43 Data Engineering Reliability: Quality, Lineage, and LLM Unpredictability
+00:57:09 On‑Premise vs Cloud: Privacy, Cost Efficiency, and Migration Strategy
+01:00:09 Distributed Compute Alternatives: Dask, Spark, and Performance Trade‑offs
+01:01:41 Closing Remarks and Next Steps

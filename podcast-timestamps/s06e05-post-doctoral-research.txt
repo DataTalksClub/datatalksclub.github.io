@@ -1,0 +1,26 @@
+00:01:13 Guest Introduction: Eleni Tzirita‑Zacharatou, postdoctoral researcher at DIMA, TU Berlin
+00:02:49 Academic Journey: Athens undergrad → EPFL PhD → Berlin postdoc
+00:03:50 Spatial Big Data Analytics: Definitions, examples (GPS, trajectories, satellite imagery)
+00:05:56 Postdoc Role Overview: Research, mentoring, teaching, reviewing, dissemination
+00:07:29 Time Management for Research: Focused days vs. multitasking
+00:08:46 Publishing Realities: When research yields publishable outcomes
+00:10:03 Top Data Management Venues: VLDB, SIGMOD, ICDE
+00:11:33 Postdoc vs PhD: Increased responsibility, mentoring, and leadership
+00:16:58 Mentoring Strategy: Advising BSc/MSc topics and evaluating PhD proposals
+00:23:08 DIMA Research Programs: Nebula Stream (IoT/stream processing) and Agora infrastructure
+00:24:15 System‑Driven Research: From Apache Flink legacy to new Nebula stream systems
+00:24:55 Spotting Research Trends: Conferences, reviewing, and community roadmaps
+00:28:30 Industry Engagement: Interfacing academic research with industry needs
+00:30:27 Peer Reviewing: Invitations, visibility, and networking in academic service
+00:33:38 Beyond Performance Metrics: Usability, energy, adoption as research priorities
+00:36:21 Data Cleaning Research: Automation challenges and evaluation difficulties
+00:38:40 Multidisciplinary Collaboration: Remote sensing, neuroscience, and cross‑domain work
+00:41:10 Facilitating Cross‑Group Collaboration: Physical spaces and informal interactions
+00:44:17 Preparing for PhD Applications: Field choice, research quality, and AI/ML trends
+00:47:06 Master's Thesis Selection: Advertised topics, mentor fit, internships and skill alignment
+00:52:07 Deciding on a PhD: Trial research in Master’s or internships before committing
+00:54:59 PhD Expectations: Publication requirements and top‑conference pressure
+00:55:19 Increasing Female Participation in CS: Early outreach, role models, institutional support
+01:00:51 Personal Reflections: Stereotypes, belonging, and career persistence
+01:01:54 Contact and Follow‑Up: DIMA page and email for questions
+01:02:02 Episode Conclusion and Thanks

@@ -1,0 +1,21 @@
+00:00:00 Introduction & Live Chat Poll Results
+00:02:29 Guest Introduction: Andrey Shtylenko, Honeywell
+00:03:16 Career Journey: Startups, Organizational Development, and Honeywell
+00:08:54 Honeywell Use Cases: Smart Sensors, Computer Vision, and Robotics
+00:11:22 Defining Organizational Data and Machine Learning Practices
+00:13:46 Challenges of AI Adoption in Traditional Industrial Companies
+00:15:42 Sensorization and Cloud Processing to Enable Advanced Models
+00:19:06 Reporting Line Impact: CTO vs CIO vs CMO vs CEO
+00:24:26 Data Practice Maturity Model: Crawl → Walk → Run
+00:32:00 POC Strategy: Single End-to-End Project to Prove Value
+00:38:26 Centralized Team: Roles, Tooling, and MLOps Standardization
+00:43:39 Transition Risks: Centralized vs Decentralized Approaches
+00:46:04 Embedded Teams: Reporting Structure, Ownership, and Trust
+00:48:13 Hybrid Hub-and-Spoke Model: Balancing Autonomy and Standards
+00:50:14 Shared Services: Experiment Tracking, Annotation, and Procurement
+00:51:47 Recommended Reading and Resources for Building Data Teams
+00:52:39 Career Pivot: From Software Engineer to Data Scientist Internally
+00:55:07 Timing and Strategies for Internal Role Transitions
+00:56:44 Research vs Production: ML Engineers and Productionizing Models
+00:59:44 Career Advice: Expanding Scope to Increase Organizational Impact
+01:01:33 Connect with Andrey: LinkedIn and Follow-up Resources

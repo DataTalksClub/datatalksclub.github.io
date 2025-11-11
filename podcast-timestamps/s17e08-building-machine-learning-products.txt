@@ -1,0 +1,26 @@
+00:01:47 Guest Introduction: Daniel, Superlinked, and VectorHub
+00:02:29 Career Journey: Competitive programming, startups, and YouTube Ads
+00:06:20 Competitive Programming to Infrastructure: relevance of algorithms
+00:08:00 Defining Search: Information retrieval as a decision problem
+00:09:10 Search vs Recommenders: Representation learning overview
+00:10:45 Search Constraints: Latency and user experience impact
+00:11:29 Text Search Fundamentals: Inverted index and Lucene basics
+00:12:45 Search Architecture: Candidate generation (retrieval) and ML ranking
+00:17:40 Indexing Documents: Practical tools and why not to hand-roll indexes
+00:20:02 Keyword Search Challenges: Brittleness, synonyms, and rule complexity
+00:21:55 Vector Search Fundamentals: Embeddings as shared representations
+00:29:00 Vector Compute vs Storage: Embedding generation and ingestion pipelines
+00:33:13 Multimodal Embeddings: Images, text, CLIP, and modality fusion
+00:34:00 Hybrid Search: Combining vector similarity with filters and recency
+00:38:50 Feature Fusion: Encoding metadata, behavior, and popularity into vectors
+00:39:53 Expressing Constraints: Translating filters and business rules to vectors
+00:41:56 Time Encoding in Embeddings: Timestamps, positional encodings, and decay
+00:45:11 Query-Time Weighting: Normalization, weights, and context-specific tuning
+00:47:37 LLMs vs Specialized Encoders: Prompting trade-offs and efficiency limits
+00:49:36 Learning Resources: VectorHub tutorials, graph and multimodal examples
+00:52:35 Vector DB Selection: Vendor comparison and trade-offs
+00:55:53 Monolithic vs Specialized Systems: Lucene/elasticsearch versus dedicated VDBs
+00:58:17 E‑commerce Personalization: Prototyping with embeddings and CLIP
+01:01:25 Search Metrics: Business KPIs, A/B tests, and revenue attribution
+01:03:50 Operationalization: Enabling engineers, offline tests, and fast iteration
+01:06:48 Episode Recap and Closing

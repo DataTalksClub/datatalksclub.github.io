@@ -1,0 +1,35 @@
+00:00:00 Podcast Introduction
+00:01:47 Guest Introduction: Daniel Svonava, Superlinked & VectorHub
+00:02:40 Career Highlights: Internships, YouTube Ads, and Startups
+00:04:59 Competitive Programming Influence on Engineering
+00:06:20 Framing Search: Decision Problem & Relevance
+00:09:10 Information Retrieval vs Recommender Boundaries; Representation Learning
+00:11:29 From Bag-of-Words to Dense Vector Representations
+00:12:45 Inverted Index Mechanics, Candidate Generation & Ranking
+00:16:45 Practical Indexing: Document Chunking and Ingestion
+00:17:40 Use Existing Engines: Lucene and Open-source Tools
+00:18:49 Index Data Structures: Trees, Alphabetical Ordering, and Lookups
+00:20:02 Search Maintenance: Brittleness, Synonyms, and Configuration Debt
+00:21:55 Multi-modal Retrieval and Personalization Requirements
+00:27:21 Vector Databases: Storing Embeddings and Nearest-Neighbor Search
+00:29:00 Vector Compute: Ingestion Encoding vs Query-Time Encoding
+00:30:22 Pipeline Challenges: Recomputing Embeddings and Model Versioning
+00:32:43 CLIP Example: Text-to-Image Cross-modal Search
+00:33:13 Embedding Strategy Changes: Model Swaps and Pipeline Flexibility
+00:34:00 Hybrid Search: Combining Vector Similarity with Filters and Recency
+00:36:21 Custom Embeddings, Ranking Models, and MLOps Trade-offs
+00:38:11 Multi-embedding Design: Titles, Content, Images, and Behavioral Signals
+00:39:53 Expressing Constraints: Lucene Must/Should vs Vector-query Approaches
+00:40:48 Recency and Bias: Encoding Time and Applying Weights in Embeddings
+00:41:56 Timestamp & Positional Encoding Techniques in Vector Space
+00:45:11 Normalizing Components and Late-binding Query Weights
+00:46:18 LLM Contexting: Prompted Timestamps and Limitations
+00:47:37 Limits of LLM-only Retrieval; Value of Specialized Encoders
+00:49:36 Resources & Tutorials: VectorHub Guides on Combining Modalities
+00:52:35 Vendor Selection: Vector DB Feature Comparison and Trade-offs
+00:54:56 When to Use Lucene/Elasticsearch vs Dedicated Vector Databases
+00:57:48 E-commerce Strategy: Prototype with Embeddings for Mid-size D2C
+00:58:17 Rapid Prototyping with CLIP and Steps to Productionize
+01:01:25 Measuring Search Impact: Business Metrics, A/B Testing, and USD
+01:03:50 Operational Metrics, Offline Evaluation, and Empowering Engineers
+01:06:48 Closing Remarks and How to Connect with Daniel/VectorHub

@@ -1,0 +1,28 @@
+00:00:00 Podcast Introduction
+00:01:05 Episode Overview: From Software Engineer to Data Science Manager
+00:01:37 Early Career & Education: Aspiring Doctor, Electronics Bachelor, Informatics Master
+00:03:12 Fraunhofer Research Assistant: Computer Vision and Car Dent Detection
+00:06:31 Search Engineering at OLX: First Day Firefighting and Team Onboarding
+00:08:42 Solr Autoscaling: Root Cause, CPU Load, and Scheduled Scaling Fixes
+00:10:37 Decoupling Search from Monolith: Proposal, Implementation, and Experiment Velocity
+00:14:30 Tech Stack for Search: Kotlin Services, Python Satellites, and ML Integrations
+00:15:13 First ML Project: Master’s Thesis on Neural Networks for Energy Forecasting
+00:18:58 20% Time Success: Spellchecker Attempt, Word2Vec, and Recommendation System Wins
+00:20:47 Learning Approach: "Act Before You Think" and Building Practical ML Experience
+00:21:58 Safety Nets for Experimentation: Feature Flags, Backups, Monitoring, Experimentation
+00:25:11 Path to Management: Opportunity, Promotion, and Timing
+00:26:28 Internal Hiring Process: Panel Interviews, Feedback, and Internal Candidate Dynamics
+00:30:25 People Management Skills: Conflict Resolution, Hiring, and Business Metrics
+00:33:46 The Brag List: Documenting Leadership Evidence for Interviews
+00:36:16 Transition Pain Points: Dopamine Loss, Dropping Hands‑On Coding, and Withdrawal
+00:40:48 Managing Momentum: Project Ownership, Milestones, and Team Coordination
+00:43:33 Transition to Data Science Management: Case Study Interview and Motivation
+00:44:38 Trust & Safety Work: Chat Moderation, NLP Challenges, and Fraud Detection
+00:48:21 Managerial Domain Knowledge: When ML/NLP Expertise Helps vs Coordination Role
+00:50:44 Role Shift: Greater Product Involvement and Stakeholder Influence
+00:52:52 Leveraging EM Experience to Lead Data Science Teams
+00:53:56 Transitioning from Data Engineering/Analytics to Data Science Manager: Advice
+00:57:34 Measuring Managerial Impact: Influence, Business Value, and Team Health Metrics
+00:58:36 Recommended Reading: The Manager's Path and No Rules Rules (Team Culture)
+01:00:20 Community Event: Search Meetup — "Bias in AI: How to Measure and Fix It"
+01:01:12 Podcast Closing and Final Remarks

@@ -1,0 +1,25 @@
+00:00:00 Podcast Introduction
+00:01:21 Guest Overview: Raphaël Hoogvliets and Eneco role
+00:02:34 Career Path: From agriculture to data science and MLOps
+00:08:41 Agriculture technology, scale, and sustainability trade-offs
+00:10:36 Design Choices and Long‑Term Tradeoffs in ML projects
+00:13:37 Speed vs. Robustness: trade-offs in MLOps delivery
+00:14:05 Team Coordination: why collaboration matters for ML at scale
+00:16:58 Key Team Roles: evangelists, tech translators, and technical leads
+00:23:01 Centralized MLOps as an enabling platform team
+00:25:20 Support Model: how MLOps assists product teams and ML engineers
+00:27:56 Adoption Strategy: iteration, feedback loops, and developer experience
+00:32:46 Building Trust: collecting pain points and delivering quick wins
+00:36:55 Measuring Value: KPIs, deployment frequency, and impact tracking
+00:39:06 Core Practices: CI, repo structure, parameterization, and testing
+00:42:31 Reproducibility: data versioning, traceability, and experiment capture
+00:44:22 Maturity Signals: when to introduce data versioning and governance
+00:45:10 Skill Mix: combining data science, SRE/devops, and platform engineering
+00:48:41 Getting Started: prioritize CI/CD and solve tangible pain points
+00:51:21 MLOps Toolset: experiment tracking, model registry, serving, and monitoring
+00:53:08 Dependency Management: package registries for reproducible deployments
+00:56:50 Container Strategy: Docker, Kubernetes, Databricks trade-offs
+00:57:56 Success & Failure Stories: deployment wins and integration freezes
+01:00:54 MLOps Defined: operationalizing machine learning in business
+01:01:58 Core Challenge: keeping models deployed, monitored, and maintained
+01:02:42 Closing Remarks and next steps

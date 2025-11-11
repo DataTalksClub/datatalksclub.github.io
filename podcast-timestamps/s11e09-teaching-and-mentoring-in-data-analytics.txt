@@ -1,0 +1,25 @@
+00:00:00 Podcast Introduction
+00:01:08 Guest Overview: Irina Brudaru — teacher, curriculum developer, mentor in data analytics
+00:02:13 Career Origins: early computing, Romania education, Max Planck research
+00:03:41 Industry Transition: data consulting, BI, Google and product analytics experience
+00:06:16 International Roles & Management: San Francisco, Netherlands, Berlin; leading data teams
+00:08:57 Early Mentoring Wins: mentoring family, interns, and career pivot stories
+00:09:34 Mentoring Methods: visual explanations, learner-centered teaching techniques
+00:09:57 Community Teaching: NGOs, bootcamps, and FrauenLoop volunteer work
+00:13:18 Curriculum Design for FinTech: AI Guild program planning and certification integration
+00:14:56 Curriculum Components: fraud, chargeback, ML in production, and business skills
+00:18:27 Instructor Sourcing & Storytelling: finding teachers and teaching data storytelling
+00:22:14 Fraud Detection & Chargeback Modeling: rule-based vs neural approaches in FinTech
+00:25:43 Hands-on Cloud Teaching: BigQuery labs, student cloud access, demystifying Google Cloud
+00:28:54 Overcoming Cloud Reluctance: focusing on essential cloud skills for analysts
+00:29:51 Managerial Scope: balancing analytics, data engineering, and technical credibility
+00:31:50 Cohort Analysis Explained: retention metrics, product analytics visualization
+00:35:34 Path to Formal Teaching: outreach, invitations, and joining teaching programs
+00:38:49 Gender Diversity Research: plans to analyze company data for inclusion insights
+00:41:16 Recruiting Women to Zoomcamps: targeted outreach, partnerships, and scheduling considerations
+00:45:24 Securing Technical Feedback: finding reviewers, advocating for code review processes
+00:49:39 Learning Antipatterns: ML hype, overengineering, and tool-centric approaches
+00:54:46 Career Transition Advice: moving into data science from non-technical roles
+00:58:08 Core Analyst Fundamentals: SQL, data visualization, soft skills, and product tracking
+01:00:32 Community Partnerships: collaborating with Women in Tech groups and volunteer orgs
+01:01:06 Episode Wrap-up and Contact Info

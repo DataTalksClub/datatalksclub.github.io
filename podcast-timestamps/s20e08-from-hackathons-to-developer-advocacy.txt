@@ -1,0 +1,28 @@
+00:00:00 Episode Opening & Guest Overview
+00:03:21 Video Production Setup: Camera, Lens & Webcam Workflow
+00:05:43 Audio Setup: Microphone, Preamp & Pop Filtering
+00:06:55 Lighting Strategy: 45° Key Light & Background Separation
+00:10:41 Early Career & Hackathon Discovery
+00:11:46 Hackathons as Learning: Git, Teamwork & Building Projects
+00:12:16 Open Source Education Programs: Path from Contract to Full-Time
+00:16:04 Organizing Hackathons: Leadership, Coordination & Soft Skills
+00:20:07 Career Trade-offs: Maintaining Technical Depth vs. Community Work
+00:22:02 Role Variety at Small Companies vs. Specialized Teams
+00:23:18 Running Hackathons: Format, Online Tools & Office Hours
+00:25:26 Judging Strategies: Scoring Matrices, Categories & Tie-Breakers
+00:26:14 Sponsor-Driven Challenges & Themed Categories
+00:29:44 Case Study — Willmojis: Image Recognition, Font Generation & Demo
+00:33:39 Major League Hacking (MLH): Community Support & Rep Experience
+00:35:43 MLH Fellowship: Mentorship Model & Contributing to Large Repos
+00:39:02 Contribution Best Practices: PR Quality, Git Skills & Onboarding
+00:41:16 Onboarding Complex Projects: Environment Setup & Maintainer Collaboration
+00:43:40 Hardware Constraints & Cloud Workarounds (Colab, VMs)
+00:46:02 Program Scalability: Repeatability, Budgets & AI Opportunities
+00:48:10 Fellowship Accessibility: Students, Career Changers & Motivation
+00:49:14 Developer Advocacy at Kestra: Documentation, Demos & Outreach
+00:51:49 Content Workflow: Bullet Points, Demos & Collaboration with Writers
+00:53:40 Video Strategy: Define Goal, Maintain Pace & Full Walkthroughs
+00:54:30 Feature Demo Example: "After Execution" Notifications in Workflows
+00:57:22 Learn with Kestra Series: Tool Tutorials (Docker, Postgres, Git)
+00:59:59 Leadership & Team Empowerment Recommendation: "Turn the Ship Around"
+01:01:29 Episode Closing & Call to Explore Kestra Content

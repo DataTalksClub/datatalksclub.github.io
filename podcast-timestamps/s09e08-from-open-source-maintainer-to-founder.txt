@@ -1,0 +1,23 @@
+00:00:00 Podcast Introduction
+00:01:39 Guest Introduction: Will McGugan, Python Open Source Maintainer
+00:02:07 Career Path: From Video Games to Textualize Founder
+00:04:18 Early Open Source Tools: BBCode Parser & Chess Libraries
+00:06:52 PyFilesystem: Virtual File System Abstraction (fs)
+00:09:35 S3 Integration: S3Fs and Cloud File Interfaces (Pandas integration)
+00:11:29 Project Origins: Solving Personal Needs & Learning by Building
+00:15:07 Freelance Career: Contracting, Long-Term Contracts, and Independence
+00:17:48 Open Source as Creative Outlet: Freedom Beyond Client Work
+00:19:26 Rich Library: Terminal Styling, Tables, Progress, and CLI UX
+00:24:36 Rich for Observability: Log Formatting and Readability
+00:26:39 Textual Framework: Building Terminal GUIs on Rich
+00:28:08 Founding Textualize: Pre-Seed Fundraising After Tweeting
+00:31:40 Building in Public: Social Media, Demos, and Community Growth
+00:37:18 Team & Roadmap: Early Hires, Roles, and Product Vision
+00:38:32 Business Model: Web Hosting for Terminal Apps & Generous Free Tier
+00:41:33 Market Comparison: Streamlit Analogy and Positioning
+00:44:38 Hiring Signals: Open Source Contributions as a Recruiter’s Lens
+00:46:00 Development Workflow: GitHub Projects, PR Reviews, and Releases
+00:49:37 Community Channels: Discourse, Discord, and How to Contribute
+00:50:05 Project Promotion: Getting GitHub Stars and Viral Reach
+00:57:20 Advice for New Open Source Authors: Solve Your Own Problem
+00:59:31 Closing & Contact: Find Will on Twitter and Textualize links

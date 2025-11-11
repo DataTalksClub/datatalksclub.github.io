@@ -1,0 +1,27 @@
+00:00:00 Podcast Introduction
+00:02:57 Introduction: Developer Advocacy for Data Science — Elle O'Brien (Iterative, DVC, CML)
+00:04:10 Background: Neuroscience research, PhD, and computational modeling
+00:07:50 Teaching focus: Applied Data Science curriculum & research reproducibility
+00:09:33 Career pivot: Viral StyleGAN project to DevRel role at Iterative
+00:12:20 Role scope: product work, CML, docs, PRs, videos, and hiring
+00:15:02 Prioritization as a solo DevRel: scheduling releases vs evergreen content
+00:16:44 Release promotion: real‑time engagement on Hacker News, Reddit, and social media
+00:17:54 Managing toxicity: choosing communities and setting boundaries
+00:19:47 DevRel job realities: content creation, community management, and support trade‑offs
+00:23:51 Community feedback: being the product signal and user insight channel
+00:26:01 Community metrics: signals, analytics, and full‑time analysis potential
+00:27:04 Role distinctions: DevRel, developer advocate, and evangelist explained
+00:28:55 Risks of DevRel: online abuse, burnout, and public scrutiny
+00:31:25 Safety practices: anonymity, moderation, and peer solidarity
+00:34:28 Rewards of DevRel: visibility, speaking invites, and career opportunities
+00:36:51 Core skills: technical credibility, rapid learning, and clear communication
+00:39:31 Nontechnical pathways: learning in public and building a portfolio
+00:42:12 Getting started: blogging, tutorials, Twitter, and content examples
+00:43:25 Backgrounds & personality: creativity, humor, and relatability in DevRel
+00:45:15 Assessing fit: hobby vs job, community inclination, and time commitment
+00:48:06 Audience growth: metrics, growth‑hacking versus sustainable strategies
+00:50:19 Branding & engagement: mascots, tone, and consistent visuals (Divi owl)
+00:52:06 Teaching & DevRel synergy: curriculum design and reusable video content
+00:54:46 University plans: recording lectures and open educational resources on YouTube
+00:56:39 Closing thoughts: encouraging diverse DevRels and where to follow Elle (Twitter, YouTube, LinkedIn)
+00:58:12 Episode Wrap‑up and Farewell

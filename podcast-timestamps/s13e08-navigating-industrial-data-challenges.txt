@@ -1,0 +1,30 @@
+00:01:23 Episode Intro: Guest Overview & Synthetic Tabular Data Focus
+00:02:38 Career Pivot: From PhD Algebraic Topology to Industry
+00:05:52 Academic Roots: 3D Topological Models and Research Background
+00:07:48 Mathematical Mindset: Logical Reasoning, Proof-Style Thinking for Data
+00:09:31 Transition Challenges: Seniority vs Domain Experience in Industry
+00:10:45 Defining Industrial Data: Production-Generated Datasets Explained
+00:12:23 Industrial Data Spectrum: R&D Experiments, Pilot Plants, Full Production
+00:15:10 Process Example: Blue Paint R&D, Automation, and Scale-Up
+00:16:08 Long-Term Quality Testing: Weathering & the Florida Paint Test
+00:17:29 Industrial vs Internet Data: Fixed Sensors and Heterogeneous Equipment
+00:18:42 Process Illustration: Packing Peanuts Production and Sensor Choices
+00:22:17 Data Granularity & Traceability: Batching, Mixing, and Coarseness Challenges
+00:24:53 Business Use Cases: Quality Control, Predictive Maintenance, Monitoring
+00:27:37 Quality Measurement Methods: Inline Monitoring vs Destructive Tests
+00:28:54 From Alerts to Action: Anomaly Detection and Human Decisioning
+00:31:10 Regulatory & Sustainability Tracking: New Requirements and Data Gaps
+00:35:35 Tiny Data R&D: Reformulation and Experimental Design After Regulation
+00:38:20 Reusing Historical Experiments: Informing Product Redevelopment
+00:39:00 Industrial Data Types: Ingredients, Spectra, Material Properties, Tests
+00:41:48 Proxy Metrics & Application Tests: Measuring End-Product Behavior
+00:44:46 Optimization Problems: Logistics, Mathematical Solvers, Trade-offs
+00:49:21 Modeling Small Data: Statistical Methods, Transfer Learning, Domain Experts
+00:50:44 MLOps Fit: Sparse R&D Models vs High-Volume Production Deployments
+00:52:03 Production-Scale Data: Streaming, Big Data Processing, Real-Time Alerts
+00:54:10 Domain Knowledge Value: Tacit Expertise Beyond the CSV
+00:55:44 Collaborative Workflow: EDA, Definitions, and Aligning Measurements
+00:57:06 Learning Resources: Sensor Datasets and Semiconductor Anomaly Repos
+00:59:05 Career Motivation: Choosing Industry Over Academia
+01:00:40 Industry Work Culture: Shop Floor Interactions and Research Flavor
+01:02:30 Conclusion: Key Takeaways and Next Steps

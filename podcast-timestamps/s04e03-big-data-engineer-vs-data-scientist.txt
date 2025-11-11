@@ -1,0 +1,31 @@
+00:01:52 Episode Overview & Guest Introduction
+00:02:28 Career Path: From Backend Java to Big Data Engineering (Scala, R&D, Captify)
+00:04:26 Core Responsibilities: Building ETL Data Pipelines, HDFS/S3, Impala
+00:06:38 Performance Focus: Spark Job Optimization & Cluster Resource Planning
+00:07:18 Big Data Tooling: Spark, S3/HDFS, Kubernetes, Prometheus, Grafana, Scala libs
+00:08:04 Storytelling in Tech Talks: "Alice" Series and Conference Presentations
+00:09:12 Role Comparison: Big Data Engineer vs Data Engineer (formats: Avro, Parquet, ProtoBuf)
+00:11:07 Essential Skills: Coding, SQL, Distributed Systems & Infrastructure Awareness
+00:13:56 Data Scientist Scope: Data Cleaning, Feature Engineering, Model Cycle & Deployment
+00:15:32 Tool Overlap: Spark & Python vs ML Libraries for Modeling
+00:16:26 Collaboration Model: File Interfaces (Parquet) and Team Structures
+00:18:54 Case Study: Recommendation System — Streaming and Batch Pipeline Design
+00:22:51 Streaming vs Batch Choices: Flink for Streaming, Spark for Batch, Parquet on S3
+00:23:40 ML Deployment Stack: MLflow, Kubeflow, Kubernetes & ML Engineer Roles
+00:24:49 Cross-Skill Expectations: What Data Scientists Should Know About Pipelines
+00:27:30 Upskilling for Engineers: Data Engineers Learning ML Inputs/Outputs (not algorithms)
+00:30:53 Transition Path: Analyst/Data Scientist → Data Engineer (coding, DBs, infra)
+00:34:53 Databases to Learn: PostgreSQL, MySQL, MongoDB, Neo4j (SQL vs NoSQL)
+00:36:07 Infrastructure Essentials: Docker, Cloud Services, Intro to Kubernetes
+00:39:09 Data Quality & Monitoring: Flow Metrics, Spikes, and Schema Change Alerts
+00:43:37 Data Documentation & Governance: Schema Descriptions, Confluence, HypeSQL
+00:46:14 Software Engineering for Data Scientists: Code Quality, Reproducibility, DB Skills
+00:48:26 Hands-on Learning Resources: Katacoda, Google Codelabs, Databricks Trainings
+00:49:29 Career Advice for Graduates: Choosing Data Engineering vs Data Science
+00:51:16 Starter Projects: Word Count, Twitter Streaming, Elasticsearch + Kibana
+00:53:28 Datasets for Practice: Wikipedia Dumps, CommonCrawl, NASA APIs, Social Media
+00:56:08 Pre-built ETL Platforms vs Custom Pipelines: Trade-offs & Scalability
+00:58:05 Operational Challenges: Deduplication, Historical Reprocessing, Risk Management
+01:00:25 Data Versioning & Time Travel: Delta Lake for Reprocessing and Auditing
+01:00:40 Learning Recommendations: Coursera Big Data Specialization; Spark & Data books
+01:02:34 Guest Links & Talks: Twitter, LinkedIn, YouTube (Alice & Kubernetes talks)

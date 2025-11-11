@@ -1,0 +1,19 @@
+00:01:55 Episode Introduction: search focus and guest overview
+00:02:38 Background & career beginnings in information retrieval
+00:04:42 Early search stack: Solr, Lucene and the Semantic Web era
+00:09:18 NLP and search: matching queries to content
+00:11:29 Search consulting & teaching: Lucidworks and OpenSource Connections
+00:17:01 Vector databases overview: Qdrant and plug‑and‑play vector search
+00:20:27 Migration decisions: vectors in existing search vs. standalone DBs
+00:23:00 Evolution of search: NLP, personalization, learning‑to‑rank and LLMs
+00:30:38 RAG concepts: retrieval plus generation to reduce LLM hallucinations
+00:35:49 Building a chatbot from podcast transcripts and Whisper
+00:38:24 Ingest strategy: chunking, overlap, embedding models and vectorization
+00:41:32 Orchestration tools: Langchain’s role in RAG pipelines
+00:42:49 Retrieval → augmentation → generation: prompt design and citations
+00:48:09 RAG evaluation: multi‑level metrics, offline tests and human‑in‑the‑loop
+00:50:52 Evaluation reading: Human‑in‑the‑Loop and practical methodologies
+00:52:07 Vector databases for ML: session‑based recommendations and re‑ranking
+00:54:54 Personalization approaches: session‑based vs collaborative filtering
+00:57:50 Learning resources: Intro to Information Retrieval, Relevant Search, Vector Hub
+01:00:24 Episode wrap‑up, links and next steps

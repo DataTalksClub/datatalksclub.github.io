@@ -1,0 +1,25 @@
+00:00:00 Podcast Introduction
+00:01:56 Rahul's Career Path: From ETL Developer to IoT Data Platform Lead
+00:03:32 ETL Foundations to Big Data and Open Source Tooling
+00:04:52 Data Engineering Leadership: Stakeholder Management & Prioritization
+00:07:27 Technical Credibility: Hands-on Management and Code-Level Involvement
+00:08:54 Time Allocation: Balancing Individual Contributor Work with People Management
+00:11:09 Transition into Management: Business Acumen and Seeing the Bigger Picture
+00:13:15 Core Manager Traits: Empathy, Situational Awareness, and Quality Standards
+00:14:54 Continuous Learning: Evaluating New Tools and Prototypes (example: Prefect)
+00:16:32 Onboarding Challenges: Building Trust, Prioritization, and Delegation
+00:23:15 Expectation Framework: Non‑Negotiable Deliverables vs. Stretch (Aspirational) Goals
+00:25:04 Measuring Success: Data Culture, Consumers Served, and Data Quality Metrics
+00:28:04 Data Reconciliation: Detecting Losses Between Sources and Targets
+00:29:01 GDPR Strategies: Dynamic Data Masking and Role-Based Access Control
+00:30:50 Modeling at Scale: Moving from ETL to ELT, Data Lake, and Data Lineage
+00:33:39 Manager Transition Advice: Prioritize Business Impact and Enable Team Growth
+00:35:38 Sustaining Relevance: Automate Monotony and Improve Throughput
+00:38:36 Essential Data Engineering Skills: SQL, Python, CI/CD, Cloud, and Ownership
+00:41:00 Interview Screening: Communicating Projects Clearly in Five Minutes
+00:44:48 Hiring Assessment: Hypotheticals, Leadership Traits, and Future Potential
+00:47:13 Top Hires: Due Diligence, Cultural Fit, and Assertiveness
+00:49:35 Filtering Buzzwords: Ask for Context, Alternatives, and Real Use Cases
+00:54:34 Advice for Students: Master DBMS, SQL, and Fundamentals Over Specific Tools
+00:57:29 End-to-End Data Pipeline Overview: Ingestion, Central Hub, Exposure, Monitoring
+00:59:59 Closing Remarks and Connect with Rahul on LinkedIn

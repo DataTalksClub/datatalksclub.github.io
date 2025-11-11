@@ -1,0 +1,24 @@
+00:00:00 Podcast Introduction and Episode Overview
+00:01:10 Guest Background: From Design Student to Data Scientist
+00:04:20 Career Pivot: Teaching, Consulting, and Early AI Courses
+00:06:10 Role Explained: Research Advocate Responsibilities
+00:08:00 Company Overview: Rasa's Open Source Conversational AI
+00:09:30 Defining Open Source: Pragmatism and Community Reciprocity
+00:11:45 Common Mistakes: Publishing to PyPI Prematurely
+00:13:10 Origin Stories: How Small Tools and Curiosity Spark Projects
+00:15:00 Project Showcase: evol, clumper, memo, whatlies, scikit-lego
+00:17:15 scikit-lego Deep Dive: scikit-learn–Compatible Pipeline Components
+00:19:00 Design Principles: Low-Maintenance APIs and Ecosystem Compatibility
+00:20:30 Creative Naming: Purpose-Driven Project Names and Team Energy
+00:22:20 Documentation Checklist: README, Guides, API Reference, Examples
+00:24:10 Community Stewardship: Contribution Guides and Polite Interaction
+00:25:50 First Contributions: Filing Reproducible Issues and Small Fixes
+00:27:40 Preparing Code PRs: Testing, CI, Packaging, and Pre-commit Hooks
+00:29:30 Finding the Right Project: Large vs. Small Repositories Strategy
+00:31:10 Productivity Tips: Designing Before Coding and Time Management
+00:32:40 Employer OSS Strategy: Hiring, Branding, and Legal Considerations
+00:34:00 Career Growth: Talks, Blogs, Meetups, and OSS Visibility
+00:35:30 Translating Research to Practice: Tools, Prototypes, and Byproducts
+00:36:40 Future Focus: Building Personal Automation with Rasa
+00:37:30 Resources: calmcode.io, Project Repositories, and Contribution Paths
+00:38:00 Episode Wrap-Up and Final Advice for New Contributors

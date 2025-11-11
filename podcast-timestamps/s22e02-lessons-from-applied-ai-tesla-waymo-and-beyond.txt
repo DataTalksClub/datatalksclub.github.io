@@ -1,0 +1,28 @@
+00:00:00 Podcast Introduction
+00:01:33 Guest Bio & Career Overview: Finance to Self-Driving AI
+00:02:51 Morgan Stanley: Big Data Engineering & Transition to ML
+00:03:55 Carnegie Mellon: Research Focus & Computer Vision Projects
+00:05:39 AI Guide Dog: Mobile Navigation for the Visually Impaired
+00:09:14 AI Guide Dog: Beta Testing, Iterative Development, Hardware Constraints
+00:11:22 Sensor Tradeoffs: LiDAR, Radar, and Cost Considerations
+00:11:58 LiDAR vs Cameras: Principles and Automotive Use Cases
+00:14:45 Tesla's Camera-First Perception: 360° Vision without LiDAR
+00:16:06 Autopilot Use Cases: Driver Assistance vs Full Autonomy
+00:19:41 Waymo Ride-Hailing: App, Service Model, and Driverless Rides
+00:19:57 Gesture Recognition for Traffic Control: Police & Construction Signals
+00:22:17 On-Vehicle Inference: Performance Constraints and Optimization
+00:23:28 Model Compression Techniques: Quantization and Speedups
+00:24:05 Malaria Mapping: AI for Social Good Using Satellite & Topographic Data
+00:27:03 Malaria Project Impact: Field Feedback and Resource Optimization
+00:29:45 Validation Pipeline: Simulation, Closed Tracks, and On-Road Testing
+00:31:02 Sensor Data Management: Collection, Privacy, and Scale
+00:32:09 Labeling Strategy: Human Annotation and Automated Labeling
+00:32:43 Model Release Cadence: Safety Checks and Staged Deployments
+00:36:12 Cross-Domain Transfer: Perception Techniques for Robotics & Drones
+00:37:18 Real-World Complexity: Edge Cases, Geography, and System Coordination
+00:43:44 Reinforcement Learning vs Perception: Roles and Practical Constraints
+00:51:28 Testing Sensitive Cases: Evaluation Stages and Inherited Tests
+00:52:53 Multimodal LLMs in Autonomous Driving: Research and Practical Challenges
+00:55:25 Career Pathways: Skills, Projects, and Entry Routes into Self-Driving AI
+00:56:24 Practical Projects & Tools: Vision Apps, LLMs, and Coding Agents
+00:58:35 Closing Remarks and Final Advice

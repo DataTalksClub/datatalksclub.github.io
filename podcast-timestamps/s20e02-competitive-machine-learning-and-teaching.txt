@@ -1,0 +1,26 @@
+00:00:00 Episode Start
+00:03:50 Guest Introduction & Kaggle Grandmaster Credentials
+00:06:28 Early Industry Roles & Open-Source Contributions
+00:08:36 MLEM Story & Tooling Anecdotes
+00:11:41 Kaggle Beginnings & Local Community Influence
+00:14:47 Balancing Competitions with University Studies
+00:15:56 Time Investment & Learning Curve on Competitions
+00:17:10 Kaggle for Skill Broadening, Domain Exposure & Interviews
+00:21:42 Competition Preparation: Iteration, Baselines & Infrastructure
+00:22:45 Applying Competition Experience to Production ML
+00:26:18 Regional Differences in Kaggle’s Career Value
+00:29:08 Collaboration Strategies: Teamwork vs. Solo Competitions
+00:31:30 Teaching Teens & Participation in AI Olympiads
+00:33:25 Transition to Teaching: From Competitor to Instructor
+00:37:57 Practical Curriculum Design: Production ML & MLOps
+00:41:10 Machine Learning System Design Projects & Real-World Work
+00:46:50 Problem-Centered Assignments: Bot Detection Case Study
+00:50:10 Teamwork, Communication & Dual Leaderboards (ML + Technical)
+00:54:10 Online Education at Scale: Coursera Course & 100k Students
+00:56:22 Teaching Platform Development & Student-Built Software
+00:57:35 Documentation, Mentorship & Industry Partnerships
+00:59:51 Demonstrating Kaggle’s Business Value to Managers
+01:01:48 Competition Essentials: EDA, Validation & No Single Trick
+01:03:11 Generative AI & AutoML: Productivity vs. Winning Solutions
+01:05:13 Career Reflections: Current Activity and Kaggle Legacy
+01:08:54 Closing Remarks & Episode Wrap-Up

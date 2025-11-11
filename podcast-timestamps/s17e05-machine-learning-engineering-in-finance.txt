@@ -1,0 +1,21 @@
+00:00:00 Episode Introduction
+00:01:35 Guest Introduction: Nemanja’s journey from Belgrade to ML Ops in Europe
+00:02:52 Guest Background: Electrical engineering, PhD experience, and early career moves
+00:08:18 Early Data Roles: PhD, Deloitte, and first paid Python work
+00:10:35 Finance Use Cases: Compliance, AML, fraud, and smart automation (document & email processing)
+00:14:57 Role Overview: ML engineering / ML Ops responsibilities in finance (CI/CD, deployment choices)
+00:18:52 Regulatory & Legacy Constraints: Slow change, legacy systems, and governance impact
+00:22:25 DevOps Governance: Release management, approvals, and building trust
+00:23:39 Integrating ML with DevOps: Adapting ML workflows to existing corporate processes
+00:27:51 On-Premises Infrastructure: Hadoop, OpenShift, hardware requests, and platform teams
+00:31:02 ML Ops on a Shoestring: Prioritization and minimal viable ML Ops strategy
+00:31:57 Minimal ML Ops Components: Dev/test/prod environments, monitoring, model registry, data versioning, reproducible pipelines
+00:35:57 Tactical Solutions: Using S3 and simple approaches as interim model registry/data versioning
+00:38:48 Project Approach: Prototyping, Agile limits for ML, and iterative groundwork
+00:41:14 Team Structure: Multiple data scientists per ML engineer and standardized deployment patterns
+00:43:39 Platform & Reuse: Internal libraries, FastAPI framework, and maintaining production apps
+00:45:04 Skills for ML Engineers: Python, Linux, networking, cloud basics, and stakeholder evangelism
+00:48:55 Career Transition Challenges: Moving from electrical engineering and sales into ML — probabilistic thinking
+00:52:51 Beginner Tech Stack: Python, SQL, Pandas/Polars, cloud basics, and job-market driven learning
+00:56:19 Learn by Building: End-to-end projects, web apps, and scraping job postings to discover in-demand skills
+00:59:04 Closing Remarks and Links to Talk/Resources

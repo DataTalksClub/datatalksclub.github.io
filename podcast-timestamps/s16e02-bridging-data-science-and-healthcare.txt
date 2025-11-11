@@ -1,0 +1,29 @@
+00:00:00 Podcast Introduction
+00:00:44 Guest Overview: Elena Stamatelou — ML researcher focused on healthcare
+00:01:45 Education & Early Career: University of Patras, Erasmus, VUB/ULB
+00:02:45 Moving to the Netherlands: Philips Healthcare internship and doctorate in data science
+00:04:43 Philips Healthcare Projects: C‑arm imaging and pregnancy monitoring
+00:06:48 Low‑Resource Pediatric Monitoring: Vital‑sign system design for Malawi
+00:07:34 Data Collection for Clinical Outcomes: linking sensors to lab results
+00:09:34 Motivation for Healthcare: choosing impact over other engineering paths
+00:11:03 Master’s Thesis: white blood cell image classification for a cell sorter (IMEC)
+00:13:13 3D Reconstruction Work: multi‑view geometry from C‑arm images
+00:15:43 Home Monitoring for Pregnancy: smartwatches, weight tracking, and midwife dashboards
+00:18:05 Research Orientation: novelty with clinical translation
+00:19:28 Ballistography Signal Research: denoising and U‑Net for infant heart rate estimation
+00:21:49 Signal Processing vs Deep Learning: filters, Fourier methods, and when to use ML
+00:24:43 Patient Acuity Scoring: vitals‑based scoring poster
+00:25:23 Regulatory & Explainable AI Challenges; annotation scarcity and data gaps
+00:28:12 Clinical Use Case: sepsis prediction from vitals and clinical data
+00:31:10 Clinical Validation & Adoption: engaging clinicians and long approval timelines
+00:33:54 Healthcare vs E‑commerce Data: offline events, timestamps, and higher risk
+00:35:45 Population Differences & Generalization: Europe vs Africa considerations
+00:39:37 Automation Impact: job displacement concerns and augmentation potential
+00:43:10 Data Infrastructure Variability: digitization, interoperability, and compact discs
+00:46:32 Incremental Adoption Strategy: visualization, feedback loops, and trust building
+00:50:50 ML Deployment Constraints: on‑device vs cloud for low‑resource settings
+00:52:45 Sabbatical & Personal Projects: reflection and next steps
+00:53:31 Transitioning into Healthcare Data Science: pathways and role types
+00:55:46 Skills Transferability: technical skills are sufficient; learn clinical context on the job
+00:56:50 Job Market & Funding: demand for healthcare data scientists and research funding
+00:58:59 Closing Remarks and Resources (publications, GitHub, LinkedIn)

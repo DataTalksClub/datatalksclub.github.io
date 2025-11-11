@@ -1,0 +1,23 @@
+00:00:00 Podcast Introduction
+00:01:45 Career overview: From data manager to data lead
+00:03:24 Early role: Sensor data aggregation & structural health monitoring
+00:05:44 Data management vs analyst: responsibilities and data discovery
+00:07:21 Automation to data engineering: ETL, scripting, and process automation
+00:09:21 End-to-end IoT pipelines: loggers, ingestion, and reporting
+00:11:27 Domain expertise: civil engineering aiding data diagnosis
+00:14:51 Adapting to cloud & IoT: learning Python, Azure, and cloud fundamentals
+00:21:01 Hiring mindset: evaluating experience, scale, and cloud adaptability
+00:22:47 Data architect role: seniority, end-to-end ownership, and modeling
+00:27:20 Architecture outcome: team alignment and optimized data processes
+00:29:56 Lakehouse layering: bronze, silver, gold and data quality expectations
+00:32:58 Analytics modeling: dimensions, facts, metrics, and stakeholder discovery
+00:36:00 Core model strategy: supporting multiple consumers and departments
+00:37:10 Role balance: hands-on engineering vs stakeholder engagement over time
+00:42:31 Empowerment & prioritization: scaling teams and aligning with business goals
+00:44:13 Staying technical: one-on-ones, demos, and hands-on proofs of concept
+00:50:45 Technology scouting: DBT, LLMs, newsletters and community curation
+00:53:28 Agile delivery: draft specs, proof of concept pipelines, and iteration
+00:57:12 Reusable templates: ingestion, transformation, and datamart patterns
+00:59:34 Design tradeoffs: reusable components vs project-specific solutions
+01:00:51 Follow-up: guest contact and LinkedIn connection
+01:01:31 Episode recap & closing

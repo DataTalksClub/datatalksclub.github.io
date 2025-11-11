@@ -1,0 +1,27 @@
+00:00:00 Episode Opening & Guest Introduction
+00:01:46 Guest Background Snapshot
+00:04:02 Origins: From Novokuznetsk, Siberia
+00:05:18 Relocation & Life in Hamburg
+00:06:02 Collider Purpose: Exploring Fundamental Particles
+00:07:30 Particle Acceleration & Detector Imaging
+00:09:35 Collider Magnets & Data Capture Scale
+00:11:15 Event Volume & Statistical Analysis in Particle Physics
+00:12:40 Roles & Specializations in Large Research Collaborations
+00:16:33 Dual Roles: Hardware Development and Data Analysis
+00:17:46 Scientific Goals & Safety Myths (Higgs, Dark Matter, Black Holes)
+00:20:35 Translating Research Skills into Industry Data Science
+00:23:40 Research Software Engineering: Version Control & CI/CD Practices
+00:24:31 Jargon Translation: Multivariate Analysis to Machine Learning
+00:26:30 Interview Challenges: Position Fit & Evolving Hiring Expectations
+00:28:00 Blue Yonder & Supply Chain AI: From Physics to Enterprise ML
+00:29:25 Career Shift: From Industry Roles to Mentoring Focus
+00:34:03 Behavioral Interview Strategies & Cultural Fit in Germany
+00:37:53 Preparing Stories & Practicing Leadership Principles
+00:41:26 Becoming a Mentor: Motivation, Rewards & Burnout
+00:44:10 Mentoring Origins: Accidental Start & Finding the Right Fit
+00:45:11 Mentoring Defined: Process, Goals & Time Commitment
+00:49:25 Approaching Mentors: Clear Goals & Manageable Requests
+00:50:52 Paid Mentorship vs. Free Communities: Pros & Cons
+00:55:44 Mentorship as Career Leverage: Promotions & Leadership Experience
+00:59:42 Finding Mentoring Communities & Platforms (MentorCruise, others)
+01:00:52 Episode Wrap-up & Key Takeaways

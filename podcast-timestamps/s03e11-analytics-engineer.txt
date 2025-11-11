@@ -1,0 +1,24 @@
+00:00:00 Podcast Introduction
+00:01:48 Guest Introduction: Victoria Perez Mola overview
+00:02:45 Career Journey: Systems engineering, ERP & finance reporting
+00:04:05 Daily Responsibilities: Data modeling, pipelines, data quality, Looker
+00:06:49 DBT Overview: SQL transformations, version control, tests, DAG
+00:10:04 Analytics Toolstack: DBT, Snowflake, Adlib ETL, Looker
+00:11:48 Transition Story: From BI/ERP work to analytics engineering
+00:14:34 Role Comparison: Analytics Engineer vs Data Analyst vs Data Engineer
+00:16:54 Role Origins & Purpose: Spotify, reducing analysts' cleaning workload
+00:20:52 Job Expectations: Example posting traits (pipelines, auditing, dashboards)
+00:26:10 Core Skills: SQL, dimensional modeling, Snowflake and tooling variance
+00:30:06 DBT Ecosystem: DBT's role in the analytics engineer movement
+00:31:09 Organizational Variability: Team setups and role definitions across companies
+00:33:02 Cross-functional Collaboration: Working with analysts, data scientists, backend
+00:36:44 Managing Bad Data & Schema Changes: DBT cleaning, macros, limitations
+00:38:53 Data Testing Strategy: DBT tests, upstream checks, warnings vs errors
+00:40:42 BI Roles vs Analytics Engineering: Overlaps with BI developer and analyst
+00:42:05 Pathway to Analytics Engineering: Software practices, Kimball, DBT learning
+00:43:39 Learning Resources: DBT tutorials and 'Analytics readings' Notion list
+00:44:52 Role Fit Signals: Enjoy modeling, quality, and best practices
+00:46:28 Job Frustrations: Enforcing guidelines, ad-hoc firefights, limited raw control
+00:48:36 Team Scale & Placement: Platform teams vs embedded analytics engineers
+00:50:46 Data Documentation & Profiling: DBT docs strengths and profiling tools (Datafold, Monte Carlo)
+00:51:30 Episode Wrap-Up & Links

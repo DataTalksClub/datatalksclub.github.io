@@ -1,0 +1,29 @@
+00:00:00 Podcast Introduction
+00:01:14 Guest Background: Tammy Liang’s career path into data
+00:04:07 Chief of Data Responsibilities: Marketing, e‑commerce, and operations
+00:06:44 Data Challenges for Sensitive Products: Social media restrictions & creative tracking
+00:07:22 First Project: Business health monitoring and dashboards
+00:08:51 Cross‑team Collaboration: Streamlining reporting and building trust
+00:10:06 Handling Resistance: Spreadsheet culture and adoption hurdles
+00:12:00 Scaling from Dashboards to Predictive Projects
+00:14:43 Model Delivery Challenges: From notebooks to production
+00:15:04 Hiring Progression: First analyst then data engineer
+00:17:11 Building a Data Warehouse to Enable Forecasting
+00:18:41 Business‑Facing Role: Hiring for adoption and communication
+00:22:32 Data Stack Overview: Stitch, GCP, dbt, Data Studio, and Notion wiki
+00:23:11 Rethinking Hiring Order: Importance of senior hires early
+00:26:26 Prioritizing Roles: Analyst, engineer, and business analyst tradeoffs
+00:29:20 Demand Forecasting: Data provision, stakeholder input, and iteration
+00:30:57 Analyst Skills: Time series and basic machine learning as advantages
+00:33:09 First‑Hire Qualities: Business alignment and leadership mindset
+00:35:38 Data Accuracy & Governance: Errors, playbook, and rebuilding trust
+00:40:09 Data Testing & Monitoring: dbt tests and regular dashboard checks
+00:41:42 Timely Insights: Operational visibility and campaign monitoring
+00:45:39 Offline Attribution: Surveys, community sampling, and measuring TV/banners
+00:47:08 Useful Data Products: Product mindset and business alignment
+00:49:00 Driving Adoption: Workshops, Q&A sessions, and building data culture
+00:50:52 Leadership Approach: Delegation, ownership, and team empowerment
+00:52:39 Resources for New Data Leaders: Communities, courses, and mentors
+00:54:09 Data For Future Podcast: Data + sustainability focus
+00:56:19 Supporting Stuck Team Members: Google, communities, and networks
+00:58:57 Closing Remarks & Where to Find Tammy (LinkedIn, dataforfuture.org)

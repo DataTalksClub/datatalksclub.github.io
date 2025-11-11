@@ -1,0 +1,21 @@
+00:00:00 Episode Kickoff & Guest Introduction
+00:02:46 Career Background: JetBrains, DataSpell, and Move into AI
+00:05:27 Origins of DStack: Reducing AI Infrastructure Cost of Ownership
+00:08:25 Cloud vs On‑Prem Costs and MLOps Limitations (SageMaker example)
+00:10:00 Cloud-to-On‑Prem Realities in the Post‑ChatGPT Era
+00:12:58 Choosing Open Source: Developer Tools, Feedback, and Community
+00:17:33 Open vs Proprietary Models: Business Models and Trade‑Offs
+00:21:37 Decentralization in AI: Privacy, Control, and Industry Fit
+00:30:16 Training at Scale: GPU Requirements and Distributed Challenges
+00:34:46 Distributed Training Stack: PyTorch, NCCL, and Communication Bottlenecks
+00:37:35 Efficiency Over Brute Force: Optimization Strategies and DeepSpeed
+00:39:30 Fine‑Tuning & Serving Models for Non–AI‑First Companies
+00:47:16 Orchestration Gaps: Kubernetes Limitations for AI Workflows and SLURM
+00:50:59 Kubernetes as the Deployment Standard vs Smaller Alternatives
+00:51:56 Hybrid Infrastructure Outlook: Cloud Dominance and On‑Prem Nuances
+00:54:31 On‑Prem GPU Coordination: SSH, Resource Contention, and Real Examples
+00:56:53 Bare‑Metal as a Service: Provisioning, Automation, and Firmware Management
+00:58:07 Edge Computing Scope: Devices, Local Models, and Definition Ambiguity
+01:00:30 Federated Learning vs Distributed Compute: Practicality and Use Cases
+01:02:51 Closing Pick: Science‑Fiction Recommendation — The Three‑Body Problem
+01:05:38 Episode Wrap‑Up & Links to DStack and Guest Resources

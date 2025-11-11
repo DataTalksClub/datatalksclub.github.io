@@ -1,0 +1,24 @@
+00:01:57 Episode Introduction: Growing Data Engineering Team & Guest Mehdi
+00:02:42 Guest background: BI, on‑prem Big Data to staff data engineer (career highlights)
+00:05:41 Defining scale‑up: hypergrowth, funding, hiring surge, speed vs quality
+00:10:21 Hypergrowth challenges: product launches, US expansion, operational strain
+00:12:30 Data platform role: enabling self‑service, onboarding, and scalability
+00:17:22 Data platform anatomy: Airflow, conventions, playbooks, and best practices
+00:20:13 Hiring for scale: prioritize senior experts and niche technology experience
+00:23:26 Event streaming practices: Kafka, schemas, schema registry, and data contracts
+00:27:05 Velocity vs growth: managing fast pace while ensuring personal growth
+00:31:07 Culture shift: evolving processes and influencing company norms
+00:35:05 Career trade‑offs: scale‑up vs enterprise vs FAANG
+00:38:12 Assessment tactics: reverse interviews to evaluate team workload and culture
+00:39:02 Junior opportunities: rapid learning, promotions, and exposure in scale‑ups
+00:40:51 Talent sourcing: employer brand, community contributions, and open source
+00:46:44 Technical content: writing, OSS contributions, and getting external feedback
+00:49:06 Community engagement: reader outreach, calls, and mentorship benefits
+00:50:17 Role evolution: generalist to specialist as teams and projects mature
+00:52:55 Work balance: platform engineering vs use‑case pipelines (~50/50)
+00:54:31 Path to senior: proactivity, broader impact, and cross‑team collaboration
+00:56:34 Casual segment: light banter about music, caps, and hobbies
+00:57:48 Creator spotlight: MehdiO DataTV, DataCreators.club, and content channels
+01:00:12 Content production: time investment, process improvements, and persistence
+01:01:53 Video editing tips: multi‑take filming, lighting consistency, and tricks
+01:02:56 Episode close: key takeaways, resources, and links

@@ -1,0 +1,27 @@
+00:00:00 Episode Overview: Switching from Marketing to Analytics Engineering
+00:00:32 Early Career & Startup Experience: London, Berlin, Movinga
+00:01:04 Marketing Role at Ecosia: Generalist Tasks and Responsibility Growth
+00:02:53 Performance Marketing: Rapid Feedback Loops and Data-Driven Optimization
+00:07:18 Career Pivot During Pandemic: Moving Toward BI and Analytics
+00:08:45 Preparing for BI: SQL Course and Marketing-Analyst Bridge
+00:09:53 Internal Pathway: Conversations with BI Team and Required Skills
+00:11:02 Core Skills: Advanced SQL, Data Pipeline Familiarity, Python Basics
+00:12:50 Transition Phase: Balancing Marketing Work and BI Projects
+00:14:14 Current Responsibilities: Analytics Engineering, Product Support & A/B Testing
+00:18:34 Data Modeling in Practice: DBT Migration and Transformation Layers
+00:20:34 Analytics Tooling Stack: Snowplow, DBT, Looker, Redshift, Airflow, Airbyte, Redash
+00:22:08 DBT Implementation: Leading a Migration Project and Data Modeling Learnings
+00:23:12 Looker & LookML Experience: Reporting and Dashboard Building
+00:24:51 Infrastructure Choices: Self‑Hosted Tooling vs DBT Cloud
+00:25:06 Role Definition: Analytics Engineer vs Data Analyst — Overlap & Organizational Fit
+00:28:40 DBT's Influence: How DBT Shapes the Analytics Engineering Role
+00:30:28 Data Modeling Theory: Wide vs Narrow Tables and Incrementalization Tradeoffs
+00:33:46 Learning Data Modeling: Practical Resources, Blog Posts and Mentorship
+00:35:30 Nontraditional Background: Classics to Data — Just‑In‑Time Learning and Udemy SQL
+00:38:27 Product Analytics Focus: Growth, Retention, RFM Analysis and NLP Experiments
+00:39:36 Domain Knowledge Advantage: Marketing Funnel, User Journey & Empathy
+00:41:50 Transition Playbook: Excel, SQL, Dashboard Practice and Small Projects
+00:45:09 Mentorship & Sponsorship: Internal Champions, Confidence and Representation
+00:50:23 Networking Channels: LinkedIn, Meetups and DBT Slack for Mentors
+00:52:10 Reading List: Analytics Newsletters & Blogs (DBT roundup, Lenny’s, Locally Optimistic)
+00:53:46 Contact & Wrap‑Up: Finding Nikola on LinkedIn and Episode Close

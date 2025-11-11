@@ -1,0 +1,28 @@
+00:00:00 Episode Introduction & Overview
+00:01:14 Guest Introduction: Polina Mosolova — Industrial PhD and Churn Prediction
+00:02:05 Career Journey: Industrial PhD to Full‑Stack Data Scientist at SAP
+00:07:19 Role Evolution: From Full‑Stack Data Scientist to MLOps Specialization
+00:09:19 PhD Practice: Building End‑to‑End ML Pipelines During Doctoral Research
+00:10:34 Dual Goals: Balancing Academic Research and Production Deliverables
+00:12:33 Dissertation Focus: Churn Prediction Informed by Organizational Trust Theory
+00:14:02 Production Challenges: Deploying Research Models in Industry
+00:17:57 Supervision & Stakeholders: Academic and Company Support Structures
+00:19:05 Research‑Industry Bridge: Academic Conferences and Summer Schools
+00:20:37 Time Management: Balancing PhD Writing with Industrial Responsibilities
+00:24:38 Finding Industrial PhDs: Prevalence, Companies, and How to Search
+00:27:41 Practical Tips: Job Postings, Language Requirements, and Application Search
+00:29:52 Organizational Trust Theory: ABI Framework — Ability, Benevolence, Integrity
+00:34:36 Pricing, Contracts, and Trust Dynamics in Subscription Services
+00:38:19 Linking Organizational Trust to Explainable AI and Feature Design
+00:41:54 Actionability: Turning Explanations into Usable Business Interventions
+00:44:03 Definitions: Interpretability vs Explainability vs Actionable ML
+00:47:22 Model Choices: Glass‑Box Models, Generalized Additive Models, Neural Additive Models
+00:49:00 Explainability Tools: Random Forest + SHAP — Explainable vs Interpretable
+00:50:47 Computer Vision Explainability: Activation Maps and Human Interpretability
+00:51:48 Summary: Interpretable Models, Explainable Outputs, and Actionable Decisions
+00:52:39 Audience Matters: Explainable Feature Spaces and Tailoring Explanations
+00:55:23 Explainable AI and Trust: User Confidence, Provenance, and Transparency
+00:57:43 LLMs and Hallucinations: Explainability Challenges Versus Tabular Models
+00:58:18 Measuring Trust: KPIs, Proxies, and Ethical Constraints
+01:00:29 Business Relevance: Practical Proxies for Trust and Prioritizing Product Ability
+01:02:41 Episode Wrap‑Up and Closing Remarks

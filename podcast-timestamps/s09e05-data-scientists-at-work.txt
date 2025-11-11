@@ -1,0 +1,23 @@
+00:01:07 Episode Introduction
+00:01:57 Misra Career Path: From Big Data Engineering to Content Creator
+00:04:11 Transition to Developer Advocate and Content Work
+00:06:29 Data Scientist Day‑to‑Day: Explaining the Role to Non‑Tech Audiences
+00:09:01 Deliverables: Trained Models, Pipelines, Reports, and Presentations
+00:10:58 Role Variants: Consultant, In‑House, and Freelance Responsibilities
+00:14:09 Unrealistic Expectations of Data Scientists in Industry
+00:15:43 Keeping Current with AI: Managing FOMA (Fear of Missing Out)
+00:20:21 DALL·E 2 Overview: Text‑to‑Image Capabilities
+00:21:41 Diffusion Models: High‑Level Explanation
+00:27:39 Staying Updated: Value of Industry Conferences over Social Media
+00:30:11 Major Challenge: Communicating Data Science Value to Stakeholders
+00:35:31 FOMA and Imposter Syndrome: Causes and Coping Strategies
+00:40:12 Learning a New Framework: Knowing When It's "Good Enough"
+00:42:47 Preferred Setup: Advantages of In‑House Data Science Roles
+00:47:33 Career Tradeoffs: Generalist Versus Specialist Paths
+00:50:32 Breaking In: Job‑Hunting Strategies for Entry‑Level Data Scientists
+00:54:31 Catching Recruiter Attention: Research, Questions, and Relevant Projects
+00:57:09 Portfolio Projects: What Hiring Managers Really Look For
+00:58:14 Real‑World Datasets: Using NYC Open Data and Dirty Data Examples
+01:01:42 Degrees vs Experience: When a Master's or PhD Matters
+01:04:28 Where to Find Misra Online and Recommended Resources
+01:05:03 Episode Closing and Further Links

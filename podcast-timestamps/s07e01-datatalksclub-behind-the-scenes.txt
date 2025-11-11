@@ -1,0 +1,23 @@
+00:00:00 Podcast Introduction
+00:00:09 Career Transition: Java to Machine Learning (Coursera, Andrew Ng)
+00:01:26 Freelancing, Master's, and first data-science roles; building data pipelines
+00:05:06 Career Lessons: step outside comfort zone; product mindset; prefer simple models
+00:06:27 Principal Data Scientist Role: internal consulting, architecture, mentoring
+00:09:36 Motivation to Start the Community: early interactions and LinkedIn outreach
+00:10:05 Community Origins: forums, landing page, first events and format inspiration
+00:16:54 Community Growth & Events: conference boost and scaling to ~9k members
+00:20:22 Content Production & Automation: planning, scheduling, Zapier, Eventbrite
+00:24:38 Event Formats: Open Source Spotlight, Minis, Book of the Week
+00:27:51 Notable Guests & Popular Episodes: Martin Kleppmann, Elena Samuylova, Santiago
+00:31:37 Monetization & Sponsorship: costs, TopCoder, Toloka crowdsourcing workshop
+00:38:22 ML Bookcamp & Machine Learning Zoomcamp: project-based, end-to-end learning
+00:39:06 Deployment Focus in the Book/Course: Flask, AWS Lambda, Kubernetes, Kubeflow
+00:42:49 Career Advice: join communities, answer questions, find mentors
+00:43:55 Motivation & Persistence: handling frustration and sustaining interest
+00:45:40 Tool Evaluation Strategy: avoid tool churn, follow lasting trends, Kedro curiosity
+00:48:56 Productivity & Workflow: public deadlines, accountability, batching work
+00:50:31 Learning by Projects & Notes: just-in-time learning, Notion, READMEs, GitHub docs
+00:53:04 Community Inspiration & Format Ideas: borrowing from ML Ops and JavaRanch
+00:55:07 Interactive Formats: live coding, office hours, ML Zoomcamp sessions
+00:55:56 Community Thanks & Future Plans
+00:56:50 Podcast Closing

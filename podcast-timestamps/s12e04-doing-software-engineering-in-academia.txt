@@ -1,0 +1,30 @@
+00:00:00 Podcast Introduction
+00:01:08 Guest Background: Johanna Bayer — Psychology to Machine Learning in Neuroimaging
+00:02:24 Academic Journey: Studies in Germany, Zurich and Move to Melbourne
+00:05:27 Teaching Open Science: Intro to Git, Homework Support and Course Structure
+00:07:39 Carpentries & Structured Beginner Curriculum for Reproducible Research
+00:08:30 Open Science Curriculum: Reproducible Manuscripts with Embedded Code
+00:10:52 Guided Onboarding to Open Source: Small Repos, Pull Requests & Turing Book
+00:12:10 What RSE Means: Software-Focused Research Outputs and Practices
+00:14:10 Academic RSE Roles: PhD Students, Methods Papers and Toolboxes
+00:16:36 Software as Research Output: DOIs, Toolboxes and Publishing Code
+00:17:10 Culture Change in Labs: Convincing Supervisors & Grassroots Hackathons
+00:20:05 Industry Lessons for Academia: Programming Expectations & Tool Adoption
+00:22:12 Experiment Tracking in Research: MLflow and Reproducibility Tools
+00:22:16 Barriers to Teaching Software Skills: Time, Expertise and Fear of Scrutiny
+00:23:54 Infrastructure Gaps: Hosting Interactive Reproducible Papers and Costs
+00:27:38 Core Coding Practices to Teach: Packaging, Environments, Formatting & Tests
+00:28:18 Learning by Doing: Brainhack, Hackathons, Community Contributions
+00:30:44 Formal Courses vs Self-Learning: Structure, Discipline and Freelancing
+00:33:04 Collaboration & Code Review: Working Alone vs Community Feedback
+00:36:05 Benefits of Open Code: Citations, Collaboration and Career Visibility
+00:37:01 Data Sharing Reality: "Data Upon Request", Access Controls and Consortia
+00:38:50 Project Case Study: Normative Brain Model — Folder Structure & Cookiecutter
+00:39:27 Applied Engineering Practices: Branching, Formatting, Versioning & MLflow
+00:42:22 Sensitive Data Practices: De-identification and Controlled Access
+00:45:24 Balancing Open Source, Hackathons and Full-Time Research Commitments
+00:47:42 Discovering Projects: GitHub Trending, Social Media & Community Platforms
+00:49:46 Contributing to Repositories: Readme, Contributing Guides, Issues & Communication
+00:52:22 Open Publishing vs Industry IP: Academic Openness and Commercial Concerns
+00:55:12 Recommended Resources: The Turing Way, The Carpentries & ML Solutions Handbook
+00:58:03 Episode Conclusion and Closing Remarks

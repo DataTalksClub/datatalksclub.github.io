@@ -1,0 +1,30 @@
+00:00:00 Podcast Introduction
+00:01:27 Episode Overview: Data Access Management & Guest Summary
+00:02:23 Guest Introduction & Career Path
+00:03:26 Consulting Background: Banks, BCBS 239 and data trauma
+00:04:40 Early Data Governance Pain: Manual tools and outdated lineage
+00:05:20 Defining Data Governance: Building trust in data
+00:06:52 Legacy Governance Problems: Top-down models and friction
+00:08:58 Data Catalogs, Dictionaries & Lineage: Purpose and differences
+00:11:20 Data Access Management Defined: Cloud consolidation and Chinese walls
+00:13:34 Ownership Models: Data teams, governance teams, and data mesh
+00:14:47 Data Engineers & Access Requests: Skill gaps and role mismatch
+00:17:18 Governance Skillset: Change management and DMBOK guidance
+00:19:48 Maturing Access Management: Incremental improvement and scaling
+00:21:50 Learning Resources: Books, Slack communities, and conferences
+00:23:03 When to Invest: Size, maturity signals, and trust erosion
+00:25:05 Start with Access Controls Early for Sensitive Data
+00:27:49 Core Processes: Access requests, approvals, reviews, revocation
+00:29:36 Churn Use Case: Catalog discovery, purpose-based access requests
+00:32:08 Privilege Creep & Best Practices: Time-bound access and revocation
+00:33:22 Regulatory Context: GDPR, privacy awareness, and EU perspective
+00:35:35 Debugging in Production: Temporary access and investigation workflows
+00:37:19 Privacy vs Security Stakeholders: DPO needs and CISO responsibilities
+00:42:20 Data Mesh & Sensitive Data: Federated governance, masking, filtering
+00:44:55 Avoiding Role Explosion: Role inheritance, reviews, and alerts
+00:46:42 Governance in DataOps: Active metadata, automated tagging, and pipelines
+00:50:08 Access-as-Code Beginnings: Terraform, IAM and early patterns
+00:53:50 Build vs Buy: Maintenance cost, connector updates, key-person risk
+00:54:42 Gradual Adoption Strategy: Visibility-first onboarding and automation
+00:55:56 Open Source Options: Raito CLI, Terraform patterns and limitations
+00:56:36 Closing Remarks & Next Steps

@@ -1,0 +1,24 @@
+00:00:00 Episode Introduction: Continuous Learning in Data Science (guest Isabella Bicalho)
+00:07:01 Career Overview: Transition from Biology to Machine Learning
+00:08:29 Statistics as Gateway to Machine Learning; Progression to Transformers
+00:09:14 Education: University of Maranhão and University of Marseille
+00:11:14 INRIA Internship: Biomarkers and Immunotherapy Prediction
+00:14:25 INRIA's Role in AI Research and France's AI Ecosystem
+00:15:55 Freelance Work: Recommendation System & Knowledge Graph Automation
+00:18:52 Career Pivot: Choosing Engineering Over a PhD
+00:22:22 First Freelance Client: CV Visibility and Networking
+00:23:39 Leveraging Open-Source & AI for Good to Gain Experience
+00:26:30 Hugging Face Community Course: Computer Vision Contributions & Review
+00:31:57 Teaching & Communication: Simplifying ML Jargon for Learners
+00:34:41 Finding Open-Source Opportunities: Communities, Docs, and Local Chapters
+00:37:26 Types of Open-Source Projects: Code, Data, and Applied Solutions
+00:40:12 Green Space Segmentation: Sentinel-2, CNNs vs Transformers, Practicality
+00:42:24 Project Work as Job-Ready Experience and Portfolio Building
+00:43:28 Soft Skills from Collaboration: Communication and Prioritization
+00:45:34 Informational Networking: Reaching Out for Role Insights
+00:49:55 Onboarding New Contributors: Low Entry Barriers and Mentorship
+00:51:34 AI Assistants in Learning: Benefits and Limitations of ChatGPT
+00:53:59 Data Like Substack: Spotlighting Women in Data and ML
+00:57:27 Featured Interviews: Bioinformatics, Fake News Detection, AI Ethics
+01:02:16 Connecting with Isabella: LinkedIn and Substack Contact Info
+01:03:42 Episode Wrap-Up and Closing Remarks

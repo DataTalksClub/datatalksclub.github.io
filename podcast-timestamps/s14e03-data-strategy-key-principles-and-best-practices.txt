@@ -1,0 +1,23 @@
+00:00:00 Podcast Introduction
+00:01:53 Guest Introduction & Current Role
+00:02:50 Guest Background & Career Path
+00:05:47 Becoming a Data Strategist: Accidental Transition
+00:08:13 Defining Data Strategy: Actionable, Flexible Plans
+00:10:13 Due Diligence & Aligning Business Goals
+00:13:28 Designing Strategy: Use Case Ideation, Feasibility & Prioritization
+00:16:21 Influence Cascade & Scope Creep in Data Products
+00:18:22 Impact Assessment, Portfolio Management & Delivery
+00:23:30 Data- and AI-Powered Products Defined
+00:24:57 DataOps Principles: Lean, Agile & CI/CD Practices
+00:27:18 Strategy Roles: Platform, AI and BI Distinctions
+00:30:02 Core Skills: Data Knowledge, Communication & Systems Thinking
+00:36:35 Path to Data Strategist: Business Fluency & Deliberate Practice
+00:39:09 Translation Skill: Explaining Use Cases to Stakeholders
+00:41:31 From Strategist to CTO: Ownership, Budgeting & Management
+00:43:46 GPT as Writing Co‑Pilot: Sidebars, Editing & Ethical Considerations
+00:47:20 GPT for Drafting: Outlines, PowerPoint & Chapter Structure
+00:51:02 ChatGPT for Data Strategy: Ideation, Prompting & Tech Guidance
+00:52:44 Pitching Strategy: Start Small with a Budgeted Use Case
+00:55:32 Baselines & Measurement: Pre- and Post-Implementation Metrics
+00:56:56 Recommended Reading: Data Strategy, DataOps & Infonomics
+00:58:32 Episode Wrap-Up & Resources

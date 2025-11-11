@@ -1,0 +1,25 @@
+00:00:00 Podcast Introduction
+00:01:31 Episode Theme: Bridging Data & Management
+00:02:30 Guest Background: Lior's data and product journey
+00:04:08 Role Defined: Data strategist as translator between business and tech
+00:07:46 Communication Tactics: Proactive alerts to maintain data trust
+00:10:48 Forecast Transparency: Confidence intervals and QA dashboards
+00:13:15 Translator Profiles: Product-minded data advocates for alignment
+00:14:20 Embedment: Sitting with business to learn workflows and needs
+00:17:33 Data-led Growth: Using data to improve recruitment, marketing, and ops
+00:20:25 Overcoming Resistance: Hackathons and side projects to prove value
+00:23:54 Lean Delivery: MVPs, iterative development, and scaling with OKRs
+00:26:17 Prototype-first: Embrace imperfect code to validate solutions
+00:29:19 Handover Strategy: Creating ownership for productionization
+00:32:42 Value over Aesthetics: Message clarity beats polish in early stages
+00:34:52 Hummus Metaphor: Quick prototype versus crafted product
+00:36:33 Non-technical Stakeholders: Explain effort in plain language
+00:39:44 Cross-team Empathy: Breaking silos through co-working and lunches
+00:42:55 Remote Collaboration: Chat-driven triggers and selective meeting use
+00:45:29 Product Perspectives: Consumers vs engineers — the hummus analogy
+00:50:50 Local Anecdote: Recommended hummus spots in Berlin
+00:51:36 Book Overview: Purpose of "Data is Like a Plate of Hummus"
+00:53:20 Strategy Foundations: Build a stable data ground before models
+00:55:49 Data Chaos: Clearing requests, educating users, and leading growth
+00:57:40 Resources & Contact: Lior's LinkedIn, Twitter, and podcast
+00:58:01 Closing Remarks and Episode Wrap-up

@@ -1,0 +1,25 @@
+00:00:00 Episode introduction & Locally Optimistic community
+00:04:40 Career journey: private equity to modern data stacks
+00:08:48 Defining the "last mile" in data delivery
+00:13:24 Modern data stack vs last-mile execution challenges
+00:16:45 Pareto thinking for analytics: 80/20 and high-leverage work
+00:20:02 Cultural barriers to adoption: incentives and behavior
+00:24:13 Trust and usability: discoverability, interpretability, and data quality
+00:26:21 Diagnosing poor adoption: treat data as a product and do user research
+00:28:42 A/B testing reporting: simplify statistics for decision-makers
+00:32:25 Product-design mindset for analytics: abstractions and personas
+00:34:00 Outcome-first design: start projects from the decision you want to enable
+00:38:15 Embedding data in meetings: mapping metrics to real decisions
+00:39:32 Low-fidelity prototyping: sketches, whiteboards, and rapid feedback
+00:41:18 Proving impact: creating measurable wins to build advocacy
+00:42:18 Measuring hard-to-track work: proxies, time studies, and practical metrics
+00:45:35 Driving change by scoping narrow slices and building momentum
+00:47:30 Identifying high-leverage questions: start with financials and cost centers
+00:49:25 Handling resistance: recruiting advocates and selling upside
+00:52:45 Growth marketing as a starter use case for data-driven change
+00:53:46 Interviewing domain experts: curiosity, rapport, and job documentation
+00:55:35 Building influence: soft skills and recommended reading
+00:58:11 Managing uncertainty: linear projects vs circular (exploratory) projects
+01:01:30 Advice for aspiring analysts: curiosity, business impact, and on‑the‑job learning
+01:03:53 Where to find Caitlin and the Locally Optimistic community
+01:04:37 Episode wrap-up and key takeaways

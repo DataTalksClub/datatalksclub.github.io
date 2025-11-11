@@ -1,0 +1,26 @@
+00:00:00 Podcast Introduction
+00:01:11 Episode kickoff and guest reintroduction
+00:01:53 Guest background: physics → healthcare → machine learning
+00:03:24 Onboarding shock at LinkedIn and industry mindset shift
+00:05:43 Ramping up technical stack as a tech lead (Scala, Spark, Kubernetes)
+00:07:30 Staff AI Engineer role: opinion, strategy, and cross-functional influence
+00:11:04 Staff engineer archetypes: deep specialist, cross-team advisor, hands-on mentor
+00:14:41 Transferring academic skills to industry leadership and roadmapping
+00:16:47 Onboarding priorities: common mistakes and faster learning
+00:17:45 Mentorship importance for onboarding and career growth
+00:19:08 Skipping mid-level roles: landing a staff position from academia
+00:21:26 Translating research leadership and grants experience to industry impact
+00:25:30 Convincing employers: framing applied projects and industry collaborations
+00:28:25 Interview journey: early failures, coding gaps, and commitment to prep
+00:29:41 Referrals and networking influence on hiring outcomes
+00:32:08 Reframing rejections as learning opportunities
+00:34:40 Coding interview strategy: LeetCode plan, timeline, and persistence
+00:39:44 ML design interviews: physics-style decomposition, blogs, and mock practice
+00:43:36 System design prep: Grokking, mock interviews, and quick study tactics
+00:48:43 Mock interviews and building a mentor network
+00:51:10 Staff involvement in MLOps, ETL, pipelines, and data team collaboration
+00:52:19 Managing heavy code review load and context switching across projects
+00:54:13 Advice for academics aiming for staff roles in industry
+00:57:40 Excitement of AI work: generative models, R&D freedom, and measurable impact
+00:59:45 Recommended books: communication, staff engineering, and leadership
+01:00:34 Episode closing and final thanks

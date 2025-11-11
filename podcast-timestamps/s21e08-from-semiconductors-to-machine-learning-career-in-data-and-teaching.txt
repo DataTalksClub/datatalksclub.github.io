@@ -1,0 +1,28 @@
+00:00:00 Podcast Introduction & Data Docs Club
+00:01:51 Guest Overview: Multidisciplinary Career Snapshot
+00:02:58 Career Pivot: From Classical Guitarist to Tech in Portland
+00:04:49 Semiconductor Onboarding: Expediter Role and Fab Floor Experience
+00:05:49 Fab Data Exposure: Millisecond Tool Logs and Process Telemetry
+00:06:16 Self-Education: Learning English and Computer Science
+00:11:44 Automation Initiative: Building a Java Tool for CMP Calculations
+00:15:23 Yield Analytics: JMP, Oracle, and Cross-Area Data Access
+00:21:02 ML Introduction: Academic AI Project and Predictive Interest
+00:23:29 Predictive Maintenance: "Wafers at Risk" Model for Yield Improvement
+00:25:16 Explainability Dilemma: Tweaking Models vs. Understanding Results
+00:29:33 Course Selection: Choosing ML Zoomcamp Cohort Experience
+00:32:22 Applied Curriculum: Deliverable ML Beyond Jupyter Notebooks
+00:34:34 Learning Support: Slack Q&A, Cohorts, and Peer Study Groups
+00:37:29 Production Focus: Flask REST API, Docker, and Google Cloud
+00:39:52 Midterm Demo: COVID Comorbidity Model Deployed as an API
+00:44:36 Infrastructure Automation: Terraform and MLOps Takeaways
+00:48:24 Computer Vision Project: Butterfly Image Classification (TensorFlow)
+00:51:10 Kaggle Workflow: EDA, Feature Engineering, and Model Iteration
+00:51:53 Model Portability: ONNX for Framework Interoperability
+00:53:23 Full-Stack ML Skills: Docker, VMs, Databases, and Deployment
+00:54:25 Common Roadblocks: Mac M1 Issues and Wide Categorical Data
+00:56:02 Time Commitment: Homework Strategy and Active Video Learning
+00:58:07 Community Value: Rapid Help, Code Reviews, and Study Groups
+01:00:31 Motivation Techniques: Public Learning and Project Accountability
+01:07:36 Teaching Ambition: Creating High-Quality Spanish ML Content
+01:10:28 Upcoming Offerings: AI-for-Developers, React, and LLM Coding
+01:12:49 Closing Remarks: Course Endorsement and Next Steps

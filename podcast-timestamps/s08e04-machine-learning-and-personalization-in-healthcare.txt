@@ -1,0 +1,20 @@
+00:00:00 Podcast Introduction
+00:00:38 Career Snapshot: Developer to AI & Data Leader
+00:02:08 Building AI Teams at King and H&M
+00:06:07 Machine Learning in Healthcare: Diagnosis, Drug Discovery & AlphaFold
+00:10:02 Sidekick Health Overview: Gamified Digital Therapeutics & Quality‑of‑Life Goals
+00:15:04 Behavioral Design & Habit Formation: Low In‑App Time Strategy
+00:19:27 Building Data Culture: Metrics, Buy‑in, and Responsible Experimentation
+00:25:43 Engagement & Rewards: Charity Incentives vs. Leaderboards
+00:27:02 Analytics Foundation: Data Pipelines, Dashboards & Experimentation Capabilities
+00:29:33 Remote Monitoring & Wearables: Activity and Heart‑Rate Variability
+00:31:41 Data Privacy & Ethics: GDPR/HIPAA, De‑identification, and Empathy
+00:35:39 Personalization Strategy: Agenda‑Driven Recommender Systems
+00:39:57 A/B Testing as Personalization Foundation: Segmentation & Iteration
+00:43:00 Experimentation Platform: Variant Availability and Measurement
+00:45:29 Clinical Trials vs. App Experiments: Scale, Cost, and Bias
+00:49:25 Data‑Driven Tradeoffs: Speed over Perfection in Healthcare Analytics
+00:51:55 Managing Medical Risk: Safeguards for Safe Experimentation
+00:53:21 Hiring & Scaling: Growing the Data, ML and Engineering Team
+00:55:53 AI for Mental Health: Monitoring Signals and Supportive Interventions
+00:57:29 Resources & Contact: LinkedIn and Open Roles at Sidekick Health

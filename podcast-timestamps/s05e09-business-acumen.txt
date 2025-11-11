@@ -1,0 +1,23 @@
+00:01:15 Episode Introduction & Guest Thom Ives
+00:01:50 Concept-focused learning vs. detail specialization
+00:03:21 Career journey: naval nuclear program, grad school, early AI
+00:05:11 Industry roles: HP, ON Semiconductor, SaaS AI work
+00:08:52 Mentoring & community building: integrated mentoring origins
+00:09:12 Why business acumen matters for data professionals
+00:10:51 Role clarity: data scientist versus domain expert
+00:13:39 Rapid delivery & customer-centric feedback (MVP / tracer bullet)
+00:19:32 ETL reliability, data collection gaps, and advocating for clean data
+00:21:39 Shared responsibility: data governance and data literacy
+00:23:52 Data-driven vs. data-informed: definitions and practical balance
+00:28:09 Analytical skills & data storytelling before modeling
+00:31:21 Machine learning development pipeline: feature conditioning to modeling
+00:34:54 Feature scaling, selection, and engineered features for business insight
+00:40:46 Addressing collinearity with PCA and pursuing parsimony
+00:45:53 Model selection: accuracy, variance, and generalizability
+00:47:30 Monitoring models in production: data drift, concept drift, and maintenance
+00:49:28 Essential business skills: explainability, persuasion, and influence
+00:50:42 Relationship-building: informal check‑ins, lunch & beer networking
+00:55:49 Remote rapport: virtual lunches, video calls, and building camaraderie
+00:58:36 Integrated ML & AI community: structure, ethos, and free resources
+01:03:36 Joining the Slack community and accessing resources
+01:05:55 Episode wrap-up and final takeaways

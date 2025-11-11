@@ -1,0 +1,33 @@
+00:00:00 Podcast Introduction & Episode Overview
+00:02:31 Guest Introduction: Tamara’s Open‑Source Roles (Fairlearn, scikit‑learn, Skope‑Rules)
+00:03:18 Career Overview: Software Engineering to Computational Linguistics
+00:04:37 Music Tech Experience: Ableton and Push 2 Instrument Design
+00:06:41 Device Architecture: Laptop Computation vs Standalone Hardware
+00:08:56 Transition to NLP & AI: Academic Interests and Motivation
+00:10:04 Cognitive Systems Studies: Language, Neuroscience, and ML
+00:11:50 Research Path: Returning to Study and New Projects
+00:12:41 Music as Hobby: Balancing Creative Work and Research
+00:13:44 Sociotechnical Framing: Modeling Language in Social Context
+00:14:52 Fairness in AI: Credit Scoring Use Case and Real‑World Impact
+00:15:10 Empirical Findings: Gender Disparities in Credit Models (Fairlearn Study)
+00:18:14 Societal Harms: Debt, Repossession, and Downstream Consequences
+00:21:31 Fairlearn Tools: Group Fairness, Visualization, and Mitigation Methods
+00:24:04 Sensitive Group Selection: Domain‑Specific Decisions in Credit Models
+00:26:21 Limits of Automation: Human Judgment in Fairness Assessments
+00:28:52 Metric Tradeoffs: False Positives vs False Negatives and Demographic Parity
+00:31:33 Organizational Responsibility: Who Decides Fairness Tradeoffs?
+00:33:11 Practitioner Education: Frameworks, Ambiguity, and Learning Objectives
+00:35:23 Moderation Case Study: Cross‑Functional Teams and Domain Expertise
+00:37:13 Human‑in‑the‑Loop: Essential Component for Fair AI Systems
+00:39:18 Joining Probable: From Open‑Source Contributions to a Role
+00:40:57 Probable Work: Explainability, Language Models, and Library Integration
+00:42:54 Interpretability Tools: Inspection Package and Partial Dependence
+00:44:54 Cross‑Library Compatibility: Fairlearn, scikit‑learn, and Estimator APIs
+00:46:20 Scopes Library: Secure Model Persistence and Hugging Face Integration
+00:47:16 Serialization Risks: Pickle Vulnerabilities and Secure Deserialization
+00:50:54 Community Involvement: PyLadies, Sprints, and Fairlearn Events
+00:52:10 Contributing to Fairlearn: Discord, Good‑First Issues, and Sprints
+00:55:41 Development Ethos: Testing, Refactoring, and Custom Estimators
+00:56:37 Project Updates: Upcoming Fairlearn Release and Maintainer Notes
+00:57:22 Practical Quirk: Tokenization Issues Breaking "Fairlearn" in Transcripts
+00:58:14 Closing Remarks, Contact Info, and Final Thoughts

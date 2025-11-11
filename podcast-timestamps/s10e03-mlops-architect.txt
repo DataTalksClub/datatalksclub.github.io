@@ -1,0 +1,26 @@
+00:00:00 Podcast Introduction
+00:01:56 Guest Overview: Danny Leybzon, MLOps Architect at WhyLabs
+00:03:12 Career Journey: From paralegal ambitions to statistics and machine learning
+00:07:26 Prior Role: Field Engineer / Solutions Engineer experience
+00:08:11 Role Definition: MLOps Architect as technical-business bridge
+00:10:32 Architecture Advising: Tooling trade-offs and landscape navigation
+00:12:50 Role Popularity: Uniqueness of the "MLOps Architect" title
+00:13:50 Startup Reality: Wearing many hats in early-stage companies
+00:15:35 Demonstrating Versatility: Convincing employers you can do it all
+00:18:21 Hiring Story: Cross-functional interview process at WhyLabs
+00:22:04 Career Decision: Choosing startup risk for growth and learning
+00:25:04 Prioritization Strategy: Focusing on production and model monitoring
+00:27:35 Observability Scope: ETL, data pipelines, and upstream root causes
+00:28:59 Customer Profiles: Production-first vs pre-deployment teams
+00:30:39 Market Education: Shift from "why monitor" to "how to monitor"
+00:31:50 Data Profiling Architecture: WhyLogs, profiles, and Apache Druid backend
+00:34:25 Build vs Buy: Guiding customers on tooling and procurement decisions
+00:36:47 Platform Agnostic Integrations: Serving and inference tooling realities
+00:38:01 ONNX Adoption: Interoperability use cases and industry uptake
+00:39:10 Tooling Trends: Cloud-native stacks, heterogeneity, and vendor lock-in
+00:41:00 Research Focus: Fairness, bias, segmentation over explainability
+00:43:07 Productivity Habits: Inbox zero, workspace windows, and task management
+00:45:49 Career Strategy: Exploration vs exploitation and Thompson sampling analogy
+00:50:23 Skillset Advice: Coding, communication, and being an effective Googler
+00:55:50 WhyLogs vs WhyLabs: Open-source profiling vs SaaS observability
+00:58:07 Closing Remarks: Final thoughts, contact info, and upcoming workshops

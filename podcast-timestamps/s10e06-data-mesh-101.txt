@@ -1,0 +1,25 @@
+00:02:24 Podcast Introduction
+00:02:39 Guest background & career path
+00:03:17 From firmware to distributed systems: career highlights
+00:06:22 Consulting practice: building data platforms and products
+00:07:35 Enterprise data friction: long pipelines to value
+00:09:49 Data Mesh concept and core motivation
+00:09:56 Decentralized socio-technical approach: autonomy and interoperability
+00:13:20 Architectural shift: decoupling pipelines and data contracts
+00:14:55 Mesh as a graph: interconnectivity and value exchange
+00:16:34 Domain-oriented ownership and team alignment
+00:17:10 Streaming example: domain producers, consumers, and schemas
+00:22:25 Maturity spectrum: warehouse schemas versus loose coupling
+00:26:18 Optimizing for humans vs machines; federated queries and compute
+00:31:05 Minimal guarantees and metadata for discoverability
+00:32:04 Decentralized interoperability: standard seams, identity, and auth
+00:34:36 Data as a product: consumer-first guarantees and KPIs
+00:39:36 Data product contracts: quality, SLAs, and ownership decisions
+00:41:58 Self-serve data platform: developer experience and abstractions
+00:47:35 Platform federation: multiple platforms with shared standards
+00:49:25 Federated governance: policies, automation, and enforcement
+00:53:02 Governance primitives: retention, metadata, and automated validation
+00:54:48 Core understanding: why, what, and how of Data Mesh
+00:57:27 Adoption roadmap: assessment, pilots, and executive buy-in
+01:00:03 Implementations and case studies: community resources
+01:01:57 Episode wrap-up and closing remarks

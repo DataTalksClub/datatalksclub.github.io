@@ -1,0 +1,29 @@
+00:00:00 Podcast Introduction
+00:01:07 Career Snapshot: Two Decades from Game AI to AI Agents
+00:02:36 Early Research: Games for Cognitive Testing & Neural Networks
+00:03:15 Industry Experience: Consulting, Product Development, Leadership
+00:04:19 Evolutionary Algorithms in Industry Optimization
+00:05:28 Current Focus: Multi-Agent AI Support Assistants
+00:05:45 Publishing Breakthrough: Reverse-Engineering Pokémon Go & AR
+00:07:36 Sound Design & Waveform Analysis Applied to Games
+00:08:01 Reinforcement Learning Roots and Alberta Research
+00:09:09 Evolutionary Deep Learning: Hyperparameter Search & Architecture Tuning
+00:10:00 Move to NLP: Early LLM Work and Rise of AI Agents
+00:14:09 Evolutionary Algorithms for Prompt Engineering
+00:18:19 AI Agents Book: Editions, Teaching, and Vibe Coding for Games
+00:20:57 Agent Workflow Design: Minimalism and Task Decomposition
+00:23:48 Flow vs Orchestration: Sequential Pipelines and Manager Agents
+00:26:25 Collaboration Patterns: Parallel Agent Interaction & Use Cases
+00:31:31 Agent Tooling: OpenAI Agent SDK and MCP Integration
+00:33:25 Sequential Thinking Servers: Internal Reasoning & Scratchpads
+00:35:42 Coding Agents in Game Development: Practical Examples
+00:36:58 End-to-End Code Generation: GPT-5 Pro Case Studies
+00:38:57 Generative AI in Games: Procedural Content and Infinite Playability
+00:41:42 Technical Challenges: Implementing Space Invaders with Agents
+00:45:40 Local Model Trend: Running LLMs on Private GPUs
+00:46:14 Open-Source Large Models and Low-Latency Providers
+00:48:40 Model Specialization: Smaller Task-Focused LLMs Emerging
+00:55:16 Career Advice: Transitioning to AI Engineering & LLM Skills
+00:57:39 Evaluation & Monitoring: Feedback Pipelines and Tools (Arize Phoenix)
+00:58:50 Publishing Details: Second Edition and Availability
+01:00:23 Closing Remarks and Links

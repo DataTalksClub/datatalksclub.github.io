@@ -1,0 +1,27 @@
+00:00:00 Podcast Introduction
+00:01:53 Guest Introduction: Angelica Lo Duca, researcher & professor
+00:02:29 Career Journey: Cryptography to Web Applications and Data Science
+00:04:41 Data Engineering Research Interests: security and data integrity
+00:05:57 Writing Portfolio: novels, technical articles, and Comet for Data Science
+00:06:44 Query Engines: Presto, Trino, and real-world migrations
+00:07:43 Defining Data Journalism: data-driven news vs. storytelling
+00:08:01 Data Journalism vs Data Science: accuracy, methods, and scope
+00:11:11 Investigative Examples: Washington Post and international projects
+00:15:11 Data Sourcing Challenges: finding small, accurate datasets on the web
+00:16:13 Teaching Shift: how Angelica started teaching data journalism
+00:18:49 Course Audience: digital humanities students and interdisciplinary skills
+00:20:13 Tool Choices: Python scripting vs. Tableau for data journalism
+00:21:23 Learning Resources: Coursera and recommended readings
+00:24:35 Defining Technical Writing: how-to guides, clarity, and audience focus
+00:29:19 From Reports to Stories: converting survey PDFs into narratives
+00:32:25 Adding Context & Wisdom: framing data with meaning and calls to action
+00:36:20 Visualization Guidelines: one concept per chart; tables when clearer
+00:38:26 Visualization Pitfalls: why to avoid pie charts and confusing graphics
+00:39:12 Article Length & Formats: short Medium posts and the Syntax Error publication
+00:40:47 Article Workflow: problem → solution → result, with code repos
+00:43:40 Topic Sourcing: personal problems, social media, and community signals
+00:45:35 Path to a Book: publisher outreach and acquisition editor contact
+00:50:19 Book Contract & Schedule: chapter timelines, pacing, and holidays
+00:54:17 Market Research & Audience: proposal, state-of-the-art, and level targeting
+01:00:09 Editing & Reviews: reviewer feedback, overlapping revisions, and organization
+01:02:23 Episode Wrap-Up: final questions and closing remarks

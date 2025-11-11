@@ -1,0 +1,26 @@
+00:00:00 Episode Introduction & Guest Welcome
+00:01:10 From Sociology to Data Science: Election Models, Social Media & Crime Research
+00:04:02 Diverse Backgrounds as a Competitive Advantage in Data Science
+00:06:49 Hiring Pitfalls: Keyword-Driven Recruitment and Role Mismatch
+00:07:42 Curriculum Myth: Rejecting Perfection—Double Down on Unique Strengths
+00:08:31 Core Pillars: Statistics, Programming, and Domain Knowledge
+00:11:16 Qualitative Methods & Interviews: Turning Social Science into Value
+00:12:05 Proactive Task Ownership: Choosing High-Impact Assignments
+00:17:09 Learning on the Job: Growing into Management and Product Roles
+00:19:12 Explainable AI & Risky Insights: Communicating Sensitive Findings
+00:23:25 Constructive Pushback: Advising Seniors and Challenging Hierarchies
+00:28:23 Stretch Assignments: Bite Off More to Discover Your Limits
+00:30:47 Home Automation Demo: Home Assistant on Raspberry Pi
+00:31:18 IoT for Plants: Sensors, Bluetooth, Zigbee and Practical Monitoring
+00:34:31 Data Pipelines for Home Projects: Storage, Thresholds, and Alerts
+00:36:21 Coffee Machine Time Series: Turning Laziness into a Portfolio Project
+00:37:49 Portfolio Strategy: Build Unique Projects Instead of Only Doing Kaggle
+00:40:25 NGO Impact Work: Predicting & Optimizing Smallholder Farmer Yields
+00:43:08 Team Composition: Using Domain Experts and Cross-Disciplinary Skills
+00:45:59 OSINT Explained: Social Media, GPS Intel and Modern Information Warfare
+00:50:53 OSINT Applications: Mapping Reports, Evidence Gathering & Task Forces
+00:52:31 Global Ripple Effects: Ukraine, Grain Shortages and Food Security
+00:53:34 Soft Skills & Differentiation: Communication, Presence and Niche Expertise
+00:57:30 LinkedIn Growth Strategy: Timing, Content Mix, Hashtags and Comments
+01:02:24 Personal Branding Examples: Memes, Authenticity and Content Types
+01:02:57 Episode Wrap-Up & Where to Find Marijn

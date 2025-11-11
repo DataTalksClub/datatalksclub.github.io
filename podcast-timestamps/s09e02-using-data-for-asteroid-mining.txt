@@ -1,0 +1,23 @@
+00:01:23 Podcast Introduction
+00:01:51 Career & Data Science Pivot: From Astronomy to Asteroid Mining
+00:04:52 Cosmology vs. Astronomy: Timescales, Theory & Observation
+00:06:03 Machine Learning in Astronomy: Tasks, Signal Processing & Scaling
+00:07:20 Gravitational Wave Detection: Signal, Noise & Instrument Glitches
+00:12:45 Astronomical Data Types: Images, Hyperspectral Bands & Time Series
+00:14:24 Hyperspectral Spectroscopy: Infrared Signatures & Water Detection
+00:16:44 Asteroid Features: Photometry, Light Curves, Rotation & Polarimetry
+00:19:35 Spectral Classification & ML Approaches for Water Identification
+00:22:00 Ground Truth Limitations: Returned Samples, Meteorites & Validation
+00:25:42 ISRU & Water-as-Fuel: Economics and Use Cases for Space Resources
+00:30:18 Other Resources on Asteroids: Metals, Organics & Scientific Value
+00:32:12 Asteroid Origins: Main Belt, Resonances & Near-Earth Populations
+00:35:48 Observability Challenges: Angles, Dawn/Dusk Windows & Detection Biases
+00:38:13 Data Organization: Team Roles, Data Engineering & Bayesian Engines
+00:42:23 Cloud & Infrastructure: Storage, COGs/STAC and Querying Large Imagery
+00:45:26 Open Datasets & APIs: Minor Planet Center, JPL Horizons, NEOWISE
+00:49:16 Orbit Linking & Synthetic Tracking: ML for Large-Scale Detection
+00:50:54 Mission Architecture: CubeSats, COTS Components & Partnership Strategy
+00:53:22 Sampling & Extraction Methods: Scooping, Surface Interaction & R&D
+00:57:16 Mathematical Models: Bayesian Frameworks, Thermal Models & Yarkovsky
+01:00:11 Tools & Workflows: Notebooks, Reproducibility & Research Practices
+01:01:08 Get Involved: Job Openings, Links, Contact & Further Resources

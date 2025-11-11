@@ -1,0 +1,23 @@
+00:00:00 Podcast Introduction
+00:01:27 Career Path: From Technical Support to Product Design
+00:04:58 Product Design: User Research, Prototyping & UX
+00:07:04 Data Product Management: Customer Discovery & Hypothesis Formation
+00:11:38 Product Lifecycle: Discovery, Planning, Engineering & Launch
+00:15:10 Design Thinking: PM–Designer Collaboration in Ideation
+00:16:26 Transition Motivation: Moving from Design to Product Management
+00:19:38 Data-focused PM: Data Quality, PII & Compliance Considerations
+00:23:00 Core Technical Skills: SQL & Data Engineering Fundamentals
+00:24:30 Essential Traits: Data Curiosity, Documentation Literacy & Empathy
+00:26:33 Data Lifecycle: Sources, Transformation, Warehouses & Apps
+00:28:30 Transition Strategy: Networking, On-the-Job Learning & Mentorship
+00:33:00 Practical Steps: Building a Portfolio & Learning After the Switch
+00:35:51 Case Study Structure: Problem, Research, Solution & Outcome
+00:39:04 Learning Resources: Courses, Reforge & Recommended Reading
+00:46:01 Daily Workflow: Standups, Analytics, CusDev & Context Switching
+00:49:37 Customer Development: Interview Focus & Tactical Questions
+00:51:55 Key Insight: Data Teams Spend Time Educating the Organization
+00:54:09 Adopting New Tools: Documentation First, Pairing & Slack Help
+00:56:08 Product Documentation: PRDs, Customer Notes & Knowledge Base
+00:58:24 Idea Flow: Sources, Validation & Backlog Prioritization
+01:00:40 Analytics vs Data Science: Where ML Fits in the PM Role
+01:01:37 Closing Remarks & How to Reach Out

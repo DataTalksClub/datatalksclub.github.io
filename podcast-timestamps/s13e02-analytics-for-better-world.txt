@@ -1,0 +1,27 @@
+00:00:00 Podcast Introduction
+00:01:10 Overview: Analytics for a Better World mission and guest intro
+00:01:54 Career Path: From renewable energy to data science and CTO role
+00:04:38 CTO Responsibilities: Connecting nonprofits with research and tech capacity
+00:06:20 Discovery Workshops: Assessing nonprofit needs and data maturity
+00:09:29 Fellowship Case Study: Waste-collection optimization pilot in Nairobi
+00:12:33 Data Maturity Comparison: Nonprofit vs. private-sector analytics
+00:15:23 Talent & Purpose: Motivating data professionals to join the public sector
+00:17:53 Academy Structure: Programs for practitioners, analytics translators, executives
+00:20:14 Open Resources: YouTube lectures, GitHub, and open-source deliverables
+00:22:26 Curriculum Focus: Descriptive → diagnostic → predictive → optimization
+00:25:36 Audience Profile: MBA, business analytics, and technical students
+00:28:19 Student Engagement: Thesis collaborations and researcher pathways
+00:30:47 Maturity Roadmaps: Scans, short/long-term goals, and cost optimization
+00:34:06 People Dimension: Roles for data collection, analysis, and app development
+00:36:34 Process Dimension: Data governance, privacy, SOPs, and workflows
+00:38:22 Technology Dimension: Centralized data, version control, and tech selection
+00:39:28 Tool Recommendations: Dashboards, Python/R, and cloud deployment options
+00:44:18 Data Platforms: KoboToolbox, PostgreSQL, and Digital Public Goods guidance
+00:45:51 Team Profiles: Analysts, data scientists, engineers, and blended roles
+00:49:15 Data Engineering Needs: Moving from research to deployed applications
+00:50:06 Optimization Use Cases: Healthcare access and COVID testing lab placement
+00:52:50 Partnerships & Staffing: Ortec, academic partners, and on-demand talent network
+00:54:07 Organizational Model: Small core team and large extended research network
+00:55:38 Becoming Data-Driven: Strategy plus investments in people, processes, technology
+00:58:22 Recommended Reading & Daily Resources: Culture Map, 7 Habits, Towards Data Science
+01:00:00 Closing Remarks and links to Academy resources and contact info

@@ -1,0 +1,19 @@
+00:00:00 Podcast Introduction & Event Announcements
+00:01:34 Guest Overview: Transition from Medicine and Criminology to Machine Learning Career
+00:03:21 Career Trajectory: Statistician → Data Analyst → Data Engineer
+00:05:51 Skill Progression: SPSS, Excel, R, and Transition to Python
+00:06:05 Freelancing Beginnings: First Upwork Gigs and Early Projects
+00:09:08 Learning-by-Doing: Accepting Unknown Projects to Build Skills
+00:11:44 Balancing Dual Paths: Medical School and Data Work
+00:13:48 Medical Reasoning in Data Science: Probability, Reranking, and Triage
+00:14:29 Communication Skills: Improving English for Remote Work
+00:24:03 Live Cohorts & ML Zoom Camp: Benefits of Structured, Hands-On Learning
+00:27:27 Public Learning Strategy: Leaderboards, Posting, and Personal Branding
+00:30:20 Content Framing: Owning Topics (ROC, Classifier Evaluation)
+00:32:50 Recruiter Outreach: LinkedIn Visibility and Meta Interview Experience
+00:35:16 Handling Critique: Social Media Feedback and Community Engagement
+00:41:03 Portfolio Building: Notes, Notion, and Structured Content Workflow
+00:47:48 Capstone Projects: Healthcare Datasets, Dockerized Models, and AWS Deployment
+00:50:53 Community Contribution: Mentoring with DeepLearning.AI and Stanford Coding Place
+00:57:00 Time Management: Productivity Strategies for Medical Students and ML Learners
+01:00:00 Final Reflections: Consistency, Career Next Steps, and Motivation

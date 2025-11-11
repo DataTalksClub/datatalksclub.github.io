@@ -1,0 +1,29 @@
+00:00:00 Podcast Introduction
+00:01:40 Guest Introduction & Episode Overview
+00:02:25 Career Journey: Econometrics → ML Trainee → Data Roles
+00:04:31 Early Experience: OLX, Government Statistics, Academia
+00:05:20 ML Education: Multi‑Dimensional Analysis to Machine Learning
+00:06:34 Behavioral Analysis & Product Analytics: Clickstream Modeling
+00:07:08 Operational Realities: ETL Failures, Production Constraints
+00:12:40 Platform Onboarding: Requesting Infra vs. Doing a Merge Request
+00:13:07 Platform Teams’ Role: Review, Enablement, and Safe Practices
+00:14:12 Motivation Shift: From Model‑Centric to Data‑Centric Work
+00:18:59 Defining DataOps: Enabling Faster, Less Scary Data Work (DataOps, DevOps)
+00:20:56 DataOps & Infra: SQL, Secrets, GitOps, and Developer Enablement
+00:23:04 GitOps & IaC Overview: Terraform, Terragrunt, Atlantis
+00:23:42 Infrastructure as Code: Declarative Configurations & Reproducibility
+00:26:21 GitOps Workflow: Branch, Merge Request, Atlantis Dry Run, Apply
+00:27:34 Onboarding Friction: Tooling Challenges for Data Scientists
+00:29:34 Learning Path: Narrow Scope, Hands‑On Mentorship, Roadmap Advice
+00:35:55 Terminal Comfort: Shell Setup, Autocomplete, and Productivity Tweaks
+00:38:20 Learning Resources: YouTube, Articles, and CLI Tutorials
+00:40:44 DataOps vs Data Engineering: Support & Communication vs Pipeline Coding
+00:41:52 Proactive Support: Monitoring, Onboarding, and Cross‑Team Education
+00:44:23 Suitable Backgrounds: Any Data Role; Log Reading & Troubleshooting
+00:47:55 Minimal Operational Skills: Git, Command Line, IAM, Password Managers
+00:54:37 Distinction from Management: Cross‑Team Enablement vs Team Leads
+00:56:44 Infrastructure Choices for Data: Batch Workloads, ECS/AWS Batch vs Kubernetes
+00:58:26 Company‑Scale Migration: Jenkins → GitLab CI and Broad Collaboration
+01:01:27 Reproducibility & Dependencies: Fixed Versions, Docker, Silent Failures
+01:02:28 Confidence in Data: Pragmatic Edge‑Case Checks & Airflow Caveats
+01:05:41 Closing Remarks, Resources, and Subscribe Call to Action

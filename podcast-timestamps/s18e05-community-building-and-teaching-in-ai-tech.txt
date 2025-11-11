@@ -1,0 +1,27 @@
+00:00:00 Podcast Introduction
+00:01:25 Guest Introduction: Erum Afzal — AI for education & Omdena Academy
+00:02:32 Background: Journey from Pakistan to PhD & community teaching
+00:05:03 Omdena Academy: Evolution from projects to structured courses
+00:06:04 Omdena Projects: Global collaborators solving real‑world AI problems
+00:10:19 Project-to-Course Model: Teaching skills learned from projects
+00:11:32 Foundational Data Science Courses: Python, Pandas, NumPy, NLP
+00:14:32 Course Development: Instructor application, content review, delivery
+00:15:52 Business Model: Free learner courses with organizational partnerships
+00:17:38 Access Pathways: Enroll without prior Omdena membership; pathway to projects
+00:20:48 Instructor Pipeline: Open applications and project-based recruitment
+00:22:29 Course Engagement: Live sessions, selection process, graduation rates
+00:24:18 Selection & Motivation: Prereqs, availability, and incentive programs
+00:26:40 Roles & Responsibilities: Teaching focus vs community management
+00:29:48 Leadership Development: Network-building and taking initiative
+00:33:03 Community Growth Strategy: Start small and scale (AI Wonder Girl example)
+00:37:26 Communities for Career Building: Skill discovery and rapid learning
+00:40:00 Empowering Sub-communities: Regional chapters, branding, ethics
+00:42:50 Boosting Attendance: Clear takeaways and live event value
+00:46:33 Curriculum Design: Basic, intermediate, and advanced course tiers
+00:48:20 Talent Market Dynamics: Standing out amid data science competition
+00:50:56 Hiring Integrity & Tools: Originality, plagiarism, and responsible ChatGPT use
+00:52:27 How to Apply: Becoming an Omdena Academy instructor (Omdena.com/Omdena-Academy)
+00:53:23 Monetization Options: Volunteer teaching vs selling courses on platforms
+00:54:49 Access & Scholarship Resources: Courses, GitHub projects, and women‑focused support
+00:56:39 Recommended Readings: AI ethics newsletter and curated resources
+00:57:46 Episode Wrap-Up & Closing Remarks

@@ -1,0 +1,24 @@
+00:00:00 Podcast Introduction
+00:01:24 Career Origin: From Film & Coffee Roasting to Tech
+00:02:41 Community Support & Early Conference Exposure (PyLadies, meetups)
+00:06:31 Learning Path: Codecademy, Andrew Ng Course & FreeCodeCamp
+00:08:26 Funding Support: German Bildungsgutschein & Structured Study Time
+00:11:53 Open Source Fellowship: Rails Girls Summer of Code & Pair Programming
+00:15:23 Meetups to Internship: Networking That Led to Ecosia
+00:16:33 Interview Impressions: Inquisitiveness & Creating an Internship Role
+00:19:28 Career Switch Timing: Age, Concerns & Perceptions
+00:22:22 Staying Motivated: Community, Mastermind Groups & Meetups
+00:25:50 Community Organizing: Event Management, Soft Skills & Leadership
+00:27:41 Overcoming Imposter Syndrome: Jupyter Notebook Setup & Peer Support
+00:32:12 System Skills: Terminal, Dual‑Boot Linux & Hands‑on Troubleshooting
+00:34:14 Community Events: Workshops, Study Groups & Remote Formats
+00:36:12 Open Source Hack Evenings: Mentorship with scikit‑learn & Gene.ai
+00:38:03 Hybrid Events & Outreach: Remote Reach vs. In‑Person Help
+00:40:51 Organizing Benefits: Networking, Company Access & Management Skills
+00:42:54 Public Speaking: Start Small, Dry Runs & Crafting a Personal Edge
+00:46:51 Handling Q&A: Graceful "I Don't Know" & Turning Questions into Learning
+00:50:32 Speaking ROI: Visibility, Networking & Career Opportunities
+00:55:36 Ecosia Overview: Green Search Engine, Tree‑Planting Mission & Backend (Go)
+00:58:10 Diversity Challenges: Gender, Privilege & Inclusion in Tech
+00:59:53 Connect with Jessica: Twitter, GitHub & PyLadies Slack
+01:00:28 Episode Wrap‑Up and Closing Remarks

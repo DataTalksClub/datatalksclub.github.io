@@ -1,0 +1,30 @@
+00:01:56 Episode Introduction & Andreas Kretz — "Plumber of Data Science"
+00:03:19 Guest Bio: Andreas’s path from software to big data and data engineering
+00:05:43 Market Trend: Why data engineering demand is rising
+00:08:46 Hiring Strategy: Hire a data scientist and engineer early
+00:09:47 Data Scientist Growth: From notebooks to production pipelines
+00:12:03 Operational Risk: Why using many tools breaks operations
+00:13:25 Data Pipeline Anatomy: Ingestion, buffer, processing, storage, visualization
+00:15:11 Ingestion Explained: Events, message queues (Kafka, Kinesis)
+00:16:51 Processing Modes: Streaming vs. batch processing
+00:18:14 One-Person Feasibility: Tooling, cloud vs on‑prem, and schema design
+00:21:05 Practical Stack for Scientists: Python, Docker, Flask/FastAPI for prototypes
+00:22:36 Processing Frameworks Overview: Spark, Flink, Lambda, Glue, Docker jobs
+00:24:04 Data Transformation: Role of SQL and dataframe processing
+00:25:36 AWS Example: Parquet on S3 and processing options
+00:27:22 Case Study: Car price prediction — data sources and architecture
+00:31:33 Inference Strategy: Live API calls versus precomputed predictions
+00:34:16 Productionizing Notebooks: Dockerized training and model storage on S3
+00:35:46 Scheduling Options: Airflow vs CloudWatch/Lambda vs simple schedulers
+00:37:53 Model Serving: SageMaker endpoints and cost trade-offs
+00:40:01 Orchestration Patterns: Message queues for job sequencing
+00:41:06 Start Simple: Iterate from Lambda/queues to Airflow/Kubernetes
+00:43:05 Learning DevOps: Pick tools, read docs, and practice by doing
+00:45:31 Tool Selection: Use docs and tutorials to validate choices
+00:48:36 Early-Career Skills: Python, SQL, basic networking; AWS and OSS basics
+00:51:14 Hadoop Today: Cloud replaces Hadoop for many, but Hadoop persists in legacy
+00:52:21 LearnDataEngineering Academy: Curriculum, capstones, and resources
+00:54:52 Hands-on Projects: Build an e‑commerce pipeline; use Kaggle datasets
+00:57:33 Learning Advice: Avoid huge datasets; start small and iterate
+00:58:56 Convincing Stakeholders: Build a $0 proof‑of‑concept and quantify ROI
+01:02:05 Find Andreas & Resources: LearnDataEngineering, YouTube, Telegram

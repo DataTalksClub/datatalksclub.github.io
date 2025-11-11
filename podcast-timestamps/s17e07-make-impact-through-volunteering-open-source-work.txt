@@ -1,0 +1,24 @@
+00:00:00 Podcast Introduction
+00:01:43 Episode Overview: Volunteering, Open Source & Community Impact
+00:02:37 Career Origins: Early AI Interest and Education Path
+00:04:26 Academic Focus: Big Data Specialization and Computer Vision
+00:05:46 PhD Research: Multimodal Learning for COVID-19 & Medical Imaging
+00:07:53 Google PhD Fellowship: Application Strategy and Benefits
+00:11:08 Volunteer Projects Overview: PTSD Chatbot and Trash Detection Cases
+00:14:09 Medical Imaging Project: Cervical Spine Segmentation Work
+00:16:05 Data Sourcing Techniques: Open Images and Creative Collection
+00:17:48 Opportunity Hunting: LinkedIn, Social Media, and Mailing Lists
+00:20:25 Productivity Tips: Curated Feeds and Managing Social Media Time
+00:23:44 Platform Differences: Omdena vs. Fruit Punch AI Collaboration Models
+00:26:25 Joining Challenges: Beginner Support, Roles, and Team Dynamics
+00:27:02 Women-Led AI Groups: Community Formation and Project Workflow
+00:31:11 Hackathon Case Study: Medical Imaging Solution, Mentors, and Deliverables
+00:36:32 Hackathon Strategy: Understanding Judges, Criteria, and Positioning
+00:39:47 MVP Mindset: Overcoming Data and Compute Constraints
+00:42:07 Data Creativity: Generative AI, Research, and Team Composition
+00:45:24 Building a Research Network: Finding and Following Researchers on Twitter
+00:48:42 Applying to Volunteer Projects: Interview Pitching and Relevant Skills
+00:51:21 Volunteer Outcomes: Practical Experience, Referrals, and Soft Skills
+00:56:05 Roles for Data Engineers: Data Preparation, Pipelines, and Dashboards
+00:58:17 Opportunity Sources: WIML, Conference Feeds, and Newsletters
+01:00:24 Closing Remarks and How to Connect

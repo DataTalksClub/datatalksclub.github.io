@@ -1,0 +1,27 @@
+00:00:00 Podcast Introduction
+00:00:02 Guest Background & Career Path in Data Science
+00:03:42 Solo Data Scientist: Freedom, Influence & Responsibility
+00:08:13 Company Prerequisites: Data Pipelines, Engineers & Analytics
+00:10:53 Experience Required: Mid‑Senior, End‑to‑End Project Skills
+00:12:33 Problem Discovery: Translating Business Needs to Data Science
+00:14:25 Proactive Outreach & Building a Data Science Roadmap
+00:16:01 Prioritization: Feasibility, Impact & Stakeholder Alignment
+00:21:07 First Week: Stakeholder Interviews and Data Exploration
+00:22:25 First Month: Early Research, Insights or Proof‑of‑Concept
+00:24:07 First Quarter: Pipelines, Methodology, Deployment & A/B Testing
+00:25:40 Managing Expectations: Data Science as Iterative Inquiry
+00:28:07 Start Small: Exploratory Analysis, Dashboards vs. Machine Learning
+00:30:11 Churn Workflows: Analysis to Model to Marketing Collaboration
+00:32:54 Project Timelines: Reuse, Automation & Faster Iterations
+00:34:23 Solution Selection: Define Metrics and Measure Outcomes
+00:35:49 Evaluating Performance: KPIs, Experiments & Delivering Insights
+00:39:25 When You Get Stuck: Networks, Communities & Learning Resources
+00:40:59 Communicating Results: Reports, Visualizations & Tech Talks
+00:43:56 Transitioning from Engineering: Mindset, Deployment & Monitoring
+00:45:47 Scaling the Team: Signals to Hire More Data Scientists
+00:48:02 Stopping Projects: Prioritize, Cut Losses & Reallocate Effort
+00:50:17 Interview Checklist: Questions to Assess Company Readiness
+00:54:15 Assessing Readiness: Pipelines, Analytics Dept. & Expectations
+00:55:18 Research to Production: Silent Mode, A/B Tests & Safe Rollout
+00:57:15 Closing Advice: Learn Fast and Educate Your Organization
+00:57:52 Contact Info & Episode Wrap-up

@@ -1,0 +1,21 @@
+00:00:00 Podcast Introduction
+00:01:03 Guest Background & Career Transition to Data Science
+00:05:11 Econometrics to Product Analytics: Causality Emphasis
+00:08:13 A/B Testing Explained: Clinical Trials Analogy & Randomization
+00:11:48 Experimentation Purpose: Establishing Causality & Controlling Noise
+00:14:27 Case Study: Subscription vs Points — Revenue Metric Design
+00:18:06 De-risking Features & Building Organizational Learning with Experiments
+00:23:54 Experimentation Platform Choices: Third-Party vs In-House
+00:24:44 Traffic Splitter Implementation, Assignment Tracking & Monitoring
+00:27:52 A/A Testing: Validating Randomization and System Trust
+00:30:05 First Test Best Practices: Two-Group Design & Simplicity
+00:33:23 Metric Selection: Noise, Stability, Seasonality & Business Cycles
+00:37:44 Test Duration & Power Analysis: Sample Size Planning
+00:40:23 Statistical Tests Overview: Z-test, T-test, and Nonparametric Options
+00:44:39 Data Distribution Checks: Histograms, Tails, and Visualization
+00:47:44 P-value Intuition: Explaining Significance via A/A Comparison
+00:51:55 Frequentist vs Bayesian Testing: Credible Intervals, Priors & Costs
+00:59:08 Multi-armed Tests (A/B/C/D): Duration, Power, and Multiple Comparisons
+01:02:52 Practical Experimentation Tips & Analogies (Pizza Dough)
+01:03:59 Hiring, Resources & Contact Information
+01:04:40 Episode Wrap-up and Key Takeaways

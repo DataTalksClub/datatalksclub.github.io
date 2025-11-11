@@ -1,0 +1,22 @@
+00:00:00 Podcast Introduction
+00:01:15 Guest Introduction: Sandra Kublik, AI entrepreneur and GPT-3 author
+00:02:26 LLM Landscape: Why GPT and large language models are everywhere
+00:03:05 Career Journey: Nextgrid, Lablab.AI and YouTube entry into AI
+00:08:08 Early GPT Community: Gaining access and demo-driven growth
+00:10:00 GPT & LLM Business Use Cases: Text generation, embeddings, and semantic search
+00:15:53 Cohere Focus: Community building and LLM education
+00:16:42 Market Adoption: Startups, VC interest, and generative AI trends
+00:19:22 LLMs as Amplifiers: Impact on authenticity and content scaling
+00:23:29 Human-in-the-Loop: Hallucinations, brand safety, and editorial curation
+00:27:56 Specialist Assistants: Secure, domain-specific chatbots for professionals
+00:32:28 Building LLM Apps: Model choice, architecture, and integration trade-offs
+00:35:28 Proprietary vs Open Source: Cost, latency, IP and data risk considerations
+00:37:21 Prompt Engineering: Iteration, examples, and prompt whisperer techniques
+00:40:21 Fine-Tuning & Embeddings: Domain adaptation and semantic retrieval
+00:44:32 Prompt Tips: Providing examples, context, and SEO-focused instructions
+00:51:01 7-Day LLM Experiment: Integrating language models into daily workflow
+00:56:03 Productivity Tools: Email assistants and content automation extensions
+00:58:04 Learning Resources: LLM University, Cohere blog, and recommended readings
+01:00:30 Contact & Social: Where to find Sandra online (YouTube, X, LinkedIn)
+01:01:04 Episode Wrap-Up and Next Steps
+01:01:24 Closing Remarks

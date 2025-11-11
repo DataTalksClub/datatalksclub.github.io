@@ -1,0 +1,24 @@
+00:00:00 Podcast Introduction
+00:01:09 Career Transition: Biotechnology to Bioinformatics Software
+00:03:41 Master’s Thesis Overview: Wastewater Microbiome Knowledge Graph
+00:06:27 Bioinformatics Role: Reducing Lab Experiments with Computational Analysis
+00:08:23 Wet Lab vs Dry Lab: Experimental Work vs Computational Pipelines
+00:11:21 Bioinformatics as Data Science: From Sequencing to Analysis
+00:12:35 Genomic Data Basics: Nucleotides and DNA Sequences
+00:15:30 DNA Sequencing Workflow and Reference Genomes
+00:17:56 Metagenomics: Environmental Sampling and Abundance Tables
+00:19:41 Building Microbial Networks: Co‑abundance and Association Inference
+00:24:31 Network Inference Methodology: CC Lasso, Correlations, and Thresholding
+00:27:06 Molecular Simulations: Protein–Ligand Dynamics and Water Boxes
+00:29:58 Protein Folding Revolution: AlphaFold Impact on Structure Prediction
+00:36:20 Open‑Source Projects Overview: MCW2 Graph, VueGen, and VueCore
+00:38:31 Knowledge Graph Exploration: Neo4j, Streamlit, and Graph Algorithms
+00:40:00 Report Automation with VueGen: Quarto, Streamlit, and Export Formats
+00:42:29 Package Ecosystem: Bioconda, Bioconductor, and Bioinformatics Libraries
+00:43:56 Omics Visualization: VueCore for Genomics, Proteomics, and Metabolomics
+00:45:08 Portfolio Advice: Beginner Bioinformatics Projects and Tools to Showcase
+00:47:50 AI & LLMs in Bioinformatics: Documentation, MLOps, and Coding Assistants
+00:50:25 Language Tradeoffs: R vs Python and Scaling Scientific Tools
+00:51:53 Visualization Workflows: Viewer and Supporting Plotting Libraries
+00:53:17 Remote Work & Field Life: Working from Ecuador and Nature Notes
+00:54:10 Episode Wrap‑up: Open‑Source Encouragement and Closing Remarks

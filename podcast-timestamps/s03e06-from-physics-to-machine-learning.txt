@@ -1,0 +1,26 @@
+00:00:00 Podcast Introduction
+00:01:57 Career origin: physics PhD to computer vision deep learning
+00:02:32 Transition catalyst: maternity leave, online courses and internship
+00:04:20 Career-change summary: sharing a Twitter thread of practical lessons
+00:05:47 Network makeover: building supportive data science circles
+00:07:50 Overcoming fears and age stereotypes in career change
+00:08:53 Eliminating distractions: focused time management during maternity leave
+00:10:49 Impostor syndrome remedy: interviews and mock interviewing practice
+00:14:52 Selective attention: focusing on positive signals and mentors
+00:15:56 Team building: finding teammates for Kaggle competitions and papers
+00:21:04 Prioritization: Pareto principle, outsourcing and avoiding perfectionism
+00:23:45 Mental rehearsal: initial creation, visualization and Sankalpa technique
+00:28:08 Mentorship strategies: finding and nurturing long-term mentors
+00:31:42 Boundary setting: learning to say no and protect your time
+00:34:25 Embracing failure: treating setbacks as growth opportunities
+00:37:30 Self-care tactics: sleep, support systems and avoiding burnout
+00:42:34 Kaggle vs internships and Omdena-style projects: pros and cons
+00:46:40 End-to-end pet projects: data collection, labeling, deployment and Docker
+00:49:29 Learning roadmap: Python, ML/DL courses, SQL, algorithms and system design
+00:53:40 Starting Kaggle with minimal Python: practical beginner advice
+00:54:44 Improving focus: meditation, analytical practice and achieving flow
+00:57:56 Astroinformatics overview: ML applications in astronomy
+00:59:29 Physics background advantage: math, problem solving and modeling
+01:02:33 Leaving academia: lab constraints, maternity leaves and cloud credits
+01:04:34 Interview preparation: LeetCode, mock interviews and system design prep
+01:07:38 Where to connect: LinkedIn, Twitter and DataTalks.Club follow-up

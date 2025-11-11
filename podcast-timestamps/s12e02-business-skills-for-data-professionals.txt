@@ -1,0 +1,24 @@
+00:00:00 Podcast Introduction
+00:01:42 Guest Background: From Physics to Data Science
+00:02:45 Early Data Role: Research Skills Applied in a Startup
+00:04:51 Production Challenges: Deploying Models in a SaaS
+00:06:18 Marketing Automation Use Case: Recommendations & Reporting
+00:08:30 Applied Research: Reinforcement Learning to Practical Problems
+00:12:19 Semantic Alignment: Defining "Customer" and Core Metrics
+00:15:46 Lead Indicators & Stickiness: Churn and Causal Thinking
+00:18:00 Context & Semantics: Cross-Functional Meaning in Data
+00:21:46 Data Storytelling: Marketing Techniques for Memorable Communication
+00:25:53 Building Trust: Active Listening and Business Literacy
+00:27:55 Onboarding Strategy: Stakeholder Mapping and Prioritization
+00:35:20 Stakeholder CRM: Capturing Names, Roles, and Context
+00:37:51 Meeting Immersion: Learning Business Language by Attendance
+00:41:33 Note Systems: Using Notion to Track Meetings and Key Activities
+00:43:42 Tooling & IP Considerations: Personal Knowledge vs Company Systems
+00:45:13 Prioritization: Choosing Projects by Stakeholder Impact
+00:47:10 Opportunity Selection: Finding High-Connectivity Data Projects
+00:51:01 Pragmatism in Tools: Excel, Pivot Tables, and Rapid Experiments
+00:53:08 Conversation First: Description and Diagnostic Before ML
+00:56:13 Presenting Online: Podcasting, Pauses, and Audio Practices
+00:58:35 Resources: Discovering Data Podcast for Business Skills
+01:00:33 Community Building: Joining the Discovering Data Discord
+01:01:23 Episode Wrap-Up and Contact Links

@@ -1,0 +1,30 @@
+00:00:00 Podcast Introduction
+00:01:51 Background & Motivation: Math Graduate to Data Analytics
+00:03:17 Early Roles & Mentoring: Consulting, T-Mobile, Amazon Path
+00:04:06 Community & Resources: Amplifying Learning Platforms
+00:05:25 Math Foundations & Machine Learning Relevance
+00:08:24 Transition Path: Biostatistics, R, SAS and Discovering SQL
+00:13:07 Bootcamp Trade-offs: Cost, Network and a Nine-Month Job Search
+00:16:12 Networking Wins: Meetups Leading to First Offer
+00:18:30 Building Credibility: Employer Brand & Social Proof
+00:20:17 Uncrowded Doors: Alternative Job‑Hunting Strategies
+00:21:26 LinkedIn Tactics: Active Posting, Commenting & Visibility
+00:23:47 Resume Readiness: Quick Sharing and On-the-Spot Opportunities
+00:24:23 Portfolio Essentials: rpubs, EDA, Visualizations & Basic ML
+00:26:39 Portfolio Strategy: Three Projects and Publicizing Work
+00:28:19 Meetup Tactics: Spotting and Approaching Hiring Managers
+00:32:27 Cold Outreach & DIY Internships: 200 Messages and Trial Offers
+00:35:06 Finding Contract Work: Dice, Recruiter Calls and Freelance Tradeoffs
+00:38:12 Pro Bono & Nonprofit Projects: Catchafire for Real Experience
+00:41:52 Messaging Strategy: Personalization, Alumni Hooks & Templates
+00:44:26 Consistency & Visibility: Posting Frequency and the Algorithm
+00:45:18 Portfolio Hosting Options: Zyro, GitHub, WordPress, Hashnode
+00:48:19 Project Presentation: Clean README, Docs and Repo Organization
+00:49:34 Skills Roadmap & Interview Prep: SQL, Python, Visualization
+00:52:51 Role Realities: BI / Analytics Engineer Work at Amazon
+00:56:02 Career Advice: Consistency, Soft Skills and STAR Format
+00:57:55 Online Networking: Hopin Random Date & Virtual Meetups
+00:59:59 Communicating Impact: Summarizing Projects for Hiring Managers
+01:01:06 Project Hygiene: Version Control and Shared Repositories
+01:02:31 Personal Branding & Contact Info
+01:03:13 Episode Closing

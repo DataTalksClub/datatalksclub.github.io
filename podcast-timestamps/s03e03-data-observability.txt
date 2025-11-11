@@ -1,0 +1,24 @@
+00:00:00 Podcast Introduction
+00:01:48 Guest Profile: Barr Moses — career, GainSight, Monte Carlo
+00:04:35 Market Gap: Data downtime impact on analytics teams
+00:06:56 Observability Origins: DevOps pillars (metrics, logs, traces)
+00:09:49 Batch Data Challenges: Why data observability differs from app monitoring
+00:13:40 Silent Failures: Invisible data quality incidents and model drift
+00:16:38 Five Pillars of Data Observability: Freshness, Volume, Distribution, Schema, Lineage
+00:19:10 Schema Change Case Study: Downstream breakage and missed notifications
+00:21:57 Good Pipelines, Bad Data: Need for engineering and data observability
+00:24:31 Monitoring vs Observability: Detection versus diagnosis
+00:26:04 Root Cause Analysis: Correlation, logs, lineage for triage
+00:29:00 Accountability Models: RACI for data ownership and communication
+00:35:24 Data SLAs: Defining timeliness and prioritizing pipeline fixes
+00:38:14 SLA Automation: Inferring thresholds from historical data
+00:41:03 Operational Runbooks: Playbooks and remediation workflows
+00:43:00 Maturity Curve: Reactive → Proactive → Automated → Scalable
+00:47:00 Platform Criteria: End-to-end integration and reducing false positives
+00:49:52 Open Source Landscape: Point tools versus holistic observability
+00:50:52 Test-Driven Data Development: Tests, DBT checks, and limitations
+00:54:23 Cloud Agnosticism: Integrations across AWS, GCP, Snowflake
+00:56:57 Centralized Governance: Observability across distributed environments
+00:58:51 Auto Lineage: Detecting upstream and downstream data impact
+01:00:27 Anomalies vs Bad Data: Contextual alerts and reducing false positives
+01:02:50 Closing Remarks & Contact Resources (Monte Carlo, links, Slack)

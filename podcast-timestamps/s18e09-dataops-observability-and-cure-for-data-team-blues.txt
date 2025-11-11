@@ -1,0 +1,23 @@
+00:00:00 Podcast Introduction
+00:02:12 Guest Introduction: Christopher Bergh & DataKitchen
+00:04:05 Career Journey: From Software Engineering to Data Entrepreneurship
+00:06:06 Pre-cloud Data Engineering Challenges (SQL Server, scaling)
+00:08:29 DevOps Adoption Timeline and Early Lessons
+00:11:53 DataOps Definition and Workforce Burnout Statistics
+00:13:27 Deployment Culture: Fear vs. Heroism in Data Teams
+00:15:52 Core DataOps Practices: Automation, Observability, and Productivity
+00:18:46 DataOps Today: MLOps, LLMs, and Buzzword Clarification
+00:23:56 Operational Lifecycle: Day One, Day Two, Day Three
+00:26:13 Model Reliability and On‑call Readiness for Data Science
+00:30:55 CI/CD Pipelines, Regression Tests, and Test Data for Analytics
+00:34:13 Reducing Rework and Cycle Time in Data Workflows
+00:39:04 AI Tools and the Limits of Generation vs. Process Improvement
+00:42:39 End-to-End Deployment Automation: Version Control and Tests
+00:44:30 Variable Adoption: Pockets of Best Practice and Integration Gaps
+00:50:29 Observability-First Approach: Monitoring Production to Drive Change
+00:52:42 Containers vs. Serverless: Docker, Kubernetes, and Alternatives
+00:54:05 Data Versioning Strategy: Immutability and Versioning Code
+00:58:15 Culture and Leadership: Lowering Turnover with Better Processes
+00:58:34 Practical Starting Steps for Individual Contributors
+01:01:20 Closing Summary and Next Steps
+01:04:07 Episode End

@@ -1,0 +1,21 @@
+00:00:00 Podcast Introduction
+00:03:30 Career & technical background: Vin Vashishta's journey in ML and strategy
+00:07:57 Monetize machine learning: why revenue focus drives ML strategy
+00:12:07 ARR & MRR: translating models into C‑suite revenue metrics
+00:15:59 Revenue vs. cost‑savings: business model metrics for ML products
+00:20:15 Team capabilities for monetizing ML: three core roles overview
+00:26:58 Machine learning research: artifacts, datasets, and experimental process
+00:29:18 Category creation with ML: examples and market entry (Amazon, Google, Stitch Fix)
+00:33:57 Startups: the "angry users + data scientists" product recipe
+00:36:10 Research skillset: hypothesis design, experimentation, explainability & advanced math
+00:43:28 Product management for ML: translating strategy into researchable use cases
+00:48:54 Product manager ecosystem: gated decisions, feasibility studies and stakeholders
+00:50:53 Career paths into ML product management: backgrounds and upskilling routes
+00:54:50 Machine learning architecture: platform vision, cost estimation and production path
+00:58:04 Architecture skills & tools: cloud, MLOps, buy vs build tradeoffs
+01:00:42 Transitioning into research & architecture roles: realistic career steps
+01:03:12 Education gap & corporate upskilling: "farm club" pipelines and university roles
+01:13:36 MBA relevance: degrees vs. practical business fluency for ML product leaders
+01:14:14 Role specialization trend: splitting data science into focused functions
+01:15:14 Product metrics for adoption: usage, task time, decision quality and pricing impact
+01:18:12 Episode recap & next steps

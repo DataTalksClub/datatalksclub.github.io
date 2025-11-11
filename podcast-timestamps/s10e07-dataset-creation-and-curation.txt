@@ -1,0 +1,21 @@
+00:00:00 Podcast Introduction
+00:01:22 Episode Overview: Dataset creation, curation, and annotation
+00:02:24 Guest Background & Career in NLP and bio‑NLP
+00:05:12 Comtura Origin: Sales call transcription and CRM integration
+00:06:51 Dataset Creation Approaches: Automated, manual, and hybrid pipelines
+00:09:02 Stakeholder Alignment: Top‑down framing to de‑risk projects
+00:15:39 Annotation Strategy: In‑house vs. crowdsourcing trade‑offs
+00:18:36 Annotation Guidebook: Living documentation and ambiguous cases
+00:20:57 Model‑Assisted Annotation: Pre‑labeling and interpretability layers
+00:24:01 Expert Knowledge Capture: Mind maps and task translation for annotators
+00:29:28 Human Baseline & Prototyping: Validating feasibility and business value
+00:35:02 Annotation UX & Productivity: Hotkeys, interfaces, and iterative gains
+00:37:42 Annotation Quality Metrics: Inter‑annotator agreement, throughput, fatigue
+00:42:51 Active Learning in Practice: Expectations and typical gains
+00:44:57 Distance Supervision & Weak Supervision: Labeling functions and Snorkel
+00:48:24 Programmatic Heuristics: Entity/verb patterns and weak label design
+00:50:37 Tooling Recommendations: Prodigy, Docanno, Label Studio, Snorkel, Rubrics
+00:52:34 Portfolio Advice: Building career projects via dataset creation
+00:57:18 Quick‑start Collection: IPython widgets and Fast.ai for beginners
+00:58:26 Privacy & Multilingual NLP: GDPR, anonymization, and language challenges
+01:03:40 Contact & Resources: Blog, company, and social links

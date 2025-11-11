@@ -1,0 +1,23 @@
+00:00:00 Podcast Introduction
+00:01:10 Introduction: Dan Becker and Decision Optimization Overview
+00:03:00 Gap: Machine Learning Predictions vs. Real-World Decisions
+00:06:00 Prescriptive Analytics: Role in ML Pipelines
+00:09:00 Formulating Optimization Problems: Objectives and Constraints
+00:12:00 Modeling Uncertainty: Robust and Stochastic Optimization
+00:15:30 Integrating Predictions into Optimization Models
+00:18:45 Aligning Loss Functions with Business Objectives
+00:22:00 Solvers & Tools: OR-Tools, Gurobi, Pyomo, Open-Source Options
+00:25:30 Scalability: Large-Scale Optimization and Approximation Techniques
+00:28:30 Use Case: Supply Chain Optimization and Resource Allocation
+00:32:00 Use Case: Pricing, Bidding, and Revenue Optimization
+00:35:00 Decision Constraints: Operational, Legal, and Ethical Considerations
+00:38:00 Evaluation Metrics: Measuring Real-World Impact of Decisions
+00:41:00 Deployment: Pipelines, Monitoring, and Feedback Loops
+00:44:00 Organizational Adoption: Cross-Functional Collaboration and Change Management
+00:46:30 Skillset Blend: Data Science, Operations Research, and Software Engineering
+00:49:00 Common Pitfalls: Mis-specified Objectives and Overfitting Decisions
+00:51:30 Robustness vs. Optimality: Trade-offs in Decision Optimization
+00:54:00 Future Trends: Automated Decisioning and Prescriptive Systems
+00:56:30 Resources: Learning Paths, Libraries, and Community Recommendations
+00:59:30 Practical Advice: Getting Started with Decision Optimization Projects
+01:02:00 Episode Wrap-Up and Links
