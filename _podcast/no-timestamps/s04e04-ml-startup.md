@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/7fwbqo5tDrtakuqWaIuEjc
   apple: https://podcasts.apple.com/us/podcast/i-want-to-build-a-machine-learning-startup-elena-samuylova/id1541710331?i=1000529106923
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Background: Elena Samuylova’s ML & Startup Journey'
 - line: Today we'll talk about building machine learning startups. We have a special
     guest today, Elena. Elena is the CEO and co-founder of Evidently AI, which is
     a startup that develops open source tools for machine learning model monitoring.
@@ -37,7 +39,7 @@ transcript:
   sec: 199
   time: '3:19'
   who: Elena
-- header: Elena’s background
+- header: 'Career Highlights: Yandex, Data Factory, and Industrial AI'
 - line: Before we go into our main topic of building machine learning startups, let's
     talk a bit about your background. Can you tell us about your career journey so
     far?
@@ -84,7 +86,7 @@ transcript:
   sec: 310
   time: '5:10'
   who: Elena
-- header: Why do a startup instead of being an employee?
+- header: 'Motivations: Startup vs. Employee Trade-offs'
 - line: Do you know why people start their own business? What motivates them? Why
     not just work for a company?
   sec: 318
@@ -140,7 +142,7 @@ transcript:
   sec: 432
   time: '7:12'
   who: Elena
-- header: Where to get ideas for your startup
+- header: 'Sourcing Ideas: Problem-First Approach for ML Startups'
 - line: Let's say I am motivated to start a startup. I know some machine learning,
     so I want to build a machine learning startup. Where can I get ideas for that?
   sec: 443
@@ -234,7 +236,7 @@ transcript:
   sec: 672
   time: '11:12'
   who: Elena
-- header: Finding a co-founder
+- header: 'Co-founder Search: Compatibility, Founder–Market Fit, and Finding Partners'
 - line: Yeah, let's talk a bit about finding a co-founder. Let's say I am a technical
     person. I know some machine learning. I know how to code. I'm not good at sales
     – I don't enjoy selling things. I want to find somebody who might enjoy doing
@@ -365,7 +367,7 @@ transcript:
   sec: 1011
   time: '16:51'
   who: Elena
-- header: What should you consider before starting a startup?
+- header: 'Pre-Launch Alignment: Commitment, Company Type, and Fundraising Path'
 - line: Yes. Which things should we consider before we actually start a startup?
   sec: 1015
   time: '16:55'
@@ -465,11 +467,13 @@ transcript:
   sec: 1255
   time: '20:55'
   who: Elena
-- header: Vertical startup vs infrastructure startup
+- header: 'Market Choice: Vertical Solutions vs. Infrastructure & MLOps'
 - line: Anything else we should consider before starting?
   sec: 1294
   time: '21:34'
   who: Alexey
+- header: 'AI-First Positioning: What It Really Means'
+- header: 'Developer Tools Market: Selling to Engineers and Open Source Dynamics'
 - line: Particularly for the machine learning startups, I think you have a choice
     of whether you want to do the vertical startup approach, like I mentioned – when
     you're solving some specific need of some specific market. Or whether you want
@@ -501,7 +505,6 @@ transcript:
   sec: 1356
   time: '22:36'
   who: Elena
-- header: ‘AI First’ startups
 - line: I heard this term called “AI First Startup.” What does it mean?
   sec: 1390
   time: '23:10'
@@ -534,7 +537,6 @@ transcript:
   sec: 1423
   time: '23:43'
   who: Elena
-- header: Building tools for engineers
 - line: Speaking of tools, let’s go in the other direction. I heard an expression
     from somebody that goes something like “Building tools for engineers is not always
     the best idea because engineers like building things themselves.” So they don't
@@ -578,7 +580,7 @@ transcript:
   sec: 1571
   time: '26:11'
   who: Elena
-- header: What skills do you need to start a startup?
+- header: 'Founder Skills: Self‑Starter Mindset and Learning Agility'
 - line: What kind of skills do I need to start a startup?
   sec: 1581
   time: '26:21'
@@ -631,7 +633,7 @@ transcript:
   sec: 1688
   time: '28:08'
   who: Elena
-- header: Startup risks
+- header: 'Startup Risks: Financial, Cultural, and Career Considerations'
 - line: What are the risks? I think we discussed a bit about how working in a big
     tech company is better than doing a startup in terms of how much money you will
     earn or the ‘expected value’. What are some other risks of building your own startup?
@@ -689,6 +691,7 @@ transcript:
   sec: 1856
   time: '30:56'
   who: Elena
+- header: 'Failure Preparedness: Normalizing Risk and Learning from Failure'
 - line: The sense of ownership and understanding the big picture is very valuable,
     especially when your join and work in another startup. Maybe one that is a bit
     more successful than yours was -- if you left your startup. To lead some divisions
@@ -696,7 +699,6 @@ transcript:
     a startup mindset. Usually someone who tried to do one is the best candidate for
     this sort of hire.
   who: Elena
-- header: How to be prepared to fail
 - line: You mentioned that when starting a startup, we should be prepared to fail.
     How can you prepare yourself for something like that? Is it like in Buddhism,
     you just see that the thing as already failed? Then if it actually does fail,
@@ -716,7 +718,7 @@ transcript:
   sec: 1932
   time: '32:12'
   who: Elena
-- header: Work-life balance
+- header: 'Work–Life Tradeoffs: Time Commitment in Early Stages'
 - line: Another thing you mentioned is that the work-life balance suffers when you
     do a startup. Is it possible to make a successful startup while working, let's
     say, 40 hours per week?
@@ -748,7 +750,7 @@ transcript:
   sec: 2008
   time: '33:28'
   who: Elena
-- header: The part-time startup approach
+- header: 'Part‑Time Startups: Weekend MVPs, Bootstrapping, and Grants'
 - line: We already started getting questions. You already mentioned that when you
     start a startup, you don't necessarily have to bootstrap yourself – meaning that
     you don’t have to live off of your savings. You can do a startup while still working.
@@ -769,6 +771,7 @@ transcript:
   sec: 2079
   time: '34:39'
   who: Elena
+- header: 'Funding Models: Accelerators, Angels, and Equity Considerations'
 - line: There are surprising examples of startups where it's not the code part [that
     is the most important]. It's not a huge, complex system. It's more about figuring
     out the demand, what is needed, and then building maybe a small thing that solves
@@ -780,7 +783,6 @@ transcript:
     for free – so it's not taking equity. There are also some other opportunities
     like this, especially in Europe.
   who: Elena
-- header: Startup investment models
 - line: But there are also startup accelerators that would take a part of your company.
   sec: 2147
   time: '35:47'
@@ -837,7 +839,7 @@ transcript:
   sec: 2276
   time: '37:56'
   who: Elena
-- header: No resources and no technical expertise – what to do?
+- header: 'Non‑Technical Founders: No-Code MVPs and Productizing Services'
 - line: We talked about a situation where “I'm a technical person, and I want to start
     a startup, this is what I do.” What if I'm not super-technical? I also don't have
     any resources to develop something, what do I do?
@@ -862,7 +864,7 @@ transcript:
   sec: 2302
   time: '38:22'
   who: Elena
-- header: Productionizing your services
+- header: 'Productizing Services: From Manual Delivery to Scalable SaaS'
 - line: I've heard this term “prodictionizing your services”. I think this is what
     you're referring to, or “productizing” – making your services a product. You can
     do accounting, for example. So you start doing accounting for clients. Then you
@@ -880,7 +882,7 @@ transcript:
   sec: 2397
   time: '39:57'
   who: Elena
-- header: When to hire an expert
+- header: 'Hiring Expertise: When to Bring in Domain or Technical Help'
 - line: Another question we have is, “I have found a problem in my domain. I have
     learning statistical modeling and machine learning. Do I need to find a tech expert
     or a domain expert to help me?”
@@ -926,7 +928,7 @@ transcript:
   sec: 2512
   time: '41:52'
   who: Elena
-- header: Talking to people with a problem before solving the problem
+- header: 'Customer Discovery: Interview Counts and Signals for Product–Market Fit'
 - line: So how many people should I talk to before starting to code?
   sec: 2535
   time: '42:15'
@@ -986,7 +988,7 @@ transcript:
   sec: 2638
   time: '43:58'
   who: Elena
-- header: Starting Elena’s startup, Evidently
+- header: 'Evidently Origin: Validating Model Monitoring as a Business'
 - line: Okay. I'm just interested to hear the story. You worked together and then
     at some point, you decided to create a startup? How did this happen?
   sec: 2639
@@ -1043,7 +1045,7 @@ transcript:
   sec: 2745
   time: '45:45'
   who: Elena
-- header: Elena’s role at Evidently
+- header: 'Founder Role at Evidently: CEO Tasks, Content, and Community'
 - line: So what do you do at Evidently?
   sec: 2792
   time: '46:32'
@@ -1087,7 +1089,7 @@ transcript:
   sec: 2878
   time: '47:58'
   who: Elena
-- header: Why is Evidently open source?
+- header: 'Open Source Strategy: Open Core, Cloud, and Monetization Paths'
 - line: We have a question from Anonymous. And I also have this question. “Why do
     you choose the open source model for evidently?”
   sec: 2891
@@ -1104,6 +1106,7 @@ transcript:
   sec: 2899
   time: '48:19'
   who: Elena
+- header: 'Open Source Risks: Cloning, Cloud Providers, and Licensing'
 - line: Another aspect of that is that you actually get very fast iterations and feedback
     loops because of it. For example, if you just create a huge, monolithic, closed
     source thing, you first need to create it and deploy it on some customer and then
@@ -1114,7 +1117,6 @@ transcript:
     It’s also a good market strategy for later on, because open source doesn't mean
     that you don't make money out of it. It's just a different strategy.
   who: Elena
-- header: “People will just copy my open source code. Should I be concerned?”
 - line: There is a concern I often hear from some people. They say, “Why would I open
     source my code? People will just go and copy my code and deploy it. So this strategy
     doesn't work.” This is the concern they have. Is it a valid concern?
@@ -1167,7 +1169,7 @@ transcript:
   sec: 3082
   time: '51:22'
   who: Elena
-- header: Bottom-up adoption
+- header: 'Bottom‑Up Adoption: Engineers First, Enterprise Later'
 - line: I guess in case of open source, what can happen is that the engineers and
     data scientists find your library, start using it, and then it reaches the management.
     The management sees it and then you sell the company your enterprise offer, right?
@@ -1185,6 +1187,7 @@ transcript:
   sec: 3134
   time: '52:14'
   who: Elena
+- header: 'Demonstrating Value: Persuading Clients to Share Data'
 - line: It's a very natural way – adopting it from the bottom up – compared to when
     a CTO just signs a big deal with someone like Oracle, and they bring it to the
     developers and say “Here, you better use this thing.” And the developers don’t
@@ -1195,7 +1198,6 @@ transcript:
     Now that enterprises are used to running open source products in production, this
     business model has become possible.
   who: Elena
-- header: Creating value so that clients engage with your product
 - line: We have an interesting question. Let's say you decide to create a startup
     or consultancy – how do you deal with clients or customers that do not want to
     share their data with you?
@@ -1213,7 +1215,7 @@ transcript:
   sec: 3207
   time: '53:27'
   who: Elena
-- header: Is there a difference between countries when creating a startup?
+- header: 'Geographic Differences: Market Dynamics and Data Attitudes'
 - line: Have you seen any difference or do you know if there is any difference when
     you build a startup in different countries? For example, Germany, Russia, or the
     United States?
@@ -1260,7 +1262,7 @@ transcript:
   sec: 3334
   time: '55:34'
   who: Elena
-- header: Does open source mean the data is safer?
+- header: 'Data Safety Options: On‑Premise Deployments with Open Source'
 - line: I think when Emely did a presentation a while ago at DataTalks.Club, one of
     the questions was “Hey, I'm a bit concerned about my data going to Russia.” What
     you answered was “Hey, it's open source. You don't have to be concerned. You just
@@ -1279,7 +1281,7 @@ transcript:
   sec: 3398
   time: '56:38'
   who: Elena
-- header: When should you hire engineers?
+- header: 'Scaling Teams: When to Hire Engineers vs. Stay Small'
 - line: At what point do you start thinking about hiring engineers? Let’s say, we
     can maybe think about Evidently, or maybe there's some other startups. There are
     two co-founders – at what point should they hire somebody?
@@ -1303,7 +1305,7 @@ transcript:
   sec: 3443
   time: '57:23'
   who: Elena
-- header: Following the market
+- header: 'Market Intelligence: Following Startups, Investors, and Trends'
 - line: You mentioned at the beginning that you need to “follow startups”. You need
     to know what others are doing, see what kind of investments they're getting, are
     they pivoting, what kind of clients do they have? Is there a specific way for
@@ -1332,7 +1334,7 @@ transcript:
   sec: 3568
   time: '59:28'
   who: Alexey
-- header: Startups out of genuine interest vs Just for money and for fun
+- header: 'Final Advice: Build from Genuine Interest, Not Just Hype'
 - line: Well, I think that if you want to build a startup, it's a very good thing
     to try to do. Ideally, in a nicer way – so you don't have to risk all your money
     or something like that. These days, there’s a good opportunity to do that. There
@@ -1349,6 +1351,7 @@ transcript:
   sec: 3609
   time: '1:00:09'
   who: Alexey
+- header: 'Contact & Resources: Evidently, LinkedIn, and Twitter'
 - line: LinkedIn, Twitter.
   sec: 3611
   time: '1:00:11'

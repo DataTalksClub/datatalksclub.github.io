@@ -16,7 +16,7 @@ short: Building reliable AI products in the era of Gen AI and Agents
 title: 'Build & Evaluate Autonomous LLM Agents: RAG, Orchestration, Context Engineering
   & SRE'
 transcript:
-- header: Career journey and early curiosity
+- header: Event Introduction & Community Links
 - line: Hi everyone, welcome to our event. This event is brought to you by DataTalks.Club,
     which is a community of people who love data. Every time I say that, I remember
     that when this automatic speech recognition software processes this, it recognizes
@@ -76,6 +76,7 @@ transcript:
   sec: 181
   time: '3:01'
   who: Alexey
+- header: 'Early ML Projects: Image Search with OpenCV'
 - line: Yeah, definitely. In a nutshell, my career is basically machine learning and
     NLP from the start. It started during my undergrad, which was my first time I
     came across this stuff. That was back in 2010 or 2011, I think. We didn’t really
@@ -93,7 +94,7 @@ transcript:
   sec: 235
   time: '3:55'
   who: Ranjitha
-- header: Speech recognition at Microsoft
+- header: Speech Recognition & Language Modeling Experience
 - line: That’s what brought me to CMU to do my masters. I learned a lot from amazing
     professors, colleagues, and some startups that were there locally in Pittsburgh.
     From there, I joined Microsoft, where I worked on speech recognition, language
@@ -102,6 +103,7 @@ transcript:
   sec: 265
   time: '4:25'
   who: Ranjitha
+- header: Transition to Recommendation Systems at Dropbox
 - line: Then I wanted to broaden my scope in ML a little bit, so that brought me to
     Dropbox. Initially, I started working on recommendation systems.
   sec: 297
@@ -123,7 +125,7 @@ transcript:
   sec: 334
   time: '5:34'
   who: Alexey
-- header: Recommendation systems and early agents at Dropbox
+- header: Question Answering & Early Agent Experiments
 - line: Yes, it has had it for a while. I worked on that feature and some auxiliary
     things around it, trying to improve the quality. That’s where I dived more into
     neural networks to understand how these things work, because when I started my
@@ -141,7 +143,7 @@ transcript:
   sec: 394
   time: '6:34'
   who: Ranjitha
-- header: Joining NewBird AI
+- header: 'Joining Noird.ai: Automating On‑call with Agents'
 - line: After working on agents at Dropbox, I was drawn to Noird, where I am now.
     I’m fully immersed in the potential of these agents. We are trying to solve the
     problem of engineering on call, taking that away from users and letting agents
@@ -225,6 +227,7 @@ transcript:
   sec: 654
   time: '10:54'
   who: Alexey
+- header: 'Agent Definition: Autonomy, Objectives & LLMs'
 - line: Thank you. I’m working on building the whole story of how LLM agents can work
     more reliably so that customers who are happy today are still happy tomorrow.
   sec: 660
@@ -242,7 +245,6 @@ transcript:
   sec: 708
   time: '11:48'
   who: Ranjitha
-- header: Defining agents and LLM orchestration
 - line: 'Back in reinforcement learning, agents were basically tasked to complete
     a goal or objective. Agents are automated pieces of software that go and complete
     the given task. You tune them to improve performance according to the objective
@@ -250,6 +252,7 @@ transcript:
   sec: 721
   time: '12:01'
   who: Ranjitha
+- header: 'Agent Orchestration: Tools, Memory & Knowledge Stores'
 - line: Today, LLMs are at the core, powering these agents. LLMs are the brain of
     the agents. What defines a type of agent varies because everyone has their own
     recipes. Agents orchestrate multiple calls to LLMs, tools, knowledge stores, and
@@ -276,6 +279,7 @@ transcript:
   sec: 904
   time: '15:04'
   who: Ranjitha
+- header: 'Planning Strategies: Single‑step, Multi‑pass & Self‑reflection'
 - line: Would you agree with the definition that an agent is just an LLM with tools?
   sec: 910
   time: '15:10'
@@ -287,7 +291,6 @@ transcript:
   sec: 923
   time: '15:23'
   who: Ranjitha
-- header: Agent planning strategies
 - line: There’s also the concept of iterations and feedback loops. Is it a single
     pass or multipass system? Multipass involves self-reflection and correcting plans
     based on outputs. These multipass systems make the most complex agents, which
@@ -308,7 +311,7 @@ transcript:
   sec: 1068
   time: '17:48'
   who: Ranjitha
-- header: Agent implementation approaches
+- header: 'Implementation Approaches: Prompts, SDKs & Tool Wrappers'
 - line: How is this implemented? Frameworks like LangChain or AI Agents SDK allow
     you to define system prompts, user prompts, and tools. The agent invokes tools
     to execute tasks. Where does planning come in?
@@ -323,6 +326,7 @@ transcript:
   sec: 1146
   time: '19:06'
   who: Ranjitha
+- header: 'Code Agents vs Natural‑Language Agents: Trade‑offs'
 - line: Some agents plan in plain English, others in code so-called code agents. The
     choice depends on the task complexity. For natural language problems, natural
     language-based agents work. For very complex tasks with many steps and conditionals,
@@ -351,6 +355,7 @@ transcript:
   sec: 1268
   time: '21:08'
   who: Alexey
+- header: 'Context Engineering: Designing Effective LLM Inputs'
 - line: Exactly. I can tell you, like, at a high level basically the agents are trying
     to build the right context to present to the LLM. Right, so a lot of it is I think
     a lot of people are talking about this these days called context engineering.
@@ -373,7 +378,7 @@ transcript:
   sec: 1319
   time: '21:59'
   who: Ranjitha
-- header: Context engineering essentials
+- header: 'SRE Workflows Modeled by Agents: Logs, Metrics & Remediation'
 - line: It's so many tools. If you can imagine being an SRE what would you do right?
     You have to look at so many different data sources, different logs, and metrics.
   sec: 1370
@@ -413,6 +418,7 @@ transcript:
   sec: 1486
   time: '24:46'
   who: Ranjitha
+- header: 'Integration Abstractions: Handling Diverse Tooling'
 - line: And I just, what occurred to me is every setup, infrastructure, can vary drastically
     from company to company. One company can use Datadog, another uses New Relic,
     the third one uses something built in-house, on-prem, then there's ELK or ElasticSearch,
@@ -491,6 +497,7 @@ transcript:
   sec: 1732
   time: '28:52'
   who: Ranjitha
+- header: 'RAG Reality Check: Latency, Cost & Garbage‑In/Garbage‑Out'
 - line: We still need to reduce the amount of noise that we put into an LLM’s context,
     and that’s what context engineering is.
   sec: 1770
@@ -514,7 +521,6 @@ transcript:
   sec: 1798
   time: '29:58'
   who: Alexey
-- header: RAG evolution in agent systems
 - line: Yes, it is latency, it is cost, and it is also garbage in, garbage out. If
     you put a lot of noise in, then your model only has so much to work with. They
     have become more capable, you can fill up to a 32k context window, but beyond
@@ -526,6 +532,7 @@ transcript:
   sec: 1827
   time: '30:27'
   who: Ranjitha
+- header: 'Retrieval Limitations: Reworking Backends for LLM Context'
 - line: We are now realizing a world where RAG has shortcomings because LLMs are really
     smart, but the backend that supplies context to LLMs is an old information retrieval
     system. Historically, it wasn’t designed for this use case. It gives 10 blue links,
@@ -541,6 +548,7 @@ transcript:
   sec: 1936
   time: '32:16'
   who: Alexey
+- header: 'Context Engineering Techniques: Chunking, Metadata & Wrappers'
 - line: Yes, at a high level, it is that. Along with that, there is a wrapper that
     presents information in a way that is more conducive for the LLM to understand.
     For example, you can chunk documents into lines of 200 lines each. But that is
@@ -577,6 +585,7 @@ transcript:
   sec: 2109
   time: '35:09'
   who: Ranjitha
+- header: 'Agentic RAG: Using Retrieval as a Tool Within Agents'
 - line: When people say RAG is dead, it’s because vanilla RAG, doing embeddings and
     vector search and putting it into LLMs, is a very set workflow. What we are moving
     toward in agents is getting rid of set workflows and making it dynamic. Agentic
@@ -601,7 +610,7 @@ transcript:
   sec: 2224
   time: '37:04'
   who: Ranjitha
-- header: RAG vs agent use cases
+- header: 'Use Cases: When RAG Is Enough vs When Agents Are Needed'
 - line: Since we started talking about this, the industry is converging to RAG tools.
     What kind of business problems are good for these solutions? When is classical
     RAG enough, when is RAG one of the tools, and when do you not need RAG or AI at
@@ -635,7 +644,7 @@ transcript:
   sec: 2406
   time: '40:06'
   who: Alexey
-- header: Dynamic planning in AI assistants
+- header: 'Dynamic Planning Example: Calendar & Meeting Assistant'
 - line: Exactly. So a very simple, easy-to-understand example would be a calendar
     assistant. You talk to it and say, "I want to schedule a meeting for half an hour
     tomorrow with my manager or my skip level." There are many hidden understandings
@@ -670,11 +679,11 @@ transcript:
   sec: 2574
   time: '42:54'
   who: Alexey
-- header: I productivity tools at Dropbox
 - line: Do I need to put all the things into it?
   sec: 2580
   time: '43:00'
   who: Alexey
+- header: Dropbox Dash & AI Productivity Assistants for Enterprises
 - line: Right now, the product I was building, I don’t know what has changed since
     I left, is Dropbox Dash. It is AI-powered search and assistant. It helps with
     productivity use cases and connects to all the SaaS you use at work. You should
@@ -701,6 +710,7 @@ transcript:
   sec: 2636
   time: '43:56'
   who: Ranjitha
+- header: 'Framework Choices: Build from Scratch vs Use Libraries'
 - line: At the beginning, we discussed frameworks. I mentioned Pedantic AI and OpenAI
     Agents SDK. Do we need to learn frameworks? If yes, which ones make our life easier,
     or should we implement everything from scratch?
@@ -724,7 +734,7 @@ transcript:
   sec: 2752
   time: '45:52'
   who: Alexey
-- header: Evaluating AI agents
+- header: 'Framework Trade‑offs: LangChain, OpenAI Agents SDK, Small Agents'
 - line: LangChain has its uses, but I haven’t used it much for agents. Early on, it
     couldn’t handle ambiguity in natural language. It has improved and has new agents
     to experiment with.
@@ -747,6 +757,7 @@ transcript:
   sec: 2853
   time: '47:33'
   who: Alexey
+- header: Agent Marketplaces & Tool Protocols (MCP)
 - line: Eventually, agentic platforms will be usable as-is. At Dropbox, we dreamed
     of an agentic marketplace where people can build agents and buy or interact with
     each other’s agents.
@@ -770,6 +781,7 @@ transcript:
   sec: 2964
   time: '49:24'
   who: Ranjitha
+- header: 'Evaluation Strategy: Custom Datasets & System Benchmarks'
 - line: How do you evaluate agents? For RAG, evaluation is simpler because the flow
     is fixed. With agents, we need to evaluate the answer, tool calls, parameters,
     and more.
@@ -782,7 +794,7 @@ transcript:
   sec: 3102
   time: '51:42'
   who: Ranjitha
-- header: Reliable tool usage challenges
+- header: 'Testing Agents: Mocking Tools, Integration & Regression Tests'
 - line: 'Agents multiply the challenge with multiple LLM prompts. You also need to
     evaluate if the tools are doing what they are supposed to do. We approached it
     like software engineering tests. The agentic system is like a software system:
@@ -802,6 +814,7 @@ transcript:
   sec: 3313
   time: '55:13'
   who: Alexey
+- header: 'Goal‑based Evaluation: Outcome Assertions Over Exact Paths'
 - line: 'I wouldn’t evaluate each path too strictly because LLMs can accomplish the
     same goal differently. Tool calls must consult the true source. For example, two
     ways exist to find a skip level: directly or by traversing an org chart. Both
@@ -815,12 +828,12 @@ transcript:
   sec: 3443
   time: '57:23'
   who: Alexey
+- header: 'Specialization Challenge: Why Generic Agent Solutions Lag'
 - line: Making a generic solution hasn’t happened yet because these tasks are very
     specific.
   sec: 3491
   time: '58:11'
   who: Ranjitha
-- header: Future of agents in engineering
 - line: We prepared many questions, but we only covered a few today. It was super
     fun talking to you. You are very knowledgeable, and I learned new things. Time
     flew by. Thanks a lot for joining us today, and thanks everyone for joining as
@@ -828,6 +841,7 @@ transcript:
   sec: 3497
   time: '58:17'
   who: Alexey
+- header: Closing Thoughts & Future Outlook for Agent Engineering
 - line: It’s a good question, about replacing SEs with agents. Maybe if I were an
     SE, I would say, “We’ll get back to you. Watch our space at NewWord.ai.”
   sec: 3546

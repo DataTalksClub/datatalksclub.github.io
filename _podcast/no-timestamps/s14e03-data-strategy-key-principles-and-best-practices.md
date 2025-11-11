@@ -16,6 +16,8 @@ short: 'Data Strategy: Key Principles and Best Practices'
 title: 'Actionable Data Strategy & DataOps for AI-Powered Products: Pitch, Measure,
   Use GPT'
 transcript:
+- header: Podcast Introduction
+- header: Guest Introduction & Current Role
 - line: This week, we'll talk about data strategy. We have a special guest today,
     Boyan. Boyan is a data strategist with a decade of experience in various academic
     and commercial environments such as bioinformatics, clinical trials, HR tech,
@@ -41,7 +43,7 @@ transcript:
   sec: 163
   time: '2:43'
   who: Alexey
-- header: Boyan's background
+- header: Guest Background & Career Path
 - line: Before we go into our main topic of data strategy design, let's start with
     your background. Can you tell us about your career journey so far?
   sec: 170
@@ -96,6 +98,7 @@ transcript:
   sec: 179
   time: '2:59'
   who: Boyan
+- header: 'Becoming a Data Strategist: Accidental Transition'
 - line: So how did it happen that you were called a data strategist? You said that
     (or maybe my impression was) that it happened kind of by accident?
   sec: 347
@@ -145,7 +148,7 @@ transcript:
   sec: 435
   time: '7:15'
   who: Boyan
-- header: What is data strategy?
+- header: 'Defining Data Strategy: Actionable, Flexible Plans'
 - line: Yes, I do. So, data strategy is getting value from data without coding, right?
     [Boyan chuckles] Can you give a more precise definition? What is a data strategy?
   sec: 493
@@ -176,7 +179,7 @@ transcript:
   sec: 507
   time: '8:27'
   who: Boyan
-- header: Due diligence and establishing a common goal
+- header: Due Diligence & Aligning Business Goals
 - line: It's still a bit abstract to me. Okay, we have a deck, which is connected
     to strategy. I know that strategy is a big document. It can't be static. Then
     there are some other artifacts like a data dictionary. But maybe you have a more
@@ -242,7 +245,7 @@ transcript:
   sec: 730
   time: '12:10'
   who: Boyan
-- header: Designing a data strategy
+- header: 'Designing Strategy: Use Case Ideation, Feasibility & Prioritization'
 - line: I think I understand, more or less, but I'm still a bit confused. So let's
     say we have a goal – to sell more socks faster. What exactly goes into the strategy?
     Because to implement this model, we need to have the data infrastructure, the
@@ -297,6 +300,7 @@ transcript:
   sec: 977
   time: '16:17'
   who: Alexey
+- header: Influence Cascade & Scope Creep in Data Products
 - line: Yeah. This process – ideation, feasibility, and prioritization – this triad
     is the standard thing. To be honest, after this, you do need to do several other
     things that come into the data strategy. You have to set up the target architecture
@@ -329,7 +333,7 @@ transcript:
   sec: 981
   time: '16:21'
   who: Boyan
-- header: Impact assessment, portfolio management, and DataOps
+- header: Impact Assessment, Portfolio Management & Delivery
 - line: 'So the goal of this deck (of having this data strategy), or the output from
     the data strategist is: join a company, first understand what is there, then come
     up with some cases, come up with this targeted architecture and all these things,
@@ -413,6 +417,8 @@ transcript:
   sec: 1386
   time: '23:06'
   who: Alexey
+- header: Data- and AI-Powered Products Defined
+- header: 'DataOps Principles: Lean, Agile & CI/CD Practices'
 - line: Yeah. [chuckles] And DataOps, maybe we can talk about this as well, because
     this is very... [chuckles] I think it's controversial, because when people hear
     the term “data product,” people think that about a data product – Data Mesh is
@@ -421,7 +427,6 @@ transcript:
   sec: 1568
   time: '26:08'
   who: Boyan
-- header: Data products
 - line: Maybe we can start with the data product, because this is what data strategy
     is about, right?
   sec: 1410
@@ -454,7 +459,6 @@ transcript:
   sec: 1482
   time: '24:42'
   who: Boyan
-- header: DataOps, Lean, and Agile
 - line: Now let's talk about DataOps. But then there is also an interesting question
     that I want to ask you later.
   sec: 1497
@@ -492,7 +496,7 @@ transcript:
   sec: 1627
   time: '27:07'
   who: Alexey
-- header: Data Strategist vs Data Science Strategist
+- header: 'Strategy Roles: Platform, AI and BI Distinctions'
 - line: The question I see is quite an interesting one, because I also wanted to ask
     you, “What is the difference between a data strategist and a data science strategist?”
     What you describe, to me, is really data science-centric, but data is not just
@@ -541,7 +545,7 @@ transcript:
   sec: 1733
   time: '28:53'
   who: Boyan
-- header: The skills one needs to be a data strategist
+- header: 'Core Skills: Data Knowledge, Communication & Systems Thinking'
 - line: Let's come back to the time when you were hired as a data strategist. As I
     understood, your background was data science? [Boyan confirms] What skills did
     you need back then to actually be able to do this role? What kind of skills did
@@ -683,7 +687,7 @@ transcript:
   sec: 2167
   time: '36:07'
   who: Boyan
-- header: How does one become a data strategist?
+- header: 'Path to Data Strategist: Business Fluency & Deliberate Practice'
 - line: Okay. Let's say I work as a Senior Data Scientist. I listen to this podcast
     episode and I think, “Okay, this is so cool. I want to be a Data Strategist.”
     How do I go about that?
@@ -735,7 +739,7 @@ transcript:
   sec: 2318
   time: '38:38'
   who: Boyan
-- header: Data strategist as a translator
+- header: 'Translation Skill: Explaining Use Cases to Stakeholders'
 - line: Coming back to your point of learning more about the business (or learning
     a lot about business). You mentioned that you need to talk to functional leaders,
     such as the head of marketing, the head of product, maybe – all the people who
@@ -781,7 +785,7 @@ transcript:
   sec: 2445
   time: '40:45'
   who: Boyan
-- header: Transitioning from a Data Strategist role to a CTO
+- header: 'From Strategist to CTO: Ownership, Budgeting & Management'
 - line: By the way, how did this happen? How exactly did that transition happen for
     you?
   sec: 2491
@@ -827,7 +831,7 @@ transcript:
   sec: 2548
   time: '42:28'
   who: Boyan
-- header: Using ChatGPT as a writing co-pilot
+- header: 'GPT as Writing Co‑Pilot: Sidebars, Editing & Ethical Considerations'
 - line: Interesting. Then there's something I really wanted to talk to you about.
     For your book, you used GPT, and that's really nice that you explicitly acknowledge
     that.
@@ -896,7 +900,7 @@ transcript:
   sec: 2808
   time: '46:48'
   who: Boyan
-- header: Using ChatGPT as a starting point
+- header: 'GPT for Drafting: Outlines, PowerPoint & Chapter Structure'
 - line: So one thing I can think of is, for example, say you want to write a chapter.
     For me, I always have this problem of a blank page. How do I start? You can just
     ask GPT or ChatGPT, “I want to write a chapter of a book about this and I need
@@ -985,7 +989,7 @@ transcript:
   sec: 3042
   time: '50:42'
   who: Boyan
-- header: How ChatGPT can help in data strategy
+- header: 'ChatGPT for Data Strategy: Ideation, Prompting & Tech Guidance'
 - line: Coming back to data strategy. I think you mentioned at some point that it's
     okay to use ChatGPT or GPT-whatever for some things. So how can we use ChatGPT
     for a data strategy design?
@@ -1017,7 +1021,7 @@ transcript:
   sec: 3077
   time: '51:17'
   who: Boyan
-- header: Pitching a data strategy to a stakeholder
+- header: 'Pitching Strategy: Start Small with a Budgeted Use Case'
 - line: Okay, cool. I see that we have a question. “Let's say we have to do a data
     strategy for a consumer B2B2C business with a stakeholder...” That's very specific.
     B2B2C is what? It's a business that sells to a business and then to customers?
@@ -1073,7 +1077,7 @@ transcript:
   sec: 3194
   time: '53:14'
   who: Boyan
-- header: Setting baselines in a data strategy
+- header: 'Baselines & Measurement: Pre- and Post-Implementation Metrics'
 - line: We also have a question about the baseline in data strategy. The question
     is, “Do we need to have two baselines in a strategy? One for the initial discussion
     or initial benchmarking – initial understanding of what the current status is
@@ -1099,7 +1103,7 @@ transcript:
   sec: 3358
   time: '55:58'
   who: Boyan
-- header: Boyan's book recommendations
+- header: 'Recommended Reading: Data Strategy, DataOps & Infonomics'
 - line: Well, we should be wrapping up. Maybe one last question for you. Do you know
     of any books or other resources that you can recommend to listeners who want to
     learn more about this topic?
@@ -1126,6 +1130,7 @@ transcript:
   sec: 3431
   time: '57:11'
   who: Boyan
+- header: Episode Wrap-Up & Resources
 - line: Okay, cool. Thanks. That's a lot of books. Thanks for joining us today. And
     thanks, everyone, for joining us today. That was a lot of useful information.
     We will also include a link to your book, and I think we have like five copies

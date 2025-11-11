@@ -15,7 +15,8 @@ season: 20
 short: Competitive Machine Learning and Teaching
 title: 'From Kaggle to Production: MLOps, Competition Strategies & Curriculum Design'
 transcript:
-- header: Introduction and Alexander’s background
+- header: Episode Start
+- header: Guest Introduction & Kaggle Grandmaster Credentials
 - line: This week, we’ll talk about competitive machine learning and teaching. Our
     special guest today is Alexander Guschin, a machine learning engineer with 10+
     years of experience, a Kaggle Grandmaster ranked 5th globally, and a teacher to
@@ -43,7 +44,7 @@ transcript:
   sec: 342
   time: '5:42'
   who: Alexey
-- header: 'Alexander’s career journey: From Kaggle to industry and teaching'
+- header: Early Industry Roles & Open-Source Contributions
 - line: Sure. My career started about 10 years ago when I was a student at a university
     in Moscow. I was looking for an opportunity to learn machine learning, which was
     a new and exciting field at the time. I found that opportunity on Kaggle.
@@ -69,6 +70,7 @@ transcript:
   sec: 486
   time: '8:06'
   who: Alexey
+- header: MLEM Story & Tooling Anecdotes
 - line: Yes, I was part of the team. My friend Mikhail Sveshenkov gave a talk at one
     of your events about a tool we were building called MLEM.
   sec: 516
@@ -97,7 +99,7 @@ transcript:
   sec: 579
   time: '9:39'
   who: Alexey
-- header: How Alexander got started with Kaggle and his early experiences
+- header: Kaggle Beginnings & Local Community Influence
 - line: I started Kaggle while studying at university. I chose a machine learning
     lab for my bachelor’s thesis but quickly realized how challenging it was. I found
     Kaggle as a place to test my practical skills.
@@ -119,6 +121,7 @@ transcript:
   sec: 873
   time: '14:33'
   who: Alexander
+- header: Balancing Competitions with University Studies
 - line: How did you balance Kaggle and university?
   sec: 887
   time: '14:47'
@@ -137,13 +140,14 @@ transcript:
   sec: 942
   time: '15:42'
   who: Alexander
+- header: Time Investment & Learning Curve on Competitions
 - line: You said the secret to success on Kaggle is putting in a lot of time. I can
     confirm that. In one competition, I spent 3 months working on it, putting in 5-10
     hours per week. It was exhausting, but I learned a lot.
   sec: 956
   time: '15:56'
   who: Alexey
-- header: The value of Kaggle in broadening machine learning skills
+- header: Kaggle for Skill Broadening, Domain Exposure & Interviews
 - line: Kaggle broadens your perspective on machine learning. You learn different
     domains, models, and frameworks, which is incredibly valuable when you start working
     in the industry.
@@ -188,7 +192,7 @@ transcript:
   sec: 1257
   time: '20:57'
   who: Alexander
-- header: Preparing for Kaggle competitions and the importance of iteration
+- header: 'Competition Preparation: Iteration, Baselines & Infrastructure'
 - line: Did you do anything special to prepare for competitions?
   sec: 1302
   time: '21:42'
@@ -202,6 +206,7 @@ transcript:
   sec: 1361
   time: '22:41'
   who: Alexey
+- header: Applying Competition Experience to Production ML
 - line: Not anymore. Now I’m usually on the organizing side.
   sec: 1365
   time: '22:45'
@@ -210,7 +215,6 @@ transcript:
   sec: 1375
   time: '22:55'
   who: Alexey
-- header: How Kaggle helped Alexander transition to the industry
 - line: Kaggle broadened my perspective on machine learning. It helped me understand
     different domains and frameworks, which was valuable in job interviews.
   sec: 1431
@@ -225,7 +229,7 @@ transcript:
   sec: 1551
   time: '25:51'
   who: Alexey
-- header: Is Kaggle still useful for starting a data science career today?
+- header: Regional Differences in Kaggle’s Career Value
 - line: It depends on your location and opportunities. In places like Kazakhstan,
     where educational resources are limited, Kaggle is still valuable. But in the
     US or Europe, there are other ways to start a career.
@@ -245,7 +249,7 @@ transcript:
   sec: 1737
   time: '28:57'
   who: Alexey
-- header: Should you compete in Kaggle alone or in teams?
+- header: 'Collaboration Strategies: Teamwork vs. Solo Competitions'
 - line: It’s better to form a team or at least have a community to discuss ideas.
     Different people explore different solutions, which can lead to better results.
   sec: 1748
@@ -264,7 +268,6 @@ transcript:
   sec: 1845
   time: '30:45'
   who: Alexey
-- header: Teaching school children about machine learning and AI Olympiads
 - line: Yes, they found a data leak, which was key to their success.
   sec: 1874
   time: '31:14'
@@ -273,6 +276,7 @@ transcript:
   sec: 1884
   time: '31:24'
   who: Alexey
+- header: Teaching Teens & Participation in AI Olympiads
 - line: Yes, I teach 16-18-year-olds as part of an international AI Olympiad.
   sec: 1890
   time: '31:30'
@@ -285,11 +289,11 @@ transcript:
   sec: 1982
   time: '33:02'
   who: Alexander
-- header: 'Alexander’s teaching journey: From Kaggle to university'
 - line: How did you start teaching?
   sec: 1999
   time: '33:19'
   who: Alexey
+- header: 'Transition to Teaching: From Competitor to Instructor'
 - line: I joined a class at my university and was asked to teach instead of being
     a student.
   sec: 2005
@@ -333,11 +337,11 @@ transcript:
   sec: 2228
   time: '37:08'
   who: Alexey
+- header: 'Practical Curriculum Design: Production ML & MLOps'
 - line: I prefer teaching practical skills, like production machine learning and MLOps.
   sec: 2277
   time: '37:57'
   who: Alexander
-- header: Teaching practical machine learning and MLOps
 - line: How do you approach teaching now?
   sec: 2391
   time: '39:51'
@@ -352,12 +356,12 @@ transcript:
   sec: 2460
   time: '41:00'
   who: Alexey
+- header: Machine Learning System Design Projects & Real-World Work
 - line: Another class focuses on machine learning system design, where students work
     on real-world problems.
   sec: 2470
   time: '41:10'
   who: Alexander
-- header: Developing production machine learning skills after Kaggle
 - line: How did you develop your production machine learning skills?
   sec: 2553
   time: '42:33'
@@ -382,22 +386,22 @@ transcript:
   sec: 2756
   time: '45:56'
   who: Alexander
-- header: 'Alexander’s approach to teaching: Designing interesting problems'
 - line: How do you approach teaching now?
   sec: 2801
   time: '46:41'
   who: Alexey
+- header: 'Problem-Centered Assignments: Bot Detection Case Study'
 - line: I design problems that students find interesting and build the curriculum
     around them. For example, I have a class where students build a classifier to
     detect bots in dialogues.
   sec: 2810
   time: '46:50'
   who: Alexander
-- header: Teaching machine learning system design and real-world projects
 - line: Do students work individually or in teams?
   sec: 3002
   time: '50:02'
   who: Alexey
+- header: Teamwork, Communication & Dual Leaderboards (ML + Technical)
 - line: They work in teams to learn collaboration and communication.
   sec: 3010
   time: '50:10'
@@ -439,6 +443,7 @@ transcript:
   sec: 3245
   time: '54:05'
   who: Alexey
+- header: 'Online Education at Scale: Coursera Course & 100k Students'
 - line: Yes, I created a Coursera course on winning Kaggle competitions, which has
     been taken by over 100,000 students.
   sec: 3250
@@ -461,11 +466,11 @@ transcript:
   sec: 3349
   time: '55:49'
   who: Alexander
-- header: Developing a platform for teaching machine learning
 - line: Do you develop the platform yourself?
   sec: 3376
   time: '56:16'
   who: Alexey
+- header: Teaching Platform Development & Student-Built Software
 - line: No, I oversee the development, but students and mentors handle the coding.
   sec: 3382
   time: '56:22'
@@ -482,6 +487,7 @@ transcript:
   sec: 3448
   time: '57:28'
   who: Alexey
+- header: Documentation, Mentorship & Industry Partnerships
 - line: We document everything and have mentors to guide new students.
   sec: 3455
   time: '57:35'
@@ -502,7 +508,7 @@ transcript:
   sec: 3590
   time: '59:50'
   who: Alexander
-- header: Convincing managers of the value of Kaggle
+- header: Demonstrating Kaggle’s Business Value to Managers
 - line: One question is about convincing managers of the value of Kaggle.
   sec: 3591
   time: '59:51'
@@ -512,11 +518,11 @@ transcript:
   sec: 3608
   time: '1:00:08'
   who: Alexander
-- header: Secret tricks for winning Kaggle competitions
 - line: 'Another question: Is there a secret trick that works in competitions?'
   sec: 3688
   time: '1:01:28'
   who: Alexey
+- header: 'Competition Essentials: EDA, Validation & No Single Trick'
 - line: There’s no single trick, but careful data exploration and validation are key.
   sec: 3708
   time: '1:01:48'
@@ -529,7 +535,7 @@ transcript:
   sec: 3773
   time: '1:02:53'
   who: Alexander
-- header: The impact of generative AI on competitive machine learning
+- header: 'Generative AI & AutoML: Productivity vs. Winning Solutions'
 - line: How does generative AI affect competitive machine learning?
   sec: 3791
   time: '1:03:11'
@@ -548,7 +554,7 @@ transcript:
   sec: 3874
   time: '1:04:34'
   who: Alexander
-- header: Alexander’s current Kaggle rank and reflections on his career
+- header: 'Career Reflections: Current Activity and Kaggle Legacy'
 - line: What’s your current Kaggle rank?
   sec: 3913
   time: '1:05:13'
@@ -589,6 +595,7 @@ transcript:
   sec: 4102
   time: '1:08:22'
   who: Alexander
+- header: Closing Remarks & Episode Wrap-Up
 - line: Alexander, thank you for joining us today. It was great to talk to you.
   sec: 4134
   time: '1:08:54'

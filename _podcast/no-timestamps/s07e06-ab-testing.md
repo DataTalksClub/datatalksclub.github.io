@@ -37,6 +37,8 @@ links:
   youtube: https://www.youtube.com/watch?v=0Gqx1LtqRZU
 season: 7
 transcript:
+- header: Podcast Introduction
+- header: Guest Background & Career Transition to Data Science
 - line: This week we'll talk about A/B testing and experimentation. We have a special
     guest today, Jakob. Jakob has more than three years of experience of growing data
     analytics teams. Now he's a head of analytics at Inkitt. He's passionate about
@@ -48,7 +50,6 @@ transcript:
   sec: 83
   time: '1:23'
   who: Jakob
-- header: Guest Introduction; A/B Testing and Experimentation Focus
 - line: I'm especially curious about the last point – the pizza dough. But maybe this
     is something that we'll talk about later. But before we go into our main topic
     of A/B tests, let's start with your background. Can you tell us about your career
@@ -56,7 +57,6 @@ transcript:
   sec: 85
   time: '1:25'
   who: Alexey
-- header: 'Career Path: Econometrics, Data Science, Building Data Orgs'
 - line: Sure, yeah. I guess my journey started with finishing my Master's degree in
     economics and econometrics –it was a quantitative focus. Back then I was super
     into economics and really wanted to actually be a practicing economist, which
@@ -103,11 +103,11 @@ transcript:
   sec: 304
   time: '5:04'
   who: Jakob
-- header: 'Concept: Econometrics vs. ML; Causality & Hypothesis Testing'
 - line: Not for technical books?
   sec: 309
   time: '5:09'
   who: Alexey
+- header: 'Econometrics to Product Analytics: Causality Emphasis'
 - line: No. [laughs] Maybe that's something that would be interesting for the future.
     But so far, it's strictly fiction.
   sec: 311
@@ -171,7 +171,7 @@ transcript:
   sec: 490
   time: '8:10'
   who: Jakob
-- header: 'Concept: A/B Testing Defined; Clinical Trials Analogy'
+- header: 'A/B Testing Explained: Clinical Trials Analogy & Randomization'
 - line: Can you tell us what an A/B test actually is? Why should we care about this
     test if we're not somebody who is in econometrics, but let's say in data science?
   sec: 493
@@ -222,7 +222,7 @@ transcript:
   sec: 680
   time: '11:20'
   who: Alexey
-- header: 'A/B Testing Purpose: Establishing Causality; Controlling Noise'
+- header: 'Experimentation Purpose: Establishing Causality & Controlling Noise'
 - line: Yeah, exactly. The idea behind why we do A/B testing in the first place is
     really to establish this causal link of the change and the impact. Otherwise,
     as I mentioned before, econometrics is so sophisticated because economists have
@@ -261,7 +261,7 @@ transcript:
   sec: 805
   time: '13:25'
   who: Jakob
-- header: 'Inkyy Example: Subscription Model Testing vs. Point System'
+- header: 'Case Study: Subscription vs Points — Revenue Metric Design'
 - line: Can you maybe give us an example from something you did recently? An A/B test
     that you ran – maybe something simple?
   sec: 867
@@ -334,7 +334,7 @@ transcript:
   sec: 1084
   time: '18:04'
   who: Jakob
-- header: 'Importance of Testing: De-risking Features; Organizational Learning'
+- header: De-risking Features & Building Organizational Learning with Experiments
 - line: So why can't we just trust our gut feeling? In this case, let's say you have
     this experience from King and you know that for users, they really like this gamification
     system, and that some of them would actually pay to be able to go to the next
@@ -419,7 +419,7 @@ transcript:
   sec: 1433
   time: '23:53'
   who: Jakob
-- header: 'Infrastructure Setup: In-House vs. Third-Party Tools'
+- header: 'Experimentation Platform Choices: Third-Party vs In-House'
 - line: Now we know that A/B tests are good. We need to experiment – how do we start
     with this? Let's say you join a company – a startup. At the startup they do not
     experiment yet. They already have data in the data engineering team, or maybe
@@ -436,6 +436,7 @@ transcript:
   sec: 1434
   time: '23:54'
   who: Alexey
+- header: Traffic Splitter Implementation, Assignment Tracking & Monitoring
 - line: Yeah, that's a good question. I've never been at that stage where I had to
     set everything up from scratch. One thing that I would probably think about first
     is that there are two roads to take. In some sense, they have major implications
@@ -475,6 +476,7 @@ transcript:
   sec: 1484
   time: '24:44'
   who: Jakob
+- header: 'A/A Testing: Validating Randomization and System Trust'
 - line: My next suggestion would be to build as much tracking around this process
     as possible. Not only tracking “Here's the assignments. This is user A. This is
     user B.” But you actually want to understand if the app always calls the traffic
@@ -489,7 +491,6 @@ transcript:
   sec: 1672
   time: '27:52'
   who: Jakob
-- header: 'Technique: A/A Testing for System Trust and Randomization Check'
 - line: So from scratch, I think you need to build out a system that you can fully
     monitor and trust. If you don't trust that system, then you can forget about your
     A/B tests. A good way to understand what's happening there is to do an A/A test,
@@ -506,6 +507,7 @@ transcript:
   sec: 1672
   time: '27:52'
   who: Jakob
+- header: 'First Test Best Practices: Two-Group Design & Simplicity'
 - line: I think it's also worth doing that with external tools, because at Babbel,
     we had the experience that we couldn't really trust them. That was actually what
     was going on. They gave us these not really clean tests where we wanted 50/50
@@ -552,7 +554,7 @@ transcript:
   sec: 1959
   time: '32:39'
   who: Alexey
-- header: 'Metric Analysis: Noise, Stability, Seasonality, Business Cycles'
+- header: 'Metric Selection: Noise, Stability, Seasonality & Business Cycles'
 - line: You also mentioned a few things, which are – we need to understand the metric,
     we need to understand if they are noisy or stable, and what the expected impact
     is. I have a few questions about this. First of all, what is a noisy metric? What
@@ -623,7 +625,7 @@ transcript:
   sec: 2191
   time: '36:31'
   who: Jakob
-- header: 'Test Duration: Power Analysis; Z-tests, T-tests, Non-parametric Tests'
+- header: 'Test Duration & Power Analysis: Sample Size Planning'
 - line: You also mentioned duration. For metrics that have these oscillations – there
     are more users on the weekend, for example – we need to plan to at least cover
     the entire week. What do we need to think about when we're talking about duration
@@ -659,6 +661,7 @@ transcript:
   sec: 2289
   time: '38:09'
   who: Jakob
+- header: 'Statistical Tests Overview: Z-test, T-test, and Nonparametric Options'
 - line: You mentioned that there is a simple formula. I saw these calculators and
     you don't even need to look at the formula – you just go there and it's an online
     calculator. You go to it, you put in some numbers, and then it says, “Okay, you
@@ -710,7 +713,7 @@ transcript:
   sec: 2465
   time: '41:05'
   who: Jakob
-- header: 'Required Skills: Visualizing Data Distribution; Basic Statistics'
+- header: 'Data Distribution Checks: Histograms, Tails, and Visualization'
 - line: How can we pick this up? Let's say, for those who have no idea what (T-test
     is probably quite a widespread thing) but for those who don't know what a T-test
     is or what a nonparametric test is, but maybe they did some machine learning or
@@ -734,7 +737,6 @@ transcript:
   sec: 2709
   time: '45:09'
   who: Jakob
-- header: 'Course: A/B Test Crash Course Advice'
 - line: Do you know of a good crash course on A/B tests that does not involve a lot
     of math – ones that are more practical? “If your data looks like this, use this
     test. If your data looks like that, use another test.” Something like that?
@@ -753,6 +755,7 @@ transcript:
   sec: 2797
   time: '46:37'
   who: Jakob
+- header: 'P-value Intuition: Explaining Significance via A/A Comparison'
 - line: Like thinking of metrics and things like that?
   sec: 2864
   time: '47:44'
@@ -761,7 +764,6 @@ transcript:
   sec: 2866
   time: '47:46'
   who: Jakob
-- header: 'Concept: P-Value Explained Simply (A/A Comparison)'
 - line: We have quite a few questions. We already talked about the frequentist approach
     and the question is related to that. "Can you please explain it like I'm five
     years old – what is a p-value?" Or maybe five is a bit tough – maybe like I'm
@@ -819,7 +821,7 @@ transcript:
   sec: 3094
   time: '51:34'
   who: Jakob
-- header: 'Frequentist vs. Bayesian: Credible Intervals, Computational Cost'
+- header: 'Frequentist vs Bayesian Testing: Credible Intervals, Priors & Costs'
 - line: What do you think about this "other way" of doing tests? The "other way" meaning
     – we have the frequentist approach to testing and then we have the Bayesian approach
     to testing, which I think (correct me if I'm wrong) but there is no notion of
@@ -918,7 +920,7 @@ transcript:
   sec: 3430
   time: '57:10'
   who: Jakob
-- header: 'A/B/C/D Tests: Longer Duration; Multiple Comparison Problem'
+- header: 'Multi-armed Tests (A/B/C/D): Duration, Power, and Multiple Comparisons'
 - line: I see that we are almost running out of time, but there is one question that
     perhaps you can answer pretty quickly. The question is about A/B/C/D tests. So,
     "What is an A/B/C/D test with respect to A/B tests? And when do we need this complex
@@ -967,7 +969,7 @@ transcript:
   sec: 3642
   time: '1:00:42'
   who: Jakob
-- header: Practice Pizza Dough; Finding Guest Online
+- header: Practical Experimentation Tips & Analogies (Pizza Dough)
 - line: Okay, thanks. I actually wanted to ask you about pizza dough, as well. We
     didn't have a chance to talk about it. Do you have any resources that you can
     recommend to us in order to learn more about this topic and A/B tests? Maybe how
@@ -985,6 +987,7 @@ transcript:
   sec: 3793
   time: '1:03:13'
   who: Jakob
+- header: Hiring, Resources & Contact Information
 - line: Okay, yeah. [laughs] You mentioned that you are actually hiring for a product
     analyst role, right? If you have any job descriptions linked to your job portals,
     please send them and I will include this in the description. For those who are
@@ -999,6 +1002,7 @@ transcript:
   sec: 3869
   time: '1:04:29'
   who: Jakob
+- header: Episode Wrap-up and Key Takeaways
 - line: Okay, thanks a lot. Thanks for joining us today. Thanks for sharing your experience
     with us. Thanks, everyone, for joining us today as well and for asking questions.
     I wish everyone a great weekend!

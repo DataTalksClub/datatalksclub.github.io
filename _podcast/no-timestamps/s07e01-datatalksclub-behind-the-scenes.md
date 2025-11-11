@@ -17,6 +17,8 @@ links:
   spotify: https://open.spotify.com/episode/3ltAxUsCE8EAf0pRb9zxDK
   apple: https://podcasts.apple.com/us/podcast/datatalks-club-behind-the-scenes-eugene-yan-alexey/id1541710331?i=1000548608967
 transcript:
+- header: Podcast Introduction
+- header: 'Career Transition: Java to Machine Learning (Coursera, Andrew Ng)'
 - line: Welcome to another session of the DataTalks.Club podcast. It's a bit unusual
     today. Well, Alexey is here and I'm here, but instead of Alexey hosting the podcast
     – this time, I'm going to be hosting it and I'm going to be grilling him with
@@ -29,7 +31,6 @@ transcript:
   sec: 30
   time: 0:30
   who: Alexey
-- header: Alexey’s background
 - line: Yeah, we met a long time ago, I can't remember how. But we started chatting.
     Since then, we've been chatting every other month. Through that, I've seen how
     Alexey has come to the crazy idea of wanting to start his community. I thought
@@ -43,6 +44,7 @@ transcript:
   sec: 33
   time: 0:33
   who: Eugene
+- header: Freelancing, Master's, and first data-science roles; building data pipelines
 - line: Yeah, so that's a long story. I don't know how I can compress 10 years into
     a few minutes. I'll try to be brief. Actually, Eugene interviewed me half a year
     ago or something like that. There is a long article that he also published on
@@ -96,6 +98,8 @@ transcript:
   sec: 297
   time: '4:57'
   who: Eugene
+- header: 'Career Lessons: step outside comfort zone; product mindset; prefer simple
+    models'
 - line: Maybe not lessons, but my advice would be – you don't have to stay within
     your comfort zone. Try to step outside of your responsibilities. This is what
     I did with all the setting data pipelines and whatnot. That really helped. This
@@ -116,7 +120,7 @@ transcript:
   sec: 306
   time: '5:06'
   who: Alexey
-- header: Being a principal data scientist
+- header: 'Principal Data Scientist Role: internal consulting, architecture, mentoring'
 - line: Cool. Thank you for that, Alexey. I have one other question. You shared with
     us about all the technical stuff that you did early in your career. But now that
     you're a principal data scientist – now you're someone more senior – can you share
@@ -166,6 +170,7 @@ transcript:
   sec: 412
   time: '6:52'
   who: Alexey
+- header: 'Motivation to Start the Community: early interactions and LinkedIn outreach'
 - line: That's very high leverage work – getting teams to talk to each other to make
     sure that they don't reinvent the wheel, removing unnecessary work, and also educating
     people and creating courses. I can sort of see where the motivation comes from
@@ -179,7 +184,7 @@ transcript:
   sec: 604
   time: '10:04'
   who: Alexey
-- header: DataTalks.Club
+- header: 'Community Origins: forums, landing page, first events and format inspiration'
 - line: Almost 10. That's pretty crazy. Can you take us back to the very beginning?
     What gave you this idea?
   sec: 605
@@ -269,13 +274,13 @@ transcript:
   sec: 613
   time: '10:13'
   who: Alexey
-- header: The beginning and growth of DataTalks.Club
 - line: I recall that you shared some statistics with me. I think in the first month
     the growth was pretty bad compared to six months later. What happened? Could you
     refresh your memory about how the Data Talks community grew?
   sec: 998
   time: '16:38'
   who: Eugene
+- header: 'Community Growth & Events: conference boost and scaling to ~9k members'
 - line: I don't remember the numbers. I think, the first year – by the end of 2020
     – we had like 500 people. By the end of 2021, it was 9000. So yeah. What I did
     the first month, I think I told you, was welcome everyone in the community – I
@@ -323,7 +328,7 @@ transcript:
   sec: 1110
   time: '18:30'
   who: Alexey
-- header: Sustaining the pace
+- header: 'Content Production & Automation: planning, scheduling, Zapier, Eventbrite'
 - line: I recall the first time that I really got a shot, which was when Alexey invited
     me to share on Data Talks Club. I said “Okay, what is DataTalks.Club about?” That's
     when I realized that Alexey was actually putting out two videos, or podcasts,
@@ -383,7 +388,7 @@ transcript:
   sec: 1256
   time: '20:56'
   who: Alexey
-- header: Types of talks
+- header: 'Event Formats: Open Source Spotlight, Minis, Book of the Week'
 - line: That's really cool in how you use your ability as an engineer to automate
     stuff and try to make it easier for you. On Data Talks Club there are a lot of
     different kinds of talks, right? I was looking at it – there’s Open Source Spotlight,
@@ -427,7 +432,7 @@ transcript:
   sec: 1501
   time: '25:01'
   who: Alexey
-- header: Popular and favorite talks
+- header: 'Notable Guests & Popular Episodes: Martin Kleppmann, Elena Samuylova, Santiago'
 - line: Yeah, I know. It's great that actually all these different ideas came out
     just out of necessity, right? It’s not something that was planned. Okay, last
     question about the community, since I want to ask you about your book. So, what
@@ -488,7 +493,7 @@ transcript:
   sec: 1877
   time: '31:17'
   who: Alexey
-- header: Making DataTalks.Club self-sufficient
+- header: 'Monetization & Sponsorship: costs, TopCoder, Toloka crowdsourcing workshop'
 - line: Okay. So one last question. I know we're coming on time, but one last question
     before I ask you a lot of questions about your book. I know you've been trying
     to monetize the community, with the main goal of making the community become more
@@ -593,7 +598,7 @@ transcript:
   sec: 2210
   time: '36:50'
   who: Alexey
-- header: Alexey’s book and course
+- header: 'ML Bookcamp & Machine Learning Zoomcamp: project-based, end-to-end learning'
 - line: Now's the best time [audio cuts out] initially starting this while looking
     for sponsors. It's gonna be easier, you don't really have to queue to have an
     event, because he can give his full attention. So thank you for sharing with us
@@ -604,6 +609,7 @@ transcript:
   sec: 2302
   time: '38:22'
   who: Eugene
+- header: 'Deployment Focus in the Book/Course: Flask, AWS Lambda, Kubernetes, Kubeflow'
 - line: Yeah. I'll try to be brief, because there are still questions from the community
     that I want to cover. This book was for people like me, for software engineers,
     who want to go into machine learning. In the book, I focused on teaching through
@@ -663,7 +669,7 @@ transcript:
   sec: 2483
   time: '41:23'
   who: Alexey
-- header: Advice for people starting in data science and staying motivated
+- header: 'Career Advice: join communities, answer questions, find mentors'
 - line: Well, the projects you take on have always had that quality, where they’re
     very, very big. But you manage to tackle them anyway, Data Talks Club, and then
     the book, and now the course. Well, now we have a couple of questions from the
@@ -683,6 +689,7 @@ transcript:
   sec: 2589
   time: '43:09'
   who: Alexey
+- header: 'Motivation & Persistence: handling frustration and sustaining interest'
 - line: I have a question from Amruta. “Have you ever felt like giving up during your
     data science journey? What kept you going? What motivated you?”
   sec: 2635
@@ -710,7 +717,8 @@ transcript:
   sec: 2644
   time: '44:04'
   who: Alexey
-- header: Not keeping up to date with new tools
+- header: 'Tool Evaluation Strategy: avoid tool churn, follow lasting trends, Kedro
+    curiosity'
 - line: I know what you mean. I think, initially, when you first started, it’s quite
     amazing that you can actually use data to predict what's going to happen. Now
     you’re building these things with your own hands. A question from William, “How
@@ -763,7 +771,7 @@ transcript:
   sec: 2759
   time: '45:59'
   who: Alexey
-- header: Staying productive
+- header: 'Productivity & Workflow: public deadlines, accountability, batching work'
 - line: I agree. Besides, you're so busy at work and you don't have time to evaluate
     these new tools, Rob asks, “How are you so productive? What does your process
     look like? How do you balance your full-time job at OLX and Data Talks Club and
@@ -792,7 +800,8 @@ transcript:
   sec: 3025
   time: '50:25'
   who: Alexey
-- header: Learning technical subjects and keeping notes
+- header: 'Learning by Projects & Notes: just-in-time learning, Notion, READMEs, GitHub
+    docs'
 - line: Alright. So we have a few more questions. Quinn asks “How do you learn technical
     subjects? How do you know if you're able to apply it well?” You mentioned that
     you keep notes about your projects. Could you shed some light on that?
@@ -834,7 +843,7 @@ transcript:
   sec: 3044
   time: '50:44'
   who: Alexey
-- header: Inspiration and idea generation for DataTalks.Club
+- header: 'Community Inspiration & Format Ideas: borrowing from ML Ops and JavaRanch'
 - line: One more question from the Slack community and then we’ll move on to Slido.
     So Demetrius, who's a fellow organizer of support communities, I think he organizes
     the ML Ops community. He asked “Where do you get your community-related ideas
@@ -870,6 +879,7 @@ transcript:
   sec: 3264
   time: '54:24'
   who: Alexey
+- header: 'Interactive Formats: live coding, office hours, ML Zoomcamp sessions'
 - line: Right. I think we have the last question for this podcast, which is from Slido.
     “Have you ever considered live coding sessions, or coding and commenting sessions?”
   sec: 3307
@@ -884,7 +894,7 @@ transcript:
   sec: 3319
   time: '55:19'
   who: Alexey
-- header: Wrapping up
+- header: Community Thanks & Future Plans
 - line: All right. So that's it for all the questions. Is there anything else that
     you felt that I didn't ask, but you really wanted to share with the audience?
   sec: 3356
@@ -900,6 +910,7 @@ transcript:
   sec: 3367
   time: '56:07'
   who: Alexey
+- header: Podcast Closing
 - line: Thank you to everyone who's out there listening. Maybe next year we'll have
     another review of how things went this year and we'll do the same format. Alright.
     Thank you, everyone.

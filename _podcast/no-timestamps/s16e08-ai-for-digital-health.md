@@ -15,6 +15,7 @@ season: 16
 short: AI for Digital Health
 title: 'Build & Scale a Digital Clinic: AI Skin Health, Telemedicine & AR MVP'
 transcript:
+- header: Podcast Introduction
 - line: This week, we will talk about AI for digital healthcare. We have a special
     guest today, Maria. Maria is the founder and the CEO of SQIN. She is a podcast
     host, and she was named one of the top 20 Women in AI. Welcome to the show, Maria.
@@ -32,7 +33,7 @@ transcript:
   sec: 27
   time: 0:27
   who: Alexey
-- header: Maria’s background
+- header: 'Career Journey: From Electrical Engineering to Founding SQIN'
 - line: Before going to the main topic, we start the interview by talking about your
     career progression. So let's start with your background. Can you tell us about
     your career journey so far?
@@ -69,6 +70,7 @@ transcript:
   sec: 121
   time: '2:01'
   who: Alexey
+- header: 'Founder Approach: Industry Immersion, MVP Development'
 - line: Yeah. We started five years ago with the first ideas and our MVP. But we always,
     as founders, believe that… For us, we didn't have the idea and then we woke up
     in the morning and said, “This is exactly what we want to do.” It was more that
@@ -112,7 +114,7 @@ transcript:
   sec: 246
   time: '4:06'
   who: Maria
-- header: Deciding to go into telecare (healthcare)
+- header: 'Why Healthcare: Digitization Opportunity in Medical Systems'
 - line: Oh, so you already knew your co-founder way before starting. Then you got
     pregnant and thought, “Okay, your life is going to change anyway. Let's start
     something.” So you talked with the co-founder, and then you decided to go into
@@ -134,6 +136,7 @@ transcript:
   sec: 303
   time: '5:03'
   who: Alexey
+- header: 'Healthcare Challenges: Data Gaps, Rural Access, and Legacy Workflows'
 - line: I think, five years ago, healthcare was an industry that was not really digitized.
     They just started to think about, “Okay, what could be different in the future?”
     There was not even data. People, at least in Germany, started to talk about the
@@ -152,6 +155,7 @@ transcript:
   sec: 307
   time: '5:07'
   who: Maria
+- header: 'Legacy Infrastructure: Fax, Fragmentation, and Slow Adoption'
 - line: In Germany… I live in Berlin, and the doctors still communicate with each
     other using fax. I go do an MRI, and then they do the analysis of the MRI, and
     send the results by fax to my doctor. It prints and everything. It's 2023 and
@@ -187,6 +191,7 @@ transcript:
   sec: 491
   time: '8:11'
   who: Alexey
+- header: 'Regional Perspective: Access Issues in Southern Brandenburg'
 - line: I'm from Southern Brandenburg. So from Berlin, just going to the south. I
     mean, my parents are still living there. The situation’s not that easy. My mom's
     always going to Berlin to see a doctor. It's about a two-hour ride. I mean, we're
@@ -202,7 +207,6 @@ transcript:
   sec: 521
   time: '8:41'
   who: Maria
-- header: Current difficulties in healthcare
 - line: It's a lot of time, two hours, if we think about that. Also, in big cities,
     it’s sometimes very difficult to book an appointment because all the doctors are
     booked in advance.
@@ -269,7 +273,7 @@ transcript:
   sec: 734
   time: '12:14'
   who: Maria
-- header: Getting into the healthcare industry as a lifestyle brand
+- header: 'Market Research Tactics: Cold Outreach, Accelerators, Clinical Meetings'
 - line: Yeah. [chuckles] Some five years ago, you realized that there is a gap and,
     together with your co founder, who you already met before, you started learning
     more about the industry. From my understanding, you didn't know much about this
@@ -280,6 +284,7 @@ transcript:
   sec: 740
   time: '12:20'
   who: Alexey
+- header: 'AR MVP: Lipstick Try-On as a Data Collection & Engagement Tool'
 - line: I would say we started very rough. We reached out to people or brands, or
     hospitals, or whatever institutions – you want to know more about most of them.
     Of course, you can start with Google and you could start educating yourself, but
@@ -328,6 +333,7 @@ transcript:
   sec: 939
   time: '15:39'
   who: Alexey
+- header: 'Discovery: Skin Health Signals Hidden in Lifestyle Interactions'
 - line: Yeah. What you do when you try on lipstick is a sequence – it could be a picture
     or video of your whole face. So what we got out of that was not really about...
     We, of course, saw how lipstick fits you in terms of color, but we also saw the
@@ -371,7 +377,7 @@ transcript:
   sec: 1057
   time: '17:37'
   who: Maria
-- header: The importance of a plan B and being flexible
+- header: 'Founder Lessons: Experimentation, Pivoting, and Plan B Flexibility'
 - line: I'm just curious. For me, I see the connection – you take a picture, or probably
     a stream of data, like a video, you try the lipstick and, at the same time, you
     recognize that there are some skin problems on the face. Right? [Maria agrees]
@@ -419,6 +425,7 @@ transcript:
   sec: 1242
   time: '20:42'
   who: Alexey
+- header: 'Product-Market Fit: Aligning AI Capabilities with Business Cases'
 - line: Yeah. All these kinds of things have been coming up over the last few years.
     But, as mentioned, we started with the lipstick thing – nothing was there. That
     was so crazy. When we published the thing and had it at the fair, I really remember
@@ -466,7 +473,7 @@ transcript:
   sec: 1399
   time: '23:19'
   who: Maria
-- header: What is SQIN and the importance of communication
+- header: 'SQIN Product: Digital Clinic Flow from Diagnosis to Prescription'
 - line: Can you maybe tell us more about… Okay, you did the app, you collected a lot
     of data, you realized that there's a lot of people that have skin problems without
     even knowing about it, so you saw that there was an opportunity. Then, after you
@@ -475,6 +482,7 @@ transcript:
   sec: 1420
   time: '23:40'
   who: Alexey
+- header: 'Ethics & UX: Sensitive AI Messaging and Inclusive Design'
 - line: After that, we worked on two different areas. The first was, of course, the
     technology – how to really prove that you see things that are different on your
     skin now, and how to prove that this might be a disease and that you’re having
@@ -527,6 +535,7 @@ transcript:
   sec: 1654
   time: '27:34'
   who: Alexey
+- header: 'Go-to-Market Strategy: Regional Focus, Limitations, and Fallbacks'
 - line: 'It is a dilemma, definitely. That was one of the toughest discussions with
     investors, of course, but we made it in the following way: we focused on one market
     at first (you could say, one country of origin for the algorithm).'
@@ -553,7 +562,6 @@ transcript:
   sec: 1681
   time: '28:01'
   who: Maria
-- header: Going from lipstick to skin health analysis
 - line: I’m wondering, was it even possible to get the data from the lipstick app?
     Because people who tried to lipstick on themselves probably didn't know you would
     be using this data for other reasons. Right? I guess for your case, you needed
@@ -561,6 +569,7 @@ transcript:
   sec: 1758
   time: '29:18'
   who: Alexey
+- header: 'Data Strategy: Leveraging Community Reach to Bootstrap Datasets'
 - line: Yeah, definitely. And we did. The only thing that was very helpful was – with
     the lipstick app, of course, we created a community. You can introduce different
     things to communities. Therefore, of course, we could have started from zero –
@@ -570,7 +579,6 @@ transcript:
   sec: 1783
   time: '29:43'
   who: Maria
-- header: The importance of community and broadening your audience
 - line: Yeah, that's… I keep hearing about the importance of community. Sometimes
     it's clear why. Here, it's a super good illustration of why it's important. These
     two apps are somewhat connected, but the community is the same, so people want
@@ -578,6 +586,7 @@ transcript:
   sec: 1813
   time: '30:13'
   who: Alexey
+- header: 'Community Productization: Daily Lifestyle Integration & Retention'
 - line: Yeah, that's why I said that sometimes it's also important to go on paths
     that you don't think about in the first moment. Of course, if you have a health
     application, you don't have to go to the doctor every single day, and your skin
@@ -610,6 +619,7 @@ transcript:
   sec: 1954
   time: '32:34'
   who: Alexey
+- header: 'Audience Expansion: Reaching Multiple Genders and Demographics'
 - line: It's for both genders. For women (for me) it's sometimes easier to give an
     example [chuckles] because I'm doing it in the same way. For men, it was very
     interesting. Very soon we had more male users than female because, I think, the
@@ -661,6 +671,7 @@ transcript:
   sec: 2082
   time: '34:42'
   who: Alexey
+- header: 'Telemedicine Impact: Remote Follow-Up, Prescriptions, and Efficiency'
 - line: What you mentioned is the core benefit already, but it's a little bit more
     than that as well. As mentioned, you can get the prescription directly – you have
     the online pharmacies. Also, if you need medication, it's directly coming to your
@@ -699,7 +710,7 @@ transcript:
   sec: 2281
   time: '38:01'
   who: Maria
-- header: The importance of feedback and communicating benefits
+- header: 'Feedback Loops: Support Channels and User Bug Reporting'
 - line: There is a comment from Gregoire. The comment is, “I tried the app yesterday
     and it didn't work for me. I find the idea cool.” I guess what… What I'm wondering
     is – is there any way to get in touch with you and give this feedback directly?
@@ -732,6 +743,7 @@ transcript:
   sec: 2347
   time: '39:07'
   who: Alexey
+- header: 'Personalization: Archetypes, Gamification, and Educational Content'
 - line: First of all, we analyze the so-called archetype principle. This means that
     different groups of people communicate differently. Therefore, you also have to
     give me information in a different way, and then I have to give the information
@@ -765,7 +777,6 @@ transcript:
   sec: 2418
   time: '40:18'
   who: Maria
-- header: The current state and growth of SQIN
 - line: Yeah, exactly. How large is your company now?
   sec: 2480
   time: '41:20'
@@ -778,6 +789,7 @@ transcript:
   sec: 2487
   time: '41:27'
   who: Alexey
+- header: 'Company Growth: Team Size, Hiring Needs (AI, Full-Stack, Backend)'
 - line: Around 20 people now.
   sec: 2492
   time: '41:32'
@@ -832,7 +844,7 @@ transcript:
   sec: 2610
   time: '43:30'
   who: Maria
-- header: Convincing investors and the importance of proving profitability
+- header: 'Fundraising: Proving Profitability and Technical Credibility to Investors'
 - line: There's a question that’s also related to my question about the size of your
     company, “How did you convince the investors to fund your project in digital health?
     What were the main challenges?”
@@ -876,6 +888,7 @@ transcript:
   sec: 2760
   time: '46:00'
   who: Alexey
+- header: 'Monetization: SaaS Integrations, Partnerships, and E‑commerce Cuts'
 - line: We integrate our AI to different partners. We do the health checks on different
     points of sale. First of all, of course, in our own application, SQIN, where it’s
     a digital clinic – but we also have other applications and other points of sale,
@@ -919,11 +932,11 @@ transcript:
   sec: 2868
   time: '47:48'
   who: Maria
-- header: Maria’s role at SQIN
 - line: Yeah, exactly. Who was your first hire?
   sec: 2874
   time: '47:54'
   who: Alexey
+- header: 'Leadership Structure: First Hires and Product vs. CEO Roles'
 - line: The CTO – the technical lead. But it was not specifically AI – it was really
     more about the full technology thing. I'm the CPO in the company, so I needed
     someone who's coding all my ideas and… [cross-talk]
@@ -948,7 +961,7 @@ transcript:
   sec: 2900
   time: '48:20'
   who: Maria
-- header: Balancing a newborn child and a new company
+- header: 'Work-Life Integration: Parenting While Building a Startup'
 - line: I know that we only have three minutes, and the question I have might take
     more time. You have at least one kid, right? How did you even manage, even with
     one kid, especially when the kid was growing up, to do anything, let alone start
@@ -991,6 +1004,7 @@ transcript:
   sec: 3042
   time: '50:42'
   who: Alexey
+- header: 'Cultural Upside: Entrepreneurial Mindset Passed to Children'
 - line: As I mentioned, there's no right or wrong. It's more like an integrative journey
     that you spend together. I mean, being a founder is a decision, running your own
     business is a life decision – it's not just a job. So everyone is affected. That
@@ -1016,6 +1030,7 @@ transcript:
   sec: 3132
   time: '52:12'
   who: Alexey
+- header: Closing Remarks and Next Steps
 - line: Yeah. I hope so, at least.
   sec: 3138
   time: '52:18'

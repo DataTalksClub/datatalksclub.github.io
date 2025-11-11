@@ -2,8 +2,24 @@
 episode: 6
 guests:
 - mariasukhareva
-description: "Discover generative AI, chatbot safety, and prompting strategies to prevent hallucinations and data exfiltration, boost translation quality and ROI."
-intro: "How do we balance the rapid democratization of generative AI with real-world chatbot safety, trust, and operational value? In this episode we speak with a linguist-turned-computational-linguist who now serves as a principal key expert in AI advising on technology and risk. We trace their career path into industry and then dig into the practical security and reliability challenges of large-scale chatbots. <br><br> Topics include the rise of prompt engineering and new “AI experts,” a large-scale chatbot hacking exercise and its findings on hallucinations, legal exposure, and financial incidents, and data exfiltration methods like overloaded prompts and knowledge-base retrieval. The conversation moves to concrete mitigations—output validation, query analysis, layered defenses, and non-LLM classifiers—plus usability and ROI issues that slow adoption. We also cover human-in-the-loop review, AI-assisted translation workflows, prompt customization for controlled machine translation, and broader multilingual and historical-linguistics challenges (from orthography to low-resource languages). <br><br> Listen to learn actionable strategies for chatbot safety, practical prompt and translation techniques, and how to evaluate trade-offs between research innovation and operational risk."
+description: Discover generative AI, chatbot safety, and prompting strategies to prevent
+  hallucinations and data exfiltration, boost translation quality and ROI.
+intro: How do we balance the rapid democratization of generative AI with real-world
+  chatbot safety, trust, and operational value? In this episode we speak with a linguist-turned-computational-linguist
+  who now serves as a principal key expert in AI advising on technology and risk.
+  We trace their career path into industry and then dig into the practical security
+  and reliability challenges of large-scale chatbots. <br><br> Topics include the
+  rise of prompt engineering and new “AI experts,” a large-scale chatbot hacking exercise
+  and its findings on hallucinations, legal exposure, and financial incidents, and
+  data exfiltration methods like overloaded prompts and knowledge-base retrieval.
+  The conversation moves to concrete mitigations—output validation, query analysis,
+  layered defenses, and non-LLM classifiers—plus usability and ROI issues that slow
+  adoption. We also cover human-in-the-loop review, AI-assisted translation workflows,
+  prompt customization for controlled machine translation, and broader multilingual
+  and historical-linguistics challenges (from orthography to low-resource languages).
+  <br><br> Listen to learn actionable strategies for chatbot safety, practical prompt
+  and translation techniques, and how to evaluate trade-offs between research innovation
+  and operational risk.
 ids:
   anchor: atalksclub/episodes/AI-in-Industry-Trust--Return-on-Investment-and-Future---Maria-Sukhareva-e2rp9f8
   youtube: bT7-HRNCltk
@@ -14,10 +30,11 @@ links:
   spotify: https://open.spotify.com/episode/5GOBabz65IRmiMow8FYbr5?si=a99463e34ffb48f1
   youtube: https://www.youtube.com/watch?v=bT7-HRNCltk
 season: 19
-short: "AI in Industry: Trust, Return on Investment and Future"
-title: "Hardening Generative AI Chatbots: Prevent Prompt Injection, Data Exfiltration & Hallucinations"
+short: 'AI in Industry: Trust, Return on Investment and Future'
+title: 'Hardening Generative AI Chatbots: Prevent Prompt Injection, Data Exfiltration
+  & Hallucinations'
 transcript:
-- header: 'AI in Industry: Trust, Return on Investment and Future'
+- header: Episode Introduction & Guest Overview
 - line: This week, we’re discussing the practical application of generative AI in
     industry. Our special guest today is Maria, a Principal Key Expert in Artificial
     Intelligence at Siemens.
@@ -40,7 +57,7 @@ transcript:
   sec: 0
   time: 0:00
   who: Alexey
-- header: 'Career journey: From linguistics to AI'
+- header: 'Career Path: From Linguist to Computational Linguistics and Industry'
 - line: Thank you for the introduction. I started as a linguist, studying traditional
     linguistics and translation over 20 years ago. I later discovered my interest
     in programming and computer science, but I already had a degree in linguistics.
@@ -70,6 +87,8 @@ transcript:
   sec: 228
   time: '3:48'
   who: Alexey
+- header: 'Role Definition: Principal Key Expert in AI — Advising on Technology and
+    Risk'
 - line: Great question! These days, the term "AI expert" can carry mixed connotations
     because it seems like everyone claims to be one.
   sec: 251
@@ -87,6 +106,7 @@ transcript:
   sec: 328
   time: '5:28'
   who: Alexey
+- header: 'Democratization of Generative AI: Rise of Prompting and New "AI Experts"'
 - line: Exactly. AI has become very accessible. Previously, being an AI expert required
     coding skills. Now, simply knowing how to use a keyboard and craft prompts can
     position someone as a "prompt engineer" or even an AI expert.
@@ -114,7 +134,6 @@ transcript:
   sec: 463
   time: '7:43'
   who: Maria
-- header: The Evolution of AI Expertise and its Future
 - line: That’s exactly what I was getting at. But maybe this wave of new AI experts
     isn’t entirely bad. It allows people without a technical background to contribute
     meaningfully.
@@ -142,6 +161,7 @@ transcript:
   sec: 560
   time: '9:20'
   who: Alexey
+- header: 'Bot Safety Challenge: Large-Scale Chatbot Hacking Exercise and Findings'
 - line: Currently, I focus on my work at Siemens, which includes providing training
     and delivering keynotes.
   sec: 568
@@ -162,6 +182,7 @@ transcript:
   sec: 643
   time: '10:43'
   who: Alexey
+- header: 'Chatbot Failures: Hallucinations, Legal Exposure, and Financial Incidents'
 - line: Yes, it can be even more dangerous. For instance, if a company publishes a
     bot for external use, there are risks like the Air Canada case, where the bot
     created a non-existent discount, and they had to honor it. Similarly, there was
@@ -180,11 +201,11 @@ transcript:
   sec: 698
   time: '11:38'
   who: Maria
-- header: 'AI vulnerabilities: Bypassing bot restrictions'
 - line: Can you explain how the name of the cat was hidden and how it was retrieved?
   sec: 790
   time: '13:10'
   who: Alexey
+- header: 'Data Exfiltration Techniques: Overloading Prompts and Knowledge-Base Retrieval'
 - line: The name was hidden in a knowledge database.
   sec: 800
   time: '13:20'
@@ -221,6 +242,7 @@ transcript:
   sec: 912
   time: '15:12'
   who: Alexey
+- header: 'Mitigations: Output Validation, Query Analysis, and Layered Defenses'
 - line: Exactly. The idea is to distract the bot from its initial instructions. There
     are ways to make these systems safer. For example, you can analyze user queries
     for attempts to extract sensitive data, validate the output for confidential information,
@@ -229,7 +251,7 @@ transcript:
   sec: 975
   time: '16:15'
   who: Maria
-- header: Non-LLM classifiers as a more robust solution
+- header: 'Non-LLM Classifiers: Robust Alternatives to Manipulable Generative Models'
 - line: Using a non-LLM classifier sounds interesting because it’s harder to manipulate
     compared to a generative model, right?
   sec: 1020
@@ -256,6 +278,7 @@ transcript:
   sec: 1040
   time: '17:20'
   who: Alexey
+- header: 'Trust and Hallucinations: User Confidence, Safety, and Adoption Risks'
 - line: Exactly. The monetary loss from an error like selling a plane ticket for $1
     might be small, but the reputational damage can be severe. It shows the company
     released an unsafe product. Another issue is hallucinations. If a bot behaves
@@ -293,6 +316,7 @@ transcript:
   sec: 1236
   time: '20:36'
   who: Alexey
+- header: 'Chatbot Adoption Issues: Usability, Verbosity, and Return on Investment'
 - line: They look very similar to champignons, which is why people sometimes get poisoned.
     They mistake them for champignons. I tried asking ChatGPT a couple of times, and
     it gave me recipes for cooking them, treating them as edible.
@@ -323,7 +347,6 @@ transcript:
   sec: 1239
   time: '20:39'
   who: Maria
-- header: 'Risks of chatbot deployment: Reputational and financial'
 - line: 'There are two major risks: first, reputational damage if the product isn''t
     secure or reliable, and second, the uncertainty around return on investment. Users
     might reject it entirely. Are there other common risk factors?'
@@ -364,6 +387,7 @@ transcript:
   sec: 1530
   time: '25:30'
   who: Alexey
+- header: 'Human-in-the-Loop Solutions: Hybrid Review to Improve Accuracy'
 - line: Exactly. For example, if you want to ensure users get accurate information,
     you could integrate human oversight. Instead of having the chatbot send responses
     directly to users, it could forward answers to a human for review. The human approves
@@ -379,7 +403,7 @@ transcript:
   sec: 1534
   time: '25:34'
   who: Maria
-- header: The role of AI as a tool, not a replacement for human workers
+- header: 'AI as Assistant: Moderation Tools, Autopilot Analogy, and Workforce Impact'
 - line: That makes sense. In my previous company, I worked in moderation for an online
     marketplace. Users would list items like a computer mouse for sale, including
     descriptions and photos. However, listings didn’t go live immediately. The system
@@ -412,6 +436,7 @@ transcript:
   sec: 1789
   time: '29:49'
   who: Alexey
+- header: 'Translation Workflows: AI-Augmented Translators and Quality Control'
 - line: Because technical translation requires precision. It must adhere to company
     standards and use consistent terminology. For example, a button label shouldn't
     be translated differently across documents. Human translators review AI-generated
@@ -432,7 +457,6 @@ transcript:
   sec: 1793
   time: '29:53'
   who: Maria
-- header: The role of human translators in the age of AI
 - line: When I said you need an editor, I didn’t think about the fact that the person
     actually needs to understand the source language too, not just the target language.
   sec: 1901
@@ -462,6 +486,7 @@ transcript:
   sec: 1947
   time: '32:27'
   who: Maria
+- header: 'Prompt Customization: Controlled Machine Translation with ChatGPT'
 - line: With ChatGPT, I can provide specific instructions. For example, I can ask
     it to use the informal plural instead of the formal one. Google Translate doesn’t
     allow for that level of customization, which makes ChatGPT much more practical.
@@ -501,7 +526,6 @@ transcript:
   sec: 2064
   time: '34:24'
   who: Alexey
-- header: Evolution of English and its Germanic roots
 - line: That’s correct. English belongs to the vast Germanic language family. Its
     closest relatives are German and Dutch. Historically, English had grammatical
     cases like nominative and accusative, but it gradually dropped them—similar to
@@ -523,6 +547,7 @@ transcript:
   sec: 2129
   time: '35:29'
   who: Alexey
+- header: 'Historical Linguistics: Middle & Old English Pronunciation Insights'
 - line: Language change takes time, but it’s fascinating to study. For instance, I’ve
     asked ChatGPT to generate text in Middle English or even Gothic.
   sec: 2144
@@ -557,7 +582,6 @@ transcript:
   sec: 2318
   time: '38:38'
   who: Alexey
-- header: Beowulf and Old English
 - line: No, Beowulf is in Old English, which predates Middle English. It’s much harder
     to understand without specialized study. Old English was heavily influenced by
     Norse and later by Norman French during the occupation of England. This significantly
@@ -571,7 +595,6 @@ transcript:
   sec: 2360
   time: '39:20'
   who: Alexey
-- header: Impact of the Norman occupation on English grammar
 - line: Yes, exactly. Many Germanic languages were spoken primarily by the lower classes.
     The Protestant Reformation played a significant role in shaping these languages.
     When religious leaders began translating the Bible into vernacular languages,
@@ -612,7 +635,6 @@ transcript:
   sec: 2540
   time: '42:20'
   who: Alexey
-- header: Identifying mushrooms with AI apps and safety precautions
 - line: Yes, I used to use a simple classifier before ChatGPT. However, I learned
     you can’t rely on top-one guesses. I would usually look through the top 10 guesses,
     checking if any were poisonous. Then I’d compare them. Honestly, I still wouldn’t
@@ -647,7 +669,7 @@ transcript:
   sec: 2626
   time: '43:46'
   who: Alexey
-- header: Decoding ancient languages like Sumerian
+- header: 'Ancient Languages: Cuneiform, Sumerian Transcription, and MT Approaches'
 - line: That was a fascinating project involving Mesopotamian languages, like Sumerian,
     written in cuneiform. This was before large language models existed, and even
     today, they wouldn’t work well for this because we don’t have large datasets for
@@ -686,6 +708,7 @@ transcript:
   sec: 2785
   time: '46:25'
   who: Maria
+- header: 'Script Complexity: Logograms vs. Phonetics in Ancient Texts'
 - line: While you were talking, I Googled Sumerian, and I found a table showing how
     each symbol corresponds to a Latin letter. So on these tablets, one symbol equals
     one character, right?
@@ -698,7 +721,6 @@ transcript:
   sec: 2943
   time: '49:03'
   who: Maria
-- header: The evolution of machine translation and multilingual models
 - line: You speak German, right?
   sec: 2983
   time: '49:43'
@@ -724,7 +746,7 @@ transcript:
   sec: 3070
   time: '51:10'
   who: Alexey
-- header: Challenges with low-resource languages and inconsistent orthography
+- header: 'Multilingual Models: Progress and Challenges for Low-Resource Languages'
 - line: Exactly. Machine translation relies on parallel texts—sentences translated
     into multiple languages. For languages like Russian and Ukrainian, it’s easier
     to find parallel texts because they were widely used together.
@@ -749,6 +771,7 @@ transcript:
   sec: 3406
   time: '56:46'
   who: Alexey
+- header: 'Orthography & Data Quality: Inconsistent Spelling in Historical Corpora'
 - line: Exactly. In the past, every village might have had its own spelling. There
     were no standardized grammar rules or punctuation until the 19th century. This
     made machine translation even harder.
@@ -760,7 +783,7 @@ transcript:
   sec: 3439
   time: '57:19'
   who: Alexey
-- header: Transition from academia to industry in AI
+- header: 'Industry Trade-offs: Research Innovation vs. ROI and Operational Needs'
 - line: The biggest challenge was understanding that the most innovative, state-of-the-art
     approach isn’t always what industry needs. Companies often prioritize fast, practical
     solutions over perfection.
@@ -773,6 +796,7 @@ transcript:
   sec: 3448
   time: '57:28'
   who: Maria
+- header: 'Episode Wrap-Up: Key Takeaways on AI Trust, Safety, and Future Directions'
 - line: Thank you, Maria! And thanks to Irina for joining us. She’s been a guest before
     and will return soon for a webinar. Maria, it was a pleasure having you here today.
     Thank you for sharing your insights and stories.

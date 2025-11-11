@@ -16,6 +16,7 @@ short: From Marketing to Product Owner in Search
 title: 'From Marketing to Product Owner: Build E-commerce Search with Elasticsearch
   & NLP'
 transcript:
+- header: Podcast Introduction & Guest Welcome
 - line: This week, we'll talk about transitioning from marketing to being a product
     owner in search. And we have a very special guest today Valeria. Valeria is a
     product owner with a focus on e-commerce, site search optimization, analytics,
@@ -29,7 +30,7 @@ transcript:
   sec: 108
   time: '1:48'
   who: Lera
-- header: Lera’s background
+- header: 'Background: Transition from performance marketing to product roles'
 - line: Before we go into our main topic of transitioning from marketing to being
     a product owner, let's start with your background. Can you tell us about your
     career journey so far?
@@ -45,6 +46,7 @@ transcript:
   sec: 126
   time: '2:06'
   who: Alexey
+- header: 'Marketing Experience: B2B e‑commerce, lead acquisition, branding'
 - line: Oh, okay – fine. Well, as you learned before, I started with marketing. Actually,
     I was always focused on IT. Working in Product was my vision of my career, but
     to start being a product manager/product owner, you need to start from somewhere.
@@ -119,6 +121,7 @@ transcript:
   sec: 134
   time: '2:14'
   who: Lera
+- header: Landing Product Owner Role at AUTODOC Despite Non‑traditional Fit
 - line: It was the product owner position, right?
   sec: 566
   time: '9:26'
@@ -149,7 +152,7 @@ transcript:
   sec: 622
   time: '10:22'
   who: Lera
-- header: Lera’s move from Ukraine to Germany
+- header: 'Relocation: Moving from Ukraine to Germany during 2020'
 - line: I'm just curious. When the war started and you left Ukraine, did he go immediately
     to Berlin? Or did you go to some other place?
   sec: 623
@@ -192,7 +195,7 @@ transcript:
   sec: 703
   time: '11:43'
   who: Lera
-- header: The transition from Marketing to Product Ownership
+- header: 'Transition Challenges: Learning product ownership on the job'
 - line: Pay per click! Exactly. And now you're a product owner, right? Which is… I
     don't know how related it is to Performance Marketing. Maybe there is some relation,
     maybe not. But I'm curious, what were the challenges? How did you transition?
@@ -253,7 +256,7 @@ transcript:
   sec: 784
   time: '13:04'
   who: Lera
-- header: The importance of communication and one-on-ones
+- header: 'One‑on‑Ones: Structuring meetings to align with engineers and QA'
 - line: I'm curious about a few things. You mentioned you had two problems. The first
     problem was that you needed to learn a lot. What you did to solve that was take
     courses, and worked into late evenings – you tried to immerse yourself in the
@@ -337,7 +340,6 @@ transcript:
   sec: 1230
   time: '20:30'
   who: Lera
-- header: The role of Product Owner
 - line: So you needed to find common ground with the developer and you couldn't find
     it. Maybe this is more like a “step back” question because we did not really discuss
     what product owners do. I was wondering, why was it important to have good communication
@@ -354,6 +356,7 @@ transcript:
   sec: 1339
   time: '22:19'
   who: Alexey
+- header: 'Product Owner Scope: Monitoring, roadmap, prioritization, team operations'
 - line: '[chuckles] It''s a funny one. The funniest thing is how [different] product
     owners are from what they’re considered to be in literature and how they are in
     real life. I think it''s kind of different. I will share with you the reality
@@ -428,12 +431,12 @@ transcript:
   sec: 1672
   time: '27:52'
   who: Lera
-- header: Utilizing Scrum as a Product Owner
 - line: You follow Scrum, right? All these estimating meetings, daily stand-ups, retrospectives
     – you organize all that, right?
   sec: 1710
   time: '28:30'
   who: Alexey
+- header: 'Process Choices: Scrum for deliveries vs Kanban for investigations'
 - line: Yes, depending on the initiatives we have. If we, for example, have to deliver
     filters – we need two developers and two QA engineers, and that's pretty much
     it. For this kind of development process, for example, we did stand-ups, planning,
@@ -448,6 +451,7 @@ transcript:
   sec: 1787
   time: '29:47'
   who: Alexey
+- header: 'Team Building: Forming a dedicated e‑commerce search team'
 - line: Yeah, that's the interesting part. Because right now, we don't really have
     a super-dedicated search team. But I'm looking forward to having one. Before we
     just took developers for some initiatives. For example, for some kind of initiative,
@@ -469,7 +473,6 @@ transcript:
   sec: 1860
   time: '31:00'
   who: Lera
-- header: Building teams and cross-functionality
 - line: Okay, I just want to summarize what you said. First, you monitor business
     health (search health) if I can say that. [Lera agrees] The second thing is, you're
     doing research, you're talking with users, you're watching what competitors are
@@ -525,7 +528,8 @@ transcript:
   sec: 2025
   time: '33:45'
   who: Lera
-- header: Lera’s experience learning about search
+- header: 'Search Expertise: Relevant Search book, Elasticsearch, and relevance as
+    business context'
 - line: How do you keep up with all that? You mentioned that, in addition to all that,
     you also need to learn about all this machine learning stuff. Actually, this is
     how I found you. There was a post that you made about Relevant Search – the book.
@@ -594,6 +598,7 @@ transcript:
   sec: 2329
   time: '38:49'
   who: Alexey
+- header: 'User Journey: Vehicle selector, part fitment, and contextual search flows'
 - line: Well, for this point, we have the user journey. The users need to… For example,
     we have this cool feature, where you just insert your license plate number and
     our vehicle selector will identify the vehicle by this license plate. For some
@@ -605,7 +610,6 @@ transcript:
   sec: 2348
   time: '39:08'
   who: Lera
-- header: The importance of having both technical knowledge and business context
 - line: Well, you need to have this business context – you need to know this business
     context in order to arrive at this solution, right? Without it, you would come
     up with just a general search bar and you will be like, “Oh, I don't know. I need
@@ -646,6 +650,8 @@ transcript:
   sec: 2568
   time: '42:48'
   who: Alexey
+- header: 'Technical Upskilling: NLP, information retrieval, Haystack conference,
+    and ChatGPT'
 - line: Yeah! It's in Berlin. It's a really technical conference. It’s for developers.
     and I also go there to understand the technical aspects. You know what helps?
     ChatGPT helps a lot, actually. What I do is, for example, I'm reading a technical
@@ -705,7 +711,7 @@ transcript:
   sec: 2767
   time: '46:07'
   who: Lera
-- header: Open developer positions at AUTODOC
+- header: 'Recruiting: Remote roles, office hubs, and open developer positions'
 - line: Yeah. You said you're looking for developers right now?
   sec: 2802
   time: '46:42'
@@ -751,7 +757,7 @@ transcript:
   sec: 2906
   time: '48:26'
   who: Lera
-- header: What experience Lera came to AUTODOC with
+- header: 'Hiring Criteria: Why marketing backgrounds are valued for product roles'
 - line: I see that we have some questions. The question is – maybe we already answered
     that – “Did you have the Scrum Master experience and project management experience
     before this job? Or did you pick it up on the job and learn as you went?”
@@ -797,12 +803,12 @@ transcript:
   sec: 3078
   time: '51:18'
   who: Lera
-- header: How marketing skills helped Lera in her current role
 - line: Which skills, that you already had from your marketing past, helped you in
     your current role?
   sec: 3129
   time: '52:09'
   who: Alexey
+- header: 'Marketing Strengths: User understanding, internal PR, and pitching roadmaps'
 - line: The first one is understanding… I think what’s common in marketing and product
     management is understanding the user. For example, doing “job to be done” frameworks,
     understanding customer journeys, understanding customer likes, pains, cases, and
@@ -875,7 +881,8 @@ transcript:
   sec: 3369
   time: '56:09'
   who: Lera
-- header: Lera’s resource recommendations
+- header: 'Recommended Resources: Communication, Professional Product Owner, strategy,
+    experimentation'
 - line: Yeah, thanks. That's a very comprehensive answer. I see that we are almost
     running out of time. I still wanted to ask you one thing. You told us that you
     needed to learn a lot – you took a lot of courses and you read a lot of books.
@@ -948,7 +955,7 @@ transcript:
   sec: 3764
   time: '1:02:44'
   who: Alexey
-- header: Everything is possible
+- header: 'Closing Advice: Breaking mental barriers and committing to continuous learning'
 - line: Yeah. I just want to give some general advice. For me, this is a story about
     how the barriers in your head can be broken. Yeah, I didn't have the same experience
     that I did before but it's possible to learn. It's possible. If you want to change

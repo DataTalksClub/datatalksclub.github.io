@@ -16,6 +16,7 @@ short: Growing Data Engineering Team in a Scale-Up
 title: 'Scale Data Engineering Teams: Build Self‑Service Data Platforms, Hire Senior
   Engineers & Use Kafka'
 transcript:
+- header: 'Episode Introduction: Growing Data Engineering Team & Guest Mehdi'
 - line: This week, we will talk about growing a data engineering team in a scale-up.
     We have a special guest today, Mehdi. I know Mehdi as a content creator and a
     data engineer. We live in the same city, Berlin, and this is how we met. It was
@@ -30,12 +31,12 @@ transcript:
   sec: 147
   time: '2:27'
   who: Mehdi
-- header: Mehdi’s background
 - line: Before we go into our main topic, let's start with your background. Can you
     tell us about your career journey so far?
   sec: 155
   time: '2:35'
   who: Alexey
+- header: 'Guest background: BI, on‑prem Big Data to staff data engineer (career highlights)'
 - line: Yeah, sure. I started, as you mentioned, about eight years ago in the data
     world, doing classic BI with Microsoft tooling, and mostly click, and drag-and-drop
     tooling. And then I had quite quickly the opportunity to jump early on a Big Data
@@ -84,7 +85,7 @@ transcript:
   sec: 325
   time: '5:25'
   who: Mehdi
-- header: The difference between startup, scale-up and enterprise
+- header: 'Defining scale‑up: hypergrowth, funding, hiring surge, speed vs quality'
 - line: '[laughs] So what does it mean to be a scale-up? I know what a startup is
     – a startup is a company that just started up. I also know more or less what an
     enterprise is – it’s a huge company with a lot of people working there. So what
@@ -152,7 +153,7 @@ transcript:
   sec: 566
   time: '9:26'
   who: Mehdi
-- header: Hypergrowth
+- header: 'Hypergrowth challenges: product launches, US expansion, operational strain'
 - line: So, in this case, the hyper growth that you were talking about refers to both
     growth in terms of the user base, also in terms of traffic, consequently, and
     also in terms of the number of people who work at the company. And it all happens
@@ -202,7 +203,7 @@ transcript:
   sec: 709
   time: '11:49'
   who: Mehdi
-- header: Data platform engineers in a scale-up environment
+- header: 'Data platform role: enabling self‑service, onboarding, and scalability'
 - line: And what do data engineers do in a scale-up environment? How is this world
     different from your typical enterprise?
   sec: 750
@@ -273,7 +274,7 @@ transcript:
   sec: 940
   time: '15:40'
   who: Mehdi
-- header: What a data platform is and who builds it
+- header: 'Data platform anatomy: Airflow, conventions, playbooks, and best practices'
 - line: In practical terms, what does having a data platform usually mean? Is it like
     an Airflow cluster and then some other things that you can use from this Airflow
     cluster? Or what?
@@ -330,6 +331,7 @@ transcript:
   sec: 1209
   time: '20:09'
   who: Mehdi
+- header: 'Hiring for scale: prioritize senior experts and niche technology experience'
 - line: Okay. And who do we need to actually build this thing? This type of data platform?
   sec: 1213
   time: '20:13'
@@ -382,6 +384,7 @@ transcript:
   sec: 1400
   time: '23:20'
   who: Alexey
+- header: 'Event streaming practices: Kafka, schemas, schema registry, and data contracts'
 - line: Yeah. But the point is also at the lower level, let's say you have an engineer
     or software engineer that's comfortable with that subsystem, maybe RabbitMQ, and
     they want to consider Kafka. Some of them have heard of it, some of them have
@@ -451,7 +454,7 @@ transcript:
   sec: 1624
   time: '27:04'
   who: Mehdi
-- header: Managing the fast pace of a scale-up while ensuring personal growth
+- header: 'Velocity vs growth: managing fast pace while ensuring personal growth'
 - line: Okay. We have quite a few questions. The question we have is, “Hi, I recently
     got a senior data engineer role and I expect it to be fast-paced. Any idea as
     to how I can manage the pace while ensuring personal growth?”
@@ -508,6 +511,7 @@ transcript:
   sec: 1820
   time: '30:20'
   who: Alexey
+- header: 'Culture shift: evolving processes and influencing company norms'
 - line: Yeah. It's a really great point that you brought up. Basically, you have to
     know that the general company is in transformation – it’s a huge shift – and they
     should be open in terms of culture. They should say, “Okay, we used to do one
@@ -566,7 +570,7 @@ transcript:
   sec: 2001
   time: '33:21'
   who: Mehdi
-- header: Should a senior data person consider a scale-up or an enterprise?
+- header: 'Career trade‑offs: scale‑up vs enterprise vs FAANG'
 - line: So what do you recommend to somebody that’s a senior and that person is considering
     multiple offers – and one of these offers is for a scale-up company. Let's say
     another offer is for an enterprise. Would you suggest that the person goes with
@@ -614,6 +618,7 @@ transcript:
   sec: 2126
   time: '35:26'
   who: Mehdi
+- header: 'Assessment tactics: reverse interviews to evaluate team workload and culture'
 - line: And what do you ask?
   sec: 2292
   time: '38:12'
@@ -628,7 +633,7 @@ transcript:
   sec: 2295
   time: '38:15'
   who: Mehdi
-- header: Should a junior data person consider a scale-up or an enterprise?
+- header: 'Junior opportunities: rapid learning, promotions, and exposure in scale‑ups'
 - line: Would your answer be different for a junior specialist? Somebody who is just
     entering the field of data engineering and maybe has less than one year of experience?
     For them it may be just too boring to work nine to five?
@@ -656,7 +661,7 @@ transcript:
   sec: 2360
   time: '39:20'
   who: Mehdi
-- header: Sourcing talent for hyper-growth companies and developing a community culture
+- header: 'Talent sourcing: employer brand, community contributions, and open source'
 - line: Yeah. Another question we have, “I am leading a data team in a hyper-growth
     scale-up company in Lyon, France. How do you guys source degreed engineers?” I
     guess this question is “Where do we find talent? How do we find the engineers?”
@@ -740,7 +745,7 @@ transcript:
   sec: 2762
   time: '46:02'
   who: Alexey
-- header: Generating content and getting feedback
+- header: 'Technical content: writing, OSS contributions, and getting external feedback'
 - line: Yeah. The advice I recommend for any junior getting into industry is writing
     content or doing content in general. When I say content, it can be a PR on a repo,
     it can be your project that you push as open source, it can be a blog, video,
@@ -778,6 +783,7 @@ transcript:
   sec: 2933
   time: '48:53'
   who: Alexey
+- header: 'Community engagement: reader outreach, calls, and mentorship benefits'
 - line: '[laughs] It was actually the other way around. They asked me directly because
     they wanted more insights. Sometimes in the article you need to take some shortcuts.
     Or sometimes they reach out by chat and they give a precise technical question,
@@ -795,7 +801,7 @@ transcript:
   sec: 2946
   time: '49:06'
   who: Mehdi
-- header: Generalization vs specialization for data engineers in a scale-up
+- header: 'Role evolution: generalist to specialist as teams and projects mature'
 - line: Yeah, thanks. In a scale-up, people usually need to work on a wide range of
     tasks, right? You’re pretty much a generalist. But then, as the scale-up grows
     and evolves, these people might need to specialize later. Do you think this is
@@ -834,7 +840,7 @@ transcript:
   sec: 3039
   time: '50:39'
   who: Mehdi
-- header: The ratio of work between platform building and use case pipelines
+- header: 'Work balance: platform engineering vs use‑case pipelines (~50/50)'
 - line: At the beginning, you also mentioned that there are different kinds of data
     engineers. One type of data engineers are those that work on platforms, and the
     other kind works more on use cases. The question that we have here is, “What is
@@ -861,7 +867,7 @@ transcript:
   sec: 3269
   time: '54:29'
   who: Mehdi
-- header: Being proactive in order to progress to mid or senior level
+- header: 'Path to senior: proactivity, broader impact, and cross‑team collaboration'
 - line: What would you say is the most important attribute for a data engineer who
     wants to get promoted from a mid-level role to a senior role?
   sec: 3271
@@ -888,7 +894,7 @@ transcript:
   sec: 3295
   time: '54:55'
   who: Mehdi
-- header: Caps and bass guitars
+- header: 'Casual segment: light banter about music, caps, and hobbies'
 - line: Are you looking for a band? Somebody's interested if you are because it appears
     they need a bass guitar player.
   sec: 3394
@@ -958,7 +964,7 @@ transcript:
   sec: 3462
   time: '57:42'
   who: Mehdi
-- header: MehdiO DataTV and DataCreators.Club (Mehdi’s YouTube Channel and podcast)
+- header: 'Creator spotlight: MehdiO DataTV, DataCreators.club, and content channels'
 - line: '[laughs] Yeah. Actually, I wanted to talk about your channel. But then we
     have quite a few questions. So I wanted to cover them, too. So tell us about your
     channel.'
@@ -1010,6 +1016,7 @@ transcript:
   sec: 3603
   time: '1:00:03'
   who: Alexey
+- header: 'Content production: time investment, process improvements, and persistence'
 - line: Yeah, exactly. Sorry. I definitely spent too much time at the moment and still
     figuring out the process. I started in December with roughly one video a month.
     It’s taking a lot of time. I'm getting better. The first video, it literally took
@@ -1041,6 +1048,7 @@ transcript:
   sec: 3710
   time: '1:01:50'
   who: Mehdi
+- header: 'Video editing tips: multi‑take filming, lighting consistency, and tricks'
 - line: How did you do this? You filmed three different things and then you kind of
     stitched it through a program?
   sec: 3713
@@ -1062,6 +1070,7 @@ transcript:
   sec: 3721
   time: '1:02:01'
   who: Mehdi
+- header: 'Episode close: key takeaways, resources, and links'
 - line: I wish I started asking you about this a bit earlier because I wasn't watching
     the time. But yeah, thanks for sharing all this. Thanks for telling us about all
     this. Thanks for sharing your experience. And thanks for telling us about your

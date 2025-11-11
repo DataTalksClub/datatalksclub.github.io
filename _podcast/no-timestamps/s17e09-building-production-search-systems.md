@@ -16,6 +16,8 @@ short: Building Production Search Systems
 title: 'Vector Search & Databases: Indexing, Embeddings, Hybrid Retrieval, MLOps &
   CLIP'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Introduction: Daniel Svonava, Superlinked & VectorHub'
 - line: This week, we'll talk about building production search systems. We have a
     special guest today, Daniel. Daniel is an entrepreneurial technologist with a
     20 years’ career. He is the co-founder of Superlinked.com. What we saw, VectorHub
@@ -30,12 +32,12 @@ transcript:
   sec: 145
   time: '2:25'
   who: Daniel
-- header: Daniel’s background
 - line: Before we go into our main topic of building search systems, let's start with
     your background. Can you tell us about your career journey so far?
   sec: 149
   time: '2:29'
   who: Alexey
+- header: 'Career Highlights: Internships, YouTube Ads, and Startups'
 - line: Yes. Very happy to have this kind of… 20 year time horizon is maybe a little
     bit of an exaggeration. But… Basically, I'm originally from Slovakia, with this
     kind of typical Eastern European technical background of coding competitions in
@@ -70,6 +72,7 @@ transcript:
   sec: 283
   time: '4:43'
   who: Alexey
+- header: Competitive Programming Influence on Engineering
 - line: Yes. In, I think, about the second year of high school, I had this realization
     that if I don't do something like competitive programming, it will be very difficult
     to leave the country and work on some interesting problems. So I always get some
@@ -91,6 +94,7 @@ transcript:
   sec: 370
   time: '6:10'
   who: Alexey
+- header: 'Framing Search: Decision Problem & Relevance'
 - line: Well, luckily, I didn't have to do it for quite a while in that sense. But
     you may be surprised at how many of such problems I encounter quite often, now
     that we work with an infrastructure-focused product. All of those tasks that for
@@ -135,12 +139,12 @@ transcript:
   sec: 480
   time: '8:00'
   who: Daniel
-- header: Search vs information retrieval system
 - line: I asked you about search, and in your answer, you mentioned an information
     retrieval system, which is like the same thing, right?
   sec: 544
   time: '9:04'
   who: Alexey
+- header: Information Retrieval vs Recommender Boundaries; Representation Learning
 - line: Basically. By the way, these boundaries are often quite arbitrary. [Boundaries]
     of where recommender systems start and personalized search ends, for example.
     Or now we have retrieval augmented generation – how is that any different at all?
@@ -173,7 +177,7 @@ transcript:
   sec: 645
   time: '10:45'
   who: Daniel
-- header: Vector search
+- header: From Bag-of-Words to Dense Vector Representations
 - line: I think there is a paper about vector spaces, which is from like the 70s,
     where they explain this bag of words. I wanted to talk about… There is a very
     good book, which is called Introduction to Information Retrieval. I think one
@@ -192,6 +196,7 @@ transcript:
   sec: 689
   time: '11:29'
   who: Alexey
+- header: Inverted Index Mechanics, Candidate Generation & Ranking
 - line: So if we talk about the search world before vectors became very popular –
     and they have always been there. I think the difference is, “Have they been used
     in production systems?” Or “Did people keep production systems a bit simpler,
@@ -246,6 +251,7 @@ transcript:
   sec: 765
   time: '12:45'
   who: Daniel
+- header: 'Practical Indexing: Document Chunking and Ingestion'
 - line: I have this book. For those who are listening to this as a recording and don't
     see – this is a German grammar book. So there is a lot of information. Let's say
     I want to find something in it. How would we build a search system for that? We
@@ -255,7 +261,6 @@ transcript:
   sec: 1005
   time: '16:45'
   who: Alexey
-- header: Index building
 - line: Yeah. You basically… Actually, at the end of the book, you would most likely
     fetch a lookup table. Maybe call the reference? Or maybe this one doesn't have
     it, but…
@@ -266,6 +271,7 @@ transcript:
   sec: 1053
   time: '17:33'
   who: Alexey
+- header: 'Use Existing Engines: Lucene and Open-source Tools'
 - line: Some books do. I mean, the practical answer is – use Leucine. There are big,
     open source projects out there that help you solve this problem of ingesting a
     whole bunch of documents, cutting them up, and building that index structure.
@@ -290,6 +296,7 @@ transcript:
   sec: 1127
   time: '18:47'
   who: Alexey
+- header: 'Index Data Structures: Trees, Alphabetical Ordering, and Lookups'
 - line: Yeah. So that's a very basic way to make it easy to find a word in the list.
     You can basically binary search for an index in that list if that's the data structure
     that works for a person looking at the book. Normally, you would have some kind
@@ -304,11 +311,11 @@ transcript:
   sec: 1129
   time: '18:49'
   who: Daniel
-- header: Increased complexity in indexing
 - line: For this book, just use Lucene, right?
   sec: 1200
   time: '20:00'
   who: Alexey
+- header: 'Search Maintenance: Brittleness, Synonyms, and Configuration Debt'
 - line: Yes. And now the question is, “Okay, why do we need something new?” The deficiency
     of this system is… I would focus on maybe two elements. One is that it's brittle.
     It relies on very specific forms of these keywords appearing both in the query
@@ -344,6 +351,7 @@ transcript:
   sec: 1313
   time: '21:53'
   who: Alexey
+- header: Multi-modal Retrieval and Personalization Requirements
 - line: There are pictures there. There are… If you imagine a database of an enterprise
     company with hundreds of columns (sitting somewhere in MySQL, or Postgres) that
     this company literally runs on. It's a critical table. Some of these columns will
@@ -415,6 +423,7 @@ transcript:
   sec: 1315
   time: '21:55'
   who: Daniel
+- header: 'Vector Databases: Storing Embeddings and Nearest-Neighbor Search'
 - line: What do you actually mean by “the compute”? Maybe I'll take a bit of a step
     back because there was quite a lot of information, and I want to make sure I understood
     it. If I go back to my German grammar book example. Previously, we would index
@@ -441,7 +450,7 @@ transcript:
   sec: 1714
   time: '28:34'
   who: Daniel
-- header: Compute in relation to vectors
+- header: 'Vector Compute: Ingestion Encoding vs Query-Time Encoding'
 - line: So then we can come up with some sort of numerical representation for each
     word or document. Basically, each document becomes a large array of numbers right,
     such that, if two things are similar then the numbers are similar. For example,
@@ -463,6 +472,7 @@ transcript:
   sec: 1740
   time: '29:00'
   who: Alexey
+- header: 'Pipeline Challenges: Recomputing Embeddings and Model Versioning'
 - line: Right. So you have two places where you are running some models. The first
     place is the ingestion into the vector database. You have some document somewhere,
     and you need to compute all the vectors that correspond to these documents. Maybe
@@ -496,6 +506,7 @@ transcript:
   sec: 1822
   time: '30:22'
   who: Daniel
+- header: 'CLIP Example: Text-to-Image Cross-modal Search'
 - line: Yeah. So if I talk about a specific example – if I can think about a specific
     example… There is a model from Open AI called CLIP. What this model can do is
     turn text into vectors, and images into vectors, in such a way that you can use
@@ -508,7 +519,7 @@ transcript:
   sec: 1991
   time: '33:11'
   who: Daniel
-- header: Embedding strategies and hybrid search
+- header: 'Embedding Strategy Changes: Model Swaps and Pipeline Flexibility'
 - line: Let's say we use some way of embedding – let's say we use BERT for embedding
     our book (for embedding all the words, creating this vector, and indexing). But
     then we heard about CLIP and we thought, “Okay, we also have images in the book.
@@ -520,6 +531,7 @@ transcript:
   sec: 1993
   time: '33:13'
   who: Alexey
+- header: 'Hybrid Search: Combining Vector Similarity with Filters and Recency'
 - line: Yeah, that's exactly right. We are still at the basic level of this problem,
     because you used an example where we just replaced the old model with a new one.
     The thing is that, in practice, it is not so easy. At some point, basically, the
@@ -556,6 +568,7 @@ transcript:
   sec: 2179
   time: '36:19'
   who: Alexey
+- header: Custom Embeddings, Ranking Models, and MLOps Trade-offs
 - line: Yeah, yeah. So this is the real world, right? Yes, you start with this, “Okay,
     let's embed some text. Let's embed the query. Let's match the two.” Maybe we’ll
     use another language model to reorder the results because that can then be refining
@@ -582,6 +595,7 @@ transcript:
   sec: 2181
   time: '36:21'
   who: Daniel
+- header: 'Multi-embedding Design: Titles, Content, Images, and Behavioral Signals'
 - line: You said that it's possible that you have multiple embeddings for a single
     document. So there could be embedding for titles, embedding for content, embedding
     for images, embedding for some parameters, and then you may have five embeddings
@@ -604,7 +618,7 @@ transcript:
   sec: 2330
   time: '38:50'
   who: Daniel
-- header: Embeddings in relation to queries and vectors
+- header: 'Expressing Constraints: Lucene Must/Should vs Vector-query Approaches'
 - line: Yeah. I know that in Lucene… We talked about this problem of recency, right?
     So what if we are a news website? This means that we want to show something that
     is recent. But what if there is a super relevant article related to my search
@@ -618,6 +632,7 @@ transcript:
   sec: 2393
   time: '39:53'
   who: Alexey
+- header: 'Recency and Bias: Encoding Time and Applying Weights in Embeddings'
 - line: That's an interesting question. Our view on this problem is that… We believe
     that you can basically replicate a lot of that “should” type of functionality
     in pure vector form. You can basically say, “Hey, I want relevant results towards
@@ -636,6 +651,7 @@ transcript:
   sec: 2494
   time: '41:34'
   who: Alexey
+- header: Timestamp & Positional Encoding Techniques in Vector Space
 - line: If you do it naively, then yes, you will. So that's a bad idea. But there
     is a way to encode a timestamp into couple of vector dimensions, such that, when
     you do cosine similarity between two such encoded timestamps – it behaves like
@@ -670,7 +686,6 @@ transcript:
   sec: 2516
   time: '41:56'
   who: Daniel
-- header: Knowing when to implement weights and biases
 - line: Yeah, interesting. Basically, the summary is that you can encode the timestamp
     also in vector form. Then the similarity between now and the timestamp in the
     past gives a sense of recency. Right? [Daniel agrees] Then you can also prioritize
@@ -681,6 +696,7 @@ transcript:
   sec: 2676
   time: '44:36'
   who: Alexey
+- header: Normalizing Components and Late-binding Query Weights
 - line: The key observation is to normalize all these components. When you index any
     kind of data, you want to do this as bias-free as possible. This means that you
     will not be recomputing the index matches when you find your favorite biases.
@@ -695,7 +711,7 @@ transcript:
   sec: 2711
   time: '45:11'
   who: Daniel
-- header: LLM implementation strategies
+- header: 'LLM Contexting: Prompted Timestamps and Limitations'
 - line: Speaking of this, I'm thinking about ChatGPT. I know GPTs don't have this
     information about the time. So if you say… You somehow need to be explicit in
     your prompt and you say, “Today is this day.” Then you add a bunch of articles
@@ -715,6 +731,7 @@ transcript:
   sec: 2778
   time: '46:18'
   who: Alexey
+- header: Limits of LLM-only Retrieval; Value of Specialized Encoders
 - line: Right. This kind of thought of, basically, stringifying timestamps and then
     eating them with a language model is within the broader bracket of thoughts of,
     “Hey, let's string the five things and encode them with the LLM.” This has limitations,
@@ -740,13 +757,13 @@ transcript:
   sec: 2857
   time: '47:37'
   who: Daniel
-- header: Transforming different types of input into vectors
 - line: I see an interesting question from Demetrios. Demetrios is asking if you have
     any publications that go into detail about the approaches you described on how
     to combine various signals into a single vector.
   sec: 2959
   time: '49:19'
   who: Alexey
+- header: 'Resources & Tutorials: VectorHub Guides on Combining Modalities'
 - line: We have a few pieces that you can understand – between tutorial and research
     exploration on vector hub. So if you go to hub.superlink.com (and I think you'll
     also include the link in the notes) we already have an article out there that
@@ -797,7 +814,7 @@ transcript:
   sec: 3101
   time: '51:41'
   who: Daniel
-- header: Choosing vector database vendors
+- header: 'Vendor Selection: Vector DB Feature Comparison and Trade-offs'
 - line: And then I see that you also have a Vector DB Comparison, which is a super
     relevant thing. Because if you Google, or if you just open any article about LLMs,
     (or take our interviews as an example) – there are so many different vector databases.
@@ -831,7 +848,7 @@ transcript:
   sec: 3190
   time: '53:10'
   who: Daniel
-- header: Just throwing everything at Lucene
+- header: When to Use Lucene/Elasticsearch vs Dedicated Vector Databases
 - line: I see that we have another interesting question from Vishaka. The question
     is, “Is there any reason why you wouldn't use a database that goes beyond just
     vector search?” And then I immediately started thinking about databases like Elasticsearch
@@ -887,7 +904,7 @@ transcript:
   sec: 3463
   time: '57:43'
   who: Daniel
-- header: Choosing vendors for your use case
+- header: 'E-commerce Strategy: Prototype with Embeddings for Mid-size D2C'
 - line: Well, maybe this will require more time. The question from Adjay is, “If I'm
     a midsize D2C (direct to consumer) brand, what would be the best way to build
     my search tech? I'm looking only to add personalization and switch from pricey
@@ -903,6 +920,7 @@ transcript:
   sec: 3494
   time: '58:14'
   who: Alexey
+- header: Rapid Prototyping with CLIP and Steps to Productionize
 - line: Also, for any questions that remain unanswered, I think there'll be a link
     to my LinkedIn – people should connect to me and shoot those questions over. For
     e-commerce, I think there is a huge opportunity to do real-time personalization
@@ -942,7 +960,7 @@ transcript:
   sec: 3497
   time: '58:17'
   who: Daniel
-- header: In the end, the main metric is USD
+- header: 'Measuring Search Impact: Business Metrics, A/B Testing, and USD'
 - line: Yeah, well…  We have other questions. This one is also big. The question is,
     “What are some metrics that can be used to monitor search performance?”
   sec: 3685
@@ -974,6 +992,7 @@ transcript:
   sec: 3786
   time: '1:03:06'
   who: Alexey
+- header: Operational Metrics, Offline Evaluation, and Empowering Engineers
 - line: Yes. Those are proxies – proxies for the dollars. That's the only reason that
     you would care about somebody contacting a seller. Somebody figured out that there
     is some probability of that leading to a transaction down the line. And then you
@@ -1002,7 +1021,6 @@ transcript:
   sec: 3830
   time: '1:03:50'
   who: Daniel
-- header: Closing
 - line: Sadly, we didn't talk about the algorithms, and competitive programming, and
     their relevance to everyday work – maybe some other time. Actually, by the way,
     right behind your head, I see a bluish patch of sky.
@@ -1014,6 +1032,7 @@ transcript:
   sec: 3998
   time: '1:06:38'
   who: Daniel
+- header: Closing Remarks and How to Connect with Daniel/VectorHub
 - line: Yeah, I was going to say maybe you can now go celebrate the sky. [chuckles]
     Thanks a lot for joining us today. Thanks, everyone, too, for joining us today
     – and for asking your questions, tuning in. And also, thanks, Superlinked and

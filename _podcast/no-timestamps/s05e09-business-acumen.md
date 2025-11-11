@@ -16,6 +16,7 @@ links:
   spotify: https://open.spotify.com/episode/4dFbkQI9pF4wUDueZFqxGY
   apple: https://podcasts.apple.com/us/podcast/building-business-acumen-for-data-professionals-thom-ives/id1541710331?i=1000540181044
 transcript:
+- header: Episode Introduction & Guest Thom Ives
 - line: This week, we'll talk about business acumen. We have a special guest today,
     Thom. Thom is a data scientist with a PhD in mechanical engineering, a multiphysics
     engineer and a Python-loving geek who lives in the United States. That's probably
@@ -26,6 +27,7 @@ transcript:
   sec: 75
   time: '1:15'
   who: Alexey
+- header: Concept-focused learning vs. detail specialization
 - line: Hi, Alexey. I'm really glad to be here. I want to qualify something you said.
     I know a little bit about a lot of things, but I don't know a lot about a few
     things. Or maybe I know a lot about a few things – I hope so. But one thing that
@@ -34,7 +36,6 @@ transcript:
   sec: 110
   time: '1:50'
   who: Thom
-- header: Thom’s background
 - line: Actually, I wanted to invite you to this event for a long time. But I was
     struggling to think what we could discuss. Usually these talks have a topic –
     it’s a themed discussion. The discussion can be about something such as business
@@ -49,6 +50,7 @@ transcript:
   sec: 138
   time: '2:18'
   who: Alexey
+- header: 'Career journey: naval nuclear program, grad school, early AI'
 - line: Before we go into this main topic of business acumen, I wanted to ask you
     to tell us in a few words about your background. Can you tell us about your career
     journey so far?
@@ -79,6 +81,7 @@ transcript:
   sec: 309
   time: '5:09'
   who: Alexey
+- header: 'Industry roles: HP, ON Semiconductor, SaaS AI work'
 - line: Just whatever sub-topic we were learning. I first realized, “Oh, there are
     limits to what we can do with classical physics-based modeling and control systems
     design.”One of my controls professors was teaching fuzzy logic and expert systems
@@ -90,6 +93,7 @@ transcript:
   sec: 311
   time: '5:11'
   who: Thom
+- header: 'Mentoring & community building: integrated mentoring origins'
 - line: I started out as manager of advanced products for a small company that made
     automated wet-action cleaning tools for the semiconductor industry. But I felt
     like the leadership was going to bury the company, so I moved over to HP. I was
@@ -129,7 +133,7 @@ transcript:
   sec: 532
   time: '8:52'
   who: Alexey
-- header: Importance of business acumen
+- header: Why business acumen matters for data professionals
 - line: Coming back to our main topic – business acumen. Before this meeting, I looked
     up what ‘acumen’ means and the definition I got was “the ability to make good
     judgments and make quick decisions”. So, I wanted to ask you, “What is business
@@ -152,7 +156,7 @@ transcript:
   sec: 576
   time: '9:36'
   who: Thom
-- header: Don’t try to be the domain expert — be a data scientist
+- header: 'Role clarity: data scientist versus domain expert'
 - line: By the way, I'm speaking to business acumen in the sense of “How would a data
     scientist fit into exercising good business acumen?” Well, the first thing I would
     say is, “Don't burden yourself with being a domain expert, or a subject matter
@@ -196,7 +200,7 @@ transcript:
   sec: 816
   time: '13:36'
   who: Alexey
-- header: Deliver crap as fast as possible
+- header: Rapid delivery & customer-centric feedback (MVP / tracer bullet)
 - line: I think it's important to improve our business acumen in the domain that we're
     serving. But let me say this. You've heard the adage “80% of machine learning
     models don't make it into production”? Well, my first question, and I speak on
@@ -237,7 +241,6 @@ transcript:
   sec: 997
   time: '16:37'
   who: Alexey
-- header: Tracer bullet
 - line: I'm leveraging a little bit from Dave and Andy, the Pragmatic Programmer.
     They talk about tracer bullets. Can I use bad language on the show?
   sec: 998
@@ -293,7 +296,7 @@ transcript:
   sec: 1132
   time: '18:52'
   who: Alexey
-- header: Improving ETLs
+- header: ETL reliability, data collection gaps, and advocating for clean data
 - line: Yes, exactly. Let me give you some ‘for instances’. Okay. The first thing,
     when you're doing your ETL – extract, transform, load. I don't like that acronym,
     but… it's not a bad acronym, but just the spirit of “Yeah, we're getting the data.”
@@ -305,6 +308,7 @@ transcript:
   sec: 1172
   time: '19:32'
   who: Thom
+- header: 'Shared responsibility: data governance and data literacy'
 - line: A lot of data is collected by data management systems of some kind – where
     a programmer has made sure that data coming in will go into SQL safely and it
     provides an insulation of the database too. Well let's say you're getting a lot
@@ -319,7 +323,6 @@ transcript:
     I'm not saying you would normally get into an argument like that. I'm just saying
     be prepared to be very strong about clean data.
   who: Thom
-- header: Data governance and data collection
 - line: Do you do this as a data scientist? Or do you go to your manager and then
     your manager does that? As a usual data scientist, you don't always have the possibility
     to go to the users who are not entering the data and then make a case for them.
@@ -352,6 +355,7 @@ transcript:
   sec: 1391
   time: '23:11'
   who: Alexey
+- header: 'Data-driven vs. data-informed: definitions and practical balance'
 - line: Yeah. But let's think of it this way. A lot of people are correctly shifting
     from saying ‘data-driven’ to ‘data-informed’. I kind of like the Tony Stark mentality
     “Too much to ask for both?” You know? I mean, market analysis causes us to be
@@ -362,7 +366,6 @@ transcript:
   sec: 1432
   time: '23:52'
   who: Thom
-- header: Data-driven vs Data-informed
 - line: How would you define those terms? ‘Data-driven’ and ‘data-informed’?
   sec: 1469
   time: '24:29'
@@ -380,6 +383,7 @@ transcript:
   sec: 1473
   time: '24:33'
   who: Thom
+- header: Analytical skills & data storytelling before modeling
 - line: Back to your earlier point – how does making sure you don't have a missing
     value in a critical feature relate to business acumen? You’re now not being as
     well ‘data-informed’ if you have missing values for a critical feature. And that's
@@ -411,7 +415,6 @@ transcript:
     BI and processing data and telling stories with data.” That will make you a better
     machine learning engineer or a better data scientist.
   who: Thom
-- header: Invest in analytical skills
 - line: So basically, invest in analytical skills. “How can you make sense of this
     pile of data? How can you crunch it, summarize it, and how can you visualize it
     in a way that is digestible and understandable even for folks outside of the data
@@ -481,7 +484,7 @@ transcript:
   sec: 1880
   time: '31:20'
   who: Thom
-- header: Machine Learning development pipeline
+- header: 'Machine learning development pipeline: feature conditioning to modeling'
 - line: We were talking about ETL. Maybe we can go back to that. We get the data,
     we see how smooth this process is, and we try to optimize it. Then we get the
     data, we visualize it, we find dirty data, and we try to fix it. What’s next?
@@ -533,7 +536,7 @@ transcript:
   sec: 2065
   time: '34:25'
   who: Alexey
-- header: Scaling features and feature engineering
+- header: Feature scaling, selection, and engineered features for business insight
 - line: This is a great point you're making. Let's think of it this way too. It would
     be a mistake to go to your domain experts and say, “What are the features?” and
     trust that blindly. Instead, I would say, “What do you suspect the features will
@@ -593,6 +596,7 @@ transcript:
   sec: 2354
   time: '39:14'
   who: Alexey
+- header: Addressing collinearity with PCA and pursuing parsimony
 - line: So this is an engineered feature. We looked at the raw data and we created
     this feature called ‘meaningful conversation’. This gives us a lot of knowledge
     about what happened. By engineering the feature, we were able to understand the
@@ -601,7 +605,6 @@ transcript:
     wasn't just “Hi” and nobody replied, but they actually talked to each other. Thus,
     we learned about the process. I think this is important when you create such features.
   who: Alexey
-- header: PCA and collinearity
 - line: That's awesome. I agree with you. Then once we've engineered the features,
     we still have other questions before we go into choosing models. For example,
     a lot of times, the way we experiment with engineered features is to throw a lot
@@ -662,6 +665,7 @@ transcript:
   sec: 2735
   time: '45:35'
   who: Alexey
+- header: 'Model selection: accuracy, variance, and generalizability'
 - line: Oh, down to it. You have to throw PCA into the mix, and you're trying to give
     insights from each step in the pipeline back to the business. You do have a burden
     to say, “Well, we did the analysis that we explained here, but we ended up using
@@ -673,6 +677,8 @@ transcript:
   sec: 2753
   time: '45:53'
   who: Thom
+- header: 'Monitoring models in production: data drift, concept drift, and maintenance'
+- header: 'Essential business skills: explainability, persuasion, and influence'
 - line: Don't fall into the accuracy trap. You want good accuracy. But you want consistent
     accuracy. In other words, it's a generalized model – it'll work across a lot of
     data, (or as much data as possible). So we use, obviously, the method of proper
@@ -705,7 +711,6 @@ transcript:
     acumen not just for the data scientists, but for the business leaders and the
     domain experts.
   who: Thom
-- header: The most important business skills
 - line: Yeah, that's interesting. I was thinking now – of all the things we discussed,
     I'm trying to summarize it into the most important business skills for data professionals.
     So first, we mentioned data storytelling – being able to analyze the data, crunch
@@ -717,6 +722,7 @@ transcript:
   sec: 2968
   time: '49:28'
   who: Alexey
+- header: 'Relationship-building: informal check‑ins, lunch & beer networking'
 - line: Then there’s educating why data science is important, which is something that
     you, as a data professional, should also be able to do. For instance saying, “Okay,
     you really need to be careful about this value. You really need to pay attention
@@ -724,7 +730,6 @@ transcript:
     of why they need to do this. So what are the other important business skills that
     I missed here?
   who: Alexey
-- header: 'Networking: lunch and beer'
 - line: Well, I'm laughing because of something I learned the hard way. I'll share
     it as a story because I think it'll be more powerful that way. I'll just use first
     names, but they're the real names. My buddy Rick – he's VP of this business in
@@ -807,7 +812,7 @@ transcript:
   sec: 3325
   time: '55:25'
   who: Thom
-- header: Lunch and beer during COVID
+- header: 'Remote rapport: virtual lunches, video calls, and building camaraderie'
 - line: So what about alternatives in today's world? There is a comment from somebody
     named D – it's not always an option in these ‘working from home’ days, when companies
     are now going fully remote. How do you have lunch with somebody who is even in
@@ -849,7 +854,7 @@ transcript:
   sec: 3514
   time: '58:34'
   who: Thom
-- header: Integrated machine learning and AI community
+- header: 'Integrated ML & AI community: structure, ethos, and free resources'
 - line: I wanted to talk about integrated machine learning and AI that you're doing.
     So, can you tell us more about this? You said that at some point you started doing
     this because you were getting a lot of requests. You were surprised that you were
@@ -918,6 +923,7 @@ transcript:
   sec: 3745
   time: '1:02:25'
   who: Thom
+- header: Joining the Slack community and accessing resources
 - line: Yeah. How can people join that? How can people do this?
   sec: 3816
   time: '1:03:36'
@@ -1000,7 +1006,7 @@ transcript:
   sec: 3952
   time: '1:05:52'
   who: Thom
-- header: Wrapping up
+- header: Episode wrap-up and final takeaways
 - line: Okay. Thanks a lot, Thom, for joining us today and for sharing your experience
     with us – your knowledge, your stories. And thanks, everyone for joining us today
     as well, for being here, for asking questions. Do you want to say anything before

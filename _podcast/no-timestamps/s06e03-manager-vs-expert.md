@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/5Ug8YA3hKY9Kr5hVFDqZ77
   apple: https://podcasts.apple.com/us/podcast/data-science-manager-vs-data-science-expert-barbara/id1541710331?i=1000542496818
 transcript:
+- header: Podcast Introduction
+- header: 'Episode Topic: Data Science Manager vs Data Science Expert'
 - line: This week, we'll talk about two different roles. We'll talk about the data
     science manager role and the data science expert role. We'll also talk about how
     they are not the same and why they are different. There are probably some similarities
@@ -28,7 +30,7 @@ transcript:
   sec: 118
   time: '1:58'
   who: Barbara
-- header: Barbara’s background
+- header: 'Career Journey: GIS → SQL → BI → Data Science Manager'
 - line: Welcome, Barbara. Before we go into our main topic, let's start with your
     background. Can you tell us about your career journey so far?
   sec: 120
@@ -62,6 +64,7 @@ transcript:
   sec: 263
   time: '4:23'
   who: Alexey
+- header: 'ML Use Cases: Mental Health Monitoring & Demand Forecasting'
 - line: Now, we have two main topics. One is a model that does predictions for people
     who are suffering from bipolar disease or depression, whether their faces change
     or not. This is important for doctors. The other solution is a small commercial
@@ -69,7 +72,7 @@ transcript:
   sec: 266
   time: '4:26'
   who: Barbara
-- header: Do you need a manager or an expert?
+- header: 'Misleading Job Ads: Manager vs Expert Confusion on LinkedIn'
 - line: That's quite interesting. Thanks for sharing. I've been following you on LinkedIn
     for quite a while. I think you post regularly – maybe every week or every two
     weeks I see posts from you. Then some time ago, maybe a few months ago, you shared
@@ -104,6 +107,7 @@ transcript:
   sec: 433
   time: '7:13'
   who: Alexey
+- header: 'Root Causes: HR/IT Job Descriptions Missing Managerial Needs'
 - line: I think that it’s usually created by some guys from IT – Head of IT, Head
     of BI, or somebody like this – and he or she doesn't know exactly how data science
     works. They don’t know what is more important for which position. Or sometimes
@@ -113,13 +117,13 @@ transcript:
   sec: 448
   time: '7:28'
   who: Barbara
-- header: Technical and non-technical requirements for managers
 - line: What do you think the balance should actually be? Say somebody is looking
     for a manager – should it be 80% technical, and 20% non-technical? Or should it
     be different?
   sec: 491
   time: '8:11'
   who: Alexey
+- header: 'Manager Skill Balance: Technical Knowledge vs Soft Skills'
 - line: It should definitely be different. I think maybe half and half, or something
     along those lines. But I think the most important are the managerial skills.
   sec: 502
@@ -160,7 +164,6 @@ transcript:
   sec: 571
   time: '9:31'
   who: Barbara
-- header: Importance of technical skills for managers
 - line: As I remember from your background story, you were saying that you became
     a data science manager. When you became a data science manager, how much experience
     in data science did you have back then?
@@ -194,6 +197,7 @@ transcript:
   sec: 700
   time: '11:40'
   who: Alexey
+- header: 'Technical Expectation: High-Level Understanding vs Deep Expertise'
 - line: It is important to understand how it works but on a high level. Maybe I shouldn't
     say this, but I don't use Docker. But I know how it works and this is the most
     important thing. I can talk with my team and we can discuss it because I understand
@@ -206,7 +210,6 @@ transcript:
   sec: 722
   time: '12:02'
   who: Barbara
-- header: Responsibilities and skills of a manager
 - line: Yeah, interesting. So experts need deep knowledge and managers need shallow
     knowledge. They just need to know a bit of everything and know what to ask for
     and then just to go to an expert when they need deeper knowledge. Let's talk a
@@ -215,6 +218,7 @@ transcript:
   sec: 784
   time: '13:04'
   who: Alexey
+- header: 'Manager Responsibilities: Strategy, Team Development, Stakeholder Communication'
 - line: Data science managers help organizations use data to make the best management
     decision. Of course, he or she has to know what skill set and personality is needed
     for team members. Because a team means there are people. People are not robots.
@@ -242,12 +246,12 @@ transcript:
     that is useful to strong critical thinking and problem-solving capabilities. This
     all combines soft and technical skills.
   who: Barbara
-- header: Importance of technical background for managers
 - line: How hands-on is it? Does a manager actually sit and code? Do they open a Jupyter
     Notebook and tune XGBoost or not? Or not so much?
   sec: 934
   time: '15:34'
   who: Alexey
+- header: 'Hands-On Reality: Coding, Model Review, and Time Allocation'
 - line: '[laughs] Sometimes. It always depends on the structure and maturity of the
     organization and the data team. It''s also connected with the level of technical
     skills and the background that the person has. So if he or she has trained models
@@ -274,6 +278,7 @@ transcript:
   sec: 1041
   time: '17:21'
   who: Alexey
+- header: 'Manager Experience: Hands-On ML Helpful but Not Mandatory'
 - line: It is possible to be a good manager without this experience. It's harder,
     I think. But it's also possible. It also depends on the organization. I know an
     organization that is quite big and I know that their head of IT (or head of data
@@ -300,13 +305,13 @@ transcript:
   sec: 1144
   time: '19:04'
   who: Barbara
-- header: Getting involved in business development and sales
 - line: Yeah. I already see a question related to the responsibilities of data managers.
     “Do you think data managers should be involved with business development and sales
     of projects or not?”
   sec: 1166
   time: '19:26'
   who: Alexey
+- header: 'Business Development: Manager Role in Sales and Client Strategy'
 - line: I think yes, because a manager is responsible for the strategy and how the
     organization will prepare different machine learning solutions and who these solutions
     are for, as well as in which business areas they will be applied. I think yes.
@@ -325,13 +330,13 @@ transcript:
   sec: 1225
   time: '20:25'
   who: Barbara
-- header: Developing the team
 - line: Another related question to what we discussed, “How do you make sure that
     your team is learning new data skills, trying new tools, and seeing new applications
     every day? How do you do this as a manager?”
   sec: 1234
   time: '20:34'
   who: Alexey
+- header: 'Team Development: Learning Plans, Courses, and Pairing'
 - line: Okay. Well, my team is not too big, so maybe that's why it's easier. Because
     if you have a big team of 20-30 people or something like that, it's harder. My
     team is quite small, so I sit with them every week and we discuss these things.
@@ -374,7 +379,6 @@ transcript:
   sec: 1403
   time: '23:23'
   who: Barbara
-- header: Checking team’s work
 - line: Yeah, the other question is “Do you double check the work of your team?” I
     think you mentioned that you take a look at the code. But the reason you do this
     is because you want to suggest the areas for improvement, right? It's not like
@@ -382,6 +386,7 @@ transcript:
   sec: 1416
   time: '23:36'
   who: Alexey
+- header: 'Quality Oversight: Code Reviews vs Managerial Guidance'
 - line: I'm not double-checking. They have code reviews and others have different
     things. Yeah, I look sometimes. But I do this maybe once per four models or something
     like that – when I'm very curious. But I don't double-check. They're better programmers
@@ -410,7 +415,7 @@ transcript:
   sec: 1494
   time: '24:54'
   who: Barbara
-- header: Data science expert
+- header: 'Data Science Expert: Deep Technical and Domain Expertise'
 - line: So instead of spending time reading some articles, you just go and check the
     code. “Oh, nice.” And grab some coffee. [laughs] Okay. We talked about the manager
     and we talked about their responsibilities. From the list of responsibilities,
@@ -465,12 +470,12 @@ transcript:
   sec: 1701
   time: '28:21'
   who: Barbara
-- header: Hiring experts
 - line: Yeah. So, why might we need an expert? It's not enough to just hire somebody
     who is a senior or regular data scientist?
   sec: 1718
   time: '28:38'
   who: Alexey
+- header: 'Hiring an Expert: When Complex Models and Domain Knowledge Are Needed'
 - line: Okay. So, some machine learning models are easier and some tougher. Some are
     very complicated and you need somebody who can handle them – somebody who has
     good experience. This person could propose complicated and good solutions, spend
@@ -485,7 +490,6 @@ transcript:
   sec: 1728
   time: '28:48'
   who: Barbara
-- header: Who should we hire first?
 - line: Let’s come back to our previous discussion. Say a company wants to hire a
     data scientist and they think, “Okay, we need to hire a manager.” Then they come
     up with this list of requirements, 80% of which are technical. What do you think
@@ -495,6 +499,7 @@ transcript:
   sec: 1804
   time: '30:04'
   who: Alexey
+- header: 'Hiring Strategy: Manager + Expert vs Generalist for Startups'
 - line: Okay. If you are a big organization – because if you are a startup it’s different
     – but if you are a big organization, I think you need two people. A manager and
     an expert or a good CEO. If you’re lucky, you can find an expert with very, very
@@ -509,6 +514,7 @@ transcript:
   sec: 1837
   time: '30:37'
   who: Barbara
+- header: 'Manager Job Profile: Team Building, Communication, and AI Literacy'
 - line: Let's say somebody agrees with you and hires a data science manager. Then
     the manager would basically build a data science team. So what should be in the
     job description for this position?
@@ -531,7 +537,7 @@ transcript:
   sec: 1935
   time: '32:15'
   who: Barbara
-- header: Can an expert build a team?
+- header: 'Risks of Hiring Experts as Managers: Team and Business Translation Gaps'
 - line: Let's say some organization comes up with a job description, similar to what
     you saw. You’ve already seen quite a few of them. They managed to hire somebody
     who is an expert. But let’s say that they actually need a manager, but they hire
@@ -582,7 +588,6 @@ transcript:
   sec: 2249
   time: '37:29'
   who: Barbara
-- header: Data science managers in startups
 - line: I see. You also said that if it's a big corporation, they can actually hire
     two people – they can hire a data science manager when they start building a team
     and they can hire an expert as well. So they pair them together, let them do their
@@ -591,6 +596,7 @@ transcript:
   sec: 2292
   time: '38:12'
   who: Alexey
+- header: 'Startup Hiring: Unicorns Who Wear Many Hats'
 - line: Yeah. Startups don't have this luxury. Very often, they don't even have the
     luxury to hire a data scientist and a data engineer. That's why startups look
     for data scientists with many skills. That's why, very often, data scientists
@@ -636,7 +642,7 @@ transcript:
   sec: 2446
   time: '40:46'
   who: Barbara
-- header: Project management
+- header: 'Project Prioritization: Estimation, Resource Allocation, and Buffers'
 - line: We have quite a few questions. Most of them, I think, are related to the manager
     role. The first one concerns prioritization and deadline estimations, which are
     usually very hard for data science projects. I think you can relate to that. Is
@@ -712,7 +718,7 @@ transcript:
   sec: 2739
   time: '45:39'
   who: Barbara
-- header: Ensuring that projects provide value
+- header: 'Measuring Impact: Client Feedback, KPIs, and Model Monitoring'
 - line: How do you make sure that the team is improving the revenue of the company?
     Meaning that the projects that you're making are actually impactful and help your
     company and perhaps the clients to deliver value?
@@ -768,7 +774,7 @@ transcript:
   sec: 3004
   time: '50:04'
   who: Barbara
-- header: Questions before starting a project
+- header: 'Client Discovery: Baselines, Data Availability, and Success Metrics'
 - line: We have another question that’s quite interesting. “Do you have a standard
     set of common questions that your data scientists use to interview the clients?”
   sec: 3012
@@ -828,6 +834,7 @@ transcript:
   sec: 3223
   time: '53:43'
   who: Alexey
+- header: 'Feasibility Check: Data Quality and Necessity of Machine Learning'
 - line: For me it’s not a common situation. But the more common problem is that people
     don't have good data – or not enough data. This is more problematic. Maybe my
     customers are quite aware and they know that they need machine learning for their
@@ -836,7 +843,7 @@ transcript:
   sec: 3237
   time: '53:57'
   who: Barbara
-- header: Women in data science
+- header: 'Diversity Spotlight: Women in Data Science and Interview Confidence'
 - line: Yeah, thanks. Maybe this one is also a tough question. “Do you have any thoughts
     on why females are still a minority in data science teams?”
   sec: 3271
@@ -898,7 +905,7 @@ transcript:
   sec: 3446
   time: '57:26'
   who: Barbara
-- header: Finding Barbara online
+- header: 'Connect with Guest: Barbara Sobkowiak on LinkedIn'
 - line: Yeah, thanks. How can people find you?
   sec: 3543
   time: '59:03'
@@ -908,7 +915,7 @@ transcript:
   sec: 3547
   time: '59:07'
   who: Barbara
-- header: General advice
+- header: 'Career Advice: Find Satisfaction, Mentors, and Networking'
 - line: Do have any advice for anyone who is listening or watching this?
   sec: 3560
   time: '59:20'
@@ -922,7 +929,7 @@ transcript:
   sec: 3573
   time: '59:33'
   who: Barbara
-- header: Wrapping up
+- header: Episode Wrap-up and Unanswered Questions
 - line: Yeah, thanks. I hope that the questions didn't catch you off guard. They're
     fun. I think you enjoyed them as well.
   sec: 3624

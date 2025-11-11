@@ -15,6 +15,8 @@ season: 16
 short: Bridging Data Science and Healthcare
 title: 'ML in Healthcare: Low-Resource Monitoring, Sepsis Prediction & Clinical Translation'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Overview: Elena Stamatelou — ML researcher focused on healthcare'
 - line: This week, we'll talk about data science in healthcare. We have a special
     guest today, Elena. Elena is a machine learning researcher and educator. She's
     passionate about using data science to improve health care and save human lives.
@@ -37,7 +39,7 @@ transcript:
   sec: 86
   time: '1:26'
   who: Alexey
-- header: Elena’s background
+- header: 'Education & Early Career: University of Patras, Erasmus, VUB/ULB'
 - line: Before we go into our main topic of data science and healthcare, let's start
     with your background. Can you tell us about your career journey so far?
   sec: 105
@@ -71,6 +73,8 @@ transcript:
   sec: 163
   time: '2:43'
   who: Alexey
+- header: 'Moving to the Netherlands: Philips Healthcare internship and doctorate
+    in data science'
 - line: I also did some courses there because I needed to pick up some courses. So
     I also did a bit of ULB. But mainly it was VUB. Then after that, I was excited
     about going abroad, and I applied for an internship at Philips Healthcare in the
@@ -110,7 +114,7 @@ transcript:
   sec: 262
   time: '4:22'
   who: Elena
-- header: Some of Elena’s past projects
+- header: 'Philips Healthcare Projects: C‑arm imaging and pregnancy monitoring'
 - line: Nice. Well, I have never heard about Philips Healthcare. What I know about
     Philips is that they produce lamps. I have a few smart lamps – Philips Hue. I
     also know that they produce trimmers (for shaving) but that's pretty much the
@@ -138,6 +142,7 @@ transcript:
   sec: 380
   time: '6:20'
   who: Alexey
+- header: 'Low‑Resource Pediatric Monitoring: Vital‑sign system design for Malawi'
 - line: I actually left my current company in July. I'm actually now on sabbatical.
     I worked for them for almost two years, focusing more on designing things like,
     “What is the future of data science in the company and how can we develop data
@@ -152,6 +157,7 @@ transcript:
   sec: 449
   time: '7:29'
   who: Alexey
+- header: 'Data Collection for Clinical Outcomes: linking sensors to lab results'
 - line: It was actually a system for the intensive care unit. But then the difference
     was that we were working on a design for low-resource settings and also a more
     simplified design because sometimes, healthcare professionals there might find
@@ -179,7 +185,7 @@ transcript:
   sec: 560
   time: '9:20'
   who: Elena
-- header: Why Elena chose to go into healthcare
+- header: 'Motivation for Healthcare: choosing impact over other engineering paths'
 - line: Okay. That's quite interesting. You spent a couple of years there, right?
     [Elena agrees] So you started in Philips Healthcare and then you worked in this
     company. Why did you decide to go into healthcare? Why did you decide to choose
@@ -203,6 +209,8 @@ transcript:
   sec: 659
   time: '10:59'
   who: Alexey
+- header: 'Master’s Thesis: white blood cell image classification for a cell sorter
+    (IMEC)'
 - line: I worked together with IMEC, which is a Belgian Research Institute. There,
     we were working on… I had images from white blood cells and I was analyzing those
     images with basic, conventional image processing methods. The main goal was to
@@ -233,6 +241,7 @@ transcript:
   sec: 753
   time: '12:33'
   who: Alexey
+- header: '3D Reconstruction Work: multi‑view geometry from C‑arm images'
 - line: Yeah. And there, I worked on a topic that was not really related to data science.
     They have this C-arm, which is in the shape of a C, like that [Elena shows the
     shape of the letter C with her hand] and on the top of this arm, there are four
@@ -261,7 +270,6 @@ transcript:
   sec: 857
   time: '14:17'
   who: Elena
-- header: 3D imaging and healthcare metric tracking
 - line: Because I saw… It's not related to health care at all, but I saw some demos
     where people were going around Berlin (or other different cities) taking pictures.
     Then there is a model or something that just takes all these images and creates
@@ -285,6 +293,8 @@ transcript:
   sec: 928
   time: '15:28'
   who: Alexey
+- header: 'Home Monitoring for Pregnancy: smartwatches, weight tracking, and midwife
+    dashboards'
 - line: Yeah, I worked as a data analyst afterward, on a project that was a research
     project. Again, because I mainly worked in research all those years. We were actually
     collecting data from pregnant women. That project was directed… The users were
@@ -311,6 +321,7 @@ transcript:
   sec: 1035
   time: '17:15'
   who: Alexey
+- header: 'Research Orientation: novelty with clinical translation'
 - line: As you said, they're quite different from one another. Also, if you consider
     the projects I work on later, they're also quite different. But they have a common
     theme in that the things that you're looking at when you're working are healthcare
@@ -321,7 +332,6 @@ transcript:
   sec: 1085
   time: '18:05'
   who: Elena
-- header: Making an impact and signal processing
 - line: So, there is no specific area – you focused more on “Can I make an impact
     now? Can I publish a paper?” Or “Will they think I work on go and affect lives
     after I finish?” It must be really cool to see things that you work on in action,
@@ -337,6 +347,8 @@ transcript:
   sec: 1162
   time: '19:22'
   who: Alexey
+- header: 'Ballistography Signal Research: denoising and U‑Net for infant heart rate
+    estimation'
 - line: During the period when I was working for this company where we were working
     on vital sign monitoring systems in Africa, I was working on… It is called ballistography
     signal data. It's a novel signal… I'm thinking of how to explain it to make it
@@ -362,6 +374,8 @@ transcript:
   sec: 1276
   time: '21:16'
   who: Alexey
+- header: 'Signal Processing vs Deep Learning: filters, Fourier methods, and when
+    to use ML'
 - line: Yes. You have the estimation of the heart rate and respiration rate. For the
     respiration rate, I used more conventional signal processing approaches, because
     it's simpler to estimate the respiration rate since you get a much stronger signal.
@@ -410,6 +424,7 @@ transcript:
   sec: 1446
   time: '24:06'
   who: Alexey
+- header: 'Patient Acuity Scoring: vitals‑based scoring poster'
 - line: This is my first publication. But then I also published a poster that is not
     available online. It was about calculating a patient’s score based on the vitals
     of the patient. The main idea behind this was to have an overall assessment of
@@ -418,7 +433,7 @@ transcript:
   sec: 1483
   time: '24:43'
   who: Elena
-- header: The challenges of working in healthcare
+- header: Regulatory & Explainable AI Challenges; annotation scarcity and data gaps
 - line: I already see quite a few questions, and this is actually one of the questions
     we also have for this interview. It is about the challenges of working in healthcare.
     It's quite a regulated field, right? I guess there are a lot of privacy concerns
@@ -456,6 +471,7 @@ transcript:
   sec: 1687
   time: '28:07'
   who: Alexey
+- header: 'Clinical Use Case: sepsis prediction from vitals and clinical data'
 - line: Yeah. In my previous research, I was working on estimating sepsis, let’s say,
     based on the vital signs of the patient, and also the clinical data.
   sec: 1692
@@ -509,7 +525,7 @@ transcript:
   sec: 1843
   time: '30:43'
   who: Elena
-- header: Jumping over hurdles, gaining trust, and collecting feedback
+- header: 'Clinical Validation & Adoption: engaging clinicians and long approval timelines'
 - line: You spoke about these regulatory approvals, and I imagine that these things
     make it very difficult to… Let's say you’re working on a thesis or you're working
     on a model and the time comes to actually “ship this model to production” – this
@@ -552,7 +568,7 @@ transcript:
   sec: 2018
   time: '33:38'
   who: Alexey
-- header: Convincing professionals to try new things
+- header: 'Healthcare vs E‑commerce Data: offline events, timestamps, and higher risk'
 - line: I see that there is a comment from Sylvia. “Thanks, Eleni, for sharing your
     experience. How advanced and trusted is data science in healthcare compared to
     other sectors?” For example, I worked in e-commerce, and I think in e-commerce,
@@ -578,7 +594,7 @@ transcript:
   sec: 2088
   time: '34:48'
   who: Elena
-- header: How data science will evolve in the healthcare field
+- header: 'Population Differences & Generalization: Europe vs Africa considerations'
 - line: Exactly. They just would not buy the things and continue living their life.
     Meanwhile, in healthcare, it can sometimes actually be a matter of life and death.
     How do you think this will evolve? Do you think it will get more trust in the
@@ -640,7 +656,7 @@ transcript:
   sec: 2358
   time: '39:18'
   who: Elena
-- header: The issue of automating away human jobs
+- header: 'Automation Impact: job displacement concerns and augmentation potential'
 - line: Okay. So you need to think “Okay, for this specific feature or dataset, are
     there any problems that might occur? Is there something that makes the way the
     data was collected in Europe different from the data that was collected in Africa?
@@ -695,7 +711,8 @@ transcript:
   sec: 2581
   time: '43:01'
   who: Elena
-- header: The challenge of data collection and storage in healthcare
+- header: 'Data Infrastructure Variability: digitization, interoperability, and compact
+    discs'
 - line: I see that there is a comment about India, “In smaller cities, data is not
     created properly, especially in healthcare.” Even in Germany – it's such a mess,
     to be honest. [chuckles] Germany is a pretty advanced country, but when it comes
@@ -742,7 +759,8 @@ transcript:
   sec: 2732
   time: '45:32'
   who: Alexey
-- header: The importance of gradual and cyclical change
+- header: 'Incremental Adoption Strategy: visualization, feedback loops, and trust
+    building'
 - line: I think in the case where it's not very accurate, we need to give more information
     to the people so that they can make decisions. As I said before, it can say, “We
     have 60% accuracy.” Then the person knows that this is just an estimation and
@@ -797,7 +815,6 @@ transcript:
   sec: 2995
   time: '49:55'
   who: Elena
-- header: Data engineering in healthcare
 - line: There is a question from Avinash about data engineering and data science,
     which made me think, “Okay, we talked about the data science part.” But there
     is also… For example, (I'm, again, thinking about the e-commerce setting). Say
@@ -811,6 +828,7 @@ transcript:
   sec: 2996
   time: '49:56'
   who: Alexey
+- header: 'ML Deployment Constraints: on‑device vs cloud for low‑resource settings'
 - line: This is indeed, for the data engineer to just take the model that the data
     scientists create, and then deploy that on the machine so that it also works and
     aligns with the rest of the software there. Also, they take into account the restrictions
@@ -844,6 +862,7 @@ transcript:
   sec: 3137
   time: '52:17'
   who: Elena
+- header: 'Sabbatical & Personal Projects: reflection and next steps'
 - line: You mentioned that you're having a sabbatical at the moment. Are you working
     on some personal projects that are related to healthcare as well?
   sec: 3165
@@ -868,7 +887,7 @@ transcript:
   sec: 3205
   time: '53:25'
   who: Alexey
-- header: Getting into healthcare as a data scientist
+- header: 'Transitioning into Healthcare Data Science: pathways and role types'
 - line: If somebody wants to get into healthcare (somebody as a data scientist) how
     would you recommend they do that? Let's say I'm a data scientist, I have this
     typical e-commerce experience, but I got so motivated after listening to you right
@@ -900,6 +919,8 @@ transcript:
   sec: 3310
   time: '55:10'
   who: Alexey
+- header: 'Skills Transferability: technical skills are sufficient; learn clinical
+    context on the job'
 - line: I think the skills are already enough. Maybe they will get a more technical
     job in the beginning in a healthcare company, and then they can receive more [medical-related
     work] if they want. That's what I saw, for example, in Philips Healthcare – people
@@ -916,6 +937,8 @@ transcript:
   sec: 3369
   time: '56:09'
   who: Alexey
+- header: 'Job Market & Funding: demand for healthcare data scientists and research
+    funding'
 - line: I think there is a lot of interest, but they also ask for a lot of people
     in general, in the field of data science. So that's what I have seen. It also
     depends on the country, but still. For example, in the Netherlands, there are
@@ -952,6 +975,7 @@ transcript:
   sec: 3531
   time: '58:51'
   who: Elena
+- header: Closing Remarks and Resources (publications, GitHub, LinkedIn)
 - line: So the Netherlands is pretty advanced, as we discussed. So hopefully, it's
     not an issue there. Okay, this is all we have time for today. Thanks a lot, Elana,
     for joining us today – for sharing your experience with us. It was really interesting

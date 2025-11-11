@@ -15,6 +15,8 @@ season: 14
 short: Data Developer Relations
 title: 'Master Full-Stack ML with Metaflow: DevRel, Open-Source Governance & AI Trends'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Introduction: Hugo Bowne‑Anderson, Outerbounds & Metaflow'
 - line: This week, we'll talk about developer advocacy. We have a special guest today
     – very special – Hugo. Hugo is the Head of Developer Relations at Outerbounds.
     He's also a co-host of the Vanishing Gradients podcast. He's a data scientist,
@@ -26,6 +28,7 @@ transcript:
   sec: 93
   time: '1:33'
   who: Alexey
+- header: Metaflow Sandbox Demo & Full‑Stack Machine Learning Spotlight
 - line: Thank you so much for having me here. It's a great honor to be here. For those
     who don't know, this will go live soon, but we also recorded an open-source demo
     of Metaflow and full-stack machine learning using the sandbox we've built recently,
@@ -60,13 +63,14 @@ transcript:
   sec: 215
   time: '3:35'
   who: Hugo
-- header: Hugo's background
+- header: 'Career Path: From Biophysics Research to Data Science Education'
 - line: Yeah, let's start. Before we go into our main topic of data developer relations,
     let's start with your background. Can you tell us about your career journey so
     far?
   sec: 216
   time: '3:36'
   who: Alexey
+- header: Building Courses, Open‑Source Collaboration & DataCamp Impact
 - line: Yeah, and feel free to stop me at any point. I'm not quite sure what level
     of granularity to go into. But I'll kind of give a bit of background that's relevant
     to what we're talking about today, as well. My background is in scientific research
@@ -173,7 +177,7 @@ transcript:
   sec: 633
   time: '10:33'
   who: Hugo
-- header: Why do tools and the companies that run them have wildly different names
+- header: 'Open‑Source Governance: Company Support for Projects (Dask, Metaflow)'
 - line: I still don't know how exactly it works. Sometimes people can post links,
     sometimes they can't. Most of the time, they cannot. Only if the host can, which
     I guess makes sense because otherwise people might come and post spam. I'm really
@@ -223,11 +227,11 @@ transcript:
   sec: 797
   time: '13:17'
   who: Hugo
-- header: Hugo's other projects beside Metaflow
 - line: Do you work on anything else apart from Metaflow? Are there other products?
   sec: 826
   time: '13:46'
   who: Alexey
+- header: 'Metaflow Integrations: AWS, Kubernetes, Argo & ML Interoperability'
 - line: At the moment, our main product is definitely based around Metaflow, but it
     does interoperate with a variety of different things. So if you're on AWS, we
     make sure that you can have access to all of your resources, all of your data,
@@ -239,7 +243,7 @@ transcript:
   sec: 832
   time: '13:52'
   who: Hugo
-- header: Transitioning from educator to DevRel
+- header: 'Path to DevRel: Education to Developer Advocacy'
 - line: When you were talking about your career journey, that was pretty interesting.
     So you came to develop relations through education. You first noticed that for
     researchers it is difficult to learn about practical data science, so you created
@@ -299,7 +303,7 @@ transcript:
   sec: 917
   time: '15:17'
   who: Hugo
-- header: What is DevRel?
+- header: 'DevRel Explained: Education, Documentation & the "Wisdom Layer"'
 - line: What is actually DevRel? What is it?
   sec: 1083
   time: '18:03'
@@ -370,7 +374,7 @@ transcript:
   sec: 1087
   time: '18:07'
   who: Hugo
-- header: DevRel vs Marketing
+- header: 'DevRel Organizational Models: Reporting Lines & Technical Alignment'
 - line: Yeah, interesting. So it's about education, it's about discoverability, and
     it's about producing content that developers can understand and developers can
     trust. Right? [Hugo agrees] As you said, if it's just somebody from the marketing
@@ -407,7 +411,7 @@ transcript:
   sec: 1409
   time: '23:29'
   who: Hugo
-- header: How DevRel coordinates with developers
+- header: 'Developer Collaboration: Feedback Loops, Documentation & Dogfooding'
 - line: Yeah. I think you mentioned that not all developers are really into writing
     blog posts and other things or being in talks. But then, other developers who
     need to use the tools that these developers produced, they need documentation.
@@ -425,6 +429,7 @@ transcript:
   sec: 1517
   time: '25:17'
   who: Alexey
+- header: 'Generative AI Trends: Impacts on ML Infrastructure & DevRel'
 - line: Yeah. The other thing worth mentioning is, it's fun because you get to stay
     professionally on top of current trends. Recently we've seen, I suppose what we'd
     call a revolution in generative AI, from last year – all your Stable Diffusions
@@ -441,7 +446,7 @@ transcript:
   sec: 1570
   time: '26:10'
   who: Hugo
-- header: How DevRel coordinates with marketers
+- header: 'Marketing Partnership: SEO, Content Strategy & Audience Targeting'
 - line: Okay. We already discussed that you, as a DevRel person, work closely with
     the developers who create a product (create the code). How closely do you work
     with marketing? Because what marketers do, in my opinion, (I might be wrong) they
@@ -522,7 +527,7 @@ transcript:
   sec: 1899
   time: '31:39'
   who: Hugo
-- header: What skills a DevRel needs
+- header: 'Core DevRel Skills: Technical Fluency, Writing & Community Building'
 - line: But what are the skills that... let's say, I work as a data scientist and
     I am interested in exploring the DevRel space. I think I enjoy writing, and I
     think I enjoy giving talks, and I've heard that being a DevRel is about that.
@@ -583,6 +588,7 @@ transcript:
   sec: 2087
   time: '34:47'
   who: Alexey
+- header: 'Role Trade‑offs: Content Work vs Internal Data Science'
 - line: I was just gonna say, the other thing worth mentioning – and this is always
     a challenge for a lot of data scientists and machine learning engineers who are
     thinking of getting into DevRel. It's not clear in a lot of organizations. Once
@@ -603,7 +609,6 @@ transcript:
   sec: 2090
   time: '34:50'
   who: Hugo
-- header: The challenges that come with being an educator
 - line: So does that mean that you get less in-depth knowledge into certain things?
     Because when you solve a business problem, there are some problems, some bugs
     or some things don't work, and then you start digging deeper until you figure
@@ -613,6 +618,7 @@ transcript:
   sec: 2149
   time: '35:49'
   who: Alexey
+- header: 'Teaching Reproducibility: Dogfooding and Simplifying Workflows'
 - line: Yeah, you still end up dogfooding a lot of things that you're building, though
     in order to get to the point where something works for you and is reproducible.
     You've got to make it reproducible for other people as well. So you can end up
@@ -641,7 +647,7 @@ transcript:
   sec: 2239
   time: '37:19'
   who: Hugo
-- header: 'Becoming a good writer: nature vs nurture'
+- header: 'Improving Writing: Practice, Collaboration & Editorial Feedback'
 - line: Well, you mentioned that in order to become a good DevRel, you need to be
     a good writer and you also need to be a good speaker. But how do I become a good
     writer if I'm a data scientist? Is it something I'm born with and I either have
@@ -688,6 +694,7 @@ transcript:
   sec: 2264
   time: '37:44'
   who: Hugo
+- header: 'AI‑Assisted Drafting: Whisper, ChatGPT & Productivity Tools'
 - line: What helped me is having an editor who would point out, “Hey, look. This paragraph
     is completely not understandable. I tried to read it three times. I still don't
     get it. Let's work on this paragraph to really understand what you meant here
@@ -750,7 +757,7 @@ transcript:
   sec: 2593
   time: '43:13'
   who: Hugo
-- header: Hugo's approach to writing and suggestions
+- header: 'Content Design: Audience, Goals & Structural Outlines for Tutorials'
 - line: Yeah. And she's doing this now online. Thanks, Johanna. The question Johanna
     has is, “How do you approach creating a piece of writing or tutorial? Do you start
     with structure or do you have some other approach?
@@ -798,7 +805,7 @@ transcript:
   sec: 2607
   time: '43:27'
   who: Hugo
-- header: Establishing a goal for your content
+- header: 'Content Goals: Awareness, Support & Open‑Source Strategy Decisions'
 - line: How do you understand what kind of goal you have? Maybe somebody comes to
     you and says, “Hey, we don't have any posts in our blog. Let's create blog posts.”
     And then you're like “Okay, let's create.” Then you think, “Okay. What is actually
@@ -835,7 +842,7 @@ transcript:
   sec: 2793
   time: '46:33'
   who: Hugo
-- header: Choosing a form of media for your content
+- header: 'Choosing Media: Blog Posts, Talks, Videos, Conferences & ROI'
 - line: And speaking of that. If your goal is building awareness, then you can do
     it through an article, through a conference talk, or through a YouTube video,
     or through 1000 other ways. How do you actually select the right medium? If the
@@ -902,7 +909,7 @@ transcript:
   sec: 3085
   time: '51:25'
   who: Hugo
-- header: Is DevRel intercompany or intracompany?
+- header: 'Scope of DevRel: Internal Enablement, External Outreach & Partnerships'
 - line: Yeah, right. I understand. Well, I see that we have a few questions. One question
     from Ella is about the DevRel role and whether it's intercompany or intracompany.
     Is it somebody who speaks more outside or within the company, or is it both?
@@ -944,6 +951,7 @@ transcript:
   sec: 3258
   time: '54:18'
   who: Alexey
+- header: 'Career Advice: GitHub Portfolios, Meetups & Experimenting in DevRel'
 - line: Exactly. The other thing worth mentioning is that, at a company that's 10
     to 20 people, you end up doing a variety of different things. But as a company
     grows, people become more specialized, right? For better or for worse. Becoming
@@ -977,7 +985,7 @@ transcript:
   sec: 3353
   time: '55:53'
   who: Alexey
-- header: The Vanishing Gradients podcast
+- header: 'Long‑Form Conversations: Vanishing Gradients Podcast Overview'
 - line: Well, you also have a podcast. We still have 3 minutes. Maybe you can tell
     us about that podcast before we finish?
   sec: 3372
@@ -1014,7 +1022,7 @@ transcript:
   sec: 3490
   time: '58:10'
   who: Alexey
-- header: Finding Hugo online
+- header: 'Contact & Resources: Hugo Online, Outerbounds Slack & Links'
 - line: What's the best way to find you?
   sec: 3503
   time: '58:23'
@@ -1047,6 +1055,7 @@ transcript:
   sec: 3556
   time: '59:16'
   who: Hugo
+- header: Closing Remarks & Episode Wrap‑Up
 - line: Well, have a nice weekend. And for those who are not in Australia, have a
     nice Friday, and then a great weekend.
   sec: 3565

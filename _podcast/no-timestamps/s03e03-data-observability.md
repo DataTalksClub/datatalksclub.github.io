@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/48QcLAw2I1apC1jeo8e1sd
   apple: https://podcasts.apple.com/us/podcast/data-observability-barr-moses/id1541710331?i=1000518351217
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Profile: Barr Moses — career, GainSight, Monte Carlo'
 - line: This week we will talk about data observability and we have a special guest
     today, Barr. Barr is a CEO and co-founder of Monte Carlo which is a data reliability
     company. She has experience with building data and analytics teams, working as
@@ -28,7 +30,6 @@ transcript:
   sec: 138
   time: '2:18'
   who: Barr
-- header: Barr’s background
 - line: Thanks for coming. Before we go into our main topic of data observability,
     maybe we can talk a bit about your background. Can you tell us about your career
     journey so far?
@@ -44,6 +45,7 @@ transcript:
   sec: 153
   time: '2:33'
   who: Barr
+- header: 'Market Gap: Data downtime impact on analytics teams'
 - line: Then most recently I joined a company called GainSight — a customer data platform,
     which created the customer success category. At GainSight I actually built and
     led the team that was responsible for our customer data. So GainSight on game
@@ -62,7 +64,6 @@ transcript:
     It is a big pleasure for us to work with some amazing companies on helping them
     solve this problem and helping achieve data reliability.
   who: Barr
-- header: Market gaps in data reliability
 - line: You were leading analytics teams and you were working closely with data and
     you noticed, “okay we have some ideas how to process this data but when something
     breaks then things go wrong”. That led you to realizing, okay there is a gap in
@@ -84,6 +85,7 @@ transcript:
   sec: 300
   time: '5:00'
   who: Barr
+- header: 'Observability Origins: DevOps pillars (metrics, logs, traces)'
 - line: 'It started this guessing game of what is going on. So there are a few problems.
     One —  data teams are often the last to know about these issues. They often find
     out about these problems from consumers of data: executives or business units
@@ -98,7 +100,6 @@ transcript:
     to do this and that. Inspired by the realization that there is a better way to
     do it — and the better way to do it is actually based on best practices from engineering.
   who: Barr
-- header: Observability in engineering
 - line: Speaking about best practices. I did a bit of googling before our talk today.
     Data observability is based on “observability”, which is a concept from the devops
     world, right? So, before we go into data observability, can you tell us what it
@@ -120,6 +121,7 @@ transcript:
   sec: 440
   time: '7:20'
   who: Barr
+- header: 'Batch Data Challenges: Why data observability differs from app monitoring'
 - line: As part of that Devops — the idea of observability. Observability is this
     holistic view that includes monitoring, tracking, triaging of incidents to prevent
     downtime of those systems. So, at its core, observability in engineering is broken
@@ -136,7 +138,6 @@ transcript:
     and infrastructure. So it is a very important concept in software engineering
     and one that has been relied on for many years now.
   who: Barr
-- header: Data downtime
 - line: You said teams were moving from monoliths to micro services. Usually micro
     services are some sort of web services. Tools like DataDog, NewRelic or even open
     source tools like Prometheus and grafana — they are tailored to these kinds of
@@ -184,6 +185,7 @@ transcript:
   sec: 731
   time: '12:11'
   who: Alexey
+- header: 'Silent Failures: Invisible data quality incidents and model drift'
 - line: These failures, they are often silent failures. If the data did not appear
     in all volume, like maybe just a fraction of it appeared and if we do not have
     monitoring to our machine learning pipeline, it looks okay. There is some data,
@@ -204,7 +206,6 @@ transcript:
   sec: 820
   time: '13:40'
   who: Barr
-- header: Data quality problems and the five pillars of data observability
 - line: 'If we talk about the problems we have with data, about data quality problems.
     First there could be some things that are not supposed to be there, like letters
     in the numeric fields. Another problem is data is simply incomplete: we do not
@@ -239,12 +240,15 @@ transcript:
   sec: 989
   time: '16:29'
   who: Alexey
+- header: 'Five Pillars of Data Observability: Freshness, Volume, Distribution, Schema,
+    Lineage'
 - line: Yes precisely. There are five that we define. We believe that if you monitor
     all of them, instrument and track those, you will get the same level of confidence
     in your data. Let us talk about which five of those are.
   sec: 998
   time: '16:38'
   who: Barr
+- header: 'Schema Change Case Study: Downstream breakage and missed notifications'
 - line: The first one is freshness. Let us say we have a table that gets updated three
     times an hour regularly. And then it has not been updated for a full hour. That
     might be a freshness problem. There are many different ways to think about freshness.
@@ -274,7 +278,6 @@ transcript:
     And then similarly what are the upstream root causes for these problems? What
     may have contributed?
   who: Barr
-- header: 'Example: job failing because of a schema change'
 - line: I recalled an example — something we had recently at work. Data changed, schema
     changed. It was announced of course, in a slack channel. But of course, I have
     so many slack channels open, and not all of them I read. So, I simply missed that.
@@ -327,6 +330,7 @@ transcript:
   sec: 1302
   time: '21:42'
   who: Alexey
+- header: 'Good Pipelines, Bad Data: Need for engineering and data observability'
 - line: Three pillars of observability (good pipelines and bad data)
   who: Alexey
 - line: You also mentioned other things from the DevOps Observability world, like
@@ -363,7 +367,7 @@ transcript:
   sec: 1422
   time: '23:42'
   who: Barr
-- header: Observability vs monitoring
+- header: 'Monitoring vs Observability: Detection versus diagnosis'
 - line: I noticed that you often say “observability” and “monitoring”. Is there any
     difference between these two things or are they synonyms?
   sec: 1471
@@ -384,7 +388,7 @@ transcript:
   sec: 1485
   time: '24:45'
   who: Barr
-- header: Finding the root cause
+- header: 'Root Cause Analysis: Correlation, logs, lineage for triage'
 - line: I am just trying to think of an example. Let us say, there is a job that is
     producing data and it stopped working. We have monitoring in place that says “We
     expect that in this table. The data appears three times per hour, but it has been
@@ -408,6 +412,7 @@ transcript:
   sec: 1630
   time: '27:10'
   who: Barr
+- header: 'Accountability Models: RACI for data ownership and communication'
 - line: Another example of understanding why this is happening. Let’s assume we see
     that there is a freshness problem. We want to look at the query logs, we want
     to understand who is making updates to this table. I can actually ping the right
@@ -418,7 +423,6 @@ transcript:
     That includes knowing when things are wrong like monitoring but also answering
     a bunch of other questions too.
   who: Barr
-- header: Who is accountable for data quality? (the RACI framework)
 - line: This makes me think who should be responsible for it. I imagine this setup
     — there is some sort of central data platform. There are teams who publish to
     this platform, there are teams who consume from this platform. I am wondering
@@ -494,7 +498,7 @@ transcript:
   sec: 2120
   time: '35:20'
   who: Barr
-- header: Service level agreements
+- header: 'Data SLAs: Defining timeliness and prioritizing pipeline fixes'
 - line: So what do we do with this? Responsible and accountable — this is the team
     that actually puts the data. If I am a data scientist, I want to make a model
     based on some data. I go to this team and ask what are your SLAs — “service level
@@ -535,6 +539,7 @@ transcript:
   sec: 2224
   time: '37:04'
   who: Barr
+- header: 'SLA Automation: Inferring thresholds from historical data'
 - line: Imagine that they have hundreds of tables that have freshness issues. But
     there are only 10 of them where they have an SLA — a particular SLA for freshness
     and timeliness that is like this five-minute window. Then they will know to prioritize
@@ -544,7 +549,6 @@ transcript:
     us to have better communication — to also not waste our time on things that do
     not matter.
   who: Barr
-- header: Inferring the SLAs from the historical data
 - line: 'Here there are a few crucial components. The first — we need to have this
     platform that allows us to define these requirements: we have these expectations
     for freshness, we have these explanations for volume… Maybe for volume we do not
@@ -585,7 +589,7 @@ transcript:
   sec: 2443
   time: '40:43'
   who: Barr
-- header: Implementing data observability
+- header: 'Operational Runbooks: Playbooks and remediation workflows'
 - line: 'We have these two things: the platform itself, the tool that lets us define
     all this. Then we have this framework, RACI, to identify who is responsible, so
     we have this people aspect. Do we need something else to make it work, to have
@@ -620,7 +624,7 @@ transcript:
   sec: 2577
   time: '42:57'
   who: Alexey
-- header: Data downtime maturity curve
+- header: 'Maturity Curve: Reactive → Proactive → Automated → Scalable'
 - line: I can provide an answer for what folks are doing if that is helpful. I talked
     a little bit about the maturity curve — how people manage from a small company
     where there is one person who is doing everything. Then there is a large company
@@ -678,7 +682,7 @@ transcript:
   sec: 2814
   time: '46:54'
   who: Barr
-- header: 'Monte carlo: data observability solution'
+- header: 'Platform Criteria: End-to-end integration and reducing false positives'
 - line: We need some sort of holistic picture. How do we get it? If all we have is
     a bunch of ad-hoc stuff put together with a duct tape. It does some sort of alerting
     already, maybe there is an email to some of the people, hopefully. Or a slack
@@ -702,6 +706,7 @@ transcript:
   sec: 2853
   time: '47:33'
   who: Barr
+- header: 'Open Source Landscape: Point tools versus holistic observability'
 - line: We talked earlier about whether you manually define the thresholds or you
     rely on automation. We are not starting from scratch. Solutions that can do the
     instrumentation for you and start the monitoring for you, using machine learning
@@ -716,7 +721,6 @@ transcript:
     should look for when you are thinking about the data observability solution. That
     is the way to improve health overall and move up in the maturity curve.
   who: Barr
-- header: Open source tools
 - line: Are there some open source tools for that?
   sec: 2992
   time: '49:52'
@@ -738,7 +742,7 @@ transcript:
   sec: 3024
   time: '50:24'
   who: Barr
-- header: Test-driven development for data
+- header: 'Test-Driven Data Development: Tests, DBT checks, and limitations'
 - line: We have a couple of questions from the audience. Maybe we can go through for
     them. RK is asking if any good approaches on test driven development in the data
     space. And does it [TDD] have anything to do with data observability?
@@ -793,7 +797,7 @@ transcript:
   sec: 3206
   time: '53:26'
   who: Barr
-- header: Is data observability cloud agnostic?
+- header: 'Cloud Agnosticism: Integrations across AWS, GCP, Snowflake'
 - line: Thank you. Do you know if the big vendor’s, big clouds, already move into
     this space of data observability? Or they are still not really focused on that?
   sec: 3263
@@ -835,7 +839,7 @@ transcript:
   sec: 3415
   time: '56:55'
   who: Barr
-- header: Centralizing data observability
+- header: 'Centralized Governance: Observability across distributed environments'
 - line: Another question from RK. What are your thoughts on centralizing the observability
     in a distributed environment where we have multiple different data warehouses
     and data pipelines?
@@ -853,6 +857,7 @@ transcript:
   sec: 3433
   time: '57:13'
   who: Barr
+- header: 'Auto Lineage: Detecting upstream and downstream data impact'
 - line: So observability matters regardless of whether you are undistributed or centralized.
     Providing trust and data is important for everyone, regardless of what your structure
     is and what kind of data you are dealing with. If you do not have trust in your
@@ -862,7 +867,6 @@ transcript:
     and to implement it. Regardless of that, data observability should be core to
     your strategy.
   who: Barr
-- header: Detecting downstream and upstream data usage
 - line: How Monte Carlo detects upstream and downstream usage of data?
   sec: 3531
   time: '58:51'
@@ -891,7 +895,7 @@ transcript:
   sec: 3615
   time: '1:00:15'
   who: Barr
-- header: Bad data vs unusual data
+- header: 'Anomalies vs Bad Data: Contextual alerts and reducing false positives'
 - line: Maybe the last one for today. How do you differentiate between getting bad
     data and getting uncommon data, which might be interesting but not wrong?
   sec: 3627
@@ -933,6 +937,7 @@ transcript:
   sec: 3726
   time: '1:02:06'
   who: Barr
+- header: Closing Remarks & Contact Resources (Monte Carlo, links, Slack)
 - line: I think we should be wrapping up. Do you have any last words before we do
     that?
   sec: 3770

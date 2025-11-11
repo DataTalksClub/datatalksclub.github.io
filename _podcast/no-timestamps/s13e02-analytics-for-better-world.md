@@ -16,6 +16,8 @@ short: Analytics for a Better World
 title: 'Analytics for Nonprofits: Build Data Maturity, Teams, Tools & Optimization
   Strategies'
 transcript:
+- header: Podcast Introduction
+- header: 'Overview: Analytics for a Better World mission and guest intro'
 - line: This week, we'll talk about improving our world with analytics. We have a
     special guest today, Parvathy. Parvathy is a CTO at Analytics for a Better World,
     a nonprofit organization aiming to use analytic techniques to contribute to sustainable
@@ -34,7 +36,7 @@ transcript:
   sec: 97
   time: '1:37'
   who: Alexey
-- header: Parvathy’s background
+- header: 'Career Path: From renewable energy to data science and CTO role'
 - line: Before we go into our main topic of improving our world with analytics, let's
     start with your background. Can you tell us about your career journey so far?
   sec: 114
@@ -83,6 +85,7 @@ transcript:
   sec: 122
   time: '2:02'
   who: Parvathy
+- header: 'CTO Responsibilities: Connecting nonprofits with research and tech capacity'
 - line: Hmm, interesting. What do you do there as a CTO?
   sec: 278
   time: '4:38'
@@ -116,7 +119,7 @@ transcript:
   sec: 282
   time: '4:42'
   who: Parvathy
-- header: Brainstorming sessions with nonprofits to establish data maturity
+- header: 'Discovery Workshops: Assessing nonprofit needs and data maturity'
 - line: That's a lot of information – I'm trying to process it. [chuckles] So what
     you do is connect nonprofit organizations – you help nonprofit organizations with
     analytics. That means you set up all this technical infrastructure, and even before
@@ -164,7 +167,6 @@ transcript:
   sec: 425
   time: '7:05'
   who: Parvathy
-- header: Example of an Analytics for a Better World project
 - line: Just curious – I don't know if you can tell us or not – but maybe you can
     just pick an example without naming the organizations, or if you can name them
     that would also be interesting and then a project that you did for them recently.
@@ -173,6 +175,7 @@ transcript:
   sec: 540
   time: '9:00'
   who: Alexey
+- header: 'Fellowship Case Study: Waste-collection optimization pilot in Nairobi'
 - line: Yes, definitely. I can give you one example. This is not a direct example
     of a project because we cannot divulge all the information due to privacy and
     other reasons. Last year, in October, we started an academy where we trained nonprofits.
@@ -221,7 +224,7 @@ transcript:
   sec: 569
   time: '9:29'
   who: Parvathy
-- header: The overall data maturity situation of nonprofits vs private sector
+- header: 'Data Maturity Comparison: Nonprofit vs. private-sector analytics'
 - line: Yeah. I don't know if I'm right, maybe I'm wrong, but I expect that the level
     of maturity when it comes to data in these organizations (in the public sector)
     is probably lower compared to a typical internet startup – a typical internet
@@ -268,7 +271,7 @@ transcript:
   sec: 783
   time: '13:03'
   who: Parvathy
-- header: Solving for the skill gap
+- header: 'Talent & Purpose: Motivating data professionals to join the public sector'
 - line: How do you solve this skill gap? I imagined that, if you compare the public
     sector with the private sector, I suspect that the typical internet companies
     that are in the private sector can probably pay more. Right? This makes it kind
@@ -310,6 +313,7 @@ transcript:
   sec: 1061
   time: '17:41'
   who: Alexey
+- header: 'Academy Structure: Programs for practitioners, analytics translators, executives'
 - line: It is. It's very exciting to solve it. Not just from a social perspective,
     but as a technical person, I get challenging problems and I get really excited.
     We, as an organization, want to inspire young people to realize that this is definitely
@@ -350,7 +354,7 @@ transcript:
   sec: 1073
   time: '17:53'
   who: Parvathy
-- header: Publicly available content
+- header: 'Open Resources: YouTube lectures, GitHub, and open-source deliverables'
 - line: As I understood, in summary, you solve the skill gap by education. You educate
     people at different levels. You start with the students from universities, like
     MIT and University of Amsterdam, but then you also work with the companies and
@@ -380,7 +384,6 @@ transcript:
   sec: 1249
   time: '20:49'
   who: Parvathy
-- header: The Analytics for a Better World Academy
 - line: That's really cool. Please send us the links to these resources, so we will
     include them in the show notes. But I'm wondering, maybe you can tell us more
     about these courses that you have with the universities. What kind of modules
@@ -388,6 +391,7 @@ transcript:
   sec: 1327
   time: '22:07'
   who: Alexey
+- header: 'Curriculum Focus: Descriptive → diagnostic → predictive → optimization'
 - line: I do not teach myself. We have a Science to Impact co-directors – two professors.
     One is Professor Dimitris Bertsimas, he is from MIT Sloan School of Management.
     And then of course, in Amsterdam, we have Professor Dick den Hertog. They are
@@ -437,7 +441,7 @@ transcript:
   sec: 1346
   time: '22:26'
   who: Parvathy
-- header: The Academy’s target audience
+- header: 'Audience Profile: MBA, business analytics, and technical students'
 - line: From what I understood, of course, you have training product programs and
     each of them has a different target audience. But the ones in these universities
     – MIT and University of Amsterdam – what is the main target audience? Is it people
@@ -489,7 +493,7 @@ transcript:
   sec: 1653
   time: '27:33'
   who: Parvathy
-- header: How researchers can work with Analytics for a Better World
+- header: 'Student Engagement: Thesis collaborations and researcher pathways'
 - line: I see this question coming up in the community in Slack quite often. People
     come and ask, “Hey, I need to write a thesis, but I have no idea what to write
     about. Can you suggest good topics?” So maybe for these people, for these students,
@@ -535,7 +539,7 @@ transcript:
   sec: 1846
   time: '30:46'
   who: Parvathy
-- header: Improving data maturity in nonprofit organizations
+- header: 'Maturity Roadmaps: Scans, short/long-term goals, and cost optimization'
 - line: Okay. I want to go back a bit, to when we discussed your different educational
     initiatives. One of the things you mentioned was that you want to improve data
     maturity of existing organizations, and you do this by upskilling people, and
@@ -592,7 +596,7 @@ transcript:
   sec: 1880
   time: '31:20'
   who: Parvathy
-- header: People, processes, and technology
+- header: 'People Dimension: Roles for data collection, analysis, and app development'
 - line: 'You mentioned three aspects, or three dimensions, that you measure during
     the interview: people, processes, and technology. Can you maybe give us a little
     bit more insight into what exactly you measure there in terms of people, processes
@@ -647,6 +651,7 @@ transcript:
   sec: 2171
   time: '36:11'
   who: Parvathy
+- header: 'Process Dimension: Data governance, privacy, SOPs, and workflows'
 - line: I understand. Okay. And then the process part – what is there?
   sec: 2194
   time: '36:34'
@@ -679,6 +684,7 @@ transcript:
   sec: 2285
   time: '38:05'
   who: Parvathy
+- header: 'Technology Dimension: Centralized data, version control, and tech selection'
 - line: And then the tech part, I guess, is also quite interesting. You mentioned
     the cloud at some point, right? So what are the stages there, in the tech dimension?
   sec: 2302
@@ -705,7 +711,7 @@ transcript:
   sec: 2323
   time: '38:43'
   who: Parvathy
-- header: Typical tools that Analytics for a Better World recommends to nonprofits
+- header: 'Tool Recommendations: Dashboards, Python/R, and cloud deployment options'
 - line: Yeah, I kind of wanted to use this as a segue to talk about different technologies
     and analytical tools. What are the tools that you typically see or typically recommend
     that your clients use? How do you go about suggesting these tools to the customers?
@@ -784,6 +790,7 @@ transcript:
   sec: 2641
   time: '44:01'
   who: Alexey
+- header: 'Data Platforms: KoboToolbox, PostgreSQL, and Digital Public Goods guidance'
 - line: For data warehousing and storing data, a lot of nonprofits prefer open platforms.
     There are solutions specifically made for nonprofits, so they tend to use that.
     We see a lot of PostgreSQL databases because it's open. We also see KoboToolbox
@@ -804,7 +811,7 @@ transcript:
   sec: 2658
   time: '44:18'
   who: Parvathy
-- header: Profiles in nonprofits
+- header: 'Team Profiles: Analysts, data scientists, engineers, and blended roles'
 - line: I’m wondering what kind of profiles there are for these tools. I imagine that
     you need different profiles – data analysts would be usually more involved in
     data visualization and using these data storage databases like Postgres to analyze
@@ -856,7 +863,7 @@ transcript:
   sec: 2796
   time: '46:36'
   who: Parvathy
-- header: Does Analytics for a Better World have a need for data engineers?
+- header: 'Data Engineering Needs: Moving from research to deployed applications'
 - line: I understand. Well, the reason I'm asking about this is that right now, we
     have a course. It's happening right now – we're on week four. The course is about
     data engineering. In this course, we show how to use different tools for collecting,
@@ -868,6 +875,7 @@ transcript:
   sec: 2955
   time: '49:15'
   who: Alexey
+- header: 'Optimization Use Cases: Healthcare access and COVID testing lab placement'
 - line: We do need them, definitely. But it is not like nonprofits are going to directly
     hire them. Not all nonprofits – there are some who need this, but because there
     is no constant source of these kinds of projects. But we do see some of these
@@ -912,6 +920,8 @@ transcript:
   sec: 3151
   time: '52:31'
   who: Alexey
+- header: 'Partnerships & Staffing: Ortec, academic partners, and on-demand talent
+    network'
 - line: Right now, no. Not as far as this morning, let’s say. [chuckles] Things change
     very fast. But what we also try to do is – we have a list of people and resources
     that we can tap into, so when a project comes, we can reach out to them. Also,
@@ -932,12 +942,12 @@ transcript:
   sec: 3170
   time: '52:50'
   who: Parvathy
-- header: The Analytics for a Better World team
 - line: And the first part of the same question is, “How many data analysts currently
     work at Analytics for a Better World?”
   sec: 3238
   time: '53:58'
   who: Alexey
+- header: 'Organizational Model: Small core team and large extended research network'
 - line: Like I said, we are very new. Last year, we set up and we currently have a
     core team of, let's say, four people. That’s the core team. We have our managing
     director, Robert. I am the CTO. We have Prof. Dick den Hertog and Prof. Dimitris
@@ -961,7 +971,7 @@ transcript:
   sec: 3247
   time: '54:07'
   who: Parvathy
-- header: Factors that help organizations become more data-driven
+- header: 'Becoming Data-Driven: Strategy plus investments in people, processes, technology'
 - line: Thanks. We have a question from Antonis, but I should have asked this question
     earlier. I don't know if you'll be able to answer it in two minutes, but we can
     try. The question is, “What are the most important factors that help organizations
@@ -1005,7 +1015,8 @@ transcript:
   sec: 3370
   time: '56:10'
   who: Parvathy
-- header: Parvathy’s resource recommendations
+- header: 'Recommended Reading & Daily Resources: Culture Map, 7 Habits, Towards Data
+    Science'
 - line: Yeah, I should have asked that a bit earlier. Maybe one last question. This
     is usually the question I ask everyone – do you have any good book or resource
     that you can recommend to the listeners? I think one thing you mentioned is all
@@ -1032,7 +1043,7 @@ transcript:
   sec: 3530
   time: '58:50'
   who: Parvathy
-- header: Conclusion
+- header: Closing Remarks and links to Academy resources and contact info
 - line: We will definitely include all the links for all the resources that we talked
     about in this interview (and I think there are quite a few of them) in the show
     notes, in the description. With that, I guess, we are a bit over time. Thanks

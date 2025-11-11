@@ -16,6 +16,7 @@ short: Building Scalable and Reliable Machine Learning Systems
 title: 'Build Scalable, Reliable ML Systems (MLOps): Design Docs, Data Strategy &
   Edge Constraints'
 transcript:
+- header: 'Episode Overview: Building Scalable & Reliable Machine Learning Systems'
 - line: This week, we'll talk about building scalable and reliable machine learning
     systems, or we can call it machine learning system design. We have a special guest
     today, Arseny. Arseny is a machine learning engineer who has worked on machine
@@ -46,7 +47,7 @@ transcript:
   sec: 148
   time: '2:28'
   who: Alexey
-- header: Arseny's background
+- header: Guest Bio & Startup Experience (deep learning, MLOps, Ntropy, AR, Lyft)
 - line: Before we go into our main topic of machine learning system design, Arseny,
     let's start with your background. Can you tell us about your career journey so
     far?
@@ -105,7 +106,7 @@ transcript:
   sec: 343
   time: '5:43'
   who: Arseny
-- header: Working on machine learning in startups
+- header: 'Startups: ML Productionization Trade-offs and Decision Ownership'
 - line: As a machine learning engineer who has worked in many different startups,
     I guess for you it was pretty typical that in all these companies, you don't really
     have anything for machine learning models, right? You have a data scientist who
@@ -128,7 +129,7 @@ transcript:
   sec: 403
   time: '6:43'
   who: Arseny
-- header: What is Machine Learning System Design?
+- header: 'Defining Machine Learning System Design: Goals and Constraints'
 - line: Is this what you would call machine learning system design? You have a machine
     learning problem or system and then you need to design it in such a way that it's
     both reliable, but also ready as soon as possible. So you satisfy what you just
@@ -170,7 +171,7 @@ transcript:
   sec: 501
   time: '8:21'
   who: Arseny
-- header: Constraints and requirements
+- header: 'Edge & Mobile ML Constraints: Latency, FPS, Energy, Core ML'
 - line: I'm just wondering, what are these constraints and requirements? Do you have
     an example? You mentioned that you don't necessarily know them in advance. I imagine
     that if you work in a startup, then maybe there are some requirements coming from
@@ -227,7 +228,7 @@ transcript:
   sec: 664
   time: '11:04'
   who: Arseny
-- header: Known unknowns vs unknown unknowns (Design stage)
+- header: 'Managing Unknowns: Known Unknowns, Unknown Unknowns, Early Tests'
 - line: I wonder, for all these things such as not being able to afford to send data
     over the network because you need have this in real-time, you need to know about
     these things in advance before you even start training your model – before you
@@ -289,6 +290,7 @@ transcript:
   sec: 1109
   time: '18:29'
   who: Alexey
+- header: 'Planning Value: Why a Lightweight Design Phase Matters'
 - line: Yes. Actually, writing a design document or something is a way to transform
     some unknown unknowns to known unknowns. Well, you cannot predict everything,
     especially when you are doing something pretty new, which is a common thing for
@@ -310,7 +312,7 @@ transcript:
   sec: 1129
   time: '18:49'
   who: Arseny
-- header: Writing a design document
+- header: 'Design Document Approach: Problem-First, 50/50 Problem vs Solution'
 - line: I guess it's because it kind of forces you to learn more about the problem.
     It forces you to think about different situations. Otherwise, you wouldn't just
     think about them and just blindly think, “Let's just do it and see what happens.”
@@ -346,7 +348,7 @@ transcript:
   sec: 1267
   time: '21:07'
   who: Arseny
-- header: Technical problems vs product-oriented problems
+- header: 'Problem Framing: Product Scenarios, Realism vs Appeal Trade-offs'
 - line: Is there any framework that can help me approach... Let's take the first part.
     You said to spend 50% of the time (two hours) on defining the problem and the
     rest of the time (the other two hours) on describing the solution. So what can
@@ -419,6 +421,7 @@ transcript:
   sec: 1414
   time: '23:34'
   who: Arseny
+- header: 'Goals, Non-Goals & Assumptions: Turning Requirements into Metrics'
 - line: So, in summary, in this design document for the non-technical part (for the
     problem description part) we should include goals and non-goals and we should
     include all the assumptions we have. I guess assumptions could be how exactly
@@ -462,7 +465,7 @@ transcript:
   sec: 1851
   time: '30:51'
   who: Arseny
-- header: The solution part of the Design Document
+- header: 'Solution Blueprint: Baseline, Metrics, Pipeline Components'
 - line: Okay. So for the design document that we talked about, there are two parts
     – the problem description part and the solution description part. For the problem
     description part, we more or less already talked about this. Here, I guess, we
@@ -476,6 +479,7 @@ transcript:
   sec: 1902
   time: '31:42'
   who: Alexey
+- header: 'Data Strategy: Availability, Processing, Feature Needs, Data Lakes'
 - line: Okay. One thing you start with are very typical primitives that are related
     to machine learning. For example, “What is your baseline? What are your metrics?”
     Those are two things that we already covered. You cannot really build something
@@ -532,6 +536,7 @@ transcript:
   sec: 1957
   time: '32:37'
   who: Arseny
+- header: 'System Diagramming: Data Flow, Dependencies, Real-time vs Batch'
 - line: So from what I understood, as a short summary, It should be as follows. First,
     we start with describing the baseline – what is already there or what we can build
     super quickly to have a number to relate to. We want to build something and we
@@ -577,7 +582,7 @@ transcript:
   sec: 2361
   time: '39:21'
   who: Arseny
-- header: What motivated Arseny to write a book on ML System Design
+- header: 'Motivation for the Book: Generalizing Experience into Patterns'
 - line: Yeah, so about this book – what actually motivated you to write it? What kind
     of problems did you see in the industry that you thought of and understood, “Okay.
     There is no good description of this. I need to write a book about that.” How
@@ -613,6 +618,7 @@ transcript:
   sec: 2463
   time: '41:03'
   who: Alexey
+- header: 'Heuristics for Datasets: Intuition, Limits, and Practical Guidance'
 - line: It happens, it happened to me as well in the past. Again, we describe it in
     the book. It's very often that experienced people are available for organizations
     exactly because of their bad experience. They did some bad work a while ago and
@@ -654,13 +660,13 @@ transcript:
   sec: 2505
   time: '41:45'
   who: Arseny
-- header: Examples of a Design Document in the book
 - line: I was going to ask you if you know any good examples of a design document,
     but then I opened the table of contents of your book and I saw that chapter four
     is called Design Document. Can I assume that there is an example in this chapter?
   sec: 2694
   time: '44:54'
   who: Alexey
+- header: 'Design Doc Examples: Photostock Search & Super Mega Retail Pricing'
 - line: 'At some point, we decided to do two examples of two systems – both imaginary
     systems, non-existing ones – and we split them chapter-by-chapter. Our book is
     structured in the following way: we have 16 chapters, and the first 4 chapters
@@ -684,7 +690,7 @@ transcript:
   sec: 2710
   time: '45:10'
   who: Arseny
-- header: The types of readers for ML System Design
+- header: 'Reader Types: Theory-Focused vs Template-Focused Audiences'
 - line: In the end, I guess the main outcome for me, as a reader, will be that I will
     learn how to build and how to write these design docs. Right?
   sec: 2829
@@ -714,7 +720,7 @@ transcript:
   sec: 2905
   time: '48:25'
   who: Arseny
-- header: Working with the co-author
+- header: 'Co-author Dynamics: Balancing Corporate & Hands-on Perspectives'
 - line: Maybe this is another challenge for you because you're writing with a co-author
     since you might not necessarily agree on everything, right? Maybe you also have
     a similar situation where you need to decide what to include and what not to include.
@@ -768,7 +774,7 @@ transcript:
   sec: 3063
   time: '51:03'
   who: Arseny
-- header: Reacting to constraints and feedback when writing a book
+- header: 'Book Development: Scope Decisions, Publisher Constraints, Reviewer Feedback'
 - line: I am a book author myself, and for me, the most difficult part was to decide
     what I should include in the book and what I should exclude from the book – what
     I should definitely not include. Also, the challenge was that this thing was changing
@@ -839,7 +845,7 @@ transcript:
   sec: 3298
   time: '54:58'
   who: Arseny
-- header: Arseny's favorite chapter of the book
+- header: 'Favorite Chapter: Preliminary Research, Reuse, and External Sources'
 - line: Nice. [chuckles] That's a good way of approaching any criticism, I guess.
     Just think about other things. We still have time – about four minutes. In these
     four minutes, I wanted to ask you to pick any chapter that you liked working on
@@ -880,7 +886,7 @@ transcript:
   sec: 3391
   time: '56:31'
   who: Arseny
-- header: Other resources where you can learn about ML System Design
+- header: 'Further Learning: System Design Fundamentals & Software Engineering Skills'
 - line: Yeah. And the other thing – can you give us any recommendations or any resource
     that could also be useful if you want to learn more about machine learning system
     design? Do you know of anything?
@@ -911,7 +917,7 @@ transcript:
   sec: 3553
   time: '59:13'
   who: Arseny
-- header: Twitter Giveaway
+- header: 'Book Offer & Giveaway: Discount Code, Twitter Giveaway Winners'
 - line: Thank you. Before we wrap up, I want to mention a few things. We did run a
     giveaway on Twitter. For those who took part, I will announce the winners right
     now, after we finish this conversation – I will click the Tweet button. There
@@ -922,6 +928,7 @@ transcript:
   sec: 3600
   time: '1:00:00'
   who: Alexey
+- header: Closing Remarks and Episode Wrap-up
 - line: With that, I think that's all we have time for today. Arseny, thanks a lot
     for joining us today, for sharing your knowledge, for talking about the book.
     Thanks, everyone, for joining us today, for listening in. I guess that's all for

@@ -15,6 +15,7 @@ season: 12
 short: Data-Centric AI
 title: 'Data-Centric AI: Improve Label Quality & Edit Datasets to Boost Model Performance'
 transcript:
+- header: Podcast Introduction
 - line: This week, we'll talk about data-centric AI. We have a special guest today,
     Marysia. Marysia works as a lead data scientist at GoDataDriven. She has a strong
     interest in education and teaching, both as a part of your current role at GoDataDriven
@@ -26,13 +27,13 @@ transcript:
   sec: 106
   time: '1:46'
   who: Marysia
-- header: Marysia’s background
 - line: The questions for today's interview were prepared by Johanna Bayer. Thanks,
     Johanna, for your help. Before we go into our main topic of data-centric AI, let's
     start with your background. Can you tell us about your career journey so far?
   sec: 109
   time: '1:49'
   who: Alexey
+- header: AI education & geometric deep learning in medical imaging
 - line: Yeah, sure. I started by studying artificial intelligence at the University
     of Amsterdam, I did both a Bachelor’s and a Master’s in artificial intelligence.
     My early career was focused on specifically applying deep learning on medical
@@ -62,6 +63,7 @@ transcript:
   sec: 183
   time: '3:03'
   who: Alexey
+- header: Data science education and course development
 - line: Yeah. At the GoDataDriven Academy, we teach a lot of courses on everything
     data science. Some are very generic, like an introduction to Python for data analysts,
     or an introduction to data science, for instance. But we also create a lot of
@@ -106,6 +108,7 @@ transcript:
   sec: 288
   time: '4:48'
   who: Alexey
+- header: Building a community of practice and improving product maturity
 - line: I'm with a company where I'm mostly focused on building a community of practice
     there. They just went through a transition in the way that they organize their
     teams. And I want to make sure that all the data scientists still communicate
@@ -117,7 +120,7 @@ transcript:
   sec: 291
   time: '4:51'
   who: Marysia
-- header: What data-centric AI is
+- header: 'Data-Centric AI: shifting focus from Big Data to Good Data'
 - line: Now, this is such an interesting topic. [chuckles] I want to ask more about
     that – maybe at the end, if we run out of questions, because the main topic for
     today is actually data-centric AI. Maybe it's related to what you do right now
@@ -126,6 +129,7 @@ transcript:
   sec: 324
   time: '5:24'
   who: Alexey
+- header: Model-centric vs data-centric approaches; challenges with unstructured data
 - line: Yeah, that's a good question. I did a whole talk at PyData London about this
     whole thing – answering this question. But basically, in short, the central idea
     behind data-centric AI is that the focus has to shift from Big Data to Good Data.
@@ -197,6 +201,7 @@ transcript:
   sec: 596
   time: '9:56'
   who: Alexey
+- header: 'Transfer learning & fine-tuning: why label quality matters more now'
 - line: No, unfortunately, not. There's this persistent idea that the quantity of
     the data will compensate for the quality. So if your data quality is not good,
     just gather 1000 more examples, and that's fine. But I think something really
@@ -222,7 +227,6 @@ transcript:
   sec: 628
   time: '10:28'
   who: Marysia
-- header: Data-centric Kaggle competitions
 - line: 'I''ll try to recap everything you said – maybe not everything, but the main
     idea. So we have two approaches: the data-centric approach and the model-centric
     approach. In the model-centric approach, the dataset is static and you iterate
@@ -253,6 +257,7 @@ transcript:
   sec: 718
   time: '11:58'
   who: Alexey
+- header: 'Data-centric competition case: fixed ResNet model with editable dataset'
 - line: Yeah, sure. Of course, I took part in multiple Kaggle competitions, as many
     data scientists have. I really recognize what you're saying – that usually, you
     have your data and you don't go about gathering more data. It's more about the
@@ -278,6 +283,7 @@ transcript:
   sec: 897
   time: '14:57'
   who: Alexey
+- header: 'Competition lessons: accessibility, strategy, and innovation award'
 - line: Exactly. There was a cap on that. One of the things that I really liked about
     that, besides introducing me to this idea of data-centric AI, was that it made
     participating very accessible. It was a deep learning challenge, because it was
@@ -336,6 +342,7 @@ transcript:
   sec: 1044
   time: '17:24'
   who: Alexey
+- header: Strategic data augmentation vs brute-force data collection
 - line: Yeah, I agree with that. But I also think that there's a difference between
     simply gathering more data, and for instance, what some of the winning approaches
     were based on – focusing on finding out what the most useful data to add was.
@@ -355,7 +362,7 @@ transcript:
   sec: 1097
   time: '18:17'
   who: Alexey
-- header: The mindset shift to data-centric AI
+- header: 'Mindset shift: treating datasets as editable artifacts'
 - line: Yes. I think data-centric AI for me is – when we talk about something like
     this, it's very often focused on the tools and the methods like, “How do we do
     something like this? What kind of packages do you use? What kind of tools?” But
@@ -367,6 +374,7 @@ transcript:
   sec: 1126
   time: '18:46'
   who: Marysia
+- header: Validation split adjustments and maintaining fair model comparisons
 - line: Yeah, that's interesting. The point about changing – earlier today, you mentioned
     that your train/validation split also doesn't have to be static. Right? [Marysia
     agrees] Immediately I thought, “But wait, if our validation set is not static,
@@ -421,7 +429,7 @@ transcript:
   sec: 1333
   time: '22:13'
   who: Alexey
-- header: Data-centric does not mean you should not iterate on models
+- header: Iterating on both data and model; prioritizing impactful data fixes
 - line: Yeah, exactly. Yeah. I also want to emphasize, of course, that data-centric
     AI doesn't mean that we shouldn't change the model. [chuckles] I think it's often
     named in contrast to model-centric AI. But for me, data-centric AI means that
@@ -433,7 +441,7 @@ transcript:
   sec: 1345
   time: '22:25'
   who: Marysia
-- header: How to implement the data-centric approach
+- header: 'Tooling spectrum: labeling, synthetic data, and data versioning'
 - line: Right. You said that for you, the most important realization was the mindset
     shift from not just how we do this, but also that the dataset is not a static
     thing and you can change it. But I'm still wondering, how do we actually do this?
@@ -441,6 +449,7 @@ transcript:
   sec: 1382
   time: '23:02'
   who: Alexey
+- header: 'Practical workflows: lightweight versioning and easy data edits'
 - line: Yeah, that's a very good question. So there's not one toolbox that I can recommend
     that has everything. I think it's a very broad subject. It's also what you focus
     on. There are a lot of tools out there that can help you with labeling, or finding
@@ -502,6 +511,7 @@ transcript:
   sec: 1569
   time: '26:09'
   who: Alexey
+- header: 'Low-tech iteration: Google Sheets labeling plus automation scripts'
 - line: Yeah. It's the same thing – when I started out as a data scientist, when I
     was trying out different hyperparameters, we'd be writing things on a post-it
     note next to my laptop. [chuckles] There's a better way to track your experiments
@@ -531,6 +541,7 @@ transcript:
   sec: 1648
   time: '27:28'
   who: Alexey
+- header: Targeted relabeling using model confidence and image embeddings
 - line: Yeah, exactly. We also had some little tricks to make it easier for us to
     work with the spreadsheet, because again, there were 3000 images. So that means
     that you have 3000 rows. We did things like, which was relatively easy to do,
@@ -554,7 +565,6 @@ transcript:
   sec: 1731
   time: '28:51'
   who: Marysia
-- header: Focusing on the data vs focusing on the model
 - line: You said the most important thing is focusing on the approach, how you iterate
     over this, and how you make it easier for you to iterate, instead of focusing
     on high tech and low tech tools. I guess the low tech tool that you used in your
@@ -602,7 +612,6 @@ transcript:
   sec: 1795
   time: '29:55'
   who: Marysia
-- header: Resources to help implement the data-centric approach
 - line: I guess what I wanted to hear from you was more tactical. For me, what you’re
     saying sounds like a strategy, “You need to be close with subject matter experts,”
     which is super valid, but I'm still wondering, how do I actually make it happen?
@@ -614,6 +623,7 @@ transcript:
   sec: 1894
   time: '31:34'
   who: Alexey
+- header: 'Curated resources: Haiti Research and WhyData tool directories'
 - line: Yeah. The reason why I find it very difficult to give an answer to this is
     because I think there's a lot of great tools out there. But there's two resources
     that I find very useful. One is by Haiti Research, and one is by WhyData. They
@@ -633,6 +643,7 @@ transcript:
   sec: 1942
   time: '32:22'
   who: Marysia
+- header: 'Iterative loop: baseline model, error analysis, and SME validation'
 - line: It's basically doing error analysis and understanding where the model was
     wrong. [Marysia confirms] And then trying to understand why the model was wrong
     and talk to people who know data well to figure this out. Because maybe for you
@@ -666,7 +677,6 @@ transcript:
   sec: 2056
   time: '34:16'
   who: Marysia
-- header: Data-centric AI vs standard data cleaning
 - line: I must admit it sounds terribly similar to “standard” data cleaning. You have
     errors, then you go to the dataset and you see, “Okay, this row doesn't make sense.
     This is an outlier, so I’ll just throw it away.” And then maybe you even have
@@ -677,6 +687,7 @@ transcript:
   sec: 2082
   time: '34:42'
   who: Alexey
+- header: 'Beyond cleaning: representativeness, bias, and dataset completeness'
 - line: I think data cleaning is a part of data-centric AI. But then data-centric
     AI itself is more broad. It's easiest, I guess, to talk about data-centric AI
     in terms of “What is a good label and what is a bad label?” Or “How do you choose
@@ -689,12 +700,12 @@ transcript:
   sec: 2124
   time: '35:24'
   who: Marysia
-- header: Making sure your data is representative
 - line: How do we actually check that? I'm really curious. I have a dataset now with
     spoons, forks, cups, glasses, etc. How do I know if it's complete?
   sec: 2164
   time: '36:04'
   who: Alexey
+- header: Detecting dataset gaps with embeddings and UMAP (penguin example)
 - line: Yes, that's a good question. [chuckles] I think it's very hard to know without
     any domain knowledge. For example, a toy project that I did once was classifying
     penguins – classifying penguin species based on images – and I sourced the dataset,
@@ -754,6 +765,7 @@ transcript:
   sec: 2376
   time: '39:36'
   who: Marysia
+- header: 'Defining real-world contexts: lighting, angles, and edge cases'
 - line: For anyone who is watching this right now or listening to this, there is a
     video from Vincent on our channel. It was published this week, I think. It's called
     “Open Source Spotlight” and “Better in Bulk”. So Vincent built two tools. I'm
@@ -786,7 +798,7 @@ transcript:
   sec: 2470
   time: '41:10'
   who: Marysia
-- header: Knowing when your data is good enough
+- header: 'Acceptance criteria: deciding when dataset quality is sufficient'
 - line: And when do we stop? How do we know if it's good enough?
   sec: 2507
   time: '41:47'
@@ -852,7 +864,7 @@ transcript:
   sec: 2637
   time: '43:57'
   who: Marysia
-- header: The importance of user feedback
+- header: 'Production feedback loops: collecting user feedback post-deployment'
 - line: Another thing that occurred to me while we were talking is that we can take
     this a simple model, and if our conditions allow – maybe for the medical field,
     it's not good enough, but if it's a simple thing classification – we can just
@@ -901,7 +913,7 @@ transcript:
   sec: 2775
   time: '46:15'
   who: Alexey
-- header: “Shadow Mode” deployment
+- header: 'Shadow mode rollout: passive deployment for safe feedback collection'
 - line: Yeah. That's actually interesting, because we did do this with the medical
     imaging software. We actually did deploy it in hospitals but, of course, not very
     broadly. It was first with a few people who were interested, and they volunteered
@@ -954,7 +966,7 @@ transcript:
   sec: 2946
   time: '49:06'
   who: Marysia
-- header: What to do if you have a lot of bad data or incomplete data
+- header: 'Scarce or low-quality data: feasibility, manual fixes, and limits'
 - line: What if we have a lot of bad data? What do we do? Maybe it’s not so easy to
     collect new data.
   sec: 2949
@@ -994,6 +1006,7 @@ transcript:
   sec: 3041
   time: '50:41'
   who: Alexey
+- header: Automating dataset repairs vs manual editing trade-offs
 - line: That would be really nice, yes. Or tools that can help you out to automate
     a lot of this stuff away.
   sec: 3045
@@ -1007,7 +1020,7 @@ transcript:
   sec: 3054
   time: '50:54'
   who: Marysia
-- header: Marysia’s role at PyData
+- header: 'PyData involvement: organizing meetups, tutorials, and global events'
 - line: Another topic that I wanted to talk to you about was your role with PyData.
     I know that outside of your work, you're quite involved in the PyData community.
     You are the co-chair of PyData Amsterdam, and in general, you're quite active
@@ -1075,7 +1088,6 @@ transcript:
   sec: 3186
   time: '53:06'
   who: Marysia
-- header: How Marysia joined PyData
 - line: You said that in 2019, you joined the committee. But I don't think it happened
     that one day you woke up and walked in the committee and said, “Okay, do you mind
     if I join you?” It was something else, right? How did it happen that you joined
@@ -1149,7 +1161,7 @@ transcript:
   sec: 3360
   time: '56:00'
   who: Marysia
-- header: The difference between PyData and PyCon
+- header: 'PyData vs PyCon: data focus, language inclusivity, and NumFOCUS support'
 - line: Cool. And what's the difference between PyData and PyCon?
   sec: 3361
   time: '56:01'
@@ -1211,7 +1223,7 @@ transcript:
   sec: 3501
   time: '58:21'
   who: Marysia
-- header: Finding Marysia online
+- header: 'Contact & resources: marysia.nl, LinkedIn, and PyData engagement'
 - line: One last thing I wanted to ask you is –– how can people find you if they have
     any questions?
   sec: 3504

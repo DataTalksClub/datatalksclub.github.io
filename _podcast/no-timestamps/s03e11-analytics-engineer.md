@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/4rLQ5ulsYR9LqXxbFe2MlN
   apple: https://podcasts.apple.com/us/podcast/analytics-engineer-new-role-in-data-team-victoria-perez/id1541710331?i=1000526036141
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Introduction: Victoria Perez Mola overview'
 - line: This week, we'll talk about a new role in the data team. This role is the
     analytics engineer. We have a special guest today, Victoria. Victoria works as
     an analytics engineer. She has a background in system engineering and she works
@@ -32,7 +34,7 @@ transcript:
   sec: 162
   time: '2:42'
   who: Victoria
-- header: Victoria’s background
+- header: 'Career Journey: Systems engineering, ERP & finance reporting'
 - line: Before we go into our main topic of what analytics engineering is, let’s start
     with your background. Can you tell us about your career journey so far?
   sec: 165
@@ -52,7 +54,7 @@ transcript:
   sec: 175
   time: '2:55'
   who: Victoria
-- header: A typical day as an Analytics Engineer
+- header: 'Daily Responsibilities: Data modeling, pipelines, data quality, Looker'
 - line: What do you do as an analytics engineer? What kind of responsibilities do
     you have? What does your typical day look like?
   sec: 245
@@ -104,7 +106,7 @@ transcript:
   sec: 347
   time: '5:47'
   who: Victoria
-- header: What is DBT?
+- header: 'DBT Overview: SQL transformations, version control, tests, DAG'
 - line: This “DBT” is a transformation tool you said. What does it do exactly? You
     just write a bunch of SQL queries and put them somewhere?
   sec: 409
@@ -148,7 +150,7 @@ transcript:
   sec: 539
   time: '8:59'
   who: Victoria
-- header: Tools for Analytics Engineers
+- header: 'Analytics Toolstack: DBT, Snowflake, Adlib ETL, Looker'
 - line: You mentioned Looker, which is a tool for end users. You mentioned DBT. Are
     there other tools that you also typically use in your work?
   sec: 604
@@ -183,7 +185,7 @@ transcript:
   sec: 697
   time: '11:37'
   who: Victoria
-- header: How Victoria became an Analytics Engineer
+- header: 'Transition Story: From BI/ERP work to analytics engineering'
 - line: How did you become an analytics engineer? I think you mentioned that you were
     interested in accounting and you were doing all this ERP analysis and working
     with financial data. But then at some point, you decided to become an analytics
@@ -230,7 +232,7 @@ transcript:
   sec: 841
   time: '14:01'
   who: Victoria
-- header: Difference between an analytics engineer, a data analyst, and data engineer
+- header: 'Role Comparison: Analytics Engineer vs Data Analyst vs Data Engineer'
 - line: When I read the job descriptions, the position really looks like a data engineer.
     But on the other hand, there’s this analytics component. So what is the main difference
     between an analytics engineer, a data analyst, and data engineer?
@@ -268,7 +270,7 @@ transcript:
   sec: 998
   time: '16:38'
   who: Victoria
-- header: What gap does the Analytics Engineer role fill?
+- header: 'Role Origins & Purpose: Spotify, reducing analysts'' cleaning workload'
 - line: Six months ago, we had a chat and you told me that you found this new job
     called analytics engineer. I asked you “What is that?” Before that, I had no idea
     that this role existed. But after talking to you, all of a sudden, I started noticing
@@ -329,7 +331,7 @@ transcript:
   sec: 1219
   time: '20:19'
   who: Victoria
-- header: Analytics Engineer job requirements
+- header: 'Job Expectations: Example posting traits (pipelines, auditing, dashboards)'
 - line: Yeah, I actually thought that data engineers should take care of data quality.
     But I never thought that they wouldn’t need to have this domain knowledge that
     maybe is difficult to acquire, while analysts have it. Yeah. Before this interview,
@@ -360,7 +362,6 @@ transcript:
   sec: 1345
   time: '22:25'
   who: Victoria
-- header: In between Data Analysts and Data Engineer
 - line: So there is a wide spectrum. On one side you have the data analysts, on the
     other side you have the data engineer, and there is a whole spectrum of how you
     can mix the two to arrive at the analytics engineer. You can take 50/50 – I think
@@ -416,7 +417,7 @@ transcript:
   sec: 1564
   time: '26:04'
   who: Victoria
-- header: Analytics Engineer Skills
+- header: 'Core Skills: SQL, dimensional modeling, Snowflake and tooling variance'
 - line: Yeah, I do agree with him. I'm continuing with the same position. We talked
     about requirements. After requirements, we usually have the skill section.
   sec: 1570
@@ -466,7 +467,7 @@ transcript:
   sec: 1755
   time: '29:15'
   who: Victoria
-- header: Is DBT typical for Analytics Engineers?
+- header: 'DBT Ecosystem: DBT''s role in the analytics engineer movement'
 - line: When I see DBT mentioned, I often see the analytics engineer role mentioned
     as well. I think this is a pretty typical tool that analytics engineers use, right?
   sec: 1806
@@ -491,7 +492,7 @@ transcript:
   sec: 1830
   time: '30:30'
   who: Victoria
-- header: Varying descriptions of the Analytics Engineer role
+- header: 'Organizational Variability: Team setups and role definitions across companies'
 - line: I work as a data scientist. When it comes to data science, the description
     of roles is a little bit different for every company. We have some data scientists
     at our company, OLX, who are more actually data analysts – they do the kind of
@@ -530,7 +531,8 @@ transcript:
   sec: 1981
   time: '33:01'
   who: Victoria
-- header: How do Analytics Engineers work with other team members?
+- header: 'Cross-functional Collaboration: Working with analysts, data scientists,
+    backend'
 - line: You mentioned that analytics engineers help analysts and data scientists with
     cleaning data. They help data engineers to maybe understand the business domain
     better. In general, how do they work with others in the team? With product managers,
@@ -581,7 +583,7 @@ transcript:
   sec: 2181
   time: '36:21'
   who: Victoria
-- header: Dealing with bad data coming from different sources
+- header: 'Managing Bad Data & Schema Changes: DBT cleaning, macros, limitations'
 - line: Actually, speaking of sources – we have a question about that. “In your role,
     how do you deal with bad data coming from different sources, or from changing
     schemas?”
@@ -600,6 +602,7 @@ transcript:
   sec: 2217
   time: '36:57'
   who: Victoria
+- header: 'Data Testing Strategy: DBT tests, upstream checks, warnings vs errors'
 - line: What we are doing right now is cleaning a lot of that in DBT and that gives
     us a lot of control. We can see that code, what it’s doing, what the records are.
     Are they duplicated, or excluding, or transforming? We do a lot of things like
@@ -610,7 +613,6 @@ transcript:
     there are also tests. We check that the cities are defined. That if a number has
     to be between one to five – it doesn't go beyond that.
   who: Victoria
-- header: Tests
 - line: These tests apply to each incoming row? So for each row that DBT sees, there
     is a test. And if some record doesn't pass this test, you get an alert.
   sec: 2333
@@ -642,7 +644,7 @@ transcript:
   sec: 2419
   time: '40:19'
   who: Victoria
-- header: How is Analytics Engineer related to BI Analyst or BI Developer
+- header: 'BI Roles vs Analytics Engineering: Overlaps with BI developer and analyst'
 - line: Thanks. We have another question. “How is this position related to BI analyst
     and BI developer? And how is it different from these two?”
   sec: 2442
@@ -671,7 +673,7 @@ transcript:
   sec: 2503
   time: '41:43'
   who: Victoria
-- header: Transition to Analytics Engineer
+- header: 'Pathway to Analytics Engineering: Software practices, Kimball, DBT learning'
 - line: Let's say I am an analyst and I want to become an analytics engineer. How
     can I do this? How can I make this transition? What kind of things do I need to
     do to become an analytics engineer?
@@ -694,6 +696,7 @@ transcript:
   sec: 2610
   time: '43:30'
   who: Alexey
+- header: 'Learning Resources: DBT tutorials and ''Analytics readings'' Notion list'
 - line: Yeah. It's in the learning resources. This one is very good. It’s called Analytics
     readings.
   sec: 2619
@@ -718,7 +721,7 @@ transcript:
   sec: 2683
   time: '44:43'
   who: Victoria
-- header: How to know if Analytics Engineer is the role for you
+- header: 'Role Fit Signals: Enjoy modeling, quality, and best practices'
 - line: Let’s say I really like what I hear. Suppose I'm an analyst or data engineer,
     or somebody who works with ERP systems, and I think “This is really cool. I want
     to try it.” How do I make sure that this is something for me? How do I make sure
@@ -742,7 +745,8 @@ transcript:
   sec: 2716
   time: '45:16'
   who: Victoria
-- header: The annoying parts of working as an Analytics Engineer
+- header: 'Job Frustrations: Enforcing guidelines, ad-hoc firefights, limited raw
+    control'
 - line: I'm also wondering if there are some annoying parts in your work. For me,
     as a data scientist, I have to clean a lot of data. For many people, this is “Sigh.
     Again, I have to clean the data.” Now I know the solution – we just need to hire
@@ -772,6 +776,7 @@ transcript:
   sec: 2909
   time: '48:29'
   who: Alexey
+- header: 'Team Scale & Placement: Platform teams vs embedded analytics engineers'
 - line: Nine.
   sec: 2916
   time: '48:36'
@@ -821,7 +826,8 @@ transcript:
   sec: 3043
   time: '50:43'
   who: Victoria
-- header: Data profiles and Data documentation
+- header: 'Data Documentation & Profiling: DBT docs strengths and profiling tools
+    (Datafold, Monte Carlo)'
 - line: This person is curious about data documentation. “I've been planning to use
     DBT, but I noticed that it doesn't have a great data profile. How do you show
     the data profile?”
@@ -846,6 +852,7 @@ transcript:
   sec: 3057
   time: '50:57'
   who: Victoria
+- header: Episode Wrap-Up & Links
 - line: Let's say I want to have a metadata field for the area that the model is allowed
     to be in or something like that. Then all of this goes to these DBT docs, that
     you can host yourself, or it's part of the DBT cloud. There you can see everything

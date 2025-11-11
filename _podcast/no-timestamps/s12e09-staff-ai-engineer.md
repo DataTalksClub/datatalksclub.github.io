@@ -15,6 +15,8 @@ season: 12
 short: Staff AI Engineer
 title: 'Staff AI Engineer: From Academia to Industry — Interview Prep, MLOps & Onboarding'
 transcript:
+- header: Podcast Introduction
+- header: Episode kickoff and guest reintroduction
 - line: This week, we'll talk about the role of a staff AI engineer. We have a special
     guest today, Tatiana. Tatiana works as a staff AI engineer at LinkedIn. Before
     that, she worked in physics and in health care. It's actually not the first time
@@ -29,7 +31,7 @@ transcript:
   sec: 110
   time: '1:50'
   who: Tatiana
-- header: Tatiana’s background
+- header: 'Guest background: physics → healthcare → machine learning'
 - line: Before we go into our main topic of being a staff engineer, let's start with
     your background. We already spoke about your background years ago, but maybe you
     can run us through it again, and also tell us what happened in the last few years.
@@ -63,7 +65,7 @@ transcript:
   sec: 199
   time: '3:19'
   who: Tatiana
-- header: Going from academia to healthcare to the tech industry
+- header: Onboarding shock at LinkedIn and industry mindset shift
 - line: I'm just curious – it’s probably two different worlds, or even three different
     worlds – academia, then working at a hospital, and now working at a big tech company.
     All three are very different. [Tatiana agrees] How was it for you going from working
@@ -110,6 +112,7 @@ transcript:
   sec: 339
   time: '5:39'
   who: Alexey
+- header: Ramping up technical stack as a tech lead (Scala, Spark, Kubernetes)
 - line: At the beginning, I came and I realized, “Oh! Okay. Scala, Spark. I never
     thought about that. Kubernetes?” A lot of internal tools that I never used, and
     you’re also a tech lead, so you actually don't have that much of an onboarding
@@ -132,7 +135,6 @@ transcript:
   sec: 343
   time: '5:43'
   who: Tatiana
-- header: What staff engineers do
 - line: Yeah, that's pretty interesting. I want to ask you more about the tools and
     how you approached this learning. But before that, I think it would be interesting
     to know what tech leads do – what staff engineers do. You mentioned that you need
@@ -141,6 +143,7 @@ transcript:
   sec: 424
   time: '7:04'
   who: Alexey
+- header: 'Staff AI Engineer role: opinion, strategy, and cross-functional influence'
 - line: In short, I'll say it like this – I'm paid for my opinion. That's in short.
     In detail, as a staff engineer – there are different kinds of staff engineers.
     Specifically, our team is a horizontal team. This means that we have a lot of
@@ -193,6 +196,8 @@ transcript:
   sec: 660
   time: '11:00'
   who: Alexey
+- header: 'Staff engineer archetypes: deep specialist, cross-team advisor, hands-on
+    mentor'
 - line: Well, you’re more leading that. So you don't do all that yourself. People
     who implement things work with you and you collaborate with products as well,
     who define what business impact to expect and things like that. And you collaborate
@@ -260,7 +265,7 @@ transcript:
   sec: 863
   time: '14:23'
   who: Tatiana
-- header: Transferring skills from academia to industry and learning new ones
+- header: Transferring academic skills to industry leadership and roadmapping
 - line: Okay. So you're paid for your opinion. You spent 50% of your time in meetings.
     You work on strategy, defined roadmaps, and you also mentor people, and take part
     in design decisions. You mentioned that at the beginning, you needed to work something
@@ -297,6 +302,7 @@ transcript:
   sec: 997
   time: '16:37'
   who: Alexey
+- header: 'Onboarding priorities: common mistakes and faster learning'
 - line: My onboarding was rather hectic. I was just learning whatever I could without
     properly understanding what to prioritize. In the beginning, you're overwhelmed
     simply because you don't know what you need to prioritize and how. If I had to
@@ -307,7 +313,6 @@ transcript:
   sec: 1007
   time: '16:47'
   who: Tatiana
-- header: The importance of having mentors
 - line: That does sound very overwhelming – trying to learn everything at the same
     time, or at least one after another. If you could give a piece of advice to yourself
     in the past, what would it be? How would you suggest approaching this to yourself
@@ -315,6 +320,7 @@ transcript:
   sec: 1043
   time: '17:23'
   who: Alexey
+- header: Mentorship importance for onboarding and career growth
 - line: Yes, that's a good question. Onboarding is always a challenge. And onboarding
     in big companies is definitely a challenge. So I would find more mentors from
     the start and just ask them to help with this technical plan. In fact, I had a
@@ -339,7 +345,7 @@ transcript:
   sec: 1143
   time: '19:03'
   who: Tatiana
-- header: Skipping junior and mid-level straight into the staff role
+- header: 'Skipping mid-level roles: landing a staff position from academia'
 - line: Maybe startups don't really need these kinds of profiles? They don't need
     somebody who coordinates because if it's just one or two teams, then people can
     just talk to each other without this special role, probably. I know that you joined
@@ -377,6 +383,7 @@ transcript:
   sec: 1216
   time: '20:16'
   who: Tatiana
+- header: Translating research leadership and grants experience to industry impact
 - line: Cruel.
   sec: 1464
   time: '24:24'
@@ -436,7 +443,7 @@ transcript:
   sec: 1286
   time: '21:26'
   who: Tatiana
-- header: Convincing employers that you can take on a lead role
+- header: 'Convincing employers: framing applied projects and industry collaborations'
 - line: Yeah, that's interesting. The main takeaway for me is that it's a myth that
     you have to start from a junior. You need to sell yourself in the right way. I
     have two follow-up questions here. Maybe first, okay, yes – you need to sell yourself.
@@ -485,6 +492,7 @@ transcript:
   sec: 1670
   time: '27:50'
   who: Alexey
+- header: 'Interview journey: early failures, coding gaps, and commitment to prep'
 - line: No, it wasn't like that. I was just applying for any positions. I did not
     contact them, they contacted me first. So the same was Meta? I did not contact
     them. They wrote to me first. In fact, when I was working in the hospital, I did
@@ -506,11 +514,11 @@ transcript:
   sec: 1705
   time: '28:25'
   who: Tatiana
-- header: Seeing failure as a learning opportunity
 - line: You say it as if it’s so easy. [chuckles]
   sec: 1778
   time: '29:38'
   who: Alexey
+- header: Referrals and networking influence on hiring outcomes
 - line: Back then I was also interviewing with startups, and they were considering
     me for a lead role. In fact, I had an offer for a lead role at one of the startups
     – leading the direction. They kind of justified it this way after we discussed
@@ -546,6 +554,7 @@ transcript:
   sec: 1881
   time: '31:21'
   who: Alexey
+- header: Reframing rejections as learning opportunities
 - line: If they deny you, you're exactly at the stage where you are now. You cannot
     lose. I don't know. Some people are afraid of failures, but in fact, those are
     not failures. Failure is when you lose a lot. You cannot fail in ML engineering.
@@ -596,7 +605,7 @@ transcript:
   sec: 2040
   time: '34:00'
   who: Tatiana
-- header: Preparing for coding interviews
+- header: 'Coding interview strategy: LeetCode plan, timeline, and persistence'
 - line: I think it's also one of the things we talked about last time, that failure
     is not necessarily bad. It's an opportunity to learn. [Tatiana agrees] You said
     that during the interview with Meta, you did quite well at system design, ML design
@@ -686,7 +695,7 @@ transcript:
   sec: 2371
   time: '39:31'
   who: Tatiana
-- header: Preparing for behavioral and system design interviews
+- header: 'ML design interviews: physics-style decomposition, blogs, and mock practice'
 - line: LeetCode is just grinding, right? You have to do this a lot and you have to
     solve a lot of problems, especially if you don't have a computer science background,
     such as in your case. How about other parts? System design, ML designed, behavioral…
@@ -742,6 +751,7 @@ transcript:
   sec: 2426
   time: '40:26'
   who: Tatiana
+- header: 'System design prep: Grokking, mock interviews, and quick study tactics'
 - line: How did you approach systematizing all this information? To me it sounds like
     a lot – a huge load of different sources and how do you even manage to process
     and learn from this in a way that you could talk about it at an interview? Did
@@ -826,7 +836,7 @@ transcript:
   sec: 2832
   time: '47:12'
   who: Tatiana
-- header: The importance of having a network and doing mock interviews
+- header: Mock interviews and building a mentor network
 - line: From what I heard from you, having a network is really helpful. If you know
     somebody or can get to know somebody from Meta, or from the company where you
     have an interview, and just ask them “Hey, can you have a mock interview with
@@ -868,8 +878,6 @@ transcript:
   sec: 3027
   time: '50:27'
   who: Tatiana
-- header: How much do staff engineers work with building pipelines, data science,
-    ETC, MPOps, etc.?
 - line: It does, yeah. I see that there are some questions. A question from Harry,
     “As a staff AI engineer, how much of your time do you deal with data engineers,
     data scientists, with building ETLs, building pipelines, and doing all this MLOps
@@ -877,6 +885,7 @@ transcript:
   sec: 3052
   time: '50:52'
   who: Alexey
+- header: Staff involvement in MLOps, ETL, pipelines, and data team collaboration
 - line: Yes. Again, it depends on the project. There are some projects where you have
     a lot of collaboration with data scientists, because you require some initial
     analysis and things. And there are some projects, where you collaborate more with
@@ -902,7 +911,7 @@ transcript:
   sec: 3135
   time: '52:15'
   who: Tatiana
-- header: Context switching
+- header: Managing heavy code review load and context switching across projects
 - line: For me, doing code review is difficult because if I'm working with multiple
     projects at the same time, every time I review a piece of code, I need to get
     back into the context of that specific project and understand why this code is
@@ -946,7 +955,7 @@ transcript:
   sec: 3237
   time: '53:57'
   who: Alexey
-- header: Advice for those going from academia to industry
+- header: Advice for academics aiming for staff roles in industry
 - line: Another question that we have in the list that I didn't ask you is “Let's
     say somebody wants to follow your path and go from academia to industry, and also
     get on a staff level. What advice would you give to them?”
@@ -1009,7 +1018,7 @@ transcript:
   sec: 3449
   time: '57:29'
   who: Tatiana
-- header: The most exciting thing about working as an AI staff engineer
+- header: 'Excitement of AI work: generative models, R&D freedom, and measurable impact'
 - line: A question from Chali is, “What is the most exciting thing about working as
     an AI staff engineer?”
   sec: 3460
@@ -1038,7 +1047,6 @@ transcript:
   sec: 3469
   time: '57:49'
   who: Tatiana
-- header: Tatiana’s book recommendations
 - line: Yeah, thanks. I know we're running out of time, but this one will be the last
     one and really quick. Are there any books or other learning resources that you
     can recommend to the listeners?
@@ -1054,6 +1062,7 @@ transcript:
   sec: 3581
   time: '59:41'
   who: Alexey
+- header: 'Recommended books: communication, staff engineering, and leadership'
 - line: 'I like communication. For communication, I think it''s important to learn
     how to communicate. There’s “Crucial Conversations: Tools for Talking When Stakes
     Are High” and “Never Split the Difference: Negotiating As If Your Life Depended
@@ -1065,6 +1074,7 @@ transcript:
   sec: 3585
   time: '59:45'
   who: Tatiana
+- header: Episode closing and final thanks
 - line: Thank you. It’s always a pleasure having you here. Maybe in two years we should
     have a chat again and see what changed. Thanks for joining us today. Thanks for
     sharing your knowledge, your experience of getting this staff AI engineering role,

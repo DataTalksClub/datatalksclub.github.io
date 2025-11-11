@@ -16,6 +16,8 @@ short: Biohacking for Data Scientists and ML Engineers
 title: 'Actionable Biohacks to Boost Productivity: Sleep, Circadian Light, Dopamine
   & Habits'
 transcript:
+- header: Podcast Introduction
+- header: Episode Overview & Guest Introduction
 - line: This week we'll talk about biohacking and improving productivity. We have
     a special guest today, Ruslan. Ruslan is a data scientist who lives in Berlin.
     He has tried a lot of healthy and not-so-healthy things to stay focused and productive.
@@ -37,7 +39,7 @@ transcript:
   sec: 131
   time: '2:11'
   who: Alexey
-- header: Ruslan’s background
+- header: 'Career Journey: From Business/Marketing to Data Science'
 - line: Before we go into our main topic of biohacking, let's start with your background.
     Can you tell us about your career journey so far?
   sec: 138
@@ -95,7 +97,7 @@ transcript:
   sec: 258
   time: '4:18'
   who: Ruslan
-- header: Fighting procrastination and perfectionism
+- header: 'Procrastination & Perfectionism: Acceptance and Deadline Effects'
 - line: So what are these habits that helped you during your studying and then later
     on? Not postponing everything until the last minute? [chuckles]
   sec: 291
@@ -137,7 +139,7 @@ transcript:
   sec: 372
   time: '6:12'
   who: Ruslan
-- header: What is biohacking?
+- header: 'Biohacking Defined: Behavioral Approaches vs. Chemical Interventions'
 - line: How is biohacking different from typical productivity methods like having
     deadlines, or having a plan, or having things like that?
   sec: 416
@@ -193,7 +195,7 @@ transcript:
   sec: 530
   time: '8:50'
   who: Ruslan
-- header: The role of dopamine and other hormones in daily life
+- header: 'Dopamine & Motivation: Problem-Solving Rewards and Habit Drivers'
 - line: What is this dopamine? A few interviews ago, I spoke with my colleague Sadat
     who was describing his experience of going from an individual contributor software
     engineer to a manager. One of the things he mentioned there was that when he was
@@ -244,7 +246,7 @@ transcript:
   sec: 698
   time: '11:38'
   who: Ruslan
-- header: How meditation can help
+- header: 'Meditation Benefits: Focus, Prefrontal Cortex, and Non-Sleep Deep Rest'
 - line: Interesting. Can you tell us about your journey into biohacking? During your
     university times, you were procrastinating and putting off things till the last
     moment, but then you realized that maybe it's not the best way of doing this.
@@ -398,7 +400,7 @@ transcript:
   sec: 1108
   time: '18:28'
   who: Ruslan
-- header: The influence light has on our bodies
+- header: 'Light Exposure & Circadian Health: Morning Sun, Cortisol, Melatonin'
 - line: So you tried meditation. What did you try after that?
   sec: 1121
   time: '18:41'
@@ -470,7 +472,7 @@ transcript:
   sec: 1289
   time: '21:29'
   who: Ruslan
-- header: Behavioral biohacking
+- header: 'Evolutionary Perspective: Simple Behavioral Biohacks for Productivity'
 - line: So that's why it's called behavioral biohacking, right? Because you don't
     really take any mushrooms – you just know that your body needs light. You go outside
     in the morning, even though in Berlin, sometimes the mornings are really depressing
@@ -573,7 +575,7 @@ transcript:
   sec: 1559
   time: '25:59'
   who: Ruslan
-- header: Daylight lamps and using light to wake up
+- header: 'Daylight Lamps & Wake Lighting: Alternatives for Low-Daylight Homes'
 - line: There is a question from Lisa, “Have you tried out daylight lamps? Can you
     recommend any? My apartment is quite dark naturally and I was wondering about
     those daylight lamps?”
@@ -622,7 +624,7 @@ transcript:
   sec: 1645
   time: '27:25'
   who: Ruslan
-- header: Sleep cycles
+- header: 'Sleep Planning: 90-Minute Cycles and Alarm Timing Strategies'
 - line: So we talked about meditation, we talked about light, and you said that sleep
     is the foundation of everything. We also probably need to talk a bit about that.
     It looks like you put quite a bit of effort (or at least it looks like that to
@@ -746,7 +748,7 @@ transcript:
   sec: 1937
   time: '32:17'
   who: Ruslan
-- header: How nutrition affects productivity
+- header: 'Nutrition for Focus: Protein Breakfasts, Lunch Effects, and Energy'
 - line: Speaking about diet – the typical one – another question we have is, “What
     about changes in your food intake. For example, do you have any special food that
     supports your concentration and energy levels?
@@ -909,7 +911,7 @@ transcript:
   sec: 2196
   time: '36:36'
   who: Ruslan
-- header: Measuring productivity
+- header: 'Productivity Tracking: Logs, Notion Dashboards, and Self-Reflection'
 - line: I don't think I've ever measured that. I just eat rice and then… I don't really
     know if it's the rice that contributed to my low energy level or a lack of sleep
     or a lack of sun or whatever. Maybe we can talk about these attribution models.
@@ -973,7 +975,7 @@ transcript:
   sec: 2444
   time: '40:44'
   who: Ruslan
-- header: Examples of unsuccessful biohacking attempts
+- header: 'Failed Experiments: Intermittent Fasting, Cold Showers, and Limits'
 - line: I'm curious, were there any things that you tried, but you think they didn't
     help?
   sec: 2476
@@ -1031,7 +1033,7 @@ transcript:
   sec: 2550
   time: '42:30'
   who: Alexey
-- header: Stoicism, voluntary discomfort, and self-challenges
+- header: 'Voluntary Discomfort & Dopamine Resets: Stoic Challenges'
 - line: Yeah, the thing about cold showers and some other stuff that clearly gives
     you discomfort. I think I am actually a bit biased towards trying such things
     and limiting myself. Maybe it's also related to stoicism, and this idea of voluntary
@@ -1107,7 +1109,7 @@ transcript:
   sec: 2729
   time: '45:29'
   who: Ruslan
-- header: Biohacking risks and ways to prevent them
+- header: 'Safety Considerations: Evidence-Based Biohacking and Medical Advice'
 - line: Are there any risks of biohacking?
   sec: 2747
   time: '45:47'
@@ -1137,7 +1139,7 @@ transcript:
   sec: 2802
   time: '46:42'
   who: Ruslan
-- header: Coffee and tea biohacking
+- header: 'Caffeine Strategy: Coffee, Timing, and Sleep Trade-Offs'
 - line: What do you think about coffee and tea? Are they helpful for productivity?
   sec: 2832
   time: '47:12'
@@ -1163,7 +1165,7 @@ transcript:
   sec: 2842
   time: '47:22'
   who: Ruslan
-- header: Using self-reflection and tracking to measure results
+- header: 'Habit Tracking in Practice: Steps, Exercise, Hydration Metrics'
 - line: We have quite a few questions, so maybe we should go through them. One interesting
     one is, “How do you measure productivity?”
   sec: 2901
@@ -1218,7 +1220,7 @@ transcript:
   sec: 3007
   time: '50:07'
   who: Ruslan
-- header: Mindset shifting
+- header: 'Mindset Shifts: Gratitude, Prioritization, and Sustainable Goals'
 - line: Actually, you mentioned this “voluntary discomfort.” So if you're okay with
     creating artificial challenges for yourself and having fun while doing this, I
     guess it's also a mind shift, right? [Ruslan agrees] [cross-talk] “Now I’m taking
@@ -1270,7 +1272,7 @@ transcript:
   sec: 3176
   time: '52:56'
   who: Ruslan
-- header: Stoicism book recommendation
+- header: 'Stoicism Reading Recommendation: Meditations and Mental Models'
 - line: Can you recommend any books on stoicism – on how to do this mindset shift?
   sec: 3178
   time: '52:58'
@@ -1298,7 +1300,7 @@ transcript:
   sec: 3210
   time: '53:30'
   who: Ruslan
-- header: Work/life balance
+- header: 'Prioritization Framework: Focusing on Five Impactful Goals'
 - line: Another question, “How do you manage your time between professional and personal
     daily life as an engineer?” I don't know if there “as an engineer part” is important
     here. But, how do you do this?
@@ -1327,6 +1329,7 @@ transcript:
   sec: 3241
   time: '54:01'
   who: Ruslan
+- header: 'Overcoming Perfectionism: Self-Compassion and Temporal Perspective'
 - line: At the beginning of this interview, we talked about perfectionism. You said,
     at the beginning, that you managed to overcome it – to accept that it's okay to
     not be perfect. The question we have is, “How did you change your mindset to overcome
@@ -1360,7 +1363,7 @@ transcript:
   sec: 3383
   time: '56:23'
   who: Ruslan
-- header: Ruslan’s biohacking resource recommendation
+- header: 'Resources for Learning Biohacking: Huberman Lab Podcast & Top Episodes'
 - line: Another question is – I was going to ask this question anyways, but since
     it's coming from the audience, “Which book would you recommend to learn more about
     biohacking? Anything special for data scientists or ML engineers by any chance?”
@@ -1397,7 +1400,7 @@ transcript:
   sec: 3528
   time: '58:48'
   who: Ruslan
-- header: Conclusion
+- header: Key Takeaways, Next Steps, and Episode Close
 - line: Good. So we will include that in the show notes. I think that's all we have
     time for today. We actually wanted to cover a lot more. That was quite ambitious.
     But that was fun. Thanks a lot for joining us today. Thanks for sharing all these

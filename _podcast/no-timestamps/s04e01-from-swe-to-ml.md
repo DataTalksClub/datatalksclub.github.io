@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/0PHDZPGyXgyDM9HH7QzVdZ
   apple: https://podcasts.apple.com/us/podcast/from-software-engineering-to-machine-learning-santiago/id1541710331?i=1000526870384
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Overview: Santiago — Director of Computer Vision'
 - line: Today we'll talk about career transitioning from software engineering to machine
     learning. We have a special guest today, Santiago. Santiago is a director of computer
     vision solutions at Levitas. There, he leads a small team of software engineers
@@ -30,13 +32,13 @@ transcript:
   sec: 196
   time: '3:16'
   who: Santiago
-- header: Santiago’s background
 - line: Before we go into our main topic of moving from software engineering to machine
     learning, maybe we can start with your background. Can you tell us about your
     career journey so far?
   sec: 199
   time: '3:19'
   who: Alexey
+- header: Adding Machine Learning to a Software Engineering Skillset
 - line: Absolutely. I started as a software developer. I went to college, got a computer
     science degree, and I started building software. I think it was 2015 when I decided
     to go for a Master's in computer science. Back then, I had no idea about machine
@@ -58,6 +60,7 @@ transcript:
   sec: 276
   time: '4:36'
   who: Alexey
+- header: 'Personal & Academic Background: Cuba, Bachelor’s, Georgia Tech MS'
 - line: I am from Cuba. Yeah. I came here to the United States back in 2009. May 1st
     of 2009. I've been here for 12 years now.
   sec: 291
@@ -99,7 +102,7 @@ transcript:
   sec: 388
   time: '6:28'
   who: Santiago
-- header: “Transitioning to ML” vs “Adding ML as a skill”
+- header: 'Software Engineers’ Advantage: Coding as a Core ML Skill'
 - line: You mentioned that you don't like when I say “transitioning from software
     engineering to machine learning.” You said that you don't like this word “transitioning”
     because you didn't really transition, but you just added machine learning to your
@@ -123,7 +126,6 @@ transcript:
   sec: 418
   time: '6:58'
   who: Santiago
-- header: Getting over the fear of math for software developers
 - line: So, software engineers are basically already qualified for this work?
   sec: 482
   time: '8:02'
@@ -136,6 +138,7 @@ transcript:
   sec: 487
   time: '8:07'
   who: Alexey
+- header: 'Overcoming Math Anxiety: Practical, Problem-First Learning'
 - line: It's not that scary. It's not that scary. Yeah, math – you're going to need
     math. And yeah, the deeper you go, math is gonna become more important. But it's
     not that scary. I promise you, if you have the skills to build software, you can
@@ -214,7 +217,7 @@ transcript:
   sec: 741
   time: '12:21'
   who: Alexey
-- header: Learning by explaining
+- header: 'Communicating ML Simply: Teaching and Writing for Understanding'
 - line: Absolutely. For example, I've been posting a lot of content on Twitter. The
     approach that usually I take is “How much jargon can I remove from this content
     so more people understand what's happening?” So if I'm going to talk about something
@@ -257,7 +260,7 @@ transcript:
   sec: 890
   time: '14:50'
   who: Santiago
-- header: Seven lessons I learned about starting a career in machine learning
+- header: Seven Practical Lessons for Starting a Machine Learning Career
 - line: Speaking of Twitter – just before this conversation, I opened Twitter. I just
     wanted to check what you've been up to. I noticed this nice thread, which is the
     very topic of today's conversation. It’s about “Seven lessons I learned about
@@ -284,7 +287,7 @@ transcript:
   sec: 1015
   time: '16:55'
   who: Santiago
-- header: Lesson 1 – Take the first step
+- header: 'Lesson 1 — Take Action: Start Projects Instead of Overpreparing'
 - line: The first lesson applies to a bunch of different things, not only machine
     learning. Most people really enjoy the idea of starting something. Unfortunately,
     they fail to take the first step. For example, you decide that you want to make
@@ -314,7 +317,7 @@ transcript:
   sec: 1120
   time: '18:40'
   who: Santiago
-- header: Lesson 2 – Learning is a marathon, not a sprint
+- header: 'Lesson 2 — Learning as a Marathon: Long-Term Growth in ML'
 - line: The second lesson is “Learning is a marathon, not a sprint.” I get a lot of
     questions from people asking me, “Hey, can I become an expert in a few weeks”
     or “In a year?” or “In a month? The reality is that machine learning is no different
@@ -339,8 +342,7 @@ transcript:
   sec: 1223
   time: '20:23'
   who: Santiago
-- header: Lesson 3 – If you want to go quickly, go alone. If you want to go far, go
-    together.
+- header: 'Lesson 3 — Community & Teaching: Accelerating Progress Together'
 - line: Lesson number three, is basically a proverb that I used, which is “If you
     want to go quickly, go alone. If you want to go far, go together.” Here, the idea
     is that the people that I've seen make the most progress are always part of a
@@ -355,13 +357,13 @@ transcript:
   sec: 1238
   time: '20:38'
   who: Santiago
+- header: 'Lesson 4 — Apply Knowledge: Build and Share Real Projects'
 - line: So I come here and I'm not only writing about stuff that I know. A bunch of
     stuff that I've talked about on Twitter is stuff where I don't know what I'm talking
     about. I just read about it and the process of writing about it is the way that
     I learned it. That's thanks to the community that gives me feedback and challenges
     my ideas. That's extremely important if you're trying to get into the field.
   who: Santiago
-- header: Lesson 4 – Do something with the knowledge you gain
 - line: Lesson number four. If you finish a course and the only thing you have to
     show for it is inside your head, you probably wasted your time. Here, the idea
     is – you have to do stuff, not just consume information. You have to produce something.
@@ -422,7 +424,7 @@ transcript:
   sec: 1496
   time: '24:56'
   who: Santiago
-- header: Lesson 5 – ML is not just math. Math is not scary.
+- header: 'Lesson 5 — Math vs Coding: Coding Often Determines Success'
 - line: The fifth lesson on that thread is – people think about math every time machine
     learning comes up. To that I say, I think they're missing the point. I do not
     believe machine learning is more math than coding. I look back on my Master’s.
@@ -448,8 +450,7 @@ transcript:
   sec: 1590
   time: '26:30'
   who: Alexey
-- header: Lesson 6 – Your ability to analyze a problem is the most important skill.
-    Coding is secondary.
+- header: 'Lesson 6 — Problem Analysis First: Design Solutions Before Code'
 - line: Yeah, two more lessons to go. I already mentioned this one here – coding is
     secondary, your ability to analyze a problem is the most important skill you can
     build. This seems a little bit counterintuitive. But think about it this way.
@@ -486,12 +487,13 @@ transcript:
   sec: 1688
   time: '28:08'
   who: Santiago
+- header: 'Lesson 7 — Pragmatism Over Purism: Deliver Value Without Knowing Every
+    Detail'
 - line: Just forcing myself to think through, “What are the ideas? Why is this solution
     the one that I should pick?” It's trying to just dig a little bit deeper in the
     books. Dig a little bit deeper in the math at the beginning, just so I can build
     that foundation.
   who: Santiago
-- header: Lesson 7 – You don’t need to know every detail
 - line: Finally, lesson number seven. This is a quote. It says “You have to understand
     every detail of an algorithm if you want to use it.” And then I say, “I think
     this is bullshit advice.” I do not believe that you have to understand the nuts
@@ -572,7 +574,7 @@ transcript:
   sec: 1970
   time: '32:50'
   who: Alexey
-- header: Tools and frameworks needed to transition to machine learning
+- header: 'Core ML Tooling: Python, NumPy, Pandas, Matplotlib, scikit-learn'
 - line: Let's start with core tools and frameworks that you need to learn to actually
     transition. Let's say I am a software engineer. I know how to program. I know
     Java. I know SQL. I know how to use Git. I know Bash. Maybe I know Docker. All
@@ -591,6 +593,7 @@ transcript:
   sec: 2027
   time: '33:47'
   who: Santiago
+- header: 'Learning Approaches: Problem-Based vs Top-Down (Theory First)'
 - line: Then you get certain core tools that are going to be used throughout your
     entire career. Those would be NumPy for scientific computing. That's a library
     on Pandas for data manipulation. And Matplotlib and Seaborn and Plotly. Those
@@ -621,7 +624,6 @@ transcript:
     all the other cool stuff. But at the beginning, just learning how to use it –
     it is extremely powerful. So that's what I would do.
   who: Santiago
-- header: Problem-based learning vs Top-down learning
 - line: This comes back to one of your tweets – or maybe it was from your course –
     when you compare two approaches to learning. One approach is the problem based
     approach, which you just talked about. You find a problem. In this case, it was
@@ -654,7 +656,6 @@ transcript:
     from that point on. That's an approach that worked for me very well and I've seen
     work for many, many people as well. So that's what I usually recommend.
   who: Santiago
-- header: Learning resources
 - line: Maybe we can talk a bit about learning resources. You mentioned in Kaggle
     there is an introduction tutorial, where you can get and learn how to make decision
     trees. At the beginning, before we started this interview, you mentioned a couple
@@ -663,6 +664,7 @@ transcript:
   sec: 2303
   time: '38:23'
   who: Alexey
+- header: 'Recommended Courses & Tutorials: Google ML Crash Course, Kaggle'
 - line: Yeah. If you're a developer and you want to start quick, a course that I usually
     recommend is the Crash Course from Google. Google created this crash course for
     their employees and they published this course online. It's called “Machine Learning
@@ -672,6 +674,7 @@ transcript:
   sec: 2328
   time: '38:48'
   who: Santiago
+- header: 'Essential Books: Deep Learning with Python; Hands-On Machine Learning'
 - line: If you're not a developer, then I do have a pin on my Twitter account. If
     you go to my profile, the tweet that's going to be on the top, the one that says
     “pinned tweet”. It’s going to give you a full roadmap, starting with an introduction
@@ -696,7 +699,6 @@ transcript:
     So if you pair this book with a course, you're going to maximize the reward. That's
     a great way to start.
   who: Santiago
-- header: Santiago’s favorite books
 - line: I'm just looking at the questions and the most voted question is “What are
     your favorite books?” So there's two. I think you have something else on your
     desk, maybe you can also tell us about it.
@@ -713,7 +715,7 @@ transcript:
   sec: 2482
   time: '41:22'
   who: Santiago
-- header: Santiago’s course on transitioning to machine learning
+- header: Course Roadmap for Software Engineers Transitioning to ML
 - line: You have a course about machine learning. I think this course specifically
     focuses on people who are software engineers and who want to transition to machine
     learning, which is exactly the topic today. Maybe you can talk a bit about this
@@ -751,7 +753,7 @@ transcript:
   sec: 2640
   time: '44:00'
   who: Santiago
-- header: Improving coding skills
+- header: 'Improving Coding Skills: Learn Python by Building Solutions'
 - line: We have quite a lot of questions. One thing we promised to get back to is
     for people who are not necessarily great at coding – how can they improve this?
     One of the things you mentioned is that coding is very important and many people
@@ -769,6 +771,7 @@ transcript:
   sec: 2668
   time: '44:28'
   who: Santiago
+- header: 'Build Projects Without ML: Automation Examples (Selenium)'
 - line: First, get there. Don't worry about machine learning. That will come at the
     right time and right place. Focus on building things with your computer. Focus
     on building programs. Learn Python. Learn how to solve different problems. Machine
@@ -778,7 +781,6 @@ transcript:
     a way to make it. But I usually recommend that people start with Python. Focus
     there and then come back into machine learning.
   who: Santiago
-- header: Building solutions without machine learning
 - line: My wife is doing a course now. I don't remember the name. It's about Python.
     What she's doing there is, she uses Selenium to automate the job application process
     on LinkedIn. In LinkedIn, there is a Quick Apply button. You can apply from LinkedIn
@@ -806,7 +808,7 @@ transcript:
   sec: 2782
   time: '46:22'
   who: Santiago
-- header: Becoming a better engineer
+- header: 'ML Engineering Skills: Data Pipeline, Modeling, Deployment, Monitoring'
 - line: Aside from coding, we also need to follow some good practices. Good software
     engineering skills. How can we improve these kinds of skills? For model deployment,
     for production…?
@@ -823,6 +825,7 @@ transcript:
   sec: 2817
   time: '46:57'
   who: Santiago
+- header: 'Deployment & MLOps Fundamentals: APIs, Docker, Cloud Providers'
 - line: That comes down to the second part, which is what you just mentioned. Machine
     learning system, the lifecycle goes from project scoping, where you have to take
     a project and understand it and decide what is the best solution – decide whether
@@ -870,6 +873,7 @@ transcript:
   sec: 3000
   time: '50:00'
   who: Santiago
+- header: 'Learning Cloud Pragmatically: Learn What the Project Demands'
 - line: All of those little things that you're putting together today, in preparation
     to learn machine learning, or to become a better engineer, are definitely going
     to pay out when you get to the market and you start trying to deliver this value.
@@ -902,7 +906,7 @@ transcript:
   sec: 3116
   time: '51:56'
   who: Santiago
-- header: What is the difference between machine learning and data science?
+- header: 'Machine Learning vs Data Science: Roles, Tools, and Focus'
 - line: We have a question. I'm interested in your take. “In your opinion, what is
     the difference between machine learning and data science?”
   sec: 3139
@@ -960,7 +964,7 @@ transcript:
   sec: 3300
   time: '55:00'
   who: Santiago
-- header: Getting into machine learning - Reiteration
+- header: 'Getting Started: Andrew Ng Coursera vs Hands-On Project Work'
 - line: We have a question from Ali. “I am an application developer manager. There
     are a lot of complications I'm trying to read. I'm trying to learn machine learning.
     Should I start with machine learning projects, or attend a course? Or learn math?
@@ -992,7 +996,7 @@ transcript:
   sec: 3396
   time: '56:36'
   who: Santiago
-- header: Getting past the math
+- header: 'Conquering Math: Intuition, Translate Formulas to Code'
 - line: This is how I started my career in machine learning – by watching that course.
     We have a lot of comments. I wasn't able to keep up with them. One of the comments
     I noticed about this “lizard book” is that a few people commented that “math gets
@@ -1050,7 +1054,7 @@ transcript:
   sec: 3565
   time: '59:25'
   who: Santiago
-- header: Conclusion
+- header: 'Episode Resources: Santiago’s Twitter, Course Links'
 - line: Yeah, thanks. There is a question about your course and about the link to
     this course. I will post this link a bit later. When we finish, I will post it
     in the description. I will also post your Twitter, Santiago. Anything else I should
@@ -1069,6 +1073,7 @@ transcript:
   sec: 3638
   time: '1:00:38'
   who: Alexey
+- header: Closing Remarks & Conference Announcements
 - line: Thank you for having me here. I’m really, really excited about the talks for
     the next few days. Especially the one from Elena. I’m looking forward to that
     one.

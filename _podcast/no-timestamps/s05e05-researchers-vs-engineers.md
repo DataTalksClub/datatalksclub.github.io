@@ -16,6 +16,7 @@ links:
   spotify: https://open.spotify.com/episode/0cJJCjK7nX5p1PdeMvGrVL
   apple: https://podcasts.apple.com/us/podcast/what-researchers-and-engineers-can-learn-from-each/id1541710331?i=1000537258362
 transcript:
+- header: Podcast Introduction
 - line: This week, we'll talk about machine learning researchers and machine learning
     engineers. We will also talk about what they can learn from each other. We have
     a special guest today, Mihail. Mihail is a double founder – he's a founder of
@@ -26,12 +27,13 @@ transcript:
   sec: 77
   time: '1:17'
   who: Alexey
+- header: 'Guest Overview: Mihail’s Roles and Work'
 - line: Thank you. It's really great to be here. I'm a huge fan of your work Alexey,
     and also DataTalks.Club. I’m really happy to be here.
   sec: 112
   time: '1:52'
   who: Mihail
-- header: Mihail’s background
+- header: 'Guest Background: Stanford NLP and Early Research'
 - line: Thanks for your kind words. Before we go into our main topic of machine learning
     researchers and machine learning engineers, let's start with your background.
     Can you tell us a few words about your career journey so far?
@@ -47,6 +49,7 @@ transcript:
   sec: 134
   time: '2:14'
   who: Mihail
+- header: 'From NLP to Self-Driving: Shared Long-Tail Challenges'
 - line: One of the first real entry points in the machine learning research that I
     had was actually helping to lead up projects in collaboration with Ford, the big
     car automaker, where we were investigating new methods and primarily neural network-based
@@ -78,7 +81,6 @@ transcript:
     with a lot of companies across different verticals to help them solve their toughest
     business problems using data-driven and machine learning techniques.
   who: Mihail
-- header: NLP and self-driving vehicles
 - line: That's pretty cool. You worked at Stanford in the NLP group, and then you
     went to a self-driving company. I'm wondering, what does NLP have in common with
     self-driving? How did you convince them to actually hire you?
@@ -98,6 +100,7 @@ transcript:
   sec: 319
   time: '5:19'
   who: Mihail
+- header: 'Transition to Industry: Building Engineering Foundations'
 - line: But I think that for me, a lot of what drew me to going into this particular
     company was that the team was just really phenomenal. It was a very high-performance
     engineering team of people that had built a lot of amazing systems at Uber, Tesla,
@@ -107,7 +110,6 @@ transcript:
     hard engineering problems and work with some really good engineers to become a
     better engineer myself. That was a lot of the motivation there.
   who: Mihail
-- header: Transitioning from academia to the industry
 - line: Was that your biggest problem when you were transitioning from academia to
     the industry world? Was it the engineering aspects, or was it something else?
   sec: 406
@@ -126,6 +128,7 @@ transcript:
   sec: 417
   time: '6:57'
   who: Mihail
+- header: 'Research Infrastructure: Data Collection and Prototyping'
 - line: But I think that the bigger problem for me was… I'm a very relentless optimizer
     in terms of time. I like to do things very efficiently and effectively. When I
     see that there are maybe deficiencies in how I’m doing something, I think, “Okay,
@@ -153,6 +156,7 @@ transcript:
   sec: 525
   time: '8:45'
   who: Mihail
+- header: 'Hybrid Role at Amazon: Research Integrated with Production'
 - line: So you first worked as a researcher. Then you worked more as an engineer in
     the self-driving startup. Then you joined Amazon to work in a more hybrid role
     – your official position was ML researcher – is that right?
@@ -187,7 +191,7 @@ transcript:
   sec: 651
   time: '10:51'
   who: Mihail
-- header: Machine learning researchers
+- header: 'Researcher Focus: Hypothesis-Driven Work and Benchmarks'
 - line: Maybe you can tell us what machine learning researchers actually do. What
     kind of problems do they solve? What do they use for solving these problems?
   sec: 652
@@ -232,6 +236,7 @@ transcript:
   sec: 769
   time: '12:49'
   who: Alexey
+- header: 'Experimental Tooling: Notebooks, W&B, Fast Prototyping'
 - line: ImageNet is a good one for computer vision. You can also think of something
     like Squad in the case of question answering for NLP. There are so many. But that's
     really how machine learning research has evolved, by centering around these different
@@ -266,7 +271,7 @@ transcript:
   sec: 834
   time: '13:54'
   who: Mihail
-- header: Finding open-ended problems
+- header: 'Sourcing Research Questions: Surveys, Citations, and "Future Work"'
 - line: Where do these open-ended questions come from? Do you have to come up with
     them yourself? Does your professor tell you about them or you work with companies
     from the industry to find them? How do you come up with these problems?
@@ -324,13 +329,14 @@ transcript:
   sec: 1052
   time: '17:32'
   who: Mihail
-- header: Machine learning engineers
+- header: 'ML Engineer Focus: Full ML Lifecycle and Production Systems'
 - line: You did this for some time, and then you joined this self-driving startup
     and you worked as an engineer. What do machine learning engineers do? What kind
     of problems do they solve and what do they use to do that?
   sec: 1055
   time: '17:35'
   who: Alexey
+- header: 'Engineering Tooling: PyTorch, Docker, Cloud, and Web Frameworks'
 - line: Unlike the sort of open-ended questions that researchers tend to think about,
     machine learning engineers tend to be more focused on the full machine learning
     lifecycle. Whereas a researcher might train a model, and their work is done. They
@@ -377,7 +383,7 @@ transcript:
   sec: 1223
   time: '20:23'
   who: Mihail
-- header: Is data science more engineering or research?
+- header: 'Data Science Evolution: From Data Science 1.0 to Data Science 2.0'
 - line: What about data science? What is it? Is it more engineering or is it more
     research?
   sec: 1225
@@ -434,7 +440,7 @@ transcript:
   sec: 1373
   time: '22:53'
   who: Mihail
-- header: What can engineers and researchers learn from one another?
+- header: 'Skills Swap — Researchers Learn: Engineering Rigor and Reproducibility'
 - line: What do you think machine learning engineers and researchers can learn from
     each other?
   sec: 1412
@@ -454,6 +460,7 @@ transcript:
   sec: 1418
   time: '23:38'
   who: Mihail
+- header: 'Skills Swap — Engineers Learn: Handling Uncertainty and Experimental Rigor'
 - line: Concretely speaking, when I look at a researcher – what does a researcher
     have to learn from an engineer? Engineers tend to think about things in terms
     of very deterministic systems. They build systems that are very robust, and that
@@ -540,7 +547,7 @@ transcript:
   sec: 1815
   time: '30:15'
   who: Mihail
-- header: Bridging the disconnect between researchers and engineers
+- header: 'Bridging the Gap: Cultural and Organizational Challenges'
 - line: You also said that there is a lot of disconnect between researchers and engineers.
     I imagine that, especially if you're at university, you don't always have industry
     partners. You're working independently. You have 100 papers. You're doing this
@@ -571,6 +578,7 @@ transcript:
   sec: 1885
   time: '31:25'
   who: Mihail
+- header: 'Embedded Teams vs. Handoffs: Avoiding the "Throw-It-Over-the-Wall" Trap'
 - line: I've definitely been in teams and worked with teams where there really is
     an almost – I wouldn't say strong resentment – but there is a resentment where
     an engineer is talking about a data scientist or a data scientist is talking about
@@ -621,6 +629,7 @@ transcript:
   sec: 2094
   time: '34:54'
   who: Mihail
+- header: 'Breaking Silos: Leadership, Sprints, and Active Collaboration'
 - line: But yes, I think that this siloed-off approach is really bad. It reinforces
     the exact disconnects that tend to happen. I think that the far better approach
     that I've seen in organizations, especially from a business standpoint, is when
@@ -645,7 +654,6 @@ transcript:
     little extreme, but I've seen it happen. And it's maybe not the craziest thing
     in the world.
   who: Mihail
-- header: Breaking down silos
 - line: I do agree that the approach with different teams works a lot worse than the
     embedded approach, where it’s one team. What I also saw is, if you have an embedded
     team, you still have tasks that are done by researchers and tasks that are done
@@ -679,7 +687,7 @@ transcript:
   sec: 2317
   time: '38:37'
   who: Alexey
-- header: Fluid roles
+- header: 'Role Fluidity: Flexible Responsibilities in High-Performing Teams'
 - line: Yeah. [laughs] We joke about it, but I think that's absolutely right. It's
     funny, because there are organizations that don't even specify the roles. Like
     DoorDash – apparently they don’t specify the exact roles that each of their scientists
@@ -707,7 +715,7 @@ transcript:
   sec: 2392
   time: '39:52'
   who: Mihail
-- header: Full-stack data scientists
+- header: 'Full-Stack Data Scientist: From Model Development to Deployment'
 - line: We already have a question from Roa about full-stack data scientists. I think
     this is something that I actually also wanted to cover. Maybe we can talk a bit
     about that. What are your thoughts about full-stack data scientists? What are
@@ -772,7 +780,7 @@ transcript:
   sec: 2630
   time: '43:50'
   who: Mihail
-- header: Advice to machine learning researchers
+- header: 'Advice for Researchers: Build End-to-End Systems and Deploy'
 - line: Right. So if machine learning researchers are listening to this conversation,
     would you give them any advice to improve their engineering skills?
   sec: 2676
@@ -787,6 +795,7 @@ transcript:
   sec: 2692
   time: '44:52'
   who: Mihail
+- header: 'Code Reviews for Researchers: Rapid Engineering Skill Development'
 - line: So I do think that researchers should be deliberate about learning to engineer
     systems well. I think they should take the time to build out those engineering
     fundamentals. That means doing so from an exercise standpoint, even if you just
@@ -833,7 +842,7 @@ transcript:
   sec: 2870
   time: '47:50'
   who: Mihail
-- header: Advice to machine learning engineers
+- header: 'Advice for Engineers: Read Papers, Reproduce Models, Run Experiments'
 - line: Likewise – if there is an engineer listening to this podcast right now, what
     advice would you give to them to improve themselves and be more research-minded?
   sec: 2871
@@ -902,7 +911,7 @@ transcript:
   sec: 3087
   time: '51:27'
   who: Mihail
-- header: Reading papers
+- header: 'Practical Paper Reading: Tutorials, Code, and Researcher Collaboration'
 - line: Your first point was about reading papers. I remember for me, I was a Java
     developer, and then I got into my Master’s degree – I was doing my Master Thesis
     – and then I needed to read papers. I opened this paper, and there was a lot of
@@ -966,7 +975,7 @@ transcript:
   sec: 3300
   time: '55:00'
   who: Mihail
-- header: Choosing between engineering or research if you’re just starting
+- header: 'Choosing a Path: Internships, Masters, PhD — Try Both Early'
 - line: Right. Let's say somebody is listening to this podcast, and they're maybe
     doing their Bachelor’s, and they are thinking, “Okay, should I go to industry
     and work as an engineer? Or should they go to get a Master’s and then do a PhD
@@ -1026,7 +1035,7 @@ transcript:
   sec: 3511
   time: '58:31'
   who: Mihail
-- header: Confetti.ai
+- header: 'Confetti.ai: Career Preparation and Learning Resources for ML Roles'
 - line: Okay. I know we should be wrapping up, but I have one more question that you
     will probably like. I wanted to ask you a few words about your project – Confetti.
     What is it? What is it for? And what is there?
@@ -1050,6 +1059,7 @@ transcript:
   sec: 3552
   time: '59:12'
   who: Mihail
+- header: 'Contact & Resources: Twitter, LinkedIn, and Confetti.ai'
 - line: Earlier in the conversation, we talked about ‘Data Science 1.0’ and ‘Data
     Science 2.0’. I saw that transition, of course, in my career – how the role evolved.
     So Confetti was really like a tool that we built to really scratch our own itch
@@ -1071,7 +1081,6 @@ transcript:
     – ahead of the point that we were at when we were just bumbling through in the
     early days.
   who: Mihail
-- header: Finding Mihail online
 - line: That's pretty nice of you to put this together and make it available for others.
     Thanks. So, how can people find you?
   sec: 3700
@@ -1099,6 +1108,7 @@ transcript:
   sec: 3714
   time: '1:01:54'
   who: Mihail
+- header: Episode Wrap-Up and Key Takeaways
 - line: Thanks a lot. Thanks for coming today. Thanks for sharing your experience.
     That was really great. And thanks, everyone, for joining us today – for watching,
     for asking questions. I think that's all for today.

@@ -16,7 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/5T1Nm3HvrS9oIMH6C2AWcf
   apple: https://podcasts.apple.com/us/podcast/the-abcs-of-data-science-danny-ma/id1541710331?i=1000510794953
 transcript:
-- header: Becoming a meme-generating machine
+- header: Podcast Introduction
+- header: LinkedIn Memes & Creative Editing for Data Audiences
 - line: Before we start, I would like to ask you about your background. Anyone who
     follows you on LinkedIn knows that you're a meme-generating machine. Every time
     I open my LinkedIn feed, I see a meme from you. And it's awesome. I want to know,
@@ -66,7 +67,7 @@ transcript:
   sec: 201
   time: '3:21'
   who: Alexey
-- header: Danny’s background
+- header: 'Career Journey: Analytics to Data Science'
 - line: On a more serious note, maybe you can tell us about your career, apart from
     the most useful skills you have that we already talked about. It would be quite
     interesting to know, what was your career journey so far?
@@ -86,6 +87,7 @@ transcript:
   sec: 231
   time: '3:51'
   who: Danny
+- header: Transition to Python, Kaggle & Self-Directed Learning
 - line: As part of my studies, I managed to get a few internships working for insurance
     companies. This was in the actuarial department where they would have lots of
     crazy Excel. They used a lot of SAS — statistical and analysis software — to model
@@ -97,6 +99,7 @@ transcript:
   sec: 296
   time: '4:56'
   who: Danny
+- header: 'Early Tools: SQL, SAS and Excel Workflows'
 - line: That drew me towards my first role outside of university, which was with Quantium,
     a data consulting firm within Australia. There I did campaign and retail analytics
     as well. Think of consumer packaged goods and different things that you can buy
@@ -142,6 +145,7 @@ transcript:
   sec: 497
   time: '8:17'
   who: Alexey
+- header: 'Moving into Data Science: Team Integration at a Bank'
 - line: Mostly SQL. But we had an opportunity to apply data science to some of the
     problems within that digital space. I got to work hand-in-hand with the data science
     team. After that project, I got absorbed into the data science team. That was
@@ -169,6 +173,7 @@ transcript:
   sec: 541
   time: '9:01'
   who: Alexey
+- header: 'Machine Learning Projects: Propensity Models & Experimentation'
 - line: After I moved into the data science team, I started working on more traditional
     machine learning projects. Think of all the customer propensity modeling, looking
     at time series, forecasting. We actually did a lot of experimentation as well.
@@ -192,6 +197,7 @@ transcript:
   sec: 585
   time: '9:45'
   who: Danny
+- header: Origins of the ABC Framework for Data Science Roles
 - line: Soon after I built that product, I got an opportunity to do the same thing,
     but at a retailer. This time I was doing it on the cloud with more digital data
     sources — Google ads, Facebook ads, Instagram as well as all their shopping data
@@ -201,7 +207,6 @@ transcript:
     were around that space, where it was all about combining data, automating machine
     learning pipelines and doing everything on the cloud.
   who: Danny
-- header: ABC of data science
 - line: We will talk about these ABCs a bit later, but you captured at least two of
     them — A and B. Let's take a step back and talk about these different types of
     data scientists.
@@ -213,6 +218,7 @@ transcript:
   sec: 720
   time: '12:00'
   who: Alexey
+- header: 'Defining the Three Profiles: Analyst, Builder, Consultant'
 - line: 'There''s an article written from a data science team at Airbnb. They defined
     two types of data scientists: type A — the analyst type, and a Type B — the building
     type. Last year, when I was doing my live streams on YouTube, I added an extra
@@ -223,12 +229,12 @@ transcript:
   sec: 738
   time: '12:18'
   who: Danny
-- header: Type A — the Analyst
 - line: You can say, “I was actually first. Here's my video”. Let's talk about these
     A and B and C. What are those?
   sec: 787
   time: '13:07'
   who: Alexey
+- header: 'Type A (Analyst): Data Exploration, Visualization & Storytelling'
 - line: Type A stands for Analyst, B stands for Builder. When we think of the analyst
     type, it’s something similar to the experience I had. I came in doing a lot of
     data analysis, being able to look at insights, do data visualization, make some
@@ -253,7 +259,6 @@ transcript:
     So when we think of the analyst type, they were that type of people. They come
     from a very heavy research background.
   who: Danny
-- header: Background for the type A
 - line: As I understood, data science type A is not necessarily a data analyst. This
     is a different role. The first data scientists ever who appeared, they were of
     this type. The other types followed after that. What kind of background do they
@@ -262,6 +267,7 @@ transcript:
   sec: 922
   time: '15:22'
   who: Alexey
+- header: 'Type A Backgrounds: Research, Statistics & Analyst Pathways'
 - line: The originals were mostly coming from that strong technical pedigree of having
     all the training, doing a lot of research, and writing quite a lot of code. Over
     time the companies realized that these people were really rare.  Most of them
@@ -291,6 +297,7 @@ transcript:
   sec: 1058
   time: '17:38'
   who: Alexey
+- header: 'Type A Skillset: Programming, Theory, Experiment Design'
 - line: The analyst types also have to present a lot of their insights to the business.
     This also ties in with the Type C data scientists who specialize in communication.
     When you're doing a lot of analysis, even as a data analyst, you're expected to
@@ -302,7 +309,6 @@ transcript:
   sec: 1100
   time: '18:20'
   who: Danny
-- header: Learning path for Type A
 - line: Analysts are already good at this storytelling and visualization. They need
     to add a bit of coding on top of that. And if they don't know theory, they also
     need to study more statistics. Usually, data analysts already know a bit of statistics,
@@ -310,6 +316,7 @@ transcript:
   sec: 1151
   time: '19:11'
   who: Alexey
+- header: 'Learning Strategy: Build Projects First, Learn Theory When Needed'
 - line: Let's say we have a typical data analyst who knows how to write SQL queries,
     who knows how to create dashboards, who knows how to do nice data visualization.
     They want to become the type A data scientist. What will the learning path look
@@ -342,7 +349,7 @@ transcript:
   sec: 1268
   time: '21:08'
   who: Danny
-- header: Becoming curious
+- header: 'Curiosity Spectrum: Depth of Inquiry & Learning Motivation'
 - line: How can we formalize this “being curious”? Let's say you're trying to put
     a learning plan. You put Python there, you put machine learning theory there,
     you put some other things. And then the last point is “I have to be curious”.
@@ -393,11 +400,11 @@ transcript:
   sec: 1489
   time: '24:49'
   who: Danny
-- header: Type B — the Builder
 - line: Let's talk about the B type – Builder. What do they do?
   sec: 1536
   time: '25:36'
   who: Alexey
+- header: 'Type B (Builder): ML Engineering, MLOps & Production Systems'
 - line: They're essentially software engineers, focused in the realm of data science
     applications. You do stuff in the cloud, set up the infrastructure, manage workflows,
     work with the data engineering team to make sure all the pipelines are solid,
@@ -430,6 +437,7 @@ transcript:
   sec: 1695
   time: '28:15'
   who: Alexey
+- header: Technical Debt, Production Mindset & Systemic Risk
 - line: Almost. The perfect middle ground is where you have a Type B data scientist
     doing the exploration. They can put in all the rigor and the infrastructure from
     day one. Then you start exploring and testing models in production. In my journey,
@@ -444,6 +452,7 @@ transcript:
   sec: 1706
   time: '28:26'
   who: Danny
+- header: 'Pathway A→B: Gaining Production Experience & On-the-Job Pressure'
 - line: There's a lot of value in becoming a Type B data scientist. When we think
     of value for machine learning, a lot of it is automated value. Someone has to
     put in 10 hours of work to get back X amount of dollars. It should be “Okay. I
@@ -454,7 +463,6 @@ transcript:
     It gives you more buying power as an employee as well. I think it's really important
     to cover both skills.
   who: Danny
-- header: Going from Type A to Type B
 - line: But you mentioned that these profiles, they have quite different mindset.
     One is more exploratory, and the other focuses more on production. You also mentioned
     that it's possible — you are a living proof — to go from type A to type B. How
@@ -485,13 +493,13 @@ transcript:
     people now, these things now sound basic. We have all these new MLOps things coming
     in to do that for us. But back back in the day, we were doing all of that manually.
   who: Danny
-- header: Skills needed for the transition
 - line: You mentioned Git, Docker, and cloud. You use Google Cloud, right? What are
     the other things one needs to learn to transition from type A to type B, in addition
     to these things?
   sec: 1971
   time: '32:51'
   who: Alexey
+- header: 'Core Tools for Transition: Git, Docker, Cloud Platforms'
 - line: That’s probably another cliché. You have to be curious enough to improve your
     programming skills. As a data scientist, you use machine learning, write a lot
     of Python code. It's very easy to trick yourself into thinking that you're a good
@@ -530,6 +538,7 @@ transcript:
   sec: 2093
   time: '34:53'
   who: Danny
+- header: 'Practicing Engineering Skills Outside Work: Mentors & Mini-Projects'
 - line: There are two camps of people who are learning cloud stuff. It's either “this
     is too difficult, I need a DevOps guy to help me”. There's the other end, where
     you overestimate your ability to do cloud stuff and end up costing your company
@@ -543,7 +552,6 @@ transcript:
     and you get a few hundred dollars in credit to learn. There's a lot of different
     online resources as well.
   who: Danny
-- header: Learning the skills if they aren’t needed at work
 - line: You got lucky. You had to implement these things. You also were lucky that
     there were people around who could help you to learn these skills and to master
     them. I imagine there are many type A data analysts whose work does not require
@@ -607,6 +615,7 @@ transcript:
   sec: 2468
   time: '41:08'
   who: Danny
+- header: 'Type C (Consultant/Leader): Stakeholder Persuasion & Strategy'
 - line: He was learning how to do machine learning to predict churn, predict lapse,
     predict different things like that. He said to his management, “We have a lot
     of data about our customers. I might be able to figure out who are the customers
@@ -619,7 +628,6 @@ transcript:
     on the line. If there's strong incentives for you to do something, you're more
     likely to do it.
   who: Danny
-- header: Type C — the Consultant
 - line: You mentioned persuasion, which is one of the communication skills. Communication
     is an important part for type A data scientists. There are also questions in chat
     about data storytelling skills, communication in general. This brings us to the
@@ -686,7 +694,6 @@ transcript:
     It's not a bad thing. There are some people who pretend that they're technical,
     but they're not. So it just comes off as a bit of a charlatan mistake.
   who: Danny
-- header: Is Type C for me?
 - line: I imagine that this role pays more than the other ones. You have more responsibility.
     There’s also the skill of persuading people. Communication is something rare among
     technical people. This is a pretty rare person, that's why it pays higher — and
@@ -695,6 +702,7 @@ transcript:
   sec: 2856
   time: '47:36'
   who: Alexey
+- header: 'Testing Leadership: Shifting from Hands-On to People Management'
 - line: But it's also a change in the mindset. One day, you're type B and building
     things, and when you become type C, you rarely do hands-on work. This is quite
     a shift. Do you know, or maybe you have a recommendation for people who think
@@ -740,7 +748,6 @@ transcript:
     to get to the head of data science role. It's just not going to happen — unless
     you move around and be a little bit dodgy, it might happen.
   who: Danny
-- header: From product management to Type C
 - line: 'Or a bit of luck also will not hurt. As I understood, a good background for
     the Type C data scientist is — they either have experience working as a Type A
     or type B, or maybe both. That’s ideal when they become type C. Is there a different
@@ -758,6 +765,7 @@ transcript:
   sec: 3165
   time: '52:45'
   who: Danny
+- header: 'Building a Lean Data Science Team: Roles, Tech Lead & Data Lead'
 - line: Let's say you're working in a startup. You're dealing with a frontend facing
     thing. You’re a product manager, a product owner. You have to manage a lot of
     the different processes with the technical teams. You might not understand what
@@ -779,7 +787,6 @@ transcript:
   who: Danny
 - line: I do think it's very useful to learn. Data is the feature, right?
   who: Danny
-- header: The perfect data science team
 - line: 'It helps to speak the same language with data scientists and engineers. I
     think they do that. We have three roles: analyst, builder, consultant. Apart from
     these three roles, who else do we need to build a successful product? We talked
@@ -895,7 +902,7 @@ transcript:
   sec: 3695
   time: '1:01:35'
   who: Danny
-- header: Getting into data science without domain expertise
+- header: Domain Expertise vs Technical Specialization for Career Mobility
 - line: We have quite a few questions. I think now is a good time to go through these
     questions and answer them. How can anyone without any domain expertise make a
     career in data science?
@@ -939,7 +946,7 @@ transcript:
   sec: 3845
   time: '1:04:05'
   who: Danny
-- header: Breaking into data science as a fresher
+- header: 'Breaking In: Project Portfolios, Referrals & Application Strategy'
 - line: You probably get this question quite often. How do you break into data science
     as a fresher? Where and how to apply?
   sec: 3851
@@ -985,7 +992,7 @@ transcript:
   sec: 4032
   time: '1:07:12'
   who: Danny
-- header: Is it easier to start as Type A or Type B?
+- header: 'Entry Choice: Analyst vs Builder — Trade-offs & Competitive Edge'
 - line: A follow up question from me personally. If somebody wants to break into data
     science, but they don't know, should they go with Type A or should they go with
     Type B? Do you think it's easier to go into a type A data science job than type
@@ -1059,7 +1066,7 @@ transcript:
   sec: 4331
   time: '1:12:11'
   who: Danny
-- header: Bootcamps — yes or no
+- header: 'Bootcamps & Intensives: Benefits, Limits & Realistic Expectations'
 - line: What is your opinion about bootcamps? Is it possible to break into data science
     type A or type B data science from a bootcamp?
   sec: 4346
@@ -1072,6 +1079,7 @@ transcript:
   sec: 4356
   time: '1:12:36'
   who: Danny
+- header: 'Serious SQL Course: Curriculum, Case Studies & Apprenticeship Model'
 - line: A lot of the bootcamps… Be careful. They're always going to have strong marketing,
     they'll tell you about star people who landed jobs in Facebook, Google, Amazon,
     after they took a six week bootcamp with no coding experience before. Those things
@@ -1090,7 +1098,6 @@ transcript:
     in the spur of the moment and end up paying too much for something that you might
     regret.
   who: Danny
-- header: Serious SQL — learn SQL from Danny
 - line: It's a perfect segue to talk about your course. You mentioned that it took
     you a couple of years to learn what you know. It's not possible to cram everything
     into 6 weeks or 12 weeks. But you see a problem there with bootcamps, with education,
@@ -1111,6 +1118,7 @@ transcript:
   sec: 4519
   time: '1:15:19'
   who: Danny
+- header: 'Data Science Roadmap: SQL → Visualization → ML → Deep Learning'
 - line: In the end, I figured that the way that I learned my skills was directly through
     my mentors. It wasn't learning from the documentation… Of course, that helped.
     But the most important thing was actually to work closely with a mentor. These
@@ -1145,7 +1153,6 @@ transcript:
     help people apply their skills to get the job or to start building their project
     portfolio. If anyone's interested, please reach out to me.
   who: Danny
-- header: Roadmap for becoming a data scientist
 - line: There is a related question. What is the complete roadmap for becoming a data
     scientist? If somebody goes to your website, it’s not just this one SQL course.
     There is a learning path that starts with SQL. You also mentioned data visualization
@@ -1200,7 +1207,7 @@ transcript:
   sec: 4983
   time: '1:23:03'
   who: Danny
-- header: Importance of masters or PhD for data science
+- header: 'Advanced Degrees: When Master''s/PhD Matter in Data Science Roles'
 - line: A quick question to you. I know what you're going to answer. In your opinion,
     how important is it for a data science position to have a master's degree or a
     PhD?
@@ -1218,6 +1225,7 @@ transcript:
   sec: 5000
   time: '1:23:20'
   who: Danny
+- header: Episode Wrap-up, Resources & Next Steps
 - line: But for others in the industry, they are not in that realm. You wouldn’t have
     to design a whole new layer of a neural network. It's not going to be required
     that you have a Masters or a PhD. It definitely helps if you've got a Master's

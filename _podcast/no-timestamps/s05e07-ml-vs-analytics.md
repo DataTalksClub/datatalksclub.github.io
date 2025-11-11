@@ -16,6 +16,7 @@ links:
   spotify: https://open.spotify.com/episode/19fWdSuxTLwIdzVT45qF9x
   apple: https://podcasts.apple.com/us/podcast/similarities-and-differences-between-ml-and/id1541710331?i=1000538713607
 transcript:
+- header: Episode Introduction & Guest Overview
 - line: This week, we'll talk about the similarities and differences between machine
     learning and analytics. We have a special guest today, Rishabh. Rishabh has worked
     with analytics and machine learning teams for more than seven years. Most recently,
@@ -34,7 +35,7 @@ transcript:
   sec: 126
   time: '2:06'
   who: Rishabh
-- header: Rishabh’s background
+- header: 'Career Path: Data Infrastructure and Stanford ML Background'
 - line: Before we go into our main topic, let's start with your background. Can you
     tell us about your career journey so far?
   sec: 128
@@ -63,12 +64,12 @@ transcript:
     year to research, think about what is interesting to the community, and just write
     my learnings there.
   who: Rishabh
-- header: Rishabh’s experience as a sales engineer
 - line: What did you do as a sales engineer? I know it's a bit off topic, but I'm
     really curious, what did you actually do there?
   sec: 224
   time: '3:44'
   who: Alexey
+- header: 'Sales Engineering: Demos, POCs and Data Integration'
 - line: Absolutely. It's still a very technical role. It's about helping folks who
     are evaluating the product – “How to best understand what the capabilities are?
     What are the sorts of problems that it can solve for them?” Basically, “What are
@@ -113,6 +114,7 @@ transcript:
   sec: 320
   time: '5:20'
   who: Rishabh
+- header: 'Early Machine Learning Work: NLP, Summarization and Entity Extraction'
 - line: I was also doing my Master’s, though I wasn't really studying computer science.
     I think I ended up getting a Master's in computer science, but the main direction
     there was BI – business intelligence. I was studying BI and we were taking courses
@@ -121,6 +123,7 @@ transcript:
   sec: 335
   time: '5:35'
   who: Alexey
+- header: 'Prescriptive vs Predictive Analytics: Definitions and Business Use Cases'
 - line: One kind of analytics was ‘prescriptive analytics’ and the other kind was
     ‘predictive analytics’. Sometimes for predictive analytics, we would call it ‘data
     mining’. So it's not like you're just digging something up in your data but you
@@ -129,7 +132,6 @@ transcript:
     have, and we do analytics in order to do predictions. But still, is there a reason
     why this thing is called ‘predictive analytics’?
   who: Alexey
-- header: Prescriptive vs predictive analytics
 - line: Do you know what the main difference between these two types is – ‘prescriptive
     analytics’ and ‘predictive analytics’?
   sec: 406
@@ -173,7 +175,7 @@ transcript:
   sec: 555
   time: '9:15'
   who: Rishabh
-- header: The problem with the term ‘data science’
+- header: 'Terminology Problems: The Ambiguity of "Data Science"'
 - line: 'Actually, in the question that I initially put, I wrote ‘data science’. Then
     you left a comment saying: “Hey, let''s not use ‘science’ here because it''s too
     ambiguous. It can mean too many things.”'
@@ -202,7 +204,7 @@ transcript:
   sec: 630
   time: '10:30'
   who: Rishabh
-- header: Should machine learning be part of analytics?
+- header: 'ML vs Analytics: Different Goals, Shared Data Infrastructure'
 - line: Yeah, definitely. Who knows what will happen with ‘data scientist’ in the
     future? So, we talked about ‘predictive analytics’ and ‘prescriptive analytics’
     – can we say that machine learning is actually a part of analytics? Or are they
@@ -251,7 +253,7 @@ transcript:
   sec: 811
   time: '13:31'
   who: Rishabh
-- header: Day-to-day of people that work with ML
+- header: 'Machine Learning Day-to-Day: Models, APIs, Predictions and SLAs'
 - line: So basically, analytics is looking at the history and then describing what
     happened there. While machine learning is more forward-looking – describing what
     will happen. Okay. So, for analytics, usually, it's the data analysts that are
@@ -300,6 +302,7 @@ transcript:
   sec: 992
   time: '16:32'
   who: Alexey
+- header: 'Fraud Detection: From Rule-Based Systems to Machine Learning'
 - line: As for the experience, from what I saw, it's very similar that there is this
     system aspect, or maybe I would call it an engineering aspect. It's not enough
     just to create a model – logistic, regression, SciKit Learn – you also need to
@@ -307,7 +310,6 @@ transcript:
     machine learning engineers – but this is what needs to happen to be able to use
     the model.
   who: Alexey
-- header: From rule-based systems to machine learning
 - line: Yeah. I know we're getting a little off-script here. The rules-based system
     in machine learning is always fascinating. I think a lot of sophisticated machine
     learning fraud detection teams also still continue to use a lot of rules. The
@@ -323,7 +325,7 @@ transcript:
   sec: 1058
   time: '17:38'
   who: Rishabh
-- header: Role of analysts
+- header: 'Analyst Responsibilities: Dashboards, Reports and Ad-hoc Queries'
 - line: Exactly. And these rules – at least what we have at OLX – we have a UI where
     fraud specialists just go there, click a button, and then they have a rule. Then
     they can see how effective this rule is. But with machine learning, things will
@@ -395,6 +397,7 @@ transcript:
   sec: 1340
   time: '22:20'
   who: Rishabh
+- header: 'Domain Expertise: Analysts'' Tribal Knowledge and SQL Proficiency'
 - line: Then there's a whole set of activities that a data analyst might be doing
     when it comes to integrating different data sets. They might already be working
     with certain data sets in their database, but then, let's say they find an API
@@ -450,7 +453,7 @@ transcript:
   sec: 1591
   time: '26:31'
   who: Rishabh
-- header: Documenting analytics
+- header: Documentation Limitations and Attempts to Improve Knowledge Sharing
 - line: Exactly. Even if it's documented – maybe it's in a wiki somewhere where nobody
     looks at it – but these people know it and they will just say, “Hey, your query
     is wrong. Here's the good one.”
@@ -492,7 +495,7 @@ transcript:
   sec: 1683
   time: '28:03'
   who: Alexey
-- header: Is ML more experimental than analytics?
+- header: 'Experimental Workflows: Model Experiments, A/B Testing and Shadow Mode'
 - line: But it's good that we work together so we can always learn from each other.
     When I think about this, I think that data science work, or machine learning work,
     is more experimental than analytics. In data science, you have a hypothesis that
@@ -516,6 +519,7 @@ transcript:
   sec: 1770
   time: '29:30'
   who: Rishabh
+- header: 'Experiment Analysis: Segmentation, Uplift and Root Cause Investigation'
 - line: Whereas with machine learning work, you're right – it is fairly experimental
     and the iterations themselves are the experiments. You might have experiments
     that are running pre-deployment, where you're just testing out a bunch of different
@@ -529,7 +533,6 @@ transcript:
     works ‘best’ – that's the guiding principle. Yeah, I think that the data science/machine
     learning world and being experimental makes sense.
   who: Rishabh
-- header: Analyzing results of experiments
 - line: From what I see – again, not only at OLX but also at other companies – we
     talked about experiments on live traffic, usually, it’s A/B tests or shadow testing.
     This analysis of A/B tests or live experiments is also often done by analysts,
@@ -560,7 +563,7 @@ transcript:
   sec: 1967
   time: '32:47'
   who: Rishabh
-- header: Overlaps between machine learning and analytics
+- header: 'Overlaps and Differences: Data Quality, Timescales and Outputs'
 - line: Yes, maybe we can summarize a bit. In your opinion, what are the overlaps?
     What are the similarities between machine learning and analytics?
   sec: 2010
@@ -660,7 +663,7 @@ transcript:
   sec: 2295
   time: '38:15'
   who: Alexey
-- header: Bridging the gap between ML and analytics
+- header: 'Bridging Roles: Notebooks, SQL+Python Workflows and Analytics Engineering'
 - line: Absolutely. I think it comes down to using the right tool. So if the existing
     tool – let’s say SQL – doesn't get you the answers you need, maybe you just need
     to run some analysis with Pandas or in a Jupyter Notebook or something. It would
@@ -696,7 +699,7 @@ transcript:
   sec: 2432
   time: '40:32'
   who: Rishabh
-- header: Overinvesting in ML and underinvesting in analytics
+- header: 'Investment Trends: ML Hype, Analytics Underspend and Data Infrastructure'
 - line: We already have some questions. The question is, “Do you see that organizations
     tend to overinvest in machine learning and underinvest in analytics?
   sec: 2473
@@ -720,7 +723,7 @@ transcript:
   sec: 2491
   time: '41:31'
   who: Rishabh
-- header: Forgetting to hire data analysts
+- header: 'Hiring Imbalance: Prioritizing Data Scientists vs Data Analysts'
 - line: The question continues. It's actually more like a comment that I see a lot.
     “Are organizations often hiring lots of data scientists, while forgetting about
     data analysts?” And “Do they often forget to upskill others?” So perhaps, data
@@ -749,7 +752,6 @@ transcript:
     the mindset that data scientists are here and data analysts are here – because
     that's just not true.
   who: Rishabh
-- header: Finding senior data analysts
 - line: Yeah, that's definitely not true. I talked to some people who are hiring both
     data scientists and data analysts. There was one comment that was a bit surprising
     for me, but then in retrospect, I thought it probably makes sense. They told me
@@ -800,7 +802,6 @@ transcript:
   sec: 2864
   time: '47:44'
   who: Rishabh
-- header: Is data science sexier than data analytics?
 - line: As you said, maybe in industry, data science does look sexier. Right? There's
     certainly more hype around this than analytics. Analytics has been around for
     three, four decades, right? Whereas data science is something more fresh. At least
@@ -819,7 +820,7 @@ transcript:
   sec: 2900
   time: '48:20'
   who: Rishabh
-- header: Collaboration between ML and analytics teams
+- header: 'Team Organization: Embedded Data Roles Versus Centralized Structures'
 - line: Thanks. We have another question. “Should our team work independently or together?”
     Let's assume we have a machine learning team and analytics team in our company.
     So should we put them in one room? Or should we put them in separate rooms?
@@ -929,7 +930,7 @@ transcript:
   sec: 3266
   time: '54:26'
   who: Rishabh
-- header: Building data teams
+- header: 'Building a Data Team: Hire Data Engineers, Then Analysts, Then DS'
 - line: Last week, we had a guest, and we were talking about building data teams.
     Tammy Liang was here talking about her experience. She suggested that if she could
     start building a data team again, she would start with hiring a data engineer,
@@ -972,7 +973,7 @@ transcript:
   sec: 3494
   time: '58:14'
   who: Rishabh
-- header: Rishabh’s newsletter – MLOpsRoundup
+- header: 'MLOpsRoundup Newsletter: ML Production, MLOps Insights and Resources'
 - line: Before we finish, I wanted to ask you about your newsletter. Maybe you can
     tell us a few words about this? So, what are you writing about?
   sec: 3499
@@ -1007,7 +1008,7 @@ transcript:
   sec: 3588
   time: '59:48'
   who: Alexey
-- header: Finding Rishabh online
+- header: 'Contact and Community: Twitter, Slack and Episode Close'
 - line: You can find me on Twitter. My Twitter handle is @rish_bhargave. I’m also
     in the DataTalks.Club Slack channel, so feel free to find me and send me a message.
     I’m always happy to chat.

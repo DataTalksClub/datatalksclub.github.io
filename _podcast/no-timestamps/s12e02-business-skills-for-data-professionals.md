@@ -16,6 +16,8 @@ short: Business Skills for Data Professionals
 title: 'Practical Data Science for SaaS: Deployments, Marketing Automation, Metrics
   & Storytelling'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Background: From Physics to Data Science'
 - line: This week we'll talk about business skills for data professionals. We have
     a special guest today, Loris. Loris is the CEO and founder of Discovering Data,
     where he's on a mission to build a bridge between business leaders and data leaders.
@@ -31,7 +33,6 @@ transcript:
   sec: 127
   time: '2:07'
   who: Loris
-- header: Loris’ background
 - line: Yeah, it's always an interesting experience to be on the other side – not
     to host but to be a guest. Before we go into our main topic of building skills
     for data professionals, let's start with your background. Can you tell us about
@@ -39,6 +40,7 @@ transcript:
   sec: 146
   time: '2:26'
   who: Alexey
+- header: 'Early Data Role: Research Skills Applied in a Startup'
 - line: Yeah, sure. In a way, it’s very typical for data people. I started out with
     a background in engineering and then I got passionate about physics. I thought
     for a moment I would one day become a researcher – a professor in quantum physics
@@ -79,6 +81,7 @@ transcript:
   sec: 287
   time: '4:47'
   who: Alexey
+- header: 'Production Challenges: Deploying Models in a SaaS'
 - line: That was my day one. The interview was actually very interesting. We can talk
     about the interview, but day one was that. On day two, the CTO looked at me from
     across the room during stand-up and asked me, “Okay, so when is the project going
@@ -105,6 +108,7 @@ transcript:
   sec: 374
   time: '6:14'
   who: Alexey
+- header: 'Marketing Automation Use Case: Recommendations & Reporting'
 - line: Oh, the app was just recommending. Autopilot is a SaaS business. Now they
     are rebranded, so you wouldn't find it on LinkedIn. But what they were doing was
     marketing automation. You could create journeys, and tag people, and make the
@@ -134,7 +138,6 @@ transcript:
   sec: 378
   time: '6:18'
   who: Loris
-- header: Transitioning from physics to data
 - line: Interesting. Your background was engineering and physics, yet the work (the
     job, the app that you worked on) was in marketing. This is like two different
     worlds. How did you actually convince them to hire you? Was it enough to say,
@@ -142,6 +145,7 @@ transcript:
   sec: 491
   time: '8:11'
   who: Alexey
+- header: 'Applied Research: Reinforcement Learning to Practical Problems'
 - line: '[cross-talk] Well, they were a tech startup, right? So very technical people.
     It was very easy to convince them, to be honest. It was one of the easiest interview
     processes. We started talking and I described some of the projects that I worked
@@ -196,12 +200,12 @@ transcript:
   sec: 623
   time: '10:23'
   who: Loris
-- header: Aligning people on concepts
 - line: What do you actually mean by “aligning people on concepts”? This entire thing
     – maybe we can unpack it a little bit.
   sec: 731
   time: '12:11'
   who: Alexey
+- header: 'Semantic Alignment: Defining "Customer" and Core Metrics'
 - line: Yeah, sure. It's also one of the points in our outline for the talk today.
     “Data that makes sense – context, semantics, and meaning.” I guess I found the
     first hints that this was a problem when we're having a conversation after a hackathon.
@@ -264,7 +268,7 @@ transcript:
   sec: 857
   time: '14:17'
   who: Loris
-- header: Lead indicators and stickiness
+- header: 'Lead Indicators & Stickiness: Churn and Causal Thinking'
 - line: '[chuckles] You said something that is quite interesting and I wanted to ask
     you about that. You said that “It''s a lead indicator of stickiness.” So what
     is a “lead indicator”? And what is “stickiness”?'
@@ -311,12 +315,12 @@ transcript:
   sec: 1002
   time: '16:42'
   who: Loris
-- header: Context, semantics, and meaning
 - line: '[chuckle] Yeah, it does. I interrupted you, sorry. You were going to say
     something about context, semantics, and meaning, I guess.'
   sec: 1070
   time: '17:50'
   who: Alexey
+- header: 'Context & Semantics: Cross-Functional Meaning in Data'
 - line: Yeah. I learned over time that this applies a lot more with cross-functional
     teams and larger organizations than it does in startups. The fundamental mechanics
     of it are just cognitive biases and just the cognitive structure – the way that
@@ -379,7 +383,7 @@ transcript:
   sec: 1283
   time: '21:23'
   who: Alexey
-- header: Communication and being memorable
+- header: 'Data Storytelling: Marketing Techniques for Memorable Communication'
 - line: Yeah. In this one – I think this could actually be a fantastic introduction
     to the next point that we have in our outline. There’s this one point that I wrote
     around communicating – building better models by building relationships and earning
@@ -442,12 +446,12 @@ transcript:
   sec: 1357
   time: '22:37'
   who: Loris
-- header: Making data digestible for business and building trust
 - line: How can we make business understand what we're talking about? What can we
     learn from marketing to actually do that?
   sec: 1543
   time: '25:43'
   who: Alexey
+- header: 'Building Trust: Active Listening and Business Literacy'
 - line: Yes. For me, this has been the focus for the last year, to be honest, and
     it's gonna keep continuing being the focus in the next two or three years. I think
     the key is to unlearn some of the concepts and the beliefs that we built up over
@@ -483,6 +487,7 @@ transcript:
   sec: 1656
   time: '27:36'
   who: Alexey
+- header: 'Onboarding Strategy: Stakeholder Mapping and Prioritization'
 - line: Yeah, it's a fantastic question. I think it starts with active listening.
     But before you can listen, you have to learn to be comfortable with not knowing
     what the hell people are talking about. And it's incredibly frustrating. I have
@@ -547,7 +552,6 @@ transcript:
   sec: 1893
   time: '31:33'
   who: Loris
-- header: The importance of understanding the language of business
 - line: I mean, if you start with the head of product, this is a good place to… well,
     maybe a product manager and then you become head of product. Then you get into
     data because you've worked with analysts. So eventually, you might become head
@@ -594,7 +598,6 @@ transcript:
   sec: 1940
   time: '32:20'
   who: Loris
-- header: Stakeholder mapping
 - line: How do you actually do this? So you join a new company. Then you said that
     one of the first things is stakeholder mapping – for each stakeholder, you try
     to understand what they do and why they do this. You also want to prioritize and
@@ -603,6 +606,7 @@ transcript:
   sec: 2088
   time: '34:48'
   who: Alexey
+- header: 'Stakeholder CRM: Capturing Names, Roles, and Context'
 - line: Okay. You have to know one thing about me and that's – I have a terrible memory.
     [chuckles] For a long time, one of the biggest challenges I had when it comes
     to knowing people – it's remembering their names. I'm incredibly bad with names
@@ -662,11 +666,11 @@ transcript:
   sec: 2266
   time: '37:46'
   who: Loris
-- header: Attending business meetings as a data professional
 - line: But it's like the first step, right?
   sec: 2269
   time: '37:49'
   who: Alexey
+- header: 'Meeting Immersion: Learning Business Language by Attendance'
 - line: The first step, yeah. This is just overcoming my terrible memory. Then, step
     two is to attend business meetings. There are many in any organization. In any
     organization – from startups to enterprises, people talk business every day, all
@@ -723,7 +727,6 @@ transcript:
   sec: 2271
   time: '37:51'
   who: Loris
-- header: Organizing your stakeholder map
 - line: Do you have a system for that? You have this database with people to remember
     their names – do you also have a system for taking notes after these business
     meetings? So then you can remember, you can map concepts, you can understand who
@@ -731,6 +734,7 @@ transcript:
   sec: 2471
   time: '41:11'
   who: Alexey
+- header: 'Note Systems: Using Notion to Track Meetings and Key Activities'
 - line: Yeah, absolutely – something that you can do on day one. So I come from… I’ve
     been working on Discovering Data for two years now and the whole system is built
     in Notion, so I knew the software really well. But I found that for the first
@@ -770,6 +774,7 @@ transcript:
   sec: 2493
   time: '41:33'
   who: Loris
+- header: 'Tooling & IP Considerations: Personal Knowledge vs Company Systems'
 - line: I’m just wondering, do you use your private Notion account for that or do
     you use Notion at work? Is it a company account? The reason I'm asking this is
     because at my work, we don't use Notion. There is a different system called Conference.
@@ -796,7 +801,7 @@ transcript:
   sec: 2707
   time: '45:07'
   who: Alexey
-- header: Prioritizing
+- header: 'Prioritization: Choosing Projects by Stakeholder Impact'
 - line: Yeah. We talked about prioritizing. Prioritizing is a big one. The question
     that's interesting to me is, once you reach a steady state and you start being
     productive, you're part of the business, you attend meetings. Now you are independent.
@@ -822,6 +827,7 @@ transcript:
   sec: 2786
   time: '46:26'
   who: Alexey
+- header: 'Opportunity Selection: Finding High-Connectivity Data Projects'
 - line: Yeah. It makes me think of network and social media, when you find the nexus
     of a graph – it's a node that is highly connected. In this case, the nodes are
     data projects and the edges are how many people that data product essentially
@@ -867,7 +873,6 @@ transcript:
   sec: 2963
   time: '49:23'
   who: Loris
-- header: How to support the business strategy
 - line: I just noticed that there is a comment from Alejandro that I wanted to acknowledge
     and read. He wrote “I have an MBA,” we talked about people with a business background
     starting in the data and he started from an individual contributor position again.
@@ -888,6 +893,7 @@ transcript:
   sec: 2986
   time: '49:46'
   who: Alexey
+- header: 'Pragmatism in Tools: Excel, Pivot Tables, and Rapid Experiments'
 - line: I'm gonna give you an answer that is kind of intuitive. The answer is – that
     part is actually the easiest. [Alexey chuckles “Okay”] But! This is a huge “but”
     – it requires flexibility in the way we manage our identity. As data professionals,
@@ -925,6 +931,7 @@ transcript:
   sec: 3174
   time: '52:54'
   who: Alexey
+- header: 'Conversation First: Description and Diagnostic Before ML'
 - line: Pivot table. That's a superpower. To be honest, it's even better than Jupyter.
     How fast it is and how easily you can share it. We don't think about that, right?
     But the other side is, we're not dealing with monkeys, we're dealing with people
@@ -971,7 +978,7 @@ transcript:
   sec: 3188
   time: '53:08'
   who: Loris
-- header: Learning to speak online
+- header: 'Presenting Online: Podcasting, Pauses, and Audio Practices'
 - line: Yeah, now it works. Thanks. We have a few questions and one interesting one
     from Raphael is “Your sound is very good. How does one learn to speak online?”
     [chuckles] Is it only trying and or did you do something else for that?
@@ -1035,7 +1042,7 @@ transcript:
   sec: 3506
   time: '58:26'
   who: Loris
-- header: Resource recommendations from Loris
+- header: 'Resources: Discovering Data Podcast for Business Skills'
 - line: We should be wrapping up. So maybe the last question I will ask you is “Do
     you have any book recommendations or resource recommendations on the topic of
     today's interview? What kind of book can we read to learn more about business
@@ -1073,6 +1080,7 @@ transcript:
   sec: 3626
   time: '1:00:26'
   who: Alexey
+- header: 'Community Building: Joining the Discovering Data Discord'
 - line: in the future, yes. At the moment, we are a business of one. It's way simpler
     than that. You go on wherever you listen to your podcasts, you follow Discovering
     Data, the last episode – the one with Stephen Shedletztky, the guy who worked
@@ -1085,6 +1093,7 @@ transcript:
   sec: 3633
   time: '1:00:33'
   who: Loris
+- header: Episode Wrap-Up and Contact Links
 - line: Thanks for the chat. It was amazing. Nice to talk to you. And thanks, everyone,
     for joining. I did not expect that so many people would join so early. So thanks,
     everyone. That was fun.

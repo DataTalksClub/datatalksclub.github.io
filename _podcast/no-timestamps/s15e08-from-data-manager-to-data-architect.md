@@ -15,6 +15,8 @@ season: 15
 short: From Data Manager to Data Architect
 title: Build & Scale End-to-End IoT Data Pipelines, Lakehouse & Core Data Modeling
 transcript:
+- header: Podcast Introduction
+- header: 'Career overview: From data manager to data lead'
 - line: This week, we'll talk about the journey from being a data manager and transitioning
     to a data architect. We will discuss it from both the technical and leadership
     perspectives. Today, we have a very special guest, Loïc. This is not the first
@@ -36,12 +38,12 @@ transcript:
   sec: 105
   time: '1:45'
   who: Alexey
-- header: Loïc's background
 - line: Before we go into our main topic, let's begin with your background. Can you
     tell us about your career journey so far?
   sec: 195
   time: '3:15'
   who: Alexey
+- header: 'Early role: Sensor data aggregation & structural health monitoring'
 - line: Yeah. In a nutshell, as we say, I started as a data manager back in 2013,
     working in the UK in a company called SIXENSE by now. I was doing a lot of data
     management, gathering data and just making reporting available for other people
@@ -67,7 +69,7 @@ transcript:
   sec: 204
   time: '3:24'
   who: Loïc
-- header: Data management
+- header: 'Data management vs analyst: responsibilities and data discovery'
 - line: When I heard the term “data management,” what I had in mind was more like
     managing a team, so what you do now. But from what you described, I understood
     that it's a different role. It's more like an analyst role in a non-tech company,
@@ -97,6 +99,7 @@ transcript:
   sec: 436
   time: '7:16'
   who: Alexey
+- header: 'Automation to data engineering: ETL, scripting, and process automation'
 - line: Yeah, but more of the data analyst side, actually. Then I transitioned to
     data engineering, because I was spending days – hours of my days – just mixing
     and matching data. Also, I have a civil engineering degree. Nothing to do with
@@ -120,7 +123,7 @@ transcript:
   sec: 441
   time: '7:21'
   who: Loïc
-- header: Loïc's transition to data engineer
+- header: 'End-to-end IoT pipelines: loggers, ingestion, and reporting'
 - line: So you became a data engineer within the same company, right?
   sec: 561
   time: '9:21'
@@ -151,6 +154,7 @@ transcript:
   sec: 659
   time: '10:59'
   who: Alexey
+- header: 'Domain expertise: civil engineering aiding data diagnosis'
 - line: What helped with transition was me spending a lot of my spare time learning
     about software engineering good practices, reading about all the database management
     and CRUD operations and all of this – more investing my personal time on learning
@@ -202,7 +206,7 @@ transcript:
   sec: 878
   time: '14:38'
   who: Loïc
-- header: Challenges in the transition to data engineering
+- header: 'Adapting to cloud & IoT: learning Python, Azure, and cloud fundamentals'
 - line: For you, what was the most difficult part when you did the transition? I'm
     guessing that as a civil engineer, you did not study software engineering and
     you needed to invest a lot of time in learning all these data engineering fundamentals.
@@ -295,6 +299,7 @@ transcript:
   sec: 1257
   time: '20:57'
   who: Alexey
+- header: 'Hiring mindset: evaluating experience, scale, and cloud adaptability'
 - line: Yeah, I actually have one data engineer who has more experience than myself
     on a lot of the BI and data architecture side of things. But still, when it comes
     to Big Data and using Spark and new platforms like Databricks and whatever, there
@@ -314,7 +319,7 @@ transcript:
   sec: 1261
   time: '21:01'
   who: Loïc
-- header: What is a data architect?
+- header: 'Data architect role: seniority, end-to-end ownership, and modeling'
 - line: Okay. Fair enough. I just looked at the time and I see that we spent most
     of the time talking about data engineering – your transition from data manager
     to data engineer. But we also wanted to talk about your other transition – the
@@ -370,7 +375,6 @@ transcript:
   sec: 1579
   time: '26:19'
   who: Loïc
-- header: The output of a data architect's work
 - line: And for that, you need to understand the processes, use cases, what the final
     results should be, more or less. It's a very technical role, so you need to have
     experience doing things end-to-end – from source staging, warehousing, datamart
@@ -389,6 +393,7 @@ transcript:
   sec: 1581
   time: '26:21'
   who: Alexey
+- header: 'Architecture outcome: team alignment and optimized data processes'
 - line: Yeah. What is the output of my work? The most important thing is, I would
     say, team alignment. Because when you have a data project, it's not only one team,
     creating the data, managing it, saving it, analyzing it – this would be the perfect
@@ -430,6 +435,7 @@ transcript:
   sec: 1795
   time: '29:55'
   who: Alexey
+- header: 'Lakehouse layering: bronze, silver, gold and data quality expectations'
 - line: This is the perfect thing to do. You can spend a lot of time doing a really
     detailed a specification about all the processes, “It will go like this – from
     this source, connected with this protocol, you will get the data and you will
@@ -459,7 +465,6 @@ transcript:
   sec: 1796
   time: '29:56'
   who: Loïc
-- header: Establishing metrics and dimensions
 - line: But stakeholders give you this information. They say, “Okay, we care about
     these things.” Right? At the end, when we analyze the data, “This is what we want
     to see in the dashboard. We want to see these kinds of metrics.”They tell you
@@ -470,6 +475,7 @@ transcript:
   sec: 1946
   time: '32:26'
   who: Alexey
+- header: 'Analytics modeling: dimensions, facts, metrics, and stakeholder discovery'
 - line: Yeah, bronze is the very raw data, and then you have silver and gold. What
     you are discussing with the stakeholders, who are going to consume the data, is
     more like, “What should the gold layer look like so I can analyze it?” And then
@@ -516,6 +522,7 @@ transcript:
   sec: 2143
   time: '35:43'
   who: Alexey
+- header: 'Core model strategy: supporting multiple consumers and departments'
 - line: Yeah, exactly. Usually what happens in a company is you have different departments
     – in our case, for example, we will have Supply Chain, Finance and Sales – they
     will also analyze the quantity of stock we have left, but for very different reasons.
@@ -533,7 +540,7 @@ transcript:
   sec: 2160
   time: '36:00'
   who: Loïc
-- header: The importance of communication
+- header: 'Role balance: hands-on engineering vs stakeholder engagement over time'
 - line: To me, it sounds like this work mostly involves communication, right? You
     need to, first of all, speak with stakeholders, understand what the requirements
     are, how it's going to be used, and then you need to spend a lot of time talking
@@ -612,7 +619,8 @@ transcript:
   sec: 2467
   time: '41:07'
   who: Loïc
-- header: Setting up best practices for the team
+- header: 'Empowerment & prioritization: scaling teams and aligning with business
+    goals'
 - line: So it looks like you want to teach people how to speak, so you can kind of
     get out of the team – so that they work without you. Right? What I mean by this
     is, if you're involved in everything, then you become the bottleneck and nothing
@@ -644,7 +652,7 @@ transcript:
   sec: 2652
   time: '44:12'
   who: Loïc
-- header: Staying relevant and tech-watching
+- header: 'Staying technical: one-on-ones, demos, and hands-on proofs of concept'
 - line: I see a question about handling – how you adapt and stay relevant in the field.
     In my experience – so I was kind of also working in an architectural role, even
     though it wasn't related to data engineering, it was related more to machine learning,
@@ -734,6 +742,7 @@ transcript:
   sec: 3023
   time: '50:23'
   who: Alexey
+- header: 'Technology scouting: DBT, LLMs, newsletters and community curation'
 - line: Yeah, “technology watching”. This is the term. Create yourself a community
     on LinkedIn so you can be aware of [these technologies]. Find an expert about
     Power BI, find an expert about data engineering, find a newsletter about data
@@ -775,7 +784,7 @@ transcript:
   sec: 3189
   time: '53:09'
   who: Alexey
-- header: Setting up specifications for a pipeline
+- header: 'Agile delivery: draft specs, proof of concept pipelines, and iteration'
 - line: We have a few questions. Mohammed is asking, “How do you manage data specifications
     while setting up a data architecture pipeline for a project? Is it something you
     do in parallel? Or do you first come up with data specs and then a pipeline, or
@@ -829,7 +838,6 @@ transcript:
   sec: 3291
   time: '54:51'
   who: Loïc
-- header: Be agile, create a POC,  iterate ASAP, and build reusable templates
 - line: In summary, you draft an end-to-end specification (very drafty), you get feedback
     on that, then you incorporate the feedback, and implement a POC pipeline. Then
     you get feedback again because this POC probably produces something – get feedback,
@@ -839,6 +847,7 @@ transcript:
   sec: 3399
   time: '56:39'
   who: Alexey
+- header: 'Reusable templates: ingestion, transformation, and datamart patterns'
 - line: Yeah. Usually, this is a trap. You're going to build a book, and you will
     end up with a lot of technical debt, and a big impact on your code so you can
     make it scalable. If you have previously built projects, you have some kinds of
@@ -873,6 +882,7 @@ transcript:
   sec: 3537
   time: '58:57'
   who: Alexey
+- header: 'Design tradeoffs: reusable components vs project-specific solutions'
 - line: Yes, you need to be aware of templates. You have your data engineering hat,
     where you know that you have this somewhat software engineering side of you that
     tells you, “Okay, if I'm repeating something three times, I may want to build
@@ -889,7 +899,7 @@ transcript:
   sec: 3574
   time: '59:34'
   who: Loïc
-- header: Reaching out to Loïc for questions
+- header: 'Follow-up: guest contact and LinkedIn connection'
 - line: You'll pick the locks, right? [chuckles] [Loïc laughs] We should be wrapping
     up and I see that we still have quite a few unanswered questions. Would it be
     okay if Mohammed and other people would reach out to you on LinkedIn with these
@@ -911,6 +921,7 @@ transcript:
   sec: 3677
   time: '1:01:17'
   who: Loïc
+- header: Episode recap & closing
 - line: Thanks, Loïc! It was, as always, great to talk to you. Time flies – we are
     already over time. It was a really big pleasure to speak with you again, so maybe
     we should repeat. We actually... The funny thing is, we did not discuss what exactly

@@ -16,6 +16,9 @@ short: Bayesian Modeling  and Probabilistic Programming
 title: 'Master Bayesian Modeling & Probabilistic Programming: MCMC, HMC/NUTS, Sampling
   with Hakaru & PyMC'
 transcript:
+- header: Episode Introduction & Topic Overview
+- header: 'Guest Introduction: Rob Zinkov and the Hakaru probabilistic programming
+    project'
 - line: This week, we'll talk about Bayesian modeling and probabilistic programming.
     We have a special guest today, Rob. Rob is a machine learning engineer and a data
     scientist. He's interested in deep generative models, as well as good statistical
@@ -51,7 +54,7 @@ transcript:
   sec: 156
   time: '2:36'
   who: Alexey
-- header: Rob’s background
+- header: 'Career Journey: From software engineering to machine learning research'
 - line: Before we go into the main topic of Bayesian modeling and probabilistic programming,
     let's start with your background. Can you tell us about your career journey so
     far?
@@ -73,6 +76,7 @@ transcript:
   sec: 235
   time: '3:55'
   who: Alexey
+- header: 'Industry vs Academia: Applying Bayesian tools in real problems'
 - line: But there really weren't… SciKit Learn was essentially only created in the
     late 2000s. It was actually very hard to do good machine learning work readily
     well. It was all researchers, so everyone was essentially just rewriting all the
@@ -113,7 +117,7 @@ transcript:
   sec: 398
   time: '6:38'
   who: Rob
-- header: Going from software engineering to Bayesian modeling
+- header: 'Transitioning Skills: Embracing calculus, integrals, and optimization'
 - line: I imagine that for a usual computer science/software engineering person, when
     they see all these mathematical formulas from the Bayesian modeling, they just
     freeze or freak out or whatever. I remember, for me, it was like, “Oh, all these
@@ -141,6 +145,7 @@ transcript:
   sec: 490
   time: '8:10'
   who: Alexey
+- header: 'Core Technical Skills: Linear algebra and optimization for ML'
 - line: If I wanted to use these methods, I had to at least be somewhat comfortable
     with optimization methods and linear algebra. There's kind of no way to do that
     without being at least a little comfortable with taking a few integrals, taking
@@ -173,6 +178,7 @@ transcript:
   sec: 557
   time: '9:17'
   who: Alexey
+- header: 'Self‑Study Path: Learning statistics without formal classes'
 - line: It was just dabbling. You're just sort of dabbling in the problems, you're
     reading about them. Because in some sense, if you're like, “Oh, I want to learn
     machine learning. Okay, I'm going to learn how to run a random forest or implement
@@ -267,11 +273,11 @@ transcript:
   sec: 842
   time: '14:02'
   who: Rob
-- header: Frequentist vs Bayesian modeling approach
 - line: What is Bayesian modeling? What are we talking about today?
   sec: 883
   time: '14:43'
   who: Alexey
+- header: 'Statistical Paradigms: Frequentist point estimates vs Bayesian distributions'
 - line: Right. Okay. Yeah. Also, I've been saying the words “probabilistic modeling”
     and “Bayesian modeling” – they're not quite the same thing. There are differences.
     If you take a statistics class… Maybe this has changed. But if you take a statistics
@@ -347,6 +353,7 @@ transcript:
   sec: 1129
   time: '18:49'
   who: Alexey
+- header: 'Bayesian Workflow: Priors, likelihoods, and posterior distributions'
 - line: Right. There's a point estimate, and then there's a confidence interval around
     it. There are things that use distributions in frequentist statistics, but for
     Bayesian modeling, the fundamental object is a distribution. You almost never
@@ -382,6 +389,7 @@ transcript:
   sec: 1287
   time: '21:27'
   who: Alexey
+- header: 'Bayesian Advantages: Composability and incremental model building'
 - line: Yeah, of course. But the important thing is that it's always a process from
     one distribution to another. Now, why would someone prefer that? It seems like
     more work. And it is work – doing this Bayes’ rule over and over again often involves
@@ -411,6 +419,7 @@ transcript:
   sec: 1421
   time: '23:41'
   who: Alexey
+- header: 'Probabilistic Programming: Automating Bayesian model tasks'
 - line: Probabilistic programming are effectively tools to make doing Bayesian modeling
     significantly easier by removing all of the tedious steps.
   sec: 1425
@@ -428,7 +437,7 @@ transcript:
   sec: 1442
   time: '24:02'
   who: Rob
-- header: About integrals
+- header: 'Why Integrals Matter: Intractable integrals in probabilistic models'
 - line: Why is computing integrals such a big deal? Why don't we just compute them?
     What's the problem with them?
   sec: 1469
@@ -459,6 +468,7 @@ transcript:
   sec: 1562
   time: '26:02'
   who: Alexey
+- header: 'Numerical Integration: Sampling as an approximation technique'
 - line: Right. But effectively, this is what we're kind of doing. We're going in,
     and computing numerically. Often, what happens when you're sampling – you're approximating
     an integral, because you're like, “Okay, I have this curve. I'm going to use probabilities
@@ -487,7 +497,6 @@ transcript:
   sec: 1662
   time: '27:42'
   who: Rob
-- header: Probabilistic programming and samplers
 - line: Again, if we go back to our discussion of Bayesian versus frequentist – in
     frequentist, we get a number and then a confidence interval, and that's all we
     get, right? [Rob agrees] In Bayesian, on the other hand, we start with a distribution,
@@ -503,6 +512,7 @@ transcript:
   sec: 1715
   time: '28:35'
   who: Alexey
+- header: 'Samplers Overview: Using draws to estimate posterior expectations'
 - line: Right. Well, there's two things. One, without programs that do integrals,
     for every model, you have to essentially figure out what the sampler is going
     to be and then write it. If you make your model a little different, you have to
@@ -605,11 +615,11 @@ transcript:
   sec: 2015
   time: '33:35'
   who: Rob
-- header: MCMC and Hakaru
 - line: How do we even know that these are correct if we just guess them?
   sec: 2023
   time: '33:43'
   who: Alexey
+- header: 'MCMC Fundamentals: Markov chains and exploring high‑probability regions'
 - line: Our model essentially returns to us, “What's the probability the parameter
     has this value, given the data we return?” So we have these probabilities there.
     But we can't know in advance what the high probability regions are going to be.
@@ -653,6 +663,7 @@ transcript:
   sec: 2193
   time: '36:33'
   who: Alexey
+- header: 'Probabilistic Languages: Hakaru’s role in generating samplers'
 - line: Oh, we didn't actually develop new sampling algorithms for Hakaru. We just
     took some of these algorithms that were out there and made them so that the users
     didn't have to run the algorithms. The user just ran the model, and they got the
@@ -700,13 +711,13 @@ transcript:
   sec: 2260
   time: '37:40'
   who: Rob
-- header: Language vs library
 - line: In the same sense that we can say SciKit Learn is a programming language because
     there are… What's the difference between a library and a programming language
     is, I guess, what I’m trying to ask.
   sec: 2368
   time: '39:28'
   who: Alexey
+- header: 'Language vs Library: Model semantics, control flow, and ASTs'
 - line: I mean, that's a very beautiful question. If you talk to some people out of
     the University of Utah or some of the racket scheme people they'll say, “This
     distinction between a library and a language is not very black and white. There
@@ -778,6 +789,7 @@ transcript:
   sec: 2598
   time: '43:18'
   who: Alexey
+- header: 'PyMC Example: Building a rainfall model and computational graph'
 - line: Well, it's a library because it’s a Python library, but it very much has its
     own language. When you write a model in PyMC, you get a computational graph back
     – you get an AST. What you can inspect… When you write models you aren't… You
@@ -865,6 +877,7 @@ transcript:
   sec: 2852
   time: '47:32'
   who: Alexey
+- header: 'Interpreting Posteriors: Model checks and iterative refinement'
 - line: Exactly. I wouldn't quite call it regression, because you can represent regressions
     in PyMC. You can say that you have some x, you have some y, and we have some relation
     between them (this function). This function has some weights. I don't know what
@@ -897,7 +910,6 @@ transcript:
   sec: 2890
   time: '48:10'
   who: Rob
-- header: Encoding dependencies and relationships into a model
 - line: From what I understood, from what you said, PyMC, and probably other probabilistic
     programming languages or frameworks – what they give us is the ability to express
     our problem in some sort of language, and express dependencies between different
@@ -916,6 +928,7 @@ transcript:
   sec: 3063
   time: '51:03'
   who: Alexey
+- header: 'Encoding Dependencies: Spatial models and hierarchical structure'
 - line: Yeah. You can start doing like spatial models, where you say, “Cities that
     are close to each other should have similar annual rainfall.” And there are ways
     to sort of encode that.
@@ -949,6 +962,7 @@ transcript:
   sec: 3148
   time: '52:28'
   who: Alexey
+- header: 'Multimodality & Uncertainty: Representing multiple plausible outcomes'
 - line: Yeah. It might be [something] like you add another feature, because you're
     doing something like a Bayesian neural net, and you just add another weight –
     you put another prior on that weight – and then go from there. You just say, “This
@@ -984,13 +998,13 @@ transcript:
   sec: 3192
   time: '53:12'
   who: Rob
-- header: Stan, HMC (Hamiltonian Monte Carlo) , and NUTS
 - line: When you were talking about different probabilistic programming languages
     (frameworks), you mentioned Stan. There is a question from Johanna, “What do you
     think about Stan?” So, what is Stan and what do you think about it?
   sec: 3324
   time: '55:24'
   who: Alexey
+- header: 'Stan & HMC/NUTS: Advances in efficient sampling algorithms'
 - line: Sure. Stan, I think I can comfortably say this, is the main and most predominant
     probabilistic programming system out there. It's a pioneer in many ways, which
     I'll explain shortly. It's a leader in the space. It's the “main” one. If you
@@ -1044,7 +1058,6 @@ transcript:
   sec: 3585
   time: '59:45'
   who: Rob
-- header: Sources for learning about Bayesian modeling
 - line: Great. So we have a course – it's a machine learning engineering course –
     and the way we do it is half of the content is about machine learning and the
     other half of the content is about engineering. The half that’s about machine
@@ -1062,6 +1075,7 @@ transcript:
   sec: 3586
   time: '59:46'
   who: Alexey
+- header: 'Learning Resources: PyMC book, Statistical Rethinking course, and tutorials'
 - line: Sure. There's a book I like… This answer has gotten much easier in recent
     years, because people have really started to produce good materials for this.
     Before, I would have said, “Oh, you should just buy a book on Bayesian statistics.”
@@ -1131,7 +1145,6 @@ transcript:
   sec: 3922
   time: '1:05:22'
   who: Rob
-- header: Reaching out to Rob
 - line: Yeah, we should be wrapping up. It was amazing. Thanks, Rob. You made some
     things clear to me, personally. Sometimes you would say something and I would
     just think, “What is that?” But now it's clear. Thanks. Before we wrap up, is
@@ -1139,6 +1152,7 @@ transcript:
   sec: 3932
   time: '1:05:32'
   who: Alexey
+- header: 'Consulting & Contact: Rob’s statistical consulting and email'
 - line: Yeah. Maybe a little bit of a plug. I do statistical consulting – that is
     kind of the main thing I do these days. I write software as well to help with
     that. For anyone who's listening to this, if you or your company have statistical
@@ -1155,6 +1169,7 @@ transcript:
   sec: 3986
   time: '1:06:26'
   who: Rob
+- header: Episode Wrap‑up, Links, and Next Steps
 - line: Okay. We will also include the email in the description. I posted two links
     in the live chat – I will also post them in the description. I guess that's all
     for today. Thanks a lot, Rob, for joining us today. And thanks, everyone, for

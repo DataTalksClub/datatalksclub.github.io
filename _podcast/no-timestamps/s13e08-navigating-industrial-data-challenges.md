@@ -16,6 +16,7 @@ short: Navigating Industrial Data Challenges
 title: 'Master Industrial Data: Synthetic Tabular Data, Small-Data Modeling, Sensors
   & MLOps'
 transcript:
+- header: 'Episode Intro: Guest Overview & Synthetic Tabular Data Focus'
 - line: This week we'll talk about industrial data challenges. We have a special guest
     today, Rosona. Rosona is a trained mathematician who works in the data space for
     the last six years, with the last three, working in industrial data. She is currently
@@ -38,12 +39,12 @@ transcript:
   sec: 122
   time: '2:02'
   who: Alexey
-- header: Rosona’s background
 - line: Before we go into our main topic of industrial data challenges, let's start
     with your background. Can you tell us about your career journey so far?
   sec: 148
   time: '2:28'
   who: Alexey
+- header: 'Career Pivot: From PhD Algebraic Topology to Industry'
 - line: I mean, you sort of gave the broad strokes, right? I was originally a PhD
     mathematician. This is actually what brought me to Germany – an academic career.
     I did several postdocs first in Hamburg. And you reach a point where either it’s
@@ -125,6 +126,7 @@ transcript:
   sec: 351
   time: '5:51'
   who: Alexey
+- header: 'Academic Roots: 3D Topological Models and Research Background'
 - line: Yeah, I think so, but actually, I think it's like an equivalent, but it's
     not actually the same. Geometrically it's different, but topologically it is.
     So that's the long answer to the short answer of “I was an algebraic topologist”.
@@ -150,7 +152,6 @@ transcript:
   sec: 402
   time: '6:42'
   who: Rosona
-- header: How mathematics knowledge helps in industry
 - line: So one of the skills you gained is that you know a lot of mathematics. What
     parts of these mathematics were actually useful for your industrial career?
   sec: 422
@@ -177,6 +178,7 @@ transcript:
   sec: 459
   time: '7:39'
   who: Alexey
+- header: 'Mathematical Mindset: Logical Reasoning, Proof-Style Thinking for Data'
 - line: Yeah. But I think this is also a deeper question of “How is mathematics useful?”
     And “What is mathematics?” And I think most… [Alexey chuckles] No, I'm dead serious.
     Give me a second to address this. I think most of what we learned in school of
@@ -217,6 +219,7 @@ transcript:
   sec: 570
   time: '9:30'
   who: Alexey
+- header: 'Transition Challenges: Seniority vs Domain Experience in Industry'
 - line: Oh. [chuckles thoughtfully] I mean… You mean from the point I decided to study
     pure mathematics? That was like two years of undergrad plus seven years of Master’s
     plus PhD plus six years of postdoc.
@@ -244,12 +247,12 @@ transcript:
   sec: 629
   time: '10:29'
   who: Alexey
-- header: What is industrial data?
 - line: Okay. So we actually wanted to talk about industrial data. So what is industrial
     data?
   sec: 637
   time: '10:37'
   who: Alexey
+- header: 'Defining Industrial Data: Production-Generated Datasets Explained'
 - line: Let me first make a caveat that I really like this topic. I'm working on this
     topic. But I think there are obviously people who are super experts on this. So
     before I offend anybody, industrial data is not a monolith. I think it's a great
@@ -302,6 +305,7 @@ transcript:
   sec: 726
   time: '12:06'
   who: Alexey
+- header: 'Industrial Data Spectrum: R&D Experiments, Pilot Plants, Full Production'
 - line: Right. And then within industrial data, I just want to… [audio cuts out] R&D
     data, which is small. This is why there's this like, “Oh, small R&D data,” because
     that's where I have historically been sitting. But I've been sort of half. I've
@@ -363,7 +367,7 @@ transcript:
   sec: 902
   time: '15:02'
   who: Rosona
-- header: Setting up an industrial process using blue paint
+- header: 'Process Example: Blue Paint R&D, Automation, and Scale-Up'
 - line: So if we take this example of blue paint, then the expensive experiment part
     would be combining different chemicals to see that the shade of blue is the right
     one. Then the mock-up could be like, “How can we combine it in a more automatic
@@ -392,6 +396,7 @@ transcript:
   sec: 949
   time: '15:49'
   who: Alexey
+- header: 'Long-Term Quality Testing: Weathering & the Florida Paint Test'
 - line: It's a good example. There's a lot of cool stuff with paints. Actually, another
     reason why it's expensive is that one of the standard tests you do with paints
     is called the “Florida test”. I think originally, it was like “We leave it out
@@ -422,7 +427,6 @@ transcript:
   sec: 1006
   time: '16:46'
   who: Rosona
-- header: Internet companies’ data vs industrial data
 - line: Okay. So we already discussed that industrial data is different from the usual
     internet companies’ data. So the main difference is that there is a physical process
     that creates a physical thing, most of the time, in industrial data. There is
@@ -432,6 +436,7 @@ transcript:
   sec: 1023
   time: '17:03'
   who: Alexey
+- header: 'Industrial vs Internet Data: Fixed Sensors and Heterogeneous Equipment'
 - line: Yeah, and I think it's also hard to adjust what data you get once it's productive.
     There's a lot of things that seem to surprise people and one of them is you can
     have tons of data on the productive end. Processes are not designed with data
@@ -452,13 +457,13 @@ transcript:
   sec: 1049
   time: '17:29'
   who: Rosona
-- header: Explaining industrial processes using packing peanuts
 - line: Can you maybe give an example? I don't know to what extent you can. It can
     be a made-up example of the process of creating something physical. Then, what
     kinds of things can we observe and record and use for…?
   sec: 1109
   time: '18:29'
   who: Alexey
+- header: 'Process Illustration: Packing Peanuts Production and Sensor Choices'
 - line: Sure. I'm gonna make one up. This is a made-up example. I was thinking about
     this, like, “How do I make something up?” Because I obviously shouldn’t be talking
     about work. [chuckles] So what's something that we all know and understand? I
@@ -571,6 +576,7 @@ transcript:
   sec: 1334
   time: '22:14'
   who: Alexey
+- header: 'Data Granularity & Traceability: Batching, Mixing, and Coarseness Challenges'
 - line: You might. But you have to decide. There's a person designing this process.
     This is also the thing – the person designing the process is not optimizing for
     the data collection necessarily. I feel like it's generally an afterthought. I
@@ -610,7 +616,6 @@ transcript:
   sec: 1337
   time: '22:17'
   who: Rosona
-- header: Why productive industry needs data
 - line: Okay. So we have this process. This process produces a lot of data and not
     necessarily all the data we need. But what I’m now wondering is, why do we actually
     care about this data? Do we want to make sure that the quality is good? Do we
@@ -618,6 +623,7 @@ transcript:
   sec: 1474
   time: '24:34'
   who: Alexey
+- header: 'Business Use Cases: Quality Control, Predictive Maintenance, Monitoring'
 - line: On the productive end, definitely quality. For the research end, it's “How
     do I make the best product?” And then on the production, “It's gone live. What
     am I doing?” Maybe this thing that you're doing gets turned into something else
@@ -663,13 +669,13 @@ transcript:
   sec: 1637
   time: '27:17'
   who: Rosona
-- header: Measuring product qualities
 - line: The other thing you mentioned is maybe the qualities of this thing. For example,
     when you squash them, they need to recover their shape. Maybe there is a part
     of the process that does that and we also record it?
   sec: 1641
   time: '27:21'
   who: Alexey
+- header: 'Quality Measurement Methods: Inline Monitoring vs Destructive Tests'
 - line: 'We should also talk about tiny data. [chuckles] We should also talk about
     R&D, but this one''s much easier because I think it''s understandable and faster.
     But my impression is that there are two kinds of quality controls: live, on the
@@ -693,13 +699,13 @@ transcript:
   sec: 1691
   time: '28:11'
   who: Rosona
-- header: How data specialists use industrial data
 - line: But what I was going to ask is – as a data person, what do you do with this
     data? How do you use it? Do you build all these anomaly detection models that
     we just talked about? Or is there more?
   sec: 1723
   time: '28:43'
   who: Alexey
+- header: 'From Alerts to Action: Anomaly Detection and Human Decisioning'
 - line: Yeah, you can certainly do that. There are people who are adjacent to data
     science, or maybe in the broader data science family. You can also talk about
     econometrics, people who are computational scientists – I don't know how they
@@ -723,7 +729,6 @@ transcript:
   sec: 1734
   time: '28:54'
   who: Rosona
-- header: Defining and measuring sustainability
 - line: I have no idea how it works in this industry, but in internet companies (where
     I work) it works like this. There is a problem, users complain, or we want to
     improve something. We think, “Okay, what kind of data do we have for that?” And
@@ -739,6 +744,7 @@ transcript:
   sec: 1824
   time: '30:24'
   who: Alexey
+- header: 'Regulatory & Sustainability Tracking: New Requirements and Data Gaps'
 - line: In answer to what you were just saying, I was thinking of a new requirement.
     Right? Your downstream customer says, “Actually, we really want to track X. We
     have sustainability requirements.” And then suddenly, it's a new requirement.
@@ -783,7 +789,6 @@ transcript:
   sec: 1920
   time: '32:00'
   who: Rosona
-- header: Using data in reactionary measures to changing regulations
 - line: Do you have other examples (different examples) for these kinds of problems?
   sec: 2009
   time: '33:29'
@@ -843,6 +848,7 @@ transcript:
   sec: 2117
   time: '35:17'
   who: Alexey
+- header: 'Tiny Data R&D: Reformulation and Experimental Design After Regulation'
 - line: This actually would be a good transition into small data. Because at that
     point, if there's a law that says – well, I don't think there was a law about
     BPA, but whatever – if there's a customer demand or a law that says, “We cannot
@@ -915,6 +921,7 @@ transcript:
   sec: 2299
   time: '38:19'
   who: Alexey
+- header: 'Reusing Historical Experiments: Informing Product Redevelopment'
 - line: I don't know, whatever. Something happens and we have to remove one of the
     components of this blue dye. All production on it gets stopped. We go back to
     R&D. So if it's something like that, where you're redeveloping something, that's
@@ -933,11 +940,11 @@ transcript:
   sec: 2333
   time: '38:53'
   who: Rosona
-- header: Types of industrial data
 - line: What kind of data is there? For example, paint or packing peanuts or whatever.
   sec: 2336
   time: '38:56'
   who: Alexey
+- header: 'Industrial Data Types: Ingredients, Spectra, Material Properties, Tests'
 - line: I'll try to give you a spectrum. Oh! That's a great example, actually – spectra.
     It depends on what stage of the process we're at, honestly. A year ago, I was
     working with polymers so I know a little more about polymers. There's a paper,
@@ -989,6 +996,7 @@ transcript:
   sec: 2493
   time: '41:33'
   who: Alexey
+- header: 'Proxy Metrics & Application Tests: Measuring End-Product Behavior'
 - line: You also measure your stuff. There are several kinds of measurements you can
     make. This is a beautiful transition. Thank you for the question. There's material
     properties, like hardness. There's different kinds of hardness. Viscosity, which
@@ -1067,11 +1075,11 @@ transcript:
   sec: 2680
   time: '44:40'
   who: Rosona
-- header: Solving problems and optimizing with industrial data
 - line: But as a data scientist, what do you do with this?
   sec: 2684
   time: '44:44'
   who: Alexey
+- header: 'Optimization Problems: Logistics, Mathematical Solvers, Trade-offs'
 - line: As a data scientist, at that point, the reason that they're coming to you
     is that they want to optimize something. This is a slight divergence to – if you
     like mathematical optimization or Villard mathematical optimization, there are
@@ -1141,7 +1149,6 @@ transcript:
   sec: 2852
   time: '47:32'
   who: Rosona
-- header: Industrial solvers
 - line: Well, let's say for this hypothetical example of a cake. What would you use?
   sec: 2859
   time: '47:39'
@@ -1198,6 +1205,7 @@ transcript:
   sec: 2956
   time: '49:16'
   who: Alexey
+- header: 'Modeling Small Data: Statistical Methods, Transfer Learning, Domain Experts'
 - line: Now I have to figure out if I can answer your question at all? [chuckles]
     We do have hack… “We” now I'm talking from my company's perspective. There are
     hackathons that are faced to the outside world. And that's not a bad place to
@@ -1224,6 +1232,7 @@ transcript:
   sec: 3031
   time: '50:31'
   who: Alexey
+- header: 'MLOps Fit: Sparse R&D Models vs High-Volume Production Deployments'
 - line: Well, that's another problem. Yeah. If you don't want to do optimization,
     if you don't want to do “What's the best formulation for this cake,” which is
     what I was working on, then what you want is, “Given these things, what's going
@@ -1242,13 +1251,13 @@ transcript:
   sec: 3044
   time: '50:44'
   who: Rosona
-- header: Tiny data vs Big data in productive industry
 - line: Well, since you mentioned MLOps, I'm wondering – in internet companies, I
     know that people use Kubernetes and all this stuff, Cloud for deploying the models.
     I imagine that this is a pretty different situation in the real industry.
   sec: 3102
   time: '51:42'
   who: Alexey
+- header: 'Production-Scale Data: Streaming, Big Data Processing, Real-Time Alerts'
 - line: If you go to the productive side, I would say that it should feel to you like
     everywhere else. So if you're coming from anywhere else in IT. Can we call IT?
     In the data space. If you're working in the data space, and you're used to how
@@ -1290,7 +1299,7 @@ transcript:
   sec: 3215
   time: '53:35'
   who: Alexey
-- header: The advantages of coming from academia into productive industry
+- header: 'Domain Knowledge Value: Tacit Expertise Beyond the CSV'
 - line: You don't even just look at them. I appreciate your summary and I like what
     you're doing and you're trying to bring us to an end. But I think part of what's
     really interesting is you have to learn about the data. If you're a scientist
@@ -1328,6 +1337,7 @@ transcript:
   sec: 3340
   time: '55:40'
   who: Alexey
+- header: 'Collaborative Workflow: EDA, Definitions, and Aligning Measurements'
 - line: No. First you talk to them and you ask them what the problem is, and that
     you understand it. Then they explain the process to you and what everything means
     and then you go digest it. You do your EDA, and you come back and you're like,
@@ -1346,7 +1356,6 @@ transcript:
   sec: 3344
   time: '55:44'
   who: Rosona
-- header: Materials and resources for industrial data
 - line: There any open materials about this subject? Courses, books, whatever, where
     people can just go and learn about this?
   sec: 3409
@@ -1360,6 +1369,7 @@ transcript:
   sec: 3422
   time: '57:02'
   who: Alexey
+- header: 'Learning Resources: Sensor Datasets and Semiconductor Anomaly Repos'
 - line: No, no. I mean, I'm happy to try to figure out the answer to that question.
     I wish I had gotten you an answer beforehand. I did put on this document – there's
     this machine learning repository, which has a very realistic dataset on sensors.
@@ -1391,7 +1401,6 @@ transcript:
   sec: 3496
   time: '58:16'
   who: Rosona
-- header: Women in industry
 - line: Yeah, there was a question. There's one – I don't know, it’s a bit personal
     if you want to answer that or not. Are you the only woman on the team?
   sec: 3499
@@ -1413,7 +1422,7 @@ transcript:
   sec: 3534
   time: '58:54'
   who: Rosona
-- header: Why Rosona decided to shift to industrial data
+- header: 'Career Motivation: Choosing Industry Over Academia'
 - line: Yeah, we have more questions, but I think we already answered some of them.
     For the rest it’s “Can you talk more about your decision to work in industry?”
     It will probably require another episode and another interview. So maybe we can
@@ -1447,6 +1456,7 @@ transcript:
   sec: 3632
   time: '1:00:32'
   who: Alexey
+- header: 'Industry Work Culture: Shop Floor Interactions and Research Flavor'
 - line: Six years ago, it was “I need a job.” [laughs] And then three years ago it
     was the way the project was pitched to me, which was, “Hey, we're effectively
     this little research group in industry and we have all these POCs. We want someone
@@ -1487,6 +1497,7 @@ transcript:
   sec: 3741
   time: '1:02:21'
   who: Rosona
+- header: 'Conclusion: Key Takeaways and Next Steps'
 - line: Yeah. Well, I think that's all we have time for today. Thanks a lot. That
     was a really good discussion. I'm pretty hungry now after talking about peanuts
     and cakes. [laughs] I should probably go and eat something. Thanks again. And

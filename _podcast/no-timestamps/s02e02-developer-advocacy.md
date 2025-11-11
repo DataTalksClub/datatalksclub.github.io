@@ -15,6 +15,9 @@ links:
   spotify: https://open.spotify.com/episode/6Hq0ZGPTkDk1h8orfCU78I
   apple: https://podcasts.apple.com/us/podcast/developer-advocacy-for-data-science-elle-obrien/id1541710331?i=1000506315396
 transcript:
+- header: Podcast Introduction
+- header: 'Introduction: Developer Advocacy for Data Science — Elle O''Brien (Iterative,
+    DVC, CML)'
 - line: This week, we'll talk about the developer advocate role and not just the usual
     type of developer advocate, but a developer advocate in data science. We have
     a special guest today, Elle O'Brien. Elle is a data scientist at Iterative, which
@@ -38,7 +41,7 @@ transcript:
   sec: 245
   time: '4:05'
   who: Elle
-- header: Elle’s background
+- header: 'Background: Neuroscience research, PhD, and computational modeling'
 - line: Before we go into our main topic of developer advocacy, maybe you can tell
     us a bit about your background? What have you done so far and how did you get
     into data science?
@@ -93,6 +96,7 @@ transcript:
   sec: 459
   time: '7:39'
   who: Elle
+- header: 'Teaching focus: Applied Data Science curriculum & research reproducibility'
 - line: '[laughs] Okay. So you''ll be teaching, among other things, the tools of how
     to make research reproducible?'
   sec: 470
@@ -125,7 +129,7 @@ transcript:
   sec: 547
   time: '9:07'
   who: Elle
-- header: Becoming a developer advocate
+- header: 'Career pivot: Viral StyleGAN project to DevRel role at Iterative'
 - line: When I talked to you on Twitter and asked about this – when I reached out
     to you saying, “Hey, I want to talk to somebody about this developer advocacy
     role.” You replied that this is such an interesting job and that you had no idea
@@ -171,7 +175,7 @@ transcript:
   sec: 738
   time: '12:18'
   who: Elle
-- header: A day in the life of Elle
+- header: 'Role scope: product work, CML, docs, PRs, videos, and hiring'
 - line: That's a nice story. But your job is not just DevRel – you're also doing data
     science things. You're also involved in creating these tools, right? So what does
     your day look like? What do you do at Iterative?
@@ -211,7 +215,7 @@ transcript:
   sec: 759
   time: '12:39'
   who: Elle
-- header: Being a team of one
+- header: 'Prioritization as a solo DevRel: scheduling releases vs evergreen content'
 - line: So, you're doing a lot of blog posts, a lot of speaking, and videos. I see
     that you post videos constantly on your YouTube channel. Then, you also create
     reproducible code snippets. That's a lot of things. How do you decide which to
@@ -240,7 +244,8 @@ transcript:
   sec: 932
   time: '15:32'
   who: Elle
-- header: Promoting releases
+- header: 'Release promotion: real‑time engagement on Hacker News, Reddit, and social
+    media'
 - line: So it's more like a feeling. Plus, if there is a certain release, you know
     that you will need to prepare for this release – prepare some supporting material,
     good recommendations, good use cases. Do you also need to stick around on Hacker
@@ -261,7 +266,7 @@ transcript:
   sec: 1032
   time: '17:12'
   who: Elle
-- header: Dealing with toxicity
+- header: 'Managing toxicity: choosing communities and setting boundaries'
 - line: Also, in Hacker News, it's anonymous – people can just register there and
     write pretty much whatever they want. Sometimes the level of toxicity there in
     this community is pretty high, I would say. How to deal with that? It's probably
@@ -292,7 +297,8 @@ transcript:
   sec: 1095
   time: '18:15'
   who: Elle
-- header: Developer advocate job description
+- header: 'DevRel job realities: content creation, community management, and support
+    trade‑offs'
 - line: Yeah, thank you. Since I was pretty curious about this role, I decided to
     just take a random job description of a developer advocate for a company and see
     what it says. I found this in some Slack, and it said in the responsibilities
@@ -351,6 +357,7 @@ transcript:
   sec: 1422
   time: '23:42'
   who: Alexey
+- header: 'Community feedback: being the product signal and user insight channel'
 - line: Yeah, I mean, I try. Well, I think the idea is that if you hang around the
     community a lot, you will pick up on what issues people are having – what bugs
     they have, what feature requests, what big blocks exist that prevent them from
@@ -383,6 +390,7 @@ transcript:
   sec: 1431
   time: '23:51'
   who: Elle
+- header: 'Community metrics: signals, analytics, and full‑time analysis potential'
 - line: Yeah, it makes sense. So basically, it's more a description of a full stack
     role, right? For example, in full stack data science, we have somebody who can
     talk to stakeholders, build data pipelines, train a model, roll the model out
@@ -400,7 +408,7 @@ transcript:
   sec: 1607
   time: '26:47'
   who: Elle
-- header: DevRel vs developer advocates vs evangelists
+- header: 'Role distinctions: DevRel, developer advocate, and evangelist explained'
 - line: I often come across the developer advocate role, and then there is also a
     role also called DevRel. Are they similar? Are they the same? Are they different?
     What do you think?
@@ -445,7 +453,7 @@ transcript:
   sec: 1732
   time: '28:52'
   who: Elle
-- header: Dealing with the downsides of DevRel
+- header: 'Risks of DevRel: online abuse, burnout, and public scrutiny'
 - line: Actually, the reason I'm interested in this role is because some time ago,
     somebody from AWS reached out to me saying, “Hey, we have this position called
     developer advocate.” And I never actually thought about this position at all back
@@ -475,6 +483,7 @@ transcript:
   sec: 1819
   time: '30:19'
   who: Elle
+- header: 'Safety practices: anonymity, moderation, and peer solidarity'
 - line: So how can you deal with that? Let's say somebody is really excited about
     this position or this role, but there are these downsides. Do you have any recommendations
     to people on how to deal with this online abuse on the internet?
@@ -521,6 +530,7 @@ transcript:
   sec: 1904
   time: '31:44'
   who: Elle
+- header: 'Rewards of DevRel: visibility, speaking invites, and career opportunities'
 - line: Yeah, it's sad. But there are definitely advantages for this role, right?
     Do you think it is a springboard to becoming famous or not really?
   sec: 2068
@@ -570,7 +580,7 @@ transcript:
   sec: 2158
   time: '35:58'
   who: Elle
-- header: Skills for DevRel
+- header: 'Core skills: technical credibility, rapid learning, and clear communication'
 - line: For somebody who wants to become a DevRel, what kind of skills do they need
     to develop?
   sec: 2211
@@ -621,6 +631,7 @@ transcript:
   sec: 2369
   time: '39:29'
   who: Elle
+- header: 'Nontechnical pathways: learning in public and building a portfolio'
 - line: How important is it to have a technical background? For example, the videos
     you make are about technical tools. You need to know all these things at a pretty
     good level, right? You also need to be able to answer questions, not just at the
@@ -638,7 +649,6 @@ transcript:
   sec: 2371
   time: '39:31'
   who: Alexey
-- header: Diversity of backgrounds
 - line: Alexey
   sec: 2371
   time: '39:31'
@@ -678,6 +688,7 @@ transcript:
   sec: 2420
   time: '40:20'
   who: Elle
+- header: 'Getting started: blogging, tutorials, Twitter, and content examples'
 - line: So basically, if somebody is not super technical or doesn't work as a software
     engineer right now, one way of getting this position and becoming a developer
     advocate would be learning in public, right? You just learn something, put it
@@ -697,6 +708,7 @@ transcript:
   sec: 2575
   time: '42:55'
   who: Elle
+- header: 'Backgrounds & personality: creativity, humor, and relatability in DevRel'
 - line: Yeah, it makes sense. You talked to other developer advocates and DevRels
     – what kind of backgrounds do they have? What kind of background did they have
     before becoming DevRels? Is there some pattern that you saw? Were they usually
@@ -725,7 +737,7 @@ transcript:
   sec: 2686
   time: '44:46'
   who: Alexey
-- header: Is DevRel for me?
+- header: 'Assessing fit: hobby vs job, community inclination, and time commitment'
 - line: So the background doesn't really matter in this case, right? There are some
     people who were computer software engineers in the past, some from marketing,
     or somebody that even has a background in history. But let's say that this role
@@ -765,7 +777,7 @@ transcript:
   sec: 2772
   time: '46:12'
   who: Elle
-- header: Growth hacking and metric boosts
+- header: 'Audience growth: metrics, growth‑hacking versus sustainable strategies'
 - line: You mentioned that people don't consider that it will involve a lot of growth
     hacking and things like that. But it actually does involve these things, right?
   sec: 2886
@@ -809,6 +821,7 @@ transcript:
   sec: 3008
   time: '50:08'
   who: Alexey
+- header: 'Branding & engagement: mascots, tone, and consistent visuals (Divi owl)'
 - line: I have the owl. Yeah. I always have the owl.
   sec: 3019
   time: '50:19'
@@ -841,7 +854,7 @@ transcript:
   sec: 3089
   time: '51:29'
   who: Elle
-- header: Importance of teaching
+- header: 'Teaching & DevRel synergy: curriculum design and reusable video content'
 - line: We don't have a lot of time left, so let me quickly check if we have questions.
     Yeah, we don't. Except from Angel who was saying that he wasn't a troll. Sorry
     about that. Yeah. I'm also interested in this – you mentioned that you're going
@@ -883,6 +896,8 @@ transcript:
   sec: 3164
   time: '52:44'
   who: Elle
+- header: 'University plans: recording lectures and open educational resources on
+    YouTube'
 - line: So you plan to record videos and put them online?
   sec: 3286
   time: '54:46'
@@ -920,7 +935,8 @@ transcript:
   sec: 3386
   time: '56:26'
   who: Alexey
-- header: Finding Elle online
+- header: 'Closing thoughts: encouraging diverse DevRels and where to follow Elle
+    (Twitter, YouTube, LinkedIn)'
 - line: Okay. Thanks a lot for coming today and sharing your experience with us. Do
     you have any last words? Where can people find you?
   sec: 3399
@@ -943,6 +959,7 @@ transcript:
   sec: 3407
   time: '56:47'
   who: Elle
+- header: Episode Wrap‑up and Farewell
 - line: Yes. Thanks a lot for being here today and sharing your experience. And thanks
     everyone else for being here as well. Let's see each other again next week. Thanks,
     Elle. Goodbye.

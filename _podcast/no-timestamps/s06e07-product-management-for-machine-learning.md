@@ -15,6 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/7zfH4hagZKwoIWmee0AXBd
   apple: https://podcasts.apple.com/us/podcast/product-management-for-machine-learning-geo-jolly/id1541710331?i=1000545301034
 transcript:
+- header: 'Episode Introduction: Product Management for Machine Learning'
+- header: 'Guest Overview: Geo and episode focus on AI Product Manager role'
 - line: This week, we'll talk about the AI Product Manager role. We have a special
     guest today, Geo. Both Geo and I studied on the same program, which was information
     technologies for business intelligence. I did this a few years earlier. After
@@ -29,13 +31,13 @@ transcript:
   sec: 102
   time: '1:42'
   who: Geo
-- header: Geo’s background
 - line: Yeah, thanks for coming. Before we go into our main topic of the AI/ML product
     manager role, let's start with your background. Can you tell us about your career
     journey so far?
   sec: 104
   time: '1:44'
   who: Alexey
+- header: 'Career Journey: From web/dev to data science to product management'
 - line: Yeah, definitely. I think that will help the audience as well. My background
     is mostly computer science engineering, which is what I studied for my Bachelor's.
     I think most of my initial interactions were more Lean, like pure software development
@@ -104,7 +106,7 @@ transcript:
   sec: 354
   time: '5:54'
   who: Geo
-- header: Technical Product Manager
+- header: 'Glovo Role: Leading ML platform strategy and team responsibilities'
 - line: Can you tell us more about what Glovo does and what you do there as a technical
     PM?
   sec: 388
@@ -134,12 +136,12 @@ transcript:
   sec: 396
   time: '6:36'
   who: Geo
-- header: Building ML platform
 - line: You said, “Lead a team that manages the ML platform.” Does this mean that
     you're building your own platform, or you have some other platform that you manage?
   sec: 510
   time: '8:30'
   who: Alexey
+- header: In-house MLOps Platform Strategy & Vendor Evaluation
 - line: We are building our own. It's an in-house solution. Essentially, we have a
     legacy platform right now. Maybe legacy is maybe a bit of a harsh term to use
     since it’s just three years old. But the thing is – industry is going so fast
@@ -159,6 +161,7 @@ transcript:
   sec: 584
   time: '9:44'
   who: Alexey
+- header: 'Product Manager Responsibilities: Roadmap, specs, and stakeholder balance'
 - line: Yeah. Essentially, my role would be to take ongoing feedback from data scientists.
     I discuss it with them – I may not speak to every data scientist, but I usually
     speak with data science leads or managers of data scientists – I take their feedback
@@ -180,13 +183,13 @@ transcript:
   sec: 590
   time: '9:50'
   who: Geo
-- header: Working on internal projects
 - line: Interesting. So this is an internal product, meaning that you are not a customer-facing
     team, right? So what is the main idea behind your role? Why does the company have
     a product manager for an internal team?
   sec: 669
   time: '11:09'
   who: Alexey
+- header: 'Internal Platform Users as Customers: ROI and adoption considerations'
 - line: Yeah, that's a very good point. Even though it's internal, in the end, there
     are 100+ people using this platform. They are the customers for this platform.
     We need to accelerate the quality of the models – we need faster time to deployment.
@@ -223,6 +226,7 @@ transcript:
   sec: 817
   time: '13:37'
   who: Alexey
+- header: 'Platform Usability Costs: Productivity losses from poor tooling UX'
 - line: Yeah. Usually what happens is that developers may say, “Hey, this tool is
     cool. Let's integrate it.” They integrate it. In the end, you will have a platform
     that has a bunch of tools or libraries, or even multiple UIs. A person comes in
@@ -238,7 +242,6 @@ transcript:
   sec: 824
   time: '13:44'
   who: Geo
-- header: Prioritizing the backlog
 - line: How do you help to actually do this? You said you prioritize things, collect
     requirements, and the requirements come from different sources. So this can be
     something like – you saw a demo from some external tool or somebody complained
@@ -247,6 +250,7 @@ transcript:
   sec: 895
   time: '14:55'
   who: Alexey
+- header: 'Backlog Prioritization: Grooming with engineering and Agile practices'
 - line: The prioritization process is done with the development team. We have engineering
     managers and usually, the product managers work very closely with engineering
     managers and the development team itself. The product managers try to define what
@@ -266,7 +270,6 @@ transcript:
   sec: 919
   time: '15:19'
   who: Geo
-- header: Defining the problems
 - line: Interesting. You mentioned one important thing – that your job as a product
     manager is to think about problems. So you define a problem? But then, you're
     not thinking about the solution, the engineering team thinks about the solution.
@@ -274,6 +277,7 @@ transcript:
   sec: 987
   time: '16:27'
   who: Alexey
+- header: 'Outcome-Driven Problem Definition: Metrics over immediate solutions'
 - line: Well, it's actually quite a complex topic to discuss. The danger is that often,
     people don't really understand the problem first, and they go directly into solutions
     instead. That's very dangerous, in my opinion. I have seen examples where people
@@ -295,13 +299,13 @@ transcript:
   sec: 1004
   time: '16:44'
   who: Geo
-- header: Observability metrics
 - line: So, you mean KPIs and things like that, right? How can you measure that your
     platform is good? How do you measure it – if you reduce the time that a data scientist
     spent with your platform? It's very hard to track, right?
   sec: 1092
   time: '18:12'
   who: Alexey
+- header: 'ML Observability: KPIs and measuring platform impact'
 - line: These things are hard to track, so you have to build observability metrics.
     You need to push more metrics to maybe Datadog or whatever observability tools
     you're using. I would say this is an interesting topic that even industry is hard-pressed
@@ -310,7 +314,6 @@ transcript:
   sec: 1105
   time: '18:25'
   who: Geo
-- header: Avoiding jumping into “solution mode”
 - line: Yeah. The question I actually had when asking that is – I know that you have
     an engineering background. You spent some time doing Java development and you
     spent some time doing data science. Maybe not now, but some time ago, you were
@@ -320,6 +323,7 @@ transcript:
   sec: 1136
   time: '18:56'
   who: Alexey
+- header: 'Avoiding Solution Bias: Techniques to resist jumping into solutions'
 - line: Yeah. That's actually a very good question. It's also one of the hardest things
     that you struggle with on a daily basis as a PM. I think it's the mindset of a
     PM where you need to actually think more about the problem itself. Sure, I think
@@ -341,13 +345,13 @@ transcript:
   sec: 1169
   time: '19:29'
   who: Geo
-- header: Breaking down the problem
 - line: Yeah. Interesting. You said you spend a lot of time trying to understand the
     problem and break it down. Do you do this alone or the whole team is involved?
     What does the process usually look like?
   sec: 1255
   time: '20:55'
   who: Alexey
+- header: 'Collaborative Problem Breakdown: Workshops, interviews, and user input'
 - line: Yes, sometimes. The whole team is involved In some of the cases. It’s mostly
     with the actual users, which can depend on the job I do. In the previous job,
     it was sometimes with regulators or compliance managers and some customers. Right
@@ -361,12 +365,12 @@ transcript:
   sec: 1266
   time: '21:06'
   who: Geo
-- header: Important skills for product managers
 - line: Would you say speaking, communicating, and prioritization are the main skills
     you need to have as a product manager?
   sec: 1325
   time: '22:05'
   who: Alexey
+- header: 'Core PM Skills: Communication, prioritization, and continuous learning'
 - line: Ideally, yes. I think those are the key drivers. As a product manager, most
     of your schedule is built around communication, so you spend a lot of time in
     discussions with people. Good communication is a very important skill to have.
@@ -385,6 +389,7 @@ transcript:
   sec: 1399
   time: '23:19'
   who: Alexey
+- header: 'Technical Literacy: Model architectures, data infra, and cloud concepts'
 - line: In my specific case, since I’m closer to the ML world, I would say it's also
     important to understand the market or where the industry is going with machine
     learning. This includes machine learning ops and engineering practices, cloud
@@ -414,13 +419,13 @@ transcript:
   sec: 1408
   time: '23:28'
   who: Geo
-- header: The importance of a technical background
 - line: How important do you think it is to have a technical background for a technical
     product manager? I’m guessing you studied all the things you mentioned and you
     probably also know them from your work.
   sec: 1516
   time: '25:16'
   who: Alexey
+- header: 'Technical Background Value: Why platform PMs need tooling familiarity'
 - line: We have different kinds of product managers and we can go into that later.
     But in my kind of role, I would say it's very important. If you're communicating
     with data scientists often, you need to understand things like the lifecycle of
@@ -450,7 +455,6 @@ transcript:
   sec: 1531
   time: '25:31'
   who: Geo
-- header: Data Lead vs Staff Data Scientist vs Data PM
 - line: Thanks. We have quite an interesting question. What you described is, to some
     extent, quite similar to what I do. Although I'm not a product manager, there
     is some overlap, like discussing architecture, talking to data scientists and
@@ -472,6 +476,7 @@ transcript:
   sec: 1708
   time: '28:28'
   who: Alexey
+- header: 'Role Differences: Data Science Lead / Staff vs Technical ML Product Manager'
 - line: Okay. Now I get it. I also work with Staff Data Scientists and Staff Engineers
     as well. The main difference is that they don't drive a roadmap. Or rather they
     may drive one of the items in the roadmap. For example, they may own a work stream
@@ -521,6 +526,7 @@ transcript:
   sec: 1881
   time: '31:21'
   who: Alexey
+- header: 'Release Governance & Rollout Strategy: Approvals, compliance, and timing'
 - line: Sure, definitely. Usually data science leads will have ownership of multiple
     scopes within the same product. Let's say a product is for recommendations and
     these recommendations may have multiple types. This is a bigger scope. What I've
@@ -550,7 +556,6 @@ transcript:
   sec: 1888
   time: '31:28'
   who: Geo
-- header: Approvals and rollout
 - line: It seems like product managers have more responsibilities here because this
     is them saying, “This should be approved.” Especially when it comes to regulations,
     the liability or responsibility is much greater. It’s ultimately the PM’s decision
@@ -576,6 +581,7 @@ transcript:
   sec: 2101
   time: '35:01'
   who: Alexey
+- header: 'Adoption Strategy: "Time to stakeholders" and internal rollouts'
 - line: Right now, yes. But I would still say that some of the features and capabilities
     that we release, it is also important for me to understand who will adopt it and
     how many people will use it. It's not feasible for everyone in the company to
@@ -599,7 +605,6 @@ transcript:
   sec: 2166
   time: '36:06'
   who: Geo
-- header: Engineering/platform teams
 - line: When you say “engineering team,” do you include data scientists? Or are you
     talking mostly about backend developers?
   sec: 2196
@@ -623,6 +628,7 @@ transcript:
   sec: 2260
   time: '37:40'
   who: Alexey
+- header: 'Engineering Roles in ML Platforms: Backend, syseng, CI/CD, and K8s'
 - line: We define the user journey of the data scientists starting with offline experimentation,
     such as what notebooks are offering infrastructure for this. Then you have data
     management, which is a huge area. You need to integrate with the data lake, data
@@ -656,13 +662,13 @@ transcript:
   sec: 2268
   time: '37:48'
   who: Geo
-- header: Data scientists’ role in the engineering team
 - line: You mentioned that there also are a couple of data scientists who would take
     care of offline experiments. Did I understand it correctly, or are they more like
     users and not necessarily in your team?
   sec: 2403
   time: '40:03'
   who: Alexey
+- header: 'Embedded Data Scientists: Power users, developer advocates, and demos'
 - line: We have a couple of data scientists, but they don't actually own any particular
     parts of the user journey right now. They are very focused on tooling, such as
     data science tooling, A/B testing tools, data quality tools. We also have a core
@@ -694,13 +700,13 @@ transcript:
   sec: 2488
   time: '41:28'
   who: Geo
-- header: Scrum and Agile in data science
 - line: Interesting. You mentioned Jira tickets and then there is a comment that says
     Scrum doesn't work for data science projects. So what do you think is the best
     way to manage data science projects?
   sec: 2521
   time: '42:01'
   who: Alexey
+- header: 'Agile for Data Science: Kanban, Scrum, and adapting to research work'
 - line: There is no best way, in my opinion. I don't think that there is a singular
     answer to this. I think it's very subjective to the team, the company, and the
     culture. You need to try different methodologies accordingly. When I started in
@@ -740,7 +746,7 @@ transcript:
   sec: 2653
   time: '44:13'
   who: Geo
-- header: Transitioning from Data Scientist to Technical PM
+- header: 'Transition Path: Moving from Data Scientist to Technical Product Manager'
 - line: Thanks. I'm quite interested in your career journey, or rather in your transition.
     When you decided, “Now I want to have a larger impact. I want to do less hands-on
     work and focus more on defining problems rather than solutions.” So from the moment
@@ -817,12 +823,12 @@ transcript:
   sec: 2969
   time: '49:29'
   who: Geo
-- header: Books to read for the transition
 - line: You also said that you took some time to prepare and that you did some reading.
     Do you remember what kind of reading you did? What did you read?
   sec: 2976
   time: '49:36'
   who: Alexey
+- header: 'Recommended Resources: Books and communities for PM transition'
 - line: Yeah. There are books called “How to Crack a PM Interview” and “How to Crack
     a Coding Interview.” I read the coding interview one when I was applying for engineering
     jobs. After that, I read Cracking the PM Interview. I think there are a lot of
@@ -874,12 +880,12 @@ transcript:
   sec: 3079
   time: '51:19'
   who: Geo
-- header: Transitioning for non-technical people
 - line: Okay, thanks. What do you think about people who do not work as data scientists
     right now? Or engineers? Can they become machine learning product managers?
   sec: 3150
   time: '52:30'
   who: Alexey
+- header: 'Non‑Technical Transitions: Feasibility of moving into ML product roles'
 - line: It's easier for them to become a traditional software engineering PMs, I would
     say. Because in this role, you go into writing specifications, understanding the
     requirements, etc.. If they have some understanding of machine learning philosophy,
@@ -918,7 +924,6 @@ transcript:
   sec: 3275
   time: '54:35'
   who: Geo
-- header: Doing user research
 - line: Interesting. Thanks. We have quite a few questions, but I don't think we'll
     be able to cover all of them. But let's try to cover at least a couple. There
     is a question from Eva, which reads “How do you deal with user research and the
@@ -934,6 +939,7 @@ transcript:
   sec: 3339
   time: '55:39'
   who: Alexey
+- header: 'User Research for Internal Platforms: Surveys and Happiness Reports'
 - line: Yeah. User research, in my case, I'm assuming is more the data scientists
     and how they're using the platform. Right now, what I do is speak with data scientists
     and data science leads on a monthly basis. We have follow up sessions with them
@@ -956,12 +962,12 @@ transcript:
   sec: 3344
   time: '55:44'
   who: Geo
-- header: Quality assurance in ML
 - line: Thanks. Another question from Eva is, “What do you think about quality assurance
     people? What is their role in ML products?”
   sec: 3429
   time: '57:09'
   who: Alexey
+- header: 'ML Quality Assurance: Model validation, shadowing, and release checklists'
 - line: We didn't have QAs in the last two companies I worked – Typical QAs, if I
     understand the question correctly. In Revolute, the expectation is that the engineers,
     data scientists, and MLEs should do the QA of their own code. As a product manager,
@@ -995,7 +1001,6 @@ transcript:
   sec: 3564
   time: '59:24'
   who: Geo
-- header: Advice for supporting an ML team as a Scrum master
 - line: There is another question also from Eva. Thanks Eva for asking questions.
     “Do you have any tips for somebody who is working as a scrum master right now
     (someone who is totally new to machine learning) and they need to support a machine
@@ -1004,6 +1009,7 @@ transcript:
   sec: 3562
   time: '59:22'
   who: Alexey
+- header: 'Scrum Master to PM Advice: Leverage Agile skills and learn ML basics'
 - line: I am not sure I understood the question correctly. Usually, a scrum master,
     if I understand the role, is mostly about running Agile practices. This is something
     I also do sometimes as a product manager. If the question refers to extending
@@ -1035,12 +1041,12 @@ transcript:
   sec: 3696
   time: '1:01:36'
   who: Geo
-- header: Wrapping up
 - line: Okay. Yeah, thanks. I think we should be wrapping up. Is there anything else
     you would like to mention before we finish?
   sec: 3702
   time: '1:01:42'
   who: Alexey
+- header: 'Final Thoughts: PM demands, scope, and career realities'
 - line: No. I just wanted to say thanks a lot for inviting me to share. Also one thing
     about product management – I think it's also important that people don't think
     this job is quite “chill.” It's a very demanding job. You should always think
@@ -1069,6 +1075,7 @@ transcript:
   sec: 3778
   time: '1:02:58'
   who: Geo
+- header: 'Contact & Hiring: Geo on LinkedIn and Glovo opportunities'
 - line: If somebody wants to apply or somebody wants to ask you a question, what's
     the best way to find you?
   sec: 3815

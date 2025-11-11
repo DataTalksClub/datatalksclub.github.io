@@ -16,6 +16,7 @@ links:
   spotify: https://open.spotify.com/episode/23VxmAEkKUs1kjaludRQAR
   apple: https://podcasts.apple.com/us/podcast/humans-in-the-loop-lina-weichbrodt/id1541710331?i=1000530535704
 transcript:
+- header: 'Episode Introduction: Humans in the Loop — MLOps & human-centered ML'
 - line: Today, we will talk about the human aspect in ML Ops. We have a special guest
     today, Lina. Lina has over nine years of industry experience in developing scalable
     machine learning models and bringing them into production. She currently works
@@ -39,12 +40,12 @@ transcript:
   sec: 198
   time: '3:18'
   who: Lina
-- header: Lina’s background
 - line: Before we go into our main topic, let's start with your background. Can you
     tell us about your career journey as well?
   sec: 201
   time: '3:21'
   who: Alexey
+- header: 'Guest Career Path: Lina Weichbrodt — business to ML engineering'
 - line: Yes. Originally, I was very entrepreneur-minded and I started to study business.
     I got hooked onto programming and basically never left. I moved over to computer
     science. Since then, I've worked a little bit as an architect at Zalando, which
@@ -73,7 +74,7 @@ transcript:
   sec: 283
   time: '4:43'
   who: Lina
-- header: What we need to remember when starting a project (checklists)
+- header: 'Project Intake Checklist: business case, KPIs, and alternative solutions'
 - line: Okay. Today, we're talking about humans in loop and keeping people in the
     loop. When we start a project, what important things do we need to remember? What
     is the checklist that we need to go through before we do this?
@@ -145,6 +146,7 @@ transcript:
   sec: 555
   time: '9:15'
   who: Alexey
+- header: 'Evaluate AI Necessity: quantify alternatives before modeling'
 - line: Don’t forget – “Do you even need AI?” Some things really do not need the AI
     to be involved. Sometimes stakeholders cannot understand the difference between
     something like a personalized pipeline or just a data pipeline which puts some
@@ -153,7 +155,6 @@ transcript:
   sec: 583
   time: '9:43'
   who: Lina
-- header: Make sure the problem is formalized and close to the core business
 - line: You also said, “You need to be specific about the business problem that you're
     solving.” So it's not just “Hey, do something cool. Here's this idea.” Instead
     it should answer “What business problem does this solve?” – and the closer the
@@ -162,6 +163,7 @@ transcript:
   sec: 604
   time: '10:04'
   who: Alexey
+- header: 'Problem Scoping: make business problems specific and UI-visible'
 - line: Sometimes I have colleagues who come up to me and say “Oh, this is so cool.
     We should do a new algorithm.” But in real life, it rarely gives a successful
     product. In the end – you cannot explain it, you cannot give it a title, it's
@@ -211,7 +213,7 @@ transcript:
   sec: 729
   time: '12:09'
   who: Lina
-- header: Get the buy-in with stakeholders
+- header: 'Stakeholder Engagement: pairing, availability, and buy‑in'
 - line: This is before you even start doing anything, right? You have an idea about
     something cool, you sit down, and you spend some time in front of a Google document
     or Word document, or maybe just a notepad. You try to write everything down, you
@@ -237,6 +239,7 @@ transcript:
   sec: 798
   time: '13:18'
   who: Alexey
+- header: 'Communicating Across Teams: translating technical and business language'
 - line: I mean, it depends a little bit on how evolved they are. If you have a very
     well-functioning business team that knows about user stories and knows the KPIs,
     you can just tell them, “You don't need to know anything about machine learning.
@@ -249,7 +252,6 @@ transcript:
   sec: 827
   time: '13:47'
   who: Lina
-- header: Building trust with stakeholders
 - line: What can we do to actually build trust between us? They don’t always trust
     us from the very beginning. I think in order to have good communication with stakeholders,
     they need to trust us and we need to trust them. If we speak a different language,
@@ -258,6 +260,7 @@ transcript:
   sec: 877
   time: '14:37'
   who: Alexey
+- header: 'Trust Building: domain understanding and helping with data issues'
 - line: Yes. I also find that quite challenging. There are probably books on how to
     develop stakeholder reputations. I have a very good book recommendation – if you
     guys care to know about it – There's Rebels at Work, it's called. It's about leading
@@ -307,6 +310,7 @@ transcript:
   sec: 1098
   time: '18:18'
   who: Alexey
+- header: 'Addressing Concerns: convert stakeholder fears into mitigations and metrics'
 - line: Sometimes they say “No extra charges.” Basically it's a similar process. That’s
     why I'm don’t only ask them about what they want to achieve, but also the constraints,
     “It should not be that. I'm worried about that.” I make these concerns into slides
@@ -317,7 +321,6 @@ transcript:
   sec: 1109
   time: '18:29'
   who: Lina
-- header: Don’t just focus on upsides – ask about concerns
 - line: Basically, when you pitch ideas, you don't just focus on the upsides. You
     also ask them, “What kind of fears you have?”
   sec: 1142
@@ -346,6 +349,7 @@ transcript:
   sec: 1180
   time: '19:40'
   who: Lina
+- header: 'Demos vs Reporting: what stakeholders need to believe the solution works'
 - line: And they were like, “You should never lose an invoice.” It didn't even occur
     to us that we could lose an invoice. But they insisted, “You shouldn't lose an
     invoice.” Basically, A) We know that they're worried about that. That is helpful
@@ -393,7 +397,6 @@ transcript:
   sec: 1356
   time: '22:36'
   who: Alexey
-- header: Turning a concert into a metric
 - line: Do they always need to see the metrics or just a demo enough? What do we do
     next?
   sec: 1427
@@ -417,7 +420,7 @@ transcript:
   sec: 1473
   time: '24:33'
   who: Lina
-- header: What happens when something goes wrong?
+- header: 'Incident Preparedness: service levels and impact assessment with stakeholders'
 - line: These procedures that you mentioned – if something goes wrong – how do I tell
     them about this? How do I tell stakeholders about incidents where, let's say,
     we did lose an invoice. Suppose it was some corner case that we didn't think about
@@ -466,7 +469,7 @@ transcript:
   sec: 1615
   time: '26:55'
   who: Lina
-- header: Post mortem reporting
+- header: 'ML Incident Response: post‑mortems and ML‑specific recovery steps'
 - line: Let's say we agreed with everyone on this, and we say, “Okay, the system should
     be responsive within one hour. If something happens for 10 minutes, nothing bad
     happens, but it would come back in one hour.” So you will define all these service
@@ -497,6 +500,7 @@ transcript:
   sec: 1730
   time: '28:50'
   who: Alexey
+- header: Live Test Sets & Small A/B Tests for model monitoring and detection
 - line: Yeah. That can happen as well. First, you need to detect that. In the example
     you mentioned, it’s useful to have a live test set. This is something that’s useful
     for cases where the model is actually affecting the outcome, like fraud prediction
@@ -534,7 +538,7 @@ transcript:
   sec: 1928
   time: '32:08'
   who: Alexey
-- header: Apply the 5 why’s
+- header: 'Root‑Cause Debugging: applying Five Whys to ML product issues'
 - line: I thought that he must have. So let's use the post mortem format to debug
     this Okay. It's the ‘last seen’ box – some of my colleagues spend some time debugging
     the problem, not noticing it's not recommendation box. First thing, apply the
@@ -553,6 +557,7 @@ transcript:
   sec: 1931
   time: '32:11'
   who: Lina
+- header: 'User Feedback Channels: internal bug reports and product QA processes'
 - line: This would be a very different way to fix the problem. Then, if you apply
     the five whys, you come to another conclusion. “Okay, he had not seen these items.”
     So we had to figure out, “Why was he seeing this in his ‘last seen’ box?” And
@@ -609,6 +614,7 @@ transcript:
   sec: 2230
   time: '37:10'
   who: Lina
+- header: 'Case Study: credit scoring surprises and interpreting feature importance'
 - line: Yeah, it turned out that it was because he was on a temporary residence permit.
     He just moved to the Netherlands. That was the reason. That was the strongest
     feature in the model.
@@ -634,12 +640,12 @@ transcript:
   sec: 2268
   time: '37:48'
   who: Lina
-- header: If a lot of users say it’s a bug – it’s worth investigating
 - line: Maybe it's not a bug. You just have to live with knowing that you will not
     get that phone.
   sec: 2293
   time: '38:13'
   who: Alexey
+- header: 'Prioritizing Bugs: investigating widespread user complaints'
 - line: For him, it's probably a bug. So I'm of the really strong opinion that – if
     a lot of users say it's a bug, (maybe not for the case with the phones) there
     might be an argument for the company to trade off risk. But in general, I've seen
@@ -661,7 +667,7 @@ transcript:
   sec: 2354
   time: '39:14'
   who: Lina
-- header: Post mortem format
+- header: 'Post‑Mortem Evidence: facts, blameless analysis, and investigation steps'
 - line: I wanted to ask you a bit about this ‘post mortem’ format. We also have a
     question in chat. What does the format look like? I think one thing that you mentioned
     is that you need to ask the “five why's” – you don't jump to conclusions immediately.
@@ -692,13 +698,13 @@ transcript:
     use to debug their incidents. We can utilize that – just adapt it a little bit.
     It's quite useful.
   who: Lina
-- header: Action points
 - line: Do you remember what the format is? What does it look like? I think I saw
     that usually it has some sort of timeframe. You ask “What happened?” but without
     any finger pointing or blaming – just factual description.
   sec: 2508
   time: '41:48'
   who: Alexey
+- header: 'Action Items: turning post‑mortems into tickets and process changes'
 - line: First you get the facts. If it's a backend service, it's likely “The service
     was down from that time to that time.” As in our women’s bag example, it might
     be a screenshot, or it might be return values. We put all the factual information
@@ -712,6 +718,7 @@ transcript:
   sec: 2523
   time: '42:03'
   who: Lina
+- header: 'Explainability vs Debugging: when to use Explainable AI tools'
 - line: Then there are action points. These action points mean that you try to make
     changes to your application that ensure that this kind of unfolding chain of events
     doesn't happen again. This can be a process change. For example, “We found out
@@ -726,7 +733,6 @@ transcript:
     make them into tickets and actually implement them. This helps with a constant
     cycle of improvements.
   who: Lina
-- header: Debugging vs explaining the model
 - line: Thank you. We have a question. We talked about debugging machine learning
     problems and figuring out, “Okay, the model made this decision. Why did this happen?”
     Do you know any off-the-shelf or open source debugging tools for that?
@@ -768,6 +774,7 @@ transcript:
   sec: 2779
   time: '46:19'
   who: Alexey
+- header: 'Data Monitoring: input distribution, unit changes, and feature drift'
 - line: Yes, we actually had that in Zalando. We have a colleague who was working
     on the fraud model. On the live path, the unit of one of the very important features
     changed from seconds to milliseconds, but not in the test data. That completely
@@ -791,7 +798,7 @@ transcript:
   sec: 2832
   time: '47:12'
   who: Alexey
-- header: Are there online versions of checklists?
+- header: 'Project Evaluation Tools: AI Canvas and online checklists'
 - line: There is another question from the same person about any of the checklists
     you mentioned. “Are there online versions of these checklists?” Have you seen
     any of those?
@@ -831,7 +838,6 @@ transcript:
   sec: 2942
   time: '49:02'
   who: Lina
-- header: Make sure to log your inputs
 - line: Yeah. We'll have a transcription of this. Maybe it will be easier then to
     convert it. So BK 62 said that “Yes. You answered my question. You mentioned writing
     your own tooling. So I want to see if there's anything already available that
@@ -839,6 +845,7 @@ transcript:
   sec: 2946
   time: '49:06'
   who: Alexey
+- header: 'Observability Practices: logging features, feature stores, and reproducibility'
 - line: Oh, okay. So that question was probably just on the explanation part. Just
     one addition to my answer – It’s very specific to what your inputs are. Basically,
     make it observable. Make sure you log your features. Make sure you have some way
@@ -857,13 +864,13 @@ transcript:
   sec: 3010
   time: '50:10'
   who: Lina
-- header: Talking to end users and using your own service
 - line: We have two more questions. “Do you also talk to end users or just limit research
     to project managers?” I think we talked about that – you actually talk to end
     users.
   sec: 3019
   time: '50:19'
   who: Alexey
+- header: 'End‑User Research: mystery shopping and direct user testing'
 - line: It depends on what project I'm working on. I do talk to end users in some
     cases. I also do mystery shopping. Mystery shopping is basically when you go through
     the process yourself. I was optimizing the credit process application in my current
@@ -913,12 +920,12 @@ transcript:
   sec: 3143
   time: '52:23'
   who: Lina
-- header: Your ideas vs Stakeholder ideas
 - line: Then there is a follow up question. It actually was two questions. “Do you
     get your own ideas when discussing a data project?”
   sec: 3149
   time: '52:29'
   who: Alexey
+- header: 'Idea Sourcing: proposing ML projects vs refining stakeholder problems'
 - line: To suggest problems to the stakeholders as projects? Yes, because I'm just
     observing the space, see what other people are doing, and basically try to go
     to the stakeholders and say “Do we need this? Do you think this is useful?” It's
@@ -951,7 +958,6 @@ transcript:
   sec: 3227
   time: '53:47'
   who: Lina
-- header: Should data practitioners educate the team about data?
 - line: Thanks. We have a question about data knowledge. I'm not sure if we talked
     about this – maybe a little bit. “Regarding data knowledge within the company
     – is it data practitioners’ responsibility to educate the team on what data there
@@ -959,6 +965,7 @@ transcript:
   sec: 3268
   time: '54:28'
   who: Alexey
+- header: 'Data Literacy: educating teams and community building inside companies'
 - line: Wow. The person asking is probably working in such an organization – I can
     hear the pain behind the question. I feel you. Basically, we need the counterpart
     to be well-versed in data. But sometimes they're not, so what do you do? Perhaps
@@ -982,7 +989,8 @@ transcript:
   sec: 3366
   time: '56:06'
   who: Alexey
-- header: People skills and ‘dirty’ hacks
+- header: 'People Skills & Tactical Hacks: convincing stakeholders and improving data
+    quality'
 - line: Yes. In general, I think we always need to have quite good people skills in
     our job, because it's so cross-functional. The main thing I'm working on during
     the last few years is not only the technical part, but I try to be better at convincing
@@ -1050,7 +1058,7 @@ transcript:
   sec: 3557
   time: '59:17'
   who: Alexey
-- header: Where to find Lina
+- header: 'Wrap‑Up & Contact: where to find Lina and episode closing'
 - line: Thank you for having me. And if anyone wants to connect more – I'm hanging
     out in the MLOps channel sometimes. Also on LinkedIn. Or if anyone wants to write
     a blog post together or just generally share? Yeah. Look me up.

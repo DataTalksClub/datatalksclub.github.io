@@ -15,6 +15,8 @@ season: 15
 short: Democratizing Causality
 title: 'Practical Causal ML: Counterfactuals, Uplift (CATE), A/B Testing & LLMs'
 transcript:
+- header: Episode Introduction
+- header: 'Guest Intro: Aleksander Molak & book overview'
 - line: This week, we'll talk about causality. We have a special guest today, Alexander.
     Alexander is a machine learning researcher, educator, and consultant. He has worked
     with many companies across Europe, in the United States of America, Israel, where
@@ -33,7 +35,7 @@ transcript:
   sec: 116
   time: '1:56'
   who: Alexey
-- header: Aleksander's background
+- header: Career highlights and dyslexia prediction project
 - line: Before we go into our main topic of causality. Let's start with your background.
     Can you tell us about your career journey so far?
   sec: 126
@@ -98,7 +100,7 @@ transcript:
   sec: 372
   time: '6:12'
   who: Aleksander
-- header: Aleksander as a Causal Ambassador
+- header: 'Causal advocacy: democratizing causal thinking'
 - line: Yeah, right. Now, you focus on education. And did you call yourself a causality
     ambassador?
   sec: 375
@@ -123,6 +125,7 @@ transcript:
   sec: 396
   time: '6:36'
   who: Aleksander
+- header: 'Association vs causation: limits of correlational reasoning'
 - line: You said your goal is to democratize this style of thinking. So what exactly
     is this style of thinking? What is causality? How is it different from the usual
     style of thinking?
@@ -146,6 +149,7 @@ transcript:
   sec: 532
   time: '8:52'
   who: Alexey
+- header: 'Illustrative confounders: race example and ice cream–drowning'
 - line: Yeah, sure. Let me make it more concrete. So I was just going back from my
     lunch and I was watching YouTube Shorts. You know what that is?
   sec: 535
@@ -202,7 +206,7 @@ transcript:
   sec: 713
   time: '11:53'
   who: Aleksander
-- header: Using causality to make decisions
+- header: 'Predictive ML vs decision-making: Zillow and IID assumptions'
 - line: I guess for some applications, we don't need to think about this causality
     – we just see a correlation and we train our logistic regression. I think maybe
     a good example is the famous “B feature” in the Boston dataset. It's also related
@@ -259,6 +263,7 @@ transcript:
   sec: 931
   time: '15:31'
   who: Alexey
+- header: 'Counterfactuals in practice: marketing and recommender systems'
 - line: Yes. As far as I remember, that was the case. And they made a decision based
     on this prediction. When we're making a decision... Let me give you another example.
     When we're making a decision – usually, not always... Sometimes we might have
@@ -292,7 +297,7 @@ transcript:
   sec: 936
   time: '15:36'
   who: Aleksander
-- header: Counterfactuals and and Judea Pearl
+- header: Counterfactuals defined and Judea Pearl’s intervention view
 - line: Counterfactual? What does it mean, exactly, in broader terms? It's a complex
     word.
   sec: 1095
@@ -345,7 +350,6 @@ transcript:
   sec: 1230
   time: '20:30'
   who: Aleksander
-- header: Meta-learners vs classical ML models
 - line: So I guess our typical “classical” models like logistic regression, decision
     trees, XGBoost, whatever, classical neural networks – they do not really cover
     these cases, right? We don't know. In the example of targeting somebody, all we
@@ -355,6 +359,7 @@ transcript:
   sec: 1244
   time: '20:44'
   who: Alexey
+- header: 'Meta-learners overview: T‑learner and counterfactual estimation'
 - line: That's a great question. You are correct. Out of the box, supervised models
     do not have the capabilities to reason causally and there are many different types
     of causal models. But the one that I think is relatively the easiest to to grasp,
@@ -402,6 +407,7 @@ transcript:
   sec: 1407
   time: '23:27'
   who: Alexey
+- header: Conditional Average Treatment Effect (CATE) estimation
 - line: Yeah, so we take these two groups of people – one that we sent the campaign
     to and the other one that didn't receive the campaign – and we train one model
     on one group, another model on another group. Now, you also said about clicking
@@ -425,6 +431,7 @@ transcript:
   sec: 1464
   time: '24:24'
   who: Aleksander
+- header: 'Achieving unconfoundedness: A/B tests vs causal feature selection'
 - line: In the same way as an A/B test, right?
   sec: 1576
   time: '26:16'
@@ -461,7 +468,7 @@ transcript:
   sec: 1663
   time: '27:43'
   who: Aleksander
-- header: Average treatment effect
+- header: Targeting decisions from uplift estimates
 - line: Okay. Can you explain again? [chuckles]
   sec: 1672
   time: '27:52'
@@ -490,7 +497,7 @@ transcript:
   sec: 1715
   time: '28:35'
   who: Aleksander
-- header: Reducing causal bias, the super efficient estimator, and model uplifting
+- header: Deployment risks and debiasing estimators (double/triple ML)
 - line: It's like the worst possible thing. [Aleksander agrees] You spent money but
     you also lost the client. I imagine it can introduce some problems. Let's say
     we take this model, deploy it, apply to the entire population (to all our customers)
@@ -537,6 +544,7 @@ transcript:
   sec: 1951
   time: '32:31'
   who: Alexey
+- header: 'Uplift modeling: policy evaluation and business metrics'
 - line: Yeah, we basically evaluate the policy. We can think about a causal model
     like this – this is often called “uplift modeling”. “Uplift” because we change
     whatever metric goes up when we use this causal modeling technique. So yeah, this
@@ -545,7 +553,7 @@ transcript:
   sec: 1960
   time: '32:40'
   who: Aleksander
-- header: Metrics for evaluating a causal model vs a traditional ML model
+- header: 'Evaluating causal models: refutation tests and estimator quality'
 - line: There is a question from Taras. Taras is asking, “How do we estimate the quality
     of a causal model if the metrics that we use are the same as for plain regression
     (traditional ML models}? Or are the metrics different?”
@@ -600,6 +608,7 @@ transcript:
   sec: 2013
   time: '33:33'
   who: Aleksander
+- header: Causal discovery and heterogeneous treatment effects (book coverage)
 - line: Yeah, I was going to ask about your book. Because to me, it sounded quite
     abstract. In general, metrics is such a topic that, for me personally, without
     examples and illustrations and actually going and trying to implement these things,
@@ -621,7 +630,7 @@ transcript:
   sec: 2292
   time: '38:12'
   who: Aleksander
-- header: Is the added complexity of a causal model worth implementing?
+- header: 'Cost–benefit of causal models: complexity vs value'
 - line: From what I understood, these causal models are pretty useful and we should
     use them when possible (when needed) but they introduce an extra layer of complexity.
     Right? Right now, let's say you have a traditional model – you have just one model
@@ -665,6 +674,7 @@ transcript:
   sec: 2432
   time: '40:32'
   who: Alexey
+- header: 'Real-world impact: discovering wasted marketing spend'
 - line: Yeah. Always, when there is a decision and you also have some treatment that
     is under your control (which means that you can change something in the world)
     there is a potential of benefit for you in using causal models. But you asked
@@ -693,6 +703,7 @@ transcript:
   sec: 2474
   time: '41:14'
   who: Aleksander
+- header: 'Incremental rollout: A/B testing as validation baseline'
 - line: So we should think. Right? [chuckles] I think one of the things you mentioned
     previously is – when we deploy a causal model, typically there is a baseline.
     It's always a good idea to compare this causal model to the baseline. This is
@@ -709,7 +720,7 @@ transcript:
   sec: 2632
   time: '43:52'
   who: Aleksander
-- header: Utilizing LLMs in causal models (text as outcome)
+- header: 'LLMs in causal workflows: feature extraction and scoring'
 - line: There is one quite hot topic these days – these LLMs. Everyone is talking
     about LLMs – natural language models. In our podcasts, we were actually pretty
     late to the party. But recently, we had two podcast interviews that were about
@@ -753,6 +764,7 @@ transcript:
   sec: 2813
   time: '46:53'
   who: Aleksander
+- header: 'Text as outcome: using LLMs to score experimental text'
 - line: There's a teacher. They learn and then, as the outcome of this workshop, they
     walk out knowing how to create a better copy – create a better article.
   sec: 2814
@@ -801,6 +813,7 @@ transcript:
   sec: 2955
   time: '49:15'
   who: Alexey
+- header: 'Text as treatment/confounder: style extraction and embeddings'
 - line: Yeah, this is a good approach. Now we are talking about a scenario where we
     are using LLMs as an element – as an decoder or encoder within a system. We know
     that the system is causal. We know the causal structure of the system, and then
@@ -817,7 +830,6 @@ transcript:
   sec: 2957
   time: '49:17'
   who: Aleksander
-- header: Text as treatment and style extraction
 - line: Do you mean “text as confounder” or “text as treatment”?
   sec: 3045
   time: '50:45'
@@ -914,6 +926,7 @@ transcript:
   sec: 3274
   time: '54:34'
   who: Alexey
+- header: Inferring unobserved variables (e.g., gender/style) with LLMs
 - line: Yeah. Male or female, whatever person identifies as. We might be interested
     in a hypothesis like this. You can observe a phenomenon like this in scientific
     citations as well. For for instance, it seems that from the observational point
@@ -977,6 +990,7 @@ transcript:
   sec: 3490
   time: '58:10'
   who: Alexey
+- header: CausalBert demo and code note (PyData Berlin talk)
 - line: Yes. This example is in the talk. And we discuss an architecture that is called
     “CausalBert”. You can find the talk on YouTube. It was a talk given on PyData
     Berlin 2023.
@@ -1006,7 +1020,7 @@ transcript:
   sec: 3554
   time: '59:14'
   who: Aleksander
-- header: The viability of A/B tests in causal models
+- header: 'Causal ML without experiments: partial identification & sensitivity'
 - line: 10 minutes. Okay. Well, this question, depending on how deep you want to answer
     – because the answer could take another hour. This is a question from Akil. “Can
     we use causal ML when we cannot use A/B experiments? And if yes, what kind of
@@ -1050,7 +1064,6 @@ transcript:
   sec: 3596
   time: '59:56'
   who: Aleksander
-- header: Graphical structures and nonparametric identification
 - line: You mentioned one thing here in your answer – you mentioned graphical structures.
     In the previous part, when we talked about LLMs, you mentioned an architecture.
     I guess in both cases, you mean a way of designing a model in such a way that
@@ -1076,6 +1089,7 @@ transcript:
   sec: 3830
   time: '1:03:50'
   who: Alexey
+- header: 'Causal graphs and nonparametric identification: minimal observables'
 - line: That's what we would expect, yeah. On average. Of course, there are people
     who are drowning in winter and eating ice cream in winter, but in a statistical
     sense, we would expect that it's reasonable that they also go down. And then we
@@ -1113,7 +1127,7 @@ transcript:
   sec: 3964
   time: '1:06:04'
   who: Alexey
-- header: Aleksander's resource recommendations
+- header: 'Recommended resources: The Book of Why, Molak’s book & GitHub'
 - line: Can you recommend any other resources [besides your book] for people who want
     to learn more about the topic? I guess one of the things you mentioned was Judea
     Pearl's book?
@@ -1132,6 +1146,7 @@ transcript:
   sec: 3980
   time: '1:06:20'
   who: Aleksander
+- header: Closing remarks and next steps
 - line: Okay, thank you very much. Thanks for staying a bit longer with us and answering
     this very interesting question from Akil. Thanks, Aleksander, for being with us
     today. And thanks, everyone, for joining us today – listening in and asking your

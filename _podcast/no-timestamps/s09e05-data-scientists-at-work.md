@@ -16,6 +16,7 @@ short: Data Scientists at Work
 title: 'Data Science Career Playbook: Job Hunt, Portfolios, DALL·E 2 & Overcoming
   FOMO'
 transcript:
+- header: Episode Introduction
 - line: Hi, everyone. This week, we'll talk about the work of data scientists and
     the expectations from them. We have a special guest today, Misra. Misra is a data
     scientist and content creator. After working as a data scientist for many, many
@@ -39,7 +40,7 @@ transcript:
   sec: 116
   time: '1:56'
   who: Misra
-- header: Misra’s background
+- header: 'Misra Career Path: From Big Data Engineering to Content Creator'
 - line: Before we go into our main topic, let’s start with your background. Can you
     tell us about your career journey so far?
   sec: 117
@@ -79,6 +80,7 @@ transcript:
   sec: 125
   time: '2:05'
   who: Misra
+- header: Transition to Developer Advocate and Content Work
 - line: How did you end up becoming a developer advocate? I guess you understood that
     you really like creating content and through a developer advocate role, you do
     this for living, right?
@@ -131,7 +133,7 @@ transcript:
   sec: 375
   time: '6:15'
   who: Misra
-- header: What data scientists do
+- header: 'Data Scientist Day‑to‑Day: Explaining the Role to Non‑Tech Audiences'
 - line: Well, coming back to our main topic – data scientists at work. Maybe there
     are some parallels to data developer advocates, but you were a data scientist
     quite recently. Coming back to this topic, imagine you're a data scientist, not
@@ -189,6 +191,7 @@ transcript:
   sec: 537
   time: '8:57'
   who: Alexey
+- header: 'Deliverables: Trained Models, Pipelines, Reports, and Presentations'
 - line: I actually took on a lot of different roles and a lot of different projects
     and that's how I got to experience this a little bit myself, because with every
     project, we needed to deliver something different. Also, through the podcast,
@@ -223,7 +226,7 @@ transcript:
   sec: 541
   time: '9:01'
   who: Misra
-- header: Consultant data scientists vs in-house data scientists (and freelancers)
+- header: 'Role Variants: Consultant, In‑House, and Freelance Responsibilities'
 - line: Was this something that you did at IBM, or is this something that maybe consultants
     tend to do more often? Like creating presentations and reports?
   sec: 658
@@ -289,7 +292,7 @@ transcript:
   sec: 789
   time: '13:09'
   who: Misra
-- header: Expectations for data scientists
+- header: Unrealistic Expectations of Data Scientists in Industry
 - line: So there are all the different ways to work as a data scientist. Actually,
     this brings us to the other thing I wanted to talk about. There was one article
     from you that I really liked, which was about unreasonable expectations from data
@@ -318,7 +321,7 @@ transcript:
   sec: 880
   time: '14:40'
   who: Misra
-- header: The importance of keeping up to date with AI developments (FOMA)
+- header: 'Keeping Current with AI: Managing FOMA (Fear of Missing Out)'
 - line: But how do you personally stay up to date with all the developments in AI?
   sec: 943
   time: '15:43'
@@ -408,7 +411,7 @@ transcript:
   sec: 1139
   time: '18:59'
   who: Misra
-- header: How does DALL·E 2 work and should you care?
+- header: 'DALL·E 2 Overview: Text‑to‑Image Capabilities'
 - line: How does DALL·E work? Maybe you can tell us in a few sentences for those who
     have the fear of missing out. Because I do. I see these awesome pictures. I think
     the way it works, as a black box, you give it some prompt like a piece of text,
@@ -434,6 +437,7 @@ transcript:
   sec: 1241
   time: '20:41'
   who: Misra
+- header: 'Diffusion Models: High‑Level Explanation'
 - line: Yeah. Well, like it cannot imagine [audio cuts out] how it works. Like all
     these formulas that are there – they're just scary. I cannot imagine what it looks
     like for things like DALL·E like must be insane.
@@ -554,7 +558,7 @@ transcript:
   sec: 1609
   time: '26:49'
   who: Misra
-- header: Going to conferences to stay up to date
+- header: 'Staying Updated: Value of Industry Conferences over Social Media'
 - line: Also, I think what helps me personally to stay away from all this buzz in
     Twitter, but if I still want to be a bit up to date. What helps me is industry
     conferences. For example, in Berlin next week, there is a conference called Berlin
@@ -596,7 +600,7 @@ transcript:
   sec: 1744
   time: '29:04'
   who: Misra
-- header: The most pressing issue for data scientists
+- header: 'Major Challenge: Communicating Data Science Value to Stakeholders'
 - line: '[laughs] That doesn''t sound very good. I noticed that we have quite a few
     questions, so I thought we should check them out. The first question we have is,
     “What is the most pressing issue for data scientists today?”'
@@ -705,7 +709,7 @@ transcript:
   sec: 2095
   time: '34:55'
   who: Misra
-- header: Fighting FOMA and imposter syndrome
+- header: 'FOMA and Imposter Syndrome: Causes and Coping Strategies'
 - line: There was also another topic I wanted to talk about, and maybe this is a good
     segue to this topic – having this fear of missing out. I think it creates a feeling
     that I'm constantly unqualified. So I am afraid that the world is moving on, but
@@ -785,7 +789,7 @@ transcript:
   sec: 2301
   time: '38:21'
   who: Misra
-- header: Knowing when you have enough knowledge on a framework
+- header: 'Learning a New Framework: Knowing When It''s "Good Enough"'
 - line: Let's say there is a new framework. You think this framework is useful so
     decide to pick it up and learn it a little bit better. We don't want to learn
     it perfectly – we know that this is not going to be a great way of spending our
@@ -833,7 +837,7 @@ transcript:
   sec: 2563
   time: '42:43'
   who: Misra
-- header: The “best” type of data scientist
+- header: 'Preferred Setup: Advantages of In‑House Data Science Roles'
 - line: Okay, I see that we have quite a lot of questions. I also prepared questions
     for you, but I think it's better to go through the questions. The first question
     is about the types of data scientists and this is something we talked about at
@@ -926,7 +930,7 @@ transcript:
   sec: 2822
   time: '47:02'
   who: Misra
-- header: Being a generalist vs a specialist
+- header: 'Career Tradeoffs: Generalist Versus Specialist Paths'
 - line: There is a related question. “Do you think it's better to be a specialist
     as a data scientist, or to be a person with a broad skill set?”
   sec: 2853
@@ -1002,7 +1006,7 @@ transcript:
   sec: 3029
   time: '50:29'
   who: Misra
-- header: Advice for entry-level data entering an oversaturated market
+- header: 'Breaking In: Job‑Hunting Strategies for Entry‑Level Data Scientists'
 - line: Okay. For newer data scientists – from courses like yours or boot camps –
     how would you suggest they break into the oversaturated market for entry-level
     data scientists?
@@ -1075,7 +1079,7 @@ transcript:
   sec: 3222
   time: '53:42'
   who: Misra
-- header: Catching the eye of big AI companies
+- header: 'Catching Recruiter Attention: Research, Questions, and Relevant Projects'
 - line: Okay. The next question is about your current employer, AssemblyAI. “How would
     you suggest a junior level data scientist or ML engineer catch the eye of AssemblyAI?”
   sec: 3271
@@ -1127,7 +1131,7 @@ transcript:
   sec: 3329
   time: '55:29'
   who: Misra
-- header: Choosing a project for your portfolio
+- header: 'Portfolio Projects: What Hiring Managers Really Look For'
 - line: There’s a question that is quite related. You mentioned projects – projects
     that could be potentially relevant to the employer that you're interested in.
     Of course, you need to do some research to find out what could be more interesting
@@ -1147,6 +1151,7 @@ transcript:
   sec: 3429
   time: '57:09'
   who: Alexey
+- header: 'Real‑World Datasets: Using NYC Open Data and Dirty Data Examples'
 - line: Yeah, I think that's a good point. Obviously, people are doing the same projects.
     But I think with these projects, what you're trying to show is not how great of
     a model that you're building. The model you build might suck and that's fine,
@@ -1202,7 +1207,7 @@ transcript:
   sec: 3661
   time: '1:01:01'
   who: Alexey
-- header: The importance of having a PhD or Master’s degree in data science
+- header: 'Degrees vs Experience: When a Master''s or PhD Matters'
 - line: So let's take one more question. The question is “What's your stance on companies
     thinking only about hiring PhDs or people with Master's degrees?” Meaning the
     companies think only such people can be data scientists. What would you say to
@@ -1264,7 +1269,7 @@ transcript:
   sec: 3866
   time: '1:04:26'
   who: Misra
-- header: Finding Misra online
+- header: Where to Find Misra Online and Recommended Resources
 - line: Yeah. Okay. The question is – how can people find you?
   sec: 3868
   time: '1:04:28'
@@ -1284,6 +1289,7 @@ transcript:
   sec: 3890
   time: '1:04:50'
   who: Misra
+- header: Episode Closing and Further Links
 - line: Yeah. Thanks a lot. Thanks for joining us today. Apologies to everyone that
     we needed to reschedule this a couple of times. Finally, this happened. So thanks
     a lot for joining us today, for asking questions. Thanks for being here, for answering

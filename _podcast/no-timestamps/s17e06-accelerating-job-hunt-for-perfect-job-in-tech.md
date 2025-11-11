@@ -16,6 +16,8 @@ short: Accelerating The Job Hunt for The Perfect Job in Tech
 title: 'Data Science Career Change: 4-Pillar Job Search, Networking & Informational
   Interview Guide'
 transcript:
+- header: Podcast Introduction
+- header: Guest Introduction & Coaching Mission
 - line: This week, we'll talk about accelerating the job hunt for the perfect job
     in tech. Today, we have a special guest, Sarah. Sarah is a data scientist and
     a certified career and interview coach. She has over six years of experience working
@@ -38,7 +40,7 @@ transcript:
   sec: 232
   time: '3:52'
   who: Sarah
-- header: Sarah’s background
+- header: 'Career Path: Computer Science, Full-Stack to Data Science'
 - line: Yeah, thanks. Thanks for accepting the invite. The questions for today's interview
     were prepared by Johanna Bayer. Thanks, Johanna, for your help. Let's start. Before
     we go into our main topic of finding a good job, let's start with your background.
@@ -63,6 +65,7 @@ transcript:
   sec: 313
   time: '5:13'
   who: Alexey
+- header: AdTech Experience & Thriving Career Moms Project
 - line: Exactly. Yeah, that's retargeting. That's the main area where REMERGE started.
     We also started user acquisition recently (last year). That's where I started
     in data science and still work at REMERGE. At the same time, after having my first
@@ -76,7 +79,7 @@ transcript:
   sec: 339
   time: '5:39'
   who: Sarah
-- header: How Sarah became a coach and found her niche
+- header: 'Becoming a Career Coach: Community, Mentorship, First Mentees'
 - line: How exactly did you realize, “Okay, not only do I want to help women get back
     to work after a break, but I’m also deciding to become a coach.”? What did you
     do? From the moment you realized, “Okay, I have some knowledge about that, and
@@ -122,7 +125,7 @@ transcript:
   sec: 520
   time: '8:40'
   who: Sarah
-- header: Sarah’s clients
+- header: 'Client Profiles: Career Changers and Return-to-Work Support'
 - line: What are the most common things that your clients come to you with? What kind
     of problems do they have that they need your help with?
   sec: 567
@@ -165,7 +168,7 @@ transcript:
   sec: 656
   time: '10:56'
   who: Sarah
-- header: How Sarah helps her clients find the perfect job
+- header: 'Four-Pillar Job Search Framework: Goals, Networking, CV, Strategy'
 - line: Yeah. Clients come to you and ask you to help them with finding a new job.
     So what happens after you have the first call? How exactly do you help them to
     find this perfect job for their ambitions?
@@ -220,6 +223,7 @@ transcript:
   sec: 868
   time: '14:28'
   who: Sarah
+- header: 'Defining Your Ideal Role: Tasks, Skills, and Future Vision'
 - line: Yeah. Okay. So, we talked about these four pillars right. You said that the
     first thing is job search, right? You need to have a clear idea… You need to know
     what your ideal job is.
@@ -237,6 +241,7 @@ transcript:
   sec: 887
   time: '14:47'
   who: Alexey
+- header: 'Job Research: Role Analysis and Informational Interviews'
 - line: I think that's one thing that all my clients who come to me think about. They
     know what they are looking for. For example, to be concrete, let's say I'm looking
     for a data scientist job. But then, data scientists can do many things, right?
@@ -279,7 +284,7 @@ transcript:
   sec: 1071
   time: '17:51'
   who: Sarah
-- header: Finding a specialization
+- header: 'Choosing a Specialization: ML Engineering, Data Engineering, MLOps'
 - line: I hope it’s fine. [chuckles] The problem that I personally have… Not me personally,
     but the problem that… Let me take a step back. In our community, we have courses.
     Right now we have three courses – three different courses – ML engineering course,
@@ -344,6 +349,7 @@ transcript:
   sec: 1166
   time: '19:26'
   who: Alexey
+- header: 'Narrowing Focus: Aligning Skills, Interests, and Market Demand'
 - line: Yeah. The first thing. Taking all the courses to explore is good because one
     doesn't have experience in the field, so exploring different specializations is
     a good way to start. But what I would suggest doing before starting the courses…
@@ -415,6 +421,7 @@ transcript:
   sec: 1201
   time: '20:01'
   who: Sarah
+- header: 'Courses vs Projects: Validate Skills Through Practical Work'
 - line: So this means that… Let's say somebody wants to take our courses – they should
     do some of this work even before they take courses, right?
   sec: 1588
@@ -467,6 +474,7 @@ transcript:
   sec: 1713
   time: '28:33'
   who: Alexey
+- header: 'Target Company Selection: Build a Top-5 Company List'
 - line: Okay. Yeah. If you choose to focus on data engineering, there are different
     demands from company to company. Another thing that is in the first pillar that
     I've talked about, which is the job description, is not only getting a clear [understanding]
@@ -495,6 +503,7 @@ transcript:
   sec: 1775
   time: '29:35'
   who: Sarah
+- header: 'Networking Value: Weak Ties, Referrals, and Opportunity Sources'
 - line: Yeah, it does. You mentioned the word “networking” like 10 times by now so
     I think we should talk about that now. [chuckles]
   sec: 1900
@@ -512,7 +521,6 @@ transcript:
   sec: 1913
   time: '31:53'
   who: Sarah
-- header: Informational interviews
 - line: It's one of the pillars. But even before we go to this networking pillar,
     it's also something you do to realize what the perfect job for you is. Right?
     You know, “Okay, this is the area where I want to focus.” In order to do that,
@@ -524,6 +532,7 @@ transcript:
   sec: 1935
   time: '32:15'
   who: Sarah
+- header: 'Informational Interview Best Practices: Outreach and Preparation'
 - line: Informational interviews, exactly. So what does it look like? Okay, I have
     these top five companies where I want to work. I opened LinkedIn. I say, ‘data
     scientists at Company X (REMERGE, whatever)’.” And then I see, “Okay, these are
@@ -561,6 +570,7 @@ transcript:
   sec: 2052
   time: '34:12'
   who: Alexey
+- header: 'Crafting Outreach Messages: Personalization and Short Asks'
 - line: Yeah. [chuckles] Professional. But I'm talking about LinkedIn. Maybe they
     do share some things from their work, their interests, the things that they support
     — I mean, missions that they support – they blog about their tech stack or something
@@ -587,6 +597,7 @@ transcript:
   sec: 2153
   time: '35:53'
   who: Alexey
+- header: 'Key Informational Interview Questions: Day-to-Day & Success Factors'
 - line: Okay. [chuckles] The strategy is — you don't send them the questions. Prepare
     your question. Don't send them the questions but prepare your questions. The questions
     could be… It depends. The informational interview can be used to know about the
@@ -612,7 +623,7 @@ transcript:
   sec: 2216
   time: '36:56'
   who: Sarah
-- header: Building a connection for mutual benefit
+- header: 'Building Mutual Value: Offer Help and Maintain Relationships'
 - line: And what can I offer in return? [Sarah chuckles] I had a few lunches and then,
     people asked me questions, and then I answered them. At the end, I get this question,
     “What can I help you with? What can I offer in return?” And my mind always goes
@@ -671,7 +682,7 @@ transcript:
   sec: 2465
   time: '41:05'
   who: Sarah
-- header: The networking strategy
+- header: 'Networking Action Plan: Weekly Outreach and Re-engagement'
 - line: That’s the second pillar, right? The networking strategy. We kind of already
     started with networking. So we already reached out to people, we established these
     connections. But what about this networking strategy? Now I'm looking for a job.
@@ -720,7 +731,7 @@ transcript:
   sec: 2517
   time: '41:57'
   who: Sarah
-- header: Listing your projects in the CV
+- header: 'Resume Strategy: Prioritizing Projects, Skills, and Storytelling'
 - line: I realized that we have a lot of questions from the audience. It's actually
     10. I don't know if we will be able to cover all of them, but we can start. I'll
     start with the first question, “I left my job two years ago, and I started learning
@@ -749,7 +760,6 @@ transcript:
   sec: 2731
   time: '45:31'
   who: Sarah
-- header: The importance of doing research yourself and establishing your interests
 - line: Thank you. Another question, “Do you know any service that can help with doing
     research – on companies, vacancies, and requirements?” I think this is what we
     talked about and you said, “You should come up with the top five companies that
@@ -759,6 +769,7 @@ transcript:
   sec: 2822
   time: '47:02'
   who: Alexey
+- header: 'Self-Research Methods: Company Analysis and Skill Matching'
 - line: Yeah. [chuckles] Okay, that's not possible. You have to do it yourself. But
     I think what they're asking is about a service – maybe a platform where you can
     research a company. Anyway, this is something that you have to do yourself. Researching
@@ -785,6 +796,7 @@ transcript:
   sec: 2953
   time: '49:13'
   who: Alexey
+- header: 'Strength & Interest Assessments: Gallup, HIGH5, MyNextMove'
 - line: Yeah, there is the Gallup test. There is the HIGH5 test, which is a free alternative.
     Then, there are also the interests. One… I don't remember the name of the platform,
     but there are some platforms to help you with your skills – figuring out the skills
@@ -804,7 +816,7 @@ transcript:
   sec: 2992
   time: '49:52'
   who: Sarah
-- header: How to land a part-time job when the company wants full-time
+- header: 'Part-Time Work Strategy: Timing, Negotiation, and Flexibility'
 - line: Yeah. The next question is from Aniko, “Do you have any advice on how to tackle
     searching for a part-time job? Should I apply for a full-time position and say,
     ‘Look, I only want to work half-time.’?” What's the strategy here? I imagine a
@@ -852,7 +864,7 @@ transcript:
   sec: 3168
   time: '52:48'
   who: Sarah
-- header: Age is not a factor
+- header: 'Age and Career Change: Emphasize Results and Transferable Skills'
 - line: Thank you. “I worked in BI for 5 years. In the last year also with some tools
     like Alteryx and Tableau (a dashboard tool). Now I have time to study data engineering.
     I am 42 years old. Am I too old for the move?”
@@ -905,8 +917,7 @@ transcript:
   sec: 3352
   time: '55:52'
   who: Sarah
-- header: Applying for jobs after finishing a course and the importance of sharing
-    your learnings
+- header: 'Applying During Courses: Share Learnings and Build Visibility'
 - line: There is a person who is currently taking our data engineering course. The
     question is, “Should I start applying for data engineer roles while I'm taking
     the course or after? I always feel like I'm not ready yet.”
@@ -979,7 +990,7 @@ transcript:
   sec: 3614
   time: '1:00:14'
   who: Sarah
-- header: Sarah resource recommendations
+- header: 'Recommended Resources: Tests, Books, Podcasts, MyNextMove'
 - line: Okay, we should be wrapping up. I see that there is a comment, “Gallup test
     is the best way to know the top five skills. I did it twice before.” We talked
     about that. You can use these sorts of tests to figure out your strengths. I think
@@ -1000,6 +1011,7 @@ transcript:
   sec: 3658
   time: '1:00:58'
   who: Sarah
+- header: 'Follow-Up & Support: Links, Slack, and Further Questions'
 - line: You said you put the link…? Did you put this to YouTube? It doesn't like when
     somebody shares links? So can you send it to me in chat and I’ll publish it? There’s
     anti-spam filters. I will now publish it – put it to the live chat so everyone

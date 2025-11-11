@@ -16,6 +16,8 @@ short: From Testing Phones to Managing NLP Projects
 title: 'Transition from QA to Machine Learning & Data Engineering: Projects, Cloud
   & Interview Prep'
 transcript:
+- header: Podcast Introduction
+- header: Early Life & Informatics Engineering; phone industry beginnings
 - line: This week, we'll talk about career transitioning from quality assurance to
     machine learning. We have a special guest today, Alvaro. Alvaro worked in the
     cell phone industry as a quality assurance engineer, but got tired of it, spent
@@ -37,7 +39,6 @@ transcript:
   sec: 123
   time: '2:03'
   who: Alvaro
-- header: Alvaro’s background
 - line: You're welcome. Thanks for joining us. Let's start with your background. Can
     you tell us briefly about your career journey so far?
   sec: 125
@@ -67,7 +68,7 @@ transcript:
   sec: 133
   time: '2:13'
   who: Alvaro
-- header: Working as a QA (Quality Assurance) engineer
+- header: 'Phone prototyping and field testing: QA checklists, CTS & RF testing'
 - line: Interesting. What did your day look like when you worked as a quality assurance
     engineer? You mentioned that you received prototypes and you tested them. Was
     it like, I don't know, getting a phone and then clicking around on it?
@@ -174,7 +175,7 @@ transcript:
   sec: 498
   time: '8:18'
   who: Alvaro
-- header: Transitioning from QA to Machine Learning
+- header: 'Career pivot: quitting QA, gap year, and discovering machine learning'
 - line: And then you decided to quit. But then you also mentioned that you were unemployed
     for some time. So you just quit without looking back – without looking for the
     same type of job to continue. How did you find the courage to just leave?
@@ -262,13 +263,14 @@ transcript:
   sec: 744
   time: '12:24'
   who: Alvaro
+- header: 'Structured learning path: postgraduate course, Neuromatch Academy, ML &
+    Data Engineering Zoomcamps'
 - line: Okay. So can you tell us how exactly the journey looked like for you? From
     the moment you realized “This is interesting” to the moment you started looking
     for a job in this field.
   sec: 812
   time: '13:32'
   who: Alexey
-- header: Gathering knowledge about ML field
 - line: Sure. Before I joined any courses, before I started anything, I asked my friends.
     I keep in touch with a lot of university friends. Some of them are in embedded
     development, some of them are in machine learning, and some of them are in other
@@ -343,7 +345,7 @@ transcript:
   sec: 1048
   time: '17:28'
   who: Alvaro
-- header: Searching for an ML job (improving soft skills and CV)
+- header: 'Job search strategy: improving soft skills, hiring a coach, and CV redesign'
 - line: What was the most difficult thing for you? You did a postgraduate course,
     then you did summer school, then you did two Zoomcamps from DataTalks.Club and
     then you started looking for a job, right? Or when did you actually start looking
@@ -423,7 +425,7 @@ transcript:
   sec: 1333
   time: '22:13'
   who: Alvaro
-- header: Data science interview skills
+- header: 'Interview soft skills: role-play, confidence building, and behavioral prep'
 - line: We have a few questions. The first question is, “What kind of soft skills
     did you have to prepare for your data science interview?” You mentioned not to
     be confrontational and things like that, but what were these skills exactly? What
@@ -471,7 +473,7 @@ transcript:
   sec: 1488
   time: '24:48'
   who: Alvaro
-- header: Zoomcamp projects
+- header: 'Zoomcamp projects: speed-dating EDA and vegetable image-classification'
 - line: Can you tell us about these projects?
   sec: 1497
   time: '24:57'
@@ -524,7 +526,7 @@ transcript:
   sec: 1600
   time: '26:40'
   who: Alvaro
-- header: Zoomcamp project deployment
+- header: 'Project deployment experience: Google Cloud, AWS exercises, and cloud credits'
 - line: Another question we have is “Did you deploy your final projects in AWS?” What
     was your experience with this? Did you actually deploy them in the ML Zoomcamp?
   sec: 1636
@@ -575,7 +577,7 @@ transcript:
   sec: 1722
   time: '28:42'
   who: Alvaro
-- header: How to not undersell yourself during interviews
+- header: 'Presenting projects objectively: avoid underselling and focus on facts'
 - line: Interesting. So how did you solve this problem of not being able to sell yourself?
     The projects you just described look amazing to me. But then at the same time,
     there were people that had way cooler projects?
@@ -629,7 +631,8 @@ transcript:
   sec: 1856
   time: '30:56'
   who: Alvaro
-- header: Alvaro’s experience with interviews during his transition
+- header: 'Interview formats encountered: take-home tasks, time-series exercise, and
+    NLP-focused hiring'
 - line: Were the projects of any use, actually, when you had interviews? Did anyone
     care about your portfolio? Did they ask you about the projects?
   sec: 1898
@@ -669,6 +672,7 @@ transcript:
   sec: 1907
   time: '31:47'
   who: Alvaro
+- header: 'Cloud familiarity in interviews: Google Cloud, Azure, AWS—what mattered'
 - line: Did any of the interviewers care about your knowledge in cloud? Did they ask
     you about the cloud? Or it was just these questions that you mentioned?
   sec: 2041
@@ -694,7 +698,7 @@ transcript:
   sec: 2095
   time: '34:55'
   who: Alvaro
-- header: Alvaro’s Zoomcamp notes
+- header: 'Creating technical notes: long-form Markdown, GitHub gists, and screenshots'
 - line: That’s how I also do it, to be honest. I don't know if it makes sense to go
     into the specifics of cloud. If you worked with a cloud, then okay. We have a
     comment. It's not a question but just a comment. “I am in the current cohort of
@@ -748,6 +752,7 @@ transcript:
   sec: 2181
   time: '36:21'
   who: Alvaro
+- header: 'Note-taking workflow: video pause-write method, indexes, and VS Code'
 - line: Like a second brain, right?
   sec: 2238
   time: '37:18'
@@ -867,7 +872,7 @@ transcript:
   sec: 2575
   time: '42:55'
   who: Alvaro
-- header: Alvaro’s coach
+- header: 'Role of a coach: negotiation practice, interview framing, and communication'
 - line: There is a comment, “Why do you think you're not a good communicator? I'm
     listening to you now and you're great.” [chuckles]
   sec: 2613
@@ -954,7 +959,7 @@ transcript:
   sec: 2849
   time: '47:29'
   who: Alvaro
-- header: The importance of mathematical knowledge to a transition into ML
+- header: 'Skill distinction: math-heavy research ML vs. tooling-focused data engineering'
 - line: Do you think knowing these mathematical or implementation details is important
     for the interview process – for passing the interview process for a data science
     position?
@@ -984,7 +989,8 @@ transcript:
   sec: 2871
   time: '47:51'
   who: Alvaro
-- header: Preparing for technical interviews
+- header: 'Technical interview prep: tailor study to role, projects, and hands-on
+    exercises'
 - line: I actually wanted to talk about what you do at work right now, but we have
     so many questions. We can just go with the questions. The most upvoted question
     we have is “How to prepare for technical questions in an interview other than
@@ -1036,7 +1042,7 @@ transcript:
   sec: 3080
   time: '51:20'
   who: Alvaro
-- header: Alvaro’s typical workday
+- header: 'Typical workday as an ML project manager: planning, Teams, and task coordination'
 - line: Can you tell us what your typical work day looks like?
   sec: 3113
   time: '51:53'
@@ -1086,7 +1092,8 @@ transcript:
   sec: 3142
   time: '52:22'
   who: Alvaro
-- header: Alvaro’s team’s tech stack
+- header: 'Production tech stack: Azure, Databricks, AutoKeras, Azure Data Factory,
+    and SQL'
 - line: What kind of tech stack do you use?
   sec: 3252
   time: '54:12'
@@ -1124,7 +1131,8 @@ transcript:
   sec: 3335
   time: '55:35'
   who: Alvaro
-- header: The importance of a technical background to transitioning into ML
+- header: 'Transition advice: programming background, math, and transferable skills
+    for ML careers'
 - line: For somebody who wants to go through the same process as you – somebody who
     doesn’t necessarily come from a very technical background. I don't know how technical
     your background was, but I guess… forgive me if I'm wrong, but my interpretation
@@ -1206,6 +1214,8 @@ transcript:
   sec: 3604
   time: '1:00:04'
   who: Alexey
+- header: 'CV and portfolio tips: visual résumé, GitHub visibility, and sample CV
+    link'
 - line: Python was really easy. There are some quirks to Python, like the way you
     do iterations in loops, which is quite unique, I believe. But programming in Python
     is a joy. It’s very, very easy.
@@ -1242,6 +1252,7 @@ transcript:
   sec: 3716
   time: '1:01:56'
   who: Alvaro
+- header: 'Closing remarks & links: CV, GitHub, and LinkedIn resources'
 - line: Okay, the link is in the live chat and I will also put it in the description.
     If you watch it in replay, you will see this. And I think that's it for today.
     I want to thank you for joining us today, for sharing your experience, for telling

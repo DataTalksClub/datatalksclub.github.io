@@ -15,6 +15,8 @@ season: 17
 short: Machine Learning Engineering in Finance
 title: 'Practical MLOps for Finance: CI/CD, On-Prem Deployment & Minimal Viable ML'
 transcript:
+- header: Episode Introduction
+- header: 'Guest Introduction: Nemanja’s journey from Belgrade to ML Ops in Europe'
 - line: This week we'll talk about machine learning engineering in finances. And we
     have a special guest today, Nemanja. Nemanja was born and raised in Belgrade,
     Serbia, but since 2014, he's been living in Leuven, Belgium. He's an electrical
@@ -41,7 +43,8 @@ transcript:
   sec: 170
   time: '2:50'
   who: Nemanja
-- header: Nemanja’s background
+- header: 'Guest Background: Electrical engineering, PhD experience, and early career
+    moves'
 - line: Before we go into our main topic of machine learning engineering in finances,
     let's start with your background. Can you tell us about your career journey so
     far?
@@ -144,7 +147,7 @@ transcript:
   sec: 451
   time: '7:31'
   who: Alexey
-- header: When Nemanja first work as a data person
+- header: 'Early Data Roles: PhD, Deloitte, and first paid Python work'
 - line: By the way, your first job as a data person was Deloitte, right?
   sec: 498
   time: '8:18'
@@ -203,7 +206,8 @@ transcript:
   sec: 603
   time: '10:03'
   who: Nemanja
-- header: Typical problems that ML Ops folks solve in the financial sector
+- header: 'Finance Use Cases: Compliance, AML, fraud, and smart automation (document
+    & email processing)'
 - line: So what are the typical problems that data scientists, machine learning engineers,
     or ML Ops folks usually solve in the financial sector?
   sec: 635
@@ -279,7 +283,8 @@ transcript:
   sec: 847
   time: '14:07'
   who: Nemanja
-- header: What Nemanja currently does as an ML Engineer
+- header: 'Role Overview: ML engineering / ML Ops responsibilities in finance (CI/CD,
+    deployment choices)'
 - line: As an ML Ops person (ML engineer), what do you actually do? Because I imagine…
     We talked about more use cases, but as an ML engineer/ML Ops person, you don't
     work on the model that recognizes the account details, for example. Right?
@@ -352,7 +357,8 @@ transcript:
   sec: 1075
   time: '17:55'
   who: Nemanja
-- header: The obstacle of implementing new things in financial sector companies
+- header: 'Regulatory & Legacy Constraints: Slow change, legacy systems, and governance
+    impact'
 - line: And these existing DevOps practices, platforms, existing governance… What
     is there? I assume that it's not the most modern solutions. It's probably time-proven
     things that… You mentioned OpenShift. [cross-talk]
@@ -416,7 +422,7 @@ transcript:
   sec: 1281
   time: '21:21'
   who: Nemanja
-- header: Going through the hurdles of DevOps
+- header: 'DevOps Governance: Release management, approvals, and building trust'
 - line: Okay. So these are the existing DevOps practices and the governance framework
     that you mentioned, right? [Nemanja agrees] Which sounds like a bit of a hassle,
     to be honest. But there are reasons for that, right?
@@ -441,6 +447,8 @@ transcript:
   sec: 1361
   time: '22:41'
   who: Nemanja
+- header: 'Integrating ML with DevOps: Adapting ML workflows to existing corporate
+    processes'
 - line: Yeah. I imagine that, since there are these processes that were set up ages
     ago, that they're thought through, and they exist for a reason. And you, as an
     ML engineer/ML Ops person, need to stick to these processes, right? You work on
@@ -509,7 +517,8 @@ transcript:
   sec: 1656
   time: '27:36'
   who: Nemanja
-- header: Working with an on-premises cluster
+- header: 'On-Premises Infrastructure: Hadoop, OpenShift, hardware requests, and platform
+    teams'
 - line: How difficult is it to work on-premise? I imagine that there is this OpenShift
     cluster and then, I guess, there are all these procedures, standards, templates…
     It should be pretty smooth, right?
@@ -573,7 +582,7 @@ transcript:
   sec: 1837
   time: '30:37'
   who: Nemanja
-- header: “ML Ops on a Shoestring” (You don’t need fancy stuff to start w/ ML Ops)
+- header: 'ML Ops on a Shoestring: Prioritization and minimal viable ML Ops strategy'
 - line: So we met in Porto at a conference, Data Makers Fest, and you gave a talk.
     [Nemanja agrees] It was a very nice talk. I attended that talk. I think I was
     even a moderator. I don’t remember. [chuckles] [Nemanja agrees] Yeah. In that
@@ -594,6 +603,8 @@ transcript:
   sec: 1915
   time: '31:55'
   who: Alexey
+- header: 'Minimal ML Ops Components: Dev/test/prod environments, monitoring, model
+    registry, data versioning, reproducible pipelines'
 - line: Yeah. It’s there. Basically, the idea was, as I say there, we all operate
     on a certain budget. This can be a time budget, it can be a money budget, or a
     people budget and so forth. If you're in a larger organization and you want to
@@ -658,7 +669,8 @@ transcript:
   sec: 2105
   time: '35:05'
   who: Nemanja
-- header: Tactical solutions
+- header: 'Tactical Solutions: Using S3 and simple approaches as interim model registry/data
+    versioning'
 - line: Yeah, I love how it sounds, “tactical solution”. [chuckles] You would call
     this a “temporary solution” but then, five years later, it's still there. [chuckles]
     Because… [cross-talk]
@@ -715,6 +727,7 @@ transcript:
   sec: 2306
   time: '38:26'
   who: Alexey
+- header: 'Project Approach: Prototyping, Agile limits for ML, and iterative groundwork'
 - line: Yeah, but I would say that the main issue I have with Agile is that it forces
     you, in a way, to try to make something… I would call it “demo-driven development”.
     You need to immediately have something to show. I think it forces you, in a way,
@@ -754,6 +767,8 @@ transcript:
   sec: 2414
   time: '40:14'
   who: Nemanja
+- header: 'Team Structure: Multiple data scientists per ML engineer and standardized
+    deployment patterns'
 - line: So that’s why you have two-three data scientists per one ML engineer?
   sec: 2474
   time: '41:14'
@@ -801,7 +816,8 @@ transcript:
   sec: 2565
   time: '42:45'
   who: Nemanja
-- header: Platform work and code work
+- header: 'Platform & Reuse: Internal libraries, FastAPI framework, and maintaining
+    production apps'
 - line: Do I understand correctly that you have two categories of work? You have the
     platform work and then you also have the code standardization, code review work,
     [Nemanja agrees] where you help data scientists with their projects. Then in addition
@@ -839,7 +855,8 @@ transcript:
   sec: 2672
   time: '44:32'
   who: Nemanja
-- header: Programming and soft skills needed to be an ML Engineer
+- header: 'Skills for ML Engineers: Python, Linux, networking, cloud basics, and stakeholder
+    evangelism'
 - line: I noticed that we have quite a few questions from the audience. Question number
     one and two – I'll combine them. “What kind of programming skills and soft skills
     do you need to have as an ML engineer?”
@@ -918,8 +935,8 @@ transcript:
   sec: 2921
   time: '48:41'
   who: Nemanja
-- header: The challenges of transitioning from and electrical engineering and sales
-    to ML Ops
+- header: 'Career Transition Challenges: Moving from electrical engineering and sales
+    into ML — probabilistic thinking'
 - line: Okay. There is an interesting question from Debora, which… We talked about
     sales a little bit. “What was the most challenging aspect of transitioning from
     doing sales and doing electrical engineering, to a machine learning role, especially
@@ -1010,7 +1027,8 @@ transcript:
   sec: 3144
   time: '52:24'
   who: Nemanja
-- header: The ML Ops tech stack for beginners
+- header: 'Beginner Tech Stack: Python, SQL, Pandas/Polars, cloud basics, and job-market
+    driven learning'
 - line: '[chuckles] Okay. Another question, “What is the general tech stack for machine
     learning for a novice/beginner?”'
   sec: 3171
@@ -1072,7 +1090,8 @@ transcript:
   sec: 3203
   time: '53:23'
   who: Nemanja
-- header: Working on projects to determine which skills you need
+- header: 'Learn by Building: End-to-end projects, web apps, and scraping job postings
+    to discover in-demand skills'
 - line: Yeah, I think that's the best [advice]. Instead of thinking, “What kind of
     tech do I need to learn?” Think, “What kind of projects do I want to make?” [Nemanja
     agrees] “What kind of problems do I want to solve?” And then, “Okay, this is the
@@ -1127,6 +1146,7 @@ transcript:
   sec: 3537
   time: '58:57'
   who: Nemanja
+- header: Closing Remarks and Links to Talk/Resources
 - line: Okay. I think that's all we have time for today. We should be wrapping up.
     Thanks. It's always a pleasure talking to you.
   sec: 3544

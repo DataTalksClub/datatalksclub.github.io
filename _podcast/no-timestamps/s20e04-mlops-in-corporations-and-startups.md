@@ -16,7 +16,7 @@ short: MLOps in Corporations and Startups
 title: 'Lean MLOps for Startups: SaaS-First MVP Stack, Avoid Vendor Lock-In & Manage
   Tech Debt'
 transcript:
-- header: 0:00 MLOps in corporations versus startups
+- header: Episode Introduction & Topic Overview
 - line: This week, we’ll talk about MLOps in corporations versus startups. Our special
     guest is Nemanja, who’s been on the podcast before. Last year, we discussed machine
     learning engineering in finance, which turned out to be one of our most popular
@@ -41,6 +41,7 @@ transcript:
   sec: 60
   time: '1:00'
   who: Alexey
+- header: 'Career Journey: Academia → Consulting → Finance Machine Learning Engineering'
 - line: Sure! I was born and raised in Belgrade, Serbia, where I completed my bachelor’s
     and master’s studies in electrical engineering, focusing on signals and systems.
     This was my first exposure to machine learning theory.
@@ -87,7 +88,7 @@ transcript:
   sec: 135
   time: '2:15'
   who: Nemanja
-- header: 6:03 The agility and pace of startups
+- header: 'Startup Pace: Agility, Speed, and Managerial Insights'
 - line: Working in a startup feels like flying. You don’t have the bureaucratic restrictions
     that exist in big corporations. Of course, those restrictions often serve as safety
     nets, but they can also slow things down.
@@ -101,7 +102,7 @@ transcript:
   sec: 363
   time: '6:03'
   who: Nemanja
-- header: 7:54 MLOps on a shoestring budget
+- header: 'Lean MLOps: Shoestring Strategies for Early-Stage Companies'
 - line: When we met at the DataMakers Fest conference, we ended up in the same car
     and started talking. I also attended your talk, which was about doing MLOps on
     a shoestring budget.
@@ -162,6 +163,7 @@ transcript:
   sec: 646
   time: '10:46'
   who: Nemanja
+- header: 'SaaS-First Approach: Vendor Solutions for Small Teams'
 - line: At Tempo, where I’m working now, it’s like, “Should we try this? Should we
     try that? Let’s try Logfire, Grafana, or this other tool.” You experiment and
     keep what works best.
@@ -180,7 +182,7 @@ transcript:
   sec: 714
   time: '11:54'
   who: Nemanja
-- header: 12:54 Cloud solutions for startups
+- header: 'Cloud Trade-offs: Startup Credits, Migration Friction, and Lock‑in'
 - line: Going on-premise is hard for a startup unless it makes a lot of sense. I think
     it’s a no-brainer for startups to go for the cloud. However, there needs to be
     a clever decision because migrating from one cloud to another can be slow and
@@ -211,7 +213,7 @@ transcript:
   sec: 888
   time: '14:48'
   who: Alexey
-- header: 15:06 Challenges of cloud complexity versus on-premise
+- header: 'Cloud Complexity: Infrastructure as Code and Operational Overhead'
 - line: Yes, the cloud adds extra complexity. I’ve worked mainly on-premise for about
     seven to eight years out of my ten years in data science. I always wanted more
     cloud experience, but when I fully switched to the cloud, I thought, “Wait, I
@@ -251,6 +253,7 @@ transcript:
   sec: 1043
   time: '17:23'
   who: Alexey
+- header: 'MVP Stack: Prioritizing Tools for Rapid Prototyping and Launch'
 - line: 'Yes, for this startup, the priority was to have certain features ready within
     two months: a visualization dashboard, an industrialized API, and so on. The goal
     was to make it robust and fast so we could move to the next stage and launch the
@@ -277,7 +280,7 @@ transcript:
   sec: 1109
   time: '18:29'
   who: Nemanja
-- header: 19:19 Selecting tools and avoiding vendor lock-in
+- header: 'Portability vs Managed Services: Avoiding Vendor Lock‑In (Vertex AI, SageMaker)'
 - line: I tried Kubeflow, and it was a huge pain because of all the YAML files and
     Kubernetes complexity. Maybe it makes sense in the long run, but at the beginning,
     you might just need Flask or something simpler.
@@ -314,6 +317,7 @@ transcript:
   sec: 1274
   time: '21:14'
   who: Alexey
+- header: 'Low‑Code Trade-offs: Speed vs Future Flexibility'
 - line: Yes, that makes you more portable. Some startups might want to start as fast
     as possible using low-code solutions. If you can only hire a data scientist and
     not a proper software or systems engineer, you might go with a low-code platform.
@@ -326,7 +330,7 @@ transcript:
   sec: 1295
   time: '21:35'
   who: Nemanja
-- header: 22:22 Choosing between a startup and a corporation
+- header: 'Career Decision Framework: Choosing Startups or Corporations'
 - line: Let’s imagine I am a machine learning engineer with two offers—one from a
     startup and one from a Fortune 500 company. How should I decide between the two?
   sec: 1342
@@ -410,7 +414,7 @@ transcript:
   sec: 1631
   time: '27:11'
   who: Nemanja
-- header: 27:30 Flexibility and risks in startups
+- header: 'End‑to‑End Ownership: Multidisciplinary Work in Startups'
 - line: Startups also pivot frequently. A small, young startup might shift directions
     completely based on client demands. One client might leave, and another might
     request something entirely different. This kind of abrupt change keeps things
@@ -436,7 +440,7 @@ transcript:
   sec: 1743
   time: '29:03'
   who: Nemanja
-- header: 29:37 Bureaucracy and processes in corporations
+- header: 'Corporate Processes: "Agile" vs Bureaucratic Planning Cycles'
 - line: Big corporations often label their processes as "agile," but it’s often just
     waterfall broken into smaller increments. For example, if you miss a quarterly
     planning session, you’re told to wait three months for the next one.
@@ -513,7 +517,7 @@ transcript:
   sec: 1980
   time: '33:00'
   who: Nemanja
-- header: 33:17 The role of frameworks in corporations
+- header: 'Platform & Frameworks: Automating Developer Workflows'
 - line: That’s how it should work. But something goes wrong when companies slice and
     dice domains of responsibility too much.
   sec: 1997
@@ -535,7 +539,7 @@ transcript:
   sec: 2054
   time: '34:14'
   who: Nemanja
-- header: 34:32 Advantages of large teams in corporations
+- header: 'Team Scale Advantages: Redundancy, Support, and Internal Mobility'
 - line: One advantage in corporations is being part of a big team. If you go on holiday,
     someone else can pick up your work. In startups, this is much harder because they’re
     so lean.
@@ -562,6 +566,7 @@ transcript:
   sec: 2132
   time: '35:32'
   who: Nemanja
+- header: 'Startup Intensity: Learning Curve, Burnout Risk, and Rewards'
 - line: But also, what you didn’t mention—and what I experienced—is that it’s never
     boring. Yes, and you have this cool end-to-end ownership of things.
   sec: 2148
@@ -624,6 +629,7 @@ transcript:
   sec: 2267
   time: '37:47'
   who: Nemanja
+- header: 'AI‑Assisted Coding: Productivity Gains and Technical Debt Risks'
 - line: But you know what I see as a risk now with LLMs and AI-assisted coding?
   sec: 2274
   time: '37:54'
@@ -697,7 +703,7 @@ transcript:
   sec: 2393
   time: '39:53'
   who: Alexey
-- header: 40:01 Challenges of technical debt in startups
+- header: 'Technical Debt Management: Notes, Awareness, and Security Implications'
 - line: Yeah, that also happens. But I think LLMs are drastically increasing the amount
     of technical debt we’re creating.
   sec: 2401
@@ -771,7 +777,7 @@ transcript:
   sec: 2586
   time: '43:06'
   who: Alexey
-- header: 43:12 Career advice for junior data scientists
+- header: 'Early‑Career Advice: Mentorship, Pairing, and Role Selection'
 - line: For juniors, is it better to join a corporation or a more established company?
   sec: 2592
   time: '43:12'
@@ -791,7 +797,7 @@ transcript:
   sec: 2628
   time: '43:48'
   who: Nemanja
-- header: 44:10 Tools and frameworks for MLOps projects
+- header: 'Minimal MLOps Stack: Python, CI/CD Orchestration, and Dagster'
 - line: 'We have quite a few questions. One is: What tools do you use for your MLOps
     projects, and how do you balance time between new and old tools?'
   sec: 2650
@@ -825,6 +831,7 @@ transcript:
   sec: 2739
   time: '45:39'
   who: Nemanja
+- header: 'Observability Choices: Logfire, Prometheus/Grafana, and Streamlit'
 - line: For observability, I recently used Logfire, which I really liked.
   sec: 2755
   time: '45:55'
@@ -897,6 +904,7 @@ transcript:
   sec: 2883
   time: '48:03'
   who: Nemanja
+- header: 'Product Modularity: Desire for Standalone Model Registries & Observability'
 - line: Yeah, it's not that simple. I remember trying to talk to Databricks people,
     saying, "Hey, I just want MLflow with authentication. I don’t need anything else,
     just MLflow."
@@ -933,7 +941,7 @@ transcript:
   sec: 2927
   time: '48:47'
   who: Alexey
-- header: 49:00 Balancing new and old technologies in skill development
+- header: 'Skill Investment: Foundational Tools (Linux, Python, Bash) vs New Tech'
 - line: 'Like, this question actually has three questions. So, the second one is:
     what''s your advice on investing time in new or old tools?'
   sec: 2940
@@ -1007,6 +1015,7 @@ transcript:
   sec: 3075
   time: '51:15'
   who: Nemanja
+- header: 'Market Signals for Learning: Job Postings, Airflow, and Targeted Skills'
 - line: Yeah, and if you do that and see that all companies use Airflow, and that’s
     all they want...
   sec: 3087
@@ -1076,7 +1085,7 @@ transcript:
   sec: 3199
   time: '53:19'
   who: Nemanja
-- header: 55:43 Data engineering challenges and reliability in LLMs
+- header: 'Data Engineering Reliability: Quality, Lineage, and LLM Unpredictability'
 - line: I think it’s similar with people in AI. Data engineering is much older than
     MLOps engineering, and still, you hear many senior data engineers saying, "Hey,
     we’re still facing the same issues with data quality, lineage, and so on." So
@@ -1120,7 +1129,7 @@ transcript:
   sec: 3412
   time: '56:52'
   who: Nemanja
-- header: 57:09 On-premise vs. cloud solutions in data-sensitive industries
+- header: 'On‑Premise vs Cloud: Privacy, Cost Efficiency, and Migration Strategy'
 - line: 'Right. So maybe let’s take one last question. You mentioned you have experience
     with on-premise systems. Most corporations you’ve worked with have preferred on-premise
     over cloud solutions. Luka is asking: Do you think on-premise will be the future
@@ -1162,7 +1171,6 @@ transcript:
   sec: 3543
   time: '59:03'
   who: Nemanja
-- header: 59:29 Alternatives like Dask for distributed systems
 - line: Alright, one quick question to wrap up. We talked about Spark earlier, and
     you mentioned you didn’t have to use it extensively, but it’s often a key topic
     in interviews. Have you used Dask? Do you think it’s a good alternative for distributed
@@ -1189,6 +1197,7 @@ transcript:
   sec: 3604
   time: '1:00:04'
   who: Nemanja
+- header: 'Distributed Compute Alternatives: Dask, Spark, and Performance Trade‑offs'
 - line: Dask is a mature tool, and I know it works in a distributed manner like Spark.
     However, I haven’t seen it widely used in the industry. Companies usually default
     to Spark for distributed processing. My limited success with Dask doesn’t mean
@@ -1201,6 +1210,7 @@ transcript:
   sec: 3668
   time: '1:01:08'
   who: Alexey
+- header: Closing Remarks and Next Steps
 - line: Anyway, thanks so much for your time. This was an amazing discussion. It’s
     always a pleasure to have you as a guest. Maybe we can make this a recurring thing?
   sec: 3701

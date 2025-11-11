@@ -16,6 +16,7 @@ short: Designing a Data Science Organization
 title: 'Designing High-Impact Data Science Orgs: Centralized vs Embedded Models, Experimentation
   & Staffing'
 transcript:
+- header: 'Guest Introduction: Lisa Cohen, Director of Data Science at Twitter'
 - line: This week, we'll talk about designing a data science organization. We have
     a special guest today, Lisa. Lisa is a director of data science for Twitter and
     she leads an organization of 200 data scientists. Before that, Lisa worked at
@@ -27,7 +28,7 @@ transcript:
   sec: 100
   time: '1:40'
   who: Lisa
-- header: Lisa’s background
+- header: 'Career Background: Applied Math, Microsoft telemetry, Azure to Twitter'
 - line: Before we go into our main topic of today, which is designing a data science
     organization, let's start with your background. Can you tell us about your career
     journey so far?
@@ -110,7 +111,7 @@ transcript:
   sec: 372
   time: '6:12'
   who: Lisa
-- header: Centralized org vs decentralized org
+- header: 'Org Models Overview: Centralized vs decentralized data science organization'
 - line: '[chuckles] Right. Some time ago, I came across your article, which was about
     designing a data science organization. Actually, this is what I wanted to talk
     about in this podcast episode. You start this article – I think you actually wrote
@@ -148,6 +149,8 @@ transcript:
   sec: 498
   time: '8:18'
   who: Alexey
+- header: 'Embedding Explained: Reporting lines vs day‑to‑day integration with feature
+    teams'
 - line: Yeah, we can go back maybe to the Azure example. So we have a whole organization,
     with the VP managing the managers across the various areas – all data science
     and data engineering. We can talk about the different roles within data, if it
@@ -188,7 +191,7 @@ transcript:
   sec: 640
   time: '10:40'
   who: Lisa
-- header: Hybrid org (centralized/decentralized)
+- header: 'Hybrid Structure: Centralization per division and multiple DS orgs'
 - line: Okay. And then the other thing?
   sec: 641
   time: '10:41'
@@ -284,7 +287,7 @@ transcript:
   sec: 924
   time: '15:24'
   who: Lisa
-- header: Reporting your results in a data organization
+- header: 'Reporting Structure: Embedded teams vs centralized data science reporting'
 - line: Yeah. Okay, I'll take a note of this to make sure I do not forget the question.
     Ah, you're back. Okay. I was about to take note of the question. But now I forgot.
     I think I was giving you a summary. The summary was – you have a feature team
@@ -338,7 +341,7 @@ transcript:
   sec: 1101
   time: '18:21'
   who: Lisa
-- header: Planning in a data organization
+- header: 'Team Rhythms & Planning: Cross‑functional ceremonies and dependency management'
 - line: But I guess a team has to have some sort of rhythm – some sort of ceremonies
     and things like this. For example, you start with planning, then you work for
     two weeks, then you finish with a retrospective – some sort of process, right?
@@ -397,7 +400,7 @@ transcript:
   sec: 1239
   time: '20:39'
   who: Lisa
-- header: Having all the moving parts work towards the same goals
+- header: 'Cross‑Functional Alignment: OKRs and aligning goals across levels'
 - line: But on the surface, it looks a bit complicated, right? Because you have a
     lot of functions that are not really connected, if you think about the hierarchical
     structures, but they still somehow work together and move towards the same direction
@@ -447,7 +450,7 @@ transcript:
   sec: 1443
   time: '24:03'
   who: Lisa
-- header: Which approach Twitter follows (centralized vs decentralized)
+- header: 'Twitter’s Approach: Hybrid per‑division model for product and ads'
 - line: I'm taking a lot of notes because I want to come back to this and talk about
     that. But I also wanted to take a step back and, again, come back to this “centralized
     vs decentralized”. I think we've talked about what we can call “centralized,”
@@ -465,7 +468,8 @@ transcript:
   sec: 1523
   time: '25:23'
   who: Lisa
-- header: Pros and cons of a decentralized approach
+- header: 'Decentralized Model: Immersive domain context, faster decisions, career
+    tradeoffs'
 - line: Let's talk a bit about the decentralized one. What are the pros and cons of
     having data scientists report to an engineering manager (without having a data
     science manager, a head of data science and so on)?
@@ -529,7 +533,8 @@ transcript:
   sec: 1729
   time: '28:49'
   who: Lisa
-- header: Pros and cons of a centralized approach
+- header: 'Centralized Model: Knowledge sharing, consistency, and context‑building
+    challenges'
 - line: Okay. And what are the cons of the centralized approach? What are the disadvantages?
   sec: 1765
   time: '29:25'
@@ -556,7 +561,8 @@ transcript:
   sec: 1771
   time: '29:31'
   who: Lisa
-- header: Finding a common language with all the functions of an org
+- header: 'Communicating Insights: Translating metrics for product, engineering, and
+    design'
 - line: This thing you mentioned, “more academic, more removed” – I guess having these
     shared goals that you mentioned, if you align on every level, if you have these
     shared goals on every level, that helps data scientists stay focused on the end
@@ -596,7 +602,7 @@ transcript:
   sec: 1942
   time: '32:22'
   who: Lisa
-- header: Finding the right approach for companies that want to implement data science
+- header: 'Starting Data Science: Foundations—data pipelines, data quality, and analytics'
 - line: Let's say we just want to start with data science in our company. How do we
     select the right approach?
   sec: 1988
@@ -670,7 +676,8 @@ transcript:
   sec: 2186
   time: '36:26'
   who: Lisa
-- header: How many data scientists does a company need?
+- header: 'Staffing Guidance: Engineers‑to‑data‑scientist ratios and ML partnerships
+    (8:1 reference)'
 - line: We have a question, “How many data scientists will I need? How do I estimate
     this before starting a project?”
   sec: 2209
@@ -783,7 +790,8 @@ transcript:
   sec: 2535
   time: '42:15'
   who: Lisa
-- header: Who do data scientists report huge findings to?
+- header: 'Knowledge Sharing & Publication: Research archives, Slack channels, and
+    push mechanisms'
 - line: Probably. [chuckles] Okay. I'll ask another question. The question is, “I'm
     interested in what happens when a data scientist finds a huge discovery in data?
     To whom do they report these findings? Is it the head of data science? Is it the
@@ -856,7 +864,8 @@ transcript:
   sec: 2755
   time: '45:55'
   who: Lisa
-- header: The importance of partnering closely with other functions of the org
+- header: 'Product Partnership: Co‑ownership with product, engineering, design, and
+    research'
 - line: But you still can work from home if you want to, right? Okay. There was something
     else that I wanted to talk about, which is – I took a look at your LinkedIn and
     what you do at Twitter, and then I took a look at one of the paragraphs you wrote
@@ -876,7 +885,8 @@ transcript:
   sec: 2825
   time: '47:05'
   who: Lisa
-- header: The role of Product Managers in the org and across functions
+- header: 'Metrics & Experimentation: Defining success metrics, ship criteria, and
+    experiment review'
 - line: I guess it’s because the product managers, at least in my experience, are
     the people who actually know what is important for the user. So they are kind
     of the most important stakeholders, right? They show you the direction, and then
@@ -927,7 +937,7 @@ transcript:
   sec: 2890
   time: '48:10'
   who: Lisa
-- header: Who does analytics at Twitter (analysts vs data scientists)
+- header: 'Analytics vs Data Science: Analysts driving dashboards vs ML‑heavy DS work'
 - line: Do you have product analysts? Or is it mostly data scientists who do analytics?
   sec: 3044
   time: '50:44'
@@ -962,7 +972,8 @@ transcript:
   sec: 3077
   time: '51:17'
   who: Lisa
-- header: The importance of goals, objectives and key results
+- header: 'OKRs & Exploration Time: Using objectives to prioritize and allocate research
+    time'
 - line: Yeah. I think we've talked about how you partner with them and the examples.
     I think it also comes back a little bit when we talked about goal setting, objectives,
     and key results, and so on. Is it essentially the main tool that you use for partnering
@@ -993,7 +1004,8 @@ transcript:
   sec: 3178
   time: '52:58'
   who: Lisa
-- header: Conflicting objectives
+- header: 'Resolving Conflicts: Data‑driven opportunity sizing for prioritization
+    decisions'
 - line: How often does it happen – maybe not specifically at Twitter, but just in
     your experience – that in this kind of setup, different functions have conflicting
     goals? Let's say data science wants to go more into data science, while in the
@@ -1029,6 +1041,8 @@ transcript:
   sec: 3347
   time: '55:47'
   who: Lisa
+- header: 'Data‑Driven Product Innovation: Guiding roadmap decisions with trusted
+    data'
 - line: Okay. [chuckles] Coming back to this sentence, “partnering closely with product
     management, engineering, design and research,” we covered that – “to pursue data-driven
     product innovation.” So what is “data driven product innovation”? Is this the
@@ -1063,7 +1077,8 @@ transcript:
   sec: 3437
   time: '57:17'
   who: Alexey
-- header: The importance of research
+- header: 'Qualitative Research Collaboration: Bridging user studies with quantitative
+    analysis'
 - line: One point I’ll just mention – you were talking about partnering across the
     functions. Research is also an interesting one, where we really tried to do joint
     research together across the user studies, like qualitative research, as well
@@ -1107,7 +1122,7 @@ transcript:
   sec: 3538
   time: '58:58'
   who: Lisa
-- header: Finding Lisa online
+- header: 'Contact & Resources: Lisa on Twitter, LinkedIn, and Medium'
 - line: If somebody wants to find you and ask a question, or what is the best way
     of doing this? Is it Twitter or some other place?
   sec: 3578
@@ -1123,6 +1138,7 @@ transcript:
   sec: 3595
   time: '59:55'
   who: Alexey
+- header: Episode Wrap‑Up and Closing Remarks
 - line: This is great, yeah. I love the conversation. Thank you for driving through
     all the different topics I’m exploring here. Great to chat with you, as always.
   sec: 3603

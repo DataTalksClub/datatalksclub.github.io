@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/4LFZX7IfpdYkQ6si4ed0OR
   apple: https://podcasts.apple.com/us/podcast/recruiting-data-professionals-alicja-notowska/id1541710331?i=1000549307220
 transcript:
+- header: Podcast Introduction
+- header: Guest Background & Recruiting Experience
 - line: This week, we'll talk about hiring data professionals. We have a special guest
     today, Alicja. Alicja worked for almost six years at Zalando as a recruiter with
     a focus on hiring data scientists. I think at Zalando they’re called ‘applied
@@ -37,12 +39,12 @@ transcript:
   sec: 180
   time: '3:00'
   who: Alicja
-- header: Alicja’s background
 - line: Before we go into our main topic of hiring data people, let's start with your
     background. Can you tell us about your career journey so far?
   sec: 184
   time: '3:04'
   who: Alexey
+- header: 'Current Role: Embedded Talent Agency & Client Lead'
 - line: I started over 10 years ago in recruitment. Like most people, I kind of fell
     into it. I started working in a recruitment agency, a very small one, and then
     I moved onto in-house recruiting. I didn’t become a headhunter, but rather a part
@@ -80,7 +82,7 @@ transcript:
   sec: 269
   time: '4:29'
   who: Alicja
-- header: The hiring process
+- header: Typical Interview Funnel for Data Roles
 - line: Interesting. We will probably talk more about the work you were doing as Zalando,
     but I guess the process is similar, where you look not just for data folks, but
     usual tech professionals as well. So I'm curious, what does the hiring process
@@ -112,6 +114,7 @@ transcript:
   sec: 371
   time: '6:11'
   who: Alexey
+- header: End-to-End Recruiting Responsibilities
 - line: Yes, of course. When I talked about the process, I guess I just kind of explained
     the recruitment or the interviewing process. But, of course, before we even get
     into that stage, there is a lot of stuff that has to happen beforehand. First,
@@ -127,12 +130,12 @@ transcript:
   sec: 380
   time: '6:20'
   who: Alicja
-- header: Sourcing and recruiting
 - line: That’s quite a lot of work. And what do you do in this process? What is your
     role in this process?
   sec: 421
   time: '7:01'
   who: Alexey
+- header: Collaborating with Hiring Managers & Crafting Job Specs
 - line: The role all starts whenever there is a need, or a demand – and obviously,
     the budget also has to be there to hire someone like a data scientist or data
     engineer. Typically, there’s also a hiring manager, which could be anyone, such
@@ -170,6 +173,7 @@ transcript:
   sec: 539
   time: '8:59'
   who: Alexey
+- header: 'Sourcing Channels: LinkedIn, GitHub, Conferences & Academia'
 - line: That's where it starts. Yes. Of course, then there are two folds. When hiring
     data professionals, and I think tech people in general, it's a very competitive
     market, but from my experience more so when it comes to data scientists or data
@@ -221,6 +225,7 @@ transcript:
   sec: 689
   time: '11:29'
   who: Alexey
+- header: Building Talent Pipelines & 360° Recruitment
 - line: Yeah, I mean. [laughs] Yeah, there are many, many different ways. Also, looking
     at University alumni, especially for data professionals – if we're looking for
     people who need to have a certain level, like PhDs, we look at the alumni of universities.
@@ -263,7 +268,7 @@ transcript:
   sec: 694
   time: '11:34'
   who: Alicja
-- header: Managing expectations
+- header: Managing Hiring Expectations & Market Reality
 - line: That’s a lot of work. You mentioned quite a few interesting things that I
     wanted to ask you about. First I wanted to ask about, apart from Reddit which
     was also quite interesting – but what really got my attention is, you mentioned
@@ -320,6 +325,7 @@ transcript:
   sec: 1010
   time: '16:50'
   who: Alexey
+- header: Using Talent Market Data to Negotiate Requirements
 - line: With data, obviously, you have to. I think, especially in tech recruitment,
     but especially when dealing with data scientists, I've noticed this is the thing.
     You just need to have the data to show them and that's the easiest way to convince
@@ -333,13 +339,13 @@ transcript:
   sec: 1038
   time: '17:18'
   who: Alicja
-- header: Making the job description attractive
 - line: Interesting. Another thing you mentioned is – you work with the hiring manager
     to make sure that the position (the job description) looks attractive. How do
     you do this? By carefully picking the words or how exactly does that work?
   sec: 1091
   time: '18:11'
   who: Alexey
+- header: 'Job Description Focus: Problems Over Perks'
 - line: For me, it was always the case where I wouldn't write the job description
     myself. Because I don't know what specific AI tools or methods in machine learning
     have to be in the description or how to word it so that it actually makes sense
@@ -374,6 +380,7 @@ transcript:
   sec: 1202
   time: '20:02'
   who: Alexey
+- header: Inclusive JD Language & AI Tools for Attraction
 - line: It doesn't flip the scales. Another part of actually writing job descriptions
     – this is something that is maybe more recent – there are actually AI-driven tools
     that allow us to go through the job description and tell us things like, “What
@@ -400,7 +407,7 @@ transcript:
   sec: 1289
   time: '21:29'
   who: Alicja
-- header: Selecting profiles during sourcing
+- header: 'Screening Profiles: Experience, Education & Responsibilities'
 - line: Let’s talk more about sourcing – you now posted it, you negotiated the requirements
     with the hiring manager, you’ve made an attractive job description. Now you go
     live with this description and people start applying. But you also mentioned that
@@ -470,7 +477,7 @@ transcript:
   sec: 1333
   time: '22:13'
   who: Alicja
-- header: Profile keywords
+- header: Keyword Strategy for Data Scientist Searches
 - line: Do you remember what kind of keywords you put in there? Let's say if you were
     to look for a data scientist right now, what kind of keywords would you put in
     the search tool?
@@ -496,7 +503,7 @@ transcript:
   sec: 1610
   time: '26:50'
   who: Alicja
-- header: The importance of a Master’s vs a Bachelor’s degree vs a PhD
+- header: 'Education Signals: Bachelor’s, Master’s & PhD Expectations'
 - line: How important do you think it is to have a Master's degree? Let's say somebody
     only has a Bachelor’s degree level of education. Or maybe they don't have any
     degree at all. How important is it?
@@ -525,7 +532,7 @@ transcript:
   sec: 1644
   time: '27:24'
   who: Alicja
-- header: Improving CV
+- header: 'CV Best Practices: Responsibilities, Dates & Clarity'
 - line: Okay. I also prepared a couple of questions about CV screening and I think
     we partly covered that. I assume the process for you of looking at a LinkedIn
     profile is similar to looking at a CV that you get when somebody applies. Is it
@@ -591,6 +598,7 @@ transcript:
   sec: 1943
   time: '32:23'
   who: Alexey
+- header: Avoiding Buzzwords & Making CVs Interview-Ready
 - line: They should be very clear about their responsibilities and what they did in
     their current job, in their previous jobs, as opposed to what the team did. Of
     course, I don't mean “don't give credit to the team” and don't own up to things
@@ -656,7 +664,7 @@ transcript:
   sec: 2047
   time: '34:07'
   who: Alicja
-- header: Interview with the recruiter
+- header: 'Recruiter Screening Interviews: Behavioral & Motivation Checks'
 - line: Yeah, thanks. So. Now you look at the CV, you decide to move forward with
     a candidate. The next step is an interview with a recruiter – with you. Right?
     So what does this look like? What do you talk about there?
@@ -715,7 +723,6 @@ transcript:
   sec: 2185
   time: '36:25'
   who: Alicja
-- header: Salary expectations
 - line: When it comes to salary expectation questions, I heard this advice – “Never
     say the number first.” So when somebody asks you, let's say I'm a data scientist
     and you're a recruiter. We are having this initial screening. You ask me, “What
@@ -726,6 +733,7 @@ transcript:
   sec: 2393
   time: '39:53'
   who: Alexey
+- header: 'Salary Conversations: Bands, Transparency & Negotiation'
 - line: It depends. But what I would do before answering first, is actually say, “It
     can be super helpful to know the expectations.” However, I don't think that it’s
     necessary for you to say what your current salary is. This is something I follow
@@ -792,6 +800,7 @@ transcript:
   sec: 2433
   time: '40:33'
   who: Alicja
+- header: Handling High Salary Requests & Market Research
 - line: You mentioned, if I would say, “Well, I'm having this conversation with the
     recruiter.” And then I give a number that is quite high and you see, “Okay, there
     is no way we can match this with what we have.” But maybe the reason I told this
@@ -834,7 +843,7 @@ transcript:
   sec: 2737
   time: '45:37'
   who: Alicja
-- header: Advice for “career changers”
+- header: 'Pathways for Career Changers: Gaining Practical Experience'
 - line: Okay, thank you. I see that we have quite a few questions. I think it's time
     we try to cover them. The first question, from Amen, is “How can career changers
     get in the eyes of a recruiter? What would be your advice to people who are changing
@@ -880,7 +889,6 @@ transcript:
   sec: 2883
   time: '48:03'
   who: Alicja
-- header: Cover letters
 - line: Yeah, thanks. What do you think about the importance of a cover letter? This
     is a question from Alma, “How important do you think it is to have a cover letter
     in Berlin?” Or should it be more based on CV, where the CV is more important than
@@ -888,6 +896,7 @@ transcript:
   sec: 3033
   time: '50:33'
   who: Alexey
+- header: 'Cover Letters vs CVs: When They Matter'
 - line: If the cover letter is obligatory during the application process, and sometimes
     it will be, then, of course, it's important. That means that the recruiter or
     hiring manager, are both, will read it. I would say a lot of the time, I wouldn't
@@ -938,7 +947,6 @@ transcript:
   sec: 3191
   time: '53:11'
   who: Alicja
-- header: Data analysts
 - line: Do you also need to hire data analyst profiles?
   sec: 3220
   time: '53:40'
@@ -950,6 +958,7 @@ transcript:
   sec: 3225
   time: '53:45'
   who: Alicja
+- header: 'Data Analyst Hiring: Title Ambiguity & Similar Processes'
 - line: There is a question from Amin, “Do you have any tips for those who are looking
     for data analyst jobs?”
   sec: 3249
@@ -975,7 +984,6 @@ transcript:
   sec: 3302
   time: '55:02'
   who: Alicja
-- header: Double Bachelor’s degrees
 - line: What about somebody having two Bachelor’s degrees? For example, one in IT
     and one in account management. Do you think that's a good thing? Would it make
     candidates stand out or not?
@@ -1005,7 +1013,6 @@ transcript:
   sec: 3364
   time: '56:04'
   who: Alicja
-- header: The most difficult part of hiring
 - line: Okay. There is a question from Rado, “What is the most difficult part of hiring
     a data professional?”
   sec: 3395
@@ -1066,7 +1073,7 @@ transcript:
   sec: 3567
   time: '59:27'
   who: Alicja
-- header: Coursera courses on the CV
+- header: Portfolio Projects & Online Courses on Your CV
 - line: Do recruiters consider portfolio projects, like from courses from Coursera?
     When you look at CVS and you look at projects, do you think, “Okay, this person
     has a project from a Coursera course.” Do you think it's a good thing or not?
@@ -1110,12 +1117,13 @@ transcript:
   sec: 3667
   time: '1:01:07'
   who: Alicja
-- header: Making a good impression on recruiters
+- header: 'Making a Strong Impression: Clear Explanations & Examples'
 - line: Okay, thanks. Let's take the last one. The question from Rondo is, “What advice
     would you give to data professionals to make a good impression on recruiters?”
   sec: 3697
   time: '1:01:37'
   who: Alexey
+- header: 'Offer Etiquette: Communication, Commitments & Withdrawals'
 - line: It's not that difficult. [laughs] No, just kidding. I don't know, I particularly
     enjoyed recruiting and interviewing data professionals after I got to know them.
     Like for Zalando, I managed to get to know a lot of people and understand things
@@ -1184,7 +1192,7 @@ transcript:
   sec: 3709
   time: '1:01:49'
   who: Alicja
-- header: Wrapping up
+- header: Where to Find Alicja & Episode Wrap-up
 - line: Yeah, thanks. Thanks for the advice. How can people find you?
   sec: 4004
   time: '1:06:44'

@@ -15,7 +15,7 @@ season: 19
 short: Career choices, transitions and promotions in and out of tech
 title: 'DevOps to Data Engineering: Automation, Open Source & Volunteering'
 transcript:
-- header: Career choices, transitions and promotions in and out of tech
+- header: Podcast Introduction
 - line: We have a special guest today, Agita. She has done a lot in her career, including
     work in DevOps, DataOps, data engineering, management, community building, education,
     and facilitation, among other things. I’m sure that’s not even the full list!
@@ -32,6 +32,7 @@ transcript:
   sec: 0
   time: 0:00
   who: Alexey
+- header: Guest Welcome & Interview Agenda
 - line: Thank you! It’s great to be here.
   sec: 156
   time: '2:36'
@@ -47,7 +48,7 @@ transcript:
   sec: 159
   time: '2:39'
   who: Alexey
-- header: Career journey and early experiences
+- header: 'Career Beginnings: Trade School, Web Design, First Programming'
 - line: Sure. To make sense of it all, I created a little chronological timeline for
     myself.
   sec: 182
@@ -70,6 +71,7 @@ transcript:
   sec: 253
   time: '4:13'
   who: Alexey
+- header: 'Education & Bootcamp: Computer Science, Accenture, C++'
 - line: No, it wasn’t. It was a vocational school. I completed my 12th-grade exams
     and earned a professional education in web design alongside them.
   sec: 255
@@ -91,7 +93,7 @@ transcript:
   sec: 319
   time: '5:19'
   who: Alexey
-- header: Transition to DevOps and automation
+- header: 'Transition to DevOps: Configuration Management & Early Automation'
 - line: Actually, no. My first project was in Python, which felt easier in comparison.
     I worked as an intern for Nokia for six months, but then Nokia experienced major
     financial challenges and shut down the project.
@@ -110,6 +112,7 @@ transcript:
   sec: 322
   time: '5:22'
   who: Agita
+- header: 'Burnout and Self-Discovery: Travel and Volunteerism'
 - line: Eventually, I burned out. Despite an offer for another promotion, I couldn’t
     continue. I realized no amount of money could convince me to stay.
   sec: 377
@@ -127,11 +130,11 @@ transcript:
     and the second involved four years of extensive travel to Germany. I worked on-site
     every Monday through Thursday. My responsibilities grew to include leading a team,
     supporting project managers, and working closely with clients.
-- header: Erasmus Plus and volunteering in Bulgaria
 - line: What is Erasmus Plus? Is it like a master’s degree program?
   sec: 452
   time: '7:32'
   who: Alexey
+- header: 'Erasmus+ Volunteering: Programs, Exchanges, and Training'
 - line: Not exactly. Erasmus Plus is a program for young people to travel and engage
     in educational activities. These trips are typically shorter around 10 days and
     focus on learning and cultural exchange.
@@ -174,7 +177,6 @@ transcript:
   sec: 549
   time: '9:09'
   who: Alexey
-- header: How Agita navigated financial uncertainty during her volunteering years
 - line: There was always money somehow.
   sec: 555
   time: '9:15'
@@ -183,6 +185,7 @@ transcript:
   sec: 557
   time: '9:17'
   who: Alexey
+- header: Community Management at VMware & Versatile Data Kit (Open Source)
 - line: At some point, my friends offered me a job as a community manager at a co-working
     space called Networking Premium. That experience was really important for my CV.
     It later helped me land a position with VMware.
@@ -210,7 +213,6 @@ transcript:
   sec: 560
   time: '9:20'
   who: Agita
-- header: From community manager to VMware and starting an NGO
 - line: Your story is amazing and inspiring. While listening, I was thinking of different
     titles for this interview. Maybe "From Waitress to DevOps Lead" or "From Waitress
     to Community Manager"? But it’s hard to pick because you’ve done so many different
@@ -219,6 +221,7 @@ transcript:
   sec: 683
   time: '11:23'
   who: Alexey
+- header: 'Testing Passions: Flow, Energy, and Career Fit'
 - line: Yes, I’m still doing it because it feels natural. I often test things to see
     if I’m good at them. For example, I tried art and found it wasn’t for me, but
     programming was. Facilitation seems to be a good fit too, as people keep inviting
@@ -230,7 +233,6 @@ transcript:
   sec: 749
   time: '12:29'
   who: Alexey
-- header: 'Finding the right fit: Testing passions and "flow"'
 - line: It’s simple. I ask myself, do I like this? Am I good at it? If the answer
     is yes, I’ll enjoy doing it. If time flies while I’m working on something, that’s
     a sign it’s the right thing for me.
@@ -271,12 +273,12 @@ transcript:
   sec: 866
   time: '14:26'
   who: Alexey
+- header: 'Automation Case Study: Scripting Repetitive Tasks and Rapid Promotion'
 - line: Speaking of your LinkedIn, you mentioned automating yourself out of a project
     and getting a promotion for it. Can you share more about that?
   sec: 869
   time: '14:29'
   who: Alexey
-- header: Automating repetitive tasks and receiving a promotion
 - line: Sure. My first project at Accenture involved a repetitive task. On my first
     day, they gave me seven printed pages of instructions for migrating files updating
     some, testing others on Linux and Windows, and so on.
@@ -343,12 +345,12 @@ transcript:
   sec: 1115
   time: '18:35'
   who: Agita
-- header: Problem-solving in DevOps and transferable skills
 - line: As a DevOps engineer or platform engineer, do you think it’s necessary to
     know the programming language used in the systems you support?
   sec: 1140
   time: '19:00'
   who: Alexey
+- header: 'Problem-Solving as a Core Skill: Transferable Technical Competencies'
 - line: Not at all. Sometimes I didn’t even know the language a tool or framework
     was built with. At one point, I worked with Ruby and had to learn it on the go.
     As you said, after learning C++, everything else seems possible. Once you understand
@@ -382,7 +384,7 @@ transcript:
   sec: 1241
   time: '20:41'
   who: Alexey
-- header: Transitioning from DevOps to NGO work
+- header: 'Applying Corporate Processes to NGOs: Documentation & Agile Practices'
 - line: My corporate experience, in general, taught me professionalism, understanding
     processes, and the importance of documentation. In NGOs, people often work chaotically
     without structured processes.
@@ -420,6 +422,7 @@ transcript:
   sec: 1408
   time: '23:28'
   who: Alexey
+- header: 'Volunteer Management vs. Employment: Motivation and Process Design'
 - line: Yes, very different. Volunteers don’t have to be there, so it’s all about
     motivation. You need to inspire them to believe in the project and dedicate their
     free time to it. Open source projects are similarthey rely entirely on motivated
@@ -437,7 +440,7 @@ transcript:
   sec: 1489
   time: '24:49'
   who: Agita
-- header: Transitioning to volunteer roles and spotting opportunities
+- header: 'Spotting Opportunities: Transitioning into Volunteer Roles'
 - line: If someone wanted to transition to a volunteer role, like you did, how would
     they go about it?
   sec: 1507
@@ -463,6 +466,7 @@ transcript:
   sec: 1603
   time: '26:43'
   who: Alexey
+- header: Personality Types & Team Composition (MBTI relevance)
 - line: Yes, it can be. Some companies even use personality typing to build balanced
     teams. For example, combining introverts and extroverts can improve team dynamics.
     Knowing your personality type also fosters self-awareness, which is always valuable.
@@ -485,6 +489,7 @@ transcript:
   sec: 1782
   time: '29:42'
   who: Alexey
+- header: 'Personality Traits for Data Engineering: Precision, Persistence, Detail'
 - line: From my experience, data engineers need to be detail-oriented, persistent,
     and precise. They must enjoy working with data to uncover insights and make decisions.
   sec: 1793
@@ -551,7 +556,7 @@ transcript:
   sec: 2040
   time: '34:00'
   who: Alexey
-- header: The difference between data scientists and engineers
+- header: 'Data Scientist vs. Data Engineer: Interests and Role Differences'
 - line: That aligns with what I’ve read. There are two types of people in these roles.
     One type is logical and opportunistic they see opportunities and know where to
     apply solutions. The other type is more rational and analytical, diving deep into
@@ -581,6 +586,7 @@ transcript:
   sec: 2160
   time: '36:00'
   who: Alexey
+- header: 'Returning to Corporate via Open Source: Community + Technical Work'
 - line: Not really. I had set criteria for myselfI’d only take a role if it was open
     source. Luckily, the project that hired me was open source. They onboarded me
     into a role that involved both community work and technical contributions.
@@ -608,7 +614,7 @@ transcript:
   sec: 2280
   time: '38:00'
   who: Alexey
-- header: The role of a community manager
+- header: 'Community Manager Role: Content, DevRel Overlap, and Events'
 - line: A big part of it was social media, which I didn’t expect. When I think about
     community management, I imagine bringing people together, fostering team-building,
     and improving communication.
@@ -636,6 +642,7 @@ transcript:
   sec: 2407
   time: '40:07'
   who: Alexey
+- header: 'Product Focus: Simplifying Vision and Goal-Setting'
 - line: Yes, but there were still community interactions. For example, I participated
     in community meetings, spoke at conferences, and facilitated on-site team-building
     sessions.
@@ -678,7 +685,7 @@ transcript:
   sec: 2555
   time: '42:35'
   who: Alexey
-- header: Starting an NGO focused on inclusion and gender equality
+- header: 'Career Coaching Course: "Align Your Career With Who You Are"'
 - line: Starting an NGO is not easy, at least not in Portugal. I’m not sure how it
     works in other countries, but you need at least nine people. It didn’t really
     start in March. I had already been doing a career coaching course for about two
@@ -721,6 +728,7 @@ transcript:
   sec: 2697
   time: '44:57'
   who: Alexey
+- header: 'Founding an NGO: Legal Setup, Governance, and Launch'
 - line: In May, we went through the process of establishing the NGO. We needed to
     get a Portuguese person who understood the legal aspects of starting an NGO. We
     also had to find people willing to take on roles like treasurer and president.
@@ -736,6 +744,7 @@ transcript:
   sec: 2803
   time: '46:43'
   who: Alexey
+- header: 'Inclusion in Porto: Connecting Expats and Locals'
 - line: Yes, exactly. In Portugal, I’ve noticed there’s a divide. Expats tend to hang
     out only with other expats, and it’s difficult to meet locals. I think that happens
     in many countries.
@@ -780,6 +789,7 @@ transcript:
   sec: 2949
   time: '49:09'
   who: Alexey
+- header: 'Meetup Activities: MBTI, Improv, and Community Events'
 - line: We do all sorts of things. Each of us has a different skill set. One person
     does improv theater, another is from the US and teaches MBTI and storytelling.
     I focus on community building. We each lead different events, and that’s how we
@@ -864,6 +874,7 @@ transcript:
   sec: 3124
   time: '52:04'
   who: Alexey
+- header: 'Off-Grid Living Experiment: Land, Dome, and Lifestyle Shift'
 - line: Yes, that’s right. Thanks to VMware and my layoff, I managed to buy a piece
     of land in a forest. I built a dome there, and I’ve completely moved in. I’ve
     closed all other options I had in Porto, so I’m now fully living off the grid
@@ -894,6 +905,7 @@ transcript:
   sec: 3193
   time: '53:13'
   who: Alexey
+- header: 'Off-Grid Utilities: Solar Power, Rainwater, and Well Plans'
 - line: Exactly. The electricity part is done with solar panels and batteries. For
     water, I’m in the process of installing a rainwater collector, which I can filter
     and use. I’ve also drilled a well, but I need to go through some legal processes
@@ -940,6 +952,7 @@ transcript:
   sec: 3308
   time: '55:08'
   who: Agita
+- header: 'Cost Comparison: Off-Grid Life vs. Porto Renting'
 - line: In terms of money, is it cheaper than renting an apartment in Porto? I’ve
     heard that Porto has become quite expensive.
   sec: 3352
@@ -957,7 +970,7 @@ transcript:
   sec: 3379
   time: '56:19'
   who: Alexey
-- header: The concept of an "unemployment party"
+- header: 'Unemployment Party: Mastermind Brainstorming Technique'
 - line: It was actually my unemployment party.
   sec: 3407
   time: '56:47'
@@ -1001,6 +1014,7 @@ transcript:
   sec: 3638
   time: '1:00:38'
   who: Agita
+- header: Episode Closing & Final Remarks
 - line: I see. We’re running out of time, but it’s been an amazing conversation. Thanks
     a lot for joining us today, Agita. I really enjoyed talking with you. Next time
     I’m in Porto, I’ll reach out. If you’re in Berlin, let me know.

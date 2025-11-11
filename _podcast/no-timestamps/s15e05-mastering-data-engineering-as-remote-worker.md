@@ -16,6 +16,8 @@ short: Mastering Data Engineering as a Remote Worker
 title: 'Build IoT Platforms & Data Pipelines for Remote Work: Hiring, Onboarding &
   Personal Branding'
 transcript:
+- header: Podcast Introduction
+- header: Episode Overview & Guest Introduction
 - line: This week we'll talk about doing data engineering as a remote worker, among
     other things. We have a special guest today, José. José is a computer scientist
     who is currently focusing on data engineering. Previously, he worked in different
@@ -34,7 +36,7 @@ transcript:
   sec: 103
   time: '1:43'
   who: Alexey
-- header: José's background
+- header: 'Background: Spain to Norway and Career Transition'
 - line: Before we start – before we go into our main topic of doing data engineering
     remotely and other things – Let's start with your background. Can you tell us
     about your career journey so far?
@@ -77,7 +79,7 @@ transcript:
   sec: 204
   time: '3:24'
   who: José
-- header: How José relocated to Norway and his schedule
+- header: 'Relocation Story: Moving for Partner’s Job'
 - line: How did you end up in Norway? What's the story there? Did you just find a
     job there and relocated, or did you specifically want to go to Norway?
   sec: 261
@@ -89,6 +91,7 @@ transcript:
   sec: 269
   time: '4:29'
   who: José
+- header: 'Remote Work Routine: Two Focused Work Blocks'
 - line: So you work remotely currently? Right? [José agrees] So you live in a village,
     and your job (your employer) is also based in Norway, but you work remotely. So
     how is your day organized? How do you do this?
@@ -123,6 +126,7 @@ transcript:
   sec: 428
   time: '7:08'
   who: José
+- header: Morning Routine & Productivity Habits
 - line: Oh. Why, so early?
   sec: 435
   time: '7:15'
@@ -139,6 +143,7 @@ transcript:
   sec: 476
   time: '7:56'
   who: Alexey
+- header: Remote-First Hiring Landscape in Norway
 - line: Yeah. I did not negotiate the remote position. Because the offer that my partner
     received was to work within several months. We live for three months in one place
     and we live for six more in another place. My first requirement was to work remotely.
@@ -147,7 +152,6 @@ transcript:
   sec: 493
   time: '8:13'
   who: José
-- header: Tech companies in Norway and José role
 - line: I have no knowledge whatsoever about the job market in Norway. What kind of
     companies are hiring there? Do you have typical big tech companies like Microsoft,
     Google and the like? Or is it more just Norwegian companies?
@@ -163,6 +167,7 @@ transcript:
   sec: 596
   time: '9:56'
   who: Alexey
+- header: 'Role Overview: IoT Platform Responsibilities'
 - line: Right now I'm working as a software engineer, with a focus on IoT platforms.
     I handle the current platform, which is in progress right now. I'm heading the
     project. We are two people, so we have not so many possibilities.
@@ -206,6 +211,7 @@ transcript:
   sec: 744
   time: '12:24'
   who: Alexey
+- header: 'IoT Platform Architecture: "Operating System" for Sensors'
 - line: Yeah, essentially. Currently, we are developing a kind of operating system
     for all of this.
   sec: 749
@@ -221,6 +227,7 @@ transcript:
   sec: 775
   time: '12:55'
   who: José
+- header: 'Geographic Hiring Constraints: Oslo, Bergen, Trondheim'
 - line: I see that we already have a few questions. One of the questions is, “Why
     was it so difficult to find a remote job in Norway?” It seems like for a technical
     field, especially after COVID, there are plenty of options.
@@ -255,7 +262,7 @@ transcript:
   sec: 914
   time: '15:14'
   who: José
-- header: Challenges of working as a remote data engineer
+- header: 'Remote Work Challenges: Loneliness & Isolation'
 - line: So what do your usual daily activities look like? Can you share some challenges
     of working remotely as a data engineer?
   sec: 931
@@ -310,6 +317,7 @@ transcript:
   sec: 1083
   time: '18:03'
   who: Alexey
+- header: 'Workspace Boundaries: Separating Home and Work'
 - line: Yeah, one of the other challenges is living and working in the same area.
     I found this out when I was in Spain working remotely as well. It was [a situation]
     where my living room was the same room as for work. So it's difficult to say “Okay,
@@ -343,6 +351,7 @@ transcript:
   sec: 1187
   time: '19:47'
   who: José
+- header: 'IoT Data Challenges: Remote Diagnostics & Context'
 - line: What about challenges of your actual work? I imagine that you need to deal
     with a lot of data. From what I know, IoT data usually involves large volumes
     – you have a lot of data coming from the sensors. So what are some challenges
@@ -387,7 +396,7 @@ transcript:
   sec: 1424
   time: '23:44'
   who: José
-- header: José's newsletter on how to make use of data
+- header: 'Turning Raw Data into Business Value: Understand the Why'
 - line: I see. Maybe we can talk about general data engineering because I know that
     you have a newsletter, and your website. We have checked your website and one
     of the things that you mention there is that if you have some data and or streams
@@ -433,6 +442,7 @@ transcript:
   sec: 1640
   time: '27:20'
   who: José
+- header: Data Exploration, ETL, and Building Data Pipelines
 - line: Okay. Let's say we have some datasets – a bunch of data that we store – we
     think it's useful, we start keeping it. It's been [lying around] there and we
     think, “Yeah, let's make use of this data.” What do we do next with it with this
@@ -481,7 +491,7 @@ transcript:
   sec: 1813
   time: '30:13'
   who: José
-- header: The process of making data useful
+- header: 'Internal Stakeholders: Platform Consumers & Users'
 - line: I'm back, I guess. Yeah. What I was saying is that you and your colleague
     from Germany are creating a platform. So you somehow process data. This platform
     is for somebody – somebody needs to use it. I guess these would be your stakeholders.
@@ -494,6 +504,7 @@ transcript:
   sec: 1843
   time: '30:43'
   who: José
+- header: Sensor Onboarding Workflow & Real-Time Processing
 - line: Can you walk us through this process? Let's say there is a new machine and
     you want to start collecting data from this machine. What exactly is happening
     after that where you decide, “Okay, we need to start collecting this data.”
@@ -509,6 +520,7 @@ transcript:
   sec: 1880
   time: '31:20'
   who: José
+- header: 'Newsletter Purpose: Explaining Data to Non-Technical Audiences'
 - line: I see. Can you tell us what you wrote about in your latest newsletter issue?
   sec: 1937
   time: '32:17'
@@ -523,6 +535,7 @@ transcript:
   sec: 1994
   time: '33:14'
   who: Alexey
+- header: 'Newsletter Origin: Writing as Communication for Introverts'
 - line: A good question. The idea was, “Okay, I'm a very technical person and I don't
     like people, honestly.” [chuckles] It's very difficult for me to speak with other
     people and to speak with stakeholders and explain technical information for people
@@ -531,7 +544,6 @@ transcript:
   sec: 2002
   time: '33:22'
   who: José
-- header: Where José gets inspiration for his newsletter
 - line: So for you, being on this podcast is already quite an achievement, right?
     It's quite a challenge. Maybe achievement is not the right word. What I mean is
     that since it's difficult to speak with people for you and you prefer writing
@@ -552,6 +564,7 @@ transcript:
   sec: 2055
   time: '34:15'
   who: Alexey
+- header: 'Content Strategy: Inspiration and Daily Cadence'
 - line: Yeah, from everywhere. One thing I have in mind all the time is everything
     that is going on around me can be an email. The key point of the email is not
     just for the data itself, it's more like entertainment. It's also working outside
@@ -574,6 +587,7 @@ transcript:
   sec: 2256
   time: '37:36'
   who: José
+- header: 'Personal Branding: Newsletter as Opportunity Driver'
 - line: So you work remotely and I'm wondering... This newsletter that you have, do
     you think it helps you to put yourself out there – to maybe get attention, to
     get more opportunities as a remote worker?
@@ -587,6 +601,7 @@ transcript:
   sec: 2316
   time: '38:36'
   who: José
+- header: 'Newsletter Production Tactics: Idea Slicing & Repetition'
 - line: Okay. So you do it consistently – you do it every day? It's a daily newsletter?
   sec: 2359
   time: '39:19'
@@ -616,7 +631,7 @@ transcript:
   sec: 2416
   time: '40:16'
   who: José
-- header: Dealing with burnout
+- header: 'Burnout Coping: Nature, Exercise, and Routine'
 - line: 'One of the things that I remember from the COVID times is this feeling of
     burnout – when there are so many things happening: around the house, and at work,
     and everyone wants meetings, and there is a need to reply to emails. Then on top
@@ -687,7 +702,6 @@ transcript:
   sec: 2697
   time: '44:57'
   who: José
-- header: When in Norway, do as the Norwegians do
 - line: Yeah, as you said, it's not for everyone. It's difficult to be alone, right?
     There are not so many social activities that you can do outside of work. Just
     curious, do people in Norwegian villages speak English or do you need to know
@@ -711,6 +725,7 @@ transcript:
   sec: 2776
   time: '46:16'
   who: Alexey
+- header: 'Job Search Resources: finn.no, LinkedIn, Upwork'
 - line: Well, I see that we have quite a few questions. I want to go back to these
     questions and we still have some time to cover them. The first question I see
     is, “Which websites would you suggest using to find remote work for beginners
@@ -757,7 +772,7 @@ transcript:
   sec: 2913
   time: '48:33'
   who: José
-- header: How to master data engineering
+- header: 'Learning Data Engineering: Software Foundations & Projects'
 - line: “What are the crucial steps in learning and doing data engineering so that
     I can really master it?”
   sec: 2916
@@ -828,7 +843,7 @@ transcript:
   sec: 3116
   time: '51:56'
   who: José
-- header: The legalities of working remotely in Norway
+- header: Legal & Tax Basics for Remote Work in Norway
 - line: Yeah. Right. Another question. I see a question from Elena. “Do you need to
     be registered in Norway for your taxes?”
   sec: 3132
@@ -862,7 +877,7 @@ transcript:
   sec: 3200
   time: '53:20'
   who: Alexey
-- header: The benefits of working remotely
+- header: 'Benefits of Remote Work: Location Flexibility & Time Savings'
 - line: Another question from Elena is, “What are the benefits of remote work?” I
     think we partly touched on that. You save the commute time since you don't need
     to go to the office and back. For you, what are the other benefits of working
@@ -893,6 +908,7 @@ transcript:
   sec: 3297
   time: '54:57'
   who: Alexey
+- header: 'Personal Mobility: Partner Contracts and Remote Advantages'
 - line: Yeah. She's a nurse.
   sec: 3319
   time: '55:19'
@@ -936,7 +952,7 @@ transcript:
   sec: 3428
   time: '57:08'
   who: José
-- header: José's recommendations
+- header: 'Recommendation: Develop Soft Skills, Especially Communication'
 - line: Okay. Well, one question we always ask is if you have any resource recommendations.
     Is there a book, course, whatever? You probably can recommend your newsletter,
     I know. But apart from that, is there anything else you can recommend on the topic
@@ -969,6 +985,7 @@ transcript:
   sec: 3515
   time: '58:35'
   who: José
+- header: Episode Closing & Final Remarks
 - line: Well, yeah, that's a very good recommendation. Even though it's not a resource,
     the recommendation is nevertheless quite good. So I think that's all we have time
     for today. So thanks, José, for joining us today, for telling us about your story,

@@ -16,6 +16,7 @@ short: Using Data for Asteroid Mining
 title: 'Asteroid Mining: Using ML & Hyperspectral Spectroscopy to Detect Water for
   ISRU'
 transcript:
+- header: Podcast Introduction
 - line: This week, we'll talk about extracting space resources from asteroids. We
     have a special guest today, Daynan. Daynan and his co-founders created Karman+
     to mine near-Earth asteroids. Previously, he worked as a data scientist, so I
@@ -28,7 +29,7 @@ transcript:
   sec: 108
   time: '1:48'
   who: Daynan
-- header: Daynan’s background
+- header: 'Career & Data Science Pivot: From Astronomy to Asteroid Mining'
 - line: Before we go into our main topic of astronomy, data, and mining asteroids,
     let's start with your background. Can you tell us about your career journey so
     far?
@@ -87,7 +88,7 @@ transcript:
   sec: 193
   time: '3:13'
   who: Daynan
-- header: Astronomy vs cosmology
+- header: 'Cosmology vs. Astronomy: Timescales, Theory & Observation'
 - line: You mentioned a couple of interesting things. I want to go way back when you
     said you studied astronomy and also cosmology. Are there any differences between
     the two? Aren’t they the same thing?
@@ -109,7 +110,7 @@ transcript:
   sec: 304
   time: '5:04'
   who: Daynan
-- header: Applications of data science and machine learning in astronomy
+- header: 'Machine Learning in Astronomy: Tasks, Signal Processing & Scaling'
 - line: The next question I wanted to ask you was about applications of data science
     and machine learning for astronomy. But before that – are there applications for
     cosmology in data science and machine learning?
@@ -132,7 +133,7 @@ transcript:
   sec: 378
   time: '6:18'
   who: Daynan
-- header: Determining signal vs noise
+- header: 'Gravitational Wave Detection: Signal, Noise & Instrument Glitches'
 - line: Yeah, so gravitational waves. I'm wondering how much we (people from Earth)
     can observe with these gravitational waves. How much signal is there? How much
     noise is there?
@@ -241,7 +242,7 @@ transcript:
   sec: 655
   time: '10:55'
   who: Daynan
-- header: What the data looks like in astronomy
+- header: 'Astronomical Data Types: Images, Hyperspectral Bands & Time Series'
 - line: I'm just wondering what the data looks like. Is it not the usual JPEG images
     with three channels? RGB? It's something different, right?
   sec: 765
@@ -272,6 +273,7 @@ transcript:
   sec: 777
   time: '12:57'
   who: Daynan
+- header: 'Hyperspectral Spectroscopy: Infrared Signatures & Water Detection'
 - line: And with these hyperspectral Imager images, (I hope I pronounced that correctly)
     I guess there are more than three channels, right? So what are these channels
     usually? Are they infrared channels, or?
@@ -310,7 +312,7 @@ transcript:
   sec: 880
   time: '14:40'
   who: Daynan
-- header: Determining the features of an object in space
+- header: 'Asteroid Features: Photometry, Light Curves, Rotation & Polarimetry'
 - line: Maybe we'll get into that a bit later. But from what I understood – there
     is an object in space, like an asteroid, and it reflects the Sun. The sun is shining
     on it, the light is there, and then it reflects light. So the light goes towards
@@ -353,6 +355,7 @@ transcript:
   sec: 1045
   time: '17:25'
   who: Daynan
+- header: Spectral Classification & ML Approaches for Water Identification
 - line: So the features in this case are the rotational speed, how light reflects
     from the object also over time, polarization of light, and all these things. I
     guess, if we think about classical machine learning, these are the features and
@@ -397,7 +400,7 @@ transcript:
   sec: 1196
   time: '19:56'
   who: Daynan
-- header: Ground truth for space objects
+- header: 'Ground Truth Limitations: Returned Samples, Meteorites & Validation'
 - line: Where do the labels come from? Do you actually go there and check if there
     is water?
   sec: 1320
@@ -456,7 +459,7 @@ transcript:
   sec: 1473
   time: '24:33'
   who: Daynan
-- header: Why water is an important resource in the space economy
+- header: 'ISRU & Water-as-Fuel: Economics and Use Cases for Space Resources'
 - line: I think many of us are wondering now – why would you care about water in asteroids?
     The first time I heard about what you do, I thought, “Okay, mining asteroids.
     You probably want to extract some precious metals and then sell them here on Earth.”
@@ -536,7 +539,7 @@ transcript:
   sec: 1575
   time: '26:15'
   who: Daynan
-- header: Other useful resources that can be found in asteroids
+- header: 'Other Resources on Asteroids: Metals, Organics & Scientific Value'
 - line: What else can you find on asteroids? You mentioned platinum, but I think it
     was a good example of an expensive thing on Earth that can potentially sell, but
     it's just too difficult to extract. But what is there in addition to water that
@@ -568,7 +571,7 @@ transcript:
   sec: 1838
   time: '30:38'
   who: Daynan
-- header: Sources of asteroids
+- header: 'Asteroid Origins: Main Belt, Resonances & Near-Earth Populations'
 - line: Where do these asteroids come from? Do they just appear? Then you see them
     and you think, “Okay, we're going to mine that one.” Is that how it happens?
   sec: 1932
@@ -630,6 +633,7 @@ transcript:
   sec: 1942
   time: '32:22'
   who: Daynan
+- header: 'Observability Challenges: Angles, Dawn/Dusk Windows & Detection Biases'
 - line: So as I understood, your business model is as follows. There is this main
     belt of asteroid asteroids and then Jupiter passes by and pushes some of the asteroids
     towards the Earth. So you want to detect “On this asteroid that is coming towards
@@ -675,7 +679,7 @@ transcript:
   sec: 2169
   time: '36:09'
   who: Daynan
-- header: The data team at an asteroid mining company
+- header: 'Data Organization: Team Roles, Data Engineering & Bayesian Engines'
 - line: I assume that to be able to do all that, you don't just keep your data in
     Excel spreadsheets and analyze that. You need to collect, store, process all this
     data. So we are actually talking about a data department, right? A team that does
@@ -743,6 +747,7 @@ transcript:
   sec: 2386
   time: '39:46'
   who: Daynan
+- header: 'Cloud & Infrastructure: Storage, COGs/STAC and Querying Large Imagery'
 - line: I'll make sure to include the link to it in the description. I was wondering
     – do you use Cloud? Because I think cloud here may... [chuckles]
   sec: 2543
@@ -800,7 +805,7 @@ transcript:
   sec: 2716
   time: '45:16'
   who: Daynan
-- header: Open datasets for hobbyists
+- header: 'Open Datasets & APIs: Minor Planet Center, JPL Horizons, NEOWISE'
 - line: '[laughs] We have quite a few questions. The first question is, “Are there
     open datasets that are interesting to explore as a hobbyist?” Actually, the question
     is asking specifically about tabular datasets. But maybe we can talk about datasets
@@ -861,6 +866,7 @@ transcript:
   sec: 2926
   time: '48:46'
   who: Alexey
+- header: 'Orbit Linking & Synthetic Tracking: ML for Large-Scale Detection'
 - line: Yeah, if you're interested in getting into some of the more interesting machine
     learning stuff, tracking orbit determination is a challenge. If you think about
     looking at observations of an object over time, being able to link them together
@@ -890,7 +896,7 @@ transcript:
   sec: 2956
   time: '49:16'
   who: Daynan
-- header: Mission and hardware design for asteroid mining
+- header: 'Mission Architecture: CubeSats, COTS Components & Partnership Strategy'
 - line: You also mentioned that one of the people on your team is taking care of mission
     design. There is a question from Matt, “How do you plan to interact with the folks
     going to get asteroids? Are you going to do this yourself? Is the person doing
@@ -934,6 +940,7 @@ transcript:
   sec: 3081
   time: '51:21'
   who: Daynan
+- header: 'Sampling & Extraction Methods: Scooping, Surface Interaction & R&D'
 - line: This mission would not only involve thinking about how to get to the asteroid,
     but also how to actually drill the hole in the asteroid and extract the water,
     right?
@@ -978,7 +985,6 @@ transcript:
   sec: 3303
   time: '55:03'
   who: Daynan
-- header: Partnerships and hires
 - line: '[Laughs] There is a comment from Daniel. “Interesting conversation. I''m
     an astronomer currently researching a multi-wavelength counterpart.” There are
     some words I don''t understand. “Good to know that there is a business case for
@@ -1021,6 +1027,7 @@ transcript:
   sec: 3404
   time: '56:44'
   who: Daynan
+- header: 'Mathematical Models: Bayesian Frameworks, Thermal Models & Yarkovsky'
 - line: There are quite a few things we didn't cover, so I'm just taking what else
     we missed. Here’s an interesting one, “What kind of mathematical models do you
     build?” I remember we talked a bit about that before this.
@@ -1070,6 +1077,7 @@ transcript:
   sec: 3456
   time: '57:36'
   who: Daynan
+- header: 'Tools & Workflows: Notebooks, Reproducibility & Research Practices'
 - line: Yeah. I prepared another silly joke about Jupyter Notebooks.
   sec: 3611
   time: '1:00:11'
@@ -1090,6 +1098,7 @@ transcript:
   sec: 3646
   time: '1:00:46'
   who: Alexey
+- header: 'Get Involved: Job Openings, Links, Contact & Further Resources'
 - line: Yeah, I'll do that. Definitely including my dcrull@karmenplus.com. And I'll
     send you links. But yeah,  certainly if you're doing research in this area, I
     want to talk to you. As we're growing our team, there are a lot of areas there.

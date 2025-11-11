@@ -16,6 +16,8 @@ short: Accelerating the Adoption of AI through Diversity
 title: 'How to Build & Scale a Data Science Community: Diversity, ML Deployment &
   Career Growth'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Introduction: Dania — AI Guild co‑founder, machine learning background'
 - line: This week, we'll talk about diversity and leadership in data science and AI.
     We have a special guest today, Dania. Dania is a co-founder and director at the
     AI Guild, where she works with companies scaling data analytics and machine learning.
@@ -38,7 +40,7 @@ transcript:
   sec: 131
   time: '2:11'
   who: Alexey
-- header: Dania’s background
+- header: 'Early Career: Applied math, Spark vs Hadoop thesis and marketing analytics'
 - line: Before we go into our main topic of adoption of AI and diversity, let's start
     with your background. Can you tell us about your career journey so far?
   sec: 152
@@ -60,6 +62,7 @@ transcript:
   sec: 214
   time: '3:34'
   who: Alexey
+- header: 'Move to Berlin: Startup roles and building end‑to‑end data skills'
 - line: Yeah. At this point, I was finishing my Master's, and I was thinking about
     working abroad. It happened that by chance, I got approached via LinkedIn for
     a job as a data scientist in Berlin. It was a perfect match. They were looking
@@ -88,6 +91,7 @@ transcript:
   sec: 216
   time: '3:36'
   who: Dania
+- header: 'Role Evolution: Data scientist generalist to specialized career paths'
 - line: It's interesting how it's a bit different now with the data scientist title.
     When I started my career “data scientist” meant many different things. I also
     got to do analytics, data engineering, machine learning (obviously). But now,
@@ -111,6 +115,7 @@ transcript:
   sec: 388
   time: '6:28'
   who: Alexey
+- header: 'Teaching & Mentoring: Bootcamps, Data Science for Good, and skills sharing'
 - line: Yes. Then I started to understand what I wanted to do, and I really wanted
     to focus on machine learning. Also, given my background in applied math, I really
     enjoyed the modeling aspect. I moved to work in a German company that was more
@@ -192,12 +197,12 @@ transcript:
   sec: 593
   time: '9:53'
   who: Dania
-- header: Founding the AI Guild
 - line: I want to ask you about the AI Guild, but I'm wondering if we're missing anything
     before you started that?
   sec: 668
   time: '11:08'
   who: Alexey
+- header: 'Community Origin Story: From women’s meetups to a broader support network'
 - line: Yeah, I think we have a good link because that's when I was doing Data Science
     for Social Good and when I was teaching at the bootcamp – it was when I started
     to get to know more people working in the field. I started learning that all the
@@ -269,6 +274,7 @@ transcript:
   sec: 920
   time: '15:20'
   who: Alexey
+- header: 'Community Growth: Monthly dinners, global expansion, and membership scale'
 - line: Yes. We started with the dinners and then we had COVID, so we went to online
     meetings. But since last summer, we went back to the dinners in person. Now we
     have grown outside Berlin – we are a global community. We have over 2000 people,
@@ -293,7 +299,7 @@ transcript:
   sec: 963
   time: '16:03'
   who: Alexey
-- header: Datalift Summit
+- header: 'Datalift Summit Origin: Organizing the first in‑person conference post‑COVID'
 - line: Yes. There's a lot going on. Yes. The monthly dinners were how we started.
     We always had the idea to get people together in a bigger group. We have the local
     dinners, but what about one big event? One where everyone travels to Berlin, which
@@ -354,7 +360,8 @@ transcript:
   sec: 1185
   time: '19:45'
   who: Dania
-- header: Coming up with meetup topics
+- header: 'Meetup Content Strategy: Curating panels on career options and practical
+    topics'
 - line: Okay, cool. I want to go a little bit back to the time when you said that
     you noticed that there are not a lot of women in the field and you wanted to reach
     out to more women. You started organizing meetups in one of the companies where
@@ -411,11 +418,11 @@ transcript:
   sec: 1375
   time: '22:55'
   who: Dania
-- header: Diversity in Berlin
 - line: Do you think the situation is better now in Berlin in terms of gender diversity?
   sec: 1390
   time: '23:10'
   who: Alexey
+- header: 'Diversity in Berlin: Internationality, gender balance, and workplace culture'
 - line: Yes, I do. I think at my last full-time job, we had a team that was 50/50.
     We had the same amount of men and women, for example. But yeah, I have been to
     job interviews in which I got interviewed by only men. I don't know. It feels
@@ -455,7 +462,6 @@ transcript:
   sec: 1476
   time: '24:36'
   who: Dania
-- header: Other types of diversity besides gender
 - line: So, “diversity” here means many things. Gender diversity is one visible aspect,
     but there is also diversity in nationality – we all come from different places
     in the world. And then there’s also background diversity – some people come from
@@ -466,6 +472,7 @@ transcript:
   sec: 1548
   time: '25:48'
   who: Alexey
+- header: 'Broader Diversity Dimensions: Backgrounds, nationality, and neurodiversity'
 - line: Yeah, I think those are the main ones. There are other aspects like neurodiversity.
     But yeah, those are more specific topics, or even more difficult to address.
   sec: 1579
@@ -490,7 +497,6 @@ transcript:
   sec: 1609
   time: '26:49'
   who: Dania
-- header: The pitfalls of lacking diversity
 - line: I'm wondering, what are the pitfalls? Why can't I just go to the University
     of Berlin and hire all white dudes from the computer science department, from
     the same group, to work on this? Just take all of them and have them work? Isn't
@@ -498,6 +504,7 @@ transcript:
   sec: 1619
   time: '26:59'
   who: Alexey
+- header: 'Business Case for Diversity: Inclusive teams, product fit, and market reach'
 - line: Yeah, I think it could be enough at some point. I don't think that it is not
     successful. But I do think that there is a limitation when you do that, because
     you are basically building something for the world and the world is a diverse
@@ -569,7 +576,7 @@ transcript:
   sec: 1727
   time: '28:47'
   who: Dania
-- header: Creating an environment where people can safely share their experiences
+- header: 'Psychological Safety: Leadership signals and enabling open conversations'
 - line: How do you create this environment? An environment in which I can approach
     a COO and not be afraid of asking about these things, or feeling comfortable discussing
     these things with your colleagues, who are not from the same background as you?
@@ -602,7 +609,7 @@ transcript:
   sec: 1918
   time: '31:58'
   who: Dania
-- header: How the AI Guild helps organizations become more diverse
+- header: 'Consulting Model: Vendor‑agnostic machine learning deployment support'
 - line: You told us the story of how the AI Guild started. You had these meetups,
     these sessions, where you wanted to connect with other women in the field, and
     then eventually it grew to dinners and then the Guild itself. This was probably
@@ -612,6 +619,7 @@ transcript:
   sec: 2023
   time: '33:43'
   who: Alexey
+- header: 'Recruitment & Training: Sourcing diverse talent pools for regulated industries'
 - line: Yes. It is something that we discuss in our community, like “How could we
     approach organizations?” As individuals, we can only do so much. We have our own
     limitations based on our roles inside organizations. That's when we decided –
@@ -684,7 +692,6 @@ transcript:
   sec: 2327
   time: '38:47'
   who: Alexey
-- header: How the AI guild finds women in the fields of AI and data science
 - line: I'm wondering – you managed to hire five women and I know that it's not easy.
     I was on a meetup recently – PyData meetup. It was maybe 14 people and only two
     or three women. I don't remember. This particular sample is maybe biased, since
@@ -694,6 +701,7 @@ transcript:
   sec: 2334
   time: '38:54'
   who: Alexey
+- header: 'Visibility Policy: Inviting women speakers first to increase participation'
 - line: Yes. Again, this is something that you have to do intentionally. It won't
     just happen. What I can share is the policy we have for our events, which is that
     we invite women first and we invite women to be on stage. We make it visible to
@@ -751,7 +759,6 @@ transcript:
   sec: 2486
   time: '41:26'
   who: Dania
-- header: Advice for people in underrepresented groups
 - line: Yeah, that's smart. I’m wondering – we're talking here not about gender diversity,
     but diversity in general. If somebody is a part of an underrepresented group and
     they get promoted, or take the next step in their career, how can they take on
@@ -759,6 +766,7 @@ transcript:
   sec: 2575
   time: '42:55'
   who: Alexey
+- header: 'Career Growth Advice: Networks, visibility, and stepping into leadership'
 - line: Yes. I think a good way, or at least one of the ways I did it – I'm still
     on the journey right now and I don't have all the answers – but one of the ways
     I found really helpful for me to grow in my career, is to find other people. Find
@@ -789,7 +797,6 @@ transcript:
   sec: 2601
   time: '43:21'
   who: Dania
-- header: Organizing a welcoming environment and creating a code of conduct
 - line: One of the things you said is to not be afraid of being visible. I guess for
     that you need to have the right environment. Maybe you don't want to be visible
     in some environments. I guess this is something for the meetup organizers – to
@@ -798,6 +805,7 @@ transcript:
   sec: 2713
   time: '45:13'
   who: Alexey
+- header: 'Code of Conduct: Crafting practical rules and expected community behavior'
 - line: This is something that, if you are an organizer, or if you're somehow the
     leader in the initiative, you should have a code of conduct. With the code of
     conduct, it's really about describing what the expected behavior is inside your
@@ -865,6 +873,7 @@ transcript:
   sec: 2930
   time: '48:50'
   who: Alexey
+- header: 'Responding to Misconduct: Reporting, case‑by‑case handling, and consequences'
 - line: This is a big challenge. We were talking about this diversity aspect in terms
     of culture or nationality. In different countries, you have different behavior
     that is accepted or not accepted. That's what I mean with the hardline. Some things
@@ -957,7 +966,7 @@ transcript:
   sec: 3210
   time: '53:30'
   who: Dania
-- header: AI Guild’s consulting work and community
+- header: 'Community‑to‑Client Matching: Leveraging member expertise for projects'
 - line: I wanted to talk a bit more about the Guild. Right now, you're a for-profit
     organization and you offer consulting. So how does it work? Companies approach
     you saying, “Hey, we want to deploy some models.” Help us.” Something like that?
@@ -997,12 +1006,12 @@ transcript:
   sec: 3334
   time: '55:34'
   who: Dania
-- header: AI Guild team
 - line: Okay. So you work as a consultant. This is your full time activity right now.
     [Dania agrees] How many people are like you, who consult for the guild full-time?
   sec: 3360
   time: '56:00'
   who: Alexey
+- header: 'Team Roles: Founders’ split — machine learning delivery and career coaching'
 - line: It’s me and Chris Armbruster, my co-founder.
   sec: 3373
   time: '56:13'
@@ -1045,6 +1054,7 @@ transcript:
   sec: 3430
   time: '57:10'
   who: Dania
+- header: 'Scaling Strategy: Freelance network today, hiring full‑time as demand grows'
 - line: I see an interesting question from Azif. “What if you have too many customers
     and cannot cope with the numbers because there are just two of you?” How do you
     do this? Do you start finding somebody in the community to delegate work to?
@@ -1086,12 +1096,12 @@ transcript:
   sec: 3528
   time: '58:48'
   who: Dania
-- header: Dania’s resource recommendations
 - line: Maybe one last question. Are there any books or other resources that you can
     recommend to the listeners?
   sec: 3542
   time: '59:02'
   who: Alexey
+- header: 'Recommended Resources: Weapons of Math Destruction and Coded Bias'
 - line: Yes, I want to say that the book I always recommend is about the impact of
     not having enough diversity working in data projects. It’s called the Weapons
     of Math Destruction.
@@ -1127,7 +1137,8 @@ transcript:
   sec: 3622
   time: '1:00:22'
   who: Alexey
-- header: Upcoming Datalift Summit
+- header: 'Datalift Summit 2023: Call for speakers, workshops, and production use
+    cases'
 - line: Yes. It is a good time because I am now organizing the Datalift Summit for
     the second year, in June. So this is what I wanted to say. I want people to be
     aware of it. You can get your ticket. You can still apply to be a speaker if you
@@ -1152,6 +1163,7 @@ transcript:
   sec: 3677
   time: '1:01:17'
   who: Dania
+- header: Closing Remarks and Sign‑off
 - line: '[laughs] Okay. Thanks a lot. Thanks, everyone, for joining us today. Today
     is Friday, so everyone – have a great weekend.'
   sec: 3678

@@ -16,6 +16,7 @@ links:
   spotify: https://open.spotify.com/episode/0fFRCAYFCReMxEiq2RDVak
   apple: https://podcasts.apple.com/us/podcast/build-your-own-data-pipeline-andreas-kretz/id1541710331?i=1000527643914
 transcript:
+- header: Episode Introduction & Andreas Kretz — "Plumber of Data Science"
 - line: Today we'll talk about learning how to build data pipelines for data scientists.
     One of the most frequent questions I get is, “I'm a data scientist and I want
     to build data pipelines. How do I do this?” Finally, today, I'll know how to answer
@@ -44,7 +45,7 @@ transcript:
   sec: 162
   time: '2:42'
   who: Andreas
-- header: Andreas’s background
+- header: 'Guest Bio: Andreas’s path from software to big data and data engineering'
 - line: Indeed. Before we go into our main topic of plumbing and building pipelines,
     let's start with your background. Can you tell us about your career journey so
     far?
@@ -61,6 +62,7 @@ transcript:
   sec: 209
   time: '3:29'
   who: Andreas
+- header: 'Market Trend: Why data engineering demand is rising'
 - line: Big data was a popular thing back then – everybody was talking about it and
     we were doing it. But I actually had the problem with so much data coming in,
     because the standard tools didn't work anymore. I needed to find different solutions
@@ -73,7 +75,6 @@ transcript:
     leading a data lab. But since this month, I went full time with teaching data
     engineering with my Academy at LearnDataEngineering.com.
   who: Andreas
-- header: Why data engineering is becoming more popular
 - line: We will talk a bit about your course as well. It seems like there is a lot
     of interest in data engineering these days. Since you said that you worked with
     Hadoop, I think you’ve been in this area for quite a while. I think nowadays,
@@ -118,12 +119,12 @@ transcript:
   sec: 476
   time: '7:56'
   who: Andreas
-- header: Who to hire first – a data engineer or a data scientist?
 - line: Do you think a company should first hire a data scientist, and then a data
     engineer? Or the other way around?
   sec: 520
   time: '8:40'
   who: Alexey
+- header: 'Hiring Strategy: Hire a data scientist and engineer early'
 - line: I personally think companies should hire both. But they don’t need a huge
     engineering team to start. If you want to start really small – hire one scientist
     and one engineer. The scientist can focus on the actual science and the engineer
@@ -137,7 +138,7 @@ transcript:
   sec: 526
   time: '8:46'
   who: Andreas
-- header: How can I, as a data scientist, learn to build pipelines?
+- header: 'Data Scientist Growth: From notebooks to production pipelines'
 - line: So a company hires a data scientist and this data scientist works on a proof
     of concept. Then they need to productionize it. If the company doesn’t realize
     that they need a data engineer, this data scientist implements the whole thing
@@ -167,7 +168,7 @@ transcript:
   sec: 644
   time: '10:44'
   who: Andreas
-- header: Don’t use too many tools
+- header: 'Operational Risk: Why using many tools breaks operations'
 - line: Why can't we take 20 different tools and make a platform from them? You said
     it doesn't work like this – data scientists tend to take many different packages
     and just put them into one thing and do the data science. Why can’t we do this
@@ -188,7 +189,7 @@ transcript:
   sec: 742
   time: '12:22'
   who: Andreas
-- header: What is a data pipeline and why do we need it?
+- header: 'Data Pipeline Anatomy: Ingestion, buffer, processing, storage, visualization'
 - line: You mentioned data pipelines and our talk is about data pipelines. Maybe we
     can talk a bit about this. What is a data pipeline? Why do we need a data pipeline?
     Why is my Jupyter Notebook, with all the coordinates, not enough?
@@ -211,7 +212,7 @@ transcript:
   sec: 819
   time: '13:39'
   who: Andreas
-- header: What is ingestion?
+- header: 'Ingestion Explained: Events, message queues (Kafka, Kinesis)'
 - line: To clarify on what ingestion is – let's say we have a website and the user
     can do a bunch of things on it. These events that we track need to end up in our
     database. The process of getting these events and putting them someplace – this
@@ -248,6 +249,7 @@ transcript:
   sec: 989
   time: '16:29'
   who: Alexey
+- header: 'Processing Modes: Streaming vs. batch processing'
 - line: Yeah. It depends a bit on what you're doing. Are you doing event processing?
     Are you doing streaming – where you're immediately reacting to the data that's
     coming in? Or are you taking the data in a batch processing way? Because when
@@ -271,7 +273,7 @@ transcript:
   sec: 1053
   time: '17:33'
   who: Andreas
-- header: Can just one person build a data pipeline?
+- header: 'One-Person Feasibility: Tooling, cloud vs on‑prem, and schema design'
 - line: That seems like a lot of work. Something that a data scientist – just one
     person – probably cannot really implement on his or her own, so it needs multiple
     people and a data engineer, at the very least.
@@ -292,7 +294,6 @@ transcript:
   sec: 1107
   time: '18:27'
   who: Andreas
-- header: Approaches to building data pipelines for data scientists
 - line: Maybe we can simplify this a bit. Let's say I work at a company as a data
     scientist and we have data engineers. The data engineers take care of the ingestion
     part – they track the events, put them into these message queues, and then eventually
@@ -304,6 +305,7 @@ transcript:
   sec: 1187
   time: '19:47'
   who: Alexey
+- header: 'Practical Stack for Scientists: Python, Docker, Flask/FastAPI for prototypes'
 - line: Usually data scientists know Python pretty well and some SQL. They know all
     these GitBash things. And when it comes to Python, they also usually know a so-called
     Py Data Stack – SciKit Learn or NumPy, Pandas. With this knowledge, how do we
@@ -325,11 +327,11 @@ transcript:
   sec: 1265
   time: '21:05'
   who: Andreas
-- header: Processing frameworks
 - line: So what are these processing frameworks?
   sec: 1351
   time: '22:31'
   who: Alexey
+- header: 'Processing Frameworks Overview: Spark, Flink, Lambda, Glue, Docker jobs'
 - line: Processing frameworks. When I coach in my Academy, I try to show my students
     that “Okay, there is this section called processing frameworks, which is everything
     that actually takes some data, does something with it, analyzes or modifies it,
@@ -343,6 +345,7 @@ transcript:
   sec: 1356
   time: '22:36'
   who: Andreas
+- header: 'Data Transformation: Role of SQL and dataframe processing'
 - line: Back to what we talked about before – it wouldn't make sense to do a part
     in Spark, then a part in Flink, and then introduce some Lambda functions here
     and there, and then run a Jupyter Notebook, where you do some processing. [groans]
@@ -376,7 +379,7 @@ transcript:
   sec: 1484
   time: '24:44'
   who: Andreas
-- header: Common setup for data pipelines — car price prediction
+- header: 'AWS Example: Parquet on S3 and processing options'
 - line: So what are the most common setups that you see? Or a setup that you would
     recommend? Let's say we have these tasks – we have data in our S3 bucket, for
     example, or some Google Storage bucket. Let's say these are parquet files that
@@ -394,6 +397,7 @@ transcript:
   sec: 1569
   time: '26:09'
   who: Andreas
+- header: 'Case Study: Car price prediction — data sources and architecture'
 - line: You could even schedule this. AWS, for instance, has a as a scheduling service,
     which is basically Airflow in the cloud. I just forgot how they call it – “Manage
     Data Flows” or something like that. You could set up something like this. You
@@ -464,6 +468,7 @@ transcript:
   sec: 1851
   time: '30:51'
   who: Andreas
+- header: 'Inference Strategy: Live API calls versus precomputed predictions'
 - line: I know it's going to complicate things, but let's say when a user creates
     a new listing, fills everything in and once that’s done, we suggest the price.
     So they get a prediction when they create a new listing - it’s a live thing.
@@ -484,7 +489,6 @@ transcript:
   sec: 1910
   time: '31:50'
   who: Andreas
-- header: Productionizing the model with the help of a data pipeline
 - line: What you described is the process when we already have a model and we want
     to deploy it. So this how we would use it. But what I meant is – we don't have
     model yet, we need to do build it, right? So what can I do as a data scientist?
@@ -494,6 +498,7 @@ transcript:
   sec: 1997
   time: '33:17'
   who: Alexey
+- header: 'Productionizing Notebooks: Dockerized training and model storage on S3'
 - line: Then two months after that, things change – the prices are different – and
     we need to retrain it. I don't want to do this every month. I don't want to pull
     in new data and execute cells in a particular order in my Jupyter Notebook, because
@@ -516,13 +521,13 @@ transcript:
   sec: 2056
   time: '34:16'
   who: Andreas
-- header: Scheduling
 - line: So, we take our Jupyter notebook, we put it in a Python file, we put this
     Python file in some Docker container and we go to our cloud and find a way how
     we can schedule this script. And that's pretty much it. Right?
   sec: 2127
   time: '35:27'
   who: Alexey
+- header: 'Scheduling Options: Airflow vs CloudWatch/Lambda vs simple schedulers'
 - line: Depends on how you want to run it. For the training - yeah. The actual scheduling
     can be really easy. You could use something like Airflow. But if you have something
     real simple, you could use Cloudwatch and then schedule the bit with AWS. You
@@ -565,6 +570,7 @@ transcript:
   sec: 2269
   time: '37:49'
   who: Andreas
+- header: 'Model Serving: SageMaker endpoints and cost trade-offs'
 - line: The cool thing I like about that is what I mentioned before. Deploying your
     algorithm as a service – what you could do is deploy your algorithm as an endpoint
     with SageMaker that you have running. You can send the data to the endpoint and
@@ -582,7 +588,6 @@ transcript:
   sec: 2309
   time: '38:29'
   who: Andreas
-- header: Orchestration
 - line: Let's say to get the data from this storage that we have, we need to write
     a couple of SQL queries. And we need to execute the SQL queries one after another.
     We have a lot of fraud data. So the first query would get us a smaller data set
@@ -609,6 +614,7 @@ transcript:
   sec: 2400
   time: '40:00'
   who: Alexey
+- header: 'Orchestration Patterns: Message queues for job sequencing'
 - line: You could do something really simple where you build up a message queue. Once
     the first script is ready, it fires up a message into the message queue. Then
     on the other side, there’s a listener that basically takes this message, and in
@@ -621,13 +627,13 @@ transcript:
   sec: 2401
   time: '40:01'
   who: Andreas
-- header: Start simple
 - line: I think I implemented something like this a couple of companies ago. When
     I left, what they ended up doing this discovery and all that, and then moved into
     Airflow.
   sec: 2455
   time: '40:55'
   who: Alexey
+- header: 'Start Simple: Iterate from Lambda/queues to Airflow/Kubernetes'
 - line: Yeah. Airflow – these things are really strong, and really good, so it makes
     sense to use them. But if this is a one-off thing and you need to build something
     quick, you need to start somewhere. What is good enough? Most likely, for this
@@ -655,7 +661,7 @@ transcript:
   sec: 2527
   time: '42:07'
   who: Andreas
-- header: Learning DevOps to implement data pipelines
+- header: 'Learning DevOps: Pick tools, read docs, and practice by doing'
 - line: We have a related question from Chetna. I think we already discussed how we
     can do this from a Jupyter Notebook like our data scientists can start their journey
     towards picking up data engineering skills. That part we discussed, but the second
@@ -686,7 +692,6 @@ transcript:
   sec: 2681
   time: '44:41'
   who: Andreas
-- header: How to choose the right tool
 - line: If I'm a data scientist and I don't have experience with these kinds of things,
     I would need to talk to a data engineer or somebody who's dealing with infrastructure
     to actually help me and guide me for that. Because how do I know if this is the
@@ -694,6 +699,7 @@ transcript:
   sec: 2713
   time: '45:13'
   who: Alexey
+- header: 'Tool Selection: Use docs and tutorials to validate choices'
 - line: Yeah. There are a few options of what you can do. First of all, how I always
     go about this – this may sound very lame, but I look at the documentation of the
     tool. What can this tool actually do? Then I search for examples where people
@@ -738,7 +744,7 @@ transcript:
   sec: 2882
   time: '48:02'
   who: Andreas
-- header: Are Hadoop, Docker, Cloud necessary for a first job/internship?
+- header: 'Early-Career Skills: Python, SQL, basic networking; AWS and OSS basics'
 - line: Another question, “Do you think data engineering skills like Hadoop, Docker,
     Cloud, are necessary for students who are looking for internship? Do they need
     to have these skills to get their first job?”
@@ -768,7 +774,6 @@ transcript:
     to have a track record. You need to have a professional profile. Not just a LinkedIn
     page, but a professional profile that has some experience.
   who: Andreas
-- header: Is Hadoop still relevant or necessary?
 - line: In this question, there is a bunch of things mentioned under ‘data engineering
     skills’, which are Hadoop, Docker, Cloud. So Docker and cloud – I don't think
     you would argue that these are important things to learn. What about Hadoop? Do
@@ -776,6 +781,7 @@ transcript:
   sec: 1256
   time: '20:56'
   who: Alexey
+- header: 'Hadoop Today: Cloud replaces Hadoop for many, but Hadoop persists in legacy'
 - line: It depends. [laughs] I see the trend that Hadoop isn't what it used to be.
     The cloud platforms got so strong and they innovated so fast, most companies nowadays
     use the cloud platform. Yes, you still have stuff lying around that’s still working
@@ -789,7 +795,7 @@ transcript:
   sec: 3074
   time: '51:14'
   who: Andreas
-- header: Data engineering academy
+- header: 'LearnDataEngineering Academy: Curriculum, capstones, and resources'
 - line: We have a question from Julian. The question is about your academy. You mentioned
     it a couple of times. First of all, “What is the link to the academy? How can
     people find it?”
@@ -850,7 +856,7 @@ transcript:
   sec: 3286
   time: '54:46'
   who: Andreas
-- header: How to pick up Cloud skills
+- header: 'Hands-on Projects: Build an e‑commerce pipeline; use Kaggle datasets'
 - line: What I understood by talking to you now is that one of the most important
     skills data scientists need to have in order to pick up data engineering is cloud
     skills. But ‘cloud skills’ is such a broad term, right? But there are a couple
@@ -887,7 +893,7 @@ transcript:
   sec: 3403
   time: '56:43'
   who: Alexey
-- header: Avoid huge datasets when learning
+- header: 'Learning Advice: Avoid huge datasets; start small and iterate'
 - line: The thing is, for learning it, you don't need the huge data sets. When you
     use huge data sets, first of all, the loading times are going to be terrible.
     Everything runs long. You cannot easily look into the data. Because it's big,
@@ -910,7 +916,7 @@ transcript:
   sec: 3535
   time: '58:55'
   who: Andreas
-- header: Convincing your employer to do data science
+- header: 'Convincing Stakeholders: Build a $0 proof‑of‑concept and quantify ROI'
 - line: Good advice. So it's almost time for us to finish. But there is one interesting
     question. Maybe we can take a couple of minutes to answer it. Maybe it's a tough
     one. Let's try. “I'm trying to convince my company to start a data science department.
@@ -958,7 +964,7 @@ transcript:
   sec: 3690
   time: '1:01:30'
   who: Andreas
-- header: How to find Andreas
+- header: 'Find Andreas & Resources: LearnDataEngineering, YouTube, Telegram'
 - line: That's interesting. Last question – how can people find you?
   sec: 3725
   time: '1:02:05'

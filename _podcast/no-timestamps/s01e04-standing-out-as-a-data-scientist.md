@@ -15,6 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/2Yxay9HJmd6dvk34MHJ0K2
   apple: https://podcasts.apple.com/us/podcast/standing-out-as-a-data-scientist-luke-whipps/id1541710331?i=1000502844994
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Introduction: Luke Whipps, recruiter and podcast host'
 - line: Last week, we talked about building data science teams, and recruiting data
     scientists. Today the topic is slightly different. We'll talk about the recruitment
     process, but from the candidate’s point of view. We have a special guest today,
@@ -33,13 +35,13 @@ transcript:
   sec: 149
   time: '2:29'
   who: Luke
-- header: Luke’s career and the story of Neural AI
 - line: Thanks for coming. So, Luke, let's start with your background. Can you tell
     us how you started your career? How you got into AI and how it led to co-founding
     your own recruitment company?
   sec: 160
   time: '2:40'
   who: Alexey
+- header: 'Recruiting background: a decade in data, analytics and AI'
 - line: Thanks for inviting me on the show Alexey. Hi to everyone who's joined. As
     Alexey said, my name is Luke, and I'm the co-founder of Neural AI. I've been recruiting
     in the data analytics space for probably close to 10 years now. That started in
@@ -51,6 +53,7 @@ transcript:
   sec: 177
   time: '2:57'
   who: Luke
+- header: 'Neural AI origin: founding principles and non‑transactional recruiting'
 - line: Neural came around from a couple of different perspectives. One of those perspectives
     was… I was just about to turn 30. I had two choices that I could have made. I
     could either continue working for businesses that I have to become a part of and
@@ -74,6 +77,7 @@ transcript:
   sec: 256
   time: '4:16'
   who: Luke
+- header: 'Community focus: podcasts, events and value‑driven talent work'
 - line: For me, as I say Neural was built on the back of wanting to create something
     different that is value and community driven, rather than just, “Hey, do you want
     to work on a new business?” So yeah, we started in early 2020. So probably not
@@ -97,7 +101,6 @@ transcript:
   sec: 387
   time: '6:27'
   who: Luke
-- header: Steps in closing a data science position
 - line: Coming back to your main work as a recruiter – in data science, maybe – I
     don't know if it's different from usual developer positions, or maybe analysts.
     But I know that there are not so many good candidates… typically, it's quite difficult
@@ -106,6 +109,7 @@ transcript:
   sec: 388
   time: '6:28'
   who: Alexey
+- header: 'Hiring challenges: why data scientist roles vary by company'
 - line: It is definitely more difficult than your average kind of development role
     because – you've probably experienced this as well — if you speak to 100 different
     people, or 100 different businesses and say, “What is a data scientist?” – you're
@@ -116,6 +120,7 @@ transcript:
   sec: 422
   time: '7:02'
   who: Luke
+- header: 'Recruitment workflow: six‑stage process from definition to close'
 - line: One of the big problems – or the big challenges of the work that we do is
     – that every single company is different. That in itself is a challenge, because
     you need to first understand the problems and the different challenges that those
@@ -128,6 +133,7 @@ transcript:
   sec: 455
   time: '7:35'
   who: Luke
+- header: Role definition & market guidance for data science hires
 - line: It breaks down into six key areas. Number one is role definition. Typically,
     we'll work with businesses to help them define the actual conditions within the
     business. A lot of companies still struggle with that, because it's still such
@@ -145,6 +151,7 @@ transcript:
   sec: 522
   time: '8:42'
   who: Luke
+- header: Shortlist, interview preparation, feedback and offer negotiation
 - line: Thirdly, we would put together a long and short list. The long list are the
     people that we think could be okay for the role or have quite a lot of crossover.
     The shortlist of the people that we spoke to, that we know are right for that
@@ -178,6 +185,7 @@ transcript:
   sec: 663
   time: '11:03'
   who: Alexey
+- header: 'Candidate funnel sizes: longlists, headhunting and volume hiring'
 - line: It's different from position to position. Because we work in those kinds of
     singular positions. Some roles that we work on could be in the hundreds. There's
     a role that I'm working on at the moment where I'm doing a European-wide search,
@@ -218,7 +226,6 @@ transcript:
   sec: 786
   time: '13:06'
   who: Luke
-- header: Getting recruiter’s attention
 - line: In these 10-20 profiles, what does usually get your attention? What do you
     look at typically? When you say, “Okay, I really have to call this candidate.”
     Versus “Okay, I'm not sure. Maybe I'll talk to this person later when I first
@@ -226,6 +233,7 @@ transcript:
   sec: 817
   time: '13:37'
   who: Alexey
+- header: 'First impressions: CV design, formatting and professional clarity'
 - line: When we spoke about this before, I tried to look back at some of the old CVs
     that I've been like, “Yes, they look amazing!” And I will try and substantiate
     all of these points. So it makes it really easily understandable. I start from
@@ -259,6 +267,7 @@ transcript:
   sec: 940
   time: '15:40'
   who: Luke
+- header: Industry and use‑case alignment on resumes for better matches
 - line: Number one is, I’ll instantly look for the crossover between the business
     and the role that they're applying for with the company that they're currently
     working in. The reason I say that is not because it's a name game, or… It's not
@@ -311,6 +320,7 @@ transcript:
   sec: 1136
   time: '18:56'
   who: Luke
+- header: 'Projects & portfolio: linking tech stack to concrete work'
 - line: That's the first thing that I look for… and that's the first thing that kind
     of pops up. But on top of that... One of the things that really gets me about
     CVs... Sometimes I'll open a profile, and their tech stack overview, and they
@@ -347,6 +357,7 @@ transcript:
   sec: 1303
   time: '21:43'
   who: Luke
+- header: 'Career narrative: tenure, common themes and progression'
 - line: Lastly, this breaks down into three key categories, which is tenure, common
     themes and growth. If I look at CV, I would want to see that someone had had a
     good amount of time in the businesses that they've worked in, and not jumped from
@@ -383,7 +394,6 @@ transcript:
   sec: 1469
   time: '24:29'
   who: Luke
-- header: Project portfolio
 - line: Then you also look at projects. What is important in projects? Is that they
     are linked to actual skills. So it's not just a bunch of buzzwords on CV, but
     actually, for each project – it's clear for you how these skills were used. Finally,
@@ -392,6 +402,7 @@ transcript:
   sec: 1470
   time: '24:30'
   who: Alexey
+- header: Demonstrating business impact and real world use cases
 - line: Yeah. Just on the use-cases... For me – you can work on recommendation systems
     in Spotify, or GetYourGuide and then also work on recommendation systems in Zalando.
     It's about finding balance between understanding those kinds of industries and
@@ -425,7 +436,6 @@ transcript:
   sec: 1604
   time: '26:44'
   who: Luke
-- header: CV design and structure
 - line: I also wanted to ask you about design. Usually data scientists are not designers.
     We don't spend a lot of time using tools like Canva, or Adobe Illustrator, or
     whatever to come up with an excellent CV, like designers would do. I wanted to
@@ -433,6 +443,7 @@ transcript:
   sec: 1604
   time: '26:44'
   who: Alexey
+- header: 'CV structure: clarity, audience fit and information hierarchy'
 - line: Yeah. I'm not saying that this has to be super colorful. What I am saying
     is – it needs to be clear. It just needs to look professionally clear. I know
     it's not a very good way to describe it, but some CVs I open and it's clear that
@@ -476,7 +487,7 @@ transcript:
   sec: 1803
   time: '30:03'
   who: Luke
-- header: Changing jobs too often
+- header: 'Job‑hopping: red flags, ideal tenure and acceptable exceptions'
 - line: We have a question. How often is too often when changing jobs? What is currently
     the average time that the person stays in a job? What would be a red flag for
     you?
@@ -504,13 +515,13 @@ transcript:
   sec: 1880
   time: '31:20'
   who: Luke
-- header: Standing out as a fresher / junior candidate
 - line: I understand. You mentioned that you look for a background in a specific industry.
     But what about freshers who don't have any background? Do you also work with junior
     candidates? If you do, what do you look for in junior candidates?
   sec: 1919
   time: '31:59'
   who: Alexey
+- header: 'Junior candidates: pick an industry, aim small and show purpose'
 - line: I do work a bit with more junior candidates, but I wouldn't say that's my
     key focus. The key for me when I look for junior candidates – any candidate actually
     – is having purpose in their search. I know that sounds a bit fluffy. But there
@@ -582,7 +593,6 @@ transcript:
   sec: 2182
   time: '36:22'
   who: Luke
-- header: Tailoring your application to the position
 - line: So if you really want to tailor your application to a specific position, you
     need to show that you really focus on this industry – you really like this industry.
     But is there anything else candidates can do to show that they are really interested
@@ -592,6 +602,7 @@ transcript:
   sec: 2237
   time: '37:17'
   who: Alexey
+- header: 'Tailored applications: research job needs and map your skills'
 - line: So I'll give you my PC – what’s the right way to do it – and then I would
     give you what I would personally do. Most companies will probably hate me for
     saying this. So number one… This is simple and probably some of your listeners
@@ -615,6 +626,7 @@ transcript:
   sec: 2325
   time: '38:45'
   who: Luke
+- header: 'Targeted outreach tactics: emails, LinkedIn and creative approaches'
 - line: It's not just about the industry or the use cases specifically, it's about
     how you can link those two things together. First, I try to outline the challenges
     and problems that that individual company is facing. Secondly, I would put together
@@ -682,6 +694,7 @@ transcript:
   sec: 2655
   time: '44:15'
   who: Luke
+- header: 'Focus strategy: approach fewer companies and segment your market'
 - line: Then you really need to focus on a few positions, because there is no way
     you can do that for 10 on 20 positions – that’s just too much time. You really
     need to pick an area where you want to focus and then find the companies that
@@ -701,7 +714,6 @@ transcript:
   sec: 2690
   time: '44:50'
   who: Luke
-- header: Going from academia to industry
 - line: We have a couple of questions on Slido. If somebody wants to change their
     career, from academia to industry, what can they do? How can they stand out? How
     can they compete with people who already have experience in industry? Usually,
@@ -711,6 +723,7 @@ transcript:
   sec: 2742
   time: '45:42'
   who: Alexey
+- header: 'Academia → industry: adopt a product mindset and productionize research'
 - line: That's something that people struggle with constantly. I think the biggest
     challenge that I find is that companies push back. The clients that I've worked
     with – they push back on the fact that the people are coming from those research
@@ -757,7 +770,6 @@ transcript:
   sec: 2954
   time: '49:14'
   who: Luke
-- header: Working just for money — is it bad?
 - line: Or find a project at university. Some universities collaborate with companies
     – with the industry – and I think it's a really good idea to try to get in these
     projects and learn from that. We have another question. Are there people that
@@ -766,6 +778,7 @@ transcript:
   sec: 2994
   time: '49:54'
   who: Alexey
+- header: 'Motivation vs money: career focus, progression and tradeoffs'
 - line: Maybe. The people that I've seen really accelerate their career quickly and
     to high levels are the people that have real key focus. There's nothing wrong
     with taking a job and focusing purely on the financial part. If that's your focus,
@@ -794,6 +807,7 @@ transcript:
   sec: 3126
   time: '52:06'
   who: Alexey
+- header: 'Salary signals: asking salary, market alignment and recruiter views'
 - line: I totally empathize with everyone that works in this industry. They're contacted
     every single day by hundreds of recruiters with shit roles, paying shit salaries.
     I think it's fair play – do you want to waste your time having a conversation
@@ -832,7 +846,6 @@ transcript:
   sec: 3252
   time: '54:12'
   who: Luke
-- header: Different CV styles and CV in Germany
 - line: We also have a question from Castella about CV styles. She grew up in Germany
     and lives in the US and she sees that the styles of CVs are different. Are the
     CVs that you're getting vastly different? Or most of them follow the same structure?
@@ -857,6 +870,7 @@ transcript:
   sec: 3371
   time: '56:11'
   who: Alexey
+- header: 'CV formats & length: country differences and the two‑page guideline'
 - line: I think the ideal length is two pages. I don't think you can get enough content
     on one page to make it sing. Three pages is borderline too much. But two pages
     is ideal. That's the balance between having enough deep content that will give
@@ -875,7 +889,6 @@ transcript:
   sec: 3468
   time: '57:48'
   who: Luke
-- header: Job titles in the CV
 - line: We have four more questions. Nishant is asking, “Is it okay to write a job
     title in CV that more closely represents the work they're doing instead of putting
     the official title?” From my experience, some companies put “manager” in the role.
@@ -886,6 +899,7 @@ transcript:
   sec: 3477
   time: '57:57'
   who: Alexey
+- header: 'Job title alignment: adapt titles to industry norms without lying'
 - line: I think it is, as long as you're not lying about what you're doing. Is it
     okay to write “Software Engineer” if your job title is “Software Developer”? I
     think that's okay. Is it okay to write “Lead software engineer” if you're a junior?
@@ -898,13 +912,13 @@ transcript:
   sec: 3531
   time: '58:51'
   who: Luke
-- header: Switching from web development to machine learning
 - line: If previous commercial experience in a field is loosely related to data science
     or machine learning, is it an advantage or drawback? Asking as someone who wants
     to switch from web developer to machine learning.
   sec: 3598
   time: '59:58'
   who: Luke
+- header: 'Switching backgrounds: web development to machine learning skills'
 - line: You could probably give a better answer to that. I'm not too knowledgeable
     in the context of web dev to data science field. But I think anyone who comes
     from a programming background, if you move into data science, that gives you a
@@ -925,7 +939,6 @@ transcript:
   sec: 3662
   time: '1:01:02'
   who: Luke
-- header: “What are the other companies you’re interviewing with?”
 - line: I would add that it's neither an advantage nor a drawback. It's a good thing,
     but, like you said, not the thing that will get you the job right. Agunjan is
     asking, “Is it okay to tell recruiters about other companies you're currently
@@ -933,6 +946,7 @@ transcript:
   sec: 3699
   time: '1:01:39'
   who: Alexey
+- header: 'Disclosing other interviews: transparency, trust and recruiter differences'
 - line: Depends on the recruiter. The reason why a lot of companies do that is because
     they want to extract information from you to be able to A) gauge where you're
     at with things. If you're interviewing with me, a company that I work with, and
@@ -956,7 +970,6 @@ transcript:
   sec: 3772
   time: '1:02:52'
   who: Luke
-- header: Asking for the right salary
 - line: How impactful is asking salary in the application process? If somebody is
     asking too low, does it reflect lack of confidence in skills, or shows that this
     candidate doesn't know the market well enough? What do you think when somebody's
@@ -999,12 +1012,12 @@ transcript:
   sec: 3961
   time: '1:06:01'
   who: Luke
-- header: Summary — what makes a candidate stand out
 - line: We don't have any more questions. And we are a bit over time. So to summarize
     or conversation – what makes some candidates really stand out?
   sec: 4037
   time: '1:07:17'
   who: Alexey
+- header: 'Episode summary: purpose‑driven candidates and standing out as a data scientist'
 - line: I thought about this for a while. One thing that really makes candidates stand
     out to me — it's understanding their purpose, and doubling down on that. Once
     you do that, everything else becomes easy. If you don't have that, and you're

@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/2TxcU3eF7hjkAEzAJcYMAg
   apple: https://podcasts.apple.com/us/podcast/running-from-complexity-ben-wilson/id1541710331?i=1000529834651
 transcript:
+- header: 'Podcast Introduction: Running from Complexity'
+- header: 'Guest Introduction: Ben Wilson, Databricks and ML engineering focus'
 - line: Today, we'll talk about running from complexity, which means starting with
     simpler things when we do our machine learning projects. We have a special guest
     today, Ben Wilson. Ben is a Practice Lead Resident Solutions Architect at Databricks.
@@ -32,12 +34,12 @@ transcript:
   sec: 182
   time: '3:02'
   who: Ben
+- header: 'Career Path: Navy nuclear tech to process engineering and data science'
 - line: Yes, it's our pleasure. Before we go into our main topic, let's start with
     your background. Can you tell us about your career journey so far?
   sec: 186
   time: '3:06'
   who: Alexey
-- header: Ben’s Background
 - line: Oh, it’s one of the weirdest ones. It's even weirder than my job title right
     now. It started straight out of high school. I went into the United States Navy
     and joined a program that involved nuclear engineering – as a technician. I did
@@ -89,7 +91,7 @@ transcript:
   sec: 409
   time: '6:49'
   who: Ben
-- header: Building solutions for customers
+- header: 'Consulting Approach: Prioritizing maintainability over novelty'
 - line: So basically you help customers build what they need.
   sec: 410
   time: '6:50'
@@ -120,6 +122,7 @@ transcript:
   sec: 497
   time: '8:17'
   who: Alexey
+- header: 'Code Quality: Refactoring "walls of text" into modular, testable code'
 - line: Or maybe the code that we're looking at is so over-engineered and complex,
     that the simple solution is, “Hey, let's refactor this to make it more maintainable.”
     A theme in the book that I wrote, which you mentioned before, is “Walls of text!”
@@ -134,6 +137,7 @@ transcript:
   sec: 529
   time: '8:49'
   who: Ben
+- header: 'Production Failures: Lack of business buy-in and overcomplicated solutions'
 - line: Sometimes we rewrite the code for them. Other times we pair up with them and
     build it together. The end goal is not just to ‘get something into production’,
     because that doesn't make successful ML. The end goal is to build something together
@@ -144,7 +148,6 @@ transcript:
     need to put some new functionality into it, they kind of throw their hands up
     and say, “I have no idea where to begin with this.”
   who: Ben
-- header: Why projects don’t make it to production
 - line: In your opinion, what do you think is the most common reason that projects
     don't make it into production?
   sec: 635
@@ -159,6 +162,7 @@ transcript:
   sec: 646
   time: '10:46'
   who: Ben
+- header: 'Motivation Drivers: Tech hype, "flexing," and engineering pragmatism'
 - line: The second one is either picking a solution to a problem that’s too complicated
     to maintain or you can’t even get to the point where you can run it with stability
     in production. Or maybe it becomes so expensive to run that the return on investment
@@ -183,7 +187,6 @@ transcript:
     case is not even going to make us $100,000. Turn it off.” That's really demoralizing
     when a team faces that. Those are the two most common reasons that I see.
   who: Ben
-- header: Why do people choose overcomplicated solutions?
 - line: Why do you think that happens? Why do you think somebody wants to run a complex
     LSTM using a cluster of GPUs on Spark, using Horovod, when they just need Churn
     prediction? Why do things like this happen? Do you know?
@@ -251,6 +254,8 @@ transcript:
   sec: 1048
   time: '17:28'
   who: Alexey
+- header: 'Avoiding Search-Driven Complexity: Use experts, communities, and Bayesian
+    methods'
 - line: Exactly. Search engine optimization creates technical debt in data science
     work. What I always recommend, and what I've always done, is – when I'm working
     on a new project that I have no experience on, and newsflash to the viewers, even
@@ -301,7 +306,7 @@ transcript:
   sec: 1296
   time: '21:36'
   who: Ben
-- header: The dangers of isolating data science from the business unit
+- header: 'Cross-Functional Collaboration: Involving SMEs to simplify solutions'
 - line: The other reason why projects don’t make it into production that you mentioned
     – nobody cares and there is no buy-in. You also said that we need to focus on
     being engineers. But I think when we only focus on being engineers, sometimes
@@ -324,6 +329,7 @@ transcript:
   sec: 1338
   time: '22:18'
   who: Ben
+- header: 'Explainability: Translating models into business terms to build trust'
 - line: Some people want to default into what they're comfortable with, which is isolation,
     or ‘siloing off’. “Hey, I only speak in the terms of data science and mathematics
     and physics.” But the rest of the business doesn't speak that language. Some of
@@ -365,7 +371,6 @@ transcript:
     the relationship is between the data science team and the business. The silo walls
     need to come down if you want to be a successful data science team.
   who: Ben
-- header: The importance of being able to explain things
 - line: Why do you need to explain something to the business unit anyway? Why do they
     even care how this thing works inside? I can say, “Hey, just give us your data,
     then we do some magic, and you get the output. Trust us – this output is good.
@@ -425,7 +430,8 @@ transcript:
   sec: 1745
   time: '29:05'
   who: Ben
-- header: Maximizing chances of making into production
+- header: 'From Idea to Production: Rapid prototypes, selling to SMEs, and executive
+    sponsorship'
 - line: So how do we go about this? Let's say we have some project idea. What does
     this approach look like? How do we go from the idea to production in such a way
     that we maximize our chances, that in the end it’ll be in production and have
@@ -453,6 +459,7 @@ transcript:
   sec: 1783
   time: '29:43'
   who: Ben
+- header: 'Experimentation Process: Timeboxed bake-offs and cost–benefit tradeoffs'
 - line: But if it's the data science team coming up with the idea, they have to sell
     that. They have to get that buy-in, and getting that buy-in means – immediately
     after you do your first rough experiment, you need to timebox these things, as
@@ -545,7 +552,7 @@ transcript:
   sec: 2168
   time: '36:08'
   who: Ben
-- header: The IKEA effect
+- header: 'The IKEA Effect: Emotional attachment to complex, hard-to-maintain systems'
 - line: I heard of this thing called ‘the IKEA effect’, maybe you’ve heard about this
     as well.
   sec: 2173
@@ -601,7 +608,7 @@ transcript:
   sec: 2353
   time: '39:13'
   who: Ben
-- header: Risks of implementing novel algorithms
+- header: 'Novel Algorithm Risks: Transfer learning vs building white‑paper solutions'
 - line: Let's say we have something more complex – maybe a novel algorithm – that
     we want to try. We heard that right now deep learning is very popular, so we want
     to try it for our problem. Should we do this? Is this necessary? What kind of
@@ -641,6 +648,7 @@ transcript:
   sec: 2440
   time: '40:40'
   who: Ben
+- header: 'Prefer Simplicity First: Solve with SQL or stats before deep learning'
 - line: What I usually recommend to people who are thinking of implementing novel
     algorithms – check to make sure it's possible. See if other people have done it.
     You don't want to be the guinea pig, unless you've established street cred at
@@ -678,7 +686,6 @@ transcript:
     to move on to something cool or cooler. That's how I see the implementation of
     original research.
   who: Ben
-- header: If it can be done simply – do that first
 - line: So this is how you earn street cred – by doing uncool stuff first and by not
     using machine learning. Maybe by using the stats model library before you even
     moving to Scikit-Learn. Then eventually, you might get into this area where no
@@ -708,7 +715,7 @@ transcript:
   sec: 2744
   time: '45:44'
   who: Alexey
-- header: Don’t become the guinea pig for someone’s white paper
+- header: 'Paper Pitfalls: Reproducibility, environment assumptions, and cloud cost'
 - line: Yeah, and if those 10 people publish something, check to see how many other
     papers reference that paper. That's always something that I do. I learned that
     the hard way, several times. “Oh, that's published by this university. They definitely
@@ -757,9 +764,10 @@ transcript:
   sec: 2956
   time: '49:16'
   who: Alexey
+- header: 'Team Composition: Importance of statistics expertise and coding/ML engineering
+    skills'
 - line: I didn't realize we have so many questions. We have actually six questions.
   who: Alexey
-- header: The importance of stat skills and coding skills
 - line: Rosona says “My impression is that a lot of companies slip through needing
     people with basics stat skills. And now I'm throwing data science at it. Do you
     agree or disagree?”
@@ -799,7 +807,7 @@ transcript:
   sec: 3100
   time: '51:40'
   who: Ben
-- header: Structuring an agile team for ML work
+- header: 'Agile for ML: Iterative sprints, MVPs, feature engineering, and testing'
 - line: Yeah, thanks. A question from Chetna – “Could you please advise how to structure
     an Agile Scrum team specifically for machine learning or data science work?” So
     my experience says that typical software Scrum doesn't fit well to data science.
@@ -822,6 +830,7 @@ transcript:
   sec: 3170
   time: '52:50'
   who: Ben
+- header: 'Timeboxing Research: Limit experiments to avoid sunk-costs'
 - line: If you're just left to do whatever you wanted to do, like, “Hey, that project
     we’re doing… come back in six months, and we'll show you what we've built.” You
     could build some of the most unmaintainable, crazy code that's so over-engineered.
@@ -848,7 +857,6 @@ transcript:
     tests. Let's make sure that we have an integration test from ingest to prediction.”
     So it's possible. I know it's possible because I've done it many, many times.
   who: Ben
-- header: Timeboxing research
 - line: The main concern I hear when somebody says, “Hey, let's use Scrum for research”
     is that the research is very nondeterministic. You don't know if something you
     do is going to succeed or not. But I think it's still a good idea to timebox this
@@ -878,7 +886,7 @@ transcript:
   sec: 3373
   time: '56:13'
   who: Ben
-- header: Mentoring
+- header: 'Mentoring & Training: Databricks programs and production ML capstones'
 - line: There is another question from Rosona about your mentoring. I don't remember
     if you mentioned something about mentoring today. But – “Is it a formal thing
     you do or is it something through Databricks?”
@@ -895,6 +903,8 @@ transcript:
   sec: 3476
   time: '57:56'
   who: Ben
+- header: 'Book Summary: Machine Learning Engineering in Action — process, automation,
+    testing'
 - line: We also have programs where we teach ML to people from a data engineering
     background and a software development background. There's a kickoff that we're
     doing – we just started the next round this week actually, which is formalized
@@ -904,7 +914,6 @@ transcript:
     ML. That's what we help people build. So they focus on solving a problem with
     an open source data set.
   who: Ben
-- header: Ben’s book
 - line: Thanks. So I know we should be wrapping up. But I also want to ask you about
     your book. Maybe you can tell us a bit about it and how it’s related to the topic
     today?
@@ -971,7 +980,7 @@ transcript:
   sec: 3745
   time: '1:02:25'
   who: Ben
-- header: ‘Uncool techniques’ at AI First companies
+- header: 'AI‑First Tradeoffs: Talent needs, retention, and budget realities'
 - line: One question from Akshat. “It makes sense to solve problems with uncool techniques.
     But there are companies who are AI First – they want to show off and say that
     they have AI capabilities. So what about them?”
@@ -990,6 +999,7 @@ transcript:
   sec: 3765
   time: '1:02:45'
   who: Ben
+- header: 'Manager Enablement: Tech leads translating ML for nontechnical managers'
 - line: Here in the United States, at least, you could be looking at having to pay
     somebody half a million dollars a year in salary. Who knows how to do that? Who
     can successfully do that? Most companies don't have that budget, or they see that
@@ -1002,7 +1012,6 @@ transcript:
     so that they can train, but you need to have processes built around mentoring
     and cross-training, pair programming. All I can say is “good luck”.
   who: Ben
-- header: Should managers learn data science?
 - line: Right, thanks. A comment from anonymous, “I always hear about data scientists
     having to explain things in simple language to their managers. Do you think it's
     high time that managers have a crash course on data science?”
@@ -1071,7 +1080,7 @@ transcript:
   sec: 4076
   time: '1:07:56'
   who: Ben
-- header: Do data scientists need to specialize to be successful?
+- header: 'Career Path Advice: Core fundamentals, specialization timeline, and leadership'
 - line: Okay. Last one. From Chetna “I've often heard people suggesting that to be
     successful as a data scientist, one should find a niche, for example, become an
     NLP expert, recommendations expert, etc. What are your thoughts about this?”
@@ -1142,7 +1151,7 @@ transcript:
   sec: 4310
   time: '1:11:50'
   who: Ben
-- header: How to find Ben online
+- header: 'Contact & Resources: LinkedIn, podcast appearances, and early‑access book'
 - line: Okay, thanks. So, let's finish. How can people find you?
   sec: 4371
   time: '1:12:51'

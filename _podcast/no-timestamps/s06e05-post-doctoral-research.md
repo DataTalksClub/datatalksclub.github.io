@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/6rgBSTPRvgNcJ7ouFyZmbH
   apple: https://podcasts.apple.com/us/podcast/advancing-big-data-analytics-post-doctoral-research/id1541710331?i=1000543884294
 transcript:
+- header: 'Guest Introduction: Eleni Tzirita‑Zacharatou, postdoctoral researcher at
+    DIMA, TU Berlin'
 - line: This week, we'll talk about doing postdoctoral research. We have a special
     guest today, Eleni. Eleni is a postdoctoral researcher at the DIMA Group at TU
     Berlin, which is the same university where I got my Master’s like six-seven years
@@ -42,12 +44,12 @@ transcript:
   sec: 151
   time: '2:31'
   who: Eleni
-- header: Eleni’s background
 - line: Before we go to our main topic of doing research, I wanted to ask you about
     your background. Can you tell us about your career journey so far?
   sec: 159
   time: '2:39'
   who: Alexey
+- header: 'Academic Journey: Athens undergrad → EPFL PhD → Berlin postdoc'
 - line: Yes. You practically already covered most of it. But let me also say some
     things from my perspective. I'm currently a postdoc at the Technical University
     of Berlin and I have been in Berlin since October 2019. So, that’s roughly two
@@ -66,7 +68,8 @@ transcript:
   sec: 169
   time: '2:49'
   who: Eleni
-- header: Spatial data analytics
+- header: 'Spatial Big Data Analytics: Definitions, examples (GPS, trajectories, satellite
+    imagery)'
 - line: My main research area so far has been spatial big data analytics. This is
     the broader topic of my PhD and a topic that I'm still working on, even though
     right now I'm not focusing on that entirely. So, what is it? Well, broadly speaking,
@@ -91,12 +94,12 @@ transcript:
   sec: 230
   time: '3:50'
   who: Eleni
-- header: Responsibilities of a postdoc
 - line: What do you usually do at work? What kind of responsibilities do you have
     now as a postdoctoral researcher?
   sec: 348
   time: '5:48'
   who: Alexey
+- header: 'Postdoc Role Overview: Research, mentoring, teaching, reviewing, dissemination'
 - line: I do a few different things, I would say. Although first of all, I participate
     in research activities, which contain many different things, but broadly it means
     working to solve some research problems, or even thinking about new ones. It also
@@ -116,6 +119,7 @@ transcript:
   sec: 439
   time: '7:19'
   who: Alexey
+- header: 'Time Management for Research: Focused days vs. multitasking'
 - line: I would say it’s more like a typical week. I try to avoid multitasking as
     much as possible because I don't find it effective. I try to have some days where
     I can focus entirely on one activity or another, thus I would say this is what
@@ -128,7 +132,6 @@ transcript:
   sec: 449
   time: '7:29'
   who: Eleni
-- header: Publishing papers
 - line: You said that when you're writing papers, “if there is some outcome to share”.
     I'm curious, how often does it happen that you do some research and you don't
     have an outcome to share? You don't end up writing the paper? Is this something
@@ -136,6 +139,7 @@ transcript:
   sec: 509
   time: '8:29'
   who: Alexey
+- header: 'Publishing Realities: When research yields publishable outcomes'
 - line: Yeah, that is a good question. What can happen is that you don't have research
     results that are good enough to write a really good paper, and so, it can’t be
     published at one of the top conferences in the field. To have an idea where the
@@ -151,7 +155,7 @@ transcript:
   sec: 526
   time: '8:46'
   who: Eleni
-- header: Best places for data management papers
+- header: 'Top Data Management Venues: VLDB, SIGMOD, ICDE'
 - line: The top venues where you publish are usually VLDB, and what else?
   sec: 603
   time: '10:03'
@@ -181,7 +185,6 @@ transcript:
   sec: 653
   time: '10:53'
   who: Eleni
-- header: Differences between postdoc and PhD
 - line: Interesting. Is being a postdoc different from being a PhD student? You mentioned
     that you need to do a lot of things like thinking about research problems, writing
     papers, mentoring students, teaching a course, reviewing papers. But PhD students
@@ -189,6 +192,7 @@ transcript:
   sec: 671
   time: '11:11'
   who: Alexey
+- header: 'Postdoc vs PhD: Increased responsibility, mentoring, and leadership'
 - line: Yes, you're quite right about that. Overall, I feel that the main difference
     in the postdoc position is that you have more responsibility. So it's the amount
     of responsibility that changes and maybe also a little bit on the distribution
@@ -250,7 +254,6 @@ transcript:
   sec: 906
   time: '15:06'
   who: Eleni
-- header: Helping students become successful
 - line: I understand. Thanks for clarifying. You also mentioned one thing that I think
     is quite important. You said that now you have more responsibility, and a part
     of your job is that you need to help others be more successful. You have Bachelor’s
@@ -263,6 +266,7 @@ transcript:
   sec: 966
   time: '16:06'
   who: Alexey
+- header: 'Mentoring Strategy: Advising BSc/MSc topics and evaluating PhD proposals'
 - line: Yeah, that's a great question. Okay. Maybe I can also talk a bit about the
     Master’s and Bachelor’s students. In this case, I have to say that it's easier,
     of course. Most of my experience is also working with Master’s and Bachelor’s
@@ -354,13 +358,14 @@ transcript:
   sec: 1342
   time: '22:22'
   who: Eleni
-- header: Research at the DIMA group
 - line: By the way, you said there are a few bigger research themes in the group?
     What are these themes at the DIMA group? I know IoT is one of these topics. What
     are the others?
   sec: 1374
   time: '22:54'
   who: Alexey
+- header: 'DIMA Research Programs: Nebula Stream (IoT/stream processing) and Agora
+    infrastructure'
 - line: Now there are practically two bigger topics now. Yes, one is IoT, or building
     a general purpose data management system for the IoT. This is a system that we
     call a ‘nebula stream’. Then there is another topic that we call ‘agora’. This
@@ -377,6 +382,7 @@ transcript:
   sec: 1439
   time: '23:59'
   who: Alexey
+- header: 'System‑Driven Research: From Apache Flink legacy to new Nebula stream systems'
 - line: Not really. Basically, in a sense, this ‘nebula stream’ system is kind of
     the next Flick, you could say. This is representative of how the DIMA group works.
     Before there was Flink and a lot of researchers were working on different problems
@@ -394,7 +400,7 @@ transcript:
   sec: 1493
   time: '24:53'
   who: Eleni
-- header: Identifying important research directions
+- header: 'Spotting Research Trends: Conferences, reviewing, and community roadmaps'
 - line: Interesting. In general, I'm curious – How do you know what the important
     topics in research are? There are some topics, or themes, in the group in general
     and you try to stay within these themes. But this is still generally quite broad,
@@ -448,6 +454,7 @@ transcript:
   sec: 1528
   time: '25:28'
   who: Eleni
+- header: 'Industry Engagement: Interfacing academic research with industry needs'
 - line: So, basically networking, right? Conferences and seeing what is published.
     Do you think it's important to also be in touch with industry partners to see
     what is going on in industry and to see what will possibly become important there?
@@ -479,7 +486,7 @@ transcript:
   sec: 1813
   time: '30:13'
   who: Eleni
-- header: Reviewing papers
+- header: 'Peer Reviewing: Invitations, visibility, and networking in academic service'
 - line: But the main way of seeing trends in research would be to attend conferences,
     doing these gatherings and even discussion panels. I think you also mentioned
     reviewing papers. How typical is it for people to also work on reviewing papers?
@@ -521,7 +528,6 @@ transcript:
   sec: 1908
   time: '31:48'
   who: Eleni
-- header: Underrated topics in data management
 - line: Yeah, thanks. Speaking of trends in research – sometimes you come to a conference
     and there is one topic that everyone is talking about – it's clearly a trend.
     But the next year, you come and it seems as though everyone forgot about this
@@ -537,6 +543,7 @@ transcript:
   sec: 1969
   time: '32:49'
   who: Alexey
+- header: 'Beyond Performance Metrics: Usability, energy, adoption as research priorities'
 - line: Yeah, obviously that's a difficult question, I think. First, I'll try to give
     a bit of a more general answer. One of the things that I have personally noticed
     in the field – and to some extent, it bothers me – is that in most cases, people
@@ -575,13 +582,13 @@ transcript:
   sec: 2018
   time: '33:38'
   who: Eleni
-- header: Research in data cleaning
 - line: I'm wondering – data cleaning is more like an art than a science, how do you
     actually quantify that? There are no metrics that measure the “cleanness” of data,
     so this is a tricky one. Is there research in this area?
   sec: 2164
   time: '36:04'
   who: Alexey
+- header: 'Data Cleaning Research: Automation challenges and evaluation difficulties'
 - line: Yeah, there is research, of course. I don't have experience with it – I haven't
     done research in this area. I have to say that, early in my PhD, my professor
     mentioned this as an option back then. I have to say that I was also a little
@@ -618,7 +625,6 @@ transcript:
   sec: 2290
   time: '38:10'
   who: Eleni
-- header: Collaborating with others
 - line: Yeah, thanks. You also mentioned that now, as a postdoc, you do a lot of work
     in collaboration with other postdocs. Since they are on the same level, you're
     not necessarily mentoring them, but you're more collaborating with them. Do you
@@ -627,6 +633,8 @@ transcript:
   sec: 2293
   time: '38:13'
   who: Alexey
+- header: 'Multidisciplinary Collaboration: Remote sensing, neuroscience, and cross‑domain
+    work'
 - line: Yeah. I have some experience working with people that are not in Data Management.
     In general, there are connections – it's easy to find connections – from data
     management to other disciplines. For example, in my PhD, I was involved in a large,
@@ -659,6 +667,7 @@ transcript:
   sec: 2434
   time: '40:34'
   who: Alexey
+- header: 'Facilitating Cross‑Group Collaboration: Physical spaces and informal interactions'
 - line: Yeah, that's a good point. Maybe now it has improved, I would say. Actually,
     there is one issue that I find to be a problem concerning where the groups are,
     which is the building itself. I think it's actually not so great that the DIMA
@@ -701,7 +710,8 @@ transcript:
   sec: 2613
   time: '43:33'
   who: Eleni
-- header: Choosing the field for Master’s students
+- header: 'Preparing for PhD Applications: Field choice, research quality, and AI/ML
+    trends'
 - line: Yeah, thanks. I noticed that I've been ignoring questions, so apologies for
     that. We have a few questions. Amin is asking, “For computer science Master's
     students, what fields could be good to work in order to be able to apply for a
@@ -735,6 +745,8 @@ transcript:
   sec: 2778
   time: '46:18'
   who: Alexey
+- header: 'Master''s Thesis Selection: Advertised topics, mentor fit, internships
+    and skill alignment'
 - line: And maybe two more things. One thing is to maybe try to do research already
     in your Master’s. Because this can help you identify what you like. This can mean
     that you may work on your Master’s in the field, and you say that you really like
@@ -763,7 +775,6 @@ transcript:
   sec: 2826
   time: '47:06'
   who: Eleni
-- header: Choosing the topic for a master thesis
 - line: Maybe this is something you can also help answer. This is a question that
     comes up in the community quite often, maybe at least once a month, especially
     during the time span that students need to select a topic or a Master’s thesis.
@@ -807,7 +818,7 @@ transcript:
   sec: 3080
   time: '51:20'
   who: Eleni
-- header: Should I do a PhD?
+- header: 'Deciding on a PhD: Trial research in Master’s or internships before committing'
 - line: What advice would you give to somebody who's just graduated from Master’s
     and they are not sure whether they want to continue researching and do a PhD or
     they just want to work in the industry? I think this is quite a difficult problem.
@@ -851,6 +862,7 @@ transcript:
   sec: 3267
   time: '54:27'
   who: Alexey
+- header: 'PhD Expectations: Publication requirements and top‑conference pressure'
 - line: Yeah, different groups have different requirements in terms of how many papers
     you are expected to publish? But yeah, in general, it's always at least one. Broadly
     speaking, at DIMA, it’s typically three and they have to be at top conferences.
@@ -858,7 +870,8 @@ transcript:
   sec: 3299
   time: '54:59'
   who: Eleni
-- header: Promoting computer science to female students
+- header: 'Increasing Female Participation in CS: Early outreach, role models, institutional
+    support'
 - line: One more thing I wanted to ask you. This is actually something we also talked
     about with a guest a few podcasts ago – with Barbara, who takes part in the Women
     in Data Science community. There, the question that somebody from the audience
@@ -941,6 +954,7 @@ transcript:
   sec: 3626
   time: '1:00:26'
   who: Alexey
+- header: 'Personal Reflections: Stereotypes, belonging, and career persistence'
 - line: I can really tell you from my personal experience that this problem is real.
     When I was younger and I was starting with my PhD, I somehow really felt that
     the way I dress and the fact that I wear makeup and all that, that it’s not compatible
@@ -953,7 +967,6 @@ transcript:
   sec: 3651
   time: '1:00:51'
   who: Eleni
-- header: Finding Eleni online
 - line: So, we should be wrapping up. If people have questions for you, how can they
     find you?
   sec: 3694
@@ -967,12 +980,13 @@ transcript:
   sec: 3710
   time: '1:01:50'
   who: Alexey
+- header: 'Contact and Follow‑Up: DIMA page and email for questions'
 - line: This information is up to date. There is my email on my website – I guess
     that's the easiest way.
   sec: 3714
   time: '1:01:54'
   who: Eleni
-- header: Wrapping up
+- header: Episode Conclusion and Thanks
 - line: Okay, thanks a lot. Thanks for joining us today. Thanks for sharing your story.
     Thanks for telling us about the work you're doing  and thanks for talking about
     challenges openly, and all these things. So thanks a lot. Thanks, everyone for

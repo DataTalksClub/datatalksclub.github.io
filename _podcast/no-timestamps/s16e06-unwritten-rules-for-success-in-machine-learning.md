@@ -15,6 +15,8 @@ season: 16
 short: The Unwritten Rules for Success in Machine Learning
 title: 'From Engineer to VP of ML: How to Lead, Sell, and Ship Actionable ML Products'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Overview: Jack’s career arc from software engineer to VP of ML'
 - line: This week, we'll talk about the unwritten rules for success in machine learning,
     and many other things. We have a special guest today, Jack. Jack transitioned
     from software engineering to data science, and he worked as both an individual
@@ -34,7 +36,7 @@ transcript:
   sec: 56
   time: 0:56
   who: Alexey
-- header: Jack’s background
+- header: 'Career Pivot: Transition from full‑stack engineering to data science'
 - line: Before we go into our main topic of these unwritten rules, let's start with
     your background. Can you tell us about your career journeys so far?
   sec: 64
@@ -74,6 +76,7 @@ transcript:
   sec: 158
   time: '2:38'
   who: Alexey
+- header: 'Early Leadership: Informal management and promotion at GoHealth'
 - line: Yeah – it was not easy. I had to be very assertive and ask a lot of times,
     and then, eventually, landed an informal apprenticeship opportunity within that,
     where I was doing a side project. But I was able to switch, and did data science
@@ -119,7 +122,7 @@ transcript:
   sec: 204
   time: '3:24'
   who: Jack
-- header: Transitioning from IC to management
+- header: 'Rapid Advancement: Reflections on moving from IC to manager'
 - line: Just curious, in retrospect, do you think it was a bit too fast, too quick?
     You worked for a few years as an individual contributor and then – boom – you
     became a manager. Now, when you look back, was it too quick or was it just the
@@ -172,7 +175,7 @@ transcript:
   sec: 377
   time: '6:17'
   who: Jack
-- header: Lesson not taught in traditional school
+- header: 'Leadership Learning: Trial‑and‑error development of soft skills'
 - line: There’s no school for VPs of data science, right? [Jack agrees] So you just
     have to… How do you actually learn these skills?
   sec: 413
@@ -224,6 +227,7 @@ transcript:
   sec: 509
   time: '8:29'
   who: Alexey
+- header: 'Problem Framing: Technical context and product‑level understanding'
 - line: Yeah, I would say it's a mix of trial and error and it's also a mix of observing
     what works for others. Another thing that is not really taught very often in any
     kind of school environment is the importance of technical problem framing and
@@ -265,7 +269,7 @@ transcript:
   sec: 541
   time: '9:01'
   who: Jack
-- header: The importance of people’s perception, trust, and respect
+- header: 'Reputation Management: Building respect, trust, and influence'
 - line: One of these things that go unnoticed, as you mentioned, is understanding
     the applications on a deep level, and understanding what generates value. That's
     one of the things, as you mentioned, this tech lead had that other less senior
@@ -324,6 +328,7 @@ transcript:
   sec: 885
   time: '14:45'
   who: Alexey
+- header: 'Stakeholder Communication: Speaking marketing language (CAC, KPIs)'
 - line: Yeah, and even extending that –something that I like to do is to think through
     what people care about. If you're working professionally and – let's say, you're
     interfacing with marketing. Marketing will obsess over things cost per acquisition
@@ -368,7 +373,7 @@ transcript:
   sec: 1004
   time: '16:44'
   who: Jack
-- header: How soft skills are relevant to machine learning
+- header: 'ML Project Complexity: Resource needs and cross‑functional buy‑in'
 - line: Okay. We'll see how relevant it is – I hope it is relevant to the actual discussion
     we plan to have today, which is about the rules for success in machine learning.
     Probably it is related. I just want to summarize. If you want to be a technical
@@ -421,7 +426,7 @@ transcript:
   sec: 1096
   time: '18:16'
   who: Jack
-- header: How to put on a salesman hat in machine learning management
+- header: 'Selling ML: Fast POCs and demos to generate stakeholder support'
 - line: So you mentioned that machine learning projects are quite complex, and they
     acquire 3X (arbitrary number) – they require a lot more effort than a traditional
     (usual) software engineering project. This is not to mention that these projects
@@ -472,7 +477,7 @@ transcript:
   sec: 1302
   time: '21:42'
   who: Jack
-- header: The importance of visuals and building a POC as fast as possible
+- header: 'Demo Design: Visualizations and user‑centric proof‑of‑concepts'
 - line: You said visuals are important to them – what do you mean by that? Is having
     a demo with a user interface where they can play around important, or did you
     mean something else? Or did you mean planting a picture in their head or something
@@ -534,6 +539,7 @@ transcript:
   sec: 1526
   time: '25:26'
   who: Jack
+- header: 'Risk Communication: Explaining model trade‑offs without raw accuracy'
 - line: If you start talking about accuracy – you say, “Okay, this model is 70% accurate,”
     which may or may not be a good number, depending on the model, but to the stakeholders,
     it might sound scary like, “Ooh, 30% error rate. 30% of the time, it will make
@@ -569,6 +575,7 @@ transcript:
   sec: 1649
   time: '27:29'
   who: Jack
+- header: 'Rapid Prototyping Tools: Gradio, Streamlit, and lightweight demos'
 - line: Do you use something like Streamlit or Gradio for that? Or you use your full
     stack development skills and build a real one?
   sec: 1697
@@ -589,8 +596,7 @@ transcript:
   sec: 1711
   time: '28:31'
   who: Jack
-- header: 1st Rule of Machine Learning – don’t be afraid to start without machine
-    learning
+- header: 'Baseline First: Start with heuristics and manual processes before ML'
 - line: I see, I see. Interesting. Well, we still wanted to talk about the rules of
     machine learning and the unwritten ones. There is this famous article from Google,
     which is called the Rules of Machine Learning. You probably know about that. I
@@ -627,6 +633,7 @@ transcript:
   sec: 1773
   time: '29:33'
   who: Jack
+- header: 'Hypothesis Validation: Quick experiments to test product assumptions'
 - line: Yeah, I have a story about that. A few years ago, we wanted to launch a model
     for predicting the quality of pictures. If a picture has a good quality… It was
     for an online classifieds site, where people would sell and buy cars. One idea
@@ -679,6 +686,7 @@ transcript:
   sec: 1973
   time: '32:53'
   who: Jack
+- header: 'Actionability Over Accuracy: Churn model lesson on usable insights'
 - line: Yeah, and then you establish a baseline. Well, you first prove if this idea
     is valuable at all, then you can establish a baseline and then you can iterate
     on top of that and you can see if this is actually an improvement over the previous
@@ -747,6 +755,7 @@ transcript:
   sec: 2197
   time: '36:37'
   who: Jack
+- header: 'Outcome Focus: Avoiding technical tunnel vision on ML tuning'
 - line: Ah, it’s too late. So it’s “commonly unwritten rules” that Jack has written
     about. Right? [both chuckle] So the first rule is – we'll get caught up in technical
     details and we… What's the expression? We don't see the forest behind the tree?
@@ -769,11 +778,11 @@ transcript:
   sec: 2252
   time: '37:32'
   who: Jack
-- header: The importance of understanding the reality that data represents
 - line: What’s the next one?
   sec: 2253
   time: '37:33'
   who: Alexey
+- header: 'Data Generative Process: Treating data as a shadow of reality'
 - line: The next one? Here's another unwritten rule. And that is… Well, let me describe
     the more common, written rule and then let me describe what I think the unwritten
     version should be – or what the version should be, that is unwritten. The commonly
@@ -819,7 +828,7 @@ transcript:
   sec: 2254
   time: '37:34'
   who: Jack
-- header: The importance of putting yourself in the shoes of customers
+- header: 'Domain Immersion: Customer empathy through product usage'
 - line: So you need to have this domain knowledge. Let’s say you work at Wayfair (or
     some other store that sells furniture) you need to understand the domain – let's
     say the customer journey from the moment they sign up, to the moment they receive
@@ -939,7 +948,7 @@ transcript:
   sec: 2672
   time: '44:32'
   who: Jack
-- header: The importance of software engineering skills in machine learning
+- header: 'Full‑Stack ML: Importance of software engineering for production ML'
 - line: Well, I guess we have time for one or two more rules. I guess you have a bunch
     of them, right? What's the third one?
   sec: 2675
@@ -1004,7 +1013,7 @@ transcript:
   sec: 2829
   time: '47:09'
   who: Jack
-- header: Where to find Jack’s content
+- header: 'Content & Community: Daily LinkedIn posts and where to follow Jack'
 - line: What we teach in our courses – what we say in our courses, “Your model can
     be super good, but if nobody can use it (if it's just in a Jupyter notebook) then
     it's not good. It's of no use.” You need to be able to do that. All these unwritten
@@ -1062,7 +1071,7 @@ transcript:
   sec: 3031
   time: '50:31'
   who: Jack
-- header: Jack’s next venture
+- header: 'New Venture: Reimagining hiring and recruiting for ML/data roles'
 - line: Yeah. What happens on November 15th?
   sec: 3037
   time: '50:37'
@@ -1110,6 +1119,7 @@ transcript:
   sec: 3040
   time: '50:40'
   who: Jack
+- header: Episode Wrap‑Up and Final Remarks
 - line: We will all subscribe – follow you on LinkedIn – and we will see all the updates
     about your new endeavor. I don't like saying good luck because you probably don't
     need luck – you need something like perseverance, more – but luck is also important.

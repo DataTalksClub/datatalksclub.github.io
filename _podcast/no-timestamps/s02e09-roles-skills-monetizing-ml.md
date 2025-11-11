@@ -16,6 +16,7 @@ links:
   spotify: https://open.spotify.com/episode/5u2WuUB8GBNE9qDsNR6mby
   apple: https://podcasts.apple.com/us/podcast/new-roles-key-skills-to-monetize-machine-learning-vin/id1541710331?i=1000512720281
 transcript:
+- header: Podcast Introduction
 - line: Good morning. Now it's 7 AM for you or?
   sec: 2
   time: 0:02
@@ -89,7 +90,7 @@ transcript:
   sec: 207
   time: '3:27'
   who: Vin
-- header: Vin’s background
+- header: 'Career & technical background: Vin Vashishta''s journey in ML and strategy'
 - line: Before we go into our main topic, let's start with your background. Can you
     tell us a bit more about your career journey so far?
   sec: 210
@@ -161,7 +162,7 @@ transcript:
   sec: 454
   time: '7:34'
   who: Alexey
-- header: Monetizing Machine Learning
+- header: 'Monetize machine learning: why revenue focus drives ML strategy'
 - line: Your LinkedIn headline says, “I monetize machine learning.” I remember, when
     I connected to you on LinkedIn, the first thing I asked you about was, “What does
     it mean?” So, what is that? What do you mean by “I monetize machine learning”?
@@ -233,7 +234,7 @@ transcript:
   sec: 712
   time: '11:52'
   who: Vin
-- header: ARR — Annual recurring revenue
+- header: 'ARR & MRR: translating models into C‑suite revenue metrics'
 - line: We definitely will go there, but it's interesting to know how companies actually
     evaluate the value that data scientists can bring. Coming back to your LinkedIn
     profile. You bio mentions that you built and brought products to market with ARR
@@ -297,7 +298,7 @@ transcript:
   sec: 926
   time: '15:26'
   who: Alexey
-- header: Other important money-related metrics
+- header: 'Revenue vs. cost‑savings: business model metrics for ML products'
 - line: What are the other important things that people on this level care about?
     In addition to this annual recurring revenue and monthly recurring revenue. What
     are the other money related metrics that they care about?
@@ -361,7 +362,7 @@ transcript:
   sec: 1163
   time: '19:23'
   who: Alexey
-- header: Roles needed to monetize ML
+- header: 'Team capabilities for monetizing ML: three core roles overview'
 - line: Coming back to our main topic of monetization roles. Who should we have on
     the team to make sure that the projects we're working on are successful and monetizable?
   sec: 1215
@@ -462,7 +463,7 @@ transcript:
   sec: 1611
   time: '26:51'
   who: Vin
-- header: ML researcher
+- header: 'Machine learning research: artifacts, datasets, and experimental process'
 - line: Let's talk a bit more about this first role — machine learning researcher.
     We have the applied researcher. Let's talk about this person. What do they do?
     You mentioned that they produce some artifacts? What are these artifacts? What
@@ -484,6 +485,8 @@ transcript:
   sec: 1640
   time: '27:20'
   who: Vin
+- header: 'Category creation with ML: examples and market entry (Amazon, Google, Stitch
+    Fix)'
 - line: Essentially you're modeling some piece of the business, or some interaction
     between the business – customers, competitors – some other portion of the market.
     It can be something like a supply chain. A scientist is going to do a pure science
@@ -495,7 +498,6 @@ transcript:
     then has to define that category, and figure out how to enter that new market
     or expand into that market, if they're already in it.
   who: Vin
-- header: Category creation
 - line: Maybe you have an example. What kind of category would it be? Let's say Google
     wants to get into a new market and develop a new product. Would it be a category?
   sec: 1758
@@ -532,6 +534,7 @@ transcript:
   sec: 1842
   time: '30:42'
   who: Vin
+- header: 'Startups: the "angry users + data scientists" product recipe'
 - line: 'They understand monetization, that that little failure is worth it. If they
     do 10 failed projects and one of them is a success, the ROI of that success is
     huge: now they''re entering a new market. What Amazon was trying to do was figure
@@ -567,7 +570,6 @@ transcript:
     They have redefined the category and entered a new market because they have that
     machine learning there.
   who: Vin
-- header: Research at startups
 - line: What about companies that are small startups. They just appeared. They are
     not ambitious. They don't want to be second Google. They don't want to be a second
     Amazon. They found a small niche. They think they can make a difference in this
@@ -590,6 +592,8 @@ transcript:
   sec: 2070
   time: '34:30'
   who: Vin
+- header: 'Research skillset: hypothesis design, experimentation, explainability &
+    advanced math'
 - line: When you have a data scientist that looks at it and says “Oh yeah, I can solve
     this problem. This is a machine learning problem. I can create a novel solution.”
     Even in a startup, those two people, by themselves, can create and define a new
@@ -602,7 +606,6 @@ transcript:
 - line: The machine learning researcher is your first or second hire. They’re a co-founder.
     So, big, small — it works across the board.
   who: Vin
-- header: Skills needed for the ML researcher
 - line: This capability of a machine learning researcher – it could be a data scientist?
     It doesn't have to be somebody coming from academia, with all publications, top
     conferences, PhD. It can be just a simple data scientist who has experience working
@@ -713,7 +716,7 @@ transcript:
   sec: 2564
   time: '42:44'
   who: Vin
-- header: ML product manager role
+- header: 'Product management for ML: translating strategy into researchable use cases'
 - line: I just looked at the time and noticed that we still want to cover the other
     two roles. We already talked about pairing angry users with data scientists. This
     is where the role of a machine learning product manager appears. When a user talks
@@ -800,7 +803,7 @@ transcript:
   sec: 2919
   time: '48:39'
   who: Vin
-- header: Product manager and others in the team
+- header: 'Product manager ecosystem: gated decisions, feasibility studies and stakeholders'
 - line: It's one single person? It feels like a team of people.
   sec: 2934
   time: '48:54'
@@ -810,6 +813,7 @@ transcript:
   sec: 2939
   time: '48:59'
   who: Vin
+- header: 'Career paths into ML product management: backgrounds and upskilling routes'
 - line: There's a traditional requirements team. You'll have technical writers and
     requirements gatherers — business analysts, who do the requirements gathering.
     But they need the product manager in order to guide them and help them. What requirements
@@ -840,7 +844,6 @@ transcript:
     skill set and a very deep understanding. Not only the technical side, but also
     the business side.
   who: Vin
-- header: Background of ML product managers
 - line: Basically, they need to be able to communicate with people who are collecting
     requirements. Also, with people who are building a model — this ML architect,
     for example. They need to be able to speak the same language with them. And if
@@ -896,13 +899,14 @@ transcript:
   sec: 3224
   time: '53:44'
   who: Vin
+- header: 'Machine learning architecture: platform vision, cost estimation and production
+    path'
 - line: You can upskill a product manager into a data science machine learning product
     manager role. But it really depends on their background. In some cases, project
     managers become product managers. They're semi-technical. It's really understanding
     how well they're going to learn the data science and machine learning side that
     will determine whether or not they're going to be successful.
   who: Vin
-- header: ML architect role
 - line: I noticed that the product manager is in the center — the communication hub,
     in a way. Then there's also this machine learning architect that we didn’t talk
     in detail about. From what I understood, this is a person who looks at the proposed
@@ -952,7 +956,7 @@ transcript:
   sec: 3464
   time: '57:44'
   who: Vin
-- header: Skills and tools of the ML architect
+- header: 'Architecture skills & tools: cloud, MLOps, buy vs build tradeoffs'
 - line: The skills they need to have. They really need to know the tools. They probably
     need to know cloud. They need to know what other tools there are. Knowing the
     scale of the problem, knowing the requirements, they can come up with a suggestion.
@@ -972,6 +976,7 @@ transcript:
   sec: 3532
   time: '58:52'
   who: Vin
+- header: 'Transitioning into research & architecture roles: realistic career steps'
 - line: Cloud architect is a good traditional role to look at. They are very similar,
     but the ML architect is more focused on the machine learning side of cloud architecture.
     In a lot of cases, the business already has infrastructure in place. So the ML
@@ -995,7 +1000,6 @@ transcript:
     But over a year, over three years, this is going to seem a whole lot more reasonable.
     And we''re gonna have to go this way anyway.”'
   who: Vin
-- header: Becoming an ML architect and ML researcher
 - line: 'Talking about all these three roles: researcher, architect, and product manager.
     All these people who perform these things, wear these hats — they are quite experienced
     already, right? They worked already as cloud architects, software engineers, product
@@ -1019,6 +1023,8 @@ transcript:
   sec: 3678
   time: '1:01:18'
   who: Vin
+- header: 'Education gap & corporate upskilling: "farm club" pipelines and university
+    roles'
 - line: You can be successful coming into one of those teams and being a contributor
     pretty early on. But you do have to have some experience with architecture, software
     development, best practices of software engineering, and eventually transition
@@ -1033,7 +1039,6 @@ transcript:
     barricaded and exclusionary. But it's a longer learning process than you would
     expect for something like a data scientist, where you can train up pretty quickly.
   who: Vin
-- header: The gap in education
 - line: We talked about the posts you made, when you made the announcement. One of
     the things you wrote there “The data science programs are still teaching unicorn
     curriculum and producing people with six inches of depth across six different
@@ -1178,7 +1183,7 @@ transcript:
   sec: 4399
   time: '1:13:19'
   who: Alexey
-- header: Is MBA needed for ML Product Managers?
+- header: 'MBA relevance: degrees vs. practical business fluency for ML product leaders'
 - line: Do you think machine learning product managers need an MBA or not?
   sec: 4416
   time: '1:13:36'
@@ -1192,7 +1197,7 @@ transcript:
   sec: 4423
   time: '1:13:43'
   who: Vin
-- header: Splitting Data Science into specific roles
+- header: 'Role specialization trend: splitting data science into focused functions'
 - line: Unrelated question. How soon will we see the data science role being split
     into multiple different, more specific, roles?
   sec: 4454
@@ -1217,7 +1222,8 @@ transcript:
   sec: 4472
   time: '1:14:32'
   who: Vin
-- header: Metrics to measure angriness and satisfaction
+- header: 'Product metrics for adoption: usage, task time, decision quality and pricing
+    impact'
 - line: You said that angry users are important. What metrics do we need to use to
     measure their angriness or satisfaction of these users?
   sec: 4514
@@ -1267,6 +1273,7 @@ transcript:
   sec: 4664
   time: '1:17:44'
   who: Vin
+- header: Episode recap & next steps
 - line: I think that's all. You can see that it's already dark here. Thanks a lot
     for coming, for sharing. I wanted to ask you so much more than I did. We had a
     very interesting discussion and I learned a lot from you. I'm sure that 33 people

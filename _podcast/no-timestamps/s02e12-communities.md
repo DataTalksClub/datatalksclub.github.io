@@ -15,6 +15,7 @@ links:
   spotify: https://open.spotify.com/episode/58Xe9PCfdz26CVuYKtZWUE
   apple: https://podcasts.apple.com/us/podcast/building-online-tech-communities-demetrios-brinkmann/id1541710331?i=1000515510103
 transcript:
+- header: Podcast Introduction
 - line: Should I start or you want to start?
   sec: 0
   time: 0:00
@@ -42,7 +43,7 @@ transcript:
   sec: 62
   time: '1:02'
   who: Demetrios
-- header: Starting the MLOps community
+- header: 'Origin Story: Launching the MLOps community'
 - line: So let's start. Before we go into the main topic about online communities,
     maybe you can tell us a bit about yourself. How did you end up being the mastermind
     behind this thriving big, lovely online community that has 3000 members right
@@ -59,6 +60,7 @@ transcript:
   sec: 125
   time: '2:05'
   who: Alexey
+- header: Pivot to meetups and turning events into a podcast
 - line: I did try to sell. You didn't buy. But at least our relationship went somewhere.
     I was doing the heavy and hard legwork of reaching out to people, trying to get
     them to look at our MLOps tool called “dot science”. I was having “okay” success
@@ -109,6 +111,7 @@ transcript:
   sec: 396
   time: '6:36'
   who: Alexey
+- header: Early hosting lessons and interview craft
 - line: You enjoyed the process. I don't know if people enjoyed what you said. It
     was a good time, man. I was learning a ton. You'll see that if you go back to
     the first meetups that I hosted. I didn't ever ask any follow up questions. One
@@ -142,7 +145,7 @@ transcript:
   sec: 492
   time: '8:12'
   who: Demetrios
-- header: Demetrios’ background
+- header: 'Founder Background: teaching, sales, and career pivot'
 - line: But you also were a English teacher, right? I think I read it in some of your
     LinkedIn posts.
   sec: 501
@@ -163,6 +166,7 @@ transcript:
   sec: 509
   time: '8:29'
   who: Demetrios
+- header: Sales techniques for recruiting speakers and guests
 - line: I felt I wasn't learning much because I spoke English. I was learning about
     how to be a teacher in the beginning and learning how to talk to people. You could
     argue that that helped me with this kind of stuff. But after eight years of it,
@@ -174,7 +178,6 @@ transcript:
     teaching because I didn't want to be a lifer. I didn't want to be 40 and still
     be talking about the past participle.
   who: Demetrios
-- header: How sales skills can be helpful in getting speakers
 - line: I guess the skills you picked up when you were working in sales, they're pretty
     helpful in… “closings” the speakers. First of all, finding people to talk to,
     then convincing them to get on your podcast, then finally getting them, and talking
@@ -194,6 +197,7 @@ transcript:
   sec: 664
   time: '11:04'
   who: Demetrios
+- header: 'Early growth tactics: LinkedIn outreach and cold DMs'
 - line: 'There were some definite skills that were useful. They transferred over well.
     But in MLOps you don''t need it. I don''t think it''s necessarily needed, because
     people are willing to talk. It''s not so saturated. With a million different podcasts
@@ -205,7 +209,6 @@ transcript:
     big is your audience?” That''s what I told him: “there are only four people watching
     live on YouTube.”'
   who: Demetrios
-- header: Growing MLOps community
 - line: Let's talk a bit about the community you built. I don't know how many people
     per day join. But every time I see the number of members, I think, it increases
     by 100 members per day. So this is an awesome growth. But it didn’t start like
@@ -223,6 +226,7 @@ transcript:
   sec: 838
   time: '13:58'
   who: Alexey
+- header: 'Content Strategy: weekly meetups, editing, and YouTube clips'
 - line: One thing that we did — which is quite useful if you're building a community
     — I reached out to a bunch of random people on LinkedIn. That's where I felt the
     majority of the people were. And it's easier to connect with people on LinkedIn.
@@ -266,6 +270,7 @@ transcript:
   sec: 1033
   time: '17:13'
   who: Alexey
+- header: 'Growth Milestones: hitting 500, 1k, 2k, 3k members'
 - line: Month and a half. Also the other parts that were really hard — which you're
     going through now, I'm sure — are the editing of videos. I was making a ton of
     clips. I wanted to just get our presence on YouTube. Out of every hour-long session,
@@ -280,6 +285,7 @@ transcript:
   sec: 1101
   time: '18:21'
   who: Demetrios
+- header: 'Moderation Challenges: vendors, spam, and code of conduct'
 - line: I was like, “No way. That's a lot.” It took us three months or four months
     to hit 500. Let's sustain this growth. That's all I cared about. 1000 before the
     new year, maybe, but I'm not going to put any pressure on myself. Because I figured
@@ -294,7 +300,6 @@ transcript:
     knew everyone and everyone knew you. You knew who was active. Now there's a ton
     of people around so you got to moderate wisely.
   who: Demetrios
-- header: Community moderations and dealing with problems
 - line: What kind of problems you have? First of all, a lot of people and most of
     them, you don't know and you need to moderate. Are there some other problems like
     spam? How do you deal with them?
@@ -346,7 +351,7 @@ transcript:
   sec: 1464
   time: '24:24'
   who: Demetrios
-- header: Becoming a community and connecting with people
+- header: 'Community Evolution: moving from founder-led to peer-to-peer'
 - line: That's the side you don't always see. When I go in the MLOps community it's
     usually clean. Because you help it to stay clean. You said that one feedback that
     you got was that it was not a community. But now it is a community. How did you
@@ -380,6 +385,7 @@ transcript:
   sec: 1637
   time: '27:17'
   who: Alexey
+- header: Cultivating Core Contributors and advisory groups
 - line: We created the MLOps board in the beginning. That since has died out. But
     that was it — everybody who was super active and had very interesting things to
     contribute. I needed somebody to bounce ideas off. I need people to tell me if
@@ -406,7 +412,7 @@ transcript:
   sec: 1749
   time: '29:09'
   who: Demetrios
-- header: Feeling belonged
+- header: 'Fostering Belonging: Q&A, social channels, and non-technical spaces'
 - line: 12 people. It's not a question but more of a comment. I've joined many communities
     in the past, but have never truly felt like I belonged. What do you think about
     this? How to make people feel belonged to a community?
@@ -479,7 +485,7 @@ transcript:
   sec: 2046
   time: '34:06'
   who: Demetrios
-- header: Starting a community as an introvert
+- header: 'Introvert Founders: starting and sustaining communities as an introvert'
 - line: There's a personal question. Feel free not to answer that. Are you an extrovert
     or introvert?
   sec: 2064
@@ -575,7 +581,7 @@ transcript:
   sec: 2431
   time: '40:31'
   who: Demetrios
-- header: Keeping communities active
+- header: 'Retention Strategies: giveaways, multi-format content, and avoiding gamification'
 - line: Yes. Merth is asking. How can we keep communities active? I can see that a
     lot of people come with a passion in the community, but after a while, they become
     inactive. How can we try to make these people active before it's too late?
@@ -631,7 +637,7 @@ transcript:
   sec: 2682
   time: '44:42'
   who: Alexey
-- header: Doing custdev and talking to users
+- header: 'Customer Development (custdev): surveys, incentives, and feedback cadence'
 - line: We have a question from Sviat. How often do you do custdev? Do you know, what
     is that?
   sec: 2745
@@ -711,7 +717,7 @@ transcript:
   sec: 2968
   time: '49:28'
   who: Demetrios
-- header: Random coffee and meeting with community members
+- header: 'Member Connections: Random Coffee, Donut, and one-on-ones'
 - line: There is a follow up. It was two questions in once. The first one was “How
     often do you do custdev?” The second one in the same question from Sviat is “Do
     you do a random coffee  practice?”. I think you said that you don't have one-on-ones.
@@ -781,7 +787,7 @@ transcript:
   sec: 3291
   time: '54:51'
   who: Alexey
-- header: Organizing community activities
+- header: 'Organizing Initiatives: sprints, autonomy, and many-to-many engagement'
 - line: Again a question from Sviat. Do you believe that a community needs a leader
     or immediate person to drive the community forward? Or can the community be independent?
   sec: 3304
@@ -830,6 +836,7 @@ transcript:
   sec: 3456
   time: '57:36'
   who: Demetrios
+- header: 'Team Structure: core volunteers vs. broader contributors'
 - line: But now it's a lot more of a community feel. I still have the things that
     I'm doing. The things that I'm doing just have momentum. They're happening. But
     then there's all this other crazy stuff that we think up and think “This could
@@ -859,7 +866,7 @@ transcript:
   sec: 3624
   time: '1:00:24'
   who: Demetrios
-- header: Is community a business?
+- header: 'Community Economics: treating a community as an educational business'
 - line: That's amazing. Do you consider a community a business? Not necessarily the
     MLOps community, but in general, any community? That's, again, a question from
     Sviat. If yes, what is the business goal? What would be the business goal for
@@ -903,7 +910,7 @@ transcript:
   sec: 3826
   time: '1:03:46'
   who: Demetrios
-- header: Five steps for starting a community in 2021
+- header: 'Practical Checklist: platform, purpose, audience, and content plan'
 - line: I think it does. We still have quite a few questions. If somebody wants to
     start a community right now in a familiar topic, or in the topic they know about,
     what would you suggest them to do? What are the main five points you will suggest
@@ -941,6 +948,7 @@ transcript:
   sec: 4039
   time: '1:07:19'
   who: Alexey
+- header: 'Sourcing Members: LinkedIn, Reddit, YouTube, and platform-specific channels'
 - line: Sorry to make you blush, and tell all of your followers that you're into that.
     But where do you find them? I genuinely think it's easier to find people on LinkedIn,
     if it's around a professional network. You could technically say that a Facebook
@@ -978,6 +986,7 @@ transcript:
   sec: 4171
   time: '1:09:31'
   who: Demetrios
+- header: 'Final Advice: actionable takeaways for new community builders'
 - line: To answer your question, where to find people for a non-professional community.
     I think you can find all sorts of people on reddit. I think that's all for today.
     Thanks a lot for joining us today for chat and sharing your expertise. I took
@@ -1037,7 +1046,6 @@ transcript:
   sec: 4338
   time: '1:12:18'
   who: Alexey
-- header: Shameless plug from Demetrios
 - line: Do I get to do a shameless plug?
   sec: 4339
   time: '1:12:19'
@@ -1050,6 +1058,7 @@ transcript:
   sec: 4346
   time: '1:12:26'
   who: Demetrios
+- header: 'Get Involved: where to find mlops.community and next steps'
 - line: How can people find your community?
   sec: 4348
   time: '1:12:28'
@@ -1078,6 +1087,7 @@ transcript:
   sec: 4408
   time: '1:13:28'
   who: Alexey
+- header: Podcast Closing Remarks
 - line: Okay. So thanks a lot. Thanks, everyone for staying on the stream. Thanks,
     Demetrios for coming. Everyone have a great weekend.
   sec: 4436

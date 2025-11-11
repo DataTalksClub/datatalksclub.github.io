@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/4Kk7xXfD5t2VHnLDHpdW1y
   apple: https://podcasts.apple.com/us/podcast/from-physics-to-machine-learning-tatiana-gabruseva/id1541710331?i=1000521740775
 transcript:
+- header: Podcast Introduction
+- header: 'Career origin: physics PhD to computer vision deep learning'
 - line: This week we will talk about switching careers from physics to doing machine
     learning. We have special guests today — Tatiana. Tatiana is a computer vision
     deep learning engineer. She is a Kaggle competition master and she currently works
@@ -27,13 +29,13 @@ transcript:
   sec: 138
   time: '2:18'
   who: Tatiana
-- header: Tatiana’s background
 - line: Before we go into our main topic of switching careers from physics, let us
     start with your background. Can you tell us a bit about your career journey so
     far?
   sec: 140
   time: '2:20'
   who: Alexey
+- header: 'Transition catalyst: maternity leave, online courses and internship'
 - line: I started my career with a PhD in physics. Then I worked in science and different
     institutes, universities developing different optical systems and lasers. Then
     I started to have children. I had two maternity leaves in a row. During maternity
@@ -46,6 +48,7 @@ transcript:
   sec: 152
   time: '2:32'
   who: Tatiana
+- header: 'Career-change summary: sharing a Twitter thread of practical lessons'
 - line: I also got a small internship that brought me to that job in the hospital.
     I developed necessary links. In that internship, I was doing some machine learning
     projects for analyzing signals for medical needs. In the hospital, they had a
@@ -54,7 +57,6 @@ transcript:
     during the labor process and act promptly when a C-section is necessary to prevent
     some bad severe outcome during labor for the fetus.
   who: Tatiana
-- header: 12 career hacks and changing career
 - line: You mentioned quite a few interesting things in your story. I think we will
     cover some of them later, like how you approached your learning. A few months
     ago, I was checking my Twitter and I saw your thread there. After reading this
@@ -73,7 +75,7 @@ transcript:
   sec: 305
   time: '5:05'
   who: Tatiana
-- header: 'Hack #1: Change your social circle'
+- header: 'Network makeover: building supportive data science circles'
 - line: The first career hack — one of the most important ones — is to change your
     social circle. Be careful about your social circle. If you have friends from childhood
     and parents, you don’t change them. But you have a lot of colleagues and you have
@@ -89,6 +91,7 @@ transcript:
   sec: 347
   time: '5:47'
   who: Tatiana
+- header: Overcoming fears and age stereotypes in career change
 - line: That is essentially what I did. I cut off about 70 percent of my communications
     with ex-colleagues and all those pessimistic people who are telling me that I
     will fail, changing careers is a bad idea. When I stopped communicating with them,
@@ -102,7 +105,6 @@ transcript:
     — to create that kind of circle, that kind of social interaction that helps you
     grow.
   who: Tatiana
-- header: 'Hack #2: Forget your fears and stereotypes'
 - line: The second hack is to forget about your fears and stereotypes. A lot of people
     are quite afraid of change. They have a lot of stereotypes, “Changing career at
     35, oh you are too old”, “Changing career on maternity leave, that is not going
@@ -111,6 +113,7 @@ transcript:
   sec: 470
   time: '7:50'
   who: Tatiana
+- header: 'Eliminating distractions: focused time management during maternity leave'
 - line: Some people contact me and ask me questions like “I am 26. Am I too old to
     change my career?” And I am like “Seriously? You are 26. You are not too old!”
     And you are not old at 36, 46, 56. You are going to change your career. At 60,
@@ -118,7 +121,6 @@ transcript:
     That means that between today and between your 60s, there will be quite a lot
     of changes anyway. Just get used to that thought.
   who: Tatiana
-- header: 'Hack #3: Forget distractions'
 - line: 'Career hack #3. Forget about distractions that do not bring value in your
     life. In my case I realized that such distractions were Instagram, Facebook, watching
     movies. Even Twitter and LinkedIn — those nets are important for PR — but when
@@ -158,7 +160,7 @@ transcript:
   sec: 623
   time: '10:23'
   who: Tatiana
-- header: 'Hack #4: Don’t overestimate others and don’t underestimate yourself'
+- header: 'Impostor syndrome remedy: interviews and mock interviewing practice'
 - line: When you are changing a career you have this impostor syndrome. Suddenly,
     everybody is so smart. They know everything. But you don’t know anything. You
     keep learning and learning and learning. But you still have this impostor syndrome
@@ -201,6 +203,7 @@ transcript:
   sec: 775
   time: '12:55'
   who: Tatiana
+- header: 'Selective attention: focusing on positive signals and mentors'
 - line: Or you ask a person to code, and the person immediately starts coding without
     thinking how to solve the problem. You are like “Yeah, I am doing exactly that.
     I shouldn’t do that.” First you need to think and then to write a code. It’s much
@@ -221,7 +224,6 @@ transcript:
     is ingenious but not you — that will disappear. You will see “Aha! He is also
     having problems with that. It’s okay that I have it.”
   who: Tatiana
-- header: 'Hack #5: Attention genius'
 - line: I call the next hack “attention genius”. You don’t notice everything in your
     life. You are not capable of noticing everything. You only notice things that
     you pay attention to. And you can choose what to pay attention to. You can focus
@@ -236,7 +238,7 @@ transcript:
   sec: 892
   time: '14:52'
   who: Tatiana
-- header: 'Hack #6: Make a team'
+- header: 'Team building: finding teammates for Kaggle competitions and papers'
 - line: The next one is make a team. It’s harder to progress just by yourself or to
     learn by yourself. It’s more beneficial and faster to learn and to grow when you
     have a team of like-minded people. You can create a team for nearly everything.
@@ -334,7 +336,7 @@ transcript:
   sec: 1261
   time: '21:01'
   who: Alexey
-- header: 'Hack #7: Less is more. Forget about perfectionism'
+- header: 'Prioritization: Pareto principle, outsourcing and avoiding perfectionism'
 - line: 'Hack #7 is less is more, forget about perfectionism. There’s the Pareto rule
     that says that 20% of the effort gives you 80% of the result. That’s true. Focus
     your efforts where you are going to gain that result. But there are those minor
@@ -381,7 +383,7 @@ transcript:
   sec: 1423
   time: '23:43'
   who: Alexey
-- header: 'Hack #8: Initial creation'
+- header: 'Mental rehearsal: initial creation, visualization and Sankalpa technique'
 - line: 'Hack #8 is initial creation. When an artist creates a painting, the first
     creation always happens in the head. The artist visualizes the painting, he can
     create it in his mind. And then he paints what he created. The same initial creation
@@ -446,7 +448,7 @@ transcript:
   sec: 1623
   time: '27:03'
   who: Tatiana
-- header: 'Hack #9: Find mentors'
+- header: 'Mentorship strategies: finding and nurturing long-term mentors'
 - line: 'Hack #9 is to find mentors. A mentor is somebody who already passed the ways
     that you want to pass. Somebody who’s already in the role that you want to achieve,
     or who is a person that you want to become. A mentor can speed up your process
@@ -507,7 +509,7 @@ transcript:
   sec: 1867
   time: '31:07'
   who: Tatiana
-- header: 'Hack #10: Say “no”'
+- header: 'Boundary setting: learning to say no and protect your time'
 - line: It took me 30 years to learn the next one. You have to learn how to say “no”.
     Say “no” to some people and to the projects you do not want to do. People sometimes
     bombard you with some offerings. When you are changing careers, you have a lack
@@ -540,13 +542,13 @@ transcript:
   sec: 1995
   time: '33:15'
   who: Tatiana
+- header: 'Embracing failure: treating setbacks as growth opportunities'
 - line: Of course. If you have extra time, you can finish all the interviews. Even
     if you don’t intend to take a job, you can still continue. But if you really like
     your time and you want to save it, if you after the 2-3 interviews realize that
     you didn’t like the team, just say “No, I don’t want to continue the process.
     I got other options”. It’s fine.
   who: Tatiana
-- header: 'Hack #11: Look for failures'
 - line: 'Hack #11. Do not be afraid of failures. Look for them. A lot of people don’t
     try things because they are afraid to fail. This is wrong. Only through failures
     you learn. The best lessons you get is when you tried something and it didn’t
@@ -594,7 +596,7 @@ transcript:
   sec: 2214
   time: '36:54'
   who: Tatiana
-- header: 'Hack #12: Take care of yourself'
+- header: 'Self-care tactics: sleep, support systems and avoiding burnout'
 - line: The number 12 is the most important one. Take care of yourself. You have to
     sleep, you need support. If you need help with your impostor syndrome, get a psychologist.
     They are great at that. Do meditations. Take care of yourself. You need to dedicate
@@ -655,6 +657,7 @@ transcript:
   sec: 2478
   time: '41:18'
   who: Tatiana
+- header: 'Kaggle vs internships and Omdena-style projects: pros and cons'
 - line: I had time from five till midnight, about seven hours. Seven hours of really
     focused work. You get one hour more for cycling, for sports. But, actually you
     don’t need that much time. Especially if during my day time, when I was cooking
@@ -662,7 +665,6 @@ transcript:
     to create, that is enough. I don’t work more hours but work deeper during the
     hours that I have. I think that’s another hack that I should have included actually.
   who: Tatiana
-- header: Kaggle vs internships and pet projects
 - line: Yeah. For your next twitter thread. We have a couple of questions. Some of
     these questions overlap with what we wanted to talk about. A question from Alexandra.
     What does Tanya think about Kaggle versus Omdena. Omdena is a platform similar
@@ -680,6 +682,7 @@ transcript:
   sec: 2625
   time: '43:45'
   who: Tatiana
+- header: 'End-to-end pet projects: data collection, labeling, deployment and Docker'
 - line: Kaggle can teach you a couple of things. Kaggle is great for learning machine
     learning. It’s good for practicing machine learning on relatively small and clean
     data sets, with quite good distribution. It’s like a simplified environment when
@@ -747,7 +750,7 @@ transcript:
   sec: 2954
   time: '49:14'
   who: Tatiana
-- header: Resources for learning machine learning
+- header: 'Learning roadmap: Python, ML/DL courses, SQL, algorithms and system design'
 - line: And what resources for learning machine learning can you recommend? In addition
     to Kaggle. Kaggle is great. I’m not sure if we call it “a resource” but it’s definitely
     a good website to check.
@@ -820,7 +823,7 @@ transcript:
   sec: 3185
   time: '53:05'
   who: Tatiana
-- header: Starting with Kaggle
+- header: 'Starting Kaggle with minimal Python: practical beginner advice'
 - line: We have a question. What level of python programming one should have before
     starting with Kaggle?
   sec: 3220
@@ -843,7 +846,7 @@ transcript:
   sec: 3275
   time: '54:35'
   who: Tatiana
-- header: Improving focus
+- header: 'Improving focus: meditation, analytical practice and achieving flow'
 - line: Do you have any tips on how to improve your focus?
   sec: 3284
   time: '54:44'
@@ -895,7 +898,7 @@ transcript:
   sec: 3455
   time: '57:35'
   who: Tatiana
-- header: Astroinformatics
+- header: 'Astroinformatics overview: ML applications in astronomy'
 - line: We have a question from Saurav. What is your view on Astroinformatics? Do
     you know anything about this?
   sec: 3476
@@ -922,7 +925,7 @@ transcript:
   sec: 3512
   time: '58:32'
   who: Tatiana
-- header: How background in Physics is helpful for transitioning
+- header: 'Physics background advantage: math, problem solving and modeling'
 - line: Another question. For some people math might be a serious roadblock. I think
     for you it wasn’t because you had experience in physics. You also took part in
     competitions when you were at school. For you math was not the problem?
@@ -1001,7 +1004,7 @@ transcript:
   sec: 3710
   time: '1:01:50'
   who: Tatiana
-- header: Leaving academia
+- header: 'Leaving academia: lab constraints, maternity leaves and cloud credits'
 - line: We have a question from Mike. What was the main reason for you to leave the
     academy?
   sec: 3753
@@ -1036,7 +1039,7 @@ transcript:
   sec: 3829
   time: '1:03:49'
   who: Tatiana
-- header: Preparing for interviews
+- header: 'Interview preparation: LeetCode, mock interviews and system design prep'
 - line: We should be wrapping up. Do you have any last tips before we finish?
   sec: 3874
   time: '1:04:34'
@@ -1083,6 +1086,7 @@ transcript:
   sec: 4048
   time: '1:07:28'
   who: Tatiana
+- header: 'Where to connect: LinkedIn, Twitter and DataTalks.Club follow-up'
 - line: Where can people find you?
   sec: 4058
   time: '1:07:38'

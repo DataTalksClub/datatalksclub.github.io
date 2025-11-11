@@ -31,7 +31,8 @@ intro: How do you build an MLOps‑ready data team while shipping a transparent,
   actionable steps to create production‑grade MLOps teams and build transparent dynamic
   pricing solutions.
 transcript:
-- header: Intro
+- header: Podcast Introduction
+- header: Guest Overview & Career Snapshot
 - line: Today we have pleasure to have Dat as a guest. Dat needs no introduction.
     If you have a LinkedIn account, you probably already know him. If you don't have
     a LinkedIn account, Dat has a lot of experience in building data teams, and this
@@ -46,13 +47,13 @@ transcript:
   sec: 173
   time: '2:53'
   who: Dat
-- header: 'Career Path: Economics, Gaming, and Early Coding Skills'
 - line: Yes, we'll start with your background. So can you please tell us how you started
     your career? How did you get into machine learning? And how this all led to becoming
     a CTO of your own startup?
   sec: 177
   time: '2:57'
   who: Alexey
+- header: 'Early Background: Economics, Investment Banking & Early Coding'
 - line: Yes, sure. I would say, my career is not very straightforward. I didn't study
     computer science which would probably naturally grow into the area of machine
     learning. I actually studied business — I studied economics at Humboldt University
@@ -67,6 +68,7 @@ transcript:
   sec: 222
   time: '3:42'
   who: Dat
+- header: From VBA Automation to Machine Learning Interest
 - line: 'While I was in investment banking, I solved a lot of problems with coding
     and programming. It''s like monkey business: you have to copy paste, you sit into
     2 or 3am. And you copy and paste things. Where I just wrote a simple VBA script
@@ -96,6 +98,7 @@ transcript:
   sec: 328
   time: '5:28'
   who: Dat
+- header: 'Accenture & Big Data: Spark, MPP Databases and Early ML Projects'
 - line: At the end, I had to decide, “Okay, where do I want to go?” Should I do a
     PhD or go to the industry? Luckily, at the time, Accenture was having a new team
     called Advanced Analytics. Then I decided, “Okay, I should apply there, because
@@ -130,6 +133,7 @@ transcript:
   sec: 466
   time: '7:46'
   who: Dat
+- header: 'Pivotal Experience: Production ML, DevOps Practices & Engineering Rigor'
 - line: And then I moved on after a year. I joined Pivotal. Pivotal is a US software
     company. The main focus was actually to do CloudFoundry. CloudFoundry is similar
     to Kubernetes. I joined Pivotal Data where you have databases like GreenPlum.
@@ -147,6 +151,7 @@ transcript:
   sec: 517
   time: '8:37'
   who: Dat
+- header: 'MLOps Mindset: Day‑Two Operations and Model Maintenance'
 - line: 'I learned a lot about this. I devised my own ideas on how to make it happen.
     Because at the time, no one was really thinking about that. What I was thinking
     was: how do you create this fancy machine learning model? How do you do all the
@@ -175,7 +180,7 @@ transcript:
   sec: 629
   time: '10:29'
   who: Dat
-- header: 'Leadership Role at Idealo: Creating Teams and Sustainable Culture'
+- header: Creating a Head of Data Role at Idealo
 - line: I looked at some companies, which were interesting for me at the time. I applied
     for several companies. I interviewed for companies like Deutsche Bahn, Telekom
     and whatever. But then, none of these big companies were really interesting for
@@ -203,6 +208,7 @@ transcript:
   sec: 770
   time: '12:50'
   who: Dat
+- header: 'Team Building & Open Source: Sustainable Machine Learning Culture'
 - line: While I was at the interview, I was pitched, “We need a data science machine
     learning team.” Idealo is a data company, but we haven't made use of all the data
     that we have at the moment. My two years at Idealo, from my perspective, were
@@ -226,6 +232,7 @@ transcript:
   sec: 867
   time: '14:27'
   who: Dat
+- header: 'Axel Springer: Corporate Tech Transformation, Research & Evangelism'
 - line: Axel Springer at the time, one and a half years ago, was like… They didn't
     know what research was. It's not a company that is driven by research. Because
     they just didn't know what research was. But if you want to be a tech company,
@@ -287,6 +294,7 @@ transcript:
   sec: 1124
   time: '18:44'
   who: Dat
+- header: 'Career Transition: Leaving Corporate to Found a Startup'
 - line: Some of you know that I resigned from Axel Springer. When I joined Axel Springer,
     I thought, “Ok, I'm not going to stay there forever and I'm either going to do
     my own things or find a niche, managing director / top management positions, so
@@ -303,7 +311,7 @@ transcript:
   sec: 1198
   time: '19:58'
   who: Dat
-- header: 'Priceloop Founding: Disrupting Pricing with White Box AI Framework'
+- header: 'Founding Priceloop: Technical Co‑founder and Pricing Opportunity'
 - line: Then I was talking to a few friends. One idea was “Okay, maybe you go back
     to Vietnam.” I'm not from Vietnam, I'm from Germany, but maybe go to Vietnam and
     go to a consultancy, because the tech is really strong there, and maybe an idea
@@ -345,6 +353,7 @@ transcript:
   sec: 1346
   time: '22:26'
   who: Dat
+- header: 'Pricing Product Vision: White‑Box AI Framework for Dynamic Pricing'
 - line: As far as you know, there's many AI software systems out there, also for pricing.
     Most of these pricing servers are actually more closed solutions. You get the
     data from your client, and then you put it into your system – maybe you have a
@@ -368,6 +377,7 @@ transcript:
   sec: 1460
   time: '24:20'
   who: Dat
+- header: 'Human‑Centric Pricing: Augmenting Pricing Managers, Not Replacing Them'
 - line: We don't want to take away the pricing manager. We don't want to tell them
     “Hey, if you're going to use this, you don't need to hire a pricing manager or
     you can fire the pricing manager.” No, we want to give them a frame of a tool.
@@ -377,7 +387,7 @@ transcript:
   sec: 1492
   time: '24:52'
   who: Dat
-- header: 'Team Building Strategy: Experienced Generalists for Early Stage Startup'
+- header: 'Early‑Stage Hiring Plan: Building a Tactical Product Team'
 - line: A long story. But very interesting. What stood out to me was, first of all,
     you mentioned Andrew Ng and his course on Coursera. I think so many people ended
     up where they are now, because of that course. Including myself. Yeah, it changed
@@ -399,6 +409,7 @@ transcript:
   sec: 1598
   time: '26:38'
   who: Dat
+- header: 'Open Research Strategy: Community, Open‑Source & Competitive Advantage'
 - line: Our goal is to create a strong tactical product team. Which focuses on disrupting
     one of the industries. We believe that the future is in open research, and contribution
     from outside and contributing into ideas for many, many different organizations.
@@ -408,7 +419,6 @@ transcript:
   sec: 1645
   time: '27:25'
   who: Dat
-- header: 'Transition to Consulting: MLOps Production and Day-Two Concepts'
 - line: That's an amazing topic. Many, many different companies, ecommerce companies
     will benefit from that. I know that it will all work out. So now you're already
     in the process of building a team. Some people already signed their offers, and
@@ -418,6 +428,7 @@ transcript:
   sec: 1696
   time: '28:16'
   who: Alexey
+- header: 'Aligning Hiring with Vision: Prototype, MVP & Feature Uncertainty'
 - line: It's hard to rationalize my mind. I would say it's a combination of both.
     Some companies just start with hiring people, and then build. And some companies,
     they need a big, big plan, and then they're going to hire people. Our approach
@@ -428,6 +439,7 @@ transcript:
   sec: 1737
   time: '28:57'
   who: Dat
+- header: 'Cross‑Functional Roles: ML Engineers, Data Engineers, PMs & Designers'
 - line: But we just don't know, which features will lead to this kind of thing. We
     are hiring for different roles that would take us to that point to get a better
     understanding of our vision. We’re building like an open framework. Like a library.
@@ -444,6 +456,7 @@ transcript:
   sec: 1812
   time: '30:12'
   who: Dat
+- header: 'Generalists First: T‑Shaped Engineers for Early Startups'
 - line: There's a lot of roles that need you to think about before. In the beginning
     you also need to think about – do you need very experienced people or inexperienced
     people? Also generalists with specialists? This is the question that you really
@@ -458,7 +471,6 @@ transcript:
   sec: 1839
   time: '30:39'
   who: Dat
-- header: 'Hiring: Generalists vs. Specialists based on Organizational Maturity'
 - line: It’s an interesting discussion – this specialist versus generalist – and I'm
     wondering. Let's say, if you were still at Idealo. Who would you prefer to hire
     back then? If you wanted to hire somebody in your team? Would it be a generalist
@@ -494,6 +506,7 @@ transcript:
   sec: 1983
   time: '33:03'
   who: Dat
+- header: 'Mid‑Stage Hiring: Shifting Toward Specialists as Maturity Grows'
 - line: If I would map it to Idealo. Idealo was not very mature, but also not completely
     immature. It was in the middle of this transformation. They had a data analyst
     before – they had business intelligence people – they also had data engineering
@@ -520,7 +533,6 @@ transcript:
   sec: 2084
   time: '34:44'
   who: Dat
-- header: 'Corporate Transformation at Axel Springer: Research and Open Source'
 - line: Going back to your current company, Priceloop. You mentioned you want to hire
     a lot of different people. You want to hire a product manager, you want to hire
     a frontend engineer, backend engineer, UI/UX designer, data engineer. You said
@@ -561,7 +573,7 @@ transcript:
   sec: 2241
   time: '37:21'
   who: Dat
-- header: 'Strong Product Culture: Mission, Short Feedback, and Open Source'
+- header: 'Product‑Centric Culture: Customer Focus, Fast Iteration & Feedback Loops'
 - line: You mentioned a couple of things previously. And one thing that stood out
     to me was – you want to build a strong product team. What does that mean to you
     – a strong product team?
@@ -595,6 +607,7 @@ transcript:
   sec: 2329
   time: '38:49'
   who: Dat
+- header: 'Encouraging Open Source: Managerial Coaching and Leading by Example'
 - line: And help them when they have problems and when they get lost with the vision.
     Telling them again, “this is the vision that we want to go, this is direction.”
     Have very short feedback cycles. Also, allowing them to do open-source stuff.
@@ -605,7 +618,6 @@ transcript:
   sec: 2371
   time: '39:31'
   who: Dat
-- header: 'Data Scientist Hiring: Programming, Code Quality, and Soft Skills'
 - line: Yes, that's definitely true. With this open source, many developers want to
     do this. But when it comes to actually doing this… sometimes it's difficult. Do
     you try to give some extra motivation? How do you motivate people to actually
@@ -662,7 +674,7 @@ transcript:
   sec: 2605
   time: '43:25'
   who: Dat
-- header: 'Tool: Project Prioritization Matrix (Impact vs. Feasibility); Fail Fast'
+- header: 'Hiring Signals: CVs, Coding Skills, Math Background & Soft Skills'
 - line: That's awesome. Coming back to the hiring process. So you need to hire engineers
     to make sure that the infrastructure is there. The process for collecting data
     is there. But at some point, you want to hire a data scientist. How do you do
@@ -730,6 +742,7 @@ transcript:
   sec: 2841
   time: '47:21'
   who: Alexey
+- header: 'Take‑Home Assessments: Code Quality, Naming, Consistency & Detail'
 - line: The second interview is a homework assignment. I send out a homework, which
     is not very difficult. Then they send me the code, whether it is Jupyter Notebook
     or whatever. Then I check it. From this simple task, you could already see how
@@ -762,7 +775,6 @@ transcript:
   sec: 2935
   time: '48:55'
   who: Dat
-- header: 'Q&A: Retaining Talent, Managing Hype, and Product Manager Role'
 - line: That's interesting… It didn’t occur to me to look at these things. But that's
     an interesting perspective. We just wanted to remind you that you can ask Dat
     a question. You can go there and ask Dat a question. And we already have one question.
@@ -772,6 +784,7 @@ transcript:
   sec: 2939
   time: '48:59'
   who: Alexey
+- header: 'Project Prioritization: Impact vs Technical Feasibility & Fail‑Fast'
 - line: This is always a very difficult question. It's risky. Let's say you have 100
     projects. You have only limited resources, which means you need to pick the one
     that has the highest return on investment. What I do is – I have this matrix.
@@ -807,7 +820,7 @@ transcript:
   sec: 3130
   time: '52:10'
   who: Alexey
-- header: 'Starting Data Science: Dealing with Poor Data Quality; Collecting Data'
+- header: 'Bootstrapping Data Teams: When to Hire Engineers Versus Analysts'
 - line: Question from Pratap. “If I'm about to set up a complete data science, AI
     team in a product space – from where I need to start with?”
   sec: 3152
@@ -826,6 +839,7 @@ transcript:
   sec: 3198
   time: '53:18'
   who: Alexey
+- header: 'Corporate IT in a Tech Transformation: From Central IT to DevOps'
 - line: In the corporate world, in a company like Axel Springer that has corporate
     IT – I don't think an corporate IT system makes sense for a company like Axel
     Springer in the future. Axel Springer is turning into a tech company. Everything
@@ -836,6 +850,7 @@ transcript:
   sec: 3215
   time: '53:35'
   who: Dat
+- header: 'Retention Strategies: Competitive Pay, Interesting Work & Autonomy'
 - line: Another question is “How do you keep a good team? Good people tend to get
     great offers and might leave soon. So how do you keep them?”
   sec: 3263
@@ -881,6 +896,7 @@ transcript:
   sec: 3388
   time: '56:28'
   who: Alexey
+- header: 'Expectation Management: Educating Leadership on AI Capabilities'
 - line: 'This is the problem when you are a company and you create this new data science
     team, everyone will expect a lot of you. They know that “Wow AI!” They read these
     things – “They can do so much! We’ll increase our revenue and cost” and so on.
@@ -935,6 +951,7 @@ transcript:
   sec: 3608
   time: '60:08'
   who: Alexey
+- header: Episode Wrap‑Up & Key Takeaways
 - line: Yeah. Thanks a lot for taking time to come here and share your knowledge with
     us and your expertise. Thanks a lot and thank you everyone for attending and you
     questions. And we will put the video out soon. And yeah – that’s all, I think.

@@ -17,6 +17,7 @@ links:
   spotify: https://open.spotify.com/episode/2zaLMrgbIgVkVEWY09b1Wn
   apple: https://podcasts.apple.com/us/podcast/data-governance-jessi-ashdown-uri-gilad/id1541710331?i=1000525176805
 transcript:
+- header: Podcast Introduction
 - line: This week we will talk about data governance. We have two special guests.
     This is the first time I have two guests in this podcast, so far it was only one.
     It will be a lot of fun. So we have two guests — Jessi and Uri. They both work
@@ -37,7 +38,7 @@ transcript:
   sec: 208
   time: '3:28'
   who: Jessi
-- header: Jessi’s background
+- header: 'Guest Background — Jessi: UX Researcher & Data Governance at Google Cloud'
 - line: Before we go into our main topic of data governance, let’s start with your
     background. We’ll start with Jessi. Jessi, can you tell us about your career journey
     so far?
@@ -52,6 +53,7 @@ transcript:
   sec: 221
   time: '3:41'
   who: Jessi
+- header: 'Guest Background — Uri: Product Management & Data Governance Experience'
 - line: I am like “what is this UX you speak of”. It was this perfect marriage of
     psychology and useful stuff that you could do for people that was pretty immediate.
     I started in that seven or eight years ago. I worked at T-Mobile on their enterprise
@@ -59,7 +61,6 @@ transcript:
     Uri pretty much the entire time I have been here at Google cloud. I’ve worked
     on data governance for the last three years.
   who: Jessi
-- header: Uri’s background
 - line: Thanks! Uri?
   sec: 286
   time: '4:46'
@@ -92,7 +93,7 @@ transcript:
   sec: 398
   time: '6:38'
   who: Uri
-- header: Data governance
+- header: 'Defining Data Governance: Beyond Security and PII'
 - line: We mentioned data governance, and the talk today is about it. So what is it?
     To be honest, I still have a really vague idea, what data governance is and why
     we need it.
@@ -126,6 +127,7 @@ transcript:
   sec: 467
   time: '7:47'
   who: Jessi
+- header: Cloud & Regulation Driving Governance Adoption (GDPR, Cambridge Analytica)
 - line: So, data governance encompasses the entire story of what data I have and how
     I can use it best. Whether that means securing it or using it for business analytics
     things like that. Uri, did I miss anything?
@@ -142,6 +144,7 @@ transcript:
   sec: 537
   time: '8:57'
   who: Uri
+- header: 'Core Components: People, Processes, Tools and Cataloging'
 - line: Now something has been happening surprisingly slowly and yet had implications
     that made data governance a very popular term. Cloud did not happen in one day.
     The cloud transformation transition is still happening — slower than expected
@@ -218,7 +221,7 @@ transcript:
   sec: 931
   time: '15:31'
   who: Uri
-- header: 'Implementing data governance: policies and processes'
+- header: 'Practical Implementation: Classify Data and Establish Policies'
 - line: This sounds excellent! As a company I really want to have it. I want our analysts
     to know what data we have and where this data lies, how to access this data. How
     do I implement this?
@@ -267,7 +270,7 @@ transcript:
   sec: 1104
   time: '18:24'
   who: Uri
-- header: Reasons not to have data governance
+- header: 'Assessing Necessity: When Governance Can Be Minimal'
 - line: Can I ask something? You mentioned that, like we should ask ourselves why
     we need data governance. Before we implement this, we need to ask this “why” question.
     I am wondering if there are reasons why we don’t need it. Maybe it is just overkill
@@ -314,7 +317,7 @@ transcript:
   sec: 1354
   time: '22:34'
   who: Uri
-- header: Start with “why”
+- header: 'Prioritization: Start with the "Why" to Scope Your Program'
 - line: So, it’s not a question whether we need data governance or not. We do need
     it. But the “why” — the question we should ask ourselves — is what’s the reason
     we need it. It’s clear we need it. But why do we need it? It’s not a decision
@@ -334,7 +337,7 @@ transcript:
   sec: 1409
   time: '23:29'
   who: Jessi
-- header: Cataloguing and classifying our data
+- header: 'Data Classification & Taxonomy: Defining Meaningful Data Classes'
 - line: I guess most of the time the answer is data catalog. You need to have this
     catalog of data. You need to know what kind of data you have. You said that we
     need to classify the data — first of all, we need to know what kind of data sources
@@ -352,6 +355,7 @@ transcript:
   sec: 1499
   time: '24:59'
   who: Uri
+- header: 'Tools vs Spreadsheets: Scalable Data Catalog Approaches'
 - line: We already mentioned one — PII, or personally identifiable information. We
     mentioned PII because the European regulators made the point that you must separate
     PII from other kinds of data. It’s a phone number which can clearly identify you,
@@ -379,7 +383,6 @@ transcript:
     are examples. We literally wrote a book about it. But think about yourself, not
     about others.
   who: Uri
-- header: Let data work for you
 - line: When it comes to implementing this data catalog, I imagine that I can start
     with creating an Excel spreadsheet or Google spreadsheet. Then I put all the data
     sources there — all the fields, all the classes. That’s probably a reasonably
@@ -397,6 +400,7 @@ transcript:
   sec: 1703
   time: '28:23'
   who: Jessi
+- header: 'Aligning Storage and Systems: Make Data Work for You'
 - line: We have talked to companies where data governance often fails. It’s because
     it’s so manual. There’s no one to do that. In fact we talked to a company a couple
     years ago. They had a full-time data steward — a person whose sole job was to
@@ -418,6 +422,7 @@ transcript:
   sec: 1820
   time: '30:20'
   who: Uri
+- header: 'Human Roles: Data Stewards, Producers and Decision Makers'
 - line: Think about it this way. You need the data governance program. That probably
     means you have data somewhere. You process this data and you store it. Where is
     the data right now? This is something you should know because you pay for that
@@ -444,7 +449,6 @@ transcript:
     this kind of thing”? That conversation is very different for each particular company,
     in each particular vertical. I am sorry if that is disappointing.
   who: Uri
-- header: The human component
 - line: What I understood is, starting with an excel spreadsheet is not ideal. At
     the end, the person maintains it will quit because it’s a soul sucking job. You
     need to make data work for you. There are tools that look at your data and organize
@@ -471,7 +475,7 @@ transcript:
   sec: 2065
   time: '34:25'
   who: Alexey
-- header: Data quality
+- header: 'Data Quality: Trust Signals, Source, and Measurable Checks'
 - line: I want to add to that. We talked a lot about binary concepts, like is this
     data A or B. Is this column protected or not? Should this be accessible to this
     person or not? There are also some fuzzy concepts in data governance. One of which
@@ -524,7 +528,7 @@ transcript:
   sec: 2287
   time: '38:07'
   who: Uri
-- header: Defining policies
+- header: 'Policy Design: Retention, Freshness and Purpose-based Access'
 - line: So, we have the data sources. We have the data storage, where we put data.
     It can be a data lake or a data warehouse — some place where we keep the data.
     Then we have this data catalog. It can also communicate with our data storage
@@ -541,6 +545,7 @@ transcript:
   sec: 2340
   time: '39:00'
   who: Jessi
+- header: 'Policies as Enablement: Guardrails for Democratized Data Access'
 - line: The policies can be varying. I just listed straightforward ones. We have done
     more research into policies and they are a lot more complicated than we had originally
     thought. For example, here is a simple policy — allow access of this data for
@@ -573,6 +578,7 @@ transcript:
   sec: 2524
   time: '42:04'
   who: Uri
+- header: 'Enforcement Models: Catalog Interfaces vs Storage Control Plane'
 - line: Policies should answer the question “How do I make sure the CIO, the CISO,
     the CEO feel comfortable about everybody in the company accessing this data?”.
     The way to make those C-suit people feel comfortable is saying “Anybody can access
@@ -600,7 +606,6 @@ transcript:
     distinct and aggregate by and so on. This will create a hopefully useful machine
     learning model to predict shopping plans.
   who: Uri
-- header: Implementing policies
 - line: So, these policies are “it can be accessed”, “it cannot be accessed”, “which
     team can access it”, “this should be hashed”, “this should not be hashed”. Is
     it something that is implemented on top of the catalog? Or is it built into the
@@ -618,6 +623,7 @@ transcript:
   sec: 2728
   time: '45:28'
   who: Uri
+- header: 'Access Workflows: Request/Approval "Shopping Cart" Experience'
 - line: I’m a little bit biased here, but I’d recommend a system that makes sure the
     actual storage system implements the governance — with a control plane and the
     dashboard and so on.
@@ -628,7 +634,6 @@ transcript:
     the guidelines. They should be invisible. And they should enable you to use whatever
     tool you want to do to generate the business purpose you came to the data for.
   who: Uri
-- header: Shopping-card experience for requesting data
 - line: But there should be some central place where I as an analyst or I as a data
     scientist can go and say “I need this piece of data”. Then somebody, a lawyer
     or data protection officer, or data producer, can evaluate my request and say
@@ -638,6 +643,7 @@ transcript:
   sec: 2822
   time: '47:02'
   who: Alexey
+- header: 'Governance Tools & Platforms: Dataplex, Collibra and Integrations'
 - line: It can be on top of the catalog. It can be on top of the storage. It can be
     agnostic to both. We recently launched a product called Dataplex. I’m biased,
     but it’s a good example. Dataplex sits beside all the storage systems in Google
@@ -646,6 +652,7 @@ transcript:
   sec: 2855
   time: '47:35'
   who: Uri
+- header: 'Automation: Tagging, Requests and Reducing Manual Effort'
 - line: There are other systems. Just to give a shout out to Collibra for example,
     which is a data catalog data governance system. They implement a shopping cart
     experience, which is as you described. I need the financial information for the
@@ -663,6 +670,7 @@ transcript:
   sec: 2930
   time: '48:50'
   who: Jessi
+- header: 'Measuring ROI: Catalog Metrics, Cost vs Usage and Compliance Value'
 - line: We have talked to a lot of data producers or data engineers who spend so much
     time dealing with requests of analysts and data scientists, wanting this data
     set. Why do you need it? They give it to them and then they don’t use it. I am
@@ -672,7 +680,6 @@ transcript:
     a tool that you use or just the way that you have classified it and tagged it.
     That will help you also.
   who: Jessi
-- header: Proving the value of data catalog
 - line: Thank you. We have a question. It’s also about the data catalog. How can we
     systematically evaluate data governance initiatives such as having a data catalog
     for data access? How can we prove their value to the business?
@@ -717,6 +724,7 @@ transcript:
   sec: 3188
   time: '53:08'
   who: Alexey
+- header: 'MVP Strategy: Minimum Viable Governance and Future-proofing'
 - line: Again, look at your business objectives. I need data governance. Fine. Why?
     Because regulation. Because insights. Because things. Determine that from your
     objective. What you need to solve for successfully will be that minimum. The maximum
@@ -738,7 +746,7 @@ transcript:
   sec: 3274
   time: '54:34'
   who: Uri
-- header: Using data catalog
+- header: 'Data Catalog Contents: Technical Metadata, Lineage and Business Glossary'
 - line: We have a question from Danish. Could you explain with examples what a data
     catalog could contain and how we can leverage it? We talked a bit about it.
   sec: 3277
@@ -754,6 +762,7 @@ transcript:
   sec: 3296
   time: '54:56'
   who: Uri
+- header: 'Governance Scope: Why It Extends Beyond the Catalog'
 - line: The better data catalog has a logical layer or business layer on top of this
     technical information. A lot of my data contains information about customers.
     Here is a customer entity, it includes these kinds of things. Customer entities
@@ -780,7 +789,6 @@ transcript:
     to what does this table mean, where did it come from, who uses it, how often can
     you use it. That will be the kind of information in a data catalog.
   who: Uri
-- header: Data governance = data catalog?
 - line: I think most of the time today we spend talking about data catalog. I am wondering,
     is data governance all about having this data catalog? Or are there other things
     that are important?
@@ -799,7 +807,7 @@ transcript:
   sec: 3485
   time: '58:05'
   who: Uri
-- header: Wrapping up
+- header: Closing Remarks, Contact Links and Next Steps
 - line: We should be wrapping up. Anything else you want to mention before we finish?
   sec: 3544
   time: '59:04'
@@ -816,6 +824,7 @@ transcript:
   sec: 3557
   time: '59:17'
   who: Alexey
+- header: 'Recommended Resource: Data Governance (O''Reilly Book)'
 - line: Read the book.
   sec: 3560
   time: '59:20'

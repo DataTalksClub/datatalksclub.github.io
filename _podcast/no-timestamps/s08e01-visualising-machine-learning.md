@@ -36,7 +36,8 @@ title: 'Visualize Machine Learning: Build Intuition with kDimensions, Figma & Te
 description: Discover kDimensions and Figma templates to visualize machine learning,
   build intuition before the math, map ML problems, and create shareable visuals.
 transcript:
-- header: 'Introduction: Visualizing ML Concepts and Posting Cadence'
+- header: Episode Introduction & Visual ML Overview
+- header: Posting Cadence & Visuals on LinkedIn
 - line: This week, we'll talk about visualising machine learning. And we have a special
     guest today, Meor. You probably saw Meor on LinkedIn where he shares amazing visualisation
     about different machine learning concepts. One of the last ones I remember well
@@ -60,7 +61,7 @@ transcript:
   sec: 173
   time: '2:53'
   who: Meor
-- header: 'Career Path: Bio Engineering, Telecom Analytics, Self-Employment'
+- header: 'Career Journey: Bioengineering → Telecom Analytics → Self‑employment'
 - line: Before we go into our main topic of visualising machine learning, let's start
     with your background. Can you tell us about your career journey so far?
   sec: 177
@@ -102,11 +103,11 @@ transcript:
   sec: 222
   time: '3:42'
   who: Meor
-- header: 'Concept: kDimensions Name; Visuals as Dimensionality Reduction'
 - line: Why this name?
   sec: 370
   time: '6:10'
   who: Alexey
+- header: 'kDimensions: Name & Visual Dimensionality Reduction'
 - line: It's quite obvious. It borrows from the concept of machine learning - dimensionality
     reduction. For example, if you talk about a machine learning problem, you have
     data that is very big, let's say 1000s of 1000s of features. What you can do is
@@ -146,7 +147,7 @@ transcript:
   sec: 484
   time: '8:04'
   who: Meor
-- header: 'Inspiration: Jack Butcher & "Visualise Value"; Visual Engineering'
+- header: Jack Butcher Influence & Visual Engineering Principles
 - line: There is a guy called Jack Butcher. He has a Twitter profile called "visualise
     value", and a website as well. They see some similarities in what you do and what
     Jack is doing. Did you get inspiration from him with coming up with all these
@@ -180,7 +181,7 @@ transcript:
   sec: 568
   time: '9:28'
   who: Meor
-- header: 'Purpose of Visuals: Intuition Before Math; Key Creators'
+- header: 'Purpose of Visuals: Build Intuition Before Math'
 - line: There are many reasons to do it. One of the reasons is that there is more
     information that we need, when it comes to machine learning because there are
     so many resources, there are courses, books, blog posts, code examples, it goes
@@ -220,7 +221,7 @@ transcript:
   sec: 700
   time: '11:40'
   who: Meor
-- header: 'Constraint Strategy: Creativity via Limits (Color, Shapes, Focus)'
+- header: 'Design Constraints: Creativity Through Color & Shape Limits'
 - line: You were already in the educational space. Then you were browsing through
     your feed, and saw a visual from Jake Butcher. You thought, "This is so cool.
     I want to do something similar." When I saw images from Jack, I thought “It would
@@ -261,7 +262,7 @@ transcript:
   sec: 1010
   time: '16:50'
   who: Meor
-- header: 'Idea Generation: Visualizing the Verb; Metaphors and Objects'
+- header: 'Idea Generation: Visualize the Verb & Use Metaphors'
 - line: How do you come up with these ideas? For example, you recently created an
     illustration about “drift”. How did it happen?
   sec: 1053
@@ -310,7 +311,7 @@ transcript:
   sec: 1135
   time: '18:55'
   who: Meor
-- header: 'Examples: Drift (Changing Target); Data-Centric AI (Airplane Balance)'
+- header: Drift Visualized (Catapult Metaphor) & Data‑centric AI Airplane Analogy
 - line: Okay, so first, you think, "I want to create something on drift” Then you
     give yourself a bit of time, use a timer, set it to 5-10 minutes. And then you
     start brainstorming, like “How can I show the action? What is the action there?”
@@ -343,7 +344,7 @@ transcript:
   sec: 1323
   time: '22:03'
   who: Meor
-- header: 'Process: Long List to Short List; Visualizing Emotional Aspects'
+- header: 'Creative Process: Longlist → Shortlist → Brainstorming'
 - line: Can you walk us through the process of creating it? How did you come up with
     the idea? Did you want to create something on data-centric AI? Or first, you had
     an image of your plane in your head and then you did this? Can you walk us through
@@ -415,6 +416,7 @@ transcript:
   sec: 1737
   time: '28:57'
   who: Alexey
+- header: 'Capturing Ideas: Sketchbook, Notes & Quick Logging'
 - line: To be frank, it doesn't always work that way. For example, ideas might come
     to me when I’m in the shower or driving. That's why it's handy to have a sketchbook
     that is dedicated to visuals. Whenever I have an idea, even if I haven’t figured
@@ -432,7 +434,7 @@ transcript:
   sec: 1871
   time: '31:11'
   who: Meor
-- header: 'Tool: Figma (Sweet Spot for Engineers); Geometric Shapes Approach'
+- header: 'Tools: Figma for Engineers & Geometric Shape Workflow'
 - line: What do you use for creating your visuals?
   sec: 1874
   time: '31:14'
@@ -460,6 +462,7 @@ transcript:
   sec: 1877
   time: '31:17'
   who: Meor
+- header: 'From Sketch to Figma: Drafting, Asset Reuse & Iteration'
 - line: So, you have a sketch note. When you have an idea, you take sketches or sometimes
     just notes. Then use Figma to create the visual. Do you always first create a
     draft on a piece of paper before moving to Figma?
@@ -490,7 +493,7 @@ transcript:
   sec: 2122
   time: '35:22'
   who: Alexey
-- header: 'Advice: Focus on Message over Aesthetics; Practice and Posting'
+- header: 'Design Advice: Prioritize Message Over Aesthetics; Start Posting'
 - line: For somebody like you - an engineer who hasn't worked with anything like Figma
     - how can they start creating visuals? How can they learn this?
   sec: 2132
@@ -555,7 +558,7 @@ transcript:
   sec: 2381
   time: '39:41'
   who: Meor
-- header: 'Technique: Consuming Content with Intention to Teach ("What If?")'
+- header: 'Learning Technique: Consume with Intent to Teach — "What If?" Questions'
 - line: One of the things you mentioned is “consume with intention to create something”.
     Can you tell us how it works?
   sec: 2450
@@ -600,7 +603,7 @@ transcript:
   sec: 2544
   time: '42:24'
   who: Meor
-- header: Learning by Breaking Code
+- header: 'Hands‑on Learning: Break and Modify Code to Understand ML'
 - line: How do you come up with this “What if?” and “What can go wrong?”? If you have
     practical experience, then you can use it. But if you're just learning this thing,
     how can you know about these things?
@@ -622,7 +625,7 @@ transcript:
   sec: 2635
   time: '43:55'
   who: Meor
-- header: 'Earning: Visual Design Service for Startups and Content Creators'
+- header: 'Monetization: Visual Design Services for Startups & Content Creators'
 - line: Thanks! You said that since 2019 you're self-employed. You don't work for
     a company, you work for yourself. You mentioned that you were doing some sort
     of consulting and training, but now making visuals is part of what you do. Are
@@ -679,7 +682,7 @@ transcript:
   sec: 2897
   time: '48:17'
   who: Alexey
-- header: 'Service: Adding Visuals to Text; Extracting Keywords for Essence'
+- header: 'Content Design: Turn Articles into Key Visuals (Extract 4–5 Keywords)'
 - line: One thing you mentioned is sometimes there is a bunch of text-based information
     - an article - and you need to add visuals to this article. Do I understand correctly
     that companies come to you for this service?
@@ -709,6 +712,7 @@ transcript:
   sec: 3001
   time: '50:01'
   who: Alexey
+- header: 'Visualization Techniques: Contrast, Balance & Slider Metaphors'
 - line: I do it in the same way as I consume this content myself. First, you take
     the first pass on the text. Try to extract the top four or five keywords that
     are always appearing in the text. They contain the key message of a blog post.
@@ -756,6 +760,8 @@ transcript:
   sec: 3198
   time: '53:18'
   who: Alexey
+- header: 'Mapping ML Problems to Visual Templates: Classification, Regression, Anomaly,
+    Clustering, RL'
 - line: So, what you mention is five or more visuals in the same article instead of
     just one visual. Sometimes you can relate these visuals, but sometimes the concepts
     are so different that you cannot relate to them. In that case, you cannot push
@@ -777,7 +783,7 @@ transcript:
   sec: 3246
   time: '54:06'
   who: Meor
-- header: 'Book: *Visual Introduction to Deep Learning*; Modular Neuron Concepts'
+- header: 'Book Overview: Visual Introduction to Deep Learning (Neuron‑by‑Neuron)'
 - line: I also know that you wrote a book. You recently came to DataTalks.Club’s slack
     to answer questions about your book. Can you tell us about it? And how did you
     come up with the idea behind the book?
@@ -810,7 +816,7 @@ transcript:
   sec: 3430
   time: '57:10'
   who: Meor
-- header: 'Book Process: Visuals First, Supplemented by Minimal Text'
+- header: 'Book Workflow: Visual‑first Layout with Concise Text'
 - line: Did you first come up with text and then created illustrations? Or did you
     first come up with illustrations and then wrote text for them?
   sec: 3536
@@ -831,6 +837,7 @@ transcript:
   sec: 3602
   time: '1:00:02'
   who: Alexey
+- header: 'Closing: kDimensions, Book Links & Contact Information'
 - line: We should be wrapping up. Do you want to say anything before we finish?
   sec: 3612
   time: '1:00:12'

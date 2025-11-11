@@ -19,6 +19,8 @@ short: Inclusive Data Leadership Coaching
 title: 'Data Leadership Coaching: Transition to Manager, Feedback Skills & Influencing
   Without Authority'
 transcript:
+- header: Episode Introduction & Guest Re-introduction (Inclusive Data Leadership
+    Coaching)
 - line: This week, we'll talk about data leadership coaching – inclusive data leadership
     coaching. We have a special guest today, Tereza. This is not the first time Tereza
     is here. We already interviewed her. Was it like two years ago?
@@ -63,7 +65,7 @@ transcript:
   sec: 153
   time: '2:33'
   who: Alexey
-- header: Tereza’s background
+- header: 'Career Journey: From Computer Science PhD to Data Lead and Coach'
 - line: Before we go into our main topic of data leadership coaching, let's start
     with your background. Can you tell us about your career journey so far? Also,
     maybe you can mention what changed in these two years – between our last interview
@@ -86,6 +88,7 @@ transcript:
   sec: 222
   time: '3:42'
   who: Alexey
+- header: 'Transition to Coaching: Stepping back from product responsibility'
 - line: Everything. And then, at the end of 2020, I switched to… I basically needed
     a break from being responsible for product and I thought that I prefer teaching
     other people to be responsible for products, so I can take a step back and then
@@ -116,7 +119,7 @@ transcript:
   sec: 224
   time: '3:44'
   who: Tereza
-- header: Switching from an Individual Contributor to Lead
+- header: 'Career Shift: Challenges of moving from Individual Contributor to Lead'
 - line: I think I needed something like that when I got promoted from Senior Data
     Scientist to Lead.
   sec: 377
@@ -161,6 +164,7 @@ transcript:
   sec: 463
   time: '7:43'
   who: Alexey
+- header: 'Early Coaching Experiments: Free sessions to learn real problems'
 - line: Yeah. First, I did last year – I think I offered some free coaching sessions
     in exchange for feedback. [This was] kind of to also understand what kind of problems
     people have. I think I had two targets – there were the, well, data leadership
@@ -182,6 +186,7 @@ transcript:
   sec: 524
   time: '8:44'
   who: Alexey
+- header: 'Manager Bandwidth Limits: Need for independent problem-solving'
 - line: Yeah. I mean, the higher you get in your career, whoever your manager is will
     not really have so much time to have you on their mind 100%. [Alexey agrees] And
     I think at some point, people really high up in their career, like the VP and
@@ -227,7 +232,7 @@ transcript:
   sec: 668
   time: '11:08'
   who: Tereza
-- header: Python Pizza and the pizza management metaphor
+- header: 'Community Format: Python Pizza conference and newcomer talks'
 - line: Since you mentioned that, maybe you can briefly talk about Python Pizza? What
     is that?
   sec: 689
@@ -268,6 +273,7 @@ transcript:
   sec: 734
   time: '12:14'
   who: Tereza
+- header: 'Team Span-of-Control: Pizza metaphor for sustainable management'
 - line: Going back to your idea of “You cannot eat too much pizza – six, seven slices
     at most. And the same with the team – you cannot manage more than six, seven people
     at once.” Right?
@@ -299,7 +305,7 @@ transcript:
   sec: 794
   time: '13:14'
   who: Tereza
-- header: Learning to figure things out on your own and how to receive feedback
+- header: 'Leadership Learning: Courses, awareness, and building feedback culture'
 - line: So do you think we can learn these skills? If I'm a senior data scientist
     and, all of a sudden, I find myself in this situation where I need to figure out
     what to do without being told and I'm expected to actually not be told but figure
@@ -348,6 +354,7 @@ transcript:
   sec: 1019
   time: '16:59'
   who: Tereza
+- header: 'Leadership Training vs. Self-Study: Practical workshops and frameworks'
 - line: You mentioned courses and then I remembered that for me, I also recognize
     that I'm an engineer and this is a totally different thing. Now, instead of doing
     things myself – I don't have time to do this anymore. And I still think I am trying
@@ -387,6 +394,7 @@ transcript:
   sec: 1132
   time: '18:52'
   who: Tereza
+- header: 'Feedback Skills: Giving constructive feedback without hurting relationships'
 - line: '[inaudible] For example, you need to give feedback because somebody… I think
     this is what you mentioned, right? Somebody is maybe not doing a good job, but
     you don''t want to be super upfront and say something like, “Your work sucks.”
@@ -398,6 +406,7 @@ transcript:
   sec: 1183
   time: '19:43'
   who: Alexey
+- header: 'Team Feedback Training: Psychological safety and practiced routines'
 - line: Yeah. I always like to do the feedback training as a team training – so not
     just the Lead learns how to give feedback, but the whole team learns. This feedback
     training can be done once a year – you always get new people in the team and it's
@@ -439,7 +448,7 @@ transcript:
   sec: 1346
   time: '22:26'
   who: Tereza
-- header: Tereza as a leadership coach
+- header: 'Coaching Focus: Increasing impact, promotions, and strategic mindset'
 - line: What do you actually do as a coach? One thing you mentioned is that you organize
     these feedback sessions (team trainings) where the entire team learns how to [give
     feedback]
@@ -478,6 +487,7 @@ transcript:
   sec: 1465
   time: '24:25'
   who: Alexey
+- header: 'Data Work Visibility: Foundation work, product mindset, and KPIs'
 - line: Yeah need to… And then it feels like you're not really doing anything. [chuckles]
     It's very hard for to say, “Oh, I've achieved something,” or “The work that we're
     doing is impactful,” because you're not always delivering customer-facing products,
@@ -541,6 +551,7 @@ transcript:
   sec: 1708
   time: '28:28'
   who: Alexey
+- header: 'Coaching Delivery: LinkedIn, Calendly, one-shot sessions, and CV reviews'
 - line: I currently have a website, which is also going to be changing a bit. But
     basically, I'm posting on LinkedIn, and I have a Calendly link that people can
     book. I'm also offering – I've also offered… These are sometimes coaching for
@@ -596,7 +607,6 @@ transcript:
   sec: 1903
   time: '31:43'
   who: Tereza
-- header: Podcats
 - line: Is it the only thing you're doing right now? Or do you have other activities?
   sec: 1946
   time: '32:26'
@@ -617,6 +627,8 @@ transcript:
   sec: 1957
   time: '32:37'
   who: Alexey
+- header: 'Side Projects & Partnerships: PyPodcats, Shades & Contrast, Responsible
+    AI'
 - line: 'It''s a podcast that we started. It''s from the Python Software Foundation,
     and we want to acknowledge the contribution of women in the Python community –
     women and people from underrepresented groups. We''ve started with… We now have
@@ -657,7 +669,7 @@ transcript:
   sec: 2069
   time: '34:29'
   who: Tereza
-- header: Tereza’s coaching framework (selling yourself vs bragging)
+- header: 'Coaching Approach: Blending coaching, mentoring, and practical advice'
 - line: Okay. This is very interesting and motivating, so thanks for sharing that.
     [Tereza agrees] How do you usually…? When somebody approaches you, you probably
     have some sort of framework of how exactly you're going to help them. Do you have
@@ -683,6 +695,7 @@ transcript:
   sec: 2169
   time: '36:09'
   who: Alexey
+- header: 'Self-Promotion vs. Bragging: CV culture and owning achievements'
 - line: Yeah. And sometimes you have CV reviews – sometimes, even if you're not looking
     for a new job, I think it's a very healthy thing to do every now and then because
     I think most people living in Germany… If you compare a CV from someone living
@@ -731,7 +744,7 @@ transcript:
   sec: 2312
   time: '38:32'
   who: Alexey
-- header: The importance of retrospectives
+- header: 'Personal Retrospectives: Tracking wins and the two-year rule for topics'
 - line: I did it on purpose. [chuckles] I think there are people that are finding
     this way more… They feel way more super confident and are like, “Oh, yeah. I totally
     did that.” And it's not like they're born like that, you know? It's just a matter
@@ -809,7 +822,7 @@ transcript:
   sec: 2602
   time: '43:22'
   who: Alexey
-- header: The importance of communication and active listening
+- header: 'Communication Overhead: Behind-the-scenes work for models and open source'
 - line: For example. But you could also talk about that at PyData because like, “Let's
     put the model in production.” But what happens behind the scenes of putting the
     model in production? You have to convince the whole company that this model should
@@ -846,7 +859,8 @@ transcript:
   sec: 2729
   time: '45:29'
   who: Tereza
-- header: Convincing people you don’t have power over
+- header: 'Influencing Without Authority: Speaking different work languages & active
+    listening'
 - line: I was wondering why there are no questions in Slido, but I noticed that I
     forgot to post the link. But I see that there are some questions already in the
     live chat. We talked about different leadership skills and one of them was leading
@@ -899,6 +913,7 @@ transcript:
   sec: 2957
   time: '49:17'
   who: Alexey
+- header: 'Stakeholder Framing: Connecting projects to what''s important for others'
 - line: Well, you do that by communicating why that is important, how it is important
     for them. You need to find out what is important for them, because otherwise you
     can’t link it to something that is important for them. Why should they care? If
@@ -918,12 +933,12 @@ transcript:
   sec: 3007
   time: '50:07'
   who: Tereza
-- header: Building relationships and empathy
 - line: Active listening and  then also learning the language they use. And you also
     need to be friends. You have to have a relationship.
   sec: 3009
   time: '50:09'
   who: Alexey
+- header: 'Empathy in Practice: Role perspective-taking for better collaboration'
 - line: Yeah. There was another part. This was a problem I noticed with data science
     people – if you were on a direct track – a very linear career path – then you
     most likely weren’t really exposed to how other people in other teams work and
@@ -980,6 +995,7 @@ transcript:
   sec: 3221
   time: '53:41'
   who: Alexey
+- header: 'Cross-Functional Leadership: Emotional intelligence and people care'
 - line: Oh, yeah. Especially if you're in a cross-functional team setup. [chuckles]
   sec: 3230
   time: '53:50'
@@ -995,7 +1011,8 @@ transcript:
   sec: 3238
   time: '53:58'
   who: Tereza
-- header: Inclusive leadership
+- header: 'Inclusive Leadership: Defining inclusion, avoiding exclusivity, and cultural
+    diversity'
 - line: I noticed that we need to finish quite soon. But there is one thing I wanted
     to ask you. The topic of today's interview is “inclusive data leadership coaching”.
     We talked about data leadership, we talked about coaching, but we did not talk
@@ -1069,6 +1086,7 @@ transcript:
   sec: 3466
   time: '57:46'
   who: Tereza
+- header: 'Closing & Contact: How to reach Tereza, Calendly and further resources'
 - line: Okay. If anyone needs a coaching session from Tereza, you will find the link
     on your LinkedIn profile. Right? [Tereza agrees] Okay. So, thanks again, and goodbye.
   sec: 3468

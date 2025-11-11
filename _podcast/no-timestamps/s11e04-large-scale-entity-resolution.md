@@ -16,6 +16,8 @@ short: Large-Scale Entity Resolution
 title: Eliminate Duplicate Records with ML-Powered Identity Resolution — Snowflake-native
   & Open Source
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Overview: Sonal Goyal and Zingg identity resolution'
 - line: This week, we'll talk about identity resolution and we'll also talk about
     building an open source startup. We have a special guest today, Sonal. Sonal is
     the founder of Zingg, which is a machine learning-powered identity resolution
@@ -33,7 +35,7 @@ transcript:
   sec: 115
   time: '1:55'
   who: Sonal
-- header: Sonal’s background
+- header: 'Career Overview: 24 years in tech, data consulting background'
 - line: I'm pretty sure they will. Before we go into our main topic of open source
     and identity resolution, let's start with your background. Can you tell us about
     your career journey so far?
@@ -50,7 +52,7 @@ transcript:
   sec: 137
   time: '2:17'
   who: Sonal
-- header: How the idea for Zingg came about
+- header: 'Origin Story: Consulting projects reveal recurring identity gaps'
 - line: When you were running your consultancy, you probably noticed that there are
     some problems that most of your customers have. And this is how Zingg appeared?
     How did it actually happen?
@@ -81,6 +83,7 @@ transcript:
   sec: 256
   time: '4:16'
   who: Alexey
+- header: 'Modern Data Stack: Centralized data exposing identity challenges'
 - line: I think just beyond the tools for Spark, it is also about the data infrastructure
     as a whole, which is what we are now calling the modern data stack. This is a
     very de facto set of tools for established patterns, for extraction, for transformation,
@@ -94,7 +97,7 @@ transcript:
   sec: 291
   time: '4:51'
   who: Sonal
-- header: What Zingg is
+- header: 'Product Overview: Zingg — ML-powered identity resolution'
 - line: So can you tell us about Zingg? What is it?
   sec: 343
   time: '5:43'
@@ -121,7 +124,7 @@ transcript:
   sec: 347
   time: '5:47'
   who: Sonal
-- header: The difference between entity resolution and identity resolution
+- header: 'Terminology: Entity resolution vs identity resolution'
 - line: Is there any difference between entity resolution and identity resolution?
   sec: 434
   time: '7:14'
@@ -135,7 +138,7 @@ transcript:
   sec: 440
   time: '7:20'
   who: Sonal
-- header: How duplicate detection relates to entity resolution
+- header: 'Duplicate Detection vs Deduplication: Outcomes and use cases'
 - line: What about duplicate detection? How is the problem of detecting duplicates
     related to this problem of entity resolution?
   sec: 472
@@ -159,7 +162,7 @@ transcript:
   sec: 482
   time: '8:02'
   who: Sonal
-- header: How Sonal decided to start working on Zingg
+- header: 'Motivation: Recurring duplicate problems across domains'
 - line: Interesting. So the reason I'm asking about duplicate detection is because
     when I first got to know this problem, this was the name of this problem – duplicate
     detection. It was a competition on Kaggle from one of their online classifieds
@@ -195,6 +198,7 @@ transcript:
   sec: 548
   time: '9:08'
   who: Alexey
+- header: 'Solution Generality: Customers, products, patients and suppliers'
 - line: I would say that part of the journey was definitely planned in terms of me
     choosing to work on the problem. This problem hit me as part of a consulting project
     that we were doing, where we were doing a data lake, and we had customer data
@@ -239,6 +243,7 @@ transcript:
   sec: 817
   time: '13:37'
   who: Alexey
+- header: 'Related Terms: Record linkage, entity matching, entity disambiguation'
 - line: Record linkage is there. I think there are at least 5 or 10 different terms
     that we use to talk about it. There's entity disambiguation, which is more in
     terms of NLP. Entity matching, I think is more in terms of matching unstructured
@@ -247,7 +252,7 @@ transcript:
   sec: 818
   time: '13:38'
   who: Sonal
-- header: How Zingg works
+- header: 'Core Approach: ML training, blocking, indexing for scale'
 - line: So we talked about the problem, more or less. We have data coming from different
     sources and we want to reconsolidate or join it. Or we have duplicates because
     our users generate duplicates, so we want to detect them. There are other use
@@ -308,7 +313,7 @@ transcript:
   sec: 875
   time: '14:35'
   who: Sonal
-- header: What Zingg runs on
+- header: 'Implementation: Spark distribution, Snowflake-native & Python API'
 - line: Can you maybe talk a bit about the implementation details? I know that the
     last time we spoke, you showed a Command Line Interface application and then internally,
     it was using Spark for computing all these things. Has that changed? What do you
@@ -347,6 +352,7 @@ transcript:
   sec: 1115
   time: '18:35'
   who: Sonal
+- header: 'Interfaces & Integrations: CLI, Python SDK, Databricks, dbt, UI plans'
 - line: I guess the command line interface didn't appeal to everyone, right?
   sec: 1241
   time: '20:41'
@@ -364,7 +370,7 @@ transcript:
     it?” As Snowflake customers right now running those Spark clusters, but is there
     a better, leaner architecture for them so that they are not worried about two
     separate infrastructures?
-- header: Switching from consultancy to working on a new open source solution
+- header: 'Founder Transition: From consultancy to full-time product build'
 - line: So you were working as a consultant – you were running your own consultancy
     – and then you saw that many of your clients had this problem. You then realized,
     “Okay, now I just want to sit down and solve this problem.” So did you just take
@@ -386,6 +392,7 @@ transcript:
   sec: 1373
   time: '22:53'
   who: Alexey
+- header: 'Development Timeline: Proof-of-concept to public release (~18 months)'
 - line: Zingg has been long in the making. It's taken me at least a year and more
     to build out what we released last year. Honestly, I spent a lot of time tuning
     – I think out of that one and a half year, I must have spent at least six months
@@ -413,7 +420,7 @@ transcript:
   sec: 1452
   time: '24:12'
   who: Sonal
-- header: Why Zingg is open source
+- header: 'Open Source Strategy: Community, adoption, and business rationale'
 - line: Wow. That's amazing. Why did you decide to actually do this in open source?
     After spending a year and a half, instead of doing it closed source and proprietary,
     you decided to do everything in the open? Why did you make this decision?
@@ -469,6 +476,7 @@ transcript:
   sec: 1619
   time: '26:59'
   who: Alexey
+- header: 'Licensing Choice: AGPL to prevent SaaS rehosting and protect IP'
 - line: Yeah, it was a long “labor of love” as I call it. I was afraid of the IP being
     free, to be honest. But at the same time, I was also very upbeat about the potential.
     You know, you can control something, but then when you open it up, you realize
@@ -490,7 +498,6 @@ transcript:
   sec: 1620
   time: '27:00'
   who: Sonal
-- header: Open source licensing
 - line: Speaking of licenses, for me, this is the most difficult part of open source.
     There are so many different licenses. The one you mentioned, GPL license – I know
     that there are Apache licenses, which are pretty permissive, right? Let's say
@@ -536,6 +543,7 @@ transcript:
   sec: 1865
   time: '31:05'
   who: Alexey
+- header: 'Open Source Trade-offs: IP concerns vs discoverability and growth'
 - line: No, I just did my research. And I talked to a few other people who were already
     doing open source. Honestly, the license is not the biggest part of open source
     – I think it's the philosophy. The code is all out there. The IP is in the code
@@ -547,7 +555,7 @@ transcript:
   sec: 1870
   time: '31:10'
   who: Sonal
-- header: Working on Zingg initially vs now
+- header: 'Team Evolution: Solo founder, consultants, and initial hires'
 - line: When I asked you how exactly you started Zingg, you said that you took a year
     and a half to release the first public version. But you also said “we,” so I’m
     just wondering – were you doing this alone, or was somebody working with you on
@@ -568,6 +576,7 @@ transcript:
   sec: 1953
   time: '32:33'
   who: Alexey
+- header: 'Founder Role: Product, ecosystem integrations, community and hiring'
 - line: One is definitely coding the product, adding a lot of new features, planning
     how we want to do a tighter integration with Databricks, how we really do their
     APIs – so it's not just Zingg alone, but Zingg in the ecosystem, which takes up
@@ -623,7 +632,7 @@ transcript:
   sec: 2110
   time: '35:10'
   who: Sonal
-- header: Zingg’s current and future team
+- header: 'Team & Hiring: First developer hire and fully remote setup'
 - line: How large is your team now?
   sec: 2114
   time: '35:14'
@@ -676,7 +685,7 @@ transcript:
   sec: 2218
   time: '36:58'
   who: Sonal
-- header: Sonal’s biggest current challenge
+- header: 'Scaling Challenge: Recruiting the right engineering talent'
 - line: What is your biggest challenge right now?
   sec: 2241
   time: '37:21'
@@ -702,7 +711,7 @@ transcript:
   sec: 2298
   time: '38:18'
   who: Sonal
-- header: Avoiding problems with entity/identity resolution through database design
+- header: 'Prevention Limits: Data governance won’t fully eliminate identity issues'
 - line: I’ve realized that we have quite a few questions from the audience. So I'll
     start with the first one from Bes. “How can a team avoid dealing with entity/identity
     resolution challenges from the start? Is it proper database design? Would it be
@@ -738,7 +747,7 @@ transcript:
   sec: 2432
   time: '40:32'
   who: Sonal
-- header: Identity resolution vs basic joins, data fusions, and fuzzy joins
+- header: 'Beyond Joins: When fuzzy joins and basic ETL aren’t enough'
 - line: How is identity resolution different from using basic joins and data fusions?
     I don't know what data fusion is – I’m assuming it’s some sort of fuzzy join or
     something like this?
@@ -802,7 +811,7 @@ transcript:
   sec: 2655
   time: '44:15'
   who: Sonal
-- header: Deterministic matching vs probabilistic machine learning
+- header: 'Deterministic Rules vs Probabilistic ML: Trade-offs for accuracy'
 - line: What was the uplift from switching from deterministic matching to probabilistic
     machine learning?
   sec: 2665
@@ -835,7 +844,7 @@ transcript:
   sec: 2688
   time: '44:48'
   who: Sonal
-- header: Identity and entity resolution applications for fraud detection
+- header: 'Fraud Use Cases: Identity resolution for AML and fraud detection'
 - line: Another question that I'm reading from my memory, “What are the applications
     of identity and entity resolution in fraud detection?”
   sec: 2750
@@ -892,7 +901,7 @@ transcript:
   sec: 2922
   time: '48:42'
   who: Sonal
-- header: Graph algorithms vs classic ML in entity resolution
+- header: 'Graph + ML: Pairwise matching, graph clustering and downstream use'
 - line: I know that for fraud detection cases, graph machine learning is quite useful.
     [Sonal agrees] In your experience, do graph algorithms outperform classical machine
     learning models in entity resolution, or no?
@@ -909,6 +918,7 @@ transcript:
   sec: 2979
   time: '49:39'
   who: Sonal
+- header: 'Data Mapping: Need to specify field correspondences for matching'
 - line: What type of data can Zingg use? For example, if there are no common fields
     present, how does the tool know that these entities are the same? How does it
     work under the hood in these cases?
@@ -938,7 +948,7 @@ transcript:
   sec: 3098
   time: '51:38'
   who: Sonal
-- header: Identity resolution success stories
+- header: 'Impact Case Studies: Public-data donors, e‑commerce and classifieds'
 - line: Okay. Another interesting question is about some success stories of implementing
     identity resolution in products. Maybe I can start with fraud detection. We didn't
     use Zingg for that at OLX, but there is a nice article at OLX’s tech blog (tech.OLX.com)
@@ -973,7 +983,7 @@ transcript:
   sec: 3143
   time: '52:23'
   who: Sonal
-- header: What Sonal would do differently given the chance to start over with Zingg
+- header: 'Retrospective: Seeking cofounder earlier and open-sourcing sooner'
 - line: Interesting story. Thanks for sharing. Again, these are questions that we
     prepared – this is not from the audience. I'm pretty curious – if you had to do
     this over again – let's say you're now working at the consultancy company and
@@ -1002,7 +1012,7 @@ transcript:
   sec: 3278
   time: '54:38'
   who: Sonal
-- header: Advice for those seeking to realize their own solution to a data problem
+- header: 'Founder Advice: Validate use cases, distribution channels, and conviction'
 - line: Indeed, spending half a year on tuning is impressive. [chuckles] But probably,
     you indeed could have done this earlier. However, the demo you did with DataTalks.Club
     was really amazing. I saw that you put a lot of effort there. It was polished
@@ -1054,7 +1064,7 @@ transcript:
   sec: 3429
   time: '57:09'
   who: Sonal
-- header: Reading suggestion from Sonal
+- header: 'Recommended Reading: Creative Selection on product design'
 - line: And it's fun too. [Sonal agrees] Last question. One of the listeners, Joanna,
     suggested that we should ask every guest some recommendation – like a book recommendation,
     for example. I was wondering if you could recommend any book or some other resource
@@ -1074,7 +1084,7 @@ transcript:
   sec: 3585
   time: '59:45'
   who: Sonal
-- header: Conclusion
+- header: 'Closing Remarks: Follow-ups, demos and contact options'
 - line: I haven't heard about this book. I have a few credits on Audible – the thing
     I use for listening to audiobooks – so I’ll look it up. Okay. Thanks for joining
     us today. Thanks for sharing your experience and expertise with us. You had an

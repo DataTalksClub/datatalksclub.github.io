@@ -16,6 +16,8 @@ short: From Software Engineer to Data Science Manager
 title: 'Transitioning from Software Engineer to Data Science Manager: Search, ML &
   Leadership'
 transcript:
+- header: Podcast Introduction
+- header: 'Episode Overview: From Software Engineer to Data Science Manager'
 - line: This week, we'll talk about changing careers from software engineering to
     data science management. We have a special guest today, Sadat. Sadat and I are
     colleagues – we both work at OLX Group. He joined OLX as a software engineer,
@@ -29,7 +31,8 @@ transcript:
   sec: 92
   time: '1:32'
   who: Sadat
-- header: Sadat’s background
+- header: 'Early Career & Education: Aspiring Doctor, Electronics Bachelor, Informatics
+    Master'
 - line: Happy to have you here, too. Before we go into our main topic and discuss
     your career transitioning in detail, maybe we can briefly go over your career
     journey so far. So how did it start?
@@ -65,6 +68,7 @@ transcript:
   sec: 190
   time: '3:10'
   who: Alexey
+- header: 'Fraunhofer Research Assistant: Computer Vision and Car Dent Detection'
 - line: Research assistant? Yeah, probably. I think it's called “hilsveitshaft” or
     something in German, “hivi” short, but yeah, I think a research assistant works.
     This was fun. That's where I got my proper exposure to software engineering and
@@ -161,11 +165,11 @@ transcript:
   sec: 370
   time: '6:10'
   who: Sadat
-- header: Sadat’s backend engineering experience
 - line: Okay, let's go back three years. So what did it do at OLX as a back end engineer?
   sec: 383
   time: '6:23'
   who: Alexey
+- header: 'Search Engineering at OLX: First Day Firefighting and Team Onboarding'
 - line: I started OLX as a senior engineer for the search team. When I was hired at
     OLX, I was already in the field of search (search and recommendation) for a while
     now – around three, four years, I guess. So I started at OLX as a search engineer.
@@ -219,6 +223,7 @@ transcript:
   sec: 515
   time: '8:35'
   who: Alexey
+- header: 'Solr Autoscaling: Root Cause, CPU Load, and Scheduled Scaling Fixes'
 - line: Thankfully, he didn’t ask me to fix it, because that would have been pressure,
     right? I enjoyed my coffee, met my new team, and life went on. A week later, we
     were writing the post mortem for what had happened. I don't remember the details,
@@ -269,6 +274,8 @@ transcript:
   sec: 627
   time: '10:27'
   who: Alexey
+- header: 'Decoupling Search from Monolith: Proposal, Implementation, and Experiment
+    Velocity'
 - line: What had happened when I landed at the search team at OLX was that it was
     also the start of the pandemic – or almost the start of the pandemic. We didn't
     know that yet. There was this new virus news coming in from China – a lot of uncertainty.
@@ -305,7 +312,6 @@ transcript:
   sec: 637
   time: '10:37'
   who: Sadat
-- header: Sadat’s pivot point as a backend engineer
 - line: Maybe I'll try to summarize what you said. You and your team had a super large
     service that was doing everything, including search. Search was a little piece
     of this. Making changes to this little piece was very difficult because it affected
@@ -331,6 +337,7 @@ transcript:
   sec: 866
   time: '14:26'
   who: Alexey
+- header: 'Tech Stack for Search: Kotlin Services, Python Satellites, and ML Integrations'
 - line: 'The new service, the service that is currently live, was written in Kotlin.
     There are a few other satellites around the macro service, which are written in
     Python and Kotlin, depending on what the services are. Search at OLX also consumes
@@ -340,12 +347,12 @@ transcript:
   sec: 870
   time: '14:30'
   who: Sadat
-- header: Sadat’s exposure to ML and Data Science
 - line: What was your exposure to all this machine learning and data science? I guess
     before OLX, or at OLX, how much of this stuff did you already know?
   sec: 903
   time: '15:03'
   who: Alexey
+- header: 'First ML Project: Master’s Thesis on Neural Networks for Energy Forecasting'
 - line: My first exposure to machine learning, artificial intelligence, was during
     my Master’s thesis. The thesis that I published was basically to propose an algorithm
     that was using a neural network to predict the energy consumptions at the Stuttgart
@@ -408,6 +415,8 @@ transcript:
   sec: 1135
   time: '18:55'
   who: Alexey
+- header: '20% Time Success: Spellchecker Attempt, Word2Vec, and Recommendation System
+    Wins'
 - line: No. We actually tried, to be honest. Machu I think is more disciplined than
     I am in this. We did find a few official papers on the word2vec architecture.
     But then, I think in the end, it was videos. For me, it was mainly going through
@@ -438,7 +447,7 @@ transcript:
   sec: 1237
   time: '20:37'
   who: Alexey
-- header: Sadat’s Act Before you Think approach (with safety nets)
+- header: 'Learning Approach: "Act Before You Think" and Building Practical ML Experience'
 - line: It was a lot of… the internet. I love the internet. You don't need to know
     anything. You just copy/paste and brute force till it works. That's one way that
     I work. And it does work. To be honest, I understood the word2vec model after
@@ -466,6 +475,7 @@ transcript:
   sec: 1300
   time: '21:40'
   who: Alexey
+- header: 'Safety Nets for Experimentation: Feature Flags, Backups, Monitoring, Experimentation'
 - line: Absolutely. One thing that I've always told colleagues and also engineers
     who’ve worked with me is “Invest in safety nets, because once you have a strong
     safety net, you're not going to be afraid to try stuff. Feature flags, experimentation,
@@ -502,7 +512,6 @@ transcript:
   sec: 1405
   time: '23:25'
   who: Sadat
-- header: Sadat’s street cred and transition into management
 - line: Okay. Coming back to your OLX days – you saw that there was a problem and
     you wanted to solve it. You were new then, right? You just joined. You came to
     the management and said, “Okay, give me six months. I'll make some magic and then
@@ -544,6 +553,7 @@ transcript:
   sec: 1501
   time: '25:01'
   who: Alexey
+- header: 'Path to Management: Opportunity, Promotion, and Timing'
 - line: No. No, it wasn't like that. [both laugh] But this definitely was a very strong
     point in making it happen when it happened. After we had scaled out, six or seven
     months later, we were also more certain about how the world was evolving. At this
@@ -566,6 +576,8 @@ transcript:
   sec: 1587
   time: '26:27'
   who: Alexey
+- header: 'Internal Hiring Process: Panel Interviews, Feedback, and Internal Candidate
+    Dynamics'
 - line: The decoupling project – moving out of search. To be honest, the way I became
     an EM was that my existing EM decided to leave the company. That created the opportunity.
     You need to have the capability, but you also need the opportunity – and you need
@@ -583,7 +595,6 @@ transcript:
   sec: 1588
   time: '26:28'
   who: Sadat
-- header: The hiring process as an internal candidate
 - line: It was as if they were hiring somebody external – completely, the entire process.
   sec: 1660
   time: '27:40'
@@ -642,7 +653,6 @@ transcript:
   sec: 1775
   time: '29:35'
   who: Sadat
-- header: The importance of people management skills
 - line: What kind of people management questions can people expect? Maybe don't give
     away the exact questions you were asked, because maybe we still use these questions.
     [chuckles] But just to get an idea. Is it about conflict resolution? Is it about
@@ -650,6 +660,7 @@ transcript:
   sec: 1809
   time: '30:09'
   who: Alexey
+- header: 'People Management Skills: Conflict Resolution, Hiring, and Business Metrics'
 - line: To be honest, the questions aren't that important. What the hiring manager
     is trying to understand is, “Are you a person who is capable of leading the team
     that is in question?” Usually, an engineering manager or managerial positions,
@@ -701,7 +712,6 @@ transcript:
   sec: 1948
   time: '32:28'
   who: Sadat
-- header: The Brag List
 - line: So let’s say there was a conflict in one of the projects that I had, then
     I should take note of it, and understand what my actions were – how I helped to
     solve this conflict – and when there is a question about that, I bring this up.
@@ -709,6 +719,7 @@ transcript:
   sec: 2011
   time: '33:31'
   who: Alexey
+- header: 'The Brag List: Documenting Leadership Evidence for Interviews'
 - line: That's the kind of homework. Right. Ilias, my old manager who had to leave
     OLX for me to get his position, always asked me to maintain a brag list. Maintain
     your brag list.
@@ -785,7 +796,6 @@ transcript:
   sec: 2149
   time: '35:49'
   who: Sadat
-- header: The most difficult part of transitioning to management
 - line: What was the most difficult part of your transition?
   sec: 2157
   time: '35:57'
@@ -799,6 +809,7 @@ transcript:
   sec: 2174
   time: '36:14'
   who: Alexey
+- header: 'Transition Pain Points: Dopamine Loss, Dropping Hands‑On Coding, and Withdrawal'
 - line: When you’re coding, right. You create a merge request – bam, that's dopamine.
     You get an approval – another shot of dopamine. You hit the merge button – dopamine.
     Deploy – dopamine. A/B test started – dopamine. There’s dopamine throughout the
@@ -874,6 +885,7 @@ transcript:
   sec: 2399
   time: '39:59'
   who: Sadat
+- header: 'Managing Momentum: Project Ownership, Milestones, and Team Coordination'
 - line: It’s golf, right? [chuckles]
   sec: 2474
   time: '41:14'
@@ -886,7 +898,6 @@ transcript:
   sec: 2416
   time: '40:16'
   who: Sadat
-- header: Focusing on projects and setting milestones
 - line: By “project” you mean that you work on as an IC or that you have other people
     work on?
   sec: 2441
@@ -959,7 +970,6 @@ transcript:
   sec: 2550
   time: '42:30'
   who: Sadat
-- header: Sadat’s transition from EM to data science management
 - line: We also wanted to talk about what you do now, which is not an engineering
     manager anymore, but data science management. So tell us about that. Maybe it
     was something similar? You worked as an engineering manager for some time, and
@@ -967,6 +977,7 @@ transcript:
   sec: 2592
   time: '43:12'
   who: Alexey
+- header: 'Transition to Data Science Management: Case Study Interview and Motivation'
 - line: Again, I went through the interview process. The way we hire data scientists
     at OLX is very interesting. I love the process, by the way. We have a panel interview,
     which we don't have for engineering. So I had to go through the panel interview.
@@ -989,6 +1000,7 @@ transcript:
   sec: 2673
   time: '44:33'
   who: Alexey
+- header: 'Trust & Safety Work: Chat Moderation, NLP Challenges, and Fraud Detection'
 - line: The way I see my work is – there were challenges that I had as an engineering
     manager that were fun, but in data science, I feel like I'm enjoying the challenges
     more because the problems are less defined. It's a little harder to understand
@@ -1030,7 +1042,6 @@ transcript:
   sec: 2678
   time: '44:38'
   who: Sadat
-- header: How much domain knowledge is needed for management?
 - line: How much do you think a data science manager should know about all these things?
     NLP is a pretty large topic. [Sadat suggests “nice”] I don't know about “niche”.
     There are a lot of things happening there. Maybe coming from a software engineering
@@ -1040,6 +1051,8 @@ transcript:
   sec: 2870
   time: '47:50'
   who: Alexey
+- header: 'Managerial Domain Knowledge: When ML/NLP Expertise Helps vs Coordination
+    Role'
 - line: Right. I don't point people to papers. They point me to papers. I think there
     are different types of manager archetypes. You will always have the manager who's
     a domain expert and is going to lead by being the domain expert. I am not a domain
@@ -1084,7 +1097,6 @@ transcript:
   sec: 2994
   time: '49:54'
   who: Sadat
-- header: The main difference between engineering and management
 - line: How different is your job compared to what you were doing previously? Now,
     I guess you have more interaction with stakeholders and the nature of this interaction
     is slightly different, because you need to keep in mind all these things that
@@ -1094,6 +1106,7 @@ transcript:
   sec: 3021
   time: '50:21'
   who: Alexey
+- header: 'Role Shift: Greater Product Involvement and Stakeholder Influence'
 - line: I think this is a significant part of the difference, yes. I am way more involved
     in product discussions than I was previously. But I also think that a part of
     this is how your company looks at the different profiles. I think at OLX, a data
@@ -1139,13 +1152,13 @@ transcript:
   sec: 3130
   time: '52:10'
   who: Sadat
-- header: How being an EM helped Sadat transition no DS management
 - line: But as an engineering manager in the search and recommendations team, you
     got involved in all these machine learning-related topics, which gave you some
     credibility, right?
   sec: 3160
   time: '52:40'
   who: Alexey
+- header: Leveraging EM Experience to Lead Data Science Teams
 - line: Definitely. One of the benefits of being an engineering manager for the search
     and recommendations team, for me personally, was this is one team that works very
     closely with data science. The relevance team is a big contributor to the success
@@ -1163,7 +1176,6 @@ transcript:
   sec: 3206
   time: '53:26'
   who: Sadat
-- header: Transitioning to DS management from other roles
 - line: We have a few questions. One of the questions is… I don't know if you can
     answer this, but maybe you saw some of your colleagues do this. The question is,
     “What are the challenges of getting a data science managerial position from other
@@ -1173,6 +1185,8 @@ transcript:
   sec: 3212
   time: '53:32'
   who: Alexey
+- header: 'Transitioning from Data Engineering/Analytics to Data Science Manager:
+    Advice'
 - line: Right. I guess it shouldn't be difficult, depending on what your hiring manager
     or the potential team that your company that you're applying to – what they're
     looking for. I would say, with that experience – so if you have experience as
@@ -1233,7 +1247,6 @@ transcript:
   sec: 3326
   time: '55:26'
   who: Alexey
-- header: How to feel accomplished as a manager
 - line: Accomplishments. That's a better name. It's still called “brag list” on my
     Google Docs.
   sec: 3326
@@ -1291,6 +1304,8 @@ transcript:
   sec: 3450
   time: '57:30'
   who: Alexey
+- header: 'Measuring Managerial Impact: Influence, Business Value, and Team Health
+    Metrics'
 - line: For example, there’s one thing that I do look out for – this isn’t very concrete.
     What I do look out for, for example, now as a data science manager, I have a lot
     of interactions with stakeholders and product managers, and engineering managers
@@ -1310,12 +1325,12 @@ transcript:
   sec: 3497
   time: '58:17'
   who: Sadat
-- header: Sadat’s book recommendations
 - line: '[laughs] Okay. Do you have any books or other resources in mind that you
     can recommend to the listeners?'
   sec: 3508
   time: '58:28'
   who: Alexey
+- header: 'Recommended Reading: The Manager''s Path and No Rules Rules (Team Culture)'
 - line: I have read a few books on management. I can recommend a few books on management.
     But my style has always been “Ride a bicycle to learn how to ride a bicycle.”
     You have to do it before in order to understand how it's done. It's a very agile
@@ -1353,7 +1368,7 @@ transcript:
   sec: 3584
   time: '59:44'
   who: Sadat
-- header: Sadat’s meetups
+- header: 'Community Event: Search Meetup — "Bias in AI: How to Measure and Fix It"'
 - line: When is the next Search Meetup meeting?
   sec: 3620
   time: '1:00:20'
@@ -1369,6 +1384,7 @@ transcript:
   sec: 3622
   time: '1:00:22'
   who: Sadat
+- header: Podcast Closing and Final Remarks
 - line: I don't promise that. [chuckles] But you will definitely see Sadat. [Sadat
     agrees] Okay. Well, thanks a lot, Sadat. It was a pleasure talking to you. Thanks
     for sharing all these stories, your experience. That was fun. Thanks, everyone,

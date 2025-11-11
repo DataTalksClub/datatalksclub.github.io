@@ -15,6 +15,7 @@ season: 13
 short: Building an Open-Source NLP Tool
 title: 'Improve NLP Labeling with Weak Supervision: Refinery, Bricks & GPT Heuristics'
 transcript:
+- header: Podcast Introduction
 - line: Today we will talk about open source and creating startups in open source
     and we have a special guest today, Johannes. Johannes is a data scientist and
     engineer and he is a co-founder of Kern. He likes machine learning, data management,
@@ -33,7 +34,7 @@ transcript:
   sec: 91
   time: '1:31'
   who: Alexey
-- header: Johannes’s background
+- header: Background & early AI curiosity
 - line: Before we start – before we go into our main topic of starting an open source
     startup, let's start with your background. Can you tell us about your career journey
     so far?
@@ -103,7 +104,7 @@ transcript:
   sec: 241
   time: '4:01'
   who: Johannes
-- header: Johannes’s Open Source Spotlight demos – Refinery and Bricks
+- header: 'Open-source demos overview: Refinery and Bricks'
 - line: So, Johannes, this is not the first time you appear on our YouTube channel.
     You appeared twice before that. We have this thing called Open Source spotlight,
     where we invite open source authors and ask them to demo their tools. You already
@@ -139,6 +140,7 @@ transcript:
   sec: 380
   time: '6:20'
   who: Alexey
+- header: 'Refinery features: weak supervision & labeling workflows'
 - line: Yes. We basically had two questions in mind. Also, previous to the launch,
     we also already worked with a dozen of data science teams. One idea was basically,
     “What can I do if I just have the raw data and I want to quickly label a lot of
@@ -178,6 +180,7 @@ transcript:
   sec: 393
   time: '6:33'
   who: Johannes
+- header: Jupyter widgets gap and NLP tooling needs
 - line: I'm wondering why… This problem is not new to me personally, and I think for
     many data scientists. Ever since I started doing data science, I think even before
     my first real full-time job, it was already a problem. I remember solving this
@@ -200,7 +203,7 @@ transcript:
   sec: 602
   time: '10:02'
   who: Johannes
-- header: The difficulties of working with natural language processing (NLP)
+- header: 'NLP challenges: text metadata and messy labels'
 - line: So these widgets didn't really work for NLP, right? It's much harder.
   sec: 614
   time: '10:14'
@@ -259,7 +262,7 @@ transcript:
   sec: 779
   time: '12:59'
   who: Johannes
-- header: Incorporating ChatGPT into a process as a heuristic
+- header: ChatGPT as a labeling heuristic
 - line: GPT-3 was around for quite some time already when ChatGPT was released. [Johannes
     agrees] So your research was about NLP right? Probably for this, you needed to
     label data. Right? And that's how Refinery appeared?
@@ -308,6 +311,7 @@ transcript:
   sec: 951
   time: '15:51'
   who: Alexey
+- header: 'Combining heuristics: GPT, active learning, crowd labels'
 - line: Yeah. For instance, very simply, let's say we want to build an intent classifier.
     We have an email inbox, emails are coming in, and we want to understand, “Are
     they about cancellations? Are they about feedback?” Whatever. We want to understand
@@ -335,6 +339,7 @@ transcript:
   sec: 1046
   time: '17:26'
   who: Alexey
+- header: 'Foundations: Hugging Face, embeddings, and data management'
 - line: Yeah, I think so. As I mentioned initially, I think we finally would not exist
     if, for instance, Hugging Face would not exist, because that's something that
     we already see as one of the key foundations where we finally said, “We can build
@@ -352,7 +357,7 @@ transcript:
   sec: 1054
   time: '17:34'
   who: Johannes
-- header: What is Bricks?
+- header: 'Bricks: heuristic library, recipes, and ensemble methods'
 - line: And by “bricks,” you mean this other project that you mentioned in the beginning
     and the other project we also demoed at Open Source Spotlight, which is this collection
     of different recipes that people can just grab and use?
@@ -382,6 +387,7 @@ transcript:
   sec: 1178
   time: '19:38'
   who: Alexey
+- header: 'Weak supervision analogy: heuristics as ensemble workers'
 - line: Exactly. And the thing with weak supervision, mainly, is that – of course,
     weak supervision has different kinds of implementation, so you can have different
     kinds of strategies of how you want to make use of those single workers. But the
@@ -393,7 +399,7 @@ transcript:
   sec: 1188
   time: '19:48'
   who: Johannes
-- header: The process of starting a startup – Kern
+- header: 'Productization: consultancy to Kern and product pivot'
 - line: Okay, you have this cool project – multiple cool projects – and at some point,
     you decided that you should start a company to actually focus on this project.
     How did this happen? Can you walk us through the process?
@@ -469,6 +475,7 @@ transcript:
   sec: 1429
   time: '23:49'
   who: Alexey
+- header: 'Targeting engineers: control over training data'
 - line: Exactly. That's kind of the shift that we had. One of the insights that we
     had with the first bad product was that we didn't yet understand… We understood
     what our users wanted, but not that they didn't want to build it themselves. So
@@ -507,7 +514,7 @@ transcript:
   sec: 1440
   time: '24:00'
   who: Johannes
-- header: Making the decision to go with open source
+- header: 'Choosing open source: motivations and concerns'
 - line: I was just going to ask you how exactly you made this decision. So you attended
     conferences. Was it your realization that you need to open source so that more
     people try it? Or was this something you heard from other people at the conferences?
@@ -544,7 +551,7 @@ transcript:
   sec: 1660
   time: '27:40'
   who: Johannes
-- header: Pros and cons of launching as open source
+- header: 'Open-source trade-offs: distribution versus revenue'
 - line: So you had some fears of opening all the code. Did any of these fears, actually,
     realize? Did any of the things you were afraid of actually happen? Now everyone
     could just go and open the code and get the insight of your years of research.
@@ -583,6 +590,7 @@ transcript:
   sec: 1796
   time: '29:56'
   who: Alexey
+- header: 'Open-source adoption: free users vs paying customers'
 - line: Exactly. The open source version, I really must say, is a really good product.
     It's basically already offering so many things, because we really tried to make
     it a big open source. We didn't want to make this as a “marketing gimmick,” so
@@ -612,7 +620,7 @@ transcript:
   sec: 1799
   time: '29:59'
   who: Johannes
-- header: Kern’s business model
+- header: 'Business model: open-core, multi-user SaaS, and services'
 - line: So what's your business model? From what I understood regarding what you just
     said, you have the open source library and then there are some enterprises that
     use this library – you support them and share the knowledge you already have.
@@ -649,6 +657,7 @@ transcript:
   sec: 2033
   time: '33:53'
   who: Alexey
+- header: 'Enterprise engagements: workshops, customization, and domain expertise'
 - line: It's both. I would say for the developers, it's mostly that they contact us
     and they say “I want to build the following,” then it's mostly just giving them
     the software and supporting them. Then they reach out to us with use cases that
@@ -685,6 +694,7 @@ transcript:
   sec: 2144
   time: '35:44'
   who: Alexey
+- header: 'Community support: Discord, workarounds, and feedback loops'
 - line: Honestly, when they share it with us on Discord – and I'm not kidding, you
     can look into our Discord – we help them with that workaround. Basically, we had
     one that I'm going to share because you can look into our Discord and see it anyway.
@@ -728,7 +738,7 @@ transcript:
   sec: 2284
   time: '38:04'
   who: Johannes
-- header: Working with enterprises
+- header: 'Enterprise outreach: networking and segment strategies'
 - line: You mentioned that for this second income source (consulting), you find enterprises,
     for example insurance companies, and then you come to them with a use case already.
     You say, “Okay, we think that a company like yours will benefit from this use
@@ -763,7 +773,7 @@ transcript:
   sec: 2340
   time: '39:00'
   who: Johannes
-- header: Johannes as a salesperson
+- header: 'Developer-focused sales: DevRel, education, and trust-building'
 - line: Do you do this sales part yourself, or are there people in your team who take
     care of that?
   sec: 2421
@@ -814,7 +824,7 @@ transcript:
   sec: 2462
   time: '41:02'
   who: Johannes
-- header: The team at Kern
+- header: 'Team structure: development, developer relations, go-to-market'
 - line: Okay, that's interesting. But right now you have people who help you with
     that. Who do you actually have on the team? What kind of roles do you already
     have?
@@ -884,7 +894,7 @@ transcript:
   sec: 2794
   time: '46:34'
   who: Johannes
-- header: Johannes’s role at Kern
+- header: 'Founder role evolution: prototyping, GTM, and coding balance'
 - line: Interesting. And what exactly do you do? All three and more?
   sec: 2840
   time: '47:20'
@@ -932,7 +942,7 @@ transcript:
   sec: 2955
   time: '49:15'
   who: Johannes
-- header: How Johannes and Henrik separate responsibilities at Kern
+- header: 'Co-founder division: complementary strengths and responsibilities'
 - line: How did you come up with this separation of responsibilities? Was it something
     natural or you just decided to sit down and discuss it?
   sec: 2991
@@ -982,7 +992,7 @@ transcript:
   sec: 3117
   time: '51:57'
   who: Johannes
-- header: Working with very niche use cases
+- header: 'Niche use cases: PDF and document NLP challenges'
 - line: That sounds like a cool project. I guess one of your clients has this use
     case, right? Or maybe multiple clients – they have a bunch of PDFs and they need
     to do some NLP on these PDFs, right?
@@ -1043,6 +1053,7 @@ transcript:
   sec: 3339
   time: '55:39'
   who: Alexey
+- header: Open source as trust-builder with developer teams
 - line: Exactly. That's not just for documents. But for documents that's what we're
     currently trying to figure out a bit. But it's also something for natural language
     processing. Very often, you go into the companies, and you see that there are
@@ -1061,7 +1072,7 @@ transcript:
   sec: 3363
   time: '56:03'
   who: Johannes
-- header: The short story of how Kern got its funding
+- header: 'Fundraising recap: 2.7M raise and investor interest in open source ML'
 - line: I just realized that I did not ask you about that. First of all, congratulations
     on getting funding of 2.7 million – very nice. I wanted to ask you, how did you
     actually get it and what the process was. I don't think we have a lot of time,
@@ -1113,7 +1124,7 @@ transcript:
   sec: 3569
   time: '59:29'
   who: Johannes
-- header: Johannes’s resource recommendation
+- header: 'Recommended reading: Prediction Machines (applied AI economics)'
 - line: Maybe the last question before we wrap up. So you know any resources or books
     or anything that you want to recommend to our listeners about the topic of starting
     an open source startup?
@@ -1141,6 +1152,7 @@ transcript:
   sec: 3672
   time: '1:01:12'
   who: Johannes
+- header: Podcast Outro and closing remarks
 - line: Okay. Thanks, Johannes, for joining us today, for sharing your experience
     with us. It was really nice talking to you. And thanks, everyone, also for joining
     us today and listening in.

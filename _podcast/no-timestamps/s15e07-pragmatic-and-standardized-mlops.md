@@ -16,6 +16,8 @@ short: Pragmatic and Standardized MLOps
 title: 'Pragmatic MLOps: Build Standardized CI/CD, Model Registries, Monitoring &
   Org Best Practices'
 transcript:
+- header: Podcast Introduction
+- header: 'Episode Overview: Pragmatic and Standardized MLOps with Maria Vechtomova'
 - line: This week, we'll talk about MLOps. We'll talk about pragmatic and standardized
     MLOps. Actually, we just finished our MLOps course. For the students who just
     graduated, this will be a very interesting and relevant video, in addition to
@@ -48,7 +50,8 @@ transcript:
   sec: 178
   time: '2:58'
   who: Alexey
-- header: Maria's background
+- header: 'Background: Early career in data, econometrics, R to Python, and early
+    MLOps work'
 - line: Before we go into the main topic of our interview today, which is MLOps, let's
     start with your background. Can you tell us about your career journey so far?
   sec: 187
@@ -98,6 +101,7 @@ transcript:
   sec: 253
   time: '4:13'
   who: Maria
+- header: 'Early MLOps stacks: Teradata Aster, custom metadata, and orchestration'
 - line: Do you remember what the first stack was? What did it look like?
   sec: 345
   time: '5:45'
@@ -141,6 +145,7 @@ transcript:
   sec: 380
   time: '6:20'
   who: Maria
+- header: 'Role Overview: MLOps Tech Lead / Manager of Machine Learning Engineering'
 - line: Interesting. So you started doing MLOps before it was a thing, when you were
     a data scientist. And now, your title was ML Engineer, right?
   sec: 483
@@ -184,7 +189,7 @@ transcript:
   sec: 556
   time: '9:16'
   who: Maria
-- header: Marvelous MLOps
+- header: 'Marvelous MLOps: blog, LinkedIn presence, and content cadence'
 - line: What's this Marvelous MLOps that you mentioned?
   sec: 585
   time: '9:45'
@@ -213,7 +218,7 @@ transcript:
   sec: 657
   time: '10:57'
   who: Maria
-- header: Maria's definition of MLOps
+- header: 'Defining MLOps: enablement, reproducibility, and teaching data scientists'
 - line: Which is the topic of today's interview, right? Maybe if we take a step back
     – I'm curious to know your definition of MLOps. What is MLOps in your opinion?
   sec: 670
@@ -238,6 +243,8 @@ transcript:
   sec: 723
   time: '12:03'
   who: Alexey
+- header: 'Central MLOps team responsibilities: infrastructure, reusable CI/CD, and
+    monitoring'
 - line: Yeah, so how I see the MLOps team – it is a team that provides MLOps infrastructure.
     It deploys the tools that are being used for MLOps. They also provide things like
     maybe reusable CI/CD pipelines, the authentication mechanisms – it's all done
@@ -271,7 +278,7 @@ transcript:
   sec: 863
   time: '14:23'
   who: Maria
-- header: Alternate team setups without a central MLOps team
+- header: 'Toollandscape overload: MAD landscape, FOMO, and organizational challenges'
 - line: I'm also curious to know if there is any other kind of setup where there is
     no centralized team for MLOps and the teams are kind of still doing this. Because
     in my case, it was a very similar setup – there was a centralized MLOps team.
@@ -306,6 +313,8 @@ transcript:
   sec: 983
   time: '16:23'
   who: Alexey
+- header: 'Pragmatic MLOps: leverage existing infra (Kubernetes, Git, CI/CD) not new
+    tools'
 - line: It's madness. It's really madness. And it's not helping anyone. I think it
     creates imposter syndrome, where people think they don't know anything and that
     there are so many tools. But the fact is that – buying any tool won't really solve
@@ -328,7 +337,6 @@ transcript:
   sec: 987
   time: '16:27'
   who: Maria
-- header: Pragmatic vs non-pragmatic MLOps
 - line: So that's the pragmatic part. The non-pragmatic part is trying to look at
     this landscape and have this fear of missing out like, “Oh, I need all these tools!”
   sec: 1075
@@ -350,7 +358,8 @@ transcript:
   sec: 1106
   time: '18:26'
   who: Maria
-- header: Must-have ML tools (categories)
+- header: 'Essential MLOps stack: version control, CI/CD, registries, model registry,
+    deployment, monitoring'
 - line: So what is a “must-have” set of tools that we need to have? What are the categories?
     I imagine maybe there are some categories that we can introduce later – but at
     the beginning, we just need just the basic ones that cover 80% of cases.
@@ -389,6 +398,7 @@ transcript:
   sec: 1247
   time: '20:47'
   who: Alexey
+- header: 'Model artifacts & registry options: Artifactory, S3, and MLflow alternatives'
 - line: Artifactory, it's like a package registry or any object registry, really.
     You can have pipelines hosted there even. You can also upload any files there
     and you can assign attributes to those files so they become searchable. They also
@@ -412,7 +422,8 @@ transcript:
   sec: 1249
   time: '20:49'
   who: Maria
-- header: Maturity assessment
+- header: 'MLOps maturity assessment: documentation, reproducibility, code quality,
+    and testing'
 - line: You said there are 60 questions in this spreadsheet, right? Do you remember
     what kind of... Well, maybe we will not go into all 60, but maybe you remember
     what kind of categories of questions there are?
@@ -442,7 +453,8 @@ transcript:
   sec: 1356
   time: '22:36'
   who: Maria
-- header: What to start with in MLOps
+- header: 'Startup priorities: reproducibility, versioning, traceability as first
+    steps'
 - line: Well, I Imagine that if you work at a startup and let's say you already рave
     your first model or maybe their first multiple models – at least in my experience,  you
     often deploy them in “you only live once” mode, like “Okay, let's just deploy.
@@ -491,6 +503,7 @@ transcript:
   sec: 1560
   time: '26:00'
   who: Maria
+- header: 'Team organization: centralized MLOps vs. embedded feature teams and guardrails'
 - line: So if we come back to our discussion about pragmatic MLOps, maybe we can somehow
     summarize what exactly is pragmatic and how we can be pragmatic about MLOps?
   sec: 1626
@@ -518,7 +531,6 @@ transcript:
   sec: 1640
   time: '27:20'
   who: Maria
-- header: Standardized MLOps
 - line: So you probably already have all the tools you need – so start with those.
     Then think about the structure of your teams, how exactly they're organized, “Are
     you helping data scientists or you're just blocking them and you're annoying them?”
@@ -538,6 +550,8 @@ transcript:
   sec: 1722
   time: '28:42'
   who: Alexey
+- header: 'Standardization: cookie‑cutter repos, service principals, and Databricks
+    integration'
 - line: 'Yeah, I guess so. I think the choice of the tooling is related to standardization.
     We work in a large corporate organization with 19 brands all over the world –
     a lot in Europe: Greece, Serbia, Romania, Czech Republic – we also have brands
@@ -583,6 +597,8 @@ transcript:
   sec: 1929
   time: '32:09'
   who: Alexey
+- header: 'Production best practices: move logic from notebooks to packages and CI/CD
+    pipelines'
 - line: So how we see this is that main.py needs to be replaced with your actual logic.
     You still need to create a package. We utilize Databricks through data scientists
     by using notebooks, but likely the Databricks notebooks are not just Jupyter Notebooks
@@ -600,6 +616,8 @@ transcript:
   sec: 2004
   time: '33:24'
   who: Maria
+- header: 'Implementation timeline: technical build vs. organizational buy‑in and
+    permissions'
 - line: Amazing. How long did it take to implement this?
   sec: 2069
   time: '34:29'
@@ -629,7 +647,8 @@ transcript:
   sec: 2119
   time: '35:19'
   who: Maria
-- header: Convincing DevOps to implement
+- header: 'Securing DevOps buy‑in: expose pain, deliver standards, and enable internal
+    audit'
 - line: Did you do this yourself as a tech lead? [Maria agrees] Do you have any tips
     on how to address that if  somebody is also facing some hesitation from the DevOps
     team?
@@ -682,6 +701,7 @@ transcript:
   sec: 2266
   time: '37:46'
   who: Maria
+- header: 'Team composition: small senior ML engineering team building MLOps platform'
 - line: Okay. How large is the team? Who was on that team? In order to implement something
     like this cookie cutter template, reusable CI/CD pipelines – you need engineers,
     somebody who implements that. So who and how many people did you have on that
@@ -724,7 +744,7 @@ transcript:
   sec: 2350
   time: '39:10'
   who: Maria
-- header: Understanding what the tools are used for instead of knowing all the tools
+- header: 'Tool‑agnostic skills: learn fundamentals and stitch tools together end-to-end'
 - line: What is also interesting, and the reason I'm asking that, is because in our
     MLOps course, we try to cover the fundamentals. We break down what we think MLOps
     is into multiple areas, which is something like experiment tracking, machine learning
@@ -784,7 +804,7 @@ transcript:
   sec: 2568
   time: '42:48'
   who: Maria
-- header: Maria's next project plans
+- header: 'Roadmap priorities: monitoring standardization, A/B testing, and LLM pilots'
 - line: What are your plans? What do you want to do next? You already told us that
     you have this amazing cookie cutter template for standardization, which makes
     it super easy for the feature teams, for the product teams, to deploy the models.
@@ -831,7 +851,7 @@ transcript:
   sec: 2711
   time: '45:11'
   who: Maria
-- header: Is LLM Ops a thing?
+- header: 'LLM Ops perspective: hype, cost, GPU constraints, and multilingual limits'
 - line: We'll have to interview you again, I guess. [Maria chuckles] For others, I'm
     pretty sure you will probably cover it to some extent somewhere on LinkedIn or
     maybe in a newsletter. [Maria agrees] Since you mentioned LLMs – I see now that
@@ -891,7 +911,7 @@ transcript:
   sec: 2965
   time: '49:25'
   who: Maria
-- header: What Ahold Delhaize does
+- header: 'Retail use cases: demand forecasting, personalization, and loyalty programs'
 - line: So you mostly work with retail?
   sec: 2982
   time: '49:42'
@@ -951,6 +971,8 @@ transcript:
   sec: 3067
   time: '51:07'
   who: Maria
+- header: 'Cross‑brand model: centralized MLOps support for smaller brands and cooperation
+    with large brands'
 - line: Does each of these brands have a separate team – and separate a bunch of teams
     – for data science and they do data science separately from the rest of the organization?
   sec: 3084
@@ -998,7 +1020,8 @@ transcript:
   sec: 3204
   time: '53:24'
   who: Alexey
-- header: Resource recommendations to learn more about MLOps
+- header: 'Learning recommendations: hands‑on projects, MLOps Zoomcamp, and pairing
+    with engineers'
 - line: There is one question, “What is the course that you take to become an MLOps
     engineer?”
   sec: 3245
@@ -1042,6 +1065,7 @@ transcript:
   sec: 3331
   time: '55:31'
   who: Maria
+- header: 'Skill balance: ML fundamentals plus software engineering and system design'
 - line: In your opinion, how much machine learning should machine learning engineers
     know?
   sec: 3368
@@ -1066,7 +1090,8 @@ transcript:
   sec: 3389
   time: '56:29'
   who: Maria
-- header: The importance of data engineering knowledge for ML engineers
+- header: 'Data engineering importance: pipeline design, optimization, and data quality
+    for MLOps'
 - line: Do you think ML engineers need to know some data engineering?
   sec: 3434
   time: '57:14'
@@ -1091,6 +1116,7 @@ transcript:
   sec: 3475
   time: '57:55'
   who: Maria
+- header: 'Closing Remarks: upcoming course, LLM updates, and follow Marvelous MLOps'
 - line: Okay. Actually, the question I was going to ask at the end is, “Any resource
     recommendation?” But I think we covered that. I'm looking at the time and I think
     we should be wrapping up so I want to thank you, Maria, for joining us today.

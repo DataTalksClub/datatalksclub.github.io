@@ -15,7 +15,7 @@ season: 22
 short: 'Lessons from Applied AI: Tesla, Waymo, and Beyond'
 title: 'Autonomous Driving AI: LiDAR vs Camera, On-Vehicle Inference & Model Compression'
 transcript:
-- header: Aishwarya’s career journey from finance to self-driving AI
+- header: Podcast Introduction
 - line: Hey everyone, welcome to our event. This event is brought to you by DataTalks.Club,
     a community of people who love data. We have weekly events, and today is one of
     them. If you want to find out more about the events we have, there is a link in
@@ -55,6 +55,7 @@ transcript:
   sec: 92
   time: '1:32'
   who: Aishwarya
+- header: 'Guest Bio & Career Overview: Finance to Self-Driving AI'
 - line: 'Good. Aishwarya is a Machine Learning Engineer at Waymo, formerly part of
     Tesla''s Autopilot AI team and a Carnegie Mellon University alumna. She has worked
     across some of the toughest applied AI problems: financial recommendation systems
@@ -77,6 +78,7 @@ transcript:
   sec: 132
   time: '2:12'
   who: Alexey
+- header: 'Morgan Stanley: Big Data Engineering & Transition to ML'
 - line: Like you mentioned, at Morgan Stanley it was a lot of data. I was a Big Data
     Engineer there and handled huge amounts of data. I was there when Morgan Stanley
     was doing the acquisition of E*TRADE, so we had much more data coming in. My role
@@ -93,6 +95,7 @@ transcript:
   sec: 196
   time: '3:16'
   who: Aishwarya
+- header: 'Carnegie Mellon: Research Focus & Computer Vision Projects'
 - line: I started with that and then got more research-oriented. We tried out graph
     neural networks, which were more complex topics at the time, and I realized there
     was so much to learn and the field was vast. That’s when I decided to pursue a
@@ -115,7 +118,7 @@ transcript:
   sec: 334
   time: '5:34'
   who: Aishwarya
-- header: Building AI guide dog for the visually impaired
+- header: 'AI Guide Dog: Mobile Navigation for the Visually Impaired'
 - line: That’s an interesting journey. The app that you developed for blind people,
     can you tell us more about it? How does it work? Do they hold their phone and
     it tells them where to go or describes things?
@@ -181,6 +184,7 @@ transcript:
   sec: 547
   time: '9:07'
   who: Alexey
+- header: 'AI Guide Dog: Beta Testing, Iterative Development, Hardware Constraints'
 - line: Not yet. The next community of students will be working on the app. We have
     the model, but it’s still in the beta phase. We are doing a lot of testing because
     it’s a sensitive use case.
@@ -216,6 +220,7 @@ transcript:
   sec: 645
   time: '10:45'
   who: Alexey
+- header: 'Sensor Tradeoffs: LiDAR, Radar, and Cost Considerations'
 - line: Yes, those are the things we’re trying to work around. It needs to be cost-efficient,
     and we can’t afford to use expensive hardware like LiDAR. Since everyone already
     has a mobile phone, we’re trying to make it work with what people already have.
@@ -231,7 +236,7 @@ transcript:
   sec: 710
   time: '11:50'
   who: Aishwarya
-- header: Exploring LiDAR, radar, and Tesla’s camera-based approach
+- header: 'LiDAR vs Cameras: Principles and Automotive Use Cases'
 - line: How do you pronounce it? LiDAR?
   sec: 718
   time: '11:58'
@@ -285,6 +290,7 @@ transcript:
   sec: 880
   time: '14:40'
   who: Aishwarya
+- header: 'Tesla''s Camera-First Perception: 360° Vision without LiDAR'
 - line: Thank you. Could you please repeat how the Tesla visualization system works?
     Does it only use video cameras?
   sec: 885
@@ -307,7 +313,7 @@ transcript:
   sec: 954
   time: '15:54'
   who: Alexey
-- header: Trust, regulation, and challenges in self-driving adoption
+- header: 'Autopilot Use Cases: Driver Assistance vs Full Autonomy'
 - line: But what is this screen for? The self-driving system is there, but in the
     taxis I took, the drivers were still driving. So what’s the point of the screen?
   sec: 966
@@ -408,7 +414,7 @@ transcript:
   sec: 1179
   time: '19:39'
   who: Aishwarya
-- header: Waymo, ride-hailing, and gesture recognition for traffic control
+- header: 'Waymo Ride-Hailing: App, Service Model, and Driverless Rides'
 - line: Is there an app called Waymo?
   sec: 1181
   time: '19:41'
@@ -419,6 +425,7 @@ transcript:
   sec: 1186
   time: '19:46'
   who: Aishwarya
+- header: 'Gesture Recognition for Traffic Control: Police & Construction Signals'
 - line: How much about your current position can you talk about? You mentioned you
     work on gesture recognition. Can you tell us more about that?
   sec: 1197
@@ -455,6 +462,7 @@ transcript:
   sec: 1296
   time: '21:36'
   who: Aishwarya
+- header: 'On-Vehicle Inference: Performance Constraints and Optimization'
 - line: How much can you talk about this project? What kind of technology do you use,
     and how fast does it need to be to make decisions in real time?
   sec: 1337
@@ -468,6 +476,7 @@ transcript:
   sec: 1363
   time: '22:43'
   who: Aishwarya
+- header: 'Model Compression Techniques: Quantization and Speedups'
 - line: What is this process called when you take a big model and make it smaller
     and faster?
   sec: 1408
@@ -479,7 +488,7 @@ transcript:
   sec: 1415
   time: '23:35'
   who: Aishwarya
-- header: Malaria mapping in Africa and AI for social good
+- header: 'Malaria Mapping: AI for Social Good Using Satellite & Topographic Data'
 - line: I do not want to put you in an uncomfortable position by asking too many details.
     One project I find interesting is the malaria mapping project in Africa. Can you
     tell us more about that?
@@ -514,6 +523,7 @@ transcript:
   sec: 1584
   time: '26:24'
   who: Aishwarya
+- header: 'Malaria Project Impact: Field Feedback and Resource Optimization'
 - line: That sounds interesting. How accurate was this approach? Did they share feedback
     from the ground?
   sec: 1623
@@ -559,7 +569,7 @@ transcript:
   sec: 1751
   time: '29:11'
   who: Aishwarya
-- header: Deployment, safety, and testing in self-driving systems
+- header: 'Validation Pipeline: Simulation, Closed Tracks, and On-Road Testing'
 - line: How do you test those systems before putting them on the road?
   sec: 1785
   time: '29:45'
@@ -581,6 +591,7 @@ transcript:
   sec: 1835
   time: '30:35'
   who: Aishwarya
+- header: 'Sensor Data Management: Collection, Privacy, and Scale'
 - line: What kind of data do you collect from the cars?
   sec: 1862
   time: '31:02'
@@ -601,6 +612,7 @@ transcript:
   sec: 1902
   time: '31:42'
   who: Aishwarya
+- header: 'Labeling Strategy: Human Annotation and Automated Labeling'
 - line: Do you use human labelers or automatic labeling for that data?
   sec: 1929
   time: '32:09'
@@ -611,6 +623,7 @@ transcript:
   sec: 1934
   time: '32:14'
   who: Aishwarya
+- header: 'Model Release Cadence: Safety Checks and Staged Deployments'
 - line: How often do you update the models in the cars?
   sec: 1963
   time: '32:43'
@@ -672,6 +685,7 @@ transcript:
   sec: 2143
   time: '35:43'
   who: Aishwarya
+- header: 'Cross-Domain Transfer: Perception Techniques for Robotics & Drones'
 - line: How much of this technology is transferable to other domains?
   sec: 2172
   time: '36:12'
@@ -692,7 +706,7 @@ transcript:
   sec: 2209
   time: '36:49'
   who: Aishwarya
-- header: Transition from NLP to computer vision and deep learning
+- header: 'Real-World Complexity: Edge Cases, Geography, and System Coordination'
 - line: That’s great. What’s one thing you learned from working at Waymo that surprised
     you?
   sec: 2238
@@ -801,12 +815,12 @@ transcript:
   sec: 2596
   time: '43:16'
   who: Alexey
-- header: Reinforcement learning, robotics, and self-driving constraints
 - line: That is so good now. It wasn’t there back when we were in school and college
     doing assignments. Where was ChatGPT then?
   sec: 2618
   time: '43:38'
   who: Aishwarya
+- header: 'Reinforcement Learning vs Perception: Roles and Practical Constraints'
 - line: Interesting that you mentioned you didn’t have any prior experience with reinforcement
     learning because I thought reinforcement learning is something used quite often
     for driving too. For me, before this whole LLM space appeared, AI meant machine
@@ -922,7 +936,7 @@ transcript:
   sec: 3062
   time: '51:02'
   who: Aishwarya
-- header: Testing processes, evaluations, and staged rollouts for autonomous driving
+- header: 'Testing Sensitive Cases: Evaluation Stages and Inherited Tests'
 - line: 'There’s a question from Adonis: how does testing work for sensitive cases
     like autonomous driving? Do developers inherit tests, or are there stages? How
     is testing organized?'
@@ -941,7 +955,7 @@ transcript:
   sec: 3136
   time: '52:16'
   who: Aishwarya
-- header: Can multimodal LLMs be applied to self-driving?
+- header: 'Multimodal LLMs in Autonomous Driving: Research and Practical Challenges'
 - line: Another question about LLMs. We already talked about how they can do computer
     vision, but they are slow. Can they be applied to self-driving? Does it make sense
     to use generative models for that?
@@ -972,7 +986,7 @@ transcript:
   sec: 3293
   time: '54:53'
   who: Aishwarya
-- header: How to get started in self-driving AI careers
+- header: 'Career Pathways: Skills, Projects, and Entry Routes into Self-Driving AI'
 - line: Okay, maybe last question. If I want to work on self-driving cars, what should
     I do? What should I study? How can I get into this industry?
   sec: 3325
@@ -990,6 +1004,7 @@ transcript:
   sec: 3372
   time: '56:12'
   who: Aishwarya
+- header: 'Practical Projects & Tools: Vision Apps, LLMs, and Coding Agents'
 - line: So, a good pet project could be building an app that uses your camera to describe
     objects in your room. It could say there’s a bed, a clock, and so on.
   sec: 3384
@@ -1035,6 +1050,7 @@ transcript:
   sec: 3503
   time: '58:23'
   who: Aishwarya
+- header: Closing Remarks and Final Advice
 - line: Okay, it was amazing talking to you. Thanks a lot. I’m glad we made it work.
     Sorry you were sick. I hope you recover quickly. It’s late for you, so you should
     rest, and I’ll go have breakfast.

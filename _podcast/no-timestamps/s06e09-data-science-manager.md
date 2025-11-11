@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/28Sy4owRwvSJRFTeKAamz2
   apple: https://podcasts.apple.com/us/podcast/becoming-a-data-science-manager-mariano-semelman/id1541710331?i=1000547222296
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Intro: Mariano Semelman, Head of Data Science at OLX'
 - line: This week, we'll talk about the role of data science manager. We have a special
     guest today, Mariano. Mariano is actually my colleague and works as head of data
     science at OLX group. I think Mariano joined quite a while before me. You've been
@@ -36,6 +38,7 @@ transcript:
   sec: 108
   time: '1:48'
   who: Alexey
+- header: Passion for Product Applications in Data Science
 - line: With product applications. Yes. I am obsessed with the application of data
     science. That's the area that I enjoy the most.
   sec: 140
@@ -52,7 +55,7 @@ transcript:
   sec: 155
   time: '2:35'
   who: Mariano
-- header: Mariano’s background
+- header: 'Career Journey: Software Dev to Data Science Leadership'
 - line: Yeah, indeed. Actually, I wanted to get somebody on the DataTalks.Club podcast
     to talk about the experience of transitioning from an individual contributor role
     to a managerial role, and I couldn't think of anyone better for this conversation
@@ -89,7 +92,7 @@ transcript:
   sec: 207
   time: '3:27'
   who: Mariano
-- header: Typical day of a manager
+- header: 'Daily Responsibilities: Meetings, Mentoring & Planning'
 - line: '[laughs] I was thinking “Okay how am I going to stop you?” [laughs] I’m just
     joking. Tell us a bit more about what you do as a manager. What does your day
     look like?'
@@ -123,6 +126,7 @@ transcript:
   sec: 471
   time: '7:51'
   who: Alexey
+- header: 'Team Composition: Data Scientists and ML Engineers'
 - line: It's always changing. I think when I started as a manager it was five, then
     seven at some point, then four. Now I think it's eight-nine people. They all have
     different seniority levels and roles. We have data scientists and machine learning
@@ -132,7 +136,7 @@ transcript:
   sec: 474
   time: '7:54'
   who: Mariano
-- header: Becoming a manager
+- header: 'Transition to Management: First Team of Five'
 - line: You said when you became a data science manager, five people reported to you
     – you needed to manage five people. That's quite a drastic change from having
     zero people reporting to you.
@@ -162,6 +166,7 @@ transcript:
   sec: 640
   time: '10:40'
   who: Alexey
+- header: 'Decision Mindset: Saying Yes and Learning on the Job'
 - line: Very good question. At that point it was more like, “Are you interested in
     this? It will help the company a lot.” It was with my current manager, Andreas,
     who said “We need to start growing the team and have more people training.” It’s
@@ -178,13 +183,13 @@ transcript:
   sec: 651
   time: '10:51'
   who: Mariano
-- header: Preparing for the transition
 - line: So you agreed and then the next day, you woke up being a manager with five
     people reporting to you? What was the first thing you did when you found yourself
     managing a team?
   sec: 758
   time: '12:38'
   who: Alexey
+- header: '30‑60‑90 Plan: Onboarding, Listening, and Learning'
 - line: I think I got to know about it a few months in advance. Until it's announced
     and doesn’t actually happen, you don't know if it will happen. As soon as I knew
     that they wanted to put me in the position, I had one month or so to prepare myself.
@@ -209,7 +214,6 @@ transcript:
   sec: 772
   time: '12:52'
   who: Mariano
-- header: Balancing projects and assumptions
 - line: How did you organize that? Did you ask them to onboard you? Did you go through
     the code? What exactly did you do there? I don't know how many projects there
     were, but with five people, I imagine it was like three to five projects for you
@@ -217,6 +221,7 @@ transcript:
   sec: 897
   time: '14:57'
   who: Alexey
+- header: 'Project Onboarding: Rapid Learning and Trusting Reports'
 - line: Maybe more. It was people that were already in the company for some time,
     so all of them have at least one active project, plus one, two or maybe three
     that they have already put in production at some point, and were maybe maintaining
@@ -246,6 +251,7 @@ transcript:
   sec: 1042
   time: '17:22'
   who: Alexey
+- header: Embracing Wrong Assumptions to Trigger Discussion
 - line: Many. Even up to this day, I'm usually more wrong than right. But I don't
     stop proposing because even if it's wrong, it triggers a discussion and I think
     it structures knowledge around the topic. I'm okay feeling stupid all the time
@@ -280,13 +286,13 @@ transcript:
   sec: 1095
   time: '18:15'
   who: Mariano
-- header: Search and recommendations
 - line: Did I understand correctly – I know before becoming a manager, you were a
     senior data scientist in the relevance team, so you were dealing with recommendations
     mostly, right?
   sec: 1186
   time: '19:46'
   who: Alexey
+- header: Experience with Search and Recommender Systems
 - line: Yeah. It was mostly everything around search and recommendations. At OLX,
     which is an online classifieds place where people come to buy stuff, so from the
     moment the user comes to buy, they have three ways to find things, more or less.
@@ -301,7 +307,6 @@ transcript:
   sec: 1197
   time: '19:57'
   who: Mariano
-- header: Dealing with unfamiliar domains
 - line: So the people you needed to manage were working on advertisement projects,
     right?
   sec: 1264
@@ -315,6 +320,7 @@ transcript:
   sec: 1274
   time: '21:14'
   who: Alexey
+- header: 'Advertising Domain: Real‑Time Bidding and Campaign Optimization'
 - line: Kind of. It actually confused me a lot because I didn't know this thing beforehand,
     at least not in detail. That was my first “Aha!” moment, because I assumed it
     was the team that we were using to do publicity for OLX – to send traffic to OLX.
@@ -342,6 +348,7 @@ transcript:
   sec: 1375
   time: '22:55'
   who: Alexey
+- header: 'Transferable DS Practices: Problem Framing & Feature Engineering'
 - line: Yes. Then it becomes a little bit of extrapolating the learnings you have
     as data scientists to other areas. Because some things are different, such as
     the domain, and maybe some of the models. Not all of them, but some of the models.
@@ -370,7 +377,6 @@ transcript:
   sec: 1389
   time: '23:09'
   who: Mariano
-- header: Structuring projects
 - line: So you were coaching and mentoring people more in the direction of how to
     structure projects, how to approach this, how to actually form the problem that
     you have in machine learning terms, and then measuring and all that. So it’s more
@@ -379,6 +385,7 @@ transcript:
   sec: 1555
   time: '25:55'
   who: Alexey
+- header: 'Diagnosing Model Issues: Overfitting, Data, and Features'
 - line: Yes. For example, let's say that the end performance is not good enough. Then
     we must first figure out how to ask the right question. “Is it an overfitting
     problem? Not enough data? Model not strong enough? Is there a difference between
@@ -417,7 +424,7 @@ transcript:
   sec: 1576
   time: '26:16'
   who: Mariano
-- header: Connecting product and data science
+- header: 'Product‑First Mindset: Prioritizing User Impact'
 - line: I think one thing you didn't mention is that you also help a lot – from what
     I see – is connecting product people (from product management) with data scientists
     and helping them by becoming a translator between them. That's something that
@@ -428,6 +435,7 @@ transcript:
   sec: 1769
   time: '29:29'
   who: Alexey
+- header: 'From Model to Product: Experiments, Deployment, Rules of ML'
 - line: Yeah. Maybe I forgot to mention this. If I can choose one thing to call the
     “key to success”, that would be the obsession with product applications. What
     I mean by that is – making sure that the data science solution is impacting the
@@ -464,7 +472,6 @@ transcript:
   sec: 1806
   time: '30:06'
   who: Mariano
-- header: Rule of Machine Learning
 - line: Do you remember the first rule of machine learning?
   sec: 2004
   time: '33:24'
@@ -478,6 +485,7 @@ transcript:
   sec: 2012
   time: '33:32'
   who: Alexey
+- header: 'Start Simple and Fail Fast: Iterative Testing in Production'
 - line: Yes. And I get tired of repeating that, especially with more junior people
     who come with lots of ambition. I see myself in their place because I was also
     there. There’s the thing when you go to university, and they tell you “Now, the
@@ -516,7 +524,7 @@ transcript:
   sec: 2016
   time: '33:36'
   who: Mariano
-- header: CRISP-DM and deployment
+- header: CRISP‑DM Process and Deployment Realities
 - line: I like CRISP-DM, but there is no book. It's just an article in Wikipedia.
     I think there is a book, actually. But anyway, I like this process. It's a very
     old process – it’s like 20 years old or something like that. Surprisingly, it's
@@ -527,6 +535,7 @@ transcript:
   sec: 2172
   time: '36:12'
   who: Alexey
+- header: 'Prioritization: Where Modeling Time Delivers Impact'
 - line: Java was already there, so the concept of deployment was there. Once you get
     through the technical challenges of doing data science – you know how to code,
     how to model, you understand how to evaluate – you cover at least on the basics.
@@ -572,7 +581,7 @@ transcript:
   sec: 2384
   time: '39:44'
   who: Alexey
-- header: Giving feedback
+- header: 'Feedback Timing: When to Give Performance Feedback'
 - line: You were talking about this 30-60-90 technique. When you were talking about
     your process of transitioning from an individual contributor to a manager, you
     said that in the first month, you wanted to meet the team. You were meeting the
@@ -627,6 +636,7 @@ transcript:
   sec: 2627
   time: '43:47'
   who: Alexey
+- header: 'Feedback Technique: Ask Permission, Care, and Offer Options'
 - line: Well, it first depends on the person. It depends on how you are, how the other
     person is, and what the feedback is. But there are three parts of the communication.
     But I had good mentors. One of them told me that, especially when you're going
@@ -680,6 +690,7 @@ transcript:
   sec: 2890
   time: '48:10'
   who: Alexey
+- header: One‑on‑Ones and Creating a Safe Growth Environment
 - line: Yes, one-on-ones. For me, as I mentioned, I believe they should happen at
     least once a week. Of course, with every single person, maybe 15 minutes to catch
     up once a week, that's fine. You may feel compelled to skip it if there is no
@@ -703,13 +714,13 @@ transcript:
   sec: 2893
   time: '48:13'
   who: Mariano
-- header: Dealing with people leaving the team
 - line: That’s nice. I noticed that last time I checked questions, there were none.
     But now I check there are four. So the first question is, “What's the hardest
     thing you need to deal with as a manager?”
   sec: 3021
   time: '50:21'
   who: Alexey
+- header: 'Handling Departures: Supporting Team Members Who Leave'
 - line: I'm thinking. I think there was more than one. I can tell you – losing somebody
     in the team that was very close to the team. Sometimes there are people that come
     to the team or maybe they'll completely evolve or not. When somebody is very good
@@ -732,12 +743,12 @@ transcript:
   sec: 3103
   time: '51:43'
   who: Mariano
-- header: Doing technical work as a manager
 - line: Yeah, I understand. Thanks for sharing. “Do you have time to do technical
     work as a manager or not at all?”
   sec: 3148
   time: '52:28'
   who: Alexey
+- header: 'Technical Work as a Manager: Code Reviews and Prototypes'
 - line: Well, it depends a lot. The straight answer is – mostly not. You shouldn't
     be on the critical path of any project. No project should depend on your work.
     Your role as a manager is unblocking, facilitating and making sure that every
@@ -772,6 +783,7 @@ transcript:
   sec: 3285
   time: '54:45'
   who: Alexey
+- header: Delegation and Architectural Involvement via Senior Engineers
 - line: Yes. For example, now in my team, I have some machine learning engineers that
     are quite senior. They are very good. So I rely more and more on them. For example,
     they do quite a big chunk of that. But at the beginning, yes, I was working very,
@@ -781,12 +793,12 @@ transcript:
   sec: 3298
   time: '54:58'
   who: Mariano
-- header: Dealing with bad hires
 - line: Okay, yeah. Thanks. Another question we have is, “How do you suggest managers
     should deal with bad hires?” That's a tricky one.
   sec: 3338
   time: '55:38'
   who: Alexey
+- header: 'Hiring and Remediation: Interviews, Probation, Development Plans'
 - line: That’s a tricky one. Yeah. It's always a dilemma. Of course, I will say something
     that will make whoever asked the question hate me. But the first thing to do with
     a bad hire is have very good interviews. It's better to take longer to hire somebody,
@@ -876,13 +888,13 @@ transcript:
   sec: 3682
   time: '1:01:22'
   who: Mariano
-- header: Keeping up with the industry
 - line: How do you keep up with the latest advancements in the areas that you work
     in? You need to guide the team, so how do you keep up with the latest developments
     in order to be able to do that?
   sec: 3684
   time: '1:01:24'
   who: Alexey
+- header: 'Staying Current: MLOps, NLP, and Engineering Best Practices'
 - line: Yes. Good question. Well, I was asked this question in the past. For me, there
     is no recipe. It’s something I have greatly internalized, because I learned it
     the hard way. Except when you're working at big companies, the Microsoft, Google,
@@ -930,7 +942,6 @@ transcript:
   sec: 3891
   time: '1:04:51'
   who: Mariano
-- header: Wrapping up
 - line: Yeah, I just took a look at the questions that I prepared for you and I realized
     that I count only like 10% of them. [laughs]
   sec: 3935
@@ -940,6 +951,7 @@ transcript:
   sec: 3944
   time: '1:05:44'
   who: Mariano
+- header: Key Takeaways and Follow‑Up Opportunities
 - line: No, but like we actually diverged and I think it turned out to be better than
     what I had in mind. So yeah, thanks a lot for joining us today. Thanks a lot for
     sharing your story with us, for sharing your experience. Also, this 30-60-90 thing,
@@ -955,7 +967,7 @@ transcript:
   sec: 3988
   time: '1:06:28'
   who: Mariano
-- header: Contacting Mariano online
+- header: 'Contact Info: LinkedIn and Email for Mariano Semelman'
 - line: Yeah, perhaps. Okay. Thanks, Mariano. Thanks a lot. Thanks, everyone as well
     for joining. By the way, I wanted to ask you one last thing – how can people find
     you if they have a question for you?

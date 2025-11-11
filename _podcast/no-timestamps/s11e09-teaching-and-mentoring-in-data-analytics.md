@@ -16,6 +16,9 @@ short: Teaching and Mentoring in Data Analytics
 title: 'Designing FinTech Data Analytics Curriculum: Fraud Detection, BigQuery Labs
   & Mentoring'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Overview: Irina Brudaru — teacher, curriculum developer, mentor in
+    data analytics'
 - line: This week, we'll talk about teaching and mentoring in data analytics. We have
     a special guest today, Irina. Irina works as a teacher and curriculum developer
     for data analytics and data science at FrauenLoop, which is an NGO in Germany.
@@ -46,7 +49,7 @@ transcript:
   sec: 124
   time: '2:04'
   who: Alexey
-- header: Irina’s background
+- header: 'Career Origins: early computing, Romania education, Max Planck research'
 - line: Before we go into our main topic of teaching and mentoring in data analytics,
     let's start with your background. Can you tell us about your career journey so
     far?
@@ -106,6 +109,8 @@ transcript:
   sec: 218
   time: '3:38'
   who: Alexey
+- header: 'Industry Transition: data consulting, BI, Google and product analytics
+    experience'
 - line: Basically, yeah. Exactly. I always wanted to study computer science. This
     is what I chose. I did my Bachelor's in Romania and then I moved to Germany for
     my Master's. I wanted to do research and I wanted to do things that I knew could
@@ -147,6 +152,8 @@ transcript:
   sec: 374
   time: '6:14'
   who: Alexey
+- header: 'International Roles & Management: San Francisco, Netherlands, Berlin; leading
+    data teams'
 - line: Yeah. In the German offices, I don't remember female managers. But in the
     San Francisco office, there were. I have to say this because I think it is very
     important in terms of the percentage of women that are in tech – I reported to
@@ -195,6 +202,7 @@ transcript:
   sec: 525
   time: '8:45'
   who: Alexey
+- header: 'Early Mentoring Wins: mentoring family, interns, and career pivot stories'
 - line: Yeah, teaching SQL, databases, queries…
   sec: 537
   time: '8:57'
@@ -211,11 +219,11 @@ transcript:
   sec: 544
   time: '9:04'
   who: Irina
-- header: Irina as a mentor
 - line: Do you like the process of mentoring people?
   sec: 570
   time: '9:30'
   who: Alexey
+- header: 'Mentoring Methods: visual explanations, learner-centered teaching techniques'
 - line: Yeah, because I understand how people think. For teaching him – it was a visual
     way of teaching him. I was trying to explain to him tables and databases, and
     how to do the connections between the models, and aggregation works – how to imagine
@@ -227,6 +235,7 @@ transcript:
   sec: 593
   time: '9:53'
   who: Alexey
+- header: 'Community Teaching: NGOs, bootcamps, and FrauenLoop volunteer work'
 - line: I drew. I like to go and then explain like, “If you do this, this is what
     happens.” Some people are not necessarily visual, so you have to find other ways.
     It is so interesting to understand them – how they understand the problem so that
@@ -263,7 +272,6 @@ transcript:
   sec: 597
   time: '9:57'
   who: Irina
-- header: Designing curriculum and program management at AI Guild
 - line: That's actually one of the questions I have about that. In your LinkedIn,
     you have this experience with the AI Guild that you mentioned. The title that
     you have for this job is Program Manager. The responsibilities, according to your
@@ -274,6 +282,8 @@ transcript:
   sec: 754
   time: '12:34'
   who: Alexey
+- header: 'Curriculum Design for FinTech: AI Guild program planning and certification
+    integration'
 - line: Right. My employer was AI Guild with Daniel and Chris – if you don’t know,
     it's a small community and we know each other. First I think I was asked to be
     a teacher and I said, I had a lot of ideas about the program itself and how one
@@ -316,6 +326,8 @@ transcript:
   sec: 893
   time: '14:53'
   who: Alexey
+- header: 'Curriculum Components: fraud, chargeback, ML in production, and business
+    skills'
 - line: We…first of all, “I” work here, I was interviewing financial techies, so managers
     of data in FinTech companies, or in FinTech departments, or in fraud departments
     – what kind of methodologies they have implemented in their teams. This is an
@@ -371,6 +383,8 @@ transcript:
   sec: 1056
   time: '17:36'
   who: Irina
+- header: 'Instructor Sourcing & Storytelling: finding teachers and teaching data
+    storytelling'
 - line: You did this with the AI Guild as well, for the course. Did you?
   sec: 1107
   time: '18:27'
@@ -455,7 +469,6 @@ transcript:
   sec: 1294
   time: '21:34'
   who: Irina
-- header: Other things Irina taught at AI Guild
 - line: So first, you talked to managers from different fintech companies who work
     with data, you collected some ideas from them to form the curriculum – a list
     of topics you need to cover – then you understood what exactly you need to cover
@@ -465,6 +478,8 @@ transcript:
   sec: 1308
   time: '21:48'
   who: Alexey
+- header: 'Fraud Detection & Chargeback Modeling: rule-based vs neural approaches
+    in FinTech'
 - line: Yeah – fraud, and chargeback. Fraud detection as a rule-based was one example.
     And the other was neural networks for chargeback protection. I was trying to explain
     to the students that for fraud, you have a lot of signals and that's why you can
@@ -556,7 +571,6 @@ transcript:
   sec: 1506
   time: '25:06'
   who: Irina
-- header: Why Irina likes teaching
 - line: And now you're a teacher. Right?
   sec: 1518
   time: '25:18'
@@ -580,6 +594,8 @@ transcript:
   sec: 1535
   time: '25:35'
   who: Alexey
+- header: 'Hands-on Cloud Teaching: BigQuery labs, student cloud access, demystifying
+    Google Cloud'
 - line: I don't have kids, right? [laughs] I’m free! [laughs] I think it depends very
     much. What I feel is that I can support the community in many ways, but I'm also
     being very mindful of my own energy as well. So for example, if I started a new
@@ -615,7 +631,6 @@ transcript:
   sec: 1543
   time: '25:43'
   who: Irina
-- header: Students’ reluctance to learn cloud
 - line: To be frank, if I look at the Google Cloud interface, it's so much simpler
     than some of the other clouds. I mean, I use AWS at work.
   sec: 1691
@@ -636,6 +651,7 @@ transcript:
   sec: 1732
   time: '28:52'
   who: Irina
+- header: 'Overcoming Cloud Reluctance: focusing on essential cloud skills for analysts'
 - line: Maybe to learn cloud, because this is something big and scary. [cross-talk]
     You don't need to learn the entire…  I don't know if you can say “entire cloud”
     but – all of AWS, all of Google Cloud. There is one piece of that that you just
@@ -652,7 +668,8 @@ transcript:
   sec: 1753
   time: '29:13'
   who: Irina
-- header: Irina as a manager
+- header: 'Managerial Scope: balancing analytics, data engineering, and technical
+    credibility'
 - line: Which, for you, is a manager, right? You're a manager, and if you manage analysts
     you need to get into analytics – if you manage data engineers, you need to go
     to get into pipeline building and engineering. And then if you manage both, you
@@ -681,7 +698,6 @@ transcript:
   sec: 1825
   time: '30:25'
   who: Irina
-- header: Cohort analysis in a nutshell
 - line: You mentioned one thing – you were working with somebody who didn't know what
     cohort analytics is or what churn is. I'm really wondering – I must admit, I also
     don't know what exactly cohort analytics is, maybe you can give it in a nutshell?
@@ -697,6 +713,7 @@ transcript:
   sec: 1908
   time: '31:48'
   who: Alexey
+- header: 'Cohort Analysis Explained: retention metrics, product analytics visualization'
 - line: The first and second I've exhausted them to the end together with my brother
     in the private LAN in our block of flats in Romania. But now I'm playing the immortal
     – the online version. Good memories. But imagine that you're launching a game
@@ -757,7 +774,6 @@ transcript:
   sec: 2057
   time: '34:17'
   who: Irina
-- header: How Irina started teaching formally
 - line: Yeah, thanks. I'm really curious, how did you start with teaching? You said
     you mentored your brother and that you liked it. But how did you start doing this
     more formally? You also did this with the AI Guild. You were doing this with FrauenLoop.
@@ -774,6 +790,7 @@ transcript:
   sec: 2130
   time: '35:30'
   who: Alexey
+- header: 'Path to Formal Teaching: outreach, invitations, and joining teaching programs'
 - line: With AI Guild it really just happened. I got an email from Chris, like, “Hey,
     we saw your profile. You are FinTech, you are data science, you’re in AI Guild.
     Come teach for us?”
@@ -820,7 +837,6 @@ transcript:
   sec: 2157
   time: '35:57'
   who: Irina
-- header: Irina’s diversity project in the works
 - line: From what I know, mostly from Johanna, who talked to you before this interview
     – she mentioned that you work on some projects where you are looking into gender
     diversity in big companies.
@@ -844,6 +860,8 @@ transcript:
   sec: 2319
   time: '38:39'
   who: Alexey
+- header: 'Gender Diversity Research: plans to analyze company data for inclusion
+    insights'
 - line: Yeah, they're not. The signatures are official. But I would like to keep things
     under wraps just a bit longer until we get the first [inaudible]. But it's not
     some crazy new idea at all. It’s all about the data engineering question, because
@@ -889,7 +907,8 @@ transcript:
   sec: 2459
   time: '40:59'
   who: Irina
-- header: How DataTalks.Club can attract more female students to the Zoomcamps
+- header: 'Recruiting Women to Zoomcamps: targeted outreach, partnerships, and scheduling
+    considerations'
 - line: This project that you mentioned is at the inception stage now – there is nothing
     concrete. But we have a course – at DataTalks.Club, we have a course about data
     engineering and it looks to me that roughly 95% of the students (it feels like)
@@ -983,7 +1002,8 @@ transcript:
   sec: 2711
   time: '45:11'
   who: Irina
-- header: How to get technical feedback at work
+- header: 'Securing Technical Feedback: finding reviewers, advocating for code review
+    processes'
 - line: If you come up with great ideas, please do share them with me. But I realized
     that we have six questions in Slido and we should cover them too. [Irina agrees].
     The first question – the most important one – is, “How can I get technical feedback
@@ -1058,7 +1078,7 @@ transcript:
   sec: 2960
   time: '49:20'
   who: Irina
-- header: Antipatterns and overrated/overhyped topics in data analytics
+- header: 'Learning Antipatterns: ML hype, overengineering, and tool-centric approaches'
 - line: Okay. Another question, “What are the top five overrated things (antipatterns)
     and waste of productivity for people who learn data analytics?”
   sec: 2979
@@ -1205,7 +1225,7 @@ transcript:
   sec: 3280
   time: '54:40'
   who: Irina
-- header: Advice for young women who want to get into data science/engineering
+- header: 'Career Transition Advice: moving into data science from non-technical roles'
 - line: We have a few more questions. You probably have a lot more antipatterns, but
     the next one is interesting. “I am making a career transition for data science.
     The background is in energy sales (GIS) teaching assistant. I was told that I
@@ -1248,7 +1268,6 @@ transcript:
   sec: 3385
   time: '56:25'
   who: Irina
-- header: Finding Irina online
 - line: What's your email? Or what's the best way to contact you? I guess it's LinkedIn,
     isn't it?
   sec: 3434
@@ -1293,12 +1312,13 @@ transcript:
   sec: 3472
   time: '57:52'
   who: Irina
-- header: Fundamentals for data analysts
 - line: '[chuckles] There''s another question about the best technologies to practice.
     But you said that you''re not a tool person.'
   sec: 3481
   time: '58:01'
   who: Alexey
+- header: 'Core Analyst Fundamentals: SQL, data visualization, soft skills, and product
+    tracking'
 - line: Practices SQL, because it's the bread and butter for 20 years for me and for
     many people. Yeah.
   sec: 3488
@@ -1351,7 +1371,6 @@ transcript:
   sec: 3585
   time: '59:45'
   who: Irina
-- header: Suggestions for DataTalks.club collaborations
 - line: Pick any. I see that there are a few comments, so I want to mention them because
     they're interesting before we wrap up. One of the comments is “I was one of the
     few women doing the DataTalks.Club Zoomcamp. It was hard being one of the few.
@@ -1371,6 +1390,8 @@ transcript:
   sec: 3620
   time: '1:00:20'
   who: Alexey
+- header: 'Community Partnerships: collaborating with Women in Tech groups and volunteer
+    orgs'
 - line: I can!
   sec: 3632
   time: '1:00:32'
@@ -1394,7 +1415,7 @@ transcript:
   sec: 3645
   time: '1:00:45'
   who: Irina
-- header: Conclusion
+- header: Episode Wrap-up and Contact Info
 - line: We have a bit of a budget. We have sponsors, so we have a bit of budget that
     we can spend on promoting too. Yeah, I'll be in touch. [Irina agrees] Okay. Thanks,
     everyone, for joining us today. Thanks, Irina, for being here with us today, for

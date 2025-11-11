@@ -15,7 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/0kGFYX12RgkmZC2lMml6S4
   apple: https://podcasts.apple.com/us/podcast/introducing-data-science-in-startups-marianna-diachuk/id1541710331?i=1000536525162
 transcript:
-- header: Marianna’s background
+- header: Podcast Introduction
+- header: Guest Background & Career Path in Data Science
 - line: We have a special guest today, Marianna. Marianna is a data scientist at Restream,
     and the data science lead and mentor in the local branch of Women Who Code community
     in Kiev. Before Restream, she worked at Data Robot and she also led the data science
@@ -81,7 +82,7 @@ transcript:
   sec: 155
   time: '2:35'
   who: Marianna
-- header: Being the only data scientist
+- header: 'Solo Data Scientist: Freedom, Influence & Responsibility'
 - line: What are the pros and cons of starting as a first data scientist with a company?
   sec: 222
   time: '3:42'
@@ -138,7 +139,7 @@ transcript:
   sec: 468
   time: '7:48'
   who: Marianna
-- header: What should already be in the company
+- header: 'Company Prerequisites: Data Pipelines, Engineers & Analytics'
 - line: Say somebody wants to join a company that doesn't have any data scientists
     yet and they want to join as the only data scientist. What kind of things should
     companies have for you to feel comfortable in joining this startup? Are there
@@ -178,7 +179,7 @@ transcript:
   sec: 652
   time: '10:52'
   who: Marianna
-- header: How much experience do you need
+- header: 'Experience Required: Mid‑Senior, End‑to‑End Project Skills'
 - line: How much experience would I need to have in order to join a company as the
     only data scientist? Do I need to be very experienced, like a senior person? Or
     if I'm just switching careers, would it be a good idea to join such a company?
@@ -207,7 +208,7 @@ transcript:
   sec: 734
   time: '12:14'
   who: Alexey
-- header: Identifying problems
+- header: 'Problem Discovery: Translating Business Needs to Data Science'
 - line: Yeah, I would say it always starts from defining if there is actually a problem
     that needs solving. People usually don't really exist in this context of the data
     science problems and they have a very different understanding of how the field
@@ -240,6 +241,7 @@ transcript:
   sec: 854
   time: '14:14'
   who: Alexey
+- header: Proactive Outreach & Building a Data Science Roadmap
 - line: I would say that it depends on the company. Usually, when the first data scientist
     is hired there is already some understanding that he or she is supposed to solve
     some problem. Sometimes it’s more like, “We have a lot of data. Maybe we should
@@ -252,6 +254,7 @@ transcript:
   sec: 865
   time: '14:25'
   who: Marianna
+- header: 'Prioritization: Feasibility, Impact & Stakeholder Alignment'
 - line: First, practice reaching out to other people. That's what basically I did
     – organized different meetings with all the departments and talked about their
     challenges and problems and tried to explain how I can be helpful. Now it's more
@@ -260,7 +263,6 @@ transcript:
     other people and see if they think that would be helpful or not. I think it's
     also important.
   who: Marianna
-- header: Prioritization
 - line: I can imagine if you talk to many people from different departments and from
     different teams, maybe half of them or all of them have problems. Then you have
     a problem that you have too many problems to solve. So that's why you need the
@@ -304,7 +306,6 @@ transcript:
   sec: 1066
   time: '17:46'
   who: Marianna
-- header: What should the company already know?
 - line: So basically, a company should already have an idea of what they want. They
     should have some problem that potentially can be solved with data science and
     not like, “Okay, we have these 10 terabytes of data or ten petabytes of data.
@@ -345,7 +346,7 @@ transcript:
   sec: 1221
   time: '20:21'
   who: Marianna
-- header: First week
+- header: 'First Week: Stakeholder Interviews and Data Exploration'
 - line: Yeah. Let's say you joined a company. You had an interview with them and you
     really like them. They have data pipelines, they have an analytical department,
     and they seem to know what they want. You think it's cool and you join this company.
@@ -364,7 +365,7 @@ transcript:
   sec: 1291
   time: '21:31'
   who: Marianna
-- header: First month
+- header: 'First Month: Early Research, Insights or Proof‑of‑Concept'
 - line: That's the first week, you said. Let’s say, you’re there for a month already
     – what should you do in the first month? Do you already need to have some sort
     of POC or are you still in the exploratory phase? I guess it depends on the case,
@@ -390,7 +391,7 @@ transcript:
   sec: 1409
   time: '23:29'
   who: Alexey
-- header: First quarter
+- header: 'First Quarter: Pipelines, Methodology, Deployment & A/B Testing'
 - line: I think by that time, you should already have some kind of methodology that
     you use. For example, I don't just build the first model, but I also build some
     kind of pipelines around that, so it will be easier for me later. In case I need
@@ -415,7 +416,7 @@ transcript:
   sec: 1539
   time: '25:39'
   who: Marianna
-- header: Managing expectations
+- header: 'Managing Expectations: Data Science as Iterative Inquiry'
 - line: Plus, you should have an A/B test and evaluate it. That's cool. What if things
     don't work out well? I think that’s maybe a happy path, where you identify the
     problem, you see that all the data is there, you get insights, you deploy your
@@ -452,7 +453,7 @@ transcript:
   sec: 1655
   time: '27:35'
   who: Marianna
-- header: Solving problems without ML
+- header: 'Start Small: Exploratory Analysis, Dashboards vs. Machine Learning'
 - line: Okay, yeah. Interesting. I think we talked a bit about the fact that sometimes
     maybe a dashboard is what the company needs and not a machine learning model solution.
     How can we understand if a problem actually requires machine learning or that
@@ -484,6 +485,7 @@ transcript:
   sec: 1794
   time: '29:54'
   who: Alexey
+- header: 'Churn Workflows: Analysis to Model to Marketing Collaboration'
 - line: I’m thinking about some of the projects I had. I don't remember any projects
     where I added machine learning after that, but in the future, if more data is
     added there, perhaps it’s a possibility. For example, there was a case where there
@@ -521,7 +523,7 @@ transcript:
   sec: 1946
   time: '32:26'
   who: Marianna
-- header: Project timelines
+- header: 'Project Timelines: Reuse, Automation & Faster Iterations'
 - line: I think we already talked about the timeline. For the first project, in three
     months, you have a POC, ideally. Right? And for the second project, should it
     be faster? Or do you expect to have it in the same timeline? How does it usually
@@ -548,7 +550,7 @@ transcript:
   sec: 2035
   time: '33:55'
   who: Marianna
-- header: Finding the best solution
+- header: 'Solution Selection: Define Metrics and Measure Outcomes'
 - line: We have a question about identifying the best model for a problem. Or maybe
     not just a model. I think it's interesting because we talked about the fact that
     sometimes there are things that can be solved with analytics. How would you suggest
@@ -570,7 +572,7 @@ transcript:
   sec: 2081
   time: '34:41'
   who: Marianna
-- header: Evaluating performance
+- header: 'Evaluating Performance: KPIs, Experiments & Delivering Insights'
 - line: Another question we have is, “How do you evaluate your own performance?” I
     think you kind of answered that. When you define these KPIs, when you define these
     metrics, you can already see if your models are working. This is a good way of
@@ -624,7 +626,7 @@ transcript:
   sec: 2345
   time: '39:05'
   who: Marianna
-- header: Getting stuck
+- header: 'When You Get Stuck: Networks, Communities & Learning Resources'
 - line: When you are a “lone wolf data scientist” – you're alone in the company –
     and you get stuck. There is a problem that you cannot solve. Who do you ask for
     guidance? Who do you ask for help in this situation?
@@ -653,7 +655,7 @@ transcript:
   sec: 2458
   time: '40:58'
   who: Marianna
-- header: Communicating with analysts
+- header: 'Communicating Results: Reports, Visualizations & Tech Talks'
 - line: Okay, thanks. Another question we have is, “What are some good ways to communicate
     information that you gained through your analysis, deploying your model, to the
     analytics team? Is it better to do so during research or by running things?”
@@ -709,7 +711,7 @@ transcript:
   sec: 2634
   time: '43:54'
   who: Marianna
-- header: Transitioning from engineering to data science
+- header: 'Transitioning from Engineering: Mindset, Deployment & Monitoring'
 - line: Okay. Another question is, “Your background is that you were transitioning
     from software engineering to data science. Do you have any advice for people who
     want to do the same?”
@@ -742,7 +744,7 @@ transcript:
   sec: 2738
   time: '45:38'
   who: Marianna
-- header: Growing the team
+- header: 'Scaling the Team: Signals to Hire More Data Scientists'
 - line: When is the right moment to start asking for more data scientists? Let's say
     you join a company as the only data scientist. Then you did a couple of proof
     of concepts, and some of them really worked. You now have many projects. Some
@@ -777,7 +779,7 @@ transcript:
   sec: 2842
   time: '47:22'
   who: Marianna
-- header: Stopping projects
+- header: 'Stopping Projects: Prioritize, Cut Losses & Reallocate Effort'
 - line: What about stopping a project? Let's say you worked on a project and it looks
     promising at the beginning. You did a POC and then after some time, you realize
     that this project is not going anywhere. The results aren't great and you’re spending
@@ -813,7 +815,7 @@ transcript:
   sec: 2970
   time: '49:30'
   who: Marianna
-- header: Questions for the company
+- header: 'Interview Checklist: Questions to Assess Company Readiness'
 - line: Let's say you want to join a company that doesn't have data scientists yet.
     Do you have a list of questions that you want to ask before joining the company?
     Are there maybe 5-10 questions that you have to ask before making the decision
@@ -830,6 +832,7 @@ transcript:
   sec: 3038
   time: '50:38'
   who: Marianna
+- header: 'Assessing Readiness: Pipelines, Analytics Dept. & Expectations'
 - line: Also, additional questions would be “What kind of problems do you expect me
     to solve?” Because, again, that says a lot about how ready the company is and
     whether they are hiring you for a specific problem or whether they just have a
@@ -886,7 +889,7 @@ transcript:
   sec: 3300
   time: '55:00'
   who: Marianna
-- header: From research to production
+- header: 'Research to Production: Silent Mode, A/B Tests & Safe Rollout'
 - line: I managed to restore my computer and I opened Slido with questions. I see
     that there is a question with four upvotes. I know we ran out of time, but maybe
     you have a couple more minutes to answer that question. “When would it be best
@@ -913,7 +916,7 @@ transcript:
   sec: 3343
   time: '55:43'
   who: Marianna
-- header: Wrapping up
+- header: 'Closing Advice: Learn Fast and Educate Your Organization'
 - line: Okay, thank you. Do you have any last words before we finish today?
   sec: 3435
   time: '57:15'
@@ -926,6 +929,7 @@ transcript:
   sec: 3443
   time: '57:23'
   who: Alexey
+- header: Contact Info & Episode Wrap-up
 - line: Thanks. How can people find you?
   sec: 3472
   time: '57:52'

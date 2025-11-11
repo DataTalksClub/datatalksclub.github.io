@@ -16,6 +16,7 @@ short: Navigating Career Changes in Machine Learning
 title: 'From Web and Game Dev to ML Platforms and LLMs: Career Transitions, Prompt
   Engineering and Debugging'
 transcript:
+- header: Podcast Introduction
 - line: This week, we'll talk about quite a few things – building a machine learning
     platform, career, being a generalist or specialist – quite a wide range of topics.
     We have a special guest today, Krysztof (Chris). So Krysztof is a seasoned engineer
@@ -37,7 +38,7 @@ transcript:
   sec: 129
   time: '2:09'
   who: Chris
-- header: Chris’s background
+- header: 'Career Overview: Web, Game Development, and Python'
 - line: The questions for today’s interview were prepared by Johanna Bayer. Thanks,
     Johanna, for your help. Let's start. We'll start with your background. Can you
     tell us about your career journey so far?
@@ -165,6 +166,7 @@ transcript:
   sec: 374
   time: '6:14'
   who: Alexey
+- header: 'Mobile & Game Development: HTML5, Objective‑C, Swift, and Unity'
 - line: I didn't use anything myself. When I was there, it was a very exciting time
     because Wooga was trying different technology. We started with HTML5, which was
     a big thing at the time, around 2012. We built and shipped again, but we decided
@@ -183,7 +185,7 @@ transcript:
   sec: 424
   time: '7:04'
   who: Chris
-- header: Switching careers multiple times
+- header: 'Career Transitions: Adapting Between Stacks and Roles'
 - line: From what I hear, these are completely different stacks. So how did you change
     your career so many times? How did you convince the employers to actually give
     you a chance?
@@ -240,7 +242,7 @@ transcript:
   sec: 531
   time: '8:51'
   who: Chris
-- header: Freedom at companies
+- header: Tech Radar & Language Freedom at Zalando
 - line: When you mentioned Zalando, I remember my interview with Zalando. Actually,
     I was interviewing for a data scientist position and I was asked algorithmic challenges,
     but I could use whatever language I wanted. My background was in Java development
@@ -304,7 +306,6 @@ transcript:
   sec: 767
   time: '12:47'
   who: Chris
-- header: Chris’s role as an internal consultant
 - line: Okay. So you joined Zalando as a full stack engineer, then you worked in data
     governance, and then eventually switched to the ML platform as a software engineer,
     right? [Chris agrees] Can you tell us more about what you do in this ML platform
@@ -313,6 +314,7 @@ transcript:
   sec: 779
   time: '12:59'
   who: Alexey
+- header: 'Machine Learning Platform: zflow Library and Pipeline Architecture'
 - line: It's still the same team – ML platform team – but within that team, we have
     three smaller sub-teams or groups. I was first working as a software engineer,
     and the primary product of my team was something called the zflow. It's a Python
@@ -361,6 +363,7 @@ transcript:
   sec: 948
   time: '15:48'
   who: Alexey
+- header: 'Platform Consulting: Training, Onboarding, and User Support'
 - line: Yes. Most of it is user support. It's a kind of a responsive role. We have
     several chats where we answer questions. Sometimes the questions are quite easy
     to answer, but usually not. If someone comes to us, it means that they probably
@@ -391,6 +394,7 @@ transcript:
   sec: 1057
   time: '17:37'
   who: Alexey
+- header: 'From Engineer to Consultant: Reduced Hands‑on Coding'
 - line: Not so much, I must say. I think this is a bit of a disadvantage that I don't
     code, especially when it comes to more complex problems – I can't solve them anymore
     as a consultant, compared to my previous role as a software engineer. I still
@@ -400,12 +404,13 @@ transcript:
   sec: 1068
   time: '17:48'
   who: Chris
-- header: Chris’s sabbatical
+- header: 'Sabbatical Focus: Learning, Break, and Exploration'
 - line: Okay. And now you're on a sabbatical. [Chris agrees] Can you tell us more?
     What do you do on your sabbatical?
   sec: 1106
   time: '18:26'
   who: Alexey
+- header: 'Sabbatical Projects: Diffusion Models, ChatGPT Experiments, and Modal Labs'
 - line: 'This is a three-month sabbatical: January, February, March. I have to say,
     when I took it, my intention was to stay away from technology as much as possible
     because I''ve been working at Zalando for five and a half years, and as a software
@@ -471,7 +476,7 @@ transcript:
   sec: 1304
   time: '21:44'
   who: Chris
-- header: ChatGPT
+- header: 'Large Language Models: Coding Assistance, Architecture Sparring, and Caveats'
 - line: You said that you're quite excited about ChatGPT as a developer and you wanted
     to talk more about that. When I saw ChatGPT, I was blown away. It was like, “Wow!
     So cool.” Now I use it for a lot of stuff, mostly around content generation –
@@ -562,6 +567,7 @@ transcript:
   sec: 1593
   time: '26:33'
   who: Alexey
+- header: 'Prompt Engineering: Practical Tips and People to Follow'
 - line: Yes. I have to say that I still didn't fully incorporate this into my daily
     life. I think there will be more and more of that. Right now, I think the UX,
     especially for specific tasks, is not perfect. For example, if you want to write
@@ -615,7 +621,7 @@ transcript:
   sec: 1732
   time: '28:52'
   who: Chris
-- header: How being a generalist helped Chris in his career
+- header: 'Transferable Skills: SQL, Git, Shell, and the Lindy Effect'
 - line: Going back to your background, you have quite a diverse background. You tried
     many, many things. Do you think it helped you with your career, for generating
     new ideas, for seeing new solutions? And how did it help you?
@@ -705,6 +711,7 @@ transcript:
   sec: 1982
   time: '33:02'
   who: Alexey
+- header: 'Troubleshooting Example: Postgres Optimization and Performance Gains'
 - line: Exactly. It depends on the scope. That's why I mentioned that if you have
     a good match between what is required for a project versus the skills that the
     team or the person brings to the project. The wider the scope, of course, the
@@ -736,12 +743,12 @@ transcript:
   sec: 2099
   time: '34:59'
   who: Chris
-- header: The cons of being a generalist and the importance of T-shaped expertise
 - line: Okay, so there’s two cons so far – impostor syndrome and experts can build
     things faster. Anything else?
   sec: 2114
   time: '35:14'
   who: Alexey
+- header: 'T‑Shaped Expertise: Depth, Breadth, and Career Strategy'
 - line: I was also thinking about how it affects recruiting and finding a job. Very
     often I saw that companies look for experts. Sometimes it could be a bit scary,
     like you see a job ad and you see, “We want five years of experience with large
@@ -782,6 +789,7 @@ transcript:
   sec: 2252
   time: '37:32'
   who: Alexey
+- header: 'Debugging as a Strength: Rubber Duck, Divide‑and‑Conquer, and Mentoring'
 - line: I’m not sure which letter it would be, Maybe an M. For example, I got pretty
     good at using Git. Very often, I help my colleagues to resolve problems with history,
     with rebasing, and things like that. I really also like Shell scripting and learning
@@ -813,7 +821,6 @@ transcript:
   sec: 2352
   time: '39:12'
   who: Chris
-- header: The importance of learning things you’re interested in
 - line: It’s like you're a detective and you're looking for a solution to a crime,
     right? [Chris agrees] That's pretty interesting. One thing I wanted to ask you
     is – what advice would you give to people who want to do something like you do,
@@ -901,7 +908,7 @@ transcript:
   sec: 2686
   time: '44:46'
   who: Chris
-- header: Tips to enjoy learning new things
+- header: 'Learning Motivation: Curiosity, Pomodoro, and Inspirational Content'
 - line: One thing you mentioned is that if you enjoy the process of learning, you'll
     probably be more successful because you will also enjoy doing this thing. I wonder
     – what can I do to enjoy the process of learning? Are there tools, tips, tricks
@@ -962,6 +969,7 @@ transcript:
   sec: 2903
   time: '48:23'
   who: Alexey
+- header: 'Getting Unstuck: ChatGPT, Tutorials, and Problem Decomposition'
 - line: Okay. A while ago, I think it was harder, but for the last few months, you
     can just ask ChatGPT.
   sec: 2917
@@ -997,7 +1005,7 @@ transcript:
   sec: 2987
   time: '49:47'
   who: Chris
-- header: Recruiting generalists
+- header: 'Hiring Dynamics: Job Descriptions and Recruiting Generalists'
 - line: Right. When we were talking about the cons of being a generalist, you mentioned
     one thing that recruiting might be a problem. I was thinking, why is that? From
     what I see, sometimes, when somebody leaves a company, the hiring manager (the
@@ -1066,7 +1074,7 @@ transcript:
   sec: 3241
   time: '54:01'
   who: Chris
-- header: The job market for generalists vs for specialists
+- header: 'Job Market Trends: Specialists vs Generalists in Machine Learning'
 - line: In general, do you think companies are looking more for generalists or for
     experts? From what I hear from you, Zalando is broadening the job descriptions.
     And from what I see in terms of what we do at OLX, we also don't usually hire
@@ -1101,7 +1109,6 @@ transcript:
   sec: 3356
   time: '55:56'
   who: Chris
-- header: Narrowing down your interests
 - line: Yeah. Like coming back to our discussion about your sabbatical plans, right?
   sec: 3366
   time: '56:06'
@@ -1114,6 +1121,7 @@ transcript:
   sec: 3375
   time: '56:15'
   who: Alexey
+- header: 'Prioritization Techniques: To‑Do Lists, Deadlines, and Focus'
 - line: What I do is – I'm a huge fan of to-do lists. If you just write down everything
     that is on your mind – just try to capture it. And then you can prioritize. Then
     you can also just drop some things off the list.
@@ -1149,12 +1157,12 @@ transcript:
   sec: 3466
   time: '57:46'
   who: Chris
-- header: Chris’s book recommendations
 - line: Do you have any book or other resources that you want to recommend to the
     listeners?
   sec: 3484
   time: '58:04'
   who: Alexey
+- header: 'Learning Resources: Books, Documentation, YouTube, and Practical Learning'
 - line: Um, I thought about this. Right now, I noticed that, especially in the last
     10 years or maybe even less, with the advent of deep learning and machine learning,
     it's harder to learn from books because things are moving too fast. In my personal
@@ -1177,7 +1185,6 @@ transcript:
   sec: 3491
   time: '58:11'
   who: Chris
-- header: Conclusion
 - line: Do you have a favorite YouTube channel?
   sec: 3593
   time: '59:53'
@@ -1201,6 +1208,7 @@ transcript:
   sec: 3624
   time: '1:00:24'
   who: Alexey
+- header: Episode Wrap‑up and Key Takeaways
 - line: Sure.
   sec: 3691
   time: '1:01:31'

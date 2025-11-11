@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/2hg3Gi3h5OfdedXENwZwnU
   apple: https://podcasts.apple.com/us/podcast/becoming-a-data-led-professional-arpit-choudhury/id1541710331?i=1000523422699
 transcript:
+- header: Podcast Introduction
+- header: 'DataLed Academy: free learning, repository & podcast'
 - line: This week we will talk about becoming a data-led professional. We have a special
     guest today — Arpit. Arpit actually is one of the first people who joined DataTalks.Club.
     I think you were one of the first 10 or 20. I remember asking you for some tips.
@@ -28,7 +30,6 @@ transcript:
   sec: 141
   time: '2:21'
   who: Alexey
-- header: Data-led academy
 - line: Thanks Alexey for the intro. I’m excited to be here, thanks for having me.
     DataTalks is a really great community, I’m excited to be part of it. Just to let
     people know that data academy is not exactly a community, it’s not a slack community.
@@ -54,12 +55,12 @@ transcript:
   sec: 249
   time: '4:09'
   who: Arpit
-- header: Arpit’s background
 - line: Before we go into our main topic of becoming data-led, maybe we can start
     with your background. Can you tell us about your career journey so far?
   sec: 294
   time: '4:54'
   who: Alexey
+- header: 'Career trajectory: integrations, Integromat & community growth'
 - line: I’ve been working in the technology industry for pretty much my whole career.
     I’ve  worked in different types of companies. I got into the data space when I
     was working as a consultant. I was building a lot of integrations for SMBs and
@@ -72,6 +73,7 @@ transcript:
   sec: 306
   time: '5:06'
   who: Arpit
+- header: 'Growth marketing: A/B testing, personalization & product data'
 - line: Now I am building dataled.academy. I’m also helping a few data companies with
     their content and community strategy. For me, content communities is all I’ve
     been doing. At Integromat, the content community is what helped us grow really
@@ -84,7 +86,6 @@ transcript:
     actionable and unbiased answers to their questions. A lot of these answers are
     answered by experts who are from these communities.
   who: Arpit
-- header: Growth marketing
 - line: Growth — this is something you did within Integromat. I was curious what growth
     managers actually do. When I checked, I found out that it’s very data driven.
     They use a lot of data. When I look at “growth marketing”, it doesn’t sound too
@@ -117,6 +118,7 @@ transcript:
   sec: 568
   time: '9:28'
   who: Alexey
+- header: 'Marketer tooling: visual queries and self-serve data access'
 - line: Yeah. Marketers, growth professionals, product people, operations people.
     They don’t need to know how to write SQL. Of course, if they know it, it’s an
     advantage. But there are a lot of great tools out there that allow you to visually
@@ -128,11 +130,11 @@ transcript:
   sec: 586
   time: '9:46'
   who: Arpit
-- header: Being data-led
 - line: What is data-led? I think you have a definition. What is that?
   sec: 638
   time: '10:38'
   who: Alexey
+- header: 'Definition: data-led professional — source awareness & data skepticism'
 - line: A data-led professional is someone who understands where data comes from and
     what it looks like. They are able to question its accuracy, not just blindly believe
     the data that they see. If they understand where data comes from and what it looks
@@ -144,7 +146,7 @@ transcript:
   sec: 645
   time: '10:45'
   who: Arpit
-- header: Data-led vs data-driven
+- header: 'Data-led vs. data-driven: balancing data, intuition & bias'
 - line: Is there any difference between being data-driven and data-led? Data-driven
     is something I hear quite often. To be honest, I still have no idea what it actually
     means. What is it and what are the differences between data-driven and data-led?
@@ -174,7 +176,7 @@ transcript:
   sec: 789
   time: '13:09'
   who: Alexey
-- header: 'Documenting your data: creating a tracking plan'
+- header: 'Tracking plan & instrumentation: documenting events, properties & ownership'
 - line: Yeah. You can only question this accuracy if you understand where data has
     been collected or how it is being collected. If nothing is documented, you cannot
     really understand anything, and you cannot really question it. It’s important
@@ -216,6 +218,7 @@ transcript:
   sec: 961
   time: '16:01'
   who: Arpit
+- header: 'Anomaly investigation: tracing event origins and fake signups'
 - line: It’s usually done even before you set up instrumentation of data — before
     you set up a product analytics tool, or any tool that depends on event data. You
     instrument your product events. The process of tracking product data is often
@@ -238,7 +241,6 @@ transcript:
     you need to have customers first, you need to have users to be able to make sense
     of this data.
   who: Arpit
-- header: Understanding your data
 - line: You mentioned growth marketers. But there are a lot of different users of
     data. We have data analysts, product managers... Many people need to make decisions
     based on data. They need to analyze the data and they need to understand each
@@ -257,6 +259,7 @@ transcript:
   sec: 1152
   time: '19:12'
   who: Arpit
+- header: 'Collaborative tracking tools: AVO, Iteratively, TrackPlan'
 - line: We talked about product, growth and product marketing, but these events are
     extremely useful for sales people as well. Sales people look at a CRM. They look
     at data about a company or a prospect. They can have more context about customers
@@ -267,7 +270,6 @@ transcript:
     of tasks. Now would be a good time to reach out to them versus just reaching out
     to everybody who shows up in your CRM. It’s extremely useful for sales.
   who: Arpit
-- header: Tools for creating a tracking plan
 - line: It’s very important to document your data. You mentioned that you can do this
     with Miro. Or things like an Excel spreadsheet or Google spreadsheet. Are there
     any special tools for that? Or people use whatever they are comfortable with?
@@ -292,7 +294,7 @@ transcript:
   sec: 1324
   time: '22:04'
   who: Alexey
-- header: Data flow stages
+- header: 'Data flow overview: collection, storage, analysis and activation'
 - line: Now we have a tracking plan. We tell the developer, “can you please instrument
     this event?” We start collecting them. Then we have the other end of this — an
     analyst or somebody is looking at the dashboard. Then make a decision like this
@@ -312,6 +314,7 @@ transcript:
   sec: 1407
   time: '23:27'
   who: Arpit
+- header: 'Event examples for SaaS: signup, project created, invite, invoice'
 - line: When you start doing this, you feel like you want to collect everything. You
     might end up with 50 events. This is great. The next step is to remove all the
     events that you don’t need in the near future. Having too much data at the beginning
@@ -319,7 +322,6 @@ transcript:
     to test. So, bring it down to seven or ten events that you really need to understand
     the customer journey from acquisition to activation.
   who: Arpit
-- header: Tracking events — examples
 - line: Maybe you can think of some examples? So you said, a SaaS product which could
     be a project management tool or account or invoicing.
   sec: 1483
@@ -332,6 +334,7 @@ transcript:
   sec: 1504
   time: '25:04'
   who: Arpit
+- header: 'Client-side vs. server-side events: timing, accuracy and use cases'
 - line: If it’s a project management tool, one of the first things is to create a
     project. Then “invite a user”, because a project management tool is no good if
     you don’t invite another user to work with. So, “project created”, “user invited”
@@ -352,7 +355,6 @@ transcript:
     it with them, get their feedback. Engineers will have a lot of good feedback.
     You get their feedback, polish your tracking plan.
   who: Arpit
-- header: Collecting the data
 - line: I recommend that for every event you describe if it’s a client-side event
     or a server-side event. That is really important. It’s better to track server-side
     but you might want to track some client-side events.
@@ -373,6 +375,7 @@ transcript:
   sec: 1643
   time: '27:23'
   who: Arpit
+- header: 'Data warehousing & transformation: warehouses, DBT and BI analysis'
 - line: Ideally you would track it server side, but for some use cases, tracking client-side
     events is better if you want to track if someone clicked a button. This is useful,
     if you want to see if someone tried clicking on a button to use the feature. Even
@@ -385,13 +388,13 @@ transcript:
     and once you actually have data flowing in, you are actually done with the collection
     stage.
   who: Arpit
-- header: Storing and analyzing the data
 - line: The next step is to make sure that this data is stored in a warehouse. For
     early stage startups it might not always be possible to set up a warehouse. But
     it’s not hard to set up a warehouse today, it’s very affordable.
   sec: 1732
   time: '28:52'
   who: Arpit
+- header: 'Data activation: sending event data to support, sales and engagement tools'
 - line: But you need to store event data or product data somewhere. If you don’t,
     you would obviously be sending it to some product analytics tool, like clicky,
     mixpanel or amplitude. But you wouldn’t really have access to this raw event data
@@ -403,7 +406,6 @@ transcript:
     bunch of SQL queries to create a simple funnel report in a BI tool. But you could
     do it in a product analytics tool with a few clicks.
   who: Arpit
-- header: Data activation
 - line: Irrespective of the tools you are using to analyze the data, you derive some
     insights from the data, and then you want to activate that data —  act upon that
     data. That’s the most important thing. You cannot just look at data and be happy
@@ -434,6 +436,7 @@ transcript:
   sec: 1872
   time: '31:12'
   who: Arpit
+- header: 'Data collection platforms: Segment, RudderStack, MetaRouter, Freshpaint'
 - line: It’s also useful in sales. People don’t generally have access to product data
     in the tools that they use. But now more and more companies realize the importance
     of this. Now there is a new breed of companies, they are building new tools dubbed
@@ -454,7 +457,6 @@ transcript:
     data from Amplitude back to your product and to other tools to create a unified
     customer experience.
   who: Arpit
-- header: Tools for data collection
 - line: There was a lot of information and I have so many questions. Maybe we can
     take a step back and start from the beginning. You said for creating this tracking
     plan, we can use a specialized tool like TrackPlan. We create this tracking plan.
@@ -484,7 +486,8 @@ transcript:
   sec: 2125
   time: '35:25'
   who: Arpit
-- header: Data warehouses
+- header: 'Warehouse-centric analytics: Snowflake, BigQuery, Redshift & warehouse-first
+    tools'
 - line: We mentioned that we collect the data and then we can send it immediately
     to a product analytics tool, but it is better to store it in a warehouse. So what
     is a warehouse? It’s a database that you own, right? Can you tell us what it is?
@@ -515,7 +518,7 @@ transcript:
   sec: 2241
   time: '37:21'
   who: Alexey
-- header: Reverse ETL tools
+- header: 'Reverse ETL / operational analytics: Census, HighTouch, Grouparoo'
 - line: Exactly. That's what I meant. Next, there’s Panoply. Once you have the data
     in the warehouse, you can do a lot of things with it. You can send it back to
     your BI and analytics tools. You can even send it to your engagement tools. There
@@ -528,7 +531,7 @@ transcript:
   sec: 2245
   time: '37:25'
   who: Arpit
-- header: Customer data platforms
+- header: 'Customer Data Platforms (CDP): all-in-one trade-offs for marketers'
 - line: There’s a lot of different tools for solving different pieces of the puzzle.
     To implement all of these tools, you’d need a lot of resources. You’d need a data
     team, or at least one dedicated data engineer. It’s not possible for early stage
@@ -541,7 +544,6 @@ transcript:
   sec: 2300
   time: '38:20'
   who: Arpit
-- header: Modern data stack for growth
 - line: I was trying to take a note of all the tools you mentioned. But there are
     simply so many of them. Let’s say my co-founder and I just started a startup.
     We understand that data is important. We want to use it. We look at all these
@@ -558,6 +560,8 @@ transcript:
   sec: 2394
   time: '39:54'
   who: Arpit
+- header: 'Modern data stack for growth: CDI, product analytics, warehouse & reverse
+    ETL'
 - line: At the very least, you need to collect data. You need a tool like a CDI —
     Segment Connections, Rudderstack, MetaRouter. I will share a list. I’ve written
     a lot about this stuff. A lot of these tools have free tiers, free plans. You
@@ -582,6 +586,7 @@ transcript:
   sec: 2490
   time: '41:30'
   who: Arpit
+- header: 'Buy vs. build: cost, maintenance and open-source alternatives'
 - line: In terms of modern data stack for growth — you need a data collection tool,
     a product analytics tool and a warehouse. Every company should have a warehouse.
   who: Arpit
@@ -600,7 +605,6 @@ transcript:
     I agree, companies spend a lot of time figuring out the right tools. That’s a
     problem that needs to be solved.
   who: Arpit
-- header: Buy vs build
 - line: 'I have engineering background. I look at these tools and I think “why are
     they so expensive?” I could implement something like this. But I know that once
     I implement it, there will be bugs. It’s difficult to maintain later. You probably
@@ -621,6 +625,8 @@ transcript:
   sec: 2664
   time: '44:24'
   who: Arpit
+- header: 'Team composition: data engineer, analyst, analytics engineer & product
+    ops'
 - line: If you have the resources then you can do the buy-vs-build analysis. If you
     build this in-house, how much will it cost us? Do we have the resources to maintain
     that? Versus buying a ready-made solution.
@@ -632,7 +638,6 @@ transcript:
     effort to implement an open source tool. Just because it’s open-source, it doesn't
     mean it’s easy to implement. But if you have the resources you can go that route.
   who: Arpit
-- header: People we need to in the data flow
 - line: We talked about tools. We discussed the flow from the moment we start capturing
     events to the moment when data is activated. I’ve heard that we need to have at
     least a data engineer — somebody who implements this. Who else do we need to have
@@ -692,7 +697,7 @@ transcript:
   sec: 3066
   time: '51:06'
   who: Alexey
-- header: Data democratization
+- header: 'Data democratization: data literacy, documentation & self-serve analytics'
 - line: We also talked about data democratization. As I understood, this is about
     enabling people to access the data, go and analyze the data themselves, go and
     implement some things on top of data themselves. Is there any more to that like
@@ -717,7 +722,6 @@ transcript:
 - line: To sum it up, data democratization is about investing in data literacy, making
     clean accurate data available in the different tools across an organization.
   who: Arpit
-- header: Motivating people to document data
 - line: Also documented. Available and documented.
   sec: 3210
   time: '53:30'
@@ -727,6 +731,7 @@ transcript:
   sec: 3213
   time: '53:33'
   who: Arpit
+- header: 'Motivating documentation: culture, early habits & catalog tools'
 - line: How to motivate people to write data documentation? I know it is difficult.
     As a data scientist, I am the one who’s constantly producing new data for others
     to consume. But this step of documenting the data is annoying. How do you convince
@@ -765,7 +770,7 @@ transcript:
   sec: 3359
   time: '55:59'
   who: Arpit
-- header: Product-led vs data-led
+- header: 'Product-led vs. data-led: activation events and personalized onboarding'
 - line: One thing I wanted to ask you at the very beginning, but we didn’t cover this
     yes. There’s a thing called “product-led”. What is product-led? What is the difference
     between being product-led and being data-led?
@@ -825,7 +830,7 @@ transcript:
   sec: 3605
   time: '1:00:05'
   who: Arpit
-- header: Wrapping up
+- header: 'Closing & resources: dataled.academy, newsletter and podcast episodes'
 - line: Thank you. We should be wrapping up. I wanted to ask you if you want to say
     any last comments? Anything you want to mention.
   sec: 3629

@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/5Jvo53ibSoX6rfkfdGq5pJ
   apple: https://podcasts.apple.com/us/podcast/moving-from-academia-to-industry-cj-jenkins/id1541710331?i=1000544589971
 transcript:
+- header: Podcast Introduction
+- header: 'Career Journey: Postdoc to Data Science Lead'
 - line: This week we'll talk about moving from academia to industry. We have a special
     guest today, CJ. CJ worked as a postdoctoral researcher at Martin Luther University,
     which is a university in Germany and then she decided to move into data science.
@@ -25,7 +27,7 @@ transcript:
   sec: 58
   time: 0:58
   who: Alexey
-- header: CJ’s background
+- header: 'Evolutionary Biology: Statistics & Population Dynamics'
 - line: Yeah. I was an evolutionary biologist for a long time. I did my undergraduate
     Master's and PhD in evolutionary biology. Then, about six months before I finished
     my PhD, I was thinking “I'm not sure I want to stay in academia.” But that’s not
@@ -37,7 +39,6 @@ transcript:
   sec: 88
   time: '1:28'
   who: CJ
-- header: Evolutionary biology
 - line: What’s evolutionary biology?
   sec: 128
   time: '2:08'
@@ -58,6 +59,7 @@ transcript:
   sec: 131
   time: '2:11'
   who: CJ
+- header: 'Academic Research as Data Science Practice: Genomics & Bash'
 - line: To prepare for this interview, I was going through your LinkedIn profile.
     I actually got the impression that you were also doing data science stuff back
     when you were in academia.
@@ -89,7 +91,7 @@ transcript:
   sec: 240
   time: '4:00'
   who: CJ
-- header: Learning machine learning
+- header: 'Statistical Machine Learning: GLMs and Foundations'
 - line: Did you need to learn any machine learning or you basically knew everything
     you needed?
   sec: 285
@@ -121,7 +123,7 @@ transcript:
   sec: 368
   time: '6:08'
   who: CJ
-- header: Learning on the job and being honest with what you don’t know
+- header: 'Bridging Gaps: Deployment, Docker, and Python Learning'
 - line: Then for the things you didn't know – you mentioned you didn't know anything
     about deployment, you didn't know what API is, Docker, and all this stuff. Yep.
     Did you have to learn this on the job? It wasn’t before getting the job, right?
@@ -172,7 +174,7 @@ transcript:
   sec: 385
   time: '6:25'
   who: CJ
-- header: Convincing that you will be useful
+- header: 'Hiring Signals: Smartness, Ambition, and Receptiveness to Feedback'
 - line: That's cool. I'm just trying to think – some people are listening to this
     and they're thinking, “Okay, now I also have this theoretical foundation. I know
     statistics well. I know machine learning well. But how can I convince a potential
@@ -211,6 +213,7 @@ transcript:
   sec: 565
   time: '9:25'
   who: CJ
+- header: 'Interview Assessment: Testing Learning Agility and Humility'
 - line: How do you test for these things during the interview?
   sec: 642
   time: '10:42'
@@ -239,7 +242,7 @@ transcript:
   sec: 646
   time: '10:46'
   who: CJ
-- header: CJ’s first interview
+- header: 'First Tech Interview: Referral, Case Study in R, and Honesty'
 - line: Since you mentioned that you will be hiring juniors soon. I guess many people
     are taking notes right now. [laughs] Yeah, but that's tricky to check for these
     three things. But I guess companies also check their theoretical background and
@@ -305,7 +308,7 @@ transcript:
   sec: 901
   time: '15:01'
   who: CJ
-- header: Transitioning to industry
+- header: 'Transition Timeline: One-Year Plan and Coursera Sprint'
 - line: Did it take a lot of time between when the idea occurred to you that you wanted
     to try something else to your actual first day at N26?
   sec: 936
@@ -336,7 +339,7 @@ transcript:
   sec: 947
   time: '15:47'
   who: CJ
-- header: Tailoring your CV
+- header: 'Resume Strategy: Skills-First Rewriting and LinkedIn Keywords'
 - line: Can you tell us a bit about rewriting your CV? Because I told you that, when
     I was reading your LinkedIn – I don't know how many iterations you did there –
     but it sounded like very data science related stuff. So I could see that you were
@@ -395,6 +398,7 @@ transcript:
   sec: 1235
   time: '20:35'
   who: CJ
+- header: 'Refining Applications: 14 CV Iterations, Recruiter Tips, and ATS'
 - line: How many iterations did it take for your CV? You said that you had a CV that
     was six pages long. You had this bottle of wine and your friend when you were
     doing this. How many times did you need to redo the whole thing before you started
@@ -434,7 +438,7 @@ transcript:
   sec: 1256
   time: '20:56'
   who: CJ
-- header: Data science courses
+- header: 'Learning Resources: John Hopkins Specialization and Andrew Ng'
 - line: Yeah, cool. Thanks for sharing. You mentioned the Coursera specialization.
     There is a comment in the live chat where people are asking for the name of that
     specialization. What was it?
@@ -499,6 +503,7 @@ transcript:
   sec: 1497
   time: '24:57'
   who: CJ
+- header: 'Location Strategy: Choosing Berlin and Targeting Companies'
 - line: So you rewrote your CV – you said you had 14 iterations – then you took a
     course marathon. You finished the specialization instead of 10 months, you did
     it in 2. Then you decided to move to Berlin, right? You were in Germany, but you
@@ -507,7 +512,6 @@ transcript:
   sec: 1537
   time: '25:37'
   who: Alexey
-- header: Moving to Berlin
 - line: It was almost more organic than that. When I moved from the US, it wasn't
     even on my radar of places I would ever want to live. But living at the university
     in Halle, which is like an hour and a half south, I would have to go to Berlin
@@ -557,7 +561,7 @@ transcript:
   sec: 1669
   time: '27:49'
   who: CJ
-- header: Being selective vs ‘spray and pray’
+- header: 'Application Strategy: Selective Research vs. Volume Applications'
 - line: Yeah. You keep saying that you were lucky. But if I summarize what you did
     – you did 14 iterations of your CV. You took this long specialization in two months.
     You were also very selective – you selected companies that you knew. For example,
@@ -599,7 +603,7 @@ transcript:
   sec: 1773
   time: '29:33'
   who: CJ
-- header: Moving on to new jobs
+- header: 'Job Move: Klarna Experience and Onboarding Challenges'
 - line: Yeah. The second job you had was also in Berlin. It was Klarna, right?
   sec: 1860
   time: '31:00'
@@ -638,6 +642,7 @@ transcript:
   sec: 1874
   time: '31:14'
   who: CJ
+- header: 'Internal Mobility: Relocating to Stockholm Within the Company'
 - line: And this is how you moved to Sweden, right? Through Klarna?
   sec: 1968
   time: '32:48'
@@ -671,7 +676,7 @@ transcript:
   sec: 2014
   time: '33:34'
   who: CJ
-- header: Plan for transitioning to industry
+- header: 'Market Entry: Networking, Meetups, and Community Engagement'
 - line: Oh, that's nice. Let's say somebody right now lives in a small town in Germany.
     This person works as a postdoc at some university, doing some science. They hear
     that data science is cool, so they think, “Okay, maybe I want to do that.” Of
@@ -721,7 +726,7 @@ transcript:
   sec: 2170
   time: '36:10'
   who: CJ
-- header: Requirements for getting hired
+- header: 'Technical Expectations: Clean Code and Coding Proficiency for Juniors'
 - line: We also mentioned like half an hour ago when we started, that now, many companies
     don't just do one interview and hire people. The process is more complicated these
     days and the requirements are a bit higher. So what do you think the minimum requirements
@@ -741,6 +746,7 @@ transcript:
   sec: 2255
   time: '37:35'
   who: Alexey
+- header: 'Skill Building: Pair Programming, LeetCode, and Code Reviews'
 - line: I didn't learn how to do that till after I started. But the way that I learned
     how to get better at programming – and I still do this – a data scientist friend
     of mine asked me this today, “How do I get better at writing code?” And I was
@@ -789,7 +795,7 @@ transcript:
   sec: 2400
   time: '40:00'
   who: CJ
-- header: Publications, portfolios and pet projects
+- header: 'Research vs Industry: Publications, Portfolios, and Relevance'
 - line: '[laughs] Yeah. And it goes back to the first step, which is networking. Would
     that be enough? So networking, and learning to code. There is a comment about
     a publication being in a top data science journal that says “first authors”. Do
@@ -813,6 +819,7 @@ transcript:
   sec: 2463
   time: '41:03'
   who: Alexey
+- header: 'Real-World Data Work: Cleaning, Bash, and Domain Translation'
 - line: When I'm looking for people, it's not. But I think with other people it might
     be. I think if the person you're interviewing with has a background in engineering,
     then I think it makes a difference because they like being able to see what you've
@@ -858,7 +865,7 @@ transcript:
   sec: 2568
   time: '42:48'
   who: CJ
-- header: Adjusting to industry
+- header: 'Communication Shift: Simplifying Explanations and Office Culture'
 - line: Yeah, thanks. We have a question about when you transitioned from academia
     to industry, “Did you have to adjust your way of communicating and interacting
     with colleagues? Was it difficult for you?”
@@ -926,6 +933,7 @@ transcript:
   sec: 2823
   time: '47:03'
   who: CJ
+- header: 'Team Dynamics: Open Offices, Proximity, and Social Bonding'
 - line: Also, I think, – in academia, at least – in the places where I was a student
     or where I visited, it's always rooms. You have rooms where people sit – it's
     not open spaces. So it's a room with two or three people, but it's always a room.
@@ -956,7 +964,7 @@ transcript:
   sec: 2865
   time: '47:45'
   who: CJ
-- header: Bad habits from academia
+- header: 'Counterproductive Habits: Competitiveness vs. Collaboration'
 - line: Okay, yeah. I'm also curious, from the skills you had before in academia –
     we talked about many that were actually useful like being able to clean data,
     to process large amounts of data, and all the statistical things. But what about
@@ -993,6 +1001,7 @@ transcript:
   sec: 3056
   time: '50:56'
   who: Alexey
+- header: 'Psychological Safety: Team Rituals, Sharing Failures, and Trust'
 - line: Yeah. The way that I'm doing it now – because I'm facing a similar problem
     at my current position, where I'm leading people and trying to get them to feel
     comfortable talking to each other and feel comfortable being stupid in front of
@@ -1031,7 +1040,7 @@ transcript:
   sec: 3161
   time: '52:41'
   who: CJ
-- header: Topics with long-term value
+- header: 'Long-Term Learning: NLP, Kaggle as a Learning Resource'
 - line: Yeah, thanks. This is an interesting question from Mateus, “Have you had time
     to research or explore a topic that may not have an immediate impact on your job,
     but led to long-term value?”
@@ -1096,7 +1105,7 @@ transcript:
   sec: 3327
   time: '55:27'
   who: CJ
-- header: CJ’s textbook
+- header: 'Academic Output: Writing a Textbook on Parasitology'
 - line: Um, I know that you wrote a textbook. What was the textbook about?
   sec: 3328
   time: '55:28'
@@ -1168,7 +1177,7 @@ transcript:
   sec: 3523
   time: '58:43'
   who: CJ
-- header: Wrapping up
+- header: Closing Remarks and Contact Info (Find CJ on LinkedIn)
 - line: Do you want to add anything before we wrap up?
   sec: 3525
   time: '58:45'

@@ -16,6 +16,8 @@ short: Working in Open Source - Probabl.ai and sklearn
 title: 'Build Sustainable Scikit-Learn Ecosystems: scikit-lego, Skrub, GAP Encoder
   & DevRel'
 transcript:
+- header: Episode Overview — Open Source Focus
+- header: Guest Reintroduction & Vincent’s Open Source Profile
 - line: This week, we'll talk about open source again. We have a very special guest,
     Vincent, for the second time. This is not Vincent's first appearance. You were
     one of the first guests on this podcast more than three years ago.
@@ -75,13 +77,14 @@ transcript:
   sec: 237
   time: '3:57'
   who: Vincent
-- header: Vincent’s Background
+- header: Early Community Work & PyLadies Code Sprint
 - line: Thanks for being here. Before we start, I want to shout out to Johanna Bayer
     for preparing today's interview questions. Thanks, Johanna. The reason we're speaking
     today is because she met you at a conference, correct?
   sec: 240
   time: '4:00'
   who: Alexey
+- header: Scikit Lego Origin, Adoption, and Career Impact
 - line: Yes, at a PyLadies Code Sprint. There were many projects, and I was there
     on behalf of Scikit-Learn to help people get their first PR in. Johanna was in
     my Scikit-Learn bubble doing docs work and then asked if I wanted to come on this
@@ -104,6 +107,7 @@ transcript:
   sec: 348
   time: '5:48'
   who: Alexey
+- header: 'Career Path: Econometrics → DevRel → Core Engineering'
 - line: Sure. I studied econometrics and operations research, which is quite math-heavy.
     Around graduation, I discovered machine learning and wanted to try it out. I decided
     to backpack while taking some client programming work with me. I found programming
@@ -151,7 +155,7 @@ transcript:
   sec: 488
   time: '8:08'
   who: Vincent
-- header: Scikit-Learn’s History and Company Formation
+- header: 'Company Naming: Why :probabl. Is Separate from Scikit-Learn'
 - line: There are companies behind open source products that typically don't share
     the same name. For example, Explosion AI created spaCy, and :probabl. is associated
     with Scikit-Learn. Why didn't they just name it Scikit-Learn?
@@ -200,6 +204,7 @@ transcript:
 
     46'
   who: Vincent
+- header: Scikit-Learn Governance, NumFOCUS, and Project History
 - line: I'm checking the Scikit-Learn website. I don't see any trademark, but it probably
     belongs to NumFOCUS or another organization.
   sec: 628
@@ -248,7 +253,7 @@ transcript:
   sec: 806
   time: '13:26'
   who: Vincent
-- header: Maintaining and Transitioning Open Source Projects
+- header: 'Ecosystem Strategy: Plugins vs. Core Scikit-Learn Features'
 - line: Contributing something new to Scikit-Learn is difficult because maintainers
     are cautious about maintaining new methods. It's easier to create a plugin that
     follows the API and is maintained separately.
@@ -275,6 +280,7 @@ transcript:
   sec: 875
   time: '14:35'
   who: Vincent
+- header: Scikit Lego in Corporate Training and Contributor Growth
 - line: Can you tell us more about Scikit Lego? How did maintaining this library lead
     to working at :probabl.?
   sec: 1003
@@ -297,6 +303,7 @@ transcript:
   sec: 1089
   time: '18:09'
   who: Alexey
+- header: 'Maintainer Transition: Finding Sustainable Project Stewards'
 - line: It's enjoyable and beneficial. As time went on, I used the library less, so
     we looked for a new maintainer. Francesco volunteered, and his fresh perspective
     and enthusiasm improved the project.
@@ -334,11 +341,11 @@ transcript:
   sec: 1268
   time: '21:08'
   who: Vincent
-- header: Teaching and Learning Through Open Source
 - line: How do you make a library fun to maintain?
   sec: 1309
   time: '21:49'
   who: Alexey
+- header: Motivating Volunteer Maintainers and Keeping Projects Fun
 - line: We celebrate that it's volunteer work. We encourage implementing features
     if they're in someone's domain or sound fun. We require benchmarks to confirm
     improvements. If it's not fun, it won't be maintained.
@@ -351,7 +358,7 @@ transcript:
   sec: 1311
   time: '21:51'
   who: Vincent
-- header: Role of Developer Relations and Content Creation
+- header: 'Demonstrating Quality: Open Source Work as a Hiring Signal'
 - line: You told us about Scikit Lego. How did it lead to your current job?
   sec: 1409
   time: '23:29'
@@ -382,7 +389,7 @@ transcript:
   sec: 1542
   time: '25:42'
   who: Alexey
-- header: Teaching Through Calm Code and The Importance of Content Creation
+- header: 'Calm Code Philosophy: Practical, Low-Pressure Learning'
 - line: 'I''m a frequent speaker at PyData. During COVID, I started
 
     Calm Code, a tutorial website as an alternative to DataCamp. I didn''t like their
@@ -406,6 +413,7 @@ transcript:
   sec: 1640
   time: '27:20'
   who: Alexey
+- header: 'Content Production: Videos, Scale, and Communication Practice'
 - line: Yes, counting my work at Rasa and Explosion, it's close to 1000 videos. At
     Explosion, we focused on quality over quantity.
   sec: 1644
@@ -431,11 +439,11 @@ transcript:
   sec: 1712
   time: '28:32'
   who: Vincent
-- header: Current Projects and Future Plans for Calm Code
 - line: Do you still actively put things out on Calm Code?
   sec: 1765
   time: '29:25'
   who: Alexey
+- header: 'Calm Code Platform: Django, Monetization, and Hiring Contributors'
 - line: Yes, but I've realized that collaboration is more sustainable. Having collaborators
     with different expertise makes the platform more effective and enjoyable. We're
     building a proper platform for Calm Code, moving beyond just markdown files.
@@ -462,17 +470,18 @@ transcript:
   sec: 1898
   time: '31:38'
   who: Alexey
+- header: 'CI and Cost Optimization: Custom Runners and GitHub Actions'
 - line: Barely. There's much more we want to do. I'm interested in exploring when
     it makes sense to use a custom runner for GitHub Actions to save on compute costs
     and optimize performance.
   sec: 1902
   time: '31:42'
   who: Vincent
-- header: Data Processing Tricks and The Importance of Innovation
 - line: A runner executes the action on your environment, not on GitHub’s?
   sec: 1938
   time: '32:18'
   who: Alexey
+- header: 'Sustainable Compute Examples: Leaf.cloud and Environmental Impact'
 - line: Yes. Using a VM you own can offer caching benefits and save costs. There are
     startups like Leaf.cloud offering carbon-negative compute, making it both economically
     and environmentally competitive.
@@ -490,6 +499,7 @@ transcript:
   sec: 1989
   time: '33:09'
   who: Vincent
+- header: 'Teaching Fundamentals: Docker, pip, and Git Challenges for Beginners'
 - line: You mentioned that for experienced Python users, pip install is second nature.
     For newcomers, Docker is challenging. In our data engineering course, Docker is
     the most problematic module.
@@ -513,7 +523,7 @@ transcript:
   sec: 2131
   time: '35:31'
   who: Alexey
-- header: Learning the Fundamentals and Changing the Way You See a Problem
+- header: 'Conceptual Learning: Mindset Over Commands for Tooling'
 - line: I use GitHub in many courses, but Calm Code assumes you're not a complete
     beginner. You need some programming experience.
   sec: 2136
@@ -554,11 +564,11 @@ transcript:
   sec: 2294
   time: '38:14'
   who: Alexey
+- header: Combining DevRel and Core Development Responsibilities
 - line: Sure, let's segue back to Scikit-Learn stuff.
   sec: 2302
   time: '38:22'
   who: Vincent
-- header: Dev Rel and Core Dev in One
 - line: You work at :probabl. as a Developer Advocate and also implement core features.
     How do you manage both roles?
   sec: 2306
@@ -591,6 +601,7 @@ transcript:
   sec: 2477
   time: '41:17'
   who: Alexey
+- header: 'Role Definition: Developer Relations Engineer at :probabl.'
 - line: It's Developer Relations Engineer. I joked about preferring 'Senior Person,'
     but it's about fixing problems for the company. Titles like 'senior' or 'junior'
     feel counterproductive. I do a lot of Dev Rel stuff, so Developer Relations Engineer
@@ -598,11 +609,11 @@ transcript:
   sec: 2481
   time: '41:21'
   who: Vincent
-- header: Why :probabl. Needs a Dev Rel
 - line: Why does Scikit-Learn need a Dev Rel?
   sec: 2533
   time: '42:13'
   who: Alexey
+- header: Enhancing Scikit-Learn with Interactive Content and Videos
 - line: :probabl. hired me, not Scikit-Learn. Scikit-Learn has great documentation,
     thanks to colleagues like Arturo, who leads the docs effort. But there's always
     more we can do, like interactive code examples and maintainingers' experiences
@@ -622,6 +633,7 @@ transcript:
   sec: 2647
   time: '44:07'
   who: Alexey
+- header: 'Deep Dive Example: Why the Standard Scaler Is Complex'
 - line: Via :probabl., I promote Scikit-Learn. For example, we have scalers in Scikit-Learn
     to standardize data. The Standard Scaler subtracts the mean and scales the variance,
     but there are many complexities involved. A video explaining these details helps
@@ -666,11 +678,11 @@ transcript:
   sec: 2868
   time: '47:48'
   who: Vincent
-- header: Exploration of Skrub and Advanced Data Processing
 - line: What is Skrub? You mentioned it several times.
   sec: 2907
   time: '48:27'
   who: Alexey
+- header: 'Skrub Overview: Table Vectorizer and Pragmatic Tabular Defaults'
 - line: Skrub is a Scikit-Learn plugin in an experimental phase. Gaël Varoquaux and
     others are working on it. The goal is to simplify handling tabular data with components
     like the table vectorizer, which automatically determines the best way to process
@@ -697,6 +709,7 @@ transcript:
   sec: 3025
   time: '50:25'
   who: Alexey
+- header: 'Skrub GAP Encoder: Clustering Dirty Categories to Avoid One-Hot Explosion'
 - line: One feature in Skrub is the GAP encoder, which handles dirty categories by
     modeling them as text and clustering similar items. This prevents the explosion
     of one-hot encoding and offers efficient data processing.
@@ -732,12 +745,12 @@ transcript:
   sec: 3186
   time: '53:06'
   who: Vincent
-- header: Personal Insights on Scikit-Learn and Industry Trends
 - line: Scikit-Learn existed without a company behind it for a long time. Why start
     one now?
   sec: 3216
   time: '53:36'
   who: Alexey
+- header: 'Why Form a Company for Scikit-Learn: Funding and European Tech Goals'
 - line: My perspective is that relying on academic funding models is risky for such
     a central open-source project. Creating a company can provide more stable funding
     and support for Scikit-Learn. Additionally, there's tremendous value in the project,
@@ -761,6 +774,7 @@ transcript:
   sec: 3375
   time: '56:15'
   who: Alexey
+- header: 'Potential Business Models: Training, Consulting, and Partnerships'
 - line: 'There are ideas like training and consulting. Collaborations with
 
     cloud providers might happen, but it''s still early. You can check the TechCrunch
@@ -785,11 +799,11 @@ transcript:
   sec: 3439
   time: '57:19'
   who: Vincent
-- header: Vincent’s Upcoming Projects
 - line: We don't have a lot of time left. What's your next personal project?
   sec: 3444
   time: '57:24'
   who: Alexey
+- header: 'Upcoming Work: Calm Code Book on Expectations vs. Reality in Data'
 - line: Calm Code will have a book about expectations versus reality in the field
     of data. It will cover overpromised aspects of data science and share anecdotes
     and stories.
@@ -807,6 +821,7 @@ transcript:
   sec: 3491
   time: '58:11'
   who: Vincent
+- header: 'Live Experiments: Converting Tree Models to SQL and Streaming Work'
 - line: We also have a live stream at :probabl. where we explore new technologies.
     For example, I'm looking into converting tree-based models into SQL queries for
     efficient processing.
@@ -822,11 +837,13 @@ transcript:
   sec: 3624
   time: '1:00:24'
   who: Alexey
+- header: 'Live Stream Format: Preparation, Live Coding, and Demos'
 - line: I prepare, but part of the stream is live coding and sharing insights. It's
     important to be prepared, especially when demoing other projects.
   sec: 3627
   time: '1:00:27'
   who: Vincent
+- header: Episode Closing and Final Remarks
 - line: Okay, that's all we have time for today. Thanks for joining us and sharing
     your experience and future plans.
   sec: 3675

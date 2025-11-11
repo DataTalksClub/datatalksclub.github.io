@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/3hlzKwORlOsCPKrawuW4YQ
   apple: https://podcasts.apple.com/us/podcast/building-and-leading-data-teams-tammy-liang/id1541710331?i=1000537994433
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Background: Tammy Liang’s career path into data'
 - line: This week, we'll talk about building a data team for making decisions with
     data. We have a special guest today, Tammy. Tammy is the chief of data at Platanomelon.
     Platanomelon is a digital sex toy brand that empowers people to break taboos on
@@ -28,7 +30,6 @@ transcript:
   sec: 74
   time: '1:14'
   who: Alexey
-- header: Tammy’s background
 - line: The topic for today is ‘building data teams’. Before we go into our main topic,
     let's start with your background. Can you tell us a few words about yourself?
   sec: 130
@@ -61,7 +62,7 @@ transcript:
   sec: 157
   time: '2:37'
   who: Tammy
-- header: Being the chief of data
+- header: 'Chief of Data Responsibilities: Marketing, e‑commerce, and operations'
 - line: You started as the first data person that's really cool. What do you do as
     chief of data?
   sec: 247
@@ -101,6 +102,8 @@ transcript:
   sec: 402
   time: '6:42'
   who: Alexey
+- header: 'Data Challenges for Sensitive Products: Social media restrictions & creative
+    tracking'
 - line: Yeah. There's a lot. Just one more product than I’m really excited about is
     – we are very customer-centric, and we want to understand and listen to our customers
     better and better. Therefore, we try to do a lot of social listening and customer
@@ -108,13 +111,13 @@ transcript:
   sec: 404
   time: '6:44'
   who: Tammy
-- header: First projects as the first data person in a company
 - line: Yeah, that's a lot. Marketing, then demand forecasting, and then social listening.
     Those are the three main approaches. What was your first project that you started
     with as the only data person? Was it marketing or something else?
   sec: 427
   time: '7:07'
   who: Alexey
+- header: 'First Project: Business health monitoring and dashboards'
 - line: 'It was more about business health monitoring and about building dashboards.
     If you think about helping an organization to start doing data analytics, the
     most low-hanging fruit is actually to deliver timely monitoring about the business’s
@@ -141,6 +144,7 @@ transcript:
   sec: 508
   time: '8:28'
   who: Alexey
+- header: 'Cross‑team Collaboration: Streamlining reporting and building trust'
 - line: I would say that it's a little bit the other way around. It’s more about the
     management realizing, “Okay, we do have the need. Everyone is talking about data
     and for the company to grow further it’s maybe something we need.” But people
@@ -160,7 +164,7 @@ transcript:
   sec: 531
   time: '8:51'
   who: Tammy
-- header: Initial resistance
+- header: 'Handling Resistance: Spreadsheet culture and adoption hurdles'
 - line: I’m wondering – did you get any resistance initially?
   sec: 606
   time: '10:06'
@@ -200,12 +204,12 @@ transcript:
   sec: 669
   time: '11:09'
   who: Alexey
+- header: Scaling from Dashboards to Predictive Projects
 - line: Then you convinced them – you showed how useful that was. The first thing
     was business monitoring, right? How well the company is doing, what happens after
     a change, whether it leads to drops in traffic or increases in traffic and things
     like that. So what happened after that?
   who: Alexey
-- header: Expanding the team
 - line: You said, now there is a team of five people. How did you arrive at a point
     when you needed to hire the first person?
   sec: 720
@@ -220,6 +224,7 @@ transcript:
   sec: 730
   time: '12:10'
   who: Tammy
+- header: 'Model Delivery Challenges: From notebooks to production'
 - line: One of the things is demand forecasting, which is something that is predictive.
     Then we need to start building models in-house. Building a model means you need
     to have historical data. Having historical data means you need to have a data
@@ -260,6 +265,7 @@ transcript:
   sec: 902
   time: '15:02'
   who: Alexey
+- header: 'Hiring Progression: First analyst then data engineer'
 - line: Yeah. I didn't think it was important at all. Now comes the time that I regret
     that and I started seeking help. At the beginning, when I had my first hire, we
     had a lot of demand for the dashboard – this was still one of the main tasks that
@@ -287,6 +293,7 @@ transcript:
   sec: 995
   time: '16:35'
   who: Alexey
+- header: Building a Data Warehouse to Enable Forecasting
 - line: Yeah. I was actually able to configure the data warehouse. With Stage, I was
     using the options in the market and I was very proud that I was learning a lot.
     But it was not enough to keep pace with the growth. Then, just to finish up the
@@ -298,6 +305,7 @@ transcript:
   sec: 1031
   time: '17:11'
   who: Tammy
+- header: 'Business‑Facing Role: Hiring for adoption and communication'
 - line: As the data team we need to work a lot, because if we do not tell the team
     what we are producing, the tools are developed, but they just sit there and no
     one uses them. So we would just be wasting our time and energy. Therefore, the
@@ -309,7 +317,6 @@ transcript:
     developments. That's the current project picture and we're looking to grow it
     more this year.
   who: Tammy
-- header: Role of business analyst
 - line: That's interesting, especially the last role you mentioned – this business
     analyst/data researcher. The problem you had there when you were growing your
     team was that you realized you have these tools – you have these dashboards, you
@@ -419,7 +426,7 @@ transcript:
   sec: 1351
   time: '22:31'
   who: Tammy
-- header: Platanomelon’s stack
+- header: 'Data Stack Overview: Stitch, GCP, dbt, Data Studio, and Notion wiki'
 - line: What kind of stack do you have?
   sec: 1352
   time: '22:32'
@@ -433,7 +440,7 @@ transcript:
   sec: 1354
   time: '22:34'
   who: Tammy
-- header: Order for growing the data team
+- header: 'Rethinking Hiring Order: Importance of senior hires early'
 - line: Yeah, that's interesting. Thanks. When I was preparing for the interview,
     I took a look at your LinkedIn profile and then there was a line for your ‘current
     job’ that said that your responsibility is “building a leading data team to provide
@@ -480,6 +487,7 @@ transcript:
   sec: 1580
   time: '26:20'
   who: Alexey
+- header: 'Prioritizing Roles: Analyst, engineer, and business analyst tradeoffs'
 - line: This really depends on the company. If in your company there’s a lot of data
     infrastructure, then the engineer would be first. In my personal case, I can do
     analytics myself. So for that part, I'm not worried. But if it's a business driven
@@ -550,7 +558,7 @@ transcript:
   sec: 1758
   time: '29:18'
   who: Tammy
-- header: Demand forecasting
+- header: 'Demand Forecasting: Data provision, stakeholder input, and iteration'
 - line: But for you – I think you mentioned that this demand forecasting project appeared
     quite soon enough, right?
   sec: 1760
@@ -582,7 +590,7 @@ transcript:
   sec: 1835
   time: '30:35'
   who: Tammy
-- header: Should analysts know machine learning
+- header: 'Analyst Skills: Time series and basic machine learning as advantages'
 - line: So would you require – or would you consider it a nice quality to have – for
     your data analysts to know some machine learning or to know some time series modeling?
   sec: 1857
@@ -618,7 +626,7 @@ transcript:
   sec: 1930
   time: '32:10'
   who: Tammy
-- header: Qualifications for the first data person in a company
+- header: 'First‑Hire Qualities: Business alignment and leadership mindset'
 - line: Yeah, thanks. I have a lot of questions that I didn't send you in the list
     of questions that I have prepared. So the question I have is, “What kind of qualities
     do you need to have as the first data person in a company? Should you be more
@@ -639,6 +647,9 @@ transcript:
   sec: 2016
   time: '33:36'
   who: Tammy
+- header: 'Data Accuracy & Governance: Errors, playbook, and rebuilding trust'
+- header: 'Data Testing & Monitoring: dbt tests and regular dashboard checks'
+- header: 'Timely Insights: Operational visibility and campaign monitoring'
 - line: So as you said, the most important thing is to align with business stakeholders,
     which is more about your communication skills rather than anything else. I think
     analysts are, in general, better at communication than engineers. At least this
@@ -666,7 +677,6 @@ transcript:
   sec: 2107
   time: '35:07'
   who: Tammy
-- header: Providing accurate results
 - line: Yeah, thanks. So let me again repeat the sentence from your LinkedIn. We already
     talked about “building and leading data teams.” Next is “to provide accurate,
     timely and useful insights,” and then “to empower the company to make the best
@@ -778,7 +788,6 @@ transcript:
   sec: 2489
   time: '41:29'
   who: Tammy
-- header: Receiving insights in a timely manner
 - line: I think we only talked about one word “accurate,” right? But there are two
     more “accurate, timely and useful.” So let's talk about “timely.” Why should insights
     be timely? Why is this important?
@@ -856,6 +865,7 @@ transcript:
   sec: 2730
   time: '45:30'
   who: Alexey
+- header: 'Offline Attribution: Surveys, community sampling, and measuring TV/banners'
 - line: Actually, we benefit from that. We created a brand that has a lot of customer
     engagement. Whenever we launch surveys, we have this community who are very happy
     to give us feedback and information. After the customers make a purchase we usually
@@ -904,7 +914,7 @@ transcript:
   sec: 2822
   time: '47:02'
   who: Tammy
-- header: Providing useful insights
+- header: 'Useful Data Products: Product mindset and business alignment'
 - line: Okay, cool. Then the last word. We talked about “accurate” and “timely” and
     then there’s “useful”. So why “useful”? Why does this matter?
   sec: 2828
@@ -934,6 +944,7 @@ transcript:
   sec: 2899
   time: '48:19'
   who: Alexey
+- header: 'Driving Adoption: Workshops, Q&A sessions, and building data culture'
 - line: Very good question. To encourage a team to use your product when it's something
     new – that’s difficult. Not everyone's an early adopter that’s eager to see more
     things about data. So to tackle that, we do a lot of workshops and informal sessions
@@ -952,7 +963,6 @@ transcript:
   sec: 2940
   time: '49:00'
   who: Tammy
-- header: Giving ownership to the team
 - line: 'So this is something you really need to know well as the chief of data: You
     need to make sure that the results are accurate. You need to make sure that there
     are timely quality checks. You need to make sure that there are no delays in data.
@@ -963,6 +973,7 @@ transcript:
   sec: 3018
   time: '50:18'
   who: Alexey
+- header: 'Leadership Approach: Delegation, ownership, and team empowerment'
 - line: Actually… I would say that it’s nothing that tires me. There are a lot of
     things going on within the team. But one of my leadership mottoes is that “I need
     to give ownership of all the projects to everyone who is doing it.” That really
@@ -1000,7 +1011,7 @@ transcript:
   sec: 3136
   time: '52:16'
   who: Tammy
-- header: Starting as the first data person in a company
+- header: 'Resources for New Data Leaders: Communities, courses, and mentors'
 - line: Yeah, I think we managed to cover only half of that sentence so far [laughs].
     And I see that we don't have a lot of time left and there is a question. So I
     thought maybe we go to a question from Bayram. The question is “What resources
@@ -1024,7 +1035,7 @@ transcript:
   sec: 3185
   time: '53:05'
   who: Tammy
-- header: Data For Future podcast
+- header: 'Data For Future Podcast: Data + sustainability focus'
 - line: Yeah. Actually a few people from the DataTalks.Club community reached out
     to me saying, “Hey, I have this problem. Can you invite somebody who can talk
     about this specific thing?” And this is really cool. So please do that. If somebody
@@ -1070,7 +1081,7 @@ transcript:
   sec: 3377
   time: '56:17'
   who: Tammy
-- header: Supporting team members that are stuck
+- header: 'Supporting Stuck Team Members: Google, communities, and networks'
 - line: Please, everyone else also do that – Spotify, Apple podcasts, whatever you
     use to do that. We have another question from Bayram. “How do you support your
     team members if they are stuck on some problem? Let's say that they're working
@@ -1128,6 +1139,7 @@ transcript:
   sec: 3510
   time: '58:30'
   who: Tammy
+- header: Closing Remarks & Where to Find Tammy (LinkedIn, dataforfuture.org)
 - line: Some textbooks have a lot of good materials, but they are boring. Indeed.
     I remember some books about machine learning that are very heavy. I remember when
     I was studying machine learning – that I had to carry them to class [laughs].
@@ -1140,7 +1152,6 @@ transcript:
   sec: 3561
   time: '59:21'
   who: Tammy
-- header: Finding Tammy online
 - line: How can people find you?
   sec: 3568
   time: '59:28'

@@ -16,6 +16,8 @@ short: SE4ML - Software Engineering for Machine Learning
 title: 'Prevent Hidden Technical Debt in ML Systems: Software Engineering, MLOps,
   Docs & Responsible AI'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Background: Nadia Nahar (PhD, software engineering)'
 - line: This week, we'll talk about software engineering for machine learning. We
     have a special guest today, Nadia. Nadia is a software engineering PhD student
     at the Institute for Software Research, which is at Carnegie Mellon University.
@@ -33,7 +35,6 @@ transcript:
   sec: 128
   time: '2:08'
   who: Alexey
-- header: Nadia’s background
 - line: Let's start. Before we go into our main topic of software engineering for
     machine learning, let's start with your background. Can you tell us about your
     career journey so far?
@@ -58,7 +59,6 @@ transcript:
   sec: 144
   time: '2:24'
   who: Nadia
-- header: Academic research in software engineering
 - line: When I hear software engineering and academia, for me, these are a bit of
     two different worlds. Pardon my ignorance – you will probably now tell me how
     wrong I am. But I'm just curious. I was mostly a practitioner. I started my career
@@ -69,6 +69,7 @@ transcript:
   sec: 216
   time: '3:36'
   who: Alexey
+- header: Academia–Industry Collaboration in Software Engineering
 - line: Yes, looking at this from different domains, software engineering is more
     connected to industry than the other fields that researchers work on. That's my
     experience. Previously, as well, when I was working in Bangladesh in software
@@ -93,7 +94,6 @@ transcript:
   sec: 254
   time: '4:14'
   who: Nadia
-- header: Design patterns
 - line: When I think about this, there is a famous book – I don't remember the actual
     name of it, but people usually refer to it as the Gang of Four book – which is
     about design patterns. If I remember correctly, this book is a result of research
@@ -112,7 +112,7 @@ transcript:
   sec: 384
   time: '6:24'
   who: Nadia
-- header: Software engineering for ML systems
+- header: Defining Software Engineering for Machine Learning Systems
 - line: The topic for today's interview is software engineering for machine learning
     systems. I think this is a relatively new thing. Data science is maybe only 10
     years old – or maybe slightly more. At the beginning, I remember that data scientists
@@ -124,6 +124,7 @@ transcript:
   sec: 418
   time: '6:58'
   who: Alexey
+- header: 'ML vs Traditional Software: uncertainty, data workflows, monitoring'
 - line: There are two ways to think about it. One is, as you said, when data science
     first came to the industry, we really thought about it as a model-centric thing.
     People would just create a model, train it with data, it will perform really well
@@ -163,6 +164,7 @@ transcript:
   sec: 462
   time: '7:42'
   who: Nadia
+- header: 'System-Centric Perspective: "Hidden Technical Debt" and scope'
 - line: There's this famous paper from Google, Hidden Technical Debt in Machine Learning
     Systems, which has a diagram that went quite viral. I even have it in my Twitter
     header. It has the tiny ML part in the middle and then the rest is software. This
@@ -183,7 +185,7 @@ transcript:
   sec: 652
   time: '10:52'
   who: Nadia
-- header: Problems that people in industry have with software engineering and ML
+- header: 'Industry Pain Points: requirements, unrealistic expectations, data access'
 - line: 17. Okay. So it was long ago, considering how young the field of data science
     is, right? [Nadia agrees] I see. In your research, I think you mentioned that
     you needed to do a lot of interviews and you needed to study what kind of problems
@@ -229,13 +231,13 @@ transcript:
   sec: 687
   time: '11:27'
   who: Nadia
-- header: Communication issues and setting requirements
 - line: So friction between people, because data scientists are not trained to productionize
     their models, I guess. Then there are data issues and then requirement issues.
     Requirement, data, and people – three main parts, right?
   sec: 816
   time: '13:36'
   who: Alexey
+- header: 'Communication & Alignment: vocabulary, expectation setting, documentation'
 - line: Yeah, you could say that. There is also the problem of setting expectations,
     which is also an issue of communication. In this kind of system, it's really important
     that you have something written. In software engineering, as well, we don't want
@@ -258,12 +260,12 @@ transcript:
   sec: 832
   time: '13:52'
   who: Nadia
-- header: Artifact research in open source products
 - line: Are you focusing on any specific issue from all this in your research? Or
     are you trying to understand all these issues at the same time?
   sec: 906
   time: '15:06'
   who: Alexey
+- header: 'Artifact Analysis: building an open-source ML product dataset'
 - line: That was one part of the research, where I was trying to understand what's
     happening. Right now, I'm also working on another project, which is also trying
     to understand but also analyze some artifacts. For this project I'm working on
@@ -323,6 +325,7 @@ transcript:
   sec: 1043
   time: '17:23'
   who: Nadia
+- header: 'Open-Source ML Products: dataset size (~300 repos) and availability issues'
 - line: I was going to ask you about that. In our community, I quite often see questions
     like, “I want to learn more about machine learning. Are there good open source
     projects from which I can learn?” Usually, I don't have good examples because
@@ -369,7 +372,7 @@ transcript:
   sec: 1196
   time: '19:56'
   who: Nadia
-- header: Product vs model
+- header: 'Product Criteria: distinguishing ML products from models and APIs'
 - line: So in order to call it a product, it should be some sort of application or
     an API, maybe in a mobile application, maybe in a web service, or something like
     this – something that you can actually interact with and it gives you some predictions.
@@ -414,7 +417,8 @@ transcript:
   sec: 1440
   time: '24:00'
   who: Nadia
-- header: Nadia’s open source product dataset
+- header: 'Dataset Research Questions: development order, collaboration, testing,
+    ops, responsible AI'
 - line: So what is in your dataset? As I understood, this is a tabular dataset, where
     you have links to GitHub, then some code quality characteristics. What else do
     you have there?
@@ -449,6 +453,7 @@ transcript:
   sec: 1519
   time: '25:19'
   who: Nadia
+- header: 'Analysis Approach: manual review augmented by scripts (commits & code)'
 - line: You can see that from the commit history, right? Are you doing this manually
     or is there some semi-automatic process that does that?
   sec: 1562
@@ -517,7 +522,8 @@ transcript:
   sec: 1778
   time: '29:38'
   who: Nadia
-- header: Failure points in machine learning projects
+- header: 'Failure Modes: discontinuation, unmet requirements, poor data, deployment
+    gaps'
 - line: I know that a lot of machine learning projects fail. I'm wondering – in this
     dataset, do you have any cases when the project has failed? Or it's mostly successful
     projects?
@@ -592,7 +598,6 @@ transcript:
   sec: 1990
   time: '33:10'
   who: Nadia
-- header: Finding solutions to issues using Nadia’s dataset and experience
 - line: I guess most of the solutions are based on setting up some processes. For
     example, one of the processes is CRISP DM, which is quite convenient, in my opinion.
     Even though it's like a hundred years old. [chuckles] It's from the 90s, these
@@ -602,6 +607,8 @@ transcript:
   sec: 2031
   time: '33:51'
   who: Alexey
+- header: 'Process Gap: CRISP-DM, Agile mismatch, and the need for integrated ML+SW
+    processes'
 - line: To be honest, the process is the biggest problem that people have right now.
     CRISP DM and also some of the other machine learning pipelines that we have seen
     in the research, and also that people follow in the industry, does not really
@@ -639,7 +646,8 @@ transcript:
   sec: 2062
   time: '34:22'
   who: Nadia
-- header: The problem of siloing data scientists and other structure issues
+- header: 'Team Structures & Integration Patterns: siloing, APIs, all-in-one teams,
+    ML engineers'
 - line: It’s interesting that you mentioned that there are two different processes.
     From what I see, sometimes these two processes just coexist and we just need to
     figure out – data scientists and engineers work with one process and then software
@@ -691,6 +699,8 @@ transcript:
   sec: 2342
   time: '39:02'
   who: Alexey
+- header: 'Practical Remedies: workshops, shared vocabularies, documentation, engineering
+    support (MLOps)'
 - line: Exactly. We have to incorporate some engineers in the team so that the person
     can help the data scientists deploy this product. This is one structure. There's
     another structure, which didn't really scale, but was doing kind of well – this
@@ -753,7 +763,7 @@ transcript:
   sec: 2345
   time: '39:05'
   who: Nadia
-- header: The importance of documentation and checklists
+- header: 'Documentation Practices: Model Cards, Datasheets, factsheets, and checklists'
 - line: There is communication, documentation… I guess maybe documentation is a part
     of communication. Then there’s engineering and good processes. These four, right?
     [Nadia agrees] I’m really curious about documentation because I am an engineer
@@ -839,7 +849,8 @@ transcript:
   sec: 2834
   time: '47:14'
   who: Nadia
-- header: Responsible AI
+- header: 'Responsible AI Research: explainability requirements in healthcare and
+    education'
 - line: Okay. When we were talking about the dataset you were preparing – this dataset
     with repositories – you were about to start talking about something else and then
     I interrupted you. I wanted to go back there because I think that you wanted to
@@ -882,6 +893,8 @@ transcript:
   sec: 2938
   time: '48:58'
   who: Nadia
+- header: 'Explainability Use Case: classroom game predicting smoking risk and stakeholder
+    needs'
 - line: Based on what? A game? Like a computer game?
   sec: 3003
   time: '50:03'
@@ -964,6 +977,7 @@ transcript:
   sec: 3244
   time: '54:04'
   who: Alexey
+- header: 'Responsible AI Governance: product-centric fairness and team accountability'
 - line: This is slightly rooted in that, not entirely. The relation will be to the
     responsible AI parts. In the industry, we were trying to figure out whether data
     scientists and the software developers are really concerned about responsible
@@ -1004,7 +1018,8 @@ transcript:
   sec: 3256
   time: '54:16'
   who: Nadia
-- header: How data scientists and software engineers can work in an Agile way
+- header: 'Agile Integration: involving ML practitioners from requirements through
+    testing'
 - line: Interesting. I noticed we have a question from Antonis. I know we don't have
     a lot of time, but maybe you can recommend a resource where there is an answer
     to this question. The question is, “How would you advise a machine learning engineer
@@ -1072,6 +1087,7 @@ transcript:
   sec: 3575
   time: '59:35'
   who: Alexey
+- header: Closing Remarks & Resources
 - line: Thank you so much for having me. I really liked having this conversation.
   sec: 3601
   time: '1:00:01'

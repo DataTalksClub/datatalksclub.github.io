@@ -15,6 +15,8 @@ season: 18
 short: Knowledge Graphs and LLMs Across Academia and Industry
 title: 'Using Knowledge Graphs & LLMs for Automotive R&D: RAG, Graph ML & Crash Simulation'
 transcript:
+- header: Episode Introduction
+- header: 'Guest Bio: career path from mechanical engineering to applied AI'
 - line: Let's go. This week, we will talk about knowledge graphs and LLMs lamps and
     how they are used in research in academia and industry. And we have a very special
     guest today, Anahita. Anahita is originally from Iran. She transitioned from mechanical
@@ -40,7 +42,7 @@ transcript:
   sec: 168
   time: '2:48'
   who: Anahita
-- header: Anahita's Background
+- header: Guest Background & Career Transition
 - line: Before we go into our main topic of knowledge graphs, LLMs and all that, let's
     start with your background. I briefly mentioned your background, but you can probably
     go into a little bit more detail. Can you tell us about your career journey so
@@ -81,7 +83,7 @@ transcript:
   sec: 196
   time: '3:16'
   who: Anahita
-- header: Mechanical Engineering and Applied Mechanics
+- header: Applied Mechanics & Finite Element Analysis (FEA) overview
 - line: What do mechanical engineers actually do in applied mechanics?
   sec: 337
   time: '5:37'
@@ -124,7 +126,7 @@ transcript:
   sec: 451
   time: '7:31'
   who: Anahita
-- header: Finite Element Analysis vs. Machine Learning
+- header: 'FEA vs Machine Learning: numerical modeling vs data-driven approaches'
 - line: So this finite element analysis – is it in any way related to machine learning?
     Or is it a totally different thing?
   sec: 485
@@ -138,6 +140,7 @@ transcript:
   sec: 495
   time: '8:15'
   who: Anahita
+- header: Optimization, Topology & Semantic Reporting in crash simulations
 - line: This is what you studied and then you said that there was no way for you to
     avoid the automotive industry. You were doing optimization and semantic reporting.
     What are these things? What kind of optimization were you doing? What is semantic
@@ -145,7 +148,6 @@ transcript:
   sec: 530
   time: '8:50'
   who: Alexey
-- header: Optimization and Semantic Reporting
 - line: So, with the semantic reporting, what I'm referring to is that they are… it's
     an interesting topic to have FAIR data – I mean to be able to regenerate the analysis
     – because what we are seeing ahead of all these tests and crash tests, is that
@@ -260,7 +262,7 @@ transcript:
   sec: 873
   time: '14:33'
   who: Anahita
-- header: Application of Knowledge Graphs in Research
+- header: 'Knowledge Graphs for Automotive R&D: motivation and Neo4j adoption'
 - line: Do I understand correctly that this is something you started doing while still
     working in the automotive industry? Then this is what led you to do graphs now?
     [Anahita agrees] You were talking about these impact points that are close to
@@ -332,7 +334,8 @@ transcript:
   sec: 1107
   time: '18:27'
   who: Anahita
-- header: Graphs vs Tabular Data
+- header: 'Graph vs Tabular Representations: visualization, clustering, load-path
+    detection'
 - line: While you were talking, I was taking notes, and then I drew a graph. Within
     the graph, I have a node with the year of when the car was made – let's say 2020.
     This is the year, and then we can have notes of individual cars and the connection
@@ -429,7 +432,7 @@ transcript:
   sec: 1573
   time: '26:13'
   who: Anahita
-- header: Computational graphs
+- header: From Knowledge Graphs to Computational Graphs (NetworkX & graph analytics)
 - line: And this is the computational graph that we have? I think I don't understand.
   sec: 1575
   time: '26:15'
@@ -461,7 +464,7 @@ transcript:
   sec: 1636
   time: '27:16'
   who: Anahita
-- header: Graph Data Science and Graph Machine Learning
+- header: 'Graph Data Science & Graph ML: similarity measures and SimRank'
 - line: I'm curious. You mentioned two terms, “graph data science” and “graph machine
     learning”. If I understand correctly, the distinction here is… In one case, it's
     more like doing some sort of analytics, right? Or doing this analysis – exploring
@@ -565,7 +568,8 @@ transcript:
   sec: 1988
   time: '33:08'
   who: Anahita
-- header: Combining Knowledge Graphs and Large Language Models (LLMs)
+- header: 'Combining Knowledge Graphs & LLMs: grounding and retrieval-augmented generation
+    (RAG)'
 - line: You also worked on the LLMs, right? You see how this knowledge graphs and
     LLMs can work together. So can you tell us more about that?
   sec: 2023
@@ -633,6 +637,7 @@ transcript:
   sec: 2258
   time: '37:38'
   who: Alexey
+- header: Text Chunking, Embeddings & Vector Databases vs Knowledge Graph Semantics
 - line: This is just used as LLM with vector databases. So you make chunks, and for
     each chunk, you use LLM to do embedding (to extract features) and then you store
     them in the vector database. [Alexey agrees] This is like you have the chunk base
@@ -658,6 +663,7 @@ transcript:
   sec: 2362
   time: '39:22'
   who: Alexey
+- header: Prompt Templates & KG-driven Retrieval (Cypher-based examples)
 - line: Yeah. And, for example, when you do a template for your prompt, you can define
     the relations that are important. You can, for example, put it like a cipher query
     as an example for one of the use cases and since it has access to the whole of
@@ -666,6 +672,7 @@ transcript:
   sec: 2396
   time: '39:56'
   who: Anahita
+- header: 'RAG vs Transfer Learning: embeddings, fine-tuning, and distinctions'
 - line: There is a question from Roasting Chestnut. That's a very interesting nickname.
     So the Roasting Chestnut is asking, “It sounds like transfer learning. Is that
     the same idea used in relationships?”
@@ -705,6 +712,7 @@ transcript:
   sec: 2511
   time: '41:51'
   who: Alexey
+- header: Trust, Hallucination & Verification Limits of LLM-extracted Knowledge
 - line: Yeah, it's quite… I have tested it a bit. Also, it's like with LangChain,
     I would say. It's kind of a tree of thoughts, where you ask a question, it gives
     you some items, and you go further down. The only tricky thing is that you need
@@ -725,7 +733,8 @@ transcript:
   sec: 2562
   time: '42:42'
   who: Anahita
-- header: Practical Applications and Projects
+- header: 'ADPT-LRN-PHYS Project Overview: LLM + KG for adaptive learning and paper
+    reading'
 - line: Right now, I'm looking at one of your GitHub projects. This project is called
     ADPTLRNFHYCSS…[chuckles] I guess it's “adaptive learning physics”. Right?
   sec: 2653
@@ -773,6 +782,8 @@ transcript:
   sec: 2678
   time: '44:38'
   who: Anahita
+- header: 'Paper Parsing & KG Visualization: sections, keywords, PageRank and reference
+    mapping'
 - line: I'm looking right now at the visualization. What happens there is that there
     is this part where you upload the file? [Anahita agrees] That is actually all
     you need in this example. You upload this, and then, what it's doing is extracting
@@ -884,7 +895,7 @@ transcript:
   sec: 3156
   time: '52:36'
   who: Anahita
-- header: Challenges and Learnings
+- header: 'Project Challenges: automating graph generation and scoping the demo'
 - line: What was the most difficult part in this project?
   sec: 3258
   time: '54:18'
@@ -919,6 +930,8 @@ transcript:
   sec: 3332
   time: '55:32'
   who: Anahita
+- header: 'Deployment & Frontend Issues: Streamlit limits and state management for
+    graph UIs'
 - line: Yeah. Okay. Was the deployment part also difficult? I see that you used Fly.io.
     Or it was something that… [cross-talk]
   sec: 3336
@@ -966,7 +979,8 @@ transcript:
   sec: 3460
   time: '57:40'
   who: Anahita
-- header: Anahita’s Recommendations
+- header: 'Learning Resources: graph ML courses, Jure Leskovec, Graph Conference and
+    KG+LLM courses'
 - line: If… Do you know any books or other resources for people to learn more about
     graph machine learning, knowledge graphs, and how LLMs can be used for that? I
     don't know if there are many books about LLMs yet. Maybe not. But in general,
@@ -1007,6 +1021,7 @@ transcript:
   sec: 3618
   time: '1:00:18'
   who: Anahita
+- header: Episode Conclusion and Takeaways
 - line: Yeah. We should be wrapping up. That's all we have time for today. So thanks
     a lot, Anahita, for joining us today, for sharing your experience with us – answering
     all the questions. And thanks, everyone, for joining us today, too – being active,

@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/5kTD7LjoXos1fm2LPD7nJc
   apple: https://podcasts.apple.com/us/podcast/defining-success-metrics-and-kpis-adam-sroka/id1541710331?i=1000535667935
 transcript:
+- header: Podcast Introduction
+- header: Guest Introduction & Career Path
 - line: This week we'll talk about metrics and KPIs. We have a special guest today,
     Adam. Adam is the head of machine learning engineering at Origami Energy. He's
     an experienced data and AI leader. He helps organizations find value from data
@@ -37,7 +39,7 @@ transcript:
   sec: 131
   time: '2:11'
   who: Alexey
-- header: Adam’s background
+- header: From Physics PhD to Data Science and Reinforcement Learning
 - line: I always start way back in the mists of time when I was a bartender – a competition
     bartender – I absolutely loved doing that. I traveled around Europe making cocktails,
     winning, and sort of being drunk for a living, which was good fun for a while.
@@ -56,6 +58,7 @@ transcript:
   sec: 142
   time: '2:22'
   who: Adam
+- header: 'Moving into Consultancy: BI, Dashboards, and Client Workshops'
 - line: I just liked doing numbers on the computer, and I wanted to explore what you
     could do with some of these tools. What really appealed to me was the idea that
     if you learn some of the data science approach techniques and some of the ways
@@ -136,7 +139,7 @@ transcript:
   sec: 533
   time: '8:53'
   who: Alexey
-- header: Adam’s laser and data experience
+- header: Laser Research, Ray-Tracing Tools, and Early RL Experiments
 - line: I did some cool stuff in my PhD, I won't lie. The core of my project was looking
     at using ray tracing techniques for laser software. In other words, using ray
     tracing software to design lasers. There are a few projects there. Z Max is the
@@ -149,6 +152,7 @@ transcript:
   sec: 540
   time: '9:00'
   who: Adam
+- header: 'Why Metrics Matter: Drucker, Measurement, and Merit Functions'
 - line: Another piece of software that allowed me to manipulate it was MATLAB. Once
     I'm in MATLAB, I can do what I like. It was annoying because I built this stuff
     to automate Z Max and then a couple years after I finished, it became a part of
@@ -185,7 +189,6 @@ transcript:
     not in the company anymore. I'm out of the loop. What they have done with it –
     Who knows?
   who: Adam
-- header: Metrics and why do we care about them
 - line: Coming back to the boring topic of metrics – I imagine that when you worked
     on reinforcement learning with lasers, you needed to track some metrics to measure
     the success of your project. What is a metric? Why do we care about metrics?
@@ -244,6 +247,7 @@ transcript:
   sec: 907
   time: '15:07'
   who: Alexey
+- header: Merit Functions & Project Prioritization (Impact vs Cost)
 - line: Yeah. I was trying to convert things into a valid merit function. I think
     that gives you a certain number to push to – to measure against. It allows you
     to say, “Well, this thing is objectively better than that thing because of X.”
@@ -270,13 +274,13 @@ transcript:
   sec: 988
   time: '16:28'
   who: Alexey
+- header: Units & Comparability in Metric Design
 - line: Units are really important. Being a physicist, units are super important.
     Even in business metrics and things like that. Because you have to make sure you
     are comparing like-for-like.
   sec: 1011
   time: '16:51'
   who: Adam
-- header: Examples of metrics
 - line: Can you think of some simple examples of metrics? I think you mentioned revenue?
     What are the other commonly used metrics that you saw when working at a consultancy
     company? You probably worked with many clients. Are there some metrics that most
@@ -284,6 +288,7 @@ transcript:
   sec: 1021
   time: '17:01'
   who: Alexey
+- header: 'Sales Pipeline Metrics: Weighted Revenue and Lead Qualification'
 - line: Yes. There's all the ones you hear about, sort of “Accounting 101.” You've
     got revenue, profit, costs. You can go a little bit deeper than that. If you start
     working with sales functions and marketing teams, there's a very common language
@@ -304,6 +309,7 @@ transcript:
   sec: 1042
   time: '17:22'
   who: Adam
+- header: 'Professional Services Metrics: Burn-Down Rate & Maintainability of Earnings'
 - line: You've also got things like marketing interactions – that one is really good.
     You get qualified leads and sales. Qualified leads and market-qualified leads.
     If you've got websites or people download your content, that's a marketing interaction.
@@ -349,6 +355,7 @@ transcript:
   sec: 1246
   time: '20:46'
   who: Adam
+- header: 'KPIs Defined: Top-Down Alignment and Executive Decision Metrics'
 - line: We did a lot of professional services. I worked at and ran a professional
     services company, so that's where I'm more comfortable, I'd say. But you get the
     same thing for manufacturing – things like Lean and Six Sigma – they look at how
@@ -360,7 +367,6 @@ transcript:
     doing big projects and investing money to improve quality without defining what
     that means, you'll get arguments down the road as to whether or not he was effective.
   who: Adam
-- header: KPIs
 - line: One thing you said was that some of these metrics are so good that you want
     to turn them into a KPI. So what is a KPI and how do we turn the metric into a
     KPI?
@@ -426,6 +432,7 @@ transcript:
   sec: 1556
   time: '25:56'
   who: Alexey
+- header: 'Avoiding Vanity Metrics: Make the Important Measurable'
 - line: =These are something like “number of customers spoken to.” That's something
     that can be an alright sales metric, but sometimes it's a vanity thing “Well,
     I did this!” But it's putting ‘busy’ over ‘important’. There's a really good quote
@@ -452,7 +459,7 @@ transcript:
     for that behavior, which goes in the line with or against the KPI. That or KPIs
     should be used to make decisions. That number should go towards making a decision.
     Unless it's a vanity metric, which is a common thing you hear.
-- header: KPI examples
+- header: KPI Gaming Risks & Designing Competing KPIs
 - line: You said that a KPI should drive some behavior. In your example, you were
     working at a startup and you were trying to minimize the number of returns. So
     would the number of returns could be a good metric that drives behavior? The behavior
@@ -476,6 +483,7 @@ transcript:
   sec: 1713
   time: '28:33'
   who: Adam
+- header: 'Derived KPIs: Composite Metrics to Capture Margin and Trade-offs'
 - line: That is a bit of a physicist thing. Anyone presents any kind of model to you,
     and you immediately go to the extremes to try and break it and see if it still
     works. That's a really good thing to do with KPIs. It's not good enough to think
@@ -487,7 +495,6 @@ transcript:
     going to increase my returns. So actually having both of them as KPIs – increase
     one, reduce the other. Use that on that stupid example I've just come up with.
   who: Adam
-- header: Derived KPIs
 - line: Okay. That's interesting. Yeah. So, we should try to make them less hackable?
     A good idea – maybe in this case, we can derive some other metric from both returns
     and sales that covers what we really want to do. We want to maximize the margin,
@@ -518,7 +525,7 @@ transcript:
     not really understand it. Think about your audience. Derived something over the
     other, like sales over returns, or something like that. That's good if the people
     I'm sharing it with, or using it with, understand what it is really easily.
-- header: Creating metrics — grocery store example
+- header: 'Workshop Process: Designing Metrics for Grocery Retail'
 - line: We already have quite a few questions, and I think I want to combine two questions
     into one. The first one is, “What is the process of coming up with the best metrics?”
     Then another question is “What KPIs are important for retailers and grocery stores?”
@@ -545,6 +552,7 @@ transcript:
   sec: 2000
   time: '33:20'
   who: Adam
+- header: KPI Prioritization, Review Cadence, and Iteration Best Practices
 - line: If I'm a company that wants to grow, then profit might not actually be my
     objective. For anyone who's worked in a start-up, ‘profit’ is this long distance
     thing no one thinks about for quite a while. Because you might have lots of investment
@@ -624,7 +632,6 @@ transcript:
     you want to automate that as much as possible, really. Being a data nerd, you
     should want to do that anyway.
   who: Adam
-- header: Metric efficiency
 - line: How do we evaluate the efficiency of a metric? I think you mentioned that
     metrics should be easy to measure. If it's difficult to measure, then people will
     try to get away from measuring it. So how do we measure effectiveness? You came
@@ -634,6 +641,7 @@ transcript:
   sec: 2424
   time: '40:24'
   who: Alexey
+- header: 'Operationalizing KPIs: Dashboards, Visibility, and Executive Communication'
 - line: For the ones we've come up with, say we've then got a shortlist of five metrics
     – or five KPIs. I would then, as a warm up to the workshop, say “If it can be
     shared with me, bring in old board reports or old performance review stuff from
@@ -651,6 +659,7 @@ transcript:
   sec: 2467
   time: '41:07'
   who: Adam
+- header: 'North Star Metric: Single Guiding Indicator for Strategy'
 - line: Make Power BI / Tableau dashboards and mount them in your SharePoint or your
     Slack – put them in places that people can check them really quickly. “What are
     the current marketing interactions?” and stuff like that. This way everyone's
@@ -689,7 +698,6 @@ transcript:
     a bit more forward thinking. Do it from scratch, be advised by using people's
     experience and go from there.
   who: Adam
-- header: North Star metrics
 - line: Thank you. You mentioned the North Star metric. In the case of Spotify, this
     is the number of minutes listened. In the case of YouTube is ‘how many minutes
     of video have people watched. So, the North Star metric is what exactly? Is it
@@ -714,7 +722,7 @@ transcript:
   sec: 2721
   time: '45:21'
   who: Adam
-- header: Threshold metrics
+- header: 'Threshold Metrics: Alerts, Limits, and Safety Conditions'
 - line: You also mentioned at the very beginning, when we were talking about lasers,
     you said there’s a thing called “threshold metric”. What is a threshold metric?
   sec: 2794
@@ -742,6 +750,7 @@ transcript:
     within your organization. Things that, if you cross the threshold, there's a significant
     issue that needs addressed. For a SaaS company, this might be a data leak. You
     might have data breaches.
+- header: 'Health & Hygiene Metrics: Downtime and Service Reliability'
 - line: Until it hits that 5% warning light, we'll kind of be happy with that. You
     measure it, you do all the reporting on it, and then if it's a thumbs up, it's
     a thumbs up. You carry on. That's how I see threshold metrics. You're not going
@@ -757,7 +766,6 @@ transcript:
     within your organization. Things that, if you cross the threshold, there's a significant
     issue that needs addressed. For a SaaS company, this might be a data leak. You
     might have data breaches.
-- header: Health metrics
 - line: Is it a similar concept to the “health metric”?
   sec: 2928
   time: '48:48'
@@ -809,7 +817,7 @@ transcript:
   sec: 3032
   time: '50:32'
   who: Adam
-- header: Data team metrics
+- header: 'Data Team Metrics: Translate Model Performance into £ / Time Saved'
 - line: We also wanted to talk a bit about metrics that are specific to machine learning
     and data science. Let's say we have a data science team. What should the data
     science team care about? We can take the grocery shop example. Let's say the grocery
@@ -841,6 +849,7 @@ transcript:
     is the core of what your company does. That's a slightly different thing. But
     in the grocery store example, or when I was in insurance, it was a nice to have
     or an add-on or added value.
+- header: 'Experimentation & Measurement: A/B Testing and Champion–Challenger'
 - line: That's something else a lot of data scientists are really guilty of, “Keep
     tweaking the model!” It’s fun, right? It's interesting. That's right, we love
     it. But sometimes, the 80/20 is good enough. You just get the bulk of it done.
@@ -882,7 +891,6 @@ transcript:
     is the core of what your company does. That's a slightly different thing. But
     in the grocery store example, or when I was in insurance, it was a nice to have
     or an add-on or added value.
-- header: 'Experiments: treatment and control groups'
 - line: You also mentioned measuring and control groups, so I guess this is something
     that’s also important. Once you have a model, you want to measure it. How do we
     usually go about this? Maybe you can just go a bit into the details of how we
@@ -901,6 +909,7 @@ transcript:
   sec: 3367
   time: '56:07'
   who: Alexey
+- header: 'Model Validation Techniques: Randomization, Backtesting, and Uplift'
 - line: =What we did in insurance companies, and what lots of SaaS companies do is
     – market teams are used to this – A/B testing or ‘champion challenger modeling’,
     we called it. For a very small percentage of our customers, if you've got high
@@ -928,6 +937,7 @@ transcript:
     of an impact on the state of the world, i.e. the stock market, you can play against
     the historical data. That's really good, like back-testing and looking at the
     way that it affects that. That's a really good approach. Again – really difficult.
+- header: 'Timeboxing Data Work: Two-Week Spikes and Accelerate Metrics'
 - line: I realized that I dodged the question “What kind of KPI should software data
     science teams care about?” I talked a lot about communicating your output to other
     people. But internally, there's quite a lot you can do as well. You can look at
@@ -958,7 +968,6 @@ transcript:
     of an impact on the state of the world, i.e. the stock market, you can play against
     the historical data. That's really good, like back-testing and looking at the
     way that it affects that. That's a really good approach. Again – really difficult.
-- header: Accelerate metrics and timeboxing
 - line: We already talked about measuring the effectiveness of teams by how many users
     of the service there are, and how many parts of the pipeline are used. The question
     is, “As a manager, do you find accelerate metrics, like ‘lead time’ ‘deployment
@@ -980,6 +989,7 @@ transcript:
   sec: 3626
   time: '1:00:26'
   who: Adam
+- header: Episode Wrap-Up, Contact Info, and Further Reading
 - line: Essentially it’s “Timebox everything into two weeks.” I do this with my teams
     and it's great. If I say to you, “How long is it going to take you to build me
     a reinforcement learner for that thing?” You would say “What? I don't know. Infinite?
@@ -1005,7 +1015,6 @@ transcript:
     engineers that have learned data then it’s really, really good. If you're in a
     team with lots of data professionals that hate software engineering, then…
   who: Adam
-- header: Conclusion
 - line: Anything else you want to add before we wrap up?
   sec: 3795
   time: '1:03:15'

@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/0jE1rpmLCYkD3GnUa2E7E3
   apple: https://podcasts.apple.com/us/podcast/leading-nlp-teams-ivan-bilan/id1541710331?i=1000546053682
 transcript:
+- header: Podcast Introduction
+- header: 'Episode Overview: Leading NLP Teams & Ivan''s Current Role'
 - line: This week, we'll talk about NLP teams. We have a special guest today, Ivan.
     We already had Ivan as a guest a few weeks ago, where he also talked about NLP
     and gave an introduction to the topic. One of the things he talked about was an
@@ -32,12 +34,12 @@ transcript:
   sec: 163
   time: '2:43'
   who: Ivan
-- header: Ivan’s role at Personio
 - line: But you used to. So you are currently working on identity and access management.
     This is what Personio is doing, right?
   sec: 144
   time: '2:24'
   who: Alexey
+- header: 'Personio Role: Identity and Access Management Responsibilities'
 - line: Yes. Personio is an HR platform. My team, specifically, is responsible for
     basically everything related to the login experience of the users and also the
     access rights. In an HR platform, there’s a lot of personal data that we handle,
@@ -66,12 +68,12 @@ transcript:
   sec: 267
   time: '4:27'
   who: Ivan
-- header: Ivan’s background
 - line: Before we go into our main topic of NLP teams, let's start with your background.
     Can you tell us about your career journey so far?
   sec: 272
   time: '4:32'
   who: Alexey
+- header: 'Career Origins: From Linguistics to Computational NLP'
 - line: Yeah, sure. I come from Ukraine and studied general linguistics for a while
     as I lived there. I moved to Munich about 10 years ago and decided to pick up
     computational linguistics, so it was a continuation of what I was doing before.
@@ -108,6 +110,7 @@ transcript:
   sec: 279
   time: '4:39'
   who: Ivan
+- header: 'Early Tech Stack: From Perl to Python and Web Scraping'
 - line: Interesting. Do you still use Perl?
   sec: 442
   time: '7:22'
@@ -132,12 +135,12 @@ transcript:
   sec: 490
   time: '8:10'
   who: Ivan
-- header: Studying technical management
 - line: You mentioned that you also got a degree in technical management. Was it a
     Master’s degree?
   sec: 513
   time: '8:33'
   who: Alexey
+- header: 'Technical Management Study: CDTM, Internships, and Organizational Learning'
 - line: It was sort of an honors’ degree. It's like an additional program to Master’s
     that you can take here at CDTM, which is the Center for Digital Technology Management
     here in Munich. It's part of both LMU and EU. So if you study at LMU, you can
@@ -193,7 +196,6 @@ transcript:
   sec: 679
   time: '11:19'
   who: Ivan
-- header: Managing a software team
 - line: Yeah, that's really cool. I'm also really curious about your transitions and
     your career paths. You did quite a few different things. You've worked as a data
     scientist and you managed NLP teams. And now you manage a “usual” software engineering
@@ -201,6 +203,7 @@ transcript:
   sec: 691
   time: '11:31'
   who: Alexey
+- header: 'Management Transition: From ML Teams to Web Product Engineering & Observability'
 - line: It was mainly driven by my career goals. I want to eventually work on a higher
     level as a manager – either the director level or CTO. I think it's very important
     to have a very good grasp on different parts of software engineering. I already
@@ -227,7 +230,6 @@ transcript:
   sec: 714
   time: '11:54'
   who: Ivan
-- header: NLP teams
 - line: That's interesting. Thanks for sharing. Coming back to our topic of NLP teams
     – how would you define an NLP team? You just said that many of the things that
     you're doing right now are the same, even though the team you manage is not specifically
@@ -237,6 +239,7 @@ transcript:
   sec: 816
   time: '13:36'
   who: Alexey
+- header: 'Defining NLP Teams: Centralized vs Cross‑disciplinary Structures'
 - line: Yeah, good question. It's more of an industry question. Do we even have separate
     designation for NLP teams? I think maybe a few years ago, this wasn't the case.
     You would just have a data science team and everything data science is done there
@@ -269,7 +272,6 @@ transcript:
   sec: 847
   time: '14:07'
   who: Ivan
-- header: NLP engineers
 - line: So an NLP team doesn't need to have an NLP engineer? As long as a team works
     on some NLP-related tasks, such as a chatbot or a customer service bot, then it
     becomes an NLP team, right?
@@ -285,6 +287,7 @@ transcript:
   sec: 1004
   time: '16:44'
   who: Alexey
+- header: 'NLP Engineer Role: Skills, Linguistics Background, and Tokenization Expertise'
 - line: Yeah. I don’t think that it is still fully established. I still see job ads
     that just say, “data analyst” or “data scientist,” but the description is everything
     related to NLP. So I hope the industry takes a step towards defining those roles
@@ -316,7 +319,6 @@ transcript:
   sec: 1005
   time: '16:45'
   who: Ivan
-- header: Becoming an NLP engineer
 - line: Let's say a data team doesn’t have NLP engineers – people who specialize in
     NLP tasks – if this team doesn't have such people, how should they go about picking
     up those skills? Should they be a data scientist who goes and learns about linguistics?
@@ -324,6 +326,8 @@ transcript:
   sec: 1133
   time: '18:53'
   who: Alexey
+- header: 'Path to Becoming an NLP Engineer: Practical Resources, spaCy & Hugging
+    Face'
 - line: Yeah, that's a really hard question, actually. Because the question itself
     is – at the current stage, do we need those linguistics people now? There are
     so many things now that allow you to really get by without understanding linguistics.
@@ -375,7 +379,7 @@ transcript:
   sec: 1293
   time: '21:33'
   who: Ivan
-- header: Computer vision
+- header: 'Vision vs Text: Comparing Computer Vision and NLP Challenges'
 - line: Also, maybe if you compare –  in computer vision, you have old school computer
     vision, which is about extracting features with all these things like Bag of Visual
     Words, Swift. I don't know much about these things, but I know that these things
@@ -416,13 +420,13 @@ transcript:
   sec: 1460
   time: '24:20'
   who: Ivan
-- header: NLP engineer vs ML engineer
 - line: So, what's the difference between an NLP engineer and a machine learning engineer?
     Is an NLP engineer an engineer in the same sense as a machine learning engineer?
     Do they care more about the engineering aspect or more the training models aspect?
   sec: 1461
   time: '24:21'
   who: Alexey
+- header: 'NLP Engineer vs ML Engineer: Inference Optimization, Deployment & MLOps'
 - line: That’s a very good question. I hope that in the future, they will be more
     or less the same, because I think that both parts are important. How I've seen
     it so far is that NLP engineers are – at least in the case of the team I worked
@@ -442,7 +446,6 @@ transcript:
   sec: 1476
   time: '24:36'
   who: Ivan
-- header: Conversational designers
 - line: Yeah, interesting. We've talked about linguistics, and that somebody who's
     an engineer needs to know linguistics. Do we need people who specialize only in
     linguistics? People who don’t only have this NLP knowledge and know how to call
@@ -451,6 +454,7 @@ transcript:
   sec: 1489
   time: '24:49'
   who: Alexey
+- header: 'Conversational Designers: Chatbot UX, Dialogue Flow & Non‑coding Roles'
 - line: Yeah, for sure. There are some specific tasks that would really benefit from
     that. I think that in the last two years, there was a new role forming in the
     world of data science, called “conversational designer”. It's basically a person
@@ -483,7 +487,6 @@ transcript:
   sec: 1686
   time: '28:06'
   who: Ivan
-- header: Linguistics outside of chatbots
 - line: Okay, interesting. Not all NLP teams work on chatbots – there are teams that
     work on other things, like you mentioned, like information extraction, and I don't
     remember what else. So there are areas where we may need to do something with
@@ -492,6 +495,7 @@ transcript:
   sec: 1692
   time: '28:12'
   who: Alexey
+- header: 'Linguists in NLP: Parsing, Information Extraction & Multilingual Needs'
 - line: Good question. It really depends on what area of research you're working in,
     or what specific tasks you work on. I think it wouldn't hurt if you have someone
     who knows linguistics well. As I mentioned before, if you have problems where
@@ -504,7 +508,6 @@ transcript:
   sec: 1718
   time: '28:38'
   who: Ivan
-- header: When does a team need an NLP engineer or a linguist?
 - line: As you mentioned, when a team starts working on an NLP task, they don't necessarily
     need to immediately get this NLP engineer with linguistics knowledge because you
     can get quite far just by using a library. Let's say a team starts working on
@@ -514,6 +517,7 @@ transcript:
   sec: 1776
   time: '29:36'
   who: Alexey
+- header: 'When to Hire NLP Specialists: Task Complexity, Data Needs & Feature Engineering'
 - line: That's a good question. I guess it also depends on what approach they choose.
     If the problem that you have can be solved by pure AI, then I think that there
     is probably no need for specific linguistic knowledge in the team. But not all
@@ -535,7 +539,6 @@ transcript:
   sec: 1811
   time: '30:11'
   who: Ivan
-- header: The future of NLP
 - line: It's funny that you mentioned that. We have a question. “What is the future
     of NLP?” Now we have libraries like Hugging Face or spaCy which simplify things
     a lot. The API of these libraries is quite good, you can just take and use it.
@@ -544,6 +547,7 @@ transcript:
   sec: 1907
   time: '31:47'
   who: Alexey
+- header: 'Future of NLP: Library Ecosystem, AutoML & Research Velocity'
 - line: Well, yes. As I said, for many tasks you can get by with those things. Those
     tools that you mentioned are democratizing the industry. They are open sourcing
     everything and this is great. This is enabling smaller teams or smaller startups
@@ -573,7 +577,6 @@ transcript:
   sec: 1941
   time: '32:21'
   who: Ivan
-- header: NLP pipelines
 - line: In spaCy, there is a method that just “makes things good” and then it just
     works. But internally somewhere, it still has an NLP pipeline, right? Potentially
     you can go deeper and try to uncover that and also adjust it to whatever you need.
@@ -583,6 +586,8 @@ transcript:
   sec: 2061
   time: '34:21'
   who: Alexey
+- header: 'NLP Pipeline Anatomy: Data Annotation, Task Engineering, Testing, Production
+    & Observability'
 - line: Yeah, good question. It depends on how you define it. My definition would
     be – if you are an NLP team building an NLP pipeline – that already starts with
     data. That starts with data annotation. That starts with generating good quality
@@ -646,12 +651,12 @@ transcript:
   sec: 2274
   time: '37:54'
   who: Ivan
-- header: GPT-3
 - line: What about tools like GPT-3? I guess they also remove some of the steps from
     this pipeline? They make it easier, right?
   sec: 2325
   time: '38:45'
   who: Alexey
+- header: 'Large Language Models & Prompting: GPT‑3 Capabilities and Simplification'
 - line: Yeah, GPT-3 is on a whole different level. You don't need to do anything,
     really. The idea of GPT-3 is that it’s a smart lookup table. It has seen, I think,
     like 10% of the whole internet. That's what the data set was used to train it.
@@ -738,12 +743,12 @@ transcript:
   sec: 2553
   time: '42:33'
   who: Ivan
-- header: Problems of GPT-3
 - line: But it's not cheap, right? It's expensive. You cannot just use it and rely
     on GPT-3 completely.
   sec: 2577
   time: '42:57'
   who: Alexey
+- header: 'GPT‑3 Limitations: Cost, Control, Bias & Privacy Risks'
 - line: Yeah. I mean, I don't know. They are trying to open source it now or something.
     I don't know. But I think you still have to pay for tokens in order to be able
     to use it.
@@ -809,7 +814,6 @@ transcript:
   sec: 2749
   time: '45:49'
   who: Ivan
-- header: Does GPT-3 make everything obsolete?
 - line: I think we talked about this already and we kind of mentioned that. The question
     we have is, “Now we have this GPT-3. Does it mean that we no longer need things
     like Hugging Face, spaCy, and so on? Would you still use Hugging Face if you had
@@ -817,6 +821,7 @@ transcript:
   sec: 2750
   time: '45:50'
   who: Alexey
+- header: 'GPT‑3 vs In‑house Pipelines: MVP Strategy, Control & Open‑Source Alternatives'
 - line: I would say, yes, because GPT-3 still isn't able to solve everything. It is
     able to solve most of the tasks to a good extent. But the question is, “Can it
     actually solve everything you need for it to be used in production – for it to
@@ -843,7 +848,6 @@ transcript:
   sec: 2836
   time: '47:16'
   who: Ivan
-- header: What NLP actually is?
 - line: Yeah, interesting. Another question we have is “What do you think NLP is more
     about? Is it more about writing better pipelines and improving these pipelines
     and then implementing some research papers? Or is it more about theoretical linguistic
@@ -853,6 +857,7 @@ transcript:
   sec: 2884
   time: '48:04'
   who: Alexey
+- header: 'What NLP Really Is: Industry Productization vs Academic Linguistic Research'
 - line: Yeah. That's a good question. I think it depends on whether you're talking
     about industry or academia. If we're talking about industry – for smaller companies
     or small startups, there's really no financial incentive to innovate in terms
@@ -916,13 +921,13 @@ transcript:
   sec: 3145
   time: '52:25'
   who: Ivan
-- header: Does NLP solve problems better than humans?
 - line: Yeah. That competition was six years ago. Do you think with all these GPT-3
     things – is it a solved problem now? Can we just answer multiple choice questions?
     Or is it still not a solved problem?
   sec: 3160
   time: '52:40'
   who: Alexey
+- header: 'AI Benchmarking: Human‑level Claims, Dataset Limits & Real‑world Gaps'
 - line: Yeah, I don't think so. I don't think there is any problem we have fully solved.
     There are papers that state something like “AI models are as good as humans” or
     “better than humans”. But this is all evaluated on a very small subset of data.
@@ -932,13 +937,14 @@ transcript:
   sec: 3177
   time: '52:57'
   who: Ivan
-- header: State of language translation
 - line: Yeah. What do you think about language translation? There is a question that
     says it seems to be one of the toughest NLP tasks. Do you think we will be able
     to achieve human-level results in language translation?
   sec: 3212
   time: '53:32'
   who: Alexey
+- header: 'Machine Translation State: Google Translate, DeepL, Data Coverage & Language
+    Pairs'
 - line: Yeah, good question. I knew someone who worked at DARPA in the US and basically
     language translation mostly came to us from solving these problems for military
     purposes. This is where it mostly started, I think. Now you actually have more
@@ -994,7 +1000,6 @@ transcript:
   sec: 3417
   time: '56:57'
   who: Ivan
-- header: NLP Pandect
 - line: But I guess if I try to translate from Russian to some Indian language, then
     maybe it's not a very common translation pair. Okay. I just noticed that we don't
     have a lot of time left and there was something I really wanted to ask you.
@@ -1015,6 +1020,8 @@ transcript:
   sec: 3486
   time: '58:06'
   who: Alexey
+- header: 'NLP Pandect & Related Projects: GitHub Resources for NLP, Microservices
+    & Engineering Managers'
 - line: Yeah, sure. This is something I started last year during lockdown because
     I was bored [laughs]. The idea was – we all know there are these awesome lists.
     This is a very typical thing on GitHub. People create a list of things and nice
@@ -1056,11 +1063,11 @@ transcript:
   sec: 3635
   time: '1:00:35'
   who: Ivan
-- header: Finding Ivan online
 - line: By the way, if somebody wants to reach out to you – how can they do that?
   sec: 3637
   time: '1:00:37'
   who: Alexey
+- header: 'Contact & Resources: LinkedIn, Presentation Links and Further Reading'
 - line: Yeah. The best way is to find me on LinkedIn. That's where I’m most active.
     I'm also on Twitter, but I don't post there that much, so LinkedIn is probably
     the best way.

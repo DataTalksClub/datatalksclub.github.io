@@ -16,6 +16,7 @@ links:
   spotify: https://open.spotify.com/episode/3NZhd5kgQFpGckyxTQH9bF
   apple: https://podcasts.apple.com/us/podcast/becoming-a-data-product-manager-sara-menefee/id1541710331?i=1000543165093
 transcript:
+- header: Podcast Introduction
 - line: This week, we will talk about a data product manager. We have a special guest
     today, Sara. Sara is a product manager at Meroxa, which is a company that builds
     data platforms that help software teams orchestrate and integrate data into their
@@ -28,7 +29,7 @@ transcript:
   sec: 85
   time: '1:25'
   who: Sara
-- header: Sara’s background
+- header: 'Career Path: From Technical Support to Product Design'
 - line: Before we go into our main topic of “Becoming a Data Product Manager”, let's
     start with your background. Can you tell us about your career journey so far?
   sec: 87
@@ -78,7 +79,7 @@ transcript:
   sec: 97
   time: '1:37'
   who: Sara
-- header: Product designer’s responsibilities
+- header: 'Product Design: User Research, Prototyping & UX'
 - line: That's quite a journey. So, as a designer, what kind of things did you do?
     When I hear “designer” I imagine somebody who designs furniture or tells you what
     your apartment should look like. I imagine that you were a different kind of designer,
@@ -114,7 +115,7 @@ transcript:
   sec: 374
   time: '6:14'
   who: Sara
-- header: Data product manager’s responsibilities
+- header: 'Data Product Management: Customer Discovery & Hypothesis Formation'
 - line: What do you do now, as a data product manager?
   sec: 424
   time: '7:04'
@@ -190,7 +191,7 @@ transcript:
   sec: 667
   time: '11:07'
   who: Sara
-- header: Planning with the team
+- header: 'Product Lifecycle: Discovery, Planning, Engineering & Launch'
 - line: Well, I guess, when you said ‘product discovery phase’ I thought, “Okay, that's
     just maybe phase number one and there could be other phases.” I assume there is
     some sort of process. So first, you do product discovery, and then you do probably
@@ -254,7 +255,7 @@ transcript:
   sec: 903
   time: '15:03'
   who: Sara
-- header: Design thinking and product design
+- header: 'Design Thinking: PM–Designer Collaboration in Ideation'
 - line: I heard about this thing called ‘design thinking’ – is this in the ideation
     phase? When you think, “Okay, here's the problem.” and then you think about how
     you can solve it. Do you, as a product manager, also need to know these kinds
@@ -279,6 +280,7 @@ transcript:
   sec: 963
   time: '16:03'
   who: Alexey
+- header: 'Transition Motivation: Moving from Design to Product Management'
 - line: I've always been super fascinated with how companies work, and more importantly
     with how they go about building products. I've always preferred to work in super
     close partnership with product managers, as a designer. I’ve always found that
@@ -321,7 +323,7 @@ transcript:
   sec: 1104
   time: '18:24'
   who: Sara
-- header: Data PMs vs regular PMs
+- header: 'Data-focused PM: Data Quality, PII & Compliance Considerations'
 - line: Why data PM specifically? Or it just happened?
   sec: 1178
   time: '19:38'
@@ -382,6 +384,7 @@ transcript:
   sec: 1341
   time: '22:21'
   who: Sara
+- header: 'Core Technical Skills: SQL & Data Engineering Fundamentals'
 - line: You said that you need to be a bit of a data analyst. Do you need to know
     things like SQL and to be able to go fetch the data you need, and build some dashboards?
     Or you still rely on somebody else to do that?
@@ -425,7 +428,7 @@ transcript:
   sec: 1466
   time: '24:26'
   who: Sara
-- header: Skill requirements for Data PMs
+- header: 'Essential Traits: Data Curiosity, Documentation Literacy & Empathy'
 - line: We have a question from Virginia. “What skills should you have to become a
     data product manager?” You mentioned one of them is SQL. What are some other skills?
     I guess maybe the skills of usual PM as well?
@@ -452,6 +455,7 @@ transcript:
   sec: 1484
   time: '24:44'
   who: Sara
+- header: 'Data Lifecycle: Sources, Transformation, Warehouses & Apps'
 - line: You mentioned that you need to have a hunger for understanding how data works.
     How can someone develop an understanding of that? How can you understand how data
     works? In what sense “how data works”? How it is produced, processed, and consumed?
@@ -476,7 +480,7 @@ transcript:
   sec: 1618
   time: '26:58'
   who: Sara
-- header: Going from a product designer to a data product manager
+- header: 'Transition Strategy: Networking, On-the-Job Learning & Mentorship'
 - line: Basically, you’re saying that understanding data and being curious about how
     it's actually used and how it's produced, is quite important for this role, right?
     I'm quite interested – when did you make the switch? Like a year ago, I guess,
@@ -546,6 +550,7 @@ transcript:
   sec: 1950
   time: '32:30'
   who: Alexey
+- header: 'Practical Steps: Building a Portfolio & Learning After the Switch'
 - line: I think I always start by asking the question like, “Well, why a data product
     manager?” I want to understand some of the motivations as to why they want to
     go to that from product design. A lot of that can help inform “Okay, what is their
@@ -586,7 +591,7 @@ transcript:
   sec: 1980
   time: '33:00'
   who: Sara
-- header: Case studies
+- header: 'Case Study Structure: Problem, Research, Solution & Outcome'
 - line: What's a case study? You said, “You should have case studies around data projects.”
     What does a case study look like?
   sec: 2151
@@ -636,7 +641,7 @@ transcript:
   sec: 2277
   time: '37:57'
   who: Sara
-- header: Resources for learning about product management
+- header: 'Learning Resources: Courses, Reforge & Recommended Reading'
 - line: Okay. You mentioned multiple times that networking is a big deal, right? Thanks
     to your network, you managed to get a lot of opportunities, including the job
     you have right now. You said it was your former colleague from some previous job.
@@ -705,7 +710,6 @@ transcript:
   sec: 2582
   time: '43:02'
   who: Sara
-- header: Data PM’s biggest challenge
 - line: Okay, thanks. We have quite a few questions. I wanted to start with a question
     from Janine. The question is “What's the most challenging aspect or task that
     you've encountered in your role as a data product manager?”
@@ -736,7 +740,7 @@ transcript:
   sec: 2759
   time: '45:59'
   who: Sara
-- header: Multitasking and context switching
+- header: 'Daily Workflow: Standups, Analytics, CusDev & Context Switching'
 - line: We have a question from Virginia. “What does your day-to-day look like?”
   sec: 2761
   time: '46:01'
@@ -799,6 +803,7 @@ transcript:
   sec: 2932
   time: '48:52'
   who: Sara
+- header: 'Customer Development: Interview Focus & Tactical Questions'
 - line: You mentioned that you spend a lot of time talking to data professionals,
     getting on the phone with them and asking questions. I'm wondering, what are these
     conversations like? What do you ask? It's called CusDev, right?
@@ -846,7 +851,7 @@ transcript:
   sec: 3114
   time: '51:54'
   who: Sara
-- header: Insights from user interviews
+- header: 'Key Insight: Data Teams Spend Time Educating the Organization'
 - line: Okay. What was the most interesting part – what was the most interesting,
     let’s say, insight that you got from these conversations?
   sec: 3115
@@ -875,7 +880,7 @@ transcript:
   sec: 3131
   time: '52:11'
   who: Sara
-- header: Using new, unfamiliar tools
+- header: 'Adopting New Tools: Documentation First, Pairing & Slack Help'
 - line: Yeah, interesting. We have quite a few questions. One interesting one is “If
     you need to work with a new tool that you have never used before, how do you learn
     this tool, while not letting the task to be delayed? Do you learn it yourself
@@ -916,7 +921,7 @@ transcript:
   sec: 3356
   time: '55:56'
   who: Sara
-- header: Documentation
+- header: 'Product Documentation: PRDs, Customer Notes & Knowledge Base'
 - line: Another question we have is “Do PMs document the product and features? How
     do you do this?” Let's say somebody new joins and they want to go through all
     these product discovery things and so on. How can they learn this? How do you
@@ -964,7 +969,7 @@ transcript:
   sec: 3502
   time: '58:22'
   who: Sara
-- header: Idea generation
+- header: 'Idea Flow: Sources, Validation & Backlog Prioritization'
 - line: We have some more questions and I think maybe we can cover at least one. A
     question from Byram is, “What are the steps for working with data teams? Who comes
     up with new ideas? Who brings up the data requirements?”
@@ -1010,7 +1015,7 @@ transcript:
   sec: 3638
   time: '1:00:38'
   who: Sara
-- header: Do Data PMs need to know ML?
+- header: 'Analytics vs Data Science: Where ML Fits in the PM Role'
 - line: Let me try to rephrase it. Are you responsible for the reports, dashboards,
     and so on? Or machine learning models as well? Do data product managers care about
     machine learning and data science stuff or mostly about analytics and data engineering
@@ -1032,6 +1037,7 @@ transcript:
   sec: 3694
   time: '1:01:34'
   who: Sara
+- header: Closing Remarks & How to Reach Out
 - line: Yeah, I think that would be it. Do you have any last words before we wrap
     up?
   sec: 3697

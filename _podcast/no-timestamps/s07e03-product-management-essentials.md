@@ -15,6 +15,7 @@ links:
   spotify: https://open.spotify.com/episode/1Oh6ewUJ2c1jiVcKxWIwDU
   apple: https://podcasts.apple.com/us/podcast/product-management-essentials-for-data-professionals/id1541710331?i=1000550093434
 transcript:
+- header: Episode Introduction & Guest Overview
 - line: This week, we'll talk about learning product management. We have a special
     guest today, Greg. Greg works as a technology manager at Amazon, where he builds
     AI products from the ground up. You've probably seen him many times on LinkedIn
@@ -28,7 +29,7 @@ transcript:
   sec: 88
   time: '1:28'
   who: Greg
-- header: Greg’s background
+- header: Career Background & Transition to AI Products
 - line: Thanks for joining us. So before we go into our main topic of product management,
     let's start with your background. Can you tell us about your career journey so
     far?
@@ -104,7 +105,7 @@ transcript:
   sec: 264
   time: '4:24'
   who: Greg
-- header: Responsibilities of Data Product Manager
+- header: Role & Responsibilities of Data Product Managers (Internal vs External)
 - line: That's quite a lot of things. You mentioned marketing, pricing, transportation,
     and then building this internal data product. Is this what a typical product manager
     does? Let's take a data team at a usual IT company, not a manufacturing company.
@@ -196,7 +197,7 @@ transcript:
   sec: 692
   time: '11:32'
   who: Greg
-- header: Understanding customer journey
+- header: Customer Journey & Domain Knowledge for Data Professionals
 - line: With all these responsibilities – regardless whether it’s internal or external
     – it's quite a lot of things to do for a product manager. In your opinion, why
     is it useful for data professionals who are not product managers, such as data
@@ -251,6 +252,7 @@ transcript:
   sec: 1074
   time: '17:54'
   who: Alexey
+- header: 'Customer Research Techniques: Interviews & Documentation'
 - line: Obviously, you will not be able to be on the grassroots of things where you're
     deep diving all the time. So that's why you need different teams. The best practice
     is probably to do interviews. Most of the time, data scientists don't have access
@@ -286,7 +288,7 @@ transcript:
   sec: 1226
   time: '20:26'
   who: Greg
-- header: Interviewing business partners and decision-makers
+- header: Structuring Interviews with Business Partners & the Five Whys
 - line: You mentioned that people need to interview. How would you go about interviewing
     these business partners – how would you structure this? Let's say we want to set
     up a meeting just to learn more about the customer journey, more about operations.
@@ -326,6 +328,7 @@ transcript:
   sec: 1387
   time: '23:07'
   who: Alexey
+- header: Hypothesis Testing & Working Backwards from Business Problems
 - line: Yeah. That can be done through some specific use cases, right? One of the
     most famous ones could be, “Well, last year, we made a million dollars (for easy
     numbers) and last year, around the same time, we're already at a million dollars
@@ -360,7 +363,7 @@ transcript:
   sec: 1400
   time: '23:20'
   who: Greg
-- header: Products sense, product mindset, and product roadmap
+- header: Product Sense & Product Mindset Explained
 - line: Yeah, thank you. We have a question from Peter. Actually, I have a similar
     one. The question from Peter is, “What is product sense?” What I would add to
     this is – is it similar to the product mindset? To me, they seem like synonyms
@@ -394,6 +397,7 @@ transcript:
   sec: 1685
   time: '28:05'
   who: Alexey
+- header: 'Contributing to Roadmaps: Technical Input & T‑Shirt Sizing'
 - line: If you're a data professional, you're on the business team as a data analyst,
     a business analyst, or you're on the tech side, even an ML engineer or a data
     engineer, etc. Since product roadmaps are led by product managers, the best practice
@@ -433,7 +437,7 @@ transcript:
   sec: 1881
   time: '31:21'
   who: Greg
-- header: Working backwards
+- header: 'Working Backwards: Problem‑First Feature Design'
 - line: I guess another thing – I'm not sure if we talked about this – but you mentioned
     it a few times that you should start with an end in mind. I guess this is something
     that we can also do. Let's say, when we discuss any feature, we can say “Let's
@@ -489,6 +493,7 @@ transcript:
   sec: 2024
   time: '33:44'
   who: Greg
+- header: 'Roadmap Types: Technical Roadmaps, MLOps & Scaling Strategies'
 - line: So how can I do that? How can I build this roadmap? Should I maybe ask my
     product manager to help me? Or how do I go about that?
   sec: 2134
@@ -535,7 +540,7 @@ transcript:
   sec: 2306
   time: '38:26'
   who: Alexey
-- header: Driving the roadmap
+- header: Identifying Unscalable Manual Processes & ML Ops Prioritization
 - line: Coming up with a roadmap is kind of like understanding what strategy you will
     use to serve your customers. Meaning “Are you going to deploy a project or assign
     a group of tech folks to each product project that your customers come up with?
@@ -571,6 +576,7 @@ transcript:
   sec: 2424
   time: '40:24'
   who: Greg
+- header: 'Three‑Year Roadmap: Prioritization by Impact, Effort & Cost'
 - line: I think you said “driving the roadmap” multiple times. Let's say I work in
     a team that has a product manager, and a bunch of other people. So then “driving
     the roadmap” of this team means taking active part in discussions when we talk
@@ -656,7 +662,7 @@ transcript:
   sec: 2737
   time: '45:37'
   who: Greg
-- header: Building a roadmap in Excel
+- header: 'Practical Roadmap Template in Excel: Problems → Solutions → Metrics'
 - line: How can I best learn these skills? There is actually a question from Patricia
     “How can we best develop our roadmap-building skills?” Is there a good resource,
     maybe there is a product management course that we as data scientists can take
@@ -702,7 +708,7 @@ transcript:
   sec: 2866
   time: '47:46'
   who: Greg
-- header: Measuring success
+- header: Success Metrics & SMART Goals for Internal Data Platforms
 - line: Yeah, thanks. That's useful. Also, there is a question from Elena about setting
     up metrics for an internal data platform. I think that's also interesting and
     this is something that I think product managers also do, right? Let's say we have
@@ -739,6 +745,7 @@ transcript:
   sec: 3206
   time: '53:26'
   who: Greg
+- header: 'Operational Metrics: Pipeline Failures, SLAs & Data Quality'
 - line: I think there the question was about internal data platforms. And I think,
     I can imagine myself, “What kind of problems might I have with a data platform?”
     Maybe there are data quality issues, right? And then, “How can we measure that?”
@@ -773,7 +780,7 @@ transcript:
   sec: 3331
   time: '55:31'
   who: Greg
-- header: Advice for teams that don’t have a product manager
+- header: 'Operating Without a PM: Identify Customers & Validate Work'
 - line: Another question I have for you is – I know that there are teams who do not
     have product managers, (for some reason or another). I have worked in such teams
     at some point. I know that what can happen in such a team is that people work
@@ -809,6 +816,7 @@ transcript:
   sec: 3374
   time: '56:14'
   who: Greg
+- header: Team Autonomy & Aligning Mental Models for Product Success
 - line: Yeah, I remember a PM who I worked with in a team who said that he would call
     himself successful if a team no longer needed him – that the team can autonomously
     function without him, come up with all these roadmaps and all these things. I
@@ -825,7 +833,7 @@ transcript:
   sec: 3495
   time: '58:15'
   who: Greg
-- header: Conclusion
+- header: 'Career Advice: Learn Product Skills on the Job & Follow‑up Resources'
 - line: Yeah. Okay. I think we should be wrapping up. Do you want to say anything
     before we finish?
   sec: 3522
@@ -849,6 +857,7 @@ transcript:
   sec: 3529
   time: '58:49'
   who: Greg
+- header: Episode Close & How to Connect with Guest
 - line: Yes. I see in the comments that people are thanking you for sharing all these
     amazing tips. I’m joining them in thanking you. Thanks a lot. The other question
     I was going to ask is how people can find you. I think you answered that – LinkedIn

@@ -16,7 +16,7 @@ short: From Biotechnology to Bioinformatics Software
 title: 'Wastewater Metagenomics & Knowledge Graphs: Network Inference, AlphaFold &
   Open-Source Tools'
 transcript:
-- header: Sebastian’s Journey into Bioinformatics
+- header: Podcast Introduction
 - line: Hi everyone, welcome to our event. This event is brought to you by Data Talks
     Club, a community of people who love data. We have weekly events, and today is
     one of them. If you want to find out more, there is a link in the description.
@@ -46,6 +46,7 @@ transcript:
   sec: 68
   time: '1:08'
   who: Sebastian
+- header: 'Career Transition: Biotechnology to Bioinformatics Software'
 - line: Hi everyone. This week we are joined by Sebastian, a bioinformatics software
     engineer whose career bridges biotechnology and programming. Sebastian began in
     biotechnology engineering but realized research wasn’t his path. Through a minor
@@ -92,6 +93,7 @@ transcript:
   sec: 197
   time: '3:17'
   who: Alexey
+- header: 'Master’s Thesis Overview: Wastewater Microbiome Knowledge Graph'
 - line: What exactly was your project about? Was it pure software engineering or bioinformatics?
     What do you actually do now?
   sec: 221
@@ -118,13 +120,13 @@ transcript:
   sec: 317
   time: '5:17'
   who: Sebastian
-- header: From Wet Lab to Computational Biology
 - line: I’m taking notes so I can ask you later about these things. I know nothing
     about biotechnology. When COVID happened and companies started developing vaccines,
     was biotechnology involved there? How exactly does it work?
   sec: 362
   time: '6:02'
   who: Alexey
+- header: 'Bioinformatics Role: Reducing Lab Experiments with Computational Analysis'
 - line: Yes. In biotechnology, you do experiments in the lab to test different vaccines
     and how compounds can combat bacteria or viruses. That is biotechnology. You design
     components that are more efficient in combating viruses and bacteria. Bioinformatics
@@ -162,7 +164,7 @@ transcript:
   sec: 484
   time: '8:04'
   who: Alexey
-- header: Wet Lab vs Dry Lab Explained
+- header: 'Wet Lab vs Dry Lab: Experimental Work vs Computational Pipelines'
 - line: In the lab, they run experiments to see what helps combat these microorganisms.
     That’s what biotechnologists do, right? They work in companies like Pfizer or
     other pharmaceutical firms, running experiments. Why is it called a wet lab? Is
@@ -227,6 +229,7 @@ transcript:
   sec: 679
   time: '11:19'
   who: Sebastian
+- header: 'Bioinformatics as Data Science: From Sequencing to Analysis'
 - line: Okay, and we talked about biotechnology engineering. These are the people
     who develop drugs and vaccines, right? So that’s biotechnology. What is bioinformatics?
     How is it different?
@@ -249,7 +252,7 @@ transcript:
   sec: 750
   time: '12:30'
   who: Sebastian
-- header: Bioinformatics as Data Science for Biology
+- header: 'Genomic Data Basics: Nucleotides and DNA Sequences'
 - line: Okay. What kind of data do you have? I mentioned that I took a course on bioinformatics
     years ago. I think we used R, and the data consisted of four different letters.
     What are these letters?
@@ -290,7 +293,7 @@ transcript:
   sec: 910
   time: '15:10'
   who: Alexey
-- header: How DNA Sequencing Works
+- header: DNA Sequencing Workflow and Reference Genomes
 - line: Yes. They take your sample and sequence it using machines called sequencers.
     The DNA is extracted, broken into small pieces, and decoded to determine the order
     of nucleotides.
@@ -312,6 +315,7 @@ transcript:
   sec: 1050
   time: '17:30'
   who: Sebastian
+- header: 'Metagenomics: Environmental Sampling and Abundance Tables'
 - line: Interesting. I assume you didn’t work on ancestry projects but on something
     else. Now that I understand more about biotechnology and bioinformatics, could
     you explain again what you did with the microbiome project?
@@ -330,11 +334,11 @@ transcript:
   sec: 1123
   time: '18:43'
   who: Sebastian
-- header: MCW2 Graph and Wastewater Microbiomes
 - line: So the goal is to understand what kind of organisms are in the sample, right?
   sec: 1169
   time: '19:29'
   who: Alexey
+- header: 'Building Microbial Networks: Co‑abundance and Association Inference'
 - line: Yes. In our case, we focused on wastewater treatment plants. We analyzed data
     from different locations because there were many available samples.
   sec: 1181
@@ -377,7 +381,6 @@ transcript:
   sec: 1351
   time: '22:31'
   who: Alexey
-- header: Building Microbial Networks with CC Lasso
 - line: Sometimes certain words just follow each other. Like after a verb, make, we
     have another noun like make noise, right? Maybe this is similar to what you do.
     This is what they do in NLP, and then they use simple statistics to calculate
@@ -402,6 +405,7 @@ transcript:
   sec: 1463
   time: '24:23'
   who: Alexey
+- header: 'Network Inference Methodology: CC Lasso, Correlations, and Thresholding'
 - line: In that case, we use a method based on something called CC Lasso. It is based
     on the Lasso algorithm to predict potential interactions among the microorganisms.
     In the end, we calculate correlation values among every pair of microorganisms.
@@ -451,7 +455,6 @@ transcript:
   sec: 1608
   time: '26:48'
   who: Sebastian
-- header: Protein–Ligand Simulation Basics
 - line: That’s interesting. So did you have experience working with non-bioinformatics
     data before?
   sec: 1614
@@ -465,6 +468,7 @@ transcript:
   sec: 1623
   time: '27:03'
   who: Alexey
+- header: 'Molecular Simulations: Protein–Ligand Dynamics and Water Boxes'
 - line: Actually most of the projects I’ve been working on have been in biology. Different
     types of biological data. At some point I worked more on simulations of proteins.
   sec: 1626
@@ -515,7 +519,7 @@ transcript:
   sec: 1774
   time: '29:34'
   who: Alexey
-- header: Predicting Protein Folding in 3D
+- header: 'Protein Folding Revolution: AlphaFold Impact on Structure Prediction'
 - line: Now I get a chance to talk to someone who understands these things. Can you
     explain in simple terms what’s the big deal about AlphaFold and why it matters?
   sec: 1798
@@ -569,7 +573,6 @@ transcript:
   sec: 1970
   time: '32:50'
   who: Sebastian
-- header: AlphaFold Revolution in Protein Prediction
 - line: It takes years, but AlphaFold can do it in seconds. It’s incredible.
   sec: 2010
   time: '33:30'
@@ -623,6 +626,7 @@ transcript:
   sec: 2173
   time: '36:13'
   who: Alexey
+- header: 'Open‑Source Projects Overview: MCW2 Graph, VueGen, and VueCore'
 - line: You worked on quite a few projects. The document mentions MCW2 Graph, VueGen,
     and VueCore. What are these projects and what do they do?
   sec: 2180
@@ -632,7 +636,6 @@ transcript:
   sec: 2200
   time: '36:40'
   who: Sebastian
-- header: Inside the MCW2 Knowledge Graph
 - line: Last year we talked about co-abundance patterns. Once you extract the patterns,
     you can put them in a graph. These nodes have positive coefficients, these have
     negative ones, right?
@@ -665,6 +668,7 @@ transcript:
   sec: 2304
   time: '38:24'
   who: Alexey
+- header: 'Knowledge Graph Exploration: Neo4j, Streamlit, and Graph Algorithms'
 - line: We created a Streamlit web application with exploratory data analysis and
     microbial association networks for every biome. People can download the dump file
     and open it in Neo4j.
@@ -693,11 +697,11 @@ transcript:
   sec: 2394
   time: '39:54'
   who: Sebastian
-- header: 'VueGen: Automating Scientific Reports'
 - line: That’s really interesting. And the other two projects, VueGen and VueCore?
   sec: 2394
   time: '39:54'
   who: Alexey
+- header: 'Report Automation with VueGen: Quarto, Streamlit, and Export Formats'
 - line: That’s what I worked on last year, after my master’s. VueGen is a Python package
     that automates the creation of scientific reports.
   sec: 2400
@@ -740,6 +744,7 @@ transcript:
   sec: 2485
   time: '41:25'
   who: Sebastian
+- header: 'Package Ecosystem: Bioconda, Bioconductor, and Bioinformatics Libraries'
 - line: I see it links dependencies. VueGen uses Quarto to generate various report
     types, and when I click, I can learn more. I had no idea this library existed.
     I also noticed that VueGen is available on Bioconda. What is Bioconda?
@@ -759,7 +764,7 @@ transcript:
   sec: 2582
   time: '43:02'
   who: Alexey
-- header: 'VueCore: Visualizing OMIX Data'
+- header: 'Omics Visualization: VueCore for Genomics, Proteomics, and Metabolomics'
 - line: The report can be in whatever format, such as Streamlit, Jupyter Notebook,
     or PDF. That is nice. The other view you mentioned was it Vuecore?
   sec: 2636
@@ -774,6 +779,7 @@ transcript:
   sec: 2649
   time: '44:09'
   who: Sebastian
+- header: 'Portfolio Advice: Beginner Bioinformatics Projects and Tools to Showcase'
 - line: Interesting. I see that we have a few questions. Maybe we can cover them before
     we run out of time. Yekaterina is asking which beginner-friendly bioinformatics
     projects would best showcase her skills to future employers. If someone wants
@@ -800,7 +806,7 @@ transcript:
   sec: 2813
   time: '46:53'
   who: Sebastian
-- header: Using AI and LLMs in Bioinformatics
+- header: 'AI & LLMs in Bioinformatics: Documentation, MLOps, and Coding Assistants'
 - line: Do you use AI or large language models in your work these days? For me as
     a developer, AI helps tremendously, so I assume it is similar in bioinformatics
     too, right?
@@ -852,7 +858,7 @@ transcript:
   sec: 3018
   time: '50:18'
   who: Sebastian
-- header: R vs Python in Bioinformatics Tools
+- header: 'Language Tradeoffs: R vs Python and Scaling Scientific Tools'
 - line: Mark says he uses Bioconda too. I did not know about this. So Bioconductor
     is in R, and Bioconda is similar but for Python, right?
   sec: 3025
@@ -876,6 +882,7 @@ transcript:
   sec: 3095
   time: '51:35'
   who: Sebastian
+- header: 'Visualization Workflows: Viewer and Supporting Plotting Libraries'
 - line: I wonder if large language models can help with that. With coding agents,
     you can easily translate from one language to another and even fix bugs. For example,
     I can take a project with no tests and ask a code assistant to write tests for
@@ -905,7 +912,7 @@ transcript:
   sec: 3184
   time: '53:04'
   who: Sebastian
-- header: Closing Thoughts from Ecuador
+- header: 'Remote Work & Field Life: Working from Ecuador and Nature Notes'
 - line: Ah, the one we talked about earlier. Sorry, I misunderstood. I did not hear
     it clearly before. You are now relaxing in Ecuador, right?
   sec: 3197
@@ -934,6 +941,7 @@ transcript:
   sec: 3243
   time: '54:03'
   who: Sebastian
+- header: 'Episode Wrap‑up: Open‑Source Encouragement and Closing Remarks'
 - line: That must be amazing. I actually have another event starting soon, so I need
     to go. Sebastian, thanks a lot. It was really nice talking to you. I learned many
     new things. I suspected proteins were important not just for the gym but for other

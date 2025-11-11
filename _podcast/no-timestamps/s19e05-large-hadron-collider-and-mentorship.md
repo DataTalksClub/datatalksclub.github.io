@@ -16,7 +16,7 @@ short: Large Hadron Collider and Mentorship
 title: 'From Collider Physics to Data Science: Research Software Engineering, Interview
   Prep & Mentorship'
 transcript:
-- header: Large Hadron Collider and Mentorship
+- header: Episode Opening & Guest Introduction
 - line: This week, we’ll talk about your career. Specifically, your transition from
     working as a physicist at the Large Hadron Collider to working with ML. We have
     a special guest today, Anastasia, who is a particle physicist turned data scientist.
@@ -28,6 +28,7 @@ transcript:
   sec: 0
   time: 0:00
   who: Alexey
+- header: Guest Background Snapshot
 - line: Thank you, Alexey. And thank you to your team for preparing this podcast today.
     I'm really honored to be here. I’ve followed your podcast for quite a few years
     now, and it’s always been a pleasure to watch your discussions with guests. I’m
@@ -43,7 +44,6 @@ transcript:
   sec: 125
   time: '2:05'
   who: Alexey
-- header: Career overview and transition from physics to data science
 - line: Sure. You’ve already mentioned the major steps in my career. I usually describe
     myself as a “mover.” I’ve moved quite a lot — both personally and professionally.
     First, I moved from Russia to Germany, and within Germany, I’ve moved a few times
@@ -66,6 +66,7 @@ transcript:
   sec: 239
   time: '3:59'
   who: Alexey
+- header: 'Origins: From Novokuznetsk, Siberia'
 - line: I’m from Siberia.
   sec: 242
   time: '4:02'
@@ -98,6 +99,7 @@ transcript:
   sec: 266
   time: '4:26'
   who: Anastasia
+- header: Relocation & Life in Hamburg
 - line: The university there is quite well-known. And where in Germany are you based
     now?
   sec: 318
@@ -128,6 +130,7 @@ transcript:
   sec: 356
   time: '5:56'
   who: Anastasia
+- header: 'Collider Purpose: Exploring Fundamental Particles'
 - line: Of course!
   sec: 362
   time: '6:02'
@@ -141,7 +144,6 @@ transcript:
   sec: 362
   time: '6:02'
   who: Alexey
-- header: Working at the Large Hadron Collider
 - line: That’s a great question! I’ll try to keep it simple. The Large Hadron Collider
     is part of particle physics, which is essentially about exploring the universe.
     The basic idea is similar to what you did as a child when you wanted to understand
@@ -160,7 +162,7 @@ transcript:
   sec: 422
   time: '7:02'
   who: Anastasia
-- header: How particles collide and the role of detectors
+- header: Particle Acceleration & Detector Imaging
 - line: The particles are so tiny — how do you ensure they actually collide?
   sec: 559
   time: '9:19'
@@ -175,7 +177,7 @@ transcript:
   sec: 566
   time: '9:26'
   who: Anastasia
-- header: Data analysis challenges in particle physics and data science similarities
+- header: Collider Magnets & Data Capture Scale
 - line: Yes.
   sec: 663
   time: '11:03'
@@ -197,6 +199,7 @@ transcript:
   sec: 665
   time: '11:05'
   who: Anastasia
+- header: Event Volume & Statistical Analysis in Particle Physics
 - line: Right, with the cameras and particles colliding, there are billions of events.
     Most are not interesting, so you have to identify the significant ones and analyze
     them.
@@ -207,6 +210,7 @@ transcript:
   sec: 752
   time: '12:32'
   who: Anastasia
+- header: Roles & Specializations in Large Research Collaborations
 - line: I was curious — why do you need so many people for these large-scale experiments?
     In my previous company, there were a couple of thousand employees, with a few
     hundred in the IT department and only about 20-30 data scientists. But for experiments
@@ -215,7 +219,6 @@ transcript:
   sec: 760
   time: '12:40'
   who: Alexey
-- header: Team structure at the Large Hadron Collider
 - line: If we had more resources, we would definitely hire more people because there’s
     always a lot of work. Not everyone working at the LHC is involved in data science.
     Many are focused on unique aspects of the project, such as hardware. These detectors
@@ -242,6 +245,7 @@ transcript:
   sec: 960
   time: '16:00'
   who: Alexey
+- header: 'Dual Roles: Hardware Development and Data Analysis'
 - line: Sorry to interrupt, but you’re right. Typically, data analysis isn’t the only
     task. You also work on the next generation of detectors and their maintenance.
     Most physicists work across both areas — working on analysis as well as on improving
@@ -258,6 +262,7 @@ transcript:
   sec: 1057
   time: '17:37'
   who: Alexey
+- header: Scientific Goals & Safety Myths (Higgs, Dark Matter, Black Holes)
 - line: That’s a misunderstanding. There’s a theory suggesting that it could create
     black holes, but they would be very tiny and disappear almost immediately. The
     reason for building the LHC was, on one hand, to look for the Higgs boson, which
@@ -285,7 +290,6 @@ transcript:
   sec: 1174
   time: '19:34'
   who: Alexey
-- header: Explaining the connection between particle physics and data science
 - line: Yes, you essentially can. You build a theory to explain something, and then
     you try to prove it with experiments in the lab. These are controlled experiments
     to some degree. It’s not fully controlled, but it's the best way to manage it
@@ -302,6 +306,7 @@ transcript:
   sec: 1227
   time: '20:27'
   who: Alexey
+- header: Translating Research Skills into Industry Data Science
 - line: It took me some time to realize I needed to explain this. When you're in a
     specific field, you don’t realize that others have no idea how it works. You're
     surrounded by people who understand it, and it doesn't occur to you that you need
@@ -326,7 +331,6 @@ transcript:
   sec: 1264
   time: '21:04'
   who: Anastasia
-- header: Software engineering practices in particle physics
 - line: You already knew about GitHub and CI/CD, right?
   sec: 1401
   time: '23:21'
@@ -340,6 +344,8 @@ transcript:
   sec: 1409
   time: '23:29'
   who: Anastasia
+- header: 'Research Software Engineering: Version Control & CI/CD Practices'
+- header: 'Jargon Translation: Multivariate Analysis to Machine Learning'
 - line: So, you understood the concepts, even if you didn't know the terms at first.
     I imagine you also had to learn the language of data science when transitioning
     into that field, right?
@@ -361,7 +367,6 @@ transcript:
   sec: 1552
   time: '25:52'
   who: Alexey
-- header: Challenges during interviews for data science roles
 - line: Yes, absolutely. I failed a couple of interviews. I didn’t realize how serious
     it was, and that these weren’t just casual conversations — they were about specific
     jobs in particular companies, where they were looking for particular experience.
@@ -374,6 +379,7 @@ transcript:
   sec: 1571
   time: '26:11'
   who: Anastasia
+- header: 'Interview Challenges: Position Fit & Evolving Hiring Expectations'
 - line: So you had offers to join companies as the only data scientist, but you decided
     not to accept them?
   sec: 1649
@@ -390,6 +396,7 @@ transcript:
   sec: 1673
   time: '27:53'
   who: Alexey
+- header: 'Blue Yonder & Supply Chain AI: From Physics to Enterprise ML'
 - line: Yes, Blue Yonder is a software vendor for supply chain solutions. It started
     as a small startup in Germany, founded by a physics professor. Even though there
     aren’t many physicists there anymore, they still understand the work I did. This
@@ -413,11 +420,11 @@ transcript:
   sec: 1763
   time: '29:23'
   who: Alexey
+- header: 'Career Shift: From Industry Roles to Mentoring Focus'
 - line: Right now, I’m focused mainly on mentoring.
   sec: 1765
   time: '29:25'
   who: Anastasia
-- header: Mentoring and offering advice to job seekers
 - line: That’s great! Tell us more about your mentoring work. I see there's a related
     question that might connect with what you’re doing now. Someone asked how to convince
     German companies in this field, as they’ve had multiple interviews but keep getting
@@ -477,6 +484,7 @@ transcript:
   sec: 2037
   time: '33:57'
   who: Alexey
+- header: Behavioral Interview Strategies & Cultural Fit in Germany
 - line: Exactly. It can also help to discuss your interview experience with someone
     else who wasn’t involved. Often, just talking through the interview with a mentor
     or friend can reveal which part of the interview went wrong. I do this with my
@@ -535,6 +543,7 @@ transcript:
   sec: 2267
   time: '37:47'
   who: Alexey
+- header: Preparing Stories & Practicing Leadership Principles
 - line: First of all, be aware that the behavioral part of an interview is just as
     important as the technical part. Don’t underestimate it. It requires specific
     preparation. What usually helps is reviewing common questions — you can easily
@@ -570,7 +579,6 @@ transcript:
   sec: 2398
   time: '39:58'
   who: Alexey
-- header: The STAR method and its value in interviews
 - line: I think it was around seven years ago.
   sec: 2403
   time: '40:03'
@@ -595,6 +603,7 @@ transcript:
   sec: 2433
   time: '40:33'
   who: Anastasia
+- header: 'Becoming a Mentor: Motivation, Rewards & Burnout'
 - line: And you mentioned that you’re currently focused on mentoring, right? How did
     you decide to focus on mentoring? It must have been a difficult decision to switch
     from working to focusing completely on this, right? I know that feeling — when
@@ -626,6 +635,7 @@ transcript:
   sec: 2647
   time: '44:07'
   who: Alexey
+- header: 'Mentoring Origins: Accidental Start & Finding the Right Fit'
 - line: It happened somewhat by accident. After moving into the industry, a few people
     approached me and asked for help because they were struggling. I remembered my
     own struggles, so I was happy to help. Over time, when people at my company, Blue
@@ -638,6 +648,7 @@ transcript:
   sec: 2650
   time: '44:10'
   who: Anastasia
+- header: 'Mentoring Defined: Process, Goals & Time Commitment'
 - line: So, what is mentoring?
   sec: 2711
   time: '45:11'
@@ -683,6 +694,7 @@ transcript:
   sec: 2899
   time: '48:19'
   who: Anastasia
+- header: 'Approaching Mentors: Clear Goals & Manageable Requests'
 - line: Let’s say I have a problem, like I want to find a job or get a promotion.
     I come across someone who has already made a similar transition — maybe from Russia
     to Germany, or from academia to industry — and I reach out to ask for help. How
@@ -692,7 +704,6 @@ transcript:
   sec: 2965
   time: '49:25'
   who: Alexey
-- header: Paid vs unpaid mentorship and finding the right fit
 - line: Yes, it’s a really big thing. To be a mentor requires a lot of time and effort,
     right?
   sec: 3032
@@ -703,6 +714,7 @@ transcript:
   sec: 3035
   time: '50:35'
   who: Alexey
+- header: 'Paid Mentorship vs. Free Communities: Pros & Cons'
 - line: That’s a very good question. There are many ways to find a mentor. Some mentors
     are paid, like me, and others are unpaid. There are also communities where you
     can find unpaid mentors. Regardless of whether you're able to pay or not, I suggest
@@ -763,6 +775,7 @@ transcript:
   sec: 3232
   time: '53:52'
   who: Anastasia
+- header: 'Mentorship as Career Leverage: Promotions & Leadership Experience'
 - line: I agree. When you were at Blue Yonder, people approached you to be their mentor.
     I’ve had a similar experience in my previous company. It’s interesting because
     it adds more work but without a salary increase. It’s unpaid labor in a sense,
@@ -812,6 +825,7 @@ transcript:
   sec: 3573
   time: '59:33'
   who: Alexey
+- header: Finding Mentoring Communities & Platforms (MentorCruise, others)
 - line: Maybe we can link something. Mentoring Club sounds familiar. I also know MentorCruise,
     but that one’s paid.
   sec: 3582
@@ -824,6 +838,7 @@ transcript:
   sec: 3598
   time: '59:58'
   who: Alexey
+- header: Episode Wrap-up & Key Takeaways
 - line: It was a pleasure for me as well. Thank you, Alexey, for the interesting questions
     and discussion. I wasn’t prepared to talk much about my research career, but I’m
     glad we did. I hope people learn something new. LLMs are all the rage these days,

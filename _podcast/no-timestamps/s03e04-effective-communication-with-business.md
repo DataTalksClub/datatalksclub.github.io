@@ -15,6 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/4RF592cRWxHgcXbx6pV0Ja
   apple: https://podcasts.apple.com/us/podcast/effective-communication-business-for-data-professionals/id1541710331?i=1000519463715
 transcript:
+- header: Podcast Introduction
+- header: 'Episode Theme: Bridging Data & Management'
 - line: This week we will talk about the disconnection between data folks and the
     management, and how to bridge the gap between the two. We have a special guest
     today — Lior. Lior has experience of over 12 years in building data teams, leveraging
@@ -31,7 +33,7 @@ transcript:
   sec: 135
   time: '2:15'
   who: Lior
-- header: Lior’s background
+- header: 'Guest Background: Lior''s data and product journey'
 - line: Welcome. Before we go into our main topic of communicating with business,
     let’s talk a bit about your background. With 12 years of experience you probably
     saw a lot of things. Can you tell us a bit about your career journey so far?
@@ -48,6 +50,7 @@ transcript:
   sec: 169
   time: '2:49'
   who: Lior
+- header: 'Role Defined: Data strategist as translator between business and tech'
 - line: Now lately I am running the podcast “WHAT the Data?!” where I am interviewing
     data and business people. I’m trying to bridge the communication between these
     two functions to leverage the data for growth. Then also I am managing director
@@ -56,7 +59,6 @@ transcript:
     data infrastructure in a quick way, so they can focus on hiring good data engineers
     and not being under pressure to run around.
   who: Lior
-- header: Who is a data strategist?
 - line: I checked your LinkedIn profile and it says that your title now is a “data
     strategist”. This makes me wonder what does a data strategist do?
   sec: 248
@@ -123,7 +125,7 @@ transcript:
   sec: 419
   time: '6:59'
   who: Lior
-- header: Improving communication between business and tech
+- header: 'Communication Tactics: Proactive alerts to maintain data trust'
 - line: So, you have the background of a technical person, you also have a background
     of a product manager which puts you in this unique position of being able to understand
     both — be able to translate from one world to another, from one function to another.
@@ -150,6 +152,7 @@ transcript:
   sec: 502
   time: '8:22'
   who: Lior
+- header: 'Forecast Transparency: Confidence intervals and QA dashboards'
 - line: In the long run you are going to find yourself running into an issue of “They
     do not trust me”. I do my job. I am frustrated with my job. The data scientist
     and all the data engineers become very frustrated. This is something I noticed
@@ -165,7 +168,6 @@ transcript:
     it”. It is going to reduce 60 percent of the wasting of the time back and forth
     between the tech and the business in many cases.
   who: Lior
-- header: Building trust
 - line: So the main thing here is building trust. Business people need to have trust
     in the work of data engineers, data analysts, and data scientists. One of the
     ways of doing this is to be upfront, be transparent. If something happens, inform
@@ -188,6 +190,7 @@ transcript:
   sec: 678
   time: '11:18'
   who: Lior
+- header: 'Translator Profiles: Product-minded data advocates for alignment'
 - line: In some other cases, the model is not relevant anymore. Because somehow the
     users that arrive completely changed the picture of how it is observing the operation.
     Or some features were changing. They are not relevant anymore, they are not available
@@ -212,7 +215,7 @@ transcript:
   sec: 795
   time: '13:15'
   who: Alexey
-- header: Putting data and business people together
+- header: 'Embedment: Sitting with business to learn workflows and needs'
 - line: Not necessarily. You can have this translator in the middle. But you, as somebody
     who is touching the data — and basically most of us — most of the data engineers,
     data scientists are looking at themselves as an enabler's functions. I am enabling
@@ -227,6 +230,7 @@ transcript:
   sec: 860
   time: '14:20'
   who: Lior
+- header: 'Data-led Growth: Using data to improve recruitment, marketing, and ops'
 - line: When I was working with data people, I put the data people — the data engineers,
     the analysts or even the data scientists — to sit with the business for a day
     or two. So they can see what they are doing. If you are looking for transparency
@@ -282,6 +286,7 @@ transcript:
   sec: 1130
   time: '18:50'
   who: Lior
+- header: 'Overcoming Resistance: Hackathons and side projects to prove value'
 - line: You can only drive this stuff when you are sitting with the recruiter together,
     you are understanding how he is working. The same thing goes to marketing and
     the same thing goes to every place. A lot of these recruiters are also frustrated
@@ -293,7 +298,6 @@ transcript:
     one of the points that only by sitting together and combining forces, you can
     try this growth.
   who: Lior
-- header: Dealing with pushbacks
 - line: I was thinking about the example you gave — when somebody was taking six clicks,
     the data engineer approached and said “Hey, we can make it easier for you”. But
     I imagine that there are some cases when the data engineer would have a pushback.
@@ -315,6 +319,7 @@ transcript:
   sec: 1280
   time: '21:20'
   who: Lior
+- header: 'Lean Delivery: MVPs, iterative development, and scaling with OKRs'
 - line: You are going to give it to them, then I am like “Let’s try for a week. What
     can go wrong?” Nothing can go wrong if you are going to try it for a week. There
     is no chance that they are going to push it back. I think yes, there are a lot
@@ -339,7 +344,6 @@ transcript:
     are coming into the picture. We should push quite hard and find our right way
     to present stuff.
   who: Lior
-- header: Building things in the lean way (and growing tomatoes)
 - line: 'But we also need to always think, in an MVP way. This is another point that
     I will add here: don’t get complicated with stuff. Don’t go into development for
     three months or six months for a product. In the industry that we are working
@@ -381,7 +385,7 @@ transcript:
   sec: 1574
   time: '26:14'
   who: Lior
-- header: Starting with ugly code
+- header: 'Prototype-first: Embrace imperfect code to validate solutions'
 - line: I thought so. We will talk a bit about hummus and your book later. But I like
     the metaphor about the plant. I am wondering how can we find the right balance
     between complexity and simplicity? I understand that this development MVP. Have
@@ -404,6 +408,7 @@ transcript:
   sec: 1653
   time: '27:33'
   who: Lior
+- header: 'Handover Strategy: Creating ownership for productionization'
 - line: 'You start with something ugly. You see that it works. If it works, then you
     are creating this approach of somebody taking over fixing the code, building it
     up, creating the system of how we are going to grow it, what is the end goal of
@@ -424,7 +429,6 @@ transcript:
     and show that actually there is a purpose and there is use for what we do. And
     this is the only approach for us.'
   who: Lior
-- header: Convincing others to take our code
 - line: 'As I understood, having ugly code is fine. We know that it’s going to be
     rewritten. Then, even before having any code, try simpler things. Try excel. Try
     to solve the problem without any code at all at first and see if it is valuable,
@@ -472,6 +476,7 @@ transcript:
   sec: 1940
   time: '32:20'
   who: Alexey
+- header: 'Value over Aesthetics: Message clarity beats polish in early stages'
 - line: You know how many times people were telling me that something I was doing
     looked disgusting. Many times I used to be the first one to build dashboards.
     My color picking is horrible. When I was 18 years old, I was requested to do a
@@ -483,6 +488,7 @@ transcript:
   sec: 1962
   time: '32:42'
   who: Lior
+- header: 'Hummus Metaphor: Quick prototype versus crafted product'
 - line: Now you can take it, you can create the right color schema for that, you can
     add whatever images you want and cut them whatever way you want. The most important
     part is that the message and the use case here are transferred. Since then, every
@@ -490,7 +496,6 @@ transcript:
     Somebody is going to come and make it much more beautiful than what I do. And
     I accept it. I do not fight against it.
   who: Lior
-- header: MVP vs development and Hummus
 - line: Going back to this ugly code. When we move fast, it creates this reaction
     from engineers “This is a bad code. We want to rewrite.” But the other thing —
     it might cause business to think that this speed is the usual speed. This is the
@@ -511,6 +516,7 @@ transcript:
   sec: 2092
   time: '34:52'
   who: Lior
+- header: 'Non-technical Stakeholders: Explain effort in plain language'
 - line: But is it the taste you were after? No. If you really want to get this taste,
     you will need to soak the chickpeas for 24 hours. You will need to cook them for
     two to three hours until they are getting soft. You need to grind them. You need
@@ -529,7 +535,6 @@ transcript:
     have two different tastes. This is completely different. And this is exactly how
     I am looking at development of code.
   who: Lior
-- header: Talking to people who can’t code
 - line: I know what I will use next time when I explain why it takes so long. Great!
     I really loved the metaphor, I even forgot what I wanted to talk about. I think
     I wanted to also cover talking to people who don’t know how to code. Let’s say,
@@ -553,6 +558,7 @@ transcript:
   sec: 2256
   time: '37:36'
   who: Lior
+- header: 'Cross-team Empathy: Breaking silos through co-working and lunches'
 - line: When you see that you committed to something that is going to take you two
     weeks, and you don’t think you can make it in two weeks, come early enough to
     them. Tell them “Listen guys. I have this. And this right now is disturbing me.
@@ -573,7 +579,6 @@ transcript:
     this is not going to be ready in time. This, I think, what is important to make
     sure that we are doing.
   who: Lior
-- header: Break down the silos
 - line: Back to the point we discussed at the beginning — just sitting together, trying
     to build trust, trying to show, and trying to learn from each other. I am a data
     scientist and I’m willing to learn from you. I want to see what kind of problems
@@ -603,6 +608,7 @@ transcript:
   sec: 2459
   time: '40:59'
   who: Lior
+- header: 'Remote Collaboration: Chat-driven triggers and selective meeting use'
 - line: Once you are going to go down from “I am sitting in my corner” to “I’m sitting
     with the marketing for one day. I am joining their chats. I am listening to what
     they are talking about”... Now, when we are working from home, one of the key
@@ -657,13 +663,13 @@ transcript:
     is not what we want to create. We want to create a communication that is triggered
     based on important parts — something that happened is relevant right now.
   who: Lior
-- header: Hummus
 - line: It’s more clear now. So it could be a slack channel. Just look what kind of
     problems they talk about. If something is broken, pay attention to these kinds
     of things. Clear! Now moving on to your favorite topic. which is you know what?
   sec: 2706
   time: '45:06'
   who: Alexey
+- header: 'Product Perspectives: Consumers vs engineers — the hummus analogy'
 - line: Hummus.
   sec: 2729
   time: '45:29'
@@ -755,7 +761,6 @@ transcript:
   sec: 2951
   time: '49:11'
   who: Lior
-- header: Hummus places in Berlin
 - line: Yes which reminds me of my former manager from my previous company. He is
     Israeli and he suggested to me the best place to try hummus in Berlin. I went
     to that place and it looked super shady. I was not sure I want to be there in
@@ -772,6 +777,7 @@ transcript:
   sec: 3036
   time: '50:36'
   who: Alexey
+- header: 'Local Anecdote: Recommended hummus spots in Berlin'
 - line: If there are people in Berlin who want to go to a really good place, they
     should try either Akkawy if they want to have a good experience or Azam which
     for me is like the top of hummus. There is another nice place which is called
@@ -786,7 +792,7 @@ transcript:
   sec: 3078
   time: '51:18'
   who: Alexey
-- header: 'Lior’s book: Data is Like a Plate of Hummus'
+- header: 'Book Overview: Purpose of "Data is Like a Plate of Hummus"'
 - line: Why did you call your book ”Data is Like a Plate of Hummus”? I think I am
     getting some ideas from our conversation. But maybe you have a short answer to
     that question?
@@ -817,6 +823,7 @@ transcript:
   sec: 3191
   time: '53:11'
   who: Alexey
+- header: 'Strategy Foundations: Build a stable data ground before models'
 - line: 'It’s mostly for the business people. But also for tech people who want to
     understand a little bit better about how they should direct the business people
     to work. If you think about it — there is a business strategy that goes somewhere
@@ -856,7 +863,7 @@ transcript:
   sec: 3304
   time: '55:04'
   who: Lior
-- header: Data chaos
+- header: 'Data Chaos: Clearing requests, educating users, and leading growth'
 - line: Thanks. That was great! Do you have any last words? Any tips and tricks that
     you want to share?
   sec: 3349
@@ -886,6 +893,7 @@ transcript:
   sec: 3450
   time: '57:30'
   who: Alexey
+- header: 'Resources & Contact: Lior''s LinkedIn, Twitter, and podcast'
 - line: You can reach out on LinkedIn, it’s Lior. You can find me on Twitter, LiorB.
     These are the most active places I am in. They can also check out the podcast.
     We always happy to have people on there, if anybody interested to come and talk
@@ -893,6 +901,7 @@ transcript:
   sec: 3460
   time: '57:40'
   who: Lior
+- header: Closing Remarks and Episode Wrap-up
 - line: Please send me the links. I will put them in the description. Thanks again
     for joining us today to share your experience, to share your passion for cooking
     and hummus. For sharing these wonderful metaphors. I am sure I am going to use

@@ -36,7 +36,8 @@ topics:
 - education
 - career growth
 transcript:
-- header: 'Introduction: Teaching Data Engineers'
+- header: Episode Overview & Guest Introduction
+- header: 'Guest Background: Lawyer → Developer → Educator'
 - line: This week, we'll talk about teaching data engineers. We have a special guest
     today, Jeff. Jeff has been teaching for quite some time. First, he was teaching
     data scientists, then data engineers. He will probably tell us more about that.
@@ -48,7 +49,6 @@ transcript:
   sec: 94
   time: '1:34'
   who: Jeff
-- header: 'Career Shift: Lawyer to Tech Startup Strategy, Learning Code'
 - line: Before we go into our main topic of teaching data engineers and teaching in
     general, let's start with your background. I know you have an amazing background,
     but it's probably better if you tell us about that. So can you tell us about your
@@ -90,7 +90,7 @@ transcript:
   sec: 216
   time: '3:36'
   who: Alexey
-- header: 'Book: Teach Like a Champion: Concept: Constant Student Feedback'
+- header: Active Learning & Continuous Student Feedback (teaching methods)
 - line: No, the book I was reading was called Teach Like a Champion.
   sec: 236
   time: '3:56'
@@ -141,7 +141,6 @@ transcript:
   sec: 340
   time: '5:40'
   who: Alexey
-- header: 'Concept: Active vs. Passive Learning: Who is Making Noise'
 - line: Well, the other thing is – you know passive learning versus active learning?
     One thing from another book, they said "Look at who's making the noise in the
     classroom – if it's the teacher, he's the one having fun, he's the one learning.
@@ -151,7 +150,6 @@ transcript:
   sec: 344
   time: '5:44'
   who: Jeff
-- header: 'Education as Solution: Human Rights, Refugees, Training over Tech'
 - line: So you were a software engineer – you were doing development work – and then
     you accidentally bumped into this book and decided to become an instructor? Or
     how did this happen? Why did you decide to actually leave your software engineering
@@ -159,6 +157,7 @@ transcript:
   sec: 373
   time: '6:13'
   who: Alexey
+- header: 'Education as Social Impact: Training, Refugees, Last-mile'
 - line: I have been interested in education since I was about 20 years old. I did
     a lot of human rights stuff in undergrad. So I did this really cool summer program
     working with refugees and got really into it when I was like 20. I wanted to kind
@@ -194,7 +193,7 @@ transcript:
   sec: 475
   time: '7:55'
   who: Jeff
-- header: 'Coding Bootcamps: General Assembly and Flatiron School Origins'
+- header: 'Early Bootcamps: General Assembly and Flatiron School Origins'
 - line: So you were studying at Flatiron or…? You said you studied at General Assembly.
     So this was there?
   sec: 522
@@ -213,7 +212,6 @@ transcript:
   sec: 522
   time: '8:42'
   who: Jeff
-- header: 'Curriculum Writing: Building Data Science Course, Market Analysis'
 - line: Okay. You were looking for a teaching job, so you went to the Flatiron website
     (the careers page) and you saw a vacancy for a lead instructor. Then you worked
     there as a lead teacher. And I think your last position there, if I remember correctly,
@@ -221,6 +219,7 @@ transcript:
   sec: 576
   time: '9:36'
   who: Alexey
+- header: 'Curriculum Development: Market Research & Employer Validation'
 - line: Essentially, my last role was really to build the data science course. Because
     at that point, they offered the web development course and they'd just been bought
     by WeWork, and they wanted to develop – both expand the school in terms of locations
@@ -267,7 +266,7 @@ transcript:
   sec: 698
   time: '11:38'
   who: Jeff
-- header: 'Creating Curriculum: Syllabi, Readings, Reinforcing Learning Material'
+- header: 'Lesson Structure: Syllabi, Labs, Reinforcement Cycles'
 - line: Yes, but what does it mean to write the curriculum? What does it mean to build
     the curriculum? What do you do there? What is a curriculum, actually?
   sec: 704
@@ -326,7 +325,7 @@ transcript:
   sec: 841
   time: '14:01'
   who: Alexey
-- header: 'Writing Lessons: Granular Breakdown, Conceptual Understanding First'
+- header: 'Pedagogy: Conceptual Understanding Before Implementation'
 - line: Yeah, but I think you break it down very granularly because you want to understand
     each component of y= mx+b (or whatever). I think with regression it would be you
     would start with, "Okay. Well, this is B" Because that's the most simple probably
@@ -340,7 +339,7 @@ transcript:
   sec: 870
   time: '14:30'
   who: Jeff
-- header: 'Rationale: Engineers Excel in Data Science: Advocating Backend Development'
+- header: 'Market Shift: Why Data Science Moved Toward Data Engineering'
 - line: Did you already know about data engineering back then when you wanted to teach
     it? [cross-talk]
   sec: 924
@@ -366,13 +365,13 @@ transcript:
   sec: 924
   time: '15:24'
   who: Jeff
-- header: 'Starting Own School: Career Services, Affordability, Vulnerability'
 - line: Maybe, let's go a little bit back. At some point, you decided to leave Flatiron
     and start your own bootcamp. Why did you make this decision? Couldn't you just
     follow the same approach? You could have pitched this to the school, right? [cross-talk]
   sec: 997
   time: '16:37'
   who: Alexey
+- header: 'Building a School: Affordability, Part-time Model, Career Services'
 - line: Well, I didn't know that data engineering… I left Flatiron School before that.
     But when I first taught at Flatiron school – I think the first course graduated
     in 2018 and 2019 – students got jobs as data scientists pretty quickly, even though
@@ -410,7 +409,6 @@ transcript:
   sec: 1136
   time: '18:56'
   who: Alexey
-- header: 'Strategy: Lowering Barrier to Entry, Part-Time Workshop Model'
 - line: That was really a dramatic thing. That was part of the "why doesn't everybody
     do this" type component. When you join a boot camp it's always "Take the leap
     and trust". And it's a boot camp, which means it's an all-encompassing type of
@@ -436,6 +434,7 @@ transcript:
   sec: 1208
   time: '20:08'
   who: Alexey
+- header: 'Lowering Barriers: Workshops, Part-time Pathways, Admissions'
 - line: It was also “lower the barrier to entry.” Like, how do you lower the barrier
     to entry to make this possible? Really the first question was, again, “Why don't
     more people do this?” One thing I started doing was just teaching weekly workshops
@@ -454,7 +453,6 @@ transcript:
   sec: 1218
   time: '20:18'
   who: Jeff
-- header: Shift from Data Science to Data Engineering due to Job Market
 - line: Yeah, interesting. You started first with machine learning for your own bootcamp
     – machine learning, data science, all that – but then you gradually shifted to
     data engineering. Why did you do that?
@@ -478,7 +476,6 @@ transcript:
   sec: 1341
   time: '22:21'
   who: Alexey
-- header: 'Data Science Market Saturation: Filtering by Masters and PhDs'
 - line: Well, I remember… You could click on LinkedIn pages – so many of the jobs
     will say over 500. I spoke to a data scientist at BCG, who told me, "I get 20
     pings on LinkedIn a day asking me 'how do I become a data scientist?' The only
@@ -502,7 +499,7 @@ transcript:
   sec: 1406
   time: '23:26'
   who: Alexey
-- header: 'Data Engineering: Defined Skill Set, Focus on Python, SQL, Cloud'
+- header: 'Data Engineering Core Skills: Python, SQL, Cloud Fundamentals'
 - line: Exactly right. Yeah. One, you actually had engineering skills. If you graduate
     with working in data engineering – with data science, there's so much to learn,
     too. That was the other thing. It was hard to build a curriculum around it. I
@@ -525,7 +522,6 @@ transcript:
   sec: 1472
   time: '24:32'
   who: Alexey
-- header: 'Data Science Graduates: Shifting to Analyst or Engineering Roles'
 - line: No, we were able to get them… there were qualified students, like PhD students
     and people that had been working with SQL or things like that for five plus years.
     It was successful, but I didn't think it was sustainable. I thought it was still
@@ -557,7 +553,7 @@ transcript:
   sec: 1569
   time: '26:09'
   who: Jeff
-- header: 'Ensuring Hires: Admissions, Curriculum Alignment, Post-Career Work'
+- header: 'Ensuring Hires: Admissions Criteria, Curriculum-Employer Fit, Follow-up'
 - line: You have students who go through your bootcamp for data engineers, so how
     do you make sure they get hired?
   sec: 1600
@@ -574,7 +570,7 @@ transcript:
   sec: 1610
   time: '26:50'
   who: Jeff
-- header: 'Strategy: Mid-Program Internships (Working for Free) for Experience'
+- header: 'Mid-Program Internships: Employer Projects for Real Experience'
 - line: That also gives us feedback on the curriculum because I see what questions
     are being answered, I see how they're applying for jobs, things like that. Then
     finally, the only thing we saw on the first day of the data engineering course
@@ -616,7 +612,6 @@ transcript:
   sec: 1725
   time: '28:45'
   who: Jeff
-- header: 'Applicant Screening: Technical Interview, Assessing Learning Ability'
 - line: When you do this screening, what kind of signals do you look for?
   sec: 1804
   time: '30:04'
@@ -646,6 +641,7 @@ transcript:
   sec: 1825
   time: '30:25'
   who: Alexey
+- header: 'Applicant Screening: Technical Interview & Learning Agility'
 - line: No. I mean, we have taken people like that. I would say some of our students
     – maybe about a third to 20% have had previous engineering experience or have
     gone to other boot camps and things like that. By the way, we've had people that
@@ -674,7 +670,6 @@ transcript:
   sec: 1832
   time: '30:32'
   who: Jeff
-- header: 'Readiness Check: Applying Early, Overcoming Fear of Rejection'
 - line: I have a question that is quite relevant to what we're talking about, "How
     does one know that the students are ready to apply for an entry-level data engineer
     role?" Maybe I will rephrase it a little bit, because it's similar to a question
@@ -686,6 +681,7 @@ transcript:
   sec: 1951
   time: '32:31'
   who: Alexey
+- header: 'Interview Practice: Apply Early, Learn from Rejection'
 - line: Yeah, we can put it in the curriculum, but it goes back to the same thing
     – they need to master and really understand that material. Not only that, it’s
     really 400+ hours of material over six months. Trust me, when they graduate, to
@@ -709,7 +705,6 @@ transcript:
   sec: 2053
   time: '34:13'
   who: Alexey
-- header: 'Interviewing is a Skill: Using Failures for Motivation'
 - line: I mean, interviewing is a skill in and of itself. You see all the time on
     LinkedIn, how the technical interview does not line up to the job. Of course,
     we all know that. Being great at interviewing is itself a skill, probably no matter
@@ -742,7 +737,7 @@ transcript:
   sec: 2135
   time: '35:35'
   who: Jeff
-- header: 'Curriculum: Analytics Engineering (Snowflake, DBT, Mode)'
+- header: 'Analytics Engineering Module: DBT, Snowflake, Mode, Fivetran'
 - line: Okay. What do you actually put on the curriculum? What are the topics there?
   sec: 2178
   time: '36:18'
@@ -754,7 +749,7 @@ transcript:
   sec: 2182
   time: '36:22'
   who: Jeff
-- header: 'Curriculum: Backend Engineering (Flask, ETL, Codebase Navigation)'
+- header: 'Backend Engineering Module: Flask, ETL, Codebase Navigation, Testing'
 - line: Then the second section is essentially backend engineering. So it's Flask,
     building ORMs, the adapter pattern, ETL in Python – MVC, obviously. And that takes
     a while to go through that and testing. A lot of that is like, "How do you write
@@ -770,7 +765,6 @@ transcript:
   sec: 2182
   time: '36:22'
   who: Jeff
-- header: 'Market Demand: Spark, Kafka, Kubernetes not required for Juniors'
 - line: I'm making some comparisons and parallels with the course we have – Data Engineering
     Zoomcamp. We have this data analytics engineering module, but we don't really
     talk about Fivetran, we cover just DBT. But we do cover things like Spark and
@@ -778,6 +772,7 @@ transcript:
   sec: 2261
   time: '37:41'
   who: Alexey
+- header: 'Curriculum Prioritization: Dropping Spark/Kafka/Kubernetes for Juniors'
 - line: We do not cover that. We taught Spark in the first iteration, so we have curriculum
     on that.  But we saw that it wasn't really asked in interviews and it wasn't really
     required of juniors. I see it a lot for our senior engineering positions. We scraped
@@ -833,7 +828,7 @@ transcript:
   sec: 2404
   time: '40:04'
   who: Jeff
-- header: 'Advice: Data Analyst to DE (Backend Engineering, Python, Cloud)'
+- header: 'Transition Path: Data Analyst → Data Engineer (backend & cloud focus)'
 - line: A question we have is "What steps should a data analytics or BI professional
     take to become a data engineer?" We kind of partly covered that when you were
     describing the curriculum. Maybe they should start with analytics engineering.
@@ -930,7 +925,7 @@ transcript:
   sec: 2641
   time: '44:01'
   who: Jeff
-- header: 'SQL Skills: Window Functions, Medium LeetCode Problems'
+- header: 'SQL Mastery: Window Functions & Medium LeetCode SQL Problems'
 - line: Another question we have is from John, who asks, "For data engineering SQL
     is a useful skill. How does one improve SQL if somebody wants to do that?"
   sec: 2661
@@ -945,12 +940,12 @@ transcript:
   sec: 2673
   time: '44:33'
   who: Jeff
-- header: 'Technique: Data Modeling (OLTP vs. OLAP), Using Sample Databases'
 - line: By "LeetCode questions," you mean…? I know on LeetCode, you have algorithmic
     challenges and SQL problems as well. You mean the SQL ones?
   sec: 2707
   time: '45:07'
   who: Alexey
+- header: 'Data Modeling Practice: OLTP vs OLAP and Sample Databases'
 - line: I mean the SQL – just click on LeetCode for SQL and then be able to do probably
     up to medium – for most positions that's pretty good. That's really the main way
     they'll be assessing SQL. The other thing is going to be data modeling, like knowing
@@ -1009,13 +1004,13 @@ transcript:
   sec: 2834
   time: '47:14'
   who: Jeff
-- header: 'Interview Expectation: Screening, SQL, Python, Self-Assessment'
 - line: So somebody with the nickname "futureDSengineer" asks, "When do you stop learning
     and start attending interviews? It seems like there's an ocean of topics and it
     never ends. It overwhelms sometimes."
   sec: 2866
   time: '47:46'
   who: Alexey
+- header: 'Interview Stages: Screening Calls, SQL Tests, On-site Expectations'
 - line: Yeah. So that's why I think there's no harm in just attending an interview
     just do it – just for the experience. Maybe we can give some expectation as to
     what probably is going to be asked in an interview. The first interview would
@@ -1048,7 +1043,7 @@ transcript:
   sec: 2880
   time: '48:00'
   who: Jeff
-- header: 'How to Start Teaching: Beginner Topic, Explaining to One Person'
+- header: 'How to Start Teaching: Pick a Beginner Topic & Teach One Person'
 - line: Okay. There are still a couple of questions I want to ask. The question I
     want to ask most is "If somebody wants to start teaching software engineering
     or data engineering or data science – any topic – what would you suggest to them?"
@@ -1079,13 +1074,13 @@ transcript:
   sec: 3015
   time: '50:15'
   who: Jeff
-- header: 'Revising Lectures: Speed, Benefit, Avoiding Online Drop-Offs'
 - line: How do you revise it? Is it based on the questions you get? You explain something
     and then you see that clearly everybody is lost? Right? And then you say, "Okay,
     probably I should explain something else first."
   sec: 3104
   time: '51:44'
   who: Alexey
+- header: 'Delivery Tactics: In-Person vs Online Engagement and Sequencing'
 - line: Sometimes it’s the questions – questions can be really good and give you a
     sense that people think what you’re teaching is kind of cool. Lots of times, you
     want to get to the point as fast as possible, or show the benefit as fast as possible.
@@ -1146,7 +1141,7 @@ transcript:
   sec: 3241
   time: '54:01'
   who: Jeff
-- header: 'Challenges of One-Person School: Massive Curriculum Writing Effort'
+- header: 'Running a Small School: Curriculum Volume and Time Management'
 - line: All this time when you talk about the bootcamp, you say "we" "we teach" but
     I think you're a one-person company? Right? [chuckles]
   sec: 3294
@@ -1191,6 +1186,7 @@ transcript:
   sec: 3340
   time: '55:40'
   who: Jeff
+- header: 'Teaching Fundamentals vs Shiny Tech: 85% Python/SQL, 15% tools'
 - line: We have quite a few questions about the interviews. I just want to mention
     that Jeff will come to DataTalks.club again and will do a webinar about getting
     a data engineer job. That will actually cover that – mostly the interviews and
@@ -1206,7 +1202,6 @@ transcript:
   sec: 3406
   time: '56:46'
   who: Alexey
-- header: 'Teaching Fundamentals: SQL, Python, Cloud, Docker (85% of Course)'
 - line: Well, you teach the fundamentals. I mean, the traditional tech is SQL and
     Python. Yeah, that sounds great. Even if you're a junior engineer, I'd say, if
     you can improve your Python skills – that's awesome. My first year as a software
@@ -1241,7 +1236,7 @@ transcript:
   sec: 3543
   time: '59:03'
   who: Jeff
-- header: 'JigsawLabs.io: Current Cohort Success, Next Course Date'
+- header: 'Outcomes & Next Cohort: JigsawLabs Results and Start Date'
 - line: Okay. So it seems we're out of time. But maybe you want to mention anything
     before we wrap up?
   sec: 3571
@@ -1258,7 +1253,7 @@ transcript:
   sec: 3578
   time: '59:38'
   who: Jeff
-- header: 'Finding Jeff Online: LinkedIn and Email'
+- header: 'Contact & Follow-up: Jeff Katz, Webinar on Getting Data Engineering Jobs'
 - line: Yeah, I was going to ask how they can find it. Can you send me the link? If
     people want to find you and ask a question, what's the best way?
   sec: 3621

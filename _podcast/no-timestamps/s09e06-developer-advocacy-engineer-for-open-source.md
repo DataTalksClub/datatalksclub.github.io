@@ -16,6 +16,8 @@ short: Developer Advocacy Engineer for Open-Source
 title: 'Contribute to Hugging Face & Build an NLP Portfolio: Open Source, Datasets,
   Spaces'
 transcript:
+- header: Podcast Introduction
+- header: Guest Welcome & Episode Overview
 - line: This week, we'll talk about developer advocacy engineering for open source
     projects. We have a special guest today, Merve. Merve works as a developer advocacy
     engineer at Hugging Face. This is actually not the first time that Merve appears
@@ -30,7 +32,7 @@ transcript:
   sec: 109
   time: '1:49'
   who: Merve
-- header: Merve’s background
+- header: 'Early Career: Industrial Engineering to NLP'
 - line: '[chuckles] Thanks. Okay. But since we''re on a podcast, let''s start with
     your background. Can you tell us about your career journey so far?'
   sec: 122
@@ -63,6 +65,7 @@ transcript:
   sec: 238
   time: '3:58'
   who: Alexey
+- header: 'Transition to NLP: First Projects & Sentiment Analysis'
 - line: In my boot camp – basically, I was going to boot camp sponsored by Microsoft.
     Over there, I was actually mentoring because it was half theoretical and half
     practical and I was doing well in both. But I did a project about some text classification
@@ -112,7 +115,7 @@ transcript:
   sec: 302
   time: '5:02'
   who: Merve
-- header: Merve’s first contributions to open source
+- header: 'Open Source Discovery: Finding Hugging Face & Contribution Sprints'
 - line: You said that while working on NLP, with chatbots, you contributed to open
     source. You contributed to Hugging Face – I guess also to other libraries. How
     did it happen for you? What was your first contribution? Do you remember?
@@ -143,6 +146,7 @@ transcript:
   sec: 490
   time: '8:10'
   who: Alexey
+- header: 'Datasets Work: Canonical Datasets, Scripts, and CI Learning'
 - line: Yeah. But datasets are very complicated. For instance, there's something called
     attention masks in the data set – we have… segmentation data sets are very complicated.
     So they need to be made easy to use, for instance, named entity recognition, or
@@ -184,6 +188,7 @@ transcript:
   sec: 628
   time: '10:28'
   who: Alexey
+- header: 'Contributor Onboarding: Sprints, Good-First Issues, and Confidence Building'
 - line: Because libraries like Hugging Face or SciKit Learn have sprints in which
     the maintainers spend time to help you out in your contribution. Because we observe
     that once you onboard that contributor for the first time, it's easier for them
@@ -204,6 +209,7 @@ transcript:
   sec: 679
   time: '11:19'
   who: Merve
+- header: 'Contributing as a Side Project: Motivation and Timing'
 - line: Do you remember – when you were actually making these contributions, you already
     worked at a startup, right? Were you doing this as part of your job or was this
     something more like a side activity?
@@ -228,7 +234,6 @@ transcript:
   sec: 725
   time: '12:05'
   who: Merve
-- header: What Merve currently does at Hugging Face (Hub, Spaces)
 - line: Okay. So you started, you contributed to the datasets functionality of Hugging
     Face before joining, and then they saw you and they offered you a job, right?
     What do you work on now? Is this datasets part still something you’re also working
@@ -236,6 +241,7 @@ transcript:
   sec: 747
   time: '12:27'
   who: Alexey
+- header: 'Hugging Face Projects: Tasks, Hub, TensorFlow & Keras Integration'
 - line: I have a couple of projects. Basically, the reason why developer advocacy
     engineering is called “engineering” is because it depends on the company how the
     job scopes and their technicality changes. And in Hugging Face, it's a very technical
@@ -277,6 +283,7 @@ transcript:
   sec: 934
   time: '15:34'
   who: Alexey
+- header: 'Model Reproducibility: Hub Features and Model Registry Concepts'
 - line: I would say this is not true, but there are a number of people who like PyTorch
     and Fast.ai – more than people who use TensorFlow and SciKit Learn, I think. They
     only had one TensorFlow maintainer, Matt. Before we had more TensorFlow maintainers,
@@ -312,6 +319,7 @@ transcript:
   sec: 1052
   time: '17:32'
   who: Alexey
+- header: 'Spaces & Community Tab: Demos with Streamlit/Gradio and Community Collaboration'
 - line: Yeah. We also have something called Spaces, which is something where you can
     just build your demos with Streamlit, Gradio, or just Static, and just share them
     with people. And recently, we opened a feature called Community Tab, which has
@@ -320,7 +328,6 @@ transcript:
   sec: 1057
   time: '17:37'
   who: Merve
-- header: What is means to be a developer advocacy engineer at Hugging Face
 - line: Yeah, I’m just wondering – you probably cover the engineering parts, right?
     Everything you described – all these features – they are quite heavy on engineering.
     You actually need to write code there, make tests, make sure that the CI/CD is
@@ -329,6 +336,7 @@ transcript:
   sec: 1087
   time: '18:07'
   who: Alexey
+- header: 'Developer Experience: Forum Support, Workshops, and Keras Sprints'
 - line: Yeah, we also do that. Basically, the last thing I'm working on, currently,
     is putting the tabular data modality on the Hub, which is improving reproducibility
     and collaboration for the tabular data related workflows, having better integration
@@ -372,6 +380,7 @@ transcript:
   sec: 1281
   time: '21:21'
   who: Alexey
+- header: 'Role Balance: Engineering vs. Advocacy Time Split'
 - line: It depends. Currently, we do not have many people working on the tabular data
     modality – we only have Adrian, who is one of the core contributors of SciKit
     Learn. We hired one more person who has a famous package on SciKit Learn. Because
@@ -398,6 +407,7 @@ transcript:
   sec: 1382
   time: '23:02'
   who: Alexey
+- header: 'Hiring Signals: Evaluating Open Source Experience on GitHub'
 - line: Yeah. Basically, in some companies, it depends heavily on the company. In
     some of the companies, some of these developer advocates are focused mainly on
     doing community events, or doing podcasts or educational material. But it's in
@@ -421,12 +431,12 @@ transcript:
   sec: 1406
   time: '23:26'
   who: Merve
-- header: The best way to get open source experience (Google Summer of Code, Hacktoberfest,
-    and sprints)
 - line: What's the best way to get this existing open source experience?
   sec: 1504
   time: '25:04'
   who: Alexey
+- header: 'Getting Started with Open Source: Sprints, Documentation, and Non-Code
+    Contributions'
 - line: You can join the sprints of SciKit Learn or Hugging Face.
   sec: 1509
   time: '25:09'
@@ -467,6 +477,7 @@ transcript:
   sec: 1639
   time: '27:19'
   who: Merve
+- header: 'Structured Programs: Google Summer of Code and Hacktoberfest'
 - line: It was long ago. I think they just didn't have a lot of places for Google
     Summer of Code. The project I chose was Apache Flink – it was before they became
     an Apache project – and I think they had just one or two open spaces. [cross-talk]
@@ -523,6 +534,7 @@ transcript:
   sec: 1749
   time: '29:09'
   who: Alexey
+- header: 'Learning from PRs: Contributing to scikit-learn and Code Quality'
 - line: I am planning to contribute more to SciKit Learn. I met their core developers,
     who are living here in Paris, and they are doing sprints. But aside from sprints,
     I'm just planning to pick some good first issues. Because I looked at the code
@@ -532,7 +544,6 @@ transcript:
   sec: 1766
   time: '29:26'
   who: Merve
-- header: The peculiarities of hiring as it relates to code contributions
 - line: By the way, coming back to – you said that you take part in the hiring process.
     And when hiring, you look at the contributions of this person – the code contributions.
     Do you look at contributions to some projects or contributions to [audio cuts
@@ -540,6 +551,7 @@ transcript:
   sec: 1802
   time: '30:02'
   who: Alexey
+- header: 'Hiring Expectations: Working with Large Codebases and PR Workflows'
 - line: It can be a person's own project – it doesn't necessarily have to be another
     code base. If it solves a problem or something, it's a good thing. But the thing
     is, here, we have standardized the development processes. You develop something
@@ -594,6 +606,7 @@ transcript:
   sec: 1928
   time: '32:08'
   who: Alexey
+- header: 'Handling PR Rejections: Discussions, Design Decisions, and Unit Tests'
 - line: Yeah, of course. Two days ago, I had to reject someone's PR because… Basically,
     we save TensorFlow models in a format called Saved Model, which basically has
     everything. It has the graph, the variables, etc. It's sort of the agreed way
@@ -671,7 +684,7 @@ transcript:
   sec: 2279
   time: '37:59'
   who: Merve
-- header: Best resources to learn about NLP besides Hugging Face
+- header: 'NLP Learning Resources: Courses, spaCy, Keras Examples, and Transfer Learning'
 - line: At the beginning, if you remember, I told you that there are a lot of questions
     for you. I think now it's time to come back to these questions. Sorry to keep
     you waiting, everyone. The first question is, “Outside of Hugging Face, what's
@@ -757,7 +770,7 @@ transcript:
   sec: 2479
   time: '41:19'
   who: Merve
-- header: Good first projects for NLP
+- header: 'Beginner NLP Projects: Sentiment Analysis and Classification Tasks'
 - line: Yeah, thank you. I think at the beginning, when answering this question, you
     mentioned that you need to first ask yourself, “What do you need to do?” And then
     pick a suitable task. Or for “What do you want to do it for?” Do you have some
@@ -827,7 +840,6 @@ transcript:
   sec: 2775
   time: '46:15'
   who: Merve
-- header: The most important topics in NLP right now
 - line: Okay. “What are the most important topics in NLP right now?”
   sec: 2779
   time: '46:19'
@@ -865,7 +877,6 @@ transcript:
   sec: 2786
   time: '46:26'
   who: Merve
-- header: NLP ML Engineer vs NLP Data Scientist
 - line: Yeah. That's quite a comprehensive answer. Thanks. The next question is, “What
     is the difference between what you do as an NLP ML engineer and what an NLP data
     scientist would do?”
@@ -900,7 +911,8 @@ transcript:
   sec: 3044
   time: '50:44'
   who: Merve
-- header: Project recommendations and other advice to catch the eye of recruiters
+- header: 'Portfolio Advice: Deploying Demos with Streamlit, Gradio, and Hugging Face
+    Spaces'
 - line: “What type of project would you recommend that new data scientists attempt
     when trying to catch the eye of employers for entry-level data science positions?”
   sec: 3072
@@ -998,7 +1010,7 @@ transcript:
   sec: 3308
   time: '55:08'
   who: Merve
-- header: Merve on Twitch and her podcast
+- header: 'Content Creation: Twitch Streaming and Podcast Plans'
 - line: I do know, yes. [laughs] So you're doing streams on Twitch, aren't you?
   sec: 3349
   time: '55:49'
@@ -1037,7 +1049,7 @@ transcript:
   sec: 3440
   time: '57:20'
   who: Merve
-- header: Finding Merve online
+- header: 'Contact & Community: Slack, Twitter, and DataTalks.club Outreach'
 - line: That would be nice. Tell me when you come to Berlin. Okay. I think we should
     be wrapping up. Is there anything you want to say before we finish?
   sec: 3462
@@ -1049,7 +1061,7 @@ transcript:
   sec: 3476
   time: '57:56'
   who: Merve
-- header: Merve and Mario Kart
+- header: 'Personal Anecdote: Mario Kart at Hugging Face'
 - line: Okay. There actually is one question. “Why are you so bad at Mario Kart?
   sec: 3494
   time: '58:14'
@@ -1071,6 +1083,7 @@ transcript:
   sec: 3539
   time: '58:59'
   who: Merve
+- header: Episode Outro & Next Steps
 - line: '[chuckles] Okay. I think that''s all we have time for today. I actually didn''t
     ask like half of the questions I prepared, but maybe next time. Who knows? So
     yeah, thanks a lot. Thanks for joining us today. Thanks for finding time to answer

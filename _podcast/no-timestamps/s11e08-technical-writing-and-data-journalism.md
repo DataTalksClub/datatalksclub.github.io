@@ -16,6 +16,8 @@ short: Technical Writing and Data Journalism
 title: 'Practical Data Journalism: Sourcing, Storytelling, Visualization & Tools (Python,
   Tableau)'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Introduction: Angelica Lo Duca, researcher & professor'
 - line: This week, we'll talk about technical writing and data journalism. We have
     a special guest today, Angelica. Angelica is a researcher at the Institute of
     Informatics and Telematics in Italy. Her research interests include data science,
@@ -29,7 +31,7 @@ transcript:
   sec: 142
   time: '2:22'
   who: Angelica
-- header: Angelica’s background
+- header: 'Career Journey: Cryptography to Web Applications and Data Science'
 - line: Yeah, likewise, Thanks for accepting the invite to be here. I also want to
     mention that the questions for today's interview are prepared by Johanna Bayer.
     Thanks, Johanna, for preparing the questions. Angelica, before we go into our
@@ -59,6 +61,7 @@ transcript:
   sec: 172
   time: '2:52'
   who: Angelica
+- header: 'Data Engineering Research Interests: security and data integrity'
 - line: Just curious, what are you researching now in data engineering? To me, it
     looks like engineering topics are more practical. It's more about know-how and
     less about research. But maybe I'm a bit far from that. So I'm really curious
@@ -83,7 +86,7 @@ transcript:
   sec: 356
   time: '5:56'
   who: Angelica
-- header: Angelica’s books
+- header: 'Writing Portfolio: novels, technical articles, and Comet for Data Science'
 - line: That's quite a good way to learn something. [chuckles] [Angelica agrees] You
     already have a few books, right? So you have at least one that I know of, which
     is Comet for Data Science [Angelica agrees] Have you written any other books?
@@ -101,6 +104,7 @@ transcript:
   sec: 401
   time: '6:41'
   who: Alexey
+- header: 'Query Engines: Presto, Trino, and real-world migrations'
 - line: No, no, no. The original name was Presto and then they forked into two different
     databases, which are Presto and Trino. Now there are two different projects supported
     by two different foundations.
@@ -126,13 +130,14 @@ transcript:
   sec: 459
   time: '7:39'
   who: Angelica
-- header: Data journalism
+- header: 'Defining Data Journalism: data-driven news vs. storytelling'
 - line: One of the topics that I wanted to talk to you about is data journalism. This
     is one of your research interests. You're also a professor at the University of
     Pisa, when you teach this. [Angelica agrees] So what is data journalism?
   sec: 463
   time: '7:43'
   who: Alexey
+- header: 'Data Journalism vs Data Science: accuracy, methods, and scope'
 - line: Yes, data journalism is data-driven journalism in the sense that, similar
     to any data science project, it collects, analyzes, filters data, to create interesting
     stories. Data journalism is slightly different from data storytelling or data
@@ -169,6 +174,7 @@ transcript:
   sec: 656
   time: '10:56'
   who: Alexey
+- header: 'Investigative Examples: Washington Post and international projects'
 - line: No, they’re not. In general, I tell my students to build data journalism stories
     but in practice, I don't write my data journalism stories. I help my students
     to build their stories, to collect the data. There are many websites. For example,
@@ -219,6 +225,7 @@ transcript:
   sec: 874
   time: '14:34'
   who: Alexey
+- header: 'Data Sourcing Challenges: finding small, accurate datasets on the web'
 - line: Yes, I think that the challenging aspect in data journalism is to search for
     data. Because data is hidden on the web, and data journalists must discover it.
     Instead, for example, in data science, so you already have data – your company
@@ -229,7 +236,7 @@ transcript:
   sec: 911
   time: '15:11'
   who: Angelica
-- header: How Angelica got into data journalism
+- header: 'Teaching Shift: how Angelica started teaching data journalism'
 - line: How did you get into data journalism? Is it something that you started your
     career with? Or is this something that accidentally happened to you? I think you
     mentioned that you actually researched cryptography, right? [Angelica agrees]
@@ -272,7 +279,6 @@ transcript:
   sec: 1034
   time: '17:14'
   who: Angelica
-- header: The field of digital humanities and Angelica’s data journalism course
 - line: Who are the students? What kind of students is this course for? Is it for
     technical students – for students who study computer science and want to learn
     more about journalism? Or is it for those who are studying less technical topics
@@ -280,6 +286,7 @@ transcript:
   sec: 1113
   time: '18:33'
   who: Alexey
+- header: 'Course Audience: digital humanities students and interdisciplinary skills'
 - line: They are in a particular area, because they are humanists with a background
     in computer science. They study digital humanities and have knowledge both of
     the humanities and computer science. It's a new course, which is not everywhere
@@ -305,6 +312,7 @@ transcript:
   sec: 1190
   time: '19:50'
   who: Alexey
+- header: 'Tool Choices: Python scripting vs. Tableau for data journalism'
 - line: Yes. There are two options. You may not know anything about programming languages
     – you may be able to use tools like Tableau. In this case, if you don't use anything,
     it's okay. Or, if you have a technical background, usually the most popular programming
@@ -323,6 +331,7 @@ transcript:
   sec: 1277
   time: '21:17'
   who: Angelica
+- header: 'Learning Resources: Coursera and recommended readings'
 - line: Do you know any other courses that are in English that are open? Let's say
     if I want to go and learn more about data journalism, do you know any open courses
     that I can check out?
@@ -339,7 +348,6 @@ transcript:
   sec: 1297
   time: '21:37'
   who: Angelica
-- header: Technical articles vs data journalism articles
 - line: But as I understood, the audience that you write for in data journalism is
     the general public. Let's say you write an article for The Washington Post. The
     readers for this article are just ordinary people, right? They don't have to have
@@ -373,6 +381,7 @@ transcript:
   sec: 1472
   time: '24:32'
   who: Angelica
+- header: 'Defining Technical Writing: how-to guides, clarity, and audience focus'
 - line: You're quite a prolific writer. The articles you wrote that I know about,
     they are technical articles. It's technical writing, which I guess is quite different
     from the articles we've been talking about so far – data journalism. Would you
@@ -435,7 +444,6 @@ transcript:
   sec: 1712
   time: '28:32'
   who: Alexey
-- header: Transforming reports into data storytelling
 - line: Yes, for example – the general overview. But it's different from a research
     article where you have to explain the details about concepts. Another thing, I
     think that the main difference between research articles and technical articles,
@@ -444,6 +452,7 @@ transcript:
   sec: 1714
   time: '28:34'
   who: Angelica
+- header: 'From Reports to Stories: converting survey PDFs into narratives'
 - line: Maybe, you know that there are companies like StackOverflow that run surveys.
     Every year, they ask people (members of StackOverflow) about their interests,
     about the tools they use, about the tools they want to use, tools they want to
@@ -487,6 +496,7 @@ transcript:
   sec: 1893
   time: '31:33'
   who: Alexey
+- header: 'Adding Context & Wisdom: framing data with meaning and calls to action'
 - line: Yes. In addition to that, to transform a report into a data journalism story,
     for example, you can add context to your data. For example, in the case of programming
     languages, you can group data by the year – the age of the people that are answering
@@ -527,7 +537,6 @@ transcript:
   sec: 2090
   time: '34:50'
   who: Angelica
-- header: Are reports to stakeholders considered technical writing?
 - line: I see a comment in the live chat from Adonis. “So reports to your stakeholders
     can be classified as technical writing too?” Angelica, what do you think about
     this? Is it an accurate observation?
@@ -544,7 +553,7 @@ transcript:
   sec: 2126
   time: '35:26'
   who: Angelica
-- header: Data visualization in articles
+- header: 'Visualization Guidelines: one concept per chart; tables when clearer'
 - line: We have a question. “How do you make sure that an article that you're writing
     has the right amount of data visualization? Not too much, not too little – just
     the right amount.”
@@ -572,6 +581,7 @@ transcript:
   sec: 2299
   time: '38:19'
   who: Alexey
+- header: 'Visualization Pitfalls: why to avoid pie charts and confusing graphics'
 - line: I fight pie charts with all my heart, because I think that when it comes to
     pie charts – if there are many, many slices in the pie chart, you don't understand
     anything. If there are only two slices in your pie chart, it gives you the Pac
@@ -581,7 +591,7 @@ transcript:
   sec: 2306
   time: '38:26'
   who: Angelica
-- header: Article length
+- header: 'Article Length & Formats: short Medium posts and the Syntax Error publication'
 - line: You mentioned an interesting thing – a purpose for an article should be to
     convey a single message and all the visualizations you use (all the charts) should
     support this single message. Since you wrote so many different articles (170)
@@ -604,7 +614,7 @@ transcript:
   sec: 2440
   time: '40:40'
   who: Alexey
-- header: The process of writing an article
+- header: 'Article Workflow: problem → solution → result, with code repos'
 - line: Can you walk us through the process of creating an article? You said that
     your articles are usually five, six minutes long – so they're super-focused on
     conveying a single message. Correct me if I'm mistaken – this is what you start
@@ -648,7 +658,7 @@ transcript:
   sec: 2591
   time: '43:11'
   who: Angelica
-- header: Finding writing topics
+- header: 'Topic Sourcing: personal problems, social media, and community signals'
 - line: How do you find topics? You said that you usually focus on a specific problem,
     and then show how to solve this specific problem. Where do you find these problems?
     Is it something where, let's say, you are working on a particular thing and then
@@ -675,7 +685,7 @@ transcript:
   sec: 2643
   time: '44:03'
   who: Angelica
-- header: How Angelica got into writing a book (communication with publishers)
+- header: 'Path to a Book: publisher outreach and acquisition editor contact'
 - line: These articles that you write – they're very focused, very short, and to the
     point. And then you also wrote a book. A book is not a five-minute read – it's
     something more comprehensive. I have a lot of questions about the book, but maybe
@@ -747,7 +757,7 @@ transcript:
   sec: 2981
   time: '49:41'
   who: Angelica
-- header: The process for writing a book
+- header: 'Book Contract & Schedule: chapter timelines, pacing, and holidays'
 - line: It's not an easy process. I know that because I’ve also written a couple of
     books. I'm curious, how did it actually happen? What was the process from the
     moment you got contacted by an acquisition editor, to the point when it was actually
@@ -814,6 +824,7 @@ transcript:
   sec: 3212
   time: '53:32'
   who: Alexey
+- header: 'Market Research & Audience: proposal, state-of-the-art, and level targeting'
 - line: Firstly, you need to download the publisher’s template and you have to fill
     it. But the main question you have to ask (and you have to tell the truth when
     answering this question) “Do I know the topic?” Because if you don't know the
@@ -864,7 +875,6 @@ transcript:
   sec: 3396
   time: '56:36'
   who: Alexey
-- header: Brainstorming
 - line: Okay, sorry. You have to think about the audience and then I think you can
     start writing on paper everything about this topic. Everything that comes to your
     mind – it’s the brainstorming phase, where do you decide what to include and what
@@ -908,7 +918,7 @@ transcript:
   sec: 3547
   time: '59:07'
   who: Angelica
-- header: Reviews and revisions
+- header: 'Editing & Reviews: reviewer feedback, overlapping revisions, and organization'
 - line: So then there is a proposal, which is hopefully accepted by the publisher.
     Then you sign the contract, where you should watch out for the things you described
     – make sure it's manageable and that you have time to actually enjoy life, and
@@ -939,7 +949,7 @@ transcript:
   sec: 3661
   time: '1:01:01'
   who: Angelica
-- header: Conclusion
+- header: 'Episode Wrap-Up: final questions and closing remarks'
 - line: I just noticed that actually, we’ve run out of time. This is a very exciting
     topic and time flies.
   sec: 3743

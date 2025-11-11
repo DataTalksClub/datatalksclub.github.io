@@ -37,7 +37,8 @@ topics:
 - data science
 - career growth
 transcript:
-- header: 'Career Change: Film, Coffee Roasting, Seeking Tech Stability'
+- header: Podcast Introduction
+- header: 'Career Origin: From Film & Coffee Roasting to Tech'
 - line: This week, we'll talk about career changing. We have a special guest today,
     Jessica. As you might have guessed from the title, Jessica was roasting coffee
     working as a barista at some point, but then she decided to learn Python and eventually,
@@ -59,13 +60,13 @@ transcript:
   sec: 125
   time: '2:05'
   who: Jessica
-- header: PyLadies Community; Speaking at Tech Conferences as Barista
 - line: Yeah, thanks. And thanks for taking that course. Let's start with your background.
     I already told everyone who is listening to this that you have quite an interesting
     career. Can you maybe tell us about your career journey so far?
   sec: 144
   time: '2:24'
   who: Alexey
+- header: Community Support & Early Conference Exposure (PyLadies, meetups)
 - line: Yes, and I saw you said keep it brief, so I will try to stick to that. [laughs]
     Because it's a little bit of a non-traditional background. This is actually my
     third career. I studied and first worked in the film industry. But at some point,
@@ -129,7 +130,7 @@ transcript:
   sec: 361
   time: '6:01'
   who: Alexey
-- header: 'Transition Strategy: Code Academy; German Government Financial Support'
+- header: 'Learning Path: Codecademy, Andrew Ng Course & FreeCodeCamp'
 - line: I think the first thing I did – which a lot of folks that I've spoken to did
     something similar – I went online and I searched for [chuckles] “What is programming?
     What courses can I do?” At the time, the big platform was Code Academy and I did
@@ -174,7 +175,7 @@ transcript:
   sec: 495
   time: '8:15'
   who: Alexey
-- header: 'Tool: Bildungsgutschein; Andrew Ng Course; Free Code Camp'
+- header: 'Funding Support: German Bildungsgutschein & Structured Study Time'
 - line: Yeah, so they offer something called Bildungsgutschein in Germany, which means
     “a voucher for further education”. Now, in the last couple of years, it's very
     popular that the boot camps kind of keyed into this and you can use this towards
@@ -233,7 +234,7 @@ transcript:
   sec: 620
   time: '10:20'
   who: Jessica
-- header: 'Program: Rails Girls Summer of Code for Open Source Experience'
+- header: 'Open Source Fellowship: Rails Girls Summer of Code & Pair Programming'
 - line: Was I correct when I said that you picked Python? You studied Python in Codecademy?
     So you were learning Python, you were learning math, and you are also taking the
     Andre Ng class. You were sitting somewhere in a room with a computer and WiFi,
@@ -292,6 +293,7 @@ transcript:
   sec: 900
   time: '15:00'
   who: Alexey
+- header: 'Meetups to Internship: Networking That Led to Ecosia'
 - line: Yeah. Arti and I did that at the same time. But what was amazing is that she
     actually got her first programming job, just before we took on the internship.
     If she had dropped out, I couldn't have done it. But she kept going so that we
@@ -303,7 +305,6 @@ transcript:
   sec: 923
   time: '15:23'
   who: Jessica
-- header: 'Landing First Tech Job: Internship Creation; Learning Willingness'
 - line: There is a question that I see, "How did you get your first job in the industry?"
     I think you just answered that. I don't know if an internship counts as the first
     job or not, but I think the experience is pretty much real industry experience.
@@ -312,6 +313,7 @@ transcript:
   sec: 973
   time: '16:13'
   who: Alexey
+- header: 'Interview Impressions: Inquisitiveness & Creating an Internship Role'
 - line: I didn't actually apply as an intern. I applied for a mid-level backend position,
     which I was not qualified for. [chuckles] And they decided to create the internship
     position for me.
@@ -376,7 +378,7 @@ transcript:
   sec: 1154
   time: '19:14'
   who: Jessica
-- header: Career Switching Age Concerns; Avoiding Self-Doubt and Stress
+- header: 'Career Switch Timing: Age, Concerns & Perceptions'
 - line: There is a follow up question from the same person, "At what age?" But before
     you answer, you don't have to answer that, of course. But maybe – does it even
     matter at what age you do this? You said you changed your career three times,
@@ -426,13 +428,13 @@ transcript:
   sec: 1321
   time: '22:01'
   who: Jessica
-- header: Community, Meetups, & Mastermind Groups for Motivation
 - line: There's a question from Nelson and I think this is also similar to a question
     that I prepared. "What are some of the challenges that you faced during the beginning
     of your career?" What was the most challenging thing for you? Or things?
   sec: 1329
   time: '22:09'
   who: Alexey
+- header: 'Staying Motivated: Community, Mastermind Groups & Meetups'
 - line: Convincing myself that this was a good decision and to keep going and to not
     be stressed out as much. Of course, I now wish I could look back at myself and
     be like, “Hey, don't worry. Chill. It’s gonna work out. You can enjoy some of
@@ -484,7 +486,6 @@ transcript:
   sec: 1498
   time: '24:58'
   who: Jessica
-- header: 'PyLadies Organizing: Soft Skills & Community Support Focus'
 - line: Did you also do this with PyLadies? You mentioned that you can learn for free
     and you can get some pizza. Is it something that PyLadies also does, like these
     community learning events? Or is it more like a meetup where you just attend and
@@ -492,6 +493,7 @@ transcript:
   sec: 1532
   time: '25:32'
   who: Alexey
+- header: 'Community Organizing: Event Management, Soft Skills & Leadership'
 - line: Maybe a good segue is talking about the role that I'm playing with PyLadies.
     Very early on, they were asking at PyLadies for folks to help with organizing.
     Of course, I was like, “Well, I've literally just learned two lines of Python.
@@ -519,7 +521,7 @@ transcript:
   sec: 1550
   time: '25:50'
   who: Jessica
-- header: Imposter Syndrome; Jupyter Notebook Setup Challenges
+- header: 'Overcoming Imposter Syndrome: Jupyter Notebook Setup & Peer Support'
 - line: How do you fight your imposter syndrome? You said that you just learned your
     first two lines of Python code, so I don't think you felt like you were qualified
     to run a Python group. You said that, at the end, you realized that it doesn't
@@ -560,7 +562,6 @@ transcript:
   sec: 1794
   time: '29:54'
   who: Jessica
-- header: Learning the Terminal; Dual-Booting Linux (Learning by Necessity)
 - line: Yeah, I remember it was not easy for me as well. I was coming from the Java
     world to Python and I had a Windows computer as well, back then. It wasn't super
     easy. Now it's easier with Anaconda, but a while ago – maybe you've been doing
@@ -600,6 +601,7 @@ transcript:
   sec: 1929
   time: '32:09'
   who: Alexey
+- header: 'System Skills: Terminal, Dual‑Boot Linux & Hands‑on Troubleshooting'
 - line: Yeah, I did some courses on this, for sure. I think the only thing with doing
     it in a browser-based tool is you're not actually on your machine. I remember
     during the Rails Girls Summer of Code, I wanted to dual-loop my machine into Linux,
@@ -643,7 +645,7 @@ transcript:
   sec: 2035
   time: '33:55'
   who: Jessica
-- header: 'PyLadies Events: Workshops, Open Source Hacks, Remote CFPs'
+- header: 'Community Events: Workshops, Study Groups & Remote Formats'
 - line: Coming back to PyLadies – what kind of events do you actually organize? I
     know one, which is a physical meetup – there are speakers, you watch the talk,
     you attend the talks, and then there is some networking before and after. Is this
@@ -679,6 +681,7 @@ transcript:
   sec: 2169
   time: '36:09'
   who: Alexey
+- header: 'Open Source Hack Evenings: Mentorship with scikit‑learn & Gene.ai'
 - line: Yeah [chuckles]. Well, actually, we ran one in January and I think we had
     at least three folks from that event then go on to speak at PyCon.de, which is
     really awesome. Right now, we're trying to experiment a lot more with being much
@@ -711,7 +714,7 @@ transcript:
   sec: 2267
   time: '37:47'
   who: Alexey
-- header: Benefits of Community Organizing; Building Management Skills
+- header: 'Hybrid Events & Outreach: Remote Reach vs. In‑Person Help'
 - line: I mean, yeah, that's true. [cross-talk] It's interesting. I think there's
     different overhead with online. But what we would love to do is hybrid. We found
     being remote allowed us to reach more people, because we could also do collaborations
@@ -760,6 +763,7 @@ transcript:
   sec: 2443
   time: '40:43'
   who: Alexey
+- header: 'Organizing Benefits: Networking, Company Access & Management Skills'
 - line: Yeah. [laughs] I am that kind of person, so yes. But, you know, I think there
     are a lot of benefits to being involved in organizing, as I mentioned before.
     Not just the networking with other members, but also the element of meeting companies.
@@ -796,7 +800,7 @@ transcript:
   sec: 2558
   time: '42:38'
   who: Jessica
-- header: 'Public Speaking: Starting Small; Gracefully Handling "I Don''t Know"'
+- header: 'Public Speaking: Start Small, Dry Runs & Crafting a Personal Edge'
 - line: Yeah, I imagine. You mentioned public speaking and this is something we indeed
     wanted to talk about. I know that you are quite an active speaker and you mentioned
     that you spoke, or gave a presentation, or was it a lightning talk? It doesn't
@@ -859,6 +863,7 @@ transcript:
   sec: 2779
   time: '46:19'
   who: Alexey
+- header: 'Handling Q&A: Graceful "I Don''t Know" & Turning Questions into Learning'
 - line: I think the fear is “What happens when that person at the end puts their hand
     up and asks me a question that I don't know the answer to, but I've put myself
     in this position of expert?” I've given talks where people put their hand up at
@@ -924,7 +929,7 @@ transcript:
   sec: 2993
   time: '49:53'
   who: Jessica
-- header: 'Speaking Impact & Tips: Dry Runs, Personal Edge, Visibility'
+- header: 'Speaking ROI: Visibility, Networking & Career Opportunities'
 - line: Yeah, so how helpful was public speaking to your career? Did it help you land
     a job or broaden your network?
   sec: 3032
@@ -1033,7 +1038,7 @@ transcript:
   sec: 3329
   time: '55:29'
   who: Jessica
-- header: 'Ecosia Search Engine: Tree Planting Mission; Backend Development (Go)'
+- header: 'Ecosia Overview: Green Search Engine, Tree‑Planting Mission & Backend (Go)'
 - line: I see that we don't have a lot of time left and I really wanted to talk to
     you about the company where you work – Ecosia. I hope I'm pronouncing it correctly.
     I know that you're doing some amazing stuff there. So can you tell us more about
@@ -1074,7 +1079,7 @@ transcript:
   sec: 3351
   time: '55:51'
   who: Jessica
-- header: Discrimination in Tech; Finding Guest Online (Social Media)
+- header: 'Diversity Challenges: Gender, Privilege & Inclusion in Tech'
 - line: Yeah, great. Before we finish, there is one question with three upvotes. Maybe
     we can cover that quickly. The question is, "Did you face any discrimination for
     being a woman in tech? It is said that tech bros can be pretty annoying."
@@ -1103,7 +1108,7 @@ transcript:
   sec: 3510
   time: '58:30'
   who: Jessica
-- header: 'Finding Jessica Online: Twitter, GitHub, and PyLadies Slack'
+- header: 'Connect with Jessica: Twitter, GitHub & PyLadies Slack'
 - line: Yeah, thanks. Before we finish, how can people find you? @sleepypioneer on
     Twitter, right? That's the way to find you?
   sec: 3593
@@ -1116,6 +1121,7 @@ transcript:
   sec: 3606
   time: '1:00:06'
   who: Jessica
+- header: Episode Wrap‑Up and Closing Remarks
 - line: Okay, thanks. Thanks a lot for joining us today, for sharing your story, for
     telling us about how you did that. And thanks, everyone, for joining us today
     as well, for asking questions, for being here today. I think that's all for today.

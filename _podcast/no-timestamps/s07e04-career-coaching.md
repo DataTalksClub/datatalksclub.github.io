@@ -35,6 +35,7 @@ links:
   youtube: https://www.youtube.com/watch?v=_U8GrYJvmJM
 season: 7
 transcript:
+- header: Guest Introduction & Career Journey
 - line: This week, we'll talk about career coaching. We have a special guest today,
     Lindsey. Lindsey works at the Spiced Academy in Berlin, where she helps bootcamp
     students get hired. I think your title is Senior Career Coach, right?
@@ -53,7 +54,6 @@ transcript:
   sec: 94
   time: '1:34'
   who: Lindsay
-- header: 'Podcast Start: Career Coaching with Lindsay McQuade'
 - line: Before we go into our main topic of career coaching, let's start with your
     background. Can you tell us about your career journey so far?
   sec: 99
@@ -106,7 +106,7 @@ transcript:
   sec: 106
   time: '1:46'
   who: Lindsay
-- header: Spiced Academy Programs and Defining the Career Coach Role
+- header: Spiced Academy Programs Overview (Full‑Stack & Data Science)
 - line: Interesting. Can you tell us a few words about the school – Spiced Academy?
     What do you do there?
   sec: 302
@@ -124,6 +124,7 @@ transcript:
   sec: 309
   time: '5:09'
   who: Lindsay
+- header: 'Career Coaching Services: CVs, Interview Prep, Negotiation'
 - line: I think this school is quite prolific now. If you take any company in Berlin,
     they probably have a graduate that is working there or they at least know that
     this school exists. So you're doing quite a good job. Thanks for doing that. Before
@@ -186,6 +187,7 @@ transcript:
   sec: 556
   time: '9:16'
   who: Alexey
+- header: Defining Ideal Job Environment & Career Experiments
 - line: Exactly. Yeah. I think so. Reframing it, actually, more than encouraging.
     I think the other thing is just helping people get clear about exactly what job
     they want to do. This might sound strange, because we're at a boot camp where
@@ -213,7 +215,6 @@ transcript:
   sec: 613
   time: '10:13'
   who: Lindsay
-- header: Reframing Past Experience; Defining Ideal Job Environment
 - line: There is a comment from one of your former students, Anna, who says that she
     definitely agrees that making people feel good about themselves is very important
     and you are definitely good at this. I actually have a friend who was a lawyer
@@ -232,6 +233,7 @@ transcript:
   sec: 648
   time: '10:48'
   who: Alexey
+- header: Reframing Past Experience into Recruiter‑Friendly Evidence
 - line: Well, I think the first thing is to have a very honest and open conversation
     about what they think they failed at. So you give them the space to let all of
     this come out and then encourage them to think about what their successes were.
@@ -256,6 +258,7 @@ transcript:
   sec: 773
   time: '12:53'
   who: Alexey
+- header: Identifying Transferable Skills for Data Roles
 - line: Yes. Exactly. Just like you said, a lot of people have worked with data, but
     somehow haven't recognized it. They say, “Oh, but it's not what I'm doing now.”
     No, it's not. But let's work out what you have done. This would be the first thing
@@ -268,7 +271,6 @@ transcript:
   sec: 782
   time: '13:02'
   who: Lindsay
-- header: 'Strategy: Packaging Experience (Data, Skills, Transferable Competencies)'
 - line: Then the third thing would be transferable competencies like problem solving
     and analytical skills. “When have you done this?” A lot of people have done this
     already. Here, it's important to describe it in a way as achievement-based. What
@@ -289,6 +291,7 @@ transcript:
   sec: 883
   time: '14:43'
   who: Alexey
+- header: Achievement‑Based CV Writing vs Responsibility Lists
 - line: Yeah. I'm sure there will have been some very complex analytical things that
     they've had to work out. But we don't need to know the details of this and they
     shouldn’t use law terminology that we don't understand – we just want to extract
@@ -326,6 +329,7 @@ transcript:
   sec: 1009
   time: '16:49'
   who: Alexey
+- header: Coaching Access Model & Typical Student Engagement
 - line: I think the average is maybe four. Yeah.
   sec: 1014
   time: '16:54'
@@ -345,13 +349,13 @@ transcript:
   sec: 1029
   time: '17:09'
   who: Lindsay
-- header: 'The Value of Career Coaches: Belief, Navigation, and Paperwork'
 - line: How important is it, in your opinion, to have career coaches for boot camps?
     Let's say, what would happen if there were no career coaches in the boot camp
     where you're working?
   sec: 1063
   time: '17:43'
   who: Alexey
+- header: 'Career Coach Impact: Belief, Market Navigation, Paperwork'
 - line: Well, we did have this experience once. Last year, actually, I had COVID,
     so I was out for a while – longer than then you would normally be with a standard
     virus. I think the impact would be that some people wouldn't attempt to make the
@@ -386,6 +390,7 @@ transcript:
   sec: 1181
   time: '19:41'
   who: Alexey
+- header: 'Marketplace Ambiguity: Data Scientist vs Analyst vs Engineer'
 - line: Other problems. Yeah, I would think one other problem I see is that sometimes
     people know that they want to work with data, but they don't have a good understanding
     of what all the roles and possibilities are. They don't really understand the
@@ -440,7 +445,7 @@ transcript:
   sec: 1416
   time: '23:36'
   who: Alexey
-- header: Marketplace Ambiguity; The Difficult Problem of Finding Job Focus
+- header: 'Job Focus Importance: Tailoring Applications to Industry'
 - line: I think one problem that I maybe didn't mention yet, which actually is the
     most difficult one – I think getting students oriented around the role. Eventually
     they understand and they know what they want to do. They may also understand how
@@ -467,11 +472,11 @@ transcript:
   sec: 1428
   time: '23:48'
   who: Lindsay
-- header: 'Tool: Ikigai Model for Finding Tailored Career Focus'
 - line: I was going to ask that.
   sec: 1536
   time: '25:36'
   who: Alexey
+- header: Ikigai Framework for Finding Career Focus and Projects
 - line: '[laughs] So what we would do to try to help people is – first of all, it''s
     okay to have a mixed strategy. You can send out some stuff generically. This is
     fine. But the thing that works well is trying to find at least some areas of interest.
@@ -524,6 +529,7 @@ transcript:
   sec: 1700
   time: '28:20'
   who: Alexey
+- header: Junior Job Market Trends in Berlin (Analytics vs Engineering)
 - line: Before I spoke to students last week, I had a look. I was looking at the number
     of junior roles on LinkedIn. I do this periodically. Actually, I did it when I
     first started and the jump in number was huge. I mean, I think for data analyst
@@ -551,7 +557,6 @@ transcript:
   sec: 1774
   time: '29:34'
   who: Lindsay
-- header: 'Job Search Strategy: Balancing Tailored Applications and "Spray & Pray"'
 - line: Let's come back to having focus when looking for a job. How much research
     do you think people should put into learning about companies before they apply?
     Should they just “spray and pray” – just apply everywhere? Or should they do a
@@ -560,6 +565,7 @@ transcript:
   sec: 1813
   time: '30:13'
   who: Alexey
+- header: 'Job Search Strategy: Balanced Tailored Applications & Volume'
 - line: I think there's no right answer and it depends on your situation. If you have
     a background that allows you to “spray and pray,” as you say, it can work. For
     example, say you've worked in consultancy and you want to go back into consultancy
@@ -615,6 +621,7 @@ transcript:
   sec: 1987
   time: '33:07'
   who: Alexey
+- header: 'Finding a Career Coach: Credentials, Specialization, Location'
 - line: If I were him, I would probably go to LinkedIn and I would do a search there.
     Then I would look at the qualifications – have they actually done a qualification
     as a career coach? How many years of experience do they have? Also, quite often
@@ -642,7 +649,7 @@ transcript:
   sec: 2086
   time: '34:46'
   who: Lindsay
-- header: 'Imposter Syndrome: Objective Success vs. Distorted Self-View'
+- header: 'Imposter Syndrome: Origins and Common Triggers'
 - line: There is quite a big topic that I also wanted to talk about, which is when
     people don't believe in themselves. As we talked about, this is one of the reasons
     that people decide not to look for a job – they just don't believe that they are
@@ -686,6 +693,7 @@ transcript:
   sec: 2221
   time: '37:01'
   who: Alexey
+- header: Objective Feedback vs Distorted Self‑Perception
 - line: So imagine this person's got someone to do this offset coding challenge. How
     far are they gonna get with this? Right? I would imagine there's a good chance
     they're gonna get found out at the technical interview stage. But let's imagine
@@ -770,7 +778,7 @@ transcript:
   sec: 2514
   time: '41:54'
   who: Alexey
-- header: 'Coping Strategies: Accepting Failure; Confirmation Bias; External Support'
+- header: 'Coping Strategies: Accepting Failure and Learning Loops'
 - line: No. It's very hidden. So the next step is to think "Okay, what is the trigger?
     What is the thing that happens before I get to those thoughts?” At work, we're
     often given a task. And our tasks are challenging. We're in workplaces – we're
@@ -824,6 +832,7 @@ transcript:
   sec: 2693
   time: '44:53'
   who: Alexey
+- header: 'Resources for Imposter Syndrome: Research, Coaches, Mentors'
 - line: It's the Imposter Phenomenon – When success makes you feel like a fake. It's
     a little bit dated now, because when this was done in the 60s, she talks in here,
     for example, about the fact that more women than men suffer from it – which is
@@ -848,7 +857,6 @@ transcript:
   sec: 2695
   time: '44:55'
   who: Lindsay
-- header: Building Confidence in Transition; Creating Structured Learning Paths
 - line: I'm curious. For example, for me, I've been in this industry for quite a while
     – I have worked as a data scientist for the last six, seven years. For quite some
     time. I learned how to live with this feeling. But I imagine for somebody who
@@ -860,6 +868,7 @@ transcript:
   sec: 2781
   time: '46:21'
   who: Alexey
+- header: 'Building Confidence: Structured Learning Paths & T‑Shaped Skills'
 - line: Yes, you're right. Yeah, what do you do? I would say this – when we're changing
     careers, this is a particularly fragile time for the imposter syndrome. As you
     said, in the workplace it can be even more challenging. Part of the reason for
@@ -929,6 +938,7 @@ transcript:
   sec: 2828
   time: '47:08'
   who: Lindsay
+- header: 'Managing Expectations: Junior Role Requirements & Progression'
 - line: The other thing that I think helps when you're coming off a bootcamp and,
     as you say, you're changing for the first time is getting clear about what is
     the expectation of the role. Because I find that students, of course, they're
@@ -950,7 +960,6 @@ transcript:
   sec: 3070
   time: '51:10'
   who: Lindsay
-- header: Internships vs. Junior Roles; Generating Opportunities via Networking
 - line: Yeah. We have quite a few questions. The first question I see is about internships
     – we have internships and we have junior positions. So do you see your students
     applying for internships or is it only for university students? Is it even advisable
@@ -958,6 +967,7 @@ transcript:
   sec: 3145
   time: '52:25'
   who: Alexey
+- header: Internships vs Junior Roles and Creating Hidden Opportunities
 - line: This is a good question. And it depends on the person. So yes, for sure, there
     are some students who do internships. First of all, the number of internships
     that's available compared to juniors is really small. So the ones that you'll
@@ -999,12 +1009,12 @@ transcript:
   sec: 3274
   time: '54:34'
   who: Alexey
-- header: Advice for Working with Recruiters; Junior Level Strategy
 - line: Another question we have is, "What advice would you give for working with
     recruiters?”
   sec: 3315
   time: '55:15'
   who: Alexey
+- header: 'Working with Recruiters: When They Help Juniors & Seniors'
 - line: So this depends on what level you are. If you're looking for a junior role,
     they wouldn't have junior positions, but they still might be willing to speak
     to you. Because once you get into data, you've kind of got a job for life. At
@@ -1068,7 +1078,6 @@ transcript:
   sec: 3475
   time: '57:55'
   who: Lindsay
-- header: 'LinkedIn Networking Tips: Sending Credible, Informational Notes'
 - line: Yeah, thanks. Maybe the last question, because I see we're almost out of time.
     If you can answer this quickly, because this may be more of a complex question
     that it looks like. So the question is “Can you give some tips for networking
@@ -1076,6 +1085,7 @@ transcript:
   sec: 3492
   time: '58:12'
   who: Alexey
+- header: 'LinkedIn Networking: Credible Informational Outreach'
 - line: Okay, so quickly. If I tried to do it quickly, I would say – send a note that's
     gonna encourage the person to connect to you.
   sec: 3510
@@ -1097,6 +1107,7 @@ transcript:
   sec: 3524
   time: '58:44'
   who: Lindsay
+- header: Episode Wrap‑Up & Final Career Coaching Takeaways
 - line: Okay, yeah. Thanks a lot. Thanks for your time. We should be wrapping up.
     Thanks a lot for sharing all this advice with us. And thanks, everyone, especially
     Michael, who needed to wake up at 6am to watch this. [laughs] I hope it was worth

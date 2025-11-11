@@ -15,8 +15,7 @@ season: 20
 short: Trends in AI Infrastructure
 title: 'Cut AI Infrastructure Costs: DStack for On‑Prem GPU Training & MLOps Alternatives'
 transcript:
-- header: Trends in AI Infrastructure
-- header: 'Andrey''s Career Journey: From JetBrains to DStack'
+- header: Episode Kickoff & Guest Introduction
 - line: This week, we'll talk about AI infrastructure and everything related to it.
     We might touch on trends in AI infrastructure, but we'll see where the conversation
     goes.
@@ -47,6 +46,7 @@ transcript:
   sec: 138
   time: '2:18'
   who: Alexey
+- header: 'Career Background: JetBrains, DataSpell, and Move into AI'
 - line: Sure. I started my professional career as a software engineer, though back
     then, I didn't even consider it a professional career—I just enjoyed coding. I
     even skipped school sometimes to work on coding problems.
@@ -92,12 +92,12 @@ transcript:
   sec: 200
   time: '3:20'
   who: Andrey
-- header: The Motivation Behind DStack
 - line: How did you decide to focus on this technology? What made you choose this
     problem to solve full-time?
   sec: 309
   time: '5:09'
   who: Alexey
+- header: 'Origins of DStack: Reducing AI Infrastructure Cost of Ownership'
 - line: 'That''s a great question. There are a lot of factors, and it''s certainly
     a topic we could discuss at length. But if I were to summarize a few specific
     reasons:'
@@ -136,7 +136,7 @@ transcript:
   sec: 327
   time: '5:27'
   who: Andrey
-- header: Challenges in Machine Learning Infrastructure
+- header: Cloud vs On‑Prem Costs and MLOps Limitations (SageMaker example)
 - line: Yes, there are existing tools for machine learning, like SageMaker, but as
     you mentioned, cost becomes a major issue.
   sec: 505
@@ -163,7 +163,7 @@ transcript:
   sec: 537
   time: '8:57'
   who: Alexey
-- header: Transitioning from Cloud to On-Prem Solutions
+- header: Cloud-to-On‑Prem Realities in the Post‑ChatGPT Era
 - line: Yes, and while many of these challenges are still relevant today, there are
     even bigger challenges ahead. The "ChatGPT moment" has introduced new issues,
     which makes AI infrastructure an even more important topic today.
@@ -216,13 +216,13 @@ transcript:
   sec: 773
   time: '12:53'
   who: Andrey
+- header: 'Choosing Open Source: Developer Tools, Feedback, and Community'
 - line: Speaking of open-source, why did you decide to work in the open? I see many
     companies starting as closed-source but eventually moving to open-source. Why
     did you choose to follow this model and make all your code open from the beginning?
   sec: 778
   time: '12:58'
   who: Alexey
-- header: Reflections on OpenAI's Evolution
 - line: I think it’s a clear pattern. Many developer tools are open-source, and while
     we don’t always know the exact reasons, there’s a pattern to it. Of course, companies
     have commercial interests, and not many are fully nonprofit. OpenAI, for example,
@@ -245,7 +245,7 @@ transcript:
   sec: 809
   time: '13:29'
   who: Andrey
-- header: 'Open Source vs Proprietary Models: A Balanced Perspective'
+- header: 'Open vs Proprietary Models: Business Models and Trade‑Offs'
 - line: I don’t know the full story behind OpenAI either, but I think they initially
     released many things as open-source. GPT-2 was open-source, and they also released
     Whisper and CLIP. But when they released GPT-3, they realized it was a gold mine.
@@ -279,11 +279,11 @@ transcript:
   sec: 1243
   time: '20:43'
   who: Andrey
-- header: Monolithic vs. Decentralized AI businesses
 - line: Right, so GPT is much more than just a model.
   sec: 1294
   time: '21:34'
   who: Alexey
+- header: 'Decentralization in AI: Privacy, Control, and Industry Fit'
 - line: Yes, it’s more than just the model. It’s like a new version of Google. Google
     changed our lives because we can search for anything. Now, GPT is changing how
     we work, not just how we search. It’s a disruptive change.
@@ -381,7 +381,7 @@ transcript:
   sec: 1784
   time: '29:44'
   who: Andrey
-- header: 'Challenges in training large AI models: GPUs and distributed systems'
+- header: 'Training at Scale: GPU Requirements and Distributed Challenges'
 - line: Since we’re talking about AI infrastructure, let’s focus on that. To train
     a model, we need thousands of GPUs. How do we get them in the first place? How
     do we coordinate this? These are all questions we need to consider when starting
@@ -442,6 +442,7 @@ transcript:
   sec: 2053
   time: '34:13'
   who: Alexey
+- header: 'Distributed Training Stack: PyTorch, NCCL, and Communication Bottlenecks'
 - line: Yes, but like any complex problem, it can be split into smaller tasks and
     solved at different levels of abstraction. Generally speaking, there’s PyTorch,
     a framework mostly developed by Meta, designed for training. Distributed training
@@ -475,7 +476,7 @@ transcript:
   sec: 2163
   time: '36:03'
   who: Andrey
-- header: DeepSpeed's efficient training approach vs. brute force methods
+- header: 'Efficiency Over Brute Force: Optimization Strategies and DeepSpeed'
 - line: 'To summarize, there’s a trend in training large language models: earlier,
     it was mostly about using raw computing power, like Meta with its massive number
     of GPUs. They would throw a problem at a fraction of these GPUs, and they’d process
@@ -496,7 +497,7 @@ transcript:
   sec: 2255
   time: '37:35'
   who: Alexey
-- header: 'Challenges for small and medium businesses: hosting and fine-tuning models'
+- header: Fine‑Tuning & Serving Models for Non–AI‑First Companies
 - line: Correct, although I’d be cautious about labeling companies as small or medium.
     I think it’s more about whether a company is AI-first or not. Once you figure
     that out, everything becomes much clearer. If a company is AI-first, they’re likely
@@ -563,7 +564,7 @@ transcript:
   sec: 2788
   time: '46:28'
   who: Alexey
-- header: Managing Kubernetes challenges for AI teams
+- header: 'Orchestration Gaps: Kubernetes Limitations for AI Workflows and SLURM'
 - line: 'Yes, exactly. This is one of the topics that requires more discussion. But
     at a high level, we’re focused on teams that are constrained by Kubernetes or
     other orchestration tools. Many teams experience specific pain points when working
@@ -588,6 +589,7 @@ transcript:
   sec: 2868
   time: '47:48'
   who: Andrey
+- header: Kubernetes as the Deployment Standard vs Smaller Alternatives
 - line: As a software engineer, should I stay away from Kubernetes, or is it still
     a good tool to have in my toolkit?
   sec: 3059
@@ -612,12 +614,12 @@ transcript:
   sec: 3106
   time: '51:46'
   who: Andrey
+- header: 'Hybrid Infrastructure Outlook: Cloud Dominance and On‑Prem Nuances'
 - line: 'Here''s a question: Do you think the future will be a hybrid of bare metal
     and cloud, or will it be cloud-only?'
   sec: 3116
   time: '51:56'
   who: Alexey
-- header: Hybrid vs. cloud-only infrastructure
 - line: Predicting the future is not easy, and some people enjoy making these predictions.
   sec: 3126
   time: '52:06'
@@ -655,6 +657,7 @@ transcript:
   sec: 3268
   time: '54:28'
   who: Andrey
+- header: 'On‑Prem GPU Coordination: SSH, Resource Contention, and Real Examples'
 - line: When I think about on-prem, particularly for data teams, data science teams,
     and ML teams, I recall my first company in Germany. We had a machine with GPUs,
     and everyone had access to it. We would SSH into the machine, but then we had
@@ -680,7 +683,6 @@ transcript:
   sec: 3352
   time: '55:52'
   who: Alexey
-- header: On-premise vs. bare-metal solutions
 - line: Yes, that’s one way to look at it.
   sec: 3406
   time: '56:46'
@@ -689,6 +691,7 @@ transcript:
   sec: 3411
   time: '56:51'
   who: Alexey
+- header: 'Bare‑Metal as a Service: Provisioning, Automation, and Firmware Management'
 - line: Yes, bare metal as a service is another option. Some companies offer bare
     metal as a service, where they handle the provisioning and firmware updates for
     you. But if you want to run a service yourself across multiple bare metal providers,
@@ -706,11 +709,11 @@ transcript:
   sec: 3473
   time: '57:53'
   who: Andrey
-- header: Exploring edge computing and its challenges
 - line: We have time for another 5-10 minutes.
   sec: 3484
   time: '58:04'
   who: Alexey
+- header: 'Edge Computing Scope: Devices, Local Models, and Definition Ambiguity'
 - line: 'One last topic: edge computing and how it differs from cloud computing.'
   sec: 3487
   time: '58:07'
@@ -751,6 +754,7 @@ transcript:
   sec: 3604
   time: '1:00:04'
   who: Andrey
+- header: 'Federated Learning vs Distributed Compute: Practicality and Use Cases'
 - line: I think there are companies doing federated learning, right? For example,
     if there's a customer-facing device like a drone or a probe, you can't send all
     the data somewhere for training. Instead, the training happens on the device,
@@ -780,6 +784,7 @@ transcript:
   sec: 3762
   time: '1:02:42'
   who: Andrey
+- header: 'Closing Pick: Science‑Fiction Recommendation — The Three‑Body Problem'
 - line: So, last question for you. You mentioned you like science fiction. What’s
     your favorite book?
   sec: 3771
@@ -832,6 +837,7 @@ transcript:
   sec: 3920
   time: '1:05:20'
   who: Andrey
+- header: Episode Wrap‑Up & Links to DStack and Guest Resources
 - line: Sounds interesting! Thanks a lot, Andrey. We only touched on a fraction of
     the topics we wanted to discuss today, which is no surprise, given how much we
     wanted to cover. But it was great talking with you. Thanks for accepting the invite,

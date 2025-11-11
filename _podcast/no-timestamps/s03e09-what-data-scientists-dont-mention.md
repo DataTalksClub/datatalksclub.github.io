@@ -15,6 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3KR6zErxqeDuQ2jo8NDvNx
   apple: https://podcasts.apple.com/us/podcast/what-data-scientists-dont-mention-in-their-linkedin/id1541710331?i=1000524260842
 transcript:
+- header: Episode Introduction
+- header: 'Episode Theme: Failures and LinkedIn Omissions'
 - line: This week we will talk about failures and things in our CVs that we typically
     don’t talk about. We have a special guest today, Yury. Yury is currently working
     as a senior machine learning scientist at Elsevier. His main focus at work is
@@ -27,6 +29,7 @@ transcript:
   sec: 90
   time: '1:30'
   who: Alexey
+- header: 'Guest Opening: Background Snapshot'
 - line: Hi, Alexey. It’s very cheerful here in The Hague. I am pretty happy to join
     you this Friday afternoon. I’m always fond of talking about career and all this
     stuff. I’m happy to share this experience. Although the topic is a bit controversial,
@@ -35,7 +38,7 @@ transcript:
   sec: 152
   time: '2:32'
   who: Yury
-- header: Yury’s background
+- header: 'Career Journey: Aviation, Academia, and Transition to NLP'
 - line: We’ll start with your background. Can you tell us about your career journey
     so far?
   sec: 185
@@ -52,6 +55,7 @@ transcript:
   sec: 193
   time: '3:13'
   who: Yury
+- header: 'CV Choices: Omitting Hobbies and Personal Details'
 - line: Then I joined Russian IT giant, Mail.Ru Group, as a data scientist. I always
     searched for better work-life balance. That’s why we moved to the Netherlands
     through a Telco operator. After that I joined Elsevier. It’s a good place to combine
@@ -85,7 +89,7 @@ transcript:
   sec: 327
   time: '5:27'
   who: Yury
-- header: 'Failing fast: Grammarly for science'
+- header: 'Project Failures Overview: Common Data Science Pitfalls'
 - line: The topic today is “things we don’t share in our CVs”. We all have stories
     about failed projects. I have a couple and maybe I will even tell one or two during
     today. But since you are the guest today, I will probably first ask you for a
@@ -96,6 +100,7 @@ transcript:
   sec: 335
   time: '5:35'
   who: Alexey
+- header: 'Case Study — Proofreading AI: BERT Regression and Early Termination'
 - line: One of the recent stories is a side project for a proofreading service. If
     you want to improve English in your paper, you can order this service. It’s pretty
     expensive. The project was to automatically assess the language quality in a document.
@@ -144,6 +149,7 @@ transcript:
   sec: 642
   time: '10:42'
   who: Alexey
+- header: 'Stakeholder Communication: Making the Call to Stop a Project'
 - line: Exactly. That was a hard decision because it was my first months in the company.
     Nobody knows me and I show up and say “Hey guys, we need to close this project,
     it leads nowhere”. I had to think this presentation through. I spent the whole
@@ -151,13 +157,14 @@ transcript:
   sec: 666
   time: '11:06'
   who: Yury
-- header: 'Not failing fast: Keyword recommender'
+- header: 'Product Management Gap: Value of a Data Product Manager'
 - line: We have a comment from Pierre. Pierre is saying that that’s why having a data
     product manager is so important. They can say “this is not useful for us, we shouldn’t
     spend time doing this”.
   sec: 691
   time: '11:31'
   who: Alexey
+- header: 'Customer Development: Rapid Validation vs Building ML First'
 - line: I mentioned I also have a similar story. Back then we didn’t have a data product
     manager. If we had, maybe it would’ve worked out differently. I worked at a SEO
     company. SEO stands for “search engine optimization”. In SEO, you have a website,
@@ -213,7 +220,6 @@ transcript:
     spent only a couple of days doing this manual work. But it saved us months of
     work.
   who: Alexey
-- header: Four steps to epiphany
 - line: 'I’m currently reading a book called “Four Steps to Epiphany”. It’s on startups
     and their business models. They describe exactly this problem: you think customers
     want something, but they don’t. Some startups cherish this product development
@@ -233,7 +239,7 @@ transcript:
   sec: 1060
   time: '17:40'
   who: Alexey
-- header: Lesson learned when bringing XGBoost into production
+- header: 'Engineering vs Research: Deployment and Serving Constraints'
 - line: One of the things I mentioned in my story was about the engineering part.
     This is what we, data scientists, don’t like. We like doing Kaggle, trying different
     models, tuning parameters, and coming up with smart features. This is fun, right?
@@ -242,6 +248,7 @@ transcript:
   sec: 1080
   time: '18:00'
   who: Alexey
+- header: 'Production Lesson: Gradient Boosting vs CTR Heuristic Baseline'
 - line: I watched the talk you gave a couple of years ago. You worked in some advertising
     company and you had some issues with the serving layer. Maybe you can talk about
     this story? Can you tell us in more detail what happened there?
@@ -252,6 +259,7 @@ transcript:
   sec: 1144
   time: '19:04'
   who: Yury
+- header: 'Performance Fix: Re-ranking Scope Reduction to Meet Latency'
 - line: When I switched from my PhD studies, I joined the Mail.Ru Group. For search,
     everyone uses Google. But in Russia we have a great Google competitor, Yandex.
     Mail.Ru is the greatest Yandex competitor, they also have a search system. Due
@@ -322,7 +330,7 @@ transcript:
   sec: 1525
   time: '25:25'
   who: Alexey
-- header: When data scientists try to be engineers
+- header: 'DevOps Anti-patterns: SSH Deploys, No CI/CD and Technical Debt'
 - line: These things are not easy for data scientists. Even though I previously worked
     as a Java developer, it was difficult for me as well. The way I was doing things
     was far from best practices. I would SSH to the “production” server and I’d do
@@ -335,6 +343,7 @@ transcript:
   sec: 1556
   time: '25:56'
   who: Alexey
+- header: 'From Notebooks to Production: BI, LTV Predictions, and MLOps Needs'
 - line: At some point I left the company and somebody unfortunately needed to deal
     with all this mess. I heard many complaints. Eventually real engineers took it
     over and re-did everything with proper techniques like CI/CD. I have lunches with
@@ -374,7 +383,7 @@ transcript:
   sec: 1835
   time: '30:35'
   who: Alexey
-- header: 'Joining a fintech startup: Doing NLP with thousands of GPUs'
+- header: 'Startup Anecdote: GPU Overstock, Bitcoin, and Sentiment Analysis'
 - line: At the same time, I joined a fintech startup. One of the huge advantages of
     companies like Google, Facebook, LinkedIn, Uber is the network. In Russia these
     companies are Yandex and Mail.Ru and maybe Sber. There are many smart guys. At
@@ -383,6 +392,7 @@ transcript:
   sec: 1844
   time: '30:44'
   who: Yury
+- header: 'Data Labeling Reality: Cost, Quality, and Mechanical Turk'
 - line: They came up with an idea to sell Bitcoin in a mobile app. Such banks already
     existed in Europe, but in Russia they had to solve many legal issues. Revolut
     actually existed at that point already, it was built by Russians who then moved
@@ -437,6 +447,7 @@ transcript:
   sec: 2085
   time: '34:45'
   who: Yury
+- header: 'Resume Strategy: Omitting Short or Sensitive Startup Stints'
 - line: It’s probably not so easy to get rid of them. That is a lot of GPUs. Do you
     have this startup on your LinkedIn profile?
   sec: 2118
@@ -456,7 +467,7 @@ transcript:
   sec: 2171
   time: '36:11'
   who: Yury
-- header: Working at a Telco company
+- header: 'Telco NLP: Multilingual Complaint Classification & Transfer Learning'
 - line: Then you moved to the Netherlands and worked at a telecom company. Can you
     tell us more about what you did there?
   sec: 2172
@@ -477,6 +488,7 @@ transcript:
   sec: 2181
   time: '36:21'
   who: Yury
+- header: 'Too Much Freedom: Research Time vs Impactful Production Work'
 - line: I worked in a data science department and it was not properly managed. Data
     science for such a company was like a luxurious car. LIke Lamborghini — it’s cool,
     expensive but what if you don’t know how to drive it. It was a challenge for the
@@ -502,7 +514,6 @@ transcript:
     perfect team there. All the guys around me were so nice. The working style was
     so relaxed, especially after Russia. Friday is working from home.
   who: Yury
-- header: Having too much freedom
 - line: You were looking for work-life balance, right?
   sec: 2394
   time: '39:54'
@@ -515,6 +526,7 @@ transcript:
   sec: 2396
   time: '39:56'
   who: Yury
+- header: 'Interview Tip: Ask About Active Revenue-Producing ML in Production'
 - line: Maybe it is a bit philosophical, but if you have too much freedom and you
     are lacking some sense of impact, that’s also not good for your motivation. With
     all these lockdowns, I switched to another company.
@@ -545,12 +557,12 @@ transcript:
   sec: 2488
   time: '41:28'
   who: Alexey
+- header: 'Digital Presence: GitHub, Open Courses, Talks and Hiring Impact'
 - line: In the end, most of these projects were not successful. People would just
     be left alone with a lot of freedom. They would spend some time playing Kaggle.
     But you can only play Kaggle so much. You can do it for 2-3 months, but then you
     start feeling bad about doing this at work.
   who: Alexey
-- header: The importance of digital presence
 - line: We actually have a question from Wahid. It’s not related to our topic today,
     but I’m curious to know your take on that. We already talked about Kaggle — doing
     this at work when your company doesn’t know how to keep you busy. The question
@@ -586,7 +598,7 @@ transcript:
   sec: 2723
   time: '45:23'
   who: Alexey
-- header: Work-life balance
+- header: 'Work-Life Balance Hacks: Focus Time and Side Projects'
 - line: Indeed. There is a very subtle trade-off. I always kept a couple of hours
     per day for any creativity — reading blogs, writing blogs and things like that.
     For me, it’s also a way to avoid burnouts. Honestly, I am not fascinated with
@@ -612,6 +624,7 @@ transcript:
   sec: 2773
   time: '46:13'
   who: Yury
+- header: 'Public Activity ROI: A/B Tests, Talks, and Career Opportunities'
 - line: One more hack — arrange a meeting with yourself every day from 9 am to 1 pm.
     You create a meeting with yourself, and it’s your focus time. Sometimes, of course,
     you have important meetings and you are asked to reschedule. But most of the time
@@ -640,7 +653,7 @@ transcript:
   sec: 2907
   time: '48:27'
   who: Alexey
-- header: Quantifying impact of failing projects on our CVs
+- header: 'Framing Failed Projects on LinkedIn: Honesty and Lessons Learned'
 - line: You mentioned that you should go through your LinkedIn profile, take your
     projects, and try to quantify the impact you had in these projects. But what if
     these projects had a negative impact? You wasted six months of time working on
@@ -660,6 +673,7 @@ transcript:
   sec: 3046
   time: '50:46'
   who: Yury
+- header: 'Business-Travel Boundaries: Perm Trips and Weekend Work Limits'
 - line: But I think it’s worth mentioning a negative experience. You can still sell
     it. The next time I’m in an interview, I’d describe this language quality project
     where I made a decision to close the project while it’s not too late.
@@ -674,7 +688,6 @@ transcript:
     be sure that when you talk with your  next potential employer, you can defend
     this project and you can share the lessons learned from the project.
   who: Yury
-- header: 'Business trips to Perm: don’t work on the weekend'
 - line: We still have some time left. Maybe you have one or two stories you want to
     share.
   sec: 3161
@@ -743,7 +756,7 @@ transcript:
   sec: 3511
   time: '58:31'
   who: Yury
-- header: What doesn’t kill you makes you stronger
+- header: 'Closing Thoughts: Embracing Failures and Building Resilience'
 - line: Maybe somebody will not. It’s time to wrap up. Do you have any last words
     before we finish?
   sec: 3516
@@ -770,6 +783,7 @@ transcript:
   sec: 3616
   time: '1:00:16'
   who: Yury
+- header: 'Contact & Resources: Open Course and Social Links'
 - line: How can people find you?
   sec: 3624
   time: '1:00:24'
@@ -787,6 +801,7 @@ transcript:
   sec: 3635
   time: '1:00:35'
   who: Alexey
+- header: Episode Outro
 - line: My pleasure! Thanks for having me.
   sec: 3687
   time: '1:01:27'

@@ -15,6 +15,8 @@ season: 10
 short: Leading Data Research
 title: Build Data Science Programs, Democratize HPC & Scale Graph Analytics with Arkouda
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Intro: David Bader — NJIT Institute for Data Science, research focus'
 - line: This week, we'll talk about being a professor and leading data research. We
     have a special guest today, David. David is the director of the Institute for
     Data Science at the New Jersey Institute of Technology. He is also a distinguished
@@ -41,7 +43,7 @@ transcript:
   sec: 164
   time: '2:44'
   who: David
-- header: David’s background
+- header: Career Journey & Academic Appointments
 - line: I kind of cut your biography a little bit because it was too long. [chuckles]
     And I apologize, maybe I left out the important part. But your biography is amazing
     and that's one of the reasons we want to have a chat today. Maybe, before we start,
@@ -67,7 +69,7 @@ transcript:
   sec: 226
   time: '3:46'
   who: David
-- header: A day in the life of a professor
+- header: 'Daily Responsibilities: Research, Teaching, and Institute Leadership'
 - line: That's impressive. What do you do as a professor? You already mentioned things
     such as launching a school, or some other things. Is this something professors
     do? What do you usually do?
@@ -91,7 +93,7 @@ transcript:
   sec: 308
   time: '5:08'
   who: David
-- header: David’s current projects
+- header: Active Projects & Industry Partnerships (NSF, Accenture, NVIDIA)
 - line: So as a professor, you do meetings with students, you keep projects running,
     you make sure proposals have been submitted to sponsors, and you interact with
     students. And some of the things, such as making sure projects are running, that
@@ -125,7 +127,7 @@ transcript:
   sec: 401
   time: '6:41'
   who: David
-- header: Starting a school
+- header: 'Launching Academic Units: Starting Departments and Degree Programs'
 - line: This is not something I actually prepared for – it wasn’t in the list of questions
     – but I'm really curious, what does it take to actually start a school? Like,
     to launch a school? Maybe it's a very simplistic picture, but I guess you need
@@ -135,6 +137,7 @@ transcript:
   sec: 510
   time: '8:30'
   who: Alexey
+- header: Designing Data Science Curricula & Regional Workforce Alignment
 - line: That's a great question. Most faculty will join a department at a university
     and the department's been around for anywhere from a couple of years to decades
     or even centuries (in Europe) and that's fine. But twice in my career, I've been
@@ -211,7 +214,7 @@ transcript:
   sec: 733
   time: '12:13'
   who: David
-- header: The different types of professors
+- header: 'Academic Ranks: Assistant, Associate, Full, and Distinguished Professor'
 - line: Also, one of the things in your biography is that you're a distinguished professor.
     I was wondering – what is the difference between just a professor and a distinguished
     professor? Which one is better? Or can you even say that one is better than the
@@ -269,6 +272,7 @@ transcript:
   sec: 959
   time: '15:59'
   who: David
+- header: 'Career Pathways: PhD, Postdoc, and Faculty Entry'
 - line: What does the process look like before the professorship? I assume that it
     all starts with being a PhD student, right? This is like the “entry-level” role
     in academia. Maybe a graduate student, and then a PhD student. Then after a student
@@ -295,6 +299,7 @@ transcript:
   sec: 1088
   time: '18:08'
   who: David
+- header: 'Academic CV vs. Industry Resume: Documentation and Expectations'
 - line: Just curious – I took a look at your CV (I think we talked a bit about that)
     and your CV is 106 pages long. In industry, if you listen to any podcast about
     career and CV recommendations, they will tell you that you should keep your CV
@@ -363,7 +368,6 @@ transcript:
   sec: 1397
   time: '23:17'
   who: David
-- header: David’s recent papers
 - line: Can you tell us about some of your recent papers? I think you mentioned a
     few projects that you do. There was a project about graph analytics, right? I
     assume that this is one of the active projects that you're working on right now.
@@ -371,6 +375,8 @@ transcript:
   sec: 1432
   time: '23:52'
   who: Alexey
+- header: 'Arkouda & ARACHNE: Interactive, Massive-scale Python Analytics and Graph
+    Tools'
 - line: Sure. We're just finishing up a paper right now and it's on a framework that
     we're calling ARACHNE, the Greek word for “spider” and looking at interactive
     graph analytics at scale. There's an open source framework called Arkouda and
@@ -415,7 +421,6 @@ transcript:
   sec: 1450
   time: '24:10'
   who: David
-- header: Similarities and differences between research labs and startups
 - line: What you described sounds like a typical startup. What you said “Productivity
     of Python with...” What was it?
   sec: 1630
@@ -430,6 +435,7 @@ transcript:
   sec: 1644
   time: '27:24'
   who: Alexey
+- header: 'Backend Performance: Chapel, Supercomputing, and Democratizing HPC'
 - line: Right, the research groups are like a startup. That's a great analogy. What
     we want to do is really have an impact. Instead of just publishing papers, we
     also produce code and it's open source on GitHub as well. I should mention that
@@ -460,6 +466,7 @@ transcript:
   sec: 1749
   time: '29:09'
   who: Alexey
+- header: 'Research Lab as Startup: Open Source, Code Release, and Student Output'
 - line: That's right. We're very much like a startup in that we have to acquire funds
     for supporting our research lab and students. And we are also pushing out code.
     But our real deliverable is producing students who are educated and able to contribute
@@ -477,7 +484,7 @@ transcript:
   sec: 1772
   time: '29:32'
   who: David
-- header: Finding (or creating) good datasets
+- header: 'Finding Datasets: Synthetic Data, SNAP, and Industry Collaboration'
 - line: You mentioned that you need to work with datasets that terabytes in size.
     In our community, we have a course about data engineering and sometimes it is
     a problem for us to find a good dataset for a project. Can you recommend some
@@ -517,7 +524,7 @@ transcript:
   sec: 1941
   time: '32:21'
   who: David
-- header: David’s lab
+- header: Lab Composition & Mentorship Model (PhD, MS, undergrads, high school)
 - line: How large is your lab?
   sec: 1958
   time: '32:38'
@@ -597,7 +604,7 @@ transcript:
   sec: 2107
   time: '35:07'
   who: David
-- header: Balancing research and teaching as a professor
+- header: 'Time Allocation: Balancing Teaching Load, Research, and Service'
 - line: You said that you also teach an introductory course to Big Data, right? I'm
     just wondering – how much time do you spend on teaching versus doing research?
   sec: 2139
@@ -622,7 +629,7 @@ transcript:
   sec: 2149
   time: '35:49'
   who: David
-- header: David’s most rewarding research project
+- header: 'Most Rewarding Work: Linear-time Algorithm & Pancake-flipping Variant'
 - line: We have a question from the listeners. The question is, “What is the most
     rewarding research project for you that you have done?”
   sec: 2226
@@ -667,7 +674,7 @@ transcript:
   sec: 2234
   time: '37:14'
   who: David
-- header: David’s most underrated research project
+- header: 'Underappreciated Impact: STINGER and Streaming Graph Analytics'
 - line: I guess when people appreciate and cite your paper, that's good. But sometimes
     it happens that you put a lot of effort into something, you really liked the outcome,
     but people just don’t notice it. Or maybe like one or two researchers cite it
@@ -764,7 +771,7 @@ transcript:
   sec: 2706
   time: '45:06'
   who: David
-- header: David’s virtual data science seminars on YouTube
+- header: Virtual Seminar Series & NJIT Data Science YouTube Channel
 - line: You mentioned that you're doing some seminars and you broadcast them to YouTube.
     How can people find these seminars? And what do you actually talk about there?
     Do you talk about things like we discussed now – like graph analytics and things
@@ -785,7 +792,7 @@ transcript:
   sec: 2758
   time: '45:58'
   who: David
-- header: Teaching at universities without doing research
+- header: 'Teaching-focused Careers: Universities Prioritizing Instruction over Research'
 - line: We will make sure to include links in the description. I remember that I prepared
     a lot of questions for you. One thing I really wanted to ask you about is – I
     like teaching, but if I want to go to university and I want to work at the university,
@@ -824,7 +831,7 @@ transcript:
   sec: 2885
   time: '48:05'
   who: David
-- header: Staying up-to-date in research
+- header: 'Staying Current: Journals, Conferences, and Information Triage'
 - line: But I guess if you join a university just to teach, then what may happen is
     that in five or 10 years what you teach becomes obsolete, right? So you need to
     somehow know what's the cutting edge and that's why you need to do research and
@@ -913,7 +920,7 @@ transcript:
   sec: 3148
   time: '52:28'
   who: David
-- header: David’s favorite conferences
+- header: 'Favorite Conferences: Supercomputing, IPDPS, HPEC'
 - line: You said you prefer to go to your favorite conferences. So what are those?
     I know there is one called SIGGRAPH. Is there such a conference? SIGGRAPH?
   sec: 3232
@@ -939,7 +946,7 @@ transcript:
   sec: 3250
   time: '54:10'
   who: David
-- header: Selecting topics for research
+- header: 'Selecting Research Topics: Domain-driven, Impact-first Approach'
 - line: How do you select topics for research? You read these summary papers and think,
     “Okay, this is actually something I can contribute to.” Or how does it work?
   sec: 3298
@@ -969,6 +976,7 @@ transcript:
   sec: 3307
   time: '55:07'
   who: David
+- header: 'Building Usable Systems: From Research to Real-world Adoption (NASA example)'
 - line: I guess that's the recipe of how to get such a long list of credentials like
     you have, right? Just start with a need, find somebody who’s struggling, find
     out what they’re struggling with and offer them tools, and then work together.
@@ -996,7 +1004,7 @@ transcript:
   sec: 3415
   time: '56:55'
   who: David
-- header: Convincing students to stay in academia and competing with industry
+- header: 'Recruiting Students: PhD vs. Industry and Collaborative Opportunities'
 - line: And maybe the last question. I remember when I was a Master’s student, when
     I almost graduated, my professor called me to his room and said, “Okay, we're
     doing this cool research. How about you join us and work as a PhD student?” I
@@ -1082,7 +1090,7 @@ transcript:
   sec: 3746
   time: '1:02:26'
   who: David
-- header: Finding David online
+- header: 'Contact & Resources: davidbader.net, Arkouda, NJIT Data Science links'
 - line: Okay, makes sense. If anyone has questions and they want to reach out to you
     and ask them, what's the best way to do this?
   sec: 3811
@@ -1102,6 +1110,7 @@ transcript:
   sec: 3835
   time: '1:03:55'
   who: David
+- header: Closing Remarks and Episode Wrap-up
 - line: Maybe by the time we release, it will be 107. No? [chuckles] We’ll see. Okay.
     Thanks for the chat. Thanks, everyone, for joining us today, for asking questions.
     I didn't cover two questions. My apologies for that. But I think we will stop

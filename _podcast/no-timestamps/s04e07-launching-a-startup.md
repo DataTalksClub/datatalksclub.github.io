@@ -15,6 +15,7 @@ links:
   spotify: https://open.spotify.com/episode/2zlqwEOamFD8YVGkf4VsFW
   apple: https://podcasts.apple.com/us/podcast/launching-a-startup-from-idea-to-first-hire-carmine-paolino/id1541710331?i=1000531945076
 transcript:
+- header: Episode Introduction & Guest Overview
 - line: This week, we'll talk about building a startup as a technical person. And
     we have a special guest today, Carmine. Carmine and I are ex-colleagues. Carmine
     worked with me at OLX as a senior data scientist. At some point, he left OLX,
@@ -23,7 +24,7 @@ transcript:
   sec: 106
   time: '1:46'
   who: Alexey
-- header: Carmine’s background
+- header: 'Early Career: Programming, Academia, and Data Science'
 - line: Thank you, Alexey. I'm glad that you could invite me to see you again. Great
     introduction. Just to get to know me a little bit better. I started programming
     when I was a kid at the age of five. I continued this passion my entire life.
@@ -65,7 +66,7 @@ transcript:
   sec: 297
   time: '4:57'
   who: Alexey
-- header: Carmine’s startup FreshFlow
+- header: 'FreshFlow Overview: CTO Role and Ordering System Mission'
 - line: So tell us a bit about your startup. What do you do there?
   sec: 306
   time: '5:06'
@@ -79,6 +80,7 @@ transcript:
   sec: 309
   time: '5:09'
   who: Carmine
+- header: 'Problem Discovery: Supermarket Fresh-Product Challenges & Edeka Pilot'
 - line: Avik, my co-founder, saw a problem when trying to sell to supermarkets another
     computer-vision based solution. He saw that they have a bigger problem, especially
     for fresh products. Fresh products have varying shelf lives. Even the same type
@@ -93,7 +95,8 @@ transcript:
   sec: 346
   time: '5:46'
   who: Carmine
-- header: Doing user research
+- header: 'Customer Discovery: Shadowing Store Teams and Research Methods (The Mom
+    Test)'
 - line: We went there with user research. We learned that at OLX-squared, it was a
     great experience there working with the designers from Koos. We saw that the fresh
     product people go there at 6am in the morning. They have a lot of boxes to move
@@ -140,7 +143,6 @@ transcript:
   sec: 611
   time: '10:11'
   who: Alexey
-- header: Design thinking
 - line: Yeah, we were shadowing them for a couple of days. We went there for a week.
     This is how we work in general. It's called "design thinking". From my experience
     with OLX-squared, and with the book "Design Thinking" by Curedale — highly recommend
@@ -157,7 +159,6 @@ transcript:
   sec: 617
   time: '10:17'
   who: Carmine
-- header: Entrepreneur first
 - line: I don't think you just woke up one day and realized "Okay, there is this problem.
     Let's solve it". I'm curious, how did you actually come up with this idea? What
     did the process look like?
@@ -175,6 +176,7 @@ transcript:
   sec: 727
   time: '12:07'
   who: Carmine
+- header: 'Entrepreneur First Experience: Program Structure and Benefits'
 - line: When I received the call from entrepreneur first, I didn't know about them.
     This was around February 2020 when I was in OLX-squared. I already got the position
     at the Alan Turing Institute. I was really keen on first doing these two things,
@@ -206,7 +208,7 @@ transcript:
   sec: 904
   time: '15:04'
   who: Carmine
-- header: 'Finding co-founders: the “expertize edges” framework'
+- header: 'Co-founder Matching: "Edges" Framework for Team Formation'
 - line: So, they put you through this training, but I guess that's not the only thing
     they do, right?
   sec: 955
@@ -249,6 +251,7 @@ transcript:
   sec: 1126
   time: '18:46'
   who: Alexey
+- header: 'Mentorship & Investment Committee: Scoring, Feedback, and EF Phases'
 - line: Absolutely. They give you this framework in order to start the conversation
     with the people. If you're domain edge, you will definitely talk about your domain.
     If you're tech end, you talk about that specific thing. If you're a catalyst,
@@ -276,7 +279,6 @@ transcript:
   sec: 1213
   time: '20:13'
   who: Carmine
-- header: The structure of EF program
 - line: 'This entire thing starts in September. In January, you have investment committee.
     EF program is divided in few phases. The first phase is the form phase, which
     takes eight weeks. Here you try to find your co-founder. After the form phase,
@@ -349,7 +351,7 @@ transcript:
   sec: 1428
   time: '23:48'
   who: Carmine
-- header: Coming up with the idea
+- header: 'Idea Evolution: From Computer Vision App to Ordering Solution'
 - line: How, when, and why this idea of your business came to your mind? From what
     I understood about your co-founder, he's doesn't strike me as a person who spent
     his life overseeing a supermarket. How did you actually get this idea?
@@ -393,6 +395,7 @@ transcript:
   sec: 1648
   time: '27:28'
   who: Carmine
+- header: 'Market Opportunity: Food Waste Impact and Competitive Landscape'
 - line: So we went back to the drawing board. We learned from that. First of all,
     it was hard for people to get another app just to get discounts. It's not enough
     to have just discounts. Then we learned that it's not that easy to figure out
@@ -426,7 +429,7 @@ transcript:
   sec: 1835
   time: '30:35'
   who: Carmine
-- header: How important is going through a startup accelerator?
+- header: 'Accelerator Value: Networking, Validation, and Founder Support'
 - line: Nice. A question from Anika. How important is to go through a startup accelerator?
     Would you be able to do this without entrepreneur first?
   sec: 1859
@@ -462,7 +465,7 @@ transcript:
   sec: 1973
   time: '32:53'
   who: Carmine
-- header: Finding your first client
+- header: 'First Pilots & Clients: Volg and Edeka Engagements'
 - line: How did you find your first client? Running a pilot with Edeka is awesome.
     Is it your first client?
   sec: 2004
@@ -492,6 +495,7 @@ transcript:
   sec: 2085
   time: '34:45'
   who: Alexey
+- header: 'Sales Cycle Realities: Time to First Client and Pilot Timelines'
 - line: Well, it'd be beneficial. But they bet on us. First of all, we formed the
     last week of form phase. We had only four weeks to get our narrative together,
     get the pitch deck, get all of the things together — all of the possibilities
@@ -520,7 +524,7 @@ transcript:
   sec: 2167
   time: '36:07'
   who: Carmine
-- header: Finding investors
+- header: 'Fundraising Path: EF Investment, Angels, and Demo Day Strategy'
 - line: I also prepared a question about investors. I guess you answered that. So
     entrepreneur first acts as an investor. There is a board and they decide whether
     they should invest in you. Is it the only investor you have?
@@ -588,7 +592,7 @@ transcript:
   sec: 2407
   time: '40:07'
   who: Carmine
-- header: Consequences of having a bad investor
+- header: 'Investor Selection Risks: Term Sheets, Board Dynamics, and Fit'
 - line: You said that there are just investors and there are good investors. What
     could be the consequences of going with a bad investor?
   sec: 2413
@@ -606,7 +610,7 @@ transcript:
   sec: 2464
   time: '41:04'
   who: Carmine
-- header: Splitting responsibilities between co-founders
+- header: 'Founder Roles: Splitting CTO and CEO Responsibilities'
 - line: You have pretty similar profiles. Even though he's more entrepreneurial, both
     of you are engineers. How do you split your responsibilities? What do you do?
     What does he do?
@@ -628,7 +632,7 @@ transcript:
   sec: 2588
   time: '43:08'
   who: Carmine
-- header: Hiring
+- header: 'Hiring Strategy: First Hires, Freelancers, Delegation, and Remote Talent'
 - line: Do you have other people in the company now?
   sec: 2627
   time: '43:47'
@@ -641,7 +645,6 @@ transcript:
   sec: 2630
   time: '43:50'
   who: Carmine
-- header: The importance of delegating
 - line: Since the topic of hiring is already on your mind. How do you decide who to
     hire first? You needed an app, you hired a freelancer. But for a permanent employee,
     how do you decide who to hire first?
@@ -673,7 +676,6 @@ transcript:
   sec: 2785
   time: '46:25'
   who: Carmine
-- header: Making work attractive to hires
 - line: I don't know if you had this problem. But I imagine that you as a startup,
     the package you can offer to candidates is less attractive than what big established
     companies such as Zalando, Amazon or OLX can offer. How can you manage to make
@@ -708,7 +710,7 @@ transcript:
   sec: 2919
   time: '48:39'
   who: Carmine
-- header: Plans for the future
+- header: 'Product Roadmap: Scaling to a Grocery Retail OS and Supply-Chain Expansion'
 - line: Nice. What are your plans for the future?
   sec: 2932
   time: '48:52'
@@ -724,7 +726,7 @@ transcript:
   sec: 2936
   time: '48:56'
   who: Carmine
-- header: Just-in-time supply chain
+- header: 'Forecasting & Just-in-Time Supply Chain: Reducing Waste and Inventory'
 - line: We can have so much impact by having one solution that would enable the just-in-time
     supply chain of Toyota. For example, I need a banana right now, because I'm hungry.
     My system will know, "it's Friday, it's 6pm, Carmine just had a long day and wants
@@ -771,7 +773,8 @@ transcript:
   sec: 3159
   time: '52:39'
   who: Carmine
-- header: What would you have done differently?
+- header: 'Tech Infrastructure Lesson: Kubeflow Challenges and Choosing Managed Cloud
+    (GCP)'
 - line: Would you do anything differently now if you were starting again?
   sec: 3189
   time: '53:09'
@@ -815,7 +818,7 @@ transcript:
   sec: 3337
   time: '55:37'
   who: Carmine
-- header: Advice for people starting a startup
+- header: 'Startup Advice: Resilience, Focus, and Emotional Intelligence'
 - line: Do you have any other advice for people who would like to start building a
     startup now?
   sec: 3351
@@ -838,7 +841,7 @@ transcript:
   sec: 3412
   time: '56:52'
   who: Carmine
-- header: Don’t focus on skills only
+- header: 'Hiring Criteria: Prioritizing Motivation and Behavior Over Skills'
 - line: And, I would say, find a co-founder who's on the same page with you, somebody
     you can communicate really well with. They don't have to be the best salesperson
     in the world if they're on the business side. Or they don't have to be the best
@@ -858,7 +861,7 @@ transcript:
   sec: 3470
   time: '57:50'
   who: Carmine
-- header: Getting motivation
+- header: 'Sustaining Motivation: Mission-Driven Work on Food Waste and Climate'
 - line: How do you get continuous motivation to do this stuff in a startup when things
     don't work as good as you expect?
   sec: 3554
@@ -879,7 +882,7 @@ transcript:
   sec: 3579
   time: '59:39'
   who: Carmine
-- header: Am I ready for a startup?
+- header: 'CTO Readiness: Skill Gaps, Learning, and Using Managed Services'
 - line: 'The next question: "I''m 30 years old. I want to be a CTO in the startup
     that I''m launching with a CEO." I guess, it''s pretty similar to what he did.
     His main focus is machine learning and knows little about front-end development,
@@ -929,7 +932,7 @@ transcript:
   sec: 3781
   time: '1:03:01'
   who: Carmine
-- header: Importance of a business school
+- header: 'MBA Relevance: Business School Not Required for Early-Stage Startups'
 - line: What do you think about the importance of a business school?
   sec: 3825
   time: '1:03:45'
@@ -959,7 +962,7 @@ transcript:
   sec: 3888
   time: '1:04:48'
   who: Carmine
-- header: Advice on finding a co-founder
+- header: 'Co-founder Imperative: Form Phase Advice and Team Formation Timing'
 - line: What happens if you don't find a co-founder?
   sec: 3907
   time: '1:05:07'
@@ -981,7 +984,7 @@ transcript:
   sec: 3917
   time: '1:05:17'
   who: Carmine
-- header: Do I need EF if I already have an idea?
+- header: 'Validating Pre-Existing Ideas: Why EF Helps Even with a Clear Idea'
 - line: Would you recommend starting with EF if you already have a clear idea?
   sec: 3957
   time: '1:05:57'
@@ -996,7 +999,7 @@ transcript:
   sec: 3969
   time: '1:06:09'
   who: Carmine
-- header: Having a prototype before the pitch
+- header: 'Prototype Before Pitch: Banana Ripeness Demo and Early Technical Traction'
 - line: The last question for today. Did you already have a prototype before your
     pitch?
   sec: 4026
@@ -1024,7 +1027,7 @@ transcript:
   sec: 4098
   time: '1:08:18'
   who: Alexey
-- header: Contacting Carmine
+- header: Contact Details & Episode Closing Remarks
 - line: So the last one. How do people find you?
   sec: 4105
   time: '1:08:25'

@@ -15,6 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3vF1B2mKwImsVC7h3NIDJW
   apple: https://podcasts.apple.com/us/podcast/transitioning-from-project-management-to-data-science/id1541710331?i=1000516467544
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Overview: Ksenia and episode focus (project management → data science)'
 - line: This week we will talk about transitioning from project management to data
     science. We have a special guest today — Ksenia. Ksenia is currently working as
     a data science manager at momox. After four years working as a project manager,
@@ -28,7 +30,7 @@ transcript:
   sec: 177
   time: '2:57'
   who: Ksenia
-- header: Ksenia’s background
+- header: 'Career Foundations: math degree, management, and early PM roles'
 - line: Before we start, before we go to our main topic, can you tell us about your
     career journey?
   sec: 180
@@ -48,6 +50,7 @@ transcript:
   sec: 189
   time: '3:09'
   who: Ksenia
+- header: 'Motivation for Analytics: customer-centric, data-driven decision making'
 - line: Data science attracts many people from quite different backgrounds. For example,
     I am a software engineer. Many people who are working in data analytics also go
     into data science. And sometimes project managers like yourself get interested
@@ -75,6 +78,7 @@ transcript:
   sec: 316
   time: '5:16'
   who: Ksenia
+- header: 'Transition Path: moving from data analysis into machine learning'
 - line: You worked as a project manager, and you needed to make all the decisions.
     Usually, to make these decisions, you would rely on data. You realized that analyzing
     data is such an interesting thing. Then you got into data analytics more for supporting
@@ -83,7 +87,7 @@ transcript:
   sec: 414
   time: '6:54'
   who: Alexey
-- header: Data analytics vs data science
+- header: 'Analytics vs. Data Science: descriptive analysis vs. forecasting'
 - line: I would say this is the next step. When you analyze data and you feel comfortable.
     This is when you learn some packages to analyze data, to visualize data, to deliver
     your findings and also interpreted on the business level. Then you start becoming
@@ -98,6 +102,7 @@ transcript:
   sec: 450
   time: '7:30'
   who: Ksenia
+- header: 'Learning Strategy: assess strengths and target skill gaps'
 - line: We've had a question, “what is the difference between data analytics and data
     science?” And I think you just covered that. If somebody decides to study data
     science, how do they do it? How did it happen for you? You realized that there’s
@@ -106,7 +111,6 @@ transcript:
   sec: 513
   time: '8:33'
   who: Alexey
-- header: Which things to study?
 - line: Firstly, I tried to search through the internet by myself and just find some
     courses on Udemy, and Coursera, and so on. But soon, if you do the same, you'll
     figure out that the amount of knowledge is immense. You’re lost where to start.
@@ -130,6 +134,7 @@ transcript:
   sec: 652
   time: '10:52'
   who: Alexey
+- header: 'Education Choices: benefits of formal degrees vs. self-study'
 - line: Yeah, I was just lucky that I got math as my first degree. I have to say that
     at 17 years old, I definitely knew what I wanted to do for my life and knew what
     to learn and so on. My math was chosen and I learned it. I probably did not use
@@ -160,6 +165,7 @@ transcript:
   sec: 769
   time: '12:49'
   who: Alexey
+- header: 'Core Skill Set: programming, statistics, and domain expertise'
 - line: You definitely need engineering skills and ability to code. It's super important
     and we will cover this later on. Another thing, you need to analyze data. Mathematics
     is just a theory. But when it comes to practice, you have to get a feeling of
@@ -172,7 +178,6 @@ transcript:
   sec: 780
   time: '13:00'
   who: Ksenia
-- header: Benefits of getting a masters degree
 - line: You also mentioned you tried to pick up these skills online by trying to do
     courses on Udemy, Udacity. But it was just too much information, too many courses,
     it was too difficult to choose what to learn, and you decided to get masters for
@@ -213,6 +218,7 @@ transcript:
   sec: 1019
   time: '16:59'
   who: Alexey
+- header: 'Recommended Coursework: machine learning, time series, graph analysis'
 - line: Because I knew that I wanted to go towards a data science career. At university,
     there was a lot of freedom to choose. I have chosen the hardest courses. I was
     really interested in it. I choose machine learning classes — supervised and not
@@ -239,7 +245,6 @@ transcript:
   sec: 1105
   time: '18:25'
   who: Ksenia
-- header: Useful online courses
 - line: I can already see how your background as a project manager was useful. It
     feels like it was very carefully planned — the way you approached your studies.
     You knew what you wanted to do, and you just went for it. That's really cool.
@@ -249,6 +254,7 @@ transcript:
   sec: 1135
   time: '18:55'
   who: Alexey
+- header: Online Resources & Course Picks (including mlcourse.ai)
 - line: I can even give advice to people who are interested in choosing between having
     a nanodegree degree online and go into university. It depends on your purpose.
     If you want to pick up some knowledge about a specific package to analyze or visualize
@@ -285,7 +291,7 @@ transcript:
   sec: 1346
   time: '22:26'
   who: Ksenia
-- header: How project management background can be helpful for the career transition
+- header: 'Transferable PM Skills: planning, stakeholder communication, business KPIs'
 - line: I already mentioned that your background as a project manager helped you at
     least in structuring the way you approached your education, like deciding which
     courses to take. I think it was really well thought through. Were there any other
@@ -361,7 +367,6 @@ transcript:
   sec: 1740
   time: '29:00'
   who: Alexey
-- header: CRISP-DM for structuring your projects
 - line: I wanted to ask you. You mentioned that one of the things that helped you
     most were planning skills. You were able to plan a project because a data science
     project is a project. Because you have experienced planning projects, you can
@@ -372,6 +377,7 @@ transcript:
   sec: 1778
   time: '29:38'
   who: Alexey
+- header: 'Project Frameworks: using CRISP‑DM to structure data projects'
 - line: Definitely. It's fortunate that it's already developed. I would recommend
     to use the standard of the industry in data mining — CRISP-DM framework. It's
     really convenient for data science projects. I also use it. It's nicely structured.
@@ -381,7 +387,6 @@ transcript:
   sec: 1820
   time: '30:20'
   who: Ksenia
-- header: Moving into analytics for PMs and the most useful skills
 - line: Yeah, even though it's a bit old methodology, it's 20 years old, it's surprising
     that it still applies to projects these days. Do you say that planning skill was
     the most useful one?
@@ -405,6 +410,7 @@ transcript:
   sec: 1936
   time: '32:16'
   who: Alexey
+- header: 'Starting as a Data Analyst: apply analysis at work and build portfolio'
 - line: I think I mentioned it, but I will elaborate more on my response. Becoming
     a data analyst after a project manager career is exactly the way to go. You see
     a lot of data. You have to analyze it. If you have to derive some knowledge out
@@ -426,7 +432,6 @@ transcript:
     you've derived. Try to apply your knowledge already while being a project manager
     and try to get into data analysis as soon as possible.
   who: Ksenia
-- header: Going from spreadsheets to SQL and Python
 - line: I assume that the usual technology stack, the tools the data analysts use,
     is quite different from what the project manager would use. I imagine that for
     project managers, the tools will be Microsoft Excel or something similar, like
@@ -435,6 +440,8 @@ transcript:
   sec: 2058
   time: '34:18'
   who: Alexey
+- header: 'Tools Progression: spreadsheets → BI tools (Tableau/Trifacta) → Python
+    & Pandas'
 - line: I would recommend to start with frameworks that are already developed for
     data analysis — drag and drop tools. For example, Tableau and Trifacta for data
     cleaning and data analysis. You don't need to learn any coding language to start
@@ -453,7 +460,6 @@ transcript:
     recommend to you, as a next step, to pick some Python knowledge and already apply
     matplotlib charts or something like this. And Pandas.
   who: Ksenia
-- header: Joining communities and joining Kaggle
 - line: What would be the best way to start with coding? One thing you mentioned —
     take some courses online. Maybe it doesn't really matter which one, just take
     one course and try to go through it. What I want to ask — okay somebody did this
@@ -461,6 +467,7 @@ transcript:
   sec: 2176
   time: '36:16'
   who: Alexey
+- header: 'Community Learning: OpenDataScience, DataTalks, and mentorship'
 - line: I started to analyze data through Python. In university I had some classes
     but it was mostly recommendations and buzzwords, like “Jupyter notebook”, and
     you figure out by yourself what's going on. It's not like somebody would teach
@@ -474,6 +481,7 @@ transcript:
   sec: 2207
   time: '36:47'
   who: Ksenia
+- header: 'Kaggle Practice: studying notebooks and collaborative competitions'
 - line: 'Other advice that I remember — open an account on Kaggle. That''s what also
     helped me a lot. Observe and study from others. In Kaggle you will find a lot
     of open notebooks and. You can understand how people analyze data — try to repeat
@@ -499,7 +507,6 @@ transcript:
   sec: 2349
   time: '39:09'
   who: Ksenia
-- header: Productionizing machine learning models
 - line: Kaggle is fun and you of course can acquire a lot of useful skills there.
     You can also do this from courses. Then you can do a couple of courses about Python,
     a couple of courses about analytics. But at work — if you work as a data scientist
@@ -512,6 +519,7 @@ transcript:
   sec: 2401
   time: '40:01'
   who: Alexey
+- header: 'Production Readiness: Git, testing, Docker, deployment, and Clean Code'
 - line: It also was a question to me — how to jump from analytics to machine learning
     and machine learning in production. It's a different story. How I overcame this
     - I learned it at work. This is where you see this enterprise environment, where
@@ -536,7 +544,7 @@ transcript:
   sec: 2564
   time: '42:44'
   who: Alexey
-- header: Getting experience while learning
+- header: 'Domain Specialization: research experience in fraud detection and node2vec'
 - line: Two more things. What I planned for myself to acquire a job easily after graduating
     from university — I got into research and I spent three years in a specific domain.
     It was super beneficial — when you become professional in some specific domain,
@@ -598,7 +606,6 @@ transcript:
   sec: 2843
   time: '47:23'
   who: Ksenia
-- header: Looking for a job
 - line: It was a very focused approach. You had this domain expertise, and then you
     focused specifically on companies that are doing this sort of thing. I guess it
     worked out. Do you remember how many applications you sent? How many interviews
@@ -606,6 +613,7 @@ transcript:
   sec: 2894
   time: '48:14'
   who: Alexey
+- header: 'Job Search Reality: applications, interviews, and persistence'
 - line: It was a lot. After university, I sent around 50 applications and I got three
     offers. It is tough. When you try to get the first data science position, don't
     be desperate. It's hard every time for everyone. Don't be disappointed.
@@ -651,13 +659,13 @@ transcript:
   sec: 3039
   time: '50:39'
   who: Ksenia
-- header: Gap between theory and practice
 - line: Do you think you saw any difference between the applications that you covered
     in courses and classes and applications for your applications in the industry?
     That's a question from Romala.
   sec: 3058
   time: '50:58'
   who: Alexey
+- header: 'Bridging Theory and Practice: applying university work in industry'
 - line: Yeah, it totally corresponds. What I want to emphasize here, I already applied
     these techniques to practice during my research and this was extremely beneficial.
     When you just learn techniques and machine learning approaches, and you don't
@@ -687,7 +695,6 @@ transcript:
   sec: 3131
   time: '52:11'
   who: Ksenia
-- header: Learning plan for transitioning
 - line: Yeah, that's a great tip. Let's say somebody wants to go into data science
     now. But they don't have enough time or freedom to quit their job and do a masters
     and spend two-three years doing that. Do you have any recommendations for them?
@@ -696,6 +703,7 @@ transcript:
   sec: 3209
   time: '53:29'
   who: Alexey
+- header: 'Part‑time Learning Plan: nanodegrees and structured six‑month paths'
 - line: Yes, I think I can give some tips or some recommendations. First of all, start
     to be interested in data analysis and start to apply this at your work already.
     This would be the first step of getting involved in data analysis. Then, when
@@ -746,6 +754,7 @@ transcript:
   sec: 3440
   time: '57:20'
   who: Alexey
+- header: 'Essential Math Topics: probability, statistics, and graph theory'
 - line: Probability theory for sure, statistics, graph theory. What else... differential
     equations. That's what I studied. But if you are not familiar with math, studying
     it by yourself from scratch is super challenging. I would probably go for practical
@@ -757,7 +766,6 @@ transcript:
   sec: 3462
   time: '57:42'
   who: Ksenia
-- header: Building on your strengths
 - line: I think you mentioned that a couple of times already — built on your strengths.
     If your strength is in project management, it's planning and domain expertise.
     Use that and try to focus on problems first, and then eventually… What works for
@@ -788,6 +796,7 @@ transcript:
   sec: 3624
   time: '1:00:24'
   who: Alexey
+- header: 'Career Habits: critical path, study techniques, and lifelong learning'
 - line: Yeah. I spent nine years studying in my life. The most important takeaways
     — learn how to study. You will be studying all your life. Get used to this. If
     you don’t find an efficient way to structure information, you will be lost. So
@@ -795,11 +804,11 @@ transcript:
   sec: 3661
   time: '1:01:01'
   who: Ksenia
-- header: Last tips and getting involved in projects
 - line: Do you have any other tips or tricks?
   sec: 3683
   time: '1:01:23'
   who: Alexey
+- header: 'Final Advice: contribute to projects, narrow your scope, join communities'
 - line: Get involved in the projects — a voluntary project, study project, open source
     project. It doesn't matter. That's what I did. I was active, I was involved in
     some local research, and did some analysis for two years in a row. It's officially
@@ -846,6 +855,7 @@ transcript:
   sec: 3896
   time: '1:04:56'
   who: Alexey
+- header: Episode Close and Final Wishes
 - line: Yeah, I wanted this talk to be interesting to people that really want to change
     their career. Be brave enough, be active. I’m definitely sure that you can tackle
     it. And I wish you all the best on your career path.

@@ -15,6 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/64lEB0Wv0a6DfkDi672Ulk
   apple: https://podcasts.apple.com/us/podcast/chief-data-officer-marco-de-sa/id1541710331?i=1000533326308
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Overview: Marco''s Career & Roles'
 - line: This week, we'll talk about the role of a chief data officer. We have a special
     guest today, Marco. Marco is the chief data officer at OLX Group, which is the
     place where I work as well. So we are colleagues. Before OLX, Marco worked at
@@ -27,7 +29,6 @@ transcript:
   sec: 106
   time: '1:46'
   who: Marco
-- header: Marco’s background
 - line: Before we go into our main topic of the role of a chief data officer, let's
     start with your background. Can you tell us about your career journey so far?
   sec: 132
@@ -47,6 +48,7 @@ transcript:
   sec: 144
   time: '2:24'
   who: Marco
+- header: 'Industry Experience: Yahoo, Facebook, Twitter, Spotify'
 - line: 'I ended up moving to the US where I joined Yahoo. I worked as a research
     scientist that included quite a bit of data science: pulling data and making sense
     of it, understanding opportunities to build innovation. To be totally transparent,
@@ -84,6 +86,7 @@ transcript:
   sec: 317
   time: '5:17'
   who: Marco
+- header: Transition to OLX Group and CDO Appointment
 - line: Nine or so months ago, I moved back from the US to Europe, and I joined OLX
     Group, where I have the role of chief data officer. It's been a fun journey so
     far.
@@ -95,7 +98,7 @@ transcript:
   sec: 354
   time: '5:54'
   who: Alexey
-- header: Role of CDO
+- header: 'Chief Data Officer Scope: Data Strategy, Governance, AI'
 - line: Can you tell us what do you do at OLX as a chief data officer?
   sec: 368
   time: '6:08'
@@ -115,6 +118,7 @@ transcript:
   sec: 375
   time: '6:15'
   who: Marco
+- header: Traditional Responsibilities vs Modern CDO Expectations
 - line: That's quite a lot of things. I was also wondering what a CDO does, and I
     read an article before our char. It was about the role of CDO. Here is the summary.
     There are four main responsibilities. The first one is governance, which is monitoring
@@ -151,6 +155,7 @@ transcript:
   sec: 572
   time: '9:32'
   who: Marco
+- header: 'Future-Proofing Data: Collecting for Tomorrow''s Products'
 - line: 'One point is not clearly articulated in this list: it''s the responsibility
     to look forward and design for the future and for data. Data is going to continue
     powering innovation. The more data you have, the more you''ll be able to do it.
@@ -164,7 +169,7 @@ transcript:
   sec: 619
   time: '10:19'
   who: Marco
-- header: Keeping track of many things
+- header: Delegation and Organisational Design for Data Leadership
 - line: So you need to think about all these things? I don't know how many things
     you mentioned, five or six? How is it even possible for a single person to keep
     track of all that? I imagine that you don't just go there and then analyze data,
@@ -207,7 +212,7 @@ transcript:
   sec: 827
   time: '13:47'
   who: Marco
-- header: Becoming a CDO
+- header: 'Career Progression: From Head of Data to CDO'
 - line: 'Thanks! We already have a question: "What skills are necessary to go from
     head of data science or analytics to CDO?" This is something I also wanted to
     ask you. At some point, you were probably also a head of something, and then you
@@ -245,7 +250,7 @@ transcript:
   sec: 988
   time: '16:28'
   who: Marco
-- header: Strategy vs tactics
+- header: 'Strategy vs Tactics: Vision, KPIs, and Execution'
 - line: 'So, to summarise: you need to become more strategic, always keep the big
     picture in your mind, have this vision. I''m curious, when people say "you need
     to be more strategic", what do they mean? Then we also talk about strategy vs
@@ -284,7 +289,7 @@ transcript:
   sec: 1190
   time: '19:50'
   who: Marco
-- header: VP of Data vs CDO
+- header: 'CDO vs VP of Data: Scope, Influence, and Proactivity'
 - line: There is this role called "VP of Data". What's the difference between VP of
     Data and CDO? And, in general, we have CTO and VP of engineering, we have CPO
     (Chief Product Officer) and VP of product, and we have CDO and VP of data. And
@@ -343,7 +348,7 @@ transcript:
   sec: 1414
   time: '23:34'
   who: Marco
-- header: How many VPs of Data could be there?
+- header: 'Structuring a Data Org: Multiple VPs and Reporting Lines'
 - line: Do CDOs usually have multiple VPs reporting to them or just one VP of Data?
   sec: 1495
   time: '24:55'
@@ -363,7 +368,7 @@ transcript:
   sec: 1503
   time: '25:03'
   who: Marco
-- header: Splitting the work between VP and CDO
+- header: 'Splitting Work: CDO Responsibilities vs VP Execution'
 - line: 'A few companies back at work as a company where we had a CTO, and the CTO
     had one VP of engineering reporting to him. That situation seemed pretty strange
     to me. It looked like the VP is doing all the work. And the CTO actually just
@@ -387,7 +392,7 @@ transcript:
   sec: 1621
   time: '27:01'
   who: Marco
-- header: Difference between CTO, CPO, and CDO
+- header: Differentiating CTO, CPO, and CDO Roles
 - line: Do you know what's the main difference between CTO, CPO, and CDO? When I look
     at the top management — it's all about meetings, setting strategy, planning for
     budgets. These responsibilities look pretty similar. So what's the core difference
@@ -437,7 +442,7 @@ transcript:
   sec: 1860
   time: '31:00'
   who: Marco
-- header: Breaking down the goals and working backwards from them
+- header: 'Working Backwards: Goals to Data Platform & ML Investment'
 - line: You mentioned at some point something like "if we do these five things, then
     we will achieve this goal". I'm wondering, how do you come up with these things?
     How do you know if we need to invest in a data platform? Or how do you know if
@@ -485,7 +490,7 @@ transcript:
   sec: 2052
   time: '34:12'
   who: Alexey
-- header: Assessing if we’re moving in the right direction
+- header: 'Measuring Progress: Metrics, Accountability, and Visibility'
 - line: Exactly. An essential component of that is aligning on how to assess whether
     we're moving in the right direction. What are the metrics that help us understand
     whether we're achieving our goal? Of course, you have to have some level of trust
@@ -518,7 +523,7 @@ transcript:
   sec: 2168
   time: '36:08'
   who: Marco
-- header: Dealing with many meetings
+- header: 'Meeting Load: Time Management for Senior Data Leaders'
 - line: I'm curious how many meetings per day do you have to be able to do all that.
     To align with all these people, your day must be full of meetings?
   sec: 2205
@@ -575,7 +580,7 @@ transcript:
   sec: 2355
   time: '39:15'
   who: Marco
-- header: Being more effective
+- header: 'Productivity Practices: Documentation, Async, and Slack'
 - line: Thanks. Do you use any productivity tools? You mentioned somebody manages
     your calendar. Do you use any tools on top of that to help you be more effective?
   sec: 2396
@@ -615,7 +620,7 @@ transcript:
   sec: 2491
   time: '41:31'
   who: Marco
-- header: Building the data-driven culture
+- header: 'Building a Data-Driven Culture: Democratization & Usability'
 - line: Thanks! We have quite a few questions from the audience. Is the CDO responsible
     for building a data-driven culture? How a CDO can achieve that?
   sec: 2522
@@ -665,7 +670,7 @@ transcript:
   sec: 2636
   time: '43:56'
   who: Alexey
-- header: Challenges of working remotely
+- header: 'Remote Leadership: Challenges of Managing Distributed Teams'
 - line: Do you feel that remote work is challenging your role? Especially when you
     manage your team?
   sec: 2652
@@ -730,7 +735,7 @@ transcript:
   sec: 2862
   time: '47:42'
   who: Alexey
-- header: Does CDO need deep technical skills?
+- header: 'Technical Skills for CDOs: Breadth vs Depth (ML, SQL, Engineering)'
 - line: Do you think that the CDO role requires deep technical skills? What kind of
     technical expertise is needed for the role? Machine learning, programming, SQL?
     Something else?
@@ -764,7 +769,7 @@ transcript:
   sec: 2979
   time: '49:39'
   who: Marco
-- header: Importance of MBA
+- header: 'Business Education: MBA Value for Executive Data Roles'
 - line: What do you think about MBA? Do CDOs need an MBA to be successful?
   sec: 3020
   time: '50:20'
@@ -806,7 +811,7 @@ transcript:
   sec: 3104
   time: '51:44'
   who: Marco
-- header: The key skills for becoming a CDO
+- header: 'Essential Soft Skills: Communication, Empathy, Influence'
 - line: Maybe this is one of the main skills — being able to learn from all this experience,
     to become a CDO. Because the next question is, "What are the main key skills to
     be a successful CDO? And how to build the skills?" We talked about this a bit
@@ -832,7 +837,7 @@ transcript:
   sec: 3191
   time: '53:11'
   who: Marco
-- header: Biggest challenges within OLX so far
+- header: 'OLX Group Challenges: Geographic, Product, and Tech Complexity'
 - line: There is a question from somebody called "Ioannis Z" — sounds like somebody
     we both know. What was the biggest challenge within the group so far? Given that
     it's a pretty diverse group, both geographically and in terms of tech stacks and
@@ -873,7 +878,7 @@ transcript:
   sec: 3391
   time: '56:31'
   who: Marco
-- header: Demonstrating the CDO skills on a job interview
+- header: 'Interviewing for CDO: Demonstrating Strategic Thinking'
 - line: We have a question from Carmine. Let's say somebody wants to interview and
     get hired for a CDO position. How can you demonstrate the skills we talked about,
     like looking across the organisation, creating synergies, and so, on that interview?
@@ -924,7 +929,7 @@ transcript:
   sec: 3556
   time: '59:16'
   who: Marco
-- header: Overcoming resistance
+- header: 'Overcoming Resistance: Persuasion, Evidence, and Constraints'
 - line: Ricky says that he agrees 100% with the emphasis on strategic vision, and
     understanding the needs of the business. But how to overcome resistance to the
     details of your vision when somebody disagrees with that?
@@ -967,7 +972,7 @@ transcript:
   sec: 3703
   time: '1:01:43'
   who: Marco
-- header: Wrapping up
+- header: Closing Remarks and Key Takeaways
 - line: Thanks, Marco. I hope it was a nice break from your usual routine. Thanks
     a lot for joining us today for answering all these questions, for sharing your
     experience with us. And thanks, everyone for being active and asking so many questions.

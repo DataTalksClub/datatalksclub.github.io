@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/4QWfObiuYmtOCtpSL5LZf9
   apple: https://podcasts.apple.com/us/podcast/essentials-public-speaking-for-career-in-data-science/id1541710331?i=1000513669829
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Overview: Ben Taylor, AI Evangelist at DataRobot'
 - line: This week, we'll talk about public speaking. We have a special guest today,
     Ben Taylor. Ben is the chief AI evangelist at DataRobot. If you use LinkedIn,
     you must have seen Ben in your feed quite often. If you don't, you most likely
@@ -45,6 +47,7 @@ transcript:
   sec: 179
   time: '2:59'
   who: Alexey
+- header: 'Mindset for Improvement: Practice and Public Speaking Growth'
 - line: I'm excited to be here. I love this topic. I think it's very important for
     anyone that's listening. Anyone can become a great speaker. I’ve definitely been
     a bad speaker before. Anything you want to become better at, you can get better
@@ -60,7 +63,7 @@ transcript:
   sec: 215
   time: '3:35'
   who: Alexey
-- header: Ben’s background
+- header: 'Career Path: Engineering, Quant, HireVue, Startup, Acquisition'
 - line: I studied chemical engineering in college. I planned on going to medical school
     – I'm really glad that didn't happen. I don't think I would have been very happy
     being a doctor. I went and worked for Intel and Micron for five years in semiconductors.
@@ -89,11 +92,11 @@ transcript:
   sec: 307
   time: '5:07'
   who: Ben
-- header: AI evangelism
 - line: What is evangelism? What does an AI chief evangelist do?
   sec: 340
   time: '5:40'
   who: Alexey
+- header: 'AI Evangelism: Role, Positioning, and Messaging Strategy'
 - line: Evangelism – that's something that a lot of tech companies have. Someone who's
     an evangelist, they could be a professional speaker, or be a frequent speaker
     where they're out speaking. For my role, it's not just evangelizing the Data Robot
@@ -145,6 +148,7 @@ transcript:
   sec: 531
   time: '8:51'
   who: Ben
+- header: 'Scaling Talks: Process for Crafting Repeatable Keynotes'
 - line: The last thing I'll say is, really all of this is about understanding of process.
     It really isn't about me speaking, it's about “Can I understand the recipe, or
     the process, for developing an excellent keynote?” or training someone else to
@@ -203,7 +207,7 @@ transcript:
   sec: 694
   time: '11:34'
   who: Ben
-- header: Ben’s first experiences speaking in public
+- header: 'Early Mistakes: Technical Overload and Audience Awareness'
 - line: Now you give one talk a week, right? Even more often, maybe. But I can imagine
     that this wasn't the case for you all the time. Do you remember your first experience
     speaking in public?
@@ -252,6 +256,7 @@ transcript:
   sec: 944
   time: '15:44'
   who: Alexey
+- header: 'Provocative Speaking: Risks, Reception, and Storytelling Ethics'
 - line: I started to speak at HireVue – they helped my speaking career. When I started
     at HireVue, they needed someone out there talking about AI and data science in
     the HR space. I started going to HR conferences and I think I could have made
@@ -296,6 +301,7 @@ transcript:
   sec: 1092
   time: '18:12'
   who: Ben
+- header: 'Speaking Privately: Corporate Talks and Networking Impact'
 - line: I got to the point where I started to get invited to go speak to some impressive
     companies, like, Red Bull, Goldman Sachs, Procter and Gamble, Amazon – different
     companies. Like, a rocket company says, “Hey, will you please come present to
@@ -309,11 +315,11 @@ transcript:
   sec: 1132
   time: '18:52'
   who: Ben
-- header: Getting attention
 - line: Let's jump into this process. So what is the process?
   sec: 1188
   time: '19:48'
   who: Alexey
+- header: 'Attention Techniques: Warm‑up, Emotion, and Story Hooks'
 - line: You have this concept of attention. You walk out on the stage. You being the
     speaker, you're given attention for free. But you can quickly lose it. You can
     imagine if you or myself, were walking out on stage – COVID’s over – we're gonna
@@ -345,7 +351,7 @@ transcript:
   sec: 1271
   time: '21:11'
   who: Ben
-- header: Key takeaways and call to action
+- header: 'Clear Outcomes: 1–3 Key Takeaways and Calls to Action'
 - line: It's also really important to have key takeaways. If I just have a talk that
     is storytelling, warming them up – then the end, you might say, “Well, what was
     the point of this talk?” And that'd be a fair criticism. “What is the point of
@@ -376,13 +382,13 @@ transcript:
   sec: 1408
   time: '23:28'
   who: Alexey
-- header: Introducing ourselves
 - line: Imagine I go give a talk and at the beginning, I start saying, “Hey, I am
     Alexey. I'm a lead data scientist at OLX, blah, blah, blah.” Is that a good way
     to introduce myself? Is there a better way?
   sec: 1441
   time: '24:01'
   who: Alexey
+- header: 'Introductions that Work: Hero Stories vs. Resume Intros'
 - line: Yeah, there is a better way. There's different tiers of expertise on how to
     introduce yourself.
   sec: 1457
@@ -480,7 +486,7 @@ transcript:
   sec: 1808
   time: '30:08'
   who: Ben
-- header: Storytelling, crafting a story
+- header: 'Translating Data for Impact: From Metrics to Narrative'
 - line: This sounds almost impossible for somebody like me, who is a technical person.
     I'm a data scientist. I'm used to just using facts, and then I think, “Okay, I
     am a data person, and I like data. I will just show a lot of data to others and
@@ -531,6 +537,7 @@ transcript:
   sec: 1978
   time: '32:58'
   who: Ben
+- header: 'Storytelling Practice: Everyday Exercises and Pixar Lessons'
 - line: If you tell a story at night and if your kids are not asking you to tell another
     one – you've got work to do. But if you begin to become a better storyteller,
     where every night your kids are begging you for the second story, or “Tell another
@@ -564,7 +571,6 @@ transcript:
   sec: 2085
   time: '34:45'
   who: Ben
-- header: Being remembered
 - line: You go to the data conference, how many talks are forgettable?
   sec: 2184
   time: '36:24'
@@ -573,6 +579,7 @@ transcript:
   sec: 2189
   time: '36:29'
   who: Alexey
+- header: 'Ambitious Goals: Memorable Talks and Long‑term Impact'
 - line: Most of them. And that’s not an insult. It's just true. Most of them. Most
     of the talks are forgettable. How many of those people were smart? All of them.
     They're very smart, they're very accomplished. Unfortunately, most of the talks
@@ -624,7 +631,7 @@ transcript:
   sec: 2338
   time: '38:58'
   who: Alexey
-- header: Talking to executives
+- header: 'Executive Presentations: Recommendations First, Appendix Ready'
 - line: That's tough because a lot of it just comes down to experience. Even that
     example I gave – when he said that, I was confused. I don't think I had a follow-up
     action. I probably didn't learn from it for a couple years. It wasn't until I
@@ -734,7 +741,7 @@ transcript:
   sec: 2758
   time: '45:58'
   who: Ben
-- header: Getting to speak on conferences
+- header: 'Earning Stages: From Meetups to Conference Speaking Slots'
 - line: We talked a bit about talking to executives – how about giving talks at a
     conference? You said you should set the bar high, give big talks, try to be remembered
     for five years. I have a few questions here. The first is – how do you get to
@@ -772,6 +779,7 @@ transcript:
   sec: 2920
   time: '48:40'
   who: Ben
+- header: 'Conference Proposals: Novelty, Creativity, and “Scare Yourself” Topics'
 - line: You need to fight sameness. You need to run away from sameness, because humans
     are novelty-seeking creatures. We remember things that are unique. If we walk
     through the forest, we're going to forget everything except the bright red mushroom
@@ -799,7 +807,7 @@ transcript:
   sec: 3053
   time: '50:53'
   who: Ben
-- header: There’s always someone smarter than you
+- header: 'Q&A Strategy: Handling Tough Questions and Admitting Unknowns'
 - line: For people listening, I like just saying – guaranteed, there's someone in
     the audience smarter than you. Don't try to be the smartest person in the room,
     because that can backfire. During Q&A, if someone asks you a question – if you
@@ -824,7 +832,7 @@ transcript:
   sec: 3133
   time: '52:13'
   who: Ben
-- header: Giving a keynote speech
+- header: 'Path to Keynotes: Building a Speaker Resume and Personal Brand'
 - line: You mentioned that you shouldn't aim straight away to a keynote at Strata
     or something high profile. That it's okay to start with local meetups and then
     gradually build your portfolio, build your “speaker CV”. This is how you get on
@@ -856,7 +864,7 @@ transcript:
   sec: 3265
   time: '54:25'
   who: Ben
-- header: Topics for talks for new professionals
+- header: 'Starter Topics for New Data Scientists: Business Problems Over Hype'
 - line: 'Eric is asking: “As a new data science professional, what topics and groups
     would be good to start with? I''m not a deep learning expert, but I understand
     business and data.”'
@@ -900,7 +908,7 @@ transcript:
   sec: 3514
   time: '58:34'
   who: Ben
-- header: Pitching a talk to meetup organizers
+- header: 'Pitching Meetups: First Impressions, Endorsements, and Networking'
 - line: Eric is also asking – I think this is a follow up question to the previous
     one. “How would you pitch to speak at an event like a meetup?” I think we briefly
     covered that, but let’s use the same scenario. You take something relatively straightforward,
@@ -935,7 +943,7 @@ transcript:
   sec: 3606
   time: '1:00:06'
   who: Ben
-- header: Top public speaking skill to acquire
+- header: 'Core Skill: Maximizing Audience Attention (Public Speaking Focus)'
 - line: Matthew is asking “In your opinion, what is the top public speaking skill
     that people should reach for?”
   sec: 3738
@@ -956,7 +964,6 @@ transcript:
   sec: 3751
   time: '1:02:31'
   who: Ben
-- header: Starting in AI evangelism
 - line: One more question. Again, from Mathew. I know you can give a long answer to
     this question. But maybe you can keep it short?
   sec: 3823
@@ -967,6 +974,7 @@ transcript:
   sec: 3838
   time: '1:03:58'
   who: Alexey
+- header: 'Breaking into AI Evangelism: Build Speaking Experience and Presence'
 - line: Having a speaking track record can be very useful. We actually just hired
     a new evangelist role, literally this week. For some of the candidates that were
     looking at, they had been speaking. So get out there, start speaking, build up
@@ -988,7 +996,7 @@ transcript:
   sec: 3886
   time: '1:04:46'
   who: Ben
-- header: Book recommendations
+- header: 'Resources & Practice: Recommended Books, Toastmasters, Story Exercises'
 - line: For people who are still here on our stream, do you have any recommendations?
     A book or a course or something that people who are interested in building their
     public speaking skills – what is the number one thing they should try after this
@@ -1057,7 +1065,7 @@ transcript:
   sec: 4098
   time: '1:08:18'
   who: Ben
-- header: One last story
+- header: Closing Anecdotes and Final Advice
 - line: I suggest we should be wrapping up because I think your next meeting starts
     in 20 minutes and you still need to reach home. I don't think you want to have
     it from your car, like this one. Thanks a lot for coming, for joining us today

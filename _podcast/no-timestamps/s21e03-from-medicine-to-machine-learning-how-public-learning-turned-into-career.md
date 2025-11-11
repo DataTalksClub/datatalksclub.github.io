@@ -16,7 +16,7 @@ short: 'From Medicine to Machine Learning: How Public Learning Turned into a Car
 title: 'Medicine to Machine Learning: Build Healthcare ML Portfolio, Freelance on
   Upwork & Deploy to Cloud'
 transcript:
-- header: Pastor’s background and early programming journey
+- header: Podcast Introduction & Event Announcements
 - line: Hi everyone, welcome to our event. This event is presented by Redox Club,
     a community of people who love data. We have weekly events. During the summer,
     they are not so frequent but we still have events.
@@ -45,6 +45,8 @@ transcript:
   sec: 0
   time: 0:00
   who: Alexey
+- header: 'Guest Overview: Transition from Medicine and Criminology to Machine Learning
+    Career'
 - line: Now I’m opening the questions we prepared. Let’s start. Are you ready?
   sec: 94
   time: '1:34'
@@ -83,6 +85,7 @@ transcript:
   sec: 190
   time: '3:10'
   who: Pastor
+- header: 'Career Trajectory: Statistician → Data Analyst → Data Engineer'
 - line: Great. Before we talk more about all that, can you tell us about your career
     journey so far?
   sec: 201
@@ -122,12 +125,13 @@ transcript:
   sec: 277
   time: '4:37'
   who: Pastor
+- header: 'Skill Progression: SPSS, Excel, R, and Transition to Python'
 - line: You studied criminology and did statistics as a teaching assistant. How did
     you get your first remote job?
   sec: 351
   time: '5:51'
   who: Alexey
-- header: Learning new tools and skills on the job while studying medicine
+- header: 'Freelancing Beginnings: First Upwork Gigs and Early Projects'
 - line: I signed up on Upwork, a freelance platform that matches you with jobs. My
     first project was helping someone with a statistics problem from school. It was
     a small project, around five dollars.
@@ -165,6 +169,7 @@ transcript:
   sec: 488
   time: '8:08'
   who: Pastor
+- header: 'Learning-by-Doing: Accepting Unknown Projects to Build Skills'
 - line: That’s interesting. From what I understood, you observed market demands, learned
     the skills, then applied them. First SPSS, then Excel, then R, each time picking
     up skills to apply in new roles. Is that correct?
@@ -189,7 +194,7 @@ transcript:
   sec: 621
   time: '10:21'
   who: Pastor
-- header: Balancing medical studies with data science work and motivation
+- header: 'Balancing Dual Paths: Medical School and Data Work'
 - line: You were studying at the same time criminology and then medicine. That’s intense.
     I have a childhood friend who studied medicine to become a dentist. The first
     years learning basics common to all doctors were very intense. It’s motivating
@@ -214,7 +219,7 @@ transcript:
   sec: 745
   time: '12:25'
   who: Pastor
-- header: Applying medical knowledge to data science and vice versa
+- header: 'Medical Reasoning in Data Science: Probability, Reranking, and Triage'
 - line: 'A question came in: The remote site where you found your first job was Upwork,
     right?'
   sec: 828
@@ -233,6 +238,7 @@ transcript:
   sec: 856
   time: '14:16'
   who: Pastor
+- header: 'Communication Skills: Improving English for Remote Work'
 - line: Also, I didn’t know how to communicate well in English with people. Everything
     was written communication. I had to improve my English skills while working and
     learning.
@@ -314,7 +320,6 @@ transcript:
   sec: 1105
   time: '18:25'
   who: Alexey
-- header: Starting freelance work on Upwork and overcoming language challenges
 - line: One thing you mentioned is that some things from medicine you could apply
     to data and vice versa. What examples do you have of skills or approaches that
     transfer between these domains?
@@ -394,7 +399,7 @@ transcript:
   sec: 1386
   time: '23:06'
   who: Pastor
-- header: Joining the machine learning engineering course and benefits of live cohorts
+- header: 'Live Cohorts & ML Zoom Camp: Benefits of Structured, Hands-On Learning'
 - line: Speaking of the machine learning Zoom camp and our machine learning engineering
     course, how did you find out about this course?
   sec: 1443
@@ -440,12 +445,12 @@ transcript:
   sec: 1605
   time: '26:45'
   who: Pastor
+- header: 'Public Learning Strategy: Leaderboards, Posting, and Personal Branding'
 - line: So you found the post on X, struggled a little with Slack, and I hopefully
     helped you. Good to hear. After joining Slack, what happened next?
   sec: 1647
   time: '27:27'
   who: Alexey
-- header: Engaging with the course community and sharing progress publicly
 - line: I started going through the videos and engaging in the platform. I saw there
     was a leaderboard. I’m competitive and like to compete, even though you often
     say the leaderboard shouldn’t be the focus and learning should be the goal.
@@ -479,6 +484,7 @@ transcript:
   sec: 1778
   time: '29:38'
   who: Alexey
+- header: 'Content Framing: Owning Topics (ROC, Classifier Evaluation)'
 - line: 'I did hesitate at first, but climbing the leaderboard helped a lot. I started
     posting phrases like “I’m learning this and that” on ML stuff. However, I took
     a different approach: instead of saying “I’m learning this,” I tried to own what
@@ -502,6 +508,7 @@ transcript:
   sec: 1950
   time: '32:30'
   who: Alexey
+- header: 'Recruiter Outreach: LinkedIn Visibility and Meta Interview Experience'
 - line: A few months after I started sharing online and posting MLS camp content,
     recruiters reached out to me. One was from Meta. That surprised me because I was
     just learning. I wasn’t prepared for a job at Meta but wanted to try the interview
@@ -527,7 +534,7 @@ transcript:
   sec: 2072
   time: '34:32'
   who: Pastor
-- header: Using LinkedIn and social media for career growth and interview opportunities
+- header: 'Handling Critique: Social Media Feedback and Community Engagement'
 - line: Thanks for sharing. The way it works on LinkedIn is that when you post, some
     followers or people following the same hashtags interact. If I like your post,
     my followers will see that I liked it. They may follow you, and when you publish
@@ -623,7 +630,7 @@ transcript:
   sec: 2406
   time: '40:06'
   who: Alexey
-- header: Building reputation, structuring learning, and leveraging course projects
+- header: 'Portfolio Building: Notes, Notion, and Structured Content Workflow'
 - line: Yeah. Once I built my reputation, it became easier to get customers. Outside
     of Upwork, it was hard to find clients. After the pandemic, many lost clients
     and jobs became scarce, so I realized I needed to shift focus.
@@ -698,6 +705,7 @@ transcript:
   sec: 2843
   time: '47:23'
   who: Alexey
+- header: 'Capstone Projects: Healthcare Datasets, Dockerized Models, and AWS Deployment'
 - line: Yes. I still share those projects whenever recruiters ask for proof of work
     or when I have projects needing examples. What stood out is that the projects
     include deployment, step by step, on AWS. That positions you as a cloud expert
@@ -731,7 +739,8 @@ transcript:
   sec: 3018
   time: '50:18'
   who: Alexey
-- header: Volunteering and mentoring with DeepLearning.AI and Stanford Coding Place
+- header: 'Community Contribution: Mentoring with DeepLearning.AI and Stanford Coding
+    Place'
 - line: When I started posting, I got feedback and followers on LinkedIn and X. I
     engaged with people and platforms like DeepLearning.AI, becoming a mentor for
     their courses and testing content. I also volunteered with Coding Place, a Stanford
@@ -791,8 +800,7 @@ transcript:
   sec: 3377
   time: '56:17'
   who: Pastor
-- header: Managing time and staying productive while studying medicine and machine
-    learning
+- header: 'Time Management: Productivity Strategies for Medical Students and ML Learners'
 - line: 'Thank you. We should wrap up soon. Here’s a question: medical education is
     demanding. How did you find time to learn and work on machine learning? You partly
     answered this; maybe you can expand before we finish.'
@@ -830,6 +838,7 @@ transcript:
   sec: 3593
   time: '59:53'
   who: Alexey
+- header: 'Final Reflections: Consistency, Career Next Steps, and Motivation'
 - line: Exactly. It forced me to be productive and follow the best principles. Sometimes
     I got tired, but being consistent is what pays off.
   sec: 3600

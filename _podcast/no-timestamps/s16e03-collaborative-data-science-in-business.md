@@ -16,6 +16,7 @@ short: Collaborative Data Science in Business
 title: 'MLOps & Data Product Operating Model: Prioritization, A/B Testing & Model
   Monitoring'
 transcript:
+- header: Episode introduction & guest Ioannis Mesionis (EasyJet lead data scientist)
 - line: This week, we'll talk about collaborative data science in business. We have
     a special guest today, Ioannis. Ioannis is a lead data scientist at EasyJet, if
     you’ve heard about this airline – I certainly have because I used it a couple
@@ -32,7 +33,8 @@ transcript:
   sec: 150
   time: '2:30'
   who: Ioannis
-- header: Ioannis’ background
+- header: Career origin & early projects (mathematics degree, master's, internship
+    model)
 - line: Before we go into our main topic of business and data science, let's start
     with your background. Can you tell us about your career journey so far?
   sec: 154
@@ -130,7 +132,7 @@ transcript:
   sec: 440
   time: '7:20'
   who: Ioannis
-- header: Ioannis’ role as Lead Data Scientist
+- header: 'Lead Data Scientist role: partnering with Digital Customer & Marketing'
 - line: Yeah. Anyways, what do you do as a lead data scientist?
   sec: 443
   time: '7:23'
@@ -154,6 +156,7 @@ transcript:
   sec: 489
   time: '8:09'
   who: Alexey
+- header: 'Stakeholder collaboration: weekly embedded meetings and observation'
 - line: It's a great question. Usually, one of the things that I love about EasyJet
     is that it's a really friendly environment. You can think of it as me having a
     close collaboration in terms of meetings, sitting with them during the business
@@ -222,7 +225,7 @@ transcript:
   sec: 633
   time: '10:33'
   who: Ioannis
-- header: The importance of having business knowledge
+- header: 'Business domain knowledge: PPC, SEO, keywords and conversion optimization'
 - line: I’ve heard the term “digital department” [from you] many times but to be honest,
     I have no idea what it actually means. It probably means different things at different
     companies, right? [Ioannis agrees] because different companies need to do different
@@ -280,7 +283,7 @@ transcript:
   sec: 838
   time: '13:58'
   who: Ioannis
-- header: Getting projects to production
+- header: 'Operating model for data products: four-phase funnel and accountability'
 - line: In addition to communicating with stakeholders, I think you mentioned other
     things – you make sure that projects reach production. What does that mean for
     you? Okay, you first talked with the stakeholders, you understood that these are
@@ -306,6 +309,8 @@ transcript:
   sec: 917
   time: '15:17'
   who: Alexey
+- header: 'Project intake & prioritization: "single front door" and cross-functional
+    kickoff'
 - line: Yes, the operating model that we have, I think is one of the best things that
     we have created in EasyJet. I had a speech about that at the MLOps Summit. The
     operating model consists of different stages – I think it's four phases, if you
@@ -342,6 +347,7 @@ transcript:
   sec: 923
   time: '15:23'
   who: Ioannis
+- header: 'Definition of Done: template, KPIs, success criteria and fail‑fast checks'
 - line: A large document?
   sec: 1057
   time: '17:37'
@@ -433,7 +439,7 @@ transcript:
   sec: 1203
   time: '20:03'
   who: Ioannis
-- header: The inception phase
+- header: 'Inception & EDA: data access, GDPR considerations and feasibility assessment'
 - line: At which stage do you actually…? You said that this is when data science kicks
     in. Is this the stage when you think, “Do I even need machine learning here or
     is it more like an analytical project?”
@@ -448,6 +454,7 @@ transcript:
   sec: 1271
   time: '21:11'
   who: Alexey
+- header: 'Data science vs analytics: choosing technical approach and leads'
 - line: As soon as we kick off the inception phase, this is where the data scientists
     and analysts come together, and we brainstorm about the solution – we discuss
     the “how”. At this point, we understand whether this is a data science project
@@ -486,7 +493,7 @@ transcript:
   sec: 1347
   time: '22:27'
   who: Ioannis
-- header: Agile practices
+- header: 'Research & development: modeling work, sprint planning and Kanban usage'
 - line: So what's the next step? Or is it different for different projects?
   sec: 1368
   time: '22:48'
@@ -533,7 +540,8 @@ transcript:
   sec: 1513
   time: '25:13'
   who: Ioannis
-- header: The pilot phase
+- header: 'Pilot & A/B testing: validating models against baseline KPIs and feedback
+    loops'
 - line: After the R&D phase, is there anything else?
   sec: 1517
   time: '25:17'
@@ -580,6 +588,7 @@ transcript:
   sec: 1642
   time: '27:22'
   who: Ioannis
+- header: 'Production rollout: spectrum of production and evolving MLOps capabilities'
 - line: So those are the four steps that you mentioned. Is there a fifth one after
     the pilot? Like, the production part?
   sec: 1645
@@ -596,7 +605,8 @@ transcript:
   sec: 1652
   time: '27:32'
   who: Ioannis
-- header: Other departments at EasyJet and competitors’ business models
+- header: 'Organizational structure: domain-focused lead data scientists (scheduling,
+    ops, pricing)'
 - line: The use cases you deal with are mostly related to marketing and similar cases
     – all these campaigns.
   sec: 1698
@@ -658,7 +668,7 @@ transcript:
   sec: 1801
   time: '30:01'
   who: Ioannis
-- header: Utilizing Scrum practices in data science (the importance of MVPs)
+- header: 'Handling uncertainty in ML: MVPs, estimation practices and Kanban preference'
 - line: You already talked a little bit about Agile methodologies that you use during
     the R&D phase and I was wondering if maybe you can talk more about this? How do
     you structure your day-to-day work when it comes to working on data science projects?
@@ -745,7 +755,7 @@ transcript:
   sec: 2100
   time: '35:00'
   who: Ioannis
-- header: A typical sprint at EasyJet and other Agile practices
+- header: 'Sprint cadence: planning, stand-ups, bi‑weekly demos and stakeholder demos'
 - line: Can you maybe walk us through the entire sprint? So, the sprint starts with
     planning and I think it ends with a demo – what happens in between?
   sec: 2138
@@ -791,6 +801,7 @@ transcript:
   sec: 2262
   time: '37:42'
   who: Ioannis
+- header: 'Estimation techniques: T-shirt sizing, Planning Poker and Fibonacci points'
 - line: What does estimating look like for you? Do you use something like PlanningPoker
     or things like that?
   sec: 2297
@@ -852,6 +863,7 @@ transcript:
   sec: 2415
   time: '40:15'
   who: Ioannis
+- header: 'Stakeholder engagement strategy: invite to demos, not daily stand-ups'
 - line: When it comes to business stakeholders, I assume you don't invite them to
     your stand-ups, but you probably invite them to demos, right?
   sec: 2449
@@ -867,7 +879,8 @@ transcript:
   sec: 2461
   time: '41:01'
   who: Ioannis
-- header: Explaining results to non-technical people (the importance of soft skills)
+- header: 'Communicating technical results: simplifying concepts for non‑technical
+    audiences'
 - line: I also imagine that the business stakeholders – it could be the Head of Marketing
     or Head of Digital, or some other Head – don't necessarily know what every C-curve
     means or precision-recall and things like that. [Ioannis agrees] When it comes
@@ -931,6 +944,8 @@ transcript:
   sec: 2680
   time: '44:40'
   who: Alexey
+- header: 'Developing soft skills: practice, analogies, feedback and ChatGPT as a
+    helper'
 - line: I don't think there's an easy way. I think this comes with experience and
     just making sure that you always enhance your soft skills. One of the things that
     usually helps is thinking about all the different inner sentences that people
@@ -991,7 +1006,7 @@ transcript:
   sec: 2903
   time: '48:23'
   who: Ioannis
-- header: Ioannis’ experience with the MLOps Zoomcamp
+- header: 'MLOps Zoomcamp takeaways: motivation for hands‑on MLOps learning'
 - line: Yeah. Great. Also, I actually wanted to spend a bit of time talking about
     the MLOps Zoomcamp course, because I was…
   sec: 2918
@@ -1008,6 +1023,7 @@ transcript:
   sec: 2929
   time: '48:49'
   who: Alexey
+- header: 'MLOps tooling overview: MLflow, Prefect, Airflow and engineering exposure'
 - line: Yeah, absolutely. The thing is, as a lead data scientist, my role has become
     a little bit more managerial compared to the amount of time that I have to spend
     doing technical stuff. And if you ask me, having a bachelor of mathematics, I'm
@@ -1088,7 +1104,7 @@ transcript:
   sec: 3144
   time: '52:24'
   who: Ioannis
-- header: On Evidently
+- header: 'Model monitoring with Evidently: drift detection and integration plans'
 - line: Actually, before our conversation (before our interview) I had a chat with
     Elena from Evidently and she said, “Oh, Ioannis is coming to your podcast? Make
     sure to ask about Evidently!” [chuckles]
@@ -1119,6 +1135,7 @@ transcript:
   sec: 3283
   time: '54:43'
   who: Ioannis
+- header: 'Monitoring dashboards & alerts: Tableau quick solutions and custom emails'
 - line: Just curious – I know Evidently, right now, has its own dashboard, but what
     you do is probably based on some sort of other monitoring framework, like Grafana
     or something like that, right?
@@ -1161,7 +1178,7 @@ transcript:
   sec: 3423
   time: '57:03'
   who: Ioannis
-- header: Ioannis’ resource recommendations
+- header: 'Recommended resources: Cassie Kozyrkov (Decision Intelligence) and textbooks'
 - line: Yeah, I think we should be finishing soon. So maybe I'll ask you one thing.
     We talked a lot about communicating with business stakeholders, we also talked
     about Agile processes. We talked a little bit about MLOps. Are there any good
@@ -1234,6 +1251,7 @@ transcript:
   sec: 3636
   time: '1:00:36'
   who: Ioannis
+- header: 'Closing remarks & contact: LinkedIn follow‑ups and final thoughts'
 - line: Yeah. Thanks, Ioannis, for joining us today, and for sharing all that you
     shared with us today. Yeah, it was amazing. Thanks for finding time. And thanks,
     everyone else, too, for joining us and being active here. I think… I actually

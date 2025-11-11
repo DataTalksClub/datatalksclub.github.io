@@ -16,6 +16,8 @@ short: LLMs for Everyone
 title: 'Deploying LLMs in Production: Fine-Tuning, Retrieval & Open-Source vs API
   Tradeoffs'
 transcript:
+- header: 'Episode Introduction: LLMs for Everyone'
+- header: 'Guest Introduction: Meryem Arik and TitanML'
 - line: This week, we'll talk about ways to put LLMs (large language models) into
     production. We have a special guest today, Meryem. Meryem is a “recovering” physicist
     (very interesting) and the co-founder of TitanML. Titan ML is an LLP development
@@ -33,7 +35,7 @@ transcript:
   sec: 97
   time: '1:37'
   who: Alexey
-- header: Meryem's background
+- header: 'Career Journey: Theoretical Physics → Banking → Tech'
 - line: Before we go into our main topic of LLMs, let us start with your background.
     Can you tell us about your career journey so far?
   sec: 105
@@ -49,6 +51,7 @@ transcript:
   sec: 131
   time: '2:11'
   who: Alexey
+- header: 'Founding TitanML: pivot from computer vision to LLM deployability'
 - line: Well, mainly because I had a fantastic boss. But I left investment banking
     to join tech and tech startups. And the reason I did that is because I realized
     what I actually really, really love is building things – building products and
@@ -96,12 +99,12 @@ transcript:
   sec: 237
   time: '3:57'
   who: Meryem
-- header: The constant evolution of startups
 - line: So what's the most difficult thing – theoretical physics, investment banking,
     or being a startup co-founder?
   sec: 281
   time: '4:41'
   who: Alexey
+- header: 'Startup Realities: co-founder roles, operations, and tradeoffs'
 - line: That's a great question. I think they're just different levels of sleep-deprived.
     [chuckles] I think being a co-founder is probably the most difficult thing I've
     done. Not necessarily because any individual thing you do is difficult, but you're
@@ -147,7 +150,7 @@ transcript:
   sec: 386
   time: '6:26'
   who: Meryem
-- header: How Meryem became interested in LLMs
+- header: 'Early LLM Interest: customer-driven pivot and GPT‑3 experience'
 - line: I know we're kind of late to the party in terms of speaking about the LLM
     because, as I mentioned at the beginning, this is actually our first event ever
     about LLMs (where we explicitly talk about them). LLMs are large language models,
@@ -190,6 +193,7 @@ transcript:
   sec: 533
   time: '8:53'
   who: Alexey
+- header: 'ChatGPT Breakthrough: conversational interface and accessibility'
 - line: Yeah! And it was for us as well. We were already involved in this space, but
     there's something, you know... when we moved from GPT-3 to GPT-3.5 and you could
     have a conversation with it and it kind of felt like there was another really,
@@ -210,11 +214,11 @@ transcript:
   sec: 557
   time: '9:17'
   who: Meryem
-- header: What is an LLM (generative vs non-generative models)?
 - line: So what is an LLM? What is this thing, actually?
   sec: 619
   time: '10:19'
   who: Alexey
+- header: 'LLM Fundamentals: generative vs. non‑generative models and transformers'
 - line: Yeah. LLMs  are large language models. I would kind of distinguish large language
     models into two things – quite often we conflate these ideas. Large language models,
     as we typically talk about them, are generative models. What these are, are models
@@ -245,6 +249,7 @@ transcript:
   sec: 691
   time: '11:31'
   who: Meryem
+- header: 'Model Selection: classification tasks vs. generative tasks'
 - line: So if I need to classify the intent of a search query – for example whether
     the customer wants to buy something or just conduct research – then I would go
     with BERT, right? I would not necessarily go with a generative model because it
@@ -283,6 +288,7 @@ transcript:
   sec: 808
   time: '13:28'
   who: Alexey
+- header: 'Open‑source Model Landscape: LLaMA, FLAN‑T5, Falcon, MPT'
 - line: Yeah. There's a whole range and ecosystem of language models and they're good
     at different things. For example, there's the Google FLAN-T5 range, which is able
     to generate text. But what that's particularly good at is translation and summarization.
@@ -293,7 +299,6 @@ transcript:
   sec: 825
   time: '13:45'
   who: Meryem
-- header: Why LLMs are important
 - line: So the main advantage of LLMs is that they are better at what they do – they're
     better at generating text. Right? So why do we even care about them? Why do you
     focus on deploying these LLMs?
@@ -308,6 +313,7 @@ transcript:
   sec: 884
   time: '14:44'
   who: Alexey
+- header: 'Why LLMs Matter: handling unstructured text at scale'
 - line: Well... they are incredibly powerful when it comes to being able to work within
     our unstructured language paradigm. Most of the things that we work with as humans
     in everyday work is unstructured text, typically. We write emails, we write documents,
@@ -346,7 +352,6 @@ transcript:
   sec: 977
   time: '16:17'
   who: Meryem
-- header: Open source models vs API models
 - line: Yeah, I think the reason behind not opening them is that it can do harm in
     [the wrong people] hands, right? If they open it, then it will do more harm than
     if they keep it closed? Interesting. But still, there are models like LLaMA –
@@ -356,6 +361,7 @@ transcript:
   sec: 979
   time: '16:19'
   who: Alexey
+- header: 'Open‑source vs API Models: control, privacy, and fine‑tuning benefits'
 - line: Sure. There are a whole bunch of open source language models, and they're
     getting better and better month by month. I think only two days ago, Meta released
     LLaMA 2, which is a massively improved version from LLaMA 1, trained on 40% more
@@ -390,6 +396,7 @@ transcript:
   sec: 1116
   time: '18:36'
   who: Alexey
+- header: 'Model Drift & API Risk: hidden model changes and production impact'
 - line: 'Yeah. I had actually noticed this a while ago. I use GPT-3 and GPT-4 a lot
     and I''d noticed that it felt like it wasn''t as smart as it used to be. I put
     it down to two things: either they''d distilled it a whole bunch and  just tried
@@ -470,7 +477,7 @@ transcript:
   sec: 1392
   time: '23:12'
   who: Meryem
-- header: What TitanML does
+- header: 'TitanML Product Suite: Train, Optimized, and Takeoff server'
 - line: I kind of assumed that what you do is host open source models – I don't know
     if my assumption was wrong or right. Maybe you can tell us what you actually do
     at Titan?
@@ -508,6 +515,7 @@ transcript:
   sec: 1523
   time: '25:23'
   who: Alexey
+- header: 'Serving Challenges: model size, compression, and inference optimization'
 - line: Yeah, they're really large. That's why we got into the space originally –
     we were working on the compression of these deep learning models. They're really
     difficult to serve, so there's a huge amount of value that can be added by just
@@ -518,7 +526,6 @@ transcript:
   sec: 1526
   time: '25:26'
   who: Meryem
-- header: How fine-tuning a model helps in LLM use cases
 - line: Okay. I have a question here about use cases. I'm also interested in learning
     more about fine-tuning. I was wondering, maybe you can give us a few use cases
     and how exactly fine-tuning helps there? What does fine-tuning do for the cases?
@@ -527,6 +534,7 @@ transcript:
   sec: 1563
   time: '26:03'
   who: Alexey
+- header: 'Fine‑tuning Purpose: specialization, domain adaptation, and tone'
 - line: Sure. When you take a model off the shelf, what it has and what it's very,
     very good at, is general language knowledge and understanding. Your model will
     speak English or speak whatever language it was trained in, and it'll have reasonably
@@ -621,7 +629,6 @@ transcript:
   sec: 1874
   time: '31:14'
   who: Meryem
-- header: Fine-tuning generative models
 - line: How does this process of fine-tuning look for generative models? Because for
     these BERT-style models, as we discussed, it's more like you have an input set
     of data with labels, “Here you go. Adjust your weights based on that.” But for
@@ -629,6 +636,7 @@ transcript:
   sec: 1877
   time: '31:17'
   who: Alexey
+- header: 'Fine‑tuning Generative Models: data formats and end‑task considerations'
 - line: Yeah. This kind of changes depending on the end task that you want it to get
     it to do. But in cases that we've done, you can literally just have strings of
     documents, you can just have raw text that you can fine-tune on. So you don't
@@ -655,7 +663,6 @@ transcript:
   sec: 1932
   time: '32:12'
   who: Meryem
-- header: How generative models change the landscape of human work
 - line: A few days ago, I read an article about a copywriter who lost her job because
     of ChatGPT. At the beginning, instead of getting 10 articles per week (or whatever
     the actual number was), she would get eight, then six, then four, then two...
@@ -667,6 +674,7 @@ transcript:
   sec: 1984
   time: '33:04'
   who: Alexey
+- header: 'Workforce Impact: productivity gains and job disruption scenarios'
 - line: Wow. It's a really strange time. One of the industries that is expected to
     be most impacted by this is actually engineering, which typically has been very,
     very safe. Someone was saying to me the other week that engineers are actually
@@ -793,7 +801,7 @@ transcript:
   sec: 2428
   time: '40:28'
   who: Meryem
-- header: How to adjust models over time
+- header: 'Dealing with Changing Knowledge: retrieval over continuous retraining'
 - line: So we're getting a bit too philosophical and we actually have a few questions.
     One of them is related to the topic of fine-tuning. Here, the question is about
     creating a chatbot with LLMs. Let's say you have 1 million conversations and then
@@ -817,6 +825,7 @@ transcript:
   sec: 2521
   time: '42:01'
   who: Alexey
+- header: 'Grounding Answers: indexing docs and retrieval‑augmented responses'
 - line: Yeah, exactly, a huge knowledge base. And I think most companies have those
     kinds of knowledge bases, whether in Confluence, or Notion, etc. What you can
     do is embed all of that documentation and reinvent it every single time it changes
@@ -891,6 +900,7 @@ transcript:
   sec: 2782
   time: '46:22'
   who: Alexey
+- header: 'Retrieval Patterns: injecting passages, summarizers, and grounding layers'
 - line: That's exactly – that's one way that you could do it. You can just, essentially,
     inject relevant parts into a prompt. You can say something like, “Answer this
     query. You may use the information from these documents or these sections.” And
@@ -905,13 +915,13 @@ transcript:
   sec: 2802
   time: '46:42'
   who: Meryem
-- header: Vector databases and LLMs
 - line: The next question we have is about a vector database. Before we talk about
     this, maybe you can tell us what these vector databases are and how they are relevant
     to LLMs.
   sec: 2867
   time: '47:47'
   who: Alexey
+- header: 'Vector Databases Explained: embeddings, indexing, and semantic search'
 - line: Yeah, so these vector databases are very, very similar to the information
     retrieval systems that I was talking about. It's essentially a way of indexing
     this unstructured data and being able to search it through natural language. You
@@ -948,7 +958,7 @@ transcript:
   sec: 2970
   time: '49:30'
   who: Meryem
-- header: How to choose an open source LLM or an API
+- header: 'Prototyping vs Production: when to use GPT‑3.5/4 APIs vs open‑source LLMs'
 - line: For this task, do you know if we should go with an open source LLM or go with
     GPT-3.5 or 4? Are there any pros and cons?
   sec: 2984
@@ -979,6 +989,7 @@ transcript:
   sec: 3074
   time: '51:14'
   who: Alexey
+- header: 'Latency & Cost Tradeoffs: self‑hosting performance and hardware choices'
 - line: I mean, they are really fast. They're really, really fast, because they're
     hosted on very expensive hardware. If you were to host your model on the same
     hardware, using good techniques – using something like the Titan Takeoff server
@@ -1012,7 +1023,7 @@ transcript:
   sec: 3177
   time: '52:57'
   who: Meryem
-- header: Measuring input data quality
+- header: 'Data Quality Metrics: gold‑standard examples and output‑driven evaluation'
 - line: We have a few interesting questions from Tara. The first question he's asking
     is, “How can you measure if the data you feed into an LLM is good enough?” Do
     you even think about these things or are you just saying, “This is the data I
@@ -1043,6 +1054,7 @@ transcript:
   sec: 3312
   time: '55:12'
   who: Alexey
+- header: 'Dataset Expansion: LLM‑assisted augmentation for training data'
 - line: Yeah, it's super similar. A very basic example is – if I have a dataset where
     one example is “the pig is pink,” I might get my LLM to say “the cat is black”.
     It just kind of switches words out, but it's semantically similar. Another way
@@ -1057,6 +1069,8 @@ transcript:
   sec: 3332
   time: '55:32'
   who: Meryem
+- header: 'Evaluation & Benchmarking: classification vs generative metrics and human
+    review'
 - line: You mentioned good performance. This is another question from Taras, “How
     do you actually benchmark in LLMs? How can you tell that performance is actually
     good?” You need to have an objective way of saying that. Of course, you can subjectively
@@ -1111,7 +1125,7 @@ transcript:
   sec: 3547
   time: '59:07'
   who: Meryem
-- header: Meryem's resource recommendations
+- header: 'Learning Resources: Hugging Face, Cohere LLM University, community content'
 - line: To help eliminate them in the future. It's kind of an interesting dilemma.
     Anyway, we should be wrapping up. Maybe before we finish – is there any good resource,
     like a book or a course or a blog, that you can recommend for those who want to
@@ -1145,6 +1159,7 @@ transcript:
   sec: 3617
   time: '1:00:17'
   who: Meryem
+- header: Episode Close and Final Remarks
 - line: Yeah. Have a great rest of your week. Bye, everyone!
   sec: 3638
   time: '1:00:38'

@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/5IM2Des1sjVIwrvB3dGoJN
   apple: https://podcasts.apple.com/us/podcast/mastering-algorithms-and-data-structures-marcello-la/id1541710331?i=1000534241523
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Intro: Marcello La Rocca and book announcement'
 - line: This week, we'll talk about algorithms. We have a special guest, Marcello.
     Marcello is a senior software engineer at Tundra. And he is the author of "Advanced
     Algorithms and Data Structures". I think it was released recently, right? It's
@@ -29,12 +31,12 @@ transcript:
   sec: 172
   time: '2:52'
   who: Marcello
-- header: Marcello’s background
 - line: My pleasure as well. Before we go into our main topic of algorithms, let's
     start with your background. Can you tell us about your career journey so far?
   sec: 179
   time: '2:59'
   who: Alexey
+- header: 'Career Path: web development to Twitter, Microsoft, Apple, Tundra'
 - line: I've worked as a web developer and on data infrastructure. I started with
     web development. Then, I worked for five years in a government-owned company in
     Italy. Then I started working remotely with startups and then moved to Ireland
@@ -52,11 +54,11 @@ transcript:
   sec: 252
   time: '4:12'
   who: Marcello
-- header: Learning algorithms and data structures
 - line: How should people approach learning algorithms?
   sec: 291
   time: '4:51'
   who: Alexey
+- header: 'Learning Philosophy: focus on applications over formal proofs'
 - line: It can be learned at a very different level, depending on how much in-depth
     you need to learn. When I started my studies, I was suggested that it's important
     not to focus on details. You need to learn that there is such an algorithm, when
@@ -77,6 +79,7 @@ transcript:
   sec: 407
   time: '6:47'
   who: Alexey
+- header: 'Anecdote: mathematical proof vs practical innovation'
 - line: Yes. There is also a funny story about this. Google was created by Page and
     Brin. When they started their studies, they talked to an Italian researcher about
     this idea of an intelligent crawler. It did the searching in a different way than
@@ -89,12 +92,12 @@ transcript:
   sec: 450
   time: '7:30'
   who: Marcello
-- header: Resources for learning algorithms and data structures
 - line: So when we learn algorithms we should focus more on applications than proofs.
     Do you know any good references for basic algorithms, like sorting?
   sec: 540
   time: '9:00'
   who: Alexey
+- header: 'Recommended Resources: MIT course, Tim Roughgarden, Grokking Algorithms'
 - line: There are a lot of resources online — courses and websites. There is a series
     of videos from MIT, it's very good. There is Tim Roughgarden's course on Coursera.
     It explains things clearly and it's as simple as it gets. If you prefer books,
@@ -103,7 +106,6 @@ transcript:
   sec: 563
   time: '9:23'
   who: Marcello
-- header: Most important data structures
 - line: In your opinion, what are the most important algorithms and data structures
     that we should know? By "we", I mean developers, data engineers, and data scientists.
     So, for anyone who programs, what kind of algorithms data structures they should
@@ -111,6 +113,7 @@ transcript:
   sec: 608
   time: '10:08'
   who: Alexey
+- header: 'Core Data Structures: arrays, lists, sets, dictionaries, stacks, queues'
 - line: Importance is relative. It depends on your field and what you're actually
     doing. The basic data structures can be the most important. They are the ones
     that can make a greater impact. Misusing an array or a list can hurt the performance
@@ -141,7 +144,7 @@ transcript:
   sec: 732
   time: '12:12'
   who: Marcello
-- header: Learning the abstractions
+- header: 'Abstraction vs Implementation: APIs, performance trade-offs'
 - line: Let's say if we use Python, it comes with a set of different data structures.
     So knowing — at least having some idea — how they are implemented internally is
     useful. Like, if you want to add something, how does it work inside? If you want
@@ -182,7 +185,6 @@ transcript:
   sec: 873
   time: '14:33'
   who: Marcello
-- header: Learning algorithms if they aren’t needed at work
 - line: You mentioned that you worked as a web developer at some point. I heard this
     from many web developers, and also from data scientists as well. Let's talk about
     web developers. These days, they do simple things — they create simple web applications.
@@ -196,6 +198,7 @@ transcript:
   sec: 945
   time: '15:45'
   who: Alexey
+- header: 'Practicing Algorithms Outside Work: competitions and side projects'
 - line: First, I'd like to challenge the assumption that you don't need algorithms
     for that. If you as a web developer, or a data analyst, or a data scientist, you
     use algorithms more than you think. Even the basic one that we mentioned earlier
@@ -235,6 +238,7 @@ transcript:
   sec: 1147
   time: '19:07'
   who: Alexey
+- header: 'Using Libraries & Profiling: spotting algorithmic wins in production'
 - line: Well, it's not common that at work you need to implement these algorithms
     from scratch. But you can learn how to use them at work. One thing you can do
     — if you see that there is a bottleneck or see some room for improvement when
@@ -245,7 +249,7 @@ transcript:
   sec: 1154
   time: '19:14'
   who: Marcello
-- header: Common mistakes when using wrong data structures
+- header: 'Performance Pitfalls: containment checks and wrong list usage'
 - line: One mistake I often notice in code is people accidentally use a list for checking
     for containment instead of using a set. Simple things like that are very common
     for web developers and for data scientists. This is a very common operation. You
@@ -263,7 +267,6 @@ transcript:
   sec: 1258
   time: '20:58'
   who: Marcello
-- header: Importance of data structures for data scientists
 - line: Coming back to the question, "How important are these data structures for
     data scientists?" I think we just mentioned this particular use case like checking
     for containment. And as a data scientist, I do this operation very often. In your
@@ -272,6 +275,7 @@ transcript:
   sec: 1298
   time: '21:38'
   who: Alexey
+- header: 'Data-Science Use Cases: Bloom filters and nearest-neighbour search'
 - line: Whenever you are working on huge data sets, even the slightest improvement
     can make a difference in time. And if you have an order of magnitude improvement,
     that makes a tremendous difference. It can be speeding up searches — using Bloom
@@ -281,7 +285,6 @@ transcript:
   sec: 1332
   time: '22:12'
   who: Marcello
-- header: Marcello’s book - Advanced Algorithms and Data Structures
 - line: You mentioned bloom filters and approximate neighbour search. This is actually
     something I wanted to talk to you about. You cover them in your book. So maybe
     let's talk a bit about your book. First of all, what is there in your book? Can
@@ -289,6 +292,7 @@ transcript:
   sec: 1390
   time: '23:10'
   who: Alexey
+- header: 'Book Overview: bridging theory and practical use cases'
 - line: 'The idea for writing this book was to provide a bridge between theoretical
     knowledge on algorithms in textbooks and more practical knowledge from hands-on
     books. My book covers both the theory and more practical aspects of how to use
@@ -301,6 +305,7 @@ transcript:
   sec: 1419
   time: '23:39'
   who: Marcello
+- header: 'Book Structure: basics, nearest-neighbour & MapReduce, graphs & optimization'
 - line: There are 18 chapters and 3 parts. The first part and the appendices cover
     the basic data structures — they cover the ground. Then we go into more complicated
     algorithms. In the second part, we cover nearest neighbour search, machine learning
@@ -316,6 +321,7 @@ transcript:
   sec: 1579
   time: '26:19'
   who: Alexey
+- header: 'Prerequisites & Format: appendices, pseudocode, who the book is for'
 - line: We try to cover the basics in the appendices in the first few chapters. You
     shouldn't need anything more. Of course, if you had "Algorithms 101", or if you
     have previous experience with the topic, you're in better shape.
@@ -337,6 +343,7 @@ transcript:
   sec: 1658
   time: '27:38'
   who: Marcello
+- header: 'Code Repository: implementations in Java, JavaScript, Python (and more)'
 - line: I know that you also have a GitHub repo, where all these algorithms are implemented
     in every possible language.
   sec: 1717
@@ -364,7 +371,6 @@ transcript:
   sec: 1767
   time: '29:27'
   who: Marcello
-- header: Bloom filters
 - line: When I look at the table of contents, I got interested in Bloom filters and
     approximate nearest neighbours, and coincidentally, this is what we already talked
     about previously. I thought maybe we could cover a bit these data structures a
@@ -372,6 +378,7 @@ transcript:
   sec: 1783
   time: '29:43'
   who: Alexey
+- header: 'Bloom Filter Explained: memory-efficient containment with false positives'
 - line: Let's start with Bloom filters. So what problem do they solve? And why do
     we need them?
   sec: 1809
@@ -418,7 +425,7 @@ transcript:
   sec: 2043
   time: '34:03'
   who: Alexey
-- header: Where Bloom filters are useful
+- header: 'Bloom Filter Applications: crawlers, routing tables, marketing/adtech'
 - line: Sometimes it's not a big deal. Bloom filters are used in many, many places.
     For example, in crawlers to check if a page was already visited — by looking at
     the URL, or even at the content of the page. They were used in spell checkers,
@@ -431,6 +438,7 @@ transcript:
   sec: 2083
   time: '34:43'
   who: Marcello
+- header: 'Adtech Example: device IDs and returning-user targeting with Bloom filters'
 - line: Maybe I can also tell about a use case I had a couple of years ago at the
     previous company. The company is adtech company. They're doing advertisements.
     They're selling advertisements on mobile devices — all these annoying ads that
@@ -471,7 +479,7 @@ transcript:
   sec: 2344
   time: '39:04'
   who: Marcello
-- header: Approximate nearest neighbours
+- header: 'Nearest-Neighbour Need: KD-tree limits and high-dimensional data challenges'
 - line: What about search trees? You have another part of your book where you talk
     about approximate nearest neighbours. Maybe we can talk about this use case as
     well. Why do we need approximate search trees for approximate nearest neighbours?
@@ -505,6 +513,7 @@ transcript:
   sec: 2497
   time: '41:37'
   who: Marcello
+- header: 'Approximate Nearest-Neighbour: R-trees, SS-trees for geolocation & logistics'
 - line: In the book, we go through a credit risk example to whet the appetite, to
     explain the basics and explain why nearest neighbour search is important. Then
     we go through a real case of using geolocation for a delivery system of an online
@@ -524,7 +533,7 @@ transcript:
   sec: 2624
   time: '43:44'
   who: Marcello
-- header: Searching for most similar vectors
+- header: 'Vector Similarity: embeddings, recommender systems, Faiss usage'
 - line: I have an example in my mind, but I'm not sure if this is a great example
     for search trees. I work at OLX. OLX is an online marketplace and we have a recommender
     system there. In the recommender system, we want to recommend to a person things
@@ -560,7 +569,7 @@ transcript:
   sec: 2831
   time: '47:11'
   who: Marcello
-- header: Knowing frameworks vs knowing internals of data structures
+- header: 'Frameworks vs Internals: when to trust libraries and when to inspect them'
 - line: We have a question that may be quite related to the point I just brought up
     — about using a library and not necessarily knowing what is inside. It's a question
     from WingCode. Is it necessary to know data structures? Or knowing how to use
@@ -582,7 +591,7 @@ transcript:
   sec: 2903
   time: '48:23'
   who: Marcello
-- header: Serializing Bloom filters
+- header: 'Cross-language Compatibility: serializing Bloom filters and hash seeds'
 - line: I was talking about this use case of an adtech company. We ended up implementing
     Bloom filters ourselves. We needed to have exactly the same implementation for
     multiple languages — for Go, for Java, and for JavaScript. And for Python as well
@@ -621,7 +630,7 @@ transcript:
   sec: 3143
   time: '52:23'
   who: Alexey
-- header: Algorithmic problems in job interviews
+- header: 'Tech Interviews: algorithm emphasis, balanced assessment approaches'
 - line: What do you think about job interviews? In job interviews, companies seem
     to be really obsessed with algorithms. You worked at Twitter, at Microsoft as
     well. I have an impression that if you want to get into these companies, you really
@@ -672,7 +681,6 @@ transcript:
   sec: 3392
   time: '56:32'
   who: Alexey
-- header: Important data structures for data scientists and data engineers
 - line: I didn't notice one interesting question. There are quite a lot of algorithms
     and data structures. For data engineers, data scientists, and everyone else who
     works with machine learning, what are the most needed ones? We talked about arrays
@@ -706,7 +714,7 @@ transcript:
   sec: 3514
   time: '58:34'
   who: Marcello
-- header: Learning by doing
+- header: 'Hands-on Learning: LeetCode, contests, open-source projects'
 - line: Maybe the last one. Can you suggest good resources for building projects to
     learn data structures and algorithms? To learn them by doing — by using them?
     I think already you suggested taking part in online competitions, like topcoder,
@@ -724,7 +732,7 @@ transcript:
   sec: 3584
   time: '59:44'
   who: Marcello
-- header: Importance of compiled languages for data scientists
+- header: 'Language Trade-offs: Python vs C++ and using Cython for performance'
 - line: Thank you. Another question popped up. Do you recommend to data scientists,
     interested in data structures and algorithms, to go into compiled languages like
     C++ or Java, rather than use Python? Is there any advantage going this way?
@@ -749,7 +757,7 @@ transcript:
   sec: 3745
   time: '1:02:25'
   who: Alexey
-- header: Wrapping up
+- header: 'Closing: contact info and book links'
 - line: I guess that's all for today. How can people find you?
   sec: 3781
   time: '1:03:01'

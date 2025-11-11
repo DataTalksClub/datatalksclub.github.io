@@ -15,7 +15,8 @@ season: 19
 short: Human-Centered AI for Disordered Speech Recognition
 title: 'Human-Centered ASR for Disordered Speech: Data, Multimodal Cues & Personalization'
 transcript:
-- header: Background and career journey of Katarzyna
+- header: 'Episode Introduction: Human‑Centered AI for Disordered Speech'
+- header: Guest Introduction & Career Highlights (Katarzyna Foremniak)
 - line: This week, we'll talk about human-centered AI for disordered speech recognition.
     We have a special guest today—Katarzyna Foremniak is a computational linguist
     with over ten years of experience in NLP and speech recognition. She has developed
@@ -39,7 +40,7 @@ transcript:
   sec: 536
   time: '8:56'
   who: Katarzyna
-- header: Transition from linguistics to computational linguistics
+- header: 'From Linguistics to Computational Linguistics: Transition & Skills'
 - line: Before we dive into our main topic of human-centered AI and speech recognition,
     let’s start with your background. I think GPT already provided a lot of good insights,
     but could you tell us more about your career journey?
@@ -86,7 +87,6 @@ transcript:
   sec: 681
   time: '11:21'
   who: Katarzyna
-- header: Merging linguistics and computer science
 - line: I’m curious about how difficult it was for you to transition from linguist
     to computational linguist. Linguistics, as I understand it, is less mathematical
     than other disciplines.
@@ -109,6 +109,7 @@ transcript:
   sec: 745
   time: '12:25'
   who: Katarzyna
+- header: 'Linguistics Meets Computer Science: Data‑driven Approaches'
 - line: You’ve touched on how important the use of data is. Is it safe to say that
     computational linguistics merges linguistics and computer science?
   sec: 802
@@ -145,7 +146,7 @@ transcript:
   sec: 904
   time: '15:04'
   who: Katarzyna
-- header: Understanding phonetics and morpho-syntax
+- header: 'Phonetics & Morpho‑syntax Explained: Core Concepts for ASR'
 - line: In your biography, summarized by GPT, it mentions that you specialize in phonetics,
     morpho-syntax, and sentiment analysis. I’m familiar with sentiment analysis, but
     could you explain what phonetics and morpho-syntax are?
@@ -161,7 +162,6 @@ transcript:
   sec: 947
   time: '15:47'
   who: Katarzyna
-- header: Exploring morpho-syntax and its relation to grammar
 - line: So we have linguistics, and within linguistics, we have morphology and phonetics,
     right?
   sec: 1048
@@ -225,7 +225,7 @@ transcript:
   sec: 1203
   time: '20:03'
   who: Katarzyna
-- header: Connection between phonetics and speech disorders
+- header: 'Phonetics and Speech Disorders: Articulation, Fluency, Voice Quality'
 - line: When it comes to phonetics, it’s about how we pronounce words, right?
   sec: 1233
   time: '20:33'
@@ -248,6 +248,7 @@ transcript:
   sec: 1251
   time: '20:51'
   who: Katarzyna
+- header: 'Accents vs Speech Disorders: Variation, Identity, and Comprehension'
 - line: Did I understand correctly that an accent can be seen as a speech disorder,
     or is it simply a normal variation?
   sec: 1399
@@ -260,7 +261,7 @@ transcript:
   sec: 1414
   time: '23:34'
   who: Katarzyna
-- header: Improvement of voice recognition systems
+- header: 'ASR Progress: Modern Models (Whisper) and Improved Accent Handling'
 - line: That’s interesting! I remember that even five years ago, many voice recognition
     systems struggled to transcribe what I said accurately. For instance, YouTube's
     transcription was quite poor in the beginning. But now, with systems like Whisper,
@@ -300,7 +301,7 @@ transcript:
   sec: 1626
   time: '27:06'
   who: Katarzyna
-- header: Overview of speech recognition technology
+- header: 'ASR Fundamentals: Standard Speech Datasets and Reference Speech'
 - line: Can we talk about speech recognition? How does it work in general? Before
     diving into the differences between typical and atypical speech recognition, what’s
     the proper term to use for standard speech?
@@ -344,7 +345,7 @@ transcript:
   sec: 1812
   time: '30:12'
   who: Alexey
-- header: Challenges of ASR systems with atypical speech
+- header: 'ASR Limitations with Atypical Speech: Training/Deployment Gaps'
 - line: Absolutely. This misalignment between training and real-world usage can lead
     to significant recognition challenges.
   sec: 1824
@@ -354,7 +355,7 @@ transcript:
   sec: 1833
   time: '30:33'
   who: Alexey
-- header: Strategies for improving recognition of disordered speech
+- header: 'Strategies for Disordered Speech Recognition: Specialized Datasets & Adaptation'
 - line: There are several strategies we can implement. One approach is to collect
     and curate specialized datasets that include speech from individuals with various
     disorders, using this as a subset in training. We can also employ transfer learning
@@ -367,7 +368,7 @@ transcript:
   sec: 2222
   time: '37:02'
   who: Alexey
-- header: Data augmentation for training models
+- header: 'Data Augmentation for Disordered Speech: Synthetic Variations'
 - line: If data collection is challenging, we can utilize data augmentation to expand
     the training dataset by artificially simulating disordered speech. For example,
     if we know specific sounds or consonant clusters are problematic, we can create
@@ -379,12 +380,13 @@ transcript:
   sec: 2251
   time: '37:31'
   who: Alexey
+- header: 'Multimodal ASR: Integrating Lip‑reading and Visual Cues'
 - line: Another strategy is using multimodal outputs. While we learn from audio, adding
     visual data—such as lip reading or gesture recognition—
   sec: 2253
   time: '37:33'
   who: Katarzyna
-- header: Transfer learning in speech recognition
+- header: 'Transfer Learning for ASR: Fine‑tuning with Limited Data'
 - line: Yeah, not yet, of course. But I've worked with images, and in a typical situation,
     you have an ImageNet neural network trained on ImageNet. Then you have your own
     data, which could be tractors or anything else not included in ImageNet. You might
@@ -396,6 +398,7 @@ transcript:
   sec: 2417
   time: '40:17'
   who: Alexey
+- header: 'Data Collection Challenges: GDPR, Clinical Data, Language Coverage'
 - line: You mentioned data collection, and I said it’s not always easy because of
     the variety of speech disorders. For people with motor speech disorders, it can
     be challenging to organize the entire collection process. Also, considering we’re
@@ -414,7 +417,7 @@ transcript:
   sec: 2529
   time: '42:09'
   who: Katarzyna
-- header: Challenges of collecting data for various speech disorders
+- header: 'Language & Dialect Effects: Bilingualism and Disorder Variability'
 - line: You need to account for each subset. For instance, stammering is a relatively
     common disorder. It might not be too difficult to gather data from American English
     speakers who stammer. But if we look at a particular dialect or a less common
@@ -443,7 +446,7 @@ transcript:
   sec: 2633
   time: '43:53'
   who: Alexey
-- header: Stammering and its connection to fluency issues
+- header: 'Stammering & Fluency Issues: Characteristics and Recognition Needs'
 - line: Fluency issues are normal human behaviors, but stammering should be diagnosed
     as it differs from what most of us experience. Fluency is more common when using
     a foreign language; we often need time to find the right words.
@@ -462,7 +465,7 @@ transcript:
   sec: 2688
   time: '44:48'
   who: Katarzyna
-- header: Polish consonant combinations and pronunciation challenges
+- header: 'Pronunciation Challenges: Polish Consonant Clusters and Phonetics'
 - line: Polish does have many challenging consonant combinations. I recall a funny
     story from Krakow about a central street called "Czarnowiejska." It's packed with
     consonants, and it’s always amusing to see a British person trying to pronounce
@@ -475,7 +478,7 @@ transcript:
   sec: 2751
   time: '45:51'
   who: Katarzyna
-- header: Use of Amazon Transcribe for generating podcast transcripts
+- header: 'Practical Transcription Workflow: Amazon Transcribe + LLM Post‑processing'
 - line: By the way, I use automatic speech recognition for podcast episodes after
     recording. I utilize Amazon Transcribe, which is supposed to recognize English.
   sec: 2777
@@ -493,14 +496,13 @@ transcript:
   sec: 2794
   time: '46:34'
   who: Alexey
-- header: Role of language models in speech recognition
+- header: 'Contextual Language Models in ASR: Meaning Preservation vs WER'
 - line: Absolutely. LMs can assist at various levels. Adding context is crucial for
     recognition and transcription. We should focus more on meaning preservation rather
     than traditional metrics like word error rate or accuracy.
   sec: 2848
   time: '47:28'
   who: Katarzyna
-- header: Contextual understanding in speech recognition
 - line: That makes sense. In my case, I had an interview about Scikit-learn. Many
     in the machine learning community know it, but the speech recognition system struggled
     to identify it correctly, especially since I was speaking with a French accent.
@@ -515,7 +517,7 @@ transcript:
   sec: 3029
   time: '50:29'
   who: Katarzyna
-- header: How voice recognition systems analyze utterances
+- header: 'Utterance Analysis in ASR: Phonemes, Words, and Contextual Prediction'
 - line: I suppose it’s about understanding how voice recognition systems operate.
     They analyze utterances, right?
   sec: 3087
@@ -548,7 +550,7 @@ transcript:
   sec: 3151
   time: '52:31'
   who: Alexey
-- header: Personalization of ASR models for individuals
+- header: 'Personalized ASR: User Adaptation, Fine‑tuning, and On‑device Setup'
 - line: I guess with personalization, the way it works is I first need to train it
     as a user. It asks me, "Hey, can you pronounce this sentence?" I record myself
     saying the sentence, and then it asks me to pronounce something else. I do this
@@ -587,7 +589,6 @@ transcript:
   sec: 3339
   time: '55:39'
   who: Alexey
-- header: Language disorders and their impact on communication
 - line: How does it work? For example, if I have a disorder, I cannot pronounce a
     specific word?
   sec: 3385
@@ -639,7 +640,7 @@ transcript:
   sec: 3478
   time: '57:58'
   who: Alexey
-- header: Applications of speech recognition technology
+- header: 'Assistive Applications: Communication Tools for People with Disorders'
 - line: Of course, in cars. But that wouldn’t be my first answer for people with speech
     disorders. It can be used as a communication tool because sometimes it’s hard
     for humans to understand atypical speech. A pre-trained, personalized model can
@@ -679,6 +680,7 @@ transcript:
   sec: 3598
   time: '59:58'
   who: Katarzyna
+- header: 'Model Size & Deployment Constraints: Mobile and Edge Considerations'
 - line: Are these models heavy? Because especially when it comes to personalized models
     and fine-tuning—if we talk about mobile devices, then these apps need to run on
     devices, and not everyone has the latest iPhone Pro. They have to be conservative
@@ -686,7 +688,6 @@ transcript:
   sec: 3602
   time: '1:00:02'
   who: Alexey
-- header: Challenges of personalized and universal models
 - line: It's a challenge. One is creating a personalized model for a person—that's
     quite doable. But creating one that can be universal for many speech disorders
     makes things much more complicated. We’ll probably include some readings in the
@@ -696,7 +697,6 @@ transcript:
   sec: 3634
   time: '1:00:34'
   who: Katarzyna
-- header: Voice recognition in automotive applications
 - line: And when it comes to cars, how is it used? How is voice recognition used in
     cars? Like, play Spotify with Alexa or...?
   sec: 3683
@@ -711,6 +711,7 @@ transcript:
   sec: 3708
   time: '1:01:48'
   who: Alexey
+- header: 'In‑Car Voice Recognition: Automotive Use Cases and Limitations'
 - line: And it's parking, and it's parking! Everything you need and what is planned
     by the producers and car designers includes opening the windows, air conditioning,
     seat heating, steering wheel heating, radio, calling, etc. That’s also an interesting
@@ -725,7 +726,7 @@ transcript:
   sec: 3713
   time: '1:01:53'
   who: Katarzyna
-- header: Humorous voice recognition failures in cars
+- header: 'Notable Failure Examples: Elevator/Car Voice Recognition Humor'
 - line: There’s this hilarious video with two Scottish guys trying to go to the 11th
     floor in an elevator using voice recognition. Have you seen that?
   sec: 3807
@@ -752,7 +753,7 @@ transcript:
   sec: 3850
   time: '1:04:10'
   who: Katarzyna
-- header: Closing remarks and reflections on the discussion
+- header: 'Closing Reflections: Human‑Centered AI Priorities & Further Reading'
 - line: I think we covered only three questions out of—I don’t know how many we prepared,
     but it was...
   sec: 3853
@@ -781,6 +782,7 @@ transcript:
   sec: 3913
   time: '1:05:13'
   who: Alexey
+- header: Episode Sign‑off and Guest Thanks
 - line: Thank you. Thank you for the invitation, and really congratulations on the
     great series of podcasts, but also for the fantastic platform that you created.
     I feel really impressed, and as I said at the beginning, I feel honored to be

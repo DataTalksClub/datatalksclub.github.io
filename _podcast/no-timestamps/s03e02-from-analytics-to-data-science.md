@@ -16,6 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/1GVuHJzqbcf2BvaLBTgsAL
   apple: https://podcasts.apple.com/us/podcast/shifting-career-from-analytics-to-data-science-andrada/id1541710331?i=1000517426368
 transcript:
+- header: Podcast Introduction
+- header: 'Episode Overview: Transitioning from Analytics to Data Science'
 - line: This week, we will talk about career transitioning from data analytics to
     data science. We have a special guest today, Andrada. Andrada worked for two and
     a half years as a data analyst. Then she decided to make a career switch and she
@@ -28,7 +30,7 @@ transcript:
   sec: 122
   time: '2:02'
   who: Andrada
-- header: Andrada’s background
+- header: 'Career Path: Statistics Degree → Avon Data Analyst → Master’s → Data Scientist'
 - line: Before we go into our main topic, so let us start with your background. Can
     you tell us a bit more about your career journey so far?
   sec: 130
@@ -81,7 +83,8 @@ transcript:
   sec: 212
   time: '3:32'
   who: Andrada
-- header: Recommended courses
+- header: 'Recommended Course: Python for Data Science & Machine Learning (Jose Portilla,
+    Udemy)'
 - line: Do you remember which courses you took?
   sec: 321
   time: '5:21'
@@ -119,7 +122,6 @@ transcript:
   sec: 427
   time: '7:07'
   who: Alexey
-- header: Kaggle and StackOverflow
 - line: I guess Kaggle was a big factor as well. It is the community and the comments
     and the medals. And the fact that you can interact with somebody. You post on
     StackOverflow…  once I posted and they downvoted my post because it was like,
@@ -130,6 +132,7 @@ transcript:
   sec: 451
   time: '7:31'
   who: Andrada
+- header: 'Kaggle Introduction: First Encounters and Community Motivation'
 - line: How did you discover Kaggle? You were doing this bootcamp course on Udemy.
     Did you find Kaggle after the course, during it, or during your Masters? Or when?
   sec: 498
@@ -152,7 +155,7 @@ transcript:
   sec: 578
   time: '9:38'
   who: Alexey
-- header: Doing notebooks on Kaggle
+- header: 'Kaggle Notebooks: Iowa House Prices, Hyperparameter Tuning & Model Improvement'
 - line: Then, I did not even understand what I was doing… I did not even understand
     what I was doing when I was sharing the notebook. I remember the only thing I
     wanted to do was to improve my model. It was Iowa House Price Prediction which
@@ -197,6 +200,7 @@ transcript:
   sec: 738
   time: '12:18'
   who: Andrada
+- header: 'Project-Based Learning: Kaggle as Primary Practice Environment'
 - line: But what happened afterwards, I started to try to gain more knowledge on multiple
     things. I remember, I did not have any knowledge on Pandas and how to manage data
     frames. It was taking me a lot of time to do anything. Visualizations, everything.
@@ -209,7 +213,6 @@ transcript:
     How do people get these? I do not understand. I had the silver medal or something,
     that was it. Do people see this? What? And that is when actually everything started.
   who: Andrada
-- header: Projects for learning data science
 - line: We talked quite a lot about Kaggle. As I understood, that was one of the main
     drivers for your learning. You picked up Pandas, some other data wrangling skills,
     visualization, exploratory data analysis. When you learn something — the important
@@ -230,6 +233,8 @@ transcript:
   sec: 932
   time: '15:32'
   who: Alexey
+- header: 'Translating Academic Work: Dissertation and Masters Projects to Public
+    Notebooks'
 - line: Not really, because some of them were data sensitive. For example, I had this
     amazing module in my Masters that was hands-on and we had three projects. Two
     of them were in teams. We would change teams after each project, which was exhausting.
@@ -239,6 +244,7 @@ transcript:
   sec: 942
   time: '15:42'
   who: Andrada
+- header: 'Mentorship & Hiring: Connecting with Gabi Preda via Kaggle'
 - line: The second one was on fraud detection. The data they used was from Kaggle
     but they altered it a little bit. What I did was I just translated what I have
     done in that fraud detection challenge, to Kaggle using the data set on Kaggle.
@@ -257,7 +263,6 @@ transcript:
     learned in my dissertation to a fun, interactive Kaggle notebook on that data
     set.
   who: Andrada
-- header: Finding a job and a mentor with Kaggle’s help
 - line: So, you found a job because somebody from Kaggle reached you? What was the
     name?
   sec: 1089
@@ -282,6 +287,7 @@ transcript:
   sec: 1112
   time: '18:32'
   who: Andrada
+- header: 'Job Search Process: Timeline and Application Strategy'
 - line: I recommend this to everybody — follow people on Kaggle, on LinkedIn, on Twitter
     or on anything. If they are in the top 200 people, it means that they are super
     passionate. It might be that you have something to learn from them. When I saw
@@ -316,7 +322,6 @@ transcript:
     I will not be able to work with him. Yeah, so I found Gabi on Kaggle. I am super
     lucky that he saw opportunity in me and I am super grateful for that.
   who: Andrada
-- header: The process for looking for a job
 - line: Maybe we can talk a bit about this process for looking for a job. You said
     that you need to apply for 100 positions to get just one job offer. For you, how
     many jobs did you apply to?
@@ -338,13 +343,13 @@ transcript:
   sec: 1421
   time: '23:41'
   who: Andrada
+- header: 'Interview Challenges: Algorithmic Coding Tests vs Practical ML Skills'
 - line: I was trying in Bucharest which is a metropolitan area, it is the capital
     of Romania. I was also trying other countries — to be remote. There were not many
     positions for a junior data scientist. Everybody looks for a junior data scientist
     with a senior knowledge but the salary of a traineeship. I did not fit. It took
     me a while and I had many rejections as well, which hurt.
   who: Andrada
-- header: Main difficulties of getting a job
 - line: Sorry to hear. What were the main difficulties for you? You said you started
     in June and you found it in October. So it took five months.
   sec: 1567
@@ -419,7 +424,7 @@ transcript:
   sec: 1932
   time: '32:12'
   who: Andrada
-- header: Project portfolio and Kaggle
+- header: 'Showcasing Work: Kaggle Notebooks, GitHub and Portfolio Impact'
 - line: What I heard is, your visibility on Kaggle and your passion — because you
     are super passionate about Kaggle and the community there — you have visibility
     there, people know you, people see your notebooks, people see what you do there.
@@ -486,8 +491,7 @@ transcript:
   sec: 2141
   time: '35:41'
   who: Andrada
-- header: Helpful analytical skills for transitioning into data science. Check the
-    data!
+- header: 'Transferable Analyst Skills: Data Validation, Domain Knowledge & EDA'
 - line: When you were making the switch from analytics to data science, the biggest
     problem for you was coding. Especially all these coding interviews that are difficult
     and stressful. Sometimes they say, “oh, it is easy” but for you it is not, and
@@ -508,6 +512,7 @@ transcript:
   sec: 2249
   time: '37:29'
   who: Andrada
+- header: 'Coding Growth Plan: Learn by Doing Competitions and Reproducing Notebooks'
 - line: So, triple check the data — which is also super important in machine learning.
     Because it can have data leakage, you have missing data that needs to be tackled,
     you have variables that you need to understand. You need to have business knowledge
@@ -539,7 +544,6 @@ transcript:
     days. I know what to do, I understand the problem. How do I do this? And it takes
     me a little bit longer, which is annoying but I am going to get there.
   who: Andrada
-- header: Becoming better at coding
 - line: I see that in other data analysts, who are pretty good at understanding data,
     getting insights from the data, querying data, doing data manipulation and calculating
     some statistics, doing exploratory data analysis. But when it comes to coding,
@@ -564,6 +568,7 @@ transcript:
   sec: 2553
   time: '42:33'
   who: Andrada
+- header: 'Learning Technique: Decompose Notebooks, Reimplement and Debug'
 - line: I feel like sometimes people are ashamed that they are not original. You cannot
     invent the wheel. If you are learning, you will need to practice. You can practice
     from these people that are super knowledgeable. So, take their code, it's fine.
@@ -576,7 +581,6 @@ transcript:
     it — research and look at many other more Kaggle notebooks. This is the plan and
     it has been working pretty well.
   who: Andrada
-- header: Learning by imitating
 - line: So, you take a notebook that somebody shared, you try to decompose it, understand
     what every line is doing, you try to rearrange the code, you try to change the
     variables until you understand every bit of… every line of code, every letter
@@ -646,7 +650,7 @@ transcript:
   sec: 2958
   time: '49:18'
   who: Andrada
-- header: Is doing masters helpful?
+- header: 'Master’s Degree Value: Structured Curriculum vs Independent Study'
 - line: If we go a bit back to your Masters. We have a question from Zach. Do you
     think your masters was helpful for your career?
   sec: 2967
@@ -684,7 +688,8 @@ transcript:
   sec: 3166
   time: '52:46'
   who: Andrada
-- header: Getting into data science without a masters
+- header: 'Self-Paced Pivot: Udemy, Kaggle and YouTube Path to Data Science in ~1
+    Year'
 - line: What I am trying to ask — for people who go from analytics to data science,
     it is not always possible for them to do a Masters, to spend one year doing that.
     Was it one year for you? I think in the UK, it is one year, right? In continental
@@ -747,7 +752,7 @@ transcript:
   sec: 3419
   time: '56:59'
   who: Andrada
-- header: Kaggle is not just about competitions
+- header: 'Kaggle Ecosystem: Notebooks, Datasets and Community Discussions'
 - line: One thing we did not talk about. We talked that you are a Kaggle grandmaster
     in notebooks. Maybe you can spend a couple of minutes talking about that? For
     many people, when they hear Kaggle, what they imagine is — I think you mentioned
@@ -802,7 +807,8 @@ transcript:
   sec: 3658
   time: '1:00:58'
   who: Andrada
-- header: 'The last tip: use social media'
+- header: 'Networking Strategy: Use LinkedIn & Twitter to Showcase Projects and Build
+    Community'
 - line: Any last tips?
   sec: 3660
   time: '1:01:00'
@@ -838,6 +844,7 @@ transcript:
   sec: 3682
   time: '1:01:22'
   who: Andrada
+- header: Episode Wrap-Up and Final Advice
 - line: That is a great way to finish today's conversation. I guess that is all for
     today. Thanks a lot for joining us today and sharing all this experience, being
     open about all the struggles you have had. I think many people who are going through

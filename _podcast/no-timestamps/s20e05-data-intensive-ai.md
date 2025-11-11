@@ -16,7 +16,7 @@ short: Data Intensive AI
 title: Build Trustworthy AI with Data Pipeline Testing & Prompt Engineering (Caching,
   Compression & Tools)
 transcript:
-- header: Introduction to Bartosz and his background
+- header: Episode Opening & Guest Overview (Data Intensive AI)
 - line: This week, we’ll talk about Data Intensive AI. Our special guest today is
     Bartosz, an AI and data engineer. He specializes in moving AI projects from the
     “good enough for a demo” phase to production by building testing infrastructure
@@ -30,6 +30,7 @@ transcript:
   sec: 0
   time: 0:00
   who: Alexey
+- header: Book Contribution Clarified & Testing Focus
 - line: There’s a mistake there. It should be 97 Things Every Data Engineer Should
     Know.
   sec: 122
@@ -99,7 +100,7 @@ transcript:
   sec: 183
   time: '3:03'
   who: Alexey
-- header: Bartosz’s career journey from Java development to AI engineering
+- header: 'Career Path: Java → Data Engineering → AI Engineering'
 - line: I started as a Java developer many years ago, working in the banking industry.
     Then, I moved to data engineering. Initially, I wanted to be a data scientist
     and worked at a startup for a few months. I realized it wasn’t for me, and I preferred
@@ -120,6 +121,7 @@ transcript:
   sec: 326
   time: '5:26'
   who: Alexey
+- header: 'Publishing Routine: Blogging Frequency & Content Practice'
 - line: Yes, I try to publish every week. I can’t always promise that, but the goal
     is to publish something every Monday. I’ve tried different schedules, like publishing
     three times a week or even daily for 100 days. That was a terrible experience,
@@ -163,7 +165,7 @@ transcript:
   sec: 528
   time: '8:48'
   who: Bartosz
-- header: The importance of testing in data engineering
+- header: 'Data Trust: Why Testing Prevents "This Number Doesn’t Look Correct"'
 - line: How did you end up writing a chapter for 97 Things Every Data Engineer Should
     Know?
   sec: 545
@@ -207,7 +209,6 @@ transcript:
   sec: 644
   time: '10:44'
   who: Bartosz
-- header: How to create tests for data pipelines
 - line: So, at least you have some certainty that your pipeline is functional. If
     someone says, “This number doesn’t look correct,” you can say, “It should be right,
     but let’s figure out why you think so.”
@@ -220,6 +221,7 @@ transcript:
   sec: 691
   time: '11:31'
   who: Bartosz
+- header: 'Test Strategy for Data Pipelines: Snapshot & Integration Testing'
 - line: How do we create tests for data pipelines?
   sec: 707
   time: '11:47'
@@ -238,7 +240,7 @@ transcript:
   sec: 713
   time: '11:53'
   who: Bartosz
-- header: Tools and approaches for testing data pipelines
+- header: 'Testing Tools: Great Expectations, Soda, SQL Tests vs Spark Tests'
 - line: What kind of tools do you use? Correct me if I’m wrong, but are you suggesting
     we create a data pipeline and then use integration tests rather than unit tests?
   sec: 794
@@ -286,7 +288,7 @@ transcript:
   sec: 993
   time: '16:33'
   who: Bartosz
-- header: Choosing Spark for data engineering projects
+- header: 'Technology Choice: When to Use Apache Spark'
 - line: Would you recommend Spark for new projects, or would you choose something
     else?
   sec: 1030
@@ -310,12 +312,12 @@ transcript:
   sec: 1088
   time: '18:08'
   who: Bartosz
+- header: 'Data Engineering’s Role in AI: Preprocessing & Fine-Tuning Data'
 - line: We’ve talked a lot about data engineering. Now, let’s talk about AI. How is
     data engineering connected to AI tools and LLMs?
   sec: 1118
   time: '18:38'
   who: Alexey
-- header: The connection between data engineering and AI tools
 - line: First, you can use AI in your pipeline, but it might not be the smartest idea
     because of hallucinations. You’ll have many bugs to fix. Another connection is
     fine-tuning models. You need a lot of data, and data engineers preprocess it.
@@ -348,11 +350,11 @@ transcript:
   sec: 1274
   time: '21:14'
   who: Bartosz
-- header: Use cases of AI in data engineering and MLOps
 - line: Can you tell us about some use cases of AI that you’ve worked on?
   sec: 1299
   time: '21:39'
   who: Alexey
+- header: 'Invisible AI Use Cases: Augmented Generation & Review Analysis'
 - line: Of course, the typical use case is augmented generation. You have a database,
     and you use AI to generate content. But I think the most interesting use cases
     are when you don’t even see that AI is involved. For example, I worked on a project
@@ -410,7 +412,7 @@ transcript:
   sec: 1492
   time: '24:52'
   who: Bartosz
-- header: Prompt engineering techniques and best practices
+- header: 'Prompt Engineering Basics: In-Context Learning & Examples'
 - line: You’ve written a lot of posts—480, you said. One of them was about prompt
     engineering. Can you tell us more about the content of that post and what exactly
     makes a good prompt?
@@ -458,6 +460,7 @@ transcript:
   sec: 1689
   time: '28:09'
   who: Alexey
+- header: 'Prompt Evaluation: Formatting, Examples, and Cost Tradeoffs'
 - line: Sure. Let’s say you’re analyzing the sentiment of a sentence. You have one
     review that’s positive and another that’s negative. You need the output in a specific
     format, like JSON.
@@ -477,6 +480,7 @@ transcript:
   sec: 1773
   time: '29:33'
   who: Alexey
+- header: 'Prompt Compression: Token Optimization Techniques'
 - line: Yes, and that’s why I would recommend testing—or rather, gathering data from
     tests. You prepare an evaluation dataset with inputs and expected outputs, then
     measure how well the model performs. At some point, when you keep adding examples,
@@ -502,12 +506,12 @@ transcript:
   sec: 1864
   time: '31:04'
   who: Bartosz
-- header: Prompt compression and caching in AI models
 - line: So, it’s like asking ChatGPT, “Hey, I have this prompt. Can you rewrite it
     to make it shorter but not lose any meaningful parts?”
   sec: 1899
   time: '31:39'
   who: Alexey
+- header: Prompt Caching & Model Efficiency (attention caching, Claude)
 - line: Maybe. I don’t know how it works internally yet, but I imagine it might be
     something like that.
   sec: 1905
@@ -536,11 +540,11 @@ transcript:
   sec: 2009
   time: '33:29'
   who: Bartosz
-- header: Thoughts on DeepSeek and open-source AI models
 - line: What do you think about DeepSeek? Have you played with it?
   sec: 2015
   time: '33:35'
   who: Alexey
+- header: Open-Source Models & Tools Experience (DeepSeek, Perplexity)
 - line: Only in the Perplexity tool as one of the models. I like that there are many
     new open-source models. It’s good for everyone. I also like that models are being
     created outside the United States. One location having a monopoly is never good.
@@ -592,7 +596,7 @@ transcript:
   sec: 2147
   time: '35:47'
   who: Alexey
-- header: Using AI for lead classification and LinkedIn automation
+- header: 'AI for Lead Scoring: LinkedIn Automation & Qualification'
 - line: Another article you wrote is about using AI for lead classification on LinkedIn,
     where you created a Chrome extension. Can you tell us more about this project?
   sec: 2154
@@ -670,7 +674,7 @@ transcript:
   sec: 2454
   time: '40:54'
   who: Alexey
-- header: Building Chrome extensions with AI integration
+- header: 'Chrome Extension Architecture: Backend AI Integration Pattern'
 - line: I had a backend service that the Chrome extension called. I didn’t put the
     AI inside the extension because I wasn’t familiar with browser extensions. I kept
     it simple and put most of the logic in the backend.
@@ -682,6 +686,7 @@ transcript:
   sec: 2464
   time: '41:04'
   who: Bartosz
+- header: 'Coding Assistants: Cursor Workflow & Productivity Boosts'
 - line: Do you still use Cursor?
   sec: 2525
   time: '42:05'
@@ -713,7 +718,6 @@ transcript:
   sec: 2532
   time: '42:12'
   who: Alexey
-- header: Comparing Cursor and GitHub Copilot for coding
 - line: Have you compared Cursor with GitHub Copilot?
   sec: 2631
   time: '43:51'
@@ -724,6 +728,7 @@ transcript:
   sec: 2637
   time: '43:57'
   who: Bartosz
+- header: 'Code AI Comparison: Cursor vs GitHub Copilot & Alternatives'
 - line: I already pay for ChatGPT, Claude, and GitHub Copilot (free for open-source
     contributors). I’m wondering if I should switch to Cursor, but I’d have to cancel
     one of my existing subscriptions.
@@ -742,7 +747,7 @@ transcript:
   sec: 2787
   time: '46:27'
   who: Alexey
-- header: Using ChatGPT and Perplexity for AI-assisted tasks
+- header: 'Search-Focused Assistants: Using Perplexity & Tool Selection'
 - line: Sometimes, but I use Perplexity more often. You can switch off the search
     feature and use it like ChatGPT.
   sec: 2839
@@ -837,7 +842,7 @@ transcript:
   sec: 3056
   time: '50:56'
   who: Alexey
-- header: Hosting static websites and using AI for development
+- header: 'Website Hosting: Static Site Generators & GitHub Pages'
 - line: What do you use for your website?
   sec: 3129
   time: '52:09'
@@ -863,6 +868,7 @@ transcript:
   sec: 3160
   time: '52:40'
   who: Alexey
+- header: 'Blogging as Business: Attracting Clients & Teaching Workshops'
 - line: I want to start writing and get motivated. Does your blog help you find clients?
   sec: 3190
   time: '53:10'
@@ -881,7 +887,6 @@ transcript:
   sec: 3190
   time: '53:10'
   who: Alexey
-- header: How blogging helps attract clients and share knowledge
 - line: Now you work as an AI consultant, right?
   sec: 3267
   time: '54:27'
@@ -932,6 +937,7 @@ transcript:
   sec: 3369
   time: '56:09'
   who: Bartosz
+- header: 'AI-Assisted Writing: Drafting, Rewriting, and Maintaining Voice'
 - line: With AI tools, you can turn drafty notes into blog posts relatively quickly.
     It’s a nice weekend project.
   sec: 3377
@@ -959,7 +965,6 @@ transcript:
   sec: 3456
   time: '57:36'
   who: Bartosz
-- header: Using AI to assist with writing and content creation
 - line: Do you use ChatGPT to help you get started with articles?
   sec: 3495
   time: '58:15'
@@ -991,6 +996,7 @@ transcript:
   sec: 3600
   time: '1:00:00'
   who: Bartosz
+- header: Episode Wrap-Up & Guest Resources (blog link invitation)
 - line: It’s been over an hour. Time flies! I think we should wrap up. It was amazing
     talking to you, Bartosz. Thanks for joining us today and sharing your experiences.
   sec: 3621

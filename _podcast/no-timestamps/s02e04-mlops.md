@@ -15,6 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3YPvzGQnfxl7Mo1VKE0l1K
   apple: https://podcasts.apple.com/us/podcast/the-rise-of-mlops-theofilos-papapanagiotou/id1541710331?i=1000507907719
 transcript:
+- header: Podcast Introduction
+- header: Episode Kickoff & Guest Overview
 - line: Today we will talk about MLOps. We have a special guest — Theofilos Papapanagiotou.
     Theo and I are colleagues. I work at OLX Group and Theo works at the parent company
     of OLX — Prosus. In our company, Theo is the main advocate of MLOps. He's usually
@@ -30,12 +32,12 @@ transcript:
   sec: 198
   time: '3:18'
   who: 'Theo:'
-- header: Theo’s background
 - line: Before we go into our main topic of MLOps, let's start with your background.
     Can you tell us a bit about your career journey so far?
   sec: 201
   time: '3:21'
   who: 'Alexey:'
+- header: 'Guest Background: From Unix Engineer to ML Engineering'
 - line: Sure. I'm an engineer with a background of working in telecom for the last
     20 years. I studied computer science. Then I had a Master's in data communications,
     and finally a Master's in AI. In that journey of 20 years, I've been transitioning
@@ -74,7 +76,7 @@ transcript:
   sec: 273
   time: '4:33'
   who: 'Theo:'
-- header: DevOps and MLOps
+- header: 'Defining MLOps: Culture, Process, and Technology'
 - line: Companies like OLX, where you help us to do all these things related to MLOps.
     So, what is MLOps?
   sec: 314
@@ -113,6 +115,7 @@ transcript:
   sec: 443
   time: '7:23'
   who: 'Alexey:'
+- header: 'DevOps vs MLOps: Model Lifecycle and Data Drift'
 - line: Absolutely. However, we should also mention that there are differences on
     the fundamentals — what is a software delivery workflow and what is a machine
     learning workflow? In the software space, you write code, you have some requirements,
@@ -173,6 +176,7 @@ transcript:
   sec: 666
   time: '11:06'
   who: 'Alexey:'
+- header: 'Monitoring for MLOps: Drift, Fairness, and Retraining Triggers'
 - line: Yes. There is another thing. If you remember, especially in the world of SREs,
     this statement that “monitoring is the foundation of the operation of SREs” that’s
     important. Monitoring in the space of MLOps is even more important, because you
@@ -195,7 +199,6 @@ transcript:
   sec: 677
   time: '11:17'
   who: 'Theo:'
-- header: Tooling in ML Ops and DevOps
 - line: So are these monitoring tools that we're talking about different from traditional
     DevOps tools? For example, usually what we use is like Prometheus, Grafana, and
     things like that. Are they different in the MLOps world, or are they similar?
@@ -203,6 +206,7 @@ transcript:
   sec: 766
   time: '12:46'
   who: 'Alexey:'
+- header: 'Monitoring Stack: Prometheus/Grafana and Inference Sensors'
 - line: In a typical software component, you are generating metrics in your Prometheus
     – from your application itself – when a class has been instantiated, you might
     want to increase a counter, or when you are receiving a new request to export
@@ -230,6 +234,7 @@ transcript:
   sec: 871
   time: '14:31'
   who: 'Alexey:'
+- header: Commoditizing Inference Monitoring for Faster Iteration
 - line: Yes, absolutely. If we want to be able to iterate fast, we don't want to spend
     time and development effort on figuring out what the special metrics are for each
     model that we need to have. We need to be able to automatically, if possible,
@@ -237,13 +242,13 @@ transcript:
   sec: 884
   time: '14:44'
   who: 'Theo:'
-- header: ML engineering vs ML Ops
 - line: I often see that there is confusion between ML engineering and MLOps. Often
     these terms are now used as synonyms. So, I was wondering – do you think they
     are different? And if they are, what is the main difference between the two?
   sec: 909
   time: '15:09'
   who: 'Alexey:'
+- header: 'Role Distinction: ML Engineer as Practitioner, MLOps as Practice'
 - line: ML engineering is a relatively new topic and [Inaudible] MLOps. The same way
     that you would say that a software engineer and DevOps are the same, or something
     like this, I could imagine. The role is “machine learning engineer” and MLOps
@@ -254,13 +259,13 @@ transcript:
   sec: 929
   time: '15:29'
   who: 'Theo:'
-- header: The roles of ML Ops
 - line: The people who are doing MLOps, who are they? Are they ML engineers, or is
     it a special person who we can call an “MLOps engineer”. If you want to do MLOps,
     what kind of role do you want to acquire?
   sec: 976
   time: '16:16'
   who: 'Alexey:'
+- header: 'Team Composition: Developer, Operator, and Product in MLOps'
 - line: Well, MLOps is the practice that three different roles in an organization
     perform. There’s the business need, the production operation, and the development,
     all working together and following the best practices. Similar to how in DevOps,
@@ -328,6 +333,7 @@ transcript:
   sec: 1191
   time: '19:51'
   who: 'Alexey:'
+- header: 'The "MLOps Engineer" Debate: Title vs. Cross‑Functional Teams'
 - line: I don't think that it will become a title. Maybe people will have it because
     it's a fancy word now, like data scientist was 10 years ago. But I don't think
     this will become a role of a department. If it does, that would be a shame because
@@ -365,7 +371,6 @@ transcript:
   sec: 1307
   time: '21:47'
   who: 'Theo:'
-- header: Recognizing an MLOps role and MLOps maturity
 - line: Let's say we want to find a place, or a company, that practices MLOps, and
     we're looking for a job right now. How do we recognize that a job posting is for
     an MLOps role? Are there some specific keywords that I need to look for?
@@ -382,6 +387,7 @@ transcript:
   sec: 1422
   time: '23:42'
   who: 'Alexey:'
+- header: MLOps Job Signals & Maturity Models (Google and Microsoft)
 - line: '[laughs] But, of course, if you''re seeing names of tools like Kubeflow in
     the skill set or ML pipelines and even special skills on components that are trending
     now in the space of monitoring of machine learning models in the space of fairness
@@ -444,6 +450,7 @@ transcript:
   sec: 1603
   time: '26:43'
   who: 'Alexey:'
+- header: 'Maturity Levels: Manual Training → Pipeline Automation'
 - line: Even if you're not doing it in your laptop, and you're doing it in the cloud,
     such as in Sage Maker, it's still a manual process. If you have to start a notebook,
     and clickety click, run the cells and produce your artifact, and produce your
@@ -499,6 +506,7 @@ transcript:
   sec: 1805
   time: '30:05'
   who: 'Alexey:'
+- header: 'Advanced Maturity: Data‑Driven Triggers and Automated Retraining'
 - line: Yes, it’s manual. But maybe it automatically adds your new features from your
     feature store, or if you have some data versioning system, and etc. So, that's
     the maturity level one. Then there is the visual – the ultimate goal that we should
@@ -538,7 +546,6 @@ transcript:
   sec: 1808
   time: '30:08'
   who: 'Theo:'
-- header: Changing the mindset to MLOps
 - line: So basically, to help not just directly jump on monitoring drift and having
     faith in the model that it will retrain itself and everything will be fine. Instead,
     it’s just gradually moving from one step to another and changing the mindset in
@@ -546,6 +553,7 @@ transcript:
   sec: 1991
   time: '33:11'
   who: 'Alexey:'
+- header: 'Cultural Shift: Monitoring as a Source of New Training Data'
 - line: Yes, and of course, the foundation is monitoring. I’m vocal about this – we
     should take care of our models in production and not only take care of them, but
     create new data out of how they are performing. Because the monitoring is generating
@@ -562,6 +570,7 @@ transcript:
   sec: 2041
   time: '34:01'
   who: 'Alexey:'
+- header: 'Tooling Landscape: Vendors, Open Source, and Kubernetes'
 - line: Yes, of course. What I was fascinated about in the MLCon, in this and last
     week, was that there are so many vendors jumping on this train and using the buzzword
     ‘MLOps’ to promote their solution. And good vendors that are focusing on the right
@@ -581,7 +590,6 @@ transcript:
   sec: 2065
   time: '34:25'
   who: 'Theo:'
-- header: Kubeflow
 - line: So, Kubeflow is the tool we should have if we want to start implementing MLOps
     in our organization. Let's say, if we don't want to go to a vendor, we want to
     go with open source, then Kubeflow is the tool we want in order to help us. Right?
@@ -606,6 +614,7 @@ transcript:
   sec: 2218
   time: '36:58'
   who: 'Alexey:'
+- header: 'Kubeflow Ecosystem: Pipelines, KFServing, Feast, and Katib'
 - line: For me, Kubeflow is an ecosystem that delivers an ML platform. If you jump
     on it, you will start figuring out that there are components that you were not
     aware of and you might want to start using them in your workflow. For example,
@@ -644,6 +653,7 @@ transcript:
   sec: 2376
   time: '39:36'
   who: 'Alexey:'
+- header: Hyperparameter Search with Katib and Notebook→Pipeline Workflows
 - line: Yes, and other components as well. There is this nice tool for hyperparameter
     optimization and neural architecture effect, which is called Katib. It was a Google
     Visio (or something) product that evolved to Katib. Katib is image describing
@@ -677,6 +687,7 @@ transcript:
   sec: 2539
   time: '42:19'
   who: 'Alexey:'
+- header: 'Kubeflow & TFX: ML Orchestration and Production Patterns'
 - line: Yes. They don't call it that. Since the beginning, they were saying that they
     don't see something as an extended externalization of Google ML platform, but
     this is what this to me. [laughs] If you look at TFX, it’s how to do production
@@ -690,11 +701,11 @@ transcript:
   sec: 2548
   time: '42:28'
   who: 'Theo:'
-- header: How to learn Kubeflow
 - line: If I want to learn Kubeflow, how can I do that?
   sec: 2603
   time: '43:23'
   who: 'Alexey:'
+- header: 'Learning Kubeflow: Docs, Workshops, and Community Resources'
 - line: As a nice, open-source tool, it has a beautiful community. I would advise
     to start from the website of Kubeflow. They have excellent documentation. It’s
     still being built. The documentation itself is open source, so you can extend
@@ -726,6 +737,7 @@ transcript:
   sec: 2712
   time: '45:12'
   who: 'Alexey:'
+- header: 'Getting Started: Cloud‑Managed Pipelines and Simple Projects'
 - line: Yeah.
   sec: 2793
   time: '46:33'
@@ -750,12 +762,12 @@ transcript:
   sec: 2761
   time: '46:01'
   who: 'Theo:'
-- header: Data versioning and DataOps
 - line: We also have a question about data versioning. How important data is versioning
     in MLOps?
   sec: 2807
   time: '46:47'
   who: 'Alexey:'
+- header: 'Data & Model Versioning: MLMD, Metadata, and Traceability'
 - line: It is important. The data is the raw source of what you need in order to produce
     a model. You cannot produce a model without data. As we discussed cast, there
     is the concept of data drift. So, you want to retrain your model with the new
@@ -797,6 +809,7 @@ transcript:
   sec: 2818
   time: '46:58'
   who: 'Theo:'
+- header: 'Relationship to DataOps: Continuation and Divergence'
 - line: This is Data Ops, right?
   sec: 3035
   time: '50:35'
@@ -841,7 +854,6 @@ transcript:
   sec: 3080
   time: '51:20'
   who: Theo
-- header: Kubeflow in mobile
 - line: There is a question about a demo, but we will not do a demo. This is a podcast,
     which will be released without video, eventually. So, there will be no demo, sorry.
     Philippa is asking. “Do you have any experience in deploying models on mobile
@@ -850,6 +862,7 @@ transcript:
   sec: 3070
   time: '51:10'
   who: 'Alexey:'
+- header: 'Edge & Mobile Deployment: Offline Models and Edge Kubernetes'
 - line: As far as I'm aware, most of the deployments of these models in the UPS are
     manual processes. However, the good news is that the vendors have realized that
     with the adoption of 5g, mobile devices will become just EDGE devices – like a
@@ -899,6 +912,7 @@ transcript:
   sec: 3246
   time: '54:06'
   who: 'Alexey:'
+- header: 'MLOps Guidance: Maturity Roadmaps and Manifesto Alternatives'
 - line: We briefly talked about this. There was a DevOps manifesto and I think the
     equivalent of the DevOps manifesto these days is the two articles of Microsoft
     and Google on the MLOps maturity level or MLOps maturity model. Of course, there’s
@@ -910,13 +924,13 @@ transcript:
   sec: 3258
   time: '54:18'
   who: 'Theo:'
-- header: The importance of Kubeflow
 - line: Yeah. We will ask you to share the links later, so our listeners can read.
     There is an interesting question that caught my attention. “Would you recommend
     learning Kubeflow?”
   sec: 3301
   time: '55:01'
   who: 'Alexey:'
+- header: 'Why Learn Kubeflow: Community Contribution and Career Value'
 - line: Absolutely. Even for the data scientist, even for the machine learning engineer.
     It's not just using it – it's about extending it. We've seen so many people getting
     interested in this popular GitHub project called TensorFlow and everyone contributed
@@ -958,6 +972,7 @@ transcript:
   sec: 3402
   time: '56:42'
   who: 'Alexey:'
+- header: 'MLOps Benefits: Automation, Productization, and Productivity'
 - line: I think I briefly mentioned that the technology is still the enabler for progress.
     As we have learned about explainability and anomaly detection, because we have
     tried the serving, that's how we got experienced into other components that we
@@ -971,13 +986,13 @@ transcript:
   sec: 3424
   time: '57:04'
   who: 'Theo:'
-- header: AutoML
 - line: And to have a somewhat related question about that. You also mentioned Katib,
     which is an AutoML tool from Kubeflow. “Will AutoML kill the data science role?
     Is there any risk of that?”
   sec: 3489
   time: '58:09'
   who: 'Alexey:'
+- header: 'AutoML & Katib: Commoditization vs. Empowering Data Scientists'
 - line: Well, not “kill” but “commoditize”. Why should we have a PhD level expert
     to tune all these parameters? That’s what we had in the past, right? One of the
     tasks of the data scientist, who was also a PhD-level employee, had to search
@@ -997,6 +1012,7 @@ transcript:
   sec: 3576
   time: '59:36'
   who: 'Alexey:'
+- header: 'Simplified Serving: KFServing and Faster Model Endpoints'
 - line: In the space of Katib. Remember, we also spent a lot of time in OLX and in
     other companies on deploying. See how easy it is now with KF serving? You just
     say “This is my S3 location of my model and that's the name of a model.” And then
@@ -1019,13 +1035,13 @@ transcript:
   sec: 3642
   time: '1:00:42'
   who: 'Theo:'
-- header: Team sizes and siloing in companies
 - line: We still have two more questions. Do you have time to answer them? One question
     is, “How can a small team build fully automated MLOps operations? It seems to
     me like only big teams can do that.” Is this true in your opinion?
   sec: 3666
   time: '1:01:06'
   who: 'Alexey:'
+- header: 'Small Teams Adopting MLOps: Practical Examples and Tradeoffs'
 - line: We have experienced to share about this. Remember? It was a couple of people
     or maybe three people in our organization and your company. We have worked together
     to put like 5-10 models in the KF serving and release it. It took us two hours
@@ -1046,6 +1062,7 @@ transcript:
   sec: 3753
   time: '1:02:33'
   who: 'Alexey:'
+- header: 'Breaking Silos: Language‑Agnostic Pipelines and Collaboration'
 - line: Well, the good news is that these things are language-agnostic. Of course,
     there shouldn't be silos in the organization, especially based on language. At
     least the development departments should be working together. But the tooling
@@ -1083,6 +1100,7 @@ transcript:
   sec: 3888
   time: '1:04:48'
   who: 'Alexey:'
+- header: Closing Remarks & Resource Links
 - line: No, it's been my as you're talking to Alexey and the audience. I will send
     the links to the maturity models and the roadmap in the chats.
   sec: 3899
@@ -1094,6 +1112,7 @@ transcript:
   sec: 3908
   time: '1:05:08'
   who: 'Alexey:'
+- header: Episode End
 - line: Thanks, Alexey.
   sec: 3922
   time: '1:05:22'

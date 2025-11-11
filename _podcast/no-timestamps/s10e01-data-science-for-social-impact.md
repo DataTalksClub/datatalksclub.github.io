@@ -15,6 +15,7 @@ season: 10
 short: Data Science for Social Impact
 title: Data Science for Public Policy — Ethical AI, Climate Justice & Impact Projects
 transcript:
+- header: Episode Intro & Guest Christine Cepelak
 - line: This week, we'll talk about data science for social impact. We have a special
     guest today, Christine. Christine is a writer and researcher of tech and social
     issues. She is currently studying data science for public policy, and previously,
@@ -27,7 +28,7 @@ transcript:
   sec: 90
   time: '1:30'
   who: Christine
-- header: Christine’s Background
+- header: 'Career Journey: Program Management to Data Science for Public Policy'
 - line: Before we go into our main topic of data science for social impact, let's
     start with your background. Can you tell us about your career journey so far?
   sec: 93
@@ -84,7 +85,7 @@ transcript:
   sec: 244
   time: '4:04'
   who: Christine
-- header: Private sector vs Public sector
+- header: 'Private vs Public Sector: Differences for Data Work'
 - line: Okay. You said you worked as a data analyst in the private sector. What is
     the “private sector”?
   sec: 247
@@ -140,7 +141,7 @@ transcript:
   sec: 318
   time: '5:18'
   who: Christine
-- header: Public policy
+- header: 'Public Policy Defined: Laws, Governance & Social Impact'
 - line: Okay. [chuckles] So you're studying data science for public policy and I was
     wondering – what actually is public policy? Can you tell us what that is?
   sec: 325
@@ -207,7 +208,7 @@ transcript:
   sec: 501
   time: '8:21'
   who: Alexey
-- header: The challenges of being a community organizer
+- header: 'Community Organizing Case Study: Electronics Recycling Campaign'
 - line: '[cross-talk] This was actually before that. I did this as a community organizer.
     There''s lots of stuff in between and exploring social issues. But yes, I was
     a community organizer. I knocked on doors, actually, gathered signatures and donations,
@@ -251,7 +252,7 @@ transcript:
   sec: 601
   time: '10:01'
   who: Christine
-- header: How public policy relates to political science
+- header: 'Policy vs Political Science: Theory, Practice & Implementation'
 - line: Regarding public policy – I thought policy is maybe related to politics, or
     political science. But it's not, right? Or is it?
   sec: 614
@@ -286,7 +287,7 @@ transcript:
   sec: 701
   time: '11:41'
   who: Christine
-- header: Programs that teach data science for public policy
+- header: 'Education Landscape: Data Science for Public Policy Programs & DSSG'
 - line: Coming back to “data science for public policy,” to prepare for this interview
     – I googled it. I found the program where you study and I found a couple of other
     programs. I think there was one in the States – in Washington University, I think,
@@ -335,7 +336,7 @@ transcript:
   sec: 851
   time: '14:11'
   who: Christine
-- header: Data science for public policy vs regular data science
+- header: 'Domain Nuances: Data Science for Social Impact vs Typical Industry Work'
 - line: I do data science at work and I'm usually dealing with things like… I work
     at an internet company, so we look at clicks and transactions and things like
     this. So we, as data scientists, deal with things like linear regression, logistic
@@ -384,6 +385,7 @@ transcript:
   sec: 1016
   time: '16:56'
   who: Alexey
+- header: 'Use Cases: Drone Computer Vision for Refugee Aid & Rooftop Sustainability'
 - line: Actually, our program has quite a few folks that have a background in technology
     and there are lots of folks that are social scientists and myself – I'm like a
     mix of both. So I do think there's space for everyone that wants to have a very
@@ -435,7 +437,7 @@ transcript:
   sec: 1228
   time: '20:28'
   who: Christine
-- header: The importance of ethical data science in public policy
+- header: 'Ethics & Regulation: Ethical AI, EU AI Act and Social Scoring Risks'
 - line: Coming back to the book – one of the chapters was not the usual regression
     or usual entity linking, but rather one of the chapters was about ethics. How
     important is the problem of ethical data science to public policy?
@@ -524,7 +526,7 @@ transcript:
   sec: 1559
   time: '25:59'
   who: Christine
-- header: How data science in social impact project differs from other projects
+- header: 'Project Design: Long-term Impact, Iteration & Avoiding Tech-First Solutions'
 - line: What is unique when it comes to applications of data science to social impact
     projects?
   sec: 1581
@@ -550,6 +552,7 @@ transcript:
   sec: 1589
   time: '26:29'
   who: Christine
+- header: 'Stakeholder Collaboration: NGOs, HR Use Cases & Mining Domain Knowledge'
 - line: Who are the usual people/stakeholders that data scientists working in this
     domain talk to? Are they policymakers? Who are they?
   sec: 1686
@@ -588,6 +591,7 @@ transcript:
   sec: 1776
   time: '29:36'
   who: Christine
+- header: 'Data Challenges: Building Pipelines with Limited IT Infrastructure'
 - line: And how technically advanced is this part? Is it just an Excel spreadsheet?
     Or is there an actual database? Or is there a website? Or is it something like
     old-school books where you take notes? Or all of the above?
@@ -631,7 +635,6 @@ transcript:
   sec: 1941
   time: '32:21'
   who: Christine
-- header: Other resources to learn about data science for public policy
 - line: There is a question, “Which book are you referring to?” We were talking about
     a book called Data Science for Public Policy. I think it is just one book of that
     name from Springer. I don't think there are multiple books with this title. I
@@ -674,7 +677,6 @@ transcript:
   sec: 2052
   time: '34:12'
   who: Christine
-- header: Challenges with getting data in data science for public policy
 - line: One of the things that I asked you about a couple of questions ago was what's
     unique about using data science for social impact. We talked a bit about this
     and I was wondering – how difficult is it to get data? For example, in this case
@@ -711,7 +713,7 @@ transcript:
   sec: 2196
   time: '36:36'
   who: Christine
-- header: The problems with accessing public datasets about recycling
+- header: 'Public Data Gaps: Recycling Programs, Corporate Transparency & Access Issues'
 - line: Yeah. So a question from Matt, “Are there models – guidelines, websites, templates
     – for recycling projects that would facilitate their implementation by a small
     group in the regional community?”
@@ -750,7 +752,6 @@ transcript:
   sec: 2334
   time: '38:54'
   who: Christine
-- header: Christine’s potential projects after Master’s degree
 - line: Okay. So we have a comment – “This podcast is great.” Thank you. But the question
     for you is, “Do you have an idea on what project you would work on when you finish
     your Master’s?”
@@ -766,6 +767,7 @@ transcript:
   sec: 2366
   time: '39:26'
   who: Alexey
+- header: 'Future Focus Areas: Climate Justice, Gender Equality & Responsible Tech'
 - line: 'Could be my dad. [laughs] Yeah, this is a great question. I think this is
     one of my main goals in being in this process. I''m currently in a fellowship
     working on a few different areas to see where I think I can be the most effective.
@@ -778,7 +780,7 @@ transcript:
   sec: 2367
   time: '39:27'
   who: Christine
-- header: Gender inequality in STEM fields
+- header: 'Gender Inequality Solutions: Salary Transparency & Inclusive Hiring Policies'
 - line: Speaking of gender inequality, just yesterday, we had another conversation
     where one of the points was that, just in general, females are not encouraged
     to go into STEM fields – to go into science. Some don't like these areas, but
@@ -847,7 +849,7 @@ transcript:
   sec: 2610
   time: '43:30'
   who: Alexey
-- header: Corporate responsibility and why organizations need social impact data scientists
+- header: 'Corporate Responsibility: CSR Data Needs & Demand for Impact Data Scientists'
 - line: The rest of my life after Master’s? [laughs] Yeah, we will have a thesis,
     sure – like any other graduate Master's program. But I definitely hope to. I think
     that corporate social responsibility really will be critical to addressing all
@@ -897,6 +899,7 @@ transcript:
   sec: 2709
   time: '45:09'
   who: Christine
+- header: 'Public Sector Roles: Chief Data Scientist and Government Data Strategy'
 - line: But right now, I know that in the States, there is a position called US Chief
     Data Scientist. What's the name of that person? DJ Patil. I think DJ was the first
     Chief Data Scientist. I'm wondering, what kind of problems does this role actually
@@ -939,7 +942,7 @@ transcript:
   sec: 2890
   time: '48:10'
   who: Christine
-- header: What you need to start making a social impact with data science
+- header: 'Getting Started: Volunteer Projects, SDGs & Finding a Cause'
 - line: Let's say somebody is interested in learning about this and working with data
     science, making a social impact, and making a difference with their data skills.
     What do they need to get started?
@@ -998,12 +1001,12 @@ transcript:
   sec: 3066
   time: '51:06'
   who: Christine
-- header: 80,000 hours
 - line: Yeah, for example, or a list of issues that might need some help – sort of
     like a job posting or job board with these kinds of problems where help is needed.
   sec: 3070
   time: '51:10'
   who: Alexey
+- header: 'Project Marketplaces & Career Advice: DSSG Projects and 80,000 Hours'
 - line: You know, there actually is. This was another resource I wanted to share with
     the folks watching. There's an excellent organization – I think they're called
     80,000 hours –essentially, their mission is to help people effectively create
@@ -1059,7 +1062,6 @@ transcript:
   sec: 3183
   time: '53:03'
   who: Christine
-- header: Other use cases for public policy data science
 - line: I have quite an interest in learning a bit about other use cases. Maybe from
     your experience, or maybe now you're learning this with other students – with
     your classmates. What kind of problems do you see that they’re solving, or you
@@ -1067,6 +1069,8 @@ transcript:
   sec: 3236
   time: '53:56'
   who: Alexey
+- header: 'Research Applications: Satellite Imagery for Poverty Estimation & Census
+    Gaps'
 - line: Yeah, so I think in my program right now, we're diving more into the deep
     end in both of these topics, and have not yet had much of an opportunity to bring
     them together. I know we had some group projects, for example, that addressed
@@ -1101,7 +1105,7 @@ transcript:
   sec: 3371
   time: '56:11'
   who: Alexey
-- header: Coffee, Ethics & AI
+- header: 'Community Discussion: Ethics in AI Coffee Chats and Emerging Debates'
 - line: Um. Nothing comes to mind right now, but I do actually want to pitch one thing
     if you want to explore the space. I moderate an open coffee club that focuses
     on ethics in AI. The goal is to democratize this conversation. Every meeting,
@@ -1130,13 +1134,14 @@ transcript:
   sec: 3452
   time: '57:32'
   who: Alexey
-- header: Finding Christine online
+- header: 'Connect with Christine: Website, LinkedIn & Twitter'
 - line: Sure. I'm on Twitter and LinkedIn. I do have a website with an email newsletter
     that you can try to contact or sign up. But yes, I think these are the main ways
     – Twitter, LinkedIn, and ChristineCepelak.com
   sec: 3486
   time: '58:06'
   who: Christine
+- header: Episode Wrap-up & Resource Links
 - line: So that's first name, last name.com and then you have a newsletter there.
     Okay, we will make sure to include all these links in the description under the
     video. I guess that's it for today. Thanks a lot for joining us today. Thanks

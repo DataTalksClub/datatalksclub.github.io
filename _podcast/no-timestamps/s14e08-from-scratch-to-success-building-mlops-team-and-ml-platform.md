@@ -15,6 +15,7 @@ season: 14
 short: 'From Scratch to Success: Building an MLOps Team and ML Platform'
 title: 'Designing MLOps Platforms: Deploy, Track Experiments, Manage Models & Compliance'
 transcript:
+- header: 'Episode Introduction: MLOps & ML platform conversation with Simon'
 - line: This week we'll talk about MLOps and building machine learning platforms.
     We have a special guest today, Simon. Simon has been building ML platforms for
     over half a decade. Currently, he is a Lead MLOps Engineer at Transaction Monitoring,
@@ -29,7 +30,7 @@ transcript:
   sec: 116
   time: '1:56'
   who: Simon
-- header: Simon's background
+- header: 'Career & Transition: Research to industry, early platform work and management'
 - line: Before we go into our main topic of MLOps and ML platforms, let's start with
     your background. Can you tell us about your career journey so far?
   sec: 120
@@ -82,7 +83,7 @@ transcript:
   sec: 277
   time: '4:37'
   who: Simon
-- header: What MLOps is and what it isn't
+- header: 'MLOps Definition: People, processes, and technology'
 - line: Which is also actually a part of MLOps. Maybe we can also talk about what
     MLOps is and what it is not. I'm really interested to hear your take on that.
     Because for me, MLOps is not only about the tools you use for deployment – it
@@ -126,7 +127,7 @@ transcript:
   sec: 311
   time: '5:11'
   who: Simon
-- header: Skills needed to build an ML platform that serves 100s of models
+- header: 'Deployment Challenges: Early blockers that launched MLOps work'
 - line: Yeah. To me, when I heard the term MLOps for the first time, I thought, “Okay,
     I've been doing this thing for so long.” But in my mind, it was mostly deployment.
     Like you, I think I followed a similar path. I started as a data scientist and
@@ -151,6 +152,7 @@ transcript:
   sec: 415
   time: '6:55'
   who: Alexey
+- header: 'Core Platform Skills: Cloud infrastructure, Kubernetes, Terraform'
 - line: In principle, it's a difficult one, because it very much depends on the general
     organizational setup and fundamental beliefs of the organizations. At least in
     my world, and that's typically also the world I select, I believe in principle
@@ -205,6 +207,8 @@ transcript:
   sec: 640
   time: '10:40'
   who: Alexey
+- header: 'User-Centric Platform Design: Understanding data science workflows and
+    notebooks'
 - line: Yeah, so pretty much the latter. I believe that to be a successful ML platform
     engineer or MLOps engineer as I sometimes call them, you have to know the data
     science workflow – how do data scientists actually work? You need to have an understanding
@@ -257,6 +261,7 @@ transcript:
   sec: 763
   time: '12:43'
   who: Simon
+- header: 'Engineering Fundamentals: Software engineering for ML platforms'
 - line: So infrastructure and cloud are the first thing. Then knowing about the process
     of building models is the second thing. You do not need to know them in detail,
     but you need to know how the process starts, what  things the data scientists
@@ -269,7 +274,7 @@ transcript:
   sec: 828
   time: '13:48'
   who: Simon
-- header: Ranking the importance of skills
+- header: 'Team Composition: Specialist vs generalist skill balance'
 - line: How important are each of these things? If you put them in order in terms
     of importance, what's the most important one? And what's the least important?
   sec: 830
@@ -308,6 +313,7 @@ transcript:
   sec: 902
   time: '15:02'
   who: Simon
+- header: 'Team Size & On‑Call: Staffing and operational considerations'
 - line: How many people should there be? At least two?
   sec: 934
   time: '15:34'
@@ -335,7 +341,7 @@ transcript:
   sec: 976
   time: '16:16'
   who: Simon
-- header: The point where you should think about building an ML platform
+- header: 'Build vs Buy Decision: When to consider building an ML platform'
 - line: At what point should I actually think about building? Let's say, six people
     – especially now, when everyone's budgets are kind of tight – does it actually
     make sense to build a team of six people while they can be doing something else?
@@ -344,6 +350,7 @@ transcript:
   sec: 1012
   time: '16:52'
   who: Alexey
+- header: 'Platform Triggers: Signs you need standardization across teams'
 - line: Yeah. I think these days, there are not many companies who make, and should
     make, the choice to build an ML platform from scratch. I think usually what companies
     look into – companies that are not Uber or Amazon, and these these big tech companies
@@ -386,6 +393,7 @@ transcript:
   sec: 1185
   time: '19:45'
   who: Alexey
+- header: 'Single-Team Value: SaaS components and incremental platform adoption'
 - line: Yeah. I think in that case, it doesn't mean that you should not consider a
     platform. Because even for one team, at least some elements of a platform – for
     example, an experiment tracker, which is only one piece of a larger platform when
@@ -401,7 +409,7 @@ transcript:
   sec: 1204
   time: '20:04'
   who: Simon
-- header: The importance of processes in ML platforms
+- header: 'Data Science Workflow: Exploration to training and evaluation'
 - line: One thing we talked about was processes. We talked about skills that people
     need to have, but we also mentioned processes. Actually, one of the skills is
     understanding these processes and understanding how data scientists build models.
@@ -462,7 +470,6 @@ transcript:
   sec: 1464
   time: '24:24'
   who: Simon
-- header: Weighing your options with SaaS platforms
 - line: It's also important that you decide which platform to buy, because maybe not
     all the platforms support batch. I know I definitely saw a couple that do not
     support batch mode. They only support online, like web services. Then I was like,
@@ -516,13 +523,13 @@ transcript:
   sec: 1618
   time: '26:58'
   who: Simon
-- header: The exploratory setup, experiment tracking, and model registry
 - line: 'Okay. To summarize, the process is: first is the exploration phase, where
     you need to pull some data. For that you need a data processing platform, where
     it can explore things quickly. It could be a data warehouse, or a Spark cluster.'
   sec: 1679
   time: '27:59'
   who: Alexey
+- header: 'Self‑Service Compute: Notebooks, BigQuery, Databricks provisioning'
 - line: It could be, let's say, GCP of BigQuery and then you have some Colab notebook
     and you authenticate to BigQuery, write your SQL query, and the notebook pulls
     in your data. That would be an exploratory setup. Of course, you want to have
@@ -556,6 +563,7 @@ transcript:
   sec: 1774
   time: '29:34'
   who: Simon
+- header: 'Experiment Tracking: Low‑hanging fruit for reproducibility and collaboration'
 - line: Okay, so that's the data exploration part, where we pull the data, we explore,
     and we see what we can actually do with this data. The second step is, once we
     did the initial exploration, we train and evaluate models. Then you mentioned
@@ -573,6 +581,7 @@ transcript:
   sec: 1806
   time: '30:06'
   who: Simon
+- header: 'Model Registry: Persisting models for downstream consumption'
 - line: Then the next thing is persisting the model – making it available for downstream
     usage. You also mentioned that we need a thing called a model registry. I know
     that the experiment taking and model registry are usually the same tool, for example,
@@ -596,7 +605,7 @@ transcript:
   sec: 1858
   time: '30:58'
   who: Simon
-- header: What comes after deployment?
+- header: 'Deployment Patterns: Batch inference versus online serving'
 - line: Then we kind of finished the training phase, and then we go to the deployment
     phase. We need to make sure that somebody can consume the output of this model.
     Then we talked about deployment – we need to understand if we want to serve this
@@ -607,6 +616,7 @@ transcript:
   sec: 1875
   time: '31:15'
   who: Alexey
+- header: 'Orchestration Choices: Airflow, pipelines, and production workflows'
 - line: Yeah. I think even deployment typically depends a bit on how opinionated you
     want to be as an ML platform. That's also a piece that you could build, and you
     should consider building for your teams – reusable, centralized, managed deployment
@@ -642,7 +652,7 @@ transcript:
   sec: 1911
   time: '31:51'
   who: Simon
-- header: Stitching tools together to create an ML platform
+- header: 'Tool Integration: Stitching SaaS and open-source into a coherent platform'
 - line: When we talk about building a platform, do we actually mean that, “Okay, let's
     create an experiment tracker from scratch.” Or “Let's create a serving infrastructure
     from scratch based on PaScal (or whatever).” Or is it that here, we mean more
@@ -670,6 +680,7 @@ transcript:
   sec: 2114
   time: '35:14'
   who: Alexey
+- header: 'LLMs & Emerging Needs: Platform implications and vendor updates'
 - line: Yeah. I think it's a common misconception that people have, when you think,
     “Well, such an ML platform? I mean, I'm just gonna buy SageMaker (or I'm just
     gonna buy Vertex AI).” Yeah, it's not so easy, usually. Well, buying it is very
@@ -732,6 +743,7 @@ transcript:
   sec: 2314
   time: '38:34'
   who: Alexey
+- header: 'Developer Experience: Thin abstraction layers over cloud providers'
 - line: I believe that the layers around an existing platform should be as thin as
     possible. It always depends on what you really want to achieve. There is one side
     where you basically say, “I want my models to be built independent of whatever
@@ -754,6 +766,7 @@ transcript:
   sec: 2381
   time: '39:41'
   who: Alexey
+- header: 'Regulatory Constraints: Fintech, security, and compliance impact'
 - line: I would definitely say so. Again, it always depends on your company. I might
     also be quite biased because currently, I'm in the Fintech space and when it comes
     to financial stuff, there are a lot of regulations. There are fairly strong (for
@@ -766,7 +779,6 @@ transcript:
   sec: 2394
   time: '39:54'
   who: Simon
-- header: Keeping data governance in mind when building a platform
 - line: You also worked in algorithmic advertising, right? [Simon agrees] And you
     also worked in e-commerce. [Simon agrees] I guess the requirements there are less
     strict compared to Fintech?
@@ -791,6 +803,7 @@ transcript:
   sec: 2457
   time: '40:57'
   who: Simon
+- header: 'Metadata & Lineage: Reproducibility, artifact logging, and tracking'
 - line: So what to do with these cases – with data governance, with security, with
     auditability? I don't know how much SageMaker offers in this disregard. I guess
     you still need (especially for a bank) to build something on your own, right?
@@ -862,6 +875,7 @@ transcript:
   sec: 2724
   time: '45:24'
   who: Alexey
+- header: 'Data Governance: GDPR implications of logging and dataset storage'
 - line: Exactly. Yeah. While it's pretty cool, if you're dealing with smaller datasets
     – completely fine, right? You're just going to copy that, I don't know, 10, 15,
     100 megabyte dataset. Well, if your models run on tens or hundreds of gigabytes
@@ -886,7 +900,7 @@ transcript:
   sec: 2792
   time: '46:32'
   who: Simon
-- header: What comes first – the model or the platform?
+- header: 'Business-First Strategy: Models before heavy platform investment'
 - line: We have a couple of questions. The first question is kind of a chicken and
     egg problem. The question is, “Sometimes I encounter problems when trying to build
     a whole pipeline from scratch with no models built yet. How do you deal with drafting
@@ -923,6 +937,8 @@ transcript:
   sec: 2925
   time: '48:45'
   who: Alexey
+- header: 'Parallelization Strategy: Building minimal platform pieces alongside use
+    cases'
 - line: I think there are some pieces of a platform that already make a lot of sense
     with one model. I mentioned it before – an experiment tracker is a classic thing.
     That is something, I think, that is going to pay off no matter what size you are.
@@ -966,7 +982,7 @@ transcript:
   sec: 3075
   time: '51:15'
   who: Simon
-- header: Do MLOps engineers need to have deep knowledge of how models work?
+- header: 'MLOps Skill Focus: When platform engineers should learn model internals'
 - line: Thank you. Another question. “It seems that MLOps is biased more towards software
     engineering. Do we still need to invest time in learning state-of-the-art models?
     Or we just take whatever is there, such as what Hugging Face or another framework
@@ -974,6 +990,7 @@ transcript:
   sec: 3101
   time: '51:41'
   who: Alexey
+- header: 'API Design & Logging: Unified prediction schemas for monitoring and analytics'
 - line: Ooh, that's a good question. If I understand it correctly, what you're saying
     is that there are quite some Hugging Face as a model platform, and also a kind
     of a vendor (a service provider) that makes your life fairly easy already. So
@@ -1006,7 +1023,6 @@ transcript:
   sec: 3357
   time: '55:57'
   who: Simon
-- header: Is API design important for MLOps?
 - line: Thank you. Another question, “How important is API design for MLOps?”
   sec: 3255
   time: '54:15'
@@ -1074,7 +1090,7 @@ transcript:
   sec: 3448
   time: '57:28'
   who: Simon
-- header: Simon's recommendations for furthering MLOps knowledge
+- header: 'Learning Resources: Books, practical projects, and MLOps training'
 - line: So maybe you can recommend some further reading, if people want to learn more.
     It could be from you or from other people. Maybe there are already books about
     this stuff, maybe there are good courses, or good videos, good talks about this
@@ -1114,6 +1130,7 @@ transcript:
   sec: 3469
   time: '57:49'
   who: Simon
+- header: Episode Wrap‑Up and Closing Remarks
 - line: Yeah, thank you, Simon. Thanks a lot, everyone, for joining us today. Thanks,
     Simon, for joining us today too, and sharing all your expertise. That's all we
     have for now. Enjoy the rest of your day and the rest of the week. See you soon.

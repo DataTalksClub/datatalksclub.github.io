@@ -15,6 +15,8 @@ season: 15
 short: The Good, the Bad and the Ugly of GPT
 title: 'Build Secure LLM Apps: GPT, Prompt Engineering, Embeddings & Semantic Search'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Introduction: Sandra Kublik, AI entrepreneur and GPT-3 author'
 - line: This week, we'll talk about GPT, LLMs, and building NLP products. Interestingly,
     in the last year, we did not have any talks about the LLMs or GPT, but today is
     our second one in a row. The previous podcast interview was also about the LLMs.
@@ -33,6 +35,7 @@ transcript:
   sec: 75
   time: '1:15'
   who: Alexey
+- header: 'LLM Landscape: Why GPT and large language models are everywhere'
 - line: Thanks for having me, Alexey. Super, super excited to be here. Yeah, let's
     do this. I'm not surprised that it's the second interview about LLMs because they're
     everywhere right now. [chuckles]
@@ -47,7 +50,7 @@ transcript:
   sec: 160
   time: '2:40'
   who: Alexey
-- header: Sandra's background
+- header: 'Career Journey: Nextgrid, Lablab.AI and YouTube entry into AI'
 - line: Before we go into our main topic of LLMs and GPT, let's start with your background.
     Can you tell us about your career journey so far?
   sec: 185
@@ -110,7 +113,7 @@ transcript:
   sec: 195
   time: '3:15'
   who: Sandra
-- header: Making a YouTube channel to break into the LLM space
+- header: 'Early GPT Community: Gaining access and demo-driven growth'
 - line: That's quite a fascinating story – how you made a video to just get access
     to GPT-3. I'm wondering if today… I still don't have access to GPT-4, I think
     because I never used my API – I didn't put any money into it. Even though I'm
@@ -147,7 +150,8 @@ transcript:
   sec: 588
   time: '9:48'
   who: Alexey
-- header: The business cases for LLMs
+- header: 'GPT & LLM Business Use Cases: Text generation, embeddings, and semantic
+    search'
 - line: So your book is about the business and tech side of GPT and LLMs, right? [Sandra
     agrees] What business cases are there for using GPT?
   sec: 600
@@ -213,6 +217,7 @@ transcript:
   sec: 613
   time: '10:13'
   who: Sandra
+- header: 'Cohere Focus: Community building and LLM education'
 - line: You mentioned that you had a company Nextgrid, where you supported startups
     at the POC stage. Are you still doing any of that? Or are you fully focused on
     Cohere right now?
@@ -231,6 +236,7 @@ transcript:
   sec: 978
   time: '16:18'
   who: Alexey
+- header: 'Market Adoption: Startups, VC interest, and generative AI trends'
 - line: I mean, most of them. In the beginning, when we were founding Nextgrid, there
     were no startups that were trying out the adoption of text generation or text
     understanding models (LLMs). But right now… I mean, it's also because right now,
@@ -261,7 +267,7 @@ transcript:
   sec: 1002
   time: '16:42'
   who: Sandra
-- header: LLMs as amplifiers
+- header: 'LLMs as Amplifiers: Impact on authenticity and content scaling'
 - line: With this example – it's actually a pretty interesting example. It's good
     that you brought this up because to me, it feels like right now if we rely on
     our LLMs for generating content on social media – doesn't it become less authentic?
@@ -316,7 +322,7 @@ transcript:
   sec: 1357
   time: '22:37'
   who: Sandra
-- header: The befits of keeping a human in the loop when using LLMs (AI limitations)
+- header: 'Human-in-the-Loop: Hallucinations, brand safety, and editorial curation'
 - line: So instead of fully automating and just letting GPT go wild and generate all
     the social media posts, we still need to have a human in the loop – maybe a copywriter
     that edits these things before they go live (before we publish them). Right?
@@ -392,7 +398,7 @@ transcript:
   sec: 1674
   time: '27:54'
   who: Alexey
-- header: Using LLMs as assistants
+- header: 'Specialist Assistants: Secure, domain-specific chatbots for professionals'
 - line: Yeah, I know. I know. But then… I think the user experience there will get
     better with more specialized text generation models toward specific use cases.
     In the example of your contract, you will be able to have a conversation with
@@ -454,7 +460,7 @@ transcript:
   sec: 1843
   time: '30:43'
   who: Sandra
-- header: Building an app that uses an LLM
+- header: 'Building LLM Apps: Model choice, architecture, and integration trade-offs'
 - line: Yeah. So let's say I want to build an app using GPT or some LLM. How do I
     go about that? Say I have some idea… I think at the beginning of this interview,
     we talked about needing to talk to users, understanding their problems, and figuring
@@ -498,6 +504,7 @@ transcript:
   sec: 2125
   time: '35:25'
   who: Alexey
+- header: 'Proprietary vs Open Source: Cost, latency, IP and data risk considerations'
 - line: Yes. Yes, exactly. “Where does my data go? What is happening to it? How much
     can I trust this model?” These are very important questions to ask yourself when
     you're selecting a proprietary model. Then there are also a bunch of compromises
@@ -521,7 +528,6 @@ transcript:
   sec: 2128
   time: '35:28'
   who: Sandra
-- header: Prompt whisperers and how to improve your prompts
 - line: Prompt whisperers. [laughs]
   sec: 2233
   time: '37:13'
@@ -535,6 +541,7 @@ transcript:
   sec: 2236
   time: '37:16'
   who: Alexey
+- header: 'Prompt Engineering: Iteration, examples, and prompt whisperer techniques'
 - line: “Prompt engineer” is this new profession that's already out there. Basically,
     it's developers who are really skilled at creating prompts, comparing prompts,
     and making them useful in production for businesses. Prompt whisperers are folks
@@ -576,6 +583,7 @@ transcript:
   sec: 2347
   time: '39:07'
   who: Alexey
+- header: 'Fine-Tuning & Embeddings: Domain adaptation and semantic retrieval'
 - line: That's mostly it. Then there's also fine-tuning. Models are trained on large
     amounts of data that come primarily from the internet. But then you have some
     sort of use case that requires specific lingo – you are building a chatbot assistant
@@ -627,6 +635,7 @@ transcript:
   sec: 2544
   time: '42:24'
   who: Alexey
+- header: 'Prompt Tips: Providing examples, context, and SEO-focused instructions'
 - line: Yeah. I mean it depends so much on the model that you're using because the
     prompts do not necessarily translate very easily to other models. If you're optimizing
     for Coherence Command, it will not perform in the same way as Antropic's Claude.
@@ -716,7 +725,7 @@ transcript:
   sec: 3027
   time: '50:27'
   who: Sandra
-- header: Sandra's 7-day LLM experiment
+- header: '7-Day LLM Experiment: Integrating language models into daily workflow'
 - line: We already talked about one of your videos, where you made a video about GPT
     without having access to GPT. That was a very interesting story. I have also heard
     that you have another YouTube video, where you integrated LLMs into your life
@@ -780,6 +789,7 @@ transcript:
   sec: 3087
   time: '51:27'
   who: Sandra
+- header: 'Productivity Tools: Email assistants and content automation extensions'
 - line: Are the tools that integrate into Gmail and help write emails?
   sec: 3363
   time: '56:03'
@@ -817,7 +827,7 @@ transcript:
   sec: 3456
   time: '57:36'
   who: Alexey
-- header: Sandra's LLM content recommendations
+- header: 'Learning Resources: LLM University, Cohere blog, and recommended readings'
 - line: Maybe the last thing I want to ask you before we finish is – I know you have
     a book. But this book is like two years old, right? So maybe some things are a
     bit outdated. Is there any other resource that you would recommend for people
@@ -856,7 +866,7 @@ transcript:
   sec: 3622
   time: '1:00:22'
   who: Sandra
-- header: Finding Sandra online
+- header: 'Contact & Social: Where to find Sandra online (YouTube, X, LinkedIn)'
 - line: Or maybe, if somebody wants to ask you a question, should they write you through
     LinkedIn? Or is there any other way you prefer to be connected?
   sec: 3630
@@ -876,12 +886,14 @@ transcript:
   sec: 3655
   time: '1:00:55'
   who: Sandra
+- header: Episode Wrap-Up and Next Steps
 - line: Exactly. [chuckles] Okay, yeah. Thanks, Sandra, for joining us today. And
     thanks, everyone, for joining us today, too. I don't know – the next episode will
     probably not be about LLMs, but let's see. [chuckles] Maybe it actually will be.
   sec: 3664
   time: '1:01:04'
   who: Alexey
+- header: Closing Remarks
 - line: I hope there will be more episodes, anyway. Maybe not the next one, but in
     the future. But it was really, really fun to talk to you. Thanks for having me
     and have a great rest of your day/evening/morning.

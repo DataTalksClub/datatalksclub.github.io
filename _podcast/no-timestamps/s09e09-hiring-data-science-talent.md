@@ -16,6 +16,8 @@ short: Hiring Data Science Talent
 title: 'How to Hire Data Scientists: Interview Questions, MLOps, AutoML Limits & Inclusive
   Hiring'
 transcript:
+- header: Episode Introduction
+- header: 'Career Beginnings: Applied mathematics, forecasting, and consulting'
 - line: This week, we'll talk about hiring data scientists. We have a special yesterday,
     Olga. Olga is a delivery director – a delivery data science director at Microsoft.
     Olga has worked in AI for over 16 years. She has worked in different roles, from
@@ -28,7 +30,6 @@ transcript:
   sec: 134
   time: '2:14'
   who: Olga
-- header: Olga’s career journey
 - line: Before we go into our main topic of hiring data scientists, let's start with
     your background. Can you tell us about your career journey so far?
   sec: 137
@@ -111,6 +112,7 @@ transcript:
   sec: 333
   time: '5:33'
   who: Olga
+- header: 'PhD Research: Air pollution modeling and conformal prediction'
 - line: By the way, check out this episode that Olga was talking about. I think I
     was talking with CJ Jenkins. It was called “From Academia to Data Science”. I
     think it was a couple of seasons ago, check it out. That was indeed the cool one.
@@ -148,6 +150,7 @@ transcript:
   sec: 493
   time: '8:13'
   who: Olga
+- header: 'Current Role: Leading delivery data science teams and startup support'
 - line: Okay. And what do you do now? If you can tell us.
   sec: 510
   time: '8:30'
@@ -182,7 +185,7 @@ transcript:
   sec: 514
   time: '8:34'
   who: Olga
-- header: Hiring data scientists now vs 7 years ago
+- header: 'Evolution of Data Science: Skill changes and rise of MLOps'
 - line: And, as I mentioned, you're involved in hiring, right? That's why we’re having
     this conversation today.
   sec: 638
@@ -262,7 +265,7 @@ transcript:
   sec: 849
   time: '14:09'
   who: Olga
-- header: The two qualities of an excellent data scientist
+- header: 'Core Hiring Criteria: Technical excellence and growth mindset'
 - line: Now, when you're hiring data scientists – when you're looking for a data scientist
     – what are the qualities you're looking for, typically?
   sec: 889
@@ -285,6 +288,7 @@ transcript:
   sec: 935
   time: '15:35'
   who: Alexey
+- header: 'Technical Depth: Demonstrating algorithmic understanding and assumptions'
 - line: That's a great question. What I mean by “great technical skills” is essentially.
     [sighs] How do I say this? You know, if you're a professional chef, you know that
     you’re good. [Alexey laughs] You know how to chop an onion very, very well, but
@@ -325,6 +329,7 @@ transcript:
   sec: 1067
   time: '17:47'
   who: Alexey
+- header: 'Attitude & Motivation: Assessing passion, humility, and communication'
 - line: Right. Do you mind if I answer about the second aspect of what I'm looking
     for? You asked me about what I look for in a data scientist.
   sec: 1083
@@ -399,7 +404,7 @@ transcript:
   sec: 1209
   time: '20:09'
   who: Alexey
-- header: What makes Alexey do this podcast
+- header: 'Podcasting as Learning: Conversations that shape career perspectives'
 - line: Let me try it. So, Alexey, why are you into data science? What makes you do
     this podcast?
   sec: 1216
@@ -464,7 +469,7 @@ transcript:
   sec: 1363
   time: '22:43'
   who: Alexey
-- header: How Alexey get the latest information on data science
+- header: 'Staying Current: Sources for data science and engineering updates'
 - line: Right. And then another, almost last question – I also know that you have
     a day job as a principal data scientist. On your reading list – the stuff that
     you're reading right now – what is the most prominent source of where you get
@@ -508,7 +513,7 @@ transcript:
   sec: 1516
   time: '25:16'
   who: Olga
-- header: How Olga checks a candidate’s technical skills
+- header: 'Technical Interviews: Coding, analytical tasks, and objective criteria'
 - line: I think I asked you a question, which you kind of diverted from. We were talking
     about two things that you look at – technical skills and attitude. I think both
     of these things are kind of hard to measure. They're more subjective, but there
@@ -564,6 +569,7 @@ transcript:
   sec: 1551
   time: '25:51'
   who: Olga
+- header: 'Diagnostic Questions: Sample problems that reveal depth of knowledge'
 - line: So are there distributions that do not have a mean?
   sec: 1712
   time: '28:32'
@@ -580,7 +586,6 @@ transcript:
   sec: 1723
   time: '28:43'
   who: Olga
-- header: How to make an answer stand out (showing your depth of knowledge)
 - line: '[chuckles] What was the most interesting answer you got when you asked about
     the mean?'
   sec: 1728
@@ -642,6 +647,7 @@ transcript:
   sec: 1803
   time: '30:03'
   who: Olga
+- header: 'Foundational Skills: Descriptive statistics and recommended reading'
 - line: Interesting.
   sec: 1875
   time: '31:15'
@@ -691,7 +697,7 @@ transcript:
   sec: 1950
   time: '32:30'
   who: Olga
-- header: A strong mathematical background vs a strong engineering background
+- header: 'Role Fit: Hiring for mathematical expertise versus engineering skills'
 - line: Okay. Since we talked a bit about statistics and math – what do you think?
     What is more important, a strong mathematical background, or a strong engineering
     background when we hire people? Or do we just hire both? How do we decide?
@@ -806,7 +812,7 @@ transcript:
   sec: 2263
   time: '37:43'
   who: Olga
-- header: When Auto ML will replace the need to have data scientists
+- header: 'AutoML & Automation: Limits of AutoML and the human-in-the-loop'
 - line: The first question is from Ilya. Ilya is asking, “When will Auto ML replace
     humans and hiring data scientists will not be necessary anymore?”
   sec: 2264
@@ -889,8 +895,7 @@ transcript:
   sec: 2506
   time: '41:46'
   who: Alexey
-- header: Should data scientists transition into management? (the importance of communication
-    in an organization)
+- header: 'Career Paths: Individual contributor vs management trade-offs'
 - line: Anyways, an interesting question, “Personally, I am good at data science,
     but my manager wants me to do a course in management, which I feel is not relevant
     for me since my passion is in data science.” Do you have any suggestions for people
@@ -954,7 +959,7 @@ transcript:
   sec: 2735
   time: '45:35'
   who: Olga
-- header: Switching from a data analyst role to a data scientist
+- header: 'Career Transition: From data analyst to data scientist'
 - line: So the company should really think about this. Okay, fair enough. How hard
     would it be to switch from a data analyst role to a data scientist?
   sec: 2737
@@ -997,7 +1002,7 @@ transcript:
   sec: 2802
   time: '46:42'
   who: Olga
-- header: Attracting female talent in data science
+- header: 'Diversity Hiring: Strategies to attract female data science talent'
 - line: One thing I also wanted to talk to you about was one of the things you mentioned
     when we just started this conversation – about inviting you to this podcast. You
     mentioned that you managed to attract a significant share of excellent female
@@ -1114,6 +1119,8 @@ transcript:
   sec: 2995
   time: '49:55'
   who: Olga
+- header: 'Inclusive Job Posts: Language, requirements, and avoiding discouraging
+    wording'
 - line: One of the questions I wanted to ask is how to make job descriptions more
     attractive to female candidates. I think you partly answered that question by
     citing this research that women apply when they tick 100% of the boxes, but when
@@ -1151,7 +1158,6 @@ transcript:
   sec: 3303
   time: '55:03'
   who: Olga
-- header: Changing a job description to find talent
 - line: I came across a startup, or a company, where they offer you to upload a job
     description, and in this job description, they will highlight things that say,
     “Okay, if you include this word, it will discourage female candidates. Will you
@@ -1171,7 +1177,7 @@ transcript:
   sec: 3354
   time: '55:54'
   who: Olga
-- header: Long gaps in the CV
+- header: 'Employment Gaps: Evaluating candidates with long CV breaks'
 - line: I see that we don't have a lot of time left, and I know you need to go. So
     maybe, I don't know if you can answer that quickly, but maybe you can try. “Will
     you consider a person who has a gap of six years while hiring?”
@@ -1222,7 +1228,6 @@ transcript:
   sec: 3483
   time: '58:03'
   who: Olga
-- header: Eierlegende Wollmilchsau
 - line: That is a small request for you. Can you type the German worth your said?
   sec: 3532
   time: '58:52'
@@ -1240,6 +1245,7 @@ transcript:
   sec: 3546
   time: '59:06'
   who: Olga
+- header: Episode Wrap-up & Resources
 - line: Yes, that is alright. So please check the comments section after the call.
     The word will be there. Okay. I think that's all. Thanks a lot for joining us.
     Thanks a lot for sharing your expertise with us. We didn't cover most of the questions

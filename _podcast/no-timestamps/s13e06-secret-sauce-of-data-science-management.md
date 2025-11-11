@@ -16,6 +16,7 @@ short: The Secret Sauce of Data Science Management
 title: 'Master Data Science Management: Agile ML, Debrief Culture, Metrics & Scale
   to Production'
 transcript:
+- header: 'Episode Introduction: The Secret Sauce of Data Science Management'
 - line: This week, we'll talk about the secret sauce of data science management. We
     have a special guest today, Shir. Shir is a data science group manager at Intuit
     in the United States. She's working on developing machine learning and deep learning
@@ -38,7 +39,6 @@ transcript:
   sec: 136
   time: '2:16'
   who: Shir
-- header: Shir’s background
 - line: Yeah, we always have these technical issues. Anyways. I think we should start.
     But before we go into our main topic of the secret sauce of data science management,
     let's start with your background. Can you tell us about your career journey so
@@ -46,6 +46,7 @@ transcript:
   sec: 142
   time: '2:22'
   who: Alexey
+- header: 'Career Background: Electrical Engineering to Document Intelligence at Intuit'
 - line: Yeah, sure. I studied electrical engineering, I did my Bachelor’s and Master's
     in that topic at Ben-Gurion University in Negev, Israel. Since then, I have worked
     in two startups as a data scientist – an algorithm developer. Five and a half
@@ -73,6 +74,7 @@ transcript:
   sec: 252
   time: '4:12'
   who: Alexey
+- header: 'Military Leadership Lessons: Pilot Training & Debrief Culture Origins'
 - line: Yeah, I actually served for three years in the army. I was a pilot instructor.
     It's interesting that you said that. I was a pilot instructor in a flight simulator.
     Basically, I trained helicopter pilots for Blackhawks and Super Stallion.
@@ -89,7 +91,7 @@ transcript:
   sec: 298
   time: '4:58'
   who: Shir
-- header: Debrief culture
+- header: 'Debriefing Practice: Pre/post Focus Areas for Continuous Improvement'
 - line: Which, I guess, is quite related to the topic today. So what is this debrief
     culture? What does “debrief” mean?
   sec: 324
@@ -161,7 +163,7 @@ transcript:
   sec: 541
   time: '9:01'
   who: Alexey
-- header: The responsibilities of a group manager
+- header: 'Group Manager Role: Strategy, Mentoring, Standards and Roadmaps'
 - line: Anyways, we stopped at the debrief summary – debrief culture. What I wanted
     to ask you next is – what do you actually do as a group manager? What are your
     responsibilities?
@@ -185,7 +187,6 @@ transcript:
   sec: 574
   time: '9:34'
   who: Shir
-- header: Defining the success of a DS manager
 - line: Okay, that's quite a few things. So you're managing the managers and you also
     mentioned ICs, but I guess these are people on the staff or principal level, right?
     Then you also take care of the strategy for the entire group when it comes to
@@ -205,6 +206,7 @@ transcript:
   sec: 692
   time: '11:32'
   who: Alexey
+- header: 'Measuring Success: Business Impact and Team Engagement Metrics'
 - line: Yeah. I think that when you say “What is success,” you always need to have
     a measurement for that. I think the two things I focus on, is how much we're able
     to deliver impact for the business. This is one aspect of success. And the other
@@ -221,6 +223,7 @@ transcript:
   sec: 751
   time: '12:31'
   who: Alexey
+- header: 'People Metrics: Pulse Surveys, Manager Score and Skip-level Feedback'
 - line: Luckily, because we are at a big company, we have what's called a “pulse survey”.
     Basically, that's a survey that's done every six months. That's not everything,
     but that actually measures at least one aspect of that. It measures, for example,
@@ -270,13 +273,14 @@ transcript:
   sec: 930
   time: '15:30'
   who: Shir
-- header: The three pillars of data science management
 - line: Okay. On that talk that you mentioned – the PyData talk – you talked about
     the three pillars of data science management. Do you remember what these pillars
     are? Or is this what we already talked about just now?
   sec: 965
   time: '16:05'
   who: Alexey
+- header: 'Leadership Pillars: Vision, Driving Results, Building High-performance
+    Culture'
 - line: Yeah. We have managing up, managing across, and managing below. Actually,
     I want to add something more – we have the Intuit leadership playbook, which I
     think is also really helpful. They also kind of define three pillars. It's not
@@ -295,11 +299,11 @@ transcript:
   sec: 979
   time: '16:19'
   who: Shir
-- header: Managing up
 - line: So what is “managing up”? What does it mean?
   sec: 1040
   time: '17:20'
   who: Alexey
+- header: 'Managing Leadership Relationships: Communicating Vision and Securing Resources'
 - line: “Managing up” is how you work with your leadership team – with your manager,
     with a manager of your manager – to give them an understanding of what your vision
     of your team is. Share with them the success of your team, the requirements for
@@ -428,7 +432,6 @@ transcript:
   sec: 1432
   time: '23:52'
   who: Shir
-- header: Managing down
 - line: Okay, so we've talked about “managing up,” which is letting your manager,
     or the manager of your manager, (when you are manager, the upper management) know
     what exactly your team is doing and what their accomplishments are.
@@ -441,6 +444,7 @@ transcript:
   sec: 1434
   time: '23:54'
   who: Alexey
+- header: 'Team Development: Goal-setting, One-on-ones, Feedback and Recognition'
 - line: Yeah. “Managing down” or “managing below” basically means similar things to
     building a high performing culture. It is doing everything that consists of the
     manager score, if you are a manager. This is defining the expectations for your
@@ -479,6 +483,7 @@ transcript:
   sec: 1582
   time: '26:22'
   who: Alexey
+- header: 'Goal Alignment: Cascading Roadmap Goals to Individual Development'
 - line: No, I did something with the entire group. But in the company, because it's
     a big company, you have a lot of levels of hierarchy. It starts with the most
     upper levels – the directors, the VP – they set their goals, and according to
@@ -570,6 +575,7 @@ transcript:
   sec: 1860
   time: '31:00'
   who: Alexey
+- header: 'Fostering Innovation: Hackathons, Paper Clubs and Learning Forums'
 - line: Yeah. This is a lot about the individuals in the team. There are also some
     aspects of team building, where you want to make sure that you have good team
     spirit and team atmosphere. You want to have a group meeting where there is a
@@ -600,7 +606,6 @@ transcript:
   sec: 1920
   time: '32:00'
   who: Shir
-- header: Managing across
 - line: Okay, interesting. The last pillar is “managing across”. I understand “up”.
     You have this hierarchy – you manage your managers, and the hierarchy goes down,
     where you manage your team. But what is “across”? Does it mean that, in your case,
@@ -609,6 +614,7 @@ transcript:
   sec: 2042
   time: '34:02'
   who: Alexey
+- header: 'Cross-Functional Integration: Product Partnerships and Expectation Management'
 - line: It will change from organization to organization. One thing would be the collaboration
     with other AI managers in the organization. This would be one aspect of that.
     But a lot of that is just working with product teams, because we are not a self-sufficient
@@ -719,7 +725,7 @@ transcript:
   sec: 2462
   time: '41:02'
   who: Shir
-- header: Managing data science teams vs business teams
+- header: 'AI Project Uncertainty: Data Risks, Unknowns and Rapid Experimentation'
 - line: Okay. [chuckles] We have a few questions so maybe I'll go and check out these
     questions. A question from Patrick is, “Is there any major difference that you
     noticed regarding the management of data science teams versus usual business teams?
@@ -751,7 +757,6 @@ transcript:
   sec: 2496
   time: '41:36'
   who: Shir
-- header: Scrum teams, brainstorming, and sprints
 - line: Yesterday we had another interview about software engineering practices for
     machine learning. The guest, Nadia, mentioned that it's quite difficult right
     now to merge the data science process (how we deliver projects with data science)
@@ -768,6 +773,7 @@ transcript:
   sec: 2610
   time: '43:30'
   who: Alexey
+- header: 'Agile for ML: Two-week Sprints, Exploration Tasks and Grooming Practices'
 - line: Yeah. [chuckles] Actually, my current team does work in Scrum.
   sec: 2658
   time: '44:18'
@@ -799,6 +805,7 @@ transcript:
   sec: 2717
   time: '45:17'
   who: Alexey
+- header: 'Scoping ML Work: Exploration Sprints, Design Stories and Iterative Milestones'
 - line: I think they're doing a really great job at that. But it's really hard. They
     try to break things into smaller points. I think that in the data science part,
     sometimes it will take longer than we expected. But they try to break it down
@@ -882,7 +889,7 @@ transcript:
   sec: 2979
   time: '49:39'
   who: Shir
-- header: The most important skills and strategies for DS and ML managers
+- header: 'Core Manager Skills: Communication, Strategic Clarity and Growth Mindset'
 - line: Okay, another question from Patrick. “What is, in your view, the most important
     skill for a manager in data science and machine learning?”
   sec: 2994
@@ -1014,7 +1021,8 @@ transcript:
   sec: 3295
   time: '54:55'
   who: Shir
-- header: Making sure proof of concepts get into production
+- header: 'POC to Production: Customer-focused Metrics, A/B Testing and Incremental
+    Rollout'
 - line: There is another question. I know we don't have a lot of time – only two minutes.
     I don't know if you can answer this in two minutes. Maybe you can give us a very
     brief overview. The question is, “A lot of data science proof of concepts do not
@@ -1076,12 +1084,14 @@ transcript:
   sec: 3463
   time: '57:43'
   who: Alexey
+- header: 'Resources & Further Reading: Shir’s Talks and Blog Posts'
 - line: Yeah. Thank you so much, Alexey. I do have a few blog posts I've written in
     the past about leading a data science team, about how to streamline the development
     process of AI solutions. So I'm happy to share those resources.
   sec: 3498
   time: '58:18'
   who: Shir
+- header: Episode Wrap-up and Closing Remarks
 - line: Okay, well, then, have a great weekend, everyone. Goodbye.
   sec: 3517
   time: '58:37'

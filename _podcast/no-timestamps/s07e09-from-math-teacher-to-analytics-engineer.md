@@ -34,6 +34,7 @@ season: 7
 short: From Math Teacher to Analytics Engineer
 title: 'How to Break into Data Analytics: Networking, Portfolio, SQL & Interview Prep'
 transcript:
+- header: Podcast Introduction
 - line: This week, we'll talk about transitioning to analytics. And we have a special
     guest today, Juan Pablo, Juan Pablo was a math teacher who switched careers and
     became an analytics engineer. He currently works at Amazon. And he also mentors
@@ -46,7 +47,7 @@ transcript:
   sec: 104
   time: '1:44'
   who: Juan Pablo
-- header: 'Career Journey: Math Graduate, Teaching, and Data Analytics Goal'
+- header: 'Background & Motivation: Math Graduate to Data Analytics'
 - line: Thanks for joining us. Before we go into our main topic of transition into
     analytics to analytics engineering, let's start with your background. Can you
     tell us about your career journey so far?
@@ -69,7 +70,7 @@ transcript:
   sec: 169
   time: '2:49'
   who: Juan Pablo
-- header: 'Transition to Tech: Consulting, T-Mobile, and Amazon Role'
+- header: 'Early Roles & Mentoring: Consulting, T-Mobile, Amazon Path'
 - line: My first role was at a consulting company in the Seattle Washington area.
     My second role was with T-Mobile. T-Mobile was a client [of the consulting company].
     That's very common in consulting where the client poaches you, or asks you to
@@ -84,7 +85,7 @@ transcript:
   sec: 225
   time: '3:45'
   who: Juan Pablo
-- header: 'Resource: DataTalks.Club Course Visibility and Value'
+- header: 'Community & Resources: Amplifying Learning Platforms'
 - line: Thanks for advertising our data engineering course. This tweet really took
     off and a lot of people saw the course because of your tweets. Thanks for doing
     that.
@@ -102,7 +103,6 @@ transcript:
   sec: 256
   time: '4:16'
   who: Juan Pablo
-- header: 'Teaching Calculus: Realization of Need for Career Change'
 - line: Thanks. You mentioned this intermediate value theorem. Is it something from
     Game Theory?
   sec: 310
@@ -112,6 +112,7 @@ transcript:
   sec: 315
   time: '5:15'
   who: Juan Pablo
+- header: Math Foundations & Machine Learning Relevance
 - line: So, you were teaching calculus?
   sec: 325
   time: '5:25'
@@ -144,7 +145,6 @@ transcript:
   sec: 407
   time: '6:47'
   who: Alexey
-- header: 'Calculus Applications: Chain Rule, Deep Learning, and Student Questions'
 - line: Hopefully. When you think about the chain rule, I'm sure at some point, you
     must have seen it either in high school or in university. Unless you go into math
     or statistics, you might not revisit it again. It's common that people forget.
@@ -160,7 +160,7 @@ transcript:
   sec: 477
   time: '7:57'
   who: Alexey
-- header: 'Transition Steps: Biostatistics, R Programming, and Data Science Hype'
+- header: 'Transition Path: Biostatistics, R, SAS and Discovering SQL'
 - line: So, you were a math teacher. You were tired of teaching Intermediate Value
     Theorem for the fifth time. And then you went to research. Right? Is this how
     it happened?
@@ -199,7 +199,6 @@ transcript:
   sec: 616
   time: '10:16'
   who: Juan Pablo
-- header: 'Data Analytics Bootcamp: Moving to West Coast; Cost vs. Network'
 - line: I was in the middle of the country, in the Midwest. So after my year ended,
     I moved to the west coast, where the jobs are, and where the tech money is in
     the United States. Before that, I actually lived with my parents. And I joined
@@ -227,7 +226,7 @@ transcript:
   sec: 784
   time: '13:04'
   who: Alexey
-- header: 'Bootcamp Focus: Analytics over Data Science; Nine-Month Job Hunt'
+- header: 'Bootcamp Trade-offs: Cost, Network and a Nine-Month Job Search'
 - line: It was mainly analytics. They advertised it as both, but it was mainly analytics.
     And it seemed easier to get a data analyst job than a data scientist job, particularly
     with no internships or no tangible experience. And at some point, the time you're
@@ -245,7 +244,6 @@ transcript:
   sec: 832
   time: '13:52'
   who: Juan Pablo
-- header: 'Getting Money While Studying: Working at Restaurant & Driving Uber'
 - line: You didn't have any income during this time, right? You quit your math job.
     And you also were taking bootcamp. It wasn't free, right? So you needed leave
     on your savings.
@@ -273,7 +271,7 @@ transcript:
   sec: 934
   time: '15:34'
   who: Juan Pablo
-- header: 'Strategy: In-Person Networking at Meetups; Landing First Job'
+- header: 'Networking Wins: Meetups Leading to First Offer'
 - line: Moving back to the story. Back in 2016, people would work online, but network
     in person. Luckily, I was in the Seattle area. There was a neighbourhood called
     Pioneer Square. They had a venue where they hosted events - like meetup events.
@@ -297,7 +295,7 @@ transcript:
   sec: 1071
   time: '17:51'
   who: Alexey
-- header: 'Social Proof: Hustle for Opportunities; Amazon Label Advantage'
+- header: 'Building Credibility: Employer Brand & Social Proof'
 - line: 'Correct. Clicking "Submit" works for some, but it didn''t work for me at
     the time. It works for me now: my labels are different. After working for Amazon,
     people will give you more opportunities than when you''re a high school teacher
@@ -331,7 +329,7 @@ transcript:
   sec: 1201
   time: '20:01'
   who: Alexey
-- header: 'Strategy: Looking for Uncrowded Doors; Thinking Outside the Box'
+- header: 'Uncrowded Doors: Alternative Job‑Hunting Strategies'
 - line: The market is tough for people without experience. If you're in that group,
     you have to hustle. You have to look for alternative ways to get in front of a
     hiring manager. You have to think outside the box. You have to look for the uncrowded
@@ -348,7 +346,7 @@ transcript:
   sec: 1266
   time: '21:06'
   who: Alexey
-- header: 'Tool: Leveraging LinkedIn (Active Posting, Adding Value, Visibility)'
+- header: 'LinkedIn Tactics: Active Posting, Commenting & Visibility'
 - line: I have this tweet in front of me. First, if you're on LinkedIn, it's a big
     plus. But just being on LinkedIn is not enough. It helps if you're active on LinkedIn.
     Most people use LinkedIn the wrong way. People can do more than just liking a
@@ -374,7 +372,7 @@ transcript:
   sec: 1394
   time: '23:14'
   who: Juan Pablo
-- header: 'Tool: Resume Always Up-to-Date; Quick Share Capability'
+- header: 'Resume Readiness: Quick Sharing and On-the-Spot Opportunities'
 - line: Another one. Your resume should always be up-to-date. If you have a link to
     it, share it. You're looking for work, and someone approaches you. They say, "could
     I take a look at your resume?" You tell them "I have to go back home and get on
@@ -384,7 +382,7 @@ transcript:
   sec: 1427
   time: '23:47'
   who: Juan Pablo
-- header: 'Tool: Portfolio; Rpubs, Data Wrangling, Basic ML Models'
+- header: 'Portfolio Essentials: rpubs, EDA, Visualizations & Basic ML'
 - line: A third one is to have a portfolio. It doesn't have to be the most advanced
     portfolio. But it should be a link where people can see what you've done. Especially
     when you're trying to land that first job. Since I mainly was familiar with R,
@@ -422,7 +420,7 @@ transcript:
   sec: 1589
   time: '26:29'
   who: Alexey
-- header: 'Portfolio Strategy: Three Projects Sufficient; Any Portfolio is Better'
+- header: 'Portfolio Strategy: Three Projects and Publicizing Work'
 - line: Three is good enough. We're talking about entry-level roles. My first role
     didn't pay much. So I think it was good enough. I actually had maybe seven or
     eight.
@@ -453,7 +451,7 @@ transcript:
   sec: 1692
   time: '28:12'
   who: Juan Pablo
-- header: 'Networking Technique: Identifying Managers at Meetups'
+- header: 'Meetup Tactics: Spotting and Approaching Hiring Managers'
 - line: Let's say you're on a meetup. And you want to... make a move. You see somebody
     and you want to say, "I'm looking for a job". How do you do this?
   sec: 1699
@@ -522,7 +520,7 @@ transcript:
   sec: 1921
   time: '32:01'
   who: Alexey
-- header: 'Tool: Reaching Out to Recruiters via LinkedIn Messages'
+- header: 'Cold Outreach & DIY Internships: 200 Messages and Trial Offers'
 - line: We talked about LinkedIn. We talked about having your resume handy. We talked
     about building a portfolio. I would love to talk about the rest.
   sec: 1947
@@ -556,7 +554,6 @@ transcript:
   sec: 2041
   time: '34:01'
   who: Juan Pablo
-- header: 'Strategy: Consider Contracts, Temporary Roles for Experience'
 - line: Number five. Consider contracts and temporals. I have met multiple aspiring
     data scientists and analysts who were looking for their ideal company. The ideal
     company could be Amazon or Facebook. They will not consider a contract role that
@@ -568,11 +565,11 @@ transcript:
   sec: 2046
   time: '34:06'
   who: Juan Pablo
-- header: 'Tool: Dice.com for US Contract Roles; Calling Recruiters'
 - line: What's a good place to find such roles?
   sec: 2102
   time: '35:02'
   who: Alexey
+- header: 'Finding Contract Work: Dice, Recruiter Calls and Freelance Tradeoffs'
 - line: In the US, dice.com is the best place. If you want to stand out from the crowd,
     call the recruiters on dice. You click on a job posting and you see the recruiter
     John Smith. Many times they post their number. Just call them. Ask them questions.
@@ -616,11 +613,11 @@ transcript:
   sec: 2255
   time: '37:35'
   who: Juan Pablo
-- header: 'Strategy: Helping Nonprofits; Tool: Catch a Fire Website'
 - line: Let's go to number six.
   sec: 2287
   time: '38:07'
   who: Alexey
+- header: 'Pro Bono & Nonprofit Projects: Catchafire for Real Experience'
 - line: 'I hear this a lot: "I don''t have enough experience, and I don''t know how
     to get it". You can help a nonprofit with a project. It might not be the ideal
     project. But it is a project that is helping an organisation. It''s real. I don''t
@@ -639,7 +636,6 @@ transcript:
   sec: 2324
   time: '38:44'
   who: Juan Pablo
-- header: 'Strategy: Create Your Own Internship; Small-Medium Companies'
 - line: 'Number seven: create your own internship. This is what I did with the linkedin
     messages. When I got offered that temporary job, or temporary probation period.
     You reach out to someone, typically a smaller medium company. You''re not going
@@ -680,7 +676,7 @@ transcript:
   sec: 2500
   time: '41:40'
   who: Alexey
-- header: Copy and Paste Messaging; Personalization using Alumni Status
+- header: 'Messaging Strategy: Personalization, Alumni Hooks & Templates'
 - line: I would just copy and paste. I targeted small-medium sized marketing agencies
     who need some analytics work and potentially some web development work - in my
     area. I also targeted them in cities where I had lived. I didn't go to school
@@ -710,7 +706,6 @@ transcript:
   sec: 2582
   time: '43:02'
   who: Alexey
-- header: 'Temporary Work: Long-Term Investment for CV Experience'
 - line: It's a long-term investment. I don't even know if "investment" because you're
     actually making money from it.
   sec: 2600
@@ -730,6 +725,7 @@ transcript:
   sec: 2663
   time: '44:23'
   who: Alexey
+- header: 'Consistency & Visibility: Posting Frequency and the Algorithm'
 - line: You have to keep popping up too. On Twitter, you have to keep popping up for
     people to say, "I've seen this person 10 times. I'm going to click on it now".
   sec: 2666
@@ -741,13 +737,13 @@ transcript:
   sec: 2680
   time: '44:40'
   who: Alexey
-- header: 'Tool: Zyro (No-Code Website Builder) for Clean Portfolio'
 - line: One thing I wanted to ask you. You mentioned you did the first website yourself
     - you were taking some courses on FreeCodeCamp. But you used a website builder
     for the website you have right now. What is this builder?
   sec: 2697
   time: '44:57'
   who: Alexey
+- header: 'Portfolio Hosting Options: Zyro, GitHub, WordPress, Hashnode'
 - line: I used Zyro.
   sec: 2718
   time: '45:18'
@@ -797,13 +793,12 @@ transcript:
   sec: 2836
   time: '47:16'
   who: Juan Pablo
-- header: 'Free Portfolio Alternatives: WordPress, Rpubs, GitHub, Hashnode'
 - line: That's not the most important thing, right? If you're looking for a job, a
     GitHub page will do.
   sec: 2892
   time: '48:12'
   who: Alexey
-- header: 'Portfolio Focus: Good Description and Readme over Code'
+- header: 'Project Presentation: Clean README, Docs and Repo Organization'
 - line: Yes, a GitHub page would do. But you have to make it easy for those who land
     on your page to know where's what. It's okay to be redundant and over explain.
     It's much better than having no description. Most people don't want to look just
@@ -821,7 +816,7 @@ transcript:
   sec: 2932
   time: '48:52'
   who: Alexey
-- header: 'Advice for Math Teachers: Learn SQL, Python, Visualization Tools'
+- header: 'Skills Roadmap & Interview Prep: SQL, Python, Visualization'
 - line: 'We have a few questions. The first question: "I currently work as a math
     teacher, and I want to switch careers to data field". Sounds familiar? "Can you
     give tips or tricks to do it?" I think you already gave quite a few suggestions.
@@ -856,7 +851,6 @@ transcript:
   sec: 3095
   time: '51:35'
   who: Juan Pablo
-- header: 'Interview Preparation: Familiarize with Standard Structures'
 - line: I don't know who this person is. Perhaps they're different from me. But teachers,
     STEM students - math, physics, stats, computer science students - think that they
     should know everything before going into an interview. Or they think they should
@@ -871,11 +865,11 @@ transcript:
   sec: 3147
   time: '52:27'
   who: Juan Pablo
-- header: 'Current Role: Amazon Business Intelligence Engineer (Analytics Engineer)'
 - line: By the way, what do you do now? You work at Amazon, right?
   sec: 3168
   time: '52:48'
   who: Alexey
+- header: 'Role Realities: BI / Analytics Engineer Work at Amazon'
 - line: Yes, I'm an Amazon in advertising. I'm in a BI and data engineering team.
     We consume data from upstream teams, and then make it available to troubleshooting
     consultants across nine different countries. It's a lot of ingesting data, building
@@ -917,7 +911,6 @@ transcript:
   sec: 3269
   time: '54:29'
   who: Juan Pablo
-- header: 'First Job Role: Data Analyst Consultant (SQL, Tableau)'
 - line: But the main concepts of visualisation still apply to Tableau, Power BI or
     whatever you use, right?
   sec: 3322
@@ -928,11 +921,11 @@ transcript:
   sec: 3330
   time: '55:30'
   who: Juan Pablo
-- header: 'Best Suggestion: Consistency, Perseverance, Keep Showing Up'
 - line: When you started, what was the best suggestion that helped you more than others?
   sec: 3345
   time: '55:45'
   who: Alexey
+- header: 'Career Advice: Consistency, Soft Skills and STAR Format'
 - line: It's something that still works. You have to keep showing up. Showing up is
     50% of the battle, right? You have to be there all the time.
   sec: 3362
@@ -964,7 +957,7 @@ transcript:
   sec: 3449
   time: '57:29'
   who: Alexey
-- header: 'Strategy: Networking at Online Conferences (e.g., Hopin Random Date)'
+- header: 'Online Networking: Hopin Random Date & Virtual Meetups'
 - line: Now, because of the pandemic, not all meetups are open or not everyone will
     go. But you can do the networking online. That's the biggest change between 2016
     and today.
@@ -987,13 +980,13 @@ transcript:
   sec: 3561
   time: '59:21'
   who: Juan Pablo
-- header: 'Soft Skills: Good Communication; Tool: STAR Format Summary'
 - line: We should be wrapping up. Last first question. "What are some important skills
     that you should highlight in your portfolio? Things outside of common data skills".
     You mentioned soft skills. What else?
   sec: 3565
   time: '59:25'
   who: Alexey
+- header: 'Communicating Impact: Summarizing Projects for Hiring Managers'
 - line: 'Everybody''s doing exploratory data analysis, data wrangling, data visuals.
     To set yourself apart, you can bring good communication: be concise and direct,
     be clear with your words, when you describe what you''re solving. The STAR format
@@ -1003,11 +996,11 @@ transcript:
   sec: 3599
   time: '59:59'
   who: Juan Pablo
-- header: 'Skills: Being Organized; Clean Readme, Version Control'
 - line: Being organised is also important. If your project is one structure, apartment,
   sec: 3655
   time: '1:00:55'
   who: Juan Pablo
+- header: 'Project Hygiene: Version Control and Shared Repositories'
 - line: Your project should have a clean readme, then it's clear what's happening
     there.
   sec: 3666
@@ -1034,6 +1027,7 @@ transcript:
   sec: 3735
   time: '1:02:15'
   who: Alexey
+- header: Personal Branding & Contact Info
 - line: ThatJuanPablo, right? And your website is also ThatJuanPablo.com?
   sec: 3751
   time: '1:02:31'
@@ -1051,6 +1045,7 @@ transcript:
   sec: 3779
   time: '1:02:59'
   who: Juan Pablo
+- header: Episode Closing
 - line: Thanks for joining us today. Have a great weekend.
   sec: 3793
   time: '1:03:13'

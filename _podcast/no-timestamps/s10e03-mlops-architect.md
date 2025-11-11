@@ -15,6 +15,8 @@ season: 10
 short: MLOps Architect
 title: 'MLOps Architect Guide: Production Model Monitoring, Data Observability & Tooling'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Overview: Danny Leybzon, MLOps Architect at WhyLabs'
 - line: This week, we'll talk about being an MLOps architect. We have a special yesterday,
     Danny. Danny and I met more than one year ago – slightly more, I guess. I wasn't
     sure who that guy was and what he wanted from me. I thought he was trying to sell
@@ -39,7 +41,7 @@ transcript:
   sec: 178
   time: '2:58'
   who: Danny
-- header: Danny’s background
+- header: 'Career Journey: From paralegal ambitions to statistics and machine learning'
 - line: Yeah. So before we talk about the main topic – MLOps architect – let's start
     with your background. Can you tell us how you ended up doing so many things and
     what was your career journey so far?
@@ -137,6 +139,7 @@ transcript:
   sec: 336
   time: '5:36'
   who: Danny
+- header: 'Prior Role: Field Engineer / Solutions Engineer experience'
 - line: So what did you do before WhyLabs? What was your role?
   sec: 446
   time: '7:26'
@@ -152,7 +155,7 @@ transcript:
   sec: 450
   time: '7:30'
   who: Danny
-- header: What an MLOps Architect does
+- header: 'Role Definition: MLOps Architect as technical-business bridge'
 - line: Was it a joke or? [chuckles] Sounds like a job description. Okay, so you first
     did law, then stats major, then you worked as an analyst, a PM after that, then
     as a field engineer, and now as MLOps architect. So you’ve worn quite a few hats,
@@ -200,6 +203,7 @@ transcript:
   sec: 614
   time: '10:14'
   who: Alexey
+- header: 'Architecture Advising: Tooling trade-offs and landscape navigation'
 - line: Yeah. I mean, I don't know if this is what the role would be in general. This
     is what the title we decided on for me was. Because when I joined WhyLabs, we
     were still a seed stage company. Everybody else's title was engineer or I think
@@ -269,7 +273,7 @@ transcript:
   sec: 769
   time: '12:49'
   who: Danny
-- header: The popularity of MLOps Architect as a role
+- header: 'Role Popularity: Uniqueness of the "MLOps Architect" title'
 - line: Have you met other MLOps architects?
   sec: 770
   time: '12:50'
@@ -292,6 +296,7 @@ transcript:
   sec: 800
   time: '13:20'
   who: Alexey
+- header: 'Startup Reality: Wearing many hats in early-stage companies'
 - line: I would say so, yeah. I think there are some limitations in terms of thinking
     about my role purely in the same way that my role was at Imply. At Imply, really,
     my job was pre-sales. I would go in with the account executive, I would do the
@@ -327,7 +332,7 @@ transcript:
   sec: 830
   time: '13:50'
   who: Danny
-- header: Convincing an employer that you can wear many different hats
+- header: 'Demonstrating Versatility: Convincing employers you can do it all'
 - line: With this flexibility, when you say you can do whatever needs to happen, so
     you need to do DevRel – you just go and do DevRel until you hire a DevRel person,
     right? Then you need to do community management before you hire a community manager.
@@ -394,7 +399,7 @@ transcript:
   sec: 1065
   time: '17:45'
   who: Danny
-- header: Interviewing for the role of an MLOps Architect
+- header: 'Hiring Story: Cross-functional interview process at WhyLabs'
 - line: That's exciting. Do you remember how your interview actually went? What were
     the questions? Who conducted the interview? What kind of questions did they ask?
     How did they decide that you're good for this?
@@ -470,6 +475,7 @@ transcript:
   sec: 1291
   time: '21:31'
   who: Alexey
+- header: 'Career Decision: Choosing startup risk for growth and learning'
 - line: Yeah. I remember when I made the decision. There was still the negotiation
     period afterward and all this stuff. But there was a point that I mentally committed
     to it. It was about 50 weeks ago – my anniversary is coming up, so it's a fun
@@ -538,7 +544,7 @@ transcript:
   sec: 1480
   time: '24:40'
   who: Danny
-- header: How Danny prioritizes work with data scientists
+- header: 'Prioritization Strategy: Focusing on production and model monitoring'
 - line: I guess these things make you wonder what the future holds? And “Is what I'm
     doing for me or not?” Right? [chuckles][Danny laughs] Like, “Do I want to be a
     manager of field engineers or do I want to do and try many different things.”
@@ -583,6 +589,7 @@ transcript:
   sec: 1654
   time: '27:34'
   who: Alexey
+- header: 'Observability Scope: ETL, data pipelines, and upstream root causes'
 - line: Yeah, right. That's what I was using in college. [chuckles] I don't think
     it's changed that much. So I really focus on the tooling that's kind of very late
     in that process because it tends to be what's most relevant to me. As we're expanding,
@@ -609,8 +616,7 @@ transcript:
   sec: 1655
   time: '27:35'
   who: Danny
-- header: Coming to WhyLabs when you’ve already got something in production vs nothing
-    in production
+- header: 'Customer Profiles: Production-first vs pre-deployment teams'
 - line: Would you say that you usually talk to customers who already have something
     in production? Customers who have already trained a model, who figured out how
     to best deploy this model – they already deployed it, and now they’ve started
@@ -646,7 +652,7 @@ transcript:
   sec: 1816
   time: '30:16'
   who: Danny
-- header: Market awareness regarding the importance of model monitoring
+- header: 'Market Education: Shift from "why monitor" to "how to monitor"'
 - line: Okay. You said you’re trying to be pre-emptive and this is also part of your
     role, right? You are trying to spread awareness about this problem by talking
     on different podcasts about model monitoring, why it’s important, what can go
@@ -671,6 +677,7 @@ transcript:
   sec: 1897
   time: '31:37'
   who: Alexey
+- header: 'Data Profiling Architecture: WhyLogs, profiles, and Apache Druid backend'
 - line: Exactly, exactly. Actually, funnily enough, one of the reasons that I was
     so intrigued about WhyLabs is because while I was working at Imply, I was actually
     (this is back in 2021. Second half of 2020, first half of 2021) I had actually
@@ -729,7 +736,7 @@ transcript:
   sec: 2029
   time: '33:49'
   who: Danny
-- header: How Danny (WhyLabs) chooses tools
+- header: 'Build vs Buy: Guiding customers on tooling and procurement decisions'
 - line: Another question we have is… I don't know if you can answer this because for
     the previous question, I think you clarified that you're a bit outside of these
     decisions. The question is, “On what basis do you make your choice of tools? Do
@@ -773,6 +780,7 @@ transcript:
   sec: 2162
   time: '36:02'
   who: Alexey
+- header: 'Platform Agnostic Integrations: Serving and inference tooling realities'
 - line: Yeah. WhyLabs is platform agnostic and we integrate with a lot of different
     tools – basically, any tool that can run Python or Java – so anything with Spark,
     or Scala, or Java, as well as anything in Python. We tend not to be too strongly
@@ -797,7 +805,7 @@ transcript:
   sec: 2207
   time: '36:47'
   who: Danny
-- header: ONNX
+- header: 'ONNX Adoption: Interoperability use cases and industry uptake'
 - line: Another question we have is about the ONNX standard. Have you heard about
     this? It's getting wider adoption, so would you say many of your customers use
     it or is it still Scikit-learn models and pickle deployed in Flask?
@@ -821,7 +829,7 @@ transcript:
   sec: 2300
   time: '38:20'
   who: Danny
-- header: Common trends in tooling setups
+- header: 'Tooling Trends: Cloud-native stacks, heterogeneity, and vendor lock-in'
 - line: What kind of setup do you usually see more often than other kinds of setups?
     If you can talk about this, of course.
   sec: 2350
@@ -859,12 +867,12 @@ transcript:
   sec: 2369
   time: '39:29'
   who: Danny
-- header: The most rewarding thing for Danny in ML and data science
 - line: Yeah, thanks. What do you like doing most in machine learning and data science?
     What is the most rewarding thing for you in the field?
   sec: 2449
   time: '40:49'
   who: Alexey
+- header: 'Research Focus: Fairness, bias, segmentation over explainability'
 - line: Good question. I really like getting exposed to new, interesting ideas within
     the field – I miss doing research basically. Not that I was ever that strong of
     an academic, but it gets me really excited when I find a topic that I can obsess
@@ -889,7 +897,6 @@ transcript:
   sec: 2460
   time: '41:00'
   who: Danny
-- header: Danny’s secret for staying sane while wearing so many different hats
 - line: You do, or you took part in doing DevRel, product marketing, community management.
     Also you just mentioned that you're doing a bit of research, like figuring out
     how fairness and biases work, like “Do we need to have explainable AI or not?”
@@ -907,6 +914,7 @@ transcript:
   sec: 2586
   time: '43:06'
   who: Alexey
+- header: 'Productivity Habits: Inbox zero, workspace windows, and task management'
 - line: Yeah. [chuckles] No, no. I have a lot of productivity management techniques
     that I use. I try to stick to inbox zero. Right now, my inbox is a little bit
     of a nightmare. But I really like using my inbox as a tracking to-do list. Then
@@ -951,7 +959,6 @@ transcript:
   sec: 2640
   time: '44:00'
   who: Danny
-- header: T-shaped specialist, E-shaped specialist, and the horizontal line
 - line: Would you say that sometimes you wished you were more like a specialist –
     you would just focus on explainability or you just focus on DevRel – or would
     you quickly become bored?
@@ -975,6 +982,7 @@ transcript:
   sec: 2716
   time: '45:16'
   who: Alexey
+- header: 'Career Strategy: Exploration vs exploitation and Thompson sampling analogy'
 - line: Well, the really useful finding from optimization theory is that you need
     to balance the two of these. If you've got a bounded amount of time over which
     you can optimize around a search space, your optimal strategy is to start off
@@ -1051,7 +1059,6 @@ transcript:
   sec: 2974
   time: '49:34'
   who: Alexey
-- header: The importance of background for the role of an MLOps Architect
 - line: If somebody wants to follow your path and wear many different hats and do
     pretty much whatever needs to be done, what would you suggest they do? How should
     they go about finding a role like this? What kind of background should they have?
@@ -1059,6 +1066,7 @@ transcript:
   sec: 3000
   time: '50:00'
   who: Alexey
+- header: 'Skillset Advice: Coding, communication, and being an effective Googler'
 - line: Good question. I think, background – not in the sense of academic achievement,
     or previous titles – is not important. However, background in the sense of being
     able to do these things matters. If you want to be successful and if you want
@@ -1151,7 +1159,6 @@ transcript:
   sec: 3256
   time: '54:16'
   who: Danny
-- header: Key differences for WhyLogs free vs paid
 - line: Okay. I think we should be wrapping up and then maybe – since we spend quite
     a lot of time talking about WhyLogs and then your name here is WhyLabs team, and
     we know that because you pay just for one license. [chuckles] The question is
@@ -1169,6 +1176,7 @@ transcript:
   sec: 3344
   time: '55:44'
   who: Alexey
+- header: 'WhyLogs vs WhyLabs: Open-source profiling vs SaaS observability'
 - line: Okay. So there is no paid version of WhyLogs. WhyLogs is our open source library.
     So it's totally open source. Everything about it is completely accessible and
     completely free. Obviously, as all open source libraries are. WhyLogs takes in
@@ -1215,7 +1223,7 @@ transcript:
   sec: 3479
   time: '57:59'
   who: Danny
-- header: Conclusion and where to find Danny online
+- header: 'Closing Remarks: Final thoughts, contact info, and upcoming workshops'
 - line: Okay, yeah. Anything else you want to mention before we wrap up?
   sec: 3487
   time: '58:07'

@@ -16,7 +16,7 @@ short: 'Mindful Data Strategy: From Pipelines to Business Impact'
 title: 'Restore Data Trust: Practical Data Quality, Prioritization & Generative AI
   Readiness'
 transcript:
-- header: Community and mindful data strategy
+- header: Podcast Introduction and Episode Overview (mindful data strategy)
 - line: This week we'll talk about mindful data strategy and how teams can shift from
     building pipelines to delivering real business outcomes.
   sec: 0
@@ -27,6 +27,7 @@ transcript:
   sec: 0
   time: 0:00
   who: Alexey
+- header: 'Lior Barak: Background and shift from engineering to product'
 - line: We have a special guest today, Lior. This is not the first time we have had
     a conversation. Last time we spoke a few years ago, more than two and a half.
     Primarily about humus if I remember.
@@ -73,7 +74,7 @@ transcript:
   sec: 223
   time: '3:43'
   who: Alexey
-- header: Career journey and product management insights
+- header: 'Startup and platform experience: automating data infrastructure'
 - line: So, in the past year I've been working more with smaller-scale to medium-size
     companies trying to basically write down my second book. So when we spoke the
     last time we spoke about my first one which was Data is like a Plate of Humus
@@ -120,6 +121,7 @@ transcript:
   sec: 354
   time: '5:54'
   who: Lior
+- header: Product management learning paths for engineers and data scientists
 - line: This is not one of the questions we have prepared for you in advance but I
     recently saw a question in one of the data science communities and the question
     was from an engineer. He was asking the community to recommend some resources
@@ -151,7 +153,6 @@ transcript:
   sec: 458
   time: '7:38'
   who: Lior
-- header: Wabi-sabi data and the trust crisis
 - line: Yeah. After this current book right, what is the title? Do you have the title
     already?
   sec: 483
@@ -165,6 +166,7 @@ transcript:
   sec: 494
   time: '8:14'
   who: Alexey
+- header: 'Wabi‑sabi applied to data: accepting imperfection and communicating it'
 - line: Wabi Sabi Your Data which is basically a Japanese concept about accepting
     the imperfections, the perfect imperfections basically and this is basically what
     I think about data. This is a lot of my philosophy about how to handle data. It's
@@ -194,6 +196,7 @@ transcript:
   sec: 580
   time: '9:40'
   who: Alexey
+- header: 'Data trust crisis: industry stats and common trust failures'
 - line: Oh, that's a great way. So when we starting and we're talking about it, let's
     talk about the trust crisis, right?
   sec: 588
@@ -244,7 +247,7 @@ transcript:
   sec: 656
   time: '10:56'
   who: Lior
-- header: AI, data imperfection, and trust challenges
+- header: 'Generative AI and hallucinations: managing expectations for models'
 - line: Funny thing, when you mentioned the trust crisis what came to my mind was
     I have a son, he's nine years old and he likes to use Chip. He speaks with Charity
     a lot and Chip, as we all know, hallucinates sometimes. It comes up with things
@@ -297,6 +300,7 @@ transcript:
   sec: 811
   time: '13:31'
   who: Alexey
+- header: 'Data quality metaphor: Lego bricks and pragmatic trade‑offs'
 - line: Correct and you know I always explain it and I say also data is like Lego
     bricks. We can connect and we can build a lot of buildings inside it.
   sec: 849
@@ -389,6 +393,7 @@ transcript:
   sec: 1022
   time: '17:02'
   who: Alexey
+- header: 'Prioritization vs. tooling: translating data work into business impact'
 - line: I always say it's like a lot of times when I arrive at companies it's like
     this basketball team that everybody lost hope about and they keep losing. They
     know they have the capabilities and the right people to actually pull the season
@@ -455,7 +460,6 @@ transcript:
   sec: 1180
   time: '19:40'
   who: Lior
-- header: Trust crisis examples and root cause analysis
 - line: We should get out of the crisis. We should get out of the chaos. We should
     ride the chaos and flow with it. Accept it and continue there.
   sec: 1205
@@ -478,6 +482,7 @@ transcript:
   sec: 1228
   time: '20:28'
   who: Alexey
+- header: 'Core KPI diagnosis: investigating dashboard inaccuracies'
 - line: Think about the core KPI dashboard for management. They need it daily to understand
     how the business operation goes.Let’s say it’s an e-commerce company selling shoes.
     The KPI could be the number of sales, for example.
@@ -503,6 +508,7 @@ transcript:
   sec: 1286
   time: '21:26'
   who: Lior
+- header: 'Pipeline failure points: ingestion, SQL logic, and lineage checks'
 - line: We want to make sure the core KPI is correct and delivered reliably to those
     who use it. What we need to check is what will improve this. If we invest in an
     extra tool, or check where the issues are in the data pipeline or lineage is the
@@ -532,6 +538,7 @@ transcript:
   sec: 1387
   time: '23:07'
   who: Lior
+- header: 'Process failures over tool fixes: focusing on root causes'
 - line: But that is the easiest, not the core, solution for building trust.
   sec: 1406
   time: '23:26'
@@ -567,7 +574,6 @@ transcript:
   sec: 1494
   time: '24:54'
   who: Alexey
-- header: Regaining trust through mindful data management
 - line: Let me ask you, if someone gave you a dashboard about your podcast listeners,
     would you automatically trust the data? Or would you validate it first?
   sec: 1506
@@ -633,6 +639,7 @@ transcript:
   sec: 1687
   time: '28:07'
   who: Alexey
+- header: 'Trust restoration framework: maintenance, rollouts, and innovation'
 - line: 'Regaining trust requires a mindful approach to data management and better
     control over what we do. I see three main components in day-to-day work: maintenance,
     product rollouts, and product innovation.'
@@ -646,6 +653,7 @@ transcript:
   sec: 1718
   time: '28:38'
   who: Lior
+- header: 'Incident analysis: using incidents to identify recurring problems'
 - line: Many teams experience data incidents. But few use data from these incidents
     to identify recurring problems. If, for example, three core products cause 60-70%
     of incidents, we can focus on fixing root causes.
@@ -663,7 +671,7 @@ transcript:
   sec: 1810
   time: '30:10'
   who: Lior
-- header: Traffic light system and effective communication
+- header: Dashboard traffic‑light system for data reliability (green/yellow/red)
 - line: 'Second, for the CEO, we can add a traffic light indicator on the dashboard:
     green, yellow, red.'
   sec: 1847
@@ -689,6 +697,7 @@ transcript:
   sec: 1891
   time: '31:31'
   who: Lior
+- header: 'Analyst feedback and automation: closing the communication loop'
 - line: From my experience talking to data teams, the biggest gap is communication,
     not technology.
   sec: 1998
@@ -754,7 +763,6 @@ transcript:
   sec: 2249
   time: '37:29'
   who: Lior
-- header: Communication gaps and team workload balance
 - line: If you start a project from scratch in a greenfield you can design this traffic
     light system from the beginning.
   sec: 2261
@@ -770,6 +778,7 @@ transcript:
   sec: 2287
   time: '38:07'
   who: Alexey
+- header: 'Work allocation: tracking maintenance, rollout, and innovation time'
 - line: We start by identifying patterns. One key area is team stress levels and how
     their efforts divide among maintenance, innovation, and rollout.
   sec: 2299
@@ -803,7 +812,6 @@ transcript:
   sec: 2394
   time: '39:54'
   who: Lior
-- header: Maintenance stress and embracing Zen mindset
 - line: I’m trying to understand how to implement this practically. Teams spend time
     on maintenance, rollout, and innovation.
   sec: 2398
@@ -832,6 +840,7 @@ transcript:
   sec: 2457
   time: '40:57'
   who: Lior
+- header: 'Team stress index and guideline: ~45% maintenance as healthy baseline'
 - line: Healthy maintenance should be about 45 percent of time bug fixes, ad hoc requests,
     and even meetings count as disruptions.Innovation usually gets 10 to 20 percent
     of time; some teams reach 30 percent, but it’s often unclear how much they should
@@ -850,6 +859,7 @@ transcript:
   sec: 2567
   time: '42:47'
   who: Lior
+- header: 'Data product lifecycle: development, rollout, maturity, and decline'
 - line: For example, a team built a forecasting model for marketing CLV a valuable
     feature.  They gave it to marketing and product teams, who started using it; eventually,
     the model broke.
@@ -895,6 +905,7 @@ transcript:
   sec: 2727
   time: '45:27'
   who: Alexey
+- header: 'Zen practices for data teams: mindfulness, acceptance, and planning'
 - line: We talked about wabi-sabi, the concept of imperfection. I bring this key concept
     to many teams.
   sec: 2747
@@ -969,7 +980,6 @@ transcript:
   sec: 2941
   time: '49:01'
   who: Lior
-- header: Accepting imperfection and measuring impact
 - line: You live in Berlin, right?
   sec: 2969
   time: '49:29'
@@ -996,6 +1006,7 @@ transcript:
   sec: 3008
   time: '50:08'
   who: Lior
+- header: 'Generative AI demand: why data readiness matters now'
 - line: Some teams hide from this because of “garbage in, garbage out” fears.But we
     need to fix these issues, and we can’t fix them until we are aware of where the
     problems are and how to address them. For me, that awareness and acceptance that
@@ -1015,6 +1026,7 @@ transcript:
   sec: 3076
   time: '51:16'
   who: Alexey
+- header: 'Measuring readiness by impact: ROI and product success signals'
 - line: We know by measuring impact. This is not spiritual, it's about what works
     and what creates value. If the MVP already supplies value even if ROI is negative
     but improving we did something good.
@@ -1067,7 +1079,7 @@ transcript:
   sec: 3374
   time: '56:14'
   who: Lior
-- header: Legacy systems and managing executive requests
+- header: 'Legacy systems strategy: minimal maintenance and planned replacement'
 - line: 'Here is an interesting one about legacy monolith databases that remain the
     core of the business: how do you handle trust issues when these systems are already
     broken?'
@@ -1112,6 +1124,7 @@ transcript:
   sec: 3520
   time: '58:40'
   who: Lior
+- header: 'Replacing legacy: selling the change through user impact'
 - line: People loved the drag-and-drop dashboards compared to heavy Excel sheets that
     crashed frequently. When replacing legacy systems, we must focus on the impact
     and added value we deliver to users.
@@ -1145,7 +1158,7 @@ transcript:
   sec: 3599
   time: '59:59'
   who: Lior
-- header: Role guidance and closing reflections
+- header: 'Executive ad‑hoc requests: elicit intent and quantify expected impact'
 - line: 'Thanks. Another question: how do you handle ad hoc requests from executives?'
   sec: 3623
   time: '1:00:23'
@@ -1181,6 +1194,7 @@ transcript:
   sec: 3735
   time: '1:02:15'
   who: Lior
+- header: 'Career guidance: choosing analytics, engineering, or product paths'
 - line: Product is about defining and scoping problems, then passing them to engineers
     for solutions and refining based on feedback.
   sec: 3753
@@ -1228,6 +1242,7 @@ transcript:
   sec: 3870
   time: '1:04:30'
   who: Lior
+- header: Closing reflections, resources, and suggested next steps
 - line: Okay, thanks so much for the time and answers. Lovely talking with you. When
     you write your third book after Wabi-Sabi, you’re always welcome as a guest again.
   sec: 3876
@@ -1245,6 +1260,7 @@ transcript:
   sec: 3928
   time: '1:05:28'
   who: Lior
+- header: Episode Outro and Hummus Banter
 - line: Next time we speak, I’ll report on my progress making hummus at home.
   sec: 3965
   time: '1:06:05'

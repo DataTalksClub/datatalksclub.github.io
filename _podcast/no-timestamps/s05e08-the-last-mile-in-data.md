@@ -16,6 +16,7 @@ links:
   spotify: https://open.spotify.com/episode/6SGjBev8koFDRpDvLV76ZQ
   apple: https://podcasts.apple.com/us/podcast/conquering-the-last-mile-in-data-caitlin-moorman/id1541710331?i=1000539421886
 transcript:
+- header: Episode introduction & Locally Optimistic community
 - line: This week, we'll talk about the “last mile of data” and we have a special
     guest today, Caitlin. Caitlin is the VP of data and business operations at Trove
     Recommerce, where she helps brands buy back and resell their products at scale.
@@ -45,7 +46,7 @@ transcript:
   sec: 278
   time: '4:38'
   who: Caitlin
-- header: Caitlin’s background
+- header: 'Career journey: private equity to modern data stacks'
 - line: Before we go into our main topic of ‘conquering the last mile of data’ and
     what it actually means, let's start with your background. Can you tell us in a
     few words about your career journey so far?
@@ -115,7 +116,7 @@ transcript:
   sec: 497
   time: '8:17'
   who: Caitlin
-- header: The last mile in data
+- header: Defining the "last mile" in data delivery
 - line: You said that you're really interested in seeing and understanding how data
     can be used to change decisions. This is what you're focusing on right now. The
     topic today is ‘conquering the last mile’ and I think these two things are related.
@@ -174,6 +175,7 @@ transcript:
   sec: 780
   time: '13:00'
   who: Alexey
+- header: Modern data stack vs last-mile execution challenges
 - line: Or like the interstate highways, whatever the primary form of industrial transportation
     is in your particular locality. I'm in the US, it's all interstates here. But
     in many places, it is railroads that are much more efficient and less environmentally
@@ -221,7 +223,7 @@ transcript:
   sec: 956
   time: '15:56'
   who: Caitlin
-- header: The Pareto Principle
+- header: 'Pareto thinking for analytics: 80/20 and high-leverage work'
 - line: Yeah, there's also the ‘Pareto principle,’ also known as the ‘80-20 Principle’,
     where from 20% of the work, you get 80% of the results. Or the other way around
     – the remaining 20% takes 80% of the effort. Would you say the last mile is this
@@ -273,7 +275,7 @@ transcript:
   sec: 1200
   time: '20:00'
   who: Caitlin
-- header: Failing to use data
+- header: 'Cultural barriers to adoption: incentives and behavior'
 - line: When I was preparing for this, I read a few articles. What we are talking
     about here is more like “We have some data, but we're failing to use it. This
     is the last mile problem that we need to solve.” So, “We did all this work, how
@@ -297,6 +299,7 @@ transcript:
   sec: 1255
   time: '20:55'
   who: Caitlin
+- header: 'Trust and usability: discoverability, interpretability, and data quality'
 - line: There are two ways to make that work out. You either have to make the benefit
     bigger or make the cost smaller. I think of the major driver of the benefits of
     good data-driven decision-making as being cultural. You have to have a culture
@@ -356,7 +359,7 @@ transcript:
   sec: 1524
   time: '25:24'
   who: Caitlin
-- header: Making sure data is used
+- header: 'Diagnosing poor adoption: treat data as a product and do user research'
 - line: Is there any other way? Let's say we have everything measurable. We have an
     analyst who can sit with the decision-maker and explain everything. Is this enough
     to make sure that the data is actually used?
@@ -398,7 +401,7 @@ transcript:
   sec: 1690
   time: '28:10'
   who: Caitlin
-- header: Communicating with decision makers
+- header: 'A/B testing reporting: simplify statistics for decision-makers'
 - line: I'm thinking about an example we have at OLX. We do a lot of experiments,
     usually A/B tests. Let's say we have some traffic of users coming in – for some
     users, we show one variant, and for some other users, we show a different variant.
@@ -446,6 +449,7 @@ transcript:
   sec: 1895
   time: '31:35'
   who: Alexey
+- header: 'Product-design mindset for analytics: abstractions and personas'
 - line: It's a lot like building any technical product. I think a lot about Zapier
     as a really good example of this. Zapier exists to take something that is technical
     and make it non-technical – to allow people to leverage APIs to accomplish automation
@@ -457,6 +461,7 @@ transcript:
   sec: 1945
   time: '32:25'
   who: Caitlin
+- header: 'Outcome-first design: start projects from the decision you want to enable'
 - line: It really is a lot like product design. There's the challenge that your data
     teams are really small compared to your product team, most likely. You have to
     learn to find the right points of leverage, find enablers, train power users and
@@ -465,7 +470,6 @@ transcript:
     lot of research and spending a ton of time on design. It's a scaled down version
     but ultimately kind of the same problem.
   who: Caitlin
-- header: Working backwards from the last mile
 - line: You wouldn't believe it, but I actually read another article. So I think I
     read 3 in total. I think I talked to you about the first one, which was about
     comparing the last mile to a marathon. The second one was talking about it being
@@ -511,6 +515,7 @@ transcript:
   sec: 2187
   time: '36:27'
   who: Alexey
+- header: 'Embedding data in meetings: mapping metrics to real decisions'
 - line: What you’re saying, as I understood it, is to think of the end user, right?
     In the case of a data product, such as an A/B testing system, it could be a product
     manager who will need to make a decision based on what you show them. So they
@@ -527,7 +532,6 @@ transcript:
     is used. If we involve the end user, if we think about the end user from the very
     beginning, then it makes it easier. Did I interpret this correctly?
   who: Alexey
-- header: Understanding how data drives decisions
 - line: Yeah, I think that's exactly right. It's talking to the users – we were talking
     a lot about how data drives a decision. It's literally sitting in the meetings
     where those decisions are made right now and understanding what that process looks
@@ -540,6 +544,7 @@ transcript:
   sec: 2295
   time: '38:15'
   who: Caitlin
+- header: 'Low-fidelity prototyping: sketches, whiteboards, and rapid feedback'
 - line: It’s about sitting in the meetings where these decisions are being made and
     talking to the people who are making them. I love pen and paper. I spent a lot
     of time sketching things out and saying things like, “Okay. If it looks like this,
@@ -549,7 +554,6 @@ transcript:
     I love writing the press release first. It's very similar, like, “What do people
     say about the thing that you built?”
   who: Caitlin
-- header: Sketching and prototyping
 - line: This sketching – it’s a lot like prototyping, basically, “How would this look
     at the end?” Then you show it to the decision maker – whoever the end user is
     – just using a piece of paper. “Does this look like what you have in your head?”
@@ -579,7 +583,6 @@ transcript:
   sec: 2452
   time: '40:52'
   who: Caitlin
-- header: Showing the benefits of power data
 - line: We have a few questions, so maybe we can start covering these questions? So,
     a question from Aideen. I hope I pronounced your name correctly. “When data challenges
     the traditional decision system, how can we show the benefits of power data? Do
@@ -587,6 +590,7 @@ transcript:
   sec: 2453
   time: '40:53'
   who: Alexey
+- header: 'Proving impact: creating measurable wins to build advocacy'
 - line: Again, this comes back to making sure the right incentives exist in the organization.
     But ideally, you want people to be really incented by good results. Then what
     you need to do is actually show better results. So you're thinking about the marketing
@@ -600,7 +604,7 @@ transcript:
   sec: 2478
   time: '41:18'
   who: Caitlin
-- header: Measurability
+- header: 'Measuring hard-to-track work: proxies, time studies, and practical metrics'
 - line: Would you say it's a must that we have everything measurable? Or can we already
     start convincing people to use our data product when not everything is measurable
     yet?
@@ -649,7 +653,7 @@ transcript:
   sec: 2670
   time: '44:30'
   who: Caitlin
-- header: Driving change in data
+- header: Driving change by scoping narrow slices and building momentum
 - line: Marketing is probably a good start in many cases. Because you basically have
     some sort of web page and you can play with different wording there or different
     positional things. Even with that, you can already start measuring and then show
@@ -684,7 +688,7 @@ transcript:
   sec: 2847
   time: '47:27'
   who: Caitlin
-- header: Asking high-leverage questions
+- header: 'Identifying high-leverage questions: start with financials and cost centers'
 - line: Okay. I'll put this in the description. We also have a question from Kurt,
     who is asking, “You have emphasized asking high leverage questions. Do you have
     any tips on finding these points as both an analyst and an executive?”
@@ -700,6 +704,7 @@ transcript:
   sec: 2872
   time: '47:52'
   who: Caitlin
+- header: 'Handling resistance: recruiting advocates and selling upside'
 - line: So it’s sitting down with someone from your accounting and finance team to
     understand, “What does our performance look like? What's our biggest cost center?
     Where are we spending money?” Wherever you're spending money is a really good
@@ -714,7 +719,6 @@ transcript:
     spend, even though we spend 10x on our warehouse employees. But we don't know
     what they're doing, so I'm not ready to tackle that problem yet.” [laughs]
   who: Caitlin
-- header: Resistance from users
 - line: I also imagine that you can get some resistance. Let's say you're starting
     with financials, you find the biggest cost center – this is the warehouse. You
     go to the warehouse manager, and you're saying “Hey, how about using data?” And
@@ -736,6 +740,7 @@ transcript:
   sec: 2999
   time: '49:59'
   who: Caitlin
+- header: Growth marketing as a starter use case for data-driven change
 - line: So if it's totally up to me, I just say, “OK, cool. Thank you. I am excited
     to talk more about this in the future.” And we come back when there's much more
     of a snowball of a more healthy data culture coming and they're more likely to
@@ -773,7 +778,7 @@ transcript:
   sec: 3165
   time: '52:45'
   who: Alexey
-- header: Understanding domain experts
+- header: 'Interviewing domain experts: curiosity, rapport, and job documentation'
 - line: Okay, we have another question. “What kind of questions do you ask domain
     experts to understand their domain? And can you recommend some literature on that?”
   sec: 3226
@@ -791,6 +796,7 @@ transcript:
   sec: 3237
   time: '53:57'
   who: Caitlin
+- header: 'Building influence: soft skills and recommended reading'
 - line: That will depend a lot on how much you know about the person and the organization
     and how embedded you are. Sometimes it really just starts with not talking about
     what they do at all and getting to know them as a person and building a relationship
@@ -858,7 +864,7 @@ transcript:
   sec: 3488
   time: '58:08'
   who: Caitlin
-- header: Linear projects vs circular projects
+- header: 'Managing uncertainty: linear projects vs circular (exploratory) projects'
 - line: It's always binary, it’s never in between. Okay. We have the last question.
     We still have a couple of minutes. So a question from Eileen is “Sometimes data
     projects can’t give expected results and this is normal. But this is creating
@@ -887,6 +893,8 @@ transcript:
     you do step two, you can do step three. And then there are circular projects,
     where you don't know what you don't know. And a lot of data projects fall into
     this category.
+- header: 'Advice for aspiring analysts: curiosity, business impact, and on‑the‑job
+    learning'
 - line: I'll share more about this, but the very high-level overview is first just
     to set expectations. Acknowledge ahead of time that it is a circular project.
     You don't know if it's going to be successful. You lose a lot of trust by saying
@@ -924,7 +932,6 @@ transcript:
     you do step two, you can do step three. And then there are circular projects,
     where you don't know what you don't know. And a lot of data projects fall into
     this category.
-- header: Recommendations for data analyst students
 - line: Do you have a couple more minutes? There is one more question that popped
     up, and it’s very interesting. So Kurt is asking, “I'm currently a data analyst
     student. Do you have any recommendations, resources, or habits that helped you
@@ -964,7 +971,7 @@ transcript:
   sec: 3810
   time: '1:03:30'
   who: Caitlin
-- header: Finding Caitlin online
+- header: Where to find Caitlin and the Locally Optimistic community
 - line: Where can people find you? Locally Optimistic?
   sec: 3833
   time: '1:03:53'
@@ -991,6 +998,7 @@ transcript:
   sec: 3863
   time: '1:04:23'
   who: Alexey
+- header: Episode wrap-up and key takeaways
 - line: Sadly, I am not quite that artistically talented. My sketches really encourage
     people to say “That's not quite right.” [laughs]
   sec: 3877
