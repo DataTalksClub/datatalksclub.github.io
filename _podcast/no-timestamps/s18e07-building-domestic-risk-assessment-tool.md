@@ -13,7 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=CpWlBAmD9ok
 season: 18
 short: Building a Domestic Risk Assessment Tool
-title: "Build a Domestic Risk Assessment Tool for Triage: Data, Models, Privacy & Deployment"
+title: 'Build a Domestic Risk Assessment Tool for Triage: Data, Models, Privacy &
+  Deployment'
+description: 'Learn to build a domestic risk assessment tool: data cleaning, risk
+  scoring models, privacy and deployment strategies to improve triage and resource
+  allocation.'
 ---
 
 Links:

@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=1pExOVuCF8Q
 season: 16
 short: Collaborative Data Science in Business
-title: "MLOps & Data Product Operating Model: Prioritization, A/B Testing & Model Monitoring"
+title: 'MLOps & Data Product Operating Model: Prioritization, A/B Testing & Model
+  Monitoring'
 transcript:
 - line: This week, we'll talk about collaborative data science in business. We have
     a special guest today, Ioannis. Ioannis is a lead data scientist at EasyJet, if
@@ -1259,6 +1260,9 @@ transcript:
   sec: 3714
   time: '1:01:54'
   who: Alexey
+description: Discover MLOps tactics to prioritize data products, run A/B testing and
+  enable model monitoring for faster validation, reliable rollouts and stakeholder
+  buy-in.
 ---
 
 Links:

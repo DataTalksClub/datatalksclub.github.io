@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=cUxZBXQgZaU
 season: 12
 short: Navigating Career Changes in Machine Learning
-title: "From Web and Game Dev to ML Platforms and LLMs: Career Transitions, Prompt Engineering and Debugging"
+title: 'From Web and Game Dev to ML Platforms and LLMs: Career Transitions, Prompt
+  Engineering and Debugging'
 transcript:
 - line: This week, we'll talk about quite a few things – building a machine learning
     platform, career, being a generalist or specialist – quite a wide range of topics.
@@ -1215,6 +1216,8 @@ transcript:
   sec: 3652
   time: '1:00:52'
   who: Chris
+description: Discover career transitions into ML, prompt engineering and LLMs—practical
+  debugging tips, transferable skills, hiring insights, and real platform lessons.
 ---
 
 Links:

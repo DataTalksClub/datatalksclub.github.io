@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=DSxqUlumM3A
 season: 21
 short: Lessons from Two Decades of AI
-title: "Build Multi-Agent AI Assistants: Game AI Roots, Evolutionary Algorithms & Practical LLM Tooling"
+title: 'Build Multi-Agent AI Assistants: Game AI Roots, Evolutionary Algorithms &
+  Practical LLM Tooling'
 transcript:
 - header: Micheal Lanham’s career journey and AI agent books
 - line: Hi everyone, welcome to our event. This event is brought to you by DataTalks.Club,
@@ -893,6 +894,8 @@ transcript:
   sec: 3648
   time: '1:00:48'
   who: Michael
+description: Discover multi-agent AI, evolutionary algorithms and LLM tooling—learn
+  agent workflows, prompt engineering, game AI examples, code patterns & career tips.
 ---
 
 Links:

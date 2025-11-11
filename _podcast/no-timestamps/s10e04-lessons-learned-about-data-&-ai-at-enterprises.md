@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=Vms29u9xC3k
 season: 10
 short: Lessons Learned About Data & AI at Enterprises
-title: "Scale Enterprise AI: Data-First Strategies, MLOps Best Practices & Realistic Experiments"
+title: 'Scale Enterprise AI: Data-First Strategies, MLOps Best Practices & Realistic
+  Experiments'
 transcript:
 - line: This week, we'll talk about machine learning and data at enterprises. We have
     a special guest today, Alexander. Alexander is responsible for data and artificial
@@ -1017,6 +1018,8 @@ transcript:
   sec: 3807
   time: '1:03:27'
   who: Alexander
+description: Discover data-first Enterprise AI strategies and MLOps best practices—learn
+  realistic experiments, CI/CD, governance, and align ML to business impact.
 ---
 
 Links:

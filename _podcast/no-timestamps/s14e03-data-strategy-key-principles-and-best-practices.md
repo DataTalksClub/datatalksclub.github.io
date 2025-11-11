@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=jGbfeYdlCiQ
 season: 14
 short: 'Data Strategy: Key Principles and Best Practices'
-title: "Actionable Data Strategy & DataOps for AI-Powered Products: Pitch, Measure, Use GPT"
+title: 'Actionable Data Strategy & DataOps for AI-Powered Products: Pitch, Measure,
+  Use GPT'
 transcript:
 - line: This week, we'll talk about data strategy. We have a special guest today,
     Boyan. Boyan is a data strategist with a decade of experience in various academic
@@ -1133,6 +1134,8 @@ transcript:
   sec: 3512
   time: '58:32'
   who: Alexey
+description: 'Master actionable data strategy, DataOps & GPT: learn to pitch small
+  AI use cases, set baselines, apply CI/CD and deliver measurable AI-powered products.'
 ---
 
 Links:

@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=35Ch8xL2SA8
 season: 13
 short: SE4ML - Software Engineering for Machine Learning
-title: "Prevent Hidden Technical Debt in ML Systems: Software Engineering, MLOps, Docs & Responsible AI"
+title: 'Prevent Hidden Technical Debt in ML Systems: Software Engineering, MLOps,
+  Docs & Responsible AI'
 transcript:
 - line: This week, we'll talk about software engineering for machine learning. We
     have a special guest today, Nadia. Nadia is a software engineering PhD student
@@ -1075,6 +1076,8 @@ transcript:
   sec: 3601
   time: '1:00:01'
   who: Nadia
+description: Learn how to prevent hidden technical debt in ML systems with MLOps,
+  documentation and responsible AI— improve reliability, tests, and team alignment.
 ---
 
 Links:

@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=gcxP0qRO-MY
 season: 13
 short: The Secret Sauce of Data Science Management
-title: "Master Data Science Management: Agile ML, Debrief Culture, Metrics & Scale to Production"
+title: 'Master Data Science Management: Agile ML, Debrief Culture, Metrics & Scale
+  to Production'
 transcript:
 - line: This week, we'll talk about the secret sauce of data science management. We
     have a special guest today, Shir. Shir is a data science group manager at Intuit
@@ -1085,6 +1086,9 @@ transcript:
   sec: 3517
   time: '58:37'
   who: Alexey
+description: 'Master data science management: learn Agile ML, debrief culture, metrics
+  and POC-to-production strategies to scale teams, boost impact and ship reliable
+  models.'
 ---
 
 Links:

@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=6YBMU6475KQ
 season: 15
 short: Why Machine Learning Design is Broken
-title: "ML System Design Playbook: Fail-Fast Design Docs, Modular Architecture & Data Drift Monitoring"
+title: 'ML System Design Playbook: Fail-Fast Design Docs, Modular Architecture & Data
+  Drift Monitoring'
 transcript:
 - line: This week, we'll talk about why machine learning design is broken. It's a
     very provocative topic and we have a very special guest today to talk about that,
@@ -926,6 +927,8 @@ transcript:
   sec: 3704
   time: '1:01:44'
   who: Alexey
+description: 'Master ML system design: fail-fast design docs, modular architecture
+  & data drift monitoring to cut risk, assign ownership, speed experiments.'
 ---
 
 Links:

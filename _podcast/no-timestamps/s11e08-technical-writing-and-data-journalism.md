@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=uO_lk12q02A
 season: 11
 short: Technical Writing and Data Journalism
-title: "Practical Data Journalism: Sourcing, Storytelling, Visualization & Tools (Python, Tableau)"
+title: 'Practical Data Journalism: Sourcing, Storytelling, Visualization & Tools (Python,
+  Tableau)'
 transcript:
 - line: This week, we'll talk about technical writing and data journalism. We have
     a special guest today, Angelica. Angelica is a researcher at the Institute of
@@ -973,6 +974,9 @@ transcript:
   sec: 3810
   time: '1:03:30'
   who: Alexey
+description: 'Discover data journalism: sourcing, storytelling & visualization with
+  Python and Tableau—learn tools, workflows and publishing tips to craft compelling
+  stories.'
 ---
 
 Links:

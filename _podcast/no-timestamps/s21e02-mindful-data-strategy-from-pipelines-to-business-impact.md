@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=B76J4QkZPWs
 season: 21
 short: 'Mindful Data Strategy: From Pipelines to Business Impact'
-title: "Restore Data Trust: Practical Data Quality, Prioritization & Generative AI Readiness"
+title: 'Restore Data Trust: Practical Data Quality, Prioritization & Generative AI
+  Readiness'
 transcript:
 - header: Community and mindful data strategy
 - line: This week we'll talk about mindful data strategy and how teams can shift from
@@ -1252,6 +1253,9 @@ transcript:
   sec: 3965
   time: '1:06:05'
   who: Alexey
+description: Discover how to restore data trust with data quality fixes, prioritization
+  and generative AI readiness—KPI diagnosis, incident-driven roadmaps and rollout
+  tips.
 ---
 
 Links:

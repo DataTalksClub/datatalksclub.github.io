@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=IiPOIiUy5b4
 season: 14
 short: Data Access Management
-title: "Data Access Management: Access Controls, Data Catalogs & Access-as-Code"
+title: 'Data Access Management: Access Controls, Data Catalogs & Access-as-Code'
 transcript:
 - line: This week, we'll talk about data access management. We have a special guest
     today, Bart. Bart is the CEO and co-founder of Raito. Bart is on a mission to
@@ -1038,6 +1038,8 @@ transcript:
   sec: 3441
   time: '57:21'
   who: Alexey
+description: Master Data Access Management with data catalog, access controls & access-as-code
+  to stop privilege creep, speed investigations and ensure compliance.
 ---
 
 Links:

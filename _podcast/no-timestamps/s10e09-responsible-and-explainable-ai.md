@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=8Eb5mG-pC3o
 season: 10
 short: Responsible and Explainable AI
-title: "Responsible & Explainable AI: Practical Guide to Bias Detection, Fairness & Governance"
+title: 'Responsible & Explainable AI: Practical Guide to Bias Detection, Fairness
+  & Governance'
 transcript:
 - line: This week, we'll talk about responsible and Explainable AI. We have a special
     guest today, Supreet. Supreet is an assistant VP in data strategy at Morgan Stanley.
@@ -1158,6 +1159,9 @@ transcript:
   sec: 3630
   time: '1:00:30'
   who: Alexey
+description: Discover Responsible AI & Explainable AI tactics for bias detection,
+  fairness checks and governance, practical tools to build trustworthy, compliant
+  ML models.
 ---
 
 Links:

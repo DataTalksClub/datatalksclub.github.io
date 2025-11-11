@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=XbDQv8FTA4U
 season: 11
 short: Building Data Science Practice
-title: "Scale Industrial AI: MLOps, Sensorization, POC Strategy & Hub‑and‑Spoke Data Teams"
+title: 'Scale Industrial AI: MLOps, Sensorization, POC Strategy & Hub‑and‑Spoke Data
+  Teams'
 transcript:
 - header: Audience Poll
 - line: You might notice that there is a poll right now in the live chat, which asks
@@ -947,6 +948,9 @@ transcript:
   sec: 3702
   time: '1:01:42'
   who: Alexey
+description: 'Discover Industrial AI tactics, MLOps & sensorization to scale projects:
+  hub-and-spoke data teams, proving value, tooling and career steps to productionize
+  ML.'
 ---
 
 Links:

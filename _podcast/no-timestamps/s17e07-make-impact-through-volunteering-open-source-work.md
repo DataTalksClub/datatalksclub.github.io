@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=aHdaIwOEI8Q
 season: 17
 short: Make an Impact Through Volunteering Open Source Work
-title: "Boost Your AI Career: Volunteer Open-Source Projects, Hackathon Strategy & Data Sourcing"
+title: 'Boost Your AI Career: Volunteer Open-Source Projects, Hackathon Strategy &
+  Data Sourcing'
 transcript:
 - line: This week, we'll talk about volunteering and open source work. We have a special
     guest today, Sara. Sara is a Google Developer expert in machine learning, a Google
@@ -1209,6 +1210,9 @@ transcript:
   sec: 3677
   time: '1:01:17'
   who: Sara
+description: Discover volunteer open-source projects, hackathon strategy and data
+  sourcing tips to build an AI portfolio, land referrals, and win medical imaging
+  challenges.
 ---
 
 Links:

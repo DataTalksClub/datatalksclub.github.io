@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=vXbMUfHE1OE
 season: 20
 short: From Hackathons To Developer Advocacy
-title: "Run Hackathons & Scale MLH-Style Open Source Fellowships: Organize, Onboard, Judge"
+title: 'Run Hackathons & Scale MLH-Style Open Source Fellowships: Organize, Onboard,
+  Judge'
 transcript:
 - header: 0:00 Introduction, career journeys, and video setup and workflow
 - line: This week we’ll discuss many topics—developer advocacy, organizing hackathons,
@@ -1430,6 +1431,8 @@ transcript:
   sec: 3689
   time: '1:01:29'
   who: Alexey
+description: 'Master hackathons, MLH Fellowship & onboarding: organize events, judge
+  with scoring matrices, scale open-source mentorships to onboard hireable contributors.'
 ---
 
 Links:

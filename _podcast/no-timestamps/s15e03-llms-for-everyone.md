@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=6dn6uZFkk04
 season: 15
 short: LLMs for Everyone
-title: "Deploying LLMs in Production: Fine-Tuning, Retrieval & Open-Source vs API Tradeoffs"
+title: 'Deploying LLMs in Production: Fine-Tuning, Retrieval & Open-Source vs API
+  Tradeoffs'
 transcript:
 - line: This week, we'll talk about ways to put LLMs (large language models) into
     production. We have a special guest today, Meryem. Meryem is a “recovering” physicist
@@ -1148,6 +1149,8 @@ transcript:
   sec: 3638
   time: '1:00:38'
   who: Alexey
+description: 'Discover LLM deployment tactics: fine-tuning, retrieval and open-source
+  vs API tradeoffs to cut latency, control costs, and ground production models.'
 ---
 
 Links:

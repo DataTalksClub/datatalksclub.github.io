@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=gbjoFfrm4iw
 season: 14
 short: Practical Data Privacy
-title: "Data Privacy Playbook: Differential Privacy, Federated Learning, PETs & Consent UX"
+title: 'Data Privacy Playbook: Differential Privacy, Federated Learning, PETs & Consent
+  UX'
 transcript:
 - line: This week, we'll talk about practical data privacy. We have a special guest
     today, Katharine. Katharine is a privacy activist, machine learning engineer,
@@ -1253,6 +1254,8 @@ transcript:
   sec: 3788
   time: '1:03:08'
   who: Katharine
+description: Discover differential privacy, federated learning and PETs - privacy
+  engineering, consent UX fixes and compliance to reduce re-identification risk.
 ---
 
 Links:

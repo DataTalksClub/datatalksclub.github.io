@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=NfAJAr7FvyY&t
 season: 20
 short: Competitive Machine Learning and Teaching
-title: "From Kaggle to Production: MLOps, Competition Strategies & Curriculum Design"
+title: 'From Kaggle to Production: MLOps, Competition Strategies & Curriculum Design'
 transcript:
 - header: Introduction and Alexander’s background
 - line: This week, we’ll talk about competitive machine learning and teaching. Our
@@ -601,6 +601,8 @@ transcript:
   sec: 4139
   time: '1:08:59'
   who: Alexey
+description: Master Kaggle strategies, MLOps and curriculum design to convert competition
+  skills into production ML, scalable courses, teamwork and career boosts.
 ---
 
 Links:

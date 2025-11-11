@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=b6x5zZ3C6sQ
 season: 13
 short: Analytics for a Better World
-title: "Analytics for Nonprofits: Build Data Maturity, Teams, Tools & Optimization Strategies"
+title: 'Analytics for Nonprofits: Build Data Maturity, Teams, Tools & Optimization
+  Strategies'
 transcript:
 - line: This week, we'll talk about improving our world with analytics. We have a
     special guest today, Parvathy. Parvathy is a CTO at Analytics for a Better World,
@@ -1049,6 +1050,8 @@ transcript:
   sec: 3631
   time: '1:00:31'
   who: Alexey
+description: Learn nonprofit analytics and data maturity strategies to build teams,
+  choose tools and optimize programs-practical roadmaps, case studies, and open resources.
 ---
 
 Links:

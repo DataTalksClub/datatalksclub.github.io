@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=Kc3Puh3UCRQ
 season: 13
 short: Mastering Self-Learning in Machine Learning
-title: "How to Teach Yourself Bioinformatics & ML: Project-First Learning, Resources, and MLOps"
+title: 'How to Teach Yourself Bioinformatics & ML: Project-First Learning, Resources,
+  and MLOps'
 transcript:
 - line: This week we'll talk about self-studying and continuous learning in machine
     learning and bioinformatics. We have a special guest today, Aaisha. Aaisha is
@@ -1261,6 +1262,9 @@ transcript:
   sec: 3611
   time: '1:00:11'
   who: Alexey
+description: Learn bioinformatics & machine learning via project-first workflows,
+  dataset-first ideation, study hacks and MLOps deployment tips to gain practical
+  skills.
 ---
 
 Links:

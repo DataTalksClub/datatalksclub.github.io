@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=saaRRzgHsmE
 season: 11
 short: Teaching and Mentoring in Data Analytics
-title: "Designing FinTech Data Analytics Curriculum: Fraud Detection, BigQuery Labs & Mentoring"
+title: 'Designing FinTech Data Analytics Curriculum: Fraud Detection, BigQuery Labs
+  & Mentoring'
 transcript:
 - line: This week, we'll talk about teaching and mentoring in data analytics. We have
     a special guest today, Irina. Irina works as a teacher and curriculum developer
@@ -1423,6 +1424,9 @@ transcript:
   sec: 3714
   time: '1:01:54'
   who: Irina
+description: 'Discover FinTech data analytics curriculum: fraud detection, BigQuery
+  labs & mentoring—gain hands-on cloud skills, chargeback modeling, SQL and career
+  guidance.'
 ---
 
 Links:

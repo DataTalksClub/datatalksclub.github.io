@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=GawJ7mG5ElQ
 season: 11
 short: From Digital Marketing to Analytics Engineering
-title: "Marketing to Analytics Engineering: DBT, SQL, Data Modeling & Career Playbook"
+title: 'Marketing to Analytics Engineering: DBT, SQL, Data Modeling & Career Playbook'
 transcript:
 - line: This week, we'll talk about switching careers from marketing to analytics
     engineering. We have a special guest today, Nikola. Nikki started her career as
@@ -948,6 +948,9 @@ transcript:
   sec: 3274
   time: '54:34'
   who: Nikola
+description: 'Discover DBT, SQL & data modeling tactics for pivoting into analytics
+  engineering: learn migration, tooling, A/B testing, and a career playbook to get
+  hired.'
 ---
 
 Links:

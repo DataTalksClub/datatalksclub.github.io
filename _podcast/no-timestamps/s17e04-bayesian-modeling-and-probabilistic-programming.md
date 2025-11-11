@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=kcKvUSInm-M
 season: 17
 short: Bayesian Modeling  and Probabilistic Programming
-title: "Master Bayesian Modeling & Probabilistic Programming: MCMC, HMC/NUTS, Sampling with Hakaru & PyMC"
+title: 'Master Bayesian Modeling & Probabilistic Programming: MCMC, HMC/NUTS, Sampling
+  with Hakaru & PyMC'
 transcript:
 - line: This week, we'll talk about Bayesian modeling and probabilistic programming.
     We have a special guest today, Rob. Rob is a machine learning engineer and a data
@@ -1169,6 +1170,8 @@ transcript:
   sec: 4009
   time: '1:06:49'
   who: Alexey
+description: Master Bayesian modeling, MCMC/HMC/NUTS and probabilistic programming
+  with Hakaru & PyMC—learn sampling, priors, posteriors and practical model building.
 ---
 
 Links:

@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=pkcpH5N-GP8
 season: 21
 short: From Simulation Algorithms to Production-Grade Data Systems
-title: "Synthetic Medical Imaging Data for AI: Startup Data Engineering, MVPs & Freelance Transition"
+title: 'Synthetic Medical Imaging Data for AI: Startup Data Engineering, MVPs & Freelance
+  Transition'
 transcript:
 - header: Orell’s career and move to freelancing
 - line: This week, we'll talk about many different things. We will discuss our guest’s
@@ -768,6 +769,8 @@ transcript:
   sec: 3811
   time: '1:03:31'
   who: Alexey
+description: 'Learn synthetic medical imaging & data engineering: build MVPs, integrate
+  simulation-HPC, optimize ETL, and shift to freelance with client-acquisition tactics.'
 ---
 
 Links:

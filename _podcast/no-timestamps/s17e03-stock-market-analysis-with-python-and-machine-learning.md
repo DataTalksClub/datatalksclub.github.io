@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=NThHAEIazFk
 season: 17
 short: Stock Market Analysis with Python and Machine Learning
-title: "Algorithmic Trading & Mean Reversion: Backtesting, Data APIs, Risk Management & ML"
+title: 'Algorithmic Trading & Mean Reversion: Backtesting, Data APIs, Risk Management
+  & ML'
 transcript:
 - line: This week, we'll talk about stock market analysis with Python and machine
     learning. We have a special guest today, Ivan. Ivan works as Analytics Team Lead
@@ -1000,6 +1001,9 @@ transcript:
   sec: 3735
   time: '1:02:15'
   who: Ivan
+description: 'Discover algorithmic trading & mean reversion: practical backtesting,
+  data APIs, risk management, model choices and trade execution to boost strategy
+  ROI.'
 ---
 
 Links:

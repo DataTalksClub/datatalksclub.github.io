@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=1aMuynlLM3o
 season: 20
 short: Trends in AI Infrastructure
-title: "Cut AI Infrastructure Costs: DStack for On‑Prem GPU Training & MLOps Alternatives"
+title: 'Cut AI Infrastructure Costs: DStack for On‑Prem GPU Training & MLOps Alternatives'
 transcript:
 - header: Trends in AI Infrastructure
 - header: 'Andrey''s Career Journey: From JetBrains to DStack'
@@ -844,6 +844,8 @@ transcript:
   sec: 3964
   time: '1:06:04'
   who: Andrey
+description: Discover DStack to cut AI infrastructure costs with on‑prem GPU training
+  and MLOps alternatives—optimize distributed training, reduce orchestration overhead.
 ---
 
 Links:

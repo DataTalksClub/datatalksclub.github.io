@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=lpjffCOPxlY
 season: 11
 short: Large-Scale Entity Resolution
-title: "Eliminate Duplicate Records with ML-Powered Identity Resolution — Snowflake-native & Open Source"
+title: Eliminate Duplicate Records with ML-Powered Identity Resolution — Snowflake-native
+  & Open Source
 transcript:
 - line: This week, we'll talk about identity resolution and we'll also talk about
     building an open source startup. We have a special guest today, Sonal. Sonal is
@@ -1106,6 +1107,8 @@ transcript:
   sec: 3694
   time: '1:01:34'
   who: Sonal
+description: Discover ML-powered identity resolution to remove duplicate records,
+  Snowflake-native, open-source deduplication for scalable fraud detection and integrations.
 ---
 
 Links:

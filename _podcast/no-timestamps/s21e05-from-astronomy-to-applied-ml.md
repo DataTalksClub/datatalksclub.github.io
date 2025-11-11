@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=b92gwrsVQtg
 season: 21
 short: From Astronomy to Applied ML
-title: "Detecting Radio-Emitting Stars with MEERKAT: Building ML & Cloud Data Pipelines"
+title: 'Detecting Radio-Emitting Stars with MEERKAT: Building ML & Cloud Data Pipelines'
 transcript:
 - header: Lunar eclipse story and Daniel’s astronomy career
 - line: Hi everyone, welcome to our event. This event is brought to you by Data Talks
@@ -1138,6 +1138,8 @@ transcript:
   sec: 3875
   time: '1:04:35'
   who: Alexey
+description: Discover MEERKAT radio-emitting stars using ML & cloud pipelines — learn
+  Astropy tools, catalog cross-matching, and production deployment at scale.
 ---
 
 Links:

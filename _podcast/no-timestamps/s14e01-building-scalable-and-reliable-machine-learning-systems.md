@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=i-pIdekjUow
 season: 14
 short: Building Scalable and Reliable Machine Learning Systems
-title: "Build Scalable, Reliable ML Systems (MLOps): Design Docs, Data Strategy & Edge Constraints"
+title: 'Build Scalable, Reliable ML Systems (MLOps): Design Docs, Data Strategy &
+  Edge Constraints'
 transcript:
 - line: This week, we'll talk about building scalable and reliable machine learning
     systems, or we can call it machine learning system design. We have a special guest
@@ -936,6 +937,8 @@ transcript:
   sec: 3658
   time: '1:00:58'
   who: Alexey
+description: Learn MLOps design doc and data strategy to build scalable, reliable
+  machine learning systems; navigate edge constraints, metrics, pipelines, and testing.
 ---
 
 Links:

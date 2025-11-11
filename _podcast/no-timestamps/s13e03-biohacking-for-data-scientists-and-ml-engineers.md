@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=uyxUBADZYpU
 season: 13
 short: Biohacking for Data Scientists and ML Engineers
-title: "Actionable Biohacks to Boost Productivity: Sleep, Circadian Light, Dopamine & Habits"
+title: 'Actionable Biohacks to Boost Productivity: Sleep, Circadian Light, Dopamine
+  & Habits'
 transcript:
 - line: This week we'll talk about biohacking and improving productivity. We have
     a special guest today, Ruslan. Ruslan is a data scientist who lives in Berlin.
@@ -1417,6 +1418,8 @@ transcript:
   sec: 3565
   time: '59:25'
   who: Alexey
+description: Discover actionable biohacks for sleep and dopamine to boost productivity
+  with 90-min cycles, morning light, habit tracking and energy-focused routines.
 ---
 
 Links:

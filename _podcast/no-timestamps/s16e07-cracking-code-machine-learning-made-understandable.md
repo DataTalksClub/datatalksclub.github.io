@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=LBuGzyOkx7c
 season: 16
 short: 'Cracking the Code: Machine Learning Made Understandable'
-title: "Interpretable ML & Technical Writing: SHAP, Conformal Prediction, Python & Self-Publishing"
+title: 'Interpretable ML & Technical Writing: SHAP, Conformal Prediction, Python &
+  Self-Publishing'
 transcript:
 - line: This week, we'll talk about making machine learning interpretable. We have
     a very special guest today, Christoph. Christoph has a PhD in interpretable machine
@@ -1199,6 +1200,8 @@ transcript:
   sec: 3422
   time: '57:02'
   who: Alexey
+description: Discover Interpretable ML, SHAP and Conformal Prediction with Python
+  examples and self-publishing tips, debug models, calibrate uncertainty, and publish.
 ---
 
 Links:

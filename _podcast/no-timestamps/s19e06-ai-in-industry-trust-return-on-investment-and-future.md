@@ -2,6 +2,7 @@
 episode: 6
 guests:
 - mariasukhareva
+description: "Discover generative AI, chatbot safety, and prompting strategies to prevent hallucinations and data exfiltration, boost translation quality and ROI."
 ids:
   anchor: atalksclub/episodes/AI-in-Industry-Trust--Return-on-Investment-and-Future---Maria-Sukhareva-e2rp9f8
   youtube: bT7-HRNCltk
@@ -12,7 +13,7 @@ links:
   spotify: https://open.spotify.com/episode/5GOBabz65IRmiMow8FYbr5?si=a99463e34ffb48f1
   youtube: https://www.youtube.com/watch?v=bT7-HRNCltk
 season: 19
-short: 'AI in Industry: Trust, Return on Investment and Future'
+short: "AI in Industry: Trust, Return on Investment and Future"
 title: "Hardening Generative AI Chatbots: Prevent Prompt Injection, Data Exfiltration & Hallucinations"
 transcript:
 - header: 'AI in Industry: Trust, Return on Investment and Future'

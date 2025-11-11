@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=-xumbiXOlA8
 season: 11
 short: From Testing Phones to Managing NLP Projects
-title: "Transition from QA to Machine Learning & Data Engineering: Projects, Cloud & Interview Prep"
+title: 'Transition from QA to Machine Learning & Data Engineering: Projects, Cloud
+  & Interview Prep'
 transcript:
 - line: This week, we'll talk about career transitioning from quality assurance to
     machine learning. We have a special guest today, Alvaro. Alvaro worked in the
@@ -1257,6 +1258,8 @@ transcript:
   sec: 3759
   time: '1:02:39'
   who: Alexey
+description: 'Master the transition to machine learning & data engineering: build
+  cloud-deployed projects, sharpen interview prep, and revamp your CV to land offers.'
 ---
 
 Links:

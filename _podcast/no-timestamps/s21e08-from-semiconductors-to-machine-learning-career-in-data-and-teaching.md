@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=B2tzuUg5uZs
 season: 21
 short: 'From Semiconductors to Machine Learning: A Career in Data and Teaching'
-title: "Predictive Maintenance & Yield Analytics for Semiconductors: Deploy ML with Flask, Docker & MLOps"
+title: 'Predictive Maintenance & Yield Analytics for Semiconductors: Deploy ML with
+  Flask, Docker & MLOps'
 transcript:
 - header: Dashel's unique career path from music to semiconductors
 - line: Hi everyone, welcome to our event. This event is brought to you by the Data
@@ -1007,6 +1008,8 @@ transcript:
   sec: 4388
   time: '1:13:08'
   who: Dashel
+description: 'Learn predictive maintenance & yield analytics for semiconductors: deploy
+  ML with Flask, Docker & MLOps to boost yield, enable explainability, and ship APIs.'
 ---
 
 Links:

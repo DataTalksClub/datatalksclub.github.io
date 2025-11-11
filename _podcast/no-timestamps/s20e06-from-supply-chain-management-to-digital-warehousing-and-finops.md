@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=7ePp6wuxM5s
 season: 20
 short: From Supply Chain Management to Digital Warehousing and FinOps
-title: "FinOps for Data Engineers: Optimize Cloud Costs with dbt, BigQuery & Modern Data Stack"
+title: 'FinOps for Data Engineers: Optimize Cloud Costs with dbt, BigQuery & Modern
+  Data Stack'
 transcript:
 - header: 'Eddy’s career journey: From supply chain to data engineering'
 - line: Let’s get started. This week, we’ll discuss Digital Data Warehousing and FinOps.
@@ -953,6 +954,8 @@ transcript:
   sec: 3594
   time: '59:54'
   who: Eddy
+description: Master FinOps for data engineers—optimize BigQuery costs with dbt, cloud
+  cost modeling, tagging and forecasting to cut spend and boost pipeline efficiency.
 ---
 
 Links:

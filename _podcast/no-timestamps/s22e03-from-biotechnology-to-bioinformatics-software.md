@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=ZFrcrTtnB1Q
 season: 22
 short: From Biotechnology to Bioinformatics Software
-title: "Wastewater Metagenomics & Knowledge Graphs: Network Inference, AlphaFold & Open-Source Tools"
+title: 'Wastewater Metagenomics & Knowledge Graphs: Network Inference, AlphaFold &
+  Open-Source Tools'
 transcript:
 - header: Sebastian’s Journey into Bioinformatics
 - line: Hi everyone, welcome to our event. This event is brought to you by Data Talks
@@ -953,6 +954,9 @@ transcript:
   sec: 3313
   time: '55:13'
   who: Sebastian
+description: Discover wastewater metagenomics knowledge graphs & AlphaFold-driven
+  network inference using open-source bioinformatics tools to map microbes and cut
+  lab tests.
 ---
 
 Links:

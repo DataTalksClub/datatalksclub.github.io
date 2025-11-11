@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=-HbQQ_bVdfE
 season: 16
 short: From Marketing to Product Owner in Search
-title: "From Marketing to Product Owner: Build E-commerce Search with Elasticsearch & NLP"
+title: 'From Marketing to Product Owner: Build E-commerce Search with Elasticsearch
+  & NLP'
 transcript:
 - line: This week, we'll talk about transitioning from marketing to being a product
     owner in search. And we have a very special guest today Valeria. Valeria is a
@@ -965,6 +966,8 @@ transcript:
   sec: 3818
   time: '1:03:38'
   who: Alexey
+description: Discover e-commerce search with Elasticsearch & NLP, plus product owner
+  tactics, roadmap prioritization, team-building and hiring tips to boost conversions.
 ---
 
 Links:

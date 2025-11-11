@@ -2,6 +2,7 @@
 episode: 3
 guests:
 - alexeygrigorev
+description: "Discover DataTalks.Club's origin, growth, and practical lessons in data engineering and LLMs—scaling courses, community tactics, career & monetization tips."
 ids:
   anchor: atatalksclub/episodes/DataTalks-Club-4th-Anniversary-AMA-Podcast--Alexey-Grigorev-and-Johanna-Bayer-e2q3ch2
   youtube: GHbeXIKnkLQ

@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=SRUwwvk_YCk
 season: 13
 short: Accelerating the Adoption of AI through Diversity
-title: "How to Build & Scale a Data Science Community: Diversity, ML Deployment & Career Growth"
+title: 'How to Build & Scale a Data Science Community: Diversity, ML Deployment &
+  Career Growth'
 transcript:
 - line: This week, we'll talk about diversity and leadership in data science and AI.
     We have a special guest today, Dania. Dania is a co-founder and director at the
@@ -1156,6 +1157,8 @@ transcript:
   sec: 3678
   time: '1:01:18'
   who: Alexey
+description: Discover how to build and scale a data science community, boost diversity,
+  deploy ML, and accelerate career growth with mentoring & hiring strategies.
 ---
 
 Links:

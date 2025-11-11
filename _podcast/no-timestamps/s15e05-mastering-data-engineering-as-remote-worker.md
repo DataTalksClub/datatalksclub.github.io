@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=UX7UShEioKc
 season: 15
 short: Mastering Data Engineering as a Remote Worker
-title: "Build IoT Platforms & Data Pipelines for Remote Work: Hiring, Onboarding & Personal Branding"
+title: 'Build IoT Platforms & Data Pipelines for Remote Work: Hiring, Onboarding &
+  Personal Branding'
 transcript:
 - line: This week we'll talk about doing data engineering as a remote worker, among
     other things. We have a special guest today, José. José is a computer scientist
@@ -985,6 +986,8 @@ transcript:
   sec: 3550
   time: '59:10'
   who: Alexey
+description: 'Master IoT platforms and data pipelines for remote work: hiring & onboarding
+  tips, sensor architecture, and personal branding tactics to advance your career.'
 ---
 
 Links:

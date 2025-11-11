@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=q3DTR3Od1MA
 season: 15
 short: Pragmatic and Standardized MLOps
-title: "Pragmatic MLOps: Build Standardized CI/CD, Model Registries, Monitoring & Org Best Practices"
+title: 'Pragmatic MLOps: Build Standardized CI/CD, Model Registries, Monitoring &
+  Org Best Practices'
 transcript:
 - line: This week, we'll talk about MLOps. We'll talk about pragmatic and standardized
     MLOps. Actually, we just finished our MLOps course. For the students who just
@@ -1116,6 +1117,8 @@ transcript:
   sec: 3526
   time: '58:46'
   who: Alexey
+description: 'Learn pragmatic MLOps: standardize CI/CD, model registry and monitoring
+  to boost reproducibility, deployment reliability, and team productivity.'
 ---
 
 Links:

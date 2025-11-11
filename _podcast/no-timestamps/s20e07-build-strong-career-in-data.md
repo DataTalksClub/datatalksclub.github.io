@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=ekG5zJioyFs
 season: 20
 short: Build a Strong Career in Data
-title: "Benchmarking Long-Context LLMs for Finance: Chunking, Retrieval, Summarization & Career Tips"
+title: 'Benchmarking Long-Context LLMs for Finance: Chunking, Retrieval, Summarization
+  & Career Tips'
 transcript:
 - header: Lavanya’s journey from software engineer to AI researcher
 - line: This week we'll talk about building a strong career in data and we have a
@@ -1040,6 +1041,8 @@ transcript:
   sec: 3490
   time: '58:10'
   who: Alexey
+description: Discover long-context LLMs, chunking and retrieval for finance benchmarking—learn
+  32k–64k context limits, summarization tips, prototyping & career advice.
 ---
 
 Links:

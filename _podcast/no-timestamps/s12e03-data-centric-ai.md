@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=t3HDdVWQzNM
 season: 12
 short: Data-Centric AI
-title: "Data-Centric AI: Improve Label Quality & Edit Datasets to Boost Model Performance"
+title: 'Data-Centric AI: Improve Label Quality & Edit Datasets to Boost Model Performance'
 transcript:
 - line: This week, we'll talk about data-centric AI. We have a special guest today,
     Marysia. Marysia works as a lead data scientist at GoDataDriven. She has a strong
@@ -1231,6 +1231,8 @@ transcript:
   sec: 3540
   time: '59:00'
   who: Alexey
+description: Discover Data-Centric AI tactics to improve label quality and edit datasets
+  to boost model performance, practical workflows, relabeling, augmentation tips.
 ---
 
 Links:

@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=346N_pCtYZU
 season: 10
 short: Data Mesh 101
-title: "Data Mesh Implementation: Build Decentralized Data Products, Contracts & Federated Governance"
+title: 'Data Mesh Implementation: Build Decentralized Data Products, Contracts & Federated
+  Governance'
 transcript:
 - line: This week we will talk about Data Mesh. We have a special guest today, Zhamak.
     Zhamak is a principal Technology Consultant at ThoughtWorks and she's the inventor
@@ -994,6 +995,8 @@ transcript:
   sec: 3739
   time: '1:02:19'
   who: Zhamak
+description: Discover Data Mesh strategies, data contracts and federated governance
+  to build decentralized data products, improve data quality, and scale adoption.
 ---
 
 Links:

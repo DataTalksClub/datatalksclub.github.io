@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=lem7knxqNzg
 season: 11
 short: From Data Science to DataOps
-title: "DataOps & GitOps for Data Teams: Onboarding, IaC, Reproducibility & Production Best Practices"
+title: 'DataOps & GitOps for Data Teams: Onboarding, IaC, Reproducibility & Production
+  Best Practices'
 transcript:
 - line: This week, we'll talk about DataOps. We have a special guest today, Tomasz.
     Tomasz is a DataOps who lives in Poland, in Poznan. After working in product analytics,
@@ -964,6 +965,8 @@ transcript:
   sec: 4009
   time: '1:06:49'
   who: Alexey
+description: Master DataOps, GitOps and IaC best practices for reproducibility, onboarding
+  and production reliability — actionable Git workflows, Terraform, Docker tips.
 ---
 
 Links:

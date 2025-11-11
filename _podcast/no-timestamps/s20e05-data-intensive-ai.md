@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=BP6w_vKySN0
 season: 20
 short: Data Intensive AI
-title: "Build Trustworthy AI with Data Pipeline Testing & Prompt Engineering (Caching, Compression & Tools)"
+title: Build Trustworthy AI with Data Pipeline Testing & Prompt Engineering (Caching,
+  Compression & Tools)
 transcript:
 - header: Introduction to Bartosz and his background
 - line: This week, we’ll talk about Data Intensive AI. Our special guest today is
@@ -1021,6 +1022,8 @@ transcript:
   sec: 3697
   time: '1:01:37'
   who: Alexey
+description: Master data pipeline testing and prompt engineering—learn snapshot tests,
+  prompt compression & caching to ensure data trust and cut model costs.
 ---
 
 Links:

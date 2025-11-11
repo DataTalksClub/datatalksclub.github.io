@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=gXvVMvhfrIY
 season: 21
 short: 'From Theme Parks to Tesla: Building Data Products That Work'
-title: "Optimize Visitor Flow with Theme Park Crowd Modeling, Queue Prediction & Real-Time Recommendations"
+title: Optimize Visitor Flow with Theme Park Crowd Modeling, Queue Prediction & Real-Time
+  Recommendations
 transcript:
 - header: Career journey and early motivations
 - line: Hi everyone, welcome to our event. This event is brought to you by Data Docs
@@ -1123,6 +1124,8 @@ transcript:
   sec: 3635
   time: '1:00:35'
   who: Abouzar
+description: Discover crowd modeling, queue prediction and real-time recommendations
+  to optimize visitor flow, reduce wait times and boost engagement with smart routing.
 ---
 
 Links:

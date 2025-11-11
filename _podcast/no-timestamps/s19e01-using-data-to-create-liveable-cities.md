@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=VXQIGHUWeL0
 season: 19
 short: Using Data to Create Liveable Cities
-title: "How Urban Transport Data & AI Enable Real-Time Monitoring, Demand Forecasting & Data Pipelines"
+title: How Urban Transport Data & AI Enable Real-Time Monitoring, Demand Forecasting
+  & Data Pipelines
 transcript:
 - header: Using data to create livable cities
 - line: This week, we'll talk about using data to create livable cities. We have a
@@ -776,6 +777,9 @@ transcript:
   sec: 3208
   time: '53:28'
   who: Alexey
+description: Discover urban transport data, real-time monitoring and demand forecasting
+  techniques—learn data pipelines, text-to-SQL and AI tools to improve planning &
+  ops.
 ---
 
 Links:

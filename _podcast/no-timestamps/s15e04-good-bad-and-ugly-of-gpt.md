@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=bM6AR4A-f98
 season: 15
 short: The Good, the Bad and the Ugly of GPT
-title: "Build Secure LLM Apps: GPT, Prompt Engineering, Embeddings & Semantic Search"
+title: 'Build Secure LLM Apps: GPT, Prompt Engineering, Embeddings & Semantic Search'
 transcript:
 - line: This week, we'll talk about GPT, LLMs, and building NLP products. Interestingly,
     in the last year, we did not have any talks about the LLMs or GPT, but today is
@@ -888,6 +888,8 @@ transcript:
   sec: 3684
   time: '1:01:24'
   who: Sandra
+description: 'Build secure LLM apps with GPT: master prompt engineering and embeddings
+  to cut hallucinations, protect data, scale workflows, and boost content ROI.'
 ---
 
 Links:

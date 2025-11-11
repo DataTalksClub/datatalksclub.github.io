@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=kSTfhQ_SZgc
 season: 14
 short: From MLOps to DataOps
-title: "Build Modern Data Pipelines: Ingestion, dbt Transformations, Airflow Orchestration & MLOps"
+title: 'Build Modern Data Pipelines: Ingestion, dbt Transformations, Airflow Orchestration
+  & MLOps'
 transcript:
 - line: This week we'll talk about MLOps and DataOps. We have a special guest today,
     Santona. Santona started her data journey as a researcher at CERN, then worked
@@ -991,6 +992,8 @@ transcript:
   sec: 3673
   time: '1:01:13'
   who: Santona
+description: Master modern data pipelines with dbt transforms and Airflow orchestration—streamline
+  ingestion, speed feature engineering and analytics delivery.
 ---
 
 Links:

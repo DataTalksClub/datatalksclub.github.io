@@ -13,11 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=QKWu5-6_6TE
 season: 19
 short: Career choices, transitions and promotions in and out of tech
-title: "DevOps to Data Engineering: Automation, Open Source & Volunteering"
+title: 'DevOps to Data Engineering: Automation, Open Source & Volunteering'
 transcript:
 - header: Career choices, transitions and promotions in and out of tech
-- line: We
-    have a special guest today, Agita. She has done a lot in her career, including
+- line: We have a special guest today, Agita. She has done a lot in her career, including
     work in DevOps, DataOps, data engineering, management, community building, education,
     and facilitation, among other things. I’m sure that’s not even the full list!
     She has experience in corporate environments, startups, open-source projects,
@@ -1021,6 +1020,8 @@ transcript:
   sec: 3706
   time: '1:01:46'
   who: Agita
+description: 'Learn DevOps-to-Data-Engineering career tactics: automation, open source
+  & volunteering to build skills, earn rapid promotions, and lead projects.'
 ---
 
 Links:

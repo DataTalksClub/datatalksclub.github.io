@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=K0PdQITQzVQ
 season: 12
 short: Doing Software Engineering in Academia
-title: "Teach Reproducible Research: RSE Practices for Neuroimaging, Packaging, MLflow & Data Sharing"
+title: 'Teach Reproducible Research: RSE Practices for Neuroimaging, Packaging, MLflow
+  & Data Sharing'
 transcript:
 - line: This week we'll talk about doing software engineering in academia. We have
     a special guest today, Johanna. Johanna has a formal background in psychology
@@ -1141,6 +1142,8 @@ transcript:
   sec: 3558
   time: '59:18'
   who: Alexey
+description: 'Master reproducible research for neuroimaging: packaging, MLflow & data
+  sharing to publish reproducible manuscripts, boost citations and career visibility.'
 ---
 
 Links:

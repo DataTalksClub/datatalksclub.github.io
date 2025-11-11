@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=AlCFKbFIEM8
 season: 20
 short: Trends in Data Engineering
-title: "Future-Proof Data Engineering: Adopt Apache Iceberg, DuckDB & AI-Powered Pipelines"
+title: 'Future-Proof Data Engineering: Adopt Apache Iceberg, DuckDB & AI-Powered Pipelines'
 transcript:
 - header: Introduction and Adrian’s background
 - line: This week, we’ll talk about trends in data engineering. Our special guest
@@ -506,6 +506,8 @@ transcript:
   sec: 3737
   time: '1:02:17'
   who: Alexey
+description: Discover Apache Iceberg, DuckDB & AI-powered pipelines - learn cost-efficient
+  table formats, orchestration tactics and a career roadmap for data engineers.
 ---
 
 Links:

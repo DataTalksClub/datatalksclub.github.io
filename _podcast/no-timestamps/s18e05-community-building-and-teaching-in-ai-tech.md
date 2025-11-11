@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=7SLd5V7z3xQ
 season: 18
 short: Community Building and Teaching in AI & Tech
-title: "Omdena Academy: Project-to-Course AI Education for Data Science Careers & Instructors"
+title: 'Omdena Academy: Project-to-Course AI Education for Data Science Careers &
+  Instructors'
 transcript:
 - line: This week, we'll talk about community building. We have a special guest today,
     Erum. Erum is a Lead Machine Learning Engineer and PhD researcher at Justus Liebig
@@ -42,8 +43,8 @@ transcript:
   time: '2:24'
   who: Alexey
 - header: Erum's Background
-- line: Before we dive into community building, let's start with your background. Can
-    you tell us about your career journey so far?
+- line: Before we dive into community building, let's start with your background.
+    Can you tell us about your career journey so far?
   sec: 152
   time: '2:32'
   who: Alexey
@@ -267,8 +268,8 @@ transcript:
   time: '21:36'
   who: Alexey
 - line: Yes. Our courses are live, not recorded. We invite 100 out of 400-500 registrants
-    due to capacity and financial constraints. Our graduation rate is about 33%.
-    Many attend but don't submit assignments, so they don't get a certificate.
+    due to capacity and financial constraints. Our graduation rate is about 33%. Many
+    attend but don't submit assignments, so they don't get a certificate.
   sec: 1349
   time: '22:29'
   who: Erum
@@ -425,8 +426,8 @@ transcript:
   time: '46:33'
   who: Erum
 - header: DS and ML Talent Market Saturation
-- line: "We have a question from the community: Do you feel that the market is saturated
-    with data scientists and ML engineers?"
+- line: 'We have a question from the community: Do you feel that the market is saturated
+    with data scientists and ML engineers?'
   sec: 2870
   time: '47:50'
   who: Alexey
@@ -539,6 +540,8 @@ transcript:
   sec: 3508
   time: '58:28'
   who: Alexey
+description: 'Discover Omdena Academy''s project-to-course AI education for data science:
+  learn Python, NLP, instructor paths, and gain real-world project experience.'
 ---
 
 Links:

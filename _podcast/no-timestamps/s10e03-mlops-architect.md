@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=p1gVaS4Zx5M
 season: 10
 short: MLOps Architect
-title: "MLOps Architect Guide: Production Model Monitoring, Data Observability & Tooling"
+title: 'MLOps Architect Guide: Production Model Monitoring, Data Observability & Tooling'
 transcript:
 - line: This week, we'll talk about being an MLOps architect. We have a special yesterday,
     Danny. Danny and I met more than one year ago – slightly more, I guess. I wasn't
@@ -1263,6 +1263,8 @@ transcript:
   sec: 3587
   time: '59:47'
   who: Danny
+description: Master MLOps, model monitoring & data observability with guidance on
+  production observability, ETL root causes, tooling trade-offs, ONNX, build vs buy.
 ---
 
 Links:

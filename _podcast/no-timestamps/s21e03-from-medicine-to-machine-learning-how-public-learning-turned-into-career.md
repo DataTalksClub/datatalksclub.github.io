@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=5km62e4nDaw
 season: 21
 short: 'From Medicine to Machine Learning: How Public Learning Turned into a Career'
-title: "Medicine to Machine Learning: Build Healthcare ML Portfolio, Freelance on Upwork & Deploy to Cloud"
+title: 'Medicine to Machine Learning: Build Healthcare ML Portfolio, Freelance on
+  Upwork & Deploy to Cloud'
 transcript:
 - header: Pastor’s background and early programming journey
 - line: Hi everyone, welcome to our event. This event is presented by Redox Club,
@@ -849,6 +850,8 @@ transcript:
   sec: 3667
   time: '1:01:07'
   who: Alexey
+description: Learn how to build a healthcare ML portfolio, land Upwork freelance gigs
+  and deploy Dockerized models to AWS—practical tips, capstones, and career strategies.
 ---
 
 Links:

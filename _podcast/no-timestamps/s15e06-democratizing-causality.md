@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=0I2FHH95Ofs
 season: 15
 short: Democratizing Causality
-title: "Practical Causal ML: Counterfactuals, Uplift (CATE), A/B Testing & LLMs"
+title: 'Practical Causal ML: Counterfactuals, Uplift (CATE), A/B Testing & LLMs'
 transcript:
 - line: This week, we'll talk about causality. We have a special guest today, Alexander.
     Alexander is a machine learning researcher, educator, and consultant. He has worked
@@ -1157,6 +1157,8 @@ transcript:
   sec: 4080
   time: '1:08:00'
   who: Alexey
+description: 'Discover Causal ML counterfactuals and uplift (CATE): actionable debiasing,
+  targeting strategies, policy evaluation and deployment tips to boost ROI.'
 ---
 
 Links:

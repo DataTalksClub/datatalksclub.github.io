@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=vK_SxyqIfwk
 season: 22
 short: 'Lessons from Applied AI: Tesla, Waymo, and Beyond'
-title: "Autonomous Driving AI: LiDAR vs Camera, On-Vehicle Inference & Model Compression"
+title: 'Autonomous Driving AI: LiDAR vs Camera, On-Vehicle Inference & Model Compression'
 transcript:
 - header: Aishwarya’s career journey from finance to self-driving AI
 - line: Hey everyone, welcome to our event. This event is brought to you by DataTalks.Club,
@@ -1049,6 +1049,8 @@ transcript:
   sec: 3541
   time: '59:01'
   who: Alexey
+description: Discover LiDAR vs camera tradeoffs and model compression for on-vehicle
+  inference in autonomous driving - learn quantization, edge speedups, testing tips.
 ---
 
 Links:

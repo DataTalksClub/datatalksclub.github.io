@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=qWG--iYO2uc
 season: 15
 short: From Data Manager to Data Architect
-title: "Build & Scale End-to-End IoT Data Pipelines, Lakehouse & Core Data Modeling"
+title: Build & Scale End-to-End IoT Data Pipelines, Lakehouse & Core Data Modeling
 transcript:
 - line: This week, we'll talk about the journey from being a data manager and transitioning
     to a data architect. We will discuss it from both the technical and leadership
@@ -926,6 +926,8 @@ transcript:
   sec: 3732
   time: '1:02:12'
   who: Loïc
+description: Master end-to-end IoT data pipelines, lakehouse & data modeling, learn
+  ETL, ingestion patterns and core model strategies to scale analytics and speed delivery.
 ---
 
 Links:

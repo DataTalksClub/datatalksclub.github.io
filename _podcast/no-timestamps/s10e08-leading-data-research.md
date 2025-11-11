@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=vZLlpsUlchQ
 season: 10
 short: Leading Data Research
-title: "Build Data Science Programs, Democratize HPC & Scale Graph Analytics with Arkouda"
+title: Build Data Science Programs, Democratize HPC & Scale Graph Analytics with Arkouda
 transcript:
 - line: This week, we'll talk about being a professor and leading data research. We
     have a special guest today, David. David is the director of the Institute for
@@ -1129,6 +1129,9 @@ transcript:
   sec: 3890
   time: '1:04:50'
   who: Alexey
+description: Learn to build data science programs, democratize HPC and scale graph
+  analytics with Arkouda - practical curriculum, performance tips and recruitment
+  tips
 ---
 
 Links:

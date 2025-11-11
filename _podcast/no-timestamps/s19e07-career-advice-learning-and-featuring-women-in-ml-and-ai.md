@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=GifY8Zn-pnU
 season: 19
 short: Career advice, learning, and featuring women in ML and AI
-title: "From Biology to ML: Build a Data Science Portfolio with Open-Source, Computer Vision & Transformers"
+title: 'From Biology to ML: Build a Data Science Portfolio with Open-Source, Computer
+  Vision & Transformers'
 transcript:
 - line: This week, we’re talking about continuous learning in data science. Our guest
     is Isabella, a machine learning engineer and data scientist with three years of
@@ -954,6 +955,8 @@ transcript:
   sec: 3822
   time: '1:03:42'
   who: Alexey
+description: Build a data science portfolio with open-source computer vision projects,
+  gain real job-ready experience, networking tactics and freelance tips.
 ---
 
 Links:

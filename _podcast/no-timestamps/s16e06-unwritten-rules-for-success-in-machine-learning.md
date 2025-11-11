@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=su2M058m3Lw
 season: 16
 short: The Unwritten Rules for Success in Machine Learning
-title: "From Engineer to VP of ML: How to Lead, Sell, and Ship Actionable ML Products"
+title: 'From Engineer to VP of ML: How to Lead, Sell, and Ship Actionable ML Products'
 transcript:
 - line: This week, we'll talk about the unwritten rules for success in machine learning,
     and many other things. We have a special guest today, Jack. Jack transitioned
@@ -1124,6 +1124,8 @@ transcript:
   sec: 3216
   time: '53:36'
   who: Jack
+description: 'Discover how to lead and ship actionable ML products: master stakeholder
+  communication, rapid POCs, demo design, and full‑stack ML to deliver business impact.'
 ---
 
 Links:

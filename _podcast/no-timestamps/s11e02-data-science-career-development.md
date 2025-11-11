@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=i1NHRroQClQ
 season: 11
 short: Data Science Career Development
-title: "Data Science Career Guide: Hiring, Managing & Growing Teams in B2B SaaS"
+title: 'Data Science Career Guide: Hiring, Managing & Growing Teams in B2B SaaS'
 transcript:
 - line: This week we'll talk about data science career development. We have a special
     guest today, Katie. Am I pronouncing it correctly? Katie?
@@ -1190,6 +1190,9 @@ transcript:
   sec: 3613
   time: '1:00:13'
   who: Alexey
+description: Learn hiring & management tactics for data science in B2B SaaS — hiring,
+  onboarding, mentorship, and career growth strategies to build scalable analytics
+  teams.
 ---
 
 Links:

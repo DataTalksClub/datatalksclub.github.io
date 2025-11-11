@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=acJ6sVqKOUk
 season: 10
 short: Growing Data Engineering Team in a Scale-Up
-title: "Scale Data Engineering Teams: Build Self‑Service Data Platforms, Hire Senior Engineers & Use Kafka"
+title: 'Scale Data Engineering Teams: Build Self‑Service Data Platforms, Hire Senior
+  Engineers & Use Kafka'
 transcript:
 - line: This week, we will talk about growing a data engineering team in a scale-up.
     We have a special guest today, Mehdi. I know Mehdi as a content creator and a
@@ -1074,6 +1075,8 @@ transcript:
   sec: 3802
   time: '1:03:22'
   who: Mehdi
+description: 'Master scaling data engineering teams: build self-service data platforms,
+  hire senior engineers, deploy Kafka best practices to boost velocity, onboarding.'
 ---
 
 Links:

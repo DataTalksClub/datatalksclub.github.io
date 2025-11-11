@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=kV0ZDy2UtJA
 season: 19
 short: Large Hadron Collider and Mentorship
-title: "From Collider Physics to Data Science: Research Software Engineering, Interview Prep & Mentorship"
+title: 'From Collider Physics to Data Science: Research Software Engineering, Interview
+  Prep & Mentorship'
 transcript:
 - header: Large Hadron Collider and Mentorship
 - line: This week, we’ll talk about your career. Specifically, your transition from
@@ -880,6 +881,9 @@ transcript:
   sec: 3682
   time: '1:01:22'
   who: Alexey
+description: Discover research software engineering, data science, and mentorship
+  strategies from a collider physicist - interview prep, CI/CD practices, and career-shift
+  tips.
 ---
 
 Links:

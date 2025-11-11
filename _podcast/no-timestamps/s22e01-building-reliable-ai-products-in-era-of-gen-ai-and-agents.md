@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=x2AAjqz2XmM
 season: 22
 short: Building reliable AI products in the era of Gen AI and Agents
-title: "Build & Evaluate Autonomous LLM Agents: RAG, Orchestration, Context Engineering & SRE"
+title: 'Build & Evaluate Autonomous LLM Agents: RAG, Orchestration, Context Engineering
+  & SRE'
 transcript:
 - header: Career journey and early curiosity
 - line: Hi everyone, welcome to our event. This event is brought to you by DataTalks.Club,
@@ -836,6 +837,8 @@ transcript:
   sec: 3563
   time: '59:23'
   who: Alexey
+description: Build autonomous LLM agents with RAG, orchestration & context engineering
+  - master SRE automation, testing, evaluation metrics and latency/cost tradeoffs.
 ---
 
 Links:

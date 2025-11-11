@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=_xr1_xb736E
 season: 12
 short: Staff AI Engineer
-title: "Staff AI Engineer: From Academia to Industry — Interview Prep, MLOps & Onboarding"
+title: 'Staff AI Engineer: From Academia to Industry — Interview Prep, MLOps & Onboarding'
 transcript:
 - line: This week, we'll talk about the role of a staff AI engineer. We have a special
     guest today, Tatiana. Tatiana works as a staff AI engineer at LinkedIn. Before
@@ -1073,6 +1073,8 @@ transcript:
   sec: 3634
   time: '1:00:34'
   who: Alexey
+description: Discover Staff AI Engineer interview prep, MLOps & onboarding tactics
+  to transition from academia—coding strategies, system design, mentorship for impact.
 ---
 
 Links:

@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=sXU9vMDBjmk
 season: 19
 short: Linguistics and Fairness
-title: "Fairness in AI: Using Fairlearn to Mitigate Credit Scoring Bias & Build Explainable Models"
+title: 'Fairness in AI: Using Fairlearn to Mitigate Credit Scoring Bias & Build Explainable
+  Models'
 transcript:
 - header: Linguistics and Fairness
 - line: This week, we’ll talk about linguistic fairness and a sociotechnical perspective
@@ -896,6 +897,8 @@ transcript:
   sec: 3554
   time: '59:14'
   who: Alexey
+description: 'Discover how to use Fairlearn to mitigate credit scoring bias and build
+  explainable models: practical tools, human-in-the-loop tips, and evaluation tradeoffs.'
 ---
 
 Links:

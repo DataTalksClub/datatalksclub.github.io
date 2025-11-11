@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=ZXNKjrrKU_I
 season: 15
 short: Data Engineering for Fraud Prevention
-title: "Retail Fraud Detection with Data Engineering: Real-Time Scoring, Graphs & MLOps"
+title: 'Retail Fraud Detection with Data Engineering: Real-Time Scoring, Graphs &
+  MLOps'
 transcript:
 - line: This week, we will talk about data engineering and fraud detection. We have
     a very special guest today, Angela. Angela is a data engineer working at Sam's
@@ -1137,6 +1138,8 @@ transcript:
   sec: 3675
   time: '1:01:15'
   who: Alexey
+description: 'Learn retail fraud detection with real-time scoring and MLOps: build
+  data pipelines, graph investigations, and instant cashier decisions to cut losses.'
 ---
 
 Links:

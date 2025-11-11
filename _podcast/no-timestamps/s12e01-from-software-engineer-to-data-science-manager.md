@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=xyTfqIWeKf8
 season: 12
 short: From Software Engineer to Data Science Manager
-title: "Transitioning from Software Engineer to Data Science Manager: Search, ML & Leadership"
+title: 'Transitioning from Software Engineer to Data Science Manager: Search, ML &
+  Leadership'
 transcript:
 - line: This week, we'll talk about changing careers from software engineering to
     data science management. We have a special guest today, Sadat. Sadat and I are
@@ -1379,6 +1380,8 @@ transcript:
   sec: 3693
   time: '1:01:33'
   who: Sadat
+description: 'Learn to transition into a Data Science Manager: master search engineering,
+  machine learning and leadership to hire, scale teams and measure business impact.'
 ---
 
 Links:

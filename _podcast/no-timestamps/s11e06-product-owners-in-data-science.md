@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=rTRTjB6cGng
 season: 11
 short: Product Owners in Data Science
-title: "Data Product Leadership: Scaling Recommenders, Production ML Hiring & Price Markdown Modeling"
+title: 'Data Product Leadership: Scaling Recommenders, Production ML Hiring & Price
+  Markdown Modeling'
 transcript:
 - header: About Anna and METRO
 - line: This week, we'll talk about product owners in data science. We have a special
@@ -1055,6 +1056,9 @@ transcript:
   sec: 3649
   time: '1:00:49'
   who: Anna
+description: Discover scaling recommender systems, production ML hiring strategies
+  and price markdown modeling to cut waste, optimize discounts, and lead data product
+  teams.
 ---
 
 Links:

@@ -2,6 +2,7 @@
 episode: 9
 guests:
 - christopherbergh
+description: "Learn DataOps best practices for observability, CI/CD and deployment automation to reduce rework, boost model reliability and speed analytics delivery."
 ids:
   anchor: atatalksclub/episodes/DataOps--Observability--and-The-Cure-for-Data-Team-Blues---Christopher-Bergh-e2n775f
   youtube: HzGpIxV8HtA

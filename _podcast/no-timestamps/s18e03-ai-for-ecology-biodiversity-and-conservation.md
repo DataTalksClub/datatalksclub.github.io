@@ -13,7 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=30tTrozbAkg
 season: 18
 short: AI for Ecology, Biodiversity, and Conservation
-title: "Scaling Wildlife Conservation with AI: Computer Vision, Remote Sensing & Citizen Science"
+title: 'Scaling Wildlife Conservation with AI: Computer Vision, Remote Sensing & Citizen
+  Science'
+description: 'Discover AI-driven wildlife conservation: computer vision, remote sensing
+  & citizen science for scalable species ID, habitat maps, alerts and policy impact.'
 ---
 
 Links:

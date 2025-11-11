@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=EQcY83VA0Us
 season: 14
 short: Interpretable AI and ML
-title: "Actionable Churn Prediction: Explainable AI, Organizational Trust (ABI) & MLOps"
+title: 'Actionable Churn Prediction: Explainable AI, Organizational Trust (ABI) &
+  MLOps'
 transcript:
 - line: This week we'll talk about bringing together research and industry and how
     explainable and interpretable machine learning and AI fit into it. We have a special
@@ -1067,6 +1068,9 @@ transcript:
   sec: 3782
   time: '1:03:02'
   who: Polina
+description: Master churn prediction with explainable AI and MLOps—learn ABI trust,
+  interpretable feature design, and deploy actionable models to reduce subscription
+  loss.
 ---
 
 Links:

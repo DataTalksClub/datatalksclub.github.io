@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=CB1YIsxQRtc
 season: 14
 short: 'From Scratch to Success: Building an MLOps Team and ML Platform'
-title: "Designing MLOps Platforms: Deploy, Track Experiments, Manage Models & Compliance"
+title: 'Designing MLOps Platforms: Deploy, Track Experiments, Manage Models & Compliance'
 transcript:
 - line: This week we'll talk about MLOps and building machine learning platforms.
     We have a special guest today, Simon. Simon has been building ML platforms for
@@ -1129,6 +1129,8 @@ transcript:
   sec: 3596
   time: '59:56'
   who: Alexey
+description: Discover MLOps strategies to build an ML platform with experiment tracking,
+  improved reproducibility, faster releases and compliance-ready model operations.
 ---
 
 Links:

@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=WIpnyiHp4IE
 season: 13
 short: Building an Open-Source NLP Tool
-title: "Improve NLP Labeling with Weak Supervision: Refinery, Bricks & GPT Heuristics"
+title: 'Improve NLP Labeling with Weak Supervision: Refinery, Bricks & GPT Heuristics'
 transcript:
 - line: Today we will talk about open source and creating startups in open source
     and we have a special guest today, Johannes. Johannes is a data scientist and
@@ -1151,6 +1151,8 @@ transcript:
   sec: 3688
   time: '1:01:28'
   who: Johannes
+description: Discover weak supervision, NLP labeling & GPT heuristics to build high-quality
+  datasets faster — combine Refinery, Bricks, ensemble heuristics & active learning.
 ---
 
 Links:

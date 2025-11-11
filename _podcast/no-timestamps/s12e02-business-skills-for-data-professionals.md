@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=xMYRUiTu960
 season: 12
 short: Business Skills for Data Professionals
-title: "Practical Data Science for SaaS: Deployments, Marketing Automation, Metrics & Storytelling"
+title: 'Practical Data Science for SaaS: Deployments, Marketing Automation, Metrics
+  & Storytelling'
 transcript:
 - line: This week we'll talk about business skills for data professionals. We have
     a special guest today, Loris. Loris is the CEO and founder of Discovering Data,
@@ -1112,6 +1113,9 @@ transcript:
   sec: 3717
   time: '1:01:57'
   who: Loris
+description: 'Discover practical data science for SaaS: deploy ML, build marketing
+  automation, define metrics and reduce churn—stakeholder tactics, tooling, and storytelling
+  insights.'
 ---
 
 Links:

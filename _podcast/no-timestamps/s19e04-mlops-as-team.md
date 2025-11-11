@@ -2,6 +2,7 @@
 episode: 4
 guests:
 - raphaelhoogvliets
+description: "Master MLOps: CI/CD, reproducibility, and delivery strategies to accelerate ML delivery, boost reliability, improve team efficiency, and measure business impact."
 ids:
   anchor: atalksclub/episodes/MLOps-as-a-Team---Raphal-Hoogvliets-e2qnnu5/a-abkcdlr
   youtube: rMq63r3zi4c

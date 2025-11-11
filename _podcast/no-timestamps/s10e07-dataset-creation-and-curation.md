@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=QggWydGrWoo
 season: 10
 short: Dataset Creation and Curation
-title: "Practical Guide to Dataset Creation & Annotation for NLP: Active Learning, Weak Supervision, Tools"
+title: 'Practical Guide to Dataset Creation & Annotation for NLP: Active Learning,
+  Weak Supervision, Tools'
 transcript:
 - line: This week, we'll talk about dataset creation and annotation – creation, curation,
     and annotation. We have a special guest today, Chris. Chris has six years of experience
@@ -1042,6 +1043,8 @@ transcript:
   sec: 3902
   time: '1:05:02'
   who: Alexey
+description: 'Discover dataset creation, annotation & active learning: practical annotation
+  UX, quality metrics, prototyping tips and tooling to accelerate NLP models.'
 ---
 
 Links:

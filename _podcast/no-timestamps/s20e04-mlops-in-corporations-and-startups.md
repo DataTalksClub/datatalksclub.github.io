@@ -13,7 +13,8 @@ links:
   youtube: https://www.youtube.com/watch?v=DX9c__a4jzg
 season: 20
 short: MLOps in Corporations and Startups
-title: "Lean MLOps for Startups: SaaS-First MVP Stack, Avoid Vendor Lock-In & Manage Tech Debt"
+title: 'Lean MLOps for Startups: SaaS-First MVP Stack, Avoid Vendor Lock-In & Manage
+  Tech Debt'
 transcript:
 - header: 0:00 MLOps in corporations versus startups
 - line: This week, we’ll talk about MLOps in corporations versus startups. Our special
@@ -1218,6 +1219,8 @@ transcript:
   sec: 3726
   time: '1:02:06'
   who: Nemanja
+description: 'Learn Lean MLOps strategies for startups: build a SaaS-first MVP stack,
+  avoid vendor lock-in, and manage technical debt for faster, portable ML launches.'
 ---
 
 Links:

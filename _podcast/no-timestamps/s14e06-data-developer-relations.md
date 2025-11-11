@@ -13,7 +13,7 @@ links:
   youtube: https://www.youtube.com/watch?v=z7BvslwVRbQ
 season: 14
 short: Data Developer Relations
-title: "Master Full-Stack ML with Metaflow: DevRel, Open-Source Governance & AI Trends"
+title: 'Master Full-Stack ML with Metaflow: DevRel, Open-Source Governance & AI Trends'
 transcript:
 - line: This week, we'll talk about developer advocacy. We have a special guest today
     – very special – Hugo. Hugo is the Head of Developer Relations at Outerbounds.
@@ -1052,6 +1052,8 @@ transcript:
   sec: 3565
   time: '59:25'
   who: Alexey
+description: 'Master Metaflow, DevRel and full-stack ML: demo, AWS/Kubernetes integrations,
+  open-source governance and career tips to build reproducible ML pipelines.'
 ---
 
 Links:
