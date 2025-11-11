@@ -5,16 +5,21 @@ guests:
 short: Career Coaching
 title: 'Land Junior Data Jobs: CVs, Interviews, Transferable Skills & Overcome Imposter
   Syndrome'
-intro: In this episode, Transformational and Executive Coach Lindsay McQuade shares
-  practical insights on how professionals can navigate career transitions, overcome
-  imposter syndrome, and build confidence in competitive fields like tech and consulting.
-  Drawing from over 20 years of experience—including roles at Accenture, Cass Business
-  School, and SPICED Academy—Lindsay explains how to reframe your past experience,
-  identify transferable skills, and use frameworks like Ikigai to clarify career focus.
-  You’ll learn proven strategies for job searching, networking on LinkedIn, working
-  with recruiters, and developing structured learning paths to accelerate growth and
-  promotion. Whether you’re pivoting careers or aiming for your next role, this episode
-  offers actionable guidance to manage uncertainty and thrive in professional transitions.
+intro: Struggling to land a junior data job—how do you turn non‑linear experience
+  into a recruiter‑ready CV, prepare for interviews, and push past imposter syndrome?
+  In this episode Lindsay McQuade, a transformational coach with 20+ years across
+  management consulting, higher education and tech and former Senior Career & Development
+  Coach at SPICED Academy, guides listeners through practical steps for junior data
+  roles. Lindsay draws on her work designing programs for hundreds of learners (SPICED
+  training rated 94% “very good/excellent”) to explain CV writing for data roles,
+  achievement‑based resumes, interview prep and negotiation. Topics include reframing
+  past experience into evidence, identifying transferable skills for data analyst/scientist/engineer
+  roles, tailoring applications by industry, the ikigai framework for career focus,
+  and Berlin’s junior data market trends. We also cover impostor syndrome—its triggers,
+  objective feedback strategies, and structured learning and T‑shaped skills to build
+  confidence. Tune in for clear job search strategy (balanced volume and targeted
+  applications), how to choose a career coach, and practical LinkedIn networking tips
+  to convert applications into interviews.
 description: 'Master landing junior data jobs: craft achievement-based CVs, highlight
   transferable skills, ace interviews and beat imposter syndrome with coach tips.'
 topics:

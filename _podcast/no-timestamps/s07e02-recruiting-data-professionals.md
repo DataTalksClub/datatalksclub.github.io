@@ -1210,4 +1210,19 @@ transcript:
   who: Alicja
 description: 'Master hiring for data scientist & data analyst roles: craft job descriptions,
   build talent pipelines, screen CVs, negotiate salaries and land top hires.'
+intro: How do you consistently find and hire the right data scientists and analysts
+  in a competitive market? In this episode Alicja Notowska — a talent acquisition
+  specialist with 10+ years recruiting at Google, Zalando and now with embedded agency
+  WeAreKeen — breaks down practical recruiting tactics for hiring data scientists
+  and data analysts. <br><br> We cover the full interview funnel and end-to-end recruiting
+  responsibilities, crafting job specs that emphasise problems over perks, and using
+  inclusive language plus AI tools to attract diverse candidates. Alicja explains
+  sourcing channels (LinkedIn, GitHub, conferences, academia), building talent pipelines
+  and 360° recruitment, and keyword strategies for CV screening. You’ll hear guidance
+  on education signals (BSc/MSc/PhD), CV best practices (clear responsibilities, dates,
+  avoid buzzwords), recruiter screening interviews, and evaluating portfolio projects
+  and online course work. <br><br> The episode also tackles salary conversations —
+  bands, transparency and negotiation — managing hiring manager expectations, pathways
+  for career changers, and offer etiquette. Listen to gain actionable tactics for
+  job specs, CV screening, sourcing and salary negotiation when hiring data talent.
 ---

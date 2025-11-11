@@ -1071,6 +1071,22 @@ transcript:
 description: Master churn prediction with explainable AI and MLOps—learn ABI trust,
   interpretable feature design, and deploy actionable models to reduce subscription
   loss.
+intro: How do you turn churn prediction research into models that business teams trust
+  and can act on? In this episode Polina Mosolova — a data scientist at SAP who completed
+  an industrial PhD building end‑to‑end ML pipelines — walks through her applied framework
+  for churn prediction that integrates explainable AI with organizational trust theory.
+  <br><br> We cover Polina’s journey from full‑stack data scientist to MLOps specialization,
+  the practical tensions of producing research and production deliverables, and supervision
+  and stakeholder dynamics for industrial PhDs. The conversation centers on the ABI
+  framework (Ability, Benevolence, Integrity) and how trust proxies and KPIs make
+  churn models business‑relevant. Technical topics include interpretability versus
+  explainability versus actionable ML, model choices (glass‑box models, GAMs, Neural
+  Additive Models), explainability tools (random forest + SHAP), computer vision activation
+  maps, and the limits of LLM explainability and hallucinations compared to tabular
+  models. <br><br> Listen to learn concrete guidance for deploying explainable churn
+  models, translating explanations into interventions, and operationalizing trust
+  through MLOps and practical metrics — essential for data scientists building production
+  churn prediction systems.
 ---
 
 Links:

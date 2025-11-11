@@ -954,6 +954,22 @@ transcript:
   who: Barbara
 description: Learn hiring strategies for Data Science Manager vs Data Science Expert—when
   to hire experts, build teams, assess ML needs, and boost business impact.
+intro: 'When should you hire a data science manager versus a deep technical expert,
+  and how do you decide whether machine learning is actually the right solution? In
+  this episode Barbara Sobkowiak — data scientist by training, GIS specialist by education,
+  and manager by passion — walks through her career from GIS → SQL → BI to leading
+  teams, and tackles hiring strategy, role design, and practical ML use cases like
+  mental health monitoring and demand forecasting. <br><br> We cover common pitfalls
+  (misleading job ads, HR/IT job descriptions that miss managerial needs), the manager
+  skill balance between technical literacy and soft skills, and what “hands-on” really
+  means for managers: high‑level understanding, code review, and time allocation.
+  Learn when to hire a data science expert for complex models or domain knowledge,
+  and when a manager-plus-generalist approach or a startup “unicorn” makes sense.
+  Barbara also discusses team building (learning plans, pairing), project prioritization,
+  model monitoring, feasibility checks (data quality and baselines), and measuring
+  impact with KPIs and client discovery. <br><br> Listen to gain practical hiring
+  criteria, role profiles, and decision frameworks for when to use machine learning
+  and how to build teams that deliver.'
 ---
 
 Links:

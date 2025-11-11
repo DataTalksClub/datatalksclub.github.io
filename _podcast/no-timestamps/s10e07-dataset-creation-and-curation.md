@@ -1045,6 +1045,23 @@ transcript:
   who: Alexey
 description: 'Discover dataset creation, annotation & active learning: practical annotation
   UX, quality metrics, prototyping tips and tooling to accelerate NLP models.'
+intro: How do you create high‑quality NLP datasets without breaking the budget? In
+  this episode Christiaan Swart — an NLP practitioner with six years’ experience across
+  email, complaints, pharma, and sales who cofounded Comtura (born from sales call
+  transcription and CRM integration) — walks through practical methods for dataset
+  creation and annotation. <br><br> We cover automated, manual, and hybrid pipelines;
+  stakeholder alignment to de‑risk projects; in‑house vs. crowdsourcing trade‑offs;
+  and building a living annotation guidebook for ambiguous cases. Chris explains model‑assisted
+  annotation (pre‑labeling and interpretability layers), capturing expert knowledge,
+  establishing human baselines, and improving annotation UX and productivity. You’ll
+  also hear about annotation quality metrics (inter‑annotator agreement, throughput,
+  fatigue), active learning expectations, distant/weak supervision (Snorkel and labeling
+  functions), programmatic heuristics, and tooling recommendations like Prodigy, Docanno,
+  Label Studio, Snorkel, and Rubrics. Quick‑start tips using IPython widgets and Fast.ai,
+  plus privacy and multilingual considerations (GDPR, anonymization), round out the
+  conversation. <br><br> Listen to learn actionable strategies for cost‑effective
+  dataset creation, annotation workflows, and tool choices that speed model development
+  and produce reliable training data.
 ---
 
 Links:

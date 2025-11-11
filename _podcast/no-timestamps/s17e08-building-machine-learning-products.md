@@ -1029,6 +1029,22 @@ transcript:
   who: Daniel
 description: Master vector search, embeddings & hybrid search—learn indexing, multimodal
   fusion, vector DB trade-offs & ops to boost relevance, latency & personalization
+intro: 'How do you build vector search and hybrid retrieval that actually works in
+  production—balancing embeddings, indexing, multimodal fusion, latency, and business
+  constraints? In this episode Reem Mahmoud, Director of Data Science at intervu.ai,
+  breaks down practical approaches to vector search, hybrid retrieval, and embedding
+  pipelines for real-world systems. <br><br> Reem guides listeners through fundamentals—text
+  search and inverted indexes (Lucene), candidate generation and ML ranking—then dives
+  into vector search: embedding generation, compute vs. storage trade-offs, and when
+  to use LLMs versus specialized encoders. You’ll hear concrete advice on multimodal
+  embeddings (text, images, CLIP), hybrid search that combines vector similarity with
+  filters and recency, and techniques for feature fusion, time encoding, and query-time
+  weighting. The conversation also covers vector DB selection, operationalization
+  best practices, search metrics and A/B testing, and prototyping e-commerce personalization
+  with embeddings. <br><br> If you’re building or evaluating search/retrieval systems,
+  this episode offers actionable guidance on embeddings, indexing strategies, multimodal
+  fusion, and how to translate business rules into performant hybrid retrieval—so
+  you can iterate faster and measure impact.'
 ---
 
 Links:

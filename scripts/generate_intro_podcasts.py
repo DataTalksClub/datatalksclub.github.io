@@ -33,11 +33,11 @@ TASK: Generate an SEO-optimized intro summary based on episode timestamps, guest
 REQUIREMENTS:
 - Length: 150-200 words
 - Prioritize the topic highlighted in the episode title when generating the intro
+- Use proper English, correct grammar and punctuation
 - Should include opening hook with a main challenge/question the episode explores, guest's background, introduce the key topics, and provide a value proposition for the listener
 - No marketer talk and hype, just focus on the content of the episode and the value it provides to the 
 - Do not invent things that are not in the timestamps or the episode title
 - Naturally integrate SEO keywords if they are related to the episode
-- Correct grammar and punctuation
 
 EPISODE TITLE:
 {episode_title}

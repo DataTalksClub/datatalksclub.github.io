@@ -896,6 +896,22 @@ transcript:
   who: Michael
 description: Discover multi-agent AI, evolutionary algorithms and LLM tooling—learn
   agent workflows, prompt engineering, game AI examples, code patterns & career tips.
+intro: How do you design practical multi-agent AI assistants that scale from game
+  AI experiments to real-world LLM tooling? In this episode Micheal Lanham — best‑selling
+  author and AI engineer with two decades of work across games, graphics, GIS and
+  machine learning — traces the path from game AI and reinforcement learning to evolutionary
+  algorithms and modern agent architectures. We explore his research on games for
+  cognitive testing, evolutionary deep learning for hyperparameter and architecture
+  search, and how those methods inform prompt engineering and multi-agent workflows.
+  <br><br> Key topics include minimalist agent workflow design and task decomposition,
+  flow versus orchestration, parallel collaboration patterns, agent tooling such as
+  the OpenAI Agent SDK and MCP integration, sequential “thinking” servers and scratchpads,
+  plus practical code examples from game development and GPT-5 Pro case studies. The
+  conversation also covers generative AI in games, local and open‑source LLM trends,
+  model specialization, and evaluation/monitoring pipelines. Whether you’re building
+  AI assistants, experimenting with evolutionary algorithms, or integrating LLM tooling
+  into products, this episode offers concrete techniques, tooling insights, and career
+  guidance for AI engineers.
 ---
 
 Links:

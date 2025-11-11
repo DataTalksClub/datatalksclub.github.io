@@ -1080,6 +1080,24 @@ transcript:
   who: Tereza
 description: Learn data leadership, feedback skills and influencing without authority
   to transition to manager, increase impact and lead cross-functional teams.
+intro: How do you move from an individual contributor to an effective data leader
+  while coaching teams, giving constructive feedback, and influencing without formal
+  authority? In this episode Tereza Iofciu—an experienced data practitioner who has
+  worked as a data scientist, data engineer, product manager, leads a coaching team,
+  and teaches data science at neuefische—walks through the practical challenges of
+  that transition. She shares her career journey from a computer science PhD to data
+  lead and coach, early coaching experiments, and why managers need teammates who
+  can solve problems independently. <br><br> Key topics include transition-to-manager
+  tactics, building feedback skills and psychological safety, designing sustainable
+  team span-of-control (the “pizza” metaphor), making foundational data work visible
+  with product-minded KPIs, and influencing without authority through stakeholder
+  framing, active listening, and empathy. Tereza also covers coaching delivery formats—one-shot
+  sessions, CV reviews, and community initiatives like PyLadies and conference newcomer
+  talks—and how to blend coaching, mentoring, and practical advice. <br><br> If you’re
+  stepping into a lead role or coaching data teams, listen for actionable frameworks,
+  feedback routines, and inclusive leadership practices to increase impact, visibility,
+  and promotion readiness. Closing notes include how to reach Tereza and schedule
+  time via Calendly.
 ---
 
 Links:

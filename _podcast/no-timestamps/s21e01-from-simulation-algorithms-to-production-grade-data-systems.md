@@ -771,6 +771,22 @@ transcript:
   who: Alexey
 description: 'Learn synthetic medical imaging & data engineering: build MVPs, integrate
   simulation-HPC, optimize ETL, and shift to freelance with client-acquisition tactics.'
+intro: 'How do you turn simulation research into usable synthetic medical imaging
+  data for AI, build a minimal viable data pipeline, and pivot into freelance consulting?
+  In this episode Orell Garten — an electrical engineer trained in simulation algorithms
+  who left a PhD during COVID and explored productization through a government-funded
+  startup program — walks through that journey. We cover his simulation work in RF
+  and wave propagation, the startup pivot to synthetic medical imaging data for AI,
+  and the go-to-market lesson of problem-first versus technology-first. <br><br> Listen
+  for practical data engineering guidance: minimal viable data work, simulation–HPC
+  integration, secure data management, and an MVP workflow built on manual extraction,
+  CSVs, and local analysis. Orell also discusses scientific-method product discovery,
+  preventing overengineering with weekly feedback, and tool choices (Python, C++,
+  DBT, Docker, DuckDB). He explains launching a freelance practice via LinkedIn, prototype
+  delivery for IoT data engineering, client acquisition, and managing runway and cashflow.
+  If you’re building synthetic data pipelines, medical imaging datasets, or transitioning
+  to freelance data engineering, this episode delivers concrete tactics, risks to
+  plan for, and hands-on techniques you can apply immediately.'
 ---
 
 Links:

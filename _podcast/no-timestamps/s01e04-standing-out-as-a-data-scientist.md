@@ -1067,4 +1067,18 @@ transcript:
   who: Alexey
 description: Master data scientist resume, portfolio & interview tactics to get interviews,
   prove business impact and negotiate higher salary with recruiter tips.
+intro: 'How do you get hired — or hire — for a data scientist role when expectations,
+  titles, and hiring processes differ so widely? In this episode Luke Whipps, co‑founder
+  of Neural.AI and host of the AI Game Changer podcast, draws on 8+ years recruiting
+  data, analytics and AI talent to answer that question. We walk through a six‑stage
+  recruitment workflow from role definition to offer, and tackle practical hiring
+  and job‑seeking topics: writing a data scientist resume and CV (format, length,
+  audience fit), building a portfolio that links tech stack to concrete projects,
+  and shaping a career narrative that demonstrates real business impact. Luke breaks
+  down shortlist and interview preparation, candidate funnel strategies, junior hiring
+  tips, targeted outreach (email, LinkedIn) and focus strategies for approaching fewer
+  companies. He also covers salary signals and negotiation, transitioning from academia
+  or web development, job‑hopping concerns, and how to align job titles without misrepresenting
+  experience. Listen to gain actionable interview preparation, portfolio and salary
+  negotiation strategies for data science hiring and career progression.'
 ---

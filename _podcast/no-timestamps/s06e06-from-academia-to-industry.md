@@ -1216,6 +1216,21 @@ transcript:
   who: Alexey
 description: 'Learn a one-year roadmap from postdoc to data science lead: machine
   learning foundations, Docker deployment, resume and hiring tips to land jobs.'
+intro: 'How do you go from a postdoc to a data science lead while mastering machine
+  learning foundations and deployment? In this episode CJ Jenkins — a PhD-turned-data
+  science lead working on credit risk modeling, with published research and a textbook
+  used in academia — walks through that transition. We trace CJ’s roots in evolutionary
+  biology and genomics, the statistical ML foundations (GLMs, population dynamics),
+  and practical tools like Bash, R, Python, and SQL. Key topics include Docker deployment
+  and bridging the gap between research and production, hiring signals and interview
+  assessment techniques that prioritize learning agility and humility, and concrete
+  career tactics: a one-year Coursera sprint (Johns Hopkins, Andrew Ng), resume rewrites
+  (14 CV iterations), LinkedIn keyword strategy, and selective application versus
+  volume. CJ also discusses location and networking strategies (Berlin, Stockholm,
+  Klarna onboarding), technical expectations for juniors, code quality, and building
+  psychological safety on teams. Listen to learn actionable steps for skills-first
+  resumes, interview preparation, deployment basics, and how to translate academic
+  output into industry impact. Find CJ on LinkedIn for follow-up questions.'
 ---
 
 Links:

@@ -951,6 +951,21 @@ transcript:
 description: 'Discover Industrial AI tactics, MLOps & sensorization to scale projects:
   hub-and-spoke data teams, proving value, tooling and career steps to productionize
   ML.'
+intro: How do you move industrial AI from pilots to production at scale while keeping
+  MLOps, sensorization, and organizational design aligned? In this episode Andrey
+  Shtylenko, Director of Engineering at Honeywell and head of the Advanced Technology
+  Group, walks through practical approaches to scaling industrial AI across healthcare,
+  industrial, and logistics verticals. Drawing on Honeywell use cases in smart sensors,
+  computer vision, and robotics, Andrey outlines the core challenges of AI adoption
+  in traditional industrial companies and the technical levers—sensorization, cloud
+  processing, and model productionization—that enable advanced models. <br><br> We
+  cover a data practice maturity model (crawl → walk → run), a focused POC strategy
+  using a single end‑to‑end project to prove value, and how to standardize MLOps through
+  centralized tooling and shared services like experiment tracking, annotation, and
+  procurement. Andrey also discusses organizational tradeoffs—centralized, embedded,
+  and hybrid hub‑and‑spoke data teams—and the reporting-line impacts on velocity and
+  trust. Listeners will get concrete guidance on building data teams, deploying MLOps,
+  and transitioning research into production-ready machine learning systems.
 ---
 
 Links:

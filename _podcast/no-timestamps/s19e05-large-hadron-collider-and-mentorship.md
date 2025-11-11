@@ -884,6 +884,23 @@ transcript:
 description: Discover research software engineering, data science, and mentorship
   strategies from a collider physicist - interview prep, CI/CD practices, and career-shift
   tips.
+intro: 'How do you pivot from collider physics to industry data science while mastering
+  research software engineering, interview prep, and mentorship? In this episode Anastasia
+  Karavdina — a particle physicist turned data scientist with experience at Large
+  Hadron Collider experiments, Blue Yonder, and Kaufland e‑commerce — walks through
+  that transition and the concrete skills that made it possible. <br><br> We unpack
+  collider physics basics (particle acceleration, detector imaging, event volumes,
+  statistical analysis), roles in large research collaborations, and how hardware
+  development and data analysis intersect. Anastasia explains how research software
+  engineering practices — version control, CI/CD, and reproducible workflows — translate
+  into enterprise machine learning and supply chain AI. She also covers interview
+  challenges (position fit, evolving hiring expectations, behavioral interviews and
+  cultural fit in Germany), how to prepare leadership stories, and practical tactics
+  for moving into ML engineer and data science roles. Finally, she discusses mentoring:
+  motivation, boundaries, paid vs free options, and platforms like MentorCruise. <br><br>
+  Listen to gain actionable guidance on translating high‑energy physics expertise
+  into data science, improving technical interview performance, and building effective
+  mentorship relationships.'
 ---
 
 Links:

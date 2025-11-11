@@ -1140,6 +1140,21 @@ transcript:
   who: Alexey
 description: Discover MEERKAT radio-emitting stars using ML & cloud pipelines — learn
   Astropy tools, catalog cross-matching, and production deployment at scale.
+intro: 'How do you find rare radio-emitting stars in massive MEERKAT datasets—and
+  turn that search into reliable machine learning and cloud data pipelines? In this
+  episode Daniel Egbo, an astrophysicist turned ML engineer and PhD candidate at the
+  University of Cape Town, walks through the practical intersection of astronomy,
+  ML, and cloud engineering. We cover MEERKAT and SKA context, the electromagnetic
+  spectrum, and the core research goal: detecting point sources in radio images and
+  confirming them via multi-wavelength cross-matching and physics-based verification.
+  Daniel explains positional uncertainty, foreground/background confusion, and why
+  curated datasets are essential for future ML. He also shares tooling and infrastructure
+  practices—Astropy, NumPy/SciPy, JupyterHub, cloud compute, orchestration with Airflow/Kestra,
+  MinIO and Spark—and outlines an end-to-end pipeline pattern (MySQL → MinIO → Spark
+  → warehouse). Listeners will come away with concrete methods for building reproducible
+  astronomical data workflows, practical machine learning readiness steps, and resources
+  for learning and deployment (edge testing, LLMs, and community courses) to apply
+  to radio telescope and astronomical data projects.'
 ---
 
 Links:

@@ -1032,6 +1032,22 @@ transcript:
   who: Maria
 description: Discover how to build a digital clinic with AI skin health and telemedicine—learn
   go-to-market, data strategy, monetization, and hiring wins.
+intro: How do you build and scale a digital clinic that blends AI-driven skin health,
+  telemedicine, and an AR MVP? In this episode Maria-Liisa Bruckert, Co‑Founder and
+  Co‑CEO of SQIN and recipient of the Google Female Founder Immersion 2020 and Google
+  Play Best of 2020, walks through the practical steps she took to turn an engineering
+  mindset into a digital health business. <br><br> We cover industry immersion and
+  MVP development, why healthcare digitization matters, and real operational challenges
+  like data gaps, rural access, and legacy workflows. Maria explains the AR lipstick
+  try-on as a data collection and engagement tactic, how to surface skin health signals
+  from everyday interactions, and aligning AI capabilities with clear business cases.
+  You’ll also hear about building a digital clinic flow from diagnosis to prescription,
+  telemedicine’s role in remote follow-up and efficiency, ethics and inclusive UX,
+  regional go-to-market tactics, data strategy for bootstrapping datasets, and early
+  hiring, fundraising, and monetization approaches. <br><br> Listeners interested
+  in digital clinic design, AI skin health, telemedicine implementation, or launching
+  an AR MVP will find actionable tactics and lessons to apply to product-market fit,
+  data strategy, and go-to-market execution.
 ---
 
 Links:

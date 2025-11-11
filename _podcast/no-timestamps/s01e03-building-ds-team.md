@@ -14,15 +14,22 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Building-a-Data-Science-Team---Dat-Tran-enlmef
   spotify: https://open.spotify.com/episode/0daFpY1z2J4Uop1XdMNsnY
   apple: https://podcasts.apple.com/us/podcast/building-a-data-science-team-dat-tran/id1541710331?i=1000502061864
-intro: In this episode, Dat Tran, Partner and CTO at DATANOMIQ, shares his journey
-  from economics and gaming to leading AI and data science teams at companies like
-  idealo and Axel Springer. He discusses how to scale AI from prototype to production,
-  build strong product cultures, and balance generalists vs. specialists when hiring.
-  Drawing on his experience founding Priceloop, Dat dives into MLOps in production,
-  open-source collaboration, explainable AI, and how to retain top talent in competitive
-  markets. Packed with lessons on leadership, data strategy, and sustainable AI systems,
-  this episode is a must-listen for data professionals aiming to build real impact
-  with machine learning.
+intro: How do you build an MLOps‑ready data team while shipping a transparent, white‑box
+  dynamic pricing product for a startup? In this episode Dat Tran—Partner & CTO at
+  DATANOMIQ, former Head of Data at idealo, and co‑founder of Priceloop—walks through
+  the practical tradeoffs of moving from prototypes to production ML. <br><br> Dat
+  traces his path from economics and early coding to production ML at Accenture, Axel
+  Springer and idealo, and explains the “day‑two” operations mindset required for
+  model maintenance and MLOps. We cover building a Head of Data role, hiring strategies
+  for early‑stage startups (T‑shaped generalists first, specialists later), and how
+  to align hiring with product uncertainty. Dat also outlines Priceloop’s white‑box
+  AI approach to dynamic pricing—human‑centric systems that augment pricing managers
+  rather than replace them—and the role of open research and open‑source in competitive
+  advantage. <br><br> Tune in for concrete guidance on team composition (ML engineers,
+  data engineers, PMs), take‑home assessments, project prioritization, retention,
+  and educating leadership on realistic AI capabilities. Listeners will leave with
+  actionable steps to create production‑grade MLOps teams and build transparent dynamic
+  pricing solutions.
 transcript:
 - header: Intro
 - line: Today we have pleasure to have Dat as a guest. Dat needs no introduction.

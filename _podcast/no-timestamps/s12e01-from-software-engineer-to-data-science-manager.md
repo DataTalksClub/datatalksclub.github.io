@@ -1382,6 +1382,22 @@ transcript:
   who: Sadat
 description: 'Learn to transition into a Data Science Manager: master search engineering,
   machine learning and leadership to hire, scale teams and measure business impact.'
+intro: How do you move from hands-on software engineering into leading data science
+  teams while staying effective on search and machine learning projects? In this episode
+  Sadat Anwar — a people‑centric Data Science Manager and former software engineer
+  fluent in Java, Scala and Python — maps his path from an electronics and informatics
+  background to research in computer vision at Fraunhofer and production search work
+  at OLX. <br><br> We cover practical search engineering topics (Solr autoscaling,
+  decoupling search from a monolith, Kotlin services with Python ML satellites), early
+  ML projects and experimentation strategies (master’s thesis on neural nets, 20%
+  time wins, “act before you think”), and engineering safety nets like feature flags,
+  backups and monitoring. Sadat also walks through the promotion/hiring process, documenting
+  leadership evidence, people management challenges (conflict resolution, hiring,
+  motivation loss when stepping away from code), and transitioning into data science
+  management with NLP, trust & safety and fraud detection responsibilities. <br><br>
+  Listen for concrete advice on measuring managerial impact, leveraging EM experience
+  to lead data science teams, and tactical steps for engineers aiming to become data
+  science managers in search and ML domains.
 ---
 
 Links:

@@ -21,6 +21,23 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/The-Importance-of-Writing-in-a-Tech-Career---Eugene-Yan-ep17du
   spotify: TODO
   apple: TODO
+intro: How do you publish developer-focused posts weekly without sacrificing depth
+  or your day job? In this episode Eugene Yan — an Applied Scientist at Amazon who
+  builds pragmatic ML systems and previously led data science teams at Lazada and
+  uCare.ai — walks through a practical, outline-first approach to sustainable developer
+  blogging and building a technical portfolio. <br><br> We cover Eugene’s career pivot
+  into public writing, motivations for sharing knowledge, and how to target readers,
+  peers, and future teammates. Listen for his 7-day weekly writing cadence, time-budgeting
+  advice (including tips to avoid over-editing), and the outline-first method for
+  filtering ideas and rewriting from memory. He also breaks down idea sourcing, title
+  and length decisions, getting started tactics, and recommended blogging tools (Medium,
+  Substack, WordPress, Jekyll/GitHub Pages). You’ll hear routines for morning reps
+  and weekend deep work, distribution strategies via Twitter and LinkedIn, and how
+  to translate work artifacts into press-release-style docs, decision logs, and clearer
+  technical documentation. Plus, actionable portfolio best practices—clear README,
+  quick-start guide, and repo tours—to make your code and writing discoverable. <br><br>
+  Tune in to learn a repeatable workflow for weekly developer blogging, technical
+  writing, and portfolio building that scales with your career.
 ---
 
 Today we're discussing technical writing, logging, documentation, and more. Our special guest is [Eugene Yan](/people/eugeneyan). Eugene works at the intersection of machine learning and product, building pragmatic ML systems while writing and speaking about effective data science, ML in production, and career growth.

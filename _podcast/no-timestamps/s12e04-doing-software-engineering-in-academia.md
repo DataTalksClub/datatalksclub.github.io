@@ -1144,6 +1144,22 @@ transcript:
   who: Alexey
 description: 'Master reproducible research for neuroimaging: packaging, MLflow & data
   sharing to publish reproducible manuscripts, boost citations and career visibility.'
+intro: 'How do you teach reproducible research and practical research software engineering
+  (RSE) skills to neuroimaging students and researchers? In this episode Johanna Bayer
+  — a psychologist-turned-computational neuroscientist completing a PhD in machine
+  learning for clinical neuroimaging at the University of Melbourne and an open science
+  advocate — walks through concrete approaches for teaching reproducible research.
+  We cover course design (Carpentries-style curricula, Git introductions, and reproducible
+  manuscripts with embedded code), guided onboarding to open source (small repos,
+  pull requests, cookiecutter templates), and core coding practices to teach: packaging,
+  environments, formatting, testing, branching and versioning. Johanna also discusses
+  experiment tracking with MLflow, treating software as a research output (DOIs and
+  toolboxes), data sharing realities and sensitive-data practices, and strategies
+  for culture change in labs via hackathons and grassroots efforts. Listeners will
+  gain practical teaching tactics, tooling recommendations, and considerations for
+  infrastructure and academic-industry tensions — plus pointers to resources like
+  The Turing Way, The Carpentries, and the ML Solutions Handbook to help implement
+  reproducible research and RSE practices in neuroimaging projects.'
 ---
 
 Links:

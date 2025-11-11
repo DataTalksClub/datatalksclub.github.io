@@ -2,13 +2,21 @@
 episode: 9
 guests:
 - juanpablo
-intro: In this episode, Juan Pablo Murillo—now an AI Security Engineer at Google—looks
-  back on his inspiring journey from teaching calculus to launching a data career
-  that led to Amazon. He shares how he transitioned from education to tech through
-  biostatistics, R programming, and bootcamps, while balancing work and study. Juan
-  reveals practical job-hunting strategies—from networking at meetups and online conferences
-  to building a simple portfolio and optimizing LinkedIn visibility—and offers actionable
-  advice for teachers, career changers, and anyone entering data analytics today.
+intro: 'How do you actually break into data analytics — and what combination of networking,
+  portfolio work, SQL skills, and interview prep gets you hired? In this episode Juan
+  Pablo Murillo, an AI and data professional now at Google with prior roles as an
+  Amazon Business Intelligence Engineer and data scientist at T‑Mobile, walks through
+  a practical path from math grad to analytics roles. <br><br> We cover the full playbook:
+  where SQL fits in the skills roadmap, building a data analytics portfolio (rpubs,
+  EDA, visualizations, basic ML), portfolio hosting and repo hygiene, and how to present
+  projects for hiring managers. Juan addresses bootcamp trade‑offs, networking wins
+  from meetups, LinkedIn tactics for visibility, cold outreach and DIY internships,
+  finding contract or pro bono work, and resume/STAR interview prep. He also discusses
+  role realities for BI and analytics engineering and employer branding to build credibility.
+  <br><br> Listen for actionable steps and specific tactics—how to structure three
+  portfolio projects, message templates for outreach, and interview preparation tips—to
+  help you break into data analytics, improve SQL interview readiness, and turn public
+  work into job opportunities.'
 topics:
 - career switch
 - data analytics

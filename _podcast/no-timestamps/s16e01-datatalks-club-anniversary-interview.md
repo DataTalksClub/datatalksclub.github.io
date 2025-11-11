@@ -3,6 +3,7 @@ episode: 1
 guests:
 - alexeygrigorev
 - johannabayer
+intro: "How do you build and sustain a data community that helps people switch into machine learning careers while adapting to rapid AI change? In this anniversary episode of DataTalks.Club, contributors who transitioned from roles like Java development into machine learning and Python—and who now work full‑time on community and engineering efforts—reflect on that exact challenge. They cover practical topics including sustainability and monetization strategies, the roles of community and marketing leads, and decisions around building courses (LLM/AI content versus volatile material). <br><br> You’ll hear a detailed discussion of GPTs and LLMs and their effects on data workflows, hiring and take‑home tests; community programs like Project of the Week, competitions, and portfolio building; moderation and safety practices; and the evolution from a Slack community to instructor‑led Zoomcamps and a Machine Learning Bookcamp. The episode also examines outcomes—career switches, internships, and student success—plus metrics that matter (newsletter performance, active users, sponsors). Listen to learn concrete ideas for running a community‑driven learning program, designing resilient courses in an AI era, and measuring long‑term impact."
 ids:
   anchor: atatalksclub/episodes/DataTalks-Club-Anniversary-Interview---Alexey-Grigorev--Johanna-Bayer-e2a5cqo
   youtube: nCqwZT9zA0M

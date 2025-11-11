@@ -1109,6 +1109,21 @@ transcript:
   who: Sonal
 description: Discover ML-powered identity resolution to remove duplicate records,
   Snowflake-native, open-source deduplication for scalable fraud detection and integrations.
+intro: 'How do you eliminate duplicate records across modern data stacks without breaking
+  pipelines or overfitting rules? In this episode Sonal Goyal, founder of Zingg and
+  a 24‑year veteran in data consulting, walks through ML‑powered identity resolution
+  and entity resolution approaches to create a single source of truth for customers,
+  suppliers, products and patients. <br><br> We cover core distinctions—entity vs
+  identity resolution, duplicate detection vs deduplication—and practical architecture:
+  ML training, blocking and indexing for scale, Spark distribution, Snowflake‑native
+  deployment and a Python API. Sonal explains integrations (CLI, Python SDK, Databricks,
+  dbt), graph + ML workflows, data mapping needs, and real-world impact examples from
+  public‑data donors, e‑commerce and classifieds. She also discusses open source strategy
+  and licensing (AGPL), trade‑offs between deterministic rules and probabilistic ML,
+  and fraud/AML use cases. <br><br> If you’re wrestling with record linkage, entity
+  matching, or persistent duplicate records in a centralized data stack, this episode
+  offers concrete implementation patterns, scaling considerations, and open‑source
+  tradeoffs to help you choose the right identity resolution path.'
 ---
 
 Links:

@@ -1020,6 +1020,21 @@ transcript:
   who: Alexander
 description: Discover data-first Enterprise AI strategies and MLOps best practices—learn
   realistic experiments, CI/CD, governance, and align ML to business impact.
+intro: 'How do you move from proof-of-concept to scaled enterprise AI without over-investing
+  in hype? In this episode Alexander Hendorf — head of data and AI at KÖNIGSWEG, PyData
+  chair and Python Software Foundation/EuroPython fellow — walks through pragmatic,
+  data-first strategies for scaling AI across organizations. <br><br> We cover how
+  to align AI initiatives with company goals, run realistic experiments (and why transparent
+  evaluation matters), and set expectations about AI’s limits (the “Beethoven” example).
+  Alexander breaks down a data-first architecture — data lake, BI vs. ML vs. deep
+  learning splits — and explains productionization needs like retraining, feedback
+  loops, and MLOps automation. He shares MLOps best practices: standardization, CI/CD,
+  governance, reproducibility, and warnings about vendor lock-in and consultancy pitfalls.
+  You’ll also hear advice on prioritization over perfection, timing innovation, and
+  choosing platforms that fit long-term team maturity. <br><br> Listen for actionable
+  guidance on experiment design, model evaluation, and building repeatable pipelines
+  so you can scale enterprise AI responsibly and sustainably. Ideal for data leaders,
+  ML engineers, and product owners implementing production ML and MLOps.'
 ---
 
 Links:

@@ -1077,6 +1077,23 @@ transcript:
   who: Mehdi
 description: 'Master scaling data engineering teams: build self-service data platforms,
   hire senior engineers, deploy Kafka best practices to boost velocity, onboarding.'
+intro: 'How do you scale data engineering teams during hypergrowth without sacrificing
+  quality or developer velocity? In this episode Mehdi OUAZZA — a data engineer and
+  entrepreneur with 7+ years working on streaming and batch pipelines, data modeling,
+  orchestration, infrastructure and analytics — walks through practical approaches
+  to scale data engineering teams, build self‑service data platforms, hire senior
+  engineers and adopt Kafka-based event streaming. <br><br> We cover what “scale‑up”
+  looks like in practice (rapid hiring, product launches, US expansion), the data
+  platform’s role in enabling self‑service onboarding and scalability, and a platform
+  anatomy that includes Airflow, conventions, playbooks and best practices. Mehdi
+  also digs into event streaming: Kafka, schema registries and data contracts, plus
+  hiring-for-scale tactics — prioritizing senior experts and niche tech experience
+  — and assessment strategies like reverse interviews. You’ll hear about balancing
+  platform engineering and use‑case pipelines, cultivating culture shifts, creating
+  junior learning paths, and growing toward senior roles through proactivity and cross‑team
+  impact. <br><br> Listen for concrete guidance on building a self‑service data platform,
+  practical Kafka practices, and hiring strategies that help teams move fast while
+  staying reliable.'
 ---
 
 Links:

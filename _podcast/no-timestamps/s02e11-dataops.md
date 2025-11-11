@@ -910,6 +910,22 @@ transcript:
   who: Lars
 description: Discover DataOps and immutable pipelines, learn data lake vs data warehouse
   tradeoffs, scale data teams, boost reproducibility and self-service analytics.
+intro: How do you scale data teams and platforms without losing reproducibility, governance,
+  or the ability to self‑serve? In this episode Lars Albertsson — founder of Scling
+  and former data engineer at Google, Spotify and Schibsted — walks through practical
+  architecture and organizational patterns for scaling data work. <br><br> We cover
+  building self‑service at Spotify, orchestration with Luigi, and a clear definition
+  of DataOps focused on enablement, workflows and people alignment. Lars explains
+  immutable, functional pipeline principles versus mutable ETL and why reproducibility
+  and versioning matter. You’ll hear a concise comparison of data lake vs data warehouse
+  (raw data, aggregates and use cases), plus core platform components — storage, compute
+  and workflow engines — and compute choices like Spark, Flink, containers and managed
+  services. The conversation also addresses batch vs streaming tradeoffs, micro‑batching,
+  data mesh decentralization risks, MLOps overlaps, database versioning strategies
+  (dumps and CDC), and lakehouse layering. <br><br> Listen to gain concrete guidance
+  on platform trade‑offs, how to enable self‑service analytics, when to centralize
+  or decentralize, and further reading from the Scling list to deepen your DataOps
+  and pipeline design knowledge.
 ---
 
 We talked about:

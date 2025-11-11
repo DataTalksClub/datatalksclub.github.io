@@ -1085,6 +1085,22 @@ transcript:
   who: Alexey
 description: 'Master MLOps meetups: launch communities, recruit contributors, and
   boost member retention with LinkedIn outreach, content strategy, and practical checklists.'
+intro: 'How do you launch, grow, and retain an MLOps community that moves from meetups
+  to a sustainable, contributor-led ecosystem? In this episode Demetrios Brinkmann
+  — who has led the MLOps community since April 2020 and now runs the largest active
+  group with 2,500+ Slack members and 25k YouTube views — walks through a practical
+  community playbook for MLOps meetups, members, and contributors. <br><br> We trace
+  his origin story and pivot to meetups and podcasting, then dive into concrete tactics:
+  recruiting speakers with sales techniques, LinkedIn outreach and cold DMs, weekly
+  meetup and content strategies, editing and YouTube clips, and milestone growth from
+  500 to 3k members. Demetrios also addresses moderation challenges, evolving from
+  founder-led to peer-to-peer governance, cultivating core contributors and advisory
+  groups, and building belonging through Q&A, social channels, and non-technical spaces.
+  <br><br> Listeners will get actionable retention strategies (giveaways, multi-format
+  content, avoiding gamification), practical checklists for platform, purpose, audience,
+  and content, and tips for member connections like Random Coffee and sprints. If
+  you’re building an MLOps community or scaling technical meetups, this episode offers
+  a focused, tactical roadmap. Find next steps at mlops.community.'
 ---
 
 We talked about:

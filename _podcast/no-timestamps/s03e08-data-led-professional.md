@@ -894,4 +894,20 @@ transcript:
   who: Alexey
 description: Build a data-led growth stack with event tracking, tracking plans & Reverse
   ETL to activate product data for precise experimentation, personalization, and ops.
+intro: 'How do you design a data-led growth stack that reliably powers personalization,
+  activation, and operational workflows? In this episode Arpit Choudhury, founder
+  of Data-led Academy, walks through the practical steps of building a data-led growth
+  stack focused on event tracking, documented tracking plans, and reverse ETL. <br><br>
+  Arpit — who runs Data-led Academy to teach data skills for non-technical and technical
+  teams alike — breaks down the full data flow: collection (client- vs server-side
+  events), storage (warehouses like Snowflake, BigQuery, Redshift), transformation
+  (DBT), analysis (product analytics), and activation (reverse ETL to support, sales,
+  and engagement tools). He covers how to create tracking plans and instrument events
+  (signup, project created, invite, invoice), common tooling (Segment, RudderStack,
+  MetaRouter, Freshpaint, AVO, Iteratively, TrackPlan), and reverse ETL platforms
+  (Census, Hightouch, Grouparoo). You’ll also hear trade-offs around CDPs versus warehouse-centric
+  approaches, buy vs build decisions, and the team roles and documentation practices
+  needed to democratize data. <br><br> Listen to learn concrete patterns for event
+  tracking, tracking-plan ownership, anomaly investigation, and activating product
+  data to drive growth without sacrificing data quality.'
 ---

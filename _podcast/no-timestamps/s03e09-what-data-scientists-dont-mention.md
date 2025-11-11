@@ -793,6 +793,21 @@ transcript:
   who: Yury
 description: Discover when to stop ML projects, fix MLOps issues and turn failures
   into resume wins - practical deployment, CI/CD, data labeling and stakeholder tips.
+intro: 'When should you stop an ML project — and how do you fix MLOps issues so those
+  failures become resume wins? In this episode Yury Kashnitsky — Ph.D. in applied
+  math, Kaggle Master, Senior ML Scientist at Elsevier and lead of the open course
+  mlcourse.ai — walks through practical decisions and trade-offs from research to
+  production. <br><br> We cover why projects fail (data pitfalls, premature modeling),
+  how to make the call to stop work and communicate with stakeholders, and the product-management
+  gap that makes data products succeed or stall. Yury shares hands-on production lessons
+  (gradient boosting vs. heuristic baselines, reducing re-ranking scope to meet latency),
+  common DevOps anti-patterns (SSH deploys, missing CI/CD), and best practices for
+  moving from notebooks to serving ML models. You’ll also hear about real-world constraints:
+  data labeling costs and quality, multilingual NLP transfer learning, balancing research
+  freedom with revenue-producing ML, and how to frame short or failed projects on
+  LinkedIn and your CV. <br><br> Listen for concrete tactics to salvage learning from
+  failed experiments, improve MLOps and deployment, and present those experiences
+  effectively on your resume and public profiles.'
 ---
 
 

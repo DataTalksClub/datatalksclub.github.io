@@ -1051,6 +1051,22 @@ transcript:
   who: Alexey
 description: Discover LiDAR vs camera tradeoffs and model compression for on-vehicle
   inference in autonomous driving - learn quantization, edge speedups, testing tips.
+intro: How should self-driving systems balance LiDAR, cameras and edge compute to
+  deliver safe, real-time perception? In this episode Aishwarya Jadhav — a machine
+  learning engineer with a Master's from Carnegie Mellon and four years deploying
+  multimodal LLMs, generative AI and computer vision — walks through the practical
+  tradeoffs in autonomous driving AI. Drawing on her assistive-tech work (AI Guide
+  Dog) and research background, she explains LiDAR vs camera principles, radar and
+  cost constraints, and Tesla’s camera-first approach for 360° vision. <br><br> We
+  cover on-vehicle inference limits, model compression techniques like quantization
+  and speedups for edge inference, plus validation pipelines from simulation to closed
+  tracks and on-road testing. You’ll also hear about sensor data management, labeling
+  strategies, multimodal LLM challenges in autonomy, gesture recognition for traffic
+  control, and cross-domain transfer to robotics and drones. The conversation closes
+  with real-world complexity, testing sensitive cases, and actionable career pathways
+  and projects. <br><br> If you want concrete guidance on sensor fusion, model compression,
+  and deployment-ready perception systems — plus practical testing and data strategies
+  for self-driving AI — this episode delivers grounded, technical insight.
 ---
 
 Links:

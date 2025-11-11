@@ -508,6 +508,22 @@ transcript:
   who: Alexey
 description: Discover Apache Iceberg, DuckDB & AI-powered pipelines - learn cost-efficient
   table formats, orchestration tactics and a career roadmap for data engineers.
+intro: How do you future‑proof data engineering against vendor lock‑in, rising AI
+  demand, and exploding metadata complexity? In this episode Adrian Brudaru — a former
+  business analyst turned freelancer and co‑founder of DLT — walks through practical
+  choices for building resilient, cost‑efficient pipelines. Adrian explains DLT as
+  a Python‑based ingestion standard, the DLT Plus vision and marketplace for reusable
+  data products, and why the industry is shifting toward specialization in governance,
+  data quality, and streaming. <br><br> Key topics include adopting Apache Iceberg
+  as a table format (Parquet storage and reduced vendor lock‑in), the role of data
+  catalogs and metadata tooling (AWS Glue and peers), and how DuckDB enables embeddable
+  local OLAP and portable query execution. We cover cost‑efficient patterns—DuckDB
+  with GitHub Actions and headless table formats—dbt’s influence and alternatives
+  like SQLMesh, orchestration choices (Airflow, Prefect, Dagster, GitHub Actions),
+  and the 2025 trend of AI integration in pipelines and AI agents. Listeners will
+  get actionable guidance on tool selection, beginner and transition roadmaps, and
+  when Iceberg, DuckDB, or AI‑powered approaches make sense for their data engineering
+  stack.
 ---
 
 Links:

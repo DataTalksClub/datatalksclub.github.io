@@ -1213,6 +1213,22 @@ transcript:
 description: Discover volunteer open-source projects, hackathon strategy and data
   sourcing tips to build an AI portfolio, land referrals, and win medical imaging
   challenges.
+intro: Struggling to break into impactful AI work—what volunteer projects, hackathon
+  tactics, and data sourcing methods actually move your career forward? In this episode
+  Sara El‑Ateif, Google Developer Expert in Machine Learning, Google PhD Fellow and
+  co‑founder of AI Wonder Girls, walks through her path from big data and computer
+  vision studies to multimodal COVID‑19 research and practical volunteer projects.
+  <br><br> Sara breaks down real examples—PTSD chatbot, trash detection, and cervical
+  spine segmentation—showing how to source data (Open Images, creative collection,
+  generative approaches), pitch for volunteer roles, and contribute on platforms like
+  Omdena and Fruit Punch AI. She explains hackathon strategy—understanding judges,
+  defining an MVP despite limited data/compute, and building deliverables with mentors—and
+  outlines opportunity hunting via LinkedIn, social feeds, mailing lists, WIML and
+  conference channels. <br><br> Listeners will get actionable guidance on applying
+  to projects, roles for data engineers (data prep, pipelines, dashboards), productivity
+  tips, and how to build a research network. Tune in to learn concrete steps to boost
+  your AI career through open‑source volunteering, smarter hackathon participation,
+  and better data sourcing.
 ---
 
 Links:

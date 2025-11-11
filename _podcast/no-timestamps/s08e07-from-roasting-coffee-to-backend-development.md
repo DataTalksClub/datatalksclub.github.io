@@ -2,14 +2,20 @@
 episode: 7
 guests:
 - jessicagreene
-intro: In this episode, Jessica Greene—Senior Machine Learning Engineer at Ecosia—shares
-  her remarkable journey from film and coffee roasting to building AI systems that
-  power eco-friendly search. She explains how community support through PyLadies Berlin,
-  open source projects, and government programs like Bildungsgutschein helped her
-  transition into tech. Jessica offers candid advice on learning Python, overcoming
-  imposter syndrome, and creating your own opportunities through internships and conference
-  talks. You’ll learn how community involvement, persistence, and curiosity can turn
-  an unconventional background into a thriving career in machine learning.
+intro: How do you switch to tech from a completely different career and actually land
+  an internship at a mission-driven company? In this episode Jessica Greene — Senior
+  Machine Learning Engineer at Ecosia and co-organizer of PyLadies Berlin — walks
+  through her journey from film and coffee roasting to machine learning, sharing concrete
+  steps for a career change to tech. We cover the learning path Jessica used (Codecademy,
+  Andrew Ng, FreeCodeCamp), funding and study time via Germany’s Bildungsgutschein,
+  and hands-on experience through an open source fellowship (Rails Girls Summer of
+  Code) and pair programming. You’ll hear how community meetups, PyLadies, and networking
+  translated into an Ecosia internship, what interviewers notice (inquisitiveness,
+  creating roles), and practical tips for building system skills (terminal, dual-boot
+  Linux), overcoming imposter syndrome, and getting started with public speaking and
+  event organizing. If you’re considering a switch to tech, this episode offers realistic
+  guidance on open source fellowships, meetups, study resources, and interview strategies
+  to help you build skills, confidence, and professional connections.
 ids:
   anchor: From-Roasting-Coffee-to-Backend-Development---Jessica-Greene-e1i1ten/a-a7s65oj
   youtube: BKqmNdxsBko

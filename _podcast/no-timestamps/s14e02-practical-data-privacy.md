@@ -1256,6 +1256,22 @@ transcript:
   who: Katharine
 description: Discover differential privacy, federated learning and PETs - privacy
   engineering, consent UX fixes and compliance to reduce re-identification risk.
+intro: 'How can teams build useful machine learning while respecting user privacy,
+  compliance, and re‑identification risk? In this episode Katharine Jarmul — privacy
+  activist and Principal Data Scientist at ThoughtWorks Germany — walks through a
+  practical Data Privacy Playbook focused on differential privacy, federated learning,
+  privacy‑enhancing technologies (PETs) and consent UX. <br><br> Katharine draws on
+  a career from data journalism and NLP to startup work at KI Protect and enterprise
+  ML, explaining GDPR/CCPA/CPRA implications, cookie consent defaults, and strategies
+  for pseudonymisation, encrypted ML and federated architectures. We cover consent
+  and opt‑out UX, legal vs technical definitions of privacy, profiling and fingerprinting
+  risks, and privacy‑friendly personalization like session‑based intent and ephemeral
+  inference. <br><br> You’ll get concrete takeaways: why differential privacy matters
+  (formal definition, use cases, Tumult and other libraries), common anonymization
+  pitfalls (hashing, k‑anonymity, Netflix lessons), how PETs fit into system design,
+  and generative AI privacy considerations including retention and localized model
+  deployment. Listeners leave with actionable guidance on privacy engineering, data
+  minimization, consent design, and resources to continue learning.'
 ---
 
 Links:

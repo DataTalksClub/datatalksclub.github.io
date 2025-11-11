@@ -1256,6 +1256,22 @@ transcript:
 description: Discover how to restore data trust with data quality fixes, prioritization
   and generative AI readiness—KPI diagnosis, incident-driven roadmaps and rollout
   tips.
+intro: How do you restore data trust and make your organization ready for generative
+  AI without drowning in tools or endless cleanup? In this episode Lior Barak — author
+  of Data is Like a Plate of Hummus, co‑host of WHAT the Data?!, and founder of Tale
+  About Data — walks through practical approaches to data quality, prioritization,
+  and generative AI readiness from his 12+ years building data teams. <br><br> We
+  cover a mindful data strategy that accepts imperfection (Wabi‑sabi), the shift from
+  engineering to product thinking, and automating data infrastructure. Lior explains
+  common data trust failures and hallucination risks with generative models, offers
+  diagnostic tactics for core KPI and dashboard inaccuracies, and pinpoints pipeline
+  failure modes (ingestion, SQL logic, lineage). You’ll hear a trust‑restoration framework
+  focused on maintenance, rollouts, and innovation, a traffic‑light dashboard for
+  reliability, incident analysis to find recurring causes, and practical work allocation
+  and team stress benchmarks (≈45% maintenance). <br><br> Listen to learn concrete
+  steps to prioritize data work by business impact, measure readiness for AI by ROI
+  and product signals, and manage legacy systems and executive ad‑hoc requests with
+  intent and impact in mind.
 ---
 
 Links:

@@ -1022,6 +1022,22 @@ transcript:
 description: Master building data teams, deploying production machine learning and
   MLOps, running A/B experiments and fraud detection to boost model reliability and
   ROI.
+intro: How do teams move beyond dashboards to reliable production ML—while organizing
+  people, running experiments, and tackling use cases like fraud detection? In this
+  episode Rishabh Bhargava (7+ years in analytics and ML, former Sales Engineering
+  lead at Datacoral—acquired by Cloudera—and early Primer.ai engineer; MS CS Stanford)
+  walks through the practical bridge from analytics to ML in production. <br><br>
+  We cover data infrastructure and sales-engineering lessons (demos, POCs, integration),
+  early NLP work (summarization, entity extraction), and the differences between prescriptive
+  and predictive analytics. Rishabh explains day-to-day ML operations—models, APIs,
+  SLAs—and the evolution of fraud detection from rule-based systems to machine learning.
+  He digs into experimental workflows (A/B testing, shadow mode), experiment analysis
+  (segmentation, uplift, root cause), and why documentation and analysts’ tribal knowledge
+  matter. We also discuss hiring and team structure—hire data engineers, then analysts,
+  then data scientists—and trade-offs between embedded versus centralized data roles.
+  <br><br> If you’re responsible for data strategy, MLOps, or deploying fraud detection
+  models, this episode provides actionable perspectives on experiments, team building,
+  and moving ML into production.
 ---
 
 Links:

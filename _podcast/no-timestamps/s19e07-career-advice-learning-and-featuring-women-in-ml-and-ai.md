@@ -957,6 +957,22 @@ transcript:
   who: Alexey
 description: Build a data science portfolio with open-source computer vision projects,
   gain real job-ready experience, networking tactics and freelance tips.
+intro: 'How do you pivot from biology into machine learning and build a job-ready
+  data science portfolio using open-source, computer vision and transformers? In this
+  episode Isabella Bicalho — a Machine Learning Engineer and Data Scientist with three
+  years of hands-on AI development and prior computational research — walks through
+  her path from Biology (University of Maranhão, University of Marseille) to ML, including
+  an INRIA internship on biomarkers and immunotherapy prediction. <br><br> We cover
+  practical steps for portfolio building: using open-source contributions and community
+  courses (Hugging Face) to get experience, real project examples like green space
+  segmentation with Sentinel-2 and the trade-offs between CNNs and transformers, and
+  applied freelance work such as recommendation systems and knowledge graph automation.
+  Isabella also explains how statistics became her gateway to transformers, how to
+  find low-barrier open-source projects (docs, data, applied code), and how collaboration
+  builds soft skills recruiters value. <br><br> Listen to learn concrete strategies
+  for creating a data science portfolio, where to find computer vision and transformer
+  projects, how to leverage community and mentorship, and how to communicate your
+  work to land roles in machine learning.'
 ---
 
 Links:

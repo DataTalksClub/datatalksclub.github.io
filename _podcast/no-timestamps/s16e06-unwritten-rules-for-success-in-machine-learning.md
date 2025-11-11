@@ -1126,6 +1126,21 @@ transcript:
   who: Jack
 description: 'Discover how to lead and ship actionable ML products: master stakeholder
   communication, rapid POCs, demo design, and full‑stack ML to deliver business impact.'
+intro: 'How do you move from software engineer to VP of Machine Learning while learning
+  to lead, sell, and ship ML products that actually change outcomes? In this episode
+  Jack Blandin—now VP of Data Science & Machine Learning at Fi, who transitioned from
+  full‑stack engineering to data science and has managed teams of 2–15—walks through
+  that exact journey. <br><br> We cover Jack’s career pivot and early leadership lessons,
+  practical approaches to problem framing and reputation management, and how to speak
+  the language of stakeholders (CAC, KPIs) to win buy‑in for ML projects. You’ll hear
+  concrete tactics for selling ML: fast POCs and user‑centric demos (Gradio, Streamlit),
+  starting with baseline heuristics and manual processes, running quick hypothesis
+  validation experiments, and communicating model trade‑offs without obsessing over
+  raw accuracy. Jack also explains the importance of domain immersion, full‑stack
+  engineering for production ML, and prioritizing actionability over accuracy—illustrated
+  by a churn model lesson. <br><br> If you lead or ship ML products, this episode
+  delivers actionable guidance on machine learning leadership, rapid prototyping,
+  demo design, and stakeholder communication to move models from prototype to product.'
 ---
 
 Links:

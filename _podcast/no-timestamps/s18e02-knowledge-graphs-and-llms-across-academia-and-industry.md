@@ -1024,6 +1024,23 @@ transcript:
   who: Alexey
 description: Discover how knowledge graphs, LLMs and RAG boost automotive R&D—improve
   crash simulation insights, grounded retrieval, graph ML and faster paper parsing.
+intro: How can knowledge graphs and large language models (LLMs) be combined to improve
+  automotive R&D workflows like crash simulation and paper reading? In this episode
+  Anahita Pakiman—Senior Knowledge Graph-Data Scientist Consultant at brox IT-Solutions—walks
+  us from her mechanical engineering roots into applied AI, explaining how finite
+  element analysis (FEA) and optimization intersect with data-driven approaches. <br><br>
+  We cover practical topics including FEA vs. machine learning, topology optimization,
+  semantic reporting for crash simulations, and the motivation for adopting knowledge
+  graphs (Neo4j) in automotive R&D. Anahita compares graph and tabular representations,
+  shows how NetworkX and graph analytics bridge knowledge graphs to computational
+  graphs, and dives into graph data science techniques like similarity measures and
+  SimRank. She also explains grounding LLMs with retrieval-augmented generation (RAG),
+  the trade-offs between embeddings/vector databases and KG semantics, Cypher-driven
+  retrieval, prompt templates, and limits around trust and hallucination. <br><br>
+  Listeners will get concrete guidance on building KG+LLM systems (including the ADPT-LRN-PHYS
+  project), parsing papers into graphs, deployment and frontend considerations, and
+  recommended graph ML learning resources—valuable for engineers and data scientists
+  working on crash simulation, knowledge graphs, and RAG workflows.
 ---
 
 Links:

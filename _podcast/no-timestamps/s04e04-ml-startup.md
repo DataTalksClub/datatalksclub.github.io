@@ -1365,6 +1365,22 @@ transcript:
   who: Elena
 description: 'Discover practical MLOps, model monitoring and founder‑fit tactics to
   build an ML startup: hire, fund, productize, and reach product‑market fit faster.'
+intro: 'What does it take to build a successful ML startup—especially around MLOps,
+  model monitoring, open source, and founder fit? Elena Samuylova, Co‑founder & CEO
+  of Evidently AI, joins to answer that question drawing on her applied machine learning
+  experience since 2014, including roles at Yandex Data Factory and an industrial
+  AI startup. <br><br> This episode walks through practical founder decisions: sourcing
+  problem‑first ideas, finding compatible co‑founders and establishing pre‑launch
+  alignment, and choosing between vertical solutions and infrastructure/MLOps. Elena
+  explains what “AI‑first” positioning really means, how developer tools and open
+  source shape go‑to‑market strategies (open core, cloud, monetization and cloning
+  risks), and how Evidently validated model monitoring as a business. You’ll hear
+  tactical guidance on customer discovery, persuading engineers to adopt your tool,
+  data safety and on‑prem deployments, hiring and scaling tradeoffs, funding paths,
+  productizing services for non‑technical founders, and normalizing failure and work–life
+  tradeoffs. <br><br> Listen to gain actionable frameworks for building an ML startup—covering
+  model monitoring, MLOps, open source strategy, founder‑market fit, and the concrete
+  signals that indicate product–market fit.'
 ---
 
 

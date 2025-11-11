@@ -1089,6 +1089,23 @@ transcript:
 description: 'Master data science management: learn Agile ML, debrief culture, metrics
   and POC-to-production strategies to scale teams, boost impact and ship reliable
   models.'
+intro: How do you run data science teams so experiments become reliable, measurable
+  products? In this episode Shir Meir Lador, a data science group manager at Intuit
+  who builds machine and deep learning models for document intelligence in TurboTax
+  and QuickBooks, walks through practical approaches to data science management and
+  agile ML. <br><br> We explore the origins of debrief culture from military pilot
+  training and how pre/post debriefs drive continuous improvement; concrete practices
+  for agile ML including two-week sprints, exploration sprints, design stories and
+  grooming; and how to scope work, handle AI project uncertainty, and use rapid experimentation
+  to mitigate data risks. Shir also digs into metrics for production ML—business impact,
+  A/B testing, customer-focused KPIs—and people metrics like pulse surveys, manager
+  score and skip-level feedback. You’ll hear about leadership pillars (vision, driving
+  results, culture), team development, goal alignment, cross-functional product partnerships,
+  and tactics for fostering innovation (hackathons, paper clubs). <br><br> Listen
+  for actionable guidance on measuring success, scaling ML to production, and building
+  the managerial skills to lead high-performance data science teams. This episode
+  is for managers and technical leads focused on production ML, machine learning operations,
+  and team-driven impact.
 ---
 
 Links:

@@ -920,6 +920,22 @@ transcript:
   who: Alexey
 description: 'Discover a machine learning career from Java: build data pipelines,
   finish ML Zoomcamp projects, deploy with Flask & Kubernetes, and grow a 9k community.'
+intro: 'How do you move from a Java background into a sustainable machine learning
+  career while building production-ready data pipelines and scaling a learning community?
+  In this episode Alexey Grigorev, founder of DataTalks.Club, and Eugene Yan, Applied
+  Scientist at Amazon, walk through real-world steps for that transition—from taking
+  Andrew Ng’s Coursera course to first data-science roles, freelancing, and master’s
+  programs. <br><br> They discuss building pragmatic data pipelines, adopting a product
+  mindset, and why simple models often win in production. Learn what a principal data
+  scientist actually does—internal consulting, architecture, and mentoring—and how
+  that perspective shaped community efforts that grew to roughly 9,000 members. Alexey
+  explains the origins and formats of DataTalks.Club events, conference-driven growth,
+  and the automation behind content production (Zapier, Eventbrite). <br><br> You’ll
+  also get an inside look at project-based learning with ML Bookcamp / Machine Learning
+  Zoomcamp, deployment focus (Flask, AWS Lambda, Kubernetes, Kubeflow), monetization
+  and sponsorship realities, and practical career tactics: joining communities, finding
+  mentors, and learning by projects. Tune in for actionable guidance on machine learning
+  career development, ML in production, and community building.'
 ---
 
 Links:

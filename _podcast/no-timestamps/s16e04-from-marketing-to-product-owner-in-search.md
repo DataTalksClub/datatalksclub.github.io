@@ -968,6 +968,22 @@ transcript:
   who: Alexey
 description: Discover e-commerce search with Elasticsearch & NLP, plus product owner
   tactics, roadmap prioritization, team-building and hiring tips to boost conversions.
+intro: 'How do you move from performance marketing into a product role and build scalable
+  e-commerce search with Elasticsearch and NLP? In this episode Lera Kaimashnіkova
+  — an e-commerce Product Owner focused on site search optimization, analytics, and
+  conversion — walks through that exact journey. She explains transitioning from B2B
+  marketing to product ownership, landing a PO role at AUTODOC, and relocating to
+  Germany while learning the craft on the job. <br><br> You''ll hear practical approaches
+  to structuring one‑on‑ones, owning monitoring, roadmaps, and prioritization, and
+  choosing Scrum for deliveries vs. Kanban for investigations. Lera covers forming
+  a dedicated e‑commerce search team and the technical side of relevance engineering:
+  Elasticsearch, autocomplete, search filters, vehicle selector and part fitment flows,
+  plus NLP and information retrieval learnings from Haystack and ChatGPT experimentation.
+  She also discusses recruiting remote developers, why marketing backgrounds are valuable
+  for product roles, and resources for communication, strategy, and experimentation.
+  <br><br> If you’re responsible for site search, product discovery, or making the
+  leap into product ownership, this episode delivers concrete tactics for improving
+  relevance, boosting conversion rates, and growing your technical and team capabilities.'
 ---
 
 Links:

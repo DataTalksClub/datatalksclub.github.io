@@ -2,7 +2,7 @@
 episode: 3
 guests:
 - alexeygrigorev
-description: "Discover DataTalks.Club's origin, growth, and practical lessons in data engineering and LLMs—scaling courses, community tactics, career & monetization tips."
+description: "How do you grow an open, free-to-learn data community into a sustainable education platform? In this episode, Alexey Grigorev — who founded DataTalks.Club during COVID and later transitioned to running it full-time — walks through the practical decisions and trade-offs behind building courses, community, and a product. We cover the course portfolio (machine learning, data engineering, MLOps, LLMs, stock analytics), organic growth from the Data Engineering Zoomcamp, and the technical stack for scaling (a Django-based course platform). Johanna shares lessons on sponsorship dynamics, prepaid tax realities in Germany, protecting community safety from scams, and staying technical through pet projects, LLM experiments and an automated storytelling pipeline. You’ll also hear about launching an LLM course and RAG experiments, early validation and product-market fit, scaling challenges and loneliness, plus concrete ways to contribute—guesting, mentoring, or joining project weeks. Listen for actionable insights on running an online data community, course productization, community moderation, and practical next steps if you want to build or support a data education ecosystem."
 ids:
   anchor: atatalksclub/episodes/DataTalks-Club-4th-Anniversary-AMA-Podcast--Alexey-Grigorev-and-Johanna-Bayer-e2q3ch2
   youtube: GHbeXIKnkLQ

@@ -1119,6 +1119,22 @@ transcript:
   who: Alexey
 description: 'Learn pragmatic MLOps: standardize CI/CD, model registry and monitoring
   to boost reproducibility, deployment reliability, and team productivity.'
+intro: 'How do you build pragmatic, standardized MLOps across teams without chasing
+  every new tool? In this episode Maria Vechtomova — an MLOps tech lead and manager
+  with roots in econometrics and early work moving from R to Python — tackles MLOps
+  as an organizational challenge, not just a technology problem. <br><br> Maria walks
+  through core, actionable topics: building reusable CI/CD and standardized repos,
+  choosing model artifact and registry strategies (Artifactory, S3, MLflow alternatives),
+  and leveraging existing infra like Kubernetes, Git, and CI systems. She outlines
+  central MLOps responsibilities — infrastructure, registries, deployment patterns,
+  and monitoring — and contrasts centralized platform teams with embedded feature
+  teams and guardrails. You’ll hear practical advice on moving logic out of notebooks
+  into packages and pipelines, conducting maturity assessments (reproducibility, testing,
+  documentation), and securing DevOps buy‑in. The conversation also covers monitoring
+  standardization, A/B testing, early LLM pilots and their cost/GPU constraints, plus
+  retail use cases like demand forecasting and personalization. <br><br> Listen to
+  learn concrete steps for implementing CI/CD, model versioning, registries, and monitoring
+  — and how to prioritize organizational change to make MLOps work in production.'
 ---
 
 Links:

@@ -1110,6 +1110,22 @@ transcript:
 description: 'Master computer vision & deep learning with a clear roadmap: Kaggle
   projects, mentorship strategies and interview prep to land roles and build deployed
   models.'
+intro: How do you switch into computer vision and deep learning from a non‑industry
+  background — and build a portfolio that lands interviews? In this episode Tatiana
+  Gabruseva, a Computer Vision/Deep Learning engineer and Kaggle Competitions Master
+  now working as a Senior ML Engineer at Cork University Hospital, maps a practical
+  career-change roadmap. Drawing on her move from a physics PhD during maternity leave,
+  Tatiana covers learning paths (Python, ML/DL courses, SQL, algorithms, system design),
+  hands‑on projects (Kaggle competitions, internships, Omdena‑style collaborations,
+  end‑to‑end pet projects with data collection, labeling, deployment and Docker),
+  and where to start Kaggle with minimal Python. <br><br> You’ll hear tactical advice
+  on mentorship — finding and nurturing long‑term mentors — plus networking, team
+  building for competitions and papers, and overcoming impostor syndrome with mock
+  interviews and LeetCode practice. She also shares prioritization strategies (Pareto,
+  outsourcing), mental rehearsal techniques, boundary setting, and self‑care to avoid
+  burnout. Listen for concrete steps to build portfolio projects, prepare for interviews,
+  and connect with the data science community to accelerate a switch into computer
+  vision and deep learning.
 ---
 
 Links:

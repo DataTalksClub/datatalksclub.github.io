@@ -1420,6 +1420,22 @@ transcript:
   who: Alexey
 description: Discover actionable biohacks for sleep and dopamine to boost productivity
   with 90-min cycles, morning light, habit tracking and energy-focused routines.
+intro: How do small, science-aligned biohacks actually move the needle on focus and
+  productivity? In this episode Ruslan Shchuchkin, a Berlin-based data scientist who
+  transitioned from business/marketing into data science after experimenting with
+  many techniques to stay focused, walks through practical, evidence-minded strategies
+  for improving performance. We cover the root causes of procrastination and perfectionism,
+  behavioral biohacking versus chemical interventions, and how dopamine-driven problem-solving
+  fuels habits. Ruslan explains meditation and NSDR for prefrontal focus, morning
+  sun and circadian light exposure to regulate cortisol and melatonin, and daylight
+  lamps and wake lighting for low-daylight homes. He shares sleep planning tips based
+  on 90-minute cycles, protein-forward nutrition for sustained focus, and caffeine
+  timing trade-offs. You’ll also hear about habit tracking (logs and Notion dashboards),
+  voluntary discomfort as a dopamine reset, failed experiments worth avoiding, safety
+  considerations, and a simple prioritization framework. If you want actionable biohacks—sleep,
+  circadian light, dopamine management, habit tracking, and meditation—to boost sustainable
+  productivity, this episode offers concrete, practical steps grounded in real-world
+  experience.
 ---
 
 Links:

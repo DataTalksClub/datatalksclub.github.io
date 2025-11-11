@@ -1010,6 +1010,22 @@ transcript:
   who: Dashel
 description: 'Learn predictive maintenance & yield analytics for semiconductors: deploy
   ML with Flask, Docker & MLOps to boost yield, enable explainability, and ship APIs.'
+intro: 'How do you move machine learning for predictive maintenance and yield analytics
+  out of a notebook and into production on the fab floor? In this episode Dashel Ruiz
+  Perez—data analyst, ML engineer, and educator who spent nearly a decade at Microchip
+  Technology—walks through practical steps for deploying ML to improve semiconductor
+  yield. Drawing on millisecond tool logs, process telemetry, and a “Wafers at Risk”
+  predictive model, Dashel explains how to build explainable yield analytics, iterate
+  with Kaggle-style EDA and feature engineering, and ensure model portability with
+  ONNX. <br><br> Listen for concrete implementation details: turning models into Flask
+  REST APIs, containerizing with Docker, using Google Cloud and Terraform for infrastructure
+  automation, and MLOps best practices for production monitoring. Dashel also covers
+  hands-on learning paths from ML Zoomcamp—course deliverables beyond Jupyter notebooks,
+  common roadblocks (Mac M1 issues, wide categorical data), and examples like a COVID
+  comorbidity API demo and a TensorFlow computer vision project. If you’re responsible
+  for semiconductor predictive maintenance, yield analytics, or ML deployment, this
+  episode gives actionable guidance on tools, workflows, and learning strategies to
+  get models reliably running in production.'
 ---
 
 Links:

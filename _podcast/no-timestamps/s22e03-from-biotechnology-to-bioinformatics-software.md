@@ -957,6 +957,23 @@ transcript:
 description: Discover wastewater metagenomics knowledge graphs & AlphaFold-driven
   network inference using open-source bioinformatics tools to map microbes and cut
   lab tests.
+intro: How can wastewater metagenomics and knowledge graphs reveal microbial interactions
+  while reducing wet‑lab experiments? In this episode Sebastian Ayala Ruano — a bioinformatics
+  software developer and Master’s student in Systems Biology — walks through his wastewater
+  microbiome knowledge graph thesis and open‑source tooling for multi‑omics analysis.
+  <br><br> We cover metagenomics workflows from sequencing and abundance tables to
+  building microbial networks with co‑abundance and association inference (CC Lasso,
+  correlations, thresholding), plus network inference best practices. Sebastian also
+  explains molecular simulations, protein–ligand dynamics and the practical impact
+  of AlphaFold on structure prediction. Hear about MCW2 Graph, VueGen and VueCore,
+  knowledge graph exploration with Neo4j and Streamlit, report automation (Quarto
+  exports), and the bioinformatics package ecosystem (Bioconda, Bioconductor). <br><br>
+  Listeners will gain actionable approaches for integrating wastewater metagenomics,
+  network science, and knowledge graphs, practical open‑source tools to automate analysis
+  and visualization, and guidance on project portfolios, language tradeoffs (R vs
+  Python), and applying AI/LLMs in bioinformatics workflows. Ideal for researchers
+  and engineers wanting to turn sequencing data into reproducible network models and
+  automated reports.
 ---
 
 Links:

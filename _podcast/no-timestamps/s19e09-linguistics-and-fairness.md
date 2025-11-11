@@ -899,6 +899,23 @@ transcript:
   who: Alexey
 description: 'Discover how to use Fairlearn to mitigate credit scoring bias and build
   explainable models: practical tools, human-in-the-loop tips, and evaluation tradeoffs.'
+intro: How do you reduce bias in credit scoring models without sacrificing explainability?
+  In this episode Tamara Atanasoska — an open source software engineer at :probabl..,
+  Fairlearn maintainer, and contributor to scikit-learn and skops with a background
+  in software engineering and computational linguistics — walks through practical
+  approaches to fairness in AI. We dig into a real credit scoring use case, empirical
+  findings on gender disparities, and the societal harms of biased models such as
+  debt and repossession. <br><br> Tamara explains Fairlearn’s group fairness tools,
+  visualization and mitigation methods, and the tradeoffs between false positives,
+  false negatives, and demographic parity. She discusses how to choose sensitive groups
+  in domain‑specific settings, the limits of automation, the need for human‑in‑the‑loop
+  systems, and who in an organization should decide fairness tradeoffs. The episode
+  also covers interpretability and explainable models — inspection tools, partial
+  dependence, and cross‑library integration with scikit‑learn and estimator APIs —
+  plus practical concerns like secure model serialization and community contribution
+  paths. <br><br> Listen to learn actionable guidance on auditing and mitigating credit
+  scoring bias, building explainable models, and integrating Fairlearn into real‑world
+  ML workflows.
 ---
 
 Links:

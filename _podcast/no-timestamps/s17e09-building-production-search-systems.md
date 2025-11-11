@@ -1029,6 +1029,22 @@ transcript:
   who: Daniel
 description: Discover vector search, embeddings & vector database practices - indexing,
   hybrid retrieval, CLIP prototype and MLOps tips to boost relevance & ship faster
+intro: How do you design and operate reliable vector search systems that balance embeddings,
+  traditional indexing, and production MLOps? In this episode Daniel Svonava — co-founder
+  of Superlinked and VectorHub, former ML infrastructure tech lead for YouTube Ads
+  with a 20‑year engineering background including competitive programming and research
+  internships at Google and IBM — answers that question with practical detail. <br><br>
+  We dig into the mechanics of indexing (inverted indexes, document chunking, candidate
+  generation and ranking), the evolution from bag‑of‑words to dense embeddings, and
+  the role of vector databases for nearest‑neighbor search. Daniel walks through vector
+  compute tradeoffs (ingestion vs query‑time encoding), model versioning, pipeline
+  challenges like recomputing embeddings, and hybrid retrieval strategies that combine
+  vector similarity with filters, recency, and Lucene-style constraints. He also explains
+  multi‑modal retrieval with CLIP, multi‑embedding designs, timestamp/positional encoding,
+  and vendor selection criteria. <br><br> Listen to learn concrete guidance on prototyping
+  with CLIP, when to use Lucene/Elasticsearch versus dedicated vector DBs, MLOps tradeoffs,
+  and how to measure search impact through A/B testing and operational metrics — actionable
+  insight for engineers building production search and recommender systems.
 ---
 
 Links:

@@ -1059,6 +1059,22 @@ transcript:
 description: Discover scaling recommender systems, production ML hiring strategies
   and price markdown modeling to cut waste, optimize discounts, and lead data product
   teams.
+intro: 'How do you scale recommender systems, hire for production ML, and model price
+  markdowns to reduce waste—and who should own those decisions? In this episode Anna
+  Hannemann, Domain Owner for Data Science at Metro.digital, walks through practical
+  answers informed by her PhD in Data Science and prior leadership of recommender
+  and robotics/smart logistics teams. <br><br> We cover customer data completeness,
+  API-first recommender design, and algorithm choices like collaborative filtering
+  and Word2Vec variants, plus the trade-offs product owners must manage. Anna contrasts
+  product owner and product manager responsibilities, describes the domain owner role
+  for aligning data scientists across teams, and lays out hiring strategies for production
+  ML—data scientists, ML engineers, and MLOps. You’ll also hear how to source problems
+  from operations, evaluate new data domains with MVPs and manual fixes, and take
+  a portfolio approach to staging data product investments. <br><br> If you work in
+  data product leadership, product management, or machine learning operations, this
+  episode delivers actionable frameworks for scaling recommenders, building production
+  ML capabilities, and applying price markdown modeling to optimize discounting and
+  reduce waste. Recommended reading: Data Science for Business.'
 ---
 
 Links:

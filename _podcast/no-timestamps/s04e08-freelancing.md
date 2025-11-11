@@ -1278,21 +1278,22 @@ transcript:
   sec: 3827
   time: '1:03:47'
   who: Alexey
-intro: 'How do you build a reliable freelance career around machine learning when
-  clients expect production-ready systems, not just prototypes? In this episode, Mikio
-  Braun — an ML researcher who has moved models into production at European unicorns
-  Zalando and GetYourGuide and now advises companies as a consultant — walks through
-  what freelancing in machine learning really involves. <br><br> We focus on practical,
-  end-to-end concerns: aligning ML work with product goals, designing ML infrastructure
-  that supports deployment and maintenance, and translating research or proofs-of-concept
-  into production-grade solutions. Mikio''s background in both research and industry
-  gives him direct experience with the technical and product-side trade-offs that
-  matter to clients hiring an ML consultant or machine learning freelancer. <br><br>
-  Listeners will come away with concrete perspectives on where freelance ML work adds
-  value, how to scope engagements that bridge experimentation and production, and
-  what to prioritize when building ML systems for real users. This episode is essential
-  for machine learning freelancers, aspiring ML consultants, and product teams evaluating
-  external ML expertise.'
+intro: 'How do you move from academic research or in‑house ML engineering to a sustainable
+  freelance career in machine learning — getting clients, pricing your work, and delivering
+  production systems? In this episode Mikio Braun, who transitioned from TU Berlin
+  into ML roles at Zalando and GetYourGuide and now consults on machine learning production,
+  infrastructure, and teams, walks through that path step by step. <br><br> We cover
+  the practical parts of freelancing in machine learning: launching first clients,
+  sourcing leads through network and referrals, and demand generation with LinkedIn,
+  talks, and podcasts; pre‑sales tactics like free intro calls, problem discovery,
+  and clear proposals; pricing models and rate‑setting strategies; financial planning,
+  capacity management, and avoiding burnout; plus specialization, productizing consulting,
+  and scaling options (agency, product, or return to employment). The episode also
+  addresses administrative essentials for freelancers in Germany (registration, VAT,
+  payments), accounting choices, professional liability, and how to compete in a global
+  remote market. Listen for concrete advice on client‑finding, scope discipline, and
+  deliverables so you can evaluate whether freelancing in machine learning is the
+  right next step and how to start with a safety net.'
 description: 'Learn freelancing in machine learning: pricing, client acquisition,
   and proposals to win ML consulting gigs, scale sustainably, and secure steady income'
 ---

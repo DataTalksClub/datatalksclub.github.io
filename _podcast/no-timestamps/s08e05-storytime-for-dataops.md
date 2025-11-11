@@ -7,13 +7,21 @@ description: 'Master DataOps: automate pipelines, data observability and CI/CD t
   cut errors, speed deployments, and deliver reliable, testable data pipelines.'
 guests:
 - christopherbergh
-intro: In this episode, Chris Bergh—CEO and Co-Founder of DataKitchen—shares the origin
-  story of DataOps and how it’s transforming data team productivity. Drawing parallels
-  to DevOps, Chris explains how treating data like a factory helps teams reduce cycle
-  time, lower errors, and deliver analytics faster. He discusses lean principles,
-  defining done and good, and balancing heroism with repeatable processes. You’ll
-  learn the seven steps to implementing DataOps, how automation simplifies orchestration,
-  and how the same principles apply to both data engineering and MLOps.
+intro: 'How do you build reliable data pipelines that move fast without breaking production?
+  In this episode Christopher Bergh — CEO and Head Chef at DataKitchen, co-author
+  of the DataOps Cookbook and Manifesto, and a 25+-year veteran across research, engineering,
+  analytics, and leadership — walks through practical approaches to mastering DataOps:
+  automation, observability, and CI/CD for dependable data delivery. <br><br> We cover
+  core targets like error reduction, deployment cycle time, and team productivity;
+  the role of data observability and monitoring in catching production errors; and
+  the trade-offs between “done” and “good.” Chris explains the shift from runbooks
+  to automated playbooks, an automation-first mindset (“code that acts on data”),
+  and seven practical steps for healthier pipelines—VC, tests, CI/CD, and more. He
+  contrasts DataOps with MLOps, argues for end-to-end versioning, and discusses tooling
+  choices including dbt, Great Expectations, and SQL tests, plus platform orchestration
+  and governance. <br><br> Listen to learn concrete tactics for improving data quality,
+  shrinking incident toil, proving systems with end-to-end testing, and where to focus
+  time and tooling to accelerate reliable analytics delivery.'
 ids:
   anchor: Storytime-for-DataOps---Christopher-Bergh-e1hgl0m
   youtube: 0Fx5PCoLkf4

@@ -780,6 +780,22 @@ transcript:
 description: Discover urban transport data, real-time monitoring and demand forecasting
   techniques—learn data pipelines, text-to-SQL and AI tools to improve planning &
   ops.
+intro: How can urban transport data and AI be combined to enable real-time monitoring,
+  accurate demand forecasting, and reliable data pipelines for city operations and
+  planning? In this episode Rachel Lim, an urban data scientist with a geography background
+  and a master’s in urban data science, walks through practical approaches that bridge
+  urban design and data engineering. We cover the core data sources—GPS, sensors,
+  fare card systems, ride‑hailing feeds—and where computer vision complements missing
+  passenger-flow data. Rachel explains planning horizons from short‑term operational
+  response (traffic marshals, cameras, event analytics like F1) to long‑term infrastructure
+  planning driven by travel demand forecasting. She breaks down data pipelines and
+  warehousing, real‑time stacks (Kafka, Apache Spark, sensors, APIs), journey logic,
+  anomaly detection, and privacy-preserving publishing to open portals like data.gov.sg
+  and DataMall. The episode also explores generative AI and Text‑to‑SQL workflows,
+  prompt safety, synthetic data, and conversational search for natural‑language access
+  to datasets. Listeners will gain actionable insight into building and governing
+  transport data systems that support real‑time monitoring, demand forecasting, and
+  scalable analytics.
 ---
 
 Links:

@@ -1100,4 +1100,19 @@ transcript:
   who: 'Theo:'
 description: 'Master MLOps with Kubeflow: monitor data drift, automate retraining
   and scale pipelines using KFServing, Katib & Prometheus for production-ready ML.'
+intro: How do you detect model drift, trigger retraining, and scale ML pipelines in
+  production? In this episode Theofilos Papapanagiotou — a systems engineer with 20
+  years’ experience (mostly in telcos) now building tools to run ML workloads and
+  an active Kubeflow advocate — walks through practical MLOps patterns and tooling
+  to answer that question. <br><br> We define MLOps as culture, process, and technology,
+  contrast DevOps vs MLOps across model lifecycle and data drift, and unpack monitoring
+  for drift, fairness, and retraining triggers. Hear about monitoring stacks (Prometheus/Grafana,
+  inference sensors), commoditizing inference monitoring, and how monitoring can feed
+  new training data. Theofilos explains team composition and the “MLOps engineer”
+  debate, maturity models from manual training to automated, data‑driven retraining,
+  and traceability via MLMD metadata and model versioning. <br><br> We also explore
+  the Kubeflow ecosystem — Pipelines, KFServing, Feast, Katib, and TFX — plus hyperparameter
+  search, cloud‑managed pipelines, edge/mobile considerations, and practical tips
+  for small teams. Listen to learn concrete approaches to detect model drift, automate
+  retraining, and scale pipelines with Kubeflow and related MLOps practices.
 ---

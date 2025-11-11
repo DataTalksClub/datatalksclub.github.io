@@ -1159,6 +1159,22 @@ transcript:
   who: Alexey
 description: 'Discover Causal ML counterfactuals and uplift (CATE): actionable debiasing,
   targeting strategies, policy evaluation and deployment tips to boost ROI.'
+intro: 'How do you move from correlation to actionable decisions — using counterfactuals,
+  uplift (CATE), A/B testing and LLMs — without getting misled by confounders or biased
+  estimators? In this episode Aleksander Molak, an independent ML researcher, author
+  and educator specializing in causality, NLP and AI strategy (and author of a dyslexia
+  prediction project), walks through practical causal ML techniques and real-world
+  tradeoffs. <br><br> We cover foundational ideas — counterfactuals and Judea Pearl’s
+  intervention view — then meta-learners (T‑learner), Conditional Average Treatment
+  Effect (CATE) estimation, uplift modeling and when A/B tests or causal feature selection
+  are needed to achieve unconfoundedness. Aleksander discusses deployment risks and
+  debiasing approaches (double/triple ML), refutation tests for estimator quality,
+  causal discovery and cost–benefit tradeoffs that revealed wasted marketing spend.
+  He also shows how LLMs fit into causal workflows: feature extraction, scoring text
+  as outcome, text as treatment or confounder, inferring unobserved variables and
+  a CausalBert demo. Listeners will come away with practical guidance on building,
+  evaluating and validating causal ML systems, plus recommended resources and code
+  to start applying these methods.'
 ---
 
 Links:

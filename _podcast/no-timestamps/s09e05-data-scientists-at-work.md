@@ -1297,6 +1297,22 @@ transcript:
   who: Misra
 description: 'Master data science job hunt and portfolio tactics: actionable projects,
   recruiter tips, DALL·E 2 basics and FOMO coping strategies to land interviews faster.'
+intro: How do you actually break into data science, build a portfolio that gets interviews,
+  and stay sane while every new AI model vies for your attention? In this episode
+  Mısra Turp — data scientist, content creator, and developer advocate at AssemblyAI
+  (founder of “So you want to be a data scientist?”) — walks through a practical career
+  playbook for job hunting, portfolio building, and coping with FOMO and imposter
+  syndrome. <br><br> We cover Mısra’s career path from big data engineering to developer
+  advocacy, what a data scientist’s day‑to‑day looks like, and the typical deliverables
+  hiring managers expect (models, pipelines, reports, presentations). She explains
+  role variants (consultant, in‑house, freelance), tradeoffs between generalist and
+  specialist tracks, and when a master’s or PhD matters. You’ll get concrete job‑hunt
+  tactics—how to catch a recruiter’s eye, which portfolio projects resonate, and why
+  real‑world datasets (like NYC Open Data) matter. The episode also includes a clear,
+  high‑level overview of DALL·E 2 and diffusion models, plus strategies for staying
+  current (conferences vs social media) and knowing when a new framework is “good
+  enough.” <br><br> Listen to learn actionable steps to refine your portfolio, present
+  data science value to stakeholders, and manage FOMO while advancing your career.
 ---
 
 Links:

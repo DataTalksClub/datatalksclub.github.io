@@ -1054,6 +1054,21 @@ transcript:
   who: Alexey
 description: 'Master Metaflow, DevRel and full-stack ML: demo, AWS/Kubernetes integrations,
   open-source governance and career tips to build reproducible ML pipelines.'
+intro: How do you master full‑stack machine learning with Metaflow while balancing
+  open‑source governance, developer relations, and fast‑moving AI trends? In this
+  episode Hugo Bowne‑Anderson — Head of Developer Relations at Outerbounds, longtime
+  educator and podcast host — walks through a Metaflow sandbox demo and practical
+  guidance for building reproducible machine learning workflows. Drawing on his background
+  at Coiled and DataCamp and his experience teaching and creating courses, Hugo breaks
+  down Metaflow integrations (AWS, Kubernetes, Argo), interoperability considerations,
+  and company support models for projects like Dask and Metaflow. <br><br> We also
+  explore the path to DevRel, core DevRel skills (technical fluency, writing, community
+  building), organizational models, and how developer feedback and dogfooding improve
+  documentation and reproducibility. Hugo discusses generative AI’s impacts on ML
+  infrastructure and DevRel, AI‑assisted drafting tools like Whisper and ChatGPT,
+  and content strategy for tutorials, blogs, and talks. Listen to gain concrete takeaways
+  on mastering full‑stack ML with Metaflow, improving reproducibility, and aligning
+  DevRel and open‑source governance to support scalable machine learning infrastructure.
 ---
 
 Links:

@@ -1221,6 +1221,22 @@ transcript:
   who: Nemanja
 description: 'Learn Lean MLOps strategies for startups: build a SaaS-first MVP stack,
   avoid vendor lock-in, and manage technical debt for faster, portable ML launches.'
+intro: How can an early-stage startup ship ML features fast without getting locked
+  into cloud vendors or drowning in technical debt? In this episode Nemanja Radojkovic—an
+  electrical engineer turned data scientist and MLOps engineer, DataCamp instructor,
+  and long-time practitioner—walks through pragmatic, lean MLOps strategies for startups.
+  <br><br> We cover shoestring tactics for rapid prototyping, a SaaS‑first MVP stack
+  and its trade‑offs, cloud credits versus migration friction, and how to avoid vendor
+  lock‑in with managed services like Vertex AI or SageMaker. Nemanja unpacks priorities
+  for an MVP stack, low‑code speed versus future flexibility, minimal stacks (Python,
+  CI/CD orchestration, Dagster), and observability options (Logfire, Prometheus/Grafana,
+  Streamlit). The conversation also addresses technical debt management, data engineering
+  reliability, on‑premise vs cloud decisions, and distributed compute choices (Dask,
+  Spark). <br><br> Listen to learn concrete frameworks for choosing tools, balancing
+  portability and managed services, and practical steps to manage tech debt while
+  moving quickly. This episode is for startup engineers and founders who need actionable
+  guidance on lean MLOps, SaaS‑first approaches, vendor lock‑in avoidance, and building
+  a resilient MVP stack.
 ---
 
 Links:

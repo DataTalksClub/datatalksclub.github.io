@@ -2,14 +2,22 @@
 episode: 8
 guests:
 - jeffkatz
-intro: In this episode, Jeff Katz—founder of Jigsaw Labs and former Lead Instructor
-  at Flatiron School—shares his journey from lawyer to educator and data engineer.
-  He explains how modern bootcamps evolved, what makes technical training effective,
-  and how he built a data engineering curriculum focused on Python, SQL, and cloud
-  fundamentals. Jeff discusses active learning, student feedback loops, and the shift
-  from data science to data engineering driven by job market realities. You’ll learn
-  practical insights into teaching technical skills, screening applicants, and helping
-  students land their first data roles.
+intro: How do you build a data engineering career from zero — what should you learn,
+  how do you master SQL, and how do you pass the interviews? In this episode Jeff
+  Katz — former lawyer turned developer, founder of Jigsaw Labs, and current ML engineer
+  at AppFolio — walks through practical paths into data engineering and how to design
+  bootcamp curriculum that actually leads to hires. <br><br> We cover curriculum development
+  and pedagogy (active learning, conceptual-first lessons, reinforcement cycles),
+  core skills to prioritize (Python, SQL, cloud fundamentals), and why junior-focused
+  programs drop Spark/Kafka/Kubernetes early. Jeff details analytics engineering tools
+  (DBT, Snowflake, Mode, Fivetran), backend and ETL practices (Flask, codebase navigation,
+  testing), data modeling (OLTP vs OLAP), and SQL mastery (window functions, medium
+  LeetCode problems). You’ll also hear about admissions and screening, mid-program
+  internships for real experience, interview stages (screening calls, SQL tests, on-site
+  expectations), and tactics for transitioning from data analyst to data engineer.
+  <br><br> Listen for actionable guidance on building a bootcamp-ready portfolio,
+  targeted interview prep, and the concrete curriculum choices that employers value
+  in data engineering hires.
 ids:
   anchor: Teaching-Data-Engineers---Jeff-Katz-e1iaoru
   youtube: dFo10l8B6Go

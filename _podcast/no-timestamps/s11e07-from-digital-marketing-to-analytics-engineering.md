@@ -951,6 +951,21 @@ transcript:
 description: 'Discover DBT, SQL & data modeling tactics for pivoting into analytics
   engineering: learn migration, tooling, A/B testing, and a career playbook to get
   hired.'
+intro: 'How do you move from marketing into analytics engineering—and learn DBT, SQL,
+  and data modeling along the way? In this episode Nikola Maksimovic walks through
+  that exact career pivot, from early startup roles in London and Berlin to growth
+  marketing at Ecosia and a pandemic‑era shift toward BI and analytics engineering.
+  Nikola outlines the practical learning path—SQL courses, small BI projects, conversations
+  with internal BI teams—and the core technical skills you’ll need: advanced SQL,
+  data pipeline familiarity, and Python basics. <br><br> We dig into real-world analytics
+  engineering work: leading a DBT migration, data modeling tradeoffs (wide vs narrow
+  tables, incrementalization), tooling stacks like Snowplow, DBT, Looker/LookML, Redshift,
+  Airflow, Airbyte and Redash, plus A/B testing and product analytics use cases. Nikola
+  also shares a transition playbook (Excel → SQL → dashboards → projects), mentorship
+  and networking strategies, and recommended reading and communities. <br><br> Listen
+  to get a practical career playbook and actionable guidance on SQL, DBT, data modeling,
+  and the organizational fit between analytics engineer and data analyst. Find Nikola
+  on LinkedIn (nikola-maksimovic-40188183).'
 ---
 
 Links:

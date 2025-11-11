@@ -1110,6 +1110,20 @@ transcript:
   who: Alexey
 description: 'Learn practical machine learning for software engineers: 7 lessons,
   tooling, MLOps roadmap to build deployable projects and accelerate your career.'
+intro: How can a software engineer practically add machine learning to their toolkit
+  and ship real projects without getting stuck on theory? In this episode Santiago
+  Valdarrama — Director of Computer Vision with roots in Cuba and an MS from Georgia
+  Tech — walks through a hands-on roadmap for practical machine learning for software
+  engineers. <br><br> We cover seven pragmatic lessons for starting an ML career (start
+  projects, treat learning as a marathon, teach and join community, apply knowledge,
+  prioritize coding, analyze problems first, and favor pragmatism), essential tooling
+  like Python, NumPy, Pandas, Matplotlib and scikit-learn, and concrete learning paths
+  including Google’s ML Crash Course, Kaggle, and recommended books. Santiago also
+  breaks down ML engineering skills — data pipelines, modeling, deployment, monitoring
+  — plus deployment and MLOps fundamentals (APIs, Docker, cloud providers) and how
+  to learn cloud pragmatically. <br><br> Listen to gain an actionable project roadmap,
+  toolset, course and book recommendations, and practical strategies for overcoming
+  math anxiety so you can build, deploy, and maintain ML systems as a software engineer.
 ---
 
 Links:

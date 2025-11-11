@@ -790,6 +790,23 @@ transcript:
   who: Katarzyna
 description: 'Learn ASR strategies for disordered speech: data, multimodal cues and
   personalization to build robust assistive voice systems and on-device speech tools.'
+intro: 'How can automatic speech recognition (ASR) systems reliably understand disordered
+  and atypical speech without compromising user identity or privacy? In this episode
+  Katarzyna Foremniak, a computational linguist with 10+ years in NLP who developed
+  language models for Audi and Porsche and teaches at the University of Warsaw, tackles
+  that question through a human‑centered lens. <br><br> We explore core phonetics
+  and morpho‑syntax concepts that matter for disordered speech, distinctions between
+  accents and disorders, and practical limits of modern models (e.g., Whisper) when
+  faced with atypical articulation, stammering, and voice quality variation. Katarzyna
+  walks through data‑driven strategies: specialized datasets, data augmentation, transfer
+  learning and fine‑tuning with limited data, plus multimodal ASR approaches that
+  integrate lip‑reading and visual cues. The conversation also covers data collection
+  challenges (GDPR, clinical data, language and dialect coverage), personalization
+  and on‑device adaptation, and assistive and automotive use cases with deployment
+  constraints. <br><br> If you work on speech recognition, accessibility, or multilingual
+  NLP, this episode offers concrete technical strategies and ethical considerations
+  for building personalized, multimodal ASR systems that better serve people with
+  speech disorders.'
 ---
 
 Links:

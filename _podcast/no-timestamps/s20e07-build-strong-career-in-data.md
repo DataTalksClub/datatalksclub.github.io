@@ -1043,6 +1043,21 @@ transcript:
   who: Alexey
 description: Discover long-context LLMs, chunking and retrieval for finance benchmarking—learn
   32k–64k context limits, summarization tips, prototyping & career advice.
+intro: How do you evaluate and deploy long-context LLMs for real-world financial documents—when
+  context windows stretch into tens of thousands of tokens? In this episode Lavanya
+  Gupta, a CMU LTI alum and Sr. AI/ML Applied Scientist at JPMorgan Chase’s MLCOE,
+  walks through practical benchmarking and production strategies for long-context
+  LLMs in finance. Drawing on her published work "Long Context LLMs on Financial Concepts"
+  (EMNLP) and 5+ years of industrial research, Lavanya explains empirical findings
+  around context-window performance (a notable droparound 32k–64k), and outlines the
+  pragmatic trio of chunking, retrieval, and summarization for processing large documents.
+  She also discusses industry research practices—publishing from corporate teams,
+  dissemination via arXiv and endorsements—and rapid prototyping techniques like Streamlit
+  for demos and feedback. Listeners will get concrete guidance on LLM benchmarking,
+  context window trade-offs, dataset and licensing lessons from a Kaggle success,
+  and actionable career advice on transitioning into ML roles, networking, portfolios,
+  and interview prep. Tune in to learn how to benchmark long-context LLMs for financial
+  NLP and translate research into production-ready workflows.
 ---
 
 Links:

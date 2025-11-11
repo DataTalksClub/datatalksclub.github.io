@@ -1052,6 +1052,22 @@ transcript:
   who: Alexey
 description: Build a Grocery Retail OS to cut supermarket food waste, master JIT supply-chain
   forecasting, land pilots & investors, and scale your startup faster.
+intro: How do you build a grocery retail OS that actually cuts supermarket food waste
+  while scaling a startup? In this episode Carmine Paolino — CTO and co-founder of
+  FreshFlow and former programmer/researcher in academia and data science — walks
+  through translating technical expertise into a product that solves fresh-product
+  challenges for retailers. <br><br> We cover FreshFlow’s mission and early problem
+  discovery (including Edeka and Volg pilots), customer discovery techniques like
+  shadowing store teams and The Mom Test, and how their idea evolved from computer
+  vision to an ordering and inventory forecasting platform. Carmine explains Entrepreneur
+  First’s role in co-founder matching and fundraising, pilot timelines and sales cycle
+  realities, and risks around investor selection and board dynamics. He also shares
+  technical lessons (moving off Kubeflow to managed GCP services), hiring priorities,
+  building a product roadmap toward a grocery retail OS, and leveraging just-in-time
+  supply chain and forecasting to reduce food waste. <br><br> Listen to learn practical
+  guidance on pilot programs, prototype-before-pitch validation (banana ripeness demo),
+  co-founder formation, and the operational and technical trade-offs when scaling
+  a startup focused on supermarket food waste reduction.
 ---
 
 

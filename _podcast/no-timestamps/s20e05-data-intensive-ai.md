@@ -1024,6 +1024,22 @@ transcript:
   who: Alexey
 description: Master data pipeline testing and prompt engineering—learn snapshot tests,
   prompt compression & caching to ensure data trust and cut model costs.
+intro: How do you turn prototype AI into reliable production systems that stakeholders
+  can trust? In this episode Bartosz Mikulski — an AI and data engineer who helps
+  move projects from demo to production, builds testing infrastructure, and teaches
+  practitioners — walks through practical approaches to building trustworthy AI through
+  data pipeline testing and prompt engineering. <br><br> We dig into testing strategies
+  for data pipelines (snapshot and integration testing), tools like Great Expectations,
+  Soda, SQL vs Spark tests, and guidance on when to use Apache Spark. Bartosz explains
+  the data engineering role in preprocessing and fine-tuning, plus “invisible” AI
+  use cases like augmented generation and review analysis. On the prompt side, he
+  covers in-context learning, prompt evaluation and formatting tradeoffs, token optimization
+  with prompt compression, and prompt caching and model efficiency (attention caching,
+  Claude). He also discusses open-source tools (DeepSeek, Perplexity), AI-driven product
+  patterns (lead scoring, Chrome extension architectures), and coding assistants like
+  Cursor versus GitHub Copilot. <br><br> Listen for concrete testing practices, prompt
+  optimization techniques (caching and compression), and tool recommendations you
+  can apply to increase model reliability and reduce production risk.
 ---
 
 Links:

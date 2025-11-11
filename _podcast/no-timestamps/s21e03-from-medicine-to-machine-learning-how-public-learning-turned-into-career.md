@@ -852,6 +852,21 @@ transcript:
   who: Alexey
 description: Learn how to build a healthcare ML portfolio, land Upwork freelance gigs
   and deploy Dockerized models to AWS—practical tips, capstones, and career strategies.
+intro: How do you go from medical school to shipping production-ready healthcare ML—and
+  get paid for it on platforms like Upwork? In this episode Pastor Soto, a machine
+  learning engineer and mentor who transitioned from medicine and criminology into
+  production ML, walks through the practical steps he used to build a healthcare ML
+  portfolio and freelance career. <br><br> We cover his career trajectory (statistician
+  → data analyst → data engineer), the skill progression from SPSS and R to Python,
+  and the first Upwork gigs that taught him by doing. Pastor explains how ML Zoomcamp
+  and public learning—publishing exercises, leaderboards, and focused content—attracted
+  interviews and opportunities. He also breaks down portfolio tactics (Notion notes,
+  capstone projects using healthcare datasets), production topics (Dockerized models,
+  AWS deployment, wiring APIs, feeding LLMs), recruiter visibility on LinkedIn, and
+  soft skills like English communication and handling critique. <br><br> Listeners
+  will come away with concrete, repeatable strategies for building a healthcare machine
+  learning portfolio, landing freelance work, and deploying models to the cloud—plus
+  time-management and mentoring practices that make it sustainable.
 ---
 
 Links:

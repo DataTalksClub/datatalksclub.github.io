@@ -1312,6 +1312,21 @@ transcript:
   who: Alexey
 description: Master Spark ETL pipelines, streaming vs batch design and Delta Lake
   time travel—optimize jobs, scale on S3/HDFS, and improve monitoring & data quality.
+intro: How do you build, optimize, and scale big data ETL pipelines while choosing
+  between streaming and batch, tuning Spark jobs, and retaining the ability to reprocess
+  with time travel? In this episode Roksolana Diachuk — Big Data Engineer at Captify,
+  Women Who Code Kyiv lead, speaker and mentor — walks through her path from backend
+  Java to Scala and big data, and explains practical trade-offs when designing ETL
+  pipelines. <br><br> We cover core responsibilities like building pipelines on HDFS/S3,
+  file formats (Avro, Parquet, ProtoBuf), Spark job optimization and cluster resource
+  planning, and tooling such as Kubernetes, Prometheus, Grafana. Roksolana contrasts
+  streaming vs batch (Flink for streaming, Spark for batch), explains Delta Lake for
+  data versioning and auditing, and addresses operational challenges like deduplication
+  and historical reprocessing. You’ll also get guidance on monitoring, schema governance,
+  ML deployment stacks (MLflow, Kubeflow), starter projects, datasets for practice,
+  and upskilling paths from analyst to data engineer. <br><br> Listen for actionable
+  advice on pipeline architecture, performance tuning, data quality monitoring, and
+  concrete learning resources to help you build scalable big data ETL systems.
 ---
 
 Links:

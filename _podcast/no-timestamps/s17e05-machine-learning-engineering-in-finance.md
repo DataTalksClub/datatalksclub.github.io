@@ -1149,6 +1149,21 @@ transcript:
   who: Nemanja
 description: 'Learn MLOps for finance: CI/CD & on-prem deployment with minimal viable
   ML - build reproducible pipelines, model registry and monitoring to ensure compliance'
+intro: 'How do you deliver machine learning in highly regulated, legacy finance environments
+  where CI/CD, on‑prem deployment, and governance constrain every decision? In this
+  episode Nemanja Radojkovic — an electrical engineer turned data scientist and MLOps
+  practitioner who now teaches Data Science and contributes courses to DataCamp —
+  walks through pragmatic MLOps for finance. <br><br> We cover concrete finance use
+  cases (AML, fraud, compliance, automated document and email processing) and the
+  ML engineering responsibilities that matter most: CI/CD, deployment choices, and
+  integrating ML workflows with existing DevOps and release governance. Nemanja explains
+  working with on‑prem platforms like Hadoop and OpenShift, how to prioritize a minimal
+  viable ML Ops stack on a shoestring (dev/test/prod environments, monitoring, model
+  registry, data versioning, reproducible pipelines), and tactical interim solutions
+  such as using S3 for registry/versioning. <br><br> Listeners will get actionable
+  guidance on prototyping under regulatory constraints, team structures and reusable
+  platform patterns, and the practical skills and beginner tech stack (Python, SQL,
+  Pandas/Polars, cloud basics) to move models from experiment to production in finance.'
 ---
 
 Links:

@@ -1151,6 +1151,21 @@ transcript:
   who: Alexey
 description: 'Discover LLM deployment tactics: fine-tuning, retrieval and open-source
   vs API tradeoffs to cut latency, control costs, and ground production models.'
+intro: 'How do you take large language models from experiment to reliable production—balancing
+  fine-tuning, retrieval strategies, and the tradeoffs between open‑source models
+  and API services? In this episode Meryem Arik, a recovering physicist and co‑founder
+  of TitanML, walks through practical choices for LLM deployment based on her pivot
+  from computer vision to building tools that make models smaller, cheaper, and easier
+  to run in production. <br><br> We cover model fundamentals and selection (classification
+  vs generative tasks), open‑source model options like LLaMA, FLAN‑T5, Falcon and
+  MPT, and the operational realities of serving: model size, compression, inference
+  optimization, latency and cost tradeoffs. Meryem explains when to prototype with
+  GPT‑3.5/4 APIs versus self‑hosting, the risks of API model drift, and why fine‑tuning
+  or retrieval‑augmented generation often beats continuous retraining. You’ll also
+  get a clear breakdown of retrieval patterns, vector databases for semantic search,
+  dataset expansion and evaluation strategies, and TitanML’s Train/Optimized/Takeoff
+  product approach. Listen to gain actionable guidance for deploying LLMs in production—choosing
+  architectures, reducing costs, and grounding answers reliably with retrieval.'
 ---
 
 Links:

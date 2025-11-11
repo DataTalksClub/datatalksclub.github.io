@@ -1260,6 +1260,21 @@ transcript:
   who: Alexey
 description: 'Master the transition to machine learning & data engineering: build
   cloud-deployed projects, sharpen interview prep, and revamp your CV to land offers.'
+intro: 'How do you move from a QA role into machine learning and data engineering—what
+  projects, cloud skills, and interview prep actually make a difference? In this episode
+  Alvaro Navas Peire walks through his journey from testing Android phones and QA
+  checklists to quitting the industry, taking a gap year, and retraining in machine
+  learning and data engineering. With an informatics engineering background and hands-on
+  experience from postgraduate courses, Neuromatch, and DataTalks’ ML & DE Zoomcamps,
+  Alvaro explains the structured learning path he followed and the portfolio projects
+  (EDA, vegetable image classification, NLP) that proved useful for hiring teams.
+  <br><br> We cover practical topics: cloud deployment on Google Cloud, AWS and Azure;
+  using cloud credits and Databricks; how to present projects without underselling
+  them; technical note-taking and GitHub visibility; and role-play for interview soft
+  skills. Alvaro also contrasts research-heavy ML with tooling-focused data engineering
+  and shares CV, portfolio, and negotiation tips. Tune in if you’re planning a transition
+  to machine learning or data engineering and need concrete guidance on projects,
+  cloud experience, and interview preparation.'
 ---
 
 Links:

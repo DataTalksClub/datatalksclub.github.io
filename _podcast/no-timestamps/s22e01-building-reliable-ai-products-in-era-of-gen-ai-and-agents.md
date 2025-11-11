@@ -839,6 +839,23 @@ transcript:
   who: Alexey
 description: Build autonomous LLM agents with RAG, orchestration & context engineering
   - master SRE automation, testing, evaluation metrics and latency/cost tradeoffs.
+intro: 'How do you build and evaluate truly autonomous LLM agents that balance retrieval,
+  orchestration, and real-world SRE needs? In this episode Ranjitha Gurunath Kulkarni
+  — Staff ML Engineer at NeuBird.ai with earlier LLM and assistant work at Dropbox
+  and Microsoft and an LTI master’s from Carnegie Mellon — walks through practical
+  engineering trade-offs for autonomous LLM agents and retrieval-augmented generation
+  (RAG). <br><br> We cover a clear agent definition (autonomy, objectives, LLMs),
+  agent orchestration tools and memory/knowledge stores, planning strategies from
+  single-step to self-reflection, and implementation choices: prompts, SDKs, tool
+  wrappers, and the code‑vs‑natural‑language agent trade-offs. Ranjitha digs into
+  context engineering techniques (chunking, metadata, wrappers), RAG realities (latency,
+  cost, GIGO), and when retrieval alone suffices versus when full agents are needed.
+  She also maps SRE workflows to agents (logs, metrics, remediation), integration
+  abstractions, framework trade-offs (LangChain, OpenAI Agents SDK, Small Agents),
+  and evaluation strategy: custom datasets, mocking tools, regression tests, and goal‑based
+  outcome assertions. <br><br> Listen to learn practical guidance for building, testing,
+  and deploying autonomous LLM agents, and which architectures and evaluation approaches
+  work best for production systems.'
 ---
 
 Links:

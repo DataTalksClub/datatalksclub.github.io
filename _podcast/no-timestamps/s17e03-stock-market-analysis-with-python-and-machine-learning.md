@@ -1004,6 +1004,22 @@ transcript:
 description: 'Discover algorithmic trading & mean reversion: practical backtesting,
   data APIs, risk management, model choices and trade execution to boost strategy
   ROI.'
+intro: 'How do you build, backtest, and deploy a robust mean-reversion algorithm without
+  falling prey to bad data or time‑series leakage? In this episode Ivan Brigida —
+  Analytics Lead and creator of PythonInvest — draws on 10+ years in business intelligence,
+  econometrics, forecasting, machine learning and finance to answer that question.
+  <br><br> We walk through practical steps for algorithmic trading: choosing retail-friendly
+  data APIs (Yahoo, Quandl, Polygon), understanding market data formats like OHLCV
+  and adjusted close, and cleaning for data quality. Ivan explains mean reversion
+  strategy design, risk management fundamentals including stop‑loss and position sizing,
+  and rigorous backtesting methods—covering time‑series leakage and walk‑forward simulation.
+  He also breaks down prediction targets, feature engineering with time‑window statistics,
+  and model choices from logistic regression to XGBoost and neural networks, plus
+  approaches to explainability and evaluation metrics (ROI, precision, trading fees).
+  Finally, deployment options (cron, Airflow, APIs) and learning resources from PythonInvest
+  are discussed. <br><br> Listen to gain actionable guidance on backtesting, data
+  sources, risk controls, and machine learning techniques to move a mean‑reversion
+  idea toward a reproducible algorithmic trading workflow.'
 ---
 
 Links:

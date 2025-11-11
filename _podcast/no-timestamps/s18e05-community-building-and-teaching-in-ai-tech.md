@@ -542,6 +542,23 @@ transcript:
   who: Alexey
 description: 'Discover Omdena Academy''s project-to-course AI education for data science:
   learn Python, NLP, instructor paths, and gain real-world project experience.'
+intro: 'How do you turn real-world AI project experience into repeatable courses that
+  launch data science careers and train instructors? In this episode Erum Afzal —
+  lead ML engineer, Teaching Expert at Women in AI Academy, and PhD researcher in
+  AI for teacher training — explains how Omdena Academy evolved from collaborative
+  projects into a project-to-course model for AI education. <br><br> We cover the
+  Academy’s shift from global Omdena projects to structured data science courses,
+  foundational topics taught (Python, Pandas, NumPy, NLP), and the process for developing
+  courses: instructor application, content review, delivery, and evaluation. Erum
+  outlines access pathways—enrolling without prior Omdena membership, pathways into
+  projects, and an open instructor pipeline—plus community and leadership development
+  through regional chapters and sub-communities. You’ll hear about curriculum tiers
+  (basic to advanced), boosting engagement with live sessions, and maintaining hiring
+  integrity amid plagiarism and responsible ChatGPT use. Practical details include
+  how to apply (Omdena.com/Omdena-Academy), scholarship and GitHub resources, and
+  options for instructors to volunteer or monetize content. <br><br> Listen to learn
+  actionable steps for joining, teaching, or designing project-based data science
+  courses that prepare learners for careers in AI.'
 ---
 
 Links:

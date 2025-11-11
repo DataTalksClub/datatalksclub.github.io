@@ -1501,6 +1501,24 @@ transcript:
 description: 'Master industrial data: learn synthetic tabular data and small-data
   modeling for sensors & MLOps—optimize QC, predictive maintenance and deploy models
   faster.'
+intro: How do you build reliable machine learning when your datasets are generated
+  by production lines, tiny R&D campaigns, or long-running quality tests instead of
+  millions of web events? In this episode Rosona Eldred — a mathematician-turned-machine
+  learning engineer leading synthetic tabular data work in an AI Innovation team —
+  walks us through mastering industrial data, from sensors and traceability to small-data
+  modeling and MLOps trade-offs. <br><br> We explore what makes industrial data unique
+  (R&D experiments, pilot plants, full production), concrete process examples like
+  blue-paint scale-up and packing-peanuts manufacturing, and long-term quality tests
+  such as the Florida weathering trial. Rosona breaks down sensor choices, batching
+  and granularity challenges, inline versus destructive quality measurements, and
+  how anomaly detection should feed human decisioning. She also covers regulatory
+  and sustainability tracking, reusing historical experiments for reformulation, proxy
+  metrics, optimization trade-offs, and practical methods for tiny-data problems —
+  statistical techniques, transfer learning, and leveraging domain experts. Finally,
+  she contrasts sparse R&D models with streaming, production-scale MLOps. <br><br>
+  Listen to gain concrete strategies for synthetic tabular data, small-data modeling,
+  sensor-driven monitoring, and when to adopt production MLOps versus lightweight
+  R&D workflows.
 ---
 
 Links:

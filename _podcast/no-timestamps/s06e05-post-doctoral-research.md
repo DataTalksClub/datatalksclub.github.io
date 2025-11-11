@@ -1010,6 +1010,22 @@ transcript:
   who: Eleni
 description: 'Discover Spatial Big Data, Nebula Stream & postdoc mentoring: PhD tips,
   publishing, time-management and stream-processing tactics to boost your research.'
+intro: How do you master spatial big data analytics while navigating the demands of
+  postdoc research, systems building, and preparing for a PhD? In this episode Eleni
+  Tzirita‑Zacharatou — a postdoctoral researcher at the DIMA Group, TU Berlin, with
+  a PhD from EPFL and award‑winning work in data management — breaks down practical
+  approaches to spatial big data analytics (GPS traces, trajectories, satellite imagery)
+  and robust stream processing for IoT. We cover systems‑driven research like the
+  Nebula Stream and Agora infrastructure, spotting research trends via conferences
+  and reviewing, and aligning academic work with industry needs. Eleni also outlines
+  the postdoc role (mentoring, teaching, reviewing, dissemination), time management
+  strategies, realities of publishing and top venues (VLDB, SIGMOD, ICDE), mentoring
+  tactics for BSc/MSc/PhD students, and advice on choosing and preparing for a PhD
+  or master’s thesis. Listeners will gain concrete guidance on research priorities
+  beyond raw performance (usability, energy, adoption), multidisciplinary collaboration,
+  data cleaning evaluation challenges, and steps to increase diversity in CS. Tune
+  in for actionable postdoc mentoring and PhD tips grounded in spatial big data and
+  stream processing research.
 ---
 
 Links:

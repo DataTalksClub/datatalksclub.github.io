@@ -1116,6 +1116,23 @@ transcript:
 description: 'Discover practical data science for SaaS: deploy ML, build marketing
   automation, define metrics and reduce churn—stakeholder tactics, tooling, and storytelling
   insights.'
+intro: 'How do you move data science from experiments to measurable impact in a SaaS
+  business? In this episode Loris Marini — CEO and founder of Discovering Data and
+  host of the Discovering Data podcast — walks through practical approaches to deploying
+  models, building marketing automation, and turning metrics into persuasive stories.
+  <br><br> Drawing on a journey "from physics to data science," Loris covers production
+  challenges for model deployment in SaaS, a marketing automation use case (recommendations
+  and reporting), and how applied research like reinforcement learning maps to real
+  problems. We dig into semantic alignment — defining "customer" and core metrics
+  — plus lead indicators, stickiness, churn, and causal thinking for product metrics.
+  Loris also shares tactics for onboarding stakeholders: stakeholder mapping, CRM-style
+  context capture, meeting immersion, and Notion-based note systems. He emphasizes
+  pragmatic tools (Excel, pivots), prioritizing high-connectivity opportunities, and
+  a conversation-first diagnostic before ML. Finally, learn data storytelling techniques,
+  building trust through active listening and business literacy, and where to find
+  further resources and community. <br><br> Listen to gain concrete strategies for
+  model deployment, marketing automation, measurement, and communicating data-driven
+  outcomes in SaaS.'
 ---
 
 Links:

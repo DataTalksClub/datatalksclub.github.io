@@ -2,14 +2,22 @@
 episode: 9
 guests:
 - gloriaquiceno
-intro: In this episode, Gloria Quiceno—Data Analyst turned Data Engineer at ICE—shares
-  her transition from neuroscience research to data engineering during the pandemic.
-  She talks about learning programming through tools like MATLAB and Python, joining
-  a data science bootcamp, and discovering her passion for building data pipelines.
-  Gloria discusses job-hunting strategies, Docker implementation for collaboration,
-  cloud tools like AWS and GCP, and why data quality and documentation are key to
-  success. You’ll learn practical advice on breaking into data roles, building strong
-  portfolios, and negotiating with confidence.
+intro: How do you go from neuroscience research to a data engineering role — and what
+  practical steps and skills actually get you hired? In this episode Gloria Quiceno,
+  Senior Analytics Engineer at ICE, walks through her transition from neuroscience
+  labs to rebuilding enterprise data platforms (including a BI rebuild that saved
+  €250K), and the concrete tools and tactics that landed her a data engineering job.
+  We cover her early lab automation and scripting experience, learning MATLAB/R and
+  Python, a first industry role as a business data analyst, and a four-month job-search
+  timeline from bootcamp graduation to offer. Gloria explains building reproducible
+  pipelines with Docker, orchestrating workflows with Airflow and AWS (including Step
+  Functions), designing ETL/ELT and Snowflake integrations, capstone projects like
+  a Twitter data pipeline, and volunteer ML practice with Omdena. She also shares
+  application strategy (tracking ~130 applications), handling live coding and take-home
+  interviews, GDPR recruitment rights, salary negotiation, and portfolio advice to
+  stand out. Listen to get actionable interview tips, portfolio project ideas, and
+  hands-on guidance for landing a data engineering job using bootcamps, Docker, Airflow,
+  and AWS.
 ids:
   anchor: From-Academia-to-Data-Analytics-and-Engineering---Gloria-Quiceno-e1ikrd8
   youtube: 0wANfIvum4U

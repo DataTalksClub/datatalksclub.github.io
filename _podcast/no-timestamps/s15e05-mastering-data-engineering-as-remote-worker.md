@@ -988,6 +988,23 @@ transcript:
   who: Alexey
 description: 'Master IoT platforms and data pipelines for remote work: hiring & onboarding
   tips, sensor architecture, and personal branding tactics to advance your career.'
+intro: 'How do you build reliable IoT platforms and end-to-end data pipelines while
+  hiring, onboarding, and staying visible as a remote data engineer? In this episode
+  José María Sánchez Salas — a computer scientist focused on data engineering and
+  author of a well-read data engineering newsletter — walks through practical answers
+  from his move from Spain to Norway to running IoT platform work remotely. <br><br>
+  We cover remote work routines and wellbeing, Norway’s remote-first hiring landscape
+  and geographic constraints (Oslo, Bergen, Trondheim), and the core responsibilities
+  of an IoT platform engineer: treating the platform as an “operating system” for
+  sensors, sensor onboarding workflows, real-time processing, and common IoT data
+  challenges like remote diagnostics and adding contextual business value. José explains
+  data exploration, ETL and pipeline patterns, stakeholder-driven platform design,
+  and tactics for translating technical work to non-technical audiences via a newsletter
+  — a tool he uses for personal branding and opportunity generation. You’ll also get
+  practical job-search resources, learning paths for data engineering, and tips on
+  legal/tax basics and communication skills for remote roles. Listen to learn concrete
+  strategies for building IoT systems, hiring and onboarding remotely, and using content
+  to advance your career.'
 ---
 
 Links:

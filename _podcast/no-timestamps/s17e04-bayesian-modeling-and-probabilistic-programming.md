@@ -1172,6 +1172,22 @@ transcript:
   who: Alexey
 description: Master Bayesian modeling, MCMC/HMC/NUTS and probabilistic programming
   with Hakaru & PyMC—learn sampling, priors, posteriors and practical model building.
+intro: 'How do you move from point estimates to full Bayesian models and pick the
+  right sampler for real problems? In this episode Rob Zinkov — machine learning engineer,
+  data scientist, and former lead developer of the Hakaru probabilistic programming
+  language — walks through mastering Bayesian modeling and probabilistic programming,
+  focusing on practical tools like MCMC, HMC/NUTS, sampling, Hakaru, and PyMC. <br><br>
+  We cover the core Bayesian workflow: priors, likelihoods, and posterior distributions;
+  why integrals become intractable and how numerical integration via sampling approximates
+  expectations; and the fundamentals of Markov chain Monte Carlo for exploring high‑probability
+  regions. Rob contrasts frequentist point estimates with Bayesian distributions,
+  explains composability and incremental model building in probabilistic languages,
+  and discusses language vs library design and Hakaru’s role in generating samplers.
+  You’ll hear a concrete PyMC rainfall model example, strategies for interpreting
+  posteriors, encoding spatial and hierarchical dependencies, and handling multimodality
+  and uncertainty. The episode closes with practical learning resources (PyMC book,
+  Statistical Rethinking) to support your self‑study. Tune in to get actionable guidance
+  on building, sampling, and refining Bayesian models.'
 ---
 
 Links:

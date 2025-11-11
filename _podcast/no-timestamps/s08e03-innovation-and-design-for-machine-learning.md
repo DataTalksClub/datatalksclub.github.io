@@ -2,14 +2,22 @@
 episode: 3
 guests:
 - liesbethdingemans
-intro: In this episode, Liesbeth Dingemans—AI strategy and innovation leader—explains
-  how design thinking can transform how AI teams build products. She introduces the
-  concept of algorithm-friendly design, where systems are structured to collect sharper
-  user signals and improve model performance. Liesbeth walks through tools like the
-  Double Diamond framework, Google PAIR, and design sprints, showing how to define
-  problems effectively, eliminate weak solutions through experimentation, and drive
-  radical innovation beyond incremental OKRs. You’ll learn how design and data can
-  work together to create AI systems that are both intelligent and human-centered.
+intro: How do you design products that are “algorithm-ready” while running rapid experiments
+  and building data-driven roadmaps? In this episode Liesbeth Dingemans—strategy and
+  AI leader, founder of Dingemans Consulting, former VP of Revenue at Source.ag and
+  Head of AI Strategy at Prosus—walks through pragmatic approaches to AI product design
+  that bridge vision and execution. <br><br> We cover algorithm-friendly UX and signal
+  collection, a concrete interaction-design case study comparing TikTok and Instagram
+  signals, and the Double Diamond framework for moving from problem framing to solution
+  exploration. Liesbeth explains scoping and prioritization, parallel experiments
+  and proofs of concept, one-week design sprints, appropriate timeframes for research-to-scale,
+  and the role of designers, data scientists, engineers and product managers in shaping
+  AI roadmaps. <br><br> Listeners will learn how to avoid rework by involving data
+  science early, use scoping documents to challenge assumptions, create measurable
+  experiments (the Task Force/“Jet Ski” model), and build data-driven pitches for
+  long-term bets versus quarterly OKRs. Tune in for concrete frameworks and practices
+  to make AI product design, rapid experiments, and data-driven roadmaps work in your
+  organization.
 ids:
   anchor: Innovation-and-Design-for-Machine-Learning---Liesbeth-Dingemans-e1gq0en
   youtube: tcqBfZw41FM

@@ -1267,6 +1267,22 @@ transcript:
 description: Learn Textual, Rich, and open source strategies to build terminal UIs
   in Python and turn projects into a startup - fundraising, community growth, hosting
   tips.
+intro: How do you build expressive terminal UIs in Python and turn open source work
+  into a sustainable company? In this episode Will McGugan — a software engineer from
+  Edinburgh and creator of PyFilesystem, Rich, and Textual — walks through that exact
+  journey. We cover his career path from game development to founding Textualize,
+  the origins of projects born from solving personal problems, and early libraries
+  like BBCode parsers and chess tools. <br><br> Listen for deep technical discussion
+  about PyFilesystem and S3 integration (S3Fs and Pandas workflows), Rich’s capabilities
+  for terminal styling, tables, progress bars and observability-focused log formatting,
+  and how Textual layers on Rich to enable full terminal GUIs. Will also explains
+  the transition from open source maintainer to founder — pre-seed fundraising after
+  tweeting, building in public, community growth, hiring early team members, product
+  roadmap, and a hosting-based business model with a generous free tier (Streamlit-style
+  positioning). Practical takeaways include development workflow, recruiting via open
+  source contributions, community channels, and advice for new OSS authors. If you
+  build Python CLI tools or want to commercialize open source, this episode offers
+  concrete technical and business insights.
 ---
 
 Links:

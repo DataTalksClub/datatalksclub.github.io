@@ -1263,6 +1263,20 @@ transcript:
 description: Discover MLOps tactics to prioritize data products, run A/B testing and
   enable model monitoring for faster validation, reliable rollouts and stakeholder
   buy-in.
+intro: How do you prioritize data product work, validate models in production, and
+  keep them monitored without overwhelming stakeholders? In this episode Ioannis Mesionis,
+  Lead Data Scientist at easyJet and head of their MLOps efforts, walks through a
+  practical data product operating model for tackling those challenges. <br><br> Drawing
+  on his cross‑functional work with Digital, Customer & Marketing, Ioannis explains
+  a four‑phase funnel with a "single front door" intake, a Definition of Done template
+  with KPIs and fail‑fast checks, and an inception process that includes EDA and GDPR
+  feasibility. He breaks down when to treat work as analytics vs. research, how R&D
+  sprints and Kanban feed into pilot and A/B testing against baseline KPIs, and strategies
+  for production rollout as MLOps capabilities evolve. Technical tooling and monitoring
+  get concrete coverage — MLflow, Prefect/Airflow, and using Evidently for drift detection
+  — plus pragmatic dashboarding and alerting patterns. Listeners will come away with
+  actionable guidance on prioritization, designing A/B tests, model monitoring, stakeholder
+  engagement, and the estimation and cadence practices that make ML teams productive.
 ---
 
 Links:

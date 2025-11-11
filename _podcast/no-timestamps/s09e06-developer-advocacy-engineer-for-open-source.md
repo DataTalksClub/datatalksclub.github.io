@@ -1088,6 +1088,22 @@ transcript:
   who: Alexey
 description: 'Build an NLP portfolio on Hugging Face: contribute to open source, publish
   datasets, deploy Spaces demos, gain PR skills and boost hiring odds.'
+intro: 'How do you go from beginner projects to contributing to Hugging Face and building
+  an visible NLP portfolio? In this episode Merve Noyan — Google Developer Expert
+  in Machine Learning, grad student in Data Science, and NLP-focused ML engineer —
+  walks through practical steps for contributing to open source, datasets, and Hugging
+  Face Spaces. <br><br> We cover Merve’s transition into NLP, finding open source
+  via contribution sprints and good-first issues, and the nuts-and-bolts of datasets
+  work: canonical datasets, scripts, and CI. Learn how the Hub, TensorFlow & Keras
+  integrations, and model reproducibility features support a reproducible workflow
+  and model registry concepts. Merve explains creating demo apps with Streamlit or
+  Gradio on Spaces, using the Community tab and forums, and how workshops and sprints
+  build confidence. <br><br> You’ll also get concrete advice on starting contributions
+  while working full-time, non-code contributions, structured programs like Google
+  Summer of Code and Hacktoberfest, handling PR feedback, and what hiring managers
+  look for on GitHub. Tune in to walk away with actionable steps to contribute to
+  Hugging Face, publish datasets and demos, and build an NLP portfolio recruiters
+  can evaluate.'
 ---
 
 Links:

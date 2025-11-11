@@ -981,6 +981,22 @@ transcript:
 description: Learn ML tactics for sepsis prediction and low-resource monitoring with
   clinical translation tips—deployment, validation, clinician adoption to accelerate
   impact.
+intro: 'How do you move machine learning from promising models to reliable tools that
+  work in low-resource hospitals — and what does it take to predict conditions like
+  sepsis from routinely collected vitals? In this episode we speak with Eleni Stamatelou,
+  a machine learning researcher focused on healthcare whose path spans the University
+  of Patras, Erasmus exchanges, work at VUB/ULB, a Philips Healthcare internship and
+  a doctorate in data science. Eleni’s work ranges from C‑arm 3D reconstruction and
+  white blood cell image classification to home pregnancy monitoring and a vital‑sign
+  system deployed for pediatric care in Malawi. <br><br> We dig into practical topics:
+  designing sensors and linking them to lab outcomes, ballistography signal denoising
+  and U‑Net heart‑rate estimation, the tradeoffs between signal‑processing and deep
+  learning approaches, and a sepsis prediction use case built from vitals and clinical
+  data. We also cover clinical translation challenges — annotation scarcity, explainability,
+  validation timelines, population generalization, and on‑device versus cloud deployment
+  constraints. Listen to understand the technical and clinical steps needed to build,
+  validate and deploy ML in healthcare and how to navigate a career in healthcare
+  data science.'
 ---
 
 Links:

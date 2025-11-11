@@ -19,6 +19,22 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Mentoring---Rahul-Jain-eo7cmu
   spotify: TODO
   apple: TODO
+intro: How do you find a mentor, turn mentoring into paid work, and grow as a technical
+  leader? In this episode Rahul Jain—Senior Solutions Engineer at Snowflake with 15+
+  years in data and AI—walks through practical steps for mentorship and leadership
+  development grounded in his career from mining engineering to data engineering and
+  management. We define mentoring (purpose, types, sponsorship), explore ways to find
+  a mentor via networks, cold outreach, and platforms, and share cold outreach best
+  practices like specificity, background, and follow‑up. Rahul outlines how to prepare
+  effective mentoring sessions (goals, agendas), compares one‑off advice to long‑term
+  relationships, and covers benefits of being a mentor including listening and pattern
+  recognition. Listeners will also learn people‑skills essentials (empathy, avoiding
+  the “advice monster”), balancing technical work with leadership, addressing common
+  mentee challenges like imposter syndrome, and when to use external coaches. Practical
+  guidance on setting boundaries, starting paid mentorship, pricing and accountability,
+  building reciprocal relationships, and maintaining development plans rounds out
+  the episode—ideal for engineers and aspiring technical leaders seeking actionable
+  mentoring and career growth strategies.
 ---
 
 Today we're discussing mentoring with [Rahul Jain](/people/rahuljain.html), a technical leader with about 20 years of experience building and running software products. He currently leads the Business Intelligence and Data Engineering units at Omio, a ticket-booking company, and mentors engineers and managers through The Mentoring Club.

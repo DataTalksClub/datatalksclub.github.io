@@ -26,6 +26,23 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Getting-Started-with-Open-Source---Vincent-Warmerdam-epk60j
   spotify: https://open.spotify.com/episode/1dsbDeVncfsEg3m3cYB927
   apple: https://podcasts.apple.com/us/podcast/getting-started-with-open-source-vincent-warmerdam/id1541710331?i=1000507024598
+intro: 'How do you start contributing to open source ML projects like scikit-learn
+  pipelines—or move from curious user to confident contributor on Rasa’s conversational
+  AI stack? In this episode Vincent Warmerdam, Research Advocate at Rasa and creator
+  of The Algorithm Whiteboard and calmcode.io, walks through practical, hands-on advice
+  for contributing to open source ML. <br><br> Vincent shares his career pivot from
+  design student to data scientist and highlights projects (evol, clumper, memo, whatlies,
+  scikit-lego) that illustrate small-tools-to-impact workflows. We deep-dive into
+  scikit-learn–compatible pipeline components, design principles for low-maintenance
+  APIs, and common mistakes such as publishing to PyPI too early. You’ll get a documentation
+  checklist (README, guides, API reference, examples), guidance on filing reproducible
+  issues, and step-by-step preparation for pull requests: testing, CI, packaging,
+  and pre-commit hooks. <br><br> Listeners will leave with concrete strategies for
+  finding the right project, balancing large vs. small repositories, community stewardship
+  and contribution etiquette, and ways OSS work can boost career visibility through
+  talks, blogs, and meetups. If you want actionable next steps for contributing to
+  open source ML, scikit-learn pipelines, PRs, docs, or Rasa conversational AI, this
+  episode maps the path.'
 ---
 
 Today we're talking open source with our guest, **Vincent Warmerdam**. Vincent is a Research Advocate at Rasa. If you check his LinkedIn, you'll see a lot: he's made Reddit's front page, runs calmcode.io for learning to code, has organized PyData Amsterdam and AI Saturdays Amsterdam, and he's a data evangelist and open-source enthusiast who's created and maintains several open-source packages. And—last but not least—he has over 80 LinkedIn endorsements for "awesomeness." Welcome, Vincent!

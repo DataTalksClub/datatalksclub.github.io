@@ -1075,6 +1075,23 @@ transcript:
   who: Alexey
 description: Discover Staff AI Engineer interview prep, MLOps & onboarding tactics
   to transition from academia—coding strategies, system design, mentorship for impact.
+intro: 'How do you transition from academia into a Staff AI Engineer role while nailing
+  interview prep, MLOps, and onboarding? In this episode Tatiana Gabruseva — a computer
+  vision/deep learning engineer, Kaggle Competitions Master, and Senior ML Engineer
+  at Cork University Hospital — walks through her shift from physics and healthcare
+  research into industry engineering leadership. <br><br> We cover practical, concrete
+  topics listeners can use: the onboarding shock she experienced at LinkedIn and how
+  to prioritize learning; ramping up production stacks (Scala, Spark, Kubernetes);
+  the Staff AI Engineer remit of opinion-setting, cross-functional influence, and
+  strategy; and staff engineer archetypes (deep specialist, cross-team advisor, hands-on
+  mentor). Tatiana explains how to translate academic leadership, grants, and research
+  into industry roadmaps, how mentorship accelerates onboarding, and how to convince
+  employers with applied projects and collaborations. <br><br> For candidates she
+  shares interview prep tactics — LeetCode coding plans, ML and system design prep,
+  mock interviews, networking and referrals, and reframing rejections — plus real-world
+  involvement in MLOps, ETL pipelines, and heavy code review. Tune in to learn actionable
+  steps for moving from academia to a staff engineering role and succeeding in interviews,
+  onboarding, and production ML.'
 ---
 
 Links:

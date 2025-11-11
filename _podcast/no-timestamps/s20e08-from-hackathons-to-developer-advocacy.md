@@ -1433,6 +1433,23 @@ transcript:
   who: Alexey
 description: 'Master hackathons, MLH Fellowship & onboarding: organize events, judge
   with scoring matrices, scale open-source mentorships to onboard hireable contributors.'
+intro: How do you run hackathons and scale MLH‑style open source fellowships while
+  actually getting contributors onboarded, mentored, and judged fairly? In this episode
+  Will Russell — Developer Advocate at Kestra who previously built open source education
+  programs — walks through practical approaches to organizing hackathons and fellowship
+  programs that move people from first contribution to sustained involvement. <br><br>
+  We cover formats and online tools for running events, leadership and soft skills
+  for coordination, judging strategies (scoring matrices, categories, tie‑breakers),
+  and sponsor‑driven challenges. Will shares the MLH Fellowship mentorship model,
+  contribution best practices (PR quality, Git skills), and concrete onboarding tactics
+  for complex repos — including environment setup, maintainer collaboration, and cloud
+  workarounds like Colab and VMs. A Willmojis case study highlights image recognition
+  and demo workflow ideas. The conversation also addresses program scalability, budgets,
+  accessibility for students and career changers, and how developer advocacy, documentation,
+  and video demos support adoption. <br><br> Listen to learn actionable frameworks
+  for organizing hackathons, onboarding contributors, and scaling MLH‑style open source
+  fellowships so your program produces real contributions and sustainable community
+  growth.
 ---
 
 Links:

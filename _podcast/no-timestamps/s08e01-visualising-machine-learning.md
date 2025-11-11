@@ -2,13 +2,22 @@
 episode: 1
 guests:
 - meoramer
-intro: In this episode, Meor Amer—Developer Relations professional at Cohere and author
-  of A Visual Introduction to Deep Learning—explains how to make complex machine learning
-  ideas intuitive through visuals. He shares how he founded kDimensions to “visualize
-  the verb” behind AI concepts, drawing inspiration from Jack Butcher’s Visualize
-  Value and applying principles like creativity through constraint and message-over-aesthetics
-  design. You’ll learn his process for creating educational ML visuals in Figma, turning
-  ideas into shareable content, and teaching AI concepts that connect logic with emotion.
+intro: 'How do you teach machine learning so people build intuition before diving
+  into math? In this episode Meor Amer—educator, author, and Developer Relations at
+  Cohere—walks through a visual-first approach to machine learning that makes concepts
+  accessible and actionable. Drawing on his journey from bioengineering and telecom
+  analytics to founding kDimensions and writing A Visual Introduction to Deep Learning,
+  Meor explains why visual machine learning and dimensionality reduction matter and
+  how templates can scale understanding. <br><br> We cover practical workflows: generating
+  ideas (visualize the verb, use metaphors like the catapult and airplane), design
+  constraints that spark creativity, and a sketchbook → Figma pipeline for engineers
+  that emphasizes message over aesthetics. Meor shares posting cadence for LinkedIn
+  visuals, how to map ML problems (classification, regression, clustering, anomaly,
+  RL) to templates, and hands‑on learning techniques—consume with intent, break and
+  modify code. He also discusses monetizing visual design services and turning articles
+  into key visuals using 4–5 keywords. <br><br> Listen to learn concrete techniques
+  for ML visualization, Figma for engineers, and creating reusable templates that
+  build intuition and make machine learning teachable.'
 topics:
 - machine learning
 - education

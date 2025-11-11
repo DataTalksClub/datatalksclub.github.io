@@ -1000,6 +1000,23 @@ transcript:
   who: Alexey
 description: 'Learn to build data pipelines and deploy ML on AWS: productionize notebooks,
   cut ops risk, choose cost‑effective serving and orchestration.'
+intro: 'How do you move models out of notebooks and into reliable production data
+  pipelines using AWS, Kafka, and streaming architectures? In this episode Andreas
+  Kretz — the “Plumber of Data Science” — walks through the practical steps engineers
+  and data scientists need to productionize notebooks and deploy ML systems. <br><br>
+  Andreas, a data engineer focused on platform architecture, explains why data engineering
+  demand is rising and why teams should hire both a data scientist and engineer early.
+  We cover the anatomy of data pipelines — ingestion (events, Kafka/Kinesis), buffering,
+  processing (streaming vs. batch), storage (Parquet on S3) and visualization — plus
+  processing frameworks like Spark, Flink, Glue, and Docker jobs. Andreas outlines
+  a pragmatic stack for scientists: Python, Docker, Flask/FastAPI for prototypes,
+  and how to choose orchestration and scheduling (Lambda/CloudWatch, Airflow, Kubernetes,
+  message queues). You’ll also hear about inference strategies, SageMaker endpoints
+  vs precomputed predictions, model storage, and operational trade-offs. <br><br>
+  Listen to gain actionable guidance on building data pipelines, deploying ML on AWS,
+  selecting tools, and getting from prototype to production with minimal operational
+  risk. Find practical learning paths and project ideas to accelerate your data engineering
+  skills.'
 ---
 
 

@@ -1153,6 +1153,22 @@ transcript:
   who: Johannes
 description: Discover weak supervision, NLP labeling & GPT heuristics to build high-quality
   datasets faster — combine Refinery, Bricks, ensemble heuristics & active learning.
+intro: 'How can teams scale high-quality NLP labeling without hand-labeling every
+  example? In this episode Johannes Hötter, data scientist, engineer, and co-founder
+  of kern, explains practical approaches to that problem using weak supervision, heuristics,
+  and open-source tooling. We walk through demos of Refinery and Bricks, with a close
+  look at Refinery’s weak supervision and labeling workflows, and why Jupyter widgets
+  leave a gap for NLP tooling. <br><br> You’ll hear about common NLP challenges—messy
+  labels and text metadata—and how ChatGPT can be used as a labeling heuristic. Johannes
+  outlines combining heuristics: GPT-driven rules, active learning, and crowd labels
+  as an ensemble of “workers,” plus foundations like Hugging Face, embeddings, and
+  robust data management. Bricks is presented as a heuristic library with recipes
+  and ensemble methods to streamline labeling. <br><br> The conversation also covers
+  productization choices (open-source vs commercial), targeting engineers, enterprise
+  workflows, community support, and niche document/PDF NLP issues. Listen to learn
+  actionable strategies to improve NLP labeling quality, adopt weak supervision and
+  GPT heuristics, and make tooling and go-to-market decisions for scalable data labeling
+  and model training.'
 ---
 
 Links:
