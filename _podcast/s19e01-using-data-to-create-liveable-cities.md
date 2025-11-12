@@ -791,7 +791,7 @@ description: Discover urban transport data, real-time monitoring and demand fore
   ops.
 intro: How can urban transport data and AI be combined to enable real-time monitoring,
   accurate demand forecasting, and reliable data pipelines for city operations and
-  planning? In this episode Rachel Lim, an urban data scientist with a geography background
+  planning? In this episode, Rachel Lim, an urban data scientist with a geography background
   and a master’s in urban data science, walks through practical approaches that bridge
   urban design and data engineering. We cover the core data sources—GPS, sensors,
   fare card systems, ride‑hailing feeds—and where computer vision complements missing

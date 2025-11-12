@@ -863,7 +863,7 @@ description: 'Learn data governance in the cloud: build data classification, cat
   & policies, automate tagging, add stewards and measure ROI for trusted, compliant
   data'
 intro: 'How do you build data governance in the cloud that enables access, meets regulation,
-  and demonstrates ROI? In this episode Jessi Ashdown, Senior UX Researcher for Google
+  and demonstrates ROI? In this episode, Jessi Ashdown, Senior UX Researcher for Google
   Cloud, and Uri Gilad, Product Manager for Data Governance at Google Cloud, walk
   through practical approaches to data governance in the cloud—grounded in real user
   research and product experience. <br><br> They define governance beyond security

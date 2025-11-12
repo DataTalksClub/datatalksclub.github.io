@@ -1020,7 +1020,7 @@ description: 'Discover algorithmic trading & mean reversion: practical backtesti
   data APIs, risk management, model choices and trade execution to boost strategy
   ROI.'
 intro: 'How do you build, backtest, and deploy a robust mean-reversion algorithm without
-  falling prey to bad data or time‑series leakage? In this episode Ivan Brigida —
+  falling prey to bad data or time‑series leakage? In this episode, Ivan Brigida —
   Analytics Lead and creator of PythonInvest — draws on 10+ years in business intelligence,
   econometrics, forecasting, machine learning and finance to answer that question.
   <br><br> We walk through practical steps for algorithmic trading: choosing retail-friendly

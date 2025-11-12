@@ -966,7 +966,7 @@ description: Discover wastewater metagenomics knowledge graphs & AlphaFold-drive
   network inference using open-source bioinformatics tools to map microbes and cut
   lab tests.
 intro: How can wastewater metagenomics and knowledge graphs reveal microbial interactions
-  while reducing wet‑lab experiments? In this episode Sebastian Ayala Ruano — a bioinformatics
+  while reducing wet‑lab experiments? In this episode, Sebastian Ayala Ruano — a bioinformatics
   software developer and Master’s student in Systems Biology — walks through his wastewater
   microbiome knowledge graph thesis and open‑source tooling for multi‑omics analysis.
   <br><br> We cover metagenomics workflows from sequencing and abundance tables to

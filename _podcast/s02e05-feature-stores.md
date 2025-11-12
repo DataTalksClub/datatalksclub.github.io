@@ -28,7 +28,7 @@ links:
   spotify: https://open.spotify.com/episode/05YnfTWbplXwOwicR2doy3
   apple: https://podcasts.apple.com/us/podcast/feature-stores-cutting-through-the-hype-willem-pienaar/id1541710331?i=1000508782957
 intro: How do you reliably build and serve real‑time features for production ML without
-  rework, duplication, or training/serving skew? In this episode Willem Pienaar —
+  rework, duplication, or training/serving skew? In this episode, Willem Pienaar —
   engineering lead at Tecton and creator of Feast — walks through what feature stores
   solve in MLOps and how they enable real‑time feature engineering. We define feature
   stores, compare feature creation vs retrieval (SQL, Python, APIs, on‑demand transforms),

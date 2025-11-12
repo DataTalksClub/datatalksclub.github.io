@@ -932,7 +932,7 @@ transcript:
 description: Discover how a data translator bridges management and tech to drive data-driven
   growth—practical data strategy, forecasts, prototypes, and team alignment.
 intro: 'How do you bridge the gap between data teams and management so analytics actually
-  drives growth? In this episode Lior Barak — author of "Data is Like a Plate of Hummus,"
+  drives growth? In this episode, Lior Barak — author of "Data is Like a Plate of Hummus,"
   co-host of WHAT the Data?! and founder of Tale About Data with 12+ years building
   data teams — lays out the role of a data translator: a product-minded strategist
   who converts technical outputs into business-aligned action. <br><br> We explore

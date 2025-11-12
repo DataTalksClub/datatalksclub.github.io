@@ -1450,7 +1450,7 @@ description: 'Discover FinTech data analytics curriculum: fraud detection, BigQu
   guidance.'
 intro: 'How do you design a FinTech data analytics curriculum that teaches fraud detection,
   chargeback modeling, and real-world cloud skills while also mentoring diverse learners?
-  In this episode Irina Brudaru — Head of Data & Analytics at Finlex, former Google
+  In this episode, Irina Brudaru — Head of Data & Analytics at Finlex, former Google
   data leader, and long-time mentor and teacher — walks through building practical
   FinTech courses informed by industry experience across Berlin, Amsterdam and the
   Bay Area. <br><br> We cover curriculum components you can reuse: rule‑based vs neural

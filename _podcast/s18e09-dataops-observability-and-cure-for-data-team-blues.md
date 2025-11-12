@@ -5,7 +5,7 @@ guests:
 description: Learn DataOps best practices for observability, CI/CD and deployment
   automation to reduce rework, boost model reliability and speed analytics delivery.
 intro: How do you move data teams from fragile, firefighting workloads to reliable,
-  automated production? In this episode Christopher Bergh of DataKitchen walks through
+  automated production? In this episode, Christopher Bergh of DataKitchen walks through
   his career journey from software engineering to data entrepreneurship and tackles
   that exact challenge through the lens of DataOps. <br><br> You’ll hear a clear definition
   of DataOps and why it matters—covering pre-cloud data engineering pain points, early

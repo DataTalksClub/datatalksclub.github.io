@@ -1156,7 +1156,7 @@ transcript:
 description: 'Master reproducible research for neuroimaging: packaging, MLflow & data
   sharing to publish reproducible manuscripts, boost citations and career visibility.'
 intro: 'How do you teach reproducible research and practical research software engineering
-  (RSE) skills to neuroimaging students and researchers? In this episode Johanna Bayer
+  (RSE) skills to neuroimaging students and researchers? In this episode, Johanna Bayer
   — a psychologist-turned-computational neuroscientist completing a PhD in machine
   learning for clinical neuroimaging at the University of Melbourne and an open science
   advocate — walks through concrete approaches for teaching reproducible research.

@@ -1042,7 +1042,7 @@ transcript:
 description: Discover KPI design, metrics strategy & ROI proof - avoid vanity metrics,
   build dashboards, prioritize impact, and measure experiments to prove value.
 intro: How do you design KPIs that prioritize real impact, avoid vanity metrics, and
-  actually prove ROI? In this episode Dr. Adam Sroka — Head of Machine Learning Engineering
+  actually prove ROI? In this episode, Dr. Adam Sroka — Head of Machine Learning Engineering
   at Origami Energy, with a background from a Physics PhD to data science, reinforcement
   learning, and consultancy — walks through a practical metrics strategy for data
   and product teams. <br><br> We cover why metrics matter (Drucker, merit functions),

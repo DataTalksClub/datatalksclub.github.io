@@ -1088,7 +1088,7 @@ description: Master churn prediction with explainable AI and MLOps—learn ABI t
   interpretable feature design, and deploy actionable models to reduce subscription
   loss.
 intro: How do you turn churn prediction research into models that business teams trust
-  and can act on? In this episode Polina Mosolova — a data scientist at SAP who completed
+  and can act on? In this episode, Polina Mosolova — a data scientist at SAP who completed
   an industrial PhD building end‑to‑end ML pipelines — walks through her applied framework
   for churn prediction that integrates explainable AI with organizational trust theory.
   <br><br> We cover Polina’s journey from full‑stack data scientist to MLOps specialization,

@@ -1040,7 +1040,7 @@ transcript:
 description: 'Master data science career change with a 4-pillar job search: informational
   interviews, resume strategy & specialization tips to land your role.'
 intro: 'Facing a career change into data science but unsure how to structure your
-  job search, networking, and informational interviews? In this episode Sarah Mestiri
+  job search, networking, and informational interviews? In this episode, Sarah Mestiri
   — data scientist and certified career & interview coach with 6+ years in tech (international
   companies, FIS, startups) — breaks down a practical Four‑Pillar Job Search Framework:
   goals, networking, CV, and strategy. Sarah draws on her transition from full‑stack

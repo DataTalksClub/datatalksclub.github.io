@@ -1154,7 +1154,7 @@ transcript:
 description: 'Learn retail fraud detection with real-time scoring and MLOps: build
   data pipelines, graph investigations, and instant cashier decisions to cut losses.'
 intro: How do you build data infrastructure that stops stolen-card transactions and
-  return abuse in real time? In this episode Angela Ramirez, a Sam’s Club data engineer
+  return abuse in real time? In this episode, Angela Ramirez, a Sam’s Club data engineer
   who moved from Sephora and specializes in machine learning for fraud prevention,
   walks through the engineering behind retail fraud detection. Drawing on her background
   in NLP and four years as a data engineer, Angela explains pipelines, feature engineering

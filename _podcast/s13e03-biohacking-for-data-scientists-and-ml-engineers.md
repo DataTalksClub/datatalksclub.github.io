@@ -1424,7 +1424,7 @@ transcript:
 description: Discover actionable biohacks for sleep and dopamine to boost productivity
   with 90-min cycles, morning light, habit tracking and energy-focused routines.
 intro: How do small, science-aligned biohacks actually move the needle on focus and
-  productivity? In this episode Ruslan Shchuchkin, a Berlin-based data scientist who
+  productivity? In this episode, Ruslan Shchuchkin, a Berlin-based data scientist who
   transitioned from business/marketing into data science after experimenting with
   many techniques to stay focused, walks through practical, evidence-minded strategies
   for improving performance. We cover the root causes of procrastination and perfectionism,

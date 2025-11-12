@@ -1064,7 +1064,7 @@ transcript:
 description: Learn nonprofit analytics and data maturity strategies to build teams,
   choose tools and optimize programs-practical roadmaps, case studies, and open resources.
 intro: How can nonprofits move from basic reporting to optimization using analytics
-  while building the right teams, tools, and governance? In this episode Parvathy
+  while building the right teams, tools, and governance? In this episode, Parvathy
   Krishnan, CTO at Analytics for a Better World and professional doctorate in data
   science, walks through practical steps for building data maturity in the social
   sector. Drawing on discovery workshops, fellowship pilots (including a waste-collection

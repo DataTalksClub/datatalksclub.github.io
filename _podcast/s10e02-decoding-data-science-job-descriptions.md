@@ -1135,7 +1135,7 @@ transcript:
   time: '1:00:26'
   who: Tereza
 intro: 'How can you tell if a "data scientist" job is really a data engineering role
-  — or a mismatched hire waiting to happen? In this episode Tereza Iofciu, PhD and
+  — or a mismatched hire waiting to happen? In this episode, Tereza Iofciu, PhD and
   seasoned data practitioner, walks through practical ways to spot misleading data
   job titles, hiring red flags, and how to build clearer, healthier data teams. Tereza
   brings experience across data science manager, data scientist, data engineer and

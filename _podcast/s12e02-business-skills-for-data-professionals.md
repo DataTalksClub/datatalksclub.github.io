@@ -1126,7 +1126,7 @@ description: 'Discover practical data science for SaaS: deploy ML, build marketi
   automation, define metrics and reduce churn—stakeholder tactics, tooling, and storytelling
   insights.'
 intro: 'How do you move data science from experiments to measurable impact in a SaaS
-  business? In this episode Loris Marini — CEO and founder of Discovering Data and
+  business? In this episode, Loris Marini — CEO and founder of Discovering Data and
   host of the Discovering Data podcast — walks through practical approaches to deploying
   models, building marketing automation, and turning metrics into persuasive stories.
   <br><br> Drawing on a journey "from physics to data science," Loris covers production

@@ -1168,7 +1168,7 @@ description: 'Discover LLM deployment tactics: fine-tuning, retrieval and open-s
   vs API tradeoffs to cut latency, control costs, and ground production models.'
 intro: 'How do you take large language models from experiment to reliable production—balancing
   fine-tuning, retrieval strategies, and the tradeoffs between open‑source models
-  and API services? In this episode Meryem Arik, a recovering physicist and co‑founder
+  and API services? In this episode, Meryem Arik, a recovering physicist and co‑founder
   of TitanML, walks through practical choices for LLM deployment based on her pivot
   from computer vision to building tools that make models smaller, cheaper, and easier
   to run in production. <br><br> We cover model fundamentals and selection (classification

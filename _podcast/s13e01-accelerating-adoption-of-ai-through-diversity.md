@@ -1173,7 +1173,7 @@ description: Discover how to build and scale a data science community, boost div
   deploy ML, and accelerate career growth with mentoring & hiring strategies.
 intro: 'How do you build and scale a data science community that actually advances
   diversity, supports machine learning deployment, and accelerates career growth?
-  In this episode Dânia Meira — AI Guild co‑founder, data scientist, teacher and speaker
+  In this episode, Dânia Meira — AI Guild co‑founder, data scientist, teacher and speaker
   with a Master’s in Computer Science (AI) — walks through her journey from applied
   math and marketing analytics to founding a global data science community in Berlin.
   <br><br> We cover practical community building: turning women’s meetups into monthly

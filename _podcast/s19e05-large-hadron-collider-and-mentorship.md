@@ -900,7 +900,7 @@ description: Discover research software engineering, data science, and mentorshi
   strategies from a collider physicist - interview prep, CI/CD practices, and career-shift
   tips.
 intro: 'How do you pivot from collider physics to industry data science while mastering
-  research software engineering, interview prep, and mentorship? In this episode Anastasia
+  research software engineering, interview prep, and mentorship? In this episode, Anastasia
   Karavdina — a particle physicist turned data scientist with experience at Large
   Hadron Collider experiments, Blue Yonder, and Kaufland e‑commerce — walks through
   that transition and the concrete skills that made it possible. <br><br> We unpack

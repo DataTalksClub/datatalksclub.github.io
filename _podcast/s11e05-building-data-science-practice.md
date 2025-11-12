@@ -959,7 +959,7 @@ description: 'Discover Industrial AI tactics, MLOps & sensorization to scale pro
   hub-and-spoke data teams, proving value, tooling and career steps to productionize
   ML.'
 intro: How do you move industrial AI from pilots to production at scale while keeping
-  MLOps, sensorization, and organizational design aligned? In this episode Andrey
+  MLOps, sensorization, and organizational design aligned? In this episode, Andrey
   Shtylenko, Director of Engineering at Honeywell and head of the Advanced Technology
   Group, walks through practical approaches to scaling industrial AI across healthcare,
   industrial, and logistics verticals. Drawing on Honeywell use cases in smart sensors,

@@ -1086,7 +1086,7 @@ transcript:
 description: Learn practical NLP teams hiring, production pipelines and MLOps tradeoffs—GPT-3
   & spaCy tactics to deploy, monitor and scale reliable LLM systems.
 intro: How do you structure an NLP team and build reliable production pipelines while
-  weighing the tradeoffs between GPT‑3 and in‑house models? In this episode Ivan Bilan,
+  weighing the tradeoffs between GPT‑3 and in‑house models? In this episode, Ivan Bilan,
   Engineering Manager at Personio working on Identity and Access Management, walks
   through practical answers from his transition from linguistics to production NLP
   and MLOps. <br><br> We cover hiring and team models (centralized vs cross‑disciplinary),

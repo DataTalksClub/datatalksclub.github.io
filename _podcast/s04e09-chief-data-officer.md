@@ -999,7 +999,7 @@ transcript:
 description: Learn how Chief Data Officers build data strategy, org design and roadmaps—get
   tactics on governance, KPIs, delegation, career growth and remote leadership.
 intro: 'How do you move from head of data to an effective Chief Data Officer who builds
-  strategy, designs the org, and delivers AI? In this episode Marco De Sa — CDO at
+  strategy, designs the org, and delivers AI? In this episode, Marco De Sa — CDO at
   OLX Group with prior data leadership roles at Yahoo, Facebook, Twitter, and Spotify
   — lays out what modern data leadership really requires. <br><br> We explore the
   evolving CDO scope: data strategy, governance, and AI; balancing vision versus tactics;

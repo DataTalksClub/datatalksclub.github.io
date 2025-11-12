@@ -1226,7 +1226,7 @@ transcript:
 description: 'Learn a one-year roadmap from postdoc to data science lead: machine
   learning foundations, Docker deployment, resume and hiring tips to land jobs.'
 intro: 'How do you go from a postdoc to a data science lead while mastering machine
-  learning foundations and deployment? In this episode CJ Jenkins — a PhD-turned-data
+  learning foundations and deployment? In this episode, CJ Jenkins — a PhD-turned-data
   science lead working on credit risk modeling, with published research and a textbook
   used in academia — walks through that transition. We trace CJ’s roots in evolutionary
   biology and genomics, the statistical ML foundations (GLMs, population dynamics),

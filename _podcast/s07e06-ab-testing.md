@@ -7,7 +7,7 @@ title: 'Product Analytics & A/B Testing: Causality, Metrics, Power Analysis, A/A
 description: 'Master product analytics, A/B testing & power analysis: design stable
   metrics, validate randomization with A/A tests, plan sample size to de-risk features.'
 intro: How do you design product experiments that truly establish causality and avoid
-  costly false conclusions? In this episode Jakob Graff — Director of Data Science
+  costly false conclusions? In this episode, Jakob Graff — Director of Data Science
   and Data Analytics at diconium, with prior analytics leadership at Inkitt, Babbel,
   King and a background in econometrics — walks through practical product analytics
   and A/B testing strategies focused on causality and reliable metrics. <br><br> We

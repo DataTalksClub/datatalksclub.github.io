@@ -1103,7 +1103,7 @@ transcript:
 description: Learn attribution, media mix modeling & cookieless tracking to measure
   uplift, TV/offline impact and automate MMM for faster acquisition & retention
 intro: How can marketing teams reliably measure ad impact, allocate budget across
-  channels, and adapt to a cookieless world? In this episode Juan Orduz — a Berlin‑based
+  channels, and adapt to a cookieless world? In this episode, Juan Orduz — a Berlin‑based
   mathematician and data scientist specializing in statistical learning, time series,
   Bayesian and geometric methods — walks through practical marketing data science
   approaches for attribution, media mix modeling (MMM), uplift modeling, and cookieless

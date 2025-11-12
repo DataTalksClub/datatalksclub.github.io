@@ -3,7 +3,7 @@ episode: 9
 guests:
 - gloriaquiceno
 intro: How do you go from neuroscience research to a data engineering role — and what
-  practical steps and skills actually get you hired? In this episode Gloria Quiceno,
+  practical steps and skills actually get you hired? In this episode, Gloria Quiceno,
   Senior Analytics Engineer at ICE, walks through her transition from neuroscience
   labs to rebuilding enterprise data platforms (including a BI rebuild that saved
   €250K), and the concrete tools and tactics that landed her a data engineering job.

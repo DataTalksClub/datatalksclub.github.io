@@ -3,7 +3,7 @@ episode: 1
 guests:
 - meoramer
 intro: 'How do you teach machine learning so people build intuition before diving
-  into math? In this episode Meor Amer—educator, author, and Developer Relations at
+  into math? In this episode, Meor Amer—educator, author, and Developer Relations at
   Cohere—walks through a visual-first approach to machine learning that makes concepts
   accessible and actionable. Drawing on his journey from bioengineering and telecom
   analytics to founding kDimensions and writing A Visual Introduction to Deep Learning,

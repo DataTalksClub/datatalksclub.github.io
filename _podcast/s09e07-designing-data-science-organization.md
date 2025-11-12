@@ -1154,7 +1154,7 @@ description: 'Discover how to design high-impact data science orgs: centralized 
   embedded models, staffing ratios and experimentation to speed decisions and scale
   impact.'
 intro: 'How should you structure a data science organization to maximize product impact:
-  centralized, embedded, or a hybrid of both? In this episode Lisa Cohen, Director
+  centralized, embedded, or a hybrid of both? In this episode, Lisa Cohen, Director
   of Data Science at Twitter who leads 70 data scientists and previously led Azure
   Customer Growth Analytics at Microsoft, walks through practical tradeoffs and implementation
   patterns for designing high‑impact data science orgs. <br><br> We cover centralized

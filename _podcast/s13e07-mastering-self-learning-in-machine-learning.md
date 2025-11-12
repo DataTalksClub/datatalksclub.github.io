@@ -1275,7 +1275,7 @@ description: Learn bioinformatics & machine learning via project-first workflows
   dataset-first ideation, study hacks and MLOps deployment tips to gain practical
   skills.
 intro: How do you teach yourself bioinformatics and machine learning in a way that
-  leads to real projects and deployable models? In this episode Aaisha Muhammad —
+  leads to real projects and deployable models? In this episode, Aaisha Muhammad —
   a self-taught bioinformatician, machine learning engineer and scientific illustrator
   from Johannesburg and a Datatalks.Club ML Zoomcamp graduate — walks through a project-first
   path for learning bioinformatics and ML. We cover prioritization and avoiding FOMO,

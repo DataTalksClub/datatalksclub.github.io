@@ -1167,7 +1167,7 @@ description: Discover Responsible AI & Explainable AI tactics for bias detection
   fairness checks and governance, practical tools to build trustworthy, compliant
   ML models.
 intro: How do you detect bias, enforce fairness, and govern AI systems in production
-  without sacrificing business outcomes? In this episode Supreet Kaur — AVP on Morgan
+  without sacrificing business outcomes? In this episode, Supreet Kaur — AVP on Morgan
   Stanley’s Data Strategy and Products team, founder of DataBuzz, and mentor at Columbia
   and Rutgers — walks through a practical roadmap for responsible AI and explainable
   AI grounded in real-world examples. <br><br> We define responsible AI and contrast

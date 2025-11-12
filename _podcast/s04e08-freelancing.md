@@ -1272,7 +1272,7 @@ transcript:
   who: Alexey
 intro: 'How do you move from academic research or in‑house ML engineering to a sustainable
   freelance career in machine learning — getting clients, pricing your work, and delivering
-  production systems? In this episode Mikio Braun, who transitioned from TU Berlin
+  production systems? In this episode, Mikio Braun, who transitioned from TU Berlin
   into ML roles at Zalando and GetYourGuide and now consults on machine learning production,
   infrastructure, and teams, walks through that path step by step. <br><br> We cover
   the practical parts of freelancing in machine learning: launching first clients,

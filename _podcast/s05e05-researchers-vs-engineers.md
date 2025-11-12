@@ -1127,7 +1127,7 @@ transcript:
 description: 'Learn to build reproducible, deployable full-stack ML systems: deploy
   models, bridge research-to-production, and master PyTorch, Docker & MLOps workflows.'
 intro: How do you move ML work from research notebooks to reproducible, deployable
-  full‑stack systems? In this episode Mihail Eric — founder of Pametan Data Innovation
+  full‑stack systems? In this episode, Mihail Eric — founder of Pametan Data Innovation
   and Confetti.ai, former Stanford NLP researcher with industry experience at RideOS
   and Amazon Alexa, and author of papers in ACL, AAAI, and NeurIPS — tackles that
   exact challenge. We trace Mihail’s path from academic NLP to self‑driving and conversational

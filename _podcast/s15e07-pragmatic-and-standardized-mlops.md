@@ -1146,7 +1146,7 @@ transcript:
 description: 'Learn pragmatic MLOps: standardize CI/CD, model registry and monitoring
   to boost reproducibility, deployment reliability, and team productivity.'
 intro: 'How do you build pragmatic, standardized MLOps across teams without chasing
-  every new tool? In this episode Maria Vechtomova — an MLOps tech lead and manager
+  every new tool? In this episode, Maria Vechtomova — an MLOps tech lead and manager
   with roots in econometrics and early work moving from R to Python — tackles MLOps
   as an organizational challenge, not just a technology problem. <br><br> Maria walks
   through core, actionable topics: building reusable CI/CD and standardized repos,

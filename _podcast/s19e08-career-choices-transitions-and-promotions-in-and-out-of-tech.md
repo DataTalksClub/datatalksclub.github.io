@@ -1037,7 +1037,7 @@ transcript:
 description: 'Learn DevOps-to-Data-Engineering career tactics: automation, open source
   & volunteering to build skills, earn rapid promotions, and lead projects.'
 intro: How do you move from DevOps into data engineering while using automation, open
-  source contributions, and volunteering to shape your career? In this episode Agita
+  source contributions, and volunteering to shape your career? In this episode, Agita
   Jaunzeme — a DevOps/DataOps engineer, community manager, educator and NGO founder
   focused on inclusion in Porto — walks through that exact path. <br><br> We trace
   her journey from trade school and early programming to configuration management

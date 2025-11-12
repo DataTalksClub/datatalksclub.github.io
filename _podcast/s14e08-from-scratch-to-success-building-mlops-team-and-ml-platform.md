@@ -1149,7 +1149,7 @@ transcript:
 description: Discover MLOps strategies to build an ML platform with experiment tracking,
   improved reproducibility, faster releases and compliance-ready model operations.
 intro: How do you design an ML platform that reliably deploys models, tracks experiments,
-  and meets regulatory constraints? In this episode Simon Stiebellehner — Lead MLOps
+  and meets regulatory constraints? In this episode, Simon Stiebellehner — Lead MLOps
   Engineer at Transaction Monitoring Netherlands and university lecturer in Data Mining
   & Data Warehousing — walks through practical MLOps platform design grounded in real-world
   deployment challenges. <br><br> We cover a clear definition of MLOps as people,

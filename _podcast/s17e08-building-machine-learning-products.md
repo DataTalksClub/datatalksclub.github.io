@@ -1042,7 +1042,7 @@ description: Master vector search, embeddings & hybrid search—learn indexing, 
   fusion, vector DB trade-offs & ops to boost relevance, latency & personalization
 intro: 'How do you build vector search and hybrid retrieval that actually works in
   production—balancing embeddings, indexing, multimodal fusion, latency, and business
-  constraints? In this episode Reem Mahmoud, Director of Data Science at intervu.ai,
+  constraints? In this episode, Reem Mahmoud, Director of Data Science at intervu.ai,
   breaks down practical approaches to vector search, hybrid retrieval, and embedding
   pipelines for real-world systems. <br><br> Reem guides listeners through fundamentals—text
   search and inverted indexes (Lucene), candidate generation and ML ranking—then dives

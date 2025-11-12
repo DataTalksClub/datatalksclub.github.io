@@ -921,7 +921,7 @@ transcript:
 description: Discover DataOps strategies, immutable pipelines & a self-service lakehouse
   to boost reproducibility, scale data platforms, enable analysts and speed delivery.
 intro: How do you scale a data platform that supports self‑service analytics while
-  keeping pipelines reproducible and maintainable? In this episode Lars Albertsson,
+  keeping pipelines reproducible and maintainable? In this episode, Lars Albertsson,
   founder of Scling and former Google, Spotify and Schibsted engineer, walks through
   pragmatic DataOps principles for building scalable data platforms. <br><br> We dig
   into building self‑service at Spotify, orchestration with Luigi, and the core platform

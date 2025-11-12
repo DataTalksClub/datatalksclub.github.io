@@ -19,7 +19,7 @@ description: 'Learn to build a domestic risk assessment tool: data cleaning, ris
   scoring models, privacy and deployment strategies to improve triage and resource
   allocation.'
 intro: 'How do you build a domestic risk assessment tool that meaningfully improves
-  triage while protecting people’s privacy and avoiding bias? In this episode Sabina
+  triage while protecting people’s privacy and avoiding bias? In this episode, Sabina
   Firtala from Frontline’s AI product development walks through the end-to-end process
   of building a domestic risk assessment tool for triage. Sabina brings hands-on experience
   across data wrangling, visualization, statistical testing, model training and validation,

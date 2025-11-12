@@ -939,7 +939,7 @@ transcript:
 description: 'Master ML system design: fail-fast design docs, modular architecture
   & data drift monitoring to cut risk, assign ownership, speed experiments.'
 intro: How do you design ML systems that fail fast, scale with modular architecture,
-  and survive data drift in production? In this episode Valerii Babushkin — Senior
+  and survive data drift in production? In this episode, Valerii Babushkin — Senior
   Director of Data, Analytics, and AI at BP, Kaggle Competitions Grandmaster, and
   author of Machine Learning System Design — walks through a practical playbook for
   ML system design. <br><br> We cover why fail-fast design docs act like blueprints

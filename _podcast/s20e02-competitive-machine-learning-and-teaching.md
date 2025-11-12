@@ -611,7 +611,7 @@ transcript:
 description: Master Kaggle strategies, MLOps and curriculum design to convert competition
   skills into production ML, scalable courses, teamwork and career boosts.
 intro: How do you turn Kaggle competition wins into production-ready machine learning
-  and effective teaching? In this episode Alexander Guschin — a machine learning engineer
+  and effective teaching? In this episode, Alexander Guschin — a machine learning engineer
   with 10+ years’ experience, a Kaggle Grandmaster ranked 5th globally, leader of
   DS and SE teams, open-source contributor, and instructor to 100K+ students — walks
   through that transition. We cover MLOps and tooling anecdotes (including the MLEM

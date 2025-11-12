@@ -18,7 +18,7 @@ title: 'Scaling Wildlife Conservation with AI: Computer Vision, Remote Sensing &
 description: 'Discover AI-driven wildlife conservation: computer vision, remote sensing
   & citizen science for scalable species ID, habitat maps, alerts and policy impact.'
 intro: How can AI actually scale wildlife conservation in the face of accelerating
-  biodiversity loss and persistent data gaps? In this episode computational ecologist
+  biodiversity loss and persistent data gaps? In this episode, computational ecologist
   Tanya Berger-Wolf—director of TDAI@OSU, co‑founder of the Wildbook project, and
   director of technology at Wild Me—walks us through practical ways computer vision,
   remote sensing, and citizen science are transforming biodiversity monitoring. <br><br>

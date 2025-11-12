@@ -1158,7 +1158,7 @@ description: 'Learn data science for public policy: ethical AI, climate justice 
   impact project strategies, career tips and actionable project design for social
   good.'
 intro: How can data science meaningfully shape public policy without becoming a tech-first
-  solution or creating new ethical harms? In this episode Christine Cepelak, a writer
+  solution or creating new ethical harms? In this episode, Christine Cepelak, a writer
   and researcher of tech and social issues who’s studying Data Science for Public
   Policy and has years of experience managing social programs, walks through the practical
   realities of data science for public policy. We cover career paths and sector differences,

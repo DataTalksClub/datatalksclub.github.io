@@ -967,7 +967,7 @@ description: 'Discover DBT, SQL & data modeling tactics for pivoting into analyt
   engineering: learn migration, tooling, A/B testing, and a career playbook to get
   hired.'
 intro: 'How do you move from marketing into analytics engineering—and learn DBT, SQL,
-  and data modeling along the way? In this episode Nikola Maksimovic walks through
+  and data modeling along the way? In this episode, Nikola Maksimovic walks through
   that exact career pivot, from early startup roles in London and Berlin to growth
   marketing at Ecosia and a pandemic‑era shift toward BI and analytics engineering.
   Nikola outlines the practical learning path—SQL courses, small BI projects, conversations

@@ -862,7 +862,7 @@ transcript:
 description: Learn how to build a healthcare ML portfolio, land Upwork freelance gigs
   and deploy Dockerized models to AWS—practical tips, capstones, and career strategies.
 intro: How do you go from medical school to shipping production-ready healthcare ML—and
-  get paid for it on platforms like Upwork? In this episode Pastor Soto, a machine
+  get paid for it on platforms like Upwork? In this episode, Pastor Soto, a machine
   learning engineer and mentor who transitioned from medicine and criminology into
   production ML, walks through the practical steps he used to build a healthcare ML
   portfolio and freelance career. <br><br> We cover his career trajectory (statistician

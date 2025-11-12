@@ -1176,7 +1176,7 @@ description: 'Discover Causal ML counterfactuals and uplift (CATE): actionable d
   targeting strategies, policy evaluation and deployment tips to boost ROI.'
 intro: 'How do you move from correlation to actionable decisions — using counterfactuals,
   uplift (CATE), A/B testing and LLMs — without getting misled by confounders or biased
-  estimators? In this episode Aleksander Molak, an independent ML researcher, author
+  estimators? In this episode, Aleksander Molak, an independent ML researcher, author
   and educator specializing in causality, NLP and AI strategy (and author of a dyslexia
   prediction project), walks through practical causal ML techniques and real-world
   tradeoffs. <br><br> We cover foundational ideas — counterfactuals and Judea Pearl’s

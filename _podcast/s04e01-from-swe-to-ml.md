@@ -1116,7 +1116,7 @@ transcript:
 description: 'Learn practical machine learning for software engineers: 7 lessons,
   Python tools, MLOps & a project roadmap to build, deploy and monitor real ML systems.'
 intro: 'How do you move from software engineering into practical machine learning
-  without getting stuck on theory or math? In this episode Santiago Valdarrama — Director
+  without getting stuck on theory or math? In this episode, Santiago Valdarrama — Director
   of Computer Vision and a computer scientist with two decades of software experience
   — walks through a pragmatic roadmap for software engineers transitioning to machine
   learning. <br><br> We cover seven practical lessons for getting started (start projects,

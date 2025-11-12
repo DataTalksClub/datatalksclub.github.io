@@ -974,7 +974,7 @@ transcript:
 description: Master FinOps for data engineers—optimize BigQuery costs with dbt, cloud
   cost modeling, tagging and forecasting to cut spend and boost pipeline efficiency.
 intro: How can data teams optimize cloud costs for analytics without slowing down
-  delivery? In this episode Eddy Zulkifly, Staff Data Engineer at Kinaxis, walks through
+  delivery? In this episode, Eddy Zulkifly, Staff Data Engineer at Kinaxis, walks through
   practical FinOps strategies for data engineers working with the modern data stack.
   Eddy brings a decade of experience across Google Cloud, Azure, and AWS, plus prior
   roles at Home Depot and ongoing graduate studies at Georgia Tech, and explains how

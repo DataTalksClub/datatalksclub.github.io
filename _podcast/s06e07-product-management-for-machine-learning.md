@@ -1098,7 +1098,7 @@ transcript:
 description: 'Learn ML Product Manager tactics: MLOps platform strategy, observability
   KPIs & adoption playbooks to own roadmaps, governance, and stakeholder ROI.'
 intro: How do you become an ML product manager and build MLOps platforms that teams
-  actually use? In this episode Geo Jolly, a Technical PM at Glovo with a background
+  actually use? In this episode, Geo Jolly, a Technical PM at Glovo with a background
   from web/dev to data science and product management, walks through the practical
   skills and decisions that define the role. <br><br> We cover MLOps platform strategy
   and vendor evaluation, treating internal platform users as customers, and the real

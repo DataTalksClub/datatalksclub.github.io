@@ -1049,7 +1049,7 @@ transcript:
 description: Discover vector search, embeddings & vector database practices - indexing,
   hybrid retrieval, CLIP prototype and MLOps tips to boost relevance & ship faster
 intro: How do you design and operate reliable vector search systems that balance embeddings,
-  traditional indexing, and production MLOps? In this episode Daniel Svonava — co-founder
+  traditional indexing, and production MLOps? In this episode, Daniel Svonava — co-founder
   of Superlinked and VectorHub, former ML infrastructure tech lead for YouTube Ads
   with a 20‑year engineering background including competitive programming and research
   internships at Google and IBM — answers that question with practical detail. <br><br>

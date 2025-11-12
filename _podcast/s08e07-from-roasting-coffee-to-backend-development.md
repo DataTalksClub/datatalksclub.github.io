@@ -3,7 +3,7 @@ episode: 7
 guests:
 - jessicagreene
 intro: How do you switch to tech from a completely different career and actually land
-  an internship at a mission-driven company? In this episode Jessica Greene — Senior
+  an internship at a mission-driven company? In this episode, Jessica Greene — Senior
   Machine Learning Engineer at Ecosia and co-organizer of PyLadies Berlin — walks
   through her journey from film and coffee roasting to machine learning, sharing concrete
   steps for a career change to tech. We cover the learning path Jessica used (Codecademy,

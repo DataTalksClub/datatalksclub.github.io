@@ -979,7 +979,7 @@ transcript:
 description: Discover data observability, freshness, lineage and schema detection
   to prevent downtime, stop model drift and cut false positives in pipelines.
 intro: How do you prevent data downtime, drift, and false positives before they break
-  analytics and models? In this episode Barr Moses, CEO and co‑founder of Monte Carlo
+  analytics and models? In this episode, Barr Moses, CEO and co‑founder of Monte Carlo
   and former VP of Customer Operations at Gainsight, walks through a practical framework
   for data observability grounded in real-world incidents and DevOps principles. <br><br>
   Barr explains why batch data needs different approaches than app monitoring and

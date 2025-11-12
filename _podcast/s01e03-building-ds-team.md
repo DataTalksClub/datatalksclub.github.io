@@ -15,7 +15,7 @@ links:
   spotify: https://open.spotify.com/episode/0daFpY1z2J4Uop1XdMNsnY
   apple: https://podcasts.apple.com/us/podcast/building-a-data-science-team-dat-tran/id1541710331?i=1000502061864
 intro: 'How do you build and scale an ML team that delivers product-driven AI without
-  getting bogged down by tech debt or false promises? In this episode Dat Tran — Partner
+  getting bogged down by tech debt or false promises? In this episode, Dat Tran — Partner
   & CTO at DATANOMIQ and former AI lead at Axel Springer, idealo, and Pivotal — walks
   through practical strategies for hiring, MLOps, and shaping data teams for startups.
   <br><br> Dat draws on a decade of production ML experience to unpack the MLOps mindset

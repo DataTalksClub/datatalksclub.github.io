@@ -1065,7 +1065,7 @@ description: Discover scaling recommender systems, production ML hiring strategi
   and price markdown modeling to cut waste, optimize discounts, and lead data product
   teams.
 intro: 'How do you scale recommender systems, hire for production ML, and model price
-  markdowns to reduce waste—and who should own those decisions? In this episode Anna
+  markdowns to reduce waste—and who should own those decisions? In this episode, Anna
   Hannemann, Domain Owner for Data Science at Metro.digital, walks through practical
   answers informed by her PhD in Data Science and prior leadership of recommender
   and robotics/smart logistics teams. <br><br> We cover customer data completeness,

@@ -764,7 +764,7 @@ transcript:
   time: '48:02'
   who: Jeff
 intro: 'How do you actually get a data engineering job today — and which skills hiring
-  teams care about most? In this episode Jeff Katz, a Machine Learning Engineer at
+  teams care about most? In this episode, Jeff Katz, a Machine Learning Engineer at
   AppFolio and longtime instructor/founder of Jigsaw Labs and Flatiron School curriculum
   lead, distills a webinar on hiring demand into practical advice for job seekers.
   Drawing on applied AI and data engineering experience plus open-source contributions,

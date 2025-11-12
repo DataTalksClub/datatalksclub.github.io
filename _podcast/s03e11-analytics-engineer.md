@@ -864,7 +864,7 @@ transcript:
 description: 'Master analytics engineering with dbt and data modeling: learn pipelines,
   testing, Snowflake basics and a clear career roadmap to advance your data career.'
 intro: How do you become an effective analytics engineer and what skills, tools, and
-  career steps matter most? In this episode Victoria Perez Mola—born in Argentina,
+  career steps matter most? In this episode, Victoria Perez Mola—born in Argentina,
   trained as a Systems Engineer and now an Analytics Engineer at Tier in Berlin—walks
   us through her move from ERP and finance reporting into analytics engineering. We
   cover daily responsibilities like data modeling, pipelines, data quality and Looker;

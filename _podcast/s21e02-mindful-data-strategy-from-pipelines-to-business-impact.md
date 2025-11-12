@@ -1273,7 +1273,7 @@ description: Discover how to restore data trust with data quality fixes, priorit
   and generative AI readiness—KPI diagnosis, incident-driven roadmaps and rollout
   tips.
 intro: How do you restore data trust and make your organization ready for generative
-  AI without drowning in tools or endless cleanup? In this episode Lior Barak — author
+  AI without drowning in tools or endless cleanup? In this episode, Lior Barak — author
   of Data is Like a Plate of Hummus, co‑host of WHAT the Data?!, and founder of Tale
   About Data — walks through practical approaches to data quality, prioritization,
   and generative AI readiness from his 12+ years building data teams. <br><br> We

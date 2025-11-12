@@ -900,7 +900,7 @@ transcript:
 description: Build a data-led growth stack with event tracking, tracking plans & Reverse
   ETL to activate product data for precise experimentation, personalization, and ops.
 intro: 'How do you design a data-led growth stack that reliably powers personalization,
-  activation, and operational workflows? In this episode Arpit Choudhury, founder
+  activation, and operational workflows? In this episode, Arpit Choudhury, founder
   of Data-led Academy, walks through the practical steps of building a data-led growth
   stack focused on event tracking, documented tracking plans, and reverse ETL. <br><br>
   Arpit — who runs Data-led Academy to teach data skills for non-technical and technical

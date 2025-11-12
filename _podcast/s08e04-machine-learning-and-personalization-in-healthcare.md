@@ -3,7 +3,7 @@ episode: 4
 guests:
 - stefangudmundsson
 intro: How can AI power effective digital therapeutics while balancing personalization,
-  rapid experimentation, and patient safety? In this episode Stefan Gudmundsson —
+  rapid experimentation, and patient safety? In this episode, Stefan Gudmundsson —
   Director of Data, Analytics, and AI with a track record building ML and data teams
   at Sidekick Health, King, H&M, and CCP Games — walks through practical approaches
   for AI in healthcare and digital therapeutics. <br><br> We cover how machine learning

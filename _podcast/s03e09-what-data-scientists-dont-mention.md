@@ -811,7 +811,7 @@ description: 'Discover how to turn data science project failures into career win
   practical MLOps fixes, production lessons, LinkedIn framing tips to boost hiring
   outcomes.'
 intro: 'How do you turn data science project failures into tangible career wins —
-  and how should you talk about them on LinkedIn? In this episode Yury Kashnitsky,
+  and how should you talk about them on LinkedIn? In this episode, Yury Kashnitsky,
   Ph.D. in applied math, Kaggle Master and Senior ML Scientist at Elsevier who also
   leads the open course mlcourse.ai, walks through real production ML lessons and
   MLOps fixes learned across academia, startups and industry. <br><br> We dig into

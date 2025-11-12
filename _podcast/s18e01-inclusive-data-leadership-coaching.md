@@ -1100,7 +1100,7 @@ description: Learn data leadership, feedback skills and influencing without auth
   to transition to manager, increase impact and lead cross-functional teams.
 intro: How do you move from an individual contributor to an effective data leader
   while coaching teams, giving constructive feedback, and influencing without formal
-  authority? In this episode Tereza Iofciu—an experienced data practitioner who has
+  authority? In this episode, Tereza Iofciu—an experienced data practitioner who has
   worked as a data scientist, data engineer, product manager, leads a coaching team,
   and teaches data science at neuefische—walks through the practical challenges of
   that transition. She shares her career journey from a computer science PhD to data

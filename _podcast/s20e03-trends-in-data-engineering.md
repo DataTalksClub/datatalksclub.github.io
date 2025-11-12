@@ -520,7 +520,7 @@ transcript:
 description: Discover Apache Iceberg, DuckDB & AI-powered pipelines - learn cost-efficient
   table formats, orchestration tactics and a career roadmap for data engineers.
 intro: How do you future‑proof data engineering against vendor lock‑in, rising AI
-  demand, and exploding metadata complexity? In this episode Adrian Brudaru — a former
+  demand, and exploding metadata complexity? In this episode, Adrian Brudaru — a former
   business analyst turned freelancer and co‑founder of DLT — walks through practical
   choices for building resilient, cost‑efficient pipelines. Adrian explains DLT as
   a Python‑based ingestion standard, the DLT Plus vision and marketplace for reusable

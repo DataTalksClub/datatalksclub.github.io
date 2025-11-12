@@ -1090,7 +1090,7 @@ transcript:
 description: 'Master human-centered MLOps: actionable stakeholder buy-in tactics,
   model monitoring and incident response playbooks to debug and ship reliable ML.'
 intro: 'How do you make MLOps human-centered so stakeholders actually trust models
-  and teams can monitor, debug, and respond to incidents? In this episode Lina Weichbrodt
+  and teams can monitor, debug, and respond to incidents? In this episode, Lina Weichbrodt
   — a generalist machine learning developer who prototypes data-driven products end-to-end
   (design, implementation, A/B tests, operations) — walks through practical MLOps
   strategies that prioritize people as much as pipelines. <br><br> We cover a project

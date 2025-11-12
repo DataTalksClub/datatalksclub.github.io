@@ -19,7 +19,7 @@ description: 'Build a personal brand: publish on LinkedIn & Medium, grow your au
   and monetize with online courses—publishing best practices, course design, growth
   tips.'
 intro: How do you build a personal brand that actually attracts an audience and turns
-  into revenue? In this episode Admond Lee Kin Lim — data scientist, writer, speaker,
+  into revenue? In this episode, Admond Lee Kin Lim — data scientist, writer, speaker,
   and Data Science Instructor at Hackwagon Academy — breaks down a practical path
   from first posts to monetizing with online courses. Drawing on his experience at
   Micron and as an independent consultant and communicator featured in KDnuggets and

@@ -880,7 +880,7 @@ transcript:
 description: 'Discover how project managers switch to data science: master machine
   learning, Python, CRISP‑DM, build a portfolio, and land data roles faster.'
 intro: 'How do you move from project management into a data science career — and what
-  skills, tools, and courses actually matter? In this episode Ksenia Legostay, Manager/Data
+  skills, tools, and courses actually matter? In this episode, Ksenia Legostay, Manager/Data
   Scientist at momox GmbH, walks through her transition after four years as a project
   manager into three years researching fraud and anomaly detection and earning a degree
   in data analysis. We cover career foundations, the difference between analytics

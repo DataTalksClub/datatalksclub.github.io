@@ -1055,7 +1055,7 @@ transcript:
 description: Master Data Access Management with data catalog, access controls & access-as-code
   to stop privilege creep, speed investigations and ensure compliance.
 intro: 'How do you scale data access management—from access controls and data catalogs
-  to access-as-code—without slowing innovation? In this episode Bart Vandekerckhove,
+  to access-as-code—without slowing innovation? In this episode, Bart Vandekerckhove,
   co-founder and CEO at Raito and former PM of Privacy at Collibra, walks through
   practical approaches born from consulting with banks (BCBS 239) and tackling early
   data governance pain. <br><br> We explore what effective data governance looks like

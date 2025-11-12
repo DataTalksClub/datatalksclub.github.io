@@ -1031,7 +1031,7 @@ transcript:
 description: Master data pipeline testing and prompt engineering—learn snapshot tests,
   prompt compression & caching to ensure data trust and cut model costs.
 intro: How do you turn prototype AI into reliable production systems that stakeholders
-  can trust? In this episode Bartosz Mikulski — an AI and data engineer who helps
+  can trust? In this episode, Bartosz Mikulski — an AI and data engineer who helps
   move projects from demo to production, builds testing infrastructure, and teaches
   practitioners — walks through practical approaches to building trustworthy AI through
   data pipeline testing and prompt engineering. <br><br> We dig into testing strategies

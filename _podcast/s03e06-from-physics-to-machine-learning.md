@@ -1115,7 +1115,7 @@ description: 'Master computer vision & deep learning with a clear roadmap: Kaggl
   projects, mentorship strategies and interview prep to land roles and build deployed
   models.'
 intro: How do you switch into computer vision and deep learning from a non‑industry
-  background — and build a portfolio that lands interviews? In this episode Tatiana
+  background — and build a portfolio that lands interviews? In this episode, Tatiana
   Gabruseva, a Computer Vision/Deep Learning engineer and Kaggle Competitions Master
   now working as a Senior ML Engineer at Cork University Hospital, maps a practical
   career-change roadmap. Drawing on her move from a physics PhD during maternity leave,

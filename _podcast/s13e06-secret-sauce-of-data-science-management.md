@@ -1100,7 +1100,7 @@ description: 'Master data science management: learn Agile ML, debrief culture, m
   and POC-to-production strategies to scale teams, boost impact and ship reliable
   models.'
 intro: How do you run data science teams so experiments become reliable, measurable
-  products? In this episode Shir Meir Lador, a data science group manager at Intuit
+  products? In this episode, Shir Meir Lador, a data science group manager at Intuit
   who builds machine and deep learning models for document intelligence in TurboTax
   and QuickBooks, walks through practical approaches to data science management and
   agile ML. <br><br> We explore the origins of debrief culture from military pilot

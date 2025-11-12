@@ -1086,7 +1086,7 @@ transcript:
 description: Discover Staff AI Engineer interview prep, MLOps & onboarding tactics
   to transition from academia—coding strategies, system design, mentorship for impact.
 intro: 'How do you transition from academia into a Staff AI Engineer role while nailing
-  interview prep, MLOps, and onboarding? In this episode Tatiana Gabruseva — a computer
+  interview prep, MLOps, and onboarding? In this episode, Tatiana Gabruseva — a computer
   vision/deep learning engineer, Kaggle Competitions Master, and Senior ML Engineer
   at Cork University Hospital — walks through her shift from physics and healthcare
   research into industry engineering leadership. <br><br> We cover practical, concrete

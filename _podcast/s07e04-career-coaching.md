@@ -7,7 +7,7 @@ title: 'Land Junior Data Jobs: CVs, Interviews, Transferable Skills & Overcome I
   Syndrome'
 intro: Struggling to land a junior data job—how do you turn non‑linear experience
   into a recruiter‑ready CV, prepare for interviews, and push past imposter syndrome?
-  In this episode Lindsay McQuade, a transformational coach with 20+ years across
+  In this episode, Lindsay McQuade, a transformational coach with 20+ years across
   management consulting, higher education and tech and former Senior Career & Development
   Coach at SPICED Academy, guides listeners through practical steps for junior data
   roles. Lindsay draws on her work designing programs for hundreds of learners (SPICED

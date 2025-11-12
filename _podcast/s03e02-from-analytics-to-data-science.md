@@ -874,7 +874,7 @@ transcript:
 description: Build a Kaggle portfolio, learn Python to pivot from analytics to data
   science—hands-on notebooks, interview prep and hiring strategies to get hired.
 intro: 'How do you move from analytics into a hireable data science role by building
-  a Kaggle notebook portfolio and learning Python fast? In this episode Andrada Olteanu
+  a Kaggle notebook portfolio and learning Python fast? In this episode, Andrada Olteanu
   — Data Scientist at Endava, Kaggle Notebooks Master, and Z by HP & NVIDIA Data Science
   Ambassador — walks through her path from a statistics degree and data analyst role
   at Avon to a master’s in DS and a practical, project-driven transition. <br><br>

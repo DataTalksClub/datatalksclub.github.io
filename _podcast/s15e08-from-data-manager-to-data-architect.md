@@ -940,7 +940,7 @@ transcript:
 description: Master end-to-end IoT data pipelines, lakehouse & data modeling, learn
   ETL, ingestion patterns and core model strategies to scale analytics and speed delivery.
 intro: How do you build and scale end-to-end IoT data pipelines and a lakehouse that
-  supports reliable core data modeling across teams? In this episode Loïc Magnien,
+  supports reliable core data modeling across teams? In this episode, Loïc Magnien,
   Lead Data at Mylight150 with a decade in database management, data engineering,
   product ownership and architecture, walks through practical patterns for IoT pipelines,
   lakehouse design and analytics modeling. We cover sensor data aggregation and structural

@@ -1187,7 +1187,7 @@ transcript:
 description: 'Learn practical ML engineering to ship maintainable machine learning
   models to production: avoid complexity, use prototypes, explainability, testing.'
 intro: 'Are your ML projects collapsing under their own complexity—or never making
-  it to production at all? In this episode Ben Wilson, Practice Lead Resident Solutions
+  it to production at all? In this episode, Ben Wilson, Practice Lead Resident Solutions
   Architect at Databricks and author of an upcoming Manning book, walks through practical
   machine learning engineering strategies for shipping maintainable models and avoiding
   needless complexity. Drawing on 12 years across industries, Ben emphasizes prioritizing

@@ -1203,7 +1203,7 @@ description: Learn hiring & management tactics for data science in B2B SaaS — 
   onboarding, mentorship, and career growth strategies to build scalable analytics
   teams.
 intro: 'How do you hire, manage, and grow a high-impact data science team inside a
-  B2B SaaS company? In this episode Katie Bauer — Head of Data at GlossGenius and
+  B2B SaaS company? In this episode, Katie Bauer — Head of Data at GlossGenius and
   former data leader at Twitter and Reddit — walks through practical career frameworks
   and team-building strategies for product analysts, analytics engineers, marketing
   scientists, and data scientists. Katie traces her own trajectory from linguistics

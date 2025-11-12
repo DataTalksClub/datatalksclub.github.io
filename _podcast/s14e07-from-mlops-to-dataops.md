@@ -1005,7 +1005,7 @@ description: Master modern data pipelines with dbt transforms and Airflow orches
   ingestion, speed feature engineering and analytics delivery.
 intro: How do you build a modern data pipeline that reliably moves raw events through
   ingestion, dbt transformations, Airflow orchestration and into production ML and
-  analytics? In this episode Santona Tuli — a former CERN researcher turned ML and
+  analytics? In this episode, Santona Tuli — a former CERN researcher turned ML and
   data engineering lead at Upsolver — walks through practical patterns and trade-offs
   for end-to-end pipelines. Drawing on experience from particle-physics event analysis
   to NLP and workflow authoring with Airflow, Santona explains where ingestion engines

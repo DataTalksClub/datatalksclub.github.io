@@ -1068,7 +1068,7 @@ transcript:
 description: Discover LiDAR vs camera tradeoffs and model compression for on-vehicle
   inference in autonomous driving - learn quantization, edge speedups, testing tips.
 intro: How should self-driving systems balance LiDAR, cameras and edge compute to
-  deliver safe, real-time perception? In this episode Aishwarya Jadhav — a machine
+  deliver safe, real-time perception? In this episode, Aishwarya Jadhav — a machine
   learning engineer with a Master's from Carnegie Mellon and four years deploying
   multimodal LLMs, generative AI and computer vision — walks through the practical
   tradeoffs in autonomous driving AI. Drawing on her assistive-tech work (AI Guide

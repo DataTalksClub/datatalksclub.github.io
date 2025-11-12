@@ -5,7 +5,7 @@ guests:
 description: 'Master MLOps: CI/CD, reproducibility, and delivery strategies to accelerate
   ML delivery, boost reliability, improve team efficiency, and measure business impact.'
 intro: How do you keep machine learning models deployed, monitored, and maintained
-  in production? In this episode Raphaël Hoogvliets from Eneco — whose career journey
+  in production? In this episode, Raphaël Hoogvliets from Eneco — whose career journey
   spans agriculture to data science and MLOps — tackles that core MLOps challenge.
   We trace practical design choices and long‑term trade‑offs between speed and robustness,
   and why team coordination, evangelists, tech translators and technical leads matter

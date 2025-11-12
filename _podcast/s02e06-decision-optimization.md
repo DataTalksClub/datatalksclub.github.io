@@ -19,7 +19,7 @@ description: 'Learn prescriptive analytics & robust optimization for supply chai
   pricing: align ML predictions to decisions, scale models, pick solvers, and boost
   revenue.'
 intro: 'How do you turn machine learning predictions into better real-world decisions—especially
-  under uncertainty in supply chains and pricing? In this episode Dan Becker, Founder
+  under uncertainty in supply chains and pricing? In this episode, Dan Becker, Founder
   & CEO of Decision AI and former Google data scientist and Product Director at DataRobot,
   walks through prescriptive analytics and decision optimization for practical business
   impact. With a background that includes top Kaggle performance and contributions

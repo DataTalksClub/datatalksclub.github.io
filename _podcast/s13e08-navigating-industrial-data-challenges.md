@@ -1514,7 +1514,7 @@ description: 'Master industrial data: learn synthetic tabular data and small-dat
   faster.'
 intro: How do you build reliable machine learning when your datasets are generated
   by production lines, tiny R&D campaigns, or long-running quality tests instead of
-  millions of web events? In this episode Rosona Eldred — a mathematician-turned-machine
+  millions of web events? In this episode, Rosona Eldred — a mathematician-turned-machine
   learning engineer leading synthetic tabular data work in an AI Innovation team —
   walks us through mastering industrial data, from sensors and traceability to small-data
   modeling and MLOps trade-offs. <br><br> We explore what makes industrial data unique

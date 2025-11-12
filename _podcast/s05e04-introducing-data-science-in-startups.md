@@ -949,7 +949,7 @@ transcript:
 description: 'Master the solo data scientist 90-day roadmap: prioritize projects,
   run A/B tests, align stakeholders and deploy models for fast business impact.'
 intro: 'How can a solo data scientist deliver measurable impact in the first 90 days?
-  In this episode Marianna Diachuk — data scientist at Restream, former DataRobot
+  In this episode, Marianna Diachuk — data scientist at Restream, former DataRobot
   engineer and fintech team lead, and Data Science Lead/mentor with Women Who Code
   — walks through a practical Solo Data Scientist playbook. You''ll hear a clear 90-day
   roadmap covering first-week stakeholder interviews and data exploration, first-month

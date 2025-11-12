@@ -3,7 +3,7 @@ episode: 3
 guests:
 - liesbethdingemans
 intro: How do you design products that are “algorithm-ready” while running rapid experiments
-  and building data-driven roadmaps? In this episode Liesbeth Dingemans—strategy and
+  and building data-driven roadmaps? In this episode, Liesbeth Dingemans—strategy and
   AI leader, founder of Dingemans Consulting, former VP of Revenue at Source.ag and
   Head of AI Strategy at Prosus—walks through pragmatic approaches to AI product design
   that bridge vision and execution. <br><br> We cover algorithm-friendly UX and signal

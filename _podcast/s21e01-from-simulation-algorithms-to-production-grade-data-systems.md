@@ -787,7 +787,7 @@ description: 'Learn synthetic medical imaging & data engineering: build MVPs, in
   simulation-HPC, optimize ETL, and shift to freelance with client-acquisition tactics.'
 intro: 'How do you turn simulation research into usable synthetic medical imaging
   data for AI, build a minimal viable data pipeline, and pivot into freelance consulting?
-  In this episode Orell Garten — an electrical engineer trained in simulation algorithms
+  In this episode, Orell Garten — an electrical engineer trained in simulation algorithms
   who left a PhD during COVID and explored productization through a government-funded
   startup program — walks through that journey. We cover his simulation work in RF
   and wave propagation, the startup pivot to synthetic medical imaging data for AI,

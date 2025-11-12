@@ -1121,7 +1121,7 @@ description: Master MLOps with Kubeflow pipelines and automated retraining—det
   drift, accelerate deployment, and boost production model reliability for faster
   iteration.
 intro: How do you build reliable, production-ready ML pipelines that detect model
-  drift, monitor fairness, and trigger automated retraining? In this episode Theofilos
+  drift, monitor fairness, and trigger automated retraining? In this episode, Theofilos
   Papapanagiotou — a systems engineer with 20 years’ experience (from Unix engineering
   to ML engineering) now helping companies run ML workloads and a Kubeflow enthusiast
   — walks through practical MLOps strategies and tooling. <br><br> We define MLOps

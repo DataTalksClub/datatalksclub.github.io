@@ -1058,7 +1058,7 @@ transcript:
 description: Discover long-context LLMs, chunking and retrieval for finance benchmarking—learn
   32k–64k context limits, summarization tips, prototyping & career advice.
 intro: How do you evaluate and deploy long-context LLMs for real-world financial documents—when
-  context windows stretch into tens of thousands of tokens? In this episode Lavanya
+  context windows stretch into tens of thousands of tokens? In this episode, Lavanya
   Gupta, a CMU LTI alum and Sr. AI/ML Applied Scientist at JPMorgan Chase’s MLCOE,
   walks through practical benchmarking and production strategies for long-context
   LLMs in finance. Drawing on her published work "Long Context LLMs on Financial Concepts"

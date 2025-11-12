@@ -1138,7 +1138,7 @@ transcript:
 description: Discover crowd modeling, queue prediction and real-time recommendations
   to optimize visitor flow, reduce wait times and boost engagement with smart routing.
 intro: 'How can theme parks use data to cut wait times and guide visitors in real
-  time? In this episode Abouzar Abbaspour — an EngD-trained machine learning and data
+  time? In this episode, Abouzar Abbaspour — an EngD-trained machine learning and data
   engineer whose career spans telecom, e-commerce (bol.com), theme parks (Efteling)
   and automotive (Tesla) — walks through building systems that optimize visitor flow
   using crowd modeling, queue prediction and real-time recommendations. <br><br> We

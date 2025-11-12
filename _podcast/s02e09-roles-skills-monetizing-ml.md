@@ -1300,7 +1300,7 @@ transcript:
 description: 'Master monetize machine learning: convert ML models into ARR/MRR using
   MLOps and team roles to drive revenue, adoption and measurable business impact.'
 intro: How do you turn machine learning models into recurring revenue—ARR and MRR—rather
-  than just a cost center? In this episode Vin Vashishta, an applied ML practitioner
+  than just a cost center? In this episode, Vin Vashishta, an applied ML practitioner
   and engineer strategist who has brought products to market with ARR in the $100’s
   of millions, breaks down practical steps to monetize machine learning. <br><br>
   We explore why a revenue-first mindset changes ML strategy, how to translate models

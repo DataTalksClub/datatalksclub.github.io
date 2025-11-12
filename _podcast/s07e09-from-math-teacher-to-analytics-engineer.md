@@ -3,7 +3,7 @@ episode: 9
 guests:
 - juanpablo
 intro: 'How do you actually break into data analytics — and what combination of networking,
-  portfolio work, SQL skills, and interview prep gets you hired? In this episode Juan
+  portfolio work, SQL skills, and interview prep gets you hired? In this episode, Juan
   Pablo Murillo, an AI and data professional now at Google with prior roles as an
   Amazon Business Intelligence Engineer and data scientist at T‑Mobile, walks through
   a practical path from math grad to analytics roles. <br><br> We cover the full playbook:

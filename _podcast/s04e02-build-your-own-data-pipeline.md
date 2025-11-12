@@ -1007,7 +1007,7 @@ transcript:
 description: 'Learn to build data pipelines and deploy ML on AWS: productionize notebooks,
   cut ops risk, choose cost‑effective serving and orchestration.'
 intro: 'How do you move models out of notebooks and into reliable production data
-  pipelines using AWS, Kafka, and streaming architectures? In this episode Andreas
+  pipelines using AWS, Kafka, and streaming architectures? In this episode, Andreas
   Kretz — the “Plumber of Data Science” — walks through the practical steps engineers
   and data scientists need to productionize notebooks and deploy ML systems. <br><br>
   Andreas, a data engineer focused on platform architecture, explains why data engineering

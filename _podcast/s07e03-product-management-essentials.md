@@ -870,7 +870,7 @@ transcript:
 description: Build scalable data products with MLOps roadmaps, customer research and
   metric-driven templates - prioritize impact, reduce failures, and measure success.
 intro: How do you move from proofs-of-concept to scalable AI data products that deliver
-  measurable business value? In this episode Greg Coquillo, a Technology Manager at
+  measurable business value? In this episode, Greg Coquillo, a Technology Manager at
   Amazon who builds AI roadmaps for Private Brands’ product safety and compliance,
   walks through practical approaches for building and scaling data products, MLOps,
   customer research, and metrics. <br><br> We cover Greg’s transition into AI product

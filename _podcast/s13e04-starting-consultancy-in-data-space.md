@@ -1116,7 +1116,7 @@ transcript:
   time: '1:01:26'
   who: Alexey
 intro: How do you validate customers, run effective user interviews, and set pricing
-  to build a sustainable data consulting business? In this episode Aleksander Kruszelnicki
+  to build a sustainable data consulting business? In this episode, Aleksander Kruszelnicki
   — ex-Delivery Hero product manager turned co-founder of leukos, a boutique data
   analytics agency in Berlin — walks through the practical steps he took shifting
   from product ideas to a consulting model after early startup failures. <br><br>

@@ -972,7 +972,7 @@ transcript:
   sec: 3166
   time: '52:46'
   who: Nadia
-- line: Is it related to all these things we discussed so far in this episode – to
+- line: Is it related to all these things we discussed so far In this episode, – to
     problems that people in the industry have and all these things?
   sec: 3244
   time: '54:04'
@@ -1095,7 +1095,7 @@ transcript:
 description: Learn how to prevent hidden technical debt in ML systems with MLOps,
   documentation and responsible AI— improve reliability, tests, and team alignment.
 intro: How do teams prevent hidden technical debt in ML systems before it derails
-  production? In this episode Nadia Nahar, a PhD student in Software Engineering at
+  production? In this episode, Nadia Nahar, a PhD student in Software Engineering at
   Carnegie Mellon University, walks through the software-engineering challenges unique
   to machine learning and practical steps to reduce long-term costs. <br><br> We cover
   defining software engineering for ML systems, differences from traditional software

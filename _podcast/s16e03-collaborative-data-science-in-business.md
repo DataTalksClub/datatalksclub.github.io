@@ -1282,7 +1282,7 @@ description: Discover MLOps tactics to prioritize data products, run A/B testing
   enable model monitoring for faster validation, reliable rollouts and stakeholder
   buy-in.
 intro: How do you prioritize data product work, validate models in production, and
-  keep them monitored without overwhelming stakeholders? In this episode Ioannis Mesionis,
+  keep them monitored without overwhelming stakeholders? In this episode, Ioannis Mesionis,
   Lead Data Scientist at easyJet and head of their MLOps efforts, walks through a
   practical data product operating model for tackling those challenges. <br><br> Drawing
   on his cross‑functional work with Digital, Customer & Marketing, Ioannis explains

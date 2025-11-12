@@ -1233,7 +1233,7 @@ transcript:
   time: '1:00:56'
   who: Alexey
 intro: 'How do you turn NLP research experience into a viable generative AI freelance
-  business — and how do you actually win clients? In this episode Verena Weber, a
+  business — and how do you actually win clients? In this episode, Verena Weber, a
   former Research Scientist at Alexa AI with 7+ years in machine learning and a background
   in statistics, walks through that transition and the practical work that sells.
   We cover launching a freelance generative AI business, designing and running model-in-the-loop

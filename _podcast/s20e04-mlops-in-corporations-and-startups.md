@@ -1232,7 +1232,7 @@ transcript:
 description: 'Learn Lean MLOps strategies for startups: build a SaaS-first MVP stack,
   avoid vendor lock-in, and manage technical debt for faster, portable ML launches.'
 intro: How can an early-stage startup ship ML features fast without getting locked
-  into cloud vendors or drowning in technical debt? In this episode Nemanja Radojkovic—an
+  into cloud vendors or drowning in technical debt? In this episode, Nemanja Radojkovic—an
   electrical engineer turned data scientist and MLOps engineer, DataCamp instructor,
   and long-time practitioner—walks through pragmatic, lean MLOps strategies for startups.
   <br><br> We cover shoestring tactics for rapid prototyping, a SaaS‑first MVP stack

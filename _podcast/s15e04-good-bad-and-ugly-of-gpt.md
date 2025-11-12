@@ -903,7 +903,7 @@ transcript:
 description: 'Build secure LLM apps with GPT: master prompt engineering and embeddings
   to cut hallucinations, protect data, scale workflows, and boost content ROI.'
 intro: 'How do you build secure LLM apps that use GPT, embeddings and semantic search
-  while avoiding hallucinations and data risk? In this episode Sandra Kublik — AI
+  while avoiding hallucinations and data risk? In this episode, Sandra Kublik — AI
   entrepreneur, community builder, and author on GPT — walks through practical trade-offs
   for building production LLM systems. <br><br> Sandra traces the LLM landscape and
   her career (Nextgrid, Lablab.AI, YouTube), then digs into real-world use cases like

@@ -21,7 +21,7 @@ links:
   spotify: TODO
   apple: TODO
 intro: How can technical writing accelerate your data science career in just one week?
-  In this episode Eugene Yan — an Applied Scientist at Amazon who previously led data
+  In this episode, Eugene Yan — an Applied Scientist at Amazon who previously led data
   science teams at Lazada and uCare.ai and writes about ML in production and career
   growth — walks through a practical, repeatable 7-day workflow for technical writing
   tailored to data scientists. <br><br> We cover Eugene’s career transition and first

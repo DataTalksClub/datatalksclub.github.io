@@ -1218,7 +1218,7 @@ transcript:
   time: '59:27'
   who: Pauline
 intro: 'How do you build, launch, and actually monetize indie-hacker products in crypto
-  alerts and generative AI while keeping a day job? In this episode Pauline Clavelloux
+  alerts and generative AI while keeping a day job? In this episode, Pauline Clavelloux
   — an IBM data science manager and consultant with eight years’ experience who also
   ships side projects like Cryptopy (crypto alerts) and UnrealMe (a DreamBooth-inspired
   selfie-to-art tool) — walks through the practical steps. <br><br> We cover Pauline’s

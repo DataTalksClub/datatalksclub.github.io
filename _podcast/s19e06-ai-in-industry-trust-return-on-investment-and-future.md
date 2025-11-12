@@ -5,7 +5,7 @@ guests:
 description: Discover generative AI, chatbot safety, and prompting strategies to prevent
   hallucinations and data exfiltration, boost translation quality and ROI.
 intro: How do we balance the rapid democratization of generative AI with real-world
-  chatbot safety, trust, and operational value? In this episode we speak with a linguist-turned-computational-linguist
+  chatbot safety, trust, and operational value? In this episode, we speak with a linguist-turned-computational-linguist
   who now serves as a principal key expert in AI advising on technology and risk.
   We trace their career path into industry and then dig into the practical security
   and reliability challenges of large-scale chatbots. <br><br> Topics include the

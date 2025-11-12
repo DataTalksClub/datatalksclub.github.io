@@ -985,7 +985,7 @@ description: Discover data science leadership, recommender systems & MLOps tacti
   mentor and deploy models faster with practical frameworks and tips.
 intro: How do you lead a data science team that prioritizes product impact while building
   recommender systems, real‑time bidding (RTB) solutions, and maintainable MLOps?
-  In this episode Mariano Semelman, Head of Data Science at OLX Group with over 13
+  In this episode, Mariano Semelman, Head of Data Science at OLX Group with over 13
   years of experience, walks through practical leadership decisions that bridge models
   and products. <br><br> Mariano describes his shift from software development to
   data science leadership, daily responsibilities (meetings, mentoring, planning),

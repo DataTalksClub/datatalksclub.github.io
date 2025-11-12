@@ -8,7 +8,7 @@ description: 'Master DataOps: automate pipelines, data observability and CI/CD t
 guests:
 - christopherbergh
 intro: 'How do you build reliable data pipelines that move fast without breaking production?
-  In this episode Christopher Bergh — CEO and Head Chef at DataKitchen, co-author
+  In this episode, Christopher Bergh — CEO and Head Chef at DataKitchen, co-author
   of the DataOps Cookbook and Manifesto, and a 25+-year veteran across research, engineering,
   analytics, and leadership — walks through practical approaches to mastering DataOps:
   automation, observability, and CI/CD for dependable data delivery. <br><br> We cover

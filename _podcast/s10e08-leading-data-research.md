@@ -1143,7 +1143,7 @@ description: Learn to build data science programs, democratize HPC and scale gra
   tips
 intro: How do you build effective data science programs, democratize high-performance
   computing, and scale graph analytics so researchers and practitioners can solve
-  real-world problems? In this episode David Bader — Director of the Institute for
+  real-world problems? In this episode, David Bader — Director of the Institute for
   Data Science at NJIT, founder of NJIT’s Department of Data Science, and a distinguished
   professor with deep expertise in HPC, big data, and analytics — walks through his
   career, leadership in launching academic units, and practical lessons for curriculum

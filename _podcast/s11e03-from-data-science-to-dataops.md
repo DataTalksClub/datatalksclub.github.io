@@ -983,7 +983,7 @@ transcript:
 description: Master DataOps, GitOps and IaC best practices for reproducibility, onboarding
   and production reliability — actionable Git workflows, Terraform, Docker tips.
 intro: How do you make data work less fragile and easier to onboard while keeping
-  production safe and reproducible? In this episode Tomasz Hinc, a DataOps practitioner
+  production safe and reproducible? In this episode, Tomasz Hinc, a DataOps practitioner
   from Poznań with roots in econometrics, product analytics, data engineering and
   ML, walks through practical DataOps and GitOps patterns for data teams. We cover
   platform onboarding (requesting infra vs. merge requests), Infrastructure as Code

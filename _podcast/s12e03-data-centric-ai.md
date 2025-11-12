@@ -1246,7 +1246,7 @@ transcript:
 description: Discover Data-Centric AI tactics to improve label quality and edit datasets
   to boost model performance, practical workflows, relabeling, augmentation tips.
 intro: How much can improving label quality and editing your dataset actually boost
-  model performance? In this episode Marysia Winkels — Lead Data Scientist at GoDataDriven
+  model performance? In this episode, Marysia Winkels — Lead Data Scientist at GoDataDriven
   with a Master’s in Artificial Intelligence and a focus on data-efficient deep learning,
   and co-organizer of PyData Amsterdam/Global — walks through a practical, data-centric
   approach to that question. <br><br> We cover why shifting from “more data” to “better

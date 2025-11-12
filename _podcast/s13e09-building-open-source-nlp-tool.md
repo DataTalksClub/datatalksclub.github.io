@@ -1166,7 +1166,7 @@ transcript:
 description: Discover weak supervision, NLP labeling & GPT heuristics to build high-quality
   datasets faster — combine Refinery, Bricks, ensemble heuristics & active learning.
 intro: 'How can teams scale high-quality NLP labeling without hand-labeling every
-  example? In this episode Johannes Hötter, data scientist, engineer, and co-founder
+  example? In this episode, Johannes Hötter, data scientist, engineer, and co-founder
   of kern, explains practical approaches to that problem using weak supervision, heuristics,
   and open-source tooling. We walk through demos of Refinery and Bricks, with a close
   look at Refinery’s weak supervision and labeling workflows, and why Jupyter widgets

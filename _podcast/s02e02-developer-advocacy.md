@@ -969,7 +969,7 @@ transcript:
 description: 'Discover DevRel tactics for Data Science: community growth, reproducibility,
   and content strategy—practical metrics, safety practices, and career growth tips.'
 intro: How do you practice developer relations for data science while balancing reproducibility,
-  community growth, and content strategy? In this episode Elle O’Brien — a data scientist
+  community growth, and content strategy? In this episode, Elle O’Brien — a data scientist
   at Iterative (working on DVC and CML) and a lecturer at the University of Michigan
   with a PhD in neuroscience and computational modeling from UW — walks through practical
   DevRel for data-focused tools and teaching. <br><br> We cover her shift from a viral

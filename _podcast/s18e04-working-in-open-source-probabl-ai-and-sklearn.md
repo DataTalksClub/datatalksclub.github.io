@@ -860,7 +860,7 @@ transcript:
 description: 'Discover scalable scikit-learn ecosystems with scikit-lego and Skrub:
   learn GAP Encoder, contributor growth, CI optimization and DevRel sustainability.'
 intro: How do you build a sustainable scikit-learn ecosystem that serves both users
-  and contributors? In this episode Vincent Warmerdam — Research Advocate at Rasa,
+  and contributors? In this episode, Vincent Warmerdam — Research Advocate at Rasa,
   open source contributor and creator of Calm Code and the Koaning blog — walks through
   practical decisions that keep ML tooling healthy over time. We cover scikit-lego’s
   origins and adoption, governance and NumFOCUS roles, and the trade-offs between

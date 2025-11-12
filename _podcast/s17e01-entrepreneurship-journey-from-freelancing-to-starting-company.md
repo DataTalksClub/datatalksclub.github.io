@@ -1171,7 +1171,7 @@ transcript:
   time: '1:01:36'
   who: Alexey
 intro: 'How do you build an open-source data company that helps Python developers
-  turn messy JSON into reliable relational tables? In this episode Adrian Brudaru
+  turn messy JSON into reliable relational tables? In this episode, Adrian Brudaru
   — an economics-trained, Berlin-based founder who moved from startups to freelancing
   and now co‑founded a data tooling company — walks through the journey of launching
   developer-focused open‑source software for data engineering. <br><br> We cover why

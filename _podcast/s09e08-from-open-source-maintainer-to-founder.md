@@ -1278,7 +1278,7 @@ description: Learn Textual, Rich, and open source strategies to build terminal U
   in Python and turn projects into a startup - fundraising, community growth, hosting
   tips.
 intro: How do you build expressive terminal UIs in Python and turn open source work
-  into a sustainable company? In this episode Will McGugan — a software engineer from
+  into a sustainable company? In this episode, Will McGugan — a software engineer from
   Edinburgh and creator of PyFilesystem, Rich, and Textual — walks through that exact
   journey. We cover his career path from game development to founding Textualize,
   the origins of projects born from solving personal problems, and early libraries

@@ -1322,7 +1322,7 @@ description: Discover how Big Data Engineer vs Data Scientist roles differ — s
   performance optimization, ETL pipelines and ML deployment tips to advance your career.
 intro: 'How do the day‑to‑day responsibilities and skill sets really differ between
   a Big Data Engineer and a Data Scientist—and what should you learn to move between
-  those roles? In this episode Roksolana Diachuk, a Big Data Engineer at Captify,
+  those roles? In this episode, Roksolana Diachuk, a Big Data Engineer at Captify,
   Women Who Code Kyiv lead and speaker on Scala and Kubernetes, walks through her
   career transition from backend Java into big data engineering and R&D. <br><br>
   We cover core responsibilities—building ETL data pipelines, HDFS/S3 storage, Impala

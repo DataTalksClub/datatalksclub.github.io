@@ -1007,7 +1007,7 @@ description: Learn ML tactics for sepsis prediction and low-resource monitoring 
   impact.
 intro: 'How do you move machine learning from promising models to reliable tools that
   work in low-resource hospitals — and what does it take to predict conditions like
-  sepsis from routinely collected vitals? In this episode we speak with Eleni Stamatelou,
+  sepsis from routinely collected vitals? In this episode, we speak with Eleni Stamatelou,
   a machine learning researcher focused on healthcare whose path spans the University
   of Patras, Erasmus exchanges, work at VUB/ULB, a Philips Healthcare internship and
   a doctorate in data science. Eleni’s work ranges from C‑arm 3D reconstruction and

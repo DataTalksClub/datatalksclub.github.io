@@ -20,7 +20,7 @@ links:
   spotify: TODO
   apple: TODO
 intro: 'Struggling to find a mentor — or wondering how to become one — in a fast-moving
-  tech career? In this episode Rahul Jain, a senior solutions engineer and data/AI
+  tech career? In this episode, Rahul Jain, a senior solutions engineer and data/AI
   leader with 15+ years driving enterprise data transformations and a career arc from
   mining engineering to data engineering and leadership, walks through practical mentoring
   strategies for tech professionals. We define mentoring (purpose, scope, types),

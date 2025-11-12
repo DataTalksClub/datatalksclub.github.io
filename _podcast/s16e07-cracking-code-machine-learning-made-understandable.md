@@ -1209,7 +1209,7 @@ transcript:
 description: Discover Interpretable ML, SHAP and Conformal Prediction with Python
   examples and self-publishing tips, debug models, calibrate uncertainty, and publish.
 intro: How can we make machine learning interpretable in practice — and how do you
-  turn that expertise into clear, usable technical writing? In this episode Christoph
+  turn that expertise into clear, usable technical writing? In this episode, Christoph
   Molnar, statistician, machine learner, and author of Interpretable ML, walks through
   the tools and workflows he uses to answer that question. <br><br> Christoph traces
   his path from statistics and Kaggle competitions to becoming a full‑time technical

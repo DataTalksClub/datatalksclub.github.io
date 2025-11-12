@@ -976,7 +976,7 @@ transcript:
 description: Discover e-commerce search with Elasticsearch & NLP, plus product owner
   tactics, roadmap prioritization, team-building and hiring tips to boost conversions.
 intro: 'How do you move from performance marketing into a product role and build scalable
-  e-commerce search with Elasticsearch and NLP? In this episode Lera Kaimashnіkova
+  e-commerce search with Elasticsearch and NLP? In this episode, Lera Kaimashnіkova
   — an e-commerce Product Owner focused on site search optimization, analytics, and
   conversion — walks through that exact journey. She explains transitioning from B2B
   marketing to product ownership, landing a PO role at AUTODOC, and relocating to

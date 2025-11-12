@@ -1025,7 +1025,7 @@ transcript:
 description: Learn last-mile data delivery, build data products for the modern data
   stack, boost adoption, embed analytics in decisions, and prove measurable ROI.
 intro: 'How do you turn a powerful modern data stack into analytics people actually
-  use? In this episode Caitlin Moorman, VP of Data and Business Operations at Trove
+  use? In this episode, Caitlin Moorman, VP of Data and Business Operations at Trove
   Recommerce and former data lead in crowdfunding and self-publishing, walks through
   the last-mile data delivery challenges that block adoption and offers practical
   approaches to build data products that drive decisions. <br><br> We define the “last

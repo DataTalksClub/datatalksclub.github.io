@@ -1012,7 +1012,7 @@ transcript:
 description: Discover Data Mesh strategies, data contracts and federated governance
   to build decentralized data products, improve data quality, and scale adoption.
 intro: 'How do you scale data architecture so teams deliver value without centralized
-  bottlenecks? In this episode Zhamak Dehghani — director of technology at Thoughtworks
+  bottlenecks? In this episode, Zhamak Dehghani — director of technology at Thoughtworks
   and founder of the Data Mesh concept — walks through practical steps for Data Mesh
   implementation: building decentralized data products, defining data contracts, and
   establishing federated governance. <br><br> We cover why enterprises face long pipelines

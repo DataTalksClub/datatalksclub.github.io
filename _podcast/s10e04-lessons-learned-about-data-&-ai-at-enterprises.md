@@ -1032,7 +1032,7 @@ transcript:
 description: Discover data-first Enterprise AI strategies and MLOps best practices—learn
   realistic experiments, CI/CD, governance, and align ML to business impact.
 intro: 'How do you move from proof-of-concept to scaled enterprise AI without over-investing
-  in hype? In this episode Alexander Hendorf — head of data and AI at KÖNIGSWEG, PyData
+  in hype? In this episode, Alexander Hendorf — head of data and AI at KÖNIGSWEG, PyData
   chair and Python Software Foundation/EuroPython fellow — walks through pragmatic,
   data-first strategies for scaling AI across organizations. <br><br> We cover how
   to align AI initiatives with company goals, run realistic experiments (and why transparent

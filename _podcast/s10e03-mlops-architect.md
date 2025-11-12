@@ -1275,7 +1275,7 @@ description: Master MLOps, model monitoring & data observability with guidance o
   production observability, ETL root causes, tooling trade-offs, ONNX, build vs buy.
 intro: How do you keep machine learning models reliable in production — what should
   you monitor, where do upstream failures originate, and which tooling decisions actually
-  matter? In this episode Danny Leybzon, MLOps Architect at WhyLabs and computational
+  matter? In this episode, Danny Leybzon, MLOps Architect at WhyLabs and computational
   statistics alum of UCLA, walks through the practical challenges of production model
   monitoring, data observability, and tooling trade-offs. Drawing on his path from
   analyst and product roles at Qubole to field engineering at Imply and now advising

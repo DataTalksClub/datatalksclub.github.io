@@ -1028,7 +1028,7 @@ transcript:
   who: Alexey
 intro: How do you transition from startup engineering to a sustainable freelance data
   science practice while handling MLOps, model monitoring, and client work on Upwork?
-  In this episode Antonis Stellas — a freelance data scientist at Nanometrisis with
+  In this episode, Antonis Stellas — a freelance data scientist at Nanometrisis with
   a background in applied mathematics, physics and a professional doctorate working
   on industry consultancy — lays out a practical playbook. <br><br> Antonis walks
   through startup-honed skills (cross-functional roles, lean build-measure-learn,

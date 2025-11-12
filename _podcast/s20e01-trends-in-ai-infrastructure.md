@@ -853,7 +853,7 @@ transcript:
 description: Discover DStack to cut AI infrastructure costs with on‑prem GPU training
   and MLOps alternatives—optimize distributed training, reduce orchestration overhead.
 intro: 'How can engineering teams cut AI infrastructure costs without sacrificing
-  performance or control? In this episode Andrey Cheptsov — founder and CEO of dstack
+  performance or control? In this episode, Andrey Cheptsov — founder and CEO of dstack
   and former JetBrains engineer — walks through the motivation behind DStack, an open‑source
   orchestration alternative designed to lower AI infrastructure total cost of ownership.
   We trace the cloud vs on‑prem economics (including MLOps limitations like SageMaker),

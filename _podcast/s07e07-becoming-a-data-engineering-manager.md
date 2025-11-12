@@ -5,7 +5,7 @@ guests:
 description: Learn to scale ETL to ELT and build resilient data platforms—gain leadership
   skills, stakeholder management, data quality metrics and hiring tips.
 intro: 'How do you lead a data engineering team to scale ETL into ELT, build a robust
-  data platform, and maintain data quality as you grow? In this episode Rahul Jain
+  data platform, and maintain data quality as you grow? In this episode, Rahul Jain
   — a data engineering manager at Siemens with 12+ years in data and three years in
   management — walks through that transition from ETL developer to IoT data platform
   lead and what leadership looks like in practice. <br><br> We cover practical topics

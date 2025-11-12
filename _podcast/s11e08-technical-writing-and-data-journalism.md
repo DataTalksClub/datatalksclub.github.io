@@ -988,7 +988,7 @@ description: 'Discover data journalism: sourcing, storytelling & visualization w
   Python and Tableau—learn tools, workflows and publishing tips to craft compelling
   stories.'
 intro: 'How do you turn messy, hard-to-find data into clear, accountable journalism?
-  In this episode Angelica Lo Duca — researcher at the Institute of Informatics and
+  In this episode, Angelica Lo Duca — researcher at the Institute of Informatics and
   Telematics (CNR) and Data Journalism professor at the University of Pisa — walks
   through practical approaches to data journalism: sourcing, storytelling, visualization,
   and tools like Python and Tableau. Drawing on a career from cryptography to web

@@ -592,7 +592,7 @@ transcript:
   who: Alexey
 intro: How do you move from employed data pro to a sustainable data freelancer who
   consistently lands clients, prices services well, and uses AI to boost productivity?
-  In this episode Dimitri Visnadi — an independent data consultant focused on data
+  In this episode, Dimitri Visnadi — an independent data consultant focused on data
   strategy who’s worked with Unilever, Ferrero, Heineken and Red Bull, held roles
   at HP and a Google-partnered firm, and holds a Masters in Business Analytics & Computer
   Science from UCL — walks through a practical playbook for data freelancers. <br><br>

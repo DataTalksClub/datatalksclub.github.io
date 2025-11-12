@@ -28,7 +28,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/getting-started-with-open-source-vincent-warmerdam/id1541710331?i=1000507024598
 intro: 'How do you start contributing to open source ML projects like scikit-learn
   pipelines—or move from curious user to confident contributor on Rasa’s conversational
-  AI stack? In this episode Vincent Warmerdam, Research Advocate at Rasa and creator
+  AI stack? In this episode, Vincent Warmerdam, Research Advocate at Rasa and creator
   of The Algorithm Whiteboard and calmcode.io, walks through practical, hands-on advice
   for contributing to open source ML. <br><br> Vincent shares his career pivot from
   design student to data scientist and highlights projects (evol, clumper, memo, whatlies,

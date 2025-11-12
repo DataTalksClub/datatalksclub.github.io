@@ -784,7 +784,7 @@ description: Learn Bloom filters, approximate nearest-neighbor and performance t
   to gain memory-efficient containment, fast vector search and practical profiling
   tips.
 intro: How do engineers choose and implement the right algorithm for memory, latency,
-  and scale? In this episode Marcello La Rocca — senior software engineer at Tundra.com
+  and scale? In this episode, Marcello La Rocca — senior software engineer at Tundra.com
   and author of Algorithms and Data Structures in Action, with experience at Twitter,
   Microsoft and Apple — walks through practical algorithmic solutions engineers can
   actually use in production. We focus on Bloom filters for memory‑efficient containment

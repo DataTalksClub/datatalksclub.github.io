@@ -920,7 +920,7 @@ transcript:
 description: 'Discover how to use Fairlearn to mitigate credit scoring bias and build
   explainable models: practical tools, human-in-the-loop tips, and evaluation tradeoffs.'
 intro: How do you reduce bias in credit scoring models without sacrificing explainability?
-  In this episode Tamara Atanasoska — an open source software engineer at :probabl..,
+  In this episode, Tamara Atanasoska — an open source software engineer at :probabl..,
   Fairlearn maintainer, and contributor to scikit-learn and skops with a background
   in software engineering and computational linguistics — walks through practical
   approaches to fairness in AI. We dig into a real credit scoring use case, empirical

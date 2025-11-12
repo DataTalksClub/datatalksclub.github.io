@@ -3,7 +3,7 @@ episode: 8
 guests:
 - jeffkatz
 intro: How do you build a data engineering career from zero — what should you learn,
-  how do you master SQL, and how do you pass the interviews? In this episode Jeff
+  how do you master SQL, and how do you pass the interviews? In this episode, Jeff
   Katz — former lawyer turned developer, founder of Jigsaw Labs, and current ML engineer
   at AppFolio — walks through practical paths into data engineering and how to design
   bootcamp curriculum that actually leads to hires. <br><br> We cover curriculum development

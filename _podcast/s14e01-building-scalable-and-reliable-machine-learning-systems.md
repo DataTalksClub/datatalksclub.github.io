@@ -947,7 +947,7 @@ transcript:
 description: Learn MLOps design doc and data strategy to build scalable, reliable
   machine learning systems; navigate edge constraints, metrics, pipelines, and testing.
 intro: 'How do you design machine learning systems that scale, stay reliable in production,
-  and meet tight edge and mobile constraints? In this episode Arseny Kravchenko —
+  and meet tight edge and mobile constraints? In this episode, Arseny Kravchenko —
   a seasoned ML engineer focused on computer vision, active in ML since 2015 and a
   former Kaggle Master — walks through practical MLOps patterns for turning models
   into production systems. <br><br> We cover where startups trade off productionization
