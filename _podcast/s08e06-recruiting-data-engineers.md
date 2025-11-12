@@ -146,20 +146,17 @@ transcript:
     that was about hiring data professionals – where we talked to Alicia, who was
     a guest here – but we mostly talked about data scientists. Then some people reached
     out to me saying, "Hey, that was a cool episode, but we want to hear more about
-    data engineers." So here we go.'
+    data engineers." So here we go.
   sec: 419
   time: '6:59'
   who: Alexey
-- line: 'We''re talking about hiring data engineers, but I also wanted to ask you
-    – you are recruiting for a wide range of positions: ML engineers, data scientists,
-- line: 'We''re talking about hiring data engineers, but I also wanted to ask you
-    – you are recruiting for a wide range of positions: ML engineers, data scientists,
+- line: We're talking about hiring data engineers, but I also wanted to ask you
+    – you are recruiting for a wide range of positions ML engineers, data scientists,
     data analysts, data engineers – in your opinion, what is the main difference between
     hiring data scientists and data engineers?
   sec: 419
   time: '6:59'
   who: Alexey
-- header: Tech vs Business Balance and Training Gaps
 - header: Tech vs Business Balance and Training Gaps
 - line: Yeah. I would say that there's two different things. You have kind of a ratio
     between tech and business, in terms of skills. After all, it really depends. In
