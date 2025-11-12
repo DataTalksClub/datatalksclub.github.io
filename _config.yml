@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 url: https://datatalks.club
 name: DataTalks.Club
+title: DataTalks.Club
 twitter: '@DataTalksClub'
 permalink: /blog/:title.html
 
