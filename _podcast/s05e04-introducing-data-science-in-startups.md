@@ -963,6 +963,117 @@ intro: 'How can a solo data scientist deliver measurable impact in the first 90 
   results through reports and tech talks. Listen for actionable guidance on transitioning
   from engineering, when to stop projects, hiring signals, an interview readiness
   checklist, and resources to learn faster and educate your organization.'
+dateadded: '2021-09-25'
+duration: PT00H58M04S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=0
+  endOffset: 2
+- name: Guest Background & Career Path in Data Science
+  startOffset: 2
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=2
+  endOffset: 222
+- name: 'Solo Data Scientist: Freedom, Influence & Responsibility'
+  startOffset: 222
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=222
+  endOffset: 493
+- name: 'Company Prerequisites: Data Pipelines, Engineers & Analytics'
+  startOffset: 493
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=493
+  endOffset: 653
+- name: 'Experience Required: Mid‑Senior, End‑to‑End Project Skills'
+  startOffset: 653
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=653
+  endOffset: 753
+- name: 'Problem Discovery: Translating Business Needs to Data Science'
+  startOffset: 753
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=753
+  endOffset: 865
+- name: Proactive Outreach & Building a Data Science Roadmap
+  startOffset: 865
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=865
+  endOffset: 961
+- name: 'Prioritization: Feasibility, Impact & Stakeholder Alignment'
+  startOffset: 961
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=961
+  endOffset: 1267
+- name: 'First Week: Stakeholder Interviews and Data Exploration'
+  startOffset: 1267
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=1267
+  endOffset: 1345
+- name: 'First Month: Early Research, Insights or Proof‑of‑Concept'
+  startOffset: 1345
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=1345
+  endOffset: 1447
+- name: 'First Quarter: Pipelines, Methodology, Deployment & A/B Testing'
+  startOffset: 1447
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=1447
+  endOffset: 1540
+- name: 'Managing Expectations: Data Science as Iterative Inquiry'
+  startOffset: 1540
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=1540
+  endOffset: 1687
+- name: 'Start Small: Exploratory Analysis, Dashboards vs. Machine Learning'
+  startOffset: 1687
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=1687
+  endOffset: 1811
+- name: 'Churn Workflows: Analysis to Model to Marketing Collaboration'
+  startOffset: 1811
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=1811
+  endOffset: 1974
+- name: 'Project Timelines: Reuse, Automation & Faster Iterations'
+  startOffset: 1974
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=1974
+  endOffset: 2063
+- name: 'Solution Selection: Define Metrics and Measure Outcomes'
+  startOffset: 2063
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=2063
+  endOffset: 2149
+- name: 'Evaluating Performance: KPIs, Experiments & Delivering Insights'
+  startOffset: 2149
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=2149
+  endOffset: 2365
+- name: 'When You Get Stuck: Networks, Communities & Learning Resources'
+  startOffset: 2365
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=2365
+  endOffset: 2459
+- name: 'Communicating Results: Reports, Visualizations & Tech Talks'
+  startOffset: 2459
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=2459
+  endOffset: 2636
+- name: 'Transitioning from Engineering: Mindset, Deployment & Monitoring'
+  startOffset: 2636
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=2636
+  endOffset: 2747
+- name: 'Scaling the Team: Signals to Hire More Data Scientists'
+  startOffset: 2747
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=2747
+  endOffset: 2882
+- name: 'Stopping Projects: Prioritize, Cut Losses & Reallocate Effort'
+  startOffset: 2882
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=2882
+  endOffset: 3017
+- name: 'Interview Checklist: Questions to Assess Company Readiness'
+  startOffset: 3017
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=3017
+  endOffset: 3255
+- name: 'Assessing Readiness: Pipelines, Analytics Dept. & Expectations'
+  startOffset: 3255
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=3255
+  endOffset: 3318
+- name: 'Research to Production: Silent Mode, A/B Tests & Safe Rollout'
+  startOffset: 3318
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=3318
+  endOffset: 3435
+- name: 'Closing Advice: Learn Fast and Educate Your Organization'
+  startOffset: 3435
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=3435
+  endOffset: 3472
+- name: Contact Info & Episode Wrap-up
+  startOffset: 3472
+  url: https://youtube.com/watch?v=KMSE9GkU2mE&t=3472
+  endOffset: 3484
 ---
 
 Links:

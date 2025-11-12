@@ -1,5 +1,5 @@
 ---
-title: "DevRel for Data Science: Build Community, Create Content, and Grow Your Career"
+title: 'DevRel for Data Science: Build Community, Create Content, and Grow Your Career'
 short: Developer Advocacy for Data Science
 guests:
 - elleobrien
@@ -984,4 +984,119 @@ intro: How do you practice developer relations for data science while balancing 
   developer portfolio. <br><br> Listen to gain actionable guidance on community growth,
   reproducibility best practices, content planning, and the trade-offs of DevRel work
   in open source data science.
+dateadded: '2021-02-23'
+duration: PT00H55M15S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=0
+  endOffset: 177
+- name: 'Introduction: Developer Advocacy for Data Science — Elle O''Brien (Iterative,
+    DVC, CML)'
+  startOffset: 177
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=177
+  endOffset: 250
+- name: 'Background: Neuroscience research, PhD, and computational modeling'
+  startOffset: 250
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=250
+  endOffset: 470
+- name: 'Teaching focus: Applied Data Science curriculum & research reproducibility'
+  startOffset: 470
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=470
+  endOffset: 573
+- name: 'Career pivot: Viral StyleGAN project to DevRel role at Iterative'
+  startOffset: 573
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=573
+  endOffset: 740
+- name: 'Role scope: product work, CML, docs, PRs, videos, and hiring'
+  startOffset: 740
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=740
+  endOffset: 902
+- name: 'Prioritization as a solo DevRel: scheduling releases vs evergreen content'
+  startOffset: 902
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=902
+  endOffset: 1004
+- name: 'Release promotion: real‑time engagement on Hacker News, Reddit, and social
+    media'
+  startOffset: 1004
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1004
+  endOffset: 1074
+- name: 'Managing toxicity: choosing communities and setting boundaries'
+  startOffset: 1074
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1074
+  endOffset: 1187
+- name: 'DevRel job realities: content creation, community management, and support
+    trade‑offs'
+  startOffset: 1187
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1187
+  endOffset: 1431
+- name: 'Community feedback: being the product signal and user insight channel'
+  startOffset: 1431
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1431
+  endOffset: 1561
+- name: 'Community metrics: signals, analytics, and full‑time analysis potential'
+  startOffset: 1561
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1561
+  endOffset: 1624
+- name: 'Role distinctions: DevRel, developer advocate, and evangelist explained'
+  startOffset: 1624
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1624
+  endOffset: 1735
+- name: 'Risks of DevRel: online abuse, burnout, and public scrutiny'
+  startOffset: 1735
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1735
+  endOffset: 1885
+- name: 'Safety practices: anonymity, moderation, and peer solidarity'
+  startOffset: 1885
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1885
+  endOffset: 2068
+- name: 'Rewards of DevRel: visibility, speaking invites, and career opportunities'
+  startOffset: 2068
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=2068
+  endOffset: 2211
+- name: 'Core skills: technical credibility, rapid learning, and clear communication'
+  startOffset: 2211
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=2211
+  endOffset: 2371
+- name: 'Nontechnical pathways: learning in public and building a portfolio'
+  startOffset: 2371
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=2371
+  endOffset: 2532
+- name: 'Getting started: blogging, tutorials, Twitter, and content examples'
+  startOffset: 2532
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=2532
+  endOffset: 2605
+- name: 'Backgrounds & personality: creativity, humor, and relatability in DevRel'
+  startOffset: 2605
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=2605
+  endOffset: 2715
+- name: 'Assessing fit: hobby vs job, community inclination, and time commitment'
+  startOffset: 2715
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=2715
+  endOffset: 2886
+- name: 'Audience growth: metrics, growth‑hacking versus sustainable strategies'
+  startOffset: 2886
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=2886
+  endOffset: 3019
+- name: 'Branding & engagement: mascots, tone, and consistent visuals (Divi owl)'
+  startOffset: 3019
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=3019
+  endOffset: 3126
+- name: 'Teaching & DevRel synergy: curriculum design and reusable video content'
+  startOffset: 3126
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=3126
+  endOffset: 3286
+- name: 'University plans: recording lectures and open educational resources on YouTube'
+  startOffset: 3286
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=3286
+  endOffset: 3399
+- name: 'Closing thoughts: encouraging diverse DevRels and where to follow Elle (Twitter,
+    YouTube, LinkedIn)'
+  startOffset: 3399
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=3399
+  endOffset: 3492
+- name: Episode Wrap‑up and Farewell
+  startOffset: 3492
+  url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=3492
+  endOffset: 3315
 ---

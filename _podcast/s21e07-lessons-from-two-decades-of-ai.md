@@ -927,6 +927,125 @@ intro: How do you design practical multi-agent AI assistants that scale from gam
   AI assistants, experimenting with evolutionary algorithms, or integrating LLM tooling
   into products, this episode offers concrete techniques, tooling insights, and career
   guidance for AI engineers.
+dateadded: '2025-10-01'
+duration: PT01H48S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=0
+  endOffset: 67
+- name: 'Career Snapshot: Two Decades from Game AI to AI Agents'
+  startOffset: 67
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=67
+  endOffset: 156
+- name: 'Early Research: Games for Cognitive Testing & Neural Networks'
+  startOffset: 156
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=156
+  endOffset: 195
+- name: 'Industry Experience: Consulting, Product Development, Leadership'
+  startOffset: 195
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=195
+  endOffset: 259
+- name: Evolutionary Algorithms in Industry Optimization
+  startOffset: 259
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=259
+  endOffset: 328
+- name: 'Current Focus: Multi-Agent AI Support Assistants'
+  startOffset: 328
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=328
+  endOffset: 345
+- name: 'Publishing Breakthrough: Reverse-Engineering Pokémon Go & AR'
+  startOffset: 345
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=345
+  endOffset: 456
+- name: Sound Design & Waveform Analysis Applied to Games
+  startOffset: 456
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=456
+  endOffset: 481
+- name: Reinforcement Learning Roots and Alberta Research
+  startOffset: 481
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=481
+  endOffset: 549
+- name: 'Evolutionary Deep Learning: Hyperparameter Search & Architecture Tuning'
+  startOffset: 549
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=549
+  endOffset: 600
+- name: 'Move to NLP: Early LLM Work and Rise of AI Agents'
+  startOffset: 600
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=600
+  endOffset: 849
+- name: Evolutionary Algorithms for Prompt Engineering
+  startOffset: 849
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=849
+  endOffset: 1099
+- name: 'AI Agents Book: Editions, Teaching, and Vibe Coding for Games'
+  startOffset: 1099
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=1099
+  endOffset: 1257
+- name: 'Agent Workflow Design: Minimalism and Task Decomposition'
+  startOffset: 1257
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=1257
+  endOffset: 1428
+- name: 'Flow vs Orchestration: Sequential Pipelines and Manager Agents'
+  startOffset: 1428
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=1428
+  endOffset: 1585
+- name: 'Collaboration Patterns: Parallel Agent Interaction & Use Cases'
+  startOffset: 1585
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=1585
+  endOffset: 1891
+- name: 'Agent Tooling: OpenAI Agent SDK and MCP Integration'
+  startOffset: 1891
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=1891
+  endOffset: 2005
+- name: 'Sequential Thinking Servers: Internal Reasoning & Scratchpads'
+  startOffset: 2005
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2005
+  endOffset: 2142
+- name: 'Coding Agents in Game Development: Practical Examples'
+  startOffset: 2142
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2142
+  endOffset: 2218
+- name: 'End-to-End Code Generation: GPT-5 Pro Case Studies'
+  startOffset: 2218
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2218
+  endOffset: 2337
+- name: 'Generative AI in Games: Procedural Content and Infinite Playability'
+  startOffset: 2337
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2337
+  endOffset: 2502
+- name: 'Technical Challenges: Implementing Space Invaders with Agents'
+  startOffset: 2502
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2502
+  endOffset: 2740
+- name: 'Local Model Trend: Running LLMs on Private GPUs'
+  startOffset: 2740
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2740
+  endOffset: 2774
+- name: Open-Source Large Models and Low-Latency Providers
+  startOffset: 2774
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2774
+  endOffset: 2920
+- name: 'Model Specialization: Smaller Task-Focused LLMs Emerging'
+  startOffset: 2920
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2920
+  endOffset: 3316
+- name: 'Career Advice: Transitioning to AI Engineering & LLM Skills'
+  startOffset: 3316
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=3316
+  endOffset: 3459
+- name: 'Evaluation & Monitoring: Feedback Pipelines and Tools (Arize Phoenix)'
+  startOffset: 3459
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=3459
+  endOffset: 3530
+- name: 'Publishing Details: Second Edition and Availability'
+  startOffset: 3530
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=3530
+  endOffset: 3623
+- name: Closing Remarks and Links
+  startOffset: 3623
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=3623
+  endOffset: 3648
 ---
 
 Links:

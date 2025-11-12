@@ -1137,6 +1137,101 @@ intro: How can we reliably detect water on near‑Earth asteroids using machine 
   Listen to gain practical insight into asteroid mining, hyperspectral spectroscopy,
   machine learning for water detection, and the datasets and infrastructure to get
   involved in ISRU research and missions.
+dateadded: '2022-06-04'
+duration: PT01H16S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 83
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=83
+  endOffset: 111
+- name: 'Career & Data Science Pivot: From Astronomy to Asteroid Mining'
+  startOffset: 111
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=111
+  endOffset: 292
+- name: 'Cosmology vs. Astronomy: Timescales, Theory & Observation'
+  startOffset: 292
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=292
+  endOffset: 363
+- name: 'Machine Learning in Astronomy: Tasks, Signal Processing & Scaling'
+  startOffset: 363
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=363
+  endOffset: 440
+- name: 'Gravitational Wave Detection: Signal, Noise & Instrument Glitches'
+  startOffset: 440
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=440
+  endOffset: 765
+- name: 'Astronomical Data Types: Images, Hyperspectral Bands & Time Series'
+  startOffset: 765
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=765
+  endOffset: 864
+- name: 'Hyperspectral Spectroscopy: Infrared Signatures & Water Detection'
+  startOffset: 864
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=864
+  endOffset: 1004
+- name: 'Asteroid Features: Photometry, Light Curves, Rotation & Polarimetry'
+  startOffset: 1004
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=1004
+  endOffset: 1175
+- name: Spectral Classification & ML Approaches for Water Identification
+  startOffset: 1175
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=1175
+  endOffset: 1320
+- name: 'Ground Truth Limitations: Returned Samples, Meteorites & Validation'
+  startOffset: 1320
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=1320
+  endOffset: 1542
+- name: 'ISRU & Water-as-Fuel: Economics and Use Cases for Space Resources'
+  startOffset: 1542
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=1542
+  endOffset: 1818
+- name: 'Other Resources on Asteroids: Metals, Organics & Scientific Value'
+  startOffset: 1818
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=1818
+  endOffset: 1932
+- name: 'Asteroid Origins: Main Belt, Resonances & Near-Earth Populations'
+  startOffset: 1932
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=1932
+  endOffset: 2148
+- name: 'Observability Challenges: Angles, Dawn/Dusk Windows & Detection Biases'
+  startOffset: 2148
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=2148
+  endOffset: 2293
+- name: 'Data Organization: Team Roles, Data Engineering & Bayesian Engines'
+  startOffset: 2293
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=2293
+  endOffset: 2543
+- name: 'Cloud & Infrastructure: Storage, COGs/STAC and Querying Large Imagery'
+  startOffset: 2543
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=2543
+  endOffset: 2726
+- name: 'Open Datasets & APIs: Minor Planet Center, JPL Horizons, NEOWISE'
+  startOffset: 2726
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=2726
+  endOffset: 2956
+- name: 'Orbit Linking & Synthetic Tracking: ML for Large-Scale Detection'
+  startOffset: 2956
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=2956
+  endOffset: 3054
+- name: 'Mission Architecture: CubeSats, COTS Components & Partnership Strategy'
+  startOffset: 3054
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=3054
+  endOffset: 3202
+- name: 'Sampling & Extraction Methods: Scooping, Surface Interaction & R&D'
+  startOffset: 3202
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=3202
+  endOffset: 3436
+- name: 'Mathematical Models: Bayesian Frameworks, Thermal Models & Yarkovsky'
+  startOffset: 3436
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=3436
+  endOffset: 3611
+- name: 'Tools & Workflows: Notebooks, Reproducibility & Research Practices'
+  startOffset: 3611
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=3611
+  endOffset: 3668
+- name: 'Get Involved: Job Openings, Links, Contact & Further Resources'
+  startOffset: 3668
+  url: https://www.youtube.com/watch?v=YxijEUoDCfw&t=3668
+  endOffset: 3616
 ---
 
 Links:

@@ -876,6 +876,87 @@ intro: How do you go from medical school to shipping production-ready healthcare
   will come away with concrete, repeatable strategies for building a healthcare machine
   learning portfolio, landing freelance work, and deploying models to the cloud—plus
   time-management and mentoring practices that make it sustainable.
+dateadded: '2025-08-22'
+duration: PT01H01M07S
+quotableClips:
+- name: Podcast Introduction & Event Announcements
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=0
+  endOffset: 94
+- name: 'Guest Overview: Transition from Medicine and Criminology to Machine Learning
+    Career'
+  startOffset: 94
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=94
+  endOffset: 201
+- name: 'Career Trajectory: Statistician → Data Analyst → Data Engineer'
+  startOffset: 201
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=201
+  endOffset: 351
+- name: 'Skill Progression: SPSS, Excel, R, and Transition to Python'
+  startOffset: 351
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=351
+  endOffset: 365
+- name: 'Freelancing Beginnings: First Upwork Gigs and Early Projects'
+  startOffset: 365
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=365
+  endOffset: 548
+- name: 'Learning-by-Doing: Accepting Unknown Projects to Build Skills'
+  startOffset: 548
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=548
+  endOffset: 704
+- name: 'Balancing Dual Paths: Medical School and Data Work'
+  startOffset: 704
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=704
+  endOffset: 828
+- name: 'Medical Reasoning in Data Science: Probability, Reranking, and Triage'
+  startOffset: 828
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=828
+  endOffset: 869
+- name: 'Communication Skills: Improving English for Remote Work'
+  startOffset: 869
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=869
+  endOffset: 1443
+- name: 'Live Cohorts & ML Zoom Camp: Benefits of Structured, Hands-On Learning'
+  startOffset: 1443
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=1443
+  endOffset: 1647
+- name: 'Public Learning Strategy: Leaderboards, Posting, and Personal Branding'
+  startOffset: 1647
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=1647
+  endOffset: 1820
+- name: 'Content Framing: Owning Topics (ROC, Classifier Evaluation)'
+  startOffset: 1820
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=1820
+  endOffset: 1970
+- name: 'Recruiter Outreach: LinkedIn Visibility and Meta Interview Experience'
+  startOffset: 1970
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=1970
+  endOffset: 2116
+- name: 'Handling Critique: Social Media Feedback and Community Engagement'
+  startOffset: 2116
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=2116
+  endOffset: 2463
+- name: 'Portfolio Building: Notes, Notion, and Structured Content Workflow'
+  startOffset: 2463
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=2463
+  endOffset: 2868
+- name: 'Capstone Projects: Healthcare Datasets, Dockerized Models, and AWS Deployment'
+  startOffset: 2868
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=2868
+  endOffset: 3053
+- name: 'Community Contribution: Mentoring with DeepLearning.AI and Stanford Coding
+    Place'
+  startOffset: 3053
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=3053
+  endOffset: 3420
+- name: 'Time Management: Productivity Strategies for Medical Students and ML Learners'
+  startOffset: 3420
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=3420
+  endOffset: 3600
+- name: 'Final Reflections: Consistency, Career Next Steps, and Motivation'
+  startOffset: 3600
+  url: https://www.youtube.com/watch?v=5km62e4nDaw&t=3600
+  endOffset: 3667
 ---
 
 Links:

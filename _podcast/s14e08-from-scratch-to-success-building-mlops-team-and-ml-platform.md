@@ -1164,6 +1164,130 @@ intro: How do you design an ML platform that reliably deploys models, tracks exp
   LLM needs affect platforms. <br><br> Listen to learn concrete guidance on model
   deployment, reproducibility, orchestration, and compliance to help you design a
   pragmatic, scalable ML platform.
+dateadded: '2023-07-02'
+duration: PT00H58M42S
+quotableClips:
+- name: 'Episode Introduction: MLOps & ML platform conversation with Simon'
+  startOffset: 74
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=74
+  endOffset: 120
+- name: 'Career & Transition: Research to industry, early platform work and management'
+  startOffset: 120
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=120
+  endOffset: 282
+- name: 'MLOps Definition: People, processes, and technology'
+  startOffset: 282
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=282
+  endOffset: 415
+- name: 'Deployment Challenges: Early blockers that launched MLOps work'
+  startOffset: 415
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=415
+  endOffset: 491
+- name: 'Core Platform Skills: Cloud infrastructure, Kubernetes, Terraform'
+  startOffset: 491
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=491
+  endOffset: 647
+- name: 'User-Centric Platform Design: Understanding data science workflows and notebooks'
+  startOffset: 647
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=647
+  endOffset: 805
+- name: 'Engineering Fundamentals: Software engineering for ML platforms'
+  startOffset: 805
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=805
+  endOffset: 830
+- name: 'Team Composition: Specialist vs generalist skill balance'
+  startOffset: 830
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=830
+  endOffset: 934
+- name: 'Team Size & On‑Call: Staffing and operational considerations'
+  startOffset: 934
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=934
+  endOffset: 1012
+- name: 'Build vs Buy Decision: When to consider building an ML platform'
+  startOffset: 1012
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=1012
+  endOffset: 1034
+- name: 'Platform Triggers: Signs you need standardization across teams'
+  startOffset: 1034
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=1034
+  endOffset: 1204
+- name: 'Single-Team Value: SaaS components and incremental platform adoption'
+  startOffset: 1204
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=1204
+  endOffset: 1263
+- name: 'Data Science Workflow: Exploration to training and evaluation'
+  startOffset: 1263
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=1263
+  endOffset: 1700
+- name: 'Self‑Service Compute: Notebooks, BigQuery, Databricks provisioning'
+  startOffset: 1700
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=1700
+  endOffset: 1781
+- name: 'Experiment Tracking: Low‑hanging fruit for reproducibility and collaboration'
+  startOffset: 1781
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=1781
+  endOffset: 1832
+- name: 'Model Registry: Persisting models for downstream consumption'
+  startOffset: 1832
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=1832
+  endOffset: 1875
+- name: 'Deployment Patterns: Batch inference versus online serving'
+  startOffset: 1875
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=1875
+  endOffset: 1911
+- name: 'Orchestration Choices: Airflow, pipelines, and production workflows'
+  startOffset: 1911
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=1911
+  endOffset: 2041
+- name: 'Tool Integration: Stitching SaaS and open-source into a coherent platform'
+  startOffset: 2041
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=2041
+  endOffset: 2126
+- name: 'LLMs & Emerging Needs: Platform implications and vendor updates'
+  startOffset: 2126
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=2126
+  endOffset: 2320
+- name: 'Developer Experience: Thin abstraction layers over cloud providers'
+  startOffset: 2320
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=2320
+  endOffset: 2394
+- name: 'Regulatory Constraints: Fintech, security, and compliance impact'
+  startOffset: 2394
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=2394
+  endOffset: 2568
+- name: 'Metadata & Lineage: Reproducibility, artifact logging, and tracking'
+  startOffset: 2568
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=2568
+  endOffset: 2750
+- name: 'Data Governance: GDPR implications of logging and dataset storage'
+  startOffset: 2750
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=2750
+  endOffset: 2828
+- name: 'Business-First Strategy: Models before heavy platform investment'
+  startOffset: 2828
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=2828
+  endOffset: 2959
+- name: 'Parallelization Strategy: Building minimal platform pieces alongside use
+    cases'
+  startOffset: 2959
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=2959
+  endOffset: 3101
+- name: 'MLOps Skill Focus: When platform engineers should learn model internals'
+  startOffset: 3101
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=3101
+  endOffset: 3255
+- name: 'API Design & Logging: Unified prediction schemas for monitoring and analytics'
+  startOffset: 3255
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=3255
+  endOffset: 3452
+- name: 'Learning Resources: Books, practical projects, and MLOps training'
+  startOffset: 3452
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=3452
+  endOffset: 3579
+- name: Episode Wrap‑Up and Closing Remarks
+  startOffset: 3579
+  url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=3579
+  endOffset: 3522
 ---
 
 Links:

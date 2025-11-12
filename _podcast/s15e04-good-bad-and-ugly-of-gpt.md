@@ -917,6 +917,97 @@ intro: 'How do you build secure LLM apps that use GPT, embeddings and semantic s
   to evaluate LLM security and integration trade-offs, a 7-day experiment to embed
   LLMs into your workflow, and pointers to productivity tools and learning resources.
   Find Sandra on YouTube, X, and LinkedIn for follow-up resources and examples.'
+dateadded: '2023-08-06'
+duration: PT01H09S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=0
+  endOffset: 75
+- name: 'Guest Introduction: Sandra Kublik, AI entrepreneur and GPT-3 author'
+  startOffset: 75
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=75
+  endOffset: 146
+- name: 'LLM Landscape: Why GPT and large language models are everywhere'
+  startOffset: 146
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=146
+  endOffset: 185
+- name: 'Career Journey: Nextgrid, Lablab.AI and YouTube entry into AI'
+  startOffset: 185
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=185
+  endOffset: 488
+- name: 'Early GPT Community: Gaining access and demo-driven growth'
+  startOffset: 488
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=488
+  endOffset: 600
+- name: 'GPT & LLM Business Use Cases: Text generation, embeddings, and semantic search'
+  startOffset: 600
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=600
+  endOffset: 953
+- name: 'Cohere Focus: Community building and LLM education'
+  startOffset: 953
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=953
+  endOffset: 1002
+- name: 'Market Adoption: Startups, VC interest, and generative AI trends'
+  startOffset: 1002
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=1002
+  endOffset: 1162
+- name: 'LLMs as Amplifiers: Impact on authenticity and content scaling'
+  startOffset: 1162
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=1162
+  endOffset: 1409
+- name: 'Human-in-the-Loop: Hallucinations, brand safety, and editorial curation'
+  startOffset: 1409
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=1409
+  endOffset: 1676
+- name: 'Specialist Assistants: Secure, domain-specific chatbots for professionals'
+  startOffset: 1676
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=1676
+  endOffset: 1948
+- name: 'Building LLM Apps: Model choice, architecture, and integration trade-offs'
+  startOffset: 1948
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=1948
+  endOffset: 2128
+- name: 'Proprietary vs Open Source: Cost, latency, IP and data risk considerations'
+  startOffset: 2128
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=2128
+  endOffset: 2241
+- name: 'Prompt Engineering: Iteration, examples, and prompt whisperer techniques'
+  startOffset: 2241
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=2241
+  endOffset: 2421
+- name: 'Fine-Tuning & Embeddings: Domain adaptation and semantic retrieval'
+  startOffset: 2421
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=2421
+  endOffset: 2672
+- name: 'Prompt Tips: Providing examples, context, and SEO-focused instructions'
+  startOffset: 2672
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=2672
+  endOffset: 3061
+- name: '7-Day LLM Experiment: Integrating language models into daily workflow'
+  startOffset: 3061
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=3061
+  endOffset: 3363
+- name: 'Productivity Tools: Email assistants and content automation extensions'
+  startOffset: 3363
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=3363
+  endOffset: 3484
+- name: 'Learning Resources: LLM University, Cohere blog, and recommended readings'
+  startOffset: 3484
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=3484
+  endOffset: 3630
+- name: 'Contact & Social: Where to find Sandra online (YouTube, X, LinkedIn)'
+  startOffset: 3630
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=3630
+  endOffset: 3664
+- name: Episode Wrap-Up and Next Steps
+  startOffset: 3664
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=3664
+  endOffset: 3684
+- name: Closing Remarks
+  startOffset: 3684
+  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=3684
+  endOffset: 3609
 ---
 
 Links:

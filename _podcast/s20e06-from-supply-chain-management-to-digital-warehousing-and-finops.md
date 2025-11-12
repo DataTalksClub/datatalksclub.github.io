@@ -988,6 +988,105 @@ intro: How can data teams optimize cloud costs for analytics without slowing dow
   and the strategic responsibilities of senior data engineers. <br><br> Listen to
   learn actionable approaches to cloud cost optimization, practical dbt and BigQuery
   patterns, and how to embed FinOps practices into your data platform and team workflows.
+dateadded: '2025-04-30'
+duration: PT00H59M54S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=0
+  endOffset: 95
+- name: 'Guest Introduction: Eddy Zulkifly, Staff Data Engineer at Kinaxis'
+  startOffset: 95
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=95
+  endOffset: 134
+- name: 'Career Origins: Industrial Engineering, Supply Chain & Excel Macros'
+  startOffset: 134
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=134
+  endOffset: 380
+- name: 'Career Pivot: From Business Analyst to Data Engineering'
+  startOffset: 380
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=380
+  endOffset: 468
+- name: Analyst Skills as a Foundation for Data Engineering
+  startOffset: 468
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=468
+  endOffset: 486
+- name: 'Docker & Terraform: Learning Curve for Data Practitioners'
+  startOffset: 486
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=486
+  endOffset: 498
+- name: 'Tools & Low-Code Beginnings: Excel, Alteryx, Tableau'
+  startOffset: 498
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=498
+  endOffset: 673
+- name: 'Retail & Warehousing Experience: Forecasting, Preload Optimization'
+  startOffset: 673
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=673
+  endOffset: 1317
+- name: 'Digital Data Warehousing: Data as Inventory and Pipelines'
+  startOffset: 1317
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=1317
+  endOffset: 1356
+- name: 'Modern Data Stack: ELT, dbt, BigQuery and Orchestration'
+  startOffset: 1356
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=1356
+  endOffset: 1474
+- name: 'Operational Differences: Change Velocity, Monitoring, and Tests'
+  startOffset: 1474
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=1474
+  endOffset: 1670
+- name: 'Metric Trees & Data Specs: Translating Business Requirements for FinOps'
+  startOffset: 1670
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=1670
+  endOffset: 1796
+- name: 'Building a Digital Warehouse: Stack Choices and Open-Source Tools'
+  startOffset: 1796
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=1796
+  endOffset: 1900
+- name: 'FinOps Overview: Cloud Cost Optimization for SaaS Platforms'
+  startOffset: 1900
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=1900
+  endOffset: 2055
+- name: Vendor Negotiations & Reservation Instances for Cost Savings
+  startOffset: 2055
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2055
+  endOffset: 2171
+- name: 'Cloud Cost Modeling: VM Sizing, Storage Tiers and Multi-Cloud Comparison'
+  startOffset: 2171
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2171
+  endOffset: 2343
+- name: 'Demand Forecasting Analogy: Inventory Planning Applied to Cloud Capacity'
+  startOffset: 2343
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2343
+  endOffset: 2418
+- name: FinOps Foundation, Cost Tagging & Accountability Best Practices
+  startOffset: 2418
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2418
+  endOffset: 2681
+- name: OUCS & Standardizing Cloud Cost Reporting Across AWS/GCP/Azure
+  startOffset: 2681
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2681
+  endOffset: 2777
+- name: 'FinOps Processes: Parallels with DevOps, DataOps and CI/CD'
+  startOffset: 2777
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2777
+  endOffset: 2881
+- name: 'Staff Data Engineer Responsibilities: Technical & Strategic FinOps Work'
+  startOffset: 2881
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2881
+  endOffset: 3025
+- name: 'Continuous Learning: Georgia Tech Master’s, dbt, Python and Applied Analytics'
+  startOffset: 3025
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=3025
+  endOffset: 3365
+- name: 'Career Advice: Certifications, Mentorship, Community and Time Management'
+  startOffset: 3365
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=3365
+  endOffset: 3572
+- name: Closing Remarks & Key Takeaways
+  startOffset: 3572
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=3572
+  endOffset: 3594
 ---
 
 Links:

@@ -895,6 +895,114 @@ intro: 'How do you move from project management into a data science career — a
   specialization (fraud detection, node2vec), realistic job search expectations, part‑time
   learning plans, and essential math topics — a clear roadmap for transitioning to
   data science.'
+dateadded: '2021-04-10'
+duration: PT01H03M20S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=0
+  endOffset: 144
+- name: 'Guest Overview: Ksenia and episode focus (project management → data science)'
+  startOffset: 144
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=144
+  endOffset: 180
+- name: 'Career Foundations: math degree, management, and early PM roles'
+  startOffset: 180
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=180
+  endOffset: 275
+- name: 'Motivation for Analytics: customer-centric, data-driven decision making'
+  startOffset: 275
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=275
+  endOffset: 414
+- name: 'Transition Path: moving from data analysis into machine learning'
+  startOffset: 414
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=414
+  endOffset: 450
+- name: 'Analytics vs. Data Science: descriptive analysis vs. forecasting'
+  startOffset: 450
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=450
+  endOffset: 513
+- name: 'Learning Strategy: assess strengths and target skill gaps'
+  startOffset: 513
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=513
+  endOffset: 670
+- name: 'Education Choices: benefits of formal degrees vs. self-study'
+  startOffset: 670
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=670
+  endOffset: 780
+- name: 'Core Skill Set: programming, statistics, and domain expertise'
+  startOffset: 780
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=780
+  endOffset: 1038
+- name: 'Recommended Coursework: machine learning, time series, graph analysis'
+  startOffset: 1038
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=1038
+  endOffset: 1176
+- name: Online Resources & Course Picks (including mlcourse.ai)
+  startOffset: 1176
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=1176
+  endOffset: 1352
+- name: 'Transferable PM Skills: planning, stakeholder communication, business KPIs'
+  startOffset: 1352
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=1352
+  endOffset: 1820
+- name: 'Project Frameworks: using CRISP‑DM to structure data projects'
+  startOffset: 1820
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=1820
+  endOffset: 1963
+- name: 'Starting as a Data Analyst: apply analysis at work and build portfolio'
+  startOffset: 1963
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=1963
+  endOffset: 2088
+- name: 'Tools Progression: spreadsheets → BI tools (Tableau/Trifacta) → Python &
+    Pandas'
+  startOffset: 2088
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=2088
+  endOffset: 2207
+- name: 'Community Learning: OpenDataScience, DataTalks, and mentorship'
+  startOffset: 2207
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=2207
+  endOffset: 2334
+- name: 'Kaggle Practice: studying notebooks and collaborative competitions'
+  startOffset: 2334
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=2334
+  endOffset: 2467
+- name: 'Production Readiness: Git, testing, Docker, deployment, and Clean Code'
+  startOffset: 2467
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=2467
+  endOffset: 2596
+- name: 'Domain Specialization: research experience in fraud detection and node2vec'
+  startOffset: 2596
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=2596
+  endOffset: 2915
+- name: 'Job Search Reality: applications, interviews, and persistence'
+  startOffset: 2915
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=2915
+  endOffset: 3075
+- name: 'Bridging Theory and Practice: applying university work in industry'
+  startOffset: 3075
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=3075
+  endOffset: 3249
+- name: 'Part‑time Learning Plan: nanodegrees and structured six‑month paths'
+  startOffset: 3249
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=3249
+  endOffset: 3462
+- name: 'Essential Math Topics: probability, statistics, and graph theory'
+  startOffset: 3462
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=3462
+  endOffset: 3661
+- name: 'Career Habits: critical path, study techniques, and lifelong learning'
+  startOffset: 3661
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=3661
+  endOffset: 3687
+- name: 'Final Advice: contribute to projects, narrow your scope, join communities'
+  startOffset: 3687
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=3687
+  endOffset: 3907
+- name: Episode Close and Final Wishes
+  startOffset: 3907
+  url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=3907
+  endOffset: 3800
 ---
 
 We talked about:

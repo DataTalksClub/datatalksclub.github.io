@@ -1,26 +1,28 @@
 ---
-title: "CRISP-DM Methodology for Data Science Projects: Business Understanding, Data Preparation, Modeling, Evaluation & Deployment"
-short: "Processes in a Data Science Project"
-guests: [alexeygrigorev]
-
+title: 'CRISP-DM Methodology for Data Science Projects: Business Understanding, Data
+  Preparation, Modeling, Evaluation & Deployment'
+short: Processes in a Data Science Project
+guests:
+- alexeygrigorev
 image: images/podcast/s01e02-processes.jpg
-
-description: "Learn the CRISP-DM methodology for managing data science projects. Step-by-step guide covering business understanding, data preparation, modeling, evaluation, and deployment."
-
-keywords: "CRISP-DM, data science process, machine learning methodology, data science project management, ML project lifecycle, data science workflow, A/B testing, model deployment, data science best practices, ML model evaluation, cross-functional data teams"
-
+description: Learn the CRISP-DM methodology for managing data science projects. Step-by-step
+  guide covering business understanding, data preparation, modeling, evaluation, and
+  deployment.
+keywords: CRISP-DM, data science process, machine learning methodology, data science
+  project management, ML project lifecycle, data science workflow, A/B testing, model
+  deployment, data science best practices, ML model evaluation, cross-functional data
+  teams
 season: 1
 episode: 2
-
 ids:
   youtube: SesVTDklFYQ
   anchor: Processes-in-a-Data-Science-Project---Alexey-Grigorev-encdlg
-
 links:
   youtube: https://www.youtube.com/watch?v=SesVTDklFYQ
   anchor: https://anchor.fm/datatalksclub/episodes/Processes-in-a-Data-Science-Project---Alexey-Grigorev-encdlg
   spotify: TODO
   apple: TODO
+dateadded: '2021-02-23'
 ---
 
 The topic today is the processes in a data science project. We want to understand how cross-functional teams work together to ship real value. We'll use a concrete example (auto-categorizing marketplace listings) and walk through CRISP-DM step by step.

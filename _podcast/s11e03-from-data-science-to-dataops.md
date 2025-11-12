@@ -997,6 +997,125 @@ intro: How do you make data work less fragile and easier to onboard while keepin
   best practices for batch workloads and CI migrations, this episode delivers hands‑on
   advice, learning paths and tooling choices to make your data work faster, safer
   and more maintainable.
+dateadded: '2022-10-22'
+duration: PT01H05M09S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=0
+  endOffset: 100
+- name: Guest Introduction & Episode Overview
+  startOffset: 100
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=100
+  endOffset: 145
+- name: 'Career Journey: Econometrics → ML Trainee → Data Roles'
+  startOffset: 145
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=145
+  endOffset: 271
+- name: 'Early Experience: OLX, Government Statistics, Academia'
+  startOffset: 271
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=271
+  endOffset: 320
+- name: 'ML Education: Multi‑Dimensional Analysis to Machine Learning'
+  startOffset: 320
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=320
+  endOffset: 394
+- name: 'Behavioral Analysis & Product Analytics: Clickstream Modeling'
+  startOffset: 394
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=394
+  endOffset: 428
+- name: 'Operational Realities: ETL Failures, Production Constraints'
+  startOffset: 428
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=428
+  endOffset: 760
+- name: 'Platform Onboarding: Requesting Infra vs. Doing a Merge Request'
+  startOffset: 760
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=760
+  endOffset: 787
+- name: 'Platform Teams’ Role: Review, Enablement, and Safe Practices'
+  startOffset: 787
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=787
+  endOffset: 852
+- name: 'Motivation Shift: From Model‑Centric to Data‑Centric Work'
+  startOffset: 852
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=852
+  endOffset: 1139
+- name: 'Defining DataOps: Enabling Faster, Less Scary Data Work (DataOps, DevOps)'
+  startOffset: 1139
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1139
+  endOffset: 1256
+- name: 'DataOps & Infra: SQL, Secrets, GitOps, and Developer Enablement'
+  startOffset: 1256
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1256
+  endOffset: 1384
+- name: 'GitOps & IaC Overview: Terraform, Terragrunt, Atlantis'
+  startOffset: 1384
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1384
+  endOffset: 1422
+- name: 'Infrastructure as Code: Declarative Configurations & Reproducibility'
+  startOffset: 1422
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1422
+  endOffset: 1581
+- name: 'GitOps Workflow: Branch, Merge Request, Atlantis Dry Run, Apply'
+  startOffset: 1581
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1581
+  endOffset: 1654
+- name: 'Onboarding Friction: Tooling Challenges for Data Scientists'
+  startOffset: 1654
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1654
+  endOffset: 1774
+- name: 'Learning Path: Narrow Scope, Hands‑On Mentorship, Roadmap Advice'
+  startOffset: 1774
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1774
+  endOffset: 2155
+- name: 'Terminal Comfort: Shell Setup, Autocomplete, and Productivity Tweaks'
+  startOffset: 2155
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2155
+  endOffset: 2300
+- name: 'Learning Resources: YouTube, Articles, and CLI Tutorials'
+  startOffset: 2300
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2300
+  endOffset: 2444
+- name: 'DataOps vs Data Engineering: Support & Communication vs Pipeline Coding'
+  startOffset: 2444
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2444
+  endOffset: 2512
+- name: 'Proactive Support: Monitoring, Onboarding, and Cross‑Team Education'
+  startOffset: 2512
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2512
+  endOffset: 2663
+- name: 'Suitable Backgrounds: Any Data Role; Log Reading & Troubleshooting'
+  startOffset: 2663
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2663
+  endOffset: 2875
+- name: 'Minimal Operational Skills: Git, Command Line, IAM, Password Managers'
+  startOffset: 2875
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2875
+  endOffset: 3277
+- name: 'Distinction from Management: Cross‑Team Enablement vs Team Leads'
+  startOffset: 3277
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3277
+  endOffset: 3404
+- name: 'Infrastructure Choices for Data: Batch Workloads, ECS/AWS Batch vs Kubernetes'
+  startOffset: 3404
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3404
+  endOffset: 3506
+- name: 'Company‑Scale Migration: Jenkins → GitLab CI and Broad Collaboration'
+  startOffset: 3506
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3506
+  endOffset: 3687
+- name: 'Reproducibility & Dependencies: Fixed Versions, Docker, Silent Failures'
+  startOffset: 3687
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3687
+  endOffset: 3748
+- name: 'Confidence in Data: Pragmatic Edge‑Case Checks & Airflow Caveats'
+  startOffset: 3748
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3748
+  endOffset: 3941
+- name: Closing Remarks, Resources, and Subscribe Call to Action
+  startOffset: 3941
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3941
+  endOffset: 3909
 ---
 
 Links:

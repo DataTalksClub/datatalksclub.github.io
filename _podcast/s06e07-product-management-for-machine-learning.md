@@ -1113,6 +1113,129 @@ intro: How do you become an ML product manager and build MLOps platforms that te
   from data scientist or Scrum Master into technical ML product roles. <br><br> Listen
   to gain actionable guidance on MLOps platforms, observability, adoption strategy,
   and the technical literacy required to succeed as an ML product manager.
+dateadded: '2021-12-17'
+duration: PT01H02M46S
+quotableClips:
+- name: 'Episode Introduction: Product Management for Machine Learning'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=0
+  endOffset: 73
+- name: 'Guest Overview: Geo and episode focus on AI Product Manager role'
+  startOffset: 73
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=73
+  endOffset: 116
+- name: 'Career Journey: From web/dev to data science to product management'
+  startOffset: 116
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=116
+  endOffset: 388
+- name: 'Glovo Role: Leading ML platform strategy and team responsibilities'
+  startOffset: 388
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=388
+  endOffset: 521
+- name: In-house MLOps Platform Strategy & Vendor Evaluation
+  startOffset: 521
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=521
+  endOffset: 590
+- name: 'Product Manager Responsibilities: Roadmap, specs, and stakeholder balance'
+  startOffset: 590
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=590
+  endOffset: 684
+- name: 'Internal Platform Users as Customers: ROI and adoption considerations'
+  startOffset: 684
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=684
+  endOffset: 824
+- name: 'Platform Usability Costs: Productivity losses from poor tooling UX'
+  startOffset: 824
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=824
+  endOffset: 919
+- name: 'Backlog Prioritization: Grooming with engineering and Agile practices'
+  startOffset: 919
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=919
+  endOffset: 1004
+- name: 'Outcome-Driven Problem Definition: Metrics over immediate solutions'
+  startOffset: 1004
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=1004
+  endOffset: 1105
+- name: 'ML Observability: KPIs and measuring platform impact'
+  startOffset: 1105
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=1105
+  endOffset: 1169
+- name: 'Avoiding Solution Bias: Techniques to resist jumping into solutions'
+  startOffset: 1169
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=1169
+  endOffset: 1266
+- name: 'Collaborative Problem Breakdown: Workshops, interviews, and user input'
+  startOffset: 1266
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=1266
+  endOffset: 1335
+- name: 'Core PM Skills: Communication, prioritization, and continuous learning'
+  startOffset: 1335
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=1335
+  endOffset: 1408
+- name: 'Technical Literacy: Model architectures, data infra, and cloud concepts'
+  startOffset: 1408
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=1408
+  endOffset: 1531
+- name: 'Technical Background Value: Why platform PMs need tooling familiarity'
+  startOffset: 1531
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=1531
+  endOffset: 1717
+- name: 'Role Differences: Data Science Lead / Staff vs Technical ML Product Manager'
+  startOffset: 1717
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=1717
+  endOffset: 1888
+- name: 'Release Governance & Rollout Strategy: Approvals, compliance, and timing'
+  startOffset: 1888
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=1888
+  endOffset: 2118
+- name: 'Adoption Strategy: "Time to stakeholders" and internal rollouts'
+  startOffset: 2118
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=2118
+  endOffset: 2268
+- name: 'Engineering Roles in ML Platforms: Backend, syseng, CI/CD, and K8s'
+  startOffset: 2268
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=2268
+  endOffset: 2414
+- name: 'Embedded Data Scientists: Power users, developer advocates, and demos'
+  startOffset: 2414
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=2414
+  endOffset: 2534
+- name: 'Agile for Data Science: Kanban, Scrum, and adapting to research work'
+  startOffset: 2534
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=2534
+  endOffset: 2696
+- name: 'Transition Path: Moving from Data Scientist to Technical Product Manager'
+  startOffset: 2696
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=2696
+  endOffset: 2983
+- name: 'Recommended Resources: Books and communities for PM transition'
+  startOffset: 2983
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=2983
+  endOffset: 3165
+- name: 'Non‑Technical Transitions: Feasibility of moving into ML product roles'
+  startOffset: 3165
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=3165
+  endOffset: 3344
+- name: 'User Research for Internal Platforms: Surveys and Happiness Reports'
+  startOffset: 3344
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=3344
+  endOffset: 3440
+- name: 'ML Quality Assurance: Model validation, shadowing, and release checklists'
+  startOffset: 3440
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=3440
+  endOffset: 3592
+- name: 'Scrum Master to PM Advice: Leverage Agile skills and learn ML basics'
+  startOffset: 3592
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=3592
+  endOffset: 3711
+- name: 'Final Thoughts: PM demands, scope, and career realities'
+  startOffset: 3711
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=3711
+  endOffset: 3815
+- name: 'Contact & Hiring: Geo on LinkedIn and Glovo opportunities'
+  startOffset: 3815
+  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=3815
+  endOffset: 3766
 ---
 
 Links:

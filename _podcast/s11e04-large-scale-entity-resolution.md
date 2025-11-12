@@ -1134,6 +1134,145 @@ intro: 'How do you eliminate duplicate records across modern data stacks without
   matching, or persistent duplicate records in a centralized data stack, this episode
   offers concrete implementation patterns, scaling considerations, and open‑source
   tradeoffs to help you choose the right identity resolution path.'
+dateadded: '2022-10-29'
+duration: PT01H23S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=0
+  endOffset: 71
+- name: 'Guest Overview: Sonal Goyal and Zingg identity resolution'
+  startOffset: 71
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=71
+  endOffset: 126
+- name: 'Career Overview: 24 years in tech, data consulting background'
+  startOffset: 126
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=126
+  endOffset: 178
+- name: 'Origin Story: Consulting projects reveal recurring identity gaps'
+  startOffset: 178
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=178
+  endOffset: 291
+- name: 'Modern Data Stack: Centralized data exposing identity challenges'
+  startOffset: 291
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=291
+  endOffset: 343
+- name: 'Product Overview: Zingg — ML-powered identity resolution'
+  startOffset: 343
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=343
+  endOffset: 434
+- name: 'Terminology: Entity resolution vs identity resolution'
+  startOffset: 434
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=434
+  endOffset: 472
+- name: 'Duplicate Detection vs Deduplication: Outcomes and use cases'
+  startOffset: 472
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=472
+  endOffset: 548
+- name: 'Motivation: Recurring duplicate problems across domains'
+  startOffset: 548
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=548
+  endOffset: 669
+- name: 'Solution Generality: Customers, products, patients and suppliers'
+  startOffset: 669
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=669
+  endOffset: 818
+- name: 'Related Terms: Record linkage, entity matching, entity disambiguation'
+  startOffset: 818
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=818
+  endOffset: 842
+- name: 'Core Approach: ML training, blocking, indexing for scale'
+  startOffset: 842
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=842
+  endOffset: 1093
+- name: 'Implementation: Spark distribution, Snowflake-native & Python API'
+  startOffset: 1093
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=1093
+  endOffset: 1241
+- name: 'Interfaces & Integrations: CLI, Python SDK, Databricks, dbt, UI plans'
+  startOffset: 1241
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=1241
+  endOffset: 1311
+- name: 'Founder Transition: From consultancy to full-time product build'
+  startOffset: 1311
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=1311
+  endOffset: 1380
+- name: 'Development Timeline: Proof-of-concept to public release (~18 months)'
+  startOffset: 1380
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=1380
+  endOffset: 1454
+- name: 'Open Source Strategy: Community, adoption, and business rationale'
+  startOffset: 1454
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=1454
+  endOffset: 1620
+- name: 'Licensing Choice: AGPL to prevent SaaS rehosting and protect IP'
+  startOffset: 1620
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=1620
+  endOffset: 1870
+- name: 'Open Source Trade-offs: IP concerns vs discoverability and growth'
+  startOffset: 1870
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=1870
+  endOffset: 1920
+- name: 'Team Evolution: Solo founder, consultants, and initial hires'
+  startOffset: 1920
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=1920
+  endOffset: 1979
+- name: 'Founder Role: Product, ecosystem integrations, community and hiring'
+  startOffset: 1979
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=1979
+  endOffset: 2114
+- name: 'Team & Hiring: First developer hire and fully remote setup'
+  startOffset: 2114
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=2114
+  endOffset: 2241
+- name: 'Scaling Challenge: Recruiting the right engineering talent'
+  startOffset: 2241
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=2241
+  endOffset: 2323
+- name: 'Prevention Limits: Data governance won’t fully eliminate identity issues'
+  startOffset: 2323
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=2323
+  endOffset: 2436
+- name: 'Beyond Joins: When fuzzy joins and basic ETL aren’t enough'
+  startOffset: 2436
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=2436
+  endOffset: 2665
+- name: 'Deterministic Rules vs Probabilistic ML: Trade-offs for accuracy'
+  startOffset: 2665
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=2665
+  endOffset: 2750
+- name: 'Fraud Use Cases: Identity resolution for AML and fraud detection'
+  startOffset: 2750
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=2750
+  endOffset: 2963
+- name: 'Graph + ML: Pairwise matching, graph clustering and downstream use'
+  startOffset: 2963
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=2963
+  endOffset: 3020
+- name: 'Data Mapping: Need to specify field correspondences for matching'
+  startOffset: 3020
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=3020
+  endOffset: 3099
+- name: 'Impact Case Studies: Public-data donors, e‑commerce and classifieds'
+  startOffset: 3099
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=3099
+  endOffset: 3251
+- name: 'Retrospective: Seeking cofounder earlier and open-sourcing sooner'
+  startOffset: 3251
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=3251
+  endOffset: 3367
+- name: 'Founder Advice: Validate use cases, distribution channels, and conviction'
+  startOffset: 3367
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=3367
+  endOffset: 3566
+- name: 'Recommended Reading: Creative Selection on product design'
+  startOffset: 3566
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=3566
+  endOffset: 3638
+- name: 'Closing Remarks: Follow-ups, demos and contact options'
+  startOffset: 3638
+  url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=3638
+  endOffset: 3623
 ---
 
 Links:

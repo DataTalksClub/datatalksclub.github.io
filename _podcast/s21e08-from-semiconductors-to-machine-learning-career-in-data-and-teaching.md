@@ -1044,6 +1044,121 @@ intro: 'How do you move machine learning for predictive maintenance and yield an
   for semiconductor predictive maintenance, yield analytics, or ML deployment, this
   episode gives actionable guidance on tools, workflows, and learning strategies to
   get models reliably running in production.'
+dateadded: '2025-10-21'
+duration: PT01H13M08S
+quotableClips:
+- name: Podcast Introduction & Data Docs Club
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=0
+  endOffset: 111
+- name: 'Guest Overview: Multidisciplinary Career Snapshot'
+  startOffset: 111
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=111
+  endOffset: 178
+- name: 'Career Pivot: From Classical Guitarist to Tech in Portland'
+  startOffset: 178
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=178
+  endOffset: 289
+- name: 'Semiconductor Onboarding: Expediter Role and Fab Floor Experience'
+  startOffset: 289
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=289
+  endOffset: 349
+- name: 'Fab Data Exposure: Millisecond Tool Logs and Process Telemetry'
+  startOffset: 349
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=349
+  endOffset: 376
+- name: 'Self-Education: Learning English and Computer Science'
+  startOffset: 376
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=376
+  endOffset: 704
+- name: 'Automation Initiative: Building a Java Tool for CMP Calculations'
+  startOffset: 704
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=704
+  endOffset: 923
+- name: 'Yield Analytics: JMP, Oracle, and Cross-Area Data Access'
+  startOffset: 923
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=923
+  endOffset: 1262
+- name: 'ML Introduction: Academic AI Project and Predictive Interest'
+  startOffset: 1262
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=1262
+  endOffset: 1409
+- name: 'Predictive Maintenance: "Wafers at Risk" Model for Yield Improvement'
+  startOffset: 1409
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=1409
+  endOffset: 1516
+- name: 'Explainability Dilemma: Tweaking Models vs. Understanding Results'
+  startOffset: 1516
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=1516
+  endOffset: 1773
+- name: 'Course Selection: Choosing ML Zoomcamp Cohort Experience'
+  startOffset: 1773
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=1773
+  endOffset: 1942
+- name: 'Applied Curriculum: Deliverable ML Beyond Jupyter Notebooks'
+  startOffset: 1942
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=1942
+  endOffset: 2074
+- name: 'Learning Support: Slack Q&A, Cohorts, and Peer Study Groups'
+  startOffset: 2074
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=2074
+  endOffset: 2249
+- name: 'Production Focus: Flask REST API, Docker, and Google Cloud'
+  startOffset: 2249
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=2249
+  endOffset: 2392
+- name: 'Midterm Demo: COVID Comorbidity Model Deployed as an API'
+  startOffset: 2392
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=2392
+  endOffset: 2676
+- name: 'Infrastructure Automation: Terraform and MLOps Takeaways'
+  startOffset: 2676
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=2676
+  endOffset: 2904
+- name: 'Computer Vision Project: Butterfly Image Classification (TensorFlow)'
+  startOffset: 2904
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=2904
+  endOffset: 3070
+- name: 'Kaggle Workflow: EDA, Feature Engineering, and Model Iteration'
+  startOffset: 3070
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3070
+  endOffset: 3113
+- name: 'Model Portability: ONNX for Framework Interoperability'
+  startOffset: 3113
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3113
+  endOffset: 3203
+- name: 'Full-Stack ML Skills: Docker, VMs, Databases, and Deployment'
+  startOffset: 3203
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3203
+  endOffset: 3265
+- name: 'Common Roadblocks: Mac M1 Issues and Wide Categorical Data'
+  startOffset: 3265
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3265
+  endOffset: 3362
+- name: 'Time Commitment: Homework Strategy and Active Video Learning'
+  startOffset: 3362
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3362
+  endOffset: 3487
+- name: 'Community Value: Rapid Help, Code Reviews, and Study Groups'
+  startOffset: 3487
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3487
+  endOffset: 3631
+- name: 'Motivation Techniques: Public Learning and Project Accountability'
+  startOffset: 3631
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3631
+  endOffset: 4056
+- name: 'Teaching Ambition: Creating High-Quality Spanish ML Content'
+  startOffset: 4056
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=4056
+  endOffset: 4228
+- name: 'Upcoming Offerings: AI-for-Developers, React, and LLM Coding'
+  startOffset: 4228
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=4228
+  endOffset: 4369
+- name: 'Closing Remarks: Course Endorsement and Next Steps'
+  startOffset: 4369
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=4369
+  endOffset: 4388
 ---
 
 Links:

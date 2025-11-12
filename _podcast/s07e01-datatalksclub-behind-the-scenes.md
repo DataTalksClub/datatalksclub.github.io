@@ -1,5 +1,6 @@
 ---
-title: 'DataTalks.Club Behind the Scenes: Alexey Grigorev on Scaling and Growing the Community'
+title: 'DataTalks.Club Behind the Scenes: Alexey Grigorev on Scaling and Growing the
+  Community'
 short: DataTalks.Club Behind the Scenes
 guests:
 - eugeneyan
@@ -946,6 +947,104 @@ intro: 'How do you move from a Java background into a sustainable machine learni
   and sponsorship realities, and practical career tactics: joining communities, finding
   mentors, and learning by projects. Tune in for actionable guidance on machine learning
   career development, ML in production, and community building.'
+dateadded: '2022-01-23'
+duration: PT00H56M57S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=0
+  endOffset: 9
+- name: 'Career Transition: Java to Machine Learning (Coursera, Andrew Ng)'
+  startOffset: 9
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=9
+  endOffset: 86
+- name: Freelancing, Master's, and first data-science roles; building data pipelines
+  startOffset: 86
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=86
+  endOffset: 306
+- name: 'Career Lessons: step outside comfort zone; product mindset; prefer simple
+    models'
+  startOffset: 306
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=306
+  endOffset: 387
+- name: 'Principal Data Scientist Role: internal consulting, architecture, mentoring'
+  startOffset: 387
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=387
+  endOffset: 576
+- name: 'Motivation to Start the Community: early interactions and LinkedIn outreach'
+  startOffset: 576
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=576
+  endOffset: 605
+- name: 'Community Origins: forums, landing page, first events and format inspiration'
+  startOffset: 605
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=605
+  endOffset: 1014
+- name: 'Community Growth & Events: conference boost and scaling to ~9k members'
+  startOffset: 1014
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=1014
+  endOffset: 1222
+- name: 'Content Production & Automation: planning, scheduling, Zapier, Eventbrite'
+  startOffset: 1222
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=1222
+  endOffset: 1478
+- name: 'Event Formats: Open Source Spotlight, Minis, Book of the Week'
+  startOffset: 1478
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=1478
+  endOffset: 1671
+- name: 'Notable Guests & Popular Episodes: Martin Kleppmann, Elena Samuylova, Santiago'
+  startOffset: 1671
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=1671
+  endOffset: 1897
+- name: 'Monetization & Sponsorship: costs, TopCoder, Toloka crowdsourcing workshop'
+  startOffset: 1897
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=1897
+  endOffset: 2302
+- name: 'ML Bookcamp & Machine Learning Zoomcamp: project-based, end-to-end learning'
+  startOffset: 2302
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=2302
+  endOffset: 2346
+- name: 'Deployment Focus in the Book/Course: Flask, AWS Lambda, Kubernetes, Kubeflow'
+  startOffset: 2346
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=2346
+  endOffset: 2569
+- name: 'Career Advice: join communities, answer questions, find mentors'
+  startOffset: 2569
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=2569
+  endOffset: 2635
+- name: 'Motivation & Persistence: handling frustration and sustaining interest'
+  startOffset: 2635
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=2635
+  endOffset: 2740
+- name: 'Tool Evaluation Strategy: avoid tool churn, follow lasting trends, Kedro
+    curiosity'
+  startOffset: 2740
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=2740
+  endOffset: 2936
+- name: 'Productivity & Workflow: public deadlines, accountability, batching work'
+  startOffset: 2936
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=2936
+  endOffset: 3031
+- name: 'Learning by Projects & Notes: just-in-time learning, Notion, READMEs, GitHub
+    docs'
+  startOffset: 3031
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=3031
+  endOffset: 3184
+- name: 'Community Inspiration & Format Ideas: borrowing from ML Ops and JavaRanch'
+  startOffset: 3184
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=3184
+  endOffset: 3307
+- name: 'Interactive Formats: live coding, office hours, ML Zoomcamp sessions'
+  startOffset: 3307
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=3307
+  endOffset: 3356
+- name: Community Thanks & Future Plans
+  startOffset: 3356
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=3356
+  endOffset: 3410
+- name: Podcast Closing
+  startOffset: 3410
+  url: https://www.youtube.com/watch?v=IxTyq96juVE&t=3410
+  endOffset: 3417
 ---
 
 Links:

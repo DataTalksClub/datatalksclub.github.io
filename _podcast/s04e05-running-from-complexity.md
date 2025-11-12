@@ -1,5 +1,6 @@
 ---
-title: 'Practical Machine Learning Engineering for Production: Ship Maintainable Models, Avoid Complexity'
+title: 'Practical Machine Learning Engineering for Production: Ship Maintainable Models,
+  Avoid Complexity'
 short: Running from Complexity
 guests:
 - benwilson
@@ -1201,6 +1202,113 @@ intro: 'Are your ML projects collapsing under their own complexity—or never ma
   in reproducing academic papers in production. Listen to learn concrete practices—from
   experimentation limits to mentoring and deployment tradeoffs—that help you move
   ideas into production and keep models reliable and maintainable.'
+dateadded: '2021-07-23'
+duration: PT01H11M41S
+quotableClips:
+- name: 'Podcast Introduction: Running from Complexity'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=0
+  endOffset: 134
+- name: 'Guest Introduction: Ben Wilson, Databricks and ML engineering focus'
+  startOffset: 134
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=134
+  endOffset: 186
+- name: 'Career Path: Navy nuclear tech to process engineering and data science'
+  startOffset: 186
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=186
+  endOffset: 410
+- name: 'Consulting Approach: Prioritizing maintainability over novelty'
+  startOffset: 410
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=410
+  endOffset: 529
+- name: 'Code Quality: Refactoring "walls of text" into modular, testable code'
+  startOffset: 529
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=529
+  endOffset: 635
+- name: 'Production Failures: Lack of business buy-in and overcomplicated solutions'
+  startOffset: 635
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=635
+  endOffset: 799
+- name: 'Motivation Drivers: Tech hype, "flexing," and engineering pragmatism'
+  startOffset: 799
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=799
+  endOffset: 1097
+- name: 'Avoiding Search-Driven Complexity: Use experts, communities, and Bayesian
+    methods'
+  startOffset: 1097
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=1097
+  endOffset: 1299
+- name: 'Cross-Functional Collaboration: Involving SMEs to simplify solutions'
+  startOffset: 1299
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=1299
+  endOffset: 1564
+- name: 'Explainability: Translating models into business terms to build trust'
+  startOffset: 1564
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=1564
+  endOffset: 1746
+- name: 'From Idea to Production: Rapid prototypes, selling to SMEs, and executive
+    sponsorship'
+  startOffset: 1746
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=1746
+  endOffset: 1923
+- name: 'Experimentation Process: Timeboxed bake-offs and cost–benefit tradeoffs'
+  startOffset: 1923
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=1923
+  endOffset: 2173
+- name: 'The IKEA Effect: Emotional attachment to complex, hard-to-maintain systems'
+  startOffset: 2173
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=2173
+  endOffset: 2357
+- name: 'Novel Algorithm Risks: Transfer learning vs building white‑paper solutions'
+  startOffset: 2357
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=2357
+  endOffset: 2663
+- name: 'Prefer Simplicity First: Solve with SQL or stats before deep learning'
+  startOffset: 2663
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=2663
+  endOffset: 2782
+- name: 'Paper Pitfalls: Reproducibility, environment assumptions, and cloud cost'
+  startOffset: 2782
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=2782
+  endOffset: 2994
+- name: 'Team Composition: Importance of statistics expertise and coding/ML engineering
+    skills'
+  startOffset: 2994
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=2994
+  endOffset: 3134
+- name: 'Agile for ML: Iterative sprints, MVPs, feature engineering, and testing'
+  startOffset: 3134
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=3134
+  endOffset: 3341
+- name: 'Timeboxing Research: Limit experiments to avoid sunk-costs'
+  startOffset: 3341
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=3341
+  endOffset: 3458
+- name: 'Mentoring & Training: Databricks programs and production ML capstones'
+  startOffset: 3458
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=3458
+  endOffset: 3553
+- name: 'Book Summary: Machine Learning Engineering in Action — process, automation,
+    testing'
+  startOffset: 3553
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=3553
+  endOffset: 3747
+- name: 'AI‑First Tradeoffs: Talent needs, retention, and budget realities'
+  startOffset: 3747
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=3747
+  endOffset: 3874
+- name: 'Manager Enablement: Tech leads translating ML for nontechnical managers'
+  startOffset: 3874
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=3874
+  endOffset: 4078
+- name: 'Career Path Advice: Core fundamentals, specialization timeline, and leadership'
+  startOffset: 4078
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=4078
+  endOffset: 4371
+- name: 'Contact & Resources: LinkedIn, podcast appearances, and early‑access book'
+  startOffset: 4371
+  url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=4371
+  endOffset: 4301
 ---
 
 Links:

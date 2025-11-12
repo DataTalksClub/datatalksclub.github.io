@@ -961,6 +961,101 @@ intro: 'How do you design machine learning systems that scale, stay reliable in 
   examples (photostock search and retail pricing). Listeners will get concrete guidance
   on MLOps, design docs, data strategy, and edge ML trade-offs — plus pointers to
   deeper learning resources and a book offer discussed at the end.'
+dateadded: '2023-05-13'
+duration: PT00H59M25S
+quotableClips:
+- name: 'Episode Overview: Building Scalable & Reliable Machine Learning Systems'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=0
+  endOffset: 154
+- name: Guest Bio & Startup Experience (deep learning, MLOps, Ntropy, AR, Lyft)
+  startOffset: 154
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=154
+  endOffset: 371
+- name: 'Startups: ML Productionization Trade-offs and Decision Ownership'
+  startOffset: 371
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=371
+  endOffset: 474
+- name: 'Defining Machine Learning System Design: Goals and Constraints'
+  startOffset: 474
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=474
+  endOffset: 634
+- name: 'Edge & Mobile ML Constraints: Latency, FPS, Energy, Core ML'
+  startOffset: 634
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=634
+  endOffset: 889
+- name: 'Managing Unknowns: Known Unknowns, Unknown Unknowns, Early Tests'
+  startOffset: 889
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=889
+  endOffset: 1129
+- name: 'Planning Value: Why a Lightweight Design Phase Matters'
+  startOffset: 1129
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=1129
+  endOffset: 1221
+- name: 'Design Document Approach: Problem-First, 50/50 Problem vs Solution'
+  startOffset: 1221
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=1221
+  endOffset: 1368
+- name: 'Problem Framing: Product Scenarios, Realism vs Appeal Trade-offs'
+  startOffset: 1368
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=1368
+  endOffset: 1741
+- name: 'Goals, Non-Goals & Assumptions: Turning Requirements into Metrics'
+  startOffset: 1741
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=1741
+  endOffset: 1902
+- name: 'Solution Blueprint: Baseline, Metrics, Pipeline Components'
+  startOffset: 1902
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=1902
+  endOffset: 1957
+- name: 'Data Strategy: Availability, Processing, Feature Needs, Data Lakes'
+  startOffset: 1957
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=1957
+  endOffset: 2235
+- name: 'System Diagramming: Data Flow, Dependencies, Real-time vs Batch'
+  startOffset: 2235
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=2235
+  endOffset: 2382
+- name: 'Motivation for the Book: Generalizing Experience into Patterns'
+  startOffset: 2382
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=2382
+  endOffset: 2505
+- name: 'Heuristics for Datasets: Intuition, Limits, and Practical Guidance'
+  startOffset: 2505
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=2505
+  endOffset: 2710
+- name: 'Design Doc Examples: Photostock Search & Super Mega Retail Pricing'
+  startOffset: 2710
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=2710
+  endOffset: 2829
+- name: 'Reader Types: Theory-Focused vs Template-Focused Audiences'
+  startOffset: 2829
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=2829
+  endOffset: 2907
+- name: 'Co-author Dynamics: Balancing Corporate & Hands-on Perspectives'
+  startOffset: 2907
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=2907
+  endOffset: 3099
+- name: 'Book Development: Scope Decisions, Publisher Constraints, Reviewer Feedback'
+  startOffset: 3099
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=3099
+  endOffset: 3348
+- name: 'Favorite Chapter: Preliminary Research, Reuse, and External Sources'
+  startOffset: 3348
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=3348
+  endOffset: 3508
+- name: 'Further Learning: System Design Fundamentals & Software Engineering Skills'
+  startOffset: 3508
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=3508
+  endOffset: 3600
+- name: 'Book Offer & Giveaway: Discount Code, Twitter Giveaway Winners'
+  startOffset: 3600
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=3600
+  endOffset: 3637
+- name: Closing Remarks and Episode Wrap-up
+  startOffset: 3637
+  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=3637
+  endOffset: 3565
 ---
 
 Links:

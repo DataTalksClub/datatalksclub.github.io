@@ -1168,6 +1168,129 @@ intro: How do you build data infrastructure that stops stolen-card transactions 
   plus operational debugging and scaling patterns. Listen to learn practical approaches
   to real-time scoring, graph-powered investigations, and the engineering decisions
   that make retail fraud detection reliable and actionable.
+dateadded: '2023-10-07'
+duration: PT00H59M19S
+quotableClips:
+- name: Podcast Introduction & Guest Overview (Angela Ramirez)
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=0
+  endOffset: 161
+- name: 'Career Journey: Sephora to Sam''s Club'
+  startOffset: 161
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=161
+  endOffset: 225
+- name: 'Fraud Detection in Retail: Stolen Cards & Return Abuse'
+  startOffset: 225
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=225
+  endOffset: 382
+- name: 'Data Engineering for Fraud: Pipelines, Features, Dashboards'
+  startOffset: 382
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=382
+  endOffset: 504
+- name: 'Feature Engineering Workflow: Daily Batches + Real-Time Scoring'
+  startOffset: 504
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=504
+  endOffset: 588
+- name: 'MLOps Responsibilities: Model Metrics, Deployment, Monitoring'
+  startOffset: 588
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=588
+  endOffset: 679
+- name: 'Team Structure: Data Engineers, ML Engineers, Data Scientists'
+  startOffset: 679
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=679
+  endOffset: 768
+- name: 'Academic Background: Cognitive Science, NLP, HCI'
+  startOffset: 768
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=768
+  endOffset: 854
+- name: 'Data-Centric Mindset: Why Data Engineering Powers ML'
+  startOffset: 854
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=854
+  endOffset: 962
+- name: 'Career Transition: Process Improvement → Data Analyst → Data Engineer'
+  startOffset: 962
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=962
+  endOffset: 1155
+- name: 'System Design Best Practices: Stakeholders, Timing, Documentation'
+  startOffset: 1155
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=1155
+  endOffset: 1230
+- name: 'Data Modeling Decisions: Relational vs Document vs Graph'
+  startOffset: 1230
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=1230
+  endOffset: 1290
+- name: Elasticsearch & Document Indexing for Entity Data
+  startOffset: 1290
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=1290
+  endOffset: 1384
+- name: 'Graph Databases & SPARQL: Wikidata and Entity Relationships'
+  startOffset: 1384
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=1384
+  endOffset: 1755
+- name: 'Network Features for Fraud: Members, Transactions, Products'
+  startOffset: 1755
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=1755
+  endOffset: 2014
+- name: 'Real-Time Decisioning: Front-End Signals for Cashiers & Security'
+  startOffset: 2014
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2014
+  endOffset: 2086
+- name: 'Hybrid Architecture: Batch Computation with Instant Inference'
+  startOffset: 2086
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2086
+  endOffset: 2133
+- name: 'Database Selection Criteria: Static Schema vs Dynamic Data'
+  startOffset: 2133
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2133
+  endOffset: 2291
+- name: 'Graph Visualization for Investigations: Neo4j Use Cases'
+  startOffset: 2291
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2291
+  endOffset: 2450
+- name: 'Software Engineering for Data Engineers: Testing & Code Quality (PySpark)'
+  startOffset: 2450
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2450
+  endOffset: 2608
+- name: 'Data Quality Tooling: Great Expectations and Cloud Monitoring'
+  startOffset: 2608
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2608
+  endOffset: 2681
+- name: 'Operational Challenges: Job Failures, Schema Changes, Scaling'
+  startOffset: 2681
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2681
+  endOffset: 2901
+- name: 'Debugging Playbook: Logs, Runbooks, and Error Documentation'
+  startOffset: 2901
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2901
+  endOffset: 3023
+- name: 'Tech Stack Overview: GCP, Dataproc/Databricks, PySpark, Cassandra'
+  startOffset: 3023
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3023
+  endOffset: 3083
+- name: 'Managed vs Serverless Spark: Dataproc, EMR, Serverless Execution'
+  startOffset: 3083
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3083
+  endOffset: 3198
+- name: 'Pandas & PyArrow: Performance Improvements for Big Data'
+  startOffset: 3198
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3198
+  endOffset: 3297
+- name: 'Cassandra Use Cases: Scalability, Fault Tolerance, Clusters'
+  startOffset: 3297
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3297
+  endOffset: 3379
+- name: 'External Data Integration: APIs, Data Contracts, Stability'
+  startOffset: 3379
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3379
+  endOffset: 3600
+- name: 'Recommended Resources: Designing Data-Intensive Applications, PySpark, SQL'
+  startOffset: 3600
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3600
+  endOffset: 3675
+- name: Episode Wrap-Up & Contact Links
+  startOffset: 3675
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3675
+  endOffset: 3559
 ---
 
 Links:

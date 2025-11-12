@@ -1,5 +1,6 @@
 ---
-title: 'Monetize Machine Learning: Convert Models to ARR/MRR with ML Product & MLOps Strategy'
+title: 'Monetize Machine Learning: Convert Models to ARR/MRR with ML Product & MLOps
+  Strategy'
 short: New Roles and Key Skills to Monetize Machine Learning
 guests:
 - vinvashishta
@@ -1313,6 +1314,98 @@ intro: How do you turn machine learning models into recurring revenue—ARR and 
   and product metrics for adoption (usage, task time, decision quality, pricing impact).
   This episode delivers actionable guidance for leaders, product managers, and engineers
   seeking to convert ML into sustainable ARR and MRR.
+dateadded: '2021-03-12'
+duration: PT01H19M01S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=0
+  endOffset: 210
+- name: 'Career & technical background: Vin Vashishta''s journey in ML and strategy'
+  startOffset: 210
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=210
+  endOffset: 477
+- name: 'Monetize machine learning: why revenue focus drives ML strategy'
+  startOffset: 477
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=477
+  endOffset: 727
+- name: 'ARR & MRR: translating models into C‑suite revenue metrics'
+  startOffset: 727
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=727
+  endOffset: 959
+- name: 'Revenue vs. cost‑savings: business model metrics for ML products'
+  startOffset: 959
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=959
+  endOffset: 1215
+- name: 'Team capabilities for monetizing ML: three core roles overview'
+  startOffset: 1215
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=1215
+  endOffset: 1618
+- name: 'Machine learning research: artifacts, datasets, and experimental process'
+  startOffset: 1618
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=1618
+  endOffset: 1758
+- name: 'Category creation with ML: examples and market entry (Amazon, Google, Stitch
+    Fix)'
+  startOffset: 1758
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=1758
+  endOffset: 2037
+- name: 'Startups: the "angry users + data scientists" product recipe'
+  startOffset: 2037
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=2037
+  endOffset: 2170
+- name: 'Research skillset: hypothesis design, experimentation, explainability & advanced
+    math'
+  startOffset: 2170
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=2170
+  endOffset: 2608
+- name: 'Product management for ML: translating strategy into researchable use cases'
+  startOffset: 2608
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=2608
+  endOffset: 2934
+- name: 'Product manager ecosystem: gated decisions, feasibility studies and stakeholders'
+  startOffset: 2934
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=2934
+  endOffset: 3053
+- name: 'Career paths into ML product management: backgrounds and upskilling routes'
+  startOffset: 3053
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=3053
+  endOffset: 3290
+- name: 'Machine learning architecture: platform vision, cost estimation and production
+    path'
+  startOffset: 3290
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=3290
+  endOffset: 3484
+- name: 'Architecture skills & tools: cloud, MLOps, buy vs build tradeoffs'
+  startOffset: 3484
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=3484
+  endOffset: 3642
+- name: 'Transitioning into research & architecture roles: realistic career steps'
+  startOffset: 3642
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=3642
+  endOffset: 3792
+- name: 'Education gap & corporate upskilling: "farm club" pipelines and university
+    roles'
+  startOffset: 3792
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=3792
+  endOffset: 4416
+- name: 'MBA relevance: degrees vs. practical business fluency for ML product leaders'
+  startOffset: 4416
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=4416
+  endOffset: 4454
+- name: 'Role specialization trend: splitting data science into focused functions'
+  startOffset: 4454
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=4454
+  endOffset: 4514
+- name: 'Product metrics for adoption: usage, task time, decision quality and pricing
+    impact'
+  startOffset: 4514
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=4514
+  endOffset: 4692
+- name: Episode recap & next steps
+  startOffset: 4692
+  url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=4692
+  endOffset: 4741
 ---
 
 We discussed monetization roles and the capabilities people need to move into those roles. The key roles are ML Researcher, ML Architect, and ML Product Manager.

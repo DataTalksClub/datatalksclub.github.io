@@ -1022,6 +1022,129 @@ intro: 'How do you build reliable IoT platforms and end-to-end data pipelines wh
   legal/tax basics and communication skills for remote roles. Listen to learn concrete
   strategies for building IoT systems, hiring and onboarding remotely, and using content
   to advance your career.'
+dateadded: '2023-08-28'
+duration: PT00H58M01S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=0
+  endOffset: 69
+- name: Episode Overview & Guest Introduction
+  startOffset: 69
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=69
+  endOffset: 110
+- name: 'Background: Spain to Norway and Career Transition'
+  startOffset: 110
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=110
+  endOffset: 261
+- name: 'Relocation Story: Moving for Partner’s Job'
+  startOffset: 261
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=261
+  endOffset: 301
+- name: 'Remote Work Routine: Two Focused Work Blocks'
+  startOffset: 301
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=301
+  endOffset: 435
+- name: Morning Routine & Productivity Habits
+  startOffset: 435
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=435
+  endOffset: 493
+- name: Remote-First Hiring Landscape in Norway
+  startOffset: 493
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=493
+  endOffset: 599
+- name: 'Role Overview: IoT Platform Responsibilities'
+  startOffset: 599
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=599
+  endOffset: 749
+- name: 'IoT Platform Architecture: "Operating System" for Sensors'
+  startOffset: 749
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=749
+  endOffset: 797
+- name: 'Geographic Hiring Constraints: Oslo, Bergen, Trondheim'
+  startOffset: 797
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=797
+  endOffset: 931
+- name: 'Remote Work Challenges: Loneliness & Isolation'
+  startOffset: 931
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=931
+  endOffset: 1097
+- name: 'Workspace Boundaries: Separating Home and Work'
+  startOffset: 1097
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=1097
+  endOffset: 1231
+- name: 'IoT Data Challenges: Remote Diagnostics & Context'
+  startOffset: 1231
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=1231
+  endOffset: 1444
+- name: 'Turning Raw Data into Business Value: Understand the Why'
+  startOffset: 1444
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=1444
+  endOffset: 1654
+- name: Data Exploration, ETL, and Building Data Pipelines
+  startOffset: 1654
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=1654
+  endOffset: 1821
+- name: 'Internal Stakeholders: Platform Consumers & Users'
+  startOffset: 1821
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=1821
+  endOffset: 1864
+- name: Sensor Onboarding Workflow & Real-Time Processing
+  startOffset: 1864
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=1864
+  endOffset: 1937
+- name: 'Newsletter Purpose: Explaining Data to Non-Technical Audiences'
+  startOffset: 1937
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=1937
+  endOffset: 2002
+- name: 'Newsletter Origin: Writing as Communication for Introverts'
+  startOffset: 2002
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=2002
+  endOffset: 2157
+- name: 'Content Strategy: Inspiration and Daily Cadence'
+  startOffset: 2157
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=2157
+  endOffset: 2290
+- name: 'Personal Branding: Newsletter as Opportunity Driver'
+  startOffset: 2290
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=2290
+  endOffset: 2359
+- name: 'Newsletter Production Tactics: Idea Slicing & Repetition'
+  startOffset: 2359
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=2359
+  endOffset: 2420
+- name: 'Burnout Coping: Nature, Exercise, and Routine'
+  startOffset: 2420
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=2420
+  endOffset: 2801
+- name: 'Job Search Resources: finn.no, LinkedIn, Upwork'
+  startOffset: 2801
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=2801
+  endOffset: 2916
+- name: 'Learning Data Engineering: Software Foundations & Projects'
+  startOffset: 2916
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=2916
+  endOffset: 3132
+- name: Legal & Tax Basics for Remote Work in Norway
+  startOffset: 3132
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=3132
+  endOffset: 3211
+- name: 'Benefits of Remote Work: Location Flexibility & Time Savings'
+  startOffset: 3211
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=3211
+  endOffset: 3319
+- name: 'Personal Mobility: Partner Contracts and Remote Advantages'
+  startOffset: 3319
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=3319
+  endOffset: 3432
+- name: 'Recommendation: Develop Soft Skills, Especially Communication'
+  startOffset: 3432
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=3432
+  endOffset: 3522
+- name: Episode Closing & Final Remarks
+  startOffset: 3522
+  url: https://www.youtube.com/watch?v=UX7UShEioKc&t=3522
+  endOffset: 3481
 ---
 
 Links:

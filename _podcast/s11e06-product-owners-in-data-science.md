@@ -1080,6 +1080,90 @@ intro: 'How do you scale recommender systems, hire for production ML, and model 
   episode delivers actionable frameworks for scaling recommenders, building production
   ML capabilities, and applying price markdown modeling to optimize discounting and
   reduce waste. Recommended reading: Data Science for Business.'
+dateadded: '2022-11-11'
+duration: PT00H59M17S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=0
+  endOffset: 92
+- name: Guest & METRO overview and customer data completeness
+  startOffset: 92
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=92
+  endOffset: 289
+- name: Anna's academic and career background (PhD, web science, logistics)
+  startOffset: 289
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=289
+  endOffset: 769
+- name: Value of technical expertise for data product leads
+  startOffset: 769
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=769
+  endOffset: 911
+- name: Core product owner responsibilities and team advocacy
+  startOffset: 911
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=911
+  endOffset: 1200
+- name: 'Role comparison: product owner versus product manager'
+  startOffset: 1200
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=1200
+  endOffset: 1328
+- name: 'Recommender systems at METRO: API-first design and scaling'
+  startOffset: 1328
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=1328
+  endOffset: 1801
+- name: 'Hiring strategy for production ML: data scientist, ML engineer, MLOps'
+  startOffset: 1801
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=1801
+  endOffset: 2093
+- name: 'Recommender algorithms: collaborative filtering and Word2Vec variants'
+  startOffset: 2093
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2093
+  endOffset: 2155
+- name: 'Essential skills: metrics, trade-offs, and technical literacy for product
+    owners'
+  startOffset: 2155
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2155
+  endOffset: 2312
+- name: 'Domain owner role: aligning data scientists across product teams'
+  startOffset: 2312
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2312
+  endOffset: 2401
+- name: 'People management at scale: directs, reviews, and cross-team enablement'
+  startOffset: 2401
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2401
+  endOffset: 2494
+- name: 'Price markdown modeling: reducing waste and optimal discounting'
+  startOffset: 2494
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2494
+  endOffset: 2688
+- name: 'Sourcing problems from operations: business-driven prioritization'
+  startOffset: 2688
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2688
+  endOffset: 2757
+- name: 'Managing multiple data domains: delegation, rotations, and budget ownership'
+  startOffset: 2757
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2757
+  endOffset: 2924
+- name: 'Evaluating new domains: MVPs, manual fixes, and business justification'
+  startOffset: 2924
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2924
+  endOffset: 3189
+- name: 'Portfolio approach: validating and staging data product investments'
+  startOffset: 3189
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=3189
+  endOffset: 3261
+- name: 'Community leadership: organizing ProductTank meetups'
+  startOffset: 3261
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=3261
+  endOffset: 3468
+- name: 'Recommended resource: "Data Science for Business" for data product roles'
+  startOffset: 3468
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=3468
+  endOffset: 3625
+- name: Episode wrap-up and live chat highlights
+  startOffset: 3625
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=3625
+  endOffset: 3557
 ---
 
 Links:

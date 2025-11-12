@@ -1414,6 +1414,126 @@ intro: How do you move from hands-on software engineering into leading data scie
   Listen for concrete advice on measuring managerial impact, leveraging EM experience
   to lead data science teams, and tactical steps for engineers aiming to become data
   science managers in search and ML domains.
+dateadded: '2022-12-10'
+duration: PT01H28S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=0
+  endOffset: 65
+- name: 'Episode Overview: From Software Engineer to Data Science Manager'
+  startOffset: 65
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=65
+  endOffset: 97
+- name: 'Early Career & Education: Aspiring Doctor, Electronics Bachelor, Informatics
+    Master'
+  startOffset: 97
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=97
+  endOffset: 192
+- name: 'Fraunhofer Research Assistant: Computer Vision and Car Dent Detection'
+  startOffset: 192
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=192
+  endOffset: 391
+- name: 'Search Engineering at OLX: First Day Firefighting and Team Onboarding'
+  startOffset: 391
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=391
+  endOffset: 522
+- name: 'Solr Autoscaling: Root Cause, CPU Load, and Scheduled Scaling Fixes'
+  startOffset: 522
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=522
+  endOffset: 637
+- name: 'Decoupling Search from Monolith: Proposal, Implementation, and Experiment
+    Velocity'
+  startOffset: 637
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=637
+  endOffset: 870
+- name: 'Tech Stack for Search: Kotlin Services, Python Satellites, and ML Integrations'
+  startOffset: 870
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=870
+  endOffset: 913
+- name: 'First ML Project: Master’s Thesis on Neural Networks for Energy Forecasting'
+  startOffset: 913
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=913
+  endOffset: 1138
+- name: '20% Time Success: Spellchecker Attempt, Word2Vec, and Recommendation System
+    Wins'
+  startOffset: 1138
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=1138
+  endOffset: 1247
+- name: 'Learning Approach: "Act Before You Think" and Building Practical ML Experience'
+  startOffset: 1247
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=1247
+  endOffset: 1318
+- name: 'Safety Nets for Experimentation: Feature Flags, Backups, Monitoring, Experimentation'
+  startOffset: 1318
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=1318
+  endOffset: 1511
+- name: 'Path to Management: Opportunity, Promotion, and Timing'
+  startOffset: 1511
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=1511
+  endOffset: 1588
+- name: 'Internal Hiring Process: Panel Interviews, Feedback, and Internal Candidate
+    Dynamics'
+  startOffset: 1588
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=1588
+  endOffset: 1825
+- name: 'People Management Skills: Conflict Resolution, Hiring, and Business Metrics'
+  startOffset: 1825
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=1825
+  endOffset: 2026
+- name: 'The Brag List: Documenting Leadership Evidence for Interviews'
+  startOffset: 2026
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=2026
+  endOffset: 2176
+- name: 'Transition Pain Points: Dopamine Loss, Dropping Hands‑On Coding, and Withdrawal'
+  startOffset: 2176
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=2176
+  endOffset: 2448
+- name: 'Managing Momentum: Project Ownership, Milestones, and Team Coordination'
+  startOffset: 2448
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=2448
+  endOffset: 2613
+- name: 'Transition to Data Science Management: Case Study Interview and Motivation'
+  startOffset: 2613
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=2613
+  endOffset: 2678
+- name: 'Trust & Safety Work: Chat Moderation, NLP Challenges, and Fraud Detection'
+  startOffset: 2678
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=2678
+  endOffset: 2901
+- name: 'Managerial Domain Knowledge: When ML/NLP Expertise Helps vs Coordination
+    Role'
+  startOffset: 2901
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=2901
+  endOffset: 3044
+- name: 'Role Shift: Greater Product Involvement and Stakeholder Influence'
+  startOffset: 3044
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=3044
+  endOffset: 3172
+- name: Leveraging EM Experience to Lead Data Science Teams
+  startOffset: 3172
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=3172
+  endOffset: 3236
+- name: 'Transitioning from Data Engineering/Analytics to Data Science Manager: Advice'
+  startOffset: 3236
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=3236
+  endOffset: 3454
+- name: 'Measuring Managerial Impact: Influence, Business Value, and Team Health Metrics'
+  startOffset: 3454
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=3454
+  endOffset: 3516
+- name: 'Recommended Reading: The Manager''s Path and No Rules Rules (Team Culture)'
+  startOffset: 3516
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=3516
+  endOffset: 3620
+- name: 'Community Event: Search Meetup — "Bias in AI: How to Measure and Fix It"'
+  startOffset: 3620
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=3620
+  endOffset: 3672
+- name: Podcast Closing and Final Remarks
+  startOffset: 3672
+  url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=3672
+  endOffset: 3628
 ---
 
 Links:

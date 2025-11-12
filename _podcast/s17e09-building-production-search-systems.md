@@ -1064,6 +1064,149 @@ intro: How do you design and operate reliable vector search systems that balance
   with CLIP, when to use Lucene/Elasticsearch versus dedicated vector DBs, MLOps tradeoffs,
   and how to measure search impact through A/B testing and operational metrics — actionable
   insight for engineers building production search and recommender systems.
+dateadded: '2024-03-25'
+duration: PT01H05M23S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=0
+  endOffset: 107
+- name: 'Guest Introduction: Daniel Svonava, Superlinked & VectorHub'
+  startOffset: 107
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=107
+  endOffset: 160
+- name: 'Career Highlights: Internships, YouTube Ads, and Startups'
+  startOffset: 160
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=160
+  endOffset: 299
+- name: Competitive Programming Influence on Engineering
+  startOffset: 299
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=299
+  endOffset: 380
+- name: 'Framing Search: Decision Problem & Relevance'
+  startOffset: 380
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=380
+  endOffset: 550
+- name: Information Retrieval vs Recommender Boundaries; Representation Learning
+  startOffset: 550
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=550
+  endOffset: 689
+- name: From Bag-of-Words to Dense Vector Representations
+  startOffset: 689
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=689
+  endOffset: 765
+- name: Inverted Index Mechanics, Candidate Generation & Ranking
+  startOffset: 765
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=765
+  endOffset: 1005
+- name: 'Practical Indexing: Document Chunking and Ingestion'
+  startOffset: 1005
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=1005
+  endOffset: 1060
+- name: 'Use Existing Engines: Lucene and Open-source Tools'
+  startOffset: 1060
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=1060
+  endOffset: 1129
+- name: 'Index Data Structures: Trees, Alphabetical Ordering, and Lookups'
+  startOffset: 1129
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=1129
+  endOffset: 1202
+- name: 'Search Maintenance: Brittleness, Synonyms, and Configuration Debt'
+  startOffset: 1202
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=1202
+  endOffset: 1315
+- name: Multi-modal Retrieval and Personalization Requirements
+  startOffset: 1315
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=1315
+  endOffset: 1641
+- name: 'Vector Databases: Storing Embeddings and Nearest-Neighbor Search'
+  startOffset: 1641
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=1641
+  endOffset: 1740
+- name: 'Vector Compute: Ingestion Encoding vs Query-Time Encoding'
+  startOffset: 1740
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=1740
+  endOffset: 1822
+- name: 'Pipeline Challenges: Recomputing Embeddings and Model Versioning'
+  startOffset: 1822
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=1822
+  endOffset: 1963
+- name: 'CLIP Example: Text-to-Image Cross-modal Search'
+  startOffset: 1963
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=1963
+  endOffset: 1993
+- name: 'Embedding Strategy Changes: Model Swaps and Pipeline Flexibility'
+  startOffset: 1993
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=1993
+  endOffset: 2040
+- name: 'Hybrid Search: Combining Vector Similarity with Filters and Recency'
+  startOffset: 2040
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=2040
+  endOffset: 2181
+- name: Custom Embeddings, Ranking Models, and MLOps Trade-offs
+  startOffset: 2181
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=2181
+  endOffset: 2291
+- name: 'Multi-embedding Design: Titles, Content, Images, and Behavioral Signals'
+  startOffset: 2291
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=2291
+  endOffset: 2393
+- name: 'Expressing Constraints: Lucene Must/Should vs Vector-query Approaches'
+  startOffset: 2393
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=2393
+  endOffset: 2448
+- name: 'Recency and Bias: Encoding Time and Applying Weights in Embeddings'
+  startOffset: 2448
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=2448
+  endOffset: 2516
+- name: Timestamp & Positional Encoding Techniques in Vector Space
+  startOffset: 2516
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=2516
+  endOffset: 2711
+- name: Normalizing Components and Late-binding Query Weights
+  startOffset: 2711
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=2711
+  endOffset: 2778
+- name: 'LLM Contexting: Prompted Timestamps and Limitations'
+  startOffset: 2778
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=2778
+  endOffset: 2857
+- name: Limits of LLM-only Retrieval; Value of Specialized Encoders
+  startOffset: 2857
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=2857
+  endOffset: 2976
+- name: 'Resources & Tutorials: VectorHub Guides on Combining Modalities'
+  startOffset: 2976
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=2976
+  endOffset: 3155
+- name: 'Vendor Selection: Vector DB Feature Comparison and Trade-offs'
+  startOffset: 3155
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=3155
+  endOffset: 3296
+- name: When to Use Lucene/Elasticsearch vs Dedicated Vector Databases
+  startOffset: 3296
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=3296
+  endOffset: 3468
+- name: 'E-commerce Strategy: Prototype with Embeddings for Mid-size D2C'
+  startOffset: 3468
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=3468
+  endOffset: 3497
+- name: Rapid Prototyping with CLIP and Steps to Productionize
+  startOffset: 3497
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=3497
+  endOffset: 3685
+- name: 'Measuring Search Impact: Business Metrics, A/B Testing, and USD'
+  startOffset: 3685
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=3685
+  endOffset: 3830
+- name: Operational Metrics, Offline Evaluation, and Empowering Engineers
+  startOffset: 3830
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=3830
+  endOffset: 4008
+- name: Closing Remarks and How to Connect with Daniel/VectorHub
+  startOffset: 4008
+  url: https://www.youtube.com/watch?v=gEmSrknGKDE&t=4008
+  endOffset: 3923
 ---
 
 Links:

@@ -1221,4 +1221,111 @@ transcript:
   sec: 3806
   time: '1:03:26'
   who: Marijn
+dateadded: '2022-04-01'
+duration: PT01H02M16S
+quotableClips:
+- name: Episode Introduction & Guest Welcome
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=0
+  endOffset: 70
+- name: 'From Sociology to Data Science: Election Models, Social Media & Crime Research'
+  startOffset: 70
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=70
+  endOffset: 242
+- name: Diverse Backgrounds as a Competitive Advantage in Data Science
+  startOffset: 242
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=242
+  endOffset: 409
+- name: 'Hiring Pitfalls: Keyword-Driven Recruitment and Role Mismatch'
+  startOffset: 409
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=409
+  endOffset: 462
+- name: 'Curriculum Myth: Rejecting Perfection—Double Down on Unique Strengths'
+  startOffset: 462
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=462
+  endOffset: 511
+- name: 'Core Pillars: Statistics, Programming, and Domain Knowledge'
+  startOffset: 511
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=511
+  endOffset: 676
+- name: 'Qualitative Methods & Interviews: Turning Social Science into Value'
+  startOffset: 676
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=676
+  endOffset: 725
+- name: 'Proactive Task Ownership: Choosing High-Impact Assignments'
+  startOffset: 725
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=725
+  endOffset: 1029
+- name: 'Learning on the Job: Growing into Management and Product Roles'
+  startOffset: 1029
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=1029
+  endOffset: 1152
+- name: 'Explainable AI & Risky Insights: Communicating Sensitive Findings'
+  startOffset: 1152
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=1152
+  endOffset: 1405
+- name: 'Constructive Pushback: Advising Seniors and Challenging Hierarchies'
+  startOffset: 1405
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=1405
+  endOffset: 1703
+- name: 'Stretch Assignments: Bite Off More to Discover Your Limits'
+  startOffset: 1703
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=1703
+  endOffset: 1847
+- name: 'Home Automation Demo: Home Assistant on Raspberry Pi'
+  startOffset: 1847
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=1847
+  endOffset: 1878
+- name: 'IoT for Plants: Sensors, Bluetooth, Zigbee and Practical Monitoring'
+  startOffset: 1878
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=1878
+  endOffset: 2071
+- name: 'Data Pipelines for Home Projects: Storage, Thresholds, and Alerts'
+  startOffset: 2071
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=2071
+  endOffset: 2181
+- name: 'Coffee Machine Time Series: Turning Laziness into a Portfolio Project'
+  startOffset: 2181
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=2181
+  endOffset: 2269
+- name: 'Portfolio Strategy: Build Unique Projects Instead of Only Doing Kaggle'
+  startOffset: 2269
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=2269
+  endOffset: 2425
+- name: 'NGO Impact Work: Predicting & Optimizing Smallholder Farmer Yields'
+  startOffset: 2425
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=2425
+  endOffset: 2588
+- name: 'Team Composition: Using Domain Experts and Cross-Disciplinary Skills'
+  startOffset: 2588
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=2588
+  endOffset: 2759
+- name: 'OSINT Explained: Social Media, GPS Intel and Modern Information Warfare'
+  startOffset: 2759
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=2759
+  endOffset: 3053
+- name: 'OSINT Applications: Mapping Reports, Evidence Gathering & Task Forces'
+  startOffset: 3053
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=3053
+  endOffset: 3151
+- name: 'Global Ripple Effects: Ukraine, Grain Shortages and Food Security'
+  startOffset: 3151
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=3151
+  endOffset: 3214
+- name: 'Soft Skills & Differentiation: Communication, Presence and Niche Expertise'
+  startOffset: 3214
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=3214
+  endOffset: 3450
+- name: 'LinkedIn Growth Strategy: Timing, Content Mix, Hashtags and Comments'
+  startOffset: 3450
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=3450
+  endOffset: 3744
+- name: 'Personal Branding Examples: Memes, Authenticity and Content Types'
+  startOffset: 3744
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=3744
+  endOffset: 3777
+- name: Episode Wrap-Up & Where to Find Marijn
+  startOffset: 3777
+  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=3777
+  endOffset: 3736
 ---

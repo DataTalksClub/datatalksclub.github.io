@@ -811,4 +811,96 @@ transcript:
   sec: 3593
   time: '59:53'
   who: Alexey
+dateadded: '2024-12-17'
+duration: PT00H59M53S
+quotableClips:
+- name: Episode Introduction & Guest Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=0
+  endOffset: 133
+- name: 'Career Path: From Linguist to Computational Linguistics and Industry'
+  startOffset: 133
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=133
+  endOffset: 251
+- name: 'Role Definition: Principal Key Expert in AI — Advising on Technology and
+    Risk'
+  startOffset: 251
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=251
+  endOffset: 342
+- name: 'Democratization of Generative AI: Rise of Prompting and New "AI Experts"'
+  startOffset: 342
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=342
+  endOffset: 568
+- name: 'Bot Safety Challenge: Large-Scale Chatbot Hacking Exercise and Findings'
+  startOffset: 568
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=568
+  endOffset: 698
+- name: 'Chatbot Failures: Hallucinations, Legal Exposure, and Financial Incidents'
+  startOffset: 698
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=698
+  endOffset: 800
+- name: 'Data Exfiltration Techniques: Overloading Prompts and Knowledge-Base Retrieval'
+  startOffset: 800
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=800
+  endOffset: 975
+- name: 'Mitigations: Output Validation, Query Analysis, and Layered Defenses'
+  startOffset: 975
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=975
+  endOffset: 1020
+- name: 'Non-LLM Classifiers: Robust Alternatives to Manipulable Generative Models'
+  startOffset: 1020
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=1020
+  endOffset: 1081
+- name: 'Trust and Hallucinations: User Confidence, Safety, and Adoption Risks'
+  startOffset: 1081
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=1081
+  endOffset: 1239
+- name: 'Chatbot Adoption Issues: Usability, Verbosity, and Return on Investment'
+  startOffset: 1239
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=1239
+  endOffset: 1534
+- name: 'Human-in-the-Loop Solutions: Hybrid Review to Improve Accuracy'
+  startOffset: 1534
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=1534
+  endOffset: 1633
+- name: 'AI as Assistant: Moderation Tools, Autopilot Analogy, and Workforce Impact'
+  startOffset: 1633
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=1633
+  endOffset: 1793
+- name: 'Translation Workflows: AI-Augmented Translators and Quality Control'
+  startOffset: 1793
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=1793
+  endOffset: 1948
+- name: 'Prompt Customization: Controlled Machine Translation with ChatGPT'
+  startOffset: 1948
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=1948
+  endOffset: 2144
+- name: 'Historical Linguistics: Middle & Old English Pronunciation Insights'
+  startOffset: 2144
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=2144
+  endOffset: 2708
+- name: 'Ancient Languages: Cuneiform, Sumerian Transcription, and MT Approaches'
+  startOffset: 2708
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=2708
+  endOffset: 2906
+- name: 'Script Complexity: Logograms vs. Phonetics in Ancient Texts'
+  startOffset: 2906
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=2906
+  endOffset: 3181
+- name: 'Multilingual Models: Progress and Challenges for Low-Resource Languages'
+  startOffset: 3181
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=3181
+  endOffset: 3412
+- name: 'Orthography & Data Quality: Inconsistent Spelling in Historical Corpora'
+  startOffset: 3412
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=3412
+  endOffset: 3448
+- name: 'Industry Trade-offs: Research Innovation vs. ROI and Operational Needs'
+  startOffset: 3448
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=3448
+  endOffset: 3554
+- name: 'Episode Wrap-Up: Key Takeaways on AI Trust, Safety, and Future Directions'
+  startOffset: 3554
+  url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=3554
+  endOffset: 3593
 ---

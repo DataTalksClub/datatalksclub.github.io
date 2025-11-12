@@ -936,6 +936,142 @@ intro: How do you reduce bias in credit scoring models without sacrificing expla
   paths. <br><br> Listen to learn actionable guidance on auditing and mitigating credit
   scoring bias, building explainable models, and integrating Fairlearn into real‑world
   ML workflows.
+dateadded: '2025-02-24'
+duration: PT00H59M14S
+quotableClips:
+- name: Podcast Introduction & Episode Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=0
+  endOffset: 151
+- name: 'Guest Introduction: Tamara’s Open‑Source Roles (Fairlearn, scikit‑learn,
+    Skope‑Rules)'
+  startOffset: 151
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=151
+  endOffset: 198
+- name: 'Career Overview: Software Engineering to Computational Linguistics'
+  startOffset: 198
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=198
+  endOffset: 277
+- name: 'Music Tech Experience: Ableton and Push 2 Instrument Design'
+  startOffset: 277
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=277
+  endOffset: 401
+- name: 'Device Architecture: Laptop Computation vs Standalone Hardware'
+  startOffset: 401
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=401
+  endOffset: 536
+- name: 'Transition to NLP & AI: Academic Interests and Motivation'
+  startOffset: 536
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=536
+  endOffset: 604
+- name: 'Cognitive Systems Studies: Language, Neuroscience, and ML'
+  startOffset: 604
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=604
+  endOffset: 710
+- name: 'Research Path: Returning to Study and New Projects'
+  startOffset: 710
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=710
+  endOffset: 761
+- name: 'Music as Hobby: Balancing Creative Work and Research'
+  startOffset: 761
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=761
+  endOffset: 824
+- name: 'Sociotechnical Framing: Modeling Language in Social Context'
+  startOffset: 824
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=824
+  endOffset: 892
+- name: 'Fairness in AI: Credit Scoring Use Case and Real‑World Impact'
+  startOffset: 892
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=892
+  endOffset: 910
+- name: 'Empirical Findings: Gender Disparities in Credit Models (Fairlearn Study)'
+  startOffset: 910
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=910
+  endOffset: 1094
+- name: 'Societal Harms: Debt, Repossession, and Downstream Consequences'
+  startOffset: 1094
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1094
+  endOffset: 1291
+- name: 'Fairlearn Tools: Group Fairness, Visualization, and Mitigation Methods'
+  startOffset: 1291
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1291
+  endOffset: 1444
+- name: 'Sensitive Group Selection: Domain‑Specific Decisions in Credit Models'
+  startOffset: 1444
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1444
+  endOffset: 1581
+- name: 'Limits of Automation: Human Judgment in Fairness Assessments'
+  startOffset: 1581
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1581
+  endOffset: 1732
+- name: 'Metric Tradeoffs: False Positives vs False Negatives and Demographic Parity'
+  startOffset: 1732
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1732
+  endOffset: 1893
+- name: 'Organizational Responsibility: Who Decides Fairness Tradeoffs?'
+  startOffset: 1893
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1893
+  endOffset: 1991
+- name: 'Practitioner Education: Frameworks, Ambiguity, and Learning Objectives'
+  startOffset: 1991
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1991
+  endOffset: 2123
+- name: 'Moderation Case Study: Cross‑Functional Teams and Domain Expertise'
+  startOffset: 2123
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2123
+  endOffset: 2233
+- name: 'Human‑in‑the‑Loop: Essential Component for Fair AI Systems'
+  startOffset: 2233
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2233
+  endOffset: 2358
+- name: 'Joining Probable: From Open‑Source Contributions to a Role'
+  startOffset: 2358
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2358
+  endOffset: 2457
+- name: 'Probable Work: Explainability, Language Models, and Library Integration'
+  startOffset: 2457
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2457
+  endOffset: 2574
+- name: 'Interpretability Tools: Inspection Package and Partial Dependence'
+  startOffset: 2574
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2574
+  endOffset: 2694
+- name: 'Cross‑Library Compatibility: Fairlearn, scikit‑learn, and Estimator APIs'
+  startOffset: 2694
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2694
+  endOffset: 2780
+- name: 'Scopes Library: Secure Model Persistence and Hugging Face Integration'
+  startOffset: 2780
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2780
+  endOffset: 2836
+- name: 'Serialization Risks: Pickle Vulnerabilities and Secure Deserialization'
+  startOffset: 2836
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2836
+  endOffset: 3054
+- name: 'Community Involvement: PyLadies, Sprints, and Fairlearn Events'
+  startOffset: 3054
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3054
+  endOffset: 3130
+- name: 'Contributing to Fairlearn: Discord, Good‑First Issues, and Sprints'
+  startOffset: 3130
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3130
+  endOffset: 3341
+- name: 'Development Ethos: Testing, Refactoring, and Custom Estimators'
+  startOffset: 3341
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3341
+  endOffset: 3397
+- name: 'Project Updates: Upcoming Fairlearn Release and Maintainer Notes'
+  startOffset: 3397
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3397
+  endOffset: 3442
+- name: 'Practical Quirk: Tokenization Issues Breaking "Fairlearn" in Transcripts'
+  startOffset: 3442
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3442
+  endOffset: 3494
+- name: Closing Remarks, Contact Info, and Final Thoughts
+  startOffset: 3494
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3494
+  endOffset: 3554
 ---
 
 Links:

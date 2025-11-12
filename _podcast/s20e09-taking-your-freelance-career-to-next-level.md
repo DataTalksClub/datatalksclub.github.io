@@ -609,6 +609,73 @@ intro: How do you move from employed data pro to a sustainable data freelancer w
   productivity as a freelance data consultant.
 description: Master data freelancer tactics, pricing strategies and AI tools to land
   clients, price services confidently, and boost productivity for higher income.
+dateadded: '2025-07-28'
+duration: PT01H05M29S
+quotableClips:
+- name: Episode Opening & Dimitri’s Data Journey
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=0
+  endOffset: 341
+- name: Job Tenure Trends & Freelancer Types
+  startOffset: 341
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=341
+  endOffset: 650
+- name: Expertise vs Problem-Solving in Freelance Work
+  startOffset: 650
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=650
+  endOffset: 853
+- name: 'Validating Freelance Viability: Financial Targets'
+  startOffset: 853
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=853
+  endOffset: 968
+- name: 'Landing Initial Clients: Recruiters & LinkedIn'
+  startOffset: 968
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=968
+  endOffset: 1053
+- name: Market Trends & Building a Data-Freelancer Job Board
+  startOffset: 1053
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=1053
+  endOffset: 1431
+- name: Market-Driven Specialization & Starting Paths
+  startOffset: 1431
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=1431
+  endOffset: 1508
+- name: 'Job Board Insights: Rates, Top Skills & "Data Management"'
+  startOffset: 1508
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=1508
+  endOffset: 1968
+- name: 'Lifestyle Business vs Agency: Scaling Choices'
+  startOffset: 1968
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=1968
+  endOffset: 2281
+- name: 'AI Tools for Productivity: Claude, ChatGPT, Cursor'
+  startOffset: 2281
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=2281
+  endOffset: 2730
+- name: 'Course & Community: Branding, Marketing, and Support'
+  startOffset: 2730
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=2730
+  endOffset: 2913
+- name: Subscription Model & Client Relationship Management
+  startOffset: 2913
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=2913
+  endOffset: 3140
+- name: 'High-Impact Analytics: Small Analyses, Big Returns'
+  startOffset: 3140
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=3140
+  endOffset: 3407
+- name: 'Pricing Strategies: Hourly, Project Packages, and Transitioning'
+  startOffset: 3407
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=3407
+  endOffset: 3662
+- name: Notice Periods & Transition Planning for Freelancers
+  startOffset: 3662
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=3662
+  endOffset: 3929
+- name: Episode Wrap-up & Final Advice
+  startOffset: 3929
+  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=3929
+  endOffset: 3929
 ---
 
 Links:

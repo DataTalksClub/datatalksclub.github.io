@@ -1046,6 +1046,96 @@ intro: 'How do you move from proof-of-concept to scaled enterprise AI without ov
   guidance on experiment design, model evaluation, and building repeatable pipelines
   so you can scale enterprise AI responsibly and sustainably. Ideal for data leaders,
   ML engineers, and product owners implementing production ML and MLOps.'
+dateadded: '2022-08-19'
+duration: PT01H01M25S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=0
+  endOffset: 122
+- name: 'Guest Overview: Alexander Hendorf — Königsweg partner & PyData chair'
+  startOffset: 122
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=122
+  endOffset: 199
+- name: 'Career Path: from law and DJing to programming and machine learning'
+  startOffset: 199
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=199
+  endOffset: 307
+- name: 'Partner Role: team leadership, strategy, and client selection'
+  startOffset: 307
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=307
+  endOffset: 576
+- name: 'Community Engagement: PyData, cross-domain learning, and meetups'
+  startOffset: 576
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=576
+  endOffset: 693
+- name: 'Conference Organizing: becoming chair, scaling events, and organizer summit'
+  startOffset: 693
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=693
+  endOffset: 991
+- name: 'Public Speaking: generating talk ideas and learning through presentations'
+  startOffset: 991
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=991
+  endOffset: 1256
+- name: 'Technical Talks: Pandas deep dives and "Deep Learning for Fun & Profit"'
+  startOffset: 1256
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=1256
+  endOffset: 1471
+- name: 'Communicating AI to Business: simplification, open source, and stakeholder
+    buy-in'
+  startOffset: 1471
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=1471
+  endOffset: 1878
+- name: 'Enterprise AI Strategy: aligning initiatives, experiments, and company goals'
+  startOffset: 1878
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=1878
+  endOffset: 2210
+- name: 'Experimentation Reality: evaluation, transparency, and avoiding hype-driven
+    bets'
+  startOffset: 2210
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=2210
+  endOffset: 2242
+- name: 'AI Limitations Illustrated: realistic expectations (Beethoven example)'
+  startOffset: 2242
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=2242
+  endOffset: 2568
+- name: 'Innovation Patience: retrospectives, avoiding over-engineering, and timing'
+  startOffset: 2568
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=2568
+  endOffset: 2763
+- name: 'Prioritization Over Perfection: "good enough" engineering and impact focus'
+  startOffset: 2763
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=2763
+  endOffset: 2950
+- name: 'Data-First Approach: data lake concept, BI vs. ML vs. deep learning split'
+  startOffset: 2950
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=2950
+  endOffset: 3132
+- name: 'Productionization Needs: retraining, feedback loops, and MLOps automation'
+  startOffset: 3132
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=3132
+  endOffset: 3214
+- name: 'MLOps Best Practices: standardization, CI/CD, governance, and reproducibility'
+  startOffset: 3214
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=3214
+  endOffset: 3335
+- name: 'MLOps Hype vs. Reality: buzzword caution and consultancy pitfalls'
+  startOffset: 3335
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=3335
+  endOffset: 3531
+- name: 'Platform Selection & Longevity: vendor lock-in, long-term planning, and team
+    maturity'
+  startOffset: 3531
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=3531
+  endOffset: 3667
+- name: 'How to Reach Alexander: LinkedIn, Twitter, and PyData events'
+  startOffset: 3667
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=3667
+  endOffset: 3754
+- name: Episode Wrap-Up and Upcoming Conferences
+  startOffset: 3754
+  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=3754
+  endOffset: 3685
 ---
 
 Links:

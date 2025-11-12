@@ -5,9 +5,287 @@
 <body>
   {% include header.html %}
 
+  {% assign season_episodes = site.podcast | where: "season", page.season | sort: "episode" %}
+  {% assign season_episode_count = season_episodes | size %}
+  {% assign season_dates = season_episodes | map: "date" | compact | sort %}
+  {% assign season_start = season_dates | first %}
+  {% assign season_end = season_dates | last %}
+  {% assign series_id = site.url | append: '#datatalksclub-podcast' %}
+  {% assign season_id = site.url | append: '#podcast-season-' | append: page.season %}
+  {% assign actions = "" %}
+  {% if page.links.youtube and page.links.youtube != 'TODO' %}
+    {% capture actions %}
+      {{ actions }}{"@type":"WatchAction","target":{"@type":"EntryPoint","urlTemplate": {{ page.links.youtube | jsonify }},"actionPlatform":["https://schema.org/DesktopWebPlatform","https://schema.org/IOSPlatform","https://schema.org/AndroidPlatform"]}}
+    {% endcapture %}
+  {% endif %}
+  {% if page.links.apple and page.links.apple != 'TODO' %}
+    {% capture actions %}
+      {{ actions }}{% if actions != "" %},{% endif %}{"@type":"ListenAction","target":{"@type":"EntryPoint","urlTemplate": {{ page.links.apple | jsonify }},"actionPlatform":["https://schema.org/IOSPlatform","https://schema.org/DesktopWebPlatform"]}}
+    {% endcapture %}
+  {% endif %}
+  {% if page.links.spotify and page.links.spotify != 'TODO' %}
+    {% capture actions %}
+      {{ actions }}{% if actions != "" %},{% endif %}{"@type":"ListenAction","target":{"@type":"EntryPoint","urlTemplate": {{ page.links.spotify | jsonify }},"actionPlatform":["https://schema.org/DesktopWebPlatform","https://schema.org/AndroidPlatform","https://schema.org/IOSPlatform"]}}
+    {% endcapture %}
+  {% endif %}
+  {% if page.links.anchor and page.links.anchor != 'TODO' %}
+    {% capture actions %}
+      {{ actions }}{% if actions != "" %},{% endif %}{"@type":"ListenAction","target":{"@type":"EntryPoint","urlTemplate": {{ page.links.anchor | jsonify }},"actionPlatform":["https://schema.org/DesktopWebPlatform","https://schema.org/AndroidPlatform","https://schema.org/IOSPlatform"]}}
+    {% endcapture %}
+  {% endif %}
+
+{% assign transcript_text = "" %}
+{% if page.transcript %}
+  {% for item in page.transcript %}
+    {% if item.header %}
+      {% assign transcript_text = transcript_text | append: item.header | append: "\n" %}
+    {% elsif item.line %}
+      {% assign speaker = item.who | default: "Speaker" %}
+      {% assign sanitized_line = item.line | replace: "\n", " " | strip %}
+      {% assign transcript_text = transcript_text | append: speaker | append: ": " | append: sanitized_line %}
+      {% if item.time %}
+        {% assign transcript_text = transcript_text | append: " [" | append: item.time | append: "]" %}
+      {% endif %}
+      {% assign transcript_text = transcript_text | append: "\n" %}
+    {% endif %}
+  {% endfor %}
+  {% assign transcript_text = transcript_text | strip %}
+{% endif %}
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "PodcastEpisode",
+          "@id": "{{ site.url }}{{ page.url }}",
+          "name": {{ page.title | jsonify }},
+          "image": "{{ site.url }}{{ page.image | relative_url }}",
+          "datePublished": "{{ page.dateadded }}",
+          {% if page.date %}
+          "dateUpdated": "{{ page.date }}",
+          {% else %}
+          "dateUpdated": "{{ page.dateadded }}",
+          {% endif %}
+          "description": {{ page.description | jsonify }},
+          "url": "{{ site.url }}{{ page.url }}",
+          {% if page.duration %}
+          "duration": "{{ page.duration }}",
+          {% endif %}
+          {% if page.keywords %}
+          "keywords": {{ page.keywords | jsonify }},
+          {% endif %}
+          "author": {
+            "@type": "Organization",
+            "name": "DataTalks.Club",
+            "url": "https://datatalks.club/"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "DataTalks.Club",
+            "url": "https://datatalks.club/"
+          },
+          {% if page.episode %}
+          "episodeNumber": {{ page.episode }},
+          {% endif %}
+          "thumbnailUrl": "{{ site.url }}{{ page.image | relative_url}}",
+          "about": [
+            {
+              "@type": "Person",
+              "name": "Alexey Grigorev",
+              "image": "site.people.alexeygrigorev.picture",
+              "description": "Alexey Grigorev is the Founder of DataTalks.Club and creator of the Zoomcamp series, a series of free courses on machine learning, data engineering, MLOps, large language models and AI tools for developers. Alexey is a seasoned software and ML engineer with over 10 years in engineering and 6+ years in machine learning. He has deployed large-scale ML systems at companies like OLX Group and Simplaex, authored several technical books including Machine Learning Bookcamp, and is a Kaggle Master with a 1st place finish in the NIPS'17 Criteo Challenge.",
+              "sameAs": [
+                "https://www.linkedin.com/in/agrigorev/",
+                "https://github.com/alexeygrigorev",
+                "https://x.com/Al_Grigor",
+                "https://alexeygrigorev.com/",
+                "https://datatalks.club/people/alexeygrigorev.html"
+              ]
+            }
+            {% if page.guests %}
+              {% for guest_short in page.guests %}
+                {% assign guest = site.people | where: "short", guest_short | first %}
+                ,{
+                  "@type": "Person",
+                  "name": {% if guest %}{{ guest.title | jsonify }}{% else %}{{ guest_short | jsonify }}{% endif %}
+                  {% if guest %}
+                  {% if guest.bio_short or guest.content %}
+                  ,"description": {% if guest.bio_short %}{{ guest.bio_short | strip_html | jsonify }}{% else %}{{ guest.content | strip_html | jsonify }}{% endif %}
+                  {% endif %}
+                  {% if guest.picture %}
+                  ,"image": "{{ site.url }}{{ guest.picture | relative_url }}"
+                  {% endif %}
+                  {% assign same_as_links = "" %}
+                  {% if guest.linkedin %}
+                    {% assign same_as_links = same_as_links | append: '"https://www.linkedin.com/in/' | append: guest.linkedin | append: '/"' %}
+                  {% endif %}
+                  {% if guest.twitter %}
+                    {% if same_as_links != "" %}
+                      {% assign same_as_links = same_as_links | append: ', ' %}
+                    {% endif %}
+                    {% assign same_as_links = same_as_links | append: '"https://twitter.com/' | append: guest.twitter | append: '"' %}
+                  {% endif %}
+                  {% if guest.github %}
+                    {% if same_as_links != "" %}
+                      {% assign same_as_links = same_as_links | append: ', ' %}
+                    {% endif %}
+                    {% assign same_as_links = same_as_links | append: '"https://github.com/' | append: guest.github | append: '"' %}
+                  {% endif %}
+                  {% if guest.web %}
+                    {% if same_as_links != "" %}
+                      {% assign same_as_links = same_as_links | append: ', ' %}
+                    {% endif %}
+                    {% assign same_as_links = same_as_links | append: '"' | append: guest.web | append: '"' %}
+                  {% endif %}
+                  {% if same_as_links != "" %}
+                  ,"sameAs": [{{ same_as_links }}]
+                  {% endif %}
+                  {% endif %}
+                }
+              {% endfor %}
+            {% endif %}
+          ]
+          {% if actions != "" %}
+          ,"potentialAction": [{{ actions }}]
+          {% endif %}
+          {% if page.season %}
+          ,"partOfSeason": {
+            "@type": "PodcastSeason",
+            "@id": "{{ season_id }}",
+            "seasonNumber": {{ page.season }},
+            "name": "DataTalks.Club Podcast - Season {{ page.season }}"
+          }
+          ,"partOfSeries": {
+            "@type": "PodcastSeries",
+            "@id": "{{ series_id }}",
+            "name": "DataTalks.Club Podcast",
+            "url": "{{ site.url }}/podcast.html",
+            "description": "Weekly podcast episodes with data science experts, ML engineers, and AI researchers",
+            "publisher": {
+              "@type": "Organization",
+              "name": "DataTalks.Club",
+              "url": "https://datatalks.club/"
+            }
+          }
+          {% endif %}
+        }
+        {% if page.season %}
+        ,{
+          "@type": "PodcastSeason",
+          "@id": "{{ season_id }}",
+          "seasonNumber": {{ page.season }},
+          "name": "DataTalks.Club Podcast - Season {{ page.season }}",
+          "numberOfEpisodes": {{ season_episode_count }},
+          {% if season_start %}
+          "startDate": "{{ season_start }}",
+          {% endif %}
+          {% if season_end %}
+          "endDate": "{{ season_end }}",
+          {% endif %}
+          "partOfSeries": {
+            "@type": "PodcastSeries",
+            "@id": "{{ series_id }}",
+            "name": "DataTalks.Club Podcast"
+          }
+        }
+        {% endif %}
+        {% if page.links.youtube and page.links.youtube != 'TODO' %}
+        ,{
+          "@type": "VideoObject",
+          "name": {{ page.title | jsonify }},
+          "description": {{ page.description | jsonify }},
+          "thumbnailUrl": "{{ site.url }}{{ page.image | relative_url }}",
+          "embedUrl": {{ page.links.youtube | jsonify }},
+          "contentUrl": {{ page.links.youtube | jsonify }},
+          "uploadDate": "{{ page.dateadded }}T00:00:00Z",
+          "duration": {% if page.duration %}"{{ page.duration }}"{% else %}"PT1H"{% endif %},
+          "publisher": {
+            "@type": "Organization",
+            "name": "DataTalks.Club",
+            "url": "https://datatalks.club/"
+          }
+          {% if page.links.anchor and page.links.anchor != 'TODO' %}
+          ,"associatedMedia": {
+            "@type": "AudioObject",
+            "url": {{ page.links.anchor | jsonify }}
+          }
+          {% endif %}
+          {% if transcript_text != "" %}
+          ,"transcript": {{ transcript_text | jsonify }}
+          {% endif %}
+          {% if page.quotableClips %}
+          ,"hasPart": [
+            {% for clip in page.quotableClips %}
+            {
+              "@type": "Clip",
+              "name": {{ clip.name | jsonify }},
+              "startOffset": {{ clip.startOffset }},
+              "endOffset": {{ clip.endOffset }},
+              "url": {{ clip.url | jsonify }}
+            }{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+          ]
+          {% endif %}
+        }
+        {% endif %}
+        {% if page.links.anchor and page.links.anchor != 'TODO' %}
+        ,{
+          "@type": "AudioObject",
+          "name": {{ page.title | jsonify }},
+          "description": {{ page.description | jsonify }},
+          "contentUrl": {{ page.links.anchor | jsonify }},
+          "encodingFormat": "audio/mpeg",
+          "uploadDate": "{{ page.dateadded }}T00:00:00Z",
+          "duration": {% if page.duration %}"{{ page.duration }}"{% else %}"PT1H"{% endif %},
+          "thumbnailUrl": "{{ site.url }}{{ page.image | relative_url }}",
+          "publisher": {
+            "@type": "Organization",
+            "name": "DataTalks.Club",
+            "url": "https://datatalks.club/"
+          }
+        }
+        {% endif %}
+        ,{
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "{{ site.url }}/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Podcast",
+              "item": "{{ site.url }}/podcast.html"
+            }
+            {% if page.season %}
+            ,{
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Season {{ page.season }}",
+              "item": "{{ site.url }}/podcast.html#season-{{ page.season }}"
+            }
+            {% endif %}
+            ,{
+              "@type": "ListItem",
+              "position": {% if page.season %}4{% else %}3{% endif %},
+              "name": {{ page.title | jsonify }},
+              "item": "{{ site.url }}{{ page.url }}"
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+
+    
+
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto content">
+      <article class="col-lg-8 mx-auto content" itemscope itemtype="https://schema.org/PodcastEpisode">
         {% assign season_episodes = site.podcast | where: "season", page.season | sort: "episode" %}
         {% assign prev_episode = nil %}
         {% assign next_episode = nil %}
@@ -26,14 +304,14 @@
           {% endif %}
         {% endfor %}
 
-        <div class="podcast-head-section">
+        <header class="podcast-head-section">
           <div class="podcast-header">
             <div class="podcast-meta-top">
               <span class="podcast-type-badge">Season {{ page.season }}, Episode {{ page.episode }}</span>
             </div>
             <h1>{{ page.title }}{% if page.guests %} | {% for a in page.guests %}{% assign author = site.people | where: "short", a | first %}{{ author.title }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}</h1>
             {% if page.subtitle %}
-              <h3 class="podcast-subtitle">{{ page.subtitle }}</h3>
+              <h2 class="podcast-subtitle">{{ page.subtitle }}</h2>
             {% endif %}
           </div>
 
@@ -65,8 +343,7 @@
               <div>Anchor</div>
             </a>
           </div>
-        </div>
-      </div>
+        </header>
 
         <!-- Tabs Navigation -->
         <div class="podcast-tabs">
@@ -78,7 +355,8 @@
         </div>
 
         <!-- Tab Contents -->
-        <div class="podcast-tab-content active" id="shownotes-tab">
+        <section class="podcast-tab-content active" id="shownotes-tab" aria-labelledby="shownotes-heading">
+          <h2 id="shownotes-heading" class="sr-only">Show Notes</h2>
           {% if page.intro %}
           <!-- Intro Text Section -->
           <div class="podcast-intro-section">
@@ -93,7 +371,8 @@
 
           <!-- Guest Bio Cards -->
           {% if page.guests %}
-          <div class="guest-bio-section mb-4">
+          <section class="guest-bio-section mb-4" aria-labelledby="guests-heading">
+            <h2 id="guests-heading" class="sr-only">About the Guests</h2>
             {% for guest_short in page.guests %}
               {% assign guest = site.people | where: "short", guest_short | first %}
               {% if guest %}
@@ -124,7 +403,7 @@
               </div>
               {% endif %}
             {% endfor %}
-          </div>
+          </section>
           {% endif %}
 
           <!-- Episode Navigation -->
@@ -185,40 +464,43 @@
         </div>
 
           <!-- Related Episodes Section -->
-          <div class="related-episodes-section">
-            <h2 class="related-episodes-title">Related episodes</h2>
+          <section class="related-episodes-section" aria-labelledby="related-episodes-heading">
+            <h2 id="related-episodes-heading" class="related-episodes-title">Related episodes</h2>
             <div class="related-episodes-grid">
               {% assign related_count = 0 %}
               {% assign related_episodes = site.podcast | where: "season", page.season | sort: "episode" | reverse %}
               {% for episode in related_episodes %}
                 {% if episode.url != page.url and related_count < 3 %}
-                  <a href="{{ episode.url }}" class="related-episode-card">
-                    <div class="related-episode-image">
-                      <img src="/{{ episode.image }}" alt="{{ episode.title }}">
-                    </div>
-                    <div class="related-episode-content">
-                      {% if episode.season and episode.episode %}
-                        <span class="related-episode-badge">Season {{ episode.season }}, Episode {{ episode.episode }}</span>
-                      {% endif %}
-                      <h3 class="related-episode-title">{{ episode.title }}</h3>
-                      {% if episode.guests %}
-                        <p class="related-episode-guest">
-                          {% for guest_short in episode.guests limit:1 %}
-                            {% assign guest = site.people | where: "short", guest_short | first %}
-                            {{ guest.title }}
-                          {% endfor %}
-                        </p>
-                      {% endif %}
-                    </div>
-                  </a>
+                  <article>
+                    <a href="{{ episode.url }}" class="related-episode-card" aria-label="Listen to: {{ episode.title }}">
+                      <div class="related-episode-image">
+                        <img src="/{{ episode.image }}" alt="{{ episode.title }}">
+                      </div>
+                      <div class="related-episode-content">
+                        {% if episode.season and episode.episode %}
+                          <span class="related-episode-badge">Season {{ episode.season }}, Episode {{ episode.episode }}</span>
+                        {% endif %}
+                        <h3 class="related-episode-title">{{ episode.title }}</h3>
+                        {% if episode.guests %}
+                          <p class="related-episode-guest">
+                            {% for guest_short in episode.guests limit:1 %}
+                              {% assign guest = site.people | where: "short", guest_short | first %}
+                              {{ guest.title }}
+                            {% endfor %}
+                          </p>
+                        {% endif %}
+                      </div>
+                    </a>
+                  </article>
                   {% assign related_count = related_count | plus: 1 %}
                 {% endif %}
               {% endfor %}
             </div>
-          </div>
-        </div>
+          </section>
+        </section>
 
-        <div class="podcast-tab-content" id="timestamps-tab">
+        <section class="podcast-tab-content" id="timestamps-tab" aria-labelledby="timestamps-heading">
+          <h2 id="timestamps-heading" class="sr-only">Timestamps</h2>
           {% if page.transcript %}
             <p class="timestamps-prompt">Click any timestamp to jump to that moment in the video</p>
             <div class="timestamps-list">
@@ -244,10 +526,11 @@
           {% else %}
           <p>Timestamps coming soon...</p>
           {% endif %}
-        </div>
+        </section>
 
         {% if page.transcript %}
-        <div class="podcast-tab-content" id="transcript-tab">
+        <section class="podcast-tab-content" id="transcript-tab" aria-labelledby="transcript-heading">
+          <h2 id="transcript-heading" class="sr-only">Transcript</h2>
           <div class="content-main mb-5">
             <p class="transcript-disclaimer">
               The transcripts are edited for clarity, sometimes with AI.
@@ -263,10 +546,10 @@
               {% endif %}
             {% endfor %}
           </div>
-        </div>
+        </section>
         {% endif %}
 
-      </div>
+      </article>
     </div>
   </div>
 

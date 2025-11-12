@@ -977,6 +977,121 @@ intro: 'When should you hire a data science manager versus a deep technical expe
   impact with KPIs and client discovery. <br><br> Listen to gain practical hiring
   criteria, role profiles, and decision frameworks for when to use machine learning
   and how to build teams that deliver.'
+dateadded: '2021-11-21'
+duration: PT00H59M33S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=0
+  endOffset: 89
+- name: 'Episode Topic: Data Science Manager vs Data Science Expert'
+  startOffset: 89
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=89
+  endOffset: 120
+- name: 'Career Journey: GIS → SQL → BI → Data Science Manager'
+  startOffset: 120
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=120
+  endOffset: 266
+- name: 'ML Use Cases: Mental Health Monitoring & Demand Forecasting'
+  startOffset: 266
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=266
+  endOffset: 298
+- name: 'Misleading Job Ads: Manager vs Expert Confusion on LinkedIn'
+  startOffset: 298
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=298
+  endOffset: 448
+- name: 'Root Causes: HR/IT Job Descriptions Missing Managerial Needs'
+  startOffset: 448
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=448
+  endOffset: 502
+- name: 'Manager Skill Balance: Technical Knowledge vs Soft Skills'
+  startOffset: 502
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=502
+  endOffset: 722
+- name: 'Technical Expectation: High-Level Understanding vs Deep Expertise'
+  startOffset: 722
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=722
+  endOffset: 809
+- name: 'Manager Responsibilities: Strategy, Team Development, Stakeholder Communication'
+  startOffset: 809
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=809
+  endOffset: 949
+- name: 'Hands-On Reality: Coding, Model Review, and Time Allocation'
+  startOffset: 949
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=949
+  endOffset: 1054
+- name: 'Manager Experience: Hands-On ML Helpful but Not Mandatory'
+  startOffset: 1054
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=1054
+  endOffset: 1180
+- name: 'Business Development: Manager Role in Sales and Client Strategy'
+  startOffset: 1180
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=1180
+  endOffset: 1251
+- name: 'Team Development: Learning Plans, Courses, and Pairing'
+  startOffset: 1251
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=1251
+  endOffset: 1434
+- name: 'Quality Oversight: Code Reviews vs Managerial Guidance'
+  startOffset: 1434
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=1434
+  endOffset: 1502
+- name: 'Data Science Expert: Deep Technical and Domain Expertise'
+  startOffset: 1502
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=1502
+  endOffset: 1728
+- name: 'Hiring an Expert: When Complex Models and Domain Knowledge Are Needed'
+  startOffset: 1728
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=1728
+  endOffset: 1837
+- name: 'Hiring Strategy: Manager + Expert vs Generalist for Startups'
+  startOffset: 1837
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=1837
+  endOffset: 1916
+- name: 'Manager Job Profile: Team Building, Communication, and AI Literacy'
+  startOffset: 1916
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=1916
+  endOffset: 2044
+- name: 'Risks of Hiring Experts as Managers: Team and Business Translation Gaps'
+  startOffset: 2044
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=2044
+  endOffset: 2317
+- name: 'Startup Hiring: Unicorns Who Wear Many Hats'
+  startOffset: 2317
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=2317
+  endOffset: 2447
+- name: 'Project Prioritization: Estimation, Resource Allocation, and Buffers'
+  startOffset: 2447
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=2447
+  endOffset: 2774
+- name: 'Measuring Impact: Client Feedback, KPIs, and Model Monitoring'
+  startOffset: 2774
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=2774
+  endOffset: 3012
+- name: 'Client Discovery: Baselines, Data Availability, and Success Metrics'
+  startOffset: 3012
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=3012
+  endOffset: 3237
+- name: 'Feasibility Check: Data Quality and Necessity of Machine Learning'
+  startOffset: 3237
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=3237
+  endOffset: 3271
+- name: 'Diversity Spotlight: Women in Data Science and Interview Confidence'
+  startOffset: 3271
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=3271
+  endOffset: 3543
+- name: 'Connect with Guest: Barbara Sobkowiak on LinkedIn'
+  startOffset: 3543
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=3543
+  endOffset: 3560
+- name: 'Career Advice: Find Satisfaction, Mentors, and Networking'
+  startOffset: 3560
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=3560
+  endOffset: 3624
+- name: Episode Wrap-up and Unanswered Questions
+  startOffset: 3624
+  url: https://www.youtube.com/watch?v=hFmIgaN-F8Y&t=3624
+  endOffset: 3573
 ---
 
 Links:

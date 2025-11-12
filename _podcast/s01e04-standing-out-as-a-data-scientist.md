@@ -1096,4 +1096,123 @@ intro: How do you actually land a data scientist role — from a resume that pas
   and acceptable tenure patterns. <br><br> Listen to gain actionable tips for resumes,
   portfolios, interviews, and working effectively with recruiters to increase your
   chances of landing a data scientist role.
+dateadded: '2021-02-23'
+duration: PT01H08M47S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=0
+  endOffset: 99
+- name: 'Guest Introduction: Luke Whipps, recruiter and podcast host'
+  startOffset: 99
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=99
+  endOffset: 177
+- name: 'Recruiting background: a decade in data, analytics and AI'
+  startOffset: 177
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=177
+  endOffset: 223
+- name: 'Neural AI origin: founding principles and non‑transactional recruiting'
+  startOffset: 223
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=223
+  endOffset: 316
+- name: 'Community focus: podcasts, events and value‑driven talent work'
+  startOffset: 316
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=316
+  endOffset: 422
+- name: 'Hiring challenges: why data scientist roles vary by company'
+  startOffset: 422
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=422
+  endOffset: 455
+- name: 'Recruitment workflow: six‑stage process from definition to close'
+  startOffset: 455
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=455
+  endOffset: 495
+- name: Role definition & market guidance for data science hires
+  startOffset: 495
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=495
+  endOffset: 554
+- name: Shortlist, interview preparation, feedback and offer negotiation
+  startOffset: 554
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=554
+  endOffset: 683
+- name: 'Candidate funnel sizes: longlists, headhunting and volume hiring'
+  startOffset: 683
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=683
+  endOffset: 847
+- name: 'First impressions: CV design, formatting and professional clarity'
+  startOffset: 847
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=847
+  endOffset: 975
+- name: Industry and use‑case alignment on resumes for better matches
+  startOffset: 975
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=975
+  endOffset: 1190
+- name: 'Projects & portfolio: linking tech stack to concrete work'
+  startOffset: 1190
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=1190
+  endOffset: 1328
+- name: 'Career narrative: tenure, common themes and progression'
+  startOffset: 1328
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=1328
+  endOffset: 1504
+- name: Demonstrating business impact and real world use cases
+  startOffset: 1504
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=1504
+  endOffset: 1639
+- name: 'CV structure: clarity, audience fit and information hierarchy'
+  startOffset: 1639
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=1639
+  endOffset: 1810
+- name: 'Job‑hopping: red flags, ideal tenure and acceptable exceptions'
+  startOffset: 1810
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=1810
+  endOffset: 1942
+- name: 'Junior candidates: pick an industry, aim small and show purpose'
+  startOffset: 1942
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=1942
+  endOffset: 2274
+- name: 'Tailored applications: research job needs and map your skills'
+  startOffset: 2274
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=2274
+  endOffset: 2381
+- name: 'Targeted outreach tactics: emails, LinkedIn and creative approaches'
+  startOffset: 2381
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=2381
+  endOffset: 2666
+- name: 'Focus strategy: approach fewer companies and segment your market'
+  startOffset: 2666
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=2666
+  endOffset: 2785
+- name: 'Academia → industry: adopt a product mindset and productionize research'
+  startOffset: 2785
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=2785
+  endOffset: 3039
+- name: 'Motivation vs money: career focus, progression and tradeoffs'
+  startOffset: 3039
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=3039
+  endOffset: 3142
+- name: 'Salary signals: asking salary, market alignment and recruiter views'
+  startOffset: 3142
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=3142
+  endOffset: 3407
+- name: 'CV formats & length: country differences and the two‑page guideline'
+  startOffset: 3407
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=3407
+  endOffset: 3531
+- name: 'Job title alignment: adapt titles to industry norms without lying'
+  startOffset: 3531
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=3531
+  endOffset: 3615
+- name: 'Switching backgrounds: web development to machine learning skills'
+  startOffset: 3615
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=3615
+  endOffset: 3727
+- name: 'Disclosing other interviews: transparency, trust and recruiter differences'
+  startOffset: 3727
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=3727
+  endOffset: 4057
+- name: 'Episode summary: purpose‑driven candidates and standing out as a data scientist'
+  startOffset: 4057
+  url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=4057
+  endOffset: 4127
 ---

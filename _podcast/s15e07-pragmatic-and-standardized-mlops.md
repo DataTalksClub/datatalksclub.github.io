@@ -1161,6 +1161,136 @@ intro: 'How do you build pragmatic, standardized MLOps across teams without chas
   retail use cases like demand forecasting and personalization. <br><br> Listen to
   learn concrete steps for implementing CI/CD, model versioning, registries, and monitoring
   — and how to prioritize organizational change to make MLOps work in production.'
+dateadded: '2023-09-25'
+duration: PT00H57M05S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=0
+  endOffset: 101
+- name: 'Episode Overview: Pragmatic and Standardized MLOps with Maria Vechtomova'
+  startOffset: 101
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=101
+  endOffset: 187
+- name: 'Background: Early career in data, econometrics, R to Python, and early MLOps
+    work'
+  startOffset: 187
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=187
+  endOffset: 345
+- name: 'Early MLOps stacks: Teradata Aster, custom metadata, and orchestration'
+  startOffset: 345
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=345
+  endOffset: 483
+- name: 'Role Overview: MLOps Tech Lead / Manager of Machine Learning Engineering'
+  startOffset: 483
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=483
+  endOffset: 585
+- name: 'Marvelous MLOps: blog, LinkedIn presence, and content cadence'
+  startOffset: 585
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=585
+  endOffset: 670
+- name: 'Defining MLOps: enablement, reproducibility, and teaching data scientists'
+  startOffset: 670
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=670
+  endOffset: 762
+- name: 'Central MLOps team responsibilities: infrastructure, reusable CI/CD, and
+    monitoring'
+  startOffset: 762
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=762
+  endOffset: 885
+- name: 'Toollandscape overload: MAD landscape, FOMO, and organizational challenges'
+  startOffset: 885
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=885
+  endOffset: 987
+- name: 'Pragmatic MLOps: leverage existing infra (Kubernetes, Git, CI/CD) not new
+    tools'
+  startOffset: 987
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=987
+  endOffset: 1121
+- name: 'Essential MLOps stack: version control, CI/CD, registries, model registry,
+    deployment, monitoring'
+  startOffset: 1121
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=1121
+  endOffset: 1249
+- name: 'Model artifacts & registry options: Artifactory, S3, and MLflow alternatives'
+  startOffset: 1249
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=1249
+  endOffset: 1343
+- name: 'MLOps maturity assessment: documentation, reproducibility, code quality,
+    and testing'
+  startOffset: 1343
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=1343
+  endOffset: 1441
+- name: 'Startup priorities: reproducibility, versioning, traceability as first steps'
+  startOffset: 1441
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=1441
+  endOffset: 1626
+- name: 'Team organization: centralized MLOps vs. embedded feature teams and guardrails'
+  startOffset: 1626
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=1626
+  endOffset: 1795
+- name: 'Standardization: cookie‑cutter repos, service principals, and Databricks
+    integration'
+  startOffset: 1795
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=1795
+  endOffset: 2004
+- name: 'Production best practices: move logic from notebooks to packages and CI/CD
+    pipelines'
+  startOffset: 2004
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2004
+  endOffset: 2069
+- name: 'Implementation timeline: technical build vs. organizational buy‑in and permissions'
+  startOffset: 2069
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2069
+  endOffset: 2121
+- name: 'Securing DevOps buy‑in: expose pain, deliver standards, and enable internal
+    audit'
+  startOffset: 2121
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2121
+  endOffset: 2281
+- name: 'Team composition: small senior ML engineering team building MLOps platform'
+  startOffset: 2281
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2281
+  endOffset: 2369
+- name: 'Tool‑agnostic skills: learn fundamentals and stitch tools together end-to-end'
+  startOffset: 2369
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2369
+  endOffset: 2573
+- name: 'Roadmap priorities: monitoring standardization, A/B testing, and LLM pilots'
+  startOffset: 2573
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2573
+  endOffset: 2744
+- name: 'LLM Ops perspective: hype, cost, GPU constraints, and multilingual limits'
+  startOffset: 2744
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2744
+  endOffset: 2982
+- name: 'Retail use cases: demand forecasting, personalization, and loyalty programs'
+  startOffset: 2982
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2982
+  endOffset: 3084
+- name: 'Cross‑brand model: centralized MLOps support for smaller brands and cooperation
+    with large brands'
+  startOffset: 3084
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=3084
+  endOffset: 3245
+- name: 'Learning recommendations: hands‑on projects, MLOps Zoomcamp, and pairing
+    with engineers'
+  startOffset: 3245
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=3245
+  endOffset: 3368
+- name: 'Skill balance: ML fundamentals plus software engineering and system design'
+  startOffset: 3368
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=3368
+  endOffset: 3434
+- name: 'Data engineering importance: pipeline design, optimization, and data quality
+    for MLOps'
+  startOffset: 3434
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=3434
+  endOffset: 3496
+- name: 'Closing Remarks: upcoming course, LLM updates, and follow Marvelous MLOps'
+  startOffset: 3496
+  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=3496
+  endOffset: 3425
 ---
 
 Links:

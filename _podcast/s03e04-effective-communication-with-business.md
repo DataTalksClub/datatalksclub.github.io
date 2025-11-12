@@ -1,6 +1,8 @@
 ---
-title: 'Data Strategist Guide: Effective Communication to Bridge Data Teams & Management for Data-Driven Growth'
-short: "Data Strategist Guide to Driving Growth: Prototypes, MVPs & Building Data Trust"
+title: 'Data Strategist Guide: Effective Communication to Bridge Data Teams & Management
+  for Data-Driven Growth'
+short: 'Data Strategist Guide to Driving Growth: Prototypes, MVPs & Building Data
+  Trust'
 guests:
 - liorbarak
 image: images/podcast/s03e04-effective-communication-with-business.jpg
@@ -944,6 +946,109 @@ intro: 'How do you bridge the gap between data teams and management so analytics
   <br><br> Listen to learn concrete approaches for data strategy, data communication,
   and production-ready delivery that help your organization move from data chaos to
   measurable, data-driven growth.'
+dateadded: '2021-05-01'
+duration: PT00H57M23S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=0
+  endOffset: 91
+- name: 'Episode Theme: Bridging Data & Management'
+  startOffset: 91
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=91
+  endOffset: 150
+- name: 'Guest Background: Lior''s data and product journey'
+  startOffset: 150
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=150
+  endOffset: 248
+- name: 'Role Defined: Data strategist as translator between business and tech'
+  startOffset: 248
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=248
+  endOffset: 466
+- name: 'Communication Tactics: Proactive alerts to maintain data trust'
+  startOffset: 466
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=466
+  endOffset: 648
+- name: 'Forecast Transparency: Confidence intervals and QA dashboards'
+  startOffset: 648
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=648
+  endOffset: 795
+- name: 'Translator Profiles: Product-minded data advocates for alignment'
+  startOffset: 795
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=795
+  endOffset: 860
+- name: 'Embedment: Sitting with business to learn workflows and needs'
+  startOffset: 860
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=860
+  endOffset: 1053
+- name: 'Data-led Growth: Using data to improve recruitment, marketing, and ops'
+  startOffset: 1053
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=1053
+  endOffset: 1225
+- name: 'Overcoming Resistance: Hackathons and side projects to prove value'
+  startOffset: 1225
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=1225
+  endOffset: 1434
+- name: 'Lean Delivery: MVPs, iterative development, and scaling with OKRs'
+  startOffset: 1434
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=1434
+  endOffset: 1577
+- name: 'Prototype-first: Embrace imperfect code to validate solutions'
+  startOffset: 1577
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=1577
+  endOffset: 1759
+- name: 'Handover Strategy: Creating ownership for productionization'
+  startOffset: 1759
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=1759
+  endOffset: 1962
+- name: 'Value over Aesthetics: Message clarity beats polish in early stages'
+  startOffset: 1962
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=1962
+  endOffset: 2092
+- name: 'Hummus Metaphor: Quick prototype versus crafted product'
+  startOffset: 2092
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=2092
+  endOffset: 2193
+- name: 'Non-technical Stakeholders: Explain effort in plain language'
+  startOffset: 2193
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=2193
+  endOffset: 2384
+- name: 'Cross-team Empathy: Breaking silos through co-working and lunches'
+  startOffset: 2384
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=2384
+  endOffset: 2575
+- name: 'Remote Collaboration: Chat-driven triggers and selective meeting use'
+  startOffset: 2575
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=2575
+  endOffset: 2729
+- name: 'Product Perspectives: Consumers vs engineers — the hummus analogy'
+  startOffset: 2729
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=2729
+  endOffset: 3050
+- name: 'Local Anecdote: Recommended hummus spots in Berlin'
+  startOffset: 3050
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=3050
+  endOffset: 3096
+- name: 'Book Overview: Purpose of "Data is Like a Plate of Hummus"'
+  startOffset: 3096
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=3096
+  endOffset: 3200
+- name: 'Strategy Foundations: Build a stable data ground before models'
+  startOffset: 3200
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=3200
+  endOffset: 3349
+- name: 'Data Chaos: Clearing requests, educating users, and leading growth'
+  startOffset: 3349
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=3349
+  endOffset: 3460
+- name: 'Resources & Contact: Lior''s LinkedIn, Twitter, and podcast'
+  startOffset: 3460
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=3460
+  endOffset: 3481
+- name: Closing Remarks and Episode Wrap-up
+  startOffset: 3481
+  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=3481
+  endOffset: 3443
 ---
 
 

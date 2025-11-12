@@ -1439,6 +1439,105 @@ intro: How do small, science-aligned biohacks actually move the needle on focus 
   circadian light, dopamine management, habit tracking, and meditation—to boost sustainable
   productivity, this episode offers concrete, practical steps grounded in real-world
   experience.
+dateadded: '2023-03-11'
+duration: PT00H57M58S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=0
+  endOffset: 87
+- name: Episode Overview & Guest Introduction
+  startOffset: 87
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=87
+  endOffset: 138
+- name: 'Career Journey: From Business/Marketing to Data Science'
+  startOffset: 138
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=138
+  endOffset: 291
+- name: 'Procrastination & Perfectionism: Acceptance and Deadline Effects'
+  startOffset: 291
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=291
+  endOffset: 416
+- name: 'Biohacking Defined: Behavioral Approaches vs. Chemical Interventions'
+  startOffset: 416
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=416
+  endOffset: 571
+- name: 'Dopamine & Motivation: Problem-Solving Rewards and Habit Drivers'
+  startOffset: 571
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=571
+  endOffset: 742
+- name: 'Meditation Benefits: Focus, Prefrontal Cortex, and Non-Sleep Deep Rest'
+  startOffset: 742
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=742
+  endOffset: 1121
+- name: 'Light Exposure & Circadian Health: Morning Sun, Cortisol, Melatonin'
+  startOffset: 1121
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=1121
+  endOffset: 1336
+- name: 'Evolutionary Perspective: Simple Behavioral Biohacks for Productivity'
+  startOffset: 1336
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=1336
+  endOffset: 1574
+- name: 'Daylight Lamps & Wake Lighting: Alternatives for Low-Daylight Homes'
+  startOffset: 1574
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=1574
+  endOffset: 1670
+- name: 'Sleep Planning: 90-Minute Cycles and Alarm Timing Strategies'
+  startOffset: 1670
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=1670
+  endOffset: 1978
+- name: 'Nutrition for Focus: Protein Breakfasts, Lunch Effects, and Energy'
+  startOffset: 1978
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=1978
+  endOffset: 2287
+- name: 'Productivity Tracking: Logs, Notion Dashboards, and Self-Reflection'
+  startOffset: 2287
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=2287
+  endOffset: 2476
+- name: 'Failed Experiments: Intermittent Fasting, Cold Showers, and Limits'
+  startOffset: 2476
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=2476
+  endOffset: 2605
+- name: 'Voluntary Discomfort & Dopamine Resets: Stoic Challenges'
+  startOffset: 2605
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=2605
+  endOffset: 2747
+- name: 'Safety Considerations: Evidence-Based Biohacking and Medical Advice'
+  startOffset: 2747
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=2747
+  endOffset: 2832
+- name: 'Caffeine Strategy: Coffee, Timing, and Sleep Trade-Offs'
+  startOffset: 2832
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=2832
+  endOffset: 2901
+- name: 'Habit Tracking in Practice: Steps, Exercise, Hydration Metrics'
+  startOffset: 2901
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=2901
+  endOffset: 3051
+- name: 'Mindset Shifts: Gratitude, Prioritization, and Sustainable Goals'
+  startOffset: 3051
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3051
+  endOffset: 3178
+- name: 'Stoicism Reading Recommendation: Meditations and Mental Models'
+  startOffset: 3178
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3178
+  endOffset: 3225
+- name: 'Prioritization Framework: Focusing on Five Impactful Goals'
+  startOffset: 3225
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3225
+  endOffset: 3321
+- name: 'Overcoming Perfectionism: Self-Compassion and Temporal Perspective'
+  startOffset: 3321
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3321
+  endOffset: 3443
+- name: 'Resources for Learning Biohacking: Huberman Lab Podcast & Top Episodes'
+  startOffset: 3443
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3443
+  endOffset: 3533
+- name: Key Takeaways, Next Steps, and Episode Close
+  startOffset: 3533
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3533
+  endOffset: 3478
 ---
 
 Links:

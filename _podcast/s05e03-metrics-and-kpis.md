@@ -1,5 +1,6 @@
 ---
-title: 'KPI Design & Metrics Strategy: Prioritize Impact, Avoid Vanity Metrics, and Prove ROI'
+title: 'KPI Design & Metrics Strategy: Prioritize Impact, Avoid Vanity Metrics, and
+  Prove ROI'
 short: 'Defining Success: Metrics and KPIs'
 guests:
 - adamsroka
@@ -1056,6 +1057,109 @@ intro: How do you design KPIs that prioritize real impact, avoid vanity metrics,
   (A/B, randomization, backtesting, uplift). <br><br> If you’re responsible for KPI
   design, metrics strategy, or proving ROI from data work, this episode gives actionable
   frameworks to measure impact and reduce measurement risk.
+dateadded: '2021-09-19'
+duration: PT01H02M30S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=0
+  endOffset: 90
+- name: Guest Introduction & Career Path
+  startOffset: 90
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=90
+  endOffset: 142
+- name: From Physics PhD to Data Science and Reinforcement Learning
+  startOffset: 142
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=142
+  endOffset: 392
+- name: 'Moving into Consultancy: BI, Dashboards, and Client Workshops'
+  startOffset: 392
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=392
+  endOffset: 540
+- name: Laser Research, Ray-Tracing Tools, and Early RL Experiments
+  startOffset: 540
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=540
+  endOffset: 726
+- name: 'Why Metrics Matter: Drucker, Measurement, and Merit Functions'
+  startOffset: 726
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=726
+  endOffset: 911
+- name: Merit Functions & Project Prioritization (Impact vs Cost)
+  startOffset: 911
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=911
+  endOffset: 1011
+- name: Units & Comparability in Metric Design
+  startOffset: 1011
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=1011
+  endOffset: 1042
+- name: 'Sales Pipeline Metrics: Weighted Revenue and Lead Qualification'
+  startOffset: 1042
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=1042
+  endOffset: 1246
+- name: 'Professional Services Metrics: Burn-Down Rate & Maintainability of Earnings'
+  startOffset: 1246
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=1246
+  endOffset: 1361
+- name: 'KPIs Defined: Top-Down Alignment and Executive Decision Metrics'
+  startOffset: 1361
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=1361
+  endOffset: 1567
+- name: 'Avoiding Vanity Metrics: Make the Important Measurable'
+  startOffset: 1567
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=1567
+  endOffset: 1684
+- name: KPI Gaming Risks & Designing Competing KPIs
+  startOffset: 1684
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=1684
+  endOffset: 1830
+- name: 'Derived KPIs: Composite Metrics to Capture Margin and Trade-offs'
+  startOffset: 1830
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=1830
+  endOffset: 1964
+- name: 'Workshop Process: Designing Metrics for Grocery Retail'
+  startOffset: 1964
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=1964
+  endOffset: 2239
+- name: KPI Prioritization, Review Cadence, and Iteration Best Practices
+  startOffset: 2239
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=2239
+  endOffset: 2467
+- name: 'Operationalizing KPIs: Dashboards, Visibility, and Executive Communication'
+  startOffset: 2467
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=2467
+  endOffset: 2699
+- name: 'North Star Metric: Single Guiding Indicator for Strategy'
+  startOffset: 2699
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=2699
+  endOffset: 2794
+- name: 'Threshold Metrics: Alerts, Limits, and Safety Conditions'
+  startOffset: 2794
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=2794
+  endOffset: 2928
+- name: 'Health & Hygiene Metrics: Downtime and Service Reliability'
+  startOffset: 2928
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=2928
+  endOffset: 3072
+- name: 'Data Team Metrics: Translate Model Performance into £ / Time Saved'
+  startOffset: 3072
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=3072
+  endOffset: 3342
+- name: 'Experimentation & Measurement: A/B Testing and Champion–Challenger'
+  startOffset: 3342
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=3342
+  endOffset: 3395
+- name: 'Model Validation Techniques: Randomization, Backtesting, and Uplift'
+  startOffset: 3395
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=3395
+  endOffset: 3602
+- name: 'Timeboxing Data Work: Two-Week Spikes and Accelerate Metrics'
+  startOffset: 3602
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=3602
+  endOffset: 3795
+- name: Episode Wrap-Up, Contact Info, and Further Reading
+  startOffset: 3795
+  url: https://www.youtube.com/watch?v=H4P2RfKvXGs&t=3795
+  endOffset: 3750
 ---
 
 

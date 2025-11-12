@@ -576,6 +576,119 @@ intro: 'How do you turn real-world AI project experience into repeatable courses
   options for instructors to volunteer or monetize content. <br><br> Listen to learn
   actionable steps for joining, teaching, or designing project-based data science
   courses that prepare learners for careers in AI.'
+dateadded: '2024-05-12'
+duration: PT00H57M03S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=0
+  endOffset: 85
+- name: 'Guest Introduction: Erum Afzal — AI for education & Omdena Academy'
+  startOffset: 85
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=85
+  endOffset: 152
+- name: 'Background: Journey from Pakistan to PhD & community teaching'
+  startOffset: 152
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=152
+  endOffset: 303
+- name: 'Omdena Academy: Evolution from projects to structured courses'
+  startOffset: 303
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=303
+  endOffset: 364
+- name: 'Omdena Projects: Global collaborators solving real‑world AI problems'
+  startOffset: 364
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=364
+  endOffset: 619
+- name: 'Project-to-Course Model: Teaching skills learned from projects'
+  startOffset: 619
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=619
+  endOffset: 692
+- name: 'Foundational Data Science Courses: Python, Pandas, NumPy, NLP'
+  startOffset: 692
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=692
+  endOffset: 872
+- name: 'Course Development: Instructor application, content review, delivery'
+  startOffset: 872
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=872
+  endOffset: 952
+- name: 'Business Model: Free learner courses with organizational partnerships'
+  startOffset: 952
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=952
+  endOffset: 1058
+- name: 'Access Pathways: Enroll without prior Omdena membership; pathway to projects'
+  startOffset: 1058
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1058
+  endOffset: 1248
+- name: 'Instructor Pipeline: Open applications and project-based recruitment'
+  startOffset: 1248
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1248
+  endOffset: 1349
+- name: 'Course Engagement: Live sessions, selection process, graduation rates'
+  startOffset: 1349
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1349
+  endOffset: 1458
+- name: 'Selection & Motivation: Prereqs, availability, and incentive programs'
+  startOffset: 1458
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1458
+  endOffset: 1600
+- name: 'Roles & Responsibilities: Teaching focus vs community management'
+  startOffset: 1600
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1600
+  endOffset: 1788
+- name: 'Leadership Development: Network-building and taking initiative'
+  startOffset: 1788
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1788
+  endOffset: 1983
+- name: 'Community Growth Strategy: Start small and scale (AI Wonder Girl example)'
+  startOffset: 1983
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1983
+  endOffset: 2246
+- name: 'Communities for Career Building: Skill discovery and rapid learning'
+  startOffset: 2246
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=2246
+  endOffset: 2400
+- name: 'Empowering Sub-communities: Regional chapters, branding, ethics'
+  startOffset: 2400
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=2400
+  endOffset: 2570
+- name: 'Boosting Attendance: Clear takeaways and live event value'
+  startOffset: 2570
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=2570
+  endOffset: 2793
+- name: 'Curriculum Design: Basic, intermediate, and advanced course tiers'
+  startOffset: 2793
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=2793
+  endOffset: 2900
+- name: 'Talent Market Dynamics: Standing out amid data science competition'
+  startOffset: 2900
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=2900
+  endOffset: 3056
+- name: 'Hiring Integrity & Tools: Originality, plagiarism, and responsible ChatGPT
+    use'
+  startOffset: 3056
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3056
+  endOffset: 3147
+- name: 'How to Apply: Becoming an Omdena Academy instructor (Omdena.com/Omdena-Academy)'
+  startOffset: 3147
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3147
+  endOffset: 3203
+- name: 'Monetization Options: Volunteer teaching vs selling courses on platforms'
+  startOffset: 3203
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3203
+  endOffset: 3289
+- name: 'Access & Scholarship Resources: Courses, GitHub projects, and women‑focused
+    support'
+  startOffset: 3289
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3289
+  endOffset: 3399
+- name: 'Recommended Readings: AI ethics newsletter and curated resources'
+  startOffset: 3399
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3399
+  endOffset: 3466
+- name: Episode Wrap-Up & Closing Remarks
+  startOffset: 3466
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3466
+  endOffset: 3423
 ---
 
 Links:

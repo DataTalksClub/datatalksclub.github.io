@@ -991,6 +991,84 @@ intro: 'How do you move from performance marketing into a product role and build
   <br><br> If you’re responsible for site search, product discovery, or making the
   leap into product ownership, this episode delivers concrete tactics for improving
   relevance, boosting conversion rates, and growing your technical and team capabilities.'
+dateadded: '2023-11-05'
+duration: PT01H02M19S
+quotableClips:
+- name: Podcast Introduction & Guest Welcome
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=0
+  endOffset: 111
+- name: 'Background: Transition from performance marketing to product roles'
+  startOffset: 111
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=111
+  endOffset: 134
+- name: 'Marketing Experience: B2B e‑commerce, lead acquisition, branding'
+  startOffset: 134
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=134
+  endOffset: 566
+- name: Landing Product Owner Role at AUTODOC Despite Non‑traditional Fit
+  startOffset: 566
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=566
+  endOffset: 623
+- name: 'Relocation: Moving from Ukraine to Germany during 2020'
+  startOffset: 623
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=623
+  endOffset: 704
+- name: 'Transition Challenges: Learning product ownership on the job'
+  startOffset: 704
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=704
+  endOffset: 996
+- name: 'One‑on‑Ones: Structuring meetings to align with engineers and QA'
+  startOffset: 996
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=996
+  endOffset: 1347
+- name: 'Product Owner Scope: Monitoring, roadmap, prioritization, team operations'
+  startOffset: 1347
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=1347
+  endOffset: 1727
+- name: 'Process Choices: Scrum for deliveries vs Kanban for investigations'
+  startOffset: 1727
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=1727
+  endOffset: 1790
+- name: 'Team Building: Forming a dedicated e‑commerce search team'
+  startOffset: 1790
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=1790
+  endOffset: 2072
+- name: 'Search Expertise: Relevant Search book, Elasticsearch, and relevance as business
+    context'
+  startOffset: 2072
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=2072
+  endOffset: 2348
+- name: 'User Journey: Vehicle selector, part fitment, and contextual search flows'
+  startOffset: 2348
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=2348
+  endOffset: 2571
+- name: 'Technical Upskilling: NLP, information retrieval, Haystack conference, and
+    ChatGPT'
+  startOffset: 2571
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=2571
+  endOffset: 2802
+- name: 'Recruiting: Remote roles, office hubs, and open developer positions'
+  startOffset: 2802
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=2802
+  endOffset: 2909
+- name: 'Hiring Criteria: Why marketing backgrounds are valued for product roles'
+  startOffset: 2909
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=2909
+  endOffset: 3136
+- name: 'Marketing Strengths: User understanding, internal PR, and pitching roadmaps'
+  startOffset: 3136
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=3136
+  endOffset: 3486
+- name: 'Recommended Resources: Communication, Professional Product Owner, strategy,
+    experimentation'
+  startOffset: 3486
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=3486
+  endOffset: 3775
+- name: 'Closing Advice: Breaking mental barriers and committing to continuous learning'
+  startOffset: 3775
+  url: https://www.youtube.com/watch?v=-HbQQ_bVdfE&t=3775
+  endOffset: 3739
 ---
 
 Links:

@@ -1242,6 +1242,101 @@ intro: How do you move from web and game development into building machine learn
   guidance on ML platforms, prompt engineering, debugging techniques, and career strategy
   for transitioning into ML and LLM work—plus actionable resources and prioritization
   tactics you can apply immediately.
+dateadded: '2023-02-04'
+duration: PT00H59M42S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=0
+  endOffset: 132
+- name: 'Career Overview: Web, Game Development, and Python'
+  startOffset: 132
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=132
+  endOffset: 384
+- name: 'Mobile & Game Development: HTML5, Objective‑C, Swift, and Unity'
+  startOffset: 384
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=384
+  endOffset: 425
+- name: 'Career Transitions: Adapting Between Stacks and Roles'
+  startOffset: 425
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=425
+  endOffset: 606
+- name: Tech Radar & Language Freedom at Zalando
+  startOffset: 606
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=606
+  endOffset: 805
+- name: 'Machine Learning Platform: zflow Library and Pipeline Architecture'
+  startOffset: 805
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=805
+  endOffset: 959
+- name: 'Platform Consulting: Training, Onboarding, and User Support'
+  startOffset: 959
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=959
+  endOffset: 1068
+- name: 'From Engineer to Consultant: Reduced Hands‑on Coding'
+  startOffset: 1068
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=1068
+  endOffset: 1106
+- name: 'Sabbatical Focus: Learning, Break, and Exploration'
+  startOffset: 1106
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=1106
+  endOffset: 1112
+- name: 'Sabbatical Projects: Diffusion Models, ChatGPT Experiments, and Modal Labs'
+  startOffset: 1112
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=1112
+  endOffset: 1321
+- name: 'Large Language Models: Coding Assistance, Architecture Sparring, and Caveats'
+  startOffset: 1321
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=1321
+  endOffset: 1606
+- name: 'Prompt Engineering: Practical Tips and People to Follow'
+  startOffset: 1606
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=1606
+  endOffset: 1740
+- name: 'Transferable Skills: SQL, Git, Shell, and the Lindy Effect'
+  startOffset: 1740
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=1740
+  endOffset: 2014
+- name: 'Troubleshooting Example: Postgres Optimization and Performance Gains'
+  startOffset: 2014
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=2014
+  endOffset: 2123
+- name: 'T‑Shaped Expertise: Depth, Breadth, and Career Strategy'
+  startOffset: 2123
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=2123
+  endOffset: 2257
+- name: 'Debugging as a Strength: Rubber Duck, Divide‑and‑Conquer, and Mentoring'
+  startOffset: 2257
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=2257
+  endOffset: 2692
+- name: 'Learning Motivation: Curiosity, Pomodoro, and Inspirational Content'
+  startOffset: 2692
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=2692
+  endOffset: 2917
+- name: 'Getting Unstuck: ChatGPT, Tutorials, and Problem Decomposition'
+  startOffset: 2917
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=2917
+  endOffset: 3022
+- name: 'Hiring Dynamics: Job Descriptions and Recruiting Generalists'
+  startOffset: 3022
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=3022
+  endOffset: 3263
+- name: 'Job Market Trends: Specialists vs Generalists in Machine Learning'
+  startOffset: 3263
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=3263
+  endOffset: 3382
+- name: 'Prioritization Techniques: To‑Do Lists, Deadlines, and Focus'
+  startOffset: 3382
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=3382
+  endOffset: 3491
+- name: 'Learning Resources: Books, Documentation, YouTube, and Practical Learning'
+  startOffset: 3491
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=3491
+  endOffset: 3632
+- name: Episode Wrap‑up and Key Takeaways
+  startOffset: 3632
+  url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=3632
+  endOffset: 3582
 ---
 
 Links:

@@ -1111,6 +1111,107 @@ intro: How do teams prevent hidden technical debt in ML systems before it derail
   <br><br> Listen to learn concrete remedies—workshops, shared vocabularies, documentation
   standards, and how to involve ML practitioners from requirements through testing—to
   prevent hidden technical debt in ML systems.
+dateadded: '2023-03-27'
+duration: PT00H58M25S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=0
+  endOffset: 96
+- name: 'Guest Background: Nadia Nahar (PhD, software engineering)'
+  startOffset: 96
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=96
+  endOffset: 254
+- name: Academia–Industry Collaboration in Software Engineering
+  startOffset: 254
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=254
+  endOffset: 418
+- name: Defining Software Engineering for Machine Learning Systems
+  startOffset: 418
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=418
+  endOffset: 462
+- name: 'ML vs Traditional Software: uncertainty, data workflows, monitoring'
+  startOffset: 462
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=462
+  endOffset: 612
+- name: 'System-Centric Perspective: "Hidden Technical Debt" and scope'
+  startOffset: 612
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=612
+  endOffset: 654
+- name: 'Industry Pain Points: requirements, unrealistic expectations, data access'
+  startOffset: 654
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=654
+  endOffset: 832
+- name: 'Communication & Alignment: vocabulary, expectation setting, documentation'
+  startOffset: 832
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=832
+  endOffset: 917
+- name: 'Artifact Analysis: building an open-source ML product dataset'
+  startOffset: 917
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=917
+  endOffset: 1145
+- name: 'Open-Source ML Products: dataset size (~300 repos) and availability issues'
+  startOffset: 1145
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=1145
+  endOffset: 1314
+- name: 'Product Criteria: distinguishing ML products from models and APIs'
+  startOffset: 1314
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=1314
+  endOffset: 1443
+- name: 'Dataset Research Questions: development order, collaboration, testing, ops,
+    responsible AI'
+  startOffset: 1443
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=1443
+  endOffset: 1562
+- name: 'Analysis Approach: manual review augmented by scripts (commits & code)'
+  startOffset: 1562
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=1562
+  endOffset: 1782
+- name: 'Failure Modes: discontinuation, unmet requirements, poor data, deployment
+    gaps'
+  startOffset: 1782
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=1782
+  endOffset: 2062
+- name: 'Process Gap: CRISP-DM, Agile mismatch, and the need for integrated ML+SW
+    processes'
+  startOffset: 2062
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=2062
+  endOffset: 2188
+- name: 'Team Structures & Integration Patterns: siloing, APIs, all-in-one teams,
+    ML engineers'
+  startOffset: 2188
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=2188
+  endOffset: 2345
+- name: 'Practical Remedies: workshops, shared vocabularies, documentation, engineering
+    support (MLOps)'
+  startOffset: 2345
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=2345
+  endOffset: 2567
+- name: 'Documentation Practices: Model Cards, Datasheets, factsheets, and checklists'
+  startOffset: 2567
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=2567
+  endOffset: 2836
+- name: 'Responsible AI Research: explainability requirements in healthcare and education'
+  startOffset: 2836
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=2836
+  endOffset: 3003
+- name: 'Explainability Use Case: classroom game predicting smoking risk and stakeholder
+    needs'
+  startOffset: 3003
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=3003
+  endOffset: 3256
+- name: 'Responsible AI Governance: product-centric fairness and team accountability'
+  startOffset: 3256
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=3256
+  endOffset: 3415
+- name: 'Agile Integration: involving ML practitioners from requirements through testing'
+  startOffset: 3415
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=3415
+  endOffset: 3601
+- name: Closing Remarks & Resources
+  startOffset: 3601
+  url: https://www.youtube.com/watch?v=35Ch8xL2SA8&t=3601
+  endOffset: 3505
 ---
 
 Links:

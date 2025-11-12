@@ -1103,6 +1103,105 @@ intro: 'How do you scale data engineering teams during hypergrowth without sacri
   impact. <br><br> Listen for concrete guidance on building a self‑service data platform,
   practical Kafka practices, and hiring strategies that help teams move fast while
   staying reliable.'
+dateadded: '2022-08-29'
+duration: PT01H01M25S
+quotableClips:
+- name: 'Episode Introduction: Growing Data Engineering Team & Guest Mehdi'
+  startOffset: 117
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=117
+  endOffset: 162
+- name: 'Guest background: BI, on‑prem Big Data to staff data engineer (career highlights)'
+  startOffset: 162
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=162
+  endOffset: 341
+- name: 'Defining scale‑up: hypergrowth, funding, hiring surge, speed vs quality'
+  startOffset: 341
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=341
+  endOffset: 621
+- name: 'Hypergrowth challenges: product launches, US expansion, operational strain'
+  startOffset: 621
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=621
+  endOffset: 750
+- name: 'Data platform role: enabling self‑service, onboarding, and scalability'
+  startOffset: 750
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=750
+  endOffset: 1042
+- name: 'Data platform anatomy: Airflow, conventions, playbooks, and best practices'
+  startOffset: 1042
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=1042
+  endOffset: 1213
+- name: 'Hiring for scale: prioritize senior experts and niche technology experience'
+  startOffset: 1213
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=1213
+  endOffset: 1406
+- name: 'Event streaming practices: Kafka, schemas, schema registry, and data contracts'
+  startOffset: 1406
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=1406
+  endOffset: 1625
+- name: 'Velocity vs growth: managing fast pace while ensuring personal growth'
+  startOffset: 1625
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=1625
+  endOffset: 1867
+- name: 'Culture shift: evolving processes and influencing company norms'
+  startOffset: 1867
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=1867
+  endOffset: 2105
+- name: 'Career trade‑offs: scale‑up vs enterprise vs FAANG'
+  startOffset: 2105
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=2105
+  endOffset: 2292
+- name: 'Assessment tactics: reverse interviews to evaluate team workload and culture'
+  startOffset: 2292
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=2292
+  endOffset: 2342
+- name: 'Junior opportunities: rapid learning, promotions, and exposure in scale‑ups'
+  startOffset: 2342
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=2342
+  endOffset: 2451
+- name: 'Talent sourcing: employer brand, community contributions, and open source'
+  startOffset: 2451
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=2451
+  endOffset: 2804
+- name: 'Technical content: writing, OSS contributions, and getting external feedback'
+  startOffset: 2804
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=2804
+  endOffset: 2946
+- name: 'Community engagement: reader outreach, calls, and mentorship benefits'
+  startOffset: 2946
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=2946
+  endOffset: 3017
+- name: 'Role evolution: generalist to specialist as teams and projects mature'
+  startOffset: 3017
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3017
+  endOffset: 3175
+- name: 'Work balance: platform engineering vs use‑case pipelines (~50/50)'
+  startOffset: 3175
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3175
+  endOffset: 3271
+- name: 'Path to senior: proactivity, broader impact, and cross‑team collaboration'
+  startOffset: 3271
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3271
+  endOffset: 3394
+- name: 'Casual segment: light banter about music, caps, and hobbies'
+  startOffset: 3394
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3394
+  endOffset: 3468
+- name: 'Creator spotlight: MehdiO DataTV, DataCreators.club, and content channels'
+  startOffset: 3468
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3468
+  endOffset: 3612
+- name: 'Content production: time investment, process improvements, and persistence'
+  startOffset: 3612
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3612
+  endOffset: 3713
+- name: 'Video editing tips: multi‑take filming, lighting consistency, and tricks'
+  startOffset: 3713
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3713
+  endOffset: 3776
+- name: 'Episode close: key takeaways, resources, and links'
+  startOffset: 3776
+  url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3776
+  endOffset: 3685
 ---
 
 Links:

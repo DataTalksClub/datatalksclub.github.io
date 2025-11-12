@@ -1111,6 +1111,109 @@ intro: 'How do you launch, grow, and retain an MLOps community that moves from m
   and content, and tips for member connections like Random Coffee and sprints. If
   you’re building an MLOps community or scaling technical meetups, this episode offers
   a focused, tactical roadmap. Find next steps at mlops.community.'
+dateadded: '2021-04-02'
+duration: PT01H13M56S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=0
+  endOffset: 88
+- name: 'Origin Story: Launching the MLOps community'
+  startOffset: 88
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=88
+  endOffset: 126
+- name: Pivot to meetups and turning events into a podcast
+  startOffset: 126
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=126
+  endOffset: 397
+- name: Early hosting lessons and interview craft
+  startOffset: 397
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=397
+  endOffset: 501
+- name: 'Founder Background: teaching, sales, and career pivot'
+  startOffset: 501
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=501
+  endOffset: 641
+- name: Sales techniques for recruiting speakers and guests
+  startOffset: 641
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=641
+  endOffset: 789
+- name: 'Early growth tactics: LinkedIn outreach and cold DMs'
+  startOffset: 789
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=789
+  endOffset: 842
+- name: 'Content Strategy: weekly meetups, editing, and YouTube clips'
+  startOffset: 842
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=842
+  endOffset: 1101
+- name: 'Growth Milestones: hitting 500, 1k, 2k, 3k members'
+  startOffset: 1101
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=1101
+  endOffset: 1250
+- name: 'Moderation Challenges: vendors, spam, and code of conduct'
+  startOffset: 1250
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=1250
+  endOffset: 1497
+- name: 'Community Evolution: moving from founder-led to peer-to-peer'
+  startOffset: 1497
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=1497
+  endOffset: 1645
+- name: Cultivating Core Contributors and advisory groups
+  startOffset: 1645
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=1645
+  endOffset: 1751
+- name: 'Fostering Belonging: Q&A, social channels, and non-technical spaces'
+  startOffset: 1751
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=1751
+  endOffset: 2064
+- name: 'Introvert Founders: starting and sustaining communities as an introvert'
+  startOffset: 2064
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=2064
+  endOffset: 2436
+- name: 'Retention Strategies: giveaways, multi-format content, and avoiding gamification'
+  startOffset: 2436
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=2436
+  endOffset: 2745
+- name: 'Customer Development (custdev): surveys, incentives, and feedback cadence'
+  startOffset: 2745
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=2745
+  endOffset: 3051
+- name: 'Member Connections: Random Coffee, Donut, and one-on-ones'
+  startOffset: 3051
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=3051
+  endOffset: 3304
+- name: 'Organizing Initiatives: sprints, autonomy, and many-to-many engagement'
+  startOffset: 3304
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=3304
+  endOffset: 3617
+- name: 'Team Structure: core volunteers vs. broader contributors'
+  startOffset: 3617
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=3617
+  endOffset: 3652
+- name: 'Community Economics: treating a community as an educational business'
+  startOffset: 3652
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=3652
+  endOffset: 3851
+- name: 'Practical Checklist: platform, purpose, audience, and content plan'
+  startOffset: 3851
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=3851
+  endOffset: 4046
+- name: 'Sourcing Members: LinkedIn, Reddit, YouTube, and platform-specific channels'
+  startOffset: 4046
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=4046
+  endOffset: 4178
+- name: 'Final Advice: actionable takeaways for new community builders'
+  startOffset: 4178
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=4178
+  endOffset: 4348
+- name: 'Get Involved: where to find mlops.community and next steps'
+  startOffset: 4348
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=4348
+  endOffset: 4436
+- name: Podcast Closing Remarks
+  startOffset: 4436
+  url: https://www.youtube.com/watch?v=ByCE1vSrIr8&t=4436
+  endOffset: 4436
 ---
 
 We talked about:

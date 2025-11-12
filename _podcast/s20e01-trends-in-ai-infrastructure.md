@@ -868,6 +868,93 @@ intro: 'How can engineering teams cut AI infrastructure costs without sacrificin
   or ways to reduce AI infrastructure cost, this episode offers concrete perspectives
   on when to choose on‑prem vs cloud, how DStack fits into the stack, and practical
   trade‑offs for production ML workloads.'
+dateadded: '2025-02-26'
+duration: PT01H06M04S
+quotableClips:
+- name: Episode Kickoff & Guest Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=0
+  endOffset: 166
+- name: 'Career Background: JetBrains, DataSpell, and Move into AI'
+  startOffset: 166
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=166
+  endOffset: 327
+- name: 'Origins of DStack: Reducing AI Infrastructure Cost of Ownership'
+  startOffset: 327
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=327
+  endOffset: 505
+- name: Cloud vs On‑Prem Costs and MLOps Limitations (SageMaker example)
+  startOffset: 505
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=505
+  endOffset: 600
+- name: Cloud-to-On‑Prem Realities in the Post‑ChatGPT Era
+  startOffset: 600
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=600
+  endOffset: 778
+- name: 'Choosing Open Source: Developer Tools, Feedback, and Community'
+  startOffset: 778
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=778
+  endOffset: 1053
+- name: 'Open vs Proprietary Models: Business Models and Trade‑Offs'
+  startOffset: 1053
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=1053
+  endOffset: 1297
+- name: 'Decentralization in AI: Privacy, Control, and Industry Fit'
+  startOffset: 1297
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=1297
+  endOffset: 1816
+- name: 'Training at Scale: GPU Requirements and Distributed Challenges'
+  startOffset: 1816
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=1816
+  endOffset: 2086
+- name: 'Distributed Training Stack: PyTorch, NCCL, and Communication Bottlenecks'
+  startOffset: 2086
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=2086
+  endOffset: 2255
+- name: 'Efficiency Over Brute Force: Optimization Strategies and DeepSpeed'
+  startOffset: 2255
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=2255
+  endOffset: 2370
+- name: Fine‑Tuning & Serving Models for Non–AI‑First Companies
+  startOffset: 2370
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=2370
+  endOffset: 2836
+- name: 'Orchestration Gaps: Kubernetes Limitations for AI Workflows and SLURM'
+  startOffset: 2836
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=2836
+  endOffset: 3059
+- name: Kubernetes as the Deployment Standard vs Smaller Alternatives
+  startOffset: 3059
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3059
+  endOffset: 3116
+- name: 'Hybrid Infrastructure Outlook: Cloud Dominance and On‑Prem Nuances'
+  startOffset: 3116
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3116
+  endOffset: 3271
+- name: 'On‑Prem GPU Coordination: SSH, Resource Contention, and Real Examples'
+  startOffset: 3271
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3271
+  endOffset: 3413
+- name: 'Bare‑Metal as a Service: Provisioning, Automation, and Firmware Management'
+  startOffset: 3413
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3413
+  endOffset: 3487
+- name: 'Edge Computing Scope: Devices, Local Models, and Definition Ambiguity'
+  startOffset: 3487
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3487
+  endOffset: 3630
+- name: 'Federated Learning vs Distributed Compute: Practicality and Use Cases'
+  startOffset: 3630
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3630
+  endOffset: 3771
+- name: 'Closing Pick: Science‑Fiction Recommendation — The Three‑Body Problem'
+  startOffset: 3771
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3771
+  endOffset: 3938
+- name: Episode Wrap‑Up & Links to DStack and Guest Resources
+  startOffset: 3938
+  url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3938
+  endOffset: 3964
 ---
 
 Links:

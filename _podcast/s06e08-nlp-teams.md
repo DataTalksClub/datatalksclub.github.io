@@ -1099,6 +1099,112 @@ intro: How do you structure an NLP team and build reliable production pipelines 
   and practical microservice patterns for data‑intensive apps. <br><br> Listen to
   learn actionable guidance on hiring NLP talent, designing MLOps workflows, choosing
   between LLMs and bespoke models, and the concrete tradeoffs you’ll face in production.
+dateadded: '2021-12-26'
+duration: PT00H59M09S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=0
+  endOffset: 114
+- name: 'Episode Overview: Leading NLP Teams & Ivan''s Current Role'
+  startOffset: 114
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=114
+  endOffset: 175
+- name: 'Personio Role: Identity and Access Management Responsibilities'
+  startOffset: 175
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=175
+  endOffset: 279
+- name: 'Career Origins: From Linguistics to Computational NLP'
+  startOffset: 279
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=279
+  endOffset: 442
+- name: 'Early Tech Stack: From Perl to Python and Web Scraping'
+  startOffset: 442
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=442
+  endOffset: 522
+- name: 'Technical Management Study: CDTM, Internships, and Organizational Learning'
+  startOffset: 522
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=522
+  endOffset: 714
+- name: 'Management Transition: From ML Teams to Web Product Engineering & Observability'
+  startOffset: 714
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=714
+  endOffset: 847
+- name: 'Defining NLP Teams: Centralized vs Cross‑disciplinary Structures'
+  startOffset: 847
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=847
+  endOffset: 1005
+- name: 'NLP Engineer Role: Skills, Linguistics Background, and Tokenization Expertise'
+  startOffset: 1005
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=1005
+  endOffset: 1156
+- name: 'Path to Becoming an NLP Engineer: Practical Resources, spaCy & Hugging Face'
+  startOffset: 1156
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=1156
+  endOffset: 1351
+- name: 'Vision vs Text: Comparing Computer Vision and NLP Challenges'
+  startOffset: 1351
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=1351
+  endOffset: 1476
+- name: 'NLP Engineer vs ML Engineer: Inference Optimization, Deployment & MLOps'
+  startOffset: 1476
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=1476
+  endOffset: 1579
+- name: 'Conversational Designers: Chatbot UX, Dialogue Flow & Non‑coding Roles'
+  startOffset: 1579
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=1579
+  endOffset: 1718
+- name: 'Linguists in NLP: Parsing, Information Extraction & Multilingual Needs'
+  startOffset: 1718
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=1718
+  endOffset: 1811
+- name: 'When to Hire NLP Specialists: Task Complexity, Data Needs & Feature Engineering'
+  startOffset: 1811
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=1811
+  endOffset: 1941
+- name: 'Future of NLP: Library Ecosystem, AutoML & Research Velocity'
+  startOffset: 1941
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=1941
+  endOffset: 2097
+- name: 'NLP Pipeline Anatomy: Data Annotation, Task Engineering, Testing, Production
+    & Observability'
+  startOffset: 2097
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=2097
+  endOffset: 2335
+- name: 'Large Language Models & Prompting: GPT‑3 Capabilities and Simplification'
+  startOffset: 2335
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=2335
+  endOffset: 2585
+- name: 'GPT‑3 Limitations: Cost, Control, Bias & Privacy Risks'
+  startOffset: 2585
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=2585
+  endOffset: 2770
+- name: 'GPT‑3 vs In‑house Pipelines: MVP Strategy, Control & Open‑Source Alternatives'
+  startOffset: 2770
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=2770
+  endOffset: 2919
+- name: 'What NLP Really Is: Industry Productization vs Academic Linguistic Research'
+  startOffset: 2919
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=2919
+  endOffset: 3177
+- name: 'AI Benchmarking: Human‑level Claims, Dataset Limits & Real‑world Gaps'
+  startOffset: 3177
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=3177
+  endOffset: 3225
+- name: 'Machine Translation State: Google Translate, DeepL, Data Coverage & Language
+    Pairs'
+  startOffset: 3225
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=3225
+  endOffset: 3488
+- name: 'NLP Pandect & Related Projects: GitHub Resources for NLP, Microservices &
+    Engineering Managers'
+  startOffset: 3488
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=3488
+  endOffset: 3641
+- name: 'Contact & Resources: LinkedIn, Presentation Links and Further Reading'
+  startOffset: 3641
+  url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=3641
+  endOffset: 3549
 ---
 
 Links:

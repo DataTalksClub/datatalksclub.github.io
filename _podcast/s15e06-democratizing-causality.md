@@ -1190,6 +1190,125 @@ intro: 'How do you move from correlation to actionable decisions — using count
   a CausalBert demo. Listeners will come away with practical guidance on building,
   evaluating and validating causal ML systems, plus recommended resources and code
   to start applying these methods.'
+dateadded: '2023-09-10'
+duration: PT01H06M38S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=0
+  endOffset: 82
+- name: 'Guest Intro: Aleksander Molak & book overview'
+  startOffset: 82
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=82
+  endOffset: 126
+- name: Career highlights and dyslexia prediction project
+  startOffset: 126
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=126
+  endOffset: 375
+- name: 'Causal advocacy: democratizing causal thinking'
+  startOffset: 375
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=375
+  endOffset: 451
+- name: 'Association vs causation: limits of correlational reasoning'
+  startOffset: 451
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=451
+  endOffset: 535
+- name: 'Illustrative confounders: race example and ice cream–drowning'
+  startOffset: 535
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=535
+  endOffset: 761
+- name: 'Predictive ML vs decision-making: Zillow and IID assumptions'
+  startOffset: 761
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=761
+  endOffset: 936
+- name: 'Counterfactuals in practice: marketing and recommender systems'
+  startOffset: 936
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=936
+  endOffset: 1095
+- name: Counterfactuals defined and Judea Pearl’s intervention view
+  startOffset: 1095
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=1095
+  endOffset: 1282
+- name: 'Meta-learners overview: T‑learner and counterfactual estimation'
+  startOffset: 1282
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=1282
+  endOffset: 1464
+- name: Conditional Average Treatment Effect (CATE) estimation
+  startOffset: 1464
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=1464
+  endOffset: 1576
+- name: 'Achieving unconfoundedness: A/B tests vs causal feature selection'
+  startOffset: 1576
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=1576
+  endOffset: 1672
+- name: Targeting decisions from uplift estimates
+  startOffset: 1672
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=1672
+  endOffset: 1757
+- name: Deployment risks and debiasing estimators (double/triple ML)
+  startOffset: 1757
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=1757
+  endOffset: 1960
+- name: 'Uplift modeling: policy evaluation and business metrics'
+  startOffset: 1960
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=1960
+  endOffset: 1994
+- name: 'Evaluating causal models: refutation tests and estimator quality'
+  startOffset: 1994
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=1994
+  endOffset: 2257
+- name: Causal discovery and heterogeneous treatment effects (book coverage)
+  startOffset: 2257
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=2257
+  endOffset: 2334
+- name: 'Cost–benefit of causal models: complexity vs value'
+  startOffset: 2334
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=2334
+  endOffset: 2474
+- name: 'Real-world impact: discovering wasted marketing spend'
+  startOffset: 2474
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=2474
+  endOffset: 2605
+- name: 'Incremental rollout: A/B testing as validation baseline'
+  startOffset: 2605
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=2605
+  endOffset: 2666
+- name: 'LLMs in causal workflows: feature extraction and scoring'
+  startOffset: 2666
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=2666
+  endOffset: 2814
+- name: 'Text as outcome: using LLMs to score experimental text'
+  startOffset: 2814
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=2814
+  endOffset: 2957
+- name: 'Text as treatment/confounder: style extraction and embeddings'
+  startOffset: 2957
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=2957
+  endOffset: 3278
+- name: Inferring unobserved variables (e.g., gender/style) with LLMs
+  startOffset: 3278
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=3278
+  endOffset: 3494
+- name: CausalBert demo and code note (PyData Berlin talk)
+  startOffset: 3494
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=3494
+  endOffset: 3573
+- name: 'Causal ML without experiments: partial identification & sensitivity'
+  startOffset: 3573
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=3573
+  endOffset: 3843
+- name: 'Causal graphs and nonparametric identification: minimal observables'
+  startOffset: 3843
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=3843
+  endOffset: 3967
+- name: 'Recommended resources: The Book of Why, Molak’s book & GitHub'
+  startOffset: 3967
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=3967
+  endOffset: 4048
+- name: Closing remarks and next steps
+  startOffset: 4048
+  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=4048
+  endOffset: 3998
 ---
 
 Links:

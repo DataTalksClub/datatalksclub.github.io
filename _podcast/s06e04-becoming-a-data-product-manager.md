@@ -1,5 +1,6 @@
 ---
-title: 'How to Transition from Design to Data Product Manager: SQL, Customer Discovery & Data Quality'
+title: 'How to Transition from Design to Data Product Manager: SQL, Customer Discovery
+  & Data Quality'
 short: Becoming a Data Product Manager
 guests:
 - saramenefee
@@ -1075,6 +1076,101 @@ intro: 'How do you move from product design into a data product manager role —
   PM role. <br><br> Listen for actionable steps, portfolio guidance, and the technical
   literacy (SQL, documentation, data curiosity) you''ll need to move from design to
   data product manager.'
+dateadded: '2021-11-26'
+duration: PT01H01M07S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=0
+  endOffset: 87
+- name: 'Career Path: From Technical Support to Product Design'
+  startOffset: 87
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=87
+  endOffset: 298
+- name: 'Product Design: User Research, Prototyping & UX'
+  startOffset: 298
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=298
+  endOffset: 424
+- name: 'Data Product Management: Customer Discovery & Hypothesis Formation'
+  startOffset: 424
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=424
+  endOffset: 698
+- name: 'Product Lifecycle: Discovery, Planning, Engineering & Launch'
+  startOffset: 698
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=698
+  endOffset: 910
+- name: 'Design Thinking: PM–Designer Collaboration in Ideation'
+  startOffset: 910
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=910
+  endOffset: 986
+- name: 'Transition Motivation: Moving from Design to Product Management'
+  startOffset: 986
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=986
+  endOffset: 1178
+- name: 'Data-focused PM: Data Quality, PII & Compliance Considerations'
+  startOffset: 1178
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=1178
+  endOffset: 1380
+- name: 'Core Technical Skills: SQL & Data Engineering Fundamentals'
+  startOffset: 1380
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=1380
+  endOffset: 1470
+- name: 'Essential Traits: Data Curiosity, Documentation Literacy & Empathy'
+  startOffset: 1470
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=1470
+  endOffset: 1593
+- name: 'Data Lifecycle: Sources, Transformation, Warehouses & Apps'
+  startOffset: 1593
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=1593
+  endOffset: 1710
+- name: 'Transition Strategy: Networking, On-the-Job Learning & Mentorship'
+  startOffset: 1710
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=1710
+  endOffset: 1980
+- name: 'Practical Steps: Building a Portfolio & Learning After the Switch'
+  startOffset: 1980
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=1980
+  endOffset: 2151
+- name: 'Case Study Structure: Problem, Research, Solution & Outcome'
+  startOffset: 2151
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=2151
+  endOffset: 2344
+- name: 'Learning Resources: Courses, Reforge & Recommended Reading'
+  startOffset: 2344
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=2344
+  endOffset: 2761
+- name: 'Daily Workflow: Standups, Analytics, CusDev & Context Switching'
+  startOffset: 2761
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=2761
+  endOffset: 2977
+- name: 'Customer Development: Interview Focus & Tactical Questions'
+  startOffset: 2977
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=2977
+  endOffset: 3115
+- name: 'Key Insight: Data Teams Spend Time Educating the Organization'
+  startOffset: 3115
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=3115
+  endOffset: 3249
+- name: 'Adopting New Tools: Documentation First, Pairing & Slack Help'
+  startOffset: 3249
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=3249
+  endOffset: 3368
+- name: 'Product Documentation: PRDs, Customer Notes & Knowledge Base'
+  startOffset: 3368
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=3368
+  endOffset: 3504
+- name: 'Idea Flow: Sources, Validation & Backlog Prioritization'
+  startOffset: 3504
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=3504
+  endOffset: 3640
+- name: 'Analytics vs Data Science: Where ML Fits in the PM Role'
+  startOffset: 3640
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=3640
+  endOffset: 3697
+- name: Closing Remarks & How to Reach Out
+  startOffset: 3697
+  url: https://www.youtube.com/watch?v=nt__pVuuC-k&t=3697
+  endOffset: 3667
 ---
 
 Links:

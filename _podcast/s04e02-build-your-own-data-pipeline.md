@@ -1,5 +1,6 @@
 ---
-title: 'From Notebooks to Production: Build Data Pipelines & Deploy ML (AWS, Kafka, Streaming)'
+title: 'From Notebooks to Production: Build Data Pipelines & Deploy ML (AWS, Kafka,
+  Streaming)'
 short: Build Your Own Data Pipeline
 guests:
 - andreaskretz
@@ -1022,6 +1023,129 @@ intro: 'How do you move models out of notebooks and into reliable production dat
   selecting tools, and getting from prototype to production with minimal operational
   risk. Find practical learning paths and project ideas to accelerate your data engineering
   skills.'
+dateadded: '2021-07-02'
+duration: PT01H01M15S
+quotableClips:
+- name: Episode Introduction & Andreas Kretz — "Plumber of Data Science"
+  startOffset: 116
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=116
+  endOffset: 199
+- name: 'Guest Bio: Andreas’s path from software to big data and data engineering'
+  startOffset: 199
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=199
+  endOffset: 343
+- name: 'Market Trend: Why data engineering demand is rising'
+  startOffset: 343
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=343
+  endOffset: 526
+- name: 'Hiring Strategy: Hire a data scientist and engineer early'
+  startOffset: 526
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=526
+  endOffset: 587
+- name: 'Data Scientist Growth: From notebooks to production pipelines'
+  startOffset: 587
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=587
+  endOffset: 723
+- name: 'Operational Risk: Why using many tools breaks operations'
+  startOffset: 723
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=723
+  endOffset: 805
+- name: 'Data Pipeline Anatomy: Ingestion, buffer, processing, storage, visualization'
+  startOffset: 805
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=805
+  endOffset: 911
+- name: 'Ingestion Explained: Events, message queues (Kafka, Kinesis)'
+  startOffset: 911
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=911
+  endOffset: 1011
+- name: 'Processing Modes: Streaming vs. batch processing'
+  startOffset: 1011
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=1011
+  endOffset: 1094
+- name: 'One-Person Feasibility: Tooling, cloud vs on‑prem, and schema design'
+  startOffset: 1094
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=1094
+  endOffset: 1265
+- name: 'Practical Stack for Scientists: Python, Docker, Flask/FastAPI for prototypes'
+  startOffset: 1265
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=1265
+  endOffset: 1356
+- name: 'Processing Frameworks Overview: Spark, Flink, Lambda, Glue, Docker jobs'
+  startOffset: 1356
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=1356
+  endOffset: 1444
+- name: 'Data Transformation: Role of SQL and dataframe processing'
+  startOffset: 1444
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=1444
+  endOffset: 1536
+- name: 'AWS Example: Parquet on S3 and processing options'
+  startOffset: 1536
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=1536
+  endOffset: 1642
+- name: 'Case Study: Car price prediction — data sources and architecture'
+  startOffset: 1642
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=1642
+  endOffset: 1893
+- name: 'Inference Strategy: Live API calls versus precomputed predictions'
+  startOffset: 1893
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=1893
+  endOffset: 2056
+- name: 'Productionizing Notebooks: Dockerized training and model storage on S3'
+  startOffset: 2056
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=2056
+  endOffset: 2146
+- name: 'Scheduling Options: Airflow vs CloudWatch/Lambda vs simple schedulers'
+  startOffset: 2146
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=2146
+  endOffset: 2273
+- name: 'Model Serving: SageMaker endpoints and cost trade-offs'
+  startOffset: 2273
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=2273
+  endOffset: 2401
+- name: 'Orchestration Patterns: Message queues for job sequencing'
+  startOffset: 2401
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=2401
+  endOffset: 2466
+- name: 'Start Simple: Iterate from Lambda/queues to Airflow/Kubernetes'
+  startOffset: 2466
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=2466
+  endOffset: 2585
+- name: 'Learning DevOps: Pick tools, read docs, and practice by doing'
+  startOffset: 2585
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=2585
+  endOffset: 2731
+- name: 'Tool Selection: Use docs and tutorials to validate choices'
+  startOffset: 2731
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=2731
+  endOffset: 2916
+- name: 'Early-Career Skills: Python, SQL, basic networking; AWS and OSS basics'
+  startOffset: 2916
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=2916
+  endOffset: 3074
+- name: 'Hadoop Today: Cloud replaces Hadoop for many, but Hadoop persists in legacy'
+  startOffset: 3074
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=3074
+  endOffset: 3141
+- name: 'LearnDataEngineering Academy: Curriculum, capstones, and resources'
+  startOffset: 3141
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=3141
+  endOffset: 3292
+- name: 'Hands-on Projects: Build an e‑commerce pipeline; use Kaggle datasets'
+  startOffset: 3292
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=3292
+  endOffset: 3453
+- name: 'Learning Advice: Avoid huge datasets; start small and iterate'
+  startOffset: 3453
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=3453
+  endOffset: 3536
+- name: 'Convincing Stakeholders: Build a $0 proof‑of‑concept and quantify ROI'
+  startOffset: 3536
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=3536
+  endOffset: 3725
+- name: 'Find Andreas & Resources: LearnDataEngineering, YouTube, Telegram'
+  startOffset: 3725
+  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=3725
+  endOffset: 3675
 ---
 
 

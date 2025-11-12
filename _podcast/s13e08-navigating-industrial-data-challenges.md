@@ -1530,6 +1530,129 @@ intro: How do you build reliable machine learning when your datasets are generat
   Listen to gain concrete strategies for synthetic tabular data, small-data modeling,
   sensor-driven monitoring, and when to adopt production MLOps versus lightweight
   R&D workflows.
+dateadded: '2023-04-16'
+duration: PT01H01M28S
+quotableClips:
+- name: 'Episode Intro: Guest Overview & Synthetic Tabular Data Focus'
+  startOffset: 83
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=83
+  endOffset: 158
+- name: 'Career Pivot: From PhD Algebraic Topology to Industry'
+  startOffset: 158
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=158
+  endOffset: 352
+- name: 'Academic Roots: 3D Topological Models and Research Background'
+  startOffset: 352
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=352
+  endOffset: 468
+- name: 'Mathematical Mindset: Logical Reasoning, Proof-Style Thinking for Data'
+  startOffset: 468
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=468
+  endOffset: 571
+- name: 'Transition Challenges: Seniority vs Domain Experience in Industry'
+  startOffset: 571
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=571
+  endOffset: 645
+- name: 'Defining Industrial Data: Production-Generated Datasets Explained'
+  startOffset: 645
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=645
+  endOffset: 743
+- name: 'Industrial Data Spectrum: R&D Experiments, Pilot Plants, Full Production'
+  startOffset: 743
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=743
+  endOffset: 910
+- name: 'Process Example: Blue Paint R&D, Automation, and Scale-Up'
+  startOffset: 910
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=910
+  endOffset: 968
+- name: 'Long-Term Quality Testing: Weathering & the Florida Paint Test'
+  startOffset: 968
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=968
+  endOffset: 1049
+- name: 'Industrial vs Internet Data: Fixed Sensors and Heterogeneous Equipment'
+  startOffset: 1049
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=1049
+  endOffset: 1122
+- name: 'Process Illustration: Packing Peanuts Production and Sensor Choices'
+  startOffset: 1122
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=1122
+  endOffset: 1337
+- name: 'Data Granularity & Traceability: Batching, Mixing, and Coarseness Challenges'
+  startOffset: 1337
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=1337
+  endOffset: 1493
+- name: 'Business Use Cases: Quality Control, Predictive Maintenance, Monitoring'
+  startOffset: 1493
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=1493
+  endOffset: 1657
+- name: 'Quality Measurement Methods: Inline Monitoring vs Destructive Tests'
+  startOffset: 1657
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=1657
+  endOffset: 1734
+- name: 'From Alerts to Action: Anomaly Detection and Human Decisioning'
+  startOffset: 1734
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=1734
+  endOffset: 1870
+- name: 'Regulatory & Sustainability Tracking: New Requirements and Data Gaps'
+  startOffset: 1870
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=1870
+  endOffset: 2135
+- name: 'Tiny Data R&D: Reformulation and Experimental Design After Regulation'
+  startOffset: 2135
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=2135
+  endOffset: 2300
+- name: 'Reusing Historical Experiments: Informing Product Redevelopment'
+  startOffset: 2300
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=2300
+  endOffset: 2340
+- name: 'Industrial Data Types: Ingredients, Spectra, Material Properties, Tests'
+  startOffset: 2340
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=2340
+  endOffset: 2508
+- name: 'Proxy Metrics & Application Tests: Measuring End-Product Behavior'
+  startOffset: 2508
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=2508
+  endOffset: 2686
+- name: 'Optimization Problems: Logistics, Mathematical Solvers, Trade-offs'
+  startOffset: 2686
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=2686
+  endOffset: 2961
+- name: 'Modeling Small Data: Statistical Methods, Transfer Learning, Domain Experts'
+  startOffset: 2961
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=2961
+  endOffset: 3044
+- name: 'MLOps Fit: Sparse R&D Models vs High-Volume Production Deployments'
+  startOffset: 3044
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=3044
+  endOffset: 3123
+- name: 'Production-Scale Data: Streaming, Big Data Processing, Real-Time Alerts'
+  startOffset: 3123
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=3123
+  endOffset: 3250
+- name: 'Domain Knowledge Value: Tacit Expertise Beyond the CSV'
+  startOffset: 3250
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=3250
+  endOffset: 3344
+- name: 'Collaborative Workflow: EDA, Definitions, and Aligning Measurements'
+  startOffset: 3344
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=3344
+  endOffset: 3426
+- name: 'Learning Resources: Sensor Datasets and Semiconductor Anomaly Repos'
+  startOffset: 3426
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=3426
+  endOffset: 3545
+- name: 'Career Motivation: Choosing Industry Over Academia'
+  startOffset: 3545
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=3545
+  endOffset: 3640
+- name: 'Industry Work Culture: Shop Floor Interactions and Research Flavor'
+  startOffset: 3640
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=3640
+  endOffset: 3750
+- name: 'Conclusion: Key Takeaways and Next Steps'
+  startOffset: 3750
+  url: https://www.youtube.com/watch?v=rwuud5wr3J4&t=3750
+  endOffset: 3688
 ---
 
 Links:

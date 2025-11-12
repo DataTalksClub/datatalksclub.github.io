@@ -1035,6 +1035,117 @@ intro: 'How do you build, backtest, and deploy a robust mean-reversion algorithm
   are discussed. <br><br> Listen to gain actionable guidance on backtesting, data
   sources, risk controls, and machine learning techniques to move a mean‑reversion
   idea toward a reproducible algorithmic trading workflow.'
+dateadded: '2024-01-24'
+duration: PT01H40S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=0
+  endOffset: 95
+- name: 'Guest Introduction: Ivan Brigida — Analytics Lead & PythonInvest'
+  startOffset: 95
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=95
+  endOffset: 128
+- name: 'Disclaimer: Financial discussion, not investment advice'
+  startOffset: 128
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=128
+  endOffset: 233
+- name: Background & career trajectory from finance to analytics
+  startOffset: 233
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=233
+  endOffset: 402
+- name: Google experience and role transitions
+  startOffset: 402
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=402
+  endOffset: 449
+- name: Choosing individual contributor work over people management
+  startOffset: 449
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=449
+  endOffset: 565
+- name: 'Investing interest: economics education to practical trading'
+  startOffset: 565
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=565
+  endOffset: 707
+- name: Blogging & building a pet project to test strategies
+  startOffset: 707
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=707
+  endOffset: 795
+- name: Financial data sources and APIs for retail investors (Yahoo, Quandl, Polygon)
+  startOffset: 795
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=795
+  endOffset: 923
+- name: 'Market data format explained: OHLCV time series'
+  startOffset: 923
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=923
+  endOffset: 1119
+- name: Adjusted close and data quality considerations
+  startOffset: 1119
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1119
+  endOffset: 1187
+- name: 'Mean reversion strategy: concept and application'
+  startOffset: 1187
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1187
+  endOffset: 1334
+- name: Risk management fundamentals and stop‑loss thresholds
+  startOffset: 1334
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1334
+  endOffset: 1608
+- name: Backtesting methodology and avoiding time‑series data leakage
+  startOffset: 1608
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1608
+  endOffset: 1784
+- name: 'Walk‑forward simulation: weekly predictions and selection rules'
+  startOffset: 1784
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1784
+  endOffset: 2115
+- name: Trade execution and position sizing for algorithmic strategies
+  startOffset: 2115
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2115
+  endOffset: 2304
+- name: 'Discipline: sticking to strategy vs emotional trading'
+  startOffset: 2304
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2304
+  endOffset: 2451
+- name: 'Evaluation metrics: ROI, precision focus, and trading fees impact'
+  startOffset: 2451
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2451
+  endOffset: 2619
+- name: 'Prediction target definition: binary growth thresholds (e.g., 5%)'
+  startOffset: 2619
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2619
+  endOffset: 2755
+- name: 'Feature engineering: time‑window stats and handcrafted indicators'
+  startOffset: 2755
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2755
+  endOffset: 2882
+- name: 'Model choices: logistic regression, XGBoost, NN for stock prediction'
+  startOffset: 2882
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2882
+  endOffset: 2998
+- name: 'Explainability: feature importance and model debugging'
+  startOffset: 2998
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2998
+  endOffset: 3106
+- name: 'Deployment options: cron, Airflow, APIs and partial automation'
+  startOffset: 3106
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3106
+  endOffset: 3305
+- name: 'Learning pathways: MLOps, ML Zoomcamp, and practical projects'
+  startOffset: 3305
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3305
+  endOffset: 3449
+- name: 'PythonInvest content: API guides, models, portfolio allocation stories'
+  startOffset: 3449
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3449
+  endOffset: 3666
+- name: Course plans, sign‑up, and community building
+  startOffset: 3666
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3666
+  endOffset: 3696
+- name: Episode Wrap‑up and final reminder (not financial advice)
+  startOffset: 3696
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3696
+  endOffset: 3640
 ---
 
 Links:

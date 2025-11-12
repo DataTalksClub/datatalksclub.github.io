@@ -375,4 +375,99 @@ transcript:
   sec: 3847
   time: '1:04:07'
   who: Alexey
+dateadded: '2024-09-04'
+duration: PT01H01M55S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=0
+  endOffset: 132
+- name: 'Guest Introduction: Christopher Bergh & DataKitchen'
+  startOffset: 132
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=132
+  endOffset: 245
+- name: 'Career Journey: From Software Engineering to Data Entrepreneurship'
+  startOffset: 245
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=245
+  endOffset: 366
+- name: Pre-cloud Data Engineering Challenges (SQL Server, scaling)
+  startOffset: 366
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=366
+  endOffset: 509
+- name: DevOps Adoption Timeline and Early Lessons
+  startOffset: 509
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=509
+  endOffset: 713
+- name: DataOps Definition and Workforce Burnout Statistics
+  startOffset: 713
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=713
+  endOffset: 807
+- name: 'Deployment Culture: Fear vs. Heroism in Data Teams'
+  startOffset: 807
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=807
+  endOffset: 952
+- name: 'Core DataOps Practices: Automation, Observability, and Productivity'
+  startOffset: 952
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=952
+  endOffset: 1126
+- name: 'DataOps Today: MLOps, LLMs, and Buzzword Clarification'
+  startOffset: 1126
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=1126
+  endOffset: 1436
+- name: 'Operational Lifecycle: Day One, Day Two, Day Three'
+  startOffset: 1436
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=1436
+  endOffset: 1573
+- name: Model Reliability and On‑call Readiness for Data Science
+  startOffset: 1573
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=1573
+  endOffset: 1855
+- name: CI/CD Pipelines, Regression Tests, and Test Data for Analytics
+  startOffset: 1855
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=1855
+  endOffset: 2053
+- name: Reducing Rework and Cycle Time in Data Workflows
+  startOffset: 2053
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=2053
+  endOffset: 2344
+- name: AI Tools and the Limits of Generation vs. Process Improvement
+  startOffset: 2344
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=2344
+  endOffset: 2559
+- name: 'End-to-End Deployment Automation: Version Control and Tests'
+  startOffset: 2559
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=2559
+  endOffset: 2670
+- name: 'Variable Adoption: Pockets of Best Practice and Integration Gaps'
+  startOffset: 2670
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=2670
+  endOffset: 3029
+- name: 'Observability-First Approach: Monitoring Production to Drive Change'
+  startOffset: 3029
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=3029
+  endOffset: 3162
+- name: 'Containers vs. Serverless: Docker, Kubernetes, and Alternatives'
+  startOffset: 3162
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=3162
+  endOffset: 3245
+- name: 'Data Versioning Strategy: Immutability and Versioning Code'
+  startOffset: 3245
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=3245
+  endOffset: 3495
+- name: 'Culture and Leadership: Lowering Turnover with Better Processes'
+  startOffset: 3495
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=3495
+  endOffset: 3514
+- name: Practical Starting Steps for Individual Contributors
+  startOffset: 3514
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=3514
+  endOffset: 3680
+- name: Closing Summary and Next Steps
+  startOffset: 3680
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=3680
+  endOffset: 3847
+- name: Episode End
+  startOffset: 3847
+  url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=3847
+  endOffset: 3715
 ---

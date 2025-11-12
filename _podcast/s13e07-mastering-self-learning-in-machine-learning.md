@@ -1289,6 +1289,119 @@ intro: How do you teach yourself bioinformatics and machine learning in a way th
   in production, the conversation addresses deployment and MLOps basics including
   Docker and Kubernetes. Tune in to gain concrete guidance on projects, vetted resources,
   and the study habits that make self-directed bioinformatics and ML learning sustainable.
+dateadded: '2023-04-08'
+duration: PT00H58M57S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=0
+  endOffset: 74
+- name: 'Guest Overview: Aaisha — self-taught bioinformatician, ML engineer, scientific
+    illustrator'
+  startOffset: 74
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=74
+  endOffset: 137
+- name: 'Early Learning & Homeschooling: Python, web development, and flexible study'
+  startOffset: 137
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=137
+  endOffset: 513
+- name: 'Choosing What to Learn: prioritization, filtering, and avoiding FOMO'
+  startOffset: 513
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=513
+  endOffset: 561
+- name: 'Open Curricula: OSSU pathway for bioinformatics'
+  startOffset: 561
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=561
+  endOffset: 768
+- name: 'Skill Mapping with ML Zoomcamp: building machine learning fundamentals'
+  startOffset: 768
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=768
+  endOffset: 829
+- name: 'Evaluating Resources: syllabus skimming and instructor credibility'
+  startOffset: 829
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=829
+  endOffset: 962
+- name: Free vs Paid Resources and Vetting Paid Courses
+  startOffset: 962
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=962
+  endOffset: 1071
+- name: 'Practical Relevance: identifying industry-useful ML topics (SVM anecdote)'
+  startOffset: 1071
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=1071
+  endOffset: 1362
+- name: 'Learning Strategy: balancing theory and project-based practice'
+  startOffset: 1362
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=1362
+  endOffset: 1470
+- name: Project Selection & Dataset-First Ideation
+  startOffset: 1470
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=1470
+  endOffset: 1555
+- name: 'Research Papers & Dataset Discovery: Google Scholar, PubMed, citation graphs'
+  startOffset: 1555
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=1555
+  endOffset: 1718
+- name: 'ML Zoomcamp Experience: why the course appealed and structure'
+  startOffset: 1718
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=1718
+  endOffset: 1865
+- name: 'Zoomcamp Projects: frog toxicity capstone and landscape classifier'
+  startOffset: 1865
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=1865
+  endOffset: 2156
+- name: 'Bioinformatics Motivation: research interest meeting practical tech'
+  startOffset: 2156
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=2156
+  endOffset: 2215
+- name: 'Deadlines & Productivity Tactics: self-imposed deadlines and sticky-note
+    hacks'
+  startOffset: 2215
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=2215
+  endOffset: 2522
+- name: 'Study Habits: note-taking, time tracking, and personal workflow'
+  startOffset: 2522
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=2522
+  endOffset: 2630
+- name: 'Drawbacks of Independent Study: discipline risks and curriculum gaps'
+  startOffset: 2630
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=2630
+  endOffset: 2740
+- name: 'Community Learning: study groups, Slack, and teaching-to-learn'
+  startOffset: 2740
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=2740
+  endOffset: 2885
+- name: 'Deployment & MLOps: Docker, Kubernetes, and deployment discomfort'
+  startOffset: 2885
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=2885
+  endOffset: 3062
+- name: ChatGPT as a Study Companion and Pseudo Study Group
+  startOffset: 3062
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3062
+  endOffset: 3114
+- name: 'Advanced Learning: approaching PhD-level topics via papers'
+  startOffset: 3114
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3114
+  endOffset: 3218
+- name: 'Research Access & Publishing Challenges: paywalls and library access'
+  startOffset: 3218
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3218
+  endOffset: 3386
+- name: 'Avoiding Burnout: switching topics and juggling parallel projects'
+  startOffset: 3386
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3386
+  endOffset: 3509
+- name: 'Recommended Resources: Python for Everybody, ML Zoomcamp, further reading'
+  startOffset: 3509
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3509
+  endOffset: 3593
+- name: Closing Remarks and Final Thoughts
+  startOffset: 3593
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3593
+  endOffset: 3611
+- name: Episode Sign-Off
+  startOffset: 3611
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3611
+  endOffset: 3537
 ---
 
 Links:

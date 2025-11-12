@@ -1151,6 +1151,105 @@ intro: 'How do you move from software engineer to VP of Machine Learning while l
   by a churn model lesson. <br><br> If you lead or ship ML products, this episode
   delivers actionable guidance on machine learning leadership, rapid prototyping,
   demo design, and stakeholder communication to move models from prototype to product.'
+dateadded: '2023-11-20'
+duration: PT00H53M23S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=0
+  endOffset: 13
+- name: 'Guest Overview: Jack’s career arc from software engineer to VP of ML'
+  startOffset: 13
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=13
+  endOffset: 64
+- name: 'Career Pivot: Transition from full‑stack engineering to data science'
+  startOffset: 64
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=64
+  endOffset: 161
+- name: 'Early Leadership: Informal management and promotion at GoHealth'
+  startOffset: 161
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=161
+  endOffset: 287
+- name: 'Rapid Advancement: Reflections on moving from IC to manager'
+  startOffset: 287
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=287
+  endOffset: 413
+- name: 'Leadership Learning: Trial‑and‑error development of soft skills'
+  startOffset: 413
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=413
+  endOffset: 541
+- name: 'Problem Framing: Technical context and product‑level understanding'
+  startOffset: 541
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=541
+  endOffset: 693
+- name: 'Reputation Management: Building respect, trust, and influence'
+  startOffset: 693
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=693
+  endOffset: 925
+- name: 'Stakeholder Communication: Speaking marketing language (CAC, KPIs)'
+  startOffset: 925
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=925
+  endOffset: 1042
+- name: 'ML Project Complexity: Resource needs and cross‑functional buy‑in'
+  startOffset: 1042
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=1042
+  endOffset: 1248
+- name: 'Selling ML: Fast POCs and demos to generate stakeholder support'
+  startOffset: 1248
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=1248
+  endOffset: 1398
+- name: 'Demo Design: Visualizations and user‑centric proof‑of‑concepts'
+  startOffset: 1398
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=1398
+  endOffset: 1575
+- name: 'Risk Communication: Explaining model trade‑offs without raw accuracy'
+  startOffset: 1575
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=1575
+  endOffset: 1697
+- name: 'Rapid Prototyping Tools: Gradio, Streamlit, and lightweight demos'
+  startOffset: 1697
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=1697
+  endOffset: 1726
+- name: 'Baseline First: Start with heuristics and manual processes before ML'
+  startOffset: 1726
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=1726
+  endOffset: 1863
+- name: 'Hypothesis Validation: Quick experiments to test product assumptions'
+  startOffset: 1863
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=1863
+  endOffset: 2049
+- name: 'Actionability Over Accuracy: Churn model lesson on usable insights'
+  startOffset: 2049
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=2049
+  endOffset: 2204
+- name: 'Outcome Focus: Avoiding technical tunnel vision on ML tuning'
+  startOffset: 2204
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=2204
+  endOffset: 2254
+- name: 'Data Generative Process: Treating data as a shadow of reality'
+  startOffset: 2254
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=2254
+  endOffset: 2437
+- name: 'Domain Immersion: Customer empathy through product usage'
+  startOffset: 2437
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=2437
+  endOffset: 2675
+- name: 'Full‑Stack ML: Importance of software engineering for production ML'
+  startOffset: 2675
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=2675
+  endOffset: 2878
+- name: 'Content & Community: Daily LinkedIn posts and where to follow Jack'
+  startOffset: 2878
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=2878
+  endOffset: 3037
+- name: 'New Venture: Reimagining hiring and recruiting for ML/data roles'
+  startOffset: 3037
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=3037
+  endOffset: 3182
+- name: Episode Wrap‑Up and Final Remarks
+  startOffset: 3182
+  url: https://www.youtube.com/watch?v=su2M058m3Lw&t=3182
+  endOffset: 3203
 ---
 
 Links:

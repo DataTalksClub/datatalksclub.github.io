@@ -1123,6 +1123,109 @@ transcript:
   sec: 3587
   time: '59:47'
   who: Alexey
+dateadded: '2022-02-12'
+duration: PT00H58M39S
+quotableClips:
+- name: Guest Introduction & Career Journey
+  startOffset: 68
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=68
+  endOffset: 302
+- name: Spiced Academy Programs Overview (Full‑Stack & Data Science)
+  startOffset: 302
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=302
+  endOffset: 360
+- name: 'Career Coaching Services: CVs, Interview Prep, Negotiation'
+  startOffset: 360
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=360
+  endOffset: 560
+- name: Defining Ideal Job Environment & Career Experiments
+  startOffset: 560
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=560
+  endOffset: 711
+- name: Reframing Past Experience into Recruiter‑Friendly Evidence
+  startOffset: 711
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=711
+  endOffset: 782
+- name: Identifying Transferable Skills for Data Roles
+  startOffset: 782
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=782
+  endOffset: 906
+- name: Achievement‑Based CV Writing vs Responsibility Lists
+  startOffset: 906
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=906
+  endOffset: 1014
+- name: Coaching Access Model & Typical Student Engagement
+  startOffset: 1014
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=1014
+  endOffset: 1078
+- name: 'Career Coach Impact: Belief, Market Navigation, Paperwork'
+  startOffset: 1078
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=1078
+  endOffset: 1228
+- name: 'Marketplace Ambiguity: Data Scientist vs Analyst vs Engineer'
+  startOffset: 1228
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=1228
+  endOffset: 1428
+- name: 'Job Focus Importance: Tailoring Applications to Industry'
+  startOffset: 1428
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=1428
+  endOffset: 1539
+- name: Ikigai Framework for Finding Career Focus and Projects
+  startOffset: 1539
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=1539
+  endOffset: 1714
+- name: Junior Job Market Trends in Berlin (Analytics vs Engineering)
+  startOffset: 1714
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=1714
+  endOffset: 1837
+- name: 'Job Search Strategy: Balanced Tailored Applications & Volume'
+  startOffset: 1837
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=1837
+  endOffset: 2011
+- name: 'Finding a Career Coach: Credentials, Specialization, Location'
+  startOffset: 2011
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=2011
+  endOffset: 2091
+- name: 'Imposter Syndrome: Origins and Common Triggers'
+  startOffset: 2091
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=2091
+  endOffset: 2225
+- name: Objective Feedback vs Distorted Self‑Perception
+  startOffset: 2225
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=2225
+  endOffset: 2517
+- name: 'Coping Strategies: Accepting Failure and Learning Loops'
+  startOffset: 2517
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=2517
+  endOffset: 2695
+- name: 'Resources for Imposter Syndrome: Research, Coaches, Mentors'
+  startOffset: 2695
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=2695
+  endOffset: 2828
+- name: 'Building Confidence: Structured Learning Paths & T‑Shaped Skills'
+  startOffset: 2828
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=2828
+  endOffset: 3070
+- name: 'Managing Expectations: Junior Role Requirements & Progression'
+  startOffset: 3070
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=3070
+  endOffset: 3171
+- name: Internships vs Junior Roles and Creating Hidden Opportunities
+  startOffset: 3171
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=3171
+  endOffset: 3320
+- name: 'Working with Recruiters: When They Help Juniors & Seniors'
+  startOffset: 3320
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=3320
+  endOffset: 3510
+- name: 'LinkedIn Networking: Credible Informational Outreach'
+  startOffset: 3510
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=3510
+  endOffset: 3564
+- name: Episode Wrap‑Up & Final Career Coaching Takeaways
+  startOffset: 3564
+  url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=3564
+  endOffset: 3519
 ---
 
 Links:

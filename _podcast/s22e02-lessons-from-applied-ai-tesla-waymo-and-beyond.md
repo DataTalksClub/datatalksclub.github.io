@@ -1083,6 +1083,121 @@ intro: How should self-driving systems balance LiDAR, cameras and edge compute t
   and projects. <br><br> If you want concrete guidance on sensor fusion, model compression,
   and deployment-ready perception systems — plus practical testing and data strategies
   for self-driving AI — this episode delivers grounded, technical insight.
+dateadded: '2025-10-21'
+duration: PT00H59M01S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=0
+  endOffset: 93
+- name: 'Guest Bio & Career Overview: Finance to Self-Driving AI'
+  startOffset: 93
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=93
+  endOffset: 171
+- name: 'Morgan Stanley: Big Data Engineering & Transition to ML'
+  startOffset: 171
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=171
+  endOffset: 235
+- name: 'Carnegie Mellon: Research Focus & Computer Vision Projects'
+  startOffset: 235
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=235
+  endOffset: 339
+- name: 'AI Guide Dog: Mobile Navigation for the Visually Impaired'
+  startOffset: 339
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=339
+  endOffset: 554
+- name: 'AI Guide Dog: Beta Testing, Iterative Development, Hardware Constraints'
+  startOffset: 554
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=554
+  endOffset: 682
+- name: 'Sensor Tradeoffs: LiDAR, Radar, and Cost Considerations'
+  startOffset: 682
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=682
+  endOffset: 718
+- name: 'LiDAR vs Cameras: Principles and Automotive Use Cases'
+  startOffset: 718
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=718
+  endOffset: 885
+- name: 'Tesla''s Camera-First Perception: 360° Vision without LiDAR'
+  startOffset: 885
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=885
+  endOffset: 966
+- name: 'Autopilot Use Cases: Driver Assistance vs Full Autonomy'
+  startOffset: 966
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=966
+  endOffset: 1181
+- name: 'Waymo Ride-Hailing: App, Service Model, and Driverless Rides'
+  startOffset: 1181
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=1181
+  endOffset: 1197
+- name: 'Gesture Recognition for Traffic Control: Police & Construction Signals'
+  startOffset: 1197
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=1197
+  endOffset: 1337
+- name: 'On-Vehicle Inference: Performance Constraints and Optimization'
+  startOffset: 1337
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=1337
+  endOffset: 1408
+- name: 'Model Compression Techniques: Quantization and Speedups'
+  startOffset: 1408
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=1408
+  endOffset: 1445
+- name: 'Malaria Mapping: AI for Social Good Using Satellite & Topographic Data'
+  startOffset: 1445
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=1445
+  endOffset: 1623
+- name: 'Malaria Project Impact: Field Feedback and Resource Optimization'
+  startOffset: 1623
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=1623
+  endOffset: 1785
+- name: 'Validation Pipeline: Simulation, Closed Tracks, and On-Road Testing'
+  startOffset: 1785
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=1785
+  endOffset: 1862
+- name: 'Sensor Data Management: Collection, Privacy, and Scale'
+  startOffset: 1862
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=1862
+  endOffset: 1929
+- name: 'Labeling Strategy: Human Annotation and Automated Labeling'
+  startOffset: 1929
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=1929
+  endOffset: 1963
+- name: 'Model Release Cadence: Safety Checks and Staged Deployments'
+  startOffset: 1963
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=1963
+  endOffset: 2172
+- name: 'Cross-Domain Transfer: Perception Techniques for Robotics & Drones'
+  startOffset: 2172
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=2172
+  endOffset: 2238
+- name: 'Real-World Complexity: Edge Cases, Geography, and System Coordination'
+  startOffset: 2238
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=2238
+  endOffset: 2624
+- name: 'Reinforcement Learning vs Perception: Roles and Practical Constraints'
+  startOffset: 2624
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=2624
+  endOffset: 3088
+- name: 'Testing Sensitive Cases: Evaluation Stages and Inherited Tests'
+  startOffset: 3088
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=3088
+  endOffset: 3173
+- name: 'Multimodal LLMs in Autonomous Driving: Research and Practical Challenges'
+  startOffset: 3173
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=3173
+  endOffset: 3325
+- name: 'Career Pathways: Skills, Projects, and Entry Routes into Self-Driving AI'
+  startOffset: 3325
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=3325
+  endOffset: 3384
+- name: 'Practical Projects & Tools: Vision Apps, LLMs, and Coding Agents'
+  startOffset: 3384
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=3384
+  endOffset: 3515
+- name: Closing Remarks and Final Advice
+  startOffset: 3515
+  url: https://www.youtube.com/watch?v=vK_SxyqIfwk&t=3515
+  endOffset: 3541
 ---
 
 Links:

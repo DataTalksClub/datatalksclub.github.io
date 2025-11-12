@@ -1134,6 +1134,109 @@ transcript:
 description: Build LLM agents and RAG pipelines using prompting, transcript automation,
   and evaluation to scale systems - learn chunking, monitoring, and practical build
   steps.
+dateadded: '2025-10-27'
+duration: PT01H01M30S
+quotableClips:
+- name: Podcast Kickoff & Hugo Bowne‑Anderson Background
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=0
+  endOffset: 72
+- name: 'Vanishing Gradients vs High Signal: Podcast Formats & Audiences'
+  startOffset: 72
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=72
+  endOffset: 124
+- name: 'From Academia to Industry: Biology Research, Python, and PyData'
+  startOffset: 124
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=124
+  endOffset: 207
+- name: 'Early Industry Work: DataCamp Curriculum and Product Roles'
+  startOffset: 207
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=207
+  endOffset: 237
+- name: 'Transition to Freelance: Consulting, Teaching, and DevRel'
+  startOffset: 237
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=237
+  endOffset: 431
+- name: 'Consulting vs Advisory: Hands‑On Coding and Organizational Advice'
+  startOffset: 431
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=431
+  endOffset: 504
+- name: 'Driving AI Adoption: Loss Aversion and Dedicated Experimentation Time'
+  startOffset: 504
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=504
+  endOffset: 568
+- name: 'Everyday LLM Use Cases: Summaries, Translation, and CSV Workflows'
+  startOffset: 568
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=568
+  endOffset: 671
+- name: 'Prompting Best Practices: Role Prompts, Structured Output, and Timestamps'
+  startOffset: 671
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=671
+  endOffset: 742
+- name: 'Transcript Workflows: Gemini, Descript, Loom and Automation Tools'
+  startOffset: 742
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=742
+  endOffset: 836
+- name: 'Generator–Evaluator Pattern: Automated Quality Control for Outputs'
+  startOffset: 836
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=836
+  endOffset: 1058
+- name: 'Scaling Transcript Pipelines: Automation with GitHub Actions'
+  startOffset: 1058
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=1058
+  endOffset: 1380
+- name: 'Evaluation Sets for LLMs: Gold Tests, Size, Cost, and Representativeness'
+  startOffset: 1380
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=1380
+  endOffset: 1603
+- name: 'Failure Analysis: Categorizing Errors and Prioritizing Retrieval Fixes'
+  startOffset: 1603
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=1603
+  endOffset: 1658
+- name: 'Vibe Coding & Monitoring: Logging, Traces, and Debuggable MVPs'
+  startOffset: 1658
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=1658
+  endOffset: 1916
+- name: 'Developer Tools & Assistants: GitHub Copilot, Cursor, and IDE Agents'
+  startOffset: 1916
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=1916
+  endOffset: 1994
+- name: 'Embedded Agents in Workflows: Slack Integration and Proactive Assistants'
+  startOffset: 1994
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=1994
+  endOffset: 2412
+- name: 'Agentic Value Beyond Chat: Actions, Documents, and Automation'
+  startOffset: 2412
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=2412
+  endOffset: 2666
+- name: 'Prioritizing RAG: Quick Business Wins with Chunking and Embeddings'
+  startOffset: 2666
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=2666
+  endOffset: 2900
+- name: 'Chunking Strategies: Fixed Length, Sliding Windows, and Context Rot'
+  startOffset: 2900
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=2900
+  endOffset: 3019
+- name: 'When to Add Tooling: Moving from RAG to Agents and Tool Calls'
+  startOffset: 3019
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=3019
+  endOffset: 3214
+- name: 'Practical Build: Email Assistant Example using Gmail API + RAG'
+  startOffset: 3214
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=3214
+  endOffset: 3381
+- name: 'Four‑Step Framework for Agents: Problem, Start Small, Data, Evaluation'
+  startOffset: 3381
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=3381
+  endOffset: 3461
+- name: 'Memory Design: Retrieval‑Based Memory vs Multi‑Turn Conversation Memory'
+  startOffset: 3461
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=3461
+  endOffset: 3655
+- name: 'Episode Wrap‑Up: Key Takeaways, Courses, and Next Steps'
+  startOffset: 3655
+  url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=3655
+  endOffset: 3690
 ---
 Links:
 

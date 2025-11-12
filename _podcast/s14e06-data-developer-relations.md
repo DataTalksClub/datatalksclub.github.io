@@ -1078,6 +1078,113 @@ intro: How do you master full‑stack machine learning with Metaflow while balan
   and content strategy for tutorials, blogs, and talks. Listen to gain concrete takeaways
   on mastering full‑stack ML with Metaflow, improving reproducibility, and aligning
   DevRel and open‑source governance to support scalable machine learning infrastructure.
+dateadded: '2023-06-17'
+duration: PT00H57M52S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=0
+  endOffset: 93
+- name: 'Guest Introduction: Hugo Bowne‑Anderson, Outerbounds & Metaflow'
+  startOffset: 93
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=93
+  endOffset: 134
+- name: Metaflow Sandbox Demo & Full‑Stack Machine Learning Spotlight
+  startOffset: 134
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=134
+  endOffset: 216
+- name: 'Career Path: From Biophysics Research to Data Science Education'
+  startOffset: 216
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=216
+  endOffset: 226
+- name: Building Courses, Open‑Source Collaboration & DataCamp Impact
+  startOffset: 226
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=226
+  endOffset: 647
+- name: 'Open‑Source Governance: Company Support for Projects (Dask, Metaflow)'
+  startOffset: 647
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=647
+  endOffset: 832
+- name: 'Metaflow Integrations: AWS, Kubernetes, Argo & ML Interoperability'
+  startOffset: 832
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=832
+  endOffset: 874
+- name: 'Path to DevRel: Education to Developer Advocacy'
+  startOffset: 874
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=874
+  endOffset: 1083
+- name: 'DevRel Explained: Education, Documentation & the "Wisdom Layer"'
+  startOffset: 1083
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=1083
+  endOffset: 1372
+- name: 'DevRel Organizational Models: Reporting Lines & Technical Alignment'
+  startOffset: 1372
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=1372
+  endOffset: 1517
+- name: 'Developer Collaboration: Feedback Loops, Documentation & Dogfooding'
+  startOffset: 1517
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=1517
+  endOffset: 1570
+- name: 'Generative AI Trends: Impacts on ML Infrastructure & DevRel'
+  startOffset: 1570
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=1570
+  endOffset: 1637
+- name: 'Marketing Partnership: SEO, Content Strategy & Audience Targeting'
+  startOffset: 1637
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=1637
+  endOffset: 1901
+- name: 'Core DevRel Skills: Technical Fluency, Writing & Community Building'
+  startOffset: 1901
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=1901
+  endOffset: 2090
+- name: 'Role Trade‑offs: Content Work vs Internal Data Science'
+  startOffset: 2090
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=2090
+  endOffset: 2187
+- name: 'Teaching Reproducibility: Dogfooding and Simplifying Workflows'
+  startOffset: 2187
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=2187
+  endOffset: 2241
+- name: 'Improving Writing: Practice, Collaboration & Editorial Feedback'
+  startOffset: 2241
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=2241
+  endOffset: 2417
+- name: 'AI‑Assisted Drafting: Whisper, ChatGPT & Productivity Tools'
+  startOffset: 2417
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=2417
+  endOffset: 2594
+- name: 'Content Design: Audience, Goals & Structural Outlines for Tutorials'
+  startOffset: 2594
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=2594
+  endOffset: 2769
+- name: 'Content Goals: Awareness, Support & Open‑Source Strategy Decisions'
+  startOffset: 2769
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=2769
+  endOffset: 2923
+- name: 'Choosing Media: Blog Posts, Talks, Videos, Conferences & ROI'
+  startOffset: 2923
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=2923
+  endOffset: 3102
+- name: 'Scope of DevRel: Internal Enablement, External Outreach & Partnerships'
+  startOffset: 3102
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=3102
+  endOffset: 3271
+- name: 'Career Advice: GitHub Portfolios, Meetups & Experimenting in DevRel'
+  startOffset: 3271
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=3271
+  endOffset: 3372
+- name: 'Long‑Form Conversations: Vanishing Gradients Podcast Overview'
+  startOffset: 3372
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=3372
+  endOffset: 3503
+- name: 'Contact & Resources: Hugo Online, Outerbounds Slack & Links'
+  startOffset: 3503
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=3503
+  endOffset: 3565
+- name: Closing Remarks & Episode Wrap‑Up
+  startOffset: 3565
+  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=3565
+  endOffset: 3472
 ---
 
 Links:

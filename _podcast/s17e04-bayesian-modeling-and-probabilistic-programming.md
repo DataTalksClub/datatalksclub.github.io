@@ -1203,6 +1203,109 @@ intro: 'How do you move from point estimates to full Bayesian models and pick th
   and uncertainty. The episode closes with practical learning resources (PyMC book,
   Statistical Rethinking) to support your self‑study. Tune in to get actionable guidance
   on building, sampling, and refining Bayesian models.'
+dateadded: '2024-01-22'
+duration: PT01H05M05S
+quotableClips:
+- name: Episode Introduction & Topic Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=0
+  endOffset: 104
+- name: 'Guest Introduction: Rob Zinkov and the Hakaru probabilistic programming project'
+  startOffset: 104
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=104
+  endOffset: 166
+- name: 'Career Journey: From software engineering to machine learning research'
+  startOffset: 166
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=166
+  endOffset: 237
+- name: 'Industry vs Academia: Applying Bayesian tools in real problems'
+  startOffset: 237
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=237
+  endOffset: 400
+- name: 'Transitioning Skills: Embracing calculus, integrals, and optimization'
+  startOffset: 400
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=400
+  endOffset: 492
+- name: 'Core Technical Skills: Linear algebra and optimization for ML'
+  startOffset: 492
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=492
+  endOffset: 572
+- name: 'Self‑Study Path: Learning statistics without formal classes'
+  startOffset: 572
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=572
+  endOffset: 887
+- name: 'Statistical Paradigms: Frequentist point estimates vs Bayesian distributions'
+  startOffset: 887
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=887
+  endOffset: 1146
+- name: 'Bayesian Workflow: Priors, likelihoods, and posterior distributions'
+  startOffset: 1146
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=1146
+  endOffset: 1291
+- name: 'Bayesian Advantages: Composability and incremental model building'
+  startOffset: 1291
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=1291
+  endOffset: 1425
+- name: 'Probabilistic Programming: Automating Bayesian model tasks'
+  startOffset: 1425
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=1425
+  endOffset: 1469
+- name: 'Why Integrals Matter: Intractable integrals in probabilistic models'
+  startOffset: 1469
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=1469
+  endOffset: 1600
+- name: 'Numerical Integration: Sampling as an approximation technique'
+  startOffset: 1600
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=1600
+  endOffset: 1757
+- name: 'Samplers Overview: Using draws to estimate posterior expectations'
+  startOffset: 1757
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=1757
+  endOffset: 2028
+- name: 'MCMC Fundamentals: Markov chains and exploring high‑probability regions'
+  startOffset: 2028
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=2028
+  endOffset: 2199
+- name: 'Probabilistic Languages: Hakaru’s role in generating samplers'
+  startOffset: 2199
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=2199
+  endOffset: 2378
+- name: 'Language vs Library: Model semantics, control flow, and ASTs'
+  startOffset: 2378
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=2378
+  endOffset: 2600
+- name: 'PyMC Example: Building a rainfall model and computational graph'
+  startOffset: 2600
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=2600
+  endOffset: 2890
+- name: 'Interpreting Posteriors: Model checks and iterative refinement'
+  startOffset: 2890
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=2890
+  endOffset: 3077
+- name: 'Encoding Dependencies: Spatial models and hierarchical structure'
+  startOffset: 3077
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=3077
+  endOffset: 3192
+- name: 'Multimodality & Uncertainty: Representing multiple plausible outcomes'
+  startOffset: 3192
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=3192
+  endOffset: 3341
+- name: 'Stan & HMC/NUTS: Advances in efficient sampling algorithms'
+  startOffset: 3341
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=3341
+  endOffset: 3647
+- name: 'Learning Resources: PyMC book, Statistical Rethinking course, and tutorials'
+  startOffset: 3647
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=3647
+  endOffset: 3953
+- name: 'Consulting & Contact: Rob’s statistical consulting and email'
+  startOffset: 3953
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=3953
+  endOffset: 3991
+- name: Episode Wrap‑up, Links, and Next Steps
+  startOffset: 3991
+  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=3991
+  endOffset: 3905
 ---
 
 Links:

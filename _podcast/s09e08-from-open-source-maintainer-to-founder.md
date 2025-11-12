@@ -1293,6 +1293,101 @@ intro: How do you build expressive terminal UIs in Python and turn open source w
   source contributions, community channels, and advice for new OSS authors. If you
   build Python CLI tools or want to commercialize open source, this episode offers
   concrete technical and business insights.
+dateadded: '2022-07-15'
+duration: PT00H58M41S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=0
+  endOffset: 99
+- name: 'Guest Introduction: Will McGugan, Python Open Source Maintainer'
+  startOffset: 99
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=99
+  endOffset: 127
+- name: 'Career Path: From Video Games to Textualize Founder'
+  startOffset: 127
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=127
+  endOffset: 258
+- name: 'Early Open Source Tools: BBCode Parser & Chess Libraries'
+  startOffset: 258
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=258
+  endOffset: 412
+- name: 'PyFilesystem: Virtual File System Abstraction (fs)'
+  startOffset: 412
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=412
+  endOffset: 575
+- name: 'S3 Integration: S3Fs and Cloud File Interfaces (Pandas integration)'
+  startOffset: 575
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=575
+  endOffset: 689
+- name: 'Project Origins: Solving Personal Needs & Learning by Building'
+  startOffset: 689
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=689
+  endOffset: 907
+- name: 'Freelance Career: Contracting, Long-Term Contracts, and Independence'
+  startOffset: 907
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=907
+  endOffset: 1068
+- name: 'Open Source as Creative Outlet: Freedom Beyond Client Work'
+  startOffset: 1068
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=1068
+  endOffset: 1166
+- name: 'Rich Library: Terminal Styling, Tables, Progress, and CLI UX'
+  startOffset: 1166
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=1166
+  endOffset: 1476
+- name: 'Rich for Observability: Log Formatting and Readability'
+  startOffset: 1476
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=1476
+  endOffset: 1599
+- name: 'Textual Framework: Building Terminal GUIs on Rich'
+  startOffset: 1599
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=1599
+  endOffset: 1688
+- name: 'Founding Textualize: Pre-Seed Fundraising After Tweeting'
+  startOffset: 1688
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=1688
+  endOffset: 1900
+- name: 'Building in Public: Social Media, Demos, and Community Growth'
+  startOffset: 1900
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=1900
+  endOffset: 2238
+- name: 'Team & Roadmap: Early Hires, Roles, and Product Vision'
+  startOffset: 2238
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=2238
+  endOffset: 2312
+- name: 'Business Model: Web Hosting for Terminal Apps & Generous Free Tier'
+  startOffset: 2312
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=2312
+  endOffset: 2493
+- name: 'Market Comparison: Streamlit Analogy and Positioning'
+  startOffset: 2493
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=2493
+  endOffset: 2678
+- name: 'Hiring Signals: Open Source Contributions as a Recruiter’s Lens'
+  startOffset: 2678
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=2678
+  endOffset: 2760
+- name: 'Development Workflow: GitHub Projects, PR Reviews, and Releases'
+  startOffset: 2760
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=2760
+  endOffset: 2977
+- name: 'Community Channels: Discourse, Discord, and How to Contribute'
+  startOffset: 2977
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=2977
+  endOffset: 3005
+- name: 'Project Promotion: Getting GitHub Stars and Viral Reach'
+  startOffset: 3005
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=3005
+  endOffset: 3440
+- name: 'Advice for New Open Source Authors: Solve Your Own Problem'
+  startOffset: 3440
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=3440
+  endOffset: 3571
+- name: 'Closing & Contact: Find Will on Twitter and Textualize links'
+  startOffset: 3571
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=3571
+  endOffset: 3521
 ---
 
 Links:

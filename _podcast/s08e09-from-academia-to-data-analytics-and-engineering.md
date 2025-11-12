@@ -1291,4 +1291,95 @@ transcript:
   who: Alexey
 description: Learn data engineering with Docker and Airflow—bootcamp ROI, interview
   tips, portfolio tips and salary tactics to land a data engineering role.
+dateadded: '2022-05-21'
+duration: PT00H57M59S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=0
+  endOffset: 118
+- name: 'Background: Transition from Neuroscience Research to Industry'
+  startOffset: 118
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=118
+  endOffset: 161
+- name: 'Lab Automation & Scripting: Igor, C-style Code and Data Collection'
+  startOffset: 161
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=161
+  endOffset: 393
+- name: 'Learning Curve: MATLAB, R and Falling in Love with Programming'
+  startOffset: 393
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=393
+  endOffset: 466
+- name: 'First Industry Role: Business Data Analyst Duties and SQL Reporting'
+  startOffset: 466
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=466
+  endOffset: 713
+- name: 'Company Overview: Music Metadata, Royalties and Data Workflows'
+  startOffset: 713
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=713
+  endOffset: 974
+- name: 'Job Search Timeline: Bootcamp Graduation to Offer in Four Months'
+  startOffset: 974
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=974
+  endOffset: 1101
+- name: 'Volunteer Experience: Omdena Project for Practical ML Practice'
+  startOffset: 1101
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=1101
+  endOffset: 1192
+- name: 'Role Focus: Choosing Data Engineering Tasks and Automation Work'
+  startOffset: 1192
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=1192
+  endOffset: 1285
+- name: 'Reproducibility: Docker for Collaborative Scripts and AWS Runs'
+  startOffset: 1285
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=1285
+  endOffset: 1377
+- name: 'Application Strategy: Tracking ~130 Applications and Organization'
+  startOffset: 1377
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=1377
+  endOffset: 1675
+- name: 'Interview Hurdles: Live Coding Pressure and Take-Home Challenges'
+  startOffset: 1675
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=1675
+  endOffset: 1819
+- name: 'Applicant Rights: GDPR and Deleting Recruitment Records'
+  startOffset: 1819
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=1819
+  endOffset: 1889
+- name: 'Salary Negotiation: Market Research, Confidence and Tactics'
+  startOffset: 1889
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=1889
+  endOffset: 2180
+- name: 'Bootcamp ROI: Learning Python, Docker, Airflow and Networking'
+  startOffset: 2180
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=2180
+  endOffset: 2245
+- name: 'Retrospective Tips: Earlier Career Coaching and More Networking'
+  startOffset: 2245
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=2245
+  endOffset: 2729
+- name: 'Cloud Platforms: AWS vs GCP Experience and Managing Credits'
+  startOffset: 2729
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=2729
+  endOffset: 3015
+- name: 'Capstone Project: Twitter Data Pipeline, Docker Containers and Slack Bot'
+  startOffset: 3015
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=3015
+  endOffset: 3102
+- name: 'Portfolio Strategy: Custom Projects to Stand Out to Employers'
+  startOffset: 3102
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=3102
+  endOffset: 3214
+- name: 'Data Quality: Detecting Bots, Cleaning Twitter Data and Sentiment Bias'
+  startOffset: 3214
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=3214
+  endOffset: 3408
+- name: 'Cohort Diversity: Varied Backgrounds and Cross-disciplinary Strengths'
+  startOffset: 3408
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=3408
+  endOffset: 3517
+- name: 'Closing Thoughts: Practical Advice for Transitioning to Data Engineering'
+  startOffset: 3517
+  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=3517
+  endOffset: 3479
 ---

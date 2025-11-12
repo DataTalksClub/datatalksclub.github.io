@@ -1286,6 +1286,94 @@ intro: 'How can teams build useful machine learning while respecting user privac
   and generative AI privacy considerations including retention and localized model
   deployment. Listeners leave with actionable guidance on privacy engineering, data
   minimization, consent design, and resources to continue learning.'
+dateadded: '2023-05-20'
+duration: PT01H01M28S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=0
+  endOffset: 100
+- name: 'Guest Introduction: Katharine Jarmul — privacy activist, ML engineer, ThoughtWorks,
+    book'
+  startOffset: 100
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=100
+  endOffset: 152
+- name: 'Career Journey: data journalism, NLP, consulting, and machine learning'
+  startOffset: 152
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=152
+  endOffset: 548
+- name: 'Startup Focus: KI Protect, pseudonymisation, encrypted & federated ML'
+  startOffset: 548
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=548
+  endOffset: 693
+- name: 'Privacy Regulation Overview: GDPR, CCPA, CPRA and cookie consent defaults'
+  startOffset: 693
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=693
+  endOffset: 875
+- name: 'Cookie Consent & Opt‑Out UX: one‑click rejects and user behavior'
+  startOffset: 875
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=875
+  endOffset: 984
+- name: 'Defining Data Privacy: legal, social, and technical perspectives'
+  startOffset: 984
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=984
+  endOffset: 1295
+- name: 'Practical Data Privacy (book): availability, previews, and giveaways'
+  startOffset: 1295
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=1295
+  endOffset: 1358
+- name: 'Bridging Legal & Technical Views: privacy risk, translation, and collaboration'
+  startOffset: 1358
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=1358
+  endOffset: 1512
+- name: 'User Profiling & Fingerprinting: browser history, apps, and re‑identification
+    risks'
+  startOffset: 1512
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=1512
+  endOffset: 1815
+- name: 'Privacy‑Friendly Personalization: session‑based intent and ephemeral inference'
+  startOffset: 1815
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=1815
+  endOffset: 1988
+- name: 'Privacy Engineering & PETs: encrypted ML, federated learning, and architecture'
+  startOffset: 1988
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=1988
+  endOffset: 2109
+- name: 'Business Case for Privacy: risk management, regulation, and customer trust'
+  startOffset: 2109
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=2109
+  endOffset: 2450
+- name: 'Differential Privacy Explained: formal definition, use cases, and libraries
+    (Tumult)'
+  startOffset: 2450
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=2450
+  endOffset: 2708
+- name: 'Anonymization Pitfalls: hashing, k‑anonymity, Netflix de‑anonymization lessons'
+  startOffset: 2708
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=2708
+  endOffset: 2820
+- name: 'Designing for Privacy: consent, data minimization, and workflow practices'
+  startOffset: 2820
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=2820
+  endOffset: 3155
+- name: 'Generative AI & Privacy: ChatGPT incidents, consent, retention, and enterprise
+    options'
+  startOffset: 3155
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=3155
+  endOffset: 3569
+- name: 'Deploying Localized Models: Azure localization, fine‑tuning, and ownership'
+  startOffset: 3569
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=3569
+  endOffset: 3675
+- name: 'Further Learning: Probably Private newsletter, notebooks, and differential
+    privacy resources'
+  startOffset: 3675
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=3675
+  endOffset: 3764
+- name: 'Episode Close: final notes, social links, and next steps'
+  startOffset: 3764
+  url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=3764
+  endOffset: 3688
 ---
 
 Links:

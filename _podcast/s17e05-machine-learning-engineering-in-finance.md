@@ -1184,6 +1184,106 @@ intro: 'How do you deliver machine learning in highly regulated, legacy finance 
   guidance on prototyping under regulatory constraints, team structures and reusable
   platform patterns, and the practical skills and beginner tech stack (Python, SQL,
   Pandas/Polars, cloud basics) to move models from experiment to production in finance.'
+dateadded: '2024-01-29'
+duration: PT00H58M04S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=0
+  endOffset: 95
+- name: 'Guest Introduction: Nemanja’s journey from Belgrade to ML Ops in Europe'
+  startOffset: 95
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=95
+  endOffset: 172
+- name: 'Guest Background: Electrical engineering, PhD experience, and early career
+    moves'
+  startOffset: 172
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=172
+  endOffset: 498
+- name: 'Early Data Roles: PhD, Deloitte, and first paid Python work'
+  startOffset: 498
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=498
+  endOffset: 635
+- name: 'Finance Use Cases: Compliance, AML, fraud, and smart automation (document
+    & email processing)'
+  startOffset: 635
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=635
+  endOffset: 897
+- name: 'Role Overview: ML engineering / ML Ops responsibilities in finance (CI/CD,
+    deployment choices)'
+  startOffset: 897
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=897
+  endOffset: 1132
+- name: 'Regulatory & Legacy Constraints: Slow change, legacy systems, and governance
+    impact'
+  startOffset: 1132
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=1132
+  endOffset: 1345
+- name: 'DevOps Governance: Release management, approvals, and building trust'
+  startOffset: 1345
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=1345
+  endOffset: 1419
+- name: 'Integrating ML with DevOps: Adapting ML workflows to existing corporate processes'
+  startOffset: 1419
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=1419
+  endOffset: 1671
+- name: 'On-Premises Infrastructure: Hadoop, OpenShift, hardware requests, and platform
+    teams'
+  startOffset: 1671
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=1671
+  endOffset: 1862
+- name: 'ML Ops on a Shoestring: Prioritization and minimal viable ML Ops strategy'
+  startOffset: 1862
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=1862
+  endOffset: 1917
+- name: 'Minimal ML Ops Components: Dev/test/prod environments, monitoring, model
+    registry, data versioning, reproducible pipelines'
+  startOffset: 1917
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=1917
+  endOffset: 2157
+- name: 'Tactical Solutions: Using S3 and simple approaches as interim model registry/data
+    versioning'
+  startOffset: 2157
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=2157
+  endOffset: 2328
+- name: 'Project Approach: Prototyping, Agile limits for ML, and iterative groundwork'
+  startOffset: 2328
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=2328
+  endOffset: 2474
+- name: 'Team Structure: Multiple data scientists per ML engineer and standardized
+    deployment patterns'
+  startOffset: 2474
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=2474
+  endOffset: 2619
+- name: 'Platform & Reuse: Internal libraries, FastAPI framework, and maintaining
+    production apps'
+  startOffset: 2619
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=2619
+  endOffset: 2704
+- name: 'Skills for ML Engineers: Python, Linux, networking, cloud basics, and stakeholder
+    evangelism'
+  startOffset: 2704
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=2704
+  endOffset: 2935
+- name: 'Career Transition Challenges: Moving from electrical engineering and sales
+    into ML — probabilistic thinking'
+  startOffset: 2935
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=2935
+  endOffset: 3171
+- name: 'Beginner Tech Stack: Python, SQL, Pandas/Polars, cloud basics, and job-market
+    driven learning'
+  startOffset: 3171
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=3171
+  endOffset: 3379
+- name: 'Learn by Building: End-to-end projects, web apps, and scraping job postings
+    to discover in-demand skills'
+  startOffset: 3379
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=3379
+  endOffset: 3544
+- name: Closing Remarks and Links to Talk/Resources
+  startOffset: 3544
+  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=3544
+  endOffset: 3484
 ---
 
 Links:

@@ -1119,6 +1119,118 @@ intro: How can marketing teams reliably measure ad impact, allocate budget acros
   and when to choose Bayesian vs frequentist methods, this episode gives clear frameworks,
   common pitfalls, and learning resources to help practitioners improve measurement
   and decision‑making.
+dateadded: '2022-05-28'
+duration: PT00H59M31S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=0
+  endOffset: 102
+- name: 'Introduction: Juan Orduz — mathematician and data scientist'
+  startOffset: 102
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=102
+  endOffset: 167
+- name: 'Career Path: From geometric analysis to industry data science'
+  startOffset: 167
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=167
+  endOffset: 309
+- name: Geometric Analysis Overview & connections to Bayesian sampling
+  startOffset: 309
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=309
+  endOffset: 451
+- name: 'Machine Learning in Marketing: Key use cases (acquisition, retention, NLP)'
+  startOffset: 451
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=451
+  endOffset: 618
+- name: 'Attribution Basics: Multi-channel user journeys and ambiguity'
+  startOffset: 618
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=618
+  endOffset: 816
+- name: 'Media Mix Modeling: Regression, saturation and ad-stock transformations'
+  startOffset: 816
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=816
+  endOffset: 898
+- name: 'Campaign Uplift Estimation: Time series counterfactuals and ad impact'
+  startOffset: 898
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=898
+  endOffset: 1188
+- name: 'Measuring TV & Offline Channels: Aggregated impressions and time granularity'
+  startOffset: 1188
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=1188
+  endOffset: 1249
+- name: 'Privacy Changes and Cookieless Tracking: Impact of iOS 14.5'
+  startOffset: 1249
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=1249
+  endOffset: 1384
+- name: 'Retention Modeling: Contractual vs non-contractual churn strategies'
+  startOffset: 1384
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=1384
+  endOffset: 1537
+- name: 'Purchase Frequency Modeling: Detecting unusual inactivity patterns'
+  startOffset: 1537
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=1537
+  endOffset: 1753
+- name: 'Uplift Modeling: Targeted interventions versus churn prediction'
+  startOffset: 1753
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=1753
+  endOffset: 1854
+- name: 'A/B Testing for Uplift: Control/treatment design and data pitfalls'
+  startOffset: 1854
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=1854
+  endOffset: 2124
+- name: 'Modeling Benchmarks: Start simple with baselines before complex ML'
+  startOffset: 2124
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2124
+  endOffset: 2225
+- name: 'MMM Retraining Cadence: Monthly updates and automation considerations'
+  startOffset: 2225
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2225
+  endOffset: 2302
+- name: 'Attribution Baselines: Uniform allocation and look-alike approaches'
+  startOffset: 2302
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2302
+  endOffset: 2381
+- name: 'Learning Decay Rates: Estimating channel decay with Bayesian regression'
+  startOffset: 2381
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2381
+  endOffset: 2446
+- name: 'Learning Resources: Books, courses, talks and Juan’s blog'
+  startOffset: 2446
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2446
+  endOffset: 2526
+- name: 'Bayesian vs Frequentist: When to use priors and hierarchical models'
+  startOffset: 2526
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2526
+  endOffset: 2886
+- name: 'Building a Marketing Data Function: Data integrations and infrastructure
+    first'
+  startOffset: 2886
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2886
+  endOffset: 3050
+- name: 'Cross-functional Collaboration: Analysts, engineers and marketing stakeholders'
+  startOffset: 3050
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3050
+  endOffset: 3217
+- name: 'KPI Definition: Short-term vs long-term conversion objectives'
+  startOffset: 3217
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3217
+  endOffset: 3312
+- name: 'Hard Problems in Marketing: Offline channels, data quality, creative solutions'
+  startOffset: 3312
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3312
+  endOffset: 3422
+- name: 'Marketing Domain Knowledge: Stakeholder alignment and explainability'
+  startOffset: 3422
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3422
+  endOffset: 3528
+- name: 'Find Juan Online: Blog, GitHub and contact links'
+  startOffset: 3528
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3528
+  endOffset: 3622
+- name: Closing Remarks & resource links
+  startOffset: 3622
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3622
+  endOffset: 3571
 ---
 
 Links:

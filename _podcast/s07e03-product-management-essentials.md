@@ -885,6 +885,89 @@ intro: How do you move from proofs-of-concept to scalable AI data products that 
   PM, aligning team mental models, and on‑the‑job product skill development. <br><br>
   Listen to learn actionable methods for roadmap planning, MLOps prioritization, customer
   research, and defining success metrics for AI-driven data products.
+dateadded: '2022-02-06'
+duration: PT00H59M41S
+quotableClips:
+- name: Episode Introduction & Guest Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=0
+  endOffset: 103
+- name: Career Background & Transition to AI Products
+  startOffset: 103
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=103
+  endOffset: 401
+- name: Role & Responsibilities of Data Product Managers (Internal vs External)
+  startOffset: 401
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=401
+  endOffset: 843
+- name: Customer Journey & Domain Knowledge for Data Professionals
+  startOffset: 843
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=843
+  endOffset: 1081
+- name: 'Customer Research Techniques: Interviews & Documentation'
+  startOffset: 1081
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=1081
+  endOffset: 1228
+- name: Structuring Interviews with Business Partners & the Five Whys
+  startOffset: 1228
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=1228
+  endOffset: 1400
+- name: Hypothesis Testing & Working Backwards from Business Problems
+  startOffset: 1400
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=1400
+  endOffset: 1585
+- name: Product Sense & Product Mindset Explained
+  startOffset: 1585
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=1585
+  endOffset: 1733
+- name: 'Contributing to Roadmaps: Technical Input & T‑Shirt Sizing'
+  startOffset: 1733
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=1733
+  endOffset: 1905
+- name: 'Working Backwards: Problem‑First Feature Design'
+  startOffset: 1905
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=1905
+  endOffset: 2134
+- name: 'Roadmap Types: Technical Roadmaps, MLOps & Scaling Strategies'
+  startOffset: 2134
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=2134
+  endOffset: 2341
+- name: Identifying Unscalable Manual Processes & ML Ops Prioritization
+  startOffset: 2341
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=2341
+  endOffset: 2504
+- name: 'Three‑Year Roadmap: Prioritization by Impact, Effort & Cost'
+  startOffset: 2504
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=2504
+  endOffset: 2838
+- name: 'Practical Roadmap Template in Excel: Problems → Solutions → Metrics'
+  startOffset: 2838
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=2838
+  endOffset: 3071
+- name: Success Metrics & SMART Goals for Internal Data Platforms
+  startOffset: 3071
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=3071
+  endOffset: 3207
+- name: 'Operational Metrics: Pipeline Failures, SLAs & Data Quality'
+  startOffset: 3207
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=3207
+  endOffset: 3332
+- name: 'Operating Without a PM: Identify Customers & Validate Work'
+  startOffset: 3332
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=3332
+  endOffset: 3464
+- name: Team Autonomy & Aligning Mental Models for Product Success
+  startOffset: 3464
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=3464
+  endOffset: 3522
+- name: 'Career Advice: Learn Product Skills on the Job & Follow‑up Resources'
+  startOffset: 3522
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=3522
+  endOffset: 3647
+- name: Episode Close & How to Connect with Guest
+  startOffset: 3647
+  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=3647
+  endOffset: 3581
 ---
 
 Links:

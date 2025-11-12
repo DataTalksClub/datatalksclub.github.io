@@ -969,6 +969,129 @@ transcript:
   who: Alexey
 description: 'Master building ML teams: hiring playbooks, MLOps day-two ops, and product-driven
   AI for startups—scale with T-shaped engineers, ship robust models.'
+dateadded: '2021-02-23'
+duration: PT00H58M44S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=0
+  endOffset: 126
+- name: Guest Overview & Career Snapshot
+  startOffset: 126
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=126
+  endOffset: 192
+- name: 'Early Background: Economics, Investment Banking & Early Coding'
+  startOffset: 192
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=192
+  endOffset: 263
+- name: From VBA Automation to Machine Learning Interest
+  startOffset: 263
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=263
+  endOffset: 373
+- name: 'Accenture & Big Data: Spark, MPP Databases and Early ML Projects'
+  startOffset: 373
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=373
+  endOffset: 486
+- name: 'Pivotal Experience: Production ML, DevOps Practices & Engineering Rigor'
+  startOffset: 486
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=486
+  endOffset: 560
+- name: 'MLOps Mindset: Day‑Two Operations and Model Maintenance'
+  startOffset: 560
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=560
+  endOffset: 667
+- name: Creating a Head of Data Role at Idealo
+  startOffset: 667
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=667
+  endOffset: 804
+- name: 'Team Building & Open Source: Sustainable Machine Learning Culture'
+  startOffset: 804
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=804
+  endOffset: 908
+- name: 'Axel Springer: Corporate Tech Transformation, Research & Evangelism'
+  startOffset: 908
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=908
+  endOffset: 1158
+- name: 'Career Transition: Leaving Corporate to Found a Startup'
+  startOffset: 1158
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1158
+  endOffset: 1226
+- name: 'Founding Priceloop: Technical Co‑founder and Pricing Opportunity'
+  startOffset: 1226
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1226
+  endOffset: 1399
+- name: 'Pricing Product Vision: White‑Box AI Framework for Dynamic Pricing'
+  startOffset: 1399
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1399
+  endOffset: 1492
+- name: 'Human‑Centric Pricing: Augmenting Pricing Managers, Not Replacing Them'
+  startOffset: 1492
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1492
+  endOffset: 1525
+- name: 'Early‑Stage Hiring Plan: Building a Tactical Product Team'
+  startOffset: 1525
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1525
+  endOffset: 1645
+- name: 'Open Research Strategy: Community, Open‑Source & Competitive Advantage'
+  startOffset: 1645
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1645
+  endOffset: 1737
+- name: 'Aligning Hiring with Vision: Prototype, MVP & Feature Uncertainty'
+  startOffset: 1737
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1737
+  endOffset: 1780
+- name: 'Cross‑Functional Roles: ML Engineers, Data Engineers, PMs & Designers'
+  startOffset: 1780
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1780
+  endOffset: 1839
+- name: 'Generalists First: T‑Shaped Engineers for Early Startups'
+  startOffset: 1839
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1839
+  endOffset: 2015
+- name: 'Mid‑Stage Hiring: Shifting Toward Specialists as Maturity Grows'
+  startOffset: 2015
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=2015
+  endOffset: 2243
+- name: 'Product‑Centric Culture: Customer Focus, Fast Iteration & Feedback Loops'
+  startOffset: 2243
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=2243
+  endOffset: 2371
+- name: 'Encouraging Open Source: Managerial Coaching and Leading by Example'
+  startOffset: 2371
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=2371
+  endOffset: 2607
+- name: 'Hiring Signals: CVs, Coding Skills, Math Background & Soft Skills'
+  startOffset: 2607
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=2607
+  endOffset: 2851
+- name: 'Take‑Home Assessments: Code Quality, Naming, Consistency & Detail'
+  startOffset: 2851
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=2851
+  endOffset: 2991
+- name: 'Project Prioritization: Impact vs Technical Feasibility & Fail‑Fast'
+  startOffset: 2991
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=2991
+  endOffset: 3152
+- name: 'Bootstrapping Data Teams: When to Hire Engineers Versus Analysts'
+  startOffset: 3152
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=3152
+  endOffset: 3215
+- name: 'Corporate IT in a Tech Transformation: From Central IT to DevOps'
+  startOffset: 3215
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=3215
+  endOffset: 3263
+- name: 'Retention Strategies: Competitive Pay, Interesting Work & Autonomy'
+  startOffset: 3263
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=3263
+  endOffset: 3400
+- name: 'Expectation Management: Educating Leadership on AI Capabilities'
+  startOffset: 3400
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=3400
+  endOffset: 3619
+- name: Episode Wrap‑Up & Key Takeaways
+  startOffset: 3619
+  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=3619
+  endOffset: 3524
 ---
 
 ## Books

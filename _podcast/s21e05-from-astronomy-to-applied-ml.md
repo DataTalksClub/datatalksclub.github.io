@@ -1170,6 +1170,129 @@ intro: 'How do you find rare radio-emitting stars in massive MEERKAT datasets—
   astronomical data workflows, practical machine learning readiness steps, and resources
   for learning and deployment (edge testing, LLMs, and community courses) to apply
   to radio telescope and astronomical data projects.'
+dateadded: '2025-09-30'
+duration: PT01H04M35S
+quotableClips:
+- name: Podcast Introduction & Lunar Eclipse Anecdote
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=0
+  endOffset: 73
+- name: 'Career Overview: From Nigeria to PhD in Cape Town'
+  startOffset: 73
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=73
+  endOffset: 252
+- name: 'MEERKAT and SKA: Radio Telescope Project Overview'
+  startOffset: 252
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=252
+  endOffset: 289
+- name: 'Electromagnetic Spectrum: Radio to Gamma Explained'
+  startOffset: 289
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=289
+  endOffset: 379
+- name: 'Research Goal: Identifying Radio-Emitting Stars in MEERKAT Data'
+  startOffset: 379
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=379
+  endOffset: 405
+- name: Telescope Types and Observing Constraints (Optical, Infrared, X-ray)
+  startOffset: 405
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=405
+  endOffset: 480
+- name: Radio Telescope Site Requirements and Space-based X-ray Observatories
+  startOffset: 480
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=480
+  endOffset: 639
+- name: 'Data Workflow: Detecting Point Sources in Radio Images'
+  startOffset: 639
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=639
+  endOffset: 710
+- name: Cross-matching Multi-wavelength Catalogs and Positional Astronomy
+  startOffset: 710
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=710
+  endOffset: 815
+- name: 'Positional Uncertainty: 2D Projection, Foreground/Background Confusion'
+  startOffset: 815
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=815
+  endOffset: 930
+- name: 'Physics-based Verification: Using Prior Observations to Confirm Sources'
+  startOffset: 930
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=930
+  endOffset: 995
+- name: Radio Stars Rarity and Sensitivity Improvements with New Telescopes
+  startOffset: 995
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=995
+  endOffset: 1074
+- name: Building Curated Datasets as Foundation for Future Machine Learning
+  startOffset: 1074
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=1074
+  endOffset: 1291
+- name: 'Early ML Journey: Dataset Scale, Cloud Needs, and Inspiration'
+  startOffset: 1291
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=1291
+  endOffset: 1473
+- name: 'Python Astronomy Tooling: Astropy, NumPy, SciPy for Big Data'
+  startOffset: 1473
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=1473
+  endOffset: 1547
+- name: 'Cloud Computing Practices: JupyterHub and Remote Analysis'
+  startOffset: 1547
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=1547
+  endOffset: 1618
+- name: 'ML ZoomCamp Impact: Transitioning to Reusable Code and Production Practices'
+  startOffset: 1618
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=1618
+  endOffset: 1886
+- name: 'Edge Deployment Internship: Testing Models on Intel Hardware'
+  startOffset: 1886
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=1886
+  endOffset: 2018
+- name: 'LLM Exploration: LangChain, Hugging Face, RAG and Vector Databases'
+  startOffset: 2018
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=2018
+  endOffset: 2568
+- name: 'Course Projects: Orchestration with Kestra, Airflow, MinIO and Spark'
+  startOffset: 2568
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=2568
+  endOffset: 2648
+- name: Airflow 3.0 Setup Experience and Astronomer CLI Learnings
+  startOffset: 2648
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=2648
+  endOffset: 2715
+- name: 'End-to-End Pipeline Example: MySQL → MinIO → Spark → Warehouse (dbt next)'
+  startOffset: 2715
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=2715
+  endOffset: 2859
+- name: 'AI Training Ecosystem: LangChain Academy, Arize, NVIDIA Deep Learning Institute'
+  startOffset: 2859
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=2859
+  endOffset: 3020
+- name: 'Student Benefits: Free NVIDIA Courses and Deploying on GPUs (A100/H100)'
+  startOffset: 3020
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3020
+  endOffset: 3121
+- name: 'BRICS Astronomy Bootcamp: Beginner-Friendly Data Analytics Program'
+  startOffset: 3121
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3121
+  endOffset: 3312
+- name: 'Sharing Projects: Colab Notebooks, Public Portfolios and GitHub Visibility'
+  startOffset: 3312
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3312
+  endOffset: 3479
+- name: 'Career Advice: Learn Python, Do Structured Projects, Leverage Domain Knowledge'
+  startOffset: 3479
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3479
+  endOffset: 3621
+- name: 'Tools & Sponsors: Data Load Tool for Pipelines and Community Support'
+  startOffset: 3621
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3621
+  endOffset: 3669
+- name: 'Learning Resources: Astropy Tutorials, Course GitHub and YouTube Archive'
+  startOffset: 3669
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3669
+  endOffset: 3742
+- name: 'Closing Remarks: Encouragement to Share Progress and Course Availability'
+  startOffset: 3742
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3742
+  endOffset: 3875
 ---
 
 Links:

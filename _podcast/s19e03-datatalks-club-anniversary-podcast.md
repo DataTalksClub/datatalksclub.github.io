@@ -1073,4 +1073,130 @@ transcript:
   sec: 3797
   time: '1:03:17'
   who: Johanna
+dateadded: '2024-11-08'
+duration: PT01H03M17S
+quotableClips:
+- name: Podcast Welcome & AMA Format (community links and live questions)
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=0
+  endOffset: 95
+- name: 'Host Intro: Johanna as special host'
+  startOffset: 95
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=95
+  endOffset: 149
+- name: 'Origin Story: Founding DataTalks.Club during COVID'
+  startOffset: 149
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=149
+  endOffset: 232
+- name: 'Career Shift: Transition to running DataTalks.Club full-time'
+  startOffset: 232
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=232
+  endOffset: 246
+- name: 'Financial Decision: Leaving corporate work and early sustainability'
+  startOffset: 246
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=246
+  endOffset: 307
+- name: 'Course Portfolio: Machine Learning, Data Engineering, MLOps, LLMs, Stock
+    Analytics'
+  startOffset: 307
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=307
+  endOffset: 493
+- name: 'Organic Growth: Word-of-mouth success of Data Engineering Zoomcamp'
+  startOffset: 493
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=493
+  endOffset: 562
+- name: 'Community Safety: Upwork scam awareness and moderation tips'
+  startOffset: 562
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=562
+  endOffset: 724
+- name: 'Mission: Free-to-learn education inspired by Open Data Science'
+  startOffset: 724
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=724
+  endOffset: 987
+- name: 'Community Impact: Student success stories and donations'
+  startOffset: 987
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=987
+  endOffset: 1076
+- name: 'Sponsorship Dynamics: Revenue volatility and runway management'
+  startOffset: 1076
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=1076
+  endOffset: 1214
+- name: 'Taxes & Cashflow: Prepaid tax system in Germany'
+  startOffset: 1214
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=1214
+  endOffset: 1443
+- name: 'Staying Technical: Pet projects, LLM experiments, and automated storytelling
+    pipeline'
+  startOffset: 1443
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=1443
+  endOffset: 1603
+- name: 'Product Work: Building the course platform in Django to scale courses'
+  startOffset: 1603
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=1603
+  endOffset: 1754
+- name: 'LLMs & RAG: From skepticism to launching an LLM course'
+  startOffset: 1754
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=1754
+  endOffset: 1910
+- name: 'Life Update: Reflections on full-time community work and no regrets'
+  startOffset: 1910
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=1910
+  endOffset: 2020
+- name: 'Early Validation: First event success and finding product-market fit'
+  startOffset: 2020
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2020
+  endOffset: 2197
+- name: 'Community Longevity: Active engagement, investment, and self-organization'
+  startOffset: 2197
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2197
+  endOffset: 2354
+- name: 'AI and Roles: Impact of AutoML/LLMs on data analysts and data scientists'
+  startOffset: 2354
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2354
+  endOffset: 2544
+- name: 'AI in Healthcare: Human touch versus automated assistance'
+  startOffset: 2544
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2544
+  endOffset: 2744
+- name: 'Scaling Challenges: Time investment, loneliness, and rejecting acquisition
+    offers'
+  startOffset: 2744
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2744
+  endOffset: 2882
+- name: 'Networking Benefits: Masterminds, meetups, and personal connections'
+  startOffset: 2882
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2882
+  endOffset: 2989
+- name: 'Growth Objectives: More sponsors, new courses, and instructor autonomy'
+  startOffset: 2989
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2989
+  endOffset: 3098
+- name: 'How to Help: Be a guest, mentor in Slack, and join Project of the Week'
+  startOffset: 3098
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3098
+  endOffset: 3226
+- name: 'Events Roadmap: Competitions, future hackathons, and ML course contests'
+  startOffset: 3226
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3226
+  endOffset: 3329
+- name: 'Course Schedule: Stock market analytics rerun and upcoming workshops'
+  startOffset: 3329
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3329
+  endOffset: 3401
+- name: 'Podcast Workflow: Guest research, question prep, and interview process'
+  startOffset: 3401
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3401
+  endOffset: 3527
+- name: 'Career Advice: Starting in data science now and junior hiring realities'
+  startOffset: 3527
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3527
+  endOffset: 3670
+- name: 'Personal Reads: Book recommendations and current reading'
+  startOffset: 3670
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3670
+  endOffset: 3761
+- name: Closing Remarks & Thank You
+  startOffset: 3761
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3761
+  endOffset: 3797
 ---

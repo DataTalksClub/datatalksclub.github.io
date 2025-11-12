@@ -1067,6 +1067,93 @@ intro: How do you create high‑quality NLP datasets without breaking the budget
   conversation. <br><br> Listen to learn actionable strategies for cost‑effective
   dataset creation, annotation workflows, and tool choices that speed model development
   and produce reliable training data.
+dateadded: '2022-09-09'
+duration: PT01H03M40S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=0
+  endOffset: 82
+- name: 'Episode Overview: Dataset creation, curation, and annotation'
+  startOffset: 82
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=82
+  endOffset: 144
+- name: Guest Background & Career in NLP and bio‑NLP
+  startOffset: 144
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=144
+  endOffset: 312
+- name: 'Comtura Origin: Sales call transcription and CRM integration'
+  startOffset: 312
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=312
+  endOffset: 411
+- name: 'Dataset Creation Approaches: Automated, manual, and hybrid pipelines'
+  startOffset: 411
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=411
+  endOffset: 542
+- name: 'Stakeholder Alignment: Top‑down framing to de‑risk projects'
+  startOffset: 542
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=542
+  endOffset: 939
+- name: 'Annotation Strategy: In‑house vs. crowdsourcing trade‑offs'
+  startOffset: 939
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=939
+  endOffset: 1116
+- name: 'Annotation Guidebook: Living documentation and ambiguous cases'
+  startOffset: 1116
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=1116
+  endOffset: 1257
+- name: 'Model‑Assisted Annotation: Pre‑labeling and interpretability layers'
+  startOffset: 1257
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=1257
+  endOffset: 1441
+- name: 'Expert Knowledge Capture: Mind maps and task translation for annotators'
+  startOffset: 1441
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=1441
+  endOffset: 1768
+- name: 'Human Baseline & Prototyping: Validating feasibility and business value'
+  startOffset: 1768
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=1768
+  endOffset: 2102
+- name: 'Annotation UX & Productivity: Hotkeys, interfaces, and iterative gains'
+  startOffset: 2102
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=2102
+  endOffset: 2262
+- name: 'Annotation Quality Metrics: Inter‑annotator agreement, throughput, fatigue'
+  startOffset: 2262
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=2262
+  endOffset: 2571
+- name: 'Active Learning in Practice: Expectations and typical gains'
+  startOffset: 2571
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=2571
+  endOffset: 2697
+- name: 'Distance Supervision & Weak Supervision: Labeling functions and Snorkel'
+  startOffset: 2697
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=2697
+  endOffset: 2904
+- name: 'Programmatic Heuristics: Entity/verb patterns and weak label design'
+  startOffset: 2904
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=2904
+  endOffset: 3037
+- name: 'Tooling Recommendations: Prodigy, Docanno, Label Studio, Snorkel, Rubrics'
+  startOffset: 3037
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3037
+  endOffset: 3154
+- name: 'Portfolio Advice: Building career projects via dataset creation'
+  startOffset: 3154
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3154
+  endOffset: 3438
+- name: 'Quick‑start Collection: IPython widgets and Fast.ai for beginners'
+  startOffset: 3438
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3438
+  endOffset: 3506
+- name: 'Privacy & Multilingual NLP: GDPR, anonymization, and language challenges'
+  startOffset: 3506
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3506
+  endOffset: 3820
+- name: 'Contact & Resources: Blog, company, and social links'
+  startOffset: 3820
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3820
+  endOffset: 3820
 ---
 
 Links:

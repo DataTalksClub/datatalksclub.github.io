@@ -1027,6 +1027,109 @@ intro: 'How do you scale data architecture so teams deliver value without centra
   an adoption roadmap including assessment, pilots, and executive buy-in. Listeners
   will gain concrete guidance on applying Data Mesh principles, designing data products
   and contracts, and operationalizing federated governance in their organizations.'
+dateadded: '2022-09-02'
+duration: PT00H59M55S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 144
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=144
+  endOffset: 159
+- name: Guest background & career path
+  startOffset: 159
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=159
+  endOffset: 197
+- name: 'From firmware to distributed systems: career highlights'
+  startOffset: 197
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=197
+  endOffset: 382
+- name: 'Consulting practice: building data platforms and products'
+  startOffset: 382
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=382
+  endOffset: 455
+- name: 'Enterprise data friction: long pipelines to value'
+  startOffset: 455
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=455
+  endOffset: 589
+- name: Data Mesh concept and core motivation
+  startOffset: 589
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=589
+  endOffset: 596
+- name: 'Decentralized socio-technical approach: autonomy and interoperability'
+  startOffset: 596
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=596
+  endOffset: 800
+- name: 'Architectural shift: decoupling pipelines and data contracts'
+  startOffset: 800
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=800
+  endOffset: 895
+- name: 'Mesh as a graph: interconnectivity and value exchange'
+  startOffset: 895
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=895
+  endOffset: 994
+- name: Domain-oriented ownership and team alignment
+  startOffset: 994
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=994
+  endOffset: 1030
+- name: 'Streaming example: domain producers, consumers, and schemas'
+  startOffset: 1030
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=1030
+  endOffset: 1345
+- name: 'Maturity spectrum: warehouse schemas versus loose coupling'
+  startOffset: 1345
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=1345
+  endOffset: 1578
+- name: Optimizing for humans vs machines; federated queries and compute
+  startOffset: 1578
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=1578
+  endOffset: 1865
+- name: Minimal guarantees and metadata for discoverability
+  startOffset: 1865
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=1865
+  endOffset: 1924
+- name: 'Decentralized interoperability: standard seams, identity, and auth'
+  startOffset: 1924
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=1924
+  endOffset: 2076
+- name: 'Data as a product: consumer-first guarantees and KPIs'
+  startOffset: 2076
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=2076
+  endOffset: 2376
+- name: 'Data product contracts: quality, SLAs, and ownership decisions'
+  startOffset: 2376
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=2376
+  endOffset: 2518
+- name: 'Self-serve data platform: developer experience and abstractions'
+  startOffset: 2518
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=2518
+  endOffset: 2855
+- name: 'Platform federation: multiple platforms with shared standards'
+  startOffset: 2855
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=2855
+  endOffset: 2965
+- name: 'Federated governance: policies, automation, and enforcement'
+  startOffset: 2965
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=2965
+  endOffset: 3182
+- name: 'Governance primitives: retention, metadata, and automated validation'
+  startOffset: 3182
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=3182
+  endOffset: 3288
+- name: 'Core understanding: why, what, and how of Data Mesh'
+  startOffset: 3288
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=3288
+  endOffset: 3447
+- name: 'Adoption roadmap: assessment, pilots, and executive buy-in'
+  startOffset: 3447
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=3447
+  endOffset: 3603
+- name: 'Implementations and case studies: community resources'
+  startOffset: 3603
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=3603
+  endOffset: 3717
+- name: Episode wrap-up and closing remarks
+  startOffset: 3717
+  url: https://www.youtube.com/watch?v=346N_pCtYZU&t=3717
+  endOffset: 3595
 ---
 
 Links:

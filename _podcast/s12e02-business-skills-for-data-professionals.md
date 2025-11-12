@@ -1142,6 +1142,105 @@ intro: 'How do you move data science from experiments to measurable impact in a 
   further resources and community. <br><br> Listen to gain concrete strategies for
   model deployment, marketing automation, measurement, and communicating data-driven
   outcomes in SaaS.'
+dateadded: '2022-12-17'
+duration: PT01H15S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=0
+  endOffset: 102
+- name: 'Guest Background: From Physics to Data Science'
+  startOffset: 102
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=102
+  endOffset: 165
+- name: 'Early Data Role: Research Skills Applied in a Startup'
+  startOffset: 165
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=165
+  endOffset: 291
+- name: 'Production Challenges: Deploying Models in a SaaS'
+  startOffset: 291
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=291
+  endOffset: 378
+- name: 'Marketing Automation Use Case: Recommendations & Reporting'
+  startOffset: 378
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=378
+  endOffset: 510
+- name: 'Applied Research: Reinforcement Learning to Practical Problems'
+  startOffset: 510
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=510
+  endOffset: 739
+- name: 'Semantic Alignment: Defining "Customer" and Core Metrics'
+  startOffset: 739
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=739
+  endOffset: 946
+- name: 'Lead Indicators & Stickiness: Churn and Causal Thinking'
+  startOffset: 946
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=946
+  endOffset: 1080
+- name: 'Context & Semantics: Cross-Functional Meaning in Data'
+  startOffset: 1080
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=1080
+  endOffset: 1306
+- name: 'Data Storytelling: Marketing Techniques for Memorable Communication'
+  startOffset: 1306
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=1306
+  endOffset: 1553
+- name: 'Building Trust: Active Listening and Business Literacy'
+  startOffset: 1553
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=1553
+  endOffset: 1675
+- name: 'Onboarding Strategy: Stakeholder Mapping and Prioritization'
+  startOffset: 1675
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=1675
+  endOffset: 2120
+- name: 'Stakeholder CRM: Capturing Names, Roles, and Context'
+  startOffset: 2120
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=2120
+  endOffset: 2271
+- name: 'Meeting Immersion: Learning Business Language by Attendance'
+  startOffset: 2271
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=2271
+  endOffset: 2493
+- name: 'Note Systems: Using Notion to Track Meetings and Key Activities'
+  startOffset: 2493
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=2493
+  endOffset: 2622
+- name: 'Tooling & IP Considerations: Personal Knowledge vs Company Systems'
+  startOffset: 2622
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=2622
+  endOffset: 2713
+- name: 'Prioritization: Choosing Projects by Stakeholder Impact'
+  startOffset: 2713
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=2713
+  endOffset: 2830
+- name: 'Opportunity Selection: Finding High-Connectivity Data Projects'
+  startOffset: 2830
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=2830
+  endOffset: 3061
+- name: 'Pragmatism in Tools: Excel, Pivot Tables, and Rapid Experiments'
+  startOffset: 3061
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=3061
+  endOffset: 3188
+- name: 'Conversation First: Description and Diagnostic Before ML'
+  startOffset: 3188
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=3188
+  endOffset: 3373
+- name: 'Presenting Online: Podcasting, Pauses, and Audio Practices'
+  startOffset: 3373
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=3373
+  endOffset: 3515
+- name: 'Resources: Discovering Data Podcast for Business Skills'
+  startOffset: 3515
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=3515
+  endOffset: 3633
+- name: 'Community Building: Joining the Discovering Data Discord'
+  startOffset: 3633
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=3633
+  endOffset: 3683
+- name: Episode Wrap-Up and Contact Links
+  startOffset: 3683
+  url: https://www.youtube.com/watch?v=xMYRUiTu960&t=3683
+  endOffset: 3615
 ---
 
 Links:

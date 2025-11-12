@@ -1,5 +1,6 @@
 ---
-title: 'Last-Mile Data Delivery for the Modern Data Stack: Build Data Products to Boost Adoption'
+title: 'Last-Mile Data Delivery for the Modern Data Stack: Build Data Products to
+  Boost Adoption'
 short: Conquering the Last Mile in Data
 guests:
 - caitlinmoorman
@@ -1038,6 +1039,110 @@ intro: 'How do you turn a powerful modern data stack into analytics people actua
   and using growth marketing as an early use case. <br><br> Listen to learn actionable
   frameworks and experiments you can use to improve data adoption, design usable data
   products, and measure tangible wins that create momentum in your organization.'
+dateadded: '2021-10-23'
+duration: PT01H01M58S
+quotableClips:
+- name: Episode introduction & Locally Optimistic community
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=0
+  endOffset: 280
+- name: 'Career journey: private equity to modern data stacks'
+  startOffset: 280
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=280
+  endOffset: 528
+- name: Defining the "last mile" in data delivery
+  startOffset: 528
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=528
+  endOffset: 804
+- name: Modern data stack vs last-mile execution challenges
+  startOffset: 804
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=804
+  endOffset: 1005
+- name: 'Pareto thinking for analytics: 80/20 and high-leverage work'
+  startOffset: 1005
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=1005
+  endOffset: 1202
+- name: 'Cultural barriers to adoption: incentives and behavior'
+  startOffset: 1202
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=1202
+  endOffset: 1453
+- name: 'Trust and usability: discoverability, interpretability, and data quality'
+  startOffset: 1453
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=1453
+  endOffset: 1581
+- name: 'Diagnosing poor adoption: treat data as a product and do user research'
+  startOffset: 1581
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=1581
+  endOffset: 1722
+- name: 'A/B testing reporting: simplify statistics for decision-makers'
+  startOffset: 1722
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=1722
+  endOffset: 1945
+- name: 'Product-design mindset for analytics: abstractions and personas'
+  startOffset: 1945
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=1945
+  endOffset: 2040
+- name: 'Outcome-first design: start projects from the decision you want to enable'
+  startOffset: 2040
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=2040
+  endOffset: 2295
+- name: 'Embedding data in meetings: mapping metrics to real decisions'
+  startOffset: 2295
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=2295
+  endOffset: 2372
+- name: 'Low-fidelity prototyping: sketches, whiteboards, and rapid feedback'
+  startOffset: 2372
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=2372
+  endOffset: 2478
+- name: 'Proving impact: creating measurable wins to build advocacy'
+  startOffset: 2478
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=2478
+  endOffset: 2538
+- name: 'Measuring hard-to-track work: proxies, time studies, and practical metrics'
+  startOffset: 2538
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=2538
+  endOffset: 2735
+- name: Driving change by scoping narrow slices and building momentum
+  startOffset: 2735
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=2735
+  endOffset: 2850
+- name: 'Identifying high-leverage questions: start with financials and cost centers'
+  startOffset: 2850
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=2850
+  endOffset: 2965
+- name: 'Handling resistance: recruiting advocates and selling upside'
+  startOffset: 2965
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=2965
+  endOffset: 3165
+- name: Growth marketing as a starter use case for data-driven change
+  startOffset: 3165
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=3165
+  endOffset: 3226
+- name: 'Interviewing domain experts: curiosity, rapport, and job documentation'
+  startOffset: 3226
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=3226
+  endOffset: 3335
+- name: 'Building influence: soft skills and recommended reading'
+  startOffset: 3335
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=3335
+  endOffset: 3491
+- name: 'Managing uncertainty: linear projects vs circular (exploratory) projects'
+  startOffset: 3491
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=3491
+  endOffset: 3690
+- name: 'Advice for aspiring analysts: curiosity, business impact, and on‑the‑job
+    learning'
+  startOffset: 3690
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=3690
+  endOffset: 3833
+- name: Where to find Caitlin and the Locally Optimistic community
+  startOffset: 3833
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=3833
+  endOffset: 3877
+- name: Episode wrap-up and key takeaways
+  startOffset: 3877
+  url: https://www.youtube.com/watch?v=HfMpG2zpa2I&t=3877
+  endOffset: 3718
 ---
 
 Links:

@@ -1181,6 +1181,125 @@ intro: 'How can teams scale high-quality NLP labeling without hand-labeling ever
   actionable strategies to improve NLP labeling quality, adopt weak supervision and
   GPT heuristics, and make tooling and go-to-market decisions for scalable data labeling
   and model training.'
+dateadded: '2023-04-23'
+duration: PT01H27S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=0
+  endOffset: 96
+- name: Background & early AI curiosity
+  startOffset: 96
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=96
+  endOffset: 273
+- name: 'Open-source demos overview: Refinery and Bricks'
+  startOffset: 273
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=273
+  endOffset: 393
+- name: 'Refinery features: weak supervision & labeling workflows'
+  startOffset: 393
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=393
+  endOffset: 540
+- name: Jupyter widgets gap and NLP tooling needs
+  startOffset: 540
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=540
+  endOffset: 614
+- name: 'NLP challenges: text metadata and messy labels'
+  startOffset: 614
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=614
+  endOffset: 802
+- name: ChatGPT as a labeling heuristic
+  startOffset: 802
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=802
+  endOffset: 958
+- name: 'Combining heuristics: GPT, active learning, crowd labels'
+  startOffset: 958
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=958
+  endOffset: 1054
+- name: 'Foundations: Hugging Face, embeddings, and data management'
+  startOffset: 1054
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=1054
+  endOffset: 1113
+- name: 'Bricks: heuristic library, recipes, and ensemble methods'
+  startOffset: 1113
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=1113
+  endOffset: 1188
+- name: 'Weak supervision analogy: heuristics as ensemble workers'
+  startOffset: 1188
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=1188
+  endOffset: 1222
+- name: 'Productization: consultancy to Kern and product pivot'
+  startOffset: 1222
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=1222
+  endOffset: 1440
+- name: 'Targeting engineers: control over training data'
+  startOffset: 1440
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=1440
+  endOffset: 1582
+- name: 'Choosing open source: motivations and concerns'
+  startOffset: 1582
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=1582
+  endOffset: 1691
+- name: 'Open-source trade-offs: distribution versus revenue'
+  startOffset: 1691
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=1691
+  endOffset: 1799
+- name: 'Open-source adoption: free users vs paying customers'
+  startOffset: 1799
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=1799
+  endOffset: 1907
+- name: 'Business model: open-core, multi-user SaaS, and services'
+  startOffset: 1907
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=1907
+  endOffset: 2043
+- name: 'Enterprise engagements: workshops, customization, and domain expertise'
+  startOffset: 2043
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=2043
+  endOffset: 2160
+- name: 'Community support: Discord, workarounds, and feedback loops'
+  startOffset: 2160
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=2160
+  endOffset: 2303
+- name: 'Enterprise outreach: networking and segment strategies'
+  startOffset: 2303
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=2303
+  endOffset: 2421
+- name: 'Developer-focused sales: DevRel, education, and trust-building'
+  startOffset: 2421
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=2421
+  endOffset: 2592
+- name: 'Team structure: development, developer relations, go-to-market'
+  startOffset: 2592
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=2592
+  endOffset: 2840
+- name: 'Founder role evolution: prototyping, GTM, and coding balance'
+  startOffset: 2840
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=2840
+  endOffset: 2991
+- name: 'Co-founder division: complementary strengths and responsibilities'
+  startOffset: 2991
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=2991
+  endOffset: 3160
+- name: 'Niche use cases: PDF and document NLP challenges'
+  startOffset: 3160
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=3160
+  endOffset: 3363
+- name: Open source as trust-builder with developer teams
+  startOffset: 3363
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=3363
+  endOffset: 3422
+- name: 'Fundraising recap: 2.7M raise and investor interest in open source ML'
+  startOffset: 3422
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=3422
+  endOffset: 3598
+- name: 'Recommended reading: Prediction Machines (applied AI economics)'
+  startOffset: 3598
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=3598
+  endOffset: 3675
+- name: Podcast Outro and closing remarks
+  startOffset: 3675
+  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=3675
+  endOffset: 3627
 ---
 
 Links:

@@ -1102,6 +1102,129 @@ transcript:
   sec: 3744
   time: '1:02:24'
   who: Alexey
+dateadded: '2022-04-23'
+duration: PT01H02M23S
+quotableClips:
+- name: 'Opening banter: "Father of DataOps" anecdote'
+  startOffset: 1
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1
+  endOffset: 80
+- name: Chris Bergh background and career pivot to data leadership
+  startOffset: 80
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=80
+  endOffset: 121
+- name: 'Transition: from software engineer to managing data teams; factory metaphor'
+  startOffset: 121
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=121
+  endOffset: 255
+- name: 'Factory + Agile: balancing production stability and rapid change'
+  startOffset: 255
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=255
+  endOffset: 402
+- name: 'Core targets: error reduction, deployment cycle time, and team productivity'
+  startOffset: 402
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=402
+  endOffset: 442
+- name: Data observability & monitoring for data quality and production errors
+  startOffset: 442
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=442
+  endOffset: 711
+- name: 'Production quality consequences: detecting and remediating simple failures'
+  startOffset: 711
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=711
+  endOffset: 742
+- name: 'Processes vs tools: leadership, automation, and organizational focus'
+  startOffset: 742
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=742
+  endOffset: 800
+- name: 'Naming the movement: choosing "DataOps" and the DevOps analogy'
+  startOffset: 800
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=800
+  endOffset: 1094
+- name: 'Human impact: stress, blame culture, and owning the process'
+  startOffset: 1094
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1094
+  endOffset: 1196
+- name: 'Defining "done" vs "good": readiness criteria and trade-offs'
+  startOffset: 1196
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1196
+  endOffset: 1262
+- name: 'Heroism vs feedback: early releases and customer iteration'
+  startOffset: 1262
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1262
+  endOffset: 1499
+- name: 'Two iteration loops: customer validation and data/model validity'
+  startOffset: 1499
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1499
+  endOffset: 1694
+- name: 'Optimizing value streams: breaking silos across teams and governance'
+  startOffset: 1694
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1694
+  endOffset: 1883
+- name: 'Deferred-value traps: data lake/cloud hype and postponed outcomes'
+  startOffset: 1883
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1883
+  endOffset: 2027
+- name: 'Seven practical steps for healthier data pipelines: VC, tests, CI/CD'
+  startOffset: 2027
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2027
+  endOffset: 2077
+- name: 'Runbooks to automation: move from checklists to automated playbooks'
+  startOffset: 2077
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2077
+  endOffset: 2233
+- name: 'Automation-first mindset: "code that acts on data" beyond labels'
+  startOffset: 2233
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2233
+  endOffset: 2281
+- name: 'Replaceability: handoffs, documentation, and on-call reduction'
+  startOffset: 2281
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2281
+  endOffset: 2429
+- name: 'Hairball anti-pattern: technical debt, maintainability, and refactoring'
+  startOffset: 2429
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2429
+  endOffset: 2586
+- name: 'Adoption barriers: proving systems with end-to-end testing and data'
+  startOffset: 2586
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2586
+  endOffset: 2652
+- name: Test environments & test data challenges; recommend ~15% time for process
+  startOffset: 2652
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2652
+  endOffset: 2905
+- name: 'Tooling for DataOps: dbt, Great Expectations, SQL tests, and strategies'
+  startOffset: 2905
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2905
+  endOffset: 3042
+- name: 'DataOps vs MLOps: shared DevOps principles applied to models and pipelines'
+  startOffset: 3042
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3042
+  endOffset: 3081
+- name: 'End-to-end versioning: code, models, visualizations, governance as one unit'
+  startOffset: 3081
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3081
+  endOffset: 3213
+- name: 'DataKitchen snapshot: company mission, "Head Chef" role, and team focus'
+  startOffset: 3213
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3213
+  endOffset: 3392
+- name: 'Platform overview: orchestrating environments, tests, and observability'
+  startOffset: 3392
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3392
+  endOffset: 3400
+- name: 'Market context: DataOps vendor landscape and funding trends'
+  startOffset: 3400
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3400
+  endOffset: 3627
+- name: 'Learning resources: DataOps Cookbook, manifesto, courses, and manager guide'
+  startOffset: 3627
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3627
+  endOffset: 3708
+- name: 'Closing remarks: adoption outlook and links to resources'
+  startOffset: 3708
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3708
+  endOffset: 3743
 ---
 
 Links:

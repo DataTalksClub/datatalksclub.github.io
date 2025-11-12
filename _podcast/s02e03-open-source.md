@@ -1,5 +1,6 @@
 ---
-title: 'Contribute to Open Source ML: scikit-learn Pipelines, PRs, Docs & Rasa Conversational AI'
+title: 'Contribute to Open Source ML: scikit-learn Pipelines, PRs, Docs & Rasa Conversational
+  AI'
 short: Getting Started with Open Source
 description: 'Learn open source contribution tactics for scikit-learn pipelines and
   Rasa: make solid PRs, write docs & tests, boost your OSS skills and career visibility.'
@@ -42,6 +43,104 @@ intro: 'How do you start contributing to open source ML projects like scikit-lea
   talks, blogs, and meetups. If you want actionable next steps for contributing to
   open source ML, scikit-learn pipelines, PRs, docs, or Rasa conversational AI, this
   episode maps the path.'
+dateadded: '2021-02-23'
+quotableClips:
+- name: Podcast Introduction and Episode Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=0
+  endOffset: 70
+- name: 'Guest Background: From Design Student to Data Scientist'
+  startOffset: 70
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=70
+  endOffset: 260
+- name: 'Career Pivot: Teaching, Consulting, and Early AI Courses'
+  startOffset: 260
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=260
+  endOffset: 370
+- name: 'Role Explained: Research Advocate Responsibilities'
+  startOffset: 370
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=370
+  endOffset: 480
+- name: 'Company Overview: Rasa''s Open Source Conversational AI'
+  startOffset: 480
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=480
+  endOffset: 570
+- name: 'Defining Open Source: Pragmatism and Community Reciprocity'
+  startOffset: 570
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=570
+  endOffset: 705
+- name: 'Common Mistakes: Publishing to PyPI Prematurely'
+  startOffset: 705
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=705
+  endOffset: 790
+- name: 'Origin Stories: How Small Tools and Curiosity Spark Projects'
+  startOffset: 790
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=790
+  endOffset: 900
+- name: 'Project Showcase: evol, clumper, memo, whatlies, scikit-lego'
+  startOffset: 900
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=900
+  endOffset: 1035
+- name: 'scikit-lego Deep Dive: scikit-learn–Compatible Pipeline Components'
+  startOffset: 1035
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=1035
+  endOffset: 1140
+- name: 'Design Principles: Low-Maintenance APIs and Ecosystem Compatibility'
+  startOffset: 1140
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=1140
+  endOffset: 1230
+- name: 'Creative Naming: Purpose-Driven Project Names and Team Energy'
+  startOffset: 1230
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=1230
+  endOffset: 1340
+- name: 'Documentation Checklist: README, Guides, API Reference, Examples'
+  startOffset: 1340
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=1340
+  endOffset: 1450
+- name: 'Community Stewardship: Contribution Guides and Polite Interaction'
+  startOffset: 1450
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=1450
+  endOffset: 1550
+- name: 'First Contributions: Filing Reproducible Issues and Small Fixes'
+  startOffset: 1550
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=1550
+  endOffset: 1660
+- name: 'Preparing Code PRs: Testing, CI, Packaging, and Pre-commit Hooks'
+  startOffset: 1660
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=1660
+  endOffset: 1770
+- name: 'Finding the Right Project: Large vs. Small Repositories Strategy'
+  startOffset: 1770
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=1770
+  endOffset: 1870
+- name: 'Productivity Tips: Designing Before Coding and Time Management'
+  startOffset: 1870
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=1870
+  endOffset: 1960
+- name: 'Employer OSS Strategy: Hiring, Branding, and Legal Considerations'
+  startOffset: 1960
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=1960
+  endOffset: 2040
+- name: 'Career Growth: Talks, Blogs, Meetups, and OSS Visibility'
+  startOffset: 2040
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=2040
+  endOffset: 2130
+- name: 'Translating Research to Practice: Tools, Prototypes, and Byproducts'
+  startOffset: 2130
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=2130
+  endOffset: 2200
+- name: 'Future Focus: Building Personal Automation with Rasa'
+  startOffset: 2200
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=2200
+  endOffset: 2250
+- name: 'Resources: calmcode.io, Project Repositories, and Contribution Paths'
+  startOffset: 2250
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=2250
+  endOffset: 2280
+- name: Episode Wrap-Up and Final Advice for New Contributors
+  startOffset: 2280
+  url: https://www.youtube.com/watch?v=IxV9EH-tphQ&t=2280
+  endOffset: 2280
 ---
 
 Today we're talking open source with our guest, **Vincent Warmerdam**. Vincent is a Research Advocate at Rasa. If you check his LinkedIn, you'll see a lot: he's made Reddit's front page, runs calmcode.io for learning to code, has organized PyData Amsterdam and AI Saturdays Amsterdam, and he's a data evangelist and open-source enthusiast who's created and maintains several open-source packages. And—last but not least—he has over 80 LinkedIn endorsements for "awesomeness." Welcome, Vincent!

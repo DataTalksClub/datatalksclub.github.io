@@ -1295,6 +1295,116 @@ intro: How do you prioritize data product work, validate models in production, a
   — plus pragmatic dashboarding and alerting patterns. Listeners will come away with
   actionable guidance on prioritization, designing A/B tests, model monitoring, stakeholder
   engagement, and the estimation and cadence practices that make ML teams productive.
+dateadded: '2023-10-29'
+duration: PT01H14S
+quotableClips:
+- name: Episode introduction & guest Ioannis Mesionis (EasyJet lead data scientist)
+  startOffset: 100
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=100
+  endOffset: 154
+- name: Career origin & early projects (mathematics degree, master's, internship model)
+  startOffset: 154
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=154
+  endOffset: 443
+- name: 'Lead Data Scientist role: partnering with Digital Customer & Marketing'
+  startOffset: 443
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=443
+  endOffset: 512
+- name: 'Stakeholder collaboration: weekly embedded meetings and observation'
+  startOffset: 512
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=512
+  endOffset: 675
+- name: 'Business domain knowledge: PPC, SEO, keywords and conversion optimization'
+  startOffset: 675
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=675
+  endOffset: 840
+- name: 'Operating model for data products: four-phase funnel and accountability'
+  startOffset: 840
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=840
+  endOffset: 923
+- name: 'Project intake & prioritization: "single front door" and cross-functional
+    kickoff'
+  startOffset: 923
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=923
+  endOffset: 1057
+- name: 'Definition of Done: template, KPIs, success criteria and fail‑fast checks'
+  startOffset: 1057
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=1057
+  endOffset: 1254
+- name: 'Inception & EDA: data access, GDPR considerations and feasibility assessment'
+  startOffset: 1254
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=1254
+  endOffset: 1272
+- name: 'Data science vs analytics: choosing technical approach and leads'
+  startOffset: 1272
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=1272
+  endOffset: 1368
+- name: 'Research & development: modeling work, sprint planning and Kanban usage'
+  startOffset: 1368
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=1368
+  endOffset: 1517
+- name: 'Pilot & A/B testing: validating models against baseline KPIs and feedback
+    loops'
+  startOffset: 1517
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=1517
+  endOffset: 1645
+- name: 'Production rollout: spectrum of production and evolving MLOps capabilities'
+  startOffset: 1645
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=1645
+  endOffset: 1698
+- name: 'Organizational structure: domain-focused lead data scientists (scheduling,
+    ops, pricing)'
+  startOffset: 1698
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=1698
+  endOffset: 1821
+- name: 'Handling uncertainty in ML: MVPs, estimation practices and Kanban preference'
+  startOffset: 1821
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=1821
+  endOffset: 2138
+- name: 'Sprint cadence: planning, stand-ups, bi‑weekly demos and stakeholder demos'
+  startOffset: 2138
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=2138
+  endOffset: 2297
+- name: 'Estimation techniques: T-shirt sizing, Planning Poker and Fibonacci points'
+  startOffset: 2297
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=2297
+  endOffset: 2449
+- name: 'Stakeholder engagement strategy: invite to demos, not daily stand-ups'
+  startOffset: 2449
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=2449
+  endOffset: 2493
+- name: 'Communicating technical results: simplifying concepts for non‑technical audiences'
+  startOffset: 2493
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=2493
+  endOffset: 2710
+- name: 'Developing soft skills: practice, analogies, feedback and ChatGPT as a helper'
+  startOffset: 2710
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=2710
+  endOffset: 2918
+- name: 'MLOps Zoomcamp takeaways: motivation for hands‑on MLOps learning'
+  startOffset: 2918
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=2918
+  endOffset: 2950
+- name: 'MLOps tooling overview: MLflow, Prefect, Airflow and engineering exposure'
+  startOffset: 2950
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=2950
+  endOffset: 3213
+- name: 'Model monitoring with Evidently: drift detection and integration plans'
+  startOffset: 3213
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=3213
+  endOffset: 3311
+- name: 'Monitoring dashboards & alerts: Tableau quick solutions and custom emails'
+  startOffset: 3311
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=3311
+  endOffset: 3429
+- name: 'Recommended resources: Cassie Kozyrkov (Decision Intelligence) and textbooks'
+  startOffset: 3429
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=3429
+  endOffset: 3660
+- name: 'Closing remarks & contact: LinkedIn follow‑ups and final thoughts'
+  startOffset: 3660
+  url: https://www.youtube.com/watch?v=1pExOVuCF8Q&t=3660
+  endOffset: 3614
 ---
 
 Links:

@@ -1056,6 +1056,129 @@ transcript:
   who: Juan Pablo
 description: 'Discover data analytics: build a portfolio, master SQL & networking,
   interview prep, cold outreach and project READMEs to land job offers faster.'
+dateadded: '2022-03-19'
+duration: PT01H03M20S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=0
+  endOffset: 111
+- name: 'Background & Motivation: Math Graduate to Data Analytics'
+  startOffset: 111
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=111
+  endOffset: 197
+- name: 'Early Roles & Mentoring: Consulting, T-Mobile, Amazon Path'
+  startOffset: 197
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=197
+  endOffset: 246
+- name: 'Community & Resources: Amplifying Learning Platforms'
+  startOffset: 246
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=246
+  endOffset: 325
+- name: Math Foundations & Machine Learning Relevance
+  startOffset: 325
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=325
+  endOffset: 504
+- name: 'Transition Path: Biostatistics, R, SAS and Discovering SQL'
+  startOffset: 504
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=504
+  endOffset: 787
+- name: 'Bootcamp Trade-offs: Cost, Network and a Nine-Month Job Search'
+  startOffset: 787
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=787
+  endOffset: 972
+- name: 'Networking Wins: Meetups Leading to First Offer'
+  startOffset: 972
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=972
+  endOffset: 1110
+- name: 'Building Credibility: Employer Brand & Social Proof'
+  startOffset: 1110
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=1110
+  endOffset: 1217
+- name: 'Uncrowded Doors: Alternative Job‑Hunting Strategies'
+  startOffset: 1217
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=1217
+  endOffset: 1286
+- name: 'LinkedIn Tactics: Active Posting, Commenting & Visibility'
+  startOffset: 1286
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=1286
+  endOffset: 1427
+- name: 'Resume Readiness: Quick Sharing and On-the-Spot Opportunities'
+  startOffset: 1427
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=1427
+  endOffset: 1463
+- name: 'Portfolio Essentials: rpubs, EDA, Visualizations & Basic ML'
+  startOffset: 1463
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=1463
+  endOffset: 1599
+- name: 'Portfolio Strategy: Three Projects and Publicizing Work'
+  startOffset: 1599
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=1599
+  endOffset: 1699
+- name: 'Meetup Tactics: Spotting and Approaching Hiring Managers'
+  startOffset: 1699
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=1699
+  endOffset: 1947
+- name: 'Cold Outreach & DIY Internships: 200 Messages and Trial Offers'
+  startOffset: 1947
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=1947
+  endOffset: 2106
+- name: 'Finding Contract Work: Dice, Recruiter Calls and Freelance Tradeoffs'
+  startOffset: 2106
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=2106
+  endOffset: 2292
+- name: 'Pro Bono & Nonprofit Projects: Catchafire for Real Experience'
+  startOffset: 2292
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=2292
+  endOffset: 2512
+- name: 'Messaging Strategy: Personalization, Alumni Hooks & Templates'
+  startOffset: 2512
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=2512
+  endOffset: 2666
+- name: 'Consistency & Visibility: Posting Frequency and the Algorithm'
+  startOffset: 2666
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=2666
+  endOffset: 2718
+- name: 'Portfolio Hosting Options: Zyro, GitHub, WordPress, Hashnode'
+  startOffset: 2718
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=2718
+  endOffset: 2899
+- name: 'Project Presentation: Clean README, Docs and Repo Organization'
+  startOffset: 2899
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=2899
+  endOffset: 2974
+- name: 'Skills Roadmap & Interview Prep: SQL, Python, Visualization'
+  startOffset: 2974
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=2974
+  endOffset: 3171
+- name: 'Role Realities: BI / Analytics Engineer Work at Amazon'
+  startOffset: 3171
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=3171
+  endOffset: 3362
+- name: 'Career Advice: Consistency, Soft Skills and STAR Format'
+  startOffset: 3362
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=3362
+  endOffset: 3475
+- name: 'Online Networking: Hopin Random Date & Virtual Meetups'
+  startOffset: 3475
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=3475
+  endOffset: 3599
+- name: 'Communicating Impact: Summarizing Projects for Hiring Managers'
+  startOffset: 3599
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=3599
+  endOffset: 3666
+- name: 'Project Hygiene: Version Control and Shared Repositories'
+  startOffset: 3666
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=3666
+  endOffset: 3751
+- name: Personal Branding & Contact Info
+  startOffset: 3751
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=3751
+  endOffset: 3793
+- name: Episode Closing
+  startOffset: 3793
+  url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=3793
+  endOffset: 3800
 ---
 
 Links:

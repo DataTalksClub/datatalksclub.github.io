@@ -1216,6 +1216,101 @@ intro: 'How do you hire, manage, and grow a high-impact data science team inside
   For leaders, Katie covers prioritization, raising data literacy, and fostering a
   data-driven culture. Listen to get actionable guidance on hiring data scientists,
   onboarding newcomers, developing senior talent, and scaling data teams in B2B SaaS.'
+dateadded: '2022-10-15'
+duration: PT00H58M40S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=0
+  endOffset: 93
+- name: 'Introduction: Episode focus on data science career development (Katie Bauer)'
+  startOffset: 93
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=93
+  endOffset: 147
+- name: 'Career trajectory: linguistics to data science; Reddit and Twitter experience'
+  startOffset: 147
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=147
+  endOffset: 276
+- name: GlossGenius product and head of data responsibilities (B2B SaaS)
+  startOffset: 276
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=276
+  endOffset: 382
+- name: 'Current hiring needs: product analysts, analytics engineers, marketing scientists'
+  startOffset: 382
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=382
+  endOffset: 428
+- name: 'Data scientist role: broad definition and varied responsibilities'
+  startOffset: 428
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=428
+  endOffset: 513
+- name: 'Data science manager: building teams, matrix orgs, and cross-functional work'
+  startOffset: 513
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=513
+  endOffset: 718
+- name: 'Craft quality: maintainability, documentation, peer review for analytics'
+  startOffset: 718
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=718
+  endOffset: 912
+- name: 'Career framework: junior vs senior and the “terminal” career level'
+  startOffset: 912
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=912
+  endOffset: 1130
+- name: 'Senior growth: abstraction, leadership exposure, and delegation'
+  startOffset: 1130
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=1130
+  endOffset: 1554
+- name: 'IC vs management: trying people leadership and the IC–manager pendulum'
+  startOffset: 1554
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=1554
+  endOffset: 1810
+- name: 'Managing juniors: mentorship, skills training, and project-based learning'
+  startOffset: 1810
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=1810
+  endOffset: 2056
+- name: 'Stakeholder conversations: talking to PMs and senior leaders (prep & questions)'
+  startOffset: 2056
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=2056
+  endOffset: 2342
+- name: 'Junior development: practice, exposure, and avoiding early specialization'
+  startOffset: 2342
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=2342
+  endOffset: 2412
+- name: 'Hiring juniors: build vs buy, long-term org benefits, and succession'
+  startOffset: 2412
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=2412
+  endOffset: 2679
+- name: 'Hiring managers: evaluation criteria for data science manager roles'
+  startOffset: 2679
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=2679
+  endOffset: 2841
+- name: 'Strategy assessment: case studies, trade-offs, and measurement in interviews'
+  startOffset: 2841
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=2841
+  endOffset: 3021
+- name: 'Entry-level hiring tips: standing out, outreach, and interview preparation'
+  startOffset: 3021
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3021
+  endOffset: 3163
+- name: 'Onboarding first month: proactive communication and asking for help'
+  startOffset: 3163
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3163
+  endOffset: 3251
+- name: 'Support mechanisms: regular check-ins, rubber‑duck channels, async help'
+  startOffset: 3251
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3251
+  endOffset: 3380
+- name: 'Head of data challenges: prioritization, data literacy, and culture building'
+  startOffset: 3380
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3380
+  endOffset: 3549
+- name: 'Closing advice: careers as direction and guiding team growth'
+  startOffset: 3549
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3549
+  endOffset: 3613
+- name: Episode wrap and contact information
+  startOffset: 3613
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3613
+  endOffset: 3520
 ---
 
 Links:

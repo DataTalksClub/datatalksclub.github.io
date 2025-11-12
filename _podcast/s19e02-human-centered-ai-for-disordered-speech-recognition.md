@@ -809,6 +809,121 @@ intro: 'How can automatic speech recognition (ASR) systems reliably understand d
   NLP, this episode offers concrete technical strategies and ethical considerations
   for building personalized, multimodal ASR systems that better serve people with
   speech disorders.'
+dateadded: '2024-10-10'
+duration: PT00H57M19S
+quotableClips:
+- name: 'Episode Introduction: Human‑Centered AI for Disordered Speech'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=0
+  endOffset: 486
+- name: Guest Introduction & Career Highlights (Katarzyna Foremniak)
+  startOffset: 486
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=486
+  endOffset: 546
+- name: 'From Linguistics to Computational Linguistics: Transition & Skills'
+  startOffset: 546
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=546
+  endOffset: 802
+- name: 'Linguistics Meets Computer Science: Data‑driven Approaches'
+  startOffset: 802
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=802
+  endOffset: 925
+- name: 'Phonetics & Morpho‑syntax Explained: Core Concepts for ASR'
+  startOffset: 925
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=925
+  endOffset: 1233
+- name: 'Phonetics and Speech Disorders: Articulation, Fluency, Voice Quality'
+  startOffset: 1233
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=1233
+  endOffset: 1399
+- name: 'Accents vs Speech Disorders: Variation, Identity, and Comprehension'
+  startOffset: 1399
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=1399
+  endOffset: 1481
+- name: 'ASR Progress: Modern Models (Whisper) and Improved Accent Handling'
+  startOffset: 1481
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=1481
+  endOffset: 1651
+- name: 'ASR Fundamentals: Standard Speech Datasets and Reference Speech'
+  startOffset: 1651
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=1651
+  endOffset: 1824
+- name: 'ASR Limitations with Atypical Speech: Training/Deployment Gaps'
+  startOffset: 1824
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=1824
+  endOffset: 1853
+- name: 'Strategies for Disordered Speech Recognition: Specialized Datasets & Adaptation'
+  startOffset: 1853
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=1853
+  endOffset: 2227
+- name: 'Data Augmentation for Disordered Speech: Synthetic Variations'
+  startOffset: 2227
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2227
+  endOffset: 2253
+- name: 'Multimodal ASR: Integrating Lip‑reading and Visual Cues'
+  startOffset: 2253
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2253
+  endOffset: 2417
+- name: 'Transfer Learning for ASR: Fine‑tuning with Limited Data'
+  startOffset: 2417
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2417
+  endOffset: 2470
+- name: 'Data Collection Challenges: GDPR, Clinical Data, Language Coverage'
+  startOffset: 2470
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2470
+  endOffset: 2538
+- name: 'Language & Dialect Effects: Bilingualism and Disorder Variability'
+  startOffset: 2538
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2538
+  endOffset: 2671
+- name: 'Stammering & Fluency Issues: Characteristics and Recognition Needs'
+  startOffset: 2671
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2671
+  endOffset: 2716
+- name: 'Pronunciation Challenges: Polish Consonant Clusters and Phonetics'
+  startOffset: 2716
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2716
+  endOffset: 2777
+- name: 'Practical Transcription Workflow: Amazon Transcribe + LLM Post‑processing'
+  startOffset: 2777
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2777
+  endOffset: 2848
+- name: 'Contextual Language Models in ASR: Meaning Preservation vs WER'
+  startOffset: 2848
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2848
+  endOffset: 3087
+- name: 'Utterance Analysis in ASR: Phonemes, Words, and Contextual Prediction'
+  startOffset: 3087
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3087
+  endOffset: 3245
+- name: 'Personalized ASR: User Adaptation, Fine‑tuning, and On‑device Setup'
+  startOffset: 3245
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3245
+  endOffset: 3480
+- name: 'Assistive Applications: Communication Tools for People with Disorders'
+  startOffset: 3480
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3480
+  endOffset: 3602
+- name: 'Model Size & Deployment Constraints: Mobile and Edge Considerations'
+  startOffset: 3602
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3602
+  endOffset: 3713
+- name: 'In‑Car Voice Recognition: Automotive Use Cases and Limitations'
+  startOffset: 3713
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3713
+  endOffset: 3807
+- name: 'Notable Failure Examples: Elevator/Car Voice Recognition Humor'
+  startOffset: 3807
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3807
+  endOffset: 3853
+- name: 'Closing Reflections: Human‑Centered AI Priorities & Further Reading'
+  startOffset: 3853
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3853
+  endOffset: 3925
+- name: Episode Sign‑off and Guest Thanks
+  startOffset: 3925
+  url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3925
+  endOffset: 3439
 ---
 
 Links:

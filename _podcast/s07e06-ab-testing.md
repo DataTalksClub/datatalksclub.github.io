@@ -1009,4 +1009,91 @@ transcript:
   sec: 3880
   time: '1:04:40'
   who: Alexey
+dateadded: '2022-02-27'
+duration: PT01H03M37S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=0
+  endOffset: 63
+- name: Guest Background & Career Transition to Data Science
+  startOffset: 63
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=63
+  endOffset: 311
+- name: 'Econometrics to Product Analytics: Causality Emphasis'
+  startOffset: 311
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=311
+  endOffset: 493
+- name: 'A/B Testing Explained: Clinical Trials Analogy & Randomization'
+  startOffset: 493
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=493
+  endOffset: 708
+- name: 'Experimentation Purpose: Establishing Causality & Controlling Noise'
+  startOffset: 708
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=708
+  endOffset: 867
+- name: 'Case Study: Subscription vs Points — Revenue Metric Design'
+  startOffset: 867
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=867
+  endOffset: 1086
+- name: De-risking Features & Building Organizational Learning with Experiments
+  startOffset: 1086
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=1086
+  endOffset: 1434
+- name: 'Experimentation Platform Choices: Third-Party vs In-House'
+  startOffset: 1434
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=1434
+  endOffset: 1484
+- name: Traffic Splitter Implementation, Assignment Tracking & Monitoring
+  startOffset: 1484
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=1484
+  endOffset: 1672
+- name: 'A/A Testing: Validating Randomization and System Trust'
+  startOffset: 1672
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=1672
+  endOffset: 1805
+- name: 'First Test Best Practices: Two-Group Design & Simplicity'
+  startOffset: 1805
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=1805
+  endOffset: 2003
+- name: 'Metric Selection: Noise, Stability, Seasonality & Business Cycles'
+  startOffset: 2003
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=2003
+  endOffset: 2264
+- name: 'Test Duration & Power Analysis: Sample Size Planning'
+  startOffset: 2264
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=2264
+  endOffset: 2423
+- name: 'Statistical Tests Overview: Z-test, T-test, and Nonparametric Options'
+  startOffset: 2423
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=2423
+  endOffset: 2679
+- name: 'Data Distribution Checks: Histograms, Tails, and Visualization'
+  startOffset: 2679
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=2679
+  endOffset: 2864
+- name: 'P-value Intuition: Explaining Significance via A/A Comparison'
+  startOffset: 2864
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=2864
+  endOffset: 3115
+- name: 'Frequentist vs Bayesian Testing: Credible Intervals, Priors & Costs'
+  startOffset: 3115
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=3115
+  endOffset: 3548
+- name: 'Multi-armed Tests (A/B/C/D): Duration, Power, and Multiple Comparisons'
+  startOffset: 3548
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=3548
+  endOffset: 3772
+- name: Practical Experimentation Tips & Analogies (Pizza Dough)
+  startOffset: 3772
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=3772
+  endOffset: 3839
+- name: Hiring, Resources & Contact Information
+  startOffset: 3839
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=3839
+  endOffset: 3880
+- name: Episode Wrap-up and Key Takeaways
+  startOffset: 3880
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=3880
+  endOffset: 3817
 ---

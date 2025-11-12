@@ -1046,6 +1046,105 @@ intro: How do you turn prototype AI into reliable production systems that stakeh
   Cursor versus GitHub Copilot. <br><br> Listen for concrete testing practices, prompt
   optimization techniques (caching and compression), and tool recommendations you
   can apply to increase model reliability and reduce production risk.
+dateadded: '2025-03-26'
+duration: PT01H01M37S
+quotableClips:
+- name: Episode Opening & Guest Overview (Data Intensive AI)
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=0
+  endOffset: 122
+- name: Book Contribution Clarified & Testing Focus
+  startOffset: 122
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=122
+  endOffset: 240
+- name: 'Career Path: Java → Data Engineering → AI Engineering'
+  startOffset: 240
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=240
+  endOffset: 364
+- name: 'Publishing Routine: Blogging Frequency & Content Practice'
+  startOffset: 364
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=364
+  endOffset: 545
+- name: 'Data Trust: Why Testing Prevents "This Number Doesn’t Look Correct"'
+  startOffset: 545
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=545
+  endOffset: 707
+- name: 'Test Strategy for Data Pipelines: Snapshot & Integration Testing'
+  startOffset: 707
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=707
+  endOffset: 794
+- name: 'Testing Tools: Great Expectations, Soda, SQL Tests vs Spark Tests'
+  startOffset: 794
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=794
+  endOffset: 1030
+- name: 'Technology Choice: When to Use Apache Spark'
+  startOffset: 1030
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=1030
+  endOffset: 1118
+- name: 'Data Engineering’s Role in AI: Preprocessing & Fine-Tuning Data'
+  startOffset: 1118
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=1118
+  endOffset: 1306
+- name: 'Invisible AI Use Cases: Augmented Generation & Review Analysis'
+  startOffset: 1306
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=1306
+  endOffset: 1513
+- name: 'Prompt Engineering Basics: In-Context Learning & Examples'
+  startOffset: 1513
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=1513
+  endOffset: 1696
+- name: 'Prompt Evaluation: Formatting, Examples, and Cost Tradeoffs'
+  startOffset: 1696
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=1696
+  endOffset: 1800
+- name: 'Prompt Compression: Token Optimization Techniques'
+  startOffset: 1800
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=1800
+  endOffset: 1905
+- name: Prompt Caching & Model Efficiency (attention caching, Claude)
+  startOffset: 1905
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=1905
+  endOffset: 2022
+- name: Open-Source Models & Tools Experience (DeepSeek, Perplexity)
+  startOffset: 2022
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=2022
+  endOffset: 2154
+- name: 'AI for Lead Scoring: LinkedIn Automation & Qualification'
+  startOffset: 2154
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=2154
+  endOffset: 2464
+- name: 'Chrome Extension Architecture: Backend AI Integration Pattern'
+  startOffset: 2464
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=2464
+  endOffset: 2525
+- name: 'Coding Assistants: Cursor Workflow & Productivity Boosts'
+  startOffset: 2525
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=2525
+  endOffset: 2678
+- name: 'Code AI Comparison: Cursor vs GitHub Copilot & Alternatives'
+  startOffset: 2678
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=2678
+  endOffset: 2839
+- name: 'Search-Focused Assistants: Using Perplexity & Tool Selection'
+  startOffset: 2839
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=2839
+  endOffset: 3129
+- name: 'Website Hosting: Static Site Generators & GitHub Pages'
+  startOffset: 3129
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=3129
+  endOffset: 3190
+- name: 'Blogging as Business: Attracting Clients & Teaching Workshops'
+  startOffset: 3190
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=3190
+  endOffset: 3377
+- name: 'AI-Assisted Writing: Drafting, Rewriting, and Maintaining Voice'
+  startOffset: 3377
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=3377
+  endOffset: 3621
+- name: Episode Wrap-Up & Guest Resources (blog link invitation)
+  startOffset: 3621
+  url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=3621
+  endOffset: 3697
 ---
 
 Links:

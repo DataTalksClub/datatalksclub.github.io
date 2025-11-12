@@ -875,6 +875,133 @@ intro: How do you build a sustainable scikit-learn ecosystem that serves both us
   and consulting. Tune in to learn concrete strategies for building, funding, and
   scaling scikit-learn-compatible tools and communities without sacrificing long-term
   sustainability.
+dateadded: '2024-05-06'
+duration: PT01H15S
+quotableClips:
+- name: Episode Overview — Open Source Focus
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=0
+  endOffset: 100
+- name: Guest Reintroduction & Vincent’s Open Source Profile
+  startOffset: 100
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=100
+  endOffset: 240
+- name: Early Community Work & PyLadies Code Sprint
+  startOffset: 240
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=240
+  endOffset: 259
+- name: Scikit Lego Origin, Adoption, and Career Impact
+  startOffset: 259
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=259
+  endOffset: 363
+- name: 'Career Path: Econometrics → DevRel → Core Engineering'
+  startOffset: 363
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=363
+  endOffset: 513
+- name: 'Company Naming: Why :probabl. Is Separate from Scikit-Learn'
+  startOffset: 513
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=513
+  endOffset: 628
+- name: Scikit-Learn Governance, NumFOCUS, and Project History
+  startOffset: 628
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=628
+  endOffset: 841
+- name: 'Ecosystem Strategy: Plugins vs. Core Scikit-Learn Features'
+  startOffset: 841
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=841
+  endOffset: 1003
+- name: Scikit Lego in Corporate Training and Contributor Growth
+  startOffset: 1003
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=1003
+  endOffset: 1091
+- name: 'Maintainer Transition: Finding Sustainable Project Stewards'
+  startOffset: 1091
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=1091
+  endOffset: 1311
+- name: Motivating Volunteer Maintainers and Keeping Projects Fun
+  startOffset: 1311
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=1311
+  endOffset: 1409
+- name: 'Demonstrating Quality: Open Source Work as a Hiring Signal'
+  startOffset: 1409
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=1409
+  endOffset: 1546
+- name: 'Calm Code Philosophy: Practical, Low-Pressure Learning'
+  startOffset: 1546
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=1546
+  endOffset: 1644
+- name: 'Content Production: Videos, Scale, and Communication Practice'
+  startOffset: 1644
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=1644
+  endOffset: 1770
+- name: 'Calm Code Platform: Django, Monetization, and Hiring Contributors'
+  startOffset: 1770
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=1770
+  endOffset: 1902
+- name: 'CI and Cost Optimization: Custom Runners and GitHub Actions'
+  startOffset: 1902
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=1902
+  endOffset: 1946
+- name: 'Sustainable Compute Examples: Leaf.cloud and Environmental Impact'
+  startOffset: 1946
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=1946
+  endOffset: 2069
+- name: 'Teaching Fundamentals: Docker, pip, and Git Challenges for Beginners'
+  startOffset: 2069
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=2069
+  endOffset: 2136
+- name: 'Conceptual Learning: Mindset Over Commands for Tooling'
+  startOffset: 2136
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=2136
+  endOffset: 2302
+- name: Combining DevRel and Core Development Responsibilities
+  startOffset: 2302
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=2302
+  endOffset: 2481
+- name: 'Role Definition: Developer Relations Engineer at :probabl.'
+  startOffset: 2481
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=2481
+  endOffset: 2540
+- name: Enhancing Scikit-Learn with Interactive Content and Videos
+  startOffset: 2540
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=2540
+  endOffset: 2670
+- name: 'Deep Dive Example: Why the Standard Scaler Is Complex'
+  startOffset: 2670
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=2670
+  endOffset: 2911
+- name: 'Skrub Overview: Table Vectorizer and Pragmatic Tabular Defaults'
+  startOffset: 2911
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=2911
+  endOffset: 3027
+- name: 'Skrub GAP Encoder: Clustering Dirty Categories to Avoid One-Hot Explosion'
+  startOffset: 3027
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=3027
+  endOffset: 3227
+- name: 'Why Form a Company for Scikit-Learn: Funding and European Tech Goals'
+  startOffset: 3227
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=3227
+  endOffset: 3379
+- name: 'Potential Business Models: Training, Consulting, and Partnerships'
+  startOffset: 3379
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=3379
+  endOffset: 3454
+- name: 'Upcoming Work: Calm Code Book on Expectations vs. Reality in Data'
+  startOffset: 3454
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=3454
+  endOffset: 3497
+- name: 'Live Experiments: Converting Tree Models to SQL and Streaming Work'
+  startOffset: 3497
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=3497
+  endOffset: 3627
+- name: 'Live Stream Format: Preparation, Live Coding, and Demos'
+  startOffset: 3627
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=3627
+  endOffset: 3675
+- name: Episode Closing and Final Remarks
+  startOffset: 3675
+  url: https://www.youtube.com/watch?v=UPlIETGwTg8&t=3675
+  endOffset: 3615
 ---
 
 Links:

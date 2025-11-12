@@ -780,6 +780,117 @@ intro: 'How do you actually get a data engineering job today — and which skill
   increase your chances of landing a data engineering role.'
 description: 'Master data engineering job prep: Python, SQL tips, portfolio strategy,
   interview formats and job search tactics to land offers faster. quick wins'
+dateadded: '2022-06-10'
+duration: PT00H48M02S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=0
+  endOffset: 36
+- name: 'Webinar Recap: Hiring Demand and Skill Gaps'
+  startOffset: 36
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=36
+  endOffset: 80
+- name: 'Core Skills & Tools: Python, SQL, Docker, Airflow, Data Warehouses'
+  startOffset: 80
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=80
+  endOffset: 109
+- name: 'Python & SQL Depth: Project Volume and Emphasis'
+  startOffset: 109
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=109
+  endOffset: 142
+- name: 'Code Quality & OOP: Small Functions, Classes, Tests'
+  startOffset: 142
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=142
+  endOffset: 166
+- name: 'Portfolio Strategy: Personal Projects and Open Source Contributions'
+  startOffset: 166
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=166
+  endOffset: 218
+- name: 'Application Funnel: LinkedIn, Resume, and Interview Stages'
+  startOffset: 218
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=218
+  endOffset: 315
+- name: 'Behavioral Interview Best Practices: Positivity, Structure, Motivation'
+  startOffset: 315
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=315
+  endOffset: 466
+- name: 'Technical Interview Formats: SQL LeetCode, Python Problems, Take-Home Projects'
+  startOffset: 466
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=466
+  endOffset: 581
+- name: 'Core Database Concepts: Views, Materialized Views, OLTP vs OLAP'
+  startOffset: 581
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=581
+  endOffset: 684
+- name: 'Learning Resources: Python Books, Flask Mega-Tutorial, SQL Platforms'
+  startOffset: 684
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=684
+  endOffset: 851
+- name: 'BI to Data Engineering Transition: Upskilling Within Your Role'
+  startOffset: 851
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=851
+  endOffset: 953
+- name: 'Job Search Strategy: Apply Broadly and Avoid Self-Filtering'
+  startOffset: 953
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=953
+  endOffset: 1008
+- name: Leveraging Non-Coding Experience and Domain Expertise
+  startOffset: 1008
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=1008
+  endOffset: 1197
+- name: 'Role Differentiation: Data Analyst vs Data Engineer'
+  startOffset: 1197
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=1197
+  endOffset: 1316
+- name: 'Certifications vs Skills: When Certificates Help and When They Don’t'
+  startOffset: 1316
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=1316
+  endOffset: 1393
+- name: 'Master’s Degree Trade-offs: Research Depth vs Applied Learning'
+  startOffset: 1393
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=1393
+  endOffset: 1666
+- name: 'Remote Work Reality: Timezones, Legal Constraints, and Standout Candidates'
+  startOffset: 1666
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=1666
+  endOffset: 1806
+- name: 'Teaching & Coaching on Resume: Communication and Mentorship Value'
+  startOffset: 1806
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=1806
+  endOffset: 1942
+- name: 'OOP Relevance: Patterns for Airflow and Maintainable Code'
+  startOffset: 1942
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=1942
+  endOffset: 1983
+- name: 'Language Choices: Python Focus; Java/Scala and Spark Considerations'
+  startOffset: 1983
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=1983
+  endOffset: 2109
+- name: 'Interview Load: Typical Number and Style of Technical Questions'
+  startOffset: 2109
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=2109
+  endOffset: 2269
+- name: 'Cloud Certification Prep: Learning Fundamentals vs Credential Hunting'
+  startOffset: 2269
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=2269
+  endOffset: 2389
+- name: 'Commercial Experience Alternatives: Nonprofits, Contract Work, Internships'
+  startOffset: 2389
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=2389
+  endOffset: 2611
+- name: 'Mid-Career Switch: Sales Skills as an Asset in Tech Hiring'
+  startOffset: 2611
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=2611
+  endOffset: 2776
+- name: 'Solution Engineer Pathway: Pre-/Post-Sales Roles as Transition Options'
+  startOffset: 2776
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=2776
+  endOffset: 2846
+- name: Episode Wrap-Up and Further Resources
+  startOffset: 2846
+  url: https://www.youtube.com/watch?v=asnt7xlyZXQ&t=2846
+  endOffset: 2882
 ---
 Links:
 

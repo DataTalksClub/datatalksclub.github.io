@@ -999,4 +999,127 @@ intro: How do you lead a data science team that prioritizes product impact while
   Listen to learn concrete approaches for prioritizing modeling time, running experiments
   in production, improving MLOps and NLP practices, and mentoring engineers to deliver
   measurable product outcomes.
+dateadded: '2022-01-09'
+duration: PT01H05M19S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=0
+  endOffset: 86
+- name: 'Guest Intro: Mariano Semelman, Head of Data Science at OLX'
+  startOffset: 86
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=86
+  endOffset: 140
+- name: Passion for Product Applications in Data Science
+  startOffset: 140
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=140
+  endOffset: 179
+- name: 'Career Journey: Software Dev to Data Science Leadership'
+  startOffset: 179
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=179
+  endOffset: 345
+- name: 'Daily Responsibilities: Meetings, Mentoring & Planning'
+  startOffset: 345
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=345
+  endOffset: 474
+- name: 'Team Composition: Data Scientists and ML Engineers'
+  startOffset: 474
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=474
+  endOffset: 519
+- name: 'Transition to Management: First Team of Five'
+  startOffset: 519
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=519
+  endOffset: 651
+- name: 'Decision Mindset: Saying Yes and Learning on the Job'
+  startOffset: 651
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=651
+  endOffset: 772
+- name: '30‑60‑90 Plan: Onboarding, Listening, and Learning'
+  startOffset: 772
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=772
+  endOffset: 916
+- name: 'Project Onboarding: Rapid Learning and Trusting Reports'
+  startOffset: 916
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=916
+  endOffset: 1046
+- name: Embracing Wrong Assumptions to Trigger Discussion
+  startOffset: 1046
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=1046
+  endOffset: 1197
+- name: Experience with Search and Recommender Systems
+  startOffset: 1197
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=1197
+  endOffset: 1279
+- name: 'Advertising Domain: Real‑Time Bidding and Campaign Optimization'
+  startOffset: 1279
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=1279
+  endOffset: 1389
+- name: 'Transferable DS Practices: Problem Framing & Feature Engineering'
+  startOffset: 1389
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=1389
+  endOffset: 1576
+- name: 'Diagnosing Model Issues: Overfitting, Data, and Features'
+  startOffset: 1576
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=1576
+  endOffset: 1769
+- name: 'Product‑First Mindset: Prioritizing User Impact'
+  startOffset: 1769
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=1769
+  endOffset: 1806
+- name: 'From Model to Product: Experiments, Deployment, Rules of ML'
+  startOffset: 1806
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=1806
+  endOffset: 2016
+- name: 'Start Simple and Fail Fast: Iterative Testing in Production'
+  startOffset: 2016
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=2016
+  endOffset: 2172
+- name: CRISP‑DM Process and Deployment Realities
+  startOffset: 2172
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=2172
+  endOffset: 2210
+- name: 'Prioritization: Where Modeling Time Delivers Impact'
+  startOffset: 2210
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=2210
+  endOffset: 2425
+- name: 'Feedback Timing: When to Give Performance Feedback'
+  startOffset: 2425
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=2425
+  endOffset: 2657
+- name: 'Feedback Technique: Ask Permission, Care, and Offer Options'
+  startOffset: 2657
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=2657
+  endOffset: 2893
+- name: One‑on‑Ones and Creating a Safe Growth Environment
+  startOffset: 2893
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=2893
+  endOffset: 3039
+- name: 'Handling Departures: Supporting Team Members Who Leave'
+  startOffset: 3039
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=3039
+  endOffset: 3157
+- name: 'Technical Work as a Manager: Code Reviews and Prototypes'
+  startOffset: 3157
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=3157
+  endOffset: 3298
+- name: Delegation and Architectural Involvement via Senior Engineers
+  startOffset: 3298
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=3298
+  endOffset: 3348
+- name: 'Hiring and Remediation: Interviews, Probation, Development Plans'
+  startOffset: 3348
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=3348
+  endOffset: 3697
+- name: 'Staying Current: MLOps, NLP, and Engineering Best Practices'
+  startOffset: 3697
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=3697
+  endOffset: 3947
+- name: Key Takeaways and Follow‑Up Opportunities
+  startOffset: 3947
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=3947
+  endOffset: 3991
+- name: 'Contact Info: LinkedIn and Email for Mariano Semelman'
+  startOffset: 3991
+  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=3991
+  endOffset: 3919
 ---

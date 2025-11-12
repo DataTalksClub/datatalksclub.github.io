@@ -1020,6 +1020,92 @@ intro: How do you build a modern data pipeline that reliably moves raw events th
   and dashboards, feature engineering and model serving, persona-driven pipeline design,
   and career-learning recommendations. Listen to gain concrete design guidance, tooling
   trade-offs, and resources to build scalable data and MLOps pipelines.
+dateadded: '2023-06-24'
+duration: PT00H59M43S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=0
+  endOffset: 90
+- name: 'Career journey: CERN researcher → NLP, ML engineering, Python, Astronomer,
+    Upsolver'
+  startOffset: 90
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=90
+  endOffset: 428
+- name: Transition to workflow authoring and orchestration (Airflow, Astronomer)
+  startOffset: 428
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=428
+  endOffset: 648
+- name: 'Upsolver vs DBT: pipeline authoring, execution engine, and ingestion focus'
+  startOffset: 648
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=648
+  endOffset: 805
+- name: Comparing ML pipelines and analytics data pipelines
+  startOffset: 805
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=805
+  endOffset: 1124
+- name: 'MLOps vs DataOps: operationalizing models vs business data'
+  startOffset: 1124
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=1124
+  endOffset: 1497
+- name: Analytics engineering and DBT's role in the modern data workflow
+  startOffset: 1497
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=1497
+  endOffset: 1603
+- name: 'Tooling landscape: orchestrators, Spark, Kafka/Kinesis, feature stores, vector
+    DBs'
+  startOffset: 1603
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=1603
+  endOffset: 1756
+- name: 'Modern data stack choices: Upsolver, Snowflake, Databricks, build vs buy'
+  startOffset: 1756
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=1756
+  endOffset: 1977
+- name: Data staging and lakehouse patterns; managed ingestion hiding the stage
+  startOffset: 1977
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=1977
+  endOffset: 2230
+- name: 'Ingestion pre-processing: deduplication, ordering guarantees, PII masking'
+  startOffset: 2230
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=2230
+  endOffset: 2363
+- name: 'Transformation and data modeling: entities, foreign keys, and business mappings'
+  startOffset: 2363
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=2363
+  endOffset: 2585
+- name: Marts, dashboards and translating business questions into metrics
+  startOffset: 2585
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=2585
+  endOffset: 2697
+- name: 'ML pipeline specifics: feature engineering, model training, and serving'
+  startOffset: 2697
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=2697
+  endOffset: 2877
+- name: Translating academic data/physics skills to industry pipelines
+  startOffset: 2877
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=2877
+  endOffset: 3174
+- name: Persona-driven pipeline design and real use-case examples
+  startOffset: 3174
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=3174
+  endOffset: 3356
+- name: 'Career advice: value of being a generalist and closing skill gaps'
+  startOffset: 3356
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=3356
+  endOffset: 3409
+- name: 'Learning strategy: vetting sources, networking, and engineering blogs'
+  startOffset: 3409
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=3409
+  endOffset: 3556
+- name: 'Recommended resources: Fundamentals of Data Engineering, Airflow guides,
+    whitepapers'
+  startOffset: 3556
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=3556
+  endOffset: 3673
+- name: Episode Closing and links
+  startOffset: 3673
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=3673
+  endOffset: 3583
 ---
 
 Links:

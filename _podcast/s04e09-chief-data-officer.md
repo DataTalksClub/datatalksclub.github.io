@@ -1013,4 +1013,115 @@ intro: 'How do you move from head of data to an effective Chief Data Officer who
   culture, plus career guidance for aspiring CDOs on technical breadth, soft skills,
   interviewing, and overcoming resistance with evidence-based persuasion. Ideal for
   data leaders and executives shaping data strategy, governance, and AI roadmaps.'
+dateadded: '2021-08-29'
+duration: PT01H01M51S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=0
+  endOffset: 78
+- name: 'Guest Overview: Marco''s Career & Roles'
+  startOffset: 78
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=78
+  endOffset: 203
+- name: 'Industry Experience: Yahoo, Facebook, Twitter, Spotify'
+  startOffset: 203
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=203
+  endOffset: 341
+- name: Transition to OLX Group and CDO Appointment
+  startOffset: 341
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=341
+  endOffset: 368
+- name: 'Chief Data Officer Scope: Data Strategy, Governance, AI'
+  startOffset: 368
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=368
+  endOffset: 437
+- name: Traditional Responsibilities vs Modern CDO Expectations
+  startOffset: 437
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=437
+  endOffset: 619
+- name: 'Future-Proofing Data: Collecting for Tomorrow''s Products'
+  startOffset: 619
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=619
+  endOffset: 700
+- name: Delegation and Organisational Design for Data Leadership
+  startOffset: 700
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=700
+  endOffset: 864
+- name: 'Career Progression: From Head of Data to CDO'
+  startOffset: 864
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=864
+  endOffset: 1057
+- name: 'Strategy vs Tactics: Vision, KPIs, and Execution'
+  startOffset: 1057
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=1057
+  endOffset: 1217
+- name: 'CDO vs VP of Data: Scope, Influence, and Proactivity'
+  startOffset: 1217
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=1217
+  endOffset: 1495
+- name: 'Structuring a Data Org: Multiple VPs and Reporting Lines'
+  startOffset: 1495
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=1495
+  endOffset: 1571
+- name: 'Splitting Work: CDO Responsibilities vs VP Execution'
+  startOffset: 1571
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=1571
+  endOffset: 1682
+- name: Differentiating CTO, CPO, and CDO Roles
+  startOffset: 1682
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=1682
+  endOffset: 1910
+- name: 'Working Backwards: Goals to Data Platform & ML Investment'
+  startOffset: 1910
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=1910
+  endOffset: 2083
+- name: 'Measuring Progress: Metrics, Accountability, and Visibility'
+  startOffset: 2083
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=2083
+  endOffset: 2205
+- name: 'Meeting Load: Time Management for Senior Data Leaders'
+  startOffset: 2205
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=2205
+  endOffset: 2396
+- name: 'Productivity Practices: Documentation, Async, and Slack'
+  startOffset: 2396
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=2396
+  endOffset: 2522
+- name: 'Building a Data-Driven Culture: Democratization & Usability'
+  startOffset: 2522
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=2522
+  endOffset: 2652
+- name: 'Remote Leadership: Challenges of Managing Distributed Teams'
+  startOffset: 2652
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=2652
+  endOffset: 2884
+- name: 'Technical Skills for CDOs: Breadth vs Depth (ML, SQL, Engineering)'
+  startOffset: 2884
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=2884
+  endOffset: 3020
+- name: 'Business Education: MBA Value for Executive Data Roles'
+  startOffset: 3020
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=3020
+  endOffset: 3138
+- name: 'Essential Soft Skills: Communication, Empathy, Influence'
+  startOffset: 3138
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=3138
+  endOffset: 3256
+- name: 'OLX Group Challenges: Geographic, Product, and Tech Complexity'
+  startOffset: 3256
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=3256
+  endOffset: 3396
+- name: 'Interviewing for CDO: Demonstrating Strategic Thinking'
+  startOffset: 3396
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=3396
+  endOffset: 3580
+- name: 'Overcoming Resistance: Persuasion, Evidence, and Constraints'
+  startOffset: 3580
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=3580
+  endOffset: 3744
+- name: Closing Remarks and Key Takeaways
+  startOffset: 3744
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=3744
+  endOffset: 3711
 ---

@@ -1117,6 +1117,114 @@ intro: 'How do you go from beginner projects to contributing to Hugging Face and
   look for on GitHub. Tune in to walk away with actionable steps to contribute to
   Hugging Face, publish datasets and demos, and build an NLP portfolio recruiters
   can evaluate.'
+dateadded: '2022-07-02'
+duration: PT00H58M05S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=0
+  endOffset: 85
+- name: Guest Welcome & Episode Overview
+  startOffset: 85
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=85
+  endOffset: 122
+- name: 'Early Career: Industrial Engineering to NLP'
+  startOffset: 122
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=122
+  endOffset: 252
+- name: 'Transition to NLP: First Projects & Sentiment Analysis'
+  startOffset: 252
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=252
+  endOffset: 390
+- name: 'Open Source Discovery: Finding Hugging Face & Contribution Sprints'
+  startOffset: 390
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=390
+  endOffset: 493
+- name: 'Datasets Work: Canonical Datasets, Scripts, and CI Learning'
+  startOffset: 493
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=493
+  endOffset: 631
+- name: 'Contributor Onboarding: Sprints, Good-First Issues, and Confidence Building'
+  startOffset: 631
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=631
+  endOffset: 693
+- name: 'Contributing as a Side Project: Motivation and Timing'
+  startOffset: 693
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=693
+  endOffset: 766
+- name: 'Hugging Face Projects: Tasks, Hub, TensorFlow & Keras Integration'
+  startOffset: 766
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=766
+  endOffset: 942
+- name: 'Model Reproducibility: Hub Features and Model Registry Concepts'
+  startOffset: 942
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=942
+  endOffset: 1057
+- name: 'Spaces & Community Tab: Demos with Streamlit/Gradio and Community Collaboration'
+  startOffset: 1057
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=1057
+  endOffset: 1111
+- name: 'Developer Experience: Forum Support, Workshops, and Keras Sprints'
+  startOffset: 1111
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=1111
+  endOffset: 1288
+- name: 'Role Balance: Engineering vs. Advocacy Time Split'
+  startOffset: 1288
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=1288
+  endOffset: 1406
+- name: 'Hiring Signals: Evaluating Open Source Experience on GitHub'
+  startOffset: 1406
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=1406
+  endOffset: 1509
+- name: 'Getting Started with Open Source: Sprints, Documentation, and Non-Code Contributions'
+  startOffset: 1509
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=1509
+  endOffset: 1643
+- name: 'Structured Programs: Google Summer of Code and Hacktoberfest'
+  startOffset: 1643
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=1643
+  endOffset: 1766
+- name: 'Learning from PRs: Contributing to scikit-learn and Code Quality'
+  startOffset: 1766
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=1766
+  endOffset: 1821
+- name: 'Hiring Expectations: Working with Large Codebases and PR Workflows'
+  startOffset: 1821
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=1821
+  endOffset: 2003
+- name: 'Handling PR Rejections: Discussions, Design Decisions, and Unit Tests'
+  startOffset: 2003
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=2003
+  endOffset: 2282
+- name: 'NLP Learning Resources: Courses, spaCy, Keras Examples, and Transfer Learning'
+  startOffset: 2282
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=2282
+  endOffset: 2581
+- name: 'Beginner NLP Projects: Sentiment Analysis and Classification Tasks'
+  startOffset: 2581
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=2581
+  endOffset: 3072
+- name: 'Portfolio Advice: Deploying Demos with Streamlit, Gradio, and Hugging Face
+    Spaces'
+  startOffset: 3072
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=3072
+  endOffset: 3349
+- name: 'Content Creation: Twitch Streaming and Podcast Plans'
+  startOffset: 3349
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=3349
+  endOffset: 3462
+- name: 'Contact & Community: Slack, Twitter, and DataTalks.club Outreach'
+  startOffset: 3462
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=3462
+  endOffset: 3494
+- name: 'Personal Anecdote: Mario Kart at Hugging Face'
+  startOffset: 3494
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=3494
+  endOffset: 3551
+- name: Episode Outro & Next Steps
+  startOffset: 3551
+  url: https://www.youtube.com/watch?v=SnEYvF-Ztb8&t=3551
+  endOffset: 3485
 ---
 
 Links:

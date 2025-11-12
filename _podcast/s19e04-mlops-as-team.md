@@ -832,4 +832,107 @@ transcript:
   sec: 3847
   time: '1:04:07'
   who: Raphaël
+dateadded: '2024-11-16'
+duration: PT01H04M07S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=0
+  endOffset: 81
+- name: 'Guest Overview: Raphaël Hoogvliets and Eneco role'
+  startOffset: 81
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=81
+  endOffset: 154
+- name: 'Career Path: From agriculture to data science and MLOps'
+  startOffset: 154
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=154
+  endOffset: 521
+- name: Agriculture technology, scale, and sustainability trade-offs
+  startOffset: 521
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=521
+  endOffset: 636
+- name: Design Choices and Long‑Term Tradeoffs in ML projects
+  startOffset: 636
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=636
+  endOffset: 817
+- name: 'Speed vs. Robustness: trade-offs in MLOps delivery'
+  startOffset: 817
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=817
+  endOffset: 845
+- name: 'Team Coordination: why collaboration matters for ML at scale'
+  startOffset: 845
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=845
+  endOffset: 1018
+- name: 'Key Team Roles: evangelists, tech translators, and technical leads'
+  startOffset: 1018
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=1018
+  endOffset: 1381
+- name: Centralized MLOps as an enabling platform team
+  startOffset: 1381
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=1381
+  endOffset: 1520
+- name: 'Support Model: how MLOps assists product teams and ML engineers'
+  startOffset: 1520
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=1520
+  endOffset: 1676
+- name: 'Adoption Strategy: iteration, feedback loops, and developer experience'
+  startOffset: 1676
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=1676
+  endOffset: 1966
+- name: 'Building Trust: collecting pain points and delivering quick wins'
+  startOffset: 1966
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=1966
+  endOffset: 2215
+- name: 'Measuring Value: KPIs, deployment frequency, and impact tracking'
+  startOffset: 2215
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=2215
+  endOffset: 2346
+- name: 'Core Practices: CI, repo structure, parameterization, and testing'
+  startOffset: 2346
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=2346
+  endOffset: 2551
+- name: 'Reproducibility: data versioning, traceability, and experiment capture'
+  startOffset: 2551
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=2551
+  endOffset: 2662
+- name: 'Maturity Signals: when to introduce data versioning and governance'
+  startOffset: 2662
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=2662
+  endOffset: 2710
+- name: 'Skill Mix: combining data science, SRE/devops, and platform engineering'
+  startOffset: 2710
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=2710
+  endOffset: 2921
+- name: 'Getting Started: prioritize CI/CD and solve tangible pain points'
+  startOffset: 2921
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=2921
+  endOffset: 3081
+- name: 'MLOps Toolset: experiment tracking, model registry, serving, and monitoring'
+  startOffset: 3081
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=3081
+  endOffset: 3188
+- name: 'Dependency Management: package registries for reproducible deployments'
+  startOffset: 3188
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=3188
+  endOffset: 3410
+- name: 'Container Strategy: Docker, Kubernetes, Databricks trade-offs'
+  startOffset: 3410
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=3410
+  endOffset: 3476
+- name: 'Success & Failure Stories: deployment wins and integration freezes'
+  startOffset: 3476
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=3476
+  endOffset: 3654
+- name: 'MLOps Defined: operationalizing machine learning in business'
+  startOffset: 3654
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=3654
+  endOffset: 3718
+- name: 'Core Challenge: keeping models deployed, monitored, and maintained'
+  startOffset: 3718
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=3718
+  endOffset: 3762
+- name: Closing Remarks and next steps
+  startOffset: 3762
+  url: https://youtube.com/watch?v=rMq63r3zi4c&t=3762
+  endOffset: 3847
 ---

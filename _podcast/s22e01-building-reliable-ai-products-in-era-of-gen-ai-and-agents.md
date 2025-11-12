@@ -870,6 +870,125 @@ intro: 'How do you build and evaluate truly autonomous LLM agents that balance r
   outcome assertions. <br><br> Listen to learn practical guidance for building, testing,
   and deploying autonomous LLM agents, and which architectures and evaluation approaches
   work best for production systems.'
+dateadded: '2025-10-21'
+duration: PT00H59M23S
+quotableClips:
+- name: Event Introduction & Community Links
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=0
+  endOffset: 192
+- name: 'Early ML Projects: Image Search with OpenCV'
+  startOffset: 192
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=192
+  endOffset: 265
+- name: Speech Recognition & Language Modeling Experience
+  startOffset: 265
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=265
+  endOffset: 297
+- name: Transition to Recommendation Systems at Dropbox
+  startOffset: 297
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=297
+  endOffset: 352
+- name: Question Answering & Early Agent Experiments
+  startOffset: 352
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=352
+  endOffset: 464
+- name: 'Joining Noird.ai: Automating On‑call with Agents'
+  startOffset: 464
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=464
+  endOffset: 660
+- name: 'Agent Definition: Autonomy, Objectives & LLMs'
+  startOffset: 660
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=660
+  endOffset: 751
+- name: 'Agent Orchestration: Tools, Memory & Knowledge Stores'
+  startOffset: 751
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=751
+  endOffset: 910
+- name: 'Planning Strategies: Single‑step, Multi‑pass & Self‑reflection'
+  startOffset: 910
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=910
+  endOffset: 1103
+- name: 'Implementation Approaches: Prompts, SDKs & Tool Wrappers'
+  startOffset: 1103
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=1103
+  endOffset: 1198
+- name: 'Code Agents vs Natural‑Language Agents: Trade‑offs'
+  startOffset: 1198
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=1198
+  endOffset: 1281
+- name: 'Context Engineering: Designing Effective LLM Inputs'
+  startOffset: 1281
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=1281
+  endOffset: 1370
+- name: 'SRE Workflows Modeled by Agents: Logs, Metrics & Remediation'
+  startOffset: 1370
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=1370
+  endOffset: 1499
+- name: 'Integration Abstractions: Handling Diverse Tooling'
+  startOffset: 1499
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=1499
+  endOffset: 1770
+- name: 'RAG Reality Check: Latency, Cost & Garbage‑In/Garbage‑Out'
+  startOffset: 1770
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=1770
+  endOffset: 1898
+- name: 'Retrieval Limitations: Reworking Backends for LLM Context'
+  startOffset: 1898
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=1898
+  endOffset: 1968
+- name: 'Context Engineering Techniques: Chunking, Metadata & Wrappers'
+  startOffset: 1968
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=1968
+  endOffset: 2171
+- name: 'Agentic RAG: Using Retrieval as a Tool Within Agents'
+  startOffset: 2171
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=2171
+  endOffset: 2259
+- name: 'Use Cases: When RAG Is Enough vs When Agents Are Needed'
+  startOffset: 2259
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=2259
+  endOffset: 2430
+- name: 'Dynamic Planning Example: Calendar & Meeting Assistant'
+  startOffset: 2430
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=2430
+  endOffset: 2586
+- name: Dropbox Dash & AI Productivity Assistants for Enterprises
+  startOffset: 2586
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=2586
+  endOffset: 2648
+- name: 'Framework Choices: Build from Scratch vs Use Libraries'
+  startOffset: 2648
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=2648
+  endOffset: 2760
+- name: 'Framework Trade‑offs: LangChain, OpenAI Agents SDK, Small Agents'
+  startOffset: 2760
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=2760
+  endOffset: 2880
+- name: Agent Marketplaces & Tool Protocols (MCP)
+  startOffset: 2880
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=2880
+  endOffset: 3077
+- name: 'Evaluation Strategy: Custom Datasets & System Benchmarks'
+  startOffset: 3077
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=3077
+  endOffset: 3200
+- name: 'Testing Agents: Mocking Tools, Integration & Regression Tests'
+  startOffset: 3200
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=3200
+  endOffset: 3362
+- name: 'Goal‑based Evaluation: Outcome Assertions Over Exact Paths'
+  startOffset: 3362
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=3362
+  endOffset: 3491
+- name: 'Specialization Challenge: Why Generic Agent Solutions Lag'
+  startOffset: 3491
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=3491
+  endOffset: 3546
+- name: Closing Thoughts & Future Outlook for Agent Engineering
+  startOffset: 3546
+  url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=3546
+  endOffset: 3563
 ---
 
 Links:

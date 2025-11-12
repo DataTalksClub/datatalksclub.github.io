@@ -1134,6 +1134,101 @@ intro: How do you validate customers, run effective user interviews, and set pri
   consulting business that captures real client value.
 description: 'Learn data consulting: customer validation, user interviews and pricing
   strategy to validate ideas, win clients, set value-based rates & scale your practice.'
+dateadded: '2023-03-19'
+duration: PT01H16S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 70
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=70
+  endOffset: 107
+- name: Career Journey & Archaeology Origin Story
+  startOffset: 107
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=107
+  endOffset: 256
+- name: 'Data Stack as a Service: Market and Technical Limits'
+  startOffset: 256
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=256
+  endOffset: 436
+- name: 'Transition to Consulting: Early Projects and First Customer'
+  startOffset: 436
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=436
+  endOffset: 548
+- name: Customer Validation Techniques for Pre-Product Ideas
+  startOffset: 548
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=548
+  endOffset: 773
+- name: 'User Interview Strategy: Questions, Frequency, and Evidence'
+  startOffset: 773
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=773
+  endOffset: 955
+- name: 'Conducting Interviews: Pair Roles and Note-Taking'
+  startOffset: 955
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=955
+  endOffset: 1067
+- name: 'Team Composition: PM + Engineer Partnership'
+  startOffset: 1067
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=1067
+  endOffset: 1081
+- name: 'Lessons from a Failed Product: Premature Build and Market Size'
+  startOffset: 1081
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=1081
+  endOffset: 1299
+- name: 'Value Realization: Data Modeling vs Infrastructure'
+  startOffset: 1299
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=1299
+  endOffset: 1362
+- name: 'Pivot Decision: Choosing Consulting to Capture Value'
+  startOffset: 1362
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=1362
+  endOffset: 1545
+- name: 'Consulting Approach: Hands-On Implementation and Accountability'
+  startOffset: 1545
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=1545
+  endOffset: 1679
+- name: 'Client Acquisition: Network-First Outreach'
+  startOffset: 1679
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=1679
+  endOffset: 1817
+- name: 'Positioning Services: Target Customers and Timing'
+  startOffset: 1817
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=1817
+  endOffset: 1919
+- name: 'Geographic Strategy: Europe Focus and VC Introductions'
+  startOffset: 1919
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=1919
+  endOffset: 2223
+- name: 'Messaging Example: Revenue and Marketing Optimization Offers'
+  startOffset: 2223
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=2223
+  endOffset: 2450
+- name: 'Marketing Mix: Networking, Content, and LinkedIn'
+  startOffset: 2450
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=2450
+  endOffset: 2719
+- name: 'Pricing Framework: Value-Based Benchmarking'
+  startOffset: 2719
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=2719
+  endOffset: 2958
+- name: 'Rate Setting: Starting Rates, Maximums and Minimums'
+  startOffset: 2958
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=2958
+  endOffset: 3158
+- name: 'Contract Models: Day Rates vs Project Pricing and Incentives'
+  startOffset: 3158
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=3158
+  endOffset: 3478
+- name: 'Legal & Administrative: Registering a Consultancy in Germany'
+  startOffset: 3478
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=3478
+  endOffset: 3569
+- name: 'Recommended Reading: Decision-Making and Interviewing Books'
+  startOffset: 3569
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=3569
+  endOffset: 3686
+- name: Closing Remarks and Episode Wrap-Up
+  startOffset: 3686
+  url: https://www.youtube.com/watch?v=rh_pE35m3vE&t=3686
+  endOffset: 3616
 ---
 Links:
 

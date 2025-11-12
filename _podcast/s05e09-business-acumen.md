@@ -1,5 +1,6 @@
 ---
-title: 'Practical Data Science & ML: Feature Engineering, Model Monitoring, Data Governance & Storytelling'
+title: 'Practical Data Science & ML: Feature Engineering, Model Monitoring, Data Governance
+  & Storytelling'
 short: Building Business Acumen for Data Professionals
 guests:
 - thomives
@@ -1048,6 +1049,101 @@ intro: How do you move from models that look good on paper to reliable machine l
   resources and mentoring through Integrated ML & AI. Tune in for actionable tactics
   to improve data quality, monitoring, and stakeholder communication in real-world
   data science.
+dateadded: '2021-10-30'
+duration: PT01H05M17S
+quotableClips:
+- name: Episode Introduction & Guest Thom Ives
+  startOffset: 75
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=75
+  endOffset: 110
+- name: Concept-focused learning vs. detail specialization
+  startOffset: 110
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=110
+  endOffset: 201
+- name: 'Career journey: naval nuclear program, grad school, early AI'
+  startOffset: 201
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=201
+  endOffset: 311
+- name: 'Industry roles: HP, ON Semiconductor, SaaS AI work'
+  startOffset: 311
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=311
+  endOffset: 532
+- name: 'Mentoring & community building: integrated mentoring origins'
+  startOffset: 532
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=532
+  endOffset: 552
+- name: Why business acumen matters for data professionals
+  startOffset: 552
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=552
+  endOffset: 651
+- name: 'Role clarity: data scientist versus domain expert'
+  startOffset: 651
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=651
+  endOffset: 819
+- name: Rapid delivery & customer-centric feedback (MVP / tracer bullet)
+  startOffset: 819
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=819
+  endOffset: 1172
+- name: ETL reliability, data collection gaps, and advocating for clean data
+  startOffset: 1172
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=1172
+  endOffset: 1299
+- name: 'Shared responsibility: data governance and data literacy'
+  startOffset: 1299
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=1299
+  endOffset: 1432
+- name: 'Data-driven vs. data-informed: definitions and practical balance'
+  startOffset: 1432
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=1432
+  endOffset: 1689
+- name: Analytical skills & data storytelling before modeling
+  startOffset: 1689
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=1689
+  endOffset: 1881
+- name: 'Machine learning development pipeline: feature conditioning to modeling'
+  startOffset: 1881
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=1881
+  endOffset: 2094
+- name: Feature scaling, selection, and engineered features for business insight
+  startOffset: 2094
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=2094
+  endOffset: 2446
+- name: Addressing collinearity with PCA and pursuing parsimony
+  startOffset: 2446
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=2446
+  endOffset: 2753
+- name: 'Model selection: accuracy, variance, and generalizability'
+  startOffset: 2753
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=2753
+  endOffset: 2850
+- name: 'Monitoring models in production: data drift, concept drift, and maintenance'
+  startOffset: 2850
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=2850
+  endOffset: 2968
+- name: 'Essential business skills: explainability, persuasion, and influence'
+  startOffset: 2968
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=2968
+  endOffset: 3042
+- name: 'Relationship-building: informal check‑ins, lunch & beer networking'
+  startOffset: 3042
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=3042
+  endOffset: 3349
+- name: 'Remote rapport: virtual lunches, video calls, and building camaraderie'
+  startOffset: 3349
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=3349
+  endOffset: 3516
+- name: 'Integrated ML & AI community: structure, ethos, and free resources'
+  startOffset: 3516
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=3516
+  endOffset: 3816
+- name: Joining the Slack community and accessing resources
+  startOffset: 3816
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=3816
+  endOffset: 3955
+- name: Episode wrap-up and final takeaways
+  startOffset: 3955
+  url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=3955
+  endOffset: 3917
 ---
 
 

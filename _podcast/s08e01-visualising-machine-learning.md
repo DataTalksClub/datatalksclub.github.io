@@ -870,6 +870,102 @@ transcript:
   sec: 3701
   time: '1:01:41'
   who: Meor
+dateadded: '2022-03-26'
+duration: PT00H59M45S
+quotableClips:
+- name: Episode Introduction & Visual ML Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=0
+  endOffset: 116
+- name: Posting Cadence & Visuals on LinkedIn
+  startOffset: 116
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=116
+  endOffset: 177
+- name: 'Career Journey: Bioengineering → Telecom Analytics → Self‑employment'
+  startOffset: 177
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=177
+  endOffset: 375
+- name: 'kDimensions: Name & Visual Dimensionality Reduction'
+  startOffset: 375
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=375
+  endOffset: 532
+- name: Jack Butcher Influence & Visual Engineering Principles
+  startOffset: 532
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=532
+  endOffset: 700
+- name: 'Purpose of Visuals: Build Intuition Before Math'
+  startOffset: 700
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=700
+  endOffset: 852
+- name: 'Design Constraints: Creativity Through Color & Shape Limits'
+  startOffset: 852
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=852
+  endOffset: 1053
+- name: 'Idea Generation: Visualize the Verb & Use Metaphors'
+  startOffset: 1053
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=1053
+  endOffset: 1286
+- name: Drift Visualized (Catapult Metaphor) & Data‑centric AI Airplane Analogy
+  startOffset: 1286
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=1286
+  endOffset: 1447
+- name: 'Creative Process: Longlist → Shortlist → Brainstorming'
+  startOffset: 1447
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=1447
+  endOffset: 1826
+- name: 'Capturing Ideas: Sketchbook, Notes & Quick Logging'
+  startOffset: 1826
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=1826
+  endOffset: 1874
+- name: 'Tools: Figma for Engineers & Geometric Shape Workflow'
+  startOffset: 1874
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=1874
+  endOffset: 2011
+- name: 'From Sketch to Figma: Drafting, Asset Reuse & Iteration'
+  startOffset: 2011
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2011
+  endOffset: 2132
+- name: 'Design Advice: Prioritize Message Over Aesthetics; Start Posting'
+  startOffset: 2132
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2132
+  endOffset: 2450
+- name: 'Learning Technique: Consume with Intent to Teach — "What If?" Questions'
+  startOffset: 2450
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2450
+  endOffset: 2617
+- name: 'Hands‑on Learning: Break and Modify Code to Understand ML'
+  startOffset: 2617
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2617
+  endOffset: 2687
+- name: 'Monetization: Visual Design Services for Startups & Content Creators'
+  startOffset: 2687
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2687
+  endOffset: 2940
+- name: 'Content Design: Turn Articles into Key Visuals (Extract 4–5 Keywords)'
+  startOffset: 2940
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2940
+  endOffset: 3056
+- name: 'Visualization Techniques: Contrast, Balance & Slider Metaphors'
+  startOffset: 3056
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3056
+  endOffset: 3246
+- name: 'Mapping ML Problems to Visual Templates: Classification, Regression, Anomaly,
+    Clustering, RL'
+  startOffset: 3246
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3246
+  endOffset: 3361
+- name: 'Book Overview: Visual Introduction to Deep Learning (Neuron‑by‑Neuron)'
+  startOffset: 3361
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3361
+  endOffset: 3536
+- name: 'Book Workflow: Visual‑first Layout with Concise Text'
+  startOffset: 3536
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3536
+  endOffset: 3612
+- name: 'Closing: kDimensions, Book Links & Contact Information'
+  startOffset: 3612
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3612
+  endOffset: 3585
 ---
 
 Links:

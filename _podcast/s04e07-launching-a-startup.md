@@ -1071,6 +1071,126 @@ intro: How do you build a grocery retail OS that actually cuts supermarket food 
   guidance on pilot programs, prototype-before-pitch validation (banana ripeness demo),
   co-founder formation, and the operational and technical trade-offs when scaling
   a startup focused on supermarket food waste reduction.
+dateadded: '2021-08-15'
+duration: PT01H07M24S
+quotableClips:
+- name: Episode Introduction & Guest Overview
+  startOffset: 106
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=106
+  endOffset: 136
+- name: 'Early Career: Programming, Academia, and Data Science'
+  startOffset: 136
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=136
+  endOffset: 306
+- name: 'FreshFlow Overview: CTO Role and Ordering System Mission'
+  startOffset: 306
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=306
+  endOffset: 346
+- name: 'Problem Discovery: Supermarket Fresh-Product Challenges & Edeka Pilot'
+  startOffset: 346
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=346
+  endOffset: 433
+- name: 'Customer Discovery: Shadowing Store Teams and Research Methods (The Mom Test)'
+  startOffset: 433
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=433
+  endOffset: 796
+- name: 'Entrepreneur First Experience: Program Structure and Benefits'
+  startOffset: 796
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=796
+  endOffset: 955
+- name: 'Co-founder Matching: "Edges" Framework for Team Formation'
+  startOffset: 955
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=955
+  endOffset: 1130
+- name: 'Mentorship & Investment Committee: Scoring, Feedback, and EF Phases'
+  startOffset: 1130
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=1130
+  endOffset: 1487
+- name: 'Idea Evolution: From Computer Vision App to Ordering Solution'
+  startOffset: 1487
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=1487
+  endOffset: 1714
+- name: 'Market Opportunity: Food Waste Impact and Competitive Landscape'
+  startOffset: 1714
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=1714
+  endOffset: 1859
+- name: 'Accelerator Value: Networking, Validation, and Founder Support'
+  startOffset: 1859
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=1859
+  endOffset: 2004
+- name: 'First Pilots & Clients: Volg and Edeka Engagements'
+  startOffset: 2004
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2004
+  endOffset: 2090
+- name: 'Sales Cycle Realities: Time to First Client and Pilot Timelines'
+  startOffset: 2090
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2090
+  endOffset: 2200
+- name: 'Fundraising Path: EF Investment, Angels, and Demo Day Strategy'
+  startOffset: 2200
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2200
+  endOffset: 2413
+- name: 'Investor Selection Risks: Term Sheets, Board Dynamics, and Fit'
+  startOffset: 2413
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2413
+  endOffset: 2544
+- name: 'Founder Roles: Splitting CTO and CEO Responsibilities'
+  startOffset: 2544
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2544
+  endOffset: 2627
+- name: 'Hiring Strategy: First Hires, Freelancers, Delegation, and Remote Talent'
+  startOffset: 2627
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2627
+  endOffset: 2932
+- name: 'Product Roadmap: Scaling to a Grocery Retail OS and Supply-Chain Expansion'
+  startOffset: 2932
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2932
+  endOffset: 3014
+- name: 'Forecasting & Just-in-Time Supply Chain: Reducing Waste and Inventory'
+  startOffset: 3014
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3014
+  endOffset: 3189
+- name: 'Tech Infrastructure Lesson: Kubeflow Challenges and Choosing Managed Cloud
+    (GCP)'
+  startOffset: 3189
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3189
+  endOffset: 3351
+- name: 'Startup Advice: Resilience, Focus, and Emotional Intelligence'
+  startOffset: 3351
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3351
+  endOffset: 3429
+- name: 'Hiring Criteria: Prioritizing Motivation and Behavior Over Skills'
+  startOffset: 3429
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3429
+  endOffset: 3554
+- name: 'Sustaining Motivation: Mission-Driven Work on Food Waste and Climate'
+  startOffset: 3554
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3554
+  endOffset: 3665
+- name: 'CTO Readiness: Skill Gaps, Learning, and Using Managed Services'
+  startOffset: 3665
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3665
+  endOffset: 3825
+- name: 'MBA Relevance: Business School Not Required for Early-Stage Startups'
+  startOffset: 3825
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3825
+  endOffset: 3907
+- name: 'Co-founder Imperative: Form Phase Advice and Team Formation Timing'
+  startOffset: 3907
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3907
+  endOffset: 3957
+- name: 'Validating Pre-Existing Ideas: Why EF Helps Even with a Clear Idea'
+  startOffset: 3957
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3957
+  endOffset: 4026
+- name: 'Prototype Before Pitch: Banana Ripeness Demo and Early Technical Traction'
+  startOffset: 4026
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=4026
+  endOffset: 4105
+- name: Contact Details & Episode Closing Remarks
+  startOffset: 4105
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=4105
+  endOffset: 4044
 ---
 
 

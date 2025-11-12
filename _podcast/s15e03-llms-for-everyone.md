@@ -1181,6 +1181,126 @@ intro: 'How do you take large language models from experiment to reliable produc
   dataset expansion and evaluation strategies, and TitanML’s Train/Optimized/Takeoff
   product approach. Listen to gain actionable guidance for deploying LLMs in production—choosing
   architectures, reducing costs, and grounding answers reliably with retrieval.'
+dateadded: '2023-07-29'
+duration: PT00H59M31S
+quotableClips:
+- name: 'Episode Introduction: LLMs for Everyone'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=0
+  endOffset: 67
+- name: 'Guest Introduction: Meryem Arik and TitanML'
+  startOffset: 67
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=67
+  endOffset: 105
+- name: 'Career Journey: Theoretical Physics → Banking → Tech'
+  startOffset: 105
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=105
+  endOffset: 133
+- name: 'Founding TitanML: pivot from computer vision to LLM deployability'
+  startOffset: 133
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=133
+  endOffset: 289
+- name: 'Startup Realities: co-founder roles, operations, and tradeoffs'
+  startOffset: 289
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=289
+  endOffset: 402
+- name: 'Early LLM Interest: customer-driven pivot and GPT‑3 experience'
+  startOffset: 402
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=402
+  endOffset: 557
+- name: 'ChatGPT Breakthrough: conversational interface and accessibility'
+  startOffset: 557
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=557
+  endOffset: 624
+- name: 'LLM Fundamentals: generative vs. non‑generative models and transformers'
+  startOffset: 624
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=624
+  endOffset: 704
+- name: 'Model Selection: classification tasks vs. generative tasks'
+  startOffset: 704
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=704
+  endOffset: 825
+- name: 'Open‑source Model Landscape: LLaMA, FLAN‑T5, Falcon, MPT'
+  startOffset: 825
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=825
+  endOffset: 885
+- name: 'Why LLMs Matter: handling unstructured text at scale'
+  startOffset: 885
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=885
+  endOffset: 1008
+- name: 'Open‑source vs API Models: control, privacy, and fine‑tuning benefits'
+  startOffset: 1008
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=1008
+  endOffset: 1126
+- name: 'Model Drift & API Risk: hidden model changes and production impact'
+  startOffset: 1126
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=1126
+  endOffset: 1417
+- name: 'TitanML Product Suite: Train, Optimized, and Takeoff server'
+  startOffset: 1417
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=1417
+  endOffset: 1526
+- name: 'Serving Challenges: model size, compression, and inference optimization'
+  startOffset: 1526
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=1526
+  endOffset: 1590
+- name: 'Fine‑tuning Purpose: specialization, domain adaptation, and tone'
+  startOffset: 1590
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=1590
+  endOffset: 1898
+- name: 'Fine‑tuning Generative Models: data formats and end‑task considerations'
+  startOffset: 1898
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=1898
+  endOffset: 2038
+- name: 'Workforce Impact: productivity gains and job disruption scenarios'
+  startOffset: 2038
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=2038
+  endOffset: 2446
+- name: 'Dealing with Changing Knowledge: retrieval over continuous retraining'
+  startOffset: 2446
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=2446
+  endOffset: 2522
+- name: 'Grounding Answers: indexing docs and retrieval‑augmented responses'
+  startOffset: 2522
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=2522
+  endOffset: 2802
+- name: 'Retrieval Patterns: injecting passages, summarizers, and grounding layers'
+  startOffset: 2802
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=2802
+  endOffset: 2881
+- name: 'Vector Databases Explained: embeddings, indexing, and semantic search'
+  startOffset: 2881
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=2881
+  endOffset: 2984
+- name: 'Prototyping vs Production: when to use GPT‑3.5/4 APIs vs open‑source LLMs'
+  startOffset: 2984
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=2984
+  endOffset: 3095
+- name: 'Latency & Cost Tradeoffs: self‑hosting performance and hardware choices'
+  startOffset: 3095
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=3095
+  endOffset: 3214
+- name: 'Data Quality Metrics: gold‑standard examples and output‑driven evaluation'
+  startOffset: 3214
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=3214
+  endOffset: 3332
+- name: 'Dataset Expansion: LLM‑assisted augmentation for training data'
+  startOffset: 3332
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=3332
+  endOffset: 3399
+- name: 'Evaluation & Benchmarking: classification vs generative metrics and human
+    review'
+  startOffset: 3399
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=3399
+  endOffset: 3548
+- name: 'Learning Resources: Hugging Face, Cohere LLM University, community content'
+  startOffset: 3548
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=3548
+  endOffset: 3638
+- name: Episode Close and Final Remarks
+  startOffset: 3638
+  url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=3638
+  endOffset: 3571
 ---
 
 Links:

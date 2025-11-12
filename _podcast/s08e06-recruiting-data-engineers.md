@@ -157,10 +157,10 @@ transcript:
   sec: 419
   time: '6:59'
   who: Alexey
-- line: "We're talking about hiring data engineers, but I also wanted to ask you
+- line: 'We''re talking about hiring data engineers, but I also wanted to ask you
     – you are recruiting for a wide range of positions: ML engineers, data scientists,
     data analysts, data engineers – in your opinion, what is the main difference between
-    hiring data scientists and data engineers?"
+    hiring data scientists and data engineers?'
   sec: 419
   time: '6:59'
   who: Alexey
@@ -889,6 +889,121 @@ transcript:
   sec: 3712
   time: '1:01:52'
   who: Nicolas
+dateadded: '2022-04-30'
+duration: PT01H01M05S
+quotableClips:
+- name: Episode Opening & Guest Welcome
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=0
+  endOffset: 75
+- name: Guest Background and Career Path
+  startOffset: 75
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=75
+  endOffset: 192
+- name: Onfido Role & European Hiring Footprint
+  startOffset: 192
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=192
+  endOffset: 220
+- name: 'Roles Recruited: Data, ML & Research Spectrum'
+  startOffset: 220
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=220
+  endOffset: 273
+- name: European Tech Market Differences
+  startOffset: 273
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=273
+  endOffset: 375
+- name: Borderless Recruitment and Competition Dynamics
+  startOffset: 375
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=375
+  endOffset: 419
+- name: 'Episode Focus: Why Data Engineering Matters Now'
+  startOffset: 419
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=419
+  endOffset: 468
+- name: Tech vs Business Balance and Training Gaps
+  startOffset: 468
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=468
+  endOffset: 666
+- name: Data Science Misconceptions and Data Quality Dependence
+  startOffset: 666
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=666
+  endOffset: 794
+- name: Rising Demand for Data Engineering and Modern Tooling
+  startOffset: 794
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=794
+  endOffset: 960
+- name: 'Recruiter Technical Literacy: Big-Picture Knowledge'
+  startOffset: 960
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=960
+  endOffset: 1127
+- name: 'Hiring Challenges: Titles, Experience Mismatch, Demand'
+  startOffset: 1127
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=1127
+  endOffset: 1257
+- name: Evaluating Transferable Experience from Software/BI Roles
+  startOffset: 1257
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=1257
+  endOffset: 1375
+- name: 'Expectations by Level: Junior → Senior Responsibilities'
+  startOffset: 1375
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=1375
+  endOffset: 1598
+- name: Typical Interview Process and Level-Based Assessments
+  startOffset: 1598
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=1598
+  endOffset: 1839
+- name: 'Career Switchers: Internships, Projects, and Focused Skills'
+  startOffset: 1839
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=1839
+  endOffset: 1876
+- name: 'Resume Essentials: SQL, Python, Problems & Outcomes'
+  startOffset: 1876
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=1876
+  endOffset: 2107
+- name: 'Transition Strategy: Team Structure and Role Selection'
+  startOffset: 2107
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=2107
+  endOffset: 2381
+- name: 'Cloud Fundamentals: Tool-Agnostic Conceptual Knowledge'
+  startOffset: 2381
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=2381
+  endOffset: 2510
+- name: 'Infrastructure & DevOps Skills: When They Matter'
+  startOffset: 2510
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=2510
+  endOffset: 2675
+- name: 'Interview Prep: Research Company and Explain Projects Clearly'
+  startOffset: 2675
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=2675
+  endOffset: 2893
+- name: Targeted Applications vs. Spray-and-Pray Approach
+  startOffset: 2893
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=2893
+  endOffset: 3045
+- name: 'Hiring Without Degrees: Skills, Projects, Continuous Learning'
+  startOffset: 3045
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=3045
+  endOffset: 3265
+- name: 'Standout Project Examples: First Pipelines & Privacy Work'
+  startOffset: 3265
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=3265
+  endOffset: 3353
+- name: 'Portfolio & GitHub: Shareable Work and Storytelling'
+  startOffset: 3353
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=3353
+  endOffset: 3485
+- name: 'Industry Fit: Domain Knowledge for Regulated Data'
+  startOffset: 3485
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=3485
+  endOffset: 3659
+- name: 'Follow-up Resources: Webinars and Further Reading'
+  startOffset: 3659
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=3659
+  endOffset: 3698
+- name: Episode Close and Final Tips
+  startOffset: 3698
+  url: https://www.youtube.com/watch?v=hylxiu4VGTo&t=3698
+  endOffset: 3665
 ---
 Links:
 

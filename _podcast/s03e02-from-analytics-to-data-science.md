@@ -1,5 +1,6 @@
 ---
-title: 'Career Transition from Analytics to Data Science: Build a Kaggle Notebook Portfolio, Learn Python & Get Hired'
+title: 'Career Transition from Analytics to Data Science: Build a Kaggle Notebook
+  Portfolio, Learn Python & Get Hired'
 short: Shifting Career from Analytics to Data Science
 guests:
 - andradaolteanu
@@ -887,6 +888,91 @@ intro: 'How do you move from analytics into a hireable data science role by buil
   (algorithmic coding tests vs practical ML), and use LinkedIn/Twitter for networking.
   <br><br> If you’re building a Kaggle notebook portfolio, learning Python, and aiming
   for data science roles, this episode gives a practical, step-by-step roadmap.'
+dateadded: '2021-04-16'
+duration: PT01H02M21S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=0
+  endOffset: 97
+- name: 'Episode Overview: Transitioning from Analytics to Data Science'
+  startOffset: 97
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=97
+  endOffset: 130
+- name: 'Career Path: Statistics Degree → Avon Data Analyst → Master’s → Data Scientist'
+  startOffset: 130
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=130
+  endOffset: 321
+- name: 'Recommended Course: Python for Data Science & Machine Learning (Jose Portilla,
+    Udemy)'
+  startOffset: 321
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=321
+  endOffset: 498
+- name: 'Kaggle Introduction: First Encounters and Community Motivation'
+  startOffset: 498
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=498
+  endOffset: 583
+- name: 'Kaggle Notebooks: Iowa House Prices, Hyperparameter Tuning & Model Improvement'
+  startOffset: 583
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=583
+  endOffset: 866
+- name: 'Project-Based Learning: Kaggle as Primary Practice Environment'
+  startOffset: 866
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=866
+  endOffset: 942
+- name: 'Translating Academic Work: Dissertation and Masters Projects to Public Notebooks'
+  startOffset: 942
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=942
+  endOffset: 1089
+- name: 'Mentorship & Hiring: Connecting with Gabi Preda via Kaggle'
+  startOffset: 1089
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=1089
+  endOffset: 1405
+- name: 'Job Search Process: Timeline and Application Strategy'
+  startOffset: 1405
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=1405
+  endOffset: 1567
+- name: 'Interview Challenges: Algorithmic Coding Tests vs Practical ML Skills'
+  startOffset: 1567
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=1567
+  endOffset: 1934
+- name: 'Showcasing Work: Kaggle Notebooks, GitHub and Portfolio Impact'
+  startOffset: 1934
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=1934
+  endOffset: 2201
+- name: 'Transferable Analyst Skills: Data Validation, Domain Knowledge & EDA'
+  startOffset: 2201
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=2201
+  endOffset: 2509
+- name: 'Coding Growth Plan: Learn by Doing Competitions and Reproducing Notebooks'
+  startOffset: 2509
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=2509
+  endOffset: 2716
+- name: 'Learning Technique: Decompose Notebooks, Reimplement and Debug'
+  startOffset: 2716
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=2716
+  endOffset: 2967
+- name: 'Master’s Degree Value: Structured Curriculum vs Independent Study'
+  startOffset: 2967
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=2967
+  endOffset: 3174
+- name: 'Self-Paced Pivot: Udemy, Kaggle and YouTube Path to Data Science in ~1 Year'
+  startOffset: 3174
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=3174
+  endOffset: 3421
+- name: 'Kaggle Ecosystem: Notebooks, Datasets and Community Discussions'
+  startOffset: 3421
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=3421
+  endOffset: 3660
+- name: 'Networking Strategy: Use LinkedIn & Twitter to Showcase Projects and Build
+    Community'
+  startOffset: 3660
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=3660
+  endOffset: 3781
+- name: Episode Wrap-Up and Final Advice
+  startOffset: 3781
+  url: https://www.youtube.com/watch?v=ixmTewD5Waw&t=3781
+  endOffset: 3741
 ---
 
 Links:

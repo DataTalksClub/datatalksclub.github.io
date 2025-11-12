@@ -1181,6 +1181,113 @@ intro: How do you detect bias, enforce fairness, and govern AI systems in produc
   and interpretability. <br><br> Listeners will gain actionable guidance on bias detection,
   model interpretability, AI governance structures, and managing AutoML and regulated‑industry
   risks — practical steps to make AI systems more fair, transparent, and accountable.
+dateadded: '2022-10-02'
+duration: PT00H58M56S
+quotableClips:
+- name: 'Episode Introduction: Responsible and Explainable AI'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=0
+  endOffset: 134
+- name: 'Career Journey: Master''s, Consulting, and Founding DataBuzz'
+  startOffset: 134
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=134
+  endOffset: 234
+- name: 'Data Strategy Role: Building AI Products at Morgan Stanley'
+  startOffset: 234
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=234
+  endOffset: 283
+- name: 'Responsible AI: Definition, Trust, and Stakeholder Collaboration'
+  startOffset: 283
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=283
+  endOffset: 402
+- name: 'Credit Decision Bias Example: Explaining Disparate Outcomes'
+  startOffset: 402
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=402
+  endOffset: 500
+- name: 'Explainable vs Responsible AI: Post‑mortem Tools vs Governance Mindset'
+  startOffset: 500
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=500
+  endOffset: 630
+- name: 'Glass‑Box Approach: Explainable AI Techniques Overview'
+  startOffset: 630
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=630
+  endOffset: 696
+- name: 'Data‑Level Fairness Checks: Skewness, Missingness, and Coverage'
+  startOffset: 696
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=696
+  endOffset: 768
+- name: Exploratory Data Analysis for Bias Detection
+  startOffset: 768
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=768
+  endOffset: 879
+- name: 'PII Handling: Age, Gender, Masking, and Use‑case Justification'
+  startOffset: 879
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=879
+  endOffset: 1040
+- name: 'Feature Necessity: Product, SME, and Compliance Decisioning'
+  startOffset: 1040
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1040
+  endOffset: 1107
+- name: 'Automating Data Quality: DQ Tools, Alerts, and Monitoring'
+  startOffset: 1107
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1107
+  endOffset: 1143
+- name: 'Model Explainability Tools: What‑If, Skater, and AI Explainability 360'
+  startOffset: 1143
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1143
+  endOffset: 1404
+- name: 'Local Interpretability: LIME, SHAP, and Surrogate Models'
+  startOffset: 1404
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1404
+  endOffset: 1462
+- name: 'Ethics vs Profitability: Balancing Fairness and Business Objectives'
+  startOffset: 1462
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1462
+  endOffset: 1658
+- name: 'Cross‑Functional Governance: SMEs, Compliance, and Leadership Roles'
+  startOffset: 1658
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1658
+  endOffset: 1949
+- name: 'Accuracy vs Interpretability: Managing Model Complexity Trade‑offs'
+  startOffset: 1949
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1949
+  endOffset: 2128
+- name: 'Human‑in‑the‑Loop: Limits of Automation and Responsible Oversight'
+  startOffset: 2128
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=2128
+  endOffset: 2251
+- name: 'Detecting Drift & Feedback Loops: Demographics, Overfitting, and KS Tests'
+  startOffset: 2251
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=2251
+  endOffset: 2559
+- name: 'Regulated Industry Perspectives: Finance, Pharma, and Risk Sensitivity'
+  startOffset: 2559
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=2559
+  endOffset: 2647
+- name: 'Hiring Tool Case Study: Historical Bias and Remediation Lessons'
+  startOffset: 2647
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=2647
+  endOffset: 3017
+- name: 'AutoML Risks: Democratization, Oversight, and Responsible Usage'
+  startOffset: 3017
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3017
+  endOffset: 3128
+- name: 'Community & Mentorship: DataBuzz Resources and Networking'
+  startOffset: 3128
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3128
+  endOffset: 3230
+- name: 'Data Career Landscape: Analyst, MLOps, Consultant, and Strategist Roles'
+  startOffset: 3230
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3230
+  endOffset: 3404
+- name: 'Ethics Training: Professional Responsibility for Data Practitioners'
+  startOffset: 3404
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3404
+  endOffset: 3567
+- name: 'Closing Remarks: Follow‑up, Links, and Contact Information'
+  startOffset: 3567
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3567
+  endOffset: 3536
 ---
 
 Links:

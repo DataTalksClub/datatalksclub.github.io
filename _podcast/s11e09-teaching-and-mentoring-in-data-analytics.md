@@ -1464,6 +1464,119 @@ intro: 'How do you design a FinTech data analytics curriculum that teaches fraud
   cloud labs, teaching fraud detection and chargeback workflows, and adopting mentoring
   practices that help career changers and underrepresented learners succeed in data
   analytics.'
+dateadded: '2022-12-03'
+duration: PT01H46S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=0
+  endOffset: 68
+- name: 'Guest Overview: Irina Brudaru — teacher, curriculum developer, mentor in
+    data analytics'
+  startOffset: 68
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=68
+  endOffset: 133
+- name: 'Career Origins: early computing, Romania education, Max Planck research'
+  startOffset: 133
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=133
+  endOffset: 221
+- name: 'Industry Transition: data consulting, BI, Google and product analytics experience'
+  startOffset: 221
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=221
+  endOffset: 376
+- name: 'International Roles & Management: San Francisco, Netherlands, Berlin; leading
+    data teams'
+  startOffset: 376
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=376
+  endOffset: 537
+- name: 'Early Mentoring Wins: mentoring family, interns, and career pivot stories'
+  startOffset: 537
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=537
+  endOffset: 574
+- name: 'Mentoring Methods: visual explanations, learner-centered teaching techniques'
+  startOffset: 574
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=574
+  endOffset: 597
+- name: 'Community Teaching: NGOs, bootcamps, and FrauenLoop volunteer work'
+  startOffset: 597
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=597
+  endOffset: 798
+- name: 'Curriculum Design for FinTech: AI Guild program planning and certification
+    integration'
+  startOffset: 798
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=798
+  endOffset: 896
+- name: 'Curriculum Components: fraud, chargeback, ML in production, and business
+    skills'
+  startOffset: 896
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=896
+  endOffset: 1107
+- name: 'Instructor Sourcing & Storytelling: finding teachers and teaching data storytelling'
+  startOffset: 1107
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=1107
+  endOffset: 1334
+- name: 'Fraud Detection & Chargeback Modeling: rule-based vs neural approaches in
+    FinTech'
+  startOffset: 1334
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=1334
+  endOffset: 1543
+- name: 'Hands-on Cloud Teaching: BigQuery labs, student cloud access, demystifying
+    Google Cloud'
+  startOffset: 1543
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=1543
+  endOffset: 1734
+- name: 'Overcoming Cloud Reluctance: focusing on essential cloud skills for analysts'
+  startOffset: 1734
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=1734
+  endOffset: 1791
+- name: 'Managerial Scope: balancing analytics, data engineering, and technical credibility'
+  startOffset: 1791
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=1791
+  endOffset: 1910
+- name: 'Cohort Analysis Explained: retention metrics, product analytics visualization'
+  startOffset: 1910
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=1910
+  endOffset: 2134
+- name: 'Path to Formal Teaching: outreach, invitations, and joining teaching programs'
+  startOffset: 2134
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=2134
+  endOffset: 2329
+- name: 'Gender Diversity Research: plans to analyze company data for inclusion insights'
+  startOffset: 2329
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=2329
+  endOffset: 2476
+- name: 'Recruiting Women to Zoomcamps: targeted outreach, partnerships, and scheduling
+    considerations'
+  startOffset: 2476
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=2476
+  endOffset: 2724
+- name: 'Securing Technical Feedback: finding reviewers, advocating for code review
+    processes'
+  startOffset: 2724
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=2724
+  endOffset: 2979
+- name: 'Learning Antipatterns: ML hype, overengineering, and tool-centric approaches'
+  startOffset: 2979
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=2979
+  endOffset: 3286
+- name: 'Career Transition Advice: moving into data science from non-technical roles'
+  startOffset: 3286
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=3286
+  endOffset: 3488
+- name: 'Core Analyst Fundamentals: SQL, data visualization, soft skills, and product
+    tracking'
+  startOffset: 3488
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=3488
+  endOffset: 3632
+- name: 'Community Partnerships: collaborating with Women in Tech groups and volunteer
+    orgs'
+  startOffset: 3632
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=3632
+  endOffset: 3666
+- name: Episode Wrap-up and Contact Info
+  startOffset: 3666
+  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=3666
+  endOffset: 3646
 ---
 
 Links:

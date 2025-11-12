@@ -826,6 +826,125 @@ intro: 'How do you turn data science project failures into tangible career wins 
   projects on LinkedIn with honesty and lessons learned. <br><br> Listen to get actionable
   MLOps and production-ML strategies, communication tactics for stakeholders, and
   guidance on reframing failures into career momentum.'
+dateadded: '2021-06-06'
+duration: PT00H59M57S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=0
+  endOffset: 90
+- name: 'Episode Theme: Failures and LinkedIn Omissions'
+  startOffset: 90
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=90
+  endOffset: 152
+- name: 'Guest Opening: Background Snapshot'
+  startOffset: 152
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=152
+  endOffset: 185
+- name: 'Career Journey: Aviation, Academia, and Transition to NLP'
+  startOffset: 185
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=185
+  endOffset: 298
+- name: 'CV Choices: Omitting Hobbies and Personal Details'
+  startOffset: 298
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=298
+  endOffset: 335
+- name: 'Project Failures Overview: Common Data Science Pitfalls'
+  startOffset: 335
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=335
+  endOffset: 382
+- name: 'Case Study — Proofreading AI: BERT Regression and Early Termination'
+  startOffset: 382
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=382
+  endOffset: 666
+- name: 'Stakeholder Communication: Making the Call to Stop a Project'
+  startOffset: 666
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=666
+  endOffset: 691
+- name: 'Product Management Gap: Value of a Data Product Manager'
+  startOffset: 691
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=691
+  endOffset: 1006
+- name: 'Customer Development: Rapid Validation vs Building ML First'
+  startOffset: 1006
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=1006
+  endOffset: 1080
+- name: 'Engineering vs Research: Deployment and Serving Constraints'
+  startOffset: 1080
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=1080
+  endOffset: 1144
+- name: 'Production Lesson: Gradient Boosting vs CTR Heuristic Baseline'
+  startOffset: 1144
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=1144
+  endOffset: 1525
+- name: 'Performance Fix: Re-ranking Scope Reduction to Meet Latency'
+  startOffset: 1525
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=1525
+  endOffset: 1556
+- name: 'DevOps Anti-patterns: SSH Deploys, No CI/CD and Technical Debt'
+  startOffset: 1556
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=1556
+  endOffset: 1691
+- name: 'From Notebooks to Production: BI, LTV Predictions, and MLOps Needs'
+  startOffset: 1691
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=1691
+  endOffset: 1844
+- name: 'Startup Anecdote: GPU Overstock, Bitcoin, and Sentiment Analysis'
+  startOffset: 1844
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=1844
+  endOffset: 2076
+- name: 'Data Labeling Reality: Cost, Quality, and Mechanical Turk'
+  startOffset: 2076
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=2076
+  endOffset: 2118
+- name: 'Resume Strategy: Omitting Short or Sensitive Startup Stints'
+  startOffset: 2118
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=2118
+  endOffset: 2172
+- name: 'Telco NLP: Multilingual Complaint Classification & Transfer Learning'
+  startOffset: 2172
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=2172
+  endOffset: 2394
+- name: 'Too Much Freedom: Research Time vs Impactful Production Work'
+  startOffset: 2394
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=2394
+  endOffset: 2467
+- name: 'Interview Tip: Ask About Active Revenue-Producing ML in Production'
+  startOffset: 2467
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=2467
+  endOffset: 2600
+- name: 'Digital Presence: GitHub, Open Courses, Talks and Hiring Impact'
+  startOffset: 2600
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=2600
+  endOffset: 2735
+- name: 'Work-Life Balance Hacks: Focus Time and Side Projects'
+  startOffset: 2735
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=2735
+  endOffset: 2907
+- name: 'Public Activity ROI: A/B Tests, Talks, and Career Opportunities'
+  startOffset: 2907
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=2907
+  endOffset: 2970
+- name: 'Framing Failed Projects on LinkedIn: Honesty and Lessons Learned'
+  startOffset: 2970
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=2970
+  endOffset: 3161
+- name: 'Business-Travel Boundaries: Perm Trips and Weekend Work Limits'
+  startOffset: 3161
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=3161
+  endOffset: 3516
+- name: 'Closing Thoughts: Embracing Failures and Building Resilience'
+  startOffset: 3516
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=3516
+  endOffset: 3624
+- name: 'Contact & Resources: Open Course and Social Links'
+  startOffset: 3624
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=3624
+  endOffset: 3687
+- name: Episode Outro
+  startOffset: 3687
+  url: https://www.youtube.com/watch?v=c6dK1LWpv4g&t=3687
+  endOffset: 3597
 ---
 
 

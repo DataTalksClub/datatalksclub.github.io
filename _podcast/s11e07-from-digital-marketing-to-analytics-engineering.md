@@ -981,6 +981,121 @@ intro: 'How do you move from marketing into analytics engineering—and learn DB
   to get a practical career playbook and actionable guidance on SQL, DBT, data modeling,
   and the organizational fit between analytics engineer and data analyst. Find Nikola
   on LinkedIn (nikola-maksimovic-40188183).'
+dateadded: '2022-11-19'
+duration: PT00H54M34S
+quotableClips:
+- name: 'Episode Overview: Switching from Marketing to Analytics Engineering'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=0
+  endOffset: 32
+- name: 'Early Career & Startup Experience: London, Berlin, Movinga'
+  startOffset: 32
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=32
+  endOffset: 64
+- name: 'Marketing Role at Ecosia: Generalist Tasks and Responsibility Growth'
+  startOffset: 64
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=64
+  endOffset: 173
+- name: 'Performance Marketing: Rapid Feedback Loops and Data-Driven Optimization'
+  startOffset: 173
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=173
+  endOffset: 438
+- name: 'Career Pivot During Pandemic: Moving Toward BI and Analytics'
+  startOffset: 438
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=438
+  endOffset: 525
+- name: 'Preparing for BI: SQL Course and Marketing-Analyst Bridge'
+  startOffset: 525
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=525
+  endOffset: 593
+- name: 'Internal Pathway: Conversations with BI Team and Required Skills'
+  startOffset: 593
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=593
+  endOffset: 662
+- name: 'Core Skills: Advanced SQL, Data Pipeline Familiarity, Python Basics'
+  startOffset: 662
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=662
+  endOffset: 770
+- name: 'Transition Phase: Balancing Marketing Work and BI Projects'
+  startOffset: 770
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=770
+  endOffset: 854
+- name: 'Current Responsibilities: Analytics Engineering, Product Support & A/B Testing'
+  startOffset: 854
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=854
+  endOffset: 1114
+- name: 'Data Modeling in Practice: DBT Migration and Transformation Layers'
+  startOffset: 1114
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1114
+  endOffset: 1234
+- name: 'Analytics Tooling Stack: Snowplow, DBT, Looker, Redshift, Airflow, Airbyte,
+    Redash'
+  startOffset: 1234
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1234
+  endOffset: 1328
+- name: 'DBT Implementation: Leading a Migration Project and Data Modeling Learnings'
+  startOffset: 1328
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1328
+  endOffset: 1392
+- name: 'Looker & LookML Experience: Reporting and Dashboard Building'
+  startOffset: 1392
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1392
+  endOffset: 1491
+- name: 'Infrastructure Choices: Self‑Hosted Tooling vs DBT Cloud'
+  startOffset: 1491
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1491
+  endOffset: 1506
+- name: 'Role Definition: Analytics Engineer vs Data Analyst — Overlap & Organizational
+    Fit'
+  startOffset: 1506
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1506
+  endOffset: 1720
+- name: 'DBT''s Influence: How DBT Shapes the Analytics Engineering Role'
+  startOffset: 1720
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1720
+  endOffset: 1828
+- name: 'Data Modeling Theory: Wide vs Narrow Tables and Incrementalization Tradeoffs'
+  startOffset: 1828
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1828
+  endOffset: 2026
+- name: 'Learning Data Modeling: Practical Resources, Blog Posts and Mentorship'
+  startOffset: 2026
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2026
+  endOffset: 2130
+- name: 'Nontraditional Background: Classics to Data — Just‑In‑Time Learning and Udemy
+    SQL'
+  startOffset: 2130
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2130
+  endOffset: 2307
+- name: 'Product Analytics Focus: Growth, Retention, RFM Analysis and NLP Experiments'
+  startOffset: 2307
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2307
+  endOffset: 2376
+- name: 'Domain Knowledge Advantage: Marketing Funnel, User Journey & Empathy'
+  startOffset: 2376
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2376
+  endOffset: 2510
+- name: 'Transition Playbook: Excel, SQL, Dashboard Practice and Small Projects'
+  startOffset: 2510
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2510
+  endOffset: 2709
+- name: 'Mentorship & Sponsorship: Internal Champions, Confidence and Representation'
+  startOffset: 2709
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2709
+  endOffset: 3023
+- name: 'Networking Channels: LinkedIn, Meetups and DBT Slack for Mentors'
+  startOffset: 3023
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=3023
+  endOffset: 3130
+- name: 'Reading List: Analytics Newsletters & Blogs (DBT roundup, Lenny’s, Locally
+    Optimistic)'
+  startOffset: 3130
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=3130
+  endOffset: 3226
+- name: 'Contact & Wrap‑Up: Finding Nikola on LinkedIn and Episode Close'
+  startOffset: 3226
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=3226
+  endOffset: 3274
 ---
 
 Links:

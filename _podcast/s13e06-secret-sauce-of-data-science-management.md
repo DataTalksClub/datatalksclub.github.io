@@ -1116,6 +1116,90 @@ intro: How do you run data science teams so experiments become reliable, measura
   the managerial skills to lead high-performance data science teams. This episode
   is for managers and technical leads focused on production ML, machine learning operations,
   and team-driven impact.
+dateadded: '2023-04-01'
+duration: PT00H56M57S
+quotableClips:
+- name: 'Episode Introduction: The Secret Sauce of Data Science Management'
+  startOffset: 100
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=100
+  endOffset: 160
+- name: 'Career Background: Electrical Engineering to Document Intelligence at Intuit'
+  startOffset: 160
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=160
+  endOffset: 271
+- name: 'Military Leadership Lessons: Pilot Training & Debrief Culture Origins'
+  startOffset: 271
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=271
+  endOffset: 324
+- name: 'Debriefing Practice: Pre/post Focus Areas for Continuous Improvement'
+  startOffset: 324
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=324
+  endOffset: 558
+- name: 'Group Manager Role: Strategy, Mentoring, Standards and Roadmaps'
+  startOffset: 558
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=558
+  endOffset: 713
+- name: 'Measuring Success: Business Impact and Team Engagement Metrics'
+  startOffset: 713
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=713
+  endOffset: 776
+- name: 'People Metrics: Pulse Surveys, Manager Score and Skip-level Feedback'
+  startOffset: 776
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=776
+  endOffset: 979
+- name: 'Leadership Pillars: Vision, Driving Results, Building High-performance Culture'
+  startOffset: 979
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=979
+  endOffset: 1043
+- name: 'Managing Leadership Relationships: Communicating Vision and Securing Resources'
+  startOffset: 1043
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=1043
+  endOffset: 1464
+- name: 'Team Development: Goal-setting, One-on-ones, Feedback and Recognition'
+  startOffset: 1464
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=1464
+  endOffset: 1585
+- name: 'Goal Alignment: Cascading Roadmap Goals to Individual Development'
+  startOffset: 1585
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=1585
+  endOffset: 1920
+- name: 'Fostering Innovation: Hackathons, Paper Clubs and Learning Forums'
+  startOffset: 1920
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=1920
+  endOffset: 2071
+- name: 'Cross-Functional Integration: Product Partnerships and Expectation Management'
+  startOffset: 2071
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=2071
+  endOffset: 2466
+- name: 'AI Project Uncertainty: Data Risks, Unknowns and Rapid Experimentation'
+  startOffset: 2466
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=2466
+  endOffset: 2658
+- name: 'Agile for ML: Two-week Sprints, Exploration Tasks and Grooming Practices'
+  startOffset: 2658
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=2658
+  endOffset: 2736
+- name: 'Scoping ML Work: Exploration Sprints, Design Stories and Iterative Milestones'
+  startOffset: 2736
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=2736
+  endOffset: 2994
+- name: 'Core Manager Skills: Communication, Strategic Clarity and Growth Mindset'
+  startOffset: 2994
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=2994
+  endOffset: 3299
+- name: 'POC to Production: Customer-focused Metrics, A/B Testing and Incremental
+    Rollout'
+  startOffset: 3299
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=3299
+  endOffset: 3498
+- name: 'Resources & Further Reading: Shir’s Talks and Blog Posts'
+  startOffset: 3498
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=3498
+  endOffset: 3517
+- name: Episode Wrap-up and Closing Remarks
+  startOffset: 3517
+  url: https://www.youtube.com/watch?v=gcxP0qRO-MY&t=3517
+  endOffset: 3417
 ---
 
 Links:

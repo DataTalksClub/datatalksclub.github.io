@@ -1,5 +1,6 @@
 ---
-title: 'How to Build Data Governance in the Cloud: Classification, Catalogs, Policies & ROI'
+title: 'How to Build Data Governance in the Cloud: Classification, Catalogs, Policies
+  & ROI'
 short: Data Governance
 guests:
 - jessiashdown
@@ -877,6 +878,113 @@ intro: 'How do you build data governance in the cloud that enables access, meets
   metadata, lineage, business glossary). <br><br> Listen to gain actionable steps
   to scope a cloud data governance program, prioritize by the “why,” and implement
   classification, catalogs, and policies that balance control and democratized access.'
+dateadded: '2021-06-13'
+duration: PT00H58M09S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=0
+  endOffset: 209
+- name: 'Guest Background — Jessi: UX Researcher & Data Governance at Google Cloud'
+  startOffset: 209
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=209
+  endOffset: 286
+- name: 'Guest Background — Uri: Product Management & Data Governance Experience'
+  startOffset: 286
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=286
+  endOffset: 400
+- name: 'Defining Data Governance: Beyond Security and PII'
+  startOffset: 400
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=400
+  endOffset: 537
+- name: Cloud & Regulation Driving Governance Adoption (GDPR, Cambridge Analytica)
+  startOffset: 537
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=537
+  endOffset: 844
+- name: 'Core Components: People, Processes, Tools and Cataloging'
+  startOffset: 844
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=844
+  endOffset: 933
+- name: 'Practical Implementation: Classify Data and Establish Policies'
+  startOffset: 933
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=933
+  endOffset: 1180
+- name: 'Assessing Necessity: When Governance Can Be Minimal'
+  startOffset: 1180
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=1180
+  endOffset: 1380
+- name: 'Prioritization: Start with the "Why" to Scope Your Program'
+  startOffset: 1380
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=1380
+  endOffset: 1454
+- name: 'Data Classification & Taxonomy: Defining Meaningful Data Classes'
+  startOffset: 1454
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=1454
+  endOffset: 1668
+- name: 'Tools vs Spreadsheets: Scalable Data Catalog Approaches'
+  startOffset: 1668
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=1668
+  endOffset: 1820
+- name: 'Aligning Storage and Systems: Make Data Work for You'
+  startOffset: 1820
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=1820
+  endOffset: 1983
+- name: 'Human Roles: Data Stewards, Producers and Decision Makers'
+  startOffset: 1983
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=1983
+  endOffset: 2099
+- name: 'Data Quality: Trust Signals, Source, and Measurable Checks'
+  startOffset: 2099
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=2099
+  endOffset: 2305
+- name: 'Policy Design: Retention, Freshness and Purpose-based Access'
+  startOffset: 2305
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=2305
+  endOffset: 2524
+- name: 'Policies as Enablement: Guardrails for Democratized Data Access'
+  startOffset: 2524
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=2524
+  endOffset: 2704
+- name: 'Enforcement Models: Catalog Interfaces vs Storage Control Plane'
+  startOffset: 2704
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=2704
+  endOffset: 2822
+- name: 'Access Workflows: Request/Approval "Shopping Cart" Experience'
+  startOffset: 2822
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=2822
+  endOffset: 2855
+- name: 'Governance Tools & Platforms: Dataplex, Collibra and Integrations'
+  startOffset: 2855
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=2855
+  endOffset: 2930
+- name: 'Automation: Tagging, Requests and Reducing Manual Effort'
+  startOffset: 2930
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=2930
+  endOffset: 3019
+- name: 'Measuring ROI: Catalog Metrics, Cost vs Usage and Compliance Value'
+  startOffset: 3019
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=3019
+  endOffset: 3201
+- name: 'MVP Strategy: Minimum Viable Governance and Future-proofing'
+  startOffset: 3201
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=3201
+  endOffset: 3277
+- name: 'Data Catalog Contents: Technical Metadata, Lineage and Business Glossary'
+  startOffset: 3277
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=3277
+  endOffset: 3466
+- name: 'Governance Scope: Why It Extends Beyond the Catalog'
+  startOffset: 3466
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=3466
+  endOffset: 3544
+- name: Closing Remarks, Contact Links and Next Steps
+  startOffset: 3544
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=3544
+  endOffset: 3560
+- name: 'Recommended Resource: Data Governance (O''Reilly Book)'
+  startOffset: 3560
+  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=3560
+  endOffset: 3489
 ---
 
 Links:

@@ -1286,6 +1286,101 @@ intro: 'How do you move from a QA role into machine learning and data engineerin
   and shares CV, portfolio, and negotiation tips. Tune in if you’re planning a transition
   to machine learning or data engineering and need concrete guidance on projects,
   cloud experience, and interview preparation.'
+dateadded: '2022-10-07'
+duration: PT01H01M24S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=0
+  endOffset: 75
+- name: Early Life & Informatics Engineering; phone industry beginnings
+  startOffset: 75
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=75
+  endOffset: 221
+- name: 'Phone prototyping and field testing: QA checklists, CTS & RF testing'
+  startOffset: 221
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=221
+  endOffset: 515
+- name: 'Career pivot: quitting QA, gap year, and discovering machine learning'
+  startOffset: 515
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=515
+  endOffset: 812
+- name: 'Structured learning path: postgraduate course, Neuromatch Academy, ML & Data
+    Engineering Zoomcamps'
+  startOffset: 812
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=812
+  endOffset: 1077
+- name: 'Job search strategy: improving soft skills, hiring a coach, and CV redesign'
+  startOffset: 1077
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=1077
+  endOffset: 1358
+- name: 'Interview soft skills: role-play, confidence building, and behavioral prep'
+  startOffset: 1358
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=1358
+  endOffset: 1497
+- name: 'Zoomcamp projects: speed-dating EDA and vegetable image-classification'
+  startOffset: 1497
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=1497
+  endOffset: 1636
+- name: 'Project deployment experience: Google Cloud, AWS exercises, and cloud credits'
+  startOffset: 1636
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=1636
+  endOffset: 1732
+- name: 'Presenting projects objectively: avoid underselling and focus on facts'
+  startOffset: 1732
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=1732
+  endOffset: 1898
+- name: 'Interview formats encountered: take-home tasks, time-series exercise, and
+    NLP-focused hiring'
+  startOffset: 1898
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=1898
+  endOffset: 2041
+- name: 'Cloud familiarity in interviews: Google Cloud, Azure, AWS—what mattered'
+  startOffset: 2041
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=2041
+  endOffset: 2102
+- name: 'Creating technical notes: long-form Markdown, GitHub gists, and screenshots'
+  startOffset: 2102
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=2102
+  endOffset: 2238
+- name: 'Note-taking workflow: video pause-write method, indexes, and VS Code'
+  startOffset: 2238
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=2238
+  endOffset: 2613
+- name: 'Role of a coach: negotiation practice, interview framing, and communication'
+  startOffset: 2613
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=2613
+  endOffset: 2859
+- name: 'Skill distinction: math-heavy research ML vs. tooling-focused data engineering'
+  startOffset: 2859
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=2859
+  endOffset: 2972
+- name: 'Technical interview prep: tailor study to role, projects, and hands-on exercises'
+  startOffset: 2972
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=2972
+  endOffset: 3113
+- name: 'Typical workday as an ML project manager: planning, Teams, and task coordination'
+  startOffset: 3113
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=3113
+  endOffset: 3252
+- name: 'Production tech stack: Azure, Databricks, AutoKeras, Azure Data Factory,
+    and SQL'
+  startOffset: 3252
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=3252
+  endOffset: 3371
+- name: 'Transition advice: programming background, math, and transferable skills
+    for ML careers'
+  startOffset: 3371
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=3371
+  endOffset: 3626
+- name: 'CV and portfolio tips: visual résumé, GitHub visibility, and sample CV link'
+  startOffset: 3626
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=3626
+  endOffset: 3731
+- name: 'Closing remarks & links: CV, GitHub, and LinkedIn resources'
+  startOffset: 3731
+  url: https://www.youtube.com/watch?v=-xumbiXOlA8&t=3731
+  endOffset: 3684
 ---
 
 Links:

@@ -954,6 +954,101 @@ intro: How do you build and scale end-to-end IoT data pipelines and a lakehouse 
   components and project-specific solutions. Listen to learn actionable guidance on
   architecture outcomes, agile delivery with proofs of concept, and building core
   models that align teams and business goals.
+dateadded: '2023-10-01'
+duration: PT01H27S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=0
+  endOffset: 105
+- name: 'Career overview: From data manager to data lead'
+  startOffset: 105
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=105
+  endOffset: 204
+- name: 'Early role: Sensor data aggregation & structural health monitoring'
+  startOffset: 204
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=204
+  endOffset: 344
+- name: 'Data management vs analyst: responsibilities and data discovery'
+  startOffset: 344
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=344
+  endOffset: 441
+- name: 'Automation to data engineering: ETL, scripting, and process automation'
+  startOffset: 441
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=441
+  endOffset: 561
+- name: 'End-to-end IoT pipelines: loggers, ingestion, and reporting'
+  startOffset: 561
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=561
+  endOffset: 687
+- name: 'Domain expertise: civil engineering aiding data diagnosis'
+  startOffset: 687
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=687
+  endOffset: 891
+- name: 'Adapting to cloud & IoT: learning Python, Azure, and cloud fundamentals'
+  startOffset: 891
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=891
+  endOffset: 1261
+- name: 'Hiring mindset: evaluating experience, scale, and cloud adaptability'
+  startOffset: 1261
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=1261
+  endOffset: 1367
+- name: 'Data architect role: seniority, end-to-end ownership, and modeling'
+  startOffset: 1367
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=1367
+  endOffset: 1640
+- name: 'Architecture outcome: team alignment and optimized data processes'
+  startOffset: 1640
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=1640
+  endOffset: 1796
+- name: 'Lakehouse layering: bronze, silver, gold and data quality expectations'
+  startOffset: 1796
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=1796
+  endOffset: 1978
+- name: 'Analytics modeling: dimensions, facts, metrics, and stakeholder discovery'
+  startOffset: 1978
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=1978
+  endOffset: 2160
+- name: 'Core model strategy: supporting multiple consumers and departments'
+  startOffset: 2160
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=2160
+  endOffset: 2230
+- name: 'Role balance: hands-on engineering vs stakeholder engagement over time'
+  startOffset: 2230
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=2230
+  endOffset: 2551
+- name: 'Empowerment & prioritization: scaling teams and aligning with business goals'
+  startOffset: 2551
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=2551
+  endOffset: 2653
+- name: 'Staying technical: one-on-ones, demos, and hands-on proofs of concept'
+  startOffset: 2653
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=2653
+  endOffset: 3045
+- name: 'Technology scouting: DBT, LLMs, newsletters and community curation'
+  startOffset: 3045
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=3045
+  endOffset: 3208
+- name: 'Agile delivery: draft specs, proof of concept pipelines, and iteration'
+  startOffset: 3208
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=3208
+  endOffset: 3432
+- name: 'Reusable templates: ingestion, transformation, and datamart patterns'
+  startOffset: 3432
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=3432
+  endOffset: 3574
+- name: 'Design tradeoffs: reusable components vs project-specific solutions'
+  startOffset: 3574
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=3574
+  endOffset: 3651
+- name: 'Follow-up: guest contact and LinkedIn connection'
+  startOffset: 3651
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=3651
+  endOffset: 3691
+- name: Episode recap & closing
+  startOffset: 3691
+  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=3691
+  endOffset: 3627
 ---
 
 Links:

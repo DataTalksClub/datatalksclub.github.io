@@ -1,5 +1,6 @@
 ---
-title: 'Hiring Data Scientists & Analysts: Talent Pipelines, Job Specs, CV Screening & Salary Tips'
+title: 'Hiring Data Scientists & Analysts: Talent Pipelines, Job Specs, CV Screening
+  & Salary Tips'
 short: Recruiting Data Professionals
 guests:
 - alicjanotowska
@@ -1232,4 +1233,115 @@ intro: How do you consistently find and hire the right data scientists and analy
   bands, transparency and negotiation — managing hiring manager expectations, pathways
   for career changers, and offer etiquette. Listen to gain actionable tactics for
   job specs, CV screening, sourcing and salary negotiation when hiring data talent.
+dateadded: '2022-01-29'
+duration: PT01H04M55S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=0
+  endOffset: 125
+- name: Guest Background & Recruiting Experience
+  startOffset: 125
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=125
+  endOffset: 186
+- name: 'Current Role: Embedded Talent Agency & Client Lead'
+  startOffset: 186
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=186
+  endOffset: 284
+- name: Typical Interview Funnel for Data Roles
+  startOffset: 284
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=284
+  endOffset: 380
+- name: End-to-End Recruiting Responsibilities
+  startOffset: 380
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=380
+  endOffset: 429
+- name: Collaborating with Hiring Managers & Crafting Job Specs
+  startOffset: 429
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=429
+  endOffset: 542
+- name: 'Sourcing Channels: LinkedIn, GitHub, Conferences & Academia'
+  startOffset: 542
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=542
+  endOffset: 694
+- name: Building Talent Pipelines & 360° Recruitment
+  startOffset: 694
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=694
+  endOffset: 837
+- name: Managing Hiring Expectations & Market Reality
+  startOffset: 837
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=837
+  endOffset: 1038
+- name: Using Talent Market Data to Negotiate Requirements
+  startOffset: 1038
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=1038
+  endOffset: 1108
+- name: 'Job Description Focus: Problems Over Perks'
+  startOffset: 1108
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=1108
+  endOffset: 1204
+- name: Inclusive JD Language & AI Tools for Attraction
+  startOffset: 1204
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=1204
+  endOffset: 1292
+- name: 'Screening Profiles: Experience, Education & Responsibilities'
+  startOffset: 1292
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=1292
+  endOffset: 1556
+- name: Keyword Strategy for Data Scientist Searches
+  startOffset: 1556
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=1556
+  endOffset: 1630
+- name: 'Education Signals: Bachelor’s, Master’s & PhD Expectations'
+  startOffset: 1630
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=1630
+  endOffset: 1721
+- name: 'CV Best Practices: Responsibilities, Dates & Clarity'
+  startOffset: 1721
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=1721
+  endOffset: 1960
+- name: Avoiding Buzzwords & Making CVs Interview-Ready
+  startOffset: 1960
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=1960
+  endOffset: 2168
+- name: 'Recruiter Screening Interviews: Behavioral & Motivation Checks'
+  startOffset: 2168
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=2168
+  endOffset: 2433
+- name: 'Salary Conversations: Bands, Transparency & Negotiation'
+  startOffset: 2433
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=2433
+  endOffset: 2705
+- name: Handling High Salary Requests & Market Research
+  startOffset: 2705
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=2705
+  endOffset: 2856
+- name: 'Pathways for Career Changers: Gaining Practical Experience'
+  startOffset: 2856
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=2856
+  endOffset: 3053
+- name: 'Cover Letters vs CVs: When They Matter'
+  startOffset: 3053
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=3053
+  endOffset: 3249
+- name: 'Data Analyst Hiring: Title Ambiguity & Similar Processes'
+  startOffset: 3249
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=3249
+  endOffset: 3570
+- name: Portfolio Projects & Online Courses on Your CV
+  startOffset: 3570
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=3570
+  endOffset: 3697
+- name: 'Making a Strong Impression: Clear Explanations & Examples'
+  startOffset: 3697
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=3697
+  endOffset: 3709
+- name: 'Offer Etiquette: Communication, Commitments & Withdrawals'
+  startOffset: 3709
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=3709
+  endOffset: 4004
+- name: Where to Find Alicja & Episode Wrap-up
+  startOffset: 4004
+  url: https://www.youtube.com/watch?v=WSMDXsjKYx4&t=4004
+  endOffset: 3895
 ---

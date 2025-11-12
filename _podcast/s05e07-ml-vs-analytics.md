@@ -1,5 +1,6 @@
 ---
-title: 'From Analytics to Production ML: Team Building, Experiments, MLOps & Fraud Detection'
+title: 'From Analytics to Production ML: Team Building, Experiments, MLOps & Fraud
+  Detection'
 short: Similarities and Differences between ML and Analytics
 guests:
 - rishabhbhargava
@@ -1038,6 +1039,97 @@ intro: How do teams move beyond dashboards to reliable production ML—while org
   <br><br> If you’re responsible for data strategy, MLOps, or deploying fraud detection
   models, this episode provides actionable perspectives on experiments, team building,
   and moving ML into production.
+dateadded: '2021-10-16'
+duration: PT00H59M15S
+quotableClips:
+- name: Episode Introduction & Guest Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=0
+  endOffset: 128
+- name: 'Career Path: Data Infrastructure and Stanford ML Background'
+  startOffset: 128
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=128
+  endOffset: 235
+- name: 'Sales Engineering: Demos, POCs and Data Integration'
+  startOffset: 235
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=235
+  endOffset: 335
+- name: 'Early Machine Learning Work: NLP, Summarization and Entity Extraction'
+  startOffset: 335
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=335
+  endOffset: 406
+- name: 'Prescriptive vs Predictive Analytics: Definitions and Business Use Cases'
+  startOffset: 406
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=406
+  endOffset: 572
+- name: 'Terminology Problems: The Ambiguity of "Data Science"'
+  startOffset: 572
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=572
+  endOffset: 648
+- name: 'ML vs Analytics: Different Goals, Shared Data Infrastructure'
+  startOffset: 648
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=648
+  endOffset: 828
+- name: 'Machine Learning Day-to-Day: Models, APIs, Predictions and SLAs'
+  startOffset: 828
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=828
+  endOffset: 1058
+- name: 'Fraud Detection: From Rule-Based Systems to Machine Learning'
+  startOffset: 1058
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=1058
+  endOffset: 1119
+- name: 'Analyst Responsibilities: Dashboards, Reports and Ad-hoc Queries'
+  startOffset: 1119
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=1119
+  endOffset: 1463
+- name: 'Domain Expertise: Analysts'' Tribal Knowledge and SQL Proficiency'
+  startOffset: 1463
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=1463
+  endOffset: 1593
+- name: Documentation Limitations and Attempts to Improve Knowledge Sharing
+  startOffset: 1593
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=1593
+  endOffset: 1722
+- name: 'Experimental Workflows: Model Experiments, A/B Testing and Shadow Mode'
+  startOffset: 1722
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=1722
+  endOffset: 1879
+- name: 'Experiment Analysis: Segmentation, Uplift and Root Cause Investigation'
+  startOffset: 1879
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=1879
+  endOffset: 2010
+- name: 'Overlaps and Differences: Data Quality, Timescales and Outputs'
+  startOffset: 2010
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=2010
+  endOffset: 2344
+- name: 'Bridging Roles: Notebooks, SQL+Python Workflows and Analytics Engineering'
+  startOffset: 2344
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=2344
+  endOffset: 2473
+- name: 'Investment Trends: ML Hype, Analytics Underspend and Data Infrastructure'
+  startOffset: 2473
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=2473
+  endOffset: 2582
+- name: 'Hiring Imbalance: Prioritizing Data Scientists vs Data Analysts'
+  startOffset: 2582
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=2582
+  endOffset: 2941
+- name: 'Team Organization: Embedded Data Roles Versus Centralized Structures'
+  startOffset: 2941
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=2941
+  endOffset: 3341
+- name: 'Building a Data Team: Hire Data Engineers, Then Analysts, Then DS'
+  startOffset: 3341
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=3341
+  endOffset: 3499
+- name: 'MLOpsRoundup Newsletter: ML Production, MLOps Insights and Resources'
+  startOffset: 3499
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=3499
+  endOffset: 3599
+- name: 'Contact and Community: Twitter, Slack and Episode Close'
+  startOffset: 3599
+  url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=3599
+  endOffset: 3555
 ---
 
 Links:

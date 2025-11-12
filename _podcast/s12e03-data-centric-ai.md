@@ -1261,6 +1261,129 @@ intro: How much can improving label quality and editing your dataset actually bo
   workflows and heuristics to prioritize impactful data fixes, improve label quality,
   and make dataset edits that measurably increase model performance. Find additional
   resources at marysia.nl and PyData.
+dateadded: '2023-01-07'
+duration: PT00H57M34S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 86
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=86
+  endOffset: 123
+- name: AI education & geometric deep learning in medical imaging
+  startOffset: 123
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=123
+  endOffset: 184
+- name: Data science education and course development
+  startOffset: 184
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=184
+  endOffset: 291
+- name: Building a community of practice and improving product maturity
+  startOffset: 291
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=291
+  endOffset: 324
+- name: 'Data-Centric AI: shifting focus from Big Data to Good Data'
+  startOffset: 324
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=324
+  endOffset: 354
+- name: Model-centric vs data-centric approaches; challenges with unstructured data
+  startOffset: 354
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=354
+  endOffset: 628
+- name: 'Transfer learning & fine-tuning: why label quality matters more now'
+  startOffset: 628
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=628
+  endOffset: 825
+- name: 'Data-centric competition case: fixed ResNet model with editable dataset'
+  startOffset: 825
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=825
+  endOffset: 905
+- name: 'Competition lessons: accessibility, strategy, and innovation award'
+  startOffset: 905
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=905
+  endOffset: 1064
+- name: Strategic data augmentation vs brute-force data collection
+  startOffset: 1064
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=1064
+  endOffset: 1126
+- name: 'Mindset shift: treating datasets as editable artifacts'
+  startOffset: 1126
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=1126
+  endOffset: 1164
+- name: Validation split adjustments and maintaining fair model comparisons
+  startOffset: 1164
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=1164
+  endOffset: 1345
+- name: Iterating on both data and model; prioritizing impactful data fixes
+  startOffset: 1345
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=1345
+  endOffset: 1382
+- name: 'Tooling spectrum: labeling, synthetic data, and data versioning'
+  startOffset: 1382
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=1382
+  endOffset: 1404
+- name: 'Practical workflows: lightweight versioning and easy data edits'
+  startOffset: 1404
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=1404
+  endOffset: 1586
+- name: 'Low-tech iteration: Google Sheets labeling plus automation scripts'
+  startOffset: 1586
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=1586
+  endOffset: 1675
+- name: Targeted relabeling using model confidence and image embeddings
+  startOffset: 1675
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=1675
+  endOffset: 1942
+- name: 'Curated resources: Haiti Research and WhyData tool directories'
+  startOffset: 1942
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=1942
+  endOffset: 1996
+- name: 'Iterative loop: baseline model, error analysis, and SME validation'
+  startOffset: 1996
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=1996
+  endOffset: 2124
+- name: 'Beyond cleaning: representativeness, bias, and dataset completeness'
+  startOffset: 2124
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=2124
+  endOffset: 2174
+- name: Detecting dataset gaps with embeddings and UMAP (penguin example)
+  startOffset: 2174
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=2174
+  endOffset: 2386
+- name: 'Defining real-world contexts: lighting, angles, and edge cases'
+  startOffset: 2386
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=2386
+  endOffset: 2507
+- name: 'Acceptance criteria: deciding when dataset quality is sufficient'
+  startOffset: 2507
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=2507
+  endOffset: 2653
+- name: 'Production feedback loops: collecting user feedback post-deployment'
+  startOffset: 2653
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=2653
+  endOffset: 2812
+- name: 'Shadow mode rollout: passive deployment for safe feedback collection'
+  startOffset: 2812
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=2812
+  endOffset: 2949
+- name: 'Scarce or low-quality data: feasibility, manual fixes, and limits'
+  startOffset: 2949
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=2949
+  endOffset: 3045
+- name: Automating dataset repairs vs manual editing trade-offs
+  startOffset: 3045
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=3045
+  endOffset: 3056
+- name: 'PyData involvement: organizing meetups, tutorials, and global events'
+  startOffset: 3056
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=3056
+  endOffset: 3361
+- name: 'PyData vs PyCon: data focus, language inclusivity, and NumFOCUS support'
+  startOffset: 3361
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=3361
+  endOffset: 3504
+- name: 'Contact & resources: marysia.nl, LinkedIn, and PyData engagement'
+  startOffset: 3504
+  url: https://www.youtube.com/watch?v=t3HDdVWQzNM&t=3504
+  endOffset: 3454
 ---
 
 Links:

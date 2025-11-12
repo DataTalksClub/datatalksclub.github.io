@@ -973,6 +973,93 @@ intro: How do you move industrial AI from pilots to production at scale while ke
   and hybrid hub‑and‑spoke data teams—and the reporting-line impacts on velocity and
   trust. Listeners will get concrete guidance on building data teams, deploying MLOps,
   and transitioning research into production-ready machine learning systems.
+dateadded: '2022-11-05'
+duration: PT01H49S
+quotableClips:
+- name: Introduction & Live Chat Poll Results
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=0
+  endOffset: 149
+- name: 'Guest Introduction: Andrey Shtylenko, Honeywell'
+  startOffset: 149
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=149
+  endOffset: 196
+- name: 'Career Journey: Startups, Organizational Development, and Honeywell'
+  startOffset: 196
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=196
+  endOffset: 534
+- name: 'Honeywell Use Cases: Smart Sensors, Computer Vision, and Robotics'
+  startOffset: 534
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=534
+  endOffset: 682
+- name: Defining Organizational Data and Machine Learning Practices
+  startOffset: 682
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=682
+  endOffset: 826
+- name: Challenges of AI Adoption in Traditional Industrial Companies
+  startOffset: 826
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=826
+  endOffset: 942
+- name: Sensorization and Cloud Processing to Enable Advanced Models
+  startOffset: 942
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=942
+  endOffset: 1146
+- name: 'Reporting Line Impact: CTO vs CIO vs CMO vs CEO'
+  startOffset: 1146
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=1146
+  endOffset: 1466
+- name: 'Data Practice Maturity Model: Crawl → Walk → Run'
+  startOffset: 1466
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=1466
+  endOffset: 1920
+- name: 'POC Strategy: Single End-to-End Project to Prove Value'
+  startOffset: 1920
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=1920
+  endOffset: 2306
+- name: 'Centralized Team: Roles, Tooling, and MLOps Standardization'
+  startOffset: 2306
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=2306
+  endOffset: 2619
+- name: 'Transition Risks: Centralized vs Decentralized Approaches'
+  startOffset: 2619
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=2619
+  endOffset: 2764
+- name: 'Embedded Teams: Reporting Structure, Ownership, and Trust'
+  startOffset: 2764
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=2764
+  endOffset: 2893
+- name: 'Hybrid Hub-and-Spoke Model: Balancing Autonomy and Standards'
+  startOffset: 2893
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=2893
+  endOffset: 3014
+- name: 'Shared Services: Experiment Tracking, Annotation, and Procurement'
+  startOffset: 3014
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3014
+  endOffset: 3107
+- name: Recommended Reading and Resources for Building Data Teams
+  startOffset: 3107
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3107
+  endOffset: 3159
+- name: 'Career Pivot: From Software Engineer to Data Scientist Internally'
+  startOffset: 3159
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3159
+  endOffset: 3307
+- name: Timing and Strategies for Internal Role Transitions
+  startOffset: 3307
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3307
+  endOffset: 3404
+- name: 'Research vs Production: ML Engineers and Productionizing Models'
+  startOffset: 3404
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3404
+  endOffset: 3584
+- name: 'Career Advice: Expanding Scope to Increase Organizational Impact'
+  startOffset: 3584
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3584
+  endOffset: 3693
+- name: 'Connect with Andrey: LinkedIn and Follow-up Resources'
+  startOffset: 3693
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3693
+  endOffset: 3649
 ---
 
 Links:

@@ -1171,6 +1171,129 @@ intro: 'How do you teach reproducible research and practical research software e
   infrastructure and academic-industry tensions — plus pointers to resources like
   The Turing Way, The Carpentries, and the ML Solutions Handbook to help implement
   reproducible research and RSE practices in neuroimaging projects.'
+dateadded: '2023-01-14'
+duration: PT00H58M10S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=0
+  endOffset: 68
+- name: 'Guest Background: Johanna Bayer — Psychology to Machine Learning in Neuroimaging'
+  startOffset: 68
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=68
+  endOffset: 144
+- name: 'Academic Journey: Studies in Germany, Zurich and Move to Melbourne'
+  startOffset: 144
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=144
+  endOffset: 327
+- name: 'Teaching Open Science: Intro to Git, Homework Support and Course Structure'
+  startOffset: 327
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=327
+  endOffset: 459
+- name: Carpentries & Structured Beginner Curriculum for Reproducible Research
+  startOffset: 459
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=459
+  endOffset: 510
+- name: 'Open Science Curriculum: Reproducible Manuscripts with Embedded Code'
+  startOffset: 510
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=510
+  endOffset: 652
+- name: 'Guided Onboarding to Open Source: Small Repos, Pull Requests & Turing Book'
+  startOffset: 652
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=652
+  endOffset: 730
+- name: 'What RSE Means: Software-Focused Research Outputs and Practices'
+  startOffset: 730
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=730
+  endOffset: 850
+- name: 'Academic RSE Roles: PhD Students, Methods Papers and Toolboxes'
+  startOffset: 850
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=850
+  endOffset: 996
+- name: 'Software as Research Output: DOIs, Toolboxes and Publishing Code'
+  startOffset: 996
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=996
+  endOffset: 1030
+- name: 'Culture Change in Labs: Convincing Supervisors & Grassroots Hackathons'
+  startOffset: 1030
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1030
+  endOffset: 1205
+- name: 'Industry Lessons for Academia: Programming Expectations & Tool Adoption'
+  startOffset: 1205
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1205
+  endOffset: 1332
+- name: 'Experiment Tracking in Research: MLflow and Reproducibility Tools'
+  startOffset: 1332
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1332
+  endOffset: 1336
+- name: 'Barriers to Teaching Software Skills: Time, Expertise and Fear of Scrutiny'
+  startOffset: 1336
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1336
+  endOffset: 1434
+- name: 'Infrastructure Gaps: Hosting Interactive Reproducible Papers and Costs'
+  startOffset: 1434
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1434
+  endOffset: 1658
+- name: 'Core Coding Practices to Teach: Packaging, Environments, Formatting & Tests'
+  startOffset: 1658
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1658
+  endOffset: 1698
+- name: 'Learning by Doing: Brainhack, Hackathons, Community Contributions'
+  startOffset: 1698
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1698
+  endOffset: 1844
+- name: 'Formal Courses vs Self-Learning: Structure, Discipline and Freelancing'
+  startOffset: 1844
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1844
+  endOffset: 1984
+- name: 'Collaboration & Code Review: Working Alone vs Community Feedback'
+  startOffset: 1984
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1984
+  endOffset: 2165
+- name: 'Benefits of Open Code: Citations, Collaboration and Career Visibility'
+  startOffset: 2165
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2165
+  endOffset: 2221
+- name: 'Data Sharing Reality: "Data Upon Request", Access Controls and Consortia'
+  startOffset: 2221
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2221
+  endOffset: 2330
+- name: 'Project Case Study: Normative Brain Model — Folder Structure & Cookiecutter'
+  startOffset: 2330
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2330
+  endOffset: 2367
+- name: 'Applied Engineering Practices: Branching, Formatting, Versioning & MLflow'
+  startOffset: 2367
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2367
+  endOffset: 2542
+- name: 'Sensitive Data Practices: De-identification and Controlled Access'
+  startOffset: 2542
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2542
+  endOffset: 2724
+- name: Balancing Open Source, Hackathons and Full-Time Research Commitments
+  startOffset: 2724
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2724
+  endOffset: 2862
+- name: 'Discovering Projects: GitHub Trending, Social Media & Community Platforms'
+  startOffset: 2862
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2862
+  endOffset: 2986
+- name: 'Contributing to Repositories: Readme, Contributing Guides, Issues & Communication'
+  startOffset: 2986
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2986
+  endOffset: 3142
+- name: 'Open Publishing vs Industry IP: Academic Openness and Commercial Concerns'
+  startOffset: 3142
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=3142
+  endOffset: 3312
+- name: 'Recommended Resources: The Turing Way, The Carpentries & ML Solutions Handbook'
+  startOffset: 3312
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=3312
+  endOffset: 3483
+- name: Episode Conclusion and Closing Remarks
+  startOffset: 3483
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=3483
+  endOffset: 3490
 ---
 
 Links:

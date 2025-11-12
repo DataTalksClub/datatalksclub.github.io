@@ -35,4 +35,98 @@ intro: 'How do you turn machine learning predictions into better real-world deci
   and overfitting decisions, and the cross-functional skills needed—data science,
   operations research, and software engineering—to get started with prescriptive optimization
   projects.'
+dateadded: '2021-02-23'
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=0
+  endOffset: 70
+- name: 'Introduction: Dan Becker and Decision Optimization Overview'
+  startOffset: 70
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=70
+  endOffset: 180
+- name: 'Gap: Machine Learning Predictions vs. Real-World Decisions'
+  startOffset: 180
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=180
+  endOffset: 360
+- name: 'Prescriptive Analytics: Role in ML Pipelines'
+  startOffset: 360
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=360
+  endOffset: 540
+- name: 'Formulating Optimization Problems: Objectives and Constraints'
+  startOffset: 540
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=540
+  endOffset: 720
+- name: 'Modeling Uncertainty: Robust and Stochastic Optimization'
+  startOffset: 720
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=720
+  endOffset: 930
+- name: Integrating Predictions into Optimization Models
+  startOffset: 930
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=930
+  endOffset: 1125
+- name: Aligning Loss Functions with Business Objectives
+  startOffset: 1125
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=1125
+  endOffset: 1320
+- name: 'Solvers & Tools: OR-Tools, Gurobi, Pyomo, Open-Source Options'
+  startOffset: 1320
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=1320
+  endOffset: 1530
+- name: 'Scalability: Large-Scale Optimization and Approximation Techniques'
+  startOffset: 1530
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=1530
+  endOffset: 1710
+- name: 'Use Case: Supply Chain Optimization and Resource Allocation'
+  startOffset: 1710
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=1710
+  endOffset: 1920
+- name: 'Use Case: Pricing, Bidding, and Revenue Optimization'
+  startOffset: 1920
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=1920
+  endOffset: 2100
+- name: 'Decision Constraints: Operational, Legal, and Ethical Considerations'
+  startOffset: 2100
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=2100
+  endOffset: 2280
+- name: 'Evaluation Metrics: Measuring Real-World Impact of Decisions'
+  startOffset: 2280
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=2280
+  endOffset: 2460
+- name: 'Deployment: Pipelines, Monitoring, and Feedback Loops'
+  startOffset: 2460
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=2460
+  endOffset: 2640
+- name: 'Organizational Adoption: Cross-Functional Collaboration and Change Management'
+  startOffset: 2640
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=2640
+  endOffset: 2790
+- name: 'Skillset Blend: Data Science, Operations Research, and Software Engineering'
+  startOffset: 2790
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=2790
+  endOffset: 2940
+- name: 'Common Pitfalls: Mis-specified Objectives and Overfitting Decisions'
+  startOffset: 2940
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=2940
+  endOffset: 3090
+- name: 'Robustness vs. Optimality: Trade-offs in Decision Optimization'
+  startOffset: 3090
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=3090
+  endOffset: 3240
+- name: 'Future Trends: Automated Decisioning and Prescriptive Systems'
+  startOffset: 3240
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=3240
+  endOffset: 3390
+- name: 'Resources: Learning Paths, Libraries, and Community Recommendations'
+  startOffset: 3390
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=3390
+  endOffset: 3570
+- name: 'Practical Advice: Getting Started with Decision Optimization Projects'
+  startOffset: 3570
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=3570
+  endOffset: 3720
+- name: Episode Wrap-Up and Links
+  startOffset: 3720
+  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=3720
+  endOffset: 3720
 ---

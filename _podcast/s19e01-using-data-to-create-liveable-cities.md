@@ -805,6 +805,129 @@ intro: How can urban transport data and AI be combined to enable real-time monit
   to datasets. Listeners will gain actionable insight into building and governing
   transport data systems that support real‑time monitoring, demand forecasting, and
   scalable analytics.
+dateadded: '2024-11-06'
+duration: PT00H51M32S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=0
+  endOffset: 116
+- name: 'Guest Introduction: Rachel Lim, urban data scientist'
+  startOffset: 116
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=116
+  endOffset: 172
+- name: 'Career Path: Geography to urban informatics and data engineering'
+  startOffset: 172
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=172
+  endOffset: 287
+- name: 'Transport Scientist Role: public sector and consultancy applications'
+  startOffset: 287
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=287
+  endOffset: 334
+- name: 'Planning Horizons: short-term operations vs long-term infrastructure'
+  startOffset: 334
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=334
+  endOffset: 407
+- name: 'Data Sources for Transport: GPS, sensors, fare cards, ride-hailing'
+  startOffset: 407
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=407
+  endOffset: 460
+- name: 'Fare Card Systems: tap-in/tap-out travel data mechanics'
+  startOffset: 460
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=460
+  endOffset: 500
+- name: Computer Vision for Passenger Flow where fare data is absent
+  startOffset: 500
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=500
+  endOffset: 535
+- name: 'Professional Motivation: internships, World City Summit, master’s study'
+  startOffset: 535
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=535
+  endOffset: 686
+- name: 'Urban Design Principles: walkability, public spaces, human-scale streets'
+  startOffset: 686
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=686
+  endOffset: 829
+- name: 'Livability Criteria: transport, housing, green space, digital access'
+  startOffset: 829
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=829
+  endOffset: 948
+- name: 'Singapore Planning Practices: Master Plan and placemaking initiatives'
+  startOffset: 948
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=948
+  endOffset: 1104
+- name: 'Open Data & Collaboration: public datasets enabling research and apps'
+  startOffset: 1104
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1104
+  endOffset: 1269
+- name: 'Travel Demand Forecasting: predicting movements for infrastructure planning'
+  startOffset: 1269
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1269
+  endOffset: 1381
+- name: 'Data Pipelines & Warehousing: aggregation of real-time and historical data'
+  startOffset: 1381
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1381
+  endOffset: 1449
+- name: 'Real-Time Monitoring: traffic management and event analytics (F1 example)'
+  startOffset: 1449
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1449
+  endOffset: 1510
+- name: 'Operational Response: cameras, recovery services, traffic marshals'
+  startOffset: 1510
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1510
+  endOffset: 1679
+- name: 'Generative AI in Data Engineering: natural-language access to data'
+  startOffset: 1679
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1679
+  endOffset: 1999
+- name: 'Text-to-SQL Architecture: metadata, vector DB, RAG and LLMs'
+  startOffset: 1999
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1999
+  endOffset: 2118
+- name: 'Prompt Engineering & Query Safety: reliability and SQL restrictions'
+  startOffset: 2118
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2118
+  endOffset: 2192
+- name: 'Dataset Scale: millions of fare card records and demand analytics'
+  startOffset: 2192
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2192
+  endOffset: 2314
+- name: 'Infrastructure Stack: Kafka, Apache Spark, sensors, real-time APIs'
+  startOffset: 2314
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2314
+  endOffset: 2367
+- name: 'Journey Logic & Aggregation: trip definition and fare computation'
+  startOffset: 2367
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2367
+  endOffset: 2468
+- name: 'Data Quality Management: anomaly detection and sensor reliability'
+  startOffset: 2468
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2468
+  endOffset: 2537
+- name: 'Generative AI Use Cases: synthetic data and conversational search'
+  startOffset: 2537
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2537
+  endOffset: 2740
+- name: 'Privacy & Publishing: masking sensitive data before release'
+  startOffset: 2740
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2740
+  endOffset: 2760
+- name: 'Singapore Open Data Portals: data.gov.sg and DataMall resources'
+  startOffset: 2760
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2760
+  endOffset: 2825
+- name: 'Project Ideas for Learning: car parking and real-time taxi datasets'
+  startOffset: 2825
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2825
+  endOffset: 2956
+- name: 'Recommended Resources: DataTalks.Club, Jane Jacobs, Happy City'
+  startOffset: 2956
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2956
+  endOffset: 3162
+- name: Episode Wrap-Up and Closing Remarks
+  startOffset: 3162
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=3162
+  endOffset: 3092
 ---
 
 Links:

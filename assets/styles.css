@@ -168,7 +168,6 @@ body, html {
   display: block;
   max-width: 20px;
   max-height: 20px;
-  vertical-align: middle;
 }
 
 .platforms-heading {
@@ -1529,6 +1528,7 @@ img.partner {
   margin: 0 0 0.75rem 0;
   display: -webkit-box;
   -webkit-line-clamp: 2;
+  line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
@@ -1539,6 +1539,7 @@ img.partner {
   line-height: 1.5;
   display: -webkit-box;
   -webkit-line-clamp: 3;
+  line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
   flex: 1;
@@ -1589,4 +1590,17 @@ img.partner {
     font-size: 0.9rem;
   }
 
+}
+
+/* Screen reader only utility class - hides content visually but keeps it accessible to screen readers and SEO */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
 }

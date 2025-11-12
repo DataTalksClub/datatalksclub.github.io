@@ -1336,6 +1336,139 @@ intro: 'How do the day‑to‑day responsibilities and skill sets really differ 
   <br><br> Listen to learn which skills, tools and projects will help you choose or
   transition between careers, and what to prioritize when building scalable data pipelines,
   deploying models, and ensuring data quality.'
+dateadded: '2021-07-10'
+duration: PT01H01M27S
+quotableClips:
+- name: Episode Overview & Guest Introduction
+  startOffset: 112
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=112
+  endOffset: 148
+- name: 'Career Path: From Backend Java to Big Data Engineering (Scala, R&D, Captify)'
+  startOffset: 148
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=148
+  endOffset: 266
+- name: 'Core Responsibilities: Building ETL Data Pipelines, HDFS/S3, Impala'
+  startOffset: 266
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=266
+  endOffset: 398
+- name: 'Performance Focus: Spark Job Optimization & Cluster Resource Planning'
+  startOffset: 398
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=398
+  endOffset: 438
+- name: 'Big Data Tooling: Spark, S3/HDFS, Kubernetes, Prometheus, Grafana, Scala
+    libs'
+  startOffset: 438
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=438
+  endOffset: 484
+- name: 'Storytelling in Tech Talks: "Alice" Series and Conference Presentations'
+  startOffset: 484
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=484
+  endOffset: 552
+- name: 'Role Comparison: Big Data Engineer vs Data Engineer (formats: Avro, Parquet,
+    ProtoBuf)'
+  startOffset: 552
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=552
+  endOffset: 667
+- name: 'Essential Skills: Coding, SQL, Distributed Systems & Infrastructure Awareness'
+  startOffset: 667
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=667
+  endOffset: 836
+- name: 'Data Scientist Scope: Data Cleaning, Feature Engineering, Model Cycle & Deployment'
+  startOffset: 836
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=836
+  endOffset: 932
+- name: 'Tool Overlap: Spark & Python vs ML Libraries for Modeling'
+  startOffset: 932
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=932
+  endOffset: 986
+- name: 'Collaboration Model: File Interfaces (Parquet) and Team Structures'
+  startOffset: 986
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=986
+  endOffset: 1134
+- name: 'Case Study: Recommendation System — Streaming and Batch Pipeline Design'
+  startOffset: 1134
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=1134
+  endOffset: 1371
+- name: 'Streaming vs Batch Choices: Flink for Streaming, Spark for Batch, Parquet
+    on S3'
+  startOffset: 1371
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=1371
+  endOffset: 1420
+- name: 'ML Deployment Stack: MLflow, Kubeflow, Kubernetes & ML Engineer Roles'
+  startOffset: 1420
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=1420
+  endOffset: 1489
+- name: 'Cross-Skill Expectations: What Data Scientists Should Know About Pipelines'
+  startOffset: 1489
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=1489
+  endOffset: 1650
+- name: 'Upskilling for Engineers: Data Engineers Learning ML Inputs/Outputs (not
+    algorithms)'
+  startOffset: 1650
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=1650
+  endOffset: 1853
+- name: 'Transition Path: Analyst/Data Scientist → Data Engineer (coding, DBs, infra)'
+  startOffset: 1853
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=1853
+  endOffset: 2093
+- name: 'Databases to Learn: PostgreSQL, MySQL, MongoDB, Neo4j (SQL vs NoSQL)'
+  startOffset: 2093
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=2093
+  endOffset: 2167
+- name: 'Infrastructure Essentials: Docker, Cloud Services, Intro to Kubernetes'
+  startOffset: 2167
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=2167
+  endOffset: 2349
+- name: 'Data Quality & Monitoring: Flow Metrics, Spikes, and Schema Change Alerts'
+  startOffset: 2349
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=2349
+  endOffset: 2617
+- name: 'Data Documentation & Governance: Schema Descriptions, Confluence, HypeSQL'
+  startOffset: 2617
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=2617
+  endOffset: 2774
+- name: 'Software Engineering for Data Scientists: Code Quality, Reproducibility,
+    DB Skills'
+  startOffset: 2774
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=2774
+  endOffset: 2906
+- name: 'Hands-on Learning Resources: Katacoda, Google Codelabs, Databricks Trainings'
+  startOffset: 2906
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=2906
+  endOffset: 2969
+- name: 'Career Advice for Graduates: Choosing Data Engineering vs Data Science'
+  startOffset: 2969
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=2969
+  endOffset: 3076
+- name: 'Starter Projects: Word Count, Twitter Streaming, Elasticsearch + Kibana'
+  startOffset: 3076
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=3076
+  endOffset: 3208
+- name: 'Datasets for Practice: Wikipedia Dumps, CommonCrawl, NASA APIs, Social Media'
+  startOffset: 3208
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=3208
+  endOffset: 3368
+- name: 'Pre-built ETL Platforms vs Custom Pipelines: Trade-offs & Scalability'
+  startOffset: 3368
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=3368
+  endOffset: 3485
+- name: 'Operational Challenges: Deduplication, Historical Reprocessing, Risk Management'
+  startOffset: 3485
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=3485
+  endOffset: 3625
+- name: 'Data Versioning & Time Travel: Delta Lake for Reprocessing and Auditing'
+  startOffset: 3625
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=3625
+  endOffset: 3640
+- name: 'Learning Recommendations: Coursera Big Data Specialization; Spark & Data
+    books'
+  startOffset: 3640
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=3640
+  endOffset: 3754
+- name: 'Guest Links & Talks: Twitter, LinkedIn, YouTube (Alice & Kubernetes talks)'
+  startOffset: 3754
+  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=3754
+  endOffset: 3687
 ---
 
 Links:

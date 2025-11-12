@@ -1,5 +1,6 @@
 ---
-title: 'From Research to Production: Build Reproducible, Deployable Full-Stack ML Systems'
+title: 'From Research to Production: Build Reproducible, Deployable Full-Stack ML
+  Systems'
 short: What Researchers and Engineers Can Learn from Each Other
 guests:
 - mihaileric
@@ -1141,6 +1142,121 @@ intro: How do you move ML work from research notebooks to reproducible, deployab
   and model deployment, and actionable career advice (internships, reading papers,
   reproducing models). Tune in to learn practical steps and tools to bridge research
   to production for real‑world ML systems.
+dateadded: '2021-10-02'
+duration: PT01H01M36S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 77
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=77
+  endOffset: 112
+- name: 'Guest Overview: Mihail’s Roles and Work'
+  startOffset: 112
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=112
+  endOffset: 120
+- name: 'Guest Background: Stanford NLP and Early Research'
+  startOffset: 120
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=120
+  endOffset: 300
+- name: 'From NLP to Self-Driving: Shared Long-Tail Challenges'
+  startOffset: 300
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=300
+  endOffset: 406
+- name: 'Transition to Industry: Building Engineering Foundations'
+  startOffset: 406
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=406
+  endOffset: 514
+- name: 'Research Infrastructure: Data Collection and Prototyping'
+  startOffset: 514
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=514
+  endOffset: 561
+- name: 'Hybrid Role at Amazon: Research Integrated with Production'
+  startOffset: 561
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=561
+  endOffset: 652
+- name: 'Researcher Focus: Hypothesis-Driven Work and Benchmarks'
+  startOffset: 652
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=652
+  endOffset: 770
+- name: 'Experimental Tooling: Notebooks, W&B, Fast Prototyping'
+  startOffset: 770
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=770
+  endOffset: 885
+- name: 'Sourcing Research Questions: Surveys, Citations, and "Future Work"'
+  startOffset: 885
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=885
+  endOffset: 1055
+- name: 'ML Engineer Focus: Full ML Lifecycle and Production Systems'
+  startOffset: 1055
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=1055
+  endOffset: 1073
+- name: 'Engineering Tooling: PyTorch, Docker, Cloud, and Web Frameworks'
+  startOffset: 1073
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=1073
+  endOffset: 1225
+- name: 'Data Science Evolution: From Data Science 1.0 to Data Science 2.0'
+  startOffset: 1225
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=1225
+  endOffset: 1412
+- name: 'Skills Swap — Researchers Learn: Engineering Rigor and Reproducibility'
+  startOffset: 1412
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=1412
+  endOffset: 1730
+- name: 'Skills Swap — Engineers Learn: Handling Uncertainty and Experimental Rigor'
+  startOffset: 1730
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=1730
+  endOffset: 1816
+- name: 'Bridging the Gap: Cultural and Organizational Challenges'
+  startOffset: 1816
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=1816
+  endOffset: 2060
+- name: 'Embedded Teams vs. Handoffs: Avoiding the "Throw-It-Over-the-Wall" Trap'
+  startOffset: 2060
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=2060
+  endOffset: 2217
+- name: 'Breaking Silos: Leadership, Sprints, and Active Collaboration'
+  startOffset: 2217
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=2217
+  endOffset: 2348
+- name: 'Role Fluidity: Flexible Responsibilities in High-Performing Teams'
+  startOffset: 2348
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=2348
+  endOffset: 2433
+- name: 'Full-Stack Data Scientist: From Model Development to Deployment'
+  startOffset: 2433
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=2433
+  endOffset: 2676
+- name: 'Advice for Researchers: Build End-to-End Systems and Deploy'
+  startOffset: 2676
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=2676
+  endOffset: 2817
+- name: 'Code Reviews for Researchers: Rapid Engineering Skill Development'
+  startOffset: 2817
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=2817
+  endOffset: 2871
+- name: 'Advice for Engineers: Read Papers, Reproduce Models, Run Experiments'
+  startOffset: 2871
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=2871
+  endOffset: 3088
+- name: 'Practical Paper Reading: Tutorials, Code, and Researcher Collaboration'
+  startOffset: 3088
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=3088
+  endOffset: 3331
+- name: 'Choosing a Path: Internships, Masters, PhD — Try Both Early'
+  startOffset: 3331
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=3331
+  endOffset: 3536
+- name: 'Confetti.ai: Career Preparation and Learning Resources for ML Roles'
+  startOffset: 3536
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=3536
+  endOffset: 3700
+- name: 'Contact & Resources: Twitter, LinkedIn, and Confetti.ai'
+  startOffset: 3700
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=3700
+  endOffset: 3756
+- name: Episode Wrap-Up and Key Takeaways
+  startOffset: 3756
+  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=3756
+  endOffset: 3696
 ---
 
 Links:

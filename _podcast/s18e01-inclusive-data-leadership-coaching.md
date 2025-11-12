@@ -1116,6 +1116,115 @@ intro: How do you move from an individual contributor to an effective data leade
   feedback routines, and inclusive leadership practices to increase impact, visibility,
   and promotion readiness. Closing notes include how to reach Tereza and schedule
   time via Calendly.
+dateadded: '2024-03-31'
+duration: PT00H56M35S
+quotableClips:
+- name: Episode Introduction & Guest Re-introduction (Inclusive Data Leadership Coaching)
+  startOffset: 86
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=86
+  endOffset: 161
+- name: 'Career Journey: From Computer Science PhD to Data Lead and Coach'
+  startOffset: 161
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=161
+  endOffset: 224
+- name: 'Transition to Coaching: Stepping back from product responsibility'
+  startOffset: 224
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=224
+  endOffset: 377
+- name: 'Career Shift: Challenges of moving from Individual Contributor to Lead'
+  startOffset: 377
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=377
+  endOffset: 472
+- name: 'Early Coaching Experiments: Free sessions to learn real problems'
+  startOffset: 472
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=472
+  endOffset: 555
+- name: 'Manager Bandwidth Limits: Need for independent problem-solving'
+  startOffset: 555
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=555
+  endOffset: 689
+- name: 'Community Format: Python Pizza conference and newcomer talks'
+  startOffset: 689
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=689
+  endOffset: 758
+- name: 'Team Span-of-Control: Pizza metaphor for sustainable management'
+  startOffset: 758
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=758
+  endOffset: 854
+- name: 'Leadership Learning: Courses, awareness, and building feedback culture'
+  startOffset: 854
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=854
+  endOffset: 1022
+- name: 'Leadership Training vs. Self-Study: Practical workshops and frameworks'
+  startOffset: 1022
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=1022
+  endOffset: 1183
+- name: 'Feedback Skills: Giving constructive feedback without hurting relationships'
+  startOffset: 1183
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=1183
+  endOffset: 1218
+- name: 'Team Feedback Training: Psychological safety and practiced routines'
+  startOffset: 1218
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=1218
+  endOffset: 1387
+- name: 'Coaching Focus: Increasing impact, promotions, and strategic mindset'
+  startOffset: 1387
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=1387
+  endOffset: 1472
+- name: 'Data Work Visibility: Foundation work, product mindset, and KPIs'
+  startOffset: 1472
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=1472
+  endOffset: 1710
+- name: 'Coaching Delivery: LinkedIn, Calendly, one-shot sessions, and CV reviews'
+  startOffset: 1710
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=1710
+  endOffset: 1959
+- name: 'Side Projects & Partnerships: PyPodcats, Shades & Contrast, Responsible AI'
+  startOffset: 1959
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=1959
+  endOffset: 2078
+- name: 'Coaching Approach: Blending coaching, mentoring, and practical advice'
+  startOffset: 2078
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=2078
+  endOffset: 2174
+- name: 'Self-Promotion vs. Bragging: CV culture and owning achievements'
+  startOffset: 2174
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=2174
+  endOffset: 2313
+- name: 'Personal Retrospectives: Tracking wins and the two-year rule for topics'
+  startOffset: 2313
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=2313
+  endOffset: 2618
+- name: 'Communication Overhead: Behind-the-scenes work for models and open source'
+  startOffset: 2618
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=2618
+  endOffset: 2760
+- name: 'Influencing Without Authority: Speaking different work languages & active
+    listening'
+  startOffset: 2760
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=2760
+  endOffset: 2960
+- name: 'Stakeholder Framing: Connecting projects to what''s important for others'
+  startOffset: 2960
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=2960
+  endOffset: 3023
+- name: 'Empathy in Practice: Role perspective-taking for better collaboration'
+  startOffset: 3023
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=3023
+  endOffset: 3230
+- name: 'Cross-Functional Leadership: Emotional intelligence and people care'
+  startOffset: 3230
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=3230
+  endOffset: 3264
+- name: 'Inclusive Leadership: Defining inclusion, avoiding exclusivity, and cultural
+    diversity'
+  startOffset: 3264
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=3264
+  endOffset: 3468
+- name: 'Closing & Contact: How to reach Tereza, Calendly and further resources'
+  startOffset: 3468
+  url: https://www.youtube.com/watch?v=Z4vOTgzLkJQ&t=3468
+  endOffset: 3395
 ---
 
 Links:

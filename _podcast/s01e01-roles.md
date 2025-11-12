@@ -1,24 +1,24 @@
 ---
-title: "Data Team Roles Explained: Skills, Responsibilities, and How Teams Ship ML Products"
-short: "Roles in a Data Team"
-guests: [alexeygrigorev]
-
+title: 'Data Team Roles Explained: Skills, Responsibilities, and How Teams Ship ML
+  Products'
+short: Roles in a Data Team
+guests:
+- alexeygrigorev
 image: images/podcast/s01e01-roles.jpg
-
-keywords: "data team roles, data scientist, data engineer, machine learning engineer, data analyst, MLOps engineer, product manager, data team structure, data science roles, ML engineer vs data engineer, data team responsibilities, data science career"
-
+keywords: data team roles, data scientist, data engineer, machine learning engineer,
+  data analyst, MLOps engineer, product manager, data team structure, data science
+  roles, ML engineer vs data engineer, data team responsibilities, data science career
 season: 1
 episode: 1
-
 ids:
   youtube: UukjwSIAnpw
   anchor: Roles-in-a-data-team---Alexey-Grigorev-emqcft
-
 links:
   youtube: https://www.youtube.com/watch?v=UukjwSIAnpw
   anchor: https://anchor.fm/datatalksclub/episodes/Roles-in-a-data-team---Alexey-Grigorev-emqcft
   spotify: TODO
   apple: TODO
+dateadded: '2021-02-23'
 ---
 
 The topic today is the roles in data teams. We want to understand what kind of people work in the data team, what responsibilities they have, what they do, and what they need to know.

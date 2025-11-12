@@ -935,6 +935,113 @@ intro: How do you scale a data platform that supports self‑service analytics w
   with concrete architectural trade‑offs, patterns for immutable pipelines and self‑service
   lakehouse design, and recommended readings from the Scling list to deepen expertise
   in DataOps, lineage, versioning and practical data engineering.
+dateadded: '2021-03-27'
+duration: PT01H09M27S
+quotableClips:
+- name: Episode Opening & Guest Introduction
+  startOffset: 159
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=159
+  endOffset: 218
+- name: 'Career Journey: Google, Spotify, Consulting and Scling'
+  startOffset: 218
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=218
+  endOffset: 472
+- name: 'Scaling Data Teams: Building Self‑Service at Spotify'
+  startOffset: 472
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=472
+  endOffset: 648
+- name: 'Orchestration Spotlight: Luigi as a Data Build System'
+  startOffset: 648
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=648
+  endOffset: 710
+- name: 'DataOps Defined: Enablement, Workflows and People Alignment'
+  startOffset: 710
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=710
+  endOffset: 1002
+- name: 'Data Platform Principles: Immutability & Functional Architecture'
+  startOffset: 1002
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=1002
+  endOffset: 1212
+- name: 'Reproducibility Problems: Mutable ETL vs Immutable Pipelines'
+  startOffset: 1212
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=1212
+  endOffset: 1289
+- name: 'Data Lake vs Data Warehouse: Raw Data, Aggregates & Use Cases'
+  startOffset: 1289
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=1289
+  endOffset: 1409
+- name: 'Data Lake Fundamentals: Object Storage, Governance & Raw Dumps'
+  startOffset: 1409
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=1409
+  endOffset: 1702
+- name: 'Ingress & Egress: Offline Processing and Self‑Service SQL'
+  startOffset: 1702
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=1702
+  endOffset: 1834
+- name: 'Core Platform Components: Storage, Compute & Workflow Engine'
+  startOffset: 1834
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=1834
+  endOffset: 1878
+- name: 'Compute Options: Spark, Flink, Containers and Managed Services'
+  startOffset: 1878
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=1878
+  endOffset: 2157
+- name: 'Cloud Trade‑offs: Prepackaged Platforms vs DIY Assembly'
+  startOffset: 2157
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=2157
+  endOffset: 2397
+- name: 'Recommended Reading: Lambda Architecture, Practical DataOps & Scling List'
+  startOffset: 2397
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=2397
+  endOffset: 2513
+- name: 'Batch vs Streaming: Latency Tradeoffs and Typical Use Cases'
+  startOffset: 2513
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=2513
+  endOffset: 2711
+- name: 'Micro‑batching vs Streaming: Dependency Management & Predictability'
+  startOffset: 2711
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=2711
+  endOffset: 2812
+- name: 'DataOps Maturity: Test‑Certified Practices, Quality & Schema Automation'
+  startOffset: 2812
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=2812
+  endOffset: 3013
+- name: 'Enabling Self‑Service Analytics: Embedding Engineers with Analysts'
+  startOffset: 3013
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=3013
+  endOffset: 3211
+- name: 'MLOps vs DataOps: Shared Principles and ML‑Specific Requirements'
+  startOffset: 3211
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=3211
+  endOffset: 3466
+- name: 'Data Mesh Overview: Decentralization, Ownership & Governance Risks'
+  startOffset: 3466
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=3466
+  endOffset: 3782
+- name: 'Splitting the Platform: When to Decentralize vs Centralize'
+  startOffset: 3782
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=3782
+  endOffset: 3858
+- name: 'Lineage & Versioning: Code‑Defined Pipelines vs Catalog Tools'
+  startOffset: 3858
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=3858
+  endOffset: 3961
+- name: 'Database Versioning: Full Dumps, CDC (Change Data Capture) Strategies'
+  startOffset: 3961
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=3961
+  endOffset: 4072
+- name: 'Lakehouse Architecture: Warehouse Features Layered on Data Lake'
+  startOffset: 4072
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=4072
+  endOffset: 4261
+- name: 'Further Resources: Scling Reading List & Presentations'
+  startOffset: 4261
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=4261
+  endOffset: 4326
+- name: Episode Closing
+  startOffset: 4326
+  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=4326
+  endOffset: 4167
 ---
 
 We talked about:

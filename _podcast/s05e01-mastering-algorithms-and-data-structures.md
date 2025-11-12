@@ -1,5 +1,6 @@
 ---
-title: 'Practical Algorithms for Engineers: Bloom Filters, Approximate Nearest-Neighbor & Performance'
+title: 'Practical Algorithms for Engineers: Bloom Filters, Approximate Nearest-Neighbor
+  & Performance'
 short: Mastering Algorithms and Data Structures
 guests:
 - marcellolarocca
@@ -797,6 +798,121 @@ intro: How do engineers choose and implement the right algorithm for memory, lat
   practical code in Java/JavaScript/Python, and study resources to get hands‑on —
   this episode gives concrete patterns, trade‑offs, and examples you can apply to
   improve search, recommendation, and large‑scale systems performance.
+dateadded: '2021-09-05'
+duration: PT01H01M51S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=0
+  endOffset: 111
+- name: 'Guest Intro: Marcello La Rocca and book announcement'
+  startOffset: 111
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=111
+  endOffset: 191
+- name: 'Career Path: web development to Twitter, Microsoft, Apple, Tundra'
+  startOffset: 191
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=191
+  endOffset: 319
+- name: 'Learning Philosophy: focus on applications over formal proofs'
+  startOffset: 319
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=319
+  endOffset: 450
+- name: 'Anecdote: mathematical proof vs practical innovation'
+  startOffset: 450
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=450
+  endOffset: 563
+- name: 'Recommended Resources: MIT course, Tim Roughgarden, Grokking Algorithms'
+  startOffset: 563
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=563
+  endOffset: 634
+- name: 'Core Data Structures: arrays, lists, sets, dictionaries, stacks, queues'
+  startOffset: 634
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=634
+  endOffset: 737
+- name: 'Abstraction vs Implementation: APIs, performance trade-offs'
+  startOffset: 737
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=737
+  endOffset: 957
+- name: 'Practicing Algorithms Outside Work: competitions and side projects'
+  startOffset: 957
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=957
+  endOffset: 1154
+- name: 'Using Libraries & Profiling: spotting algorithmic wins in production'
+  startOffset: 1154
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=1154
+  endOffset: 1214
+- name: 'Performance Pitfalls: containment checks and wrong list usage'
+  startOffset: 1214
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=1214
+  endOffset: 1332
+- name: 'Data-Science Use Cases: Bloom filters and nearest-neighbour search'
+  startOffset: 1332
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=1332
+  endOffset: 1419
+- name: 'Book Overview: bridging theory and practical use cases'
+  startOffset: 1419
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=1419
+  endOffset: 1504
+- name: 'Book Structure: basics, nearest-neighbour & MapReduce, graphs & optimization'
+  startOffset: 1504
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=1504
+  endOffset: 1591
+- name: 'Prerequisites & Format: appendices, pseudocode, who the book is for'
+  startOffset: 1591
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=1591
+  endOffset: 1717
+- name: 'Code Repository: implementations in Java, JavaScript, Python (and more)'
+  startOffset: 1717
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=1717
+  endOffset: 1809
+- name: 'Bloom Filter Explained: memory-efficient containment with false positives'
+  startOffset: 1809
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=1809
+  endOffset: 2083
+- name: 'Bloom Filter Applications: crawlers, routing tables, marketing/adtech'
+  startOffset: 2083
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=2083
+  endOffset: 2159
+- name: 'Adtech Example: device IDs and returning-user targeting with Bloom filters'
+  startOffset: 2159
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=2159
+  endOffset: 2350
+- name: 'Nearest-Neighbour Need: KD-tree limits and high-dimensional data challenges'
+  startOffset: 2350
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=2350
+  endOffset: 2564
+- name: 'Approximate Nearest-Neighbour: R-trees, SS-trees for geolocation & logistics'
+  startOffset: 2564
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=2564
+  endOffset: 2686
+- name: 'Vector Similarity: embeddings, recommender systems, Faiss usage'
+  startOffset: 2686
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=2686
+  endOffset: 2867
+- name: 'Frameworks vs Internals: when to trust libraries and when to inspect them'
+  startOffset: 2867
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=2867
+  endOffset: 2992
+- name: 'Cross-language Compatibility: serializing Bloom filters and hash seeds'
+  startOffset: 2992
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=2992
+  endOffset: 3175
+- name: 'Tech Interviews: algorithm emphasis, balanced assessment approaches'
+  startOffset: 3175
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=3175
+  endOffset: 3533
+- name: 'Hands-on Learning: LeetCode, contests, open-source projects'
+  startOffset: 3533
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=3533
+  endOffset: 3639
+- name: 'Language Trade-offs: Python vs C++ and using Cython for performance'
+  startOffset: 3639
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=3639
+  endOffset: 3781
+- name: 'Closing: contact info and book links'
+  startOffset: 3781
+  url: https://www.youtube.com/watch?v=RiQa-9LguW8&t=3781
+  endOffset: 3711
 ---
 
 

@@ -1153,6 +1153,94 @@ intro: 'How can theme parks use data to cut wait times and guide visitors in rea
   Listen to learn concrete approaches for queue prediction, visitor routing, real-time
   processing, and experimentation so you can design and validate systems that improve
   throughput and guest satisfaction.'
+dateadded: '2025-10-21'
+duration: PT01H35S
+quotableClips:
+- name: Podcast Introduction & Event Info
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=0
+  endOffset: 77
+- name: 'Early Career: Software Engineering to Data Science'
+  startOffset: 77
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=77
+  endOffset: 126
+- name: 'Academic Path: Professional Doctorate & TU Berlin'
+  startOffset: 126
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=126
+  endOffset: 288
+- name: 'Research Partnerships: Industry Projects and Applied Research'
+  startOffset: 288
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=288
+  endOffset: 377
+- name: 'Efteling Insights: Theme Park Tech and Experience Design'
+  startOffset: 377
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=377
+  endOffset: 456
+- name: 'Crowd Modeling: Queue Prediction and Ride Capacity'
+  startOffset: 456
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=456
+  endOffset: 779
+- name: 'Visitor Routing: Next-Best-Action Recommendation System'
+  startOffset: 779
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=779
+  endOffset: 890
+- name: App Adoption & Incentives for Data Collection
+  startOffset: 890
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=890
+  endOffset: 1000
+- name: Behavioral Route Modeling & Probabilistic Recommendations
+  startOffset: 1000
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=1000
+  endOffset: 1109
+- name: 'E-commerce Recs: Bol.com Favorite-Brand Carousel'
+  startOffset: 1109
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=1109
+  endOffset: 1443
+- name: 'Recommendation Validation: Employee Swiping Experiment & A/B Testing'
+  startOffset: 1443
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=1443
+  endOffset: 1561
+- name: 'Real-time Processing: Streaming for Live Experiments'
+  startOffset: 1561
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=1561
+  endOffset: 1879
+- name: 'Measurement & Rollout: Engagement Metrics and Accuracy Results'
+  startOffset: 1879
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=1879
+  endOffset: 2001
+- name: 'Role at Tesla: Data Engineering vs. ML Engineering Responsibilities'
+  startOffset: 2001
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=2001
+  endOffset: 2061
+- name: 'Full-Stack Data Work: Building Apps, Instrumentation, and Deployment'
+  startOffset: 2061
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=2061
+  endOffset: 2503
+- name: 'LLMs & AI-Assisted Development: Productivity Gains and Risks'
+  startOffset: 2503
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=2503
+  endOffset: 2766
+- name: 'On-Prem Inference Hardware: Raspberry Pi, Jetson Orin, Mac Mini'
+  startOffset: 2766
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=2766
+  endOffset: 2993
+- name: 'Models & Platforms: LLaMA, Code Models, and Replicate'
+  startOffset: 2993
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=2993
+  endOffset: 3243
+- name: 'Interview Preparation: Tesla Data Engineering Expectations (Architecture,
+    ETL, Scripting)'
+  startOffset: 3243
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=3243
+  endOffset: 3463
+- name: 'Career Strategy: Prioritization, Learning Opportunities, Underpromise & Overdeliver'
+  startOffset: 3463
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=3463
+  endOffset: 3610
+- name: Episode Closing & Key Takeaways
+  startOffset: 3610
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=3610
+  endOffset: 3635
 ---
 
 Links:

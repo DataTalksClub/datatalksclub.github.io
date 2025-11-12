@@ -1103,6 +1103,123 @@ intro: How do you turn churn prediction research into models that business teams
   models, translating explanations into interventions, and operationalizing trust
   through MLOps and practical metrics — essential for data scientists building production
   churn prediction systems.
+dateadded: '2023-07-08'
+duration: PT01H01M48S
+quotableClips:
+- name: Episode Introduction & Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=0
+  endOffset: 74
+- name: 'Guest Introduction: Polina Mosolova — Industrial PhD and Churn Prediction'
+  startOffset: 74
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=74
+  endOffset: 125
+- name: 'Career Journey: Industrial PhD to Full‑Stack Data Scientist at SAP'
+  startOffset: 125
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=125
+  endOffset: 439
+- name: 'Role Evolution: From Full‑Stack Data Scientist to MLOps Specialization'
+  startOffset: 439
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=439
+  endOffset: 559
+- name: 'PhD Practice: Building End‑to‑End ML Pipelines During Doctoral Research'
+  startOffset: 559
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=559
+  endOffset: 634
+- name: 'Dual Goals: Balancing Academic Research and Production Deliverables'
+  startOffset: 634
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=634
+  endOffset: 753
+- name: 'Dissertation Focus: Churn Prediction Informed by Organizational Trust Theory'
+  startOffset: 753
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=753
+  endOffset: 842
+- name: 'Production Challenges: Deploying Research Models in Industry'
+  startOffset: 842
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=842
+  endOffset: 1077
+- name: 'Supervision & Stakeholders: Academic and Company Support Structures'
+  startOffset: 1077
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1077
+  endOffset: 1145
+- name: 'Research‑Industry Bridge: Academic Conferences and Summer Schools'
+  startOffset: 1145
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1145
+  endOffset: 1237
+- name: 'Time Management: Balancing PhD Writing with Industrial Responsibilities'
+  startOffset: 1237
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1237
+  endOffset: 1478
+- name: 'Finding Industrial PhDs: Prevalence, Companies, and How to Search'
+  startOffset: 1478
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1478
+  endOffset: 1661
+- name: 'Practical Tips: Job Postings, Language Requirements, and Application Search'
+  startOffset: 1661
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1661
+  endOffset: 1792
+- name: 'Organizational Trust Theory: ABI Framework — Ability, Benevolence, Integrity'
+  startOffset: 1792
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1792
+  endOffset: 2076
+- name: Pricing, Contracts, and Trust Dynamics in Subscription Services
+  startOffset: 2076
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2076
+  endOffset: 2299
+- name: Linking Organizational Trust to Explainable AI and Feature Design
+  startOffset: 2299
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2299
+  endOffset: 2514
+- name: 'Actionability: Turning Explanations into Usable Business Interventions'
+  startOffset: 2514
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2514
+  endOffset: 2643
+- name: 'Definitions: Interpretability vs Explainability vs Actionable ML'
+  startOffset: 2643
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2643
+  endOffset: 2842
+- name: 'Model Choices: Glass‑Box Models, Generalized Additive Models, Neural Additive
+    Models'
+  startOffset: 2842
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2842
+  endOffset: 2940
+- name: 'Explainability Tools: Random Forest + SHAP — Explainable vs Interpretable'
+  startOffset: 2940
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2940
+  endOffset: 3047
+- name: 'Computer Vision Explainability: Activation Maps and Human Interpretability'
+  startOffset: 3047
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3047
+  endOffset: 3108
+- name: 'Summary: Interpretable Models, Explainable Outputs, and Actionable Decisions'
+  startOffset: 3108
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3108
+  endOffset: 3159
+- name: 'Audience Matters: Explainable Feature Spaces and Tailoring Explanations'
+  startOffset: 3159
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3159
+  endOffset: 3323
+- name: 'Explainable AI and Trust: User Confidence, Provenance, and Transparency'
+  startOffset: 3323
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3323
+  endOffset: 3463
+- name: 'LLMs and Hallucinations: Explainability Challenges Versus Tabular Models'
+  startOffset: 3463
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3463
+  endOffset: 3498
+- name: 'Measuring Trust: KPIs, Proxies, and Ethical Constraints'
+  startOffset: 3498
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3498
+  endOffset: 3629
+- name: 'Business Relevance: Practical Proxies for Trust and Prioritizing Product
+    Ability'
+  startOffset: 3629
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3629
+  endOffset: 3761
+- name: Episode Wrap‑Up and Closing Remarks
+  startOffset: 3761
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3761
+  endOffset: 3708
 ---
 
 Links:

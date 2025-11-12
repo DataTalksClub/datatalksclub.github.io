@@ -1130,6 +1130,129 @@ intro: 'How do you move from software engineering into practical machine learnin
   to gain an actionable project roadmap, tools checklist, and concrete strategies
   to conquer math anxiety and ship ML systems — practical guidance for engineers who
   want to build, deploy, and maintain real machine learning solutions.'
+dateadded: '2021-06-25'
+duration: PT00H59M24S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=0
+  endOffset: 159
+- name: 'Guest Overview: Santiago — Director of Computer Vision'
+  startOffset: 159
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=159
+  endOffset: 208
+- name: Adding Machine Learning to a Software Engineering Skillset
+  startOffset: 208
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=208
+  endOffset: 291
+- name: 'Personal & Academic Background: Cuba, Bachelor’s, Georgia Tech MS'
+  startOffset: 291
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=291
+  endOffset: 393
+- name: 'Software Engineers’ Advantage: Coding as a Core ML Skill'
+  startOffset: 393
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=393
+  endOffset: 492
+- name: 'Overcoming Math Anxiety: Practical, Problem-First Learning'
+  startOffset: 492
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=492
+  endOffset: 780
+- name: 'Communicating ML Simply: Teaching and Writing for Understanding'
+  startOffset: 780
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=780
+  endOffset: 971
+- name: Seven Practical Lessons for Starting a Machine Learning Career
+  startOffset: 971
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=971
+  endOffset: 1045
+- name: 'Lesson 1 — Take Action: Start Projects Instead of Overpreparing'
+  startOffset: 1045
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=1045
+  endOffset: 1149
+- name: 'Lesson 2 — Learning as a Marathon: Long-Term Growth in ML'
+  startOffset: 1149
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=1149
+  endOffset: 1238
+- name: 'Lesson 3 — Community & Teaching: Accelerating Progress Together'
+  startOffset: 1238
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=1238
+  endOffset: 1338
+- name: 'Lesson 4 — Apply Knowledge: Build and Share Real Projects'
+  startOffset: 1338
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=1338
+  endOffset: 1500
+- name: 'Lesson 5 — Math vs Coding: Coding Often Determines Success'
+  startOffset: 1500
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=1500
+  endOffset: 1599
+- name: 'Lesson 6 — Problem Analysis First: Design Solutions Before Code'
+  startOffset: 1599
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=1599
+  endOffset: 1745
+- name: 'Lesson 7 — Pragmatism Over Purism: Deliver Value Without Knowing Every Detail'
+  startOffset: 1745
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=1745
+  endOffset: 1990
+- name: 'Core ML Tooling: Python, NumPy, Pandas, Matplotlib, scikit-learn'
+  startOffset: 1990
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=1990
+  endOffset: 2179
+- name: 'Learning Approaches: Problem-Based vs Top-Down (Theory First)'
+  startOffset: 2179
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=2179
+  endOffset: 2328
+- name: 'Recommended Courses & Tutorials: Google ML Crash Course, Kaggle'
+  startOffset: 2328
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=2328
+  endOffset: 2469
+- name: 'Essential Books: Deep Learning with Python; Hands-On Machine Learning'
+  startOffset: 2469
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=2469
+  endOffset: 2528
+- name: Course Roadmap for Software Engineers Transitioning to ML
+  startOffset: 2528
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=2528
+  endOffset: 2641
+- name: 'Improving Coding Skills: Learn Python by Building Solutions'
+  startOffset: 2641
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=2641
+  endOffset: 2727
+- name: 'Build Projects Without ML: Automation Examples (Selenium)'
+  startOffset: 2727
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=2727
+  endOffset: 2799
+- name: 'ML Engineering Skills: Data Pipeline, Modeling, Deployment, Monitoring'
+  startOffset: 2799
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=2799
+  endOffset: 2963
+- name: 'Deployment & MLOps Fundamentals: APIs, Docker, Cloud Providers'
+  startOffset: 2963
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=2963
+  endOffset: 3081
+- name: 'Learning Cloud Pragmatically: Learn What the Project Demands'
+  startOffset: 3081
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=3081
+  endOffset: 3139
+- name: 'Machine Learning vs Data Science: Roles, Tools, and Focus'
+  startOffset: 3139
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=3139
+  endOffset: 3310
+- name: 'Getting Started: Andrew Ng Coursera vs Hands-On Project Work'
+  startOffset: 3310
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=3310
+  endOffset: 3397
+- name: 'Conquering Math: Intuition, Translate Formulas to Code'
+  startOffset: 3397
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=3397
+  endOffset: 3594
+- name: 'Episode Resources: Santiago’s Twitter, Course Links'
+  startOffset: 3594
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=3594
+  endOffset: 3639
+- name: Closing Remarks & Conference Announcements
+  startOffset: 3639
+  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=3639
+  endOffset: 3564
 ---
 
 Links:

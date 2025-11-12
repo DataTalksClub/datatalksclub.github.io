@@ -625,6 +625,113 @@ intro: How do you turn Kaggle competition wins into production-ready machine lea
   student-built software. Listeners will gain actionable guidance on competition strategy,
   MLOps best practices, designing real-world assignments, and how to use competitive
   experience to deliver production-grade ML and teach it effectively.
+dateadded: '2025-02-26'
+duration: PT01H05M09S
+quotableClips:
+- name: Episode Start
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=0
+  endOffset: 230
+- name: Guest Introduction & Kaggle Grandmaster Credentials
+  startOffset: 230
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=230
+  endOffset: 388
+- name: Early Industry Roles & Open-Source Contributions
+  startOffset: 388
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=388
+  endOffset: 516
+- name: MLEM Story & Tooling Anecdotes
+  startOffset: 516
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=516
+  endOffset: 701
+- name: Kaggle Beginnings & Local Community Influence
+  startOffset: 701
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=701
+  endOffset: 887
+- name: Balancing Competitions with University Studies
+  startOffset: 887
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=887
+  endOffset: 956
+- name: Time Investment & Learning Curve on Competitions
+  startOffset: 956
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=956
+  endOffset: 1030
+- name: Kaggle for Skill Broadening, Domain Exposure & Interviews
+  startOffset: 1030
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=1030
+  endOffset: 1302
+- name: 'Competition Preparation: Iteration, Baselines & Infrastructure'
+  startOffset: 1302
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=1302
+  endOffset: 1365
+- name: Applying Competition Experience to Production ML
+  startOffset: 1365
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=1365
+  endOffset: 1578
+- name: Regional Differences in Kaggle’s Career Value
+  startOffset: 1578
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=1578
+  endOffset: 1748
+- name: 'Collaboration Strategies: Teamwork vs. Solo Competitions'
+  startOffset: 1748
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=1748
+  endOffset: 1890
+- name: Teaching Teens & Participation in AI Olympiads
+  startOffset: 1890
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=1890
+  endOffset: 2005
+- name: 'Transition to Teaching: From Competitor to Instructor'
+  startOffset: 2005
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=2005
+  endOffset: 2277
+- name: 'Practical Curriculum Design: Production ML & MLOps'
+  startOffset: 2277
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=2277
+  endOffset: 2470
+- name: Machine Learning System Design Projects & Real-World Work
+  startOffset: 2470
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=2470
+  endOffset: 2810
+- name: 'Problem-Centered Assignments: Bot Detection Case Study'
+  startOffset: 2810
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=2810
+  endOffset: 3010
+- name: Teamwork, Communication & Dual Leaderboards (ML + Technical)
+  startOffset: 3010
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=3010
+  endOffset: 3250
+- name: 'Online Education at Scale: Coursera Course & 100k Students'
+  startOffset: 3250
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=3250
+  endOffset: 3382
+- name: Teaching Platform Development & Student-Built Software
+  startOffset: 3382
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=3382
+  endOffset: 3455
+- name: Documentation, Mentorship & Industry Partnerships
+  startOffset: 3455
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=3455
+  endOffset: 3591
+- name: Demonstrating Kaggle’s Business Value to Managers
+  startOffset: 3591
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=3591
+  endOffset: 3708
+- name: 'Competition Essentials: EDA, Validation & No Single Trick'
+  startOffset: 3708
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=3708
+  endOffset: 3791
+- name: 'Generative AI & AutoML: Productivity vs. Winning Solutions'
+  startOffset: 3791
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=3791
+  endOffset: 3913
+- name: 'Career Reflections: Current Activity and Kaggle Legacy'
+  startOffset: 3913
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=3913
+  endOffset: 4134
+- name: Closing Remarks & Episode Wrap-Up
+  startOffset: 4134
+  url: https://www.youtube.com/watch?v=NfAJAr7FvyY&t&t=4134
+  endOffset: 3909
 ---
 
 Links:

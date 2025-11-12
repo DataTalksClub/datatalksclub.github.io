@@ -1056,6 +1056,114 @@ intro: 'How do you build vector search and hybrid retrieval that actually works 
   this episode offers actionable guidance on embeddings, indexing strategies, multimodal
   fusion, and how to translate business rules into performant hybrid retrieval—so
   you can iterate faster and measure impact.'
+dateadded: '2024-03-17'
+duration: PT01H05M23S
+quotableClips:
+- name: 'Guest Introduction: Daniel, Superlinked, and VectorHub'
+  startOffset: 107
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=107
+  endOffset: 149
+- name: 'Career Journey: Competitive programming, startups, and YouTube Ads'
+  startOffset: 149
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=149
+  endOffset: 380
+- name: 'Competitive Programming to Infrastructure: relevance of algorithms'
+  startOffset: 380
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=380
+  endOffset: 480
+- name: 'Defining Search: Information retrieval as a decision problem'
+  startOffset: 480
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=480
+  endOffset: 550
+- name: 'Search vs Recommenders: Representation learning overview'
+  startOffset: 550
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=550
+  endOffset: 645
+- name: 'Search Constraints: Latency and user experience impact'
+  startOffset: 645
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=645
+  endOffset: 689
+- name: 'Text Search Fundamentals: Inverted index and Lucene basics'
+  startOffset: 689
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=689
+  endOffset: 765
+- name: 'Search Architecture: Candidate generation (retrieval) and ML ranking'
+  startOffset: 765
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=765
+  endOffset: 1060
+- name: 'Indexing Documents: Practical tools and why not to hand-roll indexes'
+  startOffset: 1060
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=1060
+  endOffset: 1202
+- name: 'Keyword Search Challenges: Brittleness, synonyms, and rule complexity'
+  startOffset: 1202
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=1202
+  endOffset: 1315
+- name: 'Vector Search Fundamentals: Embeddings as shared representations'
+  startOffset: 1315
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=1315
+  endOffset: 1740
+- name: 'Vector Compute vs Storage: Embedding generation and ingestion pipelines'
+  startOffset: 1740
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=1740
+  endOffset: 1993
+- name: 'Multimodal Embeddings: Images, text, CLIP, and modality fusion'
+  startOffset: 1993
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=1993
+  endOffset: 2040
+- name: 'Hybrid Search: Combining vector similarity with filters and recency'
+  startOffset: 2040
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=2040
+  endOffset: 2330
+- name: 'Feature Fusion: Encoding metadata, behavior, and popularity into vectors'
+  startOffset: 2330
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=2330
+  endOffset: 2393
+- name: 'Expressing Constraints: Translating filters and business rules to vectors'
+  startOffset: 2393
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=2393
+  endOffset: 2516
+- name: 'Time Encoding in Embeddings: Timestamps, positional encodings, and decay'
+  startOffset: 2516
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=2516
+  endOffset: 2711
+- name: 'Query-Time Weighting: Normalization, weights, and context-specific tuning'
+  startOffset: 2711
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=2711
+  endOffset: 2857
+- name: 'LLMs vs Specialized Encoders: Prompting trade-offs and efficiency limits'
+  startOffset: 2857
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=2857
+  endOffset: 2976
+- name: 'Learning Resources: VectorHub tutorials, graph and multimodal examples'
+  startOffset: 2976
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=2976
+  endOffset: 3155
+- name: 'Vector DB Selection: Vendor comparison and trade-offs'
+  startOffset: 3155
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=3155
+  endOffset: 3353
+- name: 'Monolithic vs Specialized Systems: Lucene/elasticsearch versus dedicated
+    VDBs'
+  startOffset: 3353
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=3353
+  endOffset: 3497
+- name: 'E‑commerce Personalization: Prototyping with embeddings and CLIP'
+  startOffset: 3497
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=3497
+  endOffset: 3685
+- name: 'Search Metrics: Business KPIs, A/B tests, and revenue attribution'
+  startOffset: 3685
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=3685
+  endOffset: 3830
+- name: 'Operationalization: Enabling engineers, offline tests, and fast iteration'
+  startOffset: 3830
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=3830
+  endOffset: 4008
+- name: Episode Recap and Closing
+  startOffset: 4008
+  url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=4008
+  endOffset: 3923
 ---
 
 Links:

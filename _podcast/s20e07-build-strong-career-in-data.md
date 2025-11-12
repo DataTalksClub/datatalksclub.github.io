@@ -1072,6 +1072,101 @@ intro: How do you evaluate and deploy long-context LLMs for real-world financial
   and actionable career advice on transitioning into ML roles, networking, portfolios,
   and interview prep. Tune in to learn how to benchmark long-context LLMs for financial
   NLP and translate research into production-ready workflows.
+dateadded: '2025-05-12'
+duration: PT00H58M10S
+quotableClips:
+- name: Episode Introduction & Topic Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=0
+  endOffset: 122
+- name: 'Career Overview: From Software Engineering to ML & Master''s'
+  startOffset: 122
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=122
+  endOffset: 205
+- name: 'Origin of ML Interest: Hackathons and Computer Vision'
+  startOffset: 205
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=205
+  endOffset: 295
+- name: 'Early Project Case Study: OCR for Organization Charts'
+  startOffset: 295
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=295
+  endOffset: 523
+- name: 'Role Snapshot: LLM Benchmarking at a Financial Institution'
+  startOffset: 523
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=523
+  endOffset: 615
+- name: 'Research Focus: Evaluating Long-Context LLMs'
+  startOffset: 615
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=615
+  endOffset: 756
+- name: 'Empirical Findings: Context Window Performance Droparound 32k–64k'
+  startOffset: 756
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=756
+  endOffset: 894
+- name: 'Practical Approach: Chunking, Retrieval, and Summarization for Large Docs'
+  startOffset: 894
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=894
+  endOffset: 928
+- name: 'Published Work: "Long Context LLMs on Financial Concepts" (EMNLP)'
+  startOffset: 928
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=928
+  endOffset: 1048
+- name: 'Industry Research Practices: Publishing from Corporate Teams'
+  startOffset: 1048
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=1048
+  endOffset: 1185
+- name: 'Motivation for Publications: Manager Support and Community Sharing'
+  startOffset: 1185
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=1185
+  endOffset: 1330
+- name: 'Dissemination Paths: arXiv, Endorsement, and Early Publications'
+  startOffset: 1330
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=1330
+  endOffset: 1501
+- name: 'Self-Learning & MLOps: Zoom Camps, Tutorials, and Mentoring'
+  startOffset: 1501
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=1501
+  endOffset: 1814
+- name: 'Rapid Prototyping Tools: Streamlit for Demos and Feedback'
+  startOffset: 1814
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=1814
+  endOffset: 2004
+- name: 'Kaggle Success Story: Building and Licensing a High-Impact Dataset'
+  startOffset: 2004
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2004
+  endOffset: 2252
+- name: 'Community Contribution: Women in Data Science and Open Mentoring'
+  startOffset: 2252
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2252
+  endOffset: 2473
+- name: 'Opportunity & Persistence: Timing, Luck, and "Shooting Arrows"'
+  startOffset: 2473
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2473
+  endOffset: 2724
+- name: 'Career Pivot Guidance: Non-CS Backgrounds Entering Data Roles'
+  startOffset: 2724
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2724
+  endOffset: 2908
+- name: 'Networking & Mentorship: Cold Outreach and Building Rapport'
+  startOffset: 2908
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2908
+  endOffset: 3088
+- name: 'Portfolio Strategy: Community Visibility vs. Job-Targeted Projects'
+  startOffset: 3088
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=3088
+  endOffset: 3273
+- name: 'Interview Preparation: LeetCode, Conceptual Mastery, and Mock Interviews'
+  startOffset: 3273
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=3273
+  endOffset: 3416
+- name: 'Project Selection: Industry-Backed Work for Real-World Impact'
+  startOffset: 3416
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=3416
+  endOffset: 3466
+- name: Episode Wrap-Up & Final Career Advice
+  startOffset: 3466
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=3466
+  endOffset: 3490
 ---
 
 Links:

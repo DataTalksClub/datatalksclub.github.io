@@ -1052,6 +1052,125 @@ intro: How do you move from DevOps into data engineering while using automation,
   work can reopen corporate doors, designing volunteer processes, and aligning technical
   career moves with personal values — practical takeaways for anyone navigating a
   career pivot into data engineering or community-driven tech work.
+dateadded: '2025-01-12'
+duration: PT01H01M46S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=0
+  endOffset: 156
+- name: Guest Welcome & Interview Agenda
+  startOffset: 156
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=156
+  endOffset: 182
+- name: 'Career Beginnings: Trade School, Web Design, First Programming'
+  startOffset: 182
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=182
+  endOffset: 255
+- name: 'Education & Bootcamp: Computer Science, Accenture, C++'
+  startOffset: 255
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=255
+  endOffset: 322
+- name: 'Transition to DevOps: Configuration Management & Early Automation'
+  startOffset: 322
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=322
+  endOffset: 377
+- name: 'Burnout and Self-Discovery: Travel and Volunteerism'
+  startOffset: 377
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=377
+  endOffset: 456
+- name: 'Erasmus+ Volunteering: Programs, Exchanges, and Training'
+  startOffset: 456
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=456
+  endOffset: 560
+- name: Community Management at VMware & Versatile Data Kit (Open Source)
+  startOffset: 560
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=560
+  endOffset: 717
+- name: 'Testing Passions: Flow, Energy, and Career Fit'
+  startOffset: 717
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=717
+  endOffset: 869
+- name: 'Automation Case Study: Scripting Repetitive Tasks and Rapid Promotion'
+  startOffset: 869
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=869
+  endOffset: 1156
+- name: 'Problem-Solving as a Core Skill: Transferable Technical Competencies'
+  startOffset: 1156
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=1156
+  endOffset: 1263
+- name: 'Applying Corporate Processes to NGOs: Documentation & Agile Practices'
+  startOffset: 1263
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=1263
+  endOffset: 1435
+- name: 'Volunteer Management vs. Employment: Motivation and Process Design'
+  startOffset: 1435
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=1435
+  endOffset: 1507
+- name: 'Spotting Opportunities: Transitioning into Volunteer Roles'
+  startOffset: 1507
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=1507
+  endOffset: 1610
+- name: Personality Types & Team Composition (MBTI relevance)
+  startOffset: 1610
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=1610
+  endOffset: 1793
+- name: 'Personality Traits for Data Engineering: Precision, Persistence, Detail'
+  startOffset: 1793
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=1793
+  endOffset: 2092
+- name: 'Data Scientist vs. Data Engineer: Interests and Role Differences'
+  startOffset: 2092
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=2092
+  endOffset: 2185
+- name: 'Returning to Corporate via Open Source: Community + Technical Work'
+  startOffset: 2185
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=2185
+  endOffset: 2285
+- name: 'Community Manager Role: Content, DevRel Overlap, and Events'
+  startOffset: 2285
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=2285
+  endOffset: 2423
+- name: 'Product Focus: Simplifying Vision and Goal-Setting'
+  startOffset: 2423
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=2423
+  endOffset: 2584
+- name: 'Career Coaching Course: "Align Your Career With Who You Are"'
+  startOffset: 2584
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=2584
+  endOffset: 2704
+- name: 'Founding an NGO: Legal Setup, Governance, and Launch'
+  startOffset: 2704
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=2704
+  endOffset: 2812
+- name: 'Inclusion in Porto: Connecting Expats and Locals'
+  startOffset: 2812
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=2812
+  endOffset: 2952
+- name: 'Meetup Activities: MBTI, Improv, and Community Events'
+  startOffset: 2952
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=2952
+  endOffset: 3131
+- name: 'Off-Grid Living Experiment: Land, Dome, and Lifestyle Shift'
+  startOffset: 3131
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=3131
+  endOffset: 3207
+- name: 'Off-Grid Utilities: Solar Power, Rainwater, and Well Plans'
+  startOffset: 3207
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=3207
+  endOffset: 3352
+- name: 'Cost Comparison: Off-Grid Life vs. Porto Renting'
+  startOffset: 3352
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=3352
+  endOffset: 3407
+- name: 'Unemployment Party: Mastermind Brainstorming Technique'
+  startOffset: 3407
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=3407
+  endOffset: 3657
+- name: Episode Closing & Final Remarks
+  startOffset: 3657
+  url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=3657
+  endOffset: 3706
 ---
 
 Links:

@@ -1,5 +1,6 @@
 ---
-title: 'How to Build & Scale a Data Team: Hiring, Production ML, Forecasting & Driving Adoption'
+title: 'How to Build & Scale a Data Team: Hiring, Production ML, Forecasting & Driving
+  Adoption'
 short: Building and Leading Data Teams
 guests:
 - tammyliang
@@ -1203,6 +1204,126 @@ intro: How do you build and scale a data team that moves beyond dashboards to pr
   trust. <br><br> Listen to learn concrete steps for hiring a data team, setting up
   a data warehouse for forecasting, delivering models to production, and creating
   data products that stakeholders actually use.
+dateadded: '2021-10-09'
+duration: PT00H59M10S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=0
+  endOffset: 74
+- name: 'Guest Background: Tammy Liang’s career path into data'
+  startOffset: 74
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=74
+  endOffset: 247
+- name: 'Chief of Data Responsibilities: Marketing, e‑commerce, and operations'
+  startOffset: 247
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=247
+  endOffset: 404
+- name: 'Data Challenges for Sensitive Products: Social media restrictions & creative
+    tracking'
+  startOffset: 404
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=404
+  endOffset: 442
+- name: 'First Project: Business health monitoring and dashboards'
+  startOffset: 442
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=442
+  endOffset: 531
+- name: 'Cross‑team Collaboration: Streamlining reporting and building trust'
+  startOffset: 531
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=531
+  endOffset: 606
+- name: 'Handling Resistance: Spreadsheet culture and adoption hurdles'
+  startOffset: 606
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=606
+  endOffset: 720
+- name: Scaling from Dashboards to Predictive Projects
+  startOffset: 720
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=720
+  endOffset: 883
+- name: 'Model Delivery Challenges: From notebooks to production'
+  startOffset: 883
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=883
+  endOffset: 904
+- name: 'Hiring Progression: First analyst then data engineer'
+  startOffset: 904
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=904
+  endOffset: 1031
+- name: Building a Data Warehouse to Enable Forecasting
+  startOffset: 1031
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=1031
+  endOffset: 1121
+- name: 'Business‑Facing Role: Hiring for adoption and communication'
+  startOffset: 1121
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=1121
+  endOffset: 1352
+- name: 'Data Stack Overview: Stitch, GCP, dbt, Data Studio, and Notion wiki'
+  startOffset: 1352
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=1352
+  endOffset: 1391
+- name: 'Rethinking Hiring Order: Importance of senior hires early'
+  startOffset: 1391
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=1391
+  endOffset: 1586
+- name: 'Prioritizing Roles: Analyst, engineer, and business analyst tradeoffs'
+  startOffset: 1586
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=1586
+  endOffset: 1760
+- name: 'Demand Forecasting: Data provision, stakeholder input, and iteration'
+  startOffset: 1760
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=1760
+  endOffset: 1857
+- name: 'Analyst Skills: Time series and basic machine learning as advantages'
+  startOffset: 1857
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=1857
+  endOffset: 1989
+- name: 'First‑Hire Qualities: Business alignment and leadership mindset'
+  startOffset: 1989
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=1989
+  endOffset: 2138
+- name: 'Data Accuracy & Governance: Errors, playbook, and rebuilding trust'
+  startOffset: 2138
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=2138
+  endOffset: 2409
+- name: 'Data Testing & Monitoring: dbt tests and regular dashboard checks'
+  startOffset: 2409
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=2409
+  endOffset: 2502
+- name: 'Timely Insights: Operational visibility and campaign monitoring'
+  startOffset: 2502
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=2502
+  endOffset: 2739
+- name: 'Offline Attribution: Surveys, community sampling, and measuring TV/banners'
+  startOffset: 2739
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=2739
+  endOffset: 2828
+- name: 'Useful Data Products: Product mindset and business alignment'
+  startOffset: 2828
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=2828
+  endOffset: 2940
+- name: 'Driving Adoption: Workshops, Q&A sessions, and building data culture'
+  startOffset: 2940
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=2940
+  endOffset: 3052
+- name: 'Leadership Approach: Delegation, ownership, and team empowerment'
+  startOffset: 3052
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=3052
+  endOffset: 3159
+- name: 'Resources for New Data Leaders: Communities, courses, and mentors'
+  startOffset: 3159
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=3159
+  endOffset: 3249
+- name: 'Data For Future Podcast: Data + sustainability focus'
+  startOffset: 3249
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=3249
+  endOffset: 3379
+- name: 'Supporting Stuck Team Members: Google, communities, and networks'
+  startOffset: 3379
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=3379
+  endOffset: 3537
+- name: Closing Remarks & Where to Find Tammy (LinkedIn, dataforfuture.org)
+  startOffset: 3537
+  url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=3537
+  endOffset: 3550
 ---
 
 

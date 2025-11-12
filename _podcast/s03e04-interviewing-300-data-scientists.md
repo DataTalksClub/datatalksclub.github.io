@@ -1,6 +1,8 @@
 ---
-title: 'Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews & Negotiation'
-short: "Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews & Negotiation"
+title: 'Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews
+  & Negotiation'
+short: 'Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews
+  & Negotiation'
 guests:
 - olegnovikov
 image: images/podcast/s03e04-interviewing-300-data-scientists.jpg
@@ -946,6 +948,117 @@ intro: How do you make your data science application stand out, ace take-home pr
 description: Master CV optimization, take-home projects and mock interviews to land
   data science offers—learn SQL/ML prep, negotiation tactics and measurable project
   impact.
+dateadded: '2021-05-07'
+duration: PT01H08M38S
+quotableClips:
+- name: Introduction & Episode Overview
+  startOffset: 76
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=76
+  endOffset: 120
+- name: 'Career Path: Engineer → Recommenders → Data Science Management'
+  startOffset: 120
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=120
+  endOffset: 162
+- name: 'Differentiating Application: Building a Project to Showcase Skills'
+  startOffset: 162
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=162
+  endOffset: 319
+- name: 'Product Data Science at Uber: Forecasting & LTV Work'
+  startOffset: 319
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=319
+  endOffset: 398
+- name: 'NextRound: Mock Interview Chatbot with Personalized Feedback'
+  startOffset: 398
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=398
+  endOffset: 509
+- name: Why Companies Provide Generic Rejection Messages
+  startOffset: 509
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=509
+  endOffset: 655
+- name: 'Designing Interview Scenarios: Common On-the-Job Dilemmas'
+  startOffset: 655
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=655
+  endOffset: 804
+- name: 'Typical Hiring Funnel: Recruiter Screen → Take-Home → Interview Rounds'
+  startOffset: 804
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=804
+  endOffset: 929
+- name: 'Role Spectrum: Product Data Scientist vs. Machine Learning Engineer'
+  startOffset: 929
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=929
+  endOffset: 1033
+- name: 'Job Description Focus: Tailoring Your Application to the Role'
+  startOffset: 1033
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=1033
+  endOffset: 1108
+- name: 'CV Optimization: Treat Your CV as a Landing Page'
+  startOffset: 1108
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=1108
+  endOffset: 1551
+- name: 'CV Details: Highlight Personal Contribution and Remove Noise'
+  startOffset: 1551
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=1551
+  endOffset: 1671
+- name: 'Take-Home Projects: Time Investment and ROI Considerations'
+  startOffset: 1671
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=1671
+  endOffset: 1772
+- name: 'Behavioral Stories: Preparing Impactful Past-Project Narratives'
+  startOffset: 1772
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=1772
+  endOffset: 1923
+- name: 'Case Study Strategy: From Business Goals to Evaluation Metrics'
+  startOffset: 1923
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=1923
+  endOffset: 2198
+- name: 'Technical Assessments: ML Knowledge, SQL (Window Functions), and Coding'
+  startOffset: 2198
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=2198
+  endOffset: 2350
+- name: 'Handling Rejection: Ask for Feedback and Reapply Strategically'
+  startOffset: 2350
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=2350
+  endOffset: 2522
+- name: 'Offer Evaluation: Components, Market Comparison, and Negotiation'
+  startOffset: 2522
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=2522
+  endOffset: 2678
+- name: 'Personal Data on CV: Avoid Age, Photo, and Irrelevant Details'
+  startOffset: 2678
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=2678
+  endOffset: 2746
+- name: 'PhD to Industry: Cold-Start Projects, Synthetic Data, and Blogging'
+  startOffset: 2746
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=2746
+  endOffset: 2950
+- name: 'Replying to Rejections: Be Gracious and Preserve Relationships'
+  startOffset: 2950
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=2950
+  endOffset: 3017
+- name: Negotiation Tactics When Current Salary Is Low
+  startOffset: 3017
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=3017
+  endOffset: 3189
+- name: 'Applying Despite Experience Gaps: When It Makes Sense to Try'
+  startOffset: 3189
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=3189
+  endOffset: 3317
+- name: 'ATS Reality: Parsing Myths vs. Human Screening'
+  startOffset: 3317
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=3317
+  endOffset: 3494
+- name: 'Key Lessons from Hundreds of Interviews: Avoid Bias & Iterate'
+  startOffset: 3494
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=3494
+  endOffset: 3864
+- name: 'Rethinking CV Format: Historical Constraints and Modern Design'
+  startOffset: 3864
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=3864
+  endOffset: 4166
+- name: Closing Remarks and NextRound Resources
+  startOffset: 4166
+  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=4166
+  endOffset: 4118
 ---
 Links:
 

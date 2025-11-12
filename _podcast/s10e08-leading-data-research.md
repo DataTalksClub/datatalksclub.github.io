@@ -1158,6 +1158,118 @@ intro: How do you build effective data science programs, democratize high-perfor
   service. <br><br> Listen to learn concrete approaches to creating data science programs,
   practical steps to scale graph analytics with Arkouda, and tactics for turning research
   into real-world impact.
+dateadded: '2022-09-16'
+duration: PT01H03M03S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=0
+  endOffset: 107
+- name: 'Guest Intro: David Bader — NJIT Institute for Data Science, research focus'
+  startOffset: 107
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=107
+  endOffset: 200
+- name: Career Journey & Academic Appointments
+  startOffset: 200
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=200
+  endOffset: 293
+- name: 'Daily Responsibilities: Research, Teaching, and Institute Leadership'
+  startOffset: 293
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=293
+  endOffset: 371
+- name: Active Projects & Industry Partnerships (NSF, Accenture, NVIDIA)
+  startOffset: 371
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=371
+  endOffset: 510
+- name: 'Launching Academic Units: Starting Departments and Degree Programs'
+  startOffset: 510
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=510
+  endOffset: 541
+- name: Designing Data Science Curricula & Regional Workforce Alignment
+  startOffset: 541
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=541
+  endOffset: 835
+- name: 'Academic Ranks: Assistant, Associate, Full, and Distinguished Professor'
+  startOffset: 835
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=835
+  endOffset: 1061
+- name: 'Career Pathways: PhD, Postdoc, and Faculty Entry'
+  startOffset: 1061
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=1061
+  endOffset: 1143
+- name: 'Academic CV vs. Industry Resume: Documentation and Expectations'
+  startOffset: 1143
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=1143
+  endOffset: 1450
+- name: 'Arkouda & ARACHNE: Interactive, Massive-scale Python Analytics and Graph
+    Tools'
+  startOffset: 1450
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=1450
+  endOffset: 1655
+- name: 'Backend Performance: Chapel, Supercomputing, and Democratizing HPC'
+  startOffset: 1655
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=1655
+  endOffset: 1772
+- name: 'Research Lab as Startup: Open Source, Code Release, and Student Output'
+  startOffset: 1772
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=1772
+  endOffset: 1830
+- name: 'Finding Datasets: Synthetic Data, SNAP, and Industry Collaboration'
+  startOffset: 1830
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=1830
+  endOffset: 1958
+- name: Lab Composition & Mentorship Model (PhD, MS, undergrads, high school)
+  startOffset: 1958
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=1958
+  endOffset: 2139
+- name: 'Time Allocation: Balancing Teaching Load, Research, and Service'
+  startOffset: 2139
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=2139
+  endOffset: 2226
+- name: 'Most Rewarding Work: Linear-time Algorithm & Pancake-flipping Variant'
+  startOffset: 2226
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=2226
+  endOffset: 2429
+- name: 'Underappreciated Impact: STINGER and Streaming Graph Analytics'
+  startOffset: 2429
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=2429
+  endOffset: 2745
+- name: Virtual Seminar Series & NJIT Data Science YouTube Channel
+  startOffset: 2745
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=2745
+  endOffset: 2812
+- name: 'Teaching-focused Careers: Universities Prioritizing Instruction over Research'
+  startOffset: 2812
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=2812
+  endOffset: 2941
+- name: 'Staying Current: Journals, Conferences, and Information Triage'
+  startOffset: 2941
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=2941
+  endOffset: 3232
+- name: 'Favorite Conferences: Supercomputing, IPDPS, HPEC'
+  startOffset: 3232
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=3232
+  endOffset: 3298
+- name: 'Selecting Research Topics: Domain-driven, Impact-first Approach'
+  startOffset: 3298
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=3298
+  endOffset: 3400
+- name: 'Building Usable Systems: From Research to Real-world Adoption (NASA example)'
+  startOffset: 3400
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=3400
+  endOffset: 3491
+- name: 'Recruiting Students: PhD vs. Industry and Collaborative Opportunities'
+  startOffset: 3491
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=3491
+  endOffset: 3811
+- name: 'Contact & Resources: davidbader.net, Arkouda, NJIT Data Science links'
+  startOffset: 3811
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=3811
+  endOffset: 3846
+- name: Closing Remarks and Episode Wrap-up
+  startOffset: 3846
+  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=3846
+  endOffset: 3783
 ---
 
 Links:

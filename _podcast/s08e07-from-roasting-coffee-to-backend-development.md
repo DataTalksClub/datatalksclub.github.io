@@ -1141,6 +1141,105 @@ transcript:
   sec: 3656
   time: '1:00:56'
   who: Jessica
+dateadded: '2022-05-07'
+duration: PT00H59M32S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=0
+  endOffset: 84
+- name: 'Career Origin: From Film & Coffee Roasting to Tech'
+  startOffset: 84
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=84
+  endOffset: 161
+- name: Community Support & Early Conference Exposure (PyLadies, meetups)
+  startOffset: 161
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=161
+  endOffset: 391
+- name: 'Learning Path: Codecademy, Andrew Ng Course & FreeCodeCamp'
+  startOffset: 391
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=391
+  endOffset: 506
+- name: 'Funding Support: German Bildungsgutschein & Structured Study Time'
+  startOffset: 506
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=506
+  endOffset: 713
+- name: 'Open Source Fellowship: Rails Girls Summer of Code & Pair Programming'
+  startOffset: 713
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=713
+  endOffset: 923
+- name: 'Meetups to Internship: Networking That Led to Ecosia'
+  startOffset: 923
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=923
+  endOffset: 993
+- name: 'Interview Impressions: Inquisitiveness & Creating an Internship Role'
+  startOffset: 993
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=993
+  endOffset: 1168
+- name: 'Career Switch Timing: Age, Concerns & Perceptions'
+  startOffset: 1168
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=1168
+  endOffset: 1342
+- name: 'Staying Motivated: Community, Mastermind Groups & Meetups'
+  startOffset: 1342
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=1342
+  endOffset: 1550
+- name: 'Community Organizing: Event Management, Soft Skills & Leadership'
+  startOffset: 1550
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=1550
+  endOffset: 1661
+- name: 'Overcoming Imposter Syndrome: Jupyter Notebook Setup & Peer Support'
+  startOffset: 1661
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=1661
+  endOffset: 1932
+- name: 'System Skills: Terminal, Dual‑Boot Linux & Hands‑on Troubleshooting'
+  startOffset: 1932
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=1932
+  endOffset: 2054
+- name: 'Community Events: Workshops, Study Groups & Remote Formats'
+  startOffset: 2054
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=2054
+  endOffset: 2172
+- name: 'Open Source Hack Evenings: Mentorship with scikit‑learn & Gene.ai'
+  startOffset: 2172
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=2172
+  endOffset: 2283
+- name: 'Hybrid Events & Outreach: Remote Reach vs. In‑Person Help'
+  startOffset: 2283
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=2283
+  endOffset: 2451
+- name: 'Organizing Benefits: Networking, Company Access & Management Skills'
+  startOffset: 2451
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=2451
+  endOffset: 2574
+- name: 'Public Speaking: Start Small, Dry Runs & Crafting a Personal Edge'
+  startOffset: 2574
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=2574
+  endOffset: 2811
+- name: 'Handling Q&A: Graceful "I Don''t Know" & Turning Questions into Learning'
+  startOffset: 2811
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=2811
+  endOffset: 3032
+- name: 'Speaking ROI: Visibility, Networking & Career Opportunities'
+  startOffset: 3032
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=3032
+  endOffset: 3336
+- name: 'Ecosia Overview: Green Search Engine, Tree‑Planting Mission & Backend (Go)'
+  startOffset: 3336
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=3336
+  endOffset: 3490
+- name: 'Diversity Challenges: Gender, Privilege & Inclusion in Tech'
+  startOffset: 3490
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=3490
+  endOffset: 3593
+- name: 'Connect with Jessica: Twitter, GitHub & PyLadies Slack'
+  startOffset: 3593
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=3593
+  endOffset: 3628
+- name: Episode Wrap‑Up and Closing Remarks
+  startOffset: 3628
+  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=3628
+  endOffset: 3572
 ---
 
 Links:

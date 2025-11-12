@@ -1,5 +1,6 @@
 ---
-title: 'From Postdoc to Data Science Lead: ML Foundations, Docker Deployment & Hiring Tips'
+title: 'From Postdoc to Data Science Lead: ML Foundations, Docker Deployment & Hiring
+  Tips'
 short: Moving from Academia to Industry
 guests:
 - cjjenkins
@@ -1239,6 +1240,125 @@ intro: 'How do you go from a postdoc to a data science lead while mastering mach
   psychological safety on teams. Listen to learn actionable steps for skills-first
   resumes, interview preparation, deployment basics, and how to translate academic
   output into industry impact. Find CJ on LinkedIn for follow-up questions.'
+dateadded: '2021-12-11'
+duration: PT00H58M44S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=0
+  endOffset: 58
+- name: 'Career Journey: Postdoc to Data Science Lead'
+  startOffset: 58
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=58
+  endOffset: 88
+- name: 'Evolutionary Biology: Statistics & Population Dynamics'
+  startOffset: 88
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=88
+  endOffset: 196
+- name: 'Academic Research as Data Science Practice: Genomics & Bash'
+  startOffset: 196
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=196
+  endOffset: 285
+- name: 'Statistical Machine Learning: GLMs and Foundations'
+  startOffset: 285
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=285
+  endOffset: 370
+- name: 'Bridging Gaps: Deployment, Docker, and Python Learning'
+  startOffset: 370
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=370
+  endOffset: 521
+- name: 'Hiring Signals: Smartness, Ambition, and Receptiveness to Feedback'
+  startOffset: 521
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=521
+  endOffset: 642
+- name: 'Interview Assessment: Testing Learning Agility and Humility'
+  startOffset: 642
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=642
+  endOffset: 719
+- name: 'First Tech Interview: Referral, Case Study in R, and Honesty'
+  startOffset: 719
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=719
+  endOffset: 936
+- name: 'Transition Timeline: One-Year Plan and Coursera Sprint'
+  startOffset: 936
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=936
+  endOffset: 1034
+- name: 'Resume Strategy: Skills-First Rewriting and LinkedIn Keywords'
+  startOffset: 1034
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=1034
+  endOffset: 1240
+- name: 'Refining Applications: 14 CV Iterations, Recruiter Tips, and ATS'
+  startOffset: 1240
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=1240
+  endOffset: 1366
+- name: 'Learning Resources: John Hopkins Specialization and Andrew Ng'
+  startOffset: 1366
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=1366
+  endOffset: 1537
+- name: 'Location Strategy: Choosing Berlin and Targeting Companies'
+  startOffset: 1537
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=1537
+  endOffset: 1716
+- name: 'Application Strategy: Selective Research vs. Volume Applications'
+  startOffset: 1716
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=1716
+  endOffset: 1860
+- name: 'Job Move: Klarna Experience and Onboarding Challenges'
+  startOffset: 1860
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=1860
+  endOffset: 1968
+- name: 'Internal Mobility: Relocating to Stockholm Within the Company'
+  startOffset: 1968
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=1968
+  endOffset: 2028
+- name: 'Market Entry: Networking, Meetups, and Community Engagement'
+  startOffset: 2028
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=2028
+  endOffset: 2203
+- name: 'Technical Expectations: Clean Code and Coding Proficiency for Juniors'
+  startOffset: 2203
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=2203
+  endOffset: 2259
+- name: 'Skill Building: Pair Programming, LeetCode, and Code Reviews'
+  startOffset: 2259
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=2259
+  endOffset: 2402
+- name: 'Research vs Industry: Publications, Portfolios, and Relevance'
+  startOffset: 2402
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=2402
+  endOffset: 2472
+- name: 'Real-World Data Work: Cleaning, Bash, and Domain Translation'
+  startOffset: 2472
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=2472
+  endOffset: 2624
+- name: 'Communication Shift: Simplifying Explanations and Office Culture'
+  startOffset: 2624
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=2624
+  endOffset: 2838
+- name: 'Team Dynamics: Open Offices, Proximity, and Social Bonding'
+  startOffset: 2838
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=2838
+  endOffset: 2930
+- name: 'Counterproductive Habits: Competitiveness vs. Collaboration'
+  startOffset: 2930
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=2930
+  endOffset: 3065
+- name: 'Psychological Safety: Team Rituals, Sharing Failures, and Trust'
+  startOffset: 3065
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=3065
+  endOffset: 3165
+- name: 'Long-Term Learning: NLP, Kaggle as a Learning Resource'
+  startOffset: 3165
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=3165
+  endOffset: 3328
+- name: 'Academic Output: Writing a Textbook on Parasitology'
+  startOffset: 3328
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=3328
+  endOffset: 3525
+- name: Closing Remarks and Contact Info (Find CJ on LinkedIn)
+  startOffset: 3525
+  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=3525
+  endOffset: 3524
 ---
 
 Links:

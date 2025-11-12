@@ -1288,6 +1288,126 @@ intro: 'How do you move from academic research or in‑house ML engineering to a
   right next step and how to start with a safety net.'
 description: 'Learn freelancing in machine learning: pricing, client acquisition,
   and proposals to win ML consulting gigs, scale sustainably, and secure steady income'
+dateadded: '2021-08-20'
+duration: PT01H01M48S
+quotableClips:
+- name: Episode Introduction & Topic Overview (Freelancing in Machine Learning)
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=0
+  endOffset: 119
+- name: Guest Background — Academic Research to Industry Roles (TU Berlin → Zalando
+    → GetYourGuide)
+  startOffset: 119
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=119
+  endOffset: 373
+- name: Consulting Scope — Advising on ML Production, Infrastructure, and Teams
+  startOffset: 373
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=373
+  endOffset: 473
+- name: Freelance Launch — First Clients and Early Momentum
+  startOffset: 473
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=473
+  endOffset: 527
+- name: Client Lead Sources — Network, Referrals, and Direct Outreach
+  startOffset: 527
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=527
+  endOffset: 608
+- name: Personal Branding & Demand Generation (LinkedIn, Talks, Podcasts)
+  startOffset: 608
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=608
+  endOffset: 928
+- name: Networking Tactics — Coffee Chats, Lunchclub, and Meetups
+  startOffset: 928
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=928
+  endOffset: 1149
+- name: Intro Calls & Pre‑sales — Free Meetings, Qualification, and Trust Building
+  startOffset: 1149
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1149
+  endOffset: 1297
+- name: Problem Discovery — Diagnosing Needs vs. Prescribed Solutions
+  startOffset: 1297
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1297
+  endOffset: 1338
+- name: Proposal Essentials — Written Summaries, Scope Alignment, and Signoff
+  startOffset: 1338
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1338
+  endOffset: 1432
+- name: Pricing Models — Hourly, Fixed‑Price, and Value‑Based Tradeoffs
+  startOffset: 1432
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1432
+  endOffset: 1777
+- name: Rate Setting Strategies — Negotiation, Risk, and Client Concerns
+  startOffset: 1777
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1777
+  endOffset: 1912
+- name: Financial Planning — Vacation, Risk Buffer, and Expected Income
+  startOffset: 1912
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1912
+  endOffset: 2038
+- name: Workload Management — Capacity Planning, Calendars, and Burnout Prevention
+  startOffset: 2038
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2038
+  endOffset: 2171
+- name: Specialization Strategy — Niches, Productizing Consulting, and Predictability
+  startOffset: 2171
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2171
+  endOffset: 2326
+- name: Client Workflow — Managing Multiple Clients and Daily Rhythms
+  startOffset: 2326
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2326
+  endOffset: 2424
+- name: Income Comparison — Freelance Earnings vs. Full‑Time Salary
+  startOffset: 2424
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2424
+  endOffset: 2479
+- name: Freelance Tradeoffs — Freedom, Overhead, and Side Projects
+  startOffset: 2479
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2479
+  endOffset: 2660
+- name: Capacity Decisions — Accepting, Delaying, or Declining New Projects
+  startOffset: 2660
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2660
+  endOffset: 2715
+- name: Scaling Paths — Building an Agency, Launching a Product, or Rejoining Employment
+  startOffset: 2715
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2715
+  endOffset: 2907
+- name: Deliverables & Outcomes — Mentoring, Workshops, Prototypes, and Team Results
+  startOffset: 2907
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2907
+  endOffset: 3017
+- name: Skill Growth as a Freelancer — Stretch Assignments and Learning Safely
+  startOffset: 3017
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3017
+  endOffset: 3165
+- name: Client‑Finding Lessons — Clarity in Writing and Scope Discipline
+  startOffset: 3165
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3165
+  endOffset: 3210
+- name: Administrative Setup in Germany — Freelance Registration, VAT, and Payments
+  startOffset: 3210
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3210
+  endOffset: 3261
+- name: Accounting Choices — DIY Taxes vs. Hiring a Tax Advisor
+  startOffset: 3261
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3261
+  endOffset: 3422
+- name: Professional Liability — Insurance, GDPR, and Contractual Safeguards
+  startOffset: 3422
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3422
+  endOffset: 3539
+- name: Global Market Dynamics — Remote Work, Competition, and Differentiation
+  startOffset: 3539
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3539
+  endOffset: 3662
+- name: Starter Advice — Trying Freelancing with a Safety Net
+  startOffset: 3662
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3662
+  endOffset: 3792
+- name: Closing Remarks & Contact Information (LinkedIn, Twitter @mikiobraun)
+  startOffset: 3792
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3792
+  endOffset: 3708
 ---
 Books: 
 

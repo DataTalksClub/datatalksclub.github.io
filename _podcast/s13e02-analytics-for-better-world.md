@@ -1080,6 +1080,118 @@ intro: How can nonprofits move from basic reporting to optimization using analyt
   and COVID testing lab placement. Ideal for nonprofit leaders, data practitioners,
   and funders seeking actionable guidance on analytics for nonprofits, data maturity,
   and optimization strategies.
+dateadded: '2023-03-04'
+duration: PT00H59M21S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=0
+  endOffset: 70
+- name: 'Overview: Analytics for a Better World mission and guest intro'
+  startOffset: 70
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=70
+  endOffset: 114
+- name: 'Career Path: From renewable energy to data science and CTO role'
+  startOffset: 114
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=114
+  endOffset: 278
+- name: 'CTO Responsibilities: Connecting nonprofits with research and tech capacity'
+  startOffset: 278
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=278
+  endOffset: 380
+- name: 'Discovery Workshops: Assessing nonprofit needs and data maturity'
+  startOffset: 380
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=380
+  endOffset: 569
+- name: 'Fellowship Case Study: Waste-collection optimization pilot in Nairobi'
+  startOffset: 569
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=569
+  endOffset: 753
+- name: 'Data Maturity Comparison: Nonprofit vs. private-sector analytics'
+  startOffset: 753
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=753
+  endOffset: 923
+- name: 'Talent & Purpose: Motivating data professionals to join the public sector'
+  startOffset: 923
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=923
+  endOffset: 1073
+- name: 'Academy Structure: Programs for practitioners, analytics translators, executives'
+  startOffset: 1073
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=1073
+  endOffset: 1214
+- name: 'Open Resources: YouTube lectures, GitHub, and open-source deliverables'
+  startOffset: 1214
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=1214
+  endOffset: 1346
+- name: 'Curriculum Focus: Descriptive → diagnostic → predictive → optimization'
+  startOffset: 1346
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=1346
+  endOffset: 1536
+- name: 'Audience Profile: MBA, business analytics, and technical students'
+  startOffset: 1536
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=1536
+  endOffset: 1699
+- name: 'Student Engagement: Thesis collaborations and researcher pathways'
+  startOffset: 1699
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=1699
+  endOffset: 1847
+- name: 'Maturity Roadmaps: Scans, short/long-term goals, and cost optimization'
+  startOffset: 1847
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=1847
+  endOffset: 2046
+- name: 'People Dimension: Roles for data collection, analysis, and app development'
+  startOffset: 2046
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=2046
+  endOffset: 2194
+- name: 'Process Dimension: Data governance, privacy, SOPs, and workflows'
+  startOffset: 2194
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=2194
+  endOffset: 2302
+- name: 'Technology Dimension: Centralized data, version control, and tech selection'
+  startOffset: 2302
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=2302
+  endOffset: 2368
+- name: 'Tool Recommendations: Dashboards, Python/R, and cloud deployment options'
+  startOffset: 2368
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=2368
+  endOffset: 2658
+- name: 'Data Platforms: KoboToolbox, PostgreSQL, and Digital Public Goods guidance'
+  startOffset: 2658
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=2658
+  endOffset: 2751
+- name: 'Team Profiles: Analysts, data scientists, engineers, and blended roles'
+  startOffset: 2751
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=2751
+  endOffset: 2955
+- name: 'Data Engineering Needs: Moving from research to deployed applications'
+  startOffset: 2955
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=2955
+  endOffset: 3006
+- name: 'Optimization Use Cases: Healthcare access and COVID testing lab placement'
+  startOffset: 3006
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=3006
+  endOffset: 3170
+- name: 'Partnerships & Staffing: Ortec, academic partners, and on-demand talent network'
+  startOffset: 3170
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=3170
+  endOffset: 3247
+- name: 'Organizational Model: Small core team and large extended research network'
+  startOffset: 3247
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=3247
+  endOffset: 3338
+- name: 'Becoming Data-Driven: Strategy plus investments in people, processes, technology'
+  startOffset: 3338
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=3338
+  endOffset: 3502
+- name: 'Recommended Reading & Daily Resources: Culture Map, 7 Habits, Towards Data
+    Science'
+  startOffset: 3502
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=3502
+  endOffset: 3600
+- name: Closing Remarks and links to Academy resources and contact info
+  startOffset: 3600
+  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=3600
+  endOffset: 3561
 ---
 
 Links:

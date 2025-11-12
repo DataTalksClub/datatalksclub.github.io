@@ -1,5 +1,6 @@
 ---
-title: 'Data Observability Explained: 5 Pillars to Prevent Downtime, Drift & False Positives'
+title: 'Data Observability Explained: 5 Pillars to Prevent Downtime, Drift & False
+  Positives'
 short: 'Data Observability: The Next Frontier of Data Engineering'
 guests:
 - barrmoses
@@ -992,6 +993,106 @@ intro: How do you prevent data downtime, drift, and false positives before they 
   guidance on reducing false positives, prioritizing pipeline fixes, implementing
   auto lineage, and applying anomaly detection with contextual alerts—practical steps
   to improve data quality, reliability, and observability across cloud‑agnostic environments.
+dateadded: '2021-04-24'
+duration: PT01H01M50S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=0
+  endOffset: 108
+- name: 'Guest Profile: Barr Moses — career, GainSight, Monte Carlo'
+  startOffset: 108
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=108
+  endOffset: 275
+- name: 'Market Gap: Data downtime impact on analytics teams'
+  startOffset: 275
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=275
+  endOffset: 416
+- name: 'Observability Origins: DevOps pillars (metrics, logs, traces)'
+  startOffset: 416
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=416
+  endOffset: 589
+- name: 'Batch Data Challenges: Why data observability differs from app monitoring'
+  startOffset: 589
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=589
+  endOffset: 820
+- name: 'Silent Failures: Invisible data quality incidents and model drift'
+  startOffset: 820
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=820
+  endOffset: 998
+- name: 'Five Pillars of Data Observability: Freshness, Volume, Distribution, Schema,
+    Lineage'
+  startOffset: 998
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=998
+  endOffset: 1150
+- name: 'Schema Change Case Study: Downstream breakage and missed notifications'
+  startOffset: 1150
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=1150
+  endOffset: 1317
+- name: 'Good Pipelines, Bad Data: Need for engineering and data observability'
+  startOffset: 1317
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=1317
+  endOffset: 1471
+- name: 'Monitoring vs Observability: Detection versus diagnosis'
+  startOffset: 1471
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=1471
+  endOffset: 1564
+- name: 'Root Cause Analysis: Correlation, logs, lineage for triage'
+  startOffset: 1564
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=1564
+  endOffset: 1740
+- name: 'Accountability Models: RACI for data ownership and communication'
+  startOffset: 1740
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=1740
+  endOffset: 2124
+- name: 'Data SLAs: Defining timeliness and prioritizing pipeline fixes'
+  startOffset: 2124
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=2124
+  endOffset: 2294
+- name: 'SLA Automation: Inferring thresholds from historical data'
+  startOffset: 2294
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=2294
+  endOffset: 2463
+- name: 'Operational Runbooks: Playbooks and remediation workflows'
+  startOffset: 2463
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=2463
+  endOffset: 2580
+- name: 'Maturity Curve: Reactive → Proactive → Automated → Scalable'
+  startOffset: 2580
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=2580
+  endOffset: 2820
+- name: 'Platform Criteria: End-to-end integration and reducing false positives'
+  startOffset: 2820
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=2820
+  endOffset: 2992
+- name: 'Open Source Landscape: Point tools versus holistic observability'
+  startOffset: 2992
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=2992
+  endOffset: 3052
+- name: 'Test-Driven Data Development: Tests, DBT checks, and limitations'
+  startOffset: 3052
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=3052
+  endOffset: 3263
+- name: 'Cloud Agnosticism: Integrations across AWS, GCP, Snowflake'
+  startOffset: 3263
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=3263
+  endOffset: 3417
+- name: 'Centralized Governance: Observability across distributed environments'
+  startOffset: 3417
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=3417
+  endOffset: 3531
+- name: 'Auto Lineage: Detecting upstream and downstream data impact'
+  startOffset: 3531
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=3531
+  endOffset: 3627
+- name: 'Anomalies vs Bad Data: Contextual alerts and reducing false positives'
+  startOffset: 3627
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=3627
+  endOffset: 3770
+- name: Closing Remarks & Contact Resources (Monte Carlo, links, Slack)
+  startOffset: 3770
+  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=3770
+  endOffset: 3710
 ---
 
 Links:

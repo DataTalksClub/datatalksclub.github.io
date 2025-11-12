@@ -1126,4 +1126,91 @@ transcript:
   sec: 3777
   time: '1:02:57'
   who: Johanna
+dateadded: '2023-10-16'
+duration: PT01H02M57S
+quotableClips:
+- name: Episode Opening & DataTalks.Club 3rd Anniversary
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=0
+  endOffset: 77
+- name: 'Career Shift: From Java Developer to Machine Learning & Python'
+  startOffset: 77
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=77
+  endOffset: 251
+- name: 'Transition: Full‑time on DataTalks.Club; engineering-heavy roles'
+  startOffset: 251
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=251
+  endOffset: 355
+- name: 'Sustainability Strategy: Monetization and Sponsorship Focus'
+  startOffset: 355
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=355
+  endOffset: 363
+- name: 'Team & Operations: Roles of Francis (community) and Valeria (marketing)'
+  startOffset: 363
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=363
+  endOffset: 442
+- name: 'Course Planning: Considering LLM/AI Courses vs. Rapidly Changing Content'
+  startOffset: 442
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=442
+  endOffset: 670
+- name: 'GPT and LLMs: Impact on Data Workflows, Hiring, and Take‑home Tests'
+  startOffset: 670
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=670
+  endOffset: 896
+- name: 'Community Participation: Slack Engagement, TAs, and Webinar Contributions'
+  startOffset: 896
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=896
+  endOffset: 1223
+- name: 'Community Programs: Project of the Week, Competitions, and Portfolios'
+  startOffset: 1223
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=1223
+  endOffset: 1398
+- name: 'Community Lessons: Finding a Niche and Moderation Challenges'
+  startOffset: 1398
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=1398
+  endOffset: 1895
+- name: 'Origin Story: Launching the Slack Community and Early Organic Growth'
+  startOffset: 1895
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=1895
+  endOffset: 2026
+- name: 'Course Model: Creating Zoomcamps Inspired by Community‑Driven Courses'
+  startOffset: 2026
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=2026
+  endOffset: 2131
+- name: 'Book & Course Synergy: Developing the Machine Learning Bookcamp'
+  startOffset: 2131
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=2131
+  endOffset: 2224
+- name: 'COVID Effect: Timing, Online Momentum, and Community Persistence'
+  startOffset: 2224
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=2224
+  endOffset: 2351
+- name: 'Typical Outcomes: Career Switches, Internships, and Student Successes'
+  startOffset: 2351
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=2351
+  endOffset: 2572
+- name: 'Content Strategy: Choosing Guests and Avoiding Hype‑Chasing'
+  startOffset: 2572
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=2572
+  endOffset: 2748
+- name: 'Safety & Moderation: Handling Unsolicited Messages and Community Safety'
+  startOffset: 2748
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=2748
+  endOffset: 2908
+- name: 'Publishing Journey: Writing, Reviewing, and Working with Publishers'
+  startOffset: 2908
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=2908
+  endOffset: 3328
+- name: 'Backburner Projects: Hackathons, Event Recommender Ideas, and Event Tools'
+  startOffset: 3328
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=3328
+  endOffset: 3559
+- name: 'Success Metrics: Newsletter Performance, Active Users, and Sponsors'
+  startOffset: 3559
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=3559
+  endOffset: 3726
+- name: 'Closing Remarks: Next Steps and Continuing Community Growth'
+  startOffset: 3726
+  url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=3726
+  endOffset: 3777
 ---

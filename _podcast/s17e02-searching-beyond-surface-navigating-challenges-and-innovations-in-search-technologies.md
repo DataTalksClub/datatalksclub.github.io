@@ -1155,6 +1155,86 @@ transcript:
   sec: 3668
   time: '1:01:08'
   who: Atita
+dateadded: '2024-01-07'
+duration: PT00H59M13S
+quotableClips:
+- name: 'Episode Introduction: search focus and guest overview'
+  startOffset: 115
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=115
+  endOffset: 158
+- name: Background & career beginnings in information retrieval
+  startOffset: 158
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=158
+  endOffset: 282
+- name: 'Early search stack: Solr, Lucene and the Semantic Web era'
+  startOffset: 282
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=282
+  endOffset: 558
+- name: 'NLP and search: matching queries to content'
+  startOffset: 558
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=558
+  endOffset: 689
+- name: 'Search consulting & teaching: Lucidworks and OpenSource Connections'
+  startOffset: 689
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=689
+  endOffset: 1021
+- name: 'Vector databases overview: Qdrant and plug‑and‑play vector search'
+  startOffset: 1021
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=1021
+  endOffset: 1227
+- name: 'Migration decisions: vectors in existing search vs. standalone DBs'
+  startOffset: 1227
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=1227
+  endOffset: 1380
+- name: 'Evolution of search: NLP, personalization, learning‑to‑rank and LLMs'
+  startOffset: 1380
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=1380
+  endOffset: 1838
+- name: 'RAG concepts: retrieval plus generation to reduce LLM hallucinations'
+  startOffset: 1838
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=1838
+  endOffset: 2149
+- name: Building a chatbot from podcast transcripts and Whisper
+  startOffset: 2149
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=2149
+  endOffset: 2304
+- name: 'Ingest strategy: chunking, overlap, embedding models and vectorization'
+  startOffset: 2304
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=2304
+  endOffset: 2492
+- name: 'Orchestration tools: Langchain’s role in RAG pipelines'
+  startOffset: 2492
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=2492
+  endOffset: 2569
+- name: 'Retrieval → augmentation → generation: prompt design and citations'
+  startOffset: 2569
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=2569
+  endOffset: 2889
+- name: 'RAG evaluation: multi‑level metrics, offline tests and human‑in‑the‑loop'
+  startOffset: 2889
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=2889
+  endOffset: 3052
+- name: 'Evaluation reading: Human‑in‑the‑Loop and practical methodologies'
+  startOffset: 3052
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3052
+  endOffset: 3127
+- name: 'Vector databases for ML: session‑based recommendations and re‑ranking'
+  startOffset: 3127
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3127
+  endOffset: 3294
+- name: 'Personalization approaches: session‑based vs collaborative filtering'
+  startOffset: 3294
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3294
+  endOffset: 3470
+- name: 'Learning resources: Intro to Information Retrieval, Relevant Search, Vector
+    Hub'
+  startOffset: 3470
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3470
+  endOffset: 3624
+- name: Episode wrap‑up, links and next steps
+  startOffset: 3624
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3624
+  endOffset: 3553
 ---
 
 Links:

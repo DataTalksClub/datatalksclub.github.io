@@ -1136,4 +1136,139 @@ intro: How do you build reliable, production-ready ML pipelines that detect mode
   monitoring, or planning automated retraining, this episode offers practical guidance,
   maturity roadmaps, and resources to help you move from prototypes to reproducible,
   production ML.
+dateadded: '2021-02-23'
+duration: PT01H02M48S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=0
+  endOffset: 154
+- name: Episode Kickoff & Guest Overview
+  startOffset: 154
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=154
+  endOffset: 210
+- name: 'Guest Background: From Unix Engineer to ML Engineering'
+  startOffset: 210
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=210
+  endOffset: 314
+- name: 'Defining MLOps: Culture, Process, and Technology'
+  startOffset: 314
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=314
+  endOffset: 448
+- name: 'DevOps vs MLOps: Model Lifecycle and Data Drift'
+  startOffset: 448
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=448
+  endOffset: 677
+- name: 'Monitoring for MLOps: Drift, Fairness, and Retraining Triggers'
+  startOffset: 677
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=677
+  endOffset: 784
+- name: 'Monitoring Stack: Prometheus/Grafana and Inference Sensors'
+  startOffset: 784
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=784
+  endOffset: 884
+- name: Commoditizing Inference Monitoring for Faster Iteration
+  startOffset: 884
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=884
+  endOffset: 929
+- name: 'Role Distinction: ML Engineer as Practitioner, MLOps as Practice'
+  startOffset: 929
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=929
+  endOffset: 997
+- name: 'Team Composition: Developer, Operator, and Product in MLOps'
+  startOffset: 997
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=997
+  endOffset: 1208
+- name: 'The "MLOps Engineer" Debate: Title vs. Cross‑Functional Teams'
+  startOffset: 1208
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=1208
+  endOffset: 1427
+- name: MLOps Job Signals & Maturity Models (Google and Microsoft)
+  startOffset: 1427
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=1427
+  endOffset: 1621
+- name: 'Maturity Levels: Manual Training → Pipeline Automation'
+  startOffset: 1621
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=1621
+  endOffset: 1808
+- name: 'Advanced Maturity: Data‑Driven Triggers and Automated Retraining'
+  startOffset: 1808
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=1808
+  endOffset: 2007
+- name: 'Cultural Shift: Monitoring as a Source of New Training Data'
+  startOffset: 2007
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=2007
+  endOffset: 2065
+- name: 'Tooling Landscape: Vendors, Open Source, and Kubernetes'
+  startOffset: 2065
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=2065
+  endOffset: 2226
+- name: 'Kubeflow Ecosystem: Pipelines, KFServing, Feast, and Katib'
+  startOffset: 2226
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=2226
+  endOffset: 2412
+- name: Hyperparameter Search with Katib and Notebook→Pipeline Workflows
+  startOffset: 2412
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=2412
+  endOffset: 2548
+- name: 'Kubeflow & TFX: ML Orchestration and Production Patterns'
+  startOffset: 2548
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=2548
+  endOffset: 2608
+- name: 'Learning Kubeflow: Docs, Workshops, and Community Resources'
+  startOffset: 2608
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=2608
+  endOffset: 2761
+- name: 'Getting Started: Cloud‑Managed Pipelines and Simple Projects'
+  startOffset: 2761
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=2761
+  endOffset: 2818
+- name: 'Data & Model Versioning: MLMD, Metadata, and Traceability'
+  startOffset: 2818
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=2818
+  endOffset: 3035
+- name: 'Relationship to DataOps: Continuation and Divergence'
+  startOffset: 3035
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3035
+  endOffset: 3104
+- name: 'Edge & Mobile Deployment: Offline Models and Edge Kubernetes'
+  startOffset: 3104
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3104
+  endOffset: 3258
+- name: 'MLOps Guidance: Maturity Roadmaps and Manifesto Alternatives'
+  startOffset: 3258
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3258
+  endOffset: 3313
+- name: 'Why Learn Kubeflow: Community Contribution and Career Value'
+  startOffset: 3313
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3313
+  endOffset: 3424
+- name: 'MLOps Benefits: Automation, Productization, and Productivity'
+  startOffset: 3424
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3424
+  endOffset: 3505
+- name: 'AutoML & Katib: Commoditization vs. Empowering Data Scientists'
+  startOffset: 3505
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3505
+  endOffset: 3589
+- name: 'Simplified Serving: KFServing and Faster Model Endpoints'
+  startOffset: 3589
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3589
+  endOffset: 3684
+- name: 'Small Teams Adopting MLOps: Practical Examples and Tradeoffs'
+  startOffset: 3684
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3684
+  endOffset: 3776
+- name: 'Breaking Silos: Language‑Agnostic Pipelines and Collaboration'
+  startOffset: 3776
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3776
+  endOffset: 3899
+- name: Closing Remarks & Resource Links
+  startOffset: 3899
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3899
+  endOffset: 3922
+- name: Episode End
+  startOffset: 3922
+  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3922
+  endOffset: 3768
 ---

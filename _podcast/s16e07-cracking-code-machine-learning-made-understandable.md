@@ -1222,6 +1222,110 @@ intro: How can we make machine learning interpretable in practice — and how do
   with beta readers, and advice for aspiring technical writers. Listen for actionable
   guidance on applying interpretable machine learning techniques and concrete steps
   for turning technical work into publishable, useful content.
+dateadded: '2023-11-27'
+duration: PT00H56M20S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=0
+  endOffset: 42
+- name: 'Guest Intro: Christoph Molnar, Interpretable ML Author'
+  startOffset: 42
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=42
+  endOffset: 92
+- name: 'Career Journey: From Statistics to Tech Writing'
+  startOffset: 92
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=92
+  endOffset: 225
+- name: Becoming a Full‑Time Technical Writer
+  startOffset: 225
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=225
+  endOffset: 397
+- name: 'Kaggle Beginnings: Linear Models to Practical ML'
+  startOffset: 397
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=397
+  endOffset: 470
+- name: 'Origin Story: Interest in Interpretable Machine Learning'
+  startOffset: 470
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=470
+  endOffset: 567
+- name: 'Interpretability vs Accuracy: Debugging Models with SHAP'
+  startOffset: 567
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=567
+  endOffset: 719
+- name: 'Active Competition: River Flow Forecasting Project'
+  startOffset: 719
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=719
+  endOffset: 837
+- name: 'Choosing Book Topics: Audience Data and Personal Curiosity'
+  startOffset: 837
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=837
+  endOffset: 955
+- name: 'Publishing in Public: Chapter‑by‑Chapter Workflow'
+  startOffset: 955
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=955
+  endOffset: 1027
+- name: 'Self‑Publishing vs Publishers: Control, Editors, Royalties'
+  startOffset: 1027
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1027
+  endOffset: 1138
+- name: 'Book Overview: Interpretable ML; Modeling Mindsets; Conformal Prediction;
+    SHAP'
+  startOffset: 1138
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1138
+  endOffset: 1227
+- name: 'Conformal Prediction: Calibrated Uncertainty and Prediction Sets'
+  startOffset: 1227
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1227
+  endOffset: 1424
+- name: 'SHAP Deep Dive: Practical Guide and Python Examples'
+  startOffset: 1424
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1424
+  endOffset: 1577
+- name: 'Terminology: Explainable AI vs Interpretable Machine Learning'
+  startOffset: 1577
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1577
+  endOffset: 1800
+- name: 'Work Style: Solo Writing, Collaboration, and Co‑authoring'
+  startOffset: 1800
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1800
+  endOffset: 1987
+- name: 'Staying Hands‑On: Competitions to Maintain Practical Skills'
+  startOffset: 1987
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1987
+  endOffset: 2181
+- name: 'Logbook Practice: Obsidian Notes for Experiments and Reflection'
+  startOffset: 2181
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=2181
+  endOffset: 2541
+- name: 'Writing Expertise: Teaching to Learn vs Being a Beginner'
+  startOffset: 2541
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=2541
+  endOffset: 2691
+- name: 'Feedback Strategy: Open Drafts, Beta Readers, and Iteration'
+  startOffset: 2691
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=2691
+  endOffset: 2916
+- name: 'Advice for Aspiring Technical Writers: Start Small and Publish'
+  startOffset: 2916
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=2916
+  endOffset: 3000
+- name: 'Becoming a Full‑Time Author: Timeframe, Income, and Workload'
+  startOffset: 3000
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3000
+  endOffset: 3229
+- name: 'Publishing Logistics: Leanpub, Amazon KDP, and Print‑on‑Demand'
+  startOffset: 3229
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3229
+  endOffset: 3376
+- name: 'Where to Find Christoph: Website, Newsletter, and Socials'
+  startOffset: 3376
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3376
+  endOffset: 3413
+- name: Closing Remarks and Episode Wrap‑Up
+  startOffset: 3413
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3413
+  endOffset: 3380
 ---
 
 Links:

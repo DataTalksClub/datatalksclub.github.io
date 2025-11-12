@@ -1161,6 +1161,90 @@ transcript:
   sec: 3469
   time: '57:49'
   who: Stefan
+dateadded: '2022-04-16'
+duration: PT00H57M48S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=0
+  endOffset: 38
+- name: 'Career Snapshot: Developer to AI & Data Leader'
+  startOffset: 38
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=38
+  endOffset: 128
+- name: Building AI Teams at King and H&M
+  startOffset: 128
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=128
+  endOffset: 367
+- name: 'Machine Learning in Healthcare: Diagnosis, Drug Discovery & AlphaFold'
+  startOffset: 367
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=367
+  endOffset: 602
+- name: 'Sidekick Health Overview: Gamified Digital Therapeutics & Quality‑of‑Life
+    Goals'
+  startOffset: 602
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=602
+  endOffset: 904
+- name: 'Behavioral Design & Habit Formation: Low In‑App Time Strategy'
+  startOffset: 904
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=904
+  endOffset: 1167
+- name: 'Building Data Culture: Metrics, Buy‑in, and Responsible Experimentation'
+  startOffset: 1167
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1167
+  endOffset: 1543
+- name: 'Engagement & Rewards: Charity Incentives vs. Leaderboards'
+  startOffset: 1543
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1543
+  endOffset: 1622
+- name: 'Analytics Foundation: Data Pipelines, Dashboards & Experimentation Capabilities'
+  startOffset: 1622
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1622
+  endOffset: 1773
+- name: 'Remote Monitoring & Wearables: Activity and Heart‑Rate Variability'
+  startOffset: 1773
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1773
+  endOffset: 1901
+- name: 'Data Privacy & Ethics: GDPR/HIPAA, De‑identification, and Empathy'
+  startOffset: 1901
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1901
+  endOffset: 2139
+- name: 'Personalization Strategy: Agenda‑Driven Recommender Systems'
+  startOffset: 2139
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2139
+  endOffset: 2397
+- name: 'A/B Testing as Personalization Foundation: Segmentation & Iteration'
+  startOffset: 2397
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2397
+  endOffset: 2580
+- name: 'Experimentation Platform: Variant Availability and Measurement'
+  startOffset: 2580
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2580
+  endOffset: 2729
+- name: 'Clinical Trials vs. App Experiments: Scale, Cost, and Bias'
+  startOffset: 2729
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2729
+  endOffset: 2965
+- name: 'Data‑Driven Tradeoffs: Speed over Perfection in Healthcare Analytics'
+  startOffset: 2965
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2965
+  endOffset: 3115
+- name: 'Managing Medical Risk: Safeguards for Safe Experimentation'
+  startOffset: 3115
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=3115
+  endOffset: 3201
+- name: 'Hiring & Scaling: Growing the Data, ML and Engineering Team'
+  startOffset: 3201
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=3201
+  endOffset: 3353
+- name: 'AI for Mental Health: Monitoring Signals and Supportive Interventions'
+  startOffset: 3353
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=3353
+  endOffset: 3449
+- name: 'Resources & Contact: LinkedIn and Open Roles at Sidekick Health'
+  startOffset: 3449
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=3449
+  endOffset: 3468
 ---
 
 Links:

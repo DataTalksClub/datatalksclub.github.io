@@ -801,6 +801,97 @@ intro: 'How do you turn simulation research into usable synthetic medical imagin
   If you’re building synthetic data pipelines, medical imaging datasets, or transitioning
   to freelance data engineering, this episode delivers concrete tactics, risks to
   plan for, and hands-on techniques you can apply immediately.'
+dateadded: '2025-08-05'
+duration: PT01H03M31S
+quotableClips:
+- name: Episode Introduction & Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=0
+  endOffset: 139
+- name: 'Career Background: Electrical Engineering and Simulation Algorithms'
+  startOffset: 139
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=139
+  endOffset: 196
+- name: Transition Out of Academia During COVID
+  startOffset: 196
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=196
+  endOffset: 282
+- name: 'Simulation Research: RF and Wave Propagation Modeling'
+  startOffset: 282
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=282
+  endOffset: 544
+- name: 'Startup Pivot: Synthetic Medical Imaging Data for AI'
+  startOffset: 544
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=544
+  endOffset: 582
+- name: 'Go-to-Market Lesson: Problem-First vs Technology-First'
+  startOffset: 582
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=582
+  endOffset: 800
+- name: 'Early Data Engineering Practice: Minimal Viable Data Work'
+  startOffset: 800
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=800
+  endOffset: 861
+- name: Simulation-HPC Integration and Secure Data Management
+  startOffset: 861
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=861
+  endOffset: 965
+- name: 'Iteration Differences: Academia vs. Startup Timelines'
+  startOffset: 965
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=965
+  endOffset: 1075
+- name: Scientific Method in Product Discovery and Hypothesis Testing
+  startOffset: 1075
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=1075
+  endOffset: 1174
+- name: 'Freelance Launch: From CTO Role to Consulting via LinkedIn'
+  startOffset: 1174
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=1174
+  endOffset: 1379
+- name: 'Prototype Delivery: IoT Data Engineering Proof of Concept'
+  startOffset: 1379
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=1379
+  endOffset: 1533
+- name: 'Freelance Risks: Runway, Cashflow, and Operating Expenses'
+  startOffset: 1533
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=1533
+  endOffset: 1850
+- name: 'Client Acquisition: Networking, Recruiters, and Referrals'
+  startOffset: 1850
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=1850
+  endOffset: 2062
+- name: 'Specialization: Industrial Data Integration and Custom ETL'
+  startOffset: 2062
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=2062
+  endOffset: 2340
+- name: 'MVP Workflow: Manual Extraction, CSVs, and Local Analysis'
+  startOffset: 2340
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=2340
+  endOffset: 2607
+- name: 'Preventing Overengineering: Weekly Feedback and Iteration'
+  startOffset: 2607
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=2607
+  endOffset: 2999
+- name: 'Continuous Learning: Practical Experiments and DuckDB'
+  startOffset: 2999
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=2999
+  endOffset: 3222
+- name: 'LLMs for Data Cleaning: Domain Knowledge Limitations'
+  startOffset: 3222
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=3222
+  endOffset: 3509
+- name: 'Tech Stack & Systems Thinking: Python, C++, DBT, Docker'
+  startOffset: 3509
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=3509
+  endOffset: 3653
+- name: 'Manual Data Exploration: Handling Edge Cases Before Automation'
+  startOffset: 3653
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=3653
+  endOffset: 3811
+- name: Closing Remarks and Freelancing Advice
+  startOffset: 3811
+  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=3811
+  endOffset: 3811
 ---
 
 Links:

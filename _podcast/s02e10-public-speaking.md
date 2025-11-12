@@ -1139,6 +1139,113 @@ intro: How do data scientists move from technical deep dives to memorable keynot
   strategies (including how and when to admit unknowns), starter topics for newcomers,
   and resources like Toastmasters and story practice to build a speaker resume and
   break into AI evangelism.
+dateadded: '2021-03-20'
+duration: PT01H09M46S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=0
+  endOffset: 92
+- name: 'Guest Overview: Ben Taylor, AI Evangelist at DataRobot'
+  startOffset: 92
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=92
+  endOffset: 188
+- name: 'Mindset for Improvement: Practice and Public Speaking Growth'
+  startOffset: 188
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=188
+  endOffset: 234
+- name: 'Career Path: Engineering, Quant, HireVue, Startup, Acquisition'
+  startOffset: 234
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=234
+  endOffset: 364
+- name: 'AI Evangelism: Role, Positioning, and Messaging Strategy'
+  startOffset: 364
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=364
+  endOffset: 577
+- name: 'Scaling Talks: Process for Crafting Repeatable Keynotes'
+  startOffset: 577
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=577
+  endOffset: 774
+- name: 'Early Mistakes: Technical Overload and Audience Awareness'
+  startOffset: 774
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=774
+  endOffset: 957
+- name: 'Provocative Speaking: Risks, Reception, and Storytelling Ethics'
+  startOffset: 957
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=957
+  endOffset: 1132
+- name: 'Speaking Privately: Corporate Talks and Networking Impact'
+  startOffset: 1132
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=1132
+  endOffset: 1194
+- name: 'Attention Techniques: Warm‑up, Emotion, and Story Hooks'
+  startOffset: 1194
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=1194
+  endOffset: 1315
+- name: 'Clear Outcomes: 1–3 Key Takeaways and Calls to Action'
+  startOffset: 1315
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=1315
+  endOffset: 1457
+- name: 'Introductions that Work: Hero Stories vs. Resume Intros'
+  startOffset: 1457
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=1457
+  endOffset: 1857
+- name: 'Translating Data for Impact: From Metrics to Narrative'
+  startOffset: 1857
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=1857
+  endOffset: 2052
+- name: 'Storytelling Practice: Everyday Exercises and Pixar Lessons'
+  startOffset: 2052
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=2052
+  endOffset: 2191
+- name: 'Ambitious Goals: Memorable Talks and Long‑term Impact'
+  startOffset: 2191
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=2191
+  endOffset: 2395
+- name: 'Executive Presentations: Recommendations First, Appendix Ready'
+  startOffset: 2395
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=2395
+  endOffset: 2858
+- name: 'Earning Stages: From Meetups to Conference Speaking Slots'
+  startOffset: 2858
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=2858
+  endOffset: 3020
+- name: 'Conference Proposals: Novelty, Creativity, and “Scare Yourself” Topics'
+  startOffset: 3020
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=3020
+  endOffset: 3133
+- name: 'Q&A Strategy: Handling Tough Questions and Admitting Unknowns'
+  startOffset: 3133
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=3133
+  endOffset: 3228
+- name: 'Path to Keynotes: Building a Speaker Resume and Personal Brand'
+  startOffset: 3228
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=3228
+  endOffset: 3397
+- name: 'Starter Topics for New Data Scientists: Business Problems Over Hype'
+  startOffset: 3397
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=3397
+  endOffset: 3572
+- name: 'Pitching Meetups: First Impressions, Endorsements, and Networking'
+  startOffset: 3572
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=3572
+  endOffset: 3738
+- name: 'Core Skill: Maximizing Audience Attention (Public Speaking Focus)'
+  startOffset: 3738
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=3738
+  endOffset: 3848
+- name: 'Breaking into AI Evangelism: Build Speaking Experience and Presence'
+  startOffset: 3848
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=3848
+  endOffset: 3914
+- name: 'Resources & Practice: Recommended Books, Toastmasters, Story Exercises'
+  startOffset: 3914
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=3914
+  endOffset: 4124
+- name: Closing Anecdotes and Final Advice
+  startOffset: 4124
+  url: https://www.youtube.com/watch?v=wOFvlR9UBxI&t=4124
+  endOffset: 4186
 ---
 
 

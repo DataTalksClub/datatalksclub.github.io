@@ -1119,6 +1119,117 @@ transcript:
   sec: 3632
   time: '1:00:32'
   who: Liesbeth
+dateadded: '2022-04-10'
+duration: PT00H59M14S
+quotableClips:
+- name: Episode Introduction & Guest Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=0
+  endOffset: 78
+- name: 'Guest Background: Strategy, Product and AI Trajectory'
+  startOffset: 78
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=78
+  endOffset: 221
+- name: 'Interdisciplinary Perspective: Physics Meets Humanities'
+  startOffset: 221
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=221
+  endOffset: 307
+- name: Design as a User-Centered Product Process
+  startOffset: 307
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=307
+  endOffset: 403
+- name: Algorithm-Friendly Product Design & Signal Collection
+  startOffset: 403
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=403
+  endOffset: 604
+- name: 'Interaction Design Case Study: TikTok vs Instagram Signals'
+  startOffset: 604
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=604
+  endOffset: 732
+- name: 'Double Diamond Framework: Problem Framing to Solutions'
+  startOffset: 732
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=732
+  endOffset: 872
+- name: 'Problem Discovery: Scoping and Prioritizing User Problems'
+  startOffset: 872
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=872
+  endOffset: 962
+- name: 'Solution Exploration: Parallel Experiments & Proofs of Concept'
+  startOffset: 962
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=962
+  endOffset: 1101
+- name: Timeframes for Research, Prototyping and Scaling
+  startOffset: 1101
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1101
+  endOffset: 1217
+- name: Design Thinking Overview & Google PAIR Resources
+  startOffset: 1217
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1217
+  endOffset: 1396
+- name: 'Design Sprint Structure: One-Week Prototyping Approach'
+  startOffset: 1396
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1396
+  endOffset: 1500
+- name: 'Cross-Functional Participation: Designers, Data Scientists, PMs'
+  startOffset: 1500
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1500
+  endOffset: 1633
+- name: 'Engineering Involvement: Building Algorithm-Ready Interfaces'
+  startOffset: 1633
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1633
+  endOffset: 1698
+- name: 'Data Scientists in Problem Definition: Avoiding Rework'
+  startOffset: 1698
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1698
+  endOffset: 1864
+- name: 'Scoping Documents: Challenging Assumptions with "Why"'
+  startOffset: 1864
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1864
+  endOffset: 2005
+- name: Organizational Miscommunication & Backtracking Problems
+  startOffset: 2005
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=2005
+  endOffset: 2235
+- name: Product Managers’ Role in AI Roadmaps and Prioritization
+  startOffset: 2235
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=2235
+  endOffset: 2373
+- name: 'Innovation vs Quarterly OKRs: Making Space for Long-Term Bets'
+  startOffset: 2373
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=2373
+  endOffset: 2599
+- name: 'Radical Innovation Example: Second-Hand Car Trust Solutions'
+  startOffset: 2599
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=2599
+  endOffset: 2790
+- name: 'Building Evidence: Data-Driven Pitches for Big Ideas'
+  startOffset: 2790
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=2790
+  endOffset: 2956
+- name: 'Task Force Model (Jet Ski): Rapid Experimentation Teams'
+  startOffset: 2956
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=2956
+  endOffset: 3165
+- name: 'Innovation Workflow: From Discovery to Investment Case'
+  startOffset: 3165
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=3165
+  endOffset: 3251
+- name: 'Experimentation Culture: Prioritization Through Measurability'
+  startOffset: 3251
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=3251
+  endOffset: 3396
+- name: 'Measurement Mindset: Data-Guided Product Decisions (Citrix)'
+  startOffset: 3396
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=3396
+  endOffset: 3500
+- name: 'Skill Building: Learnable Design & Innovation Practices'
+  startOffset: 3500
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=3500
+  endOffset: 3605
+- name: Closing Notes, Resources and Contact Links
+  startOffset: 3605
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=3605
+  endOffset: 3554
 ---
 
 Links:

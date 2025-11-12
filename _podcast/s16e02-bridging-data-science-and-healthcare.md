@@ -1021,6 +1021,133 @@ intro: 'How do you move machine learning from promising models to reliable tools
   constraints. Listen to understand the technical and clinical steps needed to build,
   validate and deploy ML in healthcare and how to navigate a career in healthcare
   data science.'
+dateadded: '2023-10-23'
+duration: PT00H59M01S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=0
+  endOffset: 44
+- name: 'Guest Overview: Elena Stamatelou — ML researcher focused on healthcare'
+  startOffset: 44
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=44
+  endOffset: 105
+- name: 'Education & Early Career: University of Patras, Erasmus, VUB/ULB'
+  startOffset: 105
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=105
+  endOffset: 165
+- name: 'Moving to the Netherlands: Philips Healthcare internship and doctorate in
+    data science'
+  startOffset: 165
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=165
+  endOffset: 283
+- name: 'Philips Healthcare Projects: C‑arm imaging and pregnancy monitoring'
+  startOffset: 283
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=283
+  endOffset: 408
+- name: 'Low‑Resource Pediatric Monitoring: Vital‑sign system design for Malawi'
+  startOffset: 408
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=408
+  endOffset: 454
+- name: 'Data Collection for Clinical Outcomes: linking sensors to lab results'
+  startOffset: 454
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=454
+  endOffset: 574
+- name: 'Motivation for Healthcare: choosing impact over other engineering paths'
+  startOffset: 574
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=574
+  endOffset: 663
+- name: 'Master’s Thesis: white blood cell image classification for a cell sorter
+    (IMEC)'
+  startOffset: 663
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=663
+  endOffset: 793
+- name: '3D Reconstruction Work: multi‑view geometry from C‑arm images'
+  startOffset: 793
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=793
+  endOffset: 943
+- name: 'Home Monitoring for Pregnancy: smartwatches, weight tracking, and midwife
+    dashboards'
+  startOffset: 943
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=943
+  endOffset: 1085
+- name: 'Research Orientation: novelty with clinical translation'
+  startOffset: 1085
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=1085
+  endOffset: 1168
+- name: 'Ballistography Signal Research: denoising and U‑Net for infant heart rate
+    estimation'
+  startOffset: 1168
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=1168
+  endOffset: 1309
+- name: 'Signal Processing vs Deep Learning: filters, Fourier methods, and when to
+    use ML'
+  startOffset: 1309
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=1309
+  endOffset: 1483
+- name: 'Patient Acuity Scoring: vitals‑based scoring poster'
+  startOffset: 1483
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=1483
+  endOffset: 1523
+- name: Regulatory & Explainable AI Challenges; annotation scarcity and data gaps
+  startOffset: 1523
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=1523
+  endOffset: 1692
+- name: 'Clinical Use Case: sepsis prediction from vitals and clinical data'
+  startOffset: 1692
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=1692
+  endOffset: 1870
+- name: 'Clinical Validation & Adoption: engaging clinicians and long approval timelines'
+  startOffset: 1870
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=1870
+  endOffset: 2034
+- name: 'Healthcare vs E‑commerce Data: offline events, timestamps, and higher risk'
+  startOffset: 2034
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=2034
+  endOffset: 2145
+- name: 'Population Differences & Generalization: Europe vs Africa considerations'
+  startOffset: 2145
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=2145
+  endOffset: 2377
+- name: 'Automation Impact: job displacement concerns and augmentation potential'
+  startOffset: 2377
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=2377
+  endOffset: 2590
+- name: 'Data Infrastructure Variability: digitization, interoperability, and compact
+    discs'
+  startOffset: 2590
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=2590
+  endOffset: 2792
+- name: 'Incremental Adoption Strategy: visualization, feedback loops, and trust building'
+  startOffset: 2792
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=2792
+  endOffset: 3050
+- name: 'ML Deployment Constraints: on‑device vs cloud for low‑resource settings'
+  startOffset: 3050
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=3050
+  endOffset: 3165
+- name: 'Sabbatical & Personal Projects: reflection and next steps'
+  startOffset: 3165
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=3165
+  endOffset: 3211
+- name: 'Transitioning into Healthcare Data Science: pathways and role types'
+  startOffset: 3211
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=3211
+  endOffset: 3346
+- name: 'Skills Transferability: technical skills are sufficient; learn clinical context
+    on the job'
+  startOffset: 3346
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=3346
+  endOffset: 3410
+- name: 'Job Market & Funding: demand for healthcare data scientists and research
+    funding'
+  startOffset: 3410
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=3410
+  endOffset: 3539
+- name: Closing Remarks and Resources (publications, GitHub, LinkedIn)
+  startOffset: 3539
+  url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=3539
+  endOffset: 3541
 ---
 
 Links:

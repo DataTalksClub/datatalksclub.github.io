@@ -1102,6 +1102,114 @@ intro: 'How do you transition from academia into a Staff AI Engineer role while 
   involvement in MLOps, ETL pipelines, and heavy code review. Tune in to learn actionable
   steps for moving from academia to a staff engineering role and succeeding in interviews,
   onboarding, and production ML.'
+dateadded: '2023-02-18'
+duration: PT00H59M23S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=0
+  endOffset: 71
+- name: Episode kickoff and guest reintroduction
+  startOffset: 71
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=71
+  endOffset: 113
+- name: 'Guest background: physics → healthcare → machine learning'
+  startOffset: 113
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=113
+  endOffset: 204
+- name: Onboarding shock at LinkedIn and industry mindset shift
+  startOffset: 204
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=204
+  endOffset: 343
+- name: Ramping up technical stack as a tech lead (Scala, Spark, Kubernetes)
+  startOffset: 343
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=343
+  endOffset: 450
+- name: 'Staff AI Engineer role: opinion, strategy, and cross-functional influence'
+  startOffset: 450
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=450
+  endOffset: 664
+- name: 'Staff engineer archetypes: deep specialist, cross-team advisor, hands-on
+    mentor'
+  startOffset: 664
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=664
+  endOffset: 881
+- name: Transferring academic skills to industry leadership and roadmapping
+  startOffset: 881
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=881
+  endOffset: 1007
+- name: 'Onboarding priorities: common mistakes and faster learning'
+  startOffset: 1007
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=1007
+  endOffset: 1065
+- name: Mentorship importance for onboarding and career growth
+  startOffset: 1065
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=1065
+  endOffset: 1148
+- name: 'Skipping mid-level roles: landing a staff position from academia'
+  startOffset: 1148
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=1148
+  endOffset: 1286
+- name: Translating research leadership and grants experience to industry impact
+  startOffset: 1286
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=1286
+  endOffset: 1530
+- name: 'Convincing employers: framing applied projects and industry collaborations'
+  startOffset: 1530
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=1530
+  endOffset: 1705
+- name: 'Interview journey: early failures, coding gaps, and commitment to prep'
+  startOffset: 1705
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=1705
+  endOffset: 1781
+- name: Referrals and networking influence on hiring outcomes
+  startOffset: 1781
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=1781
+  endOffset: 1928
+- name: Reframing rejections as learning opportunities
+  startOffset: 1928
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=1928
+  endOffset: 2080
+- name: 'Coding interview strategy: LeetCode plan, timeline, and persistence'
+  startOffset: 2080
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=2080
+  endOffset: 2384
+- name: 'ML design interviews: physics-style decomposition, blogs, and mock practice'
+  startOffset: 2384
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=2384
+  endOffset: 2616
+- name: 'System design prep: Grokking, mock interviews, and quick study tactics'
+  startOffset: 2616
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=2616
+  endOffset: 2923
+- name: Mock interviews and building a mentor network
+  startOffset: 2923
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=2923
+  endOffset: 3070
+- name: Staff involvement in MLOps, ETL, pipelines, and data team collaboration
+  startOffset: 3070
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=3070
+  endOffset: 3139
+- name: Managing heavy code review load and context switching across projects
+  startOffset: 3139
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=3139
+  endOffset: 3253
+- name: Advice for academics aiming for staff roles in industry
+  startOffset: 3253
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=3253
+  endOffset: 3460
+- name: 'Excitement of AI work: generative models, R&D freedom, and measurable impact'
+  startOffset: 3460
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=3460
+  endOffset: 3585
+- name: 'Recommended books: communication, staff engineering, and leadership'
+  startOffset: 3585
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=3585
+  endOffset: 3634
+- name: Episode closing and final thanks
+  startOffset: 3634
+  url: https://www.youtube.com/watch?v=_xr1_xb736E&t=3634
+  endOffset: 3563
 ---
 
 Links:

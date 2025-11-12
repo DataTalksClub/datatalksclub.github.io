@@ -1288,6 +1288,121 @@ intro: How do you restore data trust and make your organization ready for genera
   steps to prioritize data work by business impact, measure readiness for AI by ROI
   and product signals, and manage legacy systems and executive ad‑hoc requests with
   intent and impact in mind.
+dateadded: '2025-08-18'
+duration: PT01H06M05S
+quotableClips:
+- name: Podcast Introduction and Episode Overview (mindful data strategy)
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=0
+  endOffset: 144
+- name: 'Lior Barak: Background and shift from engineering to product'
+  startOffset: 144
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=144
+  endOffset: 246
+- name: 'Startup and platform experience: automating data infrastructure'
+  startOffset: 246
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=246
+  endOffset: 385
+- name: Product management learning paths for engineers and data scientists
+  startOffset: 385
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=385
+  endOffset: 500
+- name: 'Wabi‑sabi applied to data: accepting imperfection and communicating it'
+  startOffset: 500
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=500
+  endOffset: 588
+- name: 'Data trust crisis: industry stats and common trust failures'
+  startOffset: 588
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=588
+  endOffset: 707
+- name: 'Generative AI and hallucinations: managing expectations for models'
+  startOffset: 707
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=707
+  endOffset: 849
+- name: 'Data quality metaphor: Lego bricks and pragmatic trade‑offs'
+  startOffset: 849
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=849
+  endOffset: 1052
+- name: 'Prioritization vs. tooling: translating data work into business impact'
+  startOffset: 1052
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=1052
+  endOffset: 1250
+- name: 'Core KPI diagnosis: investigating dashboard inaccuracies'
+  startOffset: 1250
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=1250
+  endOffset: 1322
+- name: 'Pipeline failure points: ingestion, SQL logic, and lineage checks'
+  startOffset: 1322
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=1322
+  endOffset: 1406
+- name: 'Process failures over tool fixes: focusing on root causes'
+  startOffset: 1406
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=1406
+  endOffset: 1692
+- name: 'Trust restoration framework: maintenance, rollouts, and innovation'
+  startOffset: 1692
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=1692
+  endOffset: 1756
+- name: 'Incident analysis: using incidents to identify recurring problems'
+  startOffset: 1756
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=1756
+  endOffset: 1847
+- name: Dashboard traffic‑light system for data reliability (green/yellow/red)
+  startOffset: 1847
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=1847
+  endOffset: 1998
+- name: 'Analyst feedback and automation: closing the communication loop'
+  startOffset: 1998
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=1998
+  endOffset: 2299
+- name: 'Work allocation: tracking maintenance, rollout, and innovation time'
+  startOffset: 2299
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=2299
+  endOffset: 2481
+- name: 'Team stress index and guideline: ~45% maintenance as healthy baseline'
+  startOffset: 2481
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=2481
+  endOffset: 2592
+- name: 'Data product lifecycle: development, rollout, maturity, and decline'
+  startOffset: 2592
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=2592
+  endOffset: 2747
+- name: 'Zen practices for data teams: mindfulness, acceptance, and planning'
+  startOffset: 2747
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=2747
+  endOffset: 3014
+- name: 'Generative AI demand: why data readiness matters now'
+  startOffset: 3014
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=3014
+  endOffset: 3101
+- name: 'Measuring readiness by impact: ROI and product success signals'
+  startOffset: 3101
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=3101
+  endOffset: 3379
+- name: 'Legacy systems strategy: minimal maintenance and planned replacement'
+  startOffset: 3379
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=3379
+  endOffset: 3551
+- name: 'Replacing legacy: selling the change through user impact'
+  startOffset: 3551
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=3551
+  endOffset: 3623
+- name: 'Executive ad‑hoc requests: elicit intent and quantify expected impact'
+  startOffset: 3623
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=3623
+  endOffset: 3753
+- name: 'Career guidance: choosing analytics, engineering, or product paths'
+  startOffset: 3753
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=3753
+  endOffset: 3876
+- name: Closing reflections, resources, and suggested next steps
+  startOffset: 3876
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=3876
+  endOffset: 3965
+- name: Episode Outro and Hummus Banter
+  startOffset: 3965
+  url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=3965
+  endOffset: 3965
 ---
 
 Links:

@@ -1289,6 +1289,113 @@ intro: How do you keep machine learning models reliable in production — what s
   guidance on designing model monitoring, choosing observability tooling, and identifying
   upstream root causes so you can reduce incidents and improve model reliability in
   production.
+dateadded: '2022-08-13'
+duration: PT00H57M51S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=0
+  endOffset: 116
+- name: 'Guest Overview: Danny Leybzon, MLOps Architect at WhyLabs'
+  startOffset: 116
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=116
+  endOffset: 192
+- name: 'Career Journey: From paralegal ambitions to statistics and machine learning'
+  startOffset: 192
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=192
+  endOffset: 446
+- name: 'Prior Role: Field Engineer / Solutions Engineer experience'
+  startOffset: 446
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=446
+  endOffset: 491
+- name: 'Role Definition: MLOps Architect as technical-business bridge'
+  startOffset: 491
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=491
+  endOffset: 632
+- name: 'Architecture Advising: Tooling trade-offs and landscape navigation'
+  startOffset: 632
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=632
+  endOffset: 770
+- name: 'Role Popularity: Uniqueness of the "MLOps Architect" title'
+  startOffset: 770
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=770
+  endOffset: 830
+- name: 'Startup Reality: Wearing many hats in early-stage companies'
+  startOffset: 830
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=830
+  endOffset: 935
+- name: 'Demonstrating Versatility: Convincing employers you can do it all'
+  startOffset: 935
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=935
+  endOffset: 1101
+- name: 'Hiring Story: Cross-functional interview process at WhyLabs'
+  startOffset: 1101
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=1101
+  endOffset: 1324
+- name: 'Career Decision: Choosing startup risk for growth and learning'
+  startOffset: 1324
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=1324
+  endOffset: 1504
+- name: 'Prioritization Strategy: Focusing on production and model monitoring'
+  startOffset: 1504
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=1504
+  endOffset: 1655
+- name: 'Observability Scope: ETL, data pipelines, and upstream root causes'
+  startOffset: 1655
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=1655
+  endOffset: 1739
+- name: 'Customer Profiles: Production-first vs pre-deployment teams'
+  startOffset: 1739
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=1739
+  endOffset: 1839
+- name: 'Market Education: Shift from "why monitor" to "how to monitor"'
+  startOffset: 1839
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=1839
+  endOffset: 1910
+- name: 'Data Profiling Architecture: WhyLogs, profiles, and Apache Druid backend'
+  startOffset: 1910
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=1910
+  endOffset: 2065
+- name: 'Build vs Buy: Guiding customers on tooling and procurement decisions'
+  startOffset: 2065
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=2065
+  endOffset: 2207
+- name: 'Platform Agnostic Integrations: Serving and inference tooling realities'
+  startOffset: 2207
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=2207
+  endOffset: 2281
+- name: 'ONNX Adoption: Interoperability use cases and industry uptake'
+  startOffset: 2281
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=2281
+  endOffset: 2350
+- name: 'Tooling Trends: Cloud-native stacks, heterogeneity, and vendor lock-in'
+  startOffset: 2350
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=2350
+  endOffset: 2460
+- name: 'Research Focus: Fairness, bias, segmentation over explainability'
+  startOffset: 2460
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=2460
+  endOffset: 2587
+- name: 'Productivity Habits: Inbox zero, workspace windows, and task management'
+  startOffset: 2587
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=2587
+  endOffset: 2749
+- name: 'Career Strategy: Exploration vs exploitation and Thompson sampling analogy'
+  startOffset: 2749
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=2749
+  endOffset: 3023
+- name: 'Skillset Advice: Coding, communication, and being an effective Googler'
+  startOffset: 3023
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=3023
+  endOffset: 3350
+- name: 'WhyLogs vs WhyLabs: Open-source profiling vs SaaS observability'
+  startOffset: 3350
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=3350
+  endOffset: 3487
+- name: 'Closing Remarks: Final thoughts, contact info, and upcoming workshops'
+  startOffset: 3487
+  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=3487
+  endOffset: 3471
 ---
 
 Links:

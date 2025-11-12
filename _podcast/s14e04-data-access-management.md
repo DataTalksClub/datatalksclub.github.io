@@ -1070,6 +1070,129 @@ intro: 'How do you scale data access management—from access controls and data 
   with Terraform and IAM. Listeners will gain a clear, incremental strategy for implementing
   access controls, leveraging data catalogs, and evaluating build vs buy or open source
   options to scale data access management.'
+dateadded: '2023-06-03'
+duration: PT00H55M54S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=0
+  endOffset: 87
+- name: 'Episode Overview: Data Access Management & Guest Summary'
+  startOffset: 87
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=87
+  endOffset: 143
+- name: Guest Introduction & Career Path
+  startOffset: 143
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=143
+  endOffset: 206
+- name: 'Consulting Background: Banks, BCBS 239 and data trauma'
+  startOffset: 206
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=206
+  endOffset: 280
+- name: 'Early Data Governance Pain: Manual tools and outdated lineage'
+  startOffset: 280
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=280
+  endOffset: 320
+- name: 'Defining Data Governance: Building trust in data'
+  startOffset: 320
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=320
+  endOffset: 412
+- name: 'Legacy Governance Problems: Top-down models and friction'
+  startOffset: 412
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=412
+  endOffset: 538
+- name: 'Data Catalogs, Dictionaries & Lineage: Purpose and differences'
+  startOffset: 538
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=538
+  endOffset: 680
+- name: 'Data Access Management Defined: Cloud consolidation and Chinese walls'
+  startOffset: 680
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=680
+  endOffset: 814
+- name: 'Ownership Models: Data teams, governance teams, and data mesh'
+  startOffset: 814
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=814
+  endOffset: 887
+- name: 'Data Engineers & Access Requests: Skill gaps and role mismatch'
+  startOffset: 887
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=887
+  endOffset: 1038
+- name: 'Governance Skillset: Change management and DMBOK guidance'
+  startOffset: 1038
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1038
+  endOffset: 1188
+- name: 'Maturing Access Management: Incremental improvement and scaling'
+  startOffset: 1188
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1188
+  endOffset: 1310
+- name: 'Learning Resources: Books, Slack communities, and conferences'
+  startOffset: 1310
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1310
+  endOffset: 1383
+- name: 'When to Invest: Size, maturity signals, and trust erosion'
+  startOffset: 1383
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1383
+  endOffset: 1505
+- name: Start with Access Controls Early for Sensitive Data
+  startOffset: 1505
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1505
+  endOffset: 1669
+- name: 'Core Processes: Access requests, approvals, reviews, revocation'
+  startOffset: 1669
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1669
+  endOffset: 1776
+- name: 'Churn Use Case: Catalog discovery, purpose-based access requests'
+  startOffset: 1776
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1776
+  endOffset: 1928
+- name: 'Privilege Creep & Best Practices: Time-bound access and revocation'
+  startOffset: 1928
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1928
+  endOffset: 2002
+- name: 'Regulatory Context: GDPR, privacy awareness, and EU perspective'
+  startOffset: 2002
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=2002
+  endOffset: 2135
+- name: 'Debugging in Production: Temporary access and investigation workflows'
+  startOffset: 2135
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=2135
+  endOffset: 2239
+- name: 'Privacy vs Security Stakeholders: DPO needs and CISO responsibilities'
+  startOffset: 2239
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=2239
+  endOffset: 2540
+- name: 'Data Mesh & Sensitive Data: Federated governance, masking, filtering'
+  startOffset: 2540
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=2540
+  endOffset: 2695
+- name: 'Avoiding Role Explosion: Role inheritance, reviews, and alerts'
+  startOffset: 2695
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=2695
+  endOffset: 2802
+- name: 'Governance in DataOps: Active metadata, automated tagging, and pipelines'
+  startOffset: 2802
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=2802
+  endOffset: 3008
+- name: 'Access-as-Code Beginnings: Terraform, IAM and early patterns'
+  startOffset: 3008
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=3008
+  endOffset: 3230
+- name: 'Build vs Buy: Maintenance cost, connector updates, key-person risk'
+  startOffset: 3230
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=3230
+  endOffset: 3282
+- name: 'Gradual Adoption Strategy: Visibility-first onboarding and automation'
+  startOffset: 3282
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=3282
+  endOffset: 3356
+- name: 'Open Source Options: Raito CLI, Terraform patterns and limitations'
+  startOffset: 3356
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=3356
+  endOffset: 3396
+- name: Closing Remarks & Next Steps
+  startOffset: 3396
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=3396
+  endOffset: 3354
 ---
 
 Links:

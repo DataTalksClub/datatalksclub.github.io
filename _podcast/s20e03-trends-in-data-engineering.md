@@ -535,6 +535,119 @@ intro: How do you future‑proof data engineering against vendor lock‑in, risi
   get actionable guidance on tool selection, beginner and transition roadmaps, and
   when Iceberg, DuckDB, or AI‑powered approaches make sense for their data engineering
   stack.
+dateadded: '2025-03-14'
+duration: PT01H02M16S
+quotableClips:
+- name: Episode opening & guest introduction
+  startOffset: 1
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=1
+  endOffset: 143
+- name: Perspective on evolving data engineering challenges
+  startOffset: 143
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=143
+  endOffset: 190
+- name: 'Career journey: startups, freelancing, founding DLT'
+  startOffset: 190
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=190
+  endOffset: 243
+- name: DLT as a Python-based ingestion standard and market impact
+  startOffset: 243
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=243
+  endOffset: 465
+- name: DLT Plus vision and partnership outreach for freelancers
+  startOffset: 465
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=465
+  endOffset: 663
+- name: 'Industry shift toward specialization: governance, data quality, streaming'
+  startOffset: 663
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=663
+  endOffset: 757
+- name: 'Early-career opportunities: AI projects and startup hiring'
+  startOffset: 757
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=757
+  endOffset: 872
+- name: Modern data stack critique and open-source "postmodern" alternatives
+  startOffset: 872
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=872
+  endOffset: 1000
+- name: '2025 trends: AI integration in data engineering and Apache Iceberg adoption'
+  startOffset: 1000
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=1000
+  endOffset: 1097
+- name: 'Apache Iceberg explained: table format, Parquet storage, vendor lock-in reduction'
+  startOffset: 1097
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=1097
+  endOffset: 1287
+- name: 'Database layers and catalog role: storage, compute, access, metadata & lineage'
+  startOffset: 1287
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=1287
+  endOffset: 1421
+- name: Metadata and catalog tooling overview (AWS Glue and peers)
+  startOffset: 1421
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=1421
+  endOffset: 1558
+- name: 'DuckDB impact: embeddable local OLAP and portable query engine'
+  startOffset: 1558
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=1558
+  endOffset: 1660
+- name: 'Cost-efficient pipelines: DuckDB with GitHub Actions and headless table formats'
+  startOffset: 1660
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=1660
+  endOffset: 1831
+- name: Headless table formats and DLT support for Delta Lake and Iceberg
+  startOffset: 1831
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=1831
+  endOffset: 1889
+- name: dbt's influence on engineering workflows and alternatives like SQLMesh
+  startOffset: 1889
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=1889
+  endOffset: 2137
+- name: 'Workflow orchestration options in 2025: Airflow, Prefect, Dagster, GitHub
+    Actions'
+  startOffset: 2137
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=2137
+  endOffset: 2282
+- name: 'AI engineering convergence: data engineers building AI agents'
+  startOffset: 2282
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=2282
+  endOffset: 2466
+- name: 'Beginner roadmap: SQL, Python, capturing business requirements, building
+    a portfolio'
+  startOffset: 2466
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=2466
+  endOffset: 2682
+- name: Tool selection guidance and vendor caution for modern data stacks
+  startOffset: 2682
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=2682
+  endOffset: 2756
+- name: 'Transition paths: senior backend engineers moving into data engineering'
+  startOffset: 2756
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=2756
+  endOffset: 2884
+- name: 'Job market outlook: senior vs junior data engineering opportunities'
+  startOffset: 2884
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=2884
+  endOffset: 2982
+- name: 'Table format comparisons: Delta, Hudi, and Iceberg differences'
+  startOffset: 2982
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=2982
+  endOffset: 3079
+- name: 'Streaming architectures and tools: micro-batching, Kafka, SQS, Flink'
+  startOffset: 3079
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=3079
+  endOffset: 3375
+- name: AI-driven commoditization and code generation in data engineering
+  startOffset: 3375
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=3375
+  endOffset: 3582
+- name: 'DLT roadmap: DLT Plus and a marketplace for reusable data products'
+  startOffset: 3582
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=3582
+  endOffset: 3679
+- name: Episode wrap-up and key takeaways
+  startOffset: 3679
+  url: https://www.youtube.com/watch?v=AlCFKbFIEM8&t=3679
+  endOffset: 3736
 ---
 
 Links:

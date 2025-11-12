@@ -916,6 +916,117 @@ intro: 'How do you pivot from collider physics to industry data science while ma
   Listen to gain actionable guidance on translating high‑energy physics expertise
   into data science, improving technical interview performance, and building effective
   mentorship relationships.'
+dateadded: '2024-12-17'
+duration: PT01H01M22S
+quotableClips:
+- name: Episode Opening & Guest Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=0
+  endOffset: 106
+- name: Guest Background Snapshot
+  startOffset: 106
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=106
+  endOffset: 242
+- name: 'Origins: From Novokuznetsk, Siberia'
+  startOffset: 242
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=242
+  endOffset: 318
+- name: Relocation & Life in Hamburg
+  startOffset: 318
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=318
+  endOffset: 362
+- name: 'Collider Purpose: Exploring Fundamental Particles'
+  startOffset: 362
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=362
+  endOffset: 450
+- name: Particle Acceleration & Detector Imaging
+  startOffset: 450
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=450
+  endOffset: 575
+- name: Collider Magnets & Data Capture Scale
+  startOffset: 575
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=575
+  endOffset: 675
+- name: Event Volume & Statistical Analysis in Particle Physics
+  startOffset: 675
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=675
+  endOffset: 760
+- name: Roles & Specializations in Large Research Collaborations
+  startOffset: 760
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=760
+  endOffset: 993
+- name: 'Dual Roles: Hardware Development and Data Analysis'
+  startOffset: 993
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=993
+  endOffset: 1066
+- name: Scientific Goals & Safety Myths (Higgs, Dark Matter, Black Holes)
+  startOffset: 1066
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=1066
+  endOffset: 1235
+- name: Translating Research Skills into Industry Data Science
+  startOffset: 1235
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=1235
+  endOffset: 1420
+- name: 'Research Software Engineering: Version Control & CI/CD Practices'
+  startOffset: 1420
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=1420
+  endOffset: 1471
+- name: 'Jargon Translation: Multivariate Analysis to Machine Learning'
+  startOffset: 1471
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=1471
+  endOffset: 1590
+- name: 'Interview Challenges: Position Fit & Evolving Hiring Expectations'
+  startOffset: 1590
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=1590
+  endOffset: 1680
+- name: 'Blue Yonder & Supply Chain AI: From Physics to Enterprise ML'
+  startOffset: 1680
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=1680
+  endOffset: 1765
+- name: 'Career Shift: From Industry Roles to Mentoring Focus'
+  startOffset: 1765
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=1765
+  endOffset: 2043
+- name: Behavioral Interview Strategies & Cultural Fit in Germany
+  startOffset: 2043
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=2043
+  endOffset: 2273
+- name: Preparing Stories & Practicing Leadership Principles
+  startOffset: 2273
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=2273
+  endOffset: 2486
+- name: 'Becoming a Mentor: Motivation, Rewards & Burnout'
+  startOffset: 2486
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=2486
+  endOffset: 2650
+- name: 'Mentoring Origins: Accidental Start & Finding the Right Fit'
+  startOffset: 2650
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=2650
+  endOffset: 2711
+- name: 'Mentoring Defined: Process, Goals & Time Commitment'
+  startOffset: 2711
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=2711
+  endOffset: 2965
+- name: 'Approaching Mentors: Clear Goals & Manageable Requests'
+  startOffset: 2965
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=2965
+  endOffset: 3052
+- name: 'Paid Mentorship vs. Free Communities: Pros & Cons'
+  startOffset: 3052
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=3052
+  endOffset: 3344
+- name: 'Mentorship as Career Leverage: Promotions & Leadership Experience'
+  startOffset: 3344
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=3344
+  endOffset: 3582
+- name: Finding Mentoring Communities & Platforms (MentorCruise, others)
+  startOffset: 3582
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=3582
+  endOffset: 3652
+- name: Episode Wrap-up & Key Takeaways
+  startOffset: 3652
+  url: https://www.youtube.com/watch?v=kV0ZDy2UtJA&t=3652
+  endOffset: 3682
 ---
 
 Links:

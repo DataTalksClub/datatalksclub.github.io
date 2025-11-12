@@ -1172,6 +1172,106 @@ intro: How can data science meaningfully shape public policy without becoming a 
   like climate justice and gender equality. Tune in to get concrete guidance on starting
   volunteer impact projects, where demand for impact data scientists lies, and how
   to design responsible, policy-driven data work.
+dateadded: '2022-07-30'
+duration: PT00H58M44S
+quotableClips:
+- name: Episode Intro & Guest Christine Cepelak
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=0
+  endOffset: 93
+- name: 'Career Journey: Program Management to Data Science for Public Policy'
+  startOffset: 93
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=93
+  endOffset: 247
+- name: 'Private vs Public Sector: Differences for Data Work'
+  startOffset: 247
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=247
+  endOffset: 325
+- name: 'Public Policy Defined: Laws, Governance & Social Impact'
+  startOffset: 325
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=325
+  endOffset: 507
+- name: 'Community Organizing Case Study: Electronics Recycling Campaign'
+  startOffset: 507
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=507
+  endOffset: 614
+- name: 'Policy vs Political Science: Theory, Practice & Implementation'
+  startOffset: 614
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=614
+  endOffset: 730
+- name: 'Education Landscape: Data Science for Public Policy Programs & DSSG'
+  startOffset: 730
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=730
+  endOffset: 862
+- name: 'Domain Nuances: Data Science for Social Impact vs Typical Industry Work'
+  startOffset: 862
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=862
+  endOffset: 1032
+- name: 'Use Cases: Drone Computer Vision for Refugee Aid & Rooftop Sustainability'
+  startOffset: 1032
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=1032
+  endOffset: 1266
+- name: 'Ethics & Regulation: Ethical AI, EU AI Act and Social Scoring Risks'
+  startOffset: 1266
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=1266
+  endOffset: 1581
+- name: 'Project Design: Long-term Impact, Iteration & Avoiding Tech-First Solutions'
+  startOffset: 1581
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=1581
+  endOffset: 1686
+- name: 'Stakeholder Collaboration: NGOs, HR Use Cases & Mining Domain Knowledge'
+  startOffset: 1686
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=1686
+  endOffset: 1832
+- name: 'Data Challenges: Building Pipelines with Limited IT Infrastructure'
+  startOffset: 1832
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=1832
+  endOffset: 2209
+- name: 'Public Data Gaps: Recycling Programs, Corporate Transparency & Access Issues'
+  startOffset: 2209
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=2209
+  endOffset: 2367
+- name: 'Future Focus Areas: Climate Justice, Gender Equality & Responsible Tech'
+  startOffset: 2367
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=2367
+  endOffset: 2419
+- name: 'Gender Inequality Solutions: Salary Transparency & Inclusive Hiring Policies'
+  startOffset: 2419
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=2419
+  endOffset: 2618
+- name: 'Corporate Responsibility: CSR Data Needs & Demand for Impact Data Scientists'
+  startOffset: 2618
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=2618
+  endOffset: 2785
+- name: 'Public Sector Roles: Chief Data Scientist and Government Data Strategy'
+  startOffset: 2785
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=2785
+  endOffset: 2899
+- name: 'Getting Started: Volunteer Projects, SDGs & Finding a Cause'
+  startOffset: 2899
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=2899
+  endOffset: 3083
+- name: 'Project Marketplaces & Career Advice: DSSG Projects and 80,000 Hours'
+  startOffset: 3083
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=3083
+  endOffset: 3256
+- name: 'Research Applications: Satellite Imagery for Poverty Estimation & Census
+    Gaps'
+  startOffset: 3256
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=3256
+  endOffset: 3382
+- name: 'Community Discussion: Ethics in AI Coffee Chats and Emerging Debates'
+  startOffset: 3382
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=3382
+  endOffset: 3486
+- name: 'Connect with Christine: Website, LinkedIn & Twitter'
+  startOffset: 3486
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=3486
+  endOffset: 3503
+- name: Episode Wrap-up & Resource Links
+  startOffset: 3503
+  url: https://www.youtube.com/watch?v=xWC1HAfekRk&t=3503
+  endOffset: 3524
 ---
 
 Links:

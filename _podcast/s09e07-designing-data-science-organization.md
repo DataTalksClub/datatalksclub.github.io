@@ -1168,6 +1168,113 @@ intro: 'How should you structure a data science organization to maximize product
   <br><br> Listen to gain actionable guidance on choosing an org model, setting staffing
   expectations, establishing experiment and metrics practices, and aligning data pipelines,
   data quality, and OKRs to drive data‑driven product decisions.'
+dateadded: '2022-07-08'
+duration: PT00H58M55S
+quotableClips:
+- name: 'Guest Introduction: Lisa Cohen, Director of Data Science at Twitter'
+  startOffset: 77
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=77
+  endOffset: 102
+- name: 'Career Background: Applied Math, Microsoft telemetry, Azure to Twitter'
+  startOffset: 102
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=102
+  endOffset: 387
+- name: 'Org Models Overview: Centralized vs decentralized data science organization'
+  startOffset: 387
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=387
+  endOffset: 514
+- name: 'Embedding Explained: Reporting lines vs day‑to‑day integration with feature
+    teams'
+  startOffset: 514
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=514
+  endOffset: 641
+- name: 'Hybrid Structure: Centralization per division and multiple DS orgs'
+  startOffset: 641
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=641
+  endOffset: 926
+- name: 'Reporting Structure: Embedded teams vs centralized data science reporting'
+  startOffset: 926
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=926
+  endOffset: 1123
+- name: 'Team Rhythms & Planning: Cross‑functional ceremonies and dependency management'
+  startOffset: 1123
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1123
+  endOffset: 1318
+- name: 'Cross‑Functional Alignment: OKRs and aligning goals across levels'
+  startOffset: 1318
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1318
+  endOffset: 1493
+- name: 'Twitter’s Approach: Hybrid per‑division model for product and ads'
+  startOffset: 1493
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1493
+  endOffset: 1548
+- name: 'Decentralized Model: Immersive domain context, faster decisions, career tradeoffs'
+  startOffset: 1548
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1548
+  endOffset: 1765
+- name: 'Centralized Model: Knowledge sharing, consistency, and context‑building challenges'
+  startOffset: 1765
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1765
+  endOffset: 1852
+- name: 'Communicating Insights: Translating metrics for product, engineering, and
+    design'
+  startOffset: 1852
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1852
+  endOffset: 1988
+- name: 'Starting Data Science: Foundations—data pipelines, data quality, and analytics'
+  startOffset: 1988
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1988
+  endOffset: 2209
+- name: 'Staffing Guidance: Engineers‑to‑data‑scientist ratios and ML partnerships
+    (8:1 reference)'
+  startOffset: 2209
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=2209
+  endOffset: 2539
+- name: 'Knowledge Sharing & Publication: Research archives, Slack channels, and push
+    mechanisms'
+  startOffset: 2539
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=2539
+  endOffset: 2769
+- name: 'Product Partnership: Co‑ownership with product, engineering, design, and
+    research'
+  startOffset: 2769
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=2769
+  endOffset: 2840
+- name: 'Metrics & Experimentation: Defining success metrics, ship criteria, and experiment
+    review'
+  startOffset: 2840
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=2840
+  endOffset: 3044
+- name: 'Analytics vs Data Science: Analysts driving dashboards vs ML‑heavy DS work'
+  startOffset: 3044
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3044
+  endOffset: 3150
+- name: 'OKRs & Exploration Time: Using objectives to prioritize and allocate research
+    time'
+  startOffset: 3150
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3150
+  endOffset: 3256
+- name: 'Resolving Conflicts: Data‑driven opportunity sizing for prioritization decisions'
+  startOffset: 3256
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3256
+  endOffset: 3348
+- name: 'Data‑Driven Product Innovation: Guiding roadmap decisions with trusted data'
+  startOffset: 3348
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3348
+  endOffset: 3451
+- name: 'Qualitative Research Collaboration: Bridging user studies with quantitative
+    analysis'
+  startOffset: 3451
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3451
+  endOffset: 3578
+- name: 'Contact & Resources: Lisa on Twitter, LinkedIn, and Medium'
+  startOffset: 3578
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3578
+  endOffset: 3603
+- name: Episode Wrap‑Up and Closing Remarks
+  startOffset: 3603
+  url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3603
+  endOffset: 3535
 ---
 
 Links:

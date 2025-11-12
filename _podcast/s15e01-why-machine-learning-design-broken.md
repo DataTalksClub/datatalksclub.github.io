@@ -954,6 +954,85 @@ intro: How do you design ML systems that fail fast, scale with modular architect
   <br><br> Listen to gain concrete tactics for fail-fast design docs, modular architecture,
   data drift monitoring, and baseline solutions you can apply to reduce risk and accelerate
   ML delivery.
+dateadded: '2023-07-16'
+duration: PT00H59M38S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=0
+  endOffset: 126
+- name: 'Guest Introduction: Valerii Babushkin background'
+  startOffset: 126
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=126
+  endOffset: 240
+- name: 'Book Announcement: Machine Learning System Design'
+  startOffset: 240
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=240
+  endOffset: 426
+- name: 'Design Document Purpose: Fail-Fast Principle'
+  startOffset: 426
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=426
+  endOffset: 519
+- name: 'Blueprint Analogy: Preventing Waste with Early Design'
+  startOffset: 519
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=519
+  endOffset: 669
+- name: Prevalence of Missing Documentation in ML Projects
+  startOffset: 669
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=669
+  endOffset: 876
+- name: 'Shared Design Docs: Alignment, Feedback, and Simplicity'
+  startOffset: 876
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=876
+  endOffset: 1141
+- name: 'Design Doc as a Living Artifact: Maintenance Challenges'
+  startOffset: 1141
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=1141
+  endOffset: 1477
+- name: 'Accountability & Ownership: Assigning Areas of Responsibility'
+  startOffset: 1477
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=1477
+  endOffset: 1919
+- name: 'Bus Factor & Risk Assessment: People Dependency Mapping'
+  startOffset: 1919
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=1919
+  endOffset: 2210
+- name: 'Modularity: Chapter-Based Design Docs and Versioning Signals'
+  startOffset: 2210
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=2210
+  endOffset: 2461
+- name: 'Incentivizing Documentation: Metrics and Performance Reviews'
+  startOffset: 2461
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=2461
+  endOffset: 2633
+- name: 'ML Design Template Overview: 16-Chapter Book Outline'
+  startOffset: 2633
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=2633
+  endOffset: 2866
+- name: 'Monitoring: Detecting Data Drift, Concept Drift, and Prediction Drift'
+  startOffset: 2866
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=2866
+  endOffset: 3119
+- name: 'Fallback Strategies: Redundancy, Simple Baselines, and Serving Reliability'
+  startOffset: 3119
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=3119
+  endOffset: 3313
+- name: 'Baseline Solutions: Start Simple to Validate Hypotheses Quickly'
+  startOffset: 3313
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=3313
+  endOffset: 3495
+- name: 'Resources & Tools: Book Discount, Evidently AI, and Templates'
+  startOffset: 3495
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=3495
+  endOffset: 3644
+- name: 'Contact: Connect with Valerii on LinkedIn'
+  startOffset: 3644
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=3644
+  endOffset: 3704
+- name: Episode Close and Final Takeaways
+  startOffset: 3704
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=3704
+  endOffset: 3578
 ---
 
 Links:

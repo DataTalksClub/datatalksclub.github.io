@@ -1,5 +1,6 @@
 ---
-title: 'Master Spatial Big Data Analytics: Nebula Stream Systems, Postdoc Mentoring & PhD Tips'
+title: 'Master Spatial Big Data Analytics: Nebula Stream Systems, Postdoc Mentoring
+  & PhD Tips'
 short: 'Advancing Big Data Analytics: Post-Doctoral Research'
 guests:
 - elenitziritazacharatou
@@ -1039,6 +1040,119 @@ intro: How do you master spatial big data analytics while navigating the demands
   data cleaning evaluation challenges, and steps to increase diversity in CS. Tune
   in for actionable postdoc mentoring and PhD tips grounded in spatial big data and
   stream processing research.
+dateadded: '2021-12-05'
+duration: PT01H01M37S
+quotableClips:
+- name: 'Guest Introduction: Eleni Tzirita‑Zacharatou, postdoctoral researcher at
+    DIMA, TU Berlin'
+  startOffset: 73
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=73
+  endOffset: 169
+- name: 'Academic Journey: Athens undergrad → EPFL PhD → Berlin postdoc'
+  startOffset: 169
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=169
+  endOffset: 230
+- name: 'Spatial Big Data Analytics: Definitions, examples (GPS, trajectories, satellite
+    imagery)'
+  startOffset: 230
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=230
+  endOffset: 356
+- name: 'Postdoc Role Overview: Research, mentoring, teaching, reviewing, dissemination'
+  startOffset: 356
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=356
+  endOffset: 449
+- name: 'Time Management for Research: Focused days vs. multitasking'
+  startOffset: 449
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=449
+  endOffset: 526
+- name: 'Publishing Realities: When research yields publishable outcomes'
+  startOffset: 526
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=526
+  endOffset: 603
+- name: 'Top Data Management Venues: VLDB, SIGMOD, ICDE'
+  startOffset: 603
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=603
+  endOffset: 693
+- name: 'Postdoc vs PhD: Increased responsibility, mentoring, and leadership'
+  startOffset: 693
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=693
+  endOffset: 1018
+- name: 'Mentoring Strategy: Advising BSc/MSc topics and evaluating PhD proposals'
+  startOffset: 1018
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=1018
+  endOffset: 1388
+- name: 'DIMA Research Programs: Nebula Stream (IoT/stream processing) and Agora infrastructure'
+  startOffset: 1388
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=1388
+  endOffset: 1455
+- name: 'System‑Driven Research: From Apache Flink legacy to new Nebula stream systems'
+  startOffset: 1455
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=1455
+  endOffset: 1495
+- name: 'Spotting Research Trends: Conferences, reviewing, and community roadmaps'
+  startOffset: 1495
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=1495
+  endOffset: 1710
+- name: 'Industry Engagement: Interfacing academic research with industry needs'
+  startOffset: 1710
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=1710
+  endOffset: 1827
+- name: 'Peer Reviewing: Invitations, visibility, and networking in academic service'
+  startOffset: 1827
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=1827
+  endOffset: 2018
+- name: 'Beyond Performance Metrics: Usability, energy, adoption as research priorities'
+  startOffset: 2018
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=2018
+  endOffset: 2181
+- name: 'Data Cleaning Research: Automation challenges and evaluation difficulties'
+  startOffset: 2181
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=2181
+  endOffset: 2320
+- name: 'Multidisciplinary Collaboration: Remote sensing, neuroscience, and cross‑domain
+    work'
+  startOffset: 2320
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=2320
+  endOffset: 2470
+- name: 'Facilitating Cross‑Group Collaboration: Physical spaces and informal interactions'
+  startOffset: 2470
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=2470
+  endOffset: 2657
+- name: 'Preparing for PhD Applications: Field choice, research quality, and AI/ML
+    trends'
+  startOffset: 2657
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=2657
+  endOffset: 2826
+- name: 'Master''s Thesis Selection: Advertised topics, mentor fit, internships and
+    skill alignment'
+  startOffset: 2826
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=2826
+  endOffset: 3127
+- name: 'Deciding on a PhD: Trial research in Master’s or internships before committing'
+  startOffset: 3127
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=3127
+  endOffset: 3299
+- name: 'PhD Expectations: Publication requirements and top‑conference pressure'
+  startOffset: 3299
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=3299
+  endOffset: 3319
+- name: 'Increasing Female Participation in CS: Early outreach, role models, institutional
+    support'
+  startOffset: 3319
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=3319
+  endOffset: 3651
+- name: 'Personal Reflections: Stereotypes, belonging, and career persistence'
+  startOffset: 3651
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=3651
+  endOffset: 3714
+- name: 'Contact and Follow‑Up: DIMA page and email for questions'
+  startOffset: 3714
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=3714
+  endOffset: 3722
+- name: Episode Conclusion and Thanks
+  startOffset: 3722
+  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=3722
+  endOffset: 3697
 ---
 
 Links:

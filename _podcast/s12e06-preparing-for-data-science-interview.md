@@ -11,7 +11,23 @@ topics:
 - Data Science
 - Portfolio Building
 - Interview
-intro: "How do you reliably prepare for ML and data science technical interviews — from the initial recruiter screen to coding and scenario-based rounds? In this episode Luke Whipps, co-founder of Neural.AI and host of the AI Game Changer podcast, draws on 8+ years recruiting data scientists and AI professionals to lay out recruiter-proven interview stages and practical prep tactics. <br><br> Luke walks through the full interview lifecycle — Stage Zero recruiter screening and role-fit filtering, the intro interview for relationship building, and the technical rounds that include binary, scenario, example, and coding components. He explains how to research interviewers, craft elevator pitches and STAR stories, and align expectations with recruiters so you prepare to the right depth. You’ll learn how to prioritize fundamentals before secondary skills, use question-flow strategies to probe deeper, and balance theory versus practical math in machine learning interviews. <br><br> The episode also covers recovering from failed interviews, targeted internal applications and outreach, and concrete practice resources like LeetCode, HackerRank, Codeforces, and Educative. If you’re preparing for ML technical interviews or data science interviews, this episode gives recruiter-led structure, concrete prep priorities, and resource recommendations to maximize your chances in each interview stage."
+intro: How do you reliably prepare for ML and data science technical interviews —
+  from the initial recruiter screen to coding and scenario-based rounds? In this episode
+  Luke Whipps, co-founder of Neural.AI and host of the AI Game Changer podcast, draws
+  on 8+ years recruiting data scientists and AI professionals to lay out recruiter-proven
+  interview stages and practical prep tactics. <br><br> Luke walks through the full
+  interview lifecycle — Stage Zero recruiter screening and role-fit filtering, the
+  intro interview for relationship building, and the technical rounds that include
+  binary, scenario, example, and coding components. He explains how to research interviewers,
+  craft elevator pitches and STAR stories, and align expectations with recruiters
+  so you prepare to the right depth. You’ll learn how to prioritize fundamentals before
+  secondary skills, use question-flow strategies to probe deeper, and balance theory
+  versus practical math in machine learning interviews. <br><br> The episode also
+  covers recovering from failed interviews, targeted internal applications and outreach,
+  and concrete practice resources like LeetCode, HackerRank, Codeforces, and Educative.
+  If you’re preparing for ML technical interviews or data science interviews, this
+  episode gives recruiter-led structure, concrete prep priorities, and resource recommendations
+  to maximize your chances in each interview stage.
 ids:
   anchor: Preparing-for-a-Data-Science-Interview---Luke-Whipps-e1tsh5d
   youtube: NnZjlMowkWA
@@ -23,7 +39,8 @@ links:
   youtube: https://www.youtube.com/watch?v=NnZjlMowkWA
 season: 12
 short: Preparing for a Data Science Interview
-title: "Master ML & Data Science Technical Interviews: Recruiter-Proven Stages, Prep & Resources"
+title: 'Master ML & Data Science Technical Interviews: Recruiter-Proven Stages, Prep
+  & Resources'
 transcript:
 - header: 'Guest Introduction: Luke Whipps & Neural AI'
 - header: 'Guest Introduction: Luke Whipps & Neural AI'
@@ -1255,4 +1272,95 @@ transcript:
   sec: 3730
   time: '1:02:10'
   who: Alexey
+dateadded: '2023-01-28'
+duration: PT01H29S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=0
+  endOffset: 101
+- name: 'Guest Introduction: Luke Whipps & Neural AI'
+  startOffset: 101
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=101
+  endOffset: 183
+- name: 'Recruitment Career Overview: ML focus, startups, Germany'
+  startOffset: 183
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=183
+  endOffset: 280
+- name: 'Remote Work & Client Geography: UK base serving German market'
+  startOffset: 280
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=280
+  endOffset: 515
+- name: 'Podcast Purpose: AI Game Changers format and goals'
+  startOffset: 515
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=515
+  endOffset: 714
+- name: 'Recruiter Strategy: Embedded talent specialist and candidate coaching'
+  startOffset: 714
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=714
+  endOffset: 932
+- name: 'Market Snapshot: hiring trends, layoffs, and candidate concerns'
+  startOffset: 932
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=932
+  endOffset: 1322
+- name: 'Interview Process Overview: stages, scope, and assumptions'
+  startOffset: 1322
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=1322
+  endOffset: 1550
+- name: 'Stage Zero: recruiter screening and role-fit filtering'
+  startOffset: 1550
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=1550
+  endOffset: 1686
+- name: 'Intro Interview Prep: objectives, structure, and relationship building'
+  startOffset: 1686
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=1686
+  endOffset: 1826
+- name: 'Interviewer Research: personality signals and communication matching'
+  startOffset: 1826
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=1826
+  endOffset: 2315
+- name: 'Message Preparation: elevator pitches and STAR storytelling'
+  startOffset: 2315
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=2315
+  endOffset: 2495
+- name: 'Technical Interview Components: binary, scenario, example, and coding'
+  startOffset: 2495
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=2495
+  endOffset: 2696
+- name: 'Aligning Expectations: clarifying technical depth with recruiters'
+  startOffset: 2696
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=2696
+  endOffset: 2890
+- name: 'Prep Prioritization: fundamentals first, then secondary and ideal skills'
+  startOffset: 2890
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=2890
+  endOffset: 3060
+- name: 'Question Flow Strategy: follow-ups to probe deeper understanding'
+  startOffset: 3060
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=3060
+  endOffset: 3178
+- name: 'Theory vs. Practice: relevance of mathematical and theoretical questions'
+  startOffset: 3178
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=3178
+  endOffset: 3317
+- name: 'Recovering from Failure: bombing interviews, feedback, and retakes'
+  startOffset: 3317
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=3317
+  endOffset: 3527
+- name: 'Applying Internally: focused applications and direct outreach tactics'
+  startOffset: 3527
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=3527
+  endOffset: 3605
+- name: 'Practice Resources: LeetCode, HackerRank, Codeforces, Educative'
+  startOffset: 3605
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=3605
+  endOffset: 3703
+- name: 'Supplemental Material: Luke’s interview prep document (show notes)'
+  startOffset: 3703
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=3703
+  endOffset: 3717
+- name: Closing Remarks and Episode Wrap-up
+  startOffset: 3717
+  url: https://www.youtube.com/watch?v=NnZjlMowkWA&t=3717
+  endOffset: 3629
 ---

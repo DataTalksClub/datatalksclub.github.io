@@ -1157,6 +1157,101 @@ intro: How do you turn AI ambitions into measurable, deliverable data products? 
   Listen to get concrete guidance on pitching, measuring and operationalizing a data
   strategy for AI-powered products — including practical DataOps and GPT workflows
   you can apply right away.
+dateadded: '2023-05-27'
+duration: PT00H56M39S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=0
+  endOffset: 113
+- name: Guest Introduction & Current Role
+  startOffset: 113
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=113
+  endOffset: 170
+- name: Guest Background & Career Path
+  startOffset: 170
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=170
+  endOffset: 347
+- name: 'Becoming a Data Strategist: Accidental Transition'
+  startOffset: 347
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=347
+  endOffset: 493
+- name: 'Defining Data Strategy: Actionable, Flexible Plans'
+  startOffset: 493
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=493
+  endOffset: 613
+- name: Due Diligence & Aligning Business Goals
+  startOffset: 613
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=613
+  endOffset: 808
+- name: 'Designing Strategy: Use Case Ideation, Feasibility & Prioritization'
+  startOffset: 808
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=808
+  endOffset: 981
+- name: Influence Cascade & Scope Creep in Data Products
+  startOffset: 981
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=981
+  endOffset: 1102
+- name: Impact Assessment, Portfolio Management & Delivery
+  startOffset: 1102
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=1102
+  endOffset: 1410
+- name: Data- and AI-Powered Products Defined
+  startOffset: 1410
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=1410
+  endOffset: 1497
+- name: 'DataOps Principles: Lean, Agile & CI/CD Practices'
+  startOffset: 1497
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=1497
+  endOffset: 1638
+- name: 'Strategy Roles: Platform, AI and BI Distinctions'
+  startOffset: 1638
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=1638
+  endOffset: 1802
+- name: 'Core Skills: Data Knowledge, Communication & Systems Thinking'
+  startOffset: 1802
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=1802
+  endOffset: 2195
+- name: 'Path to Data Strategist: Business Fluency & Deliberate Practice'
+  startOffset: 2195
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=2195
+  endOffset: 2349
+- name: 'Translation Skill: Explaining Use Cases to Stakeholders'
+  startOffset: 2349
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=2349
+  endOffset: 2491
+- name: 'From Strategist to CTO: Ownership, Budgeting & Management'
+  startOffset: 2491
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=2491
+  endOffset: 2626
+- name: 'GPT as Writing Co‑Pilot: Sidebars, Editing & Ethical Considerations'
+  startOffset: 2626
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=2626
+  endOffset: 2840
+- name: 'GPT for Drafting: Outlines, PowerPoint & Chapter Structure'
+  startOffset: 2840
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=2840
+  endOffset: 3062
+- name: 'ChatGPT for Data Strategy: Ideation, Prompting & Tech Guidance'
+  startOffset: 3062
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=3062
+  endOffset: 3164
+- name: 'Pitching Strategy: Start Small with a Budgeted Use Case'
+  startOffset: 3164
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=3164
+  endOffset: 3332
+- name: 'Baselines & Measurement: Pre- and Post-Implementation Metrics'
+  startOffset: 3332
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=3332
+  endOffset: 3416
+- name: 'Recommended Reading: Data Strategy, DataOps & Infonomics'
+  startOffset: 3416
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=3416
+  endOffset: 3512
+- name: Episode Wrap-Up & Resources
+  startOffset: 3512
+  url: https://www.youtube.com/watch?v=jGbfeYdlCiQ&t=3512
+  endOffset: 3399
 ---
 
 Links:

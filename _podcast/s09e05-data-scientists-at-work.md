@@ -1319,6 +1319,101 @@ intro: How do you actually break into data science, build a portfolio that gets 
   current (conferences vs social media) and knowing when a new framework is “good
   enough.” <br><br> Listen to learn actionable steps to refine your portfolio, present
   data science value to stakeholders, and manage FOMO while advancing your career.
+dateadded: '2022-06-25'
+duration: PT01H04M12S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 67
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=67
+  endOffset: 117
+- name: 'Misra Career Path: From Big Data Engineering to Content Creator'
+  startOffset: 117
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=117
+  endOffset: 251
+- name: Transition to Developer Advocate and Content Work
+  startOffset: 251
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=251
+  endOffset: 389
+- name: 'Data Scientist Day‑to‑Day: Explaining the Role to Non‑Tech Audiences'
+  startOffset: 389
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=389
+  endOffset: 541
+- name: 'Deliverables: Trained Models, Pipelines, Reports, and Presentations'
+  startOffset: 541
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=541
+  endOffset: 658
+- name: 'Role Variants: Consultant, In‑House, and Freelance Responsibilities'
+  startOffset: 658
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=658
+  endOffset: 849
+- name: Unrealistic Expectations of Data Scientists in Industry
+  startOffset: 849
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=849
+  endOffset: 943
+- name: 'Keeping Current with AI: Managing FOMA (Fear of Missing Out)'
+  startOffset: 943
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=943
+  endOffset: 1221
+- name: 'DALL·E 2 Overview: Text‑to‑Image Capabilities'
+  startOffset: 1221
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=1221
+  endOffset: 1301
+- name: 'Diffusion Models: High‑Level Explanation'
+  startOffset: 1301
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=1301
+  endOffset: 1659
+- name: 'Staying Updated: Value of Industry Conferences over Social Media'
+  startOffset: 1659
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=1659
+  endOffset: 1811
+- name: 'Major Challenge: Communicating Data Science Value to Stakeholders'
+  startOffset: 1811
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=1811
+  endOffset: 2131
+- name: 'FOMA and Imposter Syndrome: Causes and Coping Strategies'
+  startOffset: 2131
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=2131
+  endOffset: 2412
+- name: 'Learning a New Framework: Knowing When It''s "Good Enough"'
+  startOffset: 2412
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=2412
+  endOffset: 2567
+- name: 'Preferred Setup: Advantages of In‑House Data Science Roles'
+  startOffset: 2567
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=2567
+  endOffset: 2853
+- name: 'Career Tradeoffs: Generalist Versus Specialist Paths'
+  startOffset: 2853
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=2853
+  endOffset: 3032
+- name: 'Breaking In: Job‑Hunting Strategies for Entry‑Level Data Scientists'
+  startOffset: 3032
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=3032
+  endOffset: 3271
+- name: 'Catching Recruiter Attention: Research, Questions, and Relevant Projects'
+  startOffset: 3271
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=3271
+  endOffset: 3429
+- name: 'Portfolio Projects: What Hiring Managers Really Look For'
+  startOffset: 3429
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=3429
+  endOffset: 3494
+- name: 'Real‑World Datasets: Using NYC Open Data and Dirty Data Examples'
+  startOffset: 3494
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=3494
+  endOffset: 3702
+- name: 'Degrees vs Experience: When a Master''s or PhD Matters'
+  startOffset: 3702
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=3702
+  endOffset: 3868
+- name: Where to Find Misra Online and Recommended Resources
+  startOffset: 3868
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=3868
+  endOffset: 3903
+- name: Episode Closing and Further Links
+  startOffset: 3903
+  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=3903
+  endOffset: 3852
 ---
 
 Links:

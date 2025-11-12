@@ -1187,6 +1187,114 @@ intro: 'How do you build and scale a data science community that actually advanc
   include Weapons of Math Destruction and Coded Bias. <br><br> Listen to gain actionable
   tactics for community building, inclusive leadership, ML deployment strategies,
   and career growth pathways for data scientists and AI practitioners.'
+dateadded: '2023-02-25'
+duration: PT00H59M44S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=0
+  endOffset: 94
+- name: 'Guest Introduction: Dania — AI Guild co‑founder, machine learning background'
+  startOffset: 94
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=94
+  endOffset: 152
+- name: 'Early Career: Applied math, Spark vs Hadoop thesis and marketing analytics'
+  startOffset: 152
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=152
+  endOffset: 216
+- name: 'Move to Berlin: Startup roles and building end‑to‑end data skills'
+  startOffset: 216
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=216
+  endOffset: 319
+- name: 'Role Evolution: Data scientist generalist to specialized career paths'
+  startOffset: 319
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=319
+  endOffset: 392
+- name: 'Teaching & Mentoring: Bootcamps, Data Science for Good, and skills sharing'
+  startOffset: 392
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=392
+  endOffset: 677
+- name: 'Community Origin Story: From women’s meetups to a broader support network'
+  startOffset: 677
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=677
+  endOffset: 921
+- name: 'Community Growth: Monthly dinners, global expansion, and membership scale'
+  startOffset: 921
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=921
+  endOffset: 1005
+- name: 'Datalift Summit Origin: Organizing the first in‑person conference post‑COVID'
+  startOffset: 1005
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=1005
+  endOffset: 1191
+- name: 'Meetup Content Strategy: Curating panels on career options and practical
+    topics'
+  startOffset: 1191
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=1191
+  endOffset: 1395
+- name: 'Diversity in Berlin: Internationality, gender balance, and workplace culture'
+  startOffset: 1395
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=1395
+  endOffset: 1579
+- name: 'Broader Diversity Dimensions: Backgrounds, nationality, and neurodiversity'
+  startOffset: 1579
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=1579
+  endOffset: 1639
+- name: 'Business Case for Diversity: Inclusive teams, product fit, and market reach'
+  startOffset: 1639
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=1639
+  endOffset: 1884
+- name: 'Psychological Safety: Leadership signals and enabling open conversations'
+  startOffset: 1884
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=1884
+  endOffset: 2023
+- name: 'Consulting Model: Vendor‑agnostic machine learning deployment support'
+  startOffset: 2023
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=2023
+  endOffset: 2061
+- name: 'Recruitment & Training: Sourcing diverse talent pools for regulated industries'
+  startOffset: 2061
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=2061
+  endOffset: 2376
+- name: 'Visibility Policy: Inviting women speakers first to increase participation'
+  startOffset: 2376
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=2376
+  endOffset: 2601
+- name: 'Career Growth Advice: Networks, visibility, and stepping into leadership'
+  startOffset: 2601
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=2601
+  endOffset: 2736
+- name: 'Code of Conduct: Crafting practical rules and expected community behavior'
+  startOffset: 2736
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=2736
+  endOffset: 2970
+- name: 'Responding to Misconduct: Reporting, case‑by‑case handling, and consequences'
+  startOffset: 2970
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=2970
+  endOffset: 3228
+- name: 'Community‑to‑Client Matching: Leveraging member expertise for projects'
+  startOffset: 3228
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3228
+  endOffset: 3373
+- name: 'Team Roles: Founders’ split — machine learning delivery and career coaching'
+  startOffset: 3373
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3373
+  endOffset: 3476
+- name: 'Scaling Strategy: Freelance network today, hiring full‑time as demand grows'
+  startOffset: 3476
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3476
+  endOffset: 3551
+- name: 'Recommended Resources: Weapons of Math Destruction and Coded Bias'
+  startOffset: 3551
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3551
+  endOffset: 3642
+- name: 'Datalift Summit 2023: Call for speakers, workshops, and production use cases'
+  startOffset: 3642
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3642
+  endOffset: 3678
+- name: Closing Remarks and Sign‑off
+  startOffset: 3678
+  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3678
+  endOffset: 3584
 ---
 
 Links:

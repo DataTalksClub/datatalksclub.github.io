@@ -983,6 +983,106 @@ intro: 'How do you pivot from biology into machine learning and build a job-read
   for creating a data science portfolio, where to find computer vision and transformer
   projects, how to leverage community and mentorship, and how to communicate your
   work to land roles in machine learning.'
+dateadded: '2024-12-17'
+duration: PT01H03M42S
+quotableClips:
+- name: 'Episode Introduction: Continuous Learning in Data Science (guest Isabella
+    Bicalho)'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=0
+  endOffset: 421
+- name: 'Career Overview: Transition from Biology to Machine Learning'
+  startOffset: 421
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=421
+  endOffset: 509
+- name: Statistics as Gateway to Machine Learning; Progression to Transformers
+  startOffset: 509
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=509
+  endOffset: 554
+- name: 'Education: University of Maranhão and University of Marseille'
+  startOffset: 554
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=554
+  endOffset: 674
+- name: 'INRIA Internship: Biomarkers and Immunotherapy Prediction'
+  startOffset: 674
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=674
+  endOffset: 865
+- name: INRIA's Role in AI Research and France's AI Ecosystem
+  startOffset: 865
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=865
+  endOffset: 955
+- name: 'Freelance Work: Recommendation System & Knowledge Graph Automation'
+  startOffset: 955
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=955
+  endOffset: 1132
+- name: 'Career Pivot: Choosing Engineering Over a PhD'
+  startOffset: 1132
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=1132
+  endOffset: 1342
+- name: 'First Freelance Client: CV Visibility and Networking'
+  startOffset: 1342
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=1342
+  endOffset: 1419
+- name: Leveraging Open-Source & AI for Good to Gain Experience
+  startOffset: 1419
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=1419
+  endOffset: 1590
+- name: 'Hugging Face Community Course: Computer Vision Contributions & Review'
+  startOffset: 1590
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=1590
+  endOffset: 1917
+- name: 'Teaching & Communication: Simplifying ML Jargon for Learners'
+  startOffset: 1917
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=1917
+  endOffset: 2081
+- name: 'Finding Open-Source Opportunities: Communities, Docs, and Local Chapters'
+  startOffset: 2081
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2081
+  endOffset: 2246
+- name: 'Types of Open-Source Projects: Code, Data, and Applied Solutions'
+  startOffset: 2246
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2246
+  endOffset: 2412
+- name: 'Green Space Segmentation: Sentinel-2, CNNs vs Transformers, Practicality'
+  startOffset: 2412
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2412
+  endOffset: 2544
+- name: Project Work as Job-Ready Experience and Portfolio Building
+  startOffset: 2544
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2544
+  endOffset: 2608
+- name: 'Soft Skills from Collaboration: Communication and Prioritization'
+  startOffset: 2608
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2608
+  endOffset: 2734
+- name: 'Informational Networking: Reaching Out for Role Insights'
+  startOffset: 2734
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2734
+  endOffset: 2995
+- name: 'Onboarding New Contributors: Low Entry Barriers and Mentorship'
+  startOffset: 2995
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2995
+  endOffset: 3094
+- name: 'AI Assistants in Learning: Benefits and Limitations of ChatGPT'
+  startOffset: 3094
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=3094
+  endOffset: 3239
+- name: 'Data Like Substack: Spotlighting Women in Data and ML'
+  startOffset: 3239
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=3239
+  endOffset: 3447
+- name: 'Featured Interviews: Bioinformatics, Fake News Detection, AI Ethics'
+  startOffset: 3447
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=3447
+  endOffset: 3736
+- name: 'Connecting with Isabella: LinkedIn and Substack Contact Info'
+  startOffset: 3736
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=3736
+  endOffset: 3822
+- name: Episode Wrap-Up and Closing Remarks
+  startOffset: 3822
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=3822
+  endOffset: 3822
 ---
 
 Links:

@@ -877,6 +877,106 @@ intro: How do you become an effective analytics engineer and what skills, tools,
   platform teams to embedded roles. Listen for a clear career roadmap, concrete learning
   resources (DBT tutorials and an 'Analytics readings' Notion list), and indicators
   of role fit if you enjoy modeling, data quality and engineering best practices.
+dateadded: '2021-06-19'
+duration: PT00H49M09S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=0
+  endOffset: 108
+- name: 'Guest Introduction: Victoria Perez Mola overview'
+  startOffset: 108
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=108
+  endOffset: 165
+- name: 'Career Journey: Systems engineering, ERP & finance reporting'
+  startOffset: 165
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=165
+  endOffset: 245
+- name: 'Daily Responsibilities: Data modeling, pipelines, data quality, Looker'
+  startOffset: 245
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=245
+  endOffset: 409
+- name: 'DBT Overview: SQL transformations, version control, tests, DAG'
+  startOffset: 409
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=409
+  endOffset: 604
+- name: 'Analytics Toolstack: DBT, Snowflake, Adlib ETL, Looker'
+  startOffset: 604
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=604
+  endOffset: 708
+- name: 'Transition Story: From BI/ERP work to analytics engineering'
+  startOffset: 708
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=708
+  endOffset: 874
+- name: 'Role Comparison: Analytics Engineer vs Data Analyst vs Data Engineer'
+  startOffset: 874
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=874
+  endOffset: 1014
+- name: 'Role Origins & Purpose: Spotify, reducing analysts'' cleaning workload'
+  startOffset: 1014
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=1014
+  endOffset: 1252
+- name: 'Job Expectations: Example posting traits (pipelines, auditing, dashboards)'
+  startOffset: 1252
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=1252
+  endOffset: 1570
+- name: 'Core Skills: SQL, dimensional modeling, Snowflake and tooling variance'
+  startOffset: 1570
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=1570
+  endOffset: 1806
+- name: 'DBT Ecosystem: DBT''s role in the analytics engineer movement'
+  startOffset: 1806
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=1806
+  endOffset: 1869
+- name: 'Organizational Variability: Team setups and role definitions across companies'
+  startOffset: 1869
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=1869
+  endOffset: 1982
+- name: 'Cross-functional Collaboration: Working with analysts, data scientists, backend'
+  startOffset: 1982
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=1982
+  endOffset: 2204
+- name: 'Managing Bad Data & Schema Changes: DBT cleaning, macros, limitations'
+  startOffset: 2204
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=2204
+  endOffset: 2333
+- name: 'Data Testing Strategy: DBT tests, upstream checks, warnings vs errors'
+  startOffset: 2333
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=2333
+  endOffset: 2442
+- name: 'BI Roles vs Analytics Engineering: Overlaps with BI developer and analyst'
+  startOffset: 2442
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=2442
+  endOffset: 2525
+- name: 'Pathway to Analytics Engineering: Software practices, Kimball, DBT learning'
+  startOffset: 2525
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=2525
+  endOffset: 2619
+- name: 'Learning Resources: DBT tutorials and ''Analytics readings'' Notion list'
+  startOffset: 2619
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=2619
+  endOffset: 2692
+- name: 'Role Fit Signals: Enjoy modeling, quality, and best practices'
+  startOffset: 2692
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=2692
+  endOffset: 2788
+- name: 'Job Frustrations: Enforcing guidelines, ad-hoc firefights, limited raw control'
+  startOffset: 2788
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=2788
+  endOffset: 2916
+- name: 'Team Scale & Placement: Platform teams vs embedded analytics engineers'
+  startOffset: 2916
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=2916
+  endOffset: 3046
+- name: 'Data Documentation & Profiling: DBT docs strengths and profiling tools (Datafold,
+    Monte Carlo)'
+  startOffset: 3046
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=3046
+  endOffset: 3090
+- name: Episode Wrap-Up & Links
+  startOffset: 3090
+  url: https://www.youtube.com/watch?v=C5UcxBwdCEg&t=3090
+  endOffset: 2949
 ---
 
 

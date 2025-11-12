@@ -982,6 +982,105 @@ intro: How can wastewater metagenomics and knowledge graphs reveal microbial int
   Python), and applying AI/LLMs in bioinformatics workflows. Ideal for researchers
   and engineers wanting to turn sequencing data into reproducible network models and
   automated reports.
+dateadded: '2025-10-27'
+duration: PT00H55M13S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=0
+  endOffset: 69
+- name: 'Career Transition: Biotechnology to Bioinformatics Software'
+  startOffset: 69
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=69
+  endOffset: 221
+- name: 'Master’s Thesis Overview: Wastewater Microbiome Knowledge Graph'
+  startOffset: 221
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=221
+  endOffset: 387
+- name: 'Bioinformatics Role: Reducing Lab Experiments with Computational Analysis'
+  startOffset: 387
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=387
+  endOffset: 503
+- name: 'Wet Lab vs Dry Lab: Experimental Work vs Computational Pipelines'
+  startOffset: 503
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=503
+  endOffset: 681
+- name: 'Bioinformatics as Data Science: From Sequencing to Analysis'
+  startOffset: 681
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=681
+  endOffset: 755
+- name: 'Genomic Data Basics: Nucleotides and DNA Sequences'
+  startOffset: 755
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=755
+  endOffset: 930
+- name: DNA Sequencing Workflow and Reference Genomes
+  startOffset: 930
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=930
+  endOffset: 1076
+- name: 'Metagenomics: Environmental Sampling and Abundance Tables'
+  startOffset: 1076
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=1076
+  endOffset: 1181
+- name: 'Building Microbial Networks: Co‑abundance and Association Inference'
+  startOffset: 1181
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=1181
+  endOffset: 1471
+- name: 'Network Inference Methodology: CC Lasso, Correlations, and Thresholding'
+  startOffset: 1471
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=1471
+  endOffset: 1626
+- name: 'Molecular Simulations: Protein–Ligand Dynamics and Water Boxes'
+  startOffset: 1626
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=1626
+  endOffset: 1798
+- name: 'Protein Folding Revolution: AlphaFold Impact on Structure Prediction'
+  startOffset: 1798
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=1798
+  endOffset: 2180
+- name: 'Open‑Source Projects Overview: MCW2 Graph, VueGen, and VueCore'
+  startOffset: 2180
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=2180
+  endOffset: 2311
+- name: 'Knowledge Graph Exploration: Neo4j, Streamlit, and Graph Algorithms'
+  startOffset: 2311
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=2311
+  endOffset: 2400
+- name: 'Report Automation with VueGen: Quarto, Streamlit, and Export Formats'
+  startOffset: 2400
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=2400
+  endOffset: 2549
+- name: 'Package Ecosystem: Bioconda, Bioconductor, and Bioinformatics Libraries'
+  startOffset: 2549
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=2549
+  endOffset: 2636
+- name: 'Omics Visualization: VueCore for Genomics, Proteomics, and Metabolomics'
+  startOffset: 2636
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=2636
+  endOffset: 2708
+- name: 'Portfolio Advice: Beginner Bioinformatics Projects and Tools to Showcase'
+  startOffset: 2708
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=2708
+  endOffset: 2870
+- name: 'AI & LLMs in Bioinformatics: Documentation, MLOps, and Coding Assistants'
+  startOffset: 2870
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=2870
+  endOffset: 3025
+- name: 'Language Tradeoffs: R vs Python and Scaling Scientific Tools'
+  startOffset: 3025
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=3025
+  endOffset: 3113
+- name: 'Visualization Workflows: Viewer and Supporting Plotting Libraries'
+  startOffset: 3113
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=3113
+  endOffset: 3197
+- name: 'Remote Work & Field Life: Working from Ecuador and Nature Notes'
+  startOffset: 3197
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=3197
+  endOffset: 3250
+- name: 'Episode Wrap‑up: Open‑Source Encouragement and Closing Remarks'
+  startOffset: 3250
+  url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=3250
+  endOffset: 3313
 ---
 
 Links:

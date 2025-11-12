@@ -1153,6 +1153,125 @@ intro: 'How can you tell if a "data scientist" job is really a data engineering 
 description: Discover how to spot misleading job titles, hiring red flags and build
   stronger data teams-assess tech stacks, interview rigor, salary ranges and career
   fit.
+dateadded: '2022-08-06'
+duration: PT00H58M45S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=0
+  endOffset: 101
+- name: 'Guest Bio: Tereza’s multidisciplinary data roles & community work'
+  startOffset: 101
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=101
+  endOffset: 160
+- name: 'Academic Background: PhD, information retrieval, recommender systems'
+  startOffset: 160
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=160
+  endOffset: 232
+- name: 'Industry Transition: XING to mytaxi/FREE NOW and evolving responsibilities'
+  startOffset: 232
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=232
+  endOffset: 369
+- name: 'Technical Practices at XING: Scala, Elasticsearch, product-driven engineering'
+  startOffset: 369
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=369
+  endOffset: 487
+- name: 'Building Data Infrastructure at mytaxi: ETL, Airflow and platform challenges'
+  startOffset: 487
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=487
+  endOffset: 615
+- name: 'Job Titles vs. Reality: Renaming roles and shaping career narratives'
+  startOffset: 615
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=615
+  endOffset: 667
+- name: 'Coaching Role: Neuefische bootcamp focus on product, teamwork and coaching'
+  startOffset: 667
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=667
+  endOffset: 802
+- name: 'Teaching Challenges: PhDs, collaboration and professional skills'
+  startOffset: 802
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=802
+  endOffset: 833
+- name: 'Hiring Misalignment: Company expectations versus candidate reality'
+  startOffset: 833
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=833
+  endOffset: 985
+- name: 'Interview Practices: Take-home tasks and candidate time burden'
+  startOffset: 985
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=985
+  endOffset: 1094
+- name: 'Candidate Preparedness: Defining goals and asking the right questions'
+  startOffset: 1094
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=1094
+  endOffset: 1206
+- name: 'Interpreting Job Titles: Spotting mislabeled data roles'
+  startOffset: 1206
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=1206
+  endOffset: 1310
+- name: 'Career-Stage Fit: Junior versus experienced candidate needs'
+  startOffset: 1310
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=1310
+  endOffset: 1381
+- name: 'Role Clarity Checklist: Team, objectives, responsibilities vs. tech lists'
+  startOffset: 1381
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=1381
+  endOffset: 1638
+- name: 'Data Team Signals: Presence of data engineering and analytics functions'
+  startOffset: 1638
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=1638
+  endOffset: 1820
+- name: 'Red Flags in Descriptions: Long tech lists and vague responsibilities'
+  startOffset: 1820
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=1820
+  endOffset: 1863
+- name: 'Language & Culture Signals: “Rockstar”, “ninja” and inclusivity cues'
+  startOffset: 1863
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=1863
+  endOffset: 2013
+- name: 'Interview Rigor Indicator: Bullet-point overload and syntax-focused tests'
+  startOffset: 2013
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=2013
+  endOffset: 2228
+- name: 'Salary Transparency: German norms and benefits of publishing ranges'
+  startOffset: 2228
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=2228
+  endOffset: 2331
+- name: 'Company Research Tactics: LinkedIn, team pages and conference presence'
+  startOffset: 2331
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=2331
+  endOffset: 2358
+- name: 'Colleagues & Role Models: Finding inspiring teammates and mentors'
+  startOffset: 2358
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=2358
+  endOffset: 2464
+- name: 'Retention & Career Ladders: Using LinkedIn to gauge internal mobility'
+  startOffset: 2464
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=2464
+  endOffset: 2625
+- name: 'Remote Work Fit: Assessing WFH policies and support structures'
+  startOffset: 2625
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=2625
+  endOffset: 2912
+- name: 'Data Maturity Model: Before, during, after data and hiring implications'
+  startOffset: 2912
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=2912
+  endOffset: 3024
+- name: 'Day-to-Day Expectations: Time allocation across maturity stages'
+  startOffset: 3024
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=3024
+  endOffset: 3381
+- name: 'Tech Stack Signals: Modern vs legacy tools and what they reveal'
+  startOffset: 3381
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=3381
+  endOffset: 3499
+- name: 'Community Visibility: Talks and knowledge sharing as healthy-team signals'
+  startOffset: 3499
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=3499
+  endOffset: 3607
+- name: 'Closing & Resources: Slides, talk links and final advice'
+  startOffset: 3607
+  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=3607
+  endOffset: 3525
 ---
 Links:
 

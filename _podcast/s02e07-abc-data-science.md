@@ -1,5 +1,6 @@
 ---
-title: 'Data Science Career Guide: ABC Framework (Analyst, Builder, Consultant) & Transition Tips'
+title: 'Data Science Career Guide: ABC Framework (Analyst, Builder, Consultant) &
+  Transition Tips'
 short: The ABC’s of Data Science
 guests:
 - dannyma
@@ -1268,6 +1269,129 @@ intro: 'How do you pick the right data science path—and actually make the tran
   degrees matter. Tune in to get concrete guidance on skills to prioritize, how to
   gain production experience, and a clear roadmap from SQL → visualization → ML →
   deep learning to advance your data science career.'
+dateadded: '2021-02-26'
+duration: PT01H24M57S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=0
+  endOffset: 49
+- name: LinkedIn Memes & Creative Editing for Data Audiences
+  startOffset: 49
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=49
+  endOffset: 213
+- name: 'Career Journey: Analytics to Data Science'
+  startOffset: 213
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=213
+  endOffset: 296
+- name: Transition to Python, Kaggle & Self-Directed Learning
+  startOffset: 296
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=296
+  endOffset: 392
+- name: 'Early Tools: SQL, SAS and Excel Workflows'
+  startOffset: 392
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=392
+  endOffset: 499
+- name: 'Moving into Data Science: Team Integration at a Bank'
+  startOffset: 499
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=499
+  endOffset: 546
+- name: 'Machine Learning Projects: Propensity Models & Experimentation'
+  startOffset: 546
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=546
+  endOffset: 689
+- name: Origins of the ABC Framework for Data Science Roles
+  startOffset: 689
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=689
+  endOffset: 738
+- name: 'Defining the Three Profiles: Analyst, Builder, Consultant'
+  startOffset: 738
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=738
+  endOffset: 797
+- name: 'Type A (Analyst): Data Exploration, Visualization & Storytelling'
+  startOffset: 797
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=797
+  endOffset: 961
+- name: 'Type A Backgrounds: Research, Statistics & Analyst Pathways'
+  startOffset: 961
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=961
+  endOffset: 1100
+- name: 'Type A Skillset: Programming, Theory, Experiment Design'
+  startOffset: 1100
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=1100
+  endOffset: 1201
+- name: 'Learning Strategy: Build Projects First, Learn Theory When Needed'
+  startOffset: 1201
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=1201
+  endOffset: 1314
+- name: 'Curiosity Spectrum: Depth of Inquiry & Learning Motivation'
+  startOffset: 1314
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=1314
+  endOffset: 1553
+- name: 'Type B (Builder): ML Engineering, MLOps & Production Systems'
+  startOffset: 1553
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=1553
+  endOffset: 1706
+- name: Technical Debt, Production Mindset & Systemic Risk
+  startOffset: 1706
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=1706
+  endOffset: 1826
+- name: 'Pathway A→B: Gaining Production Experience & On-the-Job Pressure'
+  startOffset: 1826
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=1826
+  endOffset: 1992
+- name: 'Core Tools for Transition: Git, Docker, Cloud Platforms'
+  startOffset: 1992
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=1992
+  endOffset: 2206
+- name: 'Practicing Engineering Skills Outside Work: Mentors & Mini-Projects'
+  startOffset: 2206
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=2206
+  endOffset: 2558
+- name: 'Type C (Consultant/Leader): Stakeholder Persuasion & Strategy'
+  startOffset: 2558
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=2558
+  endOffset: 2929
+- name: 'Testing Leadership: Shifting from Hands-On to People Management'
+  startOffset: 2929
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=2929
+  endOffset: 3288
+- name: 'Building a Lean Data Science Team: Roles, Tech Lead & Data Lead'
+  startOffset: 3288
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=3288
+  endOffset: 3716
+- name: Domain Expertise vs Technical Specialization for Career Mobility
+  startOffset: 3716
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=3716
+  endOffset: 3851
+- name: 'Breaking In: Project Portfolios, Referrals & Application Strategy'
+  startOffset: 3851
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=3851
+  endOffset: 4042
+- name: 'Entry Choice: Analyst vs Builder — Trade-offs & Competitive Edge'
+  startOffset: 4042
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=4042
+  endOffset: 4346
+- name: 'Bootcamps & Intensives: Benefits, Limits & Realistic Expectations'
+  startOffset: 4346
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=4346
+  endOffset: 4477
+- name: 'Serious SQL Course: Curriculum, Case Studies & Apprenticeship Model'
+  startOffset: 4477
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=4477
+  endOffset: 4745
+- name: 'Data Science Roadmap: SQL → Visualization → ML → Deep Learning'
+  startOffset: 4745
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=4745
+  endOffset: 4984
+- name: 'Advanced Degrees: When Master''s/PhD Matter in Data Science Roles'
+  startOffset: 4984
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=4984
+  endOffset: 5121
+- name: Episode Wrap-up, Resources & Next Steps
+  startOffset: 5121
+  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=5121
+  endOffset: 5097
 ---
 
 Links:

@@ -1470,6 +1470,121 @@ intro: How do you run hackathons and scale MLH‑style open source fellowships w
   for organizing hackathons, onboarding contributors, and scaling MLH‑style open source
   fellowships so your program produces real contributions and sustainable community
   growth.
+dateadded: '2025-05-26'
+duration: PT01H01M29S
+quotableClips:
+- name: Episode Opening & Guest Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=0
+  endOffset: 201
+- name: 'Video Production Setup: Camera, Lens & Webcam Workflow'
+  startOffset: 201
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=201
+  endOffset: 343
+- name: 'Audio Setup: Microphone, Preamp & Pop Filtering'
+  startOffset: 343
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=343
+  endOffset: 415
+- name: 'Lighting Strategy: 45° Key Light & Background Separation'
+  startOffset: 415
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=415
+  endOffset: 641
+- name: Early Career & Hackathon Discovery
+  startOffset: 641
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=641
+  endOffset: 706
+- name: 'Hackathons as Learning: Git, Teamwork & Building Projects'
+  startOffset: 706
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=706
+  endOffset: 736
+- name: 'Open Source Education Programs: Path from Contract to Full-Time'
+  startOffset: 736
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=736
+  endOffset: 964
+- name: 'Organizing Hackathons: Leadership, Coordination & Soft Skills'
+  startOffset: 964
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=964
+  endOffset: 1207
+- name: 'Career Trade-offs: Maintaining Technical Depth vs. Community Work'
+  startOffset: 1207
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=1207
+  endOffset: 1322
+- name: Role Variety at Small Companies vs. Specialized Teams
+  startOffset: 1322
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=1322
+  endOffset: 1398
+- name: 'Running Hackathons: Format, Online Tools & Office Hours'
+  startOffset: 1398
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=1398
+  endOffset: 1526
+- name: 'Judging Strategies: Scoring Matrices, Categories & Tie-Breakers'
+  startOffset: 1526
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=1526
+  endOffset: 1574
+- name: Sponsor-Driven Challenges & Themed Categories
+  startOffset: 1574
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=1574
+  endOffset: 1784
+- name: 'Case Study — Willmojis: Image Recognition, Font Generation & Demo'
+  startOffset: 1784
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=1784
+  endOffset: 2019
+- name: 'Major League Hacking (MLH): Community Support & Rep Experience'
+  startOffset: 2019
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2019
+  endOffset: 2143
+- name: 'MLH Fellowship: Mentorship Model & Contributing to Large Repos'
+  startOffset: 2143
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2143
+  endOffset: 2342
+- name: 'Contribution Best Practices: PR Quality, Git Skills & Onboarding'
+  startOffset: 2342
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2342
+  endOffset: 2476
+- name: 'Onboarding Complex Projects: Environment Setup & Maintainer Collaboration'
+  startOffset: 2476
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2476
+  endOffset: 2620
+- name: Hardware Constraints & Cloud Workarounds (Colab, VMs)
+  startOffset: 2620
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2620
+  endOffset: 2762
+- name: 'Program Scalability: Repeatability, Budgets & AI Opportunities'
+  startOffset: 2762
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2762
+  endOffset: 2890
+- name: 'Fellowship Accessibility: Students, Career Changers & Motivation'
+  startOffset: 2890
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2890
+  endOffset: 2954
+- name: 'Developer Advocacy at Kestra: Documentation, Demos & Outreach'
+  startOffset: 2954
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2954
+  endOffset: 3109
+- name: 'Content Workflow: Bullet Points, Demos & Collaboration with Writers'
+  startOffset: 3109
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3109
+  endOffset: 3220
+- name: 'Video Strategy: Define Goal, Maintain Pace & Full Walkthroughs'
+  startOffset: 3220
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3220
+  endOffset: 3270
+- name: 'Feature Demo Example: "After Execution" Notifications in Workflows'
+  startOffset: 3270
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3270
+  endOffset: 3442
+- name: 'Learn with Kestra Series: Tool Tutorials (Docker, Postgres, Git)'
+  startOffset: 3442
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3442
+  endOffset: 3599
+- name: 'Leadership & Team Empowerment Recommendation: "Turn the Ship Around"'
+  startOffset: 3599
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3599
+  endOffset: 3689
+- name: Episode Closing & Call to Explore Kestra Content
+  startOffset: 3689
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3689
+  endOffset: 3689
 ---
 
 Links:

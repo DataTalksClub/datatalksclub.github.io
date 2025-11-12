@@ -1238,6 +1238,105 @@ intro: Struggling to break into impactful AI work—what volunteer projects, hac
   tips, and how to build a research network. Tune in to learn concrete steps to boost
   your AI career through open‑source volunteering, smarter hackathon participation,
   and better data sourcing.
+dateadded: '2024-02-29'
+duration: PT00H59M34S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=0
+  endOffset: 103
+- name: 'Episode Overview: Volunteering, Open Source & Community Impact'
+  startOffset: 103
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=103
+  endOffset: 157
+- name: 'Career Origins: Early AI Interest and Education Path'
+  startOffset: 157
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=157
+  endOffset: 266
+- name: 'Academic Focus: Big Data Specialization and Computer Vision'
+  startOffset: 266
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=266
+  endOffset: 346
+- name: 'PhD Research: Multimodal Learning for COVID-19 & Medical Imaging'
+  startOffset: 346
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=346
+  endOffset: 473
+- name: 'Google PhD Fellowship: Application Strategy and Benefits'
+  startOffset: 473
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=473
+  endOffset: 668
+- name: 'Volunteer Projects Overview: PTSD Chatbot and Trash Detection Cases'
+  startOffset: 668
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=668
+  endOffset: 849
+- name: 'Medical Imaging Project: Cervical Spine Segmentation Work'
+  startOffset: 849
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=849
+  endOffset: 965
+- name: 'Data Sourcing Techniques: Open Images and Creative Collection'
+  startOffset: 965
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=965
+  endOffset: 1068
+- name: 'Opportunity Hunting: LinkedIn, Social Media, and Mailing Lists'
+  startOffset: 1068
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=1068
+  endOffset: 1225
+- name: 'Productivity Tips: Curated Feeds and Managing Social Media Time'
+  startOffset: 1225
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=1225
+  endOffset: 1424
+- name: 'Platform Differences: Omdena vs. Fruit Punch AI Collaboration Models'
+  startOffset: 1424
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=1424
+  endOffset: 1585
+- name: 'Joining Challenges: Beginner Support, Roles, and Team Dynamics'
+  startOffset: 1585
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=1585
+  endOffset: 1622
+- name: 'Women-Led AI Groups: Community Formation and Project Workflow'
+  startOffset: 1622
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=1622
+  endOffset: 1871
+- name: 'Hackathon Case Study: Medical Imaging Solution, Mentors, and Deliverables'
+  startOffset: 1871
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=1871
+  endOffset: 2192
+- name: 'Hackathon Strategy: Understanding Judges, Criteria, and Positioning'
+  startOffset: 2192
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=2192
+  endOffset: 2387
+- name: 'MVP Mindset: Overcoming Data and Compute Constraints'
+  startOffset: 2387
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=2387
+  endOffset: 2527
+- name: 'Data Creativity: Generative AI, Research, and Team Composition'
+  startOffset: 2527
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=2527
+  endOffset: 2724
+- name: 'Building a Research Network: Finding and Following Researchers on Twitter'
+  startOffset: 2724
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=2724
+  endOffset: 2922
+- name: 'Applying to Volunteer Projects: Interview Pitching and Relevant Skills'
+  startOffset: 2922
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=2922
+  endOffset: 3081
+- name: 'Volunteer Outcomes: Practical Experience, Referrals, and Soft Skills'
+  startOffset: 3081
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=3081
+  endOffset: 3365
+- name: 'Roles for Data Engineers: Data Preparation, Pipelines, and Dashboards'
+  startOffset: 3365
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=3365
+  endOffset: 3497
+- name: 'Opportunity Sources: WIML, Conference Feeds, and Newsletters'
+  startOffset: 3497
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=3497
+  endOffset: 3624
+- name: Closing Remarks and How to Connect
+  startOffset: 3624
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=3624
+  endOffset: 3574
 ---
 
 Links:

@@ -1,5 +1,6 @@
 ---
-title: 'Switch to Computer Vision & Deep Learning: Roadmap, Kaggle Projects, Mentors & Interview Prep'
+title: 'Switch to Computer Vision & Deep Learning: Roadmap, Kaggle Projects, Mentors
+  & Interview Prep'
 short: From Physics to Machine Learning
 guests:
 - tatianagabruseva
@@ -1129,6 +1130,113 @@ intro: How do you switch into computer vision and deep learning from a non‑ind
   burnout. Listen for concrete steps to build portfolio projects, prepare for interviews,
   and connect with the data science community to accelerate a switch into computer
   vision and deep learning.
+dateadded: '2021-05-14'
+duration: PT01H06M13S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=0
+  endOffset: 117
+- name: 'Career origin: physics PhD to computer vision deep learning'
+  startOffset: 117
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=117
+  endOffset: 152
+- name: 'Transition catalyst: maternity leave, online courses and internship'
+  startOffset: 152
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=152
+  endOffset: 260
+- name: 'Career-change summary: sharing a Twitter thread of practical lessons'
+  startOffset: 260
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=260
+  endOffset: 347
+- name: 'Network makeover: building supportive data science circles'
+  startOffset: 347
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=347
+  endOffset: 470
+- name: Overcoming fears and age stereotypes in career change
+  startOffset: 470
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=470
+  endOffset: 533
+- name: 'Eliminating distractions: focused time management during maternity leave'
+  startOffset: 533
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=533
+  endOffset: 649
+- name: 'Impostor syndrome remedy: interviews and mock interviewing practice'
+  startOffset: 649
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=649
+  endOffset: 892
+- name: 'Selective attention: focusing on positive signals and mentors'
+  startOffset: 892
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=892
+  endOffset: 956
+- name: 'Team building: finding teammates for Kaggle competitions and papers'
+  startOffset: 956
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=956
+  endOffset: 1264
+- name: 'Prioritization: Pareto principle, outsourcing and avoiding perfectionism'
+  startOffset: 1264
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=1264
+  endOffset: 1425
+- name: 'Mental rehearsal: initial creation, visualization and Sankalpa technique'
+  startOffset: 1425
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=1425
+  endOffset: 1688
+- name: 'Mentorship strategies: finding and nurturing long-term mentors'
+  startOffset: 1688
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=1688
+  endOffset: 1902
+- name: 'Boundary setting: learning to say no and protect your time'
+  startOffset: 1902
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=1902
+  endOffset: 2065
+- name: 'Embracing failure: treating setbacks as growth opportunities'
+  startOffset: 2065
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=2065
+  endOffset: 2250
+- name: 'Self-care tactics: sleep, support systems and avoiding burnout'
+  startOffset: 2250
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=2250
+  endOffset: 2554
+- name: 'Kaggle vs internships and Omdena-style projects: pros and cons'
+  startOffset: 2554
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=2554
+  endOffset: 2800
+- name: 'End-to-end pet projects: data collection, labeling, deployment and Docker'
+  startOffset: 2800
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=2800
+  endOffset: 2969
+- name: 'Learning roadmap: Python, ML/DL courses, SQL, algorithms and system design'
+  startOffset: 2969
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=2969
+  endOffset: 3220
+- name: 'Starting Kaggle with minimal Python: practical beginner advice'
+  startOffset: 3220
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=3220
+  endOffset: 3284
+- name: 'Improving focus: meditation, analytical practice and achieving flow'
+  startOffset: 3284
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=3284
+  endOffset: 3476
+- name: 'Astroinformatics overview: ML applications in astronomy'
+  startOffset: 3476
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=3476
+  endOffset: 3569
+- name: 'Physics background advantage: math, problem solving and modeling'
+  startOffset: 3569
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=3569
+  endOffset: 3753
+- name: 'Leaving academia: lab constraints, maternity leaves and cloud credits'
+  startOffset: 3753
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=3753
+  endOffset: 3874
+- name: 'Interview preparation: LeetCode, mock interviews and system design prep'
+  startOffset: 3874
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=3874
+  endOffset: 4058
+- name: 'Where to connect: LinkedIn, Twitter and DataTalks.Club follow-up'
+  startOffset: 4058
+  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=4058
+  endOffset: 3973
 ---
 
 Links:

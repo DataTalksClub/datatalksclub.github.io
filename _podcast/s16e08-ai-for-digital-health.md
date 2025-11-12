@@ -1063,6 +1063,121 @@ intro: How do you build and scale a digital clinic that blends AI-driven skin he
   in digital clinic design, AI skin health, telemedicine implementation, or launching
   an AR MVP will find actionable tactics and lessons to apply to product-market fit,
   data strategy, and go-to-market execution.
+dateadded: '2023-12-03'
+duration: PT00H52M27S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=0
+  endOffset: 49
+- name: 'Career Journey: From Electrical Engineering to Founding SQIN'
+  startOffset: 49
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=49
+  endOffset: 125
+- name: 'Founder Approach: Industry Immersion, MVP Development'
+  startOffset: 125
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=125
+  endOffset: 250
+- name: 'Why Healthcare: Digitization Opportunity in Medical Systems'
+  startOffset: 250
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=250
+  endOffset: 307
+- name: 'Healthcare Challenges: Data Gaps, Rural Access, and Legacy Workflows'
+  startOffset: 307
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=307
+  endOffset: 371
+- name: 'Legacy Infrastructure: Fax, Fragmentation, and Slow Adoption'
+  startOffset: 371
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=371
+  endOffset: 493
+- name: 'Regional Perspective: Access Issues in Southern Brandenburg'
+  startOffset: 493
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=493
+  endOffset: 740
+- name: 'Market Research Tactics: Cold Outreach, Accelerators, Clinical Meetings'
+  startOffset: 740
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=740
+  endOffset: 775
+- name: 'AR MVP: Lipstick Try-On as a Data Collection & Engagement Tool'
+  startOffset: 775
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=775
+  endOffset: 949
+- name: 'Discovery: Skin Health Signals Hidden in Lifestyle Interactions'
+  startOffset: 949
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=949
+  endOffset: 1107
+- name: 'Founder Lessons: Experimentation, Pivoting, and Plan B Flexibility'
+  startOffset: 1107
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=1107
+  endOffset: 1292
+- name: 'Product-Market Fit: Aligning AI Capabilities with Business Cases'
+  startOffset: 1292
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=1292
+  endOffset: 1420
+- name: 'SQIN Product: Digital Clinic Flow from Diagnosis to Prescription'
+  startOffset: 1420
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=1420
+  endOffset: 1448
+- name: 'Ethics & UX: Sensitive AI Messaging and Inclusive Design'
+  startOffset: 1448
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=1448
+  endOffset: 1665
+- name: 'Go-to-Market Strategy: Regional Focus, Limitations, and Fallbacks'
+  startOffset: 1665
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=1665
+  endOffset: 1783
+- name: 'Data Strategy: Leveraging Community Reach to Bootstrap Datasets'
+  startOffset: 1783
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=1783
+  endOffset: 1844
+- name: 'Community Productization: Daily Lifestyle Integration & Retention'
+  startOffset: 1844
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=1844
+  endOffset: 1960
+- name: 'Audience Expansion: Reaching Multiple Genders and Demographics'
+  startOffset: 1960
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=1960
+  endOffset: 2157
+- name: 'Telemedicine Impact: Remote Follow-Up, Prescriptions, and Efficiency'
+  startOffset: 2157
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=2157
+  endOffset: 2285
+- name: 'Feedback Loops: Support Channels and User Bug Reporting'
+  startOffset: 2285
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=2285
+  endOffset: 2370
+- name: 'Personalization: Archetypes, Gamification, and Educational Content'
+  startOffset: 2370
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=2370
+  endOffset: 2492
+- name: 'Company Growth: Team Size, Hiring Needs (AI, Full-Stack, Backend)'
+  startOffset: 2492
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=2492
+  endOffset: 2624
+- name: 'Fundraising: Proving Profitability and Technical Credibility to Investors'
+  startOffset: 2624
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=2624
+  endOffset: 2768
+- name: 'Monetization: SaaS Integrations, Partnerships, and E‑commerce Cuts'
+  startOffset: 2768
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=2768
+  endOffset: 2879
+- name: 'Leadership Structure: First Hires and Product vs. CEO Roles'
+  startOffset: 2879
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=2879
+  endOffset: 2914
+- name: 'Work-Life Integration: Parenting While Building a Startup'
+  startOffset: 2914
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=2914
+  endOffset: 3067
+- name: 'Cultural Upside: Entrepreneurial Mindset Passed to Children'
+  startOffset: 3067
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=3067
+  endOffset: 3138
+- name: Closing Remarks and Next Steps
+  startOffset: 3138
+  url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=3138
+  endOffset: 3147
 ---
 
 Links:

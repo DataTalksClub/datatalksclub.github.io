@@ -1056,6 +1056,98 @@ intro: How can knowledge graphs and large language models (LLMs) be combined to 
   project), parsing papers into graphs, deployment and frontend considerations, and
   recommended graph ML learning resources—valuable for engineers and data scientists
   working on crash simulation, knowledge graphs, and RAG workflows.
+dateadded: '2024-04-07'
+duration: PT00H59M24S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=0
+  endOffset: 100
+- name: 'Guest Bio: career path from mechanical engineering to applied AI'
+  startOffset: 100
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=100
+  endOffset: 177
+- name: Guest Background & Career Transition
+  startOffset: 177
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=177
+  endOffset: 337
+- name: Applied Mechanics & Finite Element Analysis (FEA) overview
+  startOffset: 337
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=337
+  endOffset: 485
+- name: 'FEA vs Machine Learning: numerical modeling vs data-driven approaches'
+  startOffset: 485
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=485
+  endOffset: 530
+- name: Optimization, Topology & Semantic Reporting in crash simulations
+  startOffset: 530
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=530
+  endOffset: 958
+- name: 'Knowledge Graphs for Automotive R&D: motivation and Neo4j adoption'
+  startOffset: 958
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=958
+  endOffset: 1232
+- name: 'Graph vs Tabular Representations: visualization, clustering, load-path detection'
+  startOffset: 1232
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=1232
+  endOffset: 1575
+- name: From Knowledge Graphs to Computational Graphs (NetworkX & graph analytics)
+  startOffset: 1575
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=1575
+  endOffset: 1680
+- name: 'Graph Data Science & Graph ML: similarity measures and SimRank'
+  startOffset: 1680
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=1680
+  endOffset: 2023
+- name: 'Combining Knowledge Graphs & LLMs: grounding and retrieval-augmented generation
+    (RAG)'
+  startOffset: 2023
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=2023
+  endOffset: 2290
+- name: Text Chunking, Embeddings & Vector Databases vs Knowledge Graph Semantics
+  startOffset: 2290
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=2290
+  endOffset: 2396
+- name: Prompt Templates & KG-driven Retrieval (Cypher-based examples)
+  startOffset: 2396
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=2396
+  endOffset: 2423
+- name: 'RAG vs Transfer Learning: embeddings, fine-tuning, and distinctions'
+  startOffset: 2423
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=2423
+  endOffset: 2562
+- name: Trust, Hallucination & Verification Limits of LLM-extracted Knowledge
+  startOffset: 2562
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=2562
+  endOffset: 2653
+- name: 'ADPT-LRN-PHYS Project Overview: LLM + KG for adaptive learning and paper
+    reading'
+  startOffset: 2653
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=2653
+  endOffset: 2830
+- name: 'Paper Parsing & KG Visualization: sections, keywords, PageRank and reference
+    mapping'
+  startOffset: 2830
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=2830
+  endOffset: 3258
+- name: 'Project Challenges: automating graph generation and scoping the demo'
+  startOffset: 3258
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=3258
+  endOffset: 3336
+- name: 'Deployment & Frontend Issues: Streamlit limits and state management for graph
+    UIs'
+  startOffset: 3336
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=3336
+  endOffset: 3466
+- name: 'Learning Resources: graph ML courses, Jure Leskovec, Graph Conference and
+    KG+LLM courses'
+  startOffset: 3466
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=3466
+  endOffset: 3641
+- name: Episode Conclusion and Takeaways
+  startOffset: 3641
+  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=3641
+  endOffset: 3564
 ---
 
 Links:

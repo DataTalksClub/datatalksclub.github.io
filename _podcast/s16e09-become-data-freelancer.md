@@ -1195,6 +1195,117 @@ intro: 'How do you move from corporate data roles into a sustainable freelance d
   seeking practical guidance on pricing, outreach, contracts and risk.'
 description: 'Launch your data freelancer career: pricing, outreach & contracts tactics,
   client vetting, legal risk and runway tips to win steady projects.'
+dateadded: '2023-12-09'
+duration: PT00H59M49S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 91
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=91
+  endOffset: 140
+- name: 'Career Path: From Marketing to Data'
+  startOffset: 140
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=140
+  endOffset: 184
+- name: 'Startup Experience: Translation, SQL & User Analysis'
+  startOffset: 184
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=184
+  endOffset: 343
+- name: 'Corporate Analytics: Hewlett Packard Sales BI & KPIs'
+  startOffset: 343
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=343
+  endOffset: 458
+- name: 'Education & Transition: UCL Master''s to Data Scientist'
+  startOffset: 458
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=458
+  endOffset: 548
+- name: 'Consulting Exposure: Google Partner & Consulting Foundations'
+  startOffset: 548
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=548
+  endOffset: 685
+- name: 'Motivation to Freelance: Frustration, Freedom & Purpose'
+  startOffset: 685
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=685
+  endOffset: 809
+- name: 'Making the Leap: Resignation, Outreach & Early Leads'
+  startOffset: 809
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=809
+  endOffset: 953
+- name: 'Market Research: Cold Outreach to Established Freelancers'
+  startOffset: 953
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=953
+  endOffset: 1042
+- name: 'Practical Setup: Mentors, Registration & Logistics'
+  startOffset: 1042
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=1042
+  endOffset: 1100
+- name: 'Recruiter Channels: Engaging Agencies Before Launch'
+  startOffset: 1100
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=1100
+  endOffset: 1270
+- name: 'Contracting Risks: Dependent Contractor & Legal Considerations'
+  startOffset: 1270
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=1270
+  endOffset: 1524
+- name: 'Pricing Strategy: Platforms, Recruiters & Rate Benchmarking'
+  startOffset: 1524
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=1524
+  endOffset: 1927
+- name: 'Client Relationships: Building Referrals & Long-Term Pipeline'
+  startOffset: 1927
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=1927
+  endOffset: 2024
+- name: 'Proactive Outreach: Creative Self-Marketing Tactics'
+  startOffset: 2024
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=2024
+  endOffset: 2137
+- name: 'Independence & Offerings: Freelance Business Model Explained'
+  startOffset: 2137
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=2137
+  endOffset: 2230
+- name: 'Contract Formats: Platform Terms vs Direct Agreements'
+  startOffset: 2230
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=2230
+  endOffset: 2330
+- name: 'Direct Client Work: Project Pricing, Subcontracting & Cutting the Middleman'
+  startOffset: 2330
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=2330
+  endOffset: 2621
+- name: 'Vetting Clients: Ratings, Company Research & Payment Assurance'
+  startOffset: 2621
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=2621
+  endOffset: 2785
+- name: 'Payment Challenges: Corporate Bureaucracy & Delays'
+  startOffset: 2785
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=2785
+  endOffset: 2905
+- name: 'Transition Paths: Weekend, Part-Time & Full-Time Approaches'
+  startOffset: 2905
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=2905
+  endOffset: 3040
+- name: 'Running the Business: Income Variability, Risk & Purpose'
+  startOffset: 3040
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=3040
+  endOffset: 3251
+- name: 'Financial Planning: Recommended Runway Before Quitting'
+  startOffset: 3251
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=3251
+  endOffset: 3301
+- name: 'Common Pitfalls: Mispositioning, Mispricing & False Expectations'
+  startOffset: 3301
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=3301
+  endOffset: 3454
+- name: 'Learning Resources: Marketing Courses, Mentors & Newsletters'
+  startOffset: 3454
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=3454
+  endOffset: 3651
+- name: 'Follow-Up: The Data Freelancer Newsletter & Contact Channels'
+  startOffset: 3651
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=3651
+  endOffset: 3667
+- name: Episode Wrap-Up
+  startOffset: 3667
+  url: https://www.youtube.com/watch?v=R_EnSa9aZtE&t=3667
+  endOffset: 3589
 ---
 Links:
 

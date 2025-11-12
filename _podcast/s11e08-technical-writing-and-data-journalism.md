@@ -1003,6 +1003,117 @@ intro: 'How do you turn messy, hard-to-find data into clear, accountable journal
   between Python scripting and Tableau, and curated learning resources. Listen to
   learn actionable methods for reliable data sourcing, effective data storytelling,
   and clean data visualization you can apply to reporting projects.'
+dateadded: '2022-11-26'
+duration: PT01H01M37S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=0
+  endOffset: 113
+- name: 'Guest Introduction: Angelica Lo Duca, researcher & professor'
+  startOffset: 113
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=113
+  endOffset: 149
+- name: 'Career Journey: Cryptography to Web Applications and Data Science'
+  startOffset: 149
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=149
+  endOffset: 281
+- name: 'Data Engineering Research Interests: security and data integrity'
+  startOffset: 281
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=281
+  endOffset: 357
+- name: 'Writing Portfolio: novels, technical articles, and Comet for Data Science'
+  startOffset: 357
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=357
+  endOffset: 404
+- name: 'Query Engines: Presto, Trino, and real-world migrations'
+  startOffset: 404
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=404
+  endOffset: 463
+- name: 'Defining Data Journalism: data-driven news vs. storytelling'
+  startOffset: 463
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=463
+  endOffset: 481
+- name: 'Data Journalism vs Data Science: accuracy, methods, and scope'
+  startOffset: 481
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=481
+  endOffset: 671
+- name: 'Investigative Examples: Washington Post and international projects'
+  startOffset: 671
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=671
+  endOffset: 911
+- name: 'Data Sourcing Challenges: finding small, accurate datasets on the web'
+  startOffset: 911
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=911
+  endOffset: 973
+- name: 'Teaching Shift: how Angelica started teaching data journalism'
+  startOffset: 973
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=973
+  endOffset: 1129
+- name: 'Course Audience: digital humanities students and interdisciplinary skills'
+  startOffset: 1129
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=1129
+  endOffset: 1213
+- name: 'Tool Choices: Python scripting vs. Tableau for data journalism'
+  startOffset: 1213
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=1213
+  endOffset: 1283
+- name: 'Learning Resources: Coursera and recommended readings'
+  startOffset: 1283
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=1283
+  endOffset: 1475
+- name: 'Defining Technical Writing: how-to guides, clarity, and audience focus'
+  startOffset: 1475
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=1475
+  endOffset: 1759
+- name: 'From Reports to Stories: converting survey PDFs into narratives'
+  startOffset: 1759
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=1759
+  endOffset: 1945
+- name: 'Adding Context & Wisdom: framing data with meaning and calls to action'
+  startOffset: 1945
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=1945
+  endOffset: 2180
+- name: 'Visualization Guidelines: one concept per chart; tables when clearer'
+  startOffset: 2180
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=2180
+  endOffset: 2306
+- name: 'Visualization Pitfalls: why to avoid pie charts and confusing graphics'
+  startOffset: 2306
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=2306
+  endOffset: 2352
+- name: 'Article Length & Formats: short Medium posts and the Syntax Error publication'
+  startOffset: 2352
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=2352
+  endOffset: 2447
+- name: 'Article Workflow: problem → solution → result, with code repos'
+  startOffset: 2447
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=2447
+  endOffset: 2620
+- name: 'Topic Sourcing: personal problems, social media, and community signals'
+  startOffset: 2620
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=2620
+  endOffset: 2735
+- name: 'Path to a Book: publisher outreach and acquisition editor contact'
+  startOffset: 2735
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=2735
+  endOffset: 3019
+- name: 'Book Contract & Schedule: chapter timelines, pacing, and holidays'
+  startOffset: 3019
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=3019
+  endOffset: 3257
+- name: 'Market Research & Audience: proposal, state-of-the-art, and level targeting'
+  startOffset: 3257
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=3257
+  endOffset: 3609
+- name: 'Editing & Reviews: reviewer feedback, overlapping revisions, and organization'
+  startOffset: 3609
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=3609
+  endOffset: 3743
+- name: 'Episode Wrap-Up: final questions and closing remarks'
+  startOffset: 3743
+  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=3743
+  endOffset: 3697
 ---
 
 Links:

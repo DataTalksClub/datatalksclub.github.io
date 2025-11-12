@@ -1053,6 +1053,117 @@ intro: 'Facing a career change into data science but unsure how to structure you
   part‑time transition tactics, and assessment tools to align strengths and interests.
   Listen to gain an actionable job search framework, templates for outreach and interviews,
   and resources to accelerate a successful data science career change.'
+dateadded: '2024-02-03'
+duration: PT01H26S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=0
+  endOffset: 171
+- name: Guest Introduction & Coaching Mission
+  startOffset: 171
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=171
+  endOffset: 240
+- name: 'Career Path: Computer Science, Full-Stack to Data Science'
+  startOffset: 240
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=240
+  endOffset: 339
+- name: AdTech Experience & Thriving Career Moms Project
+  startOffset: 339
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=339
+  endOffset: 405
+- name: 'Becoming a Career Coach: Community, Mentorship, First Mentees'
+  startOffset: 405
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=405
+  endOffset: 567
+- name: 'Client Profiles: Career Changers and Return-to-Work Support'
+  startOffset: 567
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=567
+  endOffset: 659
+- name: 'Four-Pillar Job Search Framework: Goals, Networking, CV, Strategy'
+  startOffset: 659
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=659
+  endOffset: 870
+- name: 'Defining Your Ideal Role: Tasks, Skills, and Future Vision'
+  startOffset: 870
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=870
+  endOffset: 907
+- name: 'Job Research: Role Analysis and Informational Interviews'
+  startOffset: 907
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=907
+  endOffset: 1072
+- name: 'Choosing a Specialization: ML Engineering, Data Engineering, MLOps'
+  startOffset: 1072
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=1072
+  endOffset: 1201
+- name: 'Narrowing Focus: Aligning Skills, Interests, and Market Demand'
+  startOffset: 1201
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=1201
+  endOffset: 1588
+- name: 'Courses vs Projects: Validate Skills Through Practical Work'
+  startOffset: 1588
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=1588
+  endOffset: 1775
+- name: 'Target Company Selection: Build a Top-5 Company List'
+  startOffset: 1775
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=1775
+  endOffset: 1900
+- name: 'Networking Value: Weak Ties, Referrals, and Opportunity Sources'
+  startOffset: 1900
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=1900
+  endOffset: 1937
+- name: 'Informational Interview Best Practices: Outreach and Preparation'
+  startOffset: 1937
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=1937
+  endOffset: 2058
+- name: 'Crafting Outreach Messages: Personalization and Short Asks'
+  startOffset: 2058
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=2058
+  endOffset: 2170
+- name: 'Key Informational Interview Questions: Day-to-Day & Success Factors'
+  startOffset: 2170
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=2170
+  endOffset: 2272
+- name: 'Building Mutual Value: Offer Help and Maintain Relationships'
+  startOffset: 2272
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=2272
+  endOffset: 2477
+- name: 'Networking Action Plan: Weekly Outreach and Re-engagement'
+  startOffset: 2477
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=2477
+  endOffset: 2705
+- name: 'Resume Strategy: Prioritizing Projects, Skills, and Storytelling'
+  startOffset: 2705
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=2705
+  endOffset: 2852
+- name: 'Self-Research Methods: Company Analysis and Skill Matching'
+  startOffset: 2852
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=2852
+  endOffset: 2958
+- name: 'Strength & Interest Assessments: Gallup, HIGH5, MyNextMove'
+  startOffset: 2958
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=2958
+  endOffset: 3008
+- name: 'Part-Time Work Strategy: Timing, Negotiation, and Flexibility'
+  startOffset: 3008
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=3008
+  endOffset: 3210
+- name: 'Age and Career Change: Emphasize Results and Transferable Skills'
+  startOffset: 3210
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=3210
+  endOffset: 3358
+- name: 'Applying During Courses: Share Learnings and Build Visibility'
+  startOffset: 3358
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=3358
+  endOffset: 3626
+- name: 'Recommended Resources: Tests, Books, Podcasts, MyNextMove'
+  startOffset: 3626
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=3626
+  endOffset: 3722
+- name: 'Follow-Up & Support: Links, Slack, and Further Questions'
+  startOffset: 3722
+  url: https://www.youtube.com/watch?v=PchwbIs0tOg&t=3722
+  endOffset: 3626
 ---
 
 Links:

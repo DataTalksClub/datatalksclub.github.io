@@ -1300,6 +1300,125 @@ transcript:
   who: Jeff
 description: 'Master data engineering and SQL with a bootcamp curriculum: employer-validated
   projects, cloud basics, SQL window functions & interview prep for junior roles.'
+dateadded: '2022-05-16'
+duration: PT01H31S
+quotableClips:
+- name: Episode Overview & Guest Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=0
+  endOffset: 80
+- name: 'Guest Background: Lawyer → Developer → Educator'
+  startOffset: 80
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=80
+  endOffset: 236
+- name: Active Learning & Continuous Student Feedback (teaching methods)
+  startOffset: 236
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=236
+  endOffset: 392
+- name: 'Education as Social Impact: Training, Refugees, Last-mile'
+  startOffset: 392
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=392
+  endOffset: 522
+- name: 'Early Bootcamps: General Assembly and Flatiron School Origins'
+  startOffset: 522
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=522
+  endOffset: 598
+- name: 'Curriculum Development: Market Research & Employer Validation'
+  startOffset: 598
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=598
+  endOffset: 704
+- name: 'Lesson Structure: Syllabi, Labs, Reinforcement Cycles'
+  startOffset: 704
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=704
+  endOffset: 870
+- name: 'Pedagogy: Conceptual Understanding Before Implementation'
+  startOffset: 870
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=870
+  endOffset: 924
+- name: 'Market Shift: Why Data Science Moved Toward Data Engineering'
+  startOffset: 924
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=924
+  endOffset: 1018
+- name: 'Building a School: Affordability, Part-time Model, Career Services'
+  startOffset: 1018
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=1018
+  endOffset: 1218
+- name: 'Lowering Barriers: Workshops, Part-time Pathways, Admissions'
+  startOffset: 1218
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=1218
+  endOffset: 1415
+- name: 'Data Engineering Core Skills: Python, SQL, Cloud Fundamentals'
+  startOffset: 1415
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=1415
+  endOffset: 1600
+- name: 'Ensuring Hires: Admissions Criteria, Curriculum-Employer Fit, Follow-up'
+  startOffset: 1600
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=1600
+  endOffset: 1661
+- name: 'Mid-Program Internships: Employer Projects for Real Experience'
+  startOffset: 1661
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=1661
+  endOffset: 1832
+- name: 'Applicant Screening: Technical Interview & Learning Agility'
+  startOffset: 1832
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=1832
+  endOffset: 1985
+- name: 'Interview Practice: Apply Early, Learn from Rejection'
+  startOffset: 1985
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=1985
+  endOffset: 2178
+- name: 'Analytics Engineering Module: DBT, Snowflake, Mode, Fivetran'
+  startOffset: 2178
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=2178
+  endOffset: 2261
+- name: 'Backend Engineering Module: Flask, ETL, Codebase Navigation, Testing'
+  startOffset: 2261
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=2261
+  endOffset: 2285
+- name: 'Curriculum Prioritization: Dropping Spark/Kafka/Kubernetes for Juniors'
+  startOffset: 2285
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=2285
+  endOffset: 2442
+- name: 'Transition Path: Data Analyst → Data Engineer (backend & cloud focus)'
+  startOffset: 2442
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=2442
+  endOffset: 2661
+- name: 'SQL Mastery: Window Functions & Medium LeetCode SQL Problems'
+  startOffset: 2661
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=2661
+  endOffset: 2714
+- name: 'Data Modeling Practice: OLTP vs OLAP and Sample Databases'
+  startOffset: 2714
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=2714
+  endOffset: 2880
+- name: 'Interview Stages: Screening Calls, SQL Tests, On-site Expectations'
+  startOffset: 2880
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=2880
+  endOffset: 2992
+- name: 'How to Start Teaching: Pick a Beginner Topic & Teach One Person'
+  startOffset: 2992
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=2992
+  endOffset: 3116
+- name: 'Delivery Tactics: In-Person vs Online Engagement and Sequencing'
+  startOffset: 3116
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=3116
+  endOffset: 3294
+- name: 'Running a Small School: Curriculum Volume and Time Management'
+  startOffset: 3294
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=3294
+  endOffset: 3406
+- name: 'Teaching Fundamentals vs Shiny Tech: 85% Python/SQL, 15% tools'
+  startOffset: 3406
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=3406
+  endOffset: 3571
+- name: 'Outcomes & Next Cohort: JigsawLabs Results and Start Date'
+  startOffset: 3571
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=3571
+  endOffset: 3621
+- name: 'Contact & Follow-up: Jeff Katz, Webinar on Getting Data Engineering Jobs'
+  startOffset: 3621
+  url: https://www.youtube.com/watch?v=dFo10l8B6Go&t=3621
+  endOffset: 3631
 ---
 
 Links:

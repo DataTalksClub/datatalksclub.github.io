@@ -1247,6 +1247,121 @@ intro: How can an early-stage startup ship ML features fast without getting lock
   moving quickly. This episode is for startup engineers and founders who need actionable
   guidance on lean MLOps, SaaS‑first approaches, vendor lock‑in avoidance, and building
   a resilient MVP stack.
+dateadded: '2025-03-15'
+duration: PT01H01M06S
+quotableClips:
+- name: Episode Introduction & Topic Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=0
+  endOffset: 135
+- name: 'Career Journey: Academia → Consulting → Finance Machine Learning Engineering'
+  startOffset: 135
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=135
+  endOffset: 363
+- name: 'Startup Pace: Agility, Speed, and Managerial Insights'
+  startOffset: 363
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=363
+  endOffset: 474
+- name: 'Lean MLOps: Shoestring Strategies for Early-Stage Companies'
+  startOffset: 474
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=474
+  endOffset: 714
+- name: 'SaaS-First Approach: Vendor Solutions for Small Teams'
+  startOffset: 714
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=714
+  endOffset: 774
+- name: 'Cloud Trade-offs: Startup Credits, Migration Friction, and Lock‑in'
+  startOffset: 774
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=774
+  endOffset: 906
+- name: 'Cloud Complexity: Infrastructure as Code and Operational Overhead'
+  startOffset: 906
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=906
+  endOffset: 1058
+- name: 'MVP Stack: Prioritizing Tools for Rapid Prototyping and Launch'
+  startOffset: 1058
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=1058
+  endOffset: 1159
+- name: 'Portability vs Managed Services: Avoiding Vendor Lock‑In (Vertex AI, SageMaker)'
+  startOffset: 1159
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=1159
+  endOffset: 1295
+- name: 'Low‑Code Trade-offs: Speed vs Future Flexibility'
+  startOffset: 1295
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=1295
+  endOffset: 1342
+- name: 'Career Decision Framework: Choosing Startups or Corporations'
+  startOffset: 1342
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=1342
+  endOffset: 1650
+- name: 'End‑to‑End Ownership: Multidisciplinary Work in Startups'
+  startOffset: 1650
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=1650
+  endOffset: 1777
+- name: 'Corporate Processes: "Agile" vs Bureaucratic Planning Cycles'
+  startOffset: 1777
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=1777
+  endOffset: 1997
+- name: 'Platform & Frameworks: Automating Developer Workflows'
+  startOffset: 1997
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=1997
+  endOffset: 2072
+- name: 'Team Scale Advantages: Redundancy, Support, and Internal Mobility'
+  startOffset: 2072
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2072
+  endOffset: 2148
+- name: 'Startup Intensity: Learning Curve, Burnout Risk, and Rewards'
+  startOffset: 2148
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2148
+  endOffset: 2274
+- name: 'AI‑Assisted Coding: Productivity Gains and Technical Debt Risks'
+  startOffset: 2274
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2274
+  endOffset: 2401
+- name: 'Technical Debt Management: Notes, Awareness, and Security Implications'
+  startOffset: 2401
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2401
+  endOffset: 2592
+- name: 'Early‑Career Advice: Mentorship, Pairing, and Role Selection'
+  startOffset: 2592
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2592
+  endOffset: 2650
+- name: 'Minimal MLOps Stack: Python, CI/CD Orchestration, and Dagster'
+  startOffset: 2650
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2650
+  endOffset: 2755
+- name: 'Observability Choices: Logfire, Prometheus/Grafana, and Streamlit'
+  startOffset: 2755
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2755
+  endOffset: 2891
+- name: 'Product Modularity: Desire for Standalone Model Registries & Observability'
+  startOffset: 2891
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2891
+  endOffset: 2940
+- name: 'Skill Investment: Foundational Tools (Linux, Python, Bash) vs New Tech'
+  startOffset: 2940
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2940
+  endOffset: 3087
+- name: 'Market Signals for Learning: Job Postings, Airflow, and Targeted Skills'
+  startOffset: 3087
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=3087
+  endOffset: 3343
+- name: 'Data Engineering Reliability: Quality, Lineage, and LLM Unpredictability'
+  startOffset: 3343
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=3343
+  endOffset: 3429
+- name: 'On‑Premise vs Cloud: Privacy, Cost Efficiency, and Migration Strategy'
+  startOffset: 3429
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=3429
+  endOffset: 3609
+- name: 'Distributed Compute Alternatives: Dask, Spark, and Performance Trade‑offs'
+  startOffset: 3609
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=3609
+  endOffset: 3701
+- name: Closing Remarks and Next Steps
+  startOffset: 3701
+  url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=3701
+  endOffset: 3666
 ---
 
 Links:

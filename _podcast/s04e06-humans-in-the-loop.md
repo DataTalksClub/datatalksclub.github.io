@@ -1,5 +1,6 @@
 ---
-title: 'Master Human-Centered MLOps: Stakeholder Buy-In, Monitoring, Debugging & Incident Response'
+title: 'Master Human-Centered MLOps: Stakeholder Buy-In, Monitoring, Debugging & Incident
+  Response'
 short: Humans in the Loop
 guests:
 - linaweichbrodt
@@ -1104,4 +1105,120 @@ intro: 'How do you make MLOps human-centered so stakeholders actually trust mode
   observability practices, explainability vs debugging, and a credit-scoring case
   study to illustrate prioritization. Listen to learn repeatable, human-centered tactics
   for stakeholder buy-in, model monitoring, ML debugging, and incident response.'
+dateadded: '2021-08-01'
+duration: PT00H58M19S
+quotableClips:
+- name: 'Episode Introduction: Humans in the Loop — MLOps & human-centered ML'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=0
+  endOffset: 209
+- name: 'Guest Career Path: Lina Weichbrodt — business to ML engineering'
+  startOffset: 209
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=209
+  endOffset: 290
+- name: 'Project Intake Checklist: business case, KPIs, and alternative solutions'
+  startOffset: 290
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=290
+  endOffset: 583
+- name: 'Evaluate AI Necessity: quantify alternatives before modeling'
+  startOffset: 583
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=583
+  endOffset: 626
+- name: 'Problem Scoping: make business problems specific and UI-visible'
+  startOffset: 626
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=626
+  endOffset: 742
+- name: 'Stakeholder Engagement: pairing, availability, and buy‑in'
+  startOffset: 742
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=742
+  endOffset: 827
+- name: 'Communicating Across Teams: translating technical and business language'
+  startOffset: 827
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=827
+  endOffset: 907
+- name: 'Trust Building: domain understanding and helping with data issues'
+  startOffset: 907
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=907
+  endOffset: 1109
+- name: 'Addressing Concerns: convert stakeholder fears into mitigations and metrics'
+  startOffset: 1109
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=1109
+  endOffset: 1356
+- name: 'Demos vs Reporting: what stakeholders need to believe the solution works'
+  startOffset: 1356
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=1356
+  endOffset: 1474
+- name: 'Incident Preparedness: service levels and impact assessment with stakeholders'
+  startOffset: 1474
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=1474
+  endOffset: 1634
+- name: 'ML Incident Response: post‑mortems and ML‑specific recovery steps'
+  startOffset: 1634
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=1634
+  endOffset: 1763
+- name: Live Test Sets & Small A/B Tests for model monitoring and detection
+  startOffset: 1763
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=1763
+  endOffset: 1931
+- name: 'Root‑Cause Debugging: applying Five Whys to ML product issues'
+  startOffset: 1931
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=1931
+  endOffset: 2201
+- name: 'User Feedback Channels: internal bug reports and product QA processes'
+  startOffset: 2201
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2201
+  endOffset: 2232
+- name: 'Case Study: credit scoring surprises and interpreting feature importance'
+  startOffset: 2232
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2232
+  endOffset: 2300
+- name: 'Prioritizing Bugs: investigating widespread user complaints'
+  startOffset: 2300
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2300
+  endOffset: 2366
+- name: 'Post‑Mortem Evidence: facts, blameless analysis, and investigation steps'
+  startOffset: 2366
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2366
+  endOffset: 2523
+- name: 'Action Items: turning post‑mortems into tickets and process changes'
+  startOffset: 2523
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2523
+  endOffset: 2651
+- name: 'Explainability vs Debugging: when to use Explainable AI tools'
+  startOffset: 2651
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2651
+  endOffset: 2788
+- name: 'Data Monitoring: input distribution, unit changes, and feature drift'
+  startOffset: 2788
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2788
+  endOffset: 2840
+- name: 'Project Evaluation Tools: AI Canvas and online checklists'
+  startOffset: 2840
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2840
+  endOffset: 2968
+- name: 'Observability Practices: logging features, feature stores, and reproducibility'
+  startOffset: 2968
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2968
+  endOffset: 3030
+- name: 'End‑User Research: mystery shopping and direct user testing'
+  startOffset: 3030
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=3030
+  endOffset: 3159
+- name: 'Idea Sourcing: proposing ML projects vs refining stakeholder problems'
+  startOffset: 3159
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=3159
+  endOffset: 3289
+- name: 'Data Literacy: educating teams and community building inside companies'
+  startOffset: 3289
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=3289
+  endOffset: 3388
+- name: 'People Skills & Tactical Hacks: convincing stakeholders and improving data
+    quality'
+  startOffset: 3388
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=3388
+  endOffset: 3566
+- name: 'Wrap‑Up & Contact: where to find Lina and episode closing'
+  startOffset: 3566
+  url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=3566
+  endOffset: 3499
 ---

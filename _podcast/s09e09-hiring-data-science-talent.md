@@ -1288,6 +1288,93 @@ intro: 'How do you hire the right data scientists today—balancing algorithmic 
   diagnostic questions, and inclusive hiring tips—language to avoid in job posts and
   strategies to attract diverse candidates—so you can evaluate both technical depth
   and practical delivery capability.'
+dateadded: '2022-07-22'
+duration: PT00H58M12S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=0
+  endOffset: 104
+- name: 'Career Beginnings: Applied mathematics, forecasting, and consulting'
+  startOffset: 104
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=104
+  endOffset: 385
+- name: 'PhD Research: Air pollution modeling and conformal prediction'
+  startOffset: 385
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=385
+  endOffset: 510
+- name: 'Current Role: Leading delivery data science teams and startup support'
+  startOffset: 510
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=510
+  endOffset: 638
+- name: 'Evolution of Data Science: Skill changes and rise of MLOps'
+  startOffset: 638
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=638
+  endOffset: 889
+- name: 'Core Hiring Criteria: Technical excellence and growth mindset'
+  startOffset: 889
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=889
+  endOffset: 945
+- name: 'Technical Depth: Demonstrating algorithmic understanding and assumptions'
+  startOffset: 945
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=945
+  endOffset: 1083
+- name: 'Attitude & Motivation: Assessing passion, humility, and communication'
+  startOffset: 1083
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=1083
+  endOffset: 1216
+- name: 'Podcasting as Learning: Conversations that shape career perspectives'
+  startOffset: 1216
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=1216
+  endOffset: 1381
+- name: 'Staying Current: Sources for data science and engineering updates'
+  startOffset: 1381
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=1381
+  endOffset: 1521
+- name: 'Technical Interviews: Coding, analytical tasks, and objective criteria'
+  startOffset: 1521
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=1521
+  endOffset: 1712
+- name: 'Diagnostic Questions: Sample problems that reveal depth of knowledge'
+  startOffset: 1712
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=1712
+  endOffset: 1875
+- name: 'Foundational Skills: Descriptive statistics and recommended reading'
+  startOffset: 1875
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=1875
+  endOffset: 1952
+- name: 'Role Fit: Hiring for mathematical expertise versus engineering skills'
+  startOffset: 1952
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=1952
+  endOffset: 2264
+- name: 'AutoML & Automation: Limits of AutoML and the human-in-the-loop'
+  startOffset: 2264
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=2264
+  endOffset: 2529
+- name: 'Career Paths: Individual contributor vs management trade-offs'
+  startOffset: 2529
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=2529
+  endOffset: 2737
+- name: 'Career Transition: From data analyst to data scientist'
+  startOffset: 2737
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=2737
+  endOffset: 2826
+- name: 'Diversity Hiring: Strategies to attract female data science talent'
+  startOffset: 2826
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=2826
+  endOffset: 3233
+- name: 'Inclusive Job Posts: Language, requirements, and avoiding discouraging wording'
+  startOffset: 3233
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=3233
+  endOffset: 3391
+- name: 'Employment Gaps: Evaluating candidates with long CV breaks'
+  startOffset: 3391
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=3391
+  endOffset: 3553
+- name: Episode Wrap-up & Resources
+  startOffset: 3553
+  url: https://www.youtube.com/watch?v=Af9t9r2b0z0&t=3553
+  endOffset: 3492
 ---
 
 Links:

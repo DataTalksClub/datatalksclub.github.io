@@ -1105,4 +1105,108 @@ transcript:
   sec: 3650
   time: '1:00:50'
   who: Rahul
+dateadded: '2022-03-06'
+duration: PT00H59M31S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=0
+  endOffset: 116
+- name: 'Rahul''s Career Path: From ETL Developer to IoT Data Platform Lead'
+  startOffset: 116
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=116
+  endOffset: 212
+- name: ETL Foundations to Big Data and Open Source Tooling
+  startOffset: 212
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=212
+  endOffset: 292
+- name: 'Data Engineering Leadership: Stakeholder Management & Prioritization'
+  startOffset: 292
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=292
+  endOffset: 447
+- name: 'Technical Credibility: Hands-on Management and Code-Level Involvement'
+  startOffset: 447
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=447
+  endOffset: 534
+- name: 'Time Allocation: Balancing Individual Contributor Work with People Management'
+  startOffset: 534
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=534
+  endOffset: 669
+- name: 'Transition into Management: Business Acumen and Seeing the Bigger Picture'
+  startOffset: 669
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=669
+  endOffset: 795
+- name: 'Core Manager Traits: Empathy, Situational Awareness, and Quality Standards'
+  startOffset: 795
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=795
+  endOffset: 894
+- name: 'Continuous Learning: Evaluating New Tools and Prototypes (example: Prefect)'
+  startOffset: 894
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=894
+  endOffset: 992
+- name: 'Onboarding Challenges: Building Trust, Prioritization, and Delegation'
+  startOffset: 992
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=992
+  endOffset: 1395
+- name: 'Expectation Framework: Non‑Negotiable Deliverables vs. Stretch (Aspirational)
+    Goals'
+  startOffset: 1395
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=1395
+  endOffset: 1504
+- name: 'Measuring Success: Data Culture, Consumers Served, and Data Quality Metrics'
+  startOffset: 1504
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=1504
+  endOffset: 1684
+- name: 'Data Reconciliation: Detecting Losses Between Sources and Targets'
+  startOffset: 1684
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=1684
+  endOffset: 1741
+- name: 'GDPR Strategies: Dynamic Data Masking and Role-Based Access Control'
+  startOffset: 1741
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=1741
+  endOffset: 1850
+- name: 'Modeling at Scale: Moving from ETL to ELT, Data Lake, and Data Lineage'
+  startOffset: 1850
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=1850
+  endOffset: 2019
+- name: 'Manager Transition Advice: Prioritize Business Impact and Enable Team Growth'
+  startOffset: 2019
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2019
+  endOffset: 2138
+- name: 'Sustaining Relevance: Automate Monotony and Improve Throughput'
+  startOffset: 2138
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2138
+  endOffset: 2316
+- name: 'Essential Data Engineering Skills: SQL, Python, CI/CD, Cloud, and Ownership'
+  startOffset: 2316
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2316
+  endOffset: 2460
+- name: 'Interview Screening: Communicating Projects Clearly in Five Minutes'
+  startOffset: 2460
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2460
+  endOffset: 2688
+- name: 'Hiring Assessment: Hypotheticals, Leadership Traits, and Future Potential'
+  startOffset: 2688
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2688
+  endOffset: 2833
+- name: 'Top Hires: Due Diligence, Cultural Fit, and Assertiveness'
+  startOffset: 2833
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2833
+  endOffset: 2975
+- name: 'Filtering Buzzwords: Ask for Context, Alternatives, and Real Use Cases'
+  startOffset: 2975
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2975
+  endOffset: 3274
+- name: 'Advice for Students: Master DBMS, SQL, and Fundamentals Over Specific Tools'
+  startOffset: 3274
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=3274
+  endOffset: 3449
+- name: 'End-to-End Data Pipeline Overview: Ingestion, Central Hub, Exposure, Monitoring'
+  startOffset: 3449
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=3449
+  endOffset: 3599
+- name: Closing Remarks and Connect with Rahul on LinkedIn
+  startOffset: 3599
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=3599
+  endOffset: 3571
 ---
