@@ -25,27 +25,27 @@
     </url>
     {% for post in site.posts %}
     <url>
-        <loc>{{site.url}}{{ post.url | remove: 'index.html' }}</loc>
+        <loc>{{site.url}}{{ post.url | remove: 'index.html' | replace: '&', '&amp;' }}</loc>
     </url>
     {% endfor %}
     {% for author in site.people %}
     <url>
-        <loc>{{site.url}}{{ author.url }}</loc>
+        <loc>{{site.url}}{{ author.url | replace: '&', '&amp;' }}</loc>
     </url>
     {% endfor %}
     {% for book in site.books %}
     <url>
-        <loc>{{site.url}}{{ book.url }}</loc>
+        <loc>{{site.url}}{{ book.url | replace: '&', '&amp;' }}</loc>
     </url>
     {% endfor %}
     {% for conf in site.conferences %}
     <url>
-        <loc>{{site.url}}{{ conf.url }}</loc>
+        <loc>{{site.url}}{{ conf.url | replace: '&', '&amp;' }}</loc>
     </url>
     {% endfor %}
     {% for p in site.podcast %}
     <url>
-        <loc>{{site.url}}{{ p.url }}</loc>
+        <loc>{{site.url}}{{ p.url | replace: '&', '&amp;' }}</loc>
     </url>
     {% endfor %}
 
