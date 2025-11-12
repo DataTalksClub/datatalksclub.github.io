@@ -141,7 +141,7 @@ transcript:
   time: '6:15'
   who: Nicolas
 - header: 'Episode Focus: Why Data Engineering Matters Now'
-- line: 'Okay. Interesting. Actually, the reason I reached out to you a couple of weeks
+- line: Okay. Interesting. Actually, the reason I reached out to you a couple of weeks
     ago and invited you to this podcast is because we had a different podcast episode
     that was about hiring data professionals – where we talked to Alicia, who was
     a guest here – but we mostly talked about data scientists. Then some people reached
@@ -155,7 +155,7 @@ transcript:
 - line: 'We''re talking about hiring data engineers, but I also wanted to ask you
     – you are recruiting for a wide range of positions: ML engineers, data scientists,
     data analysts, data engineers – in your opinion, what is the main difference between
-    hiring data scientists and data engineers?'
+    hiring data scientists and data engineers?
   sec: 419
   time: '6:59'
   who: Alexey
