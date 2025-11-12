@@ -63,9 +63,9 @@
           "image": "{{ site.url }}{{ page.image | relative_url }}",
           "datePublished": "{{ page.dateadded }}",
           {% if page.date %}
-          "dateUpdated": "{{ page.date }}",
+          "dateModified": "{{ page.date }}",
           {% else %}
-          "dateUpdated": "{{ page.dateadded }}",
+          "dateModified": "{{ page.dateadded }}",
           {% endif %}
           "description": {{ page.description | jsonify }},
           "url": "{{ site.url }}{{ page.url }}",
