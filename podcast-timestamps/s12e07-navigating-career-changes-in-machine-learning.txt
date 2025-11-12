@@ -1,0 +1,23 @@
+00:00:00 Podcast Introduction
+00:02:12 Career Overview: Web, Game Development, and Python
+00:06:24 Mobile & Game Development: HTML5, Objective‑C, Swift, and Unity
+00:07:05 Career Transitions: Adapting Between Stacks and Roles
+00:10:06 Tech Radar & Language Freedom at Zalando
+00:13:25 Machine Learning Platform: zflow Library and Pipeline Architecture
+00:15:59 Platform Consulting: Training, Onboarding, and User Support
+00:17:48 From Engineer to Consultant: Reduced Hands‑on Coding
+00:18:26 Sabbatical Focus: Learning, Break, and Exploration
+00:18:32 Sabbatical Projects: Diffusion Models, ChatGPT Experiments, and Modal Labs
+00:22:01 Large Language Models: Coding Assistance, Architecture Sparring, and Caveats
+00:26:46 Prompt Engineering: Practical Tips and People to Follow
+00:29:00 Transferable Skills: SQL, Git, Shell, and the Lindy Effect
+00:33:34 Troubleshooting Example: Postgres Optimization and Performance Gains
+00:35:23 T‑Shaped Expertise: Depth, Breadth, and Career Strategy
+00:37:37 Debugging as a Strength: Rubber Duck, Divide‑and‑Conquer, and Mentoring
+00:44:52 Learning Motivation: Curiosity, Pomodoro, and Inspirational Content
+00:48:37 Getting Unstuck: ChatGPT, Tutorials, and Problem Decomposition
+00:50:22 Hiring Dynamics: Job Descriptions and Recruiting Generalists
+00:54:23 Job Market Trends: Specialists vs Generalists in Machine Learning
+00:56:22 Prioritization Techniques: To‑Do Lists, Deadlines, and Focus
+00:58:11 Learning Resources: Books, Documentation, YouTube, and Practical Learning
+01:00:32 Episode Wrap‑up and Key Takeaways

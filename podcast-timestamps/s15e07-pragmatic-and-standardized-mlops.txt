@@ -1,0 +1,29 @@
+00:00:00 Podcast Introduction
+00:01:41 Episode Overview: Pragmatic and Standardized MLOps with Maria Vechtomova
+00:03:07 Background: Early career in data, econometrics, R to Python, and early MLOps work
+00:05:45 Early MLOps stacks: Teradata Aster, custom metadata, and orchestration
+00:08:03 Role Overview: MLOps Tech Lead / Manager of Machine Learning Engineering
+00:09:45 Marvelous MLOps: blog, LinkedIn presence, and content cadence
+00:11:10 Defining MLOps: enablement, reproducibility, and teaching data scientists
+00:12:42 Central MLOps team responsibilities: infrastructure, reusable CI/CD, and monitoring
+00:14:45 Toollandscape overload: MAD landscape, FOMO, and organizational challenges
+00:16:27 Pragmatic MLOps: leverage existing infra (Kubernetes, Git, CI/CD) not new tools
+00:18:41 Essential MLOps stack: version control, CI/CD, registries, model registry, deployment, monitoring
+00:20:49 Model artifacts & registry options: Artifactory, S3, and MLflow alternatives
+00:22:23 MLOps maturity assessment: documentation, reproducibility, code quality, and testing
+00:24:01 Startup priorities: reproducibility, versioning, traceability as first steps
+00:27:06 Team organization: centralized MLOps vs. embedded feature teams and guardrails
+00:29:55 Standardization: cookie‑cutter repos, service principals, and Databricks integration
+00:33:24 Production best practices: move logic from notebooks to packages and CI/CD pipelines
+00:34:29 Implementation timeline: technical build vs. organizational buy‑in and permissions
+00:35:21 Securing DevOps buy‑in: expose pain, deliver standards, and enable internal audit
+00:38:01 Team composition: small senior ML engineering team building MLOps platform
+00:39:29 Tool‑agnostic skills: learn fundamentals and stitch tools together end-to-end
+00:42:53 Roadmap priorities: monitoring standardization, A/B testing, and LLM pilots
+00:45:44 LLM Ops perspective: hype, cost, GPU constraints, and multilingual limits
+00:49:42 Retail use cases: demand forecasting, personalization, and loyalty programs
+00:51:24 Cross‑brand model: centralized MLOps support for smaller brands and cooperation with large brands
+00:54:05 Learning recommendations: hands‑on projects, MLOps Zoomcamp, and pairing with engineers
+00:56:08 Skill balance: ML fundamentals plus software engineering and system design
+00:57:14 Data engineering importance: pipeline design, optimization, and data quality for MLOps
+00:58:16 Closing Remarks: upcoming course, LLM updates, and follow Marvelous MLOps

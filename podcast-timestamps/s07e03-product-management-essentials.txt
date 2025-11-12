@@ -1,0 +1,20 @@
+00:00:00 Episode Introduction & Guest Overview
+00:01:43 Career Background & Transition to AI Products
+00:06:41 Role & Responsibilities of Data Product Managers (Internal vs External)
+00:14:03 Customer Journey & Domain Knowledge for Data Professionals
+00:18:01 Customer Research Techniques: Interviews & Documentation
+00:20:28 Structuring Interviews with Business Partners & the Five Whys
+00:23:20 Hypothesis Testing & Working Backwards from Business Problems
+00:26:25 Product Sense & Product Mindset Explained
+00:28:53 Contributing to Roadmaps: Technical Input & T‑Shirt Sizing
+00:31:45 Working Backwards: Problem‑First Feature Design
+00:35:34 Roadmap Types: Technical Roadmaps, MLOps & Scaling Strategies
+00:39:01 Identifying Unscalable Manual Processes & ML Ops Prioritization
+00:41:44 Three‑Year Roadmap: Prioritization by Impact, Effort & Cost
+00:47:18 Practical Roadmap Template in Excel: Problems → Solutions → Metrics
+00:51:11 Success Metrics & SMART Goals for Internal Data Platforms
+00:53:27 Operational Metrics: Pipeline Failures, SLAs & Data Quality
+00:55:32 Operating Without a PM: Identify Customers & Validate Work
+00:57:44 Team Autonomy & Aligning Mental Models for Product Success
+00:58:42 Career Advice: Learn Product Skills on the Job & Follow‑up Resources
+01:00:47 Episode Close & How to Connect with Guest

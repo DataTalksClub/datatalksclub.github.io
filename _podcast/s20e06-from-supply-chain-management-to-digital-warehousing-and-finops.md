@@ -13,15 +13,17 @@ links:
   youtube: https://www.youtube.com/watch?v=7ePp6wuxM5s
 season: 20
 short: From Supply Chain Management to Digital Warehousing and FinOps
-title: From Supply Chain Management to Digital Warehousing and FinOps
+title: 'FinOps for Data Engineers: Optimize Cloud Costs with dbt, BigQuery & Modern
+  Data Stack'
 transcript:
-- header: 'Eddy’s career journey: From supply chain to data engineering'
+- header: Podcast Introduction
 - line: Let’s get started. This week, we’ll discuss Digital Data Warehousing and FinOps.
     We have a special guest today, Eddy Zulkifly, a staff data engineer at Kinaxis.
     Eddy, did I pronounce it correctly?
   sec: 0
   time: 0:00
   who: Alexey
+- header: 'Guest Introduction: Eddy Zulkifly, Staff Data Engineer at Kinaxis'
 - line: Yes, it’s Eddy Zulkifly and Kinaxis.
   sec: 95
   time: '1:35'
@@ -43,6 +45,7 @@ transcript:
   sec: 123
   time: '2:03'
   who: Alexey
+- header: 'Career Origins: Industrial Engineering, Supply Chain & Excel Macros'
 - line: For sure. My journey into data wasn’t exactly linear. Initially, I was supposed
     to pursue chemical engineering, but midway through considering my options, I was
     drawn to industrial engineering, particularly the psychology side—designing systems
@@ -91,6 +94,7 @@ transcript:
   sec: 134
   time: '2:14'
   who: Eddy
+- header: 'Career Pivot: From Business Analyst to Data Engineering'
 - line: What I also noticed is that you’re currently a data engineer, but you were
     previously working in data science. How did the switch happen?
   sec: 380
@@ -111,6 +115,7 @@ transcript:
   sec: 393
   time: '6:33'
   who: Eddy
+- header: Analyst Skills as a Foundation for Data Engineering
 - line: This is a common question in our data engineering course. Our course is designed
     for people coming from a software engineering background, but we often get asked,
     “I’m a data analyst—can I transition to data engineering?” Does the background
@@ -128,6 +133,7 @@ transcript:
   sec: 480
   time: '8:00'
   who: Eddy
+- header: 'Docker & Terraform: Learning Curve for Data Practitioners'
 - line: It’s great to hear that. A lot of people are curious about this shift. One
     challenge often mentioned in data engineering is working with the command line,
     Docker, and Terraform. How was your experience transitioning to these tools?
@@ -149,6 +155,7 @@ transcript:
   sec: 497
   time: '8:17'
   who: Eddy
+- header: 'Tools & Low-Code Beginnings: Excel, Alteryx, Tableau'
 - line: That’s interesting. Funny enough, when we were building the course for Data
     Engineering, we assumed that everyone would already be familiar with Docker. We
     thought it would just be a brief warm-up session for those who were unfamiliar.
@@ -181,7 +188,6 @@ transcript:
   sec: 584
   time: '9:44'
   who: Eddy
-- header: 'Tools & learning: Excel, Docker, and transitioning to data engineering'
 - line: I will definitely shout out to you what you have done. Through my connections
     at Home Depot, some folks in the US told me about the Data Talks Club. That’s
     how I heard about the Data Engineering Zoom Camp. I remember it was interesting
@@ -224,6 +230,7 @@ transcript:
   sec: 649
   time: '10:49'
   who: Alexey
+- header: 'Retail & Warehousing Experience: Forecasting, Preload Optimization'
 - line: You worked at Home Depot, and for me, Home Depot was notable for hosting a
     Kaggle competition. I think it was one of the first Kaggle competitions I participated
     in. Was it about forecasting? I can’t quite recall, but I remember it being an
@@ -402,7 +409,7 @@ transcript:
   sec: 1309
   time: '21:49'
   who: Eddy
-- header: 'Physical vs. digital warehousing: Analogies and key differences'
+- header: 'Digital Data Warehousing: Data as Inventory and Pipelines'
 - line: We also wanted to talk about digital warehousing. What exactly is that, and
     how does it work? Let's start with physical warehouses first. A warehouse is a
     space with tracks where products are stored. There are processes for people, robots,
@@ -412,6 +419,7 @@ transcript:
   sec: 1317
   time: '21:57'
   who: Alexey
+- header: 'Modern Data Stack: ELT, dbt, BigQuery and Orchestration'
 - line: In this case, I'd like to thank you for that context. I’ve worked at Home
     Depot for a long time, and I recall working in a physical warehouse. But when
     I became a senior data engineer, I realized I was still working in a warehouse—just
@@ -434,6 +442,7 @@ transcript:
   sec: 1418
   time: '23:38'
   who: Eddy
+- header: 'Operational Differences: Change Velocity, Monitoring, and Tests'
 - line: I just realized that the term "data warehouse" includes the word "warehouse,"
     which is really a distribution center. The goal of a physical warehouse is to
     receive products in large trucks and then store them in racks. The products are
@@ -461,6 +470,7 @@ transcript:
   sec: 1587
   time: '26:27'
   who: Eddy
+- header: 'Metric Trees & Data Specs: Translating Business Requirements for FinOps'
 - line: That's interesting. Can you tell us more about your role as a staff data engineer
     at Kanexis?
   sec: 1670
@@ -493,6 +503,7 @@ transcript:
   sec: 1756
   time: '29:16'
   who: Eddy
+- header: 'Building a Digital Warehouse: Stack Choices and Open-Source Tools'
 - line: Another part of my role involves standing up a digital warehouse by setting
     up our stack. We use cloud platforms and a mix of open-source tools to maximize
     business value while ensuring the system is easy to maintain for engineers and
@@ -506,7 +517,7 @@ transcript:
   sec: 1895
   time: '31:35'
   who: Eddy
-- header: 'Introduction to FinOps: Cloud cost optimization and vendor negotiations'
+- header: 'FinOps Overview: Cloud Cost Optimization for SaaS Platforms'
 - line: Can you tell us more about what exactly you mean by optimizing costs? Let's
     say I work at, I don't know, something similar to Home Depot—just as an example,
     a large chain that needs a solution for supply chain planning. We have warehouses,
@@ -551,6 +562,7 @@ transcript:
   sec: 2050
   time: '34:10'
   who: Alexey
+- header: Vendor Negotiations & Reservation Instances for Cost Savings
 - line: Yes, exactly. In a previous company I worked for, the procurement department
     was responsible for tools that cost money. For example, if I needed something
     like Klaviyo or Google Workspace, I would go through them to figure out how to
@@ -577,6 +589,7 @@ transcript:
   sec: 2165
   time: '36:05'
   who: Eddy
+- header: 'Cloud Cost Modeling: VM Sizing, Storage Tiers and Multi-Cloud Comparison'
 - line: Can you tell us more about the problems you solve and what kind of solutions
     you use to address them?
   sec: 2171
@@ -608,6 +621,7 @@ transcript:
   sec: 2333
   time: '38:53'
   who: Eddy
+- header: 'Demand Forecasting Analogy: Inventory Planning Applied to Cloud Capacity'
 - line: Interesting. When it comes to tools or solutions to these problems, it sounds
     a lot like demand forecasting to me.
   sec: 2343
@@ -631,7 +645,7 @@ transcript:
   sec: 2398
   time: '39:58'
   who: Eddy
-- header: 'Resources for FinOps: Certifications and the FinOps Foundation'
+- header: FinOps Foundation, Cost Tagging & Accountability Best Practices
 - line: Where can we learn more about FinOps?
   sec: 2418
   time: '40:18'
@@ -712,7 +726,7 @@ transcript:
   sec: 2667
   time: '44:27'
   who: Alexey
-- header: Standardizing cloud cost reporting across AWS/GCP/Azure
+- header: OUCS & Standardizing Cloud Cost Reporting Across AWS/GCP/Azure
 - line: Knowing FinOps involves understanding various processes related to it. This
     includes using open-source tagging software to implement tags in cloud infrastructure.
     Once tagging is done, the focus shifts to data processing approaches such as data
@@ -727,6 +741,7 @@ transcript:
   sec: 2681
   time: '44:41'
   who: Eddy
+- header: 'FinOps Processes: Parallels with DevOps, DataOps and CI/CD'
 - line: While you were explaining, I realized that even though FinOps isn’t directly
     related to DevOps, there are similarities. In DevOps, the focus is not just on
     tools but also on processes—ensuring software is reliable, testable, and delivered
@@ -748,6 +763,7 @@ transcript:
   sec: 2861
   time: '47:41'
   who: Alexey
+- header: 'Staff Data Engineer Responsibilities: Technical & Strategic FinOps Work'
 - line: Sure! As a Staff Data Engineer, my role is multifaceted. On the technical
     side, I work on deploying pipelines, fixing bugs, and maintaining data quality
     through DataOps processes. On the strategic side, I focus on defining business
@@ -777,11 +793,11 @@ transcript:
   sec: 2977
   time: '49:37'
   who: Eddy
-- header: Eddy’s master’s degree and closing thoughts
 - line: Alexey
   sec: 2977
   time: '49:37'
   who: Eddy
+- header: 'Continuous Learning: Georgia Tech Master’s, dbt, Python and Applied Analytics'
 - line: I'm almost done with my master's, hopefully by the end of this year. I'm doing
     a program called the Master’s in Analytics from Georgia Tech. So far, in terms
     of my learnings, it’s been pretty cool because it’s more of an applied analytics
@@ -895,6 +911,7 @@ transcript:
   sec: 3337
   time: '55:37'
   who: Alexey
+- header: 'Career Advice: Certifications, Mentorship, Community and Time Management'
 - line: Exactly, and I think this applies to everyone. Nowadays, when I talk to folks
     interested in breaking into data, I encourage them to focus on certifications
     that align with their interests and passions.
@@ -938,6 +955,7 @@ transcript:
   sec: 3527
   time: '58:47'
   who: Eddy
+- header: Closing Remarks & Key Takeaways
 - line: Thank you, Eddy. It was amazing talking to you. Thanks a lot for joining us
     today and sharing your experience.
   sec: 3572
@@ -953,6 +971,122 @@ transcript:
   sec: 3594
   time: '59:54'
   who: Eddy
+description: Master FinOps for data engineers—optimize BigQuery costs with dbt, cloud
+  cost modeling, tagging and forecasting to cut spend and boost pipeline efficiency.
+intro: How can data teams optimize cloud costs for analytics without slowing down
+  delivery? In this episode, Eddy Zulkifly, Staff Data Engineer at Kinaxis, walks through
+  practical FinOps strategies for data engineers working with the modern data stack.
+  Eddy brings a decade of experience across Google Cloud, Azure, and AWS, plus prior
+  roles at Home Depot and ongoing graduate studies at Georgia Tech, and explains how
+  his background in supply chain and analytics shapes cost-aware engineering. <br><br>
+  We cover building a digital data warehouse using ELT, dbt, BigQuery and orchestration;
+  operational differences like change velocity, monitoring, and tests; and translating
+  business needs into metric trees and data specs for FinOps. Eddy breaks down cloud
+  cost modeling—VM sizing, storage tiers, reservation instances, and multi-cloud comparisons—alongside
+  cost-tagging, OUCS and standardized reporting across AWS/GCP/Azure. He also shares
+  vendor negotiation tactics, demand-forecasting analogies for capacity planning,
+  and the strategic responsibilities of senior data engineers. <br><br> Listen to
+  learn actionable approaches to cloud cost optimization, practical dbt and BigQuery
+  patterns, and how to embed FinOps practices into your data platform and team workflows.
+dateadded: '2025-04-30'
+duration: PT00H59M54S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=0
+  endOffset: 95
+- name: 'Guest Introduction: Eddy Zulkifly, Staff Data Engineer at Kinaxis'
+  startOffset: 95
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=95
+  endOffset: 134
+- name: 'Career Origins: Industrial Engineering, Supply Chain & Excel Macros'
+  startOffset: 134
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=134
+  endOffset: 380
+- name: 'Career Pivot: From Business Analyst to Data Engineering'
+  startOffset: 380
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=380
+  endOffset: 468
+- name: Analyst Skills as a Foundation for Data Engineering
+  startOffset: 468
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=468
+  endOffset: 486
+- name: 'Docker & Terraform: Learning Curve for Data Practitioners'
+  startOffset: 486
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=486
+  endOffset: 498
+- name: 'Tools & Low-Code Beginnings: Excel, Alteryx, Tableau'
+  startOffset: 498
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=498
+  endOffset: 673
+- name: 'Retail & Warehousing Experience: Forecasting, Preload Optimization'
+  startOffset: 673
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=673
+  endOffset: 1317
+- name: 'Digital Data Warehousing: Data as Inventory and Pipelines'
+  startOffset: 1317
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=1317
+  endOffset: 1356
+- name: 'Modern Data Stack: ELT, dbt, BigQuery and Orchestration'
+  startOffset: 1356
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=1356
+  endOffset: 1474
+- name: 'Operational Differences: Change Velocity, Monitoring, and Tests'
+  startOffset: 1474
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=1474
+  endOffset: 1670
+- name: 'Metric Trees & Data Specs: Translating Business Requirements for FinOps'
+  startOffset: 1670
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=1670
+  endOffset: 1796
+- name: 'Building a Digital Warehouse: Stack Choices and Open-Source Tools'
+  startOffset: 1796
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=1796
+  endOffset: 1900
+- name: 'FinOps Overview: Cloud Cost Optimization for SaaS Platforms'
+  startOffset: 1900
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=1900
+  endOffset: 2055
+- name: Vendor Negotiations & Reservation Instances for Cost Savings
+  startOffset: 2055
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2055
+  endOffset: 2171
+- name: 'Cloud Cost Modeling: VM Sizing, Storage Tiers and Multi-Cloud Comparison'
+  startOffset: 2171
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2171
+  endOffset: 2343
+- name: 'Demand Forecasting Analogy: Inventory Planning Applied to Cloud Capacity'
+  startOffset: 2343
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2343
+  endOffset: 2418
+- name: FinOps Foundation, Cost Tagging & Accountability Best Practices
+  startOffset: 2418
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2418
+  endOffset: 2681
+- name: OUCS & Standardizing Cloud Cost Reporting Across AWS/GCP/Azure
+  startOffset: 2681
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2681
+  endOffset: 2777
+- name: 'FinOps Processes: Parallels with DevOps, DataOps and CI/CD'
+  startOffset: 2777
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2777
+  endOffset: 2881
+- name: 'Staff Data Engineer Responsibilities: Technical & Strategic FinOps Work'
+  startOffset: 2881
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=2881
+  endOffset: 3025
+- name: 'Continuous Learning: Georgia Tech Master’s, dbt, Python and Applied Analytics'
+  startOffset: 3025
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=3025
+  endOffset: 3365
+- name: 'Career Advice: Certifications, Mentorship, Community and Time Management'
+  startOffset: 3365
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=3365
+  endOffset: 3572
+- name: Closing Remarks & Key Takeaways
+  startOffset: 3572
+  url: https://www.youtube.com/watch?v=7ePp6wuxM5s&t=3572
+  endOffset: 3594
 ---
 
 Links:

@@ -1,0 +1,29 @@
+00:00:00 Episode Introduction
+00:01:22 Guest Intro: Aleksander Molak & book overview
+00:02:06 Career highlights and dyslexia prediction project
+00:06:15 Causal advocacy: democratizing causal thinking
+00:07:31 Association vs causation: limits of correlational reasoning
+00:08:55 Illustrative confounders: race example and ice cream–drowning
+00:12:41 Predictive ML vs decision-making: Zillow and IID assumptions
+00:15:36 Counterfactuals in practice: marketing and recommender systems
+00:18:15 Counterfactuals defined and Judea Pearl’s intervention view
+00:21:22 Meta-learners overview: T‑learner and counterfactual estimation
+00:24:24 Conditional Average Treatment Effect (CATE) estimation
+00:26:16 Achieving unconfoundedness: A/B tests vs causal feature selection
+00:27:52 Targeting decisions from uplift estimates
+00:29:17 Deployment risks and debiasing estimators (double/triple ML)
+00:32:40 Uplift modeling: policy evaluation and business metrics
+00:33:14 Evaluating causal models: refutation tests and estimator quality
+00:37:37 Causal discovery and heterogeneous treatment effects (book coverage)
+00:38:54 Cost–benefit of causal models: complexity vs value
+00:41:14 Real-world impact: discovering wasted marketing spend
+00:43:25 Incremental rollout: A/B testing as validation baseline
+00:44:26 LLMs in causal workflows: feature extraction and scoring
+00:46:54 Text as outcome: using LLMs to score experimental text
+00:49:17 Text as treatment/confounder: style extraction and embeddings
+00:54:38 Inferring unobserved variables (e.g., gender/style) with LLMs
+00:58:14 CausalBert demo and code note (PyData Berlin talk)
+00:59:33 Causal ML without experiments: partial identification & sensitivity
+01:04:03 Causal graphs and nonparametric identification: minimal observables
+01:06:07 Recommended resources: The Book of Why, Molak’s book & GitHub
+01:07:28 Closing remarks and next steps

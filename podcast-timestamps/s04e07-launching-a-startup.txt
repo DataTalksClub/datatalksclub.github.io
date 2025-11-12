@@ -1,0 +1,29 @@
+00:01:46 Episode Introduction & Guest Overview
+00:02:16 Early Career: Programming, Academia, and Data Science
+00:05:06 FreshFlow Overview: CTO Role and Ordering System Mission
+00:05:46 Problem Discovery: Supermarket Fresh-Product Challenges & Edeka Pilot
+00:07:13 Customer Discovery: Shadowing Store Teams and Research Methods (The Mom Test)
+00:13:16 Entrepreneur First Experience: Program Structure and Benefits
+00:15:55 Co-founder Matching: "Edges" Framework for Team Formation
+00:18:50 Mentorship & Investment Committee: Scoring, Feedback, and EF Phases
+00:24:47 Idea Evolution: From Computer Vision App to Ordering Solution
+00:28:34 Market Opportunity: Food Waste Impact and Competitive Landscape
+00:30:59 Accelerator Value: Networking, Validation, and Founder Support
+00:33:24 First Pilots & Clients: Volg and Edeka Engagements
+00:34:50 Sales Cycle Realities: Time to First Client and Pilot Timelines
+00:36:40 Fundraising Path: EF Investment, Angels, and Demo Day Strategy
+00:40:13 Investor Selection Risks: Term Sheets, Board Dynamics, and Fit
+00:42:24 Founder Roles: Splitting CTO and CEO Responsibilities
+00:43:47 Hiring Strategy: First Hires, Freelancers, Delegation, and Remote Talent
+00:48:52 Product Roadmap: Scaling to a Grocery Retail OS and Supply-Chain Expansion
+00:50:14 Forecasting & Just-in-Time Supply Chain: Reducing Waste and Inventory
+00:53:09 Tech Infrastructure Lesson: Kubeflow Challenges and Choosing Managed Cloud (GCP)
+00:55:51 Startup Advice: Resilience, Focus, and Emotional Intelligence
+00:57:09 Hiring Criteria: Prioritizing Motivation and Behavior Over Skills
+00:59:14 Sustaining Motivation: Mission-Driven Work on Food Waste and Climate
+01:01:05 CTO Readiness: Skill Gaps, Learning, and Using Managed Services
+01:03:45 MBA Relevance: Business School Not Required for Early-Stage Startups
+01:05:07 Co-founder Imperative: Form Phase Advice and Team Formation Timing
+01:05:57 Validating Pre-Existing Ideas: Why EF Helps Even with a Clear Idea
+01:07:06 Prototype Before Pitch: Banana Ripeness Demo and Early Technical Traction
+01:08:25 Contact Details & Episode Closing Remarks

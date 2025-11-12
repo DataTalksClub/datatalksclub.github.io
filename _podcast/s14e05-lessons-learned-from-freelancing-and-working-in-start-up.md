@@ -1028,7 +1028,7 @@ transcript:
   who: Alexey
 intro: How do you transition from startup engineering to a sustainable freelance data
   science practice while handling MLOps, model monitoring, and client work on Upwork?
-  In this episode Antonis Stellas — a freelance data scientist at Nanometrisis with
+  In this episode, Antonis Stellas — a freelance data scientist at Nanometrisis with
   a background in applied mathematics, physics and a professional doctorate working
   on industry consultancy — lays out a practical playbook. <br><br> Antonis walks
   through startup-honed skills (cross-functional roles, lean build-measure-learn,
@@ -1044,6 +1044,125 @@ intro: How do you transition from startup engineering to a sustainable freelance
   data scientist.
 description: 'Discover MLOps, model monitoring & Upwork tips to build a freelance
   data scientist portfolio: pricing, onboarding, tools to land clients including MLflow'
+dateadded: '2023-06-10'
+duration: PT00H58M11S
+quotableClips:
+- name: 'Podcast Introduction: guest Antonis and episode themes'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=0
+  endOffset: 148
+- name: 'Early Education: applied mathematics, physics and nanotechnology'
+  startOffset: 148
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=148
+  endOffset: 230
+- name: 'Professional Doctorate: industry projects and consultancy in the Netherlands'
+  startOffset: 230
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=230
+  endOffset: 335
+- name: 'Nanometrisis Focus: nanoscale inspection for chips, razors and cosmetics'
+  startOffset: 335
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=335
+  endOffset: 499
+- name: 'Career Choice: choosing a startup over a corporation'
+  startOffset: 499
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=499
+  endOffset: 716
+- name: 'Role Variety in Startups: cross-functional responsibilities'
+  startOffset: 716
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=716
+  endOffset: 870
+- name: 'Small-Team Dynamics: working in a four-person startup'
+  startOffset: 870
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=870
+  endOffset: 949
+- name: 'Skills Acquired: communication, business knowledge and self-organization'
+  startOffset: 949
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=949
+  endOffset: 1059
+- name: 'Lean Methodology: build-measure-learn applied to products and ML'
+  startOffset: 1059
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=1059
+  endOffset: 1260
+- name: 'Model Monitoring: data drift, concept drift and Evidently AI'
+  startOffset: 1260
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=1260
+  endOffset: 1314
+- name: 'Community Onboarding: discovering and joining DataTalks.Club'
+  startOffset: 1314
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=1314
+  endOffset: 1512
+- name: 'MLOps Course Project: semiconductor prediction with MLflow, Prefect, Grafana'
+  startOffset: 1512
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=1512
+  endOffset: 1603
+- name: 'Course Recommendations: do exercises, be patient, complete final project'
+  startOffset: 1603
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=1603
+  endOffset: 1723
+- name: 'Open Source Contribution: creating an Evidently how-to during Hacktoberfest'
+  startOffset: 1723
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=1723
+  endOffset: 1833
+- name: 'Starting on Upwork: goals, platform mechanics and client discovery'
+  startOffset: 1833
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=1833
+  endOffset: 1917
+- name: 'Project Types on Upwork: ML, analytics, LLMs and variable durations'
+  startOffset: 1917
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=1917
+  endOffset: 2059
+- name: 'Profile Building: portfolios, attachments and iterative improvements'
+  startOffset: 2059
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=2059
+  endOffset: 2229
+- name: 'Learning from Rejection: refining proposals and specializing skills'
+  startOffset: 2229
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=2229
+  endOffset: 2355
+- name: 'Motivation for Freelancing: learning, extra income and persistence'
+  startOffset: 2355
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=2355
+  endOffset: 2439
+- name: 'Pricing Approach: hourly rates, client type and valuing your time'
+  startOffset: 2439
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=2439
+  endOffset: 2553
+- name: 'Onboarding Workflow: data inspection, milestones and client alignment'
+  startOffset: 2553
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=2553
+  endOffset: 2718
+- name: 'Financial Setup: registering as a freelancer and invoicing considerations'
+  startOffset: 2718
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=2718
+  endOffset: 2848
+- name: 'Balancing Commitments: wearing many hats across startup and freelance work'
+  startOffset: 2848
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=2848
+  endOffset: 2980
+- name: 'Client Acquisition Tips: focus, upskilling and leveraging community resources'
+  startOffset: 2980
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=2980
+  endOffset: 3102
+- name: 'Data Engineering Course: streaming emphasis and Kafka/Confluent usage'
+  startOffset: 3102
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=3102
+  endOffset: 3217
+- name: 'Example Project: streaming YouTube metrics into BigQuery and Looker'
+  startOffset: 3217
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=3217
+  endOffset: 3401
+- name: 'Portfolio Advice: choose projects you enjoy and prioritize exploration'
+  startOffset: 3401
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=3401
+  endOffset: 3491
+- name: 'Recommended Reading: The Lean Startup, Lean Analytics, Designing ML Systems'
+  startOffset: 3491
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=3491
+  endOffset: 3583
+- name: Closing Remarks and invitation to the community
+  startOffset: 3583
+  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=3583
+  endOffset: 3491
 ---
 
 Links:

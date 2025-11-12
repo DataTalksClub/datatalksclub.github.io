@@ -13,8 +13,9 @@ links:
   youtube: https://www.youtube.com/watch?v=GawJ7mG5ElQ
 season: 11
 short: From Digital Marketing to Analytics Engineering
-title: From Digital Marketing to Analytics Engineering
+title: 'Marketing to Analytics Engineering: DBT, SQL, Data Modeling & Career Playbook'
 transcript:
+- header: 'Episode Overview: Switching from Marketing to Analytics Engineering'
 - line: This week, we'll talk about switching careers from marketing to analytics
     engineering. We have a special guest today, Nikola. Nikki started her career as
     a performance marketing specialist and quickly realized that she needs to rely
@@ -28,7 +29,7 @@ transcript:
   sec: 30
   time: 0:30
   who: Nikola
-- header: Nikola’s background
+- header: 'Early Career & Startup Experience: London, Berlin, Movinga'
 - line: I want to mention – this is something new – questions for this interview were
     prepared by Leat Shemesh, and Victoria Perez Mola, so thanks a lot for your help
     in preparing the questions. If anyone here who is listening and wants to help
@@ -39,6 +40,7 @@ transcript:
   sec: 32
   time: 0:32
   who: Alexey
+- header: 'Marketing Role at Ecosia: Generalist Tasks and Responsibility Growth'
 - line: Yeah, of course. I actually studied in the UK, in London, and I moved over
     to Berlin soon after graduating from my Bachelor's quite spontaneously. I found
     myself just in the data startup scene, like many English-speaking people do, [chuckles]
@@ -65,6 +67,7 @@ transcript:
   sec: 166
   time: '2:46'
   who: Alexey
+- header: 'Performance Marketing: Rapid Feedback Loops and Data-Driven Optimization'
 - line: It was completely different. But it was a generalist kind of junior role,
     where you're helping write press releases, think up campaigns, reach out to potential
     partners – this kind of work. I've done quite a lot of that through university
@@ -122,7 +125,6 @@ transcript:
   sec: 173
   time: '2:53'
   who: Nikola
-- header: Making the first steps towards a transition to BI and Analytics Engineering
 - line: It was your initiative, right? Nobody told you, “Hey, you should do this.”
     You were just like “Okay, this sounds interesting. I really like this topic. And
     I kind of learned everything that was there about performance marketing, so let
@@ -130,6 +132,7 @@ transcript:
   sec: 424
   time: '7:04'
   who: Alexey
+- header: 'Career Pivot During Pandemic: Moving Toward BI and Analytics'
 - line: Yeah, exactly. I think at this point, it wasn't really clear to me that I
     wanted to necessarily move into the data team. I just wanted to maybe have more
     focus on numbers and data in general, but probably still within the marketing
@@ -149,6 +152,7 @@ transcript:
   sec: 509
   time: '8:29'
   who: Alexey
+- header: 'Preparing for BI: SQL Course and Marketing-Analyst Bridge'
 - line: I think I remember speaking to my colleague in the BI team, who was in the
     context of being a marketing analyst person. Initially, the idea was kind of that
     I'd sit between marketing and BI. But I think it's because I really didn't think
@@ -167,6 +171,7 @@ transcript:
   sec: 576
   time: '9:36'
   who: Alexey
+- header: 'Internal Pathway: Conversations with BI Team and Required Skills'
 - line: Eventually – yes. I think eventually the conversation was already there, as
     I mentioned before, around how to become more into this marketing analyst role.
     Already, my colleague was giving me lots of advice. It was probably through that
@@ -178,7 +183,6 @@ transcript:
   sec: 593
   time: '9:53'
   who: Nikola
-- header: Learning the skills necessary to transition to Analytics Engineering
 - line: Do you remember what these things were? SQL, I suppose, is one.
   sec: 642
   time: '10:42'
@@ -193,6 +197,7 @@ transcript:
   sec: 655
   time: '10:55'
   who: Alexey
+- header: 'Core Skills: Advanced SQL, Data Pipeline Familiarity, Python Basics'
 - line: Yeah, exactly. One of the things was like, “Python would be great.” I ended
     up doing a Python course, but barely actually using it. It's been useful to have.
     Of all the things, the most useful practically was jumping into… once you know
@@ -213,13 +218,13 @@ transcript:
   sec: 662
   time: '11:02'
   who: Nikola
-- header: The in-between period – from Marketing to Analytics Engineering
 - line: Did you need to keep doing your old job of marketing specialist, or could
     you completely just immerse yourself in BI? Or was there some in-between period
     where you had to do both?
   sec: 749
   time: '12:29'
   who: Alexey
+- header: 'Transition Phase: Balancing Marketing Work and BI Projects'
 - line: To be honest, as part of the performance marketing role, I was really acting
     like a kind of marketing analyst, in a way – building the reporting for the teams
     and for the people who are doing other jobs, I was helping them build reports
@@ -241,7 +246,8 @@ transcript:
   sec: 770
   time: '12:50'
   who: Nikola
-- header: Nikola’s current responsibilities
+- header: 'Current Responsibilities: Analytics Engineering, Product Support & A/B
+    Testing'
 - line: And what do you do now? What do your responsibilities include?
   sec: 854
   time: '14:14'
@@ -299,7 +305,7 @@ transcript:
   sec: 1094
   time: '18:14'
   who: Nikola
-- header: Understanding what a Data Model is
+- header: 'Data Modeling in Practice: DBT Migration and Transformation Layers'
 - line: So a different kind of characterization. When you were describing what kind
     of duties you have and what kind of things you work on, you mentioned that you're
     working on KPIs, dashboards, supporting product teams with experiments, ad hoc
@@ -341,7 +347,8 @@ transcript:
   sec: 1200
   time: '20:00'
   who: Nikola
-- header: Tools needed to work as an Analytics Engineer
+- header: 'Analytics Tooling Stack: Snowplow, DBT, Looker, Redshift, Airflow, Airbyte,
+    Redash'
 - line: I’m just trying to understand what kind of tools you use. You mentioned three
     tools already. You mentioned Snowplow, which is a tool for tracking – to understand
     what kind of actions users perform and save intersections. Then you also mentioned
@@ -366,6 +373,7 @@ transcript:
   sec: 1323
   time: '22:03'
   who: Alexey
+- header: 'DBT Implementation: Leading a Migration Project and Data Modeling Learnings'
 - line: It was part of my job to set up DBT. That was one of the first big projects.
     I'd been in the team for maybe six months or so and then we began the migration
     to DBT. We actually worked with a data consultancy, a small one, that helped us
@@ -387,6 +395,7 @@ transcript:
   sec: 1386
   time: '23:06'
   who: Alexey
+- header: 'Looker & LookML Experience: Reporting and Dashboard Building'
 - line: Actually I strangely learned LookML before I learned SQL, which is a slightly
     strange, I think, way of doing it. [chuckles] But there we go, that's how it happened.
     And Airflow was set up by my colleague who has more of a data engineering role
@@ -431,6 +440,7 @@ transcript:
   sec: 1487
   time: '24:47'
   who: Nikola
+- header: 'Infrastructure Choices: Self‑Hosted Tooling vs DBT Cloud'
 - line: Do you host all these things yourself? For example, when it comes to DBT,
     do you use their cloud?
   sec: 1491
@@ -441,7 +451,8 @@ transcript:
   sec: 1497
   time: '24:57'
   who: Nikola
-- header: The Analytics Engineering role over time
+- header: 'Role Definition: Analytics Engineer vs Data Analyst — Overlap & Organizational
+    Fit'
 - line: When you joined the BI team were you already called an analytics engineer,
     or you just realized over time that, “Okay, this is what I should call myself.”?
   sec: 1506
@@ -497,7 +508,7 @@ transcript:
   sec: 1605
   time: '26:45'
   who: Nikola
-- header: The importance of DBT for Analytics Engineers
+- header: 'DBT''s Influence: How DBT Shapes the Analytics Engineering Role'
 - line: Do you think it's synonymous to using DBT? Like “You use DBT, therefore, you’re
     an analytics engineer.” And “If you’re an analytics engineer, then you use DBT.”?
     Are they the same thing? Or  can you be an analytics engineer without using DBT?
@@ -532,6 +543,7 @@ transcript:
   sec: 1788
   time: '29:48'
   who: Alexey
+- header: 'Data Modeling Theory: Wide vs Narrow Tables and Incrementalization Tradeoffs'
 - line: I don't know, to be honest. [laughs] I haven't had the time to really look
     into it. I think at the moment, DBT is on such a growth trajectory. I see so many
     job ads that are looking for people to help them set up DBT. I think it's really
@@ -571,7 +583,7 @@ transcript:
   sec: 1828
   time: '30:28'
   who: Nikola
-- header: Where can one learn about data modeling theory?
+- header: 'Learning Data Modeling: Practical Resources, Blog Posts and Mentorship'
 - line: About this data modeling theory that you mentioned, and selecting whether
     it should be a wide table or a narrow table – if I wanted to learn more about
     this, where would I go? What kind of resources do you have about this?
@@ -614,11 +626,12 @@ transcript:
   sec: 2067
   time: '34:27'
   who: Nikola
-- header: Going from Ancient Greek and Latin to understanding Data (Just-In-Time Learning)
 - line: You didn't study that, right? Did you?
   sec: 2127
   time: '35:27'
   who: Alexey
+- header: 'Nontraditional Background: Classics to Data — Just‑In‑Time Learning and
+    Udemy SQL'
 - line: No, I studied classics, which are Latin and ancient Greek. [laughs]
   sec: 2130
   time: '35:30'
@@ -686,6 +699,7 @@ transcript:
   sec: 2174
   time: '36:14'
   who: Nikola
+- header: 'Product Analytics Focus: Growth, Retention, RFM Analysis and NLP Experiments'
 - line: Yeah, there is a thing called “just in time learning,” and I think you took
     this to the extreme. So without any formal education in computer science or analytics,
     you just focused on a specific problem, which in your case was marketing and then
@@ -702,11 +716,11 @@ transcript:
   sec: 2338
   time: '38:58'
   who: Nikola
-- header: The importance of having domain knowledge to analytics engineering
 - line: Okay. So I guess your background in marketing really helped you, right?
   sec: 2370
   time: '39:30'
   who: Alexey
+- header: 'Domain Knowledge Advantage: Marketing Funnel, User Journey & Empathy'
 - line: Yeah, it really did. I’ve noticed how just in everyday work, I definitely
     see an edge that I have because I'm very comfortable with things like a marketing
     funnel and a conversion funnel or web acquisition funnel. For example, a product
@@ -732,7 +746,6 @@ transcript:
   sec: 2376
   time: '39:36'
   who: Nikola
-- header: Suggestion for those wishing to transition into analytics engineering
 - line: If somebody wants to follow your journey – so somebody who's working in marketing
     (or not necessarily in marketing, but they really want to go into data and start
     doing analytics engineering) and they are experts in their domain – what would
@@ -740,6 +753,7 @@ transcript:
   sec: 2491
   time: '41:31'
   who: Alexey
+- header: 'Transition Playbook: Excel, SQL, Dashboard Practice and Small Projects'
 - line: Firstly, I would say [chuckles] Excel is your best friend. Excel is great,
     ultimately. [laughs] I know everyone hates it, but it really doesn't get the credit
     it deserves. I still have people in the company who really should and don't know
@@ -782,7 +796,7 @@ transcript:
   sec: 2510
   time: '41:50'
   who: Nikola
-- header: The importance of having a mentor when transitioning
+- header: 'Mentorship & Sponsorship: Internal Champions, Confidence and Representation'
 - line: How important do you think it is to have a mentor or champion in this journey?
     For you, from what I understood, it was quite important. It was crucial. That
     person was a marketing analyst, if I remember correctly, that actually helped
@@ -858,7 +872,7 @@ transcript:
   sec: 2925
   time: '48:45'
   who: Nikola
-- header: Finding a mentor
+- header: 'Networking Channels: LinkedIn, Meetups and DBT Slack for Mentors'
 - line: Do you have any ideas where you can look for these mentors? Would it be conferences,
     meetup groups or someplace online?
   sec: 3023
@@ -891,7 +905,8 @@ transcript:
   sec: 3102
   time: '51:42'
   who: Alexey
-- header: Helpful newsletters and blogs
+- header: 'Reading List: Analytics Newsletters & Blogs (DBT roundup, Lenny’s, Locally
+    Optimistic)'
 - line: You mentioned that you are subscribed to some newsletters. There are good
     blog posts, good newsletters, and these newsletters are quite useful for you.
     What kind of newsletters are you subscribed to? If I want to keep an eye on what's
@@ -925,7 +940,7 @@ transcript:
   sec: 3221
   time: '53:41'
   who: Nikola
-- header: Finding Nikola online
+- header: 'Contact & Wrap‑Up: Finding Nikola on LinkedIn and Episode Close'
 - line: Profoundly Optimistic is also a good name. [both laugh] If somebody has questions
     for you, how can they find you? Is it LinkedIn or are there some other ways to
     contact you?
@@ -948,6 +963,139 @@ transcript:
   sec: 3274
   time: '54:34'
   who: Nikola
+description: 'Discover DBT, SQL & data modeling tactics for pivoting into analytics
+  engineering: learn migration, tooling, A/B testing, and a career playbook to get
+  hired.'
+intro: 'How do you move from marketing into analytics engineering—and learn DBT, SQL,
+  and data modeling along the way? In this episode, Nikola Maksimovic walks through
+  that exact career pivot, from early startup roles in London and Berlin to growth
+  marketing at Ecosia and a pandemic‑era shift toward BI and analytics engineering.
+  Nikola outlines the practical learning path—SQL courses, small BI projects, conversations
+  with internal BI teams—and the core technical skills you’ll need: advanced SQL,
+  data pipeline familiarity, and Python basics. <br><br> We dig into real-world analytics
+  engineering work: leading a DBT migration, data modeling tradeoffs (wide vs narrow
+  tables, incrementalization), tooling stacks like Snowplow, DBT, Looker/LookML, Redshift,
+  Airflow, Airbyte and Redash, plus A/B testing and product analytics use cases. Nikola
+  also shares a transition playbook (Excel → SQL → dashboards → projects), mentorship
+  and networking strategies, and recommended reading and communities. <br><br> Listen
+  to get a practical career playbook and actionable guidance on SQL, DBT, data modeling,
+  and the organizational fit between analytics engineer and data analyst. Find Nikola
+  on LinkedIn (nikola-maksimovic-40188183).'
+dateadded: '2022-11-19'
+duration: PT00H54M34S
+quotableClips:
+- name: 'Episode Overview: Switching from Marketing to Analytics Engineering'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=0
+  endOffset: 32
+- name: 'Early Career & Startup Experience: London, Berlin, Movinga'
+  startOffset: 32
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=32
+  endOffset: 64
+- name: 'Marketing Role at Ecosia: Generalist Tasks and Responsibility Growth'
+  startOffset: 64
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=64
+  endOffset: 173
+- name: 'Performance Marketing: Rapid Feedback Loops and Data-Driven Optimization'
+  startOffset: 173
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=173
+  endOffset: 438
+- name: 'Career Pivot During Pandemic: Moving Toward BI and Analytics'
+  startOffset: 438
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=438
+  endOffset: 525
+- name: 'Preparing for BI: SQL Course and Marketing-Analyst Bridge'
+  startOffset: 525
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=525
+  endOffset: 593
+- name: 'Internal Pathway: Conversations with BI Team and Required Skills'
+  startOffset: 593
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=593
+  endOffset: 662
+- name: 'Core Skills: Advanced SQL, Data Pipeline Familiarity, Python Basics'
+  startOffset: 662
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=662
+  endOffset: 770
+- name: 'Transition Phase: Balancing Marketing Work and BI Projects'
+  startOffset: 770
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=770
+  endOffset: 854
+- name: 'Current Responsibilities: Analytics Engineering, Product Support & A/B Testing'
+  startOffset: 854
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=854
+  endOffset: 1114
+- name: 'Data Modeling in Practice: DBT Migration and Transformation Layers'
+  startOffset: 1114
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1114
+  endOffset: 1234
+- name: 'Analytics Tooling Stack: Snowplow, DBT, Looker, Redshift, Airflow, Airbyte,
+    Redash'
+  startOffset: 1234
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1234
+  endOffset: 1328
+- name: 'DBT Implementation: Leading a Migration Project and Data Modeling Learnings'
+  startOffset: 1328
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1328
+  endOffset: 1392
+- name: 'Looker & LookML Experience: Reporting and Dashboard Building'
+  startOffset: 1392
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1392
+  endOffset: 1491
+- name: 'Infrastructure Choices: Self‑Hosted Tooling vs DBT Cloud'
+  startOffset: 1491
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1491
+  endOffset: 1506
+- name: 'Role Definition: Analytics Engineer vs Data Analyst — Overlap & Organizational
+    Fit'
+  startOffset: 1506
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1506
+  endOffset: 1720
+- name: 'DBT''s Influence: How DBT Shapes the Analytics Engineering Role'
+  startOffset: 1720
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1720
+  endOffset: 1828
+- name: 'Data Modeling Theory: Wide vs Narrow Tables and Incrementalization Tradeoffs'
+  startOffset: 1828
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1828
+  endOffset: 2026
+- name: 'Learning Data Modeling: Practical Resources, Blog Posts and Mentorship'
+  startOffset: 2026
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2026
+  endOffset: 2130
+- name: 'Nontraditional Background: Classics to Data — Just‑In‑Time Learning and Udemy
+    SQL'
+  startOffset: 2130
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2130
+  endOffset: 2307
+- name: 'Product Analytics Focus: Growth, Retention, RFM Analysis and NLP Experiments'
+  startOffset: 2307
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2307
+  endOffset: 2376
+- name: 'Domain Knowledge Advantage: Marketing Funnel, User Journey & Empathy'
+  startOffset: 2376
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2376
+  endOffset: 2510
+- name: 'Transition Playbook: Excel, SQL, Dashboard Practice and Small Projects'
+  startOffset: 2510
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2510
+  endOffset: 2709
+- name: 'Mentorship & Sponsorship: Internal Champions, Confidence and Representation'
+  startOffset: 2709
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2709
+  endOffset: 3023
+- name: 'Networking Channels: LinkedIn, Meetups and DBT Slack for Mentors'
+  startOffset: 3023
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=3023
+  endOffset: 3130
+- name: 'Reading List: Analytics Newsletters & Blogs (DBT roundup, Lenny’s, Locally
+    Optimistic)'
+  startOffset: 3130
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=3130
+  endOffset: 3226
+- name: 'Contact & Wrap‑Up: Finding Nikola on LinkedIn and Episode Close'
+  startOffset: 3226
+  url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=3226
+  endOffset: 3274
 ---
 
 Links:

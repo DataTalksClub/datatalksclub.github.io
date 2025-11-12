@@ -1,0 +1,21 @@
+00:00:00 Podcast Introduction
+00:02:02 Guest Overview: Alexander Hendorf — Königsweg partner & PyData chair
+00:03:19 Career Path: from law and DJing to programming and machine learning
+00:05:07 Partner Role: team leadership, strategy, and client selection
+00:09:36 Community Engagement: PyData, cross-domain learning, and meetups
+00:11:33 Conference Organizing: becoming chair, scaling events, and organizer summit
+00:16:31 Public Speaking: generating talk ideas and learning through presentations
+00:20:56 Technical Talks: Pandas deep dives and "Deep Learning for Fun & Profit"
+00:24:31 Communicating AI to Business: simplification, open source, and stakeholder buy-in
+00:31:18 Enterprise AI Strategy: aligning initiatives, experiments, and company goals
+00:36:50 Experimentation Reality: evaluation, transparency, and avoiding hype-driven bets
+00:37:22 AI Limitations Illustrated: realistic expectations (Beethoven example)
+00:42:48 Innovation Patience: retrospectives, avoiding over-engineering, and timing
+00:46:03 Prioritization Over Perfection: "good enough" engineering and impact focus
+00:49:10 Data-First Approach: data lake concept, BI vs. ML vs. deep learning split
+00:52:12 Productionization Needs: retraining, feedback loops, and MLOps automation
+00:53:34 MLOps Best Practices: standardization, CI/CD, governance, and reproducibility
+00:55:35 MLOps Hype vs. Reality: buzzword caution and consultancy pitfalls
+00:58:51 Platform Selection & Longevity: vendor lock-in, long-term planning, and team maturity
+01:01:07 How to Reach Alexander: LinkedIn, Twitter, and PyData events
+01:02:34 Episode Wrap-Up and Upcoming Conferences

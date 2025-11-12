@@ -1,0 +1,30 @@
+00:01:14 Episode Introduction: MLOps & ML platform conversation with Simon
+00:02:00 Career & Transition: Research to industry, early platform work and management
+00:04:42 MLOps Definition: People, processes, and technology
+00:06:55 Deployment Challenges: Early blockers that launched MLOps work
+00:08:11 Core Platform Skills: Cloud infrastructure, Kubernetes, Terraform
+00:10:47 User-Centric Platform Design: Understanding data science workflows and notebooks
+00:13:25 Engineering Fundamentals: Software engineering for ML platforms
+00:13:50 Team Composition: Specialist vs generalist skill balance
+00:15:34 Team Size & On‑Call: Staffing and operational considerations
+00:16:52 Build vs Buy Decision: When to consider building an ML platform
+00:17:14 Platform Triggers: Signs you need standardization across teams
+00:20:04 Single-Team Value: SaaS components and incremental platform adoption
+00:21:03 Data Science Workflow: Exploration to training and evaluation
+00:28:20 Self‑Service Compute: Notebooks, BigQuery, Databricks provisioning
+00:29:41 Experiment Tracking: Low‑hanging fruit for reproducibility and collaboration
+00:30:32 Model Registry: Persisting models for downstream consumption
+00:31:15 Deployment Patterns: Batch inference versus online serving
+00:31:51 Orchestration Choices: Airflow, pipelines, and production workflows
+00:34:01 Tool Integration: Stitching SaaS and open-source into a coherent platform
+00:35:26 LLMs & Emerging Needs: Platform implications and vendor updates
+00:38:40 Developer Experience: Thin abstraction layers over cloud providers
+00:39:54 Regulatory Constraints: Fintech, security, and compliance impact
+00:42:48 Metadata & Lineage: Reproducibility, artifact logging, and tracking
+00:45:50 Data Governance: GDPR implications of logging and dataset storage
+00:47:08 Business-First Strategy: Models before heavy platform investment
+00:49:19 Parallelization Strategy: Building minimal platform pieces alongside use cases
+00:51:41 MLOps Skill Focus: When platform engineers should learn model internals
+00:54:15 API Design & Logging: Unified prediction schemas for monitoring and analytics
+00:57:32 Learning Resources: Books, practical projects, and MLOps training
+00:59:39 Episode Wrap‑Up and Closing Remarks

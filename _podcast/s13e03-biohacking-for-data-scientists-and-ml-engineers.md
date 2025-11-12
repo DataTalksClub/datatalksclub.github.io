@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=uyxUBADZYpU
 season: 13
 short: Biohacking for Data Scientists and ML Engineers
-title: Biohacking for Data Scientists and ML Engineers
+title: 'Actionable Biohacks to Boost Productivity: Sleep, Circadian Light, Dopamine
+  & Habits'
 transcript:
+- header: Podcast Introduction
+- header: Episode Overview & Guest Introduction
 - line: This week we'll talk about biohacking and improving productivity. We have
     a special guest today, Ruslan. Ruslan is a data scientist who lives in Berlin.
     He has tried a lot of healthy and not-so-healthy things to stay focused and productive.
@@ -36,7 +39,7 @@ transcript:
   sec: 131
   time: '2:11'
   who: Alexey
-- header: Ruslan’s background
+- header: 'Career Journey: From Business/Marketing to Data Science'
 - line: Before we go into our main topic of biohacking, let's start with your background.
     Can you tell us about your career journey so far?
   sec: 138
@@ -94,7 +97,7 @@ transcript:
   sec: 258
   time: '4:18'
   who: Ruslan
-- header: Fighting procrastination and perfectionism
+- header: 'Procrastination & Perfectionism: Acceptance and Deadline Effects'
 - line: So what are these habits that helped you during your studying and then later
     on? Not postponing everything until the last minute? [chuckles]
   sec: 291
@@ -136,7 +139,7 @@ transcript:
   sec: 372
   time: '6:12'
   who: Ruslan
-- header: What is biohacking?
+- header: 'Biohacking Defined: Behavioral Approaches vs. Chemical Interventions'
 - line: How is biohacking different from typical productivity methods like having
     deadlines, or having a plan, or having things like that?
   sec: 416
@@ -192,7 +195,7 @@ transcript:
   sec: 530
   time: '8:50'
   who: Ruslan
-- header: The role of dopamine and other hormones in daily life
+- header: 'Dopamine & Motivation: Problem-Solving Rewards and Habit Drivers'
 - line: What is this dopamine? A few interviews ago, I spoke with my colleague Sadat
     who was describing his experience of going from an individual contributor software
     engineer to a manager. One of the things he mentioned there was that when he was
@@ -243,7 +246,7 @@ transcript:
   sec: 698
   time: '11:38'
   who: Ruslan
-- header: How meditation can help
+- header: 'Meditation Benefits: Focus, Prefrontal Cortex, and Non-Sleep Deep Rest'
 - line: Interesting. Can you tell us about your journey into biohacking? During your
     university times, you were procrastinating and putting off things till the last
     moment, but then you realized that maybe it's not the best way of doing this.
@@ -397,7 +400,7 @@ transcript:
   sec: 1108
   time: '18:28'
   who: Ruslan
-- header: The influence light has on our bodies
+- header: 'Light Exposure & Circadian Health: Morning Sun, Cortisol, Melatonin'
 - line: So you tried meditation. What did you try after that?
   sec: 1121
   time: '18:41'
@@ -469,7 +472,7 @@ transcript:
   sec: 1289
   time: '21:29'
   who: Ruslan
-- header: Behavioral biohacking
+- header: 'Evolutionary Perspective: Simple Behavioral Biohacks for Productivity'
 - line: So that's why it's called behavioral biohacking, right? Because you don't
     really take any mushrooms – you just know that your body needs light. You go outside
     in the morning, even though in Berlin, sometimes the mornings are really depressing
@@ -572,7 +575,7 @@ transcript:
   sec: 1559
   time: '25:59'
   who: Ruslan
-- header: Daylight lamps and using light to wake up
+- header: 'Daylight Lamps & Wake Lighting: Alternatives for Low-Daylight Homes'
 - line: There is a question from Lisa, “Have you tried out daylight lamps? Can you
     recommend any? My apartment is quite dark naturally and I was wondering about
     those daylight lamps?”
@@ -621,7 +624,7 @@ transcript:
   sec: 1645
   time: '27:25'
   who: Ruslan
-- header: Sleep cycles
+- header: 'Sleep Planning: 90-Minute Cycles and Alarm Timing Strategies'
 - line: So we talked about meditation, we talked about light, and you said that sleep
     is the foundation of everything. We also probably need to talk a bit about that.
     It looks like you put quite a bit of effort (or at least it looks like that to
@@ -745,7 +748,7 @@ transcript:
   sec: 1937
   time: '32:17'
   who: Ruslan
-- header: How nutrition affects productivity
+- header: 'Nutrition for Focus: Protein Breakfasts, Lunch Effects, and Energy'
 - line: Speaking about diet – the typical one – another question we have is, “What
     about changes in your food intake. For example, do you have any special food that
     supports your concentration and energy levels?
@@ -908,7 +911,7 @@ transcript:
   sec: 2196
   time: '36:36'
   who: Ruslan
-- header: Measuring productivity
+- header: 'Productivity Tracking: Logs, Notion Dashboards, and Self-Reflection'
 - line: I don't think I've ever measured that. I just eat rice and then… I don't really
     know if it's the rice that contributed to my low energy level or a lack of sleep
     or a lack of sun or whatever. Maybe we can talk about these attribution models.
@@ -972,7 +975,7 @@ transcript:
   sec: 2444
   time: '40:44'
   who: Ruslan
-- header: Examples of unsuccessful biohacking attempts
+- header: 'Failed Experiments: Intermittent Fasting, Cold Showers, and Limits'
 - line: I'm curious, were there any things that you tried, but you think they didn't
     help?
   sec: 2476
@@ -1030,7 +1033,7 @@ transcript:
   sec: 2550
   time: '42:30'
   who: Alexey
-- header: Stoicism, voluntary discomfort, and self-challenges
+- header: 'Voluntary Discomfort & Dopamine Resets: Stoic Challenges'
 - line: Yeah, the thing about cold showers and some other stuff that clearly gives
     you discomfort. I think I am actually a bit biased towards trying such things
     and limiting myself. Maybe it's also related to stoicism, and this idea of voluntary
@@ -1106,7 +1109,7 @@ transcript:
   sec: 2729
   time: '45:29'
   who: Ruslan
-- header: Biohacking risks and ways to prevent them
+- header: 'Safety Considerations: Evidence-Based Biohacking and Medical Advice'
 - line: Are there any risks of biohacking?
   sec: 2747
   time: '45:47'
@@ -1136,7 +1139,7 @@ transcript:
   sec: 2802
   time: '46:42'
   who: Ruslan
-- header: Coffee and tea biohacking
+- header: 'Caffeine Strategy: Coffee, Timing, and Sleep Trade-Offs'
 - line: What do you think about coffee and tea? Are they helpful for productivity?
   sec: 2832
   time: '47:12'
@@ -1162,7 +1165,7 @@ transcript:
   sec: 2842
   time: '47:22'
   who: Ruslan
-- header: Using self-reflection and tracking to measure results
+- header: 'Habit Tracking in Practice: Steps, Exercise, Hydration Metrics'
 - line: We have quite a few questions, so maybe we should go through them. One interesting
     one is, “How do you measure productivity?”
   sec: 2901
@@ -1217,7 +1220,7 @@ transcript:
   sec: 3007
   time: '50:07'
   who: Ruslan
-- header: Mindset shifting
+- header: 'Mindset Shifts: Gratitude, Prioritization, and Sustainable Goals'
 - line: Actually, you mentioned this “voluntary discomfort.” So if you're okay with
     creating artificial challenges for yourself and having fun while doing this, I
     guess it's also a mind shift, right? [Ruslan agrees] [cross-talk] “Now I’m taking
@@ -1269,7 +1272,7 @@ transcript:
   sec: 3176
   time: '52:56'
   who: Ruslan
-- header: Stoicism book recommendation
+- header: 'Stoicism Reading Recommendation: Meditations and Mental Models'
 - line: Can you recommend any books on stoicism – on how to do this mindset shift?
   sec: 3178
   time: '52:58'
@@ -1297,7 +1300,7 @@ transcript:
   sec: 3210
   time: '53:30'
   who: Ruslan
-- header: Work/life balance
+- header: 'Prioritization Framework: Focusing on Five Impactful Goals'
 - line: Another question, “How do you manage your time between professional and personal
     daily life as an engineer?” I don't know if there “as an engineer part” is important
     here. But, how do you do this?
@@ -1326,6 +1329,7 @@ transcript:
   sec: 3241
   time: '54:01'
   who: Ruslan
+- header: 'Overcoming Perfectionism: Self-Compassion and Temporal Perspective'
 - line: At the beginning of this interview, we talked about perfectionism. You said,
     at the beginning, that you managed to overcome it – to accept that it's okay to
     not be perfect. The question we have is, “How did you change your mindset to overcome
@@ -1359,7 +1363,7 @@ transcript:
   sec: 3383
   time: '56:23'
   who: Ruslan
-- header: Ruslan’s biohacking resource recommendation
+- header: 'Resources for Learning Biohacking: Huberman Lab Podcast & Top Episodes'
 - line: Another question is – I was going to ask this question anyways, but since
     it's coming from the audience, “Which book would you recommend to learn more about
     biohacking? Anything special for data scientists or ML engineers by any chance?”
@@ -1396,7 +1400,7 @@ transcript:
   sec: 3528
   time: '58:48'
   who: Ruslan
-- header: Conclusion
+- header: Key Takeaways, Next Steps, and Episode Close
 - line: Good. So we will include that in the show notes. I think that's all we have
     time for today. We actually wanted to cover a lot more. That was quite ambitious.
     But that was fun. Thanks a lot for joining us today. Thanks for sharing all these
@@ -1417,6 +1421,123 @@ transcript:
   sec: 3565
   time: '59:25'
   who: Alexey
+description: Discover actionable biohacks for sleep and dopamine to boost productivity
+  with 90-min cycles, morning light, habit tracking and energy-focused routines.
+intro: How do small, science-aligned biohacks actually move the needle on focus and
+  productivity? In this episode, Ruslan Shchuchkin, a Berlin-based data scientist who
+  transitioned from business/marketing into data science after experimenting with
+  many techniques to stay focused, walks through practical, evidence-minded strategies
+  for improving performance. We cover the root causes of procrastination and perfectionism,
+  behavioral biohacking versus chemical interventions, and how dopamine-driven problem-solving
+  fuels habits. Ruslan explains meditation and NSDR for prefrontal focus, morning
+  sun and circadian light exposure to regulate cortisol and melatonin, and daylight
+  lamps and wake lighting for low-daylight homes. He shares sleep planning tips based
+  on 90-minute cycles, protein-forward nutrition for sustained focus, and caffeine
+  timing trade-offs. You’ll also hear about habit tracking (logs and Notion dashboards),
+  voluntary discomfort as a dopamine reset, failed experiments worth avoiding, safety
+  considerations, and a simple prioritization framework. If you want actionable biohacks—sleep,
+  circadian light, dopamine management, habit tracking, and meditation—to boost sustainable
+  productivity, this episode offers concrete, practical steps grounded in real-world
+  experience.
+dateadded: '2023-03-11'
+duration: PT00H57M58S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=0
+  endOffset: 87
+- name: Episode Overview & Guest Introduction
+  startOffset: 87
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=87
+  endOffset: 138
+- name: 'Career Journey: From Business/Marketing to Data Science'
+  startOffset: 138
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=138
+  endOffset: 291
+- name: 'Procrastination & Perfectionism: Acceptance and Deadline Effects'
+  startOffset: 291
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=291
+  endOffset: 416
+- name: 'Biohacking Defined: Behavioral Approaches vs. Chemical Interventions'
+  startOffset: 416
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=416
+  endOffset: 571
+- name: 'Dopamine & Motivation: Problem-Solving Rewards and Habit Drivers'
+  startOffset: 571
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=571
+  endOffset: 742
+- name: 'Meditation Benefits: Focus, Prefrontal Cortex, and Non-Sleep Deep Rest'
+  startOffset: 742
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=742
+  endOffset: 1121
+- name: 'Light Exposure & Circadian Health: Morning Sun, Cortisol, Melatonin'
+  startOffset: 1121
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=1121
+  endOffset: 1336
+- name: 'Evolutionary Perspective: Simple Behavioral Biohacks for Productivity'
+  startOffset: 1336
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=1336
+  endOffset: 1574
+- name: 'Daylight Lamps & Wake Lighting: Alternatives for Low-Daylight Homes'
+  startOffset: 1574
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=1574
+  endOffset: 1670
+- name: 'Sleep Planning: 90-Minute Cycles and Alarm Timing Strategies'
+  startOffset: 1670
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=1670
+  endOffset: 1978
+- name: 'Nutrition for Focus: Protein Breakfasts, Lunch Effects, and Energy'
+  startOffset: 1978
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=1978
+  endOffset: 2287
+- name: 'Productivity Tracking: Logs, Notion Dashboards, and Self-Reflection'
+  startOffset: 2287
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=2287
+  endOffset: 2476
+- name: 'Failed Experiments: Intermittent Fasting, Cold Showers, and Limits'
+  startOffset: 2476
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=2476
+  endOffset: 2605
+- name: 'Voluntary Discomfort & Dopamine Resets: Stoic Challenges'
+  startOffset: 2605
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=2605
+  endOffset: 2747
+- name: 'Safety Considerations: Evidence-Based Biohacking and Medical Advice'
+  startOffset: 2747
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=2747
+  endOffset: 2832
+- name: 'Caffeine Strategy: Coffee, Timing, and Sleep Trade-Offs'
+  startOffset: 2832
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=2832
+  endOffset: 2901
+- name: 'Habit Tracking in Practice: Steps, Exercise, Hydration Metrics'
+  startOffset: 2901
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=2901
+  endOffset: 3051
+- name: 'Mindset Shifts: Gratitude, Prioritization, and Sustainable Goals'
+  startOffset: 3051
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3051
+  endOffset: 3178
+- name: 'Stoicism Reading Recommendation: Meditations and Mental Models'
+  startOffset: 3178
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3178
+  endOffset: 3225
+- name: 'Prioritization Framework: Focusing on Five Impactful Goals'
+  startOffset: 3225
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3225
+  endOffset: 3321
+- name: 'Overcoming Perfectionism: Self-Compassion and Temporal Perspective'
+  startOffset: 3321
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3321
+  endOffset: 3443
+- name: 'Resources for Learning Biohacking: Huberman Lab Podcast & Top Episodes'
+  startOffset: 3443
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3443
+  endOffset: 3533
+- name: Key Takeaways, Next Steps, and Episode Close
+  startOffset: 3533
+  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3533
+  endOffset: 3478
 ---
 
 Links:

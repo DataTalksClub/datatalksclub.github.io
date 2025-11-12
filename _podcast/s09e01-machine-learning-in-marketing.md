@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=jsAxUd_bZpw
 season: 9
 short: Machine Learning in Marketing
-title: Machine Learning in Marketing
+title: 'Marketing Data Science: Attribution, Media Mix Modeling, Uplift & Cookieless
+  Tracking'
 transcript:
+- header: Podcast Introduction
+- header: 'Introduction: Juan Orduz — mathematician and data scientist'
 - line: This week, we'll talk about machine learning in marketing. We have a special
     guest today, Juan. Juan is a Berlin-based mathematician and data scientist. He
     is interested in statistical learning, time series analysis, Bayesian and geometric
@@ -27,7 +30,6 @@ transcript:
   sec: 121
   time: '2:01'
   who: Juan
-- header: Juan’s background
 - line: You recently gave a talk at PyData Berlin and I thought that the talk was
     amazing. I unfortunately wasn't able to attend the talk because they didn't let
     me in. The talk was already full and I couldn't get in. But I really wanted to
@@ -38,6 +40,7 @@ transcript:
   sec: 128
   time: '2:08'
   who: Alexey
+- header: 'Career Path: From geometric analysis to industry data science'
 - line: Yeah, of course. Before I jump in, I just wanted to say that the video of
     the PyData talk is live, so you can go check it out. It's online already. So,
     I'm originally from Colombia. I came to Berlin around 10 years ago to pursue my
@@ -74,6 +77,7 @@ transcript:
   sec: 167
   time: '2:47'
   who: Juan
+- header: Geometric Analysis Overview & connections to Bayesian sampling
 - line: Can you tell us a few words about geometric analysis? What is that?
   sec: 309
   time: '5:09'
@@ -121,7 +125,7 @@ transcript:
   sec: 408
   time: '6:48'
   who: Juan
-- header: Typical problems in marketing that are solved with ML
+- header: 'Machine Learning in Marketing: Key use cases (acquisition, retention, NLP)'
 - line: Interesting. I did not know about that. Not that I know much about Bayesian
     inference anyways, but I also didn't know that there is any connection to geometry
     there. Let's go back to marketing. Hopefully, I do know a few things there. Not
@@ -173,7 +177,7 @@ transcript:
   sec: 616
   time: '10:16'
   who: Juan
-- header: Attribution model
+- header: 'Attribution Basics: Multi-channel user journeys and ambiguity'
 - line: You also mentioned the attribution model. As I understand it, when we try
     to acquire a user, there are multiple ways of doing this – we can show a commercial
     on TV, we can put a banner on the street, or we can go to Facebook and show an
@@ -219,7 +223,6 @@ transcript:
   sec: 749
   time: '12:29'
   who: Juan
-- header: Media Mix Model – detecting uplift and channel saturation
 - line: I'm especially curious about TV. You said – you run a commercial on TV, but
     then users see the brand, so they may recognize the brand and then the next time
     they Google something, and they see, “food delivery” and then they click on this.
@@ -228,6 +231,7 @@ transcript:
   sec: 783
   time: '13:03'
   who: Alexey
+- header: 'Media Mix Modeling: Regression, saturation and ad-stock transformations'
 - line: Yeah, this is a tough problem. There’s a statistical technique to try to infer
     that. Actually, this is connected to what's called a “media mix model”. Let me
     take a step back. Before we had all of the cookies and tracking, marketers actually
@@ -252,6 +256,7 @@ transcript:
   sec: 893
   time: '14:53'
   who: Alexey
+- header: 'Campaign Uplift Estimation: Time series counterfactuals and ad impact'
 - line: Yeah. There are two ways of doing this – let's say level. You can do that
     holistically, because the marketing funnel is rather complex. In this case, what
     you do is a regression model. That's kind of the core of the media mix model,
@@ -327,6 +332,7 @@ transcript:
   sec: 1125
   time: '18:45'
   who: Juan
+- header: 'Measuring TV & Offline Channels: Aggregated impressions and time granularity'
 - line: There’s another thing that I'm really curious about. When it comes to Google
     or Facebook – you have tracking – you know that this user came from this channel
     – but when it comes to TV, you don't really know about that. So do you have another
@@ -353,7 +359,7 @@ transcript:
   sec: 1248
   time: '20:48'
   who: Juan
-- header: Changes to privacy regulations and its effect on user tracking
+- header: 'Privacy Changes and Cookieless Tracking: Impact of iOS 14.5'
 - line: You also mentioned that we have all these things that track us every time
     we click on an ad, a cookie – or some identifier of each of us – is somehow saved
     in the system and we have access to this. But you mentioned that there are changes
@@ -396,7 +402,7 @@ transcript:
   sec: 1358
   time: '22:38'
   who: Juan
-- header: User retention and churn prevention
+- header: 'Retention Modeling: Contractual vs non-contractual churn strategies'
 - line: Okay. So we do this, we understand how effective each marketing channel is,
     and then we can decide whether to spend some money in this channel or not. We
     also should keep in mind the saturation as you mentioned, and then another area
@@ -443,6 +449,7 @@ transcript:
   sec: 1534
   time: '25:34'
   who: Alexey
+- header: 'Purchase Frequency Modeling: Detecting unusual inactivity patterns'
 - line: Yeah, but also by that time, it's already too late. Just to give you an example,
     the whole idea is to model the purchase frequency. There are customers, for example,
     that order every Sunday, and there are customers that order every day. So the
@@ -510,6 +517,7 @@ transcript:
   sec: 1711
   time: '28:31'
   who: Alexey
+- header: 'Uplift Modeling: Targeted interventions versus churn prediction'
 - line: Yeah. [chuckles] I'm also very annoyed by these emails. I think these are
     two different problems in the sense that on the one hand, you want to have a model
     that predicts the probability that you're active. But then you need to do something
@@ -538,12 +546,12 @@ transcript:
   sec: 1843
   time: '30:43'
   who: Juan
-- header: A/B testing to detect uplift
 - line: I guess the factors you use here are like how often the user uses the app
     and what kind of patterns there are, right?
   sec: 1845
   time: '30:45'
   who: Alexey
+- header: 'A/B Testing for Uplift: Control/treatment design and data pitfalls'
 - line: Yeah. But these uplift models actually need an A/B test. So what you actually
     need – the training data on this optimal length actually are coming from a trace
     control split. You do the trace control split, you measure the uplift and then
@@ -631,12 +639,12 @@ transcript:
   sec: 2102
   time: '35:02'
   who: Juan
-- header: Statistical approach vs machine learning (setting a benchmark)
 - line: We have an interesting question, “Which approach is more efficient – statistical
     approach or machine learning?”
   sec: 2115
   time: '35:15'
   who: Alexey
+- header: 'Modeling Benchmarks: Start simple with baselines before complex ML'
 - line: I mean, I don't have a clear difference between these two. I would say that
     you should always go with a baseline that maybe neither of those and have that
     as a benchmark. So I wouldn't jump into these techniques unless it's necessary,
@@ -678,7 +686,7 @@ transcript:
   sec: 2205
   time: '36:45'
   who: Juan
-- header: Does retraining MMM models often improve efficiency?
+- header: 'MMM Retraining Cadence: Monthly updates and automation considerations'
 - line: Yeah, we have a question about this MMM model. I think they mean the media
     mix model. How often do you train these MMM models, and are there any significant
     gains in performance, if you retrain them weekly, for example?
@@ -695,12 +703,12 @@ transcript:
   sec: 2242
   time: '37:22'
   who: Juan
-- header: Attribution model baselines
 - line: We talked about a good baseline for churn prediction. What are good baselines
     here for attribution models?
   sec: 2291
   time: '38:11'
   who: Alexey
+- header: 'Attribution Baselines: Uniform allocation and look-alike approaches'
 - line: Again, this is really about the data that we have, because in an ideal situation,
     the attribution model would be deterministic and then you shouldn't have to model
     anything. But for example, in the iOS case, you really want to attribute that
@@ -723,7 +731,7 @@ transcript:
   sec: 2343
   time: '39:03'
   who: Juan
-- header: Choosing a decay rate for channels (Bayesian linear regression)
+- header: 'Learning Decay Rates: Estimating channel decay with Bayesian regression'
 - line: There is another question from Sebasis, which is probably also about this
     MMM model. Or it's related to saturation, I think. The question is, “How do you
     choose the decay rate for each channel? And what's the approach that you follow?”
@@ -742,7 +750,7 @@ transcript:
   sec: 2400
   time: '40:00'
   who: Juan
-- header: Learning resource suggestions
+- header: 'Learning Resources: Books, courses, talks and Juan’s blog'
 - line: Is there any good resource on learning all these things? We talked about the
     media mix model, we learned about this technique that you just mentioned, Bayesian
     linear regressions, uplift modeling, churn prediction – is there a good book or
@@ -763,7 +771,7 @@ transcript:
   sec: 2474
   time: '41:14'
   who: Juan
-- header: Bayesian approach vs Frequentist approach
+- header: 'Bayesian vs Frequentist: When to use priors and hierarchical models'
 - line: Yeah, thank you. I see a question from Amin. We talked about Bayesian linear
     regression, and the question from Amin is, “Do you use the Bayesian approach for
     building your statistical models, or are you more into the frequentist approach?”
@@ -859,7 +867,8 @@ transcript:
   sec: 2862
   time: '47:42'
   who: Juan
-- header: Suggestions for creating a marketing department
+- header: 'Building a Marketing Data Function: Data integrations and infrastructure
+    first'
 - line: Oh, I see we don't have a lot of time left. But there is a question I really
     wanted to ask you. Let's say – I work at a startup and we just started building
     a team. There is some product, we have a brand, but we don't have a marketing
@@ -898,6 +907,7 @@ transcript:
   sec: 2998
   time: '49:58'
   who: Alexey
+- header: 'Cross-functional Collaboration: Analysts, engineers and marketing stakeholders'
 - line: I mean, this definition is a little bit ambiguous. Because if there was an
     analyst working in this type of data integration and KPI modeling, I'm pretty
     sure that that person can definitely do some of the fundamentals of the problems
@@ -946,6 +956,7 @@ transcript:
   sec: 3177
   time: '52:57'
   who: Alexey
+- header: 'KPI Definition: Short-term vs long-term conversion objectives'
 - line: Yeah, maybe to add something to add on top of that – it's also key to define
     which KPIs you care about, so you can optimize in respect to that. Is it conversions?
     Which type of conversion? Because you can register today and use the app today,
@@ -972,7 +983,7 @@ transcript:
   sec: 3262
   time: '54:22'
   who: Juan
-- header: Most challenging problems in marketing
+- header: 'Hard Problems in Marketing: Offline channels, data quality, creative solutions'
 - line: So retention in this case is not only about having a good churn model, but
     it’s also having a good product. A product people want to use. If it’s buggy,
     if it crashes, then why do I need it? In your opinion, what are the most challenging
@@ -1000,7 +1011,7 @@ transcript:
   sec: 3334
   time: '55:34'
   who: Juan
-- header: The importance of knowing marketing domain knowledge for data scientists
+- header: 'Marketing Domain Knowledge: Stakeholder alignment and explainability'
 - line: How important do you think it is to know marketing for data scientists – if
     somebody wants to work in marketing? We talked about different terms like funnels,
     conversions, CTR – all these things. I guess for somebody who wants to go into
@@ -1029,7 +1040,7 @@ transcript:
   sec: 3459
   time: '57:39'
   who: Juan
-- header: Juan’s blog and other learning resources
+- header: 'Find Juan Online: Blog, GitHub and contact links'
 - line: Yeah, thank you. There is a question about your blog, and I did a quick Google
     search. The blog is Juanito Orduz? Sorry, I cannot pronounce that. Can you please
     say it?
@@ -1062,7 +1073,7 @@ transcript:
   sec: 3601
   time: '1:00:01'
   who: Juan
-- header: Finding Juan online
+- header: Closing Remarks & resource links
 - line: Maybe if you find it later, send us a link and we will put it up. So what's
     the best way to find you on the internet?
   sec: 3622
@@ -1089,6 +1100,137 @@ transcript:
   sec: 3673
   time: '1:01:13'
   who: Alexey
+description: Learn attribution, media mix modeling & cookieless tracking to measure
+  uplift, TV/offline impact and automate MMM for faster acquisition & retention
+intro: How can marketing teams reliably measure ad impact, allocate budget across
+  channels, and adapt to a cookieless world? In this episode, Juan Orduz — a Berlin‑based
+  mathematician and data scientist specializing in statistical learning, time series,
+  Bayesian and geometric methods — walks through practical marketing data science
+  approaches for attribution, media mix modeling (MMM), uplift modeling, and cookieless
+  tracking. <br><br> We cover attribution basics and multi‑channel ambiguity, MMM
+  techniques including regression, ad‑stock and saturation, and campaign uplift estimation
+  using time‑series counterfactuals. Juan explains measuring TV and offline channels,
+  the impact of privacy changes like iOS 14.5 on tracking, and strategies for retention
+  and purchase‑frequency modeling. You’ll also hear about uplift A/B testing design,
+  modeling benchmarks (start simple), MMM retraining cadence, learning decay rates
+  with Bayesian regression, and building a marketing data function with the right
+  data integrations and cross‑functional collaboration. <br><br> If you want actionable
+  guidance on attribution models, media mix optimization, privacy‑aware tracking,
+  and when to choose Bayesian vs frequentist methods, this episode gives clear frameworks,
+  common pitfalls, and learning resources to help practitioners improve measurement
+  and decision‑making.
+dateadded: '2022-05-28'
+duration: PT00H59M31S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=0
+  endOffset: 102
+- name: 'Introduction: Juan Orduz — mathematician and data scientist'
+  startOffset: 102
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=102
+  endOffset: 167
+- name: 'Career Path: From geometric analysis to industry data science'
+  startOffset: 167
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=167
+  endOffset: 309
+- name: Geometric Analysis Overview & connections to Bayesian sampling
+  startOffset: 309
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=309
+  endOffset: 451
+- name: 'Machine Learning in Marketing: Key use cases (acquisition, retention, NLP)'
+  startOffset: 451
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=451
+  endOffset: 618
+- name: 'Attribution Basics: Multi-channel user journeys and ambiguity'
+  startOffset: 618
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=618
+  endOffset: 816
+- name: 'Media Mix Modeling: Regression, saturation and ad-stock transformations'
+  startOffset: 816
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=816
+  endOffset: 898
+- name: 'Campaign Uplift Estimation: Time series counterfactuals and ad impact'
+  startOffset: 898
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=898
+  endOffset: 1188
+- name: 'Measuring TV & Offline Channels: Aggregated impressions and time granularity'
+  startOffset: 1188
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=1188
+  endOffset: 1249
+- name: 'Privacy Changes and Cookieless Tracking: Impact of iOS 14.5'
+  startOffset: 1249
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=1249
+  endOffset: 1384
+- name: 'Retention Modeling: Contractual vs non-contractual churn strategies'
+  startOffset: 1384
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=1384
+  endOffset: 1537
+- name: 'Purchase Frequency Modeling: Detecting unusual inactivity patterns'
+  startOffset: 1537
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=1537
+  endOffset: 1753
+- name: 'Uplift Modeling: Targeted interventions versus churn prediction'
+  startOffset: 1753
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=1753
+  endOffset: 1854
+- name: 'A/B Testing for Uplift: Control/treatment design and data pitfalls'
+  startOffset: 1854
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=1854
+  endOffset: 2124
+- name: 'Modeling Benchmarks: Start simple with baselines before complex ML'
+  startOffset: 2124
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2124
+  endOffset: 2225
+- name: 'MMM Retraining Cadence: Monthly updates and automation considerations'
+  startOffset: 2225
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2225
+  endOffset: 2302
+- name: 'Attribution Baselines: Uniform allocation and look-alike approaches'
+  startOffset: 2302
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2302
+  endOffset: 2381
+- name: 'Learning Decay Rates: Estimating channel decay with Bayesian regression'
+  startOffset: 2381
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2381
+  endOffset: 2446
+- name: 'Learning Resources: Books, courses, talks and Juan’s blog'
+  startOffset: 2446
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2446
+  endOffset: 2526
+- name: 'Bayesian vs Frequentist: When to use priors and hierarchical models'
+  startOffset: 2526
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2526
+  endOffset: 2886
+- name: 'Building a Marketing Data Function: Data integrations and infrastructure
+    first'
+  startOffset: 2886
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=2886
+  endOffset: 3050
+- name: 'Cross-functional Collaboration: Analysts, engineers and marketing stakeholders'
+  startOffset: 3050
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3050
+  endOffset: 3217
+- name: 'KPI Definition: Short-term vs long-term conversion objectives'
+  startOffset: 3217
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3217
+  endOffset: 3312
+- name: 'Hard Problems in Marketing: Offline channels, data quality, creative solutions'
+  startOffset: 3312
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3312
+  endOffset: 3422
+- name: 'Marketing Domain Knowledge: Stakeholder alignment and explainability'
+  startOffset: 3422
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3422
+  endOffset: 3528
+- name: 'Find Juan Online: Blog, GitHub and contact links'
+  startOffset: 3528
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3528
+  endOffset: 3622
+- name: Closing Remarks & resource links
+  startOffset: 3622
+  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3622
+  endOffset: 3571
 ---
 
 Links:

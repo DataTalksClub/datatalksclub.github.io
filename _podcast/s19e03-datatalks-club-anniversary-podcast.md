@@ -2,6 +2,20 @@
 episode: 3
 guests:
 - alexeygrigorev
+description: How do you grow an open, free-to-learn data community into a sustainable
+  education platform? In this episode, Alexey Grigorev — who founded DataTalks.Club
+  during COVID and later transitioned to running it full-time — walks through the
+  practical decisions and trade-offs behind building courses, community, and a product.
+  We cover the course portfolio (machine learning, data engineering, MLOps, LLMs,
+  stock analytics), organic growth from the Data Engineering Zoomcamp, and the technical
+  stack for scaling (a Django-based course platform). Johanna shares lessons on sponsorship
+  dynamics, prepaid tax realities in Germany, protecting community safety from scams,
+  and staying technical through pet projects, LLM experiments and an automated storytelling
+  pipeline. You’ll also hear about launching an LLM course and RAG experiments, early
+  validation and product-market fit, scaling challenges and loneliness, plus concrete
+  ways to contribute—guesting, mentoring, or joining project weeks. Listen for actionable
+  insights on running an online data community, course productization, community moderation,
+  and practical next steps if you want to build or support a data education ecosystem.
 ids:
   anchor: atatalksclub/episodes/DataTalks-Club-4th-Anniversary-AMA-Podcast--Alexey-Grigorev-and-Johanna-Bayer-e2q3ch2
   youtube: GHbeXIKnkLQ
@@ -13,9 +27,10 @@ links:
   youtube: https://www.youtube.com/watch?v=GHbeXIKnkLQ
 season: 19
 short: DataTalks.Club Anniversary Podcast
-title: DataTalks.Club Anniversary Podcast
+title: 'Inside Scaling DataTalks.Club: How We Built Free Data Engineering, MLOps &
+  LLM Courses'
 transcript:
-- header: DataTalks.Club anniversary "Ask Me Anything" event with Alexey Grigorev
+- header: Podcast Welcome & AMA Format (community links and live questions)
 - line: Hi, everyone. Welcome to our event. This event is brought to you by DataTalks.Club,
     a community for people who love data. We have weekly events, but today is a special
     one because this is not our usual Thursday event. Today is our anniversary "Ask
@@ -42,6 +57,7 @@ transcript:
   sec: 0
   time: 0:00
   who: Alexey
+- header: 'Host Intro: Johanna as special host'
 - line: Yeah, almost three years now, maybe around 2.5. I thought about it recently.
     And fun fact, I just got my official DataTalks.Club email address. I’m officially
     "in" now!
@@ -56,7 +72,7 @@ transcript:
   sec: 95
   time: '1:35'
   who: Johanna
-- header: The founding of DataTalks.Club
+- header: 'Origin Story: Founding DataTalks.Club during COVID'
 - line: Hi, everyone. My name is Alexey, or Alexei. In Russian, it's actually "Alexei,"
     but when I was in the U.S. for the first time, people started calling me Alexey,
     and I got used to it. You can call me whatever you want. I started DataTalks.Club
@@ -74,12 +90,13 @@ transcript:
   sec: 149
   time: '2:29'
   who: Alexey
-- header: Alexey's transition from Java work to DataTalks.Club
+- header: 'Career Shift: Transition to running DataTalks.Club full-time'
 - line: That’s great! Most people probably know you anyway. Before DataTalks.Club,
     you were doing mostly Java work, right? And now you’re full-time with DataTalks.Club?
   sec: 232
   time: '3:52'
   who: Johanna
+- header: 'Financial Decision: Leaving corporate work and early sustainability'
 - line: 'Yes, I was a data scientist at Helix. In April 2023, more than a year ago,
     I decided to focus on just one thing: DataTalks.Club. Before that, I was essentially
     doing two full-time jobs — both demanding jobs that required a lot of attention.
@@ -98,11 +115,12 @@ transcript:
   sec: 297
   time: '4:57'
   who: Alexey
-- header: Growth and success of DataTalks.Club courses
 - line: So, how has the year been for you since we last talked?
   sec: 298
   time: '4:58'
   who: Johanna
+- header: 'Course Portfolio: Machine Learning, Data Engineering, MLOps, LLMs, Stock
+    Analytics'
 - line: 'It’s been a really good year. We got two new sponsors, and our courses are
     doing well. Our Data Engineering course, in particular, has been very successful.
     Maybe I should give some background on the courses. We currently have five: Machine
@@ -133,6 +151,7 @@ transcript:
   sec: 307
   time: '5:07'
   who: Alexey
+- header: 'Organic Growth: Word-of-mouth success of Data Engineering Zoomcamp'
 - line: Yeah, regarding the non-promotion, I think the courses are set up in a way
     that encourages people to talk about them. People are basically promoting the
     courses for you!
@@ -152,6 +171,7 @@ transcript:
   sec: 538
   time: '8:58'
   who: Johanna
+- header: 'Community Safety: Upwork scam awareness and moderation tips'
 - line: Haha, yeah, that was funny. Maybe it’s still happening, but I don’t hear about
     it much anymore. What I have noticed is an increase in scams lately. For example,
     there’s something called the "Upwork scam." People will message you, asking you
@@ -180,7 +200,7 @@ transcript:
   sec: 694
   time: '11:34'
   who: Johanna
-- header: Motivation behind creating a free-to-learn community
+- header: 'Mission: Free-to-learn education inspired by Open Data Science'
 - line: This one question? Well, luckily I have it open in front of me too. So, why
     did you choose to create a free-to-learn community?
   sec: 724
@@ -236,6 +256,7 @@ transcript:
   sec: 985
   time: '16:25'
   who: Johanna
+- header: 'Community Impact: Student success stories and donations'
 - line: Yeah. And when someone tells me that my course changed their life, that’s
     the best part. Some people find jobs afterward and send me a message about how
     their life has changed. One student even decided to donate to DataTalks.Club after
@@ -270,6 +291,7 @@ transcript:
   sec: 987
   time: '16:27'
   who: Alexey
+- header: 'Sponsorship Dynamics: Revenue volatility and runway management'
 - line: There was a question about whether I’ve ever thought about stopping. It might
     happen. When I left my previous job to focus on DataTalks.Club, it coincided with
     the recession, and many sponsors canceled. I was expecting a certain amount of
@@ -292,6 +314,7 @@ transcript:
   sec: 1076
   time: '17:56'
   who: Alexey
+- header: 'Taxes & Cashflow: Prepaid tax system in Germany'
 - line: Wow. You also mentioned taxes. You had to pay a lot of taxes in advance?
   sec: 1214
   time: '20:14'
@@ -353,7 +376,8 @@ transcript:
   sec: 1418
   time: '23:38'
   who: Johanna
-- header: Staying updated in data science through pet projects
+- header: 'Staying Technical: Pet projects, LLM experiments, and automated storytelling
+    pipeline'
 - line: That's a good question. It's quite challenging. I have pet projects, which
     is how I try to stay updated. However, pet projects are not the same as working
     on real products. I still acquire some skills, but it's different from when I
@@ -389,11 +413,11 @@ transcript:
   sec: 1443
   time: '24:03'
   who: Alexey
-- header: Hosting a second podcast and maintaining programming skills
 - line: Wow, that's amazing. So, you're basically hosting a second podcast now.
   sec: 1597
   time: '26:37'
   who: Johanna
+- header: 'Product Work: Building the course platform in Django to scale courses'
 - line: Let's see how popular it becomes. Maybe I'll stop working with people. But
     all of this is open source; you can find it on my GitHub. Even though the content
     is in Russian, the code is in Python, so don't worry.
@@ -421,12 +445,12 @@ transcript:
   sec: 1603
   time: '26:43'
   who: Alexey
-- header: Skepticism about LLMs and their relevance
 - line: That's a common experience for someone who moves up the ladder, right? It
     happens to everyone.
   sec: 1736
   time: '28:56'
   who: Johanna
+- header: 'LLMs & RAG: From skepticism to launching an LLM course'
 - line: Yes, exactly. I was skeptical about the LLM course at first. I thought LLMs
     were just another trend like Web 3.0 or Blockchain — something everyone talks
     about for a month, and then it fades away.
@@ -460,7 +484,7 @@ transcript:
   sec: 1868
   time: '31:08'
   who: Johanna
-- header: Transitioning to DataTalks.Club and personal reflections
+- header: 'Life Update: Reflections on full-time community work and no regrets'
 - line: The next question is, you've been doing DataTalks.Club full-time for almost
     two years. How's life? Would you reverse your decision to leave corporate work
     or change anything?
@@ -494,11 +518,11 @@ transcript:
   sec: 1910
   time: '31:50'
   who: Johanna
-- header: Memorable moments and the first event's success
 - line: Cool! What was a memorable moment early on when you knew this would take off?
   sec: 2012
   time: '33:32'
   who: Johanna
+- header: 'Early Validation: First event success and finding product-market fit'
 - line: It was during our first event, which was organized by a different Dimitry.
     Hi, Dimitry! Someone asked me about it on LinkedIn, and I shared the details in
     a form.
@@ -537,13 +561,13 @@ transcript:
   sec: 2020
   time: '33:40'
   who: Alexey
-- header: Community building during the pandemic
 - line: The birth of DataTalks coincided with the pandemic, right? Many communities
     were formed during that time. Why do you think DataTalks is still thriving while
     many other communities have faded?
   sec: 2179
   time: '36:19'
   who: Johanna
+- header: 'Community Longevity: Active engagement, investment, and self-organization'
 - line: I've consulted with many people about community building. There's a misconception
     that you can create a community, and it will sustain itself. This can happen,
     as seen with Open Data Science, which became a true community. Even after their
@@ -568,7 +592,6 @@ transcript:
   sec: 2197
   time: '36:37'
   who: Alexey
-- header: AI's impact on data analysts and future roles
 - line: Okay. What do you think about the possibility of AI replacing data analysts?
   sec: 2311
   time: '38:31'
@@ -598,6 +621,7 @@ transcript:
   sec: 2341
   time: '39:01'
   who: Johanna
+- header: 'AI and Roles: Impact of AutoML/LLMs on data analysts and data scientists'
 - line: I think partly yes, for simple tasks. However, being an analyst involves much
     more than just using SQL to build dashboards. There's a component of talking to
     people and business domain expertise.
@@ -646,7 +670,7 @@ transcript:
   sec: 2354
   time: '39:14'
   who: Alexey
-- header: Discussion on AI in healthcare
+- header: 'AI in Healthcare: Human touch versus automated assistance'
 - line: Exactly. I'm more from the medical field, and I hear similar ideas about AI
     replacing doctors. However, people visit doctors for more than just a diagnosis;
     they want someone to talk to.
@@ -697,7 +721,6 @@ transcript:
   sec: 2664
   time: '44:24'
   who: Alexey
-- header: Age and reflections on personal milestones
 - line: That makes sense. I have a question that's not the next one, but I think it’s
     interesting. You were born in 1989, right?
   sec: 2677
@@ -733,6 +756,8 @@ transcript:
   sec: 2730
   time: '45:30'
   who: Johanna
+- header: 'Scaling Challenges: Time investment, loneliness, and rejecting acquisition
+    offers'
 - line: The amount of time and effort it would require. Looking back, I'm still unsure
     why I did it. It gave me meaning during COVID when my work wasn’t fulfilling.
   sec: 2744
@@ -778,11 +803,11 @@ transcript:
   sec: 2870
   time: '47:50'
   who: Alexey
-- header: Building communities and personal connections
 - line: I was thinking more about how few people you know who are also building communities.
   sec: 2874
   time: '47:54'
   who: Johanna
+- header: 'Networking Benefits: Masterminds, meetups, and personal connections'
 - line: For example, I often communicated with the founders of the ML Ops community.
     We even had a community mastermind group with someone from Locally Optimistic,
     a community for data analysts, along with members from other communities.
@@ -813,13 +838,13 @@ transcript:
   sec: 2973
   time: '49:33'
   who: Johanna
-- header: Future goals for the community and courses
 - line: Yeah, having a group of people wanting to scale the community is definitely
     beneficial. What would you like to achieve in the upcoming years? That’s a good
     question.
   sec: 2974
   time: '49:34'
   who: Johanna
+- header: 'Growth Objectives: More sponsors, new courses, and instructor autonomy'
 - line: So, I need more sponsors. That’s what I want to do. I’m looking to do more
     courses. We have this course platform, and I mentioned the one I did in Django.
     Previously, it was a lot of manual work — lots of Python scripts and Google Forms,
@@ -836,7 +861,6 @@ transcript:
   sec: 2989
   time: '49:49'
   who: Alexey
-- header: Community involvement and engagement strategies
 - line: Yeah, it has to be sustainable, right?
   sec: 3078
   time: '51:18'
@@ -850,6 +874,7 @@ transcript:
   sec: 3096
   time: '51:36'
   who: Johanna
+- header: 'How to Help: Be a guest, mentor in Slack, and join Project of the Week'
 - line: Well, there are many things you can do. First of all, you can be a guest on
     the podcast. You can tell your friends about the community, help others in Slack,
     and participate in our “Project of the Week.” This is a great initiative where
@@ -867,7 +892,7 @@ transcript:
   sec: 3223
   time: '53:43'
   who: Johanna
-- header: Ideas for competitions and hackathons
+- header: 'Events Roadmap: Competitions, future hackathons, and ML course contests'
 - line: So, we’ve had competitions before, as part of a long course, and we will have
     a competition for the ML course too. However, we haven’t had a hackathon yet,
     and that’s something I’d like to do. If anyone wants to get involved, just let
@@ -881,7 +906,6 @@ transcript:
   sec: 3243
   time: '54:03'
   who: Johanna
-- header: Inviting guests to the podcast
 - line: Especially for first-time podcast guests! For those who have been on other
     podcasts, it might be easier since they’ve already shared their experiences. But
     it’s also interesting to hear from someone who hasn’t spoken on a podcast yet.
@@ -898,7 +922,7 @@ transcript:
   sec: 3317
   time: '55:17'
   who: Johanna
-- header: Course updates and future workshops
+- header: 'Course Schedule: Stock market analytics rerun and upcoming workshops'
 - line: We talked about this recently. The course will run again next year, but we
     haven’t decided on a specific date or month yet. We’re aiming for around April.
     We want to do two workshops before that, covering material that wasn’t addressed
@@ -914,12 +938,12 @@ transcript:
   sec: 3379
   time: '56:19'
   who: Johanna
-- header: Podcast preparation and research process
 - line: 'That’s awesome! Now, this is a question from Johanna: how do you prepare
     the questions for the podcast? How has this evolved over time?'
   sec: 3387
   time: '56:27'
   who: Alexey
+- header: 'Podcast Workflow: Guest research, question prep, and interview process'
 - line: My qualifying feature for this position was that I commented on a LinkedIn
     post saying I had listened to all the episodes, which was true. Alexey reached
     out to me and asked if I wanted to help prepare the episodes almost three years
@@ -951,12 +975,12 @@ transcript:
   sec: 3505
   time: '58:25'
   who: Johanna
-- header: Career opportunities in data science and transitioning fields
 - line: What do we have? Maybe one more question? We have something about whether
     it’s too late to start being a data scientist.
   sec: 3510
   time: '58:30'
   who: Johanna
+- header: 'Career Advice: Starting in data science now and junior hiring realities'
 - line: No, I don’t think it’s late. As I said before, AI is just a tool you use;
     it doesn’t replace you. If you want to become a data scientist now, it’s actually
     the best time ever. Previously, you had to learn so much just to get started.
@@ -1002,7 +1026,7 @@ transcript:
   sec: 3656
   time: '1:00:56'
   who: Alexey
-- header: Book recommendations and personal reading experiences
+- header: 'Personal Reads: Book recommendations and current reading'
 - line: 'Cool! We’re almost at the hour, but there’s always the traditional last question:
     do you have a book recommendation for us or anything you’re reading at the moment?'
   sec: 3670
@@ -1028,6 +1052,7 @@ transcript:
   sec: 3750
   time: '1:02:30'
   who: Johanna
+- header: Closing Remarks & Thank You
 - line: Well, on that note, it was a pleasure! Do you have anything else we should
     mention?
   sec: 3761
@@ -1048,4 +1073,130 @@ transcript:
   sec: 3797
   time: '1:03:17'
   who: Johanna
+dateadded: '2024-11-08'
+duration: PT01H03M17S
+quotableClips:
+- name: Podcast Welcome & AMA Format (community links and live questions)
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=0
+  endOffset: 95
+- name: 'Host Intro: Johanna as special host'
+  startOffset: 95
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=95
+  endOffset: 149
+- name: 'Origin Story: Founding DataTalks.Club during COVID'
+  startOffset: 149
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=149
+  endOffset: 232
+- name: 'Career Shift: Transition to running DataTalks.Club full-time'
+  startOffset: 232
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=232
+  endOffset: 246
+- name: 'Financial Decision: Leaving corporate work and early sustainability'
+  startOffset: 246
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=246
+  endOffset: 307
+- name: 'Course Portfolio: Machine Learning, Data Engineering, MLOps, LLMs, Stock
+    Analytics'
+  startOffset: 307
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=307
+  endOffset: 493
+- name: 'Organic Growth: Word-of-mouth success of Data Engineering Zoomcamp'
+  startOffset: 493
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=493
+  endOffset: 562
+- name: 'Community Safety: Upwork scam awareness and moderation tips'
+  startOffset: 562
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=562
+  endOffset: 724
+- name: 'Mission: Free-to-learn education inspired by Open Data Science'
+  startOffset: 724
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=724
+  endOffset: 987
+- name: 'Community Impact: Student success stories and donations'
+  startOffset: 987
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=987
+  endOffset: 1076
+- name: 'Sponsorship Dynamics: Revenue volatility and runway management'
+  startOffset: 1076
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=1076
+  endOffset: 1214
+- name: 'Taxes & Cashflow: Prepaid tax system in Germany'
+  startOffset: 1214
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=1214
+  endOffset: 1443
+- name: 'Staying Technical: Pet projects, LLM experiments, and automated storytelling
+    pipeline'
+  startOffset: 1443
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=1443
+  endOffset: 1603
+- name: 'Product Work: Building the course platform in Django to scale courses'
+  startOffset: 1603
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=1603
+  endOffset: 1754
+- name: 'LLMs & RAG: From skepticism to launching an LLM course'
+  startOffset: 1754
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=1754
+  endOffset: 1910
+- name: 'Life Update: Reflections on full-time community work and no regrets'
+  startOffset: 1910
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=1910
+  endOffset: 2020
+- name: 'Early Validation: First event success and finding product-market fit'
+  startOffset: 2020
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2020
+  endOffset: 2197
+- name: 'Community Longevity: Active engagement, investment, and self-organization'
+  startOffset: 2197
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2197
+  endOffset: 2354
+- name: 'AI and Roles: Impact of AutoML/LLMs on data analysts and data scientists'
+  startOffset: 2354
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2354
+  endOffset: 2544
+- name: 'AI in Healthcare: Human touch versus automated assistance'
+  startOffset: 2544
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2544
+  endOffset: 2744
+- name: 'Scaling Challenges: Time investment, loneliness, and rejecting acquisition
+    offers'
+  startOffset: 2744
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2744
+  endOffset: 2882
+- name: 'Networking Benefits: Masterminds, meetups, and personal connections'
+  startOffset: 2882
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2882
+  endOffset: 2989
+- name: 'Growth Objectives: More sponsors, new courses, and instructor autonomy'
+  startOffset: 2989
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=2989
+  endOffset: 3098
+- name: 'How to Help: Be a guest, mentor in Slack, and join Project of the Week'
+  startOffset: 3098
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3098
+  endOffset: 3226
+- name: 'Events Roadmap: Competitions, future hackathons, and ML course contests'
+  startOffset: 3226
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3226
+  endOffset: 3329
+- name: 'Course Schedule: Stock market analytics rerun and upcoming workshops'
+  startOffset: 3329
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3329
+  endOffset: 3401
+- name: 'Podcast Workflow: Guest research, question prep, and interview process'
+  startOffset: 3401
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3401
+  endOffset: 3527
+- name: 'Career Advice: Starting in data science now and junior hiring realities'
+  startOffset: 3527
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3527
+  endOffset: 3670
+- name: 'Personal Reads: Book recommendations and current reading'
+  startOffset: 3670
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3670
+  endOffset: 3761
+- name: Closing Remarks & Thank You
+  startOffset: 3761
+  url: https://www.youtube.com/watch?v=GHbeXIKnkLQ&t=3761
+  endOffset: 3797
 ---

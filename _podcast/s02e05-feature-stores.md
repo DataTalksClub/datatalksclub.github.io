@@ -1,25 +1,138 @@
 ---
-title: "Feature Stores in MLOps Explained with Willem Pienaar"
-short: "Feature Stores in MLOps Explained"
-description: "Learn what feature stores are and when to use them from Willem Pienaar, creator of Feast. Discover how feature stores solve ML production challenges, compare Feast vs Tecton architectures, and get practical guidance for implementing feature stores in your ML platform. Essential MLOps knowledge for data scientists and ML engineers."
-tags: ["feature-stores", "feast", "tecton", "mlops", "machine-learning", "data-science", "ml-platform", "ml-architecture", "willem-pienaar", "gojek"]
-
-guests: [willempienaar]
-
+title: 'Feature Stores for MLOps: Real-Time Feature Engineering, Feast & Tecton Guide'
+short: Feature Stores in MLOps Explained
+description: Discover feature store use cases, real-time features with Feast & Tecton,
+  build scalable MLOps to speed production, cut duplication and detect drift.
+tags:
+- feature-stores
+- feast
+- tecton
+- mlops
+- machine-learning
+- data-science
+- ml-platform
+- ml-architecture
+- willem-pienaar
+- gojek
+guests:
+- willempienaar
 image: images/podcast/s02e05-feature-stores.jpg
-
 season: 2
 episode: 5
-
 ids:
   youtube: FQYTb4uWljQ
   anchor: Feature-Stores-Cutting-through-the-Hype---Willem-Pienaar-ept6m8/a-a4hlg3r
-
 links:
   youtube: https://www.youtube.com/watch?v=FQYTb4uWljQ
   anchor: https://anchor.fm/datatalksclub/episodes/Feature-Stores-Cutting-through-the-Hype---Willem-Pienaar-ept6m8/a-a4hlg3r
   spotify: https://open.spotify.com/episode/05YnfTWbplXwOwicR2doy3
   apple: https://podcasts.apple.com/us/podcast/feature-stores-cutting-through-the-hype-willem-pienaar/id1541710331?i=1000508782957
+intro: How do you reliably build and serve real‑time features for production ML without
+  rework, duplication, or training/serving skew? In this episode, Willem Pienaar —
+  engineering lead at Tecton and creator of Feast — walks through what feature stores
+  solve in MLOps and how they enable real‑time feature engineering. We define feature
+  stores, compare feature creation vs retrieval (SQL, Python, APIs, on‑demand transforms),
+  and illustrate a production real‑time fraud detection lookup. Willem separates hype
+  from value, explains organizational challenges like team silos and speed to production,
+  and outlines the platform role across materialization, serving, and validation.
+  <br><br> You’ll get practical coverage of Feast (open‑source) and Tecton (enterprise),
+  architecture components (transform engine, storage, serving, registry, monitoring),
+  and when online tabular use cases require a feature store versus when it’s overkill.
+  The episode also covers integrations (dbt, Kubeflow, Airflow), streaming vs batch
+  (Flink, Spark), validation and monitoring (drift detection, Great Expectations,
+  TFDV), backfilling strategies, ownership and governance, and getting started resources
+  (feast.dev, Docker). Listen to learn when to adopt a feature store and concrete
+  next steps for productionizing features in your MLOps stack.
+dateadded: '2021-02-23'
+quotableClips:
+- name: 'Episode Introduction: Feature Stores in MLOps'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=0
+  endOffset: 120
+- name: 'Background: From Mechatronic Engineering to ML Platform Builder'
+  startOffset: 120
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=120
+  endOffset: 390
+- name: Feature Store Definition and Core ML Problems Addressed
+  startOffset: 390
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=390
+  endOffset: 660
+- name: 'Transformations: From Raw Streams/Warehouses to Features'
+  startOffset: 660
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=660
+  endOffset: 870
+- name: 'Feature Creation vs Retrieval: SQL, Python, APIs, and On‑Demand Transforms'
+  startOffset: 870
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=870
+  endOffset: 990
+- name: 'Production Example: Real‑Time Fraud Detection Feature Lookup'
+  startOffset: 990
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=990
+  endOffset: 1110
+- name: 'Hype vs Value: Why Feature Stores Matter in MLOps'
+  startOffset: 1110
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=1110
+  endOffset: 1260
+- name: 'Organizational Challenges: Team Silos, Duplication, and Speed to Production'
+  startOffset: 1260
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=1260
+  endOffset: 1500
+- name: 'Platform Role: Feature Stores within the ML Lifecycle'
+  startOffset: 1500
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=1500
+  endOffset: 1680
+- name: 'Ideal Production Setup: Materialization, Serving, and Validation'
+  startOffset: 1680
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=1680
+  endOffset: 1890
+- name: 'Feast Overview: Open‑Source Feature Store Design and Use Cases'
+  startOffset: 1890
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=1890
+  endOffset: 2040
+- name: 'Tecton Overview: Enterprise Feature Platform and Full Lifecycle Support'
+  startOffset: 2040
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=2040
+  endOffset: 2190
+- name: 'Architecture Breakdown: Transform Engine, Storage, Serving, Registry, Monitoring'
+  startOffset: 2190
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=2190
+  endOffset: 2400
+- name: 'When to Adopt Feature Stores: Online Tabular Use Cases vs Overkill Scenarios'
+  startOffset: 2400
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=2400
+  endOffset: 2550
+- name: 'Integrations: dbt, Kubeflow, Airflow, Warehouses, and ML Pipelines'
+  startOffset: 2550
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=2550
+  endOffset: 2700
+- name: 'Streaming vs Batch: Flink, Spark, and Real‑Time Feature Engineering'
+  startOffset: 2700
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=2700
+  endOffset: 2850
+- name: 'Validation and Monitoring: Drift Detection, Great Expectations, TFDV'
+  startOffset: 2850
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=2850
+  endOffset: 3000
+- name: Backfilling and Materialization Strategies for Historical Features
+  startOffset: 3000
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=3000
+  endOffset: 3120
+- name: Feature Ownership, Governance, and Migration Strategies
+  startOffset: 3120
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=3120
+  endOffset: 3240
+- name: 'Practical Getting Started: feast.dev, Docker Examples, and Learning Resources'
+  startOffset: 3240
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=3240
+  endOffset: 3360
+- name: 'Key Takeaways: Where Feature Stores Deliver Business Impact'
+  startOffset: 3360
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=3360
+  endOffset: 3450
+- name: Episode Close and Further Resources
+  startOffset: 3450
+  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=3450
+  endOffset: 3450
 ---
 
 In this episode, we dive deeper into feature stores with Willem, creator of Feast (an open-source feature store). Previously, Willem led the Data Science Platform team at Gojek and now works at Tecton, which develops feature store technology.

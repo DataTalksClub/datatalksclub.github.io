@@ -1317,6 +1317,118 @@ transcript:
   sec: 3651
   time: '1:00:51'
   who: Valerii
+dateadded: '2022-02-19'
+duration: PT00H59M
+quotableClips:
+- name: Podcast Introduction & Episode Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=0
+  endOffset: 111
+- name: 'Valerii Background: Career Snapshot and Kaggle Achievements'
+  startOffset: 111
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=111
+  endOffset: 201
+- name: 'Blockchain.com Role: Scope, Responsibilities, and Data Ownership'
+  startOffset: 201
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=201
+  endOffset: 346
+- name: 'Transition to Meta: User Privacy Work and Large-Scale ML Experience'
+  startOffset: 346
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=346
+  endOffset: 451
+- name: 'Hiring Experience: Conducting High-Volume Interviews and Team Leadership'
+  startOffset: 451
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=451
+  endOffset: 552
+- name: 'Candidate Targeting: Who Faces ML System Design Interviews'
+  startOffset: 552
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=552
+  endOffset: 683
+- name: 'Interview Structure: 45-Minute Narrative and Evaluation Goals'
+  startOffset: 683
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=683
+  endOffset: 838
+- name: 'Contrast: Software System Design Versus ML System Design'
+  startOffset: 838
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=838
+  endOffset: 1003
+- name: 'Fraud Detection Case Study: Probabilities, Loss Functions, and Real-Time
+    Needs'
+  startOffset: 838
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=838
+  endOffset: 1003
+- name: Labeling, Class Imbalance, and Feature Engineering Tradeoffs
+  startOffset: 1003
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=1003
+  endOffset: 1233
+- name: 'Interview Tactics: Stating Assumptions and Getting Alignment'
+  startOffset: 1233
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=1233
+  endOffset: 1325
+- name: 'Example: Points-of-Interest System vs Personalized Recommender'
+  startOffset: 1325
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=1325
+  endOffset: 1468
+- name: 'End-to-End ML Pipeline: Metrics, Baselines, and A/B Testing'
+  startOffset: 1468
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=1468
+  endOffset: 1749
+- name: 'Securing the Interview: Iterative Baselines and Signposting Depth'
+  startOffset: 1749
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=1749
+  endOffset: 1918
+- name: 'Appropriate Depth: Practical ML Decisions vs Research-Level Detail'
+  startOffset: 1918
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=1918
+  endOffset: 2011
+- name: 'Preparation Strategies: Mock Interviews, Resources, and Experience'
+  startOffset: 2011
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=2011
+  endOffset: 2279
+- name: 'Industry Checklist: Core ML Project Review Items and Patterns'
+  startOffset: 2279
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=2279
+  endOffset: 2411
+- name: 'Defining Goals and Proxy Metrics: Business Alignment and Long-Term Health'
+  startOffset: 2411
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=2411
+  endOffset: 2651
+- name: Features, Labels, Model Selection, and Validation Workflow
+  startOffset: 2651
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=2651
+  endOffset: 2762
+- name: 'Production Robustness: Monitoring, Distribution Shift, and Fallbacks'
+  startOffset: 2762
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=2762
+  endOffset: 2872
+- name: 'System Components: Why Features Matter More Than Model Architecture'
+  startOffset: 2872
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=2872
+  endOffset: 3057
+- name: 'Engineering Integration: Serving Models, Embeddings, and MLOps Roles'
+  startOffset: 3057
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=3057
+  endOffset: 3145
+- name: When to Avoid ML and Useful Design Pattern References
+  startOffset: 3145
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=3145
+  endOffset: 3247
+- name: 'New Grad Expectations: Coding Focus and Limited System Design'
+  startOffset: 3247
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=3247
+  endOffset: 3443
+- name: 'Validating in Production: A/B Tests, Causality, and Human Labels'
+  startOffset: 3443
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=3443
+  endOffset: 3541
+- name: 'Career Path: Moving from Data Science Practice to System Design'
+  startOffset: 3541
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=3541
+  endOffset: 3603
+- name: Closing Remarks and Contact Information
+  startOffset: 3603
+  url: https://www.youtube.com/watch?v=0RsmRjar66E&t=3603
+  endOffset: 3540
 ---
 Links:
 

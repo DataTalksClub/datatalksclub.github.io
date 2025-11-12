@@ -1,0 +1,22 @@
+00:00:00 Podcast Introduction
+00:01:15 Early Life & Informatics Engineering; phone industry beginnings
+00:03:41 Phone prototyping and field testing: QA checklists, CTS & RF testing
+00:08:35 Career pivot: quitting QA, gap year, and discovering machine learning
+00:13:32 Structured learning path: postgraduate course, Neuromatch Academy, ML & Data Engineering Zoomcamps
+00:17:57 Job search strategy: improving soft skills, hiring a coach, and CV redesign
+00:22:38 Interview soft skills: role-play, confidence building, and behavioral prep
+00:24:57 Zoomcamp projects: speed-dating EDA and vegetable image-classification
+00:27:16 Project deployment experience: Google Cloud, AWS exercises, and cloud credits
+00:28:52 Presenting projects objectively: avoid underselling and focus on facts
+00:31:38 Interview formats encountered: take-home tasks, time-series exercise, and NLP-focused hiring
+00:34:01 Cloud familiarity in interviews: Google Cloud, Azure, AWS—what mattered
+00:35:02 Creating technical notes: long-form Markdown, GitHub gists, and screenshots
+00:37:18 Note-taking workflow: video pause-write method, indexes, and VS Code
+00:43:33 Role of a coach: negotiation practice, interview framing, and communication
+00:47:39 Skill distinction: math-heavy research ML vs. tooling-focused data engineering
+00:49:32 Technical interview prep: tailor study to role, projects, and hands-on exercises
+00:51:53 Typical workday as an ML project manager: planning, Teams, and task coordination
+00:54:12 Production tech stack: Azure, Databricks, AutoKeras, Azure Data Factory, and SQL
+00:56:11 Transition advice: programming background, math, and transferable skills for ML careers
+01:00:26 CV and portfolio tips: visual résumé, GitHub visibility, and sample CV link
+01:02:11 Closing remarks & links: CV, GitHub, and LinkedIn resources

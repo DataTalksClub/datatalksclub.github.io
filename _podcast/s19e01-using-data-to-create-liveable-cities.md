@@ -13,9 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=VXQIGHUWeL0
 season: 19
 short: Using Data to Create Liveable Cities
-title: Using Data to Create Liveable Cities
+title: How Urban Transport Data & AI Enable Real-Time Monitoring, Demand Forecasting
+  & Data Pipelines
 transcript:
-- header: Using data to create livable cities
+- header: Episode Introduction
+- header: 'Guest Introduction: Rachel Lim, urban data scientist'
 - line: This week, we'll talk about using data to create livable cities. We have a
     special guest today, Rachel Lim. Rachel is an urban data scientist dedicated to
     creating livable cities through the innovative use of data. Welcome, Rachel!
@@ -32,7 +34,7 @@ transcript:
   sec: 161
   time: '2:41'
   who: Alexey
-- header: 'Rachel''s career journey: from geography to urban data science'
+- header: 'Career Path: Geography to urban informatics and data engineering'
 - line: Yes, I'm currently working as a data engineer in Singapore, focusing on creating
     livable cities using data. My background is in geography — I have a bachelor's
     degree in geography and a master's in urban data science. I blend qualitative
@@ -62,13 +64,13 @@ transcript:
   sec: 245
   time: '4:05'
   who: Rachel
-- header: What does a transport scientist do?
 - line: You mentioned you were a transport scientist. That’s an interesting title.
     What exactly does a transport scientist do, and what types of organizations need
     this role?
   sec: 260
   time: '4:20'
   who: Alexey
+- header: 'Transport Scientist Role: public sector and consultancy applications'
 - line: Transport scientists are usually needed in the public sector, especially in
     government agencies involved in transportation planning. The role involves applying
     data science in a practical way to public transport and transportation planning.
@@ -83,7 +85,7 @@ transcript:
   sec: 323
   time: '5:23'
   who: Alexey
-- header: Short-term and long-term transportation planning
+- header: 'Planning Horizons: short-term operations vs long-term infrastructure'
 - line: Yes, that’s part of it. We separate our work into short-term and long-term
     planning. In the short term, we look at bus routes, service frequencies, travel
     patterns, and how well services are meeting users' needs. In the long term, we
@@ -92,13 +94,13 @@ transcript:
   sec: 334
   time: '5:34'
   who: Rachel
-- header: Data sources for transportation planning in Singapore
 - line: I guess each bus in Singapore has sensors to track its location and passenger
     load, right? This data helps you see if certain routes are overcrowded and need
     more frequent service?
   sec: 374
   time: '6:14'
   who: Alexey
+- header: 'Data Sources for Transport: GPS, sensors, fare cards, ride-hailing'
 - line: Exactly. We use a combination of data sources. Buses are equipped with GPS
     transponders, allowing us to track their locations and times at each bus stop.
     This helps us identify issues like bus bunching, where multiple buses arrive at
@@ -116,6 +118,7 @@ transcript:
   sec: 456
   time: '7:36'
   who: Alexey
+- header: 'Fare Card Systems: tap-in/tap-out travel data mechanics'
 - line: In Singapore, we use a fare card system similar to London's Oyster card or
     New York's MetroCard. Passengers tap their card when they enter and exit public
     transportation, like trains and buses.
@@ -128,18 +131,19 @@ transcript:
   sec: 479
   time: '7:59'
   who: Alexey
+- header: Computer Vision for Passenger Flow where fare data is absent
 - line: Yes, that approach makes it more challenging to collect travel data. You’d
     need to rely on video surveillance and computer vision to analyze passenger flow,
     which is more complex than just processing fare card events.
   sec: 500
   time: '8:20'
   who: Rachel
-- header: Rachel's motivation for combining geography and data science
 - line: Definitely. So, what motivated you to work at the intersection of geography
     and data science?
   sec: 518
   time: '8:38'
   who: Alexey
+- header: 'Professional Motivation: internships, World City Summit, master’s study'
 - line: Growing up in Singapore, I was fascinated by the systems shaping our cities.
     I witnessed firsthand how the city rapidly expanded its MRT (Mass Rapid Transit)
     network and developed new housing estates. This sparked my interest in urban planning
@@ -161,7 +165,6 @@ transcript:
   sec: 535
   time: '8:55'
   who: Rachel
-- header: Urban design and its connection to geography
 - line: That's interesting. My knowledge of geography is mostly from school, where
     we learned things like capital cities and natural features. I didn't realize geography
     could involve urban design. Is urban design about planning new districts, including
@@ -169,6 +172,7 @@ transcript:
   sec: 619
   time: '10:19'
   who: Alexey
+- header: 'Urban Design Principles: walkability, public spaces, human-scale streets'
 - line: Yes, but it goes beyond just planning where things go. It’s about designing
     environments that are livable. This involves making streets walkable, deciding
     on the width of streets, placing sidewalks, and using elements like planter boxes
@@ -190,12 +194,12 @@ transcript:
   sec: 740
   time: '12:20'
   who: Rachel
-- header: Defining a livable city
 - line: So far, we’ve talked about what makes a city livable — parks, pedestrian zones,
     traffic management, and fostering community. How would you define a livable city?
   sec: 792
   time: '13:12'
   who: Alexey
+- header: 'Livability Criteria: transport, housing, green space, digital access'
 - line: A livable city is one where people feel connected to their community and have
     opportunities to thrive. In terms of the built environment, this can include efficient
     public transport with a well-connected network of buses, trains, and bike-sharing
@@ -212,12 +216,12 @@ transcript:
   sec: 829
   time: '13:49'
   who: Rachel
-- header: Livability of Singapore and urban planning
 - line: How livable is Singapore, in your opinion? I've never been there, but it's
     on my list.
   sec: 930
   time: '15:30'
   who: Alexey
+- header: 'Singapore Planning Practices: Master Plan and placemaking initiatives'
 - line: Singapore has made significant progress. Initially, we focused on developing
     housing estates, but now there's a greater emphasis on placemaking — creating
     spaces where people can gather and enjoy. We're also converting certain streets
@@ -247,7 +251,7 @@ transcript:
   sec: 1036
   time: '17:16'
   who: Alexey
-- header: Role of data science in urban and transportation planning
+- header: 'Open Data & Collaboration: public datasets enabling research and apps'
 - line: Planning a city requires deliberate effort, and data science plays a critical
     role in improving livability by offering insights and supporting data-driven decision-making.
     By analyzing data collected throughout the city, we can optimize services, enhance
@@ -269,7 +273,6 @@ transcript:
   sec: 1104
   time: '18:24'
   who: Rachel
-- header: Predicting travel patterns for future transportation needs
 - line: That's interesting because you mentioned predicting where people will move.
     If I understood correctly, for instance, if more people start moving from one
     part of Singapore to another, you can anticipate this trend. Maybe a district
@@ -279,6 +282,7 @@ transcript:
   sec: 1231
   time: '20:31'
   who: Alexey
+- header: 'Travel Demand Forecasting: predicting movements for infrastructure planning'
 - line: Yes, that's right. Singapore is quite small, so we actively plan how housing
     estates will develop. This could involve building new housing estates or renewing
     and rejuvenating existing areas. By doing so, we can estimate how many people
@@ -289,7 +293,6 @@ transcript:
   sec: 1269
   time: '21:09'
   who: Rachel
-- header: Data collection and processing in transportation systems
 - line: I see. As a data scientist, you can't do much without data. You mentioned
     various data types, like sensor data, movement patterns, and ride-hailing information.
     All of this needs to be collected, processed, and analyzed. This must involve
@@ -300,6 +303,7 @@ transcript:
   sec: 1322
   time: '22:02'
   who: Alexey
+- header: 'Data Pipelines & Warehousing: aggregation of real-time and historical data'
 - line: Yes, we work with a combination of data sources. We gather GPS data from ride-hailing
     companies and public transport, along with fare card information about when and
     where people are tapping in and out. In our data pipelines, we have an end-to-end
@@ -311,11 +315,11 @@ transcript:
   sec: 1381
   time: '23:01'
   who: Rachel
-- header: Use of real-time data for traffic management
 - line: Are there situations where you actually need real-time data as well?
   sec: 1442
   time: '24:02'
   who: Alexey
+- header: 'Real-Time Monitoring: traffic management and event analytics (F1 example)'
 - line: Yes, real-time data is often needed for managing operations. For example,
     to monitor the reliability of services, real-time data is essential. Another use
     case is tracking traffic flow during specific events. In Singapore, we host the
@@ -330,6 +334,7 @@ transcript:
   sec: 1507
   time: '25:07'
   who: Alexey
+- header: 'Operational Response: cameras, recovery services, traffic marshals'
 - line: It depends on the location. If a traffic jam occurs on an expressway, we have
     cameras that monitor these areas, pinpointing where the issue is. Recovery services,
     like tow trucks or other assistance, are dispatched to manage the situation and
@@ -364,7 +369,6 @@ transcript:
   sec: 1590
   time: '26:30'
   who: Rachel
-- header: Incorporating generative AI into data engineering
 - line: That makes sense. Having connected parks where people can run without needing
     to wait for traffic lights is an excellent way to make a city more livable. I'm
     into running myself, and finding a route without having to wait for traffic lights
@@ -374,6 +378,7 @@ transcript:
   sec: 1626
   time: '27:06'
   who: Alexey
+- header: 'Generative AI in Data Engineering: natural-language access to data'
 - line: My role is more focused on transportation. While I don't directly manage these
     events, I work on data preparation and building data pipelines, ensuring that
     transportation systems run smoothly. Increasingly, I'm also looking at ways to
@@ -402,7 +407,6 @@ transcript:
   sec: 1793
   time: '29:53'
   who: Alexey
-- header: Data analysis for transportation policies
 - line: Yes, they could be subject matter experts, like those working in policy-making.
     They need data to develop data-driven policies.
   sec: 1809
@@ -461,7 +465,7 @@ transcript:
   sec: 1979
   time: '32:59'
   who: Rachel
-- header: Technologies used in text-to-SQL projects
+- header: 'Text-to-SQL Architecture: metadata, vector DB, RAG and LLMs'
 - line: What technologies or approaches are you using for this project? It sounds
     like a fascinating application of large language models (LLMs), and it might interest
     our LLM Zoomcamp students to learn about its practical uses.
@@ -491,6 +495,7 @@ transcript:
   sec: 2109
   time: '35:09'
   who: Alexey
+- header: 'Prompt Engineering & Query Safety: reliability and SQL restrictions'
 - line: I don't have exact numbers, but it does happen. Success largely depends on
     effective prompt engineering. Providing sufficient examples of text-to-SQL conversions
     helps guide the LLM. It’s also important to restrict certain types of SQL commands,
@@ -498,7 +503,6 @@ transcript:
   sec: 2118
   time: '35:18'
   who: Rachel
-- header: Handling large datasets and transportation data in Singapore
 - line: That's a fascinating project. I'm always keen to learn about new LLM use cases
     because there are so many possibilities. It's great that you're exploring this
     space too. This project is in an early development phase, right?
@@ -509,6 +513,7 @@ transcript:
   sec: 2190
   time: '36:30'
   who: Rachel
+- header: 'Dataset Scale: millions of fare card records and demand analytics'
 - line: How large are the datasets you're working with for these projects? Besides
     the text-to-SQL project, are there other more established projects you're involved
     in? You mentioned transportation data — like fare card data. How large are these
@@ -532,6 +537,7 @@ transcript:
   sec: 2231
   time: '37:11'
   who: Rachel
+- header: 'Infrastructure Stack: Kafka, Apache Spark, sensors, real-time APIs'
 - line: Regarding these millions of data points you collect, how are they processed?
     Do you use standard tools like Kafka, data lakes, and data warehouses? Also, how
     does data from the buses get collected? Are there transmitters on the buses that
@@ -550,6 +556,7 @@ transcript:
   sec: 2354
   time: '39:14'
   who: Alexey
+- header: 'Journey Logic & Aggregation: trip definition and fare computation'
 - line: The data is collected in real-time, but aggregation happens afterward. In
     Singapore, we use a system that defines a ride and a journey. Our fare structure
     allows commuters to make multiple transfers within a 45-minute period, which is
@@ -587,6 +594,7 @@ transcript:
   sec: 2464
   time: '41:04'
   who: Rachel
+- header: 'Data Quality Management: anomaly detection and sensor reliability'
 - line: So, the sensors are quite reliable, right?
   sec: 2468
   time: '41:08'
@@ -608,7 +616,7 @@ transcript:
   sec: 2531
   time: '42:11'
   who: Rachel
-- header: Generative AI applications beyond text-to-SQL
+- header: 'Generative AI Use Cases: synthetic data and conversational search'
 - line: Do you have other AI applications besides the text-to-SQL tool?
   sec: 2537
   time: '42:17'
@@ -637,22 +645,22 @@ transcript:
   sec: 2682
   time: '44:42'
   who: Rachel
-- header: Publishing public data and maintaining privacy
 - line: Since Singapore releases a lot of public data on open platforms, sometimes
     you might need to edit this data before publishing it, right?
   sec: 2726
   time: '45:26'
   who: Alexey
+- header: 'Privacy & Publishing: masking sensitive data before release'
 - line: The current publicly shared data is collected from various systems, and we
     mask sensitive information, such as fare card numbers, before publishing.
   sec: 2740
   time: '45:40'
   who: Rachel
-- header: Recommended datasets and projects for data engineering beginners
 - line: Where can people find this public data?
   sec: 2752
   time: '45:52'
   who: Alexey
+- header: 'Singapore Open Data Portals: data.gov.sg and DataMall resources'
 - line: 'Two main platforms provide public data in Singapore: data.gov.sg and DataMall.
     Data.gov.sg aggregates data from various government bodies, covering areas like
     rainfall, air pollution, transportation, and more.'
@@ -675,6 +683,7 @@ transcript:
   sec: 2810
   time: '46:50'
   who: Alexey
+- header: 'Project Ideas for Learning: car parking and real-time taxi datasets'
 - line: One useful data set could be car parking data, as we collect real-time parking
     transaction data. It's a large and dynamic data set, ideal for real-time data
     ingestion, storage in a data warehouse or data lake, and subsequent analysis.
@@ -711,7 +720,7 @@ transcript:
   sec: 2943
   time: '49:03'
   who: Rachel
-- header: Recommended resources for learning urban data science
+- header: 'Recommended Resources: DataTalks.Club, Jane Jacobs, Happy City'
 - line: Great, I'll add this link to our description. Thanks. I don't see any questions
     from the audience at the moment. I'm wondering if someone wants to study what
     you do — urban data science and transport planning — what resources, books, or
@@ -751,6 +760,7 @@ transcript:
   sec: 3160
   time: '52:40'
   who: Rachel
+- header: Episode Wrap-Up and Closing Remarks
 - line: Anyway, Rachel, thank you so much for joining us today and sharing your experiences.
     I’ve learned a lot. These topics were new to me, and it was enlightening to hear
     about your work. Thanks for being here, and thanks to everyone else who joined
@@ -776,6 +786,148 @@ transcript:
   sec: 3208
   time: '53:28'
   who: Alexey
+description: Discover urban transport data, real-time monitoring and demand forecasting
+  techniques—learn data pipelines, text-to-SQL and AI tools to improve planning &
+  ops.
+intro: How can urban transport data and AI be combined to enable real-time monitoring,
+  accurate demand forecasting, and reliable data pipelines for city operations and
+  planning? In this episode, Rachel Lim, an urban data scientist with a geography background
+  and a master’s in urban data science, walks through practical approaches that bridge
+  urban design and data engineering. We cover the core data sources—GPS, sensors,
+  fare card systems, ride‑hailing feeds—and where computer vision complements missing
+  passenger-flow data. Rachel explains planning horizons from short‑term operational
+  response (traffic marshals, cameras, event analytics like F1) to long‑term infrastructure
+  planning driven by travel demand forecasting. She breaks down data pipelines and
+  warehousing, real‑time stacks (Kafka, Apache Spark, sensors, APIs), journey logic,
+  anomaly detection, and privacy-preserving publishing to open portals like data.gov.sg
+  and DataMall. The episode also explores generative AI and Text‑to‑SQL workflows,
+  prompt safety, synthetic data, and conversational search for natural‑language access
+  to datasets. Listeners will gain actionable insight into building and governing
+  transport data systems that support real‑time monitoring, demand forecasting, and
+  scalable analytics.
+dateadded: '2024-11-06'
+duration: PT00H51M32S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=0
+  endOffset: 116
+- name: 'Guest Introduction: Rachel Lim, urban data scientist'
+  startOffset: 116
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=116
+  endOffset: 172
+- name: 'Career Path: Geography to urban informatics and data engineering'
+  startOffset: 172
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=172
+  endOffset: 287
+- name: 'Transport Scientist Role: public sector and consultancy applications'
+  startOffset: 287
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=287
+  endOffset: 334
+- name: 'Planning Horizons: short-term operations vs long-term infrastructure'
+  startOffset: 334
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=334
+  endOffset: 407
+- name: 'Data Sources for Transport: GPS, sensors, fare cards, ride-hailing'
+  startOffset: 407
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=407
+  endOffset: 460
+- name: 'Fare Card Systems: tap-in/tap-out travel data mechanics'
+  startOffset: 460
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=460
+  endOffset: 500
+- name: Computer Vision for Passenger Flow where fare data is absent
+  startOffset: 500
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=500
+  endOffset: 535
+- name: 'Professional Motivation: internships, World City Summit, master’s study'
+  startOffset: 535
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=535
+  endOffset: 686
+- name: 'Urban Design Principles: walkability, public spaces, human-scale streets'
+  startOffset: 686
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=686
+  endOffset: 829
+- name: 'Livability Criteria: transport, housing, green space, digital access'
+  startOffset: 829
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=829
+  endOffset: 948
+- name: 'Singapore Planning Practices: Master Plan and placemaking initiatives'
+  startOffset: 948
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=948
+  endOffset: 1104
+- name: 'Open Data & Collaboration: public datasets enabling research and apps'
+  startOffset: 1104
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1104
+  endOffset: 1269
+- name: 'Travel Demand Forecasting: predicting movements for infrastructure planning'
+  startOffset: 1269
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1269
+  endOffset: 1381
+- name: 'Data Pipelines & Warehousing: aggregation of real-time and historical data'
+  startOffset: 1381
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1381
+  endOffset: 1449
+- name: 'Real-Time Monitoring: traffic management and event analytics (F1 example)'
+  startOffset: 1449
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1449
+  endOffset: 1510
+- name: 'Operational Response: cameras, recovery services, traffic marshals'
+  startOffset: 1510
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1510
+  endOffset: 1679
+- name: 'Generative AI in Data Engineering: natural-language access to data'
+  startOffset: 1679
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1679
+  endOffset: 1999
+- name: 'Text-to-SQL Architecture: metadata, vector DB, RAG and LLMs'
+  startOffset: 1999
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=1999
+  endOffset: 2118
+- name: 'Prompt Engineering & Query Safety: reliability and SQL restrictions'
+  startOffset: 2118
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2118
+  endOffset: 2192
+- name: 'Dataset Scale: millions of fare card records and demand analytics'
+  startOffset: 2192
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2192
+  endOffset: 2314
+- name: 'Infrastructure Stack: Kafka, Apache Spark, sensors, real-time APIs'
+  startOffset: 2314
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2314
+  endOffset: 2367
+- name: 'Journey Logic & Aggregation: trip definition and fare computation'
+  startOffset: 2367
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2367
+  endOffset: 2468
+- name: 'Data Quality Management: anomaly detection and sensor reliability'
+  startOffset: 2468
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2468
+  endOffset: 2537
+- name: 'Generative AI Use Cases: synthetic data and conversational search'
+  startOffset: 2537
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2537
+  endOffset: 2740
+- name: 'Privacy & Publishing: masking sensitive data before release'
+  startOffset: 2740
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2740
+  endOffset: 2760
+- name: 'Singapore Open Data Portals: data.gov.sg and DataMall resources'
+  startOffset: 2760
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2760
+  endOffset: 2825
+- name: 'Project Ideas for Learning: car parking and real-time taxi datasets'
+  startOffset: 2825
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2825
+  endOffset: 2956
+- name: 'Recommended Resources: DataTalks.Club, Jane Jacobs, Happy City'
+  startOffset: 2956
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2956
+  endOffset: 3162
+- name: Episode Wrap-Up and Closing Remarks
+  startOffset: 3162
+  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=3162
+  endOffset: 3092
 ---
 
 Links:

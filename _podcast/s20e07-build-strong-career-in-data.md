@@ -13,9 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=ekG5zJioyFs
 season: 20
 short: Build a Strong Career in Data
-title: Build a Strong Career in Data
+title: 'Benchmarking Long-Context LLMs for Finance: Chunking, Retrieval, Summarization
+  & Career Tips'
 transcript:
-- header: Lavanya’s journey from software engineer to AI researcher
+- header: Episode Introduction & Topic Overview
 - line: This week we'll talk about building a strong career in data and we have a
     special guest today.
   sec: 0
@@ -29,6 +30,7 @@ transcript:
   sec: 116
   time: '1:56'
   who: Alexey
+- header: 'Career Overview: From Software Engineering to ML & Master''s'
 - line: Thank you, great to meet all of you.
   sec: 122
   time: '2:02'
@@ -54,6 +56,7 @@ transcript:
   sec: 142
   time: '2:22'
   who: Lavanya
+- header: 'Origin of ML Interest: Hackathons and Computer Vision'
 - line: This is a typical question we ask, but since today's interview is mostly about
     your career, this question is kind of what the entire interview will be about.
     How did you actually become interested in machine learning and AI? Was there a
@@ -81,6 +84,7 @@ transcript:
   sec: 287
   time: '4:47'
   who: Alexey
+- header: 'Early Project Case Study: OCR for Organization Charts'
 - line: One project that stood out and actually got converted into a product in the
     bank was an OCR model. When onboarding customers, the bank received organization
     charts - complicated flowchart diagrams. Back in 2016 with no fancy LLMs, we built
@@ -151,6 +155,7 @@ transcript:
   sec: 509
   time: '8:29'
   who: Lavanya
+- header: 'Role Snapshot: LLM Benchmarking at a Financial Institution'
 - line: We benchmark on quality as well as deployment aspects like latency and throughput,
     then publish developer guidance, blogs, do webinars to share experiences with
     models and best practices. These models are sensitive to prompting and keep changing
@@ -168,7 +173,7 @@ transcript:
   sec: 595
   time: '9:55'
   who: Alexey
-- header: Benchmarking long context language models
+- header: 'Research Focus: Evaluating Long-Context LLMs'
 - line: 'We can talk about the published work that we have. That''s also a similar
     domain. Benchmarking can be done on different aspects: traditional NLU, long context,
     code generation capabilities, math capabilities, and multimodal stuff.'
@@ -212,7 +217,7 @@ transcript:
   sec: 700
   time: '11:40'
   who: Alexey
-- header: Limitations of large context models in real domains
+- header: 'Empirical Findings: Context Window Performance Droparound 32k–64k'
 - line: I have two opinions on that. In our studies, it's hard to say at what range
     in the context window the models fall, so we split it into less than 32k tokens
     and greater than 32k tokens. There's a clear dip around that.
@@ -252,7 +257,7 @@ transcript:
   sec: 869
   time: '14:29'
   who: Alexey
-- header: Handling large documents and publishing research in industry
+- header: 'Practical Approach: Chunking, Retrieval, and Summarization for Large Docs'
 - line: 'Even when we try to use it in our bank, we know these models fail at around
     the 64k context, even though we are using these fancy 128k models. We do the same
     thing you said: we chunk it because we know up to this point the models don''t
@@ -268,6 +273,7 @@ transcript:
   sec: 921
   time: '15:21'
   who: Lavanya
+- header: 'Published Work: "Long Context LLMs on Financial Concepts" (EMNLP)'
 - line: This was the paper we talked about at EMNLP. The name of the paper is "Systematic
     Evaluation of Long Context LLMs on Financial Concepts." That's exactly the paper,
     and this is what we're talking about right now, right?
@@ -320,6 +326,7 @@ transcript:
   sec: 1019
   time: '16:59'
   who: Alexey
+- header: 'Industry Research Practices: Publishing from Corporate Teams'
 - line: I think so. The vertical I work with is MLCO. We are a group of about 150
     people, so we are not tied to a single use case or product. We do work on products,
     but we also have some creative liberty because we do a lot of new stuff.
@@ -360,7 +367,7 @@ transcript:
   sec: 1144
   time: '19:04'
   who: Lavanya
-- header: 'Building a data science career: publications, motivation, and mentorship'
+- header: 'Motivation for Publications: Manager Support and Community Sharing'
 - line: Since our conversation is about building a strong career in data, even though
     we talk specifically about your career, I think it's really good for a career
     to have publications. Most of us just go to work, do some stuff related to work,
@@ -402,6 +409,7 @@ transcript:
   sec: 1248
   time: '20:48'
   who: Lavanya
+- header: 'Dissemination Paths: arXiv, Endorsement, and Early Publications'
 - line: I remember I took part in a competition and after the competition, I wrote
     a summary and, without thinking too much, just uploaded it to arXiv. People keep
     citing it even now.
@@ -462,7 +470,7 @@ transcript:
   sec: 1455
   time: '24:15'
   who: Alexey
-- header: Self-learning, hackathons, and networking
+- header: 'Self-Learning & MLOps: Zoom Camps, Tutorials, and Mentoring'
 - line: In the hackathon space, going back to that era ten years ago, there were very
     limited resources. I was pretty active on the web at that time to self-learn.
     Self-learning was crucial for me because I had just finished my undergrad.
@@ -585,6 +593,7 @@ transcript:
   sec: 1770
   time: '29:30'
   who: Alexey
+- header: 'Rapid Prototyping Tools: Streamlit for Demos and Feedback'
 - line: I think early in your career, it's hard but it's nice to get your hands dirty
     with everything. Then you don't feel like, "Oh, this is something I'm unaware
     of," or "This doesn't fall into my purview."
@@ -644,7 +653,7 @@ transcript:
   sec: 1958
   time: '32:38'
   who: Alexey
-- header: Community work and Kaggle projects
+- header: 'Kaggle Success Story: Building and Licensing a High-Impact Dataset'
 - line: Sure. All of this work was definitely on the side. I think it's just like
     connecting the dots. Sometimes when I was free, I would attend Zoom camps like
     yours and others.
@@ -705,7 +714,7 @@ transcript:
   sec: 2239
   time: '37:19'
   who: Alexey
-- header: Mentorship and open-ended guidance
+- header: 'Community Contribution: Women in Data Science and Open Mentoring'
 - line: Yes, definitely. DataCamp really highlighted my contribution, and I got more
     confidence to reach out to more people.
   sec: 2252
@@ -757,6 +766,7 @@ transcript:
   sec: 2403
   time: '40:03'
   who: Alexey
+- header: 'Opportunity & Persistence: Timing, Luck, and "Shooting Arrows"'
 - line: Yeah, definitely. I mentioned luck because, as you said, at that time-during
     COVID-people were really active on Kaggle. Maybe the timing was luck, but it wasn't
     a random decision to just get up one day and scrape Google Play Store.
@@ -827,6 +837,7 @@ transcript:
   sec: 2706
   time: '45:06'
   who: Lavanya
+- header: 'Career Pivot Guidance: Non-CS Backgrounds Entering Data Roles'
 - line: Yeah, so we have a few questions. How can a career pivoter-somebody who's
     changing careers, a career changer without a computer science degree or main background-break
     into data?
@@ -885,6 +896,7 @@ transcript:
   sec: 2893
   time: '48:13'
   who: Alexey
+- header: 'Networking & Mentorship: Cold Outreach and Building Rapport'
 - line: Oh, I see. Yeah, I think getting those mentor roles is typically just through
     reaching out-cold emailing, LinkedIn messages, things like that.
   sec: 2908
@@ -933,7 +945,7 @@ transcript:
   sec: 3067
   time: '51:07'
   who: Alexey
-- header: Building a strong data science portfolio
+- header: 'Portfolio Strategy: Community Visibility vs. Job-Targeted Projects'
 - line: Oh yes. I think the dataset itself-I don't think it's even mentioned on my
     resume. Once you go out for these roles, these are like your pet projects. It's
     nice to show your curiosity or talk about it at the end of the interview, but
@@ -961,6 +973,7 @@ transcript:
   sec: 3162
   time: '52:42'
   who: Lavanya
+- header: 'Interview Preparation: LeetCode, Conceptual Mastery, and Mock Interviews'
 - line: Profile building for job search is going to be a lot of LeetCode and a lot
     of conceptual drilling, going deep into the concepts so you can answer all interview
     questions precisely-no beating around the bush. And then mock interviews.
@@ -1007,6 +1020,7 @@ transcript:
   who: I understand if you're starting out new, it's a vicious circle-you want to
     get into the industry, and then I'm asking you to get industry experience to be
     able to get into the industry.
+- header: 'Project Selection: Industry-Backed Work for Real-World Impact'
 - line: That's a good way to showcase that you are still building your portfolio,
     but it's not completely your own project. There are others looking into it, equally
     invested, and it has some actual impact in the real world.
@@ -1022,6 +1036,7 @@ transcript:
   who: They do small projects, but they have industry experts looking over your projects.
     They organize students and people into data scientists, project managers, industry
     experts, and all of them work on a single project apart from their regular roles.
+- header: Episode Wrap-Up & Final Career Advice
 - line: Yeah, amazing. And on this note, I realize that I'm late for another meeting,
     so I need to run.
   sec: 3466
@@ -1040,6 +1055,118 @@ transcript:
   sec: 3490
   time: '58:10'
   who: Alexey
+description: Discover long-context LLMs, chunking and retrieval for finance benchmarking—learn
+  32k–64k context limits, summarization tips, prototyping & career advice.
+intro: How do you evaluate and deploy long-context LLMs for real-world financial documents—when
+  context windows stretch into tens of thousands of tokens? In this episode, Lavanya
+  Gupta, a CMU LTI alum and Sr. AI/ML Applied Scientist at JPMorgan Chase’s MLCOE,
+  walks through practical benchmarking and production strategies for long-context
+  LLMs in finance. Drawing on her published work "Long Context LLMs on Financial Concepts"
+  (EMNLP) and 5+ years of industrial research, Lavanya explains empirical findings
+  around context-window performance (a notable droparound 32k–64k), and outlines the
+  pragmatic trio of chunking, retrieval, and summarization for processing large documents.
+  She also discusses industry research practices—publishing from corporate teams,
+  dissemination via arXiv and endorsements—and rapid prototyping techniques like Streamlit
+  for demos and feedback. Listeners will get concrete guidance on LLM benchmarking,
+  context window trade-offs, dataset and licensing lessons from a Kaggle success,
+  and actionable career advice on transitioning into ML roles, networking, portfolios,
+  and interview prep. Tune in to learn how to benchmark long-context LLMs for financial
+  NLP and translate research into production-ready workflows.
+dateadded: '2025-05-12'
+duration: PT00H58M10S
+quotableClips:
+- name: Episode Introduction & Topic Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=0
+  endOffset: 122
+- name: 'Career Overview: From Software Engineering to ML & Master''s'
+  startOffset: 122
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=122
+  endOffset: 205
+- name: 'Origin of ML Interest: Hackathons and Computer Vision'
+  startOffset: 205
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=205
+  endOffset: 295
+- name: 'Early Project Case Study: OCR for Organization Charts'
+  startOffset: 295
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=295
+  endOffset: 523
+- name: 'Role Snapshot: LLM Benchmarking at a Financial Institution'
+  startOffset: 523
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=523
+  endOffset: 615
+- name: 'Research Focus: Evaluating Long-Context LLMs'
+  startOffset: 615
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=615
+  endOffset: 756
+- name: 'Empirical Findings: Context Window Performance Droparound 32k–64k'
+  startOffset: 756
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=756
+  endOffset: 894
+- name: 'Practical Approach: Chunking, Retrieval, and Summarization for Large Docs'
+  startOffset: 894
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=894
+  endOffset: 928
+- name: 'Published Work: "Long Context LLMs on Financial Concepts" (EMNLP)'
+  startOffset: 928
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=928
+  endOffset: 1048
+- name: 'Industry Research Practices: Publishing from Corporate Teams'
+  startOffset: 1048
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=1048
+  endOffset: 1185
+- name: 'Motivation for Publications: Manager Support and Community Sharing'
+  startOffset: 1185
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=1185
+  endOffset: 1330
+- name: 'Dissemination Paths: arXiv, Endorsement, and Early Publications'
+  startOffset: 1330
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=1330
+  endOffset: 1501
+- name: 'Self-Learning & MLOps: Zoom Camps, Tutorials, and Mentoring'
+  startOffset: 1501
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=1501
+  endOffset: 1814
+- name: 'Rapid Prototyping Tools: Streamlit for Demos and Feedback'
+  startOffset: 1814
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=1814
+  endOffset: 2004
+- name: 'Kaggle Success Story: Building and Licensing a High-Impact Dataset'
+  startOffset: 2004
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2004
+  endOffset: 2252
+- name: 'Community Contribution: Women in Data Science and Open Mentoring'
+  startOffset: 2252
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2252
+  endOffset: 2473
+- name: 'Opportunity & Persistence: Timing, Luck, and "Shooting Arrows"'
+  startOffset: 2473
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2473
+  endOffset: 2724
+- name: 'Career Pivot Guidance: Non-CS Backgrounds Entering Data Roles'
+  startOffset: 2724
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2724
+  endOffset: 2908
+- name: 'Networking & Mentorship: Cold Outreach and Building Rapport'
+  startOffset: 2908
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2908
+  endOffset: 3088
+- name: 'Portfolio Strategy: Community Visibility vs. Job-Targeted Projects'
+  startOffset: 3088
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=3088
+  endOffset: 3273
+- name: 'Interview Preparation: LeetCode, Conceptual Mastery, and Mock Interviews'
+  startOffset: 3273
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=3273
+  endOffset: 3416
+- name: 'Project Selection: Industry-Backed Work for Real-World Impact'
+  startOffset: 3416
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=3416
+  endOffset: 3466
+- name: Episode Wrap-Up & Final Career Advice
+  startOffset: 3466
+  url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=3466
+  endOffset: 3490
 ---
 
 Links:

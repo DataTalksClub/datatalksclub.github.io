@@ -2,7 +2,22 @@
 episode: 3
 guests:
 - liesbethdingemans
-intro: "In this episode, Liesbeth Dingemans—AI strategy and innovation leader—explains how design thinking can transform how AI teams build products. She introduces the concept of algorithm-friendly design, where systems are structured to collect sharper user signals and improve model performance. Liesbeth walks through tools like the Double Diamond framework, Google PAIR, and design sprints, showing how to define problems effectively, eliminate weak solutions through experimentation, and drive radical innovation beyond incremental OKRs. You’ll learn how design and data can work together to create AI systems that are both intelligent and human-centered."
+intro: How do you design products that are “algorithm-ready” while running rapid experiments
+  and building data-driven roadmaps? In this episode, Liesbeth Dingemans—strategy and
+  AI leader, founder of Dingemans Consulting, former VP of Revenue at Source.ag and
+  Head of AI Strategy at Prosus—walks through pragmatic approaches to AI product design
+  that bridge vision and execution. <br><br> We cover algorithm-friendly UX and signal
+  collection, a concrete interaction-design case study comparing TikTok and Instagram
+  signals, and the Double Diamond framework for moving from problem framing to solution
+  exploration. Liesbeth explains scoping and prioritization, parallel experiments
+  and proofs of concept, one-week design sprints, appropriate timeframes for research-to-scale,
+  and the role of designers, data scientists, engineers and product managers in shaping
+  AI roadmaps. <br><br> Listeners will learn how to avoid rework by involving data
+  science early, use scoping documents to challenge assumptions, create measurable
+  experiments (the Task Force/“Jet Ski” model), and build data-driven pitches for
+  long-term bets versus quarterly OKRs. Tune in for concrete frameworks and practices
+  to make AI product design, rapid experiments, and data-driven roadmaps work in your
+  organization.
 ids:
   anchor: Innovation-and-Design-for-Machine-Learning---Liesbeth-Dingemans-e1gq0en
   youtube: tcqBfZw41FM
@@ -14,14 +29,16 @@ links:
   youtube: https://www.youtube.com/watch?v=tcqBfZw41FM
 season: 8
 short: Innovation and Design for Machine Learning
-title: "Algorithm-Friendly Design, Innovation & Design Thinking for AI Teams"
-description: "Learn algorithm-friendly design with Liesbeth Dingemans. Master Double Diamond, design sprints, Google PAIR, and innovation for AI teams."
+title: 'AI Product Design: Algorithm-Ready UX, Rapid Experiments & Data-Driven Roadmaps'
+description: 'Master AI product design: build algorithm-ready UX, run rapid experiments
+  and craft data-driven roadmaps to prioritize innovation and ship measurable results.'
 topics:
 - machine learning
 - design thinking
 - practices
 transcript:
-- header: "Guest Introduction: Strategy, AI, and Product Design"
+- header: Episode Introduction & Guest Overview
+- header: 'Guest Background: Strategy, Product and AI Trajectory'
 - line: This week, we'll talk about innovation and design for machine learning. We
     have a special guest today, Liesbeth. Liesbeth has been working on topics related
     to strategy, product and AI for the last six years – first at McKinsey and then
@@ -59,6 +76,7 @@ transcript:
   sec: 119
   time: '1:59'
   who: Liesbeth
+- header: 'Interdisciplinary Perspective: Physics Meets Humanities'
 - line: So you had the double degree, right? First you got one and then another?
   sec: 221
   time: '3:41'
@@ -74,7 +92,6 @@ transcript:
   sec: 239
   time: '3:59'
   who: Alexey
-- header: "Complementary Skill Set: Physics vs. Humanities Perspective"
 - line: I would say that the humanities – or art history – definitely has a completely
     different way of thinking about problems. In physics, it was always the case that
     you had a challenge and there's only one possible answer. Whereas in history or
@@ -95,7 +112,7 @@ transcript:
   sec: 301
   time: '5:01'
   who: Liesbeth
-- header: "Defining Design: Tool for User-Centered Product Processes"
+- header: Design as a User-Centered Product Process
 - line: Okay. So what is design? Is it about making websites look good or is there
     more to that?
   sec: 307
@@ -123,6 +140,7 @@ transcript:
   sec: 366
   time: '6:06'
   who: Alexey
+- header: Algorithm-Friendly Product Design & Signal Collection
 - line: Yeah. Especially when you try to combine that with AI, data science, and machine
     learning – for me that becomes about much more than just what the button needs
     to look like and what color it should be. I have some examples that I can share
@@ -141,7 +159,6 @@ transcript:
   sec: 403
   time: '6:43'
   who: Liesbeth
-- header: "Concept: Algorithm-Friendly Design; Collecting Signals"
 - line: Back in the days, three years ago, when I joined Prosus, I had assumed a lot
     of data science teams would build AI applications using the data that was already
     there, which was usually generated for a different purpose, not necessarily for
@@ -166,7 +183,6 @@ transcript:
   sec: 403
   time: '6:43'
   who: Liesbeth
-- header: "Interaction Design: Sharp Signal Collection (TikTok Example)"
 - line: I think you mentioned one important word that I took a note of. You mentioned
     that it's about interaction. Design is about how you interact with something –
     be it a piece of furniture or a website, a physical or a virtual product. So it's
@@ -177,6 +193,7 @@ transcript:
   sec: 565
   time: '9:25'
   who: Alexey
+- header: 'Interaction Design Case Study: TikTok vs Instagram Signals'
 - line: Yeah and especially with “How can we collect the signals that the algorithm
     might need in order to train faster?” This article that I just mentioned about
     “seeing as an algorithm” to very nicely describe the difference between Instagram
@@ -212,7 +229,7 @@ transcript:
   sec: 682
   time: '11:22'
   who: Alexey
-- header: "Tool: Double Diamond Technique for Problem Solving"
+- header: 'Double Diamond Framework: Problem Framing to Solutions'
 - line: Exactly, yeah. It might be nice if I mentioned another example of how, for
     me, design and machine learning come together, because what we've just been talking
     about is really a bit more about design as a way that you shape the interface
@@ -251,6 +268,7 @@ transcript:
   sec: 732
   time: '12:12'
   who: Liesbeth
+- header: 'Problem Discovery: Scoping and Prioritizing User Problems'
 - line: I was taking notes about this “double diamond”. This is not the first time
     I hear this term, but let me try to summarize it to make sure I understood it.
     So you have these sort of two big steps in the process – the first step is that
@@ -277,6 +295,7 @@ transcript:
   sec: 872
   time: '14:32'
   who: Alexey
+- header: 'Solution Exploration: Parallel Experiments & Proofs of Concept'
 - line: Exactly. Hopefully, yeah. I think there was a very nice way of describing
     it. Of course, it depends on the team and your organization – how exactly they
     might apply a process like this. But what you also often see is that when you
@@ -297,7 +316,6 @@ transcript:
   sec: 1003
   time: '16:43'
   who: Alexey
-- header: "Strategy: Experimentation; Eliminating Non-Viable Solutions"
 - line: Then the third option could be something else – let's just say, "Open my Jupyter
     Notebook and train a simple model myself." Then we do this in parallel. We have
     three proofs of concepts and at the end of this step we can also say "Okay, which
@@ -324,6 +342,7 @@ transcript:
   sec: 1045
   time: '17:25'
   who: Liesbeth
+- header: Timeframes for Research, Prototyping and Scaling
 - line: At the beginning, when you were describing this, it may have looked like a
     thing that could have been done in a couple of days. But when you talked about
     creating multiple proofs of concept and also showed them to the users it paints
@@ -361,7 +380,7 @@ transcript:
   sec: 1135
   time: '18:55'
   who: Liesbeth
-- header: "Concept: Design Thinking; Tool: Google PAIR Resources"
+- header: Design Thinking Overview & Google PAIR Resources
 - line: I heard about this "double diamond" in the context of another term called
     "design thinking". So what is design thinking? How are these two things related?
   sec: 1217
@@ -419,7 +438,7 @@ transcript:
   sec: 1365
   time: '22:45'
   who: Liesbeth
-- header: "Concept: Design Sprint; Full Team Involvement"
+- header: 'Design Sprint Structure: One-Week Prototyping Approach'
 - line: And what is a design sprint? Is it related to what we talked about?
   sec: 1396
   time: '23:16'
@@ -464,6 +483,7 @@ transcript:
   sec: 1496
   time: '24:56'
   who: Liesbeth
+- header: 'Cross-Functional Participation: Designers, Data Scientists, PMs'
 - line: '[laughs] Okay. What are the things that we need to do in this “design sprint”
     to be able to do it successfully? Who do we need to be in the sprint? I think
     we need data scientists, right? Do we need designers, product managers? Who should
@@ -504,6 +524,7 @@ transcript:
   sec: 1613
   time: '26:53'
   who: Alexey
+- header: 'Engineering Involvement: Building Algorithm-Ready Interfaces'
 - line: Ideally, I would say so. Yeah. This is something that I haven't always seen.
     I do see often a tendency that the user research is done by either researchers
     or designers and then once you actually start building, that's when you call the
@@ -518,7 +539,7 @@ transcript:
   sec: 1633
   time: '27:13'
   who: Liesbeth
-- header: "Data Scientists' Role in Problem Definition; Avoiding Rework"
+- header: 'Data Scientists in Problem Definition: Avoiding Rework'
 - line: The next question I had was – as a data scientist, why should they care about
     all that? It sounds like a joke, but I think you answered that, right? In this
     process, when we talk about a potential solution – even before that – for a data
@@ -566,15 +587,13 @@ transcript:
   sec: 1817
   time: '30:17'
   who: Liesbeth
+- header: 'Scoping Documents: Challenging Assumptions with "Why"'
 - line: 'Let''s imagine we have this situation: a manager comes to me, or to the team,
     or to the product manager and says, “Hey, this is the problem we think we have.
     Let''s solve it with a neural network.” So how do we challenge that person? How
     do we challenge the CTO or whoever and say, “No, no. Let''s first figure out what
     the problem is.” How do we go about that?'
   sec: 1864
-- header: "Challenging Task-Givers: Asking Why; Strategy: Scoping Document"
-  time: '31:04'
-  who: Alexey
 - line: Also during my time working as a consultant, I think I've gained some experience
     with saying “no,” but maybe a friendlier way of saying “no” is asking “why?” It's
     almost as if your manager or the CTO or whoever gives you this assignment – he’s
@@ -596,7 +615,6 @@ transcript:
   sec: 1894
   time: '31:34'
   who: Liesbeth
-- header: How to avoid the “Chinese whisper game” (reiterating the problem)
 - line: I guess in this situation, I or somebody else would ask, “why,” and then understand
     where this is coming from? Like, “Why are you coming to me with this problem?
     Where did you hear about this?” And then maybe it's better to also involve that
@@ -607,6 +625,7 @@ transcript:
   sec: 1971
   time: '32:51'
   who: Alexey
+- header: Organizational Miscommunication & Backtracking Problems
 - line: Larger organizations and maybe others might not recognize this. If they work
     with smaller teams, where the CTO just sits at the desk right next to you, then
     you might not have these situations. But larger organizations sometimes remind
@@ -679,6 +698,7 @@ transcript:
   sec: 2215
   time: '36:55'
   who: Alexey
+- header: Product Managers’ Role in AI Roadmaps and Prioritization
 - line: That's maybe also a broader question around who defines priorities in an organization,
     maybe specifically when we talk about data science. Who defines what the roadmap
     looks like? What models are the teams going to build? Who leads that? I think
@@ -705,13 +725,13 @@ transcript:
   sec: 2235
   time: '37:15'
   who: Liesbeth
-- header: "Innovation Defined: Moving Beyond Incremental OKRs"
 - line: One other thing that I wanted to talk about here – so we talked about design
     – but we also wanted to talk about innovation. How is everything we talked about
     (design, communication with different people) how is it related to innovation?
   sec: 2353
   time: '39:13'
   who: Alexey
+- header: 'Innovation vs Quarterly OKRs: Making Space for Long-Term Bets'
 - line: '[laughs] Again, we just discussed a very broad topic there, but you decided
     to go to an even further one called innovation. From my perspective, how I see
     this topic – especially in large organizations, a lot of the data scientists typically
@@ -769,7 +789,7 @@ transcript:
   sec: 2540
   time: '42:20'
   who: Alexey
-- header: "Example: Second-Hand Car Platforms & Radical Innovation"
+- header: 'Radical Innovation Example: Second-Hand Car Trust Solutions'
 - line: Exactly. Yeah. As an example – second hand cars. Within OLX, there are a lot
     of platforms where people can buy and sell second hand cars. But the core problem
     when you're buying a secondhand car is trust. Not very surprisingly, the number
@@ -823,6 +843,7 @@ transcript:
   sec: 2713
   time: '45:13'
   who: Alexey
+- header: 'Building Evidence: Data-Driven Pitches for Big Ideas'
 - line: Yeah, I definitely think a lot of startups started that way [laughs] it starts
     from a personal frustration. The thing that you've encountered that maybe you
     couldn't solve at the job that you have, and you just say, “Okay, let me just
@@ -845,7 +866,6 @@ transcript:
   sec: 2790
   time: '46:30'
   who: Liesbeth
-- header: "Strategy: Collecting Data Evidence to Pitch Innovative Ideas"
 - line: I guess if you're at Amazon, you don't want your people to leave and start
     a startup, right? You want to keep them in the company and you want to encourage
     them to do [inaudible] because they don't know, maybe this will become the new,
@@ -873,7 +893,7 @@ transcript:
   sec: 2889
   time: '48:09'
   who: Liesbeth
-- header: "Strategy: Task Force Approach (Jet Skis); Encouraging New Ideas"
+- header: 'Task Force Model (Jet Ski): Rapid Experimentation Teams'
 - line: I heard that there is a company in Germany (I think in the whole of Europe)
     called Zalando that sells clothes. And what they have is some freedom to work
     on small projects. They see a problem and they form a small task force – the person
@@ -917,6 +937,8 @@ transcript:
   sec: 3019
   time: '50:19'
   who: Liesbeth
+- header: 'Innovation Workflow: From Discovery to Investment Case'
+- header: 'Experimentation Culture: Prioritization Through Measurability'
 - line: Let me try to summarize – innovation is about finding new ways of solving
     the problem you already have, or maybe new problems, but not in small steps –
     instead trying to find a radically different way of doing it. But then you need
@@ -966,7 +988,6 @@ transcript:
   sec: 3251
   time: '54:11'
   who: Liesbeth
-- header: "Advice: Design and Innovation Skills Are Learnable"
 - line: But I'm not sure if there's a one-size-fits-all solution to be able to both
     work on really cool enough projects and make sure that whatever the team needs
     to deliver actually gets delivered. A solution direction that I believe in is
@@ -1002,6 +1023,7 @@ transcript:
   sec: 3354
   time: '55:54'
   who: Alexey
+- header: 'Measurement Mindset: Data-Guided Product Decisions (Citrix)'
 - line: Yes, yeah. And maybe one more recommendation for an article to read – this
     is a recent article by Citrix. They've very nicely described, as organizations
     are moving towards using more data science, AI, machine learning, everything becomes
@@ -1036,6 +1058,7 @@ transcript:
   sec: 3447
   time: '57:27'
   who: Alexey
+- header: 'Skill Building: Learnable Design & Innovation Practices'
 - line: Yeah. Plenty of interesting topics, right? [laughs] I guess your work – design
     and innovation – you can keep talking about them for a long time. But maybe one
     encouragement for anyone listening in are kind of interested but maybe don't know
@@ -1083,6 +1106,7 @@ transcript:
   sec: 3604
   time: '1:00:04'
   who: Liesbeth
+- header: Closing Notes, Resources and Contact Links
 - line: Then there was another one about Citrix, right? There was something else and
     then PAIR. [cross-talk] Maybe if you send this, then I can put it in the description.
     I think that’s all for today. Thanks again, Liesbeth, for joining us today, thanks
@@ -1095,6 +1119,117 @@ transcript:
   sec: 3632
   time: '1:00:32'
   who: Liesbeth
+dateadded: '2022-04-10'
+duration: PT00H59M14S
+quotableClips:
+- name: Episode Introduction & Guest Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=0
+  endOffset: 78
+- name: 'Guest Background: Strategy, Product and AI Trajectory'
+  startOffset: 78
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=78
+  endOffset: 221
+- name: 'Interdisciplinary Perspective: Physics Meets Humanities'
+  startOffset: 221
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=221
+  endOffset: 307
+- name: Design as a User-Centered Product Process
+  startOffset: 307
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=307
+  endOffset: 403
+- name: Algorithm-Friendly Product Design & Signal Collection
+  startOffset: 403
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=403
+  endOffset: 604
+- name: 'Interaction Design Case Study: TikTok vs Instagram Signals'
+  startOffset: 604
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=604
+  endOffset: 732
+- name: 'Double Diamond Framework: Problem Framing to Solutions'
+  startOffset: 732
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=732
+  endOffset: 872
+- name: 'Problem Discovery: Scoping and Prioritizing User Problems'
+  startOffset: 872
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=872
+  endOffset: 962
+- name: 'Solution Exploration: Parallel Experiments & Proofs of Concept'
+  startOffset: 962
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=962
+  endOffset: 1101
+- name: Timeframes for Research, Prototyping and Scaling
+  startOffset: 1101
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1101
+  endOffset: 1217
+- name: Design Thinking Overview & Google PAIR Resources
+  startOffset: 1217
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1217
+  endOffset: 1396
+- name: 'Design Sprint Structure: One-Week Prototyping Approach'
+  startOffset: 1396
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1396
+  endOffset: 1500
+- name: 'Cross-Functional Participation: Designers, Data Scientists, PMs'
+  startOffset: 1500
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1500
+  endOffset: 1633
+- name: 'Engineering Involvement: Building Algorithm-Ready Interfaces'
+  startOffset: 1633
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1633
+  endOffset: 1698
+- name: 'Data Scientists in Problem Definition: Avoiding Rework'
+  startOffset: 1698
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1698
+  endOffset: 1864
+- name: 'Scoping Documents: Challenging Assumptions with "Why"'
+  startOffset: 1864
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1864
+  endOffset: 2005
+- name: Organizational Miscommunication & Backtracking Problems
+  startOffset: 2005
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=2005
+  endOffset: 2235
+- name: Product Managers’ Role in AI Roadmaps and Prioritization
+  startOffset: 2235
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=2235
+  endOffset: 2373
+- name: 'Innovation vs Quarterly OKRs: Making Space for Long-Term Bets'
+  startOffset: 2373
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=2373
+  endOffset: 2599
+- name: 'Radical Innovation Example: Second-Hand Car Trust Solutions'
+  startOffset: 2599
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=2599
+  endOffset: 2790
+- name: 'Building Evidence: Data-Driven Pitches for Big Ideas'
+  startOffset: 2790
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=2790
+  endOffset: 2956
+- name: 'Task Force Model (Jet Ski): Rapid Experimentation Teams'
+  startOffset: 2956
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=2956
+  endOffset: 3165
+- name: 'Innovation Workflow: From Discovery to Investment Case'
+  startOffset: 3165
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=3165
+  endOffset: 3251
+- name: 'Experimentation Culture: Prioritization Through Measurability'
+  startOffset: 3251
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=3251
+  endOffset: 3396
+- name: 'Measurement Mindset: Data-Guided Product Decisions (Citrix)'
+  startOffset: 3396
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=3396
+  endOffset: 3500
+- name: 'Skill Building: Learnable Design & Innovation Practices'
+  startOffset: 3500
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=3500
+  endOffset: 3605
+- name: Closing Notes, Resources and Contact Links
+  startOffset: 3605
+  url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=3605
+  endOffset: 3554
 ---
 
 Links:

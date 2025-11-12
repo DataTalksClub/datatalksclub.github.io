@@ -1218,7 +1218,7 @@ transcript:
   time: '59:27'
   who: Pauline
 intro: 'How do you build, launch, and actually monetize indie-hacker products in crypto
-  alerts and generative AI while keeping a day job? In this episode Pauline Clavelloux
+  alerts and generative AI while keeping a day job? In this episode, Pauline Clavelloux
   — an IBM data science manager and consultant with eight years’ experience who also
   ships side projects like Cryptopy (crypto alerts) and UnrealMe (a DreamBooth-inspired
   selfie-to-art tool) — walks through the practical steps. <br><br> We cover Pauline’s
@@ -1235,6 +1235,121 @@ intro: 'How do you build, launch, and actually monetize indie-hacker products in
   external funding.'
 description: 'Build indie-hacking products: launch crypto alerts & generative AI apps,
   validate ideas, choose tech, price effectively and monetize for sustainable growth.'
+dateadded: '2023-01-21'
+duration: PT00H59M27S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=0
+  endOffset: 72
+- name: 'Career Journey: Engineering Student to IBM Data Scientist'
+  startOffset: 72
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=72
+  endOffset: 178
+- name: 'Consulting Work: Project Types and Client Engagement'
+  startOffset: 178
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=178
+  endOffset: 290
+- name: 'Manager Role: Deliverables, Roadmaps, and Client Communication'
+  startOffset: 290
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=290
+  endOffset: 331
+- name: 'Case Study: Money-Laundering Detection Project and Deployment'
+  startOffset: 331
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=331
+  endOffset: 443
+- name: 'Indie Hacking Explained: Bootstrapping Without External Funding'
+  startOffset: 443
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=443
+  endOffset: 538
+- name: 'Day Job + Side Projects: Time Allocation and Routine'
+  startOffset: 538
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=538
+  endOffset: 674
+- name: 'Cryptopy Origin: Building Crypto Alerts for Personal Trading'
+  startOffset: 674
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=674
+  endOffset: 909
+- name: 'Productization: Company Setup, Landing Pages, Legal and Payments'
+  startOffset: 909
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=909
+  endOffset: 1125
+- name: 'Technology Choices: Python/Flask, Team Contributions, and Architecture'
+  startOffset: 1125
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=1125
+  endOffset: 1173
+- name: 'Marketing Efforts: Audience Reach, Social Channels, and Challenges'
+  startOffset: 1173
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=1173
+  endOffset: 1306
+- name: Operating Costs and Niche Product Strategy
+  startOffset: 1306
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=1306
+  endOffset: 1413
+- name: 'UnrealMe Origin: DreamBooth Inspiration and Rapid Prototyping'
+  startOffset: 1413
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=1413
+  endOffset: 1548
+- name: 'Implementation Decisions: API Fine-Tuning vs Self-Hosted GPUs'
+  startOffset: 1548
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=1548
+  endOffset: 1721
+- name: 'Launch Channels: Twitter, Black Friday Listings, and Early Sales'
+  startOffset: 1721
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=1721
+  endOffset: 1891
+- name: Customer Acquisition and Pricing Constraints
+  startOffset: 1891
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=1891
+  endOffset: 2095
+- name: 'Motivation: Creative Drive and Why Indie Hacking Matters'
+  startOffset: 2095
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=2095
+  endOffset: 2147
+- name: 'Skills Gained: GCP, Data Engineering, Web Dev, and Marketing'
+  startOffset: 2147
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=2147
+  endOffset: 2367
+- name: 'Work–Life Balance: Passion, Energy, and Time Management'
+  startOffset: 2367
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=2367
+  endOffset: 2547
+- name: 'AboutStartup.io: Blog Concept, Interviews, and Monetization Paths'
+  startOffset: 2547
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=2547
+  endOffset: 2739
+- name: 'Idea Generation: Frustration-Led Problems and Opportunity Sourcing'
+  startOffset: 2739
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=2739
+  endOffset: 2934
+- name: 'Idea Validation: Competitor Scan, Skills Check, and Build Criteria'
+  startOffset: 2934
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=2934
+  endOffset: 3035
+- name: 'Twitter Growth: Personal Branding and Audience Building'
+  startOffset: 3035
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=3035
+  endOffset: 3158
+- name: 'Content Strategy: Balancing Data Science and Indie-Hacking Posts'
+  startOffset: 3158
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=3158
+  endOffset: 3204
+- name: 'Community Access: Contact Options via Twitter and Slack'
+  startOffset: 3204
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=3204
+  endOffset: 3275
+- name: 'Indie Inspiration: Pieter Levels and the “Many Projects” Approach'
+  startOffset: 3275
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=3275
+  endOffset: 3430
+- name: 'Recommended Resources: Data Sense and AboutStartup.io'
+  startOffset: 3430
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=3430
+  endOffset: 3499
+- name: Episode Wrap-Up and Final Thoughts
+  startOffset: 3499
+  url: https://www.youtube.com/watch?v=KsV_SVXlTo8&t=3499
+  endOffset: 3567
 ---
 
 Links:

@@ -1,0 +1,30 @@
+00:00:00 Episode Introduction
+00:01:56 Guest Introduction: Rachel Lim, urban data scientist
+00:02:52 Career Path: Geography to urban informatics and data engineering
+00:04:47 Transport Scientist Role: public sector and consultancy applications
+00:05:34 Planning Horizons: short-term operations vs long-term infrastructure
+00:06:47 Data Sources for Transport: GPS, sensors, fare cards, ride-hailing
+00:07:40 Fare Card Systems: tap-in/tap-out travel data mechanics
+00:08:20 Computer Vision for Passenger Flow where fare data is absent
+00:08:55 Professional Motivation: internships, World City Summit, master’s study
+00:11:26 Urban Design Principles: walkability, public spaces, human-scale streets
+00:13:49 Livability Criteria: transport, housing, green space, digital access
+00:15:48 Singapore Planning Practices: Master Plan and placemaking initiatives
+00:18:24 Open Data & Collaboration: public datasets enabling research and apps
+00:21:09 Travel Demand Forecasting: predicting movements for infrastructure planning
+00:23:01 Data Pipelines & Warehousing: aggregation of real-time and historical data
+00:24:09 Real-Time Monitoring: traffic management and event analytics (F1 example)
+00:25:10 Operational Response: cameras, recovery services, traffic marshals
+00:27:59 Generative AI in Data Engineering: natural-language access to data
+00:33:19 Text-to-SQL Architecture: metadata, vector DB, RAG and LLMs
+00:35:18 Prompt Engineering & Query Safety: reliability and SQL restrictions
+00:36:32 Dataset Scale: millions of fare card records and demand analytics
+00:38:34 Infrastructure Stack: Kafka, Apache Spark, sensors, real-time APIs
+00:39:27 Journey Logic & Aggregation: trip definition and fare computation
+00:41:08 Data Quality Management: anomaly detection and sensor reliability
+00:42:17 Generative AI Use Cases: synthetic data and conversational search
+00:45:40 Privacy & Publishing: masking sensitive data before release
+00:46:00 Singapore Open Data Portals: data.gov.sg and DataMall resources
+00:47:05 Project Ideas for Learning: car parking and real-time taxi datasets
+00:49:16 Recommended Resources: DataTalks.Club, Jane Jacobs, Happy City
+00:52:42 Episode Wrap-Up and Closing Remarks

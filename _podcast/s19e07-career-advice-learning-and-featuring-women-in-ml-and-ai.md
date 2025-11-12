@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=GifY8Zn-pnU
 season: 19
 short: Career advice, learning, and featuring women in ML and AI
-title: Career advice, learning, and featuring women in ML and AI
+title: 'From Biology to ML: Build a Data Science Portfolio with Open-Source, Computer
+  Vision & Transformers'
 transcript:
+- header: 'Episode Introduction: Continuous Learning in Data Science (guest Isabella
+    Bicalho)'
 - line: This week, we’re talking about continuous learning in data science. Our guest
     is Isabella, a machine learning engineer and data scientist with three years of
     hands-on AI development experience. She also has a background in computational
@@ -27,13 +30,13 @@ transcript:
   sec: 418
   time: '6:58'
   who: Isabella
+- header: 'Career Overview: Transition from Biology to Machine Learning'
 - line: The questions for today’s interview were prepared by Johanna Beer. Thanks,
     Johanna! Isabella, let’s start with your career journey. Can you tell us about
     it so far?
   sec: 421
   time: '7:01'
   who: Alexey
-- header: Career journey and shift to machine learning
 - line: I have a somewhat unusual background. My first degree was a bachelor’s in
     biological science, and I always wanted to be a bioinformatician. Luckily, my
     university allowed me to take courses from other departments, so I enrolled in
@@ -53,6 +56,7 @@ transcript:
   sec: 499
   time: '8:19'
   who: Alexey
+- header: Statistics as Gateway to Machine Learning; Progression to Transformers
 - line: It was a mix. I always liked data and thought I’d become more of a data engineer.
     Statistics was my gateway into machine learning. Once I understood distributions
     and linear modeling, it naturally led to functions and, eventually, advanced techniques
@@ -69,6 +73,7 @@ transcript:
   sec: 552
   time: '9:12'
   who: Alexey
+- header: 'Education: University of Maranhão and University of Marseille'
 - line: I did my bachelor’s in Brazil at the University of Maranhão and my master’s
     in France at the University of Marseille.
   sec: 554
@@ -132,7 +137,7 @@ transcript:
   sec: 643
   time: '10:43'
   who: Alexey
-- header: Internship at INRIA and working on cancer research
+- header: 'INRIA Internship: Biomarkers and Immunotherapy Prediction'
 - line: INRIA is a French research institute. Its full name translates to the National
     Institute for Research in Digital Science and Technology. They originally focused
     on automation, but that term has evolved to mean AI in their context.
@@ -187,7 +192,7 @@ transcript:
   sec: 840
   time: '14:00'
   who: Alexey
-- header: AI research and the role of INRIA in AI and machine learning
+- header: INRIA's Role in AI Research and France's AI Ecosystem
 - line: No, they also conduct statistical and foundational research. However, they’ve
     gained a lot of recognition in AI and machine learning because they’re at the
     forefront of the field. For instance, they co-published research on algorithms
@@ -213,12 +218,12 @@ transcript:
   sec: 918
   time: '15:18'
   who: Isabella
-- header: Freelancing as a machine learning engineer
 - line: Your LinkedIn profile says you’re currently a self-employed machine learning
     engineer. What are you working on?
   sec: 943
   time: '15:43'
   who: Alexey
+- header: 'Freelance Work: Recommendation System & Knowledge Graph Automation'
 - line: I’m working full-time as a freelancer. I can’t disclose the company I’m working
     with due to an NDA, but I’m building a recommendation system. Specifically, I’m
     automating the process of generating knowledge graphs for a company, which has
@@ -244,7 +249,6 @@ transcript:
   sec: 1005
   time: '16:45'
   who: Alexey
-- header: Transition from research to freelancing
 - line: Before this, I worked on a project for a company that involved aggregating
     and processing georeferenced open-source data. Sometimes we used machine learning,
     but other times it was more rule-based, using classical database merging systems.
@@ -273,6 +277,7 @@ transcript:
   sec: 1120
   time: '18:40'
   who: Alexey
+- header: 'Career Pivot: Choosing Engineering Over a PhD'
 - line: I started a PhD but decided it wasn’t for me.
   sec: 1132
   time: '18:52'
@@ -312,13 +317,13 @@ transcript:
   sec: 1238
   time: '20:38'
   who: Isabella
-- header: Finding the first freelance client
 - line: That's interesting. How did you find your first client? You were doing a PhD,
     realized it wasn't for you, and decided to try freelancing. What was your first
     step?
   sec: 1327
   time: '22:07'
   who: Alexey
+- header: 'First Freelance Client: CV Visibility and Networking'
 - line: I quit my PhD when I felt it was time. I decided to either look for a job
     or try freelancing. I posted my CV in several places since I was already planning
     to move from Marseille to Lyon.
@@ -353,6 +358,7 @@ transcript:
   sec: 1417
   time: '23:37'
   who: Alexey
+- header: Leveraging Open-Source & AI for Good to Gain Experience
 - line: Yes, and I was lucky to have worked on projects outside academia. For example,
     I participated in an AI for Good project coordinated by Antina, which involved
     geospatial technologies. When the client called, I already had relevant experience
@@ -385,11 +391,11 @@ transcript:
   sec: 1513
   time: '25:13'
   who: Isabella
-- header: Involvement in open-source projects and community courses
 - line: Can you tell us more about these open-source projects? How did you get involved?
   sec: 1585
   time: '26:25'
   who: Alexey
+- header: 'Hugging Face Community Course: Computer Vision Contributions & Review'
 - line: The first project I got deeply involved in was Hugging Face’s community course
     on computer vision. I stumbled upon it on their Discord server. Someone mentioned
     creating a channel for the project, so I joined. There was a spreadsheet for contributors,
@@ -437,7 +443,6 @@ transcript:
   sec: 1778
   time: '29:38'
   who: Isabella
-- header: Contributing to Hugging Face's community course on computer vision
 - line: This community course on Hugging Face was on Discord, right? You mentioned
     it was about computer vision.
   sec: 1812
@@ -479,6 +484,7 @@ transcript:
   sec: 1903
   time: '31:43'
   who: Alexey
+- header: 'Teaching & Communication: Simplifying ML Jargon for Learners'
 - line: That's a great question. I was very comfortable with the topic I worked on,
     but there were definitely people with less experience than me. They did a great
     job, though. Sometimes they would ask, "I don't understand this. Can you recommend
@@ -508,13 +514,13 @@ transcript:
   sec: 2007
   time: '33:27'
   who: Isabella
-- header: Finding open-source project opportunities
 - line: Let's say I want to find a project to contribute to—perhaps an open-source
     project. Where would you suggest looking for these opportunities? Could it be
     random communities, or are there specific places where people can get involved?
   sec: 2051
   time: '34:11'
   who: Alexey
+- header: 'Finding Open-Source Opportunities: Communities, Docs, and Local Chapters'
 - line: Well, first, if you use a specific open-source model or library, they likely
     have a Slack or Discord community. A good place to start is by joining those and
     seeing what others are working on. You can also check out the issues on GitHub.
@@ -541,6 +547,7 @@ transcript:
   sec: 2204
   time: '36:44'
   who: Alexey
+- header: 'Types of Open-Source Projects: Code, Data, and Applied Solutions'
 - line: Exactly. Open-source has many dimensions. There are open-source codebases,
     open-source data, and open-source tools. Contributing to open-source tools is
     great, but it's also one of the most overwhelming places to start. If you look
@@ -580,7 +587,6 @@ transcript:
   sec: 2384
   time: '39:44'
   who: Isabella
-- header: Green space segmentation
 - line: Green space segmentation?
   sec: 2408
   time: '40:08'
@@ -589,6 +595,7 @@ transcript:
   sec: 2410
   time: '40:10'
   who: Isabella
+- header: 'Green Space Segmentation: Sentinel-2, CNNs vs Transformers, Practicality'
 - line: What exactly is that?
   sec: 2412
   time: '40:12'
@@ -620,6 +627,7 @@ transcript:
   sec: 2521
   time: '42:01'
   who: Alexey
+- header: Project Work as Job-Ready Experience and Portfolio Building
 - line: Yes, exactly! That’s how I landed the job, and it might happen again with
     this project. I think it's a great story—learning hands-on skills through projects.
     With platforms like Dina, there’s no expectation of working long hours. You can
@@ -643,6 +651,7 @@ transcript:
   sec: 2607
   time: '43:27'
   who: Alexey
+- header: 'Soft Skills from Collaboration: Communication and Prioritization'
 - line: Exactly. There are many ways to build your portfolio. But as I’ve grown in
     my career, I’ve realized that employers also look for soft skills. They don’t
     just want someone who’s great at their job but can’t work well with others. When
@@ -669,12 +678,12 @@ transcript:
   sec: 2687
   time: '44:47'
   who: Isabella
-- header: Collaborating with experts in open-source projects
 - line: They probably take more of a consultant role, guiding you on the best practices,
     while you focus on the implementation?
   sec: 2724
   time: '45:24'
   who: Alexey
+- header: 'Informational Networking: Reaching Out for Role Insights'
 - line: Exactly. And I always say, if you’re interested in a job, the best way to
     get insights is to reach out to someone with that job title on LinkedIn and ask
     them questions. It might be intimidating, but worst case, they don’t reply. Best
@@ -750,6 +759,7 @@ transcript:
   sec: 2969
   time: '49:29'
   who: Alexey
+- header: 'Onboarding New Contributors: Low Entry Barriers and Mentorship'
 - line: Exactly. The door is always open. And what I’ve learned is that sometimes
     people want to contribute but don’t know the terms. For example, a complete beginner
     might not know what "push to the branch" means. You have to be clear and patient.
@@ -761,12 +771,12 @@ transcript:
   sec: 2995
   time: '49:55'
   who: Isabella
-- header: Using tools like ChatGPT in learning
 - line: Now, with tools like ChatGPT, you can simply tell them what to discuss and
     potentially learn from it.
   sec: 3088
   time: '51:28'
   who: Alexey
+- header: 'AI Assistants in Learning: Benefits and Limitations of ChatGPT'
 - line: Yes, that's true. But in my experience, especially since I also teach AI,
     I’ve found that when people go too deep into ChatGPT, they get less out of it.
     For example, if you ask it a very advanced question, like how to validate a segmentation
@@ -814,12 +824,12 @@ transcript:
   sec: 3209
   time: '53:29'
   who: Isabella
+- header: 'Data Like Substack: Spotlighting Women in Data and ML'
 - line: That makes sense. Now, let’s talk about your Substack. Tell us more about
     it—what do you focus on and work on there?
   sec: 3239
   time: '53:59'
   who: Alexey
-- header: Women in data and the Data Like Substack
 - line: I have a Substack called Data Like, which I co-created with Denny. We focus
     on women in data, which is a broad field—everything from data analysis and visualization
     to machine learning. It’s something I’ve been reflecting on for a while, especially
@@ -853,7 +863,7 @@ transcript:
   sec: 3439
   time: '57:19'
   who: Alexey
-- header: Substack interviews with women in data science
+- header: 'Featured Interviews: Bioinformatics, Fake News Detection, AI Ethics'
 - line: Our latest issue came out today, featuring Bianca Haberman, a researcher in
     bioinformatics. She shared how she got started and discussed her work on a research
     tool she developed. It took her 10 years to develop this tool, and she faced a
@@ -874,7 +884,6 @@ transcript:
   sec: 3599
   time: '59:59'
   who: Alexey
-- header: Empowering stories of women in data
 - line: No, it’s actually in the Caribbean, near Venezuela.
   sec: 3602
   time: '1:00:02'
@@ -923,6 +932,7 @@ transcript:
   sec: 3726
   time: '1:02:06'
   who: Alexey
+- header: 'Connecting with Isabella: LinkedIn and Substack Contact Info'
 - line: You can reach me via LinkedIn, or if you’re on Substack, you can send us a
     message through our Data Like page.
   sec: 3736
@@ -949,11 +959,130 @@ transcript:
   sec: 3803
   time: '1:03:23'
   who: Isabella
+- header: Episode Wrap-Up and Closing Remarks
 - line: Thank you, Isabella. Thanks, everyone, for joining us today. Have a great
     weekend, and we’ll see you soon.
   sec: 3822
   time: '1:03:42'
   who: Alexey
+description: Build a data science portfolio with open-source computer vision projects,
+  gain real job-ready experience, networking tactics and freelance tips.
+intro: 'How do you pivot from biology into machine learning and build a job-ready
+  data science portfolio using open-source, computer vision and transformers? In this
+  episode Isabella Bicalho — a Machine Learning Engineer and Data Scientist with three
+  years of hands-on AI development and prior computational research — walks through
+  her path from Biology (University of Maranhão, University of Marseille) to ML, including
+  an INRIA internship on biomarkers and immunotherapy prediction. <br><br> We cover
+  practical steps for portfolio building: using open-source contributions and community
+  courses (Hugging Face) to get experience, real project examples like green space
+  segmentation with Sentinel-2 and the trade-offs between CNNs and transformers, and
+  applied freelance work such as recommendation systems and knowledge graph automation.
+  Isabella also explains how statistics became her gateway to transformers, how to
+  find low-barrier open-source projects (docs, data, applied code), and how collaboration
+  builds soft skills recruiters value. <br><br> Listen to learn concrete strategies
+  for creating a data science portfolio, where to find computer vision and transformer
+  projects, how to leverage community and mentorship, and how to communicate your
+  work to land roles in machine learning.'
+dateadded: '2024-12-17'
+duration: PT01H03M42S
+quotableClips:
+- name: 'Episode Introduction: Continuous Learning in Data Science (guest Isabella
+    Bicalho)'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=0
+  endOffset: 421
+- name: 'Career Overview: Transition from Biology to Machine Learning'
+  startOffset: 421
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=421
+  endOffset: 509
+- name: Statistics as Gateway to Machine Learning; Progression to Transformers
+  startOffset: 509
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=509
+  endOffset: 554
+- name: 'Education: University of Maranhão and University of Marseille'
+  startOffset: 554
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=554
+  endOffset: 674
+- name: 'INRIA Internship: Biomarkers and Immunotherapy Prediction'
+  startOffset: 674
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=674
+  endOffset: 865
+- name: INRIA's Role in AI Research and France's AI Ecosystem
+  startOffset: 865
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=865
+  endOffset: 955
+- name: 'Freelance Work: Recommendation System & Knowledge Graph Automation'
+  startOffset: 955
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=955
+  endOffset: 1132
+- name: 'Career Pivot: Choosing Engineering Over a PhD'
+  startOffset: 1132
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=1132
+  endOffset: 1342
+- name: 'First Freelance Client: CV Visibility and Networking'
+  startOffset: 1342
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=1342
+  endOffset: 1419
+- name: Leveraging Open-Source & AI for Good to Gain Experience
+  startOffset: 1419
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=1419
+  endOffset: 1590
+- name: 'Hugging Face Community Course: Computer Vision Contributions & Review'
+  startOffset: 1590
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=1590
+  endOffset: 1917
+- name: 'Teaching & Communication: Simplifying ML Jargon for Learners'
+  startOffset: 1917
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=1917
+  endOffset: 2081
+- name: 'Finding Open-Source Opportunities: Communities, Docs, and Local Chapters'
+  startOffset: 2081
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2081
+  endOffset: 2246
+- name: 'Types of Open-Source Projects: Code, Data, and Applied Solutions'
+  startOffset: 2246
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2246
+  endOffset: 2412
+- name: 'Green Space Segmentation: Sentinel-2, CNNs vs Transformers, Practicality'
+  startOffset: 2412
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2412
+  endOffset: 2544
+- name: Project Work as Job-Ready Experience and Portfolio Building
+  startOffset: 2544
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2544
+  endOffset: 2608
+- name: 'Soft Skills from Collaboration: Communication and Prioritization'
+  startOffset: 2608
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2608
+  endOffset: 2734
+- name: 'Informational Networking: Reaching Out for Role Insights'
+  startOffset: 2734
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2734
+  endOffset: 2995
+- name: 'Onboarding New Contributors: Low Entry Barriers and Mentorship'
+  startOffset: 2995
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=2995
+  endOffset: 3094
+- name: 'AI Assistants in Learning: Benefits and Limitations of ChatGPT'
+  startOffset: 3094
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=3094
+  endOffset: 3239
+- name: 'Data Like Substack: Spotlighting Women in Data and ML'
+  startOffset: 3239
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=3239
+  endOffset: 3447
+- name: 'Featured Interviews: Bioinformatics, Fake News Detection, AI Ethics'
+  startOffset: 3447
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=3447
+  endOffset: 3736
+- name: 'Connecting with Isabella: LinkedIn and Substack Contact Info'
+  startOffset: 3736
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=3736
+  endOffset: 3822
+- name: Episode Wrap-Up and Closing Remarks
+  startOffset: 3822
+  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=3822
+  endOffset: 3822
 ---
 
 Links:

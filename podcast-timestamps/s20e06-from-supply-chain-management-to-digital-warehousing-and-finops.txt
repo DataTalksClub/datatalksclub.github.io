@@ -1,0 +1,24 @@
+00:00:00 Podcast Introduction
+00:01:35 Guest Introduction: Eddy Zulkifly, Staff Data Engineer at Kinaxis
+00:02:14 Career Origins: Industrial Engineering, Supply Chain & Excel Macros
+00:06:20 Career Pivot: From Business Analyst to Data Engineering
+00:07:48 Analyst Skills as a Foundation for Data Engineering
+00:08:06 Docker & Terraform: Learning Curve for Data Practitioners
+00:08:18 Tools & Low-Code Beginnings: Excel, Alteryx, Tableau
+00:11:13 Retail & Warehousing Experience: Forecasting, Preload Optimization
+00:21:57 Digital Data Warehousing: Data as Inventory and Pipelines
+00:22:36 Modern Data Stack: ELT, dbt, BigQuery and Orchestration
+00:24:34 Operational Differences: Change Velocity, Monitoring, and Tests
+00:27:50 Metric Trees & Data Specs: Translating Business Requirements for FinOps
+00:29:56 Building a Digital Warehouse: Stack Choices and Open-Source Tools
+00:31:40 FinOps Overview: Cloud Cost Optimization for SaaS Platforms
+00:34:15 Vendor Negotiations & Reservation Instances for Cost Savings
+00:36:11 Cloud Cost Modeling: VM Sizing, Storage Tiers and Multi-Cloud Comparison
+00:39:03 Demand Forecasting Analogy: Inventory Planning Applied to Cloud Capacity
+00:40:18 FinOps Foundation, Cost Tagging & Accountability Best Practices
+00:44:41 OUCS & Standardizing Cloud Cost Reporting Across AWS/GCP/Azure
+00:46:17 FinOps Processes: Parallels with DevOps, DataOps and CI/CD
+00:48:01 Staff Data Engineer Responsibilities: Technical & Strategic FinOps Work
+00:50:25 Continuous Learning: Georgia Tech Master’s, dbt, Python and Applied Analytics
+00:56:05 Career Advice: Certifications, Mentorship, Community and Time Management
+00:59:32 Closing Remarks & Key Takeaways

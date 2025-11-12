@@ -13,8 +13,12 @@ links:
   youtube: https://www.youtube.com/watch?v=kSTfhQ_SZgc
 season: 14
 short: From MLOps to DataOps
-title: From MLOps to DataOps
+title: 'Build Modern Data Pipelines: Ingestion, dbt Transformations, Airflow Orchestration
+  & MLOps'
 transcript:
+- header: Episode Introduction
+- header: 'Career journey: CERN researcher → NLP, ML engineering, Python, Astronomer,
+    Upsolver'
 - line: This week we'll talk about MLOps and DataOps. We have a special guest today,
     Santona. Santona started her data journey as a researcher at CERN, then worked
     in NLP, and then worked as a Python engineer. She did many things, and one of
@@ -35,7 +39,6 @@ transcript:
   sec: 144
   time: '2:24'
   who: Alexey
-- header: Santona's background
 - line: Before we go into our main topic of DataOps and MLOps, let's start with your
     background. Can you tell us about your career journey so far?
   sec: 152
@@ -121,7 +124,7 @@ transcript:
   sec: 426
   time: '7:06'
   who: Santona
-- header: Focusing on data workflows
+- header: Transition to workflow authoring and orchestration (Airflow, Astronomer)
 - line: But then you decided to go... I think you said “even more meta,” right? Focused
     more on data workflows. So how did that happen?
   sec: 428
@@ -170,7 +173,7 @@ transcript:
   sec: 440
   time: '7:20'
   who: Santona
-- header: Upsolver vs DBT
+- header: 'Upsolver vs DBT: pipeline authoring, execution engine, and ingestion focus'
 - line: I never used Upsolver. I only sometimes receive marketing information from
     you, in addition to webinars. But I've never actually seen that tool in practice.
     What you described sounds similar to DBT, right? You have a bunch of SQL queries,
@@ -216,7 +219,7 @@ transcript:
   sec: 717
   time: '11:57'
   who: Santona
-- header: ML pipelines vs Data pipelines
+- header: Comparing ML pipelines and analytics data pipelines
 - line: So a lot of data engineering stuff you mentioned. I remember a while ago,
     we had a podcast episode about MLOps here (I think it was like two years ago),
     and one thing that the guest, Theo, said back then was that you should never confuse
@@ -294,7 +297,7 @@ transcript:
   sec: 845
   time: '14:05'
   who: Santona
-- header: MLOps vs DataOps
+- header: 'MLOps vs DataOps: operationalizing models vs business data'
 - line: So using your definition, MLOps would be steps you need to take to deliver
     value from a machine learning model. And then DataOps would be steps you need
     to take to deliver value from what exactly – SQL queries?
@@ -387,6 +390,7 @@ transcript:
   sec: 1272
   time: '21:12'
   who: Santona
+- header: Analytics engineering and DBT's role in the modern data workflow
 - line: Even the tools are different, right? For ML to use cases, you might have tools
     like Airflow, Spark, Kinesis, Kafka, RabbitMQ, and all these things you mentioned.
     But for the first case – for developing business understanding – the tools are
@@ -413,7 +417,8 @@ transcript:
   sec: 1559
   time: '25:59'
   who: Alexey
-- header: Tools used for data pipelines and ML pipelines
+- header: 'Tooling landscape: orchestrators, Spark, Kafka/Kinesis, feature stores,
+    vector DBs'
 - line: Okay. So we started talking about the tools already. What I wanted to ask
     is, what sort of tools are usually there? I gave a few examples, but maybe you
     have some more examples? What kind of tools do you need for different pipelines
@@ -450,7 +455,7 @@ transcript:
   sec: 1627
   time: '27:07'
   who: Santona
-- header: The “modern data stack” and today's data ecosystem
+- header: 'Modern data stack choices: Upsolver, Snowflake, Databricks, build vs buy'
 - line: You mentioned one thing – the modern data stack. You said it's a good thing
     because it consists of many different components, and you can kind of replace
     these components. But what is this modern data stack? I see this term used quite
@@ -505,7 +510,7 @@ transcript:
   sec: 1937
   time: '32:17'
   who: Santona
-- header: Staging the data and the concept of a “lakehouse”
+- header: Data staging and lakehouse patterns; managed ingestion hiding the stage
 - line: What does it mean to stage the data?
   sec: 1977
   time: '32:57'
@@ -595,6 +600,7 @@ transcript:
   sec: 2228
   time: '37:08'
   who: Santona
+- header: 'Ingestion pre-processing: deduplication, ordering guarantees, PII masking'
 - line: That's cool. That's very convenient. [Santona chuckles and agrees] Okay. And
     this is how the data ends up in a warehouse, but it's in raw form. Right? We haven't
     processed it yet. [Santona agrees] That's the first initial step for a data pipeline.
@@ -646,7 +652,8 @@ transcript:
   sec: 2362
   time: '39:22'
   who: Santona
-- header: Transforming the data after staging
+- header: 'Transformation and data modeling: entities, foreign keys, and business
+    mappings'
 - line: That is the next step – transformation. Right?
   sec: 2363
   time: '39:23'
@@ -705,12 +712,12 @@ transcript:
   sec: 2485
   time: '41:25'
   who: Santona
-- header: What happens after the modeling phase
 - line: Okay, so we have the ingestion phase, then we have the transformation/modeling
     phase, and then? Do we have anything else after that?
   sec: 2575
   time: '42:55'
   who: Alexey
+- header: Marts, dashboards and translating business questions into metrics
 - line: That depends. [chuckles] Actually, we said one thing that I want to double-click
     on. [chuckles] Dashboards and reports and other deliverables, I think are actually
     a little bit further downstream, and we shouldn't really be thinking about them
@@ -737,7 +744,7 @@ transcript:
   sec: 2585
   time: '43:05'
   who: Santona
-- header: Human-centric vs Machine-centric pipeline
+- header: 'ML pipeline specifics: feature engineering, model training, and serving'
 - line: Ingested data, model data, answers. I wonder how different it is for a machine
     learning pipeline. Because in an ML pipeline, we also have a modeling phase, but
     it's a different kind of modeling phase. But I guess some things are similar,
@@ -781,7 +788,7 @@ transcript:
   sec: 2761
   time: '46:01'
   who: Santona
-- header: Applying skills learned in academia to ML engineering
+- header: Translating academic data/physics skills to industry pipelines
 - line: Now I'm talking with you, and I'm wondering – four years ago (I think you
     said 2019) when you were switching to ML, maybe you didn't know about all these
     things – all these different steps like ingestion, staging area, and all that
@@ -842,7 +849,6 @@ transcript:
   sec: 2920
   time: '48:40'
   who: Santona
-- header: Crafting user personas based on real stories
 - line: So the tools were maybe not your typical SciKit Learn tools, it was something
     else, and the way you accessed data was different, but in the end, you needed
     to access data – you needed to run some modeling, some training process on top
@@ -854,6 +860,7 @@ transcript:
   sec: 3132
   time: '52:12'
   who: Alexey
+- header: Persona-driven pipeline design and real use-case examples
 - line: Yeah, yeah. I think that having used Airflow was a positive [thing] for sure,
     as was doing pipelines end-to-end. Again, we were just forming the data team,
     so there were some open questions around what the data team was going to be –
@@ -895,6 +902,7 @@ transcript:
   sec: 3174
   time: '52:54'
   who: Santona
+- header: 'Career advice: value of being a generalist and closing skill gaps'
 - line: It looks like there is quite some overlap between ML engineering and data
     engineering. With the skills you got as an ML engineer, you could just say, “Hey,
     I know how to do this, this, and this. I might not be able to do this thing that
@@ -912,7 +920,7 @@ transcript:
   sec: 3382
   time: '56:22'
   who: Santona
-- header: A framework of curiosity
+- header: 'Learning strategy: vetting sources, networking, and engineering blogs'
 - line: Do you have a framework for doing this?
   sec: 3409
   time: '56:49'
@@ -961,7 +969,8 @@ transcript:
   sec: 3531
   time: '58:51'
   who: Santona
-- header: Santona's book and resource recommendations
+- header: 'Recommended resources: Fundamentals of Data Engineering, Airflow guides,
+    whitepapers'
 - line: Okay. Last question for today. Are there any books or other resources that
     you can recommend, let's say, if somebody wants to learn more about these data
     pipelines that we discussed?
@@ -987,10 +996,116 @@ transcript:
   sec: 3569
   time: '59:29'
   who: Santona
+- header: Episode Closing and links
 - line: Thank you so much.
   sec: 3673
   time: '1:01:13'
   who: Santona
+description: Master modern data pipelines with dbt transforms and Airflow orchestration—streamline
+  ingestion, speed feature engineering and analytics delivery.
+intro: How do you build a modern data pipeline that reliably moves raw events through
+  ingestion, dbt transformations, Airflow orchestration and into production ML and
+  analytics? In this episode, Santona Tuli — a former CERN researcher turned ML and
+  data engineering lead at Upsolver — walks through practical patterns and trade-offs
+  for end-to-end pipelines. Drawing on experience from particle-physics event analysis
+  to NLP and workflow authoring with Airflow, Santona explains where ingestion engines
+  and declarative SQL frameworks fit, and when dbt belongs in the stack. <br><br>
+  Topics include Upsolver vs dbt (pipeline authoring, execution engine and ingestion
+  focus), differences between ML pipelines and analytics pipelines, MLOps vs DataOps,
+  and dbt’s role in analytics engineering. We cover tooling (orchestrators, Spark,
+  Kafka/Kinesis, feature stores, vector DBs), modern data stack choices like Snowflake
+  and Databricks, lakehouse and staging patterns, and ingestion pre-processing needs
+  such as deduplication, ordering guarantees and PII masking. You’ll also hear about
+  transformation and data modeling (entities, foreign keys, business mappings), marts
+  and dashboards, feature engineering and model serving, persona-driven pipeline design,
+  and career-learning recommendations. Listen to gain concrete design guidance, tooling
+  trade-offs, and resources to build scalable data and MLOps pipelines.
+dateadded: '2023-06-24'
+duration: PT00H59M43S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=0
+  endOffset: 90
+- name: 'Career journey: CERN researcher → NLP, ML engineering, Python, Astronomer,
+    Upsolver'
+  startOffset: 90
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=90
+  endOffset: 428
+- name: Transition to workflow authoring and orchestration (Airflow, Astronomer)
+  startOffset: 428
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=428
+  endOffset: 648
+- name: 'Upsolver vs DBT: pipeline authoring, execution engine, and ingestion focus'
+  startOffset: 648
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=648
+  endOffset: 805
+- name: Comparing ML pipelines and analytics data pipelines
+  startOffset: 805
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=805
+  endOffset: 1124
+- name: 'MLOps vs DataOps: operationalizing models vs business data'
+  startOffset: 1124
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=1124
+  endOffset: 1497
+- name: Analytics engineering and DBT's role in the modern data workflow
+  startOffset: 1497
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=1497
+  endOffset: 1603
+- name: 'Tooling landscape: orchestrators, Spark, Kafka/Kinesis, feature stores, vector
+    DBs'
+  startOffset: 1603
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=1603
+  endOffset: 1756
+- name: 'Modern data stack choices: Upsolver, Snowflake, Databricks, build vs buy'
+  startOffset: 1756
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=1756
+  endOffset: 1977
+- name: Data staging and lakehouse patterns; managed ingestion hiding the stage
+  startOffset: 1977
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=1977
+  endOffset: 2230
+- name: 'Ingestion pre-processing: deduplication, ordering guarantees, PII masking'
+  startOffset: 2230
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=2230
+  endOffset: 2363
+- name: 'Transformation and data modeling: entities, foreign keys, and business mappings'
+  startOffset: 2363
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=2363
+  endOffset: 2585
+- name: Marts, dashboards and translating business questions into metrics
+  startOffset: 2585
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=2585
+  endOffset: 2697
+- name: 'ML pipeline specifics: feature engineering, model training, and serving'
+  startOffset: 2697
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=2697
+  endOffset: 2877
+- name: Translating academic data/physics skills to industry pipelines
+  startOffset: 2877
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=2877
+  endOffset: 3174
+- name: Persona-driven pipeline design and real use-case examples
+  startOffset: 3174
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=3174
+  endOffset: 3356
+- name: 'Career advice: value of being a generalist and closing skill gaps'
+  startOffset: 3356
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=3356
+  endOffset: 3409
+- name: 'Learning strategy: vetting sources, networking, and engineering blogs'
+  startOffset: 3409
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=3409
+  endOffset: 3556
+- name: 'Recommended resources: Fundamentals of Data Engineering, Airflow guides,
+    whitepapers'
+  startOffset: 3556
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=3556
+  endOffset: 3673
+- name: Episode Closing and links
+  startOffset: 3673
+  url: https://www.youtube.com/watch?v=kSTfhQ_SZgc&t=3673
+  endOffset: 3583
 ---
 
 Links:

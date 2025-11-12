@@ -2,14 +2,15 @@
 episode: 8
 guests:
 - ellenkonig
-description: "Master data engineering, MLOps and pipelines: learn CI/CD, cloud cost control and SQL/Python skills to switch careers and accelerate growth now."
-intro: "In this episode, Ellen König—Head of Engineering at alcemy—shares her journey
+description: 'Master data engineering, MLOps and pipelines: learn CI/CD, cloud cost
+  control and SQL/Python skills to switch careers and accelerate growth now.'
+intro: In this episode, Ellen König—Head of Engineering at alcemy—shares her journey
   from software and data science to data engineering leadership. She explains why
   many professionals make the switch, the skills that matter most (from DevOps and
   CI/CD to collaboration), and how to prepare through side projects and software fundamentals.
   <br><br> Ellen also breaks down key tools like Git, Docker, and Airflow, discusses
   the realities of cloud costs and team structures, and offers practical advice for
-  anyone planning a transition into data engineering."
+  anyone planning a transition into data engineering.
 date: 2025-11-07
 ids:
   anchor: From-Data-Science-to-Data-Engineering---Ellen-Knig-e1fgfbm
@@ -22,7 +23,7 @@ links:
   youtube: https://www.youtube.com/watch?v=3TTu-hYzxeg
 season: 7
 short: From Data Science to Data Engineering
-title: "How to Become a Data Engineer: Skills, MLOps, Pipelines, SQL, CI/CD & Cloud"
+title: 'How to Become a Data Engineer: Skills, MLOps, Pipelines, SQL, CI/CD & Cloud'
 topics:
 - data science
 - data engineering
@@ -1730,4 +1731,103 @@ transcript:
   sec: 3659
   time: '1:00:59'
   who: Ellen
+dateadded: '2022-03-14'
+duration: PT00H59M45S
+quotableClips:
+- name: Episode Introduction & Guest Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=0
+  endOffset: 111
+- name: 'Career Narrative: From Backend Developer to Data Engineering Lead'
+  startOffset: 111
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=111
+  endOffset: 392
+- name: 'Motivation to Switch: Blackbox Models, Code Quality, and Professional Fit'
+  startOffset: 392
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=392
+  endOffset: 581
+- name: 'Role Overlap: Data Science Tasks That Are Data Engineering Work'
+  startOffset: 581
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=581
+  endOffset: 722
+- name: 'Data Intuition: How Data Is Produced, Structured, and Biased'
+  startOffset: 722
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=722
+  endOffset: 835
+- name: 'Transferable Strengths: Pipelines, Stakeholder Communication, Exploration'
+  startOffset: 835
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=835
+  endOffset: 902
+- name: 'Core Upskills: Collaborative Coding, CI/CD and DevOps Practices'
+  startOffset: 902
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=902
+  endOffset: 1054
+- name: 'MLOps vs Research: When Data Scientists Need Production Engineering Skills'
+  startOffset: 1054
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=1054
+  endOffset: 1176
+- name: 'Learning Pathways: On-the-Job Mentorship, Bootcamps, and Courses'
+  startOffset: 1176
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=1176
+  endOffset: 1285
+- name: 'Experiment First: Side Projects and Small Work Assignments Before Switching'
+  startOffset: 1285
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=1285
+  endOffset: 1421
+- name: 'Software Foundations: Take General Dev Courses (Web, Mobile) to Learn Engineering'
+  startOffset: 1421
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=1421
+  endOffset: 1580
+- name: 'Essential Course Components: Git, Docker, Testing, CLI, Clean Code'
+  startOffset: 1580
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=1580
+  endOffset: 1734
+- name: 'Language Guidance: SQL & Python for Analytics; Java/Scala for Streaming'
+  startOffset: 1734
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=1734
+  endOffset: 1963
+- name: 'Market Dynamics: Strong Demand for Data Engineers and Expectation Gaps'
+  startOffset: 1963
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=1963
+  endOffset: 2140
+- name: 'Teamwork Shift: Adapting to Pair Programming and Close Collaboration'
+  startOffset: 2140
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=2140
+  endOffset: 2300
+- name: 'Organizational Models: Embedded Data Engineers vs Central Platform Teams'
+  startOffset: 2300
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=2300
+  endOffset: 2370
+- name: 'Intersection Roles: Analytics Engineer, Data-Science-Engineers, MLOps'
+  startOffset: 2370
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=2370
+  endOffset: 2489
+- name: 'Project Recipes: Build Scrapers, ETL Pipelines, Schedulers (Airflow)'
+  startOffset: 2489
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=2489
+  endOffset: 2640
+- name: 'Portfolio Example: Domain-Focused Pipelines with Real Data & Automation'
+  startOffset: 2640
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=2640
+  endOffset: 2962
+- name: 'Cloud Cost Control: Billing Exploration, Budgets, and Alerting'
+  startOffset: 2962
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=2962
+  endOffset: 3166
+- name: 'Entry Strategy: When to Apply for Entry-Level Roles vs Internships'
+  startOffset: 3166
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=3166
+  endOffset: 3346
+- name: 'Career Acceleration: Benefits of Consultancies and Large Companies'
+  startOffset: 3346
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=3346
+  endOffset: 3516
+- name: 'Cloud Choice: Practical Differences, Local Demand, and Free Tiers'
+  startOffset: 3516
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=3516
+  endOffset: 3621
+- name: Closing Remarks & How to Contact Ellen
+  startOffset: 3621
+  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=3621
+  endOffset: 3585
 ---

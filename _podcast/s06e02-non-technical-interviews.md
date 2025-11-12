@@ -1,10 +1,11 @@
 ---
-title: "Ace Data Interviews: Behavioral STARs, Case Strategy, Portfolios & Cold Emails"
+title: 'Ace Data Interviews: Behavioral STARs, Case Strategy, Portfolios & Cold Emails'
 short: Ace Non-Technical Data Science Interviews
 guests:
 - nicksingh
 image: images/podcast/s06e02-non-technical-interviews.jpg
-description: 'Master behavioral interviews & prep to break into data roles: build an impact portfolio, use STAR stories, nail case interviews and cold emails.'
+description: 'Master behavioral interviews & prep to break into data roles: build
+  an impact portfolio, use STAR stories, nail case interviews and cold emails.'
 season: 6
 episode: 2
 ids:
@@ -1903,4 +1904,111 @@ transcript:
   sec: 3816
   time: '1:03:36'
   who: Nick
+dateadded: '2021-11-12'
+duration: PT01H01M38S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=0
+  endOffset: 118
+- name: 'Guest Overview: Nick Singh’s career and book'
+  startOffset: 118
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=118
+  endOffset: 257
+- name: 'Career Coaching Focus: Helping candidates break into data roles'
+  startOffset: 257
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=257
+  endOffset: 311
+- name: 'Hiring Process Breakdown: Screens, assessments, and panel interviews'
+  startOffset: 311
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=311
+  endOffset: 417
+- name: 'Industry Trends: Why multiple interview rounds are common'
+  startOffset: 417
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=417
+  endOffset: 538
+- name: 'Behavioral Interviews: Purpose and what interviewers seek'
+  startOffset: 538
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=538
+  endOffset: 800
+- name: 'Behavioral Prep Method: Grid planning and STAR storytelling'
+  startOffset: 800
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=800
+  endOffset: 1127
+- name: 'Practiced Delivery: Preparation without sounding scripted'
+  startOffset: 1127
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=1127
+  endOffset: 1185
+- name: 'Handling Tricky Prompts: Common pitfalls and recoveries'
+  startOffset: 1185
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=1185
+  endOffset: 1513
+- name: 'Project Walkthroughs: Detailing work while showing ownership'
+  startOffset: 1513
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=1513
+  endOffset: 1670
+- name: 'Lead with Impact: Pyramid principle for concise results-first stories'
+  startOffset: 1670
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=1670
+  endOffset: 1866
+- name: 'Business Context: Translating technical work into product value'
+  startOffset: 1866
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=1866
+  endOffset: 2039
+- name: 'Controlling Pacing: Avoiding rambling and burying the lead'
+  startOffset: 2039
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=2039
+  endOffset: 2238
+- name: 'Technical Claims: Only present models you can defend'
+  startOffset: 2238
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=2238
+  endOffset: 2297
+- name: 'Favorite-Model Strategy: Choose familiar, project-backed techniques'
+  startOffset: 2297
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=2297
+  endOffset: 2382
+- name: 'Portfolio Impact: Quantifying non-enterprise projects'
+  startOffset: 2382
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=2382
+  endOffset: 2471
+- name: 'Senior vs. Junior: Differences in behavioral and case expectations'
+  startOffset: 2471
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=2471
+  endOffset: 2667
+- name: 'Case Interview Approach: Clarify goals before proposing solutions'
+  startOffset: 2667
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=2667
+  endOffset: 2730
+- name: 'Product-Sense Interviews: Metrics, assumptions, and brainstorming'
+  startOffset: 2730
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=2730
+  endOffset: 2974
+- name: 'Metric Identification: Researching unfamiliar domains effectively'
+  startOffset: 2974
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=2974
+  endOffset: 3191
+- name: 'Company Context: Using reports and product knowledge to prepare'
+  startOffset: 3191
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=3191
+  endOffset: 3295
+- name: 'Read Tech Blogs: Learning production and architecture from case studies'
+  startOffset: 3295
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=3295
+  endOffset: 3506
+- name: 'Outreach Strategy: Cold emailing hiring managers and recruiters'
+  startOffset: 3506
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=3506
+  endOffset: 3659
+- name: 'Cold Email Examples: Showcasing projects with links and visuals'
+  startOffset: 3659
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=3659
+  endOffset: 3736
+- name: 'Final Tips and Resources: Book recommendations and next steps'
+  startOffset: 3736
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=3736
+  endOffset: 3767
+- name: 'Contact & Follow-up: NickSingh.com and LinkedIn'
+  startOffset: 3767
+  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=3767
+  endOffset: 3698
 ---

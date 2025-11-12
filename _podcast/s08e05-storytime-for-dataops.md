@@ -1,12 +1,27 @@
 ---
 season: 8
 episode: 5
-title: "What Is DataOps? Automating Data Pipelines & Reducing Errors"
+title: 'Mastering DataOps: Automation, Observability & CI/CD for Reliable Data Pipelines'
 short: Storytime for DataOps
-description: "Learn DataOps with Chris Bergh. Master Lean principles, automation, cycle time reduction, testing, and DevOps for data teams."
+description: 'Master DataOps: automate pipelines, data observability and CI/CD to
+  cut errors, speed deployments, and deliver reliable, testable data pipelines.'
 guests:
 - christopherbergh
-intro: "In this episode, Chris Bergh—CEO and Co-Founder of DataKitchen—shares the origin story of DataOps and how it’s transforming data team productivity. Drawing parallels to DevOps, Chris explains how treating data like a factory helps teams reduce cycle time, lower errors, and deliver analytics faster. He discusses lean principles, defining done and good, and balancing heroism with repeatable processes. You’ll learn the seven steps to implementing DataOps, how automation simplifies orchestration, and how the same principles apply to both data engineering and MLOps."
+intro: 'How do you build reliable data pipelines that move fast without breaking production?
+  In this episode, Christopher Bergh — CEO and Head Chef at DataKitchen, co-author
+  of the DataOps Cookbook and Manifesto, and a 25+-year veteran across research, engineering,
+  analytics, and leadership — walks through practical approaches to mastering DataOps:
+  automation, observability, and CI/CD for dependable data delivery. <br><br> We cover
+  core targets like error reduction, deployment cycle time, and team productivity;
+  the role of data observability and monitoring in catching production errors; and
+  the trade-offs between “done” and “good.” Chris explains the shift from runbooks
+  to automated playbooks, an automation-first mindset (“code that acts on data”),
+  and seven practical steps for healthier pipelines—VC, tests, CI/CD, and more. He
+  contrasts DataOps with MLOps, argues for end-to-end versioning, and discusses tooling
+  choices including dbt, Great Expectations, and SQL tests, plus platform orchestration
+  and governance. <br><br> Listen to learn concrete tactics for improving data quality,
+  shrinking incident toil, proving systems with end-to-end testing, and where to focus
+  time and tooling to accelerate reliable analytics delivery.'
 ids:
   anchor: Storytime-for-DataOps---Christopher-Bergh-e1hgl0m
   youtube: 0Fx5PCoLkf4
@@ -19,29 +34,28 @@ links:
 topics:
 - dataops
 - practices
-
 transcript:
-- header: "Podcast Introduction"
+- header: 'Opening banter: "Father of DataOps" anecdote'
 - line: Some people call you the Father of DataOps.
   sec: 1
-  time: '0:01'
+  time: 0:01
   who: Alexey
 - line: '[laughs] Oh, yeah. One guy called me the Grandfather of DataOps. That hurt.
-  [laughs].'
+    [laughs].'
   sec: 4
-  time: '0:04'
+  time: 0:04
   who: Chris
-- line: 'I''m just thinking about the introduction – should we use that. Or do you prefer
-    I don''t? [laughs]'
+- line: I'm just thinking about the introduction – should we use that. Or do you prefer
+    I don't? [laughs]
   sec: 13
-  time: '0:13'
+  time: 0:13
   who: Alexey
 - line: Whatever you want. [laughs] Yeah. I've been doing it a while. So yeah – whatever
     term you want to use.
   sec: 18
-  time: '0:18'
+  time: 0:18
   who: Chris
-- header: "Introduction: CEO Chris Bergh and DataOps Origin Story"
+- header: Chris Bergh background and career pivot to data leadership
 - line: This week, we'll talk about DataOps. We have a special guest today, Chris.
     Chris is the CEO and Head Chief at DataKitchen. Some people call Chris the "Father
     of DataOps" maybe he will tell us why. Welcome to our event today!
@@ -54,13 +68,13 @@ transcript:
   sec: 98
   time: '1:38'
   who: Chris
-- header: "Career Shift: Managing Data Teams; Realizing Process Problems"
 - line: '[chuckles] I''m sure nobody will. Before we go into our main topic of DataOps,
     let''s start with your background. Can you tell us about your career journey so
     far? Maybe you can also mention why they call you the Father of DataOps?'
   sec: 110
   time: '1:50'
   who: Alexey
+- header: 'Transition: from software engineer to managing data teams; factory metaphor'
 - line: '[cross-talk] Yeah, that''s fine. So the headline is sort of “Old Data Nerd,”
     I guess that''s the headline. I grew up in the central part of the United States
     – Wisconsin – where there are a lot of people of German heritage. My last name,
@@ -98,7 +112,7 @@ transcript:
   sec: 252
   time: '4:12'
   who: Alexey
-- header: "Concept: Data as a Factory; Agile Software & Hard Hats"
+- header: 'Factory + Agile: balancing production stability and rapid change'
 - line: No, no. Well, it works as a metaphor. In some ways, I think, when you have
     a lot of data pipelines in production, and you have customers who will yell at
     you when they're late or when things are wrong, having a good production process
@@ -136,7 +150,7 @@ transcript:
   sec: 255
   time: '4:15'
   who: Chris
-- header: "DataOps Essence: Lowering Errors; Cycle Time; Productivity"
+- header: 'Core targets: error reduction, deployment cycle time, and team productivity'
 - line: Is this the essence of DataOps?
   sec: 402
   time: '6:42'
@@ -154,6 +168,7 @@ transcript:
   sec: 416
   time: '6:56'
   who: Alexey
+- header: Data observability & monitoring for data quality and production errors
 - line: Yeah. I think the focus is really on three things. 1) Lowering errors in production.
     What do I mean by that? I mean – if you follow data from its source all the way
     to where it creates value, including all the different tools and systems. The
@@ -217,6 +232,7 @@ transcript:
   sec: 442
   time: '7:22'
   who: Chris
+- header: 'Production quality consequences: detecting and remediating simple failures'
 - line: So, correct me if I'm wrong – you said the focus of DataOps is on three things.
     The first thing is – you want to reduce the number of errors you have in production.
     We can think of this as a factory line or some assembly line, and we want to monitor
@@ -229,6 +245,7 @@ transcript:
   sec: 734
   time: '12:14'
   who: Chris
+- header: 'Processes vs tools: leadership, automation, and organizational focus'
 - line: Then the second thing is the cycle time of deployment, right? And the third
     thing is – team productivity should increase. Right? I imagine that if you want
     to have an effective factory, it's not only about the tools and the monitoring
@@ -248,6 +265,7 @@ transcript:
   sec: 785
   time: '13:05'
   who: Alexey
+- header: 'Naming the movement: choosing "DataOps" and the DevOps analogy'
 - line: No, no. The term was already there. There's a company in the United States
     that has been using “DataOps” since the 80s. I think the term… I guess my thought
     was that we're trying to get an idea across and we needed a name for that idea.
@@ -259,7 +277,6 @@ transcript:
   sec: 800
   time: '13:20'
   who: Chris
-- header: "Naming DataOps; DevOps Analogy; Stressful Data Work"
 - line: It's frustrating to go and work for years and build software and then no one
     goes, “What? Are you an ETL tool? Are you a data science tool? Do you build a
     data lake?” I'm like, “Ah, no. We do this thing called DataOps.” “What's that?”
@@ -320,6 +337,7 @@ transcript:
   sec: 800
   time: '13:20'
   who: Chris
+- header: 'Human impact: stress, blame culture, and owning the process'
 - line: Where you do the same thing.
   sec: 1094
   time: '18:14'
@@ -355,6 +373,7 @@ transcript:
   sec: 1194
   time: '19:54'
   who: Chris
+- header: 'Defining "done" vs "good": readiness criteria and trade-offs'
 - line: All these “funky” systems, bad quality data – that will keep you awake at
     night, right? You don't want to have that. You want to be in control of these
     issues, so you need to take control of that. Yes, so you said that having these
@@ -377,6 +396,7 @@ transcript:
   sec: 1196
   time: '19:56'
   who: Alexey
+- header: 'Heroism vs feedback: early releases and customer iteration'
 - line: Well, I think it's the definition of success and the definition of “done.”
     So I think they're definitional questions. Running towards making your customer
     happy and being a hero is bad in and of itself. There’s the heroic act of bolting
@@ -392,7 +412,6 @@ transcript:
   sec: 1262
   time: '21:02'
   who: Chris
-- header: "Defining \"Done\" and \"Good\"; Balance: Heroism vs. Fear"
 - line: So what is "done" and what is "good," we have to talk about. Because a lot
     of times we think “done” means our customers are happy. And then it's on to the
     next thing. But then the discussion with the customer comes and it’s like, “Look,
@@ -441,6 +460,7 @@ transcript:
   sec: 1496
   time: '24:56'
   who: Alexey
+- header: 'Two iteration loops: customer validation and data/model validity'
 - line: It might not be good. Because all that work that you're doing – you may capture
     the requirements wrong. So, like a lot of things in life, it's about balance between
     heroism and fear. I do think you should get early feedback from your customers.
@@ -487,6 +507,7 @@ transcript:
   sec: 1662
   time: '27:42'
   who: Alexey
+- header: 'Optimizing value streams: breaking silos across teams and governance'
 - line: Exactly, yeah. It's a very iterative methodology that's based on finding the
     right balance between heroism and fear – between being humble about what you know
     and forcing feedback from your customers. It comes from Agile software and the
@@ -500,7 +521,6 @@ transcript:
   sec: 1694
   time: '28:14'
   who: Chris
-- header: "Lean Principles; Two Iteration Cycles; Avoiding Silos"
 - line: 'So you''ve got these two cycles of iteration. In software, you sort of an
     application, you send it to someone, they go “No. Change this. Change that.” You''ve
     got one. You''re really working on, “Can they use it?” And “Do they understand
@@ -532,6 +552,7 @@ transcript:
   sec: 1694
   time: '28:14'
   who: Chris
+- header: 'Deferred-value traps: data lake/cloud hype and postponed outcomes'
 - line: You have to put everyone together, right?
   sec: 1883
   time: '31:23'
@@ -579,6 +600,7 @@ transcript:
   sec: 1997
   time: '33:17'
   who: Chris
+- header: 'Seven practical steps for healthier data pipelines: VC, tests, CI/CD'
 - line: You described this picture of isolated teams – data analytics teams – who
     don't care about data scientists, and then there are data engineers who just create
     data lakes because they want to. If we go back to that one data engineer that
@@ -590,6 +612,7 @@ transcript:
   sec: 2027
   time: '33:47'
   who: Alexey
+- header: 'Runbooks to automation: move from checklists to automated playbooks'
 - line: Well, we used to give this talk called “The Seven Steps to DataOps,” so I'll
     talk through that. One of the first steps is, “Take your code and put it in version
     control.” Don't have it on your hard disk somewhere or file share. All the code
@@ -604,7 +627,6 @@ transcript:
   sec: 2077
   time: '34:37'
   who: Chris
-- header: "Tool: Seven Steps to DataOps; Automate Checklists"
 - line: If you have an error, make a JIRA ticket or put it in a spreadsheet. If you
     want to improve your cycle time, just every week – start trying to deploy every
     week. And if you don't, note that. I think those things are good. Then you should
@@ -626,6 +648,7 @@ transcript:
   sec: 2077
   time: '34:37'
   who: Chris
+- header: 'Automation-first mindset: "code that acts on data" beyond labels'
 - line: Is this DataOps?
   sec: 2233
   time: '37:13'
@@ -649,7 +672,7 @@ transcript:
   sec: 2279
   time: '37:59'
   who: Chris
-- header: "Career Goal: Replaceability; Avoiding the Technical Hairball"
+- header: 'Replaceability: handoffs, documentation, and on-call reduction'
 - line: So that's the first step for that data engineer, before they hire a college
     graduate. Right? To have some sort of system.
   sec: 2281
@@ -691,6 +714,7 @@ transcript:
   sec: 2386
   time: '39:46'
   who: Alexey
+- header: 'Hairball anti-pattern: technical debt, maintainability, and refactoring'
 - line: Yeah. I think it's not wrong, emotionally, to want to be indispensable. I
     spent a lot of my twenties wanting to be indispensable on a software team and
     wanting to be the “studly guy who built the cool thing,” and get the praise from
@@ -734,6 +758,7 @@ transcript:
   sec: 2520
   time: '42:00'
   who: Chris
+- header: 'Adoption barriers: proving systems with end-to-end testing and data'
 - line: All these steps you described that this particular data engineer could take
     to improve the system – they don't seem to be that difficult or that complex.
     Okay, put the code in Git. I think everyone's doing this – I hope. Then tests.
@@ -753,6 +778,7 @@ transcript:
   sec: 2586
   time: '43:06'
   who: Alexey
+- header: Test environments & test data challenges; recommend ~15% time for process
 - line: That's a good question. I think there are a couple of reasons. One is, there's
     some people who are on the journey. They do those actions and they write a couple
     of unit tests against their Python code. And then they automate. Instead of manually
@@ -765,7 +791,6 @@ transcript:
   sec: 2652
   time: '44:12'
   who: Chris
-- header: "DataOps Adoption Challenges; 15% Time for Process"
 - line: So number one is like, "To prove data systems work, you have to pour data
     into them. You have to run them with data that's realistic.” Sometimes – in a
     startup, maybe – you're dealing with marketing data and you can just run the whole
@@ -811,6 +836,7 @@ transcript:
   sec: 2652
   time: '44:12'
   who: Chris
+- header: 'Tooling for DataOps: dbt, Great Expectations, SQL tests, and strategies'
 - line: Are there any tools you can recommend? You described all the difficulties
     that the teams face when implementing all these DataOps principles. It's not just
     about having CI/CD configured, but you also need to think about integration tests,
@@ -844,6 +870,7 @@ transcript:
   sec: 2939
   time: '48:59'
   who: Chris
+- header: 'DataOps vs MLOps: shared DevOps principles applied to models and pipelines'
 - line: Okay. There is another question. “What are the differences between DataOps
     and MLOps? Are they the same thing or different?”
   sec: 3042
@@ -856,12 +883,13 @@ transcript:
   sec: 3055
   time: '50:55'
   who: Chris
-- header: "Concept: DataOps vs. MLOps (Same Principles Applied)"
 - line: When I say this, people roll their eyes and say, "No, MLOps is different,
     because it's about machine learning.”
   sec: 3075
   time: '51:15'
   who: Alexey
+- header: 'End-to-end versioning: code, models, visualizations, governance as one
+    unit'
 - line: Yeah… you know, you're not different when you do machine learning. I mean,
     it's cool, right? But like, it's code that acts on data, just like ETL code, just
     like this code. You're building an application. You have more investigating –
@@ -892,6 +920,7 @@ transcript:
   sec: 3081
   time: '51:21'
   who: Chris
+- header: 'DataKitchen snapshot: company mission, "Head Chef" role, and team focus'
 - line: So your position – your title – is Head Chief at Data Kitchen.
   sec: 3213
   time: '53:33'
@@ -962,12 +991,13 @@ transcript:
   sec: 3359
   time: '55:59'
   who: Chris
-- header: "Grilling at Data Kitchen: Automating Environments and Orchestration"
+- header: 'Platform overview: orchestrating environments, tests, and observability'
 - line: Okay. So you said as the cook, you like to grill data at Data Kitchen? So
     what is the software you mentioned? What are you grilling?
   sec: 3392
   time: '56:32'
   who: Alexey
+- header: 'Market context: DataOps vendor landscape and funding trends'
 - line: It's a platform to automate. We do some of those things that we talked about.
     We help people. I guess, the first thing is – we're the factory. We allow you
     to plug in your data science tool, your data engineering tool, your data visualization
@@ -977,7 +1007,6 @@ transcript:
   sec: 3400
   time: '56:40'
   who: Chris
-- header: "DataKitchen Platform: Automating Environments and Orchestration"
 - line: What we're trying to do is help people where they are and where they start.
     We tend to sell – we have a different way of building the company. We're profitable.
     We never took any financing. So, we're trying to grow a reasonable company and
@@ -1031,7 +1060,7 @@ transcript:
   sec: 3625
   time: '1:00:25'
   who: Chris
-- header: "The DataOps Cookbook: Free Resources for Learning and Adopting DataOps"
+- header: 'Learning resources: DataOps Cookbook, manifesto, courses, and manager guide'
 - line: I know that you have a book called “The DataOps Cookbook,” so I see that you
     love these cooking metaphors. Of course, what kind of books would you have in
     a Data Kitchen? So maybe you can briefly tell us what is in this book? I know
@@ -1054,7 +1083,7 @@ transcript:
   sec: 3652
   time: '1:00:52'
   who: Chris
-- header: "Resources: DataOps Cookbook, Manifesto, and Manager Book"
+- header: 'Closing remarks: adoption outlook and links to resources'
 - line: Yeah, thanks a lot for putting this together. These are invaluable resources,
     I will make sure to include all these links in the description so that everyone
     who is watching this can find them. And thank you for joining us today, for sharing
@@ -1073,6 +1102,129 @@ transcript:
   sec: 3744
   time: '1:02:24'
   who: Alexey
+dateadded: '2022-04-23'
+duration: PT01H02M23S
+quotableClips:
+- name: 'Opening banter: "Father of DataOps" anecdote'
+  startOffset: 1
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1
+  endOffset: 80
+- name: Chris Bergh background and career pivot to data leadership
+  startOffset: 80
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=80
+  endOffset: 121
+- name: 'Transition: from software engineer to managing data teams; factory metaphor'
+  startOffset: 121
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=121
+  endOffset: 255
+- name: 'Factory + Agile: balancing production stability and rapid change'
+  startOffset: 255
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=255
+  endOffset: 402
+- name: 'Core targets: error reduction, deployment cycle time, and team productivity'
+  startOffset: 402
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=402
+  endOffset: 442
+- name: Data observability & monitoring for data quality and production errors
+  startOffset: 442
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=442
+  endOffset: 711
+- name: 'Production quality consequences: detecting and remediating simple failures'
+  startOffset: 711
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=711
+  endOffset: 742
+- name: 'Processes vs tools: leadership, automation, and organizational focus'
+  startOffset: 742
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=742
+  endOffset: 800
+- name: 'Naming the movement: choosing "DataOps" and the DevOps analogy'
+  startOffset: 800
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=800
+  endOffset: 1094
+- name: 'Human impact: stress, blame culture, and owning the process'
+  startOffset: 1094
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1094
+  endOffset: 1196
+- name: 'Defining "done" vs "good": readiness criteria and trade-offs'
+  startOffset: 1196
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1196
+  endOffset: 1262
+- name: 'Heroism vs feedback: early releases and customer iteration'
+  startOffset: 1262
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1262
+  endOffset: 1499
+- name: 'Two iteration loops: customer validation and data/model validity'
+  startOffset: 1499
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1499
+  endOffset: 1694
+- name: 'Optimizing value streams: breaking silos across teams and governance'
+  startOffset: 1694
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1694
+  endOffset: 1883
+- name: 'Deferred-value traps: data lake/cloud hype and postponed outcomes'
+  startOffset: 1883
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=1883
+  endOffset: 2027
+- name: 'Seven practical steps for healthier data pipelines: VC, tests, CI/CD'
+  startOffset: 2027
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2027
+  endOffset: 2077
+- name: 'Runbooks to automation: move from checklists to automated playbooks'
+  startOffset: 2077
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2077
+  endOffset: 2233
+- name: 'Automation-first mindset: "code that acts on data" beyond labels'
+  startOffset: 2233
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2233
+  endOffset: 2281
+- name: 'Replaceability: handoffs, documentation, and on-call reduction'
+  startOffset: 2281
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2281
+  endOffset: 2429
+- name: 'Hairball anti-pattern: technical debt, maintainability, and refactoring'
+  startOffset: 2429
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2429
+  endOffset: 2586
+- name: 'Adoption barriers: proving systems with end-to-end testing and data'
+  startOffset: 2586
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2586
+  endOffset: 2652
+- name: Test environments & test data challenges; recommend ~15% time for process
+  startOffset: 2652
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2652
+  endOffset: 2905
+- name: 'Tooling for DataOps: dbt, Great Expectations, SQL tests, and strategies'
+  startOffset: 2905
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=2905
+  endOffset: 3042
+- name: 'DataOps vs MLOps: shared DevOps principles applied to models and pipelines'
+  startOffset: 3042
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3042
+  endOffset: 3081
+- name: 'End-to-end versioning: code, models, visualizations, governance as one unit'
+  startOffset: 3081
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3081
+  endOffset: 3213
+- name: 'DataKitchen snapshot: company mission, "Head Chef" role, and team focus'
+  startOffset: 3213
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3213
+  endOffset: 3392
+- name: 'Platform overview: orchestrating environments, tests, and observability'
+  startOffset: 3392
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3392
+  endOffset: 3400
+- name: 'Market context: DataOps vendor landscape and funding trends'
+  startOffset: 3400
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3400
+  endOffset: 3627
+- name: 'Learning resources: DataOps Cookbook, manifesto, courses, and manager guide'
+  startOffset: 3627
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3627
+  endOffset: 3708
+- name: 'Closing remarks: adoption outlook and links to resources'
+  startOffset: 3708
+  url: https://www.youtube.com/watch?v=0Fx5PCoLkf4&t=3708
+  endOffset: 3743
 ---
 
 Links:

@@ -1,0 +1,22 @@
+00:00:00 Episode Introduction & Guest Overview
+00:02:08 Career Path: Data Infrastructure and Stanford ML Background
+00:03:55 Sales Engineering: Demos, POCs and Data Integration
+00:05:35 Early Machine Learning Work: NLP, Summarization and Entity Extraction
+00:06:46 Prescriptive vs Predictive Analytics: Definitions and Business Use Cases
+00:09:32 Terminology Problems: The Ambiguity of "Data Science"
+00:10:48 ML vs Analytics: Different Goals, Shared Data Infrastructure
+00:13:48 Machine Learning Day-to-Day: Models, APIs, Predictions and SLAs
+00:17:38 Fraud Detection: From Rule-Based Systems to Machine Learning
+00:18:39 Analyst Responsibilities: Dashboards, Reports and Ad-hoc Queries
+00:24:23 Domain Expertise: Analysts' Tribal Knowledge and SQL Proficiency
+00:26:33 Documentation Limitations and Attempts to Improve Knowledge Sharing
+00:28:42 Experimental Workflows: Model Experiments, A/B Testing and Shadow Mode
+00:31:19 Experiment Analysis: Segmentation, Uplift and Root Cause Investigation
+00:33:30 Overlaps and Differences: Data Quality, Timescales and Outputs
+00:39:04 Bridging Roles: Notebooks, SQL+Python Workflows and Analytics Engineering
+00:41:13 Investment Trends: ML Hype, Analytics Underspend and Data Infrastructure
+00:43:02 Hiring Imbalance: Prioritizing Data Scientists vs Data Analysts
+00:49:01 Team Organization: Embedded Data Roles Versus Centralized Structures
+00:55:41 Building a Data Team: Hire Data Engineers, Then Analysts, Then DS
+00:58:19 MLOpsRoundup Newsletter: ML Production, MLOps Insights and Resources
+00:59:59 Contact and Community: Twitter, Slack and Episode Close

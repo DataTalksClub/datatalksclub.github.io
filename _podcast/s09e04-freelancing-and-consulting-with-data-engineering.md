@@ -1292,6 +1292,125 @@ intro: 'How do you price freelance data engineering work, win steady clients, an
   grow a sustainable freelance practice.'
 description: 'Master freelance data engineering: pricing, client acquisition & tools
   to negotiate rates, scope projects, build reusable portfolios and win repeat clients.'
+dateadded: '2022-06-18'
+duration: PT01H01M16S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=0
+  endOffset: 100
+- name: 'Guest Overview: Adrian’s Move to Freelancing'
+  startOffset: 100
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=100
+  endOffset: 132
+- name: 'Career Journey: Economics & Marketing to Data Engineering'
+  startOffset: 132
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=132
+  endOffset: 214
+- name: 'Becoming a Freelancer: Leaving Corporate Life & First Contract'
+  startOffset: 214
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=214
+  endOffset: 333
+- name: 'Hiring Process Differences: Freelance vs Corporate Engagements'
+  startOffset: 333
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=333
+  endOffset: 426
+- name: Income Variability & Occupancy Rate Explained
+  startOffset: 426
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=426
+  endOffset: 567
+- name: 'Early Challenges: Impostor Syndrome and Team Fit'
+  startOffset: 567
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=567
+  endOffset: 696
+- name: 'First Projects: Legacy Cleanup, Airflow, Data Science & ICO Work'
+  startOffset: 696
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=696
+  endOffset: 908
+- name: 'Shift to Product: Founding a Company and Building a Prototype'
+  startOffset: 908
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=908
+  endOffset: 1092
+- name: 'Pricing Models: Hourly Rates, Negotiation, and Market Ranges'
+  startOffset: 1092
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=1092
+  endOffset: 1277
+- name: 'Skill Growth: Learning on the Job and Generalist Advantage'
+  startOffset: 1277
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=1277
+  endOffset: 1399
+- name: 'Intermediaries: Recruitment Agencies vs Direct Client Work'
+  startOffset: 1399
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=1399
+  endOffset: 1665
+- name: 'Client Acquisition: Networking Strategies and Repeat Business'
+  startOffset: 1665
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=1665
+  endOffset: 1903
+- name: 'Scoping Work: Spikes, Scope Documents and Managing Expectations'
+  startOffset: 1903
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=1903
+  endOffset: 2101
+- name: 'Networking Tactics: In-Person Meetings and Relationship Building'
+  startOffset: 2101
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=2101
+  endOffset: 2385
+- name: 'Freelance Platforms: Upwork Pros, Cons, and Time Valuation'
+  startOffset: 2385
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=2385
+  endOffset: 2457
+- name: 'Work Location: Choosing Remote or On‑Site Projects'
+  startOffset: 2457
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=2457
+  endOffset: 2492
+- name: 'Data Loading Tool: Handling Volatile Schemas & Automatic Unpacking'
+  startOffset: 2492
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=2492
+  endOffset: 2668
+- name: 'Transition Paths: From Freelancing to Product or Investing'
+  startOffset: 2668
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=2668
+  endOffset: 2777
+- name: 'Reusable Portfolio: Building Demonstrable, Reusable Assets'
+  startOffset: 2777
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=2777
+  endOffset: 2937
+- name: 'Personality Fit: Freelancing as an Introvert'
+  startOffset: 2937
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=2937
+  endOffset: 2973
+- name: 'Work Flexibility: Feasibility of Working Three Months a Year'
+  startOffset: 2973
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=2973
+  endOffset: 3087
+- name: 'Project Selection: Following Interest vs Strategic Skill Building'
+  startOffset: 3087
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=3087
+  endOffset: 3142
+- name: 'Assessing Fit: Traits That Predict Freelance Success'
+  startOffset: 3142
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=3142
+  endOffset: 3283
+- name: 'Local Market: Berlin Opportunities and How to Create Them'
+  startOffset: 3283
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=3283
+  endOffset: 3330
+- name: 'Client Expectations: Proactivity, Ownership, and Outcomes'
+  startOffset: 3330
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=3330
+  endOffset: 3443
+- name: 'Multiple Clients: Balancing Focus, Risk, and Side Gigs'
+  startOffset: 3443
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=3443
+  endOffset: 3549
+- name: 'Freelance Cooperative: Slack Group for Collaboration & Referrals'
+  startOffset: 3549
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=3549
+  endOffset: 3700
+- name: 'Contact & Resources: LinkedIn, GitHub, Slack Invite and Next Steps'
+  startOffset: 3700
+  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=3700
+  endOffset: 3676
 ---
 Links:
 

@@ -1,0 +1,23 @@
+00:00:00 Episode Introduction & Visual ML Overview
+00:01:56 Posting Cadence & Visuals on LinkedIn
+00:02:57 Career Journey: Bioengineering → Telecom Analytics → Self‑employment
+00:06:15 kDimensions: Name & Visual Dimensionality Reduction
+00:08:52 Jack Butcher Influence & Visual Engineering Principles
+00:11:40 Purpose of Visuals: Build Intuition Before Math
+00:14:12 Design Constraints: Creativity Through Color & Shape Limits
+00:17:33 Idea Generation: Visualize the Verb & Use Metaphors
+00:21:26 Drift Visualized (Catapult Metaphor) & Data‑centric AI Airplane Analogy
+00:24:07 Creative Process: Longlist → Shortlist → Brainstorming
+00:30:26 Capturing Ideas: Sketchbook, Notes & Quick Logging
+00:31:14 Tools: Figma for Engineers & Geometric Shape Workflow
+00:33:31 From Sketch to Figma: Drafting, Asset Reuse & Iteration
+00:35:32 Design Advice: Prioritize Message Over Aesthetics; Start Posting
+00:40:50 Learning Technique: Consume with Intent to Teach — "What If?" Questions
+00:43:37 Hands‑on Learning: Break and Modify Code to Understand ML
+00:44:47 Monetization: Visual Design Services for Startups & Content Creators
+00:49:00 Content Design: Turn Articles into Key Visuals (Extract 4–5 Keywords)
+00:50:56 Visualization Techniques: Contrast, Balance & Slider Metaphors
+00:54:06 Mapping ML Problems to Visual Templates: Classification, Regression, Anomaly, Clustering, RL
+00:56:01 Book Overview: Visual Introduction to Deep Learning (Neuron‑by‑Neuron)
+00:58:56 Book Workflow: Visual‑first Layout with Concise Text
+01:00:12 Closing: kDimensions, Book Links & Contact Information

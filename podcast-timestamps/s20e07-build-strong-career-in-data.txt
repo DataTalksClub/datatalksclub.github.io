@@ -1,0 +1,23 @@
+00:00:00 Episode Introduction & Topic Overview
+00:02:02 Career Overview: From Software Engineering to ML & Master's
+00:03:25 Origin of ML Interest: Hackathons and Computer Vision
+00:04:55 Early Project Case Study: OCR for Organization Charts
+00:08:43 Role Snapshot: LLM Benchmarking at a Financial Institution
+00:10:15 Research Focus: Evaluating Long-Context LLMs
+00:12:36 Empirical Findings: Context Window Performance Droparound 32k–64k
+00:14:54 Practical Approach: Chunking, Retrieval, and Summarization for Large Docs
+00:15:28 Published Work: "Long Context LLMs on Financial Concepts" (EMNLP)
+00:17:28 Industry Research Practices: Publishing from Corporate Teams
+00:19:45 Motivation for Publications: Manager Support and Community Sharing
+00:22:10 Dissemination Paths: arXiv, Endorsement, and Early Publications
+00:25:01 Self-Learning & MLOps: Zoom Camps, Tutorials, and Mentoring
+00:30:14 Rapid Prototyping Tools: Streamlit for Demos and Feedback
+00:33:24 Kaggle Success Story: Building and Licensing a High-Impact Dataset
+00:37:32 Community Contribution: Women in Data Science and Open Mentoring
+00:41:13 Opportunity & Persistence: Timing, Luck, and "Shooting Arrows"
+00:45:24 Career Pivot Guidance: Non-CS Backgrounds Entering Data Roles
+00:48:28 Networking & Mentorship: Cold Outreach and Building Rapport
+00:51:28 Portfolio Strategy: Community Visibility vs. Job-Targeted Projects
+00:54:33 Interview Preparation: LeetCode, Conceptual Mastery, and Mock Interviews
+00:56:56 Project Selection: Industry-Backed Work for Real-World Impact
+00:57:46 Episode Wrap-Up & Final Career Advice

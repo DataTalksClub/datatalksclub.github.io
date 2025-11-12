@@ -1,0 +1,26 @@
+00:00:00 Episode Introduction: Responsible and Explainable AI
+00:02:14 Career Journey: Master's, Consulting, and Founding DataBuzz
+00:03:54 Data Strategy Role: Building AI Products at Morgan Stanley
+00:04:43 Responsible AI: Definition, Trust, and Stakeholder Collaboration
+00:06:42 Credit Decision Bias Example: Explaining Disparate Outcomes
+00:08:20 Explainable vs Responsible AI: Post‑mortem Tools vs Governance Mindset
+00:10:30 Glass‑Box Approach: Explainable AI Techniques Overview
+00:11:36 Data‑Level Fairness Checks: Skewness, Missingness, and Coverage
+00:12:48 Exploratory Data Analysis for Bias Detection
+00:14:39 PII Handling: Age, Gender, Masking, and Use‑case Justification
+00:17:20 Feature Necessity: Product, SME, and Compliance Decisioning
+00:18:27 Automating Data Quality: DQ Tools, Alerts, and Monitoring
+00:19:03 Model Explainability Tools: What‑If, Skater, and AI Explainability 360
+00:23:24 Local Interpretability: LIME, SHAP, and Surrogate Models
+00:24:22 Ethics vs Profitability: Balancing Fairness and Business Objectives
+00:27:38 Cross‑Functional Governance: SMEs, Compliance, and Leadership Roles
+00:32:29 Accuracy vs Interpretability: Managing Model Complexity Trade‑offs
+00:35:28 Human‑in‑the‑Loop: Limits of Automation and Responsible Oversight
+00:37:31 Detecting Drift & Feedback Loops: Demographics, Overfitting, and KS Tests
+00:42:39 Regulated Industry Perspectives: Finance, Pharma, and Risk Sensitivity
+00:44:07 Hiring Tool Case Study: Historical Bias and Remediation Lessons
+00:50:17 AutoML Risks: Democratization, Oversight, and Responsible Usage
+00:52:08 Community & Mentorship: DataBuzz Resources and Networking
+00:53:50 Data Career Landscape: Analyst, MLOps, Consultant, and Strategist Roles
+00:56:44 Ethics Training: Professional Responsibility for Data Practitioners
+00:59:27 Closing Remarks: Follow‑up, Links, and Contact Information

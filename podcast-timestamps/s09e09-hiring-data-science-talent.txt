@@ -1,0 +1,21 @@
+00:00:00 Episode Introduction
+00:01:44 Career Beginnings: Applied mathematics, forecasting, and consulting
+00:06:25 PhD Research: Air pollution modeling and conformal prediction
+00:08:30 Current Role: Leading delivery data science teams and startup support
+00:10:38 Evolution of Data Science: Skill changes and rise of MLOps
+00:14:49 Core Hiring Criteria: Technical excellence and growth mindset
+00:15:45 Technical Depth: Demonstrating algorithmic understanding and assumptions
+00:18:03 Attitude & Motivation: Assessing passion, humility, and communication
+00:20:16 Podcasting as Learning: Conversations that shape career perspectives
+00:23:01 Staying Current: Sources for data science and engineering updates
+00:25:21 Technical Interviews: Coding, analytical tasks, and objective criteria
+00:28:32 Diagnostic Questions: Sample problems that reveal depth of knowledge
+00:31:15 Foundational Skills: Descriptive statistics and recommended reading
+00:32:32 Role Fit: Hiring for mathematical expertise versus engineering skills
+00:37:44 AutoML & Automation: Limits of AutoML and the human-in-the-loop
+00:42:09 Career Paths: Individual contributor vs management trade-offs
+00:45:37 Career Transition: From data analyst to data scientist
+00:47:06 Diversity Hiring: Strategies to attract female data science talent
+00:53:53 Inclusive Job Posts: Language, requirements, and avoiding discouraging wording
+00:56:31 Employment Gaps: Evaluating candidates with long CV breaks
+00:59:13 Episode Wrap-up & Resources

@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=lem7knxqNzg
 season: 11
 short: From Data Science to DataOps
-title: From Data Science to DataOps
+title: 'DataOps & GitOps for Data Teams: Onboarding, IaC, Reproducibility & Production
+  Best Practices'
 transcript:
+- header: Podcast Introduction
+- header: Guest Introduction & Episode Overview
 - line: This week, we'll talk about DataOps. We have a special guest today, Tomasz.
     Tomasz is a DataOps who lives in Poland, in Poznan. After working in product analytics,
     data engineering, data science, and machine learning, he fell in love with operations.
@@ -29,7 +32,7 @@ transcript:
   sec: 126
   time: '2:06'
   who: Tomasz
-- header: Tomasz’s background
+- header: 'Career Journey: Econometrics → ML Trainee → Data Roles'
 - line: Yeah, indeed. I'm surprised that you worked in so many different roles. Probably
     we'll start our interview with that. Before we go into our main topic of DataOps
     and becoming DataOps, let's start with your background. Can you tell us about
@@ -56,6 +59,7 @@ transcript:
   sec: 162
   time: '2:42'
   who: Tomasz
+- header: 'Early Experience: OLX, Government Statistics, Academia'
 - line: So you tried all these positions – all these roles – while working at the
     same company? At OLX?
   sec: 271
@@ -74,6 +78,7 @@ transcript:
   sec: 303
   time: '5:03'
   who: Alexey
+- header: 'ML Education: Multi‑Dimensional Analysis to Machine Learning'
 - line: Sure. I mentioned “by accident” because I haven't actually searched for it
     specifically. Yeah, I definitely wanted to be into machine learning and stuff.
     I just received a link that said, “Hey, some company is hiring for a machine learning
@@ -93,7 +98,7 @@ transcript:
   sec: 320
   time: '5:20'
   who: Tomasz
-- header: What Tomasz did before DataOps (Data Science)
+- header: 'Behavioral Analysis & Product Analytics: Clickstream Modeling'
 - line: So you worked as a machine learning trainee, then you worked as a junior data
     engineer, then you also worked as a data scientist. After working as a data scientist,
     you became interested in DataOps and you became a DataOps. But before you became
@@ -104,6 +109,7 @@ transcript:
   sec: 394
   time: '6:34'
   who: Alexey
+- header: 'Operational Realities: ETL Failures, Production Constraints'
 - line: Sure. I was working mainly in the under the models customer unit – OLX has
     different units, so I wasn't in the core data science team, rather, under one
     of the business units. I was doing mainly behavioral analysis, like, analyzing
@@ -168,6 +174,7 @@ transcript:
   sec: 428
   time: '7:08'
   who: Tomasz
+- header: 'Platform Onboarding: Requesting Infra vs. Doing a Merge Request'
 - line: So in your story, you needed a bucket, you needed the Kinesis stream, and
     then you asked somebody for help and they said, “Oh, we’re busy. Create a pull
     request (or merge request, whatever).” And you were expecting that these people
@@ -176,6 +183,7 @@ transcript:
   sec: 760
   time: '12:40'
   who: Alexey
+- header: 'Platform Teams’ Role: Review, Enablement, and Safe Practices'
 - line: Also to, to maybe defend the platform teams a little bit, or the security
     or the SREs – they are not supposed to do that. Let's say you are asking the security
     team to create a service role for you. It will be not very responsible from their
@@ -196,7 +204,7 @@ transcript:
   sec: 848
   time: '14:08'
   who: Tomasz
-- header: Why Tomasz made the transition from Data science to DataOps
+- header: 'Motivation Shift: From Model‑Centric to Data‑Centric Work'
 - line: So when did you realize that you actually enjoy doing this stuff more than
     your work as a data scientist? How did it happen?
   sec: 852
@@ -260,7 +268,7 @@ transcript:
   sec: 1083
   time: '18:03'
   who: Alexey
-- header: What is DataOps?
+- header: 'Defining DataOps: Enabling Faster, Less Scary Data Work (DataOps, DevOps)'
 - line: We've been talking about DataOps for quite some time, or your transition into
     this, but we didn't actually discuss what DataOps is. So what is DataOps?
   sec: 1139
@@ -285,7 +293,7 @@ transcript:
   sec: 1150
   time: '19:10'
   who: Tomasz
-- header: How is DataOps related to infrastructure?
+- header: 'DataOps & Infra: SQL, Secrets, GitOps, and Developer Enablement'
 - line: Okay. But how is it related to infrastructure and all these things that we
     talked about? You said DataOps is about solving inefficiencies, helping people
     overcome problems, produce results faster – how is this related to infrastructure?
@@ -312,6 +320,7 @@ transcript:
   sec: 1276
   time: '21:16'
   who: Tomasz
+- header: 'GitOps & IaC Overview: Terraform, Terragrunt, Atlantis'
 - line: Yeah. You mentioned GitOps, creating a bucket through Atlantis – can you maybe
     walk us through the process? What exactly does this process look like? Maybe high
     level without going too technical – just for those who don't know. I think I know
@@ -326,6 +335,7 @@ transcript:
   sec: 1406
   time: '23:26'
   who: Tomasz
+- header: 'Infrastructure as Code: Declarative Configurations & Reproducibility'
 - line: What is “infrastructure as code”? Before we even go there, for those that
     don’t know.
   sec: 1422
@@ -365,6 +375,7 @@ transcript:
   sec: 1451
   time: '24:11'
   who: Tomasz
+- header: 'GitOps Workflow: Branch, Merge Request, Atlantis Dry Run, Apply'
 - line: I'll try to summarize. We have “infrastructure as code” tools, and Terraform
     is one of them. With Terraform, we can create a config, and with this config,
     we create a bucket, we create this Kinesis thing that you mentioned – as a config,
@@ -380,6 +391,7 @@ transcript:
   sec: 1581
   time: '26:21'
   who: Alexey
+- header: 'Onboarding Friction: Tooling Challenges for Data Scientists'
 - line: Exactly like that. You mentioned something that I haven't. [chuckles] Essentially,
     without GitOps, you will be as Alexey said, you will be doing all that stuff from
     your laptop. So you will have to have the proper data Terraform version and all
@@ -414,7 +426,7 @@ transcript:
   sec: 1743
   time: '29:03'
   who: Tomasz
-- header: How Tomasz learned the skills necessary to become DataOps
+- header: 'Learning Path: Narrow Scope, Hands‑On Mentorship, Roadmap Advice'
 - line: Okay. One of the questions I wanted to ask you is – how did you actually learn
     this thing? How did you become a DataOps? But I think from what I understood is,
     you just simply had to do this and then you had a Zoom call with some sort of
@@ -493,7 +505,7 @@ transcript:
   sec: 1804
   time: '30:04'
   who: Tomasz
-- header: Becoming comfortable with terminal
+- header: 'Terminal Comfort: Shell Setup, Autocomplete, and Productivity Tweaks'
 - line: Speaking of that – right now we have a machine learning engineering course
     and we are currently covering the deployment module. So far, for many students
     (we're on week five right now) it was fine, because it was a Jupyter Notebook.
@@ -529,6 +541,7 @@ transcript:
   sec: 2267
   time: '37:47'
   who: Tomasz
+- header: 'Learning Resources: YouTube, Articles, and CLI Tutorials'
 - line: Okay. What if I don't have an SRE who already configured bash RC and can just
     share this information with me? What is the best place to look for this kind of
     information?
@@ -572,7 +585,7 @@ transcript:
   sec: 2411
   time: '40:11'
   who: Tomasz
-- header: The overlap between DataOps and Data Engineering
+- header: 'DataOps vs Data Engineering: Support & Communication vs Pipeline Coding'
 - line: '[chuckles] Yeah. We have a few questions and two of these questions ask about
     the overlap between DataOps and data engineering. In your opinion, what is the
     overlap? Is there any overlap? And if there is, what is it?'
@@ -593,6 +606,7 @@ transcript:
   sec: 2505
   time: '41:45'
   who: Alexey
+- header: 'Proactive Support: Monitoring, Onboarding, and Cross‑Team Education'
 - line: Exactly. Most often, honestly, live coding, designing some solutions. If you
     think about which domains DataOps touches, it's essentially past – meaning absorbing
     the technical debt. The present – meaning handling the users’ requests, like daily
@@ -629,7 +643,7 @@ transcript:
   sec: 2659
   time: '44:19'
   who: Tomasz
-- header: Suitable/useful skills for DataOps
+- header: 'Suitable Backgrounds: Any Data Role; Log Reading & Troubleshooting'
 - line: You said when you were in this position that you spent a lot of time doing
     live coding, supporting, and education. From what I understood, this means that
     you already need to be a quite experienced person to work as a DataOps. Do you
@@ -693,7 +707,7 @@ transcript:
   sec: 2859
   time: '47:39'
   who: Tomasz
-- header: Minimal operational skills for DataOps
+- header: 'Minimal Operational Skills: Git, Command Line, IAM, Password Managers'
 - line: There are a few things I still want to ask you. We talked a bit about skills
     and there was actually a comment. You said there are 200 (or even more) services
     in AWS and you don't need to use all of them. Somebody commented that this is
@@ -788,7 +802,7 @@ transcript:
   sec: 3269
   time: '54:29'
   who: Tomasz
-- header: Similarities between DataOps and Data Science Managers
+- header: 'Distinction from Management: Cross‑Team Enablement vs Team Leads'
 - line: While you were away, I was trying to keep people on the call entertained.
     One Adonis mentioned is that what we talked about largely sounded like a data
     management role – all these Zoom calls, all this support in Slack, all this trying
@@ -813,6 +827,7 @@ transcript:
   sec: 3322
   time: '55:22'
   who: Tomasz
+- header: 'Infrastructure Choices for Data: Batch Workloads, ECS/AWS Batch vs Kubernetes'
 - line: Also maybe data managers – at least a typical data manager – might not have
     kubectl installed, they might not have Kubernetes access configured. They might
     not be able to actually log into the Kubernetes cluster and check what logs are
@@ -843,7 +858,7 @@ transcript:
   sec: 3496
   time: '58:16'
   who: Tomasz
-- header: Tomasz’s interesting projects
+- header: 'Company‑Scale Migration: Jenkins → GitLab CI and Broad Collaboration'
 - line: Okay, we have a few questions. One of the questions is, “What was your most
     interesting project and why?”
   sec: 3506
@@ -879,6 +894,7 @@ transcript:
   sec: 3518
   time: '58:38'
   who: Tomasz
+- header: 'Reproducibility & Dependencies: Fixed Versions, Docker, Silent Failures'
 - line: Psychopg relies on a binary… There is some binary code in Python, where you
     don't see any stack traces, it just dies and kills the entire container. Right?
     Sounds like fun.
@@ -901,7 +917,7 @@ transcript:
   sec: 3747
   time: '1:02:27'
   who: Tomasz
-- header: Confidence in results and avoiding going too deep with edge cases
+- header: 'Confidence in Data: Pragmatic Edge‑Case Checks & Airflow Caveats'
 - line: Okay. Last question for today. At the beginning, you told us a story when
     you worked in analytics and somebody from management asked you how confident you
     were in the results. So how do you usually answer this question?
@@ -941,7 +957,7 @@ transcript:
   sec: 3770
   time: '1:02:50'
   who: Tomasz
-- header: Conclusion
+- header: Closing Remarks, Resources, and Subscribe Call to Action
 - line: That actually happened to me. Green jobs in Airflow with zero records inserted.
     [chuckles] I guess that everyone had to experience this. [laughs] Okay. Now it's
     time to wrap up. Before we finish, maybe you forgot to mention something and you
@@ -964,6 +980,142 @@ transcript:
   sec: 4009
   time: '1:06:49'
   who: Alexey
+description: Master DataOps, GitOps and IaC best practices for reproducibility, onboarding
+  and production reliability — actionable Git workflows, Terraform, Docker tips.
+intro: How do you make data work less fragile and easier to onboard while keeping
+  production safe and reproducible? In this episode, Tomasz Hinc, a DataOps practitioner
+  from Poznań with roots in econometrics, product analytics, data engineering and
+  ML, walks through practical DataOps and GitOps patterns for data teams. We cover
+  platform onboarding (requesting infra vs. merge requests), Infrastructure as Code
+  with Terraform, Terragrunt and Atlantis, and a GitOps workflow from branch to Atlantis
+  dry‑run and apply. Tomasz explains reproducibility strategies—fixed versions, Docker,
+  dependency management—and common production pitfalls like silent failures and Airflow
+  caveats. You’ll hear about reducing onboarding friction for data scientists, the
+  minimal operational skills every data role benefits from (Git, CLI, IAM), and platform
+  team responsibilities for review, enablement and proactive support. If you’re focused
+  on Infrastructure as Code, GitOps, reproducible pipelines, or practical production
+  best practices for batch workloads and CI migrations, this episode delivers hands‑on
+  advice, learning paths and tooling choices to make your data work faster, safer
+  and more maintainable.
+dateadded: '2022-10-22'
+duration: PT01H05M09S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=0
+  endOffset: 100
+- name: Guest Introduction & Episode Overview
+  startOffset: 100
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=100
+  endOffset: 145
+- name: 'Career Journey: Econometrics → ML Trainee → Data Roles'
+  startOffset: 145
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=145
+  endOffset: 271
+- name: 'Early Experience: OLX, Government Statistics, Academia'
+  startOffset: 271
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=271
+  endOffset: 320
+- name: 'ML Education: Multi‑Dimensional Analysis to Machine Learning'
+  startOffset: 320
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=320
+  endOffset: 394
+- name: 'Behavioral Analysis & Product Analytics: Clickstream Modeling'
+  startOffset: 394
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=394
+  endOffset: 428
+- name: 'Operational Realities: ETL Failures, Production Constraints'
+  startOffset: 428
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=428
+  endOffset: 760
+- name: 'Platform Onboarding: Requesting Infra vs. Doing a Merge Request'
+  startOffset: 760
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=760
+  endOffset: 787
+- name: 'Platform Teams’ Role: Review, Enablement, and Safe Practices'
+  startOffset: 787
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=787
+  endOffset: 852
+- name: 'Motivation Shift: From Model‑Centric to Data‑Centric Work'
+  startOffset: 852
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=852
+  endOffset: 1139
+- name: 'Defining DataOps: Enabling Faster, Less Scary Data Work (DataOps, DevOps)'
+  startOffset: 1139
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1139
+  endOffset: 1256
+- name: 'DataOps & Infra: SQL, Secrets, GitOps, and Developer Enablement'
+  startOffset: 1256
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1256
+  endOffset: 1384
+- name: 'GitOps & IaC Overview: Terraform, Terragrunt, Atlantis'
+  startOffset: 1384
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1384
+  endOffset: 1422
+- name: 'Infrastructure as Code: Declarative Configurations & Reproducibility'
+  startOffset: 1422
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1422
+  endOffset: 1581
+- name: 'GitOps Workflow: Branch, Merge Request, Atlantis Dry Run, Apply'
+  startOffset: 1581
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1581
+  endOffset: 1654
+- name: 'Onboarding Friction: Tooling Challenges for Data Scientists'
+  startOffset: 1654
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1654
+  endOffset: 1774
+- name: 'Learning Path: Narrow Scope, Hands‑On Mentorship, Roadmap Advice'
+  startOffset: 1774
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1774
+  endOffset: 2155
+- name: 'Terminal Comfort: Shell Setup, Autocomplete, and Productivity Tweaks'
+  startOffset: 2155
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2155
+  endOffset: 2300
+- name: 'Learning Resources: YouTube, Articles, and CLI Tutorials'
+  startOffset: 2300
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2300
+  endOffset: 2444
+- name: 'DataOps vs Data Engineering: Support & Communication vs Pipeline Coding'
+  startOffset: 2444
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2444
+  endOffset: 2512
+- name: 'Proactive Support: Monitoring, Onboarding, and Cross‑Team Education'
+  startOffset: 2512
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2512
+  endOffset: 2663
+- name: 'Suitable Backgrounds: Any Data Role; Log Reading & Troubleshooting'
+  startOffset: 2663
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2663
+  endOffset: 2875
+- name: 'Minimal Operational Skills: Git, Command Line, IAM, Password Managers'
+  startOffset: 2875
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2875
+  endOffset: 3277
+- name: 'Distinction from Management: Cross‑Team Enablement vs Team Leads'
+  startOffset: 3277
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3277
+  endOffset: 3404
+- name: 'Infrastructure Choices for Data: Batch Workloads, ECS/AWS Batch vs Kubernetes'
+  startOffset: 3404
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3404
+  endOffset: 3506
+- name: 'Company‑Scale Migration: Jenkins → GitLab CI and Broad Collaboration'
+  startOffset: 3506
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3506
+  endOffset: 3687
+- name: 'Reproducibility & Dependencies: Fixed Versions, Docker, Silent Failures'
+  startOffset: 3687
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3687
+  endOffset: 3748
+- name: 'Confidence in Data: Pragmatic Edge‑Case Checks & Airflow Caveats'
+  startOffset: 3748
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3748
+  endOffset: 3941
+- name: Closing Remarks, Resources, and Subscribe Call to Action
+  startOffset: 3941
+  url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3941
+  endOffset: 3909
 ---
 
 Links:

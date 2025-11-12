@@ -444,14 +444,6 @@ transcript:
     “ingestion DB”. That's essentially it – you don't touch it – but that is where
     your next layer comes from. This could be maybe a common layer, which is something
     that maybe several teams can draw from in order to build out the data marts.
-  who: I think of data warehouses sort of as places to store data marts. When I think
-    about data warehouses, there's an ingestion layer. Some users of ours, they'll
-    call it an ingestion DB. Maybe within your data warehouse, you have multiple databases.
-    That first layer is almost like the rawest form that comes from Airbyte. You hook
-    your data warehouse up to, let's say, Snowflake, and you have a database called
-    “ingestion DB”. That's essentially it – you don't touch it – but that is where
-    your next layer comes from. This could be maybe a common layer, which is something
-    that maybe several teams can draw from in order to build out the data marts.
 - line: So a data mart is basically a bunch of tables within a database, right? If
     I understood that correctly.
   sec: 1039
@@ -1632,6 +1624,125 @@ intro: How do you decide between ETL and ELT, or when to keep a data lake versus
   and cleanup practices.
 description: Discover ETL vs ELT, data lake vs data warehouse with Airbyte and dbt—learn
   CDC, orchestration, and governance to design reliable, fast modern data pipelines.
+dateadded: '2021-09-11'
+duration: PT00H59M55S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=0
+  endOffset: 94
+- name: 'Episode Overview: Decoding Data Engineering Acronyms'
+  startOffset: 94
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=94
+  endOffset: 118
+- name: 'Guest Career Journey: From Marketing Ops to Analytics & Growth'
+  startOffset: 118
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=118
+  endOffset: 199
+- name: 'Airbyte Overview: ELT Focus and Connector Purpose'
+  startOffset: 199
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=199
+  endOffset: 226
+- name: 'ETL Explained: Extract, Transform, Load (Traditional Model)'
+  startOffset: 226
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=226
+  endOffset: 397
+- name: 'ETL Use Case: Calculating Customer Acquisition Cost'
+  startOffset: 397
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=397
+  endOffset: 477
+- name: 'ELT Advantages: Flexibility, Speed, and Analyst Autonomy'
+  startOffset: 477
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=477
+  endOffset: 600
+- name: 'Transformations in Practice: From Type Casting to Complex SQL Joins'
+  startOffset: 600
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=600
+  endOffset: 759
+- name: 'Analytics Engineer Emergence: Empowering Analysts with DBT & SQL'
+  startOffset: 759
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=759
+  endOffset: 930
+- name: 'Data Marts vs. Warehouses: Purpose, Layers, and Consumption'
+  startOffset: 930
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=930
+  endOffset: 1075
+- name: 'Ingestion Layer: Raw Data Storage, Sanity, and Guardrails'
+  startOffset: 1075
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=1075
+  endOffset: 1127
+- name: 'Bringing Transforms Into the Warehouse: ELT vs Legacy Workflows'
+  startOffset: 1127
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=1127
+  endOffset: 1190
+- name: 'Data Lakes: Unstructured Storage for Files, Logs, and Media'
+  startOffset: 1190
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=1190
+  endOffset: 1282
+- name: 'Data Quality: Preventing Data Swamps Through Governance'
+  startOffset: 1282
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=1282
+  endOffset: 1464
+- name: 'Warehouse Ingestion vs. Data Lake: Trade-offs and Convergence'
+  startOffset: 1464
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=1464
+  endOffset: 1659
+- name: 'Architecture Decision: When to Maintain a Lake, a Warehouse, or Both'
+  startOffset: 1659
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=1659
+  endOffset: 1859
+- name: 'Orchestration: Airflow’s Role in Scheduling and Running Pipelines'
+  startOffset: 1859
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=1859
+  endOffset: 1891
+- name: 'Airbyte’s Role in the Stack: Reliable E‑L and DBT Integration'
+  startOffset: 1891
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=1891
+  endOffset: 2025
+- name: 'Modern Analytics Stack: Best‑of‑Breed Tools and Typical Components'
+  startOffset: 2025
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2025
+  endOffset: 2142
+- name: 'Operational Reverse Data Flows: Pushing Warehouse Tables Back to Sources'
+  startOffset: 2142
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2142
+  endOffset: 2346
+- name: 'Low‑Code/No‑Code Tools: Evolving Data Engineering Roles, Not Replacing Them'
+  startOffset: 2346
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2346
+  endOffset: 2490
+- name: 'ETL’s Continued Relevance: Large Enterprises and Complex Staging Needs'
+  startOffset: 2490
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2490
+  endOffset: 2582
+- name: 'Managing Unused Data: Team Ownership and Regular Cleanup Practices'
+  startOffset: 2582
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2582
+  endOffset: 2625
+- name: 'Open Source Strategy: Why Airbyte Is Open and the Cloud Offering Model'
+  startOffset: 2625
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2625
+  endOffset: 2759
+- name: 'CDC Explained: Capturing and Syncing Only Row-Level Changes'
+  startOffset: 2759
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2759
+  endOffset: 2906
+- name: 'Open‑Source Risks: Competition and Licensing (Elasticsearch Example)'
+  startOffset: 2906
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2906
+  endOffset: 2938
+- name: 'Schema Evolution: Handling Slowly Changing Attributes'
+  startOffset: 2938
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2938
+  endOffset: 2972
+- name: 'Licensing Considerations: MIT, Cloud Products, and Future Choices'
+  startOffset: 2972
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2972
+  endOffset: 3642
+- name: 'Episode Wrap‑Up: Final Thoughts, Hiring News, and Contact Information'
+  startOffset: 3642
+  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=3642
+  endOffset: 3595
 ---
 
 Links:

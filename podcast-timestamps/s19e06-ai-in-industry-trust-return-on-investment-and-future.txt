@@ -1,0 +1,22 @@
+00:00:00 Episode Introduction & Guest Overview
+00:02:13 Career Path: From Linguist to Computational Linguistics and Industry
+00:04:11 Role Definition: Principal Key Expert in AI — Advising on Technology and Risk
+00:05:42 Democratization of Generative AI: Rise of Prompting and New "AI Experts"
+00:09:28 Bot Safety Challenge: Large-Scale Chatbot Hacking Exercise and Findings
+00:11:38 Chatbot Failures: Hallucinations, Legal Exposure, and Financial Incidents
+00:13:20 Data Exfiltration Techniques: Overloading Prompts and Knowledge-Base Retrieval
+00:16:15 Mitigations: Output Validation, Query Analysis, and Layered Defenses
+00:17:00 Non-LLM Classifiers: Robust Alternatives to Manipulable Generative Models
+00:18:01 Trust and Hallucinations: User Confidence, Safety, and Adoption Risks
+00:20:39 Chatbot Adoption Issues: Usability, Verbosity, and Return on Investment
+00:25:34 Human-in-the-Loop Solutions: Hybrid Review to Improve Accuracy
+00:27:13 AI as Assistant: Moderation Tools, Autopilot Analogy, and Workforce Impact
+00:29:53 Translation Workflows: AI-Augmented Translators and Quality Control
+00:32:28 Prompt Customization: Controlled Machine Translation with ChatGPT
+00:35:44 Historical Linguistics: Middle & Old English Pronunciation Insights
+00:45:08 Ancient Languages: Cuneiform, Sumerian Transcription, and MT Approaches
+00:48:26 Script Complexity: Logograms vs. Phonetics in Ancient Texts
+00:53:01 Multilingual Models: Progress and Challenges for Low-Resource Languages
+00:56:52 Orthography & Data Quality: Inconsistent Spelling in Historical Corpora
+00:57:28 Industry Trade-offs: Research Innovation vs. ROI and Operational Needs
+00:59:14 Episode Wrap-Up: Key Takeaways on AI Trust, Safety, and Future Directions

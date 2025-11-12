@@ -13,9 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=B2tzuUg5uZs
 season: 21
 short: 'From Semiconductors to Machine Learning: A Career in Data and Teaching'
-title: 'From Semiconductors to Machine Learning: A Career in Data and Teaching'
+title: 'Predictive Maintenance & Yield Analytics for Semiconductors: Deploy ML with
+  Flask, Docker & MLOps'
 transcript:
-- header: Dashel's unique career path from music to semiconductors
+- header: Podcast Introduction & Data Docs Club
 - line: Hi everyone, welcome to our event. This event is brought to you by the Data
     Docs Club, a community of people who love data. We have weekly events and today
     is one of them. If you want to find out more about our events, there is a link
@@ -49,6 +50,7 @@ transcript:
   sec: 85
   time: '1:25'
   who: Alexey
+- header: 'Guest Overview: Multidisciplinary Career Snapshot'
 - line: We are joined by Dashel Ruiz Barretts, who is a data analyst, ML engineer,
     software engineer, and ML Zoomcamp graduate. Dashel's career has spanned semiconductors
     manufacturing, software engineering, data analytics, and teaching.
@@ -78,6 +80,7 @@ transcript:
   sec: 162
   time: '2:42'
   who: Alexey
+- header: 'Career Pivot: From Classical Guitarist to Tech in Portland'
 - line: You are right, it is not completely common. Even before semiconductors, I
     was a professional musician. I came to the US in 2012 as a political refugee.
     When I got here, I was a professional musician.
@@ -128,6 +131,7 @@ transcript:
   sec: 228
   time: '3:48'
   who: Dashel
+- header: 'Semiconductor Onboarding: Expediter Role and Fab Floor Experience'
 - line: When I got here I could not speak English, and it was very hard to do anything.
     After a year I finally found a job at Microchip, which has a fab here in Oregon.
     The position was expediter, just walking with a little car to deliver wafers manually.
@@ -140,13 +144,14 @@ transcript:
   sec: 318
   time: '5:18'
   who: Dashel
+- header: 'Fab Data Exposure: Millisecond Tool Logs and Process Telemetry'
 - line: That was when I finally got involved with semiconductors. Until that moment
     I was working in production, but then I started working with engineers running
     tests and experiments. I finally started working with data, and that was interesting.
   sec: 349
   time: '5:49'
   who: Dashel
-- header: The transition into data and software engineering at Microchip
+- header: 'Self-Education: Learning English and Computer Science'
 - line: Was your original education in engineering?
   sec: 376
   time: '6:16'
@@ -224,7 +229,7 @@ transcript:
   sec: 698
   time: '11:38'
   who: Alexey
-- header: Discovering machine learning to solve real problems in semiconductor manufacturing
+- header: 'Automation Initiative: Building a Java Tool for CMP Calculations'
 - line: In the beginning, I decided to go to college. I wanted to be a psychologist
     because I like psychology, but it was too hard. I liked software at the same time,
     so I decided to take computer science classes. I was in this position getting
@@ -275,6 +280,7 @@ transcript:
   sec: 892
   time: '14:52'
   who: Dashel
+- header: 'Yield Analytics: JMP, Oracle, and Cross-Area Data Access'
 - line: I was telling him we could do that automatically; we could write something
     fast in a week. He said, "I am trying to find someone to help me analyze data
     with JMP. Are you okay moving?" I said I was okay moving. I moved from the technical
@@ -345,13 +351,13 @@ transcript:
   sec: 1206
   time: '20:06'
   who: Dashel
-- header: How Dashel found and his experience with the Machine Learning Zoomcamp
 - line: How did you become interested in machine learning and data in general? You
     were doing data engineering and needed to analyze a lot of experiments. Did this
     lead you to think machine learning could help you?
   sec: 1240
   time: '20:40'
   who: Alexey
+- header: 'ML Introduction: Academic AI Project and Predictive Interest'
 - line: Yes. In my last year of undergrad, we had a big final project. One of the
     last classes was AI, and they wanted us to make software that could use AI. I
     used the common house price dataset from Seattle.
@@ -377,6 +383,7 @@ transcript:
   sec: 1368
   time: '22:48'
   who: Dashel
+- header: 'Predictive Maintenance: "Wafers at Risk" Model for Yield Improvement'
 - line: With the amount of data available, I thought it might be possible to predict
     this. I worked on a project about "wafers at risk." A tool processes a certain
     number of wafers every hour. For every thousand wafers processed, we need to check
@@ -398,6 +405,7 @@ transcript:
   sec: 1478
   time: '24:38'
   who: Dashel
+- header: 'Explainability Dilemma: Tweaking Models vs. Understanding Results'
 - line: This would mean fewer wafers at risk, less waste, and more money. That was
     the beginning of machine learning for me. I remember running some algorithms but
     I did not have the knowledge. I was missing stuff.
@@ -458,7 +466,7 @@ transcript:
   sec: 1746
   time: '29:06'
   who: Dashel
-- header: The practical advantages of DataTalks.Club courses over other platforms
+- header: 'Course Selection: Choosing ML Zoomcamp Cohort Experience'
 - line: I think I already asked you before we started. Do you remember how you came
     across our course, Machine Learning Zoomcamp?
   sec: 1773
@@ -491,6 +499,7 @@ transcript:
   sec: 1910
   time: '31:50'
   who: Dashel
+- header: 'Applied Curriculum: Deliverable ML Beyond Jupyter Notebooks'
 - line: I wanted to have that interaction. Waiting was a really good decision. It
     is so far the best course ever for me. I have access to DataCamp, Coursera, and
     LinkedIn Learning through my school, but in comparison, the quality of DataTalks
@@ -505,6 +514,7 @@ transcript:
   sec: 2005
   time: '33:25'
   who: Dashel
+- header: 'Learning Support: Slack Q&A, Cohorts, and Peer Study Groups'
 - line: I remember once after the midterm project we moved to using TensorFlow. I
     was using a Mac and had issues running it. It was a pain, and I could not run
     it. I moved to a PC and finished there. I remember talking with you on Slack,
@@ -527,6 +537,7 @@ transcript:
   sec: 2190
   time: '36:30'
   who: Dashel
+- header: 'Production Focus: Flask REST API, Docker, and Google Cloud'
 - line: You know how the algorithm works and how to write a random forest regressor,
     but it never goes beyond the notebook. You run an inference and get a result,
     but it is just in a Jupyter notebook. The difference with DataTalks is that the
@@ -560,7 +571,7 @@ transcript:
   sec: 2366
   time: '39:26'
   who: Alexey
-- header: Overcoming challenges and the value of the learning community
+- header: 'Midterm Demo: COVID Comorbidity Model Deployed as an API'
 - line: They are. I can tell you about the first midterm project in ML Zoomcamp. We
     were coming from COVID, and I had gone to Mexico. I got access through the school
     to a paper written about how comorbidities could be bad for dying from COVID.
@@ -621,6 +632,7 @@ transcript:
   sec: 2649
   time: '44:09'
   who: Dashel
+- header: 'Infrastructure Automation: Terraform and MLOps Takeaways'
 - line: The other day I was thinking I usually do not run Terraform. I go to the cloud
     and do it manually because I think it is easier for one or two instances. I thought,
     "I need to automate some stuff I do not want to prepare all the time. I will need
@@ -674,13 +686,13 @@ transcript:
   sec: 2870
   time: '47:50'
   who: Dashel
-- header: 'Hands-on project experience: From image classification to Kaggle competitions'
 - line: I really like what you said about LLMs being like cars. There is a lot of
     truth in that. Do you remember what you did for your second project in the ML
     course?
   sec: 2890
   time: '48:10'
   who: Alexey
+- header: 'Computer Vision Project: Butterfly Image Classification (TensorFlow)'
 - line: Yes, for that one we used AWS Lambda. I made a butterfly classification thing.
   sec: 2904
   time: '48:24'
@@ -732,6 +744,7 @@ transcript:
   sec: 3052
   time: '50:52'
   who: Dashel
+- header: 'Kaggle Workflow: EDA, Feature Engineering, and Model Iteration'
 - line: The other project I liked was about EDA. I got a dataset from a Kaggle competition.
     I remember going through the data to make the model. That was really interesting
     because it involved more analytics, feature engineering, and then putting it in
@@ -739,6 +752,7 @@ transcript:
   sec: 3070
   time: '51:10'
   who: Dashel
+- header: 'Model Portability: ONNX for Framework Interoperability'
 - line: Another change this year is that instead of TensorFlow Lite, we will use ONNX.
     You can train a model with any framework, export it to ONNX, and then serve it.
     If you are interested, you can check it out. We did quite a few updates this year.
@@ -763,6 +777,7 @@ transcript:
   sec: 3189
   time: '53:09'
   who: Dashel
+- header: 'Full-Stack ML Skills: Docker, VMs, Databases, and Deployment'
 - line: In our field, it is more complex. Doing a machine learning model is not enough
     anymore. You need to know Docker, connect to a database, know a little cloud,
     deploy it, and know what a VM is. All that stuff is really important because it
@@ -776,12 +791,12 @@ transcript:
   sec: 3228
   time: '53:48'
   who: Dashel
-- header: Staying motivated throughout the long-term course
 - line: That is an interesting analogy. Do you remember what was the most difficult
     part for you in the course?
   sec: 3252
   time: '54:12'
   who: Alexey
+- header: 'Common Roadblocks: Mac M1 Issues and Wide Categorical Data'
 - line: I think the hardest part was working with my M1 Mac at that time. I assume
     it will be different now with the M4. I remember having issues with the car dataset.
   sec: 3265
@@ -800,6 +815,7 @@ transcript:
   sec: 3315
   time: '55:15'
   who: Dashel
+- header: 'Time Commitment: Homework Strategy and Active Video Learning'
 - line: I went back and did it the same way you did. The issue was the dataset had
     too many variables. It is not hard; if you have a week you can do it. If you think
     you will do the homework in two hours, you are wrong.
@@ -825,6 +841,7 @@ transcript:
   sec: 3449
   time: '57:29'
   who: Dashel
+- header: 'Community Value: Rapid Help, Code Reviews, and Study Groups'
 - line: If you do not know Python, it will be awful. If you do not know any programming
     language, you will need to spend at least five hours a day and watch the video
     twice. If you are at an intermediate level in Python, it strikes a balance. The
@@ -845,7 +862,6 @@ transcript:
   sec: 3552
   time: '59:12'
   who: Dashel
-- header: The importance of deployment and full-stack ML skills
 - line: Okay. Well, we should be wrapping up. Maybe the last thing I want to ask you
     is how did you manage to stay motivated? This is a long course with challenges,
     from September until the end of January, about four or five months. What would
@@ -853,6 +869,7 @@ transcript:
   sec: 3595
   time: '59:55'
   who: Alexey
+- header: 'Motivation Techniques: Public Learning and Project Accountability'
 - line: For me, it was the public learning on Slack. Seeing messages pop up on your
     phone, knowing people are doing it, helps. Think that in one or two months you
     will be done. When you finish, you will have at least two great projects to show
@@ -933,7 +950,7 @@ transcript:
   sec: 4024
   time: '1:07:04'
   who: Alexey
-- header: Closing thoughts on teaching and future courses
+- header: 'Teaching Ambition: Creating High-Quality Spanish ML Content'
 - line: No, thank you. I really was not expecting you to contact me to talk about
     my experience. I have really good things to say. I tried to create similar content
     in Spanish because there is not a lot of high-quality material in Spanish.
@@ -959,6 +976,7 @@ transcript:
   sec: 4210
   time: '1:10:10'
   who: Alexey
+- header: 'Upcoming Offerings: AI-for-Developers, React, and LLM Coding'
 - line: The job you have been doing is amazing with that. I have been waiting for
     the next course about using React with machine learning or AI dev tools.
   sec: 4228
@@ -996,6 +1014,7 @@ transcript:
   sec: 4340
   time: '1:12:20'
   who: Dashel
+- header: 'Closing Remarks: Course Endorsement and Next Steps'
 - line: Okay. Yeah. We should be wrapping up. Thanks a lot for doing this, and thanks
     everyone for joining us. It was fun. If you decide to join our updated modules,
     we will see you there soon.
@@ -1007,6 +1026,139 @@ transcript:
   sec: 4388
   time: '1:13:08'
   who: Dashel
+description: 'Learn predictive maintenance & yield analytics for semiconductors: deploy
+  ML with Flask, Docker & MLOps to boost yield, enable explainability, and ship APIs.'
+intro: 'How do you move machine learning for predictive maintenance and yield analytics
+  out of a notebook and into production on the fab floor? In this episode, Dashel Ruiz
+  Perez—data analyst, ML engineer, and educator who spent nearly a decade at Microchip
+  Technology—walks through practical steps for deploying ML to improve semiconductor
+  yield. Drawing on millisecond tool logs, process telemetry, and a “Wafers at Risk”
+  predictive model, Dashel explains how to build explainable yield analytics, iterate
+  with Kaggle-style EDA and feature engineering, and ensure model portability with
+  ONNX. <br><br> Listen for concrete implementation details: turning models into Flask
+  REST APIs, containerizing with Docker, using Google Cloud and Terraform for infrastructure
+  automation, and MLOps best practices for production monitoring. Dashel also covers
+  hands-on learning paths from ML Zoomcamp—course deliverables beyond Jupyter notebooks,
+  common roadblocks (Mac M1 issues, wide categorical data), and examples like a COVID
+  comorbidity API demo and a TensorFlow computer vision project. If you’re responsible
+  for semiconductor predictive maintenance, yield analytics, or ML deployment, this
+  episode gives actionable guidance on tools, workflows, and learning strategies to
+  get models reliably running in production.'
+dateadded: '2025-10-21'
+duration: PT01H13M08S
+quotableClips:
+- name: Podcast Introduction & Data Docs Club
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=0
+  endOffset: 111
+- name: 'Guest Overview: Multidisciplinary Career Snapshot'
+  startOffset: 111
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=111
+  endOffset: 178
+- name: 'Career Pivot: From Classical Guitarist to Tech in Portland'
+  startOffset: 178
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=178
+  endOffset: 289
+- name: 'Semiconductor Onboarding: Expediter Role and Fab Floor Experience'
+  startOffset: 289
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=289
+  endOffset: 349
+- name: 'Fab Data Exposure: Millisecond Tool Logs and Process Telemetry'
+  startOffset: 349
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=349
+  endOffset: 376
+- name: 'Self-Education: Learning English and Computer Science'
+  startOffset: 376
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=376
+  endOffset: 704
+- name: 'Automation Initiative: Building a Java Tool for CMP Calculations'
+  startOffset: 704
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=704
+  endOffset: 923
+- name: 'Yield Analytics: JMP, Oracle, and Cross-Area Data Access'
+  startOffset: 923
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=923
+  endOffset: 1262
+- name: 'ML Introduction: Academic AI Project and Predictive Interest'
+  startOffset: 1262
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=1262
+  endOffset: 1409
+- name: 'Predictive Maintenance: "Wafers at Risk" Model for Yield Improvement'
+  startOffset: 1409
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=1409
+  endOffset: 1516
+- name: 'Explainability Dilemma: Tweaking Models vs. Understanding Results'
+  startOffset: 1516
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=1516
+  endOffset: 1773
+- name: 'Course Selection: Choosing ML Zoomcamp Cohort Experience'
+  startOffset: 1773
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=1773
+  endOffset: 1942
+- name: 'Applied Curriculum: Deliverable ML Beyond Jupyter Notebooks'
+  startOffset: 1942
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=1942
+  endOffset: 2074
+- name: 'Learning Support: Slack Q&A, Cohorts, and Peer Study Groups'
+  startOffset: 2074
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=2074
+  endOffset: 2249
+- name: 'Production Focus: Flask REST API, Docker, and Google Cloud'
+  startOffset: 2249
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=2249
+  endOffset: 2392
+- name: 'Midterm Demo: COVID Comorbidity Model Deployed as an API'
+  startOffset: 2392
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=2392
+  endOffset: 2676
+- name: 'Infrastructure Automation: Terraform and MLOps Takeaways'
+  startOffset: 2676
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=2676
+  endOffset: 2904
+- name: 'Computer Vision Project: Butterfly Image Classification (TensorFlow)'
+  startOffset: 2904
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=2904
+  endOffset: 3070
+- name: 'Kaggle Workflow: EDA, Feature Engineering, and Model Iteration'
+  startOffset: 3070
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3070
+  endOffset: 3113
+- name: 'Model Portability: ONNX for Framework Interoperability'
+  startOffset: 3113
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3113
+  endOffset: 3203
+- name: 'Full-Stack ML Skills: Docker, VMs, Databases, and Deployment'
+  startOffset: 3203
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3203
+  endOffset: 3265
+- name: 'Common Roadblocks: Mac M1 Issues and Wide Categorical Data'
+  startOffset: 3265
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3265
+  endOffset: 3362
+- name: 'Time Commitment: Homework Strategy and Active Video Learning'
+  startOffset: 3362
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3362
+  endOffset: 3487
+- name: 'Community Value: Rapid Help, Code Reviews, and Study Groups'
+  startOffset: 3487
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3487
+  endOffset: 3631
+- name: 'Motivation Techniques: Public Learning and Project Accountability'
+  startOffset: 3631
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=3631
+  endOffset: 4056
+- name: 'Teaching Ambition: Creating High-Quality Spanish ML Content'
+  startOffset: 4056
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=4056
+  endOffset: 4228
+- name: 'Upcoming Offerings: AI-for-Developers, React, and LLM Coding'
+  startOffset: 4228
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=4228
+  endOffset: 4369
+- name: 'Closing Remarks: Course Endorsement and Next Steps'
+  startOffset: 4369
+  url: https://www.youtube.com/watch?v=B2tzuUg5uZs&t=4369
+  endOffset: 4388
 ---
 
 Links:

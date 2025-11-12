@@ -13,9 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=DSxqUlumM3A
 season: 21
 short: Lessons from Two Decades of AI
-title: Lessons from Two Decades of AI
+title: 'Build Multi-Agent AI Assistants: Game AI Roots, Evolutionary Algorithms &
+  Practical LLM Tooling'
 transcript:
-- header: Micheal Lanham’s career journey and AI agent books
+- header: Podcast Introduction
 - line: Hi everyone, welcome to our event. This event is brought to you by DataTalks.Club,
     a community of people who love data. We have weekly events. If you want to find
     out more about the events we plan, there is a link in the description. Click on
@@ -44,6 +45,7 @@ transcript:
   sec: 60
   time: '1:00'
   who: Michael
+- header: 'Career Snapshot: Two Decades from Game AI to AI Agents'
 - line: Today we are joined by Michael. His career spans two decades, from building
     game AI with neural networks and evolutionary algorithms to writing more than
     10 books on augmented reality, virtual reality, reinforcement learning, and AI
@@ -79,6 +81,7 @@ transcript:
   sec: 125
   time: '2:05'
   who: Alexey
+- header: 'Early Research: Games for Cognitive Testing & Neural Networks'
 - line: Over the last few decades, I’ve worked in various data science and machine
     learning roles. I started in academia, working with a group of Harvard scientists.
     We built a game to test children for executive functions like ADHD and behavioral
@@ -92,6 +95,7 @@ transcript:
   sec: 175
   time: '2:55'
   who: Michael
+- header: 'Industry Experience: Consulting, Product Development, Leadership'
 - line: I worked with them for several years on academic projects involving geomechanics
     and data science. We developed two products called Stab and Roxbank for oil and
     gas.
@@ -108,6 +112,7 @@ transcript:
   sec: 252
   time: '4:12'
   who: Alexey
+- header: Evolutionary Algorithms in Industry Optimization
 - line: There was a lot of travel involved. I gained exposure to many data science
     and engineering techniques while building various applications. I left that position
     because of the travel and returned to consulting, working on evolutionary algorithms
@@ -127,12 +132,13 @@ transcript:
   sec: 301
   time: '5:01'
   who: Michael
+- header: 'Current Focus: Multi-Agent AI Support Assistants'
 - line: Currently, I work in a company building AI support assistants powered by multiple
     agents. We are developing deep research operator agents and other advanced tools.
   sec: 328
   time: '5:28'
   who: Michael
-- header: 'Publishing journey: AR, Pokémon Go, sound design, and reinforcement learning'
+- header: 'Publishing Breakthrough: Reverse-Engineering Pokémon Go & AR'
 - line: 'Around 2015 or 2016, I started writing books. I contacted a publisher and
     proposed three ideas: geospatial analysis and data, data analysis, and reverse
     engineering Pokémon Go.'
@@ -160,12 +166,14 @@ transcript:
   sec: 433
   time: '7:13'
   who: Michael
+- header: Sound Design & Waveform Analysis Applied to Games
 - line: Then I wrote a book about sound that became popular and used in colleges to
     teach sound design for games. My experience with waveform analysis from the oil
     and gas industry helped with that book.
   sec: 456
   time: '7:36'
   who: Michael
+- header: Reinforcement Learning Roots and Alberta Research
 - line: Underground, waveforms are used to analyze rock composition, which translated
     well to sound design. After that, I moved into reinforcement learning. Alberta
     was the capital of reinforcement learning, with Richard Sutton who introduced
@@ -183,6 +191,7 @@ transcript:
   sec: 525
   time: '8:45'
   who: Michael
+- header: 'Evolutionary Deep Learning: Hyperparameter Search & Architecture Tuning'
 - line: I wrote several reinforcement learning and deep learning books. Then I returned
     to evolutionary algorithms with a book called Evolutionary Deep Learning, combining
     deep learning and evolutionary algorithms.
@@ -195,7 +204,7 @@ transcript:
   sec: 569
   time: '9:29'
   who: Michael
-- header: 'Evolution of AI: evolutionary algorithms, deep learning, and agents'
+- header: 'Move to NLP: Early LLM Work and Rise of AI Agents'
 - line: I started looking at large language models early on, but they weren’t big
     then. After LLMs exploded, I focused on NLP work. AI agents became popular around
     2023, five months after ChatGPT launched, and I embraced the concept.
@@ -246,12 +255,12 @@ transcript:
   sec: 801
   time: '13:21'
   who: Michael
-- header: Evolutionary algorithms in prompt engineering and LLMs
 - line: That was what I studied in my AI class. We used Prolog and other rule-based
     systems. Genetic algorithms were interesting but I never used them outside class.
   sec: 824
   time: '13:44'
   who: Alexey
+- header: Evolutionary Algorithms for Prompt Engineering
 - line: Some recent uses include evolutionary algorithms in prompt engineering for
     LLMs and agents. They optimize prompts by evolving them to find better results.
   sec: 849
@@ -293,11 +302,11 @@ transcript:
   sec: 1078
   time: '17:58'
   who: Michael
-- header: AI agent books second edition and practical applications
 - line: How many books have you written?
   sec: 1093
   time: '18:13'
   who: Alexey
+- header: 'AI Agents Book: Editions, Teaching, and Vibe Coding for Games'
 - line: I’ve written 11 books so far. I’m working on the 12th, the second edition
     of the AI agents book, and possibly a 13th on evolutionary algorithms.
   sec: 1099
@@ -358,7 +367,7 @@ transcript:
   sec: 1249
   time: '20:49'
   who: Michael
-- header: 'AI agent workflows: minimalism, task breakdown, and collaboration'
+- header: 'Agent Workflow Design: Minimalism and Task Decomposition'
 - line: I’ve seen people bulk their agents with many tools and instructions, but I
     recommend breaking up the workflow into tasks assigned to individual agents. These
     agents can run in a flow like an assembly line or through orchestration where
@@ -388,6 +397,7 @@ transcript:
   sec: 1422
   time: '23:42'
   who: Alexey
+- header: 'Flow vs Orchestration: Sequential Pipelines and Manager Agents'
 - line: A flow is like an assembly line of agents where each does a task and passes
     output to the next. For example, requirements, planning, and execution agents.
   sec: 1428
@@ -407,7 +417,7 @@ transcript:
   sec: 1520
   time: '25:20'
   who: Michael
-- header: Collaboration and orchestration among AI agents
+- header: 'Collaboration Patterns: Parallel Agent Interaction & Use Cases'
 - line: Orchestration is more complex since it must understand other agents’ actions.
     Some platforms like AutoGPT use collaboration, where agents communicate directly
     with each other in feedback loops. This is powerful but expensive and not good
@@ -457,11 +467,11 @@ transcript:
   sec: 1877
   time: '31:17'
   who: Michael
-- header: Tools and reasoning servers for agent communication
 - line: Do you use a library for this or show how to build from scratch using APIs?
   sec: 1884
   time: '31:24'
   who: Alexey
+- header: 'Agent Tooling: OpenAI Agent SDK and MCP Integration'
 - line: I like using the OpenAI Agent SDK it’s simple and includes features like guardrails
     and handoffs, making it good for demos and teaching.
   sec: 1891
@@ -493,6 +503,7 @@ transcript:
   sec: 2000
   time: '33:20'
   who: Alexey
+- header: 'Sequential Thinking Servers: Internal Reasoning & Scratchpads'
 - line: Exactly. It’s like prompting agents to think step-by-step, improving answers
     by allowing them to give feedback to themselves as they generate output.
   sec: 2005
@@ -521,13 +532,13 @@ transcript:
   sec: 2109
   time: '35:09'
   who: Michael
-- header: AI agents in game development and generative AI impact
 - line: Thanks for sharing. I’m also interested in game development. It seems closer
     to hardware and more complex because it involves languages like C++ prone to errors
     and segmentation faults.
   sec: 2117
   time: '35:17'
   who: Alexey
+- header: 'Coding Agents in Game Development: Practical Examples'
 - line: How do coding agents deal with this complexity? Are games created with them
     easy to maintain and play?
   sec: 2142
@@ -539,6 +550,7 @@ transcript:
   sec: 2189
   time: '36:29'
   who: Michael
+- header: 'End-to-End Code Generation: GPT-5 Pro Case Studies'
 - line: Recently, GPT-5 Pro built a complete Spider Solitaire game with card images
     from GitHub. It required some bug-fixing but the game is fully functional from
     end to end.
@@ -580,7 +592,7 @@ transcript:
   sec: 2331
   time: '38:51'
   who: Alexey
-- header: Future of generative AI in gaming and immersive content
+- header: 'Generative AI in Games: Procedural Content and Infinite Playability'
 - line: You can do a lot now. Returning to game development, a few years ago I wrote
     a book called Generating Reality about the impact of generative AI on gaming.
   sec: 2337
@@ -620,7 +632,7 @@ transcript:
   sec: 2474
   time: '41:14'
   who: Michael
-- header: Coding agents, new LLMs, and local deployment
+- header: 'Technical Challenges: Implementing Space Invaders with Agents'
 - line: I was given a test to implement Space Invaders. It’s not very complex, but
     you need to model bullet physics, collisions, and manage things moving at the
     same time, which needs some multithreading. GPT-4 couldn’t solve it fully, but
@@ -698,13 +710,14 @@ transcript:
   sec: 2714
   time: '45:14'
   who: Michael
-- header: AI model trends and data scientist career advice
+- header: 'Local Model Trend: Running LLMs on Private GPUs'
 - line: People will want models running locally because paying for hosted models and
     bandwidth gets expensive. GPUs are becoming affordable enough to run these models
     themselves.
   sec: 2740
   time: '45:40'
   who: Michael
+- header: Open-Source Large Models and Low-Latency Providers
 - line: We’ve worked with the OpenAI 120 billion parameter open-source model, which
     is very capable.
   sec: 2774
@@ -734,6 +747,7 @@ transcript:
   sec: 2905
   time: '48:25'
   who: Alexey
+- header: 'Model Specialization: Smaller Task-Focused LLMs Emerging'
 - line: More focused models will emerge. OpenAI’s big models are general purpose,
     but smaller, task-specific efficient models will do the same or better work.
   sec: 2920
@@ -794,7 +808,6 @@ transcript:
   sec: 3198
   time: '53:18'
   who: Michael
-- header: Cognitive testing, evaluation, and monitoring in AI
 - line: For Albin’s question, could you recommend keywords to research this field?
   sec: 3216
   time: '53:36'
@@ -811,6 +824,7 @@ transcript:
   sec: 3260
   time: '54:20'
   who: Alexey
+- header: 'Career Advice: Transitioning to AI Engineering & LLM Skills'
 - line: I suggest focusing on AI engineering. LLMs embed a lot of knowledge and can
     perform many data science tasks, like merging spreadsheets and creating graphs.
   sec: 3316
@@ -832,6 +846,7 @@ transcript:
   sec: 3448
   time: '57:28'
   who: Alexey
+- header: 'Evaluation & Monitoring: Feedback Pipelines and Tools (Arize Phoenix)'
 - line: Exactly. One core concept I teach is building evaluation and feedback mechanisms.
     You want to assess agent performance for consistency and understand variance in
     outputs.
@@ -848,7 +863,7 @@ transcript:
   sec: 3518
   time: '58:38'
   who: Alexey
-- header: Publishing details and closing remarks
+- header: 'Publishing Details: Second Edition and Availability'
 - line: Before wrapping up, about your second edition of AI Agents in Action if someone
     buys the first edition now, will they get the second automatically?
   sec: 3530
@@ -878,6 +893,7 @@ transcript:
   sec: 3610
   time: '1:00:10'
   who: Michael
+- header: Closing Remarks and Links
 - line: You’re recognizable. If someone sees a person with a big beard named Michael,
     it’s probably you. We will include your LinkedIn link in the description so people
     can find you easily.
@@ -893,6 +909,143 @@ transcript:
   sec: 3648
   time: '1:00:48'
   who: Michael
+description: Discover multi-agent AI, evolutionary algorithms and LLM tooling—learn
+  agent workflows, prompt engineering, game AI examples, code patterns & career tips.
+intro: How do you design practical multi-agent AI assistants that scale from game
+  AI experiments to real-world LLM tooling? In this episode, Micheal Lanham — best‑selling
+  author and AI engineer with two decades of work across games, graphics, GIS and
+  machine learning — traces the path from game AI and reinforcement learning to evolutionary
+  algorithms and modern agent architectures. We explore his research on games for
+  cognitive testing, evolutionary deep learning for hyperparameter and architecture
+  search, and how those methods inform prompt engineering and multi-agent workflows.
+  <br><br> Key topics include minimalist agent workflow design and task decomposition,
+  flow versus orchestration, parallel collaboration patterns, agent tooling such as
+  the OpenAI Agent SDK and MCP integration, sequential “thinking” servers and scratchpads,
+  plus practical code examples from game development and GPT-5 Pro case studies. The
+  conversation also covers generative AI in games, local and open‑source LLM trends,
+  model specialization, and evaluation/monitoring pipelines. Whether you’re building
+  AI assistants, experimenting with evolutionary algorithms, or integrating LLM tooling
+  into products, this episode offers concrete techniques, tooling insights, and career
+  guidance for AI engineers.
+dateadded: '2025-10-01'
+duration: PT01H48S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=0
+  endOffset: 67
+- name: 'Career Snapshot: Two Decades from Game AI to AI Agents'
+  startOffset: 67
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=67
+  endOffset: 156
+- name: 'Early Research: Games for Cognitive Testing & Neural Networks'
+  startOffset: 156
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=156
+  endOffset: 195
+- name: 'Industry Experience: Consulting, Product Development, Leadership'
+  startOffset: 195
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=195
+  endOffset: 259
+- name: Evolutionary Algorithms in Industry Optimization
+  startOffset: 259
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=259
+  endOffset: 328
+- name: 'Current Focus: Multi-Agent AI Support Assistants'
+  startOffset: 328
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=328
+  endOffset: 345
+- name: 'Publishing Breakthrough: Reverse-Engineering Pokémon Go & AR'
+  startOffset: 345
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=345
+  endOffset: 456
+- name: Sound Design & Waveform Analysis Applied to Games
+  startOffset: 456
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=456
+  endOffset: 481
+- name: Reinforcement Learning Roots and Alberta Research
+  startOffset: 481
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=481
+  endOffset: 549
+- name: 'Evolutionary Deep Learning: Hyperparameter Search & Architecture Tuning'
+  startOffset: 549
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=549
+  endOffset: 600
+- name: 'Move to NLP: Early LLM Work and Rise of AI Agents'
+  startOffset: 600
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=600
+  endOffset: 849
+- name: Evolutionary Algorithms for Prompt Engineering
+  startOffset: 849
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=849
+  endOffset: 1099
+- name: 'AI Agents Book: Editions, Teaching, and Vibe Coding for Games'
+  startOffset: 1099
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=1099
+  endOffset: 1257
+- name: 'Agent Workflow Design: Minimalism and Task Decomposition'
+  startOffset: 1257
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=1257
+  endOffset: 1428
+- name: 'Flow vs Orchestration: Sequential Pipelines and Manager Agents'
+  startOffset: 1428
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=1428
+  endOffset: 1585
+- name: 'Collaboration Patterns: Parallel Agent Interaction & Use Cases'
+  startOffset: 1585
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=1585
+  endOffset: 1891
+- name: 'Agent Tooling: OpenAI Agent SDK and MCP Integration'
+  startOffset: 1891
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=1891
+  endOffset: 2005
+- name: 'Sequential Thinking Servers: Internal Reasoning & Scratchpads'
+  startOffset: 2005
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2005
+  endOffset: 2142
+- name: 'Coding Agents in Game Development: Practical Examples'
+  startOffset: 2142
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2142
+  endOffset: 2218
+- name: 'End-to-End Code Generation: GPT-5 Pro Case Studies'
+  startOffset: 2218
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2218
+  endOffset: 2337
+- name: 'Generative AI in Games: Procedural Content and Infinite Playability'
+  startOffset: 2337
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2337
+  endOffset: 2502
+- name: 'Technical Challenges: Implementing Space Invaders with Agents'
+  startOffset: 2502
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2502
+  endOffset: 2740
+- name: 'Local Model Trend: Running LLMs on Private GPUs'
+  startOffset: 2740
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2740
+  endOffset: 2774
+- name: Open-Source Large Models and Low-Latency Providers
+  startOffset: 2774
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2774
+  endOffset: 2920
+- name: 'Model Specialization: Smaller Task-Focused LLMs Emerging'
+  startOffset: 2920
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=2920
+  endOffset: 3316
+- name: 'Career Advice: Transitioning to AI Engineering & LLM Skills'
+  startOffset: 3316
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=3316
+  endOffset: 3459
+- name: 'Evaluation & Monitoring: Feedback Pipelines and Tools (Arize Phoenix)'
+  startOffset: 3459
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=3459
+  endOffset: 3530
+- name: 'Publishing Details: Second Edition and Availability'
+  startOffset: 3530
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=3530
+  endOffset: 3623
+- name: Closing Remarks and Links
+  startOffset: 3623
+  url: https://www.youtube.com/watch?v=DSxqUlumM3A&t=3623
+  endOffset: 3648
 ---
 
 Links:

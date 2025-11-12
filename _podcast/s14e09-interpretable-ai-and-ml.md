@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=EQcY83VA0Us
 season: 14
 short: Interpretable AI and ML
-title: Interpretable AI and ML
+title: 'Actionable Churn Prediction: Explainable AI, Organizational Trust (ABI) &
+  MLOps'
 transcript:
+- header: Episode Introduction & Overview
+- header: 'Guest Introduction: Polina Mosolova — Industrial PhD and Churn Prediction'
 - line: This week we'll talk about bringing together research and industry and how
     explainable and interpretable machine learning and AI fit into it. We have a special
     guest today, Polina. Polina is a data scientist at SAP. She's passionate about
@@ -35,7 +38,7 @@ transcript:
   sec: 116
   time: '1:56'
   who: Alexey
-- header: Polina's background
+- header: 'Career Journey: Industrial PhD to Full‑Stack Data Scientist at SAP'
 - line: So let's start. Before we go into our main topic of interpretable/explainable
     AI and ML, let's start with your background. Can you tell us about your career
     journey so far?
@@ -79,6 +82,7 @@ transcript:
   sec: 418
   time: '6:58'
   who: Polina
+- header: 'Role Evolution: From Full‑Stack Data Scientist to MLOps Specialization'
 - line: Yeah, it's funny that you mentioned this full-stack data scientist term. When
     I first gave this talk like two or three years ago, it was a thing because the
     role of an ML engineer was not yet that developed. It wasn't that common. And
@@ -112,7 +116,7 @@ transcript:
   sec: 499
   time: '8:19'
   who: Polina
-- header: How common it is for PhD students to build ML pipelines end-to-end
+- header: 'PhD Practice: Building End‑to‑End ML Pipelines During Doctoral Research'
 - line: Is it a common situation when a PhD student actually needs to do everything
     end-to-end? Because I think it is, right? That's kind of the point. Or is there
     usually help?
@@ -148,7 +152,7 @@ transcript:
   sec: 629
   time: '10:29'
   who: Polina
-- header: Simultaneous PhD and industry experience
+- header: 'Dual Goals: Balancing Academic Research and Production Deliverables'
 - line: Actually, I wanted to talk more about your PhD at the end. But I think now,
     it's a perfect segue to actually talk more about that. You said that it was an
     applied project for the company – for SAP, as I understand. There was a scientific
@@ -187,6 +191,7 @@ transcript:
   sec: 742
   time: '12:22'
   who: Alexey
+- header: 'Dissertation Focus: Churn Prediction Informed by Organizational Trust Theory'
 - line: Exactly. Maybe to get closer to the topic, for everybody to understand more
     what I did – my dissertation was focused on studying the relationship between
     a software as a service provider and their customers. Basically, I looked into
@@ -212,6 +217,7 @@ transcript:
   sec: 832
   time: '13:52'
   who: Alexey
+- header: 'Production Challenges: Deploying Research Models in Industry'
 - line: 'It was a big learning curve for me, because I came from this kind of idealistic
     perspective, maybe, that whatever insights I generate – anything could be very,
     very beneficial to the industry. Then I realized that there is just so much more
@@ -258,7 +264,7 @@ transcript:
   sec: 956
   time: '15:56'
   who: Polina
-- header: Support from both the academic and industry sides
+- header: 'Supervision & Stakeholders: Academic and Company Support Structures'
 - line: You mentioned that you had a supervisor from the university side. Was there
     also a supervisor from the company side?
   sec: 1077
@@ -287,6 +293,7 @@ transcript:
   sec: 1126
   time: '18:46'
   who: Alexey
+- header: 'Research‑Industry Bridge: Academic Conferences and Summer Schools'
 - line: Day-to-day, I think it was just a data science project. Just the data science
     work that you can imagine – regular calls with stakeholders. I think that's not
     that much different from what every data scientist who has business facing roles
@@ -326,6 +333,7 @@ transcript:
   sec: 1228
   time: '20:28'
   who: Alexey
+- header: 'Time Management: Balancing PhD Writing with Industrial Responsibilities'
 - line: Yeah. Also, my PhD was partially during COVID. The first year I started, it
     was 2019, so I did summer school, then. [chuckles] And then 2020-21, it was virtually
     impossible to have any real-life summer schools. But I'm also kind of thankful
@@ -398,7 +406,7 @@ transcript:
   sec: 1460
   time: '24:20'
   who: Polina
-- header: How common the industrial PhD setup is and how to get into one
+- header: 'Finding Industrial PhDs: Prevalence, Companies, and How to Search'
 - line: How common is this setup? For example, I know that – again, at TU Berlin,
     where I studied a long time ago – I don't remember that the group where I was
     had such a direct connection with industry. Usually, the company usually gives
@@ -435,6 +443,7 @@ transcript:
   sec: 1524
   time: '25:24'
   who: Polina
+- header: 'Practical Tips: Job Postings, Language Requirements, and Application Search'
 - line: So if I wanted to check what possible projects I can do with SAP, what kind
     of Google query would you say I need to use? “SAP machine learning and industry
     PhD,” something like that?
@@ -491,7 +500,7 @@ transcript:
   sec: 1762
   time: '29:22'
   who: Polina
-- header: Organizational trust theory
+- header: 'Organizational Trust Theory: ABI Framework — Ability, Benevolence, Integrity'
 - line: I also wanted to talk about the content of your dissertation. At the beginning,
     when introducing you, I said that you were developing a framework for churn prediction
     that used organizational trust theory and explainable and interpretable ML. So
@@ -556,7 +565,7 @@ transcript:
   sec: 2040
   time: '34:00'
   who: Polina
-- header: How price relates to trust
+- header: Pricing, Contracts, and Trust Dynamics in Subscription Services
 - line: And what about the price? One of the big drivers for me to change... Let's
     say I use some product, some internet company, and then they decide to increase
     the price. Then I think “Okay, what are the alternatives that might be cheaper?”
@@ -619,7 +628,7 @@ transcript:
   sec: 2277
   time: '37:57'
   who: Polina
-- header: How trust relates to explainability
+- header: Linking Organizational Trust to Explainable AI and Feature Design
 - line: And then how is it related to explainable AI? I guess you use this framework
     of organizational trust to somehow create features, maybe, for your model or somehow
     guide your project. [Polina agrees] But then there's another component, which
@@ -669,7 +678,7 @@ transcript:
   sec: 2324
   time: '38:44'
   who: Polina
-- header: The importance of actionability
+- header: 'Actionability: Turning Explanations into Usable Business Interventions'
 - line: 'In practical terms – for you, it was about discovering the connection between...
     Maybe you have different groups of features: features related to ability, features
     related to benevolence, features related to integrity. And then you use tools
@@ -701,7 +710,7 @@ transcript:
   sec: 2547
   time: '42:27'
   who: Polina
-- header: Explainability vs interpretability vs actionability
+- header: 'Definitions: Interpretability vs Explainability vs Actionable ML'
 - line: What is that? What does “actionable” mean? Did you say “actionable, interpretable
     AI (actionable explainable AI)”? What does it mean?
   sec: 2643
@@ -773,7 +782,8 @@ transcript:
   sec: 2841
   time: '47:21'
   who: Polina
-- header: Complex glass box models
+- header: 'Model Choices: Glass‑Box Models, Generalized Additive Models, Neural Additive
+    Models'
 - line: And then would random forest plus SHAP values be a glass box model or black
     box?
   sec: 2842
@@ -803,6 +813,7 @@ transcript:
   sec: 2938
   time: '48:58'
   who: Alexey
+- header: 'Explainability Tools: Random Forest + SHAP — Explainable vs Interpretable'
 - line: I think it's explainable. It's not interpretable, per se, because it's not
     exactly 100% that the model itself that gives you the outcome, for the interpretability.
   sec: 2940
@@ -846,6 +857,7 @@ transcript:
   sec: 2982
   time: '49:42'
   who: Polina
+- header: 'Computer Vision Explainability: Activation Maps and Human Interpretability'
 - line: But then for neural networks, I think, there are these techniques that show
     activation regions. They show something where you have a picture and it highlights
     the area around the ears, highlights the area around the nose – around the areas
@@ -864,6 +876,7 @@ transcript:
   sec: 3080
   time: '51:20'
   who: Polina
+- header: 'Summary: Interpretable Models, Explainable Outputs, and Actionable Decisions'
 - line: I just want to summarize what you said, to make sure I understood. So an interpretable
     machine learning model should be a glass box model – it should be something like
     logistic regression, linear regression, generalized additive mode – the sort of
@@ -876,11 +889,11 @@ transcript:
   sec: 3108
   time: '51:48'
   who: Alexey
-- header: Does the explainability of a model follow explainability?
 - line: Yeah, exactly.
   sec: 3157
   time: '52:37'
   who: Polina
+- header: 'Audience Matters: Explainable Feature Spaces and Tailoring Explanations'
 - line: There is a question from Satyajeet. The question is, “Is an interpretable
     ML model necessarily explainable as well? Does it follow from being interpretable
     that the model is also explainable?”
@@ -931,7 +944,7 @@ transcript:
   sec: 3308
   time: '55:08'
   who: Polina
-- header: What explainable AI bring to customers and end users
+- header: 'Explainable AI and Trust: User Confidence, Provenance, and Transparency'
 - line: Then there is a question about trust, but I think it's a different sort of
     trust, not the one we talked about (organizational trust) but maybe it is. You
     will probably tell us which one it is. “Do you think that explainable AI models
@@ -966,6 +979,7 @@ transcript:
   sec: 3338
   time: '55:38'
   who: Polina
+- header: 'LLMs and Hallucinations: Explainability Challenges Versus Tabular Models'
 - line: Because you want to know if the model just hallucinated and came up with this
     out of nowhere, or if there is actually a document where this is described, right?
   sec: 3463
@@ -985,7 +999,7 @@ transcript:
   sec: 3495
   time: '58:15'
   who: Polina
-- header: Can all trust be turned into KPI?
+- header: 'Measuring Trust: KPIs, Proxies, and Ethical Constraints'
 - line: Because it's a very interesting question and I see that we are running out
     of time. I want to ask this question from Antonis. Antonis is asking, “Is there
     a way to track organizational trust? Is there any KPI or metric related to that?”
@@ -1019,6 +1033,8 @@ transcript:
   sec: 3550
   time: '59:10'
   who: Polina
+- header: 'Business Relevance: Practical Proxies for Trust and Prioritizing Product
+    Ability'
 - line: Are there good proxies that will at least give you some indication that, “Okay,
     we're losing customers because our integrity is not good?
   sec: 3629
@@ -1056,6 +1072,7 @@ transcript:
   sec: 3748
   time: '1:02:28'
   who: Polina
+- header: Episode Wrap‑Up and Closing Remarks
 - line: Okay. I think we should be wrapping up. Thanks a lot, Polina, for joining
     us today, for sharing your experience with us, for telling us about your experience
     doing a PhD, and your work. And thanks, everyone, for joining us today too, and
@@ -1067,6 +1084,142 @@ transcript:
   sec: 3782
   time: '1:03:02'
   who: Polina
+description: Master churn prediction with explainable AI and MLOps—learn ABI trust,
+  interpretable feature design, and deploy actionable models to reduce subscription
+  loss.
+intro: How do you turn churn prediction research into models that business teams trust
+  and can act on? In this episode, Polina Mosolova — a data scientist at SAP who completed
+  an industrial PhD building end‑to‑end ML pipelines — walks through her applied framework
+  for churn prediction that integrates explainable AI with organizational trust theory.
+  <br><br> We cover Polina’s journey from full‑stack data scientist to MLOps specialization,
+  the practical tensions of producing research and production deliverables, and supervision
+  and stakeholder dynamics for industrial PhDs. The conversation centers on the ABI
+  framework (Ability, Benevolence, Integrity) and how trust proxies and KPIs make
+  churn models business‑relevant. Technical topics include interpretability versus
+  explainability versus actionable ML, model choices (glass‑box models, GAMs, Neural
+  Additive Models), explainability tools (random forest + SHAP), computer vision activation
+  maps, and the limits of LLM explainability and hallucinations compared to tabular
+  models. <br><br> Listen to learn concrete guidance for deploying explainable churn
+  models, translating explanations into interventions, and operationalizing trust
+  through MLOps and practical metrics — essential for data scientists building production
+  churn prediction systems.
+dateadded: '2023-07-08'
+duration: PT01H01M48S
+quotableClips:
+- name: Episode Introduction & Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=0
+  endOffset: 74
+- name: 'Guest Introduction: Polina Mosolova — Industrial PhD and Churn Prediction'
+  startOffset: 74
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=74
+  endOffset: 125
+- name: 'Career Journey: Industrial PhD to Full‑Stack Data Scientist at SAP'
+  startOffset: 125
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=125
+  endOffset: 439
+- name: 'Role Evolution: From Full‑Stack Data Scientist to MLOps Specialization'
+  startOffset: 439
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=439
+  endOffset: 559
+- name: 'PhD Practice: Building End‑to‑End ML Pipelines During Doctoral Research'
+  startOffset: 559
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=559
+  endOffset: 634
+- name: 'Dual Goals: Balancing Academic Research and Production Deliverables'
+  startOffset: 634
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=634
+  endOffset: 753
+- name: 'Dissertation Focus: Churn Prediction Informed by Organizational Trust Theory'
+  startOffset: 753
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=753
+  endOffset: 842
+- name: 'Production Challenges: Deploying Research Models in Industry'
+  startOffset: 842
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=842
+  endOffset: 1077
+- name: 'Supervision & Stakeholders: Academic and Company Support Structures'
+  startOffset: 1077
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1077
+  endOffset: 1145
+- name: 'Research‑Industry Bridge: Academic Conferences and Summer Schools'
+  startOffset: 1145
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1145
+  endOffset: 1237
+- name: 'Time Management: Balancing PhD Writing with Industrial Responsibilities'
+  startOffset: 1237
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1237
+  endOffset: 1478
+- name: 'Finding Industrial PhDs: Prevalence, Companies, and How to Search'
+  startOffset: 1478
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1478
+  endOffset: 1661
+- name: 'Practical Tips: Job Postings, Language Requirements, and Application Search'
+  startOffset: 1661
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1661
+  endOffset: 1792
+- name: 'Organizational Trust Theory: ABI Framework — Ability, Benevolence, Integrity'
+  startOffset: 1792
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1792
+  endOffset: 2076
+- name: Pricing, Contracts, and Trust Dynamics in Subscription Services
+  startOffset: 2076
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2076
+  endOffset: 2299
+- name: Linking Organizational Trust to Explainable AI and Feature Design
+  startOffset: 2299
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2299
+  endOffset: 2514
+- name: 'Actionability: Turning Explanations into Usable Business Interventions'
+  startOffset: 2514
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2514
+  endOffset: 2643
+- name: 'Definitions: Interpretability vs Explainability vs Actionable ML'
+  startOffset: 2643
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2643
+  endOffset: 2842
+- name: 'Model Choices: Glass‑Box Models, Generalized Additive Models, Neural Additive
+    Models'
+  startOffset: 2842
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2842
+  endOffset: 2940
+- name: 'Explainability Tools: Random Forest + SHAP — Explainable vs Interpretable'
+  startOffset: 2940
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2940
+  endOffset: 3047
+- name: 'Computer Vision Explainability: Activation Maps and Human Interpretability'
+  startOffset: 3047
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3047
+  endOffset: 3108
+- name: 'Summary: Interpretable Models, Explainable Outputs, and Actionable Decisions'
+  startOffset: 3108
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3108
+  endOffset: 3159
+- name: 'Audience Matters: Explainable Feature Spaces and Tailoring Explanations'
+  startOffset: 3159
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3159
+  endOffset: 3323
+- name: 'Explainable AI and Trust: User Confidence, Provenance, and Transparency'
+  startOffset: 3323
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3323
+  endOffset: 3463
+- name: 'LLMs and Hallucinations: Explainability Challenges Versus Tabular Models'
+  startOffset: 3463
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3463
+  endOffset: 3498
+- name: 'Measuring Trust: KPIs, Proxies, and Ethical Constraints'
+  startOffset: 3498
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3498
+  endOffset: 3629
+- name: 'Business Relevance: Practical Proxies for Trust and Prioritizing Product
+    Ability'
+  startOffset: 3629
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3629
+  endOffset: 3761
+- name: Episode Wrap‑Up and Closing Remarks
+  startOffset: 3761
+  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3761
+  endOffset: 3708
 ---
 
 Links:

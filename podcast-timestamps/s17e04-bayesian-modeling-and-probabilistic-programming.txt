@@ -1,0 +1,25 @@
+00:00:00 Episode Introduction & Topic Overview
+00:01:44 Guest Introduction: Rob Zinkov and the Hakaru probabilistic programming project
+00:02:46 Career Journey: From software engineering to machine learning research
+00:03:57 Industry vs Academia: Applying Bayesian tools in real problems
+00:06:40 Transitioning Skills: Embracing calculus, integrals, and optimization
+00:08:12 Core Technical Skills: Linear algebra and optimization for ML
+00:09:32 Self‑Study Path: Learning statistics without formal classes
+00:14:47 Statistical Paradigms: Frequentist point estimates vs Bayesian distributions
+00:19:06 Bayesian Workflow: Priors, likelihoods, and posterior distributions
+00:21:31 Bayesian Advantages: Composability and incremental model building
+00:23:45 Probabilistic Programming: Automating Bayesian model tasks
+00:24:29 Why Integrals Matter: Intractable integrals in probabilistic models
+00:26:40 Numerical Integration: Sampling as an approximation technique
+00:29:17 Samplers Overview: Using draws to estimate posterior expectations
+00:33:48 MCMC Fundamentals: Markov chains and exploring high‑probability regions
+00:36:39 Probabilistic Languages: Hakaru’s role in generating samplers
+00:39:38 Language vs Library: Model semantics, control flow, and ASTs
+00:43:20 PyMC Example: Building a rainfall model and computational graph
+00:48:10 Interpreting Posteriors: Model checks and iterative refinement
+00:51:17 Encoding Dependencies: Spatial models and hierarchical structure
+00:53:12 Multimodality & Uncertainty: Representing multiple plausible outcomes
+00:55:41 Stan & HMC/NUTS: Advances in efficient sampling algorithms
+01:00:47 Learning Resources: PyMC book, Statistical Rethinking course, and tutorials
+01:05:53 Consulting & Contact: Rob’s statistical consulting and email
+01:06:31 Episode Wrap‑up, Links, and Next Steps

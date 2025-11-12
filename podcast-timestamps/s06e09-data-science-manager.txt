@@ -1,0 +1,30 @@
+00:00:00 Podcast Introduction
+00:01:26 Guest Intro: Mariano Semelman, Head of Data Science at OLX
+00:02:20 Passion for Product Applications in Data Science
+00:02:59 Career Journey: Software Dev to Data Science Leadership
+00:05:45 Daily Responsibilities: Meetings, Mentoring & Planning
+00:07:54 Team Composition: Data Scientists and ML Engineers
+00:08:39 Transition to Management: First Team of Five
+00:10:51 Decision Mindset: Saying Yes and Learning on the Job
+00:12:52 30‑60‑90 Plan: Onboarding, Listening, and Learning
+00:15:16 Project Onboarding: Rapid Learning and Trusting Reports
+00:17:26 Embracing Wrong Assumptions to Trigger Discussion
+00:19:57 Experience with Search and Recommender Systems
+00:21:19 Advertising Domain: Real‑Time Bidding and Campaign Optimization
+00:23:09 Transferable DS Practices: Problem Framing & Feature Engineering
+00:26:16 Diagnosing Model Issues: Overfitting, Data, and Features
+00:29:29 Product‑First Mindset: Prioritizing User Impact
+00:30:06 From Model to Product: Experiments, Deployment, Rules of ML
+00:33:36 Start Simple and Fail Fast: Iterative Testing in Production
+00:36:12 CRISP‑DM Process and Deployment Realities
+00:36:50 Prioritization: Where Modeling Time Delivers Impact
+00:40:25 Feedback Timing: When to Give Performance Feedback
+00:44:17 Feedback Technique: Ask Permission, Care, and Offer Options
+00:48:13 One‑on‑Ones and Creating a Safe Growth Environment
+00:50:39 Handling Departures: Supporting Team Members Who Leave
+00:52:37 Technical Work as a Manager: Code Reviews and Prototypes
+00:54:58 Delegation and Architectural Involvement via Senior Engineers
+00:55:48 Hiring and Remediation: Interviews, Probation, Development Plans
+01:01:37 Staying Current: MLOps, NLP, and Engineering Best Practices
+01:05:47 Key Takeaways and Follow‑Up Opportunities
+01:06:31 Contact Info: LinkedIn and Email for Mariano Semelman

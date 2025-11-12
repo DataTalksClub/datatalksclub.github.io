@@ -1,0 +1,20 @@
+00:00:00 Podcast Introduction
+00:01:40 Career Transition: Psychology to Applied Scientist
+00:06:00 First Public Writing: Early Blog Posts and Meetups
+00:09:30 Writing Motivations: Share, Learn, Be a Beacon
+00:14:00 Audience Targeting: Readers, Peers, and Future Teammates
+00:16:30 Writing as Product: Weekly Shipping and UX Mindset
+00:20:00 Weekly Writing Cadence: 7-Day Workflow and Schedule
+00:25:00 Outline-First Method: Memory Rewriting and Idea Filtering
+00:29:00 Time Budget & Editing: 25 Hours/Week and Avoiding Over-Editing
+00:33:00 Idea Sources and Topic Prioritization for Technical Writing
+00:37:00 Title Crafting and Article Length Decisions
+00:41:00 Getting Started: Start Writing, Overcome Friction
+00:43:30 Blogging Tools: Medium, Substack, WordPress, Jekyll (GitHub Pages)
+00:46:00 Writing Habits: Morning Reps and Weekend Deep Work
+00:48:30 Audience Growth: Distribution via Twitter, LinkedIn, Consistency
+00:51:00 Writing at Work: Press Release, Working Backwards, and Design Docs
+00:54:00 Technical Documentation: Decision Logs, Rationales, and Team Memory
+00:56:30 Portfolio Best Practices: Clear README, Quick Start, Repo Tour
+00:58:30 Practical Tips: Iterate Outlines, Ship Weekly, Learn by Teaching
+01:00:30 Podcast Wrap-Up and Resources

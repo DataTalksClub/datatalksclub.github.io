@@ -3,9 +3,26 @@ episode: 6
 guests:
 - jakobgraff
 short: A/B Testing
-title: "Mastering A/B Testing: Causality, Experimentation & Metrics for Data Teams"
-description: "Master A/B testing and experimentation with data scientist Jakob Graff. Learn statistical hypothesis testing, power analysis, p-values, frequentist vs Bayesian approaches, A/A testing, metric selection, and how to build experimentation platforms."
-intro: "In this episode, Jakob Graff—Director of Data Science and Analytics at diconium—explains how to design, run, and interpret A/B tests that truly inform product decisions. Drawing from his experience at Inkitt, Babbel, and King, Jakob breaks down key concepts like econometrics vs. machine learning, hypothesis testing, and noise control. He shares practical techniques for setting up in-house experimentation platforms, validating results with A/A tests, and balancing frequentist and Bayesian approaches. You'll learn how to use testing to de-risk product launches, improve data culture, and build statistically sound decision-making systems."
+title: 'Product Analytics & A/B Testing: Causality, Metrics, Power Analysis, A/A Tests'
+description: 'Master product analytics, A/B testing & power analysis: design stable
+  metrics, validate randomization with A/A tests, plan sample size to de-risk features.'
+intro: How do you design product experiments that truly establish causality and avoid
+  costly false conclusions? In this episode, Jakob Graff — Director of Data Science
+  and Data Analytics at diconium, with prior analytics leadership at Inkitt, Babbel,
+  King and a background in econometrics — walks through practical product analytics
+  and A/B testing strategies focused on causality and reliable metrics. <br><br> We
+  cover why randomized experiments mirror clinical trials, how experimentation de-risks
+  features and builds organizational learning, and a concrete case study on subscription
+  vs. points revenue metric design. Jakob explains experimentation platform trade-offs
+  (third-party vs. in-house), traffic splitters, assignment tracking, and why A/A
+  tests validate system trust. You’ll hear best practices for first tests (two-group
+  simplicity), metric selection considering noise and seasonality, and how to plan
+  duration with power analysis and sample-size calculations. The discussion also compares
+  z/t/nonparametric tests, p-value intuition from A/A comparisons, frequentist vs
+  Bayesian perspectives, and multi-armed test considerations. <br><br> Listen to learn
+  practical steps for designing randomized experiments, selecting stable metrics,
+  planning sample sizes, and interpreting results so your product analytics and A/B
+  testing produce actionable, causal insights.
 topics:
 - data science
 - practices
@@ -20,6 +37,8 @@ links:
   youtube: https://www.youtube.com/watch?v=0Gqx1LtqRZU
 season: 7
 transcript:
+- header: Podcast Introduction
+- header: Guest Background & Career Transition to Data Science
 - line: This week we'll talk about A/B testing and experimentation. We have a special
     guest today, Jakob. Jakob has more than three years of experience of growing data
     analytics teams. Now he's a head of analytics at Inkitt. He's passionate about
@@ -31,7 +50,6 @@ transcript:
   sec: 83
   time: '1:23'
   who: Jakob
-- header: "Guest Introduction; A/B Testing and Experimentation Focus"
 - line: I'm especially curious about the last point – the pizza dough. But maybe this
     is something that we'll talk about later. But before we go into our main topic
     of A/B tests, let's start with your background. Can you tell us about your career
@@ -39,7 +57,6 @@ transcript:
   sec: 85
   time: '1:25'
   who: Alexey
-- header: "Career Path: Econometrics, Data Science, Building Data Orgs"
 - line: Sure, yeah. I guess my journey started with finishing my Master's degree in
     economics and econometrics –it was a quantitative focus. Back then I was super
     into economics and really wanted to actually be a practicing economist, which
@@ -86,11 +103,11 @@ transcript:
   sec: 304
   time: '5:04'
   who: Jakob
-- header: "Concept: Econometrics vs. ML; Causality & Hypothesis Testing"
 - line: Not for technical books?
   sec: 309
   time: '5:09'
   who: Alexey
+- header: 'Econometrics to Product Analytics: Causality Emphasis'
 - line: No. [laughs] Maybe that's something that would be interesting for the future.
     But so far, it's strictly fiction.
   sec: 311
@@ -154,7 +171,7 @@ transcript:
   sec: 490
   time: '8:10'
   who: Jakob
-- header: "Concept: A/B Testing Defined; Clinical Trials Analogy"
+- header: 'A/B Testing Explained: Clinical Trials Analogy & Randomization'
 - line: Can you tell us what an A/B test actually is? Why should we care about this
     test if we're not somebody who is in econometrics, but let's say in data science?
   sec: 493
@@ -205,7 +222,7 @@ transcript:
   sec: 680
   time: '11:20'
   who: Alexey
-- header: "A/B Testing Purpose: Establishing Causality; Controlling Noise"
+- header: 'Experimentation Purpose: Establishing Causality & Controlling Noise'
 - line: Yeah, exactly. The idea behind why we do A/B testing in the first place is
     really to establish this causal link of the change and the impact. Otherwise,
     as I mentioned before, econometrics is so sophisticated because economists have
@@ -244,7 +261,7 @@ transcript:
   sec: 805
   time: '13:25'
   who: Jakob
-- header: "Inkyy Example: Subscription Model Testing vs. Point System"
+- header: 'Case Study: Subscription vs Points — Revenue Metric Design'
 - line: Can you maybe give us an example from something you did recently? An A/B test
     that you ran – maybe something simple?
   sec: 867
@@ -317,7 +334,7 @@ transcript:
   sec: 1084
   time: '18:04'
   who: Jakob
-- header: "Importance of Testing: De-risking Features; Organizational Learning"
+- header: De-risking Features & Building Organizational Learning with Experiments
 - line: So why can't we just trust our gut feeling? In this case, let's say you have
     this experience from King and you know that for users, they really like this gamification
     system, and that some of them would actually pay to be able to go to the next
@@ -402,7 +419,7 @@ transcript:
   sec: 1433
   time: '23:53'
   who: Jakob
-- header: "Infrastructure Setup: In-House vs. Third-Party Tools"
+- header: 'Experimentation Platform Choices: Third-Party vs In-House'
 - line: Now we know that A/B tests are good. We need to experiment – how do we start
     with this? Let's say you join a company – a startup. At the startup they do not
     experiment yet. They already have data in the data engineering team, or maybe
@@ -419,6 +436,7 @@ transcript:
   sec: 1434
   time: '23:54'
   who: Alexey
+- header: Traffic Splitter Implementation, Assignment Tracking & Monitoring
 - line: Yeah, that's a good question. I've never been at that stage where I had to
     set everything up from scratch. One thing that I would probably think about first
     is that there are two roads to take. In some sense, they have major implications
@@ -458,6 +476,7 @@ transcript:
   sec: 1484
   time: '24:44'
   who: Jakob
+- header: 'A/A Testing: Validating Randomization and System Trust'
 - line: My next suggestion would be to build as much tracking around this process
     as possible. Not only tracking “Here's the assignments. This is user A. This is
     user B.” But you actually want to understand if the app always calls the traffic
@@ -472,7 +491,6 @@ transcript:
   sec: 1672
   time: '27:52'
   who: Jakob
-- header: "Technique: A/A Testing for System Trust and Randomization Check"
 - line: So from scratch, I think you need to build out a system that you can fully
     monitor and trust. If you don't trust that system, then you can forget about your
     A/B tests. A good way to understand what's happening there is to do an A/A test,
@@ -489,6 +507,7 @@ transcript:
   sec: 1672
   time: '27:52'
   who: Jakob
+- header: 'First Test Best Practices: Two-Group Design & Simplicity'
 - line: I think it's also worth doing that with external tools, because at Babbel,
     we had the experience that we couldn't really trust them. That was actually what
     was going on. They gave us these not really clean tests where we wanted 50/50
@@ -535,7 +554,7 @@ transcript:
   sec: 1959
   time: '32:39'
   who: Alexey
-- header: "Metric Analysis: Noise, Stability, Seasonality, Business Cycles"
+- header: 'Metric Selection: Noise, Stability, Seasonality & Business Cycles'
 - line: You also mentioned a few things, which are – we need to understand the metric,
     we need to understand if they are noisy or stable, and what the expected impact
     is. I have a few questions about this. First of all, what is a noisy metric? What
@@ -606,7 +625,7 @@ transcript:
   sec: 2191
   time: '36:31'
   who: Jakob
-- header: "Test Duration: Power Analysis; Z-tests, T-tests, Non-parametric Tests"
+- header: 'Test Duration & Power Analysis: Sample Size Planning'
 - line: You also mentioned duration. For metrics that have these oscillations – there
     are more users on the weekend, for example – we need to plan to at least cover
     the entire week. What do we need to think about when we're talking about duration
@@ -642,6 +661,7 @@ transcript:
   sec: 2289
   time: '38:09'
   who: Jakob
+- header: 'Statistical Tests Overview: Z-test, T-test, and Nonparametric Options'
 - line: You mentioned that there is a simple formula. I saw these calculators and
     you don't even need to look at the formula – you just go there and it's an online
     calculator. You go to it, you put in some numbers, and then it says, “Okay, you
@@ -693,7 +713,7 @@ transcript:
   sec: 2465
   time: '41:05'
   who: Jakob
-- header: "Required Skills: Visualizing Data Distribution; Basic Statistics"
+- header: 'Data Distribution Checks: Histograms, Tails, and Visualization'
 - line: How can we pick this up? Let's say, for those who have no idea what (T-test
     is probably quite a widespread thing) but for those who don't know what a T-test
     is or what a nonparametric test is, but maybe they did some machine learning or
@@ -717,7 +737,6 @@ transcript:
   sec: 2709
   time: '45:09'
   who: Jakob
-- header: "Course: A/B Test Crash Course Advice"
 - line: Do you know of a good crash course on A/B tests that does not involve a lot
     of math – ones that are more practical? “If your data looks like this, use this
     test. If your data looks like that, use another test.” Something like that?
@@ -736,6 +755,7 @@ transcript:
   sec: 2797
   time: '46:37'
   who: Jakob
+- header: 'P-value Intuition: Explaining Significance via A/A Comparison'
 - line: Like thinking of metrics and things like that?
   sec: 2864
   time: '47:44'
@@ -744,7 +764,6 @@ transcript:
   sec: 2866
   time: '47:46'
   who: Jakob
-- header: "Concept: P-Value Explained Simply (A/A Comparison)"
 - line: We have quite a few questions. We already talked about the frequentist approach
     and the question is related to that. "Can you please explain it like I'm five
     years old – what is a p-value?" Or maybe five is a bit tough – maybe like I'm
@@ -802,7 +821,7 @@ transcript:
   sec: 3094
   time: '51:34'
   who: Jakob
-- header: "Frequentist vs. Bayesian: Credible Intervals, Computational Cost"
+- header: 'Frequentist vs Bayesian Testing: Credible Intervals, Priors & Costs'
 - line: What do you think about this "other way" of doing tests? The "other way" meaning
     – we have the frequentist approach to testing and then we have the Bayesian approach
     to testing, which I think (correct me if I'm wrong) but there is no notion of
@@ -901,7 +920,7 @@ transcript:
   sec: 3430
   time: '57:10'
   who: Jakob
-- header: "A/B/C/D Tests: Longer Duration; Multiple Comparison Problem"
+- header: 'Multi-armed Tests (A/B/C/D): Duration, Power, and Multiple Comparisons'
 - line: I see that we are almost running out of time, but there is one question that
     perhaps you can answer pretty quickly. The question is about A/B/C/D tests. So,
     "What is an A/B/C/D test with respect to A/B tests? And when do we need this complex
@@ -950,7 +969,7 @@ transcript:
   sec: 3642
   time: '1:00:42'
   who: Jakob
-- header: "Practice Pizza Dough; Finding Guest Online"
+- header: Practical Experimentation Tips & Analogies (Pizza Dough)
 - line: Okay, thanks. I actually wanted to ask you about pizza dough, as well. We
     didn't have a chance to talk about it. Do you have any resources that you can
     recommend to us in order to learn more about this topic and A/B tests? Maybe how
@@ -968,6 +987,7 @@ transcript:
   sec: 3793
   time: '1:03:13'
   who: Jakob
+- header: Hiring, Resources & Contact Information
 - line: Okay, yeah. [laughs] You mentioned that you are actually hiring for a product
     analyst role, right? If you have any job descriptions linked to your job portals,
     please send them and I will include this in the description. For those who are
@@ -982,10 +1002,98 @@ transcript:
   sec: 3869
   time: '1:04:29'
   who: Jakob
+- header: Episode Wrap-up and Key Takeaways
 - line: Okay, thanks a lot. Thanks for joining us today. Thanks for sharing your experience
     with us. Thanks, everyone, for joining us today as well and for asking questions.
     I wish everyone a great weekend!
   sec: 3880
   time: '1:04:40'
   who: Alexey
+dateadded: '2022-02-27'
+duration: PT01H03M37S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=0
+  endOffset: 63
+- name: Guest Background & Career Transition to Data Science
+  startOffset: 63
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=63
+  endOffset: 311
+- name: 'Econometrics to Product Analytics: Causality Emphasis'
+  startOffset: 311
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=311
+  endOffset: 493
+- name: 'A/B Testing Explained: Clinical Trials Analogy & Randomization'
+  startOffset: 493
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=493
+  endOffset: 708
+- name: 'Experimentation Purpose: Establishing Causality & Controlling Noise'
+  startOffset: 708
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=708
+  endOffset: 867
+- name: 'Case Study: Subscription vs Points — Revenue Metric Design'
+  startOffset: 867
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=867
+  endOffset: 1086
+- name: De-risking Features & Building Organizational Learning with Experiments
+  startOffset: 1086
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=1086
+  endOffset: 1434
+- name: 'Experimentation Platform Choices: Third-Party vs In-House'
+  startOffset: 1434
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=1434
+  endOffset: 1484
+- name: Traffic Splitter Implementation, Assignment Tracking & Monitoring
+  startOffset: 1484
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=1484
+  endOffset: 1672
+- name: 'A/A Testing: Validating Randomization and System Trust'
+  startOffset: 1672
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=1672
+  endOffset: 1805
+- name: 'First Test Best Practices: Two-Group Design & Simplicity'
+  startOffset: 1805
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=1805
+  endOffset: 2003
+- name: 'Metric Selection: Noise, Stability, Seasonality & Business Cycles'
+  startOffset: 2003
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=2003
+  endOffset: 2264
+- name: 'Test Duration & Power Analysis: Sample Size Planning'
+  startOffset: 2264
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=2264
+  endOffset: 2423
+- name: 'Statistical Tests Overview: Z-test, T-test, and Nonparametric Options'
+  startOffset: 2423
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=2423
+  endOffset: 2679
+- name: 'Data Distribution Checks: Histograms, Tails, and Visualization'
+  startOffset: 2679
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=2679
+  endOffset: 2864
+- name: 'P-value Intuition: Explaining Significance via A/A Comparison'
+  startOffset: 2864
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=2864
+  endOffset: 3115
+- name: 'Frequentist vs Bayesian Testing: Credible Intervals, Priors & Costs'
+  startOffset: 3115
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=3115
+  endOffset: 3548
+- name: 'Multi-armed Tests (A/B/C/D): Duration, Power, and Multiple Comparisons'
+  startOffset: 3548
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=3548
+  endOffset: 3772
+- name: Practical Experimentation Tips & Analogies (Pizza Dough)
+  startOffset: 3772
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=3772
+  endOffset: 3839
+- name: Hiring, Resources & Contact Information
+  startOffset: 3839
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=3839
+  endOffset: 3880
+- name: Episode Wrap-up and Key Takeaways
+  startOffset: 3880
+  url: https://www.youtube.com/watch?v=0Gqx1LtqRZU&t=3880
+  endOffset: 3817
 ---

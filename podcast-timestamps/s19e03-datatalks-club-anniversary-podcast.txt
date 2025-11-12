@@ -1,0 +1,30 @@
+00:00:00 Podcast Welcome & AMA Format (community links and live questions)
+00:01:35 Host Intro: Johanna as special host
+00:02:29 Origin Story: Founding DataTalks.Club during COVID
+00:03:52 Career Shift: Transition to running DataTalks.Club full-time
+00:04:06 Financial Decision: Leaving corporate work and early sustainability
+00:05:07 Course Portfolio: Machine Learning, Data Engineering, MLOps, LLMs, Stock Analytics
+00:08:13 Organic Growth: Word-of-mouth success of Data Engineering Zoomcamp
+00:09:22 Community Safety: Upwork scam awareness and moderation tips
+00:12:04 Mission: Free-to-learn education inspired by Open Data Science
+00:16:27 Community Impact: Student success stories and donations
+00:17:56 Sponsorship Dynamics: Revenue volatility and runway management
+00:20:14 Taxes & Cashflow: Prepaid tax system in Germany
+00:24:03 Staying Technical: Pet projects, LLM experiments, and automated storytelling pipeline
+00:26:43 Product Work: Building the course platform in Django to scale courses
+00:29:14 LLMs & RAG: From skepticism to launching an LLM course
+00:31:50 Life Update: Reflections on full-time community work and no regrets
+00:33:40 Early Validation: First event success and finding product-market fit
+00:36:37 Community Longevity: Active engagement, investment, and self-organization
+00:39:14 AI and Roles: Impact of AutoML/LLMs on data analysts and data scientists
+00:42:24 AI in Healthcare: Human touch versus automated assistance
+00:45:44 Scaling Challenges: Time investment, loneliness, and rejecting acquisition offers
+00:48:02 Networking Benefits: Masterminds, meetups, and personal connections
+00:49:49 Growth Objectives: More sponsors, new courses, and instructor autonomy
+00:51:38 How to Help: Be a guest, mentor in Slack, and join Project of the Week
+00:53:46 Events Roadmap: Competitions, future hackathons, and ML course contests
+00:55:29 Course Schedule: Stock market analytics rerun and upcoming workshops
+00:56:41 Podcast Workflow: Guest research, question prep, and interview process
+00:58:47 Career Advice: Starting in data science now and junior hiring realities
+01:01:10 Personal Reads: Book recommendations and current reading
+01:02:41 Closing Remarks & Thank You

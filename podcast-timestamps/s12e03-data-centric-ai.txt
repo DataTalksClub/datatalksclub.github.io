@@ -1,0 +1,30 @@
+00:01:26 Podcast Introduction
+00:02:03 AI education & geometric deep learning in medical imaging
+00:03:04 Data science education and course development
+00:04:51 Building a community of practice and improving product maturity
+00:05:24 Data-Centric AI: shifting focus from Big Data to Good Data
+00:05:54 Model-centric vs data-centric approaches; challenges with unstructured data
+00:10:28 Transfer learning & fine-tuning: why label quality matters more now
+00:13:45 Data-centric competition case: fixed ResNet model with editable dataset
+00:15:05 Competition lessons: accessibility, strategy, and innovation award
+00:17:44 Strategic data augmentation vs brute-force data collection
+00:18:46 Mindset shift: treating datasets as editable artifacts
+00:19:24 Validation split adjustments and maintaining fair model comparisons
+00:22:25 Iterating on both data and model; prioritizing impactful data fixes
+00:23:02 Tooling spectrum: labeling, synthetic data, and data versioning
+00:23:24 Practical workflows: lightweight versioning and easy data edits
+00:26:26 Low-tech iteration: Google Sheets labeling plus automation scripts
+00:27:55 Targeted relabeling using model confidence and image embeddings
+00:32:22 Curated resources: Haiti Research and WhyData tool directories
+00:33:16 Iterative loop: baseline model, error analysis, and SME validation
+00:35:24 Beyond cleaning: representativeness, bias, and dataset completeness
+00:36:14 Detecting dataset gaps with embeddings and UMAP (penguin example)
+00:39:46 Defining real-world contexts: lighting, angles, and edge cases
+00:41:47 Acceptance criteria: deciding when dataset quality is sufficient
+00:44:13 Production feedback loops: collecting user feedback post-deployment
+00:46:52 Shadow mode rollout: passive deployment for safe feedback collection
+00:49:09 Scarce or low-quality data: feasibility, manual fixes, and limits
+00:50:45 Automating dataset repairs vs manual editing trade-offs
+00:50:56 PyData involvement: organizing meetups, tutorials, and global events
+00:56:01 PyData vs PyCon: data focus, language inclusivity, and NumFOCUS support
+00:58:24 Contact & resources: marysia.nl, LinkedIn, and PyData engagement

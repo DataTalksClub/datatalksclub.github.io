@@ -1,0 +1,18 @@
+00:00:00 Podcast Introduction & Guest Welcome
+00:01:51 Background: Transition from performance marketing to product roles
+00:02:14 Marketing Experience: B2B e‑commerce, lead acquisition, branding
+00:09:26 Landing Product Owner Role at AUTODOC Despite Non‑traditional Fit
+00:10:23 Relocation: Moving from Ukraine to Germany during 2020
+00:11:44 Transition Challenges: Learning product ownership on the job
+00:16:36 One‑on‑Ones: Structuring meetings to align with engineers and QA
+00:22:27 Product Owner Scope: Monitoring, roadmap, prioritization, team operations
+00:28:47 Process Choices: Scrum for deliveries vs Kanban for investigations
+00:29:50 Team Building: Forming a dedicated e‑commerce search team
+00:34:32 Search Expertise: Relevant Search book, Elasticsearch, and relevance as business context
+00:39:08 User Journey: Vehicle selector, part fitment, and contextual search flows
+00:42:51 Technical Upskilling: NLP, information retrieval, Haystack conference, and ChatGPT
+00:46:42 Recruiting: Remote roles, office hubs, and open developer positions
+00:48:29 Hiring Criteria: Why marketing backgrounds are valued for product roles
+00:52:16 Marketing Strengths: User understanding, internal PR, and pitching roadmaps
+00:58:06 Recommended Resources: Communication, Professional Product Owner, strategy, experimentation
+01:02:55 Closing Advice: Breaking mental barriers and committing to continuous learning

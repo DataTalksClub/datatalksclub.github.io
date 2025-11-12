@@ -13,9 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=sXU9vMDBjmk
 season: 19
 short: Linguistics and Fairness
-title: Linguistics and Fairness
+title: 'Fairness in AI: Using Fairlearn to Mitigate Credit Scoring Bias & Build Explainable
+  Models'
 transcript:
-- header: Linguistics and Fairness
+- header: Podcast Introduction & Episode Overview
 - line: This week, we’ll talk about linguistic fairness and a sociotechnical perspective
     on AI. I’m not entirely sure what that means, but we’ll find out.
   sec: 0
@@ -28,11 +29,12 @@ transcript:
   sec: 0
   time: 0:00
   who: Alexey
+- header: 'Guest Introduction: Tamara’s Open‑Source Roles (Fairlearn, scikit‑learn,
+    Skope‑Rules)'
 - line: Yes, that’s correct.
   sec: 151
   time: '2:31'
   who: Tamara
-- header: 'Guest introduction: Tamara’s background and career'
 - line: Tamara is a maintainer of Fairlearn and a contributor to scikit-learn and
     Skope-Rules. How do you pronounce it—Skope?
   sec: 157
@@ -55,8 +57,7 @@ transcript:
   sec: 174
   time: '2:54'
   who: Alexey
-- header: 'Tamara’s career journey: Software engineering, music tech, and computational
-    linguistics'
+- header: 'Career Overview: Software Engineering to Computational Linguistics'
 - line: Thanks, as always, to Johanna Bayer for helping prepare today’s questions.
     Let’s start with your background. Can you tell us more about your career journey
     so far?
@@ -81,6 +82,7 @@ transcript:
   sec: 198
   time: '3:18'
   who: Tamara
+- header: 'Music Tech Experience: Ableton and Push 2 Instrument Design'
 - line: Music tech sounds interesting. Tell me more about that.
   sec: 277
   time: '4:37'
@@ -114,6 +116,7 @@ transcript:
   sec: 369
   time: '6:09'
   who: Tamara
+- header: 'Device Architecture: Laptop Computation vs Standalone Hardware'
 - line: That’s fascinating. I’ve seen these setups with a console and a laptop. Is
     the laptop where the computation happens?
   sec: 401
@@ -139,6 +142,7 @@ transcript:
   sec: 525
   time: '8:45'
   who: Alexey
+- header: 'Transition to NLP & AI: Academic Interests and Motivation'
 - line: It might seem like a strange shift, but it ties closely to my background.
     To explain, I’d need to revisit my life story.
   sec: 536
@@ -150,7 +154,6 @@ transcript:
   sec: 536
   time: '8:56'
   who: Tamara
-- header: Tamara’s background in language and computer science
 - line: Yes, I know the term gymnasium. It’s like a specialized high school.
   sec: 593
   time: '9:53'
@@ -159,6 +162,7 @@ transcript:
   sec: 597
   time: '9:57'
   who: Tamara
+- header: 'Cognitive Systems Studies: Language, Neuroscience, and ML'
 - line: I studied ethics and languages, exploring language as a phenomenon. I learned
     Latin and other foreign languages, which was fascinating. But I also found computers
     really fun and decided to pursue a computer science degree. However, I never forgot
@@ -187,6 +191,7 @@ transcript:
   sec: 703
   time: '11:43'
   who: Alexey
+- header: 'Research Path: Returning to Study and New Projects'
 - line: Yes. I went to music school when I was young, which was a way to reconnect
     with my early passions. Eventually, I returned to study cognitive systems—a program
     that combined cognitive science, computational linguistics, and machine learning.
@@ -204,6 +209,7 @@ transcript:
   sec: 755
   time: '12:35'
   who: Alexey
+- header: 'Music as Hobby: Balancing Creative Work and Research'
 - line: I still have Ableton Live on my computer and occasionally play around with
     it. However, I’ve never been one to share or post my music. As a teenager, I used
     to DJ at parties and enjoyed that lifestyle, but now it’s just a personal hobby.
@@ -227,6 +233,7 @@ transcript:
   sec: 803
   time: '13:23'
   who: Tamara
+- header: 'Sociotechnical Framing: Modeling Language in Social Context'
 - line: What is a sociotechnical approach to modeling language?
   sec: 824
   time: '13:44'
@@ -245,11 +252,12 @@ transcript:
   sec: 834
   time: '13:54'
   who: Tamara
-- header: Exploring fairness in AI and its impact on society
+- header: 'Fairness in AI: Credit Scoring Use Case and Real‑World Impact'
 - line: That sounds quite abstract. Can we narrow it down to AI?
   sec: 892
   time: '14:52'
   who: Alexey
+- header: 'Empirical Findings: Gender Disparities in Credit Models (Fairlearn Study)'
 - line: Yes, let’s take AI as an example. Consider tools like Fairlearn, which assess
     fairness in AI models. One real-world application involves credit loan decisions.
     These decisions are often based on models trained on historical data, which can
@@ -266,6 +274,7 @@ transcript:
   sec: 910
   time: '15:10'
   who: Tamara
+- header: 'Societal Harms: Debt, Repossession, and Downstream Consequences'
 - line: It’s interesting that giving someone a loan they can’t repay isn’t just bad
     for the bank but also for the individual.
   sec: 1094
@@ -315,7 +324,6 @@ transcript:
   sec: 1233
   time: '20:33'
   who: Alexey
-- header: Fairness in AI models
 - line: That’s a provocative question. Let me think about it.
   sec: 1280
   time: '21:20'
@@ -325,6 +333,7 @@ transcript:
   sec: 1285
   time: '21:25'
   who: Alexey
+- header: 'Fairlearn Tools: Group Fairness, Visualization, and Mitigation Methods'
 - line: I understand, but fairness is tied to values. For example, I once heard a
     presentation by Hilde, an assistant professor in the Netherlands. She talked about
     how we sometimes create models that reflect the values we want to see, even if
@@ -354,6 +363,7 @@ transcript:
   sec: 1291
   time: '21:31'
   who: Tamara
+- header: 'Sensitive Group Selection: Domain‑Specific Decisions in Credit Models'
 - line: Okay, so what exactly does Fairlearn, or similar tools, provide? Let’s take
     credit scoring as an example. Say we have a model, like a decision tree or logistic
     regression, that predicts loan decisions. Fairlearn then analyzes how the model
@@ -378,7 +388,7 @@ transcript:
   sec: 1537
   time: '25:37'
   who: Tamara
-- header: Automating fairness analysis in models
+- header: 'Limits of Automation: Human Judgment in Fairness Assessments'
 - line: Could we automate this? For instance, include all features in the model and
     let Fairlearn flag problematic ones? Then we could decide whether to exclude or
     keep them.
@@ -399,6 +409,7 @@ transcript:
   sec: 1603
   time: '26:43'
   who: Tamara
+- header: 'Metric Tradeoffs: False Positives vs False Negatives and Demographic Parity'
 - line: That makes sense. So, at the end of the day, a human expert—someone who understands
     the domain—has to evaluate the harm caused by false positives or false negatives
     and decide how to address it.
@@ -435,6 +446,7 @@ transcript:
   sec: 1888
   time: '31:28'
   who: Tamara
+- header: 'Organizational Responsibility: Who Decides Fairness Tradeoffs?'
 - line: I wanted to ask, who is responsible for making this assessment? For example,
     if a false positive is harmful and a false negative is not, who decides this?
   sec: 1893
@@ -455,7 +467,6 @@ transcript:
   sec: 1914
   time: '31:54'
   who: Tamara
-- header: Balancing technical and domain expertise in decision-making
 - line: But, let's say I'm a technical person, and I'm not necessarily a domain expert.
     I’m a data scientist, for example. I learned to use support vector machines, but
     I didn’t study sociology. But at the same time, I’m wondering if that means I
@@ -463,6 +474,7 @@ transcript:
   sec: 1952
   time: '32:32'
   who: Alexey
+- header: 'Practitioner Education: Frameworks, Ambiguity, and Learning Objectives'
 - line: In bigger companies, they might have people who assess this. I've never worked
     in a big company, but I would love some insight. In smaller places, people’s curiosity
     drives them to ask questions. The tools I’m talking about—like equal odds or demographic
@@ -485,6 +497,7 @@ transcript:
   sec: 1991
   time: '33:11'
   who: Tamara
+- header: 'Moderation Case Study: Cross‑Functional Teams and Domain Expertise'
 - line: I was reflecting on my personal experience with making these decisions. I
     worked on a moderation team for an online marketplace, deciding whether an item
     should go live for purchase or be blocked. We discussed factors like the model's
@@ -502,7 +515,7 @@ transcript:
   sec: 2123
   time: '35:23'
   who: Alexey
-- header: The role of humans in the loop for fairness
+- header: 'Human‑in‑the‑Loop: Essential Component for Fair AI Systems'
 - line: 'Yes, and you mentioned something really important: the human in the loop.
     It’s a central component of all AI systems. If we want them to be fair, we need
     humans in the loop. Before any decision can have a real impact, there has to be
@@ -553,6 +566,7 @@ transcript:
   sec: 2352
   time: '39:12'
   who: Tamara
+- header: 'Joining Probable: From Open‑Source Contributions to a Role'
 - line: So, how did you get involved in the project? Last time we spoke, Probable
     didn’t exist yet. How did it happen? You were doing LPiano back then, right?
   sec: 2358
@@ -567,7 +581,6 @@ transcript:
   sec: 2378
   time: '39:38'
   who: Alexey
-- header: Joining Probable and working on open-source projects
 - line: I joined Probable in 2023, during the summer, though it was quite informal
     at first. I attended a meetup in Berlin, a Psyched Learning contributor meetup,
     just for fun. There, I met the founders of the company. I started working on something
@@ -587,6 +600,7 @@ transcript:
   sec: 2402
   time: '40:02'
   who: Tamara
+- header: 'Probable Work: Explainability, Language Models, and Library Integration'
 - line: At the time, they were building the open source software engineering team.
     I’m not sure if all titles are the same, but I believe we’re all called open-source
     software engineers. The team was focused on different areas, and my role was to
@@ -599,6 +613,7 @@ transcript:
   sec: 2457
   time: '40:57'
   who: Tamara
+- header: 'Interpretability Tools: Inspection Package and Partial Dependence'
 - line: What is this inspection package? I don’t think I’ve heard of it.
   sec: 2574
   time: '42:54'
@@ -635,6 +650,7 @@ transcript:
   sec: 2640
   time: '44:00'
   who: Tamara
+- header: 'Cross‑Library Compatibility: Fairlearn, scikit‑learn, and Estimator APIs'
 - line: The most interesting part of my work has been ensuring cross-library compatibility.
     This means making all Fairlearn estimators compatible with Psyched Learn, and
     ensuring compatibility as Psyched Learn transitions to version 1.6. People should
@@ -652,7 +668,7 @@ transcript:
   sec: 2770
   time: '46:10'
   who: Tamara
-- header: Scopes library and its integration with Hugging Face
+- header: 'Scopes Library: Secure Model Persistence and Hugging Face Integration'
 - line: Scopes is an independent library that originated from Hugging Face, though
     it’s separate now. It integrates with Hugging Face’s hub to allow you to bring
     your Psyched Learn models into production. The key benefit of Scopes is its secure
@@ -664,6 +680,7 @@ transcript:
   sec: 2831
   time: '47:11'
   who: Alexey
+- header: 'Serialization Risks: Pickle Vulnerabilities and Secure Deserialization'
 - line: The issue was related to downloading malware through models from Hugging Face
     and similar platforms. This was caused by the known problems with pickle, which
     can allow untrusted types to be executed when models are unpickled. Scopes addresses
@@ -744,11 +761,11 @@ transcript:
   sec: 3022
   time: '50:22'
   who: Tamara
-- header: PyLadies and community involvement
 - line: Are you also one of the organizers, or just an active participant?
   sec: 3048
   time: '50:48'
   who: Alexey
+- header: 'Community Involvement: PyLadies, Sprints, and Fairlearn Events'
 - line: I’m just an active participant. When I moved to Berlin in 2013 and worked
     briefly at Startup Bootcamp, that was my first contact with the community. They
     let me give a talk back then. For me, being a PyLady was central to my move to
@@ -764,6 +781,7 @@ transcript:
   sec: 3054
   time: '50:54'
   who: Tamara
+- header: 'Contributing to Fairlearn: Discord, Good‑First Issues, and Sprints'
 - line: That’s interesting. You read my mind again. I was about to ask how someone
     can contribute to Fairlearn if they’re interested. If you live in Berlin, they
     can join the meetup, right? And there will be opportunities to contribute, as
@@ -823,6 +841,7 @@ transcript:
   sec: 3239
   time: '53:59'
   who: Tamara
+- header: 'Development Ethos: Testing, Refactoring, and Custom Estimators'
 - line: Right, the same ideology as Scikit-learn. It has to be time-tested.
   sec: 3341
   time: '55:41'
@@ -839,6 +858,7 @@ transcript:
   sec: 3383
   time: '56:23'
   who: Alexey
+- header: 'Project Updates: Upcoming Fairlearn Release and Maintainer Notes'
 - line: It’s wonderful that people want to contribute. When I first opened the Fairlearn
     documentation, I thought, "Oh my God, all this academic jargon!" But once you
     start working with it and looking at the code, even if you don’t come from a scientific
@@ -850,6 +870,7 @@ transcript:
   sec: 3397
   time: '56:37'
   who: Tamara
+- header: 'Practical Quirk: Tokenization Issues Breaking "Fairlearn" in Transcripts'
 - line: By the way, the final thing—when I edit the transcript with ChatGPT, GPT sometimes
     breaks the name "Fairlearn" into parts when it sees a dot. It replaces the name
     with a line break, which I find a bit funny. Do you know why that happens?
@@ -869,6 +890,7 @@ transcript:
   sec: 3485
   time: '58:05'
   who: Tamara
+- header: Closing Remarks, Contact Info, and Final Thoughts
 - line: Okay. Well, that’s all we have time for today. Tamara, thanks a lot for joining
     us and sharing your knowledge, experience, and interesting stories about music.
     It was really nice talking to you, and I’m happy we finally had this conversation.
@@ -886,7 +908,6 @@ transcript:
   sec: 3534
   time: '58:54'
   who: Alexey
-- header: Upcoming PyData talk about custom estimators
 - line: In January, right? I’ll be talking about writing custom estimators in Scikit-learn,
     but I’ll also show a custom estimator from Fairlearn, so it’s kind of related.
   sec: 3545
@@ -896,6 +917,161 @@ transcript:
   sec: 3554
   time: '59:14'
   who: Alexey
+description: 'Discover how to use Fairlearn to mitigate credit scoring bias and build
+  explainable models: practical tools, human-in-the-loop tips, and evaluation tradeoffs.'
+intro: How do you reduce bias in credit scoring models without sacrificing explainability?
+  In this episode, Tamara Atanasoska — an open source software engineer at :probabl..,
+  Fairlearn maintainer, and contributor to scikit-learn and skops with a background
+  in software engineering and computational linguistics — walks through practical
+  approaches to fairness in AI. We dig into a real credit scoring use case, empirical
+  findings on gender disparities, and the societal harms of biased models such as
+  debt and repossession. <br><br> Tamara explains Fairlearn’s group fairness tools,
+  visualization and mitigation methods, and the tradeoffs between false positives,
+  false negatives, and demographic parity. She discusses how to choose sensitive groups
+  in domain‑specific settings, the limits of automation, the need for human‑in‑the‑loop
+  systems, and who in an organization should decide fairness tradeoffs. The episode
+  also covers interpretability and explainable models — inspection tools, partial
+  dependence, and cross‑library integration with scikit‑learn and estimator APIs —
+  plus practical concerns like secure model serialization and community contribution
+  paths. <br><br> Listen to learn actionable guidance on auditing and mitigating credit
+  scoring bias, building explainable models, and integrating Fairlearn into real‑world
+  ML workflows.
+dateadded: '2025-02-24'
+duration: PT00H59M14S
+quotableClips:
+- name: Podcast Introduction & Episode Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=0
+  endOffset: 151
+- name: 'Guest Introduction: Tamara’s Open‑Source Roles (Fairlearn, scikit‑learn,
+    Skope‑Rules)'
+  startOffset: 151
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=151
+  endOffset: 198
+- name: 'Career Overview: Software Engineering to Computational Linguistics'
+  startOffset: 198
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=198
+  endOffset: 277
+- name: 'Music Tech Experience: Ableton and Push 2 Instrument Design'
+  startOffset: 277
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=277
+  endOffset: 401
+- name: 'Device Architecture: Laptop Computation vs Standalone Hardware'
+  startOffset: 401
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=401
+  endOffset: 536
+- name: 'Transition to NLP & AI: Academic Interests and Motivation'
+  startOffset: 536
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=536
+  endOffset: 604
+- name: 'Cognitive Systems Studies: Language, Neuroscience, and ML'
+  startOffset: 604
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=604
+  endOffset: 710
+- name: 'Research Path: Returning to Study and New Projects'
+  startOffset: 710
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=710
+  endOffset: 761
+- name: 'Music as Hobby: Balancing Creative Work and Research'
+  startOffset: 761
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=761
+  endOffset: 824
+- name: 'Sociotechnical Framing: Modeling Language in Social Context'
+  startOffset: 824
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=824
+  endOffset: 892
+- name: 'Fairness in AI: Credit Scoring Use Case and Real‑World Impact'
+  startOffset: 892
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=892
+  endOffset: 910
+- name: 'Empirical Findings: Gender Disparities in Credit Models (Fairlearn Study)'
+  startOffset: 910
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=910
+  endOffset: 1094
+- name: 'Societal Harms: Debt, Repossession, and Downstream Consequences'
+  startOffset: 1094
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1094
+  endOffset: 1291
+- name: 'Fairlearn Tools: Group Fairness, Visualization, and Mitigation Methods'
+  startOffset: 1291
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1291
+  endOffset: 1444
+- name: 'Sensitive Group Selection: Domain‑Specific Decisions in Credit Models'
+  startOffset: 1444
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1444
+  endOffset: 1581
+- name: 'Limits of Automation: Human Judgment in Fairness Assessments'
+  startOffset: 1581
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1581
+  endOffset: 1732
+- name: 'Metric Tradeoffs: False Positives vs False Negatives and Demographic Parity'
+  startOffset: 1732
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1732
+  endOffset: 1893
+- name: 'Organizational Responsibility: Who Decides Fairness Tradeoffs?'
+  startOffset: 1893
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1893
+  endOffset: 1991
+- name: 'Practitioner Education: Frameworks, Ambiguity, and Learning Objectives'
+  startOffset: 1991
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1991
+  endOffset: 2123
+- name: 'Moderation Case Study: Cross‑Functional Teams and Domain Expertise'
+  startOffset: 2123
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2123
+  endOffset: 2233
+- name: 'Human‑in‑the‑Loop: Essential Component for Fair AI Systems'
+  startOffset: 2233
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2233
+  endOffset: 2358
+- name: 'Joining Probable: From Open‑Source Contributions to a Role'
+  startOffset: 2358
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2358
+  endOffset: 2457
+- name: 'Probable Work: Explainability, Language Models, and Library Integration'
+  startOffset: 2457
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2457
+  endOffset: 2574
+- name: 'Interpretability Tools: Inspection Package and Partial Dependence'
+  startOffset: 2574
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2574
+  endOffset: 2694
+- name: 'Cross‑Library Compatibility: Fairlearn, scikit‑learn, and Estimator APIs'
+  startOffset: 2694
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2694
+  endOffset: 2780
+- name: 'Scopes Library: Secure Model Persistence and Hugging Face Integration'
+  startOffset: 2780
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2780
+  endOffset: 2836
+- name: 'Serialization Risks: Pickle Vulnerabilities and Secure Deserialization'
+  startOffset: 2836
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2836
+  endOffset: 3054
+- name: 'Community Involvement: PyLadies, Sprints, and Fairlearn Events'
+  startOffset: 3054
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3054
+  endOffset: 3130
+- name: 'Contributing to Fairlearn: Discord, Good‑First Issues, and Sprints'
+  startOffset: 3130
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3130
+  endOffset: 3341
+- name: 'Development Ethos: Testing, Refactoring, and Custom Estimators'
+  startOffset: 3341
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3341
+  endOffset: 3397
+- name: 'Project Updates: Upcoming Fairlearn Release and Maintainer Notes'
+  startOffset: 3397
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3397
+  endOffset: 3442
+- name: 'Practical Quirk: Tokenization Issues Breaking "Fairlearn" in Transcripts'
+  startOffset: 3442
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3442
+  endOffset: 3494
+- name: Closing Remarks, Contact Info, and Final Thoughts
+  startOffset: 3494
+  url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3494
+  endOffset: 3554
 ---
 
 Links:

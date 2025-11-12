@@ -1,0 +1,27 @@
+00:00:00 Podcast Introduction
+00:01:42 Introduction: Juan Orduz — mathematician and data scientist
+00:02:47 Career Path: From geometric analysis to industry data science
+00:05:09 Geometric Analysis Overview & connections to Bayesian sampling
+00:07:31 Machine Learning in Marketing: Key use cases (acquisition, retention, NLP)
+00:10:18 Attribution Basics: Multi-channel user journeys and ambiguity
+00:13:36 Media Mix Modeling: Regression, saturation and ad-stock transformations
+00:14:58 Campaign Uplift Estimation: Time series counterfactuals and ad impact
+00:19:48 Measuring TV & Offline Channels: Aggregated impressions and time granularity
+00:20:49 Privacy Changes and Cookieless Tracking: Impact of iOS 14.5
+00:23:04 Retention Modeling: Contractual vs non-contractual churn strategies
+00:25:37 Purchase Frequency Modeling: Detecting unusual inactivity patterns
+00:29:13 Uplift Modeling: Targeted interventions versus churn prediction
+00:30:54 A/B Testing for Uplift: Control/treatment design and data pitfalls
+00:35:24 Modeling Benchmarks: Start simple with baselines before complex ML
+00:37:05 MMM Retraining Cadence: Monthly updates and automation considerations
+00:38:22 Attribution Baselines: Uniform allocation and look-alike approaches
+00:39:41 Learning Decay Rates: Estimating channel decay with Bayesian regression
+00:40:46 Learning Resources: Books, courses, talks and Juan’s blog
+00:42:06 Bayesian vs Frequentist: When to use priors and hierarchical models
+00:48:06 Building a Marketing Data Function: Data integrations and infrastructure first
+00:50:50 Cross-functional Collaboration: Analysts, engineers and marketing stakeholders
+00:53:37 KPI Definition: Short-term vs long-term conversion objectives
+00:55:12 Hard Problems in Marketing: Offline channels, data quality, creative solutions
+00:57:02 Marketing Domain Knowledge: Stakeholder alignment and explainability
+00:58:48 Find Juan Online: Blog, GitHub and contact links
+01:00:22 Closing Remarks & resource links

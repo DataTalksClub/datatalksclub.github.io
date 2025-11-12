@@ -3,19 +3,7 @@ title: Freelancing in Machine Learning
 short: Freelancing in Machine Learning
 guests:
 - mikiobraun
-title: Freelancing in Machine Learning
-short: Freelancing in Machine Learning
-guests:
-- mikiobraun
 image: images/podcast/s04e08-freelancing.jpg
-topics:
-- freelance
-- consulting
-- machine learning
-- career growth
-- entrepreneurship
-- remote work
-- business strategy
 topics:
 - freelance
 - consulting
@@ -36,7 +24,6 @@ links:
   spotify: https://open.spotify.com/episode/2oE13mUEa9k4AO5qogYdqv
   apple: https://podcasts.apple.com/us/podcast/freelancing-in-machine-learning-mikio-braun/id1541710331?i=1000532612872
 transcript:
-- header: 'Career Journey: Academia to Industry'
 - line: This week, we'll talk about freelancing and consulting. And we have a special
     guest today — Mikio. Actually, Mikio was my teacher six years ago. I was studying
     at TU Berlin for my master’s and Mikio was one of the teachers of the machine
@@ -44,7 +31,9 @@ transcript:
     joined the industry. So I was able to witness his teaching. After working at TU
     Berlin, Mikio joined Zalando. He worked there in many different roles. He spent
     quite a few years there. Right?
-- header: 'Career Journey: Academia to Industry'
+- header: Episode Introduction & Topic Overview (Freelancing in Machine Learning)
+- header: Guest Background — Academic Research to Industry Roles (TU Berlin → Zalando
+    → GetYourGuide)
 - line: This week, we'll talk about freelancing and consulting. And we have a special
     guest today — Mikio. Actually, Mikio was my teacher six years ago. I was studying
     at TU Berlin for my master’s and Mikio was one of the teachers of the machine
@@ -127,8 +116,7 @@ transcript:
   sec: 304
   time: '5:04'
   who: Mikio
-- header: 'Consulting Focus: ML in Production & Organizational Advice'
-- header: 'Consulting Focus: ML in Production & Organizational Advice'
+- header: Consulting Scope — Advising on ML Production, Infrastructure, and Teams
 - line: Eventually, you ended up being a sole consultant. What do you help with? What
     do you consult about?
   sec: 373
@@ -162,8 +150,7 @@ transcript:
   sec: 444
   time: '7:24'
   who: Mikio
-- header: 'Transition to Freelancing: First Clients & Momentum'
-- header: 'Transition to Freelancing: First Clients & Momentum'
+- header: Freelance Launch — First Clients and Early Momentum
 - line: How does it work out for you?
   sec: 473
   time: '7:53'
@@ -177,6 +164,7 @@ transcript:
   sec: 475
   time: '7:55'
   who: Mikio
+- header: Client Lead Sources — Network, Referrals, and Direct Outreach
 - line: Did you at least write something on LinkedIn, and this is how you found a
     client?
   sec: 527
@@ -194,8 +182,7 @@ transcript:
   sec: 534
   time: '8:54'
   who: Mikio
-- header: 'Client Acquisition: Network, Word-of-Mouth & Personal Branding'
-- header: 'Client Acquisition: Network, Word-of-Mouth & Personal Branding'
+- header: Personal Branding & Demand Generation (LinkedIn, Talks, Podcasts)
 - line: So it's not as hard as you think if you have a strong network.
   sec: 608
   time: '10:08'
@@ -301,12 +288,11 @@ transcript:
   sec: 887
   time: '14:47'
   who: Mikio
-- header: 'Networking Tactics: Coffee Chats, LinkedIn & Lunchclub'
+- header: Networking Tactics — Coffee Chats, Lunchclub, and Meetups
 - line: I want to ask you a few things. Let's first start with the network thing.
     You said starting wasn't too difficult for you because you had a good network.
     By the way, there is a message from Felix Müller, saying, "Greetings from one
     of those ex-Zalando colleagues".
-- header: 'Networking Tactics: Coffee Chats, LinkedIn & Lunchclub'
 - line: I want to ask you a few things. Let's first start with the network thing.
     You said starting wasn't too difficult for you because you had a good network.
     By the way, there is a message from Felix Müller, saying, "Greetings from one
@@ -366,8 +352,7 @@ transcript:
   sec: 1142
   time: '19:02'
   who: Mikio
-- header: 'Intro Calls & Pre-sales: Building Trust Before Billing'
-- header: 'Intro Calls & Pre-sales: Building Trust Before Billing'
+- header: Intro Calls & Pre‑sales — Free Meetings, Qualification, and Trust Building
 - line: The other thing you said, "Now you get a client. The interesting part is what
     happens next". First, you have this intro call. You figure out if you can help
     the client. Right? How does it look like? Let's say you get a LinkedIn message
@@ -401,8 +386,7 @@ transcript:
   sec: 1215
   time: '20:15'
   who: Mikio
-- header: 'Problem Discovery: Needs vs. Prescribed Solutions'
-- header: 'Problem Discovery: Needs vs. Prescribed Solutions'
+- header: Problem Discovery — Diagnosing Needs vs. Prescribed Solutions
 - line: We also need to understand what they want. And it's also important to understand
     what their problem actually is.
   sec: 1297
@@ -426,8 +410,7 @@ transcript:
   sec: 1332
   time: '22:12'
   who: Mikio
-- header: 'Proposal Best Practices: Written Summaries & Scope Alignment'
-- header: 'Proposal Best Practices: Written Summaries & Scope Alignment'
+- header: Proposal Essentials — Written Summaries, Scope Alignment, and Signoff
 - line: There's one book with a very funny title that somebody recommended. It's called
     "million dollar consulting" by Alan Weiss. That's a good book. I'm not sure whether
     you can take this and make one million dollars.
@@ -458,8 +441,7 @@ transcript:
   sec: 1420
   time: '23:40'
   who: Mikio
-- header: 'Pricing Strategies: Hourly, Fixed-Price, and Value-Based Trade-offs'
-- header: 'Pricing Strategies: Hourly, Fixed-Price, and Value-Based Trade-offs'
+- header: Pricing Models — Hourly, Fixed‑Price, and Value‑Based Tradeoffs
 - line: We already have a question here. How to decide on this rate? The question
     is about the daily rate. We had some prior chats about this, you also mentioned
     something about a trade-off between pay per day or per hour or per project. Maybe
@@ -548,6 +530,7 @@ transcript:
   sec: 1733
   time: '28:53'
   who: Mikio
+- header: Rate Setting Strategies — Negotiation, Risk, and Client Concerns
 - line: So you don't have a daily rate for your projects now. Or how do you do this
     now? Hourly rate, daily rate or project rate? Or it really depends?
   sec: 1777
@@ -586,8 +569,7 @@ transcript:
   sec: 1908
   time: '31:48'
   who: Alexey
-- header: 'Financial Planning: Vacation, Risk Buffer, and Expected Income'
-- header: 'Financial Planning: Vacation, Risk Buffer, and Expected Income'
+- header: Financial Planning — Vacation, Risk Buffer, and Expected Income
 - line: Yeah. And your vacations, right? Nobody pays for that.
   sec: 1912
   time: '31:52'
@@ -637,8 +619,7 @@ transcript:
   sec: 1982
   time: '33:02'
   who: Mikio
-- header: 'Workload Management: Capacity, Calendars, and Burnout Prevention'
-- header: 'Workload Management: Capacity, Calendars, and Burnout Prevention'
+- header: Workload Management — Capacity Planning, Calendars, and Burnout Prevention
 - line: So, if you have an hourly rate, you have this incentive of working all the
     time. You can get three clients and then work eight hours for each. And then,
     after a week, you burn out. How to avoid overworking. Do you have any tips?
@@ -680,8 +661,7 @@ transcript:
   sec: 2147
   time: '35:47'
   who: Alexey
-- header: Specialization & Productizing Consulting for Predictability
-- header: Specialization & Productizing Consulting for Predictability
+- header: Specialization Strategy — Niches, Productizing Consulting, and Predictability
 - line: 'It is. You also need to think this: consulting is like a product. In the
     beginning, you''re like, "It sounds interesting. It sounds like something I could
     do." You take on a lot of projects and every project is different. But with time,
@@ -726,6 +706,7 @@ transcript:
   sec: 2317
   time: '38:37'
   who: Alexey
+- header: Client Workflow — Managing Multiple Clients and Daily Rhythms
 - line: You have multiple clients at the same time. What does your day look like?
     You work at the same time for them, during one day, you have meetings with multiple
     clients? Or one day — meetings for one client, and another day — for another client?
@@ -767,6 +748,7 @@ transcript:
   sec: 2423
   time: '40:23'
   who: Alexey
+- header: Income Comparison — Freelance Earnings vs. Full‑Time Salary
 - line: Yeah. I do normal 10-to-6 days. But not all of that time is billed. The actual
     client hours make maybe up to half of it. And then there's other stuff like, like
     this [podcast], or working on talks, or just learning something.
@@ -783,8 +765,7 @@ transcript:
   sec: 2463
   time: '41:03'
   who: Mikio
-- header: 'Freelance Trade-offs: Freedom, Overhead, and Side Projects'
-- header: 'Freelance Trade-offs: Freedom, Overhead, and Side Projects'
+- header: Freelance Tradeoffs — Freedom, Overhead, and Side Projects
 - line: Because if you're doing pretty much the same work, and you're getting the
     same money, is it worth all this overhead?
   sec: 2479
@@ -854,6 +835,7 @@ transcript:
   sec: 2643
   time: '44:03'
   who: Alexey
+- header: Capacity Decisions — Accepting, Delaying, or Declining New Projects
 - line: Let's say you already have a few clients. And then there is a new client who
     comes to you and says, "I have this new project for you". You really like this
     project, this is what you really want to do. But you don't have enough capacity
@@ -868,8 +850,7 @@ transcript:
   sec: 2690
   time: '44:50'
   who: Mikio
-- header: 'Scaling Paths: Building an Agency, a Product, or Returning to Employment'
-- header: 'Scaling Paths: Building an Agency, a Product, or Returning to Employment'
+- header: Scaling Paths — Building an Agency, Launching a Product, or Rejoining Employment
 - line: There was another book called "Built to Sell". If you build a startup, you
     have the plan of selling it. It's a lot about standardising your product. If you
     start as a consultant and you get lots of new projects. One option would be to
@@ -937,10 +918,9 @@ transcript:
   sec: 2900
   time: '48:20'
   who: Alexey
-- header: 'Deliverables: Mentoring, Workshops, Prototypes, and Team Outcomes'
+- header: Deliverables & Outcomes — Mentoring, Workshops, Prototypes, and Team Results
 - line: I remember seeing a question — What is the output of your work? Is it a report,
     a presentation? What do clients get at the end?
-- header: 'Deliverables: Mentoring, Workshops, Prototypes, and Team Outcomes'
 - line: I remember seeing a question — What is the output of your work? Is it a report,
     a presentation? What do clients get at the end?
   sec: 2907
@@ -971,6 +951,7 @@ transcript:
   sec: 2961
   time: '49:21'
   who: Mikio
+- header: Skill Growth as a Freelancer — Stretch Assignments and Learning Safely
 - line: We talked a bit about that. There are things you're good at. And there are
     things you are not good at yet, but you want to learn them. If there is something
     interesting you want to be better at, how do you do that as a freelancer? Let's
@@ -1023,6 +1004,7 @@ transcript:
   sec: 3156
   time: '52:36'
   who: Mikio
+- header: Client‑Finding Lessons — Clarity in Writing and Scope Discipline
 - line: We have quite a few questions. This one is very interesting. What is your
     most relevant learning when finding clients? What did you learn from this process
     of finding clients?
@@ -1040,8 +1022,7 @@ transcript:
   sec: 3202
   time: '53:22'
   who: Alexey
-- header: 'Admin & Insurance: German Registration, Taxes, and Liability Coverage'
-- header: 'Admin & Insurance: German Registration, Taxes, and Liability Coverage'
+- header: Administrative Setup in Germany — Freelance Registration, VAT, and Payments
 - line: Then there is a question from somebody from Germany. And the question is "How
     do you deal with all this 'normal' German paperwork?" It's a lot of bureaucracy.
     You need to fill a lot of papers, you need to do this monthly tax declaration.
@@ -1061,6 +1042,7 @@ transcript:
   sec: 3233
   time: '53:53'
   who: Mikio
+- header: Accounting Choices — DIY Taxes vs. Hiring a Tax Advisor
 - line: That's getting too technical. Do you do this yourself? Or do you have a tax
     advisor?
   sec: 3261
@@ -1107,6 +1089,7 @@ transcript:
   sec: 3407
   time: '56:47'
   who: Alexey
+- header: Professional Liability — Insurance, GDPR, and Contractual Safeguards
 - line: Yes, that's how it's done. It takes forever. Then you have to do this yearly
     tax. You can't do this alone. But as a freelancer, you have personal liability.
     But there are professional insurances. They are quite expensive, a few hundred
@@ -1173,8 +1156,7 @@ transcript:
   sec: 3530
   time: '58:50'
   who: Mikio
-- header: 'Global Market Dynamics: Remote Work, Competition, and Differentiation'
-- header: 'Global Market Dynamics: Remote Work, Competition, and Differentiation'
+- header: Global Market Dynamics — Remote Work, Competition, and Differentiation
 - line: Do you think the freelance market is affected by globalisation? Now everyone
     can work remotely. Why would a German company hire you instead of going to China
     or India or some other countries? The labor is cheaper there.
@@ -1216,8 +1198,7 @@ transcript:
   sec: 3646
   time: '1:00:46'
   who: Mikio
-- header: 'Starter Advice: Try Freelancing with a Safety Net'
-- header: 'Starter Advice: Try Freelancing with a Safety Net'
+- header: Starter Advice — Trying Freelancing with a Safety Net
 - line: Before we wrap up, do you have any advice for people who want to start freelancing?
   sec: 3662
   time: '1:01:02'
@@ -1248,8 +1229,7 @@ transcript:
   sec: 3776
   time: '1:02:56'
   who: Alexey
-- header: 'Wrap-up & Contact: Where to Find Mikio'
-- header: 'Wrap-up & Contact: Where to Find Mikio'
+- header: Closing Remarks & Contact Information (LinkedIn, Twitter @mikiobraun)
 - line: How can people find you?
   sec: 3792
   time: '1:03:12'
@@ -1290,23 +1270,144 @@ transcript:
   sec: 3827
   time: '1:03:47'
   who: Alexey
-intro: 'How do you build a reliable freelance career around machine learning when
-  clients expect production-ready systems, not just prototypes? In this episode, Mikio
-  Braun — an ML researcher who has moved models into production at European unicorns
-  Zalando and GetYourGuide and now advises companies as a consultant — walks through
-  what freelancing in machine learning really involves. <br><br> We focus on practical,
-  end-to-end concerns: aligning ML work with product goals, designing ML infrastructure
-  that supports deployment and maintenance, and translating research or proofs-of-concept
-  into production-grade solutions. Mikio''s background in both research and industry
-  gives him direct experience with the technical and product-side trade-offs that
-  matter to clients hiring an ML consultant or machine learning freelancer. <br><br>
-  Listeners will come away with concrete perspectives on where freelance ML work adds
-  value, how to scope engagements that bridge experimentation and production, and
-  what to prioritize when building ML systems for real users. This episode is essential
-  for machine learning freelancers, aspiring ML consultants, and product teams evaluating
-  external ML expertise.'
-description: 'Learn freelancing strategies for machine learning: win clients, price
-  ML projects, build a portfolio and deliver production models to increase income.'
+intro: 'How do you move from academic research or in‑house ML engineering to a sustainable
+  freelance career in machine learning — getting clients, pricing your work, and delivering
+  production systems? In this episode, Mikio Braun, who transitioned from TU Berlin
+  into ML roles at Zalando and GetYourGuide and now consults on machine learning production,
+  infrastructure, and teams, walks through that path step by step. <br><br> We cover
+  the practical parts of freelancing in machine learning: launching first clients,
+  sourcing leads through network and referrals, and demand generation with LinkedIn,
+  talks, and podcasts; pre‑sales tactics like free intro calls, problem discovery,
+  and clear proposals; pricing models and rate‑setting strategies; financial planning,
+  capacity management, and avoiding burnout; plus specialization, productizing consulting,
+  and scaling options (agency, product, or return to employment). The episode also
+  addresses administrative essentials for freelancers in Germany (registration, VAT,
+  payments), accounting choices, professional liability, and how to compete in a global
+  remote market. Listen for concrete advice on client‑finding, scope discipline, and
+  deliverables so you can evaluate whether freelancing in machine learning is the
+  right next step and how to start with a safety net.'
+description: 'Learn freelancing in machine learning: pricing, client acquisition,
+  and proposals to win ML consulting gigs, scale sustainably, and secure steady income'
+dateadded: '2021-08-20'
+duration: PT01H01M48S
+quotableClips:
+- name: Episode Introduction & Topic Overview (Freelancing in Machine Learning)
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=0
+  endOffset: 119
+- name: Guest Background — Academic Research to Industry Roles (TU Berlin → Zalando
+    → GetYourGuide)
+  startOffset: 119
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=119
+  endOffset: 373
+- name: Consulting Scope — Advising on ML Production, Infrastructure, and Teams
+  startOffset: 373
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=373
+  endOffset: 473
+- name: Freelance Launch — First Clients and Early Momentum
+  startOffset: 473
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=473
+  endOffset: 527
+- name: Client Lead Sources — Network, Referrals, and Direct Outreach
+  startOffset: 527
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=527
+  endOffset: 608
+- name: Personal Branding & Demand Generation (LinkedIn, Talks, Podcasts)
+  startOffset: 608
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=608
+  endOffset: 928
+- name: Networking Tactics — Coffee Chats, Lunchclub, and Meetups
+  startOffset: 928
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=928
+  endOffset: 1149
+- name: Intro Calls & Pre‑sales — Free Meetings, Qualification, and Trust Building
+  startOffset: 1149
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1149
+  endOffset: 1297
+- name: Problem Discovery — Diagnosing Needs vs. Prescribed Solutions
+  startOffset: 1297
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1297
+  endOffset: 1338
+- name: Proposal Essentials — Written Summaries, Scope Alignment, and Signoff
+  startOffset: 1338
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1338
+  endOffset: 1432
+- name: Pricing Models — Hourly, Fixed‑Price, and Value‑Based Tradeoffs
+  startOffset: 1432
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1432
+  endOffset: 1777
+- name: Rate Setting Strategies — Negotiation, Risk, and Client Concerns
+  startOffset: 1777
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1777
+  endOffset: 1912
+- name: Financial Planning — Vacation, Risk Buffer, and Expected Income
+  startOffset: 1912
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1912
+  endOffset: 2038
+- name: Workload Management — Capacity Planning, Calendars, and Burnout Prevention
+  startOffset: 2038
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2038
+  endOffset: 2171
+- name: Specialization Strategy — Niches, Productizing Consulting, and Predictability
+  startOffset: 2171
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2171
+  endOffset: 2326
+- name: Client Workflow — Managing Multiple Clients and Daily Rhythms
+  startOffset: 2326
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2326
+  endOffset: 2424
+- name: Income Comparison — Freelance Earnings vs. Full‑Time Salary
+  startOffset: 2424
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2424
+  endOffset: 2479
+- name: Freelance Tradeoffs — Freedom, Overhead, and Side Projects
+  startOffset: 2479
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2479
+  endOffset: 2660
+- name: Capacity Decisions — Accepting, Delaying, or Declining New Projects
+  startOffset: 2660
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2660
+  endOffset: 2715
+- name: Scaling Paths — Building an Agency, Launching a Product, or Rejoining Employment
+  startOffset: 2715
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2715
+  endOffset: 2907
+- name: Deliverables & Outcomes — Mentoring, Workshops, Prototypes, and Team Results
+  startOffset: 2907
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2907
+  endOffset: 3017
+- name: Skill Growth as a Freelancer — Stretch Assignments and Learning Safely
+  startOffset: 3017
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3017
+  endOffset: 3165
+- name: Client‑Finding Lessons — Clarity in Writing and Scope Discipline
+  startOffset: 3165
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3165
+  endOffset: 3210
+- name: Administrative Setup in Germany — Freelance Registration, VAT, and Payments
+  startOffset: 3210
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3210
+  endOffset: 3261
+- name: Accounting Choices — DIY Taxes vs. Hiring a Tax Advisor
+  startOffset: 3261
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3261
+  endOffset: 3422
+- name: Professional Liability — Insurance, GDPR, and Contractual Safeguards
+  startOffset: 3422
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3422
+  endOffset: 3539
+- name: Global Market Dynamics — Remote Work, Competition, and Differentiation
+  startOffset: 3539
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3539
+  endOffset: 3662
+- name: Starter Advice — Trying Freelancing with a Safety Net
+  startOffset: 3662
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3662
+  endOffset: 3792
+- name: Closing Remarks & Contact Information (LinkedIn, Twitter @mikiobraun)
+  startOffset: 3792
+  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3792
+  endOffset: 3708
 ---
 Books: 
 

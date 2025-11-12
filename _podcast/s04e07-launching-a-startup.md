@@ -1,25 +1,21 @@
 ---
-title: "Launching a Startup: From Idea to First Hire"
-short: "Launching a Startup: From Idea to First Hire"
-guests: [carminepaolino]
-
+title: Build a Grocery Retail OS to Cut Supermarket Food Waste & Scale Your Startup
+short: 'Launching a Startup: From Idea to First Hire'
+guests:
+- carminepaolino
 image: images/podcast/s04e07-launching-a-startup.jpg
-
 season: 4
 episode: 7
-
 ids:
   youtube: s-w8_GDgIlU
   anchor: Launching-a-Startup-From-Idea-to-First-Hire---Carmine-Paolino-e15sk4i
-
 links:
   youtube: https://www.youtube.com/watch?v=s-w8_GDgIlU
   anchor: https://anchor.fm/datatalksclub/episodes/Launching-a-Startup-From-Idea-to-First-Hire---Carmine-Paolino-e15sk4i
   spotify: https://open.spotify.com/episode/2zlqwEOamFD8YVGkf4VsFW
   apple: https://podcasts.apple.com/us/podcast/launching-a-startup-from-idea-to-first-hire-carmine-paolino/id1541710331?i=1000531945076
-
-
 transcript:
+- header: Episode Introduction & Guest Overview
 - line: This week, we'll talk about building a startup as a technical person. And
     we have a special guest today, Carmine. Carmine and I are ex-colleagues. Carmine
     worked with me at OLX as a senior data scientist. At some point, he left OLX,
@@ -28,7 +24,7 @@ transcript:
   sec: 106
   time: '1:46'
   who: Alexey
-- header: "Carmine\u2019s background"
+- header: 'Early Career: Programming, Academia, and Data Science'
 - line: Thank you, Alexey. I'm glad that you could invite me to see you again. Great
     introduction. Just to get to know me a little bit better. I started programming
     when I was a kid at the age of five. I continued this passion my entire life.
@@ -43,16 +39,16 @@ transcript:
   sec: 136
   time: '2:16'
   who: Carmine
-- line: "Then I joined my master\u2019s in the Free University of Amsterdam, which\
-    \ was in artificial intelligence. Since then I fell in love with it and continue\
-    \ doing data science for five years, including at OLX, at another consultancy\
-    \ before, and at another startup before. At OLX I went to OLX-squared, which is\
-    \ the moonshot team of OLX, where you can innovate as much as you want. After\
-    \ that, I joined the data science for social goods in the Alan Turing Institute,\
-    \ which is a research institution in the UK for data science and machine learning.\
-    \ I mentored some students there. We helped the World Bank and Ofsted (Office\
-    \ of standards for earlier childcare in the UK) with some really exciting data\
-    \ analytics. After that, I decided to join entrepreneur first."
+- line: Then I joined my master’s in the Free University of Amsterdam, which was in
+    artificial intelligence. Since then I fell in love with it and continue doing
+    data science for five years, including at OLX, at another consultancy before,
+    and at another startup before. At OLX I went to OLX-squared, which is the moonshot
+    team of OLX, where you can innovate as much as you want. After that, I joined
+    the data science for social goods in the Alan Turing Institute, which is a research
+    institution in the UK for data science and machine learning. I mentored some students
+    there. We helped the World Bank and Ofsted (Office of standards for earlier childcare
+    in the UK) with some really exciting data analytics. After that, I decided to
+    join entrepreneur first.
   sec: 207
   time: '3:27'
   who: Carmine
@@ -70,20 +66,21 @@ transcript:
   sec: 297
   time: '4:57'
   who: Alexey
-- header: "Carmine\u2019s startup FreshFlow"
+- header: 'FreshFlow Overview: CTO Role and Ordering System Mission'
 - line: So tell us a bit about your startup. What do you do there?
   sec: 306
   time: '5:06'
   who: Alexey
-- line: "I'm the co-founder and the CTO of FreshFlow. FreshFlow is a complete ordering\
-    \ system for supermarkets. We solve the enormous food waste problem that we have\
-    \ in the world. And also make more money for supermarkets and make more money\
-    \ for us. We have this really nice triple bottom line, which makes us a profitable\
-    \ business \u2014 not yet, but we will in the future, hopefully \u2014 and also\
-    \ will make more money for for the supermarkets and benefit the planet."
+- line: I'm the co-founder and the CTO of FreshFlow. FreshFlow is a complete ordering
+    system for supermarkets. We solve the enormous food waste problem that we have
+    in the world. And also make more money for supermarkets and make more money for
+    us. We have this really nice triple bottom line, which makes us a profitable business
+    — not yet, but we will in the future, hopefully — and also will make more money
+    for for the supermarkets and benefit the planet.
   sec: 309
   time: '5:09'
   who: Carmine
+- header: 'Problem Discovery: Supermarket Fresh-Product Challenges & Edeka Pilot'
 - line: Avik, my co-founder, saw a problem when trying to sell to supermarkets another
     computer-vision based solution. He saw that they have a bigger problem, especially
     for fresh products. Fresh products have varying shelf lives. Even the same type
@@ -98,22 +95,23 @@ transcript:
   sec: 346
   time: '5:46'
   who: Carmine
-- header: Doing user research
-- line: "We went there with user research. We learned that at OLX-squared, it was\
-    \ a great experience there working with the designers from Koos. We saw that the\
-    \ fresh product people go there at 6am in the morning. They have a lot of boxes\
-    \ to move around \u2014 they put all the things in place, which takes a couple\
-    \ of hours. Then they start the ordering process for the next day. They calculate\
-    \ what is going to be the demand the next day. They have to think about it in\
-    \ their head. They have to think about weather, seasonality, is there a big event\
-    \ in the town. In the specific town where we're doing the pilot, there is a big\
-    \ ramp to go to the to the supermarket. If that ramp is full of snow, nobody will\
-    \ go to the supermarket. They have all of these things in their heads for 200\
-    \ products. It's insane. It is really an incredible work. I'm amazed it works\
-    \ at all. They're doing a great job. But we are humans, we're not calculators.\
-    \ So we create ordering system, that lives in an iPad app, for all they know.\
-    \ It lives mostly in the cloud, to be honest. It uses machine learning and reinforcement\
-    \ learning to figure out the perfect order."
+- header: 'Customer Discovery: Shadowing Store Teams and Research Methods (The Mom
+    Test)'
+- line: We went there with user research. We learned that at OLX-squared, it was a
+    great experience there working with the designers from Koos. We saw that the fresh
+    product people go there at 6am in the morning. They have a lot of boxes to move
+    around — they put all the things in place, which takes a couple of hours. Then
+    they start the ordering process for the next day. They calculate what is going
+    to be the demand the next day. They have to think about it in their head. They
+    have to think about weather, seasonality, is there a big event in the town. In
+    the specific town where we're doing the pilot, there is a big ramp to go to the
+    to the supermarket. If that ramp is full of snow, nobody will go to the supermarket.
+    They have all of these things in their heads for 200 products. It's insane. It
+    is really an incredible work. I'm amazed it works at all. They're doing a great
+    job. But we are humans, we're not calculators. So we create ordering system, that
+    lives in an iPad app, for all they know. It lives mostly in the cloud, to be honest.
+    It uses machine learning and reinforcement learning to figure out the perfect
+    order.
   sec: 433
   time: '7:13'
   who: Carmine
@@ -145,41 +143,40 @@ transcript:
   sec: 611
   time: '10:11'
   who: Alexey
-- header: Design thinking
-- line: "Yeah, we were shadowing them for a couple of days. We went there for a week.\
-    \ This is how we work in general. It's called \"design thinking\". From my experience\
-    \ with OLX-squared, and with the book \"Design Thinking\" by Curedale \u2014 highly\
-    \ recommend that by the way \u2014 it's very much appreciated by our clients that\
-    \ we do that. We are able to really figure out what are the processes, how things\
-    \ go in the store, and then deliver the solution that they actually need, instead\
-    \ of what we think they need. This is big learning that I had from that experience\
-    \ with OLX-squared. Also, EF push another book, which I also recommend, it's called\
-    \ \"The Mom Test\". I would say it's a much lighter version of \"Design Thinking\"\
-    . It's mostly about how to do sales calls and stuff like that. But it does help\
-    \ you figure out what to ask. You want to ask things that actually make the user\
-    \ tell you all their processes, and not tell you about the solution. Because there's\
-    \ always a difference between what they want and what they need."
+- line: Yeah, we were shadowing them for a couple of days. We went there for a week.
+    This is how we work in general. It's called "design thinking". From my experience
+    with OLX-squared, and with the book "Design Thinking" by Curedale — highly recommend
+    that by the way — it's very much appreciated by our clients that we do that. We
+    are able to really figure out what are the processes, how things go in the store,
+    and then deliver the solution that they actually need, instead of what we think
+    they need. This is big learning that I had from that experience with OLX-squared.
+    Also, EF push another book, which I also recommend, it's called "The Mom Test".
+    I would say it's a much lighter version of "Design Thinking". It's mostly about
+    how to do sales calls and stuff like that. But it does help you figure out what
+    to ask. You want to ask things that actually make the user tell you all their
+    processes, and not tell you about the solution. Because there's always a difference
+    between what they want and what they need.
   sec: 617
   time: '10:17'
   who: Carmine
-- header: Entrepreneur first
 - line: I don't think you just woke up one day and realized "Okay, there is this problem.
     Let's solve it". I'm curious, how did you actually come up with this idea? What
     did the process look like?
   sec: 707
   time: '11:47'
   who: Alexey
-- line: "It was very interesting. I joined entrepreneur first because I wanted to\
-    \ have a startup. I wanted to do it since my bachelor\u2019s. I had a few ideas.\
-    \ I tried to ideate with some people and come up with some ideas for a startup,\
-    \ but it didn't really materialise. The problem is that you're always so busy.\
-    \ We were trying to do it also having a job at the same time. It was really hard.\
-    \ You need to really dedicate your life to find a good idea \u2014 unless you\
-    \ have a good idea already. Also finding a co-founder is really hard. They need\
-    \ to have the same amount of time and the same life circumstances."
+- line: It was very interesting. I joined entrepreneur first because I wanted to have
+    a startup. I wanted to do it since my bachelor’s. I had a few ideas. I tried to
+    ideate with some people and come up with some ideas for a startup, but it didn't
+    really materialise. The problem is that you're always so busy. We were trying
+    to do it also having a job at the same time. It was really hard. You need to really
+    dedicate your life to find a good idea — unless you have a good idea already.
+    Also finding a co-founder is really hard. They need to have the same amount of
+    time and the same life circumstances.
   sec: 727
   time: '12:07'
   who: Carmine
+- header: 'Entrepreneur First Experience: Program Structure and Benefits'
 - line: When I received the call from entrepreneur first, I didn't know about them.
     This was around February 2020 when I was in OLX-squared. I already got the position
     at the Alan Turing Institute. I was really keen on first doing these two things,
@@ -211,7 +208,7 @@ transcript:
   sec: 904
   time: '15:04'
   who: Carmine
-- header: "Finding co-founders: the \u201Cexpertize edges\u201D framework"
+- header: 'Co-founder Matching: "Edges" Framework for Team Formation'
 - line: So, they put you through this training, but I guess that's not the only thing
     they do, right?
   sec: 955
@@ -254,6 +251,7 @@ transcript:
   sec: 1126
   time: '18:46'
   who: Alexey
+- header: 'Mentorship & Investment Committee: Scoring, Feedback, and EF Phases'
 - line: Absolutely. They give you this framework in order to start the conversation
     with the people. If you're domain edge, you will definitely talk about your domain.
     If you're tech end, you talk about that specific thing. If you're a catalyst,
@@ -281,7 +279,6 @@ transcript:
   sec: 1213
   time: '20:13'
   who: Carmine
-- header: The structure of EF program
 - line: 'This entire thing starts in September. In January, you have investment committee.
     EF program is divided in few phases. The first phase is the form phase, which
     takes eight weeks. Here you try to find your co-founder. After the form phase,
@@ -340,7 +337,7 @@ transcript:
   sec: 1326
   time: '22:06'
   who: Carmine
-- line: "I don't know what's more insane \u2014 programming at five or that."
+- line: I don't know what's more insane — programming at five or that.
   sec: 1386
   time: '23:06'
   who: Alexey
@@ -354,7 +351,7 @@ transcript:
   sec: 1428
   time: '23:48'
   who: Carmine
-- header: Coming up with the idea
+- header: 'Idea Evolution: From Computer Vision App to Ordering Solution'
 - line: How, when, and why this idea of your business came to your mind? From what
     I understood about your co-founder, he's doesn't strike me as a person who spent
     his life overseeing a supermarket. How did you actually get this idea?
@@ -372,17 +369,17 @@ transcript:
   sec: 1509
   time: '25:09'
   who: Carmine
-- line: "We were friends from the beginning with Avik. We were always having beers.\
-    \ We were also trying to ideate with other people, obviously. You want to stick\
-    \ to what EF people say \u2014 try to find a business person that started from\
-    \ business. We were talking with a couple of people, but we found that we were\
-    \ ideating much faster with each other. We started ideating about product recognition\
-    \ \u2014 if we could use what he's done in his thesis. We started thinking, \"\
-    We could do something for pricing. We can recognise if products are going bad\"\
-    . I was thinking also in a \"social good\" sense because it's dear to my heart\
-    \ to do something about climate change. It was a big topic between my projects\
-    \ in EF. In the end, we started to see that there are a lot of problems with estimating\
-    \ shelf lives and keeping track of what is going bad."
+- line: We were friends from the beginning with Avik. We were always having beers.
+    We were also trying to ideate with other people, obviously. You want to stick
+    to what EF people say — try to find a business person that started from business.
+    We were talking with a couple of people, but we found that we were ideating much
+    faster with each other. We started ideating about product recognition — if we
+    could use what he's done in his thesis. We started thinking, "We could do something
+    for pricing. We can recognise if products are going bad". I was thinking also
+    in a "social good" sense because it's dear to my heart to do something about climate
+    change. It was a big topic between my projects in EF. In the end, we started to
+    see that there are a lot of problems with estimating shelf lives and keeping track
+    of what is going bad.
   sec: 1575
   time: '26:15'
   who: Carmine
@@ -398,17 +395,18 @@ transcript:
   sec: 1648
   time: '27:28'
   who: Carmine
-- line: "So we went back to the drawing board. We learned from that. First of all,\
-    \ it was hard for people to get another app just to get discounts. It's not enough\
-    \ to have just discounts. Then we learned that it's not that easy to figure out\
-    \ the shelf life of fresh products just using computer vision. So we pivoted.\
-    \ We started thinking and realised, \"Oh wait, I remember this conversation that\
-    \ I had with these people. I remember that wasted stockouts are a huge problem.\"\
-    \ We wanted to avoid all that because our edges are in computer vision \u2014\
-    \ we did a lot of computer vision. But we saw that this could be a much bigger\
-    \ problem. Then we started looking at the numbers about food waste. And it's completely\
-    \ mind-boggling! Just to give you an idea. Food waste is actually accounting for\
-    \ six times more carbon emissions per year, than the entire aviation industry."
+- header: 'Market Opportunity: Food Waste Impact and Competitive Landscape'
+- line: So we went back to the drawing board. We learned from that. First of all,
+    it was hard for people to get another app just to get discounts. It's not enough
+    to have just discounts. Then we learned that it's not that easy to figure out
+    the shelf life of fresh products just using computer vision. So we pivoted. We
+    started thinking and realised, "Oh wait, I remember this conversation that I had
+    with these people. I remember that wasted stockouts are a huge problem." We wanted
+    to avoid all that because our edges are in computer vision — we did a lot of computer
+    vision. But we saw that this could be a much bigger problem. Then we started looking
+    at the numbers about food waste. And it's completely mind-boggling! Just to give
+    you an idea. Food waste is actually accounting for six times more carbon emissions
+    per year, than the entire aviation industry.
   sec: 1714
   time: '28:34'
   who: Carmine
@@ -431,7 +429,7 @@ transcript:
   sec: 1835
   time: '30:35'
   who: Carmine
-- header: How important is going through a startup accelerator?
+- header: 'Accelerator Value: Networking, Validation, and Founder Support'
 - line: Nice. A question from Anika. How important is to go through a startup accelerator?
     Would you be able to do this without entrepreneur first?
   sec: 1859
@@ -458,16 +456,16 @@ transcript:
   sec: 1946
   time: '32:26'
   who: Alexey
-- line: "Yeah. I would say it's still hard. Even though you would have the network,\
-    \ then you need to find a co-founder that is really driving with you. You need\
-    \ to have the time to think about the idea and really develop it \u2014 and try\
-    \ to do it as quickly as possible. That's always the conundrum of being in a startup.\
-    \ You want to always be one step ahead of you are. That requires a lot of time.\
-    \ I'd say without entrepreneur first it would have been really, really hard."
+- line: Yeah. I would say it's still hard. Even though you would have the network,
+    then you need to find a co-founder that is really driving with you. You need to
+    have the time to think about the idea and really develop it — and try to do it
+    as quickly as possible. That's always the conundrum of being in a startup. You
+    want to always be one step ahead of you are. That requires a lot of time. I'd
+    say without entrepreneur first it would have been really, really hard.
   sec: 1973
   time: '32:53'
   who: Carmine
-- header: Finding your first client
+- header: 'First Pilots & Clients: Volg and Edeka Engagements'
 - line: How did you find your first client? Running a pilot with Edeka is awesome.
     Is it your first client?
   sec: 2004
@@ -497,12 +495,13 @@ transcript:
   sec: 2085
   time: '34:45'
   who: Alexey
-- line: "Well, it'd be beneficial. But they bet on us. First of all, we formed the\
-    \ last week of form phase. We had only four weeks to get our narrative together,\
-    \ get the pitch deck, get all of the things together \u2014 all of the possibilities\
-    \ for the future and the business model. Quite a lot of work in a short amount\
-    \ of time. After that, you start building. We started building the algorithms\
-    \ and other things at the same time. It was quite busy anyway."
+- header: 'Sales Cycle Realities: Time to First Client and Pilot Timelines'
+- line: Well, it'd be beneficial. But they bet on us. First of all, we formed the
+    last week of form phase. We had only four weeks to get our narrative together,
+    get the pitch deck, get all of the things together — all of the possibilities
+    for the future and the business model. Quite a lot of work in a short amount of
+    time. After that, you start building. We started building the algorithms and other
+    things at the same time. It was quite busy anyway.
   sec: 2090
   time: '34:50'
   who: Carmine
@@ -525,7 +524,7 @@ transcript:
   sec: 2167
   time: '36:07'
   who: Carmine
-- header: Finding investors
+- header: 'Fundraising Path: EF Investment, Angels, and Demo Day Strategy'
 - line: I also prepared a question about investors. I guess you answered that. So
     entrepreneur first acts as an investor. There is a board and they decide whether
     they should invest in you. Is it the only investor you have?
@@ -593,7 +592,7 @@ transcript:
   sec: 2407
   time: '40:07'
   who: Carmine
-- header: Consequences of having a bad investor
+- header: 'Investor Selection Risks: Term Sheets, Board Dynamics, and Fit'
 - line: You said that there are just investors and there are good investors. What
     could be the consequences of going with a bad investor?
   sec: 2413
@@ -611,7 +610,7 @@ transcript:
   sec: 2464
   time: '41:04'
   who: Carmine
-- header: Splitting responsibilities between co-founders
+- header: 'Founder Roles: Splitting CTO and CEO Responsibilities'
 - line: You have pretty similar profiles. Even though he's more entrepreneurial, both
     of you are engineers. How do you split your responsibilities? What do you do?
     What does he do?
@@ -633,7 +632,7 @@ transcript:
   sec: 2588
   time: '43:08'
   who: Carmine
-- header: Hiring
+- header: 'Hiring Strategy: First Hires, Freelancers, Delegation, and Remote Talent'
 - line: Do you have other people in the company now?
   sec: 2627
   time: '43:47'
@@ -646,7 +645,6 @@ transcript:
   sec: 2630
   time: '43:50'
   who: Carmine
-- header: The importance of delegating
 - line: Since the topic of hiring is already on your mind. How do you decide who to
     hire first? You needed an app, you hired a freelancer. But for a permanent employee,
     how do you decide who to hire first?
@@ -678,7 +676,6 @@ transcript:
   sec: 2785
   time: '46:25'
   who: Carmine
-- header: Making work attractive to hires
 - line: I don't know if you had this problem. But I imagine that you as a startup,
     the package you can offer to candidates is less attractive than what big established
     companies such as Zalando, Amazon or OLX can offer. How can you manage to make
@@ -713,7 +710,7 @@ transcript:
   sec: 2919
   time: '48:39'
   who: Carmine
-- header: Plans for the future
+- header: 'Product Roadmap: Scaling to a Grocery Retail OS and Supply-Chain Expansion'
 - line: Nice. What are your plans for the future?
   sec: 2932
   time: '48:52'
@@ -729,7 +726,7 @@ transcript:
   sec: 2936
   time: '48:56'
   who: Carmine
-- header: Just-in-time supply chain
+- header: 'Forecasting & Just-in-Time Supply Chain: Reducing Waste and Inventory'
 - line: We can have so much impact by having one solution that would enable the just-in-time
     supply chain of Toyota. For example, I need a banana right now, because I'm hungry.
     My system will know, "it's Friday, it's 6pm, Carmine just had a long day and wants
@@ -776,7 +773,8 @@ transcript:
   sec: 3159
   time: '52:39'
   who: Carmine
-- header: What would you have done differently?
+- header: 'Tech Infrastructure Lesson: Kubeflow Challenges and Choosing Managed Cloud
+    (GCP)'
 - line: Would you do anything differently now if you were starting again?
   sec: 3189
   time: '53:09'
@@ -820,7 +818,7 @@ transcript:
   sec: 3337
   time: '55:37'
   who: Carmine
-- header: Advice for people starting a startup
+- header: 'Startup Advice: Resilience, Focus, and Emotional Intelligence'
 - line: Do you have any other advice for people who would like to start building a
     startup now?
   sec: 3351
@@ -835,15 +833,15 @@ transcript:
   sec: 3367
   time: '56:07'
   who: Carmine
-- line: "You struggle at first because you want to have the best clients \u2014 in\
-    \ order to have the best contracts \u2014 in order to have the best investors\
-    \ \u2014 in order to be able to hire the best people. But you're not there yet.\
-    \ And you're always trying to get to that point. It's really hard to cope with\
-    \ all the loads that you put on yourself. Be mindful of that."
+- line: You struggle at first because you want to have the best clients — in order
+    to have the best contracts — in order to have the best investors — in order to
+    be able to hire the best people. But you're not there yet. And you're always trying
+    to get to that point. It's really hard to cope with all the loads that you put
+    on yourself. Be mindful of that.
   sec: 3412
   time: '56:52'
   who: Carmine
-- header: "Don\u2019t focus on skills only"
+- header: 'Hiring Criteria: Prioritizing Motivation and Behavior Over Skills'
 - line: And, I would say, find a co-founder who's on the same page with you, somebody
     you can communicate really well with. They don't have to be the best salesperson
     in the world if they're on the business side. Or they don't have to be the best
@@ -863,28 +861,28 @@ transcript:
   sec: 3470
   time: '57:50'
   who: Carmine
-- header: Getting motivation
+- header: 'Sustaining Motivation: Mission-Driven Work on Food Waste and Climate'
 - line: How do you get continuous motivation to do this stuff in a startup when things
     don't work as good as you expect?
   sec: 3554
   time: '59:14'
   who: Alexey
-- line: "This is kind of in you. I don't know if there is a way to get motivation.\
-    \ For example, I really care about climate change and the food waste problem.\
-    \ It seems to be the underdog of the climate change spectrum of problems. It's\
-    \ right there in front of us, and it is massive \u2014 six times the number of\
-    \ CO2 emissions of the aviation industry. If you think about food waste as a country,\
-    \ in terms of carbon emission it will be the third country in the world. After\
-    \ the US and China, there'll be food waste, and then it will be India with half\
-    \ of the carbon emission of food waste. That's just insane. It seems we have to\
-    \ do this. Also the opportunity space is pretty big. The food retail industry\
-    \ is now the process of digitalization, and the opportunity for companies like\
-    \ ours is great. And then you work with the right people. That's what you need.\
-    \ But motivation comes from the inside \u2014 from what you care about."
+- line: This is kind of in you. I don't know if there is a way to get motivation.
+    For example, I really care about climate change and the food waste problem. It
+    seems to be the underdog of the climate change spectrum of problems. It's right
+    there in front of us, and it is massive — six times the number of CO2 emissions
+    of the aviation industry. If you think about food waste as a country, in terms
+    of carbon emission it will be the third country in the world. After the US and
+    China, there'll be food waste, and then it will be India with half of the carbon
+    emission of food waste. That's just insane. It seems we have to do this. Also
+    the opportunity space is pretty big. The food retail industry is now the process
+    of digitalization, and the opportunity for companies like ours is great. And then
+    you work with the right people. That's what you need. But motivation comes from
+    the inside — from what you care about.
   sec: 3579
   time: '59:39'
   who: Carmine
-- header: Am I ready for a startup?
+- header: 'CTO Readiness: Skill Gaps, Learning, and Using Managed Services'
 - line: 'The next question: "I''m 30 years old. I want to be a CTO in the startup
     that I''m launching with a CEO." I guess, it''s pretty similar to what he did.
     His main focus is machine learning and knows little about front-end development,
@@ -934,7 +932,7 @@ transcript:
   sec: 3781
   time: '1:03:01'
   who: Carmine
-- header: Importance of a business school
+- header: 'MBA Relevance: Business School Not Required for Early-Stage Startups'
 - line: What do you think about the importance of a business school?
   sec: 3825
   time: '1:03:45'
@@ -964,7 +962,7 @@ transcript:
   sec: 3888
   time: '1:04:48'
   who: Carmine
-- header: Advice on finding a co-founder
+- header: 'Co-founder Imperative: Form Phase Advice and Team Formation Timing'
 - line: What happens if you don't find a co-founder?
   sec: 3907
   time: '1:05:07'
@@ -986,7 +984,7 @@ transcript:
   sec: 3917
   time: '1:05:17'
   who: Carmine
-- header: Do I need EF if I already have an idea?
+- header: 'Validating Pre-Existing Ideas: Why EF Helps Even with a Clear Idea'
 - line: Would you recommend starting with EF if you already have a clear idea?
   sec: 3957
   time: '1:05:57'
@@ -1001,7 +999,7 @@ transcript:
   sec: 3969
   time: '1:06:09'
   who: Carmine
-- header: Having a prototype before the pitch
+- header: 'Prototype Before Pitch: Banana Ripeness Demo and Early Technical Traction'
 - line: The last question for today. Did you already have a prototype before your
     pitch?
   sec: 4026
@@ -1029,15 +1027,15 @@ transcript:
   sec: 4098
   time: '1:08:18'
   who: Alexey
-- header: Contacting Carmine
+- header: Contact Details & Episode Closing Remarks
 - line: So the last one. How do people find you?
   sec: 4105
   time: '1:08:25'
   who: Alexey
-- line: "I’m on Twitter @paolino. I'm also on LinkedIn, just search for my name Carmine\
-    \ Paolino. I have a website that I don't update \u2014 paolino.me. Also freshflow.ai\
-    \ is our website for FreshFlow. If you want to email me, my personal email is\
-    \ carmine@paolino.me. If you want to email me for work, it's carmine@freshflow.ai."
+- line: I’m on Twitter @paolino. I'm also on LinkedIn, just search for my name Carmine
+    Paolino. I have a website that I don't update — paolino.me. Also freshflow.ai
+    is our website for FreshFlow. If you want to email me, my personal email is carmine@paolino.me.
+    If you want to email me for work, it's carmine@freshflow.ai.
   sec: 4109
   time: '1:08:29'
   who: Carmine
@@ -1055,7 +1053,144 @@ transcript:
   sec: 4150
   time: '1:09:10'
   who: Alexey
-
+description: Build a Grocery Retail OS to cut supermarket food waste, master JIT supply-chain
+  forecasting, land pilots & investors, and scale your startup faster.
+intro: How do you build a grocery retail OS that actually cuts supermarket food waste
+  while scaling a startup? In this episode, Carmine Paolino — CTO and co-founder of
+  FreshFlow and former programmer/researcher in academia and data science — walks
+  through translating technical expertise into a product that solves fresh-product
+  challenges for retailers. <br><br> We cover FreshFlow’s mission and early problem
+  discovery (including Edeka and Volg pilots), customer discovery techniques like
+  shadowing store teams and The Mom Test, and how their idea evolved from computer
+  vision to an ordering and inventory forecasting platform. Carmine explains Entrepreneur
+  First’s role in co-founder matching and fundraising, pilot timelines and sales cycle
+  realities, and risks around investor selection and board dynamics. He also shares
+  technical lessons (moving off Kubeflow to managed GCP services), hiring priorities,
+  building a product roadmap toward a grocery retail OS, and leveraging just-in-time
+  supply chain and forecasting to reduce food waste. <br><br> Listen to learn practical
+  guidance on pilot programs, prototype-before-pitch validation (banana ripeness demo),
+  co-founder formation, and the operational and technical trade-offs when scaling
+  a startup focused on supermarket food waste reduction.
+dateadded: '2021-08-15'
+duration: PT01H07M24S
+quotableClips:
+- name: Episode Introduction & Guest Overview
+  startOffset: 106
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=106
+  endOffset: 136
+- name: 'Early Career: Programming, Academia, and Data Science'
+  startOffset: 136
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=136
+  endOffset: 306
+- name: 'FreshFlow Overview: CTO Role and Ordering System Mission'
+  startOffset: 306
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=306
+  endOffset: 346
+- name: 'Problem Discovery: Supermarket Fresh-Product Challenges & Edeka Pilot'
+  startOffset: 346
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=346
+  endOffset: 433
+- name: 'Customer Discovery: Shadowing Store Teams and Research Methods (The Mom Test)'
+  startOffset: 433
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=433
+  endOffset: 796
+- name: 'Entrepreneur First Experience: Program Structure and Benefits'
+  startOffset: 796
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=796
+  endOffset: 955
+- name: 'Co-founder Matching: "Edges" Framework for Team Formation'
+  startOffset: 955
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=955
+  endOffset: 1130
+- name: 'Mentorship & Investment Committee: Scoring, Feedback, and EF Phases'
+  startOffset: 1130
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=1130
+  endOffset: 1487
+- name: 'Idea Evolution: From Computer Vision App to Ordering Solution'
+  startOffset: 1487
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=1487
+  endOffset: 1714
+- name: 'Market Opportunity: Food Waste Impact and Competitive Landscape'
+  startOffset: 1714
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=1714
+  endOffset: 1859
+- name: 'Accelerator Value: Networking, Validation, and Founder Support'
+  startOffset: 1859
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=1859
+  endOffset: 2004
+- name: 'First Pilots & Clients: Volg and Edeka Engagements'
+  startOffset: 2004
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2004
+  endOffset: 2090
+- name: 'Sales Cycle Realities: Time to First Client and Pilot Timelines'
+  startOffset: 2090
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2090
+  endOffset: 2200
+- name: 'Fundraising Path: EF Investment, Angels, and Demo Day Strategy'
+  startOffset: 2200
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2200
+  endOffset: 2413
+- name: 'Investor Selection Risks: Term Sheets, Board Dynamics, and Fit'
+  startOffset: 2413
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2413
+  endOffset: 2544
+- name: 'Founder Roles: Splitting CTO and CEO Responsibilities'
+  startOffset: 2544
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2544
+  endOffset: 2627
+- name: 'Hiring Strategy: First Hires, Freelancers, Delegation, and Remote Talent'
+  startOffset: 2627
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2627
+  endOffset: 2932
+- name: 'Product Roadmap: Scaling to a Grocery Retail OS and Supply-Chain Expansion'
+  startOffset: 2932
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=2932
+  endOffset: 3014
+- name: 'Forecasting & Just-in-Time Supply Chain: Reducing Waste and Inventory'
+  startOffset: 3014
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3014
+  endOffset: 3189
+- name: 'Tech Infrastructure Lesson: Kubeflow Challenges and Choosing Managed Cloud
+    (GCP)'
+  startOffset: 3189
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3189
+  endOffset: 3351
+- name: 'Startup Advice: Resilience, Focus, and Emotional Intelligence'
+  startOffset: 3351
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3351
+  endOffset: 3429
+- name: 'Hiring Criteria: Prioritizing Motivation and Behavior Over Skills'
+  startOffset: 3429
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3429
+  endOffset: 3554
+- name: 'Sustaining Motivation: Mission-Driven Work on Food Waste and Climate'
+  startOffset: 3554
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3554
+  endOffset: 3665
+- name: 'CTO Readiness: Skill Gaps, Learning, and Using Managed Services'
+  startOffset: 3665
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3665
+  endOffset: 3825
+- name: 'MBA Relevance: Business School Not Required for Early-Stage Startups'
+  startOffset: 3825
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3825
+  endOffset: 3907
+- name: 'Co-founder Imperative: Form Phase Advice and Team Formation Timing'
+  startOffset: 3907
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3907
+  endOffset: 3957
+- name: 'Validating Pre-Existing Ideas: Why EF Helps Even with a Clear Idea'
+  startOffset: 3957
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=3957
+  endOffset: 4026
+- name: 'Prototype Before Pitch: Banana Ripeness Demo and Early Technical Traction'
+  startOffset: 4026
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=4026
+  endOffset: 4105
+- name: Contact Details & Episode Closing Remarks
+  startOffset: 4105
+  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=4105
+  endOffset: 4044
 ---
 
 

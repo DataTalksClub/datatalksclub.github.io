@@ -13,8 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=ZXNKjrrKU_I
 season: 15
 short: Data Engineering for Fraud Prevention
-title: Data Engineering for Fraud Prevention
+title: 'Retail Fraud Detection with Data Engineering: Real-Time Scoring, Graphs &
+  MLOps'
 transcript:
+- header: Podcast Introduction & Guest Overview (Angela Ramirez)
 - line: This week, we will talk about data engineering and fraud detection. We have
     a very special guest today, Angela. Angela is a data engineer working at Sam's
     Club with their fraud team. She has four years of experience as a data engineer,
@@ -33,7 +35,7 @@ transcript:
   sec: 153
   time: '2:33'
   who: Alexey
-- header: Angela's background
+- header: 'Career Journey: Sephora to Sam''s Club'
 - line: Before we go into our main topic of data engineering and fraud prevention,
     let's start with your background. Can you tell us about your career journey so
     far?
@@ -64,6 +66,7 @@ transcript:
   sec: 213
   time: '3:33'
   who: Alexey
+- header: 'Fraud Detection in Retail: Stolen Cards & Return Abuse'
 - line: Sam's Club is like Costco – it's a wholesale company. It's actually owned
     by Walmart. Walmart is general ecommerce, but Sam's Club would be considered to
     be a wholesale store, where you can buy things in bulk.
@@ -129,7 +132,7 @@ transcript:
   sec: 376
   time: '6:16'
   who: Angela
-- header: Angela's role at Sam's Club
+- header: 'Data Engineering for Fraud: Pipelines, Features, Dashboards'
 - line: So, as a data engineer, what do you do there? You mentioned fraud.
   sec: 382
   time: '6:22'
@@ -170,6 +173,7 @@ transcript:
   sec: 501
   time: '8:21'
   who: Angela
+- header: 'Feature Engineering Workflow: Daily Batches + Real-Time Scoring'
 - line: Okay. So what do you do there? Maybe you can tell us in more detail – what
     kind of… I guess, when it comes to fraud detection, you want to react as quickly
     as possible, right? Your pipelines need to be real-time, right? Maybe you can
@@ -190,7 +194,7 @@ transcript:
   sec: 531
   time: '8:51'
   who: Angela
-- header: The usefulness of knowing ML as a data engineer
+- header: 'MLOps Responsibilities: Model Metrics, Deployment, Monitoring'
 - line: I'm just wondering – in your case, you work with machine learning. Do you
     need to know a lot of machine learning yourself? Or are you more focused on… For
     you, it's more like, “This is the use case and I focus on the data pipeline. I
@@ -217,6 +221,7 @@ transcript:
   sec: 674
   time: '11:14'
   who: Alexey
+- header: 'Team Structure: Data Engineers, ML Engineers, Data Scientists'
 - line: Yes. Yeah.
   sec: 679
   time: '11:19'
@@ -248,7 +253,7 @@ transcript:
   sec: 710
   time: '11:50'
   who: Angela
-- header: Angela's career path
+- header: 'Academic Background: Cognitive Science, NLP, HCI'
 - line: Maybe I forgot, but I don't think you mentioned your background. So what is
     your background? I know that you also do something with NLP, right? I assume your
     background actually does involve machine learning. You know it, but at work, you
@@ -272,6 +277,7 @@ transcript:
   sec: 842
   time: '14:02'
   who: Alexey
+- header: 'Data-Centric Mindset: Why Data Engineering Powers ML'
 - line: Yeah. When I was at Sephora, that was one of the roles that I ended up working
     towards. I think a big reason why I tend to work with data engineering is because
     I really love the importance of data within the ecosystem of NLP and ML. A lot
@@ -303,6 +309,7 @@ transcript:
   sec: 954
   time: '15:54'
   who: Alexey
+- header: 'Career Transition: Process Improvement → Data Analyst → Data Engineer'
 - line: It's interesting, I actually joined as an intern – as a continuous process
     improvement intern. So I worked with... [cross-talk]
   sec: 962
@@ -347,7 +354,6 @@ transcript:
   sec: 1015
   time: '16:55'
   who: Angela
-- header: Transitioning from data analyst to data engineer/system designer
 - line: So it's a bit higher-level work than being a software engineer because you
     need to analyze the whole system and then document it and then understand how
     it works and propose improvements. Okay, this is what you joined to do, but how
@@ -380,6 +386,7 @@ transcript:
   sec: 1146
   time: '19:06'
   who: Alexey
+- header: 'System Design Best Practices: Stakeholders, Timing, Documentation'
 - line: Yeah, it's more of thinking about the overall big picture. I think it's also
     helpful when thinking about things like the timing of data engineering jobs –
     there are a lot of questions you have to ask when you're first working to create
@@ -389,7 +396,6 @@ transcript:
   sec: 1155
   time: '19:15'
   who: Angela
-- header: Best practices for system design and data engineering
 - line: Okay. Well, what we talked about – the system design – I think this falls
     into the category of having good documentation that describes this. The other
     thing you mentioned – knowing who the stakeholders are – is also helpful. I'm
@@ -400,6 +406,7 @@ transcript:
   sec: 1188
   time: '19:48'
   who: Alexey
+- header: 'Data Modeling Decisions: Relational vs Document vs Graph'
 - line: Yeah, absolutely. I think that goes to the type of data that you're hosting,
     how much data you're passing through, whether it's… I think, when you're looking
     at database design, that's where good principles really come in, and understanding
@@ -419,7 +426,7 @@ transcript:
   sec: 1230
   time: '20:30'
   who: Angela
-- header: Working with document databases
+- header: Elasticsearch & Document Indexing for Entity Data
 - line: You mentioned this document database – if the data is more dynamic, then you
     need to document the database (if it's static/relational). I was wondering, what's
     your experience with document databases? Because I heard very mixed messages about
@@ -460,6 +467,7 @@ transcript:
   sec: 1376
   time: '22:56'
   who: Alexey
+- header: 'Graph Databases & SPARQL: Wikidata and Entity Relationships'
 - line: So this would be like Wikidata.
   sec: 1384
   time: '23:04'
@@ -494,7 +502,6 @@ transcript:
   sec: 1459
   time: '24:19'
   who: Angela
-- header: Working with network-based databases
 - line: From what I remember about Wikidata – you have Wikipedia, and the data on
     Wikipedia is not structured. Most of the time, it's just free text somebody put
     – an article about Game of Thrones, the book, for example. In the book, usually,
@@ -561,6 +568,7 @@ transcript:
   sec: 1680
   time: '28:00'
   who: Alexey
+- header: 'Network Features for Fraud: Members, Transactions, Products'
 - line: That would just be relating the members to other members, or relating transactions
     to other transactions using specific correlations that can be similar to one another.
     Let's say we want to get all the transactions and we want to see if maybe there's
@@ -599,7 +607,6 @@ transcript:
   sec: 1877
   time: '31:17'
   who: Angela
-- header: Detecting fraud with a network-based database
 - line: How do you actually know if a transaction is fraudulent? Is there some information
     coming from a bank that says, “Okay, this is a stolen credit card”?
   sec: 1916
@@ -645,6 +652,7 @@ transcript:
   sec: 1995
   time: '33:15'
   who: Angela
+- header: 'Real-Time Decisioning: Front-End Signals for Cashiers & Security'
 - line: Well, I guess here, since it has to be real-time system – you have to be really
     fast – how do you design a system with these requirements in mind, such that when
     somebody tries to pay with a stolen credit card, the security guard can get notified
@@ -663,6 +671,7 @@ transcript:
   sec: 2038
   time: '33:58'
   who: Angela
+- header: 'Hybrid Architecture: Batch Computation with Instant Inference'
 - line: I guess there's a system that tracks all the transactions and puts them somewhere,
     right? You need to have a reliable way of capturing this data and putting it in
     such a way that it's easy to retrieve and store.
@@ -677,7 +686,7 @@ transcript:
   sec: 2102
   time: '35:02'
   who: Angela
-- header: Selecting the database type to work with
+- header: 'Database Selection Criteria: Static Schema vs Dynamic Data'
 - line: Well, I guess there's a lot of stuff that we can go into and a lot of details.
     I don't know if it makes sense to talk about it in a podcast format – it's probably
     very difficult to understand all that. But I'm wondering – in this case, you use
@@ -722,7 +731,7 @@ transcript:
   sec: 2195
   time: '36:35'
   who: Angela
-- header: Neo4j vs Postgres
+- header: 'Graph Visualization for Investigations: Neo4j Use Cases'
 - line: What's your experience with working with Neo4j? I heard things like, “Okay,
     it's a good database, but there are not so many people who have a lot of experience
     working with this database.” Sometimes what happens is when you hit some problem
@@ -768,7 +777,7 @@ transcript:
   sec: 2425
   time: '40:25'
   who: Angela
-- header: The importance of having software engineering knowledge in data engineering
+- header: 'Software Engineering for Data Engineers: Testing & Code Quality (PySpark)'
 - line: Yeah, I imagine. I noticed that there are a few questions from the listeners,
     so I think maybe we should cover them. The first question is, “How much software
     engineering is required when you work as a data engineer?”
@@ -815,7 +824,7 @@ transcript:
   sec: 2588
   time: '43:08'
   who: Angela
-- header: Data quality check tooling
+- header: 'Data Quality Tooling: Great Expectations and Cloud Monitoring'
 - line: Just curious, what kind of tools do you use for these data quality checks?
   sec: 2608
   time: '43:28'
@@ -842,7 +851,7 @@ transcript:
   sec: 2680
   time: '44:40'
   who: Angela
-- header: The greatest challenges in data engineering
+- header: 'Operational Challenges: Job Failures, Schema Changes, Scaling'
 - line: What are the most challenging tasks in data engineering practice?
   sec: 2681
   time: '44:41'
@@ -876,7 +885,6 @@ transcript:
   sec: 2691
   time: '44:51'
   who: Angela
-- header: Debugging and finding the root cause of a failed job
 - line: You mentioned multiple reasons why a job can fail. The first reason is the
     code – there is a bug in your pipeline, in your PySpark job or in your script.
     Then there may be a schema change – there's upstream data that you consume and
@@ -897,6 +905,7 @@ transcript:
   sec: 2816
   time: '46:56'
   who: Alexey
+- header: 'Debugging Playbook: Logs, Runbooks, and Error Documentation'
 - line: Usually, once you actually get accustomed to your jobs and the type of errors
     that you see, there tends to be a trend in how you solve them. I really think
     it comes with experience, because I think when you first start out as a data engineer,
@@ -934,7 +943,7 @@ transcript:
   sec: 3017
   time: '50:17'
   who: Angela
-- header: What kinds of tools Angela uses on a daily basis
+- header: 'Tech Stack Overview: GCP, Dataproc/Databricks, PySpark, Cassandra'
 - line: I think that there was a question that just disappeared. Let me try to remember
     what the question was. “What kind of tools do you use on a daily basis?”
   sec: 3023
@@ -950,6 +959,7 @@ transcript:
   sec: 3037
   time: '50:37'
   who: Angela
+- header: 'Managed vs Serverless Spark: Dataproc, EMR, Serverless Execution'
 - line: Dataproc is a tool from GCP – it's like a Spark cluster?
   sec: 3083
   time: '51:23'
@@ -986,6 +996,7 @@ transcript:
   sec: 3187
   time: '53:07'
   who: Angela
+- header: 'Pandas & PyArrow: Performance Improvements for Big Data'
 - line: I remember when debugging a Spark job, it's not always easy to, first of all,
     make sure that you have enough computers there (enough executors), then select
     the proper machines for the job, then make sure they have enough memory and all
@@ -1009,6 +1020,7 @@ transcript:
   sec: 3239
   time: '53:59'
   who: Angela
+- header: 'Cassandra Use Cases: Scalability, Fault Tolerance, Clusters'
 - line: In a gist, it just became faster because of some internal changes. [Angela
     agrees] That's cool. You also mentioned another tool that you use regularly –
     Cassandra. I'm wondering, what are the use cases for Cassandra? Because for Cassandra,
@@ -1037,7 +1049,7 @@ transcript:
   sec: 3376
   time: '56:16'
   who: Angela
-- header: Working with external data sources
+- header: 'External Data Integration: APIs, Data Contracts, Stability'
 - line: Okay. Well, another question is, “How much of a challenge is it to get data
     from external sources?”
   sec: 3379
@@ -1103,7 +1115,6 @@ transcript:
   sec: 3588
   time: '59:48'
   who: Angela
-- header: Angela's resource recommendations
 - line: Yeah, thank you. Well, maybe the last one before we wrap up. We talked about
     many things. We covered many topics. Are there good resources – it could be courses,
     books, or articles, that you recommend to our listeners if they want to find out
@@ -1111,6 +1122,8 @@ transcript:
   sec: 3596
   time: '59:56'
   who: Alexey
+- header: 'Recommended Resources: Designing Data-Intensive Applications, PySpark,
+    SQL'
 - line: My biggest suggestion – I love the O'Reilly books. I definitely suggest getting
     the data engineering best principles – so more of an overview book. I don't want
     to specifically say a specific book type in case people have their preferences.
@@ -1131,12 +1144,153 @@ transcript:
   sec: 3672
   time: '1:01:12'
   who: Angela
+- header: Episode Wrap-Up & Contact Links
 - line: Okay, Angela, thanks a lot for joining us today. That was really great talking
     with you today. And thanks, everyone, for joining us today – for watching and
     asking questions. I guess that's it for today and have a great rest of your week!
   sec: 3675
   time: '1:01:15'
   who: Alexey
+description: 'Learn retail fraud detection with real-time scoring and MLOps: build
+  data pipelines, graph investigations, and instant cashier decisions to cut losses.'
+intro: How do you build data infrastructure that stops stolen-card transactions and
+  return abuse in real time? In this episode, Angela Ramirez, a Sam’s Club data engineer
+  who moved from Sephora and specializes in machine learning for fraud prevention,
+  walks through the engineering behind retail fraud detection. Drawing on her background
+  in NLP and four years as a data engineer, Angela explains pipelines, feature engineering
+  workflows that combine daily batches with real-time scoring, and the MLOps responsibilities
+  for model metrics, deployment, and monitoring. <br><br> We cover system design best
+  practices—stakeholder alignment, timing, documentation—and data modeling tradeoffs
+  across relational, document (Elasticsearch), and graph databases (SPARQL, Neo4j)
+  to support network features connecting members, transactions, and products. Angela
+  also discusses hybrid architectures for instant inference, tooling like PySpark,
+  Pandas/PyArrow, Cassandra, GCP/Dataproc, and data quality practices (Great Expectations),
+  plus operational debugging and scaling patterns. Listen to learn practical approaches
+  to real-time scoring, graph-powered investigations, and the engineering decisions
+  that make retail fraud detection reliable and actionable.
+dateadded: '2023-10-07'
+duration: PT00H59M19S
+quotableClips:
+- name: Podcast Introduction & Guest Overview (Angela Ramirez)
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=0
+  endOffset: 161
+- name: 'Career Journey: Sephora to Sam''s Club'
+  startOffset: 161
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=161
+  endOffset: 225
+- name: 'Fraud Detection in Retail: Stolen Cards & Return Abuse'
+  startOffset: 225
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=225
+  endOffset: 382
+- name: 'Data Engineering for Fraud: Pipelines, Features, Dashboards'
+  startOffset: 382
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=382
+  endOffset: 504
+- name: 'Feature Engineering Workflow: Daily Batches + Real-Time Scoring'
+  startOffset: 504
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=504
+  endOffset: 588
+- name: 'MLOps Responsibilities: Model Metrics, Deployment, Monitoring'
+  startOffset: 588
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=588
+  endOffset: 679
+- name: 'Team Structure: Data Engineers, ML Engineers, Data Scientists'
+  startOffset: 679
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=679
+  endOffset: 768
+- name: 'Academic Background: Cognitive Science, NLP, HCI'
+  startOffset: 768
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=768
+  endOffset: 854
+- name: 'Data-Centric Mindset: Why Data Engineering Powers ML'
+  startOffset: 854
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=854
+  endOffset: 962
+- name: 'Career Transition: Process Improvement → Data Analyst → Data Engineer'
+  startOffset: 962
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=962
+  endOffset: 1155
+- name: 'System Design Best Practices: Stakeholders, Timing, Documentation'
+  startOffset: 1155
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=1155
+  endOffset: 1230
+- name: 'Data Modeling Decisions: Relational vs Document vs Graph'
+  startOffset: 1230
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=1230
+  endOffset: 1290
+- name: Elasticsearch & Document Indexing for Entity Data
+  startOffset: 1290
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=1290
+  endOffset: 1384
+- name: 'Graph Databases & SPARQL: Wikidata and Entity Relationships'
+  startOffset: 1384
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=1384
+  endOffset: 1755
+- name: 'Network Features for Fraud: Members, Transactions, Products'
+  startOffset: 1755
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=1755
+  endOffset: 2014
+- name: 'Real-Time Decisioning: Front-End Signals for Cashiers & Security'
+  startOffset: 2014
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2014
+  endOffset: 2086
+- name: 'Hybrid Architecture: Batch Computation with Instant Inference'
+  startOffset: 2086
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2086
+  endOffset: 2133
+- name: 'Database Selection Criteria: Static Schema vs Dynamic Data'
+  startOffset: 2133
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2133
+  endOffset: 2291
+- name: 'Graph Visualization for Investigations: Neo4j Use Cases'
+  startOffset: 2291
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2291
+  endOffset: 2450
+- name: 'Software Engineering for Data Engineers: Testing & Code Quality (PySpark)'
+  startOffset: 2450
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2450
+  endOffset: 2608
+- name: 'Data Quality Tooling: Great Expectations and Cloud Monitoring'
+  startOffset: 2608
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2608
+  endOffset: 2681
+- name: 'Operational Challenges: Job Failures, Schema Changes, Scaling'
+  startOffset: 2681
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2681
+  endOffset: 2901
+- name: 'Debugging Playbook: Logs, Runbooks, and Error Documentation'
+  startOffset: 2901
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=2901
+  endOffset: 3023
+- name: 'Tech Stack Overview: GCP, Dataproc/Databricks, PySpark, Cassandra'
+  startOffset: 3023
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3023
+  endOffset: 3083
+- name: 'Managed vs Serverless Spark: Dataproc, EMR, Serverless Execution'
+  startOffset: 3083
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3083
+  endOffset: 3198
+- name: 'Pandas & PyArrow: Performance Improvements for Big Data'
+  startOffset: 3198
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3198
+  endOffset: 3297
+- name: 'Cassandra Use Cases: Scalability, Fault Tolerance, Clusters'
+  startOffset: 3297
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3297
+  endOffset: 3379
+- name: 'External Data Integration: APIs, Data Contracts, Stability'
+  startOffset: 3379
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3379
+  endOffset: 3600
+- name: 'Recommended Resources: Designing Data-Intensive Applications, PySpark, SQL'
+  startOffset: 3600
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3600
+  endOffset: 3675
+- name: Episode Wrap-Up & Contact Links
+  startOffset: 3675
+  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3675
+  endOffset: 3559
 ---
 
 Links:

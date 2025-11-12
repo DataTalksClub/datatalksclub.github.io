@@ -1171,7 +1171,7 @@ transcript:
   time: '1:01:36'
   who: Alexey
 intro: 'How do you build an open-source data company that helps Python developers
-  turn messy JSON into reliable relational tables? In this episode Adrian Brudaru
+  turn messy JSON into reliable relational tables? In this episode, Adrian Brudaru
   — an economics-trained, Berlin-based founder who moved from startups to freelancing
   and now co‑founded a data tooling company — walks through the journey of launching
   developer-focused open‑source software for data engineering. <br><br> We cover why
@@ -1189,6 +1189,129 @@ intro: 'How do you build an open-source data company that helps Python developer
   without prematurely becoming a platform.'
 description: Discover building open-source JSON-to-Relational data pipelines in Python,
   practical DLT patterns, anti-pattern fixes, bootstrap tips to speed adoption.
+dateadded: '2023-12-18'
+duration: PT00H59M43S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=0
+  endOffset: 113
+- name: 'Episode Overview: Building an Open‑Source Data Company'
+  startOffset: 113
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=113
+  endOffset: 199
+- name: 'Career Origins: 2012 Berlin Startups and Corporate Exit'
+  startOffset: 199
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=199
+  endOffset: 243
+- name: 'Freelancing Experience: Autonomy, Savings, Diverse Projects'
+  startOffset: 243
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=243
+  endOffset: 320
+- name: From Hourly Billing to Project-Based Work and Subcontracting
+  startOffset: 320
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=320
+  endOffset: 438
+- name: 'Freelancing Lifestyle: Flexibility and Long‑Term Boredom'
+  startOffset: 438
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=438
+  endOffset: 526
+- name: 'Subcontracting Growth: Agency‑like Management Tradeoffs'
+  startOffset: 526
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=526
+  endOffset: 651
+- name: 'Agency Challenges: Responsibility, Incentives, and Misalignment'
+  startOffset: 651
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=651
+  endOffset: 751
+- name: Choosing Product Building Over Growing an Agency
+  startOffset: 751
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=751
+  endOffset: 822
+- name: 'Recurring Pain: Stakeholder Alignment vs Technical Setup'
+  startOffset: 822
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=822
+  endOffset: 976
+- name: 'Target Users: Empowering Python Users with Dev Tooling'
+  startOffset: 976
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=976
+  endOffset: 1071
+- name: 'Anti‑patterns: Dumping JSON into Data Warehouses'
+  startOffset: 1071
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=1071
+  endOffset: 1178
+- name: 'DLT Concept: Declarative JSON→Relational Transformation'
+  startOffset: 1178
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=1178
+  endOffset: 1410
+- name: 'Product Iteration: Engine, Abstractions, and User Feedback'
+  startOffset: 1410
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=1410
+  endOffset: 1523
+- name: 'Team Formation: Meeting Co‑founders Through Projects'
+  startOffset: 1523
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=1523
+  endOffset: 1659
+- name: 'Founding as Investment: Time, Risk, and Opportunity Cost'
+  startOffset: 1659
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=1659
+  endOffset: 1868
+- name: 'Bootstrapping Strategy: Savings, Consulting Revenue, and Payroll'
+  startOffset: 1868
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=1868
+  endOffset: 2060
+- name: 'Scrappy Operations: Office Squatting and Cost Management'
+  startOffset: 2060
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=2060
+  endOffset: 2160
+- name: 'Workshop Validation: Teaching as a Product Feedback Loop'
+  startOffset: 2160
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=2160
+  endOffset: 2248
+- name: 'Workshop Design: Checkpoints, Live Support, and CodeSpaces'
+  startOffset: 2248
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=2248
+  endOffset: 2450
+- name: 'Product Identity: DLT as a Developer‑Focused Library'
+  startOffset: 2450
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=2450
+  endOffset: 2483
+- name: 'Documentation Investment: When Docs Become Productive Assets'
+  startOffset: 2483
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=2483
+  endOffset: 2640
+- name: 'Product–Market Fit Signals: Core Adoption and Removal Test'
+  startOffset: 2640
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=2640
+  endOffset: 2876
+- name: 'Current Focus: Leading Go‑to‑Market and Bottom‑Up Strategy'
+  startOffset: 2876
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=2876
+  endOffset: 3053
+- name: 'Ecosystem Partnerships: DocDB Integration and Joint Demos'
+  startOffset: 3053
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=3053
+  endOffset: 3310
+- name: 'Roadmap: Paid Complement to the Open‑Source Library'
+  startOffset: 3310
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=3310
+  endOffset: 3430
+- name: 'Source Generation Experiments: OpenAPI Generators for Pipelines'
+  startOffset: 3430
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=3430
+  endOffset: 3491
+- name: 'Positioning vs Platforms: Library‑First vs Airbyte/Fivetran'
+  startOffset: 3491
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=3491
+  endOffset: 3641
+- name: 'Recommended Reading: "From Survival to Thrival" on PMF'
+  startOffset: 3641
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=3641
+  endOffset: 3656
+- name: Episode Wrap‑Up and Next Steps
+  startOffset: 3656
+  url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=3656
+  endOffset: 3583
 ---
 Links:
 

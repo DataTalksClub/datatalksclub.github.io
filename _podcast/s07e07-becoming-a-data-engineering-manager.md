@@ -2,8 +2,24 @@
 episode: 7
 guests:
 - 16rahuljain
-description: "Learn how to become a data engineering manager. Discover hiring strategies, interview techniques, data reconciliation, GDPR compliance, ELT vs ETL approaches, and how to balance hands-on work with people management."
-intro: "In this episode, Rahul Jain—Senior Solutions Engineer at Snowflake and former Data Engineering Manager—shares his journey from ETL developer to leading data teams at enterprise scale. He explains how to balance technical depth with people management, build trust, and cultivate a strong data culture. Rahul covers essential skills like SQL, Python, CI/CD, and business acumen, while discussing modern challenges such as GDPR compliance, ELT modeling, and data lineage. You'll learn how to grow from individual contributor to data leader and keep evolving in the rapidly changing data landscape."
+description: Learn to scale ETL to ELT and build resilient data platforms—gain leadership
+  skills, stakeholder management, data quality metrics and hiring tips.
+intro: 'How do you lead a data engineering team to scale ETL into ELT, build a robust
+  data platform, and maintain data quality as you grow? In this episode, Rahul Jain
+  — a data engineering manager at Siemens with 12+ years in data and three years in
+  management — walks through that transition from ETL developer to IoT data platform
+  lead and what leadership looks like in practice. <br><br> We cover practical topics
+  like migrating ETL to ELT architectures, data lake and data lineage design, and
+  end-to-end pipeline patterns (ingestion, central hub, exposure, monitoring). Rahul
+  discusses stakeholder management, prioritization, hands-on technical credibility,
+  balancing individual contributor work with people management, and onboarding strategies
+  to build trust and delegate effectively. He shares approaches for measuring success
+  (data culture, consumers served, data quality), detecting data reconciliation issues,
+  GDPR tactics like dynamic data masking and role‑based access, and how to evaluate
+  new tools (example: Prefect). Hiring, interview screening, and essential skills
+  (SQL, Python, CI/CD, cloud) are also explored. <br><br> Listen to gain concrete
+  leadership and technical guidance for scaling data platforms, improving throughput,
+  and enabling your team to deliver reliable, compliant data products.'
 topics:
 - data engineering
 - career growth
@@ -19,8 +35,10 @@ links:
   youtube: https://www.youtube.com/watch?v=FljnbUQ796w
 season: 7
 short: Becoming a Data Engineering Manager
-title: "Becoming a Data Engineering Manager: Leadership, Skills & Career Lessons"
+title: 'Data Engineering Leadership: Scale ETL to ELT, Build Robust Data Platforms
+  & Teams'
 transcript:
+- header: Podcast Introduction
 - line: This week, we'll talk about becoming a data engineering manager. We have a
     special guest today, Rahul. Rahul has over 12 years of experience in data and
     engineering. He has been a manager for the last two, almost three years. Now he
@@ -38,7 +56,7 @@ transcript:
   sec: 103
   time: '1:43'
   who: Alexey
-- header: "Career Journey: ETL Developer to Data Engineering Manager"
+- header: 'Rahul''s Career Path: From ETL Developer to IoT Data Platform Lead'
 - line: Yeah. So first of all, thanks, everyone, for joining. And thanks, Alexey,
     for inviting me. Yeah, I started my career somewhere in 2010 – 12 years back and
     started as a traditional ETL developer. I was working with databases (relational
@@ -61,7 +79,7 @@ transcript:
   sec: 116
   time: '1:56'
   who: Rahul
-- header: "Data Engineering: ETL Basics, New Skills, Open Source Shift"
+- header: ETL Foundations to Big Data and Open Source Tooling
 - line: That's a pretty cool journey. Your journey into what we call today "data engineering"
     started with cloud adoption, right? You saw that many companies started to use
     cloud and this is when you turned to the transition from ETL developer to a data
@@ -89,7 +107,7 @@ transcript:
   sec: 281
   time: '4:41'
   who: Rahul
-- header: "Data Engineering Manager: People, Stakeholders, Prioritization"
+- header: 'Data Engineering Leadership: Stakeholder Management & Prioritization'
 - line: Okay. Yeah, thanks. So let's talk about data engineering managers. What do
     they do and why do we need them?
   sec: 292
@@ -136,7 +154,7 @@ transcript:
   sec: 444
   time: '7:24'
   who: Rahul
-- header: "Necessity of DEM Role; Technical Expertise & Hands-on Work"
+- header: 'Technical Credibility: Hands-on Management and Code-Level Involvement'
 - line: Yeah. I guess it's helpful for data engineers to have a manager who is also
     a data engineer, or at least someone who can relate to the problems they have.
     This way, they can think about the best way to approach their development and
@@ -163,6 +181,7 @@ transcript:
   sec: 483
   time: '8:03'
   who: Rahul
+- header: 'Time Allocation: Balancing Individual Contributor Work with People Management'
 - line: How do you find time to actually do this? How large is your team – how many
     people do you manage?
   sec: 534
@@ -172,7 +191,6 @@ transcript:
   sec: 539
   time: '8:59'
   who: Rahul
-- header: "Balancing Managerial and Individual Contributor Roles"
 - line: '[laughs] How do you find time? I guess if you just have one-on-ones with
     everyone on the team, half a week is already gone. So how do you manage to find
     time to actually work on hands-on activities?'
@@ -208,7 +226,7 @@ transcript:
   sec: 633
   time: '10:33'
   who: Alexey
-- header: "Management Transition: Organic Growth; Business Acumen Qualities"
+- header: 'Transition into Management: Business Acumen and Seeing the Bigger Picture'
 - line: How did you become a data engineering manager? How did it happen for you?
   sec: 669
   time: '11:09'
@@ -245,7 +263,7 @@ transcript:
   sec: 776
   time: '12:56'
   who: Alexey
-- header: "Essential Qualities: Empathy, Technical Skills, Upholding Standards"
+- header: 'Core Manager Traits: Empathy, Situational Awareness, and Quality Standards'
 - line: Well, I think these are the essential ingredients, but one thing that I forgot
     to mention is about people skills. That is most important. In one word, I would
     say "empathy". That is something that is more of a behavioral factor. So whether
@@ -276,7 +294,7 @@ transcript:
   sec: 847
   time: '14:07'
   who: Rahul
-- header: "The Importance of Updating Your Skill Set"
+- header: 'Continuous Learning: Evaluating New Tools and Prototypes (example: Prefect)'
 - line: Okay, so let's say for an example – right now you heard that there is a tool
     called Prefect, which might be nicer and then maybe you allocate some time to
     give it a try. Then you see how it is different from the current technologies
@@ -309,7 +327,7 @@ transcript:
   sec: 971
   time: '16:11'
   who: Rahul
-- header: "Manager Transition: Initial Challenges, Trust, and Assertiveness"
+- header: 'Onboarding Challenges: Building Trust, Prioritization, and Delegation'
 - line: So you had this chat with your manager and he told you, "Hey, you're doing
     such a good job as a data engineer, how about becoming a manager?" Your first
     reaction was "Why me?" But then I guess it took some time for you to think about
@@ -416,13 +434,14 @@ transcript:
   sec: 1301
   time: '21:41'
   who: Rahul
-- header: "Setting Expectations: Committed vs. Aspirational Team Goals"
 - line: And how do you set clear expectations for a team? Let's say you have a team
     that works on a data platform for IoT. How do you set expectations for them? How
     do you understand what the team's purposes are?
   sec: 1375
   time: '22:55'
   who: Alexey
+- header: 'Expectation Framework: Non‑Negotiable Deliverables vs. Stretch (Aspirational)
+    Goals'
 - line: Yeah, it took quite some time to build the framework to set this because the
     nature of businesses changes very dynamically and you will have the requirements
     that change very often. What I did and we did as an organization and as a team
@@ -448,7 +467,7 @@ transcript:
   sec: 1395
   time: '23:15'
   who: Rahul
-- header: "Success Measures: Cultivating Data Culture; Use Cases Served"
+- header: 'Measuring Success: Data Culture, Consumers Served, and Data Quality Metrics'
 - line: Thanks. We have a related question from Lok. The question is "What are the
     success measures of a data engineering team?"
   sec: 1504
@@ -492,7 +511,7 @@ transcript:
   sec: 1623
   time: '27:03'
   who: Rahul
-- header: "Tool: Data Reconciliation; GDPR Compliance & Data Masking"
+- header: 'Data Reconciliation: Detecting Losses Between Sources and Targets'
 - line: Yeah, that's a good one. What is data reconciliation?
   sec: 1684
   time: '28:04'
@@ -524,7 +543,7 @@ transcript:
   sec: 1726
   time: '28:46'
   who: Rahul
-- header: "GDPR Compliance: Dynamic Data Masking, Role-Based Access Control"
+- header: 'GDPR Strategies: Dynamic Data Masking and Role-Based Access Control'
 - line: There is a question that is related, I think, to the data platform. “Data
     engineering is moving towards full automation with data versioning and managed
     model serving – how do you solve GDPR compliance issues and bring stakeholders
@@ -556,7 +575,7 @@ transcript:
   sec: 1845
   time: '30:45'
   who: Rahul
-- header: "Big Data Modeling: Transition from ETL to ELT, Data Lineage"
+- header: 'Modeling at Scale: Moving from ETL to ELT, Data Lake, and Data Lineage'
 - line: Yeah, nice. Thanks. Another question from Nishikant is, "How do you handle
     data modeling for big data? Do you do Agile or something like this to handle evolving
     requirements?"
@@ -608,7 +627,7 @@ transcript:
   sec: 1995
   time: '33:15'
   who: Rahul
-- header: "Advice: Prioritizing Business View, Empathy, Enabling Team Growth"
+- header: 'Manager Transition Advice: Prioritize Business Impact and Enable Team Growth'
 - line: Okay. Back to our topic of data engineering management – there are still a
     few things I wanted to ask you. What would you suggest to somebody who is transitioning
     right now into an engineering management role and specifically to a data engineering
@@ -637,7 +656,7 @@ transcript:
   sec: 2042
   time: '34:02'
   who: Rahul
-- header: "Staying Current: Self-Reinvention, Automating Monotonous Work"
+- header: 'Sustaining Relevance: Automate Monotony and Improve Throughput'
 - line: That was actually the question that I wanted to ask you – how exactly do you
     enable team members? One thing is to be on top of the latest trends. How do you
     actually do this? How do you stay on top of trends? I'm a data scientist and in
@@ -691,7 +710,7 @@ transcript:
   sec: 2292
   time: '38:12'
   who: Alexey
-- header: "Core Skills: Business Acumen, Ownership, SQL, Python, CI/CD"
+- header: 'Essential Data Engineering Skills: SQL, Python, CI/CD, Cloud, and Ownership'
 - line: In your opinion, what are the qualities and skills that people in the data
     team should know? You manage a team as a manager – what qualities should the team
     have?
@@ -732,7 +751,7 @@ transcript:
   sec: 2445
   time: '40:45'
   who: Rahul
-- header: "Hiring: Communication; Explaining Projects in Five Minutes"
+- header: 'Interview Screening: Communicating Projects Clearly in Five Minutes'
 - line: Okay. Technology-wise, you said that the non-negotiable minimum in SQL, knowing
     what ETL is, knowing what a data warehouse is, one scripting language like Python,
     knowing the concept of CI/CD, and knowing a cloud platform. That's the technology
@@ -793,7 +812,7 @@ transcript:
   sec: 2663
   time: '44:23'
   who: Alexey
-- header: "Interview Strategy: Hypotheticals, Gauging Potential, Due Diligence"
+- header: 'Hiring Assessment: Hypotheticals, Leadership Traits, and Future Potential'
 - line: Initially, I did part of the technical screening as well, but these days I
     focus more on the hiring manager round. Somebody from my team or the PR team does
     the technical discussions. If that goes through, then the hiring manager round
@@ -836,6 +855,7 @@ transcript:
   sec: 2823
   time: '47:03'
   who: Rahul
+- header: 'Top Hires: Due Diligence, Cultural Fit, and Assertiveness'
 - line: Okay. Can you tell us about your best hire?
   sec: 2833
   time: '47:13'
@@ -875,7 +895,7 @@ transcript:
   sec: 2968
   time: '49:28'
   who: Rahul
-- header: "Spotting Buzzwords: Asking for Technology Context & Basic Concepts"
+- header: 'Filtering Buzzwords: Ask for Context, Alternatives, and Real Use Cases'
 - line: There is a quite related question from Fredrik. The question is about hiring
     data engineers. I also saw this in my work. We often get candidates who just put
     a lot of buzzwords in their CVs, like "big data," "security," and "scalable."
@@ -961,7 +981,7 @@ transcript:
   sec: 3263
   time: '54:23'
   who: Rahul
-- header: "Student Advice: Focus on Basics (SQL, Python, DBMS)"
+- header: 'Advice for Students: Master DBMS, SQL, and Fundamentals Over Specific Tools'
 - line: Yeah. That makes sense. There is a question from Krushal, who I think is a
     second-year student. The question is, "What would you suggest acing in order to
     become a data engineer?"
@@ -1012,7 +1032,7 @@ transcript:
   sec: 3394
   time: '56:34'
   who: Rahul
-- header: "End-to-End DE: Data Ingestion, Centralized Hub, Consumer Exposure"
+- header: 'End-to-End Data Pipeline Overview: Ingestion, Central Hub, Exposure, Monitoring'
 - line: There is one question and probably the last one, because I see we should be
     wrapping up. This question has seven upvotes, so I think I have to ask it. A question
     from Akshay is, "I want to know the real world end-to-end process of how a data
@@ -1056,6 +1076,7 @@ transcript:
   sec: 3476
   time: '57:56'
   who: Rahul
+- header: Closing Remarks and Connect with Rahul on LinkedIn
 - line: Yeah, thanks a lot. What's the best way to find you if somebody has questions?
     Is it LinkedIn or are there other ways?
   sec: 3599
@@ -1084,4 +1105,108 @@ transcript:
   sec: 3650
   time: '1:00:50'
   who: Rahul
+dateadded: '2022-03-06'
+duration: PT00H59M31S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=0
+  endOffset: 116
+- name: 'Rahul''s Career Path: From ETL Developer to IoT Data Platform Lead'
+  startOffset: 116
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=116
+  endOffset: 212
+- name: ETL Foundations to Big Data and Open Source Tooling
+  startOffset: 212
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=212
+  endOffset: 292
+- name: 'Data Engineering Leadership: Stakeholder Management & Prioritization'
+  startOffset: 292
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=292
+  endOffset: 447
+- name: 'Technical Credibility: Hands-on Management and Code-Level Involvement'
+  startOffset: 447
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=447
+  endOffset: 534
+- name: 'Time Allocation: Balancing Individual Contributor Work with People Management'
+  startOffset: 534
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=534
+  endOffset: 669
+- name: 'Transition into Management: Business Acumen and Seeing the Bigger Picture'
+  startOffset: 669
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=669
+  endOffset: 795
+- name: 'Core Manager Traits: Empathy, Situational Awareness, and Quality Standards'
+  startOffset: 795
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=795
+  endOffset: 894
+- name: 'Continuous Learning: Evaluating New Tools and Prototypes (example: Prefect)'
+  startOffset: 894
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=894
+  endOffset: 992
+- name: 'Onboarding Challenges: Building Trust, Prioritization, and Delegation'
+  startOffset: 992
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=992
+  endOffset: 1395
+- name: 'Expectation Framework: Non‑Negotiable Deliverables vs. Stretch (Aspirational)
+    Goals'
+  startOffset: 1395
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=1395
+  endOffset: 1504
+- name: 'Measuring Success: Data Culture, Consumers Served, and Data Quality Metrics'
+  startOffset: 1504
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=1504
+  endOffset: 1684
+- name: 'Data Reconciliation: Detecting Losses Between Sources and Targets'
+  startOffset: 1684
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=1684
+  endOffset: 1741
+- name: 'GDPR Strategies: Dynamic Data Masking and Role-Based Access Control'
+  startOffset: 1741
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=1741
+  endOffset: 1850
+- name: 'Modeling at Scale: Moving from ETL to ELT, Data Lake, and Data Lineage'
+  startOffset: 1850
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=1850
+  endOffset: 2019
+- name: 'Manager Transition Advice: Prioritize Business Impact and Enable Team Growth'
+  startOffset: 2019
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2019
+  endOffset: 2138
+- name: 'Sustaining Relevance: Automate Monotony and Improve Throughput'
+  startOffset: 2138
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2138
+  endOffset: 2316
+- name: 'Essential Data Engineering Skills: SQL, Python, CI/CD, Cloud, and Ownership'
+  startOffset: 2316
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2316
+  endOffset: 2460
+- name: 'Interview Screening: Communicating Projects Clearly in Five Minutes'
+  startOffset: 2460
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2460
+  endOffset: 2688
+- name: 'Hiring Assessment: Hypotheticals, Leadership Traits, and Future Potential'
+  startOffset: 2688
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2688
+  endOffset: 2833
+- name: 'Top Hires: Due Diligence, Cultural Fit, and Assertiveness'
+  startOffset: 2833
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2833
+  endOffset: 2975
+- name: 'Filtering Buzzwords: Ask for Context, Alternatives, and Real Use Cases'
+  startOffset: 2975
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=2975
+  endOffset: 3274
+- name: 'Advice for Students: Master DBMS, SQL, and Fundamentals Over Specific Tools'
+  startOffset: 3274
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=3274
+  endOffset: 3449
+- name: 'End-to-End Data Pipeline Overview: Ingestion, Central Hub, Exposure, Monitoring'
+  startOffset: 3449
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=3449
+  endOffset: 3599
+- name: Closing Remarks and Connect with Rahul on LinkedIn
+  startOffset: 3599
+  url: https://www.youtube.com/watch?v=FljnbUQ796w&t=3599
+  endOffset: 3571
 ---

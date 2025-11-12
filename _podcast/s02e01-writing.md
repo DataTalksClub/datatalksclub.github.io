@@ -1,26 +1,123 @@
 ---
-title: "The Importance of Writing in a Tech Career"
-short: "The Importance of Writing in a Tech Career"
-guests: [eugeneyan]
-
+title: 'Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career'
+short: 'Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career'
+guests:
+- eugeneyan
 image: images/podcast/s02e01-writing.jpg
-
-description: "Learn why technical writing is crucial for career growth in data science and ML. Eugene Yan shares his 7-day writing process, tips for documentation, and how writing helped him transition from psychology to Amazon Applied Scientist."
-
-keywords: "technical writing, data science career, ML engineer writing, documentation skills, technical communication, data science blog, career growth, writing process, Amazon data scientist, Eugene Yan, technical documentation, data science portfolio, ML career advice, technical writing tips, data science writing"
-
+description: 'Master technical writing for data science with a practical 7-day workflow:
+  outline-first cadence, portfolio tips, docs & distribution to accelerate your career.'
+keywords: technical writing, data science career, ML engineer writing, documentation
+  skills, technical communication, data science blog, career growth, writing process,
+  Amazon data scientist, Eugene Yan, technical documentation, data science portfolio,
+  ML career advice, technical writing tips, data science writing
 season: 2
 episode: 1
-
 ids:
   youtube: vXWGd7olv3c
   anchor: The-Importance-of-Writing-in-a-Tech-Career---Eugene-Yan-ep17du
-
 links:
   youtube: https://www.youtube.com/watch?v=vXWGd7olv3c
   anchor: https://anchor.fm/datatalksclub/episodes/The-Importance-of-Writing-in-a-Tech-Career---Eugene-Yan-ep17du
   spotify: TODO
   apple: TODO
+intro: How can technical writing accelerate your data science career in just one week?
+  In this episode, Eugene Yan — an Applied Scientist at Amazon who previously led data
+  science teams at Lazada and uCare.ai and writes about ML in production and career
+  growth — walks through a practical, repeatable 7-day workflow for technical writing
+  tailored to data scientists. <br><br> We cover Eugene’s career transition and first
+  public writing, motivations for sharing work, and how to target readers (peers,
+  future teammates, and hiring managers). He frames writing as a product with a weekly
+  shipping cadence, explains the outline-first method for filtering ideas, and outlines
+  a realistic time budget and editing limits. You’ll get concrete guidance on idea
+  sourcing, title crafting, article length, blogging tools (Medium, Substack, WordPress,
+  Jekyll), writing habits, distribution via Twitter and LinkedIn, and writing at work
+  (press releases, design docs, decision logs). Practical portfolio advice — clear
+  README, quick start, repo tour — and tips to iterate outlines and ship weekly round
+  out the episode. <br><br> Listen to learn a concrete 7-day workflow, documentation
+  and portfolio best practices, and distribution tactics to boost your technical writing
+  and advance your data science career.
+dateadded: '2021-02-23'
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=0
+  endOffset: 100
+- name: 'Career Transition: Psychology to Applied Scientist'
+  startOffset: 100
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=100
+  endOffset: 360
+- name: 'First Public Writing: Early Blog Posts and Meetups'
+  startOffset: 360
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=360
+  endOffset: 570
+- name: 'Writing Motivations: Share, Learn, Be a Beacon'
+  startOffset: 570
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=570
+  endOffset: 840
+- name: 'Audience Targeting: Readers, Peers, and Future Teammates'
+  startOffset: 840
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=840
+  endOffset: 990
+- name: 'Writing as Product: Weekly Shipping and UX Mindset'
+  startOffset: 990
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=990
+  endOffset: 1200
+- name: 'Weekly Writing Cadence: 7-Day Workflow and Schedule'
+  startOffset: 1200
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=1200
+  endOffset: 1500
+- name: 'Outline-First Method: Memory Rewriting and Idea Filtering'
+  startOffset: 1500
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=1500
+  endOffset: 1740
+- name: 'Time Budget & Editing: 25 Hours/Week and Avoiding Over-Editing'
+  startOffset: 1740
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=1740
+  endOffset: 1980
+- name: Idea Sources and Topic Prioritization for Technical Writing
+  startOffset: 1980
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=1980
+  endOffset: 2220
+- name: Title Crafting and Article Length Decisions
+  startOffset: 2220
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=2220
+  endOffset: 2460
+- name: 'Getting Started: Start Writing, Overcome Friction'
+  startOffset: 2460
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=2460
+  endOffset: 2610
+- name: 'Blogging Tools: Medium, Substack, WordPress, Jekyll (GitHub Pages)'
+  startOffset: 2610
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=2610
+  endOffset: 2760
+- name: 'Writing Habits: Morning Reps and Weekend Deep Work'
+  startOffset: 2760
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=2760
+  endOffset: 2910
+- name: 'Audience Growth: Distribution via Twitter, LinkedIn, Consistency'
+  startOffset: 2910
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=2910
+  endOffset: 3060
+- name: 'Writing at Work: Press Release, Working Backwards, and Design Docs'
+  startOffset: 3060
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=3060
+  endOffset: 3240
+- name: 'Technical Documentation: Decision Logs, Rationales, and Team Memory'
+  startOffset: 3240
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=3240
+  endOffset: 3390
+- name: 'Portfolio Best Practices: Clear README, Quick Start, Repo Tour'
+  startOffset: 3390
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=3390
+  endOffset: 3510
+- name: 'Practical Tips: Iterate Outlines, Ship Weekly, Learn by Teaching'
+  startOffset: 3510
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=3510
+  endOffset: 3630
+- name: Podcast Wrap-Up and Resources
+  startOffset: 3630
+  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=3630
+  endOffset: 3630
 ---
 
 Today we're discussing technical writing, logging, documentation, and more. Our special guest is [Eugene Yan](/people/eugeneyan). Eugene works at the intersection of machine learning and product, building pragmatic ML systems while writing and speaking about effective data science, ML in production, and career growth.

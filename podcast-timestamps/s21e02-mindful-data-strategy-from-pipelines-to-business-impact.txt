@@ -1,0 +1,28 @@
+00:00:00 Podcast Introduction and Episode Overview (mindful data strategy)
+00:02:24 Lior Barak: Background and shift from engineering to product
+00:04:06 Startup and platform experience: automating data infrastructure
+00:06:25 Product management learning paths for engineers and data scientists
+00:08:20 Wabi‑sabi applied to data: accepting imperfection and communicating it
+00:09:48 Data trust crisis: industry stats and common trust failures
+00:11:47 Generative AI and hallucinations: managing expectations for models
+00:14:09 Data quality metaphor: Lego bricks and pragmatic trade‑offs
+00:17:32 Prioritization vs. tooling: translating data work into business impact
+00:20:50 Core KPI diagnosis: investigating dashboard inaccuracies
+00:22:02 Pipeline failure points: ingestion, SQL logic, and lineage checks
+00:23:26 Process failures over tool fixes: focusing on root causes
+00:28:12 Trust restoration framework: maintenance, rollouts, and innovation
+00:29:16 Incident analysis: using incidents to identify recurring problems
+00:30:47 Dashboard traffic‑light system for data reliability (green/yellow/red)
+00:33:18 Analyst feedback and automation: closing the communication loop
+00:38:19 Work allocation: tracking maintenance, rollout, and innovation time
+00:41:21 Team stress index and guideline: ~45% maintenance as healthy baseline
+00:43:12 Data product lifecycle: development, rollout, maturity, and decline
+00:45:47 Zen practices for data teams: mindfulness, acceptance, and planning
+00:50:14 Generative AI demand: why data readiness matters now
+00:51:41 Measuring readiness by impact: ROI and product success signals
+00:56:19 Legacy systems strategy: minimal maintenance and planned replacement
+00:59:11 Replacing legacy: selling the change through user impact
+01:00:23 Executive ad‑hoc requests: elicit intent and quantify expected impact
+01:02:33 Career guidance: choosing analytics, engineering, or product paths
+01:04:36 Closing reflections, resources, and suggested next steps
+01:06:05 Episode Outro and Hummus Banter

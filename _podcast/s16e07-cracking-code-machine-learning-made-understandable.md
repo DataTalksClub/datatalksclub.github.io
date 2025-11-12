@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=LBuGzyOkx7c
 season: 16
 short: 'Cracking the Code: Machine Learning Made Understandable'
-title: 'Cracking the Code: Machine Learning Made Understandable'
+title: 'Interpretable ML & Technical Writing: SHAP, Conformal Prediction, Python &
+  Self-Publishing'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Intro: Christoph Molnar, Interpretable ML Author'
 - line: This week, we'll talk about making machine learning interpretable. We have
     a very special guest today, Christoph. Christoph has a PhD in interpretable machine
     learning from the Ludwig Maximilian University of Munich. He worked for a while
@@ -35,7 +38,7 @@ transcript:
   sec: 85
   time: '1:25'
   who: Alexey
-- header: Christoph’s background
+- header: 'Career Journey: From Statistics to Tech Writing'
 - line: Before we start with our main topic, let's talk about your background. Can
     you tell us about your career journey so far?
   sec: 92
@@ -89,6 +92,7 @@ transcript:
   sec: 208
   time: '3:28'
   who: Alexey
+- header: Becoming a Full‑Time Technical Writer
 - line: '[chuckles] Yeah. And I also didn''t feel so free when writing the Master''s
     thesis. But when I started the book, I wrote it in the open, got feedback, and
     could just write how I felt. I [could] put in some jokes and not hide behind math
@@ -140,7 +144,7 @@ transcript:
   sec: 382
   time: '6:22'
   who: Christoph
-- header: Kaggle and other competitions
+- header: 'Kaggle Beginnings: Linear Models to Practical ML'
 - line: Do you remember what your first Kaggle competition was?
   sec: 397
   time: '6:37'
@@ -165,7 +169,7 @@ transcript:
   sec: 450
   time: '7:30'
   who: Alexey
-- header: How Christoph became interested in interpretable machine learning
+- header: 'Origin Story: Interest in Interpretable Machine Learning'
 - line: How did you become interested in interpretable machine learning? Is it something
     you were doing during your Master’s? Or is it something you needed to do at your
     work (in that tech startup)? What led you to it?
@@ -194,7 +198,7 @@ transcript:
   sec: 483
   time: '8:03'
   who: Christoph
-- header: Interpretability vs Accuracy
+- header: 'Interpretability vs Accuracy: Debugging Models with SHAP'
 - line: Speaking of Kaggle – in Kaggle, they don't really care about the explainability/interpretability.
     All they care about is predictions. Right? You care about all these predictions
     and it doesn't matter how exactly the model is making these predictions. Sometimes
@@ -235,7 +239,7 @@ transcript:
   sec: 628
   time: '10:28'
   who: Christoph
-- header: Christoph’s current competition engagement
+- header: 'Active Competition: River Flow Forecasting Project'
 - line: So you still take part in competitions?
   sec: 719
   time: '11:59'
@@ -267,7 +271,7 @@ transcript:
   sec: 777
   time: '12:57'
   who: Christoph
-- header: How Christoph chooses topics for books
+- header: 'Choosing Book Topics: Audience Data and Personal Curiosity'
 - line: So the best way to learn something is to teach something, or at least write
     about this. Right?
   sec: 837
@@ -301,7 +305,6 @@ transcript:
   sec: 893
   time: '14:53'
   who: Christoph
-- header: Why Christoph started the writing journey with a book
 - line: Why a book? Usually the story I hear from authors (and I also published) is…
     For me, I first wrote an article, then a bunch of articles, and then I thought,
     “Okay, maybe I should do something bigger.” But you just jumped into writing a
@@ -309,6 +312,7 @@ transcript:
   sec: 933
   time: '15:33'
   who: Alexey
+- header: 'Publishing in Public: Chapter‑by‑Chapter Workflow'
 - line: Yeah, good question. For me, I already did some blogging before, but I always
     quit after a few months. But I already had a little bit of experience with writing
     more freely. With the book, it wasn't like, “Hide in my room for two years, and
@@ -323,7 +327,7 @@ transcript:
   sec: 955
   time: '15:55'
   who: Christoph
-- header: Self-publishing vs via a publisher
+- header: 'Self‑Publishing vs Publishers: Control, Editors, Royalties'
 - line: But also, as we spoke briefly at the beginning, you don't have a publisher
     – you published on your own, right? [Christoph agrees] This requires a lot of
     self-discipline. If you don't publish a chapter, in the case with a publisher,
@@ -348,7 +352,8 @@ transcript:
   sec: 1068
   time: '17:48'
   who: Christoph
-- header: Christoph’s other books
+- header: 'Book Overview: Interpretable ML; Modeling Mindsets; Conformal Prediction;
+    SHAP'
 - line: We have already spoken about the books you have on your bookshelf. Can you
     tell us what these books are?
   sec: 1138
@@ -390,7 +395,7 @@ transcript:
   sec: 1225
   time: '20:25'
   who: Christoph
-- header: What is conformal prediction?
+- header: 'Conformal Prediction: Calibrated Uncertainty and Prediction Sets'
 - line: Conformal. [Christoph confirms] I don't think I ever heard this term. What
     does it actually mean?
   sec: 1227
@@ -451,7 +456,7 @@ transcript:
   sec: 1417
   time: '23:37'
   who: Christoph
-- header: Christoph’s book on SHAP
+- header: 'SHAP Deep Dive: Practical Guide and Python Examples'
 - line: Interesting. And the fourth book?
   sec: 1424
   time: '23:44'
@@ -500,7 +505,7 @@ transcript:
   sec: 1537
   time: '25:37'
   who: Christoph
-- header: Explainable AI vs Interpretable AI
+- header: 'Terminology: Explainable AI vs Interpretable Machine Learning'
 - line: Well, maybe we need to speak about this particular method. But I see that
     there are quite interesting questions. The first question is from Rosana. The
     question is, “Is there any difference between Explainable AI and Interpretable
@@ -578,7 +583,7 @@ transcript:
   sec: 1743
   time: '29:03'
   who: Christoph
-- header: Working alone vs with other people
+- header: 'Work Style: Solo Writing, Collaboration, and Co‑authoring'
 - line: Okay. Now you’ve been working as a technical book writer for a year, right?
     Do you feel lonely when you just write by yourself? Do you miss colleagues?
   sec: 1800
@@ -629,7 +634,7 @@ transcript:
   sec: 1901
   time: '31:41'
   who: Christoph
-- header: Christoph’s other engagements and how to stay hands-on
+- header: 'Staying Hands‑On: Competitions to Maintain Practical Skills'
 - line: So you said you would write it faster because your co-author has other commitments.
     Then you also don't invest as much time as you could potentially because you probably…
     What I'm trying to say is that you probably still have time [left over]. So are
@@ -692,7 +697,7 @@ transcript:
   sec: 2113
   time: '35:13'
   who: Christoph
-- header: Keeping a logbook
+- header: 'Logbook Practice: Obsidian Notes for Experiments and Reflection'
 - line: This is so cool. I want to learn more. How exactly do you structure this?
     What kind of tools do you use? Is it just a Google Doc or something else?
   sec: 2181
@@ -828,7 +833,7 @@ transcript:
   sec: 2538
   time: '42:18'
   who: Christoph
-- header: Does one have to be an expert on the topic to write a book about it?
+- header: 'Writing Expertise: Teaching to Learn vs Being a Beginner'
 - line: There is a question I really like, and I think we talked about that. The question
     is, “Do you have to be an expert in the field to start writing about it?”
   sec: 2541
@@ -892,7 +897,7 @@ transcript:
   sec: 2676
   time: '44:36'
   who: Christoph
-- header: Writing in the open and other feedback gathering methods
+- header: 'Feedback Strategy: Open Drafts, Beta Readers, and Iteration'
 - line: Or having a beginner who you can experiment with – someone who could say,
     “Hey, I don't understand this thing.” You can see where they struggle, right?
     [Christoph agrees] I think this is what you do with your book too, at least we
@@ -968,7 +973,7 @@ transcript:
   sec: 2868
   time: '47:48'
   who: Christoph
-- header: Advice for those who want to be technical writers
+- header: 'Advice for Aspiring Technical Writers: Start Small and Publish'
 - line: And probably on what feels more natural to you personally. [Christoph agrees]
     I see. Another question I really like is, “Do you have any advice for somebody
     who is looking to start their journey as a technical author?”
@@ -1004,6 +1009,7 @@ transcript:
   sec: 2964
   time: '49:24'
   who: Christoph
+- header: 'Becoming a Full‑Time Author: Timeframe, Income, and Workload'
 - line: Maybe also the question is, “How can I be a full-time technical author? What
     are my steps?”
   sec: 3000
@@ -1088,7 +1094,7 @@ transcript:
   sec: 3202
   time: '53:22'
   who: Christoph
-- header: Self-publishing tools
+- header: 'Publishing Logistics: Leanpub, Amazon KDP, and Print‑on‑Demand'
 - line: What do you use for publishing? Because you also have physical copies. I know
     there are websites where you can sell digital products – PDFs, videos, whatever.
     But you have physical books.
@@ -1156,7 +1162,7 @@ transcript:
   sec: 3350
   time: '55:50'
   who: Christoph
-- header: Finding Christoph online
+- header: 'Where to Find Christoph: Website, Newsletter, and Socials'
 - line: Interesting. You said that people can find your books on Leanpub and Amazon,
     but do you have something like a homepage with all the books and links and all
     that?
@@ -1184,6 +1190,7 @@ transcript:
   sec: 3405
   time: '56:45'
   who: Christoph
+- header: Closing Remarks and Episode Wrap‑Up
 - line: Yeah, thanks. Indeed, it was nice. Unfortunately, this is all the time we
     have for today.
   sec: 3413
@@ -1199,6 +1206,126 @@ transcript:
   sec: 3422
   time: '57:02'
   who: Alexey
+description: Discover Interpretable ML, SHAP and Conformal Prediction with Python
+  examples and self-publishing tips, debug models, calibrate uncertainty, and publish.
+intro: How can we make machine learning interpretable in practice — and how do you
+  turn that expertise into clear, usable technical writing? In this episode, Christoph
+  Molnar, statistician, machine learner, and author of Interpretable ML, walks through
+  the tools and workflows he uses to answer that question. <br><br> Christoph traces
+  his path from statistics and Kaggle competitions to becoming a full‑time technical
+  writer, and drills into core topics like SHAP for debugging models, conformal prediction
+  for calibrated uncertainty and prediction sets, and practical Python examples. We
+  also cover interpretability vs. accuracy, terminology around explainable AI, and
+  keeping skills sharp through competitions and an Obsidian logbook. <br><br> On the
+  writing side, Christoph explains his chapter‑by‑chapter “publishing in public” workflow,
+  self‑publishing choices (Leanpub, Amazon KDP, print‑on‑demand), feedback strategies
+  with beta readers, and advice for aspiring technical writers. Listen for actionable
+  guidance on applying interpretable machine learning techniques and concrete steps
+  for turning technical work into publishable, useful content.
+dateadded: '2023-11-27'
+duration: PT00H56M20S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=0
+  endOffset: 42
+- name: 'Guest Intro: Christoph Molnar, Interpretable ML Author'
+  startOffset: 42
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=42
+  endOffset: 92
+- name: 'Career Journey: From Statistics to Tech Writing'
+  startOffset: 92
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=92
+  endOffset: 225
+- name: Becoming a Full‑Time Technical Writer
+  startOffset: 225
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=225
+  endOffset: 397
+- name: 'Kaggle Beginnings: Linear Models to Practical ML'
+  startOffset: 397
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=397
+  endOffset: 470
+- name: 'Origin Story: Interest in Interpretable Machine Learning'
+  startOffset: 470
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=470
+  endOffset: 567
+- name: 'Interpretability vs Accuracy: Debugging Models with SHAP'
+  startOffset: 567
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=567
+  endOffset: 719
+- name: 'Active Competition: River Flow Forecasting Project'
+  startOffset: 719
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=719
+  endOffset: 837
+- name: 'Choosing Book Topics: Audience Data and Personal Curiosity'
+  startOffset: 837
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=837
+  endOffset: 955
+- name: 'Publishing in Public: Chapter‑by‑Chapter Workflow'
+  startOffset: 955
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=955
+  endOffset: 1027
+- name: 'Self‑Publishing vs Publishers: Control, Editors, Royalties'
+  startOffset: 1027
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1027
+  endOffset: 1138
+- name: 'Book Overview: Interpretable ML; Modeling Mindsets; Conformal Prediction;
+    SHAP'
+  startOffset: 1138
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1138
+  endOffset: 1227
+- name: 'Conformal Prediction: Calibrated Uncertainty and Prediction Sets'
+  startOffset: 1227
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1227
+  endOffset: 1424
+- name: 'SHAP Deep Dive: Practical Guide and Python Examples'
+  startOffset: 1424
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1424
+  endOffset: 1577
+- name: 'Terminology: Explainable AI vs Interpretable Machine Learning'
+  startOffset: 1577
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1577
+  endOffset: 1800
+- name: 'Work Style: Solo Writing, Collaboration, and Co‑authoring'
+  startOffset: 1800
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1800
+  endOffset: 1987
+- name: 'Staying Hands‑On: Competitions to Maintain Practical Skills'
+  startOffset: 1987
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1987
+  endOffset: 2181
+- name: 'Logbook Practice: Obsidian Notes for Experiments and Reflection'
+  startOffset: 2181
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=2181
+  endOffset: 2541
+- name: 'Writing Expertise: Teaching to Learn vs Being a Beginner'
+  startOffset: 2541
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=2541
+  endOffset: 2691
+- name: 'Feedback Strategy: Open Drafts, Beta Readers, and Iteration'
+  startOffset: 2691
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=2691
+  endOffset: 2916
+- name: 'Advice for Aspiring Technical Writers: Start Small and Publish'
+  startOffset: 2916
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=2916
+  endOffset: 3000
+- name: 'Becoming a Full‑Time Author: Timeframe, Income, and Workload'
+  startOffset: 3000
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3000
+  endOffset: 3229
+- name: 'Publishing Logistics: Leanpub, Amazon KDP, and Print‑on‑Demand'
+  startOffset: 3229
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3229
+  endOffset: 3376
+- name: 'Where to Find Christoph: Website, Newsletter, and Socials'
+  startOffset: 3376
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3376
+  endOffset: 3413
+- name: Closing Remarks and Episode Wrap‑Up
+  startOffset: 3413
+  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3413
+  endOffset: 3380
 ---
 
 Links:

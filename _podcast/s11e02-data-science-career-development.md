@@ -13,8 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=i1NHRroQClQ
 season: 11
 short: Data Science Career Development
-title: Data Science Career Development
+title: 'Data Science Career Guide: Hiring, Managing & Growing Teams in B2B SaaS'
 transcript:
+- header: Podcast Introduction
+- header: 'Introduction: Episode focus on data science career development (Katie Bauer)'
 - line: This week we'll talk about data science career development. We have a special
     guest today, Katie. Am I pronouncing it correctly? Katie?
   sec: 93
@@ -45,7 +47,7 @@ transcript:
   sec: 143
   time: '2:23'
   who: Katie
-- header: Katie’s background
+- header: 'Career trajectory: linguistics to data science; Reddit and Twitter experience'
 - line: Before we go into our main topic of developing a data science career, let's
     start with your background. Can you tell us about your career journey so far?
   sec: 147
@@ -88,6 +90,7 @@ transcript:
   sec: 273
   time: '4:33'
   who: Alexey
+- header: GlossGenius product and head of data responsibilities (B2B SaaS)
 - line: No. [laughs]
   sec: 276
   time: '4:36'
@@ -126,6 +129,8 @@ transcript:
   sec: 340
   time: '5:40'
   who: Katie
+- header: 'Current hiring needs: product analysts, analytics engineers, marketing
+    scientists'
 - line: Who are you hiring? What kind of roles?
   sec: 382
   time: '6:22'
@@ -148,7 +153,7 @@ transcript:
   sec: 405
   time: '6:45'
   who: Katie
-- header: What is a data scientist?
+- header: 'Data scientist role: broad definition and varied responsibilities'
 - line: You don't have any data scientists yet, do you?
   sec: 428
   time: '7:08'
@@ -190,7 +195,8 @@ transcript:
   sec: 500
   time: '8:20'
   who: Katie
-- header: What is a data science manager?
+- header: 'Data science manager: building teams, matrix orgs, and cross-functional
+    work'
 - line: Well, we just talked about data scientists and you said that this is quite
     an ambiguous term – it can mean anything. Or maybe not ambiguous, but broad, as
     you said. It can mean anything and it usually describes what people don't do rather
@@ -245,7 +251,7 @@ transcript:
   sec: 538
   time: '8:58'
   who: Katie
-- header: Quality of the craft
+- header: 'Craft quality: maintainability, documentation, peer review for analytics'
 - line: In summary – we have, usually, let's say there is a data scientist, or just
     a data professional, embedded in the team. You mentioned this matrix structure
     where this person has a data leader/data science manager and then there is a “dotted
@@ -312,7 +318,7 @@ transcript:
   sec: 907
   time: '15:07'
   who: Katie
-- header: How data leaders promote career growth
+- header: 'Career framework: junior vs senior and the “terminal” career level'
 - line: The second point in the responsibilities of data leaders was career growth.
     A big chunk of the responsibilities is to make sure people grow. How do the managers
     usually do this? What kind of tools and processes…? There are probably processes
@@ -389,7 +395,7 @@ transcript:
   sec: 1053
   time: '17:33'
   who: Katie
-- header: Supporting senior data professionals
+- header: 'Senior growth: abstraction, leadership exposure, and delegation'
 - line: I guess for a senior, as you mentioned, they're quite independent, they’re
     at the “terminal level” – we are no longer expecting them to grow. But I guess
     people still… they do this data science thing quite well and maybe they have been
@@ -506,7 +512,7 @@ transcript:
   sec: 1333
   time: '22:13'
   who: Katie
-- header: Choosing the IC route vs the management route
+- header: 'IC vs management: trying people leadership and the IC–manager pendulum'
 - line: I was about to ask you about juniors, but I noticed that we have had a highly
     upvoted question about choosing the next step for a senior. The question is, “As
     a senior data scientist, how should they think about my future career path? Choosing
@@ -584,7 +590,7 @@ transcript:
   sec: 1771
   time: '29:31'
   who: Katie
-- header: Managing junior data professionals
+- header: 'Managing juniors: mentorship, skills training, and project-based learning'
 - line: I guess most of the time managers spend not managing seniors, but rather managing
     juniors, right? From my experience, juniors usually need more support. Seniors
     are pretty independent and we need to help them grow, but juniors require more
@@ -661,7 +667,7 @@ transcript:
   sec: 1963
   time: '32:43'
   who: Katie
-- header: Talking to senior stakeholders and PMs as a junior
+- header: 'Stakeholder conversations: talking to PMs and senior leaders (prep & questions)'
 - line: How do you actually do this? At the company where I work, a junior data scientist
     joined recently. Usually, as a part of the onboarding process, she talked to me
     and then one thing she asked is “How can I grow faster in this company? How can
@@ -750,6 +756,7 @@ transcript:
   sec: 2313
   time: '38:33'
   who: Alexey
+- header: 'Junior development: practice, exposure, and avoiding early specialization'
 - line: I was gonna say, if I have to, summarize the thing that juniors need the most
     – it is practice and exposure. They need to do lots of different types of work
     to learn the fundamentals and you learn it best by going through the motions a
@@ -769,7 +776,7 @@ transcript:
   sec: 2342
   time: '39:02'
   who: Katie
-- header: The importance of hiring juniors
+- header: 'Hiring juniors: build vs buy, long-term org benefits, and succession'
 - line: I'm just wondering. Seniors are independent, so we need to help them by delegating
     some of the stuff that we need to do – seems like a good deal, right? You just
     have the stuff you need to work on and delegate it to seniors. And then we have
@@ -866,7 +873,7 @@ transcript:
   sec: 2675
   time: '44:35'
   who: Katie
-- header: What skills do data scientist managers need to get hired?
+- header: 'Hiring managers: evaluation criteria for data science manager roles'
 - line: We have quite a few questions. The most upvoted question that we have is “As
     a head of data, what skills would you look for in a data science manager? What
     attributes would you use for evaluation in an interview?”
@@ -918,6 +925,7 @@ transcript:
   sec: 2821
   time: '47:01'
   who: Alexey
+- header: 'Strategy assessment: case studies, trade-offs, and measurement in interviews'
 - line: Yeah, that's fair. It is kind of a vague word, much like data science. By
     “strategy,” I really mean that they're capable of reasoning about the decisions
     they would make in this role and the trade-offs of those decisions. It might be
@@ -973,8 +981,7 @@ transcript:
   sec: 2992
   time: '49:52'
   who: Katie
-- header: How juniors that are just starting out can set themselves apart from the
-    competition
+- header: 'Entry-level hiring tips: standing out, outreach, and interview preparation'
 - line: There are people who are only just starting their career in data science who
     are also listening to this conversation. Maybe we can talk about their situation
     a bit, too. Let's say that they want to get hired as a junior. We talked about
@@ -1008,6 +1015,7 @@ transcript:
   sec: 3063
   time: '51:03'
   who: Katie
+- header: 'Onboarding first month: proactive communication and asking for help'
 - line: Let's say I got hired to a company and I started as a junior. How do I go
     about my first month? Who should I talk to make sure that when I grow my career,
     I get as much as possible from this company? Hopefully there is a manager who
@@ -1036,7 +1044,7 @@ transcript:
   sec: 3189
   time: '53:09'
   who: Katie
-- header: Asking senior colleagues for help and the rubber duck channel
+- header: 'Support mechanisms: regular check-ins, rubber‑duck channels, async help'
 - line: One of the concerns I heard from juniors is that they are afraid of interrupting
     other people (seniors). The seniors are busy, “This is a very senior person, they
     have a lot of stuff to work on.” They don't feel that they should be interrupting
@@ -1089,7 +1097,7 @@ transcript:
   sec: 3377
   time: '56:17'
   who: Katie
-- header: The challenges of the head of data
+- header: 'Head of data challenges: prioritization, data literacy, and culture building'
 - line: I feel that we’re jumping a little bit – from head to junior and then back
     – but this is a very interesting question. I want to ask you that as well. I know
     that we don't have a lot of time, but maybe we can try to cover this too. “What
@@ -1136,13 +1144,13 @@ transcript:
   sec: 3532
   time: '58:52'
   who: Katie
-- header: Conclusion
 - line: Yeah. Unfortunately, we need to wrap it up. We need to finish. Is there anything
     else that you wanted to say, but you didn't have a chance to? Maybe you want to
     say something before we finish today?
   sec: 3535
   time: '58:55'
   who: Alexey
+- header: 'Closing advice: careers as direction and guiding team growth'
 - line: Yeah. I guess the final bit of advice I have for managers thinking about career
     growth is – careers are really about direction. One of the most important things
     you can do for people on your team is help them feel like they have a sense of
@@ -1181,6 +1189,7 @@ transcript:
   sec: 3612
   time: '1:00:12'
   who: Katie
+- header: Episode wrap and contact information
 - line: Okay. That was a great chat. Thanks for joining us today. Thanks for answering
     all these questions. I also want to thank everyone who joined us today, and who
     asked questions. I saw that there’s a lot of discussion in the live chat. Unfortunately,
@@ -1190,6 +1199,118 @@ transcript:
   sec: 3613
   time: '1:00:13'
   who: Alexey
+description: Learn hiring & management tactics for data science in B2B SaaS — hiring,
+  onboarding, mentorship, and career growth strategies to build scalable analytics
+  teams.
+intro: 'How do you hire, manage, and grow a high-impact data science team inside a
+  B2B SaaS company? In this episode, Katie Bauer — Head of Data at GlossGenius and
+  former data leader at Twitter and Reddit — walks through practical career frameworks
+  and team-building strategies for product analysts, analytics engineers, marketing
+  scientists, and data scientists. Katie traces her own trajectory from linguistics
+  to analytics and explains what “craft” looks like in analytics: maintainability,
+  documentation, and peer review. She breaks down IC versus management paths, how
+  to mentor juniors through project-based learning, and when to buy versus build entry-level
+  talent. You’ll hear concrete hiring and interview approaches for managers, how to
+  assess strategy through case studies and trade-offs, and tips to help new hires
+  succeed in their first month via proactive communication and async support channels.
+  For leaders, Katie covers prioritization, raising data literacy, and fostering a
+  data-driven culture. Listen to get actionable guidance on hiring data scientists,
+  onboarding newcomers, developing senior talent, and scaling data teams in B2B SaaS.'
+dateadded: '2022-10-15'
+duration: PT00H58M40S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=0
+  endOffset: 93
+- name: 'Introduction: Episode focus on data science career development (Katie Bauer)'
+  startOffset: 93
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=93
+  endOffset: 147
+- name: 'Career trajectory: linguistics to data science; Reddit and Twitter experience'
+  startOffset: 147
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=147
+  endOffset: 276
+- name: GlossGenius product and head of data responsibilities (B2B SaaS)
+  startOffset: 276
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=276
+  endOffset: 382
+- name: 'Current hiring needs: product analysts, analytics engineers, marketing scientists'
+  startOffset: 382
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=382
+  endOffset: 428
+- name: 'Data scientist role: broad definition and varied responsibilities'
+  startOffset: 428
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=428
+  endOffset: 513
+- name: 'Data science manager: building teams, matrix orgs, and cross-functional work'
+  startOffset: 513
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=513
+  endOffset: 718
+- name: 'Craft quality: maintainability, documentation, peer review for analytics'
+  startOffset: 718
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=718
+  endOffset: 912
+- name: 'Career framework: junior vs senior and the “terminal” career level'
+  startOffset: 912
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=912
+  endOffset: 1130
+- name: 'Senior growth: abstraction, leadership exposure, and delegation'
+  startOffset: 1130
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=1130
+  endOffset: 1554
+- name: 'IC vs management: trying people leadership and the IC–manager pendulum'
+  startOffset: 1554
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=1554
+  endOffset: 1810
+- name: 'Managing juniors: mentorship, skills training, and project-based learning'
+  startOffset: 1810
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=1810
+  endOffset: 2056
+- name: 'Stakeholder conversations: talking to PMs and senior leaders (prep & questions)'
+  startOffset: 2056
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=2056
+  endOffset: 2342
+- name: 'Junior development: practice, exposure, and avoiding early specialization'
+  startOffset: 2342
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=2342
+  endOffset: 2412
+- name: 'Hiring juniors: build vs buy, long-term org benefits, and succession'
+  startOffset: 2412
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=2412
+  endOffset: 2679
+- name: 'Hiring managers: evaluation criteria for data science manager roles'
+  startOffset: 2679
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=2679
+  endOffset: 2841
+- name: 'Strategy assessment: case studies, trade-offs, and measurement in interviews'
+  startOffset: 2841
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=2841
+  endOffset: 3021
+- name: 'Entry-level hiring tips: standing out, outreach, and interview preparation'
+  startOffset: 3021
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3021
+  endOffset: 3163
+- name: 'Onboarding first month: proactive communication and asking for help'
+  startOffset: 3163
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3163
+  endOffset: 3251
+- name: 'Support mechanisms: regular check-ins, rubber‑duck channels, async help'
+  startOffset: 3251
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3251
+  endOffset: 3380
+- name: 'Head of data challenges: prioritization, data literacy, and culture building'
+  startOffset: 3380
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3380
+  endOffset: 3549
+- name: 'Closing advice: careers as direction and guiding team growth'
+  startOffset: 3549
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3549
+  endOffset: 3613
+- name: Episode wrap and contact information
+  startOffset: 3613
+  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3613
+  endOffset: 3520
 ---
 
 Links:

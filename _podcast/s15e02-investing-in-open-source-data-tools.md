@@ -1103,6 +1103,117 @@ intro: How do you build a sustainable business around open source developer, dat
   source developer, data and AI tooling.
 description: 'Discover open source go-to-market for developer tooling: funding, monetization
   models, community metrics and fundraising tactics to scale early-stage startups.'
+dateadded: '2023-07-23'
+duration: PT01H01M26S
+quotableClips:
+- name: Episode Start & Welcome
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=0
+  endOffset: 75
+- name: 'Guest Overview: Bela’s Role at a Family Office'
+  startOffset: 75
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=75
+  endOffset: 160
+- name: 'Career Path: From Business Studies to Open Source Investing'
+  startOffset: 160
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=160
+  endOffset: 337
+- name: 'Commercializing Open Source Communities: Company Builder Insights'
+  startOffset: 337
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=337
+  endOffset: 584
+- name: Why Venture Funding Matters for Early-Stage Startups
+  startOffset: 584
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=584
+  endOffset: 822
+- name: 'Open Source as Go-to-Market: Community Trust and Distribution'
+  startOffset: 822
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=822
+  endOffset: 1000
+- name: 'Bottom-Up Distribution: Developer Adoption Feeding Enterprise Sales'
+  startOffset: 1000
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=1000
+  endOffset: 1113
+- name: 'Investment Focus: Early-Stage B2B Developer, Data & AI Tooling'
+  startOffset: 1113
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=1113
+  endOffset: 1187
+- name: 'Funding Stage Primer: Angels, Pre-Seed, and Seed Explained'
+  startOffset: 1187
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=1187
+  endOffset: 1340
+- name: 'Fundraising Strategy: 12–18 Month Runway & Use of Proceeds'
+  startOffset: 1340
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=1340
+  endOffset: 1422
+- name: 'Geographic & Sector Focus: Europe and Developer Stack Niches'
+  startOffset: 1422
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=1422
+  endOffset: 1519
+- name: 'Investor Types Compared: Angels, VCs, and Family Offices'
+  startOffset: 1519
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=1519
+  endOffset: 1828
+- name: 'Check Sizes & Stage Variability: No One-Size-Fits-All'
+  startOffset: 1828
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=1828
+  endOffset: 1951
+- name: 'Investment Criteria: Team, Market Need, and Commercialization Plan'
+  startOffset: 1951
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=1951
+  endOffset: 2187
+- name: 'Early-Stage Signals: Assessing Problem Validity over PMF'
+  startOffset: 2187
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=2187
+  endOffset: 2239
+- name: 'Due Diligence: Founder Calls, User Interviews, and Co-Investor Checks'
+  startOffset: 2239
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=2239
+  endOffset: 2341
+- name: 'Community Metrics: Interpreting GitHub Stars vs. Active Engagement'
+  startOffset: 2341
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=2341
+  endOffset: 2538
+- name: 'Sourcing Deal Flow: GitHub Screening, Data Tools, and Networking'
+  startOffset: 2538
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=2538
+  endOffset: 2649
+- name: 'Daily Sourcing Routine: Allocating Time for Outbound Discovery'
+  startOffset: 2649
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=2649
+  endOffset: 2783
+- name: 'Inbound Outreach: How Founders Should Pitch Investors'
+  startOffset: 2783
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=2783
+  endOffset: 2968
+- name: 'Open-Core & Licensing Strategies: Mixing Open and Proprietary Code'
+  startOffset: 2968
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=2968
+  endOffset: 3069
+- name: 'Monetization Models: Hosted Services, Enterprise Licenses, Support'
+  startOffset: 3069
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=3069
+  endOffset: 3287
+- name: 'Scalability Considerations: Limits of Support-Based Revenue'
+  startOffset: 3287
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=3287
+  endOffset: 3333
+- name: 'Open Source Outlook: Paths to Market Leadership and Challenges'
+  startOffset: 3333
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=3333
+  endOffset: 3446
+- name: 'Recent Open Source Successes: Hugging Face, Supabase, Kong, Qdrant'
+  startOffset: 3446
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=3446
+  endOffset: 3618
+- name: Recommended Reading & Resources on Investing and Community Building
+  startOffset: 3618
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=3618
+  endOffset: 3739
+- name: Episode Wrap-Up & Closing Remarks
+  startOffset: 3739
+  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=3739
+  endOffset: 3686
 ---
 Links:
 

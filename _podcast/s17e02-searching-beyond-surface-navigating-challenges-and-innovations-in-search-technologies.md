@@ -1,4 +1,21 @@
 ---
+description: 'Discover RAG and vector DBs strategies for search: build podcast chatbots,
+  optimize embeddings, reduce LLM hallucinations and boost personalization.'
+intro: 'How do you modernize search systems with vector search and retrieval‑augmented
+  generation (RAG) without trading away relevance or inviting hallucinations? In this
+  episode we talk with a search practitioner rooted in information retrieval who has
+  worked with Solr, Lucene and the Semantic Web era and later in search consulting
+  and teaching at Lucidworks and OpenSource Connections. <br><br> We cover the arc
+  from classic keyword search to NLP, embeddings and vector databases (including Qdrant
+  and plug‑and‑play vector search), and practical migration decisions: when to add
+  vectors to an existing stack versus adopting a standalone vector DB. You’ll hear
+  concrete guidance on RAG concepts to reduce LLM hallucinations, building a chatbot
+  from podcast transcripts using Whisper, ingest strategies (chunking, overlap, embedding
+  models), and orchestration with tools like LangChain. The episode also digs into
+  prompt design, citation strategies, multi‑level RAG evaluation with human‑in‑the‑loop
+  testing, and personalization approaches such as session‑based recommendations and
+  re‑ranking. <br><br> Listen to gain actionable techniques for vector search, embeddings,
+  RAG pipelines, evaluation metrics, and resources to deepen your knowledge.'
 episode: 2
 guests:
 - atitaarora
@@ -17,6 +34,7 @@ short: 'Searching Beyond the Surface: Navigating Challenges and Innovations in S
 title: 'Searching Beyond the Surface: Navigating Challenges and Innovations in Search
   Technologies'
 transcript:
+- header: 'Episode Introduction: search focus and guest overview'
 - line: This week, we'll talk about search. We have a very special guest today, Atita.
     Atita is an expert in information retrieval, also known as search. She has contributed
     to projects like Apache on OpenNLP, and she advocates for user-centric approaches.
@@ -36,7 +54,7 @@ transcript:
   sec: 152
   time: '2:32'
   who: Alexey
-- header: Atita’s background
+- header: Background & career beginnings in information retrieval
 - line: Before we go into our main topic of search, let's start with your background.
     Can you tell us about your career journey so far?
   sec: 158
@@ -87,6 +105,7 @@ transcript:
   sec: 278
   time: '4:38'
   who: Alexey
+- header: 'Early search stack: Solr, Lucene and the Semantic Web era'
 - line: Yeah, that's correct. A lot of people think that my first name is Aurora,
     because that's definitely the case in Europe. That's fine. But my first name is
     Atita. Arora is my last name. So about the career journey, as obviously you already
@@ -160,7 +179,7 @@ transcript:
   sec: 527
   time: '8:47'
   who: Alexey
-- header: How NLP relates to search
+- header: 'NLP and search: matching queries to content'
 - line: Right. I think, as of now, I would say that it is a definitely interchangeable
     term. But I think search, in principle – as I said, people were moving from databases
     to a full text search engine – people were still kind of hung up in that “token
@@ -195,7 +214,7 @@ transcript:
   sec: 558
   time: '9:18'
   who: Atita
-- header: Atita’s experience with Lucidworks and OpenSource Connections
+- header: 'Search consulting & teaching: Lucidworks and OpenSource Connections'
 - line: Sorry for interrupting you. I really want to ask you about Lucidworks and
     OpenSource Connections because everyone who works with search knows the names
     of these two companies. Especially if you go to conferences like Berlin Buzzwords,
@@ -283,7 +302,7 @@ transcript:
   sec: 813
   time: '13:33'
   who: Atita
-- header: Atita’s experience with Qdrant and vector databases
+- header: 'Vector databases overview: Qdrant and plug‑and‑play vector search'
 - line: Qdrant is a vector database, right?
   sec: 1021
   time: '17:01'
@@ -363,7 +382,7 @@ transcript:
   sec: 1226
   time: '20:26'
   who: Atita
-- header: Utilizing vector search
+- header: 'Migration decisions: vectors in existing search vs. standalone DBs'
 - line: Let's say we already have an existing Solr installation, it's one of the latest
     versions, and it supports vector search. When do we need to go with Solr or Elasticsearch
     or when do we need to book for a standalone database?
@@ -404,7 +423,7 @@ transcript:
   sec: 1244
   time: '20:44'
   who: Atita
-- header: Major changes to search Atita has noticed throughout her career
+- header: 'Evolution of search: NLP, personalization, learning‑to‑rank and LLMs'
 - line: As somebody who has worked for 15 years in this area, you probably started
     with creating indices for Lucene in something similar to MapReduce without Hadoop
     in there. Now it has changed significantly since then. So now we’re talking about
@@ -539,7 +558,7 @@ transcript:
   sec: 1806
   time: '30:06'
   who: Atita
-- header: RAG (Retrieval-Augmented Generation)
+- header: 'RAG concepts: retrieval plus generation to reduce LLM hallucinations'
 - line: But now we have these things like RAG that, that I mentioned at the beginning,
     when I was reading your bio. Maybe you can tell us what this is? What is RAG?
     Why do you care about it?
@@ -609,7 +628,7 @@ transcript:
   sec: 1851
   time: '30:51'
   who: Atita
-- header: Building a chatbot out of transcripts with LLMs
+- header: Building a chatbot from podcast transcripts and Whisper
 - line: I just want to try to summarize what RAG is before we go into evaluation.
     This is an interesting topic. So, let's say… We have a podcast. There are 16 seasons,
     9 episodes in each. It’s quite a lot of information, right? For each podcast,
@@ -650,7 +669,7 @@ transcript:
   sec: 2270
   time: '37:50'
   who: Atita
-- header: Ingesting the data and evaluating the results
+- header: 'Ingest strategy: chunking, overlap, embedding models and vectorization'
 - line: So we need to find a way to actually tell ChatGPT (or GPT-3, 4, whatever),
     “Look, we have these podcast transcripts and this is the question from the user.
     How can we use the transcripts to answer the question?” Then our goal becomes
@@ -705,6 +724,7 @@ transcript:
   sec: 2490
   time: '41:30'
   who: Alexey
+- header: 'Orchestration tools: Langchain’s role in RAG pipelines'
 - line: Oh, Langchain is… Oh, that's kind of an interesting question. I'm not sure
     if you've not seen it, but Langchain is...
   sec: 2492
@@ -754,6 +774,7 @@ transcript:
   sec: 2567
   time: '42:47'
   who: Alexey
+- header: 'Retrieval → augmentation → generation: prompt design and citations'
 - line: What happens next is, obviously, this query would either go directly against
     the language model, or, in our case, we would want this query to be sent to our
     vector search engine. What this will do is, your query is going to be converted
@@ -846,7 +867,7 @@ transcript:
   sec: 2887
   time: '48:07'
   who: Atita
-- header: Keeping humans in the loop
+- header: 'RAG evaluation: multi‑level metrics, offline tests and human‑in‑the‑loop'
 - line: And then we were talking about evaluation because, right now, I have this
     RAG system with all the podcasts transcripts, but now I want to see if it's working
     fine. I can, of course, go ahead and test it – make 3, 4, 5 queries and then see,
@@ -883,6 +904,7 @@ transcript:
   sec: 2954
   time: '49:14'
   who: Atita
+- header: 'Evaluation reading: Human‑in‑the‑Loop and practical methodologies'
 - line: So there's a book you mentioned, Human in the Loop. It's a book from Manning,
     right? [Atita agrees] It’s by Robert Monarch.
   sec: 3052
@@ -920,7 +942,7 @@ transcript:
   sec: 3122
   time: '52:02'
   who: Alexey
-- header: Application of vector databases for machine learning
+- header: 'Vector databases for ML: session‑based recommendations and re‑ranking'
 - line: I noticed that we have a question. The question is from Taras. Taras is asking,
     “Is there any application of vector databases for machine learning? For instance,
     could it be used for making the training of deep learning models faster? Maybe
@@ -967,7 +989,7 @@ transcript:
   sec: 3288
   time: '54:48'
   who: Atita
-- header: Collaborative filtering
+- header: 'Personalization approaches: session‑based vs collaborative filtering'
 - line: What you mentioned is… With collaborative filtering, we would need to re-do
     the whole thing, right? Then the vectors we do from another training will be super
     different from the first training. What you mentioned right now with clicks updating
@@ -1029,7 +1051,8 @@ transcript:
   sec: 3451
   time: '57:31'
   who: Atita
-- header: Atita’s resource recommendations
+- header: 'Learning resources: Intro to Information Retrieval, Relevant Search, Vector
+    Hub'
 - line: If somebody wants to learn about classic information retrieval, before all
     these vectors, would you say that Introduction to Information Retrieval is a good
     starting point? Is there something else?
@@ -1099,6 +1122,7 @@ transcript:
   sec: 3621
   time: '1:00:21'
   who: Atita
+- header: Episode wrap‑up, links and next steps
 - line: Yes. So please make a post when you publish that evaluation article. With
     that, I think, that's all we have time for today. Atita, thanks a lot for joining
     us today.
@@ -1131,6 +1155,86 @@ transcript:
   sec: 3668
   time: '1:01:08'
   who: Atita
+dateadded: '2024-01-07'
+duration: PT00H59M13S
+quotableClips:
+- name: 'Episode Introduction: search focus and guest overview'
+  startOffset: 115
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=115
+  endOffset: 158
+- name: Background & career beginnings in information retrieval
+  startOffset: 158
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=158
+  endOffset: 282
+- name: 'Early search stack: Solr, Lucene and the Semantic Web era'
+  startOffset: 282
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=282
+  endOffset: 558
+- name: 'NLP and search: matching queries to content'
+  startOffset: 558
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=558
+  endOffset: 689
+- name: 'Search consulting & teaching: Lucidworks and OpenSource Connections'
+  startOffset: 689
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=689
+  endOffset: 1021
+- name: 'Vector databases overview: Qdrant and plug‑and‑play vector search'
+  startOffset: 1021
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=1021
+  endOffset: 1227
+- name: 'Migration decisions: vectors in existing search vs. standalone DBs'
+  startOffset: 1227
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=1227
+  endOffset: 1380
+- name: 'Evolution of search: NLP, personalization, learning‑to‑rank and LLMs'
+  startOffset: 1380
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=1380
+  endOffset: 1838
+- name: 'RAG concepts: retrieval plus generation to reduce LLM hallucinations'
+  startOffset: 1838
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=1838
+  endOffset: 2149
+- name: Building a chatbot from podcast transcripts and Whisper
+  startOffset: 2149
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=2149
+  endOffset: 2304
+- name: 'Ingest strategy: chunking, overlap, embedding models and vectorization'
+  startOffset: 2304
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=2304
+  endOffset: 2492
+- name: 'Orchestration tools: Langchain’s role in RAG pipelines'
+  startOffset: 2492
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=2492
+  endOffset: 2569
+- name: 'Retrieval → augmentation → generation: prompt design and citations'
+  startOffset: 2569
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=2569
+  endOffset: 2889
+- name: 'RAG evaluation: multi‑level metrics, offline tests and human‑in‑the‑loop'
+  startOffset: 2889
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=2889
+  endOffset: 3052
+- name: 'Evaluation reading: Human‑in‑the‑Loop and practical methodologies'
+  startOffset: 3052
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3052
+  endOffset: 3127
+- name: 'Vector databases for ML: session‑based recommendations and re‑ranking'
+  startOffset: 3127
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3127
+  endOffset: 3294
+- name: 'Personalization approaches: session‑based vs collaborative filtering'
+  startOffset: 3294
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3294
+  endOffset: 3470
+- name: 'Learning resources: Intro to Information Retrieval, Relevant Search, Vector
+    Hub'
+  startOffset: 3470
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3470
+  endOffset: 3624
+- name: Episode wrap‑up, links and next steps
+  startOffset: 3624
+  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3624
+  endOffset: 3553
 ---
 
 Links:

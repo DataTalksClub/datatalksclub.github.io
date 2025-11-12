@@ -13,8 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=8Eb5mG-pC3o
 season: 10
 short: Responsible and Explainable AI
-title: Responsible and Explainable AI
+title: 'Responsible & Explainable AI: Practical Guide to Bias Detection, Fairness
+  & Governance'
 transcript:
+- header: 'Episode Introduction: Responsible and Explainable AI'
 - line: This week, we'll talk about responsible and Explainable AI. We have a special
     guest today, Supreet. Supreet is an assistant VP in data strategy at Morgan Stanley.
     She's also the founder of DataBuzz. So she will probably tell us a bit about what
@@ -27,7 +29,7 @@ transcript:
   sec: 131
   time: '2:11'
   who: Supreet
-- header: Supreet’s background
+- header: 'Career Journey: Master''s, Consulting, and Founding DataBuzz'
 - line: Before we go into our main topic of explainable and responsible AI, let's
     start with your background. Can you tell us about your career journey so far?
   sec: 134
@@ -59,6 +61,7 @@ transcript:
   sec: 214
   time: '3:34'
   who: Alexey
+- header: 'Data Strategy Role: Building AI Products at Morgan Stanley'
 - line: Yeah, of course. Morgan Stanley's definitely a big firm. We have different
     divisions – we have asset management, investment banking, wealth management and
     so forth. I'm in the analytics and data team for wealth management, and the data
@@ -81,7 +84,7 @@ transcript:
   sec: 219
   time: '3:39'
   who: Supreet
-- header: Responsible AI
+- header: 'Responsible AI: Definition, Trust, and Stakeholder Collaboration'
 - line: Today’s topic is responsible AI. So what is responsible AI? How can AI be
     responsible?
   sec: 283
@@ -120,7 +123,7 @@ transcript:
   sec: 374
   time: '6:14'
   who: Supreet
-- header: Example of explainable AI
+- header: 'Credit Decision Bias Example: Explaining Disparate Outcomes'
 - line: I'm just trying to think of an example. Can you maybe use some examples from
     your work, or maybe something that you can talk about where this is important?
     You said “We want to feel confident in this prediction, and we want to be able
@@ -148,7 +151,7 @@ transcript:
   sec: 426
   time: '7:06'
   who: Supreet
-- header: Responsible AI vs explainable AI
+- header: 'Explainable vs Responsible AI: Post‑mortem Tools vs Governance Mindset'
 - line: What is the relationship between responsible AI and explainable AI? From what
     I hear now – if we want to feel confident in the predictions, we need to be able
     to explain them. Does this mean that responsible AI is explainable AI? Or what's
@@ -184,7 +187,7 @@ transcript:
   sec: 629
   time: '10:29'
   who: Supreet
-- header: Explainable AI tools and frameworks (glass box approach)
+- header: 'Glass‑Box Approach: Explainable AI Techniques Overview'
 - line: You mentioned tools and you mentioned a framework. So how do we do this?
   sec: 630
   time: '10:30'
@@ -207,6 +210,7 @@ transcript:
   sec: 681
   time: '11:21'
   who: Alexey
+- header: 'Data‑Level Fairness Checks: Skewness, Missingness, and Coverage'
 - line: '[laughs] Yeah. I will start with the data level. First, when we talk about
     the data level, we talk about fairness and bias testing. There, you have a few
     data quality checks that I feel every data scientist does. They do some sort of
@@ -227,7 +231,7 @@ transcript:
   sec: 696
   time: '11:36'
   who: Supreet
-- header: Checking for bias in data and handling personal data
+- header: Exploratory Data Analysis for Bias Detection
 - line: Well, there is a question, “What tools do we use to check if there is any
     bias in the data?” I think this is related to what you were talking about. This
     is before we train a model, right? You talked about EDA (exploratory data analysis)
@@ -256,6 +260,7 @@ transcript:
   sec: 796
   time: '13:16'
   who: Supreet
+- header: 'PII Handling: Age, Gender, Masking, and Use‑case Justification'
 - line: So basically you need to, as a human – as an analyst or as a data scientist
     – you need to get your dataset from your database, CSV file, whatever, and just
     spend enough time trying to understand what's happening there. Right? Should we
@@ -308,7 +313,7 @@ transcript:
   sec: 1018
   time: '16:58'
   who: Supreet
-- header: Understanding whether your company needs certain type of data
+- header: 'Feature Necessity: Product, SME, and Compliance Decisioning'
 - line: And how do we do this? Is it usually done by this… we talked about data checks
     – to discuss this, should we go into the model checks? To understand whether we
     even need this data?
@@ -335,7 +340,7 @@ transcript:
   sec: 1087
   time: '18:07'
   who: Supreet
-- header: Data quality checks and automation
+- header: 'Automating Data Quality: DQ Tools, Alerts, and Monitoring'
 - line: How much of this can be automated? At least when we talk about detecting biases
     in data before we come to modeling?
   sec: 1107
@@ -349,6 +354,7 @@ transcript:
   sec: 1117
   time: '18:37'
   who: Supreet
+- header: 'Model Explainability Tools: What‑If, Skater, and AI Explainability 360'
 - line: So what about this model part?
   sec: 1143
   time: '19:03'
@@ -437,6 +443,7 @@ transcript:
   sec: 1391
   time: '23:11'
   who: Supreet
+- header: 'Local Interpretability: LIME, SHAP, and Surrogate Models'
 - line: I've heard about tools like LIME and Shapley Values. Are these somehow related
     to that too?
   sec: 1404
@@ -458,7 +465,7 @@ transcript:
   sec: 1412
   time: '23:32'
   who: Supreet
-- header: Responsibility vs profitability
+- header: 'Ethics vs Profitability: Balancing Fairness and Business Objectives'
 - line: I'm quite interested in this. Let's say there are some features that we shouldn't
     use because they're PII (personally identifiable information) like gender and
     age. But in some cases, I kind of wish we could use them. For example, in an advertisement,
@@ -516,6 +523,7 @@ transcript:
   sec: 1644
   time: '27:24'
   who: Supreet
+- header: 'Cross‑Functional Governance: SMEs, Compliance, and Leadership Roles'
 - line: So what kind of people do we need to have in this room to be able to have
     these fruitful discussions? You said that we need, perhaps, data scientists, analysts,
     and people from compliance. Who else should we have?
@@ -593,7 +601,6 @@ transcript:
   sec: 1843
   time: '30:43'
   who: Supreet
-- header: The human touch in AI
 - line: '[laughs] I see. Per my understanding, we should analyze our data – we should
     have a human who actually goes through the dataset. Some things could be automated.
     But then, at the end, a human should actually go through this and do some analytics.
@@ -615,7 +622,7 @@ transcript:
   sec: 1916
   time: '31:56'
   who: Supreet
-- header: The trade-off between model complexity and explainability
+- header: 'Accuracy vs Interpretability: Managing Model Complexity Trade‑offs'
 - line: Actually, we have a question from Shivam that is exactly about that. The question
     is, “How to manage the trade-off between model complexity and explainability?
     Complex models do not necessarily have good explainability, so how do we manage
@@ -665,7 +672,7 @@ transcript:
   sec: 2066
   time: '34:26'
   who: Alexey
-- header: Is completely automated AI out of the question?
+- header: 'Human‑in‑the‑Loop: Limits of Automation and Responsible Oversight'
 - line: There is a question from Raquel, “What does ‘you need a human touch’ mean?”
     I think this is related to our discussion, where the first step is always a human
     analyzing the data. Then the question goes on “Does this mean that responsible
@@ -705,7 +712,7 @@ transcript:
   sec: 2250
   time: '37:30'
   who: Supreet
-- header: Detecting model drift and overfitting
+- header: 'Detecting Drift & Feedback Loops: Demographics, Overfitting, and KS Tests'
 - line: To your point about drift, we should monitor for bias. There is a comment
     from Abhishek, “If the DataTalks.Club model sees more males attending the events,
     females will not get recommended the event and this can introduce a feedback loop,
@@ -794,7 +801,7 @@ transcript:
   sec: 2506
   time: '41:46'
   who: Supreet
-- header: How Supreet became interested in explainable AI
+- header: 'Regulated Industry Perspectives: Finance, Pharma, and Risk Sensitivity'
 - line: Just curious, how did you become interested in this topic? Like was it something
     you studied and then you became fascinated? Or is it something through practice
     that made you realize that this is a super important topic? How did it happen
@@ -826,7 +833,7 @@ transcript:
   sec: 2616
   time: '43:36'
   who: Supreet
-- header: Trustworthy AI
+- header: 'Hiring Tool Case Study: Historical Bias and Remediation Lessons'
 - line: Speaking again of age and gender, if you think about this, they are not really
     PII in the sense that, if I tell you “This person is a female, who is between
     30 and 40 years of age,” you will not be able to find where this person lives,
@@ -887,7 +894,6 @@ transcript:
   sec: 2807
   time: '46:47'
   who: Supreet
-- header: Reliability vs fairness
 - line: I assume it's something similar. I personally haven't used this tool. It’s
     probably something similar to Scikit Learn. At least the name suggests that it's
     probably something for fairness. Since we talked about fairness – I think we spent
@@ -931,7 +937,6 @@ transcript:
   sec: 2922
   time: '48:42'
   who: Alexey
-- header: Bias indicators
 - line: Okay. We have quite a few questions. So maybe we can cover them too. “Do you
     know if there are any synthetic indicators for bias in data similar to RMSE, which
     is an indicator of accuracy for models?” Is there a number that can just tell
@@ -951,7 +956,7 @@ transcript:
   sec: 2980
   time: '49:40'
   who: Supreet
-- header: The future of explainable AI
+- header: 'AutoML Risks: Democratization, Oversight, and Responsible Usage'
 - line: So then you still need to have this human touch. A person needs to say, “Hey,
     why are you bringing me all the male candidates? Where are the females?” Right?
     So somebody still needs to raise this question and say, “Hey, what's going on?”
@@ -984,7 +989,7 @@ transcript:
   sec: 3081
   time: '51:21'
   who: Supreet
-- header: About DataBuzz
+- header: 'Community & Mentorship: DataBuzz Resources and Networking'
 - line: Can you tell us about the DataBuzz community? What is it? How did you start?
   sec: 3128
   time: '52:08'
@@ -1020,7 +1025,7 @@ transcript:
   sec: 3215
   time: '53:35'
   who: Supreet
-- header: The diversity of data science roles
+- header: 'Data Career Landscape: Analyst, MLOps, Consultant, and Strategist Roles'
 - line: You said that it's not just data scientists – there are so many data roles.
     Quite often, I also get requests like, “Okay, I'm doing X. How can I become a
     data scientist?” And this X usually varies from… I don't know – baristas to software
@@ -1070,7 +1075,7 @@ transcript:
   sec: 3373
   time: '56:13'
   who: Supreet
-- header: Ethics in data science
+- header: 'Ethics Training: Professional Responsibility for Data Practitioners'
 - line: From all these roles, does everyone need to know and care about responsible
     AI and explainable AI?
   sec: 3404
@@ -1128,7 +1133,7 @@ transcript:
   sec: 3550
   time: '59:10'
   who: Supreet
-- header: Conclusion
+- header: 'Closing Remarks: Follow‑up, Links, and Contact Information'
 - line: I think that the time is up. So thanks for joining us. Maybe before we wrap
     up, is there anything you want to mention that maybe you forgot?
   sec: 3567
@@ -1158,6 +1163,131 @@ transcript:
   sec: 3630
   time: '1:00:30'
   who: Alexey
+description: Discover Responsible AI & Explainable AI tactics for bias detection,
+  fairness checks and governance, practical tools to build trustworthy, compliant
+  ML models.
+intro: How do you detect bias, enforce fairness, and govern AI systems in production
+  without sacrificing business outcomes? In this episode, Supreet Kaur — AVP on Morgan
+  Stanley’s Data Strategy and Products team, founder of DataBuzz, and mentor at Columbia
+  and Rutgers — walks through a practical roadmap for responsible AI and explainable
+  AI grounded in real-world examples. <br><br> We define responsible AI and contrast
+  it with post‑hoc explainability, then unpack a credit decision bias case to show
+  disparate outcomes in practice. Supreet outlines glass‑box explainability techniques,
+  data‑level fairness checks (skewness, missingness, coverage), and EDA methods for
+  bias detection. She covers PII handling, feature necessity assessments with SMEs
+  and compliance, and automating data quality and monitoring. You’ll hear tool recommendations
+  — What‑If, Skater, AI Explainability 360, LIME, SHAP — plus approaches to local
+  interpretability, drift and feedback‑loop detection, and trade‑offs between accuracy
+  and interpretability. <br><br> Listeners will gain actionable guidance on bias detection,
+  model interpretability, AI governance structures, and managing AutoML and regulated‑industry
+  risks — practical steps to make AI systems more fair, transparent, and accountable.
+dateadded: '2022-10-02'
+duration: PT00H58M56S
+quotableClips:
+- name: 'Episode Introduction: Responsible and Explainable AI'
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=0
+  endOffset: 134
+- name: 'Career Journey: Master''s, Consulting, and Founding DataBuzz'
+  startOffset: 134
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=134
+  endOffset: 234
+- name: 'Data Strategy Role: Building AI Products at Morgan Stanley'
+  startOffset: 234
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=234
+  endOffset: 283
+- name: 'Responsible AI: Definition, Trust, and Stakeholder Collaboration'
+  startOffset: 283
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=283
+  endOffset: 402
+- name: 'Credit Decision Bias Example: Explaining Disparate Outcomes'
+  startOffset: 402
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=402
+  endOffset: 500
+- name: 'Explainable vs Responsible AI: Post‑mortem Tools vs Governance Mindset'
+  startOffset: 500
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=500
+  endOffset: 630
+- name: 'Glass‑Box Approach: Explainable AI Techniques Overview'
+  startOffset: 630
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=630
+  endOffset: 696
+- name: 'Data‑Level Fairness Checks: Skewness, Missingness, and Coverage'
+  startOffset: 696
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=696
+  endOffset: 768
+- name: Exploratory Data Analysis for Bias Detection
+  startOffset: 768
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=768
+  endOffset: 879
+- name: 'PII Handling: Age, Gender, Masking, and Use‑case Justification'
+  startOffset: 879
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=879
+  endOffset: 1040
+- name: 'Feature Necessity: Product, SME, and Compliance Decisioning'
+  startOffset: 1040
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1040
+  endOffset: 1107
+- name: 'Automating Data Quality: DQ Tools, Alerts, and Monitoring'
+  startOffset: 1107
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1107
+  endOffset: 1143
+- name: 'Model Explainability Tools: What‑If, Skater, and AI Explainability 360'
+  startOffset: 1143
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1143
+  endOffset: 1404
+- name: 'Local Interpretability: LIME, SHAP, and Surrogate Models'
+  startOffset: 1404
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1404
+  endOffset: 1462
+- name: 'Ethics vs Profitability: Balancing Fairness and Business Objectives'
+  startOffset: 1462
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1462
+  endOffset: 1658
+- name: 'Cross‑Functional Governance: SMEs, Compliance, and Leadership Roles'
+  startOffset: 1658
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1658
+  endOffset: 1949
+- name: 'Accuracy vs Interpretability: Managing Model Complexity Trade‑offs'
+  startOffset: 1949
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1949
+  endOffset: 2128
+- name: 'Human‑in‑the‑Loop: Limits of Automation and Responsible Oversight'
+  startOffset: 2128
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=2128
+  endOffset: 2251
+- name: 'Detecting Drift & Feedback Loops: Demographics, Overfitting, and KS Tests'
+  startOffset: 2251
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=2251
+  endOffset: 2559
+- name: 'Regulated Industry Perspectives: Finance, Pharma, and Risk Sensitivity'
+  startOffset: 2559
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=2559
+  endOffset: 2647
+- name: 'Hiring Tool Case Study: Historical Bias and Remediation Lessons'
+  startOffset: 2647
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=2647
+  endOffset: 3017
+- name: 'AutoML Risks: Democratization, Oversight, and Responsible Usage'
+  startOffset: 3017
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3017
+  endOffset: 3128
+- name: 'Community & Mentorship: DataBuzz Resources and Networking'
+  startOffset: 3128
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3128
+  endOffset: 3230
+- name: 'Data Career Landscape: Analyst, MLOps, Consultant, and Strategist Roles'
+  startOffset: 3230
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3230
+  endOffset: 3404
+- name: 'Ethics Training: Professional Responsibility for Data Practitioners'
+  startOffset: 3404
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3404
+  endOffset: 3567
+- name: 'Closing Remarks: Follow‑up, Links, and Contact Information'
+  startOffset: 3567
+  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3567
+  endOffset: 3536
 ---
 
 Links:

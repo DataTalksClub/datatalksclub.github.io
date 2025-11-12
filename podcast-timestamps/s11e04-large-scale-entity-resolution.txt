@@ -1,0 +1,34 @@
+00:00:00 Podcast Introduction
+00:01:11 Guest Overview: Sonal Goyal and Zingg identity resolution
+00:02:06 Career Overview: 24 years in tech, data consulting background
+00:02:58 Origin Story: Consulting projects reveal recurring identity gaps
+00:04:51 Modern Data Stack: Centralized data exposing identity challenges
+00:05:43 Product Overview: Zingg — ML-powered identity resolution
+00:07:14 Terminology: Entity resolution vs identity resolution
+00:07:52 Duplicate Detection vs Deduplication: Outcomes and use cases
+00:09:08 Motivation: Recurring duplicate problems across domains
+00:11:09 Solution Generality: Customers, products, patients and suppliers
+00:13:38 Related Terms: Record linkage, entity matching, entity disambiguation
+00:14:02 Core Approach: ML training, blocking, indexing for scale
+00:18:13 Implementation: Spark distribution, Snowflake-native & Python API
+00:20:41 Interfaces & Integrations: CLI, Python SDK, Databricks, dbt, UI plans
+00:21:51 Founder Transition: From consultancy to full-time product build
+00:23:00 Development Timeline: Proof-of-concept to public release (~18 months)
+00:24:14 Open Source Strategy: Community, adoption, and business rationale
+00:27:00 Licensing Choice: AGPL to prevent SaaS rehosting and protect IP
+00:31:10 Open Source Trade-offs: IP concerns vs discoverability and growth
+00:32:00 Team Evolution: Solo founder, consultants, and initial hires
+00:32:59 Founder Role: Product, ecosystem integrations, community and hiring
+00:35:14 Team & Hiring: First developer hire and fully remote setup
+00:37:21 Scaling Challenge: Recruiting the right engineering talent
+00:38:43 Prevention Limits: Data governance won’t fully eliminate identity issues
+00:40:36 Beyond Joins: When fuzzy joins and basic ETL aren’t enough
+00:44:25 Deterministic Rules vs Probabilistic ML: Trade-offs for accuracy
+00:45:50 Fraud Use Cases: Identity resolution for AML and fraud detection
+00:49:23 Graph + ML: Pairwise matching, graph clustering and downstream use
+00:50:20 Data Mapping: Need to specify field correspondences for matching
+00:51:39 Impact Case Studies: Public-data donors, e‑commerce and classifieds
+00:54:11 Retrospective: Seeking cofounder earlier and open-sourcing sooner
+00:56:07 Founder Advice: Validate use cases, distribution channels, and conviction
+00:59:26 Recommended Reading: Creative Selection on product design
+01:00:38 Closing Remarks: Follow-ups, demos and contact options

@@ -1,0 +1,29 @@
+00:00:00 Episode Overview & Guest Introduction
+00:01:20 Guest Background: Lawyer → Developer → Educator
+00:03:56 Active Learning & Continuous Student Feedback (teaching methods)
+00:06:32 Education as Social Impact: Training, Refugees, Last-mile
+00:08:42 Early Bootcamps: General Assembly and Flatiron School Origins
+00:09:58 Curriculum Development: Market Research & Employer Validation
+00:11:44 Lesson Structure: Syllabi, Labs, Reinforcement Cycles
+00:14:30 Pedagogy: Conceptual Understanding Before Implementation
+00:15:24 Market Shift: Why Data Science Moved Toward Data Engineering
+00:16:58 Building a School: Affordability, Part-time Model, Career Services
+00:20:18 Lowering Barriers: Workshops, Part-time Pathways, Admissions
+00:23:35 Data Engineering Core Skills: Python, SQL, Cloud Fundamentals
+00:26:40 Ensuring Hires: Admissions Criteria, Curriculum-Employer Fit, Follow-up
+00:27:41 Mid-Program Internships: Employer Projects for Real Experience
+00:30:32 Applicant Screening: Technical Interview & Learning Agility
+00:33:05 Interview Practice: Apply Early, Learn from Rejection
+00:36:18 Analytics Engineering Module: DBT, Snowflake, Mode, Fivetran
+00:37:41 Backend Engineering Module: Flask, ETL, Codebase Navigation, Testing
+00:38:05 Curriculum Prioritization: Dropping Spark/Kafka/Kubernetes for Juniors
+00:40:42 Transition Path: Data Analyst → Data Engineer (backend & cloud focus)
+00:44:21 SQL Mastery: Window Functions & Medium LeetCode SQL Problems
+00:45:14 Data Modeling Practice: OLTP vs OLAP and Sample Databases
+00:48:00 Interview Stages: Screening Calls, SQL Tests, On-site Expectations
+00:49:52 How to Start Teaching: Pick a Beginner Topic & Teach One Person
+00:51:56 Delivery Tactics: In-Person vs Online Engagement and Sequencing
+00:54:54 Running a Small School: Curriculum Volume and Time Management
+00:56:46 Teaching Fundamentals vs Shiny Tech: 85% Python/SQL, 15% tools
+00:59:31 Outcomes & Next Cohort: JigsawLabs Results and Start Date
+01:00:21 Contact & Follow-up: Jeff Katz, Webinar on Getting Data Engineering Jobs

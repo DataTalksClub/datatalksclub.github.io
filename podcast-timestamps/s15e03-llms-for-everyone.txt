@@ -1,0 +1,29 @@
+00:00:00 Episode Introduction: LLMs for Everyone
+00:01:07 Guest Introduction: Meryem Arik and TitanML
+00:01:45 Career Journey: Theoretical Physics → Banking → Tech
+00:02:13 Founding TitanML: pivot from computer vision to LLM deployability
+00:04:49 Startup Realities: co-founder roles, operations, and tradeoffs
+00:06:42 Early LLM Interest: customer-driven pivot and GPT‑3 experience
+00:09:17 ChatGPT Breakthrough: conversational interface and accessibility
+00:10:24 LLM Fundamentals: generative vs. non‑generative models and transformers
+00:11:44 Model Selection: classification tasks vs. generative tasks
+00:13:45 Open‑source Model Landscape: LLaMA, FLAN‑T5, Falcon, MPT
+00:14:45 Why LLMs Matter: handling unstructured text at scale
+00:16:48 Open‑source vs API Models: control, privacy, and fine‑tuning benefits
+00:18:46 Model Drift & API Risk: hidden model changes and production impact
+00:23:37 TitanML Product Suite: Train, Optimized, and Takeoff server
+00:25:26 Serving Challenges: model size, compression, and inference optimization
+00:26:30 Fine‑tuning Purpose: specialization, domain adaptation, and tone
+00:31:38 Fine‑tuning Generative Models: data formats and end‑task considerations
+00:33:58 Workforce Impact: productivity gains and job disruption scenarios
+00:40:46 Dealing with Changing Knowledge: retrieval over continuous retraining
+00:42:02 Grounding Answers: indexing docs and retrieval‑augmented responses
+00:46:42 Retrieval Patterns: injecting passages, summarizers, and grounding layers
+00:48:01 Vector Databases Explained: embeddings, indexing, and semantic search
+00:49:44 Prototyping vs Production: when to use GPT‑3.5/4 APIs vs open‑source LLMs
+00:51:35 Latency & Cost Tradeoffs: self‑hosting performance and hardware choices
+00:53:34 Data Quality Metrics: gold‑standard examples and output‑driven evaluation
+00:55:32 Dataset Expansion: LLM‑assisted augmentation for training data
+00:56:39 Evaluation & Benchmarking: classification vs generative metrics and human review
+00:59:08 Learning Resources: Hugging Face, Cohere LLM University, community content
+01:00:38 Episode Close and Final Remarks

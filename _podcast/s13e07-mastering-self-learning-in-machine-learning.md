@@ -13,8 +13,12 @@ links:
   youtube: https://www.youtube.com/watch?v=Kc3Puh3UCRQ
 season: 13
 short: Mastering Self-Learning in Machine Learning
-title: Mastering Self-Learning in Machine Learning
+title: 'How to Teach Yourself Bioinformatics & ML: Project-First Learning, Resources,
+  and MLOps'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Overview: Aaisha — self-taught bioinformatician, ML engineer, scientific
+    illustrator'
 - line: This week we'll talk about self-studying and continuous learning in machine
     learning and bioinformatics. We have a special guest today, Aaisha. Aaisha is
     a self-taught bioinformatician, machine learning engineer, and data scientist
@@ -38,7 +42,7 @@ transcript:
   sec: 127
   time: '2:07'
   who: Alexey
-- header: Aaisha’s background
+- header: 'Early Learning & Homeschooling: Python, web development, and flexible study'
 - line: Let's start. Before we go into our main topic of self-study and continuous
     learning in machine learning and bioinformatics, let's start with your background.
     Can you tell us about your career journey so far?
@@ -114,7 +118,6 @@ transcript:
   sec: 329
   time: '5:29'
   who: Aaisha
-- header: How homeschooling affects self-study
 - line: I see. What I'm trying to ask is, you're not taking these classes as any part
     of a formal education, right?. You're just going on the internet, finding things
     there to study and you just study them, right? Or how does it work? How do you
@@ -189,7 +192,7 @@ transcript:
   sec: 484
   time: '8:04'
   who: Aaisha
-- header: Deciding on what to learn about
+- header: 'Choosing What to Learn: prioritization, filtering, and avoiding FOMO'
 - line: What I wanted to ask you next was what motivated you to take this approach.
     I guess you kind of answered that already because you have been doing self-studying
     since forever – since school days. [Aaisha agrees] So maybe what is interesting
@@ -202,6 +205,7 @@ transcript:
   sec: 513
   time: '8:33'
   who: Alexey
+- header: 'Open Curricula: OSSU pathway for bioinformatics'
 - line: As a general topic – let’s say I want to study bioinformatics or whatever
     – I think I started following it out of interest a bit more, because I always
     wanted to do this cool scientific research and stuff. But it hasn't always been
@@ -235,6 +239,7 @@ transcript:
   sec: 753
   time: '12:33'
   who: Alexey
+- header: 'Skill Mapping with ML Zoomcamp: building machine learning fundamentals'
 - line: Yeah. I was saying that, in general, for finding resources, I think studying
     a lot of them online helps with that. You can start curating the resources that
     you find and know, “Okay, this covers this skill set. Maybe this is not what I
@@ -255,7 +260,7 @@ transcript:
   sec: 768
   time: '12:48'
   who: Aaisha
-- header: Establishing whether a resource is good
+- header: 'Evaluating Resources: syllabus skimming and instructor credibility'
 - line: I have so many questions based on what you just said. There are so many interesting
     directions. First of all, you said that you developed a feeling – when you look
     at the resource, you know that it's good. I wonder – how does it work? How do
@@ -294,6 +299,7 @@ transcript:
   sec: 862
   time: '14:22'
   who: Aaisha
+- header: Free vs Paid Resources and Vetting Paid Courses
 - line: You mainly look at free resources? Or do you also consider paid courses?
   sec: 962
   time: '16:02'
@@ -340,6 +346,7 @@ transcript:
   sec: 1069
   time: '17:49'
   who: Aaisha
+- header: 'Practical Relevance: identifying industry-useful ML topics (SVM anecdote)'
 - line: Yeah. But when it comes to machine learning, there are many things. For example,
     when I was studying machine learning, I thought that support vector machines are
     super important to understand. Also because I was taking a machine learning class
@@ -447,7 +454,7 @@ transcript:
   sec: 1331
   time: '22:11'
   who: Aaisha
-- header: How Aaisha focuses on learning
+- header: 'Learning Strategy: balancing theory and project-based practice'
 - line: How do you approach this? How do you approach learning? Do you focus on building
     projects? Do you focus on learning theory first? How does it work for you in general?
   sec: 1362
@@ -486,7 +493,7 @@ transcript:
   sec: 1461
   time: '24:21'
   who: Aaisha
-- header: Deciding on what kind of project to build
+- header: Project Selection & Dataset-First Ideation
 - line: I was wondering, how do you decide what to build? If you want to build a project,
     there is probably a skill that you want to master. How do you decide that, “To
     master this skill, I want to build this project that should do this, this, and
@@ -513,6 +520,7 @@ transcript:
   sec: 1541
   time: '25:41'
   who: Alexey
+- header: 'Research Papers & Dataset Discovery: Google Scholar, PubMed, citation graphs'
 - line: Yeah. Another way of finding cool data is – people publish research papers
     on random stuff, outside doing stuff, and for a lot of them, they publish the
     data with it. It's not clean data a lot of the time, because it is not meant to
@@ -525,7 +533,6 @@ transcript:
   sec: 1555
   time: '25:55'
   who: Aaisha
-- header: Find research materials
 - line: How do you find these papers that you want to read?
   sec: 1603
   time: '26:43'
@@ -565,7 +572,7 @@ transcript:
   sec: 1714
   time: '28:34'
   who: Aaisha
-- header: Aaisha’s experience with the Data Talks Club ML Zoomcamp
+- header: 'ML Zoomcamp Experience: why the course appealed and structure'
 - line: Yeah, exactly. Then you have both directions – you can go to the past and
     see what was done before and then what kind of work was based on this paper? [Aaisha
     agrees] I also remember spending a lot of time on that. But I kind of had to do
@@ -626,7 +633,7 @@ transcript:
   sec: 1861
   time: '31:01'
   who: Aaisha
-- header: ML Zoomcamp projects
+- header: 'Zoomcamp Projects: frog toxicity capstone and landscape classifier'
 - line: Okay. [chuckles] Well tell her “Hi.” Anyway, we were talking about projects,
     right? Since you mentioned it, this is what I wanted to talk to you about. In
     the Zoomcamp, we have these three projects. I wanted to talk to you and understand
@@ -722,12 +729,12 @@ transcript:
   sec: 2138
   time: '35:38'
   who: Aaisha
-- header: Aaisha’s interest in bioinformatics
 - line: “Now, let's read about horse genetics.” Right. [Aaisha chuckles and agrees]
     Is it related to your interest in bioinformatics in any way?
   sec: 2147
   time: '35:47'
   who: Alexey
+- header: 'Bioinformatics Motivation: research interest meeting practical tech'
 - line: Bioinformatics is more born from my general… At that time I was very much
     obsessed with being a researcher. I wanted to do it at any rate. I don't want
     to be one anymore. But at that point, I was like, “Biology and chemistry research
@@ -747,7 +754,8 @@ transcript:
   sec: 2156
   time: '35:56'
   who: Aaisha
-- header: Keeping motivated with deadlines
+- header: 'Deadlines & Productivity Tactics: self-imposed deadlines and sticky-note
+    hacks'
 - line: I'm really curious about… for example, you said you wanted to do research
     and that you studied but then you realized you don't want to do research. How
     do you stay motivated when learning by yourself? Because I imagine – for me, at
@@ -769,6 +777,9 @@ transcript:
   sec: 2275
   time: '37:55'
   who: Alexey
+- header: 'Study Habits: note-taking, time tracking, and personal workflow'
+- header: 'Drawbacks of Independent Study: discipline risks and curriculum gaps'
+- header: 'Community Learning: study groups, Slack, and teaching-to-learn'
 - line: I set the deadlines myself, yeah. I think, to some degree, being homeschooled
     might have helped with this. I've never had much of an external factor to keep
     me going. It’s been like, “Okay. Well, you have to do this at some point, so just
@@ -848,7 +859,6 @@ transcript:
   sec: 2510
   time: '41:50'
   who: Aaisha
-- header: Notes and time-tracking tools
 - line: In general, how do you…? Well, you said that you use sticky notes to “bully
     your brain into doing stuff” as you said. [Aaisha chuckles] When it comes to actually
     studying, taking notes, and keeping your projects organized, do you have any system
@@ -888,7 +898,6 @@ transcript:
   sec: 2604
   time: '43:24'
   who: Aaisha
-- header: Drawbacks to self-studying
 - line: Are there any drawbacks to self-studying? Let's say we compare the Zoomcamp,
     where deadlines are external – they are forced on to you – versus self-studying,
     when you find material online and you learn it at your own pace. What are some
@@ -944,7 +953,6 @@ transcript:
   sec: 2789
   time: '46:29'
   who: Aaisha
-- header: Aaisha’s interest in machine learning
 - line: I think at the beginning, you said that one of the goals you have is to break
     into machine learning. [Aaisha agrees] Having this goal, does it help you to actually
     focus on studying and selecting which kind of material you want to focus on and
@@ -963,7 +971,7 @@ transcript:
   sec: 2820
   time: '47:00'
   who: Aaisha
-- header: Aaisha’s least favorable part of ML Zoomcamp
+- header: 'Deployment & MLOps: Docker, Kubernetes, and deployment discomfort'
 - line: '[gets distracted] In the Zoomcamp, there were two parts – there was the data
     science part, which was more focused on machine learning theory, and then there
     was a more practical machine learning engineering part. Which one did you like
@@ -986,7 +994,6 @@ transcript:
   sec: 2910
   time: '48:30'
   who: Aaisha
-- header: Helping people as a way to learn
 - line: Do you have any tips for anyone who wants to start ML Zoomcamp as a student
     now, for example, in the self-paced mode?
   sec: 2969
@@ -1025,7 +1032,7 @@ transcript:
   sec: 3040
   time: '50:40'
   who: Aaisha
-- header: Using ChatGPT as a “study group”
+- header: ChatGPT as a Study Companion and Pseudo Study Group
 - line: I don't know if you use it – maybe you're tired of hearing about it – but
     I want to say something about ChatGPT. What I also find useful is just talking
     to the Chatbot about a topic – just asking it questions and then making sure I
@@ -1055,7 +1062,7 @@ transcript:
   sec: 3102
   time: '51:42'
   who: Aaisha
-- header: Is it possible to use self-studying to learn high-level topics
+- header: 'Advanced Learning: approaching PhD-level topics via papers'
 - line: Interesting. I think we have a few questions. One question is, “How can we
     learn about advanced topics, like PhD-level courses?”
   sec: 3114
@@ -1093,6 +1100,7 @@ transcript:
   sec: 3201
   time: '53:21'
   who: Aaisha
+- header: 'Research Access & Publishing Challenges: paywalls and library access'
 - line: I’m sure you can publish a paper without being a part of an institution.
   sec: 3218
   time: '53:38'
@@ -1170,7 +1178,7 @@ transcript:
   sec: 3374
   time: '56:14'
   who: Aaisha
-- header: Switching topics to avoid burnout
+- header: 'Avoiding Burnout: switching topics and juggling parallel projects'
 - line: Another question is related to burnout. I don't know if you ever had to deal
     with anything like that – when you cannot just study anything and all you want
     to do is watch YouTube videos with cats. Did it ever happen to you?
@@ -1201,7 +1209,6 @@ transcript:
   sec: 3435
   time: '57:15'
   who: Aaisha
-- header: Aaisha’s resource recommendations
 - line: Interesting. Well, I think we should be slowly wrapping up. So maybe the last
     question is, “Are there any books or other good resources that you can recommend
     to the listeners?”
@@ -1217,6 +1224,7 @@ transcript:
   sec: 3498
   time: '58:18'
   who: Alexey
+- header: 'Recommended Resources: Python for Everybody, ML Zoomcamp, further reading'
 - line: For Python, I can recommend a course I’ve done, which was very interesting.
     It’s called Python for Everybody. I liked it because the person was not spending
     too long on the stuff. It was a bit fast-paced. But also, if he went a bit more
@@ -1246,6 +1254,7 @@ transcript:
   sec: 3579
   time: '59:39'
   who: Aaisha
+- header: Closing Remarks and Final Thoughts
 - line: Okay, then. That's all we have time for today. Thanks a lot for joining us
     today for sharing your experience about self-learning. And thanks, everyone, also
     for joining us today, for listening in. I guess that's it for today.
@@ -1257,10 +1266,142 @@ transcript:
   sec: 3608
   time: '1:00:08'
   who: Aaisha
+- header: Episode Sign-Off
 - line: Our pleasure. Have a great weekend everyone.
   sec: 3611
   time: '1:00:11'
   who: Alexey
+description: Learn bioinformatics & machine learning via project-first workflows,
+  dataset-first ideation, study hacks and MLOps deployment tips to gain practical
+  skills.
+intro: How do you teach yourself bioinformatics and machine learning in a way that
+  leads to real projects and deployable models? In this episode, Aaisha Muhammad —
+  a self-taught bioinformatician, machine learning engineer and scientific illustrator
+  from Johannesburg and a Datatalks.Club ML Zoomcamp graduate — walks through a project-first
+  path for learning bioinformatics and ML. We cover prioritization and avoiding FOMO,
+  open curricula like OSSU, skill mapping with ML Zoomcamp, and practical resource
+  evaluation (free vs paid, syllabus skimming, instructor credibility). Aaisha explains
+  dataset-first project ideation, finding datasets and papers via Google Scholar and
+  PubMed, and building capstone projects such as frog toxicity and landscape classifiers.
+  You’ll hear pragmatic study tactics — self-imposed deadlines, note-taking, time
+  tracking, community study groups, and using ChatGPT as a study companion — plus
+  strategies to approach PhD-level papers while avoiding burnout. For engineers interested
+  in production, the conversation addresses deployment and MLOps basics including
+  Docker and Kubernetes. Tune in to gain concrete guidance on projects, vetted resources,
+  and the study habits that make self-directed bioinformatics and ML learning sustainable.
+dateadded: '2023-04-08'
+duration: PT00H58M57S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=0
+  endOffset: 74
+- name: 'Guest Overview: Aaisha — self-taught bioinformatician, ML engineer, scientific
+    illustrator'
+  startOffset: 74
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=74
+  endOffset: 137
+- name: 'Early Learning & Homeschooling: Python, web development, and flexible study'
+  startOffset: 137
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=137
+  endOffset: 513
+- name: 'Choosing What to Learn: prioritization, filtering, and avoiding FOMO'
+  startOffset: 513
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=513
+  endOffset: 561
+- name: 'Open Curricula: OSSU pathway for bioinformatics'
+  startOffset: 561
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=561
+  endOffset: 768
+- name: 'Skill Mapping with ML Zoomcamp: building machine learning fundamentals'
+  startOffset: 768
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=768
+  endOffset: 829
+- name: 'Evaluating Resources: syllabus skimming and instructor credibility'
+  startOffset: 829
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=829
+  endOffset: 962
+- name: Free vs Paid Resources and Vetting Paid Courses
+  startOffset: 962
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=962
+  endOffset: 1071
+- name: 'Practical Relevance: identifying industry-useful ML topics (SVM anecdote)'
+  startOffset: 1071
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=1071
+  endOffset: 1362
+- name: 'Learning Strategy: balancing theory and project-based practice'
+  startOffset: 1362
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=1362
+  endOffset: 1470
+- name: Project Selection & Dataset-First Ideation
+  startOffset: 1470
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=1470
+  endOffset: 1555
+- name: 'Research Papers & Dataset Discovery: Google Scholar, PubMed, citation graphs'
+  startOffset: 1555
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=1555
+  endOffset: 1718
+- name: 'ML Zoomcamp Experience: why the course appealed and structure'
+  startOffset: 1718
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=1718
+  endOffset: 1865
+- name: 'Zoomcamp Projects: frog toxicity capstone and landscape classifier'
+  startOffset: 1865
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=1865
+  endOffset: 2156
+- name: 'Bioinformatics Motivation: research interest meeting practical tech'
+  startOffset: 2156
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=2156
+  endOffset: 2215
+- name: 'Deadlines & Productivity Tactics: self-imposed deadlines and sticky-note
+    hacks'
+  startOffset: 2215
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=2215
+  endOffset: 2522
+- name: 'Study Habits: note-taking, time tracking, and personal workflow'
+  startOffset: 2522
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=2522
+  endOffset: 2630
+- name: 'Drawbacks of Independent Study: discipline risks and curriculum gaps'
+  startOffset: 2630
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=2630
+  endOffset: 2740
+- name: 'Community Learning: study groups, Slack, and teaching-to-learn'
+  startOffset: 2740
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=2740
+  endOffset: 2885
+- name: 'Deployment & MLOps: Docker, Kubernetes, and deployment discomfort'
+  startOffset: 2885
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=2885
+  endOffset: 3062
+- name: ChatGPT as a Study Companion and Pseudo Study Group
+  startOffset: 3062
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3062
+  endOffset: 3114
+- name: 'Advanced Learning: approaching PhD-level topics via papers'
+  startOffset: 3114
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3114
+  endOffset: 3218
+- name: 'Research Access & Publishing Challenges: paywalls and library access'
+  startOffset: 3218
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3218
+  endOffset: 3386
+- name: 'Avoiding Burnout: switching topics and juggling parallel projects'
+  startOffset: 3386
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3386
+  endOffset: 3509
+- name: 'Recommended Resources: Python for Everybody, ML Zoomcamp, further reading'
+  startOffset: 3509
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3509
+  endOffset: 3593
+- name: Closing Remarks and Final Thoughts
+  startOffset: 3593
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3593
+  endOffset: 3611
+- name: Episode Sign-Off
+  startOffset: 3611
+  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3611
+  endOffset: 3537
 ---
 
 Links:

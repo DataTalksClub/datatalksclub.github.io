@@ -2,7 +2,22 @@
 episode: 4
 guests:
 - stefangudmundsson
-intro: "In this episode from our archives, Stefan Gudmundsson—Director of Data, Analytics, and AI at CCP Games—shares insights from his experience leading AI at Sidekick Health, where he built data-driven healthcare products that combine personalization, behavioral psychology, and ethical design. Stefan explains how to apply machine learning for diagnosis and patient engagement, design A/B tests in regulated environments, and balance speed with medical responsibility. You’ll learn how to create scalable analytics foundations, ethical recommender systems, and data cultures that prioritize both innovation and empathy."
+intro: How can AI power effective digital therapeutics while balancing personalization,
+  rapid experimentation, and patient safety? In this episode, Stefan Gudmundsson —
+  Director of Data, Analytics, and AI with a track record building ML and data teams
+  at Sidekick Health, King, H&M, and CCP Games — walks through practical approaches
+  for AI in healthcare and digital therapeutics. <br><br> We cover how machine learning
+  is applied to diagnosis, drug discovery, and biologics (AlphaFold); Sidekick Health’s
+  gamified digital therapeutics and quality‑of‑life goals; behavioral design that
+  minimizes in‑app time; and engagement strategies like charity incentives versus
+  leaderboards. Stefan explains building the analytics foundation—data pipelines,
+  dashboards, and experimentation capabilities—and why A/B testing and agenda‑driven
+  recommender systems are core to personalization. He also tackles data privacy and
+  ethics (GDPR/HIPAA, de‑identification), remote monitoring with wearables, clinical
+  trials versus app experiments, managing medical risk, and hiring and scaling data,
+  ML, and engineering teams. <br><br> Listen to get concrete frameworks for building
+  data teams, running safe, measurable experiments, designing personalized interventions,
+  and embedding ethical safeguards into AI-driven digital therapeutics.
 ids:
   anchor: Machine-Learning-and-Personalization-in-Healthcare---Stefan-Gudmundsson-e1h5gdg
   youtube: IDzhmmKeNG4
@@ -14,12 +29,15 @@ links:
   youtube: https://www.youtube.com/watch?v=IDzhmmKeNG4
 season: 8
 short: Machine Learning and Personalization in Healthcare
-title: "Building Data-Driven Healthcare Apps: Personalization, A/B Testing & Ethics"
-description: "Learn ML in healthcare with Stefan Gudmundsson. Master gamified digital therapeutics, A/B testing, GDPR, and agenda-driven recommender systems."
+title: 'AI in Healthcare & Digital Therapeutics: Building Data Teams, Personalization,
+  A/B Testing & Ethics'
+description: 'Learn to build data teams and ethical AI in healthcare: actionable personalization,
+  A/B testing for digital therapeutics, GDPR-safe experiments.'
 topics:
 - machine learning
 - healthcare
 transcript:
+- header: Podcast Introduction
 - line: Hello, everyone. This week we'll talk about machine learning in healthcare,
     and in particular, about personalization in healthcare. We have a special guest
     today, Stefan [cross-talk] Okay. Stefan is from Iceland. At some point, he moved
@@ -32,7 +50,7 @@ transcript:
   sec: 36
   time: 0:36
   who: Stefan
-- header: "Career Journey: Development, Data Warehouse, AI Leadership, Retail"
+- header: 'Career Snapshot: Developer to AI & Data Leader'
 - line: Before we go into our main topic of machine learning in healthcare and personalization
     in healthcare, let's start with your background. Can you tell us about your career
     journey so far?
@@ -67,6 +85,7 @@ transcript:
   sec: 125
   time: '2:05'
   who: Alexey
+- header: Building AI Teams at King and H&M
 - line: I think C Sharp took over at some point. In 2006 and 2007, I had a great experience
     where I was building an enterprise data warehouse from scratch with a great team
     at the largest telecom company in Iceland. That experience has helped me a lot
@@ -133,6 +152,7 @@ transcript:
   sec: 365
   time: '6:05'
   who: Stefan
+- header: 'Machine Learning in Healthcare: Diagnosis, Drug Discovery & AlphaFold'
 - line: '[laughs] Okay. Coming back to our main topic of machine learning in healthcare
     – Usually, when I hear machine learning in healthcare (in general, in healthcare)
     I think about clinical trials. But when people talk about machine learning in
@@ -143,7 +163,6 @@ transcript:
   sec: 367
   time: '6:07'
   who: Alexey
-- header: "ML in Healthcare: Diagnosis, Drug Discovery, Protein Folding, Personalization"
 - line: There are, of course. With myself, this is also what comes to mind first –
     a typical vision you have is that there's an X-ray of some broken arm or whatnot
     and then you have deep learning image recognition to tell you “Okay, this is wrong,
@@ -208,7 +227,8 @@ transcript:
   sec: 593
   time: '9:53'
   who: Stefan
-- header: "Sidekick Health: Gamified Digital Therapeutics; Maximizing Quality Life Years"
+- header: 'Sidekick Health Overview: Gamified Digital Therapeutics & Quality‑of‑Life
+    Goals'
 - line: So basically every scientist becomes the target audience. Before this episode,
     I was doing a little bit of research about the company where you work right now
     – Sidekick Health – and I know that this is in the healthcare domain. In my mind,
@@ -285,7 +305,7 @@ transcript:
   sec: 874
   time: '14:34'
   who: Alexey
-- header: "Key Difference: Low In-App Time; Behavioral Psychology & Habit Formation"
+- header: 'Behavioral Design & Habit Formation: Low In‑App Time Strategy'
 - line: Yes, yes. But at the same time, there are critical differences. We don't want
     to keep you in the app for hours, because most of the activity you need to do
     is outside of the app. So that is a very interesting difference between the two
@@ -377,7 +397,7 @@ transcript:
   sec: 1119
   time: '18:39'
   who: Alexey
-- header: "Culture Similarity; Metric Proxy: Daily Opening; Cautious A/B Testing"
+- header: 'Building Data Culture: Metrics, Buy‑in, and Responsible Experimentation'
 - line: Exactly. I think it's much more similar than you would think in the beginning.
     You basically have a program – some kind of solution – and you're in a company
     where you really want to create this data-driven culture from the data science
@@ -458,7 +478,6 @@ transcript:
   sec: 1401
   time: '23:21'
   who: Alexey
-- header: "Reward Systems: Altruistic Charity vs. Vanity Items/Leaderboards"
 - line: Exactly. That's why companies like King and games like Candy Crush and social
     media are so good at retaining you – they are constantly experimenting and doing
     A/B tests, giving the audience two or three different versions and then you pick
@@ -501,6 +520,7 @@ transcript:
   sec: 1533
   time: '25:33'
   who: Alexey
+- header: 'Engagement & Rewards: Charity Incentives vs. Leaderboards'
 - line: Yes. We give them a task every day according to a program. Every time they
     finish a task, they collect water drops, at the moment.
   sec: 1543
@@ -538,12 +558,12 @@ transcript:
   sec: 1595
   time: '26:35'
   who: Stefan
-- header: "Building Data Foundation: Analytics, Infrastructure, Personalization, Wearables"
 - line: Can you maybe tell us about what kind of problems your team solves? Maybe
     you can also mention a few of the last projects that you worked on.
   sec: 1613
   time: '26:53'
   who: Alexey
+- header: 'Analytics Foundation: Data Pipelines, Dashboards & Experimentation Capabilities'
 - line: Yes. We have been putting a lot of effort into just building the foundation.
     I started a little over a year ago and then we were a much smaller company with
     just two data scientists. Nothing was in place, basically. We needed to build
@@ -587,6 +607,7 @@ transcript:
   sec: 1767
   time: '29:27'
   who: Alexey
+- header: 'Remote Monitoring & Wearables: Activity and Heart‑Rate Variability'
 - line: Yeah, [reluctantly] I mean – you should start there. I think that should always
     be the approach – start with something simple. Then you have data and then you
     have everything in place to automate it. Don't try to automate out of thin air.
@@ -608,7 +629,6 @@ transcript:
   sec: 1808
   time: '30:08'
   who: Alexey
-- header: "Challenges: Regulation, Data Privacy, Ethics, Empathy, GDPR/HIPAA"
 - line: Usually innovation is at its best when you have experts from different fields
     coming together. Somehow the space between them – that makes it automatic. And
     I think that's what we have. We have the medical doctors and the behavioral psychologists
@@ -621,6 +641,7 @@ transcript:
   sec: 1852
   time: '30:52'
   who: Stefan
+- header: 'Data Privacy & Ethics: GDPR/HIPAA, De‑identification, and Empathy'
 - line: We have a question. I mentioned that healthcare is quite a regulated area.
     And usually in healthcare, people take questions about data privacy and this kind
     of stuff very seriously. Does it change the way you work? You have to keep these
@@ -694,7 +715,7 @@ transcript:
   sec: 2100
   time: '35:00'
   who: Stefan
-- header: "Personalization: Agenda-Driven Recommender System (Spotify Analogy)"
+- header: 'Personalization Strategy: Agenda‑Driven Recommender Systems'
 - line: Okay. I wanted to go back to what we were talking about. You said that the
     app is based on the customer profile – patient profile – it makes different recommendations,
     or personalized recommendations, based on that. Can you maybe tell us a bit more
@@ -786,6 +807,7 @@ transcript:
   sec: 2372
   time: '39:32'
   who: Alexey
+- header: 'A/B Testing as Personalization Foundation: Segmentation & Iteration'
 - line: Yes, exactly. But this touches a little bit on the fact of how you approach
     machine learning. I think just jumping into complicated collaborative filtering
     is not the right way. The first step is maybe just setting an A/B test and seeing
@@ -809,7 +831,6 @@ transcript:
   sec: 2473
   time: '41:13'
   who: Alexey
-- header: "A/B Testing: Foundation for Personalization; Strong Analytics Crucial"
 - line: But it is very linked. Because if you offer everyone an A/B test to begin
     with, there are so many low hanging fruits, but you're just improving your program
     easily if you just take the winner of two in every test. But then you gradually
@@ -833,6 +854,7 @@ transcript:
   sec: 2492
   time: '41:32'
   who: Stefan
+- header: 'Experimentation Platform: Variant Availability and Measurement'
 - line: Here, the fundamentally important thing is having this platform for experimenting,
     right? If you don't have this and if you directly jump into collaborative filtering
     or something like the latest deep learning model for recommender systems without
@@ -885,6 +907,7 @@ transcript:
   sec: 2700
   time: '45:00'
   who: Alexey
+- header: 'Clinical Trials vs. App Experiments: Scale, Cost, and Bias'
 - line: It depends on where you are in the industry. The old pharmacy world has been
     doing this for decades. [cross-talk] There is definitely a question for this.
     People are aware of this. I mean, all the kinds of biases that you create when
@@ -922,7 +945,6 @@ transcript:
   sec: 2847
   time: '47:27'
   who: Stefan
-- header: "Data-Driven Culture: Speed over Perfection; Managing Medical Risk"
 - line: So if I want to work in the healthcare industry as a machine learning engineer
     or a data scientist or a data engineer, how much do I need to know about healthcare
     in general? Do I need to have MD status to work there?
@@ -952,6 +974,7 @@ transcript:
   sec: 2921
   time: '48:41'
   who: Alexey
+- header: 'Data‑Driven Tradeoffs: Speed over Perfection in Healthcare Analytics'
 - line: No, not at all. All of these people are very data-driven just by nature. The
     biggest challenges may be to tell a medical doctor, “Okay, now we're testing a
     feature in the app. Let's just test it.” “What?! No, no. Wait!” [laughs] When
@@ -1005,6 +1028,7 @@ transcript:
   sec: 3112
   time: '51:52'
   who: Alexey
+- header: 'Managing Medical Risk: Safeguards for Safe Experimentation'
 - line: No, no. An example we often use to remind ourselves of this is – if you have
     heart failure problems, it's not good to drink too much water, because your lungs
     cannot process all of that, so you end up with liquid in your lungs. But in most
@@ -1044,6 +1068,7 @@ transcript:
   sec: 3198
   time: '53:18'
   who: Stefan
+- header: 'Hiring & Scaling: Growing the Data, ML and Engineering Team'
 - line: Yeah, but it’s better this way rather than just going to the pharmacy by doing
     self-diagnosis and buying something that can cause more harm than good. I've heard
     you're hiring. Can you tell us more about that?
@@ -1063,7 +1088,6 @@ transcript:
   sec: 3219
   time: '53:39'
   who: Stefan
-- header: "Rapid Growth and Hiring Strategy; AI for Psychiatric Monitoring"
 - line: You're hiring in Germany, in Sweden and in Iceland. Right?
   sec: 3279
   time: '54:39'
@@ -1075,7 +1099,6 @@ transcript:
   sec: 3283
   time: '54:43'
   who: Stefan
-- header: "Using AI to Help People Live Better Lives"
 - line: You're the first guest we had from Iceland. Not that many people – I don't
     think I know anyone apart from you. [laughs] I noticed that we have a question
     from Slido. The question is (I don't know if you know about this) “What are your
@@ -1094,6 +1117,7 @@ transcript:
   sec: 3342
   time: '55:42'
   who: Alexey
+- header: 'AI for Mental Health: Monitoring Signals and Supportive Interventions'
 - line: That's a very interesting question. Of course, I'm not sure. But it could
     probably help, at least. A disease like bipolar disease, you're affected a lot
     by just “Okay, now there's more brightness. Now there's more darkness.” You get
@@ -1118,6 +1142,7 @@ transcript:
   sec: 3438
   time: '57:18'
   who: Stefan
+- header: 'Resources & Contact: LinkedIn and Open Roles at Sidekick Health'
 - line: If somebody has questions, what's the best way to reach out? LinkedIn?
   sec: 3449
   time: '57:29'
@@ -1136,6 +1161,90 @@ transcript:
   sec: 3469
   time: '57:49'
   who: Stefan
+dateadded: '2022-04-16'
+duration: PT00H57M48S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=0
+  endOffset: 38
+- name: 'Career Snapshot: Developer to AI & Data Leader'
+  startOffset: 38
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=38
+  endOffset: 128
+- name: Building AI Teams at King and H&M
+  startOffset: 128
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=128
+  endOffset: 367
+- name: 'Machine Learning in Healthcare: Diagnosis, Drug Discovery & AlphaFold'
+  startOffset: 367
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=367
+  endOffset: 602
+- name: 'Sidekick Health Overview: Gamified Digital Therapeutics & Quality‑of‑Life
+    Goals'
+  startOffset: 602
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=602
+  endOffset: 904
+- name: 'Behavioral Design & Habit Formation: Low In‑App Time Strategy'
+  startOffset: 904
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=904
+  endOffset: 1167
+- name: 'Building Data Culture: Metrics, Buy‑in, and Responsible Experimentation'
+  startOffset: 1167
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1167
+  endOffset: 1543
+- name: 'Engagement & Rewards: Charity Incentives vs. Leaderboards'
+  startOffset: 1543
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1543
+  endOffset: 1622
+- name: 'Analytics Foundation: Data Pipelines, Dashboards & Experimentation Capabilities'
+  startOffset: 1622
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1622
+  endOffset: 1773
+- name: 'Remote Monitoring & Wearables: Activity and Heart‑Rate Variability'
+  startOffset: 1773
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1773
+  endOffset: 1901
+- name: 'Data Privacy & Ethics: GDPR/HIPAA, De‑identification, and Empathy'
+  startOffset: 1901
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1901
+  endOffset: 2139
+- name: 'Personalization Strategy: Agenda‑Driven Recommender Systems'
+  startOffset: 2139
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2139
+  endOffset: 2397
+- name: 'A/B Testing as Personalization Foundation: Segmentation & Iteration'
+  startOffset: 2397
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2397
+  endOffset: 2580
+- name: 'Experimentation Platform: Variant Availability and Measurement'
+  startOffset: 2580
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2580
+  endOffset: 2729
+- name: 'Clinical Trials vs. App Experiments: Scale, Cost, and Bias'
+  startOffset: 2729
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2729
+  endOffset: 2965
+- name: 'Data‑Driven Tradeoffs: Speed over Perfection in Healthcare Analytics'
+  startOffset: 2965
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2965
+  endOffset: 3115
+- name: 'Managing Medical Risk: Safeguards for Safe Experimentation'
+  startOffset: 3115
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=3115
+  endOffset: 3201
+- name: 'Hiring & Scaling: Growing the Data, ML and Engineering Team'
+  startOffset: 3201
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=3201
+  endOffset: 3353
+- name: 'AI for Mental Health: Monitoring Signals and Supportive Interventions'
+  startOffset: 3353
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=3353
+  endOffset: 3449
+- name: 'Resources & Contact: LinkedIn and Open Roles at Sidekick Health'
+  startOffset: 3449
+  url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=3449
+  endOffset: 3468
 ---
 
 Links:

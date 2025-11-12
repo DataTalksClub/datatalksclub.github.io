@@ -1,0 +1,26 @@
+00:00:00 Podcast Introduction
+00:01:34 Guest Introduction: Dania — AI Guild co‑founder, machine learning background
+00:02:32 Early Career: Applied math, Spark vs Hadoop thesis and marketing analytics
+00:03:36 Move to Berlin: Startup roles and building end‑to‑end data skills
+00:05:19 Role Evolution: Data scientist generalist to specialized career paths
+00:06:32 Teaching & Mentoring: Bootcamps, Data Science for Good, and skills sharing
+00:11:17 Community Origin Story: From women’s meetups to a broader support network
+00:15:21 Community Growth: Monthly dinners, global expansion, and membership scale
+00:16:45 Datalift Summit Origin: Organizing the first in‑person conference post‑COVID
+00:19:51 Meetup Content Strategy: Curating panels on career options and practical topics
+00:23:15 Diversity in Berlin: Internationality, gender balance, and workplace culture
+00:26:19 Broader Diversity Dimensions: Backgrounds, nationality, and neurodiversity
+00:27:19 Business Case for Diversity: Inclusive teams, product fit, and market reach
+00:31:24 Psychological Safety: Leadership signals and enabling open conversations
+00:33:43 Consulting Model: Vendor‑agnostic machine learning deployment support
+00:34:21 Recruitment & Training: Sourcing diverse talent pools for regulated industries
+00:39:36 Visibility Policy: Inviting women speakers first to increase participation
+00:43:21 Career Growth Advice: Networks, visibility, and stepping into leadership
+00:45:36 Code of Conduct: Crafting practical rules and expected community behavior
+00:49:30 Responding to Misconduct: Reporting, case‑by‑case handling, and consequences
+00:53:48 Community‑to‑Client Matching: Leveraging member expertise for projects
+00:56:13 Team Roles: Founders’ split — machine learning delivery and career coaching
+00:57:56 Scaling Strategy: Freelance network today, hiring full‑time as demand grows
+00:59:11 Recommended Resources: Weapons of Math Destruction and Coded Bias
+01:00:42 Datalift Summit 2023: Call for speakers, workshops, and production use cases
+01:01:18 Closing Remarks and Sign‑off

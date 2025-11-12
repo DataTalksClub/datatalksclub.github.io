@@ -1,0 +1,30 @@
+00:00:00 Podcast Introduction & Guest Overview (Angela Ramirez)
+00:02:41 Career Journey: Sephora to Sam's Club
+00:03:45 Fraud Detection in Retail: Stolen Cards & Return Abuse
+00:06:22 Data Engineering for Fraud: Pipelines, Features, Dashboards
+00:08:24 Feature Engineering Workflow: Daily Batches + Real-Time Scoring
+00:09:48 MLOps Responsibilities: Model Metrics, Deployment, Monitoring
+00:11:19 Team Structure: Data Engineers, ML Engineers, Data Scientists
+00:12:48 Academic Background: Cognitive Science, NLP, HCI
+00:14:14 Data-Centric Mindset: Why Data Engineering Powers ML
+00:16:02 Career Transition: Process Improvement → Data Analyst → Data Engineer
+00:19:15 System Design Best Practices: Stakeholders, Timing, Documentation
+00:20:30 Data Modeling Decisions: Relational vs Document vs Graph
+00:21:30 Elasticsearch & Document Indexing for Entity Data
+00:23:04 Graph Databases & SPARQL: Wikidata and Entity Relationships
+00:29:15 Network Features for Fraud: Members, Transactions, Products
+00:33:34 Real-Time Decisioning: Front-End Signals for Cashiers & Security
+00:34:46 Hybrid Architecture: Batch Computation with Instant Inference
+00:35:33 Database Selection Criteria: Static Schema vs Dynamic Data
+00:38:11 Graph Visualization for Investigations: Neo4j Use Cases
+00:40:50 Software Engineering for Data Engineers: Testing & Code Quality (PySpark)
+00:43:28 Data Quality Tooling: Great Expectations and Cloud Monitoring
+00:44:41 Operational Challenges: Job Failures, Schema Changes, Scaling
+00:48:21 Debugging Playbook: Logs, Runbooks, and Error Documentation
+00:50:23 Tech Stack Overview: GCP, Dataproc/Databricks, PySpark, Cassandra
+00:51:23 Managed vs Serverless Spark: Dataproc, EMR, Serverless Execution
+00:53:18 Pandas & PyArrow: Performance Improvements for Big Data
+00:54:57 Cassandra Use Cases: Scalability, Fault Tolerance, Clusters
+00:56:19 External Data Integration: APIs, Data Contracts, Stability
+01:00:00 Recommended Resources: Designing Data-Intensive Applications, PySpark, SQL
+01:01:15 Episode Wrap-Up & Contact Links

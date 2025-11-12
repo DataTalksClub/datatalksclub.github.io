@@ -1,0 +1,26 @@
+00:00:00 Podcast Introduction
+00:01:33 Guest Introduction: Hugo Bowne‑Anderson, Outerbounds & Metaflow
+00:02:14 Metaflow Sandbox Demo & Full‑Stack Machine Learning Spotlight
+00:03:36 Career Path: From Biophysics Research to Data Science Education
+00:03:46 Building Courses, Open‑Source Collaboration & DataCamp Impact
+00:10:47 Open‑Source Governance: Company Support for Projects (Dask, Metaflow)
+00:13:52 Metaflow Integrations: AWS, Kubernetes, Argo & ML Interoperability
+00:14:34 Path to DevRel: Education to Developer Advocacy
+00:18:03 DevRel Explained: Education, Documentation & the "Wisdom Layer"
+00:22:52 DevRel Organizational Models: Reporting Lines & Technical Alignment
+00:25:17 Developer Collaboration: Feedback Loops, Documentation & Dogfooding
+00:26:10 Generative AI Trends: Impacts on ML Infrastructure & DevRel
+00:27:17 Marketing Partnership: SEO, Content Strategy & Audience Targeting
+00:31:41 Core DevRel Skills: Technical Fluency, Writing & Community Building
+00:34:50 Role Trade‑offs: Content Work vs Internal Data Science
+00:36:27 Teaching Reproducibility: Dogfooding and Simplifying Workflows
+00:37:21 Improving Writing: Practice, Collaboration & Editorial Feedback
+00:40:17 AI‑Assisted Drafting: Whisper, ChatGPT & Productivity Tools
+00:43:14 Content Design: Audience, Goals & Structural Outlines for Tutorials
+00:46:09 Content Goals: Awareness, Support & Open‑Source Strategy Decisions
+00:48:43 Choosing Media: Blog Posts, Talks, Videos, Conferences & ROI
+00:51:42 Scope of DevRel: Internal Enablement, External Outreach & Partnerships
+00:54:31 Career Advice: GitHub Portfolios, Meetups & Experimenting in DevRel
+00:56:12 Long‑Form Conversations: Vanishing Gradients Podcast Overview
+00:58:23 Contact & Resources: Hugo Online, Outerbounds Slack & Links
+00:59:25 Closing Remarks & Episode Wrap‑Up

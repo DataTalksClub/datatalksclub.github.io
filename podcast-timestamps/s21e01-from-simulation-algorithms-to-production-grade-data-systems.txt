@@ -1,0 +1,22 @@
+00:00:00 Episode Introduction & Overview
+00:02:19 Career Background: Electrical Engineering and Simulation Algorithms
+00:03:16 Transition Out of Academia During COVID
+00:04:42 Simulation Research: RF and Wave Propagation Modeling
+00:09:04 Startup Pivot: Synthetic Medical Imaging Data for AI
+00:09:42 Go-to-Market Lesson: Problem-First vs Technology-First
+00:13:20 Early Data Engineering Practice: Minimal Viable Data Work
+00:14:21 Simulation-HPC Integration and Secure Data Management
+00:16:05 Iteration Differences: Academia vs. Startup Timelines
+00:17:55 Scientific Method in Product Discovery and Hypothesis Testing
+00:19:34 Freelance Launch: From CTO Role to Consulting via LinkedIn
+00:22:59 Prototype Delivery: IoT Data Engineering Proof of Concept
+00:25:33 Freelance Risks: Runway, Cashflow, and Operating Expenses
+00:30:50 Client Acquisition: Networking, Recruiters, and Referrals
+00:34:22 Specialization: Industrial Data Integration and Custom ETL
+00:39:00 MVP Workflow: Manual Extraction, CSVs, and Local Analysis
+00:43:27 Preventing Overengineering: Weekly Feedback and Iteration
+00:49:59 Continuous Learning: Practical Experiments and DuckDB
+00:53:42 LLMs for Data Cleaning: Domain Knowledge Limitations
+00:58:29 Tech Stack & Systems Thinking: Python, C++, DBT, Docker
+01:00:53 Manual Data Exploration: Handling Edge Cases Before Automation
+01:03:31 Closing Remarks and Freelancing Advice

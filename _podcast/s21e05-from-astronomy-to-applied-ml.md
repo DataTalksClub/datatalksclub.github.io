@@ -13,9 +13,9 @@ links:
   youtube: https://www.youtube.com/watch?v=b92gwrsVQtg
 season: 21
 short: From Astronomy to Applied ML
-title: From Astronomy to Applied ML
+title: 'Detecting Radio-Emitting Stars with MEERKAT: Building ML & Cloud Data Pipelines'
 transcript:
-- header: Lunar eclipse story and Daniel’s astronomy career
+- header: Podcast Introduction & Lunar Eclipse Anecdote
 - line: Hi everyone, welcome to our event. This event is brought to you by Data Talks
     Club which is a community of people who love data. We have weekly events and today
     is one of such events. If you want to find out more about the events we have in
@@ -44,6 +44,7 @@ transcript:
   sec: 68
   time: '1:08'
   who: Daniel
+- header: 'Career Overview: From Nigeria to PhD in Cape Town'
 - line: Yeah. So let's start. This week we'll discuss astronomy, applied machine learning,
     and how you can move from one to another. We have a very special guest today Daniel.
     Daniel is an astrophysicist, turned machine learning engineer and AI ambassador.
@@ -105,7 +106,7 @@ transcript:
   sec: 233
   time: '3:53'
   who: Alexey
-- header: Electromagnetic spectrum and MEERKAT data explained
+- header: 'MEERKAT and SKA: Radio Telescope Project Overview'
 - line: Well, my career journey just like you said, I'm a PhD candidate at University
     of Cape Town. I only came to South Africa because of my PhD. I did my undergrad
     and masters in Nigeria and then I got a scholarship to come do my PhD here at
@@ -115,6 +116,7 @@ transcript:
   sec: 252
   time: '4:12'
   who: Daniel
+- header: 'Electromagnetic Spectrum: Radio to Gamma Explained'
 - line: All of us know that stars are something that we see very commonly in the sky
     with our neck and eyes. But that is because stars are very good at radiating in
     the optical wavelength which our eyes can see. But if you go towards the lower
@@ -139,6 +141,7 @@ transcript:
   sec: 350
   time: '5:50'
   who: Daniel
+- header: 'Research Goal: Identifying Radio-Emitting Stars in MEERKAT Data'
 - line: My job is now to take the data from MEERKAT and find radio emitting stars
     from that dataset.
   sec: 379
@@ -158,6 +161,7 @@ transcript:
   sec: 399
   time: '6:39'
   who: Alexey
+- header: Telescope Types and Observing Constraints (Optical, Infrared, X-ray)
 - line: The electromagnetic spectrum is basically the range by which light can emit.
     It can be low frequency, high frequency, or wavelength related. It spans from
     radio which is considered low frequency to high frequency like gamma ray.
@@ -178,6 +182,7 @@ transcript:
   sec: 451
   time: '7:31'
   who: Daniel
+- header: Radio Telescope Site Requirements and Space-based X-ray Observatories
 - line: Big ones exist too like at this South African observatory. But radio telescopes
     are less common; they need to be built in quiet fields to avoid radio interference
     from electronic devices or satellites. X-ray telescopes are even more difficult
@@ -235,7 +240,7 @@ transcript:
   sec: 627
   time: '10:27'
   who: Daniel
-- header: Data analysis and positional cross-correlation challenges
+- header: 'Data Workflow: Detecting Point Sources in Radio Images'
 - line: Interesting. And what do you exactly do? So, you said there is this MEERKAT
     telescope, right?
   sec: 639
@@ -265,6 +270,7 @@ transcript:
   sec: 697
   time: '11:37'
   who: Alexey
+- header: Cross-matching Multi-wavelength Catalogs and Positional Astronomy
 - line: The operation of MEERKAT was to scan the Milky Way part and then get this
     data. My job is also to take this data derived from MEERKAT and do cross correlation
     with other multi-wavelength data sets.
@@ -316,6 +322,7 @@ transcript:
   sec: 809
   time: '13:29'
   who: Alexey
+- header: 'Positional Uncertainty: 2D Projection, Foreground/Background Confusion'
 - line: We're looking for stars and stars are very weak in the radio but have lots
     of stars in the optical. Cross correlation helps link emissions from the same
     object.
@@ -352,11 +359,11 @@ transcript:
   sec: 920
   time: '15:20'
   who: Daniel
-- header: Physics behind radio star detection and observation limits
 - line: In the Milky Way, it's a common problem because of the many stars.
   sec: 925
   time: '15:25'
   who: Alexey
+- header: 'Physics-based Verification: Using Prior Observations to Confirm Sources'
 - line: Yes, many stars so you have to take that into account. So just finding things
     in the same position isn't enough but you need to consider physics. What are known
     properties of the source?
@@ -374,7 +381,7 @@ transcript:
   sec: 946
   time: '15:46'
   who: Alexey
-- header: Radio astronomy’s advantage and machine learning potential
+- header: Radio Stars Rarity and Sensitivity Improvements with New Telescopes
 - line: That's from looking in optical wavelengths. In radio it's different. Stars
     are dark in radio. If you point to stars seen in optical, in radio you might not
     see them because the emission is faint or non-existent.
@@ -395,6 +402,7 @@ transcript:
   sec: 1061
   time: '17:41'
   who: Alexey
+- header: Building Curated Datasets as Foundation for Future Machine Learning
 - line: Not yet. We are building a dataset that could be useful for machine learning
     in the future. Currently, it's more observational data and physics modeling is
     needed first.
@@ -430,7 +438,6 @@ transcript:
   sec: 1232
   time: '20:32'
   who: Daniel
-- header: Radio astronomy progress and Daniel’s ML journey
 - line: Okay. So right now it's a few thousand of stars only but with the investment
     in the hardware and technology we should be able to observe more and more stars
     with this radio stars.
@@ -450,6 +457,7 @@ transcript:
   sec: 1274
   time: '21:14'
   who: Alexey
+- header: 'Early ML Journey: Dataset Scale, Cloud Needs, and Inspiration'
 - line: 'Well, so coming across machine learning was a thing that happened sometime,
     like say, I''ll say probably during my masters or so. So I will say this: I have
     a friend who is an engineer. We also grew up together in Nigeria and then he left
@@ -489,6 +497,7 @@ transcript:
   sec: 1439
   time: '23:59'
   who: Daniel
+- header: 'Python Astronomy Tooling: Astropy, NumPy, SciPy for Big Data'
 - line: Because if I do this in my academic field I can also do it in the industry.
     That became a motivator and I started getting my hands dirty. Instead of using
     some software to do the cross-matching or cross-correlation, I started using Astropy,
@@ -503,13 +512,13 @@ transcript:
   sec: 1523
   time: '25:23'
   who: Daniel
+- header: 'Cloud Computing Practices: JupyterHub and Remote Analysis'
 - line: So that's where I saw the beauty of this and I was also glad I didn't have
     to run everything on my PC. I had access to free cloud service where I ran on
     JupyterHub and kept running daily.
   sec: 1547
   time: '25:47'
   who: Daniel
-- header: Python tools and experience with ZoomCamps
 - line: And then in 2022, I saw one of the mentors reshared your post about MLOps,
     which was data engineering actually.
   sec: 1560
@@ -525,6 +534,7 @@ transcript:
   sec: 1587
   time: '26:27'
   who: Daniel
+- header: 'ML ZoomCamp Impact: Transitioning to Reusable Code and Production Practices'
 - line: Later that year I took the ML ZoomCamp which was the eye opener about machine
     learning. When I finished the course which was about eight to ten weeks, I had
     to share my learnings online.
@@ -572,7 +582,7 @@ transcript:
   sec: 1818
   time: '30:18'
   who: Daniel
-- header: Intel internship and exploring LLMs
+- header: 'Edge Deployment Internship: Testing Models on Intel Hardware'
 - line: In 2023, with OpenAI's chat introduction, a mentor recognized my progress
     and offered me an internship testing Intel's deployment on edge devices.
   sec: 1886
@@ -587,6 +597,7 @@ transcript:
   sec: 1954
   time: '32:34'
   who: Daniel
+- header: 'LLM Exploration: LangChain, Hugging Face, RAG and Vector Databases'
 - line: Then LangChain and AI LLM models appeared and I started exploring open source
     models like Hugging Face, and prototyping AI applications like retrieval augmented
     generation and vector DBs.
@@ -637,7 +648,6 @@ transcript:
   sec: 2424
   time: '40:24'
   who: Daniel
-- header: Sharing progress and course projects with orchestration tools
 - line: So uh there are sometimes cases when you don't want to share your rolling
     in public, right?
   sec: 2464
@@ -675,6 +685,7 @@ transcript:
   sec: 2555
   time: '42:35'
   who: Daniel
+- header: 'Course Projects: Orchestration with Kestra, Airflow, MinIO and Spark'
 - line: Can you tell us about uh any of the projects you did for the courses? Maybe
     like for example this one um it's I don't know if it's for a course or not but
     the one you mentioned right now airflow and minio uh is so yeah.
@@ -699,6 +710,7 @@ transcript:
   sec: 2630
   time: '43:50'
   who: Daniel
+- header: Airflow 3.0 Setup Experience and Astronomer CLI Learnings
 - line: I think I've tried a flow for once but I didn't sure I'm not sure I did I
     understood what was happening. So I just sit down um last weekend. You won't believe
     it. And then I like okay setting up a flow 3.0. And to be honest, thanks to there
@@ -717,7 +729,6 @@ transcript:
   sec: 2684
   time: '44:44'
   who: Alexey
-- header: Setting up Airflow 3.0 and building data pipelines
 - line: oh yeah yeah so actually I tried using it but unfortunately uh I didn't succeed
     because I was trying to connect spark okay the other things to um I don't know
     I think like I said I was in a hurry but I figured out how to like do all of those
@@ -727,6 +738,7 @@ transcript:
   sec: 2689
   time: '44:49'
   who: Daniel
+- header: 'End-to-End Pipeline Example: MySQL → MinIO → Spark → Warehouse (dbt next)'
 - line: night, the whole end to end my SQL. So I did the whole thing of think about
     quing the data from a source, right? And putting it in your data warehouse. So
     in this case uh I didn't want to connect to a cloud service although I know how
@@ -786,7 +798,7 @@ transcript:
   sec: 2839
   time: '47:19'
   who: Daniel
-- header: AI startups, training resources, and NVIDIA courses
+- header: 'AI Training Ecosystem: LangChain Academy, Arize, NVIDIA Deep Learning Institute'
 - line: There's a lot of startups coming up especially those building um you know
     um conventional frameworks like you know lang chain lama index mon have even you
     know many of these things they also have their own academy
@@ -843,7 +855,7 @@ transcript:
   sec: 3014
   time: '50:14'
   who: Alexey
-- header: Student access to education, NVIDIA experience, and beginner astronomy programs
+- header: 'Student Benefits: Free NVIDIA Courses and Deploying on GPUs (A100/H100)'
 - line: Yeah social they have this website for higher institutions. So they have this
     some of their courses um especially those special ones. Um they usually do it
     at certain times of the year. So you always you see the trainings that they have
@@ -876,6 +888,7 @@ transcript:
   sec: 3080
   time: '51:20'
   who: Alexey
+- header: 'BRICS Astronomy Bootcamp: Beginner-Friendly Data Analytics Program'
 - line: Okay. So, yeah, that's a good question, but I'm going to answer it this way.
     Um, I borrowed your templates, um, Alexy. so like I said, a lot of people in astronomy,
     especially for some of us coming from developing countries, don't even know how
@@ -940,6 +953,7 @@ transcript:
   sec: 3298
   time: '54:58'
   who: Daniel
+- header: 'Sharing Projects: Colab Notebooks, Public Portfolios and GitHub Visibility'
 - line: They did a project like you know what you're just a beginner yes maybe I encourage
     the second one even if you just do it in a Jupyter notebook for now in a collab
     that is sharable I emphasize that they should make sure that they put the whole
@@ -990,7 +1004,7 @@ transcript:
   sec: 3461
   time: '57:41'
   who: Daniel
-- header: Skills, projects, and career advice for beginners
+- header: 'Career Advice: Learn Python, Do Structured Projects, Leverage Domain Knowledge'
 - line: So basically how to what works in the field and your answer if I may summarize
     it is first face focus on basic basics for machine learning this uh would be Python
     programming and then do projects.
@@ -1016,7 +1030,6 @@ transcript:
   sec: 3548
   time: '59:08'
   who: Daniel
-- header: Starting with data science or engineering
 - line: And then uh the same question actually has two questions the other part is
     should I focus on data engineering or data science/machine learning what do you
     think.
@@ -1038,12 +1051,12 @@ transcript:
   sec: 3599
   time: '59:59'
   who: Daniel
-- header: Course sponsorship, data tools, and learning resources
 - line: Okay. Uh there’s also a question about my T-shirt actually installing DT that's
     a data load tool. DT is one of our sponsors.
   sec: 3607
   time: '1:00:07'
   who: Alexey
+- header: 'Tools & Sponsors: Data Load Tool for Pipelines and Community Support'
 - line: They support the Data Talks Club and with them we did quite a few things already.
     You can check our YouTube channel.
   sec: 3621
@@ -1065,6 +1078,7 @@ transcript:
   sec: 3664
   time: '1:01:04'
   who: Alexey
+- header: 'Learning Resources: Astropy Tutorials, Course GitHub and YouTube Archive'
 - line: 'With that, we should be wrapping up. Maybe Daniel, last question to you:
     If anyone wants to learn more about astronomy and data science in astronomy, you
     mentioned Astropy. Is there any resource for learning Astropy?'
@@ -1092,6 +1106,7 @@ transcript:
   sec: 3729
   time: '1:02:09'
   who: Alexey
+- header: 'Closing Remarks: Encouragement to Share Progress and Course Availability'
 - line: Okay. Thanks a lot for joining us today, for sharing your story. I’m sure
     it motivated and will motivate many people.
   sec: 3742
@@ -1138,6 +1153,146 @@ transcript:
   sec: 3875
   time: '1:04:35'
   who: Alexey
+description: Discover MEERKAT radio-emitting stars using ML & cloud pipelines — learn
+  Astropy tools, catalog cross-matching, and production deployment at scale.
+intro: 'How do you find rare radio-emitting stars in massive MEERKAT datasets—and
+  turn that search into reliable machine learning and cloud data pipelines? In this
+  episode Daniel Egbo, an astrophysicist turned ML engineer and PhD candidate at the
+  University of Cape Town, walks through the practical intersection of astronomy,
+  ML, and cloud engineering. We cover MEERKAT and SKA context, the electromagnetic
+  spectrum, and the core research goal: detecting point sources in radio images and
+  confirming them via multi-wavelength cross-matching and physics-based verification.
+  Daniel explains positional uncertainty, foreground/background confusion, and why
+  curated datasets are essential for future ML. He also shares tooling and infrastructure
+  practices—Astropy, NumPy/SciPy, JupyterHub, cloud compute, orchestration with Airflow/Kestra,
+  MinIO and Spark—and outlines an end-to-end pipeline pattern (MySQL → MinIO → Spark
+  → warehouse). Listeners will come away with concrete methods for building reproducible
+  astronomical data workflows, practical machine learning readiness steps, and resources
+  for learning and deployment (edge testing, LLMs, and community courses) to apply
+  to radio telescope and astronomical data projects.'
+dateadded: '2025-09-30'
+duration: PT01H04M35S
+quotableClips:
+- name: Podcast Introduction & Lunar Eclipse Anecdote
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=0
+  endOffset: 73
+- name: 'Career Overview: From Nigeria to PhD in Cape Town'
+  startOffset: 73
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=73
+  endOffset: 252
+- name: 'MEERKAT and SKA: Radio Telescope Project Overview'
+  startOffset: 252
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=252
+  endOffset: 289
+- name: 'Electromagnetic Spectrum: Radio to Gamma Explained'
+  startOffset: 289
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=289
+  endOffset: 379
+- name: 'Research Goal: Identifying Radio-Emitting Stars in MEERKAT Data'
+  startOffset: 379
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=379
+  endOffset: 405
+- name: Telescope Types and Observing Constraints (Optical, Infrared, X-ray)
+  startOffset: 405
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=405
+  endOffset: 480
+- name: Radio Telescope Site Requirements and Space-based X-ray Observatories
+  startOffset: 480
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=480
+  endOffset: 639
+- name: 'Data Workflow: Detecting Point Sources in Radio Images'
+  startOffset: 639
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=639
+  endOffset: 710
+- name: Cross-matching Multi-wavelength Catalogs and Positional Astronomy
+  startOffset: 710
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=710
+  endOffset: 815
+- name: 'Positional Uncertainty: 2D Projection, Foreground/Background Confusion'
+  startOffset: 815
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=815
+  endOffset: 930
+- name: 'Physics-based Verification: Using Prior Observations to Confirm Sources'
+  startOffset: 930
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=930
+  endOffset: 995
+- name: Radio Stars Rarity and Sensitivity Improvements with New Telescopes
+  startOffset: 995
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=995
+  endOffset: 1074
+- name: Building Curated Datasets as Foundation for Future Machine Learning
+  startOffset: 1074
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=1074
+  endOffset: 1291
+- name: 'Early ML Journey: Dataset Scale, Cloud Needs, and Inspiration'
+  startOffset: 1291
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=1291
+  endOffset: 1473
+- name: 'Python Astronomy Tooling: Astropy, NumPy, SciPy for Big Data'
+  startOffset: 1473
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=1473
+  endOffset: 1547
+- name: 'Cloud Computing Practices: JupyterHub and Remote Analysis'
+  startOffset: 1547
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=1547
+  endOffset: 1618
+- name: 'ML ZoomCamp Impact: Transitioning to Reusable Code and Production Practices'
+  startOffset: 1618
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=1618
+  endOffset: 1886
+- name: 'Edge Deployment Internship: Testing Models on Intel Hardware'
+  startOffset: 1886
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=1886
+  endOffset: 2018
+- name: 'LLM Exploration: LangChain, Hugging Face, RAG and Vector Databases'
+  startOffset: 2018
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=2018
+  endOffset: 2568
+- name: 'Course Projects: Orchestration with Kestra, Airflow, MinIO and Spark'
+  startOffset: 2568
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=2568
+  endOffset: 2648
+- name: Airflow 3.0 Setup Experience and Astronomer CLI Learnings
+  startOffset: 2648
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=2648
+  endOffset: 2715
+- name: 'End-to-End Pipeline Example: MySQL → MinIO → Spark → Warehouse (dbt next)'
+  startOffset: 2715
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=2715
+  endOffset: 2859
+- name: 'AI Training Ecosystem: LangChain Academy, Arize, NVIDIA Deep Learning Institute'
+  startOffset: 2859
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=2859
+  endOffset: 3020
+- name: 'Student Benefits: Free NVIDIA Courses and Deploying on GPUs (A100/H100)'
+  startOffset: 3020
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3020
+  endOffset: 3121
+- name: 'BRICS Astronomy Bootcamp: Beginner-Friendly Data Analytics Program'
+  startOffset: 3121
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3121
+  endOffset: 3312
+- name: 'Sharing Projects: Colab Notebooks, Public Portfolios and GitHub Visibility'
+  startOffset: 3312
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3312
+  endOffset: 3479
+- name: 'Career Advice: Learn Python, Do Structured Projects, Leverage Domain Knowledge'
+  startOffset: 3479
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3479
+  endOffset: 3621
+- name: 'Tools & Sponsors: Data Load Tool for Pipelines and Community Support'
+  startOffset: 3621
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3621
+  endOffset: 3669
+- name: 'Learning Resources: Astropy Tutorials, Course GitHub and YouTube Archive'
+  startOffset: 3669
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3669
+  endOffset: 3742
+- name: 'Closing Remarks: Encouragement to Share Progress and Course Availability'
+  startOffset: 3742
+  url: https://www.youtube.com/watch?v=b92gwrsVQtg&t=3742
+  endOffset: 3875
 ---
 
 Links:

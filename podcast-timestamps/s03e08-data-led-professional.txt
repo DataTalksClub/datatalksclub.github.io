@@ -1,0 +1,26 @@
+00:00:00 Podcast Introduction
+00:02:21 DataLed Academy: free learning, repository & podcast
+00:05:06 Career trajectory: integrations, Integromat & community growth
+00:07:21 Growth marketing: A/B testing, personalization & product data
+00:09:46 Marketer tooling: visual queries and self-serve data access
+00:10:45 Definition: data-led professional — source awareness & data skepticism
+00:11:33 Data-led vs. data-driven: balancing data, intuition & bias
+00:13:34 Tracking plan & instrumentation: documenting events, properties & ownership
+00:18:27 Anomaly investigation: tracing event origins and fake signups
+00:20:47 Collaborative tracking tools: AVO, Iteratively, TrackPlan
+00:22:50 Data flow overview: collection, storage, analysis and activation
+00:24:43 Event examples for SaaS: signup, project created, invite, invoice
+00:27:00 Client-side vs. server-side events: timing, accuracy and use cases
+00:28:52 Data warehousing & transformation: warehouses, DBT and BI analysis
+00:30:03 Data activation: sending event data to support, sales and engagement tools
+00:33:41 Data collection platforms: Segment, RudderStack, MetaRouter, Freshpaint
+00:35:27 Warehouse-centric analytics: Snowflake, BigQuery, Redshift & warehouse-first tools
+00:37:25 Reverse ETL / operational analytics: Census, HighTouch, Grouparoo
+00:38:20 Customer Data Platforms (CDP): all-in-one trade-offs for marketers
+00:41:30 Modern data stack for growth: CDI, product analytics, warehouse & reverse ETL
+00:43:50 Buy vs. build: cost, maintenance and open-source alternatives
+00:46:13 Team composition: data engineer, analyst, analytics engineer & product ops
+00:51:40 Data democratization: data literacy, documentation & self-serve analytics
+00:53:48 Motivating documentation: culture, early habits & catalog tools
+00:56:08 Product-led vs. data-led: activation events and personalized onboarding
+01:00:29 Closing & resources: dataled.academy, newsletter and podcast episodes

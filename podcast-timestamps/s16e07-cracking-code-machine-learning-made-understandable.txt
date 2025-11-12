@@ -1,0 +1,25 @@
+00:00:00 Podcast Introduction
+00:00:42 Guest Intro: Christoph Molnar, Interpretable ML Author
+00:01:32 Career Journey: From Statistics to Tech Writing
+00:03:45 Becoming a Full‑Time Technical Writer
+00:06:37 Kaggle Beginnings: Linear Models to Practical ML
+00:07:50 Origin Story: Interest in Interpretable Machine Learning
+00:09:27 Interpretability vs Accuracy: Debugging Models with SHAP
+00:11:59 Active Competition: River Flow Forecasting Project
+00:13:57 Choosing Book Topics: Audience Data and Personal Curiosity
+00:15:55 Publishing in Public: Chapter‑by‑Chapter Workflow
+00:17:07 Self‑Publishing vs Publishers: Control, Editors, Royalties
+00:18:58 Book Overview: Interpretable ML; Modeling Mindsets; Conformal Prediction; SHAP
+00:20:27 Conformal Prediction: Calibrated Uncertainty and Prediction Sets
+00:23:44 SHAP Deep Dive: Practical Guide and Python Examples
+00:26:17 Terminology: Explainable AI vs Interpretable Machine Learning
+00:30:00 Work Style: Solo Writing, Collaboration, and Co‑authoring
+00:33:07 Staying Hands‑On: Competitions to Maintain Practical Skills
+00:36:21 Logbook Practice: Obsidian Notes for Experiments and Reflection
+00:42:21 Writing Expertise: Teaching to Learn vs Being a Beginner
+00:44:51 Feedback Strategy: Open Drafts, Beta Readers, and Iteration
+00:48:36 Advice for Aspiring Technical Writers: Start Small and Publish
+00:50:00 Becoming a Full‑Time Author: Timeframe, Income, and Workload
+00:53:49 Publishing Logistics: Leanpub, Amazon KDP, and Print‑on‑Demand
+00:56:16 Where to Find Christoph: Website, Newsletter, and Socials
+00:56:53 Closing Remarks and Episode Wrap‑Up

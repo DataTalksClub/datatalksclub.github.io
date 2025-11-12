@@ -1,0 +1,26 @@
+00:00:00 Podcast Introduction
+00:02:24 Guest Overview: Ksenia and episode focus (project management → data science)
+00:03:00 Career Foundations: math degree, management, and early PM roles
+00:04:35 Motivation for Analytics: customer-centric, data-driven decision making
+00:06:54 Transition Path: moving from data analysis into machine learning
+00:07:30 Analytics vs. Data Science: descriptive analysis vs. forecasting
+00:08:33 Learning Strategy: assess strengths and target skill gaps
+00:11:10 Education Choices: benefits of formal degrees vs. self-study
+00:13:00 Core Skill Set: programming, statistics, and domain expertise
+00:17:18 Recommended Coursework: machine learning, time series, graph analysis
+00:19:36 Online Resources & Course Picks (including mlcourse.ai)
+00:22:32 Transferable PM Skills: planning, stakeholder communication, business KPIs
+00:30:20 Project Frameworks: using CRISP‑DM to structure data projects
+00:32:43 Starting as a Data Analyst: apply analysis at work and build portfolio
+00:34:48 Tools Progression: spreadsheets → BI tools (Tableau/Trifacta) → Python & Pandas
+00:36:47 Community Learning: OpenDataScience, DataTalks, and mentorship
+00:38:54 Kaggle Practice: studying notebooks and collaborative competitions
+00:41:07 Production Readiness: Git, testing, Docker, deployment, and Clean Code
+00:43:16 Domain Specialization: research experience in fraud detection and node2vec
+00:48:35 Job Search Reality: applications, interviews, and persistence
+00:51:15 Bridging Theory and Practice: applying university work in industry
+00:54:09 Part‑time Learning Plan: nanodegrees and structured six‑month paths
+00:57:42 Essential Math Topics: probability, statistics, and graph theory
+01:01:01 Career Habits: critical path, study techniques, and lifelong learning
+01:01:27 Final Advice: contribute to projects, narrow your scope, join communities
+01:05:07 Episode Close and Final Wishes

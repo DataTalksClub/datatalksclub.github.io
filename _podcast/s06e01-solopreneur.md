@@ -3,7 +3,8 @@ title: 'Solopreneur Guide: Diversify Income with Courses, Consulting, Books & Si
 short: 'Solopreneur Guide: Diversify Income with Courses, Consulting, Books & Side-Gigs'
 guests:
 - noahgift
-description: 'Discover solopreneur tactics to build a side-gig tunnel, diversify income mix with courses, teaching and consulting, and quit corporate on your terms.'
+description: Discover solopreneur tactics to build a side-gig tunnel, diversify income
+  mix with courses, teaching and consulting, and quit corporate on your terms.
 image: images/podcast/s06e01-solopreneur.jpg
 date: 2025-11-07
 season: 6
@@ -1691,19 +1692,118 @@ transcript:
   sec: 3610
   time: '1:00:10'
   who: Alexey
-intro: "How do you build a sustainable solopreneur business that doesn't rely on VC
+intro: How do you build a sustainable solopreneur business that doesn't rely on VC
   funding—while diversifying income across courses, consulting, books, and side-gigs?
   In this episode, Noah Gift, founder of Pragmatic AI Labs and a lecturer on machine
   learning and data science at Northwestern, Duke MIDS, UC Berkeley, UC Davis, and
   UNC Charlotte, walks through his transition to solo work (since 2017) and a repeatable
   income mix for intentional small-business ownership. <br><br> We cover defining
   solopreneurship, the practical income mix formula (online courses, university teaching,
-  selective consulting, book publishing, apps, real estate, and investments) plus how
-  to build a side-gig tunnel while employed. Noah shares work allocation strategies
+  selective consulting, book publishing, apps, real estate, and investments) plus
+  how to build a side-gig tunnel while employed. Noah shares work allocation strategies
   (exponential projects vs. consulting), publishing trade-offs, a book workflow (outline
   -> projects -> write), daily routines, time-and-cost tactics, and signals for financial
   readiness to quit full-time work. <br><br> If you're planning to diversify income
   streams with online courses, consulting, or writing, this episode gives actionable
   steps, publishing considerations, and networking advice to help you transition deliberately
-  and scale revenue without sacrificing control."
+  and scale revenue without sacrificing control.
+dateadded: '2021-11-06'
+duration: PT00H58M56S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=0
+  endOffset: 74
+- name: 'Episode Topic & Guest Overview: Becoming a Solopreneur with Noah Gift'
+  startOffset: 74
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=74
+  endOffset: 157
+- name: 'Early Career: TV, Caltech, Disney and Film Pipeline Experience'
+  startOffset: 157
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=157
+  endOffset: 376
+- name: 'Transition to Independent Work: Solopreneur Since 2017'
+  startOffset: 376
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=376
+  endOffset: 402
+- name: 'Defining Solopreneurship: Intentional Smallness and Revenue Diversification'
+  startOffset: 402
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=402
+  endOffset: 585
+- name: 'Small-Business Philosophy: Alternatives to Venture-Backed Growth'
+  startOffset: 585
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=585
+  endOffset: 821
+- name: 'Daily Routine: Exercise, Prioritization, and Task Queues'
+  startOffset: 821
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=821
+  endOffset: 987
+- name: 'Work Allocation Strategy: Exponential Projects vs. Consulting'
+  startOffset: 987
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=987
+  endOffset: 1301
+- name: 'Long-Term Escape Plan: Incremental Transition Out of Corporate Roles'
+  startOffset: 1301
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=1301
+  endOffset: 1505
+- name: 'Income Mix Formula: Courses, University Teaching, and Select Consulting'
+  startOffset: 1505
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=1505
+  endOffset: 1672
+- name: 'Goal Criteria: Scale, Ethics, and Asynchronous Work Preferences'
+  startOffset: 1672
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=1672
+  endOffset: 1860
+- name: 'Maintaining Motivation: Deadlines, Enjoyment, and Accepting Imperfection'
+  startOffset: 1860
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=1860
+  endOffset: 1991
+- name: 'Pressure Management: Demand as a Signal of Success'
+  startOffset: 1991
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=1991
+  endOffset: 2144
+- name: 'Publishing Options: Tradeoffs Between Traditional and Self-Publishing'
+  startOffset: 2144
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=2144
+  endOffset: 2288
+- name: 'Book Workflow: Outlines First, Build Projects, Then Write'
+  startOffset: 2288
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=2288
+  endOffset: 2494
+- name: 'Writing Discipline: Treating Book Projects Like Marathons'
+  startOffset: 2494
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=2494
+  endOffset: 2576
+- name: 'Distributed Income: Combining Books, Apps, Real Estate, and Investments'
+  startOffset: 2576
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=2576
+  endOffset: 2787
+- name: 'Side-Gig Strategy: Building the “Tunnel” While Employed'
+  startOffset: 2787
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=2787
+  endOffset: 2952
+- name: 'Time & Cost Tactics: Reduce Commute, Lower Expenses, and Save Cash'
+  startOffset: 2952
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=2952
+  endOffset: 3229
+- name: 'Financial Readiness: When to Quit Full-Time Employment'
+  startOffset: 3229
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=3229
+  endOffset: 3306
+- name: 'Networking for Independence: Deep Skill, Visibility, and Avoiding Management'
+  startOffset: 3306
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=3306
+  endOffset: 3504
+- name: 'University Teaching Path: Leverage Expertise, Professors, and Written Work'
+  startOffset: 3504
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=3504
+  endOffset: 3600
+- name: 'Contact & Resources: NoahGift.com and LinkedIn'
+  startOffset: 3600
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=3600
+  endOffset: 3610
+- name: 'Closing Remarks: Final Advice — Be Excellent and Bet on Yourself'
+  startOffset: 3610
+  url: https://www.youtube.com/watch?v=gCLUY37HGtw&t=3610
+  endOffset: 3536
 ---

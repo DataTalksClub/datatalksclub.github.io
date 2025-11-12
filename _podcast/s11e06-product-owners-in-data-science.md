@@ -13,9 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=rTRTjB6cGng
 season: 11
 short: Product Owners in Data Science
-title: Product Owners in Data Science
+title: 'Data Product Leadership: Scaling Recommenders, Production ML Hiring & Price
+  Markdown Modeling'
 transcript:
-- header: About Anna and METRO
+- header: Episode Introduction
+- header: Guest & METRO overview and customer data completeness
 - line: This week, we'll talk about product owners in data science. We have a special
     guest day, Anna. Anna is a domain owner for Data Science at METRO.digital, where
     she drives adoption of data science and AI topics within the METRO business. And
@@ -80,7 +82,7 @@ transcript:
   sec: 234
   time: '3:54'
   who: Anna
-- header: Anna’s background
+- header: Anna's academic and career background (PhD, web science, logistics)
 - line: That's cool. You can’t do data science without data, right? So the main topic
     for today is product owners and data science. But before discussing that, I wanted
     to ask you about your career so far. So can you tell us about what you've been
@@ -203,6 +205,7 @@ transcript:
   sec: 525
   time: '8:45'
   who: Anna
+- header: Value of technical expertise for data product leads
 - line: So you studied computer science – you studied data mining and web science.
     Do you think it helped you with what you're doing right now?
   sec: 769
@@ -220,7 +223,6 @@ transcript:
   sec: 779
   time: '12:59'
   who: Anna
-- header: The importance of a technical background for data product owners
 - line: Do you think product owners and product managers – we will actually talk about
     what those terms mean – but I'm wondering whether you think they should have technical
     background or not? Or is it just a “nice” thing to have?
@@ -246,7 +248,7 @@ transcript:
   sec: 841
   time: '14:01'
   who: Anna
-- header: What are product owners?
+- header: Core product owner responsibilities and team advocacy
 - line: So what do product owners actually do? Who are they?
   sec: 911
   time: '15:11'
@@ -339,6 +341,7 @@ transcript:
   sec: 1182
   time: '19:42'
   who: Alexey
+- header: 'Role comparison: product owner versus product manager'
 - line: You still have agile coaches or scrum coaches or whatever they’re called today
     to follow up with the rituals. But I guess in a nutshell, and as I said, there's
     not always much of a difference. It depends on who you ask. But in my eyes, product
@@ -348,7 +351,6 @@ transcript:
   sec: 1200
   time: '20:00'
   who: Anna
-- header: Product owners vs product managers
 - line: I'm just curious. I did work with product owners. In some companies, they
     have only product owners, while some companies have only product managers. In
     the company where I work right now, OLX, we have only product managers – we don't
@@ -394,7 +396,7 @@ transcript:
   sec: 1305
   time: '21:45'
   who: Anna
-- header: Anna’s work on recommender systems at METRO
+- header: 'Recommender systems at METRO: API-first design and scaling'
 - line: I think you described, more or less, what you did. You said that you were
     taking care of recommender systems at METRO digital. So what did you do there
     as a product owner? How did you exactly “take care of recommender systems”?
@@ -518,7 +520,7 @@ transcript:
   sec: 1777
   time: '29:37'
   who: Anna
-- header: Expanding the data team
+- header: 'Hiring strategy for production ML: data scientist, ML engineer, MLOps'
 - line: Okay. I'm just curious. You said that when you joined METRO, there were “one
     and a half people” and then you said that you need software engineers, you need
     agile processes, etc. So who was on the team and who did you need to hire?
@@ -602,7 +604,7 @@ transcript:
   sec: 1966
   time: '32:46'
   who: Anna
-- header: Types of algorithms used for recommender systems
+- header: 'Recommender algorithms: collaborative filtering and Word2Vec variants'
 - line: There is a question from Valeria, “What kind of recommender systems (or probably
     algorithms) did you use? Was it collaborative filtering or was it different for
     each of the use cases you had?”
@@ -629,7 +631,8 @@ transcript:
   sec: 2145
   time: '35:45'
   who: Anna
-- header: What kind of knowledge and skills data product owners need to have
+- header: 'Essential skills: metrics, trade-offs, and technical literacy for product
+    owners'
 - line: Did you actually need to get into technical details for all that as a product
     owner? Did you need to know that, “Okay, this is this specific Word2Vec modification?”
     Or was it something that you just wanted to learn because of your background?
@@ -667,6 +670,7 @@ transcript:
   sec: 2171
   time: '36:11'
   who: Anna
+- header: 'Domain owner role: aligning data scientists across product teams'
 - line: Now you work as the data science domain owner. How is it different from a
     product owner? I think you answered that question, right? You are now a manager
     of product owners, right?
@@ -699,6 +703,7 @@ transcript:
   sec: 2397
   time: '39:57'
   who: Alexey
+- header: 'People management at scale: directs, reviews, and cross-team enablement'
 - line: '22'
   sec: 2401
   time: '40:01'
@@ -735,7 +740,7 @@ transcript:
   sec: 2416
   time: '40:16'
   who: Anna
-- header: METRO’s markdown system
+- header: 'Price markdown modeling: reducing waste and optimal discounting'
 - line: What does markdown mean? Because in my world (for me) markdown is what I use
     in GitHub when I create a document. This is a markup format. But I don't think
     you’re talking about that. [Anna agrees] So what is “markdown”?
@@ -785,7 +790,7 @@ transcript:
   sec: 2509
   time: '41:49'
   who: Anna
-- header: Problems and ideas should come from the business
+- header: 'Sourcing problems from operations: business-driven prioritization'
 - line: Was it you or your teams who needed to think about this process? Or did you
     have help from the actual operations people – people who run in the stores. What
     did it look like?
@@ -802,7 +807,7 @@ transcript:
   sec: 2703
   time: '45:03'
   who: Anna
-- header: How Anna handles all her responsibilities
+- header: 'Managing multiple data domains: delegation, rotations, and budget ownership'
 - line: I lost my train of thought. I wanted to ask you, “What does it actually mean
     to be responsible for a domain?” You have six domains, I think, according to your
     LinkedIn. [Anna agrees] These domains, I think, you've talked about all of them
@@ -851,7 +856,7 @@ transcript:
   sec: 2923
   time: '48:43'
   who: Anna
-- header: The process for starting work on new domains
+- header: 'Evaluating new domains: MVPs, manual fixes, and business justification'
 - line: Okay. Because you mentioned FTE, so you probably operate in these terms, like
     “Okay, for this project, we have two and a half FTE. For this project, just one
     and a half.” [Anna agrees] That's what you do, okay. When I was preparing questions,
@@ -910,7 +915,7 @@ transcript:
   sec: 3118
   time: '51:58'
   who: Anna
-- header: Product portfolio management
+- header: 'Portfolio approach: validating and staging data product investments'
 - line: Okay. I see a question from Jamie. By the way, do you know what product portfolio
     management principles are?
   sec: 3189
@@ -938,7 +943,7 @@ transcript:
   sec: 3223
   time: '53:43'
   who: Anna
-- header: ProductTank and Anna’s role in it
+- header: 'Community leadership: organizing ProductTank meetups'
 - line: I see that we don't have a lot of time, but there is a lot more that I actually
     wanted to ask you. One thing I'm really curious about – I know that you're one
     of the co-organizers of ProductTank in Dusseldorf. I’m wondering what this is.
@@ -1006,7 +1011,7 @@ transcript:
   sec: 3465
   time: '57:45'
   who: Anna
-- header: Anna’s resource recommendations
+- header: 'Recommended resource: "Data Science for Business" for data product roles'
 - line: Okay. Yeah, please share what you find. I’m really curious why they thought
     this was a good idea. I mean, probably tank is not only like a war tank – it probably
     has multiple meanings. Anyways, there’s another thing. There was a suggestion
@@ -1043,6 +1048,7 @@ transcript:
   sec: 3589
   time: '59:49'
   who: Anna
+- header: Episode wrap-up and live chat highlights
 - line: '[chuckles] Okay, that''s a good quality for a book, right? Not a textbook.
     Okay. That''s all we have time for. So thanks a lot, Anna, for coming, joining
     us, sharing your experience with us. Thanks, everyone. There is a very lively
@@ -1055,6 +1061,109 @@ transcript:
   sec: 3649
   time: '1:00:49'
   who: Anna
+description: Discover scaling recommender systems, production ML hiring strategies
+  and price markdown modeling to cut waste, optimize discounts, and lead data product
+  teams.
+intro: 'How do you scale recommender systems, hire for production ML, and model price
+  markdowns to reduce waste—and who should own those decisions? In this episode, Anna
+  Hannemann, Domain Owner for Data Science at Metro.digital, walks through practical
+  answers informed by her PhD in Data Science and prior leadership of recommender
+  and robotics/smart logistics teams. <br><br> We cover customer data completeness,
+  API-first recommender design, and algorithm choices like collaborative filtering
+  and Word2Vec variants, plus the trade-offs product owners must manage. Anna contrasts
+  product owner and product manager responsibilities, describes the domain owner role
+  for aligning data scientists across teams, and lays out hiring strategies for production
+  ML—data scientists, ML engineers, and MLOps. You’ll also hear how to source problems
+  from operations, evaluate new data domains with MVPs and manual fixes, and take
+  a portfolio approach to staging data product investments. <br><br> If you work in
+  data product leadership, product management, or machine learning operations, this
+  episode delivers actionable frameworks for scaling recommenders, building production
+  ML capabilities, and applying price markdown modeling to optimize discounting and
+  reduce waste. Recommended reading: Data Science for Business.'
+dateadded: '2022-11-11'
+duration: PT00H59M17S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=0
+  endOffset: 92
+- name: Guest & METRO overview and customer data completeness
+  startOffset: 92
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=92
+  endOffset: 289
+- name: Anna's academic and career background (PhD, web science, logistics)
+  startOffset: 289
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=289
+  endOffset: 769
+- name: Value of technical expertise for data product leads
+  startOffset: 769
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=769
+  endOffset: 911
+- name: Core product owner responsibilities and team advocacy
+  startOffset: 911
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=911
+  endOffset: 1200
+- name: 'Role comparison: product owner versus product manager'
+  startOffset: 1200
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=1200
+  endOffset: 1328
+- name: 'Recommender systems at METRO: API-first design and scaling'
+  startOffset: 1328
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=1328
+  endOffset: 1801
+- name: 'Hiring strategy for production ML: data scientist, ML engineer, MLOps'
+  startOffset: 1801
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=1801
+  endOffset: 2093
+- name: 'Recommender algorithms: collaborative filtering and Word2Vec variants'
+  startOffset: 2093
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2093
+  endOffset: 2155
+- name: 'Essential skills: metrics, trade-offs, and technical literacy for product
+    owners'
+  startOffset: 2155
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2155
+  endOffset: 2312
+- name: 'Domain owner role: aligning data scientists across product teams'
+  startOffset: 2312
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2312
+  endOffset: 2401
+- name: 'People management at scale: directs, reviews, and cross-team enablement'
+  startOffset: 2401
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2401
+  endOffset: 2494
+- name: 'Price markdown modeling: reducing waste and optimal discounting'
+  startOffset: 2494
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2494
+  endOffset: 2688
+- name: 'Sourcing problems from operations: business-driven prioritization'
+  startOffset: 2688
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2688
+  endOffset: 2757
+- name: 'Managing multiple data domains: delegation, rotations, and budget ownership'
+  startOffset: 2757
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2757
+  endOffset: 2924
+- name: 'Evaluating new domains: MVPs, manual fixes, and business justification'
+  startOffset: 2924
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=2924
+  endOffset: 3189
+- name: 'Portfolio approach: validating and staging data product investments'
+  startOffset: 3189
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=3189
+  endOffset: 3261
+- name: 'Community leadership: organizing ProductTank meetups'
+  startOffset: 3261
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=3261
+  endOffset: 3468
+- name: 'Recommended resource: "Data Science for Business" for data product roles'
+  startOffset: 3468
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=3468
+  endOffset: 3625
+- name: Episode wrap-up and live chat highlights
+  startOffset: 3625
+  url: https://www.youtube.com/watch?v=rTRTjB6cGng&t=3625
+  endOffset: 3557
 ---
 
 Links:

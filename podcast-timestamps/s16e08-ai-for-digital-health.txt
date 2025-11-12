@@ -1,0 +1,28 @@
+00:00:00 Podcast Introduction
+00:00:49 Career Journey: From Electrical Engineering to Founding SQIN
+00:02:05 Founder Approach: Industry Immersion, MVP Development
+00:04:10 Why Healthcare: Digitization Opportunity in Medical Systems
+00:05:07 Healthcare Challenges: Data Gaps, Rural Access, and Legacy Workflows
+00:06:11 Legacy Infrastructure: Fax, Fragmentation, and Slow Adoption
+00:08:13 Regional Perspective: Access Issues in Southern Brandenburg
+00:12:20 Market Research Tactics: Cold Outreach, Accelerators, Clinical Meetings
+00:12:55 AR MVP: Lipstick Try-On as a Data Collection & Engagement Tool
+00:15:49 Discovery: Skin Health Signals Hidden in Lifestyle Interactions
+00:18:27 Founder Lessons: Experimentation, Pivoting, and Plan B Flexibility
+00:21:32 Product-Market Fit: Aligning AI Capabilities with Business Cases
+00:23:40 SQIN Product: Digital Clinic Flow from Diagnosis to Prescription
+00:24:08 Ethics & UX: Sensitive AI Messaging and Inclusive Design
+00:27:45 Go-to-Market Strategy: Regional Focus, Limitations, and Fallbacks
+00:29:43 Data Strategy: Leveraging Community Reach to Bootstrap Datasets
+00:30:44 Community Productization: Daily Lifestyle Integration & Retention
+00:32:40 Audience Expansion: Reaching Multiple Genders and Demographics
+00:35:57 Telemedicine Impact: Remote Follow-Up, Prescriptions, and Efficiency
+00:38:05 Feedback Loops: Support Channels and User Bug Reporting
+00:39:30 Personalization: Archetypes, Gamification, and Educational Content
+00:41:32 Company Growth: Team Size, Hiring Needs (AI, Full-Stack, Backend)
+00:43:44 Fundraising: Proving Profitability and Technical Credibility to Investors
+00:46:08 Monetization: SaaS Integrations, Partnerships, and E‑commerce Cuts
+00:47:59 Leadership Structure: First Hires and Product vs. CEO Roles
+00:48:34 Work-Life Integration: Parenting While Building a Startup
+00:51:07 Cultural Upside: Entrepreneurial Mindset Passed to Children
+00:52:18 Closing Remarks and Next Steps

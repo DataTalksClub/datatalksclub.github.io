@@ -1,0 +1,29 @@
+00:00:00 Event Introduction & Community Links
+00:03:12 Early ML Projects: Image Search with OpenCV
+00:04:25 Speech Recognition & Language Modeling Experience
+00:04:57 Transition to Recommendation Systems at Dropbox
+00:05:52 Question Answering & Early Agent Experiments
+00:07:44 Joining Noird.ai: Automating On‑call with Agents
+00:11:00 Agent Definition: Autonomy, Objectives & LLMs
+00:12:31 Agent Orchestration: Tools, Memory & Knowledge Stores
+00:15:10 Planning Strategies: Single‑step, Multi‑pass & Self‑reflection
+00:18:23 Implementation Approaches: Prompts, SDKs & Tool Wrappers
+00:19:58 Code Agents vs Natural‑Language Agents: Trade‑offs
+00:21:21 Context Engineering: Designing Effective LLM Inputs
+00:22:50 SRE Workflows Modeled by Agents: Logs, Metrics & Remediation
+00:24:59 Integration Abstractions: Handling Diverse Tooling
+00:29:30 RAG Reality Check: Latency, Cost & Garbage‑In/Garbage‑Out
+00:31:38 Retrieval Limitations: Reworking Backends for LLM Context
+00:32:48 Context Engineering Techniques: Chunking, Metadata & Wrappers
+00:36:11 Agentic RAG: Using Retrieval as a Tool Within Agents
+00:37:39 Use Cases: When RAG Is Enough vs When Agents Are Needed
+00:40:30 Dynamic Planning Example: Calendar & Meeting Assistant
+00:43:06 Dropbox Dash & AI Productivity Assistants for Enterprises
+00:44:08 Framework Choices: Build from Scratch vs Use Libraries
+00:46:00 Framework Trade‑offs: LangChain, OpenAI Agents SDK, Small Agents
+00:48:00 Agent Marketplaces & Tool Protocols (MCP)
+00:51:17 Evaluation Strategy: Custom Datasets & System Benchmarks
+00:53:20 Testing Agents: Mocking Tools, Integration & Regression Tests
+00:56:02 Goal‑based Evaluation: Outcome Assertions Over Exact Paths
+00:58:11 Specialization Challenge: Why Generic Agent Solutions Lag
+00:59:06 Closing Thoughts & Future Outlook for Agent Engineering

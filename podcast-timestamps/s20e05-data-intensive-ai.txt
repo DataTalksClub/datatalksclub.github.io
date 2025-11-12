@@ -1,0 +1,24 @@
+00:00:00 Episode Opening & Guest Overview (Data Intensive AI)
+00:02:02 Book Contribution Clarified & Testing Focus
+00:04:00 Career Path: Java → Data Engineering → AI Engineering
+00:06:04 Publishing Routine: Blogging Frequency & Content Practice
+00:09:05 Data Trust: Why Testing Prevents "This Number Doesn’t Look Correct"
+00:11:47 Test Strategy for Data Pipelines: Snapshot & Integration Testing
+00:13:14 Testing Tools: Great Expectations, Soda, SQL Tests vs Spark Tests
+00:17:10 Technology Choice: When to Use Apache Spark
+00:18:38 Data Engineering’s Role in AI: Preprocessing & Fine-Tuning Data
+00:21:46 Invisible AI Use Cases: Augmented Generation & Review Analysis
+00:25:13 Prompt Engineering Basics: In-Context Learning & Examples
+00:28:16 Prompt Evaluation: Formatting, Examples, and Cost Tradeoffs
+00:30:00 Prompt Compression: Token Optimization Techniques
+00:31:45 Prompt Caching & Model Efficiency (attention caching, Claude)
+00:33:42 Open-Source Models & Tools Experience (DeepSeek, Perplexity)
+00:35:54 AI for Lead Scoring: LinkedIn Automation & Qualification
+00:41:04 Chrome Extension Architecture: Backend AI Integration Pattern
+00:42:05 Coding Assistants: Cursor Workflow & Productivity Boosts
+00:44:38 Code AI Comparison: Cursor vs GitHub Copilot & Alternatives
+00:47:19 Search-Focused Assistants: Using Perplexity & Tool Selection
+00:52:09 Website Hosting: Static Site Generators & GitHub Pages
+00:53:10 Blogging as Business: Attracting Clients & Teaching Workshops
+00:56:17 AI-Assisted Writing: Drafting, Rewriting, and Maintaining Voice
+01:00:21 Episode Wrap-Up & Guest Resources (blog link invitation)

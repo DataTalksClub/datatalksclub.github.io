@@ -1,0 +1,26 @@
+00:00:00 Podcast Introduction
+00:01:25 Guest Welcome & Episode Overview
+00:02:02 Early Career: Industrial Engineering to NLP
+00:04:12 Transition to NLP: First Projects & Sentiment Analysis
+00:06:30 Open Source Discovery: Finding Hugging Face & Contribution Sprints
+00:08:13 Datasets Work: Canonical Datasets, Scripts, and CI Learning
+00:10:31 Contributor Onboarding: Sprints, Good-First Issues, and Confidence Building
+00:11:33 Contributing as a Side Project: Motivation and Timing
+00:12:46 Hugging Face Projects: Tasks, Hub, TensorFlow & Keras Integration
+00:15:42 Model Reproducibility: Hub Features and Model Registry Concepts
+00:17:37 Spaces & Community Tab: Demos with Streamlit/Gradio and Community Collaboration
+00:18:31 Developer Experience: Forum Support, Workshops, and Keras Sprints
+00:21:28 Role Balance: Engineering vs. Advocacy Time Split
+00:23:26 Hiring Signals: Evaluating Open Source Experience on GitHub
+00:25:09 Getting Started with Open Source: Sprints, Documentation, and Non-Code Contributions
+00:27:23 Structured Programs: Google Summer of Code and Hacktoberfest
+00:29:26 Learning from PRs: Contributing to scikit-learn and Code Quality
+00:30:21 Hiring Expectations: Working with Large Codebases and PR Workflows
+00:33:23 Handling PR Rejections: Discussions, Design Decisions, and Unit Tests
+00:38:02 NLP Learning Resources: Courses, spaCy, Keras Examples, and Transfer Learning
+00:43:01 Beginner NLP Projects: Sentiment Analysis and Classification Tasks
+00:51:12 Portfolio Advice: Deploying Demos with Streamlit, Gradio, and Hugging Face Spaces
+00:55:49 Content Creation: Twitch Streaming and Podcast Plans
+00:57:42 Contact & Community: Slack, Twitter, and DataTalks.club Outreach
+00:58:14 Personal Anecdote: Mario Kart at Hugging Face
+00:59:11 Episode Outro & Next Steps

@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=6YBMU6475KQ
 season: 15
 short: Why Machine Learning Design is Broken
-title: Why Machine Learning Design is Broken
+title: 'ML System Design Playbook: Fail-Fast Design Docs, Modular Architecture & Data
+  Drift Monitoring'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Introduction: Valerii Babushkin background'
 - line: This week, we'll talk about why machine learning design is broken. It's a
     very provocative topic and we have a very special guest today to talk about that,
     Valerii. It's not the first time we have Valerii on this podcast. Some time ago,
@@ -42,7 +45,6 @@ transcript:
   sec: 185
   time: '3:05'
   who: Valerii
-- header: Valerii’s background
 - line: Of course. Of course. Yeah, have fun at your new place. Before we go into
     our main topic of ML system design and why it's broken, let's start with your
     background. For those who did not hear the previous interview, maybe you can briefly
@@ -59,6 +61,7 @@ transcript:
   sec: 236
   time: '3:56'
   who: Alexey
+- header: 'Book Announcement: Machine Learning System Design'
 - line: 'Yeah, that makes sense. Okay, let''s focus on why I think I am the person
     who can talk about machine learning system design. As you already mentioned, I
     worked in many different companies – most of them are quite prominent: Alibaba,
@@ -95,6 +98,7 @@ transcript:
   sec: 425
   time: '7:05'
   who: Alexey
+- header: 'Design Document Purpose: Fail-Fast Principle'
 - line: To fail as soon as possible – because it's much better for your project to
     fail if you invested two or three weeks than if you invested six or nine months.
     You probably do want to know before than after, right? If you think about that.
@@ -106,7 +110,6 @@ transcript:
   sec: 426
   time: '7:06'
   who: Valerii
-- header: The goal of the design document
 - line: '[laughs] I''m already confused. [chuckles] Maybe we should take a step back.
     So you already said that you''re writing a book and the book is about ML system
     design. The goal of the book, and then in general, when we create a machine learning
@@ -119,6 +122,7 @@ transcript:
   sec: 464
   time: '7:44'
   who: Alexey
+- header: 'Blueprint Analogy: Preventing Waste with Early Design'
 - line: Okay, okay. Let's clear that up. When you do a machine learning project, there
     is a lot of uncertainty. Well, that obviously depends on what do you, but if you
     think about that – software projects are not... Well, they're relatively deterministic.
@@ -150,6 +154,7 @@ transcript:
   sec: 519
   time: '8:39'
   who: Valerii
+- header: Prevalence of Missing Documentation in ML Projects
 - line: Well, if I'm being honest, like nine and a half? [chuckles]
   sec: 669
   time: '11:09'
@@ -221,6 +226,7 @@ transcript:
   sec: 841
   time: '14:01'
   who: Alexey
+- header: 'Shared Design Docs: Alignment, Feedback, and Simplicity'
 - line: Yes, I'd say so. Not only what can go wrong, but also, our decision in the
     early stage definitely affects the next stage. Again, let's take the analogy of
     building a school. If you need a five-story school or fifty-story school (I've
@@ -266,7 +272,6 @@ transcript:
   sec: 876
   time: '14:36'
   who: Valerii
-- header: The challenges of machine learning system design
 - line: Yeah, that's really great. One of the things that you mentioned was that we
     want to have a shareable document, where we write what we need and what we want
     (and that these are different things). And I think this is one of the common challenges
@@ -277,6 +282,7 @@ transcript:
   sec: 1100
   time: '18:20'
   who: Alexey
+- header: 'Design Doc as a Living Artifact: Maintenance Challenges'
 - line: Well, you have a wealth of experience, and you know that one of the hardest
     things is to maintain. Let's say that. You could say, “Oh, I need to do things
     right. I will create a proper document.” And let's say you've done that. On the
@@ -355,8 +361,7 @@ transcript:
   sec: 1469
   time: '24:29'
   who: Alexey
-- header: Yeah, that's reasonable.
-- header: The importance of updating the design document and assigning responsibility
+- header: 'Accountability & Ownership: Assigning Areas of Responsibility'
 - line: If I summarize, one of the reasons why the machine learning design document
     might fail, or why a project might fail, is that we assume that the design document
     is a static thing. We finish it, and [believe] it's not going to change. But it's
@@ -476,6 +481,7 @@ transcript:
   sec: 1845
   time: '30:45'
   who: Alexey
+- header: 'Bus Factor & Risk Assessment: People Dependency Mapping'
 - line: You probably have heard about this horror story from Twitter. They recently
     were bought by the extravaganza billionaire, who decided that the best idea is
     to lay off most of your engineers. Which is okay, because Twitter was very well
@@ -568,7 +574,7 @@ transcript:
   sec: 2208
   time: '36:48'
   who: Valerii
-- header: The importance of modularity for the design document
+- header: 'Modularity: Chapter-Based Design Docs and Versioning Signals'
 - line: Okay. I think one of the things we talked about quite extensively here is
     that things change – life will change, and we need to account for that. Our design
     document has to be non-static – it has to be a dynamic thing. So how do we build,
@@ -633,6 +639,7 @@ transcript:
   sec: 2457
   time: '40:57'
   who: Alexey
+- header: 'Incentivizing Documentation: Metrics and Performance Reviews'
 - line: Yeah, it impacts the full system. But again, you can't say, “Oh, I updated
     three lines. It is ten times more impactful than the actual code, which is doing
     that.” Do you see? As soon as a metric becomes a goal, it ceases to be a good
@@ -663,7 +670,6 @@ transcript:
   sec: 2520
   time: '42:00'
   who: Valerii
-- header: Is there a universal template of a machine learning system design document?
 - line: We have a question that is quite on-topic to what we discussed. That question
     is, “Is there a universal template of a machine learning system design document?”
     I think it's related because you mentioned that a design document should be modular
@@ -684,6 +690,7 @@ transcript:
   sec: 2631
   time: '43:51'
   who: Alexey
+- header: 'ML Design Template Overview: 16-Chapter Book Outline'
 - line: So if you don't want to spend like 30 bucks on our book (which actually brings
     me a lot of sorrow to find that out) you can just... if you can share the link
     to our book, what people can do is just read the outline. Our book structure is
@@ -715,7 +722,6 @@ transcript:
   sec: 2633
   time: '43:53'
   who: Valerii
-- header: The importance of monitoring and fallback solutions
 - line: Okay. So keeping my fingers crossed. So my question was also a bit of... what
     I was struggling with sometimes is maybe having some examples. I guess right now,
     if somebody wants to have an example, you mentioned that in the book, there are
@@ -726,6 +732,7 @@ transcript:
   sec: 2810
   time: '46:50'
   who: Alexey
+- header: 'Monitoring: Detecting Data Drift, Concept Drift, and Prediction Drift'
 - line: 100%. In our book, we covered that in the chapter on reliability and monitoring,
     and the fallbacks. Basically, it doesn't matter how good your system is, it will
     go down sooner or later. Google went down, Facebook went down, AWS went down,
@@ -775,6 +782,7 @@ transcript:
   sec: 3107
   time: '51:47'
   who: Alexey
+- header: 'Fallback Strategies: Redundancy, Simple Baselines, and Serving Reliability'
 - line: Well, we think that accounting for that is a part of... Let's say, it will
     split the design doc into four parts, like preparation, early stage, intermediate
     steps, and integration growth – we think that reliability monitoring and fallback
@@ -820,6 +828,7 @@ transcript:
   sec: 3301
   time: '55:01'
   who: Valerii
+- header: 'Baseline Solutions: Start Simple to Validate Hypotheses Quickly'
 - line: Right. Okay. So we need to think about that and explicitly document who is
     accountable for what. Then another thing that we need to keep in mind is that
     the document should have some sort of modular structure – it should have chapters
@@ -857,6 +866,7 @@ transcript:
   sec: 3384
   time: '56:24'
   who: Valerii
+- header: 'Resources & Tools: Book Discount, Evidently AI, and Templates'
 - line: By the way, while we were speaking, I went to our previous conversation with
     Arseny, who is the co-author of the book, and I found out that we have a discount
     code for the book. I included the discount code in the description of this episode.
@@ -864,7 +874,6 @@ transcript:
   sec: 3495
   time: '58:15'
   who: Alexey
-- header: Valerii’s resource recommendations
 - line: I want to ask you one last thing. We already talked about resources. One resource,
     if somebody wants to learn more about ML systems design, is obviously your book.
     The other resource is Evidently's website. Is there anything else you would recommend
@@ -903,7 +912,7 @@ transcript:
   sec: 3608
   time: '1:00:08'
   who: Valerii
-- header: How to find Valerii online
+- header: 'Contact: Connect with Valerii on LinkedIn'
 - line: Please send the link and we will include them in the description. If somebody
     wants to get in touch with you and ask something, what's the best way of doing
     that?
@@ -921,11 +930,109 @@ transcript:
   sec: 3698
   time: '1:01:38'
   who: Valerii
+- header: Episode Close and Final Takeaways
 - line: Yeah. And thanks, everyone, for joining us today too. Have a nice day and
     the rest of the week. See you soon!
   sec: 3704
   time: '1:01:44'
   who: Alexey
+description: 'Master ML system design: fail-fast design docs, modular architecture
+  & data drift monitoring to cut risk, assign ownership, speed experiments.'
+intro: How do you design ML systems that fail fast, scale with modular architecture,
+  and survive data drift in production? In this episode, Valerii Babushkin — Senior
+  Director of Data, Analytics, and AI at BP, Kaggle Competitions Grandmaster, and
+  author of Machine Learning System Design — walks through a practical playbook for
+  ML system design. <br><br> We cover why fail-fast design docs act like blueprints
+  to prevent wasted work, how shared and chapter-based design docs enable alignment
+  and versioning, and the maintenance challenges of treating design docs as living
+  artifacts. Valerii explains assigning ownership and mapping the bus factor for risk
+  assessment, incentivizing documentation, and using a 16-chapter ML design template
+  to standardize architecture. On the operational side we dig into monitoring strategies
+  for data drift, concept drift, and prediction drift, plus fallback strategies —
+  redundancy, simple baselines, and serving reliability — to keep models robust. He
+  also points to tools and resources including Evidently AI, templates, and the book.
+  <br><br> Listen to gain concrete tactics for fail-fast design docs, modular architecture,
+  data drift monitoring, and baseline solutions you can apply to reduce risk and accelerate
+  ML delivery.
+dateadded: '2023-07-16'
+duration: PT00H59M38S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=0
+  endOffset: 126
+- name: 'Guest Introduction: Valerii Babushkin background'
+  startOffset: 126
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=126
+  endOffset: 240
+- name: 'Book Announcement: Machine Learning System Design'
+  startOffset: 240
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=240
+  endOffset: 426
+- name: 'Design Document Purpose: Fail-Fast Principle'
+  startOffset: 426
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=426
+  endOffset: 519
+- name: 'Blueprint Analogy: Preventing Waste with Early Design'
+  startOffset: 519
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=519
+  endOffset: 669
+- name: Prevalence of Missing Documentation in ML Projects
+  startOffset: 669
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=669
+  endOffset: 876
+- name: 'Shared Design Docs: Alignment, Feedback, and Simplicity'
+  startOffset: 876
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=876
+  endOffset: 1141
+- name: 'Design Doc as a Living Artifact: Maintenance Challenges'
+  startOffset: 1141
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=1141
+  endOffset: 1477
+- name: 'Accountability & Ownership: Assigning Areas of Responsibility'
+  startOffset: 1477
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=1477
+  endOffset: 1919
+- name: 'Bus Factor & Risk Assessment: People Dependency Mapping'
+  startOffset: 1919
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=1919
+  endOffset: 2210
+- name: 'Modularity: Chapter-Based Design Docs and Versioning Signals'
+  startOffset: 2210
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=2210
+  endOffset: 2461
+- name: 'Incentivizing Documentation: Metrics and Performance Reviews'
+  startOffset: 2461
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=2461
+  endOffset: 2633
+- name: 'ML Design Template Overview: 16-Chapter Book Outline'
+  startOffset: 2633
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=2633
+  endOffset: 2866
+- name: 'Monitoring: Detecting Data Drift, Concept Drift, and Prediction Drift'
+  startOffset: 2866
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=2866
+  endOffset: 3119
+- name: 'Fallback Strategies: Redundancy, Simple Baselines, and Serving Reliability'
+  startOffset: 3119
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=3119
+  endOffset: 3313
+- name: 'Baseline Solutions: Start Simple to Validate Hypotheses Quickly'
+  startOffset: 3313
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=3313
+  endOffset: 3495
+- name: 'Resources & Tools: Book Discount, Evidently AI, and Templates'
+  startOffset: 3495
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=3495
+  endOffset: 3644
+- name: 'Contact: Connect with Valerii on LinkedIn'
+  startOffset: 3644
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=3644
+  endOffset: 3704
+- name: Episode Close and Final Takeaways
+  startOffset: 3704
+  url: https://www.youtube.com/watch?v=6YBMU6475KQ&t=3704
+  endOffset: 3578
 ---
 
 Links:

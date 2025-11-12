@@ -1,0 +1,25 @@
+00:00:00 Podcast Introduction: Running from Complexity
+00:02:14 Guest Introduction: Ben Wilson, Databricks and ML engineering focus
+00:03:06 Career Path: Navy nuclear tech to process engineering and data science
+00:06:50 Consulting Approach: Prioritizing maintainability over novelty
+00:08:49 Code Quality: Refactoring "walls of text" into modular, testable code
+00:10:35 Production Failures: Lack of business buy-in and overcomplicated solutions
+00:13:19 Motivation Drivers: Tech hype, "flexing," and engineering pragmatism
+00:18:17 Avoiding Search-Driven Complexity: Use experts, communities, and Bayesian methods
+00:21:39 Cross-Functional Collaboration: Involving SMEs to simplify solutions
+00:26:04 Explainability: Translating models into business terms to build trust
+00:29:06 From Idea to Production: Rapid prototypes, selling to SMEs, and executive sponsorship
+00:32:03 Experimentation Process: Timeboxed bake-offs and cost–benefit tradeoffs
+00:36:13 The IKEA Effect: Emotional attachment to complex, hard-to-maintain systems
+00:39:17 Novel Algorithm Risks: Transfer learning vs building white‑paper solutions
+00:44:23 Prefer Simplicity First: Solve with SQL or stats before deep learning
+00:46:22 Paper Pitfalls: Reproducibility, environment assumptions, and cloud cost
+00:49:54 Team Composition: Importance of statistics expertise and coding/ML engineering skills
+00:52:14 Agile for ML: Iterative sprints, MVPs, feature engineering, and testing
+00:55:41 Timeboxing Research: Limit experiments to avoid sunk-costs
+00:57:38 Mentoring & Training: Databricks programs and production ML capstones
+00:59:13 Book Summary: Machine Learning Engineering in Action — process, automation, testing
+01:02:27 AI‑First Tradeoffs: Talent needs, retention, and budget realities
+01:04:34 Manager Enablement: Tech leads translating ML for nontechnical managers
+01:07:58 Career Path Advice: Core fundamentals, specialization timeline, and leadership
+01:12:51 Contact & Resources: LinkedIn, podcast appearances, and early‑access book

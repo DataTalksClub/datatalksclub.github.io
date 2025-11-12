@@ -2,7 +2,22 @@
 episode: 1
 guests:
 - meoramer
-intro: "In this episode, Meor Amer—Developer Relations professional at Cohere and author of A Visual Introduction to Deep Learning—explains how to make complex machine learning ideas intuitive through visuals. He shares how he founded kDimensions to “visualize the verb” behind AI concepts, drawing inspiration from Jack Butcher’s Visualize Value and applying principles like creativity through constraint and message-over-aesthetics design. You’ll learn his process for creating educational ML visuals in Figma, turning ideas into shareable content, and teaching AI concepts that connect logic with emotion."
+intro: 'How do you teach machine learning so people build intuition before diving
+  into math? In this episode, Meor Amer—educator, author, and Developer Relations at
+  Cohere—walks through a visual-first approach to machine learning that makes concepts
+  accessible and actionable. Drawing on his journey from bioengineering and telecom
+  analytics to founding kDimensions and writing A Visual Introduction to Deep Learning,
+  Meor explains why visual machine learning and dimensionality reduction matter and
+  how templates can scale understanding. <br><br> We cover practical workflows: generating
+  ideas (visualize the verb, use metaphors like the catapult and airplane), design
+  constraints that spark creativity, and a sketchbook → Figma pipeline for engineers
+  that emphasizes message over aesthetics. Meor shares posting cadence for LinkedIn
+  visuals, how to map ML problems (classification, regression, clustering, anomaly,
+  RL) to templates, and hands‑on learning techniques—consume with intent, break and
+  modify code. He also discusses monetizing visual design services and turning articles
+  into key visuals using 4–5 keywords. <br><br> Listen to learn concrete techniques
+  for ML visualization, Figma for engineers, and creating reusable templates that
+  build intuition and make machine learning teachable.'
 topics:
 - machine learning
 - education
@@ -17,10 +32,12 @@ links:
   youtube: https://www.youtube.com/watch?v=OuCuk-7RHjM
 season: 8
 short: Visualising Machine Learning
-title: "Visual Thinking in Machine Learning: How to Explain AI with Simple Visuals"
-description: "Learn to visualize ML concepts with Meor Amer. Discover Figma techniques, visual engineering, and how to teach AI through simple visuals."
+title: 'Visualize Machine Learning: Build Intuition with kDimensions, Figma & Templates'
+description: Discover kDimensions and Figma templates to visualize machine learning,
+  build intuition before the math, map ML problems, and create shareable visuals.
 transcript:
-- header: "Introduction: Visualizing ML Concepts and Posting Cadence"
+- header: Episode Introduction & Visual ML Overview
+- header: Posting Cadence & Visuals on LinkedIn
 - line: This week, we'll talk about visualising machine learning. And we have a special
     guest today, Meor. You probably saw Meor on LinkedIn where he shares amazing visualisation
     about different machine learning concepts. One of the last ones I remember well
@@ -29,9 +46,9 @@ transcript:
   sec: 116
   time: '1:56'
   who: Alexey
-- line: "I used to do it regularly. I started sometime last year and I was doing almost\
-    \ one visual every day. But now I'm starting to do it a bit less regularly. But\
-    \ I\u2019m hoping to put more visuals soon and go back to my earlier cadence."
+- line: I used to do it regularly. I started sometime last year and I was doing almost
+    one visual every day. But now I'm starting to do it a bit less regularly. But
+    I’m hoping to put more visuals soon and go back to my earlier cadence.
   sec: 143
   time: '2:23'
   who: Meor
@@ -44,7 +61,7 @@ transcript:
   sec: 173
   time: '2:53'
   who: Meor
-- header: "Career Path: Bio Engineering, Telecom Analytics, Self-Employment"
+- header: 'Career Journey: Bioengineering → Telecom Analytics → Self‑employment'
 - line: Before we go into our main topic of visualising machine learning, let's start
     with your background. Can you tell us about your career journey so far?
   sec: 177
@@ -86,11 +103,11 @@ transcript:
   sec: 222
   time: '3:42'
   who: Meor
-- header: "Concept: kDimensions Name; Visuals as Dimensionality Reduction"
 - line: Why this name?
   sec: 370
   time: '6:10'
   who: Alexey
+- header: 'kDimensions: Name & Visual Dimensionality Reduction'
 - line: It's quite obvious. It borrows from the concept of machine learning - dimensionality
     reduction. For example, if you talk about a machine learning problem, you have
     data that is very big, let's say 1000s of 1000s of features. What you can do is
@@ -130,7 +147,7 @@ transcript:
   sec: 484
   time: '8:04'
   who: Meor
-- header: "Inspiration: Jack Butcher & \"Visualise Value\"; Visual Engineering"
+- header: Jack Butcher Influence & Visual Engineering Principles
 - line: There is a guy called Jack Butcher. He has a Twitter profile called "visualise
     value", and a website as well. They see some similarities in what you do and what
     Jack is doing. Did you get inspiration from him with coming up with all these
@@ -149,11 +166,11 @@ transcript:
   sec: 568
   time: '9:28'
   who: Meor
-- line: "I still haven't figured out the right term for this whole category yet, but\
-    \ the closest I can find visual engineering. It's not \u201Cengineering\u201D\
-    \ in the technical sense, but it's about using visuals for you to convey a message.\
-    \ You create a visual that amplifies or makes better what you are trying to convey.\
-    \ Jack's visuals fall under this category. I was amazed."
+- line: I still haven't figured out the right term for this whole category yet, but
+    the closest I can find visual engineering. It's not “engineering” in the technical
+    sense, but it's about using visuals for you to convey a message. You create a
+    visual that amplifies or makes better what you are trying to convey. Jack's visuals
+    fall under this category. I was amazed.
   sec: 568
   time: '9:28'
   who: Meor
@@ -164,7 +181,7 @@ transcript:
   sec: 568
   time: '9:28'
   who: Meor
-- header: "Purpose of Visuals: Intuition Before Math; Key Creators"
+- header: 'Purpose of Visuals: Build Intuition Before Math'
 - line: There are many reasons to do it. One of the reasons is that there is more
     information that we need, when it comes to machine learning because there are
     so many resources, there are courses, books, blog posts, code examples, it goes
@@ -173,11 +190,11 @@ transcript:
   sec: 700
   time: '11:40'
   who: Meor
-- line: "It's an interesting industry to be in right now: a lot of people are interested\
-    \ in this subject. People are motivated to learn. I hope to be able to give them\
-    \ something to learn, to open the door for them before they explore things in\
-    \ more detail. For them to be able to grasp the concepts simply - to \u201Cget\
-    \ it\u201D at the intuition level, before they go further into what they are doing."
+- line: 'It''s an interesting industry to be in right now: a lot of people are interested
+    in this subject. People are motivated to learn. I hope to be able to give them
+    something to learn, to open the door for them before they explore things in more
+    detail. For them to be able to grasp the concepts simply - to “get it” at the
+    intuition level, before they go further into what they are doing.'
   sec: 700
   time: '11:40'
   who: Meor
@@ -204,33 +221,33 @@ transcript:
   sec: 700
   time: '11:40'
   who: Meor
-- header: "Constraint Strategy: Creativity via Limits (Color, Shapes, Focus)"
-- line: "You were already in the educational space. Then you were browsing through\
-    \ your feed, and saw a visual from Jake Butcher. You thought, \"This is so cool.\
-    \ I want to do something similar.\" When I saw images from Jack, I thought \u201C\
-    It would be cool if somebody would do something similar for machine learning\u201D\
-    . A few months after that, I saw you on LinkedIn and that was it! I said, \u201C\
-    This is as if Jack would cover ML\u201D. I didn\u2019t take his course. But when\
-    \ I listened to a podcast with him, he said that \u201Crestrict yourself - on\
-    \ purpose\u201D. He only uses two colors and simple shapes."
+- header: 'Design Constraints: Creativity Through Color & Shape Limits'
+- line: You were already in the educational space. Then you were browsing through
+    your feed, and saw a visual from Jake Butcher. You thought, "This is so cool.
+    I want to do something similar." When I saw images from Jack, I thought “It would
+    be cool if somebody would do something similar for machine learning”. A few months
+    after that, I saw you on LinkedIn and that was it! I said, “This is as if Jack
+    would cover ML”. I didn’t take his course. But when I listened to a podcast with
+    him, he said that “restrict yourself - on purpose”. He only uses two colors and
+    simple shapes.
   sec: 852
   time: '14:12'
   who: Alexey
-- line: "He also has a lot of very interesting perspectives about visuals. And beyond\
-    \ visuals. One of the things I took away from him is that you have to introduce\
-    \ constraints in your work. It\u2019s true for visuals and for anything in life,\
-    \ especially when you're creating something."
+- line: He also has a lot of very interesting perspectives about visuals. And beyond
+    visuals. One of the things I took away from him is that you have to introduce
+    constraints in your work. It’s true for visuals and for anything in life, especially
+    when you're creating something.
   sec: 916
   time: '15:16'
   who: Meor
-- line: "He uses just two colors - black and white, geometrical shapes, abstract concepts,\
-    \ and that's it. He says \u201Cconstraints breed creativity\u201D. It's ironic.\
-    \ People would think that to be creative, you have to have a lot of resources\
-    \ with you, talent, a lot of tools, and a lot of ideas. That is true. But when\
-    \ you introduce constraints, you're forced to work with what you have. That's\
-    \ when you get focused. You're not worried about the other things that you can\
-    \ potentially do. When you see the visuals from Jack - you can do amazing things\
-    \ with the constraint that you impose on yourself."
+- line: He uses just two colors - black and white, geometrical shapes, abstract concepts,
+    and that's it. He says “constraints breed creativity”. It's ironic. People would
+    think that to be creative, you have to have a lot of resources with you, talent,
+    a lot of tools, and a lot of ideas. That is true. But when you introduce constraints,
+    you're forced to work with what you have. That's when you get focused. You're
+    not worried about the other things that you can potentially do. When you see the
+    visuals from Jack - you can do amazing things with the constraint that you impose
+    on yourself.
   sec: 916
   time: '15:16'
   who: Meor
@@ -245,18 +262,18 @@ transcript:
   sec: 1010
   time: '16:50'
   who: Meor
-- header: "Idea Generation: Visualizing the Verb; Metaphors and Objects"
-- line: "How do you come up with these ideas? For example, you recently created an\
-    \ illustration about \u201Cdrift\u201D. How did it happen?"
+- header: 'Idea Generation: Visualize the Verb & Use Metaphors'
+- line: How do you come up with these ideas? For example, you recently created an
+    illustration about “drift”. How did it happen?
   sec: 1053
   time: '17:33'
   who: Alexey
-- line: "My approach is first to introduce the constraint - the style constraint that\
-    \ we have just discussed. The other thing - introduce constraints in terms of\
-    \ the topic that you want to visualize. For example, \u201Cdrift\u201D that you\
-    \ just mentioned. I\u2019m not yet sure how I\u2019m going to make it, but I will\
-    \ stick with it and I'll make sure that I can create some kind of visual related\
-    \ to drift before going on to other topics."
+- line: My approach is first to introduce the constraint - the style constraint that
+    we have just discussed. The other thing - introduce constraints in terms of the
+    topic that you want to visualize. For example, “drift” that you just mentioned.
+    I’m not yet sure how I’m going to make it, but I will stick with it and I'll make
+    sure that I can create some kind of visual related to drift before going on to
+    other topics.
   sec: 1061
   time: '17:41'
   who: Meor
@@ -268,10 +285,10 @@ transcript:
   sec: 1061
   time: '17:41'
   who: Meor
-- line: "The other thing that works for me is trying to visualize not \u201Cwhat it\
-    \ is\u201D, but \u201Cwhat it means\u201D. What I learned from Jack, when you\
-    \ try to visualize a concept, you don't visualize the noun, but the verb or the\
-    \ objective. That's when you can extract the message that you want to deliver."
+- line: The other thing that works for me is trying to visualize not “what it is”,
+    but “what it means”. What I learned from Jack, when you try to visualize a concept,
+    you don't visualize the noun, but the verb or the objective. That's when you can
+    extract the message that you want to deliver.
   sec: 1135
   time: '18:55'
   who: Meor
@@ -282,24 +299,23 @@ transcript:
   sec: 1135
   time: '18:55'
   who: Meor
-- line: "But try to understand what it\u2019s trying to do. It\u2019s trying to be\
-    \ accurate. That's when you think about metaphors. What kind of objects can you\
-    \ use to represent that? It brings another benefit: if you use metaphors and objects\
-    \ that people can relate with, you make the concept less intimidating. If you\
-    \ use rectangles and arrows, people can get an idea, but not quite. Then they\
-    \ feel like they are not yet attached to the idea. But when you show everyday\
-    \ things, they understand these things, and it becomes the bridge to understand\
-    \ the real concept that you want to represent. Metaphors and abstract concepts\
-    \ are the two things that you may want to look into if you're trying to visualize\
-    \ things."
+- line: 'But try to understand what it’s trying to do. It’s trying to be accurate.
+    That''s when you think about metaphors. What kind of objects can you use to represent
+    that? It brings another benefit: if you use metaphors and objects that people
+    can relate with, you make the concept less intimidating. If you use rectangles
+    and arrows, people can get an idea, but not quite. Then they feel like they are
+    not yet attached to the idea. But when you show everyday things, they understand
+    these things, and it becomes the bridge to understand the real concept that you
+    want to represent. Metaphors and abstract concepts are the two things that you
+    may want to look into if you''re trying to visualize things.'
   sec: 1135
   time: '18:55'
   who: Meor
-- header: "Examples: Drift (Changing Target); Data-Centric AI (Airplane Balance)"
-- line: "Okay, so first, you think, \"I want to create something on drift\u201D Then\
-    \ you give yourself a bit of time, use a timer, set it to 5-10 minutes. And then\
-    \ you start brainstorming, like \u201CHow can I show the action? What is the action\
-    \ there?\u201D By the way, what was the action in that visualization of drift?"
+- header: Drift Visualized (Catapult Metaphor) & Data‑centric AI Airplane Analogy
+- line: Okay, so first, you think, "I want to create something on drift” Then you
+    give yourself a bit of time, use a timer, set it to 5-10 minutes. And then you
+    start brainstorming, like “How can I show the action? What is the action there?”
+    By the way, what was the action in that visualization of drift?
   sec: 1286
   time: '21:26'
   who: Alexey
@@ -311,24 +327,24 @@ transcript:
   sec: 1323
   time: '22:03'
   who: Meor
-- line: "I can give another example - the concept of data-centered AI. When people\
-    \ talk about data-centered AI, it does not mean that we relax on model development.\
-    \ We have focused so much on model development, fine-tuning, and all that, but\
-    \ haven\u2019t focused on data. So when we talk about data-centric AI, people\
-    \ think that it\u2019s about data, not the model. The model is there as it is.\
-    \ But the thing is, you need to have both, you need to have balance."
+- line: I can give another example - the concept of data-centered AI. When people
+    talk about data-centered AI, it does not mean that we relax on model development.
+    We have focused so much on model development, fine-tuning, and all that, but haven’t
+    focused on data. So when we talk about data-centric AI, people think that it’s
+    about data, not the model. The model is there as it is. But the thing is, you
+    need to have both, you need to have balance.
   sec: 1323
   time: '22:03'
   who: Meor
-- line: "That was when I figured out this idea of an airplane - on one side with a\
-    \ wing of a modern aircraft, and the other side is less developed, the wings from\
-    \ the 50s. For the aircraft to function well, you need to balance both sides.\
-    \ Algorithms on one side and data on the other side. It\u2019s not like one over\
-    \ the other, but both at the same time. People might be able to relate to that."
+- line: That was when I figured out this idea of an airplane - on one side with a
+    wing of a modern aircraft, and the other side is less developed, the wings from
+    the 50s. For the aircraft to function well, you need to balance both sides. Algorithms
+    on one side and data on the other side. It’s not like one over the other, but
+    both at the same time. People might be able to relate to that.
   sec: 1323
   time: '22:03'
   who: Meor
-- header: "Process: Long List to Short List; Visualizing Emotional Aspects"
+- header: 'Creative Process: Longlist → Shortlist → Brainstorming'
 - line: Can you walk us through the process of creating it? How did you come up with
     the idea? Did you want to create something on data-centric AI? Or first, you had
     an image of your plane in your head and then you did this? Can you walk us through
@@ -337,23 +353,22 @@ transcript:
   sec: 1447
   time: '24:07'
   who: Alexey
-- line: "I don't have any rigid ideas. Whenever I'm reading a new concept or trying\
-    \ to understand new material, to understand it and get to the core of the message,\
-    \ I'll write down the concepts without adding any visuals. I put them in a long\
-    \ list. The ideas don\u2019t always come immediately, so it\u2019s important to\
-    \ maintain this list. I review this list every week. If something occurs frequently,\
-    \ it\u2019s interesting and I want to nail my understanding of this term, I put\
-    \ it to the shortlist."
+- line: I don't have any rigid ideas. Whenever I'm reading a new concept or trying
+    to understand new material, to understand it and get to the core of the message,
+    I'll write down the concepts without adding any visuals. I put them in a long
+    list. The ideas don’t always come immediately, so it’s important to maintain this
+    list. I review this list every week. If something occurs frequently, it’s interesting
+    and I want to nail my understanding of this term, I put it to the shortlist.
   sec: 1478
   time: '24:38'
   who: Meor
-- line: "Once I've got the shortlist, then I figure out how to visualize these concepts.\
-    \ I start to think backward. For each concept I want to visualize, I think \u201C\
-    what is the key message?\u201D. That's also part of the learning - when you are\
-    \ trying to learn something, you want to get what is the essence of this concept.\
-    \ For example, for drift, things are changing - that\u2019s the essence of what\
-    \ you want to learn. The source changes or the target, and you're trying to try\
-    \ to adopt that. So that's the concept that you try to learn."
+- line: Once I've got the shortlist, then I figure out how to visualize these concepts.
+    I start to think backward. For each concept I want to visualize, I think “what
+    is the key message?”. That's also part of the learning - when you are trying to
+    learn something, you want to get what is the essence of this concept. For example,
+    for drift, things are changing - that’s the essence of what you want to learn.
+    The source changes or the target, and you're trying to try to adopt that. So that's
+    the concept that you try to learn.
   sec: 1560
   time: '26:00'
   who: Meor
@@ -369,12 +384,11 @@ transcript:
   sec: 1560
   time: '26:00'
   who: Meor
-- line: "For example, we talked about creating a data science project and a data science\
-    \ solution. Normally you start with a problem, then you work your way towards\
-    \ the solution. But a lot of people - me first and foremost - are guilty of starting\
-    \ with the solution first, and working backward to find a problem that can be\
-    \ solved. You\u2019re so interested in the algorithm or the solution that you're\
-    \ building."
+- line: For example, we talked about creating a data science project and a data science
+    solution. Normally you start with a problem, then you work your way towards the
+    solution. But a lot of people - me first and foremost - are guilty of starting
+    with the solution first, and working backward to find a problem that can be solved.
+    You’re so interested in the algorithm or the solution that you're building.
   sec: 1560
   time: '26:00'
   who: Meor
@@ -385,16 +399,16 @@ transcript:
   sec: 1560
   time: '26:00'
   who: Meor
-- line: "So to summarise it. When you consume content, you keep a long list of things\
-    \ that you read about. Let's say you read about drift today, then you take a note\
-    \ and read about other things. Then you see drift again, and you realize it\u2019\
-    s interesting for you. Then you start spending more time learning about it, and\
-    \ then you move them from the long list with ideas to the short list.  For ideas\
-    \ in the short list, you take them and try to elaborate them. You think \u201C\
-    How can you see action there?\u201D. You also mentioned that there are two kinds\
-    \ of visuals you like creating - concept and visuals that convey emotional aspect.\
-    \ So longlist, shortlist, getting some inspiration, brainstorming, and then actually\
-    \ sitting down and creating the visual?"
+- line: So to summarise it. When you consume content, you keep a long list of things
+    that you read about. Let's say you read about drift today, then you take a note
+    and read about other things. Then you see drift again, and you realize it’s interesting
+    for you. Then you start spending more time learning about it, and then you move
+    them from the long list with ideas to the short list.  For ideas in the short
+    list, you take them and try to elaborate them. You think “How can you see action
+    there?”. You also mentioned that there are two kinds of visuals you like creating
+    - concept and visuals that convey emotional aspect. So longlist, shortlist, getting
+    some inspiration, brainstorming, and then actually sitting down and creating the
+    visual?
   sec: 1737
   time: '28:57'
   who: Alexey
@@ -402,12 +416,13 @@ transcript:
   sec: 1737
   time: '28:57'
   who: Alexey
-- line: "To be frank, it doesn't always work that way. For example, ideas might come\
-    \ to me when I\u2019m in the shower or driving. That's why it's handy to have\
-    \ a sketchbook that is dedicated to visuals. Whenever I have an idea, even if\
-    \ I haven\u2019t figured it out yet, I sketch it. It's also useful to have an\
-    \ app that you can use to immediately write down your ideas and quickly log in\
-    \ what you have in your mind. That has been handy for me."
+- header: 'Capturing Ideas: Sketchbook, Notes & Quick Logging'
+- line: To be frank, it doesn't always work that way. For example, ideas might come
+    to me when I’m in the shower or driving. That's why it's handy to have a sketchbook
+    that is dedicated to visuals. Whenever I have an idea, even if I haven’t figured
+    it out yet, I sketch it. It's also useful to have an app that you can use to immediately
+    write down your ideas and quickly log in what you have in your mind. That has
+    been handy for me.
   sec: 1826
   time: '30:26'
   who: Meor
@@ -419,7 +434,7 @@ transcript:
   sec: 1871
   time: '31:11'
   who: Meor
-- header: "Tool: Figma (Sweet Spot for Engineers); Geometric Shapes Approach"
+- header: 'Tools: Figma for Engineers & Geometric Shape Workflow'
 - line: What do you use for creating your visuals?
   sec: 1874
   time: '31:14'
@@ -441,12 +456,13 @@ transcript:
   sec: 1877
   time: '31:17'
   who: Meor
-- line: "There are other tools as well. I\u2019m an engineer, so my approach is more\
-    \ on geometric shapes, vectors and vector images. But if you\u2019re more artistic,\
-    \ then you may prefer hand sketch."
+- line: There are other tools as well. I’m an engineer, so my approach is more on
+    geometric shapes, vectors and vector images. But if you’re more artistic, then
+    you may prefer hand sketch.
   sec: 1877
   time: '31:17'
   who: Meor
+- header: 'From Sketch to Figma: Drafting, Asset Reuse & Iteration'
 - line: So, you have a sketch note. When you have an idea, you take sketches or sometimes
     just notes. Then use Figma to create the visual. Do you always first create a
     draft on a piece of paper before moving to Figma?
@@ -472,26 +488,25 @@ transcript:
   sec: 2033
   time: '33:53'
   who: Meor
-- line: "If you need a catapult or a basket, you just go to that \u201Cdrift\u201D\
-    \ visual, copy the catapult and paste to the new image and use it. That's cool."
+- line: If you need a catapult or a basket, you just go to that “drift” visual, copy
+    the catapult and paste to the new image and use it. That's cool.
   sec: 2122
   time: '35:22'
   who: Alexey
-- header: "Advice: Focus on Message over Aesthetics; Practice and Posting"
+- header: 'Design Advice: Prioritize Message Over Aesthetics; Start Posting'
 - line: For somebody like you - an engineer who hasn't worked with anything like Figma
     - how can they start creating visuals? How can they learn this?
   sec: 2132
   time: '35:32'
   who: Alexey
-- line: "Take Jack's course. I cannot recommend it enough. It's very ironic because\
-    \ Jack Butcher was a designer for 10 years. But he taught me that you don't have\
-    \ to be a designer to create visuals. I found that you can turn your \u201Cbug\u201D\
-    \ - not having the designer brain - into your biggest feature. If you focus on\
-    \ the design part, you're not focusing on the message that you want to convey.\
-    \ You want to focus on the message over the aesthetics. If you're focusing on\
-    \ the aesthetics - like \u201CHow does it look?\u201D, \u201CHow would it turn\
-    \ out?\u201D - you don't spend time on the message and making sure people who\
-    \ look at your visual will get it."
+- line: Take Jack's course. I cannot recommend it enough. It's very ironic because
+    Jack Butcher was a designer for 10 years. But he taught me that you don't have
+    to be a designer to create visuals. I found that you can turn your “bug” - not
+    having the designer brain - into your biggest feature. If you focus on the design
+    part, you're not focusing on the message that you want to convey. You want to
+    focus on the message over the aesthetics. If you're focusing on the aesthetics
+    - like “How does it look?”, “How would it turn out?” - you don't spend time on
+    the message and making sure people who look at your visual will get it.
   sec: 2155
   time: '35:55'
   who: Meor
@@ -508,17 +523,16 @@ transcript:
   sec: 2253
   time: '37:33'
   who: Meor
-- line: "In the beginning, I was very pumped up to start creating these visuals. I\
-    \ looked at content from Jack and other creators like him, I started to write\
-    \ down ideas and created around 10 visuals. Then I was ready to start posting\
-    \ them. But then I thought \u201CWhat\u2019s next after that?\u201D. I didn\u2019\
-    t have any idea what I was supposed to do. I only had these 10 ideas, but nothing\
-    \ beyond that. But I just started posting. That's when it slowly developed. More\
-    \ ideas start to come in. That's when I started to relate to what I was learning.\
-    \ When you're reading, consuming content, you're just doing it for consuming.\
-    \ But when you start to consume content with the intention to create something,\
-    \ to learn, to explain to others using visuals, that's when you start to get ideas\
-    \ coming in. And it will not stop."
+- line: In the beginning, I was very pumped up to start creating these visuals. I
+    looked at content from Jack and other creators like him, I started to write down
+    ideas and created around 10 visuals. Then I was ready to start posting them. But
+    then I thought “What’s next after that?”. I didn’t have any idea what I was supposed
+    to do. I only had these 10 ideas, but nothing beyond that. But I just started
+    posting. That's when it slowly developed. More ideas start to come in. That's
+    when I started to relate to what I was learning. When you're reading, consuming
+    content, you're just doing it for consuming. But when you start to consume content
+    with the intention to create something, to learn, to explain to others using visuals,
+    that's when you start to get ideas coming in. And it will not stop.
   sec: 2253
   time: '37:33'
   who: Meor
@@ -531,23 +545,22 @@ transcript:
   sec: 2334
   time: '38:54'
   who: Alexey
-- line: "Also, when you create such visuals that are minimal, when you\u2019re not\
-    \ focusing on aesthetics, you're respecting people's time. They are busy people.\
-    \ They have many things to do at work. They need to watch many things, consume\
-    \ a lot of content and understand the concepts. Another quote from Jack that I\
-    \ found interesting is that what he's doing is working hard to give people less.\
-    \ That's the whole point. You're respecting people's time. you are giving it as\
-    \ what people want to receive, immediately  consume, and convert. On the other\
-    \ hand, being easy means you make your life easier. You're not worrying about\
-    \ things that you're not supposed to be worried about. You're just worried about\
-    \ things that you need to focus on, which are the message and the perspective.\
-    \ It seems to be a great combination."
+- line: Also, when you create such visuals that are minimal, when you’re not focusing
+    on aesthetics, you're respecting people's time. They are busy people. They have
+    many things to do at work. They need to watch many things, consume a lot of content
+    and understand the concepts. Another quote from Jack that I found interesting
+    is that what he's doing is working hard to give people less. That's the whole
+    point. You're respecting people's time. you are giving it as what people want
+    to receive, immediately  consume, and convert. On the other hand, being easy means
+    you make your life easier. You're not worrying about things that you're not supposed
+    to be worried about. You're just worried about things that you need to focus on,
+    which are the message and the perspective. It seems to be a great combination.
   sec: 2381
   time: '39:41'
   who: Meor
-- header: "Technique: Consuming Content with Intention to Teach (\"What If?\")"
-- line: "One of the things you mentioned is \u201Cconsume with intention to create\
-    \ something\u201D. Can you tell us how it works?"
+- header: 'Learning Technique: Consume with Intent to Teach — "What If?" Questions'
+- line: One of the things you mentioned is “consume with intention to create something”.
+    Can you tell us how it works?
   sec: 2450
   time: '40:50'
   who: Alexey
@@ -564,48 +577,45 @@ transcript:
   sec: 2460
   time: '41:00'
   who: Meor
-- line: "The best way to learn something is to teach it. When you read an article,\
-    \ you think, \"This is a cool article. If I wanted to explain this article in\
-    \ a single image, what would this image be?\u201D or \u201Cwhat\u2019s the main\
-    \ idea in this article that they can take away and turn this into a visual?\u201D\
-    \ Does it work like that?"
+- line: The best way to learn something is to teach it. When you read an article,
+    you think, "This is a cool article. If I wanted to explain this article in a single
+    image, what would this image be?” or “what’s the main idea in this article that
+    they can take away and turn this into a visual?” Does it work like that?
   sec: 2518
   time: '41:58'
   who: Alexey
-- line: "When you're reading, consuming content, you are getting \u201Cwhat it is\u201D\
-    . But if you're learning it with the intention of explaining it to others, you\
-    \ also learn \u201Cwhat it is not\u201D and \u201Cwhat can go wrong\u201D. What\
-    \ if you did something else instead of what you are being shown? You start to\
-    \ look at other perspectives and angles - you\u2019re not just getting the one-dimensional\
-    \ view like when you consume content. That's when you start to think of \"what\
-    \ if?\" instead of \"how to?\""
+- line: When you're reading, consuming content, you are getting “what it is”. But
+    if you're learning it with the intention of explaining it to others, you also
+    learn “what it is not” and “what can go wrong”. What if you did something else
+    instead of what you are being shown? You start to look at other perspectives and
+    angles - you’re not just getting the one-dimensional view like when you consume
+    content. That's when you start to think of "what if?" instead of "how to?"
   sec: 2544
   time: '42:24'
   who: Meor
-- line: "If you are given a step on how to do ABC, like \u201Chow to train a machine\
-    \ learning algorithm\u201D. If you have the steps, that's fine. But when you start\
-    \ to think about \u201CWhat can go wrong?\u201D, \u201CWhat else is missing?\u201D\
-    \ \u201CWhat if I do something else?\u201D, \u201CWhat if I do it without machine\
-    \ learning?\u201D. Normally, those are things that you don't think about if you're\
-    \ just consuming. But if you're planning to teach it to others, those are definitely\
-    \ the things that you will need to keep in mind that you will explore and try\
-    \ to discover."
+- line: If you are given a step on how to do ABC, like “how to train a machine learning
+    algorithm”. If you have the steps, that's fine. But when you start to think about
+    “What can go wrong?”, “What else is missing?” “What if I do something else?”,
+    “What if I do it without machine learning?”. Normally, those are things that you
+    don't think about if you're just consuming. But if you're planning to teach it
+    to others, those are definitely the things that you will need to keep in mind
+    that you will explore and try to discover.
   sec: 2544
   time: '42:24'
   who: Meor
-- header: "Learning by Breaking Code"
-- line: "How do you come up with this \u201CWhat if?\u201D and \u201CWhat can go wrong?\u201D\
-    ? If you have practical experience, then you can use it. But if you're just learning\
-    \ this thing, how can you know about these things?"
+- header: 'Hands‑on Learning: Break and Modify Code to Understand ML'
+- line: How do you come up with this “What if?” and “What can go wrong?”? If you have
+    practical experience, then you can use it. But if you're just learning this thing,
+    how can you know about these things?
   sec: 2617
   time: '43:37'
   who: Alexey
-- line: "If you're talking about coding for machine learning, you can explore ways\
-    \ to break the code. For example, you take something that someone else has done.\
-    \ They share it on medium with the code. You don\u2019t not just try to run the\
-    \ code, but also try to make changes. What if you were to change this parameter?\
-    \ What if you were to change this algorithm? There are a thousand things that\
-    \ you can change and see what happens."
+- line: If you're talking about coding for machine learning, you can explore ways
+    to break the code. For example, you take something that someone else has done.
+    They share it on medium with the code. You don’t not just try to run the code,
+    but also try to make changes. What if you were to change this parameter? What
+    if you were to change this algorithm? There are a thousand things that you can
+    change and see what happens.
   sec: 2635
   time: '43:55'
   who: Meor
@@ -615,7 +625,7 @@ transcript:
   sec: 2635
   time: '43:55'
   who: Meor
-- header: "Earning: Visual Design Service for Startups and Content Creators"
+- header: 'Monetization: Visual Design Services for Startups & Content Creators'
 - line: Thanks! You said that since 2019 you're self-employed. You don't work for
     a company, you work for yourself. You mentioned that you were doing some sort
     of consulting and training, but now making visuals is part of what you do. Are
@@ -624,27 +634,26 @@ transcript:
   sec: 2687
   time: '44:47'
   who: Alexey
-- line: "Now it's slowly becoming one of the main things that I'm doing these days.\
-    \ Starting early this year, I've introduced this visual design service for companies.\
-    \ I help content creators to turn their message into a visual. This way they can\
-    \ serve the audience to consume their content and understand their products and\
-    \ services. I help them understand what they are trying to serve, their value\
-    \ proposition, and so on. I'm working mostly with machine learning and data platform\
-    \ startups that are looking to grow their business. Also I\u2019m working with\
-    \ content creators who are trying to create text-based content, and who want to\
-    \ expand that content to deliver their message in a more clear way."
+- line: Now it's slowly becoming one of the main things that I'm doing these days.
+    Starting early this year, I've introduced this visual design service for companies.
+    I help content creators to turn their message into a visual. This way they can
+    serve the audience to consume their content and understand their products and
+    services. I help them understand what they are trying to serve, their value proposition,
+    and so on. I'm working mostly with machine learning and data platform startups
+    that are looking to grow their business. Also I’m working with content creators
+    who are trying to create text-based content, and who want to expand that content
+    to deliver their message in a more clear way.
   sec: 2714
   time: '45:14'
   who: Meor
-- line: "It's very enjoyable for me - not just from my own perspective, but also from\
-    \ what the other party wants to convey. It's also a challenge for me, because\
-    \ there are new things that I need to explore and force myself to understand.\
-    \ Let\u2019s take machine learning companies. There are companies that are doing\
-    \ data platforms, explainability, end-to-end MLOps. Before I can help them with\
-    \ creating visuals, I need to understand their product. That takes some time.\
-    \ But it's a rewarding journey: I get to understand more compared to just looking\
-    \ at it from the outside. I've been doing it a lot more these days, compared to\
-    \ what I used to do before."
+- line: 'It''s very enjoyable for me - not just from my own perspective, but also
+    from what the other party wants to convey. It''s also a challenge for me, because
+    there are new things that I need to explore and force myself to understand. Let’s
+    take machine learning companies. There are companies that are doing data platforms,
+    explainability, end-to-end MLOps. Before I can help them with creating visuals,
+    I need to understand their product. That takes some time. But it''s a rewarding
+    journey: I get to understand more compared to just looking at it from the outside.
+    I''ve been doing it a lot more these days, compared to what I used to do before.'
   sec: 2779
   time: '46:19'
   who: Meor
@@ -662,18 +671,18 @@ transcript:
   sec: 2863
   time: '47:43'
   who: Meor
-- line: "That's interesting! You didn't start with the intention of earning money.\
-    \ You started with the intention of exploring this area and using visualization\
-    \ skills trying to convey your message. You were also learning (relearning) machine\
-    \ learning, so it was a way to consume and regurgitate the content - show that\
-    \ this is how I understand it. You started doing this regularly, and then, at\
-    \ some point, companies noticed this and thought, \"This is so cool. We also want\
-    \ to have something similar. We want somebody to come to us, listen to what we\
-    \ do, and explain it in a simple visual\". That\u2019s cool!"
+- line: That's interesting! You didn't start with the intention of earning money.
+    You started with the intention of exploring this area and using visualization
+    skills trying to convey your message. You were also learning (relearning) machine
+    learning, so it was a way to consume and regurgitate the content - show that this
+    is how I understand it. You started doing this regularly, and then, at some point,
+    companies noticed this and thought, "This is so cool. We also want to have something
+    similar. We want somebody to come to us, listen to what we do, and explain it
+    in a simple visual". That’s cool!
   sec: 2897
   time: '48:17'
   who: Alexey
-- header: "Service: Adding Visuals to Text; Extracting Keywords for Essence"
+- header: 'Content Design: Turn Articles into Key Visuals (Extract 4–5 Keywords)'
 - line: One thing you mentioned is sometimes there is a bunch of text-based information
     - an article - and you need to add visuals to this article. Do I understand correctly
     that companies come to you for this service?
@@ -693,17 +702,17 @@ transcript:
   sec: 3001
   time: '50:01'
   who: Alexey
-- line: "Can you tell us a bit about this? You get an article, which is just a wall\
-    \ of text and nothing else. I imagine it\u2019s a boring article - at least for\
-    \ me because I cannot skim it. I have no idea what it is, and I can\u2019t convince\
-    \ myself to invest time in reading it. So when I create content, I understand\
-    \ that I need to make it easier to understand what this is. But I always have\
-    \ problems with adding visuals to text. How do I add visuals and illustrations\
-    \ there? Do you have some suggestions for people like me? I can come up with text,\
-    \ but I struggle with illustrations."
+- line: Can you tell us a bit about this? You get an article, which is just a wall
+    of text and nothing else. I imagine it’s a boring article - at least for me because
+    I cannot skim it. I have no idea what it is, and I can’t convince myself to invest
+    time in reading it. So when I create content, I understand that I need to make
+    it easier to understand what this is. But I always have problems with adding visuals
+    to text. How do I add visuals and illustrations there? Do you have some suggestions
+    for people like me? I can come up with text, but I struggle with illustrations.
   sec: 3001
   time: '50:01'
   who: Alexey
+- header: 'Visualization Techniques: Contrast, Balance & Slider Metaphors'
 - line: I do it in the same way as I consume this content myself. First, you take
     the first pass on the text. Try to extract the top four or five keywords that
     are always appearing in the text. They contain the key message of a blog post.
@@ -712,12 +721,12 @@ transcript:
   sec: 3056
   time: '50:56'
   who: Meor
-- line: "Let\u2019s take a data platform that makes it easier for a non-technical\
-    \ person to access the data. It reduces the number of steps from four to two.\
-    \ You can do a comparison of the number of steps that a person needs to take without\
-    \ the solution, and you draw it. Then, on the other side, you just take two steps\
-    \ - as simple as that. That's a simple example, but you can always play around\
-    \ with many different concepts."
+- line: Let’s take a data platform that makes it easier for a non-technical person
+    to access the data. It reduces the number of steps from four to two. You can do
+    a comparison of the number of steps that a person needs to take without the solution,
+    and you draw it. Then, on the other side, you just take two steps - as simple
+    as that. That's a simple example, but you can always play around with many different
+    concepts.
   sec: 3056
   time: '50:56'
   who: Meor
@@ -751,52 +760,52 @@ transcript:
   sec: 3198
   time: '53:18'
   who: Alexey
-- line: "So, what you mention is five or more visuals in the same article instead\
-    \ of just one visual. Sometimes you can relate these visuals, but sometimes the\
-    \ concepts are so different that you cannot relate to them. In that case, you\
-    \ cannot push yourself to create something because now you're diluting the value.\
-    \ The most important thing is to deliver the message efficiently. If you can relate\
-    \ different concepts - great. Like if you were to split different visuals into\
-    \ different concepts. It\u2019s a good bonus."
+- header: 'Mapping ML Problems to Visual Templates: Classification, Regression, Anomaly,
+    Clustering, RL'
+- line: So, what you mention is five or more visuals in the same article instead of
+    just one visual. Sometimes you can relate these visuals, but sometimes the concepts
+    are so different that you cannot relate to them. In that case, you cannot push
+    yourself to create something because now you're diluting the value. The most important
+    thing is to deliver the message efficiently. If you can relate different concepts
+    - great. Like if you were to split different visuals into different concepts.
+    It’s a good bonus.
   sec: 3246
   time: '54:06'
   who: Meor
-- line: "I noticed that concepts in data science and machine learning essentially\
-    \ boil down to just five kinds of problems that we want to solve. They are classification,\
-    \ regression, anomaly detection, clustering, and reinforcement learning. I figured\
-    \ out a way to relate these five concepts using the same base visuals. They are\
-    \ the same kinds of data points. By imposing different perspectives to each of\
-    \ the five concepts, people can relate to them. If you have different visuals\
-    \ for different concepts, it doesn't give as much impact. If there\u2019s no easy\
-    \ logical connection between them, but you can come up with something, there's\
-    \ a bonus."
+- line: I noticed that concepts in data science and machine learning essentially boil
+    down to just five kinds of problems that we want to solve. They are classification,
+    regression, anomaly detection, clustering, and reinforcement learning. I figured
+    out a way to relate these five concepts using the same base visuals. They are
+    the same kinds of data points. By imposing different perspectives to each of the
+    five concepts, people can relate to them. If you have different visuals for different
+    concepts, it doesn't give as much impact. If there’s no easy logical connection
+    between them, but you can come up with something, there's a bonus.
   sec: 3246
   time: '54:06'
   who: Meor
-- header: "Book: *Visual Introduction to Deep Learning*; Modular Neuron Concepts"
-- line: "I also know that you wrote a book. You recently came to DataTalks.Club\u2019\
-    s slack to answer questions about your book. Can you tell us about it? And how\
-    \ did you come up with the idea behind the book?"
+- header: 'Book Overview: Visual Introduction to Deep Learning (Neuron‑by‑Neuron)'
+- line: I also know that you wrote a book. You recently came to DataTalks.Club’s slack
+    to answer questions about your book. Can you tell us about it? And how did you
+    come up with the idea behind the book?
   sec: 3361
   time: '56:01'
   who: Alexey
-- line: "It\u2019s the same thing: I wanted to nail my understanding of this concept.\
-    \ Writing a book forces me to get to the bottom of it. I didn\u2019t want to rely\
-    \ on frameworks like TensorFlow or PyTorch, and instead, build a simple neural\
-    \ network from scratch - including doing all this backpropagation. That forced\
-    \ me to do all these steps. It gave me the idea of creating content based on my\
-    \ journey."
+- line: 'It’s the same thing: I wanted to nail my understanding of this concept. Writing
+    a book forces me to get to the bottom of it. I didn’t want to rely on frameworks
+    like TensorFlow or PyTorch, and instead, build a simple neural network from scratch
+    - including doing all this backpropagation. That forced me to do all these steps.
+    It gave me the idea of creating content based on my journey.'
   sec: 3375
   time: '56:15'
   who: Meor
-- line: "I find deep learning and neural networks are especially interesting compared\
-    \ to other algorithms. It's very modular. You can start simple and build upon\
-    \ it. I thought it\u2019s an interesting idea for me to create a book that explains\
-    \ the concept from the ground up. You can start with a simple neuron, move to\
-    \ a neural network with one hidden layer, and then to an even bigger neural network.\
-    \ It all starts with a single neuron. You're having these Lego bricks that you\
-    \ can use to build a big Lego structure. I thought that it would be a natural\
-    \ subject to explain visually by writing the book."
+- line: I find deep learning and neural networks are especially interesting compared
+    to other algorithms. It's very modular. You can start simple and build upon it.
+    I thought it’s an interesting idea for me to create a book that explains the concept
+    from the ground up. You can start with a simple neuron, move to a neural network
+    with one hidden layer, and then to an even bigger neural network. It all starts
+    with a single neuron. You're having these Lego bricks that you can use to build
+    a big Lego structure. I thought that it would be a natural subject to explain
+    visually by writing the book.
   sec: 3430
   time: '57:10'
   who: Meor
@@ -807,7 +816,7 @@ transcript:
   sec: 3430
   time: '57:10'
   who: Meor
-- header: "Book Process: Visuals First, Supplemented by Minimal Text"
+- header: 'Book Workflow: Visual‑first Layout with Concise Text'
 - line: Did you first come up with text and then created illustrations? Or did you
     first come up with illustrations and then wrote text for them?
   sec: 3536
@@ -828,6 +837,7 @@ transcript:
   sec: 3602
   time: '1:00:02'
   who: Alexey
+- header: 'Closing: kDimensions, Book Links & Contact Information'
 - line: We should be wrapping up. Do you want to say anything before we finish?
   sec: 3612
   time: '1:00:12'
@@ -860,6 +870,102 @@ transcript:
   sec: 3701
   time: '1:01:41'
   who: Meor
+dateadded: '2022-03-26'
+duration: PT00H59M45S
+quotableClips:
+- name: Episode Introduction & Visual ML Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=0
+  endOffset: 116
+- name: Posting Cadence & Visuals on LinkedIn
+  startOffset: 116
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=116
+  endOffset: 177
+- name: 'Career Journey: Bioengineering → Telecom Analytics → Self‑employment'
+  startOffset: 177
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=177
+  endOffset: 375
+- name: 'kDimensions: Name & Visual Dimensionality Reduction'
+  startOffset: 375
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=375
+  endOffset: 532
+- name: Jack Butcher Influence & Visual Engineering Principles
+  startOffset: 532
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=532
+  endOffset: 700
+- name: 'Purpose of Visuals: Build Intuition Before Math'
+  startOffset: 700
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=700
+  endOffset: 852
+- name: 'Design Constraints: Creativity Through Color & Shape Limits'
+  startOffset: 852
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=852
+  endOffset: 1053
+- name: 'Idea Generation: Visualize the Verb & Use Metaphors'
+  startOffset: 1053
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=1053
+  endOffset: 1286
+- name: Drift Visualized (Catapult Metaphor) & Data‑centric AI Airplane Analogy
+  startOffset: 1286
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=1286
+  endOffset: 1447
+- name: 'Creative Process: Longlist → Shortlist → Brainstorming'
+  startOffset: 1447
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=1447
+  endOffset: 1826
+- name: 'Capturing Ideas: Sketchbook, Notes & Quick Logging'
+  startOffset: 1826
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=1826
+  endOffset: 1874
+- name: 'Tools: Figma for Engineers & Geometric Shape Workflow'
+  startOffset: 1874
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=1874
+  endOffset: 2011
+- name: 'From Sketch to Figma: Drafting, Asset Reuse & Iteration'
+  startOffset: 2011
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2011
+  endOffset: 2132
+- name: 'Design Advice: Prioritize Message Over Aesthetics; Start Posting'
+  startOffset: 2132
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2132
+  endOffset: 2450
+- name: 'Learning Technique: Consume with Intent to Teach — "What If?" Questions'
+  startOffset: 2450
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2450
+  endOffset: 2617
+- name: 'Hands‑on Learning: Break and Modify Code to Understand ML'
+  startOffset: 2617
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2617
+  endOffset: 2687
+- name: 'Monetization: Visual Design Services for Startups & Content Creators'
+  startOffset: 2687
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2687
+  endOffset: 2940
+- name: 'Content Design: Turn Articles into Key Visuals (Extract 4–5 Keywords)'
+  startOffset: 2940
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2940
+  endOffset: 3056
+- name: 'Visualization Techniques: Contrast, Balance & Slider Metaphors'
+  startOffset: 3056
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3056
+  endOffset: 3246
+- name: 'Mapping ML Problems to Visual Templates: Classification, Regression, Anomaly,
+    Clustering, RL'
+  startOffset: 3246
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3246
+  endOffset: 3361
+- name: 'Book Overview: Visual Introduction to Deep Learning (Neuron‑by‑Neuron)'
+  startOffset: 3361
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3361
+  endOffset: 3536
+- name: 'Book Workflow: Visual‑first Layout with Concise Text'
+  startOffset: 3536
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3536
+  endOffset: 3612
+- name: 'Closing: kDimensions, Book Links & Contact Information'
+  startOffset: 3612
+  url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3612
+  endOffset: 3585
 ---
 
 Links:

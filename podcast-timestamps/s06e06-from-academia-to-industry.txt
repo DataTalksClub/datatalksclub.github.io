@@ -1,0 +1,29 @@
+00:00:00 Podcast Introduction
+00:00:58 Career Journey: Postdoc to Data Science Lead
+00:01:28 Evolutionary Biology: Statistics & Population Dynamics
+00:03:16 Academic Research as Data Science Practice: Genomics & Bash
+00:04:45 Statistical Machine Learning: GLMs and Foundations
+00:06:10 Bridging Gaps: Deployment, Docker, and Python Learning
+00:08:41 Hiring Signals: Smartness, Ambition, and Receptiveness to Feedback
+00:10:42 Interview Assessment: Testing Learning Agility and Humility
+00:11:59 First Tech Interview: Referral, Case Study in R, and Honesty
+00:15:36 Transition Timeline: One-Year Plan and Coursera Sprint
+00:17:14 Resume Strategy: Skills-First Rewriting and LinkedIn Keywords
+00:20:40 Refining Applications: 14 CV Iterations, Recruiter Tips, and ATS
+00:22:46 Learning Resources: John Hopkins Specialization and Andrew Ng
+00:25:37 Location Strategy: Choosing Berlin and Targeting Companies
+00:28:36 Application Strategy: Selective Research vs. Volume Applications
+00:31:00 Job Move: Klarna Experience and Onboarding Challenges
+00:32:48 Internal Mobility: Relocating to Stockholm Within the Company
+00:33:48 Market Entry: Networking, Meetups, and Community Engagement
+00:36:43 Technical Expectations: Clean Code and Coding Proficiency for Juniors
+00:37:39 Skill Building: Pair Programming, LeetCode, and Code Reviews
+00:40:02 Research vs Industry: Publications, Portfolios, and Relevance
+00:41:12 Real-World Data Work: Cleaning, Bash, and Domain Translation
+00:43:44 Communication Shift: Simplifying Explanations and Office Culture
+00:47:18 Team Dynamics: Open Offices, Proximity, and Social Bonding
+00:48:50 Counterproductive Habits: Competitiveness vs. Collaboration
+00:51:05 Psychological Safety: Team Rituals, Sharing Failures, and Trust
+00:52:45 Long-Term Learning: NLP, Kaggle as a Learning Resource
+00:55:28 Academic Output: Writing a Textbook on Parasitology
+00:58:45 Closing Remarks and Contact Info (Find CJ on LinkedIn)

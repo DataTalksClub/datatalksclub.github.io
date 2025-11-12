@@ -1,0 +1,28 @@
+00:00:00 Podcast Introduction
+00:01:29 Episode Topic: Data Science Manager vs Data Science Expert
+00:02:00 Career Journey: GIS → SQL → BI → Data Science Manager
+00:04:26 ML Use Cases: Mental Health Monitoring & Demand Forecasting
+00:04:58 Misleading Job Ads: Manager vs Expert Confusion on LinkedIn
+00:07:28 Root Causes: HR/IT Job Descriptions Missing Managerial Needs
+00:08:22 Manager Skill Balance: Technical Knowledge vs Soft Skills
+00:12:02 Technical Expectation: High-Level Understanding vs Deep Expertise
+00:13:29 Manager Responsibilities: Strategy, Team Development, Stakeholder Communication
+00:15:49 Hands-On Reality: Coding, Model Review, and Time Allocation
+00:17:34 Manager Experience: Hands-On ML Helpful but Not Mandatory
+00:19:40 Business Development: Manager Role in Sales and Client Strategy
+00:20:51 Team Development: Learning Plans, Courses, and Pairing
+00:23:54 Quality Oversight: Code Reviews vs Managerial Guidance
+00:25:02 Data Science Expert: Deep Technical and Domain Expertise
+00:28:48 Hiring an Expert: When Complex Models and Domain Knowledge Are Needed
+00:30:37 Hiring Strategy: Manager + Expert vs Generalist for Startups
+00:31:56 Manager Job Profile: Team Building, Communication, and AI Literacy
+00:34:04 Risks of Hiring Experts as Managers: Team and Business Translation Gaps
+00:38:37 Startup Hiring: Unicorns Who Wear Many Hats
+00:40:47 Project Prioritization: Estimation, Resource Allocation, and Buffers
+00:46:14 Measuring Impact: Client Feedback, KPIs, and Model Monitoring
+00:50:12 Client Discovery: Baselines, Data Availability, and Success Metrics
+00:53:57 Feasibility Check: Data Quality and Necessity of Machine Learning
+00:54:31 Diversity Spotlight: Women in Data Science and Interview Confidence
+00:59:03 Connect with Guest: Barbara Sobkowiak on LinkedIn
+00:59:20 Career Advice: Find Satisfaction, Mentors, and Networking
+01:00:24 Episode Wrap-up and Unanswered Questions

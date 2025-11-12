@@ -1,0 +1,30 @@
+00:00:00 Episode Introduction: Product Management for Machine Learning
+00:01:13 Guest Overview: Geo and episode focus on AI Product Manager role
+00:01:56 Career Journey: From web/dev to data science to product management
+00:06:28 Glovo Role: Leading ML platform strategy and team responsibilities
+00:08:41 In-house MLOps Platform Strategy & Vendor Evaluation
+00:09:50 Product Manager Responsibilities: Roadmap, specs, and stakeholder balance
+00:11:24 Internal Platform Users as Customers: ROI and adoption considerations
+00:13:44 Platform Usability Costs: Productivity losses from poor tooling UX
+00:15:19 Backlog Prioritization: Grooming with engineering and Agile practices
+00:16:44 Outcome-Driven Problem Definition: Metrics over immediate solutions
+00:18:25 ML Observability: KPIs and measuring platform impact
+00:19:29 Avoiding Solution Bias: Techniques to resist jumping into solutions
+00:21:06 Collaborative Problem Breakdown: Workshops, interviews, and user input
+00:22:15 Core PM Skills: Communication, prioritization, and continuous learning
+00:23:28 Technical Literacy: Model architectures, data infra, and cloud concepts
+00:25:31 Technical Background Value: Why platform PMs need tooling familiarity
+00:28:37 Role Differences: Data Science Lead / Staff vs Technical ML Product Manager
+00:31:28 Release Governance & Rollout Strategy: Approvals, compliance, and timing
+00:35:18 Adoption Strategy: "Time to stakeholders" and internal rollouts
+00:37:48 Engineering Roles in ML Platforms: Backend, syseng, CI/CD, and K8s
+00:40:14 Embedded Data Scientists: Power users, developer advocates, and demos
+00:42:14 Agile for Data Science: Kanban, Scrum, and adapting to research work
+00:44:56 Transition Path: Moving from Data Scientist to Technical Product Manager
+00:49:43 Recommended Resources: Books and communities for PM transition
+00:52:45 Non‑Technical Transitions: Feasibility of moving into ML product roles
+00:55:44 User Research for Internal Platforms: Surveys and Happiness Reports
+00:57:20 ML Quality Assurance: Model validation, shadowing, and release checklists
+00:59:52 Scrum Master to PM Advice: Leverage Agile skills and learn ML basics
+01:01:51 Final Thoughts: PM demands, scope, and career realities
+01:03:35 Contact & Hiring: Geo on LinkedIn and Glovo opportunities

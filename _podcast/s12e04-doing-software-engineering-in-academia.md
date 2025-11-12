@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=K0PdQITQzVQ
 season: 12
 short: Doing Software Engineering in Academia
-title: Doing Software Engineering in Academia
+title: 'Teach Reproducible Research: RSE Practices for Neuroimaging, Packaging, MLflow
+  & Data Sharing'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Background: Johanna Bayer — Psychology to Machine Learning in Neuroimaging'
 - line: This week we'll talk about doing software engineering in academia. We have
     a special guest today, Johanna. Johanna has a formal background in psychology
     and computational neuroscience. She's now about to complete her PhD in the field
@@ -42,7 +45,7 @@ transcript:
   sec: 139
   time: '2:19'
   who: Johanna
-- header: Johanna’s background
+- header: 'Academic Journey: Studies in Germany, Zurich and Move to Melbourne'
 - line: Thanks for being here. Before we go into our main topic of doing software
     engineering in academia, let's start with your background. Can you tell us about
     your career journey so far?
@@ -96,6 +99,7 @@ transcript:
   sec: 154
   time: '2:34'
   who: Johanna
+- header: 'Teaching Open Science: Intro to Git, Homework Support and Course Structure'
 - line: Interesting. As a teaching assistant, which subjects do you teach?
   sec: 327
   time: '5:27'
@@ -140,6 +144,7 @@ transcript:
   sec: 421
   time: '7:01'
   who: Alexey
+- header: Carpentries & Structured Beginner Curriculum for Reproducible Research
 - line: Exactly. Also, I just recently completed an instructor course for The Carpentries?
     So I don't know whether you've heard about The Carpentries – it's a software company.
     They have scheduled curriculum for very beginner computer science and software
@@ -152,7 +157,7 @@ transcript:
   sec: 459
   time: '7:39'
   who: Johanna
-- header: Open science course and reproducible papers
+- header: 'Open Science Curriculum: Reproducible Manuscripts with Embedded Code'
 - line: I'm really curious to ask you now about this open science course. I know we
     planned to talk about this a bit later, but since we're talking about this now,
     I wanted to ask. In this open science course, what are the things that students
@@ -193,6 +198,7 @@ transcript:
   sec: 642
   time: '10:42'
   who: Alexey
+- header: 'Guided Onboarding to Open Source: Small Repos, Pull Requests & Turing Book'
 - line: Yeah, it's more guided. I started, of course, with kids. But what I like to
     do and what I think really helps is, if you’re in a Zoom session, where you have
     just a very simple repo and you teach people to make pull requests. You accept
@@ -214,7 +220,7 @@ transcript:
   sec: 652
   time: '10:52'
   who: Johanna
-- header: Research software engineering
+- header: 'What RSE Means: Software-Focused Research Outputs and Practices'
 - line: Yeah, pretty interesting. So, since the topic today is doing software engineering
     in academia (I think we more or less started talking about this) I wanted to ask
     you – what is research software engineering? How are research and software engineering
@@ -254,6 +260,7 @@ transcript:
   sec: 785
   time: '13:05'
   who: Johanna
+- header: 'Academic RSE Roles: PhD Students, Methods Papers and Toolboxes'
 - line: These people who publish software as part of their work in academia, are they
     PhD students or are they hired specifically to just program – to code?
   sec: 850
@@ -303,6 +310,7 @@ transcript:
   sec: 992
   time: '16:32'
   who: Alexey
+- header: 'Software as Research Output: DOIs, Toolboxes and Publishing Code'
 - line: Yeah, that's the other thing. That's what we are hoping will also come about
     – software as research. This output is more and more, hopefully, acknowledged
     as output. For example, you can now get a DOI, a digital identifier for your software
@@ -311,7 +319,7 @@ transcript:
   sec: 996
   time: '16:36'
   who: Johanna
-- header: Convincing a professor to work on software instead of papers
+- header: 'Culture Change in Labs: Convincing Supervisors & Grassroots Hackathons'
 - line: I'm curious, how do you convince your professor to let you work on software
     instead of publishing papers? I guess many professors are used to only one KPI,
     which is the number of papers published by their department. Probably it should
@@ -360,7 +368,7 @@ transcript:
   sec: 1158
   time: '19:18'
   who: Johanna
-- header: The importance of reproducible analysis
+- header: 'Industry Lessons for Academia: Programming Expectations & Tool Adoption'
 - line: What you are talking about reminds me of the state of data science like 10-20
     years ago, when it just started. Industry companies would hire data scientists
     who are just fresh from academia – very smart people with PhDs in physics, mathematics,
@@ -396,11 +404,12 @@ transcript:
   sec: 1329
   time: '22:09'
   who: Alexey
+- header: 'Experiment Tracking in Research: MLflow and Reproducibility Tools'
 - line: Yeah, I really like it. [chuckles] It’s very useful.
   sec: 1332
   time: '22:12'
   who: Johanna
-- header: Why academia is behind on software engineering
+- header: 'Barriers to Teaching Software Skills: Time, Expertise and Fear of Scrutiny'
 - line: Why do you think academia is behind? Why is nobody teaching these things?
   sec: 1336
   time: '22:16'
@@ -428,7 +437,7 @@ transcript:
   sec: 1341
   time: '22:21'
   who: Johanna
-- header: The problems with open science publishing in academia
+- header: 'Infrastructure Gaps: Hosting Interactive Reproducible Papers and Costs'
 - line: What do you think is still missing? What kind of tools, like MLflow, do you
     want to adopt in academia, or you think should be adopted in academia, to solve
     these problems? Or at least start solving them?
@@ -496,7 +505,6 @@ transcript:
   sec: 1588
   time: '26:28'
   who: Johanna
-- header: The importance of standard coding practices
 - line: 'I see. So the things we need to bridge the gap between industry and academia,
     or at least start to, are: researchers need to learn how to write tests and we
     need to have a way to make papers reproducible – so there should be a tool that
@@ -504,6 +512,7 @@ transcript:
   sec: 1635
   time: '27:15'
   who: Alexey
+- header: 'Core Coding Practices to Teach: Packaging, Environments, Formatting & Tests'
 - line: I guess the teaching of standard coding practices to all academic fields.
     There should be one introduction to programming or statistics class for everyone.
     Stuff like the proper modularization of code, for example, how to write a package,
@@ -512,11 +521,11 @@ transcript:
   sec: 1658
   time: '27:38'
   who: Johanna
-- header: How Johanna got into research software engineering
 - line: How did you learn these things? How did it happen to you?
   sec: 1692
   time: '28:12'
   who: Alexey
+- header: 'Learning by Doing: Brainhack, Hackathons, Community Contributions'
 - line: Like I said, I was already interested in computer science very early. But
     I think what really brought me to this open science/open source field was Brainhack.
     It was actually during the pandemic. I don't know whether you know, but in Australia,
@@ -553,6 +562,7 @@ transcript:
   sec: 1834
   time: '30:34'
   who: Alexey
+- header: 'Formal Courses vs Self-Learning: Structure, Discipline and Freelancing'
 - line: Yeah, also the other thing is – I think I've mentioned already – it was a
     bit out of necessity. I'm still doing my computer science degree at the University
     Hagen Like – that's the one that sends you stuff. Here in Australia, you basically
@@ -582,7 +592,6 @@ transcript:
   sec: 1917
   time: '31:57'
   who: Johanna
-- header: Effective ways of learning software engineering skills
 - line: Do you think what you did is the most effective way of picking up these skills?
     Just starting freelancing and taking part in hackathons and learning by doing?
     Or are there maybe better ways researchers can learn these things?
@@ -597,6 +606,7 @@ transcript:
   sec: 1953
   time: '32:33'
   who: Johanna
+- header: 'Collaboration & Code Review: Working Alone vs Community Feedback'
 - line: I noticed that we have a question. The question is, “Does anyone revise your
     code? Do you work alone or is there somebody in your team with whom you can discuss
     different things?”
@@ -650,6 +660,7 @@ transcript:
   sec: 2155
   time: '35:55'
   who: Alexey
+- header: 'Benefits of Open Code: Citations, Collaboration and Career Visibility'
 - line: Yeah. And I do enjoy it. I like it. I like working on these things. I like
     collaborating with people. Often, it's also quite good. They give you new ideas
     or new insights, or they think like, “Oh, I saw this in your code and I thought
@@ -664,7 +675,7 @@ transcript:
   sec: 2165
   time: '36:05'
   who: Johanna
-- header: Providing data and analysis for your project
+- header: 'Data Sharing Reality: "Data Upon Request", Access Controls and Consortia'
 - line: Yeah, I see that there is a comment that says “I asked a researcher about
     his code and he never replied. The code was buggy.” Do you think that this kind
     of situation happens often? [Johanna confirms] Well, at least there's code, which
@@ -696,7 +707,7 @@ transcript:
   sec: 2297
   time: '38:17'
   who: Johanna
-- header: Johanna’s initial experience with software engineering in a project
+- header: 'Project Case Study: Normative Brain Model — Folder Structure & Cookiecutter'
 - line: Maybe you can tell us a few examples of projects that you worked on and how
     adding these engineering practices helped? Because from what I understood, you
     didn't start as a research software engineer, you started as a normal PhD student,
@@ -711,6 +722,7 @@ transcript:
   sec: 2330
   time: '38:50'
   who: Alexey
+- header: 'Applied Engineering Practices: Branching, Formatting, Versioning & MLflow'
 - line: Yeah. I think a good example is my current and my oldest PhD project, which
     is about the normative model of the brain, basically. I'm working on a very big
     depression dataset. It's massive, at least for clinical standards. I went in and
@@ -749,7 +761,7 @@ transcript:
   sec: 2531
   time: '42:11'
   who: Johanna
-- header: Working with sensitive data and the nuances of publishing it
+- header: 'Sensitive Data Practices: De-identification and Controlled Access'
 - line: I remember for my Master’s thesis – I don't know how representative this is
     – but usually, the way to organize exploratory data analysis for many ad hoc tasks
     is quite messy. I have a ton of notebooks there, they have very cryptic names.
@@ -805,7 +817,7 @@ transcript:
   sec: 2707
   time: '45:07'
   who: Alexey
-- header: How often Johanna does hackathons, open source, and freelancing
+- header: Balancing Open Source, Hackathons and Full-Time Research Commitments
 - line: From what you said, it looks like the easiest way to get skills is to take
     part in hackathons, contribute to open source, and also freelance. Right? [Johanna
     confirms] How often do you actually do these things?
@@ -860,7 +872,7 @@ transcript:
   sec: 2857
   time: '47:37'
   who: Johanna
-- header: Social media as a source of repos and Johanna’s favorite communities
+- header: 'Discovering Projects: GitHub Trending, Social Media & Community Platforms'
 - line: Instead of checking Twitter or LinkedIn (these are the two social networks
     I check) you come from work or maybe at the beginning of your workday, you go
     to Git and you check the trending repos?
@@ -907,7 +919,7 @@ transcript:
   sec: 2972
   time: '49:32'
   who: Johanna
-- header: Contributing to Git repos
+- header: 'Contributing to Repositories: Readme, Contributing Guides, Issues & Communication'
 - line: So let's say that in one of these communities or in GitHub trending, you come
     across a Git repo that is interesting for you and you want to contribute. What
     happens next?
@@ -960,7 +972,7 @@ transcript:
   sec: 3138
   time: '52:18'
   who: Alexey
-- header: Publishing in the open in academia vs industry
+- header: 'Open Publishing vs Industry IP: Academic Openness and Commercial Concerns'
 - line: Exactly. [chuckles] Yeah. Apart from that, like I said, at the moment a lot
     of my time is actually spent on my work. That's the good thing about academia
     is that you work on stuff that is very easily converted into an open science project.
@@ -1004,7 +1016,7 @@ transcript:
   sec: 3251
   time: '54:11'
   who: Johanna
-- header: Johanna’s book and resource recommendations
+- header: 'Recommended Resources: The Turing Way, The Carpentries & ML Solutions Handbook'
 - line: I see. It seems like it's a new topic, but there are already courses for open
     science and research software engineering. Are there already books about this
     topic that you can recommend?
@@ -1075,7 +1087,7 @@ transcript:
   sec: 3480
   time: '58:00'
   who: Johanna
-- header: Conclusion
+- header: Episode Conclusion and Closing Remarks
 - line: Okay. Did I forget to ask you anything that you wanted to talk about?
   sec: 3483
   time: '58:03'
@@ -1141,6 +1153,147 @@ transcript:
   sec: 3558
   time: '59:18'
   who: Alexey
+description: 'Master reproducible research for neuroimaging: packaging, MLflow & data
+  sharing to publish reproducible manuscripts, boost citations and career visibility.'
+intro: 'How do you teach reproducible research and practical research software engineering
+  (RSE) skills to neuroimaging students and researchers? In this episode, Johanna Bayer
+  — a psychologist-turned-computational neuroscientist completing a PhD in machine
+  learning for clinical neuroimaging at the University of Melbourne and an open science
+  advocate — walks through concrete approaches for teaching reproducible research.
+  We cover course design (Carpentries-style curricula, Git introductions, and reproducible
+  manuscripts with embedded code), guided onboarding to open source (small repos,
+  pull requests, cookiecutter templates), and core coding practices to teach: packaging,
+  environments, formatting, testing, branching and versioning. Johanna also discusses
+  experiment tracking with MLflow, treating software as a research output (DOIs and
+  toolboxes), data sharing realities and sensitive-data practices, and strategies
+  for culture change in labs via hackathons and grassroots efforts. Listeners will
+  gain practical teaching tactics, tooling recommendations, and considerations for
+  infrastructure and academic-industry tensions — plus pointers to resources like
+  The Turing Way, The Carpentries, and the ML Solutions Handbook to help implement
+  reproducible research and RSE practices in neuroimaging projects.'
+dateadded: '2023-01-14'
+duration: PT00H58M10S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=0
+  endOffset: 68
+- name: 'Guest Background: Johanna Bayer — Psychology to Machine Learning in Neuroimaging'
+  startOffset: 68
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=68
+  endOffset: 144
+- name: 'Academic Journey: Studies in Germany, Zurich and Move to Melbourne'
+  startOffset: 144
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=144
+  endOffset: 327
+- name: 'Teaching Open Science: Intro to Git, Homework Support and Course Structure'
+  startOffset: 327
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=327
+  endOffset: 459
+- name: Carpentries & Structured Beginner Curriculum for Reproducible Research
+  startOffset: 459
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=459
+  endOffset: 510
+- name: 'Open Science Curriculum: Reproducible Manuscripts with Embedded Code'
+  startOffset: 510
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=510
+  endOffset: 652
+- name: 'Guided Onboarding to Open Source: Small Repos, Pull Requests & Turing Book'
+  startOffset: 652
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=652
+  endOffset: 730
+- name: 'What RSE Means: Software-Focused Research Outputs and Practices'
+  startOffset: 730
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=730
+  endOffset: 850
+- name: 'Academic RSE Roles: PhD Students, Methods Papers and Toolboxes'
+  startOffset: 850
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=850
+  endOffset: 996
+- name: 'Software as Research Output: DOIs, Toolboxes and Publishing Code'
+  startOffset: 996
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=996
+  endOffset: 1030
+- name: 'Culture Change in Labs: Convincing Supervisors & Grassroots Hackathons'
+  startOffset: 1030
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1030
+  endOffset: 1205
+- name: 'Industry Lessons for Academia: Programming Expectations & Tool Adoption'
+  startOffset: 1205
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1205
+  endOffset: 1332
+- name: 'Experiment Tracking in Research: MLflow and Reproducibility Tools'
+  startOffset: 1332
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1332
+  endOffset: 1336
+- name: 'Barriers to Teaching Software Skills: Time, Expertise and Fear of Scrutiny'
+  startOffset: 1336
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1336
+  endOffset: 1434
+- name: 'Infrastructure Gaps: Hosting Interactive Reproducible Papers and Costs'
+  startOffset: 1434
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1434
+  endOffset: 1658
+- name: 'Core Coding Practices to Teach: Packaging, Environments, Formatting & Tests'
+  startOffset: 1658
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1658
+  endOffset: 1698
+- name: 'Learning by Doing: Brainhack, Hackathons, Community Contributions'
+  startOffset: 1698
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1698
+  endOffset: 1844
+- name: 'Formal Courses vs Self-Learning: Structure, Discipline and Freelancing'
+  startOffset: 1844
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1844
+  endOffset: 1984
+- name: 'Collaboration & Code Review: Working Alone vs Community Feedback'
+  startOffset: 1984
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=1984
+  endOffset: 2165
+- name: 'Benefits of Open Code: Citations, Collaboration and Career Visibility'
+  startOffset: 2165
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2165
+  endOffset: 2221
+- name: 'Data Sharing Reality: "Data Upon Request", Access Controls and Consortia'
+  startOffset: 2221
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2221
+  endOffset: 2330
+- name: 'Project Case Study: Normative Brain Model — Folder Structure & Cookiecutter'
+  startOffset: 2330
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2330
+  endOffset: 2367
+- name: 'Applied Engineering Practices: Branching, Formatting, Versioning & MLflow'
+  startOffset: 2367
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2367
+  endOffset: 2542
+- name: 'Sensitive Data Practices: De-identification and Controlled Access'
+  startOffset: 2542
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2542
+  endOffset: 2724
+- name: Balancing Open Source, Hackathons and Full-Time Research Commitments
+  startOffset: 2724
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2724
+  endOffset: 2862
+- name: 'Discovering Projects: GitHub Trending, Social Media & Community Platforms'
+  startOffset: 2862
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2862
+  endOffset: 2986
+- name: 'Contributing to Repositories: Readme, Contributing Guides, Issues & Communication'
+  startOffset: 2986
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=2986
+  endOffset: 3142
+- name: 'Open Publishing vs Industry IP: Academic Openness and Commercial Concerns'
+  startOffset: 3142
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=3142
+  endOffset: 3312
+- name: 'Recommended Resources: The Turing Way, The Carpentries & ML Solutions Handbook'
+  startOffset: 3312
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=3312
+  endOffset: 3483
+- name: Episode Conclusion and Closing Remarks
+  startOffset: 3483
+  url: https://www.youtube.com/watch?v=K0PdQITQzVQ&t=3483
+  endOffset: 3490
 ---
 
 Links:

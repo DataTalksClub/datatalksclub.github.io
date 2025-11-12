@@ -1,0 +1,30 @@
+00:00:00 Podcast Introduction
+00:02:39 Guest Overview: Santiago — Director of Computer Vision
+00:03:28 Adding Machine Learning to a Software Engineering Skillset
+00:04:51 Personal & Academic Background: Cuba, Bachelor’s, Georgia Tech MS
+00:06:33 Software Engineers’ Advantage: Coding as a Core ML Skill
+00:08:12 Overcoming Math Anxiety: Practical, Problem-First Learning
+00:13:00 Communicating ML Simply: Teaching and Writing for Understanding
+00:16:11 Seven Practical Lessons for Starting a Machine Learning Career
+00:17:25 Lesson 1 — Take Action: Start Projects Instead of Overpreparing
+00:19:09 Lesson 2 — Learning as a Marathon: Long-Term Growth in ML
+00:20:38 Lesson 3 — Community & Teaching: Accelerating Progress Together
+00:22:18 Lesson 4 — Apply Knowledge: Build and Share Real Projects
+00:25:00 Lesson 5 — Math vs Coding: Coding Often Determines Success
+00:26:39 Lesson 6 — Problem Analysis First: Design Solutions Before Code
+00:29:05 Lesson 7 — Pragmatism Over Purism: Deliver Value Without Knowing Every Detail
+00:33:10 Core ML Tooling: Python, NumPy, Pandas, Matplotlib, scikit-learn
+00:36:19 Learning Approaches: Problem-Based vs Top-Down (Theory First)
+00:38:48 Recommended Courses & Tutorials: Google ML Crash Course, Kaggle
+00:41:09 Essential Books: Deep Learning with Python; Hands-On Machine Learning
+00:42:08 Course Roadmap for Software Engineers Transitioning to ML
+00:44:01 Improving Coding Skills: Learn Python by Building Solutions
+00:45:27 Build Projects Without ML: Automation Examples (Selenium)
+00:46:39 ML Engineering Skills: Data Pipeline, Modeling, Deployment, Monitoring
+00:49:23 Deployment & MLOps Fundamentals: APIs, Docker, Cloud Providers
+00:51:21 Learning Cloud Pragmatically: Learn What the Project Demands
+00:52:19 Machine Learning vs Data Science: Roles, Tools, and Focus
+00:55:10 Getting Started: Andrew Ng Coursera vs Hands-On Project Work
+00:56:37 Conquering Math: Intuition, Translate Formulas to Code
+00:59:54 Episode Resources: Santiago’s Twitter, Course Links
+01:00:39 Closing Remarks & Conference Announcements

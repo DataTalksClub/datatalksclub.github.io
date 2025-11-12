@@ -1,0 +1,30 @@
+00:00:01 Opening banter: "Father of DataOps" anecdote  
+00:01:20 Chris Bergh background and career pivot to data leadership  
+00:02:01 Transition: from software engineer to managing data teams; factory metaphor  
+00:04:15 Factory + Agile: balancing production stability and rapid change  
+00:06:42 Core targets: error reduction, deployment cycle time, and team productivity  
+00:07:22 Data observability & monitoring for data quality and production errors  
+00:11:51 Production quality consequences: detecting and remediating simple failures  
+00:12:22 Processes vs tools: leadership, automation, and organizational focus  
+00:13:20 Naming the movement: choosing "DataOps" and the DevOps analogy  
+00:18:14 Human impact: stress, blame culture, and owning the process  
+00:19:56 Defining "done" vs "good": readiness criteria and trade-offs  
+00:21:02 Heroism vs feedback: early releases and customer iteration  
+00:24:59 Two iteration loops: customer validation and data/model validity  
+00:28:14 Optimizing value streams: breaking silos across teams and governance  
+00:31:23 Deferred-value traps: data lake/cloud hype and postponed outcomes  
+00:33:47 Seven practical steps for healthier data pipelines: VC, tests, CI/CD  
+00:34:37 Runbooks to automation: move from checklists to automated playbooks  
+00:37:13 Automation-first mindset: "code that acts on data" beyond labels  
+00:38:01 Replaceability: handoffs, documentation, and on-call reduction  
+00:40:29 Hairball anti-pattern: technical debt, maintainability, and refactoring  
+00:43:06 Adoption barriers: proving systems with end-to-end testing and data  
+00:44:12 Test environments & test data challenges; recommend ~15% time for process  
+00:48:25 Tooling for DataOps: dbt, Great Expectations, SQL tests, and strategies  
+00:50:42 DataOps vs MLOps: shared DevOps principles applied to models and pipelines  
+00:51:21 End-to-end versioning: code, models, visualizations, governance as one unit  
+00:53:33 DataKitchen snapshot: company mission, "Head Chef" role, and team focus  
+00:56:32 Platform overview: orchestrating environments, tests, and observability  
+00:56:40 Market context: DataOps vendor landscape and funding trends  
+01:00:27 Learning resources: DataOps Cookbook, manifesto, courses, and manager guide  
+01:01:48 Closing remarks: adoption outlook and links to resources

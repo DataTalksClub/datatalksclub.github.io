@@ -1,0 +1,25 @@
+00:00:00 Podcast Introduction
+00:01:30 Guest Introduction & Career Path
+00:02:22 From Physics PhD to Data Science and Reinforcement Learning
+00:06:32 Moving into Consultancy: BI, Dashboards, and Client Workshops
+00:09:00 Laser Research, Ray-Tracing Tools, and Early RL Experiments
+00:12:06 Why Metrics Matter: Drucker, Measurement, and Merit Functions
+00:15:11 Merit Functions & Project Prioritization (Impact vs Cost)
+00:16:51 Units & Comparability in Metric Design
+00:17:22 Sales Pipeline Metrics: Weighted Revenue and Lead Qualification
+00:20:46 Professional Services Metrics: Burn-Down Rate & Maintainability of Earnings
+00:22:41 KPIs Defined: Top-Down Alignment and Executive Decision Metrics
+00:26:07 Avoiding Vanity Metrics: Make the Important Measurable
+00:28:04 KPI Gaming Risks & Designing Competing KPIs
+00:30:30 Derived KPIs: Composite Metrics to Capture Margin and Trade-offs
+00:32:44 Workshop Process: Designing Metrics for Grocery Retail
+00:37:19 KPI Prioritization, Review Cadence, and Iteration Best Practices
+00:41:07 Operationalizing KPIs: Dashboards, Visibility, and Executive Communication
+00:44:59 North Star Metric: Single Guiding Indicator for Strategy
+00:46:34 Threshold Metrics: Alerts, Limits, and Safety Conditions
+00:48:48 Health & Hygiene Metrics: Downtime and Service Reliability
+00:51:12 Data Team Metrics: Translate Model Performance into £ / Time Saved
+00:55:42 Experimentation & Measurement: A/B Testing and Champion–Challenger
+00:56:35 Model Validation Techniques: Randomization, Backtesting, and Uplift
+01:00:02 Timeboxing Data Work: Two-Week Spikes and Accelerate Metrics
+01:03:15 Episode Wrap-Up, Contact Info, and Further Reading

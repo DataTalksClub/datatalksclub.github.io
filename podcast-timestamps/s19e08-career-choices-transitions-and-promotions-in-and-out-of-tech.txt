@@ -1,0 +1,29 @@
+00:00:00 Podcast Introduction
+00:02:36 Guest Welcome & Interview Agenda
+00:03:02 Career Beginnings: Trade School, Web Design, First Programming
+00:04:15 Education & Bootcamp: Computer Science, Accenture, C++
+00:05:22 Transition to DevOps: Configuration Management & Early Automation
+00:06:17 Burnout and Self-Discovery: Travel and Volunteerism
+00:07:36 Erasmus+ Volunteering: Programs, Exchanges, and Training
+00:09:20 Community Management at VMware & Versatile Data Kit (Open Source)
+00:11:57 Testing Passions: Flow, Energy, and Career Fit
+00:14:29 Automation Case Study: Scripting Repetitive Tasks and Rapid Promotion
+00:19:16 Problem-Solving as a Core Skill: Transferable Technical Competencies
+00:21:03 Applying Corporate Processes to NGOs: Documentation & Agile Practices
+00:23:55 Volunteer Management vs. Employment: Motivation and Process Design
+00:25:07 Spotting Opportunities: Transitioning into Volunteer Roles
+00:26:50 Personality Types & Team Composition (MBTI relevance)
+00:29:53 Personality Traits for Data Engineering: Precision, Persistence, Detail
+00:34:52 Data Scientist vs. Data Engineer: Interests and Role Differences
+00:36:25 Returning to Corporate via Open Source: Community + Technical Work
+00:38:05 Community Manager Role: Content, DevRel Overlap, and Events
+00:40:23 Product Focus: Simplifying Vision and Goal-Setting
+00:43:04 Career Coaching Course: "Align Your Career With Who You Are"
+00:45:04 Founding an NGO: Legal Setup, Governance, and Launch
+00:46:52 Inclusion in Porto: Connecting Expats and Locals
+00:49:12 Meetup Activities: MBTI, Improv, and Community Events
+00:52:11 Off-Grid Living Experiment: Land, Dome, and Lifestyle Shift
+00:53:27 Off-Grid Utilities: Solar Power, Rainwater, and Well Plans
+00:55:52 Cost Comparison: Off-Grid Life vs. Porto Renting
+00:56:47 Unemployment Party: Mastermind Brainstorming Technique
+01:00:57 Episode Closing & Final Remarks

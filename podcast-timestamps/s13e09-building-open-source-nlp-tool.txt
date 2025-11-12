@@ -1,0 +1,29 @@
+00:00:00 Podcast Introduction
+00:01:36 Background & early AI curiosity
+00:04:33 Open-source demos overview: Refinery and Bricks
+00:06:33 Refinery features: weak supervision & labeling workflows
+00:09:00 Jupyter widgets gap and NLP tooling needs
+00:10:14 NLP challenges: text metadata and messy labels
+00:13:22 ChatGPT as a labeling heuristic
+00:15:58 Combining heuristics: GPT, active learning, crowd labels
+00:17:34 Foundations: Hugging Face, embeddings, and data management
+00:18:33 Bricks: heuristic library, recipes, and ensemble methods
+00:19:48 Weak supervision analogy: heuristics as ensemble workers
+00:20:22 Productization: consultancy to Kern and product pivot
+00:24:00 Targeting engineers: control over training data
+00:26:22 Choosing open source: motivations and concerns
+00:28:11 Open-source trade-offs: distribution versus revenue
+00:29:59 Open-source adoption: free users vs paying customers
+00:31:47 Business model: open-core, multi-user SaaS, and services
+00:34:03 Enterprise engagements: workshops, customization, and domain expertise
+00:36:00 Community support: Discord, workarounds, and feedback loops
+00:38:23 Enterprise outreach: networking and segment strategies
+00:40:21 Developer-focused sales: DevRel, education, and trust-building
+00:43:12 Team structure: development, developer relations, go-to-market
+00:47:20 Founder role evolution: prototyping, GTM, and coding balance
+00:49:51 Co-founder division: complementary strengths and responsibilities
+00:52:40 Niche use cases: PDF and document NLP challenges
+00:56:03 Open source as trust-builder with developer teams
+00:57:02 Fundraising recap: 2.7M raise and investor interest in open source ML
+00:59:58 Recommended reading: Prediction Machines (applied AI economics)
+01:01:15 Podcast Outro and closing remarks

@@ -1,0 +1,20 @@
+00:00:00 Episode Introduction
+00:01:32 Guest & METRO overview and customer data completeness
+00:04:49 Anna's academic and career background (PhD, web science, logistics)
+00:12:49 Value of technical expertise for data product leads
+00:15:11 Core product owner responsibilities and team advocacy
+00:20:00 Role comparison: product owner versus product manager
+00:22:08 Recommender systems at METRO: API-first design and scaling
+00:30:01 Hiring strategy for production ML: data scientist, ML engineer, MLOps
+00:34:53 Recommender algorithms: collaborative filtering and Word2Vec variants
+00:35:55 Essential skills: metrics, trade-offs, and technical literacy for product owners
+00:38:32 Domain owner role: aligning data scientists across product teams
+00:40:01 People management at scale: directs, reviews, and cross-team enablement
+00:41:34 Price markdown modeling: reducing waste and optimal discounting
+00:44:48 Sourcing problems from operations: business-driven prioritization
+00:45:57 Managing multiple data domains: delegation, rotations, and budget ownership
+00:48:44 Evaluating new domains: MVPs, manual fixes, and business justification
+00:53:09 Portfolio approach: validating and staging data product investments
+00:54:21 Community leadership: organizing ProductTank meetups
+00:57:48 Recommended resource: "Data Science for Business" for data product roles
+01:00:25 Episode wrap-up and live chat highlights

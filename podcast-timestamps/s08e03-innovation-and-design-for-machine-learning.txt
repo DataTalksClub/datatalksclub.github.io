@@ -1,0 +1,27 @@
+00:00:00 Episode Introduction & Guest Overview  
+00:01:18 Guest Background: Strategy, Product and AI Trajectory  
+00:03:41 Interdisciplinary Perspective: Physics Meets Humanities  
+00:05:07 Design as a User-Centered Product Process  
+00:06:43 Algorithm-Friendly Product Design & Signal Collection  
+00:10:04 Interaction Design Case Study: TikTok vs Instagram Signals  
+00:12:12 Double Diamond Framework: Problem Framing to Solutions  
+00:14:32 Problem Discovery: Scoping and Prioritizing User Problems  
+00:16:02 Solution Exploration: Parallel Experiments & Proofs of Concept  
+00:18:21 Timeframes for Research, Prototyping and Scaling  
+00:20:17 Design Thinking Overview & Google PAIR Resources  
+00:23:16 Design Sprint Structure: One-Week Prototyping Approach  
+00:25:00 Cross-Functional Participation: Designers, Data Scientists, PMs  
+00:27:13 Engineering Involvement: Building Algorithm-Ready Interfaces  
+00:28:18 Data Scientists in Problem Definition: Avoiding Rework  
+00:31:04 Scoping Documents: Challenging Assumptions with "Why"  
+00:33:25 Organizational Miscommunication & Backtracking Problems  
+00:37:15 Product Managers’ Role in AI Roadmaps and Prioritization  
+00:39:33 Innovation vs Quarterly OKRs: Making Space for Long-Term Bets  
+00:43:19 Radical Innovation Example: Second-Hand Car Trust Solutions  
+00:46:30 Building Evidence: Data-Driven Pitches for Big Ideas  
+00:49:16 Task Force Model (Jet Ski): Rapid Experimentation Teams  
+00:52:45 Innovation Workflow: From Discovery to Investment Case  
+00:54:11 Experimentation Culture: Prioritization Through Measurability  
+00:56:36 Measurement Mindset: Data-Guided Product Decisions (Citrix)  
+00:58:20 Skill Building: Learnable Design & Innovation Practices  
+01:00:05 Closing Notes, Resources and Contact Links

@@ -13,8 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=IiPOIiUy5b4
 season: 14
 short: Data Access Management
-title: Data Access Management
+title: 'Data Access Management: Access Controls, Data Catalogs & Access-as-Code'
 transcript:
+- header: Podcast Introduction
+- header: 'Episode Overview: Data Access Management & Guest Summary'
 - line: This week, we'll talk about data access management. We have a special guest
     today, Bart. Bart is the CEO and co-founder of Raito. Bart is on a mission to
     give data workers access to the data they need, to do their job in a faster and
@@ -35,7 +37,7 @@ transcript:
   sec: 134
   time: '2:14'
   who: Alexey
-- header: Bart's background
+- header: Guest Introduction & Career Path
 - line: Before we go into our main topic of data access management, let's start with
     your background. Can you tell us about your career journeys so far?
   sec: 143
@@ -53,6 +55,7 @@ transcript:
   sec: 153
   time: '2:33'
   who: Bart
+- header: 'Consulting Background: Banks, BCBS 239 and data trauma'
 - line: So what did you do as a consultant at Deloitte?
   sec: 206
   time: '3:26'
@@ -74,6 +77,7 @@ transcript:
   sec: 260
   time: '4:20'
   who: Alexey
+- header: 'Early Data Governance Pain: Manual tools and outdated lineage'
 - line: Indeed. I mean, talk about trauma, right? This is before you had all the hip
     data governance solutions that are out there now. If you have to do data governance
     now, it's much more pleasant than when I had to do it. I had to draw and manage
@@ -84,7 +88,7 @@ transcript:
   sec: 280
   time: '4:40'
   who: Bart
-- header: What is data governance?
+- header: 'Defining Data Governance: Building trust in data'
 - line: So what is data governance, actually?
   sec: 320
   time: '5:20'
@@ -114,6 +118,7 @@ transcript:
   sec: 403
   time: '6:43'
   who: Alexey
+- header: 'Legacy Governance Problems: Top-down models and friction'
 - line: It's because of how we used to do data governance. It used to be very centralized,
     right? A bit like in an ivory tower...
   sec: 412
@@ -152,7 +157,7 @@ transcript:
   sec: 496
   time: '8:16'
   who: Bart
-- header: Data dictionaries and data lineage
+- header: 'Data Catalogs, Dictionaries & Lineage: Purpose and differences'
 - line: So you mentioned a few things. You mentioned a thing called data lineage,
     where you use Office tools to draw. Then you mentioned that the data dictionary
     was in Excel. But what actually are these things, and why did banks care about
@@ -195,7 +200,7 @@ transcript:
   sec: 677
   time: '11:17'
   who: Bart
-- header: Data access management
+- header: 'Data Access Management Defined: Cloud consolidation and Chinese walls'
 - line: Okay. And what does it have to do with data access management? What is data
     access management?
   sec: 680
@@ -237,6 +242,7 @@ transcript:
   sec: 803
   time: '13:23'
   who: Alexey
+- header: 'Ownership Models: Data teams, governance teams, and data mesh'
 - line: Well, it kind of depends, right? What we see is that in organizations that
     are really data-driven of up to 3000 people, their data access management is still
     the responsibility of the data team – the data engineers. Then for larger organizations,
@@ -254,7 +260,7 @@ transcript:
   sec: 814
   time: '13:34'
   who: Bart
-- header: How to learn about data governance
+- header: 'Data Engineers & Access Requests: Skill gaps and role mismatch'
 - line: So in smaller organizations of up to 3000 people... very small organizations,
     right? [chuckles] In these organizations, there is a team (I guess a central team)
     of data engineers that moves data from one place to another. As a part of that,
@@ -305,7 +311,7 @@ transcript:
   sec: 1029
   time: '17:09'
   who: Bart
-- header: What skills are needed to do data governance effectively
+- header: 'Governance Skillset: Change management and DMBOK guidance'
 - line: And what kind of skills should these people in the data governance team have
     in order to be able to do these things effectively? Where do you actually learn
     these things?
@@ -356,6 +362,7 @@ transcript:
   sec: 1178
   time: '19:38'
   who: Alexey
+- header: 'Maturing Access Management: Incremental improvement and scaling'
 - line: No, I mean, like I said, it's really fundamental. I was at Coalesce in London
     last year (a DBT conference). This is about analytics engineering. There were
     the keynotes. And after the keynotes, I was with the co-founders and the product
@@ -384,6 +391,7 @@ transcript:
   sec: 1188
   time: '19:48'
   who: Bart
+- header: 'Learning Resources: Books, Slack communities, and conferences'
 - line: I understand. What about those poor data engineers working in smaller organizations
     who, all of a sudden, need to deal with all these data access requests? I assume
     some of them might naturally become interested in data governance. So how do they
@@ -407,7 +415,7 @@ transcript:
   sec: 1357
   time: '22:37'
   who: Alexey
-- header: When an organization needs to start thinking about data governance
+- header: 'When to Invest: Size, maturity signals, and trust erosion'
 - line: So when is an organization large enough to actually start thinking about the
     data governance team? Or is it more a question of maturity? How does it happen?
   sec: 1383
@@ -441,6 +449,7 @@ transcript:
   sec: 1463
   time: '24:23'
   who: Bart
+- header: Start with Access Controls Early for Sensitive Data
 - line: Let's say if we have data issues, and we already lost the trust in data, isn't
     it too late now to do this? Should we have tried to prevent it?
   sec: 1505
@@ -487,7 +496,7 @@ transcript:
   sec: 1593
   time: '26:33'
   who: Bart
-- header: Good data access management processes
+- header: 'Core Processes: Access requests, approvals, reviews, revocation'
 - line: You mentioned the word “process” many, many times. I'm wondering, what should
     a good enough process look like if we talk about data access management? Let's
     say we have producers of data, we have consumers of data, some of the data is
@@ -525,6 +534,7 @@ transcript:
   sec: 1708
   time: '28:28'
   who: Bart
+- header: 'Churn Use Case: Catalog discovery, purpose-based access requests'
 - line: I'm thinking that it's still a bit abstract to me. Let's take an example.
     For example, we have a use case like churn prediction. We're in a company, we
     have some clients – it could be something like your usual internet SaaS company.
@@ -568,6 +578,7 @@ transcript:
   sec: 1916
   time: '31:56'
   who: Alexey
+- header: 'Privilege Creep & Best Practices: Time-bound access and revocation'
 - line: Yeah. Ideally, they also say, “We only need it for three months,” or “We need
     it permanently.” But the point is that you also set the time dimension. Then if
     you have a data owner in the sales domain, they approve it. Then, in an ideal
@@ -593,6 +604,7 @@ transcript:
   sec: 2001
   time: '33:21'
   who: Alexey
+- header: 'Regulatory Context: GDPR, privacy awareness, and EU perspective'
 - line: Yes.
   sec: 2002
   time: '33:22'
@@ -643,7 +655,7 @@ transcript:
   sec: 2064
   time: '34:24'
   who: Bart
-- header: Data masking and the importance of automating data access
+- header: 'Debugging in Production: Temporary access and investigation workflows'
 - line: As a data scientist in the past, I can think of ways where it could potentially
     go wrong. Maybe there is a solution. For example, say we implemented a proof of
     concept. We decided to go ahead with this. It's in production right now and I
@@ -673,7 +685,7 @@ transcript:
   sec: 2171
   time: '36:11'
   who: Bart
-- header: DPO and CISO roles
+- header: 'Privacy vs Security Stakeholders: DPO needs and CISO responsibilities'
 - line: Yeah. Well, in defense of the company where I worked, we actually had data
     protection officers. I was not always given admin rights. Maybe to speak about
     this data protection, I remember having a discussion with that person when I needed
@@ -756,7 +768,7 @@ transcript:
   sec: 2455
   time: '40:55'
   who: Bart
-- header: How data access management works with a data mesh approach
+- header: 'Data Mesh & Sensitive Data: Federated governance, masking, filtering'
 - line: Thanks. I noticed that we have three questions. I think it's about time we
     covered them. A question from a Iop. I hope I pronounced your name correctly.
     The question is, “How does one deal with access management in a data mesh setup
@@ -799,7 +811,7 @@ transcript:
   sec: 2618
   time: '43:38'
   who: Bart
-- header: Avoiding the role explosion problem
+- header: 'Avoiding Role Explosion: Role inheritance, reviews, and alerts'
 - line: Another question from the same person. We already spoke about role explosion,
     when we have too many roles, maybe when we forget to revoke access. The question
     is, “Do you have any recommendations for following the least privileged access
@@ -828,7 +840,7 @@ transcript:
   sec: 2721
   time: '45:21'
   who: Bart
-- header: The importance of data governance integration in DataOps
+- header: 'Governance in DataOps: Active metadata, automated tagging, and pipelines'
 - line: Thank you. Make sense. Another question is, and I've been sort of guilty of
     this as well. “Oftentimes, data owners do not know if the data is sensitive or
     not, or maybe they accidentally make a mistake. How does one make sure that we
@@ -885,7 +897,7 @@ transcript:
   sec: 2981
   time: '49:41'
   who: Bart
-- header: Terraform as a stepping stone to data governance
+- header: 'Access-as-Code Beginnings: Terraform, IAM and early patterns'
 - line: Now I want to talk about implementing everything we talked about. What I typically
     see in companies is tools like Terraform, or even before Terraform – we have all
     these clouds, for example, AWS cloud. In AWS, we have this thing called IM, which
@@ -951,7 +963,7 @@ transcript:
   sec: 3094
   time: '51:34'
   who: Bart
-- header: How Raito can help an organization with data governance
+- header: 'Build vs Buy: Maintenance cost, connector updates, key-person risk'
 - line: I see that we don't have a lot of time, but I still want to talk about Raito.
     I'm just wondering – engineers being engineers (and I'm one of them too) why do
     I need a vendor if I can just implement this thing myself? It's so much fun, right?
@@ -971,6 +983,7 @@ transcript:
   sec: 3279
   time: '54:39'
   who: Alexey
+- header: 'Gradual Adoption Strategy: Visibility-first onboarding and automation'
 - line: The biggest challenge with implementing data access management is change.
     People have to change their behavior, change their process, and maybe even change
     tools. The way that we do it is by limiting the change that it needs, gradually
@@ -991,7 +1004,7 @@ transcript:
   sec: 3282
   time: '54:42'
   who: Bart
-- header: Open source data governance tools
+- header: 'Open Source Options: Raito CLI, Terraform patterns and limitations'
 - line: Are there open source alternatives – if somebody is not ready, or somebody
     just wants to make sure they see all the code. Are there alternatives for that?
   sec: 3356
@@ -1012,6 +1025,7 @@ transcript:
   sec: 3393
   time: '56:33'
   who: Bart
+- header: Closing Remarks & Next Steps
 - line: Well, since you have an open source thing – we have a thing called Open Source
     Spotlight, where we invite open source authors to demo the tools. You're more
     than welcome to them or Raito CLI. We can organize something. I think that's all
@@ -1038,6 +1052,147 @@ transcript:
   sec: 3441
   time: '57:21'
   who: Alexey
+description: Master Data Access Management with data catalog, access controls & access-as-code
+  to stop privilege creep, speed investigations and ensure compliance.
+intro: 'How do you scale data access management—from access controls and data catalogs
+  to access-as-code—without slowing innovation? In this episode, Bart Vandekerckhove,
+  co-founder and CEO at Raito and former PM of Privacy at Collibra, walks through
+  practical approaches born from consulting with banks (BCBS 239) and tackling early
+  data governance pain. <br><br> We explore what effective data governance looks like
+  for building trust in data, the differences between data catalogs, dictionaries
+  and lineage, and how cloud consolidation and Chinese walls shape access management.
+  Bart covers ownership models (data teams, governance teams, data mesh), common skill
+  gaps for data engineers, and core processes: access requests, approvals, reviews
+  and revocation. You’ll hear actionable tactics for preventing privilege creep—time-bound
+  access, revocation workflows—and guidance on GDPR, privacy vs security roles, and
+  debugging with temporary access. <br><br> Later segments dive into DataOps patterns
+  (active metadata, automated tagging), avoiding role explosion, and the rise of access-as-code
+  with Terraform and IAM. Listeners will gain a clear, incremental strategy for implementing
+  access controls, leveraging data catalogs, and evaluating build vs buy or open source
+  options to scale data access management.'
+dateadded: '2023-06-03'
+duration: PT00H55M54S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=0
+  endOffset: 87
+- name: 'Episode Overview: Data Access Management & Guest Summary'
+  startOffset: 87
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=87
+  endOffset: 143
+- name: Guest Introduction & Career Path
+  startOffset: 143
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=143
+  endOffset: 206
+- name: 'Consulting Background: Banks, BCBS 239 and data trauma'
+  startOffset: 206
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=206
+  endOffset: 280
+- name: 'Early Data Governance Pain: Manual tools and outdated lineage'
+  startOffset: 280
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=280
+  endOffset: 320
+- name: 'Defining Data Governance: Building trust in data'
+  startOffset: 320
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=320
+  endOffset: 412
+- name: 'Legacy Governance Problems: Top-down models and friction'
+  startOffset: 412
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=412
+  endOffset: 538
+- name: 'Data Catalogs, Dictionaries & Lineage: Purpose and differences'
+  startOffset: 538
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=538
+  endOffset: 680
+- name: 'Data Access Management Defined: Cloud consolidation and Chinese walls'
+  startOffset: 680
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=680
+  endOffset: 814
+- name: 'Ownership Models: Data teams, governance teams, and data mesh'
+  startOffset: 814
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=814
+  endOffset: 887
+- name: 'Data Engineers & Access Requests: Skill gaps and role mismatch'
+  startOffset: 887
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=887
+  endOffset: 1038
+- name: 'Governance Skillset: Change management and DMBOK guidance'
+  startOffset: 1038
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1038
+  endOffset: 1188
+- name: 'Maturing Access Management: Incremental improvement and scaling'
+  startOffset: 1188
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1188
+  endOffset: 1310
+- name: 'Learning Resources: Books, Slack communities, and conferences'
+  startOffset: 1310
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1310
+  endOffset: 1383
+- name: 'When to Invest: Size, maturity signals, and trust erosion'
+  startOffset: 1383
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1383
+  endOffset: 1505
+- name: Start with Access Controls Early for Sensitive Data
+  startOffset: 1505
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1505
+  endOffset: 1669
+- name: 'Core Processes: Access requests, approvals, reviews, revocation'
+  startOffset: 1669
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1669
+  endOffset: 1776
+- name: 'Churn Use Case: Catalog discovery, purpose-based access requests'
+  startOffset: 1776
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1776
+  endOffset: 1928
+- name: 'Privilege Creep & Best Practices: Time-bound access and revocation'
+  startOffset: 1928
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=1928
+  endOffset: 2002
+- name: 'Regulatory Context: GDPR, privacy awareness, and EU perspective'
+  startOffset: 2002
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=2002
+  endOffset: 2135
+- name: 'Debugging in Production: Temporary access and investigation workflows'
+  startOffset: 2135
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=2135
+  endOffset: 2239
+- name: 'Privacy vs Security Stakeholders: DPO needs and CISO responsibilities'
+  startOffset: 2239
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=2239
+  endOffset: 2540
+- name: 'Data Mesh & Sensitive Data: Federated governance, masking, filtering'
+  startOffset: 2540
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=2540
+  endOffset: 2695
+- name: 'Avoiding Role Explosion: Role inheritance, reviews, and alerts'
+  startOffset: 2695
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=2695
+  endOffset: 2802
+- name: 'Governance in DataOps: Active metadata, automated tagging, and pipelines'
+  startOffset: 2802
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=2802
+  endOffset: 3008
+- name: 'Access-as-Code Beginnings: Terraform, IAM and early patterns'
+  startOffset: 3008
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=3008
+  endOffset: 3230
+- name: 'Build vs Buy: Maintenance cost, connector updates, key-person risk'
+  startOffset: 3230
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=3230
+  endOffset: 3282
+- name: 'Gradual Adoption Strategy: Visibility-first onboarding and automation'
+  startOffset: 3282
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=3282
+  endOffset: 3356
+- name: 'Open Source Options: Raito CLI, Terraform patterns and limitations'
+  startOffset: 3356
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=3356
+  endOffset: 3396
+- name: Closing Remarks & Next Steps
+  startOffset: 3396
+  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=3396
+  endOffset: 3354
 ---
 
 Links:

@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=bwfR9dyxf1M
 season: 9
 short: From Open-Source Maintainer to Founder
-title: From Open-Source Maintainer to Founder
+title: Build Rich Terminal UIs with Textual in Python and Turn Open Source into a
+  Startup
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Introduction: Will McGugan, Python Open Source Maintainer'
 - line: This week, we'll talk about working on open source. We have a special guest
     today, Will. Will is a software engineer and author. He's quite an enthusiastic
     developer of open source software and he is the creator of some very popular Python
@@ -26,12 +29,12 @@ transcript:
   sec: 114
   time: '1:54'
   who: Will
-- header: Will’s background
 - line: Yeah. Before we go into our main topic of working on open source, let's start
     with your background. Can you tell us about your career journey so far?
   sec: 117
   time: '1:57'
   who: Alexey
+- header: 'Career Path: From Video Games to Textualize Founder'
 - line: 'Career journey so far – condensed 25 years and a few censors. Well, I started
     out in video games. I was working in video games for about 10+ years:  PC games,
     PlayStation games, even Dreamcast. Then I moved into desktop applications. I worked
@@ -75,12 +78,12 @@ transcript:
   sec: 217
   time: '3:37'
   who: Will
-- header: Will’s open source projects
 - line: Yeah, cool. So speaking about open source, can you tell us about your open
     source projects? What are they? What did you work on?
   sec: 250
   time: '4:10'
   who: Alexey
+- header: 'Early Open Source Tools: BBCode Parser & Chess Libraries'
 - line: I had a few small projects a while ago. I had a BBCode parser. I don’t know
     if you're familiar with BBCode.
   sec: 258
@@ -155,6 +158,7 @@ transcript:
   sec: 403
   time: '6:43'
   who: Alexey
+- header: 'PyFilesystem: Virtual File System Abstraction (fs)'
 - line: Yeah, it wasn't bad for the day. It used SVN. I quite liked SVN, but GitHub
     took over. Yeah, so I had a few projects on there. My next project that took off
     was something called the PyFile system. Again, it's a Python library which abstracts
@@ -199,7 +203,7 @@ transcript:
   sec: 552
   time: '9:12'
   who: Will
-- header: S3Fs and PyFile systems
+- header: 'S3 Integration: S3Fs and Cloud File Interfaces (Pandas integration)'
 - line: And S3Fs is also your thing?
   sec: 575
   time: '9:35'
@@ -251,7 +255,7 @@ transcript:
   sec: 670
   time: '11:10'
   who: Will
-- header: Inspiration for open source projects
+- header: 'Project Origins: Solving Personal Needs & Learning by Building'
 - line: I see. [chuckles] I guess I already answered for you regarding how you come
     up with these ideas. So you see a need – you need to do something, for example,
     you need a BBCode parser, or you need to have a way to access files, like a common
@@ -319,7 +323,7 @@ transcript:
   sec: 884
   time: '14:44'
   who: Will
-- header: Will as a freelancer
+- header: 'Freelance Career: Contracting, Long-Term Contracts, and Independence'
 - line: I know we didn't cover all your open source projects. There are some more
     recent ones, which we will probably talk about later, when we talk about your
     career or your experience as a founder. But I wanted to go a little bit back in
@@ -367,6 +371,7 @@ transcript:
   sec: 1028
   time: '17:08'
   who: Will
+- header: 'Open Source as Creative Outlet: Freedom Beyond Client Work'
 - line: This experience of being a freelancer, working with multiple clients (long-term
     clients and shorter contracts) was it something that also gave you inspiration
     for your open source projects? Or were your open sourcing activities quite unrelated
@@ -395,7 +400,7 @@ transcript:
   sec: 1155
   time: '19:15'
   who: Will
-- header: Starting a company from a tweet (Rich and Textual)
+- header: 'Rich Library: Terminal Styling, Tables, Progress, and CLI UX'
 - line: Yeah, that's interesting. Maybe let's talk a bit about your more recent open
     source projects. I know that one of the projects, which you will tell us about
     now, actually led to starting a company. Can you tell us how it happened? What's
@@ -480,6 +485,7 @@ transcript:
   sec: 1441
   time: '24:01'
   who: Will
+- header: 'Rich for Observability: Log Formatting and Readability'
 - line: I must admit that the CLI tools that I use that have these features, they're
     more interactive. It's not like that actually matters at the end – when it comes
     to functionality – if it gets the job done, it gets the job done. But still, there
@@ -530,6 +536,7 @@ transcript:
   sec: 1592
   time: '26:32'
   who: Alexey
+- header: 'Textual Framework: Building Terminal GUIs on Rich'
 - line: So Rich was becoming really popular. At some point a couple of guys, very
     tolerant guys, they took Rich and they built a text user interface with it, which
     would display information from the GitHub API, which are like recent pull requests,
@@ -569,6 +576,7 @@ transcript:
   sec: 1682
   time: '28:02'
   who: Alexey
+- header: 'Founding Textualize: Pre-Seed Fundraising After Tweeting'
 - line: Yeah. You can create something which works much more like a web page. I mean,
     it's obviously very limited in what you can present, but it can be remarkably
     functional. And these applications, if you're familiar with a web page or a desktop
@@ -623,7 +631,7 @@ transcript:
   sec: 1851
   time: '30:51'
   who: Will
-- header: Building in public (Will’s approach to social media)
+- header: 'Building in Public: Social Media, Demos, and Community Growth'
 - line: Of course. I think this approach is called “Building in Public,” right? When
     you just do something – work on your project – and then every little thing you
     work on, you share it on social media (on Twitter). Right?
@@ -747,7 +755,7 @@ transcript:
   sec: 2199
   time: '36:39'
   who: Will
-- header: The workforce and roadmap of Textualize.io
+- header: 'Team & Roadmap: Early Hires, Roles, and Product Vision'
 - line: Okay. So you started the company. So I guess you're the CEO of the company,
     right?
   sec: 2238
@@ -790,6 +798,7 @@ transcript:
   sec: 2288
   time: '38:08'
   who: Will
+- header: 'Business Model: Web Hosting for Terminal Apps & Generous Free Tier'
 - line: And how do you earn money with Textualize? Do you earn money with this?
   sec: 2312
   time: '38:32'
@@ -841,6 +850,7 @@ transcript:
   sec: 2428
   time: '40:28'
   who: Will
+- header: 'Market Comparison: Streamlit Analogy and Positioning'
 - line: I think there is an app called Streamlit – maybe you’ve heard about this…
   sec: 2493
   time: '41:33'
@@ -926,7 +936,7 @@ transcript:
   sec: 2674
   time: '44:34'
   who: Will
-- header: The importance of working on open source for Textualize employees
+- header: 'Hiring Signals: Open Source Contributions as a Recruiter’s Lens'
 - line: When you're hiring people, how important is it for you that they’ve contributed
     to open source?
   sec: 2678
@@ -954,7 +964,7 @@ transcript:
   sec: 2745
   time: '45:45'
   who: Will
-- header: The workflow of and contributions to Textualize
+- header: 'Development Workflow: GitHub Projects, PR Reviews, and Releases'
 - line: But the way you work is completely open, right? Can you maybe tell us how
     exactly you organize the work between the three of you?
   sec: 2760
@@ -1018,6 +1028,7 @@ transcript:
   sec: 2925
   time: '48:45'
   who: Will
+- header: 'Community Channels: Discourse, Discord, and How to Contribute'
 - line: Do you have something like GitHub discussions, or Discord, or Gitter, or Slack
     or something like that?
   sec: 2977
@@ -1041,7 +1052,7 @@ transcript:
   sec: 3001
   time: '50:01'
   who: Alexey
-- header: Getting your first thousand GitHub Stars (going viral)
+- header: 'Project Promotion: Getting GitHub Stars and Viral Reach'
 - line: I have a few more questions that I wanted to ask you. They're somewhat related,
     but not quite. You have a post with the name “Getting your first 1K GitHub Stars”.
     Maybe you can give us a summary of what is inside this post. How can I get 1,000
@@ -1184,7 +1195,7 @@ transcript:
   sec: 3420
   time: '57:00'
   who: Will
-- header: Suggestions for those who wish to start in the open source space
+- header: 'Advice for New Open Source Authors: Solve Your Own Problem'
 - line: If somebody wants to start their open source career, or start working on open
     source, is there something you would suggest that they do?
   sec: 3440
@@ -1228,7 +1239,7 @@ transcript:
   sec: 3558
   time: '59:18'
   who: Will
-- header: Finding Will online
+- header: 'Closing & Contact: Find Will on Twitter and Textualize links'
 - line: '[chuckles] Okay. I think that''s all we have time for today. So I want to
     thank you for joining us today, for answering all the questions, for sharing your
     experience. Maybe before we wrap up, before we finish, if people have questions
@@ -1263,6 +1274,120 @@ transcript:
   sec: 3620
   time: '1:00:20'
   who: Alexey
+description: Learn Textual, Rich, and open source strategies to build terminal UIs
+  in Python and turn projects into a startup - fundraising, community growth, hosting
+  tips.
+intro: How do you build expressive terminal UIs in Python and turn open source work
+  into a sustainable company? In this episode, Will McGugan — a software engineer from
+  Edinburgh and creator of PyFilesystem, Rich, and Textual — walks through that exact
+  journey. We cover his career path from game development to founding Textualize,
+  the origins of projects born from solving personal problems, and early libraries
+  like BBCode parsers and chess tools. <br><br> Listen for deep technical discussion
+  about PyFilesystem and S3 integration (S3Fs and Pandas workflows), Rich’s capabilities
+  for terminal styling, tables, progress bars and observability-focused log formatting,
+  and how Textual layers on Rich to enable full terminal GUIs. Will also explains
+  the transition from open source maintainer to founder — pre-seed fundraising after
+  tweeting, building in public, community growth, hiring early team members, product
+  roadmap, and a hosting-based business model with a generous free tier (Streamlit-style
+  positioning). Practical takeaways include development workflow, recruiting via open
+  source contributions, community channels, and advice for new OSS authors. If you
+  build Python CLI tools or want to commercialize open source, this episode offers
+  concrete technical and business insights.
+dateadded: '2022-07-15'
+duration: PT00H58M41S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=0
+  endOffset: 99
+- name: 'Guest Introduction: Will McGugan, Python Open Source Maintainer'
+  startOffset: 99
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=99
+  endOffset: 127
+- name: 'Career Path: From Video Games to Textualize Founder'
+  startOffset: 127
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=127
+  endOffset: 258
+- name: 'Early Open Source Tools: BBCode Parser & Chess Libraries'
+  startOffset: 258
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=258
+  endOffset: 412
+- name: 'PyFilesystem: Virtual File System Abstraction (fs)'
+  startOffset: 412
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=412
+  endOffset: 575
+- name: 'S3 Integration: S3Fs and Cloud File Interfaces (Pandas integration)'
+  startOffset: 575
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=575
+  endOffset: 689
+- name: 'Project Origins: Solving Personal Needs & Learning by Building'
+  startOffset: 689
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=689
+  endOffset: 907
+- name: 'Freelance Career: Contracting, Long-Term Contracts, and Independence'
+  startOffset: 907
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=907
+  endOffset: 1068
+- name: 'Open Source as Creative Outlet: Freedom Beyond Client Work'
+  startOffset: 1068
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=1068
+  endOffset: 1166
+- name: 'Rich Library: Terminal Styling, Tables, Progress, and CLI UX'
+  startOffset: 1166
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=1166
+  endOffset: 1476
+- name: 'Rich for Observability: Log Formatting and Readability'
+  startOffset: 1476
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=1476
+  endOffset: 1599
+- name: 'Textual Framework: Building Terminal GUIs on Rich'
+  startOffset: 1599
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=1599
+  endOffset: 1688
+- name: 'Founding Textualize: Pre-Seed Fundraising After Tweeting'
+  startOffset: 1688
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=1688
+  endOffset: 1900
+- name: 'Building in Public: Social Media, Demos, and Community Growth'
+  startOffset: 1900
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=1900
+  endOffset: 2238
+- name: 'Team & Roadmap: Early Hires, Roles, and Product Vision'
+  startOffset: 2238
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=2238
+  endOffset: 2312
+- name: 'Business Model: Web Hosting for Terminal Apps & Generous Free Tier'
+  startOffset: 2312
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=2312
+  endOffset: 2493
+- name: 'Market Comparison: Streamlit Analogy and Positioning'
+  startOffset: 2493
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=2493
+  endOffset: 2678
+- name: 'Hiring Signals: Open Source Contributions as a Recruiter’s Lens'
+  startOffset: 2678
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=2678
+  endOffset: 2760
+- name: 'Development Workflow: GitHub Projects, PR Reviews, and Releases'
+  startOffset: 2760
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=2760
+  endOffset: 2977
+- name: 'Community Channels: Discourse, Discord, and How to Contribute'
+  startOffset: 2977
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=2977
+  endOffset: 3005
+- name: 'Project Promotion: Getting GitHub Stars and Viral Reach'
+  startOffset: 3005
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=3005
+  endOffset: 3440
+- name: 'Advice for New Open Source Authors: Solve Your Own Problem'
+  startOffset: 3440
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=3440
+  endOffset: 3571
+- name: 'Closing & Contact: Find Will on Twitter and Textualize links'
+  startOffset: 3571
+  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=3571
+  endOffset: 3521
 ---
 
 Links:

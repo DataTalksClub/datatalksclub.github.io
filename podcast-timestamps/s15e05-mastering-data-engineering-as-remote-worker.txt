@@ -1,0 +1,30 @@
+00:00:00 Podcast Introduction
+00:01:09 Episode Overview & Guest Introduction
+00:01:50 Background: Spain to Norway and Career Transition
+00:04:21 Relocation Story: Moving for Partner’s Job
+00:05:01 Remote Work Routine: Two Focused Work Blocks
+00:07:15 Morning Routine & Productivity Habits
+00:08:13 Remote-First Hiring Landscape in Norway
+00:09:59 Role Overview: IoT Platform Responsibilities
+00:12:29 IoT Platform Architecture: "Operating System" for Sensors
+00:13:17 Geographic Hiring Constraints: Oslo, Bergen, Trondheim
+00:15:31 Remote Work Challenges: Loneliness & Isolation
+00:18:17 Workspace Boundaries: Separating Home and Work
+00:20:31 IoT Data Challenges: Remote Diagnostics & Context
+00:24:04 Turning Raw Data into Business Value: Understand the Why
+00:27:34 Data Exploration, ETL, and Building Data Pipelines
+00:30:21 Internal Stakeholders: Platform Consumers & Users
+00:31:04 Sensor Onboarding Workflow & Real-Time Processing
+00:32:17 Newsletter Purpose: Explaining Data to Non-Technical Audiences
+00:33:22 Newsletter Origin: Writing as Communication for Introverts
+00:35:57 Content Strategy: Inspiration and Daily Cadence
+00:38:10 Personal Branding: Newsletter as Opportunity Driver
+00:39:19 Newsletter Production Tactics: Idea Slicing & Repetition
+00:40:20 Burnout Coping: Nature, Exercise, and Routine
+00:46:41 Job Search Resources: finn.no, LinkedIn, Upwork
+00:48:36 Learning Data Engineering: Software Foundations & Projects
+00:52:12 Legal & Tax Basics for Remote Work in Norway
+00:53:31 Benefits of Remote Work: Location Flexibility & Time Savings
+00:55:19 Personal Mobility: Partner Contracts and Remote Advantages
+00:57:12 Recommendation: Develop Soft Skills, Especially Communication
+00:58:42 Episode Closing & Final Remarks

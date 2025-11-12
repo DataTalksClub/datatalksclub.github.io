@@ -1,0 +1,24 @@
+00:01:17 Guest Introduction: Lisa Cohen, Director of Data Science at Twitter
+00:01:42 Career Background: Applied Math, Microsoft telemetry, Azure to Twitter
+00:06:27 Org Models Overview: Centralized vs decentralized data science organization
+00:08:34 Embedding Explained: Reporting lines vs day‑to‑day integration with feature teams
+00:10:41 Hybrid Structure: Centralization per division and multiple DS orgs
+00:15:26 Reporting Structure: Embedded teams vs centralized data science reporting
+00:18:43 Team Rhythms & Planning: Cross‑functional ceremonies and dependency management
+00:21:58 Cross‑Functional Alignment: OKRs and aligning goals across levels
+00:24:53 Twitter’s Approach: Hybrid per‑division model for product and ads
+00:25:48 Decentralized Model: Immersive domain context, faster decisions, career tradeoffs
+00:29:25 Centralized Model: Knowledge sharing, consistency, and context‑building challenges
+00:30:52 Communicating Insights: Translating metrics for product, engineering, and design
+00:33:08 Starting Data Science: Foundations—data pipelines, data quality, and analytics
+00:36:49 Staffing Guidance: Engineers‑to‑data‑scientist ratios and ML partnerships (8:1 reference)
+00:42:19 Knowledge Sharing & Publication: Research archives, Slack channels, and push mechanisms
+00:46:09 Product Partnership: Co‑ownership with product, engineering, design, and research
+00:47:20 Metrics & Experimentation: Defining success metrics, ship criteria, and experiment review
+00:50:44 Analytics vs Data Science: Analysts driving dashboards vs ML‑heavy DS work
+00:52:30 OKRs & Exploration Time: Using objectives to prioritize and allocate research time
+00:54:16 Resolving Conflicts: Data‑driven opportunity sizing for prioritization decisions
+00:55:48 Data‑Driven Product Innovation: Guiding roadmap decisions with trusted data
+00:57:31 Qualitative Research Collaboration: Bridging user studies with quantitative analysis
+00:59:38 Contact & Resources: Lisa on Twitter, LinkedIn, and Medium
+01:00:03 Episode Wrap‑Up and Closing Remarks

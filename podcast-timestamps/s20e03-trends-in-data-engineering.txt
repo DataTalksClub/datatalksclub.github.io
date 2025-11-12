@@ -1,0 +1,27 @@
+00:00:01 Episode opening & guest introduction  
+00:02:23 Perspective on evolving data engineering challenges  
+00:03:10 Career journey: startups, freelancing, founding DLT  
+00:04:03 DLT as a Python-based ingestion standard and market impact  
+00:07:45 DLT Plus vision and partnership outreach for freelancers  
+00:11:03 Industry shift toward specialization: governance, data quality, streaming  
+00:12:37 Early-career opportunities: AI projects and startup hiring  
+00:14:32 Modern data stack critique and open-source "postmodern" alternatives  
+00:16:40 2025 trends: AI integration in data engineering and Apache Iceberg adoption  
+00:18:17 Apache Iceberg explained: table format, Parquet storage, vendor lock-in reduction  
+00:21:27 Database layers and catalog role: storage, compute, access, metadata & lineage  
+00:23:41 Metadata and catalog tooling overview (AWS Glue and peers)  
+00:25:58 DuckDB impact: embeddable local OLAP and portable query engine  
+00:27:40 Cost-efficient pipelines: DuckDB with GitHub Actions and headless table formats  
+00:30:31 Headless table formats and DLT support for Delta Lake and Iceberg  
+00:31:29 dbt's influence on engineering workflows and alternatives like SQLMesh  
+00:35:37 Workflow orchestration options in 2025: Airflow, Prefect, Dagster, GitHub Actions  
+00:38:02 AI engineering convergence: data engineers building AI agents  
+00:41:06 Beginner roadmap: SQL, Python, capturing business requirements, building a portfolio  
+00:44:42 Tool selection guidance and vendor caution for modern data stacks  
+00:45:56 Transition paths: senior backend engineers moving into data engineering  
+00:48:04 Job market outlook: senior vs junior data engineering opportunities  
+00:49:42 Table format comparisons: Delta, Hudi, and Iceberg differences  
+00:51:19 Streaming architectures and tools: micro-batching, Kafka, SQS, Flink  
+00:56:15 AI-driven commoditization and code generation in data engineering  
+00:59:42 DLT roadmap: DLT Plus and a marketplace for reusable data products  
+01:01:19 Episode wrap-up and key takeaways

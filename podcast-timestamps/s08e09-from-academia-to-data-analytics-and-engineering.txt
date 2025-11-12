@@ -1,0 +1,22 @@
+00:00:00 Podcast Introduction
+00:01:58 Background: Transition from Neuroscience Research to Industry
+00:02:41 Lab Automation & Scripting: Igor, C-style Code and Data Collection
+00:06:33 Learning Curve: MATLAB, R and Falling in Love with Programming
+00:07:46 First Industry Role: Business Data Analyst Duties and SQL Reporting
+00:11:53 Company Overview: Music Metadata, Royalties and Data Workflows
+00:16:14 Job Search Timeline: Bootcamp Graduation to Offer in Four Months
+00:18:21 Volunteer Experience: Omdena Project for Practical ML Practice
+00:19:52 Role Focus: Choosing Data Engineering Tasks and Automation Work
+00:21:25 Reproducibility: Docker for Collaborative Scripts and AWS Runs
+00:22:57 Application Strategy: Tracking ~130 Applications and Organization
+00:27:55 Interview Hurdles: Live Coding Pressure and Take-Home Challenges
+00:30:19 Applicant Rights: GDPR and Deleting Recruitment Records
+00:31:29 Salary Negotiation: Market Research, Confidence and Tactics
+00:36:20 Bootcamp ROI: Learning Python, Docker, Airflow and Networking
+00:37:25 Retrospective Tips: Earlier Career Coaching and More Networking
+00:45:29 Cloud Platforms: AWS vs GCP Experience and Managing Credits
+00:50:15 Capstone Project: Twitter Data Pipeline, Docker Containers and Slack Bot
+00:51:42 Portfolio Strategy: Custom Projects to Stand Out to Employers
+00:53:34 Data Quality: Detecting Bots, Cleaning Twitter Data and Sentiment Bias
+00:56:48 Cohort Diversity: Varied Backgrounds and Cross-disciplinary Strengths
+00:58:37 Closing Thoughts: Practical Advice for Transitioning to Data Engineering

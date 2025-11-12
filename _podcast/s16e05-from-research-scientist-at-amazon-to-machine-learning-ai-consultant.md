@@ -1233,7 +1233,7 @@ transcript:
   time: '1:00:56'
   who: Alexey
 intro: 'How do you turn NLP research experience into a viable generative AI freelance
-  business — and how do you actually win clients? In this episode Verena Weber, a
+  business — and how do you actually win clients? In this episode, Verena Weber, a
   former Research Scientist at Alexa AI with 7+ years in machine learning and a background
   in statistics, walks through that transition and the practical work that sells.
   We cover launching a freelance generative AI business, designing and running model-in-the-loop
@@ -1249,6 +1249,121 @@ intro: 'How do you turn NLP research experience into a viable generative AI free
   and product teams.'
 description: 'Discover how to launch a generative AI freelance business: NLP services,
   model-in-the-loop annotation, pitch-deck strategies, client leads & scalable workshops.'
+dateadded: '2023-11-12'
+duration: PT00H59M53S
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=0
+  endOffset: 106
+- name: 'Early Education: From Economics & Chinese to Statistics'
+  startOffset: 106
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=106
+  endOffset: 189
+- name: Discovering Data Science During Master’s Studies
+  startOffset: 189
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=189
+  endOffset: 219
+- name: 'Career Progression: Consulting, In‑house Roles, and Platform Data'
+  startOffset: 219
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=219
+  endOffset: 397
+- name: 'Freelance Transition: Becoming a Generative AI Consultant'
+  startOffset: 397
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=397
+  endOffset: 416
+- name: 'Landing a Research Role Without a PhD: Hiring Dynamics'
+  startOffset: 416
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=416
+  endOffset: 641
+- name: 'Amazon Research: Customer‑Focused, Production‑Oriented Work'
+  startOffset: 641
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=641
+  endOffset: 702
+- name: Using State‑of‑the‑Art Models and Publishing in Industry Tracks
+  startOffset: 702
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=702
+  endOffset: 986
+- name: Prioritizing Business Impact Over Publication Counts
+  startOffset: 986
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=986
+  endOffset: 1069
+- name: 'Research Output: Project Cadence and Paper Frequency'
+  startOffset: 1069
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1069
+  endOffset: 1147
+- name: 'Project Leadership: Ownership, Stakeholders, and Delivery'
+  startOffset: 1147
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1147
+  endOffset: 1391
+- name: 'Model‑in‑the‑Loop Annotation Study: Design and Rationale'
+  startOffset: 1391
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1391
+  endOffset: 1520
+- name: 'Annotation Outcomes: Time Savings and Improved Consistency'
+  startOffset: 1520
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1520
+  endOffset: 1667
+- name: Model Evaluation Strategy and Stabilizing High‑Traffic Utterances
+  startOffset: 1667
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1667
+  endOffset: 1903
+- name: 'Why Freelance: Impact on SMEs, Flexibility, and Entrepreneurship'
+  startOffset: 1903
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1903
+  endOffset: 1927
+- name: 'Service Offerings: Generative AI Workshops and Use‑Case Discovery'
+  startOffset: 1927
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1927
+  endOffset: 2135
+- name: 'Supporting Women in AI: Goals and Planned Initiatives'
+  startOffset: 2135
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=2135
+  endOffset: 2275
+- name: 'Self‑Employment Realities: Taxes, Health Insurance, and Admin'
+  startOffset: 2275
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=2275
+  endOffset: 2343
+- name: 'Crafting a Pitch Deck: Positioning, Evidence, and Rates'
+  startOffset: 2343
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=2343
+  endOffset: 2519
+- name: 'Finding Clients: Network Conversations, Mentorship, and Events'
+  startOffset: 2519
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=2519
+  endOffset: 2871
+- name: 'Choosing Generative AI: NLP Passion and Market Opportunity'
+  startOffset: 2871
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=2871
+  endOffset: 2948
+- name: 'Tailoring the Deck: Long Format, Short Versions, and Website'
+  startOffset: 2948
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=2948
+  endOffset: 3102
+- name: 'Early Leads: LinkedIn Visibility and Network Referrals'
+  startOffset: 3102
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=3102
+  endOffset: 3154
+- name: 'Content Strategy: Technical Posts, Papers, and Personal Growth'
+  startOffset: 3154
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=3154
+  endOffset: 3213
+- name: 'Side Projects & Wellbeing: Sound Baths and Creative Outlets'
+  startOffset: 3213
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=3213
+  endOffset: 3306
+- name: 'Educational Foundation: Statistics, Probability, and Reading Papers'
+  startOffset: 3306
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=3306
+  endOffset: 3473
+- name: 'Recommended Resources: Books and Podcasts'
+  startOffset: 3473
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=3473
+  endOffset: 3639
+- name: Closing Remarks and Contact Information
+  startOffset: 3639
+  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=3639
+  endOffset: 3593
 ---
 Links:
 

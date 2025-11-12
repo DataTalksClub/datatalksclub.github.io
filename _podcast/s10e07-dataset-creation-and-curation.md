@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=QggWydGrWoo
 season: 10
 short: Dataset Creation and Curation
-title: Dataset Creation and Curation
+title: 'Practical Guide to Dataset Creation & Annotation for NLP: Active Learning,
+  Weak Supervision, Tools'
 transcript:
+- header: Podcast Introduction
+- header: 'Episode Overview: Dataset creation, curation, and annotation'
 - line: This week, we'll talk about dataset creation and annotation – creation, curation,
     and annotation. We have a special guest today, Chris. Chris has six years of experience
     delivering natural language processing tools and services, including emails, compliance,
@@ -33,12 +36,12 @@ transcript:
   sec: 139
   time: '2:19'
   who: Christiaan
+- header: Guest Background & Career in NLP and bio‑NLP
 - line: Before we go into our main topic of dataset creation and curation, let's start
     with your background. Can you tell us about your career journey so far?
   sec: 144
   time: '2:24'
   who: Alexey
-- header: Christiaan’s background
 - line: Yeah. I studied AI at the University of Edinburgh. And I fell in love with
     natural language processing while I was there. I think it's extremely interesting
     “How can a computer understand language?” from a philosophical perspective. I
@@ -82,6 +85,7 @@ transcript:
   sec: 153
   time: '2:33'
   who: Christiaan
+- header: 'Comtura Origin: Sales call transcription and CRM integration'
 - line: What led you to actually start this company? What kind of problems did you
     see that made you realize “Okay, now it's time to start this company.”?
   sec: 312
@@ -109,7 +113,7 @@ transcript:
   sec: 322
   time: '5:22'
   who: Christiaan
-- header: Usual ways of collecting and curating data
+- header: 'Dataset Creation Approaches: Automated, manual, and hybrid pipelines'
 - line: You mentioned that there is so much data available, but sometimes the case
     is that we have data in abundance, but we don't really know what there is, how
     to process this data, How useful this data is, and we need to somehow curate this
@@ -146,6 +150,7 @@ transcript:
   sec: 489
   time: '8:09'
   who: Alexey
+- header: 'Stakeholder Alignment: Top‑down framing to de‑risk projects'
 - line: Yeah, I think this is the bottom-up view. But I think the top-down view is
     what I think most data scientists struggle with, actually. And I think I've made
     most of my mistakes from having this kind of bottom-up view rather than a more
@@ -245,6 +250,7 @@ transcript:
   sec: 542
   time: '9:02'
   who: Christiaan
+- header: 'Annotation Strategy: In‑house vs. crowdsourcing trade‑offs'
 - line: Yeah, that was quite a lot to unpack – a lot of information. Let me try to
     summarize. I probably missed a few of the very important bits. When it comes to
     the process of actually collecting data, first of all, we need to have the process.
@@ -273,7 +279,6 @@ transcript:
   sec: 939
   time: '15:39'
   who: Alexey
-- header: Getting the buy-in from experts and executives
 - line: Yeah. Sorry, I think that was definitely quite a bit. The first point was
     definitely this pitch process. Because you will need some executives to kind of
     be your “patrons” and push your project. Most machine learning projects are big
@@ -285,7 +290,6 @@ transcript:
   sec: 1046
   time: '17:26'
   who: Christiaan
-- header: Starting an annotation booklet
 - line: Also, you mentioned this annotation booklet, where you collect ambiguous samples.
     I guess this is the feedback step, when you sit with annotators and ask them about
     what was difficult, and they say, “You know, this thing was tricky. I didn't really
@@ -294,6 +298,7 @@ transcript:
   sec: 1088
   time: '18:08'
   who: Alexey
+- header: 'Annotation Guidebook: Living documentation and ambiguous cases'
 - line: Yeah, it's just a collaborative Google document where we just keep track of
     the data state.
   sec: 1116
@@ -334,7 +339,7 @@ transcript:
   sec: 1133
   time: '18:53'
   who: Christiaan
-- header: Pre-labeling
+- header: 'Model‑Assisted Annotation: Pre‑labeling and interpretability layers'
 - line: This pre-labeling, I think I saw a tool that does something like this. Correct
     me if I'm wrong. We present a piece of a document and ask annotators to label
     it, right? It can be a part from the sales call and we say, “Okay, based on the
@@ -366,7 +371,6 @@ transcript:
   sec: 1292
   time: '21:32'
   who: Christiaan
-- header: Dataset collection
 - line: Now I want to take a bit of a step back and talk again about this dataset
     creation process. We talked a bit about this, and you mentioned that we first
     need to get domain experts and execs on board – work with them. Then you said
@@ -384,6 +388,7 @@ transcript:
   sec: 1385
   time: '23:05'
   who: Alexey
+- header: 'Expert Knowledge Capture: Mind maps and task translation for annotators'
 - line: This is a key insight, Alexey. The really good thing is – the way I see it
     – is that experts and execs can give you a blueprint. You have a proposal document
     and you will, ideally, interview some experts as well to find out how they actually
@@ -466,7 +471,7 @@ transcript:
   sec: 1574
   time: '26:14'
   who: Christiaan
-- header: Human level baseline and feedback
+- header: 'Human Baseline & Prototyping: Validating feasibility and business value'
 - line: In summary – first, we talk to domain experts and we have them annotate the
     data. We interview with them, we watch how exactly they annotate, and we record
     everything. Then we build a mind map and we try to annotate the data ourselves
@@ -556,7 +561,6 @@ transcript:
   sec: 2065
   time: '34:25'
   who: Christiaan
-- header: Using the annotation booklet to boost annotation productivity
 - line: We talked a bit about this annotation booklet, and you mentioned that we put
     tricky examples there. But then you also said something like “When we start this
     process, we give this booklet to the annotators.” My understanding is that these
@@ -566,6 +570,7 @@ transcript:
   sec: 2073
   time: '34:33'
   who: Alexey
+- header: 'Annotation UX & Productivity: Hotkeys, interfaces, and iterative gains'
 - line: Exactly. The booklet – the way I see it – it's a complete guide to being as
     productive as possible in the annotation process. The objective there is to empower
     annotators to do as good a job as possible. I think this is a very important mindset
@@ -590,7 +595,6 @@ transcript:
   sec: 2102
   time: '35:02'
   who: Christiaan
-- header: Putting yourself in the shoes of annotators (and measuring performance)
 - line: You mentioned “How can I make it easier for annotators?” and the booklet is
     a way to make it easier. I think for me, personally – I remember when I needed
     to do something like this and it involved annotators from the company where I
@@ -609,6 +613,7 @@ transcript:
   sec: 2197
   time: '36:37'
   who: Alexey
+- header: 'Annotation Quality Metrics: Inter‑annotator agreement, throughput, fatigue'
 - line: Yeah, I think annotation user experience is massive and it's also measurable.
     I'm a huge fan of this whole annotation process. You can have a very quantitative
     and database approach to how you measure the impact of these things. For example,
@@ -678,7 +683,7 @@ transcript:
   sec: 2262
   time: '37:42'
   who: Christiaan
-- header: Active learning
+- header: 'Active Learning in Practice: Expectations and typical gains'
 - line: We talked a bit about pre-filling some of the suggestions. Even at the beginning,
     I talked a bit about this “active learning” when you collect a bit of data, then
     you train your model, then you show this to annotators and then you iterate. So
@@ -709,12 +714,12 @@ transcript:
   sec: 2598
   time: '43:18'
   who: Christiaan
-- header: Distance supervision
 - line: Then there is another thing called “distance supervision”. Can you tell us
     about this thing? What is it?
   sec: 2690
   time: '44:50'
   who: Alexey
+- header: 'Distance Supervision & Weak Supervision: Labeling functions and Snorkel'
 - line: Yeah. So distance supervision – that is actually a game changer, I think.
     Distance supervision is the paradigm where data creation is moving towards. What
     distance supervision is, is when you can use some kind of programmatic approach
@@ -753,7 +758,6 @@ transcript:
   sec: 2697
   time: '44:57'
   who: Christiaan
-- header: Weak labeling
 - line: You mentioned one of these sources for weak labeling is topic modeling. Let's
     say we have a huge pile of unlabeled text. It could be transcriptions from sales
     calls, for example. So what we can do is somehow cluster this text into a bunch
@@ -764,6 +768,7 @@ transcript:
   sec: 2865
   time: '47:45'
   who: Alexey
+- header: 'Programmatic Heuristics: Entity/verb patterns and weak label design'
 - line: Yes, yes, yes. This is exactly the type of programmatic labeling functions
     that Snorkel, for example, allows you to create. There are some other tools as
     well. Or you can roll this somewhat yourself as well. Personally, I've rolled
@@ -803,6 +808,7 @@ transcript:
   sec: 3025
   time: '50:25'
   who: Alexey
+- header: 'Tooling Recommendations: Prodigy, Docanno, Label Studio, Snorkel, Rubrics'
 - line: Personally, if I was starting out now and I would just be doing my first proof
     of concept project, I would start with Prodigy, because I think Prodigy has a
     really good user interface. It integrates very well with spaCy because it was
@@ -832,7 +838,7 @@ transcript:
   sec: 3037
   time: '50:37'
   who: Christiaan
-- header: Dataset collection in career positioning and project portfolios
+- header: 'Portfolio Advice: Building career projects via dataset creation'
 - line: We have a question from the audience, which is actually similar to one of
     the questions I prepared for you. So “What we talked about here, how would we
     take this and apply to career positioning?” For example, somebody wants to change
@@ -901,7 +907,7 @@ transcript:
   sec: 3221
   time: '53:41'
   who: Christiaan
-- header: IPython widgets
+- header: 'Quick‑start Collection: IPython widgets and Fast.ai for beginners'
 - line: In my personal experience, you can just start using IPython widgets, like
     widgets in Jupyter Notebook. It's super easy to start with. It's not as advanced
     as Snorkel or Prodigy, but if you need some binary classification case, then you
@@ -928,7 +934,7 @@ transcript:
   sec: 3505
   time: '58:25'
   who: Christiaan
-- header: GDPR compliance and non-English NLP
+- header: 'Privacy & Multilingual NLP: GDPR, anonymization, and language challenges'
 - line: Good. We have a few questions. Maybe what I will do is suggest to you two
     questions and you will pick the one you want to answer. The first question is
     about dealing with GDPR – we can have sensitive data, how do we present it to
@@ -1016,7 +1022,7 @@ transcript:
   sec: 3802
   time: '1:03:22'
   who: Christiaan
-- header: Finding Christiaan online
+- header: 'Contact & Resources: Blog, company, and social links'
 - line: Okay. Thanks so much for staying a bit longer with us and answering questions.
     And thanks, everyone, also for asking questions. Thanks for sharing your expertise
     with us. We have your contact information. We'll put this in the description.
@@ -1042,6 +1048,112 @@ transcript:
   sec: 3902
   time: '1:05:02'
   who: Alexey
+description: 'Discover dataset creation, annotation & active learning: practical annotation
+  UX, quality metrics, prototyping tips and tooling to accelerate NLP models.'
+intro: How do you create high‑quality NLP datasets without breaking the budget? In
+  this episode Christiaan Swart — an NLP practitioner with six years’ experience across
+  email, complaints, pharma, and sales who cofounded Comtura (born from sales call
+  transcription and CRM integration) — walks through practical methods for dataset
+  creation and annotation. <br><br> We cover automated, manual, and hybrid pipelines;
+  stakeholder alignment to de‑risk projects; in‑house vs. crowdsourcing trade‑offs;
+  and building a living annotation guidebook for ambiguous cases. Chris explains model‑assisted
+  annotation (pre‑labeling and interpretability layers), capturing expert knowledge,
+  establishing human baselines, and improving annotation UX and productivity. You’ll
+  also hear about annotation quality metrics (inter‑annotator agreement, throughput,
+  fatigue), active learning expectations, distant/weak supervision (Snorkel and labeling
+  functions), programmatic heuristics, and tooling recommendations like Prodigy, Docanno,
+  Label Studio, Snorkel, and Rubrics. Quick‑start tips using IPython widgets and Fast.ai,
+  plus privacy and multilingual considerations (GDPR, anonymization), round out the
+  conversation. <br><br> Listen to learn actionable strategies for cost‑effective
+  dataset creation, annotation workflows, and tool choices that speed model development
+  and produce reliable training data.
+dateadded: '2022-09-09'
+duration: PT01H03M40S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=0
+  endOffset: 82
+- name: 'Episode Overview: Dataset creation, curation, and annotation'
+  startOffset: 82
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=82
+  endOffset: 144
+- name: Guest Background & Career in NLP and bio‑NLP
+  startOffset: 144
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=144
+  endOffset: 312
+- name: 'Comtura Origin: Sales call transcription and CRM integration'
+  startOffset: 312
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=312
+  endOffset: 411
+- name: 'Dataset Creation Approaches: Automated, manual, and hybrid pipelines'
+  startOffset: 411
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=411
+  endOffset: 542
+- name: 'Stakeholder Alignment: Top‑down framing to de‑risk projects'
+  startOffset: 542
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=542
+  endOffset: 939
+- name: 'Annotation Strategy: In‑house vs. crowdsourcing trade‑offs'
+  startOffset: 939
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=939
+  endOffset: 1116
+- name: 'Annotation Guidebook: Living documentation and ambiguous cases'
+  startOffset: 1116
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=1116
+  endOffset: 1257
+- name: 'Model‑Assisted Annotation: Pre‑labeling and interpretability layers'
+  startOffset: 1257
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=1257
+  endOffset: 1441
+- name: 'Expert Knowledge Capture: Mind maps and task translation for annotators'
+  startOffset: 1441
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=1441
+  endOffset: 1768
+- name: 'Human Baseline & Prototyping: Validating feasibility and business value'
+  startOffset: 1768
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=1768
+  endOffset: 2102
+- name: 'Annotation UX & Productivity: Hotkeys, interfaces, and iterative gains'
+  startOffset: 2102
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=2102
+  endOffset: 2262
+- name: 'Annotation Quality Metrics: Inter‑annotator agreement, throughput, fatigue'
+  startOffset: 2262
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=2262
+  endOffset: 2571
+- name: 'Active Learning in Practice: Expectations and typical gains'
+  startOffset: 2571
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=2571
+  endOffset: 2697
+- name: 'Distance Supervision & Weak Supervision: Labeling functions and Snorkel'
+  startOffset: 2697
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=2697
+  endOffset: 2904
+- name: 'Programmatic Heuristics: Entity/verb patterns and weak label design'
+  startOffset: 2904
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=2904
+  endOffset: 3037
+- name: 'Tooling Recommendations: Prodigy, Docanno, Label Studio, Snorkel, Rubrics'
+  startOffset: 3037
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3037
+  endOffset: 3154
+- name: 'Portfolio Advice: Building career projects via dataset creation'
+  startOffset: 3154
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3154
+  endOffset: 3438
+- name: 'Quick‑start Collection: IPython widgets and Fast.ai for beginners'
+  startOffset: 3438
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3438
+  endOffset: 3506
+- name: 'Privacy & Multilingual NLP: GDPR, anonymization, and language challenges'
+  startOffset: 3506
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3506
+  endOffset: 3820
+- name: 'Contact & Resources: Blog, company, and social links'
+  startOffset: 3820
+  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3820
+  endOffset: 3820
 ---
 
 Links:

@@ -1,26 +1,130 @@
 ---
-title: "How to Find a Mentor and Advance Your Tech Career"
-short: "Mentoring"
-guests: [rahuljain]
-
+title: 'How to Find a Mentor and Become One: Mentoring Strategies for Tech Careers'
+short: Mentoring
+guests:
+- rahuljain
 image: images/podcast/s01e05-mentoring.jpg
-
-description: "Learn how to find the right mentor, become an effective mentor yourself, and advance your tech career. Expert advice on overcoming imposter syndrome, cold outreach strategies, and balancing technical work with leadership roles."
-
-keywords: "mentoring, career development, tech mentorship, finding a mentor, becoming a mentor, imposter syndrome, tech leadership, career advice, professional development, data engineering"
-
+description: 'Discover practical mentoring strategies for tech careers: find mentors,
+  master cold outreach, run effective sessions, start paid mentorship & boost leadership.'
+keywords: mentoring, career development, tech mentorship, finding a mentor, becoming
+  a mentor, imposter syndrome, tech leadership, career advice, professional development,
+  data engineering
 season: 1
 episode: 5
-
 ids:
   youtube: LQvwTNQbPg4
   anchor: Mentoring---Rahul-Jain-eo7cmu
-
 links:
   youtube: https://www.youtube.com/watch?v=LQvwTNQbPg4
   anchor: https://anchor.fm/datatalksclub/episodes/Mentoring---Rahul-Jain-eo7cmu
   spotify: TODO
   apple: TODO
+intro: 'Struggling to find a mentor — or wondering how to become one — in a fast-moving
+  tech career? In this episode, Rahul Jain, a senior solutions engineer and data/AI
+  leader with 15+ years driving enterprise data transformations and a career arc from
+  mining engineering to data engineering and leadership, walks through practical mentoring
+  strategies for tech professionals. We define mentoring (purpose, scope, types),
+  explore early models like Thoughtworks’ sponsorship, and show how to find mentors
+  through networks, platforms, and cold outreach — with concrete outreach best practices:
+  specificity, background, and follow‑up. Rahul covers preparing mentoring sessions
+  (goals, agendas), mentoring formats (one‑off advice vs long‑term relationships),
+  and how to start as a mentor using simple first steps and platforms. Topics include
+  benefits of mentoring, transferable workplace guidance, developing people skills
+  (empathy, listening), balancing technical work and leadership, tackling imposter
+  syndrome, coaching vs managing, setting boundaries and paid mentorship, and maintaining
+  development plans. Listen to gain actionable steps, templates, and mindset shifts
+  to both secure meaningful mentorship and build a sustainable mentoring practice
+  in your tech career.'
+dateadded: '2021-02-23'
+quotableClips:
+- name: Episode Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=0
+  endOffset: 80
+- name: 'Career Journey: From Mining Engineering to Data Engineering & Leadership'
+  startOffset: 80
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=80
+  endOffset: 370
+- name: 'Defining Mentoring: Purpose, Scope, and Types'
+  startOffset: 370
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=370
+  endOffset: 570
+- name: 'Early Mentoring Experience: Thoughtworks Model and Sponsorship'
+  startOffset: 570
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=570
+  endOffset: 770
+- name: 'Finding a Mentor: Networks, Cold Outreach & Platforms'
+  startOffset: 770
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=770
+  endOffset: 990
+- name: 'Cold Outreach Best Practices: Specificity, Background, and Follow‑up'
+  startOffset: 990
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=990
+  endOffset: 1180
+- name: 'Preparing for Mentoring Sessions: Goals, Expectations, and Agenda'
+  startOffset: 1180
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=1180
+  endOffset: 1350
+- name: 'Mentoring Formats: One‑Off Advice vs. Long‑Term Relationships'
+  startOffset: 1350
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=1350
+  endOffset: 1510
+- name: 'Benefits of Being a Mentor: Listening, Pattern Recognition, and Growth'
+  startOffset: 1510
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=1510
+  endOffset: 1680
+- name: 'Mentoring Across Domains: Transferable Workplace Guidance'
+  startOffset: 1680
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=1680
+  endOffset: 1840
+- name: 'Developing People Skills: Empathy, Listening, and Avoiding the "Advice Monster"'
+  startOffset: 1840
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=1840
+  endOffset: 2010
+- name: 'Balancing Technical Work and Leadership: Blended Career Paths'
+  startOffset: 2010
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=2010
+  endOffset: 2200
+- name: 'Common Mentee Challenges: Imposter Syndrome & Tech‑vs‑Management Choices'
+  startOffset: 2200
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=2200
+  endOffset: 2390
+- name: 'Coaching vs. Managing: When to Use External Mentors'
+  startOffset: 2390
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=2390
+  endOffset: 2550
+- name: 'Setting Boundaries: Expectations, Cadence, and When to Charge'
+  startOffset: 2550
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=2550
+  endOffset: 2710
+- name: 'Paid Mentorship: Accountability, Pricing, and Professional Coaching'
+  startOffset: 2710
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=2710
+  endOffset: 2870
+- name: 'Building Reciprocal Mentoring Relationships: Authenticity & Retrospectives'
+  startOffset: 2870
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=2870
+  endOffset: 3020
+- name: 'Starting as a Mentor: Practical First Steps and Platforms'
+  startOffset: 3020
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=3020
+  endOffset: 3160
+- name: 'Maintaining Development Plans: Review, Visibility, and Follow‑through'
+  startOffset: 3160
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=3160
+  endOffset: 3290
+- name: 'Managing Overwhelm: Diagnosing Causes and Practical Steps'
+  startOffset: 3290
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=3290
+  endOffset: 3390
+- name: Audience Q&A Highlights
+  startOffset: 3390
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=3390
+  endOffset: 3480
+- name: Closing Thoughts and Resources
+  startOffset: 3480
+  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=3480
+  endOffset: 3480
 ---
 
 Today we're discussing mentoring with [Rahul Jain](/people/rahuljain.html), a technical leader with about 20 years of experience building and running software products. He currently leads the Business Intelligence and Data Engineering units at Omio, a ticket-booking company, and mentors engineers and managers through The Mentoring Club.

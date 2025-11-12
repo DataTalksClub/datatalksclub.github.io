@@ -1,0 +1,27 @@
+00:00:00 Podcast Introduction
+00:01:18 Guest Overview: Marco's Career & Roles
+00:03:23 Industry Experience: Yahoo, Facebook, Twitter, Spotify
+00:05:41 Transition to OLX Group and CDO Appointment
+00:06:08 Chief Data Officer Scope: Data Strategy, Governance, AI
+00:07:17 Traditional Responsibilities vs Modern CDO Expectations
+00:10:19 Future-Proofing Data: Collecting for Tomorrow's Products
+00:11:40 Delegation and Organisational Design for Data Leadership
+00:14:24 Career Progression: From Head of Data to CDO
+00:17:37 Strategy vs Tactics: Vision, KPIs, and Execution
+00:20:17 CDO vs VP of Data: Scope, Influence, and Proactivity
+00:24:55 Structuring a Data Org: Multiple VPs and Reporting Lines
+00:26:11 Splitting Work: CDO Responsibilities vs VP Execution
+00:28:02 Differentiating CTO, CPO, and CDO Roles
+00:31:50 Working Backwards: Goals to Data Platform & ML Investment
+00:34:43 Measuring Progress: Metrics, Accountability, and Visibility
+00:36:45 Meeting Load: Time Management for Senior Data Leaders
+00:39:56 Productivity Practices: Documentation, Async, and Slack
+00:42:02 Building a Data-Driven Culture: Democratization & Usability
+00:44:12 Remote Leadership: Challenges of Managing Distributed Teams
+00:48:04 Technical Skills for CDOs: Breadth vs Depth (ML, SQL, Engineering)
+00:50:20 Business Education: MBA Value for Executive Data Roles
+00:52:18 Essential Soft Skills: Communication, Empathy, Influence
+00:54:16 OLX Group Challenges: Geographic, Product, and Tech Complexity
+00:56:36 Interviewing for CDO: Demonstrating Strategic Thinking
+00:59:40 Overcoming Resistance: Persuasion, Evidence, and Constraints
+01:02:24 Closing Remarks and Key Takeaways

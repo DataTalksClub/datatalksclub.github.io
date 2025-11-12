@@ -1,0 +1,32 @@
+00:00:00 Podcast Introduction
+00:02:01 Guest Background: Elena Samuylova’s ML & Startup Journey
+00:03:22 Career Highlights: Yandex, Data Factory, and Industrial AI
+00:05:18 Motivations: Startup vs. Employee Trade-offs
+00:07:23 Sourcing Ideas: Problem-First Approach for ML Startups
+00:11:44 Co-founder Search: Compatibility, Founder–Market Fit, and Finding Partners
+00:16:55 Pre-Launch Alignment: Commitment, Company Type, and Fundraising Path
+00:21:34 Market Choice: Vertical Solutions vs. Infrastructure & MLOps
+00:23:10 AI-First Positioning: What It Really Means
+00:24:33 Developer Tools Market: Selling to Engineers and Open Source Dynamics
+00:26:21 Founder Skills: Self‑Starter Mindset and Learning Agility
+00:28:17 Startup Risks: Financial, Cultural, and Career Considerations
+00:31:50 Failure Preparedness: Normalizing Risk and Learning from Failure
+00:32:47 Work–Life Tradeoffs: Time Commitment in Early Stages
+00:34:06 Part‑Time Startups: Weekend MVPs, Bootstrapping, and Grants
+00:35:47 Funding Models: Accelerators, Angels, and Equity Considerations
+00:38:08 Non‑Technical Founders: No-Code MVPs and Productizing Services
+00:39:25 Productizing Services: From Manual Delivery to Scalable SaaS
+00:40:13 Hiring Expertise: When to Bring in Domain or Technical Help
+00:42:15 Customer Discovery: Interview Counts and Signals for Product–Market Fit
+00:43:59 Evidently Origin: Validating Model Monitoring as a Business
+00:46:32 Founder Role at Evidently: CEO Tasks, Content, and Community
+00:48:11 Open Source Strategy: Open Core, Cloud, and Monetization Paths
+00:49:29 Open Source Risks: Cloning, Cloud Providers, and Licensing
+00:51:48 Bottom‑Up Adoption: Engineers First, Enterprise Later
+00:53:09 Demonstrating Value: Persuading Clients to Share Data
+00:53:57 Geographic Differences: Market Dynamics and Data Attitudes
+00:56:17 Data Safety Options: On‑Premise Deployments with Open Source
+00:57:06 Scaling Teams: When to Hire Engineers vs. Stay Small
+00:58:14 Market Intelligence: Following Startups, Investors, and Trends
+00:59:32 Final Advice: Build from Genuine Interest, Not Just Hype
+01:00:11 Contact & Resources: Evidently, LinkedIn, and Twitter

@@ -1,0 +1,33 @@
+00:00:00 Podcast Introduction
+00:02:34 Episode Kickoff & Guest Overview
+00:03:30 Guest Background: From Unix Engineer to ML Engineering
+00:05:14 Defining MLOps: Culture, Process, and Technology
+00:07:28 DevOps vs MLOps: Model Lifecycle and Data Drift
+00:11:17 Monitoring for MLOps: Drift, Fairness, and Retraining Triggers
+00:13:04 Monitoring Stack: Prometheus/Grafana and Inference Sensors
+00:14:44 Commoditizing Inference Monitoring for Faster Iteration
+00:15:29 Role Distinction: ML Engineer as Practitioner, MLOps as Practice
+00:16:37 Team Composition: Developer, Operator, and Product in MLOps
+00:20:08 The "MLOps Engineer" Debate: Title vs. Cross‑Functional Teams
+00:23:47 MLOps Job Signals & Maturity Models (Google and Microsoft)
+00:27:01 Maturity Levels: Manual Training → Pipeline Automation
+00:30:08 Advanced Maturity: Data‑Driven Triggers and Automated Retraining
+00:33:27 Cultural Shift: Monitoring as a Source of New Training Data
+00:34:25 Tooling Landscape: Vendors, Open Source, and Kubernetes
+00:37:06 Kubeflow Ecosystem: Pipelines, KFServing, Feast, and Katib
+00:40:12 Hyperparameter Search with Katib and Notebook→Pipeline Workflows
+00:42:28 Kubeflow & TFX: ML Orchestration and Production Patterns
+00:43:28 Learning Kubeflow: Docs, Workshops, and Community Resources
+00:46:01 Getting Started: Cloud‑Managed Pipelines and Simple Projects
+00:46:58 Data & Model Versioning: MLMD, Metadata, and Traceability
+00:50:35 Relationship to DataOps: Continuation and Divergence
+00:51:44 Edge & Mobile Deployment: Offline Models and Edge Kubernetes
+00:54:18 MLOps Guidance: Maturity Roadmaps and Manifesto Alternatives
+00:55:13 Why Learn Kubeflow: Community Contribution and Career Value
+00:57:04 MLOps Benefits: Automation, Productization, and Productivity
+00:58:25 AutoML & Katib: Commoditization vs. Empowering Data Scientists
+00:59:49 Simplified Serving: KFServing and Faster Model Endpoints
+01:01:24 Small Teams Adopting MLOps: Practical Examples and Tradeoffs
+01:02:56 Breaking Silos: Language‑Agnostic Pipelines and Collaboration
+01:04:59 Closing Remarks & Resource Links
+01:05:22 Episode End

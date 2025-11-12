@@ -1,0 +1,30 @@
+00:00:00 Podcast Introduction
+00:00:49 LinkedIn Memes & Creative Editing for Data Audiences
+00:03:33 Career Journey: Analytics to Data Science
+00:04:56 Transition to Python, Kaggle & Self-Directed Learning
+00:06:32 Early Tools: SQL, SAS and Excel Workflows
+00:08:19 Moving into Data Science: Team Integration at a Bank
+00:09:06 Machine Learning Projects: Propensity Models & Experimentation
+00:11:29 Origins of the ABC Framework for Data Science Roles
+00:12:18 Defining the Three Profiles: Analyst, Builder, Consultant
+00:13:17 Type A (Analyst): Data Exploration, Visualization & Storytelling
+00:16:01 Type A Backgrounds: Research, Statistics & Analyst Pathways
+00:18:20 Type A Skillset: Programming, Theory, Experiment Design
+00:20:01 Learning Strategy: Build Projects First, Learn Theory When Needed
+00:21:54 Curiosity Spectrum: Depth of Inquiry & Learning Motivation
+00:25:53 Type B (Builder): ML Engineering, MLOps & Production Systems
+00:28:26 Technical Debt, Production Mindset & Systemic Risk
+00:30:26 Pathway A→B: Gaining Production Experience & On-the-Job Pressure
+00:33:12 Core Tools for Transition: Git, Docker, Cloud Platforms
+00:36:46 Practicing Engineering Skills Outside Work: Mentors & Mini-Projects
+00:42:38 Type C (Consultant/Leader): Stakeholder Persuasion & Strategy
+00:48:49 Testing Leadership: Shifting from Hands-On to People Management
+00:54:48 Building a Lean Data Science Team: Roles, Tech Lead & Data Lead
+01:01:56 Domain Expertise vs Technical Specialization for Career Mobility
+01:04:11 Breaking In: Project Portfolios, Referrals & Application Strategy
+01:07:22 Entry Choice: Analyst vs Builder — Trade-offs & Competitive Edge
+01:12:26 Bootcamps & Intensives: Benefits, Limits & Realistic Expectations
+01:14:37 Serious SQL Course: Curriculum, Case Studies & Apprenticeship Model
+01:19:05 Data Science Roadmap: SQL → Visualization → ML → Deep Learning
+01:23:04 Advanced Degrees: When Master's/PhD Matter in Data Science Roles
+01:25:21 Episode Wrap-up, Resources & Next Steps

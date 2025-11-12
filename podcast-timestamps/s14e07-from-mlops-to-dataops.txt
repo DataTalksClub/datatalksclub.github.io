@@ -1,0 +1,20 @@
+00:00:00 Episode Introduction
+00:01:30 Career journey: CERN researcher → NLP, ML engineering, Python, Astronomer, Upsolver
+00:07:08 Transition to workflow authoring and orchestration (Airflow, Astronomer)
+00:10:48 Upsolver vs DBT: pipeline authoring, execution engine, and ingestion focus
+00:13:25 Comparing ML pipelines and analytics data pipelines
+00:18:44 MLOps vs DataOps: operationalizing models vs business data
+00:24:57 Analytics engineering and DBT's role in the modern data workflow
+00:26:43 Tooling landscape: orchestrators, Spark, Kafka/Kinesis, feature stores, vector DBs
+00:29:16 Modern data stack choices: Upsolver, Snowflake, Databricks, build vs buy
+00:32:57 Data staging and lakehouse patterns; managed ingestion hiding the stage
+00:37:10 Ingestion pre-processing: deduplication, ordering guarantees, PII masking
+00:39:23 Transformation and data modeling: entities, foreign keys, and business mappings
+00:43:05 Marts, dashboards and translating business questions into metrics
+00:44:57 ML pipeline specifics: feature engineering, model training, and serving
+00:47:57 Translating academic data/physics skills to industry pipelines
+00:52:54 Persona-driven pipeline design and real use-case examples
+00:55:56 Career advice: value of being a generalist and closing skill gaps
+00:56:49 Learning strategy: vetting sources, networking, and engineering blogs
+00:59:16 Recommended resources: Fundamentals of Data Engineering, Airflow guides, whitepapers
+01:01:13 Episode Closing and links

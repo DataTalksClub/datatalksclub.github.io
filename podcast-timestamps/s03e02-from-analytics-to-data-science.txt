@@ -1,0 +1,20 @@
+00:00:00 Podcast Introduction
+00:01:37 Episode Overview: Transitioning from Analytics to Data Science
+00:02:10 Career Path: Statistics Degree → Avon Data Analyst → Master’s → Data Scientist
+00:05:21 Recommended Course: Python for Data Science & Machine Learning (Jose Portilla, Udemy)
+00:08:18 Kaggle Introduction: First Encounters and Community Motivation
+00:09:43 Kaggle Notebooks: Iowa House Prices, Hyperparameter Tuning & Model Improvement
+00:14:26 Project-Based Learning: Kaggle as Primary Practice Environment
+00:15:42 Translating Academic Work: Dissertation and Masters Projects to Public Notebooks
+00:18:09 Mentorship & Hiring: Connecting with Gabi Preda via Kaggle
+00:23:25 Job Search Process: Timeline and Application Strategy
+00:26:07 Interview Challenges: Algorithmic Coding Tests vs Practical ML Skills
+00:32:14 Showcasing Work: Kaggle Notebooks, GitHub and Portfolio Impact
+00:36:41 Transferable Analyst Skills: Data Validation, Domain Knowledge & EDA
+00:41:49 Coding Growth Plan: Learn by Doing Competitions and Reproducing Notebooks
+00:45:16 Learning Technique: Decompose Notebooks, Reimplement and Debug
+00:49:27 Master’s Degree Value: Structured Curriculum vs Independent Study
+00:52:54 Self-Paced Pivot: Udemy, Kaggle and YouTube Path to Data Science in ~1 Year
+00:57:01 Kaggle Ecosystem: Notebooks, Datasets and Community Discussions
+01:01:00 Networking Strategy: Use LinkedIn & Twitter to Showcase Projects and Build Community
+01:03:01 Episode Wrap-Up and Final Advice

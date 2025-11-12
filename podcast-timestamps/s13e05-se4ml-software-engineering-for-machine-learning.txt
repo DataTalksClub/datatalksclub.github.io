@@ -1,0 +1,23 @@
+00:00:00 Podcast Introduction
+00:01:36 Guest Background: Nadia Nahar (PhD, software engineering)
+00:04:14 Academia–Industry Collaboration in Software Engineering
+00:06:58 Defining Software Engineering for Machine Learning Systems
+00:07:42 ML vs Traditional Software: uncertainty, data workflows, monitoring
+00:10:12 System-Centric Perspective: "Hidden Technical Debt" and scope
+00:10:54 Industry Pain Points: requirements, unrealistic expectations, data access
+00:13:52 Communication & Alignment: vocabulary, expectation setting, documentation
+00:15:17 Artifact Analysis: building an open-source ML product dataset
+00:19:05 Open-Source ML Products: dataset size (~300 repos) and availability issues
+00:21:54 Product Criteria: distinguishing ML products from models and APIs
+00:24:03 Dataset Research Questions: development order, collaboration, testing, ops, responsible AI
+00:26:02 Analysis Approach: manual review augmented by scripts (commits & code)
+00:29:42 Failure Modes: discontinuation, unmet requirements, poor data, deployment gaps
+00:34:22 Process Gap: CRISP-DM, Agile mismatch, and the need for integrated ML+SW processes
+00:36:28 Team Structures & Integration Patterns: siloing, APIs, all-in-one teams, ML engineers
+00:39:05 Practical Remedies: workshops, shared vocabularies, documentation, engineering support (MLOps)
+00:42:47 Documentation Practices: Model Cards, Datasheets, factsheets, and checklists
+00:47:16 Responsible AI Research: explainability requirements in healthcare and education
+00:50:03 Explainability Use Case: classroom game predicting smoking risk and stakeholder needs
+00:54:16 Responsible AI Governance: product-centric fairness and team accountability
+00:56:55 Agile Integration: involving ML practitioners from requirements through testing
+01:00:01 Closing Remarks & Resources

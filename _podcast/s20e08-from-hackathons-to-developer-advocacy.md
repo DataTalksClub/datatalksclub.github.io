@@ -13,9 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=vXbMUfHE1OE
 season: 20
 short: From Hackathons To Developer Advocacy
-title: From Hackathons To Developer Advocacy
+title: 'Run Hackathons & Scale MLH-Style Open Source Fellowships: Organize, Onboard,
+  Judge'
 transcript:
-- header: 0:00 Introduction, career journeys, and video setup and workflow
+- header: Episode Opening & Guest Overview
 - line: This week we’ll discuss many topics—developer advocacy, organizing hackathons,
     and Will’s career journey.
   sec: 0
@@ -64,6 +65,7 @@ transcript:
   sec: 169
   time: '2:49'
   who: Alexey
+- header: 'Video Production Setup: Camera, Lens & Webcam Workflow'
 - line: I really like the quality of your picture and all the little things in your
     background, the microphone, and the headset.
   sec: 201
@@ -128,6 +130,7 @@ transcript:
   sec: 337
   time: '5:37'
   who: Alexey
+- header: 'Audio Setup: Microphone, Preamp & Pop Filtering'
 - line: I have a Rode XLR microphone plugged into a preamp, which connects to my computer.
   sec: 343
   time: '5:43'
@@ -164,6 +167,7 @@ transcript:
   sec: 391
   time: '6:31'
   who: Alexey
+- header: 'Lighting Strategy: 45° Key Light & Background Separation'
 - line: Since COVID, I’ve lived in a few different places with the same desk but different
     setups.
   sec: 415
@@ -283,7 +287,7 @@ transcript:
   sec: 615
   time: '10:15'
   who: Alexey
-- header: '10:41 From hackathons to open source: Early experiences and learning'
+- header: Early Career & Hackathon Discovery
 - line: Back to the podcast. The usual question I always ask at the beginning is for
     the guest to tell us about their career journey.
   sec: 641
@@ -320,6 +324,7 @@ transcript:
   sec: 682
   time: '11:22'
   who: Will
+- header: 'Hackathons as Learning: Git, Teamwork & Building Projects'
 - line: What changed things was getting involved with hackathons.
   sec: 706
   time: '11:46'
@@ -347,6 +352,7 @@ transcript:
   sec: 724
   time: '12:04'
   who: Will
+- header: 'Open Source Education Programs: Path from Contract to Full-Time'
 - line: What started as a 12-week summer contract turned into part-time work while
     I finished my degree, then into a full-time job for about three years.
   sec: 736
@@ -463,7 +469,7 @@ transcript:
   sec: 940
   time: '15:40'
   who: Will
-- header: 16:04 Becoming a hackathon organizer and the value of soft skills
+- header: 'Organizing Hackathons: Leadership, Coordination & Soft Skills'
 - line: So hackathons were definitely useful—100% would recommend.
   sec: 964
   time: '16:04'
@@ -548,6 +554,7 @@ transcript:
   sec: 1162
   time: '19:22'
   who: Will
+- header: 'Career Trade-offs: Maintaining Technical Depth vs. Community Work'
 - line: When I started organizing hackathons, I didn’t think much about it because
     I knew so little then.
   sec: 1207
@@ -595,6 +602,7 @@ transcript:
   sec: 1269
   time: '21:09'
   who: Alexey
+- header: Role Variety at Small Companies vs. Specialized Teams
 - line: Definitely. The beauty of Kestra being such a small company is that every
     month is a bit different. With the open source program, we ran three a year, so
     it became very routine—twelve weeks for the program, a gap, then another program.
@@ -621,7 +629,7 @@ transcript:
   sec: 1322
   time: '22:02'
   who: Will
-- header: 23:18 How to organize a hackathon, memorable projects, and creativity
+- header: 'Running Hackathons: Format, Online Tools & Office Hours'
 - line: I still see you helping our course participants—your user picture is still
     in our Slack. Thank you for doing that.
   sec: 1398
@@ -676,6 +684,7 @@ transcript:
   sec: 1506
   time: '25:06'
   who: Will
+- header: 'Judging Strategies: Scoring Matrices, Categories & Tie-Breakers'
 - line: On Sunday, you have the judging part, which is the hardest part to organize,
     especially online.
   sec: 1526
@@ -696,6 +705,7 @@ transcript:
   sec: 1526
   time: '25:26'
   who: Will
+- header: Sponsor-Driven Challenges & Themed Categories
 - line: I liked having categories at hackathons.
   sec: 1574
   time: '26:14'
@@ -762,6 +772,7 @@ transcript:
   sec: 1745
   time: '29:05'
   who: Will
+- header: 'Case Study — Willmojis: Image Recognition, Font Generation & Demo'
 - line: That project was called Willmojis.
   sec: 1784
   time: '29:44'
@@ -908,7 +919,7 @@ transcript:
   sec: 2004
   time: '33:24'
   who: Will
-- header: '33:39 Major League Hacking: Building community and scaling student programs'
+- header: 'Major League Hacking (MLH): Community Support & Rep Experience'
 - line: Cool.
   sec: 2019
   time: '33:39'
@@ -979,6 +990,7 @@ transcript:
   sec: 2112
   time: '35:12'
   who: Will
+- header: 'MLH Fellowship: Mentorship Model & Contributing to Large Repos'
 - line: Then I noticed MLH had launched a new program called the MLH Fellowship.
   sec: 2143
   time: '35:43'
@@ -1067,6 +1079,7 @@ transcript:
   sec: 2330
   time: '38:50'
   who: Alexey
+- header: 'Contribution Best Practices: PR Quality, Git Skills & Onboarding'
 - line: Yes, exactly. We worked with maintainers, who gave us lists of good first
     issues and valuable tasks.
   sec: 2342
@@ -1102,7 +1115,7 @@ transcript:
   sec: 2451
   time: '40:51'
   who: Will
-- header: 41:16 Mentorship, development environments, and onboarding in open source
+- header: 'Onboarding Complex Projects: Environment Setup & Maintainer Collaboration'
 - line: How did you learn to help students set up development environments for these
     projects? For some projects, setting up the environment is not trivial.
   sec: 2476
@@ -1145,6 +1158,7 @@ transcript:
   sec: 2590
   time: '43:10'
   who: Will
+- header: Hardware Constraints & Cloud Workarounds (Colab, VMs)
 - line: With AI projects, students often lacked enough memory or GPU power, so their
     computers would crash. We provided cloud VMs or encouraged them to use Google
     Colab to get around hardware limitations. Data projects were always the hardest
@@ -1175,6 +1189,7 @@ transcript:
   sec: 2711
   time: '45:11'
   who: Alexey
+- header: 'Program Scalability: Repeatability, Budgets & AI Opportunities'
 - line: Yes, it still runs, though I haven’t been involved since 2023. It runs three
     times a year.
   sec: 2762
@@ -1201,6 +1216,7 @@ transcript:
   sec: 2849
   time: '47:29'
   who: Alexey
+- header: 'Fellowship Accessibility: Students, Career Changers & Motivation'
 - line: Previously, we required participants to be students, since most of MLH’s community
     comes from student hackathons.
   sec: 2890
@@ -1218,7 +1234,7 @@ transcript:
   sec: 2919
   time: '48:39'
   who: Will
-- header: 49:14 Developer advocacy, content strategy, and video tips
+- header: 'Developer Advocacy at Kestra: Documentation, Demos & Outreach'
 - line: We're coming to the end, which is sad because I wanted to talk more about
     developer advocacy. Let’s spend the last ten minutes on that. What do you do as
     a developer advocate? What are your main responsibilities?
@@ -1261,6 +1277,7 @@ transcript:
   sec: 3075
   time: '51:15'
   who: Alexey
+- header: 'Content Workflow: Bullet Points, Demos & Collaboration with Writers'
 - line: I definitely lean more toward your approach. I make rough bullet points about
     what I want to achieve, get a working demo, and then press record, roughly following
     my bullet points.
@@ -1295,6 +1312,7 @@ transcript:
   sec: 3213
   time: '53:33'
   who: Alexey
+- header: 'Video Strategy: Define Goal, Maintain Pace & Full Walkthroughs'
 - line: The key thing is to have a clear goal—what are you trying to achieve with
     the video? Is it to showcase a feature of Kestra or to teach about a new tool?
     If you don't have a clear goal, it's easy to make the video too long or go off
@@ -1308,6 +1326,7 @@ transcript:
   sec: 3249
   time: '54:09'
   who: Alexey
+- header: 'Feature Demo Example: "After Execution" Notifications in Workflows'
 - line: One of the features was a new workflow component called "after execution."
     My main goal was to explain why we added this feature and why it's useful. On
     its own, it just runs once an execution is finished, but the value is that you
@@ -1347,11 +1366,11 @@ transcript:
   sec: 3356
   time: '55:56'
   who: Will
-- header: 57:16 Will’s current projects and future plans for content creation
 - line: Maybe a last question before we wrap up—what are you working on right now?
   sec: 3436
   time: '57:16'
   who: Alexey
+- header: 'Learn with Kestra Series: Tool Tutorials (Docker, Postgres, Git)'
 - line: We've started a new "Learn with Kestra" series focused on demoing tools that
     Kestra works with. Instead of making videos just about Kestra, we make videos
     about other tools and then show how Kestra can be useful with them.
@@ -1397,6 +1416,7 @@ transcript:
   sec: 3578
   time: '59:38'
   who: Alexey
+- header: 'Leadership & Team Empowerment Recommendation: "Turn the Ship Around"'
 - line: When I was at the fellowship, managing a group of student leaders, I felt
     overwhelmed and unsure if I was giving enough support, especially early in my
     career.
@@ -1411,6 +1431,7 @@ transcript:
   sec: 3599
   time: '59:59'
   who: Will
+- header: Episode Closing & Call to Explore Kestra Content
 - line: Thank you, and I hope you forgive me for keeping you four minutes longer.
     Thanks a lot, Will—it was amazing talking to you.Thanks for sharing your stories
     and insights and for the recommendations. I'm sure many listeners will find them
@@ -1430,6 +1451,140 @@ transcript:
   sec: 3689
   time: '1:01:29'
   who: Alexey
+description: 'Master hackathons, MLH Fellowship & onboarding: organize events, judge
+  with scoring matrices, scale open-source mentorships to onboard hireable contributors.'
+intro: How do you run hackathons and scale MLH‑style open source fellowships while
+  actually getting contributors onboarded, mentored, and judged fairly? In this episode
+  Will Russell — Developer Advocate at Kestra who previously built open source education
+  programs — walks through practical approaches to organizing hackathons and fellowship
+  programs that move people from first contribution to sustained involvement. <br><br>
+  We cover formats and online tools for running events, leadership and soft skills
+  for coordination, judging strategies (scoring matrices, categories, tie‑breakers),
+  and sponsor‑driven challenges. Will shares the MLH Fellowship mentorship model,
+  contribution best practices (PR quality, Git skills), and concrete onboarding tactics
+  for complex repos — including environment setup, maintainer collaboration, and cloud
+  workarounds like Colab and VMs. A Willmojis case study highlights image recognition
+  and demo workflow ideas. The conversation also addresses program scalability, budgets,
+  accessibility for students and career changers, and how developer advocacy, documentation,
+  and video demos support adoption. <br><br> Listen to learn actionable frameworks
+  for organizing hackathons, onboarding contributors, and scaling MLH‑style open source
+  fellowships so your program produces real contributions and sustainable community
+  growth.
+dateadded: '2025-05-26'
+duration: PT01H01M29S
+quotableClips:
+- name: Episode Opening & Guest Overview
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=0
+  endOffset: 201
+- name: 'Video Production Setup: Camera, Lens & Webcam Workflow'
+  startOffset: 201
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=201
+  endOffset: 343
+- name: 'Audio Setup: Microphone, Preamp & Pop Filtering'
+  startOffset: 343
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=343
+  endOffset: 415
+- name: 'Lighting Strategy: 45° Key Light & Background Separation'
+  startOffset: 415
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=415
+  endOffset: 641
+- name: Early Career & Hackathon Discovery
+  startOffset: 641
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=641
+  endOffset: 706
+- name: 'Hackathons as Learning: Git, Teamwork & Building Projects'
+  startOffset: 706
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=706
+  endOffset: 736
+- name: 'Open Source Education Programs: Path from Contract to Full-Time'
+  startOffset: 736
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=736
+  endOffset: 964
+- name: 'Organizing Hackathons: Leadership, Coordination & Soft Skills'
+  startOffset: 964
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=964
+  endOffset: 1207
+- name: 'Career Trade-offs: Maintaining Technical Depth vs. Community Work'
+  startOffset: 1207
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=1207
+  endOffset: 1322
+- name: Role Variety at Small Companies vs. Specialized Teams
+  startOffset: 1322
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=1322
+  endOffset: 1398
+- name: 'Running Hackathons: Format, Online Tools & Office Hours'
+  startOffset: 1398
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=1398
+  endOffset: 1526
+- name: 'Judging Strategies: Scoring Matrices, Categories & Tie-Breakers'
+  startOffset: 1526
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=1526
+  endOffset: 1574
+- name: Sponsor-Driven Challenges & Themed Categories
+  startOffset: 1574
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=1574
+  endOffset: 1784
+- name: 'Case Study — Willmojis: Image Recognition, Font Generation & Demo'
+  startOffset: 1784
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=1784
+  endOffset: 2019
+- name: 'Major League Hacking (MLH): Community Support & Rep Experience'
+  startOffset: 2019
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2019
+  endOffset: 2143
+- name: 'MLH Fellowship: Mentorship Model & Contributing to Large Repos'
+  startOffset: 2143
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2143
+  endOffset: 2342
+- name: 'Contribution Best Practices: PR Quality, Git Skills & Onboarding'
+  startOffset: 2342
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2342
+  endOffset: 2476
+- name: 'Onboarding Complex Projects: Environment Setup & Maintainer Collaboration'
+  startOffset: 2476
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2476
+  endOffset: 2620
+- name: Hardware Constraints & Cloud Workarounds (Colab, VMs)
+  startOffset: 2620
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2620
+  endOffset: 2762
+- name: 'Program Scalability: Repeatability, Budgets & AI Opportunities'
+  startOffset: 2762
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2762
+  endOffset: 2890
+- name: 'Fellowship Accessibility: Students, Career Changers & Motivation'
+  startOffset: 2890
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2890
+  endOffset: 2954
+- name: 'Developer Advocacy at Kestra: Documentation, Demos & Outreach'
+  startOffset: 2954
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=2954
+  endOffset: 3109
+- name: 'Content Workflow: Bullet Points, Demos & Collaboration with Writers'
+  startOffset: 3109
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3109
+  endOffset: 3220
+- name: 'Video Strategy: Define Goal, Maintain Pace & Full Walkthroughs'
+  startOffset: 3220
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3220
+  endOffset: 3270
+- name: 'Feature Demo Example: "After Execution" Notifications in Workflows'
+  startOffset: 3270
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3270
+  endOffset: 3442
+- name: 'Learn with Kestra Series: Tool Tutorials (Docker, Postgres, Git)'
+  startOffset: 3442
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3442
+  endOffset: 3599
+- name: 'Leadership & Team Empowerment Recommendation: "Turn the Ship Around"'
+  startOffset: 3599
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3599
+  endOffset: 3689
+- name: Episode Closing & Call to Explore Kestra Content
+  startOffset: 3689
+  url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3689
+  endOffset: 3689
 ---
 
 Links:

@@ -1,0 +1,28 @@
+00:00:00 Episode Introduction: Human‑Centered AI for Disordered Speech
+00:08:06 Guest Introduction & Career Highlights (Katarzyna Foremniak)
+00:09:06 From Linguistics to Computational Linguistics: Transition & Skills
+00:13:22 Linguistics Meets Computer Science: Data‑driven Approaches
+00:15:25 Phonetics & Morpho‑syntax Explained: Core Concepts for ASR
+00:20:33 Phonetics and Speech Disorders: Articulation, Fluency, Voice Quality
+00:23:19 Accents vs Speech Disorders: Variation, Identity, and Comprehension
+00:24:41 ASR Progress: Modern Models (Whisper) and Improved Accent Handling
+00:27:31 ASR Fundamentals: Standard Speech Datasets and Reference Speech
+00:30:24 ASR Limitations with Atypical Speech: Training/Deployment Gaps
+00:30:53 Strategies for Disordered Speech Recognition: Specialized Datasets & Adaptation
+00:37:07 Data Augmentation for Disordered Speech: Synthetic Variations
+00:37:33 Multimodal ASR: Integrating Lip‑reading and Visual Cues
+00:40:17 Transfer Learning for ASR: Fine‑tuning with Limited Data
+00:41:10 Data Collection Challenges: GDPR, Clinical Data, Language Coverage
+00:42:18 Language & Dialect Effects: Bilingualism and Disorder Variability
+00:44:31 Stammering & Fluency Issues: Characteristics and Recognition Needs
+00:45:16 Pronunciation Challenges: Polish Consonant Clusters and Phonetics
+00:46:17 Practical Transcription Workflow: Amazon Transcribe + LLM Post‑processing
+00:47:28 Contextual Language Models in ASR: Meaning Preservation vs WER
+00:51:27 Utterance Analysis in ASR: Phonemes, Words, and Contextual Prediction
+00:54:05 Personalized ASR: User Adaptation, Fine‑tuning, and On‑device Setup
+00:58:00 Assistive Applications: Communication Tools for People with Disorders
+01:00:02 Model Size & Deployment Constraints: Mobile and Edge Considerations
+01:01:53 In‑Car Voice Recognition: Automotive Use Cases and Limitations
+01:03:27 Notable Failure Examples: Elevator/Car Voice Recognition Humor
+01:04:13 Closing Reflections: Human‑Centered AI Priorities & Further Reading
+01:05:25 Episode Sign‑off and Guest Thanks

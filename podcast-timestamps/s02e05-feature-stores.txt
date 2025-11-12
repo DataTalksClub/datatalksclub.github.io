@@ -1,0 +1,22 @@
+00:00:00 Episode Introduction: Feature Stores in MLOps
+00:02:00 Background: From Mechatronic Engineering to ML Platform Builder
+00:06:30 Feature Store Definition and Core ML Problems Addressed
+00:11:00 Transformations: From Raw Streams/Warehouses to Features
+00:14:30 Feature Creation vs Retrieval: SQL, Python, APIs, and On‑Demand Transforms
+00:16:30 Production Example: Real‑Time Fraud Detection Feature Lookup
+00:18:30 Hype vs Value: Why Feature Stores Matter in MLOps
+00:21:00 Organizational Challenges: Team Silos, Duplication, and Speed to Production
+00:25:00 Platform Role: Feature Stores within the ML Lifecycle
+00:28:00 Ideal Production Setup: Materialization, Serving, and Validation
+00:31:30 Feast Overview: Open‑Source Feature Store Design and Use Cases
+00:34:00 Tecton Overview: Enterprise Feature Platform and Full Lifecycle Support
+00:36:30 Architecture Breakdown: Transform Engine, Storage, Serving, Registry, Monitoring
+00:40:00 When to Adopt Feature Stores: Online Tabular Use Cases vs Overkill Scenarios
+00:42:30 Integrations: dbt, Kubeflow, Airflow, Warehouses, and ML Pipelines
+00:45:00 Streaming vs Batch: Flink, Spark, and Real‑Time Feature Engineering
+00:47:30 Validation and Monitoring: Drift Detection, Great Expectations, TFDV
+00:50:00 Backfilling and Materialization Strategies for Historical Features
+00:52:00 Feature Ownership, Governance, and Migration Strategies
+00:54:00 Practical Getting Started: feast.dev, Docker Examples, and Learning Resources
+00:56:00 Key Takeaways: Where Feature Stores Deliver Business Impact
+00:57:30 Episode Close and Further Resources

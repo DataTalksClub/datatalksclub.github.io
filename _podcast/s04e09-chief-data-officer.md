@@ -1,24 +1,22 @@
 ---
-title: "Chief Data Officer"
-short: "Chief Data Officer"
-guests: [marcodesa]
-
+title: 'Mastering the Chief Data Officer Role: Build Data Strategy, Org Design & AI'
+short: Chief Data Officer
+guests:
+- marcodesa
 image: images/podcast/s04e09-chief-data-officer.jpg
-
 season: 4
 episode: 9
-
 ids:
   youtube: IdaZOD46FEw
   anchor: Chief-Data-Officer---Marco-De-Sa-e16hm4t
-
 links:
   youtube: https://www.youtube.com/watch?v=IdaZOD46FEw
   anchor: https://anchor.fm/datatalksclub/episodes/Chief-Data-Officer---Marco-De-Sa-e16hm4t
   spotify: https://open.spotify.com/episode/64lEB0Wv0a6DfkDi672Ulk
   apple: https://podcasts.apple.com/us/podcast/chief-data-officer-marco-de-sa/id1541710331?i=1000533326308
-
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Overview: Marco''s Career & Roles'
 - line: This week, we'll talk about the role of a chief data officer. We have a special
     guest today, Marco. Marco is the chief data officer at OLX Group, which is the
     place where I work as well. So we are colleagues. Before OLX, Marco worked at
@@ -31,35 +29,35 @@ transcript:
   sec: 106
   time: '1:46'
   who: Marco
-- header: "Marco\u2019s background"
 - line: Before we go into our main topic of the role of a chief data officer, let's
     start with your background. Can you tell us about your career journey so far?
   sec: 132
   time: '2:12'
   who: Alexey
-- line: "I'll start all the way back. I'm Portuguese, I grew up in Portugal, I got\
-    \ a degree in computer science. Then I realised that I liked people more than\
-    \ I liked computers. I hope I don't offend anyone with this. This made me move\
-    \ more into trying to understand people and how they use computers. I still love\
-    \ technology, more so than just spending all my time with technology. Because\
-    \ of that, I ended up getting a master's in Information Systems, which is a way\
-    \ of getting information about how people are interacting with systems \u2014\
-    \ this is now called \"Data Science\". This was a long time ago. Then ended up\
-    \ getting a PhD in related topics, moving towards a qualitative understanding\
-    \ of users, like user research. That's my academic background. I had a lot of\
-    \ fun, I worked on quite a few different areas during my studies."
+- line: I'll start all the way back. I'm Portuguese, I grew up in Portugal, I got
+    a degree in computer science. Then I realised that I liked people more than I
+    liked computers. I hope I don't offend anyone with this. This made me move more
+    into trying to understand people and how they use computers. I still love technology,
+    more so than just spending all my time with technology. Because of that, I ended
+    up getting a master's in Information Systems, which is a way of getting information
+    about how people are interacting with systems — this is now called "Data Science".
+    This was a long time ago. Then ended up getting a PhD in related topics, moving
+    towards a qualitative understanding of users, like user research. That's my academic
+    background. I had a lot of fun, I worked on quite a few different areas during
+    my studies.
   sec: 144
   time: '2:24'
   who: Marco
-- line: "I ended up moving to the US where I joined Yahoo. I worked as a research\
-    \ scientist that included quite a bit of data science: pulling data and making\
-    \ sense of it, understanding opportunities to build innovation. To be totally\
-    \ transparent, it was quite detached from the product development happening in\
-    \ the company \u2014 looking further ahead, like 5-10 years out. I worked on things\
-    \ like augmented reality on mobile devices. This was over 10 years ago before\
-    \ Pokemon Go. Also, I worked on live video production before periscope existed,\
-    \ and a bunch of other fun projects. The goal was to publish patents, which is\
-    \ fine, but not a lot of impact."
+- header: 'Industry Experience: Yahoo, Facebook, Twitter, Spotify'
+- line: 'I ended up moving to the US where I joined Yahoo. I worked as a research
+    scientist that included quite a bit of data science: pulling data and making sense
+    of it, understanding opportunities to build innovation. To be totally transparent,
+    it was quite detached from the product development happening in the company —
+    looking further ahead, like 5-10 years out. I worked on things like augmented
+    reality on mobile devices. This was over 10 years ago before Pokemon Go. Also,
+    I worked on live video production before periscope existed, and a bunch of other
+    fun projects. The goal was to publish patents, which is fine, but not a lot of
+    impact.'
   sec: 203
   time: '3:23'
   who: Marco
@@ -88,6 +86,7 @@ transcript:
   sec: 317
   time: '5:17'
   who: Marco
+- header: Transition to OLX Group and CDO Appointment
 - line: Nine or so months ago, I moved back from the US to Europe, and I joined OLX
     Group, where I have the role of chief data officer. It's been a fun journey so
     far.
@@ -99,7 +98,7 @@ transcript:
   sec: 354
   time: '5:54'
   who: Alexey
-- header: Role of CDO
+- header: 'Chief Data Officer Scope: Data Strategy, Governance, AI'
 - line: Can you tell us what do you do at OLX as a chief data officer?
   sec: 368
   time: '6:08'
@@ -119,30 +118,30 @@ transcript:
   sec: 375
   time: '6:15'
   who: Marco
-- line: "That's quite a lot of things. I was also wondering what a CDO does, and I\
-    \ read an article before our char. It was about the role of CDO. Here is the summary.\
-    \ There are four main responsibilities. The first one is governance, which is\
-    \ monitoring and governing enterprise data. I think you mentioned governments\
-    \ as well. Then, operations \u2014 enabling data usability and availability. The\
-    \ third thing was innovation \u2014 driving cost reduction in generating revenue.\
-    \ The final one was analysis \u2014 supporting analytics and reporting. Is it\
-    \ an accurate description of the role? Or something is missing?"
+- header: Traditional Responsibilities vs Modern CDO Expectations
+- line: That's quite a lot of things. I was also wondering what a CDO does, and I
+    read an article before our char. It was about the role of CDO. Here is the summary.
+    There are four main responsibilities. The first one is governance, which is monitoring
+    and governing enterprise data. I think you mentioned governments as well. Then,
+    operations — enabling data usability and availability. The third thing was innovation
+    — driving cost reduction in generating revenue. The final one was analysis — supporting
+    analytics and reporting. Is it an accurate description of the role? Or something
+    is missing?
   sec: 437
   time: '7:17'
   who: Alexey
-- line: "It covers part of it. I think that's a more traditional, slightly outdated\
-    \ view on the chief data officer role. As we move forward, the integration with\
-    \ innovation, product development, business strategy becomes more noticeable \u2014\
-    \ that's such a crucial part of any business. It indicates how your business is\
-    \ performing, which ties it to analytics. But it also powers a lot of product\
-    \ development and product work. Having the right data to enable ML applications\
-    \ to solve different problems touches on the access and usability of that data,\
-    \ touches on the collection, safety, and use of that data. It also touches on\
-    \ understanding the problems that you're trying to solve \u2014 not just from\
-    \ an efficiency perspective of collecting, storing that data, making it accessible\
-    \ in an efficient way and innovating, but also understanding our user base \u2014\
-    \ our customers, both external and internal, so that we can use this data to solve\
-    \ their problems."
+- line: It covers part of it. I think that's a more traditional, slightly outdated
+    view on the chief data officer role. As we move forward, the integration with
+    innovation, product development, business strategy becomes more noticeable — that's
+    such a crucial part of any business. It indicates how your business is performing,
+    which ties it to analytics. But it also powers a lot of product development and
+    product work. Having the right data to enable ML applications to solve different
+    problems touches on the access and usability of that data, touches on the collection,
+    safety, and use of that data. It also touches on understanding the problems that
+    you're trying to solve — not just from an efficiency perspective of collecting,
+    storing that data, making it accessible in an efficient way and innovating, but
+    also understanding our user base — our customers, both external and internal,
+    so that we can use this data to solve their problems.
   sec: 501
   time: '8:21'
   who: Marco
@@ -156,6 +155,7 @@ transcript:
   sec: 572
   time: '9:32'
   who: Marco
+- header: 'Future-Proofing Data: Collecting for Tomorrow''s Products'
 - line: 'One point is not clearly articulated in this list: it''s the responsibility
     to look forward and design for the future and for data. Data is going to continue
     powering innovation. The more data you have, the more you''ll be able to do it.
@@ -169,7 +169,7 @@ transcript:
   sec: 619
   time: '10:19'
   who: Marco
-- header: Keeping track of many things
+- header: Delegation and Organisational Design for Data Leadership
 - line: So you need to think about all these things? I don't know how many things
     you mentioned, five or six? How is it even possible for a single person to keep
     track of all that? I imagine that you don't just go there and then analyze data,
@@ -179,18 +179,18 @@ transcript:
   sec: 700
   time: '11:40'
   who: Alexey
-- line: "Well, they're all, to some extent, related. The production of data, the collection\
-    \ of data, the access to that data, the utilisation, modelling that data so it\
-    \ can be used in different contexts, thinking about those contexts. Ultimately,\
-    \ it comes down to working with different people. No single person can have the\
-    \ answers for all the questions that have to do with data, and all the applications\
-    \ of that data in whatever business context. Building the right teams, having\
-    \ the right teams, having the right people that know much better than me what\
-    \ to do. I can offer the context, the resources, or the support for them to drive\
-    \ aspects of the vision that is created jointly. That's the key to success in\
-    \ the organisation where we have a complex set of goals that interact with each\
-    \ other \u2014 having the right people that share that vision, can communicate\
-    \ that vision, and work together to deliver it."
+- line: Well, they're all, to some extent, related. The production of data, the collection
+    of data, the access to that data, the utilisation, modelling that data so it can
+    be used in different contexts, thinking about those contexts. Ultimately, it comes
+    down to working with different people. No single person can have the answers for
+    all the questions that have to do with data, and all the applications of that
+    data in whatever business context. Building the right teams, having the right
+    teams, having the right people that know much better than me what to do. I can
+    offer the context, the resources, or the support for them to drive aspects of
+    the vision that is created jointly. That's the key to success in the organisation
+    where we have a complex set of goals that interact with each other — having the
+    right people that share that vision, can communicate that vision, and work together
+    to deliver it.
   sec: 731
   time: '12:11'
   who: Marco
@@ -202,17 +202,17 @@ transcript:
   sec: 791
   time: '13:11'
   who: Alexey
-- line: "Yes, I think so. To some extent, the organisational design varies depending\
-    \ on many things. Companies are more and more distributed. Teams sometimes should\
-    \ be together, sometimes separate. There are various types of organisations. But\
-    \ absolutely, my role is to enable, extract the information and division from\
-    \ those different teams and try to articulate it into a single vision, a single\
-    \ strategy that makes sense for the business and also continuously delivers value\
-    \ to our users \u2014 which is the biggest driver of the business."
+- line: Yes, I think so. To some extent, the organisational design varies depending
+    on many things. Companies are more and more distributed. Teams sometimes should
+    be together, sometimes separate. There are various types of organisations. But
+    absolutely, my role is to enable, extract the information and division from those
+    different teams and try to articulate it into a single vision, a single strategy
+    that makes sense for the business and also continuously delivers value to our
+    users — which is the biggest driver of the business.
   sec: 827
   time: '13:47'
   who: Marco
-- header: Becoming a CDO
+- header: 'Career Progression: From Head of Data to CDO'
 - line: 'Thanks! We already have a question: "What skills are necessary to go from
     head of data science or analytics to CDO?" This is something I also wanted to
     ask you. At some point, you were probably also a head of something, and then you
@@ -250,7 +250,7 @@ transcript:
   sec: 988
   time: '16:28'
   who: Marco
-- header: Strategy vs tactics
+- header: 'Strategy vs Tactics: Vision, KPIs, and Execution'
 - line: 'So, to summarise: you need to become more strategic, always keep the big
     picture in your mind, have this vision. I''m curious, when people say "you need
     to be more strategic", what do they mean? Then we also talk about strategy vs
@@ -289,7 +289,7 @@ transcript:
   sec: 1190
   time: '19:50'
   who: Marco
-- header: VP of Data vs CDO
+- header: 'CDO vs VP of Data: Scope, Influence, and Proactivity'
 - line: There is this role called "VP of Data". What's the difference between VP of
     Data and CDO? And, in general, we have CTO and VP of engineering, we have CPO
     (Chief Product Officer) and VP of product, and we have CDO and VP of data. And
@@ -312,12 +312,12 @@ transcript:
   sec: 1264
   time: '21:04'
   who: Marco
-- line: "I'm trying to think of an example. The goal could be \"make X amount of money\"\
-    , or \"X amount of market share\" or something like this. This would be a strategic\
-    \ goal. This is where we want to be in three years. Then you think \"We have this\
-    \ goal. How do we set our strategy to be there?\". Then you look at all these\
-    \ pillars, and try to understand what needs to happen \u2014 from the data point\
-    \ of view \u2014 to actually get that market share, right?"
+- line: I'm trying to think of an example. The goal could be "make X amount of money",
+    or "X amount of market share" or something like this. This would be a strategic
+    goal. This is where we want to be in three years. Then you think "We have this
+    goal. How do we set our strategy to be there?". Then you look at all these pillars,
+    and try to understand what needs to happen — from the data point of view — to
+    actually get that market share, right?
   sec: 1349
   time: '22:29'
   who: Alexey
@@ -348,7 +348,7 @@ transcript:
   sec: 1414
   time: '23:34'
   who: Marco
-- header: How many VPs of Data could be there?
+- header: 'Structuring a Data Org: Multiple VPs and Reporting Lines'
 - line: Do CDOs usually have multiple VPs reporting to them or just one VP of Data?
   sec: 1495
   time: '24:55'
@@ -368,7 +368,7 @@ transcript:
   sec: 1503
   time: '25:03'
   who: Marco
-- header: Splitting the work between VP and CDO
+- header: 'Splitting Work: CDO Responsibilities vs VP Execution'
 - line: 'A few companies back at work as a company where we had a CTO, and the CTO
     had one VP of engineering reporting to him. That situation seemed pretty strange
     to me. It looked like the VP is doing all the work. And the CTO actually just
@@ -392,28 +392,28 @@ transcript:
   sec: 1621
   time: '27:01'
   who: Marco
-- header: Difference between CTO, CPO, and CDO
-- line: "Do you know what's the main difference between CTO, CPO, and CDO? When I\
-    \ look at the top management \u2014 it's all about meetings, setting strategy,\
-    \ planning for budgets. These responsibilities look pretty similar. So what's\
-    \ the core difference between all these roles?"
+- header: Differentiating CTO, CPO, and CDO Roles
+- line: Do you know what's the main difference between CTO, CPO, and CDO? When I look
+    at the top management — it's all about meetings, setting strategy, planning for
+    budgets. These responsibilities look pretty similar. So what's the core difference
+    between all these roles?
   sec: 1682
   time: '28:02'
   who: Alexey
-- line: "It depends on the type of company and the type of product. In some cases,\
-    \ the product is more technology-related \u2014 if you're building a framework\
-    \ or a platform that other companies are going to use, versus building something\
-    \ for usual users. It varies quite a bit. Typically a CPO is more focused on determining\
-    \ the product vision. What is the product supposed to do? CPO then works with\
-    \ CTO, who is focused on \"how do we build that\" and \"how we use technology\
-    \ to make that vision come to life\". The CDO is more concerned with \"what data\
-    \ do we have that enables us to build that, to inform the direction that we're\
-    \ going in, and to continue pushing that vision forward\". That could be a high-level\
-    \ theoretical division of responsibilities. But it depends a lot. For some companies,\
-    \ their product is data. Their CEO can likely fulfil both roles. I've seen places\
-    \ where all those roles are combined. And I've seen places where they're clearly\
-    \ differentiated because that's the nature of the product and their technology\
-    \ stack as well as the data they produce or consume."
+- line: It depends on the type of company and the type of product. In some cases,
+    the product is more technology-related — if you're building a framework or a platform
+    that other companies are going to use, versus building something for usual users.
+    It varies quite a bit. Typically a CPO is more focused on determining the product
+    vision. What is the product supposed to do? CPO then works with CTO, who is focused
+    on "how do we build that" and "how we use technology to make that vision come
+    to life". The CDO is more concerned with "what data do we have that enables us
+    to build that, to inform the direction that we're going in, and to continue pushing
+    that vision forward". That could be a high-level theoretical division of responsibilities.
+    But it depends a lot. For some companies, their product is data. Their CEO can
+    likely fulfil both roles. I've seen places where all those roles are combined.
+    And I've seen places where they're clearly differentiated because that's the nature
+    of the product and their technology stack as well as the data they produce or
+    consume.
   sec: 1710
   time: '28:30'
   who: Marco
@@ -430,19 +430,19 @@ transcript:
   sec: 1792
   time: '29:52'
   who: Alexey
-- line: "Yeah, VP of data \u2014 or whatever the titles are in that organisation.\
-    \ I would again add that the responsibilities of those three C-level types of\
-    \ roles are beyond just executing or breaking down the strategy from the CEO into\
-    \ the specific functions that they represent. It's also to provide input and offer\
-    \ a vision of the future that the CEO can put together and help ensure that he\
-    \ enables the other C-level executives to deliver that. It's more of a proactive\
-    \ role, where you're not just delivering against something that is asked of you,\
-    \ you're offering opportunities to the person that can help you make those decisions\
-    \ or make those decisions for them."
+- line: Yeah, VP of data — or whatever the titles are in that organisation. I would
+    again add that the responsibilities of those three C-level types of roles are
+    beyond just executing or breaking down the strategy from the CEO into the specific
+    functions that they represent. It's also to provide input and offer a vision of
+    the future that the CEO can put together and help ensure that he enables the other
+    C-level executives to deliver that. It's more of a proactive role, where you're
+    not just delivering against something that is asked of you, you're offering opportunities
+    to the person that can help you make those decisions or make those decisions for
+    them.
   sec: 1860
   time: '31:00'
   who: Marco
-- header: Breaking down the goals and working backwards from them
+- header: 'Working Backwards: Goals to Data Platform & ML Investment'
 - line: You mentioned at some point something like "if we do these five things, then
     we will achieve this goal". I'm wondering, how do you come up with these things?
     How do you know if we need to invest in a data platform? Or how do you know if
@@ -465,14 +465,14 @@ transcript:
   sec: 1946
   time: '32:26'
   who: Marco
-- line: "That's how I set goals. First I understanding what are the big problems around\
-    \ us from a user perspective, from a business perspective, from an organisation\
-    \ or technological perspective. Then I see which ones that we can solve will drive\
-    \ the most impact and get us closer to that shared vision \u2014 not just the\
-    \ data vision, but the shared vision for the company. Then I work back from those\
-    \ and understand what we need to do to get here. For example, we now have multiple\
-    \ platforms. That slows us down. If we have a common one, then we agree that we\
-    \ all can move faster. So let's build that together."
+- line: That's how I set goals. First I understanding what are the big problems around
+    us from a user perspective, from a business perspective, from an organisation
+    or technological perspective. Then I see which ones that we can solve will drive
+    the most impact and get us closer to that shared vision — not just the data vision,
+    but the shared vision for the company. Then I work back from those and understand
+    what we need to do to get here. For example, we now have multiple platforms. That
+    slows us down. If we have a common one, then we agree that we all can move faster.
+    So let's build that together.
   sec: 1999
   time: '33:19'
   who: Marco
@@ -490,7 +490,7 @@ transcript:
   sec: 2052
   time: '34:12'
   who: Alexey
-- header: "Assessing if we\u2019re moving in the right direction"
+- header: 'Measuring Progress: Metrics, Accountability, and Visibility'
 - line: Exactly. An essential component of that is aligning on how to assess whether
     we're moving in the right direction. What are the metrics that help us understand
     whether we're achieving our goal? Of course, you have to have some level of trust
@@ -523,19 +523,19 @@ transcript:
   sec: 2168
   time: '36:08'
   who: Marco
-- header: Dealing with many meetings
+- header: 'Meeting Load: Time Management for Senior Data Leaders'
 - line: I'm curious how many meetings per day do you have to be able to do all that.
     To align with all these people, your day must be full of meetings?
   sec: 2205
   time: '36:45'
   who: Alexey
-- line: "It is pretty full. I, fortunately, benefit from having someone who helps\
-    \ me manage my calendar. I also have an amazing set of teams that I work directly\
-    \ with \u2014 either under me or across our group that I collaborate with. This\
-    \ helps me minimise the meetings. But, nonetheless, I have around 8-10 meetings\
-    \ today, on a regular cadence. I'm trying to reduce that \u2014 to have more time\
-    \ to think long-term and articulate some of those visions and strategies for the\
-    \ rest of the organisation. But right now, it's a pretty jam-packed schedule."
+- line: It is pretty full. I, fortunately, benefit from having someone who helps me
+    manage my calendar. I also have an amazing set of teams that I work directly with
+    — either under me or across our group that I collaborate with. This helps me minimise
+    the meetings. But, nonetheless, I have around 8-10 meetings today, on a regular
+    cadence. I'm trying to reduce that — to have more time to think long-term and
+    articulate some of those visions and strategies for the rest of the organisation.
+    But right now, it's a pretty jam-packed schedule.
   sec: 2223
   time: '37:03'
   who: Marco
@@ -544,57 +544,56 @@ transcript:
   sec: 2264
   time: '37:44'
   who: Alexey
-- line: "I have a few things that work well for me. One is I like some of the meetings\
-    \ that I have. Some become tedious. But, in general, I like the meetings that\
-    \ I have because I typically learn something from them. And I also like the people\
-    \ that I work with. I'm very lucky to be part of a broad team that has fantastic\
-    \ people that I enjoy \u2014 even through zoom \u2014 spending time with. That's\
-    \ one of the benefits that I'm lucky to have."
+- line: I have a few things that work well for me. One is I like some of the meetings
+    that I have. Some become tedious. But, in general, I like the meetings that I
+    have because I typically learn something from them. And I also like the people
+    that I work with. I'm very lucky to be part of a broad team that has fantastic
+    people that I enjoy — even through zoom — spending time with. That's one of the
+    benefits that I'm lucky to have.
   sec: 2274
   time: '37:54'
   who: Marco
-- line: "I also try to plan ahead. Again, I benefit from someone who helps me manage\
-    \ my schedule and organise it in a way that makes sense and I can prepare for.\
-    \ That helps quite a bit. I don't have to switch too much context. A simple example\
-    \ is having one-on-ones with my reports in one day, more strategic discussions\
-    \ with external people in another day, with internal people \u2014 on another\
-    \ day, team meetings \u2014 different day. Having a bit of that structure helps\
-    \ quite a bit."
+- line: I also try to plan ahead. Again, I benefit from someone who helps me manage
+    my schedule and organise it in a way that makes sense and I can prepare for. That
+    helps quite a bit. I don't have to switch too much context. A simple example is
+    having one-on-ones with my reports in one day, more strategic discussions with
+    external people in another day, with internal people — on another day, team meetings
+    — different day. Having a bit of that structure helps quite a bit.
   sec: 2302
   time: '38:22'
   who: Marco
-- line: "There are more techniques like documenting, taking notes, making sure that\
-    \ there's an action that takes place after the meeting so that the meeting is\
-    \ fruitful \u2014 when we move forward, we don't have to revisit the same issue\
-    \ over and over again in subsequent meetings."
+- line: There are more techniques like documenting, taking notes, making sure that
+    there's an action that takes place after the meeting so that the meeting is fruitful
+    — when we move forward, we don't have to revisit the same issue over and over
+    again in subsequent meetings.
   sec: 2339
   time: '38:59'
   who: Marco
-- line: "Also, everything that I do outside of work helps. Sport helped me separate\
-    \ from the zoom world that we live in right now, clear up my mind, focus on different\
-    \ things. Taking different projects within work helps as well \u2014 projects\
-    \ that have to do with diversity and inclusion. I'm passionate about them and\
-    \ they are not so related to the things that I do on a daily basis. It helps me\
-    \ switch context and have my brain thinking about different problems. That helps.\
-    \ Otherwise, you get too closed up in one specific problem and it limits your\
-    \ ability to think through it."
+- line: Also, everything that I do outside of work helps. Sport helped me separate
+    from the zoom world that we live in right now, clear up my mind, focus on different
+    things. Taking different projects within work helps as well — projects that have
+    to do with diversity and inclusion. I'm passionate about them and they are not
+    so related to the things that I do on a daily basis. It helps me switch context
+    and have my brain thinking about different problems. That helps. Otherwise, you
+    get too closed up in one specific problem and it limits your ability to think
+    through it.
   sec: 2355
   time: '39:15'
   who: Marco
-- header: Being more effective
+- header: 'Productivity Practices: Documentation, Async, and Slack'
 - line: Thanks. Do you use any productivity tools? You mentioned somebody manages
     your calendar. Do you use any tools on top of that to help you be more effective?
   sec: 2396
   time: '39:56'
   who: Alexey
-- line: "There are some traditional communication tools that I use, like chat rooms\
-    \ and platforms to communicate with my team. Documentation is a pretty powerful\
-    \ way of sharing vision, collecting feedback without necessarily having to spend\
-    \ time in a meeting. Doing so offline, asynchronously helps. Also synchronously.\
-    \ Being available to have a quick conversation sometimes can solve a problem and\
-    \ avoid a meeting \u2014 just by chatting with someone for a couple of minutes.\
-    \ Those tools helped my productivity. Basically, it's just keeping a structured\
-    \ schedule, and being able to take short breaks helps quite a bit."
+- line: There are some traditional communication tools that I use, like chat rooms
+    and platforms to communicate with my team. Documentation is a pretty powerful
+    way of sharing vision, collecting feedback without necessarily having to spend
+    time in a meeting. Doing so offline, asynchronously helps. Also synchronously.
+    Being available to have a quick conversation sometimes can solve a problem and
+    avoid a meeting — just by chatting with someone for a couple of minutes. Those
+    tools helped my productivity. Basically, it's just keeping a structured schedule,
+    and being able to take short breaks helps quite a bit.
   sec: 2416
   time: '40:16'
   who: Marco
@@ -612,16 +611,16 @@ transcript:
   sec: 2488
   time: '41:28'
   who: Alexey
-- line: "If you can solve the problem through Slack, which often is the case, you\
-    \ don't have to have the meeting. But in some situations, Slack will expedite\
-    \ the meeting, because you come in with some context already. You discuss, read\
-    \ some documentation. This is something that we're adopting now \u2014 reading\
-    \ whatever context you have before the meeting starts, or right at the beginning\
-    \ of the meeting. It expedites the conversation and discussion quite a bit."
+- line: If you can solve the problem through Slack, which often is the case, you don't
+    have to have the meeting. But in some situations, Slack will expedite the meeting,
+    because you come in with some context already. You discuss, read some documentation.
+    This is something that we're adopting now — reading whatever context you have
+    before the meeting starts, or right at the beginning of the meeting. It expedites
+    the conversation and discussion quite a bit.
   sec: 2491
   time: '41:31'
   who: Marco
-- header: Building the data-driven culture
+- header: 'Building a Data-Driven Culture: Democratization & Usability'
 - line: Thanks! We have quite a few questions from the audience. Is the CDO responsible
     for building a data-driven culture? How a CDO can achieve that?
   sec: 2522
@@ -644,25 +643,24 @@ transcript:
   sec: 2552
   time: '42:32'
   who: Alexey
-- line: "Anyone in the organisation has to make decisions. You can always make better\
-    \ decisions if you have some level of information and data or evidence. That enables\
-    \ you to make a smart decision. It's especially the CDO's role to enable a company\
-    \ or a culture to be data-driven. First, people need to understand that data plays\
-    \ a role and be eager to have that data \u2014 to help them make great decisions.\
-    \ The CDO and the data teams have to make sure that when people need data, they\
-    \ have that available. They also think ahead and provide data that will be useful\
-    \ at some point. They make sure that people are aware and have access to that\
-    \ data."
+- line: Anyone in the organisation has to make decisions. You can always make better
+    decisions if you have some level of information and data or evidence. That enables
+    you to make a smart decision. It's especially the CDO's role to enable a company
+    or a culture to be data-driven. First, people need to understand that data plays
+    a role and be eager to have that data — to help them make great decisions. The
+    CDO and the data teams have to make sure that when people need data, they have
+    that available. They also think ahead and provide data that will be useful at
+    some point. They make sure that people are aware and have access to that data.
   sec: 2557
   time: '42:37'
   who: Marco
-- line: "That comes back to data usability. It's not just for algorithms and products\
-    \ to use this \u2014 it's also for people to use to make decisions. It ties it\
-    \ very closely to analytics, which is another component of the role. That's the\
-    \ CDO's responsibility to ensure that it's set in place: the data is well democratised,\
-    \ accessible, easy to use, and quick to use \u2014 in a way that you can make\
-    \ fast decisions. That means not just looking at data, but also producing and\
-    \ leveraging that data to generate insights."
+- line: 'That comes back to data usability. It''s not just for algorithms and products
+    to use this — it''s also for people to use to make decisions. It ties it very
+    closely to analytics, which is another component of the role. That''s the CDO''s
+    responsibility to ensure that it''s set in place: the data is well democratised,
+    accessible, easy to use, and quick to use — in a way that you can make fast decisions.
+    That means not just looking at data, but also producing and leveraging that data
+    to generate insights.'
   sec: 2601
   time: '43:21'
   who: Marco
@@ -672,25 +670,25 @@ transcript:
   sec: 2636
   time: '43:56'
   who: Alexey
-- header: Challenges of working remotely
+- header: 'Remote Leadership: Challenges of Managing Distributed Teams'
 - line: Do you feel that remote work is challenging your role? Especially when you
     manage your team?
   sec: 2652
   time: '44:12'
   who: Alexey
-- line: "Absolutely, yes. Full transparency, I haven't met the people in my team.\
-    \ I've never been to an office. I joined OLX after the pandemic and after this\
-    \ remote work started. It has not been limiting. It hasn't prevented me from doing\
-    \ the things that I want to do. But of course, it is a challenge. It's hard to\
-    \ build relationships, to get to know people on a more personal level \u2014 which\
-    \ helps some discussions to take place, understand people's motivations, what\
-    \ makes them tick. I think it's a really important component of working with others.\
-    \ Doing that through a little window in your computer is much harder than doing\
-    \ that in face-to-face situations at the office where you spontaneously meet someone,\
-    \ a conversation comes up. You have ideas, you exchange ideas. It is challenging.\
-    \ Absolutely. It hasn't prevented me from achieving the things that I wanted,\
-    \ but it likely has caused more work and more investment into some of those relationships\
-    \ that I have to do in the virtual world that we live in right now."
+- line: Absolutely, yes. Full transparency, I haven't met the people in my team. I've
+    never been to an office. I joined OLX after the pandemic and after this remote
+    work started. It has not been limiting. It hasn't prevented me from doing the
+    things that I want to do. But of course, it is a challenge. It's hard to build
+    relationships, to get to know people on a more personal level — which helps some
+    discussions to take place, understand people's motivations, what makes them tick.
+    I think it's a really important component of working with others. Doing that through
+    a little window in your computer is much harder than doing that in face-to-face
+    situations at the office where you spontaneously meet someone, a conversation
+    comes up. You have ideas, you exchange ideas. It is challenging. Absolutely. It
+    hasn't prevented me from achieving the things that I wanted, but it likely has
+    caused more work and more investment into some of those relationships that I have
+    to do in the virtual world that we live in right now.
   sec: 2660
   time: '44:20'
   who: Marco
@@ -711,23 +709,23 @@ transcript:
   sec: 2771
   time: '46:11'
   who: Alexey
-- line: "Absolutely. It brings advantages as well. It's not just problems or challenges.\
-    \ You can now have access to talent that would never want to relocate. You can\
-    \ employ them and benefit from their amazing skills, creativity, ideas, and perspectives.\
-    \ That is amazing. It opens doors for a lot of things \u2014 for people to live\
-    \ where they want to live and still work for the companies that they want to work\
-    \ at, that have the missions that they're passionate about. It's a fantastic thing."
+- line: Absolutely. It brings advantages as well. It's not just problems or challenges.
+    You can now have access to talent that would never want to relocate. You can employ
+    them and benefit from their amazing skills, creativity, ideas, and perspectives.
+    That is amazing. It opens doors for a lot of things — for people to live where
+    they want to live and still work for the companies that they want to work at,
+    that have the missions that they're passionate about. It's a fantastic thing.
   sec: 2790
   time: '46:30'
   who: Marco
-- line: "I am also very sensitive to the fact that it's not the same for everyone.\
-    \ Some people love it and will thrive in that environment. Some people \u2014\
-    \ and I know quite a few people like this \u2014 still crave that human connection\
-    \ that they get out of the office. Also, the fact that it gets them out of the\
-    \ house, they get to spend time with others, go for lunch during your lunch break.\
-    \ So it brings a lot of options and it has a lot of benefits that we're still\
-    \ starting to observe, but it's hard to debate that it also brings some challenges,\
-    \ especially for certain people."
+- line: I am also very sensitive to the fact that it's not the same for everyone.
+    Some people love it and will thrive in that environment. Some people — and I know
+    quite a few people like this — still crave that human connection that they get
+    out of the office. Also, the fact that it gets them out of the house, they get
+    to spend time with others, go for lunch during your lunch break. So it brings
+    a lot of options and it has a lot of benefits that we're still starting to observe,
+    but it's hard to debate that it also brings some challenges, especially for certain
+    people.
   sec: 2823
   time: '47:03'
   who: Marco
@@ -737,25 +735,24 @@ transcript:
   sec: 2862
   time: '47:42'
   who: Alexey
-- header: Does CDO need deep technical skills?
+- header: 'Technical Skills for CDOs: Breadth vs Depth (ML, SQL, Engineering)'
 - line: Do you think that the CDO role requires deep technical skills? What kind of
     technical expertise is needed for the role? Machine learning, programming, SQL?
     Something else?
   sec: 2884
   time: '48:04'
   who: Alexey
-- line: "You can always benefit from having the technical skills. But the role relies\
-    \ more on being able to look across, find touchpoints between different parts\
-    \ of the strategy, different organisations, different pillars. But data and data\
-    \ science \u2014 from applied ML to data engineering, to analytics and insights\
-    \ \u2014 all those things are continuing to grow as we collect more data and learning\
-    \ new ways of using it. So it benefits us more to have a good technical background\
-    \ \u2014 at least it has benefited me more. It helps to have a good level of understanding\
-    \ of the technical portions of it. You don't necessarily need to be too deep into\
-    \ one specific area. That can be an advantage in certain contexts. But for me,\
-    \ understanding and being able to converse and articulate my perspective in different\
-    \ areas was more useful than being able to dive very, very deep into one specific\
-    \ area."
+- line: You can always benefit from having the technical skills. But the role relies
+    more on being able to look across, find touchpoints between different parts of
+    the strategy, different organisations, different pillars. But data and data science
+    — from applied ML to data engineering, to analytics and insights — all those things
+    are continuing to grow as we collect more data and learning new ways of using
+    it. So it benefits us more to have a good technical background — at least it has
+    benefited me more. It helps to have a good level of understanding of the technical
+    portions of it. You don't necessarily need to be too deep into one specific area.
+    That can be an advantage in certain contexts. But for me, understanding and being
+    able to converse and articulate my perspective in different areas was more useful
+    than being able to dive very, very deep into one specific area.
   sec: 2896
   time: '48:16'
   who: Marco
@@ -772,21 +769,21 @@ transcript:
   sec: 2979
   time: '49:39'
   who: Marco
-- header: Importance of MBA
+- header: 'Business Education: MBA Value for Executive Data Roles'
 - line: What do you think about MBA? Do CDOs need an MBA to be successful?
   sec: 3020
   time: '50:20'
   who: Alexey
-- line: "I wouldn't say they need one. I don't have one and I'm in this role. Well,\
-    \ we'll see over time about the \"successful\" part. I think it's likely beneficial.\
-    \ Any type of education that gives you a different perspective \u2014 especially\
-    \ the one about understanding your business and managing your business \u2014\
-    \ is likely to be beneficial. In any executive or C-level role, you have to understand\
-    \ that business. You cannot just understand your function and your craft. You\
-    \ have to understand how to use it to drive the business. An MBA prepares you\
-    \ for that. I don't have one, I've never gone through the process of getting one.\
-    \ And I've met many CEOs, CTOs, CPOs without MBAs that are very successful. So\
-    \ it's not a requirement. But it's likely helpful."
+- line: I wouldn't say they need one. I don't have one and I'm in this role. Well,
+    we'll see over time about the "successful" part. I think it's likely beneficial.
+    Any type of education that gives you a different perspective — especially the
+    one about understanding your business and managing your business — is likely to
+    be beneficial. In any executive or C-level role, you have to understand that business.
+    You cannot just understand your function and your craft. You have to understand
+    how to use it to drive the business. An MBA prepares you for that. I don't have
+    one, I've never gone through the process of getting one. And I've met many CEOs,
+    CTOs, CPOs without MBAs that are very successful. So it's not a requirement. But
+    it's likely helpful.
   sec: 3028
   time: '50:28'
   who: Marco
@@ -803,26 +800,26 @@ transcript:
   sec: 3102
   time: '51:42'
   who: Alexey
-- line: "Exactly, it can be very useful. It can prepare you well for certain problems.\
-    \ But in the case of Zuck or any of those very successful CEOs, they're just really\
-    \ smart people. They can accumulate a lot of knowledge from the experiences that\
-    \ they go through, the challenges that they overcome, the failures that they have\
-    \ \u2014 that's something that often we don't talk about. Those very successful\
-    \ people went through a lot of failures as well. And they're able to learn from\
-    \ it. That experience, especially if you're managing a big business, is equivalent\
-    \ to \u2014 if not better than \u2014 an academic version of it."
+- line: Exactly, it can be very useful. It can prepare you well for certain problems.
+    But in the case of Zuck or any of those very successful CEOs, they're just really
+    smart people. They can accumulate a lot of knowledge from the experiences that
+    they go through, the challenges that they overcome, the failures that they have
+    — that's something that often we don't talk about. Those very successful people
+    went through a lot of failures as well. And they're able to learn from it. That
+    experience, especially if you're managing a big business, is equivalent to — if
+    not better than — an academic version of it.
   sec: 3104
   time: '51:44'
   who: Marco
-- header: The key skills for becoming a CDO
-- line: "Maybe this is one of the main skills \u2014 being able to learn from all\
-    \ this experience, to become a CDO. Because the next question is, \"What are the\
-    \ main key skills to be a successful CDO? And how to build the skills?\" We talked\
-    \ about this a bit at the beginning. You said \"You need to be more strategic.\
-    \ You need to have this big picture, vision. You need to always keep the business\
-    \ side in mind. Not just focus on data, but also think how is it helpful for the\
-    \ company in general? How do we work together with other functions like CPOs,\
-    \ CTOs?\". Is there something else that is very important to be a CDO?"
+- header: 'Essential Soft Skills: Communication, Empathy, Influence'
+- line: Maybe this is one of the main skills — being able to learn from all this experience,
+    to become a CDO. Because the next question is, "What are the main key skills to
+    be a successful CDO? And how to build the skills?" We talked about this a bit
+    at the beginning. You said "You need to be more strategic. You need to have this
+    big picture, vision. You need to always keep the business side in mind. Not just
+    focus on data, but also think how is it helpful for the company in general? How
+    do we work together with other functions like CPOs, CTOs?". Is there something
+    else that is very important to be a CDO?
   sec: 3138
   time: '52:18'
   who: Alexey
@@ -840,36 +837,35 @@ transcript:
   sec: 3191
   time: '53:11'
   who: Marco
-- header: Biggest challenges within OLX so far
-- line: "There is a question from somebody called \"Ioannis Z\" \u2014 sounds like\
-    \ somebody we both know. What was the biggest challenge within the group so far?\
-    \ Given that it's a pretty diverse group, both geographically and in terms of\
-    \ tech stacks and maturity?"
+- header: 'OLX Group Challenges: Geographic, Product, and Tech Complexity'
+- line: There is a question from somebody called "Ioannis Z" — sounds like somebody
+    we both know. What was the biggest challenge within the group so far? Given that
+    it's a pretty diverse group, both geographically and in terms of tech stacks and
+    maturity?
   sec: 3256
   time: '54:16'
   who: Alexey
-- line: "The biggest challenge is that we have a group that is fairly big. It has\
-    \ a set of different companies within it. Each of those companies operates in\
-    \ different regions and geographies, with different domains and business minds\
-    \ \u2014 all the way that from jobs and services to car transactions, to classifieds,\
-    \ to goods as well. There's a wide variety of business lines, problems, and user\
-    \ bases to deal with. That generates a lot of complexity. This is even exceeding\
-    \ the organisational complexity of us existing in multiple markets and not being\
-    \ able to travel and meet each other in person. That's been the biggest challenge\
-    \ \u2014 how complex it is."
+- line: The biggest challenge is that we have a group that is fairly big. It has a
+    set of different companies within it. Each of those companies operates in different
+    regions and geographies, with different domains and business minds — all the way
+    that from jobs and services to car transactions, to classifieds, to goods as well.
+    There's a wide variety of business lines, problems, and user bases to deal with.
+    That generates a lot of complexity. This is even exceeding the organisational
+    complexity of us existing in multiple markets and not being able to travel and
+    meet each other in person. That's been the biggest challenge — how complex it
+    is.
   sec: 3281
   time: '54:41'
   who: Marco
-- line: "It's also the most fun part \u2014 in addition to working with amazing people\
-    \ \u2014 is being able to immerse myself in so many different topics. You never\
-    \ get bored. There's so much stuff happening \u2014 all the way from online to\
-    \ offline. In some cases, some of our companies have inspection centres, and dealerships,\
-    \ and things like that. Those generate data, even though not collected in the\
-    \ same way. But it's relevant and we can use it in a smart way. There's so much\
-    \ opportunity for data, data science, analytics. All of those things play an important\
-    \ role and solve big problems for our users and for the business. It's an awesome\
-    \ thing to be a part of. But it is challenging. There's a lot to wrap your mind\
-    \ around."
+- line: It's also the most fun part — in addition to working with amazing people —
+    is being able to immerse myself in so many different topics. You never get bored.
+    There's so much stuff happening — all the way from online to offline. In some
+    cases, some of our companies have inspection centres, and dealerships, and things
+    like that. Those generate data, even though not collected in the same way. But
+    it's relevant and we can use it in a smart way. There's so much opportunity for
+    data, data science, analytics. All of those things play an important role and
+    solve big problems for our users and for the business. It's an awesome thing to
+    be a part of. But it is challenging. There's a lot to wrap your mind around.
   sec: 3331
   time: '55:31'
   who: Marco
@@ -882,24 +878,23 @@ transcript:
   sec: 3391
   time: '56:31'
   who: Marco
-- header: Demonstrating the CDO skills on a job interview
+- header: 'Interviewing for CDO: Demonstrating Strategic Thinking'
 - line: We have a question from Carmine. Let's say somebody wants to interview and
     get hired for a CDO position. How can you demonstrate the skills we talked about,
     like looking across the organisation, creating synergies, and so, on that interview?
   sec: 3396
   time: '56:36'
   who: Alexey
-- line: "That's a tricky question. It depends on a lot of things. One, it depends\
-    \ on the skills that are necessary for that specific CDO role. We talked in the\
-    \ beginning, CDO roles can have different flavours and different organisations.\
-    \ The second one, it depends on the process. Some processes have a presentation\
-    \ where you have a case study. You need to demonstrate your communication skills\
-    \ by sharing what you thought. And your strategic skill by looking at the problem\
-    \ and thinking, \"Is this the real problem? Are there different problems associated\
-    \ with this one?\" Is this the right problem for us to be looking at?\". And then\
-    \ thinking how you can leverage different components \u2014 the resources, the\
-    \ teams and so on that you have to push that forward. In some cases, that will\
-    \ happen in one-on-one conversations."
+- line: That's a tricky question. It depends on a lot of things. One, it depends on
+    the skills that are necessary for that specific CDO role. We talked in the beginning,
+    CDO roles can have different flavours and different organisations. The second
+    one, it depends on the process. Some processes have a presentation where you have
+    a case study. You need to demonstrate your communication skills by sharing what
+    you thought. And your strategic skill by looking at the problem and thinking,
+    "Is this the real problem? Are there different problems associated with this one?"
+    Is this the right problem for us to be looking at?". And then thinking how you
+    can leverage different components — the resources, the teams and so on that you
+    have to push that forward. In some cases, that will happen in one-on-one conversations.
   sec: 3416
   time: '56:56'
   who: Marco
@@ -921,20 +916,20 @@ transcript:
   sec: 3516
   time: '58:36'
   who: Marco
-- line: "Some of these things are useful for any interview \u2014 doing this homework\
-    \ and trying to show that you care about the problem, understanding what the company\
-    \ is actually doing, what kind of problems they have. That is useful for anyone\
-    \ from a junior data scientist to a CDO."
+- line: Some of these things are useful for any interview — doing this homework and
+    trying to show that you care about the problem, understanding what the company
+    is actually doing, what kind of problems they have. That is useful for anyone
+    from a junior data scientist to a CDO.
   sec: 3534
   time: '58:54'
   who: Alexey
-- line: "Absolutely. Also, being honest about what you don't know, not being afraid\
-    \ to ask questions, and fail and say the wrong things in some situations \u2014\
-    \ because no one has the answer for everything."
+- line: Absolutely. Also, being honest about what you don't know, not being afraid
+    to ask questions, and fail and say the wrong things in some situations — because
+    no one has the answer for everything.
   sec: 3556
   time: '59:16'
   who: Marco
-- header: Overcoming resistance
+- header: 'Overcoming Resistance: Persuasion, Evidence, and Constraints'
 - line: Ricky says that he agrees 100% with the emphasis on strategic vision, and
     understanding the needs of the business. But how to overcome resistance to the
     details of your vision when somebody disagrees with that?
@@ -977,13 +972,13 @@ transcript:
   sec: 3703
   time: '1:01:43'
   who: Marco
-- header: Wrapping up
-- line: "Thanks, Marco. I hope it was a nice break from your usual routine. Thanks\
-    \ a lot for joining us today for answering all these questions, for sharing your\
-    \ experience with us. And thanks, everyone for being active and asking so many\
-    \ questions. I'm sorry that we didn't cover many questions \u2014 there are still\
-    \ eight questions. This topic must be quite interesting for everyone. Thanks,\
-    \ everyone, and thanks, Marco."
+- header: Closing Remarks and Key Takeaways
+- line: Thanks, Marco. I hope it was a nice break from your usual routine. Thanks
+    a lot for joining us today for answering all these questions, for sharing your
+    experience with us. And thanks, everyone for being active and asking so many questions.
+    I'm sorry that we didn't cover many questions — there are still eight questions.
+    This topic must be quite interesting for everyone. Thanks, everyone, and thanks,
+    Marco.
   sec: 3744
   time: '1:02:24'
   who: Alexey
@@ -1001,4 +996,132 @@ transcript:
   sec: 3789
   time: '1:03:09'
   who: Marco
+description: Learn how Chief Data Officers build data strategy, org design and roadmaps—get
+  tactics on governance, KPIs, delegation, career growth and remote leadership.
+intro: 'How do you move from head of data to an effective Chief Data Officer who builds
+  strategy, designs the org, and delivers AI? In this episode, Marco De Sa — CDO at
+  OLX Group with prior data leadership roles at Yahoo, Facebook, Twitter, and Spotify
+  — lays out what modern data leadership really requires. <br><br> We explore the
+  evolving CDO scope: data strategy, governance, and AI; balancing vision versus tactics;
+  and future-proofing data collection for tomorrow’s products. Marco breaks down organizational
+  design and delegation — when to hire multiple VPs, how CDO responsibilities differ
+  from VP, CTO and CPO roles, and how to structure reporting lines. Practical topics
+  include working backwards from goals to data platform and machine learning investment,
+  measuring progress with meaningful KPIs, time management and productivity for senior
+  data leaders, and managing distributed teams. <br><br> Listeners will walk away
+  with concrete frameworks for data strategy, org design, and building a data-driven
+  culture, plus career guidance for aspiring CDOs on technical breadth, soft skills,
+  interviewing, and overcoming resistance with evidence-based persuasion. Ideal for
+  data leaders and executives shaping data strategy, governance, and AI roadmaps.'
+dateadded: '2021-08-29'
+duration: PT01H01M51S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=0
+  endOffset: 78
+- name: 'Guest Overview: Marco''s Career & Roles'
+  startOffset: 78
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=78
+  endOffset: 203
+- name: 'Industry Experience: Yahoo, Facebook, Twitter, Spotify'
+  startOffset: 203
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=203
+  endOffset: 341
+- name: Transition to OLX Group and CDO Appointment
+  startOffset: 341
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=341
+  endOffset: 368
+- name: 'Chief Data Officer Scope: Data Strategy, Governance, AI'
+  startOffset: 368
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=368
+  endOffset: 437
+- name: Traditional Responsibilities vs Modern CDO Expectations
+  startOffset: 437
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=437
+  endOffset: 619
+- name: 'Future-Proofing Data: Collecting for Tomorrow''s Products'
+  startOffset: 619
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=619
+  endOffset: 700
+- name: Delegation and Organisational Design for Data Leadership
+  startOffset: 700
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=700
+  endOffset: 864
+- name: 'Career Progression: From Head of Data to CDO'
+  startOffset: 864
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=864
+  endOffset: 1057
+- name: 'Strategy vs Tactics: Vision, KPIs, and Execution'
+  startOffset: 1057
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=1057
+  endOffset: 1217
+- name: 'CDO vs VP of Data: Scope, Influence, and Proactivity'
+  startOffset: 1217
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=1217
+  endOffset: 1495
+- name: 'Structuring a Data Org: Multiple VPs and Reporting Lines'
+  startOffset: 1495
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=1495
+  endOffset: 1571
+- name: 'Splitting Work: CDO Responsibilities vs VP Execution'
+  startOffset: 1571
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=1571
+  endOffset: 1682
+- name: Differentiating CTO, CPO, and CDO Roles
+  startOffset: 1682
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=1682
+  endOffset: 1910
+- name: 'Working Backwards: Goals to Data Platform & ML Investment'
+  startOffset: 1910
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=1910
+  endOffset: 2083
+- name: 'Measuring Progress: Metrics, Accountability, and Visibility'
+  startOffset: 2083
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=2083
+  endOffset: 2205
+- name: 'Meeting Load: Time Management for Senior Data Leaders'
+  startOffset: 2205
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=2205
+  endOffset: 2396
+- name: 'Productivity Practices: Documentation, Async, and Slack'
+  startOffset: 2396
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=2396
+  endOffset: 2522
+- name: 'Building a Data-Driven Culture: Democratization & Usability'
+  startOffset: 2522
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=2522
+  endOffset: 2652
+- name: 'Remote Leadership: Challenges of Managing Distributed Teams'
+  startOffset: 2652
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=2652
+  endOffset: 2884
+- name: 'Technical Skills for CDOs: Breadth vs Depth (ML, SQL, Engineering)'
+  startOffset: 2884
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=2884
+  endOffset: 3020
+- name: 'Business Education: MBA Value for Executive Data Roles'
+  startOffset: 3020
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=3020
+  endOffset: 3138
+- name: 'Essential Soft Skills: Communication, Empathy, Influence'
+  startOffset: 3138
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=3138
+  endOffset: 3256
+- name: 'OLX Group Challenges: Geographic, Product, and Tech Complexity'
+  startOffset: 3256
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=3256
+  endOffset: 3396
+- name: 'Interviewing for CDO: Demonstrating Strategic Thinking'
+  startOffset: 3396
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=3396
+  endOffset: 3580
+- name: 'Overcoming Resistance: Persuasion, Evidence, and Constraints'
+  startOffset: 3580
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=3580
+  endOffset: 3744
+- name: Closing Remarks and Key Takeaways
+  startOffset: 3744
+  url: https://www.youtube.com/watch?v=IdaZOD46FEw&t=3744
+  endOffset: 3711
 ---

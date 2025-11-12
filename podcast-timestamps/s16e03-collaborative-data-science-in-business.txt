@@ -1,0 +1,26 @@
+00:01:40 Episode introduction & guest Ioannis Mesionis (EasyJet lead data scientist)
+00:02:34 Career origin & early projects (mathematics degree, master's, internship model)
+00:07:23 Lead Data Scientist role: partnering with Digital Customer & Marketing
+00:08:32 Stakeholder collaboration: weekly embedded meetings and observation
+00:11:15 Business domain knowledge: PPC, SEO, keywords and conversion optimization
+00:14:00 Operating model for data products: four-phase funnel and accountability
+00:15:23 Project intake & prioritization: "single front door" and cross-functional kickoff
+00:17:37 Definition of Done: template, KPIs, success criteria and fail‑fast checks
+00:20:54 Inception & EDA: data access, GDPR considerations and feasibility assessment
+00:21:12 Data science vs analytics: choosing technical approach and leads
+00:22:48 Research & development: modeling work, sprint planning and Kanban usage
+00:25:17 Pilot & A/B testing: validating models against baseline KPIs and feedback loops
+00:27:25 Production rollout: spectrum of production and evolving MLOps capabilities
+00:28:18 Organizational structure: domain-focused lead data scientists (scheduling, ops, pricing)
+00:30:21 Handling uncertainty in ML: MVPs, estimation practices and Kanban preference
+00:35:38 Sprint cadence: planning, stand-ups, bi‑weekly demos and stakeholder demos
+00:38:17 Estimation techniques: T-shirt sizing, Planning Poker and Fibonacci points
+00:40:49 Stakeholder engagement strategy: invite to demos, not daily stand-ups
+00:41:33 Communicating technical results: simplifying concepts for non‑technical audiences
+00:45:10 Developing soft skills: practice, analogies, feedback and ChatGPT as a helper
+00:48:38 MLOps Zoomcamp takeaways: motivation for hands‑on MLOps learning
+00:49:10 MLOps tooling overview: MLflow, Prefect, Airflow and engineering exposure
+00:53:33 Model monitoring with Evidently: drift detection and integration plans
+00:55:11 Monitoring dashboards & alerts: Tableau quick solutions and custom emails
+00:57:09 Recommended resources: Cassie Kozyrkov (Decision Intelligence) and textbooks
+01:01:00 Closing remarks & contact: LinkedIn follow‑ups and final thoughts

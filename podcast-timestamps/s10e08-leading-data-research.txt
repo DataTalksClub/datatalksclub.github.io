@@ -1,0 +1,27 @@
+00:00:00 Podcast Introduction
+00:01:47 Guest Intro: David Bader — NJIT Institute for Data Science, research focus
+00:03:20 Career Journey & Academic Appointments
+00:04:53 Daily Responsibilities: Research, Teaching, and Institute Leadership
+00:06:11 Active Projects & Industry Partnerships (NSF, Accenture, NVIDIA)
+00:08:30 Launching Academic Units: Starting Departments and Degree Programs
+00:09:01 Designing Data Science Curricula & Regional Workforce Alignment
+00:13:55 Academic Ranks: Assistant, Associate, Full, and Distinguished Professor
+00:17:41 Career Pathways: PhD, Postdoc, and Faculty Entry
+00:19:03 Academic CV vs. Industry Resume: Documentation and Expectations
+00:24:10 Arkouda & ARACHNE: Interactive, Massive-scale Python Analytics and Graph Tools
+00:27:35 Backend Performance: Chapel, Supercomputing, and Democratizing HPC
+00:29:32 Research Lab as Startup: Open Source, Code Release, and Student Output
+00:30:30 Finding Datasets: Synthetic Data, SNAP, and Industry Collaboration
+00:32:38 Lab Composition & Mentorship Model (PhD, MS, undergrads, high school)
+00:35:39 Time Allocation: Balancing Teaching Load, Research, and Service
+00:37:06 Most Rewarding Work: Linear-time Algorithm & Pancake-flipping Variant
+00:40:29 Underappreciated Impact: STINGER and Streaming Graph Analytics
+00:45:45 Virtual Seminar Series & NJIT Data Science YouTube Channel
+00:46:52 Teaching-focused Careers: Universities Prioritizing Instruction over Research
+00:49:01 Staying Current: Journals, Conferences, and Information Triage
+00:53:52 Favorite Conferences: Supercomputing, IPDPS, HPEC
+00:54:58 Selecting Research Topics: Domain-driven, Impact-first Approach
+00:56:40 Building Usable Systems: From Research to Real-world Adoption (NASA example)
+00:58:11 Recruiting Students: PhD vs. Industry and Collaborative Opportunities
+01:03:31 Contact & Resources: davidbader.net, Arkouda, NJIT Data Science links
+01:04:06 Closing Remarks and Episode Wrap-up

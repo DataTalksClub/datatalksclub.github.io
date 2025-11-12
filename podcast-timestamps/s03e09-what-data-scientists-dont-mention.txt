@@ -1,0 +1,29 @@
+00:00:00 Episode Introduction
+00:01:30 Episode Theme: Failures and LinkedIn Omissions
+00:02:32 Guest Opening: Background Snapshot
+00:03:05 Career Journey: Aviation, Academia, and Transition to NLP
+00:04:58 CV Choices: Omitting Hobbies and Personal Details
+00:05:35 Project Failures Overview: Common Data Science Pitfalls
+00:06:22 Case Study — Proofreading AI: BERT Regression and Early Termination
+00:11:06 Stakeholder Communication: Making the Call to Stop a Project
+00:11:31 Product Management Gap: Value of a Data Product Manager
+00:16:46 Customer Development: Rapid Validation vs Building ML First
+00:18:00 Engineering vs Research: Deployment and Serving Constraints
+00:19:04 Production Lesson: Gradient Boosting vs CTR Heuristic Baseline
+00:25:25 Performance Fix: Re-ranking Scope Reduction to Meet Latency
+00:25:56 DevOps Anti-patterns: SSH Deploys, No CI/CD and Technical Debt
+00:28:11 From Notebooks to Production: BI, LTV Predictions, and MLOps Needs
+00:30:44 Startup Anecdote: GPU Overstock, Bitcoin, and Sentiment Analysis
+00:34:36 Data Labeling Reality: Cost, Quality, and Mechanical Turk
+00:35:18 Resume Strategy: Omitting Short or Sensitive Startup Stints
+00:36:12 Telco NLP: Multilingual Complaint Classification & Transfer Learning
+00:39:54 Too Much Freedom: Research Time vs Impactful Production Work
+00:41:07 Interview Tip: Ask About Active Revenue-Producing ML in Production
+00:43:20 Digital Presence: GitHub, Open Courses, Talks and Hiring Impact
+00:45:35 Work-Life Balance Hacks: Focus Time and Side Projects
+00:48:27 Public Activity ROI: A/B Tests, Talks, and Career Opportunities
+00:49:30 Framing Failed Projects on LinkedIn: Honesty and Lessons Learned
+00:52:41 Business-Travel Boundaries: Perm Trips and Weekend Work Limits
+00:58:36 Closing Thoughts: Embracing Failures and Building Resilience
+01:00:24 Contact & Resources: Open Course and Social Links
+01:01:27 Episode Outro

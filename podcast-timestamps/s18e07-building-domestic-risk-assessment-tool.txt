@@ -1,0 +1,22 @@
+00:00:00 Podcast Introduction
+00:01:10 Episode Overview: Building a Domestic Risk Assessment Tool
+00:03:05 Problem Framing: Identifying Risk in Domestic Contexts
+00:06:30 Project Scope: Objectives, Users, and Impact Goals
+00:10:45 Data Sources: Case Management, Public Records, and Surveys
+00:14:20 Data Preparation: Cleaning, Linking, and Feature Engineering
+00:18:00 Risk Scoring: Model Architecture and Algorithms
+00:21:40 Model Evaluation: Metrics, Validation, and Bias Assessment
+00:25:15 Privacy & Ethical Considerations in Risk Assessment
+00:29:00 Legal Compliance and Data Governance Practices
+00:32:10 Deployment: Integrating Risk Tools into Frontline Workflows
+00:35:50 User Interface & Decision Support Design
+00:39:05 Stakeholder Engagement: Training, Trust, and Adoption
+00:42:20 Monitoring: Model Maintenance, Drift Detection, and Alerts
+00:45:40 Case Examples: Impact on Triage and Resource Allocation
+00:48:55 Challenges: Data Gaps, Uncertainty, and Operational Constraints
+00:52:10 Collaboration & Partnerships with NGOs and Agencies
+00:55:00 Funding, Sustainability, and Scaling Strategies
+00:57:20 Open Resources: Documentation, Reproducibility, and Links
+01:00:00 Lessons Learned and Practical Recommendations
+01:02:10 Future Directions: Research, Policy, and Product Roadmap
+01:04:00 Episode Wrap-Up and Where to Find More Information

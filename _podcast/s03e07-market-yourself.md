@@ -1561,6 +1561,125 @@ intro: 'How do developers build visibility, earn promotions, and steer their car
   influence, and apply learn-in-public tactics to advance your career and job opportunities.'
 description: 'Discover personal branding & career marketing for devs: learn-in-public
   tactics, niche choice and internal promotion to boost visibility and land promotions.'
+dateadded: '2021-05-22'
+duration: PT01H02M41S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=0
+  endOffset: 69
+- name: 'Guest Overview: Swyx and the learn in public movement'
+  startOffset: 69
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=69
+  endOffset: 144
+- name: 'Career Journey: finance to coding, Netlify, AWS, Temporal'
+  startOffset: 144
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=144
+  endOffset: 376
+- name: 'Why Self‑Marketing Matters: recognition, promotions, opportunities'
+  startOffset: 376
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=376
+  endOffset: 513
+- name: 'Marketing Beyond Job Hunting: open source and internal persuasion'
+  startOffset: 513
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=513
+  endOffset: 626
+- name: 'Personal Marketing Framework: brand, domain, value, skills, channel'
+  startOffset: 626
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=626
+  endOffset: 756
+- name: 'Personal Brand for Non‑star Developers: find distinctiveness'
+  startOffset: 756
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=756
+  endOffset: 787
+- name: 'Brand Consistency: photo, name, and repeated impressions'
+  startOffset: 787
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=787
+  endOffset: 1123
+- name: 'Domain Selection: choosing topics to write and speak about'
+  startOffset: 1123
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=1123
+  endOffset: 1272
+- name: 'Niche Strategy: choosing the right level of specialization'
+  startOffset: 1272
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=1272
+  endOffset: 1352
+- name: 'Validating a Niche: meetups, conferences, and community signals'
+  startOffset: 1352
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=1352
+  endOffset: 1433
+- name: 'Learn in Public: honest progress, corrections, and earned expertise'
+  startOffset: 1433
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=1433
+  endOffset: 1554
+- name: 'Owned Platforms & Blogging: mailing lists, newsletters, and personal site'
+  startOffset: 1554
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=1554
+  endOffset: 1632
+- name: 'Starting Distribution: social media to drive people to your site'
+  startOffset: 1632
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=1632
+  endOffset: 1827
+- name: 'Engagement Tactic: Pick up what they put down to get noticed'
+  startOffset: 1827
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=1827
+  endOffset: 1962
+- name: 'Early Social Media Growth: tactics for initial visibility'
+  startOffset: 1962
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=1962
+  endOffset: 1991
+- name: 'Career Transition Strategies: students, career changers, mutual value exchange'
+  startOffset: 1991
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=1991
+  endOffset: 2195
+- name: 'Focused Applications: targeted research over mass applying'
+  startOffset: 2195
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=2195
+  endOffset: 2310
+- name: 'Hiring Portfolio: unsolicited redesigns, product clones, and case studies'
+  startOffset: 2310
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=2310
+  endOffset: 2540
+- name: 'Internal Pathways: lateral entry and internal transfers'
+  startOffset: 2540
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=2540
+  endOffset: 2597
+- name: 'Work‑safe Content Ideas: war stories, industry problems, and summaries'
+  startOffset: 2597
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=2597
+  endOffset: 2743
+- name: 'Process Summary: discover, learn in public, work, and iterate'
+  startOffset: 2743
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=2743
+  endOffset: 2834
+- name: 'Open Knowledge Projects: collaborative docs and cheat‑sheets as visibility'
+  startOffset: 2834
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=2834
+  endOffset: 3070
+- name: 'Internal Promotion Tools: brag document, demos, and networking'
+  startOffset: 3070
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=3070
+  endOffset: 3256
+- name: 'Signature Initiative: company‑wide projects that build influence'
+  startOffset: 3256
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=3256
+  endOffset: 3429
+- name: 'Internal Content Strategy: applying external marketing tactics inside'
+  startOffset: 3429
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=3429
+  endOffset: 3544
+- name: 'Public Speaking: creating reusable talks and practicing communication'
+  startOffset: 3544
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=3544
+  endOffset: 3717
+- name: 'Book & Resources: The Coding Career Handbook, newsletter, and discount'
+  startOffset: 3717
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=3717
+  endOffset: 3791
+- name: 'Final Takeaway: non‑technical skills dominate engineering ladders'
+  startOffset: 3791
+  url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=3791
+  endOffset: 3761
 ---
 Links:
 

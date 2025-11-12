@@ -1,0 +1,19 @@
+00:00:00 Podcast Introduction  
+00:02:06 Guest Introduction: Valerii Babushkin background  
+00:04:00 Book Announcement: Machine Learning System Design  
+00:07:06 Design Document Purpose: Fail-Fast Principle  
+00:08:39 Blueprint Analogy: Preventing Waste with Early Design  
+00:11:09 Prevalence of Missing Documentation in ML Projects  
+00:14:36 Shared Design Docs: Alignment, Feedback, and Simplicity  
+00:19:01 Design Doc as a Living Artifact: Maintenance Challenges  
+00:24:37 Accountability & Ownership: Assigning Areas of Responsibility  
+00:31:59 Bus Factor & Risk Assessment: People Dependency Mapping  
+00:36:50 Modularity: Chapter-Based Design Docs and Versioning Signals  
+00:41:01 Incentivizing Documentation: Metrics and Performance Reviews  
+00:43:53 ML Design Template Overview: 16-Chapter Book Outline  
+00:47:46 Monitoring: Detecting Data Drift, Concept Drift, and Prediction Drift  
+00:51:59 Fallback Strategies: Redundancy, Simple Baselines, and Serving Reliability  
+00:55:13 Baseline Solutions: Start Simple to Validate Hypotheses Quickly  
+00:58:15 Resources & Tools: Book Discount, Evidently AI, and Templates  
+01:00:44 Contact: Connect with Valerii on LinkedIn  
+01:01:44 Episode Close and Final Takeaways

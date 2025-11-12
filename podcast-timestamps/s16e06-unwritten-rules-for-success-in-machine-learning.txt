@@ -1,0 +1,24 @@
+00:00:00 Podcast Introduction
+00:00:13 Guest Overview: Jack’s career arc from software engineer to VP of ML
+00:01:04 Career Pivot: Transition from full‑stack engineering to data science
+00:02:41 Early Leadership: Informal management and promotion at GoHealth
+00:04:47 Rapid Advancement: Reflections on moving from IC to manager
+00:06:53 Leadership Learning: Trial‑and‑error development of soft skills
+00:09:01 Problem Framing: Technical context and product‑level understanding
+00:11:33 Reputation Management: Building respect, trust, and influence
+00:15:25 Stakeholder Communication: Speaking marketing language (CAC, KPIs)
+00:17:22 ML Project Complexity: Resource needs and cross‑functional buy‑in
+00:20:48 Selling ML: Fast POCs and demos to generate stakeholder support
+00:23:18 Demo Design: Visualizations and user‑centric proof‑of‑concepts
+00:26:15 Risk Communication: Explaining model trade‑offs without raw accuracy
+00:28:17 Rapid Prototyping Tools: Gradio, Streamlit, and lightweight demos
+00:28:46 Baseline First: Start with heuristics and manual processes before ML
+00:31:03 Hypothesis Validation: Quick experiments to test product assumptions
+00:34:09 Actionability Over Accuracy: Churn model lesson on usable insights
+00:36:44 Outcome Focus: Avoiding technical tunnel vision on ML tuning
+00:37:34 Data Generative Process: Treating data as a shadow of reality
+00:40:37 Domain Immersion: Customer empathy through product usage
+00:44:35 Full‑Stack ML: Importance of software engineering for production ML
+00:47:58 Content & Community: Daily LinkedIn posts and where to follow Jack
+00:50:37 New Venture: Reimagining hiring and recruiting for ML/data roles
+00:53:02 Episode Wrap‑Up and Final Remarks

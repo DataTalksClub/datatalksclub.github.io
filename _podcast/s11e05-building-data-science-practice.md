@@ -13,9 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=XbDQv8FTA4U
 season: 11
 short: Building Data Science Practice
-title: Building Data Science Practice
+title: 'Scale Industrial AI: MLOps, Sensorization, POC Strategy & Hub‑and‑Spoke Data
+  Teams'
 transcript:
-- header: Audience Poll
+- header: Introduction & Live Chat Poll Results
 - line: You might notice that there is a poll right now in the live chat, which asks
     “What’s your role?” Please take a moment to answer this question.
   sec: 53
@@ -43,6 +44,7 @@ transcript:
   sec: 106
   time: '1:46'
   who: Andreyy
+- header: 'Guest Introduction: Andrey Shtylenko, Honeywell'
 - line: This week, we'll talk about building data science practice. We have a special
     guest today, Andrey. Andrey is a Director of Engineering at Honeywell, where he
     leads the advanced technology group within the safety and sensing business. He's
@@ -59,7 +61,7 @@ transcript:
   sec: 190
   time: '3:10'
   who: Andrey
-- header: Andrey’s background
+- header: 'Career Journey: Startups, Organizational Development, and Honeywell'
 - line: Yeah, we definitely will. Before we go into our main topic of building data
     science practice, let's start with your background. Can you tell us about your
     career journey so far?
@@ -128,6 +130,7 @@ transcript:
   sec: 206
   time: '3:26'
   who: Andrey
+- header: 'Honeywell Use Cases: Smart Sensors, Computer Vision, and Robotics'
 - line: I'm just wondering, what kind of industrial equipment do you work with? Is
     it like conveyor belts or things like that?
   sec: 534
@@ -171,7 +174,7 @@ transcript:
   sec: 651
   time: '10:51'
   who: Andrey
-- header: What data science practice is
+- header: Defining Organizational Data and Machine Learning Practices
 - line: Quite interesting. I know nothing about this company up until now. You are
     doing quite a lot of interesting stuff. So the topic today is building data science
     practice. But I was wondering, what does “data science practice” actually mean?
@@ -206,7 +209,7 @@ transcript:
   sec: 708
   time: '11:48'
   who: Andrey
-- header: Best DS practice in a traditional company vs IT-centric companies
+- header: Challenges of AI Adoption in Traditional Industrial Companies
 - line: I’m wondering, in your particular case at Honeywell – Honeywell, strikes me
     as a more of a traditional company, where IT comes second (AI comes second) while
     there are internet companies, where it's much, much easier to get data and start
@@ -235,6 +238,7 @@ transcript:
   sec: 855
   time: '14:15'
   who: Andrey
+- header: Sensorization and Cloud Processing to Enable Advanced Models
 - line: I'm really curious now that you mentioned it. This is not what I was going
     to ask initially, but now that you mentioned a gas meter – you just sell it and
     support it and there is no way you can include software. So can you actually include
@@ -277,8 +281,6 @@ transcript:
   sec: 1091
   time: '18:11'
   who: Andrey
-- header: Getting started with building data science practice (finding out who you
-    report to)
 - line: Coming back to data science practice – you mentioned that data science practice
     is a set of data science and machine learning practices, or how you spread the
     adoption of these practices. Then you mentioned not having silos, having the same
@@ -293,6 +295,7 @@ transcript:
   sec: 1093
   time: '18:13'
   who: Alexey
+- header: 'Reporting Line Impact: CTO vs CIO vs CMO vs CEO'
 - line: Right. Here, of course, I might say “it depends”. But it really depends on
     multiple factors. I won't say there's just one path. I sort of have a mental model
     of going from low maturity to high maturity, or like I say, “You crawl, you walk,
@@ -364,6 +367,7 @@ transcript:
   sec: 1423
   time: '23:43'
   who: Alexey
+- header: 'Data Practice Maturity Model: Crawl → Walk → Run'
 - line: Now, some organizations call it formally a Chief Data Officer, or it could
     be VP of Data. But reporting to a CEO means that you will not only have a focus
     on engineering, or you will not only have a focus on internal IT and things like
@@ -420,7 +424,6 @@ transcript:
   sec: 1622
   time: '27:02'
   who: Andrey
-- header: Who the initiative comes from
 - line: In your opinion, what happens more often – that it comes from the engineers
     (from the bottom up approach) or is it more like an executive listens to some
     consultants from McKinsey and decides to build this practice? What happens more
@@ -464,7 +467,6 @@ transcript:
   sec: 1729
   time: '28:49'
   who: Andrey
-- header: Finding out what kind of problems you will be solving (Centralized approach)
 - line: Speaking of stable diffusion. This is indeed super cool. The other day, I
     played with this and generated a dataset with dragons and dinosaurs. To me, they
     always looked the same and I thought “Okay, maybe we can just get some data with
@@ -480,6 +482,7 @@ transcript:
   sec: 1862
   time: '31:02'
   who: Alexey
+- header: 'POC Strategy: Single End-to-End Project to Prove Value'
 - line: The way it usually works is that – the right thing, of course, is to understand
     what kind of problems we want to solve with data or what kind of capabilities
     we want to build with that. But it doesn't always work like this, as I said. There
@@ -568,6 +571,7 @@ transcript:
   sec: 2303
   time: '38:23'
   who: Alexey
+- header: 'Centralized Team: Roles, Tooling, and MLOps Standardization'
 - line: Right, right. In early stages, it's good to collect all of them into one team,
     or all into one organization, and centralize them. What I mean by that is that
     you need to build a set of best practices. When all of those people are under
@@ -641,6 +645,7 @@ transcript:
   sec: 2306
   time: '38:26'
   who: Andrey
+- header: 'Transition Risks: Centralized vs Decentralized Approaches'
 - line: That's a lot of information. I want to try to summarize everything that is
     said before we move on to what you call the “run” phase.
   sec: 2619
@@ -681,7 +686,7 @@ transcript:
   sec: 2631
   time: '43:51'
   who: Alexey
-- header: Moving to a semi-decentralized approach
+- header: 'Embedded Teams: Reporting Structure, Ownership, and Trust'
 - line: When you say “where the data person sits,” the important part is who they
     report into. They can still work on those projects. But the question is, “Who
     do they report to?” Do they report to, let's say, the organization of a chief
@@ -719,6 +724,7 @@ transcript:
   sec: 2888
   time: '48:08'
   who: Alexey
+- header: 'Hybrid Hub-and-Spoke Model: Balancing Autonomy and Standards'
 - line: Oh, no, no, no. This is why I say that I've never seen fully decentralized
     models work ideally. Usually, it’s what I call semi-decentralized. You still have
     to leave some space. You still need to have one central function that will be
@@ -753,6 +759,7 @@ transcript:
   sec: 2994
   time: '49:54'
   who: Alexey
+- header: 'Shared Services: Experiment Tracking, Annotation, and Procurement'
 - line: There are still some things. And it's not always the same. It doesn't mean
     that everybody needs to use PyTorch. Some will use Python and some will use Tensor.
     But I'll give you a good example. Vendor relationships. When you work with tools
@@ -775,7 +782,7 @@ transcript:
   sec: 3014
   time: '50:14'
   who: Andrey
-- header: Resources to learn about data science practice
+- header: Recommended Reading and Resources for Building Data Teams
 - line: We have quite a bunch of questions and not so much time. So we should probably
     go to the questions and try to answer them. The first question was, “Which book
     would you recommend for us to learn more about building a data science practice?”
@@ -799,7 +806,7 @@ transcript:
   sec: 3157
   time: '52:37'
   who: Andrey
-- header: Pivoting from the role of a software engineer to data scientist
+- header: 'Career Pivot: From Software Engineer to Data Scientist Internally'
 - line: Okay. Another question from Adonis, “You mentioned that software engineers
     pivot into data science. How do they actually convince their manager to do this?”
   sec: 3159
@@ -832,6 +839,7 @@ transcript:
   sec: 3176
   time: '52:56'
   who: Andrey
+- header: Timing and Strategies for Internal Role Transitions
 - line: Does that usually happen at the POC stage, the centralized stage, or decentralized
     stage? Does it even matter?
   sec: 3307
@@ -863,7 +871,7 @@ transcript:
   sec: 3379
   time: '56:19'
   who: Andrey
-- header: The most impactful realization from data science practice
+- header: 'Research vs Production: ML Engineers and Productionizing Models'
 - line: Another question we have is, “What is your favorite data science practice
     so far?” I guess we've talked about all these best practices. What do you think
     is the most important one to have?
@@ -905,7 +913,7 @@ transcript:
   sec: 3525
   time: '58:45'
   who: Andrey
-- header: Advice for individual growth
+- header: 'Career Advice: Expanding Scope to Increase Organizational Impact'
 - line: Okay. Before we finish today, maybe you wanted to mention something but didn't
     have a chance?
   sec: 3584
@@ -930,7 +938,7 @@ transcript:
   sec: 3592
   time: '59:52'
   who: Andrey
-- header: Finding Andrey online
+- header: 'Connect with Andrey: LinkedIn and Follow-up Resources'
 - line: Am I right that the best way to reach out to you is LinkedIn?
   sec: 3693
   time: '1:01:33'
@@ -947,6 +955,111 @@ transcript:
   sec: 3702
   time: '1:01:42'
   who: Alexey
+description: 'Discover Industrial AI tactics, MLOps & sensorization to scale projects:
+  hub-and-spoke data teams, proving value, tooling and career steps to productionize
+  ML.'
+intro: How do you move industrial AI from pilots to production at scale while keeping
+  MLOps, sensorization, and organizational design aligned? In this episode, Andrey
+  Shtylenko, Director of Engineering at Honeywell and head of the Advanced Technology
+  Group, walks through practical approaches to scaling industrial AI across healthcare,
+  industrial, and logistics verticals. Drawing on Honeywell use cases in smart sensors,
+  computer vision, and robotics, Andrey outlines the core challenges of AI adoption
+  in traditional industrial companies and the technical levers—sensorization, cloud
+  processing, and model productionization—that enable advanced models. <br><br> We
+  cover a data practice maturity model (crawl → walk → run), a focused POC strategy
+  using a single end‑to‑end project to prove value, and how to standardize MLOps through
+  centralized tooling and shared services like experiment tracking, annotation, and
+  procurement. Andrey also discusses organizational tradeoffs—centralized, embedded,
+  and hybrid hub‑and‑spoke data teams—and the reporting-line impacts on velocity and
+  trust. Listeners will get concrete guidance on building data teams, deploying MLOps,
+  and transitioning research into production-ready machine learning systems.
+dateadded: '2022-11-05'
+duration: PT01H49S
+quotableClips:
+- name: Introduction & Live Chat Poll Results
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=0
+  endOffset: 149
+- name: 'Guest Introduction: Andrey Shtylenko, Honeywell'
+  startOffset: 149
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=149
+  endOffset: 196
+- name: 'Career Journey: Startups, Organizational Development, and Honeywell'
+  startOffset: 196
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=196
+  endOffset: 534
+- name: 'Honeywell Use Cases: Smart Sensors, Computer Vision, and Robotics'
+  startOffset: 534
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=534
+  endOffset: 682
+- name: Defining Organizational Data and Machine Learning Practices
+  startOffset: 682
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=682
+  endOffset: 826
+- name: Challenges of AI Adoption in Traditional Industrial Companies
+  startOffset: 826
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=826
+  endOffset: 942
+- name: Sensorization and Cloud Processing to Enable Advanced Models
+  startOffset: 942
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=942
+  endOffset: 1146
+- name: 'Reporting Line Impact: CTO vs CIO vs CMO vs CEO'
+  startOffset: 1146
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=1146
+  endOffset: 1466
+- name: 'Data Practice Maturity Model: Crawl → Walk → Run'
+  startOffset: 1466
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=1466
+  endOffset: 1920
+- name: 'POC Strategy: Single End-to-End Project to Prove Value'
+  startOffset: 1920
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=1920
+  endOffset: 2306
+- name: 'Centralized Team: Roles, Tooling, and MLOps Standardization'
+  startOffset: 2306
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=2306
+  endOffset: 2619
+- name: 'Transition Risks: Centralized vs Decentralized Approaches'
+  startOffset: 2619
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=2619
+  endOffset: 2764
+- name: 'Embedded Teams: Reporting Structure, Ownership, and Trust'
+  startOffset: 2764
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=2764
+  endOffset: 2893
+- name: 'Hybrid Hub-and-Spoke Model: Balancing Autonomy and Standards'
+  startOffset: 2893
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=2893
+  endOffset: 3014
+- name: 'Shared Services: Experiment Tracking, Annotation, and Procurement'
+  startOffset: 3014
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3014
+  endOffset: 3107
+- name: Recommended Reading and Resources for Building Data Teams
+  startOffset: 3107
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3107
+  endOffset: 3159
+- name: 'Career Pivot: From Software Engineer to Data Scientist Internally'
+  startOffset: 3159
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3159
+  endOffset: 3307
+- name: Timing and Strategies for Internal Role Transitions
+  startOffset: 3307
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3307
+  endOffset: 3404
+- name: 'Research vs Production: ML Engineers and Productionizing Models'
+  startOffset: 3404
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3404
+  endOffset: 3584
+- name: 'Career Advice: Expanding Scope to Increase Organizational Impact'
+  startOffset: 3584
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3584
+  endOffset: 3693
+- name: 'Connect with Andrey: LinkedIn and Follow-up Resources'
+  startOffset: 3693
+  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3693
+  endOffset: 3649
 ---
 
 Links:

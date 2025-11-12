@@ -1,0 +1,25 @@
+00:00:00 Podcast Introduction
+00:01:54 Episode Overview: Leading NLP Teams & Ivan's Current Role
+00:02:55 Personio Role: Identity and Access Management Responsibilities
+00:04:39 Career Origins: From Linguistics to Computational NLP
+00:07:22 Early Tech Stack: From Perl to Python and Web Scraping
+00:08:42 Technical Management Study: CDTM, Internships, and Organizational Learning
+00:11:54 Management Transition: From ML Teams to Web Product Engineering & Observability
+00:14:07 Defining NLP Teams: Centralized vs Cross‑disciplinary Structures
+00:16:45 NLP Engineer Role: Skills, Linguistics Background, and Tokenization Expertise
+00:19:16 Path to Becoming an NLP Engineer: Practical Resources, spaCy & Hugging Face
+00:22:31 Vision vs Text: Comparing Computer Vision and NLP Challenges
+00:24:36 NLP Engineer vs ML Engineer: Inference Optimization, Deployment & MLOps
+00:26:19 Conversational Designers: Chatbot UX, Dialogue Flow & Non‑coding Roles
+00:28:38 Linguists in NLP: Parsing, Information Extraction & Multilingual Needs
+00:30:11 When to Hire NLP Specialists: Task Complexity, Data Needs & Feature Engineering
+00:32:21 Future of NLP: Library Ecosystem, AutoML & Research Velocity
+00:34:57 NLP Pipeline Anatomy: Data Annotation, Task Engineering, Testing, Production & Observability
+00:38:55 Large Language Models & Prompting: GPT‑3 Capabilities and Simplification
+00:43:05 GPT‑3 Limitations: Cost, Control, Bias & Privacy Risks
+00:46:10 GPT‑3 vs In‑house Pipelines: MVP Strategy, Control & Open‑Source Alternatives
+00:48:39 What NLP Really Is: Industry Productization vs Academic Linguistic Research
+00:52:57 AI Benchmarking: Human‑level Claims, Dataset Limits & Real‑world Gaps
+00:53:45 Machine Translation State: Google Translate, DeepL, Data Coverage & Language Pairs
+00:58:08 NLP Pandect & Related Projects: GitHub Resources for NLP, Microservices & Engineering Managers
+01:00:41 Contact & Resources: LinkedIn, Presentation Links and Further Reading

@@ -1,0 +1,27 @@
+00:00:00 Podcast Introduction
+00:01:35 Guest Introduction: Ivan Brigida — Analytics Lead & PythonInvest
+00:02:08 Disclaimer: Financial discussion, not investment advice
+00:03:53 Background & career trajectory from finance to analytics
+00:06:42 Google experience and role transitions
+00:07:29 Choosing individual contributor work over people management
+00:09:25 Investing interest: economics education to practical trading
+00:11:47 Blogging & building a pet project to test strategies
+00:13:15 Financial data sources and APIs for retail investors (Yahoo, Quandl, Polygon)
+00:15:23 Market data format explained: OHLCV time series
+00:18:39 Adjusted close and data quality considerations
+00:19:47 Mean reversion strategy: concept and application
+00:22:14 Risk management fundamentals and stop‑loss thresholds
+00:26:48 Backtesting methodology and avoiding time‑series data leakage
+00:29:44 Walk‑forward simulation: weekly predictions and selection rules
+00:35:15 Trade execution and position sizing for algorithmic strategies
+00:38:24 Discipline: sticking to strategy vs emotional trading
+00:40:51 Evaluation metrics: ROI, precision focus, and trading fees impact
+00:43:39 Prediction target definition: binary growth thresholds (e.g., 5%)
+00:45:55 Feature engineering: time‑window stats and handcrafted indicators
+00:48:02 Model choices: logistic regression, XGBoost, NN for stock prediction
+00:49:58 Explainability: feature importance and model debugging
+00:51:46 Deployment options: cron, Airflow, APIs and partial automation
+00:55:05 Learning pathways: MLOps, ML Zoomcamp, and practical projects
+00:57:29 PythonInvest content: API guides, models, portfolio allocation stories
+01:01:06 Course plans, sign‑up, and community building
+01:01:36 Episode Wrap‑up and final reminder (not financial advice)

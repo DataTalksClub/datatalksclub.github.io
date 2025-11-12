@@ -13,9 +13,10 @@ links:
   youtube: https://www.youtube.com/watch?v=gXvVMvhfrIY
 season: 21
 short: 'From Theme Parks to Tesla: Building Data Products That Work'
-title: 'From Theme Parks to Tesla: Building Data Products That Work'
+title: Optimize Visitor Flow with Theme Park Crowd Modeling, Queue Prediction & Real-Time
+  Recommendations
 transcript:
-- header: Career journey and early motivations
+- header: Podcast Introduction & Event Info
 - line: Hi everyone, welcome to our event. This event is brought to you by Data Docs
     Club which is a community of people who love data. We have weekly events and today
     is one of such events. This is a bit unusual. We usually have them on Mondays.
@@ -52,6 +53,7 @@ transcript:
   sec: 71
   time: '1:11'
   who: Abouzar
+- header: 'Early Career: Software Engineering to Data Science'
 - line: Today on the podcast we are joined by Abouzar. He has worked on data and ML
     projects in very different places from amusement parks to e-commerce and now Tesla.
     We will talk about how to turn data into real products, what it means to productionize
@@ -75,6 +77,7 @@ transcript:
   sec: 108
   time: '1:48'
   who: Abouzar
+- header: 'Academic Path: Professional Doctorate & TU Berlin'
 - line: Since you have to develop a lot of things and also support them, after a couple
     of years it becomes a lot of things to support. So I thought maybe it is time
     to go after something I like more. My master thesis was also on this same topic.
@@ -130,6 +133,7 @@ transcript:
   sec: 259
   time: '4:19'
   who: Abouzar
+- header: 'Research Partnerships: Industry Projects and Applied Research'
 - line: It was fun, I think. Fun years to start actually. So yeah, I started that
     program. It was a two-year program. It was not a PhD, but it was research plus
     practical work.
@@ -171,7 +175,7 @@ transcript:
   sec: 345
   time: '5:45'
   who: Abouzar
-- header: Moving to Europe for data science
+- header: 'Efteling Insights: Theme Park Tech and Experience Design'
 - line: Then I went to Efteling, then to Bol.com, and now Tesla.
   sec: 377
   time: '6:17'
@@ -196,6 +200,7 @@ transcript:
   sec: 422
   time: '7:02'
   who: Abouzar
+- header: 'Crowd Modeling: Queue Prediction and Ride Capacity'
 - line: The second option was to go to Efteling, the amusement park. I did not like
     the banking option, so I went with the second choice. At first, I was quite lost.
     I thought, what the hell am I doing here? How did I end up here? My background
@@ -257,7 +262,6 @@ transcript:
   sec: 708
   time: '11:48'
   who: Abouzar
-- header: Working with theme parks and crowd modeling
 - line: That is the story of all software engineers, right? You do not need to know
     how it works. But what did you do there? Did you do analytics and data science
     and machine learning?
@@ -271,6 +275,7 @@ transcript:
   sec: 752
   time: '12:32'
   who: Abouzar
+- header: 'Visitor Routing: Next-Best-Action Recommendation System'
 - line: The goal was to create a recommendation system to plan their day and recommend
     their next move in order to avoid long waiting times. That was the ultimate goal,
     to improve the experience. Because if you go to an amusement park and all you
@@ -297,6 +302,7 @@ transcript:
   sec: 872
   time: '14:32'
   who: Alexey
+- header: App Adoption & Incentives for Data Collection
 - line: Yes, exactly.
   sec: 890
   time: '14:50'
@@ -331,6 +337,7 @@ transcript:
   sec: 955
   time: '15:55'
   who: Alexey
+- header: Behavioral Route Modeling & Probabilistic Recommendations
 - line: Actually what we did was a bit different. From the survey, about 3,000 people
     participated and we got all the moves they made through the day. That was cool.
     We had a bit less than 3,000 variations of routes people would take, based on
@@ -360,7 +367,7 @@ transcript:
   sec: 1096
   time: '18:16'
   who: Abouzar
-- header: Lessons from ride and visitor data
+- header: 'E-commerce Recs: Bol.com Favorite-Brand Carousel'
 - line: Then you worked at Bol. I do not live in the Netherlands, but I know about
     Bol. First, I know because people from there often attend Berlin Buzzwords. I
     do not know if you ever went, but Berlin Buzzwords is a conference in Berlin about
@@ -463,7 +470,6 @@ transcript:
   sec: 1366
   time: '22:46'
   who: Abouzar
-- header: Building recommendation systems at Efteling
 - line: I do not do any of these things. If I need shoes, I just go check what models
     are available. Usually, I go with the same model. But what I really hate is that
     they retire models. The model I like, I want to buy, but it is no longer available.
@@ -482,6 +488,7 @@ transcript:
   sec: 1430
   time: '23:50'
   who: Abouzar
+- header: 'Recommendation Validation: Employee Swiping Experiment & A/B Testing'
 - line: And since you worked in recommender systems, was it something simple or more
     complex, like neural networks?
   sec: 1443
@@ -529,6 +536,7 @@ transcript:
   sec: 1553
   time: '25:53'
   who: Alexey
+- header: 'Real-time Processing: Streaming for Live Experiments'
 - line: Okay. We tried to make it fun by adding Star Wars loading gifs and things
     like that, so it would not be boring. Before the employees saw this page, we did
     streaming processes because we did not want to process three million or six million
@@ -568,7 +576,6 @@ transcript:
   sec: 1631
   time: '27:11'
   who: Alexey
-- header: Joining Bol.com and the Dutch e-commerce industry
 - line: Yeah. But your way of buying stuff is not just books from Bol. You usually
     buy a wider variety.
   sec: 1646
@@ -647,6 +654,7 @@ transcript:
   sec: 1868
   time: '31:08'
   who: Alexey
+- header: 'Measurement & Rollout: Engagement Metrics and Accuracy Results'
 - line: How did you use the results? Swiping is fun, but at the end, what was the
     outcome?
   sec: 1879
@@ -670,7 +678,6 @@ transcript:
   sec: 1955
   time: '32:35'
   who: Abouzar
-- header: Product and brand recommendation logic
 - line: And for the user, they see a brand, click, and can buy stuff from it, right?
   sec: 1969
   time: '32:49'
@@ -685,6 +692,7 @@ transcript:
   sec: 1995
   time: '33:15'
   who: Alexey
+- header: 'Role at Tesla: Data Engineering vs. ML Engineering Responsibilities'
 - line: Currently, I work as a data engineer at Tesla.
   sec: 2001
   time: '33:21'
@@ -706,6 +714,7 @@ transcript:
   sec: 2035
   time: '33:55'
   who: Abouzar
+- header: 'Full-Stack Data Work: Building Apps, Instrumentation, and Deployment'
 - line: That was the same for me. At Efteling with the survey app, I wrote the Android
     app even though I was the data scientist. It helped data collection. I pick up
     those tasks because I am also interested in machine learning, and I like deploying
@@ -740,7 +749,6 @@ transcript:
   sec: 2154
   time: '35:54'
   who: Abouzar
-- header: Experimenting with "Tinder for brands"
 - line: What is interesting is your mix of skills. For me it was similar. My first
     job as a data scientist, I was hired because I knew Java. I was a software engineer
     working with Java, and even though I had done my master’s, they only cared about
@@ -801,7 +809,6 @@ transcript:
   sec: 2407
   time: '40:07'
   who: Abouzar
-- header: Engagement metrics and product validation
 - line: Opportunities are things other people might not see, but you do. Then you
     feel obliged to take it. You can do the standard solution, like solving with a
     script, or you can say, no, a model will improve it a lot. That is how it works
@@ -829,6 +836,7 @@ transcript:
   sec: 2496
   time: '41:36'
   who: Alexey
+- header: 'LLMs & AI-Assisted Development: Productivity Gains and Risks'
 - line: Yes. I always engage myself with that, and now with LLM agents and all those
     things being used across companies, including Tesla. It is a nice opportunity
     to improve your tasks as well as the platforms you are providing for colleagues.
@@ -850,7 +858,6 @@ transcript:
   sec: 2554
   time: '42:34'
   who: Abouzar
-- header: From ML engineering to data engineering roles
 - line: Are you talking about using AI for creating code, or using models to solve
     the problems themselves?
   sec: 2582
@@ -906,6 +913,7 @@ transcript:
   sec: 2734
   time: '45:34'
   who: Abouzar
+- header: 'On-Prem Inference Hardware: Raspberry Pi, Jetson Orin, Mac Mini'
 - line: Yes, because you also need hardware, physical components. For example, cars
     need to make driving decisions. This is where AI could be useful. Hypothetically,
     since self-hosting LLMs is much more complex than before, did you find any helpful
@@ -957,6 +965,7 @@ transcript:
   sec: 2978
   time: '49:38'
   who: Abouzar
+- header: 'Models & Platforms: LLaMA, Code Models, and Replicate'
 - line: Do you know any models like that?
   sec: 2993
   time: '49:53'
@@ -1014,7 +1023,6 @@ transcript:
   sec: 3105
   time: '51:45'
   who: Alexey
-- header: Hands-on skills at Tesla and industry expectations
 - line: Hi Donis, I know him, he was my classmate. I think finding a north star was
     key. For me, I was very motivated to work for Tesla, a company with vision. A
     vision that drives both the technology and the business is inspiring.
@@ -1032,6 +1040,8 @@ transcript:
   sec: 3205
   time: '53:25'
   who: Abouzar
+- header: 'Interview Preparation: Tesla Data Engineering Expectations (Architecture,
+    ETL, Scripting)'
 - line: Was it difficult to get a position at Tesla?
   sec: 3243
   time: '54:03'
@@ -1081,7 +1091,8 @@ transcript:
   sec: 3398
   time: '56:38'
   who: Alexey
-- header: Career growth, learning, and advice
+- header: 'Career Strategy: Prioritization, Learning Opportunities, Underpromise &
+    Overdeliver'
 - line: So another question. You said if you see an opportunity to improve exponentially,
     you take it. But you also have everyday tasks. How do you prioritize?
   sec: 3463
@@ -1113,6 +1124,7 @@ transcript:
   sec: 3591
   time: '59:51'
   who: Abouzar
+- header: Episode Closing & Key Takeaways
 - line: Abouzar, thanks a lot for joining us today. And thank you Adonis for your
     questions. It was fun, I really enjoyed the interview. Thanks everyone for joining
     us for today’s session.
@@ -1123,6 +1135,112 @@ transcript:
   sec: 3635
   time: '1:00:35'
   who: Abouzar
+description: Discover crowd modeling, queue prediction and real-time recommendations
+  to optimize visitor flow, reduce wait times and boost engagement with smart routing.
+intro: 'How can theme parks use data to cut wait times and guide visitors in real
+  time? In this episode, Abouzar Abbaspour — an EngD-trained machine learning and data
+  engineer whose career spans telecom, e-commerce (bol.com), theme parks (Efteling)
+  and automotive (Tesla) — walks through building systems that optimize visitor flow
+  using crowd modeling, queue prediction and real-time recommendations. <br><br> We
+  cover the core problems of modeling crowd dynamics and ride capacity, designing
+  a next-best-action visitor routing engine, and using behavioral route modeling and
+  probabilistic recommendations to nudge guests. Abouzar explains practical trade-offs:
+  incentivizing app adoption to collect data, validating recommendations with employee
+  swiping experiments and A/B tests, and running streaming pipelines for live experiments
+  and rollout (engagement metrics and accuracy measurement). He also touches on deployment
+  concerns — from on-prem inference hardware to integrating LLMs and scalable pipelines
+  — and how these engineering choices affect measurement and user experience. <br><br>
+  Listen to learn concrete approaches for queue prediction, visitor routing, real-time
+  processing, and experimentation so you can design and validate systems that improve
+  throughput and guest satisfaction.'
+dateadded: '2025-10-21'
+duration: PT01H35S
+quotableClips:
+- name: Podcast Introduction & Event Info
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=0
+  endOffset: 77
+- name: 'Early Career: Software Engineering to Data Science'
+  startOffset: 77
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=77
+  endOffset: 126
+- name: 'Academic Path: Professional Doctorate & TU Berlin'
+  startOffset: 126
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=126
+  endOffset: 288
+- name: 'Research Partnerships: Industry Projects and Applied Research'
+  startOffset: 288
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=288
+  endOffset: 377
+- name: 'Efteling Insights: Theme Park Tech and Experience Design'
+  startOffset: 377
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=377
+  endOffset: 456
+- name: 'Crowd Modeling: Queue Prediction and Ride Capacity'
+  startOffset: 456
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=456
+  endOffset: 779
+- name: 'Visitor Routing: Next-Best-Action Recommendation System'
+  startOffset: 779
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=779
+  endOffset: 890
+- name: App Adoption & Incentives for Data Collection
+  startOffset: 890
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=890
+  endOffset: 1000
+- name: Behavioral Route Modeling & Probabilistic Recommendations
+  startOffset: 1000
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=1000
+  endOffset: 1109
+- name: 'E-commerce Recs: Bol.com Favorite-Brand Carousel'
+  startOffset: 1109
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=1109
+  endOffset: 1443
+- name: 'Recommendation Validation: Employee Swiping Experiment & A/B Testing'
+  startOffset: 1443
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=1443
+  endOffset: 1561
+- name: 'Real-time Processing: Streaming for Live Experiments'
+  startOffset: 1561
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=1561
+  endOffset: 1879
+- name: 'Measurement & Rollout: Engagement Metrics and Accuracy Results'
+  startOffset: 1879
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=1879
+  endOffset: 2001
+- name: 'Role at Tesla: Data Engineering vs. ML Engineering Responsibilities'
+  startOffset: 2001
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=2001
+  endOffset: 2061
+- name: 'Full-Stack Data Work: Building Apps, Instrumentation, and Deployment'
+  startOffset: 2061
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=2061
+  endOffset: 2503
+- name: 'LLMs & AI-Assisted Development: Productivity Gains and Risks'
+  startOffset: 2503
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=2503
+  endOffset: 2766
+- name: 'On-Prem Inference Hardware: Raspberry Pi, Jetson Orin, Mac Mini'
+  startOffset: 2766
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=2766
+  endOffset: 2993
+- name: 'Models & Platforms: LLaMA, Code Models, and Replicate'
+  startOffset: 2993
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=2993
+  endOffset: 3243
+- name: 'Interview Preparation: Tesla Data Engineering Expectations (Architecture,
+    ETL, Scripting)'
+  startOffset: 3243
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=3243
+  endOffset: 3463
+- name: 'Career Strategy: Prioritization, Learning Opportunities, Underpromise & Overdeliver'
+  startOffset: 3463
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=3463
+  endOffset: 3610
+- name: Episode Closing & Key Takeaways
+  startOffset: 3610
+  url: https://www.youtube.com/watch?v=gXvVMvhfrIY&t=3610
+  endOffset: 3635
 ---
 
 Links:

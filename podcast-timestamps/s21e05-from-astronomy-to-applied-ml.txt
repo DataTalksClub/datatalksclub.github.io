@@ -1,0 +1,30 @@
+00:00:00 Podcast Introduction & Lunar Eclipse Anecdote
+00:01:13 Career Overview: From Nigeria to PhD in Cape Town
+00:04:12 MEERKAT and SKA: Radio Telescope Project Overview
+00:04:49 Electromagnetic Spectrum: Radio to Gamma Explained
+00:06:19 Research Goal: Identifying Radio-Emitting Stars in MEERKAT Data
+00:06:45 Telescope Types and Observing Constraints (Optical, Infrared, X-ray)
+00:08:00 Radio Telescope Site Requirements and Space-based X-ray Observatories
+00:10:39 Data Workflow: Detecting Point Sources in Radio Images
+00:11:50 Cross-matching Multi-wavelength Catalogs and Positional Astronomy
+00:13:35 Positional Uncertainty: 2D Projection, Foreground/Background Confusion
+00:15:30 Physics-based Verification: Using Prior Observations to Confirm Sources
+00:16:35 Radio Stars Rarity and Sensitivity Improvements with New Telescopes
+00:17:54 Building Curated Datasets as Foundation for Future Machine Learning
+00:21:31 Early ML Journey: Dataset Scale, Cloud Needs, and Inspiration
+00:24:33 Python Astronomy Tooling: Astropy, NumPy, SciPy for Big Data
+00:25:47 Cloud Computing Practices: JupyterHub and Remote Analysis
+00:26:58 ML ZoomCamp Impact: Transitioning to Reusable Code and Production Practices
+00:31:26 Edge Deployment Internship: Testing Models on Intel Hardware
+00:33:38 LLM Exploration: LangChain, Hugging Face, RAG and Vector Databases
+00:42:48 Course Projects: Orchestration with Kestra, Airflow, MinIO and Spark
+00:44:08 Airflow 3.0 Setup Experience and Astronomer CLI Learnings
+00:45:15 End-to-End Pipeline Example: MySQL → MinIO → Spark → Warehouse (dbt next)
+00:47:39 AI Training Ecosystem: LangChain Academy, Arize, NVIDIA Deep Learning Institute
+00:50:20 Student Benefits: Free NVIDIA Courses and Deploying on GPUs (A100/H100)
+00:52:01 BRICS Astronomy Bootcamp: Beginner-Friendly Data Analytics Program
+00:55:12 Sharing Projects: Colab Notebooks, Public Portfolios and GitHub Visibility
+00:57:59 Career Advice: Learn Python, Do Structured Projects, Leverage Domain Knowledge
+01:00:21 Tools & Sponsors: Data Load Tool for Pipelines and Community Support
+01:01:09 Learning Resources: Astropy Tutorials, Course GitHub and YouTube Archive
+01:02:22 Closing Remarks: Encouragement to Share Progress and Course Availability

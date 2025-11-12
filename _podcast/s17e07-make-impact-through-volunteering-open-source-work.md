@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=aHdaIwOEI8Q
 season: 17
 short: Make an Impact Through Volunteering Open Source Work
-title: Make an Impact Through Volunteering Open Source Work
+title: 'Boost Your AI Career: Volunteer Open-Source Projects, Hackathon Strategy &
+  Data Sourcing'
 transcript:
+- header: Podcast Introduction
+- header: 'Episode Overview: Volunteering, Open Source & Community Impact'
 - line: This week, we'll talk about volunteering and open source work. We have a special
     guest today, Sara. Sara is a Google Developer expert in machine learning, a Google
     PhD fellow, and also a co-founder of AI Wonder Girls. She likes to demystify AI
@@ -34,7 +37,7 @@ transcript:
   sec: 154
   time: '2:34'
   who: Sara
-- header: Sara’s background
+- header: 'Career Origins: Early AI Interest and Education Path'
 - line: The questions for today's interview were prepared by Johanna Bayer. As always,
     thanks, Johanna, for your help. Before we start – before we go into our main topic
     of open source work and volunteering – let's start with your background. Can you
@@ -66,6 +69,7 @@ transcript:
   sec: 263
   time: '4:23'
   who: Alexey
+- header: 'Academic Focus: Big Data Specialization and Computer Vision'
 - line: Yeah. Actually, in our engineering, we were doing computer science. Our major
     was called Computer Science and Emerging Technologies Engineering. In our last
     year, I did a Big Data Engineering specialization.
@@ -95,6 +99,7 @@ transcript:
   sec: 332
   time: '5:32'
   who: Sara
+- header: 'PhD Research: Multimodal Learning for COVID-19 & Medical Imaging'
 - line: Yeah, I also know Scrubs, but I guess it's also not really a very medical
     show, right? [Sara agrees] [chuckles] Okay, so your focus is on AI and healthcare,
     right? [Sara agrees] So what is your PhD about?
@@ -144,7 +149,7 @@ transcript:
   sec: 443
   time: '7:23'
   who: Sara
-- header: On being a Google PhD fellow
+- header: 'Google PhD Fellowship: Application Strategy and Benefits'
 - line: Ah, so it took a bit of time. [Sara agrees] You're also a Google PhD fellow.
     [Sara agrees] What does that mean and how did you get it?
   sec: 473
@@ -194,7 +199,7 @@ transcript:
   sec: 482
   time: '8:02'
   who: Sara
-- header: Sara’s volunteer work
+- header: 'Volunteer Projects Overview: PTSD Chatbot and Trash Detection Cases'
 - line: Interesting. You mentioned that one of the reasons you got this was the cause,
     and that it was helping the local community. [Sara agrees] Not only that, but
     also, because of all the previous work you had done – all the volunteering work,
@@ -240,6 +245,7 @@ transcript:
   sec: 848
   time: '14:08'
   who: Alexey
+- header: 'Medical Imaging Project: Cervical Spine Segmentation Work'
 - line: Yeah. Yes. They were trying to figure out if… For example, when someone had
     surgery to replace one of these cervicals, was the movement still the same as
     it is in normal settings? Because, what happened was that, when they replaced
@@ -270,6 +276,7 @@ transcript:
   sec: 950
   time: '15:50'
   who: Alexey
+- header: 'Data Sourcing Techniques: Open Images and Creative Collection'
 - line: Oh, so we got it from… Someone  in the university had a friend in the military,
     and they contacted them, and they said we could use that data. At that time, if
     I remember correctly, IBM was interested in developing chatbots for military people.
@@ -293,12 +300,12 @@ transcript:
   sec: 965
   time: '16:05'
   who: Sara
-- header: Finding AI volunteer work
 - line: How did you actually come across this project from Omdena? How did you find
     this PTSD project (the first one)?
   sec: 1061
   time: '17:41'
   who: Alexey
+- header: 'Opportunity Hunting: LinkedIn, Social Media, and Mailing Lists'
 - line: That's a good question. From my LinkedIn. [chuckles] When I was back in my
     first year, the one where I discovered that I was interested in AI, the whole
     time, I was complaining about opportunity. When I got into AI, I was really… I
@@ -342,6 +349,7 @@ transcript:
   sec: 1205
   time: '20:05'
   who: Alexey
+- header: 'Productivity Tips: Curated Feeds and Managing Social Media Time'
 - line: Yeah, it is. That's why you kind of need to be very specific around who you
     follow. You need to be mindful… [cross-talk]
   sec: 1225
@@ -429,7 +437,7 @@ transcript:
   sec: 1421
   time: '23:41'
   who: Sara
-- header: Sara’s Fruit Punch challenge
+- header: 'Platform Differences: Omdena vs. Fruit Punch AI Collaboration Models'
 - line: Yeah, but he's still there. Right? [chuckles] Okay. So this is how you found
     these opportunities – through social media. So you found Omdena, then you took
     part in another challenge with Omdena, and then there was this FruitPunch.AI,
@@ -475,7 +483,7 @@ transcript:
   sec: 1580
   time: '26:20'
   who: Alexey
-- header: How to take part in AI challenges
+- header: 'Joining Challenges: Beginner Support, Roles, and Team Dynamics'
 - line: You can! That's the thing, you can. They won't block you. [chuckles] It’s
     just that it’s going to be very overwhelming. But people usually are very nice.
     If you're not shy, and if you ask for help, everyone will most surely help. People
@@ -496,7 +504,6 @@ transcript:
   sec: 1617
   time: '26:57'
   who: Alexey
-- header: AI Wonder Girls
 - line: AI Wonder Girls!
   sec: 1618
   time: '26:58'
@@ -505,6 +512,7 @@ transcript:
   sec: 1621
   time: '27:01'
   who: Alexey
+- header: 'Women-Led AI Groups: Community Formation and Project Workflow'
 - line: We're a group of ladies interested in AI, from different walks of life. There
     are people who are tech and people who are business-related. We get together and
     we find a challenge that's interesting for us –a hackathon, competition, you name
@@ -608,11 +616,11 @@ transcript:
   sec: 1864
   time: '31:04'
   who: Sara
-- header: Hackathons
 - line: Can you tell us about one of the hackathons?
   sec: 1868
   time: '31:08'
   who: Alexey
+- header: 'Hackathon Case Study: Medical Imaging Solution, Mentors, and Deliverables'
 - line: Yeah. For example, our first hackathon was around medical imaging. It was
     from Microsoft and Stratica. Actually, that was the first one that started everything.
     Previously, I really wanted to be part of hackathons. I was amazed by people who
@@ -689,6 +697,7 @@ transcript:
   sec: 2158
   time: '35:58'
   who: Alexey
+- header: 'Hackathon Strategy: Understanding Judges, Criteria, and Positioning'
 - line: Wait. By the way, they won't tell you. You need to get it out of them. [chuckles]
   sec: 2192
   time: '36:32'
@@ -736,7 +745,6 @@ transcript:
   sec: 2259
   time: '37:39'
   who: Sara
-- header: Things people often miss in AI projects and hackathons
 - line: That's smart. Is there something that most people miss? I guess if there is
     a list of criteria, then most people try to… “Okay, they care about the environment.
     Let's set something…” Is there something that most people miss?
@@ -751,6 +759,7 @@ transcript:
   sec: 2386
   time: '39:46'
   who: Alexey
+- header: 'MVP Mindset: Overcoming Data and Compute Constraints'
 - line: No, there is. There's one thing actually that we all miss. It's the fact that
     we say, “I can't do this.” So what I invite you to do is not to think about the
     fact that you can't do this, but think about what you can do with what you have.
@@ -794,7 +803,7 @@ transcript:
   sec: 2523
   time: '42:03'
   who: Sara
-- header: Getting creative
+- header: 'Data Creativity: Generative AI, Research, and Team Composition'
 - line: So what if I'm the least creative person on Earth? How do I go about being
     creative when it comes to getting data?
   sec: 2527
@@ -862,11 +871,11 @@ transcript:
   sec: 2722
   time: '45:22'
   who: Alexey
+- header: 'Building a Research Network: Finding and Following Researchers on Twitter'
 - line: On Twitter.
   sec: 2724
   time: '45:24'
   who: Sara
-- header: Fostering your social media
 - line: Because there's a question from Omar, “What's the best way to foster your
     Twitter?”
   sec: 2726
@@ -966,7 +975,7 @@ transcript:
   sec: 2919
   time: '48:39'
   who: Sara
-- header: Tips on applying for volunteer projects
+- header: 'Applying to Volunteer Projects: Interview Pitching and Relevant Skills'
 - line: So, another question. “Can you share tips on how to apply for these volunteering
     projects?”
   sec: 2922
@@ -1006,13 +1015,13 @@ transcript:
   sec: 2932
   time: '48:52'
   who: Sara
-- header: Why it’s worth doing volunteer projects
 - line: I’m wondering, what do you actually get from participating in these projects?
     It's not paid, so you're getting some experience, I assume. What’s in it for you?
     Why do you take part? Why would I want to take part? What do you think?
   sec: 3059
   time: '50:59'
   who: Alexey
+- header: 'Volunteer Outcomes: Practical Experience, Referrals, and Soft Skills'
 - line: Okay. I will be talking about impact and then practical. Let's start with
     practical. When you're trying to search for an internship and they tell you they
     are doing X or Y, they will be giving you specific tasks to do, right? When you
@@ -1080,7 +1089,7 @@ transcript:
   sec: 3310
   time: '55:10'
   who: Sara
-- header: Opportunities for data engineers and students
+- header: 'Roles for Data Engineers: Data Preparation, Pipelines, and Dashboards'
 - line: Right now, in DataTalks.Club, we have a course about data engineering. There
     is a question, “Do you know any opportunities for data engineers?” If I'm a data
     engineer, or if I'm studying to become a data engineer, can I also apply for these
@@ -1132,7 +1141,7 @@ transcript:
   sec: 3467
   time: '57:47'
   who: Sara
-- header: Sara’s newsletter suggestions
+- header: 'Opportunity Sources: WIML, Conference Feeds, and Newsletters'
 - line: We don't have a lot of time. There’s one last question. You mentioned that
     when you were looking for opportunities, and when you still look for them… I asked
     you, “How do you usually find these opportunities?” And you said, “Social media,
@@ -1173,6 +1182,7 @@ transcript:
   sec: 3623
   time: '1:00:23'
   who: Sara
+- header: Closing Remarks and How to Connect
 - line: That was nice. It's really great to speak with you. Thanks for sharing all
     your experience with us. It was very motivating. I'm sure you managed to convince
     a few of the listeners to actually give it a try. So thanks a lot for doing that.
@@ -1209,6 +1219,124 @@ transcript:
   sec: 3677
   time: '1:01:17'
   who: Sara
+description: Discover volunteer open-source projects, hackathon strategy and data
+  sourcing tips to build an AI portfolio, land referrals, and win medical imaging
+  challenges.
+intro: Struggling to break into impactful AI work—what volunteer projects, hackathon
+  tactics, and data sourcing methods actually move your career forward? In this episode
+  Sara El‑Ateif, Google Developer Expert in Machine Learning, Google PhD Fellow and
+  co‑founder of AI Wonder Girls, walks through her path from big data and computer
+  vision studies to multimodal COVID‑19 research and practical volunteer projects.
+  <br><br> Sara breaks down real examples—PTSD chatbot, trash detection, and cervical
+  spine segmentation—showing how to source data (Open Images, creative collection,
+  generative approaches), pitch for volunteer roles, and contribute on platforms like
+  Omdena and Fruit Punch AI. She explains hackathon strategy—understanding judges,
+  defining an MVP despite limited data/compute, and building deliverables with mentors—and
+  outlines opportunity hunting via LinkedIn, social feeds, mailing lists, WIML and
+  conference channels. <br><br> Listeners will get actionable guidance on applying
+  to projects, roles for data engineers (data prep, pipelines, dashboards), productivity
+  tips, and how to build a research network. Tune in to learn concrete steps to boost
+  your AI career through open‑source volunteering, smarter hackathon participation,
+  and better data sourcing.
+dateadded: '2024-02-29'
+duration: PT00H59M34S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=0
+  endOffset: 103
+- name: 'Episode Overview: Volunteering, Open Source & Community Impact'
+  startOffset: 103
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=103
+  endOffset: 157
+- name: 'Career Origins: Early AI Interest and Education Path'
+  startOffset: 157
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=157
+  endOffset: 266
+- name: 'Academic Focus: Big Data Specialization and Computer Vision'
+  startOffset: 266
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=266
+  endOffset: 346
+- name: 'PhD Research: Multimodal Learning for COVID-19 & Medical Imaging'
+  startOffset: 346
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=346
+  endOffset: 473
+- name: 'Google PhD Fellowship: Application Strategy and Benefits'
+  startOffset: 473
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=473
+  endOffset: 668
+- name: 'Volunteer Projects Overview: PTSD Chatbot and Trash Detection Cases'
+  startOffset: 668
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=668
+  endOffset: 849
+- name: 'Medical Imaging Project: Cervical Spine Segmentation Work'
+  startOffset: 849
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=849
+  endOffset: 965
+- name: 'Data Sourcing Techniques: Open Images and Creative Collection'
+  startOffset: 965
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=965
+  endOffset: 1068
+- name: 'Opportunity Hunting: LinkedIn, Social Media, and Mailing Lists'
+  startOffset: 1068
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=1068
+  endOffset: 1225
+- name: 'Productivity Tips: Curated Feeds and Managing Social Media Time'
+  startOffset: 1225
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=1225
+  endOffset: 1424
+- name: 'Platform Differences: Omdena vs. Fruit Punch AI Collaboration Models'
+  startOffset: 1424
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=1424
+  endOffset: 1585
+- name: 'Joining Challenges: Beginner Support, Roles, and Team Dynamics'
+  startOffset: 1585
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=1585
+  endOffset: 1622
+- name: 'Women-Led AI Groups: Community Formation and Project Workflow'
+  startOffset: 1622
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=1622
+  endOffset: 1871
+- name: 'Hackathon Case Study: Medical Imaging Solution, Mentors, and Deliverables'
+  startOffset: 1871
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=1871
+  endOffset: 2192
+- name: 'Hackathon Strategy: Understanding Judges, Criteria, and Positioning'
+  startOffset: 2192
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=2192
+  endOffset: 2387
+- name: 'MVP Mindset: Overcoming Data and Compute Constraints'
+  startOffset: 2387
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=2387
+  endOffset: 2527
+- name: 'Data Creativity: Generative AI, Research, and Team Composition'
+  startOffset: 2527
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=2527
+  endOffset: 2724
+- name: 'Building a Research Network: Finding and Following Researchers on Twitter'
+  startOffset: 2724
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=2724
+  endOffset: 2922
+- name: 'Applying to Volunteer Projects: Interview Pitching and Relevant Skills'
+  startOffset: 2922
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=2922
+  endOffset: 3081
+- name: 'Volunteer Outcomes: Practical Experience, Referrals, and Soft Skills'
+  startOffset: 3081
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=3081
+  endOffset: 3365
+- name: 'Roles for Data Engineers: Data Preparation, Pipelines, and Dashboards'
+  startOffset: 3365
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=3365
+  endOffset: 3497
+- name: 'Opportunity Sources: WIML, Conference Feeds, and Newsletters'
+  startOffset: 3497
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=3497
+  endOffset: 3624
+- name: Closing Remarks and How to Connect
+  startOffset: 3624
+  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=3624
+  endOffset: 3574
 ---
 
 Links:

@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=NThHAEIazFk
 season: 17
 short: Stock Market Analysis with Python and Machine Learning
-title: Stock Market Analysis with Python and Machine Learning
+title: 'Algorithmic Trading & Mean Reversion: Backtesting, Data APIs, Risk Management
+  & ML'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Introduction: Ivan Brigida — Analytics Lead & PythonInvest'
 - line: This week, we'll talk about stock market analysis with Python and machine
     learning. We have a special guest today, Ivan. Ivan works as Analytics Team Lead
     at Google. He's interested in investing in programming in Python, and he blogs
@@ -27,6 +30,7 @@ transcript:
   sec: 117
   time: '1:57'
   who: Ivan
+- header: 'Disclaimer: Financial discussion, not investment advice'
 - line: Yeah, we'll go into that. I just want to first thank Johanna Bayer, who prepared
     the questions for this interview. Also, before we go into our main topic of stock
     market analysis with Python and machine learning, we also need to add a disclaimer
@@ -50,7 +54,7 @@ transcript:
   sec: 128
   time: '2:08'
   who: Alexey
-- header: Ivan’s background
+- header: Background & career trajectory from finance to analytics
 - line: Before we actually go and discuss this topic, I want to know about your background.
     Can you tell us about your career journey? What did you do in your life?
   sec: 233
@@ -87,6 +91,7 @@ transcript:
   sec: 246
   time: '4:06'
   who: Ivan
+- header: Google experience and role transitions
 - line: So you mostly worked at Google.
   sec: 402
   time: '6:42'
@@ -119,6 +124,7 @@ transcript:
   sec: 444
   time: '7:24'
   who: Alexey
+- header: Choosing individual contributor work over people management
 - line: Not really. It was an experiment for a half year. I prefer to be an IC (individual
     contributor). For me, it is easier to focus on complex projects, while being a
     people manager is a very different role. I try to stay away. I was offered it
@@ -161,7 +167,7 @@ transcript:
   sec: 547
   time: '9:07'
   who: Ivan
-- header: How Ivan became interested in investing
+- header: 'Investing interest: economics education to practical trading'
 - line: How did you become interested in investing? Was it related to your education
     in economics or to something else?
   sec: 565
@@ -199,6 +205,7 @@ transcript:
   sec: 695
   time: '11:35'
   who: Alexey
+- header: Blogging & building a pet project to test strategies
 - line: Yeah. At some point, I wanted to have a pet project. I wanted to test new
     technologies and wanted to have something on the internet, like create a website,
     publish some articles, record videos. My natural selection for this pet project
@@ -223,7 +230,7 @@ transcript:
   sec: 753
   time: '12:33'
   who: Ivan
-- header: Getting financial data to run simulations
+- header: Financial data sources and APIs for retail investors (Yahoo, Quandl, Polygon)
 - line: Can you tell us more about this? You said you figured out how to get data
     and how to do simulations. Maybe you can tell us more about where you got that
     data from? And maybe where people can get data now (today) and how to perform
@@ -272,6 +279,7 @@ transcript:
   sec: 914
   time: '15:14'
   who: Alexey
+- header: 'Market data format explained: OHLCV time series'
 - line: Yes, there is a website finance.yahoo.com and this API… I think this is not
     even an official one – someone has been managing that for a number of years. The
     data looks like a daily or hourly or minutes time series, and it is called, OHCLV,
@@ -307,7 +315,6 @@ transcript:
   sec: 1022
   time: '17:02'
   who: Ivan
-- header: Open, High, Low, Close, Volume
 - line: 'But this is enough to get started. [Ivan agrees] I just checked. It''s a
     web page – there is day, open, high, low, close, volume. [Ivan agrees] I have
     no idea what these things mean: Open, High, Low, Close. How much background do
@@ -326,6 +333,7 @@ transcript:
   sec: 1073
   time: '17:53'
   who: Ivan
+- header: Adjusted close and data quality considerations
 - line: And there is this “adjusted close” – what does it mean?
   sec: 1119
   time: '18:39'
@@ -353,6 +361,7 @@ transcript:
   sec: 1161
   time: '19:21'
   who: Alexey
+- header: 'Mean reversion strategy: concept and application'
 - line: For example, you're interested in some stock or in some vertical that you're
     following (a few stocks), and you can treat it as a time series that can be growing,
     neutral, or declining. You can try to make profits from any trend that you can
@@ -392,7 +401,7 @@ transcript:
   sec: 1311
   time: '21:51'
   who: Ivan
-- header: Risk management strategy
+- header: Risk management fundamentals and stop‑loss thresholds
 - line: I have two questions right now. First question is, “Okay, now I see losses.
     What do I do with them?”
   sec: 1334
@@ -459,7 +468,7 @@ transcript:
   sec: 1513
   time: '25:13'
   who: Ivan
-- header: Testing your trading strategies
+- header: Backtesting methodology and avoiding time‑series data leakage
 - line: Okay, I actually got lost a bit. You said many things, like “long stocks,”
     “rebalancing strategy,” “portfolio allocation”… We should probably talk about
     that later. [Ivan agrees] One question I still have is – we know how to get data
@@ -500,6 +509,7 @@ transcript:
   sec: 1738
   time: '28:58'
   who: Alexey
+- header: 'Walk‑forward simulation: weekly predictions and selection rules'
 - line: Yes. I can give an example of the exact thing that I had. I started from the
     100 largest US stocks, and I made predictions for one week ahead. I tried to predict…
     Historically you can calculate future growth from the data – when you don't know
@@ -570,6 +580,7 @@ transcript:
   sec: 2068
   time: '34:28'
   who: Ivan
+- header: Trade execution and position sizing for algorithmic strategies
 - line: How do we actually do the simulation? We also need to think… What is a strategy?
     A strategy is – we have some algorithm, and then also what exactly we do with
     the output of this algorithm. In your case, you said, “We take the 100 largest
@@ -615,7 +626,7 @@ transcript:
   sec: 2261
   time: '37:41'
   who: Ivan
-- header: Sticking to your strategy
+- header: 'Discipline: sticking to strategy vs emotional trading'
 - line: So let's say I'm getting started and I have my data scientist salary. I think
     “Okay, if I leave aside 50 euros every day, my strategy can be – for every day
     when the market is open, I see how I can invest these 50 euros (or $50). Also,
@@ -656,7 +667,7 @@ transcript:
   sec: 2426
   time: '40:26'
   who: Ivan
-- header: Important metrics and remembering about trading fees
+- header: 'Evaluation metrics: ROI, precision focus, and trading fees impact'
 - line: There is a question about metrics. Let's say we do this simulation. I guess
     for us, what we mostly care about is the money – return on investment. Right?
     [Ivan agrees] Whether it's positive or negative. If it's positive, how much, right?
@@ -697,6 +708,7 @@ transcript:
   sec: 2583
   time: '43:03'
   who: Ivan
+- header: 'Prediction target definition: binary growth thresholds (e.g., 5%)'
 - line: We talked about machine learning models, specifically binary classification
     models. What is typically the variable (the outcome) that we’re trying to predict?
     Is it whether the stock is going to grow?
@@ -722,7 +734,6 @@ transcript:
   sec: 2636
   time: '43:56'
   who: Ivan
-- header: Important features
 - line: You mentioned features. I assume that everything we’re talking about is based
     on the data that we talked about, which is Open, High, Low, Close, and Volume,
     right?
@@ -735,6 +746,7 @@ transcript:
   sec: 2740
   time: '45:40'
   who: Ivan
+- header: 'Feature engineering: time‑window stats and handcrafted indicators'
 - line: How do you build…? Let's say, we want to build the simplest possible model
     for that, but still use machine learning – like logistic regression or something
     else. How exactly would we design the problem in order to predict this growth
@@ -762,6 +774,7 @@ transcript:
   sec: 2787
   time: '46:27'
   who: Ivan
+- header: 'Model choices: logistic regression, XGBoost, NN for stock prediction'
 - line: So with these features that we generate, we can train logistic regression
     or XGBoost or [cross-talk] ML models, right? We don't even need to use any specific
     time series models here.
@@ -792,6 +805,7 @@ transcript:
   sec: 2957
   time: '49:17'
   who: Ivan
+- header: 'Explainability: feature importance and model debugging'
 - line: So the features, from what I understood from our discussion, are simple statistics
     but calculated over a period of time. Let's say “Was the stock growing in the
     last 5 days, 10 days, 20 days, 30 days?” Right? Then you can calculate many different
@@ -820,7 +834,7 @@ transcript:
   sec: 3069
   time: '51:09'
   who: Ivan
-- header: Deployment
+- header: 'Deployment options: cron, Airflow, APIs and partial automation'
 - line: I’m also curious about deployment. We discussed all the strategies, we discussed
     simulation – for simulation, you don't need anything. But for the actual trading…
     Let's say, now we have a strategy, we tested it with simulations, it's showing
@@ -874,7 +888,7 @@ transcript:
   sec: 3282
   time: '54:42'
   who: Ivan
-- header: How DataTalks.Club courses helped Ivan
+- header: 'Learning pathways: MLOps, ML Zoomcamp, and practical projects'
 - line: You mentioned the course from DataTalks.Club – I assume it was the MLOps course?
     Which one did you mean?
   sec: 3305
@@ -912,7 +926,7 @@ transcript:
   sec: 3396
   time: '56:36'
   who: Ivan
-- header: Ivan’s site and course sign-up
+- header: 'PythonInvest content: API guides, models, portfolio allocation stories'
 - line: In this episode, we probably have talked enough about different things that
     for students, just from listening to this episode, it's sufficient to go and build
     the first model, right? But if you want to learn more, would you say that your
@@ -971,6 +985,7 @@ transcript:
   sec: 3665
   time: '1:01:05'
   who: Alexey
+- header: Course plans, sign‑up, and community building
 - line: Yeah. I heard that and I will probably wait until 500 people are subscribed,
     so that I can say, “Okay, next year from January, I will run it.” It’s not there
     yet, but I hope someday.
@@ -986,6 +1001,7 @@ transcript:
   sec: 3692
   time: '1:01:32'
   who: Ivan
+- header: Episode Wrap‑up and final reminder (not financial advice)
 - line: Okay. So we just need 300 more. [chuckles] Okay. Thanks a lot. It's unfortunately
     time to wrap up for today. It was amazing. I learned many new things. Hopefully,
     everyone else also learned new things. Thanks for joining us today, for sharing.
@@ -1000,6 +1016,136 @@ transcript:
   sec: 3735
   time: '1:02:15'
   who: Ivan
+description: 'Discover algorithmic trading & mean reversion: practical backtesting,
+  data APIs, risk management, model choices and trade execution to boost strategy
+  ROI.'
+intro: 'How do you build, backtest, and deploy a robust mean-reversion algorithm without
+  falling prey to bad data or time‑series leakage? In this episode, Ivan Brigida —
+  Analytics Lead and creator of PythonInvest — draws on 10+ years in business intelligence,
+  econometrics, forecasting, machine learning and finance to answer that question.
+  <br><br> We walk through practical steps for algorithmic trading: choosing retail-friendly
+  data APIs (Yahoo, Quandl, Polygon), understanding market data formats like OHLCV
+  and adjusted close, and cleaning for data quality. Ivan explains mean reversion
+  strategy design, risk management fundamentals including stop‑loss and position sizing,
+  and rigorous backtesting methods—covering time‑series leakage and walk‑forward simulation.
+  He also breaks down prediction targets, feature engineering with time‑window statistics,
+  and model choices from logistic regression to XGBoost and neural networks, plus
+  approaches to explainability and evaluation metrics (ROI, precision, trading fees).
+  Finally, deployment options (cron, Airflow, APIs) and learning resources from PythonInvest
+  are discussed. <br><br> Listen to gain actionable guidance on backtesting, data
+  sources, risk controls, and machine learning techniques to move a mean‑reversion
+  idea toward a reproducible algorithmic trading workflow.'
+dateadded: '2024-01-24'
+duration: PT01H40S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=0
+  endOffset: 95
+- name: 'Guest Introduction: Ivan Brigida — Analytics Lead & PythonInvest'
+  startOffset: 95
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=95
+  endOffset: 128
+- name: 'Disclaimer: Financial discussion, not investment advice'
+  startOffset: 128
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=128
+  endOffset: 233
+- name: Background & career trajectory from finance to analytics
+  startOffset: 233
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=233
+  endOffset: 402
+- name: Google experience and role transitions
+  startOffset: 402
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=402
+  endOffset: 449
+- name: Choosing individual contributor work over people management
+  startOffset: 449
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=449
+  endOffset: 565
+- name: 'Investing interest: economics education to practical trading'
+  startOffset: 565
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=565
+  endOffset: 707
+- name: Blogging & building a pet project to test strategies
+  startOffset: 707
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=707
+  endOffset: 795
+- name: Financial data sources and APIs for retail investors (Yahoo, Quandl, Polygon)
+  startOffset: 795
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=795
+  endOffset: 923
+- name: 'Market data format explained: OHLCV time series'
+  startOffset: 923
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=923
+  endOffset: 1119
+- name: Adjusted close and data quality considerations
+  startOffset: 1119
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1119
+  endOffset: 1187
+- name: 'Mean reversion strategy: concept and application'
+  startOffset: 1187
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1187
+  endOffset: 1334
+- name: Risk management fundamentals and stop‑loss thresholds
+  startOffset: 1334
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1334
+  endOffset: 1608
+- name: Backtesting methodology and avoiding time‑series data leakage
+  startOffset: 1608
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1608
+  endOffset: 1784
+- name: 'Walk‑forward simulation: weekly predictions and selection rules'
+  startOffset: 1784
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1784
+  endOffset: 2115
+- name: Trade execution and position sizing for algorithmic strategies
+  startOffset: 2115
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2115
+  endOffset: 2304
+- name: 'Discipline: sticking to strategy vs emotional trading'
+  startOffset: 2304
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2304
+  endOffset: 2451
+- name: 'Evaluation metrics: ROI, precision focus, and trading fees impact'
+  startOffset: 2451
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2451
+  endOffset: 2619
+- name: 'Prediction target definition: binary growth thresholds (e.g., 5%)'
+  startOffset: 2619
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2619
+  endOffset: 2755
+- name: 'Feature engineering: time‑window stats and handcrafted indicators'
+  startOffset: 2755
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2755
+  endOffset: 2882
+- name: 'Model choices: logistic regression, XGBoost, NN for stock prediction'
+  startOffset: 2882
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2882
+  endOffset: 2998
+- name: 'Explainability: feature importance and model debugging'
+  startOffset: 2998
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2998
+  endOffset: 3106
+- name: 'Deployment options: cron, Airflow, APIs and partial automation'
+  startOffset: 3106
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3106
+  endOffset: 3305
+- name: 'Learning pathways: MLOps, ML Zoomcamp, and practical projects'
+  startOffset: 3305
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3305
+  endOffset: 3449
+- name: 'PythonInvest content: API guides, models, portfolio allocation stories'
+  startOffset: 3449
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3449
+  endOffset: 3666
+- name: Course plans, sign‑up, and community building
+  startOffset: 3666
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3666
+  endOffset: 3696
+- name: Episode Wrap‑up and final reminder (not financial advice)
+  startOffset: 3696
+  url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3696
+  endOffset: 3640
 ---
 
 Links:

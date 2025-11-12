@@ -1,0 +1,21 @@
+00:00:00 Episode Introduction
+00:01:40 Guest Bio: career path from mechanical engineering to applied AI
+00:02:57 Guest Background & Career Transition
+00:05:37 Applied Mechanics & Finite Element Analysis (FEA) overview
+00:08:05 FEA vs Machine Learning: numerical modeling vs data-driven approaches
+00:08:50 Optimization, Topology & Semantic Reporting in crash simulations
+00:15:58 Knowledge Graphs for Automotive R&D: motivation and Neo4j adoption
+00:20:32 Graph vs Tabular Representations: visualization, clustering, load-path detection
+00:26:15 From Knowledge Graphs to Computational Graphs (NetworkX & graph analytics)
+00:28:00 Graph Data Science & Graph ML: similarity measures and SimRank
+00:33:43 Combining Knowledge Graphs & LLMs: grounding and retrieval-augmented generation (RAG)
+00:38:10 Text Chunking, Embeddings & Vector Databases vs Knowledge Graph Semantics
+00:39:56 Prompt Templates & KG-driven Retrieval (Cypher-based examples)
+00:40:23 RAG vs Transfer Learning: embeddings, fine-tuning, and distinctions
+00:42:42 Trust, Hallucination & Verification Limits of LLM-extracted Knowledge
+00:44:13 ADPT-LRN-PHYS Project Overview: LLM + KG for adaptive learning and paper reading
+00:47:10 Paper Parsing & KG Visualization: sections, keywords, PageRank and reference mapping
+00:54:18 Project Challenges: automating graph generation and scoping the demo
+00:55:36 Deployment & Frontend Issues: Streamlit limits and state management for graph UIs
+00:57:46 Learning Resources: graph ML courses, Jure Leskovec, Graph Conference and KG+LLM courses
+01:00:41 Episode Conclusion and Takeaways

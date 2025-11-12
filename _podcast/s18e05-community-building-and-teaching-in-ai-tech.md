@@ -13,8 +13,11 @@ links:
   youtube: https://www.youtube.com/watch?v=7SLd5V7z3xQ
 season: 18
 short: Community Building and Teaching in AI & Tech
-title: Community Building and Teaching in AI & Tech
+title: 'Omdena Academy: Project-to-Course AI Education for Data Science Careers &
+  Instructors'
 transcript:
+- header: Podcast Introduction
+- header: 'Guest Introduction: Erum Afzal — AI for education & Omdena Academy'
 - line: This week, we'll talk about community building. We have a special guest today,
     Erum. Erum is a Lead Machine Learning Engineer and PhD researcher at Justus Liebig
     University. Did I pronounce it correctly?
@@ -41,9 +44,9 @@ transcript:
   sec: 144
   time: '2:24'
   who: Alexey
-- header: Erum's Background
-- line: Before we dive into community building, let's start with your background. Can
-    you tell us about your career journey so far?
+- header: 'Background: Journey from Pakistan to PhD & community teaching'
+- line: Before we dive into community building, let's start with your background.
+    Can you tell us about your career journey so far?
   sec: 152
   time: '2:32'
   who: Alexey
@@ -90,7 +93,7 @@ transcript:
   sec: 294
   time: '4:54'
   who: Alexey
-- header: Omdena Academy and Erum's Role There
+- header: 'Omdena Academy: Evolution from projects to structured courses'
 - line: I'm currently Head of Omdena Academy. I started as a Lead Machine Learning
     Engineer, then we began delivering courses and transformed Omdena School into
     Omdena Academy.
@@ -103,6 +106,7 @@ transcript:
   sec: 328
   time: '5:28'
   who: Alexey
+- header: 'Omdena Projects: Global collaborators solving real‑world AI problems'
 - line: Omdena is a global community that started in 2019. Every participant is called
     a "collaborator." We solve real-world challenges with AI. We started with a mental
     assistive application in 2019, then projects like finding anomalies on Mars. Our
@@ -134,18 +138,19 @@ transcript:
   sec: 580
   time: '9:40'
   who: Alexey
+- header: 'Project-to-Course Model: Teaching skills learned from projects'
 - line: It's not 100% aligned with requirements, but we address necessary skill sets.
     Courses are delivered after project completion to teach how Omdena works, giving
     people an idea of how to handle projects.
   sec: 619
   time: '10:19'
   who: Erum
-- header: Omdena's Community and Projects
 - line: From what I understood, it's about the platform and community interaction.
     Are there courses on basic data science, like Pandas or NumPy?
   sec: 673
   time: '11:13'
   who: Alexey
+- header: 'Foundational Data Science Courses: Python, Pandas, NumPy, NLP'
 - line: Yes, we now offer basic courses. Initially, it was project-based, like developing
     a solution for vision-impaired people in Germany. Now we have courses on natural
     language processing and interview preparation.
@@ -176,11 +181,11 @@ transcript:
   sec: 860
   time: '14:20'
   who: Erum
-- header: Course Development and Structure at Omdena Academy
 - line: How do you decide what content to teach and what courses to offer?
   sec: 864
   time: '14:24'
   who: Alexey
+- header: 'Course Development: Instructor application, content review, delivery'
 - line: I work as a facilitator and teach a few courses. I create courses based on
     my learning experiences. Instead of taking paid courses, I learn on my own, make
     notes, and then deliver the course. This way, I effectively use my knowledge.
@@ -197,6 +202,7 @@ transcript:
   sec: 950
   time: '15:50'
   who: Alexey
+- header: 'Business Model: Free learner courses with organizational partnerships'
 - line: Yes, free for both instructors and students. Instructors don't get paid.
   sec: 952
   time: '15:52'
@@ -227,12 +233,12 @@ transcript:
   sec: 1045
   time: '17:25'
   who: Erum
-- header: Student and Instructor Engagement
 - line: Do I have to be in the Omdena community to join a course? Do I need to do
     a project first?
   sec: 1046
   time: '17:26'
   who: Alexey
+- header: 'Access Pathways: Enroll without prior Omdena membership; pathway to projects'
 - line: No. Organizations can develop courses through Omdena without doing projects.
     For companies, courses come first, then projects. Graduates can join projects
     later.
@@ -254,21 +260,22 @@ transcript:
   sec: 1232
   time: '20:32'
   who: Alexey
+- header: 'Instructor Pipeline: Open applications and project-based recruitment'
 - line: It's a mix. The link to apply as an instructor is always open. Sometimes,
     we reach out to interesting project teams and suggest creating a course on a specific
     topic.
   sec: 1248
   time: '20:48'
   who: Erum
-- header: Engagement and Motivation
 - line: At DataTalks.Club, we have free courses with a low completion rate. Do you
     see something similar?
   sec: 1296
   time: '21:36'
   who: Alexey
+- header: 'Course Engagement: Live sessions, selection process, graduation rates'
 - line: Yes. Our courses are live, not recorded. We invite 100 out of 400-500 registrants
-    due to capacity and financial constraints. Our graduation rate is about 33%.
-    Many attend but don't submit assignments, so they don't get a certificate.
+    due to capacity and financial constraints. Our graduation rate is about 33%. Many
+    attend but don't submit assignments, so they don't get a certificate.
   sec: 1349
   time: '22:29'
   who: Erum
@@ -276,6 +283,7 @@ transcript:
   sec: 1429
   time: '23:49'
   who: Alexey
+- header: 'Selection & Motivation: Prereqs, availability, and incentive programs'
 - line: We consider prerequisites, motivation, and availability. We also offer free
     subscriptions to learning platforms like DataCamp, which motivates participants.
   sec: 1458
@@ -286,6 +294,7 @@ transcript:
   sec: 1522
   time: '25:22'
   who: Alexey
+- header: 'Roles & Responsibilities: Teaching focus vs community management'
 - line: Creating the online community isn't my main role. We have a community manager
     and others who handle it. My focus is on teaching.
   sec: 1600
@@ -296,6 +305,7 @@ transcript:
   sec: 1761
   time: '29:21'
   who: Alexey
+- header: 'Leadership Development: Network-building and taking initiative'
 - line: For Omdena, I joined a project and met people who referred me to other opportunities.
     It was gradual. I took on leadership roles to stay connected with the community.
   sec: 1788
@@ -310,12 +320,12 @@ transcript:
   sec: 1899
   time: '31:39'
   who: Erum
-- header: The Role of Teaching in Community Building
 - line: As a community manager, I want to empower people to take initiative. How do
     you create an environment where people feel motivated to lead?
   sec: 1903
   time: '31:43'
   who: Alexey
+- header: 'Community Growth Strategy: Start small and scale (AI Wonder Girl example)'
 - line: In our community, we built AI Wonder Girl, starting with seven-eight girls
     and growing to 100+. We meet online, discuss topics, and motivate each other.
     Starting small and gradually growing is key.
@@ -352,12 +362,12 @@ transcript:
   sec: 2194
   time: '36:34'
   who: Erum
-- header: The Importance of Communities for Career Building
 - line: I'm a big fan of communities. They helped me a lot in my career. What do you
     think about their importance for career building?
   sec: 2197
   time: '36:37'
   who: Alexey
+- header: 'Communities for Career Building: Skill discovery and rapid learning'
 - line: I'm also a big fan of using communities for career building. They provide
     updates and help you understand what skills are in demand. Joining communities
     gives you an idea of needed skill sets and helps you develop them.
@@ -374,6 +384,7 @@ transcript:
   sec: 2354
   time: '39:14'
   who: Alexey
+- header: 'Empowering Sub-communities: Regional chapters, branding, ethics'
 - line: As a bigger organization, allowing people to use the community's name can
     help. It provides authenticity and reach. Ethical guidelines are important, but
     empowering people to represent the community is beneficial.
@@ -385,7 +396,6 @@ transcript:
   sec: 2400
   time: '40:00'
   who: Erum
-- header: Advice for Aspiring Instructors and Freelancers
 - line: I should write a blog encouraging people to start local chapters of DataTalks.Club.
     Anyone in our Slack can create a channel if one is missing for their area.
   sec: 2513
@@ -399,6 +409,7 @@ transcript:
   sec: 2555
   time: '42:35'
   who: Alexey
+- header: 'Boosting Attendance: Clear takeaways and live event value'
 - line: Engagement and providing value are crucial. People need to know what they
     will gain from spending time in the community. Define clear takeaways for each
     session or activity.
@@ -419,17 +430,18 @@ transcript:
   sec: 2788
   time: '46:28'
   who: Alexey
+- header: 'Curriculum Design: Basic, intermediate, and advanced course tiers'
 - line: Categorize offerings into basic, intermediate, and advanced levels. This makes
     it easier for people to find relevant content and know what to expect.
   sec: 2793
   time: '46:33'
   who: Erum
-- header: DS and ML Talent Market Saturation
-- line: "We have a question from the community: Do you feel that the market is saturated
-    with data scientists and ML engineers?"
+- line: 'We have a question from the community: Do you feel that the market is saturated
+    with data scientists and ML engineers?'
   sec: 2870
   time: '47:50'
   who: Alexey
+- header: 'Talent Market Dynamics: Standing out amid data science competition'
 - line: I don't think so. There is a shortage of unique skills. Everyone knows data
     science, but competition is high. You need to distinguish yourself with unique
     skills to increase your value.
@@ -441,6 +453,8 @@ transcript:
   sec: 2994
   time: '49:54'
   who: Alexey
+- header: 'Hiring Integrity & Tools: Originality, plagiarism, and responsible ChatGPT
+    use'
 - line: Sometimes, job applicants use plagiarized tests. Companies can't hire people
     who don't show originality. The more access to resources we have, the lazier we've
     become.
@@ -464,6 +478,7 @@ transcript:
   sec: 3131
   time: '52:11'
   who: Alexey
+- header: 'How to Apply: Becoming an Omdena Academy instructor (Omdena.com/Omdena-Academy)'
 - line: They can apply on OmdenaAcademy.com.
   sec: 3147
   time: '52:27'
@@ -481,12 +496,12 @@ transcript:
   sec: 3161
   time: '52:41'
   who: Alexey
-- header: Resources for Learning AI and Community Building
 - line: What can you recommend to a freelancer wanting to start teaching in AI? Is
     it possible to apply to Omdena?
   sec: 3191
   time: '53:11'
   who: Alexey
+- header: 'Monetization Options: Volunteer teaching vs selling courses on platforms'
 - line: For Omdena, we focus on capacity building for collaborators who have completed
     projects. I recommend joining an Omdena project first, learning the process, and
     then applying to teach.
@@ -503,6 +518,8 @@ transcript:
   sec: 3269
   time: '54:29'
   who: Alexey
+- header: 'Access & Scholarship Resources: Courses, GitHub projects, and women‑focused
+    support'
 - line: Join AI communities. There are courses available, and sometimes scholarships
     on platforms like Coursera. Learning through projects on GitHub is also valuable.
   sec: 3289
@@ -513,18 +530,19 @@ transcript:
   sec: 3348
   time: '55:48'
   who: Alexey
-- header: Erum's Resource Recommendations
 - line: Before we finish, do you have any resources on teaching, community building,
     or anything else you find interesting?
   sec: 3376
   time: '56:16'
   who: Alexey
+- header: 'Recommended Readings: AI ethics newsletter and curated resources'
 - line: I prefer newsletters. I'm part of the Stanford University Law Department's
     AI-powered law school newsletter. It's important to understand how to ethically
     implement AI. I'll share the link later for the description.
   sec: 3399
   time: '56:39'
   who: Erum
+- header: Episode Wrap-Up & Closing Remarks
 - line: We'll include it in the description. Thanks for sharing your knowledge and
     experience. Thanks to everyone for joining and asking questions. That's all for
     today.
@@ -539,6 +557,138 @@ transcript:
   sec: 3508
   time: '58:28'
   who: Alexey
+description: 'Discover Omdena Academy''s project-to-course AI education for data science:
+  learn Python, NLP, instructor paths, and gain real-world project experience.'
+intro: 'How do you turn real-world AI project experience into repeatable courses that
+  launch data science careers and train instructors? In this episode, Erum Afzal —
+  lead ML engineer, Teaching Expert at Women in AI Academy, and PhD researcher in
+  AI for teacher training — explains how Omdena Academy evolved from collaborative
+  projects into a project-to-course model for AI education. <br><br> We cover the
+  Academy’s shift from global Omdena projects to structured data science courses,
+  foundational topics taught (Python, Pandas, NumPy, NLP), and the process for developing
+  courses: instructor application, content review, delivery, and evaluation. Erum
+  outlines access pathways—enrolling without prior Omdena membership, pathways into
+  projects, and an open instructor pipeline—plus community and leadership development
+  through regional chapters and sub-communities. You’ll hear about curriculum tiers
+  (basic to advanced), boosting engagement with live sessions, and maintaining hiring
+  integrity amid plagiarism and responsible ChatGPT use. Practical details include
+  how to apply (Omdena.com/Omdena-Academy), scholarship and GitHub resources, and
+  options for instructors to volunteer or monetize content. <br><br> Listen to learn
+  actionable steps for joining, teaching, or designing project-based data science
+  courses that prepare learners for careers in AI.'
+dateadded: '2024-05-12'
+duration: PT00H57M03S
+quotableClips:
+- name: Podcast Introduction
+  startOffset: 0
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=0
+  endOffset: 85
+- name: 'Guest Introduction: Erum Afzal — AI for education & Omdena Academy'
+  startOffset: 85
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=85
+  endOffset: 152
+- name: 'Background: Journey from Pakistan to PhD & community teaching'
+  startOffset: 152
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=152
+  endOffset: 303
+- name: 'Omdena Academy: Evolution from projects to structured courses'
+  startOffset: 303
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=303
+  endOffset: 364
+- name: 'Omdena Projects: Global collaborators solving real‑world AI problems'
+  startOffset: 364
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=364
+  endOffset: 619
+- name: 'Project-to-Course Model: Teaching skills learned from projects'
+  startOffset: 619
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=619
+  endOffset: 692
+- name: 'Foundational Data Science Courses: Python, Pandas, NumPy, NLP'
+  startOffset: 692
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=692
+  endOffset: 872
+- name: 'Course Development: Instructor application, content review, delivery'
+  startOffset: 872
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=872
+  endOffset: 952
+- name: 'Business Model: Free learner courses with organizational partnerships'
+  startOffset: 952
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=952
+  endOffset: 1058
+- name: 'Access Pathways: Enroll without prior Omdena membership; pathway to projects'
+  startOffset: 1058
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1058
+  endOffset: 1248
+- name: 'Instructor Pipeline: Open applications and project-based recruitment'
+  startOffset: 1248
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1248
+  endOffset: 1349
+- name: 'Course Engagement: Live sessions, selection process, graduation rates'
+  startOffset: 1349
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1349
+  endOffset: 1458
+- name: 'Selection & Motivation: Prereqs, availability, and incentive programs'
+  startOffset: 1458
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1458
+  endOffset: 1600
+- name: 'Roles & Responsibilities: Teaching focus vs community management'
+  startOffset: 1600
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1600
+  endOffset: 1788
+- name: 'Leadership Development: Network-building and taking initiative'
+  startOffset: 1788
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1788
+  endOffset: 1983
+- name: 'Community Growth Strategy: Start small and scale (AI Wonder Girl example)'
+  startOffset: 1983
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=1983
+  endOffset: 2246
+- name: 'Communities for Career Building: Skill discovery and rapid learning'
+  startOffset: 2246
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=2246
+  endOffset: 2400
+- name: 'Empowering Sub-communities: Regional chapters, branding, ethics'
+  startOffset: 2400
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=2400
+  endOffset: 2570
+- name: 'Boosting Attendance: Clear takeaways and live event value'
+  startOffset: 2570
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=2570
+  endOffset: 2793
+- name: 'Curriculum Design: Basic, intermediate, and advanced course tiers'
+  startOffset: 2793
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=2793
+  endOffset: 2900
+- name: 'Talent Market Dynamics: Standing out amid data science competition'
+  startOffset: 2900
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=2900
+  endOffset: 3056
+- name: 'Hiring Integrity & Tools: Originality, plagiarism, and responsible ChatGPT
+    use'
+  startOffset: 3056
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3056
+  endOffset: 3147
+- name: 'How to Apply: Becoming an Omdena Academy instructor (Omdena.com/Omdena-Academy)'
+  startOffset: 3147
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3147
+  endOffset: 3203
+- name: 'Monetization Options: Volunteer teaching vs selling courses on platforms'
+  startOffset: 3203
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3203
+  endOffset: 3289
+- name: 'Access & Scholarship Resources: Courses, GitHub projects, and women‑focused
+    support'
+  startOffset: 3289
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3289
+  endOffset: 3399
+- name: 'Recommended Readings: AI ethics newsletter and curated resources'
+  startOffset: 3399
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3399
+  endOffset: 3466
+- name: Episode Wrap-Up & Closing Remarks
+  startOffset: 3466
+  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3466
+  endOffset: 3423
 ---
 
 Links:

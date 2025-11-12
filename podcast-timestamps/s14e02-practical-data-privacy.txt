@@ -1,0 +1,20 @@
+00:00:00 Episode Introduction
+00:01:40 Guest Introduction: Katharine Jarmul — privacy activist, ML engineer, ThoughtWorks, book
+00:02:32 Career Journey: data journalism, NLP, consulting, and machine learning
+00:09:08 Startup Focus: KI Protect, pseudonymisation, encrypted & federated ML
+00:11:33 Privacy Regulation Overview: GDPR, CCPA, CPRA and cookie consent defaults
+00:14:35 Cookie Consent & Opt‑Out UX: one‑click rejects and user behavior
+00:16:24 Defining Data Privacy: legal, social, and technical perspectives
+00:21:35 Practical Data Privacy (book): availability, previews, and giveaways
+00:22:38 Bridging Legal & Technical Views: privacy risk, translation, and collaboration
+00:25:12 User Profiling & Fingerprinting: browser history, apps, and re‑identification risks
+00:30:15 Privacy‑Friendly Personalization: session‑based intent and ephemeral inference
+00:33:08 Privacy Engineering & PETs: encrypted ML, federated learning, and architecture
+00:35:09 Business Case for Privacy: risk management, regulation, and customer trust
+00:40:50 Differential Privacy Explained: formal definition, use cases, and libraries (Tumult)
+00:45:08 Anonymization Pitfalls: hashing, k‑anonymity, Netflix de‑anonymization lessons
+00:47:00 Designing for Privacy: consent, data minimization, and workflow practices
+00:52:35 Generative AI & Privacy: ChatGPT incidents, consent, retention, and enterprise options
+00:59:29 Deploying Localized Models: Azure localization, fine‑tuning, and ownership
+01:01:15 Further Learning: Probably Private newsletter, notebooks, and differential privacy resources
+01:02:44 Episode Close: final notes, social links, and next steps
