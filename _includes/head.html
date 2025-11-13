@@ -27,86 +27,18 @@
   <meta property="twitter:site" content="{{ site.twitter }}">
   <meta property="twitter:card" content="summary_large_image" />
 
-  <!-- 
-    SEO OPTIMIZATION: Page-specific Open Graph Meta Tags
-    - Different og:type for book pages vs author pages vs general website pages
-    - Page-specific metadata for better social sharing and search understanding
-    - Author information, release date, and categorization for books
-  -->
-  {% if page.layout == 'book' %}
-    <meta property="og:type" content="book">
-    <!-- SEO: Book author information for Open Graph -->
-    <meta property="book:author" content="{% for author_id in page.authors %}{% assign author = site.people | where: 'name', author_id | first %}{{ author.name | default: author_id }}{% unless forloop.last %}, {% endunless %}{% endfor %}">
-    <!-- SEO: Book release date for better categorization -->
-    <meta property="book:release_date" content="{{ page.start | date: '%Y-%m-%d' }}">
-    <!-- SEO: Book categorization for content understanding -->
-    <meta property="book:tag" content="Book of the Week">
-  {% elsif page.layout == 'author' %}
-    <meta property="og:type" content="profile">
-    <!-- SEO: Author-specific Open Graph metadata -->
-    <meta property="profile:first_name" content="{{ page.title | split: ' ' | first }}">
-    <meta property="profile:last_name" content="{{ page.title | split: ' ' | last }}">
-    <meta property="profile:username" content="{{ page.short }}">
-    {% if page.twitter %}
-    <meta property="profile:username" content="{{ page.twitter }}">
-    {% endif %}
-  {% else %}
-    <meta property="og:type" content="website">
-  {% endif %}
+  <meta property="og:type" content="website">
   <meta property="og:site_name" content="{{ site.name }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
-  <!-- 
-    SEO OPTIMIZATION: Enhanced Image Meta Tags
-    - Image dimensions for better social media display
-    - Alt text for accessibility and SEO
-    - Consistent image tags for both Open Graph and Twitter Cards
-    - Author-specific image handling
-  -->
-  {% if page.layout == 'author' %}
-    <meta property="og:image" content="{{ site.url }}/{{ page.picture }}">
-    <!-- SEO: Image dimensions for optimal social media display -->
-    <meta property="og:image:width" content="400">
-    <meta property="og:image:height" content="400">
-    <!-- SEO: Descriptive alt text for image accessibility -->
-    <meta property="og:image:alt" content="{{ page.title }} - Author Profile Photo">
-    <meta property="twitter:image" content="{{ site.url }}/{{ page.picture }}">
-    <!-- SEO: Twitter-specific image alt text -->
-    <meta property="twitter:image:alt" content="{{ page.title }} - Author Profile Photo">
-    <link rel="image_src" href="{{ site.url }}/{{ page.picture }}">
-  {% else %}
-    <meta property="og:image" content="{{ site.url }}/{{ page.image }}">
-    <!-- SEO: Image dimensions for optimal social media display -->
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
-    <!-- SEO: Descriptive alt text for image accessibility -->
-    <meta property="og:image:alt" content="{{ page.title }} book cover">
-    <meta property="twitter:image" content="{{ site.url }}/{{ page.image }}">
-    <!-- SEO: Twitter-specific image alt text -->
-    <meta property="twitter:image:alt" content="{{ page.title }} book cover">
-    <link rel="image_src" href="{{ site.url }}/{{ page.image }}">
-  {% endif %}
+  <meta property="og:image" content="{{ site.url }}/{{ page.image }}">
+  <meta property="twitter:image" content="{{ site.url }}/{{ page.image }}">
+  <link rel="image_src" href="{{ site.url }}/{{ page.image }}">
 
-  <!-- SEO: Page-specific meta descriptions for search engines and social media -->
-  {% if page.layout == 'author' %}
-    <meta property="og:description" content="{{ page.content | strip_html | truncate: 160 | escape | default: 'Learn more about ' | append: page.title | append: ', a data science professional and member of the DataTalks.Club community.' }}">
-    <meta property="twitter:description" content="{{ page.content | strip_html | truncate: 160 | escape | default: 'Learn more about ' | append: page.title | append: ', a data science professional and member of the DataTalks.Club community.' }}">
-    <meta name="description" content="{{ page.content | strip_html | truncate: 160 | escape | default: 'Learn more about ' | append: page.title | append: ', a data science professional and member of the DataTalks.Club community.' }}">
-    <!-- SEO: Author-specific keywords -->
-    <meta name="keywords" content="{{ page.title | downcase }}, author, data scientist, machine learning, data talks club, {% if page.twitter %}{{ page.twitter }}, {% endif %}{% if page.github %}{{ page.github }}, {% endif %}{% if page.linkedin %}{{ page.linkedin }}, {% endif %}data science professional, AI expert">
-  {% else %}
-    <meta property="og:description" content="{{ page.description }}">
-    <meta property="twitter:description" content="{{ page.description }}">
-    <meta name="description" content="{{ page.description }}">
-    <!-- 
-      SEO OPTIMIZATION: Keywords Meta Tag
-      - Comprehensive keywords including book title, authors, and site context
-      - Helps search engines understand page content and relevance
-      - Includes site-specific terms for better categorization
-    -->
-    <meta name="keywords" content="book, {{ page.title | downcase }}, {% for author_id in page.authors %}{% assign author = site.people | where: 'name', author_id | first %}{{ author.name | default: author_id | downcase }}{% unless forloop.last %}, {% endunless %}{% endfor %}, book of the week, data talks club">
-  {% endif %}
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="twitter:description" content="{{ page.description }}">
+  <meta name="description" content="{{ page.description }}">
 
   <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -116,26 +48,16 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 
-  <!-- 
-    SEO OPTIMIZATION: Performance & Core Web Vitals
-    - Preload critical CSS for faster rendering
-    - Async loading prevents render blocking
-    - display=swap prevents font flash (FOIT/FOUT)
-    - Noscript fallbacks for accessibility
-  -->
-  <!-- Preload critical resources -->
-  <link rel="preload" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"></noscript>
-  
-  <!-- SEO: Google Fonts with display=swap for better performance -->
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=Alegreya+Sans:300,400,700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:300,400,700&display=swap" rel="stylesheet"></noscript>
-  
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700&display=swap" rel="stylesheet"></noscript>
+  <link rel="stylesheet"
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+    crossorigin="anonymous">
 
-  <!-- SEO: Load non-critical resources asynchronously -->
-  <script src="https://kit.fontawesome.com/c37fbeb327.js" crossorigin="anonymous" async></script>
+  <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:300,400,700" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700" rel="stylesheet" />
+
+
+  <script src="https://kit.fontawesome.com/c37fbeb327.js"></script>
 
   <link rel="stylesheet" href="/assets/styles.css" />
   <link rel="stylesheet" href="/assets/syntax.css" />
