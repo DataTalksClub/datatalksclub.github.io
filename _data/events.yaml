@@ -1,4 +1,18 @@
 
+- time: 2025-12-09 17:00:00
+  title: "Docker for Data Engineering: Postgres, Docker Compose, and Real-World Workflows"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://luma.com/qc5jj6c0
+
+
+- time: 2025-11-18 17:00:00
+  title: "Combining Quantum and AI for Accelerating CFD Simulations - Part 1"
+  speakers: [adityaseshaditya]
+  type: workshop
+  link: https://luma.com/3ykwvz3x
+
+
 - time: 2025-11-26 17:00:00
   title: "n8n: From Fundamentals to Building Intelligent Automation Pipeline"
   speakers: [moeinforoughi]
