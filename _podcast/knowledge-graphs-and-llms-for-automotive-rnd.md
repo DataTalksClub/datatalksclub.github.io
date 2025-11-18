@@ -7,7 +7,7 @@ guests:
 - anahitapakiman
 image: images/podcast/s18e02-knowledge-graphs-and-llms-across-academia-and-industry.jpg
 ids:
-  anchor: atatalksclub/episodes/Knowledge-Graphs-and-LLMs-Across-Academia-and-Industry---Anahita-Pakiman-e2hpo20
+  anchor: datatalksclub/episodes/Knowledge-Graphs-and-LLMs-Across-Academia-and-Industry---Anahita-Pakiman-e2hpo20
   youtube: YncdlUscUOo
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Knowledge-Graphs-and-LLMs-Across-Academia-and-Industry---Anahita-Pakiman-e2hpo20

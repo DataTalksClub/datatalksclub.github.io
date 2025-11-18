@@ -8,7 +8,7 @@ guests:
 - lavanyagupta
 image: images/podcast/s20e07-build-strong-career-in-data.jpg
 ids:
-  anchor: atalksclub/episodes/Build-a-Strong-Career-in-Data---Lavanya-Gupta-e32k61phttps://creators.spotify.com/pod/show/datatalksclub/episodes/Build-a-Strong-Career-in-Data---Lavanya-Gupta-e32k61p
+  anchor: datatalksclub/episodes/Build-a-Strong-Career-in-Data---Lavanya-Gupta-e32k61phttps://creators.spotify.com/pod/show/datatalksclub/episodes/Build-a-Strong-Career-in-Data---Lavanya-Gupta-e32k61p
   youtube: ekG5zJioyFs
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Build-a-Strong-Career-in-Data---Lavanya-Gupta-e32k61phttps://creators.spotify.com/pod/show/datatalksclub/episodes/Build-a-Strong-Career-in-Data---Lavanya-Gupta-e32k61p

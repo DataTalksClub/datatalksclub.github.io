@@ -7,7 +7,7 @@ guests:
 - reemmahmoud
 image: images/podcast/s17e08-building-machine-learning-products.jpg
 ids:
-  anchor: atatalksclub/episodes/Building-Machine-Learning-Products---Reem-Mahmoud-e2gttcd
+  anchor: datatalksclub/episodes/Building-Machine-Learning-Products---Reem-Mahmoud-e2gttcd
   youtube: m45tNY-8gY8
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Building-Machine-Learning-Products---Reem-Mahmoud-e2gttcd

@@ -8,7 +8,7 @@ guests:
 - alexanderguschin
 image: images/podcast/s20e02-competitive-machine-learning-and-teaching.jpg
 ids:
-  anchor: atalksclub/episodes/Competitive-Machine-Leaning-And-Teaching--Alexander-Guschin-e2uslu8
+  anchor: datatalksclub/episodes/Competitive-Machine-Leaning-And-Teaching--Alexander-Guschin-e2uslu8
   youtube: NfAJAr7FvyY&t
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Competitive-Machine-Leaning-And-Teaching--Alexander-Guschin-e2uslu8

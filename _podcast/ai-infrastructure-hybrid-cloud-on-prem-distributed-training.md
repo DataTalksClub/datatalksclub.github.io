@@ -8,7 +8,7 @@ guests:
 - andreycheptsov
 image: images/podcast/s20e01-trends-in-ai-infrastructure.jpg
 ids:
-  anchor: atalksclub/episodes/Redefining-AI-Infrastructure-Open-Source--Chips--and-the-Future-Beyond-Kubernetes--Andrey-Cheptsov-e2u7lc2
+  anchor: datatalksclub/episodes/Redefining-AI-Infrastructure-Open-Source--Chips--and-the-Future-Beyond-Kubernetes--Andrey-Cheptsov-e2u7lc2
   youtube: 1aMuynlLM3o
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Redefining-AI-Infrastructure-Open-Source--Chips--and-the-Future-Beyond-Kubernetes--Andrey-Cheptsov-e2u7lc2

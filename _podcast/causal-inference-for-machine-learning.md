@@ -7,7 +7,7 @@ guests:
 - aleksandermolak
 image: images/podcast/s15e06-democratizing-causality.jpg
 ids:
-  anchor: atatalksclub/episodes/Democratizing-Causality---Aleksander-Molak-e28e0vh
+  anchor: datatalksclub/episodes/Democratizing-Causality---Aleksander-Molak-e28e0vh
   youtube: 0I2FHH95Ofs
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Democratizing-Causality---Aleksander-Molak-e28e0vh

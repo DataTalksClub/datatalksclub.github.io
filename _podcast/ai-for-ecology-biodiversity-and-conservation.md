@@ -8,7 +8,7 @@ guests:
 - tanyabergerwolf
 image: images/podcast/s18e03-ai-for-ecology-biodiversity-and-conservation.jpg
 ids:
-  anchor: atatalksclub/episodes/AI-for-Ecology--Biodiversity--and-Conservation---Tanya-Berger-Wolf-e2inadi
+  anchor: datatalksclub/episodes/AI-for-Ecology--Biodiversity--and-Conservation---Tanya-Berger-Wolf-e2inadi
   youtube: 30tTrozbAkg
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/AI-for-Ecology--Biodiversity--and-Conservation---Tanya-Berger-Wolf-e2inadi

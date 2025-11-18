@@ -7,7 +7,7 @@ guests:
 - vincentwarmerdam
 image: images/podcast/s18e04-working-in-open-source-probabl-ai-and-sklearn.jpg
 ids:
-  anchor: atatalksclub/episodes/Working-in-Open-Source---Probabl-ai-and-sklearn---Vincent-Warmerdam-e2j78fs
+  anchor: datatalksclub/episodes/Working-in-Open-Source---Probabl-ai-and-sklearn---Vincent-Warmerdam-e2j78fs
   youtube: UPlIETGwTg8
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Working-in-Open-Source---Probabl-ai-and-sklearn---Vincent-Warmerdam-e2j78fs

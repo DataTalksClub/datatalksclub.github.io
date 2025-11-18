@@ -7,7 +7,7 @@ guests:
 - rachellim
 image: images/podcast/s19e01-using-data-to-create-liveable-cities.jpg
 ids:
-  anchor: atatalksclub/episodes/Using-Data-to-Create-Liveable-Cities---Rachel-Lim-e2qecup
+  anchor: datatalksclub/episodes/Using-Data-to-Create-Liveable-Cities---Rachel-Lim-e2qecup
   youtube: VXQIGHUWeL0
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Using-Data-to-Create-Liveable-Cities---Rachel-Lim-e2qecup

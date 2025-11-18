@@ -8,7 +8,7 @@ guests:
 - christopherbergh
 image: images/podcast/s18e09-dataops-observability-and-cure-for-data-team-blues.jpg
 ids:
-  anchor: atatalksclub/episodes/DataOps--Observability--and-The-Cure-for-Data-Team-Blues---Christopher-Bergh-e2n775f
+  anchor: datatalksclub/episodes/DataOps--Observability--and-The-Cure-for-Data-Team-Blues---Christopher-Bergh-e2n775f
   youtube: HzGpIxV8HtA
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/DataOps--Observability--and-The-Cure-for-Data-Team-Blues---Christopher-Bergh-e2n775f

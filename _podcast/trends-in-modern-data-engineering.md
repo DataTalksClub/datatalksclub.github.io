@@ -7,7 +7,7 @@ guests:
 - adrianbrudaru
 image: images/podcast/s20e03-trends-in-data-engineering.jpg
 ids:
-  anchor: atalksclub/episodes/Trends-in-Data-Engineering--Adrian-Brudaru-e2ui9ae
+  anchor: datatalksclub/episodes/Trends-in-Data-Engineering--Adrian-Brudaru-e2ui9ae
   youtube: AlCFKbFIEM8
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Trends-in-Data-Engineering--Adrian-Brudaru-e2ui9ae

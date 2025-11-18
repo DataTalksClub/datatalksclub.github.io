@@ -8,7 +8,7 @@ guests:
 - atitaarora
 image: images/podcast/s17e02-searching-beyond-surface-navigating-challenges-and-innovations-in-search-technologies.jpg
 ids:
-  anchor: atatalksclub/episodes/Navigating-Challenges-and-Innovations-in-Search-Technologies---Atita-Arora-e2d7rps
+  anchor: datatalksclub/episodes/Navigating-Challenges-and-Innovations-in-Search-Technologies---Atita-Arora-e2d7rps
   youtube: _fbe1QyJ1PY
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Navigating-Challenges-and-Innovations-in-Search-Technologies---Atita-Arora-e2d7rps

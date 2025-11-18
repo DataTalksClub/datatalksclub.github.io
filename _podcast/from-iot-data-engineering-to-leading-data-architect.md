@@ -7,7 +7,7 @@ guests:
 - loicmagnien
 image: images/podcast/s15e08-from-data-manager-to-data-architect.jpg
 ids:
-  anchor: atatalksclub/episodes/From-Data-Manager-to-Data-Architect---Loc-Magnien-e29rk73
+  anchor: datatalksclub/episodes/From-Data-Manager-to-Data-Architect---Loc-Magnien-e29rk73
   youtube: qWG--iYO2uc
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/From-Data-Manager-to-Data-Architect---Loc-Magnien-e29rk73

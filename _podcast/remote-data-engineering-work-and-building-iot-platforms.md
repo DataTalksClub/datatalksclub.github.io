@@ -7,7 +7,7 @@ guests:
 - josemaria
 image: images/podcast/s15e05-mastering-data-engineering-as-remote-worker.jpg
 ids:
-  anchor: atatalksclub/episodes/Mastering-Data-Engineering-as-a-Remote-Worker---Jos-Mara-Snchez-Salas-e28716c
+  anchor: datatalksclub/episodes/Mastering-Data-Engineering-as-a-Remote-Worker---Jos-Mara-Snchez-Salas-e28716c
   youtube: UX7UShEioKc
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Mastering-Data-Engineering-as-a-Remote-Worker---Jos-Mara-Snchez-Salas-e28716c

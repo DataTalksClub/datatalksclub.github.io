@@ -7,7 +7,7 @@ guests:
 - angelaramirez
 image: images/podcast/s15e09-data-engineering-for-fraud-prevention.jpg
 ids:
-  anchor: atatalksclub/episodes/Data-Engineering-for-Fraud-Prevention---Angela-Ramirez-e29rkab
+  anchor: datatalksclub/episodes/Data-Engineering-for-Fraud-Prevention---Angela-Ramirez-e29rkab
   youtube: ZXNKjrrKU_I
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Data-Engineering-for-Fraud-Prevention---Angela-Ramirez-e29rkab

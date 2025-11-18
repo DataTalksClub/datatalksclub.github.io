@@ -7,7 +7,7 @@ guests:
 - raphaelhoogvliets
 image: images/podcast/s19e04-mlops-as-team.jpg
 ids:
-  anchor: atalksclub/episodes/MLOps-as-a-Team---Raphal-Hoogvliets-e2qnnu5/a-abkcdlr
+  anchor: datatalksclub/episodes/MLOps-as-a-Team---Raphal-Hoogvliets-e2qnnu5/a-abkcdlr
   youtube: rMq63r3zi4c
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/MLOps-as-a-Team---Raphal-Hoogvliets-e2qnnu5/a-abkcdlr

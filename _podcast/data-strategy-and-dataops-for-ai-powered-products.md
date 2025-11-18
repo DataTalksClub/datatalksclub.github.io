@@ -7,7 +7,7 @@ guests:
 - boyanangelov
 image: images/podcast/s14e03-data-strategy-key-principles-and-best-practices.jpg
 ids:
-  anchor: atatalksclub/episodes/Data-Strategy-Key-Principles-and-Best-Practices---Boyan-Angelov-e24mete
+  anchor: datatalksclub/episodes/Data-Strategy-Key-Principles-and-Best-Practices---Boyan-Angelov-e24mete
   youtube: jGbfeYdlCiQ
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Data-Strategy-Key-Principles-and-Best-Practices---Boyan-Angelov-e24mete

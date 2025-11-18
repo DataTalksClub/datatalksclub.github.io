@@ -7,7 +7,7 @@ guests:
 - mariabruckert
 image: images/podcast/s16e08-ai-for-digital-health.jpg
 ids:
-  anchor: atatalksclub/episodes/AI-for-Digital-Health---Maria-Bruckert-e2cejoc
+  anchor: datatalksclub/episodes/AI-for-Digital-Health---Maria-Bruckert-e2cejoc
   youtube: whpkDmVVGUE
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/AI-for-Digital-Health---Maria-Bruckert-e2cejoc

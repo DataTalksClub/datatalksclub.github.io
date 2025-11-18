@@ -8,7 +8,7 @@ guests:
 - mariasukhareva
 image: images/podcast/s19e06-ai-in-industry-trust-return-on-investment-and-future.jpg
 ids:
-  anchor: atalksclub/episodes/AI-in-Industry-Trust--Return-on-Investment-and-Future---Maria-Sukhareva-e2rp9f8
+  anchor: datatalksclub/episodes/AI-in-Industry-Trust--Return-on-Investment-and-Future---Maria-Sukhareva-e2rp9f8
   youtube: bT7-HRNCltk
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/AI-in-Industry-Trust--Return-on-Investment-and-Future---Maria-Sukhareva-e2rp9f8

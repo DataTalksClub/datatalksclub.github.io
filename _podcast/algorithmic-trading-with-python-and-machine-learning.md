@@ -7,7 +7,7 @@ guests:
 - ivanbrigida
 image: images/podcast/s17e03-stock-market-analysis-with-python-and-machine-learning.jpg
 ids:
-  anchor: atatalksclub/episodes/Stock-Market-Analysis-with-Python-and-Machine-Learning---Ivan-Brigida-e2e6ph2
+  anchor: datatalksclub/episodes/Stock-Market-Analysis-with-Python-and-Machine-Learning---Ivan-Brigida-e2e6ph2
   youtube: NThHAEIazFk
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Stock-Market-Analysis-with-Python-and-Machine-Learning---Ivan-Brigida-e2e6ph2

@@ -7,7 +7,7 @@ guests:
 - adrianbrudaru
 image: images/podcast/s17e01-entrepreneurship-journey-from-freelancing-to-starting-company.jpg
 ids:
-  anchor: atatalksclub/episodes/The-Entrepreneurship-Journey-From-Freelancing-to-Starting-a-Company---Adrian-Brudaru-e2cut0k
+  anchor: datatalksclub/episodes/The-Entrepreneurship-Journey-From-Freelancing-to-Starting-a-Company---Adrian-Brudaru-e2cut0k
   youtube: vOpEQiCsaLw
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/The-Entrepreneurship-Journey-From-Freelancing-to-Starting-a-Company---Adrian-Brudaru-e2cut0k

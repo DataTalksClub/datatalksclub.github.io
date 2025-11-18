@@ -7,7 +7,7 @@ guests:
 - simonstiebellehner
 image: images/podcast/s14e08-from-scratch-to-success-building-mlops-team-and-ml-platform.jpg
 ids:
-  anchor: atatalksclub/episodes/From-Scratch-to-Success-Building-an-MLOps-Team-and-ML-Platform---Simon-Stiebellehner-e26d01c
+  anchor: datatalksclub/episodes/From-Scratch-to-Success-Building-an-MLOps-Team-and-ML-Platform---Simon-Stiebellehner-e26d01c
   youtube: CB1YIsxQRtc
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/From-Scratch-to-Success-Building-an-MLOps-Team-and-ML-Platform---Simon-Stiebellehner-e26d01c

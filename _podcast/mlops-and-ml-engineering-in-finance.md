@@ -7,7 +7,7 @@ guests:
 - nemanjaradojkovic
 image: images/podcast/s17e05-machine-learning-engineering-in-finance.jpg
 ids:
-  anchor: atatalksclub/episodes/Machine-Learning-Engineering-in-Finance---Nemanja-Radojkovic-e2evai8
+  anchor: datatalksclub/episodes/Machine-Learning-Engineering-in-Finance---Nemanja-Radojkovic-e2evai8
   youtube: Nl4aibeFwiI
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Machine-Learning-Engineering-in-Finance---Nemanja-Radojkovic-e2evai8

@@ -8,7 +8,7 @@ guests:
 - tamaraatanasoska
 image: images/podcast/s19e09-linguistics-and-fairness.jpg
 ids:
-  anchor: atalksclub/episodes/Linguistics-and-Fairness---Tamara-Atanasoska-e2thdk0
+  anchor: datatalksclub/episodes/Linguistics-and-Fairness---Tamara-Atanasoska-e2thdk0
   youtube: sXU9vMDBjmk
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Linguistics-and-Fairness---Tamara-Atanasoska-e2thdk0

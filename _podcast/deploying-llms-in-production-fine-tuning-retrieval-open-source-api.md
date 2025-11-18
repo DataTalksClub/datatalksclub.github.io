@@ -7,7 +7,7 @@ guests:
 - meryemarik
 image: images/podcast/s15e03-llms-for-everyone.jpg
 ids:
-  anchor: atatalksclub/episodes/LLMs-for-Everyone---Meryem-Arik-e27bouf
+  anchor: datatalksclub/episodes/LLMs-for-Everyone---Meryem-Arik-e27bouf
   youtube: 6dn6uZFkk04
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/LLMs-for-Everyone---Meryem-Arik-e27bouf

@@ -7,7 +7,7 @@ guests:
 - katarzynaforemniak
 image: images/podcast/s19e02-human-centered-ai-for-disordered-speech-recognition.jpg
 ids:
-  anchor: atatalksclub/episodes/Human-Centered-AI-for-Disordered-Speech-Recognition---Katarzyna-Foremniak-e2p8360
+  anchor: datatalksclub/episodes/Human-Centered-AI-for-Disordered-Speech-Recognition---Katarzyna-Foremniak-e2p8360
   youtube: yTZ4cddD7DU
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Human-Centered-AI-for-Disordered-Speech-Recognition---Katarzyna-Foremniak-e2p8360

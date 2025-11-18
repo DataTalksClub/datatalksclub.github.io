@@ -7,7 +7,7 @@ guests:
 - robzinkov
 image: images/podcast/s17e04-bayesian-modeling-and-probabilistic-programming.jpg
 ids:
-  anchor: atatalksclub/episodes/Bayesian-Modeling-and-Probabilistic-Programming---Rob-Zinkov-e2dokr5
+  anchor: datatalksclub/episodes/Bayesian-Modeling-and-Probabilistic-Programming---Rob-Zinkov-e2dokr5
   youtube: kcKvUSInm-M
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Bayesian-Modeling-and-Probabilistic-Programming---Rob-Zinkov-e2dokr5

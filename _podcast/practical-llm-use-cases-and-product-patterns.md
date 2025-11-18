@@ -7,7 +7,7 @@ guests:
 - sandrakublik
 image: images/podcast/s15e04-good-bad-and-ugly-of-gpt.jpg
 ids:
-  anchor: atatalksclub/episodes/The-Good--the-Bad-and-the-Ugly-of-GPT---Sandra-Kublik-e27o8r4
+  anchor: datatalksclub/episodes/The-Good--the-Bad-and-the-Ugly-of-GPT---Sandra-Kublik-e27o8r4
   youtube: bM6AR4A-f98
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/The-Good--the-Bad-and-the-Ugly-of-GPT---Sandra-Kublik-e27o8r4

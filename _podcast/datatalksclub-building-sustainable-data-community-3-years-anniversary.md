@@ -9,7 +9,7 @@ guests:
 - johannabayer
 image: images/podcast/s16e01-datatalks-club-anniversary-interview.jpg
 ids:
-  anchor: atatalksclub/episodes/DataTalks-Club-Anniversary-Interview---Alexey-Grigorev--Johanna-Bayer-e2a5cqo
+  anchor: datatalksclub/episodes/DataTalks-Club-Anniversary-Interview---Alexey-Grigorev--Johanna-Bayer-e2a5cqo
   youtube: nCqwZT9zA0M
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/DataTalks-Club-Anniversary-Interview---Alexey-Grigorev--Johanna-Bayer-e2a5cqo

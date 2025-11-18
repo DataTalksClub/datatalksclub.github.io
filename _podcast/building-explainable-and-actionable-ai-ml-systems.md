@@ -7,7 +7,7 @@ guests:
 - polinamosolova
 image: images/podcast/s14e09-interpretable-ai-and-ml.jpg
 ids:
-  anchor: atatalksclub/episodes/Interpretable-AI-and-ML---Polina-Mosolova-e26hffq
+  anchor: datatalksclub/episodes/Interpretable-AI-and-ML---Polina-Mosolova-e26hffq
   youtube: EQcY83VA0Us
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Interpretable-AI-and-ML---Polina-Mosolova-e26hffq

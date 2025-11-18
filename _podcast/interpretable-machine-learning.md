@@ -6,7 +6,7 @@ guests:
 - christophmolnar
 image: images/podcast/s16e07-cracking-code-machine-learning-made-understandable.jpg
 ids:
-  anchor: atatalksclub/episodes/Cracking-the-Code-Machine-Learning-Made-Understandable---Christoph-Molnar-e2c10n4
+  anchor: datatalksclub/episodes/Cracking-the-Code-Machine-Learning-Made-Understandable---Christoph-Molnar-e2c10n4
   youtube: LBuGzyOkx7c
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Cracking-the-Code-Machine-Learning-Made-Understandable---Christoph-Molnar-e2c10n4

@@ -8,7 +8,7 @@ guests:
 - isabellabicalho
 image: images/podcast/s19e07-career-advice-learning-and-featuring-women-in-ml-and-ai.jpg
 ids:
-  anchor: atalksclub/episodes/Career-advice--learning--and-featuring-women-in-ML-and-AI---Isabella-Bicalho-e2s3ura
+  anchor: datatalksclub/episodes/Career-advice--learning--and-featuring-women-in-ML-and-AI---Isabella-Bicalho-e2s3ura
   youtube: GifY8Zn-pnU
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Career-advice--learning--and-featuring-women-in-ML-and-AI---Isabella-Bicalho-e2s3ura

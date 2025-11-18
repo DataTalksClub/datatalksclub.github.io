@@ -7,7 +7,7 @@ guests:
 - valeriybabushkin
 image: images/podcast/s15e01-why-machine-learning-design-broken.jpg
 ids:
-  anchor: atatalksclub/episodes/Why-Machine-Learning-Design-is-Broken---Valerii-Babushkin-e26rv8o
+  anchor: datatalksclub/episodes/Why-Machine-Learning-Design-is-Broken---Valerii-Babushkin-e26rv8o
   youtube: 6YBMU6475KQ
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Why-Machine-Learning-Design-is-Broken---Valerii-Babushkin-e26rv8o

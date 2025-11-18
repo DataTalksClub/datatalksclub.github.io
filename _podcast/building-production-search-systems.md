@@ -7,7 +7,7 @@ guests:
 - danielsvonava
 image: images/podcast/s17e09-building-production-search-systems.jpg
 ids:
-  anchor: atatalksclub/episodes/Building-Production-Search-Systems---Daniel-Svonava-e2hccnh
+  anchor: datatalksclub/episodes/Building-Production-Search-Systems---Daniel-Svonava-e2hccnh
   youtube: gEmSrknGKDE
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Building-Production-Search-Systems---Daniel-Svonava-e2hccnh

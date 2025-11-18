@@ -7,7 +7,7 @@ guests:
 - bartoszmikulski
 image: images/podcast/s20e05-data-intensive-ai.jpg
 ids:
-  anchor: atalksclub/episodes/Data-Intensive-AI---Bartosz-Mikulski-e30fhoi
+  anchor: datatalksclub/episodes/Data-Intensive-AI---Bartosz-Mikulski-e30fhoi
   youtube: BP6w_vKySN0
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Data-Intensive-AI---Bartosz-Mikulski-e30fhoi

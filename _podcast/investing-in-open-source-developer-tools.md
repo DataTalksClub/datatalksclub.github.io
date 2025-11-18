@@ -7,7 +7,7 @@ guests:
 - belawiertz
 image: images/podcast/s15e02-investing-in-open-source-data-tools.jpg
 ids:
-  anchor: atatalksclub/episodes/Investing-in-Open-Source-Data-Tools---Bela-Wiertz-e274dr8
+  anchor: datatalksclub/episodes/Investing-in-Open-Source-Data-Tools---Bela-Wiertz-e274dr8
   youtube: 7Bg1JQLnCao
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Investing-in-Open-Source-Data-Tools---Bela-Wiertz-e274dr8

@@ -7,7 +7,7 @@ guests:
 - verenaweber
 image: images/podcast/s16e05-from-research-scientist-at-amazon-to-machine-learning-ai-consultant.jpg
 ids:
-  anchor: atatalksclub/episodes/From-a-Research-Scientist-at-Amazon-to-a-Machine-learningAI-Consultant---Verena-Webber-e2bbmgr
+  anchor: datatalksclub/episodes/From-a-Research-Scientist-at-Amazon-to-a-Machine-learningAI-Consultant---Verena-Webber-e2bbmgr
   youtube: 4RargY8iOaE
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/From-a-Research-Scientist-at-Amazon-to-a-Machine-learningAI-Consultant---Verena-Webber-e2bbmgr

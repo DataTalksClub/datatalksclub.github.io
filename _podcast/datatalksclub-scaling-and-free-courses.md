@@ -8,7 +8,7 @@ guests:
 - alexeygrigorev
 image: images/podcast/s19e03-datatalks-club-anniversary-podcast.jpg
 ids:
-  anchor: atatalksclub/episodes/DataTalks-Club-4th-Anniversary-AMA-Podcast--Alexey-Grigorev-and-Johanna-Bayer-e2q3ch2
+  anchor: datatalksclub/episodes/DataTalks-Club-4th-Anniversary-AMA-Podcast--Alexey-Grigorev-and-Johanna-Bayer-e2q3ch2
   youtube: GHbeXIKnkLQ
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/DataTalks-Club-4th-Anniversary-AMA-Podcast--Alexey-Grigorev-and-Johanna-Bayer-e2q3ch2

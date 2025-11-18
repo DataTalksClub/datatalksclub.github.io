@@ -8,7 +8,7 @@ guests:
 - anastasiakaravdina
 image: images/podcast/s19e05-large-hadron-collider-and-mentorship.jpg
 ids:
-  anchor: atalksclub/episodes/Large-Hadron-Collider-and-Mentorship--Anastasia-Karavdina-e2rc2bj/a-abl5fth
+  anchor: datatalksclub/episodes/Large-Hadron-Collider-and-Mentorship--Anastasia-Karavdina-e2rc2bj/a-abl5fth
   youtube: kV0ZDy2UtJA
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/Large-Hadron-Collider-and-Mentorship--Anastasia-Karavdina-e2rc2bj/a-abl5fth

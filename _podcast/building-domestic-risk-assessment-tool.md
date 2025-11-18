@@ -8,7 +8,7 @@ guests:
 - sabinafirtala
 image: images/podcast/s18e07-building-domestic-risk-assessment-tool.jpg
 ids:
-  anchor: lub/episodes/Building-a-Domestic-Risk-Assessment-Tool---Sabina-Firtala-e2lr92i
+  anchor: datatalksclub/episodes/Building-a-Domestic-Risk-Assessment-Tool---Sabina-Firtala-e2lr92i
   youtube: CpWlBAmD9ok
 links:
   anchor: https://podcasters.spotify.com/datatalksclub/episodes/Building-a-Domestic-Risk-Assessment-Tool---Sabina-Firtala-e2lr92i

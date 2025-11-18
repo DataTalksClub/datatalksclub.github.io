@@ -7,7 +7,7 @@ guests:
 - arsenykravchenko
 image: images/podcast/s14e01-building-scalable-and-reliable-machine-learning-systems.jpg
 ids:
-  anchor: atatalksclub/episodes/Building-Scalable-and-Reliable-Machine-Learning-Systems---Arseny-Kravchenko-e23m33q
+  anchor: datatalksclub/episodes/Building-Scalable-and-Reliable-Machine-Learning-Systems---Arseny-Kravchenko-e23m33q
   youtube: i-pIdekjUow
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Building-Scalable-and-Reliable-Machine-Learning-Systems---Arseny-Kravchenko-e23m33q

@@ -8,7 +8,7 @@ guests:
 - nemanjaradojkovic
 image: images/podcast/s20e04-mlops-in-corporations-and-startups.jpg
 ids:
-  anchor: atalksclub/episodes/MLOps-in-Corporations-and-Startups---Nemanja-Radojkovic-e304g53
+  anchor: datatalksclub/episodes/MLOps-in-Corporations-and-Startups---Nemanja-Radojkovic-e304g53
   youtube: DX9c__a4jzg
 links:
   anchor: https://creators.spotify.com/pod/show/datatalksclub/episodes/MLOps-in-Corporations-and-Startups---Nemanja-Radojkovic-e304g53

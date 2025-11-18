@@ -7,7 +7,7 @@ guests:
 - mariavechtomova
 image: images/podcast/s15e07-pragmatic-and-standardized-mlops.jpg
 ids:
-  anchor: lub/episodes/Pragmatic-and-Standardized-MLOps---Maria-Vechtomova-e292ksv
+  anchor: datatalksclub/episodes/Pragmatic-and-Standardized-MLOps---Maria-Vechtomova-e292ksv
   youtube: q3DTR3Od1MA
 links:
   anchor: https://podcasters.spotify.com/datatalksclub/episodes/Pragmatic-and-Standardized-MLOps---Maria-Vechtomova-e292ksv
