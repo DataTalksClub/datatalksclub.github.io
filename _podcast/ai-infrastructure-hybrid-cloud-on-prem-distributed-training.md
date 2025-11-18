@@ -6,7 +6,7 @@ season: 20
 episode: 1
 guests:
 - andreycheptsov
-image: images/podcast/s20e01-trends-in-ai-infrastructure.jpg
+image: images/podcast/ai-infrastructure-hybrid-cloud-on-prem-distributed-training.jpg
 ids:
   anchor: datatalksclub/episodes/Redefining-AI-Infrastructure-Open-Source--Chips--and-the-Future-Beyond-Kubernetes--Andrey-Cheptsov-e2u7lc2
   youtube: 1aMuynlLM3o

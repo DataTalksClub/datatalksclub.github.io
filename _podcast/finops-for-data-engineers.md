@@ -5,7 +5,7 @@ season: 20
 episode: 6
 guests:
 - eddyzulkifly
-image: images/podcast/s20e06-from-supply-chain-management-to-digital-warehousing-and-finops.jpg
+image: images/podcast/finops-for-data-engineers.jpg
 ids:
   anchor: datatalksclub/episodes/From-Supply-Chain-Management-to-Digital-Warehousing-and-FinOps---Eddy-Zulkifly-e313t7b
   youtube: 7ePp6wuxM5s

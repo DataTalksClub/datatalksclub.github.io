@@ -5,7 +5,7 @@ season: 12
 episode: 9
 guests:
 - tatianagabruseva
-image: images/podcast/s12e09-staff-ai-engineer.jpg
+image: images/podcast/from-academia-to-staff-ai-engineer-interviews-and-career-growth.jpg
 ids:
   anchor: Staff-AI-Engineer---Tatiana-Gabruseva-e1v3on7
   youtube: _xr1_xb736E

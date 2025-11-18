@@ -5,7 +5,7 @@ season: 13
 episode: 1
 guests:
 - daniameira
-image: images/podcast/s13e01-accelerating-adoption-of-ai-through-diversity.jpg
+image: images/podcast/building-ml-communities-diversity-and-career-growth.jpg
 ids:
   anchor: Accelerating-the-Adoption-of-AI-through-Diversity---Dnia-Meira-e1v9obp
   youtube: SRUwwvk_YCk

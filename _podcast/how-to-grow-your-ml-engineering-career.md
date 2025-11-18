@@ -5,7 +5,7 @@ season: 12
 episode: 7
 guests:
 - krzysztofszafanek
-image: images/podcast/s12e07-navigating-career-changes-in-machine-learning.jpg
+image: images/podcast/how-to-grow-your-ml-engineering-career.jpg
 ids:
   anchor: Navigating-Career-Changes-in-Machine-Learning---Chris-Szafranek-e1ucvn2
   youtube: cUxZBXQgZaU

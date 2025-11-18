@@ -5,7 +5,7 @@ season: 3
 episode: 2
 guests:
 - andradaolteanu
-image: images/podcast/s03e02-from-analytics-to-data-science.jpg
+image: images/podcast/analytics-to-data-science-with-kaggle-portfolio.jpg
 ids:
   youtube: ixmTewD5Waw
   anchor: Shifting-Career-from-Analytics-to-Data-Science---Andrada-Olteanu-ev19ma

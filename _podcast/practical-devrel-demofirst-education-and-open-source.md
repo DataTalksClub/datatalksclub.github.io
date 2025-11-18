@@ -6,7 +6,7 @@ season: 20
 episode: 8
 guests:
 - willrussell
-image: images/podcast/s20e08-from-hackathons-to-developer-advocacy.jpg
+image: images/podcast/practical-devrel-demofirst-education-and-open-source.jpg
 ids:
   anchor: datatalksclub/episodes/From-Hackathons-to-Developer-Advocacy---Will-Russel-e339a5f
   youtube: vXbMUfHE1OE

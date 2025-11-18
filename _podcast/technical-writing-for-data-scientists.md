@@ -5,7 +5,7 @@ season: 2
 episode: 1
 guests:
 - eugeneyan
-image: images/podcast/s02e01-writing.jpg
+image: images/podcast/technical-writing-for-data-scientists.jpg
 ids:
   youtube: vXWGd7olv3c
   anchor: The-Importance-of-Writing-in-a-Tech-Career---Eugene-Yan-ep17du

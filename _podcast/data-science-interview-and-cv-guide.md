@@ -5,7 +5,7 @@ season: 3
 episode: 4
 guests:
 - olegnovikov
-image: images/podcast/s03e04-interviewing-300-data-scientists.jpg
+image: images/podcast/data-science-interview-and-cv-guide.jpg
 ids:
   youtube: AYi7b-8GPm4
   anchor: What-I-Learned-After-Interviewing-300-Data-Scientists---Oleg-Novikov-e10ctbs

@@ -6,7 +6,7 @@ season: 20
 episode: 2
 guests:
 - alexanderguschin
-image: images/podcast/s20e02-competitive-machine-learning-and-teaching.jpg
+image: images/podcast/kaggle-grandmaster-to-production-ml-and-education.jpg
 ids:
   anchor: datatalksclub/episodes/Competitive-Machine-Leaning-And-Teaching--Alexander-Guschin-e2uslu8
   youtube: NfAJAr7FvyY&t

@@ -7,7 +7,7 @@ episode: 1
 guests:
 - alexeygrigorev
 - johannabayer
-image: images/podcast/s16e01-datatalks-club-anniversary-interview.jpg
+image: images/podcast/datatalksclub-building-sustainable-data-community-3-years-anniversary.jpg
 ids:
   anchor: datatalksclub/episodes/DataTalks-Club-Anniversary-Interview---Alexey-Grigorev--Johanna-Bayer-e2a5cqo
   youtube: nCqwZT9zA0M

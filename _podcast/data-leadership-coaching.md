@@ -5,7 +5,7 @@ season: 18
 episode: 1
 guests:
 - terezaiofciu
-image: images/podcast/s18e01-inclusive-data-leadership-coaching.jpg
+image: images/podcast/data-leadership-coaching.jpg
 ids:
   youtube: Z4vOTgzLkJQ
 links:

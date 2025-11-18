@@ -5,7 +5,7 @@ season: 4
 episode: 5
 guests:
 - benwilson
-image: images/podcast/s04e05-running-from-complexity.jpg
+image: images/podcast/machine-learning-engineering-production-best-practices.jpg
 ids:
   youtube: sMy8NYZnsy8
   anchor: Running-from-Complexity---Ben-Wilson-e14np51

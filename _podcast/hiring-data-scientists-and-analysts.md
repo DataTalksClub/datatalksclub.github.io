@@ -5,7 +5,7 @@ season: 7
 episode: 2
 guests:
 - alicjanotowska
-image: images/podcast/s07e02-recruiting-data-professionals.jpg
+image: images/podcast/hiring-data-scientists-and-analysts.jpg
 ids:
   youtube: WSMDXsjKYx4
   anchor: Recruiting-Data-Professionals---Alicja-Notowska-e1dj2qn

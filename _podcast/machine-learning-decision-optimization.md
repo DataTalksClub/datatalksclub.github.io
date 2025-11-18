@@ -5,7 +5,7 @@ season: 2
 episode: 6
 guests:
 - danbecker
-image: images/podcast/s02e06-decision-optimization.jpg
+image: images/podcast/machine-learning-decision-optimization.jpg
 ids:
   youtube: SJuzQ4bcU2c
   anchor: Translating-ML-Predictions-Into-Better-Real-World-Results-with-Decision-Optimization---Dan-Becker-eqk0b1/a-a4maq87

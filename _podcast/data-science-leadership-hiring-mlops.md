@@ -5,7 +5,7 @@ season: 6
 episode: 9
 guests:
 - marianosemelman
-image: images/podcast/s06e09-data-science-manager.jpg
+image: images/podcast/data-science-leadership-hiring-mlops.jpg
 ids:
   youtube: qOLR84-KHoY
   anchor: Becoming-a-Data-Science-Manager---Mariano-Semelman-e1cbrf7

@@ -5,7 +5,7 @@ season: 17
 episode: 4
 guests:
 - robzinkov
-image: images/podcast/s17e04-bayesian-modeling-and-probabilistic-programming.jpg
+image: images/podcast/bayesian-modeling-workflows-and-tools.jpg
 ids:
   anchor: datatalksclub/episodes/Bayesian-Modeling-and-Probabilistic-Programming---Rob-Zinkov-e2dokr5
   youtube: kcKvUSInm-M

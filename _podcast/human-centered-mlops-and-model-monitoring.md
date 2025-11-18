@@ -5,7 +5,7 @@ season: 4
 episode: 6
 guests:
 - linaweichbrodt
-image: images/podcast/s04e06-humans-in-the-loop.jpg
+image: images/podcast/human-centered-mlops-and-model-monitoring.jpg
 ids:
   youtube: o50j_Ndx2Hg
   anchor: Humans-in-the-Loop---Lina-Weichbrodt-e14npgp

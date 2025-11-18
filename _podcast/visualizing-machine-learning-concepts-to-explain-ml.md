@@ -5,7 +5,7 @@ season: 8
 episode: 1
 guests:
 - meoramer
-image: images/podcast/s08e01-visualising-machine-learning.jpg
+image: images/podcast/visualizing-machine-learning-concepts-to-explain-ml.jpg
 ids:
   anchor: Visualising-Machine-Learning---Meor-Amer-e1g7iri
   youtube: OuCuk-7RHjM

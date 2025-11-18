@@ -5,7 +5,7 @@ season: 5
 episode: 4
 guests:
 - mariannadiachuk
-image: images/podcast/s05e04-introducing-data-science-in-startups.jpg
+image: images/podcast/solopreneur-data-scientist.jpg
 ids:
   youtube: KMSE9GkU2mE
   anchor: Introducing-Data-Science-in-Startups---Marianna-Diachuk-e17rc4i

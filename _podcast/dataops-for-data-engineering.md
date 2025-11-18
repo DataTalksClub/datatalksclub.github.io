@@ -6,7 +6,7 @@ season: 18
 episode: 9
 guests:
 - christopherbergh
-image: images/podcast/s18e09-dataops-observability-and-cure-for-data-team-blues.jpg
+image: images/podcast/dataops-for-data-engineering.jpg
 ids:
   anchor: datatalksclub/episodes/DataOps--Observability--and-The-Cure-for-Data-Team-Blues---Christopher-Bergh-e2n775f
   youtube: HzGpIxV8HtA

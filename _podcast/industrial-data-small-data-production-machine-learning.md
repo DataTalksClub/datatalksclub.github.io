@@ -5,7 +5,7 @@ season: 13
 episode: 8
 guests:
 - rosonaeldred
-image: images/podcast/s13e08-navigating-industrial-data-challenges.jpg
+image: images/podcast/industrial-data-small-data-production-machine-learning.jpg
 ids:
   anchor: ow/datatalksclub/episodes/Navigating-Industrial-Data-Challenges---Rosona-Eldred-e225aam
   youtube: rwuud5wr3J4

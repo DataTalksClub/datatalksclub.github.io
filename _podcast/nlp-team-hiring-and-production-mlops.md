@@ -5,7 +5,7 @@ season: 6
 episode: 8
 guests:
 - ivanbilan
-image: images/podcast/s06e08-nlp-teams.jpg
+image: images/podcast/nlp-team-hiring-and-production-mlops.jpg
 ids:
   youtube: RJEf6mzxh1w
   anchor: Leading-NLP-Teams---Ivan-Bilan-e1c4929

@@ -5,7 +5,7 @@ season: 12
 episode: 4
 guests:
 - johannabayer
-image: images/podcast/s12e04-doing-software-engineering-in-academia.jpg
+image: images/podcast/teaching-reproducible-research-and-open-science-coding-practices-for-academia.jpg
 ids:
   anchor: Doing-Software-Engineering-in-Academia---Johanna-Bayer-e1snqcb
   youtube: K0PdQITQzVQ

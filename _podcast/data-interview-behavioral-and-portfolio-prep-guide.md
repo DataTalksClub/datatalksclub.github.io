@@ -5,7 +5,7 @@ season: 6
 episode: 2
 guests:
 - nicksingh
-image: images/podcast/s06e02-non-technical-interviews.jpg
+image: images/podcast/data-interview-behavioral-and-portfolio-prep-guide.jpg
 ids:
   youtube: tRdLVUKU7Bo
   anchor: Ace-Non-Technical-Data-Science-Interviews---Nick-Singh-e1a5qtd

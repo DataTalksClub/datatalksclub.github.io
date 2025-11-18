@@ -5,7 +5,7 @@ season: 18
 episode: 4
 guests:
 - vincentwarmerdam
-image: images/podcast/s18e04-working-in-open-source-probabl-ai-and-sklearn.jpg
+image: images/podcast/open-source-ml-tools-strategy-and-business-models.jpg
 ids:
   anchor: datatalksclub/episodes/Working-in-Open-Source---Probabl-ai-and-sklearn---Vincent-Warmerdam-e2j78fs
   youtube: UPlIETGwTg8

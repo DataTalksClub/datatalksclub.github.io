@@ -5,7 +5,7 @@ season: 15
 episode: 1
 guests:
 - valeriybabushkin
-image: images/podcast/s15e01-why-machine-learning-design-broken.jpg
+image: images/podcast/ml-system-design.jpg
 ids:
   anchor: datatalksclub/episodes/Why-Machine-Learning-Design-is-Broken---Valerii-Babushkin-e26rv8o
   youtube: 6YBMU6475KQ

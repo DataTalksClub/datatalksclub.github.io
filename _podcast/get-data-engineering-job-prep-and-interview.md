@@ -5,7 +5,7 @@ season: 9
 episode: 3
 guests:
 - jeffkatz
-image: images/podcast/s09e03-getting-data-engineering-job-(summary-and-q&a).jpg
+image: images/podcast/get-data-engineering-job-prep-and-interview.jpg
 ids:
   anchor: Getting-a-Data-Engineering-Job-Summary-and-QA---Jeff-Katz-e1jljmd
   youtube: asnt7xlyZXQ

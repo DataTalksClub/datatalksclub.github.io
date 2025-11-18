@@ -5,7 +5,7 @@ season: 13
 episode: 5
 guests:
 - nadianahar
-image: images/podcast/s13e05-se4ml-software-engineering-for-machine-learning.jpg
+image: images/podcast/software-engineering-for-machine-learning.jpg
 ids:
   anchor: ow/datatalksclub/episodes/SE4ML---Software-Engineering-for-Machine-Learning---Nadia-Nahar-e20svmn
   youtube: 35Ch8xL2SA8

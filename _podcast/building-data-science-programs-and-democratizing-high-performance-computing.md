@@ -5,7 +5,7 @@ season: 10
 episode: 8
 guests:
 - davidbader
-image: images/podcast/s10e08-leading-data-research.jpg
+image: images/podcast/building-data-science-programs-and-democratizing-high-performance-computing.jpg
 ids:
   anchor: Leading-Data-Research---David-Bader-e1nmt3r
   youtube: vZLlpsUlchQ

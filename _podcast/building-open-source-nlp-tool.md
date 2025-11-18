@@ -5,7 +5,7 @@ season: 13
 episode: 9
 guests:
 - johanneshotter
-image: images/podcast/s13e09-building-open-source-nlp-tool.jpg
+image: images/podcast/building-open-source-nlp-tool.jpg
 ids:
   anchor: ow/datatalksclub/episodes/Building-an-Open-Source-NLP-Tool---Johannes-Htter-e22lbn4
   youtube: WIpnyiHp4IE

@@ -6,7 +6,7 @@ season: 19
 episode: 5
 guests:
 - anastasiakaravdina
-image: images/podcast/s19e05-large-hadron-collider-and-mentorship.jpg
+image: images/podcast/from-large-hadron-collider-to-data-science-research-software-engineering.jpg
 ids:
   anchor: datatalksclub/episodes/Large-Hadron-Collider-and-Mentorship--Anastasia-Karavdina-e2rc2bj/a-abl5fth
   youtube: kV0ZDy2UtJA

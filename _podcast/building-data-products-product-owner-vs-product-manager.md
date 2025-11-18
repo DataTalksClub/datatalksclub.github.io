@@ -5,7 +5,7 @@ season: 11
 episode: 6
 guests:
 - annahannemann
-image: images/podcast/s11e06-product-owners-in-data-science.jpg
+image: images/podcast/building-data-products-product-owner-vs-product-manager.jpg
 ids:
   anchor: Product-Owners-in-Data-Science---Anna-Hannemann-e1q0ord
   youtube: rTRTjB6cGng

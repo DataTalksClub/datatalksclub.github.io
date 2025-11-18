@@ -5,7 +5,7 @@ season: 4
 episode: 1
 guests:
 - svpino
-image: images/podcast/s04e01-from-swe-to-ml.jpg
+image: images/podcast/from-software-engineer-to-machine-learning.jpg
 ids:
   youtube: xVYOdRrN7hw
   anchor: From-Software-Engineering-to-Machine-Learning---Santiago-Valdarrama-e139s63

@@ -5,7 +5,7 @@ season: 9
 episode: 8
 guests:
 - willmcgugan
-image: images/podcast/s09e08-from-open-source-maintainer-to-founder.jpg
+image: images/podcast/open-source-turned-into-career-and-startup-creation.jpg
 ids:
   anchor: From-Open-Source-Maintainer-to-Founder---Will-McGugan-e1kqtu5
   youtube: bwfR9dyxf1M

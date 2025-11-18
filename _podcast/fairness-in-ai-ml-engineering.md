@@ -6,7 +6,7 @@ season: 19
 episode: 9
 guests:
 - tamaraatanasoska
-image: images/podcast/s19e09-linguistics-and-fairness.jpg
+image: images/podcast/fairness-in-ai-ml-engineering.jpg
 ids:
   anchor: datatalksclub/episodes/Linguistics-and-Fairness---Tamara-Atanasoska-e2thdk0
   youtube: sXU9vMDBjmk

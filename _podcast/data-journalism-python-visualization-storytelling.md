@@ -5,7 +5,7 @@ season: 11
 episode: 8
 guests:
 - angelicaloduca
-image: images/podcast/s11e08-technical-writing-and-data-journalism.jpg
+image: images/podcast/data-journalism-python-visualization-storytelling.jpg
 ids:
   anchor: Technical-Writing-and-Data-Journalism---Angelica-Lo-Duca-e1r7j8k
   youtube: uO_lk12q02A

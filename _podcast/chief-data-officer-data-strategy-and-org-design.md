@@ -5,7 +5,7 @@ season: 4
 episode: 9
 guests:
 - marcodesa
-image: images/podcast/s04e09-chief-data-officer.jpg
+image: images/podcast/chief-data-officer-data-strategy-and-org-design.jpg
 ids:
   youtube: IdaZOD46FEw
   anchor: Chief-Data-Officer---Marco-De-Sa-e16hm4t

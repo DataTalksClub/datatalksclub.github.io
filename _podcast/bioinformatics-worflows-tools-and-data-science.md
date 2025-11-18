@@ -7,7 +7,7 @@ season: 22
 episode: 3
 guests:
 - sebastianayalaruano
-image: images/podcast/s22e03-from-biotechnology-to-bioinformatics-software.jpg
+image: images/podcast/bioinformatics-worflows-tools-and-data-science.jpg
 ids:
   anchor: datatalksclub/episodes/From-Biotechnology-to-Bioinformatics-Software---Sebastian-Ayala-RuanoFrom-Biotechnology-to-Bioinformatics-Software---Sebastian-Ayala-Ruano-e39vsv6
   youtube: ZFrcrTtnB1Q

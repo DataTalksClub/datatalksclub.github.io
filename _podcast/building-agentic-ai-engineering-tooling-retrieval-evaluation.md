@@ -6,7 +6,7 @@ season: 22
 episode: 1
 guests:
 - ranjithakulkarni
-image: images/podcast/s22e01-building-reliable-ai-products-in-era-of-gen-ai-and-agents.jpg
+image: images/podcast/building-agentic-ai-engineering-tooling-retrieval-evaluation.jpg
 ids:
   anchor: datatalksclub/episodes/Building-reliable-AI-products-in-the-era-of-Gen-AI-and-Agents---Ranjitha-Kulkarni-e396m2u
   youtube: x2AAjqz2XmM

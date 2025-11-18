@@ -5,7 +5,7 @@ season: 14
 episode: 6
 guests:
 - hugobowneanderson
-image: images/podcast/s14e06-data-developer-relations.jpg
+image: images/podcast/devrel-open-source-machine-learning.jpg
 ids:
   anchor: ow/datatalksclub/episodes/Data-Developer-Relations---Hugo-Bowne-Anderson-e25q88q
   youtube: z7BvslwVRbQ

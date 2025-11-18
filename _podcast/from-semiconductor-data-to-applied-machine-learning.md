@@ -6,7 +6,7 @@ season: 21
 episode: 8
 guests:
 - dashelruizperez
-image: images/podcast/s21e08-from-semiconductors-to-machine-learning-career-in-data-and-teaching.jpg
+image: images/podcast/from-semiconductor-data-to-applied-machine-learning.jpg
 ids:
   anchor: datatalksclub/episodes/From-Semiconductors-to-Machine-Learning-A-Career-in-Data-and-Teaching-e395t53
   youtube: B2tzuUg5uZs

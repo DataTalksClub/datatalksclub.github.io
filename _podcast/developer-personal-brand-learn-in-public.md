@@ -5,7 +5,7 @@ season: 3
 episode: 7
 guests:
 - swyx
-image: images/podcast/s03e07-market-yourself.jpg
+image: images/podcast/developer-personal-brand-learn-in-public.jpg
 ids:
   youtube: tkBCPqWKCL8
   anchor: How-to-Market-Yourself-without-Being-a-Celebrity---Shawn-Swyx-Wang-e11ai8t

@@ -6,7 +6,7 @@ season: 19
 episode: 8
 guests:
 - agitajaunzeme
-image: images/podcast/s19e08-career-choices-transitions-and-promotions-in-and-out-of-tech.jpg
+image: images/podcast/from-devops-to-data-engineering-automation-open-source-volunteering.jpg
 ids:
   anchor: datatalksclub/episodes/Career-choices--transitions-and-promotions-in-and-out-of-tech---Agita-Jaunzeme-e2t05nv
   youtube: QKWu5-6_6TE

@@ -5,7 +5,7 @@ season: 9
 episode: 2
 guests:
 - daynancrull
-image: images/podcast/s09e02-using-data-for-asteroid-mining.jpg
+image: images/podcast/machine-learning-for-asteroid-mining-and-water-detection.jpg
 ids:
   anchor: Using-Data-for-Asteroid-Mining---Daynan-Crull-e1jbhr0
   youtube: YxijEUoDCfw

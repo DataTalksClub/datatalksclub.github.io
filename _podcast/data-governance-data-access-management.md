@@ -5,7 +5,7 @@ season: 14
 episode: 4
 guests:
 - bartvandekerckhove
-image: images/podcast/s14e04-data-access-management.jpg
+image: images/podcast/data-governance-data-access-management.jpg
 ids:
   anchor: ow/datatalksclub/episodes/Data-Access-Management---Bart-Vandekerckhove-e253r4u
   youtube: IiPOIiUy5b4

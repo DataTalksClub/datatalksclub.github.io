@@ -5,7 +5,7 @@ season: 12
 episode: 2
 guests:
 - lorismarini
-image: images/podcast/s12e02-business-skills-for-data-professionals.jpg
+image: images/podcast/data-professionals-business-skills-in-saas.jpg
 ids:
   anchor: Business-Skills-for-Data-Professionals---Loris-Marini-e1s89hu
   youtube: xMYRUiTu960

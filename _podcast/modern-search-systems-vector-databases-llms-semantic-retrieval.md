@@ -6,7 +6,7 @@ season: 17
 episode: 2
 guests:
 - atitaarora
-image: images/podcast/s17e02-searching-beyond-surface-navigating-challenges-and-innovations-in-search-technologies.jpg
+image: images/podcast/modern-search-systems-vector-databases-llms-semantic-retrieval.jpg
 ids:
   anchor: datatalksclub/episodes/Navigating-Challenges-and-Innovations-in-Search-Technologies---Atita-Arora-e2d7rps
   youtube: _fbe1QyJ1PY

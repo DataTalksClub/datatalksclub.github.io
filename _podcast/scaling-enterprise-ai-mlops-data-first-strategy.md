@@ -5,7 +5,7 @@ season: 10
 episode: 4
 guests:
 - alexanderhendorf
-image: images/podcast/s10e04-lessons-learned-about-data-&-ai-at-enterprises.jpg
+image: images/podcast/scaling-enterprise-ai-mlops-data-first-strategy.jpg
 ids:
   anchor: Lessons-Learned-About-Data--AI-at-Enterprises---Alexander-Hendorf-e1milm0/a-a8d08ua
   youtube: Vms29u9xC3k

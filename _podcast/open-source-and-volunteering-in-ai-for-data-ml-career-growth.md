@@ -5,7 +5,7 @@ season: 17
 episode: 7
 guests:
 - saraelateif
-image: images/podcast/s17e07-make-impact-through-volunteering-open-source-work.jpg
+image: images/podcast/open-source-and-volunteering-in-ai-for-data-ml-career-growth.jpg
 ids:
   anchor: datatalksclub/episodes/Make-an-Impact-Through-Volunteering-Open-Source-Work---Sara-EL-ATEIF-e2g4dan
   youtube: aHdaIwOEI8Q

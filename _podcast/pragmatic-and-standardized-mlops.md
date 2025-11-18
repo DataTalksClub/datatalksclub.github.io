@@ -5,7 +5,7 @@ season: 15
 episode: 7
 guests:
 - mariavechtomova
-image: images/podcast/s15e07-pragmatic-and-standardized-mlops.jpg
+image: images/podcast/pragmatic-and-standardized-mlops.jpg
 ids:
   anchor: datatalksclub/episodes/Pragmatic-and-Standardized-MLOps---Maria-Vechtomova-e292ksv
   youtube: q3DTR3Od1MA

@@ -5,7 +5,7 @@ season: 19
 episode: 2
 guests:
 - katarzynaforemniak
-image: images/podcast/s19e02-human-centered-ai-for-disordered-speech-recognition.jpg
+image: images/podcast/human-centered-ai-automatic-speech-recognition.jpg
 ids:
   anchor: datatalksclub/episodes/Human-Centered-AI-for-Disordered-Speech-Recognition---Katarzyna-Foremniak-e2p8360
   youtube: yTZ4cddD7DU

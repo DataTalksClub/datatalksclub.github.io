@@ -6,7 +6,7 @@ season: 21
 episode: 5
 guests:
 - danielegbo
-image: images/podcast/s21e05-from-astronomy-to-applied-ml.jpg
+image: images/podcast/from-radio-astronomy-to-machine-learning-and-data-engineering.jpg
 ids:
   anchor: datatalksclub/episodes/From-Astronomy-to-Applied-ML---Daniel-Egbo-e38ha20
   youtube: b92gwrsVQtg

@@ -5,7 +5,7 @@ season: 11
 episode: 9
 guests:
 - irinabrudaru
-image: images/podcast/s11e09-teaching-and-mentoring-in-data-analytics.jpg
+image: images/podcast/teaching-mentoring-data-analytics-fintech.jpg
 ids:
   anchor: Teaching-and-Mentoring-in-Data-Analytics---Irina-Brudaru-e1rihm1
   youtube: saaRRzgHsmE

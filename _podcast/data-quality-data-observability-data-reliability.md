@@ -5,7 +5,7 @@ season: 3
 episode: 3
 guests:
 - barrmoses
-image: images/podcast/s03e03-data-observability.jpg
+image: images/podcast/data-quality-data-observability-data-reliability.jpg
 ids:
   youtube: TrMG1SOqZkQ
   anchor: Data-Observability---Barr-Moses-evghmh

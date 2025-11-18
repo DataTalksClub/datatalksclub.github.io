@@ -6,7 +6,7 @@ season: 18
 episode: 5
 guests:
 - erumafzal
-image: images/podcast/s18e05-community-building-and-teaching-in-ai-tech.jpg
+image: images/podcast/community-building-and-teaching-in-ai-tech.jpg
 ids:
   anchor: datatalksclub/episodes/Community-Building-and-Teaching-in-AI--Tech---Erum-Afzal-e2jg61r
   youtube: 7SLd5V7z3xQ

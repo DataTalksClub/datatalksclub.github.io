@@ -5,7 +5,7 @@ season: 18
 episode: 2
 guests:
 - anahitapakiman
-image: images/podcast/s18e02-knowledge-graphs-and-llms-across-academia-and-industry.jpg
+image: images/podcast/knowledge-graphs-and-llms-for-automotive-rnd.jpg
 ids:
   anchor: datatalksclub/episodes/Knowledge-Graphs-and-LLMs-Across-Academia-and-Industry---Anahita-Pakiman-e2hpo20
   youtube: YncdlUscUOo

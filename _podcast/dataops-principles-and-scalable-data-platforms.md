@@ -5,7 +5,7 @@ season: 2
 episode: 11
 guests:
 - larsalbertsson
-image: images/podcast/s02e11-dataops.jpg
+image: images/podcast/dataops-principles-and-scalable-data-platforms.jpg
 ids:
   youtube: vyF3yGsF6UY
   anchor: DataOps-101---Lars-Albertsson-ethsp1

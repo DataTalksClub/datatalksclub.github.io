@@ -5,7 +5,7 @@ season: 14
 episode: 1
 guests:
 - arsenykravchenko
-image: images/podcast/s14e01-building-scalable-and-reliable-machine-learning-systems.jpg
+image: images/podcast/building-scalable-and-reliable-machine-learning-systems.jpg
 ids:
   anchor: datatalksclub/episodes/Building-Scalable-and-Reliable-Machine-Learning-Systems---Arseny-Kravchenko-e23m33q
   youtube: i-pIdekjUow

@@ -5,7 +5,7 @@ season: 5
 episode: 3
 guests:
 - adamsroka
-image: images/podcast/s05e03-metrics-and-kpis.jpg
+image: images/podcast/ml-engineering-kpis-and-metrics-strategy.jpg
 ids:
   youtube: H4P2RfKvXGs
   anchor: Defining-Success-Metrics-and-KPIs---Adam-Sroka-e17gfp0

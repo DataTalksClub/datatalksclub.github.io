@@ -5,7 +5,7 @@ season: 10
 episode: 1
 guests:
 - christinecepelak
-image: images/podcast/s10e01-data-science-for-social-impact.jpg
+image: images/podcast/data-science-for-public-policy-ethical-ai-social-impact.jpg
 ids:
   anchor: Data-Science-for-Social-Impact---Christine-Cepelak-e1li47e
   youtube: xWC1HAfekRk

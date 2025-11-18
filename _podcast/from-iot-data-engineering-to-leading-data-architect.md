@@ -5,7 +5,7 @@ season: 15
 episode: 8
 guests:
 - loicmagnien
-image: images/podcast/s15e08-from-data-manager-to-data-architect.jpg
+image: images/podcast/from-iot-data-engineering-to-leading-data-architect.jpg
 ids:
   anchor: datatalksclub/episodes/From-Data-Manager-to-Data-Architect---Loc-Magnien-e29rk73
   youtube: qWG--iYO2uc

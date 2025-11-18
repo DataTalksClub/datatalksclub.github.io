@@ -5,7 +5,7 @@ season: 13
 episode: 4
 guests:
 - aleksanderkruszelnicki
-image: images/podcast/s13e04-starting-consultancy-in-data-space.jpg
+image: images/podcast/data-consulting-business-pricing-and-client-acquisition.jpg
 ids:
   anchor: ow/datatalksclub/episodes/Starting-a-Consultancy-in-the-Data-Space---Aleksander-Kruszelnicki-e203c8g
   youtube: rh_pE35m3vE

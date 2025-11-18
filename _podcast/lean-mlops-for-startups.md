@@ -6,7 +6,7 @@ season: 20
 episode: 4
 guests:
 - nemanjaradojkovic
-image: images/podcast/s20e04-mlops-in-corporations-and-startups.jpg
+image: images/podcast/lean-mlops-for-startups.jpg
 ids:
   anchor: datatalksclub/episodes/MLOps-in-Corporations-and-Startups---Nemanja-Radojkovic-e304g53
   youtube: DX9c__a4jzg

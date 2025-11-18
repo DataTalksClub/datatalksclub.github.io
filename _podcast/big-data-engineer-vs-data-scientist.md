@@ -5,7 +5,7 @@ season: 4
 episode: 3
 guests:
 - roksolanadiachuk
-image: images/podcast/s04e03-big-data-engineer-vs-data-scientist.jpg
+image: images/podcast/big-data-engineer-vs-data-scientist.jpg
 ids:
   youtube: yg3d1lFd7Uo
   anchor: Big-Data-Engineer-vs-Data-Scientist---Roksolana-Diachuk-e139sl8

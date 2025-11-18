@@ -5,7 +5,7 @@ season: 13
 episode: 3
 guests:
 - ruslanshchuchkin
-image: images/podcast/s13e03-biohacking-for-data-scientists-and-ml-engineers.jpg
+image: images/podcast/biohacking-productivity-for-data-scientists-and-ml-engineers.jpg
 ids:
   anchor: ow/datatalksclub/episodes/Biohacking-for-Data-Scientists-and-ML-Engineers---Ruslan-Shchuchkin-e1vpm1i
   youtube: uyxUBADZYpU

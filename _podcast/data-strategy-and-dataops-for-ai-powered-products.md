@@ -5,7 +5,7 @@ season: 14
 episode: 3
 guests:
 - boyanangelov
-image: images/podcast/s14e03-data-strategy-key-principles-and-best-practices.jpg
+image: images/podcast/data-strategy-and-dataops-for-ai-powered-products.jpg
 ids:
   anchor: datatalksclub/episodes/Data-Strategy-Key-Principles-and-Best-Practices---Boyan-Angelov-e24mete
   youtube: jGbfeYdlCiQ

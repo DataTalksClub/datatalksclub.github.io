@@ -5,7 +5,7 @@ season: 3
 episode: 4
 guests:
 - liorbarak
-image: images/podcast/s03e04-effective-communication-with-business.jpg
+image: images/podcast/data-translator-role-and-data-strategy.jpg
 ids:
   youtube: gqroEsTyLD0
   anchor: Effective-Communication-with-Business-for-Data-Professionals---Lior-Barak-e1002rm

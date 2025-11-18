@@ -5,7 +5,7 @@ season: 7
 episode: 3
 guests:
 - gregcoquillo
-image: images/podcast/s07e03-product-management-essentials.jpg
+image: images/podcast/building-and-scaling-ai-data-products-with-mlops.jpg
 ids:
   youtube: p4wg0Vd2uD4
   anchor: Product-Management-Essentials-for-Data-Professionals---Greg-Coquillo-e1dr8g5

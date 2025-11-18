@@ -5,7 +5,7 @@ season: 10
 episode: 3
 guests:
 - dannyleybzon
-image: images/podcast/s10e03-mlops-architect.jpg
+image: images/podcast/mlops-model-monitoring-data-observability.jpg
 ids:
   anchor: MLOps-Architect---Danny-Leybzon-e1m81iu
   youtube: p1gVaS4Zx5M

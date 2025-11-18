@@ -6,7 +6,7 @@ season: 20
 episode: 7
 guests:
 - lavanyagupta
-image: images/podcast/s20e07-build-strong-career-in-data.jpg
+image: images/podcast/applied-llm-research-and-career-growth-in-practice.jpg
 ids:
   anchor: datatalksclub/episodes/Build-a-Strong-Career-in-Data---Lavanya-Gupta-e32k61phttps://creators.spotify.com/pod/show/datatalksclub/episodes/Build-a-Strong-Career-in-Data---Lavanya-Gupta-e32k61p
   youtube: ekG5zJioyFs

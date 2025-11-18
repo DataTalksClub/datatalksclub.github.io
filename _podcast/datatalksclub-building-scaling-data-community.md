@@ -6,7 +6,7 @@ episode: 1
 guests:
 - eugeneyan
 - alexeygrigorev
-image: images/podcast/s07e01-datatalksclub-behind-the-scenes.jpg
+image: images/podcast/datatalksclub-building-scaling-data-community.jpg
 ids:
   youtube: IxTyq96juVE
   anchor: DataTalks-Club-Behind-the-Scenes---Eugene-Yan--Alexey-Grigorev-e1d4567

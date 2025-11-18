@@ -6,7 +6,7 @@ season: 19
 episode: 3
 guests:
 - alexeygrigorev
-image: images/podcast/s19e03-datatalks-club-anniversary-podcast.jpg
+image: images/podcast/datatalksclub-scaling-and-free-courses.jpg
 ids:
   anchor: datatalksclub/episodes/DataTalks-Club-4th-Anniversary-AMA-Podcast--Alexey-Grigorev-and-Johanna-Bayer-e2q3ch2
   youtube: GHbeXIKnkLQ

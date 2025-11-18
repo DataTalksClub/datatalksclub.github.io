@@ -5,7 +5,7 @@ season: 10
 episode: 2
 guests:
 - terezaiofciu
-image: images/podcast/s10e02-decoding-data-science-job-descriptions.jpg
+image: images/podcast/data-science-job-red-flags-and-mismatched-roles.jpg
 ids:
   anchor: Decoding-Data-Science-Job-Descriptions---Tereza-Iofciu-e1m079l
   youtube: bqxBiIwtmX4

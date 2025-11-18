@@ -5,7 +5,7 @@ season: 11
 episode: 4
 guests:
 - sonalgoyal
-image: images/podcast/s11e04-large-scale-entity-resolution.jpg
+image: images/podcast/building-open-source-data-product-for-identity-resolution.jpg
 ids:
   anchor: Large-Scale-Entity-Resolution---Sonal-Goyal-e1pibrh
   youtube: lpjffCOPxlY

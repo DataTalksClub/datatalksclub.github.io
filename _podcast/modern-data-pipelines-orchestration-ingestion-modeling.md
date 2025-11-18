@@ -5,7 +5,7 @@ season: 14
 episode: 7
 guests:
 - santonatuli
-image: images/podcast/s14e07-from-mlops-to-dataops.jpg
+image: images/podcast/modern-data-pipelines-orchestration-ingestion-modeling.jpg
 ids:
   anchor: ow/datatalksclub/episodes/From-MLOps-to-DataOps---Santona-Tuli-e25vb0q
   youtube: kSTfhQ_SZgc

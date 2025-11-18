@@ -5,7 +5,7 @@ season: 8
 episode: 6
 guests:
 - nicolasrassam
-image: images/podcast/s08e06-recruiting-data-engineers.jpg
+image: images/podcast/hiring-for-data-engineering-jobs-in-europe.jpg
 ids:
   anchor: Recruiting-Data-Engineers---Nicolas-Rassam-e1hnkl1
   youtube: hylxiu4VGTo

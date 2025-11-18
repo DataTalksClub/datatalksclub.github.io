@@ -5,7 +5,7 @@ season: 9
 episode: 5
 guests:
 - misraturp
-image: images/podcast/s09e05-data-scientists-at-work.jpg
+image: images/podcast/how-to-break-into-data-science.jpg
 ids:
   anchor: Data-Scientists-at-Work---Msra-Turp-e1k7pbn
   youtube: oUycqtMoYr8

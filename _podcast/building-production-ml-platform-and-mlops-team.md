@@ -5,7 +5,7 @@ season: 14
 episode: 8
 guests:
 - simonstiebellehner
-image: images/podcast/s14e08-from-scratch-to-success-building-mlops-team-and-ml-platform.jpg
+image: images/podcast/building-production-ml-platform-and-mlops-team.jpg
 ids:
   anchor: datatalksclub/episodes/From-Scratch-to-Success-Building-an-MLOps-Team-and-ML-Platform---Simon-Stiebellehner-e26d01c
   youtube: CB1YIsxQRtc

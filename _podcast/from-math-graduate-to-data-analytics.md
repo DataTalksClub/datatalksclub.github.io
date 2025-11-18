@@ -5,7 +5,7 @@ season: 7
 episode: 9
 guests:
 - juanpablo
-image: images/podcast/s07e09-from-math-teacher-to-analytics-engineer.jpg
+image: images/podcast/from-math-graduate-to-data-analytics.jpg
 ids:
   anchor: From-Math-Teacher-to-Analytics-Engineer---Juan-Pablo-e1fplc1
   youtube: qh6-HDhw2xY

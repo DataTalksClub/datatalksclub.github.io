@@ -5,7 +5,7 @@ season: 19
 episode: 4
 guests:
 - raphaelhoogvliets
-image: images/podcast/s19e04-mlops-as-team.jpg
+image: images/podcast/mlops-at-scale-reproducibility-adoption.jpg
 ids:
   anchor: datatalksclub/episodes/MLOps-as-a-Team---Raphal-Hoogvliets-e2qnnu5/a-abkcdlr
   youtube: rMq63r3zi4c

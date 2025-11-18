@@ -5,7 +5,7 @@ season: 7
 episode: 6
 guests:
 - jakobgraff
-image: images/podcast/s07e06-ab-testing.jpg
+image: images/podcast/ab-testing-and-product-experimentation.jpg
 ids:
   anchor: AB-Testing---Jakob-Graff-e1eq73v
   youtube: 0Gqx1LtqRZU

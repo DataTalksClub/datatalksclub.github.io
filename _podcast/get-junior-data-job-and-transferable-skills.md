@@ -5,7 +5,7 @@ season: 7
 episode: 4
 guests:
 - lindsaymcquade
-image: images/podcast/s07e04-career-coaching.jpg
+image: images/podcast/get-junior-data-job-and-transferable-skills.jpg
 ids:
   anchor: Career-Coaching---Lindsay-McQuade-e1e8elk
   youtube: _U8GrYJvmJM

@@ -5,7 +5,7 @@ season: 3
 episode: 6
 guests:
 - tatianagabruseva
-image: images/podcast/s03e06-from-physics-to-machine-learning.jpg
+image: images/podcast/from-physics-to-computer-vision-career-transition.jpg
 ids:
   youtube: wJPi6Ip9PX0
   anchor: From-Physics-to-Machine-Learning---Tatiana-Gabruseva-e10r4pl

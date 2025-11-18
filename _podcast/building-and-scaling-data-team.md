@@ -5,7 +5,7 @@ season: 5
 episode: 6
 guests:
 - tammyliang
-image: images/podcast/s05e06-building-and-leading-data-teams.jpg
+image: images/podcast/building-and-scaling-data-team.jpg
 ids:
   youtube: kI4V2iBbaH0
   anchor: Building-and-Leading-Data-Teams---Tammy-Liang-e18efdl

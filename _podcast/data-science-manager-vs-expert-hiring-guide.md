@@ -5,7 +5,7 @@ season: 6
 episode: 3
 guests:
 - barbarasobkowiak
-image: images/podcast/s06e03-manager-vs-expert.jpg
+image: images/podcast/data-science-manager-vs-expert-hiring-guide.jpg
 ids:
   youtube: hFmIgaN-F8Y
   anchor: Data-Science-Manager-vs-Data-Science-Expert---Barbara-Sobkowiak-e1ah3od

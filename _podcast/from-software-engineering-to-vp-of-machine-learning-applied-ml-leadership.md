@@ -6,7 +6,7 @@ season: 16
 episode: 6
 guests:
 - jackblandin
-image: images/podcast/s16e06-unwritten-rules-for-success-in-machine-learning.jpg
+image: images/podcast/from-software-engineering-to-vp-of-machine-learning-applied-ml-leadership.jpg
 ids:
   anchor: datatalksclub/episodes/The-Unwritten-Rules-for-Success-in-Machine-Learning---Jack-Blandin-e2bojjk
   youtube: su2M058m3Lw

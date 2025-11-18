@@ -5,7 +5,7 @@ season: 13
 episode: 7
 guests:
 - aaishamuhammad
-image: images/podcast/s13e07-mastering-self-learning-in-machine-learning.jpg
+image: images/podcast/learning-machine-learning-self-taught-bioinformatics.jpg
 ids:
   anchor: ow/datatalksclub/episodes/Mastering-Self-Learning-in-Machine-Learning---Aaisha-Muhammad-e21ud62
   youtube: Kc3Puh3UCRQ

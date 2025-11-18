@@ -5,7 +5,7 @@ season: 1
 episode: 4
 guests:
 - lukewhipps
-image: images/podcast/s01e04-standing-out-as-a-data-scientist.jpg
+image: images/podcast/get-data-scientist-job.jpg
 ids:
   youtube: Sb4CJlonB3c
   anchor: Standing-out-as-a-Data-Scientist---Luke-Whipps-envr7e

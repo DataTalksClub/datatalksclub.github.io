@@ -5,7 +5,7 @@ season: 7
 episode: 7
 guests:
 - 16rahuljain
-image: images/podcast/s07e07-becoming-a-data-engineering-manager.jpg
+image: images/podcast/data-engineering-leadership-and-modern-data-platforms.jpg
 ids:
   anchor: Becoming-a-Data-Engineering-Manager---Rahul-Jain-e1f5nvf
   youtube: FljnbUQ796w

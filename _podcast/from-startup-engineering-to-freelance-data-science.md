@@ -5,7 +5,7 @@ season: 14
 episode: 5
 guests:
 - antonisstellas
-image: images/podcast/s14e05-lessons-learned-from-freelancing-and-working-in-start-up.jpg
+image: images/podcast/from-startup-engineering-to-freelance-data-science.jpg
 ids:
   anchor: ow/datatalksclub/episodes/Lessons-Learned-from-Freelancing-and-Working-in-a-Start-up---Antonis-Stellas-e25g94r
   youtube: -Gj7SaI-QW4

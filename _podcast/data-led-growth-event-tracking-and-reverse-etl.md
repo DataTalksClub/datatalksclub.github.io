@@ -5,7 +5,7 @@ season: 3
 episode: 8
 guests:
 - arpitchoudhury
-image: images/podcast/s03e08-data-led-professional.jpg
+image: images/podcast/data-led-growth-event-tracking-and-reverse-etl.jpg
 ids:
   youtube: 8v5KpHWgyYw
   anchor: Becoming-a-Data-led-Professional---Arpit-Choudhury-e11mkgq

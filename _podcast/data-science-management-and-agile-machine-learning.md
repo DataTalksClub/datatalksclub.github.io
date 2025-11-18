@@ -5,7 +5,7 @@ season: 13
 episode: 6
 guests:
 - shirmeirlador
-image: images/podcast/s13e06-secret-sauce-of-data-science-management.jpg
+image: images/podcast/data-science-management-and-agile-machine-learning.jpg
 ids:
   anchor: ow/datatalksclub/episodes/The-Secret-Sauce-of-Data-Science-Management---Shir-Meir-Lador-e21cu92
   youtube: gcxP0qRO-MY

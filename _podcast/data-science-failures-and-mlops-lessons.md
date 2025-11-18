@@ -5,7 +5,7 @@ season: 3
 episode: 9
 guests:
 - yurykashnitsky
-image: images/podcast/s03e09-what-data-scientists-dont-mention.jpg
+image: images/podcast/data-science-failures-and-mlops-lessons.jpg
 ids:
   youtube: c6dK1LWpv4g
   anchor: What-Data-Scientists-Dont-Mention-in-Their-LinkedIn-Profiles---Yury-Kashnitsky-e125jjl

@@ -5,7 +5,7 @@ season: 9
 episode: 7
 guests:
 - lisacohen
-image: images/podcast/s09e07-designing-data-science-organization.jpg
+image: images/podcast/data-science-team-structure-and-org-design.jpg
 ids:
   anchor: Designing-a-Data-Science-Organization---Lisa-Cohen-e1kcm5e
   youtube: F_rJ4fg5ZEA

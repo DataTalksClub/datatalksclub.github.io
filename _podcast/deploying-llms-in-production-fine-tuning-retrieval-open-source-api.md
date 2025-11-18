@@ -5,7 +5,7 @@ season: 15
 episode: 3
 guests:
 - meryemarik
-image: images/podcast/s15e03-llms-for-everyone.jpg
+image: images/podcast/deploying-llms-in-production-fine-tuning-retrieval-open-source-api.jpg
 ids:
   anchor: datatalksclub/episodes/LLMs-for-Everyone---Meryem-Arik-e27bouf
   youtube: 6dn6uZFkk04

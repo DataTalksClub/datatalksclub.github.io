@@ -5,7 +5,7 @@ season: 21
 episode: 3
 guests:
 - pastorsoto
-image: images/podcast/s21e03-from-medicine-to-machine-learning-how-public-learning-turned-into-career.jpg
+image: images/podcast/nonlinear-path-to-machine-learning-freelancing-and-public-learning.jpg
 ids:
   anchor: datatalksclub/episodes/From-Medicine-to-Machine-Learning-How-Public-Learning-Turned-into-a-Career---Pastor-Soto-e376e66
   youtube: 5km62e4nDaw

@@ -5,7 +5,7 @@ season: 11
 episode: 2
 guests:
 - katiebauer
-image: images/podcast/s11e02-data-science-career-development.jpg
+image: images/podcast/hiring-and-managing-data-science-teams-in-b2b-saas.jpg
 ids:
   anchor: Data-Science-Career-Development---Katie-Bauer-e1oq96g
   youtube: i1NHRroQClQ

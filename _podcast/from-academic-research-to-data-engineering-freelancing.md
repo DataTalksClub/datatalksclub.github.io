@@ -6,7 +6,7 @@ season: 21
 episode: 1
 guests:
 - orellgarten
-image: images/podcast/s21e01-from-simulation-algorithms-to-production-grade-data-systems.jpg
+image: images/podcast/from-academic-research-to-data-engineering-freelancing.jpg
 ids:
   anchor: datatalksclub/episodes/From-Simulations-to-Freelance-Data-Engineering-Orells-Journey-Out-of-Academia-and-Into-Consulting---Orell-Garten-e369a6b
   youtube: pkcpH5N-GP8

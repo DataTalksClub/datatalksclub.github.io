@@ -5,7 +5,7 @@ season: 8
 episode: 4
 guests:
 - stefangudmundsson
-image: images/podcast/s08e04-machine-learning-and-personalization-in-healthcare.jpg
+image: images/podcast/ai-in-healthcare-and-digital-therapeutics.jpg
 ids:
   anchor: Machine-Learning-and-Personalization-in-Healthcare---Stefan-Gudmundsson-e1h5gdg
   youtube: IDzhmmKeNG4

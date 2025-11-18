@@ -5,7 +5,7 @@ season: 17
 episode: 5
 guests:
 - nemanjaradojkovic
-image: images/podcast/s17e05-machine-learning-engineering-in-finance.jpg
+image: images/podcast/mlops-and-ml-engineering-in-finance.jpg
 ids:
   anchor: datatalksclub/episodes/Machine-Learning-Engineering-in-Finance---Nemanja-Radojkovic-e2evai8
   youtube: Nl4aibeFwiI

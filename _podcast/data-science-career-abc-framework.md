@@ -5,7 +5,7 @@ season: 2
 episode: 7
 guests:
 - dannyma
-image: images/podcast/s02e07-abc-data-science.jpg
+image: images/podcast/data-science-career-abc-framework.jpg
 ids:
   youtube: HVQ0DZOQcts
   anchor: The-ABCs-of-Data-Science---Danny-Ma-er33oa

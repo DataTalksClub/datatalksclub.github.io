@@ -5,7 +5,7 @@ season: 20
 episode: 5
 guests:
 - bartoszmikulski
-image: images/podcast/s20e05-data-intensive-ai.jpg
+image: images/podcast/production-ready-ai-engineering.jpg
 ids:
   anchor: datatalksclub/episodes/Data-Intensive-AI---Bartosz-Mikulski-e30fhoi
   youtube: BP6w_vKySN0

@@ -5,7 +5,7 @@ season: 14
 episode: 9
 guests:
 - polinamosolova
-image: images/podcast/s14e09-interpretable-ai-and-ml.jpg
+image: images/podcast/building-explainable-and-actionable-ai-ml-systems.jpg
 ids:
   anchor: datatalksclub/episodes/Interpretable-AI-and-ML---Polina-Mosolova-e26hffq
   youtube: EQcY83VA0Us

@@ -5,7 +5,7 @@ season: 11
 episode: 1
 guests:
 - alvaronavaspeire
-image: images/podcast/s11e01-from-testing-phones-to-managing-nlp-projects.jpg
+image: images/podcast/how-to-transition-into-ml-and-data-engineering-from-qa.jpg
 ids:
   anchor: From-Testing-Phones-to-Managing-NLP-Projects---Alvaro-Navas-Peire-e1oj7n8
   youtube: -xumbiXOlA8

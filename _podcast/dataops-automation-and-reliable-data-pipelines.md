@@ -5,7 +5,7 @@ season: 8
 episode: 5
 guests:
 - christopherbergh
-image: images/podcast/s08e05-storytime-for-dataops.jpg
+image: images/podcast/dataops-automation-and-reliable-data-pipelines.jpg
 ids:
   anchor: Storytime-for-DataOps---Christopher-Bergh-e1hgl0m
   youtube: 0Fx5PCoLkf4

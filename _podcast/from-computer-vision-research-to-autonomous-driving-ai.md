@@ -6,7 +6,7 @@ season: 22
 episode: 2
 guests:
 - aishwaryajadhav
-image: images/podcast/s22e02-lessons-from-applied-ai-tesla-waymo-and-beyond.jpg
+image: images/podcast/from-computer-vision-research-to-autonomous-driving-ai.jpg
 ids:
   anchor: datatalksclub/episodes/Lessons-from-Applied-AI-Tesla--Waymo--and-Beyond---Aishwarya-Jadhav-e39befu
   youtube: vK_SxyqIfwk

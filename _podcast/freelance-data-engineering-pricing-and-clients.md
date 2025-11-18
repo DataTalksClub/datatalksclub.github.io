@@ -5,7 +5,7 @@ season: 9
 episode: 4
 guests:
 - adrianbrudaru
-image: images/podcast/s09e04-freelancing-and-consulting-with-data-engineering.jpg
+image: images/podcast/freelance-data-engineering-pricing-and-clients.jpg
 ids:
   anchor: Freelancing-and-Consulting-with-Data-Engineering---Adrian-Brudaru-e1jtkkg
   youtube: 9DTTrN-khCk

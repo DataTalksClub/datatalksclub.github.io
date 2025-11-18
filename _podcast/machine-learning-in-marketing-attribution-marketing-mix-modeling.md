@@ -5,7 +5,7 @@ season: 9
 episode: 1
 guests:
 - juanorduz
-image: images/podcast/s09e01-machine-learning-in-marketing.jpg
+image: images/podcast/machine-learning-in-marketing-attribution-marketing-mix-modeling.jpg
 ids:
   anchor: Machine-Learning-in-Marketing---Juan-Orduz-e1j1muj
   youtube: jsAxUd_bZpw

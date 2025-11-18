@@ -5,7 +5,7 @@ season: 7
 episode: 8
 guests:
 - ellenkonig
-image: images/podcast/s07e08-from-data-science-to-data-engineering.jpg
+image: images/podcast/from-software-engineering-data-science-to-data-engineering-leadership.jpg
 ids:
   anchor: From-Data-Science-to-Data-Engineering---Ellen-Knig-e1fgfbm
   youtube: 3TTu-hYzxeg

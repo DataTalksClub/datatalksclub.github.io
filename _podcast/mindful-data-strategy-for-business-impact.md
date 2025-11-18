@@ -6,7 +6,7 @@ season: 21
 episode: 2
 guests:
 - liorbarak
-image: images/podcast/s21e02-mindful-data-strategy-from-pipelines-to-business-impact.jpg
+image: images/podcast/mindful-data-strategy-for-business-impact.jpg
 ids:
   anchor: datatalksclub/episodes/How-to-Rebuild-Data-Trust--Mindful-Data-Strategy-and-Maintenance-vs-Innovation---Lior-Barak-e36obcs
   youtube: B76J4QkZPWs

@@ -5,7 +5,7 @@ season: 8
 episode: 9
 guests:
 - gloriaquiceno
-image: images/podcast/s08e09-from-academia-to-data-analytics-and-engineering.jpg
+image: images/podcast/get-data-analytics-and-data-engineering-job.jpg
 ids:
   anchor: From-Academia-to-Data-Analytics-and-Engineering---Gloria-Quiceno-e1ikrd8
   youtube: 0wANfIvum4U

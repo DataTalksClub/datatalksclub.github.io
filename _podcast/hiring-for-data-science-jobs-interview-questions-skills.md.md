@@ -5,7 +5,7 @@ season: 9
 episode: 9
 guests:
 - olgaivina
-image: images/podcast/s09e09-hiring-data-science-talent.jpg
+image: images/podcast/hiring-for-data-science-jobs-interview-questions-skills.md.jpg
 ids:
   anchor: Hiring-Data-Science-Talent---Olga-Ivina-e1l4aku
   youtube: Af9t9r2b0z0

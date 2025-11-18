@@ -5,7 +5,7 @@ season: 6
 episode: 4
 guests:
 - saramenefee
-image: images/podcast/s06e04-becoming-a-data-product-manager.jpg
+image: images/podcast/product-designer-to-data-product-manager.jpg
 ids:
   youtube: nt__pVuuC-k
   anchor: Becoming-a-Data-Product-Manager---Sara-Menefee-e1arc4a

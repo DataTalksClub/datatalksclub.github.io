@@ -5,7 +5,7 @@ season: 22
 episode: 4
 guests:
 - hugobowneanderson
-image: images/podcast/s22e04-how-to-build-and-evaluate-ai-systems-in-age-of-llms.jpg
+image: images/podcast/practical-llm-engineering-and-rag.jpg
 ids:
   anchor: datatalksclub/episodes/How-to-Build-and-Evaluate-AI-systems-in-the-Age-of-LLMs---Hugo-Bowne-Anderson-e39vt24
   youtube: eC3RNuI6ow0

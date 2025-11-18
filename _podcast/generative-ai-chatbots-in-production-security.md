@@ -6,7 +6,7 @@ season: 19
 episode: 6
 guests:
 - mariasukhareva
-image: images/podcast/s19e06-ai-in-industry-trust-return-on-investment-and-future.jpg
+image: images/podcast/generative-ai-chatbots-in-production-security.jpg
 ids:
   anchor: datatalksclub/episodes/AI-in-Industry-Trust--Return-on-Investment-and-Future---Maria-Sukhareva-e2rp9f8
   youtube: bT7-HRNCltk

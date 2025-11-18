@@ -5,7 +5,7 @@ season: 15
 episode: 4
 guests:
 - sandrakublik
-image: images/podcast/s15e04-good-bad-and-ugly-of-gpt.jpg
+image: images/podcast/practical-llm-use-cases-and-product-patterns.jpg
 ids:
   anchor: datatalksclub/episodes/The-Good--the-Bad-and-the-Ugly-of-GPT---Sandra-Kublik-e27o8r4
   youtube: bM6AR4A-f98

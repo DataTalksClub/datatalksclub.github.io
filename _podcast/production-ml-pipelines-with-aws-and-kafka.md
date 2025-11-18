@@ -5,7 +5,7 @@ season: 4
 episode: 2
 guests:
 - andreaskretz
-image: images/podcast/s04e02-build-your-own-data-pipeline.jpg
+image: images/podcast/production-ml-pipelines-with-aws-and-kafka.jpg
 ids:
   youtube: IrZPAG6OBqo
   anchor: Build-Your-Own-Data-Pipeline---Andreas-Kretz-e139se1

@@ -5,7 +5,7 @@ season: 5
 episode: 9
 guests:
 - thomives
-image: images/podcast/s05e09-business-acumen.jpg
+image: images/podcast/feature-engineering-model-monitoring-and-data-governance.jpg
 ids:
   youtube: pImYf9ML95Q
   anchor: Building-Business-Acumen-for-Data-Professionals---Thom-Ives-e19gq91

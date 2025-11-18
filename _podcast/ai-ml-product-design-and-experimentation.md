@@ -5,7 +5,7 @@ season: 8
 episode: 3
 guests:
 - liesbethdingemans
-image: images/podcast/s08e03-innovation-and-design-for-machine-learning.jpg
+image: images/podcast/ai-ml-product-design-and-experimentation.jpg
 ids:
   anchor: Innovation-and-Design-for-Machine-Learning---Liesbeth-Dingemans-e1gq0en
   youtube: tcqBfZw41FM

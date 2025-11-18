@@ -5,7 +5,7 @@ season: 16
 episode: 8
 guests:
 - mariabruckert
-image: images/podcast/s16e08-ai-for-digital-health.jpg
+image: images/podcast/building-ai-digital-health-startups.jpg
 ids:
   anchor: datatalksclub/episodes/AI-for-Digital-Health---Maria-Bruckert-e2cejoc
   youtube: whpkDmVVGUE

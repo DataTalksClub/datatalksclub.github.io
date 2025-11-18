@@ -5,7 +5,7 @@ season: 15
 episode: 2
 guests:
 - belawiertz
-image: images/podcast/s15e02-investing-in-open-source-data-tools.jpg
+image: images/podcast/investing-in-open-source-developer-tools.jpg
 ids:
   anchor: datatalksclub/episodes/Investing-in-Open-Source-Data-Tools---Bela-Wiertz-e274dr8
   youtube: 7Bg1JQLnCao

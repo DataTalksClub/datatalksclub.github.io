@@ -5,7 +5,7 @@ season: 2
 episode: 3
 guests:
 - vincentwarmerdam
-image: images/podcast/s02e03-open-source.jpg
+image: images/podcast/open-source-ml-contributions.jpg
 ids:
   youtube: IxV9EH-tphQ
   anchor: Getting-Started-with-Open-Source---Vincent-Warmerdam-epk60j

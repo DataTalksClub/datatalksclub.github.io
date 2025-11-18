@@ -5,7 +5,7 @@ season: 16
 episode: 9
 guests:
 - dimitrivisnadi
-image: images/podcast/s16e09-become-data-freelancer.jpg
+image: images/podcast/becoming-data-freelancer.jpg
 ids:
   anchor: datatalksclub/episodes/Become-a-Data-Freelancer---Dimitri-Visnadi-e2cslo2
   youtube: R_EnSa9aZtE

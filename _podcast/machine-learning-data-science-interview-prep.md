@@ -5,7 +5,7 @@ season: 12
 episode: 6
 guests:
 - lukewhipps
-image: images/podcast/s12e06-preparing-for-data-science-interview.jpg
+image: images/podcast/machine-learning-data-science-interview-prep.jpg
 ids:
   anchor: Preparing-for-a-Data-Science-Interview---Luke-Whipps-e1tsh5d
   youtube: NnZjlMowkWA

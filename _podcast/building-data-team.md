@@ -5,7 +5,7 @@ season: 1
 episode: 3
 guests:
 - dattran
-image: images/podcast/s01e03-building-ds-team.jpg
+image: images/podcast/building-data-team.jpg
 ids:
   youtube: ScDIB-3O77A
   anchor: Building-a-Data-Science-Team---Dat-Tran-enlmef

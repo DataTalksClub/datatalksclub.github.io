@@ -5,7 +5,7 @@ season: 4
 episode: 4
 guests:
 - elenasamuylova
-image: images/podcast/s04e04-ml-startup.jpg
+image: images/podcast/building-mlops-startup.jpg
 ids:
   youtube: DiDs5aMjEWg
   anchor: I-Want-to-Build-a-Machine-Learning-Startup----Elena-Samuylova-e139ste

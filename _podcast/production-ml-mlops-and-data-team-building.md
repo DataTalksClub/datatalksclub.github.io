@@ -5,7 +5,7 @@ season: 5
 episode: 7
 guests:
 - rishabhbhargava
-image: images/podcast/s05e07-ml-vs-analytics.jpg
+image: images/podcast/production-ml-mlops-and-data-team-building.jpg
 ids:
   youtube: rMRUa8WxDz4
   anchor: Similarities-and-Differences-between-ML-and-Analytics---Rishabh-Bhargava-e18rcam

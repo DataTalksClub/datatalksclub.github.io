@@ -5,7 +5,7 @@ season: 15
 episode: 9
 guests:
 - angelaramirez
-image: images/podcast/s15e09-data-engineering-for-fraud-prevention.jpg
+image: images/podcast/building-and-scaling-data-engineering-systems-for-fraud-detection.jpg
 ids:
   anchor: datatalksclub/episodes/Data-Engineering-for-Fraud-Prevention---Angela-Ramirez-e29rkab
   youtube: ZXNKjrrKU_I

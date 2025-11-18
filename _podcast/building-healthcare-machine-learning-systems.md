@@ -6,7 +6,7 @@ season: 16
 episode: 2
 guests:
 - elenistamatelou
-image: images/podcast/s16e02-bridging-data-science-and-healthcare.jpg
+image: images/podcast/building-healthcare-machine-learning-systems.jpg
 ids:
   anchor: datatalksclub/episodes/Bridging-Data-Science-and-Healthcare---Eleni-Stamatelou-e2aegvc
   youtube: pDOwlulDh0c

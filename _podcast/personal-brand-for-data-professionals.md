@@ -5,7 +5,7 @@ season: 2
 episode: 8
 guests:
 - admondleekinlim
-image: images/podcast/s02e08-personal-branding.jpg
+image: images/podcast/personal-brand-for-data-professionals.jpg
 ids:
   youtube: tQRQnz_aHYQ
   anchor: Personal-Branding---Admond-Lee-Kin-Lim-ern77e

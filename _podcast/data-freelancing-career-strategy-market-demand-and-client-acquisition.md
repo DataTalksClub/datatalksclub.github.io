@@ -5,7 +5,7 @@ season: 20
 episode: 9
 guests:
 - dimitrivisnadi
-image: images/podcast/s20e09-taking-your-freelance-career-to-next-level.jpg
+image: images/podcast/data-freelancing-career-strategy-market-demand-and-client-acquisition.jpg
 ids:
   anchor: datatalksclub/episodes/Can-You-Quit-Your-Job-and-Still-Succeed-as-a-Data-Freelancer-e360j7e
   youtube: S93V8RgwBig

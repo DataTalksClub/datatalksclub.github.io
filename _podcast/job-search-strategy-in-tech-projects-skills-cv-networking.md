@@ -5,7 +5,7 @@ season: 17
 episode: 6
 guests:
 - sarahmestiri
-image: images/podcast/s17e06-accelerating-job-hunt-for-perfect-job-in-tech.jpg
+image: images/podcast/job-search-strategy-in-tech-projects-skills-cv-networking.jpg
 ids:
   anchor: datatalksclub/episodes/Accelerating-The-Job-Hunt-for-The-Perfect-Job-in-Tech---Sarah-Mestiri-e2f93r6
   youtube: PchwbIs0tOg

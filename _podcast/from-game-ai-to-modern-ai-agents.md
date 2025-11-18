@@ -6,7 +6,7 @@ season: 21
 episode: 7
 guests:
 - micheallanham
-image: images/podcast/s21e07-lessons-from-two-decades-of-ai.jpg
+image: images/podcast/from-game-ai-to-modern-ai-agents.jpg
 ids:
   anchor: datatalksclub/episodes/Lessons-from-Two-Decades-of-AI---Micheal-Lanham-e38oarc
   youtube: DSxqUlumM3A

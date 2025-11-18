@@ -5,7 +5,7 @@ season: 11
 episode: 5
 guests:
 - andreyshtylenko
-image: images/podcast/s11e05-building-data-science-practice.jpg
+image: images/podcast/building-and-scaling-data-science-practice-industrial-ai-mlops.jpg
 ids:
   anchor: Building-Data-Science-Practice---Andrey-Shtylenko-e1q2ka6
   youtube: XbDQv8FTA4U

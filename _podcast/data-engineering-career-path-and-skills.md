@@ -5,7 +5,7 @@ season: 8
 episode: 8
 guests:
 - jeffkatz
-image: images/podcast/s08e08-teaching-data-engineers.jpg
+image: images/podcast/data-engineering-career-path-and-skills.jpg
 ids:
   anchor: Teaching-Data-Engineers---Jeff-Katz-e1iaoru
   youtube: dFo10l8B6Go

@@ -5,7 +5,7 @@ season: 6
 episode: 1
 guests:
 - noahgift
-image: images/podcast/s06e01-solopreneur.jpg
+image: images/podcast/solopreneur-developer-and-data-professional.jpg
 ids:
   youtube: gCLUY37HGtw
   anchor: Becoming-a-Solopreneur-in-Data---Noah-Gift-e19gqbr

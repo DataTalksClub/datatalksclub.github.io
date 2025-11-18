@@ -5,7 +5,7 @@ season: 3
 episode: 1
 guests:
 - ksenialegostay
-image: images/podcast/s03e01-from-pm-to-ds.jpg
+image: images/podcast/project-manager-to-data-scientist.jpg
 ids:
   youtube: rBKezdb9jEc
   anchor: Transitioning-from-Project-Management-to-Data-Science---Ksenia-Legostay-euig2a

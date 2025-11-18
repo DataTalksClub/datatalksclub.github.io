@@ -5,7 +5,7 @@ season: 10
 episode: 6
 guests:
 - zhamakdehghani
-image: images/podcast/s10e06-data-mesh-101.jpg
+image: images/podcast/data-mesh-architecture-decentralized-data-products.jpg
 ids:
   anchor: Data-Mesh-101---Zhamak-Dehghani-e1n7vlk
   youtube: 346N_pCtYZU

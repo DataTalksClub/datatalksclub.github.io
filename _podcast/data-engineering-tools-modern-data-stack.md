@@ -5,7 +5,7 @@ season: 5
 episode: 2
 guests:
 - nataliekwong
-image: images/podcast/s05e02-data-engineering-acronyms.jpg
+image: images/podcast/data-engineering-tools-modern-data-stack.jpg
 ids:
   youtube: t9Z1S3OYnJU
   anchor: Making-Sense-of-Data-Engineering-Acronyms-and-Buzzwords---Natalie-Kwong-e177303

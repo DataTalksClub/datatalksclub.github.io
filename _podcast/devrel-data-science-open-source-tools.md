@@ -5,7 +5,7 @@ season: 2
 episode: 2
 guests:
 - elleobrien
-image: images/podcast/s02e02-developer-advocacy.jpg
+image: images/podcast/devrel-data-science-open-source-tools.jpg
 ids:
   youtube: jv5W4jXk4P4
   anchor: Developer-Advocacy-for-Data-Science---Elle-OBrien-epcbak

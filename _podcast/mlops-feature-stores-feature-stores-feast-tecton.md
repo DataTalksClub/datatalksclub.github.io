@@ -5,7 +5,7 @@ season: 2
 episode: 5
 guests:
 - willempienaar
-image: images/podcast/s02e05-feature-stores.jpg
+image: images/podcast/mlops-feature-stores-feature-stores-feast-tecton.jpg
 ids:
   youtube: FQYTb4uWljQ
   anchor: Feature-Stores-Cutting-through-the-Hype---Willem-Pienaar-ept6m8/a-a4hlg3r

@@ -5,7 +5,7 @@ season: 1
 episode: 1
 guests:
 - alexeygrigorev
-image: images/podcast/s01e01-roles.jpg
+image: images/podcast/data-team-roles.jpg
 ids:
   youtube: UukjwSIAnpw
   anchor: Roles-in-a-data-team---Alexey-Grigorev-emqcft

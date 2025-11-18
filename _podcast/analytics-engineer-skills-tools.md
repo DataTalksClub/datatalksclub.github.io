@@ -5,7 +5,7 @@ season: 3
 episode: 11
 guests:
 - victoriaperezmola
-image: images/podcast/s03e11-analytics-engineer.jpg
+image: images/podcast/analytics-engineer-skills-tools.jpg
 ids:
   youtube: C5UcxBwdCEg
   anchor: Analytics-Engineer-New-Role-in-a-Data-Team---Victoria-Perez-Mola-e131e3n

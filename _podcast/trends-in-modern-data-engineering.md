@@ -5,7 +5,7 @@ season: 20
 episode: 3
 guests:
 - adrianbrudaru
-image: images/podcast/s20e03-trends-in-data-engineering.jpg
+image: images/podcast/trends-in-modern-data-engineering.jpg
 ids:
   anchor: datatalksclub/episodes/Trends-in-Data-Engineering--Adrian-Brudaru-e2ui9ae
   youtube: AlCFKbFIEM8

@@ -5,7 +5,7 @@ season: 7
 episode: 5
 guests:
 - valeriybabushkin
-image: images/podcast/s07e05-machine-learning-system-design-interview.jpg
+image: images/podcast/machine-learning-system-design-interview.jpg
 ids:
   anchor: Machine-Learning-System-Design-Interview---Valerii-Babushkin-e1ej65e
   youtube: 0RsmRjar66E

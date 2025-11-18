@@ -5,7 +5,7 @@ season: 12
 episode: 1
 guests:
 - sadatanwar
-image: images/podcast/s12e01-from-software-engineer-to-data-science-manager.jpg
+image: images/podcast/from-software-engineering-to-leading-data-science-teams.jpg
 ids:
   anchor: From-Software-Engineer-to-Data-Science-Manager---Sadat-Anwar-e1rqkdf
   youtube: xyTfqIWeKf8

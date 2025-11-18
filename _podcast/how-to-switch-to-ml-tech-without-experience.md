@@ -5,7 +5,7 @@ season: 8
 episode: 7
 guests:
 - jessicagreene
-image: images/podcast/s08e07-from-roasting-coffee-to-backend-development.jpg
+image: images/podcast/how-to-switch-to-ml-tech-without-experience.jpg
 ids:
   anchor: From-Roasting-Coffee-to-Backend-Development---Jessica-Greene-e1i1ten/a-a7s65oj
   youtube: BKqmNdxsBko

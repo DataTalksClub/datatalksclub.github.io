@@ -5,7 +5,7 @@ season: 11
 episode: 7
 guests:
 - nikolamaksimovic
-image: images/podcast/s11e07-from-digital-marketing-to-analytics-engineering.jpg
+image: images/podcast/from-marketing-to-analytics-engineering-sql-dbt-career-switch.jpg
 ids:
   anchor: From-Digital-Marketing-to-Analytics-Engineering---Nikola-Maksimovic-e1qr75s
   youtube: GawJ7mG5ElQ

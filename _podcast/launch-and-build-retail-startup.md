@@ -5,7 +5,7 @@ season: 4
 episode: 7
 guests:
 - carminepaolino
-image: images/podcast/s04e07-launching-a-startup.jpg
+image: images/podcast/launch-and-build-retail-startup.jpg
 ids:
   youtube: s-w8_GDgIlU
   anchor: Launching-a-Startup-From-Idea-to-First-Hire---Carmine-Paolino-e15sk4i

@@ -5,7 +5,7 @@ season: 1
 episode: 5
 guests:
 - rahuljain
-image: images/podcast/s01e05-mentoring.jpg
+image: images/podcast/mentoring-in-tech-how-to-find-and-become-a-mentor.md.jpg
 ids:
   youtube: LQvwTNQbPg4
   anchor: Mentoring---Rahul-Jain-eo7cmu

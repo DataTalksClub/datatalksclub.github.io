@@ -5,7 +5,7 @@ season: 6
 episode: 5
 guests:
 - elenitziritazacharatou
-image: images/podcast/s06e05-post-doctoral-research.jpg
+image: images/podcast/big-data-analytics-and-postdoc-research.jpg
 ids:
   youtube: 7jgmIQGMhGE
   anchor: Advancing-Big-Data-Analytics-Post-Doctoral-Research---Eleni-Tzirita-Zacharatou-e1b6f41

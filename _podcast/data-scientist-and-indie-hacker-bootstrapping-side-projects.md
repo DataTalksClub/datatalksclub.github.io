@@ -5,7 +5,7 @@ season: 12
 episode: 5
 guests:
 - paulineclavelloux
-image: images/podcast/s12e05-indie-hacking.jpg
+image: images/podcast/data-scientist-and-indie-hacker-bootstrapping-side-projects.jpg
 ids:
   anchor: Doing-Software-Engineering-in-Academia---Johanna-Bayer-e1snqcb
   youtube: KsV_SVXlTo8

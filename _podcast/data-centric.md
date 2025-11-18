@@ -5,7 +5,7 @@ season: 12
 episode: 3
 guests:
 - marysiawinkels
-image: images/podcast/s12e03-data-centric-ai.jpg
+image: images/podcast/data-centric.jpg
 ids:
   anchor: Data-Centric-AI---Marysia-Winkels-e1shctn
   youtube: t3HDdVWQzNM

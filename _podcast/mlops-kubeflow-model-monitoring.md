@@ -5,7 +5,7 @@ season: 2
 episode: 4
 guests:
 - theofilospapapanagiotou
-image: images/podcast/s02e04-mlops.jpg
+image: images/podcast/mlops-kubeflow-model-monitoring.jpg
 ids:
   youtube: -i0fVp0ntYA
   anchor: The-Rise-of-MLOps---Theofilos-Papapanagiotou-ept67o

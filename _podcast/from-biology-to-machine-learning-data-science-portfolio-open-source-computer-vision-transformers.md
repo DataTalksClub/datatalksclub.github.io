@@ -6,7 +6,7 @@ season: 19
 episode: 7
 guests:
 - isabellabicalho
-image: images/podcast/s19e07-career-advice-learning-and-featuring-women-in-ml-and-ai.jpg
+image: images/podcast/from-biology-to-machine-learning-data-science-portfolio-open-source-computer-vision-transformers.jpg
 ids:
   anchor: datatalksclub/episodes/Career-advice--learning--and-featuring-women-in-ML-and-AI---Isabella-Bicalho-e2s3ura
   youtube: GifY8Zn-pnU

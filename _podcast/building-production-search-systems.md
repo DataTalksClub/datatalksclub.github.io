@@ -5,7 +5,7 @@ season: 17
 episode: 9
 guests:
 - danielsvonava
-image: images/podcast/s17e09-building-production-search-systems.jpg
+image: images/podcast/building-production-search-systems.jpg
 ids:
   anchor: datatalksclub/episodes/Building-Production-Search-Systems---Daniel-Svonava-e2hccnh
   youtube: gEmSrknGKDE

@@ -5,7 +5,7 @@ season: 2
 episode: 9
 guests:
 - vinvashishta
-image: images/podcast/s02e09-roles-skills-monetizing-ml.jpg
+image: images/podcast/make-money-with-machine-learning-roles-skills.jpg
 ids:
   youtube: xCjzA_8S4kI
   anchor: New-Roles-and-Key-Skills-to-Monetize-Machine-Learning---Vin-Vashishta-escer6

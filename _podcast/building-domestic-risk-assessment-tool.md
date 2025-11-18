@@ -6,7 +6,7 @@ season: 18
 episode: 7
 guests:
 - sabinafirtala
-image: images/podcast/s18e07-building-domestic-risk-assessment-tool.jpg
+image: images/podcast/building-domestic-risk-assessment-tool.jpg
 ids:
   anchor: datatalksclub/episodes/Building-a-Domestic-Risk-Assessment-Tool---Sabina-Firtala-e2lr92i
   youtube: CpWlBAmD9ok

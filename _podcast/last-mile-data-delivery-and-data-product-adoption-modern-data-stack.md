@@ -5,7 +5,7 @@ season: 5
 episode: 8
 guests:
 - caitlinmoorman
-image: images/podcast/s05e08-the-last-mile-in-data.jpg
+image: images/podcast/last-mile-data-delivery-and-data-product-adoption-modern-data-stack.jpg
 ids:
   youtube: HfMpG2zpa2I
   anchor: Conquering-the-Last-Mile-in-Data---Caitlin-Moorman-e1958c1

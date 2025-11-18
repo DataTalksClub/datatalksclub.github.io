@@ -5,7 +5,7 @@ season: 19
 episode: 1
 guests:
 - rachellim
-image: images/podcast/s19e01-using-data-to-create-liveable-cities.jpg
+image: images/podcast/urban-data-science.jpg
 ids:
   anchor: datatalksclub/episodes/Using-Data-to-Create-Liveable-Cities---Rachel-Lim-e2qecup
   youtube: VXQIGHUWeL0

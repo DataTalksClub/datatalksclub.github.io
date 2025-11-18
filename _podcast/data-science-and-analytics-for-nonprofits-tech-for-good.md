@@ -5,7 +5,7 @@ season: 13
 episode: 2
 guests:
 - parvathykrishnan
-image: images/podcast/s13e02-analytics-for-better-world.jpg
+image: images/podcast/data-science-and-analytics-for-nonprofits-tech-for-good.jpg
 ids:
   anchor: Analytics-for-a-Better-World---Parvathy-Krishnan-e1vo27h
   youtube: b6x5zZ3C6sQ

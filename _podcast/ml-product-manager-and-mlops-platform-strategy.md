@@ -5,7 +5,7 @@ season: 6
 episode: 7
 guests:
 - geojolly
-image: images/podcast/s06e07-product-management-for-machine-learning.jpg
+image: images/podcast/ml-product-manager-and-mlops-platform-strategy.jpg
 ids:
   youtube: PjqjPvHliqg
   anchor: Product-Management-for-Machine-Learning---Geo-Jolly-e1brpvm

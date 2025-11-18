@@ -5,7 +5,7 @@ season: 15
 episode: 5
 guests:
 - josemaria
-image: images/podcast/s15e05-mastering-data-engineering-as-remote-worker.jpg
+image: images/podcast/remote-data-engineering-work-and-building-iot-platforms.jpg
 ids:
   anchor: datatalksclub/episodes/Mastering-Data-Engineering-as-a-Remote-Worker---Jos-Mara-Snchez-Salas-e28716c
   youtube: UX7UShEioKc

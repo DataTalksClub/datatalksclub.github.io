@@ -6,7 +6,7 @@ episode: 10
 guests:
 - jessiashdown
 - urigilad
-image: images/podcast/s03e10-data-governance.jpg
+image: images/podcast/cloud-data-governance.jpg
 ids:
   youtube: tJ3v8h7A7RY
   anchor: Data-Governance---Jessi-Ashdown--Uri-Gilad-e12jmoo

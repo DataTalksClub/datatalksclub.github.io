@@ -5,7 +5,7 @@ season: 10
 episode: 7
 guests:
 - christiannswart
-image: images/podcast/s10e07-dataset-creation-and-curation.jpg
+image: images/podcast/nlp-dataset-creation-annotation-tools-workflows.jpg
 ids:
   anchor: Dataset-Creation-and-Curation---Christiaan-Swart-e1nd1f6
   youtube: QggWydGrWoo

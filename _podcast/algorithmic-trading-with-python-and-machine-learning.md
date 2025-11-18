@@ -5,7 +5,7 @@ season: 17
 episode: 3
 guests:
 - ivanbrigida
-image: images/podcast/s17e03-stock-market-analysis-with-python-and-machine-learning.jpg
+image: images/podcast/algorithmic-trading-with-python-and-machine-learning.jpg
 ids:
   anchor: datatalksclub/episodes/Stock-Market-Analysis-with-Python-and-Machine-Learning---Ivan-Brigida-e2e6ph2
   youtube: NThHAEIazFk

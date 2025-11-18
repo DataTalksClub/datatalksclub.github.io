@@ -5,7 +5,7 @@ season: 10
 episode: 5
 guests:
 - mehdiouazza
-image: images/podcast/s10e05-growing-data-engineering-team-in-scale-up.jpg
+image: images/podcast/scaling-data-engineering-teams-self-service-platforms.jpg
 ids:
   anchor: Growing-Data-Engineering-Team-in-a-Scale-Up---Mehdi-OUAZZA-e1mq8et
   youtube: acJ6sVqKOUk

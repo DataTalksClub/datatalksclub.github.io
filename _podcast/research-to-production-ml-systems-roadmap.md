@@ -5,7 +5,7 @@ season: 5
 episode: 5
 guests:
 - mihaileric
-image: images/podcast/s05e05-researchers-vs-engineers.jpg
+image: images/podcast/research-to-production-ml-systems-roadmap.jpg
 ids:
   youtube: d9xVXqKq3sU
   anchor: What-Researchers-and-Engineers-Can-Learn-from-Each-Other---Mihail-Eric-e1854bj

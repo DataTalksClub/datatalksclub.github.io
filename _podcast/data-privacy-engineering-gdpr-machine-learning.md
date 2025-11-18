@@ -5,7 +5,7 @@ season: 14
 episode: 2
 guests:
 - katharinejarmul
-image: images/podcast/s14e02-practical-data-privacy.jpg
+image: images/podcast/data-privacy-engineering-gdpr-machine-learning.jpg
 ids:
   anchor: ow/datatalksclub/episodes/Practical-Data-Privacy---Katharine-Jarmul-e23u551
   youtube: gbjoFfrm4iw

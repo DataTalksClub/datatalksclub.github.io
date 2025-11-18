@@ -5,7 +5,7 @@ season: 6
 episode: 6
 guests:
 - cjjenkins
-image: images/podcast/s06e06-from-academia-to-industry.jpg
+image: images/podcast/postdoc-to-data-science-lead-career-transition.jpg
 ids:
   youtube: m4F651BpUFk
   anchor: Moving-from-Academia-to-Industry---CJ-Jenkins-e1bh84o

@@ -5,7 +5,7 @@ season: 21
 episode: 9
 guests:
 - abouzarabbaspour
-image: images/podcast/s21e09-from-theme-parks-to-tesla-building-data-products-that-work.jpg
+image: images/podcast/theme-park-crowd-modeling-to-tesla-full-stack-data-engineering.jpg
 ids:
   anchor: datatalksclub/episodes/From-Theme-Parks-to-Tesla-Building-Data-Products-That-Work-e395qme
   youtube: gXvVMvhfrIY

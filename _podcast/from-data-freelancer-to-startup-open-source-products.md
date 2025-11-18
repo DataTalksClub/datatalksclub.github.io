@@ -5,7 +5,7 @@ season: 17
 episode: 1
 guests:
 - adrianbrudaru
-image: images/podcast/s17e01-entrepreneurship-journey-from-freelancing-to-starting-company.jpg
+image: images/podcast/from-data-freelancer-to-startup-open-source-products.jpg
 ids:
   anchor: datatalksclub/episodes/The-Entrepreneurship-Journey-From-Freelancing-to-Starting-a-Company---Adrian-Brudaru-e2cut0k
   youtube: vOpEQiCsaLw

@@ -5,7 +5,7 @@ season: 8
 episode: 2
 guests:
 - marijnmarkus
-image: images/podcast/s08e02-hacking-your-data-career.jpg
+image: images/podcast/how-to-stand-out-in-data-science.jpg
 ids:
   anchor: Hacking-Your-Data-Career---Marijn-Markus-e1gijep
   youtube: RhSg8ill1So

@@ -5,7 +5,7 @@ season: 2
 episode: 10
 guests:
 - bentaylor
-image: images/podcast/s02e10-public-speaking.jpg
+image: images/podcast/public-speaking-for-data-scientists.jpg
 ids:
   youtube: wOFvlR9UBxI
   anchor: The-Essentials-of-Public-Speaking-for-Career-in-Data-Science---Ben-Taylor-et0m4p

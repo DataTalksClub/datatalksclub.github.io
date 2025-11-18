@@ -5,7 +5,7 @@ season: 5
 episode: 1
 guests:
 - marcellolarocca
-image: images/podcast/s05e01-mastering-algorithms-and-data-structures.jpg
+image: images/podcast/algorithms-data-structures-for-engineers.jpg
 ids:
   youtube: RiQa-9LguW8
   anchor: Mastering-Algorithms-and-Data-Structures---Marcello-La-Rocca-e16s7lf

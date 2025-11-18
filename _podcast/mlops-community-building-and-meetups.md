@@ -5,7 +5,7 @@ season: 2
 episode: 12
 guests:
 - demetriosbrinkmann
-image: images/podcast/s02e12-communities.jpg
+image: images/podcast/mlops-community-building-and-meetups.jpg
 ids:
   youtube: ByCE1vSrIr8
   anchor: Building-Online-Tech-Communities---Demetrios-Brinkmann-eu35fo

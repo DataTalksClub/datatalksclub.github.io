@@ -5,7 +5,7 @@ season: 10
 episode: 9
 guests:
 - supreetkaur
-image: images/podcast/s10e09-responsible-and-explainable-ai.jpg
+image: images/podcast/responsible-explainable-ai-bias-detection.jpg
 ids:
   anchor: Responsible-and-Explainable-AI---Supreet-Kaur-e1o6mgj
   youtube: 8Eb5mG-pC3o

@@ -5,7 +5,7 @@ season: 4
 episode: 8
 guests:
 - mikiobraun
-image: images/podcast/s04e08-freelancing.jpg
+image: images/podcast/freelancing-in-machine-learning.jpg
 ids:
   youtube: HfF791e0HR8
   anchor: Freelancing-in-Machine-Learning---Mikio-Braun-e166n7r

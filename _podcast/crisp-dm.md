@@ -5,7 +5,7 @@ season: 1
 episode: 2
 guests:
 - alexeygrigorev
-image: images/podcast/s01e02-processes.jpg
+image: images/podcast/crisp-dm.jpg
 ids:
   youtube: SesVTDklFYQ
   anchor: Processes-in-a-Data-Science-Project---Alexey-Grigorev-encdlg

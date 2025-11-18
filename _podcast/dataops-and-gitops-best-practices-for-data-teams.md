@@ -5,7 +5,7 @@ season: 11
 episode: 3
 guests:
 - tomaszhinc
-image: images/podcast/s11e03-from-data-science-to-dataops.jpg
+image: images/podcast/dataops-and-gitops-best-practices-for-data-teams.jpg
 ids:
   anchor: From-Data-Science-to-DataOps---Tomasz-Hinc-e1p7sjb
   youtube: lem7knxqNzg

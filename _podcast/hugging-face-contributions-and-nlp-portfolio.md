@@ -5,7 +5,7 @@ season: 9
 episode: 6
 guests:
 - mervenoyan
-image: images/podcast/s09e06-developer-advocacy-engineer-for-open-source.jpg
+image: images/podcast/hugging-face-contributions-and-nlp-portfolio.jpg
 ids:
   anchor: Developer-Advocacy-Engineer-for-Open-Source---Merve-Noyan-e1kcm3u
   youtube: SnEYvF-Ztb8
