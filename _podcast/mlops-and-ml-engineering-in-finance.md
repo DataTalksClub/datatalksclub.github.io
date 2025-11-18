@@ -1288,14 +1288,14 @@ transcript:
   who: Nemanja
 context: 'Context: Nemanja’s story and the episode’s segments trace practical ML work
   in regulated finance—moving from research to ML engineering in legacy, governance-heavy
-  environments—covering real constraints (on‑prem infra, approvals), concrete ML Ops
+  environments—covering real constraints (on-prem infra, approvals), concrete ML Ops
   responsibilities (CI/CD, deployment, monitoring, model/data versioning), tactical
   shortcuts, team and platform patterns, and the skills and career moves that enable
   this work.
 
   Core: The unifying idea is that bringing ML into production in conservative, regulated
   organizations succeeds not through ideal tools or big rewrites but through a pragmatic,
-  engineering‑first, incremental approach—building minimal viable ML Ops (reproducible
+  engineering-first, incremental approach—building minimal viable ML Ops (reproducible
   pipelines, environments, monitoring, simple registries), integrating with existing
   DevOps/governance, reusing platform patterns, and focusing on practical skills and
   iterative delivery to earn trust and scale ML responsibly.'

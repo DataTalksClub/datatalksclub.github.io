@@ -1048,16 +1048,16 @@ transcript:
   who: Michael
 context: 'Context: The episode follows a two-decade arc from game-AI research and
   evolutionary/RL methods through industry product leadership to present work on LLM-driven
-  multi‑agent assistants—covering technical deep dives (prompt engineering, orchestration
+  multi-agent assistants—covering technical deep dives (prompt engineering, orchestration
   vs flow, sequential thinking servers, code generation, procedural content), tooling
   and deployment challenges (local models, model specialization, monitoring), and
   career/publishing lessons.
 
-  Core narrative: The unifying idea is that practical, production‑ready AI agents
-  are built by applying game‑AI engineering principles—minimal, modular task decomposition;
-  evolutionary and learning‑based search; and clear orchestration patterns—to modern
-  LLMs and multi‑agent systems, balancing creative capabilities with efficiency, tooling,
-  and real‑world deployability.'
+  Core narrative: The unifying idea is that practical, production-ready AI agents
+  are built by applying game-AI engineering principles—minimal, modular task decomposition;
+  evolutionary and learning-based search; and clear orchestration patterns—to modern
+  LLMs and multi-agent systems, balancing creative capabilities with efficiency, tooling,
+  and real-world deployability.'
 ---
 Links:
 

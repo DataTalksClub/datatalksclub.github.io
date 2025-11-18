@@ -138,7 +138,7 @@ quotableClips:
   startOffset: 3020
   url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=3020
   endOffset: 3099
-- name: 'Impact Case Studies: Public-data donors, e‑commerce and classifieds'
+- name: 'Impact Case Studies: Public-data donors, e-commerce and classifieds'
   startOffset: 3099
   url: https://www.youtube.com/watch?v=lpjffCOPxlY&t=3099
   endOffset: 3251
@@ -1092,7 +1092,7 @@ transcript:
   sec: 3098
   time: '51:38'
   who: Sonal
-- header: 'Impact Case Studies: Public-data donors, e‑commerce and classifieds'
+- header: 'Impact Case Studies: Public-data donors, e-commerce and classifieds'
 - line: Okay. Another interesting question is about some success stories of implementing
     identity resolution in products. Maybe I can start with fraud detection. We didn't
     use Zingg for that at OLX, but there is a nice article at OLX’s tech blog (tech.OLX.com)

@@ -16,7 +16,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/standing-out-as-a-data-scientist-luke-whipps/id1541710331?i=1000502844994
 
 description: Master data scientist resumes, portfolios & interviews—insider recruiter workflow, CV tips, portfolio impact, negotiation and outreach to land roles faster
-intro: How do you actually land a data scientist role — from a resume that passes screening to a portfolio that wins interviews and an offer that closes? In this episode Luke Whipps, co-founder of Neural.AI and host of the AI Game Changer podcast with 8+ years recruiting experience, walks through the recruiter workflow and practical steps data scientists can use to improve hiring outcomes. <br><br> We cover Luke’s six‑stage recruitment process (role definition to close), how to define data scientist roles across companies, and recruiter expectations for CV design, information hierarchy, and industry/use‑case alignment. Learn how to structure portfolios to link tech stack to concrete projects, craft a clear career narrative that demonstrates business impact, and prepare for interviews and negotiations. Junior candidates will get guidance on choosing an industry and showing purpose; academics learn how to productize research for industry. You’ll also hear tactical advice on tailored applications, LinkedIn outreach, candidate funnel sizes, salary signals, job‑title alignment, and acceptable tenure patterns. <br><br> Listen to gain actionable tips for resumes, portfolios, interviews, and working effectively with recruiters to increase your chances of landing a data scientist role
+intro: How do you actually land a data scientist role — from a resume that passes screening to a portfolio that wins interviews and an offer that closes? In this episode Luke Whipps, co-founder of Neural.AI and host of the AI Game Changer podcast with 8+ years recruiting experience, walks through the recruiter workflow and practical steps data scientists can use to improve hiring outcomes. <br><br> We cover Luke’s six-stage recruitment process (role definition to close), how to define data scientist roles across companies, and recruiter expectations for CV design, information hierarchy, and industry/use-case alignment. Learn how to structure portfolios to link tech stack to concrete projects, craft a clear career narrative that demonstrates business impact, and prepare for interviews and negotiations. Junior candidates will get guidance on choosing an industry and showing purpose; academics learn how to productize research for industry. You’ll also hear tactical advice on tailored applications, LinkedIn outreach, candidate funnel sizes, salary signals, job-title alignment, and acceptable tenure patterns. <br><br> Listen to gain actionable tips for resumes, portfolios, interviews, and working effectively with recruiters to increase your chances of landing a data scientist role
 topics:
 - data science
 - career growth
@@ -38,11 +38,11 @@ quotableClips:
   startOffset: 177
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=177
   endOffset: 223
-- name: 'Neural AI origin: founding principles and non‑transactional recruiting'
+- name: 'Neural AI origin: founding principles and non-transactional recruiting'
   startOffset: 223
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=223
   endOffset: 316
-- name: 'Community focus: podcasts, events and value‑driven talent work'
+- name: 'Community focus: podcasts, events and value-driven talent work'
   startOffset: 316
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=316
   endOffset: 422
@@ -50,7 +50,7 @@ quotableClips:
   startOffset: 422
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=422
   endOffset: 455
-- name: 'Recruitment workflow: six‑stage process from definition to close'
+- name: 'Recruitment workflow: six-stage process from definition to close'
   startOffset: 455
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=455
   endOffset: 495
@@ -70,7 +70,7 @@ quotableClips:
   startOffset: 847
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=847
   endOffset: 975
-- name: Industry and use‑case alignment on resumes for better matches
+- name: Industry and use-case alignment on resumes for better matches
   startOffset: 975
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=975
   endOffset: 1190
@@ -90,7 +90,7 @@ quotableClips:
   startOffset: 1639
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=1639
   endOffset: 1810
-- name: 'Job‑hopping: red flags, ideal tenure and acceptable exceptions'
+- name: 'Job-hopping: red flags, ideal tenure and acceptable exceptions'
   startOffset: 1810
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=1810
   endOffset: 1942
@@ -122,7 +122,7 @@ quotableClips:
   startOffset: 3142
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=3142
   endOffset: 3407
-- name: 'CV formats & length: country differences and the two‑page guideline'
+- name: 'CV formats & length: country differences and the two-page guideline'
   startOffset: 3407
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=3407
   endOffset: 3531
@@ -138,7 +138,7 @@ quotableClips:
   startOffset: 3727
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=3727
   endOffset: 4057
-- name: 'Episode summary: purpose‑driven candidates and standing out as a data scientist'
+- name: 'Episode summary: purpose-driven candidates and standing out as a data scientist'
   startOffset: 4057
   url: https://www.youtube.com/watch?v=Sb4CJlonB3c&t=4057
   endOffset: 4127
@@ -182,7 +182,7 @@ transcript:
   sec: 177
   time: '2:57'
   who: Luke
-- header: 'Neural AI origin: founding principles and non‑transactional recruiting'
+- header: 'Neural AI origin: founding principles and non-transactional recruiting'
 - line: Neural came around from a couple of different perspectives. One of those perspectives
     was… I was just about to turn 30. I had two choices that I could have made. I
     could either continue working for businesses that I have to become a part of and
@@ -206,7 +206,7 @@ transcript:
   sec: 256
   time: '4:16'
   who: Luke
-- header: 'Community focus: podcasts, events and value‑driven talent work'
+- header: 'Community focus: podcasts, events and value-driven talent work'
 - line: For me, as I say Neural was built on the back of wanting to create something
     different that is value and community driven, rather than just, “Hey, do you want
     to work on a new business?” So yeah, we started in early 2020. So probably not
@@ -249,7 +249,7 @@ transcript:
   sec: 422
   time: '7:02'
   who: Luke
-- header: 'Recruitment workflow: six‑stage process from definition to close'
+- header: 'Recruitment workflow: six-stage process from definition to close'
 - line: One of the big problems – or the big challenges of the work that we do is
     – that every single company is different. That in itself is a challenge, because
     you need to first understand the problems and the different challenges that those
@@ -396,7 +396,7 @@ transcript:
   sec: 940
   time: '15:40'
   who: Luke
-- header: Industry and use‑case alignment on resumes for better matches
+- header: Industry and use-case alignment on resumes for better matches
 - line: Number one is, I’ll instantly look for the crossover between the business
     and the role that they're applying for with the company that they're currently
     working in. The reason I say that is not because it's a name game, or… It's not
@@ -616,7 +616,7 @@ transcript:
   sec: 1803
   time: '30:03'
   who: Luke
-- header: 'Job‑hopping: red flags, ideal tenure and acceptable exceptions'
+- header: 'Job-hopping: red flags, ideal tenure and acceptable exceptions'
 - line: We have a question. How often is too often when changing jobs? What is currently
     the average time that the person stays in a job? What would be a red flag for
     you?
@@ -999,7 +999,7 @@ transcript:
   sec: 3371
   time: '56:11'
   who: Alexey
-- header: 'CV formats & length: country differences and the two‑page guideline'
+- header: 'CV formats & length: country differences and the two-page guideline'
 - line: I think the ideal length is two pages. I don't think you can get enough content
     on one page to make it sing. Three pages is borderline too much. But two pages
     is ideal. That's the balance between having enough deep content that will give
@@ -1146,7 +1146,7 @@ transcript:
   sec: 4037
   time: '1:07:17'
   who: Alexey
-- header: 'Episode summary: purpose‑driven candidates and standing out as a data scientist'
+- header: 'Episode summary: purpose-driven candidates and standing out as a data scientist'
 - line: I thought about this for a while. One thing that really makes candidates stand
     out to me — it's understanding their purpose, and doubling down on that. Once
     you do that, everything else becomes easy. If you don't have that, and you're

@@ -51,7 +51,7 @@ quotableClips:
   startOffset: 385
   url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=385
   endOffset: 500
-- name: 'Wabi‑sabi applied to data: accepting imperfection and communicating it'
+- name: 'Wabi-sabi applied to data: accepting imperfection and communicating it'
   startOffset: 500
   url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=500
   endOffset: 588
@@ -63,7 +63,7 @@ quotableClips:
   startOffset: 707
   url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=707
   endOffset: 849
-- name: 'Data quality metaphor: Lego bricks and pragmatic trade‑offs'
+- name: 'Data quality metaphor: Lego bricks and pragmatic trade-offs'
   startOffset: 849
   url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=849
   endOffset: 1052
@@ -91,7 +91,7 @@ quotableClips:
   startOffset: 1756
   url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=1756
   endOffset: 1847
-- name: Dashboard traffic‑light system for data reliability (green/yellow/red)
+- name: Dashboard traffic-light system for data reliability (green/yellow/red)
   startOffset: 1847
   url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=1847
   endOffset: 1998
@@ -131,7 +131,7 @@ quotableClips:
   startOffset: 3551
   url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=3551
   endOffset: 3623
-- name: 'Executive ad‑hoc requests: elicit intent and quantify expected impact'
+- name: 'Executive ad-hoc requests: elicit intent and quantify expected impact'
   startOffset: 3623
   url: https://www.youtube.com/watch?v=B76J4QkZPWs&t=3623
   endOffset: 3753
@@ -298,7 +298,7 @@ transcript:
   sec: 494
   time: '8:14'
   who: Alexey
-- header: 'Wabi‑sabi applied to data: accepting imperfection and communicating it'
+- header: 'Wabi-sabi applied to data: accepting imperfection and communicating it'
 - line: Wabi Sabi Your Data which is basically a Japanese concept about accepting
     the imperfections, the perfect imperfections basically and this is basically what
     I think about data. This is a lot of my philosophy about how to handle data. It's
@@ -432,7 +432,7 @@ transcript:
   sec: 811
   time: '13:31'
   who: Alexey
-- header: 'Data quality metaphor: Lego bricks and pragmatic trade‑offs'
+- header: 'Data quality metaphor: Lego bricks and pragmatic trade-offs'
 - line: Correct and you know I always explain it and I say also data is like Lego
     bricks. We can connect and we can build a lot of buildings inside it.
   sec: 849
@@ -803,7 +803,7 @@ transcript:
   sec: 1810
   time: '30:10'
   who: Lior
-- header: Dashboard traffic‑light system for data reliability (green/yellow/red)
+- header: Dashboard traffic-light system for data reliability (green/yellow/red)
 - line: 'Second, for the CEO, we can add a traffic light indicator on the dashboard:
     green, yellow, red.'
   sec: 1847
@@ -1290,7 +1290,7 @@ transcript:
   sec: 3599
   time: '59:59'
   who: Lior
-- header: 'Executive ad‑hoc requests: elicit intent and quantify expected impact'
+- header: 'Executive ad-hoc requests: elicit intent and quantify expected impact'
 - line: 'Thanks. Another question: how do you handle ad hoc requests from executives?'
   sec: 3623
   time: '1:00:23'
@@ -1402,13 +1402,13 @@ transcript:
   time: '1:06:05'
   who: Alexey
 context: 'Context: The episode examines a practical approach to data work—moving from
-  engineering to product thinking, accepting imperfect data (wabi‑sabi), diagnosing
+  engineering to product thinking, accepting imperfect data (wabi-sabi), diagnosing
   trust failures, prioritizing maintenance/rollout/innovation, using simple reliability
   signals and feedback loops, and aligning team time and processes to measurable business
   impact—especially as generative AI raises readiness demands and legacy systems require
   pragmatic replacement.
 
-  Core: Adopt a mindful, impact‑first data strategy that accepts and communicates
+  Core: Adopt a mindful, impact-first data strategy that accepts and communicates
   inevitable imperfection, prioritizes process and measurable business outcomes over
   perfect tooling, and restores trust through clear signals, closed feedback loops,
   and disciplined allocation of maintenance, rollout, and innovation effort so data

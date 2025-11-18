@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=CB1YIsxQRtc
 
 description: Discover MLOps strategies to build an ML platform with experiment tracking, improved reproducibility, faster releases and compliance-ready model operations
-intro: How do you design an ML platform that reliably deploys models, tracks experiments, and meets regulatory constraints? In this episode, Simon Stiebellehner — Lead MLOps Engineer at Transaction Monitoring Netherlands and university lecturer in Data Mining & Data Warehousing — walks through practical MLOps platform design grounded in real-world deployment challenges. <br><br> We cover a clear definition of MLOps as people, processes, and technology, and dig into core platform skills (cloud infrastructure, Kubernetes, Terraform), user‑centric design for notebooks and data science workflows, and software engineering fundamentals for production ML. Simon explains experiment tracking, model registry practices, deployment patterns (batch vs online), orchestration choices like Airflow, and stitching SaaS and open‑source tools into a coherent ML platform. The episode also addresses compliance and data governance — GDPR, fintech security constraints — plus metadata, lineage, API design, and monitoring. We close with build vs buy trade‑offs, staffing and on‑call considerations, and how emerging LLM needs affect platforms. <br><br> Listen to learn concrete guidance on model deployment, reproducibility, orchestration, and compliance to help you design a pragmatic, scalable ML platform
+intro: How do you design an ML platform that reliably deploys models, tracks experiments, and meets regulatory constraints? In this episode, Simon Stiebellehner — Lead MLOps Engineer at Transaction Monitoring Netherlands and university lecturer in Data Mining & Data Warehousing — walks through practical MLOps platform design grounded in real-world deployment challenges. <br><br> We cover a clear definition of MLOps as people, processes, and technology, and dig into core platform skills (cloud infrastructure, Kubernetes, Terraform), user-centric design for notebooks and data science workflows, and software engineering fundamentals for production ML. Simon explains experiment tracking, model registry practices, deployment patterns (batch vs online), orchestration choices like Airflow, and stitching SaaS and open-source tools into a coherent ML platform. The episode also addresses compliance and data governance — GDPR, fintech security constraints — plus metadata, lineage, API design, and monitoring. We close with build vs buy trade-offs, staffing and on-call considerations, and how emerging LLM needs affect platforms. <br><br> Listen to learn concrete guidance on model deployment, reproducibility, orchestration, and compliance to help you design a pragmatic, scalable ML platform
 topics:
 - MLOps
 - machine learning
@@ -59,7 +59,7 @@ quotableClips:
   startOffset: 830
   url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=830
   endOffset: 934
-- name: 'Team Size & On‑Call: Staffing and operational considerations'
+- name: 'Team Size & On-Call: Staffing and operational considerations'
   startOffset: 934
   url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=934
   endOffset: 1012
@@ -79,11 +79,11 @@ quotableClips:
   startOffset: 1263
   url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=1263
   endOffset: 1700
-- name: 'Self‑Service Compute: Notebooks, BigQuery, Databricks provisioning'
+- name: 'Self-Service Compute: Notebooks, BigQuery, Databricks provisioning'
   startOffset: 1700
   url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=1700
   endOffset: 1781
-- name: 'Experiment Tracking: Low‑hanging fruit for reproducibility and collaboration'
+- name: 'Experiment Tracking: Low-hanging fruit for reproducibility and collaboration'
   startOffset: 1781
   url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=1781
   endOffset: 1832
@@ -144,7 +144,7 @@ quotableClips:
   startOffset: 3452
   url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=3452
   endOffset: 3579
-- name: Episode Wrap‑Up and Closing Remarks
+- name: Episode Wrap-Up and Closing Remarks
   startOffset: 3579
   url: https://www.youtube.com/watch?v=CB1YIsxQRtc&t=3579
   endOffset: 3522
@@ -448,7 +448,7 @@ transcript:
   sec: 902
   time: '15:02'
   who: Simon
-- header: 'Team Size & On‑Call: Staffing and operational considerations'
+- header: 'Team Size & On-Call: Staffing and operational considerations'
 - line: How many people should there be? At least two?
   sec: 934
   time: '15:34'
@@ -664,7 +664,7 @@ transcript:
   sec: 1679
   time: '27:59'
   who: Alexey
-- header: 'Self‑Service Compute: Notebooks, BigQuery, Databricks provisioning'
+- header: 'Self-Service Compute: Notebooks, BigQuery, Databricks provisioning'
 - line: It could be, let's say, GCP of BigQuery and then you have some Colab notebook
     and you authenticate to BigQuery, write your SQL query, and the notebook pulls
     in your data. That would be an exploratory setup. Of course, you want to have
@@ -698,7 +698,7 @@ transcript:
   sec: 1774
   time: '29:34'
   who: Simon
-- header: 'Experiment Tracking: Low‑hanging fruit for reproducibility and collaboration'
+- header: 'Experiment Tracking: Low-hanging fruit for reproducibility and collaboration'
 - line: Okay, so that's the data exploration part, where we pull the data, we explore,
     and we see what we can actually do with this data. The second step is, once we
     did the initial exploration, we train and evaluate models. Then you mentioned
@@ -1265,7 +1265,7 @@ transcript:
   sec: 3469
   time: '57:49'
   who: Simon
-- header: Episode Wrap‑Up and Closing Remarks
+- header: Episode Wrap-Up and Closing Remarks
 - line: Yeah, thank you, Simon. Thanks a lot, everyone, for joining us today. Thanks,
     Simon, for joining us today too, and sharing all your expertise. That's all we
     have for now. Enjoy the rest of your day and the rest of the week. See you soon.

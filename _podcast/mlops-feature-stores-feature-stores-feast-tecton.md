@@ -16,7 +16,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/feature-stores-cutting-through-the-hype-willem-pienaar/id1541710331?i=1000508782957
 
 description: Discover feature store use cases, real-time features with Feast & Tecton, build scalable MLOps to speed production, cut duplication and detect drift
-intro: How do you reliably build and serve real‑time features for production ML without rework, duplication, or training/serving skew? In this episode, Willem Pienaar — engineering lead at Tecton and creator of Feast — walks through what feature stores solve in MLOps and how they enable real‑time feature engineering. We define feature stores, compare feature creation vs retrieval (SQL, Python, APIs, on‑demand transforms), and illustrate a production real‑time fraud detection lookup. Willem separates hype from value, explains organizational challenges like team silos and speed to production, and outlines the platform role across materialization, serving, and validation. <br><br> You’ll get practical coverage of Feast (open‑source) and Tecton (enterprise), architecture components (transform engine, storage, serving, registry, monitoring), and when online tabular use cases require a feature store versus when it’s overkill. The episode also covers integrations (dbt, Kubeflow, Airflow), streaming vs batch (Flink, Spark), validation and monitoring (drift detection, Great Expectations, TFDV), backfilling strategies, ownership and governance, and getting started resources (feast.dev, Docker). Listen to learn when to adopt a feature store and concrete next steps for productionizing features in your MLOps stack
+intro: How do you reliably build and serve real-time features for production ML without rework, duplication, or training/serving skew? In this episode, Willem Pienaar — engineering lead at Tecton and creator of Feast — walks through what feature stores solve in MLOps and how they enable real-time feature engineering. We define feature stores, compare feature creation vs retrieval (SQL, Python, APIs, on-demand transforms), and illustrate a production real-time fraud detection lookup. Willem separates hype from value, explains organizational challenges like team silos and speed to production, and outlines the platform role across materialization, serving, and validation. <br><br> You’ll get practical coverage of Feast (open-source) and Tecton (enterprise), architecture components (transform engine, storage, serving, registry, monitoring), and when online tabular use cases require a feature store versus when it’s overkill. The episode also covers integrations (dbt, Kubeflow, Airflow), streaming vs batch (Flink, Spark), validation and monitoring (drift detection, Great Expectations, TFDV), backfilling strategies, ownership and governance, and getting started resources (feast.dev, Docker). Listen to learn when to adopt a feature store and concrete next steps for productionizing features in your MLOps stack
 topics:
 - machine learning
 - MLOps
@@ -42,11 +42,11 @@ quotableClips:
   startOffset: 660
   url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=660
   endOffset: 870
-- name: 'Feature Creation vs Retrieval: SQL, Python, APIs, and On‑Demand Transforms'
+- name: 'Feature Creation vs Retrieval: SQL, Python, APIs, and On-Demand Transforms'
   startOffset: 870
   url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=870
   endOffset: 990
-- name: 'Production Example: Real‑Time Fraud Detection Feature Lookup'
+- name: 'Production Example: Real-Time Fraud Detection Feature Lookup'
   startOffset: 990
   url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=990
   endOffset: 1110
@@ -66,7 +66,7 @@ quotableClips:
   startOffset: 1680
   url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=1680
   endOffset: 1890
-- name: 'Feast Overview: Open‑Source Feature Store Design and Use Cases'
+- name: 'Feast Overview: Open-Source Feature Store Design and Use Cases'
   startOffset: 1890
   url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=1890
   endOffset: 2040
@@ -86,7 +86,7 @@ quotableClips:
   startOffset: 2550
   url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=2550
   endOffset: 2700
-- name: 'Streaming vs Batch: Flink, Spark, and Real‑Time Feature Engineering'
+- name: 'Streaming vs Batch: Flink, Spark, and Real-Time Feature Engineering'
   startOffset: 2700
   url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=2700
   endOffset: 2850

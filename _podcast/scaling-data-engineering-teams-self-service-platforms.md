@@ -1,5 +1,5 @@
 ---
-title: 'Scale Data Engineering Teams: Build Self‑Service Data Platforms, Hire Senior Engineers & Use Kafka'
+title: 'Scale Data Engineering Teams: Build Self-Service Data Platforms, Hire Senior Engineers & Use Kafka'
 short: Growing Data Engineering Team in a Scale-Up
 season: 10
 episode: 5
@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=acJ6sVqKOUk
 
 description: 'Master scaling data engineering teams: build self-service data platforms, hire senior engineers, deploy Kafka best practices to boost velocity, onboarding.'
-intro: 'How do you scale data engineering teams during hypergrowth without sacrificing quality or developer velocity? In this episode, Mehdi OUAZZA — a data engineer and entrepreneur with 7+ years working on streaming and batch pipelines, data modeling, orchestration, infrastructure and analytics — walks through practical approaches to scale data engineering teams, build self‑service data platforms, hire senior engineers and adopt Kafka-based event streaming. <br><br> We cover what “scale‑up” looks like in practice (rapid hiring, product launches, US expansion), the data platform’s role in enabling self‑service onboarding and scalability, and a platform anatomy that includes Airflow, conventions, playbooks and best practices. Mehdi also digs into event streaming: Kafka, schema registries and data contracts, plus hiring-for-scale tactics — prioritizing senior experts and niche tech experience — and assessment strategies like reverse interviews. You’ll hear about balancing platform engineering and use‑case pipelines, cultivating culture shifts, creating junior learning paths, and growing toward senior roles through proactivity and cross‑team impact. <br><br> Listen for concrete guidance on building a self‑service data platform, practical Kafka practices, and hiring strategies that help teams move fast while staying reliable.'
+intro: 'How do you scale data engineering teams during hypergrowth without sacrificing quality or developer velocity? In this episode, Mehdi OUAZZA — a data engineer and entrepreneur with 7+ years working on streaming and batch pipelines, data modeling, orchestration, infrastructure and analytics — walks through practical approaches to scale data engineering teams, build self-service data platforms, hire senior engineers and adopt Kafka-based event streaming. <br><br> We cover what “scale-up” looks like in practice (rapid hiring, product launches, US expansion), the data platform’s role in enabling self-service onboarding and scalability, and a platform anatomy that includes Airflow, conventions, playbooks and best practices. Mehdi also digs into event streaming: Kafka, schema registries and data contracts, plus hiring-for-scale tactics — prioritizing senior experts and niche tech experience — and assessment strategies like reverse interviews. You’ll hear about balancing platform engineering and use-case pipelines, cultivating culture shifts, creating junior learning paths, and growing toward senior roles through proactivity and cross-team impact. <br><br> Listen for concrete guidance on building a self-service data platform, practical Kafka practices, and hiring strategies that help teams move fast while staying reliable.'
 dateadded: 2022-08-29
 
 duration: PT01H01M25S
@@ -26,11 +26,11 @@ quotableClips:
   startOffset: 117
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=117
   endOffset: 162
-- name: 'Guest background: BI, on‑prem Big Data to staff data engineer (career highlights)'
+- name: 'Guest background: BI, on-prem Big Data to staff data engineer (career highlights)'
   startOffset: 162
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=162
   endOffset: 341
-- name: 'Defining scale‑up: hypergrowth, funding, hiring surge, speed vs quality'
+- name: 'Defining scale-up: hypergrowth, funding, hiring surge, speed vs quality'
   startOffset: 341
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=341
   endOffset: 621
@@ -38,7 +38,7 @@ quotableClips:
   startOffset: 621
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=621
   endOffset: 750
-- name: 'Data platform role: enabling self‑service, onboarding, and scalability'
+- name: 'Data platform role: enabling self-service, onboarding, and scalability'
   startOffset: 750
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=750
   endOffset: 1042
@@ -62,7 +62,7 @@ quotableClips:
   startOffset: 1867
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=1867
   endOffset: 2105
-- name: 'Career trade‑offs: scale‑up vs enterprise vs FAANG'
+- name: 'Career trade-offs: scale-up vs enterprise vs FAANG'
   startOffset: 2105
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=2105
   endOffset: 2292
@@ -70,7 +70,7 @@ quotableClips:
   startOffset: 2292
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=2292
   endOffset: 2342
-- name: 'Junior opportunities: rapid learning, promotions, and exposure in scale‑ups'
+- name: 'Junior opportunities: rapid learning, promotions, and exposure in scale-ups'
   startOffset: 2342
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=2342
   endOffset: 2451
@@ -90,11 +90,11 @@ quotableClips:
   startOffset: 3017
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3017
   endOffset: 3175
-- name: 'Work balance: platform engineering vs use‑case pipelines (~50/50)'
+- name: 'Work balance: platform engineering vs use-case pipelines (~50/50)'
   startOffset: 3175
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3175
   endOffset: 3271
-- name: 'Path to senior: proactivity, broader impact, and cross‑team collaboration'
+- name: 'Path to senior: proactivity, broader impact, and cross-team collaboration'
   startOffset: 3271
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3271
   endOffset: 3394
@@ -110,7 +110,7 @@ quotableClips:
   startOffset: 3612
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3612
   endOffset: 3713
-- name: 'Video editing tips: multi‑take filming, lighting consistency, and tricks'
+- name: 'Video editing tips: multi-take filming, lighting consistency, and tricks'
   startOffset: 3713
   url: https://www.youtube.com/watch?v=acJ6sVqKOUk&t=3713
   endOffset: 3776
@@ -140,7 +140,7 @@ transcript:
   sec: 155
   time: '2:35'
   who: Alexey
-- header: 'Guest background: BI, on‑prem Big Data to staff data engineer (career highlights)'
+- header: 'Guest background: BI, on-prem Big Data to staff data engineer (career highlights)'
 - line: Yeah, sure. I started, as you mentioned, about eight years ago in the data
     world, doing classic BI with Microsoft tooling, and mostly click, and drag-and-drop
     tooling. And then I had quite quickly the opportunity to jump early on a Big Data
@@ -189,7 +189,7 @@ transcript:
   sec: 325
   time: '5:25'
   who: Mehdi
-- header: 'Defining scale‑up: hypergrowth, funding, hiring surge, speed vs quality'
+- header: 'Defining scale-up: hypergrowth, funding, hiring surge, speed vs quality'
 - line: '[laughs] So what does it mean to be a scale-up? I know what a startup is
     – a startup is a company that just started up. I also know more or less what an
     enterprise is – it’s a huge company with a lot of people working there. So what
@@ -307,7 +307,7 @@ transcript:
   sec: 709
   time: '11:49'
   who: Mehdi
-- header: 'Data platform role: enabling self‑service, onboarding, and scalability'
+- header: 'Data platform role: enabling self-service, onboarding, and scalability'
 - line: And what do data engineers do in a scale-up environment? How is this world
     different from your typical enterprise?
   sec: 750
@@ -674,7 +674,7 @@ transcript:
   sec: 2001
   time: '33:21'
   who: Mehdi
-- header: 'Career trade‑offs: scale‑up vs enterprise vs FAANG'
+- header: 'Career trade-offs: scale-up vs enterprise vs FAANG'
 - line: So what do you recommend to somebody that’s a senior and that person is considering
     multiple offers – and one of these offers is for a scale-up company. Let's say
     another offer is for an enterprise. Would you suggest that the person goes with
@@ -737,7 +737,7 @@ transcript:
   sec: 2295
   time: '38:15'
   who: Mehdi
-- header: 'Junior opportunities: rapid learning, promotions, and exposure in scale‑ups'
+- header: 'Junior opportunities: rapid learning, promotions, and exposure in scale-ups'
 - line: Would your answer be different for a junior specialist? Somebody who is just
     entering the field of data engineering and maybe has less than one year of experience?
     For them it may be just too boring to work nine to five?
@@ -944,7 +944,7 @@ transcript:
   sec: 3039
   time: '50:39'
   who: Mehdi
-- header: 'Work balance: platform engineering vs use‑case pipelines (~50/50)'
+- header: 'Work balance: platform engineering vs use-case pipelines (~50/50)'
 - line: At the beginning, you also mentioned that there are different kinds of data
     engineers. One type of data engineers are those that work on platforms, and the
     other kind works more on use cases. The question that we have here is, “What is
@@ -971,7 +971,7 @@ transcript:
   sec: 3269
   time: '54:29'
   who: Mehdi
-- header: 'Path to senior: proactivity, broader impact, and cross‑team collaboration'
+- header: 'Path to senior: proactivity, broader impact, and cross-team collaboration'
 - line: What would you say is the most important attribute for a data engineer who
     wants to get promoted from a mid-level role to a senior role?
   sec: 3271
@@ -1152,7 +1152,7 @@ transcript:
   sec: 3710
   time: '1:01:50'
   who: Mehdi
-- header: 'Video editing tips: multi‑take filming, lighting consistency, and tricks'
+- header: 'Video editing tips: multi-take filming, lighting consistency, and tricks'
 - line: How did you do this? You filmed three different things and then you kind of
     stitched it through a program?
   sec: 3713

@@ -16,7 +16,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/leading-nlp-teams-ivan-bilan/id1541710331?i=1000546053682
 
 description: Learn practical NLP teams hiring, production pipelines and MLOps tradeoffs—GPT-3 & spaCy tactics to deploy, monitor and scale reliable LLM systems
-intro: How do you structure an NLP team and build reliable production pipelines while weighing the tradeoffs between GPT‑3 and in‑house models? In this episode, Ivan Bilan, Engineering Manager at Personio working on Identity and Access Management, walks through practical answers from his transition from linguistics to production NLP and MLOps. <br><br> We cover hiring and team models (centralized vs cross‑disciplinary), what to look for in NLP engineers (tokenization, linguistics, deployment skills), and when to bring in linguists or conversational designers. Ivan breaks down the anatomy of an NLP production pipeline—data annotation, task engineering, testing, deployment, observability—and contrasts using GPT‑3 with building in‑house pipelines and open‑source tools like spaCy and Hugging Face for MVPs. He discusses inference optimization, privacy and bias risks with large language models, benchmarking limits, and practical microservice patterns for data‑intensive apps. <br><br> Listen to learn actionable guidance on hiring NLP talent, designing MLOps workflows, choosing between LLMs and bespoke models, and the concrete tradeoffs you’ll face in production
+intro: How do you structure an NLP team and build reliable production pipelines while weighing the tradeoffs between GPT-3 and in-house models? In this episode, Ivan Bilan, Engineering Manager at Personio working on Identity and Access Management, walks through practical answers from his transition from linguistics to production NLP and MLOps. <br><br> We cover hiring and team models (centralized vs cross-disciplinary), what to look for in NLP engineers (tokenization, linguistics, deployment skills), and when to bring in linguists or conversational designers. Ivan breaks down the anatomy of an NLP production pipeline—data annotation, task engineering, testing, deployment, observability—and contrasts using GPT-3 with building in-house pipelines and open-source tools like spaCy and Hugging Face for MVPs. He discusses inference optimization, privacy and bias risks with large language models, benchmarking limits, and practical microservice patterns for data-intensive apps. <br><br> Listen to learn actionable guidance on hiring NLP talent, designing MLOps workflows, choosing between LLMs and bespoke models, and the concrete tradeoffs you’ll face in production
 topics:
 - NLP
 - machine learning
@@ -59,7 +59,7 @@ quotableClips:
   startOffset: 714
   url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=714
   endOffset: 847
-- name: 'Defining NLP Teams: Centralized vs Cross‑disciplinary Structures'
+- name: 'Defining NLP Teams: Centralized vs Cross-disciplinary Structures'
   startOffset: 847
   url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=847
   endOffset: 1005
@@ -79,7 +79,7 @@ quotableClips:
   startOffset: 1476
   url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=1476
   endOffset: 1579
-- name: 'Conversational Designers: Chatbot UX, Dialogue Flow & Non‑coding Roles'
+- name: 'Conversational Designers: Chatbot UX, Dialogue Flow & Non-coding Roles'
   startOffset: 1579
   url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=1579
   endOffset: 1718
@@ -100,15 +100,15 @@ quotableClips:
   startOffset: 2097
   url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=2097
   endOffset: 2335
-- name: 'Large Language Models & Prompting: GPT‑3 Capabilities and Simplification'
+- name: 'Large Language Models & Prompting: GPT-3 Capabilities and Simplification'
   startOffset: 2335
   url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=2335
   endOffset: 2585
-- name: 'GPT‑3 Limitations: Cost, Control, Bias & Privacy Risks'
+- name: 'GPT-3 Limitations: Cost, Control, Bias & Privacy Risks'
   startOffset: 2585
   url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=2585
   endOffset: 2770
-- name: 'GPT‑3 vs In‑house Pipelines: MVP Strategy, Control & Open‑Source Alternatives'
+- name: 'GPT-3 vs In-house Pipelines: MVP Strategy, Control & Open-Source Alternatives'
   startOffset: 2770
   url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=2770
   endOffset: 2919
@@ -116,7 +116,7 @@ quotableClips:
   startOffset: 2919
   url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=2919
   endOffset: 3177
-- name: 'AI Benchmarking: Human‑level Claims, Dataset Limits & Real‑world Gaps'
+- name: 'AI Benchmarking: Human-level Claims, Dataset Limits & Real-world Gaps'
   startOffset: 3177
   url: https://www.youtube.com/watch?v=RJEf6mzxh1w&t=3177
   endOffset: 3225
@@ -359,7 +359,7 @@ transcript:
   sec: 816
   time: '13:36'
   who: Alexey
-- header: 'Defining NLP Teams: Centralized vs Cross‑disciplinary Structures'
+- header: 'Defining NLP Teams: Centralized vs Cross-disciplinary Structures'
 - line: Yeah, good question. It's more of an industry question. Do we even have separate
     designation for NLP teams? I think maybe a few years ago, this wasn't the case.
     You would just have a data science team and everything data science is done there
@@ -574,7 +574,7 @@ transcript:
   sec: 1489
   time: '24:49'
   who: Alexey
-- header: 'Conversational Designers: Chatbot UX, Dialogue Flow & Non‑coding Roles'
+- header: 'Conversational Designers: Chatbot UX, Dialogue Flow & Non-coding Roles'
 - line: Yeah, for sure. There are some specific tasks that would really benefit from
     that. I think that in the last two years, there was a new role forming in the
     world of data science, called “conversational designer”. It's basically a person
@@ -776,7 +776,7 @@ transcript:
   sec: 2325
   time: '38:45'
   who: Alexey
-- header: 'Large Language Models & Prompting: GPT‑3 Capabilities and Simplification'
+- header: 'Large Language Models & Prompting: GPT-3 Capabilities and Simplification'
 - line: Yeah, GPT-3 is on a whole different level. You don't need to do anything,
     really. The idea of GPT-3 is that it’s a smart lookup table. It has seen, I think,
     like 10% of the whole internet. That's what the data set was used to train it.
@@ -868,7 +868,7 @@ transcript:
   sec: 2577
   time: '42:57'
   who: Alexey
-- header: 'GPT‑3 Limitations: Cost, Control, Bias & Privacy Risks'
+- header: 'GPT-3 Limitations: Cost, Control, Bias & Privacy Risks'
 - line: Yeah. I mean, I don't know. They are trying to open source it now or something.
     I don't know. But I think you still have to pay for tokens in order to be able
     to use it.
@@ -941,7 +941,7 @@ transcript:
   sec: 2750
   time: '45:50'
   who: Alexey
-- header: 'GPT‑3 vs In‑house Pipelines: MVP Strategy, Control & Open‑Source Alternatives'
+- header: 'GPT-3 vs In-house Pipelines: MVP Strategy, Control & Open-Source Alternatives'
 - line: I would say, yes, because GPT-3 still isn't able to solve everything. It is
     able to solve most of the tasks to a good extent. But the question is, “Can it
     actually solve everything you need for it to be used in production – for it to
@@ -1047,7 +1047,7 @@ transcript:
   sec: 3160
   time: '52:40'
   who: Alexey
-- header: 'AI Benchmarking: Human‑level Claims, Dataset Limits & Real‑world Gaps'
+- header: 'AI Benchmarking: Human-level Claims, Dataset Limits & Real-world Gaps'
 - line: Yeah, I don't think so. I don't think there is any problem we have fully solved.
     There are papers that state something like “AI models are as good as humans” or
     “better than humans”. But this is all evaluated on a very small subset of data.

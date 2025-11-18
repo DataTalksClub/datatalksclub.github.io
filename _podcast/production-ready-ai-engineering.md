@@ -1146,7 +1146,7 @@ context: 'Context: a practitioner’s tour through the end-to-end work of turnin
   and models into reliable, efficient products—from Java and data engineering foundations
   to AI fine-tuning, prompt craft, tooling choices, and developer workflows.
 
-  Core: the episode’s through-line is a data‑centric engineering mindset for trustworthy,
+  Core: the episode’s through-line is a data-centric engineering mindset for trustworthy,
   production-ready AI: rigorous testing and pipeline design to ensure data trust,
   deliberate choices about models and tools for cost and performance, prompt and token-efficiency
   techniques to make inference practical, and pragmatic engineering patterns (architecture,

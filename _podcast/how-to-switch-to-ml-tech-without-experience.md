@@ -75,7 +75,7 @@ quotableClips:
   startOffset: 1661
   url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=1661
   endOffset: 1932
-- name: 'System Skills: Terminal, Dual‑Boot Linux & Hands‑on Troubleshooting'
+- name: 'System Skills: Terminal, Dual-Boot Linux & Hands-on Troubleshooting'
   startOffset: 1932
   url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=1932
   endOffset: 2054
@@ -83,11 +83,11 @@ quotableClips:
   startOffset: 2054
   url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=2054
   endOffset: 2172
-- name: 'Open Source Hack Evenings: Mentorship with scikit‑learn & Gene.ai'
+- name: 'Open Source Hack Evenings: Mentorship with scikit-learn & Gene.ai'
   startOffset: 2172
   url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=2172
   endOffset: 2283
-- name: 'Hybrid Events & Outreach: Remote Reach vs. In‑Person Help'
+- name: 'Hybrid Events & Outreach: Remote Reach vs. In-Person Help'
   startOffset: 2283
   url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=2283
   endOffset: 2451
@@ -107,7 +107,7 @@ quotableClips:
   startOffset: 3032
   url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=3032
   endOffset: 3336
-- name: 'Ecosia Overview: Green Search Engine, Tree‑Planting Mission & Backend (Go)'
+- name: 'Ecosia Overview: Green Search Engine, Tree-Planting Mission & Backend (Go)'
   startOffset: 3336
   url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=3336
   endOffset: 3490
@@ -119,7 +119,7 @@ quotableClips:
   startOffset: 3593
   url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=3593
   endOffset: 3628
-- name: Episode Wrap‑Up and Closing Remarks
+- name: Episode Wrap-Up and Closing Remarks
   startOffset: 3628
   url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=3628
   endOffset: 3572
@@ -689,7 +689,7 @@ transcript:
   sec: 1929
   time: '32:09'
   who: Alexey
-- header: 'System Skills: Terminal, Dual‑Boot Linux & Hands‑on Troubleshooting'
+- header: 'System Skills: Terminal, Dual-Boot Linux & Hands-on Troubleshooting'
 - line: Yeah, I did some courses on this, for sure. I think the only thing with doing
     it in a browser-based tool is you're not actually on your machine. I remember
     during the Rails Girls Summer of Code, I wanted to dual-loop my machine into Linux,
@@ -769,7 +769,7 @@ transcript:
   sec: 2169
   time: '36:09'
   who: Alexey
-- header: 'Open Source Hack Evenings: Mentorship with scikit‑learn & Gene.ai'
+- header: 'Open Source Hack Evenings: Mentorship with scikit-learn & Gene.ai'
 - line: Yeah [chuckles]. Well, actually, we ran one in January and I think we had
     at least three folks from that event then go on to speak at PyCon.de, which is
     really awesome. Right now, we're trying to experiment a lot more with being much
@@ -802,7 +802,7 @@ transcript:
   sec: 2267
   time: '37:47'
   who: Alexey
-- header: 'Hybrid Events & Outreach: Remote Reach vs. In‑Person Help'
+- header: 'Hybrid Events & Outreach: Remote Reach vs. In-Person Help'
 - line: I mean, yeah, that's true. [cross-talk] It's interesting. I think there's
     different overhead with online. But what we would love to do is hybrid. We found
     being remote allowed us to reach more people, because we could also do collaborations
@@ -1126,7 +1126,7 @@ transcript:
   sec: 3329
   time: '55:29'
   who: Jessica
-- header: 'Ecosia Overview: Green Search Engine, Tree‑Planting Mission & Backend (Go)'
+- header: 'Ecosia Overview: Green Search Engine, Tree-Planting Mission & Backend (Go)'
 - line: I see that we don't have a lot of time left and I really wanted to talk to
     you about the company where you work – Ecosia. I hope I'm pronouncing it correctly.
     I know that you're doing some amazing stuff there. So can you tell us more about
@@ -1209,7 +1209,7 @@ transcript:
   sec: 3606
   time: '1:00:06'
   who: Jessica
-- header: Episode Wrap‑Up and Closing Remarks
+- header: Episode Wrap-Up and Closing Remarks
 - line: Okay, thanks. Thanks a lot for joining us today, for sharing your story, for
     telling us about how you did that. And thanks, everyone, for joining us today
     as well, for asking questions, for being here today. I think that's all for today.

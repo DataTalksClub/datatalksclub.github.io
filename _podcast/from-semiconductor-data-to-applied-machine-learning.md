@@ -1160,10 +1160,10 @@ transcript:
   sec: 4388
   time: '1:13:08'
   who: Dashel
-context: 'A single through-line: the episode is about a hands‑on, end‑to‑end journey
-  into applied machine learning — a multidisciplinary career pivot powered by self‑education
-  and cohort/community support that takes messy, high‑frequency industrial data through
-  pragmatic tool‑building, model development, explainability tradeoffs, and MLOps
+context: 'A single through-line: the episode is about a hands-on, end-to-end journey
+  into applied machine learning — a multidisciplinary career pivot powered by self-education
+  and cohort/community support that takes messy, high-frequency industrial data through
+  pragmatic tool-building, model development, explainability tradeoffs, and MLOps
   (APIs, containers, Terraform, ONNX) into real production impact, with a commitment
   to teaching and scaling that practice to others.'
 ---

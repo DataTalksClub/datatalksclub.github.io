@@ -106,7 +106,7 @@ quotableClips:
   startOffset: 3163
   url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3163
   endOffset: 3251
-- name: 'Support mechanisms: regular check-ins, rubber‑duck channels, async help'
+- name: 'Support mechanisms: regular check-ins, rubber-duck channels, async help'
   startOffset: 3251
   url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3251
   endOffset: 3380
@@ -1153,7 +1153,7 @@ transcript:
   sec: 3189
   time: '53:09'
   who: Katie
-- header: 'Support mechanisms: regular check-ins, rubber‑duck channels, async help'
+- header: 'Support mechanisms: regular check-ins, rubber-duck channels, async help'
 - line: One of the concerns I heard from juniors is that they are afraid of interrupting
     other people (seniors). The seniors are busy, “This is a very senior person, they
     have a lot of stuff to work on.” They don't feel that they should be interrupting

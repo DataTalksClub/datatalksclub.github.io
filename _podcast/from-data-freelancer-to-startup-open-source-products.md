@@ -16,19 +16,19 @@ links:
   youtube: https://www.youtube.com/watch?v=vOpEQiCsaLw
 description: 'Discover how to build an open-source data product for Python devs: bootstrap,
   ship DLT transforms, and drive bottom-up adoption to find PMF.'
-intro: How do you move from freelancing to building an open‑source data company that
-  wins via bottom‑up adoption? In this episode Adrian Brudaru — an economics graduate
+intro: How do you move from freelancing to building an open-source data company that
+  wins via bottom-up adoption? In this episode Adrian Brudaru — an economics graduate
   who pivoted to business analysis in Berlin, then spent years freelancing before
-  co‑founding a data startup — walks through that transition and the practical tradeoffs
+  co-founding a data startup — walks through that transition and the practical tradeoffs
   he encountered. <br><br> We cover lessons from freelancing and agency work, why
   they chose product over agency growth, and the recurring pain of stakeholder alignment
   versus technical setup. Adrian explains DLT — a declarative JSON→relational transformation
-  for data pipelines — and why the product targets Python users as a developer‑focused
+  for data pipelines — and why the product targets Python users as a developer-focused
   library. Hear how workshops, documentation, and live support doubled as product
   validation, how scrappy bootstrapping and consulting revenue funded early payroll,
-  and what signals indicate product–market fit for open‑source tooling. <br><br> If
-  you’re building open‑source data tools, developer tooling, or plotting a bottom‑up
-  go‑to‑market, this episode offers concrete tactics on iteration, docs-as-product,
+  and what signals indicate product–market fit for open-source tooling. <br><br> If
+  you’re building open-source data tools, developer tooling, or plotting a bottom-up
+  go-to-market, this episode offers concrete tactics on iteration, docs-as-product,
   ecosystem partnerships, and positioning against platforms like Airbyte/Fivetran
   — helping you prioritize engineering, adoption, and sustainable monetization.
 topics:
@@ -47,7 +47,7 @@ quotableClips:
   startOffset: 0
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=0
   endOffset: 113
-- name: 'Episode Overview: Building an Open‑Source Data Company'
+- name: 'Episode Overview: Building an Open-Source Data Company'
   startOffset: 113
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=113
   endOffset: 199
@@ -63,11 +63,11 @@ quotableClips:
   startOffset: 320
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=320
   endOffset: 438
-- name: 'Freelancing Lifestyle: Flexibility and Long‑Term Boredom'
+- name: 'Freelancing Lifestyle: Flexibility and Long-Term Boredom'
   startOffset: 438
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=438
   endOffset: 526
-- name: 'Subcontracting Growth: Agency‑like Management Tradeoffs'
+- name: 'Subcontracting Growth: Agency-like Management Tradeoffs'
   startOffset: 526
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=526
   endOffset: 651
@@ -87,7 +87,7 @@ quotableClips:
   startOffset: 976
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=976
   endOffset: 1071
-- name: 'Anti‑patterns: Dumping JSON into Data Warehouses'
+- name: 'Anti-patterns: Dumping JSON into Data Warehouses'
   startOffset: 1071
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=1071
   endOffset: 1178
@@ -99,7 +99,7 @@ quotableClips:
   startOffset: 1410
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=1410
   endOffset: 1523
-- name: 'Team Formation: Meeting Co‑founders Through Projects'
+- name: 'Team Formation: Meeting Co-founders Through Projects'
   startOffset: 1523
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=1523
   endOffset: 1659
@@ -123,7 +123,7 @@ quotableClips:
   startOffset: 2248
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=2248
   endOffset: 2450
-- name: 'Product Identity: DLT as a Developer‑Focused Library'
+- name: 'Product Identity: DLT as a Developer-Focused Library'
   startOffset: 2450
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=2450
   endOffset: 2483
@@ -135,7 +135,7 @@ quotableClips:
   startOffset: 2640
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=2640
   endOffset: 2876
-- name: 'Current Focus: Leading Go‑to‑Market and Bottom‑Up Strategy'
+- name: 'Current Focus: Leading Go-to-Market and Bottom-Up Strategy'
   startOffset: 2876
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=2876
   endOffset: 3053
@@ -143,7 +143,7 @@ quotableClips:
   startOffset: 3053
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=3053
   endOffset: 3310
-- name: 'Roadmap: Paid Complement to the Open‑Source Library'
+- name: 'Roadmap: Paid Complement to the Open-Source Library'
   startOffset: 3310
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=3310
   endOffset: 3430
@@ -151,7 +151,7 @@ quotableClips:
   startOffset: 3430
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=3430
   endOffset: 3491
-- name: 'Positioning vs Platforms: Library‑First vs Airbyte/Fivetran'
+- name: 'Positioning vs Platforms: Library-First vs Airbyte/Fivetran'
   startOffset: 3491
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=3491
   endOffset: 3641
@@ -159,13 +159,13 @@ quotableClips:
   startOffset: 3641
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=3641
   endOffset: 3656
-- name: Episode Wrap‑Up and Next Steps
+- name: Episode Wrap-Up and Next Steps
   startOffset: 3656
   url: https://www.youtube.com/watch?v=vOpEQiCsaLw&t=3656
   endOffset: 3583
 transcript:
 - header: Podcast Introduction
-- header: 'Episode Overview: Building an Open‑Source Data Company'
+- header: 'Episode Overview: Building an Open-Source Data Company'
 - line: This week, we'll talk about building an open source data company, and not
     just building but… It's not the first time we have our guest, Adrian, on this
     podcast. Before, we spoke about being a data freelancer, so we'll talk about building
@@ -284,7 +284,7 @@ transcript:
   sec: 361
   time: '6:01'
   who: Alexey
-- header: 'Freelancing Lifestyle: Flexibility and Long‑Term Boredom'
+- header: 'Freelancing Lifestyle: Flexibility and Long-Term Boredom'
 - line: Exactly. The customer typically already wants to know how much they're roughly
     going to pay for what they get. They don't actually care about your hourly rate,
     generally. They care about the final outcome and what it costs them.
@@ -314,7 +314,7 @@ transcript:
   sec: 521
   time: '8:41'
   who: Alexey
-- header: 'Subcontracting Growth: Agency‑like Management Tradeoffs'
+- header: 'Subcontracting Growth: Agency-like Management Tradeoffs'
 - line: Go fishing on a Wednesday, for example. You can decide every day what you're
     doing more or less. Of course, you need to be civilized and do it within the boundaries
     of other people working with you. But you do have a lot of autonomy and freedom.
@@ -462,7 +462,7 @@ transcript:
   sec: 976
   time: '16:16'
   who: Adrian
-- header: 'Anti‑patterns: Dumping JSON into Data Warehouses'
+- header: 'Anti-patterns: Dumping JSON into Data Warehouses'
 - line: From what I heard from you… I know a bit about the product (the tool) you’re
     working on. What I heard is –when you have a data warehouse, you don't just have
     it for the sake of having it, you need to put some data in it. Then you have a
@@ -603,7 +603,7 @@ transcript:
   sec: 1509
   time: '25:09'
   who: Alexey
-- header: 'Team Formation: Meeting Co‑founders Through Projects'
+- header: 'Team Formation: Meeting Co-founders Through Projects'
 - line: So it's a classic story – we met at work. On my last project, the guy that
     hired me had been working for this company for six years. He had previously founded
     some companies. And basically, I ended up working with him to build this Growth
@@ -903,7 +903,7 @@ transcript:
   sec: 2448
   time: '40:48'
   who: Alexey
-- header: 'Product Identity: DLT as a Developer‑Focused Library'
+- header: 'Product Identity: DLT as a Developer-Focused Library'
 - line: Yes. It's pretty simple. It's called Data Load Tool (DLT for short). I often
     like to tell people, “Don't think of it as a data loading tool, think of it as
     a pipeline building tool.” And the reason for this is because it's a developer
@@ -1062,7 +1062,7 @@ transcript:
   sec: 2871
   time: '47:51'
   who: Alexey
-- header: 'Current Focus: Leading Go‑to‑Market and Bottom‑Up Strategy'
+- header: 'Current Focus: Leading Go-to-Market and Bottom-Up Strategy'
 - line: Exactly. Basically, what this means is that you need to figure out what needs
     to happen next – figure out some kind of way to do it – and then try to get help
     to do more of it in a better way, if that pays off, kind of. So I'm doing a lot
@@ -1185,7 +1185,7 @@ transcript:
   sec: 3302
   time: '55:02'
   who: Alexey
-- header: 'Roadmap: Paid Complement to the Open‑Source Library'
+- header: 'Roadmap: Paid Complement to the Open-Source Library'
 - line: Yes, it's very hard to raise money for just research, right? Basically, we
     have got a product market fit with our library. Now we're working towards a paid
     solution. That paid solution would be something complimentary. It wouldn't limit
@@ -1244,7 +1244,7 @@ transcript:
   sec: 3485
   time: '58:05'
   who: Alexey
-- header: 'Positioning vs Platforms: Library‑First vs Airbyte/Fivetran'
+- header: 'Positioning vs Platforms: Library-First vs Airbyte/Fivetran'
 - line: We don't really want to go… Airbyte is a platform. We’ll never be a platform
     in that way. Even if we do offer some kind of orchestration, that is not our selling
     point. We don't want to be another Fivetran. Airbyte, currently, is kind of trying
@@ -1290,7 +1290,7 @@ transcript:
   sec: 3643
   time: '1:00:43'
   who: Adrian
-- header: Episode Wrap‑Up and Next Steps
+- header: Episode Wrap-Up and Next Steps
 - line: Okay. That's all we have time for today. We are a bit… We took three more
     minutes than we should have. Thanks a lot for joining us today and sharing your
     experience. I'm really curious. I think the last time we had an interview was
@@ -1309,11 +1309,11 @@ transcript:
   sec: 3696
   time: '1:01:36'
   who: Alexey
-context: Turning hands‑on consulting and hard‑won data engineering experience into
-  a library‑first, open‑source company that solves a concrete pain—declarative JSON→relational
+context: Turning hands-on consulting and hard-won data engineering experience into
+  a library-first, open-source company that solves a concrete pain—declarative JSON→relational
   transformations for Python users—by validating through workshops and docs, iterating
-  with real user feedback, and scaling via bottom‑up adoption, ecosystem integrations,
-  and paid complementary offerings rather than agency growth or platform lock‑in.
+  with real user feedback, and scaling via bottom-up adoption, ecosystem integrations,
+  and paid complementary offerings rather than agency growth or platform lock-in.
 ---
 Links:
 

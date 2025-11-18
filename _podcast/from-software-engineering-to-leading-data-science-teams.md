@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=xyTfqIWeKf8
 
 description: 'Learn to transition into a Data Science Manager: master search engineering, machine learning and leadership to hire, scale teams and measure business impact.'
-intro: How do you move from hands-on software engineering into leading data science teams while staying effective on search and machine learning projects? In this episode Sadat Anwar — a people‑centric Data Science Manager and former software engineer fluent in Java, Scala and Python — maps his path from an electronics and informatics background to research in computer vision at Fraunhofer and production search work at OLX. <br><br> We cover practical search engineering topics (Solr autoscaling, decoupling search from a monolith, Kotlin services with Python ML satellites), early ML projects and experimentation strategies (master’s thesis on neural nets, 20% time wins, “act before you think”), and engineering safety nets like feature flags, backups and monitoring. Sadat also walks through the promotion/hiring process, documenting leadership evidence, people management challenges (conflict resolution, hiring, motivation loss when stepping away from code), and transitioning into data science management with NLP, trust & safety and fraud detection responsibilities. <br><br> Listen for concrete advice on measuring managerial impact, leveraging EM experience to lead data science teams, and tactical steps for engineers aiming to become data science managers in search and ML domains
+intro: How do you move from hands-on software engineering into leading data science teams while staying effective on search and machine learning projects? In this episode Sadat Anwar — a people-centric Data Science Manager and former software engineer fluent in Java, Scala and Python — maps his path from an electronics and informatics background to research in computer vision at Fraunhofer and production search work at OLX. <br><br> We cover practical search engineering topics (Solr autoscaling, decoupling search from a monolith, Kotlin services with Python ML satellites), early ML projects and experimentation strategies (master’s thesis on neural nets, 20% time wins, “act before you think”), and engineering safety nets like feature flags, backups and monitoring. Sadat also walks through the promotion/hiring process, documenting leadership evidence, people management challenges (conflict resolution, hiring, motivation loss when stepping away from code), and transitioning into data science management with NLP, trust & safety and fraud detection responsibilities. <br><br> Listen for concrete advice on measuring managerial impact, leveraging EM experience to lead data science teams, and tactical steps for engineers aiming to become data science managers in search and ML domains
 topics:
 - career transition
 - software engineering
@@ -97,7 +97,7 @@ quotableClips:
   startOffset: 2026
   url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=2026
   endOffset: 2176
-- name: 'Transition Pain Points: Dopamine Loss, Dropping Hands‑On Coding, and Withdrawal'
+- name: 'Transition Pain Points: Dopamine Loss, Dropping Hands-On Coding, and Withdrawal'
   startOffset: 2176
   url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=2176
   endOffset: 2448
@@ -941,7 +941,7 @@ transcript:
   sec: 2174
   time: '36:14'
   who: Alexey
-- header: 'Transition Pain Points: Dopamine Loss, Dropping Hands‑On Coding, and Withdrawal'
+- header: 'Transition Pain Points: Dopamine Loss, Dropping Hands-On Coding, and Withdrawal'
 - line: When you’re coding, right. You create a merge request – bam, that's dopamine.
     You get an approval – another shot of dopamine. You hit the merge button – dopamine.
     Deploy – dopamine. A/B test started – dopamine. There’s dopamine throughout the

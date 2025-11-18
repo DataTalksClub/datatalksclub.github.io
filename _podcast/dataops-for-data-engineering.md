@@ -22,12 +22,12 @@ intro: How do you transform fragile data pipelines and unreliable ML deployments
   CEO of DataKitchen and co-author of the DataOps Cookbook and DataOps Manifesto,
   walks through practical DataOps for data engineering—drawing on 25+ years across
   research, software engineering, and analytics. <br><br> We trace his career from
-  pre‑cloud SQL Server scaling challenges to early DevOps lessons, then dig into what
+  pre-cloud SQL Server scaling challenges to early DevOps lessons, then dig into what
   DataOps means for teams facing burnout, deployment fear, and inconsistent processes.
   Key topics include automation, observability, CI/CD pipelines, regression tests
-  and test data for analytics, model reliability and on‑call readiness, end‑to‑end
+  and test data for analytics, model reliability and on-call readiness, end-to-end
   deployment automation, data versioning, and the differences between containers and
-  serverless. The episode also clarifies MLOps and LLM buzzwords, explores day‑one/day‑two/day‑three
+  serverless. The episode also clarifies MLOps and LLM buzzwords, explores day-one/day-two/day-three
   operational lifecycle practices, and outlines concrete steps to reduce rework and
   cycle time. <br><br> If you’re a data engineer, data scientist, or engineering leader
   looking to improve analytics delivery, this conversation offers actionable guidance
@@ -76,7 +76,7 @@ quotableClips:
   startOffset: 1436
   url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=1436
   endOffset: 1573
-- name: Model Reliability and On‑call Readiness for Data Science
+- name: Model Reliability and On-call Readiness for Data Science
   startOffset: 1573
   url: https://www.youtube.com/watch?v=HzGpIxV8HtA&t=1573
   endOffset: 1855
@@ -314,7 +314,7 @@ transcript:
   sec: 1464
   time: '24:24'
   who: Christopher
-- header: Model Reliability and On‑call Readiness for Data Science
+- header: Model Reliability and On-call Readiness for Data Science
 - line: Let's take a data scientist as an example. They pull data, do some transformations,
     and build a model. Day one is about getting that initial version ready. What happens
     on day two?
@@ -475,8 +475,8 @@ context: 'DataOps is the episode’s unifying idea: treating data and ML work as
   production-ready products by applying software best practices—automation, CI/CD,
   testing and test data, immutable versioning, and observability—plus cultural change
   and leadership to remove fear, reduce rework and burnout, and shorten cycle time.
-  The through-line argues that operationalizing the full lifecycle (day‑one provisioning
-  through day‑two reliability and day‑three evolution) turns pockets of heroic, ad‑hoc
+  The through-line argues that operationalizing the full lifecycle (day-one provisioning
+  through day-two reliability and day-three evolution) turns pockets of heroic, ad-hoc
   data work into consistent, reliable delivery that enables safe, scalable use of
   AI and analytics.'
 ---

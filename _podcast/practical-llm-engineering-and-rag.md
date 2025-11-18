@@ -17,7 +17,7 @@ links:
 description: 'Discover LLM engineering and RAG best practices: practical prompting,
   evaluation methods and deployment workflows to boost accuracy and retrieval.'
 intro: How do you move from experimentation to reliable, production-ready LLM engineering
-  and retrieval-augmented generation (RAG)? In this episode Hugo Bowne‑Anderson —
+  and retrieval-augmented generation (RAG)? In this episode Hugo Bowne-Anderson —
   Head of Developer Relations at Outerbounds, longtime data scientist, educator, and
   host of Vanishing Gradients — walks through practical patterns for building, evaluating,
   and scaling real-world LLM workflows. <br><br> We cover everyday LLM use cases (summaries,
@@ -27,7 +27,7 @@ intro: How do you move from experimentation to reliable, production-ready LLM en
   quality control, how to design evaluation sets and failure analysis, and concrete
   chunking strategies (fixed length, sliding windows, context rotation) that unlock
   RAG performance. He also discusses when to add tooling or agentic capabilities,
-  a four‑step framework for agents, memory design tradeoffs, and a practical email
+  a four-step framework for agents, memory design tradeoffs, and a practical email
   assistant example using the Gmail API plus RAG. <br><br> Listen to learn actionable
   guidance on prioritizing RAG for quick business wins, building debuggable MVPs with
   logging and traces, and setting up evaluation and monitoring so your LLMs deliver
@@ -36,7 +36,7 @@ dateadded: 2025-10-27
 date: 2025-11-07
 duration: PT01H01M30S
 quotableClips:
-- name: Podcast Kickoff & Hugo Bowne‑Anderson Background
+- name: Podcast Kickoff & Hugo Bowne-Anderson Background
   startOffset: 0
   url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=0
   endOffset: 72
@@ -56,7 +56,7 @@ quotableClips:
   startOffset: 237
   url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=237
   endOffset: 431
-- name: 'Consulting vs Advisory: Hands‑On Coding and Organizational Advice'
+- name: 'Consulting vs Advisory: Hands-On Coding and Organizational Advice'
   startOffset: 431
   url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=431
   endOffset: 504
@@ -124,15 +124,15 @@ quotableClips:
   startOffset: 3214
   url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=3214
   endOffset: 3381
-- name: 'Four‑Step Framework for Agents: Problem, Start Small, Data, Evaluation'
+- name: 'Four-Step Framework for Agents: Problem, Start Small, Data, Evaluation'
   startOffset: 3381
   url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=3381
   endOffset: 3461
-- name: 'Memory Design: Retrieval‑Based Memory vs Multi‑Turn Conversation Memory'
+- name: 'Memory Design: Retrieval-Based Memory vs Multi-Turn Conversation Memory'
   startOffset: 3461
   url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=3461
   endOffset: 3655
-- name: 'Episode Wrap‑Up: Key Takeaways, Courses, and Next Steps'
+- name: 'Episode Wrap-Up: Key Takeaways, Courses, and Next Steps'
   startOffset: 3655
   url: https://www.youtube.com/watch?v=eC3RNuI6ow0&t=3655
   endOffset: 3690
@@ -1235,13 +1235,13 @@ transcript:
   sec: 3690
   time: '1:01:30'
   who: Alexey
-context: 'Context: This episode surveys practical, hands‑on patterns—RAG, chunking,
+context: 'Context: This episode surveys practical, hands-on patterns—RAG, chunking,
   prompting, generator–evaluator workflows, transcript pipelines, evaluation sets,
   monitoring, agents, memory design, and developer tooling—drawn from moving models
   from prototypes into real products across consulting, DevRel, and engineering roles.
 
-  Core: The unifying idea is pragmatic, iterative engineering of LLM‑powered systems:
-  prioritize retrieval‑first solutions that deliver immediate business value, instrument
+  Core: The unifying idea is pragmatic, iterative engineering of LLM-powered systems:
+  prioritize retrieval-first solutions that deliver immediate business value, instrument
   rigorous evaluation and monitoring (gold tests, failure analysis, generator–evaluator),
   automate pipelines and reproducible workflows, and only escalate to agentic tooling
   or persistent memory once data, metrics, and clear ROI justify the added complexity—treating

@@ -124,7 +124,7 @@ quotableClips:
   startOffset: 2983
   url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=2983
   endOffset: 3165
-- name: 'Non‑Technical Transitions: Feasibility of moving into ML product roles'
+- name: 'Non-Technical Transitions: Feasibility of moving into ML product roles'
   startOffset: 3165
   url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=3165
   endOffset: 3344
@@ -1020,7 +1020,7 @@ transcript:
   sec: 3150
   time: '52:30'
   who: Alexey
-- header: 'Non‑Technical Transitions: Feasibility of moving into ML product roles'
+- header: 'Non-Technical Transitions: Feasibility of moving into ML product roles'
 - line: It's easier for them to become a traditional software engineering PMs, I would
     say. Because in this role, you go into writing specifications, understanding the
     requirements, etc.. If they have some understanding of machine learning philosophy,

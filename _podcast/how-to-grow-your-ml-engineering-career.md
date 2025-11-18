@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=cUxZBXQgZaU
 
 description: Discover career transitions into ML, prompt engineering and LLMs—practical debugging tips, transferable skills, hiring insights, and real platform lessons
-intro: How do you move from web and game development into building machine learning platforms and working with LLMs—and what practical skills carry over? In this episode Krzysztof Szafanek, a seasoned engineer with 17 years across pharma, geo services, gaming and online retail, and currently an ML Platform engineer and internal consultant at Zalando, answers that question through concrete examples and career lessons. <br><br> We trace Krzysztof’s path from HTML5, Objective‑C, Swift and Unity to Python, ML platform work (the zflow library and pipeline architecture), and hands‑on experiments with diffusion models, ChatGPT and Modal Labs. Key topics include career transitions between stacks and roles, platform consulting—training, onboarding and user support—prompt engineering tips, debugging strategies (rubber ducking, divide‑and‑conquer), and a real Postgres optimization troubleshooting case. He also discusses transferable skills like SQL, Git and shell, T‑shaped expertise, hiring dynamics, and how to get unstuck with ChatGPT and problem decomposition. <br><br> Listen to gain practical guidance on ML platforms, prompt engineering, debugging techniques, and career strategy for transitioning into ML and LLM work—plus actionable resources and prioritization tactics you can apply immediately
+intro: How do you move from web and game development into building machine learning platforms and working with LLMs—and what practical skills carry over? In this episode Krzysztof Szafanek, a seasoned engineer with 17 years across pharma, geo services, gaming and online retail, and currently an ML Platform engineer and internal consultant at Zalando, answers that question through concrete examples and career lessons. <br><br> We trace Krzysztof’s path from HTML5, Objective-C, Swift and Unity to Python, ML platform work (the zflow library and pipeline architecture), and hands-on experiments with diffusion models, ChatGPT and Modal Labs. Key topics include career transitions between stacks and roles, platform consulting—training, onboarding and user support—prompt engineering tips, debugging strategies (rubber ducking, divide-and-conquer), and a real Postgres optimization troubleshooting case. He also discusses transferable skills like SQL, Git and shell, T-shaped expertise, hiring dynamics, and how to get unstuck with ChatGPT and problem decomposition. <br><br> Listen to gain practical guidance on ML platforms, prompt engineering, debugging techniques, and career strategy for transitioning into ML and LLM work—plus actionable resources and prioritization tactics you can apply immediately
 topics:
 - machine learning
 - career transitions
@@ -36,7 +36,7 @@ quotableClips:
   startOffset: 132
   url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=132
   endOffset: 384
-- name: 'Mobile & Game Development: HTML5, Objective‑C, Swift, and Unity'
+- name: 'Mobile & Game Development: HTML5, Objective-C, Swift, and Unity'
   startOffset: 384
   url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=384
   endOffset: 425
@@ -56,7 +56,7 @@ quotableClips:
   startOffset: 959
   url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=959
   endOffset: 1068
-- name: 'From Engineer to Consultant: Reduced Hands‑on Coding'
+- name: 'From Engineer to Consultant: Reduced Hands-on Coding'
   startOffset: 1068
   url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=1068
   endOffset: 1106
@@ -84,11 +84,11 @@ quotableClips:
   startOffset: 2014
   url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=2014
   endOffset: 2123
-- name: 'T‑Shaped Expertise: Depth, Breadth, and Career Strategy'
+- name: 'T-Shaped Expertise: Depth, Breadth, and Career Strategy'
   startOffset: 2123
   url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=2123
   endOffset: 2257
-- name: 'Debugging as a Strength: Rubber Duck, Divide‑and‑Conquer, and Mentoring'
+- name: 'Debugging as a Strength: Rubber Duck, Divide-and-Conquer, and Mentoring'
   startOffset: 2257
   url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=2257
   endOffset: 2692
@@ -108,7 +108,7 @@ quotableClips:
   startOffset: 3263
   url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=3263
   endOffset: 3382
-- name: 'Prioritization Techniques: To‑Do Lists, Deadlines, and Focus'
+- name: 'Prioritization Techniques: To-Do Lists, Deadlines, and Focus'
   startOffset: 3382
   url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=3382
   endOffset: 3491
@@ -116,7 +116,7 @@ quotableClips:
   startOffset: 3491
   url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=3491
   endOffset: 3632
-- name: Episode Wrap‑up and Key Takeaways
+- name: Episode Wrap-up and Key Takeaways
   startOffset: 3632
   url: https://www.youtube.com/watch?v=cUxZBXQgZaU&t=3632
   endOffset: 3582
@@ -272,7 +272,7 @@ transcript:
   sec: 374
   time: '6:14'
   who: Alexey
-- header: 'Mobile & Game Development: HTML5, Objective‑C, Swift, and Unity'
+- header: 'Mobile & Game Development: HTML5, Objective-C, Swift, and Unity'
 - line: I didn't use anything myself. When I was there, it was a very exciting time
     because Wooga was trying different technology. We started with HTML5, which was
     a big thing at the time, around 2012. We built and shipped again, but we decided
@@ -500,7 +500,7 @@ transcript:
   sec: 1057
   time: '17:37'
   who: Alexey
-- header: 'From Engineer to Consultant: Reduced Hands‑on Coding'
+- header: 'From Engineer to Consultant: Reduced Hands-on Coding'
 - line: Not so much, I must say. I think this is a bit of a disadvantage that I don't
     code, especially when it comes to more complex problems – I can't solve them anymore
     as a consultant, compared to my previous role as a software engineer. I still
@@ -854,7 +854,7 @@ transcript:
   sec: 2114
   time: '35:14'
   who: Alexey
-- header: 'T‑Shaped Expertise: Depth, Breadth, and Career Strategy'
+- header: 'T-Shaped Expertise: Depth, Breadth, and Career Strategy'
 - line: I was also thinking about how it affects recruiting and finding a job. Very
     often I saw that companies look for experts. Sometimes it could be a bit scary,
     like you see a job ad and you see, “We want five years of experience with large
@@ -895,7 +895,7 @@ transcript:
   sec: 2252
   time: '37:32'
   who: Alexey
-- header: 'Debugging as a Strength: Rubber Duck, Divide‑and‑Conquer, and Mentoring'
+- header: 'Debugging as a Strength: Rubber Duck, Divide-and-Conquer, and Mentoring'
 - line: I’m not sure which letter it would be, Maybe an M. For example, I got pretty
     good at using Git. Very often, I help my colleagues to resolve problems with history,
     with rebasing, and things like that. I really also like Shell scripting and learning
@@ -1227,7 +1227,7 @@ transcript:
   sec: 3375
   time: '56:15'
   who: Alexey
-- header: 'Prioritization Techniques: To‑Do Lists, Deadlines, and Focus'
+- header: 'Prioritization Techniques: To-Do Lists, Deadlines, and Focus'
 - line: What I do is – I'm a huge fan of to-do lists. If you just write down everything
     that is on your mind – just try to capture it. And then you can prioritize. Then
     you can also just drop some things off the list.
@@ -1314,7 +1314,7 @@ transcript:
   sec: 3624
   time: '1:00:24'
   who: Alexey
-- header: Episode Wrap‑up and Key Takeaways
+- header: Episode Wrap-up and Key Takeaways
 - line: Sure.
   sec: 3691
   time: '1:01:31'

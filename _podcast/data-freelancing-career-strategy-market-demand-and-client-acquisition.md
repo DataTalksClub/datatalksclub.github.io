@@ -682,9 +682,9 @@ context: 'Context: Through Dimitri’s journey and practical segments on job dat
 
   Core narrative: The unifying idea is that a sustainable, scalable freelance data
   career is built by starting with market demand—validate financial targets, specialize
-  around high‑impact problems, productize repeatable analytics offerings, leverage
+  around high-impact problems, productize repeatable analytics offerings, leverage
   productivity tools (including AI) to deliver efficiently, and adopt deliberate pricing
-  and client‑retention models (projects, subscriptions, or agency paths) so you can
+  and client-retention models (projects, subscriptions, or agency paths) so you can
   reliably land clients, capture value, and grow on your own terms.'
 ---
 Links:

@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=8Eb5mG-pC3o
 
 description: Discover Responsible AI & Explainable AI tactics for bias detection, fairness checks and governance, practical tools to build trustworthy, compliant ML models
-intro: How do you detect bias, enforce fairness, and govern AI systems in production without sacrificing business outcomes? In this episode, Supreet Kaur — AVP on Morgan Stanley’s Data Strategy and Products team, founder of DataBuzz, and mentor at Columbia and Rutgers — walks through a practical roadmap for responsible AI and explainable AI grounded in real-world examples. <br><br> We define responsible AI and contrast it with post‑hoc explainability, then unpack a credit decision bias case to show disparate outcomes in practice. Supreet outlines glass‑box explainability techniques, data‑level fairness checks (skewness, missingness, coverage), and EDA methods for bias detection. She covers PII handling, feature necessity assessments with SMEs and compliance, and automating data quality and monitoring. You’ll hear tool recommendations — What‑If, Skater, AI Explainability 360, LIME, SHAP — plus approaches to local interpretability, drift and feedback‑loop detection, and trade‑offs between accuracy and interpretability. <br><br> Listeners will gain actionable guidance on bias detection, model interpretability, AI governance structures, and managing AutoML and regulated‑industry risks — practical steps to make AI systems more fair, transparent, and accountable
+intro: How do you detect bias, enforce fairness, and govern AI systems in production without sacrificing business outcomes? In this episode, Supreet Kaur — AVP on Morgan Stanley’s Data Strategy and Products team, founder of DataBuzz, and mentor at Columbia and Rutgers — walks through a practical roadmap for responsible AI and explainable AI grounded in real-world examples. <br><br> We define responsible AI and contrast it with post-hoc explainability, then unpack a credit decision bias case to show disparate outcomes in practice. Supreet outlines glass-box explainability techniques, data-level fairness checks (skewness, missingness, coverage), and EDA methods for bias detection. She covers PII handling, feature necessity assessments with SMEs and compliance, and automating data quality and monitoring. You’ll hear tool recommendations — What-If, Skater, AI Explainability 360, LIME, SHAP — plus approaches to local interpretability, drift and feedback-loop detection, and trade-offs between accuracy and interpretability. <br><br> Listeners will gain actionable guidance on bias detection, model interpretability, AI governance structures, and managing AutoML and regulated-industry risks — practical steps to make AI systems more fair, transparent, and accountable
 topics:
 - responsible AI
 - explainable AI
@@ -49,15 +49,15 @@ quotableClips:
   startOffset: 402
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=402
   endOffset: 500
-- name: 'Explainable vs Responsible AI: Post‑mortem Tools vs Governance Mindset'
+- name: 'Explainable vs Responsible AI: Post-mortem Tools vs Governance Mindset'
   startOffset: 500
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=500
   endOffset: 630
-- name: 'Glass‑Box Approach: Explainable AI Techniques Overview'
+- name: 'Glass-Box Approach: Explainable AI Techniques Overview'
   startOffset: 630
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=630
   endOffset: 696
-- name: 'Data‑Level Fairness Checks: Skewness, Missingness, and Coverage'
+- name: 'Data-Level Fairness Checks: Skewness, Missingness, and Coverage'
   startOffset: 696
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=696
   endOffset: 768
@@ -65,7 +65,7 @@ quotableClips:
   startOffset: 768
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=768
   endOffset: 879
-- name: 'PII Handling: Age, Gender, Masking, and Use‑case Justification'
+- name: 'PII Handling: Age, Gender, Masking, and Use-case Justification'
   startOffset: 879
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=879
   endOffset: 1040
@@ -77,7 +77,7 @@ quotableClips:
   startOffset: 1107
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1107
   endOffset: 1143
-- name: 'Model Explainability Tools: What‑If, Skater, and AI Explainability 360'
+- name: 'Model Explainability Tools: What-If, Skater, and AI Explainability 360'
   startOffset: 1143
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1143
   endOffset: 1404
@@ -89,15 +89,15 @@ quotableClips:
   startOffset: 1462
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1462
   endOffset: 1658
-- name: 'Cross‑Functional Governance: SMEs, Compliance, and Leadership Roles'
+- name: 'Cross-Functional Governance: SMEs, Compliance, and Leadership Roles'
   startOffset: 1658
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1658
   endOffset: 1949
-- name: 'Accuracy vs Interpretability: Managing Model Complexity Trade‑offs'
+- name: 'Accuracy vs Interpretability: Managing Model Complexity Trade-offs'
   startOffset: 1949
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=1949
   endOffset: 2128
-- name: 'Human‑in‑the‑Loop: Limits of Automation and Responsible Oversight'
+- name: 'Human-in-the-Loop: Limits of Automation and Responsible Oversight'
   startOffset: 2128
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=2128
   endOffset: 2251
@@ -129,7 +129,7 @@ quotableClips:
   startOffset: 3404
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3404
   endOffset: 3567
-- name: 'Closing Remarks: Follow‑up, Links, and Contact Information'
+- name: 'Closing Remarks: Follow-up, Links, and Contact Information'
   startOffset: 3567
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3567
   endOffset: 3536
@@ -270,7 +270,7 @@ transcript:
   sec: 426
   time: '7:06'
   who: Supreet
-- header: 'Explainable vs Responsible AI: Post‑mortem Tools vs Governance Mindset'
+- header: 'Explainable vs Responsible AI: Post-mortem Tools vs Governance Mindset'
 - line: What is the relationship between responsible AI and explainable AI? From what
     I hear now – if we want to feel confident in the predictions, we need to be able
     to explain them. Does this mean that responsible AI is explainable AI? Or what's
@@ -306,7 +306,7 @@ transcript:
   sec: 629
   time: '10:29'
   who: Supreet
-- header: 'Glass‑Box Approach: Explainable AI Techniques Overview'
+- header: 'Glass-Box Approach: Explainable AI Techniques Overview'
 - line: You mentioned tools and you mentioned a framework. So how do we do this?
   sec: 630
   time: '10:30'
@@ -329,7 +329,7 @@ transcript:
   sec: 681
   time: '11:21'
   who: Alexey
-- header: 'Data‑Level Fairness Checks: Skewness, Missingness, and Coverage'
+- header: 'Data-Level Fairness Checks: Skewness, Missingness, and Coverage'
 - line: '[laughs] Yeah. I will start with the data level. First, when we talk about
     the data level, we talk about fairness and bias testing. There, you have a few
     data quality checks that I feel every data scientist does. They do some sort of
@@ -379,7 +379,7 @@ transcript:
   sec: 796
   time: '13:16'
   who: Supreet
-- header: 'PII Handling: Age, Gender, Masking, and Use‑case Justification'
+- header: 'PII Handling: Age, Gender, Masking, and Use-case Justification'
 - line: So basically you need to, as a human – as an analyst or as a data scientist
     – you need to get your dataset from your database, CSV file, whatever, and just
     spend enough time trying to understand what's happening there. Right? Should we
@@ -473,7 +473,7 @@ transcript:
   sec: 1117
   time: '18:37'
   who: Supreet
-- header: 'Model Explainability Tools: What‑If, Skater, and AI Explainability 360'
+- header: 'Model Explainability Tools: What-If, Skater, and AI Explainability 360'
 - line: So what about this model part?
   sec: 1143
   time: '19:03'
@@ -642,7 +642,7 @@ transcript:
   sec: 1644
   time: '27:24'
   who: Supreet
-- header: 'Cross‑Functional Governance: SMEs, Compliance, and Leadership Roles'
+- header: 'Cross-Functional Governance: SMEs, Compliance, and Leadership Roles'
 - line: So what kind of people do we need to have in this room to be able to have
     these fruitful discussions? You said that we need, perhaps, data scientists, analysts,
     and people from compliance. Who else should we have?
@@ -741,7 +741,7 @@ transcript:
   sec: 1916
   time: '31:56'
   who: Supreet
-- header: 'Accuracy vs Interpretability: Managing Model Complexity Trade‑offs'
+- header: 'Accuracy vs Interpretability: Managing Model Complexity Trade-offs'
 - line: Actually, we have a question from Shivam that is exactly about that. The question
     is, “How to manage the trade-off between model complexity and explainability?
     Complex models do not necessarily have good explainability, so how do we manage
@@ -791,7 +791,7 @@ transcript:
   sec: 2066
   time: '34:26'
   who: Alexey
-- header: 'Human‑in‑the‑Loop: Limits of Automation and Responsible Oversight'
+- header: 'Human-in-the-Loop: Limits of Automation and Responsible Oversight'
 - line: There is a question from Raquel, “What does ‘you need a human touch’ mean?”
     I think this is related to our discussion, where the first step is always a human
     analyzing the data. Then the question goes on “Does this mean that responsible
@@ -1252,7 +1252,7 @@ transcript:
   sec: 3550
   time: '59:10'
   who: Supreet
-- header: 'Closing Remarks: Follow‑up, Links, and Contact Information'
+- header: 'Closing Remarks: Follow-up, Links, and Contact Information'
 - line: I think that the time is up. So thanks for joining us. Maybe before we wrap
     up, is there anything you want to mention that maybe you forgot?
   sec: 3567

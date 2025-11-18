@@ -124,7 +124,7 @@ quotableClips:
   startOffset: 3353
   url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=3353
   endOffset: 3497
-- name: 'E‑commerce Personalization: Prototyping with embeddings and CLIP'
+- name: 'E-commerce Personalization: Prototyping with embeddings and CLIP'
   startOffset: 3497
   url: https://www.youtube.com/watch?v=m45tNY-8gY8&t=3497
   endOffset: 3685
@@ -1037,7 +1037,7 @@ transcript:
   sec: 3494
   time: '58:14'
   who: Alexey
-- header: 'E‑commerce Personalization: Prototyping with embeddings and CLIP'
+- header: 'E-commerce Personalization: Prototyping with embeddings and CLIP'
 - line: Also, for any questions that remain unanswered, I think there'll be a link
     to my LinkedIn – people should connect to me and shoot those questions over. For
     e-commerce, I think there is a huge opportunity to do real-time personalization

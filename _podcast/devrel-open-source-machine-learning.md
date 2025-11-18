@@ -29,11 +29,11 @@ quotableClips:
   startOffset: 0
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=0
   endOffset: 93
-- name: 'Guest Introduction: Hugo Bowne‑Anderson, Outerbounds & Metaflow'
+- name: 'Guest Introduction: Hugo Bowne-Anderson, Outerbounds & Metaflow'
   startOffset: 93
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=93
   endOffset: 134
-- name: Metaflow Sandbox Demo & Full‑Stack Machine Learning Spotlight
+- name: Metaflow Sandbox Demo & Full-Stack Machine Learning Spotlight
   startOffset: 134
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=134
   endOffset: 216
@@ -41,11 +41,11 @@ quotableClips:
   startOffset: 216
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=216
   endOffset: 226
-- name: Building Courses, Open‑Source Collaboration & DataCamp Impact
+- name: Building Courses, Open-Source Collaboration & DataCamp Impact
   startOffset: 226
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=226
   endOffset: 647
-- name: 'Open‑Source Governance: Company Support for Projects (Dask, Metaflow)'
+- name: 'Open-Source Governance: Company Support for Projects (Dask, Metaflow)'
   startOffset: 647
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=647
   endOffset: 832
@@ -81,7 +81,7 @@ quotableClips:
   startOffset: 1901
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=1901
   endOffset: 2090
-- name: 'Role Trade‑offs: Content Work vs Internal Data Science'
+- name: 'Role Trade-offs: Content Work vs Internal Data Science'
   startOffset: 2090
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=2090
   endOffset: 2187
@@ -93,7 +93,7 @@ quotableClips:
   startOffset: 2241
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=2241
   endOffset: 2417
-- name: 'AI‑Assisted Drafting: Whisper, ChatGPT & Productivity Tools'
+- name: 'AI-Assisted Drafting: Whisper, ChatGPT & Productivity Tools'
   startOffset: 2417
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=2417
   endOffset: 2594
@@ -101,7 +101,7 @@ quotableClips:
   startOffset: 2594
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=2594
   endOffset: 2769
-- name: 'Content Goals: Awareness, Support & Open‑Source Strategy Decisions'
+- name: 'Content Goals: Awareness, Support & Open-Source Strategy Decisions'
   startOffset: 2769
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=2769
   endOffset: 2923
@@ -117,7 +117,7 @@ quotableClips:
   startOffset: 3271
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=3271
   endOffset: 3372
-- name: 'Long‑Form Conversations: Vanishing Gradients Podcast Overview'
+- name: 'Long-Form Conversations: Vanishing Gradients Podcast Overview'
   startOffset: 3372
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=3372
   endOffset: 3503
@@ -125,14 +125,14 @@ quotableClips:
   startOffset: 3503
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=3503
   endOffset: 3565
-- name: Closing Remarks & Episode Wrap‑Up
+- name: Closing Remarks & Episode Wrap-Up
   startOffset: 3565
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=3565
   endOffset: 3472
 
 transcript:
 - header: Podcast Introduction
-- header: 'Guest Introduction: Hugo Bowne‑Anderson, Outerbounds & Metaflow'
+- header: 'Guest Introduction: Hugo Bowne-Anderson, Outerbounds & Metaflow'
 - line: This week, we'll talk about developer advocacy. We have a special guest today
     – very special – Hugo. Hugo is the Head of Developer Relations at Outerbounds.
     He's also a co-host of the Vanishing Gradients podcast. He's a data scientist,
@@ -144,7 +144,7 @@ transcript:
   sec: 93
   time: '1:33'
   who: Alexey
-- header: Metaflow Sandbox Demo & Full‑Stack Machine Learning Spotlight
+- header: Metaflow Sandbox Demo & Full-Stack Machine Learning Spotlight
 - line: Thank you so much for having me here. It's a great honor to be here. For those
     who don't know, this will go live soon, but we also recorded an open-source demo
     of Metaflow and full-stack machine learning using the sandbox we've built recently,
@@ -186,7 +186,7 @@ transcript:
   sec: 216
   time: '3:36'
   who: Alexey
-- header: Building Courses, Open‑Source Collaboration & DataCamp Impact
+- header: Building Courses, Open-Source Collaboration & DataCamp Impact
 - line: Yeah, and feel free to stop me at any point. I'm not quite sure what level
     of granularity to go into. But I'll kind of give a bit of background that's relevant
     to what we're talking about today, as well. My background is in scientific research
@@ -293,7 +293,7 @@ transcript:
   sec: 633
   time: '10:33'
   who: Hugo
-- header: 'Open‑Source Governance: Company Support for Projects (Dask, Metaflow)'
+- header: 'Open-Source Governance: Company Support for Projects (Dask, Metaflow)'
 - line: I still don't know how exactly it works. Sometimes people can post links,
     sometimes they can't. Most of the time, they cannot. Only if the host can, which
     I guess makes sense because otherwise people might come and post spam. I'm really
@@ -704,7 +704,7 @@ transcript:
   sec: 2087
   time: '34:47'
   who: Alexey
-- header: 'Role Trade‑offs: Content Work vs Internal Data Science'
+- header: 'Role Trade-offs: Content Work vs Internal Data Science'
 - line: I was just gonna say, the other thing worth mentioning – and this is always
     a challenge for a lot of data scientists and machine learning engineers who are
     thinking of getting into DevRel. It's not clear in a lot of organizations. Once
@@ -810,7 +810,7 @@ transcript:
   sec: 2264
   time: '37:44'
   who: Hugo
-- header: 'AI‑Assisted Drafting: Whisper, ChatGPT & Productivity Tools'
+- header: 'AI-Assisted Drafting: Whisper, ChatGPT & Productivity Tools'
 - line: What helped me is having an editor who would point out, “Hey, look. This paragraph
     is completely not understandable. I tried to read it three times. I still don't
     get it. Let's work on this paragraph to really understand what you meant here
@@ -921,7 +921,7 @@ transcript:
   sec: 2607
   time: '43:27'
   who: Hugo
-- header: 'Content Goals: Awareness, Support & Open‑Source Strategy Decisions'
+- header: 'Content Goals: Awareness, Support & Open-Source Strategy Decisions'
 - line: How do you understand what kind of goal you have? Maybe somebody comes to
     you and says, “Hey, we don't have any posts in our blog. Let's create blog posts.”
     And then you're like “Okay, let's create.” Then you think, “Okay. What is actually
@@ -1101,7 +1101,7 @@ transcript:
   sec: 3353
   time: '55:53'
   who: Alexey
-- header: 'Long‑Form Conversations: Vanishing Gradients Podcast Overview'
+- header: 'Long-Form Conversations: Vanishing Gradients Podcast Overview'
 - line: Well, you also have a podcast. We still have 3 minutes. Maybe you can tell
     us about that podcast before we finish?
   sec: 3372
@@ -1171,7 +1171,7 @@ transcript:
   sec: 3556
   time: '59:16'
   who: Hugo
-- header: Closing Remarks & Episode Wrap‑Up
+- header: Closing Remarks & Episode Wrap-Up
 - line: Well, have a nice weekend. And for those who are not in Australia, have a
     nice Friday, and then a great weekend.
   sec: 3565

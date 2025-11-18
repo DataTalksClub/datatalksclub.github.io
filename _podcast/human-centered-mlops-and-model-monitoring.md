@@ -48,7 +48,7 @@ quotableClips:
   startOffset: 626
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=626
   endOffset: 742
-- name: 'Stakeholder Engagement: pairing, availability, and buy‑in'
+- name: 'Stakeholder Engagement: pairing, availability, and buy-in'
   startOffset: 742
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=742
   endOffset: 827
@@ -72,7 +72,7 @@ quotableClips:
   startOffset: 1474
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=1474
   endOffset: 1634
-- name: 'ML Incident Response: post‑mortems and ML‑specific recovery steps'
+- name: 'ML Incident Response: post-mortems and ML-specific recovery steps'
   startOffset: 1634
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=1634
   endOffset: 1763
@@ -80,7 +80,7 @@ quotableClips:
   startOffset: 1763
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=1763
   endOffset: 1931
-- name: 'Root‑Cause Debugging: applying Five Whys to ML product issues'
+- name: 'Root-Cause Debugging: applying Five Whys to ML product issues'
   startOffset: 1931
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=1931
   endOffset: 2201
@@ -96,11 +96,11 @@ quotableClips:
   startOffset: 2300
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2300
   endOffset: 2366
-- name: 'Post‑Mortem Evidence: facts, blameless analysis, and investigation steps'
+- name: 'Post-Mortem Evidence: facts, blameless analysis, and investigation steps'
   startOffset: 2366
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2366
   endOffset: 2523
-- name: 'Action Items: turning post‑mortems into tickets and process changes'
+- name: 'Action Items: turning post-mortems into tickets and process changes'
   startOffset: 2523
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2523
   endOffset: 2651
@@ -120,7 +120,7 @@ quotableClips:
   startOffset: 2968
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=2968
   endOffset: 3030
-- name: 'End‑User Research: mystery shopping and direct user testing'
+- name: 'End-User Research: mystery shopping and direct user testing'
   startOffset: 3030
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=3030
   endOffset: 3159
@@ -137,7 +137,7 @@ quotableClips:
   startOffset: 3388
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=3388
   endOffset: 3566
-- name: 'Wrap‑Up & Contact: where to find Lina and episode closing'
+- name: 'Wrap-Up & Contact: where to find Lina and episode closing'
   startOffset: 3566
   url: https://www.youtube.com/watch?v=o50j_Ndx2Hg&t=3566
   endOffset: 3499
@@ -340,7 +340,7 @@ transcript:
   sec: 729
   time: '12:09'
   who: Lina
-- header: 'Stakeholder Engagement: pairing, availability, and buy‑in'
+- header: 'Stakeholder Engagement: pairing, availability, and buy-in'
 - line: This is before you even start doing anything, right? You have an idea about
     something cool, you sit down, and you spend some time in front of a Google document
     or Word document, or maybe just a notepad. You try to write everything down, you
@@ -596,7 +596,7 @@ transcript:
   sec: 1615
   time: '26:55'
   who: Lina
-- header: 'ML Incident Response: post‑mortems and ML‑specific recovery steps'
+- header: 'ML Incident Response: post-mortems and ML-specific recovery steps'
 - line: Let's say we agreed with everyone on this, and we say, “Okay, the system should
     be responsive within one hour. If something happens for 10 minutes, nothing bad
     happens, but it would come back in one hour.” So you will define all these service
@@ -665,7 +665,7 @@ transcript:
   sec: 1928
   time: '32:08'
   who: Alexey
-- header: 'Root‑Cause Debugging: applying Five Whys to ML product issues'
+- header: 'Root-Cause Debugging: applying Five Whys to ML product issues'
 - line: I thought that he must have. So let's use the post mortem format to debug
     this Okay. It's the ‘last seen’ box – some of my colleagues spend some time debugging
     the problem, not noticing it's not recommendation box. First thing, apply the
@@ -794,7 +794,7 @@ transcript:
   sec: 2354
   time: '39:14'
   who: Lina
-- header: 'Post‑Mortem Evidence: facts, blameless analysis, and investigation steps'
+- header: 'Post-Mortem Evidence: facts, blameless analysis, and investigation steps'
 - line: I wanted to ask you a bit about this ‘post mortem’ format. We also have a
     question in chat. What does the format look like? I think one thing that you mentioned
     is that you need to ask the “five why's” – you don't jump to conclusions immediately.
@@ -831,7 +831,7 @@ transcript:
   sec: 2508
   time: '41:48'
   who: Alexey
-- header: 'Action Items: turning post‑mortems into tickets and process changes'
+- header: 'Action Items: turning post-mortems into tickets and process changes'
 - line: First you get the facts. If it's a backend service, it's likely “The service
     was down from that time to that time.” As in our women’s bag example, it might
     be a screenshot, or it might be return values. We put all the factual information
@@ -997,7 +997,7 @@ transcript:
   sec: 3019
   time: '50:19'
   who: Alexey
-- header: 'End‑User Research: mystery shopping and direct user testing'
+- header: 'End-User Research: mystery shopping and direct user testing'
 - line: It depends on what project I'm working on. I do talk to end users in some
     cases. I also do mystery shopping. Mystery shopping is basically when you go through
     the process yourself. I was optimizing the credit process application in my current
@@ -1185,7 +1185,7 @@ transcript:
   sec: 3557
   time: '59:17'
   who: Alexey
-- header: 'Wrap‑Up & Contact: where to find Lina and episode closing'
+- header: 'Wrap-Up & Contact: where to find Lina and episode closing'
 - line: Thank you for having me. And if anyone wants to connect more – I'm hanging
     out in the MLOps channel sometimes. Also on LinkedIn. Or if anyone wants to write
     a blog post together or just generally share? Yeah. Look me up.

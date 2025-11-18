@@ -53,11 +53,11 @@ quotableClips:
   startOffset: 165
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=165
   endOffset: 283
-- name: 'Philips Healthcare Projects: C‑arm imaging and pregnancy monitoring'
+- name: 'Philips Healthcare Projects: C-arm imaging and pregnancy monitoring'
   startOffset: 283
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=283
   endOffset: 408
-- name: 'Low‑Resource Pediatric Monitoring: Vital‑sign system design for Malawi'
+- name: 'Low-Resource Pediatric Monitoring: Vital-sign system design for Malawi'
   startOffset: 408
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=408
   endOffset: 454
@@ -74,7 +74,7 @@ quotableClips:
   startOffset: 663
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=663
   endOffset: 793
-- name: '3D Reconstruction Work: multi‑view geometry from C‑arm images'
+- name: '3D Reconstruction Work: multi-view geometry from C-arm images'
   startOffset: 793
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=793
   endOffset: 943
@@ -87,7 +87,7 @@ quotableClips:
   startOffset: 1085
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=1085
   endOffset: 1168
-- name: 'Ballistography Signal Research: denoising and U‑Net for infant heart rate
+- name: 'Ballistography Signal Research: denoising and U-Net for infant heart rate
     estimation'
   startOffset: 1168
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=1168
@@ -97,7 +97,7 @@ quotableClips:
   startOffset: 1309
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=1309
   endOffset: 1483
-- name: 'Patient Acuity Scoring: vitals‑based scoring poster'
+- name: 'Patient Acuity Scoring: vitals-based scoring poster'
   startOffset: 1483
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=1483
   endOffset: 1523
@@ -113,7 +113,7 @@ quotableClips:
   startOffset: 1870
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=1870
   endOffset: 2034
-- name: 'Healthcare vs E‑commerce Data: offline events, timestamps, and higher risk'
+- name: 'Healthcare vs E-commerce Data: offline events, timestamps, and higher risk'
   startOffset: 2034
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=2034
   endOffset: 2145
@@ -134,7 +134,7 @@ quotableClips:
   startOffset: 2792
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=2792
   endOffset: 3050
-- name: 'ML Deployment Constraints: on‑device vs cloud for low‑resource settings'
+- name: 'ML Deployment Constraints: on-device vs cloud for low-resource settings'
   startOffset: 3050
   url: https://www.youtube.com/watch?v=pDOwlulDh0c&t=3050
   endOffset: 3165
@@ -260,7 +260,7 @@ transcript:
   sec: 262
   time: '4:22'
   who: Elena
-- header: 'Philips Healthcare Projects: C‑arm imaging and pregnancy monitoring'
+- header: 'Philips Healthcare Projects: C-arm imaging and pregnancy monitoring'
 - line: Nice. Well, I have never heard about Philips Healthcare. What I know about
     Philips is that they produce lamps. I have a few smart lamps – Philips Hue. I
     also know that they produce trimmers (for shaving) but that's pretty much the
@@ -288,7 +288,7 @@ transcript:
   sec: 380
   time: '6:20'
   who: Alexey
-- header: 'Low‑Resource Pediatric Monitoring: Vital‑sign system design for Malawi'
+- header: 'Low-Resource Pediatric Monitoring: Vital-sign system design for Malawi'
 - line: I actually left my current company in July. I'm actually now on sabbatical.
     I worked for them for almost two years, focusing more on designing things like,
     “What is the future of data science in the company and how can we develop data
@@ -387,7 +387,7 @@ transcript:
   sec: 753
   time: '12:33'
   who: Alexey
-- header: '3D Reconstruction Work: multi‑view geometry from C‑arm images'
+- header: '3D Reconstruction Work: multi-view geometry from C-arm images'
 - line: Yeah. And there, I worked on a topic that was not really related to data science.
     They have this C-arm, which is in the shape of a C, like that [Elena shows the
     shape of the letter C with her hand] and on the top of this arm, there are four
@@ -493,7 +493,7 @@ transcript:
   sec: 1162
   time: '19:22'
   who: Alexey
-- header: 'Ballistography Signal Research: denoising and U‑Net for infant heart rate
+- header: 'Ballistography Signal Research: denoising and U-Net for infant heart rate
     estimation'
 - line: During the period when I was working for this company where we were working
     on vital sign monitoring systems in Africa, I was working on… It is called ballistography
@@ -570,7 +570,7 @@ transcript:
   sec: 1446
   time: '24:06'
   who: Alexey
-- header: 'Patient Acuity Scoring: vitals‑based scoring poster'
+- header: 'Patient Acuity Scoring: vitals-based scoring poster'
 - line: This is my first publication. But then I also published a poster that is not
     available online. It was about calculating a patient’s score based on the vitals
     of the patient. The main idea behind this was to have an overall assessment of
@@ -714,7 +714,7 @@ transcript:
   sec: 2018
   time: '33:38'
   who: Alexey
-- header: 'Healthcare vs E‑commerce Data: offline events, timestamps, and higher risk'
+- header: 'Healthcare vs E-commerce Data: offline events, timestamps, and higher risk'
 - line: I see that there is a comment from Sylvia. “Thanks, Eleni, for sharing your
     experience. How advanced and trusted is data science in healthcare compared to
     other sectors?” For example, I worked in e-commerce, and I think in e-commerce,
@@ -974,7 +974,7 @@ transcript:
   sec: 2996
   time: '49:56'
   who: Alexey
-- header: 'ML Deployment Constraints: on‑device vs cloud for low‑resource settings'
+- header: 'ML Deployment Constraints: on-device vs cloud for low-resource settings'
 - line: This is indeed, for the data engineer to just take the model that the data
     scientists create, and then deploy that on the machine so that it also works and
     aligns with the rest of the software there. Also, they take into account the restrictions

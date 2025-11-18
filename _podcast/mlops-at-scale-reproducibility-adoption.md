@@ -17,11 +17,11 @@ links:
 description: Learn MLOps CI/CD and model monitoring to scale reliable deployments,
   accelerate delivery, ensure reproducibility, and drive model adoption in production.
 intro: 'How do you run MLOps at scale so models stay deployed, reproducible, and actually
-  adopted? In this episode Raphaël Hoogvliets—who leads a 12‑engineer team at Eneco
+  adopted? In this episode Raphaël Hoogvliets—who leads a 12-engineer team at Eneco
   and brings a career arc from agriculture into data science and MLOps—walks through
   practical approaches for CI/CD for ML, reproducibility, model monitoring, and adoption
-  strategy. <br><br> We cover the core trade‑offs between speed and robustness, design
-  choices for long‑term maintainability, and the team coordination needed to scale
+  strategy. <br><br> We cover the core trade-offs between speed and robustness, design
+  choices for long-term maintainability, and the team coordination needed to scale
   ML: evangelists, tech translators, and technical leads. Raphaël explains why a centralized
   MLOps platform team often works as an enabling layer, how MLOps should support product
   teams, and how to drive adoption through iteration, feedback loops, and developer
@@ -51,7 +51,7 @@ quotableClips:
   startOffset: 521
   url: https://youtube.com/watch?v=rMq63r3zi4c&t=521
   endOffset: 636
-- name: Design Choices and Long‑Term Tradeoffs in ML projects
+- name: Design Choices and Long-Term Tradeoffs in ML projects
   startOffset: 636
   url: https://youtube.com/watch?v=rMq63r3zi4c&t=636
   endOffset: 817
@@ -267,7 +267,7 @@ transcript:
   sec: 553
   time: '9:13'
   who: Raphaël
-- header: Design Choices and Long‑Term Tradeoffs in ML projects
+- header: Design Choices and Long-Term Tradeoffs in ML projects
 - line: 'Back to MLOps — your LinkedIn profile has an interesting tagline: “Creating
     the future’s technical debt today.” What does that mean?'
   sec: 636

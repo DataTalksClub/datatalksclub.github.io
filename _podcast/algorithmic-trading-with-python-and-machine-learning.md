@@ -16,18 +16,18 @@ links:
   youtube: https://www.youtube.com/watch?v=NThHAEIazFk
 description: 'Master algorithmic trading: backtesting and risk management—learn practical
   data sources, features, models & execution to build robust strategies.'
-intro: How do you turn a trading idea into a robust, risk‑managed algorithm in Python?
+intro: How do you turn a trading idea into a robust, risk-managed algorithm in Python?
   In this episode Ivan Brigida — analytics lead behind PythonInvest with 10+ years
   in statistical modeling, forecasting, econometrics and finance — walks through practical
   steps for algorithmic trading with Python, from data sourcing to deployment (and
   a clear reminder this is educational, not investment advice). <br><br> We cover
-  where retail traders get market data (Yahoo, Quandl, Polygon), OHLCV and adjusted‑close
-  nuances, and a concrete mean‑reversion example. Ivan explains backtesting methodology,
-  common pitfalls like time‑series data leakage, and walk‑forward simulation for realistic
-  validation. He breaks down risk management (stop‑loss thresholds, position sizing),
+  where retail traders get market data (Yahoo, Quandl, Polygon), OHLCV and adjusted-close
+  nuances, and a concrete mean-reversion example. Ivan explains backtesting methodology,
+  common pitfalls like time-series data leakage, and walk-forward simulation for realistic
+  validation. He breaks down risk management (stop-loss thresholds, position sizing),
   execution and trading fees, plus evaluation metrics (ROI, precision) and defining
   prediction targets (binary growth thresholds such as 5%). <br><br> On the modeling
-  side you’ll hear practical feature engineering (time‑window stats, handcrafted indicators),
+  side you’ll hear practical feature engineering (time-window stats, handcrafted indicators),
   model choices (logistic regression, XGBoost, neural nets), explainability via feature
   importance, and deployment options (cron, Airflow, APIs, partial automation). Listen
   to gain actionable guidance for building, validating, and deploying algorithmic
@@ -83,15 +83,15 @@ quotableClips:
   startOffset: 1187
   url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1187
   endOffset: 1334
-- name: Risk management fundamentals and stop‑loss thresholds
+- name: Risk management fundamentals and stop-loss thresholds
   startOffset: 1334
   url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1334
   endOffset: 1608
-- name: Backtesting methodology and avoiding time‑series data leakage
+- name: Backtesting methodology and avoiding time-series data leakage
   startOffset: 1608
   url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1608
   endOffset: 1784
-- name: 'Walk‑forward simulation: weekly predictions and selection rules'
+- name: 'Walk-forward simulation: weekly predictions and selection rules'
   startOffset: 1784
   url: https://www.youtube.com/watch?v=NThHAEIazFk&t=1784
   endOffset: 2115
@@ -111,7 +111,7 @@ quotableClips:
   startOffset: 2619
   url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2619
   endOffset: 2755
-- name: 'Feature engineering: time‑window stats and handcrafted indicators'
+- name: 'Feature engineering: time-window stats and handcrafted indicators'
   startOffset: 2755
   url: https://www.youtube.com/watch?v=NThHAEIazFk&t=2755
   endOffset: 2882
@@ -135,11 +135,11 @@ quotableClips:
   startOffset: 3449
   url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3449
   endOffset: 3666
-- name: Course plans, sign‑up, and community building
+- name: Course plans, sign-up, and community building
   startOffset: 3666
   url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3666
   endOffset: 3696
-- name: Episode Wrap‑up and final reminder (not financial advice)
+- name: Episode Wrap-up and final reminder (not financial advice)
   startOffset: 3696
   url: https://www.youtube.com/watch?v=NThHAEIazFk&t=3696
   endOffset: 3640
@@ -529,7 +529,7 @@ transcript:
   sec: 1311
   time: '21:51'
   who: Ivan
-- header: Risk management fundamentals and stop‑loss thresholds
+- header: Risk management fundamentals and stop-loss thresholds
 - line: I have two questions right now. First question is, “Okay, now I see losses.
     What do I do with them?”
   sec: 1334
@@ -596,7 +596,7 @@ transcript:
   sec: 1513
   time: '25:13'
   who: Ivan
-- header: Backtesting methodology and avoiding time‑series data leakage
+- header: Backtesting methodology and avoiding time-series data leakage
 - line: Okay, I actually got lost a bit. You said many things, like “long stocks,”
     “rebalancing strategy,” “portfolio allocation”… We should probably talk about
     that later. [Ivan agrees] One question I still have is – we know how to get data
@@ -637,7 +637,7 @@ transcript:
   sec: 1738
   time: '28:58'
   who: Alexey
-- header: 'Walk‑forward simulation: weekly predictions and selection rules'
+- header: 'Walk-forward simulation: weekly predictions and selection rules'
 - line: Yes. I can give an example of the exact thing that I had. I started from the
     100 largest US stocks, and I made predictions for one week ahead. I tried to predict…
     Historically you can calculate future growth from the data – when you don't know
@@ -874,7 +874,7 @@ transcript:
   sec: 2740
   time: '45:40'
   who: Ivan
-- header: 'Feature engineering: time‑window stats and handcrafted indicators'
+- header: 'Feature engineering: time-window stats and handcrafted indicators'
 - line: How do you build…? Let's say, we want to build the simplest possible model
     for that, but still use machine learning – like logistic regression or something
     else. How exactly would we design the problem in order to predict this growth
@@ -1113,7 +1113,7 @@ transcript:
   sec: 3665
   time: '1:01:05'
   who: Alexey
-- header: Course plans, sign‑up, and community building
+- header: Course plans, sign-up, and community building
 - line: Yeah. I heard that and I will probably wait until 500 people are subscribed,
     so that I can say, “Okay, next year from January, I will run it.” It’s not there
     yet, but I hope someday.
@@ -1129,7 +1129,7 @@ transcript:
   sec: 3692
   time: '1:01:32'
   who: Ivan
-- header: Episode Wrap‑up and final reminder (not financial advice)
+- header: Episode Wrap-up and final reminder (not financial advice)
 - line: Okay. So we just need 300 more. [chuckles] Okay. Thanks a lot. It's unfortunately
     time to wrap up for today. It was amazing. I learned many new things. Hopefully,
     everyone else also learned new things. Thanks for joining us today, for sharing.
@@ -1145,16 +1145,16 @@ transcript:
   time: '1:02:15'
   who: Ivan
 context: 'Context: This episode follows Ivan Brigida’s path from finance to analytics
-  and walks listeners step‑by‑step through the practical craft of retail algorithmic
-  investing — covering data sources and quality, time‑series market formats, strategy
-  ideas (like mean reversion), rigorous backtesting and walk‑forward validation, risk
+  and walks listeners step-by-step through the practical craft of retail algorithmic
+  investing — covering data sources and quality, time-series market formats, strategy
+  ideas (like mean reversion), rigorous backtesting and walk-forward validation, risk
   management and execution, feature engineering and model choice, explainability,
   deployment, and learning resources.
 
   Core: The unifying idea is that successful retail algorithmic trading is built like
-  an engineering pipeline — start with clean, well‑understood data; define precise
+  an engineering pipeline — start with clean, well-understood data; define precise
   prediction targets; design simple, interpretable models and handcrafted features;
-  validate performance with rigorous, leakage‑free backtests and walk‑forward simulations;
+  validate performance with rigorous, leakage-free backtests and walk-forward simulations;
   embed strict risk controls and disciplined execution; and iterate toward partial
   automation and reproducible deployment while treating the whole process as a continuous
   learning project rather than a shortcut to quick profits.'

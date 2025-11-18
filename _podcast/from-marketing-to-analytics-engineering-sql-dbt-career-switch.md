@@ -84,7 +84,7 @@ quotableClips:
   startOffset: 1392
   url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1392
   endOffset: 1491
-- name: 'Infrastructure Choices: Self‑Hosted Tooling vs DBT Cloud'
+- name: 'Infrastructure Choices: Self-Hosted Tooling vs DBT Cloud'
   startOffset: 1491
   url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=1491
   endOffset: 1506
@@ -105,7 +105,7 @@ quotableClips:
   startOffset: 2026
   url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2026
   endOffset: 2130
-- name: 'Nontraditional Background: Classics to Data — Just‑In‑Time Learning and Udemy
+- name: 'Nontraditional Background: Classics to Data — Just-In-Time Learning and Udemy
     SQL'
   startOffset: 2130
   url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=2130
@@ -135,7 +135,7 @@ quotableClips:
   startOffset: 3130
   url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=3130
   endOffset: 3226
-- name: 'Contact & Wrap‑Up: Finding Nikola on LinkedIn and Episode Close'
+- name: 'Contact & Wrap-Up: Finding Nikola on LinkedIn and Episode Close'
   startOffset: 3226
   url: https://www.youtube.com/watch?v=GawJ7mG5ElQ&t=3226
   endOffset: 3274
@@ -566,7 +566,7 @@ transcript:
   sec: 1487
   time: '24:47'
   who: Nikola
-- header: 'Infrastructure Choices: Self‑Hosted Tooling vs DBT Cloud'
+- header: 'Infrastructure Choices: Self-Hosted Tooling vs DBT Cloud'
 - line: Do you host all these things yourself? For example, when it comes to DBT,
     do you use their cloud?
   sec: 1491
@@ -756,7 +756,7 @@ transcript:
   sec: 2127
   time: '35:27'
   who: Alexey
-- header: 'Nontraditional Background: Classics to Data — Just‑In‑Time Learning and
+- header: 'Nontraditional Background: Classics to Data — Just-In-Time Learning and
     Udemy SQL'
 - line: No, I studied classics, which are Latin and ancient Greek. [laughs]
   sec: 2130
@@ -1066,7 +1066,7 @@ transcript:
   sec: 3221
   time: '53:41'
   who: Nikola
-- header: 'Contact & Wrap‑Up: Finding Nikola on LinkedIn and Episode Close'
+- header: 'Contact & Wrap-Up: Finding Nikola on LinkedIn and Episode Close'
 - line: Profoundly Optimistic is also a good name. [both laugh] If somebody has questions
     for you, how can they find you? Is it LinkedIn or are there some other ways to
     contact you?

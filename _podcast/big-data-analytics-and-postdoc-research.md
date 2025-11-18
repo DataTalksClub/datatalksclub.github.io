@@ -16,7 +16,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/advancing-big-data-analytics-post-doctoral-research/id1541710331?i=1000543884294
 
 description: 'Discover Spatial Big Data, Nebula Stream & postdoc mentoring: PhD tips, publishing, time-management and stream-processing tactics to boost your research.'
-intro: How do you master spatial big data analytics while navigating the demands of postdoc research, systems building, and preparing for a PhD? In this episode, Eleni Tzirita‑Zacharatou — a postdoctoral researcher at the DIMA Group, TU Berlin, with a PhD from EPFL and award‑winning work in data management — breaks down practical approaches to spatial big data analytics (GPS traces, trajectories, satellite imagery) and robust stream processing for IoT. We cover systems‑driven research like the Nebula Stream and Agora infrastructure, spotting research trends via conferences and reviewing, and aligning academic work with industry needs. Eleni also outlines the postdoc role (mentoring, teaching, reviewing, dissemination), time management strategies, realities of publishing and top venues (VLDB, SIGMOD, ICDE), mentoring tactics for BSc/MSc/PhD students, and advice on choosing and preparing for a PhD or master’s thesis. Listeners will gain concrete guidance on research priorities beyond raw performance (usability, energy, adoption), multidisciplinary collaboration, data cleaning evaluation challenges, and steps to increase diversity in CS. Tune in for actionable postdoc mentoring and PhD tips grounded in spatial big data and stream processing research
+intro: How do you master spatial big data analytics while navigating the demands of postdoc research, systems building, and preparing for a PhD? In this episode, Eleni Tzirita-Zacharatou — a postdoctoral researcher at the DIMA Group, TU Berlin, with a PhD from EPFL and award-winning work in data management — breaks down practical approaches to spatial big data analytics (GPS traces, trajectories, satellite imagery) and robust stream processing for IoT. We cover systems-driven research like the Nebula Stream and Agora infrastructure, spotting research trends via conferences and reviewing, and aligning academic work with industry needs. Eleni also outlines the postdoc role (mentoring, teaching, reviewing, dissemination), time management strategies, realities of publishing and top venues (VLDB, SIGMOD, ICDE), mentoring tactics for BSc/MSc/PhD students, and advice on choosing and preparing for a PhD or master’s thesis. Listeners will gain concrete guidance on research priorities beyond raw performance (usability, energy, adoption), multidisciplinary collaboration, data cleaning evaluation challenges, and steps to increase diversity in CS. Tune in for actionable postdoc mentoring and PhD tips grounded in spatial big data and stream processing research
 topics:
 - academia
 - big data analytics
@@ -27,7 +27,7 @@ dateadded: 2021-12-05
 duration: PT01H01M37S
 
 quotableClips:
-- name: 'Guest Introduction: Eleni Tzirita‑Zacharatou, postdoctoral researcher at
+- name: 'Guest Introduction: Eleni Tzirita-Zacharatou, postdoctoral researcher at
     DIMA, TU Berlin'
   startOffset: 73
   url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=73
@@ -69,7 +69,7 @@ quotableClips:
   startOffset: 1388
   url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=1388
   endOffset: 1455
-- name: 'System‑Driven Research: From Apache Flink legacy to new Nebula stream systems'
+- name: 'System-Driven Research: From Apache Flink legacy to new Nebula stream systems'
   startOffset: 1455
   url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=1455
   endOffset: 1495
@@ -93,12 +93,12 @@ quotableClips:
   startOffset: 2181
   url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=2181
   endOffset: 2320
-- name: 'Multidisciplinary Collaboration: Remote sensing, neuroscience, and cross‑domain
+- name: 'Multidisciplinary Collaboration: Remote sensing, neuroscience, and cross-domain
     work'
   startOffset: 2320
   url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=2320
   endOffset: 2470
-- name: 'Facilitating Cross‑Group Collaboration: Physical spaces and informal interactions'
+- name: 'Facilitating Cross-Group Collaboration: Physical spaces and informal interactions'
   startOffset: 2470
   url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=2470
   endOffset: 2657
@@ -116,7 +116,7 @@ quotableClips:
   startOffset: 3127
   url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=3127
   endOffset: 3299
-- name: 'PhD Expectations: Publication requirements and top‑conference pressure'
+- name: 'PhD Expectations: Publication requirements and top-conference pressure'
   startOffset: 3299
   url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=3299
   endOffset: 3319
@@ -129,7 +129,7 @@ quotableClips:
   startOffset: 3651
   url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=3651
   endOffset: 3714
-- name: 'Contact and Follow‑Up: DIMA page and email for questions'
+- name: 'Contact and Follow-Up: DIMA page and email for questions'
   startOffset: 3714
   url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=3714
   endOffset: 3722
@@ -139,7 +139,7 @@ quotableClips:
   endOffset: 3697
 
 transcript:
-- header: 'Guest Introduction: Eleni Tzirita‑Zacharatou, postdoctoral researcher at
+- header: 'Guest Introduction: Eleni Tzirita-Zacharatou, postdoctoral researcher at
     DIMA, TU Berlin'
 - line: This week, we'll talk about doing postdoctoral research. We have a special
     guest today, Eleni. Eleni is a postdoctoral researcher at the DIMA Group at TU
@@ -505,7 +505,7 @@ transcript:
   sec: 1439
   time: '23:59'
   who: Alexey
-- header: 'System‑Driven Research: From Apache Flink legacy to new Nebula stream systems'
+- header: 'System-Driven Research: From Apache Flink legacy to new Nebula stream systems'
 - line: Not really. Basically, in a sense, this ‘nebula stream’ system is kind of
     the next Flick, you could say. This is representative of how the DIMA group works.
     Before there was Flink and a lot of researchers were working on different problems
@@ -756,7 +756,7 @@ transcript:
   sec: 2293
   time: '38:13'
   who: Alexey
-- header: 'Multidisciplinary Collaboration: Remote sensing, neuroscience, and cross‑domain
+- header: 'Multidisciplinary Collaboration: Remote sensing, neuroscience, and cross-domain
     work'
 - line: Yeah. I have some experience working with people that are not in Data Management.
     In general, there are connections – it's easy to find connections – from data
@@ -790,7 +790,7 @@ transcript:
   sec: 2434
   time: '40:34'
   who: Alexey
-- header: 'Facilitating Cross‑Group Collaboration: Physical spaces and informal interactions'
+- header: 'Facilitating Cross-Group Collaboration: Physical spaces and informal interactions'
 - line: Yeah, that's a good point. Maybe now it has improved, I would say. Actually,
     there is one issue that I find to be a problem concerning where the groups are,
     which is the building itself. I think it's actually not so great that the DIMA
@@ -985,7 +985,7 @@ transcript:
   sec: 3267
   time: '54:27'
   who: Alexey
-- header: 'PhD Expectations: Publication requirements and top‑conference pressure'
+- header: 'PhD Expectations: Publication requirements and top-conference pressure'
 - line: Yeah, different groups have different requirements in terms of how many papers
     you are expected to publish? But yeah, in general, it's always at least one. Broadly
     speaking, at DIMA, it’s typically three and they have to be at top conferences.
@@ -1103,7 +1103,7 @@ transcript:
   sec: 3710
   time: '1:01:50'
   who: Alexey
-- header: 'Contact and Follow‑Up: DIMA page and email for questions'
+- header: 'Contact and Follow-Up: DIMA page and email for questions'
 - line: This information is up to date. There is my email on my website – I guess
     that's the easiest way.
   sec: 3714

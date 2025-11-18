@@ -52,7 +52,7 @@ quotableClips:
   startOffset: 303
   url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=303
   endOffset: 364
-- name: 'Omdena Projects: Global collaborators solving real‑world AI problems'
+- name: 'Omdena Projects: Global collaborators solving real-world AI problems'
   startOffset: 364
   url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=364
   endOffset: 619
@@ -133,7 +133,7 @@ quotableClips:
   startOffset: 3203
   url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3203
   endOffset: 3289
-- name: 'Access & Scholarship Resources: Courses, GitHub projects, and women‑focused
+- name: 'Access & Scholarship Resources: Courses, GitHub projects, and women-focused
     support'
   startOffset: 3289
   url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3289
@@ -237,7 +237,7 @@ transcript:
   sec: 328
   time: '5:28'
   who: Alexey
-- header: 'Omdena Projects: Global collaborators solving real‑world AI problems'
+- header: 'Omdena Projects: Global collaborators solving real-world AI problems'
 - line: Omdena is a global community that started in 2019. Every participant is called
     a "collaborator." We solve real-world challenges with AI. We started with a mental
     assistive application in 2019, then projects like finding anomalies on Mars. Our
@@ -649,7 +649,7 @@ transcript:
   sec: 3269
   time: '54:29'
   who: Alexey
-- header: 'Access & Scholarship Resources: Courses, GitHub projects, and women‑focused
+- header: 'Access & Scholarship Resources: Courses, GitHub projects, and women-focused
     support'
 - line: Join AI communities. There are courses available, and sometimes scholarships
     on platforms like Coursera. Learning through projects on GitHub is also valuable.
@@ -689,14 +689,14 @@ transcript:
   time: '58:28'
   who: Alexey
 context: 'Context: This episode follows Erum Afzal and Omdena Academy’s evolution—how
-  global, project‑based AI collaborations and community organizing were systematized
+  global, project-based AI collaborations and community organizing were systematized
   into accessible, tiered courses and local chapters to teach practical, ethical AI
   skills.
 
-  Core theme: The unifying idea is that democratizing real‑world AI expertise requires
-  a community‑first, project‑to‑course approach—turning collaborative problem‑solving
-  into structured learning pathways, open instructor pipelines, regional sub‑communities,
-  and integrity‑focused practices so diverse learners can rapidly gain practical skills,
+  Core theme: The unifying idea is that democratizing real-world AI expertise requires
+  a community-first, project-to-course approach—turning collaborative problem-solving
+  into structured learning pathways, open instructor pipelines, regional sub-communities,
+  and integrity-focused practices so diverse learners can rapidly gain practical skills,
   leadership opportunities, and ethical career pathways in AI.'
 ---
 Links:

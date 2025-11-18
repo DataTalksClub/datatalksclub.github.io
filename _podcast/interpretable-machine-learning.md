@@ -24,7 +24,7 @@ intro: How can you reliably trust a machine learning model’s predictions in re
   topics include a SHAP deep dive with practical Python examples for attributing predictions,
   conformal prediction for calibrated uncertainty and creating prediction sets, and
   the difference between explainable AI and interpretable machine learning. He also
-  discusses using interpretability to debug models, maintain hands‑on skills through
+  discusses using interpretability to debug models, maintain hands-on skills through
   competitions, and document experiments for reproducible insights. <br><br> If you
   want concrete tools to evaluate model trust—how to quantify uncertainty, interpret
   feature effects with SHAP, and produce reliable prediction sets with conformal methods—this
@@ -46,7 +46,7 @@ quotableClips:
   startOffset: 92
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=92
   endOffset: 225
-- name: Becoming a Full‑Time Technical Writer
+- name: Becoming a Full-Time Technical Writer
   startOffset: 225
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=225
   endOffset: 397
@@ -70,11 +70,11 @@ quotableClips:
   startOffset: 837
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=837
   endOffset: 955
-- name: 'Publishing in Public: Chapter‑by‑Chapter Workflow'
+- name: 'Publishing in Public: Chapter-by-Chapter Workflow'
   startOffset: 955
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=955
   endOffset: 1027
-- name: 'Self‑Publishing vs Publishers: Control, Editors, Royalties'
+- name: 'Self-Publishing vs Publishers: Control, Editors, Royalties'
   startOffset: 1027
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1027
   endOffset: 1138
@@ -95,11 +95,11 @@ quotableClips:
   startOffset: 1577
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1577
   endOffset: 1800
-- name: 'Work Style: Solo Writing, Collaboration, and Co‑authoring'
+- name: 'Work Style: Solo Writing, Collaboration, and Co-authoring'
   startOffset: 1800
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1800
   endOffset: 1987
-- name: 'Staying Hands‑On: Competitions to Maintain Practical Skills'
+- name: 'Staying Hands-On: Competitions to Maintain Practical Skills'
   startOffset: 1987
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=1987
   endOffset: 2181
@@ -119,11 +119,11 @@ quotableClips:
   startOffset: 2916
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=2916
   endOffset: 3000
-- name: 'Becoming a Full‑Time Author: Timeframe, Income, and Workload'
+- name: 'Becoming a Full-Time Author: Timeframe, Income, and Workload'
   startOffset: 3000
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3000
   endOffset: 3229
-- name: 'Publishing Logistics: Leanpub, Amazon KDP, and Print‑on‑Demand'
+- name: 'Publishing Logistics: Leanpub, Amazon KDP, and Print-on-Demand'
   startOffset: 3229
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3229
   endOffset: 3376
@@ -131,7 +131,7 @@ quotableClips:
   startOffset: 3376
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3376
   endOffset: 3413
-- name: Closing Remarks and Episode Wrap‑Up
+- name: Closing Remarks and Episode Wrap-Up
   startOffset: 3413
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3413
   endOffset: 3380
@@ -212,7 +212,7 @@ transcript:
   sec: 208
   time: '3:28'
   who: Alexey
-- header: Becoming a Full‑Time Technical Writer
+- header: Becoming a Full-Time Technical Writer
 - line: '[chuckles] Yeah. And I also didn''t feel so free when writing the Master''s
     thesis. But when I started the book, I wrote it in the open, got feedback, and
     could just write how I felt. I [could] put in some jokes and not hide behind math
@@ -432,7 +432,7 @@ transcript:
   sec: 933
   time: '15:33'
   who: Alexey
-- header: 'Publishing in Public: Chapter‑by‑Chapter Workflow'
+- header: 'Publishing in Public: Chapter-by-Chapter Workflow'
 - line: Yeah, good question. For me, I already did some blogging before, but I always
     quit after a few months. But I already had a little bit of experience with writing
     more freely. With the book, it wasn't like, “Hide in my room for two years, and
@@ -447,7 +447,7 @@ transcript:
   sec: 955
   time: '15:55'
   who: Christoph
-- header: 'Self‑Publishing vs Publishers: Control, Editors, Royalties'
+- header: 'Self-Publishing vs Publishers: Control, Editors, Royalties'
 - line: But also, as we spoke briefly at the beginning, you don't have a publisher
     – you published on your own, right? [Christoph agrees] This requires a lot of
     self-discipline. If you don't publish a chapter, in the case with a publisher,
@@ -703,7 +703,7 @@ transcript:
   sec: 1743
   time: '29:03'
   who: Christoph
-- header: 'Work Style: Solo Writing, Collaboration, and Co‑authoring'
+- header: 'Work Style: Solo Writing, Collaboration, and Co-authoring'
 - line: Okay. Now you’ve been working as a technical book writer for a year, right?
     Do you feel lonely when you just write by yourself? Do you miss colleagues?
   sec: 1800
@@ -754,7 +754,7 @@ transcript:
   sec: 1901
   time: '31:41'
   who: Christoph
-- header: 'Staying Hands‑On: Competitions to Maintain Practical Skills'
+- header: 'Staying Hands-On: Competitions to Maintain Practical Skills'
 - line: So you said you would write it faster because your co-author has other commitments.
     Then you also don't invest as much time as you could potentially because you probably…
     What I'm trying to say is that you probably still have time [left over]. So are
@@ -1129,7 +1129,7 @@ transcript:
   sec: 2964
   time: '49:24'
   who: Christoph
-- header: 'Becoming a Full‑Time Author: Timeframe, Income, and Workload'
+- header: 'Becoming a Full-Time Author: Timeframe, Income, and Workload'
 - line: Maybe also the question is, “How can I be a full-time technical author? What
     are my steps?”
   sec: 3000
@@ -1214,7 +1214,7 @@ transcript:
   sec: 3202
   time: '53:22'
   who: Christoph
-- header: 'Publishing Logistics: Leanpub, Amazon KDP, and Print‑on‑Demand'
+- header: 'Publishing Logistics: Leanpub, Amazon KDP, and Print-on-Demand'
 - line: What do you use for publishing? Because you also have physical copies. I know
     there are websites where you can sell digital products – PDFs, videos, whatever.
     But you have physical books.
@@ -1310,7 +1310,7 @@ transcript:
   sec: 3405
   time: '56:45'
   who: Christoph
-- header: Closing Remarks and Episode Wrap‑Up
+- header: Closing Remarks and Episode Wrap-Up
 - line: Yeah, thanks. Indeed, it was nice. Unfortunately, this is all the time we
     have for today.
   sec: 3413
@@ -1327,18 +1327,18 @@ transcript:
   time: '57:02'
   who: Alexey
 context: 'Context: Christoph Molnar’s journey from statistician and Kaggle competitor
-  to full‑time technical author frames a consistent practice: hands‑on modeling, careful
+  to full-time technical author frames a consistent practice: hands-on modeling, careful
   documentation, and public, iterative teaching about interpretable machine learning
   techniques (SHAP, conformal prediction, etc.), plus the practical mechanics of publishing
   and staying current.
 
   Core narrative: At the episode’s center is the idea that trustworthy, useful machine
   learning emerges not from opaque accuracy chasing but from a disciplined loop of
-  hands‑on experimentation, clear interpretation, and open communication — using interpretable
+  hands-on experimentation, clear interpretation, and open communication — using interpretable
   methods and calibrated uncertainty to debug and understand models, keeping meticulous
   logs and competitions to stay sharp, and publishing incrementally (with feedback
   and transparency) to teach others while refining your own understanding. This unified
-  through‑line ties together the technical tools, the writing and publishing choices,
+  through-line ties together the technical tools, the writing and publishing choices,
   and the everyday workflows that make complex ML accessible, reproducible, and actionable.'
 ---
 Links:

@@ -1168,8 +1168,8 @@ transcript:
   time: '58:10'
   who: Alexey
 context: 'A practical, curiosity-driven bridge between research and engineering: relentlessly
-  iterate with hands‑on prototyping, rigorous evaluation, and open dissemination to
-  solve real-world ML problems (ex: long‑context LLMs), while leveraging community,
+  iterate with hands-on prototyping, rigorous evaluation, and open dissemination to
+  solve real-world ML problems (ex: long-context LLMs), while leveraging community,
   mentorship, and strategic projects to accelerate career growth and drive measurable
   impact.'
 ---

@@ -19,7 +19,7 @@ description: Build a data science portfolio with open-source computer vision & t
   hands-on projects, GitHub proof, and interview-ready ML skills.
 intro: How do you move from a biology background into machine learning and build a
   data science portfolio that actually gets noticed? In this episode, Isabella Bicalho
-  — a machine learning engineer and data scientist with three years of hands‑on AI
+  — a machine learning engineer and data scientist with three years of hands-on AI
   development and roots in computational research — walks through practical approaches
   for showcasing skills with open-source, computer vision, and transformer projects.
   <br><br> We cover how to translate domain knowledge from biology into ML problem
@@ -1088,9 +1088,9 @@ context: 'Context: Isabella Bicalho’s episode traces a career arc from biology
   teaching, and community engagement—illustrating practical projects, networking,
   and pedagogical work as the vehicles for growth.
 
-  Core: The unifying idea is that continuous, community‑centered, project‑based learning—combining
-  hands‑on applied work, open‑source contribution, mentorship, clear communication,
-  and judicious use of AI tools—serves as the most effective pathway to build job‑ready
+  Core: The unifying idea is that continuous, community-centered, project-based learning—combining
+  hands-on applied work, open-source contribution, mentorship, clear communication,
+  and judicious use of AI tools—serves as the most effective pathway to build job-ready
   skills, bridge disciplines, and create real-world impact in data science and ML.'
 ---
 Links:

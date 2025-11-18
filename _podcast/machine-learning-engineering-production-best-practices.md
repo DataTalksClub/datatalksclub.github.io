@@ -80,7 +80,7 @@ quotableClips:
   startOffset: 2173
   url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=2173
   endOffset: 2357
-- name: 'Novel Algorithm Risks: Transfer learning vs building white‑paper solutions'
+- name: 'Novel Algorithm Risks: Transfer learning vs building white-paper solutions'
   startOffset: 2357
   url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=2357
   endOffset: 2663
@@ -114,7 +114,7 @@ quotableClips:
   startOffset: 3553
   url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=3553
   endOffset: 3747
-- name: 'AI‑First Tradeoffs: Talent needs, retention, and budget realities'
+- name: 'AI-First Tradeoffs: Talent needs, retention, and budget realities'
   startOffset: 3747
   url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=3747
   endOffset: 3874
@@ -126,7 +126,7 @@ quotableClips:
   startOffset: 4078
   url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=4078
   endOffset: 4371
-- name: 'Contact & Resources: LinkedIn, podcast appearances, and early‑access book'
+- name: 'Contact & Resources: LinkedIn, podcast appearances, and early-access book'
   startOffset: 4371
   url: https://www.youtube.com/watch?v=sMy8NYZnsy8&t=4371
   endOffset: 4301
@@ -724,7 +724,7 @@ transcript:
   sec: 2353
   time: '39:13'
   who: Ben
-- header: 'Novel Algorithm Risks: Transfer learning vs building white‑paper solutions'
+- header: 'Novel Algorithm Risks: Transfer learning vs building white-paper solutions'
 - line: Let's say we have something more complex – maybe a novel algorithm – that
     we want to try. We heard that right now deep learning is very popular, so we want
     to try it for our problem. Should we do this? Is this necessary? What kind of
@@ -1096,7 +1096,7 @@ transcript:
   sec: 3745
   time: '1:02:25'
   who: Ben
-- header: 'AI‑First Tradeoffs: Talent needs, retention, and budget realities'
+- header: 'AI-First Tradeoffs: Talent needs, retention, and budget realities'
 - line: One question from Akshat. “It makes sense to solve problems with uncool techniques.
     But there are companies who are AI First – they want to show off and say that
     they have AI capabilities. So what about them?”
@@ -1267,7 +1267,7 @@ transcript:
   sec: 4310
   time: '1:11:50'
   who: Ben
-- header: 'Contact & Resources: LinkedIn, podcast appearances, and early‑access book'
+- header: 'Contact & Resources: LinkedIn, podcast appearances, and early-access book'
 - line: Okay, thanks. So, let's finish. How can people find you?
   sec: 4371
   time: '1:12:51'

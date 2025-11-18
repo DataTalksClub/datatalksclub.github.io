@@ -21,18 +21,18 @@ description: 'Learn vector databases, LLMs & semantic retrieval: RAG, embeddings
 intro: How do modern search systems combine vector databases, LLMs, and semantic retrieval
   to deliver relevant, reliable results—and when should you adopt each component?
   In this episode Atita Arora walks through that question from both historical and
-  practical angles. A long‑time contributor to information retrieval projects (including
-  Apache OpenNLP and Quepid) and author of posts on vectors in e‑commerce and the
-  open‑source Chorus implementation, Atita brings hands‑on experience plus ongoing
-  research into evaluating RAG systems and a commitment to user‑centric metrics and
+  practical angles. A long-time contributor to information retrieval projects (including
+  Apache OpenNLP and Quepid) and author of posts on vectors in e-commerce and the
+  open-source Chorus implementation, Atita brings hands-on experience plus ongoing
+  research into evaluating RAG systems and a commitment to user-centric metrics and
   inclusivity. <br><br> We cover the evolution from Solr/Lucene and the Semantic Web
-  era to NLP for query‑content matching; practical vector topics such as Qdrant, plug‑and‑play
-  vector search, and migration tradeoffs; and end‑to‑end RAG pipelines—Whisper transcripts,
+  era to NLP for query-content matching; practical vector topics such as Qdrant, plug-and-play
+  vector search, and migration tradeoffs; and end-to-end RAG pipelines—Whisper transcripts,
   chunking and embedding strategies, LangChain orchestration, prompt design, citations,
-  and multi‑level evaluation with human‑in‑the‑loop testing. You’ll also hear about
-  session‑based recommendations, personalization approaches, and curated learning
+  and multi-level evaluation with human-in-the-loop testing. You’ll also hear about
+  session-based recommendations, personalization approaches, and curated learning
   resources like Intro to Information Retrieval and Vector Hub. Listen to gain actionable
-  guidance on building and evaluating vector search and retrieval‑augmented generation
+  guidance on building and evaluating vector search and retrieval-augmented generation
   systems while avoiding common pitfalls like LLM hallucinations.
 dateadded: 2024-01-07
 duration: PT00H59M13S
@@ -57,7 +57,7 @@ quotableClips:
   startOffset: 689
   url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=689
   endOffset: 1021
-- name: 'Vector databases overview: Qdrant and plug‑and‑play vector search'
+- name: 'Vector databases overview: Qdrant and plug-and-play vector search'
   startOffset: 1021
   url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=1021
   endOffset: 1227
@@ -65,7 +65,7 @@ quotableClips:
   startOffset: 1227
   url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=1227
   endOffset: 1380
-- name: 'Evolution of search: NLP, personalization, learning‑to‑rank and LLMs'
+- name: 'Evolution of search: NLP, personalization, learning-to-rank and LLMs'
   startOffset: 1380
   url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=1380
   endOffset: 1838
@@ -89,19 +89,19 @@ quotableClips:
   startOffset: 2569
   url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=2569
   endOffset: 2889
-- name: 'RAG evaluation: multi‑level metrics, offline tests and human‑in‑the‑loop'
+- name: 'RAG evaluation: multi-level metrics, offline tests and human-in-the-loop'
   startOffset: 2889
   url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=2889
   endOffset: 3052
-- name: 'Evaluation reading: Human‑in‑the‑Loop and practical methodologies'
+- name: 'Evaluation reading: Human-in-the-Loop and practical methodologies'
   startOffset: 3052
   url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3052
   endOffset: 3127
-- name: 'Vector databases for ML: session‑based recommendations and re‑ranking'
+- name: 'Vector databases for ML: session-based recommendations and re-ranking'
   startOffset: 3127
   url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3127
   endOffset: 3294
-- name: 'Personalization approaches: session‑based vs collaborative filtering'
+- name: 'Personalization approaches: session-based vs collaborative filtering'
   startOffset: 3294
   url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3294
   endOffset: 3470
@@ -110,7 +110,7 @@ quotableClips:
   startOffset: 3470
   url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3470
   endOffset: 3624
-- name: Episode wrap‑up, links and next steps
+- name: Episode wrap-up, links and next steps
   startOffset: 3624
   url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3624
   endOffset: 3553
@@ -383,7 +383,7 @@ transcript:
   sec: 813
   time: '13:33'
   who: Atita
-- header: 'Vector databases overview: Qdrant and plug‑and‑play vector search'
+- header: 'Vector databases overview: Qdrant and plug-and-play vector search'
 - line: Qdrant is a vector database, right?
   sec: 1021
   time: '17:01'
@@ -504,7 +504,7 @@ transcript:
   sec: 1244
   time: '20:44'
   who: Atita
-- header: 'Evolution of search: NLP, personalization, learning‑to‑rank and LLMs'
+- header: 'Evolution of search: NLP, personalization, learning-to-rank and LLMs'
 - line: As somebody who has worked for 15 years in this area, you probably started
     with creating indices for Lucene in something similar to MapReduce without Hadoop
     in there. Now it has changed significantly since then. So now we’re talking about
@@ -948,7 +948,7 @@ transcript:
   sec: 2887
   time: '48:07'
   who: Atita
-- header: 'RAG evaluation: multi‑level metrics, offline tests and human‑in‑the‑loop'
+- header: 'RAG evaluation: multi-level metrics, offline tests and human-in-the-loop'
 - line: And then we were talking about evaluation because, right now, I have this
     RAG system with all the podcasts transcripts, but now I want to see if it's working
     fine. I can, of course, go ahead and test it – make 3, 4, 5 queries and then see,
@@ -985,7 +985,7 @@ transcript:
   sec: 2954
   time: '49:14'
   who: Atita
-- header: 'Evaluation reading: Human‑in‑the‑Loop and practical methodologies'
+- header: 'Evaluation reading: Human-in-the-Loop and practical methodologies'
 - line: So there's a book you mentioned, Human in the Loop. It's a book from Manning,
     right? [Atita agrees] It’s by Robert Monarch.
   sec: 3052
@@ -1023,7 +1023,7 @@ transcript:
   sec: 3122
   time: '52:02'
   who: Alexey
-- header: 'Vector databases for ML: session‑based recommendations and re‑ranking'
+- header: 'Vector databases for ML: session-based recommendations and re-ranking'
 - line: I noticed that we have a question. The question is from Taras. Taras is asking,
     “Is there any application of vector databases for machine learning? For instance,
     could it be used for making the training of deep learning models faster? Maybe
@@ -1070,7 +1070,7 @@ transcript:
   sec: 3288
   time: '54:48'
   who: Atita
-- header: 'Personalization approaches: session‑based vs collaborative filtering'
+- header: 'Personalization approaches: session-based vs collaborative filtering'
 - line: What you mentioned is… With collaborative filtering, we would need to re-do
     the whole thing, right? Then the vectors we do from another training will be super
     different from the first training. What you mentioned right now with clicks updating
@@ -1203,7 +1203,7 @@ transcript:
   sec: 3621
   time: '1:00:21'
   who: Atita
-- header: Episode wrap‑up, links and next steps
+- header: Episode wrap-up, links and next steps
 - line: Yes. So please make a post when you publish that evaluation article. With
     that, I think, that's all we have time for today. Atita, thanks a lot for joining
     us today.
@@ -1237,10 +1237,10 @@ transcript:
   time: '1:01:08'
   who: Atita
 context: 'Search today is less about keywords and more about constructing a reliable
-  retrieval‑plus‑generation system: the core through‑line is that effective modern
+  retrieval-plus-generation system: the core through-line is that effective modern
   search combines classical IR principles (indexing, ranking, evaluation) with semantic
   vector representations, embedding stores or vector databases, and LLMs—stitched
-  together by careful ingestion, orchestration, prompt design, and human‑in‑the‑loop
+  together by careful ingestion, orchestration, prompt design, and human-in-the-loop
   evaluation—to deliver accurate, contextualized, and personalized answers.'
 ---
 Links:

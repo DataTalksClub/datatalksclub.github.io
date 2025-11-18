@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3vF1B2mKwImsVC7h3NIDJW
   apple: https://podcasts.apple.com/us/podcast/transitioning-from-project-management-to-data-science/id1541710331?i=1000516467544
 
-description: 'Discover how project managers switch to data science: master machine learning, Python, CRISP‑DM, build a portfolio, and land data roles faster.'
-intro: 'How do you move from project management into a data science career — and what skills, tools, and courses actually matter? In this episode, Ksenia Legostay, Manager/Data Scientist at momox GmbH, walks through her transition after four years as a project manager into three years researching fraud and anomaly detection and earning a degree in data analysis. We cover career foundations, the difference between analytics and data science, and a concrete learning strategy: assess strengths, target gaps, and build core skills in programming, statistics, and domain expertise. <br><br> Ksenia outlines recommended coursework (machine learning, time series, graph analysis), online resources including mlcourse.ai, and a practical tools progression from spreadsheets and BI (Tableau/Trifacta) to Python and Pandas. She explains applying CRISP‑DM to structure projects, starting as a data analyst to build a portfolio, using Kaggle and community resources (OpenDataScience, DataTalks), and preparing for production with Git, testing, Docker, and Clean Code. Listen for actionable advice on domain specialization (fraud detection, node2vec), realistic job search expectations, part‑time learning plans, and essential math topics — a clear roadmap for transitioning to data science.'
+description: 'Discover how project managers switch to data science: master machine learning, Python, CRISP-DM, build a portfolio, and land data roles faster.'
+intro: 'How do you move from project management into a data science career — and what skills, tools, and courses actually matter? In this episode, Ksenia Legostay, Manager/Data Scientist at momox GmbH, walks through her transition after four years as a project manager into three years researching fraud and anomaly detection and earning a degree in data analysis. We cover career foundations, the difference between analytics and data science, and a concrete learning strategy: assess strengths, target gaps, and build core skills in programming, statistics, and domain expertise. <br><br> Ksenia outlines recommended coursework (machine learning, time series, graph analysis), online resources including mlcourse.ai, and a practical tools progression from spreadsheets and BI (Tableau/Trifacta) to Python and Pandas. She explains applying CRISP-DM to structure projects, starting as a data analyst to build a portfolio, using Kaggle and community resources (OpenDataScience, DataTalks), and preparing for production with Git, testing, Docker, and Clean Code. Listen for actionable advice on domain specialization (fraud detection, node2vec), realistic job search expectations, part-time learning plans, and essential math topics — a clear roadmap for transitioning to data science.'
 topics:
 - career transition
 - project management
@@ -78,7 +78,7 @@ quotableClips:
   startOffset: 1352
   url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=1352
   endOffset: 1820
-- name: 'Project Frameworks: using CRISP‑DM to structure data projects'
+- name: 'Project Frameworks: using CRISP-DM to structure data projects'
   startOffset: 1820
   url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=1820
   endOffset: 1963
@@ -115,7 +115,7 @@ quotableClips:
   startOffset: 3075
   url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=3075
   endOffset: 3249
-- name: 'Part‑time Learning Plan: nanodegrees and structured six‑month paths'
+- name: 'Part-time Learning Plan: nanodegrees and structured six-month paths'
   startOffset: 3249
   url: https://www.youtube.com/watch?v=rBKezdb9jEc&t=3249
   endOffset: 3462
@@ -499,7 +499,7 @@ transcript:
   sec: 1778
   time: '29:38'
   who: Alexey
-- header: 'Project Frameworks: using CRISP‑DM to structure data projects'
+- header: 'Project Frameworks: using CRISP-DM to structure data projects'
 - line: Definitely. It's fortunate that it's already developed. I would recommend
     to use the standard of the industry in data mining — CRISP-DM framework. It's
     really convenient for data science projects. I also use it. It's nicely structured.
@@ -825,7 +825,7 @@ transcript:
   sec: 3209
   time: '53:29'
   who: Alexey
-- header: 'Part‑time Learning Plan: nanodegrees and structured six‑month paths'
+- header: 'Part-time Learning Plan: nanodegrees and structured six-month paths'
 - line: Yes, I think I can give some tips or some recommendations. First of all, start
     to be interested in data analysis and start to apply this at your work already.
     This would be the first step of getting involved in data analysis. Then, when

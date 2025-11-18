@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=qh6-HDhw2xY
 
 description: 'Discover data analytics: build a portfolio, master SQL & networking, interview prep, cold outreach and project READMEs to land job offers faster.'
-intro: 'How do you actually break into data analytics — and what combination of networking, portfolio work, SQL skills, and interview prep gets you hired? In this episode, Juan Pablo Murillo, an AI and data professional now at Google with prior roles as an Amazon Business Intelligence Engineer and data scientist at T‑Mobile, walks through a practical path from math grad to analytics roles. <br><br> We cover the full playbook: where SQL fits in the skills roadmap, building a data analytics portfolio (rpubs, EDA, visualizations, basic ML), portfolio hosting and repo hygiene, and how to present projects for hiring managers. Juan addresses bootcamp trade‑offs, networking wins from meetups, LinkedIn tactics for visibility, cold outreach and DIY internships, finding contract or pro bono work, and resume/STAR interview prep. He also discusses role realities for BI and analytics engineering and employer branding to build credibility. <br><br> Listen for actionable steps and specific tactics—how to structure three portfolio projects, message templates for outreach, and interview preparation tips—to help you break into data analytics, improve SQL interview readiness, and turn public work into job opportunities.'
+intro: 'How do you actually break into data analytics — and what combination of networking, portfolio work, SQL skills, and interview prep gets you hired? In this episode, Juan Pablo Murillo, an AI and data professional now at Google with prior roles as an Amazon Business Intelligence Engineer and data scientist at T-Mobile, walks through a practical path from math grad to analytics roles. <br><br> We cover the full playbook: where SQL fits in the skills roadmap, building a data analytics portfolio (rpubs, EDA, visualizations, basic ML), portfolio hosting and repo hygiene, and how to present projects for hiring managers. Juan addresses bootcamp trade-offs, networking wins from meetups, LinkedIn tactics for visibility, cold outreach and DIY internships, finding contract or pro bono work, and resume/STAR interview prep. He also discusses role realities for BI and analytics engineering and employer branding to build credibility. <br><br> Listen for actionable steps and specific tactics—how to structure three portfolio projects, message templates for outreach, and interview preparation tips—to help you break into data analytics, improve SQL interview readiness, and turn public work into job opportunities.'
 topics:
 - career transition
 - data analytics
@@ -62,7 +62,7 @@ quotableClips:
   startOffset: 1110
   url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=1110
   endOffset: 1217
-- name: 'Uncrowded Doors: Alternative Job‑Hunting Strategies'
+- name: 'Uncrowded Doors: Alternative Job-Hunting Strategies'
   startOffset: 1217
   url: https://www.youtube.com/watch?v=qh6-HDhw2xY&t=1217
   endOffset: 1286
@@ -443,7 +443,7 @@ transcript:
   sec: 1201
   time: '20:01'
   who: Alexey
-- header: 'Uncrowded Doors: Alternative Job‑Hunting Strategies'
+- header: 'Uncrowded Doors: Alternative Job-Hunting Strategies'
 - line: The market is tough for people without experience. If you're in that group,
     you have to hustle. You have to look for alternative ways to get in front of a
     hiring manager. You have to think outside the box. You have to look for the uncrowded

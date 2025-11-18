@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=gbjoFfrm4iw
 
 description: Discover differential privacy, federated learning and PETs - privacy engineering, consent UX fixes and compliance to reduce re-identification risk
-intro: 'How can teams build useful machine learning while respecting user privacy, compliance, and re‑identification risk? In this episode, Katharine Jarmul — privacy activist and Principal Data Scientist at ThoughtWorks Germany — walks through a practical Data Privacy Playbook focused on differential privacy, federated learning, privacy‑enhancing technologies (PETs) and consent UX. <br><br> Katharine draws on a career from data journalism and NLP to startup work at KI Protect and enterprise ML, explaining GDPR/CCPA/CPRA implications, cookie consent defaults, and strategies for pseudonymisation, encrypted ML and federated architectures. We cover consent and opt‑out UX, legal vs technical definitions of privacy, profiling and fingerprinting risks, and privacy‑friendly personalization like session‑based intent and ephemeral inference. <br><br> You’ll get concrete takeaways: why differential privacy matters (formal definition, use cases, Tumult and other libraries), common anonymization pitfalls (hashing, k‑anonymity, Netflix lessons), how PETs fit into system design, and generative AI privacy considerations including retention and localized model deployment. Listeners leave with actionable guidance on privacy engineering, data minimization, consent design, and resources to continue learning.'
+intro: 'How can teams build useful machine learning while respecting user privacy, compliance, and re-identification risk? In this episode, Katharine Jarmul — privacy activist and Principal Data Scientist at ThoughtWorks Germany — walks through a practical Data Privacy Playbook focused on differential privacy, federated learning, privacy-enhancing technologies (PETs) and consent UX. <br><br> Katharine draws on a career from data journalism and NLP to startup work at KI Protect and enterprise ML, explaining GDPR/CCPA/CPRA implications, cookie consent defaults, and strategies for pseudonymisation, encrypted ML and federated architectures. We cover consent and opt-out UX, legal vs technical definitions of privacy, profiling and fingerprinting risks, and privacy-friendly personalization like session-based intent and ephemeral inference. <br><br> You’ll get concrete takeaways: why differential privacy matters (formal definition, use cases, Tumult and other libraries), common anonymization pitfalls (hashing, k-anonymity, Netflix lessons), how PETs fit into system design, and generative AI privacy considerations including retention and localized model deployment. Listeners leave with actionable guidance on privacy engineering, data minimization, consent design, and resources to continue learning.'
 topics:
 - data governance
 - data privacy
@@ -48,7 +48,7 @@ quotableClips:
   startOffset: 693
   url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=693
   endOffset: 875
-- name: 'Cookie Consent & Opt‑Out UX: one‑click rejects and user behavior'
+- name: 'Cookie Consent & Opt-Out UX: one-click rejects and user behavior'
   startOffset: 875
   url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=875
   endOffset: 984
@@ -64,12 +64,12 @@ quotableClips:
   startOffset: 1358
   url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=1358
   endOffset: 1512
-- name: 'User Profiling & Fingerprinting: browser history, apps, and re‑identification
+- name: 'User Profiling & Fingerprinting: browser history, apps, and re-identification
     risks'
   startOffset: 1512
   url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=1512
   endOffset: 1815
-- name: 'Privacy‑Friendly Personalization: session‑based intent and ephemeral inference'
+- name: 'Privacy-Friendly Personalization: session-based intent and ephemeral inference'
   startOffset: 1815
   url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=1815
   endOffset: 1988
@@ -86,7 +86,7 @@ quotableClips:
   startOffset: 2450
   url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=2450
   endOffset: 2708
-- name: 'Anonymization Pitfalls: hashing, k‑anonymity, Netflix de‑anonymization lessons'
+- name: 'Anonymization Pitfalls: hashing, k-anonymity, Netflix de-anonymization lessons'
   startOffset: 2708
   url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=2708
   endOffset: 2820
@@ -99,7 +99,7 @@ quotableClips:
   startOffset: 3155
   url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=3155
   endOffset: 3569
-- name: 'Deploying Localized Models: Azure localization, fine‑tuning, and ownership'
+- name: 'Deploying Localized Models: Azure localization, fine-tuning, and ownership'
   startOffset: 3569
   url: https://www.youtube.com/watch?v=gbjoFfrm4iw&t=3569
   endOffset: 3675
@@ -403,7 +403,7 @@ transcript:
   sec: 872
   time: '14:32'
   who: Alexey
-- header: 'Cookie Consent & Opt‑Out UX: one‑click rejects and user behavior'
+- header: 'Cookie Consent & Opt-Out UX: one-click rejects and user behavior'
 - line: Because I think I've seen how the collected data gets shared and used in advertising
     optimization and I'm not a big fan of personalized advertising myself. I find
     it to be annoying. So I'd rather not participate if I can opt out. But I think
@@ -649,7 +649,7 @@ transcript:
   sec: 1511
   time: '25:11'
   who: Katharine
-- header: 'User Profiling & Fingerprinting: browser history, apps, and re‑identification
+- header: 'User Profiling & Fingerprinting: browser history, apps, and re-identification
     risks'
 - line: We talked about this website – about data engineering, right? [Katharine agrees]
     So maybe you can use the online advertisements as an example. I visit a website
@@ -734,7 +734,7 @@ transcript:
   sec: 1787
   time: '29:47'
   who: Alexey
-- header: 'Privacy‑Friendly Personalization: session‑based intent and ephemeral inference'
+- header: 'Privacy-Friendly Personalization: session-based intent and ephemeral inference'
 - line: Yeah. One of the things that I'm excited to see is that I think there's a
     lot more thinking through intent-based recommendation, so “What is the intent
     of the user? And how do we improve?” The first time I noticed it was, I think,
@@ -1006,7 +1006,7 @@ transcript:
   sec: 2676
   time: '44:36'
   who: Alexey
-- header: 'Anonymization Pitfalls: hashing, k‑anonymity, Netflix de‑anonymization
+- header: 'Anonymization Pitfalls: hashing, k-anonymity, Netflix de-anonymization
     lessons'
 - line: Those are kind of what I would call more “old school” methods of anonymization.
     People might have also heard about K-anonymity, which is another one of what I
@@ -1296,7 +1296,7 @@ transcript:
   sec: 3525
   time: '58:45'
   who: Alexey
-- header: 'Deploying Localized Models: Azure localization, fine‑tuning, and ownership'
+- header: 'Deploying Localized Models: Azure localization, fine-tuning, and ownership'
 - line: Yeah. But, again, I don't think the responsibility should ever lie on the
     user. You're doing exactly the way the product is designed to be used. It is not
     your fault that it's not thought through. How you could be like, “Oh, hey. For

@@ -92,7 +92,7 @@ quotableClips:
   startOffset: 2385
   url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=2385
   endOffset: 2457
-- name: 'Work Location: Choosing Remote or On‑Site Projects'
+- name: 'Work Location: Choosing Remote or On-Site Projects'
   startOffset: 2457
   url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=2457
   endOffset: 2492
@@ -933,7 +933,7 @@ transcript:
   sec: 2389
   time: '39:49'
   who: Adrian
-- header: 'Work Location: Choosing Remote or On‑Site Projects'
+- header: 'Work Location: Choosing Remote or On-Site Projects'
 - line: When you work with your clients, do you normally choose if you want to work
     remotely or on-site, or is it up to the client?
   sec: 2457

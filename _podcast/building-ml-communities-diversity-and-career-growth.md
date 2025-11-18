@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=SRUwwvk_YCk
 
 description: Discover how to build and scale a data science community, boost diversity, deploy ML, and accelerate career growth with mentoring & hiring strategies
-intro: 'How do you build and scale a data science community that actually advances diversity, supports machine learning deployment, and accelerates career growth? In this episode, Dânia Meira — AI Guild co‑founder, data scientist, teacher and speaker with a Master’s in Computer Science (AI) — walks through her journey from applied math and marketing analytics to founding a global data science community in Berlin. <br><br> We cover practical community building: turning women’s meetups into monthly dinners and an international membership, curating meetup content and the Datalift Summit, and policies like visibility-first speaker invites, codes of conduct, and misconduct response. Dânia explains why diversity (gender, nationality, neurodiversity) improves product fit and market reach, how to create psychological safety, and how to source and train diverse talent for regulated industries. She also outlines a vendor‑agnostic consulting model for machine learning deployment, community‑to‑client matching, and scaling from a freelance network to full‑time teams.'
+intro: 'How do you build and scale a data science community that actually advances diversity, supports machine learning deployment, and accelerates career growth? In this episode, Dânia Meira — AI Guild co-founder, data scientist, teacher and speaker with a Master’s in Computer Science (AI) — walks through her journey from applied math and marketing analytics to founding a global data science community in Berlin. <br><br> We cover practical community building: turning women’s meetups into monthly dinners and an international membership, curating meetup content and the Datalift Summit, and policies like visibility-first speaker invites, codes of conduct, and misconduct response. Dânia explains why diversity (gender, nationality, neurodiversity) improves product fit and market reach, how to create psychological safety, and how to source and train diverse talent for regulated industries. She also outlines a vendor-agnostic consulting model for machine learning deployment, community-to-client matching, and scaling from a freelance network to full-time teams.'
 topics:
 - data science
 - machine learning
@@ -32,7 +32,7 @@ quotableClips:
   startOffset: 0
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=0
   endOffset: 94
-- name: 'Guest Introduction: Dania — AI Guild co‑founder, machine learning background'
+- name: 'Guest Introduction: Dania — AI Guild co-founder, machine learning background'
   startOffset: 94
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=94
   endOffset: 152
@@ -40,7 +40,7 @@ quotableClips:
   startOffset: 152
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=152
   endOffset: 216
-- name: 'Move to Berlin: Startup roles and building end‑to‑end data skills'
+- name: 'Move to Berlin: Startup roles and building end-to-end data skills'
   startOffset: 216
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=216
   endOffset: 319
@@ -60,7 +60,7 @@ quotableClips:
   startOffset: 921
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=921
   endOffset: 1005
-- name: 'Datalift Summit Origin: Organizing the first in‑person conference post‑COVID'
+- name: 'Datalift Summit Origin: Organizing the first in-person conference post-COVID'
   startOffset: 1005
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=1005
   endOffset: 1191
@@ -85,7 +85,7 @@ quotableClips:
   startOffset: 1884
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=1884
   endOffset: 2023
-- name: 'Consulting Model: Vendor‑agnostic machine learning deployment support'
+- name: 'Consulting Model: Vendor-agnostic machine learning deployment support'
   startOffset: 2023
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=2023
   endOffset: 2061
@@ -105,11 +105,11 @@ quotableClips:
   startOffset: 2736
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=2736
   endOffset: 2970
-- name: 'Responding to Misconduct: Reporting, case‑by‑case handling, and consequences'
+- name: 'Responding to Misconduct: Reporting, case-by-case handling, and consequences'
   startOffset: 2970
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=2970
   endOffset: 3228
-- name: 'Community‑to‑Client Matching: Leveraging member expertise for projects'
+- name: 'Community-to-Client Matching: Leveraging member expertise for projects'
   startOffset: 3228
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3228
   endOffset: 3373
@@ -117,7 +117,7 @@ quotableClips:
   startOffset: 3373
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3373
   endOffset: 3476
-- name: 'Scaling Strategy: Freelance network today, hiring full‑time as demand grows'
+- name: 'Scaling Strategy: Freelance network today, hiring full-time as demand grows'
   startOffset: 3476
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3476
   endOffset: 3551
@@ -129,14 +129,14 @@ quotableClips:
   startOffset: 3642
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3642
   endOffset: 3678
-- name: Closing Remarks and Sign‑off
+- name: Closing Remarks and Sign-off
   startOffset: 3678
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3678
   endOffset: 3584
 
 transcript:
 - header: Podcast Introduction
-- header: 'Guest Introduction: Dania — AI Guild co‑founder, machine learning background'
+- header: 'Guest Introduction: Dania — AI Guild co-founder, machine learning background'
 - line: This week, we'll talk about diversity and leadership in data science and AI.
     We have a special guest today, Dania. Dania is a co-founder and director at the
     AI Guild, where she works with companies scaling data analytics and machine learning.
@@ -181,7 +181,7 @@ transcript:
   sec: 214
   time: '3:34'
   who: Alexey
-- header: 'Move to Berlin: Startup roles and building end‑to‑end data skills'
+- header: 'Move to Berlin: Startup roles and building end-to-end data skills'
 - line: Yeah. At this point, I was finishing my Master's, and I was thinking about
     working abroad. It happened that by chance, I got approached via LinkedIn for
     a job as a data scientist in Berlin. It was a perfect match. They were looking
@@ -418,7 +418,7 @@ transcript:
   sec: 963
   time: '16:03'
   who: Alexey
-- header: 'Datalift Summit Origin: Organizing the first in‑person conference post‑COVID'
+- header: 'Datalift Summit Origin: Organizing the first in-person conference post-COVID'
 - line: Yes. There's a lot going on. Yes. The monthly dinners were how we started.
     We always had the idea to get people together in a bigger group. We have the local
     dinners, but what about one big event? One where everyone travels to Berlin, which
@@ -728,7 +728,7 @@ transcript:
   sec: 1918
   time: '31:58'
   who: Dania
-- header: 'Consulting Model: Vendor‑agnostic machine learning deployment support'
+- header: 'Consulting Model: Vendor-agnostic machine learning deployment support'
 - line: You told us the story of how the AI Guild started. You had these meetups,
     these sessions, where you wanted to connect with other women in the field, and
     then eventually it grew to dinners and then the Guild itself. This was probably
@@ -992,7 +992,7 @@ transcript:
   sec: 2930
   time: '48:50'
   who: Alexey
-- header: 'Responding to Misconduct: Reporting, case‑by‑case handling, and consequences'
+- header: 'Responding to Misconduct: Reporting, case-by-case handling, and consequences'
 - line: This is a big challenge. We were talking about this diversity aspect in terms
     of culture or nationality. In different countries, you have different behavior
     that is accepted or not accepted. That's what I mean with the hardline. Some things
@@ -1085,7 +1085,7 @@ transcript:
   sec: 3210
   time: '53:30'
   who: Dania
-- header: 'Community‑to‑Client Matching: Leveraging member expertise for projects'
+- header: 'Community-to-Client Matching: Leveraging member expertise for projects'
 - line: I wanted to talk a bit more about the Guild. Right now, you're a for-profit
     organization and you offer consulting. So how does it work? Companies approach
     you saying, “Hey, we want to deploy some models.” Help us.” Something like that?
@@ -1173,7 +1173,7 @@ transcript:
   sec: 3430
   time: '57:10'
   who: Dania
-- header: 'Scaling Strategy: Freelance network today, hiring full‑time as demand grows'
+- header: 'Scaling Strategy: Freelance network today, hiring full-time as demand grows'
 - line: I see an interesting question from Azif. “What if you have too many customers
     and cannot cope with the numbers because there are just two of you?” How do you
     do this? Do you start finding somebody in the community to delegate work to?
@@ -1282,7 +1282,7 @@ transcript:
   sec: 3677
   time: '1:01:17'
   who: Dania
-- header: Closing Remarks and Sign‑off
+- header: Closing Remarks and Sign-off
 - line: '[laughs] Okay. Thanks a lot. Thanks, everyone, for joining us today. Today
     is Friday, so everyone – have a great weekend.'
   sec: 3678

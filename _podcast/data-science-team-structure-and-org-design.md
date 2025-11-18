@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=F_rJ4fg5ZEA
 
 description: 'Discover how to design high-impact data science orgs: centralized vs embedded models, staffing ratios and experimentation to speed decisions and scale impact.'
-intro: 'How should you structure a data science organization to maximize product impact: centralized, embedded, or a hybrid of both? In this episode, Lisa Cohen, Director of Data Science at Twitter who leads 70 data scientists and previously led Azure Customer Growth Analytics at Microsoft, walks through practical tradeoffs and implementation patterns for designing high‑impact data science orgs. <br><br> We cover centralized vs embedded models and what “embedding” really means for reporting lines and day‑to‑day integration with feature teams; Twitter’s hybrid per‑division approach for product and ads; staffing guidance (including an engineers‑to‑data‑scientist ratio reference); and rhythms for cross‑functional planning, OKRs, and dependency management. Lisa also discusses experimentation and experiment review, defining success metrics and ship criteria, knowledge sharing practices, differences between analytics and ML‑heavy data science, and how to partner with product, engineering, design, and research. <br><br> Listen to gain actionable guidance on choosing an org model, setting staffing expectations, establishing experiment and metrics practices, and aligning data pipelines, data quality, and OKRs to drive data‑driven product decisions.'
+intro: 'How should you structure a data science organization to maximize product impact: centralized, embedded, or a hybrid of both? In this episode, Lisa Cohen, Director of Data Science at Twitter who leads 70 data scientists and previously led Azure Customer Growth Analytics at Microsoft, walks through practical tradeoffs and implementation patterns for designing high-impact data science orgs. <br><br> We cover centralized vs embedded models and what “embedding” really means for reporting lines and day-to-day integration with feature teams; Twitter’s hybrid per-division approach for product and ads; staffing guidance (including an engineers-to-data-scientist ratio reference); and rhythms for cross-functional planning, OKRs, and dependency management. Lisa also discusses experimentation and experiment review, defining success metrics and ship criteria, knowledge sharing practices, differences between analytics and ML-heavy data science, and how to partner with product, engineering, design, and research. <br><br> Listen to gain actionable guidance on choosing an org model, setting staffing expectations, establishing experiment and metrics practices, and aligning data pipelines, data quality, and OKRs to drive data-driven product decisions.'
 topics:
 - data science
 - data teams
@@ -39,7 +39,7 @@ quotableClips:
   startOffset: 387
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=387
   endOffset: 514
-- name: 'Embedding Explained: Reporting lines vs day‑to‑day integration with feature
+- name: 'Embedding Explained: Reporting lines vs day-to-day integration with feature
     teams'
   startOffset: 514
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=514
@@ -52,15 +52,15 @@ quotableClips:
   startOffset: 926
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=926
   endOffset: 1123
-- name: 'Team Rhythms & Planning: Cross‑functional ceremonies and dependency management'
+- name: 'Team Rhythms & Planning: Cross-functional ceremonies and dependency management'
   startOffset: 1123
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1123
   endOffset: 1318
-- name: 'Cross‑Functional Alignment: OKRs and aligning goals across levels'
+- name: 'Cross-Functional Alignment: OKRs and aligning goals across levels'
   startOffset: 1318
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1318
   endOffset: 1493
-- name: 'Twitter’s Approach: Hybrid per‑division model for product and ads'
+- name: 'Twitter’s Approach: Hybrid per-division model for product and ads'
   startOffset: 1493
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1493
   endOffset: 1548
@@ -68,7 +68,7 @@ quotableClips:
   startOffset: 1548
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1548
   endOffset: 1765
-- name: 'Centralized Model: Knowledge sharing, consistency, and context‑building challenges'
+- name: 'Centralized Model: Knowledge sharing, consistency, and context-building challenges'
   startOffset: 1765
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1765
   endOffset: 1852
@@ -81,7 +81,7 @@ quotableClips:
   startOffset: 1988
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=1988
   endOffset: 2209
-- name: 'Staffing Guidance: Engineers‑to‑data‑scientist ratios and ML partnerships
+- name: 'Staffing Guidance: Engineers-to-data-scientist ratios and ML partnerships
     (8:1 reference)'
   startOffset: 2209
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=2209
@@ -91,7 +91,7 @@ quotableClips:
   startOffset: 2539
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=2539
   endOffset: 2769
-- name: 'Product Partnership: Co‑ownership with product, engineering, design, and
+- name: 'Product Partnership: Co-ownership with product, engineering, design, and
     research'
   startOffset: 2769
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=2769
@@ -101,7 +101,7 @@ quotableClips:
   startOffset: 2840
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=2840
   endOffset: 3044
-- name: 'Analytics vs Data Science: Analysts driving dashboards vs ML‑heavy DS work'
+- name: 'Analytics vs Data Science: Analysts driving dashboards vs ML-heavy DS work'
   startOffset: 3044
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3044
   endOffset: 3150
@@ -110,11 +110,11 @@ quotableClips:
   startOffset: 3150
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3150
   endOffset: 3256
-- name: 'Resolving Conflicts: Data‑driven opportunity sizing for prioritization decisions'
+- name: 'Resolving Conflicts: Data-driven opportunity sizing for prioritization decisions'
   startOffset: 3256
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3256
   endOffset: 3348
-- name: 'Data‑Driven Product Innovation: Guiding roadmap decisions with trusted data'
+- name: 'Data-Driven Product Innovation: Guiding roadmap decisions with trusted data'
   startOffset: 3348
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3348
   endOffset: 3451
@@ -127,7 +127,7 @@ quotableClips:
   startOffset: 3578
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3578
   endOffset: 3603
-- name: Episode Wrap‑Up and Closing Remarks
+- name: Episode Wrap-Up and Closing Remarks
   startOffset: 3603
   url: https://www.youtube.com/watch?v=F_rJ4fg5ZEA&t=3603
   endOffset: 3535
@@ -266,7 +266,7 @@ transcript:
   sec: 498
   time: '8:18'
   who: Alexey
-- header: 'Embedding Explained: Reporting lines vs day‑to‑day integration with feature
+- header: 'Embedding Explained: Reporting lines vs day-to-day integration with feature
     teams'
 - line: Yeah, we can go back maybe to the Azure example. So we have a whole organization,
     with the VP managing the managers across the various areas – all data science
@@ -458,7 +458,7 @@ transcript:
   sec: 1101
   time: '18:21'
   who: Lisa
-- header: 'Team Rhythms & Planning: Cross‑functional ceremonies and dependency management'
+- header: 'Team Rhythms & Planning: Cross-functional ceremonies and dependency management'
 - line: But I guess a team has to have some sort of rhythm – some sort of ceremonies
     and things like this. For example, you start with planning, then you work for
     two weeks, then you finish with a retrospective – some sort of process, right?
@@ -517,7 +517,7 @@ transcript:
   sec: 1239
   time: '20:39'
   who: Lisa
-- header: 'Cross‑Functional Alignment: OKRs and aligning goals across levels'
+- header: 'Cross-Functional Alignment: OKRs and aligning goals across levels'
 - line: But on the surface, it looks a bit complicated, right? Because you have a
     lot of functions that are not really connected, if you think about the hierarchical
     structures, but they still somehow work together and move towards the same direction
@@ -567,7 +567,7 @@ transcript:
   sec: 1443
   time: '24:03'
   who: Lisa
-- header: 'Twitter’s Approach: Hybrid per‑division model for product and ads'
+- header: 'Twitter’s Approach: Hybrid per-division model for product and ads'
 - line: I'm taking a lot of notes because I want to come back to this and talk about
     that. But I also wanted to take a step back and, again, come back to this “centralized
     vs decentralized”. I think we've talked about what we can call “centralized,”
@@ -650,7 +650,7 @@ transcript:
   sec: 1729
   time: '28:49'
   who: Lisa
-- header: 'Centralized Model: Knowledge sharing, consistency, and context‑building
+- header: 'Centralized Model: Knowledge sharing, consistency, and context-building
     challenges'
 - line: Okay. And what are the cons of the centralized approach? What are the disadvantages?
   sec: 1765
@@ -793,7 +793,7 @@ transcript:
   sec: 2186
   time: '36:26'
   who: Lisa
-- header: 'Staffing Guidance: Engineers‑to‑data‑scientist ratios and ML partnerships
+- header: 'Staffing Guidance: Engineers-to-data-scientist ratios and ML partnerships
     (8:1 reference)'
 - line: We have a question, “How many data scientists will I need? How do I estimate
     this before starting a project?”
@@ -981,7 +981,7 @@ transcript:
   sec: 2755
   time: '45:55'
   who: Lisa
-- header: 'Product Partnership: Co‑ownership with product, engineering, design, and
+- header: 'Product Partnership: Co-ownership with product, engineering, design, and
     research'
 - line: But you still can work from home if you want to, right? Okay. There was something
     else that I wanted to talk about, which is – I took a look at your LinkedIn and
@@ -1054,7 +1054,7 @@ transcript:
   sec: 2890
   time: '48:10'
   who: Lisa
-- header: 'Analytics vs Data Science: Analysts driving dashboards vs ML‑heavy DS work'
+- header: 'Analytics vs Data Science: Analysts driving dashboards vs ML-heavy DS work'
 - line: Do you have product analysts? Or is it mostly data scientists who do analytics?
   sec: 3044
   time: '50:44'
@@ -1121,7 +1121,7 @@ transcript:
   sec: 3178
   time: '52:58'
   who: Lisa
-- header: 'Resolving Conflicts: Data‑driven opportunity sizing for prioritization
+- header: 'Resolving Conflicts: Data-driven opportunity sizing for prioritization
     decisions'
 - line: How often does it happen – maybe not specifically at Twitter, but just in
     your experience – that in this kind of setup, different functions have conflicting
@@ -1158,7 +1158,7 @@ transcript:
   sec: 3347
   time: '55:47'
   who: Lisa
-- header: 'Data‑Driven Product Innovation: Guiding roadmap decisions with trusted
+- header: 'Data-Driven Product Innovation: Guiding roadmap decisions with trusted
     data'
 - line: Okay. [chuckles] Coming back to this sentence, “partnering closely with product
     management, engineering, design and research,” we covered that – “to pursue data-driven
@@ -1255,7 +1255,7 @@ transcript:
   sec: 3595
   time: '59:55'
   who: Alexey
-- header: Episode Wrap‑Up and Closing Remarks
+- header: Episode Wrap-Up and Closing Remarks
 - line: This is great, yeah. I love the conversation. Thank you for driving through
     all the different topics I’m exploring here. Great to chat with you, as always.
   sec: 3603

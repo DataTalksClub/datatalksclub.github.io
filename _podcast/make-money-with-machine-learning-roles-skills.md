@@ -16,7 +16,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/new-roles-key-skills-to-monetize-machine-learning-vin/id1541710331?i=1000512720281
 
 description: 'Master monetize machine learning: convert ML models into ARR/MRR using MLOps and team roles to drive revenue, adoption and measurable business impact.'
-intro: How do you turn machine learning models into recurring revenue—ARR and MRR—rather than just a cost center? In this episode, Vin Vashishta, an applied ML practitioner and engineer strategist who has brought products to market with ARR in the $100’s of millions, breaks down practical steps to monetize machine learning. <br><br> We explore why a revenue-first mindset changes ML strategy, how to translate models into C‑suite metrics like ARR/MRR, and when to prioritize revenue versus cost‑savings. Vin outlines the three core team roles for monetization, the research artifacts and experimental process that make models production-ready, and real category-creation examples from companies such as Amazon, Google, and Stitch Fix. For startups he explains the “angry users + data scientists” product recipe. <br><br> You’ll also get frameworks for ML product management—turning strategy into researchable use cases—plus guidance on architecture, MLOps tradeoffs, pricing strategy, model reliability, and product metrics for adoption (usage, task time, decision quality, pricing impact). This episode delivers actionable guidance for leaders, product managers, and engineers seeking to convert ML into sustainable ARR and MRR
+intro: How do you turn machine learning models into recurring revenue—ARR and MRR—rather than just a cost center? In this episode, Vin Vashishta, an applied ML practitioner and engineer strategist who has brought products to market with ARR in the $100’s of millions, breaks down practical steps to monetize machine learning. <br><br> We explore why a revenue-first mindset changes ML strategy, how to translate models into C-suite metrics like ARR/MRR, and when to prioritize revenue versus cost-savings. Vin outlines the three core team roles for monetization, the research artifacts and experimental process that make models production-ready, and real category-creation examples from companies such as Amazon, Google, and Stitch Fix. For startups he explains the “angry users + data scientists” product recipe. <br><br> You’ll also get frameworks for ML product management—turning strategy into researchable use cases—plus guidance on architecture, MLOps tradeoffs, pricing strategy, model reliability, and product metrics for adoption (usage, task time, decision quality, pricing impact). This episode delivers actionable guidance for leaders, product managers, and engineers seeking to convert ML into sustainable ARR and MRR
 topics:
 - machine learning
 - monetization
@@ -39,11 +39,11 @@ quotableClips:
   startOffset: 477
   url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=477
   endOffset: 727
-- name: 'ARR & MRR: translating models into C‑suite revenue metrics'
+- name: 'ARR & MRR: translating models into C-suite revenue metrics'
   startOffset: 727
   url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=727
   endOffset: 959
-- name: 'Revenue vs. cost‑savings: business model metrics for ML products'
+- name: 'Revenue vs. cost-savings: business model metrics for ML products'
   startOffset: 959
   url: https://www.youtube.com/watch?v=xCjzA_8S4kI&t=959
   endOffset: 1215
@@ -336,7 +336,7 @@ transcript:
   sec: 712
   time: '11:52'
   who: Vin
-- header: 'ARR & MRR: translating models into C‑suite revenue metrics'
+- header: 'ARR & MRR: translating models into C-suite revenue metrics'
 - line: We definitely will go there, but it's interesting to know how companies actually
     evaluate the value that data scientists can bring. Coming back to your LinkedIn
     profile. You bio mentions that you built and brought products to market with ARR
@@ -400,7 +400,7 @@ transcript:
   sec: 926
   time: '15:26'
   who: Alexey
-- header: 'Revenue vs. cost‑savings: business model metrics for ML products'
+- header: 'Revenue vs. cost-savings: business model metrics for ML products'
 - line: What are the other important things that people on this level care about?
     In addition to this annual recurring revenue and monthly recurring revenue. What
     are the other money related metrics that they care about?

@@ -26,13 +26,13 @@ intro: How do you reduce bias in credit scoring models without sacrificing expla
   debt and repossession. <br><br> Tamara explains Fairlearn’s group fairness tools,
   visualization and mitigation methods, and the tradeoffs between false positives,
   false negatives, and demographic parity. She discusses how to choose sensitive groups
-  in domain‑specific settings, the limits of automation, the need for human‑in‑the‑loop
+  in domain-specific settings, the limits of automation, the need for human-in-the-loop
   systems, and who in an organization should decide fairness tradeoffs. The episode
   also covers interpretability and explainable models — inspection tools, partial
-  dependence, and cross‑library integration with scikit‑learn and estimator APIs —
+  dependence, and cross-library integration with scikit-learn and estimator APIs —
   plus practical concerns like secure model serialization and community contribution
   paths. <br><br> Listen to learn actionable guidance on auditing and mitigating credit
-  scoring bias, building explainable models, and integrating Fairlearn into real‑world
+  scoring bias, building explainable models, and integrating Fairlearn into real-world
   ML workflows
 dateadded: 2025-02-24
 duration: PT00H59M14S
@@ -41,8 +41,8 @@ quotableClips:
   startOffset: 0
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=0
   endOffset: 151
-- name: 'Guest Introduction: Tamara’s Open‑Source Roles (Fairlearn, scikit‑learn,
-    Skope‑Rules)'
+- name: 'Guest Introduction: Tamara’s Open-Source Roles (Fairlearn, scikit-learn,
+    Skope-Rules)'
   startOffset: 151
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=151
   endOffset: 198
@@ -78,7 +78,7 @@ quotableClips:
   startOffset: 824
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=824
   endOffset: 892
-- name: 'Fairness in AI: Credit Scoring Use Case and Real‑World Impact'
+- name: 'Fairness in AI: Credit Scoring Use Case and Real-World Impact'
   startOffset: 892
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=892
   endOffset: 910
@@ -94,7 +94,7 @@ quotableClips:
   startOffset: 1291
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1291
   endOffset: 1444
-- name: 'Sensitive Group Selection: Domain‑Specific Decisions in Credit Models'
+- name: 'Sensitive Group Selection: Domain-Specific Decisions in Credit Models'
   startOffset: 1444
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1444
   endOffset: 1581
@@ -114,15 +114,15 @@ quotableClips:
   startOffset: 1991
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=1991
   endOffset: 2123
-- name: 'Moderation Case Study: Cross‑Functional Teams and Domain Expertise'
+- name: 'Moderation Case Study: Cross-Functional Teams and Domain Expertise'
   startOffset: 2123
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2123
   endOffset: 2233
-- name: 'Human‑in‑the‑Loop: Essential Component for Fair AI Systems'
+- name: 'Human-in-the-Loop: Essential Component for Fair AI Systems'
   startOffset: 2233
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2233
   endOffset: 2358
-- name: 'Joining Probable: From Open‑Source Contributions to a Role'
+- name: 'Joining Probable: From Open-Source Contributions to a Role'
   startOffset: 2358
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2358
   endOffset: 2457
@@ -134,7 +134,7 @@ quotableClips:
   startOffset: 2574
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2574
   endOffset: 2694
-- name: 'Cross‑Library Compatibility: Fairlearn, scikit‑learn, and Estimator APIs'
+- name: 'Cross-Library Compatibility: Fairlearn, scikit-learn, and Estimator APIs'
   startOffset: 2694
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=2694
   endOffset: 2780
@@ -150,7 +150,7 @@ quotableClips:
   startOffset: 3054
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3054
   endOffset: 3130
-- name: 'Contributing to Fairlearn: Discord, Good‑First Issues, and Sprints'
+- name: 'Contributing to Fairlearn: Discord, Good-First Issues, and Sprints'
   startOffset: 3130
   url: https://www.youtube.com/watch?v=sXU9vMDBjmk&t=3130
   endOffset: 3341
@@ -184,8 +184,8 @@ transcript:
   sec: 0
   time: 0:00
   who: Alexey
-- header: 'Guest Introduction: Tamara’s Open‑Source Roles (Fairlearn, scikit‑learn,
-    Skope‑Rules)'
+- header: 'Guest Introduction: Tamara’s Open-Source Roles (Fairlearn, scikit-learn,
+    Skope-Rules)'
 - line: Yes, that’s correct.
   sec: 151
   time: '2:31'
@@ -407,7 +407,7 @@ transcript:
   sec: 834
   time: '13:54'
   who: Tamara
-- header: 'Fairness in AI: Credit Scoring Use Case and Real‑World Impact'
+- header: 'Fairness in AI: Credit Scoring Use Case and Real-World Impact'
 - line: That sounds quite abstract. Can we narrow it down to AI?
   sec: 892
   time: '14:52'
@@ -518,7 +518,7 @@ transcript:
   sec: 1291
   time: '21:31'
   who: Tamara
-- header: 'Sensitive Group Selection: Domain‑Specific Decisions in Credit Models'
+- header: 'Sensitive Group Selection: Domain-Specific Decisions in Credit Models'
 - line: Okay, so what exactly does Fairlearn, or similar tools, provide? Let’s take
     credit scoring as an example. Say we have a model, like a decision tree or logistic
     regression, that predicts loan decisions. Fairlearn then analyzes how the model
@@ -652,7 +652,7 @@ transcript:
   sec: 1991
   time: '33:11'
   who: Tamara
-- header: 'Moderation Case Study: Cross‑Functional Teams and Domain Expertise'
+- header: 'Moderation Case Study: Cross-Functional Teams and Domain Expertise'
 - line: I was reflecting on my personal experience with making these decisions. I
     worked on a moderation team for an online marketplace, deciding whether an item
     should go live for purchase or be blocked. We discussed factors like the model's
@@ -670,7 +670,7 @@ transcript:
   sec: 2123
   time: '35:23'
   who: Alexey
-- header: 'Human‑in‑the‑Loop: Essential Component for Fair AI Systems'
+- header: 'Human-in-the-Loop: Essential Component for Fair AI Systems'
 - line: 'Yes, and you mentioned something really important: the human in the loop.
     It’s a central component of all AI systems. If we want them to be fair, we need
     humans in the loop. Before any decision can have a real impact, there has to be
@@ -721,7 +721,7 @@ transcript:
   sec: 2352
   time: '39:12'
   who: Tamara
-- header: 'Joining Probable: From Open‑Source Contributions to a Role'
+- header: 'Joining Probable: From Open-Source Contributions to a Role'
 - line: So, how did you get involved in the project? Last time we spoke, Probable
     didn’t exist yet. How did it happen? You were doing LPiano back then, right?
   sec: 2358
@@ -805,7 +805,7 @@ transcript:
   sec: 2640
   time: '44:00'
   who: Tamara
-- header: 'Cross‑Library Compatibility: Fairlearn, scikit‑learn, and Estimator APIs'
+- header: 'Cross-Library Compatibility: Fairlearn, scikit-learn, and Estimator APIs'
 - line: The most interesting part of my work has been ensuring cross-library compatibility.
     This means making all Fairlearn estimators compatible with Psyched Learn, and
     ensuring compatibility as Psyched Learn transitions to version 1.6. People should
@@ -936,7 +936,7 @@ transcript:
   sec: 3054
   time: '50:54'
   who: Tamara
-- header: 'Contributing to Fairlearn: Discord, Good‑First Issues, and Sprints'
+- header: 'Contributing to Fairlearn: Discord, Good-First Issues, and Sprints'
 - line: That’s interesting. You read my mind again. I was about to ask how someone
     can contribute to Fairlearn if they’re interested. If you live in Berlin, they
     can join the meetup, right? And there will be opportunities to contribute, as
@@ -1072,18 +1072,18 @@ transcript:
   sec: 3554
   time: '59:14'
   who: Alexey
-context: 'Context: This episode follows Tamara’s journey from software and music‑tech
-  engineering into computational linguistics and open‑source stewardship, and uses
-  concrete case studies (credit‑scoring fairness, moderation systems) plus tool discussions
+context: 'Context: This episode follows Tamara’s journey from software and music-tech
+  engineering into computational linguistics and open-source stewardship, and uses
+  concrete case studies (credit-scoring fairness, moderation systems) plus tool discussions
   (Fairlearn, interpretability packages, secure model serialization) to examine how
   technical choices, metrics, and developer practices translate into real societal
   outcomes. Recurring threads include tradeoffs in fairness metrics, the necessity
-  of domain expertise and human‑in‑the‑loop processes, the engineering challenges
+  of domain expertise and human-in-the-loop processes, the engineering challenges
   of interoperable, secure ML tooling, and the role of community and practitioner
   education in shaping responsible ML.
 
   Core: The unifying idea is that building fair, trustworthy AI is a sociotechnical
-  engineering task: it requires not just algorithms but pragmatic, community‑driven
+  engineering task: it requires not just algorithms but pragmatic, community-driven
   tools, secure software practices, clear interpretability, and organizational processes
   that embed human judgment and domain knowledge so technical models produce just,
   accountable outcomes in the real world.'

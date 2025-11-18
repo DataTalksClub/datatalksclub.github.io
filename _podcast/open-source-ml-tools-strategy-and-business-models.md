@@ -21,13 +21,13 @@ intro: How can open source ML tools stay healthy, useful, and financially sustai
   Research Advocate at Rasa, author of the Koaning blog, creator of the Algorithm
   Whiteboard playlist, and cofounder of Calm Code — walks through the real-world tradeoffs
   of scikit-learn governance, sustainability, and business models for ML tooling.
-  <br><br> We dig into scikit-learn’s history, NumFOCUS relationships, and the plugin‑versus‑core
+  <br><br> We dig into scikit-learn’s history, NumFOCUS relationships, and the plugin-versus-core
   strategy; practical maintainer issues like transitions, motivating volunteers, and
   using open source contributions as hiring signals; and the intersection of developer
-  relations and core engineering. Vincent also explores Calm Code’s low‑pressure teaching
+  relations and core engineering. Vincent also explores Calm Code’s low-pressure teaching
   philosophy, content and monetization choices, and platform decisions (Django, contributor
   hiring). Technical operations topics include CI cost optimization with custom runners
-  and sustainable compute examples (Leaf.cloud), plus hands‑on projects like Skrub’s
+  and sustainable compute examples (Leaf.cloud), plus hands-on projects like Skrub’s
   table vectorizer and GAP encoder for pragmatic tabular defaults. <br><br> Listeners
   will gain actionable insights on governance models, maintaining project health,
   and realistic business options — training, consulting, and partnerships — for anyone
@@ -1006,12 +1006,12 @@ context: 'Context: This episode surveys the Scikit-Learn ecosystem, related proj
   career stories, governance, tooling choices, content production, maintainer handoffs,
   CI/cost concerns, and early business models.
 
-  Core unifying idea: Long-term health and impact of open-source machine‑learning
+  Core unifying idea: Long-term health and impact of open-source machine-learning
   projects depends not just on great code but on a deliberate integration of engineering
   excellence, community stewardship, accessible education, and sustainable operational/business
   practices — i.e., building pragmatic tools and clear learning paths while creating
-  incentives (training, consulting, platform models, cost‑efficient infrastructure,
-  and low‑pressure contributor experiences) that enable maintainers and contributors
+  incentives (training, consulting, platform models, cost-efficient infrastructure,
+  and low-pressure contributor experiences) that enable maintainers and contributors
   to keep projects useful, adoptable, and durable.'
 ---
 Links:

@@ -16,7 +16,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/freelancing-in-machine-learning-mikio-braun/id1541710331?i=1000532612872
 
 description: 'Learn freelancing in machine learning: pricing, client acquisition, and proposals to win ML consulting gigs, scale sustainably, and secure steady income'
-intro: 'How do you move from academic research or in‑house ML engineering to a sustainable freelance career in machine learning — getting clients, pricing your work, and delivering production systems? In this episode, Mikio Braun, who transitioned from TU Berlin into ML roles at Zalando and GetYourGuide and now consults on machine learning production, infrastructure, and teams, walks through that path step by step. <br><br> We cover the practical parts of freelancing in machine learning: launching first clients, sourcing leads through network and referrals, and demand generation with LinkedIn, talks, and podcasts; pre‑sales tactics like free intro calls, problem discovery, and clear proposals; pricing models and rate‑setting strategies; financial planning, capacity management, and avoiding burnout; plus specialization, productizing consulting, and scaling options (agency, product, or return to employment). The episode also addresses administrative essentials for freelancers in Germany (registration, VAT, payments), accounting choices, professional liability, and how to compete in a global remote market. Listen for concrete advice on client‑finding, scope discipline, and deliverables so you can evaluate whether freelancing in machine learning is the right next step and how to start with a safety net.'
+intro: 'How do you move from academic research or in-house ML engineering to a sustainable freelance career in machine learning — getting clients, pricing your work, and delivering production systems? In this episode, Mikio Braun, who transitioned from TU Berlin into ML roles at Zalando and GetYourGuide and now consults on machine learning production, infrastructure, and teams, walks through that path step by step. <br><br> We cover the practical parts of freelancing in machine learning: launching first clients, sourcing leads through network and referrals, and demand generation with LinkedIn, talks, and podcasts; pre-sales tactics like free intro calls, problem discovery, and clear proposals; pricing models and rate-setting strategies; financial planning, capacity management, and avoiding burnout; plus specialization, productizing consulting, and scaling options (agency, product, or return to employment). The episode also addresses administrative essentials for freelancers in Germany (registration, VAT, payments), accounting choices, professional liability, and how to compete in a global remote market. Listen for concrete advice on client-finding, scope discipline, and deliverables so you can evaluate whether freelancing in machine learning is the right next step and how to start with a safety net.'
 topics:
 - freelance
 - consulting
@@ -59,7 +59,7 @@ quotableClips:
   startOffset: 928
   url: https://www.youtube.com/watch?v=HfF791e0HR8&t=928
   endOffset: 1149
-- name: Intro Calls & Pre‑sales — Free Meetings, Qualification, and Trust Building
+- name: Intro Calls & Pre-sales — Free Meetings, Qualification, and Trust Building
   startOffset: 1149
   url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1149
   endOffset: 1297
@@ -71,7 +71,7 @@ quotableClips:
   startOffset: 1338
   url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1338
   endOffset: 1432
-- name: Pricing Models — Hourly, Fixed‑Price, and Value‑Based Tradeoffs
+- name: Pricing Models — Hourly, Fixed-Price, and Value-Based Tradeoffs
   startOffset: 1432
   url: https://www.youtube.com/watch?v=HfF791e0HR8&t=1432
   endOffset: 1777
@@ -95,7 +95,7 @@ quotableClips:
   startOffset: 2326
   url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2326
   endOffset: 2424
-- name: Income Comparison — Freelance Earnings vs. Full‑Time Salary
+- name: Income Comparison — Freelance Earnings vs. Full-Time Salary
   startOffset: 2424
   url: https://www.youtube.com/watch?v=HfF791e0HR8&t=2424
   endOffset: 2479
@@ -119,7 +119,7 @@ quotableClips:
   startOffset: 3017
   url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3017
   endOffset: 3165
-- name: Client‑Finding Lessons — Clarity in Writing and Scope Discipline
+- name: Client-Finding Lessons — Clarity in Writing and Scope Discipline
   startOffset: 3165
   url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3165
   endOffset: 3210
@@ -477,7 +477,7 @@ transcript:
   sec: 1142
   time: '19:02'
   who: Mikio
-- header: Intro Calls & Pre‑sales — Free Meetings, Qualification, and Trust Building
+- header: Intro Calls & Pre-sales — Free Meetings, Qualification, and Trust Building
 - line: The other thing you said, "Now you get a client. The interesting part is what
     happens next". First, you have this intro call. You figure out if you can help
     the client. Right? How does it look like? Let's say you get a LinkedIn message
@@ -566,7 +566,7 @@ transcript:
   sec: 1420
   time: '23:40'
   who: Mikio
-- header: Pricing Models — Hourly, Fixed‑Price, and Value‑Based Tradeoffs
+- header: Pricing Models — Hourly, Fixed-Price, and Value-Based Tradeoffs
 - line: We already have a question here. How to decide on this rate? The question
     is about the daily rate. We had some prior chats about this, you also mentioned
     something about a trade-off between pay per day or per hour or per project. Maybe
@@ -873,7 +873,7 @@ transcript:
   sec: 2423
   time: '40:23'
   who: Alexey
-- header: Income Comparison — Freelance Earnings vs. Full‑Time Salary
+- header: Income Comparison — Freelance Earnings vs. Full-Time Salary
 - line: Yeah. I do normal 10-to-6 days. But not all of that time is billed. The actual
     client hours make maybe up to half of it. And then there's other stuff like, like
     this [podcast], or working on talks, or just learning something.
@@ -1129,7 +1129,7 @@ transcript:
   sec: 3156
   time: '52:36'
   who: Mikio
-- header: Client‑Finding Lessons — Clarity in Writing and Scope Discipline
+- header: Client-Finding Lessons — Clarity in Writing and Scope Discipline
 - line: We have quite a few questions. This one is very interesting. What is your
     most relevant learning when finding clients? What did you learn from this process
     of finding clients?

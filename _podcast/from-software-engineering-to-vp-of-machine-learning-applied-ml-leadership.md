@@ -42,7 +42,7 @@ quotableClips:
   startOffset: 13
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=13
   endOffset: 64
-- name: 'Career Pivot: Transition from full‑stack engineering to data science'
+- name: 'Career Pivot: Transition from full-stack engineering to data science'
   startOffset: 64
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=64
   endOffset: 161
@@ -54,11 +54,11 @@ quotableClips:
   startOffset: 287
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=287
   endOffset: 413
-- name: 'Leadership Learning: Trial‑and‑error development of soft skills'
+- name: 'Leadership Learning: Trial-and-error development of soft skills'
   startOffset: 413
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=413
   endOffset: 541
-- name: 'Problem Framing: Technical context and product‑level understanding'
+- name: 'Problem Framing: Technical context and product-level understanding'
   startOffset: 541
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=541
   endOffset: 693
@@ -70,7 +70,7 @@ quotableClips:
   startOffset: 925
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=925
   endOffset: 1042
-- name: 'ML Project Complexity: Resource needs and cross‑functional buy‑in'
+- name: 'ML Project Complexity: Resource needs and cross-functional buy-in'
   startOffset: 1042
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=1042
   endOffset: 1248
@@ -78,11 +78,11 @@ quotableClips:
   startOffset: 1248
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=1248
   endOffset: 1398
-- name: 'Demo Design: Visualizations and user‑centric proof‑of‑concepts'
+- name: 'Demo Design: Visualizations and user-centric proof-of-concepts'
   startOffset: 1398
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=1398
   endOffset: 1575
-- name: 'Risk Communication: Explaining model trade‑offs without raw accuracy'
+- name: 'Risk Communication: Explaining model trade-offs without raw accuracy'
   startOffset: 1575
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=1575
   endOffset: 1697
@@ -114,7 +114,7 @@ quotableClips:
   startOffset: 2437
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=2437
   endOffset: 2675
-- name: 'Full‑Stack ML: Importance of software engineering for production ML'
+- name: 'Full-Stack ML: Importance of software engineering for production ML'
   startOffset: 2675
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=2675
   endOffset: 2878
@@ -126,7 +126,7 @@ quotableClips:
   startOffset: 3037
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=3037
   endOffset: 3182
-- name: Episode Wrap‑Up and Final Remarks
+- name: Episode Wrap-Up and Final Remarks
   startOffset: 3182
   url: https://www.youtube.com/watch?v=su2M058m3Lw&t=3182
   endOffset: 3203
@@ -152,7 +152,7 @@ transcript:
   sec: 56
   time: 0:56
   who: Alexey
-- header: 'Career Pivot: Transition from full‑stack engineering to data science'
+- header: 'Career Pivot: Transition from full-stack engineering to data science'
 - line: Before we go into our main topic of these unwritten rules, let's start with
     your background. Can you tell us about your career journeys so far?
   sec: 64
@@ -291,7 +291,7 @@ transcript:
   sec: 377
   time: '6:17'
   who: Jack
-- header: 'Leadership Learning: Trial‑and‑error development of soft skills'
+- header: 'Leadership Learning: Trial-and-error development of soft skills'
 - line: There’s no school for VPs of data science, right? [Jack agrees] So you just
     have to… How do you actually learn these skills?
   sec: 413
@@ -343,7 +343,7 @@ transcript:
   sec: 509
   time: '8:29'
   who: Alexey
-- header: 'Problem Framing: Technical context and product‑level understanding'
+- header: 'Problem Framing: Technical context and product-level understanding'
 - line: Yeah, I would say it's a mix of trial and error and it's also a mix of observing
     what works for others. Another thing that is not really taught very often in any
     kind of school environment is the importance of technical problem framing and
@@ -489,7 +489,7 @@ transcript:
   sec: 1004
   time: '16:44'
   who: Jack
-- header: 'ML Project Complexity: Resource needs and cross‑functional buy‑in'
+- header: 'ML Project Complexity: Resource needs and cross-functional buy-in'
 - line: Okay. We'll see how relevant it is – I hope it is relevant to the actual discussion
     we plan to have today, which is about the rules for success in machine learning.
     Probably it is related. I just want to summarize. If you want to be a technical
@@ -593,7 +593,7 @@ transcript:
   sec: 1302
   time: '21:42'
   who: Jack
-- header: 'Demo Design: Visualizations and user‑centric proof‑of‑concepts'
+- header: 'Demo Design: Visualizations and user-centric proof-of-concepts'
 - line: You said visuals are important to them – what do you mean by that? Is having
     a demo with a user interface where they can play around important, or did you
     mean something else? Or did you mean planting a picture in their head or something
@@ -655,7 +655,7 @@ transcript:
   sec: 1526
   time: '25:26'
   who: Jack
-- header: 'Risk Communication: Explaining model trade‑offs without raw accuracy'
+- header: 'Risk Communication: Explaining model trade-offs without raw accuracy'
 - line: If you start talking about accuracy – you say, “Okay, this model is 70% accurate,”
     which may or may not be a good number, depending on the model, but to the stakeholders,
     it might sound scary like, “Ooh, 30% error rate. 30% of the time, it will make
@@ -1064,7 +1064,7 @@ transcript:
   sec: 2672
   time: '44:32'
   who: Jack
-- header: 'Full‑Stack ML: Importance of software engineering for production ML'
+- header: 'Full-Stack ML: Importance of software engineering for production ML'
 - line: Well, I guess we have time for one or two more rules. I guess you have a bunch
     of them, right? What's the third one?
   sec: 2675
@@ -1235,7 +1235,7 @@ transcript:
   sec: 3040
   time: '50:40'
   who: Jack
-- header: Episode Wrap‑Up and Final Remarks
+- header: Episode Wrap-Up and Final Remarks
 - line: We will all subscribe – follow you on LinkedIn – and we will see all the updates
     about your new endeavor. I don't like saying good luck because you probably don't
     need luck – you need something like perseverance, more – but luck is also important.
@@ -1251,15 +1251,15 @@ transcript:
   time: '53:36'
   who: Jack
 context: 'Context — A career arc from software engineer to VP of ML frames concrete
-  stories about promotion, informal leadership, stakeholder selling, demo-driven buy‑in,
-  rapid prototyping, baseline-first experiments, domain immersion, and building full‑stack
+  stories about promotion, informal leadership, stakeholder selling, demo-driven buy-in,
+  rapid prototyping, baseline-first experiments, domain immersion, and building full-stack
   production capabilities.
 
   Core narrative — Success in applied machine learning is not primarily about squeezing
   marginal accuracy from models but about bridging technical craft and business impact:
-  become a product‑focused, full‑stack practitioner and leader who rapidly validates
+  become a product-focused, full-stack practitioner and leader who rapidly validates
   hypotheses with simple baselines and demos, speaks the language of stakeholders,
-  builds trust and reputation, communicates trade‑offs clearly, and embeds ML into
+  builds trust and reputation, communicates trade-offs clearly, and embeds ML into
   real user workflows so technical work directly drives measurable outcomes.'
 ---
 Links:

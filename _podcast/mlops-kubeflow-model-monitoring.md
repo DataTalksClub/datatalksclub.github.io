@@ -67,7 +67,7 @@ quotableClips:
   startOffset: 997
   url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=997
   endOffset: 1208
-- name: 'The "MLOps Engineer" Debate: Title vs. Cross‑Functional Teams'
+- name: 'The "MLOps Engineer" Debate: Title vs. Cross-Functional Teams'
   startOffset: 1208
   url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=1208
   endOffset: 1427
@@ -79,7 +79,7 @@ quotableClips:
   startOffset: 1621
   url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=1621
   endOffset: 1808
-- name: 'Advanced Maturity: Data‑Driven Triggers and Automated Retraining'
+- name: 'Advanced Maturity: Data-Driven Triggers and Automated Retraining'
   startOffset: 1808
   url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=1808
   endOffset: 2007
@@ -107,7 +107,7 @@ quotableClips:
   startOffset: 2608
   url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=2608
   endOffset: 2761
-- name: 'Getting Started: Cloud‑Managed Pipelines and Simple Projects'
+- name: 'Getting Started: Cloud-Managed Pipelines and Simple Projects'
   startOffset: 2761
   url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=2761
   endOffset: 2818
@@ -147,7 +147,7 @@ quotableClips:
   startOffset: 3684
   url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3684
   endOffset: 3776
-- name: 'Breaking Silos: Language‑Agnostic Pipelines and Collaboration'
+- name: 'Breaking Silos: Language-Agnostic Pipelines and Collaboration'
   startOffset: 3776
   url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3776
   endOffset: 3899
@@ -479,7 +479,7 @@ transcript:
   sec: 1191
   time: '19:51'
   who: 'Alexey:'
-- header: 'The "MLOps Engineer" Debate: Title vs. Cross‑Functional Teams'
+- header: 'The "MLOps Engineer" Debate: Title vs. Cross-Functional Teams'
 - line: I don't think that it will become a title. Maybe people will have it because
     it's a fancy word now, like data scientist was 10 years ago. But I don't think
     this will become a role of a department. If it does, that would be a shame because
@@ -652,7 +652,7 @@ transcript:
   sec: 1805
   time: '30:05'
   who: 'Alexey:'
-- header: 'Advanced Maturity: Data‑Driven Triggers and Automated Retraining'
+- header: 'Advanced Maturity: Data-Driven Triggers and Automated Retraining'
 - line: Yes, it’s manual. But maybe it automatically adds your new features from your
     feature store, or if you have some data versioning system, and etc. So, that's
     the maturity level one. Then there is the visual – the ultimate goal that we should
@@ -883,7 +883,7 @@ transcript:
   sec: 2712
   time: '45:12'
   who: 'Alexey:'
-- header: 'Getting Started: Cloud‑Managed Pipelines and Simple Projects'
+- header: 'Getting Started: Cloud-Managed Pipelines and Simple Projects'
 - line: Yeah.
   sec: 2793
   time: '46:33'
@@ -1208,7 +1208,7 @@ transcript:
   sec: 3753
   time: '1:02:33'
   who: 'Alexey:'
-- header: 'Breaking Silos: Language‑Agnostic Pipelines and Collaboration'
+- header: 'Breaking Silos: Language-Agnostic Pipelines and Collaboration'
 - line: Well, the good news is that these things are language-agnostic. Of course,
     there shouldn't be silos in the organization, especially based on language. At
     least the development departments should be working together. But the tooling

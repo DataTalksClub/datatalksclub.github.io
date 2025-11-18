@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/7fwbqo5tDrtakuqWaIuEjc
   apple: https://podcasts.apple.com/us/podcast/i-want-to-build-a-machine-learning-startup-elena-samuylova/id1541710331?i=1000529106923
 
-description: 'Discover practical MLOps, model monitoring and founder‑fit tactics to build an ML startup: hire, fund, productize, and reach product‑market fit faster.'
-intro: 'What does it take to build a successful ML startup—especially around MLOps, model monitoring, open source, and founder fit? Elena Samuylova, Co‑founder & CEO of Evidently AI, joins to answer that question drawing on her applied machine learning experience since 2014, including roles at Yandex Data Factory and an industrial AI startup. <br><br> This episode walks through practical founder decisions: sourcing problem‑first ideas, finding compatible co‑founders and establishing pre‑launch alignment, and choosing between vertical solutions and infrastructure/MLOps. Elena explains what “AI‑first” positioning really means, how developer tools and open source shape go‑to‑market strategies (open core, cloud, monetization and cloning risks), and how Evidently validated model monitoring as a business. You’ll hear tactical guidance on customer discovery, persuading engineers to adopt your tool, data safety and on‑prem deployments, hiring and scaling tradeoffs, funding paths, productizing services for non‑technical founders, and normalizing failure and work–life tradeoffs. <br><br> Listen to gain actionable frameworks for building an ML startup—covering model monitoring, MLOps, open source strategy, founder‑market fit, and the concrete signals that indicate product–market fit.'
+description: 'Discover practical MLOps, model monitoring and founder-fit tactics to build an ML startup: hire, fund, productize, and reach product-market fit faster.'
+intro: 'What does it take to build a successful ML startup—especially around MLOps, model monitoring, open source, and founder fit? Elena Samuylova, Co-founder & CEO of Evidently AI, joins to answer that question drawing on her applied machine learning experience since 2014, including roles at Yandex Data Factory and an industrial AI startup. <br><br> This episode walks through practical founder decisions: sourcing problem-first ideas, finding compatible co-founders and establishing pre-launch alignment, and choosing between vertical solutions and infrastructure/MLOps. Elena explains what “AI-first” positioning really means, how developer tools and open source shape go-to-market strategies (open core, cloud, monetization and cloning risks), and how Evidently validated model monitoring as a business. You’ll hear tactical guidance on customer discovery, persuading engineers to adopt your tool, data safety and on-prem deployments, hiring and scaling tradeoffs, funding paths, productizing services for non-technical founders, and normalizing failure and work–life tradeoffs. <br><br> Listen to gain actionable frameworks for building an ML startup—covering model monitoring, MLOps, open source strategy, founder-market fit, and the concrete signals that indicate product–market fit.'
 topics:
 - startup
 - machine learning
@@ -69,7 +69,7 @@ quotableClips:
   startOffset: 1473
   url: https://www.youtube.com/watch?v=DiDs5aMjEWg&t=1473
   endOffset: 1581
-- name: 'Founder Skills: Self‑Starter Mindset and Learning Agility'
+- name: 'Founder Skills: Self-Starter Mindset and Learning Agility'
   startOffset: 1581
   url: https://www.youtube.com/watch?v=DiDs5aMjEWg&t=1581
   endOffset: 1697
@@ -85,7 +85,7 @@ quotableClips:
   startOffset: 1967
   url: https://www.youtube.com/watch?v=DiDs5aMjEWg&t=1967
   endOffset: 2046
-- name: 'Part‑Time Startups: Weekend MVPs, Bootstrapping, and Grants'
+- name: 'Part-Time Startups: Weekend MVPs, Bootstrapping, and Grants'
   startOffset: 2046
   url: https://www.youtube.com/watch?v=DiDs5aMjEWg&t=2046
   endOffset: 2147
@@ -93,7 +93,7 @@ quotableClips:
   startOffset: 2147
   url: https://www.youtube.com/watch?v=DiDs5aMjEWg&t=2147
   endOffset: 2288
-- name: 'Non‑Technical Founders: No-Code MVPs and Productizing Services'
+- name: 'Non-Technical Founders: No-Code MVPs and Productizing Services'
   startOffset: 2288
   url: https://www.youtube.com/watch?v=DiDs5aMjEWg&t=2288
   endOffset: 2365
@@ -125,7 +125,7 @@ quotableClips:
   startOffset: 2969
   url: https://www.youtube.com/watch?v=DiDs5aMjEWg&t=2969
   endOffset: 3108
-- name: 'Bottom‑Up Adoption: Engineers First, Enterprise Later'
+- name: 'Bottom-Up Adoption: Engineers First, Enterprise Later'
   startOffset: 3108
   url: https://www.youtube.com/watch?v=DiDs5aMjEWg&t=3108
   endOffset: 3189
@@ -137,7 +137,7 @@ quotableClips:
   startOffset: 3237
   url: https://www.youtube.com/watch?v=DiDs5aMjEWg&t=3237
   endOffset: 3377
-- name: 'Data Safety Options: On‑Premise Deployments with Open Source'
+- name: 'Data Safety Options: On-Premise Deployments with Open Source'
   startOffset: 3377
   url: https://www.youtube.com/watch?v=DiDs5aMjEWg&t=3377
   endOffset: 3426
@@ -723,7 +723,7 @@ transcript:
   sec: 1571
   time: '26:11'
   who: Elena
-- header: 'Founder Skills: Self‑Starter Mindset and Learning Agility'
+- header: 'Founder Skills: Self-Starter Mindset and Learning Agility'
 - line: What kind of skills do I need to start a startup?
   sec: 1581
   time: '26:21'
@@ -893,7 +893,7 @@ transcript:
   sec: 2008
   time: '33:28'
   who: Elena
-- header: 'Part‑Time Startups: Weekend MVPs, Bootstrapping, and Grants'
+- header: 'Part-Time Startups: Weekend MVPs, Bootstrapping, and Grants'
 - line: We already started getting questions. You already mentioned that when you
     start a startup, you don't necessarily have to bootstrap yourself – meaning that
     you don’t have to live off of your savings. You can do a startup while still working.
@@ -982,7 +982,7 @@ transcript:
   sec: 2276
   time: '37:56'
   who: Elena
-- header: 'Non‑Technical Founders: No-Code MVPs and Productizing Services'
+- header: 'Non-Technical Founders: No-Code MVPs and Productizing Services'
 - line: We talked about a situation where “I'm a technical person, and I want to start
     a startup, this is what I do.” What if I'm not super-technical? I also don't have
     any resources to develop something, what do I do?
@@ -1312,7 +1312,7 @@ transcript:
   sec: 3082
   time: '51:22'
   who: Elena
-- header: 'Bottom‑Up Adoption: Engineers First, Enterprise Later'
+- header: 'Bottom-Up Adoption: Engineers First, Enterprise Later'
 - line: I guess in case of open source, what can happen is that the engineers and
     data scientists find your library, start using it, and then it reaches the management.
     The management sees it and then you sell the company your enterprise offer, right?
@@ -1405,7 +1405,7 @@ transcript:
   sec: 3334
   time: '55:34'
   who: Elena
-- header: 'Data Safety Options: On‑Premise Deployments with Open Source'
+- header: 'Data Safety Options: On-Premise Deployments with Open Source'
 - line: I think when Emely did a presentation a while ago at DataTalks.Club, one of
     the questions was “Hey, I'm a bit concerned about my data going to Russia.” What
     you answered was “Hey, it's open source. You don't have to be concerned. You just

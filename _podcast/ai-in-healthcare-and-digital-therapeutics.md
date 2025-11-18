@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=IDzhmmKeNG4
 
 description: 'Learn to build data teams and ethical AI in healthcare: actionable personalization, A/B testing for digital therapeutics, GDPR-safe experiments.'
-intro: How can AI power effective digital therapeutics while balancing personalization, rapid experimentation, and patient safety? In this episode, Stefan Gudmundsson — Director of Data, Analytics, and AI with a track record building ML and data teams at Sidekick Health, King, H&M, and CCP Games — walks through practical approaches for AI in healthcare and digital therapeutics. <br><br> We cover how machine learning is applied to diagnosis, drug discovery, and biologics (AlphaFold); Sidekick Health’s gamified digital therapeutics and quality‑of‑life goals; behavioral design that minimizes in‑app time; and engagement strategies like charity incentives versus leaderboards. Stefan explains building the analytics foundation—data pipelines, dashboards, and experimentation capabilities—and why A/B testing and agenda‑driven recommender systems are core to personalization. He also tackles data privacy and ethics (GDPR/HIPAA, de‑identification), remote monitoring with wearables, clinical trials versus app experiments, managing medical risk, and hiring and scaling data, ML, and engineering teams. <br><br> Listen to get concrete frameworks for building data teams, running safe, measurable experiments, designing personalized interventions, and embedding ethical safeguards into AI-driven digital therapeutics
+intro: How can AI power effective digital therapeutics while balancing personalization, rapid experimentation, and patient safety? In this episode, Stefan Gudmundsson — Director of Data, Analytics, and AI with a track record building ML and data teams at Sidekick Health, King, H&M, and CCP Games — walks through practical approaches for AI in healthcare and digital therapeutics. <br><br> We cover how machine learning is applied to diagnosis, drug discovery, and biologics (AlphaFold); Sidekick Health’s gamified digital therapeutics and quality-of-life goals; behavioral design that minimizes in-app time; and engagement strategies like charity incentives versus leaderboards. Stefan explains building the analytics foundation—data pipelines, dashboards, and experimentation capabilities—and why A/B testing and agenda-driven recommender systems are core to personalization. He also tackles data privacy and ethics (GDPR/HIPAA, de-identification), remote monitoring with wearables, clinical trials versus app experiments, managing medical risk, and hiring and scaling data, ML, and engineering teams. <br><br> Listen to get concrete frameworks for building data teams, running safe, measurable experiments, designing personalized interventions, and embedding ethical safeguards into AI-driven digital therapeutics
 topics:
 - machine learning
 - healthcare
@@ -41,16 +41,16 @@ quotableClips:
   startOffset: 367
   url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=367
   endOffset: 602
-- name: 'Sidekick Health Overview: Gamified Digital Therapeutics & Quality‑of‑Life
+- name: 'Sidekick Health Overview: Gamified Digital Therapeutics & Quality-of-Life
     Goals'
   startOffset: 602
   url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=602
   endOffset: 904
-- name: 'Behavioral Design & Habit Formation: Low In‑App Time Strategy'
+- name: 'Behavioral Design & Habit Formation: Low In-App Time Strategy'
   startOffset: 904
   url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=904
   endOffset: 1167
-- name: 'Building Data Culture: Metrics, Buy‑in, and Responsible Experimentation'
+- name: 'Building Data Culture: Metrics, Buy-in, and Responsible Experimentation'
   startOffset: 1167
   url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1167
   endOffset: 1543
@@ -62,15 +62,15 @@ quotableClips:
   startOffset: 1622
   url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1622
   endOffset: 1773
-- name: 'Remote Monitoring & Wearables: Activity and Heart‑Rate Variability'
+- name: 'Remote Monitoring & Wearables: Activity and Heart-Rate Variability'
   startOffset: 1773
   url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1773
   endOffset: 1901
-- name: 'Data Privacy & Ethics: GDPR/HIPAA, De‑identification, and Empathy'
+- name: 'Data Privacy & Ethics: GDPR/HIPAA, De-identification, and Empathy'
   startOffset: 1901
   url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=1901
   endOffset: 2139
-- name: 'Personalization Strategy: Agenda‑Driven Recommender Systems'
+- name: 'Personalization Strategy: Agenda-Driven Recommender Systems'
   startOffset: 2139
   url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2139
   endOffset: 2397
@@ -86,7 +86,7 @@ quotableClips:
   startOffset: 2729
   url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2729
   endOffset: 2965
-- name: 'Data‑Driven Tradeoffs: Speed over Perfection in Healthcare Analytics'
+- name: 'Data-Driven Tradeoffs: Speed over Perfection in Healthcare Analytics'
   startOffset: 2965
   url: https://www.youtube.com/watch?v=IDzhmmKeNG4&t=2965
   endOffset: 3115
@@ -298,7 +298,7 @@ transcript:
   sec: 593
   time: '9:53'
   who: Stefan
-- header: 'Sidekick Health Overview: Gamified Digital Therapeutics & Quality‑of‑Life
+- header: 'Sidekick Health Overview: Gamified Digital Therapeutics & Quality-of-Life
     Goals'
 - line: So basically every scientist becomes the target audience. Before this episode,
     I was doing a little bit of research about the company where you work right now
@@ -376,7 +376,7 @@ transcript:
   sec: 874
   time: '14:34'
   who: Alexey
-- header: 'Behavioral Design & Habit Formation: Low In‑App Time Strategy'
+- header: 'Behavioral Design & Habit Formation: Low In-App Time Strategy'
 - line: Yes, yes. But at the same time, there are critical differences. We don't want
     to keep you in the app for hours, because most of the activity you need to do
     is outside of the app. So that is a very interesting difference between the two
@@ -468,7 +468,7 @@ transcript:
   sec: 1119
   time: '18:39'
   who: Alexey
-- header: 'Building Data Culture: Metrics, Buy‑in, and Responsible Experimentation'
+- header: 'Building Data Culture: Metrics, Buy-in, and Responsible Experimentation'
 - line: Exactly. I think it's much more similar than you would think in the beginning.
     You basically have a program – some kind of solution – and you're in a company
     where you really want to create this data-driven culture from the data science
@@ -678,7 +678,7 @@ transcript:
   sec: 1767
   time: '29:27'
   who: Alexey
-- header: 'Remote Monitoring & Wearables: Activity and Heart‑Rate Variability'
+- header: 'Remote Monitoring & Wearables: Activity and Heart-Rate Variability'
 - line: Yeah, [reluctantly] I mean – you should start there. I think that should always
     be the approach – start with something simple. Then you have data and then you
     have everything in place to automate it. Don't try to automate out of thin air.
@@ -712,7 +712,7 @@ transcript:
   sec: 1852
   time: '30:52'
   who: Stefan
-- header: 'Data Privacy & Ethics: GDPR/HIPAA, De‑identification, and Empathy'
+- header: 'Data Privacy & Ethics: GDPR/HIPAA, De-identification, and Empathy'
 - line: We have a question. I mentioned that healthcare is quite a regulated area.
     And usually in healthcare, people take questions about data privacy and this kind
     of stuff very seriously. Does it change the way you work? You have to keep these
@@ -786,7 +786,7 @@ transcript:
   sec: 2100
   time: '35:00'
   who: Stefan
-- header: 'Personalization Strategy: Agenda‑Driven Recommender Systems'
+- header: 'Personalization Strategy: Agenda-Driven Recommender Systems'
 - line: Okay. I wanted to go back to what we were talking about. You said that the
     app is based on the customer profile – patient profile – it makes different recommendations,
     or personalized recommendations, based on that. Can you maybe tell us a bit more
@@ -1045,7 +1045,7 @@ transcript:
   sec: 2921
   time: '48:41'
   who: Alexey
-- header: 'Data‑Driven Tradeoffs: Speed over Perfection in Healthcare Analytics'
+- header: 'Data-Driven Tradeoffs: Speed over Perfection in Healthcare Analytics'
 - line: No, not at all. All of these people are very data-driven just by nature. The
     biggest challenges may be to tell a medical doctor, “Okay, now we're testing a
     feature in the app. Let's just test it.” “What?! No, no. Wait!” [laughs] When

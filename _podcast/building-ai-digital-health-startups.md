@@ -19,19 +19,19 @@ description: Discover actionable digital health MVP strategy, telemedicine tacti
   care.
 intro: How do you build a digital health startup that ships a focused MVP, uses AI
   for diagnosis, and delivers care via telemedicine while overcoming data gaps and
-  legacy workflows? In this episode Maria-Liisa Bruckert, Co‑Founder and Co‑CEO of
+  legacy workflows? In this episode Maria-Liisa Bruckert, Co-Founder and Co-CEO of
   SQIN and recipient of the Google Play Best of 2020 award and Google Female Founder
   Immersion 2020, walks through her transition from electrical engineering to health
-  tech and the practical playbook she uses to de‑risk product development. <br><br>
+  tech and the practical playbook she uses to de-risk product development. <br><br>
   We cover MVP strategy and market research tactics—cold outreach, accelerators, clinical
-  meetings—and unconventional experiments like an AR “lipstick try‑on” to collect
+  meetings—and unconventional experiments like an AR “lipstick try-on” to collect
   engagement data. Maria explains how SQIN aligns AI diagnosis with concrete business
   cases, builds a digital clinic flow from diagnosis to prescription, and uses telemedicine
-  for remote follow‑up and prescriptions. You’ll also hear about data strategy and
-  community bootstrapping, ethics and UX for sensitive AI messaging, go‑to‑market
+  for remote follow-up and prescriptions. You’ll also hear about data strategy and
+  community bootstrapping, ethics and UX for sensitive AI messaging, go-to-market
   choices for regional rollout, and monetization through SaaS integrations and partnerships.
-  <br><br> Listen for actionable insights on product‑market fit, hiring priorities
-  for AI and full‑stack roles, and practical steps to launch a digital health startup
+  <br><br> Listen for actionable insights on product-market fit, hiring priorities
+  for AI and full-stack roles, and practical steps to launch a digital health startup
   that balances technical credibility with patient access.
 dateadded: 2023-12-03
 duration: PT00H52M27S
@@ -128,7 +128,7 @@ quotableClips:
   startOffset: 2624
   url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=2624
   endOffset: 2768
-- name: 'Monetization: SaaS Integrations, Partnerships, and E‑commerce Cuts'
+- name: 'Monetization: SaaS Integrations, Partnerships, and E-commerce Cuts'
   startOffset: 2768
   url: https://www.youtube.com/watch?v=whpkDmVVGUE&t=2768
   endOffset: 2879
@@ -1022,7 +1022,7 @@ transcript:
   sec: 2760
   time: '46:00'
   who: Alexey
-- header: 'Monetization: SaaS Integrations, Partnerships, and E‑commerce Cuts'
+- header: 'Monetization: SaaS Integrations, Partnerships, and E-commerce Cuts'
 - line: We integrate our AI to different partners. We do the health checks on different
     points of sale. First of all, of course, in our own application, SQIN, where it’s
     a digital clinic – but we also have other applications and other points of sale,
@@ -1183,17 +1183,17 @@ context: 'Context: The episode traces a founder’s shift from engineering to he
   entrepreneurship, driven by the opportunity to digitize fragmented medical systems.
   It covers pragmatic founder tactics (immersion, rapid MVPs, cold outreach), an unusual
   AR MVP to collect engagement data, and a discovery that everyday lifestyle interactions
-  reveal skin‑health signals. The conversation ties product experimentation and iterative
+  reveal skin-health signals. The conversation ties product experimentation and iterative
   pivots to building a digital clinic flow (diagnosis → prescription → telemedicine),
   while confronting legacy infrastructure, rural access gaps, ethical UX, and regional
-  go‑to‑market limits. Growth topics — community‑first data strategies, personalization,
+  go-to-market limits. Growth topics — community-first data strategies, personalization,
   retention, hiring, fundraising, and monetization via SaaS/partnerships — are framed
-  alongside human considerations like leadership choices and work‑life integration.
+  alongside human considerations like leadership choices and work-life integration.
 
-  Core theme: Building an ethical, product‑first digital healthcare startup by using
-  rapid experimentation and community‑driven engagement to bootstrap meaningful clinical
+  Core theme: Building an ethical, product-first digital healthcare startup by using
+  rapid experimentation and community-driven engagement to bootstrap meaningful clinical
   data and align AI capabilities with real patient workflows and viable business models—solving
-  legacy access and workflow problems regionally, iterating from MVP to product‑market
+  legacy access and workflow problems regionally, iterating from MVP to product-market
   fit, and scaling sustainably while keeping human needs and ethics central.'
 ---
 Links:

@@ -16,7 +16,7 @@ links:
   apple: TODO
 
 description: 'Discover practical mentoring strategies for tech careers: find mentors, master cold outreach, run effective sessions, start paid mentorship & boost leadership.'
-intro: 'Struggling to find a mentor — or wondering how to become one — in a fast-moving tech career? In this episode, Rahul Jain, a senior solutions engineer and data/AI leader with 15+ years driving enterprise data transformations and a career arc from mining engineering to data engineering and leadership, walks through practical mentoring strategies for tech professionals. We define mentoring (purpose, scope, types), explore early models like Thoughtworks’ sponsorship, and show how to find mentors through networks, platforms, and cold outreach — with concrete outreach best practices: specificity, background, and follow‑up. Rahul covers preparing mentoring sessions (goals, agendas), mentoring formats (one‑off advice vs long‑term relationships), and how to start as a mentor using simple first steps and platforms. Topics include benefits of mentoring, transferable workplace guidance, developing people skills (empathy, listening), balancing technical work and leadership, tackling imposter syndrome, coaching vs managing, setting boundaries and paid mentorship, and maintaining development plans. Listen to gain actionable steps, templates, and mindset shifts to both secure meaningful mentorship and build a sustainable mentoring practice in your tech career.'
+intro: 'Struggling to find a mentor — or wondering how to become one — in a fast-moving tech career? In this episode, Rahul Jain, a senior solutions engineer and data/AI leader with 15+ years driving enterprise data transformations and a career arc from mining engineering to data engineering and leadership, walks through practical mentoring strategies for tech professionals. We define mentoring (purpose, scope, types), explore early models like Thoughtworks’ sponsorship, and show how to find mentors through networks, platforms, and cold outreach — with concrete outreach best practices: specificity, background, and follow-up. Rahul covers preparing mentoring sessions (goals, agendas), mentoring formats (one-off advice vs long-term relationships), and how to start as a mentor using simple first steps and platforms. Topics include benefits of mentoring, transferable workplace guidance, developing people skills (empathy, listening), balancing technical work and leadership, tackling imposter syndrome, coaching vs managing, setting boundaries and paid mentorship, and maintaining development plans. Listen to gain actionable steps, templates, and mindset shifts to both secure meaningful mentorship and build a sustainable mentoring practice in your tech career.'
 dateadded: 2021-02-23
 
 
@@ -41,7 +41,7 @@ quotableClips:
   startOffset: 770
   url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=770
   endOffset: 990
-- name: 'Cold Outreach Best Practices: Specificity, Background, and Follow‑up'
+- name: 'Cold Outreach Best Practices: Specificity, Background, and Follow-up'
   startOffset: 990
   url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=990
   endOffset: 1180
@@ -49,7 +49,7 @@ quotableClips:
   startOffset: 1180
   url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=1180
   endOffset: 1350
-- name: 'Mentoring Formats: One‑Off Advice vs. Long‑Term Relationships'
+- name: 'Mentoring Formats: One-Off Advice vs. Long-Term Relationships'
   startOffset: 1350
   url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=1350
   endOffset: 1510
@@ -69,7 +69,7 @@ quotableClips:
   startOffset: 2010
   url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=2010
   endOffset: 2200
-- name: 'Common Mentee Challenges: Imposter Syndrome & Tech‑vs‑Management Choices'
+- name: 'Common Mentee Challenges: Imposter Syndrome & Tech-vs-Management Choices'
   startOffset: 2200
   url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=2200
   endOffset: 2390
@@ -93,7 +93,7 @@ quotableClips:
   startOffset: 3020
   url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=3020
   endOffset: 3160
-- name: 'Maintaining Development Plans: Review, Visibility, and Follow‑through'
+- name: 'Maintaining Development Plans: Review, Visibility, and Follow-through'
   startOffset: 3160
   url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=3160
   endOffset: 3290

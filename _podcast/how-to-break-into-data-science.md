@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=oUycqtMoYr8
 
 description: 'Master data science job hunt and portfolio tactics: actionable projects, recruiter tips, DALL·E 2 basics and FOMO coping strategies to land interviews faster.'
-intro: How do you actually break into data science, build a portfolio that gets interviews, and stay sane while every new AI model vies for your attention? In this episode Mısra Turp — data scientist, content creator, and developer advocate at AssemblyAI (founder of “So you want to be a data scientist?”) — walks through a practical career playbook for job hunting, portfolio building, and coping with FOMO and imposter syndrome. <br><br> We cover Mısra’s career path from big data engineering to developer advocacy, what a data scientist’s day‑to‑day looks like, and the typical deliverables hiring managers expect (models, pipelines, reports, presentations). She explains role variants (consultant, in‑house, freelance), tradeoffs between generalist and specialist tracks, and when a master’s or PhD matters. You’ll get concrete job‑hunt tactics—how to catch a recruiter’s eye, which portfolio projects resonate, and why real‑world datasets (like NYC Open Data) matter. The episode also includes a clear, high‑level overview of DALL·E 2 and diffusion models, plus strategies for staying current (conferences vs social media) and knowing when a new framework is “good enough.” <br><br> Listen to learn actionable steps to refine your portfolio, present data science value to stakeholders, and manage FOMO while advancing your career
+intro: How do you actually break into data science, build a portfolio that gets interviews, and stay sane while every new AI model vies for your attention? In this episode Mısra Turp — data scientist, content creator, and developer advocate at AssemblyAI (founder of “So you want to be a data scientist?”) — walks through a practical career playbook for job hunting, portfolio building, and coping with FOMO and imposter syndrome. <br><br> We cover Mısra’s career path from big data engineering to developer advocacy, what a data scientist’s day-to-day looks like, and the typical deliverables hiring managers expect (models, pipelines, reports, presentations). She explains role variants (consultant, in-house, freelance), tradeoffs between generalist and specialist tracks, and when a master’s or PhD matters. You’ll get concrete job-hunt tactics—how to catch a recruiter’s eye, which portfolio projects resonate, and why real-world datasets (like NYC Open Data) matter. The episode also includes a clear, high-level overview of DALL·E 2 and diffusion models, plus strategies for staying current (conferences vs social media) and knowing when a new framework is “good enough.” <br><br> Listen to learn actionable steps to refine your portfolio, present data science value to stakeholders, and manage FOMO while advancing your career
 topics:
 - data science
 - career growth
@@ -38,7 +38,7 @@ quotableClips:
   startOffset: 251
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=251
   endOffset: 389
-- name: 'Data Scientist Day‑to‑Day: Explaining the Role to Non‑Tech Audiences'
+- name: 'Data Scientist Day-to-Day: Explaining the Role to Non-Tech Audiences'
   startOffset: 389
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=389
   endOffset: 541
@@ -46,7 +46,7 @@ quotableClips:
   startOffset: 541
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=541
   endOffset: 658
-- name: 'Role Variants: Consultant, In‑House, and Freelance Responsibilities'
+- name: 'Role Variants: Consultant, In-House, and Freelance Responsibilities'
   startOffset: 658
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=658
   endOffset: 849
@@ -58,11 +58,11 @@ quotableClips:
   startOffset: 943
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=943
   endOffset: 1221
-- name: 'DALL·E 2 Overview: Text‑to‑Image Capabilities'
+- name: 'DALL·E 2 Overview: Text-to-Image Capabilities'
   startOffset: 1221
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=1221
   endOffset: 1301
-- name: 'Diffusion Models: High‑Level Explanation'
+- name: 'Diffusion Models: High-Level Explanation'
   startOffset: 1301
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=1301
   endOffset: 1659
@@ -82,7 +82,7 @@ quotableClips:
   startOffset: 2412
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=2412
   endOffset: 2567
-- name: 'Preferred Setup: Advantages of In‑House Data Science Roles'
+- name: 'Preferred Setup: Advantages of In-House Data Science Roles'
   startOffset: 2567
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=2567
   endOffset: 2853
@@ -90,7 +90,7 @@ quotableClips:
   startOffset: 2853
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=2853
   endOffset: 3032
-- name: 'Breaking In: Job‑Hunting Strategies for Entry‑Level Data Scientists'
+- name: 'Breaking In: Job-Hunting Strategies for Entry-Level Data Scientists'
   startOffset: 3032
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=3032
   endOffset: 3271
@@ -102,7 +102,7 @@ quotableClips:
   startOffset: 3429
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=3429
   endOffset: 3494
-- name: 'Real‑World Datasets: Using NYC Open Data and Dirty Data Examples'
+- name: 'Real-World Datasets: Using NYC Open Data and Dirty Data Examples'
   startOffset: 3494
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=3494
   endOffset: 3702
@@ -237,7 +237,7 @@ transcript:
   sec: 375
   time: '6:15'
   who: Misra
-- header: 'Data Scientist Day‑to‑Day: Explaining the Role to Non‑Tech Audiences'
+- header: 'Data Scientist Day-to-Day: Explaining the Role to Non-Tech Audiences'
 - line: Well, coming back to our main topic – data scientists at work. Maybe there
     are some parallels to data developer advocates, but you were a data scientist
     quite recently. Coming back to this topic, imagine you're a data scientist, not
@@ -330,7 +330,7 @@ transcript:
   sec: 541
   time: '9:01'
   who: Misra
-- header: 'Role Variants: Consultant, In‑House, and Freelance Responsibilities'
+- header: 'Role Variants: Consultant, In-House, and Freelance Responsibilities'
 - line: Was this something that you did at IBM, or is this something that maybe consultants
     tend to do more often? Like creating presentations and reports?
   sec: 658
@@ -515,7 +515,7 @@ transcript:
   sec: 1139
   time: '18:59'
   who: Misra
-- header: 'DALL·E 2 Overview: Text‑to‑Image Capabilities'
+- header: 'DALL·E 2 Overview: Text-to-Image Capabilities'
 - line: How does DALL·E work? Maybe you can tell us in a few sentences for those who
     have the fear of missing out. Because I do. I see these awesome pictures. I think
     the way it works, as a black box, you give it some prompt like a piece of text,
@@ -541,7 +541,7 @@ transcript:
   sec: 1241
   time: '20:41'
   who: Misra
-- header: 'Diffusion Models: High‑Level Explanation'
+- header: 'Diffusion Models: High-Level Explanation'
 - line: Yeah. Well, like it cannot imagine [audio cuts out] how it works. Like all
     these formulas that are there – they're just scary. I cannot imagine what it looks
     like for things like DALL·E like must be insane.
@@ -941,7 +941,7 @@ transcript:
   sec: 2563
   time: '42:43'
   who: Misra
-- header: 'Preferred Setup: Advantages of In‑House Data Science Roles'
+- header: 'Preferred Setup: Advantages of In-House Data Science Roles'
 - line: Okay, I see that we have quite a lot of questions. I also prepared questions
     for you, but I think it's better to go through the questions. The first question
     is about the types of data scientists and this is something we talked about at
@@ -1110,7 +1110,7 @@ transcript:
   sec: 3029
   time: '50:29'
   who: Misra
-- header: 'Breaking In: Job‑Hunting Strategies for Entry‑Level Data Scientists'
+- header: 'Breaking In: Job-Hunting Strategies for Entry-Level Data Scientists'
 - line: Okay. For newer data scientists – from courses like yours or boot camps –
     how would you suggest they break into the oversaturated market for entry-level
     data scientists?
@@ -1255,7 +1255,7 @@ transcript:
   sec: 3429
   time: '57:09'
   who: Alexey
-- header: 'Real‑World Datasets: Using NYC Open Data and Dirty Data Examples'
+- header: 'Real-World Datasets: Using NYC Open Data and Dirty Data Examples'
 - line: Yeah, I think that's a good point. Obviously, people are doing the same projects.
     But I think with these projects, what you're trying to show is not how great of
     a model that you're building. The model you build might suck and that's fine,

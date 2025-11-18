@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=6dn6uZFkk04
 
 description: 'Discover LLM deployment tactics: fine-tuning, retrieval and open-source vs API tradeoffs to cut latency, control costs, and ground production models.'
-intro: 'How do you take large language models from experiment to reliable production—balancing fine-tuning, retrieval strategies, and the tradeoffs between open‑source models and API services? In this episode, Meryem Arik, a recovering physicist and co‑founder of TitanML, walks through practical choices for LLM deployment based on her pivot from computer vision to building tools that make models smaller, cheaper, and easier to run in production. <br><br> We cover model fundamentals and selection (classification vs generative tasks), open‑source model options like LLaMA, FLAN‑T5, Falcon and MPT, and the operational realities of serving: model size, compression, inference optimization, latency and cost tradeoffs. Meryem explains when to prototype with GPT‑3.5/4 APIs versus self‑hosting, the risks of API model drift, and why fine‑tuning or retrieval‑augmented generation often beats continuous retraining. You’ll also get a clear breakdown of retrieval patterns, vector databases for semantic search, dataset expansion and evaluation strategies, and TitanML’s Train/Optimized/Takeoff product approach. Listen to gain actionable guidance for deploying LLMs in production—choosing architectures, reducing costs, and grounding answers reliably with retrieval.'
+intro: 'How do you take large language models from experiment to reliable production—balancing fine-tuning, retrieval strategies, and the tradeoffs between open-source models and API services? In this episode, Meryem Arik, a recovering physicist and co-founder of TitanML, walks through practical choices for LLM deployment based on her pivot from computer vision to building tools that make models smaller, cheaper, and easier to run in production. <br><br> We cover model fundamentals and selection (classification vs generative tasks), open-source model options like LLaMA, FLAN-T5, Falcon and MPT, and the operational realities of serving: model size, compression, inference optimization, latency and cost tradeoffs. Meryem explains when to prototype with GPT-3.5/4 APIs versus self-hosting, the risks of API model drift, and why fine-tuning or retrieval-augmented generation often beats continuous retraining. You’ll also get a clear breakdown of retrieval patterns, vector databases for semantic search, dataset expansion and evaluation strategies, and TitanML’s Train/Optimized/Takeoff product approach. Listen to gain actionable guidance for deploying LLMs in production—choosing architectures, reducing costs, and grounding answers reliably with retrieval.'
 dateadded: 2023-07-29
 
 duration: PT00H59M31S
@@ -42,7 +42,7 @@ quotableClips:
   startOffset: 289
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=289
   endOffset: 402
-- name: 'Early LLM Interest: customer-driven pivot and GPT‑3 experience'
+- name: 'Early LLM Interest: customer-driven pivot and GPT-3 experience'
   startOffset: 402
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=402
   endOffset: 557
@@ -50,7 +50,7 @@ quotableClips:
   startOffset: 557
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=557
   endOffset: 624
-- name: 'LLM Fundamentals: generative vs. non‑generative models and transformers'
+- name: 'LLM Fundamentals: generative vs. non-generative models and transformers'
   startOffset: 624
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=624
   endOffset: 704
@@ -58,7 +58,7 @@ quotableClips:
   startOffset: 704
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=704
   endOffset: 825
-- name: 'Open‑source Model Landscape: LLaMA, FLAN‑T5, Falcon, MPT'
+- name: 'Open-source Model Landscape: LLaMA, FLAN-T5, Falcon, MPT'
   startOffset: 825
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=825
   endOffset: 885
@@ -66,7 +66,7 @@ quotableClips:
   startOffset: 885
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=885
   endOffset: 1008
-- name: 'Open‑source vs API Models: control, privacy, and fine‑tuning benefits'
+- name: 'Open-source vs API Models: control, privacy, and fine-tuning benefits'
   startOffset: 1008
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=1008
   endOffset: 1126
@@ -82,11 +82,11 @@ quotableClips:
   startOffset: 1526
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=1526
   endOffset: 1590
-- name: 'Fine‑tuning Purpose: specialization, domain adaptation, and tone'
+- name: 'Fine-tuning Purpose: specialization, domain adaptation, and tone'
   startOffset: 1590
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=1590
   endOffset: 1898
-- name: 'Fine‑tuning Generative Models: data formats and end‑task considerations'
+- name: 'Fine-tuning Generative Models: data formats and end-task considerations'
   startOffset: 1898
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=1898
   endOffset: 2038
@@ -98,7 +98,7 @@ quotableClips:
   startOffset: 2446
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=2446
   endOffset: 2522
-- name: 'Grounding Answers: indexing docs and retrieval‑augmented responses'
+- name: 'Grounding Answers: indexing docs and retrieval-augmented responses'
   startOffset: 2522
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=2522
   endOffset: 2802
@@ -110,19 +110,19 @@ quotableClips:
   startOffset: 2881
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=2881
   endOffset: 2984
-- name: 'Prototyping vs Production: when to use GPT‑3.5/4 APIs vs open‑source LLMs'
+- name: 'Prototyping vs Production: when to use GPT-3.5/4 APIs vs open-source LLMs'
   startOffset: 2984
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=2984
   endOffset: 3095
-- name: 'Latency & Cost Tradeoffs: self‑hosting performance and hardware choices'
+- name: 'Latency & Cost Tradeoffs: self-hosting performance and hardware choices'
   startOffset: 3095
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=3095
   endOffset: 3214
-- name: 'Data Quality Metrics: gold‑standard examples and output‑driven evaluation'
+- name: 'Data Quality Metrics: gold-standard examples and output-driven evaluation'
   startOffset: 3214
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=3214
   endOffset: 3332
-- name: 'Dataset Expansion: LLM‑assisted augmentation for training data'
+- name: 'Dataset Expansion: LLM-assisted augmentation for training data'
   startOffset: 3332
   url: https://www.youtube.com/watch?v=6dn6uZFkk04&t=3332
   endOffset: 3399
@@ -274,7 +274,7 @@ transcript:
   sec: 386
   time: '6:26'
   who: Meryem
-- header: 'Early LLM Interest: customer-driven pivot and GPT‑3 experience'
+- header: 'Early LLM Interest: customer-driven pivot and GPT-3 experience'
 - line: I know we're kind of late to the party in terms of speaking about the LLM
     because, as I mentioned at the beginning, this is actually our first event ever
     about LLMs (where we explicitly talk about them). LLMs are large language models,
@@ -342,7 +342,7 @@ transcript:
   sec: 619
   time: '10:19'
   who: Alexey
-- header: 'LLM Fundamentals: generative vs. non‑generative models and transformers'
+- header: 'LLM Fundamentals: generative vs. non-generative models and transformers'
 - line: Yeah. LLMs  are large language models. I would kind of distinguish large language
     models into two things – quite often we conflate these ideas. Large language models,
     as we typically talk about them, are generative models. What these are, are models
@@ -412,7 +412,7 @@ transcript:
   sec: 808
   time: '13:28'
   who: Alexey
-- header: 'Open‑source Model Landscape: LLaMA, FLAN‑T5, Falcon, MPT'
+- header: 'Open-source Model Landscape: LLaMA, FLAN-T5, Falcon, MPT'
 - line: Yeah. There's a whole range and ecosystem of language models and they're good
     at different things. For example, there's the Google FLAN-T5 range, which is able
     to generate text. But what that's particularly good at is translation and summarization.
@@ -485,7 +485,7 @@ transcript:
   sec: 979
   time: '16:19'
   who: Alexey
-- header: 'Open‑source vs API Models: control, privacy, and fine‑tuning benefits'
+- header: 'Open-source vs API Models: control, privacy, and fine-tuning benefits'
 - line: Sure. There are a whole bunch of open source language models, and they're
     getting better and better month by month. I think only two days ago, Meta released
     LLaMA 2, which is a massively improved version from LLaMA 1, trained on 40% more
@@ -658,7 +658,7 @@ transcript:
   sec: 1563
   time: '26:03'
   who: Alexey
-- header: 'Fine‑tuning Purpose: specialization, domain adaptation, and tone'
+- header: 'Fine-tuning Purpose: specialization, domain adaptation, and tone'
 - line: Sure. When you take a model off the shelf, what it has and what it's very,
     very good at, is general language knowledge and understanding. Your model will
     speak English or speak whatever language it was trained in, and it'll have reasonably
@@ -760,7 +760,7 @@ transcript:
   sec: 1877
   time: '31:17'
   who: Alexey
-- header: 'Fine‑tuning Generative Models: data formats and end‑task considerations'
+- header: 'Fine-tuning Generative Models: data formats and end-task considerations'
 - line: Yeah. This kind of changes depending on the end task that you want it to get
     it to do. But in cases that we've done, you can literally just have strings of
     documents, you can just have raw text that you can fine-tune on. So you don't
@@ -949,7 +949,7 @@ transcript:
   sec: 2521
   time: '42:01'
   who: Alexey
-- header: 'Grounding Answers: indexing docs and retrieval‑augmented responses'
+- header: 'Grounding Answers: indexing docs and retrieval-augmented responses'
 - line: Yeah, exactly, a huge knowledge base. And I think most companies have those
     kinds of knowledge bases, whether in Confluence, or Notion, etc. What you can
     do is embed all of that documentation and reinvent it every single time it changes
@@ -1082,7 +1082,7 @@ transcript:
   sec: 2970
   time: '49:30'
   who: Meryem
-- header: 'Prototyping vs Production: when to use GPT‑3.5/4 APIs vs open‑source LLMs'
+- header: 'Prototyping vs Production: when to use GPT-3.5/4 APIs vs open-source LLMs'
 - line: For this task, do you know if we should go with an open source LLM or go with
     GPT-3.5 or 4? Are there any pros and cons?
   sec: 2984
@@ -1113,7 +1113,7 @@ transcript:
   sec: 3074
   time: '51:14'
   who: Alexey
-- header: 'Latency & Cost Tradeoffs: self‑hosting performance and hardware choices'
+- header: 'Latency & Cost Tradeoffs: self-hosting performance and hardware choices'
 - line: I mean, they are really fast. They're really, really fast, because they're
     hosted on very expensive hardware. If you were to host your model on the same
     hardware, using good techniques – using something like the Titan Takeoff server
@@ -1147,7 +1147,7 @@ transcript:
   sec: 3177
   time: '52:57'
   who: Meryem
-- header: 'Data Quality Metrics: gold‑standard examples and output‑driven evaluation'
+- header: 'Data Quality Metrics: gold-standard examples and output-driven evaluation'
 - line: We have a few interesting questions from Tara. The first question he's asking
     is, “How can you measure if the data you feed into an LLM is good enough?” Do
     you even think about these things or are you just saying, “This is the data I
@@ -1178,7 +1178,7 @@ transcript:
   sec: 3312
   time: '55:12'
   who: Alexey
-- header: 'Dataset Expansion: LLM‑assisted augmentation for training data'
+- header: 'Dataset Expansion: LLM-assisted augmentation for training data'
 - line: Yeah, it's super similar. A very basic example is – if I have a dataset where
     one example is “the pig is pink,” I might get my LLM to say “the cat is black”.
     It just kind of switches words out, but it's semantically similar. Another way

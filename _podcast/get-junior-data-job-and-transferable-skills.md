@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=_U8GrYJvmJM
 
 description: 'Master landing junior data jobs: craft achievement-based CVs, highlight transferable skills, ace interviews and beat imposter syndrome with coach tips.'
-intro: Struggling to land a junior data job—how do you turn non‑linear experience into a recruiter‑ready CV, prepare for interviews, and push past imposter syndrome? In this episode, Lindsay McQuade, a transformational coach with 20+ years across management consulting, higher education and tech and former Senior Career & Development Coach at SPICED Academy, guides listeners through practical steps for junior data roles. Lindsay draws on her work designing programs for hundreds of learners (SPICED training rated 94% “very good/excellent”) to explain CV writing for data roles, achievement‑based resumes, interview prep and negotiation. Topics include reframing past experience into evidence, identifying transferable skills for data analyst/scientist/engineer roles, tailoring applications by industry, the ikigai framework for career focus, and Berlin’s junior data market trends. We also cover impostor syndrome—its triggers, objective feedback strategies, and structured learning and T‑shaped skills to build confidence. Tune in for clear job search strategy (balanced volume and targeted applications), how to choose a career coach, and practical LinkedIn networking tips to convert applications into interviews
+intro: Struggling to land a junior data job—how do you turn non-linear experience into a recruiter-ready CV, prepare for interviews, and push past imposter syndrome? In this episode, Lindsay McQuade, a transformational coach with 20+ years across management consulting, higher education and tech and former Senior Career & Development Coach at SPICED Academy, guides listeners through practical steps for junior data roles. Lindsay draws on her work designing programs for hundreds of learners (SPICED training rated 94% “very good/excellent”) to explain CV writing for data roles, achievement-based resumes, interview prep and negotiation. Topics include reframing past experience into evidence, identifying transferable skills for data analyst/scientist/engineer roles, tailoring applications by industry, the ikigai framework for career focus, and Berlin’s junior data market trends. We also cover impostor syndrome—its triggers, objective feedback strategies, and structured learning and T-shaped skills to build confidence. Tune in for clear job search strategy (balanced volume and targeted applications), how to choose a career coach, and practical LinkedIn networking tips to convert applications into interviews
 topics:
 - career growth
 dateadded: 2022-02-12
@@ -28,7 +28,7 @@ quotableClips:
   startOffset: 68
   url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=68
   endOffset: 302
-- name: Spiced Academy Programs Overview (Full‑Stack & Data Science)
+- name: Spiced Academy Programs Overview (Full-Stack & Data Science)
   startOffset: 302
   url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=302
   endOffset: 360
@@ -40,7 +40,7 @@ quotableClips:
   startOffset: 560
   url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=560
   endOffset: 711
-- name: Reframing Past Experience into Recruiter‑Friendly Evidence
+- name: Reframing Past Experience into Recruiter-Friendly Evidence
   startOffset: 711
   url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=711
   endOffset: 782
@@ -48,7 +48,7 @@ quotableClips:
   startOffset: 782
   url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=782
   endOffset: 906
-- name: Achievement‑Based CV Writing vs Responsibility Lists
+- name: Achievement-Based CV Writing vs Responsibility Lists
   startOffset: 906
   url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=906
   endOffset: 1014
@@ -88,7 +88,7 @@ quotableClips:
   startOffset: 2091
   url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=2091
   endOffset: 2225
-- name: Objective Feedback vs Distorted Self‑Perception
+- name: Objective Feedback vs Distorted Self-Perception
   startOffset: 2225
   url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=2225
   endOffset: 2517
@@ -100,7 +100,7 @@ quotableClips:
   startOffset: 2695
   url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=2695
   endOffset: 2828
-- name: 'Building Confidence: Structured Learning Paths & T‑Shaped Skills'
+- name: 'Building Confidence: Structured Learning Paths & T-Shaped Skills'
   startOffset: 2828
   url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=2828
   endOffset: 3070
@@ -120,7 +120,7 @@ quotableClips:
   startOffset: 3510
   url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=3510
   endOffset: 3564
-- name: Episode Wrap‑Up & Final Career Coaching Takeaways
+- name: Episode Wrap-Up & Final Career Coaching Takeaways
   startOffset: 3564
   url: https://www.youtube.com/watch?v=_U8GrYJvmJM&t=3564
   endOffset: 3519
@@ -197,7 +197,7 @@ transcript:
   sec: 106
   time: '1:46'
   who: Lindsay
-- header: Spiced Academy Programs Overview (Full‑Stack & Data Science)
+- header: Spiced Academy Programs Overview (Full-Stack & Data Science)
 - line: Interesting. Can you tell us a few words about the school – Spiced Academy?
     What do you do there?
   sec: 302
@@ -324,7 +324,7 @@ transcript:
   sec: 648
   time: '10:48'
   who: Alexey
-- header: Reframing Past Experience into Recruiter‑Friendly Evidence
+- header: Reframing Past Experience into Recruiter-Friendly Evidence
 - line: Well, I think the first thing is to have a very honest and open conversation
     about what they think they failed at. So you give them the space to let all of
     this come out and then encourage them to think about what their successes were.
@@ -382,7 +382,7 @@ transcript:
   sec: 883
   time: '14:43'
   who: Alexey
-- header: Achievement‑Based CV Writing vs Responsibility Lists
+- header: Achievement-Based CV Writing vs Responsibility Lists
 - line: Yeah. I'm sure there will have been some very complex analytical things that
     they've had to work out. But we don't need to know the details of this and they
     shouldn’t use law terminology that we don't understand – we just want to extract
@@ -784,7 +784,7 @@ transcript:
   sec: 2221
   time: '37:01'
   who: Alexey
-- header: Objective Feedback vs Distorted Self‑Perception
+- header: Objective Feedback vs Distorted Self-Perception
 - line: So imagine this person's got someone to do this offset coding challenge. How
     far are they gonna get with this? Right? I would imagine there's a good chance
     they're gonna get found out at the technical interview stage. But let's imagine
@@ -959,7 +959,7 @@ transcript:
   sec: 2781
   time: '46:21'
   who: Alexey
-- header: 'Building Confidence: Structured Learning Paths & T‑Shaped Skills'
+- header: 'Building Confidence: Structured Learning Paths & T-Shaped Skills'
 - line: Yes, you're right. Yeah, what do you do? I would say this – when we're changing
     careers, this is a particularly fragile time for the imposter syndrome. As you
     said, in the workplace it can be even more challenging. Part of the reason for
@@ -1198,7 +1198,7 @@ transcript:
   sec: 3524
   time: '58:44'
   who: Lindsay
-- header: Episode Wrap‑Up & Final Career Coaching Takeaways
+- header: Episode Wrap-Up & Final Career Coaching Takeaways
 - line: Okay, yeah. Thanks a lot. Thanks for your time. We should be wrapping up.
     Thanks a lot for sharing all this advice with us. And thanks, everyone, especially
     Michael, who needed to wake up at 6am to watch this. [laughs] I hope it was worth

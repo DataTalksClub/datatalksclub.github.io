@@ -1201,10 +1201,10 @@ context: 'Context: Born during COVID as a volunteer meetup, DataTalks.Club scale
 intro: How do you scale a volunteer-run learning community into a sustainable platform
   offering free data engineering, MLOps, and LLM courses? In this episode Alexey Grigorev,
   founder of DataTalks.Club, walks through the origin story of the project, the leap
-  to running it full‑time, and the practical tradeoffs of building free data engineering
+  to running it full-time, and the practical tradeoffs of building free data engineering
   courses at scale. <br><br> Alexey’s background as the founder guides discussions
   on course portfolio decisions (Machine Learning, Data Engineering, MLOps, LLMs,
-  Stock Analytics), organic growth strategies like Zoomcamp word‑of‑mouth, and technical
+  Stock Analytics), organic growth strategies like Zoomcamp word-of-mouth, and technical
   choices—building the course platform in Django. We cover community safety and moderation,
   revenue volatility from sponsorships, tax and cashflow considerations in Germany,
   and how staying technical through pet projects and LLM experiments informed their
@@ -1212,5 +1212,5 @@ intro: How do you scale a volunteer-run learning community into a sustainable pl
   concrete takeaways on scaling online education, community-driven learning, course
   product work, and practical ways to help—mentoring, guesting, or joining projects
   and events. Useful for educators, course builders, and data practitioners wondering
-  how to create and sustain free, high‑quality data science and MLOps training.
+  how to create and sustain free, high-quality data science and MLOps training.
 ---

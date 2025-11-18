@@ -56,7 +56,7 @@ quotableClips:
   startOffset: 902
   url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=902
   endOffset: 1004
-- name: 'Release promotion: real‑time engagement on Hacker News, Reddit, and social
+- name: 'Release promotion: real-time engagement on Hacker News, Reddit, and social
     media'
   startOffset: 1004
   url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1004
@@ -66,7 +66,7 @@ quotableClips:
   url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1074
   endOffset: 1187
 - name: 'DevRel job realities: content creation, community management, and support
-    trade‑offs'
+    trade-offs'
   startOffset: 1187
   url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1187
   endOffset: 1431
@@ -74,7 +74,7 @@ quotableClips:
   startOffset: 1431
   url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1431
   endOffset: 1561
-- name: 'Community metrics: signals, analytics, and full‑time analysis potential'
+- name: 'Community metrics: signals, analytics, and full-time analysis potential'
   startOffset: 1561
   url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=1561
   endOffset: 1624
@@ -114,7 +114,7 @@ quotableClips:
   startOffset: 2715
   url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=2715
   endOffset: 2886
-- name: 'Audience growth: metrics, growth‑hacking versus sustainable strategies'
+- name: 'Audience growth: metrics, growth-hacking versus sustainable strategies'
   startOffset: 2886
   url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=2886
   endOffset: 3019
@@ -135,7 +135,7 @@ quotableClips:
   startOffset: 3399
   url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=3399
   endOffset: 3492
-- name: Episode Wrap‑up and Farewell
+- name: Episode Wrap-up and Farewell
   startOffset: 3492
   url: https://www.youtube.com/watch?v=jv5W4jXk4P4&t=3492
   endOffset: 3315
@@ -370,7 +370,7 @@ transcript:
   sec: 932
   time: '15:32'
   who: Elle
-- header: 'Release promotion: real‑time engagement on Hacker News, Reddit, and social
+- header: 'Release promotion: real-time engagement on Hacker News, Reddit, and social
     media'
 - line: So it's more like a feeling. Plus, if there is a certain release, you know
     that you will need to prepare for this release – prepare some supporting material,
@@ -424,7 +424,7 @@ transcript:
   time: '18:15'
   who: Elle
 - header: 'DevRel job realities: content creation, community management, and support
-    trade‑offs'
+    trade-offs'
 - line: Yeah, thank you. Since I was pretty curious about this role, I decided to
     just take a random job description of a developer advocate for a company and see
     what it says. I found this in some Slack, and it said in the responsibilities
@@ -516,7 +516,7 @@ transcript:
   sec: 1431
   time: '23:51'
   who: Elle
-- header: 'Community metrics: signals, analytics, and full‑time analysis potential'
+- header: 'Community metrics: signals, analytics, and full-time analysis potential'
 - line: Yeah, it makes sense. So basically, it's more a description of a full stack
     role, right? For example, in full stack data science, we have somebody who can
     talk to stakeholders, build data pipelines, train a model, roll the model out
@@ -903,7 +903,7 @@ transcript:
   sec: 2772
   time: '46:12'
   who: Elle
-- header: 'Audience growth: metrics, growth‑hacking versus sustainable strategies'
+- header: 'Audience growth: metrics, growth-hacking versus sustainable strategies'
 - line: You mentioned that people don't consider that it will involve a lot of growth
     hacking and things like that. But it actually does involve these things, right?
   sec: 2886
@@ -1085,7 +1085,7 @@ transcript:
   sec: 3407
   time: '56:47'
   who: Elle
-- header: Episode Wrap‑up and Farewell
+- header: Episode Wrap-up and Farewell
 - line: Yes. Thanks a lot for being here today and sharing your experience. And thanks
     everyone else for being here as well. Let's see each other again next week. Thanks,
     Elle. Goodbye.

@@ -31,7 +31,7 @@ intro: How has the rise of ChatGPT reshaped the infrastructure needed to build a
   when an open source approach like dstack is appropriate, what to evaluate in orchestration
   tools, and how to balance performance, cost, and control as you scale AI projects
   post-ChatGPT. This episode is for engineering leaders and ML infrastructure teams
-  seeking actionable insights on AI infrastructure, orchestration tools, on‑prem economics,
+  seeking actionable insights on AI infrastructure, orchestration tools, on-prem economics,
   and distributed training best practices.
 dateadded: 2025-02-26
 duration: PT01H06M04S
@@ -48,11 +48,11 @@ quotableClips:
   startOffset: 327
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=327
   endOffset: 505
-- name: Cloud vs On‑Prem Costs and MLOps Limitations (SageMaker example)
+- name: Cloud vs On-Prem Costs and MLOps Limitations (SageMaker example)
   startOffset: 505
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=505
   endOffset: 600
-- name: Cloud-to-On‑Prem Realities in the Post‑ChatGPT Era
+- name: Cloud-to-On-Prem Realities in the Post-ChatGPT Era
   startOffset: 600
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=600
   endOffset: 778
@@ -60,7 +60,7 @@ quotableClips:
   startOffset: 778
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=778
   endOffset: 1053
-- name: 'Open vs Proprietary Models: Business Models and Trade‑Offs'
+- name: 'Open vs Proprietary Models: Business Models and Trade-Offs'
   startOffset: 1053
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=1053
   endOffset: 1297
@@ -80,7 +80,7 @@ quotableClips:
   startOffset: 2255
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=2255
   endOffset: 2370
-- name: Fine‑Tuning & Serving Models for Non–AI‑First Companies
+- name: Fine-Tuning & Serving Models for Non–AI-First Companies
   startOffset: 2370
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=2370
   endOffset: 2836
@@ -92,15 +92,15 @@ quotableClips:
   startOffset: 3059
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3059
   endOffset: 3116
-- name: 'Hybrid Infrastructure Outlook: Cloud Dominance and On‑Prem Nuances'
+- name: 'Hybrid Infrastructure Outlook: Cloud Dominance and On-Prem Nuances'
   startOffset: 3116
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3116
   endOffset: 3271
-- name: 'On‑Prem GPU Coordination: SSH, Resource Contention, and Real Examples'
+- name: 'On-Prem GPU Coordination: SSH, Resource Contention, and Real Examples'
   startOffset: 3271
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3271
   endOffset: 3413
-- name: 'Bare‑Metal as a Service: Provisioning, Automation, and Firmware Management'
+- name: 'Bare-Metal as a Service: Provisioning, Automation, and Firmware Management'
   startOffset: 3413
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3413
   endOffset: 3487
@@ -112,11 +112,11 @@ quotableClips:
   startOffset: 3630
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3630
   endOffset: 3771
-- name: 'Closing Pick: Science‑Fiction Recommendation — The Three‑Body Problem'
+- name: 'Closing Pick: Science-Fiction Recommendation — The Three-Body Problem'
   startOffset: 3771
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3771
   endOffset: 3938
-- name: Episode Wrap‑Up & Links to DStack and Guest Resources
+- name: Episode Wrap-Up & Links to DStack and Guest Resources
   startOffset: 3938
   url: https://www.youtube.com/watch?v=1aMuynlLM3o&t=3938
   endOffset: 3964
@@ -242,7 +242,7 @@ transcript:
   sec: 327
   time: '5:27'
   who: Andrey
-- header: Cloud vs On‑Prem Costs and MLOps Limitations (SageMaker example)
+- header: Cloud vs On-Prem Costs and MLOps Limitations (SageMaker example)
 - line: Yes, there are existing tools for machine learning, like SageMaker, but as
     you mentioned, cost becomes a major issue.
   sec: 505
@@ -269,7 +269,7 @@ transcript:
   sec: 537
   time: '8:57'
   who: Alexey
-- header: Cloud-to-On‑Prem Realities in the Post‑ChatGPT Era
+- header: Cloud-to-On-Prem Realities in the Post-ChatGPT Era
 - line: Yes, and while many of these challenges are still relevant today, there are
     even bigger challenges ahead. The "ChatGPT moment" has introduced new issues,
     which makes AI infrastructure an even more important topic today.
@@ -351,7 +351,7 @@ transcript:
   sec: 809
   time: '13:29'
   who: Andrey
-- header: 'Open vs Proprietary Models: Business Models and Trade‑Offs'
+- header: 'Open vs Proprietary Models: Business Models and Trade-Offs'
 - line: I don’t know the full story behind OpenAI either, but I think they initially
     released many things as open-source. GPT-2 was open-source, and they also released
     Whisper and CLIP. But when they released GPT-3, they realized it was a gold mine.
@@ -603,7 +603,7 @@ transcript:
   sec: 2255
   time: '37:35'
   who: Alexey
-- header: Fine‑Tuning & Serving Models for Non–AI‑First Companies
+- header: Fine-Tuning & Serving Models for Non–AI-First Companies
 - line: Correct, although I’d be cautious about labeling companies as small or medium.
     I think it’s more about whether a company is AI-first or not. Once you figure
     that out, everything becomes much clearer. If a company is AI-first, they’re likely
@@ -720,7 +720,7 @@ transcript:
   sec: 3106
   time: '51:46'
   who: Andrey
-- header: 'Hybrid Infrastructure Outlook: Cloud Dominance and On‑Prem Nuances'
+- header: 'Hybrid Infrastructure Outlook: Cloud Dominance and On-Prem Nuances'
 - line: 'Here''s a question: Do you think the future will be a hybrid of bare metal
     and cloud, or will it be cloud-only?'
   sec: 3116
@@ -763,7 +763,7 @@ transcript:
   sec: 3268
   time: '54:28'
   who: Andrey
-- header: 'On‑Prem GPU Coordination: SSH, Resource Contention, and Real Examples'
+- header: 'On-Prem GPU Coordination: SSH, Resource Contention, and Real Examples'
 - line: When I think about on-prem, particularly for data teams, data science teams,
     and ML teams, I recall my first company in Germany. We had a machine with GPUs,
     and everyone had access to it. We would SSH into the machine, but then we had
@@ -797,7 +797,7 @@ transcript:
   sec: 3411
   time: '56:51'
   who: Alexey
-- header: 'Bare‑Metal as a Service: Provisioning, Automation, and Firmware Management'
+- header: 'Bare-Metal as a Service: Provisioning, Automation, and Firmware Management'
 - line: Yes, bare metal as a service is another option. Some companies offer bare
     metal as a service, where they handle the provisioning and firmware updates for
     you. But if you want to run a service yourself across multiple bare metal providers,
@@ -890,7 +890,7 @@ transcript:
   sec: 3762
   time: '1:02:42'
   who: Andrey
-- header: 'Closing Pick: Science‑Fiction Recommendation — The Three‑Body Problem'
+- header: 'Closing Pick: Science-Fiction Recommendation — The Three-Body Problem'
 - line: So, last question for you. You mentioned you like science fiction. What’s
     your favorite book?
   sec: 3771
@@ -943,7 +943,7 @@ transcript:
   sec: 3920
   time: '1:05:20'
   who: Andrey
-- header: Episode Wrap‑Up & Links to DStack and Guest Resources
+- header: Episode Wrap-Up & Links to DStack and Guest Resources
 - line: Sounds interesting! Thanks a lot, Andrey. We only touched on a fraction of
     the topics we wanted to discuss today, which is no surprise, given how much we
     wanted to cover. But it was great talking with you. Thanks for accepting the invite,
@@ -963,22 +963,22 @@ context: 'Context: A conversation with an AI-infrastructure practitioner about m
   Core theme (single unifying idea): Practical AI is an infrastructure-first problem
   — success depends less on chasing the biggest model and more on designing cost-effective,
   controllable, and efficient stacks (hardware, orchestration, and software) that
-  fit hybrid cloud/on‑prem realities, leverage open-source ecosystems, and optimize
+  fit hybrid cloud/on-prem realities, leverage open-source ecosystems, and optimize
   distributed training and serving for real-world constraints.
 
-  Dominant through-line: Every segment — from cost of ownership and cloud vs on‑prem
-  trade‑offs to open vs proprietary models, decentralization, distributed training
+  Dominant through-line: Every segment — from cost of ownership and cloud vs on-prem
+  trade-offs to open vs proprietary models, decentralization, distributed training
   bottlenecks, orchestration gaps, and edge/federated use cases — returns to the same
   tension: how to deliver AI that is scalable, performant, and economically sustainable
   by choosing the right mix of tooling, deployment model, and optimizations.
 
   Key themes implied by the narrative: - Cost and control drive architecture choices
-  more than raw model capability. - Hybrid cloud + on‑prem is the pragmatic reality;
+  more than raw model capability. - Hybrid cloud + on-prem is the pragmatic reality;
   orchestration must adapt. - Open-source ecosystems accelerate feedback, tooling,
   and business flexibility. - Efficient distributed training and communication optimizations
   trump brute-force scaling. - Decentralization (privacy, local control, edge) is
   often a matter of fit and trade-offs, not ideology. - Practical provisioning, automation,
-  and orchestration are the unsolved scaling problems for non–AI‑first organizations.'
+  and orchestration are the unsolved scaling problems for non–AI-first organizations.'
 ---
 Links:
 

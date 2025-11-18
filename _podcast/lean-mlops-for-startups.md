@@ -54,7 +54,7 @@ quotableClips:
   startOffset: 714
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=714
   endOffset: 774
-- name: 'Cloud Trade-offs: Startup Credits, Migration Friction, and Lock‑in'
+- name: 'Cloud Trade-offs: Startup Credits, Migration Friction, and Lock-in'
   startOffset: 774
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=774
   endOffset: 906
@@ -66,11 +66,11 @@ quotableClips:
   startOffset: 1058
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=1058
   endOffset: 1159
-- name: 'Portability vs Managed Services: Avoiding Vendor Lock‑In (Vertex AI, SageMaker)'
+- name: 'Portability vs Managed Services: Avoiding Vendor Lock-In (Vertex AI, SageMaker)'
   startOffset: 1159
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=1159
   endOffset: 1295
-- name: 'Low‑Code Trade-offs: Speed vs Future Flexibility'
+- name: 'Low-Code Trade-offs: Speed vs Future Flexibility'
   startOffset: 1295
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=1295
   endOffset: 1342
@@ -78,7 +78,7 @@ quotableClips:
   startOffset: 1342
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=1342
   endOffset: 1650
-- name: 'End‑to‑End Ownership: Multidisciplinary Work in Startups'
+- name: 'End-to-End Ownership: Multidisciplinary Work in Startups'
   startOffset: 1650
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=1650
   endOffset: 1777
@@ -98,7 +98,7 @@ quotableClips:
   startOffset: 2148
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2148
   endOffset: 2274
-- name: 'AI‑Assisted Coding: Productivity Gains and Technical Debt Risks'
+- name: 'AI-Assisted Coding: Productivity Gains and Technical Debt Risks'
   startOffset: 2274
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2274
   endOffset: 2401
@@ -106,7 +106,7 @@ quotableClips:
   startOffset: 2401
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2401
   endOffset: 2592
-- name: 'Early‑Career Advice: Mentorship, Pairing, and Role Selection'
+- name: 'Early-Career Advice: Mentorship, Pairing, and Role Selection'
   startOffset: 2592
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=2592
   endOffset: 2650
@@ -134,11 +134,11 @@ quotableClips:
   startOffset: 3343
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=3343
   endOffset: 3429
-- name: 'On‑Premise vs Cloud: Privacy, Cost Efficiency, and Migration Strategy'
+- name: 'On-Premise vs Cloud: Privacy, Cost Efficiency, and Migration Strategy'
   startOffset: 3429
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=3429
   endOffset: 3609
-- name: 'Distributed Compute Alternatives: Dask, Spark, and Performance Trade‑offs'
+- name: 'Distributed Compute Alternatives: Dask, Spark, and Performance Trade-offs'
   startOffset: 3609
   url: https://www.youtube.com/watch?v=DX9c__a4jzg&t=3609
   endOffset: 3701
@@ -313,7 +313,7 @@ transcript:
   sec: 714
   time: '11:54'
   who: Nemanja
-- header: 'Cloud Trade-offs: Startup Credits, Migration Friction, and Lock‑in'
+- header: 'Cloud Trade-offs: Startup Credits, Migration Friction, and Lock-in'
 - line: Going on-premise is hard for a startup unless it makes a lot of sense. I think
     it’s a no-brainer for startups to go for the cloud. However, there needs to be
     a clever decision because migrating from one cloud to another can be slow and
@@ -411,7 +411,7 @@ transcript:
   sec: 1109
   time: '18:29'
   who: Nemanja
-- header: 'Portability vs Managed Services: Avoiding Vendor Lock‑In (Vertex AI, SageMaker)'
+- header: 'Portability vs Managed Services: Avoiding Vendor Lock-In (Vertex AI, SageMaker)'
 - line: I tried Kubeflow, and it was a huge pain because of all the YAML files and
     Kubernetes complexity. Maybe it makes sense in the long run, but at the beginning,
     you might just need Flask or something simpler.
@@ -448,7 +448,7 @@ transcript:
   sec: 1274
   time: '21:14'
   who: Alexey
-- header: 'Low‑Code Trade-offs: Speed vs Future Flexibility'
+- header: 'Low-Code Trade-offs: Speed vs Future Flexibility'
 - line: Yes, that makes you more portable. Some startups might want to start as fast
     as possible using low-code solutions. If you can only hire a data scientist and
     not a proper software or systems engineer, you might go with a low-code platform.
@@ -545,7 +545,7 @@ transcript:
   sec: 1631
   time: '27:11'
   who: Nemanja
-- header: 'End‑to‑End Ownership: Multidisciplinary Work in Startups'
+- header: 'End-to-End Ownership: Multidisciplinary Work in Startups'
 - line: Startups also pivot frequently. A small, young startup might shift directions
     completely based on client demands. One client might leave, and another might
     request something entirely different. This kind of abrupt change keeps things
@@ -760,7 +760,7 @@ transcript:
   sec: 2267
   time: '37:47'
   who: Nemanja
-- header: 'AI‑Assisted Coding: Productivity Gains and Technical Debt Risks'
+- header: 'AI-Assisted Coding: Productivity Gains and Technical Debt Risks'
 - line: But you know what I see as a risk now with LLMs and AI-assisted coding?
   sec: 2274
   time: '37:54'
@@ -908,7 +908,7 @@ transcript:
   sec: 2586
   time: '43:06'
   who: Alexey
-- header: 'Early‑Career Advice: Mentorship, Pairing, and Role Selection'
+- header: 'Early-Career Advice: Mentorship, Pairing, and Role Selection'
 - line: For juniors, is it better to join a corporation or a more established company?
   sec: 2592
   time: '43:12'
@@ -1260,7 +1260,7 @@ transcript:
   sec: 3412
   time: '56:52'
   who: Nemanja
-- header: 'On‑Premise vs Cloud: Privacy, Cost Efficiency, and Migration Strategy'
+- header: 'On-Premise vs Cloud: Privacy, Cost Efficiency, and Migration Strategy'
 - line: 'Right. So maybe let’s take one last question. You mentioned you have experience
     with on-premise systems. Most corporations you’ve worked with have preferred on-premise
     over cloud solutions. Luka is asking: Do you think on-premise will be the future
@@ -1328,7 +1328,7 @@ transcript:
   sec: 3604
   time: '1:00:04'
   who: Nemanja
-- header: 'Distributed Compute Alternatives: Dask, Spark, and Performance Trade‑offs'
+- header: 'Distributed Compute Alternatives: Dask, Spark, and Performance Trade-offs'
 - line: Dask is a mature tool, and I know it works in a distributed manner like Spark.
     However, I haven’t seen it widely used in the industry. Companies usually default
     to Spark for distributed processing. My limited success with Dask doesn’t mean
@@ -1360,16 +1360,16 @@ transcript:
   sec: 3726
   time: '1:02:06'
   who: Nemanja
-context: 'The episode’s single unifying idea is pragmatic trade‑offs: how to move
+context: 'The episode’s single unifying idea is pragmatic trade-offs: how to move
   fast and deliver value in ML-driven products and careers while deliberately managing
-  the risks that speed introduces—technical debt, vendor lock‑in, operational overhead,
+  the risks that speed introduces—technical debt, vendor lock-in, operational overhead,
   and team burnout. Every segment circles back to the same decision framework: choose
   lean, observable, portable primitives and SaaS or managed services pragmatically
   to ship quickly; invest in minimal, automatable MLOps and instrumentation so you
   can iterate safely; and prioritize foundational skills, mentorship, and ownership
-  to sustain learning and long‑term flexibility. In short, be intentional about early
+  to sustain learning and long-term flexibility. In short, be intentional about early
   architectural, tooling, and career choices—opt for simplicity and visibility to
-  accelerate outcomes today while preserving the ability to evolve, scale, and de‑risk
+  accelerate outcomes today while preserving the ability to evolve, scale, and de-risk
   tomorrow.'
 ---
 Links:

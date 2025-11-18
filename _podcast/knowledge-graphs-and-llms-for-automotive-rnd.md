@@ -20,7 +20,7 @@ intro: How can knowledge graphs and large language models (LLMs) be combined to 
   automotive R&D — from crash simulation insights to reproducible reports? In this
   episode Anahita Pakiman, a data scientist-engineer who moved from mechanical engineering
   and finite element analysis (FEA) into applied AI and now works as Senior Knowledge
-  Graph-Data Scientist Consultant at brox IT‑Solutions, walks through practical strategies
+  Graph-Data Scientist Consultant at brox IT-Solutions, walks through practical strategies
   and tradeoffs. <br><br> We cover FEA vs machine learning, optimization and topology
   in crash simulations, and why teams adopt Neo4j for semantic reporting and load-path
   detection. Anahita explains graph vs tabular representations, moving from knowledge

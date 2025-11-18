@@ -16,7 +16,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/building-a-data-science-team-dat-tran/id1541710331?i=1000502061864
 
 description: 'Master building ML teams: hiring playbooks, MLOps day-two ops, and product-driven AI for startups—scale with T-shaped engineers, ship robust models.'
-intro: 'How do you build and scale an ML team that delivers product-driven AI without getting bogged down by tech debt or false promises? In this episode, Dat Tran — Partner & CTO at DATANOMIQ and former AI lead at Axel Springer, idealo, and Pivotal — walks through practical strategies for hiring, MLOps, and shaping data teams for startups. <br><br> Dat draws on a decade of production ML experience to unpack the MLOps mindset (day‑two operations, model maintenance), how to hire early (T‑shaped generalists, take‑home assessments, key hiring signals), and when to shift to specialists as you scale. He also explains product-centric practices: aligning hiring to prototype vs. MVP needs, prioritizing impact over technical perfection, and building human‑centric AI (augmenting pricing managers at Priceloop). Other topics include open research and open source as strategic advantages, bootstrapping data capabilities, retention through autonomy and interesting work, and educating leadership about realistic AI expectations. <br><br> Listen for actionable guidance on building ML teams, hiring machine learning engineers, and implementing MLOps and product-driven AI in early‑stage startups.'
+intro: 'How do you build and scale an ML team that delivers product-driven AI without getting bogged down by tech debt or false promises? In this episode, Dat Tran — Partner & CTO at DATANOMIQ and former AI lead at Axel Springer, idealo, and Pivotal — walks through practical strategies for hiring, MLOps, and shaping data teams for startups. <br><br> Dat draws on a decade of production ML experience to unpack the MLOps mindset (day-two operations, model maintenance), how to hire early (T-shaped generalists, take-home assessments, key hiring signals), and when to shift to specialists as you scale. He also explains product-centric practices: aligning hiring to prototype vs. MVP needs, prioritizing impact over technical perfection, and building human-centric AI (augmenting pricing managers at Priceloop). Other topics include open research and open source as strategic advantages, bootstrapping data capabilities, retention through autonomy and interesting work, and educating leadership about realistic AI expectations. <br><br> Listen for actionable guidance on building ML teams, hiring machine learning engineers, and implementing MLOps and product-driven AI in early-stage startups.'
 topics:
 - leadership
 - team building
@@ -52,7 +52,7 @@ quotableClips:
   startOffset: 486
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=486
   endOffset: 560
-- name: 'MLOps Mindset: Day‑Two Operations and Model Maintenance'
+- name: 'MLOps Mindset: Day-Two Operations and Model Maintenance'
   startOffset: 560
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=560
   endOffset: 667
@@ -72,23 +72,23 @@ quotableClips:
   startOffset: 1158
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1158
   endOffset: 1226
-- name: 'Founding Priceloop: Technical Co‑founder and Pricing Opportunity'
+- name: 'Founding Priceloop: Technical Co-founder and Pricing Opportunity'
   startOffset: 1226
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1226
   endOffset: 1399
-- name: 'Pricing Product Vision: White‑Box AI Framework for Dynamic Pricing'
+- name: 'Pricing Product Vision: White-Box AI Framework for Dynamic Pricing'
   startOffset: 1399
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1399
   endOffset: 1492
-- name: 'Human‑Centric Pricing: Augmenting Pricing Managers, Not Replacing Them'
+- name: 'Human-Centric Pricing: Augmenting Pricing Managers, Not Replacing Them'
   startOffset: 1492
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1492
   endOffset: 1525
-- name: 'Early‑Stage Hiring Plan: Building a Tactical Product Team'
+- name: 'Early-Stage Hiring Plan: Building a Tactical Product Team'
   startOffset: 1525
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1525
   endOffset: 1645
-- name: 'Open Research Strategy: Community, Open‑Source & Competitive Advantage'
+- name: 'Open Research Strategy: Community, Open-Source & Competitive Advantage'
   startOffset: 1645
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1645
   endOffset: 1737
@@ -96,19 +96,19 @@ quotableClips:
   startOffset: 1737
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1737
   endOffset: 1780
-- name: 'Cross‑Functional Roles: ML Engineers, Data Engineers, PMs & Designers'
+- name: 'Cross-Functional Roles: ML Engineers, Data Engineers, PMs & Designers'
   startOffset: 1780
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1780
   endOffset: 1839
-- name: 'Generalists First: T‑Shaped Engineers for Early Startups'
+- name: 'Generalists First: T-Shaped Engineers for Early Startups'
   startOffset: 1839
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=1839
   endOffset: 2015
-- name: 'Mid‑Stage Hiring: Shifting Toward Specialists as Maturity Grows'
+- name: 'Mid-Stage Hiring: Shifting Toward Specialists as Maturity Grows'
   startOffset: 2015
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=2015
   endOffset: 2243
-- name: 'Product‑Centric Culture: Customer Focus, Fast Iteration & Feedback Loops'
+- name: 'Product-Centric Culture: Customer Focus, Fast Iteration & Feedback Loops'
   startOffset: 2243
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=2243
   endOffset: 2371
@@ -120,11 +120,11 @@ quotableClips:
   startOffset: 2607
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=2607
   endOffset: 2851
-- name: 'Take‑Home Assessments: Code Quality, Naming, Consistency & Detail'
+- name: 'Take-Home Assessments: Code Quality, Naming, Consistency & Detail'
   startOffset: 2851
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=2851
   endOffset: 2991
-- name: 'Project Prioritization: Impact vs Technical Feasibility & Fail‑Fast'
+- name: 'Project Prioritization: Impact vs Technical Feasibility & Fail-Fast'
   startOffset: 2991
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=2991
   endOffset: 3152
@@ -144,7 +144,7 @@ quotableClips:
   startOffset: 3400
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=3400
   endOffset: 3619
-- name: Episode Wrap‑Up & Key Takeaways
+- name: Episode Wrap-Up & Key Takeaways
   startOffset: 3619
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=3619
   endOffset: 3524
@@ -270,7 +270,7 @@ transcript:
   sec: 517
   time: '8:37'
   who: Dat
-- header: 'MLOps Mindset: Day‑Two Operations and Model Maintenance'
+- header: 'MLOps Mindset: Day-Two Operations and Model Maintenance'
 - line: 'I learned a lot about this. I devised my own ideas on how to make it happen.
     Because at the time, no one was really thinking about that. What I was thinking
     was: how do you create this fancy machine learning model? How do you do all the
@@ -430,7 +430,7 @@ transcript:
   sec: 1198
   time: '19:58'
   who: Dat
-- header: 'Founding Priceloop: Technical Co‑founder and Pricing Opportunity'
+- header: 'Founding Priceloop: Technical Co-founder and Pricing Opportunity'
 - line: Then I was talking to a few friends. One idea was “Okay, maybe you go back
     to Vietnam.” I'm not from Vietnam, I'm from Germany, but maybe go to Vietnam and
     go to a consultancy, because the tech is really strong there, and maybe an idea
@@ -472,7 +472,7 @@ transcript:
   sec: 1346
   time: '22:26'
   who: Dat
-- header: 'Pricing Product Vision: White‑Box AI Framework for Dynamic Pricing'
+- header: 'Pricing Product Vision: White-Box AI Framework for Dynamic Pricing'
 - line: As far as you know, there's many AI software systems out there, also for pricing.
     Most of these pricing servers are actually more closed solutions. You get the
     data from your client, and then you put it into your system – maybe you have a
@@ -496,7 +496,7 @@ transcript:
   sec: 1460
   time: '24:20'
   who: Dat
-- header: 'Human‑Centric Pricing: Augmenting Pricing Managers, Not Replacing Them'
+- header: 'Human-Centric Pricing: Augmenting Pricing Managers, Not Replacing Them'
 - line: We don't want to take away the pricing manager. We don't want to tell them
     “Hey, if you're going to use this, you don't need to hire a pricing manager or
     you can fire the pricing manager.” No, we want to give them a frame of a tool.
@@ -506,7 +506,7 @@ transcript:
   sec: 1492
   time: '24:52'
   who: Dat
-- header: 'Early‑Stage Hiring Plan: Building a Tactical Product Team'
+- header: 'Early-Stage Hiring Plan: Building a Tactical Product Team'
 - line: A long story. But very interesting. What stood out to me was, first of all,
     you mentioned Andrew Ng and his course on Coursera. I think so many people ended
     up where they are now, because of that course. Including myself. Yeah, it changed
@@ -528,7 +528,7 @@ transcript:
   sec: 1598
   time: '26:38'
   who: Dat
-- header: 'Open Research Strategy: Community, Open‑Source & Competitive Advantage'
+- header: 'Open Research Strategy: Community, Open-Source & Competitive Advantage'
 - line: Our goal is to create a strong tactical product team. Which focuses on disrupting
     one of the industries. We believe that the future is in open research, and contribution
     from outside and contributing into ideas for many, many different organizations.
@@ -558,7 +558,7 @@ transcript:
   sec: 1737
   time: '28:57'
   who: Dat
-- header: 'Cross‑Functional Roles: ML Engineers, Data Engineers, PMs & Designers'
+- header: 'Cross-Functional Roles: ML Engineers, Data Engineers, PMs & Designers'
 - line: But we just don't know, which features will lead to this kind of thing. We
     are hiring for different roles that would take us to that point to get a better
     understanding of our vision. We’re building like an open framework. Like a library.
@@ -575,7 +575,7 @@ transcript:
   sec: 1812
   time: '30:12'
   who: Dat
-- header: 'Generalists First: T‑Shaped Engineers for Early Startups'
+- header: 'Generalists First: T-Shaped Engineers for Early Startups'
 - line: There's a lot of roles that need you to think about before. In the beginning
     you also need to think about – do you need very experienced people or inexperienced
     people? Also generalists with specialists? This is the question that you really
@@ -625,7 +625,7 @@ transcript:
   sec: 1983
   time: '33:03'
   who: Dat
-- header: 'Mid‑Stage Hiring: Shifting Toward Specialists as Maturity Grows'
+- header: 'Mid-Stage Hiring: Shifting Toward Specialists as Maturity Grows'
 - line: If I would map it to Idealo. Idealo was not very mature, but also not completely
     immature. It was in the middle of this transformation. They had a data analyst
     before – they had business intelligence people – they also had data engineering
@@ -692,7 +692,7 @@ transcript:
   sec: 2241
   time: '37:21'
   who: Dat
-- header: 'Product‑Centric Culture: Customer Focus, Fast Iteration & Feedback Loops'
+- header: 'Product-Centric Culture: Customer Focus, Fast Iteration & Feedback Loops'
 - line: You mentioned a couple of things previously. And one thing that stood out
     to me was – you want to build a strong product team. What does that mean to you
     – a strong product team?
@@ -861,7 +861,7 @@ transcript:
   sec: 2841
   time: '47:21'
   who: Alexey
-- header: 'Take‑Home Assessments: Code Quality, Naming, Consistency & Detail'
+- header: 'Take-Home Assessments: Code Quality, Naming, Consistency & Detail'
 - line: The second interview is a homework assignment. I send out a homework, which
     is not very difficult. Then they send me the code, whether it is Jupyter Notebook
     or whatever. Then I check it. From this simple task, you could already see how
@@ -903,7 +903,7 @@ transcript:
   sec: 2939
   time: '48:59'
   who: Alexey
-- header: 'Project Prioritization: Impact vs Technical Feasibility & Fail‑Fast'
+- header: 'Project Prioritization: Impact vs Technical Feasibility & Fail-Fast'
 - line: This is always a very difficult question. It's risky. Let's say you have 100
     projects. You have only limited resources, which means you need to pick the one
     that has the highest return on investment. What I do is – I have this matrix.
@@ -1070,7 +1070,7 @@ transcript:
   sec: 3608
   time: '60:08'
   who: Alexey
-- header: Episode Wrap‑Up & Key Takeaways
+- header: Episode Wrap-Up & Key Takeaways
 - line: Yeah. Thanks a lot for taking time to come here and share your knowledge with
     us and your expertise. Thanks a lot and thank you everyone for attending and you
     questions. And we will put the video out soon. And yeah – that’s all, I think.

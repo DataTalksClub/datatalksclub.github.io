@@ -60,7 +60,7 @@ quotableClips:
   startOffset: 492
   url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=492
   endOffset: 572
-- name: 'Self‑Study Path: Learning statistics without formal classes'
+- name: 'Self-Study Path: Learning statistics without formal classes'
   startOffset: 572
   url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=572
   endOffset: 887
@@ -92,7 +92,7 @@ quotableClips:
   startOffset: 1757
   url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=1757
   endOffset: 2028
-- name: 'MCMC Fundamentals: Markov chains and exploring high‑probability regions'
+- name: 'MCMC Fundamentals: Markov chains and exploring high-probability regions'
   startOffset: 2028
   url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=2028
   endOffset: 2199
@@ -132,7 +132,7 @@ quotableClips:
   startOffset: 3953
   url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=3953
   endOffset: 3991
-- name: Episode Wrap‑up, Links, and Next Steps
+- name: Episode Wrap-up, Links, and Next Steps
   startOffset: 3991
   url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=3991
   endOffset: 3905
@@ -299,7 +299,7 @@ transcript:
   sec: 557
   time: '9:17'
   who: Alexey
-- header: 'Self‑Study Path: Learning statistics without formal classes'
+- header: 'Self-Study Path: Learning statistics without formal classes'
 - line: It was just dabbling. You're just sort of dabbling in the problems, you're
     reading about them. Because in some sense, if you're like, “Oh, I want to learn
     machine learning. Okay, I'm going to learn how to run a random forest or implement
@@ -740,7 +740,7 @@ transcript:
   sec: 2023
   time: '33:43'
   who: Alexey
-- header: 'MCMC Fundamentals: Markov chains and exploring high‑probability regions'
+- header: 'MCMC Fundamentals: Markov chains and exploring high-probability regions'
 - line: Our model essentially returns to us, “What's the probability the parameter
     has this value, given the data we return?” So we have these probabilities there.
     But we can't know in advance what the high probability regions are going to be.
@@ -1290,7 +1290,7 @@ transcript:
   sec: 3986
   time: '1:06:26'
   who: Rob
-- header: Episode Wrap‑up, Links, and Next Steps
+- header: Episode Wrap-up, Links, and Next Steps
 - line: Okay. We will also include the email in the description. I posted two links
     in the live chat – I will also post them in the description. I guess that's all
     for today. Thanks a lot, Rob, for joining us today. And thanks, everyone, for

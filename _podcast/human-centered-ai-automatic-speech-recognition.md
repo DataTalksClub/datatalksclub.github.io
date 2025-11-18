@@ -19,16 +19,16 @@ description: Discover ASR solutions for disordered speech and accents—boost re
 intro: How can automatic speech recognition (ASR) better serve people with disordered
   speech and diverse accents? In this episode Katarzyna Foremniak, a computational
   linguist with over 10 years in NLP who has built language models for Audi and Porsche
-  and teaches at the University of Warsaw, examines human‑centered ASR for atypical
+  and teaches at the University of Warsaw, examines human-centered ASR for atypical
   and accented speech. We trace her move from linguistics to computational approaches
-  and cover core phonetics and morpho‑syntax concepts that matter for speech recognition.
+  and cover core phonetics and morpho-syntax concepts that matter for speech recognition.
   <br><br> Key topics include distinctions between accents and speech disorders, limitations
   of standard ASR datasets, strategies for disordered speech recognition such as specialized
-  datasets, data augmentation and synthetic variations, multimodal ASR with lip‑reading,
-  and transfer learning for fine‑tuning with limited data. We also discuss data collection
+  datasets, data augmentation and synthetic variations, multimodal ASR with lip-reading,
+  and transfer learning for fine-tuning with limited data. We also discuss data collection
   challenges (GDPR, clinical data), bilingualism effects, stammering and fluency,
   pronunciation issues like Polish consonant clusters, and practical workflows including
-  Amazon Transcribe plus LLM post‑processing. Deployment tradeoffs—model size, on‑device
+  Amazon Transcribe plus LLM post-processing. Deployment tradeoffs—model size, on-device
   setups, automotive voice use cases—and assistive applications round out the conversation.
   <br><br> Listeners interested in speech recognition, disordered speech, accents,
   and ethical data practices will gain practical technical strategies and a clearer
@@ -36,7 +36,7 @@ intro: How can automatic speech recognition (ASR) better serve people with disor
 dateadded: 2024-10-10
 duration: PT00H57M19S
 quotableClips:
-- name: 'Episode Introduction: Human‑Centered AI for Disordered Speech'
+- name: 'Episode Introduction: Human-Centered AI for Disordered Speech'
   startOffset: 0
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=0
   endOffset: 486
@@ -48,11 +48,11 @@ quotableClips:
   startOffset: 546
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=546
   endOffset: 802
-- name: 'Linguistics Meets Computer Science: Data‑driven Approaches'
+- name: 'Linguistics Meets Computer Science: Data-driven Approaches'
   startOffset: 802
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=802
   endOffset: 925
-- name: 'Phonetics & Morpho‑syntax Explained: Core Concepts for ASR'
+- name: 'Phonetics & Morpho-syntax Explained: Core Concepts for ASR'
   startOffset: 925
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=925
   endOffset: 1233
@@ -84,11 +84,11 @@ quotableClips:
   startOffset: 2227
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2227
   endOffset: 2253
-- name: 'Multimodal ASR: Integrating Lip‑reading and Visual Cues'
+- name: 'Multimodal ASR: Integrating Lip-reading and Visual Cues'
   startOffset: 2253
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2253
   endOffset: 2417
-- name: 'Transfer Learning for ASR: Fine‑tuning with Limited Data'
+- name: 'Transfer Learning for ASR: Fine-tuning with Limited Data'
   startOffset: 2417
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2417
   endOffset: 2470
@@ -108,7 +108,7 @@ quotableClips:
   startOffset: 2716
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2716
   endOffset: 2777
-- name: 'Practical Transcription Workflow: Amazon Transcribe + LLM Post‑processing'
+- name: 'Practical Transcription Workflow: Amazon Transcribe + LLM Post-processing'
   startOffset: 2777
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=2777
   endOffset: 2848
@@ -120,7 +120,7 @@ quotableClips:
   startOffset: 3087
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3087
   endOffset: 3245
-- name: 'Personalized ASR: User Adaptation, Fine‑tuning, and On‑device Setup'
+- name: 'Personalized ASR: User Adaptation, Fine-tuning, and On-device Setup'
   startOffset: 3245
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3245
   endOffset: 3480
@@ -132,7 +132,7 @@ quotableClips:
   startOffset: 3602
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3602
   endOffset: 3713
-- name: 'In‑Car Voice Recognition: Automotive Use Cases and Limitations'
+- name: 'In-Car Voice Recognition: Automotive Use Cases and Limitations'
   startOffset: 3713
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3713
   endOffset: 3807
@@ -140,16 +140,16 @@ quotableClips:
   startOffset: 3807
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3807
   endOffset: 3853
-- name: 'Closing Reflections: Human‑Centered AI Priorities & Further Reading'
+- name: 'Closing Reflections: Human-Centered AI Priorities & Further Reading'
   startOffset: 3853
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3853
   endOffset: 3925
-- name: Episode Sign‑off and Guest Thanks
+- name: Episode Sign-off and Guest Thanks
   startOffset: 3925
   url: https://www.youtube.com/watch?v=yTZ4cddD7DU&t=3925
   endOffset: 3439
 transcript:
-- header: 'Episode Introduction: Human‑Centered AI for Disordered Speech'
+- header: 'Episode Introduction: Human-Centered AI for Disordered Speech'
 - header: Guest Introduction & Career Highlights (Katarzyna Foremniak)
 - line: This week, we'll talk about human-centered AI for disordered speech recognition.
     We have a special guest today—Katarzyna Foremniak is a computational linguist
@@ -243,7 +243,7 @@ transcript:
   sec: 745
   time: '12:25'
   who: Katarzyna
-- header: 'Linguistics Meets Computer Science: Data‑driven Approaches'
+- header: 'Linguistics Meets Computer Science: Data-driven Approaches'
 - line: You’ve touched on how important the use of data is. Is it safe to say that
     computational linguistics merges linguistics and computer science?
   sec: 802
@@ -280,7 +280,7 @@ transcript:
   sec: 904
   time: '15:04'
   who: Katarzyna
-- header: 'Phonetics & Morpho‑syntax Explained: Core Concepts for ASR'
+- header: 'Phonetics & Morpho-syntax Explained: Core Concepts for ASR'
 - line: In your biography, summarized by GPT, it mentions that you specialize in phonetics,
     morpho-syntax, and sentiment analysis. I’m familiar with sentiment analysis, but
     could you explain what phonetics and morpho-syntax are?
@@ -514,13 +514,13 @@ transcript:
   sec: 2251
   time: '37:31'
   who: Alexey
-- header: 'Multimodal ASR: Integrating Lip‑reading and Visual Cues'
+- header: 'Multimodal ASR: Integrating Lip-reading and Visual Cues'
 - line: Another strategy is using multimodal outputs. While we learn from audio, adding
     visual data—such as lip reading or gesture recognition—
   sec: 2253
   time: '37:33'
   who: Katarzyna
-- header: 'Transfer Learning for ASR: Fine‑tuning with Limited Data'
+- header: 'Transfer Learning for ASR: Fine-tuning with Limited Data'
 - line: Yeah, not yet, of course. But I've worked with images, and in a typical situation,
     you have an ImageNet neural network trained on ImageNet. Then you have your own
     data, which could be tractors or anything else not included in ImageNet. You might
@@ -612,7 +612,7 @@ transcript:
   sec: 2751
   time: '45:51'
   who: Katarzyna
-- header: 'Practical Transcription Workflow: Amazon Transcribe + LLM Post‑processing'
+- header: 'Practical Transcription Workflow: Amazon Transcribe + LLM Post-processing'
 - line: By the way, I use automatic speech recognition for podcast episodes after
     recording. I utilize Amazon Transcribe, which is supposed to recognize English.
   sec: 2777
@@ -684,7 +684,7 @@ transcript:
   sec: 3151
   time: '52:31'
   who: Alexey
-- header: 'Personalized ASR: User Adaptation, Fine‑tuning, and On‑device Setup'
+- header: 'Personalized ASR: User Adaptation, Fine-tuning, and On-device Setup'
 - line: I guess with personalization, the way it works is I first need to train it
     as a user. It asks me, "Hey, can you pronounce this sentence?" I record myself
     saying the sentence, and then it asks me to pronounce something else. I do this
@@ -845,7 +845,7 @@ transcript:
   sec: 3708
   time: '1:01:48'
   who: Alexey
-- header: 'In‑Car Voice Recognition: Automotive Use Cases and Limitations'
+- header: 'In-Car Voice Recognition: Automotive Use Cases and Limitations'
 - line: And it's parking, and it's parking! Everything you need and what is planned
     by the producers and car designers includes opening the windows, air conditioning,
     seat heating, steering wheel heating, radio, calling, etc. That’s also an interesting
@@ -887,7 +887,7 @@ transcript:
   sec: 3850
   time: '1:04:10'
   who: Katarzyna
-- header: 'Closing Reflections: Human‑Centered AI Priorities & Further Reading'
+- header: 'Closing Reflections: Human-Centered AI Priorities & Further Reading'
 - line: I think we covered only three questions out of—I don’t know how many we prepared,
     but it was...
   sec: 3853
@@ -916,7 +916,7 @@ transcript:
   sec: 3913
   time: '1:05:13'
   who: Alexey
-- header: Episode Sign‑off and Guest Thanks
+- header: Episode Sign-off and Guest Thanks
 - line: Thank you. Thank you for the invitation, and really congratulations on the
     great series of podcasts, but also for the fantastic platform that you created.
     I feel really impressed, and as I said at the beginning, I feel honored to be
@@ -926,14 +926,14 @@ transcript:
   who: Katarzyna
 context: 'Context: The episode surveys how linguistics and computational methods intersect
   to address limitations of mainstream ASR for people with disordered, accented, or
-  atypical speech — covering phonetics and morpho‑syntax foundations, distinctions
+  atypical speech — covering phonetics and morpho-syntax foundations, distinctions
   between accent and disorder, modern ASR advances and failure modes, data collection
   and GDPR constraints, targeted datasets and augmentation, multimodal and transfer
-  approaches, personalization and on‑device deployment, and the ethical/assistive
+  approaches, personalization and on-device deployment, and the ethical/assistive
   implications.
 
-  Core: Build ASR systems that are human‑centered and linguistically informed—prioritizing
-  inclusive data practices, phonetics‑aware modeling, adaptive techniques (augmentation,
+  Core: Build ASR systems that are human-centered and linguistically informed—prioritizing
+  inclusive data practices, phonetics-aware modeling, adaptive techniques (augmentation,
   transfer learning, multimodal cues, personalization), and ethical deployment—so
   speech technology recognizes and respects the communicative diversity and needs
   of people with disordered or atypical speech.'

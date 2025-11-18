@@ -48,7 +48,7 @@ quotableClips:
   startOffset: 77
   url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=77
   endOffset: 251
-- name: 'Transition: Full‑time on DataTalks.Club; engineering-heavy roles'
+- name: 'Transition: Full-time on DataTalks.Club; engineering-heavy roles'
   startOffset: 251
   url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=251
   endOffset: 355
@@ -64,7 +64,7 @@ quotableClips:
   startOffset: 442
   url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=442
   endOffset: 670
-- name: 'GPT and LLMs: Impact on Data Workflows, Hiring, and Take‑home Tests'
+- name: 'GPT and LLMs: Impact on Data Workflows, Hiring, and Take-home Tests'
   startOffset: 670
   url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=670
   endOffset: 896
@@ -84,7 +84,7 @@ quotableClips:
   startOffset: 1895
   url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=1895
   endOffset: 2026
-- name: 'Course Model: Creating Zoomcamps Inspired by Community‑Driven Courses'
+- name: 'Course Model: Creating Zoomcamps Inspired by Community-Driven Courses'
   startOffset: 2026
   url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=2026
   endOffset: 2131
@@ -100,7 +100,7 @@ quotableClips:
   startOffset: 2351
   url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=2351
   endOffset: 2572
-- name: 'Content Strategy: Choosing Guests and Avoiding Hype‑Chasing'
+- name: 'Content Strategy: Choosing Guests and Avoiding Hype-Chasing'
   startOffset: 2572
   url: https://www.youtube.com/watch?v=nCqwZT9zA0M&t=2572
   endOffset: 2748
@@ -212,7 +212,7 @@ transcript:
   sec: 250
   time: '4:10'
   who: Johanna
-- header: 'Transition: Full‑time on DataTalks.Club; engineering-heavy roles'
+- header: 'Transition: Full-time on DataTalks.Club; engineering-heavy roles'
 - line: Yeah. I was mostly doing the engineering stuff there, even though my title
     was “data scientist”. It's a fun fact. Now, since April, I'm fully focused on
     DataTalks.Club.
@@ -333,7 +333,7 @@ transcript:
   sec: 605
   time: '10:05'
   who: Johanna
-- header: 'GPT and LLMs: Impact on Data Workflows, Hiring, and Take‑home Tests'
+- header: 'GPT and LLMs: Impact on Data Workflows, Hiring, and Take-home Tests'
 - line: Let's actually move to the next question, which kind of touches on what we've
     just discussed. “How do you think the other jobs will change as different GPT-like
     services come into play and extend the skills of data professionals?”
@@ -681,7 +681,7 @@ transcript:
   sec: 1981
   time: '33:01'
   who: Alexey
-- header: 'Course Model: Creating Zoomcamps Inspired by Community‑Driven Courses'
+- header: 'Course Model: Creating Zoomcamps Inspired by Community-Driven Courses'
 - line: Yeah, yeah.
   sec: 2026
   time: '33:46'
@@ -839,7 +839,7 @@ transcript:
   sec: 2525
   time: '42:05'
   who: Johanna
-- header: 'Content Strategy: Choosing Guests and Avoiding Hype‑Chasing'
+- header: 'Content Strategy: Choosing Guests and Avoiding Hype-Chasing'
 - line: What topics or trends in the data world are you most excited about exploring
     in upcoming club events or interviews?
   sec: 2572

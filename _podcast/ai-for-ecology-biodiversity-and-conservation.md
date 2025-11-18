@@ -19,10 +19,10 @@ description: Discover AI-driven computer vision and remote sensing strategies to
   biodiversity monitoring, improve species ID, and inform conservation policy.
 intro: How can AI help close critical data gaps in biodiversity monitoring and turn
   images and sensor data into actionable conservation decisions? In this episode Tanya
-  Berger‑Wolf, a computational ecologist, director of TDAI@OSU, and co‑founder of
+  Berger-Wolf, a computational ecologist, director of TDAI@OSU, and co-founder of
   the Wildbook project (Wild Me), walks through practical applications of AI for ecology,
   biodiversity monitoring, and conservation. <br><br> We cover core techniques—computer
-  vision, machine learning, and remote sensing—and their use in image‑based monitoring
+  vision, machine learning, and remote sensing—and their use in image-based monitoring
   with camera traps, drones, and species identification. Tanya explains individual
   identification and longitudinal tracking, habitat mapping and change detection,
   and the data challenges of labeling, class imbalance, and sparse observations. The
@@ -60,7 +60,7 @@ quotableClips:
   startOffset: 630
   url: https://www.youtube.com/watch?v=30tTrozbAkg&t=630
   endOffset: 840
-- name: 'Individual Identification & Tracking: Photo‑ID and Longitudinal Monitoring'
+- name: 'Individual Identification & Tracking: Photo-ID and Longitudinal Monitoring'
   startOffset: 840
   url: https://www.youtube.com/watch?v=30tTrozbAkg&t=840
   endOffset: 1020
@@ -84,7 +84,7 @@ quotableClips:
   startOffset: 1740
   url: https://www.youtube.com/watch?v=30tTrozbAkg&t=1740
   endOffset: 1920
-- name: 'Scalable Platforms: Wildbook and Large‑Scale Biodiversity Monitoring Tools'
+- name: 'Scalable Platforms: Wildbook and Large-Scale Biodiversity Monitoring Tools'
   startOffset: 1920
   url: https://www.youtube.com/watch?v=30tTrozbAkg&t=1920
   endOffset: 2130
@@ -104,7 +104,7 @@ quotableClips:
   startOffset: 2670
   url: https://www.youtube.com/watch?v=30tTrozbAkg&t=2670
   endOffset: 2820
-- name: 'Edge Deployment: Low‑Power Devices, Field Constraints, and Real‑Time Alerts'
+- name: 'Edge Deployment: Low-Power Devices, Field Constraints, and Real-Time Alerts'
   startOffset: 2820
   url: https://www.youtube.com/watch?v=30tTrozbAkg&t=2820
   endOffset: 2970
@@ -112,7 +112,7 @@ quotableClips:
   startOffset: 2970
   url: https://www.youtube.com/watch?v=30tTrozbAkg&t=2970
   endOffset: 3150
-- name: 'Funding & Sustainability: Maintaining Long‑Term Monitoring Systems'
+- name: 'Funding & Sustainability: Maintaining Long-Term Monitoring Systems'
   startOffset: 3150
   url: https://www.youtube.com/watch?v=30tTrozbAkg&t=3150
   endOffset: 3330

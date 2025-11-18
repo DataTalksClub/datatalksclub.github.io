@@ -1206,13 +1206,13 @@ context: 'Context — This episode moves from the guest’s finance-to-self-driv
   validation pipelines, staged releases, edge cases), system-level questions (reinforcement
   learning vs perception, multimodal LLMs), and practical career/project advice.
 
-  Core — Building trustworthy, real‑world AI is an engineering-driven cycle that tightly
-  couples pragmatic sensor and model choices, efficient on‑device inference, rigorous
+  Core — Building trustworthy, real-world AI is an engineering-driven cycle that tightly
+  couples pragmatic sensor and model choices, efficient on-device inference, rigorous
   data and validation pipelines, staged safe deployment, and ethical/social purpose:
   the episode’s unifying idea is that successful AI systems aren’t just about better
   algorithms but about integrating perception, hardware constraints, data practices,
-  testing, and human-centered impact into a continuous, safety‑first development process
-  that scales across domains from autonomous vehicles to assistive tech and public‑health
+  testing, and human-centered impact into a continuous, safety-first development process
+  that scales across domains from autonomous vehicles to assistive tech and public-health
   applications.'
 ---
 Links:

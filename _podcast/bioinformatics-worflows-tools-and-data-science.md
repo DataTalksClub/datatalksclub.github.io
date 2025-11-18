@@ -74,7 +74,7 @@ quotableClips:
   startOffset: 1076
   url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=1076
   endOffset: 1181
-- name: 'Building Microbial Networks: Co‑abundance and Association Inference'
+- name: 'Building Microbial Networks: Co-abundance and Association Inference'
   startOffset: 1181
   url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=1181
   endOffset: 1471
@@ -90,7 +90,7 @@ quotableClips:
   startOffset: 1798
   url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=1798
   endOffset: 2180
-- name: 'Open‑Source Projects Overview: MCW2 Graph, VueGen, and VueCore'
+- name: 'Open-Source Projects Overview: MCW2 Graph, VueGen, and VueCore'
   startOffset: 2180
   url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=2180
   endOffset: 2311
@@ -130,7 +130,7 @@ quotableClips:
   startOffset: 3197
   url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=3197
   endOffset: 3250
-- name: 'Episode Wrap‑up: Open‑Source Encouragement and Closing Remarks'
+- name: 'Episode Wrap-up: Open-Source Encouragement and Closing Remarks'
   startOffset: 3250
   url: https://www.youtube.com/watch?v=ZFrcrTtnB1Q&t=3250
   endOffset: 3313
@@ -457,7 +457,7 @@ transcript:
   sec: 1169
   time: '19:29'
   who: Alexey
-- header: 'Building Microbial Networks: Co‑abundance and Association Inference'
+- header: 'Building Microbial Networks: Co-abundance and Association Inference'
 - line: Yes. In our case, we focused on wastewater treatment plants. We analyzed data
     from different locations because there were many available samples.
   sec: 1181
@@ -745,7 +745,7 @@ transcript:
   sec: 2173
   time: '36:13'
   who: Alexey
-- header: 'Open‑Source Projects Overview: MCW2 Graph, VueGen, and VueCore'
+- header: 'Open-Source Projects Overview: MCW2 Graph, VueGen, and VueCore'
 - line: You worked on quite a few projects. The document mentions MCW2 Graph, VueGen,
     and VueCore. What are these projects and what do they do?
   sec: 2180
@@ -1060,7 +1060,7 @@ transcript:
   sec: 3243
   time: '54:03'
   who: Sebastian
-- header: 'Episode Wrap‑up: Open‑Source Encouragement and Closing Remarks'
+- header: 'Episode Wrap-up: Open-Source Encouragement and Closing Remarks'
 - line: That must be amazing. I actually have another event starting soon, so I need
     to go. Sebastian, thanks a lot. It was really nice talking to you. I learned many
     new things. I suspected proteins were important not just for the gym but for other
@@ -1086,7 +1086,7 @@ context: At its core this episode is about how building open, reproducible compu
   actionable insight—bridging wet lab and dry lab work so researchers can ask better
   questions, run fewer experiments, and move faster. From genomics and metagenomics
   pipelines to network inference, molecular simulation, knowledge graphs, visualization,
-  and AI assistants, the through‑line is empowering scientists with accessible tools,
+  and AI assistants, the through-line is empowering scientists with accessible tools,
   automation, and community-driven software that make complex biology interpretable,
   shareable, and useful in the real world.
 ---

@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=EQcY83VA0Us
 
 description: "Build trustworthy ML systems that drive business decisions through explainable AI, organizational trust theory, and actionable model deployment."
-intro: "How do you build ML systems that business teams trust and can act on? In this episode, Polina Mosolova — a data scientist at SAP who completed an industrial PhD building end‑to‑end ML pipelines — demonstrates how to bridge research and production through explainable AI grounded in organizational trust theory. Drawing from her churn prediction research, Polina shows how the ABI framework (Ability, Benevolence, Integrity) transforms model explanations into actionable business interventions. <br><br> We explore the industrial PhD path as a vehicle for building trustworthy ML systems, covering the practical tensions of research and production deliverables, supervision dynamics, and how academic rigor enhances deployable models. Technical deep-dives include interpretability versus explainability versus actionable ML, model architecture choices (glass‑box models, GAMs, Neural Additive Models), explainability tooling (random forest + SHAP), computer vision activation maps, and why LLM explainability faces unique challenges compared to tabular models. The conversation ties together trust proxies, KPIs, and MLOps practices that make explanations business‑relevant. <br><br> Listen to learn a systematic approach for building ML systems where explanations drive decisions — essential for data scientists who need to deploy models that stakeholders understand, trust, and can act upon to achieve measurable business outcomes."
+intro: "How do you build ML systems that business teams trust and can act on? In this episode, Polina Mosolova — a data scientist at SAP who completed an industrial PhD building end-to-end ML pipelines — demonstrates how to bridge research and production through explainable AI grounded in organizational trust theory. Drawing from her churn prediction research, Polina shows how the ABI framework (Ability, Benevolence, Integrity) transforms model explanations into actionable business interventions. <br><br> We explore the industrial PhD path as a vehicle for building trustworthy ML systems, covering the practical tensions of research and production deliverables, supervision dynamics, and how academic rigor enhances deployable models. Technical deep-dives include interpretability versus explainability versus actionable ML, model architecture choices (glass-box models, GAMs, Neural Additive Models), explainability tooling (random forest + SHAP), computer vision activation maps, and why LLM explainability faces unique challenges compared to tabular models. The conversation ties together trust proxies, KPIs, and MLOps practices that make explanations business-relevant. <br><br> Listen to learn a systematic approach for building ML systems where explanations drive decisions — essential for data scientists who need to deploy models that stakeholders understand, trust, and can act upon to achieve measurable business outcomes."
 topics:
 - machine learning
 - AI
@@ -36,15 +36,15 @@ quotableClips:
   startOffset: 74
   url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=74
   endOffset: 125
-- name: 'Career Journey: Industrial PhD to Full‑Stack Data Scientist at SAP'
+- name: 'Career Journey: Industrial PhD to Full-Stack Data Scientist at SAP'
   startOffset: 125
   url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=125
   endOffset: 439
-- name: 'Role Evolution: From Full‑Stack Data Scientist to MLOps Specialization'
+- name: 'Role Evolution: From Full-Stack Data Scientist to MLOps Specialization'
   startOffset: 439
   url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=439
   endOffset: 559
-- name: 'PhD Practice: Building End‑to‑End ML Pipelines During Doctoral Research'
+- name: 'PhD Practice: Building End-to-End ML Pipelines During Doctoral Research'
   startOffset: 559
   url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=559
   endOffset: 634
@@ -64,7 +64,7 @@ quotableClips:
   startOffset: 1077
   url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1077
   endOffset: 1145
-- name: 'Research‑Industry Bridge: Academic Conferences and Summer Schools'
+- name: 'Research-Industry Bridge: Academic Conferences and Summer Schools'
   startOffset: 1145
   url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=1145
   endOffset: 1237
@@ -100,7 +100,7 @@ quotableClips:
   startOffset: 2643
   url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2643
   endOffset: 2842
-- name: 'Model Choices: Glass‑Box Models, Generalized Additive Models, Neural Additive
+- name: 'Model Choices: Glass-Box Models, Generalized Additive Models, Neural Additive
     Models'
   startOffset: 2842
   url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=2842
@@ -138,7 +138,7 @@ quotableClips:
   startOffset: 3629
   url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3629
   endOffset: 3761
-- name: Episode Wrap‑Up and Closing Remarks
+- name: Episode Wrap-Up and Closing Remarks
   startOffset: 3761
   url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3761
   endOffset: 3708
@@ -166,7 +166,7 @@ transcript:
   sec: 116
   time: '1:56'
   who: Alexey
-- header: 'Career Journey: Industrial PhD to Full‑Stack Data Scientist at SAP'
+- header: 'Career Journey: Industrial PhD to Full-Stack Data Scientist at SAP'
 - line: So let's start. Before we go into our main topic of interpretable/explainable
     AI and ML, let's start with your background. Can you tell us about your career
     journey so far?
@@ -210,7 +210,7 @@ transcript:
   sec: 418
   time: '6:58'
   who: Polina
-- header: 'Role Evolution: From Full‑Stack Data Scientist to MLOps Specialization'
+- header: 'Role Evolution: From Full-Stack Data Scientist to MLOps Specialization'
 - line: Yeah, it's funny that you mentioned this full-stack data scientist term. When
     I first gave this talk like two or three years ago, it was a thing because the
     role of an ML engineer was not yet that developed. It wasn't that common. And
@@ -244,7 +244,7 @@ transcript:
   sec: 499
   time: '8:19'
   who: Polina
-- header: 'PhD Practice: Building End‑to‑End ML Pipelines During Doctoral Research'
+- header: 'PhD Practice: Building End-to-End ML Pipelines During Doctoral Research'
 - line: Is it a common situation when a PhD student actually needs to do everything
     end-to-end? Because I think it is, right? That's kind of the point. Or is there
     usually help?
@@ -421,7 +421,7 @@ transcript:
   sec: 1126
   time: '18:46'
   who: Alexey
-- header: 'Research‑Industry Bridge: Academic Conferences and Summer Schools'
+- header: 'Research-Industry Bridge: Academic Conferences and Summer Schools'
 - line: Day-to-day, I think it was just a data science project. Just the data science
     work that you can imagine – regular calls with stakeholders. I think that's not
     that much different from what every data scientist who has business facing roles
@@ -910,7 +910,7 @@ transcript:
   sec: 2841
   time: '47:21'
   who: Polina
-- header: 'Model Choices: Glass‑Box Models, Generalized Additive Models, Neural Additive
+- header: 'Model Choices: Glass-Box Models, Generalized Additive Models, Neural Additive
     Models'
 - line: And then would random forest plus SHAP values be a glass box model or black
     box?
@@ -1200,7 +1200,7 @@ transcript:
   sec: 3748
   time: '1:02:28'
   who: Polina
-- header: Episode Wrap‑Up and Closing Remarks
+- header: Episode Wrap-Up and Closing Remarks
 - line: Okay. I think we should be wrapping up. Thanks a lot, Polina, for joining
     us today, for sharing your experience with us, for telling us about your experience
     doing a PhD, and your work. And thanks, everyone, for joining us today too, and

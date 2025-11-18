@@ -94,11 +94,11 @@ quotableClips:
   startOffset: 1859
   url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=1859
   endOffset: 1891
-- name: 'Airbyte’s Role in the Stack: Reliable E‑L and DBT Integration'
+- name: 'Airbyte’s Role in the Stack: Reliable E-L and DBT Integration'
   startOffset: 1891
   url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=1891
   endOffset: 2025
-- name: 'Modern Analytics Stack: Best‑of‑Breed Tools and Typical Components'
+- name: 'Modern Analytics Stack: Best-of-Breed Tools and Typical Components'
   startOffset: 2025
   url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2025
   endOffset: 2142
@@ -106,7 +106,7 @@ quotableClips:
   startOffset: 2142
   url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2142
   endOffset: 2346
-- name: 'Low‑Code/No‑Code Tools: Evolving Data Engineering Roles, Not Replacing Them'
+- name: 'Low-Code/No-Code Tools: Evolving Data Engineering Roles, Not Replacing Them'
   startOffset: 2346
   url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2346
   endOffset: 2490
@@ -126,7 +126,7 @@ quotableClips:
   startOffset: 2759
   url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2759
   endOffset: 2906
-- name: 'Open‑Source Risks: Competition and Licensing (Elasticsearch Example)'
+- name: 'Open-Source Risks: Competition and Licensing (Elasticsearch Example)'
   startOffset: 2906
   url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2906
   endOffset: 2938
@@ -138,7 +138,7 @@ quotableClips:
   startOffset: 2972
   url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2972
   endOffset: 3642
-- name: 'Episode Wrap‑Up: Final Thoughts, Hiring News, and Contact Information'
+- name: 'Episode Wrap-Up: Final Thoughts, Hiring News, and Contact Information'
   startOffset: 3642
   url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=3642
   endOffset: 3595
@@ -976,7 +976,7 @@ transcript:
   sec: 1872
   time: '31:12'
   who: Natalie
-- header: 'Airbyte’s Role in the Stack: Reliable E‑L and DBT Integration'
+- header: 'Airbyte’s Role in the Stack: Reliable E-L and DBT Integration'
 - line: I think you mentioned at the beginning what Airbyte does – it's about transformation,
     right? It's about ingesting and then putting it into a data warehouse. Maybe now
     we can try to make sense from all these buzzwords. We know what the transformation
@@ -984,7 +984,7 @@ transcript:
     about putting something into a data warehouse. Then a data warehouse is basically
     the database that we use for all these analytical purposes. So yeah, maybe you
     can tell us now what Airbyte does?
-- header: 'Airbyte’s Role in the Stack: Reliable E‑L and DBT Integration'
+- header: 'Airbyte’s Role in the Stack: Reliable E-L and DBT Integration'
 - line: I think you mentioned at the beginning what Airbyte does – it's about transformation,
     right? It's about ingesting and then putting it into a data warehouse. Maybe now
     we can try to make sense from all these buzzwords. We know what the transformation
@@ -1037,14 +1037,14 @@ transcript:
   sec: 2013
   time: '33:33'
   who: Natalie
-- header: 'Modern Analytics Stack: Best‑of‑Breed Tools and Typical Components'
+- header: 'Modern Analytics Stack: Best-of-Breed Tools and Typical Components'
 - line: Yeah. So speaking of this modern stack, I've heard this term many times and
     actually we have a talk about this quite soon. It's about this modern stack for
     analytics. Actually the talk we have is “modern data stack for analytics engineering.”
     I don't know if there are different stacks for analytics and for analytics engineering
     – probably they’re the same. So, what is it? Can you tell us a bit about it? Which
     tools are a part of this stack? Why do we even talk about it? Why is it a thing?
-- header: 'Modern Analytics Stack: Best‑of‑Breed Tools and Typical Components'
+- header: 'Modern Analytics Stack: Best-of-Breed Tools and Typical Components'
 - line: Yeah. So speaking of this modern stack, I've heard this term many times and
     actually we have a talk about this quite soon. It's about this modern stack for
     analytics. Actually the talk we have is “modern data stack for analytics engineering.”
@@ -1177,7 +1177,7 @@ transcript:
   sec: 2316
   time: '38:36'
   who: Natalie
-- header: 'Low‑Code/No‑Code Tools: Evolving Data Engineering Roles, Not Replacing
+- header: 'Low-Code/No-Code Tools: Evolving Data Engineering Roles, Not Replacing
     Them'
 - line: 'To make sure I understood the whole picture: we have some of these tools
     like Google AdWords – all these systems, like Google AdWords, or Facebook Ads,
@@ -1185,7 +1185,7 @@ transcript:
     our data warehouse or ingest. We import and then we do something and then we export
     back, right? Or using the terminology we just learned, we first extract, then
     do something, and then we do this reverse extract, and then put that back.'
-- header: 'Low‑Code/No‑Code Tools: Evolving Data Engineering Roles, Not Replacing
+- header: 'Low-Code/No-Code Tools: Evolving Data Engineering Roles, Not Replacing
     Them'
 - line: 'To make sure I understood the whole picture: we have some of these tools
     like Google AdWords – all these systems, like Google AdWords, or Facebook Ads,
@@ -1411,13 +1411,13 @@ transcript:
   sec: 2846
   time: '47:26'
   who: Alexey
-- header: 'Open‑Source Risks: Competition and Licensing (Elasticsearch Example)'
+- header: 'Open-Source Risks: Competition and Licensing (Elasticsearch Example)'
 - line: Yeah, exactly. It’s essentially a performance consideration. It also allows
     you to capture deleted rows. So that's another benefit as well. I think that we
     don't offer it on all of our data warehouse sources yet. But we are actively working
     on building out CDC capabilities for all the sources that essentially allow for
     that.
-- header: 'Open‑Source Risks: Competition and Licensing (Elasticsearch Example)'
+- header: 'Open-Source Risks: Competition and Licensing (Elasticsearch Example)'
 - line: Yeah, exactly. It’s essentially a performance consideration. It also allows
     you to capture deleted rows. So that's another benefit as well. I think that we
     don't offer it on all of our data warehouse sources yet. But we are actively working
@@ -1702,7 +1702,7 @@ transcript:
   sec: 3636
   time: '1:00:36'
   who: Alexey
-- header: 'Episode Wrap‑Up: Final Thoughts, Hiring News, and Contact Information'
+- header: 'Episode Wrap-Up: Final Thoughts, Hiring News, and Contact Information'
 - line: It was such a pleasure to be on this, talking about these acronyms. I hope
     it helped some of your listeners get more clarity. Airbyte – check us out. We
     are also hiring on a lot of different fronts. Not just on the engineering front,
@@ -1710,7 +1710,7 @@ transcript:
     gets listed on our company docs page – very public. If you want to contribute
     back or check us out, you can do that very easily. All the information is on our
     website.
-- header: 'Episode Wrap‑Up: Final Thoughts, Hiring News, and Contact Information'
+- header: 'Episode Wrap-Up: Final Thoughts, Hiring News, and Contact Information'
 - line: It was such a pleasure to be on this, talking about these acronyms. I hope
     it helped some of your listeners get more clarity. Airbyte – check us out. We
     are also hiring on a lot of different fronts. Not just on the engineering front,

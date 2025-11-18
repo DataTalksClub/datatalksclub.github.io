@@ -46,7 +46,7 @@ quotableClips:
   startOffset: 189
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=189
   endOffset: 219
-- name: 'Career Progression: Consulting, In‑house Roles, and Platform Data'
+- name: 'Career Progression: Consulting, In-house Roles, and Platform Data'
   startOffset: 219
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=219
   endOffset: 397
@@ -58,11 +58,11 @@ quotableClips:
   startOffset: 416
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=416
   endOffset: 641
-- name: 'Amazon Research: Customer‑Focused, Production‑Oriented Work'
+- name: 'Amazon Research: Customer-Focused, Production-Oriented Work'
   startOffset: 641
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=641
   endOffset: 702
-- name: Using State‑of‑the‑Art Models and Publishing in Industry Tracks
+- name: Using State-of-the-Art Models and Publishing in Industry Tracks
   startOffset: 702
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=702
   endOffset: 986
@@ -78,7 +78,7 @@ quotableClips:
   startOffset: 1147
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1147
   endOffset: 1391
-- name: 'Model‑in‑the‑Loop Annotation Study: Design and Rationale'
+- name: 'Model-in-the-Loop Annotation Study: Design and Rationale'
   startOffset: 1391
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1391
   endOffset: 1520
@@ -86,7 +86,7 @@ quotableClips:
   startOffset: 1520
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1520
   endOffset: 1667
-- name: Model Evaluation Strategy and Stabilizing High‑Traffic Utterances
+- name: Model Evaluation Strategy and Stabilizing High-Traffic Utterances
   startOffset: 1667
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1667
   endOffset: 1903
@@ -94,7 +94,7 @@ quotableClips:
   startOffset: 1903
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1903
   endOffset: 1927
-- name: 'Service Offerings: Generative AI Workshops and Use‑Case Discovery'
+- name: 'Service Offerings: Generative AI Workshops and Use-Case Discovery'
   startOffset: 1927
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=1927
   endOffset: 2135
@@ -102,7 +102,7 @@ quotableClips:
   startOffset: 2135
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=2135
   endOffset: 2275
-- name: 'Self‑Employment Realities: Taxes, Health Insurance, and Admin'
+- name: 'Self-Employment Realities: Taxes, Health Insurance, and Admin'
   startOffset: 2275
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=2275
   endOffset: 2343
@@ -209,7 +209,7 @@ transcript:
   sec: 217
   time: '3:37'
   who: Alexey
-- header: 'Career Progression: Consulting, In‑house Roles, and Platform Data'
+- header: 'Career Progression: Consulting, In-house Roles, and Platform Data'
 - line: I did the Master's in Berlin, yeah. This was a joint statistics program from
     the Free University, Humboldt University, and the Technical University. They have
     this Joint Master Program. Basically, I discovered data science and machine learning
@@ -321,7 +321,7 @@ transcript:
   sec: 605
   time: '10:05'
   who: Verena
-- header: 'Amazon Research: Customer‑Focused, Production‑Oriented Work'
+- header: 'Amazon Research: Customer-Focused, Production-Oriented Work'
 - line: You said that research at Amazon is not the same as research in academia.
     So what does research at Amazon look like? What do you actually do there?
   sec: 641
@@ -343,7 +343,7 @@ transcript:
   sec: 693
   time: '11:33'
   who: Alexey
-- header: Using State‑of‑the‑Art Models and Publishing in Industry Tracks
+- header: Using State-of-the-Art Models and Publishing in Industry Tracks
 - line: Yeah. Basically, before you start, there's three things you need to look into.
     First, “What is the customer problem? How do we define the problem clearly?” Then,
     second, “What are the possible solutions?” and, “How are they going to solve the
@@ -567,7 +567,7 @@ transcript:
   sec: 1323
   time: '22:03'
   who: Verena
-- header: 'Model‑in‑the‑Loop Annotation Study: Design and Rationale'
+- header: 'Model-in-the-Loop Annotation Study: Design and Rationale'
 - line: I'm looking at your Google Scholar, and there is one paper with six citations
     that you published in 2021, which is, “Is it better to verify semi-supervised
     learning with a human in the loop or large scale NLU models?” It’s a long name.
@@ -656,7 +656,7 @@ transcript:
   sec: 1662
   time: '27:42'
   who: Verena
-- header: Model Evaluation Strategy and Stabilizing High‑Traffic Utterances
+- header: Model Evaluation Strategy and Stabilizing High-Traffic Utterances
 - line: How do you evaluate the performance of these models? I guess, you send it
     to the annotators – they say “Yes, no.” Right?
   sec: 1667
@@ -769,7 +769,7 @@ transcript:
   sec: 1903
   time: '31:43'
   who: Alexey
-- header: 'Service Offerings: Generative AI Workshops and Use‑Case Discovery'
+- header: 'Service Offerings: Generative AI Workshops and Use-Case Discovery'
 - line: Yeah. I don't know if it's… I mean, it is different in the sense that I'm
     not working on one model anymore. But, of course, there is still going to be quite
     some overlap in terms of topic. As I said before, my goal is to support companies
@@ -885,7 +885,7 @@ transcript:
   sec: 2274
   time: '37:54'
   who: Verena
-- header: 'Self‑Employment Realities: Taxes, Health Insurance, and Admin'
+- header: 'Self-Employment Realities: Taxes, Health Insurance, and Admin'
 - line: When I became self-employed this year, I was very surprised by how expensive
     health insurance is in Germany. Maybe it's less expensive than in the States,
     but still, when all these costs (all these taxes) are hidden and being a full-time
@@ -1364,12 +1364,12 @@ transcript:
   who: Alexey
 context: 'Context: The episode follows a journey from academic foundations in economics,
   Chinese, and statistics through industry research and platform data roles to independent
-  generative-AI consultancy, touching on technical approaches (SOTA models, model‑in‑the‑loop
+  generative-AI consultancy, touching on technical approaches (SOTA models, model-in-the-loop
   annotation, evaluation), product and business priorities, client acquisition and
   pitching, entrepreneurship realities, and community support initiatives.
 
   Core: The unifying idea is translating deep technical expertise into pragmatic,
-  production‑oriented generative-AI solutions that deliver measurable business impact—anchored
+  production-oriented generative-AI solutions that deliver measurable business impact—anchored
   in rigorous evaluation, stakeholder ownership, evidence-based communication (workshops,
   decks, case studies), continual learning, and a commitment to accessibility and
   mentorship while managing the practicalities of running a sustainable freelance

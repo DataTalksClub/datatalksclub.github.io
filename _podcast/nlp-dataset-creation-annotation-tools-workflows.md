@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=QggWydGrWoo
 
 description: 'Discover dataset creation, annotation & active learning: practical annotation UX, quality metrics, prototyping tips and tooling to accelerate NLP models.'
-intro: How do you create high‑quality NLP datasets without breaking the budget? In this episode Christiaan Swart — an NLP practitioner with six years’ experience across email, complaints, pharma, and sales who cofounded Comtura (born from sales call transcription and CRM integration) — walks through practical methods for dataset creation and annotation. <br><br> We cover automated, manual, and hybrid pipelines; stakeholder alignment to de‑risk projects; in‑house vs. crowdsourcing trade‑offs; and building a living annotation guidebook for ambiguous cases. Chris explains model‑assisted annotation (pre‑labeling and interpretability layers), capturing expert knowledge, establishing human baselines, and improving annotation UX and productivity. You’ll also hear about annotation quality metrics (inter‑annotator agreement, throughput, fatigue), active learning expectations, distant/weak supervision (Snorkel and labeling functions), programmatic heuristics, and tooling recommendations like Prodigy, Docanno, Label Studio, Snorkel, and Rubrics. Quick‑start tips using IPython widgets and Fast.ai, plus privacy and multilingual considerations (GDPR, anonymization), round out the conversation. <br><br> Listen to learn actionable strategies for cost‑effective dataset creation, annotation workflows, and tool choices that speed model development and produce reliable training data
+intro: How do you create high-quality NLP datasets without breaking the budget? In this episode Christiaan Swart — an NLP practitioner with six years’ experience across email, complaints, pharma, and sales who cofounded Comtura (born from sales call transcription and CRM integration) — walks through practical methods for dataset creation and annotation. <br><br> We cover automated, manual, and hybrid pipelines; stakeholder alignment to de-risk projects; in-house vs. crowdsourcing trade-offs; and building a living annotation guidebook for ambiguous cases. Chris explains model-assisted annotation (pre-labeling and interpretability layers), capturing expert knowledge, establishing human baselines, and improving annotation UX and productivity. You’ll also hear about annotation quality metrics (inter-annotator agreement, throughput, fatigue), active learning expectations, distant/weak supervision (Snorkel and labeling functions), programmatic heuristics, and tooling recommendations like Prodigy, Docanno, Label Studio, Snorkel, and Rubrics. Quick-start tips using IPython widgets and Fast.ai, plus privacy and multilingual considerations (GDPR, anonymization), round out the conversation. <br><br> Listen to learn actionable strategies for cost-effective dataset creation, annotation workflows, and tool choices that speed model development and produce reliable training data
 topics:
 - NLP
 - data
@@ -33,7 +33,7 @@ quotableClips:
   startOffset: 82
   url: https://www.youtube.com/watch?v=QggWydGrWoo&t=82
   endOffset: 144
-- name: Guest Background & Career in NLP and bio‑NLP
+- name: Guest Background & Career in NLP and bio-NLP
   startOffset: 144
   url: https://www.youtube.com/watch?v=QggWydGrWoo&t=144
   endOffset: 312
@@ -45,11 +45,11 @@ quotableClips:
   startOffset: 411
   url: https://www.youtube.com/watch?v=QggWydGrWoo&t=411
   endOffset: 542
-- name: 'Stakeholder Alignment: Top‑down framing to de‑risk projects'
+- name: 'Stakeholder Alignment: Top-down framing to de-risk projects'
   startOffset: 542
   url: https://www.youtube.com/watch?v=QggWydGrWoo&t=542
   endOffset: 939
-- name: 'Annotation Strategy: In‑house vs. crowdsourcing trade‑offs'
+- name: 'Annotation Strategy: In-house vs. crowdsourcing trade-offs'
   startOffset: 939
   url: https://www.youtube.com/watch?v=QggWydGrWoo&t=939
   endOffset: 1116
@@ -57,7 +57,7 @@ quotableClips:
   startOffset: 1116
   url: https://www.youtube.com/watch?v=QggWydGrWoo&t=1116
   endOffset: 1257
-- name: 'Model‑Assisted Annotation: Pre‑labeling and interpretability layers'
+- name: 'Model-Assisted Annotation: Pre-labeling and interpretability layers'
   startOffset: 1257
   url: https://www.youtube.com/watch?v=QggWydGrWoo&t=1257
   endOffset: 1441
@@ -73,7 +73,7 @@ quotableClips:
   startOffset: 2102
   url: https://www.youtube.com/watch?v=QggWydGrWoo&t=2102
   endOffset: 2262
-- name: 'Annotation Quality Metrics: Inter‑annotator agreement, throughput, fatigue'
+- name: 'Annotation Quality Metrics: Inter-annotator agreement, throughput, fatigue'
   startOffset: 2262
   url: https://www.youtube.com/watch?v=QggWydGrWoo&t=2262
   endOffset: 2571
@@ -97,7 +97,7 @@ quotableClips:
   startOffset: 3154
   url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3154
   endOffset: 3438
-- name: 'Quick‑start Collection: IPython widgets and Fast.ai for beginners'
+- name: 'Quick-start Collection: IPython widgets and Fast.ai for beginners'
   startOffset: 3438
   url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3438
   endOffset: 3506
@@ -131,7 +131,7 @@ transcript:
   sec: 139
   time: '2:19'
   who: Christiaan
-- header: Guest Background & Career in NLP and bio‑NLP
+- header: Guest Background & Career in NLP and bio-NLP
 - line: Before we go into our main topic of dataset creation and curation, let's start
     with your background. Can you tell us about your career journey so far?
   sec: 144
@@ -245,7 +245,7 @@ transcript:
   sec: 489
   time: '8:09'
   who: Alexey
-- header: 'Stakeholder Alignment: Top‑down framing to de‑risk projects'
+- header: 'Stakeholder Alignment: Top-down framing to de-risk projects'
 - line: Yeah, I think this is the bottom-up view. But I think the top-down view is
     what I think most data scientists struggle with, actually. And I think I've made
     most of my mistakes from having this kind of bottom-up view rather than a more
@@ -345,7 +345,7 @@ transcript:
   sec: 542
   time: '9:02'
   who: Christiaan
-- header: 'Annotation Strategy: In‑house vs. crowdsourcing trade‑offs'
+- header: 'Annotation Strategy: In-house vs. crowdsourcing trade-offs'
 - line: Yeah, that was quite a lot to unpack – a lot of information. Let me try to
     summarize. I probably missed a few of the very important bits. When it comes to
     the process of actually collecting data, first of all, we need to have the process.
@@ -434,7 +434,7 @@ transcript:
   sec: 1133
   time: '18:53'
   who: Christiaan
-- header: 'Model‑Assisted Annotation: Pre‑labeling and interpretability layers'
+- header: 'Model-Assisted Annotation: Pre-labeling and interpretability layers'
 - line: This pre-labeling, I think I saw a tool that does something like this. Correct
     me if I'm wrong. We present a piece of a document and ask annotators to label
     it, right? It can be a part from the sales call and we say, “Okay, based on the
@@ -708,7 +708,7 @@ transcript:
   sec: 2197
   time: '36:37'
   who: Alexey
-- header: 'Annotation Quality Metrics: Inter‑annotator agreement, throughput, fatigue'
+- header: 'Annotation Quality Metrics: Inter-annotator agreement, throughput, fatigue'
 - line: Yeah, I think annotation user experience is massive and it's also measurable.
     I'm a huge fan of this whole annotation process. You can have a very quantitative
     and database approach to how you measure the impact of these things. For example,
@@ -1002,7 +1002,7 @@ transcript:
   sec: 3221
   time: '53:41'
   who: Christiaan
-- header: 'Quick‑start Collection: IPython widgets and Fast.ai for beginners'
+- header: 'Quick-start Collection: IPython widgets and Fast.ai for beginners'
 - line: In my personal experience, you can just start using IPython widgets, like
     widgets in Jupyter Notebook. It's super easy to start with. It's not as advanced
     as Snorkel or Prodigy, but if you need some binary classification case, then you

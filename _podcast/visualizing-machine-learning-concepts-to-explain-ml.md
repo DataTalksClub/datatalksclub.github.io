@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=OuCuk-7RHjM
 
 description: Discover kDimensions and Figma templates to visualize machine learning, build intuition before the math, map ML problems, and create shareable visuals
-intro: 'How do you teach machine learning so people build intuition before diving into math? In this episode, Meor Amer—educator, author, and Developer Relations at Cohere—walks through a visual-first approach to machine learning that makes concepts accessible and actionable. Drawing on his journey from bioengineering and telecom analytics to founding kDimensions and writing A Visual Introduction to Deep Learning, Meor explains why visual machine learning and dimensionality reduction matter and how templates can scale understanding. <br><br> We cover practical workflows: generating ideas (visualize the verb, use metaphors like the catapult and airplane), design constraints that spark creativity, and a sketchbook → Figma pipeline for engineers that emphasizes message over aesthetics. Meor shares posting cadence for LinkedIn visuals, how to map ML problems (classification, regression, clustering, anomaly, RL) to templates, and hands‑on learning techniques—consume with intent, break and modify code. He also discusses monetizing visual design services and turning articles into key visuals using 4–5 keywords. <br><br> Listen to learn concrete techniques for ML visualization, Figma for engineers, and creating reusable templates that build intuition and make machine learning teachable.'
+intro: 'How do you teach machine learning so people build intuition before diving into math? In this episode, Meor Amer—educator, author, and Developer Relations at Cohere—walks through a visual-first approach to machine learning that makes concepts accessible and actionable. Drawing on his journey from bioengineering and telecom analytics to founding kDimensions and writing A Visual Introduction to Deep Learning, Meor explains why visual machine learning and dimensionality reduction matter and how templates can scale understanding. <br><br> We cover practical workflows: generating ideas (visualize the verb, use metaphors like the catapult and airplane), design constraints that spark creativity, and a sketchbook → Figma pipeline for engineers that emphasizes message over aesthetics. Meor shares posting cadence for LinkedIn visuals, how to map ML problems (classification, regression, clustering, anomaly, RL) to templates, and hands-on learning techniques—consume with intent, break and modify code. He also discusses monetizing visual design services and turning articles into key visuals using 4–5 keywords. <br><br> Listen to learn concrete techniques for ML visualization, Figma for engineers, and creating reusable templates that build intuition and make machine learning teachable.'
 topics:
 - machine learning
 - education
@@ -33,7 +33,7 @@ quotableClips:
   startOffset: 116
   url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=116
   endOffset: 177
-- name: 'Career Journey: Bioengineering → Telecom Analytics → Self‑employment'
+- name: 'Career Journey: Bioengineering → Telecom Analytics → Self-employment'
   startOffset: 177
   url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=177
   endOffset: 375
@@ -57,7 +57,7 @@ quotableClips:
   startOffset: 1053
   url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=1053
   endOffset: 1286
-- name: Drift Visualized (Catapult Metaphor) & Data‑centric AI Airplane Analogy
+- name: Drift Visualized (Catapult Metaphor) & Data-centric AI Airplane Analogy
   startOffset: 1286
   url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=1286
   endOffset: 1447
@@ -85,7 +85,7 @@ quotableClips:
   startOffset: 2450
   url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2450
   endOffset: 2617
-- name: 'Hands‑on Learning: Break and Modify Code to Understand ML'
+- name: 'Hands-on Learning: Break and Modify Code to Understand ML'
   startOffset: 2617
   url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=2617
   endOffset: 2687
@@ -106,11 +106,11 @@ quotableClips:
   startOffset: 3246
   url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3246
   endOffset: 3361
-- name: 'Book Overview: Visual Introduction to Deep Learning (Neuron‑by‑Neuron)'
+- name: 'Book Overview: Visual Introduction to Deep Learning (Neuron-by-Neuron)'
   startOffset: 3361
   url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3361
   endOffset: 3536
-- name: 'Book Workflow: Visual‑first Layout with Concise Text'
+- name: 'Book Workflow: Visual-first Layout with Concise Text'
   startOffset: 3536
   url: https://www.youtube.com/watch?v=OuCuk-7RHjM&t=3536
   endOffset: 3612
@@ -145,7 +145,7 @@ transcript:
   sec: 173
   time: '2:53'
   who: Meor
-- header: 'Career Journey: Bioengineering → Telecom Analytics → Self‑employment'
+- header: 'Career Journey: Bioengineering → Telecom Analytics → Self-employment'
 - line: Before we go into our main topic of visualising machine learning, let's start
     with your background. Can you tell us about your career journey so far?
   sec: 177
@@ -395,7 +395,7 @@ transcript:
   sec: 1135
   time: '18:55'
   who: Meor
-- header: Drift Visualized (Catapult Metaphor) & Data‑centric AI Airplane Analogy
+- header: Drift Visualized (Catapult Metaphor) & Data-centric AI Airplane Analogy
 - line: Okay, so first, you think, "I want to create something on drift” Then you
     give yourself a bit of time, use a timer, set it to 5-10 minutes. And then you
     start brainstorming, like “How can I show the action? What is the action there?”
@@ -687,7 +687,7 @@ transcript:
   sec: 2544
   time: '42:24'
   who: Meor
-- header: 'Hands‑on Learning: Break and Modify Code to Understand ML'
+- header: 'Hands-on Learning: Break and Modify Code to Understand ML'
 - line: How do you come up with this “What if?” and “What can go wrong?”? If you have
     practical experience, then you can use it. But if you're just learning this thing,
     how can you know about these things?
@@ -867,7 +867,7 @@ transcript:
   sec: 3246
   time: '54:06'
   who: Meor
-- header: 'Book Overview: Visual Introduction to Deep Learning (Neuron‑by‑Neuron)'
+- header: 'Book Overview: Visual Introduction to Deep Learning (Neuron-by-Neuron)'
 - line: I also know that you wrote a book. You recently came to DataTalks.Club’s slack
     to answer questions about your book. Can you tell us about it? And how did you
     come up with the idea behind the book?
@@ -900,7 +900,7 @@ transcript:
   sec: 3430
   time: '57:10'
   who: Meor
-- header: 'Book Workflow: Visual‑first Layout with Concise Text'
+- header: 'Book Workflow: Visual-first Layout with Concise Text'
 - line: Did you first come up with text and then created illustrations? Or did you
     first come up with illustrations and then wrote text for them?
   sec: 3536

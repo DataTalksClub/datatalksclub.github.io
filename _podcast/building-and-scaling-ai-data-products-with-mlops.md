@@ -16,7 +16,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/product-management-essentials-for-data-professionals/id1541710331?i=1000550093434
 
 description: Build scalable data products with MLOps roadmaps, customer research and metric-driven templates - prioritize impact, reduce failures, and measure success
-intro: How do you move from proofs-of-concept to scalable AI data products that deliver measurable business value? In this episode, Greg Coquillo, a Technology Manager at Amazon who builds AI roadmaps for Private Brands’ product safety and compliance, walks through practical approaches for building and scaling data products, MLOps, customer research, and metrics. <br><br> We cover Greg’s transition into AI product work and the role of data product managers (internal vs. external), then dive into customer journey mapping, domain knowledge, and structured customer research—interview techniques, documentation, the Five Whys, and hypothesis testing. You’ll hear how to work backwards from business problems, contribute technical input to roadmaps with T‑shirt sizing, and prioritize MLOps by spotting unscalable manual processes. Greg outlines three‑year roadmap thinking (impact, effort, cost), a pragmatic Excel template (problems → solutions → metrics), and SMART and operational metrics like pipeline failures, SLAs, and data quality. He also addresses operating without a PM, aligning team mental models, and on‑the‑job product skill development. <br><br> Listen to learn actionable methods for roadmap planning, MLOps prioritization, customer research, and defining success metrics for AI-driven data products
+intro: How do you move from proofs-of-concept to scalable AI data products that deliver measurable business value? In this episode, Greg Coquillo, a Technology Manager at Amazon who builds AI roadmaps for Private Brands’ product safety and compliance, walks through practical approaches for building and scaling data products, MLOps, customer research, and metrics. <br><br> We cover Greg’s transition into AI product work and the role of data product managers (internal vs. external), then dive into customer journey mapping, domain knowledge, and structured customer research—interview techniques, documentation, the Five Whys, and hypothesis testing. You’ll hear how to work backwards from business problems, contribute technical input to roadmaps with T-shirt sizing, and prioritize MLOps by spotting unscalable manual processes. Greg outlines three-year roadmap thinking (impact, effort, cost), a pragmatic Excel template (problems → solutions → metrics), and SMART and operational metrics like pipeline failures, SLAs, and data quality. He also addresses operating without a PM, aligning team mental models, and on-the-job product skill development. <br><br> Listen to learn actionable methods for roadmap planning, MLOps prioritization, customer research, and defining success metrics for AI-driven data products
 dateadded: 2022-02-06
 
 duration: PT00H59M41S
@@ -54,11 +54,11 @@ quotableClips:
   startOffset: 1585
   url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=1585
   endOffset: 1733
-- name: 'Contributing to Roadmaps: Technical Input & T‑Shirt Sizing'
+- name: 'Contributing to Roadmaps: Technical Input & T-Shirt Sizing'
   startOffset: 1733
   url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=1733
   endOffset: 1905
-- name: 'Working Backwards: Problem‑First Feature Design'
+- name: 'Working Backwards: Problem-First Feature Design'
   startOffset: 1905
   url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=1905
   endOffset: 2134
@@ -70,7 +70,7 @@ quotableClips:
   startOffset: 2341
   url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=2341
   endOffset: 2504
-- name: 'Three‑Year Roadmap: Prioritization by Impact, Effort & Cost'
+- name: 'Three-Year Roadmap: Prioritization by Impact, Effort & Cost'
   startOffset: 2504
   url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=2504
   endOffset: 2838
@@ -94,7 +94,7 @@ quotableClips:
   startOffset: 3464
   url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=3464
   endOffset: 3522
-- name: 'Career Advice: Learn Product Skills on the Job & Follow‑up Resources'
+- name: 'Career Advice: Learn Product Skills on the Job & Follow-up Resources'
   startOffset: 3522
   url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=3522
   endOffset: 3647
@@ -486,7 +486,7 @@ transcript:
   sec: 1685
   time: '28:05'
   who: Alexey
-- header: 'Contributing to Roadmaps: Technical Input & T‑Shirt Sizing'
+- header: 'Contributing to Roadmaps: Technical Input & T-Shirt Sizing'
 - line: If you're a data professional, you're on the business team as a data analyst,
     a business analyst, or you're on the tech side, even an ML engineer or a data
     engineer, etc. Since product roadmaps are led by product managers, the best practice
@@ -526,7 +526,7 @@ transcript:
   sec: 1881
   time: '31:21'
   who: Greg
-- header: 'Working Backwards: Problem‑First Feature Design'
+- header: 'Working Backwards: Problem-First Feature Design'
 - line: I guess another thing – I'm not sure if we talked about this – but you mentioned
     it a few times that you should start with an end in mind. I guess this is something
     that we can also do. Let's say, when we discuss any feature, we can say “Let's
@@ -665,7 +665,7 @@ transcript:
   sec: 2424
   time: '40:24'
   who: Greg
-- header: 'Three‑Year Roadmap: Prioritization by Impact, Effort & Cost'
+- header: 'Three-Year Roadmap: Prioritization by Impact, Effort & Cost'
 - line: I think you said “driving the roadmap” multiple times. Let's say I work in
     a team that has a product manager, and a bunch of other people. So then “driving
     the roadmap” of this team means taking active part in discussions when we talk
@@ -922,7 +922,7 @@ transcript:
   sec: 3495
   time: '58:15'
   who: Greg
-- header: 'Career Advice: Learn Product Skills on the Job & Follow‑up Resources'
+- header: 'Career Advice: Learn Product Skills on the Job & Follow-up Resources'
 - line: Yeah. Okay. I think we should be wrapping up. Do you want to say anything
     before we finish?
   sec: 3522

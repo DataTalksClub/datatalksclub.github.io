@@ -21,10 +21,10 @@ intro: How do you pivot from DevOps to data engineering without starting over? I
   this episode Agita Jaunzeme — a DevOps/DataOps engineer, manager, community builder
   and NGO founder — breaks down practical strategies for career transitions that center
   on automation, open source participation, and volunteering. <br><br> Agita draws
-  on experience across corporate, startup, open source and non‑governmental sectors
+  on experience across corporate, startup, open source and non-governmental sectors
   and shares how automation and DevOps practices translate to data engineering and
   DataOps. We discuss using open source projects to build credibility, volunteering
-  and community work to gain hands‑on experience and networks, and concrete approaches
+  and community work to gain hands-on experience and networks, and concrete approaches
   to getting promoted or making purposeful career pivots. Agita also talks about designing
   work that aligns with passion and purpose, including founding an NGO to support
   expats and locals in Porto. <br><br> Listeners will come away with actionable ideas

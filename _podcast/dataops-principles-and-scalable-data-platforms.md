@@ -1,5 +1,5 @@
 ---
-title: 'DataOps 101 for Scaling Data Platforms: Immutable Pipelines, Self‑Service Lakehouse & Reproducibility'
+title: 'DataOps 101 for Scaling Data Platforms: Immutable Pipelines, Self-Service Lakehouse & Reproducibility'
 short: DataOps 101
 season: 2
 episode: 11
@@ -16,7 +16,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/dataops-101-lars-albertsson/id1541710331?i=1000514542438
 
 description: Discover DataOps strategies, immutable pipelines & a self-service lakehouse to boost reproducibility, scale data platforms, enable analysts and speed delivery
-intro: How do you scale a data platform that supports self‑service analytics while keeping pipelines reproducible and maintainable? In this episode, Lars Albertsson, founder of Scling and former Google, Spotify and Schibsted engineer, walks through pragmatic DataOps principles for building scalable data platforms. <br><br> We dig into building self‑service at Spotify, orchestration with Luigi, and the core platform components—storage, compute and workflow engines—plus compute choices like Spark, Flink, containers and managed services. Lars explains immutable, functional pipeline design to solve reproducibility problems, contrasts data lakes and warehouses (raw dumps vs aggregates), and covers object storage, governance, ingress/egress patterns, CDC and database versioning strategies. He also explores batch vs streaming trade‑offs, micro‑batching, DataOps maturity (tests, schema automation), MLOps vs DataOps overlaps, and risks around data mesh and decentralization. <br><br> Listeners will come away with concrete architectural trade‑offs, patterns for immutable pipelines and self‑service lakehouse design, and recommended readings from the Scling list to deepen expertise in DataOps, lineage, versioning and practical data engineering
+intro: How do you scale a data platform that supports self-service analytics while keeping pipelines reproducible and maintainable? In this episode, Lars Albertsson, founder of Scling and former Google, Spotify and Schibsted engineer, walks through pragmatic DataOps principles for building scalable data platforms. <br><br> We dig into building self-service at Spotify, orchestration with Luigi, and the core platform components—storage, compute and workflow engines—plus compute choices like Spark, Flink, containers and managed services. Lars explains immutable, functional pipeline design to solve reproducibility problems, contrasts data lakes and warehouses (raw dumps vs aggregates), and covers object storage, governance, ingress/egress patterns, CDC and database versioning strategies. He also explores batch vs streaming trade-offs, micro-batching, DataOps maturity (tests, schema automation), MLOps vs DataOps overlaps, and risks around data mesh and decentralization. <br><br> Listeners will come away with concrete architectural trade-offs, patterns for immutable pipelines and self-service lakehouse design, and recommended readings from the Scling list to deepen expertise in DataOps, lineage, versioning and practical data engineering
 topics:
 - DataOps
 - date engineering
@@ -34,7 +34,7 @@ quotableClips:
   startOffset: 218
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=218
   endOffset: 472
-- name: 'Scaling Data Teams: Building Self‑Service at Spotify'
+- name: 'Scaling Data Teams: Building Self-Service at Spotify'
   startOffset: 472
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=472
   endOffset: 648
@@ -62,7 +62,7 @@ quotableClips:
   startOffset: 1409
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=1409
   endOffset: 1702
-- name: 'Ingress & Egress: Offline Processing and Self‑Service SQL'
+- name: 'Ingress & Egress: Offline Processing and Self-Service SQL'
   startOffset: 1702
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=1702
   endOffset: 1834
@@ -74,7 +74,7 @@ quotableClips:
   startOffset: 1878
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=1878
   endOffset: 2157
-- name: 'Cloud Trade‑offs: Prepackaged Platforms vs DIY Assembly'
+- name: 'Cloud Trade-offs: Prepackaged Platforms vs DIY Assembly'
   startOffset: 2157
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=2157
   endOffset: 2397
@@ -86,19 +86,19 @@ quotableClips:
   startOffset: 2513
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=2513
   endOffset: 2711
-- name: 'Micro‑batching vs Streaming: Dependency Management & Predictability'
+- name: 'Micro-batching vs Streaming: Dependency Management & Predictability'
   startOffset: 2711
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=2711
   endOffset: 2812
-- name: 'DataOps Maturity: Test‑Certified Practices, Quality & Schema Automation'
+- name: 'DataOps Maturity: Test-Certified Practices, Quality & Schema Automation'
   startOffset: 2812
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=2812
   endOffset: 3013
-- name: 'Enabling Self‑Service Analytics: Embedding Engineers with Analysts'
+- name: 'Enabling Self-Service Analytics: Embedding Engineers with Analysts'
   startOffset: 3013
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=3013
   endOffset: 3211
-- name: 'MLOps vs DataOps: Shared Principles and ML‑Specific Requirements'
+- name: 'MLOps vs DataOps: Shared Principles and ML-Specific Requirements'
   startOffset: 3211
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=3211
   endOffset: 3466
@@ -110,7 +110,7 @@ quotableClips:
   startOffset: 3782
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=3782
   endOffset: 3858
-- name: 'Lineage & Versioning: Code‑Defined Pipelines vs Catalog Tools'
+- name: 'Lineage & Versioning: Code-Defined Pipelines vs Catalog Tools'
   startOffset: 3858
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=3858
   endOffset: 3961
@@ -202,7 +202,7 @@ transcript:
   sec: 468
   time: '7:48'
   who: Lars
-- header: 'Scaling Data Teams: Building Self‑Service at Spotify'
+- header: 'Scaling Data Teams: Building Self-Service at Spotify'
 - line: You said, you started with DataOps, even before it became a thing — in 2013.
     How was it called there? How did you come up with this?
   sec: 472
@@ -460,7 +460,7 @@ transcript:
   sec: 1586
   time: '26:26'
   who: Lars
-- header: 'Ingress & Egress: Offline Processing and Self‑Service SQL'
+- header: 'Ingress & Egress: Offline Processing and Self-Service SQL'
 - line: 'At Spotify, we had songs that have been played and then we joined with the
     user so we know what product they were or what country they''re in. Then these
     pipelines fan out, these popular data sets are used for many purposes: for reporting
@@ -526,7 +526,7 @@ transcript:
   sec: 1878
   time: '31:18'
   who: Lars
-- header: 'Cloud Trade‑offs: Prepackaged Platforms vs DIY Assembly'
+- header: 'Cloud Trade-offs: Prepackaged Platforms vs DIY Assembly'
 - line: Then you need compute. You need some way to perform these transformations.
     There are scalable things like Spark and Flink. For most companies, horizontal
     scalability is actually not necessary. You can get 12 terabyte memory machines
@@ -661,7 +661,7 @@ transcript:
   sec: 2549
   time: '42:29'
   who: Lars
-- header: 'Micro‑batching vs Streaming: Dependency Management & Predictability'
+- header: 'Micro-batching vs Streaming: Dependency Management & Predictability'
 - line: 'Then you have batch, where things can be really slow, like reporting, or
     you''re making analytics or business insights. You can wait for an hour and that''s
     fine. Then you have streaming. It takes care of the window in-between. Then the
@@ -704,7 +704,7 @@ transcript:
   sec: 2719
   time: '45:19'
   who: Lars
-- header: 'DataOps Maturity: Test‑Certified Practices, Quality & Schema Automation'
+- header: 'DataOps Maturity: Test-Certified Practices, Quality & Schema Automation'
 - line: Makes sense. Thank you. I also wanted to talk about maturity levels, and you
     briefly touched on them. What are the maturity levels of an organization? When
     an organization is ready for DataOps? And what are the different levels of readiness?
@@ -719,7 +719,7 @@ transcript:
   sec: 2833
   time: '47:13'
   who: Lars
-- header: 'Enabling Self‑Service Analytics: Embedding Engineers with Analysts'
+- header: 'Enabling Self-Service Analytics: Embedding Engineers with Analysts'
 - line: Regarding the maturity levels, I don't have a super great definition of maturity
     levels. There was an interesting development at Spotify. When I was at Google,
     if we traced back to that time, we had a maturity ladder in terms of DevOps —
@@ -784,7 +784,7 @@ transcript:
   sec: 3155
   time: '52:35'
   who: Lars
-- header: 'MLOps vs DataOps: Shared Principles and ML‑Specific Requirements'
+- header: 'MLOps vs DataOps: Shared Principles and ML-Specific Requirements'
 - line: This reminds me that at the beginning of our chat, we wanted to ask you about
     different “something-Ops”. We already talked about the difference between DevOps
     and DataOps. Correct me if I'm wrong, but in case of DataOps, you have the same
@@ -931,7 +931,7 @@ transcript:
   sec: 3856
   time: '1:04:16'
   who: Lars
-- header: 'Lineage & Versioning: Code‑Defined Pipelines vs Catalog Tools'
+- header: 'Lineage & Versioning: Code-Defined Pipelines vs Catalog Tools'
 - line: How do you keep track of all the transformations that have been undertaken
     between each newly created data set within the data platform?
   sec: 3858

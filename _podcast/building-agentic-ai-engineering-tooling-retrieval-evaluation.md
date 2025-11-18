@@ -55,7 +55,7 @@ quotableClips:
   startOffset: 352
   url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=352
   endOffset: 464
-- name: 'Joining Noird.ai: Automating On‑call with Agents'
+- name: 'Joining Noird.ai: Automating On-call with Agents'
   startOffset: 464
   url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=464
   endOffset: 660
@@ -67,7 +67,7 @@ quotableClips:
   startOffset: 751
   url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=751
   endOffset: 910
-- name: 'Planning Strategies: Single‑step, Multi‑pass & Self‑reflection'
+- name: 'Planning Strategies: Single-step, Multi-pass & Self-reflection'
   startOffset: 910
   url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=910
   endOffset: 1103
@@ -75,7 +75,7 @@ quotableClips:
   startOffset: 1103
   url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=1103
   endOffset: 1198
-- name: 'Code Agents vs Natural‑Language Agents: Trade‑offs'
+- name: 'Code Agents vs Natural-Language Agents: Trade-offs'
   startOffset: 1198
   url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=1198
   endOffset: 1281
@@ -91,7 +91,7 @@ quotableClips:
   startOffset: 1499
   url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=1499
   endOffset: 1770
-- name: 'RAG Reality Check: Latency, Cost & Garbage‑In/Garbage‑Out'
+- name: 'RAG Reality Check: Latency, Cost & Garbage-In/Garbage-Out'
   startOffset: 1770
   url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=1770
   endOffset: 1898
@@ -123,7 +123,7 @@ quotableClips:
   startOffset: 2648
   url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=2648
   endOffset: 2760
-- name: 'Framework Trade‑offs: LangChain, OpenAI Agents SDK, Small Agents'
+- name: 'Framework Trade-offs: LangChain, OpenAI Agents SDK, Small Agents'
   startOffset: 2760
   url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=2760
   endOffset: 2880
@@ -139,7 +139,7 @@ quotableClips:
   startOffset: 3200
   url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=3200
   endOffset: 3362
-- name: 'Goal‑based Evaluation: Outcome Assertions Over Exact Paths'
+- name: 'Goal-based Evaluation: Outcome Assertions Over Exact Paths'
   startOffset: 3362
   url: https://www.youtube.com/watch?v=x2AAjqz2XmM&t=3362
   endOffset: 3491
@@ -279,7 +279,7 @@ transcript:
   sec: 394
   time: '6:34'
   who: Ranjitha
-- header: 'Joining Noird.ai: Automating On‑call with Agents'
+- header: 'Joining Noird.ai: Automating On-call with Agents'
 - line: After working on agents at Dropbox, I was drawn to Noird, where I am now.
     I’m fully immersed in the potential of these agents. We are trying to solve the
     problem of engineering on call, taking that away from users and letting agents
@@ -415,7 +415,7 @@ transcript:
   sec: 904
   time: '15:04'
   who: Ranjitha
-- header: 'Planning Strategies: Single‑step, Multi‑pass & Self‑reflection'
+- header: 'Planning Strategies: Single-step, Multi-pass & Self-reflection'
 - line: Would you agree with the definition that an agent is just an LLM with tools?
   sec: 910
   time: '15:10'
@@ -462,7 +462,7 @@ transcript:
   sec: 1146
   time: '19:06'
   who: Ranjitha
-- header: 'Code Agents vs Natural‑Language Agents: Trade‑offs'
+- header: 'Code Agents vs Natural-Language Agents: Trade-offs'
 - line: Some agents plan in plain English, others in code so-called code agents. The
     choice depends on the task complexity. For natural language problems, natural
     language-based agents work. For very complex tasks with many steps and conditionals,
@@ -633,7 +633,7 @@ transcript:
   sec: 1732
   time: '28:52'
   who: Ranjitha
-- header: 'RAG Reality Check: Latency, Cost & Garbage‑In/Garbage‑Out'
+- header: 'RAG Reality Check: Latency, Cost & Garbage-In/Garbage-Out'
 - line: We still need to reduce the amount of noise that we put into an LLM’s context,
     and that’s what context engineering is.
   sec: 1770
@@ -870,7 +870,7 @@ transcript:
   sec: 2752
   time: '45:52'
   who: Alexey
-- header: 'Framework Trade‑offs: LangChain, OpenAI Agents SDK, Small Agents'
+- header: 'Framework Trade-offs: LangChain, OpenAI Agents SDK, Small Agents'
 - line: LangChain has its uses, but I haven’t used it much for agents. Early on, it
     couldn’t handle ambiguity in natural language. It has improved and has new agents
     to experiment with.
@@ -950,7 +950,7 @@ transcript:
   sec: 3313
   time: '55:13'
   who: Alexey
-- header: 'Goal‑based Evaluation: Outcome Assertions Over Exact Paths'
+- header: 'Goal-based Evaluation: Outcome Assertions Over Exact Paths'
 - line: 'I wouldn’t evaluate each path too strictly because LLMs can accomplish the
     same goal differently. Tool calls must consult the true source. For example, two
     ways exist to find a skip level: directly or by traversing an org chart. Both
@@ -993,7 +993,7 @@ context: 'Context: The episode traces a practitioner’s journey from early ML a
   evaluation.
 
   Core (single unifying idea): Pragmatic agent engineering: turning LLMs into reliable,
-  task‑oriented autonomous systems by engineering around their capabilities and limits—designing
+  task-oriented autonomous systems by engineering around their capabilities and limits—designing
   objectives, orchestration, context/retrieval, tooling integrations, planning strategies,
   and rigorous evaluation so agents can safely, efficiently, and predictably perform
   real operational and enterprise tasks.
@@ -1001,17 +1001,17 @@ context: 'Context: The episode traces a practitioner’s journey from early ML a
   Why this unifies the episode: - Defines what an “agent” means in practice (autonomy
   + objectives + LLMs) and why design choices matter. - Shows orchestration needs
   (tools, memory, knowledge stores) to ground LLM reasoning in real data and actions.
-  - Contrasts planning styles (single‑step, multi‑pass, self‑reflection) and implementation
-  tradeoffs (prompts vs SDKs, code vs natural‑language agents) as engineering choices,
+  - Contrasts planning styles (single-step, multi-pass, self-reflection) and implementation
+  tradeoffs (prompts vs SDKs, code vs natural-language agents) as engineering choices,
   not academic ones. - Treats retrieval/RAG as an engineering component with latency/cost/GIGO
   constraints and explores agentic RAG when RAG alone falls short. - Emphasizes integration
   abstractions and framework tradeoffs for production deployment (from bespoke stacks
   to marketplaces and SDKs). - Centers testing and evaluation—mocking tools, regression
-  tests, goal‑based benchmarks—to ensure outcomes over narrative plausibility. - Highlights
+  tests, goal-based benchmarks—to ensure outcomes over narrative plausibility. - Highlights
   specialization and domain constraints: generic agents struggle; practical value
   comes from adapting agents to workflows, data, and operational requirements.
 
-  Bottom line: The episode’s through‑line is that successful agent projects are not
+  Bottom line: The episode’s through-line is that successful agent projects are not
   just about large models: they are systems engineering problems requiring explicit
   choices about autonomy, grounding, tooling, planning, and measurement to deliver
   dependable, useful automation.'

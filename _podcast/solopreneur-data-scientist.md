@@ -45,7 +45,7 @@ quotableClips:
   startOffset: 493
   url: https://youtube.com/watch?v=KMSE9GkU2mE&t=493
   endOffset: 653
-- name: 'Experience Required: Mid‑Senior, End‑to‑End Project Skills'
+- name: 'Experience Required: Mid-Senior, End-to-End Project Skills'
   startOffset: 653
   url: https://youtube.com/watch?v=KMSE9GkU2mE&t=653
   endOffset: 753
@@ -65,7 +65,7 @@ quotableClips:
   startOffset: 1267
   url: https://youtube.com/watch?v=KMSE9GkU2mE&t=1267
   endOffset: 1345
-- name: 'First Month: Early Research, Insights or Proof‑of‑Concept'
+- name: 'First Month: Early Research, Insights or Proof-of-Concept'
   startOffset: 1345
   url: https://youtube.com/watch?v=KMSE9GkU2mE&t=1345
   endOffset: 1447
@@ -303,7 +303,7 @@ transcript:
   sec: 652
   time: '10:52'
   who: Marianna
-- header: 'Experience Required: Mid‑Senior, End‑to‑End Project Skills'
+- header: 'Experience Required: Mid-Senior, End-to-End Project Skills'
 - line: How much experience would I need to have in order to join a company as the
     only data scientist? Do I need to be very experienced, like a senior person? Or
     if I'm just switching careers, would it be a good idea to join such a company?
@@ -489,7 +489,7 @@ transcript:
   sec: 1291
   time: '21:31'
   who: Marianna
-- header: 'First Month: Early Research, Insights or Proof‑of‑Concept'
+- header: 'First Month: Early Research, Insights or Proof-of-Concept'
 - line: That's the first week, you said. Let’s say, you’re there for a month already
     – what should you do in the first month? Do you already need to have some sort
     of POC or are you still in the exploratory phase? I guess it depends on the case,

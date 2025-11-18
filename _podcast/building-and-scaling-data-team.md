@@ -16,7 +16,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/building-and-leading-data-teams-tammy-liang/id1541710331?i=1000537994433
 
 description: 'Learn to build a scalable data team: hiring, production ML delivery, demand forecasting and driving adoption—practical staffing, stack, and governance tips.'
-intro: How do you build and scale a data team that moves beyond dashboards to production ML, reliable forecasting, and real adoption across the business? In this episode Tammy Liang, Chief of Data at Platanomelón and co‑host of Data for Future, walks through her journey building data capabilities for marketing, e‑commerce, and operations at a mission‑driven consumer brand. <br><br> Tammy breaks down practical hiring decisions—why she hired an analyst first, then a data engineer, and why early senior hires matter—plus the tradeoffs between analyst, engineer, and business‑facing roles. She explains the technical foundation she built (Stitch, GCP, dbt, Data Studio, Notion) to enable forecasting and production ML, and describes common model delivery challenges moving work out of notebooks. The conversation also covers demand forecasting, time‑series and basic machine learning skills, data accuracy and governance, dbt tests and monitoring, and tactics for driving adoption—workshops, Q&A, and building trust. <br><br> Listen to learn concrete steps for hiring a data team, setting up a data warehouse for forecasting, delivering models to production, and creating data products that stakeholders actually use
+intro: How do you build and scale a data team that moves beyond dashboards to production ML, reliable forecasting, and real adoption across the business? In this episode Tammy Liang, Chief of Data at Platanomelón and co-host of Data for Future, walks through her journey building data capabilities for marketing, e-commerce, and operations at a mission-driven consumer brand. <br><br> Tammy breaks down practical hiring decisions—why she hired an analyst first, then a data engineer, and why early senior hires matter—plus the tradeoffs between analyst, engineer, and business-facing roles. She explains the technical foundation she built (Stitch, GCP, dbt, Data Studio, Notion) to enable forecasting and production ML, and describes common model delivery challenges moving work out of notebooks. The conversation also covers demand forecasting, time-series and basic machine learning skills, data accuracy and governance, dbt tests and monitoring, and tactics for driving adoption—workshops, Q&A, and building trust. <br><br> Listen to learn concrete steps for hiring a data team, setting up a data warehouse for forecasting, delivering models to production, and creating data products that stakeholders actually use
 topics:
 - team building
 - data teams
@@ -36,7 +36,7 @@ quotableClips:
   startOffset: 74
   url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=74
   endOffset: 247
-- name: 'Chief of Data Responsibilities: Marketing, e‑commerce, and operations'
+- name: 'Chief of Data Responsibilities: Marketing, e-commerce, and operations'
   startOffset: 247
   url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=247
   endOffset: 404
@@ -49,7 +49,7 @@ quotableClips:
   startOffset: 442
   url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=442
   endOffset: 531
-- name: 'Cross‑team Collaboration: Streamlining reporting and building trust'
+- name: 'Cross-team Collaboration: Streamlining reporting and building trust'
   startOffset: 531
   url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=531
   endOffset: 606
@@ -73,7 +73,7 @@ quotableClips:
   startOffset: 1031
   url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=1031
   endOffset: 1121
-- name: 'Business‑Facing Role: Hiring for adoption and communication'
+- name: 'Business-Facing Role: Hiring for adoption and communication'
   startOffset: 1121
   url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=1121
   endOffset: 1352
@@ -97,7 +97,7 @@ quotableClips:
   startOffset: 1857
   url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=1857
   endOffset: 1989
-- name: 'First‑Hire Qualities: Business alignment and leadership mindset'
+- name: 'First-Hire Qualities: Business alignment and leadership mindset'
   startOffset: 1989
   url: https://www.youtube.com/watch?v=kI4V2iBbaH0&t=1989
   endOffset: 2138
@@ -193,7 +193,7 @@ transcript:
   sec: 157
   time: '2:37'
   who: Tammy
-- header: 'Chief of Data Responsibilities: Marketing, e‑commerce, and operations'
+- header: 'Chief of Data Responsibilities: Marketing, e-commerce, and operations'
 - line: You started as the first data person that's really cool. What do you do as
     chief of data?
   sec: 247
@@ -275,7 +275,7 @@ transcript:
   sec: 508
   time: '8:28'
   who: Alexey
-- header: 'Cross‑team Collaboration: Streamlining reporting and building trust'
+- header: 'Cross-team Collaboration: Streamlining reporting and building trust'
 - line: I would say that it's a little bit the other way around. It’s more about the
     management realizing, “Okay, we do have the need. Everyone is talking about data
     and for the company to grow further it’s maybe something we need.” But people
@@ -436,7 +436,7 @@ transcript:
   sec: 1031
   time: '17:11'
   who: Tammy
-- header: 'Business‑Facing Role: Hiring for adoption and communication'
+- header: 'Business-Facing Role: Hiring for adoption and communication'
 - line: As the data team we need to work a lot, because if we do not tell the team
     what we are producing, the tools are developed, but they just sit there and no
     one uses them. So we would just be wasting our time and energy. Therefore, the
@@ -757,7 +757,7 @@ transcript:
   sec: 1930
   time: '32:10'
   who: Tammy
-- header: 'First‑Hire Qualities: Business alignment and leadership mindset'
+- header: 'First-Hire Qualities: Business alignment and leadership mindset'
 - line: Yeah, thanks. I have a lot of questions that I didn't send you in the list
     of questions that I have prepared. So the question I have is, “What kind of qualities
     do you need to have as the first data person in a company? Should you be more

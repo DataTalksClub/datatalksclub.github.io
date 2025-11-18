@@ -61,7 +61,7 @@ quotableClips:
   startOffset: 1095
   url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=1095
   endOffset: 1282
-- name: 'Meta-learners overview: T‑learner and counterfactual estimation'
+- name: 'Meta-learners overview: T-learner and counterfactual estimation'
   startOffset: 1282
   url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=1282
   endOffset: 1464
@@ -487,7 +487,7 @@ transcript:
   sec: 1244
   time: '20:44'
   who: Alexey
-- header: 'Meta-learners overview: T‑learner and counterfactual estimation'
+- header: 'Meta-learners overview: T-learner and counterfactual estimation'
 - line: That's a great question. You are correct. Out of the box, supervised models
     do not have the capabilities to reason causally and there are many different types
     of causal models. But the one that I think is relatively the easiest to to grasp,

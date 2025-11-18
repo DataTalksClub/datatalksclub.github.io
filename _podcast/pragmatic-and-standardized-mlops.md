@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=q3DTR3Od1MA
 
 description: 'Learn pragmatic MLOps: standardize CI/CD, model registry and monitoring to boost reproducibility, deployment reliability, and team productivity.'
-intro: 'How do you build pragmatic, standardized MLOps across teams without chasing every new tool? In this episode, Maria Vechtomova — an MLOps tech lead and manager with roots in econometrics and early work moving from R to Python — tackles MLOps as an organizational challenge, not just a technology problem. <br><br> Maria walks through core, actionable topics: building reusable CI/CD and standardized repos, choosing model artifact and registry strategies (Artifactory, S3, MLflow alternatives), and leveraging existing infra like Kubernetes, Git, and CI systems. She outlines central MLOps responsibilities — infrastructure, registries, deployment patterns, and monitoring — and contrasts centralized platform teams with embedded feature teams and guardrails. You’ll hear practical advice on moving logic out of notebooks into packages and pipelines, conducting maturity assessments (reproducibility, testing, documentation), and securing DevOps buy‑in. The conversation also covers monitoring standardization, A/B testing, early LLM pilots and their cost/GPU constraints, plus retail use cases like demand forecasting and personalization. <br><br> Listen to learn concrete steps for implementing CI/CD, model versioning, registries, and monitoring — and how to prioritize organizational change to make MLOps work in production.'
+intro: 'How do you build pragmatic, standardized MLOps across teams without chasing every new tool? In this episode, Maria Vechtomova — an MLOps tech lead and manager with roots in econometrics and early work moving from R to Python — tackles MLOps as an organizational challenge, not just a technology problem. <br><br> Maria walks through core, actionable topics: building reusable CI/CD and standardized repos, choosing model artifact and registry strategies (Artifactory, S3, MLflow alternatives), and leveraging existing infra like Kubernetes, Git, and CI systems. She outlines central MLOps responsibilities — infrastructure, registries, deployment patterns, and monitoring — and contrasts centralized platform teams with embedded feature teams and guardrails. You’ll hear practical advice on moving logic out of notebooks into packages and pipelines, conducting maturity assessments (reproducibility, testing, documentation), and securing DevOps buy-in. The conversation also covers monitoring standardization, A/B testing, early LLM pilots and their cost/GPU constraints, plus retail use cases like demand forecasting and personalization. <br><br> Listen to learn concrete steps for implementing CI/CD, model versioning, registries, and monitoring — and how to prioritize organizational change to make MLOps work in production.'
 topics:
 - MLOps
 dateadded: 2023-09-25
@@ -89,7 +89,7 @@ quotableClips:
   startOffset: 1626
   url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=1626
   endOffset: 1795
-- name: 'Standardization: cookie‑cutter repos, service principals, and Databricks
+- name: 'Standardization: cookie-cutter repos, service principals, and Databricks
     integration'
   startOffset: 1795
   url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=1795
@@ -99,11 +99,11 @@ quotableClips:
   startOffset: 2004
   url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2004
   endOffset: 2069
-- name: 'Implementation timeline: technical build vs. organizational buy‑in and permissions'
+- name: 'Implementation timeline: technical build vs. organizational buy-in and permissions'
   startOffset: 2069
   url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2069
   endOffset: 2121
-- name: 'Securing DevOps buy‑in: expose pain, deliver standards, and enable internal
+- name: 'Securing DevOps buy-in: expose pain, deliver standards, and enable internal
     audit'
   startOffset: 2121
   url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2121
@@ -112,7 +112,7 @@ quotableClips:
   startOffset: 2281
   url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2281
   endOffset: 2369
-- name: 'Tool‑agnostic skills: learn fundamentals and stitch tools together end-to-end'
+- name: 'Tool-agnostic skills: learn fundamentals and stitch tools together end-to-end'
   startOffset: 2369
   url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2369
   endOffset: 2573
@@ -128,12 +128,12 @@ quotableClips:
   startOffset: 2982
   url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=2982
   endOffset: 3084
-- name: 'Cross‑brand model: centralized MLOps support for smaller brands and cooperation
+- name: 'Cross-brand model: centralized MLOps support for smaller brands and cooperation
     with large brands'
   startOffset: 3084
   url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=3084
   endOffset: 3245
-- name: 'Learning recommendations: hands‑on projects, MLOps Zoomcamp, and pairing
+- name: 'Learning recommendations: hands-on projects, MLOps Zoomcamp, and pairing
     with engineers'
   startOffset: 3245
   url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=3245
@@ -687,7 +687,7 @@ transcript:
   sec: 1722
   time: '28:42'
   who: Alexey
-- header: 'Standardization: cookie‑cutter repos, service principals, and Databricks
+- header: 'Standardization: cookie-cutter repos, service principals, and Databricks
     integration'
 - line: 'Yeah, I guess so. I think the choice of the tooling is related to standardization.
     We work in a large corporate organization with 19 brands all over the world –
@@ -753,7 +753,7 @@ transcript:
   sec: 2004
   time: '33:24'
   who: Maria
-- header: 'Implementation timeline: technical build vs. organizational buy‑in and
+- header: 'Implementation timeline: technical build vs. organizational buy-in and
     permissions'
 - line: Amazing. How long did it take to implement this?
   sec: 2069
@@ -784,7 +784,7 @@ transcript:
   sec: 2119
   time: '35:19'
   who: Maria
-- header: 'Securing DevOps buy‑in: expose pain, deliver standards, and enable internal
+- header: 'Securing DevOps buy-in: expose pain, deliver standards, and enable internal
     audit'
 - line: Did you do this yourself as a tech lead? [Maria agrees] Do you have any tips
     on how to address that if  somebody is also facing some hesitation from the DevOps
@@ -881,7 +881,7 @@ transcript:
   sec: 2350
   time: '39:10'
   who: Maria
-- header: 'Tool‑agnostic skills: learn fundamentals and stitch tools together end-to-end'
+- header: 'Tool-agnostic skills: learn fundamentals and stitch tools together end-to-end'
 - line: What is also interesting, and the reason I'm asking that, is because in our
     MLOps course, we try to cover the fundamentals. We break down what we think MLOps
     is into multiple areas, which is something like experiment tracking, machine learning
@@ -1108,7 +1108,7 @@ transcript:
   sec: 3067
   time: '51:07'
   who: Maria
-- header: 'Cross‑brand model: centralized MLOps support for smaller brands and cooperation
+- header: 'Cross-brand model: centralized MLOps support for smaller brands and cooperation
     with large brands'
 - line: Does each of these brands have a separate team – and separate a bunch of teams
     – for data science and they do data science separately from the rest of the organization?
@@ -1157,7 +1157,7 @@ transcript:
   sec: 3204
   time: '53:24'
   who: Alexey
-- header: 'Learning recommendations: hands‑on projects, MLOps Zoomcamp, and pairing
+- header: 'Learning recommendations: hands-on projects, MLOps Zoomcamp, and pairing
     with engineers'
 - line: There is one question, “What is the course that you take to become an MLOps
     engineer?”

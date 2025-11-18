@@ -16,7 +16,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/becoming-a-data-science-manager-mariano-semelman/id1541710331?i=1000547222296
 
 description: Discover data science leadership, recommender systems & MLOps tactics—hire, mentor and deploy models faster with practical frameworks and tips
-intro: How do you lead a data science team that prioritizes product impact while building recommender systems, real‑time bidding (RTB) solutions, and maintainable MLOps? In this episode, Mariano Semelman, Head of Data Science at OLX Group with over 13 years of experience, walks through practical leadership decisions that bridge models and products. <br><br> Mariano describes his shift from software development to data science leadership, daily responsibilities (meetings, mentoring, planning), and how he structures teams of data scientists and ML engineers. Key topics include product‑first ML, search and recommender systems, advertising and RTB campaign optimization, CRISP‑DM in production, diagnosing overfitting and feature issues, and pragmatic deployment patterns like start simple, fail fast, and iterative experiments. He also shares onboarding tactics (30‑60‑90 plans), feedback techniques ("ask permission, care, offer options"), one‑on‑ones, handling departures, code reviews as a manager, delegation through senior engineers, and hiring/remediation practices. <br><br> Listen to learn concrete approaches for prioritizing modeling time, running experiments in production, improving MLOps and NLP practices, and mentoring engineers to deliver measurable product outcomes
+intro: How do you lead a data science team that prioritizes product impact while building recommender systems, real-time bidding (RTB) solutions, and maintainable MLOps? In this episode, Mariano Semelman, Head of Data Science at OLX Group with over 13 years of experience, walks through practical leadership decisions that bridge models and products. <br><br> Mariano describes his shift from software development to data science leadership, daily responsibilities (meetings, mentoring, planning), and how he structures teams of data scientists and ML engineers. Key topics include product-first ML, search and recommender systems, advertising and RTB campaign optimization, CRISP-DM in production, diagnosing overfitting and feature issues, and pragmatic deployment patterns like start simple, fail fast, and iterative experiments. He also shares onboarding tactics (30-60-90 plans), feedback techniques ("ask permission, care, offer options"), one-on-ones, handling departures, code reviews as a manager, delegation through senior engineers, and hiring/remediation practices. <br><br> Listen to learn concrete approaches for prioritizing modeling time, running experiments in production, improving MLOps and NLP practices, and mentoring engineers to deliver measurable product outcomes
 topics:
 - data science
 - machine learning
@@ -62,7 +62,7 @@ quotableClips:
   startOffset: 651
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=651
   endOffset: 772
-- name: '30‑60‑90 Plan: Onboarding, Listening, and Learning'
+- name: '30-60-90 Plan: Onboarding, Listening, and Learning'
   startOffset: 772
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=772
   endOffset: 916
@@ -78,7 +78,7 @@ quotableClips:
   startOffset: 1197
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=1197
   endOffset: 1279
-- name: 'Advertising Domain: Real‑Time Bidding and Campaign Optimization'
+- name: 'Advertising Domain: Real-Time Bidding and Campaign Optimization'
   startOffset: 1279
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=1279
   endOffset: 1389
@@ -90,7 +90,7 @@ quotableClips:
   startOffset: 1576
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=1576
   endOffset: 1769
-- name: 'Product‑First Mindset: Prioritizing User Impact'
+- name: 'Product-First Mindset: Prioritizing User Impact'
   startOffset: 1769
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=1769
   endOffset: 1806
@@ -102,7 +102,7 @@ quotableClips:
   startOffset: 2016
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=2016
   endOffset: 2172
-- name: CRISP‑DM Process and Deployment Realities
+- name: CRISP-DM Process and Deployment Realities
   startOffset: 2172
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=2172
   endOffset: 2210
@@ -118,7 +118,7 @@ quotableClips:
   startOffset: 2657
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=2657
   endOffset: 2893
-- name: One‑on‑Ones and Creating a Safe Growth Environment
+- name: One-on-Ones and Creating a Safe Growth Environment
   startOffset: 2893
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=2893
   endOffset: 3039
@@ -142,7 +142,7 @@ quotableClips:
   startOffset: 3697
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=3697
   endOffset: 3947
-- name: Key Takeaways and Follow‑Up Opportunities
+- name: Key Takeaways and Follow-Up Opportunities
   startOffset: 3947
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=3947
   endOffset: 3991
@@ -325,7 +325,7 @@ transcript:
   sec: 758
   time: '12:38'
   who: Alexey
-- header: '30‑60‑90 Plan: Onboarding, Listening, and Learning'
+- header: '30-60-90 Plan: Onboarding, Listening, and Learning'
 - line: I think I got to know about it a few months in advance. Until it's announced
     and doesn’t actually happen, you don't know if it will happen. As soon as I knew
     that they wanted to put me in the position, I had one month or so to prepare myself.
@@ -456,7 +456,7 @@ transcript:
   sec: 1274
   time: '21:14'
   who: Alexey
-- header: 'Advertising Domain: Real‑Time Bidding and Campaign Optimization'
+- header: 'Advertising Domain: Real-Time Bidding and Campaign Optimization'
 - line: Kind of. It actually confused me a lot because I didn't know this thing beforehand,
     at least not in detail. That was my first “Aha!” moment, because I assumed it
     was the team that we were using to do publicity for OLX – to send traffic to OLX.
@@ -560,7 +560,7 @@ transcript:
   sec: 1576
   time: '26:16'
   who: Mariano
-- header: 'Product‑First Mindset: Prioritizing User Impact'
+- header: 'Product-First Mindset: Prioritizing User Impact'
 - line: I think one thing you didn't mention is that you also help a lot – from what
     I see – is connecting product people (from product management) with data scientists
     and helping them by becoming a translator between them. That's something that
@@ -660,7 +660,7 @@ transcript:
   sec: 2016
   time: '33:36'
   who: Mariano
-- header: CRISP‑DM Process and Deployment Realities
+- header: CRISP-DM Process and Deployment Realities
 - line: I like CRISP-DM, but there is no book. It's just an article in Wikipedia.
     I think there is a book, actually. But anyway, I like this process. It's a very
     old process – it’s like 20 years old or something like that. Surprisingly, it's
@@ -826,7 +826,7 @@ transcript:
   sec: 2890
   time: '48:10'
   who: Alexey
-- header: One‑on‑Ones and Creating a Safe Growth Environment
+- header: One-on-Ones and Creating a Safe Growth Environment
 - line: Yes, one-on-ones. For me, as I mentioned, I believe they should happen at
     least once a week. Of course, with every single person, maybe 15 minutes to catch
     up once a week, that's fine. You may feel compelled to skip it if there is no
@@ -1087,7 +1087,7 @@ transcript:
   sec: 3944
   time: '1:05:44'
   who: Mariano
-- header: Key Takeaways and Follow‑Up Opportunities
+- header: Key Takeaways and Follow-Up Opportunities
 - line: No, but like we actually diverged and I think it turned out to be better than
     what I had in mind. So yeah, thanks a lot for joining us today. Thanks a lot for
     sharing your story with us, for sharing your experience. Also, this 30-60-90 thing,

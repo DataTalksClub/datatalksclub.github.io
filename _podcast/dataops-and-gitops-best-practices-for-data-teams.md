@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=lem7knxqNzg
 
 description: Master DataOps, GitOps and IaC best practices for reproducibility, onboarding and production reliability — actionable Git workflows, Terraform, Docker tips
-intro: How do you make data work less fragile and easier to onboard while keeping production safe and reproducible? In this episode, Tomasz Hinc, a DataOps practitioner from Poznań with roots in econometrics, product analytics, data engineering and ML, walks through practical DataOps and GitOps patterns for data teams. We cover platform onboarding (requesting infra vs. merge requests), Infrastructure as Code with Terraform, Terragrunt and Atlantis, and a GitOps workflow from branch to Atlantis dry‑run and apply. Tomasz explains reproducibility strategies—fixed versions, Docker, dependency management—and common production pitfalls like silent failures and Airflow caveats. You’ll hear about reducing onboarding friction for data scientists, the minimal operational skills every data role benefits from (Git, CLI, IAM), and platform team responsibilities for review, enablement and proactive support. If you’re focused on Infrastructure as Code, GitOps, reproducible pipelines, or practical production best practices for batch workloads and CI migrations, this episode delivers hands‑on advice, learning paths and tooling choices to make your data work faster, safer and more maintainable
+intro: How do you make data work less fragile and easier to onboard while keeping production safe and reproducible? In this episode, Tomasz Hinc, a DataOps practitioner from Poznań with roots in econometrics, product analytics, data engineering and ML, walks through practical DataOps and GitOps patterns for data teams. We cover platform onboarding (requesting infra vs. merge requests), Infrastructure as Code with Terraform, Terragrunt and Atlantis, and a GitOps workflow from branch to Atlantis dry-run and apply. Tomasz explains reproducibility strategies—fixed versions, Docker, dependency management—and common production pitfalls like silent failures and Airflow caveats. You’ll hear about reducing onboarding friction for data scientists, the minimal operational skills every data role benefits from (Git, CLI, IAM), and platform team responsibilities for review, enablement and proactive support. If you’re focused on Infrastructure as Code, GitOps, reproducible pipelines, or practical production best practices for batch workloads and CI migrations, this episode delivers hands-on advice, learning paths and tooling choices to make your data work faster, safer and more maintainable
 topics:
 - DataOps
 - GitOps
@@ -43,7 +43,7 @@ quotableClips:
   startOffset: 271
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=271
   endOffset: 320
-- name: 'ML Education: Multi‑Dimensional Analysis to Machine Learning'
+- name: 'ML Education: Multi-Dimensional Analysis to Machine Learning'
   startOffset: 320
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=320
   endOffset: 394
@@ -63,7 +63,7 @@ quotableClips:
   startOffset: 787
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=787
   endOffset: 852
-- name: 'Motivation Shift: From Model‑Centric to Data‑Centric Work'
+- name: 'Motivation Shift: From Model-Centric to Data-Centric Work'
   startOffset: 852
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=852
   endOffset: 1139
@@ -91,7 +91,7 @@ quotableClips:
   startOffset: 1654
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1654
   endOffset: 1774
-- name: 'Learning Path: Narrow Scope, Hands‑On Mentorship, Roadmap Advice'
+- name: 'Learning Path: Narrow Scope, Hands-On Mentorship, Roadmap Advice'
   startOffset: 1774
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=1774
   endOffset: 2155
@@ -107,7 +107,7 @@ quotableClips:
   startOffset: 2444
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2444
   endOffset: 2512
-- name: 'Proactive Support: Monitoring, Onboarding, and Cross‑Team Education'
+- name: 'Proactive Support: Monitoring, Onboarding, and Cross-Team Education'
   startOffset: 2512
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2512
   endOffset: 2663
@@ -119,7 +119,7 @@ quotableClips:
   startOffset: 2875
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=2875
   endOffset: 3277
-- name: 'Distinction from Management: Cross‑Team Enablement vs Team Leads'
+- name: 'Distinction from Management: Cross-Team Enablement vs Team Leads'
   startOffset: 3277
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3277
   endOffset: 3404
@@ -127,7 +127,7 @@ quotableClips:
   startOffset: 3404
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3404
   endOffset: 3506
-- name: 'Company‑Scale Migration: Jenkins → GitLab CI and Broad Collaboration'
+- name: 'Company-Scale Migration: Jenkins → GitLab CI and Broad Collaboration'
   startOffset: 3506
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3506
   endOffset: 3687
@@ -135,7 +135,7 @@ quotableClips:
   startOffset: 3687
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3687
   endOffset: 3748
-- name: 'Confidence in Data: Pragmatic Edge‑Case Checks & Airflow Caveats'
+- name: 'Confidence in Data: Pragmatic Edge-Case Checks & Airflow Caveats'
   startOffset: 3748
   url: https://www.youtube.com/watch?v=lem7knxqNzg&t=3748
   endOffset: 3941
@@ -207,7 +207,7 @@ transcript:
   sec: 303
   time: '5:03'
   who: Alexey
-- header: 'ML Education: Multi‑Dimensional Analysis to Machine Learning'
+- header: 'ML Education: Multi-Dimensional Analysis to Machine Learning'
 - line: Sure. I mentioned “by accident” because I haven't actually searched for it
     specifically. Yeah, I definitely wanted to be into machine learning and stuff.
     I just received a link that said, “Hey, some company is hiring for a machine learning
@@ -333,7 +333,7 @@ transcript:
   sec: 848
   time: '14:08'
   who: Tomasz
-- header: 'Motivation Shift: From Model‑Centric to Data‑Centric Work'
+- header: 'Motivation Shift: From Model-Centric to Data-Centric Work'
 - line: So when did you realize that you actually enjoy doing this stuff more than
     your work as a data scientist? How did it happen?
   sec: 852
@@ -555,7 +555,7 @@ transcript:
   sec: 1743
   time: '29:03'
   who: Tomasz
-- header: 'Learning Path: Narrow Scope, Hands‑On Mentorship, Roadmap Advice'
+- header: 'Learning Path: Narrow Scope, Hands-On Mentorship, Roadmap Advice'
 - line: Okay. One of the questions I wanted to ask you is – how did you actually learn
     this thing? How did you become a DataOps? But I think from what I understood is,
     you just simply had to do this and then you had a Zoom call with some sort of
@@ -735,7 +735,7 @@ transcript:
   sec: 2505
   time: '41:45'
   who: Alexey
-- header: 'Proactive Support: Monitoring, Onboarding, and Cross‑Team Education'
+- header: 'Proactive Support: Monitoring, Onboarding, and Cross-Team Education'
 - line: Exactly. Most often, honestly, live coding, designing some solutions. If you
     think about which domains DataOps touches, it's essentially past – meaning absorbing
     the technical debt. The present – meaning handling the users’ requests, like daily
@@ -931,7 +931,7 @@ transcript:
   sec: 3269
   time: '54:29'
   who: Tomasz
-- header: 'Distinction from Management: Cross‑Team Enablement vs Team Leads'
+- header: 'Distinction from Management: Cross-Team Enablement vs Team Leads'
 - line: While you were away, I was trying to keep people on the call entertained.
     One Adonis mentioned is that what we talked about largely sounded like a data
     management role – all these Zoom calls, all this support in Slack, all this trying
@@ -987,7 +987,7 @@ transcript:
   sec: 3496
   time: '58:16'
   who: Tomasz
-- header: 'Company‑Scale Migration: Jenkins → GitLab CI and Broad Collaboration'
+- header: 'Company-Scale Migration: Jenkins → GitLab CI and Broad Collaboration'
 - line: Okay, we have a few questions. One of the questions is, “What was your most
     interesting project and why?”
   sec: 3506
@@ -1046,7 +1046,7 @@ transcript:
   sec: 3747
   time: '1:02:27'
   who: Tomasz
-- header: 'Confidence in Data: Pragmatic Edge‑Case Checks & Airflow Caveats'
+- header: 'Confidence in Data: Pragmatic Edge-Case Checks & Airflow Caveats'
 - line: Okay. Last question for today. At the beginning, you told us a story when
     you worked in analytics and somebody from management asked you how confident you
     were in the results. So how do you usually answer this question?

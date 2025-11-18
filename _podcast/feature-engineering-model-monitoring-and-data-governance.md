@@ -99,7 +99,7 @@ quotableClips:
   startOffset: 2968
   url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=2968
   endOffset: 3042
-- name: 'Relationship-building: informal check‑ins, lunch & beer networking'
+- name: 'Relationship-building: informal check-ins, lunch & beer networking'
   startOffset: 3042
   url: https://www.youtube.com/watch?v=pImYf9ML95Q&t=3042
   endOffset: 3349
@@ -827,7 +827,7 @@ transcript:
   sec: 2968
   time: '49:28'
   who: Alexey
-- header: 'Relationship-building: informal check‑ins, lunch & beer networking'
+- header: 'Relationship-building: informal check-ins, lunch & beer networking'
 - line: Then there’s educating why data science is important, which is something that
     you, as a data professional, should also be able to do. For instance saying, “Okay,
     you really need to be careful about this value. You really need to pay attention

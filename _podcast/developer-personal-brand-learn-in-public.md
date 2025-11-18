@@ -39,7 +39,7 @@ quotableClips:
   startOffset: 144
   url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=144
   endOffset: 376
-- name: 'Why Self‑Marketing Matters: recognition, promotions, opportunities'
+- name: 'Why Self-Marketing Matters: recognition, promotions, opportunities'
   startOffset: 376
   url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=376
   endOffset: 513
@@ -51,7 +51,7 @@ quotableClips:
   startOffset: 626
   url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=626
   endOffset: 756
-- name: 'Personal Brand for Non‑star Developers: find distinctiveness'
+- name: 'Personal Brand for Non-star Developers: find distinctiveness'
   startOffset: 756
   url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=756
   endOffset: 787
@@ -107,7 +107,7 @@ quotableClips:
   startOffset: 2540
   url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=2540
   endOffset: 2597
-- name: 'Work‑safe Content Ideas: war stories, industry problems, and summaries'
+- name: 'Work-safe Content Ideas: war stories, industry problems, and summaries'
   startOffset: 2597
   url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=2597
   endOffset: 2743
@@ -115,7 +115,7 @@ quotableClips:
   startOffset: 2743
   url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=2743
   endOffset: 2834
-- name: 'Open Knowledge Projects: collaborative docs and cheat‑sheets as visibility'
+- name: 'Open Knowledge Projects: collaborative docs and cheat-sheets as visibility'
   startOffset: 2834
   url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=2834
   endOffset: 3070
@@ -123,7 +123,7 @@ quotableClips:
   startOffset: 3070
   url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=3070
   endOffset: 3256
-- name: 'Signature Initiative: company‑wide projects that build influence'
+- name: 'Signature Initiative: company-wide projects that build influence'
   startOffset: 3256
   url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=3256
   endOffset: 3429
@@ -139,7 +139,7 @@ quotableClips:
   startOffset: 3717
   url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=3717
   endOffset: 3791
-- name: 'Final Takeaway: non‑technical skills dominate engineering ladders'
+- name: 'Final Takeaway: non-technical skills dominate engineering ladders'
   startOffset: 3791
   url: https://www.youtube.com/watch?v=tkBCPqWKCL8&t=3791
   endOffset: 3761
@@ -266,8 +266,8 @@ transcript:
   sec: 358
   time: '5:58'
   who: Swyx
-- header: 'Why Self‑Marketing Matters: recognition, promotions, opportunities'
-- header: 'Why Self‑Marketing Matters: recognition, promotions, opportunities'
+- header: 'Why Self-Marketing Matters: recognition, promotions, opportunities'
+- header: 'Why Self-Marketing Matters: recognition, promotions, opportunities'
 - line: About marketing ourselves. You are one of the people I follow on Twitter for
     stuff like marketing ourselves and learning in public. So I wanted to ask you,
     why should we market ourselves? Why is it important for our careers? You have
@@ -405,12 +405,12 @@ transcript:
     stuff and cover your bases. So, there are just so many details here, like we can
     go into any one of them.
   who: Swyx
-- header: 'Personal Brand for Non‑star Developers: find distinctiveness'
+- header: 'Personal Brand for Non-star Developers: find distinctiveness'
 - line: Let’s say I already have some skills. I’m not the top developer but I know
     how to code. Let’s say I know Python or JavaScript, or I’m good at data science.
     How do I find my personal brand as an average data scientist or as an average
     software engineer?
-- header: 'Personal Brand for Non‑star Developers: find distinctiveness'
+- header: 'Personal Brand for Non-star Developers: find distinctiveness'
 - line: Let’s say I already have some skills. I’m not the top developer but I know
     how to code. Let’s say I know Python or JavaScript, or I’m good at data science.
     How do I find my personal brand as an average data scientist or as an average
@@ -1168,11 +1168,11 @@ transcript:
     it is just more about, do they like you or do they trust you that are it and everything
     else can be taught.
   who: Swyx
-- header: 'Work‑safe Content Ideas: war stories, industry problems, and summaries'
+- header: 'Work-safe Content Ideas: war stories, industry problems, and summaries'
 - line: I imagine it takes a lot of time to build a spotify clone. Let’s say I work
     already. I am already experienced. I want to find a new job in the same domain.
     In this case what do I share? What do I write about? Stuff that I do at work?
-- header: 'Work‑safe Content Ideas: war stories, industry problems, and summaries'
+- header: 'Work-safe Content Ideas: war stories, industry problems, and summaries'
 - line: I imagine it takes a lot of time to build a spotify clone. Let’s say I work
     already. I am already experienced. I want to find a new job in the same domain.
     In this case what do I share? What do I write about? Stuff that I do at work?
@@ -1242,12 +1242,12 @@ transcript:
   sec: 2801
   time: '46:41'
   who: Alexey
-- header: 'Open Knowledge Projects: collaborative docs and cheat‑sheets as visibility'
+- header: 'Open Knowledge Projects: collaborative docs and cheat-sheets as visibility'
 - line: Yes. It’s nice, especially if you have your own highlights from a book or
     a blog post. Then you can go on Google and type your domain name and then that
     search word. You can use Google as your own personal search engine for your notes.
     It’s really helpful when you are trying to look up something to reference people.
-- header: 'Open Knowledge Projects: collaborative docs and cheat‑sheets as visibility'
+- header: 'Open Knowledge Projects: collaborative docs and cheat-sheets as visibility'
 - line: Yes. It’s nice, especially if you have your own highlights from a book or
     a blog post. Then you can go on Google and type your domain name and then that
     search word. You can use Google as your own personal search engine for your notes.
@@ -1393,12 +1393,12 @@ transcript:
   sec: 3240
   time: '54:00'
   who: Alexey
-- header: 'Signature Initiative: company‑wide projects that build influence'
+- header: 'Signature Initiative: company-wide projects that build influence'
 - line: There is more than that. You can also do a signature initiative. This is a
     term that I picked up at AWS. It’s a big project that you hit on your own. That’s
     what you are known for. It gives you a chance to win outside of your team, to
     show individual accomplishment and leadership.
-- header: 'Signature Initiative: company‑wide projects that build influence'
+- header: 'Signature Initiative: company-wide projects that build influence'
 - line: There is more than that. You can also do a signature initiative. This is a
     term that I picked up at AWS. It’s a big project that you hit on your own. That’s
     what you are known for. It gives you a chance to win outside of your team, to
@@ -1640,12 +1640,12 @@ transcript:
   sec: 3781
   time: '1:03:01'
   who: Alexey
-- header: 'Final Takeaway: non‑technical skills dominate engineering ladders'
+- header: 'Final Takeaway: non-technical skills dominate engineering ladders'
 - line: I don’t get to talk about the marketing chapter enough. There is so much to
     career development. I always want to invite people to have a discussion about
     this. We don’t talk about it enough. We always talk about code. We should talk
     about the 75% of the engineering ladder criteria that is not technical.
-- header: 'Final Takeaway: non‑technical skills dominate engineering ladders'
+- header: 'Final Takeaway: non-technical skills dominate engineering ladders'
 - line: I don’t get to talk about the marketing chapter enough. There is so much to
     career development. I always want to invite people to have a discussion about
     this. We don’t talk about it enough. We always talk about code. We should talk

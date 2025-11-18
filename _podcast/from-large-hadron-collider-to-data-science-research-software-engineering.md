@@ -21,10 +21,10 @@ intro: How do you move from collider physics to industry data science while keep
   rigorous research software engineering practices, succeeding in interviews, and
   giving or getting effective mentorship? In this episode Anastasia Karavdina — a
   particle physicist turned data scientist who worked on Large Hadron Collider experiments
-  and later built AI solutions at Blue Yonder and Kaufland e‑commerce — walks through
+  and later built AI solutions at Blue Yonder and Kaufland e-commerce — walks through
   that journey. <br><br> We start with collider basics (particle acceleration, detector
   imaging, event volumes, and roles in large collaborations) to show the data scale
-  and statistical thinking that map to industry. Anastasia explains dual hardware‑and‑analysis
+  and statistical thinking that map to industry. Anastasia explains dual hardware-and-analysis
   roles, how multivariate analysis translates to machine learning, and concrete research
   software engineering practices like version control and CI/CD. She also covers interview
   prep (technical fit, behavioral stories, cultural fit in Germany) and evolving hiring
