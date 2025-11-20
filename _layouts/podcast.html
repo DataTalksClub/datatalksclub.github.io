@@ -409,7 +409,7 @@
               {% if line.header %}
               <h3 id="{{ line.header | slugify }}" class="transcript-header">{{ line.header }}</h3>
               {% else %}
-              <p class="transcript-line"><b>{{ line.who }}</b>: {{ line.line }}{% if line.sec %} (<a href="{{ page.links.youtube }}&t={{ line.sec }}s" target="youtube">{{ line.time }}</a>){% endif %}</p>
+              <p class="transcript-line"><b>{{ line.who }}</b>: {{ line.line }}{% if line.sec %} (<a href="#" class="transcript-timestamp-link" data-time="{{ line.sec }}">{{ line.time }}</a>){% endif %}</p>
               {% endif %}
             {% endfor %}
           </div>
@@ -573,7 +573,7 @@
       });
 
       // Timestamp click functionality
-      const timestampLinks = document.querySelectorAll('.timestamp-link');
+      const timestampLinks = document.querySelectorAll('.timestamp-link, .transcript-timestamp-link');
       timestampLinks.forEach(link => {
         link.addEventListener('click', function(e) {
           e.preventDefault();
