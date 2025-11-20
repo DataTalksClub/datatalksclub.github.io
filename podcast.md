@@ -35,7 +35,7 @@ layout: page
   </div>
 </section>
 
-{% assign seasons = site.podcast | reverse | group_by: 'season'  %}
+{% assign all_seasons = site.podcast | map: 'season' | uniq | sort | reverse %}
 
 
 <section class="podcast-info">
@@ -46,11 +46,12 @@ layout: page
 <section class="podcast-episodes" aria-labelledby="episodes-heading">
   <h2 id="episodes-heading" class="sr-only">All Podcast Episodes</h2>
   
-  {% for season in seasons %}
-    <section class="season" aria-labelledby="season-{{ season.name }}-heading">
-      <h3 id="season-{{ season.name }}-heading">Season #{{ season.name }}</h3>
+  {% for season_num in all_seasons %}
+    {% assign season_episodes = site.podcast | where: 'season', season_num | sort: 'episode' | reverse %}
+    <section class="season" aria-labelledby="season-{{ season_num }}-heading">
+      <h3 id="season-{{ season_num }}-heading">Season #{{ season_num }}</h3>
       <ul class="emoji-list">
-        {% for episode in season.items %}
+        {% for episode in season_episodes %}
           <li class="episode-item" itemscope itemtype="https://schema.org/PodcastEpisode">
             <a href="{{ episode.id }}.html" itemprop="url" title="Listen to: {{ episode.title }}">
               <span itemprop="name">{{ episode.title }}</span>
