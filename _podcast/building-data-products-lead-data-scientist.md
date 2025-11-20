@@ -7,7 +7,7 @@ guests:
 - ioannismesionis
 image: images/podcast/s16e03-collaborative-data-science-in-business.jpg
 ids:
-  anchor: atatalksclub/episodes/Collaborative-Data-Science-in-Business---Ioannis-Mesionis-e2app0c
+  anchor: datatalksclub/episodes/Collaborative-Data-Science-in-Business---Ioannis-Mesionis-e2app0c
   youtube: 1pExOVuCF8Q
 links:
   anchor: https://podcasters.spotify.com/pod/show/datatalksclub/episodes/Collaborative-Data-Science-in-Business---Ioannis-Mesionis-e2app0c
