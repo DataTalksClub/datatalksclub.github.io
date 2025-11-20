@@ -1,6 +1,6 @@
 ---
-title: 'Practical Data Science & ML: Feature Engineering, Model Monitoring, Data Governance & Storytelling'
-short: Building Business Acumen for Data Professionals
+title: "Practical Data Science & ML: Feature Engineering, Model Monitoring, Data Governance & Storytelling"
+short: "Building Business Acumen for Data Professionals"
 season: 5
 episode: 9
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/4dFbkQI9pF4wUDueZFqxGY
   apple: https://podcasts.apple.com/us/podcast/building-business-acumen-for-data-professionals-thom-ives/id1541710331?i=1000540181044
 
-description: 'Master feature engineering, model monitoring & data governance: ML tactics to prevent drift, boost performance, and sharpen data storytelling.'
-intro: How do you move from models that look good on paper to reliable machine learning in production—while keeping data clean and stakeholders aligned? In this episode Thom Ives, founder of Integrated Machine Learning & AI and a veteran data scientist, walks through practical approaches to feature engineering, model monitoring, data governance, and data storytelling. Thom draws on a career spanning industry roles and mentoring to contrast concept-focused learning versus specialist detail work, and to explain why business acumen and role clarity matter for data teams. <br><br> You’ll hear concrete guidance on ETL reliability, closing data collection gaps, and shared responsibility for data governance and literacy. Thom breaks down the ML pipeline—from feature conditioning, scaling, selection, and engineered features to addressing collinearity with PCA and pursuing model parsimony. He also covers model selection trade-offs, spotting data drift and concept drift in production, and the maintenance needed for long-term generalizability. Finally, he emphasizes analytical storytelling and persuasion skills for influencing decisions, plus community resources and mentoring through Integrated ML & AI. Tune in for actionable tactics to improve data quality, monitoring, and stakeholder communication in real-world data science
+description: "Master feature engineering, model monitoring & data governance: ML tactics to prevent drift, boost performance, and sharpen data storytelling."
+intro: "How do you move from models that look good on paper to reliable machine learning in production—while keeping data clean and stakeholders aligned? In this episode Thom Ives, founder of Integrated Machine Learning & AI and a veteran data scientist, walks through practical approaches to feature engineering, model monitoring, data governance, and data storytelling. Thom draws on a career spanning industry roles and mentoring to contrast concept-focused learning versus specialist detail work, and to explain why business acumen and role clarity matter for data teams. <br><br> You’ll hear concrete guidance on ETL reliability, closing data collection gaps, and shared responsibility for data governance and literacy. Thom breaks down the ML pipeline—from feature conditioning, scaling, selection, and engineered features to addressing collinearity with PCA and pursuing model parsimony. He also covers model selection trade-offs, spotting data drift and concept drift in production, and the maintenance needed for long-term generalizability. Finally, he emphasizes analytical storytelling and persuasion skills for influencing decisions, plus community resources and mentoring through Integrated ML & AI. Tune in for actionable tactics to improve data quality, monitoring, and stakeholder communication in real-world data science"
 topics:
 - data science
 - machine learning

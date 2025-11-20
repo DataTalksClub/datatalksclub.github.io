@@ -1,6 +1,6 @@
 ---
-title: 'Tech Job Search Strategy: Portfolio Projects, Resume Tips and Networking'
-short: Accelerating The Job Hunt for The Perfect Job in Tech
+title: "Tech Job Search Strategy: Portfolio Projects, Resume Tips and Networking"
+short: "Accelerating The Job Hunt for The Perfect Job in Tech"
 season: 17
 episode: 6
 guests:
@@ -14,25 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/accelerating-the-job-hunt-for-the-perfect-job-in/id1541710331?i=1000643971899
   spotify: https://open.spotify.com/episode/7giHGC86pjtIYrLOvwP7g4?si=NB9w6S6QTfCBHB_n93LkBQ
   youtube: https://www.youtube.com/watch?v=PchwbIs0tOg
-description: 'Learn a four-pillar tech job search: build portfolio projects, sharpen
-  your resume and network strategically to land ML/data roles faster with outreach
-  tactics.'
-intro: 'How do you turn portfolio projects, a sharper resume, and targeted networking
-  into a successful tech job search? In this episode Sarah Mestiri — Data Scientist
-  and Certified Career & Interview Coach with 6+ years in tech across startups, international
-  firms and financial services (FIS) — walks through a practical job search strategy
-  for career changers and return-to-work professionals. Sarah outlines a four-pillar
-  framework (goals, networking, CV, strategy) and shows how to define your ideal role,
-  choose a specialization (ML engineering, data engineering, MLOps), and validate
-  skills through projects versus courses. You’ll hear step-by-step advice on building
-  a top-5 target company list, crafting personalized outreach and informational interview
-  questions, and creating a weekly networking action plan that leverages weak ties
-  and referrals. The episode also covers resume tactics — prioritizing projects, skills,
-  and storytelling — self-research methods, assessments, part-time strategies, and
-  age or career-change considerations. Listen for actionable takeaways: how to build
-  portfolio projects that prove impact, write concise outreach messages, and structure
-  a job search you can maintain — plus recommended resources and follow-up support
-  (links and Slack) to help you execute.'
+description: "Learn a four-pillar tech job search: build portfolio projects, sharpen your resume and network strategically to land ML/data roles faster with outreach tactics."
+topics:
+- MLOps
+- data engineering
+- machine learning
+- career transition
+- job search 
+intro: "How do you turn portfolio projects, a sharper resume, and targeted networking into a successful tech job search? In this episode Sarah Mestiri — Data Scientist and Certified Career & Interview Coach with 6+ years in tech across startups, international firms and financial services (FIS) — walks through a practical job search strategy for career changers and return-to-work professionals. Sarah outlines a four-pillar framework (goals, networking, CV, strategy) and shows how to define your ideal role, choose a specialization (ML engineering, data engineering, MLOps), and validate skills through projects versus courses. You’ll hear step-by-step advice on building a top-5 target company list, crafting personalized outreach and informational interview questions, and creating a weekly networking action plan that leverages weak ties and referrals. The episode also covers resume tactics — prioritizing projects, skills, and storytelling — self-research methods, assessments, part-time strategies, and age or career-change considerations. Listen for actionable takeaways: how to build portfolio projects that prove impact, write concise outreach messages, and structure a job search you can maintain — plus recommended resources and follow-up support (links and Slack) to help you execute."
 dateadded: 2024-02-03
 duration: PT01H26S
 quotableClips:

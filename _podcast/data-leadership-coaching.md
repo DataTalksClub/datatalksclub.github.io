@@ -1,6 +1,6 @@
 ---
-title: 'Data Leadership Coaching: Transition to Manager, Stakeholder Skills and Team Impact'
-short: Inclusive Data Leadership Coaching
+title: "Data Leadership Coaching: Transition to Manager, Stakeholder Skills and Team Impact"
+short: "Inclusive Data Leadership Coaching"
 season: 18
 episode: 1
 guests:
@@ -12,25 +12,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/inclusive-data-leadership-coaching-tereza-iofciu/id1541710331?i=1000650865043
   spotify: https://open.spotify.com/episode/3zVzlQ0NmAVCtaFQXbqvHE?si=sSZhU-KXRamv2x5YZCDxAg
   youtube: https://www.youtube.com/watch?v=Z4vOTgzLkJQ
-description: 'Master data leadership coaching: transition to manager, build stakeholder
-  skills, and boost team impact with feedback, visibility, and influence strategies.'
-intro: How do you move from a strong individual contributor into a data leader who
-  can influence stakeholders, grow team impact, and build inclusive practices? In
-  this episode Tereza Iofciu—data science manager, data scientist, data engineer,
-  product manager, coach and community organizer—walks through her transition from
-  a PhD in computer science to leading teams and running data leadership coaching.
-  <br><br> We cover the practical challenges of the manager transition, experiments
-  that shaped her coaching approach, and ways to scale manager bandwidth using the
-  “pizza” span-of-control metaphor. Tereza breaks down feedback skills, psychological
-  safety, and routines for team feedback training, plus leadership learning through
-  workshops and frameworks. You’ll hear actionable guidance on increasing impact and
-  promotions, making foundational data work visible with product mindsets and KPIs,
-  and influencing without authority by framing projects to stakeholders’ priorities.
-  The conversation also explores cross-functional and inclusive leadership, self-promotion
-  versus bragging, and concrete coaching formats like one-shot sessions, CV reviews,
-  and Calendly-driven delivery. <br><br> Listen if you want practical data leadership
-  coaching on managing the IC-to-manager shift, stakeholder skills, and boosting your
-  team’s measurable impact.
+description: "Master data leadership coaching: transition to manager, build stakeholder skills, and boost team impact with feedback, visibility, and influence strategies."
+topics:
+- leadership
+- career transition
+- communication
+- team building
+- data strategy
+intro: "How do you move from a strong individual contributor into a data leader who can influence stakeholders, grow team impact, and build inclusive practices? In this episode Tereza Iofciu—data science manager, data scientist, data engineer, product manager, coach and community organizer—walks through her transition from a PhD in computer science to leading teams and running data leadership coaching. <br><br> We cover the practical challenges of the manager transition, experiments that shaped her coaching approach, and ways to scale manager bandwidth using the “pizza” span-of-control metaphor. Tereza breaks down feedback skills, psychological safety, and routines for team feedback training, plus leadership learning through workshops and frameworks. You’ll hear actionable guidance on increasing impact and promotions, making foundational data work visible with product mindsets and KPIs, and influencing without authority by framing projects to stakeholders’ priorities. The conversation also explores cross-functional and inclusive leadership, self-promotion versus bragging, and concrete coaching formats like one-shot sessions, CV reviews, and Calendly-driven delivery. <br><br> Listen if you want practical data leadership coaching on managing the IC-to-manager shift, stakeholder skills, and boosting your team’s measurable impact."
 dateadded: 2024-03-31
 duration: PT00H56M35S
 quotableClips:

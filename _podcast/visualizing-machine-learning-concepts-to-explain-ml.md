@@ -1,6 +1,6 @@
 ---
-title: 'Using Visualizations to Explain Machine Learning: Build Intuition with kDimensions, Figma & Templates'
-short: Using Visualizations to Explain Machine Learning
+title: "Using Visualizations to Explain Machine Learning: Build Intuition with kDimensions, Figma & Templates"
+short: "Using Visualizations to Explain Machine Learning"
 season: 8
 episode: 1
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/032NhEphm5QDdDFDUIypOL
   youtube: https://www.youtube.com/watch?v=OuCuk-7RHjM
 
-description: Discover kDimensions and Figma templates to visualize machine learning, build intuition before the math, map ML problems, and create shareable visuals
-intro: 'How do you teach machine learning so people build intuition before diving into math? In this episode, Meor Amer—educator, author, and Developer Relations at Cohere—walks through a visual-first approach to machine learning that makes concepts accessible and actionable. Drawing on his journey from bioengineering and telecom analytics to founding kDimensions and writing A Visual Introduction to Deep Learning, Meor explains why visual machine learning and dimensionality reduction matter and how templates can scale understanding. <br><br> We cover practical workflows: generating ideas (visualize the verb, use metaphors like the catapult and airplane), design constraints that spark creativity, and a sketchbook → Figma pipeline for engineers that emphasizes message over aesthetics. Meor shares posting cadence for LinkedIn visuals, how to map ML problems (classification, regression, clustering, anomaly, RL) to templates, and hands-on learning techniques—consume with intent, break and modify code. He also discusses monetizing visual design services and turning articles into key visuals using 4–5 keywords. <br><br> Listen to learn concrete techniques for ML visualization, Figma for engineers, and creating reusable templates that build intuition and make machine learning teachable.'
+description: "Discover kDimensions and Figma templates to visualize machine learning, build intuition before the math, map ML problems, and create shareable visuals"
+intro: "How do you teach machine learning so people build intuition before diving into math? In this episode, Meor Amer—educator, author, and Developer Relations at Cohere—walks through a visual-first approach to machine learning that makes concepts accessible and actionable. Drawing on his journey from bioengineering and telecom analytics to founding kDimensions and writing A Visual Introduction to Deep Learning, Meor explains why visual machine learning and dimensionality reduction matter and how templates can scale understanding. <br><br> We cover practical workflows: generating ideas (visualize the verb, use metaphors like the catapult and airplane), design constraints that spark creativity, and a sketchbook → Figma pipeline for engineers that emphasizes message over aesthetics. Meor shares posting cadence for LinkedIn visuals, how to map ML problems (classification, regression, clustering, anomaly, RL) to templates, and hands-on learning techniques—consume with intent, break and modify code. He also discusses monetizing visual design services and turning articles into key visuals using 4–5 keywords. <br><br> Listen to learn concrete techniques for ML visualization, Figma for engineers, and creating reusable templates that build intuition and make machine learning teachable."
 topics:
 - machine learning
 - education

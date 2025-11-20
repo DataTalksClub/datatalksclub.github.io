@@ -1,6 +1,6 @@
 ---
-title: 'CRISP-DM Methodology for Data Science Projects: Business Understanding, Data Preparation, Modeling, Evaluation & Deployment'
-short: Processes in a Data Science Project
+title: "CRISP-DM Methodology for Data Science Projects: Business Understanding, Data Preparation, Modeling, Evaluation & Deployment"
+short: "Processes in a Data Science Project"
 season: 1
 episode: 2
 guests:
@@ -15,7 +15,7 @@ links:
   spotify: TODO
   apple: TODO
 
-description: Learn the CRISP-DM methodology for managing data science projects. Step-by-step guide covering business understanding, data preparation, modeling, evaluation, and deployment
+description: "Learn the CRISP-DM methodology for managing data science projects. Step-by-step guide covering business understanding, data preparation, modeling, evaluation, and deployment"
 topics:
 - data science
 - machine learning

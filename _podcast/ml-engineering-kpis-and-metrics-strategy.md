@@ -1,6 +1,6 @@
 ---
-title: 'KPI Design & Metrics Strategy: Prioritize Impact, Avoid Vanity Metrics, and Prove ROI'
-short: 'Defining Success: Metrics and KPIs'
+title: "KPI Design & Metrics Strategy: Prioritize Impact, Avoid Vanity Metrics, and Prove ROI"
+short: "Defining Success: Metrics and KPIs"
 season: 5
 episode: 3
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/5kTD7LjoXos1fm2LPD7nJc
   apple: https://podcasts.apple.com/us/podcast/defining-success-metrics-and-kpis-adam-sroka/id1541710331?i=1000535667935
 
-description: Discover KPI design, metrics strategy & ROI proof - avoid vanity metrics, build dashboards, prioritize impact, and measure experiments to prove value
-intro: How do you design KPIs that prioritize real impact, avoid vanity metrics, and actually prove ROI? In this episode, Dr. Adam Sroka — Head of Machine Learning Engineering at Origami Energy, with a background from a Physics PhD to data science, reinforcement learning, and consultancy — walks through a practical metrics strategy for data and product teams. <br><br> We cover why metrics matter (Drucker, merit functions), how to make metrics comparable (units), and concrete examples like weighted revenue for sales pipelines and burn-down/maintainability metrics for professional services. Adam explains top-down KPI alignment, avoiding vanity metrics and KPI gaming, and using derived/composite KPIs to capture margin trade-offs. You’ll hear a workshop case for grocery retail, guidance on KPI prioritization and review cadence, and tips for operationalizing metrics through dashboards, executive communication, and a North Star metric. We also dig into threshold, health & hygiene metrics, translating model performance into £/time saved, and robust experiment and model validation (A/B, randomization, backtesting, uplift). <br><br> If you’re responsible for KPI design, metrics strategy, or proving ROI from data work, this episode gives actionable frameworks to measure impact and reduce measurement risk
+description: "Discover KPI design, metrics strategy & ROI proof - avoid vanity metrics, build dashboards, prioritize impact, and measure experiments to prove value"
+intro: "How do you design KPIs that prioritize real impact, avoid vanity metrics, and actually prove ROI? In this episode, Dr. Adam Sroka — Head of Machine Learning Engineering at Origami Energy, with a background from a Physics PhD to data science, reinforcement learning, and consultancy — walks through a practical metrics strategy for data and product teams. <br><br> We cover why metrics matter (Drucker, merit functions), how to make metrics comparable (units), and concrete examples like weighted revenue for sales pipelines and burn-down/maintainability metrics for professional services. Adam explains top-down KPI alignment, avoiding vanity metrics and KPI gaming, and using derived/composite KPIs to capture margin trade-offs. You’ll hear a workshop case for grocery retail, guidance on KPI prioritization and review cadence, and tips for operationalizing metrics through dashboards, executive communication, and a North Star metric. We also dig into threshold, health & hygiene metrics, translating model performance into £/time saved, and robust experiment and model validation (A/B, randomization, backtesting, uplift). <br><br> If you’re responsible for KPI design, metrics strategy, or proving ROI from data work, this episode gives actionable frameworks to measure impact and reduce measurement risk"
 topics:
 - machine learning
 - leadership

@@ -1,6 +1,6 @@
 ---
-title: 'Build a Data Engineering Career: Bootcamp Curriculum, SQL Mastery & Interview Prep'
-short: Teaching Data Engineers
+title: "Build a Data Engineering Career: Bootcamp Curriculum, SQL Mastery & Interview Prep"
+short: "Teaching Data Engineers"
 season: 8
 episode: 8
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/0Fo6Y62xaWPy7C24eZKfJw?si=lnjgqHUiRdGiZNxE76QMYQ
   youtube: https://www.youtube.com/watch?v=dFo10l8B6Go
 
-description: 'Master data engineering and SQL with a bootcamp curriculum: employer-validated projects, cloud basics, SQL window functions & interview prep for junior roles.'
-intro: How do you build a data engineering career from zero — what should you learn, how do you master SQL, and how do you pass the interviews? In this episode, Jeff Katz — former lawyer turned developer, founder of Jigsaw Labs, and current ML engineer at AppFolio — walks through practical paths into data engineering and how to design bootcamp curriculum that actually leads to hires. <br><br> We cover curriculum development and pedagogy (active learning, conceptual-first lessons, reinforcement cycles), core skills to prioritize (Python, SQL, cloud fundamentals), and why junior-focused programs drop Spark/Kafka/Kubernetes early. Jeff details analytics engineering tools (DBT, Snowflake, Mode, Fivetran), backend and ETL practices (Flask, codebase navigation, testing), data modeling (OLTP vs OLAP), and SQL mastery (window functions, medium LeetCode problems). You’ll also hear about admissions and screening, mid-program internships for real experience, interview stages (screening calls, SQL tests, on-site expectations), and tactics for transitioning from data analyst to data engineer. <br><br> Listen for actionable guidance on building a bootcamp-ready portfolio, targeted interview prep, and the concrete curriculum choices that employers value in data engineering hires
+description: "Master data engineering and SQL with a bootcamp curriculum: employer-validated projects, cloud basics, SQL window functions & interview prep for junior roles."
+intro: "How do you build a data engineering career from zero — what should you learn, how do you master SQL, and how do you pass the interviews? In this episode, Jeff Katz — former lawyer turned developer, founder of Jigsaw Labs, and current ML engineer at AppFolio — walks through practical paths into data engineering and how to design bootcamp curriculum that actually leads to hires. <br><br> We cover curriculum development and pedagogy (active learning, conceptual-first lessons, reinforcement cycles), core skills to prioritize (Python, SQL, cloud fundamentals), and why junior-focused programs drop Spark/Kafka/Kubernetes early. Jeff details analytics engineering tools (DBT, Snowflake, Mode, Fivetran), backend and ETL practices (Flask, codebase navigation, testing), data modeling (OLTP vs OLAP), and SQL mastery (window functions, medium LeetCode problems). You’ll also hear about admissions and screening, mid-program internships for real experience, interview stages (screening calls, SQL tests, on-site expectations), and tactics for transitioning from data analyst to data engineer. <br><br> Listen for actionable guidance on building a bootcamp-ready portfolio, targeted interview prep, and the concrete curriculum choices that employers value in data engineering hires"
 topics:
 - data engineering
 - education

@@ -1,6 +1,6 @@
 ---
-title: 'AI in Healthcare & Digital Therapeutics: Building Data Teams, Personalization, A/B Testing & Ethics'
-short: Machine Learning and Personalization in Healthcare
+title: "AI in Healthcare & Digital Therapeutics: Building Data Teams, Personalization, A/B Testing & Ethics"
+short: "Machine Learning and Personalization in Healthcare"
 season: 8
 episode: 4
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3s78PtlbUmecuMOXwO8aD5?si=991e1811a5204305
   youtube: https://www.youtube.com/watch?v=IDzhmmKeNG4
 
-description: 'Learn to build data teams and ethical AI in healthcare: actionable personalization, A/B testing for digital therapeutics, GDPR-safe experiments.'
-intro: How can AI power effective digital therapeutics while balancing personalization, rapid experimentation, and patient safety? In this episode, Stefan Gudmundsson — Director of Data, Analytics, and AI with a track record building ML and data teams at Sidekick Health, King, H&M, and CCP Games — walks through practical approaches for AI in healthcare and digital therapeutics. <br><br> We cover how machine learning is applied to diagnosis, drug discovery, and biologics (AlphaFold); Sidekick Health’s gamified digital therapeutics and quality-of-life goals; behavioral design that minimizes in-app time; and engagement strategies like charity incentives versus leaderboards. Stefan explains building the analytics foundation—data pipelines, dashboards, and experimentation capabilities—and why A/B testing and agenda-driven recommender systems are core to personalization. He also tackles data privacy and ethics (GDPR/HIPAA, de-identification), remote monitoring with wearables, clinical trials versus app experiments, managing medical risk, and hiring and scaling data, ML, and engineering teams. <br><br> Listen to get concrete frameworks for building data teams, running safe, measurable experiments, designing personalized interventions, and embedding ethical safeguards into AI-driven digital therapeutics
+description: "Learn to build data teams and ethical AI in healthcare: actionable personalization, A/B testing for digital therapeutics, GDPR-safe experiments."
+intro: "How can AI power effective digital therapeutics while balancing personalization, rapid experimentation, and patient safety? In this episode, Stefan Gudmundsson — Director of Data, Analytics, and AI with a track record building ML and data teams at Sidekick Health, King, H&M, and CCP Games — walks through practical approaches for AI in healthcare and digital therapeutics. <br><br> We cover how machine learning is applied to diagnosis, drug discovery, and biologics (AlphaFold); Sidekick Health’s gamified digital therapeutics and quality-of-life goals; behavioral design that minimizes in-app time; and engagement strategies like charity incentives versus leaderboards. Stefan explains building the analytics foundation—data pipelines, dashboards, and experimentation capabilities—and why A/B testing and agenda-driven recommender systems are core to personalization. He also tackles data privacy and ethics (GDPR/HIPAA, de-identification), remote monitoring with wearables, clinical trials versus app experiments, managing medical risk, and hiring and scaling data, ML, and engineering teams. <br><br> Listen to get concrete frameworks for building data teams, running safe, measurable experiments, designing personalized interventions, and embedding ethical safeguards into AI-driven digital therapeutics"
 topics:
 - machine learning
 - healthcare

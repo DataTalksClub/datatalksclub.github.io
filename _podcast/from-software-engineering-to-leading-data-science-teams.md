@@ -1,6 +1,6 @@
 ---
-title: 'Transitioning from Software Engineer to Data Science Manager: Search, ML & Leadership'
-short: From Software Engineer to Data Science Manager
+title: "Transitioning from Software Engineer to Data Science Manager: Search, ML & Leadership"
+short: "From Software Engineer to Data Science Manager"
 season: 12
 episode: 1
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3vOUwe4WtNQFXHRgTcyMtg?si=87o3XW_EQZ-n68nhAeV8Xw
   youtube: https://www.youtube.com/watch?v=xyTfqIWeKf8
 
-description: 'Learn to transition into a Data Science Manager: master search engineering, machine learning and leadership to hire, scale teams and measure business impact.'
-intro: How do you move from hands-on software engineering into leading data science teams while staying effective on search and machine learning projects? In this episode Sadat Anwar — a people-centric Data Science Manager and former software engineer fluent in Java, Scala and Python — maps his path from an electronics and informatics background to research in computer vision at Fraunhofer and production search work at OLX. <br><br> We cover practical search engineering topics (Solr autoscaling, decoupling search from a monolith, Kotlin services with Python ML satellites), early ML projects and experimentation strategies (master’s thesis on neural nets, 20% time wins, “act before you think”), and engineering safety nets like feature flags, backups and monitoring. Sadat also walks through the promotion/hiring process, documenting leadership evidence, people management challenges (conflict resolution, hiring, motivation loss when stepping away from code), and transitioning into data science management with NLP, trust & safety and fraud detection responsibilities. <br><br> Listen for concrete advice on measuring managerial impact, leveraging EM experience to lead data science teams, and tactical steps for engineers aiming to become data science managers in search and ML domains
+description: "Learn to transition into a Data Science Manager: master search engineering, machine learning and leadership to hire, scale teams and measure business impact."
+intro: "How do you move from hands-on software engineering into leading data science teams while staying effective on search and machine learning projects? In this episode Sadat Anwar — a people-centric Data Science Manager and former software engineer fluent in Java, Scala and Python — maps his path from an electronics and informatics background to research in computer vision at Fraunhofer and production search work at OLX. <br><br> We cover practical search engineering topics (Solr autoscaling, decoupling search from a monolith, Kotlin services with Python ML satellites), early ML projects and experimentation strategies (master’s thesis on neural nets, 20% time wins, “act before you think”), and engineering safety nets like feature flags, backups and monitoring. Sadat also walks through the promotion/hiring process, documenting leadership evidence, people management challenges (conflict resolution, hiring, motivation loss when stepping away from code), and transitioning into data science management with NLP, trust & safety and fraud detection responsibilities. <br><br> Listen for concrete advice on measuring managerial impact, leveraging EM experience to lead data science teams, and tactical steps for engineers aiming to become data science managers in search and ML domains"
 topics:
 - career transition
 - software engineering
@@ -138,7 +138,7 @@ quotableClips:
   startOffset: 3516
   url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=3516
   endOffset: 3620
-- name: 'Community Event: Search Meetup — "Bias in AI: How to Measure and Fix It"'
+- name: 'Community Event: Search Meetup — "Bias in AI: How to Measure and Fix It"
   startOffset: 3620
   url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=3620
   endOffset: 3672
@@ -1500,7 +1500,7 @@ transcript:
   sec: 3584
   time: '59:44'
   who: Sadat
-- header: 'Community Event: Search Meetup — "Bias in AI: How to Measure and Fix It"'
+- header: 'Community Event: Search Meetup — "Bias in AI: How to Measure and Fix It"
 - line: When is the next Search Meetup meeting?
   sec: 3620
   time: '1:00:20'

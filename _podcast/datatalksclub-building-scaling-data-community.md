@@ -1,6 +1,6 @@
 ---
-title: 'DataTalks.Club Behind the Scenes: Alexey Grigorev on Scaling and Growing the Community'
-short: DataTalks.Club Behind the Scenes
+title: "DataTalks.Club Behind the Scenes: Alexey Grigorev on Scaling and Growing the Community"
+short: "DataTalks.Club Behind the Scenes"
 season: 7
 episode: 1
 guests:
@@ -16,8 +16,8 @@ links:
   spotify: https://open.spotify.com/episode/3ltAxUsCE8EAf0pRb9zxDK
   apple: https://podcasts.apple.com/us/podcast/datatalks-club-behind-the-scenes-eugene-yan-alexey/id1541710331?i=1000548608967
 
-description: Discover how to scale a 9k+ data science community, automate events, and advance your machine learning career with deployment, mentorship and growth tactics.
-intro: 'How do you scale a grassroots machine learning community from a few forum posts to thousands of active members? In this episode, Alexey Grigorev — founder of DataTalks.Club — sits down with Eugene Yan to walk through the real-world steps behind scaling and growing a machine learning community. Alexey shares his origins (forums, landing page, early events), the growth inflection that led to ~9k members, and practical event formats that work: Open Source Spotlight, Minis, Book of the Week, live coding and office hours. <br><br> We cover tactical topics listeners can apply: content production and automation (planning, Zapier, Eventbrite), monetization and sponsorship models, and how project-based offerings like ML Bookcamp and Machine Learning Zoomcamp emphasize end-to-end deployment (Flask, AWS Lambda, Kubernetes, Kubeflow). Alexey also discusses community management lessons — mentoring, product mindset, avoiding tool churn — plus career and productivity advice such as learning-by-projects, public deadlines, and maintaining motivation. <br><br> If you’re building or scaling a machine learning community, this episode offers concrete strategies for community growth, event design, content automation, and running project-focused training.'
+description: "Discover how to scale a 9k+ data science community, automate events, and advance your machine learning career with deployment, mentorship and growth tactics."
+intro: "How do you scale a grassroots machine learning community from a few forum posts to thousands of active members? In this episode, Alexey Grigorev — founder of DataTalks.Club — sits down with Eugene Yan to walk through the real-world steps behind scaling and growing a machine learning community. Alexey shares his origins (forums, landing page, early events), the growth inflection that led to ~9k members, and practical event formats that work: Open Source Spotlight, Minis, Book of the Week, live coding and office hours. <br><br> We cover tactical topics listeners can apply: content production and automation (planning, Zapier, Eventbrite), monetization and sponsorship models, and how project-based offerings like ML Bookcamp and Machine Learning Zoomcamp emphasize end-to-end deployment (Flask, AWS Lambda, Kubernetes, Kubeflow). Alexey also discusses community management lessons — mentoring, product mindset, avoiding tool churn — plus career and productivity advice such as learning-by-projects, public deadlines, and maintaining motivation. <br><br> If you’re building or scaling a machine learning community, this episode offers concrete strategies for community growth, event design, content automation, and running project-focused training."
 topics:
 - community building
 - machine learning

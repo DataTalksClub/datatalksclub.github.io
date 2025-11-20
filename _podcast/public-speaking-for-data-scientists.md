@@ -1,6 +1,6 @@
 ---
-title: 'Public Speaking for Data Scientists: Master AI Evangelism, Storytelling & Keynotes'
-short: The Essentials of Public Speaking for Career in Data Science
+title: "Public Speaking for Data Scientists: Master AI Evangelism, Storytelling & Keynotes"
+short: "The Essentials of Public Speaking for Career in Data Science"
 season: 2
 episode: 10
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/4QWfObiuYmtOCtpSL5LZf9
   apple: https://podcasts.apple.com/us/podcast/essentials-public-speaking-for-career-in-data-science/id1541710331?i=1000513669829
 
-description: 'Master public speaking, AI evangelism & storytelling for data scientists: learn repeatable keynote structure, audience hooks, Q&A tactics, and career growth.'
-intro: How do data scientists move from technical deep dives to memorable keynotes and effective AI evangelism? In this episode, Ben Taylor, Chief AI Evangelist at DataRobot, breaks down the public speaking playbook for data practitioners who want to persuade, teach, and scale their talks. <br><br> Ben draws on a career from engineering and quant roles through startups and acquisitions to explain the mindset for improvement, practical rehearsal habits, and the positioning and messaging that define AI evangelism. Key topics include crafting repeatable keynotes, avoiding early mistakes like technical overload, using story hooks and warm-ups to capture attention, and structuring talks around 1–3 clear takeaways and calls to action. He also covers introductions that work (hero stories vs. resumes), translating metrics into narrative, everyday storytelling exercises (Pixar lessons), and executive presentations that lead with recommendations while keeping an appendix ready. <br><br> Listeners will find actionable guidance on earning speaking stages, writing conference proposals that push boundaries, Q&A strategies (including how and when to admit unknowns), starter topics for newcomers, and resources like Toastmasters and story practice to build a speaker resume and break into AI evangelism
+description: "Master public speaking, AI evangelism & storytelling for data scientists: learn repeatable keynote structure, audience hooks, Q&A tactics, and career growth."
+intro: "How do data scientists move from technical deep dives to memorable keynotes and effective AI evangelism? In this episode, Ben Taylor, Chief AI Evangelist at DataRobot, breaks down the public speaking playbook for data practitioners who want to persuade, teach, and scale their talks. <br><br> Ben draws on a career from engineering and quant roles through startups and acquisitions to explain the mindset for improvement, practical rehearsal habits, and the positioning and messaging that define AI evangelism. Key topics include crafting repeatable keynotes, avoiding early mistakes like technical overload, using story hooks and warm-ups to capture attention, and structuring talks around 1–3 clear takeaways and calls to action. He also covers introductions that work (hero stories vs. resumes), translating metrics into narrative, everyday storytelling exercises (Pixar lessons), and executive presentations that lead with recommendations while keeping an appendix ready. <br><br> Listeners will find actionable guidance on earning speaking stages, writing conference proposals that push boundaries, Q&A strategies (including how and when to admit unknowns), starter topics for newcomers, and resources like Toastmasters and story practice to build a speaker resume and break into AI evangelism"
 topics:
 - developer relations
 - public speaking

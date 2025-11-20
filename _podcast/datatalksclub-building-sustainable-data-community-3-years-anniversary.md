@@ -1,7 +1,6 @@
 ---
-title: 'Building a Sustainable Data Community: 3 Years of DataTalks.Club Growth and
-  Evolution'
-short: DataTalks.Club Anniversary Interview
+title: "Building a Sustainable Data Community: 3 Years of DataTalks.Club Growth and Evolution"
+short: "DataTalks.Club Anniversary Interview"
 season: 16
 episode: 1
 guests:
@@ -16,21 +15,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/datatalks-club-anniversary-interview-alexey-grigorev/id1541710331?i=1000631114088
   spotify: https://open.spotify.com/episode/0j1eKj9NbK3oAXHXHyaNae?si=M7rw9WixTvWw-BfKPXPwVg
   youtube: https://www.youtube.com/watch?v=nCqwZT9zA0M
-intro: 'How do you build a sustainable data community that endures beyond meetup hype
-  and founder energy? In this episode Alexey Grigorev, founder of DataTalks.Club,
-  and Johanna Bayer, a researcher about to complete her PhD in machine learning for
-  clinical neuroimaging at the University of Melbourne, discuss three years of community
-  growth and evolution. <br><br> Alexey brings the perspective of launching and running
-  a global data community, while Johanna contributes her background in psychology,
-  computational neuroscience, and research software engineering, plus advocacy for
-  open source and open science. Together they explore core topics around sustainable
-  data community building: membership growth, volunteer and contributor roles, the
-  intersection of research software engineering with community practice, and how open
-  source and open science principles support longevity. <br><br> Listeners will come
-  away with concrete considerations for creating and maintaining a data-focused community—practical
-  lessons on community governance, contributor engagement, and aligning technical
-  and social infrastructure—making this episode valuable for anyone building a dataTalks-style
-  group, open source project, or research software community.'
+intro: "How do you build a sustainable data community that endures beyond meetup hype and founder energy? In this episode Alexey Grigorev, founder of DataTalks.Club, and Johanna Bayer, a researcher about to complete her PhD in machine learning for clinical neuroimaging at the University of Melbourne, discuss three years of community growth and evolution. <br><br> Alexey brings the perspective of launching and running a global data community, while Johanna contributes her background in psychology, computational neuroscience, and research software engineering, plus advocacy for open source and open science. Together they explore core topics around sustainable data community building: membership growth, volunteer and contributor roles, the intersection of research software engineering with community practice, and how open source and open science principles support longevity. <br><br> Listeners will come away with concrete considerations for creating and maintaining a data-focused community—practical lessons on community governance, contributor engagement, and aligning technical and social infrastructure—making this episode valuable for anyone building a dataTalks-style group, open source project, or research software community."
 topics:
 - community building
 - machine learning
@@ -1221,6 +1206,5 @@ transcript:
   who: Johanna
 context: 'Building a Sustainable Data Community: 3 Years of DataTalks.Club Growth
   and Evolution'
-description: Discover DataTalks.Club's 3-year playbook to build a sustainable data
-  community—scaling, engagement & retention tactics that grow your network.
+description: "Discover DataTalks.Club's 3-year playbook to build a sustainable data community—scaling, engagement & retention tactics that grow your network."
 ---

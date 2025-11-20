@@ -1,8 +1,6 @@
 ---
-title: 'Bioinformatics Workflows in Practice: Sequencing, Metagenomics, and Open-Source
-  Tools'
-short: Applying Data Science Concepts, Tools, and Workflows to Accelerate Biological
-  Research
+title: "Bioinformatics Workflows in Practice: Sequencing, Metagenomics, and Open-Source Tools"
+short: "Applying Data Science Concepts, Tools, and Workflows to Accelerate Biological Research"
 season: 22
 episode: 3
 guests:
@@ -16,25 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/from-biotechnology-to-bioinformatics-software-sebastian/id1541710331?i=1000733347636
   spotify: https://open.spotify.com/episode/3CohNIXZdooLYoIyIbr6EF
   youtube: https://www.youtube.com/watch?v=ZFrcrTtnB1Q
-description: Master bioinformatics workflows for sequencing & metagenomics with open-source
-  tools, streamline pipelines, boost reproducibility, and speed analyses.
-intro: How do you build reproducible, scalable bioinformatics workflows for sequencing
-  and metagenomics using open-source tools? In this episode we explore practical answers
-  with Sebastian Ayala Ruano, a bioinformatics software developer and Master's student
-  in Systems Biology at Maastricht University. Sebastian has contributed to open-source
-  projects such as MicW2Graph, VueGen, and VueCore to simplify multi-omics data analysis
-  and has a background in cheminformatics, peptide discovery, and network-based analysis.
-  <br><br> We discuss real-world sequencing and metagenomics workflows, trade-offs
-  in pipeline design, and how open-source tools and educational software can accelerate
-  reproducible research. Sebastian also outlines how machine learning and network
-  science concepts inform analysis strategies for complex biological data. Key topics
-  include sequencing data processing, metagenomic analysis approaches, workflow automation,
-  and practical considerations for integrating multi-omics datasets. <br><br> Listeners
-  will gain concrete guidance for designing bioinformatics pipelines, selecting open-source
-  tools, and applying network- and ML-driven methods to improve interpretation. This
-  episode is useful for researchers and developers wanting actionable perspectives
-  on sequencing, metagenomics, and building reliable workflows backed by community
-  tools and resources.
+description: "Master bioinformatics workflows for sequencing & metagenomics with open-source tools, streamline pipelines, boost reproducibility, and speed analyses."
+topics:
+- bioinformatics
+- LLMs
+- MLOps
+- open-source
+- tools
+intro: "How do you build reproducible, scalable bioinformatics workflows for sequencing and metagenomics using open-source tools? In this episode we explore practical answers with Sebastian Ayala Ruano, a bioinformatics software developer and Master's student in Systems Biology at Maastricht University. Sebastian has contributed to open-source projects such as MicW2Graph, VueGen, and VueCore to simplify multi-omics data analysis and has a background in cheminformatics, peptide discovery, and network-based analysis. <br><br> We discuss real-world sequencing and metagenomics workflows, trade-offs in pipeline design, and how open-source tools and educational software can accelerate reproducible research. Sebastian also outlines how machine learning and network science concepts inform analysis strategies for complex biological data. Key topics include sequencing data processing, metagenomic analysis approaches, workflow automation, and practical considerations for integrating multi-omics datasets. <br><br> Listeners will gain concrete guidance for designing bioinformatics pipelines, selecting open-source tools, and applying network- and ML-driven methods to improve interpretation. This episode is useful for researchers and developers wanting actionable perspectives on sequencing, metagenomics, and building reliable workflows backed by community tools and resources."
 dateadded: 2025-10-27
 duration: PT00H55M13S
 quotableClips:

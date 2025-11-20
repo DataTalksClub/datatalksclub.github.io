@@ -1,6 +1,6 @@
 ---
-title: 'Contribute to Open Source ML: scikit-learn Pipelines, PRs, Docs & Rasa Conversational AI'
-short: Getting Started with Open Source
+title: "Contribute to Open Source ML: scikit-learn Pipelines, PRs, Docs & Rasa Conversational AI"
+short: "Getting Started with Open Source"
 season: 2
 episode: 3
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/1dsbDeVncfsEg3m3cYB927
   apple: https://podcasts.apple.com/us/podcast/getting-started-with-open-source-vincent-warmerdam/id1541710331?i=1000507024598
 
-description: 'Learn open source contribution tactics for scikit-learn pipelines and Rasa: make solid PRs, write docs & tests, boost your OSS skills and career visibility.'
-intro: 'How do you start contributing to open source ML projects like scikit-learn pipelines—or move from curious user to confident contributor on Rasa’s conversational AI stack? In this episode, Vincent Warmerdam, Research Advocate at Rasa and creator of The Algorithm Whiteboard and calmcode.io, walks through practical, hands-on advice for contributing to open source ML. <br><br> Vincent shares his career pivot from design student to data scientist and highlights projects (evol, clumper, memo, whatlies, scikit-lego) that illustrate small-tools-to-impact workflows. We deep-dive into scikit-learn–compatible pipeline components, design principles for low-maintenance APIs, and common mistakes such as publishing to PyPI too early. You’ll get a documentation checklist (README, guides, API reference, examples), guidance on filing reproducible issues, and step-by-step preparation for pull requests: testing, CI, packaging, and pre-commit hooks. <br><br> Listeners will leave with concrete strategies for finding the right project, balancing large vs. small repositories, community stewardship and contribution etiquette, and ways OSS work can boost career visibility through talks, blogs, and meetups. If you want actionable next steps for contributing to open source ML, scikit-learn pipelines, PRs, docs, or Rasa conversational AI, this episode maps the path.'
+description: "Learn open source contribution tactics for scikit-learn pipelines and Rasa: make solid PRs, write docs & tests, boost your OSS skills and career visibility."
+intro: "How do you start contributing to open source ML projects like scikit-learn pipelines—or move from curious user to confident contributor on Rasa’s conversational AI stack? In this episode, Vincent Warmerdam, Research Advocate at Rasa and creator of The Algorithm Whiteboard and calmcode.io, walks through practical, hands-on advice for contributing to open source ML. <br><br> Vincent shares his career pivot from design student to data scientist and highlights projects (evol, clumper, memo, whatlies, scikit-lego) that illustrate small-tools-to-impact workflows. We deep-dive into scikit-learn–compatible pipeline components, design principles for low-maintenance APIs, and common mistakes such as publishing to PyPI too early. You’ll get a documentation checklist (README, guides, API reference, examples), guidance on filing reproducible issues, and step-by-step preparation for pull requests: testing, CI, packaging, and pre-commit hooks. <br><br> Listeners will leave with concrete strategies for finding the right project, balancing large vs. small repositories, community stewardship and contribution etiquette, and ways OSS work can boost career visibility through talks, blogs, and meetups. If you want actionable next steps for contributing to open source ML, scikit-learn pipelines, PRs, docs, or Rasa conversational AI, this episode maps the path."
 topics:
 - open-source
 - data science

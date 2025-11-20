@@ -1,6 +1,6 @@
 ---
-title: 'Marketing to Analytics Engineering: DBT, SQL, Data Modeling & Career Playbook'
-short: From Digital Marketing to Analytics Engineering
+title: "Marketing to Analytics Engineering: DBT, SQL, Data Modeling & Career Playbook"
+short: "From Digital Marketing to Analytics Engineering"
 season: 11
 episode: 7
 guests:

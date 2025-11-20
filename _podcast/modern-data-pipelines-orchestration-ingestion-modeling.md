@@ -1,6 +1,6 @@
 ---
-title: 'Modern Data Pipeline Architecture: Ingestion, Orchestration, Transformation & MLOps Systems'
-short: Modern Data Pipelines
+title: "Modern Data Pipeline Architecture: Ingestion, Orchestration, Transformation & MLOps Systems"
+short: "Modern Data Pipelines"
 season: 14
 episode: 7
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/0inhE28kLI4T1AsSjgwnL8?si=WeFES7dXRxqSK_SKonBejw
   youtube: https://www.youtube.com/watch?v=kSTfhQ_SZgc
 
-description: Master modern data pipelines with dbt transforms and Airflow orchestration—streamline ingestion, speed feature engineering and analytics delivery
-intro: How do you build a modern data pipeline that reliably moves raw events through ingestion, dbt transformations, Airflow orchestration and into production ML and analytics? In this episode, Santona Tuli — a former CERN researcher turned ML and data engineering lead at Upsolver — walks through practical patterns and trade-offs for end-to-end pipelines. Drawing on experience from particle-physics event analysis to NLP and workflow authoring with Airflow, Santona explains where ingestion engines and declarative SQL frameworks fit, and when dbt belongs in the stack. <br><br> Topics include Upsolver vs dbt (pipeline authoring, execution engine and ingestion focus), differences between ML pipelines and analytics pipelines, MLOps vs DataOps, and dbt’s role in analytics engineering. We cover tooling (orchestrators, Spark, Kafka/Kinesis, feature stores, vector DBs), modern data stack choices like Snowflake and Databricks, lakehouse and staging patterns, and ingestion pre-processing needs such as deduplication, ordering guarantees and PII masking. You’ll also hear about transformation and data modeling (entities, foreign keys, business mappings), marts and dashboards, feature engineering and model serving, persona-driven pipeline design, and career-learning recommendations. Listen to gain concrete design guidance, tooling trade-offs, and resources to build scalable data and MLOps pipelines
+description: "Master modern data pipelines with dbt transforms and Airflow orchestration—streamline ingestion, speed feature engineering and analytics delivery"
+intro: "How do you build a modern data pipeline that reliably moves raw events through ingestion, dbt transformations, Airflow orchestration and into production ML and analytics? In this episode, Santona Tuli — a former CERN researcher turned ML and data engineering lead at Upsolver — walks through practical patterns and trade-offs for end-to-end pipelines. Drawing on experience from particle-physics event analysis to NLP and workflow authoring with Airflow, Santona explains where ingestion engines and declarative SQL frameworks fit, and when dbt belongs in the stack. <br><br> Topics include Upsolver vs dbt (pipeline authoring, execution engine and ingestion focus), differences between ML pipelines and analytics pipelines, MLOps vs DataOps, and dbt’s role in analytics engineering. We cover tooling (orchestrators, Spark, Kafka/Kinesis, feature stores, vector DBs), modern data stack choices like Snowflake and Databricks, lakehouse and staging patterns, and ingestion pre-processing needs such as deduplication, ordering guarantees and PII masking. You’ll also hear about transformation and data modeling (entities, foreign keys, business mappings), marts and dashboards, feature engineering and model serving, persona-driven pipeline design, and career-learning recommendations. Listen to gain concrete design guidance, tooling trade-offs, and resources to build scalable data and MLOps pipelines"
 topics:
 - data engineering
 - MLOps

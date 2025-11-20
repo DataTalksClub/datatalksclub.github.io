@@ -1,6 +1,6 @@
 ---
-title: 'From Project Manager to Data Scientist: Skills, Tools, ML Courses & Job Search'
-short: Transitioning from Project Management to Data Science
+title: "From Project Manager to Data Scientist: Skills, Tools, ML Courses & Job Search"
+short: "Transitioning from Project Management to Data Science"
 season: 3
 episode: 1
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3vF1B2mKwImsVC7h3NIDJW
   apple: https://podcasts.apple.com/us/podcast/transitioning-from-project-management-to-data-science/id1541710331?i=1000516467544
 
-description: 'Discover how project managers switch to data science: master machine learning, Python, CRISP-DM, build a portfolio, and land data roles faster.'
-intro: 'How do you move from project management into a data science career — and what skills, tools, and courses actually matter? In this episode, Ksenia Legostay, Manager/Data Scientist at momox GmbH, walks through her transition after four years as a project manager into three years researching fraud and anomaly detection and earning a degree in data analysis. We cover career foundations, the difference between analytics and data science, and a concrete learning strategy: assess strengths, target gaps, and build core skills in programming, statistics, and domain expertise. <br><br> Ksenia outlines recommended coursework (machine learning, time series, graph analysis), online resources including mlcourse.ai, and a practical tools progression from spreadsheets and BI (Tableau/Trifacta) to Python and Pandas. She explains applying CRISP-DM to structure projects, starting as a data analyst to build a portfolio, using Kaggle and community resources (OpenDataScience, DataTalks), and preparing for production with Git, testing, Docker, and Clean Code. Listen for actionable advice on domain specialization (fraud detection, node2vec), realistic job search expectations, part-time learning plans, and essential math topics — a clear roadmap for transitioning to data science.'
+description: "Discover how project managers switch to data science: master machine learning, Python, CRISP-DM, build a portfolio, and land data roles faster."
+intro: "How do you move from project management into a data science career — and what skills, tools, and courses actually matter? In this episode, Ksenia Legostay, Manager/Data Scientist at momox GmbH, walks through her transition after four years as a project manager into three years researching fraud and anomaly detection and earning a degree in data analysis. We cover career foundations, the difference between analytics and data science, and a concrete learning strategy: assess strengths, target gaps, and build core skills in programming, statistics, and domain expertise. <br><br> Ksenia outlines recommended coursework (machine learning, time series, graph analysis), online resources including mlcourse.ai, and a practical tools progression from spreadsheets and BI (Tableau/Trifacta) to Python and Pandas. She explains applying CRISP-DM to structure projects, starting as a data analyst to build a portfolio, using Kaggle and community resources (OpenDataScience, DataTalks), and preparing for production with Git, testing, Docker, and Clean Code. Listen for actionable advice on domain specialization (fraud detection, node2vec), realistic job search expectations, part-time learning plans, and essential math topics — a clear roadmap for transitioning to data science."
 topics:
 - career transition
 - project management

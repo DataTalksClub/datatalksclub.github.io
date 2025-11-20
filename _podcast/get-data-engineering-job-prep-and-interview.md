@@ -1,6 +1,6 @@
 ---
-title: 'Data Engineering Job Prep & Interview Guide: Python, SQL, Portfolio & Job Search Tips'
-short: Getting a Data Engineering Job (Summary and Q&A)
+title: "Data Engineering Job Prep & Interview Guide: Python, SQL, Portfolio & Job Search Tips"
+short: "Getting a Data Engineering Job (Summary and Q&A)"
 season: 9
 episode: 3
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/1SaZ0QXAIhcdH1gfaNoN4Z?si=OvvNFdTpSu2MCCDOWdYgJQ
   youtube: https://www.youtube.com/watch?v=asnt7xlyZXQ
 
-description: 'Master data engineering job prep: Python, SQL tips, portfolio strategy, interview formats and job search tactics to land offers faster. quick wins'
-intro: 'How do you actually get a data engineering job today — and which skills hiring teams care about most? In this episode, Jeff Katz, a Machine Learning Engineer at AppFolio and longtime instructor/founder of Jigsaw Labs and Flatiron School curriculum lead, distills a webinar on hiring demand into practical advice for job seekers. Drawing on applied AI and data engineering experience plus open-source contributions, Jeff walks through the core data engineering skills employers expect: deep Python and SQL, Docker, Airflow, and data warehouse fundamentals. <br><br> You’ll hear concrete guidance on portfolio strategy (personal projects and open source), code quality and OOP patterns, the application funnel (LinkedIn → resume → interviews), behavioral and technical interview formats (SQL LeetCode, Python problems, take-home projects), and essential database concepts (views, OLTP vs OLAP). The episode also covers learning resources, transitioning from BI, certification vs skills trade-offs, remote work realities, and how to leverage non-coding experience. Listen to learn a practical roadmap for interviews, portfolio building, and job search tactics to increase your chances of landing a data engineering role.'
+description: "Master data engineering job prep: Python, SQL tips, portfolio strategy, interview formats and job search tactics to land offers faster. quick wins"
+intro: "How do you actually get a data engineering job today — and which skills hiring teams care about most? In this episode, Jeff Katz, a Machine Learning Engineer at AppFolio and longtime instructor/founder of Jigsaw Labs and Flatiron School curriculum lead, distills a webinar on hiring demand into practical advice for job seekers. Drawing on applied AI and data engineering experience plus open-source contributions, Jeff walks through the core data engineering skills employers expect: deep Python and SQL, Docker, Airflow, and data warehouse fundamentals. <br><br> You’ll hear concrete guidance on portfolio strategy (personal projects and open source), code quality and OOP patterns, the application funnel (LinkedIn → resume → interviews), behavioral and technical interview formats (SQL LeetCode, Python problems, take-home projects), and essential database concepts (views, OLTP vs OLAP). The episode also covers learning resources, transitioning from BI, certification vs skills trade-offs, remote work realities, and how to leverage non-coding experience. Listen to learn a practical roadmap for interviews, portfolio building, and job search tactics to increase your chances of landing a data engineering role."
 topics:
 - data engineering
 - job search

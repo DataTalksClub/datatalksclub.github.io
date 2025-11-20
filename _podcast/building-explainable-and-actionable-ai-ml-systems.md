@@ -1,6 +1,6 @@
 ---
-title: 'Build Explainable and Actionable AI/ML Systems: Industrial PhD, Trust Theory & Production Deployment'
-short: Build Explainable and Actionable AI/ML Systems
+title: "Build Explainable and Actionable AI/ML Systems: Industrial PhD, Trust Theory & Production Deployment"
+short: "Build Explainable and Actionable AI/ML Systems"
 season: 14
 episode: 9
 guests:

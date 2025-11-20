@@ -1,6 +1,6 @@
 ---
-title: 'Turn Data Science Project Failures into Career Wins: Production Lessons, MLOps Fixes & Framing Failures on LinkedIn'
-short: What Data Scientists Don’t Mention in Their LinkedIn Profiles
+title: "Turn Data Science Project Failures into Career Wins: Production Lessons, MLOps Fixes & Framing Failures on LinkedIn"
+short: "What Data Scientists Don’t Mention in Their LinkedIn Profiles"
 season: 3
 episode: 9
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3KR6zErxqeDuQ2jo8NDvNx
   apple: https://podcasts.apple.com/us/podcast/what-data-scientists-dont-mention-in-their-linkedin/id1541710331?i=1000524260842
 
-description: 'Discover how to turn data science project failures into career wins: practical MLOps fixes, production lessons, LinkedIn framing tips to boost hiring outcomes.'
-intro: 'How do you turn data science project failures into tangible career wins — and how should you talk about them on LinkedIn? In this episode, Yury Kashnitsky, Ph.D. in applied math, Kaggle Master and Senior ML Scientist at Elsevier who also leads the open course mlcourse.ai, walks through real production ML lessons and MLOps fixes learned across academia, startups and industry. <br><br> We dig into common data science pitfalls and a concrete case study (a BERT-based proofreading regression stopped early), stakeholder communication for when to kill a project, and the missing role of a data product manager. Yury breaks down engineering vs research trade-offs in deployment, production fixes like reducing re-ranking scope to meet latency, when gradient boosting beats CTR heuristics, and DevOps anti-patterns such as SSH deploys and no CI/CD. We also cover practical topics: data labeling cost/quality, going from notebooks to production, multilingual telco NLP, resume choices, interview questions about revenue-producing ML, and how to frame failed projects on LinkedIn with honesty and lessons learned. <br><br> Listen to get actionable MLOps and production-ML strategies, communication tactics for stakeholders, and guidance on reframing failures into career momentum.'
+description: "Discover how to turn data science project failures into career wins: practical MLOps fixes, production lessons, LinkedIn framing tips to boost hiring outcomes."
+intro: "How do you turn data science project failures into tangible career wins — and how should you talk about them on LinkedIn? In this episode, Yury Kashnitsky, Ph.D. in applied math, Kaggle Master and Senior ML Scientist at Elsevier who also leads the open course mlcourse.ai, walks through real production ML lessons and MLOps fixes learned across academia, startups and industry. <br><br> We dig into common data science pitfalls and a concrete case study (a BERT-based proofreading regression stopped early), stakeholder communication for when to kill a project, and the missing role of a data product manager. Yury breaks down engineering vs research trade-offs in deployment, production fixes like reducing re-ranking scope to meet latency, when gradient boosting beats CTR heuristics, and DevOps anti-patterns such as SSH deploys and no CI/CD. We also cover practical topics: data labeling cost/quality, going from notebooks to production, multilingual telco NLP, resume choices, interview questions about revenue-producing ML, and how to frame failed projects on LinkedIn with honesty and lessons learned. <br><br> Listen to get actionable MLOps and production-ML strategies, communication tactics for stakeholders, and guidance on reframing failures into career momentum."
 topics:
 - machine learning
 - MLOps

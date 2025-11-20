@@ -1,6 +1,6 @@
 ---
-title: 'Lead NLP Teams: Hiring, Production Pipelines, MLOps & LLM Tradeoffs (GPT-3, spaCy)'
-short: Leading NLP Teams
+title: "Lead NLP Teams: Hiring, Production Pipelines, MLOps & LLM Tradeoffs (GPT-3, spaCy)"
+short: "Leading NLP Teams"
 season: 6
 episode: 8
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/0jE1rpmLCYkD3GnUa2E7E3
   apple: https://podcasts.apple.com/us/podcast/leading-nlp-teams-ivan-bilan/id1541710331?i=1000546053682
 
-description: Learn practical NLP teams hiring, production pipelines and MLOps tradeoffs—GPT-3 & spaCy tactics to deploy, monitor and scale reliable LLM systems
-intro: How do you structure an NLP team and build reliable production pipelines while weighing the tradeoffs between GPT-3 and in-house models? In this episode, Ivan Bilan, Engineering Manager at Personio working on Identity and Access Management, walks through practical answers from his transition from linguistics to production NLP and MLOps. <br><br> We cover hiring and team models (centralized vs cross-disciplinary), what to look for in NLP engineers (tokenization, linguistics, deployment skills), and when to bring in linguists or conversational designers. Ivan breaks down the anatomy of an NLP production pipeline—data annotation, task engineering, testing, deployment, observability—and contrasts using GPT-3 with building in-house pipelines and open-source tools like spaCy and Hugging Face for MVPs. He discusses inference optimization, privacy and bias risks with large language models, benchmarking limits, and practical microservice patterns for data-intensive apps. <br><br> Listen to learn actionable guidance on hiring NLP talent, designing MLOps workflows, choosing between LLMs and bespoke models, and the concrete tradeoffs you’ll face in production
+description: "Learn practical NLP teams hiring, production pipelines and MLOps tradeoffs—GPT-3 & spaCy tactics to deploy, monitor and scale reliable LLM systems"
+intro: "How do you structure an NLP team and build reliable production pipelines while weighing the tradeoffs between GPT-3 and in-house models? In this episode, Ivan Bilan, Engineering Manager at Personio working on Identity and Access Management, walks through practical answers from his transition from linguistics to production NLP and MLOps. <br><br> We cover hiring and team models (centralized vs cross-disciplinary), what to look for in NLP engineers (tokenization, linguistics, deployment skills), and when to bring in linguists or conversational designers. Ivan breaks down the anatomy of an NLP production pipeline—data annotation, task engineering, testing, deployment, observability—and contrasts using GPT-3 with building in-house pipelines and open-source tools like spaCy and Hugging Face for MVPs. He discusses inference optimization, privacy and bias risks with large language models, benchmarking limits, and practical microservice patterns for data-intensive apps. <br><br> Listen to learn actionable guidance on hiring NLP talent, designing MLOps workflows, choosing between LLMs and bespoke models, and the concrete tradeoffs you’ll face in production"
 topics:
 - NLP
 - machine learning

@@ -1,7 +1,6 @@
 ---
-title: 'From Software Engineer to VP of Machine Learning: Stakeholder Buy-In, Rapid
-  POCs and Full-Stack Skills'
-short: The Unwritten Rules for Success in Machine Learning
+title: "From Software Engineer to VP of Machine Learning: Stakeholder Buy-In, Rapid POCs and Full-Stack Skills"
+short: "The Unwritten Rules for Success in Machine Learning"
 season: 16
 episode: 6
 guests:
@@ -15,22 +14,15 @@ links:
   apple: https://podcasts.apple.com/us/podcast/the-unwritten-rules-for-success-in-machine-learning/id1541710331?i=1000635206953
   spotify: https://open.spotify.com/episode/2c8E0hZ02osih7ljEB6I6f?si=lSPp07r4TgmpGQey0cUjsA
   youtube: https://www.youtube.com/watch?v=su2M058m3Lw
-description: Discover how to win stakeholder buy-in, build rapid POCs and scale machine
-  learning with full-stack skills—accelerate to VP-level impact and leadership.
-intro: How do you move from a hands-on software engineer to a VP of Machine Learning
-  while getting stakeholders to say “yes,” delivering rapid POCs, and building the
-  full-stack skills teams need? In this episode Jack Blandin walks through that transition.
-  Jack began as a Software Engineer in 2015, shifted into Data Science and Machine
-  Learning in 2017, and has held ML and leadership roles at Fi, Wayfair, Trunk Club,
-  and GoHealth—managing teams of 2 to 15. He’s now VP of Data Science & Machine Learning
-  at Fi, finishing a PhD focused on ML, reinforcement learning, and algorithmic fairness,
-  and launching a hiring marketplace for data and ML professionals. <br><br> We dig
-  into practical strategies for stakeholder buy-in, how to scope and run rapid proofs
-  of concept that prove value, and which full-stack skills accelerate career growth
-  in ML and data science leadership. Listeners will come away with actionable approaches
-  to design fast, business-focused POCs, communicate technical tradeoffs to non-technical
-  stakeholders, and level up skill sets that bridge engineering and product — useful
-  for anyone aiming to scale into ML management or improve ML engineering outcomes.
+description: "Discover how to win stakeholder buy-in, build rapid POCs and scale machine learning with full-stack skills—accelerate to VP-level impact and leadership."
+topics:
+- machine learning
+- MLOps
+- tools
+- career transition
+- leadership
+- software engineering
+intro: "How do you move from a hands-on software engineer to a VP of Machine Learning while getting stakeholders to say “yes,” delivering rapid POCs, and building the full-stack skills teams need? In this episode Jack Blandin walks through that transition. Jack began as a Software Engineer in 2015, shifted into Data Science and Machine Learning in 2017, and has held ML and leadership roles at Fi, Wayfair, Trunk Club, and GoHealth—managing teams of 2 to 15. He’s now VP of Data Science & Machine Learning at Fi, finishing a PhD focused on ML, reinforcement learning, and algorithmic fairness, and launching a hiring marketplace for data and ML professionals. <br><br> We dig into practical strategies for stakeholder buy-in, how to scope and run rapid proofs of concept that prove value, and which full-stack skills accelerate career growth in ML and data science leadership. Listeners will come away with actionable approaches to design fast, business-focused POCs, communicate technical tradeoffs to non-technical stakeholders, and level up skill sets that bridge engineering and product — useful for anyone aiming to scale into ML management or improve ML engineering outcomes."
 dateadded: 2023-11-20
 duration: PT00H53M23S
 quotableClips:

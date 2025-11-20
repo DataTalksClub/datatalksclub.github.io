@@ -1,6 +1,6 @@
 ---
-title: 'Asteroid Mining: Using ML & Hyperspectral Spectroscopy to Detect Water for ISRU'
-short: Using Data for Asteroid Mining
+title: "Asteroid Mining: Using ML & Hyperspectral Spectroscopy to Detect Water for ISRU"
+short: "Using Data for Asteroid Mining"
 season: 9
 episode: 2
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/7wjKCbCsD4ytuNrE8JrH2B?si=1WPAtw6PSZGVib0qSsoLvA
   youtube: https://www.youtube.com/watch?v=YxijEUoDCfw
 
-description: 'Discover asteroid mining: machine learning & hyperspectral spectroscopy to detect water for ISRU—learn detection methods, datasets, mission design & tools.'
-intro: How can we reliably detect water on near-Earth asteroids using machine learning and hyperspectral spectroscopy to enable in-situ resource utilization (ISRU)? In this episode Daynan Crull—co-founder of Karman+ and lead of its science and technology effort—walks through the science and engineering needed to find and characterize asteroid water for space missions. Drawing on his background in remote sensing and ML, Daynan explains hyperspectral infrared signatures for water detection, spectral classification approaches, and the limits of ground truth from returned samples and meteorites. Along the way we cover relevant astronomical data types (images, hyperspectral bands, time series), asteroid features like photometry and rotation, observability challenges, and ML tasks from signal processing to orbit linking and synthetic tracking. Daynan also discusses mission architecture (CubeSats, COTS), sampling and extraction concepts, economic use cases for water-as-fuel, and the cloud, datasets, and tools (MPC, JPL Horizons, NEOWISE) that support scalable workflows. Listen to gain practical insight into asteroid mining, hyperspectral spectroscopy, machine learning for water detection, and the datasets and infrastructure to get involved in ISRU research and missions
+description: "Discover asteroid mining: machine learning & hyperspectral spectroscopy to detect water for ISRU—learn detection methods, datasets, mission design & tools."
+intro: "How can we reliably detect water on near-Earth asteroids using machine learning and hyperspectral spectroscopy to enable in-situ resource utilization (ISRU)? In this episode Daynan Crull—co-founder of Karman+ and lead of its science and technology effort—walks through the science and engineering needed to find and characterize asteroid water for space missions. Drawing on his background in remote sensing and ML, Daynan explains hyperspectral infrared signatures for water detection, spectral classification approaches, and the limits of ground truth from returned samples and meteorites. Along the way we cover relevant astronomical data types (images, hyperspectral bands, time series), asteroid features like photometry and rotation, observability challenges, and ML tasks from signal processing to orbit linking and synthetic tracking. Daynan also discusses mission architecture (CubeSats, COTS), sampling and extraction concepts, economic use cases for water-as-fuel, and the cloud, datasets, and tools (MPC, JPL Horizons, NEOWISE) that support scalable workflows. Listen to gain practical insight into asteroid mining, hyperspectral spectroscopy, machine learning for water detection, and the datasets and infrastructure to get involved in ISRU research and missions"
 topics:
 - machine learning
 - astronomy

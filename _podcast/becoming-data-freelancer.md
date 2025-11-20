@@ -1,6 +1,6 @@
 ---
-title: 'Becoming a Data Freelancer: Pricing, Client Acquisition and Contract Strategy'
-short: Become a Data Freelancer
+title: "Becoming a Data Freelancer: Pricing, Client Acquisition and Contract Strategy"
+short: "Become a Data Freelancer"
 season: 16
 episode: 9
 guests:
@@ -14,24 +14,16 @@ links:
   apple: https://podcasts.apple.com/us/podcast/become-a-data-freelancer-dimitri-visnadi/id1541710331?i=1000637962993
   spotify: https://open.spotify.com/episode/5OJfRiQ64JtLUmIkvadohg?si=uUEdvZwARN2hVGEfz73URg
   youtube: https://www.youtube.com/watch?v=R_EnSa9aZtE
-description: Master data freelancer pricing, client acquisition and contract strategy—learn
-  rate benchmarking, outreach tactics, client vetting and runway planning.
-intro: 'How do you move from corporate analytics to independent data consulting while
-  pricing services fairly, finding steady clients, and avoiding contract pitfalls?
-  In this episode Dimitri Visnadi — an independent data consultant who has advised
-  brands like Unilever, Ferrero, Heineken and Red Bull and who trained at UCL and
-  HP — walks through the practical realities of becoming a data freelancer. <br><br>
-  We cover the full transition: career pivoting from marketing to data, early startup
-  and corporate analytics experience, and the decision to resign and pursue freelancing.
-  Dimitri breaks down client acquisition tactics (cold outreach, recruiter channels,
-  proactive self-marketing), pricing strategy (platforms vs direct contracting, rate
-  benchmarking, project pricing), and contract strategy (dependent contractor risk,
-  platform terms vs direct agreements, subcontracting). He also addresses vetting
-  clients, payment delays, financial runway recommendations, common pitfalls like
-  mispositioning and mispricing, and learning resources including the Data Freelancer
-  newsletter. <br><br> Listen to get actionable guidance on pricing, client acquisition,
-  contract formats, and the business practices that help sustain a freelance data
-  consultancy.'
+description: "Master data freelancer pricing, client acquisition and contract strategy—learn rate benchmarking, outreach tactics, client vetting and runway planning."
+topics:
+- freelance
+- consulting
+- data analytics
+- career transition
+- career growth
+- data science
+  
+intro: "How do you move from corporate analytics to independent data consulting while pricing services fairly, finding steady clients, and avoiding contract pitfalls? In this episode Dimitri Visnadi — an independent data consultant who has advised brands like Unilever, Ferrero, Heineken and Red Bull and who trained at UCL and HP — walks through the practical realities of becoming a data freelancer. <br><br> We cover the full transition: career pivoting from marketing to data, early startup and corporate analytics experience, and the decision to resign and pursue freelancing. Dimitri breaks down client acquisition tactics (cold outreach, recruiter channels, proactive self-marketing), pricing strategy (platforms vs direct contracting, rate benchmarking, project pricing), and contract strategy (dependent contractor risk, platform terms vs direct agreements, subcontracting). He also addresses vetting clients, payment delays, financial runway recommendations, common pitfalls like mispositioning and mispricing, and learning resources including the Data Freelancer newsletter. <br><br> Listen to get actionable guidance on pricing, client acquisition, contract formats, and the business practices that help sustain a freelance data consultancy."
 dateadded: 2023-12-09
 date: 2025-11-07
 duration: PT00H59M49S

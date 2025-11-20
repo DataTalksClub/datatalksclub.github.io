@@ -1,6 +1,6 @@
 ---
-title: 'FinOps for Data Engineers: Optimize Cloud Costs, BigQuery & Modern Data Stack'
-short: From Supply Chain Management to Digital Warehousing and FinOps
+title: "FinOps for Data Engineers: Optimize Cloud Costs, BigQuery & Modern Data Stack"
+short: "From Supply Chain Management to Digital Warehousing and FinOps"
 season: 20
 episode: 6
 guests:
@@ -14,23 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/from-supply-chain-management-to-digital-warehousing/id1541710331?i=1000702233986
   spotify: https://open.spotify.com/episode/33YZpX7zE6YcBGbQK9Iclp
   youtube: https://www.youtube.com/watch?v=7ePp6wuxM5s
-description: 'Master FinOps for data engineers: optimize cloud costs with BigQuery
-  best practices, query tuning and governance to cut spend and boost performance.'
-intro: How can data engineers bring FinOps practices into their day-to-day work to
-  control cloud spend across BigQuery and the modern data stack? In this episode,
-  Eddy Zulkifly — Staff Data Engineer at Kinaxis with a decade of experience building
-  data platforms on Google Cloud, Azure, and AWS — breaks down practical ways to make
-  cost optimization part of platform design and operations. <br><br> We explore core
-  topics including cloud cost optimization for data teams, BigQuery cost controls
-  and query efficiency, cost-aware architecture in the modern data stack, multi-cloud
-  considerations, and monitoring and governance for predictable spend. Eddy draws
-  on experience from Home Depot e-commerce and supply chain analytics, mentoring and
-  teaching roles, and his work on open-source data projects to translate FinOps principles
-  into engineering choices. <br><br> If you’re a data engineer or platform owner responsible
-  for budgets and performance, you’ll get actionable guidance on reducing unnecessary
-  cloud costs, improving visibility into usage, and designing pipelines that balance
-  performance with price. Listen to learn practical steps to align data engineering
-  practices with FinOps goals and make cloud spend more predictable.
+description: "Master FinOps for data engineers: optimize cloud costs with BigQuery best practices, query tuning and governance to cut spend and boost performance."
+topics:
+- data engineering
+- finops
+- modern data stack
+- tools
+- career growth
+intro: "How can data engineers bring FinOps practices into their day-to-day work to control cloud spend across BigQuery and the modern data stack? In this episode, Eddy Zulkifly — Staff Data Engineer at Kinaxis with a decade of experience building data platforms on Google Cloud, Azure, and AWS — breaks down practical ways to make cost optimization part of platform design and operations. <br><br> We explore core topics including cloud cost optimization for data teams, BigQuery cost controls and query efficiency, cost-aware architecture in the modern data stack, multi-cloud considerations, and monitoring and governance for predictable spend. Eddy draws on experience from Home Depot e-commerce and supply chain analytics, mentoring and teaching roles, and his work on open-source data projects to translate FinOps principles into engineering choices. <br><br> If you’re a data engineer or platform owner responsible for budgets and performance, you’ll get actionable guidance on reducing unnecessary cloud costs, improving visibility into usage, and designing pipelines that balance performance with price. Listen to learn practical steps to align data engineering practices with FinOps goals and make cloud spend more predictable."
 dateadded: 2025-04-30
 duration: PT00H59M54S
 quotableClips:

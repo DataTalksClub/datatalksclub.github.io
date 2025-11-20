@@ -1,7 +1,6 @@
 ---
-title: 'From DevOps to Data Engineering: Automation, Open Source & Volunteering for
-  Career Transitions'
-short: Career choices, transitions and promotions in and out of tech
+title: "From DevOps to Data Engineering: Automation, Open Source & Volunteering for Career Transitions"
+short: "Career choices, transitions and promotions in and out of tech"
 season: 19
 episode: 8
 guests:
@@ -15,23 +14,15 @@ links:
   apple: https://podcasts.apple.com/us/podcast/career-choices-transitions-and-promotions-in-and-out/id1541710331?i=1000683499310
   spotify: https://open.spotify.com/episode/0UW7fLgm9fqMG64GQwvgIN?si=ZixbzDcZT2mNkVrJjZVbeA
   youtube: https://www.youtube.com/watch?v=QKWu5-6_6TE
-description: 'Discover DevOps to Data Engineering strategies: open source contributions
-  and volunteering to build pipelines, projects and a hireable portfolio.'
-intro: How do you pivot from DevOps to data engineering without starting over? In
-  this episode Agita Jaunzeme — a DevOps/DataOps engineer, manager, community builder
-  and NGO founder — breaks down practical strategies for career transitions that center
-  on automation, open source participation, and volunteering. <br><br> Agita draws
-  on experience across corporate, startup, open source and non-governmental sectors
-  and shares how automation and DevOps practices translate to data engineering and
-  DataOps. We discuss using open source projects to build credibility, volunteering
-  and community work to gain hands-on experience and networks, and concrete approaches
-  to getting promoted or making purposeful career pivots. Agita also talks about designing
-  work that aligns with passion and purpose, including founding an NGO to support
-  expats and locals in Porto. <br><br> Listeners will come away with actionable ideas
-  for bridging skill gaps, leveraging automation and open source contributions, and
-  using volunteering as a pathway into data engineering roles. This episode is for
-  DevOps professionals, aspiring data engineers, and career changers seeking pragmatic
-  advice on transitions, promotions, and aligning work with meaningful impact.
+description: "Discover DevOps to Data Engineering strategies: open source contributions and volunteering to build pipelines, projects and a hireable portfolio."
+topics:
+- open-source
+- data engineering
+- software engineering
+- practices
+- career transition
+- DevOps
+intro: "How do you pivot from DevOps to data engineering without starting over? In this episode Agita Jaunzeme — a DevOps/DataOps engineer, manager, community builder and NGO founder — breaks down practical strategies for career transitions that center on automation, open source participation, and volunteering. <br><br> Agita draws on experience across corporate, startup, open source and non-governmental sectors and shares how automation and DevOps practices translate to data engineering and DataOps. We discuss using open source projects to build credibility, volunteering and community work to gain hands-on experience and networks, and concrete approaches to getting promoted or making purposeful career pivots. Agita also talks about designing work that aligns with passion and purpose, including founding an NGO to support expats and locals in Porto. <br><br> Listeners will come away with actionable ideas for bridging skill gaps, leveraging automation and open source contributions, and using volunteering as a pathway into data engineering roles. This episode is for DevOps professionals, aspiring data engineers, and career changers seeking pragmatic advice on transitions, promotions, and aligning work with meaningful impact."
 dateadded: 2025-01-12
 duration: PT01H01M46S
 quotableClips:
@@ -115,7 +106,7 @@ quotableClips:
   startOffset: 2423
   url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=2423
   endOffset: 2584
-- name: 'Career Coaching Course: "Align Your Career With Who You Are"'
+- name: 'Career Coaching Course: "Align Your Career With Who You Are"
   startOffset: 2584
   url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=2584
   endOffset: 2704
@@ -822,7 +813,7 @@ transcript:
   sec: 2555
   time: '42:35'
   who: Alexey
-- header: 'Career Coaching Course: "Align Your Career With Who You Are"'
+- header: 'Career Coaching Course: "Align Your Career With Who You Are"
 - line: Starting an NGO is not easy, at least not in Portugal. I’m not sure how it
     works in other countries, but you need at least nine people. It didn’t really
     start in March. I had already been doing a career coaching course for about two

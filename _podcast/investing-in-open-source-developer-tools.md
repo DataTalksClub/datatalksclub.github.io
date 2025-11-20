@@ -1,6 +1,6 @@
 ---
-title: 'Early-Stage Investing in Open Source Developer Tools: Deal Sourcing, Due Diligence & Commercialization Models'
-short: Investing in Open-Source Data Tools
+title: "Early-Stage Investing in Open Source Developer Tools: Deal Sourcing, Due Diligence & Commercialization Models"
+short: "Investing in Open-Source Data Tools"
 season: 15
 episode: 2
 guests:

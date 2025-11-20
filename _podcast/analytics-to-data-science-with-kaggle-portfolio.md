@@ -1,6 +1,6 @@
 ---
-title: 'Career Transition from Analytics to Data Science: Build a Kaggle Notebook Portfolio, Learn Python & Get Hired'
-short: Shifting Career from Analytics to Data Science
+title: "Career Transition from Analytics to Data Science: Build a Kaggle Notebook Portfolio, Learn Python & Get Hired"
+short: "Shifting Career from Analytics to Data Science"
 season: 3
 episode: 2
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/1GVuHJzqbcf2BvaLBTgsAL
   apple: https://podcasts.apple.com/us/podcast/shifting-career-from-analytics-to-data-science-andrada/id1541710331?i=1000517426368
 
-description: Build a Kaggle portfolio, learn Python to pivot from analytics to data science—hands-on notebooks, interview prep and hiring strategies to get hired
-intro: 'How do you move from analytics into a hireable data science role by building a Kaggle notebook portfolio and learning Python fast? In this episode, Andrada Olteanu — Data Scientist at Endava, Kaggle Notebooks Master, and Z by HP & NVIDIA Data Science Ambassador — walks through her path from a statistics degree and data analyst role at Avon to a master’s in DS and a practical, project-driven transition. <br><br> We cover concrete steps: recommended courses like Jose Portilla’s “Python for Data Science & Machine Learning,” using Kaggle as your primary practice environment, and specific notebook work such as the Iowa House Prices project with hyperparameter tuning. Andrada explains how to translate academic dissertations into public notebooks, decompose and reimplement kernels to grow coding skills, and leverage mentorship (including connecting with Gabi Preda on Kaggle) during the job search. Listeners will also learn how to present work on Kaggle and GitHub, navigate interview expectations (algorithmic coding tests vs practical ML), and use LinkedIn/Twitter for networking. <br><br> If you’re building a Kaggle notebook portfolio, learning Python, and aiming for data science roles, this episode gives a practical, step-by-step roadmap.'
+description: "Build a Kaggle portfolio, learn Python to pivot from analytics to data science—hands-on notebooks, interview prep and hiring strategies to get hired"
+intro: "How do you move from analytics into a hireable data science role by building a Kaggle notebook portfolio and learning Python fast? In this episode, Andrada Olteanu — Data Scientist at Endava, Kaggle Notebooks Master, and Z by HP & NVIDIA Data Science Ambassador — walks through her path from a statistics degree and data analyst role at Avon to a master’s in DS and a practical, project-driven transition. <br><br> We cover concrete steps: recommended courses like Jose Portilla’s “Python for Data Science & Machine Learning,” using Kaggle as your primary practice environment, and specific notebook work such as the Iowa House Prices project with hyperparameter tuning. Andrada explains how to translate academic dissertations into public notebooks, decompose and reimplement kernels to grow coding skills, and leverage mentorship (including connecting with Gabi Preda on Kaggle) during the job search. Listeners will also learn how to present work on Kaggle and GitHub, navigate interview expectations (algorithmic coding tests vs practical ML), and use LinkedIn/Twitter for networking. <br><br> If you’re building a Kaggle notebook portfolio, learning Python, and aiming for data science roles, this episode gives a practical, step-by-step roadmap."
 topics:
 - career transition
 - analytics

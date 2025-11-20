@@ -1,6 +1,6 @@
 ---
-title: 'Ace Data Interviews: Behavioral STARs, Case Strategy, Portfolios & Cold Emails'
-short: Ace Non-Technical Data Science Interviews
+title: "Ace Data Interviews: Behavioral STARs, Case Strategy, Portfolios & Cold Emails"
+short: "Ace Non-Technical Data Science Interviews"
 season: 6
 episode: 2
 guests:
@@ -15,7 +15,13 @@ links:
   spotify: https://open.spotify.com/episode/7tO8GmqAcFUUk4fLqxEXy1
   apple: https://podcasts.apple.com/us/podcast/ace-non-technical-data-science-interviews-nick-singh/id1541710331?i=1000541631687
 
-description: 'Master behavioral interviews & prep to break into data roles: build an impact portfolio, use STAR stories, nail case interviews and cold emails.'
+description: "Master behavioral interviews & prep to break into data roles: build an impact portfolio, use STAR stories, nail case interviews and cold emails."
+topics:
+- data science
+- machine learning
+- MLOps
+- product management
+- job search
 dateadded: 2021-11-12
 
 duration: PT01H01M38S

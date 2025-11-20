@@ -1,6 +1,6 @@
 ---
-title: 'Solo Data Scientist Playbook: 90-Day Roadmap, Pipelines, A/B Tests & Prioritization'
-short: Introducing Data Science in Startups
+title: "Solo Data Scientist Playbook: 90-Day Roadmap, Pipelines, A/B Tests & Prioritization"
+short: "Introducing Data Science in Startups"
 season: 5
 episode: 4
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/0kGFYX12RgkmZC2lMml6S4
   apple: https://podcasts.apple.com/us/podcast/introducing-data-science-in-startups-marianna-diachuk/id1541710331?i=1000536525162
 
-description: 'Master the solo data scientist 90-day roadmap: prioritize projects, run A/B tests, align stakeholders and deploy models for fast business impact.'
-intro: 'How can a solo data scientist deliver measurable impact in the first 90 days? In this episode, Marianna Diachuk — data scientist at Restream, former DataRobot engineer and fintech team lead, and Data Science Lead/mentor with Women Who Code — walks through a practical Solo Data Scientist playbook. You''ll hear a clear 90-day roadmap covering first-week stakeholder interviews and data exploration, first-month research and proofs-of-concept, and first-quarter priorities: building data pipelines, deployment, methodology, and A/B testing. Marianna breaks down company prerequisites (pipelines, engineers, analytics), the experience needed for end-to-end projects, and how to translate business problems into data science work through proactive outreach and prioritization by feasibility, impact, and stakeholder alignment. Topics include churn workflows, reuse and automation to speed iterations, metrics and KPIs for solution selection, experiment design and safe rollouts, plus communicating results through reports and tech talks. Listen for actionable guidance on transitioning from engineering, when to stop projects, hiring signals, an interview readiness checklist, and resources to learn faster and educate your organization.'
+description: "Master the solo data scientist 90-day roadmap: prioritize projects, run A/B tests, align stakeholders and deploy models for fast business impact."
+intro: "How can a solo data scientist deliver measurable impact in the first 90 days? In this episode, Marianna Diachuk — data scientist at Restream, former DataRobot engineer and fintech team lead, and Data Science Lead/mentor with Women Who Code — walks through a practical Solo Data Scientist playbook. You''ll hear a clear 90-day roadmap covering first-week stakeholder interviews and data exploration, first-month research and proofs-of-concept, and first-quarter priorities: building data pipelines, deployment, methodology, and A/B testing. Marianna breaks down company prerequisites (pipelines, engineers, analytics), the experience needed for end-to-end projects, and how to translate business problems into data science work through proactive outreach and prioritization by feasibility, impact, and stakeholder alignment. Topics include churn workflows, reuse and automation to speed iterations, metrics and KPIs for solution selection, experiment design and safe rollouts, plus communicating results through reports and tech talks. Listen for actionable guidance on transitioning from engineering, when to stop projects, hiring signals, an interview readiness checklist, and resources to learn faster and educate your organization."
 topics:
 - data science
 - startups

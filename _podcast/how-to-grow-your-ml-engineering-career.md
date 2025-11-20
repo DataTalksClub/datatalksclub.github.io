@@ -1,6 +1,6 @@
 ---
-title: 'How to Grow Your ML Engineering Career: Platform Work, LLM Workflows & Debugging Skills'
-short: How to Grow Your ML Engineering Career
+title: "How to Grow Your ML Engineering Career: Platform Work, LLM Workflows & Debugging Skills"
+short: "How to Grow Your ML Engineering Career"
 season: 12
 episode: 7
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/1mDlJi7vfLeJgIZStQ4G90?si=Spd04VwmSh2zZCgZzLIPbA
   youtube: https://www.youtube.com/watch?v=cUxZBXQgZaU
 
-description: Discover career transitions into ML, prompt engineering and LLMs—practical debugging tips, transferable skills, hiring insights, and real platform lessons
-intro: How do you move from web and game development into building machine learning platforms and working with LLMs—and what practical skills carry over? In this episode Krzysztof Szafanek, a seasoned engineer with 17 years across pharma, geo services, gaming and online retail, and currently an ML Platform engineer and internal consultant at Zalando, answers that question through concrete examples and career lessons. <br><br> We trace Krzysztof’s path from HTML5, Objective-C, Swift and Unity to Python, ML platform work (the zflow library and pipeline architecture), and hands-on experiments with diffusion models, ChatGPT and Modal Labs. Key topics include career transitions between stacks and roles, platform consulting—training, onboarding and user support—prompt engineering tips, debugging strategies (rubber ducking, divide-and-conquer), and a real Postgres optimization troubleshooting case. He also discusses transferable skills like SQL, Git and shell, T-shaped expertise, hiring dynamics, and how to get unstuck with ChatGPT and problem decomposition. <br><br> Listen to gain practical guidance on ML platforms, prompt engineering, debugging techniques, and career strategy for transitioning into ML and LLM work—plus actionable resources and prioritization tactics you can apply immediately
+description: "Discover career transitions into ML, prompt engineering and LLMs—practical debugging tips, transferable skills, hiring insights, and real platform lessons"
+intro: "How do you move from web and game development into building machine learning platforms and working with LLMs—and what practical skills carry over? In this episode Krzysztof Szafanek, a seasoned engineer with 17 years across pharma, geo services, gaming and online retail, and currently an ML Platform engineer and internal consultant at Zalando, answers that question through concrete examples and career lessons. <br><br> We trace Krzysztof’s path from HTML5, Objective-C, Swift and Unity to Python, ML platform work (the zflow library and pipeline architecture), and hands-on experiments with diffusion models, ChatGPT and Modal Labs. Key topics include career transitions between stacks and roles, platform consulting—training, onboarding and user support—prompt engineering tips, debugging strategies (rubber ducking, divide-and-conquer), and a real Postgres optimization troubleshooting case. He also discusses transferable skills like SQL, Git and shell, T-shaped expertise, hiring dynamics, and how to get unstuck with ChatGPT and problem decomposition. <br><br> Listen to gain practical guidance on ML platforms, prompt engineering, debugging techniques, and career strategy for transitioning into ML and LLM work—plus actionable resources and prioritization tactics you can apply immediately"
 topics:
 - machine learning
 - career transitions

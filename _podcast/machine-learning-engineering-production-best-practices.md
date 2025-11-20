@@ -1,6 +1,6 @@
 ---
-title: 'Practical Machine Learning Engineering for Production: Ship Maintainable Models, Avoid Complexity'
-short: Running from Complexity
+title: "Practical Machine Learning Engineering for Production: Ship Maintainable Models, Avoid Complexity"
+short: "Running from Complexity"
 season: 4
 episode: 5
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/2TxcU3eF7hjkAEzAJcYMAg
   apple: https://podcasts.apple.com/us/podcast/running-from-complexity-ben-wilson/id1541710331?i=1000529834651
 
-description: 'Learn practical ML engineering to ship maintainable machine learning models to production: avoid complexity, use prototypes, explainability, testing.'
-intro: 'Are your ML projects collapsing under their own complexity—or never making it to production at all? In this episode, Ben Wilson, Practice Lead Resident Solutions Architect at Databricks and author of an upcoming Manning book, walks through practical machine learning engineering strategies for shipping maintainable models and avoiding needless complexity. Drawing on 12 years across industries, Ben emphasizes prioritizing maintainability over novelty: refactoring monolithic code into modular, testable components, running timeboxed experiments and bake-offs, and choosing SQL or statistical solutions before jumping to deep learning. <br><br> We cover why production failures often stem from lack of business buy-in and “search-driven” complexity, how to involve subject-matter experts and executives to simplify designs, and techniques for explainability that translate model behavior into business terms. Ben also discusses team composition (statistics plus ML engineering skills), agile sprints for feature engineering and testing, the IKEA effect of emotional attachment to complex systems, and pitfalls in reproducing academic papers in production. Listen to learn concrete practices—from experimentation limits to mentoring and deployment tradeoffs—that help you move ideas into production and keep models reliable and maintainable.'
+description: "Learn practical ML engineering to ship maintainable machine learning models to production: avoid complexity, use prototypes, explainability, testing."
+intro: "Are your ML projects collapsing under their own complexity—or never making it to production at all? In this episode, Ben Wilson, Practice Lead Resident Solutions Architect at Databricks and author of an upcoming Manning book, walks through practical machine learning engineering strategies for shipping maintainable models and avoiding needless complexity. Drawing on 12 years across industries, Ben emphasizes prioritizing maintainability over novelty: refactoring monolithic code into modular, testable components, running timeboxed experiments and bake-offs, and choosing SQL or statistical solutions before jumping to deep learning. <br><br> We cover why production failures often stem from lack of business buy-in and “search-driven” complexity, how to involve subject-matter experts and executives to simplify designs, and techniques for explainability that translate model behavior into business terms. Ben also discusses team composition (statistics plus ML engineering skills), agile sprints for feature engineering and testing, the IKEA effect of emotional attachment to complex systems, and pitfalls in reproducing academic papers in production. Listen to learn concrete practices—from experimentation limits to mentoring and deployment tradeoffs—that help you move ideas into production and keep models reliable and maintainable."
 topics:
 - machine learning
 - career growth

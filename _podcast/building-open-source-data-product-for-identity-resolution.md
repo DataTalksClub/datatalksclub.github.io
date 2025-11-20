@@ -15,8 +15,14 @@ links:
   spotify: https://open.spotify.com/episode/54DufG1ZVj0GMSoWTbJsen?si=d7XNSW2_Tfa4qKJxmFQpIA
   youtube: https://www.youtube.com/watch?v=lpjffCOPxlY
 
-description: Discover how to build an open-source, ML-powered identity resolution tool. Learn about the practical challenges across industries.
-intro: 'How do you build an open-source, ML-powered identity resolution tool that becomes the single source of truth in a modern data stack? In this episode Sonal Goyal—founder of Zingg and a 23-year data product veteran—walks through the practical challenges of identity resolution and entity resolution across industries like investment banking, telecom, gaming, and insurance. Sonal explains why ML-powered approaches matter, how an open-source framework like Zingg can fit into your modern data stack, and what it takes to reconcile customer and supplier records into a reliable single source of truth. <br><br> Expect discussion of architecture and integration trade-offs, the role of machine learning in matching and deduplication, and lessons from building production data products at scale. If you manage customer data, data integration, or are evaluating open-source identity resolution solutions, this episode offers concrete insights and pointers—including Zingg’s open-source repository—to help you evaluate adoption, reduce duplicate records, and improve downstream analytics and personalization'
+description: "Discover how to build an open-source, ML-powered identity resolution tool. Learn about the practical challenges across industries."
+topics:
+- machine learning
+- MLOps
+- data engineering
+- open-source
+- product management
+intro: "How do you build an open-source, ML-powered identity resolution tool that becomes the single source of truth in a modern data stack? In this episode Sonal Goyal—founder of Zingg and a 23-year data product veteran—walks through the practical challenges of identity resolution and entity resolution across industries like investment banking, telecom, gaming, and insurance. Sonal explains why ML-powered approaches matter, how an open-source framework like Zingg can fit into your modern data stack, and what it takes to reconcile customer and supplier records into a reliable single source of truth. <br><br> Expect discussion of architecture and integration trade-offs, the role of machine learning in matching and deduplication, and lessons from building production data products at scale. If you manage customer data, data integration, or are evaluating open-source identity resolution solutions, this episode offers concrete insights and pointers—including Zingg’s open-source repository—to help you evaluate adoption, reduce duplicate records, and improve downstream analytics and personalization"
 dateadded: 2022-10-29
 
 duration: PT01H23S

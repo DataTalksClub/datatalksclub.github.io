@@ -1,6 +1,6 @@
 ---
-title: 'Data Mesh Implementation: Build Decentralized Data Products, Contracts & Federated Governance'
-short: Data Mesh 101
+title: "Data Mesh Implementation: Build Decentralized Data Products, Contracts & Federated Governance"
+short: "Data Mesh 101"
 season: 10
 episode: 6
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/5uX5sfRPvC9WAXOM9fRCup?si=FQYB7cpuSOyzq7022xU3Tg
   youtube: https://www.youtube.com/watch?v=346N_pCtYZU
 
-description: Discover Data Mesh strategies, data contracts and federated governance to build decentralized data products, improve data quality, and scale adoption
-intro: 'How do you scale data architecture so teams deliver value without centralized bottlenecks? In this episode, Zhamak Dehghani — director of technology at Thoughtworks and founder of the Data Mesh concept — walks through practical steps for Data Mesh implementation: building decentralized data products, defining data contracts, and establishing federated governance. <br><br> We cover why enterprises face long pipelines to value and how a socio-technical, domain-oriented approach decouples pipelines with clear contracts and ownership. Zhamak explains the mesh-as-graph view, streaming examples of domain producers/consumers and schemas, and the maturity spectrum from tight warehouse schemas to loose coupling. You’ll hear about minimal guarantees and metadata for discoverability, decentralized interoperability (identity and auth), and how to define data product contracts (quality, SLAs, ownership). <br><br> The episode also digs into self-serve data platforms, platform federation with shared standards, governance primitives such as retention and automated validation, and an adoption roadmap including assessment, pilots, and executive buy-in. Listeners will gain concrete guidance on applying Data Mesh principles, designing data products and contracts, and operationalizing federated governance in their organizations.'
+description: "Discover Data Mesh strategies, data contracts and federated governance to build decentralized data products, improve data quality, and scale adoption"
+intro: "How do you scale data architecture so teams deliver value without centralized bottlenecks? In this episode, Zhamak Dehghani — director of technology at Thoughtworks and founder of the Data Mesh concept — walks through practical steps for Data Mesh implementation: building decentralized data products, defining data contracts, and establishing federated governance. <br><br> We cover why enterprises face long pipelines to value and how a socio-technical, domain-oriented approach decouples pipelines with clear contracts and ownership. Zhamak explains the mesh-as-graph view, streaming examples of domain producers/consumers and schemas, and the maturity spectrum from tight warehouse schemas to loose coupling. You’ll hear about minimal guarantees and metadata for discoverability, decentralized interoperability (identity and auth), and how to define data product contracts (quality, SLAs, ownership). <br><br> The episode also digs into self-serve data platforms, platform federation with shared standards, governance primitives such as retention and automated validation, and an adoption roadmap including assessment, pilots, and executive buy-in. Listeners will gain concrete guidance on applying Data Mesh principles, designing data products and contracts, and operationalizing federated governance in their organizations."
 topics:
 - data mesh
 - data engineering

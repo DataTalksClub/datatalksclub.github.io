@@ -1,6 +1,6 @@
 ---
-title: 'Land Data Scientist Roles: Resumes, Portfolios, Interviews & Recruiter Workflow'
-short: Standing out as a Data Scientist
+title: "Land Data Scientist Roles: Resumes, Portfolios, Interviews & Recruiter Workflow"
+short: "Standing out as a Data Scientist"
 season: 1
 episode: 4
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/2Yxay9HJmd6dvk34MHJ0K2
   apple: https://podcasts.apple.com/us/podcast/standing-out-as-a-data-scientist-luke-whipps/id1541710331?i=1000502844994
 
-description: Master data scientist resumes, portfolios & interviews—insider recruiter workflow, CV tips, portfolio impact, negotiation and outreach to land roles faster
-intro: How do you actually land a data scientist role — from a resume that passes screening to a portfolio that wins interviews and an offer that closes? In this episode Luke Whipps, co-founder of Neural.AI and host of the AI Game Changer podcast with 8+ years recruiting experience, walks through the recruiter workflow and practical steps data scientists can use to improve hiring outcomes. <br><br> We cover Luke’s six-stage recruitment process (role definition to close), how to define data scientist roles across companies, and recruiter expectations for CV design, information hierarchy, and industry/use-case alignment. Learn how to structure portfolios to link tech stack to concrete projects, craft a clear career narrative that demonstrates business impact, and prepare for interviews and negotiations. Junior candidates will get guidance on choosing an industry and showing purpose; academics learn how to productize research for industry. You’ll also hear tactical advice on tailored applications, LinkedIn outreach, candidate funnel sizes, salary signals, job-title alignment, and acceptable tenure patterns. <br><br> Listen to gain actionable tips for resumes, portfolios, interviews, and working effectively with recruiters to increase your chances of landing a data scientist role
+description: "Master data scientist resumes, portfolios & interviews—insider recruiter workflow, CV tips, portfolio impact, negotiation and outreach to land roles faster"
+intro: "How do you actually land a data scientist role — from a resume that passes screening to a portfolio that wins interviews and an offer that closes? In this episode Luke Whipps, co-founder of Neural.AI and host of the AI Game Changer podcast with 8+ years recruiting experience, walks through the recruiter workflow and practical steps data scientists can use to improve hiring outcomes. <br><br> We cover Luke’s six-stage recruitment process (role definition to close), how to define data scientist roles across companies, and recruiter expectations for CV design, information hierarchy, and industry/use-case alignment. Learn how to structure portfolios to link tech stack to concrete projects, craft a clear career narrative that demonstrates business impact, and prepare for interviews and negotiations. Junior candidates will get guidance on choosing an industry and showing purpose; academics learn how to productize research for industry. You’ll also hear tactical advice on tailored applications, LinkedIn outreach, candidate funnel sizes, salary signals, job-title alignment, and acceptable tenure patterns. <br><br> Listen to gain actionable tips for resumes, portfolios, interviews, and working effectively with recruiters to increase your chances of landing a data scientist role"
 topics:
 - data science
 - career growth

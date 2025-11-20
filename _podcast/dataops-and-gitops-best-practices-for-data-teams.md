@@ -1,6 +1,6 @@
 ---
-title: 'DataOps & GitOps for Data Teams: Onboarding, IaC, Reproducibility & Production Best Practices'
-short: From Data Science to DataOps
+title: "DataOps & GitOps for Data Teams: Onboarding, IaC, Reproducibility & Production Best Practices"
+short: "From Data Science to DataOps"
 season: 11
 episode: 3
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/6jLgdl59sVCdVNJezdIqJY?si=NXasnXtFQVO0KAcCFbvUtQ
   youtube: https://www.youtube.com/watch?v=lem7knxqNzg
 
-description: Master DataOps, GitOps and IaC best practices for reproducibility, onboarding and production reliability — actionable Git workflows, Terraform, Docker tips
-intro: How do you make data work less fragile and easier to onboard while keeping production safe and reproducible? In this episode, Tomasz Hinc, a DataOps practitioner from Poznań with roots in econometrics, product analytics, data engineering and ML, walks through practical DataOps and GitOps patterns for data teams. We cover platform onboarding (requesting infra vs. merge requests), Infrastructure as Code with Terraform, Terragrunt and Atlantis, and a GitOps workflow from branch to Atlantis dry-run and apply. Tomasz explains reproducibility strategies—fixed versions, Docker, dependency management—and common production pitfalls like silent failures and Airflow caveats. You’ll hear about reducing onboarding friction for data scientists, the minimal operational skills every data role benefits from (Git, CLI, IAM), and platform team responsibilities for review, enablement and proactive support. If you’re focused on Infrastructure as Code, GitOps, reproducible pipelines, or practical production best practices for batch workloads and CI migrations, this episode delivers hands-on advice, learning paths and tooling choices to make your data work faster, safer and more maintainable
+description: "Master DataOps, GitOps and IaC best practices for reproducibility, onboarding and production reliability — actionable Git workflows, Terraform, Docker tips"
+intro: "How do you make data work less fragile and easier to onboard while keeping production safe and reproducible? In this episode, Tomasz Hinc, a DataOps practitioner from Poznań with roots in econometrics, product analytics, data engineering and ML, walks through practical DataOps and GitOps patterns for data teams. We cover platform onboarding (requesting infra vs. merge requests), Infrastructure as Code with Terraform, Terragrunt and Atlantis, and a GitOps workflow from branch to Atlantis dry-run and apply. Tomasz explains reproducibility strategies—fixed versions, Docker, dependency management—and common production pitfalls like silent failures and Airflow caveats. You’ll hear about reducing onboarding friction for data scientists, the minimal operational skills every data role benefits from (Git, CLI, IAM), and platform team responsibilities for review, enablement and proactive support. If you’re focused on Infrastructure as Code, GitOps, reproducible pipelines, or practical production best practices for batch workloads and CI migrations, this episode delivers hands-on advice, learning paths and tooling choices to make your data work faster, safer and more maintainable"
 topics:
 - DataOps
 - GitOps

@@ -1,6 +1,6 @@
 ---
-title: 'Land Junior Data Jobs: CVs, Interviews, Transferable Skills & Overcome Imposter Syndrome'
-short: Career Coaching
+title: "Land Junior Data Jobs: CVs, Interviews, Transferable Skills & Overcome Imposter Syndrome"
+short: "Career Coaching"
 season: 7
 episode: 4
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3jMRuqU3ZEcSeoizuOU5q1
   youtube: https://www.youtube.com/watch?v=_U8GrYJvmJM
 
-description: 'Master landing junior data jobs: craft achievement-based CVs, highlight transferable skills, ace interviews and beat imposter syndrome with coach tips.'
-intro: Struggling to land a junior data job—how do you turn non-linear experience into a recruiter-ready CV, prepare for interviews, and push past imposter syndrome? In this episode, Lindsay McQuade, a transformational coach with 20+ years across management consulting, higher education and tech and former Senior Career & Development Coach at SPICED Academy, guides listeners through practical steps for junior data roles. Lindsay draws on her work designing programs for hundreds of learners (SPICED training rated 94% “very good/excellent”) to explain CV writing for data roles, achievement-based resumes, interview prep and negotiation. Topics include reframing past experience into evidence, identifying transferable skills for data analyst/scientist/engineer roles, tailoring applications by industry, the ikigai framework for career focus, and Berlin’s junior data market trends. We also cover impostor syndrome—its triggers, objective feedback strategies, and structured learning and T-shaped skills to build confidence. Tune in for clear job search strategy (balanced volume and targeted applications), how to choose a career coach, and practical LinkedIn networking tips to convert applications into interviews
+description: "Master landing junior data jobs: craft achievement-based CVs, highlight transferable skills, ace interviews and beat imposter syndrome with coach tips."
+intro: "Struggling to land a junior data job—how do you turn non-linear experience into a recruiter-ready CV, prepare for interviews, and push past imposter syndrome? In this episode, Lindsay McQuade, a transformational coach with 20+ years across management consulting, higher education and tech and former Senior Career & Development Coach at SPICED Academy, guides listeners through practical steps for junior data roles. Lindsay draws on her work designing programs for hundreds of learners (SPICED training rated 94% “very good/excellent”) to explain CV writing for data roles, achievement-based resumes, interview prep and negotiation. Topics include reframing past experience into evidence, identifying transferable skills for data analyst/scientist/engineer roles, tailoring applications by industry, the ikigai framework for career focus, and Berlin’s junior data market trends. We also cover impostor syndrome—its triggers, objective feedback strategies, and structured learning and T-shaped skills to build confidence. Tune in for clear job search strategy (balanced volume and targeted applications), how to choose a career coach, and practical LinkedIn networking tips to convert applications into interviews"
 topics:
 - career growth
 dateadded: 2022-02-12

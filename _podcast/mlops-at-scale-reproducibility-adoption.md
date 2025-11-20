@@ -1,6 +1,6 @@
 ---
-title: 'MLOps at Scale: CI/CD, Reproducibility, Model Monitoring & Adoption Strategies'
-short: MLOps as a Team
+title: "MLOps at Scale: CI/CD, Reproducibility, Model Monitoring & Adoption Strategies"
+short: "MLOps as a Team"
 season: 19
 episode: 4
 guests:
@@ -14,24 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/mlops-as-a-team-rapha%C3%ABl-hoogvliets/id1541710331?i=1000676238840
   spotify: https://open.spotify.com/episode/0Dl372MFGvN0zDa1YQx7oe?si=eCy-a4fkRtOaEe21-KDHXQ
   youtube: https://youtube.com/watch?v=rMq63r3zi4c
-description: Learn MLOps CI/CD and model monitoring to scale reliable deployments,
-  accelerate delivery, ensure reproducibility, and drive model adoption in production.
-intro: 'How do you run MLOps at scale so models stay deployed, reproducible, and actually
-  adopted? In this episode Raphaël Hoogvliets—who leads a 12-engineer team at Eneco
-  and brings a career arc from agriculture into data science and MLOps—walks through
-  practical approaches for CI/CD for ML, reproducibility, model monitoring, and adoption
-  strategy. <br><br> We cover the core trade-offs between speed and robustness, design
-  choices for long-term maintainability, and the team coordination needed to scale
-  ML: evangelists, tech translators, and technical leads. Raphaël explains why a centralized
-  MLOps platform team often works as an enabling layer, how MLOps should support product
-  teams, and how to drive adoption through iteration, feedback loops, and developer
-  experience. You’ll hear concrete practices—CI, repo structure, parameterization,
-  testing—plus reproducibility tactics like data versioning, traceability, and experiment
-  capture. We also discuss KPIs (deployment frequency and impact tracking), skill
-  mix, dependency management, container strategies, and real success and failure stories.
-  <br><br> Listen to learn actionable priorities for getting started (start with CI/CD
-  and solve tangible pain points), and how to measure and sustain model value through
-  monitoring and operational processes.'
+description: "Learn MLOps CI/CD and model monitoring to scale reliable deployments, accelerate delivery, ensure reproducibility, and drive model adoption in production."
+topics:
+- MLOps
+- data science
+- machine learning
+- tools
+- data governance
+intro: "How do you run MLOps at scale so models stay deployed, reproducible, and actually adopted? In this episode Raphaël Hoogvliets—who leads a 12-engineer team at Eneco and brings a career arc from agriculture into data science and MLOps—walks through practical approaches for CI/CD for ML, reproducibility, model monitoring, and adoption strategy. <br><br> We cover the core trade-offs between speed and robustness, design choices for long-term maintainability, and the team coordination needed to scale ML: evangelists, tech translators, and technical leads. Raphaël explains why a centralized MLOps platform team often works as an enabling layer, how MLOps should support product teams, and how to drive adoption through iteration, feedback loops, and developer experience. You’ll hear concrete practices—CI, repo structure, parameterization, testing—plus reproducibility tactics like data versioning, traceability, and experiment capture. We also discuss KPIs (deployment frequency and impact tracking), skill mix, dependency management, container strategies, and real success and failure stories. <br><br> Listen to learn actionable priorities for getting started (start with CI/CD and solve tangible pain points), and how to measure and sustain model value through monitoring and operational processes."
 dateadded: 2024-11-16
 duration: PT01H04M07S
 quotableClips:

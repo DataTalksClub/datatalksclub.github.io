@@ -1,6 +1,6 @@
 ---
-title: 'Remote Data Engineering Life: Building IoT Platforms, Career Transitions & Newsletter-Driven Personal Growth'
-short: Mastering Data Engineering as a Remote Worker
+title: "Remote Data Engineering Life: Building IoT Platforms, Career Transitions & Newsletter-Driven Personal Growth"
+short: "Mastering Data Engineering as a Remote Worker"
 season: 15
 episode: 5
 guests:
@@ -15,7 +15,7 @@ links:
   spotify: https://open.spotify.com/episode/2RLxjkPbUO3FBfFpKPHzls?si=TVveHW7PQcW7yGbOyJsJpg
   youtube: https://www.youtube.com/watch?v=UX7UShEioKc
 
-description: 'Navigate remote data engineering after relocation: IoT platform architecture, sensor onboarding workflows, and newsletter-driven personal branding for career growth.'
+description: "Navigate remote data engineering after relocation: IoT platform architecture, sensor onboarding workflows, and newsletter-driven personal branding for career growth."
 intro: "What does it take to thrive as a remote data engineer — building IoT platforms, navigating international career moves, and leveraging writing for professional growth? In this episode, José María Sánchez Salas — a computer scientist turned data engineer and newsletter author — shares his journey from Spain to Norway and the realities of remote IoT platform work. <br><br> We explore the daily life of remote data engineering: work routines, wellness strategies, and Norway's unique hiring landscape with geographic constraints around Oslo, Bergen, and Trondheim. José breaks down IoT platform engineering fundamentals — treating platforms as an 'operating system' for sensors, sensor onboarding workflows, real-time data processing, and solving common IoT challenges like remote diagnostics and business context integration. The conversation covers data exploration patterns, ETL pipeline design, stakeholder communication, and how José uses his newsletter as both a learning tool and career advancement strategy — translating complex technical work for broader audiences and building professional visibility. You'll get actionable insights on job searching across borders, data engineering learning paths, remote work legal considerations, and communication skills that matter for distributed teams. Listen to discover practical approaches for IoT system design, remote team management, and using content creation to accelerate your data engineering career."
 topics:
 - data engineering

@@ -1,6 +1,6 @@
 ---
-title: 'Practical Algorithms for Engineers: Bloom Filters, Approximate Nearest-Neighbor & Performance'
-short: Mastering Algorithms and Data Structures
+title: "Practical Algorithms for Engineers: Bloom Filters, Approximate Nearest-Neighbor & Performance"
+short: "Mastering Algorithms and Data Structures"
 season: 5
 episode: 1
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/5IM2Des1sjVIwrvB3dGoJN
   apple: https://podcasts.apple.com/us/podcast/mastering-algorithms-and-data-structures-marcello-la/id1541710331?i=1000534241523
 
-description: Learn Bloom filters, approximate nearest-neighbor and performance tuning to gain memory-efficient containment, fast vector search and practical profiling tips
-intro: How do engineers choose and implement the right algorithm for memory, latency, and scale? In this episode, Marcello La Rocca — senior software engineer at Tundra.com and author of Algorithms and Data Structures in Action, with experience at Twitter, Microsoft and Apple — walks through practical algorithmic solutions engineers can actually use in production. We focus on Bloom filters for memory-efficient containment checks (and real-world uses like crawlers, routing tables, and adtech device-ID targeting), and on approximate nearest-neighbour (ANN) strategies when KD-trees break down for high-dimensional data — covering R-trees, SS-trees, vector similarity, embeddings and Faiss. Along the way Marcello discusses core data structures, profiling and performance pitfalls, abstraction vs implementation trade-offs, cross-language serialization, and language performance choices (Python vs C++ and Cython). If you want actionable guidance — including when to trust libraries versus inspect internals, practical code in Java/JavaScript/Python, and study resources to get hands-on — this episode gives concrete patterns, trade-offs, and examples you can apply to improve search, recommendation, and large-scale systems performance
+description: "Learn Bloom filters, approximate nearest-neighbor and performance tuning to gain memory-efficient containment, fast vector search and practical profiling tips"
+intro: "How do engineers choose and implement the right algorithm for memory, latency, and scale? In this episode, Marcello La Rocca — senior software engineer at Tundra.com and author of Algorithms and Data Structures in Action, with experience at Twitter, Microsoft and Apple — walks through practical algorithmic solutions engineers can actually use in production. We focus on Bloom filters for memory-efficient containment checks (and real-world uses like crawlers, routing tables, and adtech device-ID targeting), and on approximate nearest-neighbour (ANN) strategies when KD-trees break down for high-dimensional data — covering R-trees, SS-trees, vector similarity, embeddings and Faiss. Along the way Marcello discusses core data structures, profiling and performance pitfalls, abstraction vs implementation trade-offs, cross-language serialization, and language performance choices (Python vs C++ and Cython). If you want actionable guidance — including when to trust libraries versus inspect internals, practical code in Java/JavaScript/Python, and study resources to get hands-on — this episode gives concrete patterns, trade-offs, and examples you can apply to improve search, recommendation, and large-scale systems performance"
 topics:
 - algorithms
 - data structures

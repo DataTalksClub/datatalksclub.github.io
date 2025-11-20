@@ -1,7 +1,6 @@
 ---
-title: 'Hardening Generative AI Chatbots: Prevent Prompt Injection, Data Exfiltration
-  & Hallucinations'
-short: 'AI in Industry: Trust, Return on Investment and Future'
+title: "Hardening Generative AI Chatbots: Prevent Prompt Injection, Data Exfiltration & Hallucinations"
+short: "AI in Industry: Trust, Return on Investment and Future"
 season: 19
 episode: 6
 guests:
@@ -15,23 +14,16 @@ links:
   apple: https://podcasts.apple.com/us/podcast/ai-in-industry-trust-return-on-investment-and-future/id1541710331?i=1000679505962
   spotify: https://open.spotify.com/episode/5GOBabz65IRmiMow8FYbr5?si=a99463e34ffb48f1
   youtube: https://www.youtube.com/watch?v=bT7-HRNCltk
-description: Learn to harden generative AI chatbots against prompt injection and data
-  exfiltration—defenses, detection, and techniques to reduce hallucinations.
-intro: How do you harden generative AI chatbots against prompt injection, data exfiltration,
-  and dangerous hallucinations? In this episode Maria Sukhareva — a principal key
-  expert in AI at Siemens with 15+ years working at the intersection of linguistics
-  and computational AI — walks through real-world risks, attack findings, and practical
-  defenses for chatbot security. <br><br> We trace Maria’s path from linguist to industry
-  expert and her role advising on technology and risk, then dive into a large-scale
-  chatbot hacking exercise and the common failures that lead to legal exposure and
-  financial incidents. Key topics include prompt injection and knowledge-base exfiltration
-  techniques, hallucination causes and their impact on trust, and mitigations such
-  as output validation, query analysis, layered defenses, and the use of non-LLM classifiers.
-  We also cover human-in-the-loop workflows, AI-as-assistant moderation tools, and
-  prompt customization for controlled machine translation. <br><br> If you’re building
-  or deploying generative AI systems, this episode offers practical, production-focused
-  guidance on chatbot security, AI safety, and improving accuracy and trust in deployed
-  models.
+description: "Learn to harden generative AI chatbots against prompt injection and data exfiltration—defenses, detection, and techniques to reduce hallucinations."
+topics:
+- AI
+- LLMs
+- NLP
+- MLOps
+- production
+- AI red teaming
+- security
+intro: "How do you harden generative AI chatbots against prompt injection, data exfiltration, and dangerous hallucinations? In this episode Maria Sukhareva — a principal key expert in AI at Siemens with 15+ years working at the intersection of linguistics and computational AI — walks through real-world risks, attack findings, and practical defenses for chatbot security. <br><br> We trace Maria’s path from linguist to industry expert and her role advising on technology and risk, then dive into a large-scale chatbot hacking exercise and the common failures that lead to legal exposure and financial incidents. Key topics include prompt injection and knowledge-base exfiltration techniques, hallucination causes and their impact on trust, and mitigations such as output validation, query analysis, layered defenses, and the use of non-LLM classifiers. We also cover human-in-the-loop workflows, AI-as-assistant moderation tools, and prompt customization for controlled machine translation. <br><br> If you’re building or deploying generative AI systems, this episode offers practical, production-focused guidance on chatbot security, AI safety, and improving accuracy and trust in deployed models."
 dateadded: 2024-12-17
 duration: PT00H59M53S
 quotableClips:
@@ -48,7 +40,7 @@ quotableClips:
   startOffset: 251
   url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=251
   endOffset: 342
-- name: 'Democratization of Generative AI: Rise of Prompting and New "AI Experts"'
+- name: 'Democratization of Generative AI: Rise of Prompting and New "AI Experts"
   startOffset: 342
   url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=342
   endOffset: 568
@@ -197,7 +189,7 @@ transcript:
   sec: 328
   time: '5:28'
   who: Alexey
-- header: 'Democratization of Generative AI: Rise of Prompting and New "AI Experts"'
+- header: 'Democratization of Generative AI: Rise of Prompting and New "AI Experts"
 - line: Exactly. AI has become very accessible. Previously, being an AI expert required
     coding skills. Now, simply knowing how to use a keyboard and craft prompts can
     position someone as a "prompt engineer" or even an AI expert.

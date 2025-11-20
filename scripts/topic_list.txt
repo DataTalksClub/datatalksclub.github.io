@@ -1,0 +1,52 @@
+AI
+DataOps
+LLMs
+MLOps
+NLP
+agent engineering
+astroinformatics
+autonomous driving
+bayesian statistics
+bioinformatics
+career development
+career growth
+career transition
+communication
+computer vision
+consulting
+data analytics
+data engineering
+data governance
+data science
+data strategy
+developer relations
+embeddings
+embeddings & vector databases
+entrepreneurship
+finops
+fraud detection
+freelance
+graph ML
+graph databases
+information retrieval
+job search
+knowledge graphs
+leadership
+machine learning
+mcmc and sampling algorithms
+mentoring
+modern data stack
+open-source
+practices
+probabilistic programming
+product management
+production
+remote sensing
+remote work
+retrieval-augmented generation
+retrieval-augmented generation (RAG)
+software engineering
+startups
+team building
+tools
+vector databases

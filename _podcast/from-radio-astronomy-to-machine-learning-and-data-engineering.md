@@ -1,7 +1,6 @@
 ---
-title: 'From Radio Astronomy to Applied ML: MEERKAT Data Pipelines, Multi-Wavelength
-  Cross-Matching & Production-Grade ML Systems'
-short: From Astronomy to Applied ML
+title: "From Radio Astronomy to Applied ML: MEERKAT Data Pipelines, Multi-Wavelength Cross-Matching & Production-Grade ML Systems"
+short: "From Astronomy to Applied ML"
 season: 21
 episode: 5
 guests:
@@ -15,23 +14,16 @@ links:
   apple: https://podcasts.apple.com/us/podcast/from-astronomy-to-applied-ml-daniel-egbo/id1541710331?i=1000728601772
   spotify: https://open.spotify.com/episode/0hV7d1zSKO7ykGDZxjXyJ8
   youtube: https://www.youtube.com/watch?v=b92gwrsVQtg
-description: 'Discover MEERKAT radio astronomy pipelines and machine learning: build
-  production ML, master multi-wavelength cross-match, accelerate discovery.'
-intro: How do you transform raw radio astronomy observations into reliable, production-grade
-  machine learning systems that enable multi-wavelength science? In this episode we
-  talk with Daniel Egbo — an astrophysicist turned machine learning engineer and AI
-  ambassador (Arize, Tavily) and PhD candidate at the University of Cape Town — about
-  bridging radio astronomy and applied ML. Daniel explains the challenges of working
-  with MEERKAT data pipelines, strategies for multi-wavelength cross-matching, and
-  the engineering practices needed to take models from research to production. <br><br>
-  You’ll hear about end-to-end ML and LLM applications with an emphasis on reliability,
-  practical evaluation, and knowledge-retrieval assistants, plus how data science
-  techniques apply to astronomy workflows. Whether you’re building pipelines for radio
-  telescopes, tackling cross-matching across optical and radio catalogs, or aiming
-  to deploy robust production-grade ML systems, this episode offers concrete perspectives
-  on data handling, evaluation, and operationalizing models in scientific contexts.
-  Listen to gain actionable insights for integrating astrophysical datasets with modern
-  ML tooling and improving model reliability in real-world deployments.
+description: "Discover MEERKAT radio astronomy pipelines and machine learning: build production ML, master multi-wavelength cross-match, accelerate discovery."
+topics:
+- astroinformatics
+- MLOps
+- LLMs
+- data engineering
+- machine learning
+- academia
+- career transition
+intro: "How do you transform raw radio astronomy observations into reliable, production-grade machine learning systems that enable multi-wavelength science? In this episode we talk with Daniel Egbo — an astrophysicist turned machine learning engineer and AI ambassador (Arize, Tavily) and PhD candidate at the University of Cape Town — about bridging radio astronomy and applied ML. Daniel explains the challenges of working with MEERKAT data pipelines, strategies for multi-wavelength cross-matching, and the engineering practices needed to take models from research to production. <br><br> You’ll hear about end-to-end ML and LLM applications with an emphasis on reliability, practical evaluation, and knowledge-retrieval assistants, plus how data science techniques apply to astronomy workflows. Whether you’re building pipelines for radio telescopes, tackling cross-matching across optical and radio catalogs, or aiming to deploy robust production-grade ML systems, this episode offers concrete perspectives on data handling, evaluation, and operationalizing models in scientific contexts. Listen to gain actionable insights for integrating astrophysical datasets with modern ML tooling and improving model reliability in real-world deployments."
 dateadded: 2025-09-30
 duration: PT01H04M35S
 quotableClips:

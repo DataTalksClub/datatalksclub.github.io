@@ -1,6 +1,6 @@
 ---
-title: 'LLM Value Creation: GPT Communities, Business Use Cases & Human-in-the-Loop AI Applications'
-short: The Good, the Bad and the Ugly of GPT
+title: "LLM Value Creation: GPT Communities, Business Use Cases & Human-in-the-Loop AI Applications"
+short: "The Good, the Bad and the Ugly of GPT"
 season: 15
 episode: 4
 guests:

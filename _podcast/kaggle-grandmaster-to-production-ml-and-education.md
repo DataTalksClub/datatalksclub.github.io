@@ -1,7 +1,6 @@
 ---
-title: 'From Kaggle Grandmaster to Production ML: Competition Rigor, System Design
-  & Large-Scale Education'
-short: Competitive Machine Learning and Teaching
+title: "From Kaggle Grandmaster to Production ML: Competition Rigor, System Design & Large-Scale Education"
+short: "Competitive Machine Learning and Teaching"
 season: 20
 episode: 2
 guests:
@@ -15,24 +14,16 @@ links:
   apple: https://podcasts.apple.com/us/podcast/competitive-machine-leaning-and-teaching-alexander/id1541710331?i=1000692309866
   spotify: https://open.spotify.com/episode/6xsov9a1US8D8w5xKcjkNm
   youtube: https://www.youtube.com/watch?v=NfAJAr7FvyY&t
-description: Discover Production ML, system design, and competition rigor from a Kaggle
-  Grandmaster—practical deployment tactics, model scaling tips, and education strategies
-intro: How do you take the rigor and creativity that wins Kaggle competitions and
-  turn it into reliable, maintainable production ML? In this episode we explore that
-  question with Alexander Guschin — a Machine Learning Engineer with 10+ years of
-  experience, a Kaggle Grandmaster ranked 5th globally, a leader of DS and SE teams,
-  contributor to open-source ML tools, and instructor to 100K+ students. <br><br>
-  Alexander breaks down the differences between competition modeling and production
-  constraints, practical approaches to system design for machine learning, and lessons
-  for scaling education and teams around technical content. Key topics include competition
-  rigor versus maintainability, production ML and model deployment considerations,
-  designing ML systems at scale, leveraging open-source tooling, and approaches to
-  teaching complex ML concepts to large audiences. <br><br> Listeners will come away
-  with actionable perspective on translating research and contest solutions into production-ready
-  pipelines, questions to ask when designing ML systems, and guidance on building
-  reproducible workflows and scalable learning programs. Ideal for machine learning
-  engineers, technical leaders, and educators focused on production ML, MLOps, and
-  large-scale education.
+description: "Discover Production ML, system design, and competition rigor from a Kaggle Grandmaster—practical deployment tactics, model scaling tips, and education strategies."
+topics:
+- machine learning
+- MLOps
+- data science
+- open-source
+- tools
+- teaching
+- career transition
+intro: "How do you take the rigor and creativity that wins Kaggle competitions and turn it into reliable, maintainable production ML? In this episode we explore that question with Alexander Guschin — a Machine Learning Engineer with 10+ years of experience, a Kaggle Grandmaster ranked 5th globally, a leader of DS and SE teams, contributor to open-source ML tools, and instructor to 100K+ students. <br><br> Alexander breaks down the differences between competition modeling and production constraints, practical approaches to system design for machine learning, and lessons for scaling education and teams around technical content. Key topics include competition rigor versus maintainability, production ML and model deployment considerations, designing ML systems at scale, leveraging open-source tooling, and approaches to teaching complex ML concepts to large audiences. <br><br> Listeners will come away with actionable perspective on translating research and contest solutions into production-ready pipelines, questions to ask when designing ML systems, and guidance on building reproducible workflows and scalable learning programs. Ideal for machine learning engineers, technical leaders, and educators focused on production ML, MLOps, and large-scale education."
 dateadded: 2025-02-26
 duration: PT01H05M09S
 quotableClips:

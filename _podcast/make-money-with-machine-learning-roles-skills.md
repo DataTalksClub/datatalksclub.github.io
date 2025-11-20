@@ -1,6 +1,6 @@
 ---
-title: 'Monetize Machine Learning: Convert Models to ARR/MRR with ML Product & MLOps Strategy'
-short: New Roles and Key Skills to Monetize Machine Learning
+title: "Monetize Machine Learning: Convert Models to ARR/MRR with ML Product & MLOps Strategy"
+short: "New Roles and Key Skills to Monetize Machine Learning"
 season: 2
 episode: 9
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/5u2WuUB8GBNE9qDsNR6mby
   apple: https://podcasts.apple.com/us/podcast/new-roles-key-skills-to-monetize-machine-learning-vin/id1541710331?i=1000512720281
 
-description: 'Master monetize machine learning: convert ML models into ARR/MRR using MLOps and team roles to drive revenue, adoption and measurable business impact.'
-intro: How do you turn machine learning models into recurring revenue—ARR and MRR—rather than just a cost center? In this episode, Vin Vashishta, an applied ML practitioner and engineer strategist who has brought products to market with ARR in the $100’s of millions, breaks down practical steps to monetize machine learning. <br><br> We explore why a revenue-first mindset changes ML strategy, how to translate models into C-suite metrics like ARR/MRR, and when to prioritize revenue versus cost-savings. Vin outlines the three core team roles for monetization, the research artifacts and experimental process that make models production-ready, and real category-creation examples from companies such as Amazon, Google, and Stitch Fix. For startups he explains the “angry users + data scientists” product recipe. <br><br> You’ll also get frameworks for ML product management—turning strategy into researchable use cases—plus guidance on architecture, MLOps tradeoffs, pricing strategy, model reliability, and product metrics for adoption (usage, task time, decision quality, pricing impact). This episode delivers actionable guidance for leaders, product managers, and engineers seeking to convert ML into sustainable ARR and MRR
+description: "Master monetize machine learning: convert ML models into ARR/MRR using MLOps and team roles to drive revenue, adoption and measurable business impact."
+intro: "How do you turn machine learning models into recurring revenue—ARR and MRR—rather than just a cost center? In this episode, Vin Vashishta, an applied ML practitioner and engineer strategist who has brought products to market with ARR in the $100’s of millions, breaks down practical steps to monetize machine learning. <br><br> We explore why a revenue-first mindset changes ML strategy, how to translate models into C-suite metrics like ARR/MRR, and when to prioritize revenue versus cost-savings. Vin outlines the three core team roles for monetization, the research artifacts and experimental process that make models production-ready, and real category-creation examples from companies such as Amazon, Google, and Stitch Fix. For startups he explains the “angry users + data scientists” product recipe. <br><br> You’ll also get frameworks for ML product management—turning strategy into researchable use cases—plus guidance on architecture, MLOps tradeoffs, pricing strategy, model reliability, and product metrics for adoption (usage, task time, decision quality, pricing impact). This episode delivers actionable guidance for leaders, product managers, and engineers seeking to convert ML into sustainable ARR and MRR"
 topics:
 - machine learning
 - monetization

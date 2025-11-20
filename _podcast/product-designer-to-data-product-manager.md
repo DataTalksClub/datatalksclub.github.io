@@ -1,6 +1,6 @@
 ---
-title: 'How to Transition from Design to Data Product Manager: SQL, Customer Discovery & Data Quality'
-short: Becoming a Data Product Manager
+title: "How to Transition from Design to Data Product Manager: SQL, Customer Discovery & Data Quality"
+short: "Becoming a Data Product Manager"
 season: 6
 episode: 4
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3NZhd5kgQFpGckyxTQH9bF
   apple: https://podcasts.apple.com/us/podcast/becoming-a-data-product-manager-sara-menefee/id1541710331?i=1000543165093
 
-description: 'Learn to transition from product design to Data Product Manager: master SQL, customer discovery, build a portfolio and lead analytics products.'
-intro: 'How do you move from product design into a data product manager role — and which technical and discovery skills will make that transition practical and persuasive? Sara Menefee, a product manager at Meroxa and former product designer at Sora, Checkr, Change.org, and Zendesk, walks through her path and the concrete steps designers can take to become data-focused PMs. <br><br> This episode covers customer discovery and hypothesis formation, SQL and data engineering fundamentals, and the operational realities of data product management: data quality, PII/compliance, and the data lifecycle from sources to warehouses and apps. Sara explains how design thinking and PM–designer collaboration inform discovery and prioritization, and lays out a transition strategy that emphasizes networking, on-the-job learning, mentorship, and a portfolio built around case-study structure (problem, research, solution, outcome). You’ll also hear practical workflows — standups, analytics, customer development interviews — plus documentation-first practices (PRDs, knowledge bases), resource recommendations (including Reforge), and where ML and data science fit into the PM role. <br><br> Listen for actionable steps, portfolio guidance, and the technical literacy (SQL, documentation, data curiosity) you''ll need to move from design to data product manager.'
+description: "Learn to transition from product design to Data Product Manager: master SQL, customer discovery, build a portfolio and lead analytics products."
+intro: "How do you move from product design into a data product manager role — and which technical and discovery skills will make that transition practical and persuasive? Sara Menefee, a product manager at Meroxa and former product designer at Sora, Checkr, Change.org, and Zendesk, walks through her path and the concrete steps designers can take to become data-focused PMs. <br><br> This episode covers customer discovery and hypothesis formation, SQL and data engineering fundamentals, and the operational realities of data product management: data quality, PII/compliance, and the data lifecycle from sources to warehouses and apps. Sara explains how design thinking and PM–designer collaboration inform discovery and prioritization, and lays out a transition strategy that emphasizes networking, on-the-job learning, mentorship, and a portfolio built around case-study structure (problem, research, solution, outcome). You’ll also hear practical workflows — standups, analytics, customer development interviews — plus documentation-first practices (PRDs, knowledge bases), resource recommendations (including Reforge), and where ML and data science fit into the PM role. <br><br> Listen for actionable steps, portfolio guidance, and the technical literacy (SQL, documentation, data curiosity) you''ll need to move from design to data product manager."
 topics:
 - career transition
 - product design

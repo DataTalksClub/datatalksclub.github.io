@@ -1,6 +1,6 @@
 ---
-title: 'Solopreneur Guide: Diversify Income with Courses, Consulting, Books & Side-Gigs'
-short: 'Solopreneur Guide: Diversify Income with Courses, Consulting, Books & Side-Gigs'
+title: "Solopreneur Guide: Diversify Income with Courses, Consulting, Books & Side-Gigs"
+short: "Solopreneur Guide: Diversify Income with Courses, Consulting, Books & Side-Gigs"
 season: 6
 episode: 1
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/264kr8rkSV71NwlU3kphHm
   apple: https://podcasts.apple.com/us/podcast/becoming-a-solopreneur-in-data-noah-gift/id1541710331?i=1000540908616
 
-description: Discover solopreneur tactics to build a side-gig tunnel, diversify income mix with courses, teaching and consulting, and quit corporate on your terms
-intro: How do you build a sustainable solopreneur business that doesn't rely on VC funding—while diversifying income across courses, consulting, books, and side-gigs? In this episode, Noah Gift, founder of Pragmatic AI Labs and a lecturer on machine learning and data science at Northwestern, Duke MIDS, UC Berkeley, UC Davis, and UNC Charlotte, walks through his transition to solo work (since 2017) and a repeatable income mix for intentional small-business ownership. <br><br> We cover defining solopreneurship, the practical income mix formula (online courses, university teaching, selective consulting, book publishing, apps, real estate, and investments) plus how to build a side-gig tunnel while employed. Noah shares work allocation strategies (exponential projects vs. consulting), publishing trade-offs, a book workflow (outline -> projects -> write), daily routines, time-and-cost tactics, and signals for financial readiness to quit full-time work. <br><br> If you're planning to diversify income streams with online courses, consulting, or writing, this episode gives actionable steps, publishing considerations, and networking advice to help you transition deliberately and scale revenue without sacrificing control
+description: "Discover solopreneur tactics to build a side-gig tunnel, diversify income mix with courses, teaching and consulting, and quit corporate on your terms"
+intro: "How do you build a sustainable solopreneur business that doesn't rely on VC funding—while diversifying income across courses, consulting, books, and side-gigs? In this episode, Noah Gift, founder of Pragmatic AI Labs and a lecturer on machine learning and data science at Northwestern, Duke MIDS, UC Berkeley, UC Davis, and UNC Charlotte, walks through his transition to solo work (since 2017) and a repeatable income mix for intentional small-business ownership. <br><br> We cover defining solopreneurship, the practical income mix formula (online courses, university teaching, selective consulting, book publishing, apps, real estate, and investments) plus how to build a side-gig tunnel while employed. Noah shares work allocation strategies (exponential projects vs. consulting), publishing trade-offs, a book workflow (outline -> projects -> write), daily routines, time-and-cost tactics, and signals for financial readiness to quit full-time work. <br><br> If you're planning to diversify income streams with online courses, consulting, or writing, this episode gives actionable steps, publishing considerations, and networking advice to help you transition deliberately and scale revenue without sacrificing control"
 topics:
 - solopreneurship
 - entrepreneurship

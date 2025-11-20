@@ -1,7 +1,6 @@
 ---
-title: 'From Game AI to LLM Agents: 20-Year Evolution of Multi-Agent Systems, Evolutionary
-  Algorithms & Modern AI Tooling'
-short: Lessons from Two Decades of AI
+title: "From Game AI to LLM Agents: 20-Year Evolution of Multi-Agent Systems, Evolutionary Algorithms & Modern AI Tooling"
+short: "Lessons from Two Decades of AI"
 season: 21
 episode: 7
 guests:
@@ -15,24 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/lessons-from-two-decades-of-ai-micheal-lanham/id1541710331?i=1000728604349
   spotify: https://open.spotify.com/episode/7uhe5ZysRi07S6mb14nnox
   youtube: https://www.youtube.com/watch?v=DSxqUlumM3A
-description: Discover 20 years of Game AI, Evolutionary Algorithms, and LLM agents—practical
-  AI tooling, architecture tips, and faster deployment for real projects.
-intro: How did techniques born in game AI become the foundation for today's LLM-driven
-  agents, and what practical lessons does that 20-year evolution offer to engineers
-  and researchers? In this episode, AI engineer and best-selling author Micheal Lanham
-  walks through the lineage from game AI and multi-agent systems to modern LLM agents,
-  evolutionary algorithms, and contemporary AI tooling. <br><br> Micheal brings hands-on
-  experience across games, graphics, GIS, enterprise software, and machine learning,
-  and is the author of Evolutionary Deep Learning, Hands-On Reinforcement Learning
-  for Games, and AI Agents in Action. He discusses how deep reinforcement learning,
-  evolutionary methods, and generative AI intersect to build intelligent systems,
-  and how industry practices from oil and gas to fintech shaped tooling and architectures
-  for multi-agent systems. <br><br> Listeners will come away with a clearer view of
-  the technical continuity between game AI and current agent design, practical considerations
-  when applying evolutionary algorithms and reinforcement learning, and what modern
-  AI tooling enables for deploying LLM agents. This episode is useful for AI practitioners,
-  game developers, and anyone interested in the evolution of multi-agent systems,
-  evolutionary algorithms, and agent-based AI.
+description: "Discover 20 years of Game AI, Evolutionary Algorithms, and LLM agents—practical AI tooling, architecture tips, and faster deployment for real projects."
+topics:
+- LLMs
+- AI
+- machine learning
+- MLOps
+- software engineering
+intro: "How did techniques born in game AI become the foundation for today's LLM-driven agents, and what practical lessons does that 20-year evolution offer to engineers and researchers? In this episode, AI engineer and best-selling author Micheal Lanham walks through the lineage from game AI and multi-agent systems to modern LLM agents, evolutionary algorithms, and contemporary AI tooling. <br><br> Micheal brings hands-on experience across games, graphics, GIS, enterprise software, and machine learning, and is the author of Evolutionary Deep Learning, Hands-On Reinforcement Learning for Games, and AI Agents in Action. He discusses how deep reinforcement learning, evolutionary methods, and generative AI intersect to build intelligent systems, and how industry practices from oil and gas to fintech shaped tooling and architectures for multi-agent systems. <br><br> Listeners will come away with a clearer view of the technical continuity between game AI and current agent design, practical considerations when applying evolutionary algorithms and reinforcement learning, and what modern AI tooling enables for deploying LLM agents. This episode is useful for AI practitioners, game developers, and anyone interested in the evolution of multi-agent systems, evolutionary algorithms, and agent-based AI."
 dateadded: 2025-10-01
 duration: PT01H48S
 quotableClips:

@@ -1,6 +1,6 @@
 ---
-title: 'AI Product Design: Algorithm-Ready UX, Rapid Experiments & Data-Driven Roadmaps'
-short: Innovation and Design for Machine Learning
+title: "AI Product Design: Algorithm-Ready UX, Rapid Experiments & Data-Driven Roadmaps"
+short: "Innovation and Design for Machine Learning"
 season: 8
 episode: 3
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/4vhTQJ6Aj9z5VHm9UsHspv
   youtube: https://www.youtube.com/watch?v=tcqBfZw41FM
 
-description: 'Master AI product design: build algorithm-ready UX, run rapid experiments and craft data-driven roadmaps to prioritize innovation and ship measurable results.'
-intro: How do you design products that are “algorithm-ready” while running rapid experiments and building data-driven roadmaps? In this episode, Liesbeth Dingemans—strategy and AI leader, founder of Dingemans Consulting, former VP of Revenue at Source.ag and Head of AI Strategy at Prosus—walks through pragmatic approaches to AI product design that bridge vision and execution. <br><br> We cover algorithm-friendly UX and signal collection, a concrete interaction-design case study comparing TikTok and Instagram signals, and the Double Diamond framework for moving from problem framing to solution exploration. Liesbeth explains scoping and prioritization, parallel experiments and proofs of concept, one-week design sprints, appropriate timeframes for research-to-scale, and the role of designers, data scientists, engineers and product managers in shaping AI roadmaps. <br><br> Listeners will learn how to avoid rework by involving data science early, use scoping documents to challenge assumptions, create measurable experiments (the Task Force/“Jet Ski” model), and build data-driven pitches for long-term bets versus quarterly OKRs. Tune in for concrete frameworks and practices to make AI product design, rapid experiments, and data-driven roadmaps work in your organization
+description: "Master AI product design: build algorithm-ready UX, run rapid experiments and craft data-driven roadmaps to prioritize innovation and ship measurable results."
+intro: "How do you design products that are “algorithm-ready” while running rapid experiments and building data-driven roadmaps? In this episode, Liesbeth Dingemans—strategy and AI leader, founder of Dingemans Consulting, former VP of Revenue at Source.ag and Head of AI Strategy at Prosus—walks through pragmatic approaches to AI product design that bridge vision and execution. <br><br> We cover algorithm-friendly UX and signal collection, a concrete interaction-design case study comparing TikTok and Instagram signals, and the Double Diamond framework for moving from problem framing to solution exploration. Liesbeth explains scoping and prioritization, parallel experiments and proofs of concept, one-week design sprints, appropriate timeframes for research-to-scale, and the role of designers, data scientists, engineers and product managers in shaping AI roadmaps. <br><br> Listeners will learn how to avoid rework by involving data science early, use scoping documents to challenge assumptions, create measurable experiments (the Task Force/“Jet Ski” model), and build data-driven pitches for long-term bets versus quarterly OKRs. Tune in for concrete frameworks and practices to make AI product design, rapid experiments, and data-driven roadmaps work in your organization"
 topics:
 - machine learning
 - design thinking
@@ -88,7 +88,7 @@ quotableClips:
   startOffset: 1698
   url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1698
   endOffset: 1864
-- name: 'Scoping Documents: Challenging Assumptions with "Why"'
+- name: 'Scoping Documents: Challenging Assumptions with "Why"
   startOffset: 1864
   url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1864
   endOffset: 2005
@@ -688,7 +688,7 @@ transcript:
   sec: 1817
   time: '30:17'
   who: Liesbeth
-- header: 'Scoping Documents: Challenging Assumptions with "Why"'
+- header: 'Scoping Documents: Challenging Assumptions with "Why"
 - line: 'Let''s imagine we have this situation: a manager comes to me, or to the team,
     or to the product manager and says, “Hey, this is the problem we think we have.
     Let''s solve it with a neural network.” So how do we challenge that person? How

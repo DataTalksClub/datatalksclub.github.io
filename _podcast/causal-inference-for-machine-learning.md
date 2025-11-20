@@ -1,6 +1,6 @@
 ---
-title: 'Causal Inference for Real-World ML: Uplift Modeling, Counterfactuals, Treatment Effects & LLM Integration'
-short: Democratizing Causality
+title: "Causal Inference for Real-World ML: Uplift Modeling, Counterfactuals, Treatment Effects & LLM Integration"
+short: "Democratizing Causality"
 season: 15
 episode: 6
 guests:

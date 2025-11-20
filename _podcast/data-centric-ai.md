@@ -1,6 +1,6 @@
 ---
-title: 'Data-Centric AI: Improve Label Quality & Edit Datasets to Boost Model Performance'
-short: Data-Centric AI
+title: "Data-Centric AI: Improve Label Quality & Edit Datasets to Boost Model Performance"
+short: "Data-Centric AI"
 season: 12
 episode: 3
 guests:
@@ -15,8 +15,14 @@ links:
   spotify: https://open.spotify.com/episode/6q1yago5iyMt8OmCX1abG3?si=-OaRAwjaRfOfyQ7_QZEbBw
   youtube: https://www.youtube.com/watch?v=t3HDdVWQzNM
 
-description: Discover Data-Centric AI tactics to improve label quality and edit datasets to boost model performance, practical workflows, relabeling, augmentation tips
-intro: How much can improving label quality and editing your dataset actually boost model performance? In this episode, Marysia Winkels — Lead Data Scientist at GoDataDriven with a Master’s in Artificial Intelligence and a focus on data-efficient deep learning, and co-organizer of PyData Amsterdam/Global — walks through a practical, data-centric approach to that question. <br><br> We cover why shifting from “more data” to “better data” matters, especially for transfer learning and fine-tuning, and contrast model-centric vs data-centric workflows. Marysia breaks down a data-centric competition that used a fixed ResNet with an editable dataset, strategies for targeted relabeling using model confidence and embeddings, lightweight data versioning and low-tech tooling (Google Sheets + scripts), and when to use synthetic augmentation versus manual fixes. You’ll also hear about validation-split integrity, detecting dataset gaps with UMAP, acceptance criteria for real-world contexts, shadow-mode rollouts, and the trade-offs of automating dataset repairs. <br><br> Listen to learn concrete workflows and heuristics to prioritize impactful data fixes, improve label quality, and make dataset edits that measurably increase model performance. Find additional resources at marysia.nl and PyData
+description: "Discover Data-Centric AI tactics to improve label quality and edit datasets to boost model performance, practical workflows, relabeling, augmentation tips"
+topics:
+- machine learning
+- data science
+- MLOps
+- tools
+- data governance
+intro: "How much can improving label quality and editing your dataset actually boost model performance? In this episode, Marysia Winkels — Lead Data Scientist at GoDataDriven with a Master’s in Artificial Intelligence and a focus on data-efficient deep learning, and co-organizer of PyData Amsterdam/Global — walks through a practical, data-centric approach to that question. <br><br> We cover why shifting from “more data” to “better data” matters, especially for transfer learning and fine-tuning, and contrast model-centric vs data-centric workflows. Marysia breaks down a data-centric competition that used a fixed ResNet with an editable dataset, strategies for targeted relabeling using model confidence and embeddings, lightweight data versioning and low-tech tooling (Google Sheets + scripts), and when to use synthetic augmentation versus manual fixes. You’ll also hear about validation-split integrity, detecting dataset gaps with UMAP, acceptance criteria for real-world contexts, shadow-mode rollouts, and the trade-offs of automating dataset repairs. <br><br> Listen to learn concrete workflows and heuristics to prioritize impactful data fixes, improve label quality, and make dataset edits that measurably increase model performance. Find additional resources at marysia.nl and PyData"
 dateadded: 2023-01-07
 
 duration: PT00H57M34S

@@ -1,7 +1,6 @@
 ---
-title: 'DataOps for Data Engineering: Automation, Observability, CI/CD & Reliable
-  ML Deployments'
-short: DataOps, Observability, and The Cure for Data Team Blues
+title: "DataOps for Data Engineering: Automation, Observability, CI/CD & Reliable ML Deployments"
+short: "DataOps, Observability, and The Cure for Data Team Blues"
 season: 18
 episode: 9
 guests:
@@ -15,24 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/dataops-observability-and-the-cure-for-data-team/id1541710331?i=1000665429770
   spotify: https://open.spotify.com/episode/02VoOk5UkMcvfq7VkSOegb
   youtube: https://www.youtube.com/watch?v=HzGpIxV8HtA
-description: Master DataOps, data engineering, and CI/CD to deploy reliable ML, cut
-  cycle time, reduce rework, and build production-ready tests for on-call readiness.
-intro: How do you transform fragile data pipelines and unreliable ML deployments into
-  automated, observable, production-ready systems? In this episode Christopher Bergh,
-  CEO of DataKitchen and co-author of the DataOps Cookbook and DataOps Manifesto,
-  walks through practical DataOps for data engineering—drawing on 25+ years across
-  research, software engineering, and analytics. <br><br> We trace his career from
-  pre-cloud SQL Server scaling challenges to early DevOps lessons, then dig into what
-  DataOps means for teams facing burnout, deployment fear, and inconsistent processes.
-  Key topics include automation, observability, CI/CD pipelines, regression tests
-  and test data for analytics, model reliability and on-call readiness, end-to-end
-  deployment automation, data versioning, and the differences between containers and
-  serverless. The episode also clarifies MLOps and LLM buzzwords, explores day-one/day-two/day-three
-  operational lifecycle practices, and outlines concrete steps to reduce rework and
-  cycle time. <br><br> If you’re a data engineer, data scientist, or engineering leader
-  looking to improve analytics delivery, this conversation offers actionable guidance
-  on implementing DataOps practices — automation, monitoring, CI/CD, and culture changes
-  — to make ML deployments more reliable and repeatable.
+description: "Master DataOps, data engineering, and CI/CD to deploy reliable ML, cut cycle time, reduce rework, and build production-ready tests for on-call readiness."
+topics:
+- DataOps
+- MLOps
+- data engineering
+- production
+- practices
+intro: "How do you transform fragile data pipelines and unreliable ML deployments into automated, observable, production-ready systems? In this episode Christopher Bergh, CEO of DataKitchen and co-author of the DataOps Cookbook and DataOps Manifesto, walks through practical DataOps for data engineering—drawing on 25+ years across research, software engineering, and analytics. <br><br> We trace his career from pre-cloud SQL Server scaling challenges to early DevOps lessons, then dig into what DataOps means for teams facing burnout, deployment fear, and inconsistent processes. Key topics include automation, observability, CI/CD pipelines, regression tests and test data for analytics, model reliability and on-call readiness, end-to-end deployment automation, data versioning, and the differences between containers and serverless. The episode also clarifies MLOps and LLM buzzwords, explores day-one/day-two/day-three operational lifecycle practices, and outlines concrete steps to reduce rework and cycle time. <br><br> If you’re a data engineer, data scientist, or engineering leader looking to improve analytics delivery, this conversation offers actionable guidance on implementing DataOps practices — automation, monitoring, CI/CD, and culture changes — to make ML deployments more reliable and repeatable."
 dateadded: 2024-09-04
 duration: PT01H01M55S
 quotableClips:

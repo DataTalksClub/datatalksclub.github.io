@@ -1,7 +1,6 @@
 ---
-title: 'Mindful Data Strategy for Business Impact: Wabi-Sabi Approach, Data Trust
-  & Maintenance-Innovation Balance'
-short: 'Mindful Data Strategy: From Pipelines to Business Impact'
+title: "Mindful Data Strategy for Business Impact: Wabi-Sabi Approach, Data Trust & Maintenance-Innovation Balance"
+short: "Mindful Data Strategy: From Pipelines to Business Impact"
 season: 21
 episode: 2
 guests:
@@ -15,23 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/how-to-rebuild-data-trust-mindful-data-strategy-and/id1541710331?i=1000722107501
   spotify: https://open.spotify.com/episode/54B0xvUI1eQjXW0s1eqgbI
   youtube: https://www.youtube.com/watch?v=B76J4QkZPWs
-description: 'Discover a mindful data strategy to build data trust and balance maintenance-innovation
-  with a Wabi-Sabi approach: practical tactics to boost business impact.'
-intro: How do you build a data strategy that drives business impact without chasing
-  perfection? In this episode Lior Barak — author of Data Is Like a Plate of Hummus,
-  co-host of the WHAT the Data?! podcast, and founder of Tale About Data — explores
-  a mindful data strategy that accepts imperfection, prioritizes data trust, and balances
-  maintenance with innovation. <br><br> Lior draws on 12+ years building data teams
-  and helping organizations use data for growth, with a particular focus on practical
-  strategies for non-business functions. Key topics include the Wabi-Sabi approach
-  to data (valuing usable, imperfect datasets), establishing data trust and governance,
-  and how to allocate resources between ongoing data maintenance and forward-looking
-  innovation. The conversation also touches on setting realistic expectations, reducing
-  technical debt, and aligning data work to measurable business outcomes. <br><br>
-  If you’re responsible for data strategy, analytics, or data product decisions, this
-  episode provides concrete perspectives on building resilient, impact-driven data
-  practices—helping you prioritize work that increases trust, lowers risk, and creates
-  sustained business value.
+description: "Discover a mindful data strategy to build data trust and balance maintenance-innovation with a Wabi-Sabi approach: practical tactics to boost business impact."
+topics:
+- data strategy
+- data governance
+- data engineering
+- product management
+- career transition
+intro: "How do you build a data strategy that drives business impact without chasing perfection? In this episode Lior Barak — author of Data Is Like a Plate of Hummus, co-host of the WHAT the Data?! podcast, and founder of Tale About Data — explores a mindful data strategy that accepts imperfection, prioritizes data trust, and balances maintenance with innovation. <br><br> Lior draws on 12+ years building data teams and helping organizations use data for growth, with a particular focus on practical strategies for non-business functions. Key topics include the Wabi-Sabi approach to data (valuing usable, imperfect datasets), establishing data trust and governance, and how to allocate resources between ongoing data maintenance and forward-looking innovation. The conversation also touches on setting realistic expectations, reducing technical debt, and aligning data work to measurable business outcomes. <br><br> If you’re responsible for data strategy, analytics, or data product decisions, this episode provides concrete perspectives on building resilient, impact-driven data practices—helping you prioritize work that increases trust, lowers risk, and creates sustained business value."
 dateadded: 2025-08-18
 duration: PT01H06M05S
 quotableClips:

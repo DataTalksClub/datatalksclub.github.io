@@ -1,6 +1,6 @@
 ---
-title: 'Feature Stores for MLOps: Real-Time Feature Engineering, Feast & Tecton Guide'
-short: Feature Stores in MLOps Explained
+title: "Feature Stores for MLOps: Real-Time Feature Engineering, Feast & Tecton Guide"
+short: "Feature Stores in MLOps Explained"
 season: 2
 episode: 5
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/05YnfTWbplXwOwicR2doy3
   apple: https://podcasts.apple.com/us/podcast/feature-stores-cutting-through-the-hype-willem-pienaar/id1541710331?i=1000508782957
 
-description: Discover feature store use cases, real-time features with Feast & Tecton, build scalable MLOps to speed production, cut duplication and detect drift
-intro: How do you reliably build and serve real-time features for production ML without rework, duplication, or training/serving skew? In this episode, Willem Pienaar — engineering lead at Tecton and creator of Feast — walks through what feature stores solve in MLOps and how they enable real-time feature engineering. We define feature stores, compare feature creation vs retrieval (SQL, Python, APIs, on-demand transforms), and illustrate a production real-time fraud detection lookup. Willem separates hype from value, explains organizational challenges like team silos and speed to production, and outlines the platform role across materialization, serving, and validation. <br><br> You’ll get practical coverage of Feast (open-source) and Tecton (enterprise), architecture components (transform engine, storage, serving, registry, monitoring), and when online tabular use cases require a feature store versus when it’s overkill. The episode also covers integrations (dbt, Kubeflow, Airflow), streaming vs batch (Flink, Spark), validation and monitoring (drift detection, Great Expectations, TFDV), backfilling strategies, ownership and governance, and getting started resources (feast.dev, Docker). Listen to learn when to adopt a feature store and concrete next steps for productionizing features in your MLOps stack
+description: "Discover feature store use cases, real-time features with Feast & Tecton, build scalable MLOps to speed production, cut duplication and detect drift"
+intro: "How do you reliably build and serve real-time features for production ML without rework, duplication, or training/serving skew? In this episode, Willem Pienaar — engineering lead at Tecton and creator of Feast — walks through what feature stores solve in MLOps and how they enable real-time feature engineering. We define feature stores, compare feature creation vs retrieval (SQL, Python, APIs, on-demand transforms), and illustrate a production real-time fraud detection lookup. Willem separates hype from value, explains organizational challenges like team silos and speed to production, and outlines the platform role across materialization, serving, and validation. <br><br> You’ll get practical coverage of Feast (open-source) and Tecton (enterprise), architecture components (transform engine, storage, serving, registry, monitoring), and when online tabular use cases require a feature store versus when it’s overkill. The episode also covers integrations (dbt, Kubeflow, Airflow), streaming vs batch (Flink, Spark), validation and monitoring (drift detection, Great Expectations, TFDV), backfilling strategies, ownership and governance, and getting started resources (feast.dev, Docker). Listen to learn when to adopt a feature store and concrete next steps for productionizing features in your MLOps stack"
 topics:
 - machine learning
 - MLOps

@@ -1,6 +1,6 @@
 ---
-title: 'DevRel for Data Science: Build Community, Create Content, and Grow Your Career'
-short: Developer Advocacy for Data Science
+title: "DevRel for Data Science: Build Community, Create Content, and Grow Your Career"
+short: "Developer Advocacy for Data Science"
 season: 2
 episode: 2
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/6Hq0ZGPTkDk1h8orfCU78I
   apple: https://podcasts.apple.com/us/podcast/developer-advocacy-for-data-science-elle-obrien/id1541710331?i=1000506315396
 
-description: 'Discover DevRel tactics for Data Science: community growth, reproducibility, and content strategy—practical metrics, safety practices, and career growth tips.'
-intro: How do you practice developer relations for data science while balancing reproducibility, community growth, and content strategy? In this episode, Elle O’Brien — a data scientist at Iterative (working on DVC and CML) and a lecturer at the University of Michigan with a PhD in neuroscience and computational modeling from UW — walks through practical DevRel for data-focused tools and teaching. <br><br> We cover her shift from a viral StyleGAN project into DevRel, the scope of a solo developer advocate (product work, docs, PRs, videos, hiring), and how she prioritizes releases versus evergreen content. Elle shares promotion tactics (Hacker News, Reddit, social), approaches to community safety and moderation, and the emotional realities of online work. She explains community metrics, role distinctions between DevRel/advocate/evangelist, and core skills like technical credibility and rapid learning. We also dig into content strategy for teaching—curriculum design, reusable video content, recording lectures as open educational resources, and practical ways to get started blogging and building a developer portfolio. <br><br> Listen to gain actionable guidance on community growth, reproducibility best practices, content planning, and the trade-offs of DevRel work in open source data science
+description: "Discover DevRel tactics for Data Science: community growth, reproducibility, and content strategy—practical metrics, safety practices, and career growth tips."
+intro: "How do you practice developer relations for data science while balancing reproducibility, community growth, and content strategy? In this episode, Elle O’Brien — a data scientist at Iterative (working on DVC and CML) and a lecturer at the University of Michigan with a PhD in neuroscience and computational modeling from UW — walks through practical DevRel for data-focused tools and teaching. <br><br> We cover her shift from a viral StyleGAN project into DevRel, the scope of a solo developer advocate (product work, docs, PRs, videos, hiring), and how she prioritizes releases versus evergreen content. Elle shares promotion tactics (Hacker News, Reddit, social), approaches to community safety and moderation, and the emotional realities of online work. She explains community metrics, role distinctions between DevRel/advocate/evangelist, and core skills like technical credibility and rapid learning. We also dig into content strategy for teaching—curriculum design, reusable video content, recording lectures as open educational resources, and practical ways to get started blogging and building a developer portfolio. <br><br> Listen to gain actionable guidance on community growth, reproducibility best practices, content planning, and the trade-offs of DevRel work in open source data science"
 topics:
 - developer relations
 - data science

@@ -1,6 +1,6 @@
 ---
-title: Data Science for Public Policy — Ethical AI, Climate Justice & Impact Projects
-short: Data Science for Social Impact
+title: "Data Science for Public Policy — Ethical AI, Climate Justice & Impact Projects"
+short: "Data Science for Social Impact"
 season: 10
 episode: 1
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/7fzBhDrfVfylnBLCJGwUHC?si=3b03d59083804346
   youtube: https://www.youtube.com/watch?v=xWC1HAfekRk
 
-description: 'Learn data science for public policy: ethical AI, climate justice & impact project strategies, career tips and actionable project design for social good.'
-intro: How can data science meaningfully shape public policy without becoming a tech-first solution or creating new ethical harms? In this episode, Christine Cepelak, a writer and researcher of tech and social issues who’s studying Data Science for Public Policy and has years of experience managing social programs, walks through the practical realities of data science for public policy. We cover career paths and sector differences, a community organizing case study on electronics recycling, and real-world use cases like drone computer vision for refugee aid and rooftop sustainability. Christine digs into ethical AI concerns — including the EU AI Act and social scoring risks — plus project design for long-term impact, stakeholder collaboration with NGOs, and building data pipelines amid limited IT infrastructure. Listeners will also hear about public data gaps (recycling programs, corporate transparency), research applications such as satellite imagery for poverty estimation, and future priorities like climate justice and gender equality. Tune in to get concrete guidance on starting volunteer impact projects, where demand for impact data scientists lies, and how to design responsible, policy-driven data work
+description: "Learn data science for public policy: ethical AI, climate justice & impact project strategies, career tips and actionable project design for social good."
+intro: "How can data science meaningfully shape public policy without becoming a tech-first solution or creating new ethical harms? In this episode, Christine Cepelak, a writer and researcher of tech and social issues who’s studying Data Science for Public Policy and has years of experience managing social programs, walks through the practical realities of data science for public policy. We cover career paths and sector differences, a community organizing case study on electronics recycling, and real-world use cases like drone computer vision for refugee aid and rooftop sustainability. Christine digs into ethical AI concerns — including the EU AI Act and social scoring risks — plus project design for long-term impact, stakeholder collaboration with NGOs, and building data pipelines amid limited IT infrastructure. Listeners will also hear about public data gaps (recycling programs, corporate transparency), research applications such as satellite imagery for poverty estimation, and future priorities like climate justice and gender equality. Tune in to get concrete guidance on starting volunteer impact projects, where demand for impact data scientists lies, and how to design responsible, policy-driven data work"
 topics:
 - data science
 - public policy

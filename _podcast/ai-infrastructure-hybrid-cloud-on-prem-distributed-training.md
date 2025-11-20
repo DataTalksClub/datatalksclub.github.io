@@ -1,7 +1,6 @@
 ---
-title: 'Post-ChatGPT AI Infrastructure: Open Source Orchestration, On-Prem Economics
-  & Distributed Training at Scale'
-short: Trends in AI Infrastructure
+title: "Post-ChatGPT AI Infrastructure: Open Source Orchestration, On-Prem Economics & Distributed Training at Scale"
+short: "Trends in AI Infrastructure"
 season: 20
 episode: 1
 guests:
@@ -15,24 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/redefining-ai-infrastructure-open-source-chips-and/id1541710331?i=1000687565459
   spotify: https://open.spotify.com/episode/5MIc1pAXPxVYSr0E4pndU4
   youtube: https://www.youtube.com/watch?v=1aMuynlLM3o
-description: 'Discover AI infrastructure strategies: open source orchestration, on-prem
-  economics and distributed training at scale to cut costs, boost performance and
-  control.'
-intro: How has the rise of ChatGPT reshaped the infrastructure needed to build and
-  run large language models, and when does open source orchestration make sense compared
-  to cloud or proprietary systems? In this episode we speak with Andrey Cheptsov,
-  founder and CEO of dstack — an open-source alternative to Kubernetes and Slurm designed
-  to simplify AI infrastructure orchestration. Drawing on his decade-plus at JetBrains
-  building developer tools, Andrey frames practical trade-offs between on-prem economics
-  and cloud spend, the maturity of open source orchestration tools, and patterns for
-  distributed training at scale. We cover core topics including open source orchestration
-  for AI workloads, cost and operational considerations for on-prem deployments, and
-  strategies to scale distributed training efficiently and reliably. Listen to understand
-  when an open source approach like dstack is appropriate, what to evaluate in orchestration
-  tools, and how to balance performance, cost, and control as you scale AI projects
-  post-ChatGPT. This episode is for engineering leaders and ML infrastructure teams
-  seeking actionable insights on AI infrastructure, orchestration tools, on-prem economics,
-  and distributed training best practices.
+description: "Discover AI infrastructure strategies: open source orchestration, on-prem   economics and distributed training at scale to cut costs, boost performance and control."
+topics:
+- AI infrastructure
+- MLOps
+- LLMs
+- open-source
+- tools
+intro: "How has the rise of ChatGPT reshaped the infrastructure needed to build and run large language models, and when does open source orchestration make sense compared to cloud or proprietary systems? In this episode we speak with Andrey Cheptsov, founder and CEO of dstack — an open-source alternative to Kubernetes and Slurm designed to simplify AI infrastructure orchestration. Drawing on his decade-plus at JetBrains building developer tools, Andrey frames practical trade-offs between on-prem economics and cloud spend, the maturity of open source orchestration tools, and patterns for distributed training at scale. We cover core topics including open source orchestration for AI workloads, cost and operational considerations for on-prem deployments, and strategies to scale distributed training efficiently and reliably. Listen to understand when an open source approach like dstack is appropriate, what to evaluate in orchestration tools, and how to balance performance, cost, and control as you scale AI projects post-ChatGPT. This episode is for engineering leaders and ML infrastructure teams seeking actionable insights on AI infrastructure, orchestration tools, on-prem economics, and distributed training best practices."
 dateadded: 2025-02-26
 duration: PT01H06M04S
 quotableClips:

@@ -1,6 +1,6 @@
 ---
-title: 'Master Machine Learning & Data Science Interviews: Recruiter-Proven Stages, Prep & Resources'
-short: Master Machine Learning & Data Science Interviews
+title: "Master Machine Learning & Data Science Interviews: Recruiter-Proven Stages, Prep & Resources"
+short: "Master Machine Learning & Data Science Interviews"
 season: 12
 episode: 6
 guests:
@@ -15,7 +15,7 @@ links:
   spotify: https://open.spotify.com/episode/3JAmnWie8pS58Kok9Sjr2V?si=FDpX4O74Qi2kqzMGumqMpw
   youtube: https://www.youtube.com/watch?v=NnZjlMowkWA
 
-intro: How do you reliably prepare for ML and data science technical interviews — from the initial recruiter screen to coding and scenario-based rounds? In this episode Luke Whipps, co-founder of Neural.AI and host of the AI Game Changer podcast, draws on 8+ years recruiting data scientists and AI professionals to lay out recruiter-proven interview stages and practical prep tactics. <br><br> Luke walks through the full interview lifecycle — Stage Zero recruiter screening and role-fit filtering, the intro interview for relationship building, and the technical rounds that include binary, scenario, example, and coding components. He explains how to research interviewers, craft elevator pitches and STAR stories, and align expectations with recruiters so you prepare to the right depth. You’ll learn how to prioritize fundamentals before secondary skills, use question-flow strategies to probe deeper, and balance theory versus practical math in machine learning interviews. <br><br> The episode also covers recovering from failed interviews, targeted internal applications and outreach, and concrete practice resources like LeetCode, HackerRank, Codeforces, and Educative. If you’re preparing for ML technical interviews or data science interviews, this episode gives recruiter-led structure, concrete prep priorities, and resource recommendations to maximize your chances in each interview stage
+intro: "How do you reliably prepare for ML and data science technical interviews — from the initial recruiter screen to coding and scenario-based rounds? In this episode Luke Whipps, co-founder of Neural.AI and host of the AI Game Changer podcast, draws on 8+ years recruiting data scientists and AI professionals to lay out recruiter-proven interview stages and practical prep tactics. <br><br> Luke walks through the full interview lifecycle — Stage Zero recruiter screening and role-fit filtering, the intro interview for relationship building, and the technical rounds that include binary, scenario, example, and coding components. He explains how to research interviewers, craft elevator pitches and STAR stories, and align expectations with recruiters so you prepare to the right depth. You’ll learn how to prioritize fundamentals before secondary skills, use question-flow strategies to probe deeper, and balance theory versus practical math in machine learning interviews. <br><br> The episode also covers recovering from failed interviews, targeted internal applications and outreach, and concrete practice resources like LeetCode, HackerRank, Codeforces, and Educative. If you’re preparing for ML technical interviews or data science interviews, this episode gives recruiter-led structure, concrete prep priorities, and resource recommendations to maximize your chances in each interview stage"
 topics:
 - job search
 - career growth

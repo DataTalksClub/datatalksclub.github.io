@@ -1,6 +1,6 @@
 ---
-title: 'Product Analytics & A/B Testing: Causality, Metrics, Power Analysis, A/A Tests'
-short: A/B Testing
+title: "Product Analytics & A/B Testing: Causality, Metrics, Power Analysis, A/A Tests"
+short: "A/B Testing"
 season: 7
 episode: 6
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3LhBOO1UANCGbOwkntZt4j
   youtube: https://www.youtube.com/watch?v=0Gqx1LtqRZU
 
-description: 'Master product analytics, A/B testing & power analysis: design stable metrics, validate randomization with A/A tests, plan sample size to de-risk features.'
-intro: How do you design product experiments that truly establish causality and avoid costly false conclusions? In this episode, Jakob Graff — Director of Data Science and Data Analytics at diconium, with prior analytics leadership at Inkitt, Babbel, King and a background in econometrics — walks through practical product analytics and A/B testing strategies focused on causality and reliable metrics. <br><br> We cover why randomized experiments mirror clinical trials, how experimentation de-risks features and builds organizational learning, and a concrete case study on subscription vs. points revenue metric design. Jakob explains experimentation platform trade-offs (third-party vs. in-house), traffic splitters, assignment tracking, and why A/A tests validate system trust. You’ll hear best practices for first tests (two-group simplicity), metric selection considering noise and seasonality, and how to plan duration with power analysis and sample-size calculations. The discussion also compares z/t/nonparametric tests, p-value intuition from A/A comparisons, frequentist vs Bayesian perspectives, and multi-armed test considerations. <br><br> Listen to learn practical steps for designing randomized experiments, selecting stable metrics, planning sample sizes, and interpreting results so your product analytics and A/B testing produce actionable, causal insights
+description: "Master product analytics, A/B testing & power analysis: design stable metrics, validate randomization with A/A tests, plan sample size to de-risk features."
+intro: "How do you design product experiments that truly establish causality and avoid costly false conclusions? In this episode, Jakob Graff — Director of Data Science and Data Analytics at diconium, with prior analytics leadership at Inkitt, Babbel, King and a background in econometrics — walks through practical product analytics and A/B testing strategies focused on causality and reliable metrics. <br><br> We cover why randomized experiments mirror clinical trials, how experimentation de-risks features and builds organizational learning, and a concrete case study on subscription vs. points revenue metric design. Jakob explains experimentation platform trade-offs (third-party vs. in-house), traffic splitters, assignment tracking, and why A/A tests validate system trust. You’ll hear best practices for first tests (two-group simplicity), metric selection considering noise and seasonality, and how to plan duration with power analysis and sample-size calculations. The discussion also compares z/t/nonparametric tests, p-value intuition from A/A comparisons, frequentist vs Bayesian perspectives, and multi-armed test considerations. <br><br> Listen to learn practical steps for designing randomized experiments, selecting stable metrics, planning sample sizes, and interpreting results so your product analytics and A/B testing produce actionable, causal insights"
 topics:
 - data science
 - practices

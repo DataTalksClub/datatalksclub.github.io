@@ -1,7 +1,6 @@
 ---
-title: 'Building Healthcare ML Systems: From Sepsis Prediction to Low-Resource Clinical
-  Deployment'
-short: Bridging Data Science and Healthcare
+title: "Building Healthcare ML Systems: From Sepsis Prediction to Low-Resource Clinical Deployment"
+short: "Bridging Data Science and Healthcare"
 season: 16
 episode: 2
 guests:
@@ -15,24 +14,15 @@ links:
   apple: https://podcasts.apple.com/us/podcast/bridging-data-science-and-healthcare-eleni-stamatelou/id1541710331?i=1000632040444
   spotify: https://open.spotify.com/episode/5W6lfZVhjIKEmVzBuexfzE?si=0nUHr66eQa6oPVJDb3d0rw
   youtube: https://www.youtube.com/watch?v=pDOwlulDh0c
-description: Learn to build reliable healthcare ML systems for sepsis prediction and
-  low-resource clinical deployment—improve patient outcomes, scalability, and trust.
-intro: 'How do you build machine learning systems that can predict sepsis and actually
-  work in low-resource clinical settings? In this episode Eleni Stamatelou, a machine
-  learning researcher and educator focused on using data science to improve healthcare,
-  walks through the technical and practical steps of turning models into deployed
-  clinical tools. With expertise in signal processing, deep learning, and data-driven
-  design, Eleni frames the core challenges of healthcare ML: data quality and preprocessing,
-  model reliability for sepsis prediction, and the constraints of low-resource deployment.
-  <br><br> We cover key topics including designing robust models for noisy clinical
-  signals, evaluation and validation strategies suited to patient safety, and pragmatic
-  considerations for integrating ML into clinical workflows with limited infrastructure.
-  Listeners will gain actionable insights on bridging research and practice—how to
-  prioritize features, manage trade-offs between complexity and reliability, and make
-  deployment decisions that respect resource limitations. <br><br> If you work on
-  machine learning in healthcare, clinical AI, or sepsis prediction, this episode
-  provides concrete perspectives on building systems that are both scientifically
-  sound and practically deployable in low-resource environments.'
+description: "Learn to build reliable healthcare ML systems for sepsis prediction and low-resource clinical deployment—improve patient outcomes, scalability, and trust."
+topics:
+- machine learning
+- data science
+- MLOps
+- data engineering
+- data governance
+- healthcare
+intro: "How do you build machine learning systems that can predict sepsis and actually work in low-resource clinical settings? In this episode Eleni Stamatelou, a machine learning researcher and educator focused on using data science to improve healthcare, walks through the technical and practical steps of turning models into deployed clinical tools. With expertise in signal processing, deep learning, and data-driven design, Eleni frames the core challenges of healthcare ML: data quality and preprocessing, model reliability for sepsis prediction, and the constraints of low-resource deployment. <br><br> We cover key topics including designing robust models for noisy clinical signals, evaluation and validation strategies suited to patient safety, and pragmatic considerations for integrating ML into clinical workflows with limited infrastructure. Listeners will gain actionable insights on bridging research and practice—how to prioritize features, manage trade-offs between complexity and reliability, and make deployment decisions that respect resource limitations. <br><br> If you work on machine learning in healthcare, clinical AI, or sepsis prediction, this episode provides concrete perspectives on building systems that are both scientifically sound and practically deployable in low-resource environments."
 dateadded: 2023-10-23
 duration: PT00H59M01S
 quotableClips:

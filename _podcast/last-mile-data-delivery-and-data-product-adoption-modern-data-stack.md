@@ -1,6 +1,6 @@
 ---
-title: 'Last-Mile Data Delivery for the Modern Data Stack: Build Data Products to Boost Adoption'
-short: Conquering the Last Mile in Data
+title: "Last-Mile Data Delivery for the Modern Data Stack: Build Data Products to Boost Adoption"
+short: "Conquering the Last Mile in Data"
 season: 5
 episode: 8
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/6SGjBev8koFDRpDvLV76ZQ
   apple: https://podcasts.apple.com/us/podcast/conquering-the-last-mile-in-data-caitlin-moorman/id1541710331?i=1000539421886
 
-description: Learn last-mile data delivery, build data products for the modern data stack, boost adoption, embed analytics in decisions, and prove measurable ROI
-intro: 'How do you turn a powerful modern data stack into analytics people actually use? In this episode, Caitlin Moorman, VP of Data and Business Operations at Trove Recommerce and former data lead in crowdfunding and self-publishing, walks through the last-mile data delivery challenges that block adoption and offers practical approaches to build data products that drive decisions. <br><br> We define the “last mile” in data delivery and contrast modern data stack capabilities with last-mile execution gaps, then dive into concrete tactics: Pareto thinking for analytics (80/20), treating data as a product, user research to diagnose poor adoption, and simplifying A/B testing reporting for decision-makers. Caitlin outlines a product-design mindset—outcome-first projects, persona-driven abstractions, low-fidelity prototyping, and embedding metrics in meetings—to prove impact and build advocacy. She also covers cultural barriers, measuring hard-to-track work with proxies, scoping narrow slices, recruiting advocates, and using growth marketing as an early use case. <br><br> Listen to learn actionable frameworks and experiments you can use to improve data adoption, design usable data products, and measure tangible wins that create momentum in your organization.'
+description: "Learn last-mile data delivery, build data products for the modern data stack, boost adoption, embed analytics in decisions, and prove measurable ROI"
+intro: "How do you turn a powerful modern data stack into analytics people actually use? In this episode, Caitlin Moorman, VP of Data and Business Operations at Trove Recommerce and former data lead in crowdfunding and self-publishing, walks through the last-mile data delivery challenges that block adoption and offers practical approaches to build data products that drive decisions. <br><br> We define the “last mile” in data delivery and contrast modern data stack capabilities with last-mile execution gaps, then dive into concrete tactics: Pareto thinking for analytics (80/20), treating data as a product, user research to diagnose poor adoption, and simplifying A/B testing reporting for decision-makers. Caitlin outlines a product-design mindset—outcome-first projects, persona-driven abstractions, low-fidelity prototyping, and embedding metrics in meetings—to prove impact and build advocacy. She also covers cultural barriers, measuring hard-to-track work with proxies, scoping narrow slices, recruiting advocates, and using growth marketing as an early use case. <br><br> Listen to learn actionable frameworks and experiments you can use to improve data adoption, design usable data products, and measure tangible wins that create momentum in your organization."
 topics:
 - data analytics
 - tools

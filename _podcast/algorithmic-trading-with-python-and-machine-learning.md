@@ -1,6 +1,6 @@
 ---
-title: 'Algorithmic Trading with Python: Backtesting, Risk Management and Deployment'
-short: Stock Market Analysis with Python and Machine Learning
+title: "Algorithmic Trading with Python: Backtesting, Risk Management and Deployment"
+short: "Stock Market Analysis with Python and Machine Learning"
 season: 17
 episode: 3
 guests:
@@ -14,24 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/stock-market-analysis-with-python-and-machine/id1541710331?i=1000641465239
   spotify: https://open.spotify.com/episode/1ZXAeGr4Kx7F6oLQUip8Cc?si=KJwpYL-3SvuX8nPdc2cyOg
   youtube: https://www.youtube.com/watch?v=NThHAEIazFk
-description: 'Master algorithmic trading: backtesting and risk management—learn practical
-  data sources, features, models & execution to build robust strategies.'
-intro: How do you turn a trading idea into a robust, risk-managed algorithm in Python?
-  In this episode Ivan Brigida — analytics lead behind PythonInvest with 10+ years
-  in statistical modeling, forecasting, econometrics and finance — walks through practical
-  steps for algorithmic trading with Python, from data sourcing to deployment (and
-  a clear reminder this is educational, not investment advice). <br><br> We cover
-  where retail traders get market data (Yahoo, Quandl, Polygon), OHLCV and adjusted-close
-  nuances, and a concrete mean-reversion example. Ivan explains backtesting methodology,
-  common pitfalls like time-series data leakage, and walk-forward simulation for realistic
-  validation. He breaks down risk management (stop-loss thresholds, position sizing),
-  execution and trading fees, plus evaluation metrics (ROI, precision) and defining
-  prediction targets (binary growth thresholds such as 5%). <br><br> On the modeling
-  side you’ll hear practical feature engineering (time-window stats, handcrafted indicators),
-  model choices (logistic regression, XGBoost, neural nets), explainability via feature
-  importance, and deployment options (cron, Airflow, APIs, partial automation). Listen
-  to gain actionable guidance for building, validating, and deploying algorithmic
-  trading systems in Python.
+description: "Master algorithmic trading: backtesting and risk management—learn practical data sources, features, models & execution to build robust strategies."
+topics:
+- machine learning
+- data science
+- MLOps
+- algorithmic trading
+- tools
+intro: "How do you turn a trading idea into a robust, risk-managed algorithm in Python? In this episode Ivan Brigida — analytics lead behind PythonInvest with 10+ years in statistical modeling, forecasting, econometrics and finance — walks through practical steps for algorithmic trading with Python, from data sourcing to deployment (and a clear reminder this is educational, not investment advice). <br><br> We cover where retail traders get market data (Yahoo, Quandl, Polygon), OHLCV and adjusted-close nuances, and a concrete mean-reversion example. Ivan explains backtesting methodology, common pitfalls like time-series data leakage, and walk-forward simulation for realistic validation. He breaks down risk management (stop-loss thresholds, position sizing), execution and trading fees, plus evaluation metrics (ROI, precision) and defining prediction targets (binary growth thresholds such as 5%). <br><br> On the modeling side you’ll hear practical feature engineering (time-window stats, handcrafted indicators), model choices (logistic regression, XGBoost, neural nets), explainability via feature importance, and deployment options (cron, Airflow, APIs, partial automation). Listen to gain actionable guidance for building, validating, and deploying algorithmic trading systems in Python."
 dateadded: 2024-01-24
 duration: PT01H40S
 quotableClips:

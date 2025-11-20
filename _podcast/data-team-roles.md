@@ -1,6 +1,6 @@
 ---
-title: 'Data Team Roles Explained: Skills, Responsibilities, and How Teams Ship ML Products'
-short: Roles in a Data Team
+title: "Data Team Roles Explained: Skills, Responsibilities, and How Teams Ship ML Products"
+short: "Roles in a Data Team"
 season: 1
 episode: 1
 guests:

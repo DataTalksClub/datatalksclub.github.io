@@ -1,6 +1,6 @@
 ---
-title: 'Building Production ML Platforms: Infrastructure, Workflows, Teams & Governance That Scale'
-short: 'From Scratch to Success: Building an MLOps Team and ML Platform'
+title: "Building Production ML Platforms: Infrastructure, Workflows, Teams & Governance That Scale"
+short: "From Scratch to Success: Building an MLOps Team and ML Platform"
 season: 14
 episode: 8
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/0raudIf9XsKdUfr5m2YlUE?si=x1PuaBqwTVyMlfNlGape2A
   youtube: https://www.youtube.com/watch?v=CB1YIsxQRtc
 
-description: Discover MLOps strategies to build an ML platform with experiment tracking, improved reproducibility, faster releases and compliance-ready model operations
-intro: How do you design an ML platform that reliably deploys models, tracks experiments, and meets regulatory constraints? In this episode, Simon Stiebellehner — Lead MLOps Engineer at Transaction Monitoring Netherlands and university lecturer in Data Mining & Data Warehousing — walks through practical MLOps platform design grounded in real-world deployment challenges. <br><br> We cover a clear definition of MLOps as people, processes, and technology, and dig into core platform skills (cloud infrastructure, Kubernetes, Terraform), user-centric design for notebooks and data science workflows, and software engineering fundamentals for production ML. Simon explains experiment tracking, model registry practices, deployment patterns (batch vs online), orchestration choices like Airflow, and stitching SaaS and open-source tools into a coherent ML platform. The episode also addresses compliance and data governance — GDPR, fintech security constraints — plus metadata, lineage, API design, and monitoring. We close with build vs buy trade-offs, staffing and on-call considerations, and how emerging LLM needs affect platforms. <br><br> Listen to learn concrete guidance on model deployment, reproducibility, orchestration, and compliance to help you design a pragmatic, scalable ML platform
+description: "Discover MLOps strategies to build an ML platform with experiment tracking, improved reproducibility, faster releases and compliance-ready model operations"
+intro: "How do you design an ML platform that reliably deploys models, tracks experiments, and meets regulatory constraints? In this episode, Simon Stiebellehner — Lead MLOps Engineer at Transaction Monitoring Netherlands and university lecturer in Data Mining & Data Warehousing — walks through practical MLOps platform design grounded in real-world deployment challenges. <br><br> We cover a clear definition of MLOps as people, processes, and technology, and dig into core platform skills (cloud infrastructure, Kubernetes, Terraform), user-centric design for notebooks and data science workflows, and software engineering fundamentals for production ML. Simon explains experiment tracking, model registry practices, deployment patterns (batch vs online), orchestration choices like Airflow, and stitching SaaS and open-source tools into a coherent ML platform. The episode also addresses compliance and data governance — GDPR, fintech security constraints — plus metadata, lineage, API design, and monitoring. We close with build vs buy trade-offs, staffing and on-call considerations, and how emerging LLM needs affect platforms. <br><br> Listen to learn concrete guidance on model deployment, reproducibility, orchestration, and compliance to help you design a pragmatic, scalable ML platform"
 topics:
 - MLOps
 - machine learning

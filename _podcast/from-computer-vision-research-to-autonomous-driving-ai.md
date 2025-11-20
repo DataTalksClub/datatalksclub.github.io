@@ -1,7 +1,6 @@
 ---
-title: Applying Computer Vision Research to Building Production-Ready AI Systems for
-  Real-World Deployment
-short: 'Lessons from Applied AI: Tesla, Waymo, and Beyond'
+title: "Applying Computer Vision Research to Building Production-Ready AI Systems for Real-World Deployment"
+short: "Lessons from Applied AI: Tesla, Waymo, and Beyond"
 season: 22
 episode: 2
 guests:
@@ -15,24 +14,17 @@ links:
   apple: https://podcasts.apple.com/us/podcast/lessons-from-applied-ai-tesla-waymo-and-beyond/id1541710331?i=1000731200298
   spotify: https://open.spotify.com/episode/0h9eX7m6H2TPqOjUwb3Jw6?si=I4rKrHXpQTmS7cJBMJbUMA
   youtube: https://www.youtube.com/watch?v=vK_SxyqIfwk
-description: Master computer vision to build production-ready AI systems - learn deployment,
-  scaling, validation and monitoring to launch reliable real-world models.
-intro: 'How do you take computer vision research out of the lab and turn it into production-ready
-  AI that actually works in the real world? In this episode Aishwarya Jadhav, a Machine
-  Learning Engineer with over four years of industry experience and a Master’s from
-  Carnegie Mellon University, walks through the challenges of applying computer vision
-  research to production systems. Her background spans multimodal LLMs, generative
-  AI, and computer vision, with research experience in multimodal deep learning and
-  text information extraction and projects including assistive technologies for the
-  visually impaired. <br><br> We cover the bridge between applied research and engineering:
-  translating prototypes into robust, deployable models, integrating multimodal pipelines,
-  balancing model accuracy with latency and scalability, and practical considerations
-  for production-ready AI and real-world deployment. Listeners will gain concrete
-  perspectives on how research informs product choices, what to prioritize when deploying
-  computer vision systems, and how multimodal approaches and generative models fit
-  into end-to-end solutions. This episode is useful for ML engineers, researchers,
-  and product teams focused on building reliable, deployable computer vision and multimodal
-  AI systems.'
+description: "Master computer vision to build production-ready AI systems - learn deployment, scaling, validation and monitoring to launch reliable real-world models."
+topics:
+- computer vision
+- academia
+- autonomous driving
+- MLOps
+- LLMs
+- production
+- career growth
+- career transition
+intro: "How do you take computer vision research out of the lab and turn it into production-ready AI that actually works in the real world? In this episode Aishwarya Jadhav, a Machine Learning Engineer with over four years of industry experience and a Master’s from Carnegie Mellon University, walks through the challenges of applying computer vision research to production systems. Her background spans multimodal LLMs, generative AI, and computer vision, with research experience in multimodal deep learning and text information extraction and projects including assistive technologies for the visually impaired. <br><br> We cover the bridge between applied research and engineering: translating prototypes into robust, deployable models, integrating multimodal pipelines, balancing model accuracy with latency and scalability, and practical considerations for production-ready AI and real-world deployment. Listeners will gain concrete perspectives on how research informs product choices, what to prioritize when deploying computer vision systems, and how multimodal approaches and generative models fit into end-to-end solutions. This episode is useful for ML engineers, researchers, and product teams focused on building reliable, deployable computer vision and multimodal AI systems."
 dateadded: 2025-10-21
 duration: PT00H59M01S
 quotableClips:

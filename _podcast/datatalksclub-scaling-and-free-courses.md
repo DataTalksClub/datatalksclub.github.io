@@ -1,7 +1,6 @@
 ---
-title: 'Inside Scaling DataTalks.Club: How We Built Free Data Engineering, MLOps &
-  LLM Courses'
-short: DataTalks.Club Anniversary Podcast
+title: "Inside Scaling DataTalks.Club: How We Built Free Data Engineering, MLOps & LLM Courses"
+short: "DataTalks.Club Anniversary Podcast"
 season: 19
 episode: 3
 guests:
@@ -15,8 +14,15 @@ links:
   apple: https://podcasts.apple.com/us/podcast/datatalks-club-4th-anniversary-ama-podcast-alexey-grigorev/id1541710331?i=1000674473200
   spotify: https://open.spotify.com/episode/50wIZxjq6goREu9pwXYITP?si=mPW0v5fBQxuBpg622CpCEA
   youtube: https://www.youtube.com/watch?v=GHbeXIKnkLQ
-description: 'Discover how DataTalks.Club built free Data Engineering, MLOps & LLM
-  courses: scaling open-source curriculum, community growth, and career-ready projects.'
+description: "Discover how DataTalks.Club built free Data Engineering, MLOps & LLM courses: scaling open-source curriculum, community growth, and career-ready projects."
+topics:
+- MLOps
+- LLMs
+- data engineering
+- machine learning
+- career transition
+- community building
+- teaching
 dateadded: 2024-11-08
 duration: PT01H03M17S
 quotableClips:
@@ -310,7 +316,7 @@ transcript:
 - line: 'Yeah, I didn’t know about the Upwork scam. That’s really good to know. Alright,
     let’s take some questions from the community. Here’s one: "Why did you decide
     to create a free-to-learn community? What keeps you motivated, and have you ever
-    thought about stopping or leaving the community?"'
+    thought about stopping or leaving the community?"
   sec: 694
   time: '11:34'
   who: Johanna
@@ -1198,19 +1204,5 @@ context: 'Context: Born during COVID as a volunteer meetup, DataTalks.Club scale
   events, accessible learning) create lasting impact and resilience—allowing thoughtful
   stewardship to adapt to AI-driven change, achieve product-market fit, and scale
   education without sacrificing community values.'
-intro: How do you scale a volunteer-run learning community into a sustainable platform
-  offering free data engineering, MLOps, and LLM courses? In this episode Alexey Grigorev,
-  founder of DataTalks.Club, walks through the origin story of the project, the leap
-  to running it full-time, and the practical tradeoffs of building free data engineering
-  courses at scale. <br><br> Alexey’s background as the founder guides discussions
-  on course portfolio decisions (Machine Learning, Data Engineering, MLOps, LLMs,
-  Stock Analytics), organic growth strategies like Zoomcamp word-of-mouth, and technical
-  choices—building the course platform in Django. We cover community safety and moderation,
-  revenue volatility from sponsorships, tax and cashflow considerations in Germany,
-  and how staying technical through pet projects and LLM experiments informed their
-  curriculum (including RAG and LLM course development). <br><br> Listeners will get
-  concrete takeaways on scaling online education, community-driven learning, course
-  product work, and practical ways to help—mentoring, guesting, or joining projects
-  and events. Useful for educators, course builders, and data practitioners wondering
-  how to create and sustain free, high-quality data science and MLOps training.
+intro: "How do you scale a volunteer-run learning community into a sustainable platform offering free data engineering, MLOps, and LLM courses? In this episode Alexey Grigorev, founder of DataTalks.Club, walks through the origin story of the project, the leap to running it full-time, and the practical tradeoffs of building free data engineering courses at scale. <br><br> Alexey’s background as the founder guides discussions on course portfolio decisions (Machine Learning, Data Engineering, MLOps, LLMs, Stock Analytics), organic growth strategies like Zoomcamp word-of-mouth, and technical choices—building the course platform in Django. We cover community safety and moderation, revenue volatility from sponsorships, tax and cashflow considerations in Germany, and how staying technical through pet projects and LLM experiments informed their curriculum (including RAG and LLM course development). <br><br> Listeners will get concrete takeaways on scaling online education, community-driven learning, course product work, and practical ways to help—mentoring, guesting, or joining projects and events. Useful for educators, course builders, and data practitioners wondering how to create and sustain free, high-quality data science and MLOps training."
 ---

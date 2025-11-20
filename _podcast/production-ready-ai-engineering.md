@@ -1,6 +1,6 @@
 ---
-title: 'Production AI Engineering: Data Pipelines, Prompt Optimization and Caching'
-short: Data Intensive AI
+title: "Production AI Engineering: Data Pipelines, Prompt Optimization and Caching"
+short: "Data Intensive AI"
 season: 20
 episode: 5
 guests:
@@ -14,22 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/data-intensive-ai-bartosz-mikulski/id1541710331?i=1000700288876
   spotify: https://open.spotify.com/episode/0nFSU92IQDbM4C9FLvdn4z
   youtube: https://www.youtube.com/watch?v=BP6w_vKySN0
-description: 'Master production AI engineering: build scalable data pipelines, optimize
-  prompts, and implement caching to cut latency and costs for production-ready models'
-intro: How do you move AI projects from proof-of-concept to reliable production systems
-  while keeping prompts, pipelines, and response times under control? In this episode
-  Bartosz Mikulski, an AI and data engineer who specializes in productionizing AI,
-  breaks down the engineering work required to make models dependable beyond demos.
-  Bartosz explains how to design robust data pipelines, apply prompt optimization
-  practices, and introduce caching strategies that reduce load and improve responsiveness.
-  He also covers building testing infrastructure and using tests to surface issues
-  that block production readiness—then how to fix those issues. Listeners will get
-  concrete, engineering-focused insights into production AI, including practical approaches
-  to pipeline orchestration, prompt tuning for stability, and where caching fits in
-  an operational stack. Whether you’re responsible for deploying models, improving
-  inference reliability, or creating reproducible pipelines, this conversation offers
-  actionable techniques and perspectives for turning experiments into maintainable
-  production systems.
+description: "Master production AI engineering: build scalable data pipelines, optimize prompts, and implement caching to cut latency and costs for production-ready models"
+topics:
+- data engineering
+- AI
+- LLMs
+- MLOps
+- tools
+intro: "How do you move AI projects from proof-of-concept to reliable production systems while keeping prompts, pipelines, and response times under control? In this episode Bartosz Mikulski, an AI and data engineer who specializes in productionizing AI, breaks down the engineering work required to make models dependable beyond demos. Bartosz explains how to design robust data pipelines, apply prompt optimization practices, and introduce caching strategies that reduce load and improve responsiveness. He also covers building testing infrastructure and using tests to surface issues that block production readiness—then how to fix those issues. Listeners will get concrete, engineering-focused insights into production AI, including practical approaches to pipeline orchestration, prompt tuning for stability, and where caching fits in an operational stack. Whether you're responsible for deploying models, improving inference reliability, or creating reproducible pipelines, this conversation offers actionable techniques and perspectives for turning experiments into maintainable production systems."
 dateadded: 2025-03-26
 duration: PT01H01M37S
 quotableClips:
@@ -49,7 +41,7 @@ quotableClips:
   startOffset: 364
   url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=364
   endOffset: 545
-- name: 'Data Trust: Why Testing Prevents "This Number Doesn’t Look Correct"'
+- name: 'Data Trust: Why Testing Prevents "This Number Doesn’t Look Correct"
   startOffset: 545
   url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=545
   endOffset: 707
@@ -279,7 +271,7 @@ transcript:
   sec: 528
   time: '8:48'
   who: Bartosz
-- header: 'Data Trust: Why Testing Prevents "This Number Doesn’t Look Correct"'
+- header: 'Data Trust: Why Testing Prevents "This Number Doesn’t Look Correct"
 - line: How did you end up writing a chapter for 97 Things Every Data Engineer Should
     Know?
   sec: 545

@@ -1,6 +1,6 @@
 ---
-title: 'Production ML Search: Embeddings, Hybrid Architectures and Scalable Indexing'
-short: Building Machine Learning Products
+title: "Production ML Search: Embeddings, Hybrid Architectures and Scalable Indexing"
+short: "Building Machine Learning Products"
 season: 17
 episode: 8
 guests:
@@ -14,24 +14,15 @@ links:
   apple: https://podcasts.apple.com/us/podcast/building-machine-learning-products-reem-mahmoud/id1541710331?i=1000649393833
   spotify: https://open.spotify.com/episode/4jNredXndQ2b2evgfSmD2G?si=gU2kT-zXSX27hDPgLtwMgQ
   youtube: https://www.youtube.com/watch?v=m45tNY-8gY8
-description: 'Master vector search, embeddings and hybrid search: scalable indexing,
-  multimodal retrieval and ranking tactics to boost relevance and reduce latency.'
-intro: How do you move from prototypes to production ML search that scales and stays
-  relevant? In this episode Reem Mahmoud, Director of Data Science at intervu.ai,
-  breaks down practical approaches to building production ML search systems—focusing
-  on embeddings, hybrid architectures, and scalable indexing. <br><br> We cover core
-  concepts like inverted indexes and Lucene basics, candidate generation versus ML
-  ranking, and why you should avoid hand-rolling indexes. Dive into vector search
-  fundamentals—embeddings as shared representations, embedding pipelines, and the
-  trade-offs between vector compute and storage. Learn how multimodal embeddings (text,
-  images, CLIP) and feature fusion enable richer relevance, and how hybrid search
-  combines vector similarity with filters, recency, and business constraints. The
-  episode also explores time encoding in embeddings, query-time weighting, LLMs versus
-  specialized encoders, vector DB selection, and operationalization—offline tests,
-  A/B metrics, and enabling engineers for fast iteration. <br><br> Listen for actionable
-  guidance on scalable indexing strategies, choosing a vector DB, and measuring search
-  impact so you can design reliable production search that balances latency, relevance,
-  and business KPIs.
+description: "Master vector search, embeddings and hybrid search: scalable indexing, multimodal retrieval and ranking tactics to boost relevance and reduce latency."
+topics:
+- LLMs
+- NLP
+- machine learning
+- MLOps
+- data engineering
+
+intro: "How do you move from prototypes to production ML search that scales and stays relevant? In this episode Reem Mahmoud, Director of Data Science at intervu.ai, breaks down practical approaches to building production ML search systems—focusing on embeddings, hybrid architectures, and scalable indexing. <br><br> We cover core concepts like inverted indexes and Lucene basics, candidate generation versus ML ranking, and why you should avoid hand-rolling indexes. Dive into vector search fundamentals—embeddings as shared representations, embedding pipelines, and the trade-offs between vector compute and storage. Learn how multimodal embeddings (text, images, CLIP) and feature fusion enable richer relevance, and how hybrid search combines vector similarity with filters, recency, and business constraints. The episode also explores time encoding in embeddings, query-time weighting, LLMs versus specialized encoders, vector DB selection, and operationalization—offline tests, A/B metrics, and enabling engineers for fast iteration. <br><br> Listen for actionable guidance on scalable indexing strategies, choosing a vector DB, and measuring search impact so you can design reliable production search that balances latency, relevance, and business KPIs."
 dateadded: 2024-03-17
 duration: PT01H05M23S
 quotableClips:

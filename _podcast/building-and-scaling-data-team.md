@@ -1,6 +1,6 @@
 ---
-title: 'How to Build & Scale a Data Team: Hiring, Production ML, Forecasting & Driving Adoption'
-short: Building and Leading Data Teams
+title: "How to Build & Scale a Data Team: Hiring, Production ML, Forecasting & Driving Adoption"
+short: "Building and Leading Data Teams"
 season: 5
 episode: 6
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3hlzKwORlOsCPKrawuW4YQ
   apple: https://podcasts.apple.com/us/podcast/building-and-leading-data-teams-tammy-liang/id1541710331?i=1000537994433
 
-description: 'Learn to build a scalable data team: hiring, production ML delivery, demand forecasting and driving adoption—practical staffing, stack, and governance tips.'
-intro: How do you build and scale a data team that moves beyond dashboards to production ML, reliable forecasting, and real adoption across the business? In this episode Tammy Liang, Chief of Data at Platanomelón and co-host of Data for Future, walks through her journey building data capabilities for marketing, e-commerce, and operations at a mission-driven consumer brand. <br><br> Tammy breaks down practical hiring decisions—why she hired an analyst first, then a data engineer, and why early senior hires matter—plus the tradeoffs between analyst, engineer, and business-facing roles. She explains the technical foundation she built (Stitch, GCP, dbt, Data Studio, Notion) to enable forecasting and production ML, and describes common model delivery challenges moving work out of notebooks. The conversation also covers demand forecasting, time-series and basic machine learning skills, data accuracy and governance, dbt tests and monitoring, and tactics for driving adoption—workshops, Q&A, and building trust. <br><br> Listen to learn concrete steps for hiring a data team, setting up a data warehouse for forecasting, delivering models to production, and creating data products that stakeholders actually use
+description: "Learn to build a scalable data team: hiring, production ML delivery, demand forecasting and driving adoption—practical staffing, stack, and governance tips."
+intro: "How do you build and scale a data team that moves beyond dashboards to production ML, reliable forecasting, and real adoption across the business? In this episode Tammy Liang, Chief of Data at Platanomelón and co-host of Data for Future, walks through her journey building data capabilities for marketing, e-commerce, and operations at a mission-driven consumer brand. <br><br> Tammy breaks down practical hiring decisions—why she hired an analyst first, then a data engineer, and why early senior hires matter—plus the tradeoffs between analyst, engineer, and business-facing roles. She explains the technical foundation she built (Stitch, GCP, dbt, Data Studio, Notion) to enable forecasting and production ML, and describes common model delivery challenges moving work out of notebooks. The conversation also covers demand forecasting, time-series and basic machine learning skills, data accuracy and governance, dbt tests and monitoring, and tactics for driving adoption—workshops, Q&A, and building trust. <br><br> Listen to learn concrete steps for hiring a data team, setting up a data warehouse for forecasting, delivering models to production, and creating data products that stakeholders actually use"
 topics:
 - team building
 - data teams

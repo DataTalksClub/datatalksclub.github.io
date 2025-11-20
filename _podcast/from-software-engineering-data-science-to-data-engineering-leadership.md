@@ -1,6 +1,6 @@
 ---
-title: 'How to Become a Data Engineer: Skills, MLOps, Pipelines, SQL, CI/CD & Cloud'
-short: From Data Science to Data Engineering
+title: "How to Become a Data Engineer: Skills, MLOps, Pipelines, SQL, CI/CD & Cloud"
+short: "From Data Science to Data Engineering"
 season: 7
 episode: 8
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/4R9F5B4f8vf5r5yQEmwYiu
   youtube: https://www.youtube.com/watch?v=3TTu-hYzxeg
 
-description: 'Master data engineering, MLOps and pipelines: learn CI/CD, cloud cost control and SQL/Python skills to switch careers and accelerate growth now.'
-intro: In this episode, Ellen König—Head of Engineering at alcemy—shares her journey from software and data science to data engineering leadership. She explains why many professionals make the switch, the skills that matter most (from DevOps and CI/CD to collaboration), and how to prepare through side projects and software fundamentals. <br><br> Ellen also breaks down key tools like Git, Docker, and Airflow, discusses the realities of cloud costs and team structures, and offers practical advice for anyone planning a transition into data engineering
+description: "Master data engineering, MLOps and pipelines: learn CI/CD, cloud cost control and SQL/Python skills to switch careers and accelerate growth now."
+intro: "In this episode, Ellen König—Head of Engineering at alcemy—shares her journey from software and data science to data engineering leadership. She explains why many professionals make the switch, the skills that matter most (from DevOps and CI/CD to collaboration), and how to prepare through side projects and software fundamentals. <br><br> Ellen also breaks down key tools like Git, Docker, and Airflow, discusses the realities of cloud costs and team structures, and offers practical advice for anyone planning a transition into data engineering"
 topics:
 - data science
 - data engineering

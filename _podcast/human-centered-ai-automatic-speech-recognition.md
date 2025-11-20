@@ -1,6 +1,6 @@
 ---
-title: 'Human-Centered Speech Recognition: ASR for Disordered Speech and Accents'
-short: Human-Centered AI for Disordered Speech Recognition
+title: "Human-Centered Speech Recognition: ASR for Disordered Speech and Accents"
+short: "Human-Centered AI for Disordered Speech Recognition"
 season: 19
 episode: 2
 guests:
@@ -14,25 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/human-centered-ai-for-disordered-speech-recognition/id1541710331?i=1000671805368
   spotify: https://open.spotify.com/show/0pck8zuiXdI0OrCg86DAPy?si=ac857db69d484277
   youtube: https://www.youtube.com/watch?v=yTZ4cddD7DU
-description: Discover ASR solutions for disordered speech and accents—boost recognition
-  accuracy, reduce bias, and design accessible human-centered models now.
-intro: How can automatic speech recognition (ASR) better serve people with disordered
-  speech and diverse accents? In this episode Katarzyna Foremniak, a computational
-  linguist with over 10 years in NLP who has built language models for Audi and Porsche
-  and teaches at the University of Warsaw, examines human-centered ASR for atypical
-  and accented speech. We trace her move from linguistics to computational approaches
-  and cover core phonetics and morpho-syntax concepts that matter for speech recognition.
-  <br><br> Key topics include distinctions between accents and speech disorders, limitations
-  of standard ASR datasets, strategies for disordered speech recognition such as specialized
-  datasets, data augmentation and synthetic variations, multimodal ASR with lip-reading,
-  and transfer learning for fine-tuning with limited data. We also discuss data collection
-  challenges (GDPR, clinical data), bilingualism effects, stammering and fluency,
-  pronunciation issues like Polish consonant clusters, and practical workflows including
-  Amazon Transcribe plus LLM post-processing. Deployment tradeoffs—model size, on-device
-  setups, automotive voice use cases—and assistive applications round out the conversation.
-  <br><br> Listeners interested in speech recognition, disordered speech, accents,
-  and ethical data practices will gain practical technical strategies and a clearer
-  view of research and deployment priorities.
+description: "Discover ASR solutions for disordered speech and accents—boost recognition accuracy, reduce bias, and design accessible human-centered models now."
+topics:
+- AI
+- NLP
+- LLMs
+- machine learning
+- data governance
+intro: "How can automatic speech recognition (ASR) better serve people with disordered speech and diverse accents? In this episode Katarzyna Foremniak, a computational linguist with over 10 years in NLP who has built language models for Audi and Porsche and teaches at the University of Warsaw, examines human-centered ASR for atypical and accented speech. We trace her move from linguistics to computational approaches and cover core phonetics and morpho-syntax concepts that matter for speech recognition. <br><br> Key topics include distinctions between accents and speech disorders, limitations of standard ASR datasets, strategies for disordered speech recognition such as specialized datasets, data augmentation and synthetic variations, multimodal ASR with lip-reading, and transfer learning for fine-tuning with limited data. We also discuss data collection challenges (GDPR, clinical data), bilingualism effects, stammering and fluency, pronunciation issues like Polish consonant clusters, and practical workflows including Amazon Transcribe plus LLM post-processing. Deployment tradeoffs—model size, on-device setups, automotive voice use cases—and assistive applications round out the conversation. <br><br> Listeners interested in speech recognition, disordered speech, accents, and ethical data practices will gain practical technical strategies and a clearer view of research and deployment priorities."
 dateadded: 2024-10-10
 duration: PT00H57M19S
 quotableClips:

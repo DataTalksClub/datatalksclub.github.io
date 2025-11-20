@@ -1,7 +1,6 @@
 ---
-title: 'From Classical Guitar to Production ML: Nonlinear Career Path Through Semiconductors,
-  Yield Analytics & Community-Driven Learning'
-short: 'From Semiconductors to Machine Learning: A Career in Data and Teaching'
+title: "From Classical Guitar to Production ML: Nonlinear Career Path Through Semiconductors, Yield Analytics & Community-Driven Learning"
+short: "From Semiconductors to Machine Learning: A Career in Data and Teaching"
 season: 21
 episode: 8
 guests:
@@ -15,25 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/from-semiconductors-to-machine-learning-a-career-in/id1541710331?i=1000731197034
   spotify: https://open.spotify.com/episode/1znRtNRf5IUYcBblJYH53r
   youtube: https://www.youtube.com/watch?v=B2tzuUg5uZs
-description: Discover a nonlinear path from classical guitar to production ML, semiconductors
-  & yield analytics. Learn actionable career tactics and community-driven learning.
-intro: How do you move from playing classical guitar to applying machine learning
-  in semiconductor yield analytics? In this episode Dashel Ruiz Perez — a data analyst,
-  ML engineer, and educator — walks us through a nonlinear career path that spans
-  nearly a decade at Microchip Technology and now teaching programming and data skills
-  through ThriveDX. With roles across production, process, yield, and software engineering,
-  Dashel explains how hands-on production experience informs production analytics
-  and ML engineering work in semiconductor manufacturing. <br><br> We cover practical
-  topics including translating manufacturing problems into data science projects,
-  building models for yield optimization, and the role of software engineering in
-  production analytics. Dashel also discusses learning pathways — from degrees in
-  computer science and data analytics at Western Governors University to graduating
-  from ML Zoomcamp — and how community-driven learning accelerates skill acquisition.
-  <br><br> Listeners will gain actionable guidance on career transition strategies,
-  concrete examples of applying machine learning and data analytics in semiconductor
-  contexts, and resources for growing technical skills through community and formal
-  training. This episode is useful for engineers, data analysts, and anyone considering
-  a switch into ML, AI, or semiconductor yield analytics.
+description: "Discover a nonlinear path from classical guitar to production ML, semiconductors & yield analytics. Learn actionable career tactics and community-driven learning."
+topics:
+- machine learning
+- MLOps
+- data science
+- tools
+- career transition 
+intro: "How do you move from playing classical guitar to applying machine learning in semiconductor yield analytics? In this episode Dashel Ruiz Perez — a data analyst, ML engineer, and educator — walks us through a nonlinear career path that spans nearly a decade at Microchip Technology and now teaching programming and data skills through ThriveDX. With roles across production, process, yield, and software engineering, Dashel explains how hands-on production experience informs production analytics and ML engineering work in semiconductor manufacturing. <br><br> We cover practical topics including translating manufacturing problems into data science projects, building models for yield optimization, and the role of software engineering in production analytics. Dashel also discusses learning pathways — from degrees in computer science and data analytics at Western Governors University to graduating from ML Zoomcamp — and how community-driven learning accelerates skill acquisition. <br><br> Listeners will gain actionable guidance on career transition strategies, concrete examples of applying machine learning and data analytics in semiconductor contexts, and resources for growing technical skills through community and formal training. This episode is useful for engineers, data analysts, and anyone considering a switch into ML, AI, or semiconductor yield analytics."
 dateadded: 2025-10-21
 duration: PT01H13M08S
 quotableClips:

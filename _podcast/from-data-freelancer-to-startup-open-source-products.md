@@ -1,6 +1,6 @@
 ---
-title: 'From Data Freelancer to Startup: Open-Source Products and Bottom-Up Adoption'
-short: 'The Entrepreneurship Journey: From Freelancing to Starting a Company'
+title: "From Data Freelancer to Startup: Open-Source Products and Bottom-Up Adoption"
+short: "The Entrepreneurship Journey: From Freelancing to Starting a Company"
 season: 17
 episode: 1
 guests:
@@ -14,23 +14,8 @@ links:
   apple: https://podcasts.apple.com/us/podcast/the-entrepreneurship-journey-from-freelancing-to/id1541710331?i=1000638715212
   spotify: https://open.spotify.com/episode/7wBmJHSXPHoW0mEIbNDgqr?si=z7klLtveT1ioGi6bg8hR7Q
   youtube: https://www.youtube.com/watch?v=vOpEQiCsaLw
-description: 'Discover how to build an open-source data product for Python devs: bootstrap,
-  ship DLT transforms, and drive bottom-up adoption to find PMF.'
-intro: How do you move from freelancing to building an open-source data company that
-  wins via bottom-up adoption? In this episode Adrian Brudaru — an economics graduate
-  who pivoted to business analysis in Berlin, then spent years freelancing before
-  co-founding a data startup — walks through that transition and the practical tradeoffs
-  he encountered. <br><br> We cover lessons from freelancing and agency work, why
-  they chose product over agency growth, and the recurring pain of stakeholder alignment
-  versus technical setup. Adrian explains DLT — a declarative JSON→relational transformation
-  for data pipelines — and why the product targets Python users as a developer-focused
-  library. Hear how workshops, documentation, and live support doubled as product
-  validation, how scrappy bootstrapping and consulting revenue funded early payroll,
-  and what signals indicate product–market fit for open-source tooling. <br><br> If
-  you’re building open-source data tools, developer tooling, or plotting a bottom-up
-  go-to-market, this episode offers concrete tactics on iteration, docs-as-product,
-  ecosystem partnerships, and positioning against platforms like Airbyte/Fivetran
-  — helping you prioritize engineering, adoption, and sustainable monetization.
+description: "Discover how to build an open-source data product for Python devs: bootstrap, ship DLT transforms, and drive bottom-up adoption to find PMF."
+intro: "How do you move from freelancing to building an open-source data company that wins via bottom-up adoption? In this episode Adrian Brudaru — an economics graduate who pivoted to business analysis in Berlin, then spent years freelancing before co-founding a data startup — walks through that transition and the practical tradeoffs he encountered. <br><br> We cover lessons from freelancing and agency work, why they chose product over agency growth, and the recurring pain of stakeholder alignment versus technical setup. Adrian explains DLT — a declarative JSON→relational transformation for data pipelines — and why the product targets Python users as a developer-focused library. Hear how workshops, documentation, and live support doubled as product validation, how scrappy bootstrapping and consulting revenue funded early payroll, and what signals indicate product–market fit for open-source tooling. <br><br> If you’re building open-source data tools, developer tooling, or plotting a bottom-up go-to-market, this episode offers concrete tactics on iteration, docs-as-product, ecosystem partnerships, and positioning against platforms like Airbyte/Fivetran — helping you prioritize engineering, adoption, and sustainable monetization."
 topics:
 - entrepreneurship
 - freelance

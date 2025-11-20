@@ -1,6 +1,6 @@
 ---
-title: 'Modern Data Engineering: Iceberg, Delta Lake & AI-Powered Pipelines'
-short: Trends in Data Engineering
+title: "Modern Data Engineering: Iceberg, Delta Lake & AI-Powered Pipelines"
+short: "Trends in Data Engineering"
 season: 20
 episode: 3
 guests:
@@ -14,22 +14,13 @@ links:
   apple: https://podcasts.apple.com/us/podcast/trends-in-data-engineering-adrian-brudaru/id1541710331?i=1000698294801
   spotify: https://open.spotify.com/episode/35QbCW6Evqk1EPMKUDGGdv
   youtube: https://www.youtube.com/watch?v=AlCFKbFIEM8
-description: Master Iceberg, Delta Lake and AI-powered pipelines to build scalable,
-  governed data lakehouses—optimize ETL, boost real-time analytics and ML performance.
-intro: How can engineering teams build reliable, scalable lakehouse pipelines that
-  combine transactional table formats with AI-driven automation? In this episode Adrian
-  Brudaru—an economics-trained analyst turned freelance data practitioner and co-founder
-  of a data company focused on open source tooling—joins us to explore the realities
-  of modern data engineering. <br><br> Adrian draws on years of startup and freelance
-  experience and a current mission to democratise data engineering through open source
-  to discuss the practical trade-offs between Iceberg and Delta Lake, how table formats
-  fit into a data lakehouse architecture, and where AI can augment pipeline development
-  and observability. Key topics include selecting the right table format for versioning
-  and governance, integrating AI-powered features into ETL/ELT workflows, and the
-  role of open source tools in scaling data platforms. <br><br> Listen to gain grounded
-  perspectives on Iceberg, Delta Lake, AI-powered pipelines, and data pipeline best
-  practices—especially useful for data engineers, architects, and engineering managers
-  evaluating lakehouse strategies or looking to adopt open source solutions.
+description: "Master Iceberg, Delta Lake and AI-powered pipelines to build scalable, governed data lakehouses—optimize ETL, boost real-time analytics and ML performance."
+topics:
+- data engineering
+- data governance
+- AI
+- open-source
+intro: "How can engineering teams build reliable, scalable lakehouse pipelines that combine transactional table formats with AI-driven automation? In this episode Adrian Brudaru—an economics-trained analyst turned freelance data practitioner and co-founder of a data company focused on open source tooling—joins us to explore the realities of modern data engineering. <br><br> Adrian draws on years of startup and freelance experience and a current mission to democratise data engineering through open source to discuss the practical trade-offs between Iceberg and Delta Lake, how table formats fit into a data lakehouse architecture, and where AI can augment pipeline development and observability. Key topics include selecting the right table format for versioning and governance, integrating AI-powered features into ETL/ELT workflows, and the role of open source tools in scaling data platforms. <br><br> Listen to gain grounded perspectives on Iceberg, Delta Lake, AI-powered pipelines, and data pipeline best practices—especially useful for data engineers, architects, and engineering managers evaluating lakehouse strategies or looking to adopt open source solutions."
 dateadded: 2025-03-14
 duration: PT01H02M16S
 quotableClips:

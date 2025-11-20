@@ -1,6 +1,6 @@
 ---
-title: 'Designing High-Impact Data Science Teams: Centralized vs Embedded Models, Experimentation & Staffing'
-short: Designing a Data Science Team
+title: "Designing High-Impact Data Science Teams: Centralized vs Embedded Models, Experimentation & Staffing"
+short: "Designing a Data Science Team"
 season: 9
 episode: 7
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/62ZzHBEuOLbm6ft0u9dlh7?si=182bea5ac49243af
   youtube: https://www.youtube.com/watch?v=F_rJ4fg5ZEA
 
-description: 'Discover how to design high-impact data science orgs: centralized vs embedded models, staffing ratios and experimentation to speed decisions and scale impact.'
-intro: 'How should you structure a data science organization to maximize product impact: centralized, embedded, or a hybrid of both? In this episode, Lisa Cohen, Director of Data Science at Twitter who leads 70 data scientists and previously led Azure Customer Growth Analytics at Microsoft, walks through practical tradeoffs and implementation patterns for designing high-impact data science orgs. <br><br> We cover centralized vs embedded models and what “embedding” really means for reporting lines and day-to-day integration with feature teams; Twitter’s hybrid per-division approach for product and ads; staffing guidance (including an engineers-to-data-scientist ratio reference); and rhythms for cross-functional planning, OKRs, and dependency management. Lisa also discusses experimentation and experiment review, defining success metrics and ship criteria, knowledge sharing practices, differences between analytics and ML-heavy data science, and how to partner with product, engineering, design, and research. <br><br> Listen to gain actionable guidance on choosing an org model, setting staffing expectations, establishing experiment and metrics practices, and aligning data pipelines, data quality, and OKRs to drive data-driven product decisions.'
+description: "Discover how to design high-impact data science orgs: centralized vs embedded models, staffing ratios and experimentation to speed decisions and scale impact."
+intro: "How should you structure a data science organization to maximize product impact: centralized, embedded, or a hybrid of both? In this episode, Lisa Cohen, Director of Data Science at Twitter who leads 70 data scientists and previously led Azure Customer Growth Analytics at Microsoft, walks through practical tradeoffs and implementation patterns for designing high-impact data science orgs. <br><br> We cover centralized vs embedded models and what “embedding” really means for reporting lines and day-to-day integration with feature teams; Twitter’s hybrid per-division approach for product and ads; staffing guidance (including an engineers-to-data-scientist ratio reference); and rhythms for cross-functional planning, OKRs, and dependency management. Lisa also discusses experimentation and experiment review, defining success metrics and ship criteria, knowledge sharing practices, differences between analytics and ML-heavy data science, and how to partner with product, engineering, design, and research. <br><br> Listen to gain actionable guidance on choosing an org model, setting staffing expectations, establishing experiment and metrics practices, and aligning data pipelines, data quality, and OKRs to drive data-driven product decisions."
 topics:
 - data science
 - data teams

@@ -1,6 +1,6 @@
 ---
-title: 'Practical LLM Engineering and RAG: Prompting, Evaluation and Real-World Workflows'
-short: How to Build and Evaluate AI systems in the Age of LLMs
+title: "Practical LLM Engineering and RAG: Prompting, Evaluation and Real-World Workflows"
+short: "How to Build and Evaluate AI systems in the Age of LLMs"
 season: 22
 episode: 4
 guests:
@@ -14,24 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/how-to-build-and-evaluate-ai-systems-in-the-age-of/id1541710331?i=1000733350691
   spotify: https://open.spotify.com/episode/2RD2qXaYa2ZjKjuIE7Aj6O
   youtube: https://www.youtube.com/watch?v=eC3RNuI6ow0
-description: 'Discover LLM engineering and RAG best practices: practical prompting,
-  evaluation methods and deployment workflows to boost accuracy and retrieval.'
-intro: How do you move from experimentation to reliable, production-ready LLM engineering
-  and retrieval-augmented generation (RAG)? In this episode Hugo Bowne-Anderson —
-  Head of Developer Relations at Outerbounds, longtime data scientist, educator, and
-  host of Vanishing Gradients — walks through practical patterns for building, evaluating,
-  and scaling real-world LLM workflows. <br><br> We cover everyday LLM use cases (summaries,
-  translation, CSV work), prompting best practices (role prompts, structured output,
-  timestamps), and transcript pipelines using Gemini, Descript, Loom and automation
-  with GitHub Actions. Hugo explains the generator–evaluator pattern for automated
-  quality control, how to design evaluation sets and failure analysis, and concrete
-  chunking strategies (fixed length, sliding windows, context rotation) that unlock
-  RAG performance. He also discusses when to add tooling or agentic capabilities,
-  a four-step framework for agents, memory design tradeoffs, and a practical email
-  assistant example using the Gmail API plus RAG. <br><br> Listen to learn actionable
-  guidance on prioritizing RAG for quick business wins, building debuggable MVPs with
-  logging and traces, and setting up evaluation and monitoring so your LLMs deliver
-  dependable results in production.
+description: "Discover LLM engineering and RAG best practices: practical prompting, evaluation methods and deployment workflows to boost accuracy and retrieval."
+topics:
+- LLMs
+- NLP
+- MLOps
+- tools
+
+intro: "How do you move from experimentation to reliable, production-ready LLM engineering and retrieval-augmented generation (RAG)? In this episode Hugo Bowne-Anderson — Head of Developer Relations at Outerbounds, longtime data scientist, educator, and host of Vanishing Gradients — walks through practical patterns for building, evaluating, and scaling real-world LLM workflows. <br><br> We cover everyday LLM use cases (summaries, translation, CSV work), prompting best practices (role prompts, structured output, timestamps), and transcript pipelines using Gemini, Descript, Loom and automation with GitHub Actions. Hugo explains the generator–evaluator pattern for automated quality control, how to design evaluation sets and failure analysis, and concrete chunking strategies (fixed length, sliding windows, context rotation) that unlock RAG performance. He also discusses when to add tooling or agentic capabilities, a four-step framework for agents, memory design tradeoffs, and a practical email assistant example using the Gmail API plus RAG. <br><br> Listen to learn actionable guidance on prioritizing RAG for quick business wins, building debuggable MVPs with logging and traces, and setting up evaluation and monitoring so your LLMs deliver dependable results in production."
 dateadded: 2025-10-27
 date: 2025-11-07
 duration: PT01H01M30S

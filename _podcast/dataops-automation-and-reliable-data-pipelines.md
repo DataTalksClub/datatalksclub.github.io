@@ -1,6 +1,6 @@
 ---
-title: 'Mastering DataOps: Automation, Observability & CI/CD for Reliable Data Pipelines'
-short: Storytime for DataOps
+title: "Mastering DataOps: Automation, Observability & CI/CD for Reliable Data Pipelines"
+short: "Storytime for DataOps"
 season: 8
 episode: 5
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/2PcBsHslUVnjXFhC9hv6zk
   youtube: https://www.youtube.com/watch?v=0Fx5PCoLkf4
 
-description: 'Master DataOps: automate pipelines, data observability and CI/CD to cut errors, speed deployments, and deliver reliable, testable data pipelines.'
-intro: 'How do you build reliable data pipelines that move fast without breaking production? In this episode, Christopher Bergh — CEO and Head Chef at DataKitchen, co-author of the DataOps Cookbook and Manifesto, and a 25+-year veteran across research, engineering, analytics, and leadership — walks through practical approaches to mastering DataOps: automation, observability, and CI/CD for dependable data delivery. <br><br> We cover core targets like error reduction, deployment cycle time, and team productivity; the role of data observability and monitoring in catching production errors; and the trade-offs between “done” and “good.” Chris explains the shift from runbooks to automated playbooks, an automation-first mindset (“code that acts on data”), and seven practical steps for healthier pipelines—VC, tests, CI/CD, and more. He contrasts DataOps with MLOps, argues for end-to-end versioning, and discusses tooling choices including dbt, Great Expectations, and SQL tests, plus platform orchestration and governance. <br><br> Listen to learn concrete tactics for improving data quality, shrinking incident toil, proving systems with end-to-end testing, and where to focus time and tooling to accelerate reliable analytics delivery.'
+description: "Master DataOps: automate pipelines, data observability and CI/CD to cut errors, speed deployments, and deliver reliable, testable data pipelines."
+intro: "How do you build reliable data pipelines that move fast without breaking production? In this episode, Christopher Bergh — CEO and Head Chef at DataKitchen, co-author of the DataOps Cookbook and Manifesto, and a 25+-year veteran across research, engineering, analytics, and leadership — walks through practical approaches to mastering DataOps: automation, observability, and CI/CD for dependable data delivery. <br><br> We cover core targets like error reduction, deployment cycle time, and team productivity; the role of data observability and monitoring in catching production errors; and the trade-offs between “done” and “good.” Chris explains the shift from runbooks to automated playbooks, an automation-first mindset (“code that acts on data”), and seven practical steps for healthier pipelines—VC, tests, CI/CD, and more. He contrasts DataOps with MLOps, argues for end-to-end versioning, and discusses tooling choices including dbt, Great Expectations, and SQL tests, plus platform orchestration and governance. <br><br> Listen to learn concrete tactics for improving data quality, shrinking incident toil, proving systems with end-to-end testing, and where to focus time and tooling to accelerate reliable analytics delivery."
 topics:
 - dataops
 - practices

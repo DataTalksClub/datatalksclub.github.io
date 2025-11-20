@@ -1,6 +1,6 @@
 ---
-title: 'ML System Design Interviews: Production ML, Fraud Detection, Features, A/B Testing & MLOps'
-short: Machine Learning System Design Interview
+title: "ML System Design Interviews: Production ML, Fraud Detection, Features, A/B Testing & MLOps"
+short: "Machine Learning System Design Interview"
 season: 7
 episode: 5
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/5tSLFOh8PGe1NFFz1of9Xe
   youtube: https://www.youtube.com/watch?v=0RsmRjar66E
 
-description: 'Master ML system design: fraud detection, feature engineering & A/B testing to ace interviews, build robust production models, monitoring and MLOps.'
-intro: 'How do you approach ML system design interviews that probe production constraints, fraud detection trade-offs, and MLOps realities? In this episode, Valerii Babushkin — Senior Director of Data, Analytics, and AI at BP, Kaggle Competitions Grandmaster, and author of Machine Learning System Design — walks through what interviewers look for and how candidates should structure answers for real-world ML problems. <br><br> We cover concrete topics you can use in interviews and on the job: distinguishing software vs. ML system design; a fraud detection case study (probabilities, loss functions, real-time requirements); label noise, class imbalance, and feature engineering trade-offs; end-to-end pipeline items like metrics, baselines, A/B testing, and validating in production; monitoring, distribution shift, fallbacks, and production robustness; serving models, embeddings, and MLOps roles; plus when to avoid ML and practical checklist items for core projects. Valerii also shares interview tactics — signposting depth, stating assumptions, iterative baselines — and guidance for new grads and career progression toward system design roles. <br><br> Listen to learn actionable frameworks, example trade-offs, and preparation strategies to improve your ML system design interviews and production ML decisions.'
+description: "Master ML system design: fraud detection, feature engineering & A/B testing to ace interviews, build robust production models, monitoring and MLOps."
+intro: "How do you approach ML system design interviews that probe production constraints, fraud detection trade-offs, and MLOps realities? In this episode, Valerii Babushkin — Senior Director of Data, Analytics, and AI at BP, Kaggle Competitions Grandmaster, and author of Machine Learning System Design — walks through what interviewers look for and how candidates should structure answers for real-world ML problems. <br><br> We cover concrete topics you can use in interviews and on the job: distinguishing software vs. ML system design; a fraud detection case study (probabilities, loss functions, real-time requirements); label noise, class imbalance, and feature engineering trade-offs; end-to-end pipeline items like metrics, baselines, A/B testing, and validating in production; monitoring, distribution shift, fallbacks, and production robustness; serving models, embeddings, and MLOps roles; plus when to avoid ML and practical checklist items for core projects. Valerii also shares interview tactics — signposting depth, stating assumptions, iterative baselines — and guidance for new grads and career progression toward system design roles. <br><br> Listen to learn actionable frameworks, example trade-offs, and preparation strategies to improve your ML system design interviews and production ML decisions."
 topics:
 - machine learning
 - career growth

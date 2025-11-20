@@ -1,6 +1,6 @@
 ---
-title: 'ML System Design Playbook: Fail-Fast Design Docs, Modular Architecture & Data Drift Monitoring'
-short: Why Machine Learning Design is Broken
+title: "ML System Design Playbook: Fail-Fast Design Docs, Modular Architecture & Data Drift Monitoring"
+short: "Why Machine Learning Design is Broken"
 season: 15
 episode: 1
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/3KfKptkWIa1hW1hSOvBQaO
   youtube: https://www.youtube.com/watch?v=6YBMU6475KQ
 
-description: 'Master ML system design: fail-fast design docs, modular architecture & data drift monitoring to cut risk, assign ownership, speed experiments.'
-intro: How do you design ML systems that fail fast, scale with modular architecture, and survive data drift in production? In this episode, Valerii Babushkin — Senior Director of Data, Analytics, and AI at BP, Kaggle Competitions Grandmaster, and author of Machine Learning System Design — walks through a practical playbook for ML system design. <br><br> We cover why fail-fast design docs act like blueprints to prevent wasted work, how shared and chapter-based design docs enable alignment and versioning, and the maintenance challenges of treating design docs as living artifacts. Valerii explains assigning ownership and mapping the bus factor for risk assessment, incentivizing documentation, and using a 16-chapter ML design template to standardize architecture. On the operational side we dig into monitoring strategies for data drift, concept drift, and prediction drift, plus fallback strategies — redundancy, simple baselines, and serving reliability — to keep models robust. He also points to tools and resources including Evidently AI, templates, and the book. <br><br> Listen to gain concrete tactics for fail-fast design docs, modular architecture, data drift monitoring, and baseline solutions you can apply to reduce risk and accelerate ML delivery
+description: "Master ML system design: fail-fast design docs, modular architecture & data drift monitoring to cut risk, assign ownership, speed experiments."
+intro: "How do you design ML systems that fail fast, scale with modular architecture, and survive data drift in production? In this episode, Valerii Babushkin — Senior Director of Data, Analytics, and AI at BP, Kaggle Competitions Grandmaster, and author of Machine Learning System Design — walks through a practical playbook for ML system design. <br><br> We cover why fail-fast design docs act like blueprints to prevent wasted work, how shared and chapter-based design docs enable alignment and versioning, and the maintenance challenges of treating design docs as living artifacts. Valerii explains assigning ownership and mapping the bus factor for risk assessment, incentivizing documentation, and using a 16-chapter ML design template to standardize architecture. On the operational side we dig into monitoring strategies for data drift, concept drift, and prediction drift, plus fallback strategies — redundancy, simple baselines, and serving reliability — to keep models robust. He also points to tools and resources including Evidently AI, templates, and the book. <br><br> Listen to gain concrete tactics for fail-fast design docs, modular architecture, data drift monitoring, and baseline solutions you can apply to reduce risk and accelerate ML delivery"
 topics:
 - machine learning
 - system design

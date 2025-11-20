@@ -1,6 +1,6 @@
 ---
-title: 'Master Analytics Engineering: Skills, Toolstack, Career Roadmap'
-short: 'Analytics Engineer: New Role in a Data Team'
+title: "Master Analytics Engineering: Skills, Toolstack, Career Roadmap"
+short: "Analytics Engineer: New Role in a Data Team"
 season: 3
 episode: 11
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/4rLQ5ulsYR9LqXxbFe2MlN
   apple: https://podcasts.apple.com/us/podcast/analytics-engineer-new-role-in-data-team-victoria-perez/id1541710331?i=1000526036141
 
-description: 'Master analytics engineering with dbt and data modeling: learn pipelines, testing, Snowflake basics and a clear career roadmap to advance your data career.'
-intro: How do you become an effective analytics engineer and what skills, tools, and career steps matter most? In this episode, Victoria Perez Mola—born in Argentina, trained as a Systems Engineer and now an Analytics Engineer at Tier in Berlin—walks us through her move from ERP and finance reporting into analytics engineering. We cover daily responsibilities like data modeling, pipelines, data quality and Looker; the DBT workflow (SQL transformations, version control, tests, DAG); and a practical analytics toolstack including DBT, Snowflake, Adlib ETL and Looker. Victoria contrasts analytics engineer, data analyst and data engineer roles, explains role origins, and outlines typical job expectations such as pipeline ownership, auditing and dashboarding. She digs into core skills—SQL, dimensional modeling, Snowflake—strategies for handling bad data and schema changes with DBT macros and tests, and team structures from platform teams to embedded roles. Listen for a clear career roadmap, concrete learning resources (DBT tutorials and an 'Analytics readings' Notion list), and indicators of role fit if you enjoy modeling, data quality and engineering best practices
+description: "Master analytics engineering with dbt and data modeling: learn pipelines, testing, Snowflake basics and a clear career roadmap to advance your data career."
+intro: "How do you become an effective analytics engineer and what skills, tools, and career steps matter most? In this episode, Victoria Perez Mola—born in Argentina, trained as a Systems Engineer and now an Analytics Engineer at Tier in Berlin—walks us through her move from ERP and finance reporting into analytics engineering. We cover daily responsibilities like data modeling, pipelines, data quality and Looker; the DBT workflow (SQL transformations, version control, tests, DAG); and a practical analytics toolstack including DBT, Snowflake, Adlib ETL and Looker. Victoria contrasts analytics engineer, data analyst and data engineer roles, explains role origins, and outlines typical job expectations such as pipeline ownership, auditing and dashboarding. She digs into core skills—SQL, dimensional modeling, Snowflake—strategies for handling bad data and schema changes with DBT macros and tests, and team structures from platform teams to embedded roles. Listen for a clear career roadmap, concrete learning resources (DBT tutorials and an 'Analytics readings' Notion list), and indicators of role fit if you enjoy modeling, data quality and engineering best practices"
 topics:
 - analytics engineering
 dateadded: 2021-06-19

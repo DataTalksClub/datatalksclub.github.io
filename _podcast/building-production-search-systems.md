@@ -1,6 +1,6 @@
 ---
-title: 'Building Search Systems: Dense Embeddings, MLOps and Evaluation Metrics'
-short: Building Production Search Systems
+title: "Building Search Systems: Dense Embeddings, MLOps and Evaluation Metrics"
+short: "Building Production Search Systems"
 season: 17
 episode: 9
 guests:
@@ -14,25 +14,16 @@ links:
   apple: https://podcasts.apple.com/us/podcast/building-production-search-systems-daniel-svonava/id1541710331?i=1000650138905
   spotify: https://open.spotify.com/episode/19R0rLA8hULTBZi9FhZuTs?si=xggb0OzfRHCFSmXtJWm7bA
   youtube: https://www.youtube.com/watch?v=gEmSrknGKDE
-description: Learn dense embeddings, vector databases & MLOps to productionize search—get
-  indexing, hybrid search, evaluation metrics and deploy tips to boost relevance.
-intro: 'How do you build search systems that balance dense embeddings, MLOps, and
-  meaningful evaluation metrics? In this episode Daniel Svonava — an entrepreneurial
-  technologist with 20 years of experience (from competitive programming and research
-  internships to leading ML infrastructure at YouTube Ads) and co-founder of Superlinked/VectorHub
-  — walks through practical design and operational decisions for modern search and
-  retrieval. <br><br> We cover core topics: framing search as a decision problem,
-  representation learning from bag-of-words to dense vector embeddings, inverted index
-  mechanics, document chunking and ingestion, and when to use Lucene/Elasticsearch
-  versus dedicated vector databases. Daniel explains vector compute trade-offs (ingestion
-  vs query-time encoding), model versioning and recomputing embeddings, hybrid search
-  strategies, CLIP-style cross-modal retrieval, multi-embedding designs, and techniques
-  for encoding recency and timestamps. He also digs into MLOps concerns — pipeline
-  brittleness, configuration debt, and deployment trade-offs — plus evaluation: business
-  metrics, A/B testing, offline evaluation and operational metrics. <br><br> Listeners
-  will get concrete guidance on embedding strategy, vector database selection, indexing
-  and ranking trade-offs, and how to measure search impact so teams can prototype
-  faster and productionize reliable retrieval systems.'
+description: "Learn dense embeddings, vector databases & MLOps to productionize search—get indexing, hybrid search, evaluation metrics and deploy tips to boost relevance."
+topics:
+- information retrieval
+- vector databases
+- embeddings
+- MLOps
+- evaluation metrics
+- production
+- search
+intro: "How do you build search systems that balance dense embeddings, MLOps, and meaningful evaluation metrics? In this episode Daniel Svonava — an entrepreneurial technologist with 20 years of experience (from competitive programming and research internships to leading ML infrastructure at YouTube Ads) and co-founder of Superlinked/VectorHub — walks through practical design and operational decisions for modern search and retrieval. <br><br> We cover core topics: framing search as a decision problem, representation learning from bag-of-words to dense vector embeddings, inverted index mechanics, document chunking and ingestion, and when to use Lucene/Elasticsearch versus dedicated vector databases. Daniel explains vector compute trade-offs (ingestion vs query-time encoding), model versioning and recomputing embeddings, hybrid search strategies, CLIP-style cross-modal retrieval, multi-embedding designs, and techniques for encoding recency and timestamps. He also digs into MLOps concerns — pipeline brittleness, configuration debt, and deployment trade-offs — plus evaluation: business metrics, A/B testing, offline evaluation and operational metrics. <br><br> Listeners will get concrete guidance on embedding strategy, vector database selection, indexing and ranking trade-offs, and how to measure search impact so teams can prototype faster and productionize reliable retrieval systems."
 dateadded: 2024-03-25
 duration: PT01H05M23S
 quotableClips:

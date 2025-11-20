@@ -1,6 +1,6 @@
 ---
-title: 'Open Source ML Tools: Scikit-Learn Governance, Sustainability and Business Models'
-short: Working in Open Source - Probabl.ai and sklearn
+title: "Open Source ML Tools: Scikit-Learn Governance, Sustainability and Business Models"
+short: "Working in Open Source - Probabl.ai and sklearn"
 season: 18
 episode: 4
 guests:
@@ -14,24 +14,15 @@ links:
   apple: https://podcasts.apple.com/us/podcast/working-in-open-source-probabl-ai-and-sklearn-vincent/id1541710331?i=1000654481795
   spotify: https://open.spotify.com/episode/0HT3IQOaTXTMH0OdEBnw9s?si=HrLtx7QKT_amZyUbZuqRzQ
   youtube: https://www.youtube.com/watch?v=UPlIETGwTg8
-description: Discover Scikit-Learn open source business models—learn maintainer strategies,
-  CI cost optimization and training monetization to build sustainable projects.
-intro: How can open source ML tools stay healthy, useful, and financially sustainable
-  while serving both researchers and industry? In this episode Vincent Warmerdam —
-  Research Advocate at Rasa, author of the Koaning blog, creator of the Algorithm
-  Whiteboard playlist, and cofounder of Calm Code — walks through the real-world tradeoffs
-  of scikit-learn governance, sustainability, and business models for ML tooling.
-  <br><br> We dig into scikit-learn’s history, NumFOCUS relationships, and the plugin-versus-core
-  strategy; practical maintainer issues like transitions, motivating volunteers, and
-  using open source contributions as hiring signals; and the intersection of developer
-  relations and core engineering. Vincent also explores Calm Code’s low-pressure teaching
-  philosophy, content and monetization choices, and platform decisions (Django, contributor
-  hiring). Technical operations topics include CI cost optimization with custom runners
-  and sustainable compute examples (Leaf.cloud), plus hands-on projects like Skrub’s
-  table vectorizer and GAP encoder for pragmatic tabular defaults. <br><br> Listeners
-  will gain actionable insights on governance models, maintaining project health,
-  and realistic business options — training, consulting, and partnerships — for anyone
-  building or stewarding open source ML tools.
+description: "Discover Scikit-Learn open source business models—learn maintainer strategies, CI cost optimization and training monetization to build sustainable projects."
+topics:
+- open-source
+- machine learning
+- data science
+- tools
+- developer relations
+  
+intro: "How can open source ML tools stay healthy, useful, and financially sustainable while serving both researchers and industry? In this episode Vincent Warmerdam — Research Advocate at Rasa, author of the Koaning blog, creator of the Algorithm Whiteboard playlist, and cofounder of Calm Code — walks through the real-world tradeoffs of scikit-learn governance, sustainability, and business models for ML tooling. <br><br> We dig into scikit-learn's history, NumFOCUS relationships, and the plugin-versus-core strategy; practical maintainer issues like transitions, motivating volunteers, and using open source contributions as hiring signals; and the intersection of developer relations and core engineering. Vincent also explores Calm Code's low-pressure teaching philosophy, content and monetization choices, and platform decisions (Django, contributor hiring). Technical operations topics include CI cost optimization with custom runners and sustainable compute examples (Leaf.cloud), plus hands-on projects like Skrub's table vectorizer and GAP encoder for pragmatic tabular defaults. <br><br> Listeners will gain actionable insights on governance models, maintaining project health, and realistic business options — training, consulting, and partnerships — for anyone building or stewarding open source ML tools."
 dateadded: 2024-05-06
 duration: PT01H15S
 quotableClips:

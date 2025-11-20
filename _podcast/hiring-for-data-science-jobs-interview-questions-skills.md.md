@@ -1,6 +1,6 @@
 ---
-title: 'How to Hire Data Scientists: Interview Questions, MLOps, AutoML Limits & Inclusive Hiring'
-short: Hiring Data Science Talent
+title: "How to Hire Data Scientists: Interview Questions, MLOps, AutoML Limits & Inclusive Hiring"
+short: "Hiring Data Science Talent"
 season: 9
 episode: 9
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/7ddvA9zNTip5Bt6EYnMNty?si=4fee84a6ad43465d
   youtube: https://www.youtube.com/watch?v=Af9t9r2b0z0
 
-description: 'Learn to hire data scientists: interview questions, MLOps insights and inclusive hiring tactics to assess technical depth, AutoML limits and build better teams.'
-intro: 'How do you hire the right data scientists today—balancing algorithmic depth, MLOps skills, and inclusive hiring practices? In this episode, Olga Ivina, Delivery Data Science Director at Microsoft and former Deloitte consultant with a Ph.D. and 16+ years in AI, walks through practical strategies for recruiting strong data science talent. <br><br> Olga draws on her journey from applied mathematics and air pollution research to leading delivery teams to explain core hiring criteria: technical excellence, growth mindset, communication, and humility. We cover concrete interview questions and diagnostic problems that reveal algorithmic understanding and assumptions, how to structure coding and analytical tasks, and ways to assess role fit between mathematical expertise and engineering skills. The conversation also addresses the rise of MLOps, realistic limits of AutoML and the human-in-the-loop, career path trade-offs, and interviewing candidates with employment gaps. <br><br> If you’re hiring data scientists or building interview processes, this episode delivers actionable frameworks, sample diagnostic questions, and inclusive hiring tips—language to avoid in job posts and strategies to attract diverse candidates—so you can evaluate both technical depth and practical delivery capability.'
+description: "Learn to hire data scientists: interview questions, MLOps insights and inclusive hiring tactics to assess technical depth, AutoML limits and build better teams."
+intro: "How do you hire the right data scientists today—balancing algorithmic depth, MLOps skills, and inclusive hiring practices? In this episode, Olga Ivina, Delivery Data Science Director at Microsoft and former Deloitte consultant with a Ph.D. and 16+ years in AI, walks through practical strategies for recruiting strong data science talent. <br><br> Olga draws on her journey from applied mathematics and air pollution research to leading delivery teams to explain core hiring criteria: technical excellence, growth mindset, communication, and humility. We cover concrete interview questions and diagnostic problems that reveal algorithmic understanding and assumptions, how to structure coding and analytical tasks, and ways to assess role fit between mathematical expertise and engineering skills. The conversation also addresses the rise of MLOps, realistic limits of AutoML and the human-in-the-loop, career path trade-offs, and interviewing candidates with employment gaps. <br><br> If you’re hiring data scientists or building interview processes, this episode delivers actionable frameworks, sample diagnostic questions, and inclusive hiring tips—language to avoid in job posts and strategies to attract diverse candidates—so you can evaluate both technical depth and practical delivery capability."
 topics:
 - data science
 - career growth

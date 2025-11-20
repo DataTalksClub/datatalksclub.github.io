@@ -1,6 +1,6 @@
 ---
-title: 'Data Science Career Playbook: Build Unique IoT Portfolios, Explainable AI, OSINT & LinkedIn Growth'
-short: Hacking Your Data Career
+title: "Data Science Career Playbook: Build Unique IoT Portfolios, Explainable AI, OSINT & LinkedIn Growth"
+short: "Hacking Your Data Career"
 season: 8
 episode: 2
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/6oJsS0vhvAQasLNv3IklQ6
   youtube: https://www.youtube.com/watch?v=RhSg8ill1So
 
-description: 'Discover proven strategies to stand out in data science: build unique portfolio projects, master proactive task selection, and grow visibility with expert LinkedIn tactics.'
-intro: In this episode, Marijn Markus—AI Lead and Managing Data Scientist at Capgemini—shares how to stand out in data science by combining curiosity, courage, and creativity. From his unconventional background in sociology and criminology, Marijn explains how diverse teams outperform homogeneous ones, why proactive problem-solving matters, and how to challenge hierarchy with data-driven insights. <br><br> You'll learn how to build unique portfolio projects (like time series modeling from a coffee machine), apply OSINT concepts to modern analytics, and grow your visibility through a thoughtful LinkedIn strategy
+description: "Discover proven strategies to stand out in data science: build unique portfolio projects, master proactive task selection, and grow visibility with expert LinkedIn tactics."
+intro: "In this episode, Marijn Markus—AI Lead and Managing Data Scientist at Capgemini—shares how to stand out in data science by combining curiosity, courage, and creativity. From his unconventional background in sociology and criminology, Marijn explains how diverse teams outperform homogeneous ones, why proactive problem-solving matters, and how to challenge hierarchy with data-driven insights. <br><br> You'll learn how to build unique portfolio projects (like time series modeling from a coffee machine), apply OSINT concepts to modern analytics, and grow your visibility through a thoughtful LinkedIn strategy"
 topics:
 - data science
 - career growth

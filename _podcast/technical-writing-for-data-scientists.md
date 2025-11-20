@@ -1,6 +1,6 @@
 ---
-title: 'Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career'
-short: 'Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career'
+title: "Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career"
+short: "Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career"
 season: 2
 episode: 1
 guests:
@@ -15,8 +15,14 @@ links:
   spotify: TODO
   apple: TODO
 
-description: 'Master technical writing for data science with a practical 7-day workflow: outline-first cadence, portfolio tips, docs & distribution to accelerate your career.'
-intro: How can technical writing accelerate your data science career in just one week? In this episode, Eugene Yan — an Applied Scientist at Amazon who previously led data science teams at Lazada and uCare.ai and writes about ML in production and career growth — walks through a practical, repeatable 7-day workflow for technical writing tailored to data scientists. <br><br> We cover Eugene’s career transition and first public writing, motivations for sharing work, and how to target readers (peers, future teammates, and hiring managers). He frames writing as a product with a weekly shipping cadence, explains the outline-first method for filtering ideas, and outlines a realistic time budget and editing limits. You’ll get concrete guidance on idea sourcing, title crafting, article length, blogging tools (Medium, Substack, WordPress, Jekyll), writing habits, distribution via Twitter and LinkedIn, and writing at work (press releases, design docs, decision logs). Practical portfolio advice — clear README, quick start, repo tour — and tips to iterate outlines and ship weekly round out the episode. <br><br> Listen to learn a concrete 7-day workflow, documentation and portfolio best practices, and distribution tactics to boost your technical writing and advance your data science career
+description: "Master technical writing for data science with a practical 7-day workflow: outline-first cadence, portfolio tips, docs & distribution to accelerate your career."
+topics:
+- software engineering
+- tools
+- practices
+- communication
+- career transition
+intro: "How can technical writing accelerate your data science career in just one week? In this episode, Eugene Yan — an Applied Scientist at Amazon who previously led data science teams at Lazada and uCare.ai and writes about ML in production and career growth — walks through a practical, repeatable 7-day workflow for technical writing tailored to data scientists. <br><br> We cover Eugene’s career transition and first public writing, motivations for sharing work, and how to target readers (peers, future teammates, and hiring managers). He frames writing as a product with a weekly shipping cadence, explains the outline-first method for filtering ideas, and outlines a realistic time budget and editing limits. You’ll get concrete guidance on idea sourcing, title crafting, article length, blogging tools (Medium, Substack, WordPress, Jekyll), writing habits, distribution via Twitter and LinkedIn, and writing at work (press releases, design docs, decision logs). Practical portfolio advice — clear README, quick start, repo tour — and tips to iterate outlines and ship weekly round out the episode. <br><br> Listen to learn a concrete 7-day workflow, documentation and portfolio best practices, and distribution tactics to boost your technical writing and advance your data science career"
 dateadded: 2021-02-23
 
 

@@ -1,6 +1,6 @@
 ---
-title: 'Actionable Data Strategy & DataOps for AI-Powered Products: Pitch, Measure, Use GPT'
-short: 'Data Strategy: Key Principles and Best Practices'
+title: "Actionable Data Strategy & DataOps for AI-Powered Products: Pitch, Measure, Use GPT"
+short: "Data Strategy: Key Principles and Best Practices"
 season: 14
 episode: 3
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/7tITQ4nLypogRLUjjK75mx?si=722BlhoLSGuxZlE9ia7VhA
   youtube: https://www.youtube.com/watch?v=jGbfeYdlCiQ
 
-description: 'Master actionable data strategy, DataOps & GPT: learn to pitch small AI use cases, set baselines, apply CI/CD and deliver measurable AI-powered products.'
-intro: How do you turn AI ambitions into measurable, deliverable data products? In this episode Boyan Angelov — author of Elements of Data Strategy and leader of data strategy at Exxeta AG — walks through practical steps to make data strategy actionable for AI-powered products. Drawing on a decade across bioinformatics, clinical trials, HRTech, LegalTech and consulting, Boyan reframes data strategy as a flexible, outcome-focused plan and explains the due diligence needed to align business goals with feasible use cases. <br><br> Topics covered include use case ideation, feasibility and prioritization, managing influence cascades and scope creep, impact assessment and portfolio management, and delivery practices. We dig into DataOps principles — lean, agile and CI/CD for data — and clarify platform, AI and BI roles and the core skills required for strategists. Boyan also shows how GPT and ChatGPT can be used as a writing co-pilot for outlines, pitches and technical guidance, and recommends starting small with budgeted use cases plus baseline and post-implementation metrics to measure success. <br><br> Listen to get concrete guidance on pitching, measuring and operationalizing a data strategy for AI-powered products — including practical DataOps and GPT workflows you can apply right away
+description: "Master actionable data strategy, DataOps & GPT: learn to pitch small AI use cases, set baselines, apply CI/CD and deliver measurable AI-powered products."
+intro: "How do you turn AI ambitions into measurable, deliverable data products? In this episode Boyan Angelov — author of Elements of Data Strategy and leader of data strategy at Exxeta AG — walks through practical steps to make data strategy actionable for AI-powered products. Drawing on a decade across bioinformatics, clinical trials, HRTech, LegalTech and consulting, Boyan reframes data strategy as a flexible, outcome-focused plan and explains the due diligence needed to align business goals with feasible use cases. <br><br> Topics covered include use case ideation, feasibility and prioritization, managing influence cascades and scope creep, impact assessment and portfolio management, and delivery practices. We dig into DataOps principles — lean, agile and CI/CD for data — and clarify platform, AI and BI roles and the core skills required for strategists. Boyan also shows how GPT and ChatGPT can be used as a writing co-pilot for outlines, pitches and technical guidance, and recommends starting small with budgeted use cases plus baseline and post-implementation metrics to measure success. <br><br> Listen to get concrete guidance on pitching, measuring and operationalizing a data strategy for AI-powered products — including practical DataOps and GPT workflows you can apply right away"
 topics:
 - data strategy
 - dataops

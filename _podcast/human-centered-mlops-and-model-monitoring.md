@@ -1,6 +1,6 @@
 ---
-title: 'Master Human-Centered MLOps: Stakeholder Buy-In, Monitoring, Debugging & Incident Response'
-short: Humans in the Loop
+title: "Master Human-Centered MLOps: Stakeholder Buy-In, Monitoring, Debugging & Incident Response"
+short: "Humans in the Loop"
 season: 4
 episode: 6
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/23VxmAEkKUs1kjaludRQAR
   apple: https://podcasts.apple.com/us/podcast/humans-in-the-loop-lina-weichbrodt/id1541710331?i=1000530535704
 
-description: 'Master human-centered MLOps: actionable stakeholder buy-in tactics, model monitoring and incident response playbooks to debug and ship reliable ML.'
-intro: 'How do you make MLOps human-centered so stakeholders actually trust models and teams can monitor, debug, and respond to incidents? In this episode, Lina Weichbrodt — a generalist machine learning developer who prototypes data-driven products end-to-end (design, implementation, A/B tests, operations) — walks through practical MLOps strategies that prioritize people as much as pipelines. <br><br> We cover a project intake checklist (business case, KPIs, alternatives), how to evaluate whether AI is needed, and scoping problems so outcomes are visible in the UI. Lina explains stakeholder engagement techniques (pairing, availability, converting fears into mitigations), demos vs reporting for buy-in, and building trust through domain understanding and data issue support. You’ll get concrete guidance on incident preparedness and ML incident response: service levels, impact assessment, post-mortems, Five Whys root-cause debugging, and turning findings into tickets. We also dive into model monitoring and detection (live test sets, small A/B tests, feature drift, data monitoring), observability practices, explainability vs debugging, and a credit-scoring case study to illustrate prioritization. Listen to learn repeatable, human-centered tactics for stakeholder buy-in, model monitoring, ML debugging, and incident response.'
+description: "Master human-centered MLOps: actionable stakeholder buy-in tactics, model monitoring and incident response playbooks to debug and ship reliable ML."
+intro: "How do you make MLOps human-centered so stakeholders actually trust models and teams can monitor, debug, and respond to incidents? In this episode, Lina Weichbrodt — a generalist machine learning developer who prototypes data-driven products end-to-end (design, implementation, A/B tests, operations) — walks through practical MLOps strategies that prioritize people as much as pipelines. <br><br> We cover a project intake checklist (business case, KPIs, alternatives), how to evaluate whether AI is needed, and scoping problems so outcomes are visible in the UI. Lina explains stakeholder engagement techniques (pairing, availability, converting fears into mitigations), demos vs reporting for buy-in, and building trust through domain understanding and data issue support. You’ll get concrete guidance on incident preparedness and ML incident response: service levels, impact assessment, post-mortems, Five Whys root-cause debugging, and turning findings into tickets. We also dive into model monitoring and detection (live test sets, small A/B tests, feature drift, data monitoring), observability practices, explainability vs debugging, and a credit-scoring case study to illustrate prioritization. Listen to learn repeatable, human-centered tactics for stakeholder buy-in, model monitoring, ML debugging, and incident response."
 topics:
 - MLOps
 - machine learning

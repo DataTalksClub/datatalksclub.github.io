@@ -1,7 +1,6 @@
 ---
-title: 'Applied LLM Research & Career Growth: Long-Context Evaluation, Prototyping
-  & Industry Publishing'
-short: Build a Strong Career in Data
+title: "Applied LLM Research & Career Growth: Long-Context Evaluation, Prototyping & Industry Publishing"
+short: "Build a Strong Career in Data"
 season: 20
 episode: 7
 guests:
@@ -15,23 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/build-a-strong-career-in-data-lavanya-gupta/id1541710331?i=1000706988972
   spotify: https://open.spotify.com/episode/2mJXd0lSZFPKJA0ZrG9iS2
   youtube: https://www.youtube.com/watch?v=ekG5zJioyFs
-description: Learn LLM research tactics, long-context evaluation approaches and prototyping
-  tips to boost your career, publish industry work, and ship impactful models.
-intro: How do you evaluate and prototype long-context LLMs in a real-world setting
-  while advancing a career as an applied researcher? In this episode Lavanya Gupta
-  — a Carnegie Mellon Language Technologies Institute alum and Sr. AI/ML Applied Scientist
-  at JPMorgan Chase’s Machine Learning Center of Excellence — walks through practical
-  strategies for applied LLM research and career growth. With 5+ years of industrial
-  research experience, public talks at WiDS, PyData, TensorFlow User Group and reviewer
-  roles for NeurIPS 2024, ICLR 2025 and NAACL 2025, Lavanya connects technical practice
-  with professional development. <br><br> We cover core topics including long-context
-  evaluation methodologies for transformer models, rapid prototyping workflows for
-  LLM systems, and best practices for industry publishing and technical communication.
-  Listeners will get actionable guidance on setting up reproducible experiments, balancing
-  research rigor with product timelines, and positioning industry work for peer-reviewed
-  venues. This episode is for machine learning engineers, NLP researchers, and applied
-  scientists seeking concrete tactics for prototyping LLMs, conducting robust long-context
-  evaluations, and growing a research-oriented career in industry.
+description: "Learn LLM research tactics, long-context evaluation approaches and prototyping tips to boost your career, publish industry work, and ship impactful models."
+topics:
+- LLMs
+- NLP
+- MLOps
+- applied research
+- career growth
+intro: "How do you evaluate and prototype long-context LLMs in a real-world setting while advancing a career as an applied researcher? In this episode Lavanya Gupta — a Carnegie Mellon Language Technologies Institute alum and Sr. AI/ML Applied Scientist at JPMorgan Chase’s Machine Learning Center of Excellence — walks through practical strategies for applied LLM research and career growth. With 5+ years of industrial research experience, public talks at WiDS, PyData, TensorFlow User Group and reviewer roles for NeurIPS 2024, ICLR 2025 and NAACL 2025, Lavanya connects technical practice with professional development. <br><br> We cover core topics including long-context evaluation methodologies for transformer models, rapid prototyping workflows for LLM systems, and best practices for industry publishing and technical communication. Listeners will get actionable guidance on setting up reproducible experiments, balancing research rigor with product timelines, and positioning industry work for peer-reviewed venues. This episode is for machine learning engineers, NLP researchers, and applied scientists seeking concrete tactics for prototyping LLMs, conducting robust long-context evaluations, and growing a research-oriented career in industry."
 dateadded: 2025-05-12
 duration: PT00H58M10S
 quotableClips:
@@ -99,7 +89,7 @@ quotableClips:
   startOffset: 2252
   url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2252
   endOffset: 2473
-- name: 'Opportunity & Persistence: Timing, Luck, and "Shooting Arrows"'
+- name: 'Opportunity & Persistence: Timing, Luck, and "Shooting Arrows"
   startOffset: 2473
   url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2473
   endOffset: 2724
@@ -878,7 +868,7 @@ transcript:
   sec: 2403
   time: '40:03'
   who: Alexey
-- header: 'Opportunity & Persistence: Timing, Luck, and "Shooting Arrows"'
+- header: 'Opportunity & Persistence: Timing, Luck, and "Shooting Arrows"
 - line: Yeah, definitely. I mentioned luck because, as you said, at that time-during
     COVID-people were really active on Kaggle. Maybe the timing was luck, but it wasn't
     a random decision to just get up one day and scrape Google Play Store.

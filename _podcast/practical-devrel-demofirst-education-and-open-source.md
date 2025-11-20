@@ -1,7 +1,6 @@
 ---
-title: 'Developer Advocacy Through Community Impact: Technical Leadership, Open Source
-  Mentorship & Demo-Driven Communication'
-short: From Hackathons To Developer Advocacy
+title: "Developer Advocacy Through Community Impact: Technical Leadership, Open Source Mentorship & Demo-Driven Communication"
+short: "Developer Advocacy Through Community Impact"
 season: 20
 episode: 8
 guests:
@@ -15,23 +14,14 @@ links:
   apple: https://podcasts.apple.com/us/podcast/from-hackathons-to-developer-advocacy-will-russel/id1541710331?i=1000709634418
   spotify: https://open.spotify.com/episode/4Lt785S38GuK0W2m7naRKt
   youtube: https://www.youtube.com/watch?v=vXbMUfHE1OE
-description: Master developer advocacy, open source mentorship & demo-driven communication
-  to elevate technical leadership, amplify community impact & accelerate adoption.
-intro: How do developer advocates create measurable community impact while balancing
-  technical leadership, mentorship, and clear communication? In this episode Will
-  Russell, Developer Advocate at Kestra, explores that question through the lens of
-  workflow orchestration and developer education. Will is known for his technical
-  video content on workflow orchestration and for building open source education programs
-  that help new contributors make their first pull requests. <br><br> We cover core
-  topics including technical leadership in community settings, practical approaches
-  to open source mentorship, and the power of demo-driven communication and documentation
-  to make complex tools approachable. Will discusses how creating targeted videos
-  and clear docs lowers barriers for developers and nurtures sustainable contributor
-  pipelines. <br><br> Listeners will come away with concrete ideas for designing open
-  source education programs, using demos to explain concepts, and applying developer
-  advocacy techniques to grow healthier communities. This episode is useful for developer
-  advocates, engineering managers, open source maintainers, and anyone interested
-  in workflow orchestration, developer education, and community-driven technical leadership.
+description: "Master developer advocacy, open source mentorship & demo-driven communication to elevate technical leadership, amplify community impact & accelerate adoption."
+topics:
+- open-source
+- computer vision
+- tools
+- MLOps
+- software engineering
+intro: "How do developer advocates create measurable community impact while balancing technical leadership, mentorship, and clear communication? In this episode Will Russell, Developer Advocate at Kestra, explores that question through the lens of workflow orchestration and developer education. Will is known for his technical video content on workflow orchestration and for building open source education programs that help new contributors make their first pull requests. <br><br> We cover core topics including technical leadership in community settings, practical approaches to open source mentorship, and the power of demo-driven communication and documentation to make complex tools approachable. Will discusses how creating targeted videos and clear docs lowers barriers for developers and nurtures sustainable contributor pipelines. <br><br> Listeners will come away with concrete ideas for designing open source education programs, using demos to explain concepts, and applying developer advocacy techniques to grow healthier communities. This episode is useful for developer advocates, engineering managers, open source maintainers, and anyone interested in workflow orchestration, developer education, and community-driven technical leadership."
 dateadded: 2025-05-26
 duration: PT01H01M29S
 quotableClips:
@@ -139,7 +129,7 @@ quotableClips:
   startOffset: 3442
   url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3442
   endOffset: 3599
-- name: 'Leadership & Team Empowerment Recommendation: "Turn the Ship Around"'
+- name: 'Leadership & Team Empowerment Recommendation: "Turn the Ship Around"
   startOffset: 3599
   url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3599
   endOffset: 3689
@@ -1548,7 +1538,7 @@ transcript:
   sec: 3578
   time: '59:38'
   who: Alexey
-- header: 'Leadership & Team Empowerment Recommendation: "Turn the Ship Around"'
+- header: 'Leadership & Team Empowerment Recommendation: "Turn the Ship Around"
 - line: When I was at the fellowship, managing a group of student leaders, I felt
     overwhelmed and unsure if I was giving enough support, especially early in my
     career.

@@ -1,7 +1,6 @@
 ---
-title: 'Lean MLOps for Startups: SaaS-First MVP Stack, Avoid Vendor Lock-In & Manage
-  Tech Debt'
-short: MLOps in Corporations and Startups
+title: "Lean MLOps for Startups: SaaS-First MVP Stack, Avoid Vendor Lock-In & Manage Tech Debt"
+short: "MLOps in Corporations and Startups"
 season: 20
 episode: 4
 guests:
@@ -15,22 +14,16 @@ links:
   apple: https://podcasts.apple.com/us/podcast/mlops-in-corporations-and-startups-nemanja-radojkovic/id1541710331?i=1000699195928
   spotify: https://open.spotify.com/episode/6V8gkTSz7LuPjQYC4rO019
   youtube: https://www.youtube.com/watch?v=DX9c__a4jzg
-description: 'Learn lean MLOps for startups: build a SaaS-first MVP stack, avoid vendor
-  lock-in, and manage tech debt to ship faster, cut costs, and scale safely.'
-intro: How can a startup implement Lean MLOps that gets models into production quickly
-  without incurring vendor lock-in or crushing tech debt? In this episode Nemanja
-  Radojkovic — an Electrical Engineer turned Data Scientist and MLOps Engineer, former
-  consultant at Big4 and boutique firms, DataCamp course author, and teacher of Python
-  and machine learning — walks through practical strategies for building a SaaS-first
-  MVP stack while preserving future flexibility. <br><br> We dig into the core trade-offs
-  of a SaaS-first approach for an MVP, patterns to avoid vendor lock-in, and pragmatic
-  ways to manage accumulating tech debt in machine learning systems. Nemanja draws
-  on hands-on experience across data science, MLOps, and product environments to explain
-  how startups can choose tooling, limit integration risk, and plan safe migration
-  paths as needs change. <br><br> Listeners will come away with concrete considerations
-  for designing a lean MLOps stack, assessing SaaS versus self-hosted options, and
-  thinking ahead about maintainability and portability — essential guidance for founders,
-  ML engineers, and product teams building production-ready ML on a startup timeline.
+description: "Learn lean MLOps for startups: build a SaaS-first MVP stack, avoid vendor lock-in, and manage tech debt to ship faster, cut costs, and scale safely."
+topics:
+- MLOps
+- data engineering
+- tools
+- production
+- career transition
+- startups
+  
+intro: "How can a startup implement Lean MLOps that gets models into production quickly without incurring vendor lock-in or crushing tech debt? In this episode Nemanja Radojkovic — an Electrical Engineer turned Data Scientist and MLOps Engineer, former consultant at Big4 and boutique firms, DataCamp course author, and teacher of Python and machine learning — walks through practical strategies for building a SaaS-first MVP stack while preserving future flexibility. <br><br> We dig into the core trade-offs of a SaaS-first approach for an MVP, patterns to avoid vendor lock-in, and pragmatic ways to manage accumulating tech debt in machine learning systems. Nemanja draws on hands-on experience across data science, MLOps, and product environments to explain how startups can choose tooling, limit integration risk, and plan safe migration paths as needs change. <br><br> Listeners will come away with concrete considerations for designing a lean MLOps stack, assessing SaaS versus self-hosted options, and thinking ahead about maintainability and portability — essential guidance for founders, ML engineers, and product teams building production-ready ML on a startup timeline."
 dateadded: 2025-03-15
 duration: PT01H01M06S
 quotableClips:

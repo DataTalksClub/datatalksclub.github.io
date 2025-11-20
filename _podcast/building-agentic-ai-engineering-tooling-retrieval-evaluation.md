@@ -1,7 +1,6 @@
 ---
-title: 'Building Agentic AI Systems: Pragmatic Agent Engineering, Tooling, Retrieval
-  & Evaluation'
-short: Building reliable AI products in the era of Gen AI and Agents
+title: "Building Agentic AI Systems: Pragmatic Agent Engineering, Tooling, Retrieval & Evaluation"
+short: "Building reliable AI products in the era of Gen AI and Agents"
 season: 22
 episode: 1
 guests:
@@ -15,23 +14,15 @@ links:
   apple: https://podcasts.apple.com/us/podcast/building-reliable-ai-products-in-the-era-of-gen/id1541710331?i=1000731199709
   spotify: https://open.spotify.com/episode/7c22vqYNuNLKKYEfYGOos8?si=NBFT2e80S6WErW_tDDrijA
   youtube: https://www.youtube.com/watch?v=x2AAjqz2XmM
-description: 'Discover agentic AI tactics: practical agent engineering and retrieval
-  strategies to build robust autonomous systems, boost performance and ensure reliability.'
-intro: 'How do you build reliable, agentic AI systems that balance practical engineering,
-  tooling, retrieval, and robust evaluation? In this episode Ranjitha Kulkarni, Staff
-  Machine Learning Engineer at NeuBird.ai and former engineer on LLM- and agent-powered
-  product features at Dropbox Dash and Microsoft, explores pragmatic approaches to
-  agent design. Drawing on her work in speech recognition, language modeling, assistant
-  evaluation, and publications on voice query reformulation and automatic online evaluation,
-  Ranjitha discusses key elements of agent engineering: selecting and integrating
-  tools, designing effective retrieval pipelines, and establishing meaningful evaluation
-  metrics for intelligent assistants. <br><br> Listeners will get a grounded look
-  at the trade-offs of agentic AI in real products, how retrieval strategies impact
-  reasoning and performance, and practical evaluation frameworks to measure assistant
-  behavior. If you’re building LLM-powered agents, improving tool use, or defining
-  evaluation for agentic systems, this episode offers actionable perspectives rooted
-  in production experience and research. Keywords: agentic AI, agent engineering,
-  agent tooling, retrieval, agent evaluation, LLM-powered products.'
+description: "Discover agentic AI tactics: practical agent engineering and retrieval strategies to build robust autonomous systems, boost performance and ensure reliability."
+topics:
+- LLMs
+- AI
+- agent engineering
+- retrieval-augmented generation
+- MLOps
+- tools
+intro: "How do you build reliable, agentic AI systems that balance practical engineering, tooling, retrieval, and robust evaluation? In this episode Ranjitha Kulkarni, Staff Machine Learning Engineer at NeuBird.ai and former engineer on LLM- and agent-powered product features at Dropbox Dash and Microsoft, explores pragmatic approaches to agent design. Drawing on her work in speech recognition, language modeling, assistant evaluation, and publications on voice query reformulation and automatic online evaluation, Ranjitha discusses key elements of agent engineering: selecting and integrating tools, designing effective retrieval pipelines, and establishing meaningful evaluation metrics for intelligent assistants. <br><br> Listeners will get a grounded look at the trade-offs of agentic AI in real products, how retrieval strategies impact reasoning and performance, and practical evaluation frameworks to measure assistant behavior. If you’re building LLM-powered agents, improving tool use, or defining evaluation for agentic systems, this episode offers actionable perspectives rooted in production experience and research. Keywords: agentic AI, agent engineering, agent tooling, retrieval, agent evaluation, LLM-powered products."
 dateadded: 2025-10-21
 duration: PT00H59M23S
 quotableClips:

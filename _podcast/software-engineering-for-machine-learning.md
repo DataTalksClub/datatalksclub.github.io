@@ -1,6 +1,6 @@
 ---
-title: 'Software Engineering for ML: Prevent Hidden Technical Debt with MLOps, Documentation & Team Alignment'
-short: Software Engineering for ML
+title: "Software Engineering for ML: Prevent Hidden Technical Debt with MLOps, Documentation & Team Alignment"
+short: "Software Engineering for ML"
 season: 13
 episode: 5
 guests:
@@ -15,8 +15,8 @@ links:
   spotify: https://open.spotify.com/episode/6ElyurOyGfRiCwLGUWOG7f?si=6k0i3XNUSPWd31vsZv4pfA
   youtube: https://www.youtube.com/watch?v=35Ch8xL2SA8
 
-description: Learn how to prevent hidden technical debt in ML systems with MLOps, documentation and responsible AI— improve reliability, tests, and team alignment
-intro: How do teams prevent hidden technical debt in ML systems before it derails production? In this episode, Nadia Nahar, a PhD student in Software Engineering at Carnegie Mellon University, walks through the software-engineering challenges unique to machine learning and practical steps to reduce long-term costs. <br><br> We cover defining software engineering for ML systems, differences from traditional software (uncertainty, data workflows, monitoring), and the “hidden technical debt” scope. Nadia describes an artifact analysis of open-source ML products (~300 repos), common failure modes (discontinuation, unmet requirements, poor data, deployment gaps), and research methods combining manual review with commit/code scripts. Key topics include requirements alignment, team structures and integration patterns, CRISP-DM vs Agile mismatches, MLOps and engineering support, plus documentation practices (Model Cards, Datasheets, factsheets, checklists). We also discuss responsible AI use cases—explainability needs in healthcare and education, including a classroom game predicting smoking risk—and governance approaches for product-centric fairness. <br><br> Listen to learn concrete remedies—workshops, shared vocabularies, documentation standards, and how to involve ML practitioners from requirements through testing—to prevent hidden technical debt in ML systems
+description: "Learn how to prevent hidden technical debt in ML systems with MLOps, documentation and responsible AI— improve reliability, tests, and team alignment"
+intro: "How do teams prevent hidden technical debt in ML systems before it derails production? In this episode, Nadia Nahar, a PhD student in Software Engineering at Carnegie Mellon University, walks through the software-engineering challenges unique to machine learning and practical steps to reduce long-term costs. <br><br> We cover defining software engineering for ML systems, differences from traditional software (uncertainty, data workflows, monitoring), and the “hidden technical debt” scope. Nadia describes an artifact analysis of open-source ML products (~300 repos), common failure modes (discontinuation, unmet requirements, poor data, deployment gaps), and research methods combining manual review with commit/code scripts. Key topics include requirements alignment, team structures and integration patterns, CRISP-DM vs Agile mismatches, MLOps and engineering support, plus documentation practices (Model Cards, Datasheets, factsheets, checklists). We also discuss responsible AI use cases—explainability needs in healthcare and education, including a classroom game predicting smoking risk—and governance approaches for product-centric fairness. <br><br> Listen to learn concrete remedies—workshops, shared vocabularies, documentation standards, and how to involve ML practitioners from requirements through testing—to prevent hidden technical debt in ML systems"
 topics:
 - software engineering
 - machine learning

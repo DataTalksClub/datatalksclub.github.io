@@ -1,6 +1,6 @@
 ---
-title: 'From Hands-On IoT Data Engineering to Leading Data Architecture: Pipelines, Cloud Adaptation & Analytics Modeling'
-short: From Data Manager to Data Architect
+title: "From Hands-On IoT Data Engineering to Leading Data Architecture: Pipelines, Cloud Adaptation & Analytics Modeling"
+short: "From Data Manager to Data Architect"
 season: 15
 episode: 8
 guests:

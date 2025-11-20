@@ -1,6 +1,6 @@
 ---
-title: 'Building Digital Health Startups: MVP Strategy, AI Diagnosis and Telemedicine'
-short: AI for Digital Health
+title: "Building Digital Health Startups: MVP Strategy, AI Diagnosis and Telemedicine"
+short: "AI for Digital Health"
 season: 16
 episode: 8
 guests:
@@ -14,25 +14,15 @@ links:
   apple: https://podcasts.apple.com/us/podcast/ai-for-digital-health-maria-bruckert/id1541710331?i=1000637212773
   spotify: https://open.spotify.com/episode/2NE0vbiYwXxOuqychHIqBR?si=QdRyuJvSRE2V3bLwHaEv-Q
   youtube: https://www.youtube.com/watch?v=whpkDmVVGUE
-description: Discover actionable digital health MVP strategy, telemedicine tactics
-  to build, validate and monetize a scalable healthcare startup with faster remote
-  care.
-intro: How do you build a digital health startup that ships a focused MVP, uses AI
-  for diagnosis, and delivers care via telemedicine while overcoming data gaps and
-  legacy workflows? In this episode Maria-Liisa Bruckert, Co-Founder and Co-CEO of
-  SQIN and recipient of the Google Play Best of 2020 award and Google Female Founder
-  Immersion 2020, walks through her transition from electrical engineering to health
-  tech and the practical playbook she uses to de-risk product development. <br><br>
-  We cover MVP strategy and market research tactics—cold outreach, accelerators, clinical
-  meetings—and unconventional experiments like an AR “lipstick try-on” to collect
-  engagement data. Maria explains how SQIN aligns AI diagnosis with concrete business
-  cases, builds a digital clinic flow from diagnosis to prescription, and uses telemedicine
-  for remote follow-up and prescriptions. You’ll also hear about data strategy and
-  community bootstrapping, ethics and UX for sensitive AI messaging, go-to-market
-  choices for regional rollout, and monetization through SaaS integrations and partnerships.
-  <br><br> Listen for actionable insights on product-market fit, hiring priorities
-  for AI and full-stack roles, and practical steps to launch a digital health startup
-  that balances technical credibility with patient access.
+description: "Discover actionable digital health MVP strategy, telemedicine tactics to build, validate and monetize a scalable healthcare startup with faster remote care."
+topics:
+- AI
+- computer vision
+- data strategy
+- product management
+- startups
+- healthcare
+intro: "How do you build a digital health startup that ships a focused MVP, uses AI for diagnosis, and delivers care via telemedicine while overcoming data gaps and legacy workflows? In this episode Maria-Liisa Bruckert, Co-Founder and Co-CEO of SQIN and recipient of the Google Play Best of 2020 award and Google Female Founder Immersion 2020, walks through her transition from electrical engineering to health tech and the practical playbook she uses to de-risk product development. <br><br> We cover MVP strategy and market research tactics—cold outreach, accelerators, clinical meetings—and unconventional experiments like an AR “lipstick try-on” to collect engagement data. Maria explains how SQIN aligns AI diagnosis with concrete business cases, builds a digital clinic flow from diagnosis to prescription, and uses telemedicine for remote follow-up and prescriptions. You’ll also hear about data strategy and community bootstrapping, ethics and UX for sensitive AI messaging, go-to-market choices for regional rollout, and monetization through SaaS integrations and partnerships. <br><br> Listen for actionable insights on product-market fit, hiring priorities for AI and full-stack roles, and practical steps to launch a digital health startup that balances technical credibility with patient access."
 dateadded: 2023-12-03
 duration: PT00H52M27S
 quotableClips:
