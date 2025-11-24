@@ -1,5 +1,12 @@
 
 - time: 2025-12-16 17:00:00
+  title: "From Human-in-the-Loop to Agent-in-the-Loop: A Practical Transition Guide"
+  speakers: [ertugrulmutlu]
+  type: webinar
+  link: https://luma.com/d2o7pqt9
+
+
+- time: 2025-12-16 17:00:00
   title: "Durable Agentic Workflows with Temporal.io"
   speakers: [alexeygrigorev]
   type: workshop
