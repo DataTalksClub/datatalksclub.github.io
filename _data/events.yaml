@@ -1,4 +1,11 @@
 
+- time: 2025-12-16 17:00:00
+  title: "Durable Agentic Workflows with Temporal.io"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://luma.com/xbfrz1zp
+
+
 - time: 2025-12-09 17:00:00
   title: "Docker for Data Engineering: Postgres, Docker Compose, and Real-World Workflows"
   speakers: [alexeygrigorev]
