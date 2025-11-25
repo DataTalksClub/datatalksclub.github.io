@@ -276,6 +276,7 @@ PLATFORMS
 DEPENDENCIES
   faraday-retry
   github-pages
+  jekyll
   jekyll-feed (~> 0.12)
   jekyll-theme-cayman
   tzinfo (~> 1.2)
