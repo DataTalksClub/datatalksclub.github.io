@@ -313,10 +313,10 @@ transcript:
   sec: 562
   time: '9:22'
   who: Alexey
-- line: 'Yeah, I didn’t know about the Upwork scam. That’s really good to know. Alright,
-    let’s take some questions from the community. Here’s one: "Why did you decide
+- line: 'Yeah, I didn''t know about the Upwork scam. That''s really good to know. Alright,
+    let''s take some questions from the community. Here''s one: "Why did you decide
     to create a free-to-learn community? What keeps you motivated, and have you ever
-    thought about stopping or leaving the community?"
+    thought about stopping or leaving the community?"'
   sec: 694
   time: '11:34'
   who: Johanna

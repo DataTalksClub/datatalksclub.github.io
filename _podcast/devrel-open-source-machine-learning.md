@@ -57,7 +57,7 @@ quotableClips:
   startOffset: 874
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=874
   endOffset: 1083
-- name: 'DevRel Explained: Education, Documentation & the "Wisdom Layer"
+- name: 'DevRel Explained: Education, Documentation & the "Wisdom Layer"'
   startOffset: 1083
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=1083
   endOffset: 1372
@@ -420,6 +420,7 @@ transcript:
   time: '15:17'
   who: Hugo
 - header: 'DevRel Explained: Education, Documentation & the "Wisdom Layer"
+'
 - line: What is actually DevRel? What is it?
   sec: 1083
   time: '18:03'

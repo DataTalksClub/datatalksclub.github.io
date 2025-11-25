@@ -89,7 +89,7 @@ quotableClips:
   startOffset: 2252
   url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2252
   endOffset: 2473
-- name: 'Opportunity & Persistence: Timing, Luck, and "Shooting Arrows"
+- name: 'Opportunity & Persistence: Timing, Luck, and "Shooting Arrows"'
   startOffset: 2473
   url: https://www.youtube.com/watch?v=ekG5zJioyFs&t=2473
   endOffset: 2724
@@ -868,7 +868,7 @@ transcript:
   sec: 2403
   time: '40:03'
   who: Alexey
-- header: 'Opportunity & Persistence: Timing, Luck, and "Shooting Arrows"
+- header: 'Opportunity & Persistence: Timing, Luck, and "Shooting Arrows"'
 - line: Yeah, definitely. I mentioned luck because, as you said, at that time-during
     COVID-people were really active on Kaggle. Maybe the timing was luck, but it wasn't
     a random decision to just get up one day and scrape Google Play Store.

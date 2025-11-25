@@ -67,7 +67,7 @@ quotableClips:
   startOffset: 1680
   url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=1680
   endOffset: 1840
-- name: 'Developing People Skills: Empathy, Listening, and Avoiding the "Advice Monster"
+- name: 'Developing People Skills: Empathy, Listening, and Avoiding the "Advice Monster"'
   startOffset: 1840
   url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=1840
   endOffset: 2010

@@ -106,7 +106,7 @@ quotableClips:
   startOffset: 2423
   url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=2423
   endOffset: 2584
-- name: 'Career Coaching Course: "Align Your Career With Who You Are"
+- name: 'Career Coaching Course: "Align Your Career With Who You Are"'
   startOffset: 2584
   url: https://www.youtube.com/watch?v=QKWu5-6_6TE&t=2584
   endOffset: 2704
@@ -813,7 +813,7 @@ transcript:
   sec: 2555
   time: '42:35'
   who: Alexey
-- header: 'Career Coaching Course: "Align Your Career With Who You Are"
+- header: 'Career Coaching Course: "Align Your Career With Who You Are"'
 - line: Starting an NGO is not easy, at least not in Portugal. I’m not sure how it
     works in other countries, but you need at least nine people. It didn’t really
     start in March. I had already been doing a career coaching course for about two

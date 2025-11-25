@@ -82,7 +82,7 @@ quotableClips:
   startOffset: 1739
   url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=1739
   endOffset: 1839
-- name: 'Market Education: Shift from "why monitor" to "how to monitor"
+- name: 'Market Education: Shift from "why monitor" to "how to monitor"'
   startOffset: 1839
   url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=1839
   endOffset: 1910
@@ -769,7 +769,7 @@ transcript:
   sec: 1816
   time: '30:16'
   who: Danny
-- header: 'Market Education: Shift from "why monitor" to "how to monitor"
+- header: 'Market Education: Shift from "why monitor" to "how to monitor"'
 - line: Okay. You said you’re trying to be pre-emptive and this is also part of your
     role, right? You are trying to spread awareness about this problem by talking
     on different podcasts about model monitoring, why it’s important, what can go

@@ -88,7 +88,7 @@ quotableClips:
   startOffset: 1698
   url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1698
   endOffset: 1864
-- name: 'Scoping Documents: Challenging Assumptions with "Why"
+- name: 'Scoping Documents: Challenging Assumptions with "Why"'
   startOffset: 1864
   url: https://www.youtube.com/watch?v=tcqBfZw41FM&t=1864
   endOffset: 2005
@@ -689,6 +689,7 @@ transcript:
   time: '30:17'
   who: Liesbeth
 - header: 'Scoping Documents: Challenging Assumptions with "Why"
+'
 - line: 'Let''s imagine we have this situation: a manager comes to me, or to the team,
     or to the product manager and says, “Hey, this is the problem we think we have.
     Let''s solve it with a neural network.” So how do we challenge that person? How

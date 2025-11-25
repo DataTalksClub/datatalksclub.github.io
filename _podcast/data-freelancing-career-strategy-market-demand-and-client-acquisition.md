@@ -56,7 +56,7 @@ quotableClips:
   startOffset: 1431
   url: https://www.youtube.com/watch?v=S93V8RgwBig&t=1431
   endOffset: 1508
-- name: 'Job Board Insights: Rates, Top Skills & "Data Management"
+- name: 'Job Board Insights: Rates, Top Skills & "Data Management"'
   startOffset: 1508
   url: https://www.youtube.com/watch?v=S93V8RgwBig&t=1508
   endOffset: 1968
@@ -298,8 +298,7 @@ transcript:
   sec: 1469
   time: '24:29'
   who: Alexey
-- header: 'Job Board Insights: Rates, Top Skills & "Data Management"
-- header: 'Job Board Insights: Rates, Top Skills & "Data Management"
+- header: 'Job Board Insights: Rates, Top Skills & "Data Management"'
 - line: It really depends on the skills you have. If you're a data analyst, you likely
     won't become a software engineer overnight—it takes time to learn new skills.
     I could pull up numbers on how many software engineering roles get filtered out,

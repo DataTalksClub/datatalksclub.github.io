@@ -129,7 +129,7 @@ quotableClips:
   startOffset: 3442
   url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3442
   endOffset: 3599
-- name: 'Leadership & Team Empowerment Recommendation: "Turn the Ship Around"
+- name: 'Leadership & Team Empowerment Recommendation: "Turn the Ship Around"'
   startOffset: 3599
   url: https://www.youtube.com/watch?v=vXbMUfHE1OE&t=3599
   endOffset: 3689
@@ -1538,7 +1538,7 @@ transcript:
   sec: 3578
   time: '59:38'
   who: Alexey
-- header: 'Leadership & Team Empowerment Recommendation: "Turn the Ship Around"
+- header: 'Leadership & Team Empowerment Recommendation: "Turn the Ship Around"'
 - line: When I was at the fellowship, managing a group of student leaders, I felt
     overwhelmed and unsure if I was giving enough support, especially early in my
     career.
