@@ -1,7 +1,9 @@
 ---
 authors:
 - valeriiakuka
-description: "Discover the global demographic profile of DataTalks.Club community, spanning 65+ countries across all continents. Insights on geographic distribution, career levels, job roles, organization sizes, and industries."
+description: Discover the global demographic profile of DataTalks.Club community,
+  spanning 65+ countries across all continents. Insights on geographic distribution,
+  career levels, job roles, organization sizes, and industries.
 image: images/posts/2025-05-16-datatalks-club-community-demographics/cover.jpg
 layout: post
 subtitle: Results of our DataTalks.Club Survey
@@ -13,6 +15,8 @@ tags:
 - '2025'
 title: DataTalks.Club Community Demographics
 charts: true
+datepublished: '2025-05-16'
+date: '2025-05-16'
 ---
 
 Previously, we published 4 articles on the results of a big survey about the usage of AI tools, data engineering tools, MLOps tools and LLMs-related tools by our community members:

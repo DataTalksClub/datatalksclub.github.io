@@ -46,5 +46,111 @@
     </div>
   </div>
 
+  <!-- Article Schema Markup (JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": "{{ site.url }}{{ page.url }}",
+        "headline": {{ page.h1 | default: page.title | jsonify }},
+        {% if page.subtitle %}
+        "alternativeHeadline": {{ page.subtitle | jsonify }},
+        {% endif %}
+        {% assign image_url = site.url | append: '/' | append: page.image %}
+        "image": [{{ image_url | jsonify }}],
+        "datePublished": {% if page.datepublished %}{{ page.datepublished | date_to_xmlschema | jsonify }}{% else %}{{ page.date | date_to_xmlschema | jsonify }}{% endif %},
+        "dateModified": {{ page.date | date_to_xmlschema | jsonify }},
+        "url": "{{ site.url }}{{ page.url }}",
+        {% if page.description %}
+        "description": {{ page.description | jsonify }},
+        {% endif %}
+        {% if page.tags %}
+        "keywords": {{ page.tags | jsonify }},
+        {% endif %}
+        {% if page.authors %}
+        "author": [
+          {% for a in page.authors %}
+          {% assign author = site.people | where: "short", a | first %}
+          {
+            "@type": "Person",
+            "name": {% if author %}{{ author.title | jsonify }}{% else %}{{ a | jsonify }}{% endif %}
+            {% if author %}
+            {% assign author_url = site.url | append: '/people/' | append: a | append: '.html' %}
+            ,"url": {{ author_url | jsonify }}
+            {% if author.bio_short or author.content %}
+            ,"description": {% if author.bio_short %}{{ author.bio_short | strip_html | jsonify }}{% else %}{{ author.content | strip_html | jsonify }}{% endif %}
+            {% endif %}
+            {% if author.picture %}
+            ,"image": "{{ site.url }}{{ author.picture | relative_url }}"
+            {% endif %}
+            {% assign same_as_links = "" %}
+            {% if author.linkedin %}
+              {% assign same_as_links = same_as_links | append: '"https://www.linkedin.com/in/' | append: author.linkedin | append: '/"' %}
+            {% endif %}
+            {% if author.twitter %}
+              {% if same_as_links != "" %}
+                {% assign same_as_links = same_as_links | append: ', ' %}
+              {% endif %}
+              {% assign same_as_links = same_as_links | append: '"https://twitter.com/' | append: author.twitter | append: '"' %}
+            {% endif %}
+            {% if author.github %}
+              {% if same_as_links != "" %}
+                {% assign same_as_links = same_as_links | append: ', ' %}
+              {% endif %}
+              {% assign same_as_links = same_as_links | append: '"https://github.com/' | append: author.github | append: '"' %}
+            {% endif %}
+            {% if author.web %}
+              {% if same_as_links != "" %}
+                {% assign same_as_links = same_as_links | append: ', ' %}
+              {% endif %}
+              {% assign same_as_links = same_as_links | append: '"' | append: author.web | append: '"' %}
+            {% endif %}
+            {% if same_as_links != "" %}
+            ,"sameAs": [{{ same_as_links }}]
+            {% endif %}
+            {% endif %}
+          }{% unless forloop.last %},{% endunless %}
+          {% endfor %}
+        ],
+        {% endif %}
+        "publisher": {
+          "@type": "Organization",
+          "name": {{ site.name | jsonify }},
+          "url": {{ site.url | jsonify }}
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "{{ site.url }}{{ page.url }}"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "{{ site.url }}/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blog",
+            "item": "{{ site.url }}/articles.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": {{ page.h1 | default: page.title | jsonify }},
+            "item": "{{ site.url }}{{ page.url }}"
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
   {% include footer.html %}
 </body>

@@ -1,7 +1,9 @@
 ---
 authors:
 - valeriiakuka
-description: "2024 LLM Survey Results: 200+ professionals reveal OpenAI dominance (73%), self-hosting trends, fine-tuning practices, and production deployment strategies. Key insights on managed services, cloud infrastructure, and integration frameworks."
+description: '2024 LLM Survey Results: 200+ professionals reveal OpenAI dominance
+  (73%), self-hosting trends, fine-tuning practices, and production deployment strategies.
+  Key insights on managed services, cloud infrastructure, and integration frameworks.'
 image: images/posts/2025-04-11-how-do-professionals-use-llm-tools-and-frameworks/cover.jpg
 layout: post
 subtitle: Results of our DataTalks.Club Survey
@@ -11,6 +13,8 @@ tags:
 - '2024'
 title: How Do Professionals Use LLM Tools and Frameworks?
 charts: true
+datepublished: '2025-04-11'
+date: '2025-04-11'
 ---
 
 We [surveyed](https://docs.google.com/forms/d/e/1FAIpQLScdx1FAIp2GDGgiMf7xu-I1PfhsQBJDvFstGmWmWbpP4S69Zg/viewform){:target="_blank"} over 200 professionals working with large language models (LLMs) to capture insights on adopting managed services, self-hosting options, customization practices, infrastructure choices, and integration strategies.

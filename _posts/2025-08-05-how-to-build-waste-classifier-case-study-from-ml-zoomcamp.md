@@ -1,14 +1,22 @@
 ---
-authors: [serenahaidar, valeriiakuka]
-description: "Learn what you can build after ML Zoomcamp, a free course on ML engineering, based on the final end-to-end ML engineering project from one of the graduates: Xception waste classifier on ~15k images, 93.3% accuracy, deployed with Flask and Docker."
+authors:
+- serenahaidar
+- valeriiakuka
+description: 'Learn what you can build after ML Zoomcamp, a free course on ML engineering,
+  based on the final end-to-end ML engineering project from one of the graduates:
+  Xception waste classifier on ~15k images, 93.3% accuracy, deployed with Flask and
+  Docker.'
 image: images/posts/2025-08-05-how-to-build-waste-classifier-case-study-from-ml-zoomcamp/cover.jpg
 layout: post
-subtitle: Learn what you can build after ML Zoomcamp based on the final end-to-end ML engineering project from one of the graduates.
+subtitle: Learn what you can build after ML Zoomcamp based on the final end-to-end
+  ML engineering project from one of the graduates.
 tags:
 - courses
 - machine-learning
 - final-project
 title: 'How to Build a Waste Classifier: A Case Study from ML Zoomcamp'
+datepublished: '2025-08-05'
+date: '2025-08-05'
 ---
 
 <figure>

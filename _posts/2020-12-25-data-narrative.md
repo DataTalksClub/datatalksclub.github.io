@@ -1,12 +1,17 @@
 ---
 layout: post
-title: "Data Storytelling: Characters, Conflict, and Conclusion for Data Professionals"
-subtitle: "A practical framework and example to turn analysis into action"
-description:
-    "Data storytelling for analysts: Learn characters, conflict, and conclusion to turn insights into action, with a retail forecasting example. Master essential skills."
-image: "images/posts/2020-12-25-data-narrative/cover.jpg"
-authors: [davidgates]
-tags: [communication]
+title: 'Data Storytelling: Characters, Conflict, and Conclusion for Data Professionals'
+subtitle: A practical framework and example to turn analysis into action
+description: 'Data storytelling for analysts: Learn characters, conflict, and conclusion
+  to turn insights into action, with a retail forecasting example. Master essential
+  skills.'
+image: images/posts/2020-12-25-data-narrative/cover.jpg
+authors:
+- davidgates
+tags:
+- communication
+datepublished: '2020-12-25'
+date: '2020-12-25'
 ---
 
 ## The Challenges of Storytelling

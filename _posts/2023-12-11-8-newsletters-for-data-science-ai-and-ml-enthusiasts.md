@@ -9,6 +9,8 @@ tags:
 - newsletters
 - datatalksclub
 title: 8 Newsletters for Data Science, AI, and ML Enthusiasts
+datepublished: '2023-12-11'
+date: '2023-12-11'
 ---
 
 In the landscape of modern technology, there is a surge of interest in data science. Before 2023, one could count on one hand the number of newsletters that tackled this niche. Now, they cascade into inboxes, each promising the key to unlocking the mysteries of AI, ML, and data science.

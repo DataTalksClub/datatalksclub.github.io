@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Simplify Technical Concepts: A 3-Step Framework for Non-Technical Audiences"
-subtitle: "Use softening language, relatable examples, and clear summaries to avoid communication walls and explain data science effectively"
-description: "Simplify technical concepts for non-technical audiences. Learn a proven 3-step framework with relatable examples and summaries. Master communication."
-image: "images/posts/2020-12-17-simplifying-concepts/cover.jpg"
-authors: [davidgates]
-tags: [communication]
+title: 'Simplify Technical Concepts: A 3-Step Framework for Non-Technical Audiences'
+subtitle: Use softening language, relatable examples, and clear summaries to avoid
+  communication walls and explain data science effectively
+description: Simplify technical concepts for non-technical audiences. Learn a proven
+  3-step framework with relatable examples and summaries. Master communication.
+image: images/posts/2020-12-17-simplifying-concepts/cover.jpg
+authors:
+- davidgates
+tags:
+- communication
+datepublished: '2020-12-17'
+date: '2020-12-17'
 ---
 
 Effective communication is a vital skill that all data professionals must master. Data

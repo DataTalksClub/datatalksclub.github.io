@@ -10,6 +10,8 @@ tags:
 - data-science
 - best-practices
 title: Do You Know the Golden Rules While Working With Data?
+datepublished: '2022-09-29'
+date: '2022-09-29'
 ---
 
 <figure>

@@ -17,5 +17,26 @@
   {% endfor %}
 </div>
 
+<!-- FAQ Schema Markup (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for faq in include.faqs %}
+    {% assign answer_html = faq.answer | markdownify | strip %}
+    {
+      "@type": "Question",
+      "name": {{ faq.question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ answer_html | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+
 <!-- Load accordion JavaScript -->
 <script src="/assets/accordion.js"></script>
