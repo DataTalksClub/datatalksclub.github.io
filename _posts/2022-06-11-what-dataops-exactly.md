@@ -12,6 +12,8 @@ tags:
 - devops
 - engineering
 title: What is DataOps exactly?
+datepublished: '2022-06-11'
+date: '2022-06-11'
 ---
 
 <figure>

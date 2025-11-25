@@ -10,6 +10,8 @@ tags:
 - docker
 - data-engineering
 title: How to run PostgreSQL and PgAdmin with Docker
+datepublished: '2023-03-07'
+date: '2023-03-07'
 ---
 
 <figure>

@@ -1,0 +1,115 @@
+- question: "What is the LLM Zoomcamp?"
+  answer: |
+    The LLM Zoomcamp is a free, community-driven program by [DataTalks.Club](/) that teaches practical applications with large language models through hands-on project work.
+    
+    This 10-week course covers a comprehensive [curriculum](#course-curriculum) with all materials open and available anytime on [GitHub](https://github.com/DataTalksClub/llm-zoomcamp). You'll work with an industry-standard stack including OpenAI API, Hugging Face, Elasticsearch, Ollama, Streamlit, Grafana, LangChain, and vector databases, and earn a [certificate](#can-i-get-a-certificate).
+
+- question: "What does zoomcamp mean?"
+  answer: |
+    "Zoomcamp" is a term that originated from [Alexey Grigorev](/people/alexeygrigorev.html), the founder of DataTalks.Club. It started with his book "ML Bookcamp." When Alexey decided to create a video course based on the book, he called it "[Machine Learning Zoomcamp](/blog/machine-learning-zoomcamp.html)" - a free, cohort-based course in video format. The name "zoomcamp" is a play on "bookcamp," referring to the video format of the course. The Zoomcamp series has since expanded to include other free courses like the [Data Engineering Zoomcamp](/blog/data-engineering-zoomcamp.html), [MLOps Zoomcamp](/blog/mlops-zoomcamp.html), and [LLM Zoomcamp](/blog/llm-zoomcamp.html), all following the same community-driven, open-source philosophy.
+
+- question: "Is it really free?"
+  answer: |
+    Yes, the LLM Zoomcamp is completely free. There are no hidden costs, no tuition fees, and no paid tiers. All course materials, videos, homework assignments, and access to the [community](#what-is-the-datatalksclub-llm-community) are provided at no cost. Unlike traditional bootcamps that charge $10,000-$20,000+, this course is entirely community-driven and open source.
+
+- question: "How does the LLM Zoomcamp compare to traditional LLM bootcamps?"
+  answer: |
+    The LLM Zoomcamp differs from traditional LLM bootcamps in several key ways:
+
+    1. **Cost**: Completely free vs. $10,000-$20,000+ for bootcamps
+    2. **Community**: Community-driven and open source with all materials available forever on GitHub vs. content locked behind paywalls
+    3. **Flexibility**: Can continue at your own pace after the cohort ends vs. rigid schedules and limited access periods
+
+- question: "How does the LLM Zoomcamp certificate work?"
+  answer: |
+    To earn a [certificate](#can-i-get-a-certificate), you need to complete one [capstone project](#course-projects-for-your-portfolio) that demonstrates your mastery of building an end-to-end RAG application. After submitting your project, you must also review at least 3 other students' projects by the deadline and provide constructive feedback.
+
+- question: "When does the next cohort of the LLM Zoomcamp start?"
+  answer: |
+    The next cohort of the LLM Zoomcamp typically starts in the fall each year. Register here: [https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q) before the course starts.
+
+- question: "Who runs the LLM Zoomcamp?"
+  answer: |
+    The LLM Zoomcamp is run by [DataTalks.Club](/), a global online community of data professionals and learners. While the initial idea and most of the content were created by [Alexey Grigorev](/people/alexeygrigorev.html), members of the DataTalks.Club community contribute as instructors and maintainers.
+
+    DataTalks.Club is often referred to as "the DataTalks Club", "data talks club", or "datatalks club".
+
+- question: "What background knowledge do I need to take the LLM Zoomcamp? Course prerequisites."
+  answer: |
+    To get the most out of this course, you should be comfortable with programming and Python, command line, and Docker. No previous exposure to AI or ML is required. The course is designed to teach you everything you need to know about LLMs and RAG from the ground up.
+
+- question: "How much time should I expect to spend?"
+  answer: |
+    Expect to spend 5-15 hours per week, depending on your background. This includes watching videos, completing homework, and working on [the capstone project](#course-projects-for-your-portfolio). More time may be needed during the final project weeks.
+
+- question: "Can I take the course in self-paced mode?"
+  answer: |
+    Yes! All course materials, videos, and recordings remain available after the cohort ends, and you can learn at your own pace. You'll have access to the [Slack community](/slack.html) for support. However, self-paced learning does not include homework submissions, project evaluations, or the ability to earn a [certificate](#can-i-get-a-certificate). To receive a certificate, you need to join an active cohort.
+
+- question: "Can I get a certificate in self-paced mode?"
+  answer: |
+    No, certificates are only available when completing the course with a live cohort. Self-paced mode does not include homework submissions, project evaluations, or certificates. This is because the certification process requires you to peer-review three capstone projects, and these peer reviews only happen during the active course period. Additionally, the submission form closes after the peer-review list is compiled. Self-paced learners can access all course materials and the Slack community, but must join a live cohort to earn a certificate.
+
+- question: "Can I still join if I just discovered the course?"
+  answer: |
+    Yes, but if you want to receive a certificate, you need to submit your project while we're still accepting submissions.
+
+- question: "Do I need a confirmation email after registration?"
+  answer: |
+    You don't need a confirmation email. You are automatically accepted into the course. You can even start learning and submitting homework (while the form is open) without registering, as submissions are not checked against any registered list. Registration is primarily used to gauge interest before the start date.
+
+- question: "How do I join the office hours or live sessions?"
+  answer: |
+    There are no office hours—all lectures are pre-recorded and available in the [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR), so you can watch them whenever it suits you.
+
+    All course materials are in the [GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp). Each module has its own folder (for example, 01-intro or 03-classification), while cohort-specific homework and deadlines are located in cohorts/2025.
+
+    Occasionally, additional workshops or updated implementation videos are released—there will be additional announcements if this happens.
+
+- question: "Can I still get a certificate if I missed the first homework?"
+  answer: |
+    Yes! The only requirement for receiving a certificate is completing the capstone project. Homework assignments are not mandatory, though they are recommended for reinforcing concepts and understanding the material better. Your homework points will count toward your position on the course leaderboard, but they don't affect certificate eligibility.
+
+- question: "What if I get stuck?"
+  answer: |
+    You have multiple support channels available. Join the [DataTalks.Club Slack community](/slack.html) where you can ask questions and get help from instructors and fellow students. We also have an [FAQ repository](https://github.com/DataTalksClub/faq) with answers to common questions and a @ZoomcampQABot in Slack for quick help.
+
+- question: "Where is the GitHub repository?"
+  answer: |
+    The GitHub repository is [https://github.com/DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp).
+
+- question: "Where can I find the course videos?"
+  answer: |
+    Course videos are available in the [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR). For easier navigation, refer to the [GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp). We also maintain [year-specific playlists](https://www.youtube.com/@DataTalksClub/playlists) for updates.
+
+- question: "How many projects do I need to complete for the certificate?"
+  answer: |
+    You need to complete one capstone project to earn a certificate. The capstone project is a comprehensive end-to-end RAG application that demonstrates your mastery of all course concepts including retrieval, vector databases, evaluation, monitoring, and LLM orchestration. After submitting your project, you'll also need to review at least 3 other students' projects. [Learn more about the capstone project](#course-projects-for-your-portfolio) and [certificate requirements](#can-i-get-a-certificate).
+
+- question: "What are LLMs and why should I learn them?"
+  answer: |
+    Large Language Models (LLMs) are AI systems trained on vast amounts of text data that can understand and generate human-like text. They power applications like ChatGPT, code assistants, and intelligent search systems. Learning LLMs is essential for anyone looking to build AI-powered applications, implement RAG (Retrieval-Augmented Generation) systems, or work with modern NLP technologies. The demand for LLM skills is rapidly growing across industries.
+
+- question: "What is RAG and why is it important?"
+  answer: |
+    RAG (Retrieval-Augmented Generation) is a technique that combines information retrieval with LLM generation to create AI systems that can answer questions about specific knowledge bases. RAG is crucial because it allows LLMs to access up-to-date information and domain-specific knowledge that wasn't in their training data. This course teaches you to build production-ready RAG systems from scratch.
+
+- question: "What tools and technologies will I learn?"
+  answer: |
+    The course covers essential LLM tools and platforms including OpenAI API for LLM integration, Hugging Face for open-source models, Elasticsearch for vector search and text search, Ollama for running LLMs locally, Streamlit for building UIs, Grafana for monitoring, LangChain for LLM orchestration, and vector databases for efficient retrieval. You'll also learn evaluation techniques, monitoring best practices, and data ingestion pipelines.
+
+- question: "What is the DataTalks.Club LLM community?"
+  answer: |
+    The DataTalks.Club LLM community is a supportive network of 80,000+ data professionals and learners. As part of the LLM Zoomcamp, you'll have access to a dedicated course channel in [Slack](/slack.html) where you can ask questions, get help from instructors and peers, share your progress, and connect with like-minded individuals. The community provides technical support, peer learning opportunities, and networking that can lead to collaborations and career opportunities. This active community is one of the key differentiators of the LLM Zoomcamp experience.
+
+- question: "What LLM training does this course provide?"
+  answer: |
+    This comprehensive training covers the complete large language model application lifecycle. You'll receive hands-on training in building RAG systems, working with open-source and commercial LLMs, implementing vector databases and search, evaluating and monitoring LLM applications, orchestrating LLM pipelines, and deploying production-ready LLM systems. The course includes 7 core technical modules, weekly homework assignments, and a capstone project. This practical training prepares you for real-world AI applications and is taught by expert instructors from the DataTalks.Club community.
+
+- question: "Is this a free LLM course with certificate?"
+  answer: |
+    Yes! This is a completely free LLM course, with a certificate available when you complete the course with a live cohort. There are no hidden costs or tuition fees. To earn your certificate, you'll need to complete the technical modules, build one capstone RAG project, participate in peer reviews, and follow LLM best practices. This free course provides the same quality training as paid bootcamps but at no cost. Certificates, homework submissions, and project evaluations are only available when participating in a live cohort, not in self-paced mode.
+
+- question: "Can I get a certificate?"
+  answer: |
+    Yes, certificates are available when completing the course with a live cohort. Requirements include completing the technical modules, building one capstone RAG project, participating in peer reviews (reviewing at least 3 other students' projects), and following LLM best practices. Certificates, homework submissions, and project evaluations are not available in self-paced mode.

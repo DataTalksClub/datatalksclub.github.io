@@ -9,6 +9,8 @@ tags:
 - career
 - data-engineering
 title: Guidelines to Get a Data Engineer Job Against the Odds
+datepublished: '2023-01-04'
+date: '2023-01-04'
 ---
 
 <figure>

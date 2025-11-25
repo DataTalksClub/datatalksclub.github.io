@@ -1,7 +1,9 @@
 ---
 authors:
 - valeriiakuka
-description: Discover how 200+ data professionals deploy, monitor, and manage ML models in production. Survey insights on MLOps tools, deployment practices, model versioning, CI/CD workflows, and team structures in 2024.
+description: Discover how 200+ data professionals deploy, monitor, and manage ML models
+  in production. Survey insights on MLOps tools, deployment practices, model versioning,
+  CI/CD workflows, and team structures in 2024.
 image: images/posts/2025-04-28-how-do-data-professionals-use-ml-and-mlops-tools-and-practices/cover.jpg
 layout: post
 subtitle: Results of our DataTalks.Club Survey
@@ -11,6 +13,8 @@ tags:
 - '2024'
 title: How Do Data Professionals Use MLOps Tools and Frameworks?
 charts: true
+datepublished: '2025-04-28'
+date: '2025-04-28'
 ---
 
 We [surveyed](https://docs.google.com/forms/d/e/1FAIpQLScdx1FAIp2GDGgiMf7xu-I1PfhsQBJDvFstGmWmWbpP4S69Zg/viewform){:target="_blank"} over 200 data professionals to understand the tools they use for deploying, monitoring, versioning, and managing machine learning workflows.

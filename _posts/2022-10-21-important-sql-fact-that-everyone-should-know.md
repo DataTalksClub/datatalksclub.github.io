@@ -9,6 +9,8 @@ tags:
 - sql
 - data-engineering
 title: Important SQL Fact That Everyone Should Know
+datepublished: '2022-10-21'
+date: '2022-10-21'
 ---
 
 <figure>

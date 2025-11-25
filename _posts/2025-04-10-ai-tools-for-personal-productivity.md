@@ -1,7 +1,10 @@
 ---
 authors:
 - valeriiakuka
-description: "2024 AI Productivity Survey: 300 technical professionals reveal 70% daily AI usage, ChatGPT dominance (92%), GitHub Copilot adoption (78%), and 10x productivity gains. Complete analysis of AI tools, use cases, and workflow integration trends."
+description: '2024 AI Productivity Survey: 300 technical professionals reveal 70%
+  daily AI usage, ChatGPT dominance (92%), GitHub Copilot adoption (78%), and 10x
+  productivity gains. Complete analysis of AI tools, use cases, and workflow integration
+  trends.'
 image: images/posts/2025-04-10-ai-tools-for-personal-productivity/cover.jpg
 layout: post
 subtitle: Results of our DataTalks.Club Survey
@@ -11,6 +14,8 @@ tags:
 - '2024'
 title: How Do Professionals Use AI Tools for Personal Productivity?
 charts: true
+datepublished: '2025-04-10'
+date: '2025-04-10'
 ---
 
 We surveyed 300 DataTalks.Club community members, primarily professionals in data, machine learning, and software engineering, to understand how AI tools are integrated into daily workflows and impact personal productivity.

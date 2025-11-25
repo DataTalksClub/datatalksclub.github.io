@@ -12,6 +12,8 @@ tags:
 - interviews
 - internship
 title: Interview with Ken Wu
+datepublished: '2022-08-22'
+date: '2022-08-22'
 ---
 
 In this interview, Ken Wu, a graduate of ML Zoomcamp, tells us about:

@@ -12,6 +12,8 @@ tags:
 - interviews
 - internship
 title: Interview with Valerii Chetvertakov
+datepublished: '2022-09-29'
+date: '2022-09-29'
 ---
 
 In this interview, Valerii Chetvertakov, a graduate of ML Zoomcamp, tells us about:

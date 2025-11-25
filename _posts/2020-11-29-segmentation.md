@@ -1,11 +1,18 @@
 ---
 layout: post
-title: "Customer Segmentation with RFM+ and K-Means: 7 Segments from Gaming Data"
-subtitle: "Build a 5D RFM+ framework, engineer metrics, and segment responders/non-responders with k-means to power targeted in‑game marketing"
-description: "Customer segmentation with limited data. Learn a 5D RFM+ framework, engineer metrics, and use k-means to create 7 segments—apply insights now."
-image: "images/posts/2020-11-29-segmentation/cover.jpg"
-authors: [nishantmohan]
-tags: [analytics, clustering]
+title: 'Customer Segmentation with RFM+ and K-Means: 7 Segments from Gaming Data'
+subtitle: Build a 5D RFM+ framework, engineer metrics, and segment responders/non-responders
+  with k-means to power targeted in‑game marketing
+description: Customer segmentation with limited data. Learn a 5D RFM+ framework, engineer
+  metrics, and use k-means to create 7 segments—apply insights now.
+image: images/posts/2020-11-29-segmentation/cover.jpg
+authors:
+- nishantmohan
+tags:
+- analytics
+- clustering
+datepublished: '2020-11-29'
+date: '2020-11-29'
 ---
 
 ## Background

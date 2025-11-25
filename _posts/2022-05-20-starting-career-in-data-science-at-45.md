@@ -10,6 +10,8 @@ tags:
 - profession-change
 - biology
 title: Starting a Career in Data Science at 45
+datepublished: '2022-05-20'
+date: '2022-05-20'
 ---
 
 A citizen of Belarus Tatiana Ankudo left the country 20 years ago. A graduate of the Biological Faculty of the Belarusian State University, she worked as a microbiologist in laboratories in Minsk, Hungary, Sweden and Germany, received a PhD in biology, Hungarian citizenship, got married, gave birth to a daughter. And a few years ago she changed her life and became a data scientist. Tatiana has been working for the international company dunnhumby for 7 months, analyzing data from a large grocery store chain and growing as a data analyst. We talked about what it is like to go into the IT field when you are over 40 and start building your career over again.

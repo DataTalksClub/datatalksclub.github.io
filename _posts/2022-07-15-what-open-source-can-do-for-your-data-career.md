@@ -9,6 +9,8 @@ tags:
 - open-source
 - career
 title: What Open Source Can Do For Your Data Career
+datepublished: '2022-07-15'
+date: '2022-07-15'
 ---
 
 <figure>

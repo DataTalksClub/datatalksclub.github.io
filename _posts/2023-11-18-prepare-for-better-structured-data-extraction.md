@@ -10,6 +10,8 @@ tags:
 - monitoring
 - llm
 title: Prepare for (Better) Structured Data Extraction
+datepublished: '2023-11-18'
+date: '2023-11-18'
 ---
 
 <figure>

@@ -1,0 +1,35 @@
+- question: "Why DataTalks.Club courses are called Zoomcamps?"
+  answer: |
+    Zoomcamp is a term that originated from [Alexey Grigorev](/people/alexeygrigorev.html), the founder of DataTalks.Club. It started with his book "ML Bookcamp." When Alexey decided to create a video course based on the book, he called it "[Machine Learning Zoomcamp](/blog/machine-learning-zoomcamp.html)" - a free, cohort-based course in video format. The name "zoomcamp" is a play on "bookcamp," referring to the video format of the course. The Zoomcamp series has since expanded to include other free courses like the [Data Engineering Zoomcamp](/blog/data-engineering-zoomcamp.html), [MLOps Zoomcamp](/blog/mlops-zoomcamp.html), and [LLM Zoomcamp](/blog/llm-zoomcamp.html), all following the same community-driven, open-source philosophy.
+
+- question: "Are DataTalks.Club Zoomcamps free?"
+  answer: |
+    Yes. All DataTalks.Club courses (Zoomcamps) are completely free. You get full access to the GitHub repositories, YouTube playlists, homework, and the Slack community without paying anything. The only investment required is your time and commitment.
+
+- question: "Do I need to attend live sessions?"
+  answer: |
+    No. All lectures are pre-recorded and available on YouTube, so you can watch them whenever you like. Occasionally, optional live workshops or Q&A sessions are announced in [Slack](/slack.html) and the newsletter, but they are not required to complete the course.
+
+- question: "How do I earn a certificate?"
+  answer: |
+    Certificates are available only during live cohorts. To earn one, you need to complete the required project(s) and review other students' submissions before the deadlines. Self-paced learners have full access to the course but are not eligible for certificates.
+
+- question: "Are the certificates recognized by employers?"
+  answer: |
+    Certificates are not formally accredited, but they validate that you completed a real project using modern tools. Your GitHub portfolio and project work carry the most weight—many learners use their Zoomcamp projects to showcase practical skills in job applications.
+
+- question: "How much time should I dedicate per week?"
+  answer: |
+    For a live cohort, plan for around 10-15 hours per week to watch lectures, complete homework, and work on the project. Self-paced learners can adjust the workload to their schedule, but more weekly time generally leads to better progress and outcomes.
+
+- question: "What programming languages do I need to know?"
+  answer: |
+    Python is the main programming language used across all Zoomcamps. The exact skill level depends on the course—each course section in this guide lists its prerequisites.
+
+- question: "What's the difference between a DataTalks.Club Zoomcamp and a typical bootcamp?"
+  answer: |
+    Zoomcamps offer a similar project-based, structured learning experience but are completely free and open source. Bootcamps charge between $2,000 and $10,000+, often restrict access to materials, and follow strict schedules. Zoomcamps are flexible and community-driven—no content paywalls, no time limits, and no tuition fees.
+
+- question: "How do I join the DataTalks.Club Slack community?"
+  answer: |
+    You can request an invite via the [Slack signup form](/slack.html). After confirming your email, you'll receive an invitation link. Slack is where discussions happen, questions are answered, and announcements for cohorts and workshops are posted.

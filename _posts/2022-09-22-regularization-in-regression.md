@@ -10,6 +10,8 @@ tags:
 - regularization
 title: Regularization in Regression
 math: true
+datepublished: '2022-09-22'
+date: '2022-09-22'
 ---
 
 There are a lot of methods of how you can improve your ML model accuracy. They include feature engineering, missing value imputation, improvements in data quality, etc.

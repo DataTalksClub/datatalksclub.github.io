@@ -1,21 +1,23 @@
 ---
-title: "Data Engineering Zoomcamp: Free Data Engineering Course and Certification"
-subtitle: "Become a Data Engineer: Master Modern Data Engineering with Hands-On Training"
-description: "Free data engineering course with certificate. Learn Python, SQL, dbt, Kafka, and Spark. Build production pipelines, earn a certificate."
-image: images/posts/2023-11-18-data-engineering-zoomcamp/cover.jpg
-date: 2025-10-22
+title: 'Data Engineering Zoomcamp: Free Data Engineering Course and Certification'
+subtitle: 'Become a Data Engineer: Master Modern Data Engineering with Hands-On Training'
+description: Free data engineering course with certificate. Learn Python, SQL, dbt,
+  Kafka, and Spark. Build production pipelines, earn a certificate.
+image: images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.jpeg
+date: 2025-11-25
 authors:
 - valeriiakuka
 tags:
 - course
 - data-engineering
 related_posts:
-     - guide-to-free-online-courses-at-datatalks-club.html
-     - machine-learning-zoomcamp.html
-     - mlops-zoomcamp.html
-     - llm-zoomcamp.html
-     - ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html
+- guide-to-free-online-courses-at-datatalks-club.html
+- machine-learning-zoomcamp.html
+- mlops-zoomcamp.html
+- llm-zoomcamp.html
+- ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html
 layout: post
+datepublished: '2023-11-18'
 ---
 
 Breaking into data engineering takes real, hands-on experience with production tools, but most courses stop at theory.
@@ -42,6 +44,7 @@ Unlike most courses, DE Zoomcamp helps you build your public portfolio, share yo
 - [How the Data Engineering Zoomcamp Works](#how-the-data-engineering-zoomcamp-works)
 - [Zoomcamp vs. Bootcamp](#zoomcamp-vs-bootcamp-whats-the-difference)
 - [How to Get Started](#how-to-get-started-with-the-data-engineering-zoomcamp)
+- [Testimonials](#testimonials)
 - [Frequently Asked Questions](#frequently-asked-questions)
 
 ## What is the Data Engineering Zoomcamp?
@@ -59,16 +62,16 @@ The final three weeks focus on your capstone that gets peer-reviewed, and you gr
 
 ## Why Learn Data Engineering?
 
-Typically, data science teams are comprised of data analysts, data scientists, and data engineers. Among different [data roles](/blog/data-roles), data engineers are the guys who connect all the pieces of the data ecosystem within a company or institution.
+Typically, data science teams are comprised of data analysts, data scientists, and data engineers. Among different [data roles](/blog/data-roles), data engineers are the specialists who connect all the pieces of the data ecosystem within a company or institution.
 
 <figure>
 <img src="/images/posts/2020-12-14-data-roles/roles.png" alt="Data team roles list - data analyst, data scientist, data engineer, analytics engineer, and machine learning engineer positions explained" title="Data Team Roles and Responsibilities" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
 <figcaption>
-Data engineers are the guys who connect all the pieces of the data ecosystem.
+Data engineers are the specialists who connect all the pieces of the data ecosystem.
 </figcaption>
 </figure>
 
-But why would you want to become one? Here are some of the main reasons that make data engineering roles satisfactory and valuable:
+But why would you want to become one? Here are some of the main reasons that make data engineering roles rewarding and valuable:
 
 1. You become the builder behind every data product that keeps information flowing.
 2. You increase your earning potential by joining a smaller, high-value pool of professionals.
@@ -90,7 +93,7 @@ If you tick most of the following boxes, data engineering might be a good fit fo
 
 ## Course Prerequisites
 
-As we promised, learning data engineering doesn't require prior data engineering experience.
+As mentioned earlier, learning data engineering doesn't require prior data engineering experience.
 
 The course is designed to be accessible to beginners.
 
@@ -224,13 +227,13 @@ All course materials live in the [GitHub repository](https://github.com/DataTalk
 
 <figure>
 <img src="/images/posts/2023-11-18-data-engineering-zoomcamp/youtube-playlist.png" alt="Data Engineering Zoomcamp YouTube playlist - free video lectures on Docker, Terraform, BigQuery, dbt, Spark, Kafka, and data pipeline development" title="Free Data Engineering Video Lectures on YouTube" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p>Data Engineering Zoomcamp Youtube playlist with pre-recorded lectures</p></figcaption>
+<figcaption><p>Data Engineering Zoomcamp YouTube playlist with pre-recorded lectures</p></figcaption>
 </figure>
 
 
 ### Homework Assignments
 
-To reinforce your learning, we release homework assignemnts for each week of the course. You can submit a homework assignment at the end of each week. 
+To reinforce your learning, we release homework assignments for each week of the course. You can submit a homework assignment at the end of each week. 
 
 <figure>
 <img src="/images/posts/2023-11-18-data-engineering-zoomcamp/de-zoocamp-schedule.png" alt="Data Engineering Zoomcamp 2026 schedule - weekly course timeline with homework submission deadlines for 9-week data engineering certification program" title="Data Engineering Zoomcamp Course Schedule 2026" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
@@ -239,14 +242,14 @@ To reinforce your learning, we release homework assignemnts for each week of the
 
 It doesn't count toward your certificate, but it helps you practice and appears on an optional anonymous leaderboard.
 
-Your scores are added to an anonymous leaderboard, creating friendly competition among course members and motivating you to do your best.
+Your scores are added to an anonymous leaderboard, creating friendly competition among learners and motivating you to do your best.
 
 <figure>
 <img src="/images/posts/2023-11-18-data-engineering-zoomcamp/homework-leaderboard.png" alt="Data Engineering Zoomcamp homework leaderboard - anonymous student rankings and scores showing course progress and achievements" title="Course Homework Leaderboard" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
 <figcaption><p>Course leaderboard displaying student progress and achievements anonymously</p></figcaption>
 </figure>
 
-You can earn bonus points by learning in public — sharing your work on blogs, YouTube, or social media. And our next section is all about it.
+You can earn bonus points by learning in public — sharing your work on blogs, YouTube, or social media. The next section explains how it works in practice.
 
 ### Learning in Public: Build Your Online Presence
 
@@ -297,7 +300,7 @@ When you join a cohort, the dedicated course channel becomes your home base. Her
 <figcaption><p>DataTalks.Club FAQ repository showing common questions and technical issues</p></figcaption>
 </figure>
 
-Beyond peer support, there are two ways to get help: our [FAQ repository](https://datatalks.club/faq/data-engineering-zoomcamp.html) covers common questions and technical issues and the @ZoomcampQABot in Slack provides quick answers when you need them.
+Beyond peer support, there are two ways to get help: our [FAQ repository](https://datatalks.club/faq/data-engineering-zoomcamp.html) covers common questions and technical issues, and the @ZoomcampQABot in Slack provides quick answers when you need them.
 
 <figure>
 <img src="/images/posts/2023-11-18-data-engineering-zoomcamp/zoomcamp-qabot.png" alt="Data Engineering Zoomcamp QA Bot on Slack - automated assistant answering course questions about data pipelines, homework, and technical issues" title="Zoomcamp QA Bot - Instant Course Support" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
@@ -381,23 +384,31 @@ Below, we list the key features of the Data Engineering Zoomcamp and how they co
 
 To get started with the Zoomcamp, you can either join a live cohort or learn at your own pace.
 
+All materials are freely available in the [Data Engineering Zoomcamp GitHub repository](https://github.com/DataTalksClub/data-engineering-zoomcamp). Each module has its own folder (e.g., `01-docker`, `03-data-warehouse`), and cohort-specific homework and deadlines are in the `cohorts` directory. Lectures are pre-recorded and available in our official [Data Engineering Zoomcamp YouTube Playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb), so you can watch at your own pace.
+
 ### Learn at Your Own Pace
 
-The self-paced mode is a great way to learn at your own pace. You'll get access to the course materials and the community. You can start learning immediately and complete the course at your own pace.
+The self-paced mode lets you start immediately and progress on your own schedule. You'll get access to the course materials and the community and can complete the course at a pace that works for you.
 
-All you need is to go to the [Data Engineering Zoomcamp GitHub repository](https://github.com/DataTalksClub/data-engineering-zoomcamp) and start learning. It serves as a central hub for the course for easier navigation through the course materials. All the lectures are pre-recorded and available on YouTube in our official [Data Engineering Zoomcamp YouTube Playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb), so you can watch at your own pace.
+All you need is to go to the [Data Engineering Zoomcamp GitHub repository](https://github.com/DataTalksClub/data-engineering-zoomcamp) and start learning. It serves as a central hub for the course for easier navigation through the course materials. All the lectures are pre-recorded and available on YouTube in our official [Data Engineering Zoomcamp YouTube Playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb), so you can watch whenever it suits you.
 
-You can also join the [DataTalks.Club Slack community](https://datatalks.club/slack.html) to get help and support from the community on the (`#course-data-engineering`) channel.
+You can also join the [DataTalks.Club Slack community](https://datatalks.club/slack.html) to get help and support from the community in the `#course-data-engineering` channel. Homework and solutions are available on the [course platform](https://courses.datatalks.club), and you can build a project for your portfolio.
 
 > Remember, self-paced learning does not include homework submissions, project evaluations, or the ability to earn a certificate. To receive certification, you need to join an active cohort.
 
 ### Join a Live Cohort
 
+> **2026 Cohort:** Starts January 2026. Register here: [Fill in this form](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD)
+
 When you join a live cohort, you'll work through the same materials as self-paced learners, but with the added structure of a published schedule and the energy of hundreds of peers progressing alongside you.
 
-Each module typically spans one week, you watch the lectures, complete hands-on exercises, and submit a homework assignment. Your submissions get scored and appear on an anonymous leaderboard.
+The course runs once per year (starts around January). Each module typically spans one week: you watch the lectures, complete hands-on exercises, and submit a homework assignment. Your submissions get scored and appear on an anonymous leaderboard.
 
 After completing all six modules, the capstone project phase begins. You'll build your own end-to-end pipeline, submit it through our form, and peer-review at least three other students' projects while yours gets reviewed by your peers. This reciprocal process gives you valuable feedback on your work and exposes you to different approaches and solutions you might not have considered.
+
+Even if you join after the official start date, you can still follow along — but note that some homework forms may already be closed. All active deadlines are listed on the [course platform](https://courses.datatalks.club).
+
+> To earn a [certificate](#how-to-get-a-certificate), you'll need enough time to complete one [final project](#capstone-project) and the required peer reviews. Details are in the Projects and Certificate sections.
 
 **Ready to join DE Zoomcamp?** Here's how it works:
 
@@ -411,6 +422,20 @@ After completing all six modules, the capstone project phase begins. You'll buil
 
 The entire journey takes 9 weeks from start to certificate, and you'll be part of a global cohort tackling the same challenges at the same time.
 
+### Comparison
+
+We summarized the key differences between the two joining options in this table:
+
+| Feature | Self-Paced | Live Cohort |
+|---------|------------|-------------|
+| **Timing** | Learn at your own pace, start anytime | Fixed 9-week schedule (January–March each year) |
+| **Course Materials** | Full access to GitHub repository and YouTube lectures | Full access to GitHub repository and YouTube lectures |
+| **Community** | Access to Slack community (`#course-data-engineering`) | Access to Slack community (`#course-data-engineering`) |
+| **Homework** | Available but not scored | Scored automatically, appears on leaderboard |
+| **Projects** | Build on your own, no evaluation | Submit 1 final project (capstone) with peer review |
+| **Certificate** | Not available | Available after completing project and peer reviews |
+| **Structure** | Flexible, no deadlines | Weekly rhythm with deadlines and peer accountability |
+
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
         <a href="https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
@@ -420,9 +445,33 @@ The entire journey takes 9 weeks from start to certificate, and you'll be part o
     </div>
 </div>
 
+## Testimonials
+
+We've collected some testimonials from our students who have completed the Data Engineering Zoomcamp.
+
+> Thank you for what you do! The Data Engineering Zoomcamp gave me skills that helped me land my first tech job.
+> 
+> — [Tim Claytor](https://www.linkedin.com/in/claytor/) ([Source](https://www.linkedin.com/feed/update/urn:li:activity:7396882073308938240?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7396882073308938240%2C7396889959711793152%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287396889959711793152%2Curn%3Ali%3Aactivity%3A7396882073308938240%29))
+
+> Three months might seem like a long time, but the growth and learning during this period are truly remarkable. It was a great experience with a lot of learning, connecting with like-minded people from all around the world, and having fun. I must admit, this was really hard. But the feeling of accomplishment and learning made it all worthwhile. And I would do it again!
+>
+> — [Nevenka Lukic](https://www.linkedin.com/in/nevenka-lukic/) ([Source](https://www.linkedin.com/posts/nevenka-lukic_data-engineering-zoomcamp-final-project-activity-7181985646033461248-Lc1O?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJu9vMBW6iyIYswCQnN6t8UJLkXH2tQPi4))
+
+> One of the significant things I inferred from the Zoomcamp is to prioritize fundamentals and principles over ever-evolving tools and tech stacks. Hugely grateful to Alexey Grigorev for putting together this incredible course and offering it for free.
+>
+> — [Siddhartha Gogoi](https://www.linkedin.com/in/siddhartha-gogoi/) ([Source](https://www.linkedin.com/posts/activity-7325692407675604992-XSKI?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJu9vMBW6iyIYswCQnN6t8UJLkXH2tQPi4))
+
+> Such a fun deep dive into data engineering, cloud automation, and orchestration. I learned so much along the way. Big shoutout to Alexey Grigorev and the DataTalksClub team for the opportunity and guidance throughout the 3 months of the free course.
+>
+> — [Assitan NIARE](https://www.linkedin.com/in/assitan-niar%C3%A9-data/) ([Source](https://www.linkedin.com/posts/activity-7317441554023874561-E3wm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJu9vMBW6iyIYswCQnN6t8UJLkXH2tQPi4))
+
+> If you’re serious about breaking into data engineering, start here. The repo’s structure, community, and hands-on focus make it unparalleled.
+> 
+> — [Wady Osama](https://www.linkedin.com/in/wadyosama/) ([Source](https://www.linkedin.com/posts/wadyosama_dataengineering-zoomcamp-dezoomcamp-activity-7292126824711520258-puJm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJu9vMBW6iyIYswCQnN6t8UJLkXH2tQPi4))
+
 ## Frequently Asked Questions
 
-{% include faq-accordion.html faqs=site.data.faqs.data_engineering_zoomcamp %}
+{% include faq-accordion.html faqs=site.data.faqs.data-engineering-zoomcamp %}
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
@@ -434,3 +483,5 @@ The entire journey takes 9 weeks from start to certificate, and you'll be part o
 </div>
 
 {% include related-posts.html manual_posts=page.related_posts max_posts=5 %}
+
+{% include course-structured-data/data-engineering-zoomcamp-structured-data.html %}

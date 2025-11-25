@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "20+ Best Data Science Slack Communities to Join in 2025"
-h1: "20+ Best Data Science Slack Communities"
-subtitle: "A guide to the most active Slack groups for data, AI, and machine learning professionals."
-description: "Explore top data science Slack communities for 2025. Join groups on AI, ML, MLOps, Python, R, visualization, and diversity in tech."
-image: "images/posts/2020-12-23-slack-communities/cover.png"
-authors: [alexeygrigorev, valeriiakuka]
-tags: [misc, list]
+title: 20+ Best Data Science Slack Communities to Join in 2025
+h1: 20+ Best Data Science Slack Communities
+subtitle: A guide to the most active Slack groups for data, AI, and machine learning
+  professionals.
+description: Explore top data science Slack communities for 2025. Join groups on AI,
+  ML, MLOps, Python, R, visualization, and diversity in tech.
+image: images/posts/2020-12-23-slack-communities/cover.png
+authors:
+- alexeygrigorev
+- valeriiakuka
+tags:
+- misc
+- list
 date: 2025-10-19
+datepublished: '2020-12-23'
 ---
 
 Finding the right [data science Slack community](/slack.html) can make a big difference in how you learn, work, and grow in the field. Slack groups bring together data scientists, machine learning engineers, and AI enthusiasts from around the world. They're places where you can ask technical questions, share projects, discover learning resources, and connect with peers working on similar challenges.
@@ -352,7 +359,7 @@ A beginner-friendly Slack community centered on Kaggle competitions and projects
 
 Joining a Slack community can be one of the easiest ways for you to stay connected in the fast-moving worlds of data science, machine learning, and AI. These groups give you access to peers who are facing similar challenges, channels full of resources and tutorials, and opportunities to network or even find your next project or job.
 
-Did we miss a community you find valuable? Let us know in the comments so we can keep this list up to date.
+Did we miss a community you find valuable? Let us know in [our Slack](https://datatalks.club/slack.html) so we can keep this list up to date.
 
 ## Frequently Searched Questions
 {% include faq-accordion.html faqs=site.data.faqs.data-science-slack-communities %}

@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "How I Landed a Job As a Product Analyst"
-subtitle: "An account of my job search in the field of analytics during Covid-19"
-description: "An account of my job search in the field of analytics during Covid-19"
-image: "images/posts/2021-02-01-landing-product-analyst-job/cover.jpg"
-authors: [nishantmohan]
-tags: [careers, job, analytics]
+title: How I Landed a Job As a Product Analyst
+subtitle: An account of my job search in the field of analytics during Covid-19
+description: An account of my job search in the field of analytics during Covid-19
+image: images/posts/2021-02-01-landing-product-analyst-job/cover.jpg
+authors:
+- nishantmohan
+tags:
+- careers
+- job
+- analytics
+datepublished: '2021-02-01'
+date: '2021-02-01'
 ---
 
 ## Background

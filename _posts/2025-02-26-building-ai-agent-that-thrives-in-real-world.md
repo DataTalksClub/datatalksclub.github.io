@@ -10,6 +10,8 @@ tags:
 - llm
 - monitoring
 title: Building an AI Agent that Thrives in the Real World
+datepublished: '2025-02-26'
+date: '2025-02-26'
 ---
 
 <figure>
