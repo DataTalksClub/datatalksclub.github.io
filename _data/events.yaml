@@ -1,4 +1,18 @@
 
+- time: 2025-12-16 17:00:00
+  title: "From Human-in-the-Loop to Agent-in-the-Loop: A Practical Transition Guide"
+  speakers: [ertugrulmutlu]
+  type: webinar
+  link: https://luma.com/d2o7pqt9
+
+
+- time: 2025-12-16 17:00:00
+  title: "Durable Agentic Workflows with Temporal.io"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://luma.com/xbfrz1zp
+
+
 - time: 2025-12-09 17:00:00
   title: "Docker for Data Engineering: Postgres, Docker Compose, and Real-World Workflows"
   speakers: [alexeygrigorev]
@@ -11,6 +25,7 @@
   speakers: [adityaseshaditya]
   type: workshop
   link: https://luma.com/3ykwvz3x
+  youtube: https://www.youtube.com/watch?v=UHRN7cX_ieE
 
 
 - time: 2025-11-26 17:00:00
@@ -33,6 +48,7 @@
   speakers: [xiahebleinagel]
   type: podcast
   link: https://luma.com/ifmqg2xb
+  youtube: https://www.youtube.com/watch?v=D2rw52SOFfM
 
 
 - time: 2025-10-28 17:00:00
