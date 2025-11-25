@@ -4,7 +4,7 @@ subtitle: 'Become a Data Engineer: Master Modern Data Engineering with Hands-On 
 description: Free data engineering course with certificate. Learn Python, SQL, dbt,
   Kafka, and Spark. Build production pipelines, earn a certificate.
 image: images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.jpeg
-date: 2025-10-22
+date: 2025-11-25
 authors:
 - valeriiakuka
 tags:
@@ -483,3 +483,5 @@ We've collected some testimonials from our students who have completed the Data 
 </div>
 
 {% include related-posts.html manual_posts=page.related_posts max_posts=5 %}
+
+{% include course-structured-data/data-engineering-zoomcamp-structured-data.html %}

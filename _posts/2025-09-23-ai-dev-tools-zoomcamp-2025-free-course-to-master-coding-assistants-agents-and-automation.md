@@ -6,7 +6,7 @@ authors:
 description: 'Free AI Dev Tools course: build projects with Copilot, Cursor, MCP, and n8n. Learn AI coding assistants, agents, CI/CD, and earn a certificate.'
 image: images/posts/2025-09-23-ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation/course-cover.png
 layout: post
-date: 2025-09-23
+date: 2025-11-25
 tags:
 - courses
 - artificial-intelligence
@@ -223,3 +223,5 @@ When you join a live cohort, you get:
 </div>
 
 {% include related-posts.html manual_posts=page.related_posts max_posts=5 %}
+
+{% include course-structured-data/ai-dev-tools-zoomcamp-structured-data.html %}

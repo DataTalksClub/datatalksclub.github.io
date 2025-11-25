@@ -12,7 +12,7 @@ authors:
 - valeriiakuka
 tags:
 - courses
-date: 2025-11-24
+date: 2025-11-25
 datepublished: '2024-04-11'
 ---
 
@@ -194,6 +194,8 @@ You'll work with industry-standard tools including Scikit-Learn, TensorFlow, and
     </div>
 </div>
 
+{% include course-structured-data/machine-learning-zoomcamp-structured-data.html %}
+
 [↑ Back to the courses table](#datatalksclub-free-online-courses)
 
 
@@ -265,6 +267,8 @@ Throughout the 9-week program, you'll master essential tools like Docker for con
         </a>
     </div>
 </div>
+
+{% include course-structured-data/data-engineering-zoomcamp-structured-data.html %}
 
 [↑ Back to the courses table](#datatalksclub-free-online-courses)
 
@@ -338,6 +342,8 @@ You'll learn to use MLflow for experiment tracking, build automated training pip
     </div>
 </div>
 
+{% include course-structured-data/mlops-zoomcamp-structured-data.html %}
+
 [↑ Back to the courses table](#datatalksclub-free-online-courses)
 
 
@@ -410,6 +416,8 @@ The course covers both commercial APIs (OpenAI) and open-source models (Hugging 
     </div>
 </div>
 
+{% include course-structured-data/llm-zoomcamp-structured-data.html %}
+
 [↑ Back to the courses table](#datatalksclub-free-online-courses)
 
 ## AI Dev Tools Zoomcamp
@@ -480,6 +488,8 @@ The course covers the AI tool landscape (ChatGPT, Copilot, Cursor), teaches you 
         </a>
     </div>
 </div>
+
+{% include course-structured-data/ai-dev-tools-zoomcamp-structured-data.html %}
 
 [↑ Back to the courses table](#datatalksclub-free-online-courses)
 
@@ -662,3 +672,5 @@ DataTalks.Club Zoomcamps offer a different model compared to traditional tech bo
 ## Frequently Asked Questions
 
 {% include faq-accordion.html faqs=site.data.faqs.free-datatalksclub-courses-zoomcamps %}
+
+{% include course-structured-data/datatalksclub-free-courses-zoomcamps.html %}

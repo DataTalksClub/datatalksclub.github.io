@@ -17,7 +17,7 @@ related_posts:
 - mlops-zoomcamp.html
 - llm-zoomcamp.html
 - ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html
-date: 2025-10-15
+date: 2025-11-25
 charts: true
 datepublished: '2023-08-17'
 ---
@@ -469,3 +469,5 @@ The entire journey takes 4 months from start to certificate, and you'll be part 
 </div>
 
 {% include related-posts.html manual_posts=page.related_posts max_posts=5 %}
+
+{% include course-structured-data/machine-learning-zoomcamp-structured-data.html %}

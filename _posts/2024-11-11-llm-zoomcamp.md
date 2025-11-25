@@ -13,7 +13,7 @@ tags:
 - artificial-intelligence
 - large-language-models
 title: 'LLM Zoomcamp: Free LLM Engineering Course and Certification'
-date: 2025-08-25
+date: 2025-11-25
 related_posts:
 - guide-to-free-online-courses-at-datatalks-club.html
 - data-engineering-zoomcamp.html
@@ -281,3 +281,5 @@ When you join a live cohort, you get:
 </div>
 
 {% include related-posts.html manual_posts=page.related_posts max_posts=5 %}
+
+{% include course-structured-data/llm-zoomcamp-structured-data.html %}
