@@ -64,7 +64,7 @@ quotableClips:
   startOffset: 770
   url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=770
   endOffset: 885
-- name: 'Sourcing Research Questions: Surveys, Citations, and "Future Work"
+- name: 'Sourcing Research Questions: Surveys, Citations, and "Future Work"'
   startOffset: 885
   url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=885
   endOffset: 1055
@@ -397,7 +397,7 @@ transcript:
   sec: 834
   time: '13:54'
   who: Mihail
-- header: 'Sourcing Research Questions: Surveys, Citations, and "Future Work"
+- header: 'Sourcing Research Questions: Surveys, Citations, and "Future Work"'
 - line: Where do these open-ended questions come from? Do you have to come up with
     them yourself? Does your professor tell you about them or you work with companies
     from the industry to find them? How do you come up with these problems?

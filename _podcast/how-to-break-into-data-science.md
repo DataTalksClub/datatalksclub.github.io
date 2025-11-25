@@ -78,7 +78,7 @@ quotableClips:
   startOffset: 2131
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=2131
   endOffset: 2412
-- name: 'Learning a New Framework: Knowing When It''s "Good Enough"
+- name: 'Learning a New Framework: Knowing When It''s "Good Enough"'
   startOffset: 2412
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=2412
   endOffset: 2567
@@ -893,7 +893,7 @@ transcript:
   sec: 2301
   time: '38:21'
   who: Misra
-- header: 'Learning a New Framework: Knowing When It''s "Good Enough"
+- header: 'Learning a New Framework: Knowing When It''s "Good Enough"'
 - line: Let's say there is a new framework. You think this framework is useful so
     decide to pick it up and learn it a little bit better. We don't want to learn
     it perfectly – we know that this is not going to be a great way of spending our

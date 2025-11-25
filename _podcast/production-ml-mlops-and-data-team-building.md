@@ -51,7 +51,7 @@ quotableClips:
   startOffset: 406
   url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=406
   endOffset: 572
-- name: 'Terminology Problems: The Ambiguity of "Data Science"
+- name: 'Terminology Problems: The Ambiguity of "Data Science"'
   startOffset: 572
   url: https://www.youtube.com/watch?v=rMRUa8WxDz4&t=572
   endOffset: 648
@@ -280,7 +280,7 @@ transcript:
   sec: 555
   time: '9:15'
   who: Rishabh
-- header: 'Terminology Problems: The Ambiguity of "Data Science"
+- header: 'Terminology Problems: The Ambiguity of "Data Science"'
 - line: 'Actually, in the question that I initially put, I wrote ‘data science’. Then
     you left a comment saying: “Hey, let''s not use ‘science’ here because it''s too
     ambiguous. It can mean too many things.”'

@@ -138,7 +138,7 @@ quotableClips:
   startOffset: 3516
   url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=3516
   endOffset: 3620
-- name: 'Community Event: Search Meetup — "Bias in AI: How to Measure and Fix It"
+- name: 'Community Event: Search Meetup — "Bias in AI: How to Measure and Fix It"'
   startOffset: 3620
   url: https://www.youtube.com/watch?v=xyTfqIWeKf8&t=3620
   endOffset: 3672
@@ -1500,7 +1500,7 @@ transcript:
   sec: 3584
   time: '59:44'
   who: Sadat
-- header: 'Community Event: Search Meetup — "Bias in AI: How to Measure and Fix It"
+- header: 'Community Event: Search Meetup — "Bias in AI: How to Measure and Fix It"'
 - line: When is the next Search Meetup meeting?
   sec: 3620
   time: '1:00:20'

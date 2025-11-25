@@ -56,12 +56,11 @@ quotableClips:
   startOffset: 991
   url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=991
   endOffset: 1256
-- name: 'Technical Talks: Pandas deep dives and "Deep Learning for Fun & Profit"
+- name: 'Technical Talks: Pandas deep dives and "Deep Learning for Fun & Profit"'
   startOffset: 1256
   url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=1256
   endOffset: 1471
-- name: 'Communicating AI to Business: simplification, open source, and stakeholder
-    buy-in'
+- name: 'Communicating AI to Business: simplification, open source, and stakeholder buy-in'
   startOffset: 1471
   url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=1471
   endOffset: 1878
@@ -447,7 +446,7 @@ transcript:
   sec: 1251
   time: '20:51'
   who: Alexey
-- header: 'Technical Talks: Pandas deep dives and "Deep Learning for Fun & Profit"
+- header: 'Technical Talks: Pandas deep dives and "Deep Learning for Fun & Profit"'
 - line: It's an important topic to say, “Hey, there's the index. It's a very important
     structure when you work with the data. Actually, you can do really cool things
     for that as well, which are really useful and big timesavers.” That was then.

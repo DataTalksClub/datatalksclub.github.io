@@ -16,7 +16,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/how-to-market-yourself-without-being-celebrity-shawn/id1541710331?i=1000522670386
 
 description: "Discover personal branding & career marketing for devs: learn-in-public tactics, niche choice and internal promotion to boost visibility and land promotions."
-intro: "How do developers build visibility, earn promotions, and steer their careers by learning in public? In this episode, Shawn Swyx Wang — Senior Developer Advocate for AWS Amplify, author of The Coding Career Handbook, and former engineer at Netlify and Temporal — walks through a practical framework for personal branding and career marketing for developers. We unpack why self-marketing matters beyond job hunting and the five-part personal marketing framework: brand, domain, value, skills, and channel. <br><br> You''ll hear concrete guidance on choosing and validating a niche (meetups, conferences, community signals), building an owned platform (blog, newsletter, mailing list), and distribution tactics from early social growth to the engagement move "pick up what they put down." Swyx also covers career transition strategies, hiring portfolios and case studies, internal pathways like lateral moves and signature initiatives, and creating reusable talks and demos. Practical tools discussed include brag documents, demos for internal promotion, and open knowledge projects as visibility builders. Tune in to get actionable steps to craft a developer personal brand, grow influence, and apply learn-in-public tactics to advance your career and job opportunities."
+intro: "How do developers build visibility, earn promotions, and steer their careers by learning in public? In this episode, Shawn Swyx Wang — Senior Developer Advocate for AWS Amplify, author of The Coding Career Handbook, and former engineer at Netlify and Temporal — walks through a practical framework for personal branding and career marketing for developers. We unpack why self-marketing matters beyond job hunting and the five-part personal marketing framework: brand, domain, value, skills, and channel. <br><br> You''ll hear concrete guidance on choosing and validating a niche (meetups, conferences, community signals), building an owned platform (blog, newsletter, mailing list), and distribution tactics from early social growth to the engagement move \"pick up what they put down.\" Swyx also covers career transition strategies, hiring portfolios and case studies, internal pathways like lateral moves and signature initiatives, and creating reusable talks and demos. Practical tools discussed include brag documents, demos for internal promotion, and open knowledge projects as visibility builders. Tune in to get actionable steps to craft a developer personal brand, grow influence, and apply learn-in-public tactics to advance your career and job opportunities."
 topics:
 - personal brand
 - career growth
@@ -145,12 +145,7 @@ quotableClips:
   endOffset: 3761
 
 transcript:
-- header: 'Guest Overview: Swyx and the learn in public movement'
-- line: This week we will talk about marketing ourselves. We have a special guest
-    today, Swyx aka Swyx. Shawn is a developer, PM and angel investor, who is active
-    in the development community. He is a frequent speaker and writer. I bet you already
-    know him from his “learn in public” movement that he advocates. Welcome! Thanks
-    for coming today.
+
 - header: 'Guest Overview: Swyx and the learn in public movement'
 - line: This week we will talk about marketing ourselves. We have a special guest
     today, Swyx aka Swyx. Shawn is a developer, PM and angel investor, who is active

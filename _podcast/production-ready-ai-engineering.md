@@ -41,7 +41,7 @@ quotableClips:
   startOffset: 364
   url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=364
   endOffset: 545
-- name: 'Data Trust: Why Testing Prevents "This Number Doesn’t Look Correct"
+- name: 'Data Trust: Why Testing Prevents "This Number Doesn''t Look Correct"'
   startOffset: 545
   url: https://www.youtube.com/watch?v=BP6w_vKySN0&t=545
   endOffset: 707
@@ -271,7 +271,7 @@ transcript:
   sec: 528
   time: '8:48'
   who: Bartosz
-- header: 'Data Trust: Why Testing Prevents "This Number Doesn’t Look Correct"
+- header: 'Data Trust: Why Testing Prevents "This Number Doesn''t Look Correct"'
 - line: How did you end up writing a chapter for 97 Things Every Data Engineer Should
     Know?
   sec: 545

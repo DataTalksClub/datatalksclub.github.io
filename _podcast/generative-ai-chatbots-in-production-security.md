@@ -40,7 +40,7 @@ quotableClips:
   startOffset: 251
   url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=251
   endOffset: 342
-- name: 'Democratization of Generative AI: Rise of Prompting and New "AI Experts"
+- name: 'Democratization of Generative AI: Rise of Prompting and New "AI Experts"'
   startOffset: 342
   url: https://www.youtube.com/watch?v=bT7-HRNCltk&t=342
   endOffset: 568
@@ -189,7 +189,7 @@ transcript:
   sec: 328
   time: '5:28'
   who: Alexey
-- header: 'Democratization of Generative AI: Rise of Prompting and New "AI Experts"
+- header: 'Democratization of Generative AI: Rise of Prompting and New "AI Experts"'
 - line: Exactly. AI has become very accessible. Previously, being an AI expert required
     coding skills. Now, simply knowing how to use a keyboard and craft prompts can
     position someone as a "prompt engineer" or even an AI expert.
