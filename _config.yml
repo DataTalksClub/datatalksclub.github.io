@@ -19,6 +19,7 @@ exclude:
   - Pipfile.lock
   - Makefile
   - .gitignore
+  - sh-thd-*
 
 
 collections:

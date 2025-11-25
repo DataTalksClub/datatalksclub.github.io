@@ -338,10 +338,6 @@
               <div>Spotify</div>
             </a>
             {% endif %}
-            <a href="https://anchor.fm/datatalksclub" target="_blank" rel="noopener noreferrer" class="chip-platform">
-              <img src="/images/podcast/badges/anchor-icon.jpg" alt="Anchor icon" class="chip-platform-icon"/>
-              <div>Anchor</div>
-            </a>
           </div>
         </header>
 
@@ -368,7 +364,60 @@
           <div class="content-main mb-5">
             {{ content }}
           </div>
+        </section>
 
+        <section class="podcast-tab-content" id="timestamps-tab" aria-labelledby="timestamps-heading">
+          <h2 id="timestamps-heading" class="sr-only">Timestamps</h2>
+          {% if page.transcript %}
+            <p class="timestamps-prompt">Click any timestamp to jump to that moment in the video</p>
+            <div class="timestamps-list">
+              <ul>
+              {% assign found_header = false %}
+              {% assign header_text = "" %}
+              {% for line in page.transcript %}
+                {% if line.header %}
+                  {% assign found_header = true %}
+                  {% assign header_text = line.header %}
+                {% elsif found_header and line.sec %}
+                  <li>
+                    <a href="#" class="timestamp-link" data-time="{{ line.sec }}">
+                      <span class="timestamp-time">{{ line.time }}</span>
+                      <span class="timestamp-text">{{ header_text }}</span>
+                    </a>
+                  </li>
+                  {% assign found_header = false %}
+                {% endif %}
+              {% endfor %}
+              </ul>
+            </div>
+          {% else %}
+          <p>Timestamps coming soon...</p>
+          {% endif %}
+        </section>
+
+        {% if page.transcript %}
+        <section class="podcast-tab-content" id="transcript-tab" aria-labelledby="transcript-heading">
+          <h2 id="transcript-heading" class="sr-only">Transcript</h2>
+          <div class="content-main mb-5">
+            <p class="transcript-disclaimer">
+              The transcripts are edited for clarity, sometimes with AI.
+              If you notice any incorrect information,
+              <a href="https://github.com/DataTalksClub/datatalksclub.github.io/issues/new/choose" target="_blank">let us know</a>.
+            </p>
+
+            {% for line in page.transcript %}
+              {% if line.header %}
+              <h3 id="{{ line.header | slugify }}" class="transcript-header">{{ line.header }}</h3>
+              {% else %}
+              <p class="transcript-line"><b>{{ line.who }}</b>: {{ line.line }}{% if line.sec %} (<a href="#" class="transcript-timestamp-link" data-time="{{ line.sec }}">{{ line.time }}</a>){% endif %}</p>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </section>
+        {% endif %}
+
+        <!-- Unified Footer - Appears on all tabs -->
+        <div class="podcast-unified-footer">
           <!-- Guest Bio Cards -->
           {% if page.guests %}
           <section class="guest-bio-section mb-4" aria-labelledby="guests-heading">
@@ -430,38 +479,38 @@
           </nav>
           {% endif %}
 
-                    <!-- Newsletter Section -->
-        <div class="main-cta">
-          <p class="newsletter-main-text">
-            Join 130,000+ data professionals and get weekly updates on new podcast episodes, upcoming events, free courses, and more.
-          </p>
-          <p class="newsletter-sub-text">
-            You'll also receive an invite to our Slack community for discussions, networking, and peer support.
-          </p>
+          <!-- Newsletter Section -->
+          <div class="main-cta">
+            <p class="newsletter-main-text">
+              Join 130,000+ data professionals and get weekly updates on new podcast episodes, upcoming events, free courses, and more.
+            </p>
+            <p class="newsletter-sub-text">
+              You'll also receive an invite to our Slack community for discussions, networking, and peer support.
+            </p>
 
-          <form method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
-              action="https://club.us19.list-manage.com/subscribe/post?u=0d7822ab98152f5afc118c176&amp;id=97178021aa"
-              class="validate" target="_blank" novalidate>
-            <div class="form-row align-items-center justify-content-center">
-              <div class="col-auto">
-                <label class="sr-only" for="mce-EMAIL">Email</label>
-                <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email address" required>
+            <form method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+                action="https://club.us19.list-manage.com/subscribe/post?u=0d7822ab98152f5afc118c176&amp;id=97178021aa"
+                class="validate" target="_blank" novalidate>
+              <div class="form-row align-items-center justify-content-center">
+                <div class="col-auto">
+                  <label class="sr-only" for="mce-EMAIL">Email</label>
+                  <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email address" required>
+                </div>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                  <input type="text" name="b_0d7822ab98152f5afc118c176_e52ea9dcd3" tabindex="-1" value="">
+                </div>
+                <div class="col-auto">
+                  <button type="submit" name="subscribe" class="btn btn-success">
+                    <i class="far fa-paper-plane"></i> &nbsp; Join 
+                  </button>
+                </div>
               </div>
-              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-              <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                <input type="text" name="b_0d7822ab98152f5afc118c176_e52ea9dcd3" tabindex="-1" value="">
-              </div>
-              <div class="col-auto">
-                <button type="submit" name="subscribe" class="btn btn-success">
-                  <i class="far fa-paper-plane"></i> &nbsp; Join 
-                </button>
-              </div>
+            </form>
+            <div class="pt-2 small">
+              You'll be subscribed to our newsletter and receive a Slack invite in 3 minutes.
             </div>
-          </form>
-          <div class="pt-2 small">
-            You'll be subscribed to our newsletter and receive a Slack invite in 3 minutes.
           </div>
-        </div>
 
           <!-- Related Episodes Section -->
           <section class="related-episodes-section" aria-labelledby="related-episodes-heading">
@@ -497,57 +546,7 @@
               {% endfor %}
             </div>
           </section>
-        </section>
-
-        <section class="podcast-tab-content" id="timestamps-tab" aria-labelledby="timestamps-heading">
-          <h2 id="timestamps-heading" class="sr-only">Timestamps</h2>
-          {% if page.transcript %}
-            <p class="timestamps-prompt">Click any timestamp to jump to that moment in the video</p>
-            <div class="timestamps-list">
-              <ul>
-              {% assign found_header = false %}
-              {% assign header_text = "" %}
-              {% for line in page.transcript %}
-                {% if line.header %}
-                  {% assign found_header = true %}
-                  {% assign header_text = line.header %}
-                {% elsif found_header and line.sec %}
-                  <li>
-                    <a href="#" class="timestamp-link" data-time="{{ line.sec }}">
-                      <span class="timestamp-time">{{ line.time }}</span>
-                      <span class="timestamp-text">{{ header_text }}</span>
-                    </a>
-                  </li>
-                  {% assign found_header = false %}
-                {% endif %}
-              {% endfor %}
-              </ul>
-            </div>
-          {% else %}
-          <p>Timestamps coming soon...</p>
-          {% endif %}
-        </section>
-
-        {% if page.transcript %}
-        <section class="podcast-tab-content" id="transcript-tab" aria-labelledby="transcript-heading">
-          <h2 id="transcript-heading" class="sr-only">Transcript</h2>
-          <div class="content-main mb-5">
-            <p class="transcript-disclaimer">
-              The transcripts are edited for clarity, sometimes with AI.
-              If you notice any incorrect information,
-              <a href="https://github.com/DataTalksClub/datatalksclub.github.io/issues/new/choose" target="_blank">let us know</a>.
-            </p>
-
-            {% for line in page.transcript %}
-              {% if line.header %}
-              <h3 id="{{ line.header | slugify }}" class="transcript-header">{{ line.header }}</h3>
-              {% else %}
-              <p class="transcript-line"><b>{{ line.who }}</b>: {{ line.line }}{% if line.sec %} (<a href="{{ page.links.youtube }}&t={{ line.sec }}s" target="youtube">{{ line.time }}</a>){% endif %}</p>
-              {% endif %}
-            {% endfor %}
-          </div>
-        </section>
-        {% endif %}
+        </div>
 
       </article>
     </div>
@@ -574,7 +573,7 @@
       });
 
       // Timestamp click functionality
-      const timestampLinks = document.querySelectorAll('.timestamp-link');
+      const timestampLinks = document.querySelectorAll('.timestamp-link, .transcript-timestamp-link');
       timestampLinks.forEach(link => {
         link.addEventListener('click', function(e) {
           e.preventDefault();
