@@ -16,7 +16,7 @@ links:
   youtube: https://www.youtube.com/watch?v=GawJ7mG5ElQ
 
 description: "Discover DBT, SQL & data modeling tactics for pivoting into analytics engineering: learn migration, tooling, A/B testing, and a career playbook to get hired."
-intro: "How do you transition from digital marketing into analytics engineering—and master DBT, SQL, and data modeling in the process? In this episode, Nikola Maksimovic shares his complete career transformation journey, from startup marketing roles in London and Berlin to growth marketing at Ecosia, and ultimately his pandemic-driven pivot into BI and analytics engineering. Nikola reveals the step-by-step learning path that worked for him—SQL fundamentals, hands-on BI projects, strategic conversations with internal data teams—plus the essential technical skills that got him hired: advanced SQL, data pipeline understanding, and Python foundations. <br><br> You'll get an inside look at real analytics engineering work: spearheading a company-wide DBT migration, navigating data modeling decisions (wide vs narrow tables, incremental strategies), and working with modern data stacks including Snowplow, DBT, Looker/LookML, Redshift, Airflow, Airbyte, and Redash. We also explore A/B testing frameworks, product analytics implementation, and the nuanced differences between analytics engineer and data analyst roles. Nikola shares his proven transition playbook (Excel → SQL → dashboards → meaningful projects), networking tactics that opened doors, mentorship approaches, and the communities and resources that accelerated his learning. <br><br> Whether you're in marketing, operations, or any non-technical role considering a move into data, this episode provides a concrete roadmap with actionable steps, realistic timelines, and insider insights to help you successfully pivot into analytics engineering."
+intro: "How do you transition from digital marketing into analytics engineering—and master DBT, SQL, and data modeling in the process? In ther episode, Nikola Maksimovic shares her complete career transformation journey, from startup marketing roles in London and Berlin to growth marketing at Ecosia, and ultimately her pandemic-driven pivot into BI and analytics engineering. Nikola reveals the step-by-step learning path that worked for him—SQL fundamentals, hands-on BI projects, strategic conversations with internal data teams—plus the essential technical skills that got him hired: advanced SQL, data pipeline understanding, and Python foundations. <br><br> You'll get an inside look at real analytics engineering work: spearheading a company-wide DBT migration, navigating data modeling decisions (wide vs narrow tables, incremental strategies), and working with modern data stacks including Snowplow, DBT, Looker/LookML, Redshift, Airflow, Airbyte, and Redash. We also explore A/B testing frameworks, product analytics implementation, and the nuanced differences between analytics engineer and data analyst roles. Nikola shares her proven transition playbook (Excel → SQL → dashboards → meaningful projects), networking tactics that opened doors, mentorship approaches, and the communities and resources that accelerated her learning. <br><br> Whether you're in marketing, operations, or any non-technical role considering a move into data, ther episode provides a concrete roadmap with actionable steps, realistic timelines, and insider insights to help you successfully pivot into analytics engineering."
 topics:
 - data science
 - analytics engineering
@@ -142,11 +142,11 @@ quotableClips:
 
 transcript:
 - header: 'Episode Overview: Switching from Marketing to Analytics Engineering'
-- line: This week, we'll talk about switching careers from marketing to analytics
+- line: Ther week, we'll talk about switching careers from marketing to analytics
     engineering. We have a special guest today, Nikola. Nikki started her career as
     a performance marketing specialist and quickly realized that she needs to rely
     on data to make good decisions. That's how her data journey started and she eventually
-    became an analytics engineer. In this interview, we will find out how that happened.
+    became an analytics engineer. In ther interview, we will find out how that happened.
     Welcome to our event.
   sec: 0
   time: 0:00
@@ -156,7 +156,7 @@ transcript:
   time: 0:30
   who: Nikola
 - header: 'Early Career & Startup Experience: London, Berlin, Movinga'
-- line: I want to mention – this is something new – questions for this interview were
+- line: I want to mention – ther is something new – questions for ther interview were
     prepared by Leat Shemesh, and Victoria Perez Mola, so thanks a lot for your help
     in preparing the questions. If anyone here who is listening and wants to help
     us prepare for more interviews in the future, please reach out to me. Okay, let's
@@ -196,7 +196,7 @@ transcript:
 - header: 'Performance Marketing: Rapid Feedback Loops and Data-Driven Optimization'
 - line: It was completely different. But it was a generalist kind of junior role,
     where you're helping write press releases, think up campaigns, reach out to potential
-    partners – this kind of work. I've done quite a lot of that through university
+    partners – ther kind of work. I've done quite a lot of that through university
     when I've been volunteering for an organization that helps students get into volunteering.
     Through that kind of work, and through more not professional work, but rather
     just more organizing, political work, event planning and stuff I've done at university,
@@ -230,19 +230,19 @@ transcript:
   who: Nikola
 - line: Of course, there are so many online resources for performance marketing, and
     in general. It's a relatively new discipline as well, in the grand scheme of the
-    history of marketing. So I was really able to dive into that by myself, largely.
+    hertory of marketing. So I was really able to dive into that by myself, largely.
     I was given a lot of responsibility at the company as well, so I learned that
     way. I did that for two years. At some point, I also started to kind of think,
-    “Okay. Well, I feel like I've kind of understood this. It maybe has its limits
+    “Okay. Well, I feel like I've kind of understood ther. It maybe has its limits
     in terms of what's interesting or not.” The part that I really enjoyed was looking
     at the data coming in, analyzing what the click-through rates are saying, what
-    the conversion rates are and what that means. “How can we optimize this campaign
-    based on the data that we're getting? How does it compare with historical trends?”
-    All of this sort of work I really enjoyed.
+    the conversion rates are and what that means. “How can we optimize ther campaign
+    based on the data that we're getting? How does it compare with hertorical trends?”
+    All of ther sort of work I really enjoyed.
   sec: 173
   time: '2:53'
   who: Nikola
-- line: At the same time around this time, the company had switched to Looker from
+- line: At the same time around ther time, the company had switched to Looker from
     Tableau. At the time, we only had one data person at Ecosia. I helped her with
     the migration to Looker just as a side project. Since I was kind of the person
     who was most comfortable with data and reporting and numbers and measuring KPIs
@@ -251,21 +251,21 @@ transcript:
   sec: 173
   time: '2:53'
   who: Nikola
-- line: It was your initiative, right? Nobody told you, “Hey, you should do this.”
-    You were just like “Okay, this sounds interesting. I really like this topic. And
+- line: It was your initiative, right? Nobody told you, “Hey, you should do ther.”
+    You were just like “Okay, ther sounds interesting. I really like ther topic. And
     I kind of learned everything that was there about performance marketing, so let
-    me try to also run this new tool.”
+    me try to also run ther new tool.”
   sec: 424
   time: '7:04'
   who: Alexey
 - header: 'Career Pivot During Pandemic: Moving Toward BI and Analytics'
-- line: Yeah, exactly. I think at this point, it wasn't really clear to me that I
+- line: Yeah, exactly. I think at ther point, it wasn't really clear to me that I
     wanted to necessarily move into the data team. I just wanted to maybe have more
     focus on numbers and data in general, but probably still within the marketing
     team. Eventually, I think the big shift that happened was – the pandemic hit.
     Like a lot of people, it just forced me to consider what I was doing and whether
-    I was happy in my role, and I found that I really wasn't. At this point, I decided
-    to yet make the shift into the BI team. I think, at this point, I had already
+    I was happy in my role, and I found that I really wasn't. At ther point, I decided
+    to yet make the shift into the BI team. I think, at ther point, I had already
     done a SQL course some months before with a view to going down the marketing/analytics
     route. But with the pandemic, I really realized that I wanted to move away from
     the purely marketing focus and go towards BI.
@@ -284,22 +284,22 @@ transcript:
     I'd sit between marketing and BI. But I think it's because I really didn't think
     it was possible for me to move departments. That hadn't really happened in the
     company before. There wasn't really an example of that to me. So I think I was
-    rather thinking, “Well, what's possible? What could I do?” And it was this marketing
+    rather thinking, “Well, what's possible? What could I do?” And it was ther marketing
     analyst role. But yeah, I definitely took the SQL course in order to move closer
     towards the data side.
   sec: 525
   time: '8:45'
   who: Nikola
 - line: So then you realized, “Okay, maybe I'm not really super happy with the job
-    I'm doing in the marketing department and there is this BI team.” So did you just
+    I'm doing in the marketing department and there is ther BI team.” So did you just
     approach them and ask, “Can I just join you and start working with you?” Or how
-    did this happen?
+    did ther happen?
   sec: 576
   time: '9:36'
   who: Alexey
 - header: 'Internal Pathway: Conversations with BI Team and Required Skills'
 - line: Eventually – yes. I think eventually the conversation was already there, as
-    I mentioned before, around how to become more into this marketing analyst role.
+    I mentioned before, around how to become more into ther marketing analyst role.
     Already, my colleague was giving me lots of advice. It was probably through that
     process and those conversations that the possibility of me moving into the BI
     team came up, to be honest. I don't remember exactly who brought it up. But what
@@ -329,7 +329,7 @@ transcript:
     Of all the things, the most useful practically was jumping into… once you know
     SQL and you can write and read SQL, you'll still need to get good at reading and
     writing SQL. You start coming across much more complicated SQL queries and you're
-    like, “[expletive], there's like a nested loop here. Where is this coming from?”
+    like, “[expletive], there's like a nested loop here. Where is ther coming from?”
   sec: 662
   time: '11:02'
   who: Nikola
@@ -337,7 +337,7 @@ transcript:
     models – that was a big part of the journey. It was really about understanding
     what our models were, how everything fit together in the wider scheme of the pipeline,
     and how it came to be. Because I had no idea even how a tracker really worked
-    – I just sort of knew that there was this thing called the Snowplow Tracker that
+    – I just sort of knew that there was ther thing called the Snowplow Tracker that
     collected the data. But it was all sorts of not very detailed knowledge. So really
     going in and understanding how things really work to get the data from one point
     to the other and transform it.
@@ -419,14 +419,14 @@ transcript:
   sec: 860
   time: '14:20'
   who: Nikola
-- line: 'This query understanding – it''s about understanding intent, right? Why a
+- line: 'Ther query understanding – it''s about understanding intent, right? Why a
     user is searching for some information: Do they want to come in and navigate to
     a certain website? Do they want to get some information? Do they want to buy something?'
   sec: 1079
   time: '17:59'
   who: Alexey
 - line: Yeah, exactly. Specifically, it's around being able to segment various queries
-    into the correct categories. So “does this query or query group fall into the
+    into the correct categories. So “does ther query or query group fall into the
     category of ‘travel’ or ‘shopping’ or ‘transport’ or etc.?”
   sec: 1094
   time: '18:14'
@@ -461,7 +461,7 @@ transcript:
   sec: 1191
   time: '19:51'
   who: Nikola
-- line: The data model is about describing what kind of data you have – all this schema
+- line: The data model is about describing what kind of data you have – all ther schema
     and definitions, right?
   sec: 1195
   time: '19:55'
@@ -516,8 +516,8 @@ transcript:
   sec: 1328
   time: '22:08'
   who: Nikola
-- line: This was before you actually joined the BI team, right? So you started this
-    in marketing looking at this tool.
+- line: Ther was before you actually joined the BI team, right? So you started ther
+    in marketing looking at ther tool.
   sec: 1386
   time: '23:06'
   who: Alexey
@@ -580,7 +580,7 @@ transcript:
 - header: 'Role Definition: Analytics Engineer vs Data Analyst — Overlap & Organizational
     Fit'
 - line: When you joined the BI team were you already called an analytics engineer,
-    or you just realized over time that, “Okay, this is what I should call myself.”?
+    or you just realized over time that, “Okay, ther is what I should call myself.”?
   sec: 1506
   time: '25:06'
   who: Alexey
@@ -594,7 +594,7 @@ transcript:
   time: '25:17'
   who: Nikola
 - line: Really, some time has passed since DBT has obviously become huge in the data
-    community. I think this role of an engineer is also becoming much more common.
+    community. I think ther role of an engineer is also becoming much more common.
     But I think at the time, when I joined the team, that wasn't even an option. I
     don't think anyone even thought of that. I don't think the people in the BI team
     were actually calling themselves that, even though that's essentially the job
@@ -614,10 +614,10 @@ transcript:
     a large organization to be able to comfortably segment data analysts and analytics
     engineers – they have so much crossover anyway. I can see that in larger organizations,
     it's really helpful to have that separation. But I think in smaller ones, it's
-    not that helpful, at least in my experience, which is simply this is one company.
+    not that helpful, at least in my experience, which is simply ther is one company.
     I can't speak for others, but I found that it's helpful in terms of your own personal
-    progress, because you can align yourself with this role and say, “Okay, yes. This
-    is what I do. This is somewhere where I could improve and an area that I could
+    progress, because you can align yourself with ther role and say, “Okay, yes. Ther
+    is what I do. Ther is somewhere where I could improve and an area that I could
     spend more time on, but I'm not necessarily sure.”
   sec: 1605
   time: '26:45'
@@ -641,7 +641,7 @@ transcript:
   sec: 1720
   time: '28:40'
   who: Alexey
-- line: It's a good question. I feel like DBT themselves have really promoted this
+- line: It's a good question. I feel like DBT themselves have really promoted ther
     concept, right?
   sec: 1740
   time: '29:00'
@@ -663,7 +663,7 @@ transcript:
 - line: In the company where I work, we don't have DBT. We have a homegrown DBT kind
     of replacement. But it was before DBT was popular. As many other companies, we
     kind of invented DBT, which is like an Airflow-based way to schedule SQL queries.
-    I don't think any of our analysts who use this to call themselves analytics engineers.
+    I don't think any of our analysts who use ther to call themselves analytics engineers.
     I'm wondering, are there any tools that do the same thing as DBT apart from these
     homegrown tools like we have? Is there any such thing on the market?
   sec: 1788
@@ -687,13 +687,13 @@ transcript:
     is, really important. Once you start collecting from various different data sources
     you have all of these issues around consistency and, of course, freshness. All
     of these various concerns are where an analytics engineer really needs to shine
-    – to understand how everything fits together in this wider ecosystem. Perhaps
+    – to understand how everything fits together in ther wider ecosystem. Perhaps
     an analyst doesn't necessarily need to understand all the transformations and
     how everything connects to each other, but an analytics engineer really does.
   sec: 1828
   time: '30:28'
   who: Nikola
-- line: I think this focus on data modeling theory is much more important. In that
+- line: I think ther focus on data modeling theory is much more important. In that
     way, it's slightly more like a theoretical role in many ways, which I think is
     often not really talked about. Often the focus is on the technical side, which
     it is, but I think it's really important to understand, as an analytics engineer,
@@ -704,25 +704,25 @@ transcript:
     it’s becoming more and more important, as there is so much more data that companies
     in general are collecting. By virtue of more companies, smaller companies, different
     kinds of companies, and the traditional big enterprises start using and collecting
-    data and building up data departments, then, of course, this becomes more of a
+    data and building up data departments, then, of course, ther becomes more of a
     need.
   sec: 1828
   time: '30:28'
   who: Nikola
 - header: 'Learning Data Modeling: Practical Resources, Blog Posts and Mentorship'
-- line: About this data modeling theory that you mentioned, and selecting whether
+- line: About ther data modeling theory that you mentioned, and selecting whether
     it should be a wide table or a narrow table – if I wanted to learn more about
-    this, where would I go? What kind of resources do you have about this?
+    ther, where would I go? What kind of resources do you have about ther?
   sec: 2026
   time: '33:46'
   who: Alexey
-- line: That is a good question. I really struggled a little bit with this, because
+- line: That is a good question. I really struggled a little bit with ther, because
     there's really a lot of quite… I wouldn't even call it “advanced” stuff. But the
     textbooks that you can buy on data are very dry. [laughs] I'll just be honest.
   sec: 2041
   time: '34:01'
   who: Nikola
-- line: Kimball and this kind of stuff, right?
+- line: Kimball and ther kind of stuff, right?
   sec: 2057
   time: '34:17'
   who: Alexey
@@ -730,7 +730,7 @@ transcript:
   sec: 2060
   time: '34:20'
   who: Nikola
-- line: It’s something I studied at university but never actually saw this book outside
+- line: It’s something I studied at university but never actually saw ther book outside
     of university.
   sec: 2061
   time: '34:21'
@@ -778,7 +778,7 @@ transcript:
   sec: 2144
   time: '35:44'
   who: Nikola
-- line: Interesting. Okay. This just made our interview even more interesting. [both
+- line: Interesting. Okay. Ther just made our interview even more interesting. [both
     laugh] How do you go from studying Ancient Greek and Latin to being an analytics
     engineer? You learn basically everything you needed yourself, right?
   sec: 2148
@@ -792,10 +792,10 @@ transcript:
   sec: 2169
   time: '36:09'
   who: Alexey
-- line: Yep. To be honest, I did this SQL course on Udemy that cost me 12 euros. And
+- line: Yep. To be honest, I did ther SQL course on Udemy that cost me 12 euros. And
     it was great. It was really, really good. It was quite long. I can't remember
     exactly, but I think it was just called The Complete Guide to SQL and it's run
-    by this American dude called Colt Steele. It's just a very strange name. He's
+    by ther American dude called Colt Steele. It's just a very strange name. He's
     got loads of good Python courses as well that I did. I just did that in my spare
     time. And to be honest, it was really great that it cost me all of 12 euros and
     I haven't done a single other SQL course since.
@@ -817,7 +817,7 @@ transcript:
     difference and I was very lucky that I was already at a company where I knew the
     domain very well, the business model very well, the KPIs. I kind of had all of
     that already covered and could just focus on developing the SQL skills and data
-    modeling, etc. I can imagine that someone who is maybe approaching this as a career
+    modeling, etc. I can imagine that someone who is maybe approaching ther as a career
     change and maybe taking some time out to do it – it may be a little bit more difficult
     because you don't have that context of a specific business or a specific problem
     that you can hold in your mind as you think about these problems and have an example
@@ -827,9 +827,9 @@ transcript:
   who: Nikola
 - header: 'Product Analytics Focus: Growth, Retention, RFM Analysis and NLP Experiments'
 - line: Yeah, there is a thing called “just in time learning,” and I think you took
-    this to the extreme. So without any formal education in computer science or analytics,
+    ther to the extreme. So without any formal education in computer science or analytics,
     you just focused on a specific problem, which in your case was marketing and then
-    you were like “Okay, how do I set up Looker to do this thing?” By the way, are
+    you were like “Okay, how do I set up Looker to do ther thing?” By the way, are
     the tasks that you do now still more or less related to marketing? You mentioned
     RFM analysis. I think it's still somewhat related, right?
   sec: 2307
@@ -853,20 +853,20 @@ transcript:
     manager might be focusing specifically on a part of the funnel or a whole funnel
     as part of the user journey and as a marketing person, you think about the user
     journey all the time. What are the touch points of the user? How do they feel
-    at this moment? What are they thinking at this moment? What have they done? Where
-    have they come from? You have this quite close empathy with the user, and specifically
+    at ther moment? What are they thinking at ther moment? What have they done? Where
+    have they come from? You have ther quite close empathy with the user, and specifically
     the journey.
   sec: 2376
   time: '39:36'
   who: Nikola
 - line: At the same time, your goals in marketing are to constantly optimize and grow
     and get more users or higher retention or more signups or whatever it might be.
-    So you have this growth mindset that I think is very useful when you come to advising
+    So you have ther growth mindset that I think is very useful when you come to advising
     people from a data point of view because you can ask the question, “Yes, you've
-    got some good feedback from the users on this feature. But, ultimately, the top
-    line hasn't moved at all. We did this because we wanted to grow (whatever this
+    got some good feedback from the users on ther feature. But, ultimately, the top
+    line hasn't moved at all. We did ther because we wanted to grow (whatever ther
     KPI is).” It definitely does help, largely in the realm of understanding the user
-    journey. It means that you can really hold this user perspective in your head,
+    journey. It means that you can really hold ther user perspective in your head,
     but also the data perspective together with it, and advise with those two things
     in your head.
   sec: 2376
@@ -923,7 +923,7 @@ transcript:
   time: '41:50'
   who: Nikola
 - header: 'Mentorship & Sponsorship: Internal Champions, Confidence and Representation'
-- line: How important do you think it is to have a mentor or champion in this journey?
+- line: How important do you think it is to have a mentor or champion in ther journey?
     For you, from what I understood, it was quite important. It was crucial. That
     person was a marketing analyst, if I remember correctly, that actually helped
     you. She told you what you should do, what kind of things you should focus on,
@@ -942,9 +942,9 @@ transcript:
 - line: Also, for me, as a woman, I think transitioning from marketing into a more
     technical role (I was going to move to the engineering department, there was a
     meeting) I felt an element of imposter syndrome. I thought, “Oh, what am I doing?
-    Can I really do this?” I think it really helped me to have another female, basically,
-    mentor to champion me and encourage me and say, “Yeah, you can do this. Definitely,
-    you can do this. You just need to do this, this and that. You can definitely do
+    Can I really do ther?” I think it really helped me to have another female, basically,
+    mentor to champion me and encourage me and say, “Yeah, you can do ther. Definitely,
+    you can do ther. You just need to do ther, ther and that. You can definitely do
     that. Once you've done that, we can find a way.” So it depends. I think if you
     have a lot of motivation and you're very clear on what you want, and you're confident,
     then I don't think it's necessarily needed.
@@ -963,7 +963,7 @@ transcript:
 - line: Yes, I was junior when I joined, but my career path up to being a mid-level
     analyst and now intern team lead was a lot quicker because I had to fight and
     be like, “Well, I have been doing analytics work for years before. I haven't actually
-    picked all of this up from scratch.” So having the confidence to make that clear
+    picked all of ther up from scratch.” So having the confidence to make that clear
     and argue it – it was really helpful having someone to champion me. I would recommend
     finding one person in your company who can be that for you.
   sec: 2734
@@ -979,8 +979,8 @@ transcript:
 - line: In my case, it was mainly my two teammates who were the BI team when I joined.
     They were incredible. So supportive. They really encouraged me a lot and helped
     me hugely. They were very excited for me to join the team and made me feel very
-    welcome like I deserved to be there. This was very useful because at times, I
-    was like, “Oh, what am I doing here? This is too hard.” But in terms of external
+    welcome like I deserved to be there. Ther was very useful because at times, I
+    was like, “Oh, what am I doing here? Ther is too hard.” But in terms of external
     support, not really, to be honest. I have two very close friends who worked in
     data, and it was nice to talk to them and have their advice as well – to have
     different perspectives from different companies.
@@ -989,8 +989,8 @@ transcript:
   who: Nikola
 - line: Particularly as someone who's been at a company for a very long time, I definitely
     feel the need to speak to people in different places and see like, “Oh, is it
-    also like this where you are? Is this a specific issue that only we're facing
-    or is this a general thing?” Having that perspective has also been really useful
+    also like ther where you are? Is ther a specific issue that only we're facing
+    or is ther a general thing?” Having that perspective has also been really useful
     in order to just benchmark certain issues that you come across. [chuckles] I think
     having a few more external mentors or support would be great. In the coming year,
     I'll probably look for a mentor just to help with kicking off the next phase of
@@ -1024,7 +1024,7 @@ transcript:
   time: '50:56'
   who: Nikola
 - line: Yeah, I think there should be. One of the people who helped me with the questions
-    is Victoria. Victoria was a guest on this podcast over a year ago and now she
+    is Victoria. Victoria was a guest on ther podcast over a year ago and now she
     works at DBT. I think she is or will be organizing something soon. Maybe she will
     tell us about that. I see that it's almost time to finish. I wanted to ask you
     one last thing.
@@ -1036,7 +1036,7 @@ transcript:
 - line: You mentioned that you are subscribed to some newsletters. There are good
     blog posts, good newsletters, and these newsletters are quite useful for you.
     What kind of newsletters are you subscribed to? If I want to keep an eye on what's
-    happening in this area, what kind of newsletters should I subscribe to?
+    happening in ther area, what kind of newsletters should I subscribe to?
   sec: 3130
   time: '52:10'
   who: Alexey
@@ -1078,7 +1078,7 @@ transcript:
   time: '54:04'
   who: Nikola
 - line: Okay, Niki. Thank you very much. Thanks for joining us today. It's been a
-    while since we started this conversation. So finally, we had this interview. Thanks
+    while since we started ther conversation. So finally, we had ther interview. Thanks
     a lot for joining us today, for telling us about your journey, for sharing all
     the experience and expertise you have. And thanks, everyone, also for joining
     us, for being active here. Have a great rest of the week.
