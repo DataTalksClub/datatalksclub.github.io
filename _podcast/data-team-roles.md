@@ -30,6 +30,301 @@ dateadded: 2021-02-23
 
 
 keywords: data team roles, data scientist, data engineer, machine learning engineer, data analyst, MLOps engineer, product manager, data team structure, data science roles, ML engineer vs data engineer, data team responsibilities, data science career
+00:00
+Alexey
+Thank you for joining. I will start with the introduction, and maybe more people will join by the time I finish. Thank you very much for coming to this meeting. This is an experimental event.
+
+0:09
+Alexey
+This is the first time I am doing anything like that, and we will see how it goes. The idea is to have something without slides, to have a conversation. The topic for today is the roles in a data science team, or more broadly in a data team. We will talk about what kinds of roles exist and what responsibilities they have.
+
+0:34
+Alexey
+For those who are not part of our DataTalks Club yet or who are not in Slack, you can join our Slack using the link join.datatalks.com. For questions today we will use Slido. To make it more interactive, we will experiment during the first session and see if Slido makes sense or if a discussion format works better.
+
+1:14
+Alexey
+I will stop sharing my screen because the idea for this session is to talk without slides. The plan is to record this session and release it as a podcast so people can listen while on the go without needing visuals. Let me share the link to the slides. If you have any questions during the talk, please use Slido to ask them.
+
+1:56
+Alexey
+Let me start by quickly looking at my notes. The topic today is the roles in a data team. We want to understand what kinds of people work in a data team, what responsibilities they have, what they do, what they need to know, and what they do not need to know.
+
+2:25
+Alexey
+Maybe first a few words about myself. I work as a lead data scientist, which means my views might be biased toward the perspective of a data scientist. This is how a data scientist sees other people in the team. I might not be right in all aspects, so if you think I am wrong somewhere, please tell me.
+
+3:12
+Alexey
+My view of data engineers might be simplified because I do not see all the complexities of their work as a data scientist. Let us begin. In a data team there are many different roles. First, we have a product manager.
+
+3:38
+Alexey
+A product manager is responsible for the product and for making sure the team is building the right thing. This role is usually less technical than the others. Then we have data specialists such as data analysts, data scientists, data engineers, and machine learning engineers. There is also a newer role called MLOps engineer.
+
+4:08
+Alexey
+It is often difficult to understand who is who and who needs to do what. This is why we have this conversation today. In addition to these roles, there are more traditional engineering roles such as backend engineers, mobile engineers, and scientific engineers. All these people often work together with data scientists to create data science products.
+
+4:45
+Alexey
+Let us start with core responsibilities. We will use an example. I work at OLX Group. OLX is a platform for online classifieds. It is a place where you can sell things you do not need.
+
+4:58
+Alexey
+If you have an iPhone you want to sell, you go to the website, create a listing, and sell your iPhone. If you want to buy something, you go to OLX, browse advertisements, find what you like, and buy it. Now imagine we want to automatically detect the category of an item.
+
+5:30
+Alexey
+If I am selling an iPhone and creating a listing, we want to understand that the iPhone should go into the mobile phones category. This is the example problem we will use for illustration. Let us start with the product manager.
+
+5:47
+Alexey
+The main responsibility of a product manager is to make sure the team is building the right thing. They ensure that whatever service we create will be used by the user. Often teams solve problems, but the resulting services are not used, which is a common issue.
+
+6:13
+Alexey
+The product manager exists to keep the team close to the user. They speak on behalf of the user. Their main skills are communication skills. For a data scientist communication might be a soft skill, but for a product manager it is a core professional skill.
+
+6:44
+Alexey
+They also need to do prioritization and planning to decide what is important and what the team should focus on. Let us return to our example. If someone requests a feature for automatic listing categorization, the request first goes to a product manager.
+
+7:23
+Alexey
+The product manager acts as a gateway for such requests. Their task is to determine whether users really need this feature and whether it is an important problem to solve. They often work with data analysts to evaluate if the problem is meaningful.
+
+7:51
+Alexey
+The role of a data analyst is to understand the data and explain it to others. Analysts know what data exists in the company, how to retrieve it, and how to interpret it. They build dashboards and define KPIs.
+
+8:24
+Alexey
+They track important business metrics such as profit, number of listings, or how many contacts buyers make with sellers. Analysts build reports for the executive team and provide actionable recommendations. Their main tools are SQL, a programming language such as Python or R, and dashboard tools like Tableau.
+
+9:11
+Alexey
+They should know basic statistics for running experiments and some machine learning, such as regression analysis or time series forecasting. In our example, data analysts help quantify the problem for the product manager. They can determine how many users are affected by incorrect categorization.
+
+9:54
+Alexey
+They can check how many users fail to finish creating a listing because they cannot select the right category. They can also check how many listings end up with the wrong category. Analysts fetch the data and confirm whether the problem is significant.
+
+10:21
+Alexey
+Together with the product manager they decide if the problem is worth solving. If the answer is yes, the team begins working on the solution. Data analysts also help evaluate whether the resulting feature actually works.
+
+10:39
+Alexey
+If we develop the categorization model, we want to know if it is effective. We usually run an experiment such as an A/B test. We check if fewer users drop out of the posting flow or if fewer ads end up in the wrong category.
+
+11:17
+Alexey
+The analyst evaluates the experiment results and determines whether the model helps compared to not using a model. Now let us talk about data scientists. Data scientists and data analysts sometimes have similar roles.
+
+11:42
+Alexey
+In some companies one person does both jobs. Typically, data analysts focus on explaining what is happening in the data, while data scientists focus on predicting. Analysts fetch and interpret data, while data scientists build machine learning models.
+
+12:10
+Alexey
+They integrate these models into products. Their focus is more on engineering. In my opinion this is the main difference. Data scientists often work on incorporating predictive services into the product users interact with.
+
+12:45
+Alexey
+Their key skills are machine learning, Python, and SQL. They also use tools like Flask and Docker to build simple web services for serving models. In our example, the data scientist develops the model that predicts the item category.
+
+13:23
+Alexey
+Once they have the model, they create a simple service to host it. Now let us talk about data engineers. Data engineers handle all the heavy lifting surrounding data. For analysts and data scientists to use data, a lot of preparation is needed.
+
+13:58
+Alexey
+Data engineers ensure all necessary data appears in a usable form. They make sure accessing this data does not affect the main product. They build what is often called a data lake where all user-generated data is captured and stored separately.
+
+14:32
+Alexey
+Analysts can query this data, and data scientists can train models on it. Data engineers ensure analytical queries run smoothly. In larger companies they also handle access control so only authorized people can view sensitive data.
+
+15:12
+Alexey
+They must prevent unauthorized access to personal data unless there is a valid business reason. Their skills typically include cloud platforms like AWS or Google Cloud, infrastructure tools like Kubernetes and Terraform, and data services like Kafka or RabbitMQ.
+
+15:50
+Alexey
+These tools capture, process, and store data. Databases are where the data ends up so that others can use it.
+
+16:04
+Alexey
+The data must be accessible for data analysts, and it must be available in a clean form. Data engineers also use orchestration tools such as Airflow to build complex data pipelines. In our example of creating a service for predicting the correct category for a listing, they ensure all required data is available. They make sure the data needed for analysis is present, so we can quantify the problem. They also ensure that the listing data required for prediction is stored properly.
+
+16:56
+Alexey
+This is their main responsibility, but they are not the only type of engineers in the data team. There are other important engineering roles as well.
+
+17:04
+Alexey
+One of them is the machine learning engineer. A machine learning engineer takes what the data scientist built and scales it. They make sure the service is maintainable and follows best engineering practices. Their focus is more on engineering than on modeling.
+
+17:40
+Alexey
+When I say they take what the data scientist built, I do not mean the data scientist simply finishes the model and hands it over. Instead, they work side by side. Together they ensure the service is scalable, maintainable, and follows proper engineering principles. The collaboration continues until the system is ready for production use.
+
+18:07
+Alexey
+Their skills are similar to those of data engineers. They use cloud platforms, infrastructure tools like Kubernetes and Terraform, and programming languages such as Python. They often work closely with backend engineers, frontend engineers, or mobile engineers. This helps ensure the models are integrated into the final product that users interact with.
+
+18:38
+Alexey
+Does somebody have a question? I thought I heard some noise. I will continue.
+
+18:52
+Alexey
+In our example of predicting listing categories, machine learning engineers ideally work with data scientists to productionize the model. They make sure the model is stable under load. They ensure that once the system is rolled out, it remains maintainable. They also prepare it so future changes can be added when needed.
+
+19:26
+Alexey
+Another important type of engineer in a data team is the DevOps engineer or site reliability engineer. Their focus is on availability and reliability of services. They do not work strictly with data but instead concentrate on infrastructure. They handle networking, provisioning, and the servers where the services run.
+
+20:04
+Alexey
+They collect operational metrics such as CPU usage and request rates. They set up alerts and manage on call duties. Their goal is to ensure services run continuously without interruptions. If something breaks, site reliability engineers quickly diagnose the issue. They fix it themselves or involve other engineers when needed.
+
+20:54
+Alexey
+Their skills are similar to those of other engineers, so they must know cloud platforms and infrastructure tools. They use programming languages such as Python, but they also need deep knowledge of Unix or Linux. They must understand networking well. They follow best DevOps practices such as automation and continuous integration and delivery. Machine learning engineers and data engineers also follow these practices, but DevOps engineers focus on enforcing them.
+
+21:34
+Alexey
+You might have heard of an MLOps engineer. This has become a recent trend. In my opinion, even though people may disagree, an MLOps engineer is essentially a DevOps engineer who understands the basics of machine learning. They know what a model is, how probabilities work, and the phases of the machine learning lifecycle. They still focus mainly on operational support.
+
+22:20
+Alexey
+They continue to follow all DevOps practices. They ensure everyone else follows them. They set up continuous integration and continuous delivery pipelines. Their responsibility is to keep the services developed by data scientists, machine learning engineers, and data engineers running reliably.
+
+22:51
+Alexey
+This was the overview of the main roles. To summarize, the product manager ensures the team builds the right thing and acts as the gateway for incoming requests. They stay close to the user. Data analysts are responsible for understanding and analyzing data, interpreting results, and building dashboards.
+
+23:29
+Alexey
+Data scientists build models and integrate them into the product. Data engineers prepare the data for analysts and data scientists. Machine learning engineers help scale machine learning services and establish strong engineering practices. Site reliability engineers focus on availability, reliability, and DevOps practices, ensuring everything stays up and running.
+
+24:17
+Alexey
+I received a question from Ankush in Slack about how data engineers can support others. I think I covered most of it earlier, but I want to make it more concrete. The best way for data engineers to support others is by working together as one team on the same problem. Even though the focus differs, working on the same goal improves collaboration.
+
+24:55
+Alexey
+If we are building a service that predicts categories correctly, everyone works together. Data engineers ensure the data needed for analysis and model training is available. If something is missing, they take care of making it accessible. They allow other team members to focus on modeling or analysis without worrying about data collection.
+
+25:27
+Alexey
+Sometimes models do not operate online. They are not web services running continuously. Instead, they run offline on a schedule, such as once per hour or once per day. In these situations we do not need a web service for serving predictions. An example is finding users who might be interested in particular listings.
+
+26:05
+Alexey
+We identify users who are most likely to react positively to specific advertisements. We usually do not need to do this in real time, so running it once per day is enough. We run the model, score all users, and identify the ones most likely to be interested. Then we send emails to them with the recommendations.
+
+26:59
+Alexey
+This is called batch serving because it happens periodically. In this case, the data engineer helps the data scientist execute the model on a schedule. They help ensure the model receives the correct input data. They also help store the output in a form that other services can use.
+
+27:52
+Alexey
+Let me check whether we have any questions. My Slido window disappeared for a moment.
+
+28:46
+Alexey
+The first question is about the difference between a machine learning engineer and a data engineer when scaling data science models. I partially answered this earlier. In my opinion and based on trends I see in companies, machine learning engineers mostly work on online systems. If a model must be served online, they handle that.
+
+29:25
+Alexey
+When something is offline and runs once per day, that is usually handled by data engineers. However, data engineers also work with tools like Kafka, which are real time. This makes the distinction less clear. In some companies there is no difference at all.
+
+30:01
+Alexey
+One way to separate the roles is to say that data engineers prepare data before model development. Machine learning engineers work with the model after it is developed. This separation is not strict, because the teams collaborate closely during all steps.
+
+30:48
+Alexey
+Another question is whether the team should have a business analyst between the product manager and the data team. Yes, I think this is a good idea. A business analyst can greatly help.
+
+31:13
+Alexey
+What they call an analyst varies. Sometimes roles differ between product analysts, data analysts, and business analysts. Sometimes it is the same role, so it can be difficult to draw a clear line. They are similar in that they help the product manager quantify the size of a problem. They also help understand whether this problem is worth solving.
+
+31:13
+Alexey
+In some teams there is no product manager and only a business analyst. This person translates the user requirements to the team. That approach can also work.
+
+32:06
+Alexey
+What communication or soft skills are required in different positions? The main soft skill is communication in my opinion. Everyone should be able to talk to each other and understand each other. Product managers are less technical, data engineers and machine learning engineers are more technical, and site reliability engineers focus even more on technical Unix skills.
+
+32:06
+Alexey
+Everyone in the team needs to speak the same language. When a data scientist describes a machine learning problem, they must ensure the team understands what they mean. Instead of going deep into details like gradients exploding, they should explain the problem in a way that is clear to others. Using metaphors can help.
+
+32:06
+Alexey
+For analysts, writing documentation is important. Documentation for engineers is usually intended for other engineers, but analysts often write for management. They need to write in a way that helps executives understand the problem and the proposed solution. This includes reports and summaries.
+
+34:35
+Alexey
+What roles depend on the size of the team? For example, would you see a machine learning engineer in a small team or only later in development? It depends on the company. There was a trend when companies believed they could hire one data scientist who would solve all problems.
+
+34:35
+Alexey
+This was not true because they later realized they needed data engineers, machine learning engineers, and analysts. In a small company, a data engineer who knows some machine learning can be enough. It could also be a machine learning engineer who knows how to set up data pipelines. Ideally, it is someone who can do things end-to-end.
+
+34:35
+Alexey
+A machine learning engineer could be such a person if they know how to build pipelines, train a model, and serve it. This person can bring value early by solving business problems with simple models. After showing value, the team can grow by adding data engineers and data scientists. There is no right or wrong answer because it depends on what the company wants to achieve.
+
+37:26
+Alexey
+Do data engineers work on big data? If the data is small, the definition of big data becomes unclear. But if a system processes a few million or even one hundred million events per day, that qualifies as big data. In that case, you need a dedicated person focused on processing this data. A data scientist alone cannot handle that volume.
+
+37:26
+Alexey
+A data engineer will ensure the data can be processed, stored in the right format, and accessed by others. If the company is small and does not generate heavy data loads, even a data scientist without a strong engineering background can build the first prototype.
+
+38:52
+Alexey
+Is there a needed separation between full stack machine learning developers, backend full stack data science model deployment, and frontend full stack developers? To rephrase the question: do we need different kinds of full stack engineers? We have full stack data scientists who can do things end-to-end, and full stack web engineers who can develop web applications.
+
+38:52
+Alexey
+The nature of the work is different. A full stack web engineer focuses on creating applications that users interact with. This process differs from data science. Full stack data scientists focus more on data science and backend work.
+
+38:52
+Alexey
+I do not see a strong connection between these roles, but early stage startups might have one person doing everything. This includes setting up the website, collecting data, training the model, and configuring routers. As the company grows, roles separate. Larger companies eventually have all the roles we discussed.
+
+41:30
+Alexey
+If a small team has no machine learning ops or devops engineer, who performs the task? In my opinion, it would be an engineer already in the team. If the company has a backend engineer, that person can be trained to understand the basics of machine learning. They can then perform the required tasks.
+
+41:30
+Alexey
+At some point the company will need to hire or grow someone into this role. If someone wants to add something or clarify a question, they can.
+
+42:18
+Alexey
+It would be good to put together a roles and responsibilities matrix when making this available online. I already have notes from today and will share them. It is possible to put the information into a matrix format. We can do that after the meeting.
+
+42:18
+Alexey
+Thank you. I do not know how it went. To me it was fun, but maybe it was too much talking and not many slides. I would like to hear your opinion about this event. We may do something similar next week.
+
+42:18
+Alexey
+I am not sure if I should include slides next time. Please share your thoughts in Slack or now if you want.
+
+43:24
+Alexey
+We are wrapping up for today. Thank you for attending the session. I look forward to seeing you next week. On Tuesday we have a talk about duplicate detection with Siamese networks. On Friday we will talk about processes similar to today. Talk to you soon. Goodbye.
 ---
 
 The topic today is the roles in data teams. We want to understand what kind of people work in the data team, what responsibilities they have, what they do, and what they need to know.
