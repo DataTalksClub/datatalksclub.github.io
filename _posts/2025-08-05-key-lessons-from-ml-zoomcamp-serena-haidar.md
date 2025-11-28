@@ -1,6 +1,9 @@
 ---
-authors: [serenahaidar, valeriiakuka]
-description: 'What you learn in ML Zoomcamp, a free ML engineering course: graduate Serena Haidar on study rhythm, obstacles, and refining a deployment-focused workflow.'
+authors:
+- serenahaidar
+- valeriiakuka
+description: 'What you learn in ML Zoomcamp, a free ML engineering course: graduate
+  Serena Haidar on study rhythm, obstacles, and refining a deployment-focused workflow.'
 image: images/posts/2025-08-05-key-lessons-from-ml-zoomcamp-serena-haidar/cover.jpg
 layout: post
 subtitle: 'Interview with ML Zoomcamp grad Serena Haidar: practical lessons, getting
@@ -9,6 +12,8 @@ tags:
 - course
 - ml-zoomcamp
 title: 'Key Lessons from ML Zoomcamp: Serena Haidar'
+datepublished: '2025-08-05'
+date: '2025-08-05'
 ---
 
 In our previous article, we profiled [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) graduate Serena Haidar’s [end-to-end waste-classifier capstone](https://datatalks.club/blog/how-to-build-waste-classifier-case-study-from-ml-zoomcamp.html). In this follow-up, Serena shares the lessons that mattered most—study cadence, how to get unstuck, and how the program shaped her approach to ML engineering.

@@ -1,0 +1,103 @@
+- question: "What is the MLOps Zoomcamp?"
+  answer: |
+    The MLOps Zoomcamp is a free, community-driven program by [DataTalks.Club](/) that teaches core MLOps skills through hands-on project work.
+    
+    This 3-month course covers a comprehensive [curriculum](#course-curriculum) with all materials open and available anytime on [GitHub](https://github.com/DataTalksClub/mlops-zoomcamp). You'll work with an industry-standard stack including MLflow, Docker, AWS, Prometheus, Grafana, Mage, and GitHub Actions and earn a [certificate](#can-i-get-a-certificate).
+
+- question: "What does zoomcamp mean?"
+  answer: |
+    "Zoomcamp" is a term that originated from [Alexey Grigorev](/people/alexeygrigorev.html), the founder of DataTalks.Club. It started with his book "ML Bookcamp." When Alexey decided to create a video course based on the book, he called it "[Machine Learning Zoomcamp](/blog/machine-learning-zoomcamp.html)" - a free, cohort-based course in video format. The name "zoomcamp" is a play on "bookcamp," referring to the video format of the course. The Zoomcamp series has since expanded to include other free courses like the [Data Engineering Zoomcamp](/blog/data-engineering-zoomcamp.html), [MLOps Zoomcamp](/blog/mlops-zoomcamp.html), and [LLM Zoomcamp](/blog/llm-zoomcamp.html), all following the same community-driven, open-source philosophy.
+
+- question: "Is it really free?"
+  answer: |
+    Yes, the MLOps Zoomcamp is completely free. There are no hidden costs, no tuition fees, and no paid tiers. All course materials, videos, homework assignments, and access to the [community](#what-is-the-datatalksclub-mlops-community) are provided at no cost. Unlike traditional bootcamps that charge $10,000-$20,000+, this course is entirely community-driven and open source.
+
+- question: "How does the MLOps Zoomcamp compare to traditional MLOps bootcamps?"
+  answer: |
+    The MLOps Zoomcamp differs from traditional MLOps bootcamps in several key ways:
+
+    1. **Cost**: Completely free vs. $10,000-$20,000+ for bootcamps
+    2. **Community**: Community-driven and open source with all materials available forever on GitHub vs. content locked behind paywalls
+    3. **Flexibility**: Can continue at your own pace after the cohort ends vs. rigid schedules and limited access periods
+
+- question: "How does the MLOps Zoomcamp certificate work?"
+  answer: |
+    To earn a [certificate](#can-i-get-a-certificate), you need to complete one [end-to-end MLOps project](#project-phase) that demonstrates your mastery of all course concepts. After submitting your project, you must also review at least 3 other students' projects by the deadline and provide constructive feedback.
+
+- question: "When does the next cohort of the MLOps Zoomcamp start?"
+  answer: |
+    The next cohort of the MLOps Zoomcamp typically starts in the spring each year. Register here: [https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL](https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL) before the course starts.
+
+- question: "Who runs the MLOps Zoomcamp?"
+  answer: |
+    The MLOps Zoomcamp is run by [DataTalks.Club](/), a global online community of data professionals and learners. While the initial idea and most of the content were created by [Alexey Grigorev](/people/alexeygrigorev.html), members of the DataTalks.Club community contribute as instructors and maintainers. Expert instructors include Cristian Martinez, Emeli Dral, and others.
+
+    DataTalks.Club is often referred to as "the DataTalks Club", "data talks club", or "datatalks club".
+
+- question: "What background knowledge do I need to take the MLOps Zoomcamp? Course prerequisites."
+  answer: |
+    To get the most out of this MLOps course, you should have prior programming experience (1+ year), basic understanding of machine learning concepts, familiarity with Python, basic command line knowledge, and previous exposure to Docker (recommended). Prior exposure to machine learning from work or other courses (e.g., from [ML Zoomcamp](/blog/machine-learning-zoomcamp.html)) is helpful.
+
+- question: "How much time should I expect to spend?"
+  answer: |
+    Expect to spend 5-15 hours per week, depending on your background. This includes watching videos, completing homework, and working on [the final project](#project-phase). More time may be needed during the final project weeks.
+
+- question: "Can I take the course in self-paced mode?"
+  answer: |
+    Yes! All course materials, videos, and recordings remain available after the cohort ends, and you can learn at your own pace. You'll have access to the [Slack community](/slack.html) for support. However, self-paced learning does not include homework submissions, project evaluations, or the ability to earn a [certificate](#can-i-get-a-certificate). To receive a certificate, you need to join an active cohort.
+
+- question: "What if I get stuck?"
+  answer: |
+    You have multiple support channels available. Join the [DataTalks.Club Slack community](/slack.html) where you can ask questions and get help from instructors and fellow students. We also have an [FAQ repository](https://github.com/DataTalksClub/faq) with answers to common questions and a @ZoomcampQABot in Slack for quick help.
+
+- question: "Where is the official MLOps Zoomcamp GitHub repository?"
+  answer: |
+    The GitHub repository is [https://github.com/DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp).
+
+- question: "Where can I find the course videos?"
+  answer: |
+    Course videos are available in the [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR). For easier navigation, refer to the [GitHub repository](https://github.com/DataTalksClub/mlops-zoomcamp). We also maintain [year-specific playlists](https://www.youtube.com/@DataTalksClub/playlists) for updates.
+
+- question: "How do I join the office hours or live sessions?"
+  answer: |
+    There are no office hours—all lectures are pre-recorded and available in the [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR), so you can watch them whenever it suits you.
+
+    All course materials are in the [GitHub repository](https://github.com/DataTalksClub/mlops-zoomcamp). Each module has its own folder (for example, 01-intro or 03-classification), while cohort-specific homework and deadlines are located in cohorts/2025.
+
+    Occasionally, additional workshops or updated implementation videos are released—there will be additional announcements if this happens.
+
+- question: "How many projects do I need to complete for the certificate?"
+  answer: |
+    You need to complete one end-to-end MLOps project to earn a certificate. The project is a comprehensive MLOps solution that demonstrates your mastery of all course concepts including experiment tracking, pipeline orchestration, model deployment, and monitoring. After submitting your project, you'll also need to review at least 3 other students' projects. [Learn more about the final project](#project-phase) and [certificate requirements](#can-i-get-a-certificate).
+
+- question: "What is MLOps and why should I learn it?"
+  answer: |
+    MLOps (Machine Learning Operations) is a set of practices that combines Machine Learning, DevOps, and Data Engineering. It enables automating ML pipelines, deploying models to production, monitoring model performance, and ensuring ML system reliability. Learning MLOps is essential for anyone working with machine learning in production environments.
+
+- question: "What tools and technologies will I learn?"
+  answer: |
+    The course covers essential MLOps tools and platforms including MLflow for experiment tracking, Docker for containerization, AWS services (including Kinesis), Prometheus and Grafana for monitoring, Mage for ML pipeline orchestration, and GitHub Actions for CI/CD.
+
+- question: "How does MLOps experiment tracking work in this course?"
+  answer: |
+    MLOps experiment tracking is a core component of the course. You'll learn to use MLflow for comprehensive experiment tracking, including tracking model parameters, metrics, and artifacts. The course covers implementing model registry and versioning, organizing ML experiments effectively, and comparing experiment results. This hands-on training ensures you can manage and reproduce ML experiments in production environments.
+
+- question: "Does this course provide MLflow certification?"
+  answer: |
+    While this course does not provide an official MLflow certification from the MLflow creators, you'll receive comprehensive MLflow training as part of the MLOps Zoomcamp. The course includes in-depth coverage of MLflow for experiment tracking, model registry, and versioning. Upon completing the course with a live cohort, you'll earn a DataTalks.Club MLOps Zoomcamp certificate that demonstrates your proficiency with MLflow and other MLOps tools. This practical training is more valuable than a standalone certification as it's integrated into a complete production ML workflow.
+
+- question: "What is the DataTalks.Club MLOps community?"
+  answer: |
+    The DataTalks.Club MLOps community is a supportive network of 80,000+ data professionals and learners. As part of the MLOps Zoomcamp, you'll have access to a dedicated course channel in [Slack](/slack.html) where you can ask questions, get help from instructors and peers, share your progress, and connect with like-minded individuals. The community provides technical support, peer learning opportunities, and networking that can lead to collaborations and career opportunities. This active community is one of the key differentiators of the MLOps Zoomcamp experience.
+
+- question: "What MLOps training does this course provide?"
+  answer: |
+    This comprehensive training covers the complete machine learning operations lifecycle. You'll receive hands-on training in experiment tracking with MLflow, containerization with Docker, ML pipeline orchestration with Mage, model deployment (batch, real-time, and streaming), monitoring with Prometheus and Grafana, and CI/CD with GitHub Actions. The course includes 6 core technical modules, weekly homework assignments, and a final end-to-end project. This practical training prepares you for real-world production ML systems and is taught by expert instructors including Cristian Martinez, Alexey Grigorev, and Emeli Dral.
+
+- question: "Is this a free MLOps course with certificate?"
+  answer: |
+    Yes! This is a completely free MLOps course, with a certificate available when you complete the course with a live cohort. There are no hidden costs or tuition fees. To earn your certificate, you'll need to complete the technical modules, build one end-to-end MLOps project, participate in peer reviews, and follow MLOps best practices. This free course provides the same quality training as paid bootcamps but at no cost. Certificates, homework submissions, and project evaluations are only available when participating in a live cohort, not in self-paced mode.
+
+- question: "Can I get a certificate?"
+  answer: |
+    Yes, certificates are available when completing the course with a live cohort. Requirements include completing the technical modules, building one final end-to-end MLOps project, participating in peer reviews, and following MLOps best practices. Note that certificates, homework submissions, and project evaluations are not available in self-paced mode.

@@ -8,6 +8,8 @@ subtitle: But almost identical to a less known profession
 tags:
 - data-engineering
 title: Data Engineers Aren't Plumbers
+datepublished: '2022-09-02'
+date: '2022-09-02'
 ---
 
 <figure>

@@ -9,6 +9,8 @@ tags:
 - speaking
 - careers
 title: The Essentials of Public Speaking for a Career in Data Science
+datepublished: '2022-07-31'
+date: '2022-07-31'
 ---
 
 <figure>

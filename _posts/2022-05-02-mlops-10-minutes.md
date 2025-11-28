@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "MLOps in 10 Minutes: Design, Train, and Operate with Proven Practices"
-subtitle: "Fast, practical overview of experiment tracking, pipelines, deployment, and monitoring"
-description: "MLOps essentials: Learn to streamline design, training, and operations with experiment tracking, pipelines, deployment, and monitoring. Get started today."
-image: "images/posts/2022-05-02-mlops-10-minutes/cover.jpg"
-authors: [alexeygrigorev]
-tags: [mlops, team, process]
+title: 'MLOps in 10 Minutes: Design, Train, and Operate with Proven Practices'
+subtitle: Fast, practical overview of experiment tracking, pipelines, deployment,
+  and monitoring
+description: 'MLOps essentials: Learn to streamline design, training, and operations
+  with experiment tracking, pipelines, deployment, and monitoring. Get started today.'
+image: images/posts/2022-05-02-mlops-10-minutes/cover.jpg
+authors:
+- alexeygrigorev
+tags:
+- mlops
+- team
+- process
+datepublished: '2022-05-02'
+date: '2022-05-02'
 ---
 
 <figure>

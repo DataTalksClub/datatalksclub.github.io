@@ -10,6 +10,8 @@ tags:
 - docker
 - data-engineering
 title: How to Setup a Lightweight Local Version for Airflow
+datepublished: '2022-09-17'
+date: '2022-09-17'
 ---
 
 <figure>

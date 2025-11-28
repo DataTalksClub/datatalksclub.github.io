@@ -9,6 +9,8 @@ tags:
 - competition
 - llm
 title: Winning Solutions from the LLM Zoomcamp 2024 Competition
+datepublished: '2024-10-21'
+date: '2024-10-21'
 ---
 
 In October 2024, we announced the winners of the [LLM Zoomcamp 2024 Competition](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition/overview){:target="_blank"}, where participants tackled high school math problems using large language models (LLMs). This challenge was part of our [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp){:target="_blank"}, a free course focused on real-world LLM applications.

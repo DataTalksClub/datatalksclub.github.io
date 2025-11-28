@@ -12,6 +12,8 @@ tags:
 - kaggle
 title: 'A Summary Of The Kaggle Kitchenware Classification Competition: Find Out Who
   Won!'
+datepublished: '2023-02-21'
+date: '2023-02-21'
 ---
 
 <figure>

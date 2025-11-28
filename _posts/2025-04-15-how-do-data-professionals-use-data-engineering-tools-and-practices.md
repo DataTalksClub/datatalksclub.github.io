@@ -1,7 +1,9 @@
 ---
 authors:
 - valeriiakuka
-description: "2024 Data Engineering Survey: 200+ professionals share insights on BigQuery vs Snowflake, Apache Airflow dominance (48%), dbt adoption (33%), and data governance gaps. Complete analysis of storage, orchestration, and cloud platform trends."
+description: '2024 Data Engineering Survey: 200+ professionals share insights on BigQuery
+  vs Snowflake, Apache Airflow dominance (48%), dbt adoption (33%), and data governance
+  gaps. Complete analysis of storage, orchestration, and cloud platform trends.'
 image: images/posts/2025-04-15-how-do-data-professionals-use-data-engineering-tools-and-practices/cover.jpg
 layout: post
 subtitle: Results of our DataTalks.Club Survey
@@ -11,6 +13,8 @@ tags:
 - '2024'
 title: How Do Professionals Use Data Engineering Tools and Practices?
 charts: true
+datepublished: '2025-04-15'
+date: '2025-04-15'
 ---
 
 We [surveyed](https://docs.google.com/forms/d/e/1FAIpQLScdx1FAIp2GDGgiMf7xu-I1PfhsQBJDvFstGmWmWbpP4S69Zg/viewform){:target="_blank"} over 200 data professionals involved in data engineering tasks to understand which tools, platforms, and methodologies they rely on.

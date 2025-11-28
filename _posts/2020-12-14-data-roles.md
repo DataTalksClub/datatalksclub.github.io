@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "Data Team Roles Explained — Alexey Grigorev (OLX) on Skills and Responsibilities"
-subtitle: "Essential guide to PM, Data Analyst, Data Scientist, Data Engineer, ML Engineer, and MLOps/SRE: skills, responsibilities, and how teams ship ML products"
-description: "Data team roles and responsibilities explained. Learn skills, workflows, and collaboration across PM, analysts, scientists, engineers, MLE/SRE. Discover proven tips."
-image: "images/posts/2020-12-14-data-roles/cover.jpg"
-authors: [alexeygrigorev]
-tags: [team, process, podcast]
+title: Data Team Roles Explained — Alexey Grigorev (OLX) on Skills and Responsibilities
+subtitle: 'Essential guide to PM, Data Analyst, Data Scientist, Data Engineer, ML
+  Engineer, and MLOps/SRE: skills, responsibilities, and how teams ship ML products'
+description: Data team roles and responsibilities explained. Learn skills, workflows,
+  and collaboration across PM, analysts, scientists, engineers, MLE/SRE. Discover
+  proven tips.
+image: images/posts/2020-12-14-data-roles/cover.jpg
+authors:
+- alexeygrigorev
+tags:
+- team
+- process
+- podcast
 date: 2025-08-05
+datepublished: '2020-12-14'
 ---
 
 In this article, we'll talk about different roles in a data team and discuss their responsibilities.

@@ -1,11 +1,19 @@
 ---
 layout: post
-title: "Python CI/CD with GitHub Actions: Pre-commit, Linters, and Pytest Guide"
-subtitle: "Step-by-step workflow to secure branches, automate linting, and run tests using GitHub Actions, pre-commit, black/isort/flake8/mypy, and pytest."
-description: "Python CI/CD with GitHub Actions: Discover branch protection, pre-commit, black, isort, flake8, mypy, and pytest to enforce essential, tested code—start now."
-image: "images/posts/2020-12-07-practical-guide-better-code/cover.jpg"
-authors: [olegpolivin]
-tags: [github, python, cicd]
+title: 'Python CI/CD with GitHub Actions: Pre-commit, Linters, and Pytest Guide'
+subtitle: Step-by-step workflow to secure branches, automate linting, and run tests
+  using GitHub Actions, pre-commit, black/isort/flake8/mypy, and pytest.
+description: 'Python CI/CD with GitHub Actions: Discover branch protection, pre-commit,
+  black, isort, flake8, mypy, and pytest to enforce essential, tested code—start now.'
+image: images/posts/2020-12-07-practical-guide-better-code/cover.jpg
+authors:
+- olegpolivin
+tags:
+- github
+- python
+- cicd
+datepublished: '2020-12-07'
+date: '2020-12-07'
 ---
 
 

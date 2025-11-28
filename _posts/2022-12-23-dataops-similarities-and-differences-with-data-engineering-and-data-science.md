@@ -9,6 +9,8 @@ tags:
 - dataops
 - data-engineering
 title: 'DataOps: Similarities and Differences with Data Engineering and Data Science'
+datepublished: '2022-12-23'
+date: '2022-12-23'
 ---
 
 <figure>

@@ -10,6 +10,8 @@ tags:
 - python
 - clean-code
 title: Naming Variables in Machine Learning
+datepublished: '2022-10-02'
+date: '2022-10-02'
 ---
 
 For a long time there has been a significant discrepancy in coding style between software engineers and data scientists. The first have been following established practice of good code writing, and the last… have just been writing some code. It worked well for us, data scientists, for quite some time. But then our projects became more complex, the code grew larger. Eventually, we faced the same complications in understanding our own code, as software engineers faced a long time ago.

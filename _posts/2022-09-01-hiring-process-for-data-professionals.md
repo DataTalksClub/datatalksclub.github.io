@@ -9,6 +9,8 @@ tags:
 - career
 - interviews
 title: The Hiring Process for Data Professionals
+datepublished: '2022-09-01'
+date: '2022-09-01'
 ---
 
 <figure>

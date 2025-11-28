@@ -11,6 +11,8 @@ tags:
 - '2024'
 - test
 title: How Do Data Professionals Use Data Engineering Tools and Practices?
+datepublished: '2025-04-29'
+date: '2025-04-29'
 ---
 
 We [surveyed](https://docs.google.com/forms/d/e/1FAIpQLScdx1FAIp2GDGgiMf7xu-I1PfhsQBJDvFstGmWmWbpP4S69Zg/viewform){:target="_blank"} over 200 data professionals involved in data engineering tasks to understand which tools, platforms, and methodologies they rely on.

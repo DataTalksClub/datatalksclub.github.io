@@ -1,13 +1,20 @@
 ---
-authors: [alexanderdanielrios, valeriiakuka]
-description: Learn what you can build after ML Zoomcamp based on a real project from one of the graduates
+authors:
+- alexanderdanielrios
+- valeriiakuka
+description: Learn what you can build after ML Zoomcamp based on a real project from
+  one of the graduates
 image: images/posts/2025-08-11-tab-1-how-to-build-blood-cell-classifier-for-cancer-prediction-case-study-from-ml-zoomcamp/cover.jpg
 layout: post
-subtitle: Learn what you can build after ML Zoomcamp based on a real project from one of the graduates
+subtitle: Learn what you can build after ML Zoomcamp based on a real project from
+  one of the graduates
 tags:
 - ml-zoomcamp
 - course
-title: "How to Build a Blood Cell Classifier for Cancer Prediction: A Case Study from ML Zoomcamp"
+title: 'How to Build a Blood Cell Classifier for Cancer Prediction: A Case Study from
+  ML Zoomcamp'
+datepublished: '2025-08-11'
+date: '2025-08-11'
 ---
 
 In one of our previous articles, we covered the [waste classifier](https://datatalks.club/blog/how-to-build-waste-classifier-case-study-from-ml-zoomcamp.html) built by [ML Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) graduate Serena Haidar. This time, another graduate, Alexander Daniel Rios, walks through his final project: an end-to-end tool that segments and classifies blood cells from microscope images to assist in detecting signs of acute lymphoblastic leukemia (ALL).

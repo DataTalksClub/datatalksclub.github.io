@@ -1,16 +1,20 @@
 ---
 authors:
 - angelicaloduca
-description: 'Learn how to build a successful data science team from scratch. Complete guide covering hiring data scientists, ML engineers, data engineers, specialists vs generalists, and project selection strategies.'
+description: Learn how to build a successful data science team from scratch. Complete
+  guide covering hiring data scientists, ML engineers, data engineers, specialists
+  vs generalists, and project selection strategies.
 image: images/posts/2022-07-12-building-data-science-team/cover.jpg
 layout: post
-subtitle: 'Complete guide to hiring data scientists, ML engineers, and data engineers. Learn who to hire first, specialists vs generalists, and how to pick the right projects.'
+subtitle: Complete guide to hiring data scientists, ML engineers, and data engineers.
+  Learn who to hire first, specialists vs generalists, and how to pick the right projects.
 tags:
 - data-teams
 - management
 - data-science
 title: 'How to Build a Data Science Team from Scratch: Complete Hiring Guide'
 date: 2025-08-10
+datepublished: '2022-07-12'
 ---
 
 <figure>

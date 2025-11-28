@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "Deploy ML Models on AWS Lambda with Docker Containers and SAM"
-subtitle: "End-to-end guide to train, containerize, and serve ML via Lambda, ECR, SAM, and GitHub Actions"
+title: Deploy ML Models on AWS Lambda with Docker Containers and SAM
+subtitle: End-to-end guide to train, containerize, and serve ML via Lambda, ECR, SAM,
+  and GitHub Actions
 description:
-    Learn containerized ML deployment on AWS Lambda: build, train, and serve with Docker, ECR, and SAM, plus CI/CD via GitHub Actions. Follow this proven guide.
-image: "images/posts/2021-01-01-ml-deployment-lambda/cover.jpg"
-authors: [sejalvaidya]
-tags: [engineering, deployment, serverless, aws]
+  Learn containerized ML deployment on AWS Lambda: build, train, and serve with Docker,
+    ECR, and SAM, plus CI/CD via GitHub Actions. Follow this proven guide.
+image: images/posts/2021-01-01-ml-deployment-lambda/cover.jpg
+authors:
+- sejalvaidya
+tags:
+- engineering
+- deployment
+- serverless
+- aws
+datepublished: '2021-01-01'
+date: '2021-01-01'
 ---
 
 
