@@ -30,6 +30,8 @@ dateadded: 2021-02-23
 
 
 keywords: data team roles, data scientist, data engineer, machine learning engineer, data analyst, MLOps engineer, product manager, data team structure, data science roles, ML engineer vs data engineer, data team responsibilities, data science career
+
+transcript: |
 00:00
 Alexey
 Thank you for joining. I will start with the introduction, and maybe more people will join by the time I finish. Thank you very much for coming to this meeting. This is an experimental event.
