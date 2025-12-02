@@ -35,6 +35,9 @@ Some examples of inappropriate behaviour:
 
 * Judging the question or the person asking the question ("this is a stupid questions and everyone who can read docs knows the answer")
 * Soliciting any kind of personal information (such as marital status, sexual orientation, phone number, address, income, etc)
+* Asking for personal or professional details in DM (such as location, current job, or skills)
+* Asking people to share their profiles (such as LinkedIn or Upwork)
+* Offering collaboration in DM without prior public communication
 * Continued one-on-one communication after requests to cease
 
 
@@ -197,6 +200,9 @@ If you get unsolicited promotional messages in DM, report it to Alexey Grigorev.
 
 Note that promoting yourself and your services is also a promotion. For example, mass-sending your
 CVs in DMs is also considered unsolicited promotion, and the same rules apply.
+
+Offering collaboration in DMs without having prior public communication is also not allowed. If you want to collaborate with someone, 
+first engage with them in public channels before reaching out via DM.
 
 
 ### Non-relevant promotions
