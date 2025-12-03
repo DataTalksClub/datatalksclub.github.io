@@ -253,7 +253,7 @@ The promotional content must be relevant to our data science community. It shoul
 * Wellness apps unrelated to data science
 * General business services with no data science connection
 
-> **⚠️ Enforcement:** Such messages will be removed without a warning. Repeated posting of irrelevant content may result in a ban.
+> Such messages will be removed without a warning. Repeated posting of irrelevant content may result in a ban.
 
 
 ## Jobs
@@ -297,5 +297,5 @@ Since we're a data science community, please make sure the positions are related
 * General business administration roles
 * Non-technical roles unrelated to data
 
-> **⚠️ Enforcement:** Job posts for irrelevant positions will be removed. Repeated violations may result in restrictions on posting.
+> Job posts for irrelevant positions will be removed. Repeated violations may result in restrictions on posting.
 
