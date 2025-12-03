@@ -34,7 +34,7 @@ I founded it in September 2020, and it has since grown to over 79,000 members ac
   <ul>
     <li>Your privacy is protected. No sponsor will ever receive direct access to your email addresses or personal information without your explicit consent.</li>
     <li>I will clearly indicate when content is sponsored, ensuring you always know when we're working with partners.</li>
-    <li>All sponsorship decisions prioritize the value and relevance to our community members.</li>
+    <li>All sponsorship decisions prioritize value and relevance to our community members.</li>
   </ul>
 </section>
 
