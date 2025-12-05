@@ -117,6 +117,627 @@ quotableClips:
   endOffset: 3480
 
 keywords: mentoring, career development, tech mentorship, finding a mentor, becoming a mentor, imposter syndrome, tech leadership, career advice, professional development, data engineering
+
+transcript:
+- line: Thank you everyone for coming to today's event. This event is brought to you
+    by Data Talks Club, which is a community of people interested in data. We have
+    weekly events, and the ones we usually have on Tuesday are more technical and
+    include presentations. This week we talked about AWS Glue DataBrew, a new service
+    from AWS. We will take a break for a couple of weeks and then next month we will
+    talk about model monitoring and a feature store called Feast.
+  sec: 0
+  time: 0:00
+  who: Alexey
+- line: We also have live podcast events on Friday like today. These are more like
+    discussions, without slides, and they are usually just Q and A. Today the topic
+    is mentoring. For this type of event we will also have a break and come back in
+    the middle of January with a topic on writing. Then we will talk about a developer
+    advocate role and machine learning operations in Europe.
+  sec: 20
+  time: 0:20
+  who: Alexey
+- line: If during today you have any questions, please ask them on Slido. Slido is
+    a special platform for asking questions. I will now share the link with you in
+    the chat, and you can click on it.
+  sec: 72
+  time: '1:12'
+  who: Alexey
+- line: We can start. Let me pull up my notes.
+  sec: 100
+  time: '1:40'
+  who: Alexey
+- line: Today the topic is mentoring, and we have a special guest, Rahul Jain. Rahul
+    is a technical leader with 20 years of experience in building and running software
+    products. He now leads the business intelligence and data engineering units at
+    Omio, which is a ticket booking company. Rahul is also a mentor at the Mentoring
+    Club, where he offers guidance and coaching to engineers and managers. This is
+    why I reached out to him and asked him to share his experience with us.
+  sec: 120
+  time: '2:00'
+  who: Alexey
+- line: Thank you Rahul for coming today. It is a pleasure to have you.
+  sec: 159
+  time: '2:39'
+  who: Alexey
+- line: Thanks Alexey for having me.
+  sec: 165
+  time: '2:45'
+  who: Rahul
+- line: Before we go into the main topic of mentoring, maybe you could tell us a bit
+    about your background. Can you tell us about your journey so far?
+  sec: 171
+  time: '2:51'
+  who: Alexey
+- line: Sure. I grew up in India in different parts of northern India, and I graduated
+    in 1999 in mining engineering. Not data mining but mining engineering. By the
+    time I graduated I was no longer interested in pursuing a career in mining and
+    became more interested in computers.
+  sec: 177
+  time: '2:57'
+  who: Rahul
+- line: Around that time there was an IT boom, so I took advantage of it and joined
+    an Indian IT services company in Bangalore. I was there for about seven years
+    as a Java programmer. Back then Java was almost like how Golang and Rust are today,
+    the cool thing to do. I learned a lot and worked in different domains as part
+    of a consulting company, mostly in finance but also in other areas.
+  sec: 190
+  time: '3:10'
+  who: Rahul
+- line: After spending seven years there, I moved to Singapore and joined Credit Suisse,
+    an investment bank. That was probably my first experience in the data world because
+    most of the products and technologies there were related to data, even though
+    we did not call it big data at the time. I was part of a team called Market Data
+    Ingest, where I worked on ETLs, although I did not know they were called ETLs
+    back then.
+  sec: 229
+  time: '3:49'
+  who: Rahul
+- line: I spent six or seven years there, first as a back-end engineer and later as
+    a team lead. Then I joined ThoughtWorks, a consulting company with offices around
+    the world. They are very popular for deep engineering skills, and Martin Fowler
+    is one of their employees. There, again, I worked in different domains but stayed
+    close to data.
+  sec: 247
+  time: '4:07'
+  who: Rahul
+- line: About three years ago, I moved to Berlin to join Omio, which was called GoEuro
+    at the time. We are a ticketing company. If you travel anywhere in Europe and
+    now also in the US, you can go to our portal and book your tickets. When I joined,
+    I was asked to lead the BI and data engineering team, and that has been my journey
+    so far.
+  sec: 289
+  time: '4:49'
+  who: Rahul
+- line: It is an interesting experience, especially starting from mining.
+  sec: 335
+  time: '5:35'
+  who: Alexey
+- line: Yes, absolutely. It is kind of funny because I started with mining and now
+    I am doing data mining, even though it is not called data mining anymore. Now
+    it is data science.
+  sec: 342
+  time: '5:42'
+  who: Rahul
+- line: Today the topic is mentoring, and you are active in this area. You mentor
+    people at the Mentoring Club. What does mentoring mean to you?
+  sec: 363
+  time: '6:03'
+  who: Alexey
+- line: The traditional definition of mentoring is about having a partnership with
+    someone who knows a bit more about a topic than you do. You reach out to them
+    and build a supportive relationship, usually to answer questions or get guidance.
+    For me, the definition is broader. It is about reaching out to someone for a different
+    perspective.
+  sec: 376
+  time: '6:16'
+  who: Rahul
+- line: It could be about a problem you are trying to solve, a challenge you are facing,
+    or a decision you are trying to make in your career. It is about getting an opinion
+    from someone who might have an interesting perspective. In our industry it is
+    especially important because we do not have a strong tradition of apprenticeship
+    like in food, retail, or law.
+  sec: 402
+  time: '6:42'
+  who: Rahul
+- line: For the first few years we rarely work closely with someone who mentors us.
+    That is why it is important to have someone to reach out to when navigating challenges.
+  sec: 437
+  time: '7:17'
+  who: Rahul
+- line: So for you, mentoring does not necessarily mean a long-term activity. It can
+    be reaching out for advice, but it can also be something more formal, like an
+    apprenticeship program at a company that lasts for a couple of years.
+  sec: 459
+  time: '7:39'
+  who: Alexey
+- line: It depends on your needs. Traditionally, and something I recommend, it is
+    good to have a long-term mentoring relationship. But people often have small,
+    very specific questions, and it is perfectly fine to reach out and get advice
+    in that area too. The definition is not strict. It can be something short or something
+    long, depending on what you need.
+  sec: 475
+  time: '7:55'
+  who: Rahul
+- line: If I am a Java developer and want to move into data analysis, I can reach
+    out to someone and ask whether this is the right path for me. That can also be
+    mentoring.
+  sec: 491
+  time: '8:11'
+  who: Rahul
+- line: Was mentoring an important part of your career so far?
+  sec: 520
+  time: '8:40'
+  who: Alexey
+- line: For the first ten years, no. That is the crazy thing. That is probably why
+    I eventually got into mentoring, because I realized how big that gap was. For
+    the first ten years I did not have a mentor. I did not even know what mentoring
+    meant.
+  sec: 528
+  time: '8:48'
+  who: Rahul
+- line: My experience with mentoring, both as a mentor and a mentee, started when
+    I joined ThoughtWorks. ThoughtWorks had a strong culture of having a sponsor or
+    mentor for every employee. That is how I was introduced to the concept and how
+    I started having mentors and mentees.
+  sec: 542
+  time: '9:02'
+  who: Rahul
+- line: How does it work? The moment you join, do you get a mentor who stays with
+    you throughout your time at the company?
+  sec: 565
+  time: '9:25'
+  who: Alexey
+- line: They experiment with different formats, but that is typically how it works.
+    You are not always assigned a mentor; you are encouraged to find one yourself.
+    If you cannot, the organization or the people team will help you.
+  sec: 571
+  time: '9:31'
+  who: Rahul
+- line: The mentor is usually not from your team because the idea is to get mentorship
+    from someone who can offer an unbiased opinion about your career. It is advisable
+    to have someone who is not your immediate manager, maybe someone from a different
+    team.
+  sec: 585
+  time: '9:45'
+  who: Rahul
+- line: If you want to find a mentor, it is great when a company has a mentorship
+    program. Having someone to talk to about your problems is very useful, especially
+    because there are things you do not want to discuss with your manager. How can
+    you find such a person?
+  sec: 618
+  time: '10:18'
+  who: Alexey
+- line: This is probably the most difficult part. You want someone who has relevant
+    experience and can offer meaningful advice. You also want someone who can actually
+    play the role of a mentor. Just because someone knows a topic does not mean they
+    are good at mentoring.
+  sec: 651
+  time: '10:51'
+  who: Rahul
+- line: It is an iterative process. Rather than spending too much time up front searching
+    for the perfect person, you may need to try a few people. You can ask around in
+    your network, join a formal mentoring program if your company has one, or use
+    your personal connections.
+  sec: 663
+  time: '11:03'
+  who: Rahul
+- line: There are also programs like the Mentoring Club, which make finding a mentor
+    easier. Some people even reach out directly through LinkedIn to someone they know
+    or have heard of and ask if they have time. But it takes a few iterations to find
+    the right person.
+  sec: 714
+  time: '11:54'
+  who: Rahul
+- line: "You mentioned reaching out to your network. I sometimes get messages like\
+    \ \u201CCan you help me with this?\u201D and I often cannot because I do not always\
+    \ have the required expertise. Sometimes it feels like people send the same message\
+    \ to everyone, hoping someone will respond. I think there is a better way to target\
+    \ a message to a specific person. How would you recommend doing this?"
+  sec: 745
+  time: '12:25'
+  who: Alexey
+- line: It is similar to building a relationship. Cold messages are unpredictable
+    because the other person does not know you or whether they can help. Investing
+    a bit in the relationship first is better. Join a meetup group, participate in
+    a Slack community, or engage in discussions. The other person gets to know you
+    a bit, and then you can reach out.
+  sec: 784
+  time: '13:04'
+  who: Rahul
+- line: If they have seen how you work or participate, they may be more open to the
+    conversation. But I would also say do not be afraid to reach out if you have a
+    good reason. Sending a thoughtful, specific message can be effective. And do not
+    get discouraged if someone does not reply.
+  sec: 809
+  time: '13:29'
+  who: Rahul
+- line: Speaking of messages, sometimes I get cold emails that are really good. How
+    should such an email look to increase the chances of getting a response?
+  sec: 862
+  time: '14:22'
+  who: Alexey
+- line: "Being specific helps. If I get a message that says \u201CCan you help me\
+    \ with something?\u201D, I do not know whether I can help. It is more useful when\
+    \ someone explains who they are, what they are struggling with, and what they\
+    \ have already tried. Showing authenticity and effort makes a big difference."
+  sec: 902
+  time: '15:02'
+  who: Rahul
+- line: Sharing a bit about your background and explaining how you are navigating
+    the challenge can also help.
+  sec: 938
+  time: '15:38'
+  who: Rahul
+- line: This experience as a mentee at ThoughtWorks at some point you also became
+    a mentor yourself, right? First, you were a mentee, someone was helping you, but
+    you spent quite a while there. At some point, you had enough experience to actually
+    mentor somebody. What did this do to your career? Was it helpful at all, and what
+    were the benefits for you as a mentor?
+  sec: 957
+  time: '15:57'
+  who: Alexey
+- line: There are quite a few benefits that I have seen over the last few years. First
+    and foremost, just being able to help someone or share your experiences is a reward
+    in itself because it is a way of giving back. I also felt it made me a better
+    listener because you have to listen a lot.
+  sec: 981
+  time: '16:21'
+  who: Rahul
+- line: As a team lead, I lead a team, so mentoring also gives me perspective on leading
+    a team and what that means. For example, if someone comes with a problem, I can
+    relate that to my own experiences with my team. Finally, it has expanded my network.
+    Being part of the Mentoring Club, I am connecting with other mentors, which is
+    rewarding.
+  sec: 1025
+  time: '17:05'
+  who: Rahul
+- line: If somebody reaches out to you on a topic where you do not have experience,
+    what do you usually do in that case?
+  sec: 1078
+  time: '17:58'
+  who: Alexey
+- line: It is simple. I just say I do not know and cannot help in that area, and then
+    try to connect them with somebody who might be able to help.
+  sec: 1084
+  time: '18:04'
+  who: Rahul
+- line: Have you ever been in a situation where you did not know how to solve a problem
+    but just by listening and asking questions, you were able to help them?
+  sec: 1140
+  time: '19:00'
+  who: Alexey
+- line: Yes, I always try to do that. Quite often, someone reaches out from marketing
+    or even construction. Initially, it feels like there is not much overlap, but
+    giving a listening ear itself is part of mentorship. Often, by talking, people
+    can solve their own problems.
+  sec: 1152
+  time: '19:12'
+  who: Rahul
+- line: Also, you can recognize common patterns. Even if they come from a different
+    background, many social problems in the workplace are common. You can relate and
+    say, "This is similar to what I have seen, here is what I did," and start connecting
+    dots between different worlds.
+  sec: 1192
+  time: '19:52'
+  who: Rahul
+- line: These people from construction or other industries, did they find you through
+    the Mentoring Club?
+  sec: 1229
+  time: '20:29'
+  who: Alexey
+- line: Yes.
+  sec: 1241
+  time: '20:41'
+  who: Rahul
+- line: Can you tell us a bit more about this club?
+  sec: 1251
+  time: '20:51'
+  who: Alexey
+- line: 'It was started earlier this year by a few colleagues in Berlin. The motivation
+    was simple: to reach out to people who need career mentorship or coaching. It
+    is grown to almost 300 mentors. I do not have exact numbers, but we have given
+    close to a thousand sessions. It is completely free. You just book a session with
+    a mentor.'
+  sec: 1258
+  time: '20:58'
+  who: Rahul
+- line: Mentors come from all walks of life. There are CXOs, people from product,
+    tech, marketing, sales, design, entrepreneurs, and lots of different backgrounds.
+  sec: 1301
+  time: '21:41'
+  who: Rahul
+- line: Which topics do you help with on this platform?
+  sec: 1327
+  time: '22:07'
+  who: Alexey
+- line: I help with career navigation, challenges at work, career decisions, switching
+    careers, or deciding on higher education. I also talk about technical topics like
+    data engineering stacks for startups. It varies.
+  sec: 1335
+  time: '22:15'
+  who: Rahul
+- line: If someone wants advice and wants to reach out to you through the Mentoring
+    Club, how should they best prepare to get the most out of the session?
+  sec: 1370
+  time: '22:50'
+  who: Alexey
+- line: It depends on what you are looking for. If you have specific challenges, reach
+    out to your mentor first and give as much detail as possible about your background
+    and goals. Do a bit of introspection. Are you looking for a one-off session, validation
+    of a decision, or a long-term engagement?
+  sec: 1384
+  time: '23:04'
+  who: Rahul
+- line: Do not over-prepare. It is not a job interview. Share the details and let
+    the conversation flow. One misconception is expecting a specific answer. Mentoring
+    is about pointers, planting seeds, probing deeper. It is a process.
+  sec: 1442
+  time: '24:02'
+  who: Rahul
+- line: Can you share an example from a recent session? What kind of problems do people
+    approach you with?
+  sec: 1503
+  time: '25:03'
+  who: Alexey
+- line: Some common areas. Imposter syndrome affects more than 50 to 60 percent of
+    people who reach out. They feel they are not good enough. I also get questions
+    about tech versus management, especially for people with five or six years in
+    technology now being asked to take leadership roles. Other questions include career
+    moves, whether to join a company or pursue higher education.
+  sec: 1517
+  time: '25:17'
+  who: Rahul
+- line: If someone comes to you with imposter syndrome, what do you usually recommend?
+  sec: 1575
+  time: '26:15'
+  who: Alexey
+- line: There is no one answer. Imposter syndrome can happen for various reasons.
+    I usually go deeper into the root cause. Often it is a perception built by external
+    or internal factors. The process is to scratch the surface, question beliefs,
+    and help define the problem more specifically.
+  sec: 1587
+  time: '26:27'
+  who: Rahul
+- line: It seems to me that to be a good mentor, you really need to understand people
+    and go deep to find the root cause. How do you learn that as a tech person, like
+    a Java developer?
+  sec: 1650
+  time: '27:30'
+  who: Alexey
+- line: It helps to have a natural inclination to help people, which most people do.
+    Early in your career, you spend energy as an individual contributor, but even
+    then you help new team members onboard. Tech and data work are social activities,
+    so you inadvertently develop people skills. You just need to hone them for mentoring.
+  sec: 1682
+  time: '28:02'
+  who: Rahul
+- line: "Some aspects, like being a better listener or avoiding the \u201Cadvice monster,\u201D\
+    \ jumping immediately into giving advice, are learned over time. Mentoring is\
+    \ a skill that comes with practice, and you are likely already doing some of it\
+    \ at work."
+  sec: 1755
+  time: '29:15'
+  who: Rahul
+- line: So basically, do not be afraid of trying. It is not as difficult as it sounds.
+  sec: 1796
+  time: '29:56'
+  who: Alexey
+- line: No, not at all. It is very rewarding. It is not about sitting on a higher
+    pedestal. It is about listening and helping others.
+  sec: 1801
+  time: '30:01'
+  who: Rahul
+- line: What are the main motivations for a mentor to mentor someone? You mentioned
+    helping personally, seeing patterns, becoming a better listener, and the reward
+    of helping someone. Is there anything else?
+  sec: 1820
+  time: '30:20'
+  who: Alexey
+- line: Those are the main ones. It is also about expanding your perspective and network.
+    You learn through mentoring while providing value to others.
+  sec: 1840
+  time: '30:40'
+  who: Rahul
+- line: Personally, for me, as I said earlier, for the first ten years I had no one
+    to work with. I did not know what I was doing. I came from a mining background.
+    There were no engineers or people in software in my family that I could talk to,
+    and there was no culture of apprenticeship or mentorship in the first few years
+    of my career. I struggled a lot. I did not know if Java was the best thing for
+    me. I also went through imposter syndrome for many years.
+  sec: 1846
+  time: '30:46'
+  who: Rahul
+- line: For my personality, my motivation came from that experience. Since I did not
+    have guidance, I wanted to provide that space for other people. You need to find
+    your own motivation, but these were some things that motivated me.
+  sec: 1882
+  time: '31:22'
+  who: Rahul
+- line: Through this mentoring club, some people just want a one-time conversation,
+    but sometimes people need something more long-term. How often do you have somebody
+    who wants long-term mentorship?
+  sec: 1903
+  time: '31:43'
+  who: Alexey
+- line: "Long-term mentorship is a little tricky. I have a few people I mentor long-term,\
+    \ some from ThoughtWorks and some from the mentoring club. You need to be mindful\
+    \ of the mentor\u2019s time investment. Some mentors do it professionally and\
+    \ charge a fee."
+  sec: 1918
+  time: '31:58'
+  who: Rahul
+- line: Other than that, it is about establishing a clear agreement. If the mentor
+    is interested and willing, long-term mentorship is very valuable because it helps
+    understand the entire context over time.
+  sec: 1970
+  time: '32:50'
+  who: Rahul
+- line: It makes sense to find someone in your workplace for long-term mentorship
+    if there is a formal program or someone you can reach out to informally.
+  sec: 2004
+  time: '33:24'
+  who: Rahul
+- line: How do you set boundaries for long-term mentorship relationships?
+  sec: 2028
+  time: '33:48'
+  who: Alexey
+- line: Sometimes a paid relationship helps create boundaries and expectations. In
+    unpaid long-term mentorship, it is about setting clear expectations. For example,
+    tell mentees it is not meaningful to meet unless there is a change in their situation.
+    Avoid diminishing returns.
+  sec: 2052
+  time: '34:12'
+  who: Rahul
+- line: Being mindful from both sides helps. Ask if the extra session will be beneficial
+    before committing.
+  sec: 2132
+  time: '35:32'
+  who: Rahul
+- line: What do you think about paid mentoring?
+  sec: 2146
+  time: '35:46'
+  who: Alexey
+- line: Paid mentoring can be very beneficial. It can be more constructive and allows
+    better expectations. It creates accountability and motivation from both sides.
+    It is common for senior leaders but less so for early-career professionals. For
+    less experienced people, paid mentorship often focuses on job preparation.
+  sec: 2159
+  time: '35:59'
+  who: Rahul
+- line: How can a mentee build a two-way connection with a mentor, not just ask questions?
+  sec: 2258
+  time: '37:38'
+  who: Alexey
+- line: Treat it like any relationship. Invest time, be authentic, share challenges,
+    strengths, and weaknesses. Conduct retrospectives over time, discuss what is working,
+    ask for resources, and make it work for yourself.
+  sec: 2270
+  time: '37:50'
+  who: Rahul
+- line: How can people join the mentoring club?
+  sec: 2326
+  time: '38:46'
+  who: Alexey
+- line: As a mentee, go to the website, search for a mentor, and book a session through
+    Calendly. As a mentor, fill out the enrollment form, and Bastian and Jess will
+    review your application.
+  sec: 2334
+  time: '38:54'
+  who: Rahul
+- line: Is there a difference mentoring juniors versus more experienced people?
+  sec: 2387
+  time: '39:47'
+  who: Alexey
+- line: Not really. It is about the challenges they face and whether you can provide
+    meaningful guidance. The problem space may differ, but the approach is similar.
+  sec: 2407
+  time: '40:07'
+  who: Rahul
+- line: Should managers be mentors, or is it better to have a separate mentor?
+  sec: 2465
+  time: '41:05'
+  who: Alexey
+- line: Managers often have one-on-ones that are somewhat like mentorship but are
+    delivery-focused. It is better to seek someone who is not your immediate manager
+    for unbiased opinions. You can also have multiple mentors for different areas
+    of your career. A mentor shows direction but does not make decisions for you.
+  sec: 2483
+  time: '41:23'
+  who: Rahul
+- line: How should someone start being a mentor?
+  sec: 2615
+  time: '43:35'
+  who: Alexey
+- line: Reach out to your network. Offer mentorship as an option but do not give unsolicited
+    advice. You can join formal programs like the Mentoring Club or others like Plato.
+    Prepare yourself with empathy, listening, and understanding context differences.
+  sec: 2642
+  time: '44:02'
+  who: Rahul
+- line: Some people use mentoring as a side income. What do you think?
+  sec: 2718
+  time: '45:18'
+  who: Alexey
+- line: If you provide value, there is nothing wrong with charging money. It helps
+    set expectations and boundaries. Some people pursue mentoring full-time successfully.
+  sec: 2732
+  time: '45:32'
+  who: Rahul
+- line: What about developers who become mentors and code less over time?
+  sec: 2820
+  time: '47:00'
+  who: Alexey
+- line: It is common when moving into leadership. Mentoring is part of people management.
+    It is a myth that you must choose between people management and coding. You can
+    balance your time between coding, management, and mentoring according to your
+    priorities.
+  sec: 2832
+  time: '47:12'
+  who: Rahul
+- line: Any advice for someone who wants to keep coding while managing teams?
+  sec: 3012
+  time: '50:12'
+  who: Alexey
+- line: Accept that you can manage your time and mix coding with management. Delegation
+    helps create time for coding. The first step is accepting that a balance is possible.
+  sec: 3023
+  time: '50:23'
+  who: Rahul
+- line: How can one work on a personal development plan with a manager or mentor?
+  sec: 3132
+  time: '52:12'
+  who: Alexey
+- line: It depends on your objectives. Look at the plan regularly with your mentor
+    or manager, weekly or monthly. Plans fail when they are created but not revisited.
+    The format does not matter as much as the process.
+  sec: 3150
+  time: '52:30'
+  who: Rahul
+- line: What do you do when you feel overwhelmed?
+  sec: 3258
+  time: '54:18'
+  who: Alexey
+- line: I take a break, reduce less important tasks, and try to understand what is
+    causing the overwhelm. Break it down into specific causes like workload or fear,
+    then tackle them piece by piece.
+  sec: 3266
+  time: '54:26'
+  who: Rahul
+- line: What are some examples of value you gained as a mentor?
+  sec: 3348
+  time: '55:48'
+  who: Alexey
+- line: When questions arise again, you are better prepared because you have navigated
+    similar situations before. It increases empathy toward others.
+  sec: 3360
+  time: '56:00'
+  who: Rahul
+- line: This year has been difficult. Connecting with people from different parts
+    of the world, hearing their struggles, and being able to help has been personally
+    rewarding.
+  sec: 3398
+  time: '56:38'
+  who: Rahul
+- line: Thank you for sharing your experience as a mentor.
+  sec: 3443
+  time: '57:23'
+  who: Alexey
+- line: Thank you. I enjoyed it a lot. Thanks for inviting me.
+  sec: 3450
+  time: '57:30'
+  who: Rahul
+- line: Please share the blog post link and the Mentoring Club link.
+  sec: 3461
+  time: '57:41'
+  who: Alexey
+- line: I am a member of the Slack group. Listeners can reach out anytime.
+  sec: 3475
+  time: '57:55'
+  who: Rahul
+- line: Have a nice day and a nice weekend. Bye everyone.
+  sec: 3486
+  time: '58:06'
+  who: Rahul                                                                                                                                                                                                     
 ---
 
 Today we're discussing mentoring with [Rahul Jain](/people/rahuljain.html), a technical leader with about 20 years of experience building and running software products. He currently leads the Business Intelligence and Data Engineering units at Omio, a ticket-booking company, and mentors engineers and managers through The Mentoring Club.
