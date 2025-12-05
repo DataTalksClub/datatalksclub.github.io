@@ -134,6 +134,814 @@ tags:
 - contributing
 - scikit-learn
 - machine-learning
+
+transcript:
+- line: Hi, welcome everyone. This event is brought to you by DataTalks.Club, a community
+    of people who love data. We have two types of events. On Tuesdays, we usually
+    have more technical events where we talk about technical topics, usually with
+    a presentation with slides, like a webinar.
+  sec: 2
+  time: 0:02
+  who: Alexey
+- line: "We will not have many of those in February because we have a conference,\
+    \ which I\u2019ll talk more about later. We will come back to these events in\
+    \ March, and we already have one planned for March 2nd, about building scalable\
+    \ end-to-end data learning pipelines in the cloud. That\u2019s a long title."
+  sec: 22
+  time: 0:22
+  who: Alexey
+- line: "We also have a different kind of event, usually on Fridays. Today\u2019s\
+    \ event is this type, even though it\u2019s Thursday, where it\u2019s more like\
+    \ a conversation. We talk about different things. Today the topic is open source.\
+    \ Tomorrow we will talk about envelopes."
+  sec: 47
+  time: 0:47
+  who: Alexey
+- line: On February 2nd, which is a Tuesday, we will talk about feature stores. Again
+    in February, we will not have many events because of the conference. We will come
+    back in March with a topic on public speaking.
+  sec: 70
+  time: '1:10'
+  who: Alexey
+- line: "Regarding the conference, it happens every Friday in February, with four\
+    \ tracks each day. First, we will talk about different use cases of machine learning.\
+    \ Then we\u2019ll talk about products and processes. After that, we\u2019ll talk\
+    \ about careers in data. Finally, we\u2019ll cover machine learning in production."
+  sec: 89
+  time: '1:29'
+  who: Alexey
+- line: The link is on our website, datatalks.com, where you can find more information.
+    For questions today, we will use Slido. I will share the link now in the chat.
+  sec: 120
+  time: '2:00'
+  who: Alexey
+- line: "Here is the link we can use for asking Vincent any questions today. If you\
+    \ need to tend to a kid for a brief moment, that\u2019s fine. We will start shortly."
+  sec: 149
+  time: '2:29'
+  who: Alexey
+- line: "Let\u2019s start. Today we\u2019ll talk about open source. We have a special\
+    \ guest, Vincent Warmerdam. Vincent works as a Research Advocate at Rasa."
+  sec: 189
+  time: '3:09'
+  who: Alexey
+- line: If you check his LinkedIn profile, you will see quite a few things. He has
+    been on the front page of Reddit. He is making a resource for people who want
+    to learn coding, calmcod.io. He also organized the PyData Amsterdam conference.
+  sec: 225
+  time: '3:45'
+  who: Alexey
+- line: "He is a data evangelist and an open source enthusiast. He is a creator and\
+    \ maintainer of some open source packages. That\u2019s why we invited him today.\
+    \ Last but not least, he has over 80 endorsements for awesomeness on LinkedIn."
+  sec: 243
+  time: '4:03'
+  who: Alexey
+- line: Welcome, Vincent. Thanks for coming to our event.
+  sec: 265
+  time: '4:25'
+  who: Alexey
+- line: "Hi. About the endorsements for awesomeness, at a previous company I had a\
+    \ bet with a CTO. We played a game to see who could get the most points for awesomeness\
+    \ on LinkedIn without asking for them. I might have cheated a little, but it wasn\u2019\
+    t about bragging. It was a long-running bet."
+  sec: 271
+  time: '4:31'
+  who: Vincent
+- line: "When I was reading your bio on LinkedIn, I thought, \u201COkay, awesomeness,\
+    \ let me check.\u201D Of course, even one sentence influences the score."
+  sec: 293
+  time: '4:53'
+  who: Vincent
+- line: "Before we get into open source, let\u2019s talk a bit about your background.\
+    \ Can you tell us a bit about yourself and your journey so far?"
+  sec: 308
+  time: '5:08'
+  who: Alexey
+- line: "I don\u2019t have a typical background. I was raised bilingually. I was born\
+    \ in the United States, lived there for a bit, and did most of my youth in the\
+    \ Netherlands, but I traveled to the U.S., which explains my accent. After high\
+    \ school, I wanted to study design, which I was keenly interested in."
+  sec: 320
+  time: '5:20'
+  who: Vincent
+- line: "I remember getting a bad grade because the feedback was: \u201CVincent, you\u2019\
+    re very creative, but you\u2019re not using our 12-step program on brainstorming.\u201D\
+    \ I thought, well, I don\u2019t like where this is going. Then I learned about\
+    \ econometrics, an applied math field. They promised that I could predict stocks.\
+    \ That sounded awesome."
+  sec: 344
+  time: '5:44'
+  who: Vincent
+- line: "After the bachelor\u2019s, I found out it\u2019s kind of marketing it doesn\u2019\
+    t actually predict stocks. So I quickly decided to take a master\u2019s in operations\
+    \ research. Around that time, AI and machine learning were becoming popular. I\
+    \ took a free Stanford course with Peter Norvig and Sebastian Thrun, and I realized\
+    \ I liked programming more than consulting."
+  sec: 373
+  time: '6:13'
+  who: Vincent
+- line: I decided to try a career switch. I backpacked through Latin America with
+    a laptop, doing some consulting along the way. I realized I preferred programming
+    over going to clubs every night. When I came back to the Netherlands, I taught
+    at a business school, but I wanted to focus on data science. A person I met at
+    a meetup was starting a Hadoop company and needed someone who understood the math
+    behind machine learning.
+  sec: 408
+  time: '6:48'
+  who: Vincent
+- line: "I got a gig there, and the ball started rolling. I wanted PyData to happen\
+    \ in the Netherlands, so I did some community projects. I\u2019m no longer formally\
+    \ involved with PyData, but I\u2019m still around. I had lots of side projects,\
+    \ which eventually caught the attention of people at Rasa. They asked me to do\
+    \ my Vincent stuff on their stack, because they thought I could help."
+  sec: 468
+  time: '7:48'
+  who: Vincent
+- line: "So that\u2019s how you got hired."
+  sec: 501
+  time: '8:21'
+  who: Alexey
+- line: "Yes, it took me a while to realize they wanted to hire me permanently. For\
+    \ a long time, I thought it was just a collaborative project. Eventually, they\
+    \ said: \u201CWe\u2019re talking about a career here, not a side project.\u201D\
+    \ It took me a month to realize that. I\u2019ve been there almost a year, and\
+    \ I really enjoy the culture."
+  sec: 507
+  time: '8:27'
+  who: Vincent
+- line: "It\u2019s a diverse mix of people. It\u2019s fun, and it\u2019s not just\
+    \ about machine learning. One thing I try to pick up is how to work in non-English\
+    \ languages. For example, word embeddings trained left-to-right for English don\u2019\
+    t work for Arabic. I get to reach out to communities, say here are some tools,\
+    \ and get feedback."
+  sec: 540
+  time: '9:00'
+  who: Vincent
+- line: "This led to a couple of open source projects, which also led to some articles.\
+    \ The main thing I try to do is help people understand tools. Our engineers and\
+    \ researchers develop a lot of features, but having a tool is one thing understanding\
+    \ it is another. I like teaching, so that\u2019s my focus."
+  sec: 575
+  time: '9:35'
+  who: Vincent
+- line: Your title is Research Advocate, right?
+  sec: 606
+  time: '10:06'
+  who: Alexey
+- line: "Yes, that\u2019s the title we came up with."
+  sec: 613
+  time: '10:13'
+  who: Vincent
+- line: What are your responsibilities there?
+  sec: 618
+  time: '10:18'
+  who: Alexey
+- line: "It\u2019s hard to explain. The data science field is still figuring out what\
+    \ it means to be a data scientist. Six years ago, being a data scientist meant\
+    \ figuring it out yourself. It involved a bit of programming, a bit of this, a\
+    \ bit of that."
+  sec: 623
+  time: '10:23'
+  who: Vincent
+- line: "As a Research Advocate, I\u2019m trying to figure out what it means while\
+    \ teaching and helping others. There\u2019s freedom in shaping it myself."
+  sec: 653
+  time: '10:53'
+  who: Vincent
+- line: "The thing is, especially with non-English languages, I really like the attitude\
+    \ that this job allows me. I do my best to make sure that a lot of these non-English\
+    \ tools are well supported in Rasa. I don\u2019t want to give the impression that\
+    \ I know everything someone fluent in Arabic knows far more than I ever will."
+  sec: 659
+  time: '10:59'
+  who: Vincent
+- line: "A lot of what I do is just listening to people: \u201CHey, you\u2019re trying\
+    \ to make this digital assistant work with open source tools. What are your problems?\u201D\
+    \ Maybe I can help benchmark something, or I can proxy it to the research team.\
+    \ They have really cool tools, and I make sure they\u2019re well understood."
+  sec: 678
+  time: '11:18'
+  who: Vincent
+- line: "Sometimes the best thing I can do is make a YouTube video or a blog post.\
+    \ Sometimes it\u2019s contributing to open source tools. That\u2019s the ground\
+    \ I\u2019m trying to cover. It\u2019s a little bit of improvisation, but it\u2019\
+    s good improvisation because I don\u2019t have to pretend I know everything."
+  sec: 702
+  time: '11:42'
+  who: Vincent
+- line: "Sometimes, as a consultant, you\u2019re supposed to be the authority all\
+    \ the time. Here, I can just say: \u201CLook, if you want to make a virtual assistant\
+    \ in any language community, tell me what I need to do, and I\u2019ll gladly help.\u201D\
+    \ That\u2019s my main focus."
+  sec: 722
+  time: '12:02'
+  who: Vincent
+- line: "So basically, you\u2019re someone between the technical team and the user?"
+  sec: 748
+  time: '12:28'
+  who: Alexey
+- line: "Yes, it\u2019s like a developer advocate with more focus toward research.\
+    \ I\u2019ve actually written a research paper by accident this year. I made an\
+    \ open source package that\u2019s super useful to some researchers. I make a lot\
+    \ of byproducts, which are useful to the community."
+  sec: 754
+  time: '12:34'
+  who: Vincent
+- line: "Some of these are machine learning debugging tools that work on top of Rasa.\
+    \ Others help explore word embeddings or investigate bias in them. These aren\u2019\
+    t core to what we do, but they help our community, which is great."
+  sec: 777
+  time: '12:57'
+  who: Vincent
+- line: "Can you explain a bit about the company, Rasa, and what you\u2019re developing?"
+  sec: 796
+  time: '13:16'
+  who: Alexey
+- line: "It\u2019s a little different. Elasticsearch helps with search, but the company\
+    \ isn\u2019t implementing it for everyone directly. They have support contracts."
+  sec: 802
+  time: '13:22'
+  who: Vincent
+- line: "On our side, we help companies make virtual assistants, but we focus on building\
+    \ the infrastructure. We provide the standard pipeline for a virtual assistant.\
+    \ If you need a very specific component, you can make that. We\u2019re trying\
+    \ to provide the infrastructure layer."
+  sec: 818
+  time: '13:38'
+  who: Vincent
+- line: "We aim to make it open source and pragmatic, so you can work with it. For\
+    \ example, you might want to host it on your own servers for healthcare applications.\
+    \ We provide the tools to do this in an open source way. It\u2019s as simple as\
+    \ a pip install."
+  sec: 837
+  time: '13:57'
+  who: Vincent
+- line: Speaking of open source, what does open source mean to you?
+  sec: 862
+  time: '14:22'
+  who: Alexey
+- line: "I have to admit, I don\u2019t consider myself super knowledgeable about all\
+    \ the details, like licenses. Some people take licenses very seriously. My approach\
+    \ has always been pragmatic: people made a bag of tools and tricks that are useful\
+    \ to me. I sometimes create my own tricks that others might not have made."
+  sec: 870
+  time: '14:30'
+  who: Vincent
+- line: The best example is Psychic Lego, which I started with Matias from PyData
+    Amsterdam. Some tools, like SciKit-Learn, are amazing, but there are tricks I
+    use often that are experimental. I host those myself.
+  sec: 906
+  time: '15:06'
+  who: Vincent
+- line: "This is how I approach open source: I scratch an itch, and others can find\
+    \ edge cases and help improve the code. That wouldn\u2019t happen if I kept it\
+    \ private."
+  sec: 939
+  time: '15:39'
+  who: Vincent
+- line: "So everything on GitHub is automatically open source, as long as it\u2019\
+    s not private?"
+  sec: 956
+  time: '15:56'
+  who: Alexey
+- line: "Yes, but I make a distinction. I have an open source project called Brent\
+    \ that I put on PyPI, but it\u2019s not fully ready. There are edge cases that\
+    \ need to be fixed before it\u2019s fully public. Hosting on GitHub is fine, but\
+    \ there\u2019s a maturity step before publishing to a public package index."
+  sec: 962
+  time: '16:02'
+  who: Vincent
+- line: You mentioned Psychic Lego and Brent. Can you tell us more about them?
+  sec: 1004
+  time: '16:44'
+  who: Alexey
+- line: "Open source often starts with curiosity: I want to explore an idea or improve\
+    \ a user interface. For example, the library EVIL is an evolutionary algorithm\
+    \ library. The name is an anagram of \u201Clove evil.\u201D"
+  sec: 1022
+  time: '17:02'
+  who: Vincent
+- line: I made EVIL with GoHere. We wanted to simplify genetic algorithms, which are
+    usually a for-loop inside a for-loop inside a for-loop. We created a population
+    object and an evolution object with a functional API. This makes evolutionary
+    algorithms easier to use.
+  sec: 1063
+  time: '17:43'
+  who: Vincent
+- line: "I haven\u2019t touched the library in years, but it still gets a few hundred\
+    \ downloads a week. People blog about it because the API is simpler. Another library\
+    \ is Clumper, like pandas but for nested JSON objects, to make the API easier."
+  sec: 1092
+  time: '18:12'
+  who: Vincent
+- line: "Memo is another tool, a set of decorators that log function outputs. If you\u2019\
+    re doing grid search, Memo saves everything in a JSON file. That\u2019s one branch\
+    \ of packages I make: improving usability."
+  sec: 1119
+  time: '18:39'
+  who: Vincent
+- line: "The other branch integrates with existing ecosystems. For scikit-learn, I\
+    \ made Psychic Lego, HumanLearn, and other tools. HumanLearn allows rule-based\
+    \ systems so domain experts can use \u201Cif this, then that.\u201D"
+  sec: 1137
+  time: '18:57'
+  who: Vincent
+- line: "I also made WhatLies, which investigates word embeddings. It\u2019s pipeline-compatible\
+    \ with Psychic Learn, so you can benchmark models quickly. You can check if a\
+    \ slower model is actually more accurate."
+  sec: 1162
+  time: '19:22'
+  who: Vincent
+- line: You mentioned quite a few packages there were at least ten you listed.
+  sec: 1207
+  time: '20:07'
+  who: Alexey
+- line: "I also do lots of stuff for Rasa, but that\u2019s my employer, so that\u2019\
+    s cheating. I write my packages so they don\u2019t require a lot of maintenance.\
+    \ For example, I have one called ScheduleLord, which helps me maintain my cron\
+    \ jobs on my Raspberry Pis. It has documentation, but in reality, it has five\
+    \ users, and that\u2019s fine."
+  sec: 1224
+  time: '20:24'
+  who: Vincent
+- line: "I also have another tool called MakeTestDocs. It\u2019s a package with two\
+    \ functions that make it easier to write unit tests for your markdown files. If\
+    \ you have Python examples in your README or MakeDocs template, you can just add\
+    \ one or two functions, and your documentation becomes your unit test. It\u2019\
+    s easy to maintain two functions."
+  sec: 1255
+  time: '20:55'
+  who: Vincent
+- line: "What caught my attention was the names of your packages. They\u2019re very\
+    \ creative. How do you pick names for your projects?"
+  sec: 1286
+  time: '21:26'
+  who: Alexey
+- line: "My approach is pretty silly. A while ago, a buddy and I made a website called\
+    \ MakeNames.io. The idea is to use Pok\xE9mon names as a training dataset to generate\
+    \ new names. We also used the IKEA catalog as a corpus. It\u2019s not meant to\
+    \ be a serious project."
+  sec: 1297
+  time: '21:37'
+  who: Vincent
+- line: "Usually, I spend ten minutes generating names. If I get frustrated because\
+    \ they\u2019re silly, I turn that into a sentence describing what the package\
+    \ does. For example, Psychic Lego is for building Lego-like blocks in a scikit-learn\
+    \ pipeline. HumanLearn lets humans put rules into scikit-learn. WhatLies investigates\
+    \ word embeddings. Clumper helps JSON clump together. Memo helps memorize stuff."
+  sec: 1334
+  time: '22:14'
+  who: Vincent
+- line: Naming is often the hardest part. In a past career, I did consultancy for
+    the Dutch Flower Auction. The team culture was great because we named every new
+    service. For example, a SQL database service was called Steven Sequal. When we
+    upgraded it, we called it Steven C. Call the Sequel. A document store was called
+    Jason Bourne.
+  sec: 1387
+  time: '23:07'
+  who: Vincent
+- line: This silly naming competition made every service launch exciting. Communication
+    improved because the names clearly described what the server should do.
+  sec: 1425
+  time: '23:45'
+  who: Vincent
+- line: So for Psychic Lego, the name reflects building blocks that can be combined
+    into a pipeline?
+  sec: 1505
+  time: '25:05'
+  who: Alexey
+- line: "Yes. It\u2019s a scikit-learn-compatible pipeline component. Some are fancy,\
+    \ some are simple. For example, if you train a model and get an outlier during\
+    \ prediction, we have a component to clip it. It might not be useful for everyone,\
+    \ but it\u2019s ready if someone needs it."
+  sec: 1517
+  time: '25:17'
+  who: Vincent
+- line: We also have meta-components. For instance, a classifier might use a threshold
+    of 0.5. You could grid search to find a threshold that optimizes precision or
+    recall. These tools help you investigate and adjust the model.
+  sec: 1552
+  time: '25:52'
+  who: Vincent
+- line: "We have a question about getting started with open source. I\u2019ve been\
+    \ coding for a while and will study computer science at university. How should\
+    \ I begin contributing to open source?"
+  sec: 1586
+  time: '26:26'
+  who: Alexey
+- line: "It depends on what you want to achieve. If you want to start your own project,\
+    \ ask if it\u2019s easier to maintain it and convince others to use it, or contribute\
+    \ to an existing project. You can talk to maintainers and see if they\u2019re\
+    \ interested in your contribution."
+  sec: 1604
+  time: '26:44'
+  who: Vincent
+- line: "If you\u2019re a maintainer, you understand the project well, but you might\
+    \ not see what\u2019s unclear to new users. If you hit a confusing error, open\
+    \ a GitHub issue suggesting improvements. That alone is already a contribution."
+  sec: 1632
+  time: '27:12'
+  who: Vincent
+- line: The first step is to use a tool, identify a problem, and create an issue.
+    At Rasa, we have a contributor program. You can join via Slack, get PRs merged,
+    give talks, or write blog posts, and we consider you a contributor.
+  sec: 1680
+  time: '28:00'
+  who: Vincent
+- line: "For your first commit, don\u2019t worry too much. Make sure you understand\
+    \ setup.py, flake8, black, pytest, and pre-commit hooks. Understanding Git and\
+    \ GitHub, including commits, merges, and pull requests, is also important."
+  sec: 1720
+  time: '28:40'
+  who: Vincent
+- line: Investing in these skills is sensible. Learn Python, Git, and GitHub basics,
+    plus continuous integration and GitHub Actions. My site, Calmcod.io, has tutorials
+    for all these tools. It helps you gain programming maturity beyond Jupyter notebooks.
+  sec: 1795
+  time: '29:55'
+  who: Vincent
+- line: "Let\u2019s say I want to contribute to a library like Psychic Learn. I know\
+    \ some Python and Git. What are the next steps?"
+  sec: 1813
+  time: '30:13'
+  who: Alexey
+- line: "The path I took is different because I organized events. Most packages I\
+    \ contribute to are maintained by someone I\u2019ve met in real life. That makes\
+    \ it easier to discuss ideas."
+  sec: 1832
+  time: '30:32'
+  who: Vincent
+- line: Big projects like pandas have thousands of issues. Maintaining them is tricky.
+    It may be better to start with a smaller library. Reach out on GitHub issues and
+    see if maintainers are interested in your feature before starting work.
+  sec: 1851
+  time: '30:51'
+  who: Vincent
+- line: "I contributed to a project called Dion. It\u2019s a checklist for starting\
+    \ a machine learning project, checking for unintended side effects before deployment.\
+    \ They also accept anecdotes for documentation. It was a small, manageable way\
+    \ to contribute."
+  sec: 1891
+  time: '31:31'
+  who: Vincent
+- line: "Dion is, as far as I\u2019m concerned, one of the most impactful projects\
+    \ for preventing a lot of bad outcomes in machine learning. Dion is amazing. If\
+    \ you haven\u2019t checked it out, you really should. We\u2019ll share the links\
+    \ after the event."
+  sec: 1920
+  time: '32:00'
+  who: Vincent
+- line: "So your suggestion is that big projects like pandas or scikit-learn might\
+    \ be too large to start contributing to. For example, in scikit-learn, there\u2019\
+    s a policy where new algorithms must stand the test of time. You can\u2019t just\
+    \ submit something you created yesterday."
+  sec: 1938
+  time: '32:18'
+  who: Alexey
+- line: "Exactly. Smaller projects are easier to get started with because the codebase\
+    \ is smaller, there are fewer issues, and it\u2019s easier to communicate. The\
+    \ main thing is psychological: maintainers worry about whether a feature is broadly\
+    \ useful and whether contributors will stick around if something breaks."
+  sec: 1968
+  time: '32:48'
+  who: Vincent
+- line: "It\u2019s easier to have these conversations in a smaller project setting.\
+    \ You can explain your interest in helping maintain the project. No one wants\
+    \ to inherit legacy code without context."
+  sec: 2015
+  time: '33:35'
+  who: Vincent
+- line: 'Another question: how do you find the time and energy to work on so many
+    side projects? You mentioned 10, 20, quite a few, in addition to your work at
+    Rasa. Do you have any productivity tips?'
+  sec: 2027
+  time: '33:47'
+  who: Alexey
+- line: "A lot of my open source projects happen during my employer\u2019s time. Even\
+    \ if it\u2019s not personal work, I\u2019m still learning and maintaining products\
+    \ on the job, which translates to my open source work. My employer doesn\u2019\
+    t mind, which makes it easier."
+  sec: 2053
+  time: '34:13'
+  who: Vincent
+- line: "I also realized after turning 30 that some activities, like video games,\
+    \ weren\u2019t as fun as I thought. These days, I prefer hanging out with friends,\
+    \ exercising, and spending time at home with my wife and cats."
+  sec: 2084
+  time: '34:44'
+  who: Vincent
+- line: I also use an e-ink drawing tablet. The most productive thing you can do is
+    think through a technical problem before typing a single character. Having the
+    solution conceptually ready prevents wasted effort.
+  sec: 2115
+  time: '35:15'
+  who: Vincent
+- line: Sometimes you need to experiment in a notebook, but many people start coding
+    without a plan, which wastes time. Planning first makes you more productive.
+  sec: 2163
+  time: '36:03'
+  who: Vincent
+- line: I remember your pinned tweet about this. How does it go?
+  sec: 2168
+  time: '36:08'
+  who: Alexey
+- line: "It\u2019s basically: \u201CVincent prefers common sense over hype. Let\u2019\
+    s not solve the wrong problem.\u201D I stand by this, especially in data science.\
+    \ People often optimize a numerical metric without considering errors in the problem\
+    \ translation itself."
+  sec: 2186
+  time: '36:26'
+  who: Vincent
+- line: Coming back to open source, in your opinion, what makes a good open source
+    project?
+  sec: 2225
+  time: '37:05'
+  who: Alexey
+- line: "There are a few things. One concept is stewardship. Being a steward of a\
+    \ project means more than just code; it\u2019s about maintaining the ecosystem\
+    \ around it."
+  sec: 2232
+  time: '37:12'
+  who: Vincent
+- line: "Even if your algorithm is twice as fast, if the documentation isn\u2019t\
+    \ clear, no one will care. Docs, GitHub organization, and a clear onboarding path\
+    \ are crucial."
+  sec: 2260
+  time: '37:40'
+  who: Vincent
+- line: "I like projects that make a real effort. If a project only has API references\
+    \ but no getting started guide, that\u2019s frustrating. The path from knowing\
+    \ nothing to solving a problem must be defined."
+  sec: 2280
+  time: '38:00'
+  who: Vincent
+- line: For larger projects like Clumper, I like a homepage overview, a README with
+    installation, problem description, and contribution info. Then a guides page for
+    getting started and advanced topics. I also include an API reference with pictures
+    for clarity.
+  sec: 2316
+  time: '38:36'
+  who: Vincent
+- line: "I include example pages too. For WhatLies, there\u2019s a page on research\
+    \ and bias in word embeddings, and one on working with Arabic embeddings. Examples\
+    \ give context and make it easier to reproduce results."
+  sec: 2369
+  time: '39:29'
+  who: Vincent
+- line: "Documentation isn\u2019t complete unless there\u2019s both an API and examples.\
+    \ That\u2019s what I aim for in more complex projects: a clear README, tutorials,\
+    \ advanced guides, and example usage."
+  sec: 2398
+  time: '39:58'
+  who: Vincent
+- line: What about a contribution guide? Should that be part of the checklist?
+  sec: 2425
+  time: '40:25'
+  who: Alexey
+- line: Yes, I usually include it. For example, in WhatLies, the README mentions contribution
+    guidelines on GitHub. I try to make it clear that all issues are considered, but
+    I avoid suggesting every issue will be implemented immediately.
+  sec: 2438
+  time: '40:38'
+  who: Vincent
+- line: "One thing about stewardship I want to pay attention to is that I\u2019ve\
+    \ noticed on some of my repos, some people are really unfriendly. You\u2019re\
+    \ just wondering, are you sitting on a bag of nails? What is wrong with you? Why\
+    \ are you so angry that one particular feature isn\u2019t in there? I\u2019m doing\
+    \ volunteer work maintaining this stuff."
+  sec: 2464
+  time: '41:04'
+  who: Vincent
+- line: "Regarding contribution guides and etiquette, I really try to emphasize small\
+    \ things. Don\u2019t write sentences in all caps. It reads as if you\u2019re shouting\
+    \ to me, and I\u2019m doing volunteer work. I try to steer conversations on my\
+    \ issue list in that direction. I remember one guy on WhatLies saying, \u201C\
+    Hey, you\u2019re using Altair, but you should be using Bokeh. It\u2019s way better.\u201D\
+    \ That would lead to a really heated debate, and he wasn\u2019t even willing to\
+    \ contribute. It\u2019s a really weird situation, and it\u2019s something I try\
+    \ to pay attention to."
+  sec: 2488
+  time: '41:28'
+  who: Vincent
+- line: "If you\u2019re starting out, you should probably not worry too much about\
+    \ that, but the basic rule is: don\u2019t use all caps when adding an issue. That\u2019\
+    s rude. Most of us don\u2019t get paid to work on open source; most of us are\
+    \ doing it voluntarily."
+  sec: 2522
+  time: '42:02'
+  who: Vincent
+- line: "Sometimes we work on internal libraries at our company that aren\u2019t necessarily\
+    \ specific to the company. You might think, \u201CI want to release this as an\
+    \ open source project because other people will find it useful.\u201D How do you\
+    \ convince your employer? I consider myself lucky because I\u2019ve been organizing\
+    \ conferences and stuff, so it makes it easier for me to make this claim."
+  sec: 2542
+  time: '42:22'
+  who: Vincent
+- line: "I can approach my employer and say, \u201CHiring people is marketing. If\
+    \ you want to hire talent, you want to show that your employees work on cool,\
+    \ interesting tools.\u201D Even a small, silly project reflects well. For example,\
+    \ there\u2019s a library that allows you to make Matplotlib charts in the command\
+    \ line ASCII art, following the Matplotlib API. It\u2019s silly, but people notice.\
+    \ If a company produces fun, useful tools, it attracts attention."
+  sec: 2578
+  time: '42:58'
+  who: Vincent
+- line: "Open source projects get attention, and presenting them at conferences is\
+    \ good for morale and hiring. Some companies gain visibility because their employees\
+    \ present open source work. I\u2019ve seen a case where Basecamp stopped spending\
+    \ on marketing and instead built a \u201Cgarbage fire\u201D literally a conveyor\
+    \ belt burning things people emailed in. It was silly but drove traffic and engagement."
+  sec: 2625
+  time: '43:45'
+  who: Vincent
+- line: Convincing your employer depends on your company. Financial companies may
+    have stricter rules due to legal concerns. But most tech companies are hiring,
+    and showing open source contributions helps with employer branding. Some companies
+    even allow one day per month dedicated to open source.
+  sec: 2700
+  time: '45:00'
+  who: Vincent
+- line: You can also view this as training. Early in the year, you may not be comfortable
+    contributing; by the end of the year, you are. Investing time in your team this
+    way often results in more original, meaningful contributions.
+  sec: 2762
+  time: '46:02'
+  who: Vincent
+- line: 'We have a question from Mikhail: any advice for someone starting their data
+    science career and wanting to give their first conference talk?'
+  sec: 2797
+  time: '46:37'
+  who: Alexey
+- line: "Two things: first, imagine the reviewer\u2019s perspective. Every conference\
+    \ has a committee deciding which talks are interesting. Second, write your proposal\
+    \ so it\u2019s engaging. Would you attend this talk yourself? That\u2019s the\
+    \ first filter."
+  sec: 2810
+  time: '46:50'
+  who: Vincent
+- line: "Conference style varies. At PyData Amsterdam, the vibe was playful and community-focused.\
+    \ Silly but educational talks were encouraged. One favorite example: someone analyzed\
+    \ metal lyrics to find the \u201Cmost metal\u201D English words. They never thought\
+    \ it would be a Python talk, but it was amazing. I even offered to help them prepare\
+    \ for the stage."
+  sec: 2848
+  time: '47:28'
+  who: Vincent
+- line: "Many people don\u2019t realize their ideas are interesting. Even quirky observations\
+    \ about APIs or datasets can make good talks. The key is communicating why it\u2019\
+    s engaging if read out of context."
+  sec: 2913
+  time: '48:33'
+  who: Vincent
+- line: "Contributing to open source isn\u2019t enough to consider submitting a conference\
+    \ proposal. If your work becomes open source, it\u2019s great for employer branding.\
+    \ Talks showcase your skills and your company."
+  sec: 2964
+  time: '49:24'
+  who: Vincent
+- line: Even simple projects can make interesting talks. For example, scraping Meetup
+    data, exploring outliers, and visualizing results with Neo4j can be educational
+    and entertaining. Half the audience may already know the tools, the other half
+    learns something new.
+  sec: 2994
+  time: '49:54'
+  who: Vincent
+- line: "The best talks are entertaining while teaching. If you achieve both, that\u2019\
+    s ideal. Showing how tools can be combined to solve problems is especially valuable\
+    \ for newcomers."
+  sec: 3055
+  time: '50:55'
+  who: Vincent
+- line: 'We have another related question: how can open source help you land a job
+    or establish a company?'
+  sec: 3062
+  time: '51:02'
+  who: Alexey
+- line: "I\u2019ll try to give advice, but I\u2019ve been ridiculously privileged\
+    \ in the way I\u2019ve been hired. It\u2019s hard for me to know what it\u2019\
+    s like to start out, because in the last ten years, every company that hired me,\
+    \ I didn\u2019t have to talk to a recruiter it was always the CTO reaching out.\
+    \ That\u2019s how the ball got rolling, so it\u2019s hard for me to give proper\
+    \ advice."
+  sec: 3076
+  time: '51:16'
+  who: Vincent
+- line: "In the end, it\u2019s about showing the other party that you might be a team\
+    \ member who will make them better at something. I wouldn\u2019t worry too much\
+    \ about joining an established company. There are lots of interesting ways to\
+    \ learn."
+  sec: 3105
+  time: '51:45'
+  who: Vincent
+- line: "For example, I know someone who wanted to work somewhere to learn from others.\
+    \ They found a local municipality job with zero talent in that area. They realized\
+    \ that meant they would have control over what they learned and be paid to figure\
+    \ things out. So you don\u2019t necessarily have to join an established company\
+    \ you can join something smaller and local and learn that way."
+  sec: 3126
+  time: '52:06'
+  who: Vincent
+- line: How does contributing to open source help you get a job?
+  sec: 3167
+  time: '52:47'
+  who: Alexey
+- line: "It\u2019s helpful. Back when I was consulting, if someone had contributed\
+    \ meaningful things to open source projects we used with clients, that showed\
+    \ they understood the tools. That alone isn\u2019t enough to guarantee a hire,\
+    \ but it\u2019s a plus. Don\u2019t over-stress it. If you have family and don\u2019\
+    t do open source in the evenings, that\u2019s fine. Companies often value a capable,\
+    \ enjoyable colleague more than open source contributions."
+  sec: 3172
+  time: '52:52'
+  who: Vincent
+- line: "Open source can help convince the other side of your capability. Giving talks\
+    \ or presenting interesting projects is another way to demonstrate skill. My most\
+    \ popular talk was on simple linear models, mostly linear regression. It got the\
+    \ most views ever. You don\u2019t need fancy, state-of-the-art work; if you explain\
+    \ a problem well, it\u2019s enough. Entertain and teach."
+  sec: 3196
+  time: '53:16'
+  who: Vincent
+- line: "When reviewing talks, both teaching and entertainment matter. You don\u2019\
+    t need to do both perfectly; even teaching alone is valuable. Sharing links to\
+    \ your talks is useful."
+  sec: 3314
+  time: '55:14'
+  who: Vincent
+- line: You mentioned that early in your career, CTOs reached out to you. How did
+    that happen?
+  sec: 3326
+  time: '55:26'
+  who: Alexey
+- line: "Luck played a large role. It usually started with meetups. I began giving\
+    \ free R trainings to app developers, teaching them how to analyze user data.\
+    \ People remember someone who helps them, and if the training was good, they would\
+    \ refer you. It\u2019s about being visible and meeting people."
+  sec: 3360
+  time: '56:00'
+  who: Vincent
+- line: "It\u2019s not just open source; teaching, giving trainings, and being present\
+    \ in the community helps. When I started, I was the first person I knew to call\
+    \ themselves a data scientist. Skills back then were enough to get started. I\
+    \ had experience building recommenders for companies that didn\u2019t have them\
+    \ yet. Timing and location mattered too being in Amsterdam helped attract speakers\
+    \ and attention."
+  sec: 3434
+  time: '57:14'
+  who: Vincent
+- line: "Today, you might focus on free training for cloud tools instead of R. YouTube\
+    \ and online resources weren\u2019t as abundant back then. I would negotiate with\
+    \ companies for rooms to give trainings on weekends, which taught life skills."
+  sec: 3522
+  time: '58:42'
+  who: Vincent
+- line: "When starting talks, choose topics that energize you and are feasible. My\
+    \ first conference talk used World of Warcraft auction house data to find a hack\
+    \ for the game. Planning a topic in advance that\u2019s fun and personal helps.\
+    \ The room was full, mostly active players discussing the analysis it was entertaining\
+    \ and unexpected."
+  sec: 3584
+  time: '59:44'
+  who: Vincent
+- line: We have a question about your role as a research advocate. How is it called
+    elsewhere?
+  sec: 3695
+  time: '1:01:35'
+  who: Alexey
+- line: "It\u2019s similar to developer evangelism. When I joined, I didn\u2019t realize\
+    \ \u201Cdeveloper advocate\u201D was a career path. Some companies have clear\
+    \ developer advocate roles. My marketing team has a senior developer advocate,\
+    \ Rachel, who was at Kaggle before. Certain companies expect developer advocates\
+    \ to attend big conferences, but expectations vary."
+  sec: 3712
+  time: '1:01:52'
+  who: Vincent
+- line: "As a research advocate, I try teaching people how to make virtual assistants.\
+    \ I also experiment with automating tasks in Slack, turning markdown files into\
+    \ Slackbots. Sometimes it works, sometimes it\u2019s crazy but it\u2019s a two-way\
+    \ communication with researchers. They ask me to test ideas in the community,\
+    \ and I provide feedback."
+  sec: 3824
+  time: '1:03:44'
+  who: Vincent
+- line: Thanks for sharing your experience, even though we sidetracked from open source.
+  sec: 3938
+  time: '1:05:38'
+  who: Alexey
+- line: I learned a lot too, especially about naming open source libraries.
+  sec: 3951
+  time: '1:05:51'
+  who: Vincent
+- line: Thanks to everyone who attended the event.
+  sec: 3964
+  time: '1:06:04'
+  who: Alexey
+- line: Yes, thanks everyone.
+  sec: 3973
+  time: '1:06:13'
+  who: Vincent
 ---
 
 Today we're talking open source with our guest, **Vincent Warmerdam**. Vincent is a Research Advocate at Rasa. If you check his LinkedIn, you'll see a lot: he's made Reddit's front page, runs calmcode.io for learning to code, has organized PyData Amsterdam and AI Saturdays Amsterdam, and he's a data evangelist and open-source enthusiast who's created and maintains several open-source packages. And—last but not least—he has over 80 LinkedIn endorsements for "awesomeness." Welcome, Vincent!
