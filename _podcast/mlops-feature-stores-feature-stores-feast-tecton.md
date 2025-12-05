@@ -115,6 +115,823 @@ quotableClips:
   url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=3450
   endOffset: 3450
 
+transcript:
+- line: Hello everyone. This event is brought to you by DataTalks.Club, a community
+    of people who love data. We host two types of events. On Tuesdays, we usually
+    have technical events with presentations, like workshops.
+  sec: 0
+  time: 0:00
+  who: Alexey
+- line: Today is Tuesday, but this event is different, and I'll explain why in a moment.
+    I can briefly share our plans for the future. Next month, in February, we will
+    have a conference on Fridays, which I will discuss shortly.
+  sec: 16
+  time: 0:16
+  who: Alexey
+- line: "In March, during the first week, we will have a workshop about building scalable\
+    \ end-to-end data pipelines, specifically deep learning pipelines in the cloud.\
+    \ The following week, we will talk about active learning and self-supervised learning.\
+    \ Usually on Fridays, we host live podcast sessions where we discuss various topics.\
+    \ Today, even though it\u2019s not a Friday, we have a similar event."
+  sec: 35
+  time: 0:35
+  who: Alexey
+- line: "This is not a workshop; it\u2019s a conversation about feature stores. In\
+    \ March, we will also cover public speaking in the first week and then discuss\
+    \ Datums. Speaking of conferences, this week we have the first day of the conference\
+    \ on Friday. We will cover machine learning use cases with four examples: reinforcement\
+    \ learning, food industry applications, healthcare, and manufacturing."
+  sec: 67
+  time: '1:07'
+  who: Alexey
+- line: Next week, we will discuss products and processes, followed by career opportunities
+    in data. Finally, during the last week of February, we will focus on machinery
+    and production. You can read more about this event on our website, datatalks.club.
+  sec: 110
+  time: '1:50'
+  who: Alexey
+- line: "We also have support from our friends at O'Reilly and the Machine Learning\
+    \ Ops community. During our chat with Willem, we will use Slido for questions.\
+    \ I\u2019ll share a link in the chat now."
+  sec: 122
+  time: '2:02'
+  who: Alexey
+- line: Whenever you have a question, feel free to use Slido to submit it.
+  sec: 156
+  time: '2:36'
+  who: Alexey
+- line: Last week, we talked about MLOps, including machine learning platforms. One
+    component of these platforms is a feature store. This week, we will discuss this
+    topic in more detail with Willem. Willem is the creator of Feast, an open-source
+    feature store. Previously, he worked at Gojek, where he led the data science platform
+    team. He currently works at Tecton, a company that develops a feature store.
+  sec: 169
+  time: '2:49'
+  who: Alexey
+- line: Welcome, Willem.
+  sec: 208
+  time: '3:28'
+  who: Alexey
+- line: "Thanks, Alexey. I\u2019m happy to be here."
+  sec: 211
+  time: '3:31'
+  who: Willem
+- line: Before we dive into feature stores, can you tell us a bit more about your
+    background and your journey so far?
+  sec: 213
+  time: '3:33'
+  who: Alexey
+- line: "Sure. I\u2019ll give a one to two-minute summary. I\u2019m South African\
+    \ and grew up there. I studied mechatronic engineering. During university, I built\
+    \ a networking company, which I eventually sold. Then I moved into control systems\
+    \ and automation, bridging traditional engineering and software."
+  sec: 220
+  time: '3:40'
+  who: Willem
+- line: I worked in that industry for about three years, then moved to Asia, where
+    I worked across the stack from low-level electronics to cloud solutions. We built
+    vertically integrated solutions for large MNCs and eventually focused on large
+    data solutions and analytical warehousing for about two years.
+  sec: 256
+  time: '4:16'
+  who: Willem
+- line: After that, I moved to Singapore and became the first engineering hire for
+    a machine learning, or at the time, data science team at Gojek. At that stage,
+    Gojek was a unicorn valued at about a billion dollars. They had a lot of interesting
+    products and data but were not using it effectively.
+  sec: 288
+  time: '4:48'
+  who: Willem
+- line: "They hired many data scientists but couldn\u2019t get them into production.\
+    \ They embedded us as engineers and asked me to lead the team to help productionize\
+    \ the data scientists\u2019 work. Traditional product engineers were busy with\
+    \ other responsibilities, so they couldn\u2019t handle this. I led that team for\
+    \ about four years."
+  sec: 312
+  time: '5:12'
+  who: Willem
+- line: After building the ML platform at Gojek and leading that team, I moved to
+    Tecton. A large part of my focus at Gojek was building feature stores, which is
+    also my primary focus at Tecton.
+  sec: 348
+  time: '5:48'
+  who: Willem
+- line: "That\u2019s an interesting journey. As a mechanical engineer, did you learn\
+    \ to code at university?"
+  sec: 361
+  time: '6:01'
+  who: Alexey
+- line: "Technically, it was mechatronics, but most of the focus was on mechanical\
+    \ aspects. About 70% of it didn\u2019t interest me much. The software aspect was\
+    \ always the most interesting and relevant to what I do today."
+  sec: 369
+  time: '6:09'
+  who: Willem
+- line: "That\u2019s impressive from low-level work to cloud. So, what exactly are\
+    \ feature stores, why do we need them, and what problems do they solve?"
+  sec: 389
+  time: '6:29'
+  who: Alexey
+- line: Feature stores solve multiple problems. Essentially, a feature store is an
+    operational data system designed specifically for machine learning. It addresses
+    operational problems like moving offline features into an online production environment.
+  sec: 403
+  time: '6:43'
+  who: Willem
+- line: It ensures consistency between online and offline environments, which models
+    require. It allows data scientists to ship features into production without relying
+    on engineers. It provides version control and enables the creation, sharing, and
+    reuse of transformation code.
+  sec: 434
+  time: '7:14'
+  who: Willem
+- line: Companies typically start considering feature stores when features are being
+    duplicated across projects. That duplication signals a problem. Feature stores
+    help monitor features, ensure valid data is served to models, and detect drift
+    or distribution shifts over time.
+  sec: 470
+  time: '7:50'
+  who: Willem
+- line: So, feature stores act as a data storage layer that ensures consistency, is
+    user-friendly for data scientists, supports version control, and simplifies feature
+    reuse.
+  sec: 506
+  time: '8:26'
+  who: Alexey
+- line: "Exactly. Not all feature stores solve the same problems. For example, Feast\
+    \ doesn\u2019t handle transformations, while Tecton\u2019s feature store does.\
+    \ The scope of what a feature store should handle varies, but these are the core\
+    \ problems."
+  sec: 530
+  time: '8:50'
+  who: Willem
+- line: By transformation, do you mean taking raw data from a data lake, applying
+    some function, and then sending it to the feature store?
+  sec: 554
+  time: '9:14'
+  who: Alexey
+- line: Yes. Typically, a feature store sits between raw data and your production
+    ML environment. It can access streams, data warehouses, and data lakes. Transformations
+    can be applied to any of these sources, then served to production, decoupling
+    ML from data infrastructure.
+  sec: 567
+  time: '9:27'
+  who: Willem
+- line: "As a data scientist, I\u2019m used to querying data with SQL. Do feature\
+    \ stores provide a SQL-like interface, or is it different?"
+  sec: 603
+  time: '10:03'
+  who: Alexey
+- line: 'There are two aspects: production creation and retrieval. Most features are
+    pre-computed. Feature stores like Tecton allow transformations via Python, PySpark,
+    or SQL. Once published, features are materialized and persisted in a storage engine
+    like DynamoDB or Redis.'
+  sec: 621
+  time: '10:21'
+  who: Willem
+- line: For retrieval, you normally use an API rather than SQL. A SQL interface for
+    retrieval would defeat the purpose.
+  sec: 662
+  time: '11:02'
+  who: Willem
+- line: "If you provided a SQL interface for retrieval, you wouldn't have the same\
+    \ guarantees in terms of performance and production. Most online models only require\
+    \ key-value enrichment of entity data; they don\u2019t need arbitrary queries\
+    \ executed."
+  sec: 667
+  time: '11:07'
+  who: Willem
+- line: "Some feature stores, like Tecton, do provide on-demand or real-time transformations.\
+    \ For example, in a fraud detection system, incoming requests may include live\
+    \ data attached to an order or booking. Those features are transformed at request\
+    \ time. For the most part, though, features are pre-computed, and that\u2019s\
+    \ where most arbitrary logic is applied."
+  sec: 690
+  time: '11:30'
+  who: Willem
+- line: You mentioned fraud detection. I imagine a scenario where a user goes to an
+    e-commerce store like Amazon and makes a purchase. We have information about the
+    user, and when a transaction happens, we want to predict if it is fraudulent.
+    At that moment, we query our model with the user ID and transaction details. We
+    then ask the feature store, "What are the features for this user ID?"
+  sec: 719
+  time: '11:59'
+  who: Alexey
+- line: "Yes, that\u2019s correct."
+  sec: 766
+  time: '12:46'
+  who: Willem
+- line: "Feature stores are very popular these days. I\u2019m part of the MLOps community,\
+    \ and people discuss them almost every day. Why do you think they are so popular?\
+    \ Why is there so much hype?"
+  sec: 773
+  time: '12:53'
+  who: Alexey
+- line: "The hype is interesting. It\u2019s not just feature stores; ML in general\
+    \ has had a lot of hype. Part of it is competition in the space\u2014employment,\
+    \ marketability, and skills. It\u2019s similar to the Node.js hype in the past."
+  sec: 797
+  time: '13:17'
+  who: Willem
+- line: "A large part is people rebranding their skill sets and becoming niche experts.\
+    \ But feature stores and MLOps also provide real value to companies. Many organizations\
+    \ are digitizing, and those that don\u2019t implement these systems properly may\
+    \ fall behind. Some companies have succeeded because they solved these problems,\
+    \ like Uber\u2019s Michelangelo platform."
+  sec: 828
+  time: '13:48'
+  who: Willem
+- line: "MLOps is critical if you want to use ML at scale. Machine learning platforms\
+    \ have become standard\u2014whether it\u2019s Kubeflow, MLflow, or Seldon, most\
+    \ companies have a stack running models. But data accounts for almost 90% of the\
+    \ equation. The value comes from producing new features, shipping them to production,\
+    \ and iterating constantly."
+  sec: 880
+  time: '14:40'
+  who: Willem
+- line: A feature store sits between your data scientists and your production environment.
+    It acknowledges the value of a system that enables feature reuse and reduces waste.
+    Whether feature stores solve all problems is another matter, but they have massive
+    potential business impact.
+  sec: 906
+  time: '15:06'
+  who: Willem
+- line: So there is hype around MLOps and feature stores, but this hype is warranted?
+  sec: 950
+  time: '15:50'
+  who: Alexey
+- line: Yes. Data science and machine learning engineering have been around for five
+    to ten years. The industry is maturing, and these new tools address hard problems,
+    which is why there is hype.
+  sec: 956
+  time: '15:56'
+  who: Willem
+- line: Most of the remaining hype comes from feature store vendors promoting their
+    software.
+  sec: 988
+  time: '16:28'
+  who: Alexey
+- line: "Let\u2019s take a step back and discuss the problems data science teams usually\
+    \ face. Are these problems more organizational or technical?"
+  sec: 996
+  time: '16:36'
+  who: Alexey
+- line: Both. Individual contributors often focus on technical problems, thinking
+    organizational issues are unique to their company. But many organizational problems
+    are common patterns across organizations.
+  sec: 1009
+  time: '16:49'
+  who: Willem
+- line: Some core technical problems include getting features into production, ensuring
+    online and offline consistency, allowing data scientists to ship data without
+    engineers, enabling transformations, sharing and reuse, and monitoring features
+    for quality.
+  sec: 1038
+  time: '17:18'
+  who: Willem
+- line: These are technical problems, but organizational problems overlap.
+  sec: 1078
+  time: '17:58'
+  who: Willem
+- line: For example, shipping features into production without an engineer is an organizational
+    challenge. Engineers may prioritize their product OKRs over helping data science
+    projects. Data scientists can be treated as second-class citizens, even if they
+    are highly skilled. Their use cases and goals may not be prioritized, yet they
+    are expected to deliver results.
+  sec: 1084
+  time: '18:04'
+  who: Willem
+- line: "Sometimes, organizations don\u2019t fully understand the value data scientists\
+    \ can bring. Failures in data science projects are normal, but organizations may\
+    \ undervalue their contribution. Over time, this is changing."
+  sec: 1133
+  time: '18:53'
+  who: Willem
+- line: Shipping features into production involves organizational friction, because
+    data scientists need to see the results in production to iterate. Sharing and
+    reuse is also an organizational problem. Siloed teams often lack communication
+    channels, infrastructure, or ways to broadcast how features were created, their
+    intent, semantics, and dependencies.
+  sec: 1168
+  time: '19:28'
+  who: Willem
+- line: "There\u2019s a social and trust aspect to sharing and reuse, and that\u2019\
+    s largely the challenge."
+  sec: 1204
+  time: '20:04'
+  who: Willem
+- line: An organizational problem, okay. That makes sense. We have multiple teams,
+    and each team is solving its own problems. They are building their own services
+    and machine learning solutions.
+  sec: 1216
+  time: '20:16'
+  who: Alexey
+- line: At the end, it turns out there is some overlap between the work two teams
+    are doing. They might be solving different problems, but some features, like user-based
+    features or other common features, are the same. They have to implement them from
+    scratch, and this is an organizational problem.
+  sec: 1234
+  time: '20:34'
+  who: Alexey
+- line: I would say a lot of organizations take a flat approach to these teams. They
+    embed them in product teams and verticals. Often, a fraud team and a team doing
+    analytics on user data use the same entity data. The features are common and reusable
+    across teams.
+  sec: 1252
+  time: '20:52'
+  who: Willem
+- line: However, the fraud data science team may have an air of secrecy. They feel
+    that what they are working on should not be exposed to other teams. Those are
+    organizational inefficiencies. From a CDO or CIO perspective, it does not make
+    sense for work and data to be duplicated. This inefficiency could be solved through
+    technology or other means.
+  sec: 1284
+  time: '21:24'
+  who: Willem
+- line: The solution would be to have some sort of central theme or central piece
+    of technology. Perhaps a platform that is common for all teams, and the feature
+    store would be part of this ML platform.
+  sec: 1310
+  time: '21:50'
+  who: Alexey
+- line: Yes, that is correct. At Gojek, you can architect these systems in different
+    ways, but in an ML life cycle, at each stage, you have tools that allow you to
+    progress further. This includes data transformations, storage, model training,
+    model deployment, serving, and experimentation. Feature stores primarily operate
+    in the data transformation and data serving stages.
+  sec: 1327
+  time: '22:07'
+  who: Willem
+- line: The idea is to have a platform with all these capabilities. Data scientists
+    do not need to rely on engineers who are busy with their own work. They can use
+    pre-computed features that are already in the feature store, pull them, and train
+    models.
+  sec: 1363
+  time: '22:43'
+  who: Willem
+- line: You can think of a utopian end state where you do not write any boilerplate.
+    You only write your transformations, iterate easily, deploy, and the results are
+    materialized into offline and online stores. An API allows your model to access
+    features in production or development. You can enrich entities like user IDs with
+    features without needing an engineer.
+  sec: 1409
+  time: '23:29'
+  who: Willem
+- line: Ideally, there is also a validation layer that monitors metrics and ensures
+    that good quality data reaches your model.
+  sec: 1445
+  time: '24:05'
+  who: Willem
+- line: This dream state sounds really impressive. Are there companies that are already
+    there?
+  sec: 1456
+  time: '24:16'
+  who: Alexey
+- line: I cannot speak about that specifically. My employer already provides a product
+    like that.
+  sec: 1466
+  time: '24:26'
+  who: Willem
+- line: Companies like Uber, with Tecton, already have this from a feature store perspective.
+  sec: 1472
+  time: '24:32'
+  who: Willem
+- line: If you have an ML platform and other components, and you plug that into Tecton,
+    you get the complete flow?
+  sec: 1486
+  time: '24:46'
+  who: Alexey
+- line: Yes. If you deploy these with an ML platform, Tecton does not perform upstream
+    transformations. You need a system upstream, like dbt, Airflow, or Spark ETL,
+    to handle transformations.
+  sec: 1492
+  time: '24:52'
+  who: Willem
+- line: Kubeflow pipelines also fall into this category, right?
+  sec: 1517
+  time: '25:17'
+  who: Alexey
+- line: Yes. I would not use Kubeflow pipelines for transformations, but it is a good
+    tool for model training. I consider these separate tools based on the stage of
+    the ML life cycle they address.
+  sec: 1522
+  time: '25:22'
+  who: Willem
+- line: Feast is an open source library you created. What problem does it solve?
+  sec: 1540
+  time: '25:40'
+  who: Alexey
+- line: Feast is a feature store built at Gojek, productionized and operated as part
+    of the ML platform stack. It solves many of the common problems. We aimed to solve
+    online and offline consistency, provide a way to publish data into production
+    without engineers, and support monitoring.
+  sec: 1547
+  time: '25:47'
+  who: Willem
+- line: We did not fully solve sharing and reuse. We did not focus on UI or discovery
+    because many teams were content duplicating code and pipelines. This is often
+    to protect production environments.
+  sec: 1581
+  time: '26:21'
+  who: Willem
+- line: Feast primarily decouples your production ML environment from data infrastructure.
+    It ingests pre-computed features from streams and batch sources, provides an interface
+    to build training data sets in a point-in-time correct way, and gives a unified
+    interface for models to access features online and offline.
+  sec: 1614
+  time: '26:54'
+  who: Willem
+- line: For online serving, we use Redis. Feast was co-developed with Google Cloud
+    and open sourced. I continued developing it at Tecton, where it is one of our
+    focused offerings.
+  sec: 1645
+  time: '27:25'
+  who: Willem
+- line: Feast can be installed on Google Cloud and AWS?
+  sec: 1676
+  time: '27:56'
+  who: Alexey
+- line: Yes. We have generalized it so it can also be deployed on Azure. We recently
+    launched a Terraform deployment for Azure, and of course, GCP is supported.
+  sec: 1681
+  time: '28:01'
+  who: Willem
+- line: Tecton provides an end-to-end package for enterprises. You can use it without
+    setting up the cloud infrastructure yourself.
+  sec: 1698
+  time: '28:18'
+  who: Willem
+- line: Tecton is more full-featured. It covers transformations, user interface, on-demand
+    streaming transformations, batch transformations, monitoring, security, auditability,
+    and compliance. It is targeted at companies that want a complete solution.
+  sec: 1715
+  time: '28:35'
+  who: Willem
+- line: Feast is targeted at teams that are happy to slot a smaller tool into a larger
+    stack. At the end of the day, feature stores are still overloaded and trying to
+    solve many problems.
+  sec: 1754
+  time: '29:14'
+  who: Willem
+- line: Can we step back and discuss the basic components of a feature store? You
+    mentioned offline and online storage. For online, you mentioned Redis or Dynamo.
+    What about offline storage?
+  sec: 1774
+  time: '29:34'
+  who: Alexey
+- line: There is a great blog post I wrote with Mike for Tecton called What Is a Feature
+    Store?. In that post, we describe all the components.
+  sec: 1797
+  time: '29:57'
+  who: Willem
+- line: We'd say there is a transformation or computation engine. You have your upstream
+    data sources such as streams or batch. Then there is the transformation system,
+    such as Spark or SQL in a warehouse, that transforms the data. Then there are
+    storage layers.
+  sec: 1809
+  time: '30:09'
+  who: Willem
+- line: Normally there is offline and online storage. In Tecton, offline storage is
+    an object store like Delta, but you can also use a warehouse like BigQuery or
+    Snowflake. For online storage in Tecton, that is Dynamo or Redis. Normally it
+    is a key-value, low-latency store for online use. Offline storage is typically
+    a big data lake or warehouse, such as Hive, BigQuery, Redshift, or Snowflake.
+  sec: 1822
+  time: '30:22'
+  who: Willem
+- line: Those are the two storage components. Then there is a serving layer, which
+    is normally an API that allows you to read from either the online or offline store.
+    Sometimes an SDK is used as a query generator. Serving is the third component.
+  sec: 1852
+  time: '30:52'
+  who: Willem
+- line: A critical component in a feature store is the registry. Both Feast and Tecton
+    have this. You define schemas that describe where your data is upstream and the
+    transformations to apply. You register this in the registry, and the feature store
+    executes those schemas as infrastructure. It either creates tables in the warehouse
+    or runs computational jobs based on the registry definitions.
+  sec: 1871
+  time: '31:11'
+  who: Willem
+- line: The final component is the monitoring layer. It tracks data being ingested
+    from streams or batch sources, row counts, distributions, and data being read
+    out of the feature store. Teams, especially in fraud, often log features back
+    into a warehouse to validate the data being served to models and ensure there
+    is no drift.
+  sec: 1902
+  time: '31:42'
+  who: Willem
+- line: The five main components are the transformation engine, storage engine, serving
+    layer, registry, and operational monitoring layer. Registries also usually include
+    a user interface for feature discovery and entity discovery.
+  sec: 1934
+  time: '32:14'
+  who: Willem
+- line: Let's say we want to start using a feature store at our organization. It would
+    likely come with a machine learning platform. How would we go about doing this?
+  sec: 1964
+  time: '32:44'
+  who: Alexey
+- line: It depends on the use case. Some use cases are not suitable for a feature
+    store. At Gojek, with 16 or 17 products, we identified cases where a feature store
+    was not necessary. If you only need batch processing, you may not need it. If
+    your use case involves tabular data with online serving needs, like fraud detection,
+    product recommendations, or user risk scores, then a feature store is very valuable.
+  sec: 1976
+  time: '32:56'
+  who: Willem
+- line: Feast adds value in the online serving layer and unified access. You implement
+    it after your transformation pipelines. You already have some system to do transformations,
+    like BigQuery batch or streaming.
+  sec: 2051
+  time: '34:11'
+  who: Willem
+- line: Traditionally, some teams transform data and write it directly into production.
+    We do not recommend that. We recommend pushing streams back to streams and batch
+    data back to the lake or warehouse. The feature store is a layer on top that lets
+    you pick which columns and tables to productionize for serving.
+  sec: 2089
+  time: '34:49'
+  who: Willem
+- line: Feast can read existing transformed data from streams and batch sources. You
+    could also read raw event logs and transform them using Tecton. Typically, feature
+    stores are deployed between your data infrastructure and production serving environments.
+  sec: 2113
+  time: '35:13'
+  who: Willem
+- line: To summarize, if we already have data infrastructure, such as dbt or Airflow,
+    we can add Feast on top of existing pipelines, register schemas for specific tables,
+    and productionize them.
+  sec: 2144
+  time: '35:44'
+  who: Alexey
+- line: Feast would take features from the offline store, like a data lake or Snowflake,
+    and put them in online storage.
+  sec: 2200
+  time: '36:40'
+  who: Alexey
+- line: With Tecton, you can also perform transformations. It can read from logs or
+    events, apply transformations, and produce features.
+  sec: 2220
+  time: '37:00'
+  who: Willem
+- line: With Feast, you point to tables that are already featurized or transformed.
+    With Tecton, you point to raw data in your lake, apply transformations, and compute
+    features.
+  sec: 2238
+  time: '37:18'
+  who: Willem
+- line: You mentioned some cases where a feature store is not a good solution. Can
+    you explain?
+  sec: 2263
+  time: '37:43'
+  who: Alexey
+- line: Feast is not very useful if you only need batch scoring, such as for marketing
+    campaigns. You can handle that with SQL, BigQuery ML, or similar tools. There
+    is no online serving component needed. For Tecton, it can still be valuable because
+    it provides a transformation system and bridges offline and online use cases.
+  sec: 2281
+  time: '38:01'
+  who: Willem
+- line: If we have batch pipelines, when we decide to go online and start serving
+    models, we already have everything and can deploy a web service.
+  sec: 2330
+  time: '38:50'
+  who: Alexey
+- line: Feature stores are great for tabular data online models. For less structured
+    data, such as images or text, they are not the best solution.
+  sec: 2346
+  time: '39:06'
+  who: Alexey
+- line: It depends on the value you get. You can serve binary blobs to production,
+    but for a 2D image, treating it as a 2D array provides little semantic value.
+    Features are normally identified and have intent. Binary blobs are harder to reuse
+    or share between teams. You are serving data for a specific use case but not building
+    efficiency for the team.
+  sec: 2372
+  time: '39:32'
+  who: Willem
+- line: A good use case might be applying a model, such as image classification, and
+    saving the results.
+  sec: 2439
+  time: '40:39'
+  who: Alexey
+- line: Let's say we have a model that outputs the probability that an image is a
+    car and we just save it. In real time, we ask the feature store for the probability
+    for this image ID, and it gives back the prediction. This is a good use case,
+    right?
+  sec: 2450
+  time: '40:50'
+  who: Alexey
+- line: If you are using those outputs as features for downstream systems, that is
+    a great use case. You can have a column like is_car as a binary value and probability_car
+    as a float, like 0.7, to feed a subsequent model. If the input to the model itself
+    is the image, reading the image from the feature store is not a good use case.
+    Normally, incoming requests have a request ID and a URL to S3 where you download
+    the image and feed it to the model.
+  sec: 2476
+  time: '41:16'
+  who: Willem
+- line: The output of that model is something you do want to store in a feature store.
+    At Gojek, we often sent model outputs back into a stream and then read them into
+    the feature store, creating cycles that expand the data foundation. These output
+    models can be reused as features because the model itself is just a transformation.
+  sec: 2535
+  time: '42:15'
+  who: Willem
+- line: If I want to learn more about feature stores as an individual contributor,
+    how should I start?
+  sec: 2578
+  time: '42:58'
+  who: Alexey
+- line: Go to the ML Ops community. There are many resources, especially in the Data
+    Ops and open-source channels. Read blog posts from Tecton. These explain our thinking
+    about feature stores and the category itself.
+  sec: 2596
+  time: '43:16'
+  who: Willem
+- line: For hands-on learning, you can install Feast on your laptop. Go to feast.dev,
+    run Docker Compose, and try the example notebook. This gives sufficient understanding.
+    If your company has a similar use case, you can propose it.
+  sec: 2651
+  time: '44:11'
+  who: Willem
+- line: We have not fully articulated all use cases yet. We plan to produce more content
+    that explains when to use feature stores within an organizational context. The
+    documentation provides guidance even without installing Feast. Some companies,
+    like Monzo, use feature stores differently, such as storing text data.
+  sec: 2691
+  time: '44:51'
+  who: Willem
+- line: What workflow do you recommend for engineering new features, testing offline
+    performance, and ensuring offline and online data matches?
+  sec: 2751
+  time: '45:51'
+  who: Alexey
+- line: Transformations are treated separately. Streaming transformations are handled
+    differently from batch. For batch, you can use dbt or a similar system. Validate
+    during transformations using tools like Great Expectations or TFDV.
+  sec: 2765
+  time: '46:05'
+  who: Willem
+- line: 'Four main validation points are: streaming ingestion and transformation,
+    batch validation before ingestion into the offline store, validation before training,
+    and validation before serving. A feature store provides hooks for these validations.
+    Without a feature store, you need to write boilerplate code to prevent bad data
+    from reaching models.'
+  sec: 2808
+  time: '46:48'
+  who: Willem
+- line: Great Expectations is a tool that allows you to create expectations about
+    your data, profile columns and distributions, and validate new datasets against
+    these expectations. You can layer expectations, such as ranges, distributions,
+    or categorical values. It is mostly focused on batch today, but tools for streaming
+    use cases are emerging.
+  sec: 2887
+  time: '48:07'
+  who: Alexey
+- line: Do you have any opinion on Apache Flink versus Apache Spark for calculating
+    real-time features?
+  sec: 2948
+  time: '49:08'
+  who: Alexey
+- line: We started with Apache Beam. Beam and Flink are similar. Flink has a great
+    API and is highly regarded. We use Spark with Feast because of its ecosystem and
+    connector support. Flink may be superior in raw technology, but Spark can execute
+    in multiple environments, including Hadoop, GCP, Azure, and AWS, making it easier
+    for companies to adopt. Flink is getting there; some cloud providers support it,
+    such as AWS. There is also a Kinesis connector for Flink.
+  sec: 2962
+  time: '49:22'
+  who: Willem
+- line: I remember seeing something like that.
+  sec: 3050
+  time: '50:50'
+  who: Alexey
+- line: All those folks running on-premise or large Hadoop stacks, HDFS, and Hive
+    will eventually need to get onto BigQuery or Snowflake and modernize. For some
+    companies, that will be a 10-year effort.
+  sec: 3055
+  time: '50:55'
+  who: Willem
+- line: What APIs are provided for feature transformations? Is it similar to building
+    Spark or Beam transformations?
+  sec: 3082
+  time: '51:22'
+  who: Alexey
+- line: "In Tecton, it's like PySpark or Spark SQL. If using an existing warehouse,\
+    \ it\u2019s SnowSQL or BigQuery SQL. Online transformations, meaning just-in-time\
+    \ or request-time transformations, are Python. You can write Pandas transformations\
+    \ or other Python transformations. Some teams run Scala transformations in production,\
+    \ but that\u2019s not supported today in Tecton."
+  sec: 3087
+  time: '51:27'
+  who: Willem
+- line: "For Feast, it doesn\u2019t matter. On-demand transformations are requested\
+    \ by many teams, but unifying on-demand, online, and offline aspects is challenging.\
+    \ You need to ensure the same transformations are applied to training datasets."
+  sec: 3124
+  time: '52:04'
+  who: Willem
+- line: At what size of a group does it make sense to build a feature store?
+  sec: 3161
+  time: '52:41'
+  who: Alexey
+- line: Traditionally, when you have multiple use cases, like two or three data scientists
+    with multiple projects, or multiple teams with one project that need sharing and
+    collaboration. We are exploring whether Feast can add value for a single data
+    scientist or single team on a single use case. The current status quo is a platform
+    team addressing multiple solution-oriented teams.
+  sec: 3168
+  time: '52:48'
+  who: Willem
+- line: "If we\u2019re a small startup hiring our first data engineer or data scientist,\
+    \ should we start using a feature store?"
+  sec: 3217
+  time: '53:37'
+  who: Alexey
+- line: "Not initially. If you have only a few features and one model, it\u2019s manageable.\
+    \ A feature store becomes valuable when you want to iterate on models, have multiple\
+    \ use cases, and teams start working independently. Starting with two or three\
+    \ data scientists and engineers doesn\u2019t require it."
+  sec: 3229
+  time: '53:49'
+  who: Willem
+- line: "The biggest friction is transformations. If you already have transformations\
+    \ in one place and add a feature store that allows transformations, now you have\
+    \ two places. Feast doesn\u2019t do transformations, so it slots in easily. With\
+    \ Tecton, you need to decide where transformations live. Greenfield projects may\
+    \ adopt Tecton, and brownfield projects may not migrate."
+  sec: 3292
+  time: '54:52'
+  who: Willem
+- line: Brownfield means an existing project, the opposite of greenfield.
+  sec: 3360
+  time: '56:00'
+  who: Alexey
+- line: What is your take on dbt and feature stores?
+  sec: 3372
+  time: '56:12'
+  who: Alexey
+- line: Data warehouses are dominating the space. Feature stores slot well onto them.
+    If you already have dbt for batch transformations, it solves most of your transformation
+    needs. Analysts can contribute features through SQL. Feature stores can leverage
+    that to drive business value.
+  sec: 3378
+  time: '56:18'
+  who: Willem
+- line: How do you set up features back in time, for historical data?
+  sec: 3456
+  time: '57:36'
+  who: Alexey
+- line: In Feast, the upstream system handles backfill. You run a new ETL pipeline
+    and call the feature store to re-ingest features into the online environment.
+    In Tecton, you change the transformation, and it automatically backfills from
+    a start date for production.
+  sec: 3462
+  time: '57:42'
+  who: Willem
+- line: Who should maintain features in a feature store?
+  sec: 3542
+  time: '59:02'
+  who: Alexey
+- line: The most effective approach is not to gatekeep. Initially, data scientists
+    maintain features. Over time, a central team can step in when features are duplicated
+    or highly reused, creating a golden dataset and coordinating deduplication. Central
+    maintenance is usually driven by feature importance and production impact.
+  sec: 3554
+  time: '59:14'
+  who: Willem
+- line: "What\u2019s the difference between a feature store and a traditional data\
+    \ platform with ETL, preparation, and a good catalog?"
+  sec: 3696
+  time: '1:01:36'
+  who: Alexey
+- line: A feature store is an opinionated data system for operational data for machine
+    learning. Traditional data platforms are not focused on low-latency serving. Feature
+    stores unify online and offline interfaces for ML, ensuring identical results
+    for queries. In theory, a data platform could provide this, but the feature store
+    bridges offline and online ML worlds.
+  sec: 3703
+  time: '1:01:43'
+  who: Willem
+- line: "We still have seven more questions, but we shouldn\u2019t keep you too long."
+  sec: 3789
+  time: '1:03:09'
+  who: Alexey
+- line: You can share the questions in Slack. I or the community can answer them later.
+  sec: 3795
+  time: '1:03:15'
+  who: Willem
+- line: Thanks a lot for coming. I learned a lot about feature stores, when to use
+    them, and when not to. Thanks, everyone, for listening and asking questions.
+  sec: 3809
+  time: '1:03:29'
+  who: Alexey
+- line: Thanks. Have a nice day.
+  sec: 3824
+  time: '1:03:44'
+  who: Willem
 ---
 
 In this episode, we dive deeper into feature stores with Willem, creator of Feast (an open-source feature store). Previously, Willem led the Data Science Platform team at Gojek and now works at Tecton, which develops feature store technology.
