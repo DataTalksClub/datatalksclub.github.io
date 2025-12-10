@@ -499,7 +499,7 @@ Fully free data‑engineering courses that grant both complete access to materia
 ## 14. AI: Spark, Hadoop, and Snowflake for Data Engineering by Pragmatic AI Labs
 
 <figure>
-<img src="/images/posts/2025-12-10-free-data-engineering-courses/ai-spark-hadoop-and-snowflake-for-data-engineering-pragmatic.png" alt="AI: Spark, Hadoop, and Snowflake for Data Engineering course overview" title="AI: Spark, Hadoop, and Snowflake for Data Engineering by Pragmatic AI Labs" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<img src="/images/posts/2025-12-10-free-data-engineering-courses/ai-spark-hadoop-snowflake-data-engineering.png" alt="AI: Spark, Hadoop, and Snowflake for Data Engineering course overview" title="AI: Spark, Hadoop, and Snowflake for Data Engineering by Pragmatic AI Labs" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
 <figcaption><p>AI: Spark, Hadoop, and Snowflake for Data Engineering: Explore essential data‑engineering platforms and optimize them using PySpark and Python</p></figcaption>
 </figure>
 
