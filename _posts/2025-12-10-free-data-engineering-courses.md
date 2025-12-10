@@ -244,7 +244,9 @@ Fully free data‑engineering courses that grant both complete access to materia
 8. **Duration:** 9‑week structured program
 9. **Certificate:** Free certificate after completion
 
-[Data Engineering Zoomcamp](/blog/data-engineering-zoomcamp.html) is a community‑driven, hands‑on bootcamp that teaches how to build production‑grade data pipelines.  Learners work through weekly modules, collaborate via Slack and complete a capstone project; the course emphasizes practical skills and portfolio building.
+[Data Engineering Zoomcamp](/blog/data-engineering-zoomcamp.html) is a free, community‑driven, hands‑on course that teaches how to build production‑grade data pipelines. Learners work through weekly modules, collaborate via Slack and complete a capstone project; the course emphasizes practical skills and portfolio building.
+
+> The next cohort of the Data Engineering Zoomcamp begins January 12, 2026. Learn necessary skills to become a data engineer in 9 weeks and build production-grade data pipelines. [Register now](https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD) to join the course and stay updated.
 
 ## 2. IBM Data Engineering Professional Certificate
 
