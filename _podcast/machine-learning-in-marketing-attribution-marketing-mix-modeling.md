@@ -1,6 +1,7 @@
 ---
-title: "Marketing Data Science: Attribution, Media Mix Modeling, Uplift & Cookieless Tracking"
-short: "Machine Learning in Marketing"
+title: 'Marketing Data Science: Attribution, Media Mix Modeling, Uplift & Cookieless
+  Tracking'
+short: Machine Learning in Marketing
 season: 9
 episode: 1
 guests:
@@ -14,16 +15,30 @@ links:
   apple: https://podcasts.apple.com/us/podcast/machine-learning-in-marketing-juan-orduz/id1541710331?i=1000564219176
   spotify: https://open.spotify.com/episode/0rc8zZjdxr5ncxqH9RDqBV?si=49feb89374554f65
   youtube: https://www.youtube.com/watch?v=jsAxUd_bZpw
-
-description: "Learn attribution, media mix modeling & cookieless tracking to measure uplift, TV/offline impact and automate MMM for faster acquisition & retention"
-intro: "How can marketing teams reliably measure ad impact, allocate budget across channels, and adapt to a cookieless world? In this episode, Juan Orduz — a Berlin-based mathematician and data scientist specializing in statistical learning, time series, Bayesian and geometric methods — walks through practical marketing data science approaches for attribution, media mix modeling (MMM), uplift modeling, and cookieless tracking. <br><br> We cover attribution basics and multi-channel ambiguity, MMM techniques including regression, ad-stock and saturation, and campaign uplift estimation using time-series counterfactuals. Juan explains measuring TV and offline channels, the impact of privacy changes like iOS 14.5 on tracking, and strategies for retention and purchase-frequency modeling. You’ll also hear about uplift A/B testing design, modeling benchmarks (start simple), MMM retraining cadence, learning decay rates with Bayesian regression, and building a marketing data function with the right data integrations and cross-functional collaboration. <br><br> If you want actionable guidance on attribution models, media mix optimization, privacy-aware tracking, and when to choose Bayesian vs frequentist methods, this episode gives clear frameworks, common pitfalls, and learning resources to help practitioners improve measurement and decision-making"
+description: Learn attribution, media mix modeling & cookieless tracking to measure
+  uplift, TV/offline impact and automate MMM for faster acquisition & retention
+intro: How can marketing teams reliably measure ad impact, allocate budget across
+  channels, and adapt to a cookieless world? In this episode, Juan Orduz — a Berlin-based
+  mathematician and data scientist specializing in statistical learning, time series,
+  Bayesian and geometric methods — walks through practical marketing data science
+  approaches for attribution, media mix modeling (MMM), uplift modeling, and cookieless
+  tracking. <br><br> We cover attribution basics and multi-channel ambiguity, MMM
+  techniques including regression, ad-stock and saturation, and campaign uplift estimation
+  using time-series counterfactuals. Juan explains measuring TV and offline channels,
+  the impact of privacy changes like iOS 14.5 on tracking, and strategies for retention
+  and purchase-frequency modeling. You’ll also hear about uplift A/B testing design,
+  modeling benchmarks (start simple), MMM retraining cadence, learning decay rates
+  with Bayesian regression, and building a marketing data function with the right
+  data integrations and cross-functional collaboration. <br><br> If you want actionable
+  guidance on attribution models, media mix optimization, privacy-aware tracking,
+  and when to choose Bayesian vs frequentist methods, this episode gives clear frameworks,
+  common pitfalls, and learning resources to help practitioners improve measurement
+  and decision-making
 topics:
 - marketing
 - machine learning
 dateadded: 2022-05-28
-
 duration: PT00H59M31S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -130,11 +145,6 @@ quotableClips:
   startOffset: 3528
   url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3528
   endOffset: 3622
-- name: Closing Remarks & resource links
-  startOffset: 3622
-  url: https://www.youtube.com/watch?v=jsAxUd_bZpw&t=3622
-  endOffset: 3571
-
 transcript:
 - header: Podcast Introduction
 - header: 'Introduction: Juan Orduz — mathematician and data scientist'

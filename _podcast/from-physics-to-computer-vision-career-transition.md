@@ -1,6 +1,7 @@
 ---
-title: "Switch to Computer Vision & Deep Learning: Roadmap, Kaggle Projects, Mentors & Interview Prep"
-short: "From Physics to Machine Learning"
+title: 'Switch to Computer Vision & Deep Learning: Roadmap, Kaggle Projects, Mentors
+  & Interview Prep'
+short: From Physics to Machine Learning
 season: 3
 episode: 6
 guests:
@@ -14,9 +15,25 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/From-Physics-to-Machine-Learning---Tatiana-Gabruseva-e10r4pl
   spotify: https://open.spotify.com/episode/4Kk7xXfD5t2VHnLDHpdW1y
   apple: https://podcasts.apple.com/us/podcast/from-physics-to-machine-learning-tatiana-gabruseva/id1541710331?i=1000521740775
-
-description: "Master computer vision & deep learning with a clear roadmap: Kaggle projects, mentorship strategies and interview prep to land roles and build deployed models."
-intro: "How do you switch into computer vision and deep learning from a non-industry background — and build a portfolio that lands interviews? In this episode, Tatiana Gabruseva, a Computer Vision/Deep Learning engineer and Kaggle Competitions Master now working as a Senior ML Engineer at Cork University Hospital, maps a practical career-change roadmap. Drawing on her move from a physics PhD during maternity leave, Tatiana covers learning paths (Python, ML/DL courses, SQL, algorithms, system design), hands-on projects (Kaggle competitions, internships, Omdena-style collaborations, end-to-end pet projects with data collection, labeling, deployment and Docker), and where to start Kaggle with minimal Python. <br><br> You’ll hear tactical advice on mentorship — finding and nurturing long-term mentors — plus networking, team building for competitions and papers, and overcoming impostor syndrome with mock interviews and LeetCode practice. She also shares prioritization strategies (Pareto, outsourcing), mental rehearsal techniques, boundary setting, and self-care to avoid burnout. Listen for concrete steps to build portfolio projects, prepare for interviews, and connect with the data science community to accelerate a switch into computer vision and deep learning"
+description: 'Master computer vision & deep learning with a clear roadmap: Kaggle
+  projects, mentorship strategies and interview prep to land roles and build deployed
+  models.'
+intro: How do you switch into computer vision and deep learning from a non-industry
+  background — and build a portfolio that lands interviews? In this episode, Tatiana
+  Gabruseva, a Computer Vision/Deep Learning engineer and Kaggle Competitions Master
+  now working as a Senior ML Engineer at Cork University Hospital, maps a practical
+  career-change roadmap. Drawing on her move from a physics PhD during maternity leave,
+  Tatiana covers learning paths (Python, ML/DL courses, SQL, algorithms, system design),
+  hands-on projects (Kaggle competitions, internships, Omdena-style collaborations,
+  end-to-end pet projects with data collection, labeling, deployment and Docker),
+  and where to start Kaggle with minimal Python. <br><br> You’ll hear tactical advice
+  on mentorship — finding and nurturing long-term mentors — plus networking, team
+  building for competitions and papers, and overcoming impostor syndrome with mock
+  interviews and LeetCode practice. She also shares prioritization strategies (Pareto,
+  outsourcing), mental rehearsal techniques, boundary setting, and self-care to avoid
+  burnout. Listen for concrete steps to build portfolio projects, prepare for interviews,
+  and connect with the data science community to accelerate a switch into computer
+  vision and deep learning
 topics:
 - career transition
 - physics
@@ -26,9 +43,7 @@ topics:
 - academia
 - mentorship
 dateadded: 2021-05-14
-
 duration: PT01H06M13S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -130,11 +145,6 @@ quotableClips:
   startOffset: 3874
   url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=3874
   endOffset: 4058
-- name: 'Where to connect: LinkedIn, Twitter and DataTalks.Club follow-up'
-  startOffset: 4058
-  url: https://www.youtube.com/watch?v=wJPi6Ip9PX0&t=4058
-  endOffset: 3973
-
 transcript:
 - header: Podcast Introduction
 - header: 'Career origin: physics PhD to computer vision deep learning'

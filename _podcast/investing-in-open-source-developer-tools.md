@@ -1,6 +1,7 @@
 ---
-title: "Early-Stage Investing in Open Source Developer Tools: Deal Sourcing, Due Diligence & Commercialization Models"
-short: "Investing in Open-Source Data Tools"
+title: 'Early-Stage Investing in Open Source Developer Tools: Deal Sourcing, Due Diligence
+  & Commercialization Models'
+short: Investing in Open-Source Data Tools
 season: 15
 episode: 2
 guests:
@@ -14,9 +15,27 @@ links:
   apple: https://podcasts.apple.com/us/podcast/investing-in-open-source-data-tools-bela-wiertz/id1541710331?i=1000621912675
   spotify: https://open.spotify.com/episode/6mHnZ3IswczK46UP3MBp4d?si=KkrbjXmJSaiWbq3d9BzTUQ
   youtube: https://www.youtube.com/watch?v=7Bg1JQLnCao
-
-description: "Discover early-stage investing in open-source developer tools: deal sourcing, due diligence, and commercialization models for data, AI & developer tooling startups."
-intro: "How do early-stage investors evaluate open-source developer tools — and what signals actually predict commercial success? In this episode, Bela Wiertz — who invests in early-stage open-source startups at a German family office focused on Data, AI & Developer Tooling — breaks down the investor playbook for sourcing, evaluating, and funding OSS companies. Drawing from hands-on deal flow and due diligence experience, Bela reveals how investors screen GitHub repositories, conduct developer interviews, and assess community engagement beyond vanity metrics like stars. <br><br> We explore the mechanics of open-source commercialization: open-core versus hosted services, enterprise licensing models, support revenue limitations, and why community-driven distribution creates unique investment opportunities. Bela explains practical due diligence techniques (co-investor reference checks, user adoption analysis, founder-market fit), funding stage dynamics from angel to seed rounds, and geographic investment patterns in European OSS startups. Real-world case studies include Hugging Face's AI ecosystem play, Supabase's Firebase alternative, Kong's API gateway monetization, and Qdrant's vector database positioning. <br><br> Listen to understand how investors think about open-source deal sourcing, what community metrics matter for fundraising, and which monetization models actually scale — essential insights for founders building OSS developer tools and investors evaluating this unique category."
+description: 'Discover early-stage investing in open-source developer tools: deal
+  sourcing, due diligence, and commercialization models for data, AI & developer tooling
+  startups.'
+intro: 'How do early-stage investors evaluate open-source developer tools — and what
+  signals actually predict commercial success? In this episode, Bela Wiertz — who
+  invests in early-stage open-source startups at a German family office focused on
+  Data, AI & Developer Tooling — breaks down the investor playbook for sourcing, evaluating,
+  and funding OSS companies. Drawing from hands-on deal flow and due diligence experience,
+  Bela reveals how investors screen GitHub repositories, conduct developer interviews,
+  and assess community engagement beyond vanity metrics like stars. <br><br> We explore
+  the mechanics of open-source commercialization: open-core versus hosted services,
+  enterprise licensing models, support revenue limitations, and why community-driven
+  distribution creates unique investment opportunities. Bela explains practical due
+  diligence techniques (co-investor reference checks, user adoption analysis, founder-market
+  fit), funding stage dynamics from angel to seed rounds, and geographic investment
+  patterns in European OSS startups. Real-world case studies include Hugging Face''s
+  AI ecosystem play, Supabase''s Firebase alternative, Kong''s API gateway monetization,
+  and Qdrant''s vector database positioning. <br><br> Listen to understand how investors
+  think about open-source deal sourcing, what community metrics matter for fundraising,
+  and which monetization models actually scale — essential insights for founders building
+  OSS developer tools and investors evaluating this unique category.'
 dateadded: 2023-07-23
 topics:
 - open source
@@ -25,7 +44,6 @@ topics:
 - fundraising
 - early-stage startups
 duration: PT01H01M26S
-
 quotableClips:
 - name: Episode Start & Welcome
   startOffset: 0
@@ -131,11 +149,6 @@ quotableClips:
   startOffset: 3618
   url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=3618
   endOffset: 3739
-- name: Episode Wrap-Up & Closing Remarks
-  startOffset: 3739
-  url: https://www.youtube.com/watch?v=7Bg1JQLnCao&t=3739
-  endOffset: 3686
-
 transcript:
 - header: Episode Start & Welcome
 - header: 'Guest Overview: Bela’s Role at a Family Office'

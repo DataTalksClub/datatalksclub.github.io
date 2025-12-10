@@ -1,6 +1,6 @@
 ---
-title: "Open Source and Volunteering: Building AI Projects and Career Momentum"
-short: "Make an Impact Through Volunteering Open Source Work"
+title: 'Open Source and Volunteering: Building AI Projects and Career Momentum'
+short: Make an Impact Through Volunteering Open Source Work
 season: 17
 episode: 7
 guests:
@@ -14,7 +14,8 @@ links:
   apple: https://podcasts.apple.com/us/podcast/make-an-impact-through-volunteering-open-source-work/id1541710331?i=1000646627892
   spotify: https://open.spotify.com/episode/7tZSSgv1yAlnoMyB4ggQmb?si=AqDaME2QS26usoZjOEWNtQ
   youtube: https://www.youtube.com/watch?v=aHdaIwOEI8Q
-description: "Learn open source volunteering tactics for AI projects - data sourcing, hackathon MVP strategy, mentorship and portfolio-building to accelerate career momentum."
+description: Learn open source volunteering tactics for AI projects - data sourcing,
+  hackathon MVP strategy, mentorship and portfolio-building to accelerate career momentum.
 topics:
 - computer vision
 - machine learning
@@ -23,7 +24,23 @@ topics:
 - career development
 - mentorship
 - career growth
-intro: "How can volunteering in open source AI projects accelerate your career while delivering tangible community impact? In this episode Sara El-Ateif — Google Developer Expert in Machine Learning, Google PhD Fellow, co-founder of AI Wonder Girls and Evercoach-certified business coach — walks through practical ways to build skills and momentum through volunteering and open source work. <br><br> We cover Sara's path from early AI interest to PhD research in multimodal learning and medical imaging, plus lessons from winning a Google PhD Fellowship. Hear concrete volunteer project case studies — a PTSD chatbot, trash detection, and cervical spine segmentation — and learn data sourcing tactics using Open Images and creative collection. Sara explains how to find opportunities (LinkedIn, social media, mailing lists, WIML), differences between collaboration platforms like Omdena and Fruit Punch AI, and how women-led groups structure projects. <br><br> Listeners will get actionable advice on hackathon strategy, MVP mindset under data/compute constraints, pitching for volunteer roles, building a research network, and the data engineering tasks that matter (pipelines, dashboards, prep). Tune in to discover how open source and volunteering translate into practical experience, referrals, and career traction in machine learning."
+intro: How can volunteering in open source AI projects accelerate your career while
+  delivering tangible community impact? In this episode Sara El-Ateif — Google Developer
+  Expert in Machine Learning, Google PhD Fellow, co-founder of AI Wonder Girls and
+  Evercoach-certified business coach — walks through practical ways to build skills
+  and momentum through volunteering and open source work. <br><br> We cover Sara's
+  path from early AI interest to PhD research in multimodal learning and medical imaging,
+  plus lessons from winning a Google PhD Fellowship. Hear concrete volunteer project
+  case studies — a PTSD chatbot, trash detection, and cervical spine segmentation
+  — and learn data sourcing tactics using Open Images and creative collection. Sara
+  explains how to find opportunities (LinkedIn, social media, mailing lists, WIML),
+  differences between collaboration platforms like Omdena and Fruit Punch AI, and
+  how women-led groups structure projects. <br><br> Listeners will get actionable
+  advice on hackathon strategy, MVP mindset under data/compute constraints, pitching
+  for volunteer roles, building a research network, and the data engineering tasks
+  that matter (pipelines, dashboards, prep). Tune in to discover how open source and
+  volunteering translate into practical experience, referrals, and career traction
+  in machine learning.
 dateadded: 2024-02-29
 duration: PT00H59M34S
 quotableClips:
@@ -119,10 +136,6 @@ quotableClips:
   startOffset: 3497
   url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=3497
   endOffset: 3624
-- name: Closing Remarks and How to Connect
-  startOffset: 3624
-  url: https://www.youtube.com/watch?v=aHdaIwOEI8Q&t=3624
-  endOffset: 3574
 transcript:
 - header: Podcast Introduction
 - header: 'Episode Overview: Volunteering, Open Source & Community Impact'

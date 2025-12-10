@@ -1,6 +1,7 @@
 ---
-title: "Build a Personal Brand: Publish on LinkedIn/Medium, Grow Audience, Monetize with Online Courses"
-short: "Personal Branding"
+title: 'Build a Personal Brand: Publish on LinkedIn/Medium, Grow Audience, Monetize
+  with Online Courses'
+short: Personal Branding
 season: 2
 episode: 8
 guests:
@@ -14,16 +15,29 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Personal-Branding---Admond-Lee-Kin-Lim-ern77e
   spotify: https://open.spotify.com/episode/61Yv13MISTeP5nOVAZpY88
   apple: https://podcasts.apple.com/us/podcast/personal-branding-admond-lee-kin-lim/id1541710331?i=1000511761026
-
-description: "Build a personal brand: publish on LinkedIn & Medium, grow your audience, and monetize with online courses—publishing best practices, course design, growth tips."
-intro: "How do you build a personal brand that actually attracts an audience and turns into revenue? In this episode, Admond Lee Kin Lim — data scientist, writer, speaker, and Data Science Instructor at Hackwagon Academy — breaks down a practical path from first posts to monetizing with online courses. Drawing on his experience at Micron and as an independent consultant and communicator featured in KDnuggets and Medium, Admond defines personal brand purpose and positioning, then walks through the first steps and mindset to start publishing on LinkedIn and Medium. <br><br> You’ll get concrete guidance on formats and best practices for LinkedIn and Medium, idea generation and content frequency, and the tools he uses (BuzzSumo, Feedly and alternatives). We also cover when to add podcasting or audio, offline networking (Lunchclub, 1x1s), conference speaking, and overcoming imposter syndrome. Finally, Admond explains monetization strategies for selling online courses, course design focused on student outcomes, aligning content with your values, balancing frequency vs. quality, and metrics for iteration. Listen for actionable tips, tools, and resource recommendations to grow your audience and monetize your expertise"
+description: 'Build a personal brand: publish on LinkedIn & Medium, grow your audience,
+  and monetize with online courses—publishing best practices, course design, growth
+  tips.'
+intro: How do you build a personal brand that actually attracts an audience and turns
+  into revenue? In this episode, Admond Lee Kin Lim — data scientist, writer, speaker,
+  and Data Science Instructor at Hackwagon Academy — breaks down a practical path
+  from first posts to monetizing with online courses. Drawing on his experience at
+  Micron and as an independent consultant and communicator featured in KDnuggets and
+  Medium, Admond defines personal brand purpose and positioning, then walks through
+  the first steps and mindset to start publishing on LinkedIn and Medium. <br><br>
+  You’ll get concrete guidance on formats and best practices for LinkedIn and Medium,
+  idea generation and content frequency, and the tools he uses (BuzzSumo, Feedly and
+  alternatives). We also cover when to add podcasting or audio, offline networking
+  (Lunchclub, 1x1s), conference speaking, and overcoming imposter syndrome. Finally,
+  Admond explains monetization strategies for selling online courses, course design
+  focused on student outcomes, aligning content with your values, balancing frequency
+  vs. quality, and metrics for iteration. Listen for actionable tips, tools, and resource
+  recommendations to grow your audience and monetize your expertise
 topics:
 - personal brand
 - career growth
 - monetization
 dateadded: 2021-03-05
-
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -97,17 +111,12 @@ quotableClips:
   startOffset: 2970
   url: https://www.youtube.com/watch?v=tQRQnz_aHYQ&t=2970
   endOffset: 3030
-- name: Episode Close and Links to Resources
-  startOffset: 3030
-  url: https://www.youtube.com/watch?v=tQRQnz_aHYQ&t=3030
-  endOffset: 3030
-
 transcript:
-- line: "Let\u2019s start with the second talk of today. We will talk about personal\
-    \ branding and we have a special guest today, Admond. Admond is a data scientist,\
-    \ writer and speaker. He is currently a data science instructor at Hakwagan Academy\
-    \ with a mission to make data science accessible to everyone through education.\
-    \ Welcome, Admond."
+- line: Let’s start with the second talk of today. We will talk about personal branding
+    and we have a special guest today, Admond. Admond is a data scientist, writer
+    and speaker. He is currently a data science instructor at Hakwagan Academy with
+    a mission to make data science accessible to everyone through education. Welcome,
+    Admond.
   sec: 0
   time: 0:00
   who: Alexey
@@ -117,9 +126,9 @@ transcript:
   sec: 6
   time: 0:06
   who: Admond
-- line: "Thanks for coming. Before we move to our main topic about personal branding,\
-    \ let\u2019s start with your background. Can you tell us a bit about your career\
-    \ journey so far"
+- line: Thanks for coming. Before we move to our main topic about personal branding,
+    let’s start with your background. Can you tell us a bit about your career journey
+    so far
   sec: 24
   time: 0:24
   who: Alexey
@@ -145,8 +154,8 @@ transcript:
   sec: 103
   time: '1:43'
   who: Admond
-- line: "Helping people start fits very well with today\u2019s topic. Let\u2019s begin\
-    \ with a simple question. What is personal branding to you What does it mean"
+- line: Helping people start fits very well with today’s topic. Let’s begin with a
+    simple question. What is personal branding to you What does it mean
   sec: 138
   time: '2:18'
   who: Alexey
@@ -192,10 +201,10 @@ transcript:
   sec: 306
   time: '5:06'
   who: Admond
-- line: "Personal branding requires consistency. You cannot share something once a\
-    \ month and expect results. It requires a long term commitment. When your presence\
-    \ stays on people\u2019s minds they think of you when opportunities arise and\
-    \ they reach out. That leads to more chances to grow your career."
+- line: Personal branding requires consistency. You cannot share something once a
+    month and expect results. It requires a long term commitment. When your presence
+    stays on people’s minds they think of you when opportunities arise and they reach
+    out. That leads to more chances to grow your career.
   sec: 324
   time: '5:24'
   who: Admond
@@ -1184,8 +1193,8 @@ transcript:
   sec: 4281
   time: '1:11:21'
   who: Alexey
-- line: "I recommend Andrew\u2019s book The Hundred Page Machine Learning Book. It\
-    \ is a bestseller and easy to understand."
+- line: I recommend Andrew’s book The Hundred Page Machine Learning Book. It is a
+    bestseller and easy to understand.
   sec: 4287
   time: '1:11:27'
   who: Admond

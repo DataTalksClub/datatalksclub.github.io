@@ -1,6 +1,7 @@
 ---
-title: "Analytics for Nonprofits: Build Data Maturity, Teams, Tools & Optimization Strategies"
-short: "Analytics for a Better World"
+title: 'Analytics for Nonprofits: Build Data Maturity, Teams, Tools & Optimization
+  Strategies'
+short: Analytics for a Better World
 season: 13
 episode: 2
 guests:
@@ -14,18 +15,32 @@ links:
   apple: https://podcasts.apple.com/us/podcast/analytics-for-a-better-world-parvathy-krishnan/id1541710331?i=1000602678901
   spotify: https://open.spotify.com/episode/5Xiuu4jMBCMuwkokXbwhE2?si=nGRQrMUaRNa5EINbtJadBA
   youtube: https://www.youtube.com/watch?v=b6x5zZ3C6sQ
-
-description: "Learn nonprofit analytics and data maturity strategies to build teams, choose tools and optimize programs-practical roadmaps, case studies, and open resources"
-intro: "How can nonprofits move from basic reporting to optimization using analytics while building the right teams, tools, and governance? In this episode, Parvathy Krishnan, CTO at Analytics for a Better World and professional doctorate in data science, walks through practical steps for building data maturity in the social sector. Drawing on discovery workshops, fellowship pilots (including a waste-collection optimization project in Nairobi), and partnerships with academic and industry groups, Parvathy explains how to assess needs, design maturity roadmaps, and prioritize short- and long-term goals. <br><br> Listen to learn how to structure nonprofit data teams (analysts, data scientists, engineers, and blended roles), select technology (KoboToolbox, PostgreSQL, dashboards, Python/R, cloud deployment), and implement process and governance practices including privacy, SOPs, and version control. The episode also covers curriculum progression—from descriptive to diagnostic, predictive, and optimization—academy programs for practitioners and executives, open resources on YouTube and GitHub, and real-world optimization use cases like healthcare access and COVID testing lab placement. Ideal for nonprofit leaders, data practitioners, and funders seeking actionable guidance on analytics for nonprofits, data maturity, and optimization strategies"
+description: Learn nonprofit analytics and data maturity strategies to build teams,
+  choose tools and optimize programs-practical roadmaps, case studies, and open resources
+intro: How can nonprofits move from basic reporting to optimization using analytics
+  while building the right teams, tools, and governance? In this episode, Parvathy
+  Krishnan, CTO at Analytics for a Better World and professional doctorate in data
+  science, walks through practical steps for building data maturity in the social
+  sector. Drawing on discovery workshops, fellowship pilots (including a waste-collection
+  optimization project in Nairobi), and partnerships with academic and industry groups,
+  Parvathy explains how to assess needs, design maturity roadmaps, and prioritize
+  short- and long-term goals. <br><br> Listen to learn how to structure nonprofit
+  data teams (analysts, data scientists, engineers, and blended roles), select technology
+  (KoboToolbox, PostgreSQL, dashboards, Python/R, cloud deployment), and implement
+  process and governance practices including privacy, SOPs, and version control. The
+  episode also covers curriculum progression—from descriptive to diagnostic, predictive,
+  and optimization—academy programs for practitioners and executives, open resources
+  on YouTube and GitHub, and real-world optimization use cases like healthcare access
+  and COVID testing lab placement. Ideal for nonprofit leaders, data practitioners,
+  and funders seeking actionable guidance on analytics for nonprofits, data maturity,
+  and optimization strategies
 topics:
 - nonprofit
 - data maturity
 - data science
 - analytics
 dateadded: 2023-03-04
-
 duration: PT00H59M21S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -132,11 +147,6 @@ quotableClips:
   startOffset: 3502
   url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=3502
   endOffset: 3600
-- name: Closing Remarks and links to Academy resources and contact info
-  startOffset: 3600
-  url: https://www.youtube.com/watch?v=b6x5zZ3C6sQ&t=3600
-  endOffset: 3561
-
 transcript:
 - header: Podcast Introduction
 - header: 'Overview: Analytics for a Better World mission and guest intro'

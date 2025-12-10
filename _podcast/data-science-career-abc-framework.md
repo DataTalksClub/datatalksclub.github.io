@@ -1,6 +1,7 @@
 ---
-title: "Data Science Career Guide: ABC Framework (Analyst, Builder, Consultant) & Transition Tips"
-short: "The ABC’s of Data Science"
+title: 'Data Science Career Guide: ABC Framework (Analyst, Builder, Consultant) &
+  Transition Tips'
+short: The ABC’s of Data Science
 season: 2
 episode: 7
 guests:
@@ -14,18 +15,31 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/The-ABCs-of-Data-Science---Danny-Ma-er33oa
   spotify: https://open.spotify.com/episode/5T1Nm3HvrS9oIMH6C2AWcf
   apple: https://podcasts.apple.com/us/podcast/the-abcs-of-data-science-danny-ma/id1541710331?i=1000510794953
-
-description: "Master the Data Science ABC Framework: Analyst, Builder, Consultant. Get SQL, Python, MLOps career tips, project roadmap, transition strategies to land roles."
-intro: "How do you pick the right data science path—and actually make the transition? In this episode, Danny Ma, a recovering data scientist now focused on ML and data engineering, walks through his ABC Framework (Analyst, Builder, Consultant) and pragmatic steps for career moves. Danny, who runs the #DataWithDanny community (4,500+ members) and specializes in analytics, supervised ML, data architecture and digital customer experiments, traces his own shift from SQL/SAS/Excel workflows to Python, Kaggle projects and production systems. <br><br> We cover the ABC Framework origins and definitions: Type A (Analyst) — data exploration, visualization and storytelling; Type B (Builder) — ML engineering, MLOps and production mindset; Type C (Consultant/Leader) — stakeholder persuasion and strategy. Danny shares transition tactics: build projects first, learn theory as needed, core tools (Git, Docker, cloud), practicing engineering via mini-projects and mentorship, portfolio and referral strategies, and when advanced degrees matter. Tune in to get concrete guidance on skills to prioritize, how to gain production experience, and a clear roadmap from SQL → visualization → ML → deep learning to advance your data science career."
+description: 'Master the Data Science ABC Framework: Analyst, Builder, Consultant.
+  Get SQL, Python, MLOps career tips, project roadmap, transition strategies to land
+  roles.'
+intro: 'How do you pick the right data science path—and actually make the transition?
+  In this episode, Danny Ma, a recovering data scientist now focused on ML and data
+  engineering, walks through his ABC Framework (Analyst, Builder, Consultant) and
+  pragmatic steps for career moves. Danny, who runs the #DataWithDanny community (4,500+
+  members) and specializes in analytics, supervised ML, data architecture and digital
+  customer experiments, traces his own shift from SQL/SAS/Excel workflows to Python,
+  Kaggle projects and production systems. <br><br> We cover the ABC Framework origins
+  and definitions: Type A (Analyst) — data exploration, visualization and storytelling;
+  Type B (Builder) — ML engineering, MLOps and production mindset; Type C (Consultant/Leader)
+  — stakeholder persuasion and strategy. Danny shares transition tactics: build projects
+  first, learn theory as needed, core tools (Git, Docker, cloud), practicing engineering
+  via mini-projects and mentorship, portfolio and referral strategies, and when advanced
+  degrees matter. Tune in to get concrete guidance on skills to prioritize, how to
+  gain production experience, and a clear roadmap from SQL → visualization → ML →
+  deep learning to advance your data science career.'
 topics:
 - career transition
 - data science
 - machine learning
 - data analysis
 dateadded: 2021-02-26
-
 duration: PT01H24M57S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -143,11 +157,6 @@ quotableClips:
   startOffset: 4984
   url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=4984
   endOffset: 5121
-- name: Episode Wrap-up, Resources & Next Steps
-  startOffset: 5121
-  url: https://www.youtube.com/watch?v=HVQ0DZOQcts&t=5121
-  endOffset: 5097
-
 transcript:
 - header: Podcast Introduction
 - header: LinkedIn Memes & Creative Editing for Data Audiences

@@ -1,6 +1,6 @@
 ---
-title: "Using Knowledge Graphs & LLMs for Automotive R&D: RAG, Graph ML & Crash Simulation"
-short: "Knowledge Graphs and LLMs Across Academia and Industry"
+title: 'Using Knowledge Graphs & LLMs for Automotive R&D: RAG, Graph ML & Crash Simulation'
+short: Knowledge Graphs and LLMs Across Academia and Industry
 season: 18
 episode: 2
 guests:
@@ -14,7 +14,8 @@ links:
   apple: https://podcasts.apple.com/us/podcast/knowledge-graphs-and-llms-across-academia-and/id1541710331?i=1000651561079
   spotify: https://open.spotify.com/episode/1yDgx6uNaSQxKTjGU1qtIj?si=g0xQjWmDTRinzxhoYV3sdA
   youtube: https://www.youtube.com/watch?v=YncdlUscUOo
-description: "Learn Knowledge Graphs, LLMs & RAG for automotive R&D: optimize crash simulation, apply Graph ML to FEA, reduce hallucination and speed prototyping"
+description: 'Learn Knowledge Graphs, LLMs & RAG for automotive R&D: optimize crash
+  simulation, apply Graph ML to FEA, reduce hallucination and speed prototyping'
 topics:
 - LLMs
 - knowledge graphs
@@ -22,7 +23,23 @@ topics:
 - retrieval-augmented generation
 - embeddings
 - vector databases
-intro: "How can knowledge graphs and large language models (LLMs) be combined to accelerate automotive R&D — from crash simulation insights to reproducible reports? In this episode Anahita Pakiman, a data scientist-engineer who moved from mechanical engineering and finite element analysis (FEA) into applied AI and now works as Senior Knowledge Graph-Data Scientist Consultant at brox IT-Solutions, walks through practical strategies and tradeoffs. <br><br> We cover FEA vs machine learning, optimization and topology in crash simulations, and why teams adopt Neo4j for semantic reporting and load-path detection. Anahita explains graph vs tabular representations, moving from knowledge graphs to computational graphs with NetworkX, and applying Graph Data Science and Graph ML techniques like SimRank. She demonstrates grounding LLMs with retrieval-augmented generation (RAG), contrasts embeddings and vector databases with KG semantics, and shows Cypher-driven prompt templates. The episode also addresses trust, hallucination and verification limits of LLM-extracted knowledge, plus the ADPT-LRN-PHYS project for adaptive paper reading and graph visualization. <br><br> Listen to learn concrete approaches for combining knowledge graphs, RAG, graph ML and LLMs to improve crash simulation analysis, semantic reporting, and deployable pipelines for automotive R&D."
+intro: How can knowledge graphs and large language models (LLMs) be combined to accelerate
+  automotive R&D — from crash simulation insights to reproducible reports? In this
+  episode Anahita Pakiman, a data scientist-engineer who moved from mechanical engineering
+  and finite element analysis (FEA) into applied AI and now works as Senior Knowledge
+  Graph-Data Scientist Consultant at brox IT-Solutions, walks through practical strategies
+  and tradeoffs. <br><br> We cover FEA vs machine learning, optimization and topology
+  in crash simulations, and why teams adopt Neo4j for semantic reporting and load-path
+  detection. Anahita explains graph vs tabular representations, moving from knowledge
+  graphs to computational graphs with NetworkX, and applying Graph Data Science and
+  Graph ML techniques like SimRank. She demonstrates grounding LLMs with retrieval-augmented
+  generation (RAG), contrasts embeddings and vector databases with KG semantics, and
+  shows Cypher-driven prompt templates. The episode also addresses trust, hallucination
+  and verification limits of LLM-extracted knowledge, plus the ADPT-LRN-PHYS project
+  for adaptive paper reading and graph visualization. <br><br> Listen to learn concrete
+  approaches for combining knowledge graphs, RAG, graph ML and LLMs to improve crash
+  simulation analysis, semantic reporting, and deployable pipelines for automotive
+  R&D.
 dateadded: 2024-04-07
 duration: PT00H59M24S
 quotableClips:
@@ -111,10 +128,6 @@ quotableClips:
   startOffset: 3466
   url: https://www.youtube.com/watch?v=YncdlUscUOo&t=3466
   endOffset: 3641
-- name: Episode Conclusion and Takeaways
-  startOffset: 3641
-  url: https://www.youtube.com/watch?v=YncdlUscUOo&t=3641
-  endOffset: 3564
 transcript:
 - header: Episode Introduction
 - header: 'Guest Bio: career path from mechanical engineering to applied AI'

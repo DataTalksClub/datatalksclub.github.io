@@ -1,6 +1,7 @@
 ---
-title: "Actionable Biohacks to Boost Productivity: Sleep, Circadian Light, Dopamine & Habits"
-short: "Biohacking for Data Scientists and ML Engineers"
+title: 'Actionable Biohacks to Boost Productivity: Sleep, Circadian Light, Dopamine
+  & Habits'
+short: Biohacking for Data Scientists and ML Engineers
 season: 13
 episode: 3
 guests:
@@ -14,16 +15,29 @@ links:
   apple: https://podcasts.apple.com/us/podcast/biohacking-for-data-scientists-and-ml-engineers/id1541710331?i=1000603633848
   spotify: https://open.spotify.com/episode/6IuHKMK4CJdcVJNq9uQ9lm?si=PgXZHBCNSu21Nma1ToxGyQ
   youtube: https://www.youtube.com/watch?v=uyxUBADZYpU
-
-description: "Discover actionable biohacks for sleep and dopamine to boost productivity with 90-min cycles, morning light, habit tracking and energy-focused routines"
-intro: "How do small, science-aligned biohacks actually move the needle on focus and productivity? In this episode, Ruslan Shchuchkin, a Berlin-based data scientist who transitioned from business/marketing into data science after experimenting with many techniques to stay focused, walks through practical, evidence-minded strategies for improving performance. We cover the root causes of procrastination and perfectionism, behavioral biohacking versus chemical interventions, and how dopamine-driven problem-solving fuels habits. Ruslan explains meditation and NSDR for prefrontal focus, morning sun and circadian light exposure to regulate cortisol and melatonin, and daylight lamps and wake lighting for low-daylight homes. He shares sleep planning tips based on 90-minute cycles, protein-forward nutrition for sustained focus, and caffeine timing trade-offs. You’ll also hear about habit tracking (logs and Notion dashboards), voluntary discomfort as a dopamine reset, failed experiments worth avoiding, safety considerations, and a simple prioritization framework. If you want actionable biohacks—sleep, circadian light, dopamine management, habit tracking, and meditation—to boost sustainable productivity, this episode offers concrete, practical steps grounded in real-world experience"
+description: Discover actionable biohacks for sleep and dopamine to boost productivity
+  with 90-min cycles, morning light, habit tracking and energy-focused routines
+intro: How do small, science-aligned biohacks actually move the needle on focus and
+  productivity? In this episode, Ruslan Shchuchkin, a Berlin-based data scientist
+  who transitioned from business/marketing into data science after experimenting with
+  many techniques to stay focused, walks through practical, evidence-minded strategies
+  for improving performance. We cover the root causes of procrastination and perfectionism,
+  behavioral biohacking versus chemical interventions, and how dopamine-driven problem-solving
+  fuels habits. Ruslan explains meditation and NSDR for prefrontal focus, morning
+  sun and circadian light exposure to regulate cortisol and melatonin, and daylight
+  lamps and wake lighting for low-daylight homes. He shares sleep planning tips based
+  on 90-minute cycles, protein-forward nutrition for sustained focus, and caffeine
+  timing trade-offs. You’ll also hear about habit tracking (logs and Notion dashboards),
+  voluntary discomfort as a dopamine reset, failed experiments worth avoiding, safety
+  considerations, and a simple prioritization framework. If you want actionable biohacks—sleep,
+  circadian light, dopamine management, habit tracking, and meditation—to boost sustainable
+  productivity, this episode offers concrete, practical steps grounded in real-world
+  experience
 topics:
 - biohacking
 - productivity
 dateadded: 2023-03-11
-
 duration: PT00H57M58S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -117,11 +131,6 @@ quotableClips:
   startOffset: 3443
   url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3443
   endOffset: 3533
-- name: Key Takeaways, Next Steps, and Episode Close
-  startOffset: 3533
-  url: https://www.youtube.com/watch?v=uyxUBADZYpU&t=3533
-  endOffset: 3478
-
 transcript:
 - header: Podcast Introduction
 - header: Episode Overview & Guest Introduction

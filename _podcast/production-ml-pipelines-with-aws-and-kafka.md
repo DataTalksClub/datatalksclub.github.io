@@ -1,6 +1,7 @@
 ---
-title: "From Notebooks to Production: Build Data Pipelines & Deploy ML (AWS, Kafka, Streaming)"
-short: "Build Your Own Data Pipeline"
+title: 'From Notebooks to Production: Build Data Pipelines & Deploy ML (AWS, Kafka,
+  Streaming)'
+short: Build Your Own Data Pipeline
 season: 4
 episode: 2
 guests:
@@ -14,18 +15,32 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Build-Your-Own-Data-Pipeline---Andreas-Kretz-e139se1
   spotify: https://open.spotify.com/episode/0fFRCAYFCReMxEiq2RDVak
   apple: https://podcasts.apple.com/us/podcast/build-your-own-data-pipeline-andreas-kretz/id1541710331?i=1000527643914
-
-description: "Learn to build data pipelines and deploy ML on AWS: productionize notebooks, cut ops risk, choose cost-effective serving and orchestration."
-intro: "How do you move models out of notebooks and into reliable production data pipelines using AWS, Kafka, and streaming architectures? In this episode, Andreas Kretz — the “Plumber of Data Science” — walks through the practical steps engineers and data scientists need to productionize notebooks and deploy ML systems. <br><br> Andreas, a data engineer focused on platform architecture, explains why data engineering demand is rising and why teams should hire both a data scientist and engineer early. We cover the anatomy of data pipelines — ingestion (events, Kafka/Kinesis), buffering, processing (streaming vs. batch), storage (Parquet on S3) and visualization — plus processing frameworks like Spark, Flink, Glue, and Docker jobs. Andreas outlines a pragmatic stack for scientists: Python, Docker, Flask/FastAPI for prototypes, and how to choose orchestration and scheduling (Lambda/CloudWatch, Airflow, Kubernetes, message queues). You’ll also hear about inference strategies, SageMaker endpoints vs precomputed predictions, model storage, and operational trade-offs. <br><br> Listen to gain actionable guidance on building data pipelines, deploying ML on AWS, selecting tools, and getting from prototype to production with minimal operational risk. Find practical learning paths and project ideas to accelerate your data engineering skills."
+description: 'Learn to build data pipelines and deploy ML on AWS: productionize notebooks,
+  cut ops risk, choose cost-effective serving and orchestration.'
+intro: 'How do you move models out of notebooks and into reliable production data
+  pipelines using AWS, Kafka, and streaming architectures? In this episode, Andreas
+  Kretz — the “Plumber of Data Science” — walks through the practical steps engineers
+  and data scientists need to productionize notebooks and deploy ML systems. <br><br>
+  Andreas, a data engineer focused on platform architecture, explains why data engineering
+  demand is rising and why teams should hire both a data scientist and engineer early.
+  We cover the anatomy of data pipelines — ingestion (events, Kafka/Kinesis), buffering,
+  processing (streaming vs. batch), storage (Parquet on S3) and visualization — plus
+  processing frameworks like Spark, Flink, Glue, and Docker jobs. Andreas outlines
+  a pragmatic stack for scientists: Python, Docker, Flask/FastAPI for prototypes,
+  and how to choose orchestration and scheduling (Lambda/CloudWatch, Airflow, Kubernetes,
+  message queues). You’ll also hear about inference strategies, SageMaker endpoints
+  vs precomputed predictions, model storage, and operational trade-offs. <br><br>
+  Listen to gain actionable guidance on building data pipelines, deploying ML on AWS,
+  selecting tools, and getting from prototype to production with minimal operational
+  risk. Find practical learning paths and project ideas to accelerate your data engineering
+  skills.'
 topics:
 - data engineering
 - machine learning
 - production
 - tools
 dateadded: 2021-07-02
-
 duration: PT01H01M15S
-
 quotableClips:
 - name: Episode Introduction & Andreas Kretz — "Plumber of Data Science"
   startOffset: 116
@@ -143,11 +158,6 @@ quotableClips:
   startOffset: 3536
   url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=3536
   endOffset: 3725
-- name: 'Find Andreas & Resources: LearnDataEngineering, YouTube, Telegram'
-  startOffset: 3725
-  url: https://www.youtube.com/watch?v=IrZPAG6OBqo&t=3725
-  endOffset: 3675
-
 transcript:
 - header: Episode Introduction & Andreas Kretz — "Plumber of Data Science"
 - line: Today we'll talk about learning how to build data pipelines for data scientists.

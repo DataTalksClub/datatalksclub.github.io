@@ -1,6 +1,7 @@
 ---
-title: "How to Build Data Governance in the Cloud: Classification, Catalogs, Policies & ROI"
-short: "Data Governance"
+title: 'How to Build Data Governance in the Cloud: Classification, Catalogs, Policies
+  & ROI'
+short: Data Governance
 season: 3
 episode: 10
 guests:
@@ -15,17 +16,31 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Data-Governance---Jessi-Ashdown--Uri-Gilad-e12jmoo
   spotify: https://open.spotify.com/episode/2zaLMrgbIgVkVEWY09b1Wn
   apple: https://podcasts.apple.com/us/podcast/data-governance-jessi-ashdown-uri-gilad/id1541710331?i=1000525176805
-
-description: "Learn data governance in the cloud: build data classification, catalogs & policies, automate tagging, add stewards and measure ROI for trusted, compliant data"
-intro: "How do you build data governance in the cloud that enables access, meets regulation, and demonstrates ROI? In this episode, Jessi Ashdown, Senior UX Researcher for Google Cloud, and Uri Gilad, Product Manager for Data Governance at Google Cloud, walk through practical approaches to data governance in the cloud—grounded in real user research and product experience. <br><br> They define governance beyond security and PII, explain how GDPR and high-profile events like Cambridge Analytica accelerated adoption, and outline the core components: people, processes, and tools. Key topics include data classification and taxonomy, building scalable data catalogs versus spreadsheets, policy design (retention, freshness, purpose-based access), enforcement models, and access workflows. They cover roles such as data stewards and producers, data quality signals, automation (tagging and requests), and what to measure for ROI—catalog metrics, cost versus usage, and compliance value. You’ll also hear an MVP strategy for minimum viable governance and what to include in a catalog (technical metadata, lineage, business glossary). <br><br> Listen to gain actionable steps to scope a cloud data governance program, prioritize by the “why,” and implement classification, catalogs, and policies that balance control and democratized access."
+description: 'Learn data governance in the cloud: build data classification, catalogs
+  & policies, automate tagging, add stewards and measure ROI for trusted, compliant
+  data'
+intro: 'How do you build data governance in the cloud that enables access, meets regulation,
+  and demonstrates ROI? In this episode, Jessi Ashdown, Senior UX Researcher for Google
+  Cloud, and Uri Gilad, Product Manager for Data Governance at Google Cloud, walk
+  through practical approaches to data governance in the cloud—grounded in real user
+  research and product experience. <br><br> They define governance beyond security
+  and PII, explain how GDPR and high-profile events like Cambridge Analytica accelerated
+  adoption, and outline the core components: people, processes, and tools. Key topics
+  include data classification and taxonomy, building scalable data catalogs versus
+  spreadsheets, policy design (retention, freshness, purpose-based access), enforcement
+  models, and access workflows. They cover roles such as data stewards and producers,
+  data quality signals, automation (tagging and requests), and what to measure for
+  ROI—catalog metrics, cost versus usage, and compliance value. You’ll also hear an
+  MVP strategy for minimum viable governance and what to include in a catalog (technical
+  metadata, lineage, business glossary). <br><br> Listen to gain actionable steps
+  to scope a cloud data governance program, prioritize by the “why,” and implement
+  classification, catalogs, and policies that balance control and democratized access.'
 topics:
 - data governance
 - data compliance
 - cloud
 dateadded: 2021-06-13
-
 duration: PT00H58M09S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -127,11 +142,6 @@ quotableClips:
   startOffset: 3544
   url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=3544
   endOffset: 3560
-- name: 'Recommended Resource: Data Governance (O''Reilly Book)'
-  startOffset: 3560
-  url: https://www.youtube.com/watch?v=tJ3v8h7A7RY&t=3560
-  endOffset: 3489
-
 transcript:
 - header: Podcast Introduction
 - line: This week we will talk about data governance. We have two special guests.

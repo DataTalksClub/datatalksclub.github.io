@@ -1,6 +1,7 @@
 ---
-title: "How to Build a Successful ML Startup: MLOps, Model Monitoring, Open Source & Founder Fit"
-short: "I Want to Build a Machine Learning Startup!"
+title: 'How to Build a Successful ML Startup: MLOps, Model Monitoring, Open Source
+  & Founder Fit'
+short: I Want to Build a Machine Learning Startup!
 season: 4
 episode: 4
 guests:
@@ -14,9 +15,24 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/I-Want-to-Build-a-Machine-Learning-Startup----Elena-Samuylova-e139ste
   spotify: https://open.spotify.com/episode/7fwbqo5tDrtakuqWaIuEjc
   apple: https://podcasts.apple.com/us/podcast/i-want-to-build-a-machine-learning-startup-elena-samuylova/id1541710331?i=1000529106923
-
-description: "Discover practical MLOps, model monitoring and founder-fit tactics to build an ML startup: hire, fund, productize, and reach product-market fit faster."
-intro: "What does it take to build a successful ML startup—especially around MLOps, model monitoring, open source, and founder fit? Elena Samuylova, Co-founder & CEO of Evidently AI, joins to answer that question drawing on her applied machine learning experience since 2014, including roles at Yandex Data Factory and an industrial AI startup. <br><br> This episode walks through practical founder decisions: sourcing problem-first ideas, finding compatible co-founders and establishing pre-launch alignment, and choosing between vertical solutions and infrastructure/MLOps. Elena explains what “AI-first” positioning really means, how developer tools and open source shape go-to-market strategies (open core, cloud, monetization and cloning risks), and how Evidently validated model monitoring as a business. You’ll hear tactical guidance on customer discovery, persuading engineers to adopt your tool, data safety and on-prem deployments, hiring and scaling tradeoffs, funding paths, productizing services for non-technical founders, and normalizing failure and work–life tradeoffs. <br><br> Listen to gain actionable frameworks for building an ML startup—covering model monitoring, MLOps, open source strategy, founder-market fit, and the concrete signals that indicate product–market fit."
+description: 'Discover practical MLOps, model monitoring and founder-fit tactics to
+  build an ML startup: hire, fund, productize, and reach product-market fit faster.'
+intro: 'What does it take to build a successful ML startup—especially around MLOps,
+  model monitoring, open source, and founder fit? Elena Samuylova, Co-founder & CEO
+  of Evidently AI, joins to answer that question drawing on her applied machine learning
+  experience since 2014, including roles at Yandex Data Factory and an industrial
+  AI startup. <br><br> This episode walks through practical founder decisions: sourcing
+  problem-first ideas, finding compatible co-founders and establishing pre-launch
+  alignment, and choosing between vertical solutions and infrastructure/MLOps. Elena
+  explains what “AI-first” positioning really means, how developer tools and open
+  source shape go-to-market strategies (open core, cloud, monetization and cloning
+  risks), and how Evidently validated model monitoring as a business. You’ll hear
+  tactical guidance on customer discovery, persuading engineers to adopt your tool,
+  data safety and on-prem deployments, hiring and scaling tradeoffs, funding paths,
+  productizing services for non-technical founders, and normalizing failure and work–life
+  tradeoffs. <br><br> Listen to gain actionable frameworks for building an ML startup—covering
+  model monitoring, MLOps, open source strategy, founder-market fit, and the concrete
+  signals that indicate product–market fit.'
 topics:
 - startup
 - machine learning
@@ -25,9 +41,7 @@ topics:
 - entrepreneurship
 - founder
 dateadded: 2021-07-16
-
 duration: PT00H58M30S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -153,11 +167,6 @@ quotableClips:
   startOffset: 3572
   url: https://www.youtube.com/watch?v=DiDs5aMjEWg&t=3572
   endOffset: 3611
-- name: 'Contact & Resources: Evidently, LinkedIn, and Twitter'
-  startOffset: 3611
-  url: https://www.youtube.com/watch?v=DiDs5aMjEWg&t=3611
-  endOffset: 3510
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Background: Elena Samuylova’s ML & Startup Journey'

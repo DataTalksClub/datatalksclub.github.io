@@ -1,6 +1,7 @@
 ---
-title: "Pragmatic MLOps: Build Standardized CI/CD, Model Registries, Monitoring & Org Best Practices"
-short: "Pragmatic and Standardized MLOps"
+title: 'Pragmatic MLOps: Build Standardized CI/CD, Model Registries, Monitoring &
+  Org Best Practices'
+short: Pragmatic and Standardized MLOps
 season: 15
 episode: 7
 guests:
@@ -14,15 +15,28 @@ links:
   apple: https://podcasts.apple.com/us/podcast/pragmatic-and-standardized-mlops-maria-vechtomova/id1541710331?i=1000627227242
   spotify: https://open.spotify.com/episode/5UZPZTDllam3RrbI9sOyqS?si=Ghm1oD8bSFS6l0ULDlatpQ
   youtube: https://www.youtube.com/watch?v=q3DTR3Od1MA
-
-description: "Learn pragmatic MLOps: standardize CI/CD, model registry and monitoring to boost reproducibility, deployment reliability, and team productivity."
-intro: "How do you build pragmatic, standardized MLOps across teams without chasing every new tool? In this episode, Maria Vechtomova — an MLOps tech lead and manager with roots in econometrics and early work moving from R to Python — tackles MLOps as an organizational challenge, not just a technology problem. <br><br> Maria walks through core, actionable topics: building reusable CI/CD and standardized repos, choosing model artifact and registry strategies (Artifactory, S3, MLflow alternatives), and leveraging existing infra like Kubernetes, Git, and CI systems. She outlines central MLOps responsibilities — infrastructure, registries, deployment patterns, and monitoring — and contrasts centralized platform teams with embedded feature teams and guardrails. You’ll hear practical advice on moving logic out of notebooks into packages and pipelines, conducting maturity assessments (reproducibility, testing, documentation), and securing DevOps buy-in. The conversation also covers monitoring standardization, A/B testing, early LLM pilots and their cost/GPU constraints, plus retail use cases like demand forecasting and personalization. <br><br> Listen to learn concrete steps for implementing CI/CD, model versioning, registries, and monitoring — and how to prioritize organizational change to make MLOps work in production."
+description: 'Learn pragmatic MLOps: standardize CI/CD, model registry and monitoring
+  to boost reproducibility, deployment reliability, and team productivity.'
+intro: 'How do you build pragmatic, standardized MLOps across teams without chasing
+  every new tool? In this episode, Maria Vechtomova — an MLOps tech lead and manager
+  with roots in econometrics and early work moving from R to Python — tackles MLOps
+  as an organizational challenge, not just a technology problem. <br><br> Maria walks
+  through core, actionable topics: building reusable CI/CD and standardized repos,
+  choosing model artifact and registry strategies (Artifactory, S3, MLflow alternatives),
+  and leveraging existing infra like Kubernetes, Git, and CI systems. She outlines
+  central MLOps responsibilities — infrastructure, registries, deployment patterns,
+  and monitoring — and contrasts centralized platform teams with embedded feature
+  teams and guardrails. You’ll hear practical advice on moving logic out of notebooks
+  into packages and pipelines, conducting maturity assessments (reproducibility, testing,
+  documentation), and securing DevOps buy-in. The conversation also covers monitoring
+  standardization, A/B testing, early LLM pilots and their cost/GPU constraints, plus
+  retail use cases like demand forecasting and personalization. <br><br> Listen to
+  learn concrete steps for implementing CI/CD, model versioning, registries, and monitoring
+  — and how to prioritize organizational change to make MLOps work in production.'
 topics:
 - MLOps
 dateadded: 2023-09-25
-
 duration: PT00H57M05S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -147,11 +161,6 @@ quotableClips:
   startOffset: 3434
   url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=3434
   endOffset: 3496
-- name: 'Closing Remarks: upcoming course, LLM updates, and follow Marvelous MLOps'
-  startOffset: 3496
-  url: https://www.youtube.com/watch?v=q3DTR3Od1MA&t=3496
-  endOffset: 3425
-
 transcript:
 - header: Podcast Introduction
 - header: 'Episode Overview: Pragmatic and Standardized MLOps with Maria Vechtomova'

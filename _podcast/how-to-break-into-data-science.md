@@ -1,6 +1,7 @@
 ---
-title: "Data Science Career Playbook: Job Hunt, Portfolios, DALL·E 2 & Overcoming FOMO"
-short: "Data Scientists at Work"
+title: 'Data Science Career Playbook: Job Hunt, Portfolios, DALL·E 2 & Overcoming
+  FOMO'
+short: Data Scientists at Work
 season: 9
 episode: 5
 guests:
@@ -14,17 +15,30 @@ links:
   apple: https://podcasts.apple.com/us/podcast/data-scientists-at-work-m%C4%B1sra-turp/id1541710331?i=1000567625873
   spotify: https://open.spotify.com/episode/1RSUsWDOBDD4sNDruEbnEY
   youtube: https://www.youtube.com/watch?v=oUycqtMoYr8
-
-description: "Master data science job hunt and portfolio tactics: actionable projects, recruiter tips, DALL·E 2 basics and FOMO coping strategies to land interviews faster."
-intro: "How do you actually break into data science, build a portfolio that gets interviews, and stay sane while every new AI model vies for your attention? In this episode Mısra Turp — data scientist, content creator, and developer advocate at AssemblyAI (founder of “So you want to be a data scientist?”) — walks through a practical career playbook for job hunting, portfolio building, and coping with FOMO and imposter syndrome. <br><br> We cover Mısra’s career path from big data engineering to developer advocacy, what a data scientist’s day-to-day looks like, and the typical deliverables hiring managers expect (models, pipelines, reports, presentations). She explains role variants (consultant, in-house, freelance), tradeoffs between generalist and specialist tracks, and when a master’s or PhD matters. You’ll get concrete job-hunt tactics—how to catch a recruiter’s eye, which portfolio projects resonate, and why real-world datasets (like NYC Open Data) matter. The episode also includes a clear, high-level overview of DALL·E 2 and diffusion models, plus strategies for staying current (conferences vs social media) and knowing when a new framework is “good enough.” <br><br> Listen to learn actionable steps to refine your portfolio, present data science value to stakeholders, and manage FOMO while advancing your career"
+description: 'Master data science job hunt and portfolio tactics: actionable projects,
+  recruiter tips, DALL·E 2 basics and FOMO coping strategies to land interviews faster.'
+intro: How do you actually break into data science, build a portfolio that gets interviews,
+  and stay sane while every new AI model vies for your attention? In this episode
+  Mısra Turp — data scientist, content creator, and developer advocate at AssemblyAI
+  (founder of “So you want to be a data scientist?”) — walks through a practical career
+  playbook for job hunting, portfolio building, and coping with FOMO and imposter
+  syndrome. <br><br> We cover Mısra’s career path from big data engineering to developer
+  advocacy, what a data scientist’s day-to-day looks like, and the typical deliverables
+  hiring managers expect (models, pipelines, reports, presentations). She explains
+  role variants (consultant, in-house, freelance), tradeoffs between generalist and
+  specialist tracks, and when a master’s or PhD matters. You’ll get concrete job-hunt
+  tactics—how to catch a recruiter’s eye, which portfolio projects resonate, and why
+  real-world datasets (like NYC Open Data) matter. The episode also includes a clear,
+  high-level overview of DALL·E 2 and diffusion models, plus strategies for staying
+  current (conferences vs social media) and knowing when a new framework is “good
+  enough.” <br><br> Listen to learn actionable steps to refine your portfolio, present
+  data science value to stakeholders, and manage FOMO while advancing your career
 topics:
 - data science
 - career growth
 - job search
 dateadded: 2022-06-25
-
 duration: PT01H04M12S
-
 quotableClips:
 - name: Episode Introduction
   startOffset: 67
@@ -114,11 +128,6 @@ quotableClips:
   startOffset: 3868
   url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=3868
   endOffset: 3903
-- name: Episode Closing and Further Links
-  startOffset: 3903
-  url: https://www.youtube.com/watch?v=oUycqtMoYr8&t=3903
-  endOffset: 3852
-
 transcript:
 - header: Episode Introduction
 - line: Hi, everyone. This week, we'll talk about the work of data scientists and

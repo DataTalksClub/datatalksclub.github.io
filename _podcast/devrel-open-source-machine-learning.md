@@ -1,6 +1,7 @@
 ---
-title: "DevRel Role for Machine Learning: ML Ecosystems, Open-Source Governance & Developer Experience with Metaflow"
-short: "DevRel Role for Machine Learning"
+title: 'DevRel Role for Machine Learning: ML Ecosystems, Open-Source Governance &
+  Developer Experience with Metaflow'
+short: DevRel Role for Machine Learning
 season: 14
 episode: 6
 guests:
@@ -14,16 +15,30 @@ links:
   apple: https://podcasts.apple.com/us/podcast/data-developer-relations-hugo-bowne-anderson/id1541710331?i=1000617298688
   spotify: https://open.spotify.com/episode/7bVCKqn9fLt6ETq8hxId5V?si=GZSC3NbvRuyXD85iOQo51Q
   youtube: https://www.youtube.com/watch?v=z7BvslwVRbQ
-
-description: "Explore the role of developer relations for machine learning: ML ecosystems, open-source governance and developer experience with Metaflow."
-intro: "How do you build effective developer relations for machine learning ecosystems while navigating open-source governance and enhancing developer experience? In this episode, Hugo Bowne-Anderson — Head of Developer Relations at Outerbounds, longtime educator and podcast host — demonstrates Metaflow's capabilities and shares practical guidance for building reproducible ML workflows. Drawing on his background at Coiled and DataCamp and his experience teaching and creating courses, Hugo explores ML ecosystem integrations (AWS, Kubernetes, Argo), interoperability considerations, and company support models for open-source projects like Dask and Metaflow. <br><br> We dive into the DevRel career path, essential skills (technical fluency, writing, community building), organizational structures, and how developer feedback and dogfooding enhance documentation and reproducibility. Hugo discusses generative AI's impact on ML infrastructure and DevRel practices, AI-assisted content creation tools like Whisper and ChatGPT, and strategic approaches to tutorials, blogs, and conference talks. Listen to gain actionable insights on ML ecosystem development, improving developer experience with Metaflow, and aligning DevRel strategies with open-source governance to support scalable machine learning infrastructure"
+description: 'Explore the role of developer relations for machine learning: ML ecosystems,
+  open-source governance and developer experience with Metaflow.'
+intro: How do you build effective developer relations for machine learning ecosystems
+  while navigating open-source governance and enhancing developer experience? In this
+  episode, Hugo Bowne-Anderson — Head of Developer Relations at Outerbounds, longtime
+  educator and podcast host — demonstrates Metaflow's capabilities and shares practical
+  guidance for building reproducible ML workflows. Drawing on his background at Coiled
+  and DataCamp and his experience teaching and creating courses, Hugo explores ML
+  ecosystem integrations (AWS, Kubernetes, Argo), interoperability considerations,
+  and company support models for open-source projects like Dask and Metaflow. <br><br>
+  We dive into the DevRel career path, essential skills (technical fluency, writing,
+  community building), organizational structures, and how developer feedback and dogfooding
+  enhance documentation and reproducibility. Hugo discusses generative AI's impact
+  on ML infrastructure and DevRel practices, AI-assisted content creation tools like
+  Whisper and ChatGPT, and strategic approaches to tutorials, blogs, and conference
+  talks. Listen to gain actionable insights on ML ecosystem development, improving
+  developer experience with Metaflow, and aligning DevRel strategies with open-source
+  governance to support scalable machine learning infrastructure
 dateadded: 2023-06-17
 topics:
 - developer relations
 - machine learning
 - open-source
 duration: PT00H57M52S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -125,11 +140,6 @@ quotableClips:
   startOffset: 3503
   url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=3503
   endOffset: 3565
-- name: Closing Remarks & Episode Wrap-Up
-  startOffset: 3565
-  url: https://www.youtube.com/watch?v=z7BvslwVRbQ&t=3565
-  endOffset: 3472
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Introduction: Hugo Bowne-Anderson, Outerbounds & Metaflow'
@@ -419,8 +429,7 @@ transcript:
   sec: 917
   time: '15:17'
   who: Hugo
-- header: 'DevRel Explained: Education, Documentation & the "Wisdom Layer"
-'
+- header: 'DevRel Explained: Education, Documentation & the "Wisdom Layer" '
 - line: What is actually DevRel? What is it?
   sec: 1083
   time: '18:03'

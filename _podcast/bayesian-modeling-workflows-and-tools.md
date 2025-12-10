@@ -1,6 +1,6 @@
 ---
-title: "Bayesian Modeling: PyMC, Stan and Probabilistic Programming Workflows"
-short: "Bayesian Modeling and Probabilistic Programming"
+title: 'Bayesian Modeling: PyMC, Stan and Probabilistic Programming Workflows'
+short: Bayesian Modeling and Probabilistic Programming
 season: 17
 episode: 4
 guests:
@@ -14,13 +14,30 @@ links:
   apple: https://podcasts.apple.com/us/podcast/bayesian-modeling-and-probabilistic-programming-rob/id1541710331?i=1000642253191
   spotify: https://open.spotify.com/episode/5WUKDcTYv8ZvnqeHSQT7FF?si=K10siPBHQwmegCCXJ1VpIA
   youtube: https://www.youtube.com/watch?v=kcKvUSInm-M
-description: "Discover Bayesian modeling with PyMC and Stan: learn priors, MCMC/HMC sampling, probabilistic programming workflows to build, debug and refine robust models."
+description: 'Discover Bayesian modeling with PyMC and Stan: learn priors, MCMC/HMC
+  sampling, probabilistic programming workflows to build, debug and refine robust
+  models.'
 topics:
 - probabilistic programming
 - bayesian statistics
 - machine learning
 - tools
-intro: "How do you move from point estimates to full uncertainty-aware models and choose the right tools and workflows for Bayesian modeling? In this episode Rob Zinkov, a machine learning engineer and former Indiana University research scientist who led development of the Hakaru probabilistic programming language, walks through practical Bayesian workflows and tool choices. We cover the core challenge of encoding priors, likelihoods, and posteriors; why integrals become intractable and how numerical integration and sampling (MCMC, Hamiltonian Monte Carlo, NUTS) approximate expectations; and the trade-offs between probabilistic languages and libraries. Rob explains career lessons on moving from software engineering to ML research, the essential math (calculus, linear algebra, optimization), and self-study strategies for statistics. Concrete topics include PyMC examples (a rainfall model and computational graph), Stan’s advances in efficient sampling, composing hierarchical and spatial models, diagnosing multimodality and uncertainty, and automating model tasks with probabilistic programming (Hakaru). Listen to gain a clearer, practical understanding of Bayesian modeling, when to use PyMC vs Stan, how samplers work, and recommended resources to build your workflow."
+intro: How do you move from point estimates to full uncertainty-aware models and choose
+  the right tools and workflows for Bayesian modeling? In this episode Rob Zinkov,
+  a machine learning engineer and former Indiana University research scientist who
+  led development of the Hakaru probabilistic programming language, walks through
+  practical Bayesian workflows and tool choices. We cover the core challenge of encoding
+  priors, likelihoods, and posteriors; why integrals become intractable and how numerical
+  integration and sampling (MCMC, Hamiltonian Monte Carlo, NUTS) approximate expectations;
+  and the trade-offs between probabilistic languages and libraries. Rob explains career
+  lessons on moving from software engineering to ML research, the essential math (calculus,
+  linear algebra, optimization), and self-study strategies for statistics. Concrete
+  topics include PyMC examples (a rainfall model and computational graph), Stan’s
+  advances in efficient sampling, composing hierarchical and spatial models, diagnosing
+  multimodality and uncertainty, and automating model tasks with probabilistic programming
+  (Hakaru). Listen to gain a clearer, practical understanding of Bayesian modeling,
+  when to use PyMC vs Stan, how samplers work, and recommended resources to build
+  your workflow.
 dateadded: '2024-01-22'
 duration: PT01H05M05S
 quotableClips:
@@ -120,10 +137,6 @@ quotableClips:
   startOffset: 3953
   url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=3953
   endOffset: 3991
-- name: Episode Wrap-up, Links, and Next Steps
-  startOffset: 3991
-  url: https://www.youtube.com/watch?v=kcKvUSInm-M&t=3991
-  endOffset: 3905
 transcript:
 - header: Episode Introduction & Topic Overview
 - header: 'Guest Introduction: Rob Zinkov and the Hakaru probabilistic programming

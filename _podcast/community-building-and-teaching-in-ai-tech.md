@@ -1,6 +1,7 @@
 ---
-title: "Community Building and Teaching in AI & Tech: Project-to-Course Model for AI Education"
-short: "Community Building and Teaching in AI & Tech"
+title: 'Community Building and Teaching in AI & Tech: Project-to-Course Model for
+  AI Education'
+short: Community Building and Teaching in AI & Tech
 season: 18
 episode: 5
 guests:
@@ -14,7 +15,8 @@ links:
   apple: https://podcasts.apple.com/us/podcast/community-building-and-teaching-in-ai-tech-erum-afzal/id1541710331?i=1000655187649
   spotify: https://open.spotify.com/episode/4iAvz4Qu0l28fxXvaHdAPj?si=7MdKKu1fTrqxIGPQBT61Ag
   youtube: https://www.youtube.com/watch?v=7SLd5V7z3xQ
-description: "Discover Omdena's project-to-course model for AI education and community building—master curriculum, instructor pipeline, and pathways to join real AI projects."
+description: Discover Omdena's project-to-course model for AI education and community
+  building—master curriculum, instructor pipeline, and pathways to join real AI projects.
 topics:
 - AI
 - NLP
@@ -23,7 +25,22 @@ topics:
 - leadership
 - community building
 - teaching
-intro: "How can communities turn real-world AI projects into repeatable courses that scale learning and careers? In this episode Erum Afzal — lead ML engineer, PhD researcher in AI for teacher training, and head of Omdena Academy — walks through a project-to-course model for AI education rooted in community collaboration. <br><br> We cover Omdena’s evolution from global, problem-focused projects into structured courses, the design of foundational data science curricula (Python, Pandas, NumPy, NLP), and the practical steps for course development: instructor application, content review, delivery, and engagement strategies (live sessions, selection, graduation). Erum explains the instructor pipeline and open applications, access pathways for learners, the academy’s free-course business model with organizational partnerships, and options for monetization or volunteer teaching. <br><br> Listeners will get concrete guidance on curriculum tiers (basic to advanced), community growth tactics (start small, empower sub-communities), ethical concerns around hiring integrity and responsible ChatGPT use, and where to apply to teach (Omdena.com/Omdena-Academy). This episode is for educators, community builders, and early-career practitioners who want actionable models for teaching, curriculum design, and building inclusive AI learning communities."
+intro: 'How can communities turn real-world AI projects into repeatable courses that
+  scale learning and careers? In this episode Erum Afzal — lead ML engineer, PhD researcher
+  in AI for teacher training, and head of Omdena Academy — walks through a project-to-course
+  model for AI education rooted in community collaboration. <br><br> We cover Omdena’s
+  evolution from global, problem-focused projects into structured courses, the design
+  of foundational data science curricula (Python, Pandas, NumPy, NLP), and the practical
+  steps for course development: instructor application, content review, delivery,
+  and engagement strategies (live sessions, selection, graduation). Erum explains
+  the instructor pipeline and open applications, access pathways for learners, the
+  academy’s free-course business model with organizational partnerships, and options
+  for monetization or volunteer teaching. <br><br> Listeners will get concrete guidance
+  on curriculum tiers (basic to advanced), community growth tactics (start small,
+  empower sub-communities), ethical concerns around hiring integrity and responsible
+  ChatGPT use, and where to apply to teach (Omdena.com/Omdena-Academy). This episode
+  is for educators, community builders, and early-career practitioners who want actionable
+  models for teaching, curriculum design, and building inclusive AI learning communities.'
 dateadded: 2024-05-12
 duration: PT00H57M03S
 quotableClips:
@@ -133,10 +150,6 @@ quotableClips:
   startOffset: 3399
   url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3399
   endOffset: 3466
-- name: Episode Wrap-Up & Closing Remarks
-  startOffset: 3466
-  url: https://www.youtube.com/watch?v=7SLd5V7z3xQ&t=3466
-  endOffset: 3423
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Introduction: Erum Afzal — AI for education & Omdena Academy'

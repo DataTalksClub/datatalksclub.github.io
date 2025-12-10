@@ -1,6 +1,7 @@
 ---
-title: "From Biology to ML: Build a Data Science Portfolio with Open-Source, Computer Vision & Transformers"
-short: "Career advice, learning, and featuring women in ML and AI"
+title: 'From Biology to ML: Build a Data Science Portfolio with Open-Source, Computer
+  Vision & Transformers'
+short: Career advice, learning, and featuring women in ML and AI
 season: 19
 episode: 7
 guests:
@@ -14,14 +15,30 @@ links:
   apple: https://podcasts.apple.com/us/podcast/career-advice-learning-and-featuring-women-in-ml-and/id1541710331?i=1000680294201
   spotify: https://open.spotify.com/episode/5GOBabz65IRmiMow8FYbr5?si=rx69Xf98QZqGqgpEQgzX2w
   youtube: https://www.youtube.com/watch?v=GifY8Zn-pnU
-description: "Build a data science portfolio with open-source computer vision & transformers—gain hands-on projects, GitHub proof, and interview-ready ML skills."
+description: Build a data science portfolio with open-source computer vision & transformers—gain
+  hands-on projects, GitHub proof, and interview-ready ML skills.
 topics:
 - machine learning
 - computer vision
 - open-source
 - bioinformatics
 - career transition
-intro: "How do you move from a biology background into machine learning and build a data science portfolio that actually gets noticed? In this episode, Isabella Bicalho — a machine learning engineer and data scientist with three years of hands-on AI development and roots in computational research — walks through practical approaches for showcasing skills with open-source, computer vision, and transformer projects. <br><br> We cover how to translate domain knowledge from biology into ML problem framing, the role of open-source contributions in a data science portfolio, and project ideas that demonstrate computer vision and transformer expertise. Isabella also discusses how to document work, choose reproducible experiments, and highlight impact for hiring managers or collaborators. She runs a newsletter dedicated to showcasing women’s accomplishments in data science, bringing an equity-minded perspective to building visible work. <br><br> If you’re building a data science portfolio, shifting careers into ML, or want concrete ways to leverage open-source and modern architectures like transformers and computer vision models, this conversation offers practical guidance, realistic project priorities, and tips for making your work discoverable to recruiters and the community."
+intro: How do you move from a biology background into machine learning and build a
+  data science portfolio that actually gets noticed? In this episode, Isabella Bicalho
+  — a machine learning engineer and data scientist with three years of hands-on AI
+  development and roots in computational research — walks through practical approaches
+  for showcasing skills with open-source, computer vision, and transformer projects.
+  <br><br> We cover how to translate domain knowledge from biology into ML problem
+  framing, the role of open-source contributions in a data science portfolio, and
+  project ideas that demonstrate computer vision and transformer expertise. Isabella
+  also discusses how to document work, choose reproducible experiments, and highlight
+  impact for hiring managers or collaborators. She runs a newsletter dedicated to
+  showcasing women’s accomplishments in data science, bringing an equity-minded perspective
+  to building visible work. <br><br> If you’re building a data science portfolio,
+  shifting careers into ML, or want concrete ways to leverage open-source and modern
+  architectures like transformers and computer vision models, this conversation offers
+  practical guidance, realistic project priorities, and tips for making your work
+  discoverable to recruiters and the community.
 dateadded: 2024-12-17
 duration: PT01H03M42S
 quotableClips:
@@ -117,10 +134,6 @@ quotableClips:
 - name: 'Connecting with Isabella: LinkedIn and Substack Contact Info'
   startOffset: 3736
   url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=3736
-  endOffset: 3822
-- name: Episode Wrap-Up and Closing Remarks
-  startOffset: 3822
-  url: https://www.youtube.com/watch?v=GifY8Zn-pnU&t=3822
   endOffset: 3822
 transcript:
 - header: 'Episode Introduction: Continuous Learning in Data Science (guest Isabella

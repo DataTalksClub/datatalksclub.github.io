@@ -1,6 +1,7 @@
 ---
-title: "Practical Data Journalism: Sourcing, Storytelling, Visualization & Tools (Python, Tableau)"
-short: "Technical Writing and Data Journalism"
+title: 'Practical Data Journalism: Sourcing, Storytelling, Visualization & Tools (Python,
+  Tableau)'
+short: Technical Writing and Data Journalism
 season: 11
 episode: 8
 guests:
@@ -14,18 +15,36 @@ links:
   apple: https://podcasts.apple.com/us/podcast/technical-writing-and-data-journalism-angelica-lo-duca/id1541710331?i=1000587507530
   spotify: https://open.spotify.com/episode/38b2Y9KgxSFlIHPZ3jqheK?si=SPiURO1bTamVKrKV_laVDQ
   youtube: https://www.youtube.com/watch?v=uO_lk12q02A
-
-description: "Discover data journalism: sourcing, storytelling & visualization with Python and Tableau—learn tools, workflows and publishing tips to craft compelling stories."
-intro: "How do you transform raw data into compelling, trustworthy journalism that readers can understand and act upon? In this episode, Angelica Lo Duca—researcher at the Institute of Informatics and Telematics (CNR) and Data Journalism professor at the University of Pisa—shares practical frameworks for data journalism covering sourcing, storytelling, visualization, and essential tools like Python and Tableau. <br><br> Drawing from her journey through cryptography, web development, and data science, Angelica tackles real-world challenges: finding reliable small datasets on the web, working with query engines like Presto and Trino, and learning from investigative work like Washington Post projects. She distinguishes data journalism from data science, reveals teaching approaches for digital humanities students, and breaks down an effective writer's workflow: problem identification → solution development → clear results presentation, complete with code repositories and step-by-step clarity. <br><br> You'll gain concrete strategies for converting dense reports and survey PDFs into engaging narratives, visualization best practices (one concept per chart, choosing tables over confusing pie charts), tool selection guidance between Python scripting and Tableau, plus curated learning resources. Whether you're a journalist exploring data tools, a data professional interested in storytelling, or an educator teaching interdisciplinary skills, this episode delivers actionable methods for reliable sourcing, effective narrative construction, and clear data visualization that makes complex information accessible and impactful."
+description: 'Discover data journalism: sourcing, storytelling & visualization with
+  Python and Tableau—learn tools, workflows and publishing tips to craft compelling
+  stories.'
+intro: 'How do you transform raw data into compelling, trustworthy journalism that
+  readers can understand and act upon? In this episode, Angelica Lo Duca—researcher
+  at the Institute of Informatics and Telematics (CNR) and Data Journalism professor
+  at the University of Pisa—shares practical frameworks for data journalism covering
+  sourcing, storytelling, visualization, and essential tools like Python and Tableau.
+  <br><br> Drawing from her journey through cryptography, web development, and data
+  science, Angelica tackles real-world challenges: finding reliable small datasets
+  on the web, working with query engines like Presto and Trino, and learning from
+  investigative work like Washington Post projects. She distinguishes data journalism
+  from data science, reveals teaching approaches for digital humanities students,
+  and breaks down an effective writer''s workflow: problem identification → solution
+  development → clear results presentation, complete with code repositories and step-by-step
+  clarity. <br><br> You''ll gain concrete strategies for converting dense reports
+  and survey PDFs into engaging narratives, visualization best practices (one concept
+  per chart, choosing tables over confusing pie charts), tool selection guidance between
+  Python scripting and Tableau, plus curated learning resources. Whether you''re a
+  journalist exploring data tools, a data professional interested in storytelling,
+  or an educator teaching interdisciplinary skills, this episode delivers actionable
+  methods for reliable sourcing, effective narrative construction, and clear data
+  visualization that makes complex information accessible and impactful.'
 topics:
 - data journalism
 - data science
 - data visualization
 - tools
 dateadded: 2022-11-26
-
 duration: PT01H01M37S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -131,11 +150,6 @@ quotableClips:
   startOffset: 3609
   url: https://www.youtube.com/watch?v=uO_lk12q02A&t=3609
   endOffset: 3743
-- name: 'Episode Wrap-Up: final questions and closing remarks'
-  startOffset: 3743
-  url: https://www.youtube.com/watch?v=uO_lk12q02A&t=3743
-  endOffset: 3697
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Introduction: Angelica Lo Duca, researcher & professor'

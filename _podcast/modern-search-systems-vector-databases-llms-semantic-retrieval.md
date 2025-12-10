@@ -1,6 +1,7 @@
 ---
-title: "Modern Search Systems: Vector Databases, LLMs and Semantic Retrieval"
-short: "Searching Beyond the Surface: Navigating Challenges and Innovations in Search Technologies"
+title: 'Modern Search Systems: Vector Databases, LLMs and Semantic Retrieval'
+short: 'Searching Beyond the Surface: Navigating Challenges and Innovations in Search
+  Technologies'
 season: 17
 episode: 2
 guests:
@@ -14,14 +15,31 @@ links:
   apple: https://podcasts.apple.com/us/podcast/navigating-challenges-and-innovations-in-search/id1541710331?i=1000639476594
   spotify: https://open.spotify.com/episode/7mUMvxP4Efyeh0lhF5CvT6?si=7qqKrsMfQxaZy435s3XIEA
   youtube: https://www.youtube.com/watch?v=_fbe1QyJ1PY
-description: "Learn vector databases, LLMs & semantic retrieval: RAG, embeddings and vector search tactics to build accurate chatbots, personalized search and better ranking."
+description: 'Learn vector databases, LLMs & semantic retrieval: RAG, embeddings and
+  vector search tactics to build accurate chatbots, personalized search and better
+  ranking.'
 topics:
 - NLP
 - LLMs
 - MLOps
 - machine learning
 - data engineering
-intro: "How do modern search systems combine vector databases, LLMs, and semantic retrieval to deliver relevant, reliable results—and when should you adopt each component? In this episode Atita Arora walks through that question from both historical and practical angles. A long-time contributor to information retrieval projects (including Apache OpenNLP and Quepid) and author of posts on vectors in e-commerce and the open-source Chorus implementation, Atita brings hands-on experience plus ongoing research into evaluating RAG systems and a commitment to user-centric metrics and inclusivity. <br><br> We cover the evolution from Solr/Lucene and the Semantic Web era to NLP for query-content matching; practical vector topics such as Qdrant, plug-and-play vector search, and migration tradeoffs; and end-to-end RAG pipelines—Whisper transcripts, chunking and embedding strategies, LangChain orchestration, prompt design, citations, and multi-level evaluation with human-in-the-loop testing. You’ll also hear about session-based recommendations, personalization approaches, and curated learning resources like Intro to Information Retrieval and Vector Hub. Listen to gain actionable guidance on building and evaluating vector search and retrieval-augmented generation systems while avoiding common pitfalls like LLM hallucinations."
+intro: How do modern search systems combine vector databases, LLMs, and semantic retrieval
+  to deliver relevant, reliable results—and when should you adopt each component?
+  In this episode Atita Arora walks through that question from both historical and
+  practical angles. A long-time contributor to information retrieval projects (including
+  Apache OpenNLP and Quepid) and author of posts on vectors in e-commerce and the
+  open-source Chorus implementation, Atita brings hands-on experience plus ongoing
+  research into evaluating RAG systems and a commitment to user-centric metrics and
+  inclusivity. <br><br> We cover the evolution from Solr/Lucene and the Semantic Web
+  era to NLP for query-content matching; practical vector topics such as Qdrant, plug-and-play
+  vector search, and migration tradeoffs; and end-to-end RAG pipelines—Whisper transcripts,
+  chunking and embedding strategies, LangChain orchestration, prompt design, citations,
+  and multi-level evaluation with human-in-the-loop testing. You’ll also hear about
+  session-based recommendations, personalization approaches, and curated learning
+  resources like Intro to Information Retrieval and Vector Hub. Listen to gain actionable
+  guidance on building and evaluating vector search and retrieval-augmented generation
+  systems while avoiding common pitfalls like LLM hallucinations.
 dateadded: 2024-01-07
 duration: PT00H59M13S
 quotableClips:
@@ -98,10 +116,6 @@ quotableClips:
   startOffset: 3470
   url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3470
   endOffset: 3624
-- name: Episode wrap-up, links and next steps
-  startOffset: 3624
-  url: https://www.youtube.com/watch?v=_fbe1QyJ1PY&t=3624
-  endOffset: 3553
 transcript:
 - header: 'Episode Introduction: search focus and guest overview'
 - line: This week, we'll talk about search. We have a very special guest today, Atita.

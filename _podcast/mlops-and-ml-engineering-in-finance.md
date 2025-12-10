@@ -1,6 +1,6 @@
 ---
-title: "MLOps in Finance: Regulated Deployment, CI/CD and Model Governance"
-short: "Machine Learning Engineering in Finance"
+title: 'MLOps in Finance: Regulated Deployment, CI/CD and Model Governance'
+short: Machine Learning Engineering in Finance
 season: 17
 episode: 5
 guests:
@@ -14,14 +14,31 @@ links:
   apple: https://podcasts.apple.com/us/podcast/machine-learning-engineering-in-finance-nemanja-radojkovic/id1541710331?i=1000643322929
   spotify: https://open.spotify.com/episode/3yQtA8EAndau1yhCFPfwtj?si=ZutO4mLlRfOz_Zgw4GujiQ
   youtube: https://www.youtube.com/watch?v=Nl4aibeFwiI
-description: "Learn MLOps for finance: model governance, compliant deployments, monitoring, and MVP ML Ops tactics to build production-ready, auditable models."
+description: 'Learn MLOps for finance: model governance, compliant deployments, monitoring,
+  and MVP ML Ops tactics to build production-ready, auditable models.'
 topics:
 - MLOps
 - machine learning
 - data engineering
 - production
 - career transition
-intro: "How do you deploy machine learning in heavily regulated finance environments while keeping CI/CD pipelines, model governance, and operational risk under control? In this episode Nemanja Radojkovic—an electrical engineer turned data scientist and MLOps practitioner who moved from Belgrade to Leuven—walks through real-world constraints and pragmatic solutions for MLOps in finance. <br><br> Drawing on his PhD background, consulting experience, and teaching, Nemanja covers finance use cases such as compliance, AML, fraud detection, and document/email automation, then drills into ML engineering responsibilities: deployment choices, CI/CD, release management, and building trust with governance and approvals. We examine legacy and regulatory constraints, on-premises platforms (Hadoop, OpenShift), and low-cost MLOps strategies: minimal viable setups (dev/test/prod, monitoring, model registry, data versioning, reproducible pipelines) and tactical workarounds like S3-based registries. <br><br> Listeners will gain actionable guidance on adapting ML workflows to corporate DevOps, prioritizing MLOps on a shoestring, standardizing deployment patterns and platform reuse (FastAPI, internal libraries), and the core skills needed for ML engineering and production readiness. Ideal for ML engineers and data teams tackling regulated deployment, CI/CD, and model governance in finance."
+intro: 'How do you deploy machine learning in heavily regulated finance environments
+  while keeping CI/CD pipelines, model governance, and operational risk under control?
+  In this episode Nemanja Radojkovic—an electrical engineer turned data scientist
+  and MLOps practitioner who moved from Belgrade to Leuven—walks through real-world
+  constraints and pragmatic solutions for MLOps in finance. <br><br> Drawing on his
+  PhD background, consulting experience, and teaching, Nemanja covers finance use
+  cases such as compliance, AML, fraud detection, and document/email automation, then
+  drills into ML engineering responsibilities: deployment choices, CI/CD, release
+  management, and building trust with governance and approvals. We examine legacy
+  and regulatory constraints, on-premises platforms (Hadoop, OpenShift), and low-cost
+  MLOps strategies: minimal viable setups (dev/test/prod, monitoring, model registry,
+  data versioning, reproducible pipelines) and tactical workarounds like S3-based
+  registries. <br><br> Listeners will gain actionable guidance on adapting ML workflows
+  to corporate DevOps, prioritizing MLOps on a shoestring, standardizing deployment
+  patterns and platform reuse (FastAPI, internal libraries), and the core skills needed
+  for ML engineering and production readiness. Ideal for ML engineers and data teams
+  tackling regulated deployment, CI/CD, and model governance in finance.'
 dateadded: 2024-01-29
 duration: PT00H58M04S
 quotableClips:
@@ -118,10 +135,6 @@ quotableClips:
   startOffset: 3379
   url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=3379
   endOffset: 3544
-- name: Closing Remarks and Links to Talk/Resources
-  startOffset: 3544
-  url: https://www.youtube.com/watch?v=Nl4aibeFwiI&t=3544
-  endOffset: 3484
 transcript:
 - header: Episode Introduction
 - header: 'Guest Introduction: Nemanja’s journey from Belgrade to ML Ops in Europe'

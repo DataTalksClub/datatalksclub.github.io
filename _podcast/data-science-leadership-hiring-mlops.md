@@ -1,6 +1,7 @@
 ---
-title: "Data Science Leadership: Product-First ML, Recommenders & RTB, MLOps, Hiring & Mentoring"
-short: "Becoming a Data Science Manager"
+title: 'Data Science Leadership: Product-First ML, Recommenders & RTB, MLOps, Hiring
+  & Mentoring'
+short: Becoming a Data Science Manager
 season: 6
 episode: 9
 guests:
@@ -14,9 +15,24 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Becoming-a-Data-Science-Manager---Mariano-Semelman-e1cbrf7
   spotify: https://open.spotify.com/episode/28Sy4owRwvSJRFTeKAamz2
   apple: https://podcasts.apple.com/us/podcast/becoming-a-data-science-manager-mariano-semelman/id1541710331?i=1000547222296
-
-description: "Discover data science leadership, recommender systems & MLOps tactics—hire, mentor and deploy models faster with practical frameworks and tips"
-intro: "How do you lead a data science team that prioritizes product impact while building recommender systems, real-time bidding (RTB) solutions, and maintainable MLOps? In this episode, Mariano Semelman, Head of Data Science at OLX Group with over 13 years of experience, walks through practical leadership decisions that bridge models and products. <br><br> Mariano describes his shift from software development to data science leadership, daily responsibilities (meetings, mentoring, planning), and how he structures teams of data scientists and ML engineers. Key topics include product-first ML, search and recommender systems, advertising and RTB campaign optimization, CRISP-DM in production, diagnosing overfitting and feature issues, and pragmatic deployment patterns like start simple, fail fast, and iterative experiments. He also shares onboarding tactics (30-60-90 plans), feedback techniques (\"ask permission, care, offer options\"), one-on-ones, handling departures, code reviews as a manager, delegation through senior engineers, and hiring/remediation practices. <br><br> Listen to learn concrete approaches for prioritizing modeling time, running experiments in production, improving MLOps and NLP practices, and mentoring engineers to deliver measurable product outcomes"
+description: Discover data science leadership, recommender systems & MLOps tactics—hire,
+  mentor and deploy models faster with practical frameworks and tips
+intro: How do you lead a data science team that prioritizes product impact while building
+  recommender systems, real-time bidding (RTB) solutions, and maintainable MLOps?
+  In this episode, Mariano Semelman, Head of Data Science at OLX Group with over 13
+  years of experience, walks through practical leadership decisions that bridge models
+  and products. <br><br> Mariano describes his shift from software development to
+  data science leadership, daily responsibilities (meetings, mentoring, planning),
+  and how he structures teams of data scientists and ML engineers. Key topics include
+  product-first ML, search and recommender systems, advertising and RTB campaign optimization,
+  CRISP-DM in production, diagnosing overfitting and feature issues, and pragmatic
+  deployment patterns like start simple, fail fast, and iterative experiments. He
+  also shares onboarding tactics (30-60-90 plans), feedback techniques ("ask permission,
+  care, offer options"), one-on-ones, handling departures, code reviews as a manager,
+  delegation through senior engineers, and hiring/remediation practices. <br><br>
+  Listen to learn concrete approaches for prioritizing modeling time, running experiments
+  in production, improving MLOps and NLP practices, and mentoring engineers to deliver
+  measurable product outcomes
 topics:
 - data science
 - machine learning
@@ -26,9 +42,7 @@ topics:
 - team building
 - hiring
 dateadded: 2022-01-09
-
 duration: PT01H05M19S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -146,11 +160,6 @@ quotableClips:
   startOffset: 3947
   url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=3947
   endOffset: 3991
-- name: 'Contact Info: LinkedIn and Email for Mariano Semelman'
-  startOffset: 3991
-  url: https://www.youtube.com/watch?v=qOLR84-KHoY&t=3991
-  endOffset: 3919
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Intro: Mariano Semelman, Head of Data Science at OLX'

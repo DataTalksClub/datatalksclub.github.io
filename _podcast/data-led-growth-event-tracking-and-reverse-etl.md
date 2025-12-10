@@ -1,6 +1,7 @@
 ---
-title: "How to Build a Data-Led Growth Stack: Event Tracking, Tracking Plans & Reverse ETL"
-short: "Becoming a Data-led Professional"
+title: 'How to Build a Data-Led Growth Stack: Event Tracking, Tracking Plans & Reverse
+  ETL'
+short: Becoming a Data-led Professional
 season: 3
 episode: 8
 guests:
@@ -14,16 +15,29 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Becoming-a-Data-led-Professional---Arpit-Choudhury-e11mkgq
   spotify: https://open.spotify.com/episode/2hg3Gi3h5OfdedXENwZwnU
   apple: https://podcasts.apple.com/us/podcast/becoming-a-data-led-professional-arpit-choudhury/id1541710331?i=1000523422699
-
-description: "Build a data-led growth stack with event tracking, tracking plans & Reverse ETL to activate product data for precise experimentation, personalization, and ops"
-intro: "How do you design a data-led growth stack that reliably powers personalization, activation, and operational workflows? In this episode, Arpit Choudhury, founder of Data-led Academy, walks through the practical steps of building a data-led growth stack focused on event tracking, documented tracking plans, and reverse ETL. <br><br> Arpit — who runs Data-led Academy to teach data skills for non-technical and technical teams alike — breaks down the full data flow: collection (client- vs server-side events), storage (warehouses like Snowflake, BigQuery, Redshift), transformation (DBT), analysis (product analytics), and activation (reverse ETL to support, sales, and engagement tools). He covers how to create tracking plans and instrument events (signup, project created, invite, invoice), common tooling (Segment, RudderStack, MetaRouter, Freshpaint, AVO, Iteratively, TrackPlan), and reverse ETL platforms (Census, Hightouch, Grouparoo). You’ll also hear trade-offs around CDPs versus warehouse-centric approaches, buy vs build decisions, and the team roles and documentation practices needed to democratize data. <br><br> Listen to learn concrete patterns for event tracking, tracking-plan ownership, anomaly investigation, and activating product data to drive growth without sacrificing data quality."
+description: Build a data-led growth stack with event tracking, tracking plans & Reverse
+  ETL to activate product data for precise experimentation, personalization, and ops
+intro: 'How do you design a data-led growth stack that reliably powers personalization,
+  activation, and operational workflows? In this episode, Arpit Choudhury, founder
+  of Data-led Academy, walks through the practical steps of building a data-led growth
+  stack focused on event tracking, documented tracking plans, and reverse ETL. <br><br>
+  Arpit — who runs Data-led Academy to teach data skills for non-technical and technical
+  teams alike — breaks down the full data flow: collection (client- vs server-side
+  events), storage (warehouses like Snowflake, BigQuery, Redshift), transformation
+  (DBT), analysis (product analytics), and activation (reverse ETL to support, sales,
+  and engagement tools). He covers how to create tracking plans and instrument events
+  (signup, project created, invite, invoice), common tooling (Segment, RudderStack,
+  MetaRouter, Freshpaint, AVO, Iteratively, TrackPlan), and reverse ETL platforms
+  (Census, Hightouch, Grouparoo). You’ll also hear trade-offs around CDPs versus warehouse-centric
+  approaches, buy vs build decisions, and the team roles and documentation practices
+  needed to democratize data. <br><br> Listen to learn concrete patterns for event
+  tracking, tracking-plan ownership, anomaly investigation, and activating product
+  data to drive growth without sacrificing data quality.'
 topics:
 - data engineering
 - tools
 dateadded: 2021-05-29
-
 duration: PT01H21S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -127,11 +141,6 @@ quotableClips:
   startOffset: 3368
   url: https://www.youtube.com/watch?v=8v5KpHWgyYw&t=3368
   endOffset: 3629
-- name: 'Closing & resources: dataled.academy, newsletter and podcast episodes'
-  startOffset: 3629
-  url: https://www.youtube.com/watch?v=8v5KpHWgyYw&t=3629
-  endOffset: 3621
-
 transcript:
 - header: Podcast Introduction
 - header: 'DataLed Academy: free learning, repository & podcast'

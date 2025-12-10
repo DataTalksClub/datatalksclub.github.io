@@ -1,6 +1,6 @@
 ---
-title: "MLOps Architect Guide: Production Model Monitoring, Data Observability & Tooling"
-short: "MLOps Architect"
+title: 'MLOps Architect Guide: Production Model Monitoring, Data Observability & Tooling'
+short: MLOps Architect
 season: 10
 episode: 3
 guests:
@@ -14,17 +14,30 @@ links:
   apple: https://podcasts.apple.com/us/podcast/mlops-architect-danny-leybzon/id1541710331?i=1000575901051
   spotify: https://open.spotify.com/episode/5gz5lnS7onwRUtbcmpOSuU?si=8cbe799f284c4623
   youtube: https://www.youtube.com/watch?v=p1gVaS4Zx5M
-
-description: "Master MLOps, model monitoring & data observability with guidance on production observability, ETL root causes, tooling trade-offs, ONNX, build vs buy"
-intro: "How do you keep machine learning models reliable in production — what should you monitor, where do upstream failures originate, and which tooling decisions actually matter? In this episode, Danny Leybzon, MLOps Architect at WhyLabs and computational statistics alum of UCLA, walks through the practical challenges of production model monitoring, data observability, and tooling trade-offs. Drawing on his path from analyst and product roles at Qubole to field engineering at Imply and now advising customers on observability, Danny defines the MLOps Architect as a technical-business bridge and explains how to prioritize production-first monitoring efforts. <br><br> Topics covered include scope of observability across ETL and data pipelines, data profiling architecture (WhyLogs, profiles, Apache Druid), build vs buy decisions, platform-agnostic integrations and ONNX interoperability, and trends around cloud-native stacks and vendor lock-in. He also offers hiring and career perspectives for MLOps roles and research priorities like fairness and segmentation. Listen to get concrete guidance on designing model monitoring, choosing observability tooling, and identifying upstream root causes so you can reduce incidents and improve model reliability in production"
+description: Master MLOps, model monitoring & data observability with guidance on
+  production observability, ETL root causes, tooling trade-offs, ONNX, build vs buy
+intro: How do you keep machine learning models reliable in production — what should
+  you monitor, where do upstream failures originate, and which tooling decisions actually
+  matter? In this episode, Danny Leybzon, MLOps Architect at WhyLabs and computational
+  statistics alum of UCLA, walks through the practical challenges of production model
+  monitoring, data observability, and tooling trade-offs. Drawing on his path from
+  analyst and product roles at Qubole to field engineering at Imply and now advising
+  customers on observability, Danny defines the MLOps Architect as a technical-business
+  bridge and explains how to prioritize production-first monitoring efforts. <br><br>
+  Topics covered include scope of observability across ETL and data pipelines, data
+  profiling architecture (WhyLogs, profiles, Apache Druid), build vs buy decisions,
+  platform-agnostic integrations and ONNX interoperability, and trends around cloud-native
+  stacks and vendor lock-in. He also offers hiring and career perspectives for MLOps
+  roles and research priorities like fairness and segmentation. Listen to get concrete
+  guidance on designing model monitoring, choosing observability tooling, and identifying
+  upstream root causes so you can reduce incidents and improve model reliability in
+  production
 topics:
 - MLOps
 - tools
 - data engineering
 dateadded: 2022-08-13
-
 duration: PT00H57M51S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -126,11 +139,6 @@ quotableClips:
   startOffset: 3350
   url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=3350
   endOffset: 3487
-- name: 'Closing Remarks: Final thoughts, contact info, and upcoming workshops'
-  startOffset: 3487
-  url: https://www.youtube.com/watch?v=p1gVaS4Zx5M&t=3487
-  endOffset: 3471
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Overview: Danny Leybzon, MLOps Architect at WhyLabs'

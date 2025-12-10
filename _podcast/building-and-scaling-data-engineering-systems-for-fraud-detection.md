@@ -1,6 +1,7 @@
 ---
-title: "Build and Scale Data Engineering Systems for Fraud Detection: Feature Pipelines, Real-Time Inference, Graph Databases & Production Debugging"
-short: "Data Engineering for Fraud Prevention"
+title: 'Build and Scale Data Engineering Systems for Fraud Detection: Feature Pipelines,
+  Real-Time Inference, Graph Databases & Production Debugging'
+short: Data Engineering for Fraud Prevention
 season: 15
 episode: 9
 guests:
@@ -14,19 +15,31 @@ links:
   apple: https://podcasts.apple.com/us/podcast/data-engineering-for-fraud-prevention-angela-ramirez/id1541710331?i=1000630468398
   spotify: https://open.spotify.com/episode/4wpYwS8XTlNdws39Zynakf?si=OFAHIkVsQlKvdTnlFNaLGg
   youtube: https://www.youtube.com/watch?v=ZXNKjrrKU_I
-
-description: "Learn retail fraud detection with real-time scoring and MLOps: build data pipelines, graph investigations, and instant cashier decisions to cut losses."
+description: 'Learn retail fraud detection with real-time scoring and MLOps: build
+  data pipelines, graph investigations, and instant cashier decisions to cut losses.'
 topics:
 - data engineering
 - MLOps
 - fraud detection
 - graph databases
 - software engineering
-intro: "How do you build data infrastructure that stops stolen-card transactions and return abuse in real time? In this episode, Angela Ramirez, a Sam’s Club data engineer who moved from Sephora and specializes in machine learning for fraud prevention, walks through the engineering behind retail fraud detection. Drawing on her background in NLP and four years as a data engineer, Angela explains pipelines, feature engineering workflows that combine daily batches with real-time scoring, and the MLOps responsibilities for model metrics, deployment, and monitoring. <br><br> We cover system design best practices—stakeholder alignment, timing, documentation—and data modeling tradeoffs across relational, document (Elasticsearch), and graph databases (SPARQL, Neo4j) to support network features connecting members, transactions, and products. Angela also discusses hybrid architectures for instant inference, tooling like PySpark, Pandas/PyArrow, Cassandra, GCP/Dataproc, and data quality practices (Great Expectations), plus operational debugging and scaling patterns. Listen to learn practical approaches to real-time scoring, graph-powered investigations, and the engineering decisions that make retail fraud detection reliable and actionable"
+intro: How do you build data infrastructure that stops stolen-card transactions and
+  return abuse in real time? In this episode, Angela Ramirez, a Sam’s Club data engineer
+  who moved from Sephora and specializes in machine learning for fraud prevention,
+  walks through the engineering behind retail fraud detection. Drawing on her background
+  in NLP and four years as a data engineer, Angela explains pipelines, feature engineering
+  workflows that combine daily batches with real-time scoring, and the MLOps responsibilities
+  for model metrics, deployment, and monitoring. <br><br> We cover system design best
+  practices—stakeholder alignment, timing, documentation—and data modeling tradeoffs
+  across relational, document (Elasticsearch), and graph databases (SPARQL, Neo4j)
+  to support network features connecting members, transactions, and products. Angela
+  also discusses hybrid architectures for instant inference, tooling like PySpark,
+  Pandas/PyArrow, Cassandra, GCP/Dataproc, and data quality practices (Great Expectations),
+  plus operational debugging and scaling patterns. Listen to learn practical approaches
+  to real-time scoring, graph-powered investigations, and the engineering decisions
+  that make retail fraud detection reliable and actionable
 dateadded: 2023-10-07
-
 duration: PT00H59M19S
-
 quotableClips:
 - name: Podcast Introduction & Guest Overview (Angela Ramirez)
   startOffset: 0
@@ -144,11 +157,6 @@ quotableClips:
   startOffset: 3600
   url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3600
   endOffset: 3675
-- name: Episode Wrap-Up & Contact Links
-  startOffset: 3675
-  url: https://www.youtube.com/watch?v=ZXNKjrrKU_I&t=3675
-  endOffset: 3559
-
 transcript:
 - header: Podcast Introduction & Guest Overview (Angela Ramirez)
 - line: This week, we will talk about data engineering and fraud detection. We have

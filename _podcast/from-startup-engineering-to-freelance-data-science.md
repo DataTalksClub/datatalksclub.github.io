@@ -1,6 +1,7 @@
 ---
-title: "Freelance Data Scientist Playbook: MLOps, Model Monitoring, Upwork & Startup Skills"
-short: "Lessons Learned from Freelancing and Working in a Start-up"
+title: 'Freelance Data Scientist Playbook: MLOps, Model Monitoring, Upwork & Startup
+  Skills'
+short: Lessons Learned from Freelancing and Working in a Start-up
 season: 14
 episode: 5
 guests:
@@ -14,9 +15,24 @@ links:
   apple: https://podcasts.apple.com/us/podcast/lessons-learned-from-freelancing-and-working-in-a/id1541710331?i=1000616311575
   spotify: https://open.spotify.com/episode/4ehGduC0p734UtwPr5HANq?si=rEC_XP-4RSKYh0TtSQBtlw
   youtube: https://www.youtube.com/watch?v=-Gj7SaI-QW4
-
-description: "Discover MLOps, model monitoring & Upwork tips to build a freelance data scientist portfolio: pricing, onboarding, tools to land clients including MLflow"
-intro: "How do you transition from startup engineering to a sustainable freelance data science practice while handling MLOps, model monitoring, and client work on Upwork? In this episode, Antonis Stellas — a freelance data scientist at Nanometrisis with a background in applied mathematics, physics and a professional doctorate working on industry consultancy — lays out a practical playbook. <br><br> Antonis walks through startup-honed skills (cross-functional roles, lean build-measure-learn, communication and business know-how), concrete MLOps tooling and patterns (MLflow, Prefect, Grafana), and model monitoring essentials like data drift, concept drift and using Evidently AI. He shares a hands-on course project (semiconductor prediction), streaming examples (YouTube metrics into BigQuery/Looker), Kafka/Confluent emphasis, and an open-source Evidently how-to from Hacktoberfest. <br><br> For freelancers, Antonis details starting on Upwork — profile building, proposal iteration, pricing strategy, onboarding workflows, invoicing and balancing startup commitments. Listen to get actionable guidance on building a portfolio, selecting projects, monitoring production models, and practical steps to find and retain clients as a freelance data scientist"
+description: 'Discover MLOps, model monitoring & Upwork tips to build a freelance
+  data scientist portfolio: pricing, onboarding, tools to land clients including MLflow'
+intro: How do you transition from startup engineering to a sustainable freelance data
+  science practice while handling MLOps, model monitoring, and client work on Upwork?
+  In this episode, Antonis Stellas — a freelance data scientist at Nanometrisis with
+  a background in applied mathematics, physics and a professional doctorate working
+  on industry consultancy — lays out a practical playbook. <br><br> Antonis walks
+  through startup-honed skills (cross-functional roles, lean build-measure-learn,
+  communication and business know-how), concrete MLOps tooling and patterns (MLflow,
+  Prefect, Grafana), and model monitoring essentials like data drift, concept drift
+  and using Evidently AI. He shares a hands-on course project (semiconductor prediction),
+  streaming examples (YouTube metrics into BigQuery/Looker), Kafka/Confluent emphasis,
+  and an open-source Evidently how-to from Hacktoberfest. <br><br> For freelancers,
+  Antonis details starting on Upwork — profile building, proposal iteration, pricing
+  strategy, onboarding workflows, invoicing and balancing startup commitments. Listen
+  to get actionable guidance on building a portfolio, selecting projects, monitoring
+  production models, and practical steps to find and retain clients as a freelance
+  data scientist
 topics:
 - freelance
 - startups
@@ -25,9 +41,7 @@ topics:
 - MLOps
 dateadded: 2023-06-10
 date: 2025-11-07
-
 duration: PT00H58M11S
-
 quotableClips:
 - name: 'Podcast Introduction: guest Antonis and episode themes'
   startOffset: 0
@@ -141,11 +155,6 @@ quotableClips:
   startOffset: 3491
   url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=3491
   endOffset: 3583
-- name: Closing Remarks and invitation to the community
-  startOffset: 3583
-  url: https://www.youtube.com/watch?v=-Gj7SaI-QW4&t=3583
-  endOffset: 3491
-
 transcript:
 - header: 'Podcast Introduction: guest Antonis and episode themes'
 - header: 'Podcast Introduction: guest Antonis and episode themes'

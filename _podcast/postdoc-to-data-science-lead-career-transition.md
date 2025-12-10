@@ -1,6 +1,7 @@
 ---
-title: "From Postdoc to Data Science Lead: ML Foundations, Docker Deployment & Hiring Tips"
-short: "Moving from Academia to Industry"
+title: 'From Postdoc to Data Science Lead: ML Foundations, Docker Deployment & Hiring
+  Tips'
+short: Moving from Academia to Industry
 season: 6
 episode: 6
 guests:
@@ -14,18 +15,30 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Moving-from-Academia-to-Industry---CJ-Jenkins-e1bh84o
   spotify: https://open.spotify.com/episode/5Jvo53ibSoX6rfkfdGq5pJ
   apple: https://podcasts.apple.com/us/podcast/moving-from-academia-to-industry-cj-jenkins/id1541710331?i=1000544589971
-
-description: "Learn a one-year roadmap from postdoc to data science lead: machine learning foundations, Docker deployment, resume and hiring tips to land jobs."
-intro: "How do you go from a postdoc to a data science lead while mastering machine learning foundations and deployment? In this episode, CJ Jenkins — a PhD-turned-data science lead working on credit risk modeling, with published research and a textbook used in academia — walks through that transition. We trace CJ’s roots in evolutionary biology and genomics, the statistical ML foundations (GLMs, population dynamics), and practical tools like Bash, R, Python, and SQL. Key topics include Docker deployment and bridging the gap between research and production, hiring signals and interview assessment techniques that prioritize learning agility and humility, and concrete career tactics: a one-year Coursera sprint (Johns Hopkins, Andrew Ng), resume rewrites (14 CV iterations), LinkedIn keyword strategy, and selective application versus volume. CJ also discusses location and networking strategies (Berlin, Stockholm, Klarna onboarding), technical expectations for juniors, code quality, and building psychological safety on teams. Listen to learn actionable steps for skills-first resumes, interview preparation, deployment basics, and how to translate academic output into industry impact. Find CJ on LinkedIn for follow-up questions."
+description: 'Learn a one-year roadmap from postdoc to data science lead: machine
+  learning foundations, Docker deployment, resume and hiring tips to land jobs.'
+intro: 'How do you go from a postdoc to a data science lead while mastering machine
+  learning foundations and deployment? In this episode, CJ Jenkins — a PhD-turned-data
+  science lead working on credit risk modeling, with published research and a textbook
+  used in academia — walks through that transition. We trace CJ’s roots in evolutionary
+  biology and genomics, the statistical ML foundations (GLMs, population dynamics),
+  and practical tools like Bash, R, Python, and SQL. Key topics include Docker deployment
+  and bridging the gap between research and production, hiring signals and interview
+  assessment techniques that prioritize learning agility and humility, and concrete
+  career tactics: a one-year Coursera sprint (Johns Hopkins, Andrew Ng), resume rewrites
+  (14 CV iterations), LinkedIn keyword strategy, and selective application versus
+  volume. CJ also discusses location and networking strategies (Berlin, Stockholm,
+  Klarna onboarding), technical expectations for juniors, code quality, and building
+  psychological safety on teams. Listen to learn actionable steps for skills-first
+  resumes, interview preparation, deployment basics, and how to translate academic
+  output into industry impact. Find CJ on LinkedIn for follow-up questions.'
 topics:
 - career transition
 - machine learning
 - academia
 - career growth
 dateadded: 2021-12-11
-
 duration: PT00H58M44S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -139,11 +152,6 @@ quotableClips:
   startOffset: 3328
   url: https://www.youtube.com/watch?v=m4F651BpUFk&t=3328
   endOffset: 3525
-- name: Closing Remarks and Contact Info (Find CJ on LinkedIn)
-  startOffset: 3525
-  url: https://www.youtube.com/watch?v=m4F651BpUFk&t=3525
-  endOffset: 3524
-
 transcript:
 - header: Podcast Introduction
 - header: 'Career Journey: Postdoc to Data Science Lead'

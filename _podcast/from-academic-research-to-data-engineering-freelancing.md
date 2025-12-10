@@ -1,6 +1,7 @@
 ---
-title: "From Academic Research to Lean Data Consulting: MVP Strategy, Problem-First Thinking & Freelance Practice Building"
-short: "From Simulation Algorithms to Production-Grade Data Systems"
+title: 'From Academic Research to Lean Data Consulting: MVP Strategy, Problem-First
+  Thinking & Freelance Practice Building'
+short: From Simulation Algorithms to Production-Grade Data Systems
 season: 21
 episode: 1
 guests:
@@ -14,7 +15,9 @@ links:
   apple: https://podcasts.apple.com/us/podcast/from-simulations-to-freelance-data-engineering-orells/id1541710331?i=1000720245457
   spotify: https://open.spotify.com/episode/5HCSIO0mO8Pr5Yv9puZ72R
   youtube: https://www.youtube.com/watch?v=pkcpH5N-GP8
-description: "Learn lean data, MVP strategy, and problem-first thinking to build a freelance consulting practice—turn research into actionable services and win clients fast."
+description: Learn lean data, MVP strategy, and problem-first thinking to build a
+  freelance consulting practice—turn research into actionable services and win clients
+  fast.
 topics:
 - data engineering
 - academia
@@ -22,8 +25,22 @@ topics:
 - MLOps
 - computer vision
 - freelance
-- career transition  
-intro: "How do you turn academic research and simulation expertise into a lean data consulting practice without getting bogged down in perfect solutions? In this episode we talk with Orell Garten, an electrical engineering graduate who focused on simulation algorithms, left a PhD during COVID, and learned through a government-funded startup program how to translate scientific research into real products. <br><br> Orell breaks down problem-first thinking, MVP strategy for data and simulation projects, and the practical steps involved in freelance practice building after academia. We explore how to apply rigorous simulation methods to client problems, prioritize minimal viable products over perfection, and navigate the transition from lab-based research to lean data consulting. <br><br> Listeners will come away with a clearer framework for deciding what to build first, how to validate assumptions with lightweight experiments, and how to position technical skills for consulting engagements. This episode is for researchers and engineers considering freelance work, consultants refining their MVP approach, and anyone interested in applying simulation methods and problem-first thinking to deliver practical data-driven solutions."
+- career transition
+intro: How do you turn academic research and simulation expertise into a lean data
+  consulting practice without getting bogged down in perfect solutions? In this episode
+  we talk with Orell Garten, an electrical engineering graduate who focused on simulation
+  algorithms, left a PhD during COVID, and learned through a government-funded startup
+  program how to translate scientific research into real products. <br><br> Orell
+  breaks down problem-first thinking, MVP strategy for data and simulation projects,
+  and the practical steps involved in freelance practice building after academia.
+  We explore how to apply rigorous simulation methods to client problems, prioritize
+  minimal viable products over perfection, and navigate the transition from lab-based
+  research to lean data consulting. <br><br> Listeners will come away with a clearer
+  framework for deciding what to build first, how to validate assumptions with lightweight
+  experiments, and how to position technical skills for consulting engagements. This
+  episode is for researchers and engineers considering freelance work, consultants
+  refining their MVP approach, and anyone interested in applying simulation methods
+  and problem-first thinking to deliver practical data-driven solutions.
 dateadded: 2025-08-05
 duration: PT01H03M31S
 quotableClips:
@@ -110,10 +127,6 @@ quotableClips:
 - name: 'Manual Data Exploration: Handling Edge Cases Before Automation'
   startOffset: 3653
   url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=3653
-  endOffset: 3811
-- name: Closing Remarks and Freelancing Advice
-  startOffset: 3811
-  url: https://www.youtube.com/watch?v=pkcpH5N-GP8&t=3811
   endOffset: 3811
 transcript:
 - header: Episode Introduction & Overview

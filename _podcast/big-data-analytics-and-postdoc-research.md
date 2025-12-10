@@ -1,6 +1,7 @@
 ---
-title: "Master Spatial Big Data Analytics: Nebula Stream Systems, Postdoc Mentoring & PhD Tips"
-short: "Advancing Big Data Analytics: Post-Doctoral Research"
+title: 'Master Spatial Big Data Analytics: Nebula Stream Systems, Postdoc Mentoring
+  & PhD Tips'
+short: 'Advancing Big Data Analytics: Post-Doctoral Research'
 season: 6
 episode: 5
 guests:
@@ -14,18 +15,31 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Advancing-Big-Data-Analytics-Post-Doctoral-Research---Eleni-Tzirita-Zacharatou-e1b6f41
   spotify: https://open.spotify.com/episode/6rgBSTPRvgNcJ7ouFyZmbH
   apple: https://podcasts.apple.com/us/podcast/advancing-big-data-analytics-post-doctoral-research/id1541710331?i=1000543884294
-
-description: "Discover Spatial Big Data, Nebula Stream & postdoc mentoring: PhD tips, publishing, time-management and stream-processing tactics to boost your research."
-intro: "How do you master spatial big data analytics while navigating the demands of postdoc research, systems building, and preparing for a PhD? In this episode, Eleni Tzirita-Zacharatou — a postdoctoral researcher at the DIMA Group, TU Berlin, with a PhD from EPFL and award-winning work in data management — breaks down practical approaches to spatial big data analytics (GPS traces, trajectories, satellite imagery) and robust stream processing for IoT. We cover systems-driven research like the Nebula Stream and Agora infrastructure, spotting research trends via conferences and reviewing, and aligning academic work with industry needs. Eleni also outlines the postdoc role (mentoring, teaching, reviewing, dissemination), time management strategies, realities of publishing and top venues (VLDB, SIGMOD, ICDE), mentoring tactics for BSc/MSc/PhD students, and advice on choosing and preparing for a PhD or master’s thesis. Listeners will gain concrete guidance on research priorities beyond raw performance (usability, energy, adoption), multidisciplinary collaboration, data cleaning evaluation challenges, and steps to increase diversity in CS. Tune in for actionable postdoc mentoring and PhD tips grounded in spatial big data and stream processing research"
+description: 'Discover Spatial Big Data, Nebula Stream & postdoc mentoring: PhD tips,
+  publishing, time-management and stream-processing tactics to boost your research.'
+intro: How do you master spatial big data analytics while navigating the demands of
+  postdoc research, systems building, and preparing for a PhD? In this episode, Eleni
+  Tzirita-Zacharatou — a postdoctoral researcher at the DIMA Group, TU Berlin, with
+  a PhD from EPFL and award-winning work in data management — breaks down practical
+  approaches to spatial big data analytics (GPS traces, trajectories, satellite imagery)
+  and robust stream processing for IoT. We cover systems-driven research like the
+  Nebula Stream and Agora infrastructure, spotting research trends via conferences
+  and reviewing, and aligning academic work with industry needs. Eleni also outlines
+  the postdoc role (mentoring, teaching, reviewing, dissemination), time management
+  strategies, realities of publishing and top venues (VLDB, SIGMOD, ICDE), mentoring
+  tactics for BSc/MSc/PhD students, and advice on choosing and preparing for a PhD
+  or master’s thesis. Listeners will gain concrete guidance on research priorities
+  beyond raw performance (usability, energy, adoption), multidisciplinary collaboration,
+  data cleaning evaluation challenges, and steps to increase diversity in CS. Tune
+  in for actionable postdoc mentoring and PhD tips grounded in spatial big data and
+  stream processing research
 topics:
 - academia
 - big data analytics
 - tools
 - data engineering
 dateadded: 2021-12-05
-
 duration: PT01H01M37S
-
 quotableClips:
 - name: 'Guest Introduction: Eleni Tzirita-Zacharatou, postdoctoral researcher at
     DIMA, TU Berlin'
@@ -133,11 +147,6 @@ quotableClips:
   startOffset: 3714
   url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=3714
   endOffset: 3722
-- name: Episode Conclusion and Thanks
-  startOffset: 3722
-  url: https://www.youtube.com/watch?v=7jgmIQGMhGE&t=3722
-  endOffset: 3697
-
 transcript:
 - header: 'Guest Introduction: Eleni Tzirita-Zacharatou, postdoctoral researcher at
     DIMA, TU Berlin'

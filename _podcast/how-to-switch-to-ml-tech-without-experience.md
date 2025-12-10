@@ -1,6 +1,7 @@
 ---
-title: "How to Switch to Tech: Community Meetups, Open Source Fellowships & Landing an Ecosia Internship"
-short: "From Roasting Coffee to Backend Development"
+title: 'How to Switch to Tech: Community Meetups, Open Source Fellowships & Landing
+  an Ecosia Internship'
+short: From Roasting Coffee to Backend Development
 season: 8
 episode: 7
 guests:
@@ -14,18 +15,30 @@ links:
   apple: https://podcasts.apple.com/us/podcast/from-roasting-coffee-to-backend-development-jessica/id1541710331?i=1000559856138
   spotify: https://open.spotify.com/episode/3AnUc03nLbIYS6ichWIrRE?si=momJMlwdTpKFkI0FYQilag
   youtube: https://www.youtube.com/watch?v=BKqmNdxsBko
-
-description: "Discover practical career switch tips: meetups, open source fellowship & landing an Ecosia internship—networking, study paths, funding, mentorship to get hired."
-intro: "How do you switch to tech from a completely different career and actually land an internship at a mission-driven company? In this episode, Jessica Greene — Senior Machine Learning Engineer at Ecosia and co-organizer of PyLadies Berlin — walks through her journey from film and coffee roasting to machine learning, sharing concrete steps for a career change to tech. We cover the learning path Jessica used (Codecademy, Andrew Ng, FreeCodeCamp), funding and study time via Germany’s Bildungsgutschein, and hands-on experience through an open source fellowship (Rails Girls Summer of Code) and pair programming. You’ll hear how community meetups, PyLadies, and networking translated into an Ecosia internship, what interviewers notice (inquisitiveness, creating roles), and practical tips for building system skills (terminal, dual-boot Linux), overcoming imposter syndrome, and getting started with public speaking and event organizing. If you’re considering a switch to tech, this episode offers realistic guidance on open source fellowships, meetups, study resources, and interview strategies to help you build skills, confidence, and professional connections"
+description: 'Discover practical career switch tips: meetups, open source fellowship
+  & landing an Ecosia internship—networking, study paths, funding, mentorship to get
+  hired.'
+intro: How do you switch to tech from a completely different career and actually land
+  an internship at a mission-driven company? In this episode, Jessica Greene — Senior
+  Machine Learning Engineer at Ecosia and co-organizer of PyLadies Berlin — walks
+  through her journey from film and coffee roasting to machine learning, sharing concrete
+  steps for a career change to tech. We cover the learning path Jessica used (Codecademy,
+  Andrew Ng, FreeCodeCamp), funding and study time via Germany’s Bildungsgutschein,
+  and hands-on experience through an open source fellowship (Rails Girls Summer of
+  Code) and pair programming. You’ll hear how community meetups, PyLadies, and networking
+  translated into an Ecosia internship, what interviewers notice (inquisitiveness,
+  creating roles), and practical tips for building system skills (terminal, dual-boot
+  Linux), overcoming imposter syndrome, and getting started with public speaking and
+  event organizing. If you’re considering a switch to tech, this episode offers realistic
+  guidance on open source fellowships, meetups, study resources, and interview strategies
+  to help you build skills, confidence, and professional connections
 topics:
 - career switch
 - machine learning
 - job search
 - career growth
 dateadded: 2022-05-07
-
 duration: PT00H59M32S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -119,11 +132,6 @@ quotableClips:
   startOffset: 3593
   url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=3593
   endOffset: 3628
-- name: Episode Wrap-Up and Closing Remarks
-  startOffset: 3628
-  url: https://www.youtube.com/watch?v=BKqmNdxsBko&t=3628
-  endOffset: 3572
-
 transcript:
 - header: Podcast Introduction
 - header: 'Career Origin: From Film & Coffee Roasting to Tech'

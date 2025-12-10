@@ -1,6 +1,6 @@
 ---
-title: "How to Find a Mentor and Become One: Mentoring Strategies for Tech Careers"
-short: "Mentoring"
+title: 'How to Find a Mentor and Become One: Mentoring Strategies for Tech Careers'
+short: Mentoring
 season: 1
 episode: 5
 guests:
@@ -14,18 +14,31 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Mentoring---Rahul-Jain-eo7cmu
   spotify: TODO
   apple: TODO
-
-description: "Discover practical mentoring strategies for tech careers: find mentors, master cold outreach, run effective sessions, start paid mentorship & boost leadership."
+description: 'Discover practical mentoring strategies for tech careers: find mentors,
+  master cold outreach, run effective sessions, start paid mentorship & boost leadership.'
 topics:
 - mentoring
 - career development
 - career transition
 - leadership
 - data engineering
-intro: "Struggling to find a mentor — or wondering how to become one — in a fast-moving tech career? In this episode, Rahul Jain, a senior solutions engineer and data/AI leader with 15+ years driving enterprise data transformations and a career arc from mining engineering to data engineering and leadership, walks through practical mentoring strategies for tech professionals. We define mentoring (purpose, scope, types), explore early models like Thoughtworks’ sponsorship, and show how to find mentors through networks, platforms, and cold outreach — with concrete outreach best practices: specificity, background, and follow-up. Rahul covers preparing mentoring sessions (goals, agendas), mentoring formats (one-off advice vs long-term relationships), and how to start as a mentor using simple first steps and platforms. Topics include benefits of mentoring, transferable workplace guidance, developing people skills (empathy, listening), balancing technical work and leadership, tackling imposter syndrome, coaching vs managing, setting boundaries and paid mentorship, and maintaining development plans. Listen to gain actionable steps, templates, and mindset shifts to both secure meaningful mentorship and build a sustainable mentoring practice in your tech career."
+intro: 'Struggling to find a mentor — or wondering how to become one — in a fast-moving
+  tech career? In this episode, Rahul Jain, a senior solutions engineer and data/AI
+  leader with 15+ years driving enterprise data transformations and a career arc from
+  mining engineering to data engineering and leadership, walks through practical mentoring
+  strategies for tech professionals. We define mentoring (purpose, scope, types),
+  explore early models like Thoughtworks’ sponsorship, and show how to find mentors
+  through networks, platforms, and cold outreach — with concrete outreach best practices:
+  specificity, background, and follow-up. Rahul covers preparing mentoring sessions
+  (goals, agendas), mentoring formats (one-off advice vs long-term relationships),
+  and how to start as a mentor using simple first steps and platforms. Topics include
+  benefits of mentoring, transferable workplace guidance, developing people skills
+  (empathy, listening), balancing technical work and leadership, tackling imposter
+  syndrome, coaching vs managing, setting boundaries and paid mentorship, and maintaining
+  development plans. Listen to gain actionable steps, templates, and mindset shifts
+  to both secure meaningful mentorship and build a sustainable mentoring practice
+  in your tech career.'
 dateadded: 2021-02-23
-
-
 quotableClips:
 - name: Episode Introduction
   startOffset: 0
@@ -111,13 +124,9 @@ quotableClips:
   startOffset: 3390
   url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=3390
   endOffset: 3480
-- name: Closing Thoughts and Resources
-  startOffset: 3480
-  url: https://www.youtube.com/watch?v=LQvwTNQbPg4&t=3480
-  endOffset: 3480
-
-keywords: mentoring, career development, tech mentorship, finding a mentor, becoming a mentor, imposter syndrome, tech leadership, career advice, professional development, data engineering
-
+keywords: mentoring, career development, tech mentorship, finding a mentor, becoming
+  a mentor, imposter syndrome, tech leadership, career advice, professional development,
+  data engineering
 transcript:
 - line: Thank you everyone for coming to today's event. This event is brought to you
     by Data Talks Club, which is a community of people interested in data. We have
@@ -328,11 +337,11 @@ transcript:
   sec: 714
   time: '11:54'
   who: Rahul
-- line: "You mentioned reaching out to your network. I sometimes get messages like\
-    \ \u201CCan you help me with this?\u201D and I often cannot because I do not always\
-    \ have the required expertise. Sometimes it feels like people send the same message\
-    \ to everyone, hoping someone will respond. I think there is a better way to target\
-    \ a message to a specific person. How would you recommend doing this?"
+- line: You mentioned reaching out to your network. I sometimes get messages like
+    “Can you help me with this?” and I often cannot because I do not always have the
+    required expertise. Sometimes it feels like people send the same message to everyone,
+    hoping someone will respond. I think there is a better way to target a message
+    to a specific person. How would you recommend doing this?
   sec: 745
   time: '12:25'
   who: Alexey
@@ -356,10 +365,10 @@ transcript:
   sec: 862
   time: '14:22'
   who: Alexey
-- line: "Being specific helps. If I get a message that says \u201CCan you help me\
-    \ with something?\u201D, I do not know whether I can help. It is more useful when\
-    \ someone explains who they are, what they are struggling with, and what they\
-    \ have already tried. Showing authenticity and effort makes a big difference."
+- line: Being specific helps. If I get a message that says “Can you help me with something?”,
+    I do not know whether I can help. It is more useful when someone explains who
+    they are, what they are struggling with, and what they have already tried. Showing
+    authenticity and effort makes a big difference.
   sec: 902
   time: '15:02'
   who: Rahul
@@ -511,10 +520,10 @@ transcript:
   sec: 1682
   time: '28:02'
   who: Rahul
-- line: "Some aspects, like being a better listener or avoiding the \u201Cadvice monster,\u201D\
-    \ jumping immediately into giving advice, are learned over time. Mentoring is\
-    \ a skill that comes with practice, and you are likely already doing some of it\
-    \ at work."
+- line: Some aspects, like being a better listener or avoiding the “advice monster,”
+    jumping immediately into giving advice, are learned over time. Mentoring is a
+    skill that comes with practice, and you are likely already doing some of it at
+    work.
   sec: 1755
   time: '29:15'
   who: Rahul
@@ -559,10 +568,10 @@ transcript:
   sec: 1903
   time: '31:43'
   who: Alexey
-- line: "Long-term mentorship is a little tricky. I have a few people I mentor long-term,\
-    \ some from ThoughtWorks and some from the mentoring club. You need to be mindful\
-    \ of the mentor\u2019s time investment. Some mentors do it professionally and\
-    \ charge a fee."
+- line: Long-term mentorship is a little tricky. I have a few people I mentor long-term,
+    some from ThoughtWorks and some from the mentoring club. You need to be mindful
+    of the mentor’s time investment. Some mentors do it professionally and charge
+    a fee.
   sec: 1918
   time: '31:58'
   who: Rahul
@@ -737,7 +746,7 @@ transcript:
 - line: Have a nice day and a nice weekend. Bye everyone.
   sec: 3486
   time: '58:06'
-  who: Rahul                                                                                                                                                                                                     
+  who: Rahul
 ---
 
 Today we're discussing mentoring with [Rahul Jain](/people/rahuljain.html), a technical leader with about 20 years of experience building and running software products. He currently leads the Business Intelligence and Data Engineering units at Omio, a ticket-booking company, and mentors engineers and managers through The Mentoring Club.

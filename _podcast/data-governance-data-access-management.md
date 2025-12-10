@@ -1,6 +1,7 @@
 ---
-title: "Data Governance & Data Access Management: Access Controls, Data Catalogs & Access-as-Code"
-short: "Data Governance & Data Access Management"
+title: 'Data Governance & Data Access Management: Access Controls, Data Catalogs &
+  Access-as-Code'
+short: Data Governance & Data Access Management
 season: 14
 episode: 4
 guests:
@@ -14,15 +15,28 @@ links:
   apple: https://podcasts.apple.com/us/podcast/data-access-management-bart-vandekerckhove/id1541710331?i=1000615456026
   spotify: https://open.spotify.com/episode/5PDgK1FsGNtKAAyiXOppRs?si=QZDP8k38Q0e4LaZtl4lCMA
   youtube: https://www.youtube.com/watch?v=IiPOIiUy5b4
-
-description: "Master Data Access Management with data catalog, access controls & access-as-code to stop privilege creep, speed investigations and ensure compliance"
-intro: "How do you scale data access management—from access controls and data catalogs to access-as-code—without slowing innovation? In this episode, Bart Vandekerckhove, co-founder and CEO at Raito and former PM of Privacy at Collibra, walks through practical approaches born from consulting with banks (BCBS 239) and tackling early data governance pain. <br><br> We explore what effective data governance looks like for building trust in data, the differences between data catalogs, dictionaries and lineage, and how cloud consolidation and Chinese walls shape access management. Bart covers ownership models (data teams, governance teams, data mesh), common skill gaps for data engineers, and core processes: access requests, approvals, reviews and revocation. You’ll hear actionable tactics for preventing privilege creep—time-bound access, revocation workflows—and guidance on GDPR, privacy vs security roles, and debugging with temporary access. <br><br> Later segments dive into DataOps patterns (active metadata, automated tagging), avoiding role explosion, and the rise of access-as-code with Terraform and IAM. Listeners will gain a clear, incremental strategy for implementing access controls, leveraging data catalogs, and evaluating build vs buy or open source options to scale data access management."
+description: Master Data Access Management with data catalog, access controls & access-as-code
+  to stop privilege creep, speed investigations and ensure compliance
+intro: 'How do you scale data access management—from access controls and data catalogs
+  to access-as-code—without slowing innovation? In this episode, Bart Vandekerckhove,
+  co-founder and CEO at Raito and former PM of Privacy at Collibra, walks through
+  practical approaches born from consulting with banks (BCBS 239) and tackling early
+  data governance pain. <br><br> We explore what effective data governance looks like
+  for building trust in data, the differences between data catalogs, dictionaries
+  and lineage, and how cloud consolidation and Chinese walls shape access management.
+  Bart covers ownership models (data teams, governance teams, data mesh), common skill
+  gaps for data engineers, and core processes: access requests, approvals, reviews
+  and revocation. You’ll hear actionable tactics for preventing privilege creep—time-bound
+  access, revocation workflows—and guidance on GDPR, privacy vs security roles, and
+  debugging with temporary access. <br><br> Later segments dive into DataOps patterns
+  (active metadata, automated tagging), avoiding role explosion, and the rise of access-as-code
+  with Terraform and IAM. Listeners will gain a clear, incremental strategy for implementing
+  access controls, leveraging data catalogs, and evaluating build vs buy or open source
+  options to scale data access management.'
 topics:
 - data governance
 dateadded: 2023-06-03
-
 duration: PT00H55M54S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -140,11 +154,6 @@ quotableClips:
   startOffset: 3356
   url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=3356
   endOffset: 3396
-- name: Closing Remarks & Next Steps
-  startOffset: 3396
-  url: https://www.youtube.com/watch?v=IiPOIiUy5b4&t=3396
-  endOffset: 3354
-
 transcript:
 - header: Podcast Introduction
 - header: 'Episode Overview: Data Access Management & Guest Summary'

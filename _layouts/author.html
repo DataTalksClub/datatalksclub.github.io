@@ -81,4 +81,39 @@
   </div>
 
   {% include footer.html %}
+
+  {%- assign person_description = page.bio_short | default: page.description | default: content | strip_html | strip_newlines | truncate: 200 -%}
+  {%- assign same_as_links = "" -%}
+  {%- if page.linkedin -%}
+    {%- assign same_as_links = same_as_links | append: '"https://www.linkedin.com/in/' | append: page.linkedin | append: '/"' -%}
+  {%- endif -%}
+  {%- if page.twitter -%}
+    {%- if same_as_links != "" -%}
+      {%- assign same_as_links = same_as_links | append: ', ' -%}
+    {%- endif -%}
+    {%- assign same_as_links = same_as_links | append: '"https://twitter.com/' | append: page.twitter | append: '"' -%}
+  {%- endif -%}
+  {%- if page.github -%}
+    {%- if same_as_links != "" -%}
+      {%- assign same_as_links = same_as_links | append: ', ' -%}
+    {%- endif -%}
+    {%- assign same_as_links = same_as_links | append: '"https://github.com/' | append: page.github | append: '"' -%}
+  {%- endif -%}
+  {%- if page.web -%}
+    {%- if same_as_links != "" -%}
+      {%- assign same_as_links = same_as_links | append: ', ' -%}
+    {%- endif -%}
+    {%- assign same_as_links = same_as_links | append: '"' | append: page.web | append: '"' -%}
+  {%- endif -%}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": {{ page.title | jsonify }}{% if page.picture %},
+    "image": "{{ site.url }}/{{ page.picture }}"{% endif %},
+    "url": "{{ site.url }}{{ page.url }}",
+    "description": {{ person_description | jsonify }}{% if same_as_links != "" %},
+    "sameAs": [{{ same_as_links }}]{% endif %}
+  }
+  </script>
 </body>

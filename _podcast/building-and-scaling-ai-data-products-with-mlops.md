@@ -1,6 +1,6 @@
 ---
-title: "Build & Scale Data Products for AI: Roadmaps, MLOps, Customer Research & Metrics"
-short: "Product Management Essentials for Data Professionals"
+title: 'Build & Scale Data Products for AI: Roadmaps, MLOps, Customer Research & Metrics'
+short: Product Management Essentials for Data Professionals
 season: 7
 episode: 3
 guests:
@@ -14,18 +14,31 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Product-Management-Essentials-for-Data-Professionals---Greg-Coquillo-e1dr8g5
   spotify: https://open.spotify.com/episode/1Oh6ewUJ2c1jiVcKxWIwDU
   apple: https://podcasts.apple.com/us/podcast/product-management-essentials-for-data-professionals/id1541710331?i=1000550093434
-
-description: "Build scalable data products with MLOps roadmaps, customer research and metric-driven templates - prioritize impact, reduce failures, and measure success"
+description: Build scalable data products with MLOps roadmaps, customer research and
+  metric-driven templates - prioritize impact, reduce failures, and measure success
 topics:
 - product management
 - MLOps
 - data engineering
 - data science
-intro: "How do you move from proofs-of-concept to scalable AI data products that deliver measurable business value? In this episode, Greg Coquillo, a Technology Manager at Amazon who builds AI roadmaps for Private Brands’ product safety and compliance, walks through practical approaches for building and scaling data products, MLOps, customer research, and metrics. <br><br> We cover Greg’s transition into AI product work and the role of data product managers (internal vs. external), then dive into customer journey mapping, domain knowledge, and structured customer research—interview techniques, documentation, the Five Whys, and hypothesis testing. You’ll hear how to work backwards from business problems, contribute technical input to roadmaps with T-shirt sizing, and prioritize MLOps by spotting unscalable manual processes. Greg outlines three-year roadmap thinking (impact, effort, cost), a pragmatic Excel template (problems → solutions → metrics), and SMART and operational metrics like pipeline failures, SLAs, and data quality. He also addresses operating without a PM, aligning team mental models, and on-the-job product skill development. <br><br> Listen to learn actionable methods for roadmap planning, MLOps prioritization, customer research, and defining success metrics for AI-driven data products"
+intro: How do you move from proofs-of-concept to scalable AI data products that deliver
+  measurable business value? In this episode, Greg Coquillo, a Technology Manager
+  at Amazon who builds AI roadmaps for Private Brands’ product safety and compliance,
+  walks through practical approaches for building and scaling data products, MLOps,
+  customer research, and metrics. <br><br> We cover Greg’s transition into AI product
+  work and the role of data product managers (internal vs. external), then dive into
+  customer journey mapping, domain knowledge, and structured customer research—interview
+  techniques, documentation, the Five Whys, and hypothesis testing. You’ll hear how
+  to work backwards from business problems, contribute technical input to roadmaps
+  with T-shirt sizing, and prioritize MLOps by spotting unscalable manual processes.
+  Greg outlines three-year roadmap thinking (impact, effort, cost), a pragmatic Excel
+  template (problems → solutions → metrics), and SMART and operational metrics like
+  pipeline failures, SLAs, and data quality. He also addresses operating without a
+  PM, aligning team mental models, and on-the-job product skill development. <br><br>
+  Listen to learn actionable methods for roadmap planning, MLOps prioritization, customer
+  research, and defining success metrics for AI-driven data products
 dateadded: 2022-02-06
-
 duration: PT00H59M41S
-
 quotableClips:
 - name: Episode Introduction & Guest Overview
   startOffset: 0
@@ -103,11 +116,6 @@ quotableClips:
   startOffset: 3522
   url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=3522
   endOffset: 3647
-- name: Episode Close & How to Connect with Guest
-  startOffset: 3647
-  url: https://www.youtube.com/watch?v=p4wg0Vd2uD4&t=3647
-  endOffset: 3581
-
 transcript:
 - header: Episode Introduction & Guest Overview
 - line: This week, we'll talk about learning product management. We have a special

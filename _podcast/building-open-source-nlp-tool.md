@@ -1,6 +1,7 @@
 ---
-title: "Build Open-Source NLP Tools: Weak Supervision, LLM Heuristics & Enterprise ML Product Strategy"
-short: "Build Open-Source NLP Tools"
+title: 'Build Open-Source NLP Tools: Weak Supervision, LLM Heuristics & Enterprise
+  ML Product Strategy'
+short: Build Open-Source NLP Tools
 season: 13
 episode: 9
 guests:
@@ -14,9 +15,24 @@ links:
   apple: https://podcasts.apple.com/us/podcast/building-an-open-source-nlp-tool-johannes-h%C3%B6tter/id1541710331?i=1000610117894
   spotify: https://open.spotify.com/episode/5SjY4vatlUYFCZUMV7dE7W?si=MC4ZZrKbSTKUEDVEfedGwA
   youtube: https://www.youtube.com/watch?v=WIpnyiHp4IE
-
-description: "Discover weak supervision, NLP labeling & GPT heuristics to build high-quality datasets faster — combine Refinery, Bricks, ensemble heuristics & active learning"
-intro: "How can teams scale high-quality NLP labeling without hand-labeling every example? In this episode, Johannes Hötter, data scientist, engineer, and co-founder of kern, explains practical approaches to that problem using weak supervision, heuristics, and open-source tooling. We walk through demos of Refinery and Bricks, with a close look at Refinery’s weak supervision and labeling workflows, and why Jupyter widgets leave a gap for NLP tooling. <br><br> You’ll hear about common NLP challenges—messy labels and text metadata—and how ChatGPT can be used as a labeling heuristic. Johannes outlines combining heuristics: GPT-driven rules, active learning, and crowd labels as an ensemble of “workers,” plus foundations like Hugging Face, embeddings, and robust data management. Bricks is presented as a heuristic library with recipes and ensemble methods to streamline labeling. <br><br> The conversation also covers productization choices (open-source vs commercial), targeting engineers, enterprise workflows, community support, and niche document/PDF NLP issues. Listen to learn actionable strategies to improve NLP labeling quality, adopt weak supervision and GPT heuristics, and make tooling and go-to-market decisions for scalable data labeling and model training."
+description: Discover weak supervision, NLP labeling & GPT heuristics to build high-quality
+  datasets faster — combine Refinery, Bricks, ensemble heuristics & active learning
+intro: 'How can teams scale high-quality NLP labeling without hand-labeling every
+  example? In this episode, Johannes Hötter, data scientist, engineer, and co-founder
+  of kern, explains practical approaches to that problem using weak supervision, heuristics,
+  and open-source tooling. We walk through demos of Refinery and Bricks, with a close
+  look at Refinery’s weak supervision and labeling workflows, and why Jupyter widgets
+  leave a gap for NLP tooling. <br><br> You’ll hear about common NLP challenges—messy
+  labels and text metadata—and how ChatGPT can be used as a labeling heuristic. Johannes
+  outlines combining heuristics: GPT-driven rules, active learning, and crowd labels
+  as an ensemble of “workers,” plus foundations like Hugging Face, embeddings, and
+  robust data management. Bricks is presented as a heuristic library with recipes
+  and ensemble methods to streamline labeling. <br><br> The conversation also covers
+  productization choices (open-source vs commercial), targeting engineers, enterprise
+  workflows, community support, and niche document/PDF NLP issues. Listen to learn
+  actionable strategies to improve NLP labeling quality, adopt weak supervision and
+  GPT heuristics, and make tooling and go-to-market decisions for scalable data labeling
+  and model training.'
 topics:
 - NLP
 - machine learning
@@ -24,9 +40,7 @@ topics:
 - entrepreneurship
 - founder
 dateadded: 2023-04-23
-
 duration: PT01H27S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -140,11 +154,6 @@ quotableClips:
   startOffset: 3598
   url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=3598
   endOffset: 3675
-- name: Podcast Outro and closing remarks
-  startOffset: 3675
-  url: https://www.youtube.com/watch?v=WIpnyiHp4IE&t=3675
-  endOffset: 3627
-
 transcript:
 - header: Podcast Introduction
 - line: Today we will talk about open source and creating startups in open source

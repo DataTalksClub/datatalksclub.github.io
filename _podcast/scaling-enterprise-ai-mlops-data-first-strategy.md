@@ -1,6 +1,7 @@
 ---
-title: "Scale Enterprise AI: Data-First Strategies, MLOps Best Practices & Realistic Experiments"
-short: "Lessons Learned About Data & AI at Enterprises"
+title: 'Scale Enterprise AI: Data-First Strategies, MLOps Best Practices & Realistic
+  Experiments'
+short: Lessons Learned About Data & AI at Enterprises
 season: 10
 episode: 4
 guests:
@@ -14,19 +15,31 @@ links:
   apple: https://podcasts.apple.com/us/podcast/lessons-learned-about-data-ai-at-enterprises-alexander/id1541710331?i=1000576622709
   spotify: https://open.spotify.com/episode/5t3SwzH17mFjxEoDUx9i5c?si=gaTfOoFnQ7muVkBiYuMxuA
   youtube: https://www.youtube.com/watch?v=Vms29u9xC3k
-
-description: "Discover data-first Enterprise AI strategies and MLOps best practices—learn realistic experiments, CI/CD, governance, and align ML to business impact"
+description: Discover data-first Enterprise AI strategies and MLOps best practices—learn
+  realistic experiments, CI/CD, governance, and align ML to business impact
 topics:
 - MLOps
 - AI
 - machine learning
 - data engineering
 - open-source
-intro: "How do you move from proof-of-concept to scaled enterprise AI without over-investing in hype? In this episode, Alexander Hendorf — head of data and AI at KÖNIGSWEG, PyData chair and Python Software Foundation/EuroPython fellow — walks through pragmatic, data-first strategies for scaling AI across organizations. <br><br> We cover how to align AI initiatives with company goals, run realistic experiments (and why transparent evaluation matters), and set expectations about AI’s limits (the “Beethoven” example). Alexander breaks down a data-first architecture — data lake, BI vs. ML vs. deep learning splits — and explains productionization needs like retraining, feedback loops, and MLOps automation. He shares MLOps best practices: standardization, CI/CD, governance, reproducibility, and warnings about vendor lock-in and consultancy pitfalls. You’ll also hear advice on prioritization over perfection, timing innovation, and choosing platforms that fit long-term team maturity. <br><br> Listen for actionable guidance on experiment design, model evaluation, and building repeatable pipelines so you can scale enterprise AI responsibly and sustainably. Ideal for data leaders, ML engineers, and product owners implementing production ML and MLOps."
+intro: 'How do you move from proof-of-concept to scaled enterprise AI without over-investing
+  in hype? In this episode, Alexander Hendorf — head of data and AI at KÖNIGSWEG,
+  PyData chair and Python Software Foundation/EuroPython fellow — walks through pragmatic,
+  data-first strategies for scaling AI across organizations. <br><br> We cover how
+  to align AI initiatives with company goals, run realistic experiments (and why transparent
+  evaluation matters), and set expectations about AI’s limits (the “Beethoven” example).
+  Alexander breaks down a data-first architecture — data lake, BI vs. ML vs. deep
+  learning splits — and explains productionization needs like retraining, feedback
+  loops, and MLOps automation. He shares MLOps best practices: standardization, CI/CD,
+  governance, reproducibility, and warnings about vendor lock-in and consultancy pitfalls.
+  You’ll also hear advice on prioritization over perfection, timing innovation, and
+  choosing platforms that fit long-term team maturity. <br><br> Listen for actionable
+  guidance on experiment design, model evaluation, and building repeatable pipelines
+  so you can scale enterprise AI responsibly and sustainably. Ideal for data leaders,
+  ML engineers, and product owners implementing production ML and MLOps.'
 dateadded: 2022-08-19
-
 duration: PT01H01M25S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -60,7 +73,8 @@ quotableClips:
   startOffset: 1256
   url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=1256
   endOffset: 1471
-- name: 'Communicating AI to Business: simplification, open source, and stakeholder buy-in'
+- name: 'Communicating AI to Business: simplification, open source, and stakeholder
+    buy-in'
   startOffset: 1471
   url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=1471
   endOffset: 1878
@@ -110,11 +124,6 @@ quotableClips:
   startOffset: 3667
   url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=3667
   endOffset: 3754
-- name: Episode Wrap-Up and Upcoming Conferences
-  startOffset: 3754
-  url: https://www.youtube.com/watch?v=Vms29u9xC3k&t=3754
-  endOffset: 3685
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Overview: Alexander Hendorf — Königsweg partner & PyData chair'

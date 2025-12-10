@@ -1,6 +1,7 @@
 ---
-title: "Data Science Career Playbook: Build Unique IoT Portfolios, Explainable AI, OSINT & LinkedIn Growth"
-short: "Hacking Your Data Career"
+title: 'Data Science Career Playbook: Build Unique IoT Portfolios, Explainable AI,
+  OSINT & LinkedIn Growth'
+short: Hacking Your Data Career
 season: 8
 episode: 2
 guests:
@@ -14,17 +15,23 @@ links:
   apple: https://podcasts.apple.com/us/podcast/hacking-your-data-career-marijn-markus/id1541710331?i=1000555977653
   spotify: https://open.spotify.com/episode/6oJsS0vhvAQasLNv3IklQ6
   youtube: https://www.youtube.com/watch?v=RhSg8ill1So
-
-description: "Discover proven strategies to stand out in data science: build unique portfolio projects, master proactive task selection, and grow visibility with expert LinkedIn tactics."
-intro: "In this episode, Marijn Markus—AI Lead and Managing Data Scientist at Capgemini—shares how to stand out in data science by combining curiosity, courage, and creativity. From his unconventional background in sociology and criminology, Marijn explains how diverse teams outperform homogeneous ones, why proactive problem-solving matters, and how to challenge hierarchy with data-driven insights. <br><br> You'll learn how to build unique portfolio projects (like time series modeling from a coffee machine), apply OSINT concepts to modern analytics, and grow your visibility through a thoughtful LinkedIn strategy"
+description: 'Discover proven strategies to stand out in data science: build unique
+  portfolio projects, master proactive task selection, and grow visibility with expert
+  LinkedIn tactics.'
+intro: In this episode, Marijn Markus—AI Lead and Managing Data Scientist at Capgemini—shares
+  how to stand out in data science by combining curiosity, courage, and creativity.
+  From his unconventional background in sociology and criminology, Marijn explains
+  how diverse teams outperform homogeneous ones, why proactive problem-solving matters,
+  and how to challenge hierarchy with data-driven insights. <br><br> You'll learn
+  how to build unique portfolio projects (like time series modeling from a coffee
+  machine), apply OSINT concepts to modern analytics, and grow your visibility through
+  a thoughtful LinkedIn strategy
 topics:
 - data science
 - career growth
 dateadded: 2022-04-01
 date: 2025-11-07
-
 duration: PT01H02M16S
-
 quotableClips:
 - name: Episode Introduction & Guest Welcome
   startOffset: 0
@@ -126,11 +133,6 @@ quotableClips:
   startOffset: 3744
   url: https://www.youtube.com/watch?v=RhSg8ill1So&t=3744
   endOffset: 3777
-- name: Episode Wrap-Up & Where to Find Marijn
-  startOffset: 3777
-  url: https://www.youtube.com/watch?v=RhSg8ill1So&t=3777
-  endOffset: 3736
-
 transcript:
 - header: Episode Introduction & Guest Welcome
 - header: 'From Sociology to Data Science: Election Models, Social Media & Crime Research'

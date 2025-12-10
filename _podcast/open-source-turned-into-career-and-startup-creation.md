@@ -1,6 +1,6 @@
 ---
-title: "From Developer to Startup Founder: Building a Career Through Open Source"
-short: "From Open-Source Maintainer to Founder"
+title: 'From Developer to Startup Founder: Building a Career Through Open Source'
+short: From Open-Source Maintainer to Founder
 season: 9
 episode: 8
 guests:
@@ -14,18 +14,30 @@ links:
   apple: https://podcasts.apple.com/us/podcast/designing-a-data-science-organization-lisa-cohen/id1541710331?i=1000569172916
   spotify: https://open.spotify.com/episode/4JAwU2jQuXu4MoMucsE899?si=6ed45b98dd4a415a
   youtube: https://www.youtube.com/watch?v=bwfR9dyxf1M
-
-description: "Discover how to turn open source work into a sustainable career and even a startup. Learn about terminal apps, fundraising, community growth & hiring signals."
-intro: "How do you turn open source work into a sustainable career and even a startup? In this episode Will McGugan — a Python open source maintainer and creator of PyFilesystem, Rich, and Textual — walks through his path from video game developer to founder of Textualize. We trace his early projects (BBCode parser, chess libraries), the design of PyFilesystem and S3 integrations, and how solving personal needs led to learning by building. <br><br> Will breaks down the technical and product journey: Rich’s terminal styling, tables, progress bars and observability features; the Textual framework for terminal GUIs; and the moment of founding Textualize after a viral tweet. He explains building in public, community growth via demos and social media, hiring through open source signals, and practical dev workflows with GitHub, PR reviews, and releases. He also outlines Textualize’s positioning and web hosting business model for terminal apps, plus contribution channels like Discourse and Discord. <br><br> Listen to learn concrete, repeatable steps for leveraging Python open source to find freelance freedom, attract users, raise pre-seed interest, and transition from developer to startup founder."
+description: Discover how to turn open source work into a sustainable career and even
+  a startup. Learn about terminal apps, fundraising, community growth & hiring signals.
+intro: 'How do you turn open source work into a sustainable career and even a startup?
+  In this episode Will McGugan — a Python open source maintainer and creator of PyFilesystem,
+  Rich, and Textual — walks through his path from video game developer to founder
+  of Textualize. We trace his early projects (BBCode parser, chess libraries), the
+  design of PyFilesystem and S3 integrations, and how solving personal needs led to
+  learning by building. <br><br> Will breaks down the technical and product journey:
+  Rich’s terminal styling, tables, progress bars and observability features; the Textual
+  framework for terminal GUIs; and the moment of founding Textualize after a viral
+  tweet. He explains building in public, community growth via demos and social media,
+  hiring through open source signals, and practical dev workflows with GitHub, PR
+  reviews, and releases. He also outlines Textualize’s positioning and web hosting
+  business model for terminal apps, plus contribution channels like Discourse and
+  Discord. <br><br> Listen to learn concrete, repeatable steps for leveraging Python
+  open source to find freelance freedom, attract users, raise pre-seed interest, and
+  transition from developer to startup founder.'
 topics:
 - open-source
 - startups
 - career growth
 - entrepreneurship
 dateadded: 2022-07-15
-
 duration: PT00H58M41S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -115,11 +127,6 @@ quotableClips:
   startOffset: 3440
   url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=3440
   endOffset: 3571
-- name: 'Closing & Contact: Find Will on Twitter and Textualize links'
-  startOffset: 3571
-  url: https://www.youtube.com/watch?v=bwfR9dyxf1M&t=3571
-  endOffset: 3521
-
 transcript:
 - header: 'Guest Introduction: Will McGugan, Python Open Source Maintainer'
 - line: This week, we'll talk about working on open source. We have a special guest

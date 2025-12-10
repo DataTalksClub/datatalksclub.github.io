@@ -1,6 +1,7 @@
 ---
-title: "Practical Guide to Dataset Creation & Annotation for NLP: Active Learning, Weak Supervision, Tools"
-short: "Dataset Creation and Curation"
+title: 'Practical Guide to Dataset Creation & Annotation for NLP: Active Learning,
+  Weak Supervision, Tools'
+short: Dataset Creation and Curation
 season: 10
 episode: 7
 guests:
@@ -14,16 +15,30 @@ links:
   apple: https://podcasts.apple.com/us/podcast/dataset-creation-and-curation-christiaan-swart/id1541710331?i=1000578975804
   spotify: https://open.spotify.com/episode/26K8JrQXKwLpQelo4n4Kdi?si=e2ad35c4941446c4
   youtube: https://www.youtube.com/watch?v=QggWydGrWoo
-
-description: "Discover dataset creation, annotation & active learning: practical annotation UX, quality metrics, prototyping tips and tooling to accelerate NLP models."
-intro: "How do you create high-quality NLP datasets without breaking the budget? In this episode Christiaan Swart — an NLP practitioner with six years’ experience across email, complaints, pharma, and sales who cofounded Comtura (born from sales call transcription and CRM integration) — walks through practical methods for dataset creation and annotation. <br><br> We cover automated, manual, and hybrid pipelines; stakeholder alignment to de-risk projects; in-house vs. crowdsourcing trade-offs; and building a living annotation guidebook for ambiguous cases. Chris explains model-assisted annotation (pre-labeling and interpretability layers), capturing expert knowledge, establishing human baselines, and improving annotation UX and productivity. You’ll also hear about annotation quality metrics (inter-annotator agreement, throughput, fatigue), active learning expectations, distant/weak supervision (Snorkel and labeling functions), programmatic heuristics, and tooling recommendations like Prodigy, Docanno, Label Studio, Snorkel, and Rubrics. Quick-start tips using IPython widgets and Fast.ai, plus privacy and multilingual considerations (GDPR, anonymization), round out the conversation. <br><br> Listen to learn actionable strategies for cost-effective dataset creation, annotation workflows, and tool choices that speed model development and produce reliable training data"
+description: 'Discover dataset creation, annotation & active learning: practical annotation
+  UX, quality metrics, prototyping tips and tooling to accelerate NLP models.'
+intro: How do you create high-quality NLP datasets without breaking the budget? In
+  this episode Christiaan Swart — an NLP practitioner with six years’ experience across
+  email, complaints, pharma, and sales who cofounded Comtura (born from sales call
+  transcription and CRM integration) — walks through practical methods for dataset
+  creation and annotation. <br><br> We cover automated, manual, and hybrid pipelines;
+  stakeholder alignment to de-risk projects; in-house vs. crowdsourcing trade-offs;
+  and building a living annotation guidebook for ambiguous cases. Chris explains model-assisted
+  annotation (pre-labeling and interpretability layers), capturing expert knowledge,
+  establishing human baselines, and improving annotation UX and productivity. You’ll
+  also hear about annotation quality metrics (inter-annotator agreement, throughput,
+  fatigue), active learning expectations, distant/weak supervision (Snorkel and labeling
+  functions), programmatic heuristics, and tooling recommendations like Prodigy, Docanno,
+  Label Studio, Snorkel, and Rubrics. Quick-start tips using IPython widgets and Fast.ai,
+  plus privacy and multilingual considerations (GDPR, anonymization), round out the
+  conversation. <br><br> Listen to learn actionable strategies for cost-effective
+  dataset creation, annotation workflows, and tool choices that speed model development
+  and produce reliable training data
 topics:
 - NLP
 - data
 dateadded: 2022-09-09
-
 duration: PT01H03M40S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -105,11 +120,6 @@ quotableClips:
   startOffset: 3506
   url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3506
   endOffset: 3820
-- name: 'Contact & Resources: Blog, company, and social links'
-  startOffset: 3820
-  url: https://www.youtube.com/watch?v=QggWydGrWoo&t=3820
-  endOffset: 3820
-
 transcript:
 - header: Podcast Introduction
 - header: 'Episode Overview: Dataset creation, curation, and annotation'
