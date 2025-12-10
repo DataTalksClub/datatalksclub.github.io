@@ -1,6 +1,7 @@
 ---
-title: "From Research to Production: Build Reproducible, Deployable Full-Stack ML Systems"
-short: "What Researchers and Engineers Can Learn from Each Other"
+title: 'From Research to Production: Build Reproducible, Deployable Full-Stack ML
+  Systems'
+short: What Researchers and Engineers Can Learn from Each Other
 season: 5
 episode: 5
 guests:
@@ -14,9 +15,24 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/What-Researchers-and-Engineers-Can-Learn-from-Each-Other---Mihail-Eric-e1854bj
   spotify: https://open.spotify.com/episode/0cJJCjK7nX5p1PdeMvGrVL
   apple: https://podcasts.apple.com/us/podcast/what-researchers-and-engineers-can-learn-from-each/id1541710331?i=1000537258362
-
-description: "Learn to build reproducible, deployable full-stack ML systems: deploy models, bridge research-to-production, and master PyTorch, Docker & MLOps workflows."
-intro: "How do you move ML work from research notebooks to reproducible, deployable full-stack systems? In this episode, Mihail Eric — founder of Pametan Data Innovation and Confetti.ai, former Stanford NLP researcher with industry experience at RideOS and Amazon Alexa, and author of papers in ACL, AAAI, and NeurIPS — tackles that exact challenge. We trace Mihail’s path from academic NLP to self-driving and conversational AI, then into hybrid roles that blend hypothesis-driven research with production engineering. <br><br> Key topics include research infrastructure for data collection and prototyping, experimental tooling (notebooks, Weights & Biases, fast prototyping), engineering stacks for deployment (PyTorch, Docker, cloud, web frameworks), and the full ML lifecycle. Mihail also breaks down cultural solutions — embedded teams, role fluidity, code reviews for researchers, and practical skills swaps so researchers learn reproducibility and engineers learn experimental rigor. <br><br> Listeners will get concrete guidance on building end-to-end ML systems, improving reproducibility and model deployment, and actionable career advice (internships, reading papers, reproducing models). Tune in to learn practical steps and tools to bridge research to production for real-world ML systems"
+description: 'Learn to build reproducible, deployable full-stack ML systems: deploy
+  models, bridge research-to-production, and master PyTorch, Docker & MLOps workflows.'
+intro: How do you move ML work from research notebooks to reproducible, deployable
+  full-stack systems? In this episode, Mihail Eric — founder of Pametan Data Innovation
+  and Confetti.ai, former Stanford NLP researcher with industry experience at RideOS
+  and Amazon Alexa, and author of papers in ACL, AAAI, and NeurIPS — tackles that
+  exact challenge. We trace Mihail’s path from academic NLP to self-driving and conversational
+  AI, then into hybrid roles that blend hypothesis-driven research with production
+  engineering. <br><br> Key topics include research infrastructure for data collection
+  and prototyping, experimental tooling (notebooks, Weights & Biases, fast prototyping),
+  engineering stacks for deployment (PyTorch, Docker, cloud, web frameworks), and
+  the full ML lifecycle. Mihail also breaks down cultural solutions — embedded teams,
+  role fluidity, code reviews for researchers, and practical skills swaps so researchers
+  learn reproducibility and engineers learn experimental rigor. <br><br> Listeners
+  will get concrete guidance on building end-to-end ML systems, improving reproducibility
+  and model deployment, and actionable career advice (internships, reading papers,
+  reproducing models). Tune in to learn practical steps and tools to bridge research
+  to production for real-world ML systems
 topics:
 - machine learning
 - MLOps
@@ -24,9 +40,7 @@ topics:
 - production
 - career growth
 dateadded: 2021-10-02
-
 duration: PT01H01M36S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 77
@@ -136,11 +150,6 @@ quotableClips:
   startOffset: 3700
   url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=3700
   endOffset: 3756
-- name: Episode Wrap-Up and Key Takeaways
-  startOffset: 3756
-  url: https://www.youtube.com/watch?v=d9xVXqKq3sU&t=3756
-  endOffset: 3696
-
 transcript:
 - header: Podcast Introduction
 - line: This week, we'll talk about machine learning researchers and machine learning

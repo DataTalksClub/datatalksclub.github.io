@@ -1,6 +1,6 @@
 ---
-title: "Launching a Freelance Generative AI Business: NLP Services and Client Acquisition"
-short: "From a Research Scientist at Amazon to a Machine Learning/AI Consultant"
+title: 'Launching a Freelance Generative AI Business: NLP Services and Client Acquisition'
+short: From a Research Scientist at Amazon to a Machine Learning/AI Consultant
 season: 16
 episode: 5
 guests:
@@ -14,7 +14,8 @@ links:
   apple: https://podcasts.apple.com/us/podcast/from-a-research-scientist-at-amazon-to-a/id1541710331?i=1000634411188
   spotify: https://open.spotify.com/episode/7gJI3ds3k1vXd3m3W9iRj9?si=oG6A7BuTSjaEoH6FhvEVug
   youtube: https://www.youtube.com/watch?v=4RargY8iOaE
-description: "Learn to launch a freelance generative AI business: package NLP services, master client acquisition and pricing to win projects and scale revenue."
+description: 'Learn to launch a freelance generative AI business: package NLP services,
+  master client acquisition and pricing to win projects and scale revenue.'
 topics:
 - AI
 - LLMs
@@ -22,7 +23,20 @@ topics:
 - freelance
 - production
 - career transition
-intro: "How do you move from research scientist to running a freelance generative AI business focused on NLP—and actually win clients? In this episode Verena Weber, a former Research Scientist at Alexa AI with 7+ years in machine learning and a background in statistics, walks through that transition and what it takes to offer NLP services as a freelancer. Verena's mission is to help companies prepare for the GenAI shift, and she draws on deep NLP expertise to explain which service offerings make sense, how to position technical skills for business clients, and practical approaches to client acquisition in the generative AI space. Listeners will get a clear view of launching a freelance generative AI business, including how to translate research experience into marketable NLP services, approaches to finding and engaging clients, and what to expect when stepping out on your own. If you're a machine learning professional or aspiring NLP freelancer trying to build a sustainable freelance practice in generative AI, this episode provides grounded, experience-based guidance to help you get started."
+intro: How do you move from research scientist to running a freelance generative AI
+  business focused on NLP—and actually win clients? In this episode Verena Weber,
+  a former Research Scientist at Alexa AI with 7+ years in machine learning and a
+  background in statistics, walks through that transition and what it takes to offer
+  NLP services as a freelancer. Verena's mission is to help companies prepare for
+  the GenAI shift, and she draws on deep NLP expertise to explain which service offerings
+  make sense, how to position technical skills for business clients, and practical
+  approaches to client acquisition in the generative AI space. Listeners will get
+  a clear view of launching a freelance generative AI business, including how to translate
+  research experience into marketable NLP services, approaches to finding and engaging
+  clients, and what to expect when stepping out on your own. If you're a machine learning
+  professional or aspiring NLP freelancer trying to build a sustainable freelance
+  practice in generative AI, this episode provides grounded, experience-based guidance
+  to help you get started.
 dateadded: 2023-11-12
 date: 2025-11-07
 duration: PT00H59M53S
@@ -135,10 +149,6 @@ quotableClips:
   startOffset: 3473
   url: https://www.youtube.com/watch?v=4RargY8iOaE&t=3473
   endOffset: 3639
-- name: Closing Remarks and Contact Information
-  startOffset: 3639
-  url: https://www.youtube.com/watch?v=4RargY8iOaE&t=3639
-  endOffset: 3593
 transcript:
 - header: Episode Introduction
 - line: This week, we'll talk about being a research scientist at Amazon, and transitioning

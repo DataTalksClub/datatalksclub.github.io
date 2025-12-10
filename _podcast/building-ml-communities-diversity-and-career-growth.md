@@ -1,6 +1,7 @@
 ---
-title: "How to Build & Scale a Data Science Community: Diversity, ML Deployment & Career Growth"
-short: "Accelerating the Adoption of AI through Diversity"
+title: 'How to Build & Scale a Data Science Community: Diversity, ML Deployment &
+  Career Growth'
+short: Accelerating the Adoption of AI through Diversity
 season: 13
 episode: 1
 guests:
@@ -14,9 +15,22 @@ links:
   apple: https://podcasts.apple.com/us/podcast/accelerating-the-adoption-of-ai-through-diversity/id1541710331?i=1000601491838
   spotify: https://open.spotify.com/episode/6pRkAK9Zo2QrXZCAzh2veV?si=ixEmGK5-RemknBcHrChMNA
   youtube: https://www.youtube.com/watch?v=SRUwwvk_YCk
-
-description: "Discover how to build and scale a data science community, boost diversity, deploy ML, and accelerate career growth with mentoring & hiring strategies"
-intro: "How do you build and scale a data science community that actually advances diversity, supports machine learning deployment, and accelerates career growth? In this episode, Dânia Meira — AI Guild co-founder, data scientist, teacher and speaker with a Master’s in Computer Science (AI) — walks through her journey from applied math and marketing analytics to founding a global data science community in Berlin. <br><br> We cover practical community building: turning women’s meetups into monthly dinners and an international membership, curating meetup content and the Datalift Summit, and policies like visibility-first speaker invites, codes of conduct, and misconduct response. Dânia explains why diversity (gender, nationality, neurodiversity) improves product fit and market reach, how to create psychological safety, and how to source and train diverse talent for regulated industries. She also outlines a vendor-agnostic consulting model for machine learning deployment, community-to-client matching, and scaling from a freelance network to full-time teams."
+description: Discover how to build and scale a data science community, boost diversity,
+  deploy ML, and accelerate career growth with mentoring & hiring strategies
+intro: 'How do you build and scale a data science community that actually advances
+  diversity, supports machine learning deployment, and accelerates career growth?
+  In this episode, Dânia Meira — AI Guild co-founder, data scientist, teacher and
+  speaker with a Master’s in Computer Science (AI) — walks through her journey from
+  applied math and marketing analytics to founding a global data science community
+  in Berlin. <br><br> We cover practical community building: turning women’s meetups
+  into monthly dinners and an international membership, curating meetup content and
+  the Datalift Summit, and policies like visibility-first speaker invites, codes of
+  conduct, and misconduct response. Dânia explains why diversity (gender, nationality,
+  neurodiversity) improves product fit and market reach, how to create psychological
+  safety, and how to source and train diverse talent for regulated industries. She
+  also outlines a vendor-agnostic consulting model for machine learning deployment,
+  community-to-client matching, and scaling from a freelance network to full-time
+  teams.'
 topics:
 - data science
 - machine learning
@@ -24,9 +38,7 @@ topics:
 - diversity
 - career growth
 dateadded: 2023-02-25
-
 duration: PT00H59M44S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -129,11 +141,6 @@ quotableClips:
   startOffset: 3642
   url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3642
   endOffset: 3678
-- name: Closing Remarks and Sign-off
-  startOffset: 3678
-  url: https://www.youtube.com/watch?v=SRUwwvk_YCk&t=3678
-  endOffset: 3584
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Introduction: Dania — AI Guild co-founder, machine learning background'

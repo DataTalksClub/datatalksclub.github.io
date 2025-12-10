@@ -1,6 +1,6 @@
 ---
-title: "ETL vs ELT & Data Lake vs Warehouse: Airbyte, dbt, CDC for Modern Data Engineering"
-short: "Making Sense of Data Engineering Acronyms and Buzzwords"
+title: 'ETL vs ELT & Data Lake vs Warehouse: Airbyte, dbt, CDC for Modern Data Engineering'
+short: Making Sense of Data Engineering Acronyms and Buzzwords
 season: 5
 episode: 2
 guests:
@@ -14,17 +14,29 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Making-Sense-of-Data-Engineering-Acronyms-and-Buzzwords---Natalie-Kwong-e177303
   spotify: https://open.spotify.com/episode/1AvtwdcAXGGjdJ7fl0Hsuw
   apple: https://podcasts.apple.com/us/podcast/making-sense-of-data-engineering-acronyms-and/id1541710331?i=1000534990760
-
-description: "Discover ETL vs ELT, data lake vs data warehouse with Airbyte and dbt—learn CDC, orchestration, and governance to design reliable, fast modern data pipelines"
-intro: "How do you decide between ETL and ELT, or when to keep a data lake versus a warehouse—and where do tools like Airbyte, dbt, and CDC fit into a modern data stack? In this episode, Natalie Kwong, Growth Product Manager at Airbyte with prior analytics and ops roles at Harness, KeepTruckin, and AppDynamics, pulls from hands-on experience scaling analytics teams and systems to unpack these trade-offs. <br><br> We break down core concepts—ETL (traditional extract-transform-load) vs ELT (load then transform), the rise of the analytics engineer, and why ELT favors analyst autonomy with dbt. Natalie explains Airbyte's role as a connector/ingestion layer, CDC for row-level change syncing, and orchestration with Airflow. We also cover data lake vs data warehouse purposes, preventing data swamps through governance, schema evolution, operational reverse data flows, and when hybrid architectures make sense. <br><br> If you're designing a modern data platform or refining pipelines, this episode offers practical guidance on ETL vs ELT decisions, choosing lakes vs warehouses, leveraging Airbyte and dbt, and operational considerations like data quality, orchestration, and cleanup practices"
+description: Discover ETL vs ELT, data lake vs data warehouse with Airbyte and dbt—learn
+  CDC, orchestration, and governance to design reliable, fast modern data pipelines
+intro: How do you decide between ETL and ELT, or when to keep a data lake versus a
+  warehouse—and where do tools like Airbyte, dbt, and CDC fit into a modern data stack?
+  In this episode, Natalie Kwong, Growth Product Manager at Airbyte with prior analytics
+  and ops roles at Harness, KeepTruckin, and AppDynamics, pulls from hands-on experience
+  scaling analytics teams and systems to unpack these trade-offs. <br><br> We break
+  down core concepts—ETL (traditional extract-transform-load) vs ELT (load then transform),
+  the rise of the analytics engineer, and why ELT favors analyst autonomy with dbt.
+  Natalie explains Airbyte's role as a connector/ingestion layer, CDC for row-level
+  change syncing, and orchestration with Airflow. We also cover data lake vs data
+  warehouse purposes, preventing data swamps through governance, schema evolution,
+  operational reverse data flows, and when hybrid architectures make sense. <br><br>
+  If you're designing a modern data platform or refining pipelines, this episode offers
+  practical guidance on ETL vs ELT decisions, choosing lakes vs warehouses, leveraging
+  Airbyte and dbt, and operational considerations like data quality, orchestration,
+  and cleanup practices
 topics:
 - data engineering
 - tools
 dateadded: 2021-09-11
 date: 2025-11-07
-
 duration: PT00H59M55S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -138,11 +150,6 @@ quotableClips:
   startOffset: 2972
   url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=2972
   endOffset: 3642
-- name: 'Episode Wrap-Up: Final Thoughts, Hiring News, and Contact Information'
-  startOffset: 3642
-  url: https://www.youtube.com/watch?v=t9Z1S3OYnJU&t=3642
-  endOffset: 3595
-
 transcript:
 - header: Podcast Introduction
 - header: 'Episode Overview: Decoding Data Engineering Acronyms'

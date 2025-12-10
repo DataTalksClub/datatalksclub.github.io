@@ -1,6 +1,7 @@
 ---
-title: "How I Landed a Data Engineering Job: Bootcamp, Docker, Airflow, AWS & Interview Tips"
-short: "From Academia to Data Analytics and Engineering"
+title: 'How I Landed a Data Engineering Job: Bootcamp, Docker, Airflow, AWS & Interview
+  Tips'
+short: From Academia to Data Analytics and Engineering
 season: 8
 episode: 9
 guests:
@@ -14,17 +15,30 @@ links:
   apple: https://podcasts.apple.com/us/podcast/from-academia-to-data-analytics-and-engineering/id1541710331?i=1000562898040
   spotify: https://open.spotify.com/episode/1kDpXugcmDdVJ6qUAiNnHQ?si=aa62cc4dce5f41b2
   youtube: https://www.youtube.com/watch?v=0wANfIvum4U
-
-description: "Learn data engineering with Docker and Airflow—bootcamp ROI, interview tips, portfolio tips and salary tactics to land a data engineering role"
-intro: "How do you go from neuroscience research to a data engineering role — and what practical steps and skills actually get you hired? In this episode, Gloria Quiceno, Senior Analytics Engineer at ICE, walks through her transition from neuroscience labs to rebuilding enterprise data platforms (including a BI rebuild that saved €250K), and the concrete tools and tactics that landed her a data engineering job. We cover her early lab automation and scripting experience, learning MATLAB/R and Python, a first industry role as a business data analyst, and a four-month job-search timeline from bootcamp graduation to offer. Gloria explains building reproducible pipelines with Docker, orchestrating workflows with Airflow and AWS (including Step Functions), designing ETL/ELT and Snowflake integrations, capstone projects like a Twitter data pipeline, and volunteer ML practice with Omdena. She also shares application strategy (tracking ~130 applications), handling live coding and take-home interviews, GDPR recruitment rights, salary negotiation, and portfolio advice to stand out. Listen to get actionable interview tips, portfolio project ideas, and hands-on guidance for landing a data engineering job using bootcamps, Docker, Airflow, and AWS"
+description: Learn data engineering with Docker and Airflow—bootcamp ROI, interview
+  tips, portfolio tips and salary tactics to land a data engineering role
+intro: How do you go from neuroscience research to a data engineering role — and what
+  practical steps and skills actually get you hired? In this episode, Gloria Quiceno,
+  Senior Analytics Engineer at ICE, walks through her transition from neuroscience
+  labs to rebuilding enterprise data platforms (including a BI rebuild that saved
+  €250K), and the concrete tools and tactics that landed her a data engineering job.
+  We cover her early lab automation and scripting experience, learning MATLAB/R and
+  Python, a first industry role as a business data analyst, and a four-month job-search
+  timeline from bootcamp graduation to offer. Gloria explains building reproducible
+  pipelines with Docker, orchestrating workflows with Airflow and AWS (including Step
+  Functions), designing ETL/ELT and Snowflake integrations, capstone projects like
+  a Twitter data pipeline, and volunteer ML practice with Omdena. She also shares
+  application strategy (tracking ~130 applications), handling live coding and take-home
+  interviews, GDPR recruitment rights, salary negotiation, and portfolio advice to
+  stand out. Listen to get actionable interview tips, portfolio project ideas, and
+  hands-on guidance for landing a data engineering job using bootcamps, Docker, Airflow,
+  and AWS
 topics:
 - career switch
 - data engineering
 - career growth
 dateadded: 2022-05-21
-
 duration: PT00H57M59S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -110,11 +124,6 @@ quotableClips:
   startOffset: 3408
   url: https://www.youtube.com/watch?v=0wANfIvum4U&t=3408
   endOffset: 3517
-- name: 'Closing Thoughts: Practical Advice for Transitioning to Data Engineering'
-  startOffset: 3517
-  url: https://www.youtube.com/watch?v=0wANfIvum4U&t=3517
-  endOffset: 3479
-
 transcript:
 - header: Podcast Introduction
 - header: 'Background: Transition from Neuroscience Research to Industry'

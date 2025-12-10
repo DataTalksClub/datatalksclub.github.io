@@ -1,6 +1,7 @@
 ---
-title: "Optimize Decisions with ML: Prescriptive & Robust Optimization for Supply Chain and Pricing"
-short: "Decision Optimization"
+title: 'Optimize Decisions with ML: Prescriptive & Robust Optimization for Supply
+  Chain and Pricing'
+short: Decision Optimization
 season: 2
 episode: 6
 guests:
@@ -14,15 +15,30 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Translating-ML-Predictions-Into-Better-Real-World-Results-with-Decision-Optimization---Dan-Becker-eqk0b1/a-a4maq87
   spotify: https://open.spotify.com/episode/42eAhI6F31DZ96Mnq2I4bJ
   apple: https://podcasts.apple.com/us/podcast/translating-ml-predictions-into-better-real-world-results/id1541710331?i=1000509855317
-
-description: "Learn prescriptive analytics & robust optimization for supply chain pricing: align ML predictions to decisions, scale models, pick solvers, and boost revenue."
-intro: "How do you turn machine learning predictions into better real-world decisions—especially under uncertainty in supply chains and pricing? In this episode, Dan Becker, Founder & CEO of Decision AI and former Google data scientist and Product Director at DataRobot, walks through prescriptive analytics and decision optimization for practical business impact. With a background that includes top Kaggle performance and contributions to TensorFlow and Keras, Dan explains how to formulate optimization problems, choose objectives and constraints, and integrate ML forecasts into prescriptive and robust optimization models. <br><br> We cover robust vs. stochastic optimization, aligning loss functions with business objectives, and the solvers and tools that make this work—OR-Tools, Gurobi, Pyomo and open-source options. Dan also digs into scalability, approximation techniques, and deployment: pipelines, monitoring, and feedback loops. Use cases include supply chain optimization, resource allocation, and pricing/bidding strategies, plus operational, legal, and ethical constraints. Listeners will get practical guidance on evaluation metrics, common pitfalls like mis-specified objectives and overfitting decisions, and the cross-functional skills needed—data science, operations research, and software engineering—to get started with prescriptive optimization projects."
+description: 'Learn prescriptive analytics & robust optimization for supply chain
+  pricing: align ML predictions to decisions, scale models, pick solvers, and boost
+  revenue.'
+intro: 'How do you turn machine learning predictions into better real-world decisions—especially
+  under uncertainty in supply chains and pricing? In this episode, Dan Becker, Founder
+  & CEO of Decision AI and former Google data scientist and Product Director at DataRobot,
+  walks through prescriptive analytics and decision optimization for practical business
+  impact. With a background that includes top Kaggle performance and contributions
+  to TensorFlow and Keras, Dan explains how to formulate optimization problems, choose
+  objectives and constraints, and integrate ML forecasts into prescriptive and robust
+  optimization models. <br><br> We cover robust vs. stochastic optimization, aligning
+  loss functions with business objectives, and the solvers and tools that make this
+  work—OR-Tools, Gurobi, Pyomo and open-source options. Dan also digs into scalability,
+  approximation techniques, and deployment: pipelines, monitoring, and feedback loops.
+  Use cases include supply chain optimization, resource allocation, and pricing/bidding
+  strategies, plus operational, legal, and ethical constraints. Listeners will get
+  practical guidance on evaluation metrics, common pitfalls like mis-specified objectives
+  and overfitting decisions, and the cross-functional skills needed—data science,
+  operations research, and software engineering—to get started with prescriptive optimization
+  projects.'
 topics:
 - machine learning
 - decision optimization
 dateadded: 2021-02-23
-
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -112,17 +128,11 @@ quotableClips:
   startOffset: 3570
   url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=3570
   endOffset: 3720
-- name: Episode Wrap-Up and Links
-  startOffset: 3720
-  url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=3720
-  endOffset: 3720
-
 transcript:
-- line: "I\u2019ll just do a short introduction. On the slide, it says \"Decision\
-    \ Optimization\" because the full title was too long to fit. The actual title\
-    \ is \"Translating Machine Learning Predictions Into Better Real-World Results\
-    \ with Decision Optimization.\" This talk will be different from the three previous\
-    \ ones we had."
+- line: I’ll just do a short introduction. On the slide, it says "Decision Optimization"
+    because the full title was too long to fit. The actual title is "Translating Machine
+    Learning Predictions Into Better Real-World Results with Decision Optimization."
+    This talk will be different from the three previous ones we had.
   sec: 0
   time: 0:00
   who: Alexey
@@ -147,10 +157,10 @@ transcript:
   sec: 79
   time: '1:19'
   who: Alexey
-- line: "Yes, let\u2019s start. Today we\u2019ll talk about decision optimization,\
-    \ which is about making better decisions with machine learning. We have a special\
-    \ guest today, Dan, the founder of Decision AI, a company that specializes in\
-    \ improving decisions using machine learning."
+- line: Yes, let’s start. Today we’ll talk about decision optimization, which is about
+    making better decisions with machine learning. We have a special guest today,
+    Dan, the founder of Decision AI, a company that specializes in improving decisions
+    using machine learning.
   sec: 79
   time: '1:19'
   who: Alexey
@@ -179,11 +189,11 @@ transcript:
   sec: 124
   time: '2:04'
   who: Dan
-- line: "After about nine months, I thought machine learning would never catch on.\
-    \ It sounded cool, but I didn\u2019t think it would work. I then pursued a PhD\
-    \ in econometrics. In 2009, I started competing in Kaggle competitions, initially\
-    \ using simple statistical techniques because I thought they were best. I quickly\
-    \ realized I was in almost last place, and machine learning had improved dramatically."
+- line: After about nine months, I thought machine learning would never catch on.
+    It sounded cool, but I didn’t think it would work. I then pursued a PhD in econometrics.
+    In 2009, I started competing in Kaggle competitions, initially using simple statistical
+    techniques because I thought they were best. I quickly realized I was in almost
+    last place, and machine learning had improved dramatically.
   sec: 153
   time: '2:33'
   who: Dan
@@ -228,10 +238,10 @@ transcript:
   sec: 274
   time: '4:34'
   who: Alexey
-- line: "They built machine learning models to predict how many tickets would sell\
-    \ at different prices. For instance, Flight 1000 leaves on March 20th. If the\
-    \ price is $400, how many tickets will sell before the next price reset? If it\u2019\
-    s $500, how many will sell?"
+- line: They built machine learning models to predict how many tickets would sell
+    at different prices. For instance, Flight 1000 leaves on March 20th. If the price
+    is $400, how many tickets will sell before the next price reset? If it’s $500,
+    how many will sell?
   sec: 311
   time: '5:11'
   who: Dan
@@ -285,15 +295,15 @@ transcript:
   sec: 633
   time: '10:33'
   who: Dan
-- line: "It is 10 percent likely to be fraud, so the expected value of investigating\
-    \ the nine percent is about 98 to 90 times as large. Yet they don\u2019t do it\
-    \ because we focus too narrowly on classification output as a probability. I see\
-    \ people make mistakes because they look at that probability in isolation."
+- line: It is 10 percent likely to be fraud, so the expected value of investigating
+    the nine percent is about 98 to 90 times as large. Yet they don’t do it because
+    we focus too narrowly on classification output as a probability. I see people
+    make mistakes because they look at that probability in isolation.
   sec: 661
   time: '11:01'
   who: Dan
-- line: "Shouldn\u2019t the model be able to account for the potential value, like\
-    \ considering the sum or overall impact?"
+- line: Shouldn’t the model be able to account for the potential value, like considering
+    the sum or overall impact?
   sec: 699
   time: '11:39'
   who: Alexey
@@ -391,8 +401,8 @@ transcript:
   sec: 1209
   time: '20:09'
   who: Dan
-- line: "Who should create this decision function? Should a data scientist define\
-    \ it? Isn\u2019t the point of machine learning to avoid hand-crafting rules?"
+- line: Who should create this decision function? Should a data scientist define it?
+    Isn’t the point of machine learning to avoid hand-crafting rules?
   sec: 1241
   time: '20:41'
   who: Alexey
@@ -409,11 +419,10 @@ transcript:
   sec: 1285
   time: '21:25'
   who: Dan
-- line: "Reinforcement learning is a branch of machine learning that optimizes an\
-    \ objective in a complex environment. Someday, reinforcement learning might solve\
-    \ this for us, but we are not there yet. Most breakthroughs in reinforcement learning,\
-    \ like AlphaGo or OpenAI\u2019s Dota agent, are in games because games provide\
-    \ a simulator."
+- line: Reinforcement learning is a branch of machine learning that optimizes an objective
+    in a complex environment. Someday, reinforcement learning might solve this for
+    us, but we are not there yet. Most breakthroughs in reinforcement learning, like
+    AlphaGo or OpenAI’s Dota agent, are in games because games provide a simulator.
   sec: 1318
   time: '21:58'
   who: Dan
@@ -424,9 +433,9 @@ transcript:
   sec: 1383
   time: '23:03'
   who: Dan
-- line: "So ideally, we would combine our supervised models into one decision function\
-    \ and train it with reinforcement learning, but we don\u2019t yet have an environment\
-    \ to experiment properly."
+- line: So ideally, we would combine our supervised models into one decision function
+    and train it with reinforcement learning, but we don’t yet have an environment
+    to experiment properly.
   sec: 1441
   time: '24:01'
   who: Alexey
@@ -491,11 +500,11 @@ transcript:
   sec: 1918
   time: '31:58'
   who: Alexey
-- line: "There aren\u2019t great tools for this, which is why I started Decision AI.\
-    \ At Google and a few other companies, people either use raw Python with NumPy\
-    \ for calculations and connect it to TensorFlow or PyTorch models at a low level.\
-    \ I\u2019ve also seen proof-of-concept approaches using probabilistic programming\
-    \ languages like PyMC3 or Pyro."
+- line: There aren’t great tools for this, which is why I started Decision AI. At
+    Google and a few other companies, people either use raw Python with NumPy for
+    calculations and connect it to TensorFlow or PyTorch models at a low level. I’ve
+    also seen proof-of-concept approaches using probabilistic programming languages
+    like PyMC3 or Pyro.
   sec: 1936
   time: '32:16'
   who: Dan
@@ -528,10 +537,10 @@ transcript:
   sec: 2130
   time: '35:30'
   who: Dan
-- line: "Custom tooling didn\u2019t exist, so I realized there was a strong need to\
-    \ help people make better decisions with models. Researchers focus on small improvements\
-    \ in accuracy, like 0.91 AUC instead of 0.9, but in practice, the value is often\
-    \ wasted if the model is not used effectively."
+- line: Custom tooling didn’t exist, so I realized there was a strong need to help
+    people make better decisions with models. Researchers focus on small improvements
+    in accuracy, like 0.91 AUC instead of 0.9, but in practice, the value is often
+    wasted if the model is not used effectively.
   sec: 2179
   time: '36:19'
   who: Dan
@@ -547,17 +556,16 @@ transcript:
   sec: 2277
   time: '37:57'
   who: Dan
-- line: "For each threshold, calculate the expected monetary value. You don\u2019\
-    t need our software for this\u2014it\u2019s the first step. Even thinking rigorously\
-    \ about optimizing the decision threshold, the same way you are analytical in\
-    \ modeling, is very valuable."
+- line: For each threshold, calculate the expected monetary value. You don’t need
+    our software for this—it’s the first step. Even thinking rigorously about optimizing
+    the decision threshold, the same way you are analytical in modeling, is very valuable.
   sec: 2340
   time: '39:00'
   who: Dan
-- line: "If there are dynamics over time, like customers reacting differently tomorrow\
-    \ based on today\u2019s decisions, a simple threshold isn\u2019t optimal. Being\
-    \ rigorous about a single threshold is better than nothing, but letting it vary\
-    \ with the environment is the next step."
+- line: If there are dynamics over time, like customers reacting differently tomorrow
+    based on today’s decisions, a simple threshold isn’t optimal. Being rigorous about
+    a single threshold is better than nothing, but letting it vary with the environment
+    is the next step.
   sec: 2381
   time: '39:41'
   who: Dan
@@ -589,11 +597,10 @@ transcript:
   sec: 2489
   time: '41:29'
   who: Alexey
-- line: "Yes, you deploy it as a RESTful endpoint. It takes the inputs for your decision\
-    \ function and returns the output, like \u201Caccept this transaction\u201D or\
-    \ \u201Creject it.\u201D From the rest of the organization\u2019s perspective,\
-    \ it looks like a standard web service or REST API. Features go in, decisions\
-    \ come out."
+- line: Yes, you deploy it as a RESTful endpoint. It takes the inputs for your decision
+    function and returns the output, like “accept this transaction” or “reject it.”
+    From the rest of the organization’s perspective, it looks like a standard web
+    service or REST API. Features go in, decisions come out.
   sec: 2489
   time: '41:29'
   who: Alexey
@@ -606,24 +613,24 @@ transcript:
   sec: 2544
   time: '42:24'
   who: Alexey
-- line: "I think the initiative should come from the data scientist. They spend a\
-    \ lot of time building models, and if those models don\u2019t pay off in business\
-    \ terms, both the data scientists and product managers are in trouble. Increasingly,\
-    \ companies expect data scientists to prove that their models drive profitability,\
-    \ not just improve RMSE or accuracy."
+- line: I think the initiative should come from the data scientist. They spend a lot
+    of time building models, and if those models don’t pay off in business terms,
+    both the data scientists and product managers are in trouble. Increasingly, companies
+    expect data scientists to prove that their models drive profitability, not just
+    improve RMSE or accuracy.
   sec: 2544
   time: '42:24'
   who: Alexey
-- line: "It\u2019s an analytical process. The data scientist should lead and bring\
-    \ in the product manager. Start by asking what the product manager cares about\u2014\
-    daily active users, revenue, or some other metric. Then map predictions from your\
-    \ model to that metric. For example, certain types of fraud may hurt reputation,\
-    \ which affects daily active users. Once you show that you can optimize for the\
-    \ metric the business cares about, it\u2019s usually an easy sell."
+- line: It’s an analytical process. The data scientist should lead and bring in the
+    product manager. Start by asking what the product manager cares about—daily active
+    users, revenue, or some other metric. Then map predictions from your model to
+    that metric. For example, certain types of fraud may hurt reputation, which affects
+    daily active users. Once you show that you can optimize for the metric the business
+    cares about, it’s usually an easy sell.
   sec: 2634
   time: '43:54'
   who: Dan
-- line: "So it\u2019s about metrics the business cares about, not just accuracy?"
+- line: So it’s about metrics the business cares about, not just accuracy?
   sec: 2705
   time: '45:05'
   who: Alexey
@@ -636,7 +643,7 @@ transcript:
   sec: 2705
   time: '45:05'
   who: Alexey
-- line: "Are there cases where we don\u2019t need decision optimization?"
+- line: Are there cases where we don’t need decision optimization?
   sec: 2761
   time: '46:01'
   who: Alexey
@@ -644,9 +651,9 @@ transcript:
   sec: 2761
   time: '46:01'
   who: Alexey
-- line: "Yes. Sometimes predictions are \u201Cgood enough.\u201D For example, recommendation\
-    \ systems like Netflix or YouTube: predicting user engagement over the next six\
-    \ months can be accurate enough that a separate decision function isn\u2019t needed."
+- line: 'Yes. Sometimes predictions are “good enough.” For example, recommendation
+    systems like Netflix or YouTube: predicting user engagement over the next six
+    months can be accurate enough that a separate decision function isn’t needed.'
   sec: 2761
   time: '46:01'
   who: Alexey
@@ -678,8 +685,8 @@ transcript:
   sec: 3037
   time: '50:37'
   who: Dan
-- line: "The world changes quickly, so it\u2019s crucial to be thoughtful about relying\
-    \ on historical data. This is a complex problem for both data scientists and businesses."
+- line: The world changes quickly, so it’s crucial to be thoughtful about relying
+    on historical data. This is a complex problem for both data scientists and businesses.
   sec: 3239
   time: '53:59'
   who: Dan
@@ -691,9 +698,9 @@ transcript:
   sec: 3253
   time: '54:13'
   who: Alexey
-- line: "On Twitter, I\u2019m @dansbecker, and I\u2019m on LinkedIn as the founder\
-    \ of Decision AI. If you have a data science challenge, feel free to reach out\u2014\
-    I enjoy discussing how to use machine learning effectively. Email me at dan@decision.ai"
+- line: On Twitter, I’m @dansbecker, and I’m on LinkedIn as the founder of Decision
+    AI. If you have a data science challenge, feel free to reach out—I enjoy discussing
+    how to use machine learning effectively. Email me at dan@decision.ai
   sec: 3253
   time: '54:13'
   who: Alexey
@@ -701,9 +708,9 @@ transcript:
   sec: 3253
   time: '54:13'
   who: Alexey
-- line: "Thanks for joining us. This was a long session, but very informative. For\
-    \ those who stayed until the end, thanks a lot. For those who didn\u2019t, the\
-    \ video will be uploaded separately. See you next week."
+- line: Thanks for joining us. This was a long session, but very informative. For
+    those who stayed until the end, thanks a lot. For those who didn’t, the video
+    will be uploaded separately. See you next week.
   sec: 3303
   time: '55:03'
   who: Alexey

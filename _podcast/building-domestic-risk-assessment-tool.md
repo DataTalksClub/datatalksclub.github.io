@@ -1,6 +1,7 @@
 ---
-title: "Building a Domestic Risk Assessment Tool: Data Cleaning, Risk Scoring Models and Privacy Compliance"
-short: "Building a Domestic Risk Assessment Tool"
+title: 'Building a Domestic Risk Assessment Tool: Data Cleaning, Risk Scoring Models
+  and Privacy Compliance'
+short: Building a Domestic Risk Assessment Tool
 season: 18
 episode: 7
 guests:
@@ -14,14 +15,30 @@ links:
   apple: https://podcasts.apple.com/us/podcast/building-a-domestic-risk-assessment-tool-sabina-firtala/id1541710331?i=1000662124309
   spotify: https://open.spotify.com/episode/7bjORhGzTQoxtbv60mMtzW?si=p6UaBdZJTnGvlwbGb6AsFQ
   youtube: https://www.youtube.com/watch?v=CpWlBAmD9ok
-description: "Discover building a domestic risk assessment: data cleaning, risk scoring models, and privacy compliance to improve triage, reduce bias, and ensure compliance."
+description: 'Discover building a domestic risk assessment: data cleaning, risk scoring
+  models, and privacy compliance to improve triage, reduce bias, and ensure compliance.'
 topics:
 - data science
 - machine learning
 - data engineering
 - data governance
 - MLOps
-intro: "How do you build an accurate, privacy-compliant domestic risk assessment tool that frontline teams can actually use? In this episode Sabina Firtala — who leads Frontline's AI product development and brings experience in data wrangling, model validation, and applied analytics from finance, SaaS, and mission-driven projects — walks through a practical roadmap. <br><br> We cover problem framing and project scope; sources like case management, public records, and surveys; and hands-on data work: cleaning, linking, and feature engineering. Sabina explains risk scoring approaches and model architecture, evaluation metrics and bias assessment, plus privacy, ethical considerations, and legal data governance. You’ll also hear about deployment into frontline workflows, user interface and decision-support design, training and stakeholder trust, ongoing monitoring and drift detection, and examples of impact on triage and resource allocation. The conversation closes with collaboration strategies, funding and scaling, open documentation for reproducibility, and concrete lessons learned. <br><br> Listen for actionable guidance on data cleaning, building and validating risk scoring models, and ensuring privacy compliance so you can design responsible, usable domestic risk assessment tools."
+intro: 'How do you build an accurate, privacy-compliant domestic risk assessment tool
+  that frontline teams can actually use? In this episode Sabina Firtala — who leads
+  Frontline''s AI product development and brings experience in data wrangling, model
+  validation, and applied analytics from finance, SaaS, and mission-driven projects
+  — walks through a practical roadmap. <br><br> We cover problem framing and project
+  scope; sources like case management, public records, and surveys; and hands-on data
+  work: cleaning, linking, and feature engineering. Sabina explains risk scoring approaches
+  and model architecture, evaluation metrics and bias assessment, plus privacy, ethical
+  considerations, and legal data governance. You’ll also hear about deployment into
+  frontline workflows, user interface and decision-support design, training and stakeholder
+  trust, ongoing monitoring and drift detection, and examples of impact on triage
+  and resource allocation. The conversation closes with collaboration strategies,
+  funding and scaling, open documentation for reproducibility, and concrete lessons
+  learned. <br><br> Listen for actionable guidance on data cleaning, building and
+  validating risk scoring models, and ensuring privacy compliance so you can design
+  responsible, usable domestic risk assessment tools.'
 dateadded: 2024-07-15
 quotableClips:
 - name: Podcast Introduction
@@ -107,10 +124,6 @@ quotableClips:
 - name: 'Future Directions: Research, Policy, and Product Roadmap'
   startOffset: 3730
   url: https://www.youtube.com/watch?v=CpWlBAmD9ok&t=3730
-  endOffset: 3840
-- name: Episode Wrap-Up and Where to Find More Information
-  startOffset: 3840
-  url: https://www.youtube.com/watch?v=CpWlBAmD9ok&t=3840
   endOffset: 3840
 context: 'Context: The episode follows the end-to-end effort to create a domestic
   risk assessment tool—framing the problem, assembling and preparing data, designing

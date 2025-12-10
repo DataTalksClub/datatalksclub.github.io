@@ -1,6 +1,6 @@
 ---
-title: "How to Build and Scale ML Teams: Hiring, MLOps & Product-Driven AI for Startups"
-short: "Building a Data Science Team"
+title: 'How to Build and Scale ML Teams: Hiring, MLOps & Product-Driven AI for Startups'
+short: Building a Data Science Team
 season: 1
 episode: 3
 guests:
@@ -14,9 +14,23 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Building-a-Data-Science-Team---Dat-Tran-enlmef
   spotify: https://open.spotify.com/episode/0daFpY1z2J4Uop1XdMNsnY
   apple: https://podcasts.apple.com/us/podcast/building-a-data-science-team-dat-tran/id1541710331?i=1000502061864
-
-description: "Master building ML teams: hiring playbooks, MLOps day-two ops, and product-driven AI for startups—scale with T-shaped engineers, ship robust models."
-intro: "How do you build and scale an ML team that delivers product-driven AI without getting bogged down by tech debt or false promises? In this episode, Dat Tran — Partner & CTO at DATANOMIQ and former AI lead at Axel Springer, idealo, and Pivotal — walks through practical strategies for hiring, MLOps, and shaping data teams for startups. <br><br> Dat draws on a decade of production ML experience to unpack the MLOps mindset (day-two operations, model maintenance), how to hire early (T-shaped generalists, take-home assessments, key hiring signals), and when to shift to specialists as you scale. He also explains product-centric practices: aligning hiring to prototype vs. MVP needs, prioritizing impact over technical perfection, and building human-centric AI (augmenting pricing managers at Priceloop). Other topics include open research and open source as strategic advantages, bootstrapping data capabilities, retention through autonomy and interesting work, and educating leadership about realistic AI expectations. <br><br> Listen for actionable guidance on building ML teams, hiring machine learning engineers, and implementing MLOps and product-driven AI in early-stage startups."
+description: 'Master building ML teams: hiring playbooks, MLOps day-two ops, and product-driven
+  AI for startups—scale with T-shaped engineers, ship robust models.'
+intro: 'How do you build and scale an ML team that delivers product-driven AI without
+  getting bogged down by tech debt or false promises? In this episode, Dat Tran —
+  Partner & CTO at DATANOMIQ and former AI lead at Axel Springer, idealo, and Pivotal
+  — walks through practical strategies for hiring, MLOps, and shaping data teams for
+  startups. <br><br> Dat draws on a decade of production ML experience to unpack the
+  MLOps mindset (day-two operations, model maintenance), how to hire early (T-shaped
+  generalists, take-home assessments, key hiring signals), and when to shift to specialists
+  as you scale. He also explains product-centric practices: aligning hiring to prototype
+  vs. MVP needs, prioritizing impact over technical perfection, and building human-centric
+  AI (augmenting pricing managers at Priceloop). Other topics include open research
+  and open source as strategic advantages, bootstrapping data capabilities, retention
+  through autonomy and interesting work, and educating leadership about realistic
+  AI expectations. <br><br> Listen for actionable guidance on building ML teams, hiring
+  machine learning engineers, and implementing MLOps and product-driven AI in early-stage
+  startups.'
 topics:
 - leadership
 - team building
@@ -24,9 +38,7 @@ topics:
 - MLOps
 - startup
 dateadded: 2021-02-23
-
 duration: PT00H58M44S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -144,11 +156,6 @@ quotableClips:
   startOffset: 3400
   url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=3400
   endOffset: 3619
-- name: Episode Wrap-Up & Key Takeaways
-  startOffset: 3619
-  url: https://www.youtube.com/watch?v=ScDIB-3O77A&t=3619
-  endOffset: 3524
-
 transcript:
 - header: Podcast Introduction
 - header: Guest Overview & Career Snapshot

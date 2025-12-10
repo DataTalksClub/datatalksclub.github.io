@@ -1,6 +1,6 @@
 ---
-title: "Build Data Science Programs, Democratize HPC & Scale Graph Analytics with Arkouda"
-short: "Leading Data Research"
+title: Build Data Science Programs, Democratize HPC & Scale Graph Analytics with Arkouda
+short: Leading Data Research
 season: 10
 episode: 8
 guests:
@@ -14,17 +14,32 @@ links:
   apple: https://podcasts.apple.com/us/podcast/leading-data-research-david-bader/id1541710331?i=1000579710785
   spotify: https://open.spotify.com/episode/7DmFWFHUwxx4Wf0X6GbKBf?si=2DW0G2EMQ7ebB9K60LfJyQ
   youtube: https://www.youtube.com/watch?v=vZLlpsUlchQ
-
-description: "Learn to build data science programs, democratize HPC and scale graph analytics with Arkouda - practical curriculum, performance tips and recruitment tips"
-intro: "How do you build effective data science programs, democratize high-performance computing, and scale graph analytics so researchers and practitioners can solve real-world problems? In this episode, David Bader — Director of the Institute for Data Science at NJIT, founder of NJIT’s Department of Data Science, and a distinguished professor with deep expertise in HPC, big data, and analytics — walks through his career, leadership in launching academic units, and practical lessons for curriculum design and regional workforce alignment. <br><br> We explore Arkouda and ARACHNE — interactive, massive-scale Python analytics and graph tools — and the Chapel-backed supercomputing techniques that aim to democratize HPC for broader use. David discusses research lab-as-startup practices (open source releases, datasets like synthetic/SNAP, and industry partnerships with NSF, Accenture, NVIDIA), building usable systems to achieve adoption (including a NASA example), and underappreciated advances such as STINGER and streaming graph analytics. He also covers mentorship models, recruiting PhD and MS students, conference strategies, and balancing teaching, research, and service. <br><br> Listen to learn concrete approaches to creating data science programs, practical steps to scale graph analytics with Arkouda, and tactics for turning research into real-world impact"
+description: Learn to build data science programs, democratize HPC and scale graph
+  analytics with Arkouda - practical curriculum, performance tips and recruitment
+  tips
+intro: How do you build effective data science programs, democratize high-performance
+  computing, and scale graph analytics so researchers and practitioners can solve
+  real-world problems? In this episode, David Bader — Director of the Institute for
+  Data Science at NJIT, founder of NJIT’s Department of Data Science, and a distinguished
+  professor with deep expertise in HPC, big data, and analytics — walks through his
+  career, leadership in launching academic units, and practical lessons for curriculum
+  design and regional workforce alignment. <br><br> We explore Arkouda and ARACHNE
+  — interactive, massive-scale Python analytics and graph tools — and the Chapel-backed
+  supercomputing techniques that aim to democratize HPC for broader use. David discusses
+  research lab-as-startup practices (open source releases, datasets like synthetic/SNAP,
+  and industry partnerships with NSF, Accenture, NVIDIA), building usable systems
+  to achieve adoption (including a NASA example), and underappreciated advances such
+  as STINGER and streaming graph analytics. He also covers mentorship models, recruiting
+  PhD and MS students, conference strategies, and balancing teaching, research, and
+  service. <br><br> Listen to learn concrete approaches to creating data science programs,
+  practical steps to scale graph analytics with Arkouda, and tactics for turning research
+  into real-world impact
 topics:
 - data science
 - data analytics
 - tools
 dateadded: 2022-09-16
-
 duration: PT01H03M03S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -131,11 +146,6 @@ quotableClips:
   startOffset: 3811
   url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=3811
   endOffset: 3846
-- name: Closing Remarks and Episode Wrap-up
-  startOffset: 3846
-  url: https://www.youtube.com/watch?v=vZLlpsUlchQ&t=3846
-  endOffset: 3783
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Intro: David Bader — NJIT Institute for Data Science, research focus'

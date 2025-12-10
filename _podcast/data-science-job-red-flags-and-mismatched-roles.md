@@ -1,6 +1,7 @@
 ---
-title: "Data Science Jobs: How to Spot Misleading Job Titles, Hiring Red Flags & Build Better Data Teams"
-short: "How to Spot Misleading Job Titles, Hiring Red Flags & Build Better Data Teams"
+title: 'Data Science Jobs: How to Spot Misleading Job Titles, Hiring Red Flags & Build
+  Better Data Teams'
+short: How to Spot Misleading Job Titles, Hiring Red Flags & Build Better Data Teams
 season: 10
 episode: 2
 guests:
@@ -14,9 +15,25 @@ links:
   apple: https://podcasts.apple.com/us/podcast/decoding-data-science-job-descriptions-tereza-iofciu/id1541710331?i=1000575150345
   spotify: https://open.spotify.com/episode/4v6h48B0c0Je8xLMo5zMs5?si=hcMUqpPPQYm2vrdi2py1UQ
   youtube: https://www.youtube.com/watch?v=bqxBiIwtmX4
-
-description: "Discover how to spot misleading job titles, hiring red flags and build stronger data teams-assess tech stacks, interview rigor, salary ranges and career fit"
-intro: "How can you tell if a data scientist job is really a data engineering role — or a mismatched hire waiting to happen? In this episode, Tereza Iofciu, PhD and seasoned data practitioner, walks through practical ways to spot misleading data job titles, hiring red flags, and how to build clearer, healthier data teams. Tereza brings experience across data science manager, data scientist, data engineer and product manager roles, plus teaching and community leadership (neuefische, PyLadies Hamburg, PSF community award), grounding her advice in real hiring and team-building work. <br><br> We cover why companies rename roles, examples from Scala, Elasticsearch, ETL and Airflow stacks, and the costs of vague job descriptions. You’ll get a role-clarity checklist (team structure, objectives, responsibilities vs. tech lists), signals of data maturity, interview pitfalls (time-consuming take-home tasks, syntax-focused tests), red flags in descriptions (long tech lists, rockstar language), and tactics for researching employers (LinkedIn, team pages, conference talks). Also discussed: salary transparency, remote-work fit, retention and career ladders. <br><br> Listen to learn concrete signals and questions to evaluate job descriptions, interviews, and shape better data hiring and team design."
+description: Discover how to spot misleading job titles, hiring red flags and build
+  stronger data teams-assess tech stacks, interview rigor, salary ranges and career
+  fit
+intro: 'How can you tell if a data scientist job is really a data engineering role
+  — or a mismatched hire waiting to happen? In this episode, Tereza Iofciu, PhD and
+  seasoned data practitioner, walks through practical ways to spot misleading data
+  job titles, hiring red flags, and how to build clearer, healthier data teams. Tereza
+  brings experience across data science manager, data scientist, data engineer and
+  product manager roles, plus teaching and community leadership (neuefische, PyLadies
+  Hamburg, PSF community award), grounding her advice in real hiring and team-building
+  work. <br><br> We cover why companies rename roles, examples from Scala, Elasticsearch,
+  ETL and Airflow stacks, and the costs of vague job descriptions. You’ll get a role-clarity
+  checklist (team structure, objectives, responsibilities vs. tech lists), signals
+  of data maturity, interview pitfalls (time-consuming take-home tasks, syntax-focused
+  tests), red flags in descriptions (long tech lists, rockstar language), and tactics
+  for researching employers (LinkedIn, team pages, conference talks). Also discussed:
+  salary transparency, remote-work fit, retention and career ladders. <br><br> Listen
+  to learn concrete signals and questions to evaluate job descriptions, interviews,
+  and shape better data hiring and team design.'
 topics:
 - data science
 - data engineering
@@ -27,9 +44,7 @@ topics:
 - job search
 dateadded: 2022-08-06
 date: 2025-11-07
-
 duration: PT00H58M45S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -143,11 +158,6 @@ quotableClips:
   startOffset: 3499
   url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=3499
   endOffset: 3607
-- name: 'Closing & Resources: Slides, talk links and final advice'
-  startOffset: 3607
-  url: https://www.youtube.com/watch?v=bqxBiIwtmX4&t=3607
-  endOffset: 3525
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Bio: Tereza’s multidisciplinary data roles & community work'

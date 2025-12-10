@@ -1,6 +1,6 @@
 ---
-title: "Freelancing in Machine Learning: Pricing, Client Acquisition & Proposals"
-short: "Freelancing in Machine Learning"
+title: 'Freelancing in Machine Learning: Pricing, Client Acquisition & Proposals'
+short: Freelancing in Machine Learning
 season: 4
 episode: 8
 guests:
@@ -14,9 +14,24 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Freelancing-in-Machine-Learning---Mikio-Braun-e166n7r
   spotify: https://open.spotify.com/episode/2oE13mUEa9k4AO5qogYdqv
   apple: https://podcasts.apple.com/us/podcast/freelancing-in-machine-learning-mikio-braun/id1541710331?i=1000532612872
-
-description: "Learn freelancing in machine learning: pricing, client acquisition, and proposals to win ML consulting gigs, scale sustainably, and secure steady income"
-intro: "How do you move from academic research or in-house ML engineering to a sustainable freelance career in machine learning — getting clients, pricing your work, and delivering production systems? In this episode, Mikio Braun, who transitioned from TU Berlin into ML roles at Zalando and GetYourGuide and now consults on machine learning production, infrastructure, and teams, walks through that path step by step. <br><br> We cover the practical parts of freelancing in machine learning: launching first clients, sourcing leads through network and referrals, and demand generation with LinkedIn, talks, and podcasts; pre-sales tactics like free intro calls, problem discovery, and clear proposals; pricing models and rate-setting strategies; financial planning, capacity management, and avoiding burnout; plus specialization, productizing consulting, and scaling options (agency, product, or return to employment). The episode also addresses administrative essentials for freelancers in Germany (registration, VAT, payments), accounting choices, professional liability, and how to compete in a global remote market. Listen for concrete advice on client-finding, scope discipline, and deliverables so you can evaluate whether freelancing in machine learning is the right next step and how to start with a safety net."
+description: 'Learn freelancing in machine learning: pricing, client acquisition,
+  and proposals to win ML consulting gigs, scale sustainably, and secure steady income'
+intro: 'How do you move from academic research or in-house ML engineering to a sustainable
+  freelance career in machine learning — getting clients, pricing your work, and delivering
+  production systems? In this episode, Mikio Braun, who transitioned from TU Berlin
+  into ML roles at Zalando and GetYourGuide and now consults on machine learning production,
+  infrastructure, and teams, walks through that path step by step. <br><br> We cover
+  the practical parts of freelancing in machine learning: launching first clients,
+  sourcing leads through network and referrals, and demand generation with LinkedIn,
+  talks, and podcasts; pre-sales tactics like free intro calls, problem discovery,
+  and clear proposals; pricing models and rate-setting strategies; financial planning,
+  capacity management, and avoiding burnout; plus specialization, productizing consulting,
+  and scaling options (agency, product, or return to employment). The episode also
+  addresses administrative essentials for freelancers in Germany (registration, VAT,
+  payments), accounting choices, professional liability, and how to compete in a global
+  remote market. Listen for concrete advice on client-finding, scope discipline, and
+  deliverables so you can evaluate whether freelancing in machine learning is the
+  right next step and how to start with a safety net.'
 topics:
 - freelance
 - consulting
@@ -26,9 +41,7 @@ topics:
 - strategy
 dateadded: 2021-08-20
 date: 2025-11-07
-
 duration: PT01H01M48S
-
 quotableClips:
 - name: Episode Introduction & Topic Overview (Freelancing in Machine Learning)
   startOffset: 0
@@ -143,11 +156,6 @@ quotableClips:
   startOffset: 3662
   url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3662
   endOffset: 3792
-- name: Closing Remarks & Contact Information (LinkedIn, Twitter @mikiobraun)
-  startOffset: 3792
-  url: https://www.youtube.com/watch?v=HfF791e0HR8&t=3792
-  endOffset: 3708
-
 transcript:
 - line: This week, we'll talk about freelancing and consulting. And we have a special
     guest today — Mikio. Actually, Mikio was my teacher six years ago. I was studying

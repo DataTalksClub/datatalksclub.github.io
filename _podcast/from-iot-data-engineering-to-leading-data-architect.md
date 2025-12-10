@@ -1,6 +1,7 @@
 ---
-title: "From Hands-On IoT Data Engineering to Leading Data Architecture: Pipelines, Cloud Adaptation & Analytics Modeling"
-short: "From Data Manager to Data Architect"
+title: 'From Hands-On IoT Data Engineering to Leading Data Architecture: Pipelines,
+  Cloud Adaptation & Analytics Modeling'
+short: From Data Manager to Data Architect
 season: 15
 episode: 8
 guests:
@@ -14,16 +15,35 @@ links:
   apple: https://podcasts.apple.com/us/podcast/from-data-manager-to-data-architect-lo%C3%AFc-magnien/id1541710331?i=1000629678056
   spotify: https://open.spotify.com/episode/7twXPni1q2RJQU2jjbCGty?si=KNCEy-0ZRrWDVchFsDCHjQ
   youtube: https://www.youtube.com/watch?v=qWG--iYO2uc
-description: "A real-world journey from hands-on IoT data engineering to leading data architecture: covering pipelines, cloud adaptation, analytics modeling, lakehouse design, and the senior responsibilities of a data lead."
-intro: "What does it take to evolve from hands-on IoT data engineering to leading data architecture — building scalable pipelines, adapting to cloud platforms, and designing analytics models that serve entire organizations? In this episode, Loïc Magnien, Lead Data at Mylight150 with a decade spanning database management, data engineering, product ownership and architecture, shares his real-world journey from managing sensor data to architecting enterprise-scale data systems. <br><br> We explore the progression from tactical IoT work — sensor data aggregation, structural health monitoring, ETL automation for logger ingestion — to strategic architecture responsibilities including cloud fundamentals (Python, Azure), lakehouse design with bronze-silver-gold layering, and core data modeling that aligns cross-functional teams. Loïc breaks down practical patterns for building reusable ingestion and transformation templates, designing dimensions and facts that serve multiple consumers, maintaining data quality expectations across layers, and balancing hands-on engineering with stakeholder engagement. The conversation covers hiring considerations for data teams, scaling responsibilities from individual contributor to lead, leveraging tools like DBT and LLMs for technology scouting, and making pragmatic tradeoffs between reusable components and project-specific solutions. <br><br> Listen to discover actionable guidance on architecture outcomes, agile delivery through proofs of concept, and building core models that drive business alignment — plus insights on the senior leadership skills needed to succeed as a data architect in IoT and analytics environments."
+description: 'A real-world journey from hands-on IoT data engineering to leading data
+  architecture: covering pipelines, cloud adaptation, analytics modeling, lakehouse
+  design, and the senior responsibilities of a data lead.'
+intro: What does it take to evolve from hands-on IoT data engineering to leading data
+  architecture — building scalable pipelines, adapting to cloud platforms, and designing
+  analytics models that serve entire organizations? In this episode, Loïc Magnien,
+  Lead Data at Mylight150 with a decade spanning database management, data engineering,
+  product ownership and architecture, shares his real-world journey from managing
+  sensor data to architecting enterprise-scale data systems. <br><br> We explore the
+  progression from tactical IoT work — sensor data aggregation, structural health
+  monitoring, ETL automation for logger ingestion — to strategic architecture responsibilities
+  including cloud fundamentals (Python, Azure), lakehouse design with bronze-silver-gold
+  layering, and core data modeling that aligns cross-functional teams. Loïc breaks
+  down practical patterns for building reusable ingestion and transformation templates,
+  designing dimensions and facts that serve multiple consumers, maintaining data quality
+  expectations across layers, and balancing hands-on engineering with stakeholder
+  engagement. The conversation covers hiring considerations for data teams, scaling
+  responsibilities from individual contributor to lead, leveraging tools like DBT
+  and LLMs for technology scouting, and making pragmatic tradeoffs between reusable
+  components and project-specific solutions. <br><br> Listen to discover actionable
+  guidance on architecture outcomes, agile delivery through proofs of concept, and
+  building core models that drive business alignment — plus insights on the senior
+  leadership skills needed to succeed as a data architect in IoT and analytics environments.
 topics:
 - data engineering
 - career transition
 - MLOps
 dateadded: 2023-10-01
-
 duration: PT01H27S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -113,11 +133,6 @@ quotableClips:
   startOffset: 3651
   url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=3651
   endOffset: 3691
-- name: Episode recap & closing
-  startOffset: 3691
-  url: https://www.youtube.com/watch?v=qWG--iYO2uc&t=3691
-  endOffset: 3627
-
 transcript:
 - header: Podcast Introduction
 - header: 'Career overview: From data manager to data lead'

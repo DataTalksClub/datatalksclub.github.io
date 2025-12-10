@@ -1,6 +1,6 @@
 ---
-title: "Feature Stores for MLOps: Real-Time Feature Engineering, Feast & Tecton Guide"
-short: "Feature Stores in MLOps Explained"
+title: 'Feature Stores for MLOps: Real-Time Feature Engineering, Feast & Tecton Guide'
+short: Feature Stores in MLOps Explained
 season: 2
 episode: 5
 guests:
@@ -14,17 +14,30 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Feature-Stores-Cutting-through-the-Hype---Willem-Pienaar-ept6m8/a-a4hlg3r
   spotify: https://open.spotify.com/episode/05YnfTWbplXwOwicR2doy3
   apple: https://podcasts.apple.com/us/podcast/feature-stores-cutting-through-the-hype-willem-pienaar/id1541710331?i=1000508782957
-
-description: "Discover feature store use cases, real-time features with Feast & Tecton, build scalable MLOps to speed production, cut duplication and detect drift"
-intro: "How do you reliably build and serve real-time features for production ML without rework, duplication, or training/serving skew? In this episode, Willem Pienaar — engineering lead at Tecton and creator of Feast — walks through what feature stores solve in MLOps and how they enable real-time feature engineering. We define feature stores, compare feature creation vs retrieval (SQL, Python, APIs, on-demand transforms), and illustrate a production real-time fraud detection lookup. Willem separates hype from value, explains organizational challenges like team silos and speed to production, and outlines the platform role across materialization, serving, and validation. <br><br> You’ll get practical coverage of Feast (open-source) and Tecton (enterprise), architecture components (transform engine, storage, serving, registry, monitoring), and when online tabular use cases require a feature store versus when it’s overkill. The episode also covers integrations (dbt, Kubeflow, Airflow), streaming vs batch (Flink, Spark), validation and monitoring (drift detection, Great Expectations, TFDV), backfilling strategies, ownership and governance, and getting started resources (feast.dev, Docker). Listen to learn when to adopt a feature store and concrete next steps for productionizing features in your MLOps stack"
+description: Discover feature store use cases, real-time features with Feast & Tecton,
+  build scalable MLOps to speed production, cut duplication and detect drift
+intro: How do you reliably build and serve real-time features for production ML without
+  rework, duplication, or training/serving skew? In this episode, Willem Pienaar —
+  engineering lead at Tecton and creator of Feast — walks through what feature stores
+  solve in MLOps and how they enable real-time feature engineering. We define feature
+  stores, compare feature creation vs retrieval (SQL, Python, APIs, on-demand transforms),
+  and illustrate a production real-time fraud detection lookup. Willem separates hype
+  from value, explains organizational challenges like team silos and speed to production,
+  and outlines the platform role across materialization, serving, and validation.
+  <br><br> You’ll get practical coverage of Feast (open-source) and Tecton (enterprise),
+  architecture components (transform engine, storage, serving, registry, monitoring),
+  and when online tabular use cases require a feature store versus when it’s overkill.
+  The episode also covers integrations (dbt, Kubeflow, Airflow), streaming vs batch
+  (Flink, Spark), validation and monitoring (drift detection, Great Expectations,
+  TFDV), backfilling strategies, ownership and governance, and getting started resources
+  (feast.dev, Docker). Listen to learn when to adopt a feature store and concrete
+  next steps for productionizing features in your MLOps stack
 topics:
 - machine learning
 - MLOps
 - feature stores
 - tools
 dateadded: 2021-02-23
-
-
 quotableClips:
 - name: 'Episode Introduction: Feature Stores in MLOps'
   startOffset: 0
@@ -110,11 +123,6 @@ quotableClips:
   startOffset: 3360
   url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=3360
   endOffset: 3450
-- name: Episode Close and Further Resources
-  startOffset: 3450
-  url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=3450
-  endOffset: 3450
-
 transcript:
 - line: Hello everyone. This event is brought to you by DataTalks.Club, a community
     of people who love data. We host two types of events. On Tuesdays, we usually
@@ -128,19 +136,19 @@ transcript:
   sec: 16
   time: 0:16
   who: Alexey
-- line: "In March, during the first week, we will have a workshop about building scalable\
-    \ end-to-end data pipelines, specifically deep learning pipelines in the cloud.\
-    \ The following week, we will talk about active learning and self-supervised learning.\
-    \ Usually on Fridays, we host live podcast sessions where we discuss various topics.\
-    \ Today, even though it\u2019s not a Friday, we have a similar event."
+- line: In March, during the first week, we will have a workshop about building scalable
+    end-to-end data pipelines, specifically deep learning pipelines in the cloud.
+    The following week, we will talk about active learning and self-supervised learning.
+    Usually on Fridays, we host live podcast sessions where we discuss various topics.
+    Today, even though it’s not a Friday, we have a similar event.
   sec: 35
   time: 0:35
   who: Alexey
-- line: "This is not a workshop; it\u2019s a conversation about feature stores. In\
-    \ March, we will also cover public speaking in the first week and then discuss\
-    \ Datums. Speaking of conferences, this week we have the first day of the conference\
-    \ on Friday. We will cover machine learning use cases with four examples: reinforcement\
-    \ learning, food industry applications, healthcare, and manufacturing."
+- line: 'This is not a workshop; it’s a conversation about feature stores. In March,
+    we will also cover public speaking in the first week and then discuss Datums.
+    Speaking of conferences, this week we have the first day of the conference on
+    Friday. We will cover machine learning use cases with four examples: reinforcement
+    learning, food industry applications, healthcare, and manufacturing.'
   sec: 67
   time: '1:07'
   who: Alexey
@@ -150,9 +158,9 @@ transcript:
   sec: 110
   time: '1:50'
   who: Alexey
-- line: "We also have support from our friends at O'Reilly and the Machine Learning\
-    \ Ops community. During our chat with Willem, we will use Slido for questions.\
-    \ I\u2019ll share a link in the chat now."
+- line: We also have support from our friends at O'Reilly and the Machine Learning
+    Ops community. During our chat with Willem, we will use Slido for questions. I’ll
+    share a link in the chat now.
   sec: 122
   time: '2:02'
   who: Alexey
@@ -172,7 +180,7 @@ transcript:
   sec: 208
   time: '3:28'
   who: Alexey
-- line: "Thanks, Alexey. I\u2019m happy to be here."
+- line: Thanks, Alexey. I’m happy to be here.
   sec: 211
   time: '3:31'
   who: Willem
@@ -181,10 +189,10 @@ transcript:
   sec: 213
   time: '3:33'
   who: Alexey
-- line: "Sure. I\u2019ll give a one to two-minute summary. I\u2019m South African\
-    \ and grew up there. I studied mechatronic engineering. During university, I built\
-    \ a networking company, which I eventually sold. Then I moved into control systems\
-    \ and automation, bridging traditional engineering and software."
+- line: Sure. I’ll give a one to two-minute summary. I’m South African and grew up
+    there. I studied mechatronic engineering. During university, I built a networking
+    company, which I eventually sold. Then I moved into control systems and automation,
+    bridging traditional engineering and software.
   sec: 220
   time: '3:40'
   who: Willem
@@ -202,11 +210,10 @@ transcript:
   sec: 288
   time: '4:48'
   who: Willem
-- line: "They hired many data scientists but couldn\u2019t get them into production.\
-    \ They embedded us as engineers and asked me to lead the team to help productionize\
-    \ the data scientists\u2019 work. Traditional product engineers were busy with\
-    \ other responsibilities, so they couldn\u2019t handle this. I led that team for\
-    \ about four years."
+- line: They hired many data scientists but couldn’t get them into production. They
+    embedded us as engineers and asked me to lead the team to help productionize the
+    data scientists’ work. Traditional product engineers were busy with other responsibilities,
+    so they couldn’t handle this. I led that team for about four years.
   sec: 312
   time: '5:12'
   who: Willem
@@ -216,19 +223,19 @@ transcript:
   sec: 348
   time: '5:48'
   who: Willem
-- line: "That\u2019s an interesting journey. As a mechanical engineer, did you learn\
-    \ to code at university?"
+- line: That’s an interesting journey. As a mechanical engineer, did you learn to
+    code at university?
   sec: 361
   time: '6:01'
   who: Alexey
-- line: "Technically, it was mechatronics, but most of the focus was on mechanical\
-    \ aspects. About 70% of it didn\u2019t interest me much. The software aspect was\
-    \ always the most interesting and relevant to what I do today."
+- line: Technically, it was mechatronics, but most of the focus was on mechanical
+    aspects. About 70% of it didn’t interest me much. The software aspect was always
+    the most interesting and relevant to what I do today.
   sec: 369
   time: '6:09'
   who: Willem
-- line: "That\u2019s impressive from low-level work to cloud. So, what exactly are\
-    \ feature stores, why do we need them, and what problems do they solve?"
+- line: That’s impressive from low-level work to cloud. So, what exactly are feature
+    stores, why do we need them, and what problems do they solve?
   sec: 389
   time: '6:29'
   who: Alexey
@@ -258,10 +265,9 @@ transcript:
   sec: 506
   time: '8:26'
   who: Alexey
-- line: "Exactly. Not all feature stores solve the same problems. For example, Feast\
-    \ doesn\u2019t handle transformations, while Tecton\u2019s feature store does.\
-    \ The scope of what a feature store should handle varies, but these are the core\
-    \ problems."
+- line: Exactly. Not all feature stores solve the same problems. For example, Feast
+    doesn’t handle transformations, while Tecton’s feature store does. The scope of
+    what a feature store should handle varies, but these are the core problems.
   sec: 530
   time: '8:50'
   who: Willem
@@ -277,8 +283,8 @@ transcript:
   sec: 567
   time: '9:27'
   who: Willem
-- line: "As a data scientist, I\u2019m used to querying data with SQL. Do feature\
-    \ stores provide a SQL-like interface, or is it different?"
+- line: As a data scientist, I’m used to querying data with SQL. Do feature stores
+    provide a SQL-like interface, or is it different?
   sec: 603
   time: '10:03'
   who: Alexey
@@ -294,18 +300,17 @@ transcript:
   sec: 662
   time: '11:02'
   who: Willem
-- line: "If you provided a SQL interface for retrieval, you wouldn't have the same\
-    \ guarantees in terms of performance and production. Most online models only require\
-    \ key-value enrichment of entity data; they don\u2019t need arbitrary queries\
-    \ executed."
+- line: If you provided a SQL interface for retrieval, you wouldn't have the same
+    guarantees in terms of performance and production. Most online models only require
+    key-value enrichment of entity data; they don’t need arbitrary queries executed.
   sec: 667
   time: '11:07'
   who: Willem
-- line: "Some feature stores, like Tecton, do provide on-demand or real-time transformations.\
-    \ For example, in a fraud detection system, incoming requests may include live\
-    \ data attached to an order or booking. Those features are transformed at request\
-    \ time. For the most part, though, features are pre-computed, and that\u2019s\
-    \ where most arbitrary logic is applied."
+- line: Some feature stores, like Tecton, do provide on-demand or real-time transformations.
+    For example, in a fraud detection system, incoming requests may include live data
+    attached to an order or booking. Those features are transformed at request time.
+    For the most part, though, features are pre-computed, and that’s where most arbitrary
+    logic is applied.
   sec: 690
   time: '11:30'
   who: Willem
@@ -317,35 +322,35 @@ transcript:
   sec: 719
   time: '11:59'
   who: Alexey
-- line: "Yes, that\u2019s correct."
+- line: Yes, that’s correct.
   sec: 766
   time: '12:46'
   who: Willem
-- line: "Feature stores are very popular these days. I\u2019m part of the MLOps community,\
-    \ and people discuss them almost every day. Why do you think they are so popular?\
-    \ Why is there so much hype?"
+- line: Feature stores are very popular these days. I’m part of the MLOps community,
+    and people discuss them almost every day. Why do you think they are so popular?
+    Why is there so much hype?
   sec: 773
   time: '12:53'
   who: Alexey
-- line: "The hype is interesting. It\u2019s not just feature stores; ML in general\
-    \ has had a lot of hype. Part of it is competition in the space\u2014employment,\
-    \ marketability, and skills. It\u2019s similar to the Node.js hype in the past."
+- line: The hype is interesting. It’s not just feature stores; ML in general has had
+    a lot of hype. Part of it is competition in the space—employment, marketability,
+    and skills. It’s similar to the Node.js hype in the past.
   sec: 797
   time: '13:17'
   who: Willem
-- line: "A large part is people rebranding their skill sets and becoming niche experts.\
-    \ But feature stores and MLOps also provide real value to companies. Many organizations\
-    \ are digitizing, and those that don\u2019t implement these systems properly may\
-    \ fall behind. Some companies have succeeded because they solved these problems,\
-    \ like Uber\u2019s Michelangelo platform."
+- line: A large part is people rebranding their skill sets and becoming niche experts.
+    But feature stores and MLOps also provide real value to companies. Many organizations
+    are digitizing, and those that don’t implement these systems properly may fall
+    behind. Some companies have succeeded because they solved these problems, like
+    Uber’s Michelangelo platform.
   sec: 828
   time: '13:48'
   who: Willem
-- line: "MLOps is critical if you want to use ML at scale. Machine learning platforms\
-    \ have become standard\u2014whether it\u2019s Kubeflow, MLflow, or Seldon, most\
-    \ companies have a stack running models. But data accounts for almost 90% of the\
-    \ equation. The value comes from producing new features, shipping them to production,\
-    \ and iterating constantly."
+- line: MLOps is critical if you want to use ML at scale. Machine learning platforms
+    have become standard—whether it’s Kubeflow, MLflow, or Seldon, most companies
+    have a stack running models. But data accounts for almost 90% of the equation.
+    The value comes from producing new features, shipping them to production, and
+    iterating constantly.
   sec: 880
   time: '14:40'
   who: Willem
@@ -371,8 +376,8 @@ transcript:
   sec: 988
   time: '16:28'
   who: Alexey
-- line: "Let\u2019s take a step back and discuss the problems data science teams usually\
-    \ face. Are these problems more organizational or technical?"
+- line: Let’s take a step back and discuss the problems data science teams usually
+    face. Are these problems more organizational or technical?
   sec: 996
   time: '16:36'
   who: Alexey
@@ -401,9 +406,9 @@ transcript:
   sec: 1084
   time: '18:04'
   who: Willem
-- line: "Sometimes, organizations don\u2019t fully understand the value data scientists\
-    \ can bring. Failures in data science projects are normal, but organizations may\
-    \ undervalue their contribution. Over time, this is changing."
+- line: Sometimes, organizations don’t fully understand the value data scientists
+    can bring. Failures in data science projects are normal, but organizations may
+    undervalue their contribution. Over time, this is changing.
   sec: 1133
   time: '18:53'
   who: Willem
@@ -415,8 +420,8 @@ transcript:
   sec: 1168
   time: '19:28'
   who: Willem
-- line: "There\u2019s a social and trust aspect to sharing and reuse, and that\u2019\
-    s largely the challenge."
+- line: There’s a social and trust aspect to sharing and reuse, and that’s largely
+    the challenge.
   sec: 1204
   time: '20:04'
   who: Willem
@@ -819,17 +824,17 @@ transcript:
   sec: 3082
   time: '51:22'
   who: Alexey
-- line: "In Tecton, it's like PySpark or Spark SQL. If using an existing warehouse,\
-    \ it\u2019s SnowSQL or BigQuery SQL. Online transformations, meaning just-in-time\
-    \ or request-time transformations, are Python. You can write Pandas transformations\
-    \ or other Python transformations. Some teams run Scala transformations in production,\
-    \ but that\u2019s not supported today in Tecton."
+- line: In Tecton, it's like PySpark or Spark SQL. If using an existing warehouse,
+    it’s SnowSQL or BigQuery SQL. Online transformations, meaning just-in-time or
+    request-time transformations, are Python. You can write Pandas transformations
+    or other Python transformations. Some teams run Scala transformations in production,
+    but that’s not supported today in Tecton.
   sec: 3087
   time: '51:27'
   who: Willem
-- line: "For Feast, it doesn\u2019t matter. On-demand transformations are requested\
-    \ by many teams, but unifying on-demand, online, and offline aspects is challenging.\
-    \ You need to ensure the same transformations are applied to training datasets."
+- line: For Feast, it doesn’t matter. On-demand transformations are requested by many
+    teams, but unifying on-demand, online, and offline aspects is challenging. You
+    need to ensure the same transformations are applied to training datasets.
   sec: 3124
   time: '52:04'
   who: Willem
@@ -845,23 +850,23 @@ transcript:
   sec: 3168
   time: '52:48'
   who: Willem
-- line: "If we\u2019re a small startup hiring our first data engineer or data scientist,\
-    \ should we start using a feature store?"
+- line: If we’re a small startup hiring our first data engineer or data scientist,
+    should we start using a feature store?
   sec: 3217
   time: '53:37'
   who: Alexey
-- line: "Not initially. If you have only a few features and one model, it\u2019s manageable.\
-    \ A feature store becomes valuable when you want to iterate on models, have multiple\
-    \ use cases, and teams start working independently. Starting with two or three\
-    \ data scientists and engineers doesn\u2019t require it."
+- line: Not initially. If you have only a few features and one model, it’s manageable.
+    A feature store becomes valuable when you want to iterate on models, have multiple
+    use cases, and teams start working independently. Starting with two or three data
+    scientists and engineers doesn’t require it.
   sec: 3229
   time: '53:49'
   who: Willem
-- line: "The biggest friction is transformations. If you already have transformations\
-    \ in one place and add a feature store that allows transformations, now you have\
-    \ two places. Feast doesn\u2019t do transformations, so it slots in easily. With\
-    \ Tecton, you need to decide where transformations live. Greenfield projects may\
-    \ adopt Tecton, and brownfield projects may not migrate."
+- line: The biggest friction is transformations. If you already have transformations
+    in one place and add a feature store that allows transformations, now you have
+    two places. Feast doesn’t do transformations, so it slots in easily. With Tecton,
+    you need to decide where transformations live. Greenfield projects may adopt Tecton,
+    and brownfield projects may not migrate.
   sec: 3292
   time: '54:52'
   who: Willem
@@ -902,8 +907,8 @@ transcript:
   sec: 3554
   time: '59:14'
   who: Willem
-- line: "What\u2019s the difference between a feature store and a traditional data\
-    \ platform with ETL, preparation, and a good catalog?"
+- line: What’s the difference between a feature store and a traditional data platform
+    with ETL, preparation, and a good catalog?
   sec: 3696
   time: '1:01:36'
   who: Alexey
@@ -915,7 +920,7 @@ transcript:
   sec: 3703
   time: '1:01:43'
   who: Willem
-- line: "We still have seven more questions, but we shouldn\u2019t keep you too long."
+- line: We still have seven more questions, but we shouldn’t keep you too long.
   sec: 3789
   time: '1:03:09'
   who: Alexey

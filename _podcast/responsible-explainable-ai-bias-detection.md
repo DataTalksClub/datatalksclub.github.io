@@ -1,6 +1,7 @@
 ---
-title: "Responsible & Explainable AI: Practical Guide to Bias Detection, Fairness & Governance"
-short: "Responsible and Explainable AI"
+title: 'Responsible & Explainable AI: Practical Guide to Bias Detection, Fairness
+  & Governance'
+short: Responsible and Explainable AI
 season: 10
 episode: 9
 guests:
@@ -14,9 +15,24 @@ links:
   apple: https://podcasts.apple.com/us/podcast/responsible-and-explainable-ai-supreet-kaur/id1541710331?i=1000581178150
   spotify: https://open.spotify.com/episode/0xCSjSCG6tTiMSGfUJrMmO
   youtube: https://www.youtube.com/watch?v=8Eb5mG-pC3o
-
-description: "Discover Responsible AI & Explainable AI tactics for bias detection, fairness checks and governance, practical tools to build trustworthy, compliant ML models"
-intro: "How do you detect bias, enforce fairness, and govern AI systems in production without sacrificing business outcomes? In this episode, Supreet Kaur — AVP on Morgan Stanley’s Data Strategy and Products team, founder of DataBuzz, and mentor at Columbia and Rutgers — walks through a practical roadmap for responsible AI and explainable AI grounded in real-world examples. <br><br> We define responsible AI and contrast it with post-hoc explainability, then unpack a credit decision bias case to show disparate outcomes in practice. Supreet outlines glass-box explainability techniques, data-level fairness checks (skewness, missingness, coverage), and EDA methods for bias detection. She covers PII handling, feature necessity assessments with SMEs and compliance, and automating data quality and monitoring. You’ll hear tool recommendations — What-If, Skater, AI Explainability 360, LIME, SHAP — plus approaches to local interpretability, drift and feedback-loop detection, and trade-offs between accuracy and interpretability. <br><br> Listeners will gain actionable guidance on bias detection, model interpretability, AI governance structures, and managing AutoML and regulated-industry risks — practical steps to make AI systems more fair, transparent, and accountable"
+description: Discover Responsible AI & Explainable AI tactics for bias detection,
+  fairness checks and governance, practical tools to build trustworthy, compliant
+  ML models
+intro: How do you detect bias, enforce fairness, and govern AI systems in production
+  without sacrificing business outcomes? In this episode, Supreet Kaur — AVP on Morgan
+  Stanley’s Data Strategy and Products team, founder of DataBuzz, and mentor at Columbia
+  and Rutgers — walks through a practical roadmap for responsible AI and explainable
+  AI grounded in real-world examples. <br><br> We define responsible AI and contrast
+  it with post-hoc explainability, then unpack a credit decision bias case to show
+  disparate outcomes in practice. Supreet outlines glass-box explainability techniques,
+  data-level fairness checks (skewness, missingness, coverage), and EDA methods for
+  bias detection. She covers PII handling, feature necessity assessments with SMEs
+  and compliance, and automating data quality and monitoring. You’ll hear tool recommendations
+  — What-If, Skater, AI Explainability 360, LIME, SHAP — plus approaches to local
+  interpretability, drift and feedback-loop detection, and trade-offs between accuracy
+  and interpretability. <br><br> Listeners will gain actionable guidance on bias detection,
+  model interpretability, AI governance structures, and managing AutoML and regulated-industry
+  risks — practical steps to make AI systems more fair, transparent, and accountable
 topics:
 - responsible AI
 - explainable AI
@@ -25,9 +41,7 @@ topics:
 - governance
 - tools
 dateadded: 2022-10-02
-
 duration: PT00H58M56S
-
 quotableClips:
 - name: 'Episode Introduction: Responsible and Explainable AI'
   startOffset: 0
@@ -129,11 +143,6 @@ quotableClips:
   startOffset: 3404
   url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3404
   endOffset: 3567
-- name: 'Closing Remarks: Follow-up, Links, and Contact Information'
-  startOffset: 3567
-  url: https://www.youtube.com/watch?v=8Eb5mG-pC3o&t=3567
-  endOffset: 3536
-
 transcript:
 - header: 'Episode Introduction: Responsible and Explainable AI'
 - line: This week, we'll talk about responsible and Explainable AI. We have a special

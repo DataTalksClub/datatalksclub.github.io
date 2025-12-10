@@ -1,6 +1,7 @@
 ---
-title: "How to Teach Yourself Bioinformatics & ML: Project-First Learning, Resources, and MLOps"
-short: "Mastering Self-Learning in Machine Learning"
+title: 'How to Teach Yourself Bioinformatics & ML: Project-First Learning, Resources,
+  and MLOps'
+short: Mastering Self-Learning in Machine Learning
 season: 13
 episode: 7
 guests:
@@ -14,17 +15,30 @@ links:
   apple: https://podcasts.apple.com/us/podcast/mastering-self-learning-in-machine-learning-aaisha/id1541710331?i=1000607892159
   spotify: https://open.spotify.com/episode/2XdKHrmVuytXd5kzLVSbFn?si=ETbkUdT2Q1yJlKCI-d9Rcg
   youtube: https://www.youtube.com/watch?v=Kc3Puh3UCRQ
-
-description: "Learn bioinformatics & machine learning via project-first workflows, dataset-first ideation, study hacks and MLOps deployment tips to gain practical skills"
-intro: "How do you teach yourself bioinformatics and machine learning in a way that leads to real projects and deployable models? In this episode, Aaisha Muhammad — a self-taught bioinformatician, machine learning engineer and scientific illustrator from Johannesburg and a Datatalks.Club ML Zoomcamp graduate — walks through a project-first path for learning bioinformatics and ML. We cover prioritization and avoiding FOMO, open curricula like OSSU, skill mapping with ML Zoomcamp, and practical resource evaluation (free vs paid, syllabus skimming, instructor credibility). Aaisha explains dataset-first project ideation, finding datasets and papers via Google Scholar and PubMed, and building capstone projects such as frog toxicity and landscape classifiers. You’ll hear pragmatic study tactics — self-imposed deadlines, note-taking, time tracking, community study groups, and using ChatGPT as a study companion — plus strategies to approach PhD-level papers while avoiding burnout. For engineers interested in production, the conversation addresses deployment and MLOps basics including Docker and Kubernetes. Tune in to gain concrete guidance on projects, vetted resources, and the study habits that make self-directed bioinformatics and ML learning sustainable"
+description: Learn bioinformatics & machine learning via project-first workflows,
+  dataset-first ideation, study hacks and MLOps deployment tips to gain practical
+  skills
+intro: How do you teach yourself bioinformatics and machine learning in a way that
+  leads to real projects and deployable models? In this episode, Aaisha Muhammad —
+  a self-taught bioinformatician, machine learning engineer and scientific illustrator
+  from Johannesburg and a Datatalks.Club ML Zoomcamp graduate — walks through a project-first
+  path for learning bioinformatics and ML. We cover prioritization and avoiding FOMO,
+  open curricula like OSSU, skill mapping with ML Zoomcamp, and practical resource
+  evaluation (free vs paid, syllabus skimming, instructor credibility). Aaisha explains
+  dataset-first project ideation, finding datasets and papers via Google Scholar and
+  PubMed, and building capstone projects such as frog toxicity and landscape classifiers.
+  You’ll hear pragmatic study tactics — self-imposed deadlines, note-taking, time
+  tracking, community study groups, and using ChatGPT as a study companion — plus
+  strategies to approach PhD-level papers while avoiding burnout. For engineers interested
+  in production, the conversation addresses deployment and MLOps basics including
+  Docker and Kubernetes. Tune in to gain concrete guidance on projects, vetted resources,
+  and the study habits that make self-directed bioinformatics and ML learning sustainable
 topics:
 - bioinformatics
 - machine learning
 - self-learning
 dateadded: 2023-04-08
-
 duration: PT00H58M57S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -132,11 +146,6 @@ quotableClips:
   startOffset: 3593
   url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3593
   endOffset: 3611
-- name: Episode Sign-Off
-  startOffset: 3611
-  url: https://www.youtube.com/watch?v=Kc3Puh3UCRQ&t=3611
-  endOffset: 3537
-
 transcript:
 - header: 'Guest Overview: Aaisha — self-taught bioinformatician, ML engineer, scientific
     illustrator'

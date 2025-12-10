@@ -1,6 +1,7 @@
 ---
-title: "DataOps 101 for Scaling Data Platforms: Immutable Pipelines, Self-Service Lakehouse & Reproducibility"
-short: "DataOps 101"
+title: 'DataOps 101 for Scaling Data Platforms: Immutable Pipelines, Self-Service
+  Lakehouse & Reproducibility'
+short: DataOps 101
 season: 2
 episode: 11
 guests:
@@ -14,17 +15,29 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/DataOps-101---Lars-Albertsson-ethsp1
   spotify: https://open.spotify.com/episode/5c2m4FVq4KPCfSXndCAzNd
   apple: https://podcasts.apple.com/us/podcast/dataops-101-lars-albertsson/id1541710331?i=1000514542438
-
-description: "Discover DataOps strategies, immutable pipelines & a self-service lakehouse to boost reproducibility, scale data platforms, enable analysts and speed delivery"
-intro: "How do you scale a data platform that supports self-service analytics while keeping pipelines reproducible and maintainable? In this episode, Lars Albertsson, founder of Scling and former Google, Spotify and Schibsted engineer, walks through pragmatic DataOps principles for building scalable data platforms. <br><br> We dig into building self-service at Spotify, orchestration with Luigi, and the core platform components—storage, compute and workflow engines—plus compute choices like Spark, Flink, containers and managed services. Lars explains immutable, functional pipeline design to solve reproducibility problems, contrasts data lakes and warehouses (raw dumps vs aggregates), and covers object storage, governance, ingress/egress patterns, CDC and database versioning strategies. He also explores batch vs streaming trade-offs, micro-batching, DataOps maturity (tests, schema automation), MLOps vs DataOps overlaps, and risks around data mesh and decentralization. <br><br> Listeners will come away with concrete architectural trade-offs, patterns for immutable pipelines and self-service lakehouse design, and recommended readings from the Scling list to deepen expertise in DataOps, lineage, versioning and practical data engineering"
+description: Discover DataOps strategies, immutable pipelines & a self-service lakehouse
+  to boost reproducibility, scale data platforms, enable analysts and speed delivery
+intro: How do you scale a data platform that supports self-service analytics while
+  keeping pipelines reproducible and maintainable? In this episode, Lars Albertsson,
+  founder of Scling and former Google, Spotify and Schibsted engineer, walks through
+  pragmatic DataOps principles for building scalable data platforms. <br><br> We dig
+  into building self-service at Spotify, orchestration with Luigi, and the core platform
+  components—storage, compute and workflow engines—plus compute choices like Spark,
+  Flink, containers and managed services. Lars explains immutable, functional pipeline
+  design to solve reproducibility problems, contrasts data lakes and warehouses (raw
+  dumps vs aggregates), and covers object storage, governance, ingress/egress patterns,
+  CDC and database versioning strategies. He also explores batch vs streaming trade-offs,
+  micro-batching, DataOps maturity (tests, schema automation), MLOps vs DataOps overlaps,
+  and risks around data mesh and decentralization. <br><br> Listeners will come away
+  with concrete architectural trade-offs, patterns for immutable pipelines and self-service
+  lakehouse design, and recommended readings from the Scling list to deepen expertise
+  in DataOps, lineage, versioning and practical data engineering
 topics:
 - DataOps
 - date engineering
 - MLOps
 dateadded: 2021-03-27
-
 duration: PT01H09M27S
-
 quotableClips:
 - name: Episode Opening & Guest Introduction
   startOffset: 159
@@ -126,11 +139,6 @@ quotableClips:
   startOffset: 4261
   url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=4261
   endOffset: 4326
-- name: Episode Closing
-  startOffset: 4326
-  url: https://www.youtube.com/watch?v=vyF3yGsF6UY&t=4326
-  endOffset: 4167
-
 transcript:
 - header: Episode Opening & Guest Introduction
 - line: This week, we'll talk about data Ops — what is this and how is it different

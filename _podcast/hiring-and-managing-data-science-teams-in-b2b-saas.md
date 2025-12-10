@@ -1,6 +1,6 @@
 ---
-title: "How to Hire, Manage, and Grow a Data Science Team in B2B SaaS"
-short: "How to Hire, Manage, and Grow a Data Science Team in B2B SaaS"
+title: How to Hire, Manage, and Grow a Data Science Team in B2B SaaS
+short: How to Hire, Manage, and Grow a Data Science Team in B2B SaaS
 season: 11
 episode: 2
 guests:
@@ -14,9 +14,23 @@ links:
   apple: https://podcasts.apple.com/us/podcast/data-science-career-development-katie-bauer/id1541710331?i=1000582680396
   spotify: https://open.spotify.com/episode/0sm5qB1Cj4EJlbQ2giLtHR
   youtube: https://www.youtube.com/watch?v=i1NHRroQClQ
-
-description: "Learn hiring & management tactics for data science in B2B SaaS — hiring, onboarding, mentorship, and career growth strategies to build scalable analytics teams"
-intro: "How do you hire, manage, and grow a high-impact data science team inside a B2B SaaS company? In this episode, Katie Bauer — Head of Data at GlossGenius and former data leader at Twitter and Reddit — walks through practical career frameworks and team-building strategies for product analysts, analytics engineers, marketing scientists, and data scientists. Katie traces her own trajectory from linguistics to analytics and explains what “craft” looks like in analytics: maintainability, documentation, and peer review. She breaks down IC versus management paths, how to mentor juniors through project-based learning, and when to buy versus build entry-level talent. You’ll hear concrete hiring and interview approaches for managers, how to assess strategy through case studies and trade-offs, and tips to help new hires succeed in their first month via proactive communication and async support channels. For leaders, Katie covers prioritization, raising data literacy, and fostering a data-driven culture. Listen to get actionable guidance on hiring data scientists, onboarding newcomers, developing senior talent, and scaling data teams in B2B SaaS."
+description: Learn hiring & management tactics for data science in B2B SaaS — hiring,
+  onboarding, mentorship, and career growth strategies to build scalable analytics
+  teams
+intro: 'How do you hire, manage, and grow a high-impact data science team inside a
+  B2B SaaS company? In this episode, Katie Bauer — Head of Data at GlossGenius and
+  former data leader at Twitter and Reddit — walks through practical career frameworks
+  and team-building strategies for product analysts, analytics engineers, marketing
+  scientists, and data scientists. Katie traces her own trajectory from linguistics
+  to analytics and explains what “craft” looks like in analytics: maintainability,
+  documentation, and peer review. She breaks down IC versus management paths, how
+  to mentor juniors through project-based learning, and when to buy versus build entry-level
+  talent. You’ll hear concrete hiring and interview approaches for managers, how to
+  assess strategy through case studies and trade-offs, and tips to help new hires
+  succeed in their first month via proactive communication and async support channels.
+  For leaders, Katie covers prioritization, raising data literacy, and fostering a
+  data-driven culture. Listen to get actionable guidance on hiring data scientists,
+  onboarding newcomers, developing senior talent, and scaling data teams in B2B SaaS.'
 topics:
 - data science
 - career development
@@ -26,9 +40,7 @@ topics:
 - team building
 - mentorship
 dateadded: 2022-10-15
-
 duration: PT00H58M40S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -118,11 +130,6 @@ quotableClips:
   startOffset: 3549
   url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3549
   endOffset: 3613
-- name: Episode wrap and contact information
-  startOffset: 3613
-  url: https://www.youtube.com/watch?v=i1NHRroQClQ&t=3613
-  endOffset: 3520
-
 transcript:
 - header: Podcast Introduction
 - header: 'Introduction: Episode focus on data science career development (Katie Bauer)'

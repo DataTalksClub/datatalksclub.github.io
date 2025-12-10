@@ -1,6 +1,7 @@
 ---
-title: "Build Scalable, Reliable ML Systems (MLOps): Design Docs, Data Strategy & Edge Constraints"
-short: "Building Scalable and Reliable Machine Learning Systems"
+title: 'Build Scalable, Reliable ML Systems (MLOps): Design Docs, Data Strategy &
+  Edge Constraints'
+short: Building Scalable and Reliable Machine Learning Systems
 season: 14
 episode: 1
 guests:
@@ -14,9 +15,23 @@ links:
   apple: https://podcasts.apple.com/us/podcast/building-scalable-and-reliable-machine-learning/id1541710331?i=1000612813133
   spotify: https://open.spotify.com/episode/6iDyJuhfXibDB6kXFhvaqG?si=urjDGVl6RrWtjVXIAUgOvQ
   youtube: https://www.youtube.com/watch?v=i-pIdekjUow
-
-description: "Learn MLOps design doc and data strategy to build scalable, reliable machine learning systems; navigate edge constraints, metrics, pipelines, and testing"
-intro: "How do you design machine learning systems that scale, stay reliable in production, and meet tight edge and mobile constraints? In this episode, Arseny Kravchenko — a seasoned ML engineer focused on computer vision, active in ML since 2015 and a former Kaggle Master — walks through practical MLOps patterns for turning models into production systems. <br><br> We cover where startups trade off productionization and who owns those decisions; how to define ML system goals, non-goals, and assumptions; and why a lightweight design phase with a problem-first design doc (50/50 problem vs solution) pays off. Arseny breaks down edge and mobile ML constraints (latency, FPS, energy, Core ML), managing known and unknown risks with early tests, and building a solution blueprint: baselines, metrics, pipeline components, and data strategy (availability, processing, features, data lakes). He also explains system diagramming for data flow and real-time vs batch, dataset heuristics, and shares design doc examples (photostock search and retail pricing). Listeners will get concrete guidance on MLOps, design docs, data strategy, and edge ML trade-offs — plus pointers to deeper learning resources and a book offer discussed at the end."
+description: Learn MLOps design doc and data strategy to build scalable, reliable
+  machine learning systems; navigate edge constraints, metrics, pipelines, and testing
+intro: 'How do you design machine learning systems that scale, stay reliable in production,
+  and meet tight edge and mobile constraints? In this episode, Arseny Kravchenko —
+  a seasoned ML engineer focused on computer vision, active in ML since 2015 and a
+  former Kaggle Master — walks through practical MLOps patterns for turning models
+  into production systems. <br><br> We cover where startups trade off productionization
+  and who owns those decisions; how to define ML system goals, non-goals, and assumptions;
+  and why a lightweight design phase with a problem-first design doc (50/50 problem
+  vs solution) pays off. Arseny breaks down edge and mobile ML constraints (latency,
+  FPS, energy, Core ML), managing known and unknown risks with early tests, and building
+  a solution blueprint: baselines, metrics, pipeline components, and data strategy
+  (availability, processing, features, data lakes). He also explains system diagramming
+  for data flow and real-time vs batch, dataset heuristics, and shares design doc
+  examples (photostock search and retail pricing). Listeners will get concrete guidance
+  on MLOps, design docs, data strategy, and edge ML trade-offs — plus pointers to
+  deeper learning resources and a book offer discussed at the end.'
 topics:
 - machine learning
 - MLOps
@@ -25,9 +40,7 @@ topics:
 - system design
 - MLOps
 dateadded: 2023-05-13
-
 duration: PT00H59M25S
-
 quotableClips:
 - name: 'Episode Overview: Building Scalable & Reliable Machine Learning Systems'
   startOffset: 0
@@ -117,11 +130,6 @@ quotableClips:
   startOffset: 3600
   url: https://www.youtube.com/watch?v=i-pIdekjUow&t=3600
   endOffset: 3637
-- name: Closing Remarks and Episode Wrap-up
-  startOffset: 3637
-  url: https://www.youtube.com/watch?v=i-pIdekjUow&t=3637
-  endOffset: 3565
-
 transcript:
 - header: 'Episode Overview: Building Scalable & Reliable Machine Learning Systems'
 - line: This week, we'll talk about building scalable and reliable machine learning

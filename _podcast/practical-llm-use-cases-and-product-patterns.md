@@ -1,6 +1,7 @@
 ---
-title: "LLM Value Creation: GPT Communities, Business Use Cases & Human-in-the-Loop AI Applications"
-short: "The Good, the Bad and the Ugly of GPT"
+title: 'LLM Value Creation: GPT Communities, Business Use Cases & Human-in-the-Loop
+  AI Applications'
+short: The Good, the Bad and the Ugly of GPT
 season: 15
 episode: 4
 guests:
@@ -14,14 +15,27 @@ links:
   apple: https://podcasts.apple.com/us/podcast/the-good-the-bad-and-the-ugly-of-gpt-sandra-kublik/id1541710331?i=1000623464507
   spotify: https://open.spotify.com/episode/5fZ89re1YLiVZ7QNxdoKVH?si=pD96Dv_tRvaHci5N8PZv9g
   youtube: https://www.youtube.com/watch?v=bM6AR4A-f98
-
-description: "Create real business value with LLMs: from early GPT communities to production applications that actually work."
-intro: "How do you create real business value with LLMs — from early GPT communities to production applications that actually work? In this episode, Sandra Kublik — AI entrepreneur, community builder, and author on GPT — shares a practical, entrepreneurial perspective on building LLM-powered products that deliver results. <br><br> Sandra traces her journey through the early GPT community (Nextgrid, Lablab.AI, YouTube) and breaks down proven business use cases: text generation workflows, semantic search with embeddings, and domain-specific AI assistants. You'll get actionable guidance on product patterns, prompt engineering techniques, and the critical human-in-the-loop requirements for reliable AI applications. The conversation covers real-world trade-offs between proprietary and open-source models, security considerations for enterprise deployment, and practical strategies to mitigate hallucinations while maintaining brand safety. <br><br> Listen for concrete frameworks to evaluate LLM integration opportunities, a 7-day experiment to test LLMs in your workflow, and proven patterns for scaling AI applications from prototype to production. Sandra shares resources on YouTube, X, and LinkedIn for continued learning and implementation examples."
+description: 'Create real business value with LLMs: from early GPT communities to
+  production applications that actually work.'
+intro: 'How do you create real business value with LLMs — from early GPT communities
+  to production applications that actually work? In this episode, Sandra Kublik —
+  AI entrepreneur, community builder, and author on GPT — shares a practical, entrepreneurial
+  perspective on building LLM-powered products that deliver results. <br><br> Sandra
+  traces her journey through the early GPT community (Nextgrid, Lablab.AI, YouTube)
+  and breaks down proven business use cases: text generation workflows, semantic search
+  with embeddings, and domain-specific AI assistants. You''ll get actionable guidance
+  on product patterns, prompt engineering techniques, and the critical human-in-the-loop
+  requirements for reliable AI applications. The conversation covers real-world trade-offs
+  between proprietary and open-source models, security considerations for enterprise
+  deployment, and practical strategies to mitigate hallucinations while maintaining
+  brand safety. <br><br> Listen for concrete frameworks to evaluate LLM integration
+  opportunities, a 7-day experiment to test LLMs in your workflow, and proven patterns
+  for scaling AI applications from prototype to production. Sandra shares resources
+  on YouTube, X, and LinkedIn for continued learning and implementation examples.'
 topics:
 - LLMs
 dateadded: 2023-08-06
 duration: PT01H09S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -107,11 +121,6 @@ quotableClips:
   startOffset: 3664
   url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=3664
   endOffset: 3684
-- name: Closing Remarks
-  startOffset: 3684
-  url: https://www.youtube.com/watch?v=bM6AR4A-f98&t=3684
-  endOffset: 3609
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Introduction: Sandra Kublik, AI entrepreneur and GPT-3 author'

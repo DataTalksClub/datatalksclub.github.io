@@ -1,6 +1,6 @@
 ---
-title: "Ace Data Interviews: Behavioral STARs, Case Strategy, Portfolios & Cold Emails"
-short: "Ace Non-Technical Data Science Interviews"
+title: 'Ace Data Interviews: Behavioral STARs, Case Strategy, Portfolios & Cold Emails'
+short: Ace Non-Technical Data Science Interviews
 season: 6
 episode: 2
 guests:
@@ -14,8 +14,8 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Ace-Non-Technical-Data-Science-Interviews---Nick-Singh-e1a5qtd
   spotify: https://open.spotify.com/episode/7tO8GmqAcFUUk4fLqxEXy1
   apple: https://podcasts.apple.com/us/podcast/ace-non-technical-data-science-interviews-nick-singh/id1541710331?i=1000541631687
-
-description: "Master behavioral interviews & prep to break into data roles: build an impact portfolio, use STAR stories, nail case interviews and cold emails."
+description: 'Master behavioral interviews & prep to break into data roles: build
+  an impact portfolio, use STAR stories, nail case interviews and cold emails.'
 topics:
 - data science
 - machine learning
@@ -23,9 +23,7 @@ topics:
 - product management
 - job search
 dateadded: 2021-11-12
-
 duration: PT01H01M38S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -127,11 +125,6 @@ quotableClips:
   startOffset: 3736
   url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=3736
   endOffset: 3767
-- name: 'Contact & Follow-up: NickSingh.com and LinkedIn'
-  startOffset: 3767
-  url: https://www.youtube.com/watch?v=tRdLVUKU7Bo&t=3767
-  endOffset: 3698
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Overview: Nick Singh’s career and book'

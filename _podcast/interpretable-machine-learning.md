@@ -1,5 +1,5 @@
 ---
-title: "Interpretable Machine Learning: SHAP, Conformal Prediction and Model Trust"
+title: 'Interpretable Machine Learning: SHAP, Conformal Prediction and Model Trust'
 season: 16
 episode: 7
 guests:
@@ -13,8 +13,8 @@ links:
   apple: https://podcasts.apple.com/us/podcast/cracking-the-code-machine-learning-made/id1541710331?i=1000636448000
   spotify: https://open.spotify.com/episode/3SjDB0E2of9IS9TXn2Fof3?si=FwWH99FGTgmL1OGI3-sLAg
   youtube: https://www.youtube.com/watch?v=LBuGzyOkx7c
-description: "Discover interpretable machine learning: learn SHAP, Conformal Prediction,   calibrated uncertainty and model trust to debug models and boost reliability."
-
+description: 'Discover interpretable machine learning: learn SHAP, Conformal Prediction,   calibrated
+  uncertainty and model trust to debug models and boost reliability.'
 topics:
 - machine learning
 - data science
@@ -22,7 +22,22 @@ topics:
 - tools
 - career transition
 - interpretability
-intro: "How can you reliably trust a machine learning model’s predictions in real-world settings? In this episode Christoph Molnar — statistician, machine learner, and author of Interpretable Machine Learning — walks through practical approaches for building model trust. Drawing on his experience from Kaggle competitions to authoring a technical book, Christoph explains the trade-offs between interpretability and accuracy and shows how interpretability techniques help debug models. <br><br> Key topics include a SHAP deep dive with practical Python examples for attributing predictions, conformal prediction for calibrated uncertainty and creating prediction sets, and the difference between explainable AI and interpretable machine learning. He also discusses using interpretability to debug models, maintain hands-on skills through competitions, and document experiments for reproducible insights. <br><br> If you want concrete tools to evaluate model trust—how to quantify uncertainty, interpret feature effects with SHAP, and produce reliable prediction sets with conformal methods—this episode offers clear, actionable guidance and directions for further reading. Ideal for data scientists and ML practitioners focused on interpretable machine learning, model debugging, and trustworthy AI."
+intro: How can you reliably trust a machine learning model’s predictions in real-world
+  settings? In this episode Christoph Molnar — statistician, machine learner, and
+  author of Interpretable Machine Learning — walks through practical approaches for
+  building model trust. Drawing on his experience from Kaggle competitions to authoring
+  a technical book, Christoph explains the trade-offs between interpretability and
+  accuracy and shows how interpretability techniques help debug models. <br><br> Key
+  topics include a SHAP deep dive with practical Python examples for attributing predictions,
+  conformal prediction for calibrated uncertainty and creating prediction sets, and
+  the difference between explainable AI and interpretable machine learning. He also
+  discusses using interpretability to debug models, maintain hands-on skills through
+  competitions, and document experiments for reproducible insights. <br><br> If you
+  want concrete tools to evaluate model trust—how to quantify uncertainty, interpret
+  feature effects with SHAP, and produce reliable prediction sets with conformal methods—this
+  episode offers clear, actionable guidance and directions for further reading. Ideal
+  for data scientists and ML practitioners focused on interpretable machine learning,
+  model debugging, and trustworthy AI.
 dateadded: 2023-11-27
 duration: PT00H56M20S
 quotableClips:
@@ -123,10 +138,6 @@ quotableClips:
   startOffset: 3376
   url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3376
   endOffset: 3413
-- name: Closing Remarks and Episode Wrap-Up
-  startOffset: 3413
-  url: https://www.youtube.com/watch?v=LBuGzyOkx7c&t=3413
-  endOffset: 3380
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Intro: Christoph Molnar, Interpretable ML Author'

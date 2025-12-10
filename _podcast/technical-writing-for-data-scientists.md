@@ -1,6 +1,6 @@
 ---
-title: "Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career"
-short: "Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career"
+title: 'Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career'
+short: 'Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career'
 season: 2
 episode: 1
 guests:
@@ -14,18 +14,31 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/The-Importance-of-Writing-in-a-Tech-Career---Eugene-Yan-ep17du
   spotify: TODO
   apple: TODO
-
-description: "Master technical writing for data science with a practical 7-day workflow: outline-first cadence, portfolio tips, docs & distribution to accelerate your career."
+description: 'Master technical writing for data science with a practical 7-day workflow:
+  outline-first cadence, portfolio tips, docs & distribution to accelerate your career.'
 topics:
 - software engineering
 - tools
 - practices
 - communication
 - career transition
-intro: "How can technical writing accelerate your data science career in just one week? In this episode, Eugene Yan — an Applied Scientist at Amazon who previously led data science teams at Lazada and uCare.ai and writes about ML in production and career growth — walks through a practical, repeatable 7-day workflow for technical writing tailored to data scientists. <br><br> We cover Eugene’s career transition and first public writing, motivations for sharing work, and how to target readers (peers, future teammates, and hiring managers). He frames writing as a product with a weekly shipping cadence, explains the outline-first method for filtering ideas, and outlines a realistic time budget and editing limits. You’ll get concrete guidance on idea sourcing, title crafting, article length, blogging tools (Medium, Substack, WordPress, Jekyll), writing habits, distribution via Twitter and LinkedIn, and writing at work (press releases, design docs, decision logs). Practical portfolio advice — clear README, quick start, repo tour — and tips to iterate outlines and ship weekly round out the episode. <br><br> Listen to learn a concrete 7-day workflow, documentation and portfolio best practices, and distribution tactics to boost your technical writing and advance your data science career"
+intro: How can technical writing accelerate your data science career in just one week?
+  In this episode, Eugene Yan — an Applied Scientist at Amazon who previously led
+  data science teams at Lazada and uCare.ai and writes about ML in production and
+  career growth — walks through a practical, repeatable 7-day workflow for technical
+  writing tailored to data scientists. <br><br> We cover Eugene’s career transition
+  and first public writing, motivations for sharing work, and how to target readers
+  (peers, future teammates, and hiring managers). He frames writing as a product with
+  a weekly shipping cadence, explains the outline-first method for filtering ideas,
+  and outlines a realistic time budget and editing limits. You’ll get concrete guidance
+  on idea sourcing, title crafting, article length, blogging tools (Medium, Substack,
+  WordPress, Jekyll), writing habits, distribution via Twitter and LinkedIn, and writing
+  at work (press releases, design docs, decision logs). Practical portfolio advice
+  — clear README, quick start, repo tour — and tips to iterate outlines and ship weekly
+  round out the episode. <br><br> Listen to learn a concrete 7-day workflow, documentation
+  and portfolio best practices, and distribution tactics to boost your technical writing
+  and advance your data science career
 dateadded: 2021-02-23
-
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -103,13 +116,10 @@ quotableClips:
   startOffset: 3510
   url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=3510
   endOffset: 3630
-- name: Podcast Wrap-Up and Resources
-  startOffset: 3630
-  url: https://www.youtube.com/watch?v=vXWGd7olv3c&t=3630
-  endOffset: 3630
-
-keywords: technical writing, data science career, ML engineer writing, documentation skills, technical communication, data science blog, career growth, writing process, Amazon data scientist, Eugene Yan, technical documentation, data science portfolio, ML career advice, technical writing tips, data science writing
-
+keywords: technical writing, data science career, ML engineer writing, documentation
+  skills, technical communication, data science blog, career growth, writing process,
+  Amazon data scientist, Eugene Yan, technical documentation, data science portfolio,
+  ML career advice, technical writing tips, data science writing
 transcript:
 - header: DataTalks.Club intro
 - line: Well hello everyone, thanks for coming today to our event. This event is brought
@@ -144,7 +154,7 @@ transcript:
   sec: 119
   time: '1:59'
   who: Alexey
-- header: "Eugene\u2019s background"
+- header: Eugene’s background
 - line: Today we will talk about technical writing, logging, documentation, and more.
     We have a special guest today, Eugene Yan. Eugene works at the intersection of
     machine learning and product. He likes building pragmatic machine learning systems
@@ -168,11 +178,11 @@ transcript:
   sec: 190
   time: '3:10'
   who: Alexey
-- line: "It's a bit of an unusual journey. I graduated with a psychology degree about\
-    \ 10 years ago. I spent a few years working on investment policy, but I didn\u2019\
-    t really like that. I was writing a lot of text, doing contracts and agreements,\
-    \ and wanted to work more with data. I took about 20 to 30 MOOCs and interviewed\
-    \ at a few places and was lucky to get accepted at IBM."
+- line: It's a bit of an unusual journey. I graduated with a psychology degree about
+    10 years ago. I spent a few years working on investment policy, but I didn’t really
+    like that. I was writing a lot of text, doing contracts and agreements, and wanted
+    to work more with data. I took about 20 to 30 MOOCs and interviewed at a few places
+    and was lucky to get accepted at IBM.
   sec: 205
   time: '3:25'
   who: Eugene
@@ -184,28 +194,27 @@ transcript:
   sec: 232
   time: '3:52'
   who: Eugene
-- line: "A few years later Alibaba acquired us. I moved on to a health tech startup,\
-    \ which didn\u2019t work out very well. Now I am an applied scientist at Amazon\
-    \ in Seattle, working on recommendation and machine learning systems."
+- line: A few years later Alibaba acquired us. I moved on to a health tech startup,
+    which didn’t work out very well. Now I am an applied scientist at Amazon in Seattle,
+    working on recommendation and machine learning systems.
   sec: 278
   time: '4:38'
   who: Eugene
-- line: "If anyone says Kaggle is a waste of time, you\u2019re living proof. There\
-    \ is an article about your career journey, one of your most viewed. I will post\
-    \ the link later. It is a detailed and awesome read."
+- line: If anyone says Kaggle is a waste of time, you’re living proof. There is an
+    article about your career journey, one of your most viewed. I will post the link
+    later. It is a detailed and awesome read.
   sec: 290
   time: '4:50'
   who: Alexey
 - header: When and Why Eugene started writing
-- line: "Since we are talking about writing, I\u2019m curious, when did you start\
-    \ writing externally, like blogging? Not internal documentation, but external\
-    \ writing."
+- line: Since we are talking about writing, I’m curious, when did you start writing
+    externally, like blogging? Not internal documentation, but external writing.
   sec: 324
   time: '5:24'
   who: Alexey
-- line: "My first post was in September 2015, a report for DataKind, an NGO. They\
-    \ asked for volunteers to write, so I volunteered. I admit my reason wasn\u2019\
-    t entirely altruistic. I wanted to practice writing."
+- line: My first post was in September 2015, a report for DataKind, an NGO. They asked
+    for volunteers to write, so I volunteered. I admit my reason wasn’t entirely altruistic.
+    I wanted to practice writing.
   sec: 346
   time: '5:46'
   who: Eugene
@@ -217,11 +226,10 @@ transcript:
   sec: 414
   time: '6:54'
   who: Eugene
-- line: "I decided to try it for a year. Any time someone needed something written,\
-    \ I would do it. In that same year, I spoke at my first meetup about a Kaggle\
-    \ competition. Many good things happened, and it became a habit. So I started\
-    \ writing about five years ago because people told me it\u2019s important to be\
-    \ effective."
+- line: I decided to try it for a year. Any time someone needed something written,
+    I would do it. In that same year, I spoke at my first meetup about a Kaggle competition.
+    Many good things happened, and it became a habit. So I started writing about five
+    years ago because people told me it’s important to be effective.
   sec: 467
   time: '7:47'
   who: Eugene
@@ -280,12 +288,12 @@ transcript:
   sec: 899
   time: '14:59'
   who: Eugene
-- line: "And so how I write, I realize it\u2019s not about having that mindset first.\
-    \ My mindset now is I write to share, to learn, to be a lighthouse. I realize\
-    \ that writing doesn\u2019t start with writing; you start with reading things\
-    \ you\u2019re interested in, learning things you\u2019re interested in, and then\
-    \ you write notes. Viewed this way, my writing doesn\u2019t have to be original,\
-    \ perfect, or 100% useful, which makes it a lot easier to write."
+- line: And so how I write, I realize it’s not about having that mindset first. My
+    mindset now is I write to share, to learn, to be a lighthouse. I realize that
+    writing doesn’t start with writing; you start with reading things you’re interested
+    in, learning things you’re interested in, and then you write notes. Viewed this
+    way, my writing doesn’t have to be original, perfect, or 100% useful, which makes
+    it a lot easier to write.
   sec: 929
   time: '15:29'
   who: Eugene
@@ -297,9 +305,9 @@ transcript:
   sec: 971
   time: '16:11'
   who: Eugene
-- line: "Let\u2019s say you want to write about something. Then an idea occurs to\
-    \ you, maybe from a walk or a tweet about real-time machine learning in China.\
-    \ What happens next?"
+- line: Let’s say you want to write about something. Then an idea occurs to you, maybe
+    from a walk or a tweet about real-time machine learning in China. What happens
+    next?
   sec: 976
   time: '16:16'
   who: Alexey
@@ -313,12 +321,12 @@ transcript:
   sec: 1017
   time: '16:57'
   who: Alexey
-- line: "My process is straightforward. I set a timeline of seven days to publish\
-    \ every week. On day one, I pick a topic and write an outline of how I want to\
-    \ structure it. For example, for real-time machine learning, I want to write about\
-    \ why you should not do real-time recommendations, why it could be useful, how\
-    \ real-time recommendations look, and how to do an MVP yourself. That\u2019s the\
-    \ big picture. Then I start bullet points, which takes about two hours."
+- line: My process is straightforward. I set a timeline of seven days to publish every
+    week. On day one, I pick a topic and write an outline of how I want to structure
+    it. For example, for real-time machine learning, I want to write about why you
+    should not do real-time recommendations, why it could be useful, how real-time
+    recommendations look, and how to do an MVP yourself. That’s the big picture. Then
+    I start bullet points, which takes about two hours.
   sec: 1022
   time: '17:02'
   who: Eugene
@@ -349,7 +357,7 @@ transcript:
   sec: 1161
   time: '19:21'
   who: Alexey
-- line: "Yes, at least 50\u201370% of the time."
+- line: Yes, at least 50–70% of the time.
   sec: 1180
   time: '19:40'
   who: Eugene
@@ -357,10 +365,10 @@ transcript:
   sec: 1192
   time: '19:52'
   who: Alexey
-- line: "The outline has key section headers. For each section, each paragraph has\
-    \ a key topic sentence and supporting evidence. At later stages, the outline almost\
-    \ becomes the content itself, just not in paragraph form. Writing in bullet points\
-    \ makes it easier because I don\u2019t focus on connecting words."
+- line: The outline has key section headers. For each section, each paragraph has
+    a key topic sentence and supporting evidence. At later stages, the outline almost
+    becomes the content itself, just not in paragraph form. Writing in bullet points
+    makes it easier because I don’t focus on connecting words.
   sec: 1218
   time: '20:18'
   who: Eugene
@@ -372,12 +380,12 @@ transcript:
   sec: 1272
   time: '21:12'
   who: Eugene
-- line: "I usually write prose first, then edit heavily. It\u2019s very slow and ineffective."
+- line: I usually write prose first, then edit heavily. It’s very slow and ineffective.
   sec: 1293
   time: '21:33'
   who: Alexey
-- line: "Writing bullet points is much easier. You don\u2019t care, because you will\
-    \ rewrite it anyway."
+- line: Writing bullet points is much easier. You don’t care, because you will rewrite
+    it anyway.
   sec: 1328
   time: '22:08'
   who: Eugene
@@ -385,9 +393,9 @@ transcript:
   sec: 1346
   time: '22:26'
   who: Alexey
-- line: "It\u2019s like telling a friend about a book. You recall the best parts.\
-    \ Reconstructing the outline from memory filters only the important parts. Afterward,\
-    \ I compare with the original outline to see if I missed key evidence."
+- line: It’s like telling a friend about a book. You recall the best parts. Reconstructing
+    the outline from memory filters only the important parts. Afterward, I compare
+    with the original outline to see if I missed key evidence.
   sec: 1357
   time: '22:37'
   who: Eugene
@@ -409,8 +417,8 @@ transcript:
   sec: 1464
   time: '24:24'
   who: Eugene
-- line: "If we estimate your weekly writing time, it\u2019s about 25 hours a week\
-    \ including research, writing, and editing."
+- line: If we estimate your weekly writing time, it’s about 25 hours a week including
+    research, writing, and editing.
   sec: 1505
   time: '25:05'
   who: Alexey
@@ -426,11 +434,11 @@ transcript:
   sec: 1555
   time: '25:55'
   who: Eugene
-- line: "Sometimes I also write about topics I want to disagree with. For example,\
-    \ a Reddit post listed ten roles in data science: data scientists, decision scientists,\
-    \ product data scientists, AI engineers, ML engineers, AI product managers. I\
-    \ disagree. I think data scientists should be more end-to-end. Alexa agrees, but\
-    \ I think a full-stack approach isn\u2019t ideal."
+- line: 'Sometimes I also write about topics I want to disagree with. For example,
+    a Reddit post listed ten roles in data science: data scientists, decision scientists,
+    product data scientists, AI engineers, ML engineers, AI product managers. I disagree.
+    I think data scientists should be more end-to-end. Alexa agrees, but I think a
+    full-stack approach isn’t ideal.'
   sec: 1591
   time: '26:31'
   who: Eugene
@@ -443,10 +451,9 @@ transcript:
   time: '26:58'
   who: Eugene
 - header: How to prioritize the topics from the backlog
-- line: "Sometimes people ask, \u201CWhat\u2019s the point of reading papers?\u201D\
-    \ I disagree\u2014you need to read papers to keep up in your field. I write to\
-    \ answer questions, and occasionally, once I build trust with the community, I\
-    \ share differing opinions."
+- line: Sometimes people ask, “What’s the point of reading papers?” I disagree—you
+    need to read papers to keep up in your field. I write to answer questions, and
+    occasionally, once I build trust with the community, I share differing opinions.
   sec: 1676
   time: '27:56'
   who: Eugene
@@ -454,11 +461,11 @@ transcript:
   sec: 1696
   time: '28:16'
   who: Alexey
-- line: "For example, next week I want to write about why people shouldn\u2019t do\
-    \ online courses in 2021. Many ask me, \u201CIs this course good?\u201D I want\
-    \ to share better ways to learn. My only real prioritization is one or two ML\
-    \ topics a month; the rest are messages I want to get across. I imagine writing\
-    \ for my teammates and mentees to help them become better data scientists."
+- line: For example, next week I want to write about why people shouldn’t do online
+    courses in 2021. Many ask me, “Is this course good?” I want to share better ways
+    to learn. My only real prioritization is one or two ML topics a month; the rest
+    are messages I want to get across. I imagine writing for my teammates and mentees
+    to help them become better data scientists.
   sec: 1703
   time: '28:23'
   who: Eugene
@@ -475,10 +482,10 @@ transcript:
   sec: 1794
   time: '29:54'
   who: Eugene
-- line: "Some topics don\u2019t get much traction. For example, writing versus coding\
-    \ is important, but it wasn\u2019t popular at first maybe the community isn\u2019\
-    t ready. So yes, I have a specific audience: current teammates, future teammates,\
-    \ and industry peers."
+- line: 'Some topics don’t get much traction. For example, writing versus coding is
+    important, but it wasn’t popular at first maybe the community isn’t ready. So
+    yes, I have a specific audience: current teammates, future teammates, and industry
+    peers.'
   sec: 1853
   time: '30:53'
   who: Eugene
@@ -490,14 +497,13 @@ transcript:
   sec: 1873
   time: '31:13'
   who: Alexey
-- line: "The tipping point is usually Sunday night. I must release it by Sunday night.\
-    \ Further iterations can make it worse. That\u2019s why when I iterate on outlines,\
-    \ I compare them side by side to see which one communicates my story and message\
-    \ better. When editing paragraphs, I type a new paragraph above the old paragraph\
-    \ and compare the two. My metric for success is if it\u2019s shorter and conveys\
-    \ all key ideas. If it gets longer and messy, it\u2019s worse, so I delete it.\
-    \ You should always do some kind of regression analysis to check if it\u2019s\
-    \ better."
+- line: The tipping point is usually Sunday night. I must release it by Sunday night.
+    Further iterations can make it worse. That’s why when I iterate on outlines, I
+    compare them side by side to see which one communicates my story and message better.
+    When editing paragraphs, I type a new paragraph above the old paragraph and compare
+    the two. My metric for success is if it’s shorter and conveys all key ideas. If
+    it gets longer and messy, it’s worse, so I delete it. You should always do some
+    kind of regression analysis to check if it’s better.
   sec: 1926
   time: '32:06'
   who: Eugene
@@ -506,13 +512,12 @@ transcript:
   sec: 1991
   time: '33:11'
   who: Alexey
-- line: "Yes. I imagine everything I write as a small product with design, product\
-    \ life, and versioning. When I write about something, I want people to understand\
-    \ it. If they don\u2019t, I fail. If the substance isn\u2019t useful, the back\
-    \ end is bad. It\u2019s very difficult, and I don\u2019t think I will ever get\
-    \ perfect at it. The way to improve is to write every week. Every week there are\
-    \ 50 iterations or 50 different \u201Cproducts,\u201D and maybe in five to ten\
-    \ years I would be good enough."
+- line: Yes. I imagine everything I write as a small product with design, product
+    life, and versioning. When I write about something, I want people to understand
+    it. If they don’t, I fail. If the substance isn’t useful, the back end is bad.
+    It’s very difficult, and I don’t think I will ever get perfect at it. The way
+    to improve is to write every week. Every week there are 50 iterations or 50 different
+    “products,” and maybe in five to ten years I would be good enough.
   sec: 1998
   time: '33:18'
   who: Eugene
@@ -527,20 +532,18 @@ transcript:
   time: '34:15'
   who: Eugene
 - header: Trying to control the length
-- line: "Do you try to control the length? I personally have the problem that I have\
-    \ ideas, but elaborating takes too much space. People won\u2019t read very long\
-    \ articles."
+- line: Do you try to control the length? I personally have the problem that I have
+    ideas, but elaborating takes too much space. People won’t read very long articles.
   sec: 2062
   time: '34:22'
   who: Alexey
-- line: "Ideal length is about 1,500 words, about ten minutes read. But honestly,\
-    \ I don\u2019t strictly think about that. I just write enough to communicate the\
-    \ substance and the message. Sometimes it\u2019s 600 words, sometimes 4,000\u2013\
-    5,000 words, like my real-time recommendations article. Cutting any paragraph\
-    \ would lose the big picture, so I leave it. I assume my audience is highly interested\
-    \ and can read it anytime. I don\u2019t have a maximum length but try to be concise\
-    \ for the reader\u2019s time. The weekly deadline helps me avoid putting too much\
-    \ information."
+- line: Ideal length is about 1,500 words, about ten minutes read. But honestly, I
+    don’t strictly think about that. I just write enough to communicate the substance
+    and the message. Sometimes it’s 600 words, sometimes 4,000–5,000 words, like my
+    real-time recommendations article. Cutting any paragraph would lose the big picture,
+    so I leave it. I assume my audience is highly interested and can read it anytime.
+    I don’t have a maximum length but try to be concise for the reader’s time. The
+    weekly deadline helps me avoid putting too much information.
   sec: 2091
   time: '34:51'
   who: Eugene
@@ -550,22 +553,22 @@ transcript:
   sec: 2179
   time: '36:19'
   who: Alexey
-- line: "I name my posts like I name functions: clearly so no one would misunderstand.\
-    \ I try to create a sentence that explains what the post is about, like documentation\
-    \ or code. I know there are SEO considerations and clickbait strategies, but by\
-    \ Sunday night, I don\u2019t have energy to overthink the title."
+- line: 'I name my posts like I name functions: clearly so no one would misunderstand.
+    I try to create a sentence that explains what the post is about, like documentation
+    or code. I know there are SEO considerations and clickbait strategies, but by
+    Sunday night, I don’t have energy to overthink the title.'
   sec: 2205
   time: '36:45'
   who: Eugene
-- line: "When we were planning this event, I suggested \u201CBlogging and Technical\
-    \ Writing,\u201D but you suggested \u201CThe Importance of Writing in a Tech Career,\u201D\
-    \ which is more compelling and attracted more people."
+- line: When we were planning this event, I suggested “Blogging and Technical Writing,”
+    but you suggested “The Importance of Writing in a Tech Career,” which is more
+    compelling and attracted more people.
   sec: 2245
   time: '37:25'
   who: Alexey
-- line: "I wanted to make the audience care. Tech people focus on their careers. I\
-    \ wanted to show why writing is important in a tech career and convince them to\
-    \ practice. That\u2019s the essence of the title."
+- line: I wanted to make the audience care. Tech people focus on their careers. I
+    wanted to show why writing is important in a tech career and convince them to
+    practice. That’s the essence of the title.
   sec: 2295
   time: '38:15'
   who: Eugene
@@ -574,10 +577,10 @@ transcript:
   sec: 2341
   time: '39:01'
   who: Alexey
-- line: "Just start writing. First, don\u2019t worry about online visibility. Your\
-    \ first article won\u2019t be read, so write for yourself to practice. Second,\
-    \ write about what\u2019s on your mind now. It could be anything gardening, recipes,\
-    \ hobbies, not necessarily career-related."
+- line: Just start writing. First, don’t worry about online visibility. Your first
+    article won’t be read, so write for yourself to practice. Second, write about
+    what’s on your mind now. It could be anything gardening, recipes, hobbies, not
+    necessarily career-related.
   sec: 2358
   time: '39:18'
   who: Eugene
@@ -589,10 +592,10 @@ transcript:
   time: '40:28'
   who: Eugene
 - header: Finding a niche
-- line: "Repetition can be boring. I can\u2019t write about machine learning every\
-    \ week, so I mix in other interests like career advice and data science processes.\
-    \ I haven\u2019t found a single focus, and that\u2019s fine. I write for myself,\
-    \ and my topic is whatever I\u2019m thinking about."
+- line: Repetition can be boring. I can’t write about machine learning every week,
+    so I mix in other interests like career advice and data science processes. I haven’t
+    found a single focus, and that’s fine. I write for myself, and my topic is whatever
+    I’m thinking about.
   sec: 2483
   time: '41:23'
   who: Eugene
@@ -600,11 +603,11 @@ transcript:
   sec: 2555
   time: '42:35'
   who: Alexey
-- line: "Use whatever is easiest. Don\u2019t spend too much time on domains or frameworks.\
-    \ Writing is already hard. I started on WordPress because it was easy. Later,\
-    \ I switched to hosting my own site when I wanted customization. The tool is the\
-    \ least important concern. Reduce barriers and just write. Medium, WordPress,\
-    \ Substack all are fine."
+- line: Use whatever is easiest. Don’t spend too much time on domains or frameworks.
+    Writing is already hard. I started on WordPress because it was easy. Later, I
+    switched to hosting my own site when I wanted customization. The tool is the least
+    important concern. Reduce barriers and just write. Medium, WordPress, Substack
+    all are fine.
   sec: 2569
   time: '42:49'
   who: Eugene
@@ -617,28 +620,26 @@ transcript:
   sec: 2643
   time: '44:03'
   who: Alexey
-- line: "I am busy, but let me share a bit. From 2017 to 2019, I was doing an online\
-    \ Master\u2019s of Computer Science, spending 20\u201340 hours a week while working\
-    \ part-time. After graduation, I had more time, so I decided to pour this energy\
-    \ into writing 1\u20132 hours a day early in the morning. It\u2019s just a daily\
-    \ habit, like exercise or meditation. Saturdays I focus on drafting the prose,\
-    \ Sundays on editing. I make time to go out, and thankfully I have a very understanding\
-    \ wife."
+- line: I am busy, but let me share a bit. From 2017 to 2019, I was doing an online
+    Master’s of Computer Science, spending 20–40 hours a week while working part-time.
+    After graduation, I had more time, so I decided to pour this energy into writing
+    1–2 hours a day early in the morning. It’s just a daily habit, like exercise or
+    meditation. Saturdays I focus on drafting the prose, Sundays on editing. I make
+    time to go out, and thankfully I have a very understanding wife.
   sec: 2648
   time: '44:08'
   who: Eugene
-- line: "You don\u2019t have to spend that much time. You can write short snippets,\
-    \ maybe 500 words. Start small, start with whatever you\u2019re comfortable with,\
-    \ even tweets. Tweets are actually more difficult because of the character limitation\
-    \ or the need to use threads."
+- line: You don’t have to spend that much time. You can write short snippets, maybe
+    500 words. Start small, start with whatever you’re comfortable with, even tweets.
+    Tweets are actually more difficult because of the character limitation or the
+    need to use threads.
   sec: 2648
   time: '44:08'
   who: Eugene
-- line: "By the way, I posted a tweet yesterday saying, \u201CYou will tell us the\
-    \ secret sauce of writing. What is it?\u201D I have no secret sauce. When I woke\
-    \ up today, I realized I have no secret sauce, but I hope I\u2019ve been transparent\
-    \ and honest enough. Maybe the outline iteration approach is my closest secret\
-    \ sauce."
+- line: By the way, I posted a tweet yesterday saying, “You will tell us the secret
+    sauce of writing. What is it?” I have no secret sauce. When I woke up today, I
+    realized I have no secret sauce, but I hope I’ve been transparent and honest enough.
+    Maybe the outline iteration approach is my closest secret sauce.
   sec: 2648
   time: '44:08'
   who: Eugene
@@ -647,21 +648,21 @@ transcript:
   sec: 2761
   time: '46:01'
   who: Alexey
-- line: "I don\u2019t know. I wish I had a formula so I could repeat it. I would write,\
-    \ then tweet about it, and post the same tweet on LinkedIn. People who saw it\
-    \ would maybe circulate it. That was my only distribution channel because it\u2019\
-    s already a lot of effort to compose tweets just write 200 characters and post\
-    \ it. Eventually, I found like-minded people who read my stuff and engage with\
-    \ me. I didn\u2019t put a lot of effort into that, and I don\u2019t think it\u2019\
-    s very popular, but I am thankful to find people with the same interests."
+- line: I don’t know. I wish I had a formula so I could repeat it. I would write,
+    then tweet about it, and post the same tweet on LinkedIn. People who saw it would
+    maybe circulate it. That was my only distribution channel because it’s already
+    a lot of effort to compose tweets just write 200 characters and post it. Eventually,
+    I found like-minded people who read my stuff and engage with me. I didn’t put
+    a lot of effort into that, and I don’t think it’s very popular, but I am thankful
+    to find people with the same interests.
   sec: 2772
   time: '46:12'
   who: Eugene
-- line: "Hacker News is different; it likes disagreements. One post was \u201CStop\
-    \ taking regular notes, use a Zettelkasten instead,\u201D and people debated it.\
-    \ Another post about end-to-end data science also reached the front page. The\
-    \ real secret sauce is shooting many arrows consistently. Last year I shot 55\
-    \ arrows, three hit the mark. Consistency matters."
+- line: Hacker News is different; it likes disagreements. One post was “Stop taking
+    regular notes, use a Zettelkasten instead,” and people debated it. Another post
+    about end-to-end data science also reached the front page. The real secret sauce
+    is shooting many arrows consistently. Last year I shot 55 arrows, three hit the
+    mark. Consistency matters.
   sec: 2842
   time: '47:22'
   who: Eugene
@@ -670,11 +671,11 @@ transcript:
   sec: 2913
   time: '48:33'
   who: Alexey
-- line: "Writing is a form of communication. When writing documentation, always think\
-    \ about the reader. Writing at work tests your ideas before coding. For example,\
-    \ Amazon uses the press release before a project. S3\u2019s press release explained\
-    \ a highly scalable, low-cost storage solution. Internal stakeholders react to\
-    \ see if it\u2019s exciting before coding."
+- line: Writing is a form of communication. When writing documentation, always think
+    about the reader. Writing at work tests your ideas before coding. For example,
+    Amazon uses the press release before a project. S3’s press release explained a
+    highly scalable, low-cost storage solution. Internal stakeholders react to see
+    if it’s exciting before coding.
   sec: 2926
   time: '48:46'
   who: Eugene
@@ -693,50 +694,49 @@ transcript:
   time: '48:46'
   who: Eugene
 - header: The Amazon working backwards process
-- line: "The press release and design document are part of Amazon\u2019s Working Backwards\
-    \ process, right?"
+- line: The press release and design document are part of Amazon’s Working Backwards
+    process, right?
   sec: 3208
   time: '53:28'
   who: Alexey
-- line: "Yes. Working Backwards means starting from the customer: understanding the\
-    \ problem or demand, then building a solution. The press release solidifies the\
-    \ idea. For example, Alexa\u2019s first press release was just \u201Cstart music\
-    \ with your voice command.\u201D Over time, it evolved into more complex functionalities.\
-    \ Writing is a critical part of this process."
+- line: 'Yes. Working Backwards means starting from the customer: understanding the
+    problem or demand, then building a solution. The press release solidifies the
+    idea. For example, Alexa’s first press release was just “start music with your
+    voice command.” Over time, it evolved into more complex functionalities. Writing
+    is a critical part of this process.'
   sec: 3224
   time: '53:44'
   who: Eugene
-- line: "Amazon doesn\u2019t use slides much; writing documents allows scalable communication\
-    \ without needing to present. It saves time, and once written, doesn\u2019t need\
-    \ repeating like presentations. This practice follows me wherever I go."
+- line: Amazon doesn’t use slides much; writing documents allows scalable communication
+    without needing to present. It saves time, and once written, doesn’t need repeating
+    like presentations. This practice follows me wherever I go.
   sec: 3224
   time: '53:44'
   who: Eugene
 - header: Writing for portfolio
-- line: "Writing for a portfolio. So let's say you did an awesome project, for example\
-    \ a Kaggle competition, and you finished in, I don\u2019t know, top 20 or top\
-    \ 30 with a medal. You want to put all your code on GitHub. What do you need to\
-    \ put in the README so people can immediately see the value of this work?"
+- line: Writing for a portfolio. So let's say you did an awesome project, for example
+    a Kaggle competition, and you finished in, I don’t know, top 20 or top 30 with
+    a medal. You want to put all your code on GitHub. What do you need to put in the
+    README so people can immediately see the value of this work?
   sec: 3403
   time: '56:43'
   who: Alexey
-- line: "Let's think about it: if I'm searching on GitHub for a solution to some Kaggle\
-    \ competition, I would find hundreds of repositories. So what distinguishes one\
-    \ repository from another? I think a clear README is useful, one that explains\
-    \ how to start using this code, a quick start, and how to install it. If it has\
-    \ a requirements file, that\u2019s really useful. Maybe it also explains the big\
-    \ processes, like the data prep step is in this folder, the machine learning step\
-    \ is in this folder, and the validation step is in this folder."
+- line: 'Let''s think about it: if I''m searching on GitHub for a solution to some
+    Kaggle competition, I would find hundreds of repositories. So what distinguishes
+    one repository from another? I think a clear README is useful, one that explains
+    how to start using this code, a quick start, and how to install it. If it has
+    a requirements file, that’s really useful. Maybe it also explains the big processes,
+    like the data prep step is in this folder, the machine learning step is in this
+    folder, and the validation step is in this folder.'
   sec: 3440
   time: '57:20'
   who: Eugene
-- line: "A basic README that explains this would be good enough. Now, if you think\
-    \ from a portfolio perspective to get a job, think from the manager\u2019s point\
-    \ of view. Clearly, if they're going to hire you, you will be able to write code.\
-    \ But the question is, are you able to document code and explain it? When they\
-    \ read your code, does the README make sense? Does it explain well enough that\
-    \ they feel confident you can do the same thing at work? I think that\u2019s something\
-    \ very helpful."
+- line: A basic README that explains this would be good enough. Now, if you think
+    from a portfolio perspective to get a job, think from the manager’s point of view.
+    Clearly, if they're going to hire you, you will be able to write code. But the
+    question is, are you able to document code and explain it? When they read your
+    code, does the README make sense? Does it explain well enough that they feel confident
+    you can do the same thing at work? I think that’s something very helpful.
   sec: 3477
   time: '57:57'
   who: Eugene
@@ -755,12 +755,12 @@ transcript:
   sec: 3560
   time: '59:20'
   who: Alexey
-- line: "No, not really. Oh, I do have one. If I had to share something, I\u2019m\
-    \ going to paste a link in the chat. For those of you who are regular readers\
-    \ on my site, please go to that link and tell me what you would like me to write\
-    \ that will be useful for you. I\u2019m always trying to figure out what my audience\
-    \ wants. This is a topic poll. There are a few topics already, you can thumbs\
-    \ up or thumbs down, or propose a new topic."
+- line: No, not really. Oh, I do have one. If I had to share something, I’m going
+    to paste a link in the chat. For those of you who are regular readers on my site,
+    please go to that link and tell me what you would like me to write that will be
+    useful for you. I’m always trying to figure out what my audience wants. This is
+    a topic poll. There are a few topics already, you can thumbs up or thumbs down,
+    or propose a new topic.
   sec: 3563
   time: '59:23'
   who: Eugene
@@ -770,20 +770,20 @@ transcript:
   sec: 3613
   time: '1:00:13'
   who: Alexey
-- line: "That\u2019s a good question. On LinkedIn, you can set the default to connect,\
-    \ but I set it to follow. Connections keep building up and can get a lot. However,\
-    \ if you click the small plus button, the ability to connect is still there."
+- line: That’s a good question. On LinkedIn, you can set the default to connect, but
+    I set it to follow. Connections keep building up and can get a lot. However, if
+    you click the small plus button, the ability to connect is still there.
   sec: 3652
   time: '1:00:52'
   who: Eugene
-- line: "But what\u2019s the main difference between following a person and asking\
-    \ for a connection?"
+- line: But what’s the main difference between following a person and asking for a
+    connection?
   sec: 3680
   time: '1:01:20'
   who: Alexa
-- line: "Following a person is like on Twitter; you follow them, but they don\u2019\
-    t follow you back. A connection is a two-way follow; you both follow each other,\
-    \ showing a more formal connection."
+- line: Following a person is like on Twitter; you follow them, but they don’t follow
+    you back. A connection is a two-way follow; you both follow each other, showing
+    a more formal connection.
   sec: 3687
   time: '1:01:27'
   who: Eugene
@@ -791,13 +791,13 @@ transcript:
   sec: 3715
   time: '1:01:55'
   who: Alexa
-- line: "I guess we\u2019re running out of time. Probably need to wrap up. Thanks\
-    \ a lot for coming today, sharing your knowledge, and your secret sauce."
+- line: I guess we’re running out of time. Probably need to wrap up. Thanks a lot
+    for coming today, sharing your knowledge, and your secret sauce.
   sec: 3722
   time: '1:02:02'
   who: Eugene
-- line: "What you shared definitely deserves this name. Next time I write, I\u2019\
-    ll try to follow your process and see how it improves what I wrote before."
+- line: What you shared definitely deserves this name. Next time I write, I’ll try
+    to follow your process and see how it improves what I wrote before.
   sec: 3728
   time: '1:02:08'
   who: Alexa

@@ -1,6 +1,7 @@
 ---
-title: "From Software Engineering to Machine Learning: 7 Lessons, Tools, MLOps & Project Roadmap"
-short: "From Software Engineering to Machine Learning"
+title: 'From Software Engineering to Machine Learning: 7 Lessons, Tools, MLOps & Project
+  Roadmap'
+short: From Software Engineering to Machine Learning
 season: 4
 episode: 1
 guests:
@@ -14,19 +15,31 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/From-Software-Engineering-to-Machine-Learning---Santiago-Valdarrama-e139s63
   spotify: https://open.spotify.com/episode/0PHDZPGyXgyDM9HH7QzVdZ
   apple: https://podcasts.apple.com/us/podcast/from-software-engineering-to-machine-learning-santiago/id1541710331?i=1000526870384
-
-description: "Learn practical machine learning for software engineers: 7 lessons, Python tools, MLOps & a project roadmap to build, deploy and monitor real ML systems."
+description: 'Learn practical machine learning for software engineers: 7 lessons,
+  Python tools, MLOps & a project roadmap to build, deploy and monitor real ML systems.'
 topics:
 - machine learning
 - MLOps
 - software engineering
 - career transition
 - tools
-intro: "How do you move from software engineering into practical machine learning without getting stuck on theory or math? In this episode, Santiago Valdarrama — Director of Computer Vision and a computer scientist with two decades of software experience — walks through a pragmatic roadmap for software engineers transitioning to machine learning. <br><br> We cover seven practical lessons for getting started (start projects, think long-term, teach and join communities, build real projects, prioritize coding, analyze problems first, and favor pragmatism), core ML tooling (Python, NumPy, Pandas, Matplotlib, scikit-learn), and recommended learning resources (Google ML Crash Course, Kaggle, Deep Learning with Python, Hands-On Machine Learning). Santiago compares problem-based vs top-down learning, outlines a course roadmap for engineers, and explains ML engineering skills: data pipelines, modeling, deployment, monitoring, plus MLOps fundamentals like APIs, Docker, and cloud providers. <br><br> Listen to gain an actionable project roadmap, tools checklist, and concrete strategies to conquer math anxiety and ship ML systems — practical guidance for engineers who want to build, deploy, and maintain real machine learning solutions."
+intro: 'How do you move from software engineering into practical machine learning
+  without getting stuck on theory or math? In this episode, Santiago Valdarrama —
+  Director of Computer Vision and a computer scientist with two decades of software
+  experience — walks through a pragmatic roadmap for software engineers transitioning
+  to machine learning. <br><br> We cover seven practical lessons for getting started
+  (start projects, think long-term, teach and join communities, build real projects,
+  prioritize coding, analyze problems first, and favor pragmatism), core ML tooling
+  (Python, NumPy, Pandas, Matplotlib, scikit-learn), and recommended learning resources
+  (Google ML Crash Course, Kaggle, Deep Learning with Python, Hands-On Machine Learning).
+  Santiago compares problem-based vs top-down learning, outlines a course roadmap
+  for engineers, and explains ML engineering skills: data pipelines, modeling, deployment,
+  monitoring, plus MLOps fundamentals like APIs, Docker, and cloud providers. <br><br>
+  Listen to gain an actionable project roadmap, tools checklist, and concrete strategies
+  to conquer math anxiety and ship ML systems — practical guidance for engineers who
+  want to build, deploy, and maintain real machine learning solutions.'
 dateadded: 2021-06-25
-
 duration: PT00H59M24S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -144,11 +157,6 @@ quotableClips:
   startOffset: 3594
   url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=3594
   endOffset: 3639
-- name: Closing Remarks & Conference Announcements
-  startOffset: 3639
-  url: https://www.youtube.com/watch?v=xVYOdRrN7hw&t=3639
-  endOffset: 3564
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Overview: Santiago — Director of Computer Vision'

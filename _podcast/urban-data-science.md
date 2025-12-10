@@ -1,6 +1,6 @@
 ---
-title: "Urban Data Science: Transport Analytics, Sensors and Liveable Cities"
-short: "Using Data to Create Liveable Cities"
+title: 'Urban Data Science: Transport Analytics, Sensors and Liveable Cities'
+short: Using Data to Create Liveable Cities
 season: 19
 episode: 1
 guests:
@@ -14,13 +14,29 @@ links:
   apple: https://podcasts.apple.com/us/podcast/using-data-to-create-liveable-cities-rachel-lim/id1541710331?i=1000675373908
   spotify: https://open.spotify.com/episode/1z7jdogto8i4Zk6Zh1vDxE?si=KCg2Iq1US0SKwFCKasGqUg
   youtube: https://www.youtube.com/watch?v=VXQIGHUWeL0
-description: "Discover urban data science, transport analytics & sensors for livable cities - real-time monitoring, fare-card insights, data pipelines, AI tools."
+description: Discover urban data science, transport analytics & sensors for livable
+  cities - real-time monitoring, fare-card insights, data pipelines, AI tools.
 topics:
 - data engineering
 - LLMs
 - computer vision
 - data science
-intro: "How can cities use transport analytics, sensors and AI to become more liveable? In this episode Rachel Lim, an urban data scientist with a geography background and a master's in urban data science, walks through practical ways data informs transport planning and placemaking. We cover core data sources—GPS, sensors, fare card systems, ride-hailing logs and computer vision for passenger flow—plus travel demand forecasting, real-time monitoring (including event analytics like F1), and operational responses such as traffic marshals and recovery services. <br><br> Rachel explains data engineering realities—Kafka, Apache Spark, real-time APIs, data pipelines and warehousing—alongside journey logic, fare computation and data quality management. She also explores emerging tools: generative AI for natural-language access, text-to-SQL architectures, synthetic data, and privacy practices for publishing masked datasets. The conversation highlights Singapore's planning context, open data portals (data.gov.sg, DataMall), and project ideas for learners using parking and taxi datasets. <br><br> Listen to learn which transport analytics and sensor strategies produce actionable insights, how to set up robust data pipelines, and where to start hands-on projects to build liveable cities."
+intro: 'How can cities use transport analytics, sensors and AI to become more liveable?
+  In this episode Rachel Lim, an urban data scientist with a geography background
+  and a master''s in urban data science, walks through practical ways data informs
+  transport planning and placemaking. We cover core data sources—GPS, sensors, fare
+  card systems, ride-hailing logs and computer vision for passenger flow—plus travel
+  demand forecasting, real-time monitoring (including event analytics like F1), and
+  operational responses such as traffic marshals and recovery services. <br><br> Rachel
+  explains data engineering realities—Kafka, Apache Spark, real-time APIs, data pipelines
+  and warehousing—alongside journey logic, fare computation and data quality management.
+  She also explores emerging tools: generative AI for natural-language access, text-to-SQL
+  architectures, synthetic data, and privacy practices for publishing masked datasets.
+  The conversation highlights Singapore''s planning context, open data portals (data.gov.sg,
+  DataMall), and project ideas for learners using parking and taxi datasets. <br><br>
+  Listen to learn which transport analytics and sensor strategies produce actionable
+  insights, how to set up robust data pipelines, and where to start hands-on projects
+  to build liveable cities.'
 dateadded: 2024-11-06
 duration: PT00H51M32S
 quotableClips:
@@ -140,10 +156,6 @@ quotableClips:
   startOffset: 2956
   url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=2956
   endOffset: 3162
-- name: Episode Wrap-Up and Closing Remarks
-  startOffset: 3162
-  url: https://www.youtube.com/watch?v=VXQIGHUWeL0&t=3162
-  endOffset: 3092
 transcript:
 - header: Episode Introduction
 - header: 'Guest Introduction: Rachel Lim, urban data scientist'

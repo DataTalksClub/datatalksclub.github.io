@@ -1,6 +1,8 @@
 ---
-title: "Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews & Negotiation"
-short: "Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews & Negotiation"
+title: 'Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews
+  & Negotiation'
+short: 'Data Science Interview Guide: CV Optimization, Take-Home Projects, Mock Interviews
+  & Negotiation'
 season: 3
 episode: 4
 guests:
@@ -14,9 +16,27 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/What-I-Learned-After-Interviewing-300-Data-Scientists---Oleg-Novikov-e10ctbs
   spotify: https://open.spotify.com/episode/406wN6xDkYPyLS8i9fUJL5
   apple: https://podcasts.apple.com/us/podcast/what-i-learned-after-interviewing-300-data-scientists/id1541710331?i=1000520681105
-
-description: "Master CV optimization, take-home projects and mock interviews to land data science offers—learn SQL/ML prep, negotiation tactics and measurable project impact"
-intro: "How do you make your data science application stand out, ace take-home projects, and negotiate an offer without leaving money on the table? In this episode, Oleg Novikov — creator of NextRound and former data science manager at Uber with a background in data and software engineering — walks through a practical data science interview guide covering CV optimization, take-home projects, mock interviews, and negotiation. <br><br> We dig into career trajectory from engineering to product data science, building projects that differentiate your application, and concrete product work like forecasting and LTV. Oleg demonstrates NextRound's mock-interview chatbot and personalized feedback, explains common hiring funnels (recruiter screen → take-home → interviews), and contrasts product data scientist vs. machine learning engineer expectations. You'll hear specific advice on treating your CV as a landing page, highlighting personal contributions, crafting case-study narratives from business goals to evaluation metrics, and preparing for technical assessments (ML fundamentals, SQL window functions, coding). We also cover handling rejection, replying graciously, evaluating offers, negotiation tactics when your current salary is low, and practical steps for PhDs breaking into industry. <br><br> Listen for actionable steps to refine your data science resume, prioritize take-home ROI, and use mock interviews to iterate faster"
+description: Master CV optimization, take-home projects and mock interviews to land
+  data science offers—learn SQL/ML prep, negotiation tactics and measurable project
+  impact
+intro: How do you make your data science application stand out, ace take-home projects,
+  and negotiate an offer without leaving money on the table? In this episode, Oleg
+  Novikov — creator of NextRound and former data science manager at Uber with a background
+  in data and software engineering — walks through a practical data science interview
+  guide covering CV optimization, take-home projects, mock interviews, and negotiation.
+  <br><br> We dig into career trajectory from engineering to product data science,
+  building projects that differentiate your application, and concrete product work
+  like forecasting and LTV. Oleg demonstrates NextRound's mock-interview chatbot and
+  personalized feedback, explains common hiring funnels (recruiter screen → take-home
+  → interviews), and contrasts product data scientist vs. machine learning engineer
+  expectations. You'll hear specific advice on treating your CV as a landing page,
+  highlighting personal contributions, crafting case-study narratives from business
+  goals to evaluation metrics, and preparing for technical assessments (ML fundamentals,
+  SQL window functions, coding). We also cover handling rejection, replying graciously,
+  evaluating offers, negotiation tactics when your current salary is low, and practical
+  steps for PhDs breaking into industry. <br><br> Listen for actionable steps to refine
+  your data science resume, prioritize take-home ROI, and use mock interviews to iterate
+  faster
 topics:
 - data science
 - software engineering
@@ -26,9 +46,7 @@ topics:
 - job search
 dateadded: 2021-05-07
 date: 2025-11-07
-
 duration: PT01H08M38S
-
 quotableClips:
 - name: Introduction & Episode Overview
   startOffset: 76
@@ -134,11 +152,6 @@ quotableClips:
   startOffset: 3864
   url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=3864
   endOffset: 4166
-- name: Closing Remarks and NextRound Resources
-  startOffset: 4166
-  url: https://www.youtube.com/watch?v=AYi7b-8GPm4&t=4166
-  endOffset: 4118
-
 transcript:
 - header: Introduction & Episode Overview
 - line: This week we will talk about the interview process, getting hired as a data

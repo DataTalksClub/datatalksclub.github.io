@@ -1,6 +1,6 @@
 ---
-title: "Big Data Engineer vs Data Scientist: Skills, Tools, and Career Paths"
-short: "Big Data Engineer vs Data Scientist"
+title: 'Big Data Engineer vs Data Scientist: Skills, Tools, and Career Paths'
+short: Big Data Engineer vs Data Scientist
 season: 4
 episode: 3
 guests:
@@ -14,18 +14,31 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Big-Data-Engineer-vs-Data-Scientist---Roksolana-Diachuk-e139sl8
   spotify: https://open.spotify.com/episode/08Mb5JOOo6sWOFgsXILVsj
   apple: https://podcasts.apple.com/us/podcast/big-data-engineer-vs-data-scientist-roksolana-diachuk/id1541710331?i=1000528386609
-
-description: "Discover how Big Data Engineer vs Data Scientist roles differ — skills, performance optimization, ETL pipelines and ML deployment tips to advance your career"
-intro: "How do the day-to-day responsibilities and skill sets really differ between a Big Data Engineer and a Data Scientist—and what should you learn to move between those roles? In this episode, Roksolana Diachuk, a Big Data Engineer at Captify, Women Who Code Kyiv lead and speaker on Scala and Kubernetes, walks through her career transition from backend Java into big data engineering and R&D. <br><br> We cover core responsibilities—building ETL data pipelines, HDFS/S3 storage, Impala and Parquet formats—plus performance tuning: Spark job optimization, cluster resource planning and monitoring with Prometheus/Grafana. Roksolana compares role boundaries (data cleaning and feature engineering for data scientists vs pipeline design and formats like Avro/Parquet/ProtoBuf), explores streaming vs batch tradeoffs (Flink vs Spark), and outlines ML deployment stacks (MLflow, Kubeflow, Kubernetes). Practical topics include databases to learn (Postgres, MySQL, MongoDB, Neo4j), data versioning with Delta Lake, observability, documentation, starter projects and learning resources. <br><br> Listen to learn which skills, tools and projects will help you choose or transition between careers, and what to prioritize when building scalable data pipelines, deploying models, and ensuring data quality."
+description: Discover how Big Data Engineer vs Data Scientist roles differ — skills,
+  performance optimization, ETL pipelines and ML deployment tips to advance your career
+intro: 'How do the day-to-day responsibilities and skill sets really differ between
+  a Big Data Engineer and a Data Scientist—and what should you learn to move between
+  those roles? In this episode, Roksolana Diachuk, a Big Data Engineer at Captify,
+  Women Who Code Kyiv lead and speaker on Scala and Kubernetes, walks through her
+  career transition from backend Java into big data engineering and R&D. <br><br>
+  We cover core responsibilities—building ETL data pipelines, HDFS/S3 storage, Impala
+  and Parquet formats—plus performance tuning: Spark job optimization, cluster resource
+  planning and monitoring with Prometheus/Grafana. Roksolana compares role boundaries
+  (data cleaning and feature engineering for data scientists vs pipeline design and
+  formats like Avro/Parquet/ProtoBuf), explores streaming vs batch tradeoffs (Flink
+  vs Spark), and outlines ML deployment stacks (MLflow, Kubeflow, Kubernetes). Practical
+  topics include databases to learn (Postgres, MySQL, MongoDB, Neo4j), data versioning
+  with Delta Lake, observability, documentation, starter projects and learning resources.
+  <br><br> Listen to learn which skills, tools and projects will help you choose or
+  transition between careers, and what to prioritize when building scalable data pipelines,
+  deploying models, and ensuring data quality.'
 topics:
 - career transition
 - software engineering
 - data engineering
 - data science
 dateadded: 2021-07-10
-
 duration: PT01H01M27S
-
 quotableClips:
 - name: Episode Overview & Guest Introduction
   startOffset: 112
@@ -153,11 +166,6 @@ quotableClips:
   startOffset: 3640
   url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=3640
   endOffset: 3754
-- name: 'Guest Links & Talks: Twitter, LinkedIn, YouTube (Alice & Kubernetes talks)'
-  startOffset: 3754
-  url: https://www.youtube.com/watch?v=yg3d1lFd7Uo&t=3754
-  endOffset: 3687
-
 transcript:
 - header: Episode Overview & Guest Introduction
 - line: Today we will talk about the difference between big data engineers and data

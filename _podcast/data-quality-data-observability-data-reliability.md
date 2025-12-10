@@ -1,6 +1,7 @@
 ---
-title: "Data Observability Explained: 5 Pillars to Prevent Downtime, Drift & False Positives"
-short: "Data Observability: The Next Frontier of Data Engineering"
+title: 'Data Observability Explained: 5 Pillars to Prevent Downtime, Drift & False
+  Positives'
+short: 'Data Observability: The Next Frontier of Data Engineering'
 season: 3
 episode: 3
 guests:
@@ -14,16 +15,28 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Data-Observability---Barr-Moses-evghmh
   spotify: https://open.spotify.com/episode/48QcLAw2I1apC1jeo8e1sd
   apple: https://podcasts.apple.com/us/podcast/data-observability-barr-moses/id1541710331?i=1000518351217
-
-description: "Discover data observability, freshness, lineage and schema detection to prevent downtime, stop model drift and cut false positives in pipelines"
-intro: "How do you prevent data downtime, drift, and false positives before they break analytics and models? In this episode, Barr Moses, CEO and co-founder of Monte Carlo and former VP of Customer Operations at Gainsight, walks through a practical framework for data observability grounded in real-world incidents and DevOps principles. <br><br> Barr explains why batch data needs different approaches than app monitoring and outlines the Five Pillars of Data Observability—freshness, volume, distribution, schema, and lineage. You’ll hear a schema-change case study, learn how silent failures and model drift occur, and how to move from monitoring to true observability for faster root cause analysis using correlation, logs, and lineage. The conversation covers accountability models (RACI), defining and automating data SLAs, operational runbooks, maturity stages (reactive → proactive → automated → scalable), and criteria for end-to-end platforms versus point tools. <br><br> Listeners will get actionable guidance on reducing false positives, prioritizing pipeline fixes, implementing auto lineage, and applying anomaly detection with contextual alerts—practical steps to improve data quality, reliability, and observability across cloud-agnostic environments"
+description: Discover data observability, freshness, lineage and schema detection
+  to prevent downtime, stop model drift and cut false positives in pipelines
+intro: How do you prevent data downtime, drift, and false positives before they break
+  analytics and models? In this episode, Barr Moses, CEO and co-founder of Monte Carlo
+  and former VP of Customer Operations at Gainsight, walks through a practical framework
+  for data observability grounded in real-world incidents and DevOps principles. <br><br>
+  Barr explains why batch data needs different approaches than app monitoring and
+  outlines the Five Pillars of Data Observability—freshness, volume, distribution,
+  schema, and lineage. You’ll hear a schema-change case study, learn how silent failures
+  and model drift occur, and how to move from monitoring to true observability for
+  faster root cause analysis using correlation, logs, and lineage. The conversation
+  covers accountability models (RACI), defining and automating data SLAs, operational
+  runbooks, maturity stages (reactive → proactive → automated → scalable), and criteria
+  for end-to-end platforms versus point tools. <br><br> Listeners will get actionable
+  guidance on reducing false positives, prioritizing pipeline fixes, implementing
+  auto lineage, and applying anomaly detection with contextual alerts—practical steps
+  to improve data quality, reliability, and observability across cloud-agnostic environments
 topics:
 - MLOps
 - data observability
 dateadded: 2021-04-24
-
 duration: PT01H01M50S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -118,11 +131,6 @@ quotableClips:
   startOffset: 3627
   url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=3627
   endOffset: 3770
-- name: Closing Remarks & Contact Resources (Monte Carlo, links, Slack)
-  startOffset: 3770
-  url: https://www.youtube.com/watch?v=TrMG1SOqZkQ&t=3770
-  endOffset: 3710
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Profile: Barr Moses — career, GainSight, Monte Carlo'

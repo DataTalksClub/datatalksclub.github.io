@@ -1,6 +1,6 @@
 ---
-title: "Build a Grocery Retail OS to Cut Supermarket Food Waste & Scale Your Startup"
-short: "Launching a Startup: From Idea to First Hire"
+title: Build a Grocery Retail OS to Cut Supermarket Food Waste & Scale Your Startup
+short: 'Launching a Startup: From Idea to First Hire'
 season: 4
 episode: 7
 guests:
@@ -14,9 +14,24 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Launching-a-Startup-From-Idea-to-First-Hire---Carmine-Paolino-e15sk4i
   spotify: https://open.spotify.com/episode/2zlqwEOamFD8YVGkf4VsFW
   apple: https://podcasts.apple.com/us/podcast/launching-a-startup-from-idea-to-first-hire-carmine-paolino/id1541710331?i=1000531945076
-
-description: "Build a Grocery Retail OS to cut supermarket food waste, master JIT supply-chain forecasting, land pilots & investors, and scale your startup faster"
-intro: "How do you build a grocery retail OS that actually cuts supermarket food waste while scaling a startup? In this episode, Carmine Paolino — CTO and co-founder of FreshFlow and former programmer/researcher in academia and data science — walks through translating technical expertise into a product that solves fresh-product challenges for retailers. <br><br> We cover FreshFlow’s mission and early problem discovery (including Edeka and Volg pilots), customer discovery techniques like shadowing store teams and The Mom Test, and how their idea evolved from computer vision to an ordering and inventory forecasting platform. Carmine explains Entrepreneur First’s role in co-founder matching and fundraising, pilot timelines and sales cycle realities, and risks around investor selection and board dynamics. He also shares technical lessons (moving off Kubeflow to managed GCP services), hiring priorities, building a product roadmap toward a grocery retail OS, and leveraging just-in-time supply chain and forecasting to reduce food waste. <br><br> Listen to learn practical guidance on pilot programs, prototype-before-pitch validation (banana ripeness demo), co-founder formation, and the operational and technical trade-offs when scaling a startup focused on supermarket food waste reduction"
+description: Build a Grocery Retail OS to cut supermarket food waste, master JIT supply-chain
+  forecasting, land pilots & investors, and scale your startup faster
+intro: How do you build a grocery retail OS that actually cuts supermarket food waste
+  while scaling a startup? In this episode, Carmine Paolino — CTO and co-founder of
+  FreshFlow and former programmer/researcher in academia and data science — walks
+  through translating technical expertise into a product that solves fresh-product
+  challenges for retailers. <br><br> We cover FreshFlow’s mission and early problem
+  discovery (including Edeka and Volg pilots), customer discovery techniques like
+  shadowing store teams and The Mom Test, and how their idea evolved from computer
+  vision to an ordering and inventory forecasting platform. Carmine explains Entrepreneur
+  First’s role in co-founder matching and fundraising, pilot timelines and sales cycle
+  realities, and risks around investor selection and board dynamics. He also shares
+  technical lessons (moving off Kubeflow to managed GCP services), hiring priorities,
+  building a product roadmap toward a grocery retail OS, and leveraging just-in-time
+  supply chain and forecasting to reduce food waste. <br><br> Listen to learn practical
+  guidance on pilot programs, prototype-before-pitch validation (banana ripeness demo),
+  co-founder formation, and the operational and technical trade-offs when scaling
+  a startup focused on supermarket food waste reduction
 topics:
 - startup
 - founder
@@ -25,9 +40,7 @@ topics:
 - product management
 - tools
 dateadded: 2021-08-15
-
 duration: PT01H07M24S
-
 quotableClips:
 - name: Episode Introduction & Guest Overview
   startOffset: 106
@@ -142,11 +155,6 @@ quotableClips:
   startOffset: 4026
   url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=4026
   endOffset: 4105
-- name: Contact Details & Episode Closing Remarks
-  startOffset: 4105
-  url: https://www.youtube.com/watch?v=s-w8_GDgIlU&t=4105
-  endOffset: 4044
-
 transcript:
 - header: Episode Introduction & Guest Overview
 - line: This week, we'll talk about building a startup as a technical person. And

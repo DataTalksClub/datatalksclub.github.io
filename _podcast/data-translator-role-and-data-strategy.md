@@ -1,6 +1,8 @@
 ---
-title: "Data Strategist Guide: Effective Communication to Bridge Data Teams & Management for Data-Driven Growth"
-short: "Data Strategist Guide to Driving Growth: Prototypes, MVPs & Building Data Trust"
+title: 'Data Strategist Guide: Effective Communication to Bridge Data Teams & Management
+  for Data-Driven Growth'
+short: 'Data Strategist Guide to Driving Growth: Prototypes, MVPs & Building Data
+  Trust'
 season: 3
 episode: 4
 guests:
@@ -14,9 +16,23 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Effective-Communication-with-Business-for-Data-Professionals---Lior-Barak-e1002rm
   spotify: https://open.spotify.com/episode/4RF592cRWxHgcXbx6pV0Ja
   apple: https://podcasts.apple.com/us/podcast/effective-communication-business-for-data-professionals/id1541710331?i=1000519463715
-
-description: "Discover how a data translator bridges management and tech to drive data-driven growth—practical data strategy, forecasts, prototypes, and team alignment"
-intro: "How do you bridge the gap between data teams and management so analytics actually drives growth? In this episode, Lior Barak — author of Data is Like a Plate of Hummus, co-host of WHAT the Data?! and founder of Tale About Data with 12+ years building data teams — lays out the role of a data translator: a product-minded strategist who converts technical outputs into business-aligned action. <br><br> We explore practical tactics for building data trust (proactive alerts, QA dashboards, and confidence intervals for forecasts), embedding with business teams to learn workflows, and using data-led growth to improve recruitment, marketing, and operations. Lior walks through ways to overcome resistance — hackathons and side projects — and advocates lean delivery: MVPs, prototype-first development, clear handover strategies, and scaling with OKRs. He also covers how to explain effort to non-technical stakeholders, break silos through co-working, and use chat-driven remote collaboration effectively. <br><br> Listen to learn concrete approaches for data strategy, data communication, and production-ready delivery that help your organization move from data chaos to measurable, data-driven growth."
+description: Discover how a data translator bridges management and tech to drive data-driven
+  growth—practical data strategy, forecasts, prototypes, and team alignment
+intro: 'How do you bridge the gap between data teams and management so analytics actually
+  drives growth? In this episode, Lior Barak — author of Data is Like a Plate of Hummus,
+  co-host of WHAT the Data?! and founder of Tale About Data with 12+ years building
+  data teams — lays out the role of a data translator: a product-minded strategist
+  who converts technical outputs into business-aligned action. <br><br> We explore
+  practical tactics for building data trust (proactive alerts, QA dashboards, and
+  confidence intervals for forecasts), embedding with business teams to learn workflows,
+  and using data-led growth to improve recruitment, marketing, and operations. Lior
+  walks through ways to overcome resistance — hackathons and side projects — and advocates
+  lean delivery: MVPs, prototype-first development, clear handover strategies, and
+  scaling with OKRs. He also covers how to explain effort to non-technical stakeholders,
+  break silos through co-working, and use chat-driven remote collaboration effectively.
+  <br><br> Listen to learn concrete approaches for data strategy, data communication,
+  and production-ready delivery that help your organization move from data chaos to
+  measurable, data-driven growth.'
 topics:
 - data strategy
 - communication
@@ -24,9 +40,7 @@ topics:
 - leadership
 - data teams
 dateadded: 2021-05-01
-
 duration: PT00H57M23S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -124,11 +138,6 @@ quotableClips:
   startOffset: 3460
   url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=3460
   endOffset: 3481
-- name: Closing Remarks and Episode Wrap-up
-  startOffset: 3481
-  url: https://www.youtube.com/watch?v=gqroEsTyLD0&t=3481
-  endOffset: 3443
-
 transcript:
 - header: Podcast Introduction
 - header: 'Episode Theme: Bridging Data & Management'

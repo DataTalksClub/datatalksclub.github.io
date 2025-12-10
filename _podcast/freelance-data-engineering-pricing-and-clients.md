@@ -1,6 +1,6 @@
 ---
-title: "Freelance Data Engineering Playbook: Pricing, Client Acquisition & Tools"
-short: "Freelancing and Consulting with Data Engineering"
+title: 'Freelance Data Engineering Playbook: Pricing, Client Acquisition & Tools'
+short: Freelancing and Consulting with Data Engineering
 season: 9
 episode: 4
 guests:
@@ -14,9 +14,24 @@ links:
   apple: https://podcasts.apple.com/us/podcast/freelancing-and-consulting-with-data-engineering/id1541710331?i=1000566841525
   spotify: https://open.spotify.com/episode/5M9HFWt8xmqf5HyGu40RmJ?si=C95h0CMkRiazs_ft8Z_gRg
   youtube: https://www.youtube.com/watch?v=9DTTrN-khCk
-
-description: "Master freelance data engineering: pricing, client acquisition & tools to negotiate rates, scope projects, build reusable portfolios and win repeat clients."
-intro: "How do you price freelance data engineering work, win steady clients, and pick the right tools for messy production problems? In this episode, Adrian Brudaru — an economist-turned-business analyst who moved to Berlin, left corporate/startup cycles to freelance for five years, and now co-founds a data company releasing open source tooling — walks through a practical playbook for freelance data engineers. <br><br> We cover pricing models (hourly rates, negotiation, occupancy and income variability), client acquisition (networking, repeat business, recruiters vs. direct contracts, Upwork pros and cons), and scoping techniques (spikes, scope documents, managing expectations). Adrian also digs into technical topics: legacy cleanup, Airflow work, and a data loading tool for volatile schemas and automatic unpacking. Along the way, he explains building a reusable portfolio, transitioning from freelancing to product or investing, working remotely vs. on-site, and how to create opportunities in local markets like Berlin. <br><br> Listen to learn concrete approaches to freelance data engineering pricing, client acquisition strategies, scoping projects, and practical tools to handle unstable schemas — so you can evaluate projects, set rates, and grow a sustainable freelance practice."
+description: 'Master freelance data engineering: pricing, client acquisition & tools
+  to negotiate rates, scope projects, build reusable portfolios and win repeat clients.'
+intro: 'How do you price freelance data engineering work, win steady clients, and
+  pick the right tools for messy production problems? In this episode, Adrian Brudaru
+  — an economist-turned-business analyst who moved to Berlin, left corporate/startup
+  cycles to freelance for five years, and now co-founds a data company releasing open
+  source tooling — walks through a practical playbook for freelance data engineers.
+  <br><br> We cover pricing models (hourly rates, negotiation, occupancy and income
+  variability), client acquisition (networking, repeat business, recruiters vs. direct
+  contracts, Upwork pros and cons), and scoping techniques (spikes, scope documents,
+  managing expectations). Adrian also digs into technical topics: legacy cleanup,
+  Airflow work, and a data loading tool for volatile schemas and automatic unpacking.
+  Along the way, he explains building a reusable portfolio, transitioning from freelancing
+  to product or investing, working remotely vs. on-site, and how to create opportunities
+  in local markets like Berlin. <br><br> Listen to learn concrete approaches to freelance
+  data engineering pricing, client acquisition strategies, scoping projects, and practical
+  tools to handle unstable schemas — so you can evaluate projects, set rates, and
+  grow a sustainable freelance practice.'
 topics:
 - data engineering
 - freelance
@@ -24,9 +39,7 @@ topics:
 - tools
 dateadded: 2022-06-18
 date: 2025-11-07
-
 duration: PT01H01M16S
-
 quotableClips:
 - name: Episode Introduction
   startOffset: 0
@@ -140,11 +153,6 @@ quotableClips:
   startOffset: 3549
   url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=3549
   endOffset: 3700
-- name: 'Contact & Resources: LinkedIn, GitHub, Slack Invite and Next Steps'
-  startOffset: 3700
-  url: https://www.youtube.com/watch?v=9DTTrN-khCk&t=3700
-  endOffset: 3676
-
 transcript:
 - header: 'Guest Overview: Adrian’s Move to Freelancing'
 - line: This week we'll talk about freelancing in data engineering. We have a special

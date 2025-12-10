@@ -1,6 +1,6 @@
 ---
-title: "Mastering MLOps: Kubeflow Pipelines, Model Monitoring & Automated Retraining"
-short: "The Rise of MLOps"
+title: 'Mastering MLOps: Kubeflow Pipelines, Model Monitoring & Automated Retraining'
+short: The Rise of MLOps
 season: 2
 episode: 4
 guests:
@@ -14,18 +14,32 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/The-Rise-of-MLOps---Theofilos-Papapanagiotou-ept67o
   spotify: https://open.spotify.com/episode/3YPvzGQnfxl7Mo1VKE0l1K
   apple: https://podcasts.apple.com/us/podcast/the-rise-of-mlops-theofilos-papapanagiotou/id1541710331?i=1000507907719
-
-description: "Master MLOps with Kubeflow pipelines and automated retraining—detect drift, accelerate deployment, and boost production model reliability for faster iteration"
-intro: "How do you build reliable, production-ready ML pipelines that detect model drift, monitor fairness, and trigger automated retraining? In this episode, Theofilos Papapanagiotou — a systems engineer with 20 years’ experience (from Unix engineering to ML engineering) now helping companies run ML workloads and a Kubeflow enthusiast — walks through practical MLOps strategies and tooling. <br><br> We define MLOps as culture, process, and technology and contrast it with DevOps across the model lifecycle. Key topics include model monitoring for drift and fairness, inference sensors and a Prometheus/Grafana monitoring stack, commoditizing inference monitoring for faster iteration, and maturity levels from manual training to automated retraining. Theofilos dives into the Kubeflow ecosystem — Pipelines, KFServing, Feast, Katib, and integrations with TFX — plus hyperparameter search, notebook→pipeline workflows, MLMD metadata for data and model versioning, and tradeoffs for small teams and edge/mobile deployments. <br><br> If you’re implementing Kubeflow pipelines, setting up model monitoring, or planning automated retraining, this episode offers practical guidance, maturity roadmaps, and resources to help you move from prototypes to reproducible, production ML"
+description: Master MLOps with Kubeflow pipelines and automated retraining—detect
+  drift, accelerate deployment, and boost production model reliability for faster
+  iteration
+intro: How do you build reliable, production-ready ML pipelines that detect model
+  drift, monitor fairness, and trigger automated retraining? In this episode, Theofilos
+  Papapanagiotou — a systems engineer with 20 years’ experience (from Unix engineering
+  to ML engineering) now helping companies run ML workloads and a Kubeflow enthusiast
+  — walks through practical MLOps strategies and tooling. <br><br> We define MLOps
+  as culture, process, and technology and contrast it with DevOps across the model
+  lifecycle. Key topics include model monitoring for drift and fairness, inference
+  sensors and a Prometheus/Grafana monitoring stack, commoditizing inference monitoring
+  for faster iteration, and maturity levels from manual training to automated retraining.
+  Theofilos dives into the Kubeflow ecosystem — Pipelines, KFServing, Feast, Katib,
+  and integrations with TFX — plus hyperparameter search, notebook→pipeline workflows,
+  MLMD metadata for data and model versioning, and tradeoffs for small teams and edge/mobile
+  deployments. <br><br> If you’re implementing Kubeflow pipelines, setting up model
+  monitoring, or planning automated retraining, this episode offers practical guidance,
+  maturity roadmaps, and resources to help you move from prototypes to reproducible,
+  production ML
 topics:
 - MLOps
 - machine learning
 - production
 - tools
 dateadded: 2021-02-23
-
 duration: PT01H02M48S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -155,11 +169,6 @@ quotableClips:
   startOffset: 3899
   url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3899
   endOffset: 3922
-- name: Episode End
-  startOffset: 3922
-  url: https://www.youtube.com/watch?v=-i0fVp0ntYA&t=3922
-  endOffset: 3768
-
 transcript:
 - header: Podcast Introduction
 - header: Episode Kickoff & Guest Overview

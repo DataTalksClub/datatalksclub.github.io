@@ -1,6 +1,7 @@
 ---
-title: "Designing FinTech Data Analytics Curriculum: Fraud Detection, BigQuery Labs & Mentoring"
-short: "Teaching and Mentoring in Data Analytics"
+title: 'Designing FinTech Data Analytics Curriculum: Fraud Detection, BigQuery Labs
+  & Mentoring'
+short: Teaching and Mentoring in Data Analytics
 season: 11
 episode: 9
 guests:
@@ -14,9 +15,25 @@ links:
   apple: https://podcasts.apple.com/us/podcast/teaching-and-mentoring-in-data-analytics-irina-brudaru/id1541710331?i=1000588551445
   spotify: https://open.spotify.com/episode/0ES2N4yIu61bUB3dY9oxgQ?si=_KFHPXOUQVap8oSBp6AJgA
   youtube: https://www.youtube.com/watch?v=saaRRzgHsmE
-
-description: "Discover FinTech data analytics curriculum: fraud detection, BigQuery labs & mentoring—gain hands-on cloud skills, chargeback modeling, SQL and career guidance."
-intro: "How do you design a FinTech data analytics curriculum that teaches fraud detection, chargeback modeling, and real-world cloud skills while also mentoring diverse learners? In this episode, Irina Brudaru — Head of Data & Analytics at Finlex, former Google data leader, and long-time mentor and teacher — walks through building practical FinTech courses informed by industry experience across Berlin, Amsterdam and the Bay Area. <br><br> We cover curriculum components you can reuse: rule-based vs neural approaches to fraud detection, chargeback modeling, deploying ML in production, and essential business skills for analysts. Irina explains hands-on BigQuery labs, student cloud access strategies, and how to demystify Google Cloud for analysts. She shares mentoring methods (visual explanations, learner-centered teaching), instructor sourcing and storytelling for classroom impact, cohort analysis for product metrics, recruiting women to zoomcamps, and securing technical reviewers. <br><br> Listen to gain actionable guidance on structuring FinTech analytics training, designing cloud labs, teaching fraud detection and chargeback workflows, and adopting mentoring practices that help career changers and underrepresented learners succeed in data analytics."
+description: 'Discover FinTech data analytics curriculum: fraud detection, BigQuery
+  labs & mentoring—gain hands-on cloud skills, chargeback modeling, SQL and career
+  guidance.'
+intro: 'How do you design a FinTech data analytics curriculum that teaches fraud detection,
+  chargeback modeling, and real-world cloud skills while also mentoring diverse learners?
+  In this episode, Irina Brudaru — Head of Data & Analytics at Finlex, former Google
+  data leader, and long-time mentor and teacher — walks through building practical
+  FinTech courses informed by industry experience across Berlin, Amsterdam and the
+  Bay Area. <br><br> We cover curriculum components you can reuse: rule-based vs neural
+  approaches to fraud detection, chargeback modeling, deploying ML in production,
+  and essential business skills for analysts. Irina explains hands-on BigQuery labs,
+  student cloud access strategies, and how to demystify Google Cloud for analysts.
+  She shares mentoring methods (visual explanations, learner-centered teaching), instructor
+  sourcing and storytelling for classroom impact, cohort analysis for product metrics,
+  recruiting women to zoomcamps, and securing technical reviewers. <br><br> Listen
+  to gain actionable guidance on structuring FinTech analytics training, designing
+  cloud labs, teaching fraud detection and chargeback workflows, and adopting mentoring
+  practices that help career changers and underrepresented learners succeed in data
+  analytics.'
 topics:
 - data analytics
 - fintech
@@ -24,9 +41,7 @@ topics:
 - teaching
 - data science
 dateadded: 2022-12-03
-
 duration: PT01H46S
-
 quotableClips:
 - name: Podcast Introduction
   startOffset: 0
@@ -134,11 +149,6 @@ quotableClips:
   startOffset: 3632
   url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=3632
   endOffset: 3666
-- name: Episode Wrap-up and Contact Info
-  startOffset: 3666
-  url: https://www.youtube.com/watch?v=saaRRzgHsmE&t=3666
-  endOffset: 3646
-
 transcript:
 - header: Podcast Introduction
 - header: 'Guest Overview: Irina Brudaru — teacher, curriculum developer, mentor in

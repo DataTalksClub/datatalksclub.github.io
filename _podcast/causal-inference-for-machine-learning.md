@@ -1,6 +1,7 @@
 ---
-title: "Causal Inference for Real-World ML: Uplift Modeling, Counterfactuals, Treatment Effects & LLM Integration"
-short: "Democratizing Causality"
+title: 'Causal Inference for Real-World ML: Uplift Modeling, Counterfactuals, Treatment
+  Effects & LLM Integration'
+short: Democratizing Causality
 season: 15
 episode: 6
 guests:
@@ -14,16 +15,31 @@ links:
   apple: https://podcasts.apple.com/us/podcast/democratizing-causality-aleksander-molak/id1541710331?i=1000625694605
   spotify: https://open.spotify.com/episode/17U3RWz5BupRIwoBvGWqYQ?si=g6XypIZnSwG4hznNIOs7mw
   youtube: https://www.youtube.com/watch?v=0I2FHH95Ofs
-description: "Master causal inference for production ML: uplift modeling, treatment effects, counterfactuals, causal discovery, and LLM integration strategies."
-intro: "How do you move from correlation to actionable decisions — using counterfactuals, uplift modeling, treatment effect estimation, and LLMs — without falling into confounding traps or biased estimators? In this episode, Aleksander Molak, an independent ML researcher, author and educator specializing in causality, NLP and AI strategy, walks through practical causal inference techniques for real-world machine learning applications. <br><br> We explore foundational concepts like counterfactuals and Judea Pearl's causal hierarchy, then dive into meta-learners (T-learner, S-learner), Conditional Average Treatment Effect (CATE) estimation, uplift modeling, and when A/B testing or causal feature selection are essential for achieving unconfoundedness. Aleksander covers deployment challenges, debiasing methods (double/debiased ML), refutation testing for model validation, causal discovery algorithms, and cost-benefit analysis that uncovered wasted marketing spend. The conversation also examines how LLMs integrate into causal workflows: feature extraction from text, using text as outcomes or treatments, inferring unobserved confounders, and practical demonstrations with CausalBERT. You'll gain actionable frameworks for building, evaluating, and deploying causal ML systems in production, plus resources and code examples to implement these methods in your own projects."
+description: 'Master causal inference for production ML: uplift modeling, treatment
+  effects, counterfactuals, causal discovery, and LLM integration strategies.'
+intro: 'How do you move from correlation to actionable decisions — using counterfactuals,
+  uplift modeling, treatment effect estimation, and LLMs — without falling into confounding
+  traps or biased estimators? In this episode, Aleksander Molak, an independent ML
+  researcher, author and educator specializing in causality, NLP and AI strategy,
+  walks through practical causal inference techniques for real-world machine learning
+  applications. <br><br> We explore foundational concepts like counterfactuals and
+  Judea Pearl''s causal hierarchy, then dive into meta-learners (T-learner, S-learner),
+  Conditional Average Treatment Effect (CATE) estimation, uplift modeling, and when
+  A/B testing or causal feature selection are essential for achieving unconfoundedness.
+  Aleksander covers deployment challenges, debiasing methods (double/debiased ML),
+  refutation testing for model validation, causal discovery algorithms, and cost-benefit
+  analysis that uncovered wasted marketing spend. The conversation also examines how
+  LLMs integrate into causal workflows: feature extraction from text, using text as
+  outcomes or treatments, inferring unobserved confounders, and practical demonstrations
+  with CausalBERT. You''ll gain actionable frameworks for building, evaluating, and
+  deploying causal ML systems in production, plus resources and code examples to implement
+  these methods in your own projects.'
 topics:
 - causal inference
 - LLMs
 - machine learning
 dateadded: 2023-09-10
-
 duration: PT01H06M38S
-
 quotableClips:
 - name: Episode Introduction
   startOffset: 0
@@ -137,11 +153,6 @@ quotableClips:
   startOffset: 3967
   url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=3967
   endOffset: 4048
-- name: Closing remarks and next steps
-  startOffset: 4048
-  url: https://www.youtube.com/watch?v=0I2FHH95Ofs&t=4048
-  endOffset: 3998
-
 transcript:
 - header: Episode Introduction
 - header: 'Guest Intro: Aleksander Molak & book overview'

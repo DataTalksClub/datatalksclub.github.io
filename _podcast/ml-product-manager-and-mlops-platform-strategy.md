@@ -1,6 +1,6 @@
 ---
-title: "Become an ML Product Manager: MLOps Platforms, Observability & Adoption"
-short: "Product Management for Machine Learning"
+title: 'Become an ML Product Manager: MLOps Platforms, Observability & Adoption'
+short: Product Management for Machine Learning
 season: 6
 episode: 7
 guests:
@@ -14,9 +14,24 @@ links:
   anchor: https://anchor.fm/datatalksclub/episodes/Product-Management-for-Machine-Learning---Geo-Jolly-e1brpvm
   spotify: https://open.spotify.com/episode/7zfH4hagZKwoIWmee0AXBd
   apple: https://podcasts.apple.com/us/podcast/product-management-for-machine-learning-geo-jolly/id1541710331?i=1000545301034
-
-description: "Learn ML Product Manager tactics: MLOps platform strategy, observability KPIs & adoption playbooks to own roadmaps, governance, and stakeholder ROI."
-intro: "How do you become an ML product manager and build MLOps platforms that teams actually use? In this episode, Geo Jolly, a Technical PM at Glovo with a background from web/dev to data science and product management, walks through the practical skills and decisions that define the role. <br><br> We cover MLOps platform strategy and vendor evaluation, treating internal platform users as customers, and the real productivity costs of poor tooling UX. Geo outlines product manager responsibilities—roadmaps, specs, backlog prioritization—and explains outcome-driven problem definition, avoiding solution bias, and running workshops and interviews to break down complex problems. You’ll hear about ML observability and KPIs to measure platform impact, release governance and rollout timing, adoption strategy for internal stakeholders, and engineering roles needed for platform delivery (CI/CD, K8s, syseng). Practical topics also include model validation and ML quality assurance, embedded data scientists as power users, Agile approaches for data science, and concrete transition paths from data scientist or Scrum Master into technical ML product roles. <br><br> Listen to gain actionable guidance on MLOps platforms, observability, adoption strategy, and the technical literacy required to succeed as an ML product manager"
+description: 'Learn ML Product Manager tactics: MLOps platform strategy, observability
+  KPIs & adoption playbooks to own roadmaps, governance, and stakeholder ROI.'
+intro: How do you become an ML product manager and build MLOps platforms that teams
+  actually use? In this episode, Geo Jolly, a Technical PM at Glovo with a background
+  from web/dev to data science and product management, walks through the practical
+  skills and decisions that define the role. <br><br> We cover MLOps platform strategy
+  and vendor evaluation, treating internal platform users as customers, and the real
+  productivity costs of poor tooling UX. Geo outlines product manager responsibilities—roadmaps,
+  specs, backlog prioritization—and explains outcome-driven problem definition, avoiding
+  solution bias, and running workshops and interviews to break down complex problems.
+  You’ll hear about ML observability and KPIs to measure platform impact, release
+  governance and rollout timing, adoption strategy for internal stakeholders, and
+  engineering roles needed for platform delivery (CI/CD, K8s, syseng). Practical topics
+  also include model validation and ML quality assurance, embedded data scientists
+  as power users, Agile approaches for data science, and concrete transition paths
+  from data scientist or Scrum Master into technical ML product roles. <br><br> Listen
+  to gain actionable guidance on MLOps platforms, observability, adoption strategy,
+  and the technical literacy required to succeed as an ML product manager
 topics:
 - product management
 - machine learning
@@ -24,9 +39,7 @@ topics:
 - leadership
 - career growth
 dateadded: 2021-12-17
-
 duration: PT01H02M46S
-
 quotableClips:
 - name: 'Episode Introduction: Product Management for Machine Learning'
   startOffset: 0
@@ -144,11 +157,6 @@ quotableClips:
   startOffset: 3711
   url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=3711
   endOffset: 3815
-- name: 'Contact & Hiring: Geo on LinkedIn and Glovo opportunities'
-  startOffset: 3815
-  url: https://www.youtube.com/watch?v=PjqjPvHliqg&t=3815
-  endOffset: 3766
-
 transcript:
 - header: 'Episode Introduction: Product Management for Machine Learning'
 - header: 'Guest Overview: Geo and episode focus on AI Product Manager role'

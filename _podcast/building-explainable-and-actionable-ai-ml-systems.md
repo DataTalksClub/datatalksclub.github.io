@@ -1,6 +1,7 @@
 ---
-title: "Build Explainable and Actionable AI/ML Systems: Industrial PhD, Trust Theory & Production Deployment"
-short: "Build Explainable and Actionable AI/ML Systems"
+title: 'Build Explainable and Actionable AI/ML Systems: Industrial PhD, Trust Theory
+  & Production Deployment'
+short: Build Explainable and Actionable AI/ML Systems
 season: 14
 episode: 9
 guests:
@@ -14,9 +15,25 @@ links:
   apple: https://podcasts.apple.com/us/podcast/interpretable-ai-and-ml-polina-mosolova/id1541710331?i=1000619926085
   spotify: https://open.spotify.com/episode/0p84r6bZmgKO514oC1HE2L?si=30L5gJoSS6Wtrghtdr3jYA
   youtube: https://www.youtube.com/watch?v=EQcY83VA0Us
-
-description: "Build trustworthy ML systems that drive business decisions through explainable AI, organizational trust theory, and actionable model deployment."
-intro: "How do you build ML systems that business teams trust and can act on? In this episode, Polina Mosolova — a data scientist at SAP who completed an industrial PhD building end-to-end ML pipelines — demonstrates how to bridge research and production through explainable AI grounded in organizational trust theory. Drawing from her churn prediction research, Polina shows how the ABI framework (Ability, Benevolence, Integrity) transforms model explanations into actionable business interventions. <br><br> We explore the industrial PhD path as a vehicle for building trustworthy ML systems, covering the practical tensions of research and production deliverables, supervision dynamics, and how academic rigor enhances deployable models. Technical deep-dives include interpretability versus explainability versus actionable ML, model architecture choices (glass-box models, GAMs, Neural Additive Models), explainability tooling (random forest + SHAP), computer vision activation maps, and why LLM explainability faces unique challenges compared to tabular models. The conversation ties together trust proxies, KPIs, and MLOps practices that make explanations business-relevant. <br><br> Listen to learn a systematic approach for building ML systems where explanations drive decisions — essential for data scientists who need to deploy models that stakeholders understand, trust, and can act upon to achieve measurable business outcomes."
+description: Build trustworthy ML systems that drive business decisions through explainable
+  AI, organizational trust theory, and actionable model deployment.
+intro: How do you build ML systems that business teams trust and can act on? In this
+  episode, Polina Mosolova — a data scientist at SAP who completed an industrial PhD
+  building end-to-end ML pipelines — demonstrates how to bridge research and production
+  through explainable AI grounded in organizational trust theory. Drawing from her
+  churn prediction research, Polina shows how the ABI framework (Ability, Benevolence,
+  Integrity) transforms model explanations into actionable business interventions.
+  <br><br> We explore the industrial PhD path as a vehicle for building trustworthy
+  ML systems, covering the practical tensions of research and production deliverables,
+  supervision dynamics, and how academic rigor enhances deployable models. Technical
+  deep-dives include interpretability versus explainability versus actionable ML,
+  model architecture choices (glass-box models, GAMs, Neural Additive Models), explainability
+  tooling (random forest + SHAP), computer vision activation maps, and why LLM explainability
+  faces unique challenges compared to tabular models. The conversation ties together
+  trust proxies, KPIs, and MLOps practices that make explanations business-relevant.
+  <br><br> Listen to learn a systematic approach for building ML systems where explanations
+  drive decisions — essential for data scientists who need to deploy models that stakeholders
+  understand, trust, and can act upon to achieve measurable business outcomes.
 topics:
 - machine learning
 - AI
@@ -24,9 +41,7 @@ topics:
 - explainable AI
 - interpretability
 dateadded: 2023-07-08
-
 duration: PT01H01M48S
-
 quotableClips:
 - name: Episode Introduction & Overview
   startOffset: 0
@@ -138,11 +153,6 @@ quotableClips:
   startOffset: 3629
   url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3629
   endOffset: 3761
-- name: Episode Wrap-Up and Closing Remarks
-  startOffset: 3761
-  url: https://www.youtube.com/watch?v=EQcY83VA0Us&t=3761
-  endOffset: 3708
-
 transcript:
 - header: Episode Introduction & Overview
 - header: 'Guest Introduction: Polina Mosolova — Industrial PhD and Churn Prediction'

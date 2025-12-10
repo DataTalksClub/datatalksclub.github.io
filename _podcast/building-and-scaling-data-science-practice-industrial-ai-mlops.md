@@ -1,6 +1,7 @@
 ---
-title: "Building and Scaling Data Science Practice in Industrial Enterprises: AI Adoption, MLOps Maturity & Career Growth"
-short: "Building and Scaling Data Science Practice in Industrial Enterprises"
+title: 'Building and Scaling Data Science Practice in Industrial Enterprises: AI Adoption,
+  MLOps Maturity & Career Growth'
+short: Building and Scaling Data Science Practice in Industrial Enterprises
 season: 11
 episode: 5
 guests:
@@ -14,9 +15,25 @@ links:
   apple: https://podcasts.apple.com/us/podcast/building-data-science-practice-andrey-shtylenko/id1541710331?i=1000585100407
   spotify: https://open.spotify.com/episode/0M7Y77MFToxtKuyfdF5W22?si=jgWR6EchQnWe6nYWW44ZxQ
   youtube: https://www.youtube.com/watch?v=XbDQv8FTA4U
-
-description: "Discover Industrial AI tactics, MLOps & sensorization to scale projects: hub-and-spoke data teams, proving value, tooling and career steps to productionize ML."
-intro: "How do industrial enterprises move from pilots to production-ready AI—and what team structures, MLOps practices, and career moves make that possible? In this episode Andrey Shtylenko, Director of Engineering at Honeywell and leader of its Advanced Technology Group and AI practice, walks through practical approaches for building and scaling data science teams in industrial enterprises. Drawing on Honeywell use cases—smart sensors, computer vision, and robotics—Andrey explains the data and machine learning practices that enable AI adoption, the role of sensorization and cloud processing, and the common challenges traditional industrial companies face. <br><br> You’ll hear a concrete data practice maturity model (crawl → walk → run), POC strategy recommendations for proving value with end-to-end projects, and trade-offs between centralized, embedded, and hybrid hub-and-spoke team models. We cover MLOps standardization, shared services (experiment tracking, annotation, procurement), reporting-line impacts (CTO vs CIO vs CEO), and career guidance for engineers pivoting into data science or production ML roles. Listen to gain frameworks and actionable insights to structure teams, mature MLOps, and grow careers within industrial AI initiatives."
+description: 'Discover Industrial AI tactics, MLOps & sensorization to scale projects:
+  hub-and-spoke data teams, proving value, tooling and career steps to productionize
+  ML.'
+intro: How do industrial enterprises move from pilots to production-ready AI—and what
+  team structures, MLOps practices, and career moves make that possible? In this episode
+  Andrey Shtylenko, Director of Engineering at Honeywell and leader of its Advanced
+  Technology Group and AI practice, walks through practical approaches for building
+  and scaling data science teams in industrial enterprises. Drawing on Honeywell use
+  cases—smart sensors, computer vision, and robotics—Andrey explains the data and
+  machine learning practices that enable AI adoption, the role of sensorization and
+  cloud processing, and the common challenges traditional industrial companies face.
+  <br><br> You’ll hear a concrete data practice maturity model (crawl → walk → run),
+  POC strategy recommendations for proving value with end-to-end projects, and trade-offs
+  between centralized, embedded, and hybrid hub-and-spoke team models. We cover MLOps
+  standardization, shared services (experiment tracking, annotation, procurement),
+  reporting-line impacts (CTO vs CIO vs CEO), and career guidance for engineers pivoting
+  into data science or production ML roles. Listen to gain frameworks and actionable
+  insights to structure teams, mature MLOps, and grow careers within industrial AI
+  initiatives.
 topics:
 - data science
 - industrial AI
@@ -24,9 +41,7 @@ topics:
 - ai
 - MLOps
 dateadded: 2022-11-05
-
 duration: PT01H49S
-
 quotableClips:
 - name: Introduction & Live Chat Poll Results
   startOffset: 0
@@ -108,11 +123,6 @@ quotableClips:
   startOffset: 3584
   url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3584
   endOffset: 3693
-- name: 'Connect with Andrey: LinkedIn and Follow-up Resources'
-  startOffset: 3693
-  url: https://www.youtube.com/watch?v=XbDQv8FTA4U&t=3693
-  endOffset: 3649
-
 transcript:
 - header: Introduction & Live Chat Poll Results
 - line: You might notice that there is a poll right now in the live chat, which asks

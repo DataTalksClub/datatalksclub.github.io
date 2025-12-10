@@ -1,6 +1,6 @@
 ---
-title: "How to Become a Data Engineer: Skills, MLOps, Pipelines, SQL, CI/CD & Cloud"
-short: "From Data Science to Data Engineering"
+title: 'How to Become a Data Engineer: Skills, MLOps, Pipelines, SQL, CI/CD & Cloud'
+short: From Data Science to Data Engineering
 season: 7
 episode: 8
 guests:
@@ -14,9 +14,15 @@ links:
   apple: https://podcasts.apple.com/us/podcast/from-data-science-to-data-engineering-ellen-k%C3%B6nig/id1541710331?i=1000553736781
   spotify: https://open.spotify.com/episode/4R9F5B4f8vf5r5yQEmwYiu
   youtube: https://www.youtube.com/watch?v=3TTu-hYzxeg
-
-description: "Master data engineering, MLOps and pipelines: learn CI/CD, cloud cost control and SQL/Python skills to switch careers and accelerate growth now."
-intro: "In this episode, Ellen König—Head of Engineering at alcemy—shares her journey from software and data science to data engineering leadership. She explains why many professionals make the switch, the skills that matter most (from DevOps and CI/CD to collaboration), and how to prepare through side projects and software fundamentals. <br><br> Ellen also breaks down key tools like Git, Docker, and Airflow, discusses the realities of cloud costs and team structures, and offers practical advice for anyone planning a transition into data engineering"
+description: 'Master data engineering, MLOps and pipelines: learn CI/CD, cloud cost
+  control and SQL/Python skills to switch careers and accelerate growth now.'
+intro: In this episode, Ellen König—Head of Engineering at alcemy—shares her journey
+  from software and data science to data engineering leadership. She explains why
+  many professionals make the switch, the skills that matter most (from DevOps and
+  CI/CD to collaboration), and how to prepare through side projects and software fundamentals.
+  <br><br> Ellen also breaks down key tools like Git, Docker, and Airflow, discusses
+  the realities of cloud costs and team structures, and offers practical advice for
+  anyone planning a transition into data engineering
 topics:
 - data science
 - data engineering
@@ -25,9 +31,7 @@ topics:
 - tools
 dateadded: 2022-03-14
 date: 2025-11-07
-
 duration: PT00H59M45S
-
 quotableClips:
 - name: Episode Introduction & Guest Overview
   startOffset: 0
@@ -121,11 +125,6 @@ quotableClips:
   startOffset: 3516
   url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=3516
   endOffset: 3621
-- name: Closing Remarks & How to Contact Ellen
-  startOffset: 3621
-  url: https://www.youtube.com/watch?v=3TTu-hYzxeg&t=3621
-  endOffset: 3585
-
 transcript:
 - header: Episode Introduction & Guest Overview
 - header: Episode Introduction & Guest Overview

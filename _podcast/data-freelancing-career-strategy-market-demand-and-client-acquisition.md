@@ -1,6 +1,7 @@
 ---
-title: "Building a Sustainable Data Freelancing Career: Market Validation, Client Acquisition & Strategic Positioning"
-short: "Taking your Freelance Career to the Next Level"
+title: 'Building a Sustainable Data Freelancing Career: Market Validation, Client
+  Acquisition & Strategic Positioning'
+short: Taking your Freelance Career to the Next Level
 season: 20
 episode: 9
 guests:
@@ -14,8 +15,25 @@ links:
   apple: https://podcasts.apple.com/us/podcast/can-you-quit-your-job-and-still-succeed-as-a-data-freelancer/id1541710331?i=1000718997257
   spotify: https://open.spotify.com/episode/3BknrKqhLggx1G5ZbrfgFc
   youtube: https://www.youtube.com/watch?v=S93V8RgwBig
-description: "Master data freelancer tactics, pricing strategies and AI tools to land clients, price services confidently, and boost productivity for higher income"
-intro: "How do you move from employed data pro to a sustainable data freelancer who consistently lands clients, prices services well, and uses AI to boost productivity? In this episode, Dimitri Visnadi — an independent data consultant focused on data strategy who’s worked with Unilever, Ferrero, Heineken and Red Bull, held roles at HP and a Google-partnered firm, and holds a Masters in Business Analytics & Computer Science from UCL — walks through a practical playbook for data freelancers. <br><br> Dimitri covers job-tenure trends and freelancer types, when to sell expertise versus problem-solving, and how to validate freelance viability with financial targets. He explains how to land initial clients through recruiters and LinkedIn, the idea behind a data-freelancer job board, market-driven specialization, and insights on rates, top skills and data management. You’ll hear about scaling choices (lifestyle business vs agency), AI tools for productivity (Claude, ChatGPT, Cursor), course and community approaches for branding and marketing, subscription models and client relationship management, high-impact small analyses, pricing strategies (hourly vs packages), and transition planning. <br><br> Listen to get concrete guidance on landing clients, setting prices, structuring offers, and using AI tools to increase productivity as a freelance data consultant"
+description: Master data freelancer tactics, pricing strategies and AI tools to land
+  clients, price services confidently, and boost productivity for higher income
+intro: How do you move from employed data pro to a sustainable data freelancer who
+  consistently lands clients, prices services well, and uses AI to boost productivity?
+  In this episode, Dimitri Visnadi — an independent data consultant focused on data
+  strategy who’s worked with Unilever, Ferrero, Heineken and Red Bull, held roles
+  at HP and a Google-partnered firm, and holds a Masters in Business Analytics & Computer
+  Science from UCL — walks through a practical playbook for data freelancers. <br><br>
+  Dimitri covers job-tenure trends and freelancer types, when to sell expertise versus
+  problem-solving, and how to validate freelance viability with financial targets.
+  He explains how to land initial clients through recruiters and LinkedIn, the idea
+  behind a data-freelancer job board, market-driven specialization, and insights on
+  rates, top skills and data management. You’ll hear about scaling choices (lifestyle
+  business vs agency), AI tools for productivity (Claude, ChatGPT, Cursor), course
+  and community approaches for branding and marketing, subscription models and client
+  relationship management, high-impact small analyses, pricing strategies (hourly
+  vs packages), and transition planning. <br><br> Listen to get concrete guidance
+  on landing clients, setting prices, structuring offers, and using AI tools to increase
+  productivity as a freelance data consultant
 topics:
 - Freelance
 - Career Growth
@@ -87,10 +105,6 @@ quotableClips:
 - name: Notice Periods & Transition Planning for Freelancers
   startOffset: 3662
   url: https://www.youtube.com/watch?v=S93V8RgwBig&t=3662
-  endOffset: 3929
-- name: Episode Wrap-up & Final Advice
-  startOffset: 3929
-  url: https://www.youtube.com/watch?v=S93V8RgwBig&t=3929
   endOffset: 3929
 transcript:
 - header: Episode Opening & Dimitri’s Data Journey

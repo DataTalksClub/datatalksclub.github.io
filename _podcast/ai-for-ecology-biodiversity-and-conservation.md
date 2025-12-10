@@ -1,6 +1,7 @@
 ---
-title: "AI for Ecology, Biodiversity, and Conservation: Computer Vision, Remote Sensing and Citizen Science"
-short: "AI for Ecology, Biodiversity, and Conservation"
+title: 'AI for Ecology, Biodiversity, and Conservation: Computer Vision, Remote Sensing
+  and Citizen Science'
+short: AI for Ecology, Biodiversity, and Conservation
 season: 18
 episode: 3
 guests:
@@ -14,8 +15,25 @@ links:
   apple: https://podcasts.apple.com/us/podcast/ai-for-ecology-biodiversity-and-conservation-tanya/id1541710331?i=1000653709956
   spotify: https://open.spotify.com/episode/3Hhz5N8ZDvsOPlPP3wxQxq?si=Oz7y_pBrTfeypfYZXubu-g
   youtube: https://www.youtube.com/watch?v=30tTrozbAkg
-description: "Discover AI-driven computer vision and remote sensing strategies to scale biodiversity monitoring, improve species ID, and inform conservation policy."
-intro: "How can AI help close critical data gaps in biodiversity monitoring and turn images and sensor data into actionable conservation decisions? In this episode Tanya Berger-Wolf, a computational ecologist, director of TDAI@OSU, and co-founder of the Wildbook project (Wild Me), walks through practical applications of AI for ecology, biodiversity monitoring, and conservation. <br><br> We cover core techniques—computer vision, machine learning, and remote sensing—and their use in image-based monitoring with camera traps, drones, and species identification. Tanya explains individual identification and longitudinal tracking, habitat mapping and change detection, and the data challenges of labeling, class imbalance, and sparse observations. The conversation addresses integration of heterogeneous datasets, model robustness (domain shift and transfer learning), and ethical considerations including Indigenous knowledge and equity. You’ll also hear about scalable platforms like Wildbook, citizen science workflows for crowdsourcing and quality control, policy relevance, open data and FAIR principles, edge deployment in the field, and building sustainable monitoring programs. <br><br> Listen to gain concrete insights on tools, pitfalls, and next steps for applying AI to conservation—what works now, what remains hard, and resources to explore further."
+description: Discover AI-driven computer vision and remote sensing strategies to scale
+  biodiversity monitoring, improve species ID, and inform conservation policy.
+intro: How can AI help close critical data gaps in biodiversity monitoring and turn
+  images and sensor data into actionable conservation decisions? In this episode Tanya
+  Berger-Wolf, a computational ecologist, director of TDAI@OSU, and co-founder of
+  the Wildbook project (Wild Me), walks through practical applications of AI for ecology,
+  biodiversity monitoring, and conservation. <br><br> We cover core techniques—computer
+  vision, machine learning, and remote sensing—and their use in image-based monitoring
+  with camera traps, drones, and species identification. Tanya explains individual
+  identification and longitudinal tracking, habitat mapping and change detection,
+  and the data challenges of labeling, class imbalance, and sparse observations. The
+  conversation addresses integration of heterogeneous datasets, model robustness (domain
+  shift and transfer learning), and ethical considerations including Indigenous knowledge
+  and equity. You’ll also hear about scalable platforms like Wildbook, citizen science
+  workflows for crowdsourcing and quality control, policy relevance, open data and
+  FAIR principles, edge deployment in the field, and building sustainable monitoring
+  programs. <br><br> Listen to gain concrete insights on tools, pitfalls, and next
+  steps for applying AI to conservation—what works now, what remains hard, and resources
+  to explore further.
 topics:
 - AI
 - computer vision
@@ -115,10 +133,6 @@ quotableClips:
 - name: 'Resources & Further Reading: Biodiversity and AI Report and Tools'
   startOffset: 3630
   url: https://www.youtube.com/watch?v=30tTrozbAkg&t=3630
-  endOffset: 3720
-- name: 'Episode Closing: Key Takeaways and Next Steps'
-  startOffset: 3720
-  url: https://www.youtube.com/watch?v=30tTrozbAkg&t=3720
   endOffset: 3720
 context: 'Context: The episode frames a biodiversity crisis made harder by fragmented,
   sparse data and limited monitoring capacity, then surveys AI tools (computer vision,
