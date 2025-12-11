@@ -25,9 +25,10 @@
   speakers: [sofyayulpatova]
   type: podcast
   link: https://luma.com/ncq946iy
+  youtube: https://www.youtube.com/watch?v=4bl2TSHD_Fc
 
 
-- time: 2025-12-15 17:00:00
+- time: 2026-01-06 12:30:00
   title: "Foundations of Analytics Engineer Role: Skills, Scope, and Modern Practices"
   speakers: [juanmanuelperafan]
   type: workshop
@@ -53,6 +54,7 @@
   speakers: [alexeygrigorev]
   type: workshop
   link: https://luma.com/qc5jj6c0
+  youtube: https://www.youtube.com/watch?v=lP8xXebHmuE
 
 
 - time: 2025-11-18 17:00:00
