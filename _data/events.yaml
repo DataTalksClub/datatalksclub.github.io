@@ -1,4 +1,11 @@
 
+- time: 2026-01-20 17:00:00
+  title: "Fact-Checking with Wikidata"
+  speakers: [philippesaade]
+  type: workshop
+  link: https://luma.com/7fs5v7os
+
+
 - time: 2025-12-15 17:00:00
   title: "Automated Prompt Optimization with Evidently AI"
   speakers: [mikhailsveshnikov]
