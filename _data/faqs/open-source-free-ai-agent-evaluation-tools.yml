@@ -1,0 +1,31 @@
+- question: "What's the difference between open-source and free AI agent evaluation tools?"
+  answer: |
+    Open-source tools like Arize Phoenix, DeepEval, and Ragas are fully public and self-hosted. You can inspect or modify code, use them at no cost, and run them locally or in your cloud environment. Free hosted services such as LangSmith's free tier or Arize AX's free tier provide a managed platform with UIs and storage, but may have usage limits.
+
+- question: "Do I need to pay to use these AI agent evaluation tools?"
+  answer: |
+    Most tools have free, open-source versions. OpenAI Evals, DeepEval, Ragas, Promptfoo, and Comet Opik, are completely free. Arize Phoenix is open-source; Arize AX has a free tier. LangSmith offers a free developer plan with 5k traces/month.
+
+- question: "Can these AI agent evaluation tools evaluate multi-step agents?"
+  answer: |
+    Yes. Tools like Arize Phoenix and Arize AX, LangSmith, DeepEval, Ragas, and Opik are built for multi-turn, multi-tool agents. They can trace an entire agent trajectory and compute metrics on full sessions.
+
+- question: "Can I use multiple AI agent evaluation tools together?"
+  answer: |
+    Yes. They serve complementary needs. For example, OpenAI Evals or DeepEval can handle offline benchmarking, while Arize or Opik can monitor live traffic. Promptfoo can be used in CI pipelines for security checks.
+
+- question: "Do these tools support custom evaluation metrics?"
+  answer: |
+    Yes. Nearly all tools allow user-defined metrics. Arize Phoenix and Arize AX both support LLM-judge rubrics or Python or TypeScript code. Ragas supports custom Python metrics via callbacks or decorators.
+
+- question: "Which AI agent evaluation tool has the best TypeScript support?"
+  answer: |
+    Arize Phoenix and Arize AX provide dedicated TypeScript (Node) SDKs for instrumentation and evaluation. Promptfoo and LangSmith are primarily CLI/web tools but integrate with any codebase.
+
+- question: "Are these AI agent evaluation tools truly free?"
+  answer: |
+    All listed tools are free to use; open-source ones have permissive licenses. Some, like Arize AX or LangSmith, have paid tiers but offer generous free plans. Scoring may involve LLM calls, which can incur API costs, but the frameworks themselves don't charge.
+
+- question: "What's the difference between observability and evaluation in AI agent tools?"
+  answer: |
+    Observability captures what the agent is doing in real time through tracing, logging, and dashboards. Evaluation measures quality against criteria or ground truth. Tools like Arize and Opik combine both by logging traces and attaching evaluators.
