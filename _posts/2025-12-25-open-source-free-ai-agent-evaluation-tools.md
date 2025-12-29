@@ -353,3 +353,6 @@ A range of open-source tools helps cover this space.
 ## FAQs
 
 {% include faq-accordion.html faqs=site.data.faqs.open-source-free-ai-agent-evaluation-tools %}
+
+<em>This post is sponsored by [Arize](https://arize.com/){:target="_blank"}.
+We thank the [Arize](https://arize.com/) team for their ongoing support of the community.</em>
