@@ -11,9 +11,14 @@
   from: 2025-01-01 00:00:00
   to: 2026-01-01 00:00:00
 
-- name: "Arize AI"
-  link: https://arize.com/model-monitoring/
-  image: /images/partners/arize.png
+# - name: "Arize AI"
+#   link: https://arize.com/model-monitoring/
+#   image: /images/partners/arize.png
+#   from: 2022-09-01 00:00:00
+#   to: 2023-09-01 00:00:00
+
+- name: "Kestra.io"
+  link: https://kestra.io/
+  image: /images/partners/kestra.png
   from: 2022-09-01 00:00:00
   to: 2023-09-01 00:00:00
-
