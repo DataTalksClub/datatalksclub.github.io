@@ -31,7 +31,7 @@ We currently have six free courses:
 * **[Data Engineering Zoomcamp](/blog/data-engineering-zoomcamp.html)** on data engineering, covering aspects like pipelines, warehouses, orchestration, and analytics infrastructure
 * **[MLOps Zoomcamp](/blog/mlops-zoomcamp.html)** on MLOps or ML operations that involve monitoring, automation, and operationalizing ML models and systems in production
 * **[LLM Zoomcamp](/blog/llm-zoomcamp.html)** on building AI applications with large language models (LLMs), combining them with RAG and using them to build AI agents
-* **[AI Dev Tools Zoomcamp](/blog/ai-dev-tools-zoomcamp.html)** on using AI tools like AI chatbots, IDE integrations, and AI agents to accelerate the processes that involve working with code
+* **[AI Dev Tools Zoomcamp](/blog/ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html)** on using AI tools like AI chatbots, IDE integrations, and AI agents to accelerate the processes that involve working with code
 * **[Stock Market Analytics Zoomcamp](https://pythoninvest.com/course)** on stock market trading, Python programming in Colab, analytics, and data visualisation.
 
 Across all zoomcamps you work with practical tooling like Python, Docker, cloud services, modern frameworks, and deliver portfolio-ready projects.
