@@ -1,7 +1,7 @@
 ---
 short: joycekayavila
 title: "Joyce Kay Avila"
-picture: "images/authors/joycekayavila.jpg"
+picture: "images/authors/joycekayavila.jpeg"
 linkedin: joycekayavila
 
 ---
