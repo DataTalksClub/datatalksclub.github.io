@@ -1,4 +1,18 @@
 
+- time: 2026-01-27 17:00:00
+  title: "Analytics Engineering with dbt Workshop"
+  speakers: [juanmanuelperafan]
+  type: workshop
+  link: https://luma.com/c8c55og5
+
+
+- time: 2026-02-17 17:00:00
+  title: "From APIs to Warehouses: AI-Assisted Data Ingestion with dlt"
+  speakers: [ aashishnair]
+  type: workshop
+  link: https://luma.com/hzis1yzp
+
+
 - time: 2026-01-20 17:00:00
   title: "Fact-Checking with Wikidata"
   speakers: [philippesaade]
