@@ -20,3 +20,10 @@ run:
 
 runinc:
 	bundle exec jekyll serve --incremental
+
+build-rust:
+	cargo build --release
+	./target/release/ssg
+
+serve-rust: build-rust
+	cd _site && python3 -m http.server 4000
