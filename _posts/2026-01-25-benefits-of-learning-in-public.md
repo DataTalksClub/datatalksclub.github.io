@@ -20,11 +20,8 @@ Over the years, I’ve [interviewed over 200 practitioners and learners](/podcas
 Here are the podcast episodes referenced throughout this post:
 
 - [Learn in Public: Personal Branding & Career Marketing for Developers](/podcast/developer-personal-brand-learn-in-public.html) with [Shawn Wang](/people/shawnwang.html) (Creator of the Latent.Space)
-
 - [Master Technical Writing: 7-Day Workflow to Accelerate Your Data Science Career](/podcast/technical-writing-for-data-scientists.html) with [Eugene Yan](/people/eugeneyan.html)
-
 - [Build a Personal Brand: Publish on LinkedIn/Medium, Grow Audience, Monetize with Online Courses](/podcast/personal-brand-for-data-professionals.html) with [Admond Lee Kin Lim](/people/admondleekinlim.html)
-
 - [From Developer to Startup Founder: Building a Career Through Open Source](/podcast/open-source-turned-into-career-and-startup-creation.html) with Will McGugan
 - [From Medicine to Machine Learning](/podcast/nonlinear-path-to-machine-learning-freelancing-and-public-learning.html) with [Pastor Soto](/people/pastorsoto.html) (Zoomcamp Graduate)
 - [From Classical Guitar to Production ML](/podcast/from-semiconductor-data-to-applied-machine-learning.html) with [Dashel Ruiz Perez](/people/dashelruizperez.html) (Zoomcamp Graduate)
