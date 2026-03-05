@@ -33,21 +33,14 @@ Here are the podcast episodes referenced throughout this post:
 
 ## Benefits of Learning in Public
 
-1.  [Visibility and Career Opportunities](#visibility-and-career-opportunities): You increase the chance that recruiters, employers, or collaborators notice your work and reach out with opportunities you did not actively seek.
-
-2.  [Faster Skill Development](#faster-skill-development): Explaining what you learn in public forces you to clarify your understanding, identify knowledge gaps, and internalize concepts more effectively.
-
-3.  [Feedback and Peer Learning](#feedback-and-peer-learning): Public learning invites feedback from others working on similar problems, which helps you correct mistakes and learn alternative approaches.
-
-4.  [Credibility Over Time](#credibility-over-time): Consistent public sharing builds a track record that signals competence and reliability, making others more likely to trust your skills.
-
-5.  [Accountability and Motivation](#accountability-and-motivation): When progress is visible to others, it creates external pressure that helps you stay consistent and complete long or challenging learning goals.
-
-6.  [Support When You’re Stuck](#support-when-youre-stuck): Sharing difficulties openly increases the likelihood of receiving timely help and reduces the isolation that often slows learning.
-
-7.  [A Visible Portfolio](#visible-portfolio): Public artifacts such as posts, code, or projects provide concrete evidence of your skills that others can directly evaluate.
-
-8.  [Beyond Jobs: Unexpected Opportunities](#beyond-jobs-unexpected-opportunities): Learning in public can lead to unplanned outcomes such as collaborations, speaking invitations, or business opportunities that would be unlikely through private learning alone.
+1. [Visibility and Career Opportunities](#visibility-and-career-opportunities): You increase the chance that recruiters, employers, or collaborators notice your work and reach out with opportunities you did not actively seek.
+2. [Faster Skill Development](#faster-skill-development): Explaining what you learn in public forces you to clarify your understanding, identify knowledge gaps, and internalize concepts more effectively.
+3. [Feedback and Peer Learning](#feedback-and-peer-learning): Public learning invites feedback from others working on similar problems, which helps you correct mistakes and learn alternative approaches.
+4. [Credibility Over Time](#credibility-over-time): Consistent public sharing builds a track record that signals competence and reliability, making others more likely to trust your skills.
+5. [Accountability and Motivation](#accountability-and-motivation): When progress is visible to others, it creates external pressure that helps you stay consistent and complete long or challenging learning goals.
+6. [Support When You’re Stuck](#support-when-youre-stuck): Sharing difficulties openly increases the likelihood of receiving timely help and reduces the isolation that often slows learning.
+7. [A Visible Portfolio](#visible-portfolio): Public artifacts such as posts, code, or projects provide concrete evidence of your skills that others can directly evaluate.
+8. [Beyond Jobs: Unexpected Opportunities](#beyond-jobs-unexpected-opportunities): Learning in public can lead to unplanned outcomes such as collaborations, speaking invitations, or business opportunities that would be unlikely through private learning alone.
 
 Let’s cover each of them in more detail.
 
@@ -160,9 +153,6 @@ Sometimes, learning in public leads to outcomes you didn’t plan for.
 Will McGugan shared how public demos of his open-source work attracted unexpected investor attention. One widely shared post led to inbound outreach from venture capitalists and eventually a pre-seed funding round.
 
 This is not something you can optimize for directly. But public works increase the surface area for these opportunities to occur.
-
-> If you’re a Zoomcamp participant or graduate and learning in public had any influence on your career journey, I’d be curious to hear your story. Reply to this email or leave a comment under this post.
-
 
 ## Project Idea: Treat Your Social Media as a Side Project
 
