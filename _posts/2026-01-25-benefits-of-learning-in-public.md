@@ -6,10 +6,11 @@ authors:
 description: "How sharing your learning publicly leads to feedback, visibility, and real opportunities"
 image: images/posts/2026-01-25-benefits-of-learning-in-public-and-why-it-works/cover.jpg
 layout: post
-date: 2026-12-25
+date: 2026-01-25
 tags:
 - learning-in-public
-datepublished: '2026-12-25'
+- zoomcamp
+datepublished: '2026-01-25'
 ---
 
 At [DataTalks.Club free Zoomcamps](/blog/free-datatalksclub-courses-zoomcamps.html), I encourage participants to share their learning progress publicly: post their learning notes, code, and projects on LinkedIn, Medium, or other online platforms. I’ve noticed that those who share their progress tend to stay more engaged and gain benefits beyond just the course. Many podcast guests have also spoken about the advantages of publicly sharing work.
