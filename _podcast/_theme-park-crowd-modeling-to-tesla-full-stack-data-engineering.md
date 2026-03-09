@@ -1,3 +1,4 @@
+_
 ---
 title: "From Theme Parks to Tesla: Building Data Products Through Applied ML and Full-Stack Engineering"
 short: "From Theme Parks to Tesla: Building Data Products That Work"
