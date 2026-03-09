@@ -11,7 +11,7 @@ links:
   apple: https://podcasts.apple.com/us/podcast/the-future-of-ai-agents-aditya-gautam/id1541710331?i=1000753680241
   spotify: https://open.spotify.com/episode/5EudjtdqzbIlXjeHoL0GUd
   youtube: https://www.youtube.com/watch?v=vcm3gRjNY2I
-season: 22
+season: 23
 short: The Future of AI Agents
 title: The Future of AI Agents
 transcript:
