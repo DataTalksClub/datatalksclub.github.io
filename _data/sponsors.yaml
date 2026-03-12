@@ -2,12 +2,14 @@
 - name: "dltHub"
   link: https://dlthub.com/
   image: /images/partners/dlthub.png
+  width: 180
   from: 2025-01-01 00:00:00
   to: 2026-01-01 00:00:00
 
 - name: "Astronomer"
   link: https://www.astronomer.io/
   image: /images/partners/astronomer.png
+  width: 350
   from: 2025-01-01 00:00:00
   to: 2026-01-01 00:00:00
 
@@ -22,3 +24,9 @@
   image: /images/partners/kestra.png
   from: 2022-09-01 00:00:00
   to: 2023-09-01 00:00:00
+
+- name: "Snowplow"
+  link: https://snowplow.io/
+  image: /images/partners/snowplow.png
+  from: 2026-03-01 00:00:00
+  to: 2027-03-01 00:00:00

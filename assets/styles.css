@@ -445,8 +445,8 @@ code {
 }
 
 img.partner {
-  max-height: 100px;
-  max-width: 300px;
+  max-height: 180px;
+  max-width: 100%;
 }
 
 

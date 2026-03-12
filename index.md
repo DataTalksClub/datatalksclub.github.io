@@ -83,7 +83,7 @@ layout: home
     {% for sponsor in site.data.sponsors %}
       <div class="my-3 col-md-6" style="display: flex">
         <a href="{{ sponsor.link }}" style="margin: auto" target="_blank" rel="noopener noreferrer">
-          <img src="{{ sponsor.image }}" class="partner" alt="{{ sponsor.name | default: 'Sponsor logo' }}">
+          <img src="{{ sponsor.image }}" class="partner" alt="{{ sponsor.name | default: 'Sponsor logo' }}" {% if sponsor.width %}width="{{ sponsor.width }}"{% endif %}>
         </a>
       </div>
     {% endfor %}

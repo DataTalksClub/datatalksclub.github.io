@@ -32,4 +32,5 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
 end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+# wdm 0.1.1 doesn't compile on Ruby 3.2+ — not needed for basic serving
+# gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?

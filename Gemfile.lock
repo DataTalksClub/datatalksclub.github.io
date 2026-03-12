@@ -265,7 +265,6 @@ GEM
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
     uri (1.0.3)
-    wdm (0.1.1)
     webrick (1.9.1)
     zeitwerk (2.7.3)
 
@@ -280,7 +279,6 @@ DEPENDENCIES
   jekyll-theme-cayman
   tzinfo (~> 1.2)
   tzinfo-data
-  wdm (~> 0.1.1)
 
 BUNDLED WITH
    2.2.32
