@@ -116,7 +116,7 @@ You can visualize the block diagram of the Xception model by running this code:
 >
 > visualkeras.layered_view(model, legend=True)
 >
-> <figure>
+<figure>
 <img src="/images/posts/2025-08-05-how-to-build-waste-classifier-case-study-from-ml-zoomcamp/image10.png"  />
 <figcaption>This diagram illustrates that the model comprises an input layer, a functional layer, GlobalAveragePooling2D layers, and a dense layer.</figcaption>
 </figure>
@@ -239,8 +239,7 @@ This sends a POST request with an image to the /predict endpoint, and the model 
 
 I created a simple HTML web interface where a user can upload an image, click a button, and receive a classification result. This interface is connected to the same backend. At localhost:9696
 
-> <figure>
+<figure>
 <img src="/images/posts/2025-08-05-how-to-build-waste-classifier-case-study-from-ml-zoomcamp/image8.png"  />
-<figcaption><blockquote></blockquote></figcaption>
+<figcaption>Screenshot of the web interface and the result after uploading an image from the Internet.</figcaption>
 </figure>
-> Screenshot of the web interface and the result after uploading an image from the Internet.
