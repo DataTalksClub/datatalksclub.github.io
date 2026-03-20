@@ -1,0 +1,24 @@
+name: Validate events YAML
+
+on:
+  push:
+    paths:
+      - '_data/events.yaml'
+  pull_request:
+    paths:
+      - '_data/events.yaml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.12'
+      - name: uv install
+        run: |
+          pip install uv
+          uv sync
+      - name: Validate events YAML
+        run: uv run python scripts/validate_events_yaml.py

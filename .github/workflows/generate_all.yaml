@@ -29,6 +29,8 @@ jobs:
         run: |
           (cd previews && \
             PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true npm install)
+      - name: Validate events YAML
+        run: uv run python scripts/validate_events_yaml.py
       - name: make all
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}

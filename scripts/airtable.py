@@ -308,7 +308,10 @@ def find_matching_podcasts_youtube(youtube_id):
         if 'youtube' not in event:
             continue
 
-        event_youtube_url = event['youtube'].strip()
+        event_youtube_url = event.get('youtube')
+        if not event_youtube_url:
+            continue
+        event_youtube_url = event_youtube_url.strip()
         if '?v=' not in event_youtube_url:
             print(f'wrong url: {event_youtube_url}, skipping it...')
             continue
