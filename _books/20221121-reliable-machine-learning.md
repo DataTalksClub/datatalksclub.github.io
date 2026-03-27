@@ -299,7 +299,7 @@ archive:
   replies:
   - name: Niall Murphy
     text: "if you don\u2019t have an SRE background, you might like to get started\
-      \ with one of the big two beforehand.\nafterwards? maybe [https://www.oreilly.com/library/view/practical-fairness/9781492075721/?_gl=1*95hemv*_ga*MTA2ODM2NTQzNi4xNjU1NjQ3NTg4*_ga_092EL089CH*MTY3MDI2NTc4Ny4zLjEuMTY3MDI2NTg2NS41Ny4wLjA](https://www.oreilly.com/library/view/practical-fairness/9781492075721/?_gl=1*95hemv*_ga*MTA2ODM2NTQzNi4xNjU1NjQ3NTg4*_ga_092EL089CH*MTY3MDI2NTc4Ny4zLjEuMTY3MDI2NTg2NS41Ny4wLjA).\
+      \ with one of the big two beforehand.\nafterwards? maybe [https://www.oreilly.com/library/view/practical-fairness/9781492075721/](https://www.oreilly.com/library/view/practical-fairness/9781492075721/).\
       \ if you want to investigate fairness more.\notherwise, uh, i dunno. you\u2019\
       ll probably be quite tired. calvin &amp; hobbes maybe?"
   - name: Cathy Chen (she/her)
