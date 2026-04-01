@@ -8,4 +8,8 @@ linkedin: hendorf
 
 ---
 
-Alexander Hendorf is responsible for data and artificial intelligence at the boutique consultancy KÖNIGSWEG GmbH. Through his commitment as a speaker and chair of various international conferences as PyConDE & PyData Berlin, he is a proven expert in the field of data intelligence. He's been appointed Python Software Foundation and EuroPython fellow for this various contributions. He has many years of experience in the practical application, introduction and communication of data and AI-driven strategies and decision-making processes.
+Alexander Hendorf is an independent AI strategy consultant specialising in regulated industries — finance, insurance, and critical infrastructure. Through opotoc GmbH, he advises organisations on building durable AI foundations rather than patchwork implementations.
+
+He is head of PyCon DE & PyData, Europe's leading conference for applied AI and Open Source, and initiator of Pioneers Hub. A PSF Fellow and EuroPython Fellow, he also serves on the board of the Python Software Verband and founded the AG Open Source within Germany's KI Bundesverband in 2026.
+
+With over a decade of enterprise consulting and 100+ conference appearances, he focuses on the intersection of AI strategy, Open Source sovereignty, and practical deployment in high-compliance environments.
