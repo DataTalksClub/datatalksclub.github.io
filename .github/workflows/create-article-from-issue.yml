@@ -49,8 +49,10 @@ jobs:
 
       - name: Extract information from Issue
         id: extract
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
-          echo "${{ github.event.issue.body }}" > issue_body.txt
+          echo "$ISSUE_BODY" > issue_body.txt
         
           echo "Extracted issue body:"
           cat issue_body.txt
@@ -86,34 +88,43 @@ jobs:
           rm issue_body.txt
 
       - name: Run the article generation script
+        env:
+          FILEID: ${{ steps.extract.outputs.fileid }}
+          AUTHOR: ${{ steps.extract.outputs.author }}
+          TAGS: ${{ steps.extract.outputs.tags }}
         run: |
           uv run python scripts/pandoc_google_doc.py \
-            --fileid "${{ steps.extract.outputs.fileid }}" \
-            --author "${{ steps.extract.outputs.author }}" \
-            --tags "${{ steps.extract.outputs.tags }}"
+            --fileid "$FILEID" \
+            --author "$AUTHOR" \
+            --tags "$TAGS"
 
       - name: Commit and push generated article
+        env:
+          FILEID: ${{ steps.extract.outputs.fileid }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          BRANCH="articles/${{ steps.extract.outputs.fileid }}"
+          BRANCH="articles/$FILEID"
           git checkout -b "$BRANCH"
 
           git add .
-          git commit -m "Generated article from Google Doc ID: ${{ steps.extract.outputs.fileid }}"
+          git commit -m "Generated article from Google Doc ID: $FILEID"
           git push origin "$BRANCH"
 
       - name: Create Pull Request
         id: create_pr
-        run: |
-          gh pr create \
-            --title "Article draft: ${{ steps.extract.outputs.title }}" \
-            --body "This PR was automatically generated from issue #${{ github.event.issue.number }}. Closes #${{ github.event.issue.number }}" \
-            --head "articles/${{ steps.extract.outputs.fileid }}" \
-            --base main 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ARTICLE_TITLE: ${{ steps.extract.outputs.title }}
+          FILEID: ${{ steps.extract.outputs.fileid }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh pr create \
+            --title "Article draft: $ARTICLE_TITLE" \
+            --body "This PR was automatically generated from issue #$ISSUE_NUMBER. Closes #$ISSUE_NUMBER" \
+            --head "articles/$FILEID" \
+            --base main
       - name: Comment on the original Issue
         uses: peter-evans/create-or-update-comment@v3
         with:
