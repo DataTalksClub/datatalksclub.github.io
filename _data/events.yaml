@@ -1,4 +1,11 @@
 
+- time: 2026-04-21 17:00:00
+  title: "Competitions: Beyond the Kaggle Leaderboard"
+  speakers: [tatianagabruseva]
+  type: podcast
+  link: https://luma.com/owbb0d9b
+
+
 - time: 2026-04-28 17:00:00
   title: "Evaluating AI Coding Agents with TeamCity and SWE-bench"
   speakers: [ernsthaagsman]
