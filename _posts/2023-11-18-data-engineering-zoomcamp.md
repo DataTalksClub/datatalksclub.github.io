@@ -3,8 +3,7 @@ title: 'Data Engineering Zoomcamp: Free Data Engineering Course and Certificatio
 subtitle: 'Become a Data Engineer: Master Modern Data Engineering with Hands-On Training'
 description: Free data engineering course with certificate. Learn Python, SQL, dbt,
   Kafka, and Spark. Build production pipelines, earn a certificate.
-image: images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.jpeg
-date: 2025-11-25
+image: images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.png
 authors:
 - valeriiakuka
 tags:
@@ -18,6 +17,7 @@ related_posts:
 - ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html
 layout: post
 datepublished: '2023-11-18'
+date: 2026-04-21
 ---
 
 Breaking into data engineering takes real, hands-on experience with production tools, but most courses stop at theory.
@@ -25,7 +25,7 @@ Breaking into data engineering takes real, hands-on experience with production t
 The Data Engineering Zoomcamp changes that. It's a free data engineering course that teaches you how to build production-grade data pipelines from start to finish. You'll work with Docker, Terraform, BigQuery, dbt, Spark, and Kafka, and graduate with a portfolio project and a certificate.
 
 <figure>
-<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.jpeg" alt="Free Data Engineering Zoomcamp 2026 course curriculum - 9-week program covering Docker, Terraform, BigQuery, dbt, Spark, and Kafka for building production data pipelines" title="Data Engineering Zoomcamp Course Curriculum Overview" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.png" alt="Free Data Engineering Zoomcamp 2026 course curriculum - 9-week program covering Docker, Terraform, BigQuery, dbt, Spark, and Kafka for building production data pipelines" title="Data Engineering Zoomcamp Course Curriculum Overview" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
 <figcaption><p>Complete Data Engineering Zoomcamp curriculum: from infrastructure setup to stream processing</p></figcaption>
 </figure>
 
@@ -138,14 +138,19 @@ The course follows a logical progression from infrastructure setup to advanced d
 <td style="padding: 12px; border: 1px solid #dee2e6;">dbt, BI tools</td>
 </tr>
 <tr>
-<td style="padding: 12px; border: 1px solid #dee2e6;">5. Batch Processing</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">• Process large-scale data with Apache Spark<br>• Master Spark SQL and DataFrame operations<br>• Optimize batch processing workflows</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Apache Spark, Spark SQL</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">5. Data Platforms</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">• Building end-to-end data pipelines with Bruin<br>• Data ingestion, transformation, and quality<br>• Deployment to cloud (BigQuery)</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Bruin, BigQuery</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
-<td style="padding: 12px; border: 1px solid #dee2e6;">6. Stream Processing</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">• Build real-time data pipelines with Kafka<br>• Develop streaming applications using KSQL and Faust<br>• Implement stream processing patterns</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Kafka, KSQL, Faust</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">6. Batch Processing</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">• Introduction to Apache Spark<br>• DataFrames and SQL<br>• Internals of GroupBy and Joins</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Apache Spark, Spark SQL</td>
+</tr>
+<tr>
+<td style="padding: 12px; border: 1px solid #dee2e6;">7. Streaming</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">• Introduction to Kafka<br>• Kafka Streams and KSQL<br>• Schema management with Avro</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Kafka, Kafka Streams, KSQL, Avro</td>
 </tr>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Final Project</td>
