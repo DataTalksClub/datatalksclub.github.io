@@ -1,4 +1,46 @@
 
+- time: 2026-06-08 17:00:00
+  title: "LLM Zoomcamp 2026 Course Launch"
+  speakers: [alexeygrigorev]
+  type: webinar
+  link: https://luma.com/yqpx18b5
+
+
+- time: 2026-06-03 17:00:00
+  title: "Monitoring LLM Applications: Traces, Feedback, and Production Quality"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://luma.com/w708z26f
+
+
+- time: 2026-05-27 17:00:00
+  title: "RAG and Agents Evaluation: Measuring Retrieval and LLM Answer Quality"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://luma.com/dkrpn616
+
+
+- time: 2026-05-21 17:00:00
+  title: "Vector Databases: Embeddings, Semantic Search, and Hybrid Retrieval"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://luma.com/mipmoo7l
+
+
+- time: 2026-05-18 17:00:00
+  title: "From RAG to AI Agents: Function Calling and Tool Use"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://luma.com/pait9jv4
+
+
+- time: 2026-05-11 17:00:00
+  title: "Build Your First RAG Application with LLMs"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://luma.com/7bsj2ssy
+
+
 - time: 2026-05-12 17:00:00
   title: "From Notebook to Production: Building End-to-End AI Systems"
   speakers: [marianosemelman]
