@@ -1,0 +1,56 @@
+name: Deploy site to Pages
+
+env:
+  RUSTKYLL_VERSION: v0.4.6
+  RUSTKYLL_LINUX_AMD64_SHA256: 8a8d05b5056cb34bd59a76f7952be48e7d6cb93782821c4a688f13a7908185f5
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Install Rustkyll
+        run: |
+          mkdir -p .bin
+          curl -fsSL \
+            "https://github.com/alexeygrigorev/rustkyll/releases/download/${RUSTKYLL_VERSION}/rustkyll-linux-amd64" \
+            -o .bin/rustkyll
+          echo "${RUSTKYLL_LINUX_AMD64_SHA256}  .bin/rustkyll" | sha256sum -c -
+          chmod +x .bin/rustkyll
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v6
+      - name: Build with Rustkyll
+        run: .bin/rustkyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

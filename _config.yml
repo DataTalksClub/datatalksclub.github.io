@@ -1,4 +1,3 @@
-theme: jekyll-theme-cayman
 url: https://datatalks.club
 name: DataTalks.Club
 title: DataTalks.Club
@@ -6,8 +5,10 @@ twitter: '@DataTalksClub'
 permalink: /blog/:title.html
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
+  - _site/
+  - .bin/
+  - .rustkyll/
+  - .rustkyll-manifest.json
   - node_modules/
   - README.md
   - previews/
