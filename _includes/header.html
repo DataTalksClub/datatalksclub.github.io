@@ -5,22 +5,22 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 
-<div class="fixed-top announcement">
+{% assign announcement_key = site.data.header.announcement.text | append: site.data.header.announcement.link | slugify %}
+<div class="fixed-top announcement" id="site-announcement" data-announcement-key="{{ announcement_key }}">
   <div class="container">
-    <div class="row text-center">
-      <div class="col">
-        <nobr>{{ site.data.header.announcement.text }}</nobr>
-        <nobr>
-          <a href="{{ site.data.header.announcement.link }}" target="_blank">
-            {{ site.data.header.announcement.link_text }}
-          </a>
-        </nobr>
+    <div class="announcement-content">
+      <div class="announcement-message">
+        <span>{{ site.data.header.announcement.text }}</span>
+        <a href="{{ site.data.header.announcement.link }}" target="_blank">
+          {{ site.data.header.announcement.link_text }}
+        </a>
       </div>
+      <button class="announcement-dismiss" type="button" aria-label="Dismiss announcement">X</button>
     </div>
   </div>
-</div>  
+</div>
 
-<div class="header-container-margin container">
+<div class="header-container-margin container" id="site-header-container">
 {% else %}
 <div class="container">
 {% endif %}
@@ -40,3 +40,39 @@
     </div>
   </div>
 </div>
+
+{% if site.data.header.announcement %}
+<script>
+  (function () {
+    var announcement = document.getElementById('site-announcement');
+    var header = document.getElementById('site-header-container');
+    if (!announcement || !header) {
+      return;
+    }
+
+    var storageKey = 'dtc-announcement-dismissed-' + announcement.dataset.announcementKey;
+
+    function dismissAnnouncement() {
+      announcement.classList.add('announcement-hidden');
+      header.classList.remove('header-container-margin');
+      try {
+        window.localStorage.setItem(storageKey, 'true');
+      } catch (error) {
+      }
+    }
+
+    try {
+      if (window.localStorage.getItem(storageKey) === 'true') {
+        announcement.classList.add('announcement-hidden');
+        header.classList.remove('header-container-margin');
+      }
+    } catch (error) {
+    }
+
+    var dismissButton = announcement.querySelector('.announcement-dismiss');
+    if (dismissButton) {
+      dismissButton.addEventListener('click', dismissAnnouncement);
+    }
+  })();
+</script>
+{% endif %}
