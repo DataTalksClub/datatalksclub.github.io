@@ -252,7 +252,7 @@ body, html {
   gap: 0.75rem;
   justify-content: center;
   min-height: 2.5rem;
-  padding: 0.35rem 2rem;
+  padding: 0.35rem 1.5rem;
   position: relative;
   text-align: center;
 }
@@ -270,25 +270,47 @@ body, html {
   align-items: center;
   background: transparent;
   border: 0;
-  color: #2c573e;
   cursor: pointer;
   display: inline-flex;
-  font: inherit;
-  font-size: 1rem;
-  height: 1.75rem;
+  height: 1.25rem;
   justify-content: center;
-  line-height: 1;
   padding: 0;
   position: absolute;
-  right: 0.25rem;
+  right: 0;
   top: 50%;
   transform: translateY(-50%);
-  width: 1.75rem;
+  width: 1.25rem;
 }
 
-.announcement-dismiss:hover,
+.announcement-dismiss span,
+.announcement-dismiss span::before {
+  background-color: rgba(44, 87, 62, 0.55);
+  border-radius: 999px;
+  content: "";
+  display: block;
+  height: 1px;
+  position: absolute;
+  width: 0.75rem;
+}
+
+.announcement-dismiss span {
+  transform: rotate(45deg);
+}
+
+.announcement-dismiss span::before {
+  transform: rotate(90deg);
+}
+
+.announcement-dismiss:hover span,
+.announcement-dismiss:hover span::before,
+.announcement-dismiss:focus span,
+.announcement-dismiss:focus span::before {
+  background-color: #2c573e;
+}
+
 .announcement-dismiss:focus {
-  color: #0069ff;
+  outline: 1px solid rgba(44, 87, 62, 0.35);
+  outline-offset: 2px;
 }
 
 .wip {
