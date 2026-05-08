@@ -1,12 +1,10 @@
 /tmp/
 .ipynb_checkpoints/
-.jekyll-cache/
 .bin/
 .rustkyll/
 *.ipynb
 /_site/
 /previews/node_modules/
-.jekyll-metadata
 /env
 /scripts/ubuntu-env/
 .envrc

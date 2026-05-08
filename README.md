@@ -6,7 +6,7 @@ This repository contains the source code and content for [datatalks.club](https:
 
 - Static website built with [Rustkyll](https://github.com/alexeygrigorev/rustkyll)
 - Content-first structure: markdown, data files, and reusable templates
-- Main entities are modeled as Jekyll collections (`_posts`, `_podcast`, `_books`, `_people`, etc.)
+- Main entities are modeled as collections (`_posts`, `_podcast`, `_books`, `_people`, etc.)
 - Navigation, events, announcements, and sponsors are managed via YAML files in `_data`
 
 ## Main pages on the website

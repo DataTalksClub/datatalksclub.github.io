@@ -1,7 +1,7 @@
 """
 Airtable Integration Script for DataTalksClub Website
 
-This script automates content management by syncing data from Airtable to the Jekyll site.
+This script automates content management by syncing data from Airtable to the Rustkyll site.
 It pulls records from Airtable tables and generates corresponding website content including
 people profiles, book reviews, podcast episodes, and events.
 

@@ -1,2 +1,0 @@
----
-BUNDLE_SPECIFIC_PLATFORM: "true"
