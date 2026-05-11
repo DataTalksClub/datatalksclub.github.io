@@ -58,7 +58,7 @@ If you're an ML engineer, data scientist, or software developer working with ML 
 
 MLOps Zoomcamp is a free MLOps course that takes you from experiment tracking to production deployment in 6 modules plus a portfolio project.
 
-You'll learn infrastructure setup with Docker and AWS, experiment tracking with MLflow, pipeline orchestration with Mage, model deployment (batch, real-time, and streaming), monitoring with Prometheus and Evidently AI, and testing/CI/CD best practices.
+You'll learn infrastructure setup with Docker and AWS, experiment tracking with MLflow, pipeline orchestration concepts, model deployment (batch, real-time, and streaming), monitoring with Prometheus and Evidently AI, and testing/CI/CD best practices.
 
 The course culminates in a real-world project where you build, deploy, and monitor a complete ML pipeline that you can showcase to employers.
 
@@ -83,7 +83,7 @@ If you're comfortable with the command line and Python, and you have prior expos
 ## Course Curriculum
 
 <figure>
-<img src="/images/posts/2024-03-07-mlops-zoomcamp/mlops-zoomcamp-course-curriculum-overview.png" alt="MLOps Zoomcamp course overview - complete journey through modern MLOps tools including Docker, AWS, MLflow, Mage, Prometheus, and Evidently AI for production machine learning" title="MLOps Zoomcamp Course Overview" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<img src="/images/posts/2024-03-07-mlops-zoomcamp/mlops-zoomcamp-course-curriculum-overview.png" alt="MLOps Zoomcamp course overview - complete journey through modern MLOps tools including Docker, AWS, MLflow, Prometheus, and Evidently AI for production machine learning" title="MLOps Zoomcamp Course Overview" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
 <figcaption><p>Course overview: a complete journey through modern MLOps tools and technologies</p></figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ The curriculum follows a logical progression from experimentation to production 
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">3</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Orchestration & ML Pipelines</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Create reproducible pipelines and manage dependencies end-to-end</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Mage, Airflow, Prefect</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Pipeline orchestration concepts and best practices</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">4</td>
@@ -146,7 +146,7 @@ You'll:
 
 * **Choose a dataset** that interests you
 * **Train a model** and **track experiments** using MLflow or Weights & Biases
-* **Build an automated training pipeline** using tools like Mage, Airflow, or Prefect
+* **Build an automated training pipeline** using your preferred orchestration tool
 * **Deploy your model** as a batch job, web service, or streaming system
 * **Set up monitoring** with Evidently AI, Prometheus, or Grafana
 * **Implement CI/CD workflows** using GitHub Actions or GitLab CI/CD

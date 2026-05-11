@@ -77,7 +77,7 @@ Here's a table that summarizes the key information about each course. Use it to 
 <td style="padding: 12px; border: 1px solid #dee2e6;">Intermediate to Advanced</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">1+ year programming, ML exposure, Python, Docker</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Experiment tracking, pipelines, deployment, monitoring</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">MLFlow, FastAPI, AWS, Mage, Evidently AI</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">MLFlow, Flask, AWS, Evidently AI</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Automated ML deployment system with monitoring & alerts</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
@@ -277,7 +277,7 @@ Throughout the 9-week program, you'll master essential tools like Docker for con
 
 <figure>
 <img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/mlops-zoomcamp-overview.png" alt="MLOps Zoomcamp course overview diagram" title="MLOps Zoomcamp Course Overview - Complete Machine Learning Operations Lifecycle" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p>MLOps Zoomcamp course overview illustrating the complete machine learning operations lifecycle: experiment tracking with MLflow, orchestration and ML pipelines with Mage, model deployment with FastAPI and AWS, and production monitoring with Evidently AI</p></figcaption>
+<figcaption><p>MLOps Zoomcamp course overview illustrating the complete machine learning operations lifecycle: experiment tracking with MLflow, orchestration and ML pipelines, model deployment with Flask and AWS, and production monitoring with Evidently AI</p></figcaption>
 </figure>
 
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 1.5em;">
@@ -308,7 +308,7 @@ Throughout the 9-week program, you'll master essential tools like Docker for con
 </tr>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Tools/tech stack</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">MLFlow, FastAPI, AWS, Mage, Evidently AI</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">MLFlow, Flask, AWS, Evidently AI</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Who it's for</td>
@@ -331,7 +331,7 @@ Throughout the 9-week program, you'll master essential tools like Docker for con
 
 [MLOps Zoomcamp](https://datatalks.club/blog/mlops-zoomcamp.html) is a free MLOps course that covers the entire MLOps lifecycle: from experiment tracking and model management to deployment and monitoring. Designed for data scientists and ML engineers, the course teaches you how to operationalize machine learning models at scale.
 
-You'll learn to use MLflow for experiment tracking, build automated training pipelines with Mage, deploy models using FastAPI and AWS services, and set up comprehensive monitoring with Evidently AI. The course emphasizes best practices for testing, CI/CD integration, and maintaining ML systems in production, preparing you to build and manage reliable ML infrastructure.
+You'll learn to use MLflow for experiment tracking, build automated training pipelines, deploy models using Flask and AWS services, and set up comprehensive monitoring with Evidently AI. The course emphasizes best practices for testing, CI/CD integration, and maintaining ML systems in production, preparing you to build and manage reliable ML infrastructure.
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">

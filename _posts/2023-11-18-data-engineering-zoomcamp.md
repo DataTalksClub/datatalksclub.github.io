@@ -124,8 +124,8 @@ The course follows a logical progression from infrastructure setup to advanced d
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6;">2. Workflow Orchestration</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">• Master data pipeline orchestration with Mage.AI<br>• Implement and manage Data Lakes using Google Cloud Storage<br>• Build automated, reproducible workflows</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Mage.AI, Google Cloud Storage</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">• Master data pipeline orchestration with Kestra<br>• Implement and manage Data Lakes using Google Cloud Storage<br>• Build automated, reproducible workflows</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Kestra, Google Cloud Storage</td>
 </tr>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6;">3. Data Warehouse</td>

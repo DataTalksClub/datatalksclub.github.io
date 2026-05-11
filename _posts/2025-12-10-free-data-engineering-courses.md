@@ -239,7 +239,7 @@ Fully free data‑engineering courses that grant both complete access to materia
 3. **Level:** Intermediate (beginner‑friendly)
 4. **Prerequisites:** Comfort with the command line and basic SQL; Python experience helpful but not mandatory.
 5. **Key topics covered:** Infrastructure & prerequisites; workflow orchestration; data warehousing; analytics engineering; batch & stream processing; capstone project.
-6. **Tools/tech stack:** Docker, PostgreSQL, GCP & Terraform, Mage.AI, Google Cloud Storage, BigQuery, dbt, BI tools, Apache Spark & Spark SQL, Kafka, KSQL, Faust.
+6. **Tools/tech stack:** Docker, PostgreSQL, GCP & Terraform, Kestra, Google Cloud Storage, BigQuery, dbt, BI tools, Apache Spark & Spark SQL, Kafka, KSQL, Faust.
 7. **Format:** Free (open materials & certificate)
 8. **Duration:** 9‑week structured program
 9. **Certificate:** Free certificate after completion

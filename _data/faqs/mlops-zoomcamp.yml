@@ -2,7 +2,7 @@
   answer: |
     The MLOps Zoomcamp is a free, community-driven program by [DataTalks.Club](/) that teaches core MLOps skills through hands-on project work.
     
-    This 3-month course covers a comprehensive [curriculum](#course-curriculum) with all materials open and available anytime on [GitHub](https://github.com/DataTalksClub/mlops-zoomcamp). You'll work with an industry-standard stack including MLflow, Docker, AWS, Prometheus, Grafana, Mage, and GitHub Actions and earn a [certificate](#can-i-get-a-certificate).
+    This 3-month course covers a comprehensive [curriculum](#course-curriculum) with all materials open and available anytime on [GitHub](https://github.com/DataTalksClub/mlops-zoomcamp). You'll work with an industry-standard stack including MLflow, Docker, AWS, Prometheus, Grafana, and GitHub Actions and earn a [certificate](#can-i-get-a-certificate).
 
 - question: "What does zoomcamp mean?"
   answer: |
@@ -76,7 +76,7 @@
 
 - question: "What tools and technologies will I learn?"
   answer: |
-    The course covers essential MLOps tools and platforms including MLflow for experiment tracking, Docker for containerization, AWS services (including Kinesis), Prometheus and Grafana for monitoring, Mage for ML pipeline orchestration, and GitHub Actions for CI/CD.
+    The course covers essential MLOps tools and platforms including MLflow for experiment tracking, Docker for containerization, AWS services (including Kinesis), Prometheus and Grafana for monitoring, ML pipeline orchestration concepts, and GitHub Actions for CI/CD.
 
 - question: "How does MLOps experiment tracking work in this course?"
   answer: |
@@ -92,7 +92,7 @@
 
 - question: "What MLOps training does this course provide?"
   answer: |
-    This comprehensive training covers the complete machine learning operations lifecycle. You'll receive hands-on training in experiment tracking with MLflow, containerization with Docker, ML pipeline orchestration with Mage, model deployment (batch, real-time, and streaming), monitoring with Prometheus and Grafana, and CI/CD with GitHub Actions. The course includes 6 core technical modules, weekly homework assignments, and a final end-to-end project. This practical training prepares you for real-world production ML systems and is taught by expert instructors including Cristian Martinez, Alexey Grigorev, and Emeli Dral.
+    This comprehensive training covers the complete machine learning operations lifecycle. You'll receive hands-on training in experiment tracking with MLflow, containerization with Docker, ML pipeline orchestration concepts, model deployment (batch, real-time, and streaming), monitoring with Prometheus and Grafana, and CI/CD with GitHub Actions. The course includes 6 core technical modules, weekly homework assignments, and a final end-to-end project. This practical training prepares you for real-world production ML systems and is taught by expert instructors including Cristian Martinez, Alexey Grigorev, and Emeli Dral.
 
 - question: "Is this a free MLOps course with certificate?"
   answer: |
