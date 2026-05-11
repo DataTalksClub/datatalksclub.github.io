@@ -93,7 +93,7 @@ The course follows a practical, production-focused approach to building LLM appl
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">1</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Introduction to LLMs and RAG</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Build your first RAG pipeline with LLM fundamentals and text search</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">OpenAI API, Elasticsearch</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">OpenAI API, minsearch, sqlitesearch</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">2</td>

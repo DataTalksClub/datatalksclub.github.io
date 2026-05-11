@@ -69,7 +69,7 @@ Here's a table that summarizes the key information about each course. Use it to 
 <td style="padding: 12px; border: 1px solid #dee2e6;">Intermediate</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Coding skills, command line, basic SQL</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Pipelines, warehouses, orchestration, batch & streaming</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Docker, Postgres, BigQuery, dbt, Apache Spark, Apache Kafka</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Docker, Postgres, BigQuery, dbt, Apache Spark, Apache Kafka, Apache Flink</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Scalable data pipelines processing batch & streaming data</td>
 </tr>
 <tr>
@@ -113,17 +113,17 @@ Before diving into the individual courses, it’s helpful to understand how the 
 
 All zoomcamps follow the same core pattern:
 
-* **Pre-recorded lectures on YouTube** you can watch anytime
-* **Open-source materials on GitHub**, including code, notes, and homework
-* **Two learning formats**: fully **self-paced** or joining a **live cohort**
-* **A final project** you can include in your portfolio
+* Pre-recorded lectures on YouTube you can watch anytime
+* Open-source materials on GitHub, including code, notes, and homework
+* Two learning formats: fully self-paced or joining a live cohort
+* A final project you can include in your portfolio
 
 Each course is divided into modules. Every module covers one topic, adds a hands-on task, and gradually prepares you for the final project.
 
 The learning materials are identical across formats, but the experience differs:
 
-* In **self-paced** mode, you start anytime and progress at your own speed.
-* In a **live cohort**, you follow a weekly schedule with deadlines, peer-reviewed projects, and the option to earn a certificate.
+* In self-paced mode, you start anytime and progress at your own speed.
+* In a live cohort, you follow a weekly schedule with deadlines, peer-reviewed projects, and the option to earn a certificate.
 
 ## Machine Learning Zoomcamp
 
@@ -202,7 +202,7 @@ You'll work with industry-standard tools including Scikit-Learn, TensorFlow, and
 ## Data Engineering Zoomcamp
 
 <figure>
-<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.jpeg" alt="Data Engineering Zoomcamp 2026 curriculum overview diagram" title="Data Engineering Zoomcamp 2026 Course Curriculum - Complete 9-Week Data Pipeline Development Program" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<img src="/images/posts/2023-11-18-data-engineering-zoomcamp/course-overview.png" alt="Data Engineering Zoomcamp 2026 curriculum overview diagram" title="Data Engineering Zoomcamp 2026 Course Curriculum - Complete 9-Week Data Pipeline Development Program" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
 <figcaption><p>Data Engineering Zoomcamp 2026 9-week curriculum covering infrastructure setup with Docker and Terraform, workflow orchestration, data warehousing with BigQuery, analytics engineering with dbt, batch processing with Apache Spark, and stream processing with Apache Kafka</p></figcaption>
 </figure>
 
@@ -234,7 +234,7 @@ You'll work with industry-standard tools including Scikit-Learn, TensorFlow, and
 </tr>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Tools/tech stack</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Docker, Postgres, BigQuery, dbt, Apache Spark, Apache Kafka</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Docker, Postgres, BigQuery, dbt, Apache Spark, Apache Kafka, Apache Flink</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Who it's for</td>
@@ -612,7 +612,7 @@ DataTalks.Club Zoomcamps offer a different model compared to traditional tech bo
 <tbody>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600; vertical-align: top;">Cost</td>
-<td style="padding: 12px; border: 1px solid #dee2e6; vertical-align: top;">Completely free. No upsells, no paid tiers, no expiring access</td>
+<td style="padding: 12px; border: 1px solid #dee2e6; vertical-align: top;">Completely free</td>
 <td style="padding: 12px; border: 1px solid #dee2e6; vertical-align: top;">Typically $2,000-$12,000+, sometimes with financing or income-share agreements</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
