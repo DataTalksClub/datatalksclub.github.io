@@ -12,7 +12,7 @@ tags:
 - courses
 - mlops
 title: 'MLOps Zoomcamp: Free MLOps Course and Certification'
-date: 2025-11-25
+date: 2026-05-11
 related_posts:
 - guide-to-free-online-courses-at-datatalks-club.html
 - machine-learning-zoomcamp.html
@@ -260,6 +260,8 @@ Even if you join after the official start date, you can still follow along — b
 </div>
 
 ## Frequently Asked Questions
+
+For more details about how our courses work, check the [Zoomcamp logistics guide](https://datatalks.club/docs/courses/zoomcamp-logistics/){:target="_blank"}.
 
 {% include faq-accordion.html faqs=site.data.faqs.mlops-zoomcamp %}
 

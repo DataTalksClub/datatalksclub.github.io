@@ -12,7 +12,7 @@ authors:
 - valeriiakuka
 tags:
 - courses
-date: 2025-11-25
+date: 2026-05-11
 datepublished: '2024-04-11'
 ---
 
@@ -85,7 +85,7 @@ Here's a table that summarizes the key information about each course. Use it to 
 <td style="padding: 12px; border: 1px solid #dee2e6;">Intermediate</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Python, command line, Docker (no ML required)</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">LLMs, RAG, vector search, evaluation, production deployment</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">OpenAI API, LangChain, Hugging Face, Ollama, Qdrant, Elasticsearch</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">OpenAI API, minsearch, PGVector, Grafana, LangChain</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">AI chatbot that answers questions from your knowledge base</td>
 </tr>
 <tr>
@@ -351,7 +351,7 @@ You'll learn to use MLflow for experiment tracking, build automated training pip
 
 <figure>
 <img src="/images/posts/2024-04-11-guide-to-free-online-courses-at-datatalks-club/llm-zoomcamp-cover.png" alt="LLM Zoomcamp course cover" title="LLM Zoomcamp Course Cover - 10-Week Large Language Models and RAG Application Development" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p>LLM Zoomcamp 10-week program on building AI applications with large language models, covering RAG (retrieval-augmented generation), vector databases, evaluation techniques, and production deployment using OpenAI, LangChain, Hugging Face, and Ollama</p></figcaption>
+<figcaption><p>LLM Zoomcamp 10-week program on building AI applications with large language models, covering RAG (retrieval-augmented generation), vector search, evaluation techniques, and production deployment using OpenAI, PGVector, and Grafana</p></figcaption>
 </figure>
 
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 1.5em;">
@@ -382,7 +382,7 @@ You'll learn to use MLflow for experiment tracking, build automated training pip
 </tr>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Tools/tech stack</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">OpenAI API, LangChain, Hugging Face, Ollama, Qdrant, Elasticsearch</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">OpenAI API, minsearch, PGVector, Grafana, LangChain</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Who it's for</td>
@@ -405,7 +405,7 @@ You'll learn to use MLflow for experiment tracking, build automated training pip
 
 [LLM Zoomcamp](https://datatalks.club/blog/llm-zoomcamp.html) is a free course on building AI systems with large language models (LLMs). Over 10 weeks, you learn how to create an AI application that answers questions from your own knowledge base, from foundational concepts and retrieval-augmented generation (RAG) to evaluation, optimization, and production deployment.
 
-The course covers both commercial APIs (OpenAI) and open-source models (Hugging Face, Ollama), teaches vector database integration with Qdrant and Elasticsearch, and shows you how to build production-ready RAG applications using LangChain. You'll also learn modern agent patterns, evaluation techniques, and how to integrate LLMs with external tools and APIs for real-world applications.
+The course covers managed LLM APIs (OpenAI), teaches you both text and vector search, and shows you how to build production-ready RAG applications. You'll also learn modern agent patterns, evaluation techniques, monitoring with Grafana, and how to integrate LLMs with external tools and APIs for real-world applications.
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">

@@ -17,7 +17,7 @@ related_posts:
 - ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html
 layout: post
 datepublished: '2023-11-18'
-date: 2026-04-21
+date: 2026-05-11
 ---
 
 Breaking into data engineering takes real, hands-on experience with production tools, but most courses stop at theory.
@@ -475,6 +475,8 @@ We've collected some testimonials from our students who have completed the Data 
 > — [Wady Osama](https://www.linkedin.com/in/wadyosama/) ([Source](https://www.linkedin.com/posts/wadyosama_dataengineering-zoomcamp-dezoomcamp-activity-7292126824711520258-puJm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJu9vMBW6iyIYswCQnN6t8UJLkXH2tQPi4))
 
 ## Frequently Asked Questions
+
+For more details about how our courses work, check the [Zoomcamp logistics guide](https://datatalks.club/docs/courses/zoomcamp-logistics/){:target="_blank"}. You can also find more information about this course in the [Data Engineering Zoomcamp documentation](https://datatalks.club/docs/courses/data-engineering-zoomcamp/){:target="_blank"}.
 
 {% include faq-accordion.html faqs=site.data.faqs.data-engineering-zoomcamp %}
 

@@ -17,7 +17,7 @@ related_posts:
 - mlops-zoomcamp.html
 - llm-zoomcamp.html
 - ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html
-date: 2025-11-25
+date: 2026-05-11
 charts: true
 datepublished: '2023-08-17'
 ---
@@ -456,6 +456,8 @@ The entire journey takes 4 months from start to certificate, and you'll be part 
 > [Rajendra Rawale](https://www.linkedin.com/in/rajendra1x) ([Source](https://www.linkedin.com/posts/rajendra1x_machinelearning-mlzoomcamp-datatalksclub-activity-7378450260999852032-V5Z1))
 
 ## Frequently Asked Questions
+
+For more details about how our courses work, check the [Zoomcamp logistics guide](https://datatalks.club/docs/courses/zoomcamp-logistics/){:target="_blank"}. You can also find more information about this course in the [ML Zoomcamp documentation](https://datatalks.club/docs/courses/ml-zoomcamp/){:target="_blank"}.
 
 {% include faq-accordion.html faqs=site.data.faqs.machine-learning-zoomcamp %}
 

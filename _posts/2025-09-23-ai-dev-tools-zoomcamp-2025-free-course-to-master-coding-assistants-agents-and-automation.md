@@ -6,7 +6,7 @@ authors:
 description: 'Free AI Dev Tools course: build projects with Copilot, Cursor, MCP, and n8n. Learn AI coding assistants, agents, CI/CD, and earn a certificate.'
 image: images/posts/2025-09-23-ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation/course-cover.png
 layout: post
-date: 2025-11-25
+date: 2026-05-11
 tags:
 - courses
 - artificial-intelligence
@@ -210,6 +210,8 @@ When you join a live cohort, you get:
 > Even if you join after the official start date, you can still follow along. Note that some homework forms may already be closed. All active deadlines are listed on the [course platform](https://courses.datatalks.club).
 
 ## Frequently Asked Questions
+
+For more details about how our courses work, check the [Zoomcamp logistics guide](https://datatalks.club/docs/courses/zoomcamp-logistics/){:target="_blank"}.
 
 {% include faq-accordion.html faqs=site.data.faqs.ai-dev-tools-zoomcamp %}
 

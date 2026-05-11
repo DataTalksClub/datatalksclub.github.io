@@ -13,7 +13,7 @@ tags:
 - artificial-intelligence
 - large-language-models
 title: 'LLM Zoomcamp: Free LLM Engineering Course and Certification'
-date: 2025-11-25
+date: 2026-05-11
 related_posts:
 - guide-to-free-online-courses-at-datatalks-club.html
 - data-engineering-zoomcamp.html
@@ -98,35 +98,35 @@ The course follows a practical, production-focused approach to building LLM appl
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">2</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Vector Search</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Create embeddings, index documents, and retrieve with semantic search</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Qdrant, dlt</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Generate embeddings, index documents, and retrieve with semantic search</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">sentence-transformers, PGVector</td>
 </tr>
 <tr>
-<td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">2A</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Agents (Bonus)</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Add agentic behavior and function calling to RAG pipelines</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">OpenAI Function Calling</td>
+<td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">3</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Agents</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Add autonomous tool use and function calling to RAG pipelines</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">OpenAI Responses API, ToyAIKit</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
-<td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">3</td>
+<td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">4</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Evaluation</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Measure retrieval quality and answer accuracy with offline and online evaluation</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">LLM-as-a-Judge, evaluation frameworks</td>
 </tr>
 <tr>
-<td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">4</td>
+<td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">5</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Monitoring</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Track user feedback, chat logs, and system performance in production</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Grafana, monitoring dashboards</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
-<td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">5</td>
+<td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">6</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Best Practices</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Optimize retrieval with hybrid search, reranking, and orchestration patterns</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">LangChain, hybrid search tools</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Optimize retrieval with hybrid search and reranking</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Hybrid search and reranking tools</td>
 </tr>
 <tr>
-<td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">6</td>
+<td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">7</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">End-to-End Project</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Build a complete RAG application combining all components</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">All tools from previous modules</td>
@@ -139,7 +139,7 @@ The course follows a practical, production-focused approach to building LLM appl
 For the final project, you'll create a complete end-to-end RAG application. The goal is to show that you can move from raw data to a working, searchable AI system that users can interact with, and that you can evaluate and monitor.
 
 <figure>
-<img src="/images/posts/2024-11-11-llm-zoomcamp/llm-zoomcamp-fitness-assistant-project.png" alt="LLM Zoomcamp Fitness Assistant project - conversational AI RAG application helping users choose exercises and find alternatives for personalized fitness guidance" title="LLM Zoomcamp Fitness Assistant Project Example" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<img src="/images/posts/2024-11-11-llm-zoomcamp/llm-zoomcamp-course-project-example.png" alt="LLM Zoomcamp Fitness Assistant project - conversational AI RAG application helping users choose exercises and find alternatives for personalized fitness guidance" title="LLM Zoomcamp Fitness Assistant Project Example" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
 <figcaption><p>Example project: Fitness Assistant - a conversational AI that helps users choose exercises and find alternatives, making fitness more accessible for beginners who find gyms intimidating or lack access to personal trainers</p></figcaption>
 </figure>
 
@@ -201,15 +201,15 @@ Sharing your work online also helps you get noticed by social media algorithms, 
 ### How to Get a Certificate
 
 <figure>
-<img src="/images/posts/2024-11-11-llm-zoomcamp/llm-zoomcamp-certificate.png" alt="LLM Zoomcamp certificate - free certificate for completing the LLM Zoomcamp course" title="LLM Zoomcamp Certificate" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<img src="/images/posts/2024-11-11-llm-zoomcamp/llm-zoomcamp-certificate.jpeg" alt="LLM Zoomcamp certificate - free certificate for completing the LLM Zoomcamp course" title="LLM Zoomcamp Certificate" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
 <figcaption><p>LLM Zoomcamp certificate for completing the course</p></figcaption>
 </figure>
 
 To receive a certificate, you'll need to complete the [final project](#what-youll-build-course-project) and peer review 3 other students' projects:
 
-1. **Complete the final project**: Build a real-world LLM application (RAG project) that demonstrates your mastery of all course concepts
-2. **Peer review**: Evaluate and provide feedback on 3 fellow students' projects during the peer review process
-3. **Submit on time**: Meet the project submission deadlines to qualify for certification
+1. Complete the final project: Build a real-world LLM application (RAG project) that demonstrates your mastery of all course concepts
+2. Peer review: Evaluate and provide feedback on 3 fellow students' projects during the peer review process
+3. Submit on time: Meet the project submission deadlines to qualify for certification
 
 
 ## What is DataTalks.Club Community?
@@ -224,7 +224,7 @@ DataTalks.Club has a supportive community of like-minded individuals in [our Sla
 
 ## How to Join LLM Zoomcamp
 
-You can join LLM Zoomcamp either by **following a live cohort** or **learning at your own pace**.
+You can join LLM Zoomcamp either by following a live cohort or learning at your own pace.
 
 All materials are freely available in the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp). Each module has its own folder, and cohort-specific homework and deadlines are in the `cohorts` directory. Lectures are pre-recorded and available in this [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R).
 
@@ -269,6 +269,8 @@ When you join a live cohort, you get:
 > — [Vasiliy Chernykh](https://www.linkedin.com/in/v4siliy), LLM Zoomcamp course graduate ([Source](https://www.linkedin.com/posts/v4siliy_llm-machinelearning-ai-activity-7394774137300402177-dFY9))
 
 ## Frequently Asked Questions
+
+For more details about how our courses work, check the [Zoomcamp logistics guide](https://datatalks.club/docs/courses/zoomcamp-logistics/){:target="_blank"}. You can also find more information about this course in the [LLM Zoomcamp documentation](https://datatalks.club/docs/courses/llm-zoomcamp/){:target="_blank"}.
 {% include faq-accordion.html faqs=site.data.faqs.llm-zoomcamp %}
 
 <div style="text-align: center; margin: 2em 0;">

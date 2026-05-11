@@ -2,7 +2,7 @@
   answer: |
     The LLM Zoomcamp is a free, community-driven program by [DataTalks.Club](/) that teaches practical applications with large language models through hands-on project work.
     
-    This 10-week course covers a comprehensive [curriculum](#course-curriculum) with all materials open and available anytime on [GitHub](https://github.com/DataTalksClub/llm-zoomcamp). You'll work with an industry-standard stack including OpenAI API, Hugging Face, Elasticsearch, Ollama, Streamlit, Grafana, LangChain, and vector databases, and earn a [certificate](#can-i-get-a-certificate).
+    This 10-week course covers a comprehensive [curriculum](#course-curriculum) with all materials open and available anytime on [GitHub](https://github.com/DataTalksClub/llm-zoomcamp). You'll work with an industry-standard stack including OpenAI API, minsearch, PGVector, and Grafana, and earn a [certificate](#can-i-get-a-certificate).
 
 - question: "What does zoomcamp mean?"
   answer: |
@@ -96,7 +96,7 @@
 
 - question: "What tools and technologies will I learn?"
   answer: |
-    The course covers essential LLM tools and platforms including OpenAI API for LLM integration, Hugging Face for open-source models, Elasticsearch for vector search and text search, Ollama for running LLMs locally, Streamlit for building UIs, Grafana for monitoring, LangChain for LLM orchestration, and vector databases for efficient retrieval. You'll also learn evaluation techniques, monitoring best practices, and data ingestion pipelines.
+    The course covers essential LLM tools and platforms including OpenAI API for LLM integration, PGVector for vector search, Grafana for monitoring, and evaluation techniques. You'll also learn monitoring best practices, agent patterns, and data ingestion pipelines.
 
 - question: "What is the DataTalks.Club LLM community?"
   answer: |
