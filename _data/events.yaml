@@ -20,14 +20,14 @@
   link: https://luma.com/dkrpn616
 
 
-- time: 2026-05-21 17:00:00
+- time: 2026-05-18 17:00:00
   title: "Vector Databases: Embeddings, Semantic Search, and Hybrid Retrieval"
   speakers: [alexeygrigorev]
   type: workshop
   link: https://luma.com/mipmoo7l
 
 
-- time: 2026-05-18 17:00:00
+- time: 2026-05-21 17:00:00
   title: "From RAG to AI Agents: Function Calling and Tool Use"
   speakers: [alexeygrigorev]
   type: workshop
@@ -39,6 +39,7 @@
   speakers: [alexeygrigorev]
   type: workshop
   link: https://luma.com/7bsj2ssy
+  youtube: https://www.youtube.com/watch?v=KSItlTAsMsk
 
 
 - time: 2026-05-12 17:00:00
@@ -46,6 +47,7 @@
   speakers: [marianosemelman]
   type: podcast
   link: https://luma.com/i5hm56sz
+  youtube: https://www.youtube.com/watch?v=nsekJOwU2tY
 
 
 - time: 2026-04-21 17:00:00
