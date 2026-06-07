@@ -11,6 +11,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta property="og:locale" content="en_US">
+  <script>
+    (function () {
+      var theme = 'light';
+      try {
+        var storedTheme = localStorage.getItem('jtd-theme');
+        if (storedTheme === 'dark') {
+          theme = 'dark';
+        }
+      } catch (error) {
+      }
+
+      document.documentElement.classList.toggle('dark', theme === 'dark');
+      document.documentElement.classList.toggle('light', theme !== 'dark');
+    })();
+  </script>
 
   {% if page.name == 'index.md' %}
     <title>{{ page.title | default: site.name }}</title>
@@ -61,6 +76,7 @@
 
   <link rel="stylesheet" href="/assets/styles.css" />
   <link rel="stylesheet" href="/assets/syntax.css" />
+  <script src="/assets/theme.js" defer></script>
 
   {% if page.math == true %}
     {% include mathjax.html %}

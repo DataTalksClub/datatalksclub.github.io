@@ -23,19 +23,22 @@ layout: home
 <div class="row">
   <div class="col-md-4 landing-item">
     <div class="landing-image-container">
-      <img class="landing-image" src="images/landing/talks.jpg" alt="Data science discussions and talks" />
+      <img class="landing-image landing-image-dark" src="/images/landing/dark/talks.png" alt="Data science discussions and talks" />
+      <img class="landing-image landing-image-light" src="images/landing/talks.jpg" alt="Data science discussions and talks" />
     </div>
     <h4 class="landing-subtitle">Talk about data, machine<br/> learning, and engineering</h4>
   </div>
   <div class="col-md-4 landing-item">
     <div class="landing-image-container">
-      <img class="landing-image" src="images/landing/events.jpg" alt="Data science events and courses" />
+      <img class="landing-image landing-image-dark" src="/images/landing/dark/events.png" alt="Data science events and courses" />
+      <img class="landing-image landing-image-light" src="images/landing/events.jpg" alt="Data science events and courses" />
     </div>
     <h4 class="landing-subtitle">Attend weekly events<br/> and learn from free courses</h4>
   </div>
   <div class="col-md-4 landing-item">
     <div class="landing-image-container">
-      <img class="landing-image" src="images/landing/career.jpg" alt="Career guidance and mentorship" />
+      <img class="landing-image landing-image-dark" src="/images/landing/dark/career.png" alt="Career guidance and mentorship" />
+      <img class="landing-image landing-image-light" src="images/landing/career.jpg" alt="Career guidance and mentorship" />
     </div>
     <h4 class="landing-subtitle">Ask career questions and<br/> discuss career options</h4>
   </div>

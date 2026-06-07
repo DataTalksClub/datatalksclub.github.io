@@ -22,7 +22,7 @@ datepublished: '2025-09-23'
 AI development tools have moved into everyday engineering work. Chat applications like ChatGPT and Claude, coding assistants like GitHub Copilot and Cursor, project bootstrappers like Bolt and Lovable, agents, and automation platforms like n8n have shifted the way we code and automate our workflows. The ecosystem is broad, and it's not always clear which tools to adopt or how to use them reliably in real projects.
 
 <figure>
-<img src="/images/posts/2025-09-23-ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation/course-cover.png" alt="AI Dev Tools Zoomcamp 2025 - free course covering coding assistants, agents, CI/CD automation, and no-code tools" title="AI Dev Tools Zoomcamp 2025 Course Overview" loading="lazy" style="max-width: 100%; height: auto;" />
+<img src="/images/posts/2025-09-23-ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation/course-cover.png" data-light-src="/images/posts/2025-09-23-ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation/course-cover.png" data-dark-src="/images/posts/2025-09-23-ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation/dark/course-cover.png" alt="AI Dev Tools Zoomcamp 2025 - free course covering coding assistants, agents, CI/CD automation, and no-code tools" title="AI Dev Tools Zoomcamp 2025 Course Overview" loading="lazy" style="max-width: 100%; height: auto;" />
 <figcaption>AI Dev Tools Zoomcamp 2025 course cover</figcaption>
 </figure>
 
