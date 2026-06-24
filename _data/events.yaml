@@ -1,4 +1,32 @@
 
+- time: 2026-08-03 17:00:00
+  title: "Engineering AI-Powered Data Products"
+  speakers: [radovanbacovic]
+  type: podcast
+  link: https://luma.com/si2n1g9b
+
+
+- time: 2026-07-21 17:00:00
+  title: "Tracking and personalizing AI agents with Snowplow and the Vercel AI SDK"
+  speakers: [jordanpeck]
+  type: workshop
+  link: https://luma.com/vz9iv4f2
+
+
+- time: 2026-07-21 17:00:00
+  title: "Engineering Your Own AI Assistant"
+  speakers: [pauliusztin]
+  type: podcast
+  link: https://luma.com/s5snn8xy
+
+
+- time: 2026-07-06 17:00:00
+  title: "Ingesting Agent Traces with dlthub"
+  speakers: [alenaastrakhantseva]
+  type: workshop
+  link: https://luma.com/3sint80a
+
+
 - time: 2026-06-29 17:00:00
   title: "Thriving in the AI Era with Human Skills"
   speakers: [maryamramezanibartsch]
