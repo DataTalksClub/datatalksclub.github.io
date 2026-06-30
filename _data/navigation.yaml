@@ -14,6 +14,9 @@ top:
   - text: Podcast
     link: "/podcast.html"
     new_window: false
+  - text: Wiki
+    link: "/podwiki/"
+    new_window: false
   - text: Books
     link: "/books.html"
     new_window: false
