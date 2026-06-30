@@ -108,30 +108,24 @@ The course follows a practical, production-focused approach to building LLM appl
 <td style="padding: 12px; border: 1px solid #dee2e6;">Kestra</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
-<td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Workshop</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Data Ingestion</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Pull traces from a monitoring service for analytics</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">dlt</td>
-</tr>
-<tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">4</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Evaluation</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Measure retrieval quality and answer accuracy with offline and online evaluation</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">LLM-as-a-Judge, evaluation frameworks</td>
 </tr>
-<tr style="background-color: #f8f9fa;">
+<tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">5</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Monitoring</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Track user feedback, chat logs, and system health with live dashboards</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Grafana, monitoring dashboards</td>
 </tr>
-<tr>
+<tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">6</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Best Practices</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Optimize retrieval with hybrid search and reranking</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">LangChain, hybrid search, reranking</td>
 </tr>
-<tr style="background-color: #f8f9fa;">
+<tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">7</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">End-to-End Project</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Build a complete RAG application combining all components</td>
