@@ -26,7 +26,7 @@
 
 - question: "When does the next cohort of the LLM Zoomcamp start?"
   answer: |
-    The next cohort of the LLM Zoomcamp typically starts in the fall each year. Register here: [https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q) before the course starts.
+    The next cohort of the LLM Zoomcamp typically starts in June each year. Register here: [https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q](https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q) before the course starts.
 
 - question: "Who runs the LLM Zoomcamp?"
   answer: |
@@ -60,9 +60,9 @@
 
 - question: "How do I join the office hours or live sessions?"
   answer: |
-    There are no office hours—all lectures are pre-recorded and available in the [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR), so you can watch them whenever it suits you.
+    There are no office hours—all lectures are pre-recorded and available in the [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv), so you can watch them whenever it suits you.
 
-    All course materials are in the [GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp). Each module has its own folder (for example, 01-intro or 03-classification), while cohort-specific homework and deadlines are located in cohorts/2025.
+    All course materials are in the [GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp). Each module has its own folder (for example, 01-intro or 02-vector-search), while cohort-specific homework and deadlines are located in cohorts/2026.
 
     Occasionally, additional workshops or updated implementation videos are released—there will be additional announcements if this happens.
 
@@ -80,7 +80,7 @@
 
 - question: "Where can I find the course videos?"
   answer: |
-    Course videos are available in the [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR). For easier navigation, refer to the [GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp). We also maintain [year-specific playlists](https://www.youtube.com/@DataTalksClub/playlists) for updates.
+    Course videos are available in the [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv). For easier navigation, refer to the [GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp). We also maintain [year-specific playlists](https://www.youtube.com/@DataTalksClub/playlists) for updates.
 
 - question: "How many projects do I need to complete for the certificate?"
   answer: |
@@ -96,7 +96,7 @@
 
 - question: "What tools and technologies will I learn?"
   answer: |
-    The course covers essential LLM tools and platforms including OpenAI API for LLM integration, PGVector for vector search, Grafana for monitoring, and evaluation techniques. You'll also learn monitoring best practices, agent patterns, and data ingestion pipelines.
+    The course covers essential LLM tools and platforms including OpenAI API for LLM integration, PGVector for vector search, Kestra for orchestration, Grafana for monitoring, and evaluation techniques. You'll also learn monitoring best practices, agent patterns, and data ingestion pipelines.
 
 - question: "What is the DataTalks.Club LLM community?"
   answer: |

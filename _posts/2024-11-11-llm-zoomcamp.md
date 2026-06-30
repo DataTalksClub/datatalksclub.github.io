@@ -66,12 +66,12 @@ LLM Zoomcamp is designed for anyone who wants to build practical, reliable LLM-p
 
 It's a good fit for:
 
-* **Software engineers** who want to add LLMs, RAG, and modern search capabilities to real products.
-* **Data engineers** interested in how vector search, hybrid search, and retrieval pipelines fit into production systems.
-* **ML practitioners** who want a structured way to evaluate and monitor LLM-based applications.
-* **Developers new to LLMs** who already know Python and want a clear, practical introduction to building end-to-end AI applications.
-* **Technical product managers or tech leads** who need a working understanding of how LLM systems behave in real usage.
-* **Anyone maintaining an existing LLM feature** and struggling with drift, inconsistent answers, or unreliable retrieval.
+* Software engineers who want to add LLMs, RAG, and modern search capabilities to real products.
+* Data engineers interested in how vector search, hybrid search, and retrieval pipelines fit into production systems.
+* ML practitioners who want a structured way to evaluate and monitor LLM-based applications.
+* Developers new to LLMs who already know Python and want a clear, practical introduction to building end-to-end AI applications.
+* Technical product managers or tech leads who need a working understanding of how LLM systems behave in real usage.
+* Anyone maintaining an existing LLM feature and struggling with drift, inconsistent answers, or unreliable retrieval.
 
 You don't need prior experience with AI or ML. The course focuses on the engineering side of modern LLM applications and guides you through the concepts step by step.
 
@@ -91,41 +91,47 @@ The course follows a practical, production-focused approach to building LLM appl
 <tbody>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">1</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Introduction to LLMs and RAG</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Build your first RAG pipeline with LLM fundamentals and text search</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">OpenAI API, minsearch, sqlitesearch</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Agentic RAG</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Build a RAG pipeline with keyword search, then make it agentic with function calling</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">OpenAI API, minsearch, function calling</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">2</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Vector Search</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Generate embeddings, index documents, and retrieve with semantic search</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">sentence-transformers, PGVector</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">minsearch, sqlitesearch, PGVector</td>
 </tr>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">3</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Agents</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Add autonomous tool use and function calling to RAG pipelines</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">OpenAI Responses API, ToyAIKit</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Orchestration</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Orchestrate your AI and data pipelines</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Kestra</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
+<td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Workshop</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Data Ingestion</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Pull traces from a monitoring service for analytics</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">dlt</td>
+</tr>
+<tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">4</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Evaluation</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Measure retrieval quality and answer accuracy with offline and online evaluation</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">LLM-as-a-Judge, evaluation frameworks</td>
 </tr>
-<tr>
+<tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">5</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Monitoring</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Track user feedback, chat logs, and system performance in production</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Track user feedback, chat logs, and system health with live dashboards</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Grafana, monitoring dashboards</td>
 </tr>
-<tr style="background-color: #f8f9fa;">
+<tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">6</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Best Practices</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Optimize retrieval with hybrid search and reranking</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Hybrid search and reranking tools</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">LangChain, hybrid search, reranking</td>
 </tr>
-<tr>
+<tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">7</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">End-to-End Project</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Build a complete RAG application combining all components</td>
@@ -164,11 +170,11 @@ All lessons, homework, and cohort updates live in the [LLM Zoomcamp GitHub repos
 </figure>
 
 ### Video Lectures
-Lectures are pre-recorded and available in this [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R), so you can follow the live cadence or binge-watch at your own pace.
+Lectures are pre-recorded and available in this [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv), so you can follow the live cadence or binge-watch at your own pace.
 
 <figure>
 <img src="/images/posts/2024-11-11-llm-zoomcamp/llm-zoomcamp-youtube-playlist.png" alt="LLM Zoomcamp YouTube playlist - free video lectures on LLM Zoomcamp" title="LLM Zoomcamp YouTube Playlist" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p><a href="https://www.youtube.com/playlist?list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R">LLM Zoomcamp YouTube playlist</a> with pre-recorded lectures</p></figcaption>
+<figcaption><p><a href="https://www.youtube.com/playlist?list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv">LLM Zoomcamp YouTube playlist</a> with pre-recorded lectures</p></figcaption>
 </figure>
 
 ### Homework Assignments
@@ -226,7 +232,7 @@ DataTalks.Club has a supportive community of like-minded individuals in [our Sla
 
 You can join LLM Zoomcamp either by following a live cohort or learning at your own pace.
 
-All materials are freely available in the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp). Each module has its own folder, and cohort-specific homework and deadlines are in the `cohorts` directory. Lectures are pre-recorded and available in this [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R).
+All materials are freely available in the [LLM Zoomcamp GitHub repository](https://github.com/DataTalksClub/llm-zoomcamp). Each module has its own folder, and cohort-specific homework and deadlines are in the `cohorts` directory. Lectures are pre-recorded and available in this [YouTube playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hLZFNgSad56pDBKK8KO0XIv).
 
 ### Option 1: Self-Paced Learning
 
