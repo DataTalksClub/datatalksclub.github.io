@@ -1,0 +1,6 @@
+{% assign podwiki_base_url = site.podwiki_base_url | default: "/podwiki" %}
+<section class="podwiki-graph-widget graph-connections" data-graph-connections hidden></section>
+<script>
+  window.PODWIKI_BASE_URL = {{ podwiki_base_url | jsonify }};
+</script>
+<script src="{{ podwiki_base_url }}/assets/page-graph.js"></script>
