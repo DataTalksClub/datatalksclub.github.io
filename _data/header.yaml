@@ -8,5 +8,5 @@ announcement:
   # link: "https://github.com/DataTalksClub/mlops-zoomcamp"
   # text: "LLM Zoomcamp: Free LLM engineering course."
   # link: "https://github.com/DataTalksClub/llm-zoomcamp"
-   text: "AI Dev Tools Zoomcamp 2026 starts August 31. Free live cohort on AI coding assistants, agents, MCP, testing, CI/CD, deployment, and automation."
-   link: "https://courses.datatalks.club/register/ai-dev-tools/"
+  text: "AI Dev Tools Zoomcamp 2026 starts August 31. Free live cohort on AI coding assistants, agents, MCP, testing, CI/CD, deployment, and automation."
+  link: "https://courses.datatalks.club/register/ai-dev-tools/"
