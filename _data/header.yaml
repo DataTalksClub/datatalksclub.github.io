@@ -1,5 +1,5 @@
 announcement:
-  link_text: "Register here!"
+  link_text: "Register"
   # text: "Machine Learning Zoomcamp: Free ML Engineering course."
   # link: "http://mlzoomcamp.com"
   # text: "Data Engineering Zoomcamp: Free Data Engineering course."
@@ -8,5 +8,5 @@ announcement:
   # link: "https://github.com/DataTalksClub/mlops-zoomcamp"
   # text: "LLM Zoomcamp: Free LLM engineering course."
   # link: "https://github.com/DataTalksClub/llm-zoomcamp"
-  text: "AI Dev Tools Zoomcamp 2026 starts August 31. Free live cohort on AI coding assistants, agents, MCP, testing, CI/CD, deployment, and automation."
+  text: "A free AI Dev Tools Zoomcamp 2026 starts August 31. Learn using AI developer tools without losing engineering discipline."
   link: "https://courses.datatalks.club/register/ai-dev-tools/"
