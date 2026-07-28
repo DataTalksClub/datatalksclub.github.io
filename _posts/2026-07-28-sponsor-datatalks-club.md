@@ -332,11 +332,15 @@ Not every supporter is a company. If you're a community member who has got somet
 
 ## Talk to us
 
-If your company wants to reach data engineers, ML engineers, AI engineers, and data scientists, email me directly. Same goes if you just want to talk through whether we're the right fit before committing to anything.
+This article covers the formats we run most often, but it isn't the full picture. There's a lot we can do together, and the best collaborations usually end up being some combination of the options above rather than one of them on its own.
+
+So the easiest next step is simply to get in touch:
 
 **Alexey Grigorev**, founder of DataTalks.Club: **[alexey@datatalks.club](mailto:alexey@datatalks.club)**
 
-Tell me what you're trying to achieve and roughly what you have to work with, and I'll tell you what I'd recommend. If I don't think we can help, I'll say that too.
+Email me and I'll send you our media kit, which goes into more detail on every format, what each one costs, and the numbers behind them. From there we can talk through what you're trying to achieve and work out which combination makes sense for you.
+
+You don't need to have it all figured out before you write. Tell me roughly what you're aiming for and what you have to work with, and I'll tell you what I'd recommend. If I don't think we can help, I'll say that too.
 
 ## Frequently asked questions
 
