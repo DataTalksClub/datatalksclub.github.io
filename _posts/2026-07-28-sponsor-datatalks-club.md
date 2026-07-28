@@ -26,9 +26,9 @@ DataTalks.Club is the largest online community for data and AI practitioners, wi
 
 I'm Alexey Grigorev, and I've been running DataTalks.Club since I founded it in September 2020.
 
-At least once a week a company writes to ask how we might work together, and I usually reply with a long, detailed email walking through the options. This article is that email, written once and put somewhere you can read it on your own time, so you can figure out whether we're a good fit before we even get on a call.
+At least once a week a company writes to ask how we might work together, and I usually reply with a long, detailed email walking through the options. So I've written that email once and put it here, where you can read it on your own time and work out whether we're a good fit before we even get on a call.
 
-Our courses have no tuition, the newsletter costs nothing to subscribe to, and the podcast has no paywall. That's by design. Most of our members are learning on their own time, often outside of work hours, and putting up a paywall would shut out exactly the people we built this for. But a community of this size doesn't run itself. We produce course content, host weekly events, moderate tens of thousands of Slack conversations, edit a podcast, and send a newsletter every Monday.
+Our courses have no tuition, the newsletter costs nothing to subscribe to, and the podcast has no paywall. That's by design, because most of our members are learning on their own time, often outside of work hours, and putting up a paywall would shut out exactly the people we built this for. But a community of this size takes real work to run. We produce course content, host weekly events, moderate tens of thousands of Slack conversations, edit a podcast, and send a newsletter every Monday.
 
 That's what sponsors pay for. Every euro goes back into the community as more courses, better tooling, and more events. The trade is straightforward: companies get access to an audience that's genuinely hard to reach through normal channels, and 100,000 people get an education they don't have to pay for.
 
@@ -38,7 +38,7 @@ We started in September 2020 as a Slack group for people who wanted to talk abou
 
 **Free courses (Zoomcamps).** We run five cohort-based courses a year: Data Engineering Zoomcamp, MLOps Zoomcamp, LLM Zoomcamp, Machine Learning Zoomcamp, and AI Dev Tools Zoomcamp. All of them are free, open-source, and award certificates on completion. Together they draw more than 60,000 registered learners a year. We've run over 20 cohorts since the first Machine Learning Zoomcamp in 2021, and **more than 150,000 people have registered for one of our courses**. Because the materials live permanently on GitHub and the lectures stay on YouTube, each cohort keeps attracting new learners long after it wraps up.
 
-**Weekly newsletter.** Every Monday we send it to more than 130,000 subscribers. It covers community news, upcoming events, new course modules, and the articles we think are worth reading that week.
+**Weekly newsletter.** Every Monday we send it to more than 130,000 subscribers. It covers community news, upcoming events, new course modules, and the articles we'd recommend that week.
 
 **Podcast.** We've been recording since February 2021 and have published **more than 200 episodes across 24 seasons**. That's over 200 conversations with practitioners and engineering leaders about how they actually do the work.
 
@@ -112,7 +112,7 @@ They come from every industry that runs on data:
 - **Retail** - 7.4%
 - **Other industries** - 25.4%
 
-Nearly 30% work at companies with 1,000+ employees, and another 17.8% at companies of 201 to 1,000. About 15% are freelancers and consultants who carry tool recommendations from one client engagement to the next.
+Nearly 30% work at companies with 1,000+ employees, and another 17.8% at companies of 201 to 1,000. About 15% are freelancers and consultants who take tool recommendations from one client engagement to the next.
 
 The topics they care about most right now are **machine learning, AI, and MLOps**. After those come data engineering, data science, data analytics, career growth, and leadership.
 
@@ -120,7 +120,7 @@ The topics they care about most right now are **machine learning, AI, and MLOps*
 
 ### Weekly newsletter
 
-Our newsletter goes out every Monday to more than 130,000 subscribers. It's the most direct way to put something in front of the whole community at once, and it's where most sponsorships start.
+Our newsletter goes out every Monday to more than 130,000 subscribers. It's the most direct way to put something in front of the whole community in a single send, and it's where most sponsorships start.
 
 <figure>
 <img src="/images/posts/2026-07-28-sponsor-datatalks-club/newsletter-primary.jpg" alt="Example of a sponsored primary slot placement in the DataTalks.Club weekly newsletter" title="DataTalks.Club newsletter sponsorship placement" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
@@ -129,7 +129,7 @@ Our newsletter goes out every Monday to more than 130,000 subscribers. It's the 
 
 There are three placement types:
 
-- **Primary slot.** The very top of the newsletter, above everything else, with your headline usually becoming the subject line of the issue. This is our most visible placement and the right choice for a major launch, a course, an e-book, or a guide. Expect **700 to 1,500 clicks**.
+- **Primary slot.** The top of the newsletter, above everything else, with your headline usually becoming the subject line of the issue. This is our most visible placement and the right choice for a major launch, a course, an e-book, or a guide. Expect **700 to 1,500 clicks**.
 - **Secondary slot.** Positioned in the middle of the newsletter alongside community content, and well suited to events, webinars, conferences, and community initiatives. Expect **250 to 300 clicks**.
 - **Stand-alone email.** A dedicated send to the entire list with no other sponsors or content, on a date and time you choose. This works best for launches and lead-generation campaigns. Expect **700 to 2,000 clicks**.
 
@@ -164,7 +164,7 @@ Course sponsorships work better than most formats for four reasons:
 
 - **High-intent adoption.** Learners install your tool and follow step-by-step labs with it. They don't click an ad, they actually use the product.
 - **Scale.** 10,000 to 20,000 registered learners per cohort.
-- **Social proof.** Learners post what they build on LinkedIn and X, which multiplies the reach well beyond the course itself.
+- **Social proof.** Learners post what they build on LinkedIn and X, which multiplies the reach well beyond the course.
 - **Evergreen.** The content stays on GitHub and YouTube permanently, and modules we recorded years ago are still bringing in new users today.
 
 ### Stand-alone workshops
@@ -207,7 +207,7 @@ A practical article on the DataTalks.Club blog, built around a topic that helps 
 <figcaption><p>Guest posts live permanently on the DataTalks.Club blog</p></figcaption>
 </figure>
 
-You get editorial planning and topic review, publication on our blog, and promotion through the newsletter and social channels. The article stays up permanently with your link. Our website gets **60,000 to 100,000 monthly visits**.
+You get editorial planning and topic review, publication on our blog, and promotion through the newsletter and social channels. We keep the article up permanently with your link. Our website gets **60,000 to 100,000 monthly visits**.
 
 ### In-person events in Berlin
 
@@ -313,7 +313,7 @@ Every sponsorship follows the same five steps:
 
 1. **You email us** with what you're trying to achieve, whether that's adoption, leads, hiring, or awareness for a launch.
 2. **We recommend a format.** Sometimes that means suggesting a cheaper option because we think it'll actually work better than the one you asked about. We'd rather you get a good result and come back than overspend once.
-3. **We build the content together.** You send a draft or a brief, we shape it so it reads like something our community wants to engage with, and you approve the final version.
+3. **We build the content together.** You send a draft or a brief, we edit it so it reads like something our community wants to engage with, and you approve the final version.
 4. **It runs** on a date you've agreed to.
 5. **You get the numbers**: opens, clicks, views, attendance, submissions, whatever applies to the format.
 
@@ -332,7 +332,7 @@ Not every supporter is a company. If you're a community member who has got somet
 
 ## Talk to us
 
-This article covers the formats we run most often, but it isn't the full picture. There's a lot we can do together, and the best collaborations usually end up being some combination of the options above rather than one of them on its own.
+I've covered the formats we run most often here, but this isn't the full picture. There's a lot we can do together, and the best collaborations usually end up being some combination of the options above rather than one of them on its own.
 
 So the easiest next step is simply to get in touch:
 
