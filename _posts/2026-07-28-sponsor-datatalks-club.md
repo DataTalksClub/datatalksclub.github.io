@@ -26,7 +26,7 @@ DataTalks.Club is the largest online community for data and AI practitioners, wi
 
 I'm Alexey Grigorev, and I've been running DataTalks.Club since I founded it in September 2020.
 
-At least once a week a company writes to ask how we might work together, and I usually reply with a long, detailed email walking through the options. So I've written that email once and put it here, where you can read it on your own time and work out whether we're a good fit before we even get on a call.
+Companies regularly write to ask how we might work together, and I usually reply with a long, detailed email walking through the options. So I've written that email once and put it here, where you can read it on your own time and work out whether we're a good fit before we even get on a call.
 
 Our courses have no tuition, the newsletter costs nothing to subscribe to, and the podcast has no paywall. That's by design, because most of our members are learning on their own time, often outside of work hours, and putting up a paywall would shut out exactly the people we built this for. But a community of this size takes real work to run. We produce course content, host weekly events, moderate tens of thousands of Slack conversations, edit a podcast, and send a newsletter every Monday.
 
