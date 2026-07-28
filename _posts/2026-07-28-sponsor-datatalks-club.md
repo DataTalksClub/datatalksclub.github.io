@@ -22,7 +22,7 @@ datepublished: '2026-07-28'
 
 DataTalks.Club is the largest online community for data and AI practitioners, with almost 100,000 Slack members and more than 130,000 newsletter subscribers. Since September 2020 we've produced free courses, a weekly newsletter, a podcast, workshops, and in-person meetups. Everything is free for the community, and it stays that way because companies sponsor it.
 
-## Why I wrote this
+## Sponsors keep this community free
 
 I'm Alexey Grigorev, and I've been running DataTalks.Club since I founded it in September 2020.
 
@@ -32,25 +32,27 @@ Our courses have no tuition, the newsletter costs nothing to subscribe to, and t
 
 That's what sponsors pay for. Every euro goes back into the community as more courses, better tooling, and more events. The trade is straightforward: companies get access to an audience that's genuinely hard to reach through normal channels, and 100,000 people get an education they don't have to pay for.
 
-## Who we are and what we do
+## About the community
 
 We started in September 2020 as a Slack group for people who wanted to talk about data. Six years later we're the largest online community in this space, and we've built a full education programme around it.
 
-**Free courses (Zoomcamps).** We run five cohort-based courses a year: Data Engineering Zoomcamp, MLOps Zoomcamp, LLM Zoomcamp, Machine Learning Zoomcamp, and AI Dev Tools Zoomcamp. All of them are free, open-source, and award certificates on completion. Together they draw more than 60,000 registered learners a year. We've run over 20 cohorts since the first Machine Learning Zoomcamp in 2021, and **more than 150,000 people have registered for one of our courses**. Because the materials live permanently on GitHub and the lectures stay on YouTube, each cohort keeps attracting new learners long after it wraps up.
+We run five free cohort-based courses a year, all open-source and all awarding certificates on completion: Data Engineering Zoomcamp, MLOps Zoomcamp, LLM Zoomcamp, Machine Learning Zoomcamp, and AI Dev Tools Zoomcamp. Together they draw more than 60,000 registered learners a year.
 
-**Weekly newsletter.** Every Monday we send it to more than 130,000 subscribers. It covers community news, upcoming events, new course modules, and the articles we'd recommend that week.
+We've run over 20 cohorts since the first Machine Learning Zoomcamp in 2021, and more than 150,000 people have registered for one of our courses. Because the materials live permanently on GitHub and the lectures stay on YouTube, each cohort keeps attracting new learners long after it wraps up.
 
-**Podcast.** We've been recording since February 2021 and have published **more than 200 episodes across 24 seasons**. That's over 200 conversations with practitioners and engineering leaders about how they actually do the work.
+Our weekly newsletter goes out every Monday to more than 130,000 subscribers, covering community news, upcoming events, new course modules, and the articles we'd recommend that week.
 
-**YouTube.** Over **600 videos** and 81,000 subscribers. We publish course lectures, workshops, podcast episodes, and live launch streams, all free to watch.
+We've been recording the podcast since February 2021 and have published more than 200 episodes across 24 seasons, which adds up to over 200 conversations with practitioners and engineering leaders about how they actually do the work.
 
-**Slack community.** Almost 100,000 members who show up every day. There are dedicated channels for each course, for job hunting, and for the questions people are too embarrassed to ask at work.
+On YouTube we have over 600 videos and 81,000 subscribers, where we publish course lectures, workshops, podcast episodes, and live launch streams, all free to watch.
 
-**Book club and in-person meetups.** Book discussions with the authors themselves, plus regular in-person events for the Berlin data community.
+Our Slack community has almost 100,000 members who show up every day, with dedicated channels for each course, for job hunting, and for the questions people are too embarrassed to ask at work.
+
+We also run a book club where members discuss a book with its author, plus regular in-person events for the Berlin data community.
 
 All of that output is what gives sponsors something real to attach their name to. We're not a mailing list that occasionally sends an ad. We're an education programme with an audience that keeps showing up because the material is genuinely useful to them.
 
-## Who you reach
+## The audience
 
 Our reach, current as of this writing:
 
@@ -68,55 +70,55 @@ Our reach, current as of this writing:
 <figcaption><p>DataTalks.Club is a global community of data and AI practitioners</p></figcaption>
 </figure>
 
-### What they do
+### Roles
 
 These are practitioners, not passive readers:
 
-- **Data engineering** - 28.5%
-- **Data science and machine learning** - 26.8%
-- **Analytics** - 16.8%
-- **Software development** - 13.1%
-- **Management** - 7.0%
+- Data engineering - 28.5%
+- Data science and machine learning - 26.8%
+- Analytics - 16.8%
+- Software development - 13.1%
+- Management - 7.0%
 
-### How senior they are
+### Seniority
 
 The community splits roughly in half between people who are choosing tools today and people who will be choosing them at their next job:
 
-- **Senior individual contributors** - 40.6%
-- **Entry-level** - 35.6%
-- **Team leads** - 10.1%
-- **Directors and above** - 3.7%
-- **Students** - 3.0%
+- Senior individual contributors - 40.6%
+- Entry-level - 35.6%
+- Team leads - 10.1%
+- Directors and above - 3.7%
+- Students - 3.0%
 
 Around 54% are seniors, leads, or directors, which is the group that picks tools and signs off on budgets.
 
-### Where they are
+### Geography
 
 The audience is spread across every major market:
 
-- **North America** - 37.2%
-- **Europe** - 25.1%
-- **Asia-Pacific** - 24.5%
-- **Africa** - 6.8%
-- **South America** - 3.8%
-- **Middle East** - 1.8%
+- North America - 37.2%
+- Europe - 25.1%
+- Asia-Pacific - 24.5%
+- Africa - 6.8%
+- South America - 3.8%
+- Middle East - 1.8%
 
-### Where they work
+### Industries
 
 They come from every industry that runs on data:
 
-- **Technology** - 40.6%
-- **Finance** - 9.4%
-- **Education** - 9.1%
-- **Healthcare** - 8.1%
-- **Retail** - 7.4%
-- **Other industries** - 25.4%
+- Technology - 40.6%
+- Finance - 9.4%
+- Education - 9.1%
+- Healthcare - 8.1%
+- Retail - 7.4%
+- Other industries - 25.4%
 
 Nearly 30% work at companies with 1,000+ employees, and another 17.8% at companies of 201 to 1,000. About 15% are freelancers and consultants who take tool recommendations from one client engagement to the next.
 
-The topics they care about most right now are **machine learning, AI, and MLOps**. After those come data engineering, data science, data analytics, career growth, and leadership.
+The topics they care about most right now are machine learning, AI, and MLOps. After those come data engineering, data science, data analytics, career growth, and leadership.
 
-## What you can sponsor
+## Sponsorship formats
 
 ### Weekly newsletter
 
@@ -129,9 +131,9 @@ Our newsletter goes out every Monday to more than 130,000 subscribers. It's the 
 
 There are three placement types:
 
-- **Primary slot.** The top of the newsletter, above everything else, with your headline usually becoming the subject line of the issue. This is our most visible placement and the right choice for a major launch, a course, an e-book, or a guide. Expect **700 to 1,500 clicks**.
-- **Secondary slot.** Positioned in the middle of the newsletter alongside community content, and well suited to events, webinars, conferences, and community initiatives. Expect **250 to 300 clicks**.
-- **Stand-alone email.** A dedicated send to the entire list with no other sponsors or content, on a date and time you choose. This works best for launches and lead-generation campaigns. Expect **700 to 2,000 clicks**.
+- Primary slot. The top of the newsletter, above everything else, with your headline usually becoming the subject line of the issue. This is our most visible placement and the right choice for a major launch, a course, an e-book, or a guide. Expect 700 to 1,500 clicks.
+- Secondary slot. Positioned in the middle of the newsletter alongside community content, and well suited to events, webinars, conferences, and community initiatives. Expect 250 to 300 clicks.
+- Stand-alone email. A dedicated send to the entire list with no other sponsors or content, on a date and time you choose. This works best for launches and lead-generation campaigns. Expect 700 to 2,000 clicks.
 
 Every placement includes a content template we build together, plus a report with opens, clicks, and click-through rate once it's run.
 
@@ -156,16 +158,16 @@ We run five free courses a year, each with thousands of registered learners:
 
 There are three levels of integration:
 
-- **Mention.** Your logo on the course page, a mention in the launch stream, a shout-out in the official Telegram channel, and encouragement for students to try your product. Optionally, a demo video of up to 10 minutes. Typically **5,000 to 10,000 views**.
-- **Workshop.** A hands-on session inside a course module, live-streamed as part of the curriculum, where students apply the module's concepts using your product. Includes a dedicated homework assignment with three questions, and optionally a raffle for participants. Typically **5,000 to 10,000 views**.
-- **Full module.** Our deepest integration: your tool is used to teach an entire topic across 5 to 10 lessons, with a 6 or 7 question homework assignment built around your product, plus office hours with participants. Open-source tools only. Typically **10,000 to 50,000 total views**.
+- Mention. Your logo on the course page, a mention in the launch stream, a shout-out in the official Telegram channel, and encouragement for students to try your product. Optionally, a demo video of up to 10 minutes. Typically 5,000 to 10,000 views.
+- Workshop. A hands-on session inside a course module, live-streamed as part of the curriculum, where students apply the module's concepts using your product. Includes a dedicated homework assignment with three questions, and optionally a raffle for participants. Typically 5,000 to 10,000 views.
+- Full module. Our deepest integration: your tool is used to teach an entire topic across 5 to 10 lessons, with a 6 or 7 question homework assignment built around your product, plus office hours with participants. Open-source tools only. Typically 10,000 to 50,000 total views.
 
 Course sponsorships work better than most formats for four reasons:
 
-- **High-intent adoption.** Learners install your tool and follow step-by-step labs with it. They don't click an ad, they actually use the product.
-- **Scale.** 10,000 to 20,000 registered learners per cohort.
-- **Social proof.** Learners post what they build on LinkedIn and X, which multiplies the reach well beyond the course.
-- **Evergreen.** The content stays on GitHub and YouTube permanently, and modules we recorded years ago are still bringing in new users today.
+- High-intent adoption. Learners install your tool and follow step-by-step labs with it. They don't click an ad, they actually use the product.
+- Scale. 10,000 to 20,000 registered learners per cohort.
+- Social proof. Learners post what they build on LinkedIn and X, which multiplies the reach well beyond the course.
+- Evergreen. The content stays on GitHub and YouTube permanently, and modules we recorded years ago are still bringing in new users today.
 
 ### Stand-alone workshops
 
@@ -185,7 +187,7 @@ Here's what's included:
 - A recording that stays on YouTube permanently
 - An optional dry run before going live
 
-Workshops typically get **2,000 to 7,000 views**, with around 100 people joining live. I can host the session myself if you'd prefer a familiar face guiding the audience through it.
+Workshops typically get 2,000 to 7,000 views, with around 100 people joining live. I can host the session myself if you'd prefer a familiar face guiding the audience through it.
 
 ### Podcast
 
@@ -196,7 +198,7 @@ A focused conversation with me, published on YouTube and every major podcast pla
 <figcaption><p>Podcast episodes are published on YouTube and podcast platforms</p></figcaption>
 </figure>
 
-We've been recording since February 2021 and have published over 200 episodes. A sponsored episode includes topic planning aligned with what the community actually cares about, promotion through the newsletter and social channels, and a permanent episode page with your link. Episodes typically get **1,000+ listens**.
+We've been recording since February 2021 and have published over 200 episodes. A sponsored episode includes topic planning aligned with what the community actually cares about, promotion through the newsletter and social channels, and a permanent episode page with your link. Episodes typically get 1,000+ listens.
 
 ### Guest post
 
@@ -207,11 +209,11 @@ A practical article on the DataTalks.Club blog, built around a topic that helps 
 <figcaption><p>Guest posts live permanently on the DataTalks.Club blog</p></figcaption>
 </figure>
 
-You get editorial planning and topic review, publication on our blog, and promotion through the newsletter and social channels. We keep the article up permanently with your link. Our website gets **60,000 to 100,000 monthly visits**.
+You get editorial planning and topic review, publication on our blog, and promotion through the newsletter and social channels. We keep the article up permanently with your link. Our website gets 60,000 to 100,000 monthly visits.
 
 ### In-person events in Berlin
 
-We co-host evenings for data, ML, and AI practitioners who want to learn something new, meet peers, and talk to the people building the tools they use. Our Berlin meetup group has around **9,000 members**, and **100+ people** typically show up in person.
+We co-host evenings for data, ML, and AI practitioners who want to learn something new, meet peers, and talk to the people building the tools they use. Our Berlin meetup group has around 9,000 members, and 100+ people typically show up in person.
 
 <figure>
 <img src="/images/posts/2026-07-28-sponsor-datatalks-club/meetup-in-person.jpg" alt="In-person DataTalks.Club meetup in Berlin with data and AI practitioners" title="DataTalks.Club Berlin meetup" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
@@ -220,15 +222,15 @@ We co-host evenings for data, ML, and AI practitioners who want to learn somethi
 
 There are two formats:
 
-- **Co-hosted meetup.** We organize an evening together with your team, with practical talks, a panel or Q&A, and networking time. We handle promotion through Meetup and community channels, registration, attendee communication, and check-in. Optional sponsor table, swag, or giveaway.
-- **In-person workshop.** A hands-on session where participants learn a concrete skill, build something with it, and connect what they learned to your product. I lead it, with live guidance and Q&A, plus optional recording.
+- Co-hosted meetup. We organize an evening together with your team, with practical talks, a panel or Q&A, and networking time. We handle promotion through Meetup and community channels, registration, attendee communication, and check-in. Optional sponsor table, swag, or giveaway.
+- In-person workshop. A hands-on session where participants learn a concrete skill, build something with it, and connect what they learned to your product. I lead it, with live guidance and Q&A, plus optional recording.
 
 ### My personal social media
 
 Personal recommendations from me, shared on both LinkedIn and X:
 
-- **LinkedIn**: 67,000 followers, 10,000 to 45,000 impressions per post
-- **X**: 29,000 followers, 2,000 to 10,000 impressions per post
+- LinkedIn: 67,000 followers, 10,000 to 45,000 impressions per post
+- X: 29,000 followers, 2,000 to 10,000 impressions per post
 
 <figure>
 <img src="/images/posts/2026-07-28-sponsor-datatalks-club/alexey-linkedin.jpg" alt="Example of a sponsored post by Alexey Grigorev on LinkedIn reaching data and AI professionals" title="Sponsored social media post" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
@@ -241,7 +243,7 @@ Formats include videos about a product or event, posts with custom media and a r
 
 Some of our best collaborations weren't on any menu. We've run swag giveaways, hackathons, course design collaborations, roundtable discussions, and sponsored community lunches. If you have something in mind that doesn't fit neatly into one of the formats above, tell us and we'll be honest about whether we think it'll work.
 
-## What sponsors say
+## Sponsor feedback
 
 > At Prefect, we sponsored multiple conferences such as PyCon and KubeCon. At startup price, you pay $10k-$15k USD to have a booth for 2-3 days. We got around 200-300 people stop by the booth, a lot of which are existing users. We maybe got 4-5 real new users.
 >
@@ -249,7 +251,7 @@ Some of our best collaborations weren't on any menu. We've run swag giveaways, h
 >
 > Beyond MLOps Zoomcamp, the DataTalks.Club Slack channel is very big on democratizing high quality information to people trying to break into industry. Sponsoring the initiative feels more like it goes to a good cause in comparison to conferences.
 >
-> **[Kevin Kho](https://www.linkedin.com/in/kvnkho/)**, ex-Prefect, now Figue
+> [Kevin Kho](https://www.linkedin.com/in/kvnkho/), ex-Prefect, now Figue
 
 > Collaborating with DataTalks.Club for the Data Engineering Zoomcamp on data ingestion went way better than we thought. We didn't just hit our target audience; we attracted a mix of beginners and experts from diverse backgrounds.
 >
@@ -257,13 +259,13 @@ Some of our best collaborations weren't on any menu. We've run swag giveaways, h
 >
 > This workshop wasn't just another content we did, it changed the game regarding dlt's exposure to our data audience. Besides addressing the professionals who took the course, DTC put dlt on the radars of other SaaS vendors who started integrating dlt into their products.
 >
-> **[Adrian Brudaru](https://www.linkedin.com/in/data-team)**, dltHub
+> [Adrian Brudaru](https://www.linkedin.com/in/data-team), dltHub
 
 > We sponsored Module 7 of Machine Learning Zoomcamp, which covers production-ready machine learning using BentoML. Over 165 students attempted the homework, and many used BentoML in their midterm and final projects. Some units in the module had over 1,000 views, and we also noticed a lot of positive social media posts about BentoML.
 >
 > Compared to other sponsorship opportunities we evaluated, ML Zoomcamp aligned more with BentoML's developer-focused approach.
 >
-> **[Tim Liu](https://www.linkedin.com/in/timliu9/)**, BentoML
+> [Tim Liu](https://www.linkedin.com/in/timliu9/), BentoML
 
 > The Valohai team was looking to connect with more data scientists and ML pioneers. That is when we came across DataTalks.Club community.
 >
@@ -271,19 +273,19 @@ Some of our best collaborations weren't on any menu. We've run swag giveaways, h
 >
 > This was one of the most fruitful collaborations in terms of lead acquisition.
 >
-> **[Henrik Skogström](https://www.linkedin.com/in/skogstrom/)**, Head of Growth, Valohai
+> [Henrik Skogström](https://www.linkedin.com/in/skogstrom/), Head of Growth, Valohai
 
 > When we kicked off a project which required some talented Data Scientists to come and help one of our clients, NASA, the challenge was speed. We were in a rush and we needed quick access to an engaged community. We found DataTalks.Club, collaborated with Alexey to create content through 3 channels: the community Slack, email newsletter and his personal LinkedIn feed.
 >
 > Outcome: the lowest candidate acquisition cost we've seen across all channels this year.
 >
-> **[Nathan Jefferson](https://www.linkedin.com/in/nathanjefferson/)**, ex-Topcoder, Founder of IMBALANCE
+> [Nathan Jefferson](https://www.linkedin.com/in/nathanjefferson/), ex-Topcoder, Founder of IMBALANCE
 
 > DataTalks.Club stands as one of the strongest AIIA communities, with a wide range of seasoned and aspiring data enthusiasts. DataTalks.Club continually delivers excellent content and consistently drives highly engaged people to AIIA events and research.
 >
-> **[Daniel Jeffries](https://www.linkedin.com/in/danjeffries/)**, Managing Director, AI Infrastructure Alliance
+> [Daniel Jeffries](https://www.linkedin.com/in/danjeffries/), Managing Director, AI Infrastructure Alliance
 
-## What the community says
+## Community feedback
 
 Sponsor testimonials tell you we're pleasant to work with. What matters more, though, is whether the audience actually values what we put out. Here's what learners have written about us on their own blogs, without being asked or paid.
 
@@ -311,20 +313,20 @@ Many of them have come back more than once.
 
 Every sponsorship follows the same five steps:
 
-1. **You email us** with what you're trying to achieve, whether that's adoption, leads, hiring, or awareness for a launch.
-2. **We recommend a format.** Sometimes that means suggesting a cheaper option because we think it'll actually work better than the one you asked about. We'd rather you get a good result and come back than overspend once.
-3. **We build the content together.** You send a draft or a brief, we edit it so it reads like something our community wants to engage with, and you approve the final version.
-4. **It runs** on a date you've agreed to.
-5. **You get the numbers**: opens, clicks, views, attendance, submissions, whatever applies to the format.
+1. You email us with what you're trying to achieve, whether that's adoption, leads, hiring, or awareness for a launch.
+2. We recommend a format. Sometimes that means suggesting a cheaper option because we think it'll actually work better than the one you asked about. We'd rather you get a good result and come back than overspend once.
+3. We build the content together. You send a draft or a brief, we edit it so it reads like something our community wants to engage with, and you approve the final version.
+4. It runs on a date you've agreed to.
+5. You get the numbers: opens, clicks, views, attendance, submissions, whatever applies to the format.
 
 ## Our rules
 
 These aren't negotiable, and they're the reason sponsored content still works here:
 
-- **We never share member data.** No sponsor gets access to email addresses or personal information. The only leads that get shared are from people who explicitly opt in during workshops and events.
-- **Sponsored content is always labelled.** Our community knows when something is paid for.
-- **Relevance comes first.** If we don't think a placement will resonate with our audience, we'll tell you before you spend money on it.
-- **Full course modules are for open-source tools only.** We're not going to teach thousands of learners a workflow they can't run without a licence.
+- We never share member data. No sponsor gets access to email addresses or personal information. The only leads that get shared are from people who explicitly opt in during workshops and events.
+- Sponsored content is always labelled. Our community knows when something is paid for.
+- Relevance comes first. If we don't think a placement will resonate with our audience, we'll tell you before you spend money on it.
+- Full course modules are for open-source tools only. We're not going to teach thousands of learners a workflow they can't run without a licence.
 
 ## Supporting us as an individual
 
@@ -336,7 +338,7 @@ I've covered the formats we run most often here, but this isn't the full picture
 
 So the easiest next step is simply to get in touch:
 
-**Alexey Grigorev**, founder of DataTalks.Club: **[alexey@datatalks.club](mailto:alexey@datatalks.club)**
+Alexey Grigorev, founder of DataTalks.Club: [alexey@datatalks.club](mailto:alexey@datatalks.club)
 
 Email me and I'll send you our media kit, which goes into more detail on every format, what each one costs, and the numbers behind them. From there we can talk through what you're trying to achieve and work out which combination makes sense for you.
 
