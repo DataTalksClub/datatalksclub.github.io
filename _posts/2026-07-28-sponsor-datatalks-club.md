@@ -1,6 +1,6 @@
 ---
 title: 'Sponsor DataTalks.Club: Reach 130,000+ Data and AI Professionals'
-subtitle: How companies work with the largest online community of data and AI practitioners, through newsletter placements, free course sponsorships, workshops, podcasts, and in-person events.
+subtitle: How companies sponsor our newsletter, free courses, workshops, podcast, and events.
 authors:
 - alexeygrigorev
 description: Sponsor DataTalks.Club, the largest online data and AI community, to reach 130,000+ data engineers, ML engineers, AI engineers, and data scientists through our newsletter, free Zoomcamp courses, workshops, and podcast.
