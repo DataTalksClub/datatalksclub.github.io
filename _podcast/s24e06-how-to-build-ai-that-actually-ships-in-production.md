@@ -1,5 +1,5 @@
 ---
-episode: 7
+episode: 6
 guests:
 - aleksandrkim
 ids:
