@@ -14,7 +14,7 @@ related_posts:
 - machine-learning-zoomcamp.html
 - mlops-zoomcamp.html
 - llm-zoomcamp.html
-- ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html
+- ai-dev-tools-zoomcamp.html
 layout: post
 datepublished: '2023-11-18'
 date: 2026-05-11

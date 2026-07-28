@@ -18,7 +18,7 @@ related_posts:
 - guide-to-free-online-courses-at-datatalks-club.html
 - data-engineering-zoomcamp.html
 - mlops-zoomcamp.html
-- ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html
+- ai-dev-tools-zoomcamp.html
 - machine-learning-zoomcamp.html
 datepublished: '2024-11-11'
 ---

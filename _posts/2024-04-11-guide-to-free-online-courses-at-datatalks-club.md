@@ -31,7 +31,7 @@ We currently have six free courses:
 * **[Data Engineering Zoomcamp](/blog/data-engineering-zoomcamp.html)** on data engineering, covering aspects like pipelines, warehouses, orchestration, and analytics infrastructure
 * **[MLOps Zoomcamp](/blog/mlops-zoomcamp.html)** on MLOps or ML operations that involve monitoring, automation, and operationalizing ML models and systems in production
 * **[LLM Zoomcamp](/blog/llm-zoomcamp.html)** on building AI applications with large language models (LLMs), combining them with RAG and using them to build AI agents
-* **[AI Dev Tools Zoomcamp](/blog/ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html)** on using AI tools like AI chatbots, IDE integrations, and AI agents to accelerate the processes that involve working with code
+* **[AI Dev Tools Zoomcamp](/blog/ai-dev-tools-zoomcamp.html)** on using AI tools like AI chatbots, IDE integrations, and AI agents to accelerate the processes that involve working with code
 * **[Stock Market Analytics Zoomcamp](https://pythoninvest.com/course)** on stock market trading, Python programming in Colab, analytics, and data visualisation.
 
 Across all zoomcamps you work with practical tooling like Python, Docker, cloud services, modern frameworks, and deliver portfolio-ready projects.
@@ -92,9 +92,9 @@ Here's a table that summarizes the key information about each course. Use it to 
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;"><a href="#ai-dev-tools-zoomcamp">AI Dev Tools Zoomcamp</a></td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Beginner to Intermediate</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Basic programming (Python/JavaScript), no AI required</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">AI assistants, agents, MCP, automation, DevOps integration</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">GitHub Copilot, Cursor, MCP, Django, FastAPI, n8n, React</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">AI-powered development toolkit with assistants & agents</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Spec-driven AI-assisted development, coding agents, MCP, AI security & DevOps</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Claude Code, Codex, Cursor, GitHub Copilot, MCP, FastAPI, Django, React, Docker</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Full-stack app built, deployed, extended, and audited with AI tools</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;"><a href="#analytics-in-stock-markets-zoomcamp">Stock Markets Analytics Zoomcamp</a></td>
@@ -423,8 +423,8 @@ The course covers managed LLM APIs (OpenAI), teaches you both text and vector se
 ## AI Dev Tools Zoomcamp
 
 <figure>
-<img src="/images/posts/2025-09-23-ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation/ai-dev-tools-zoomcamp-cover.png" alt="AI Dev Tools Zoomcamp 2025 course cover" title="AI Dev Tools Zoomcamp 2025 Course Cover - AI-Powered Development Tools and Automation" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p>AI Dev Tools Zoomcamp 2025 6-week program on integrating AI into developer workflows, including coding assistants (GitHub Copilot, Cursor), Model Context Protocol (MCP), custom AI agents with Django, and no-code automation with n8n</p></figcaption>
+<img src="/images/posts/2025-09-23-ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation/ai-dev-tools-zoomcamp-cover.png" alt="AI Dev Tools Zoomcamp course cover" title="AI Dev Tools Zoomcamp Course Cover - AI-Native Software Engineering" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
+<figcaption><p>AI Dev Tools Zoomcamp 4-module program on AI-native software engineering, including coding agents and agentic IDEs, spec-driven development, the Model Context Protocol (MCP), and open-source AI tools for security, audit, and DevOps</p></figcaption>
 </figure>
 
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 1.5em;">
@@ -435,7 +435,7 @@ The course covers managed LLM APIs (OpenAI), teaches you both text and vector se
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Duration</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">6-week live cohort or self-paced anytime</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">4-module live cohort or self-paced anytime</td>
 </tr>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Cost</td>
@@ -447,42 +447,42 @@ The course covers managed LLM APIs (OpenAI), teaches you both text and vector se
 </tr>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Prerequisites</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Basic programming (Python/JavaScript), no AI required</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Basic programming (Python/JavaScript/TypeScript), command line, Git, no AI required</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Key topics covered</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">AI assistants, agents, MCP, automation, DevOps integration</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Spec-driven AI-assisted development, coding agents, MCP, AI security & DevOps</td>
 </tr>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Tools/tech stack</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">GitHub Copilot, Cursor, MCP, Django, FastAPI, n8n, React</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Claude Code, Codex, Cursor, GitHub Copilot, MCP, FastAPI, Django, React, Docker</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Who it's for</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Developers and engineers who want to explore how AI tools fit into their workflow, boost productivity with coding assistants, agents, and automation, and prefer project-based practice over theory-heavy tutorials</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Developers and technical data professionals who want a repeatable workflow for planning, prompting, reviewing, testing, and shipping code with AI tools, and who prefer project-based practice over theory-heavy tutorials</td>
 </tr>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Projects</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">AI-powered development toolkit with assistants & agents</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">Full-stack app built, deployed, extended, and audited with AI tools</td>
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Outcomes</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">Hands-on experience building complete projects with AI tools and a portfolio demonstrating practical skills in applying AI to engineering work</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">A deployed application with tests, Docker, and CI/CD, an agent extension pack around it, and a security and DevOps hardening package</td>
 </tr>
 <tr>
 <td style="padding: 12px; border: 1px solid #dee2e6; font-weight: 600;">Next start date</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;">New cohort starts every November</td>
+<td style="padding: 12px; border: 1px solid #dee2e6;">August 31, 2026</td>
 </tr>
 </tbody>
 </table>
 
-[AI Dev Tools Zoomcamp](https://datatalks.club/blog/ai-dev-tools-zoomcamp-2025-free-course-to-master-coding-assistants-agents-and-automation.html) is a free course on using AI for developer workflows. Over six weeks, you'll go from experimenting with AI coding assistants to creating your own agent that scaffolds real applications.
+[AI Dev Tools Zoomcamp](https://datatalks.club/blog/ai-dev-tools-zoomcamp.html) is a free course on AI-native software engineering. Across four modules, you go from a vague product idea to a specification and a groomed backlog, then to a deployed application you built with AI assistance and can defend in review.
 
-The course covers the AI tool landscape (ChatGPT, Copilot, Cursor), teaches you to build end-to-end projects with React/TypeScript and FastAPI backends, introduces the Model Context Protocol (MCP) for connecting AI to GitHub and databases, and shows you how to build custom coding agents with Django. You'll also learn to apply AI across the development lifecycle—from automated testing and PR reviews to CI/CD integration and no-code automation with n8n.
+The course teaches spec-driven development and context engineering with coding agents and agentic IDEs, walks through an end-to-end build with React/TypeScript, an OpenAPI contract, a FastAPI or Django backend, tests, Docker, and CI/CD, covers the Model Context Protocol along with skills, hooks, subagents, and plugins, and finishes with open-source AI tools for security, audit, and DevOps such as PR-Agent, Semgrep MCP, Snyk Agent Scan, and K8sGPT.
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
-        <a href="https://airtable.com/appJRFiWKHBgmEt70/shrpw7rk55Ewr1jCG" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+        <a href="https://courses.datatalks.club/register/ai-dev-tools/" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
             <span>Join AI Dev Tools Zoomcamp</span>
             <span style="margin-left: 0.25em;">→</span>
         </a>
