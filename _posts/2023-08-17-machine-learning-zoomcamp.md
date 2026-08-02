@@ -33,7 +33,7 @@ ML Zoomcamp solves this by teaching you complete machine learning engineering, c
 
 With this machine learning course, you'll get hands-on experience with the entire ML workflow and two portfolio-ready projects showing you can build, deploy, and maintain production machine learning systems.
 
-> **TL;DR:** Machine Learning Zoomcamp is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. The next cohort starts on September 15, 2025. [Join the course here](https://airtable.com/shryxwLd0COOEaqXo).
+> **TL;DR:** Machine Learning Zoomcamp is a free 4-month course teaching machine learning engineering. You'll learn Python ML basics through to production deployment, build real projects, and join a supportive community. The next cohort starts on September 14, 2026. [Join the course here](https://courses.datatalks.club/register/ml-zoomcamp/).
 
 ## Table of Contents
 - [What is Machine Learning Zoomcamp?](#what-is-machine-learning-zoomcamp)
@@ -396,7 +396,7 @@ The self-paced mode lets you start anytime and learn at your own pace. You'll ge
 
 ### Join a Live Cohort
 
-> **2025 Cohort:** Starts September 15, 2025. [Register here](https://airtable.com/shryxwLd0COOEaqXo){:target="_blank"}
+> **2026 Cohort:** Starts September 14, 2026. [Register here](https://courses.datatalks.club/register/ml-zoomcamp/){:target="_blank"}
 
 The live cohort runs once per year from September through December. When you join a live cohort, you'll work through the same materials as self-paced learners, but with the added structure of a published schedule and the energy of hundreds of peers progressing alongside you.
 
@@ -410,7 +410,7 @@ Even if you join after the official start date, you can still follow along—tho
 
 **Ready to join ML Zoomcamp?** Here's how it works:
 
-1. [Register for the course](https://airtable.com/shryxwLd0COOEaqXo){:target="_blank"}, you'll be automatically accepted into the next cohort
+1. [Register for the course](https://courses.datatalks.club/register/ml-zoomcamp/){:target="_blank"}, you'll be automatically accepted into the next cohort
 2. Join the [DataTalks.Club Slack community](https://datatalks.club/slack.html) and the `#course-ml-zoomcamp` channel for updates, questions, and peer support
 3. (Optional) Get a head start by exploring the [GitHub repository](https://github.com/DataTalksClub/machine-learning-zoomcamp){:target="_blank"} and watching lectures before the cohort officially begins
 4. When the cohort starts, you'll receive an email with the full schedule and submission deadlines
@@ -422,7 +422,7 @@ The entire journey takes 4 months from start to certificate, and you'll be part 
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
-        <a href="https://airtable.com/shryxwLd0COOEaqXo" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+        <a href="https://courses.datatalks.club/register/ml-zoomcamp/" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
             <span>Register for ML Zoomcamp</span>
             <span style="margin-left: 0.25em;">→</span>
         </a>
@@ -463,7 +463,7 @@ For more details about how our courses work, check the [Zoomcamp logistics guide
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
-        <a href="https://airtable.com/shryxwLd0COOEaqXo" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+        <a href="https://courses.datatalks.club/register/ml-zoomcamp/" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
             <span>Register for ML Zoomcamp</span>
             <span style="margin-left: 0.25em;">→</span>
         </a>
