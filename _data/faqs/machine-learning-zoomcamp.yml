@@ -2,9 +2,9 @@
   answer: |
     The course runs for 4 months (September - December) and is divided into two main parts: Part 1 covers ML foundations (regression, classification, decision trees, neural networks with TensorFlow and PyTorch), and Part 2 focuses on production deployment (FastAPI, Docker, Kubernetes, AWS Lambda, serverless architectures). You'll complete weekly homework assignments and 2 projects (either midterm + capstone OR two capstones). Expect to dedicate around 10 hours per week for coursework and projects. [Learn more about the curriculum](#course-curriculum-what-youll-learn-in-the-machine-learning-zoomcamp).
 
-- question: "What's new in the 2025 ML Zoomcamp edition?"
+- question: "How up to date is the ML Zoomcamp course content?"
   answer: |
-    The 2025 edition features several major updates: 1) Deployment module updated to FastAPI (replacing Flask) with modern deployment tools, 2) Neural networks are taught with PyTorch (theory videos in Keras are retained, with additional PyTorch implementation videos), and 3) Deep learning deployment uses ONNX Runtime on AWS Lambda (replacing TensorFlow Lite). These updates reflect current industry best practices and tools.
+    The course is kept current with the tools used in industry today: 1) the deployment module uses FastAPI (replacing Flask) with modern deployment tools, 2) neural networks are taught with PyTorch (theory videos in Keras are retained, with additional PyTorch implementation videos), and 3) deep learning deployment uses ONNX Runtime on AWS Lambda (replacing TensorFlow Lite).
 
 - question: "How do I get started with ML Zoomcamp?"
   answer: |
@@ -26,7 +26,7 @@
   answer: |
     Yes! While you might miss some homework deadlines, you can still join and get certified by completing 2 projects (either midterm + capstone OR two capstones) and the required peer reviews. All course materials remain accessible.
 
-- question: "Why should I learn machine learning in 2025?"
+- question: "Why should I learn machine learning in 2026?"
   answer: |
     Machine learning has become a foundational technology driving the global AI market, valued at [$184 billion in 2024 and projected to reach $826 billion by 2030](https://www.statista.com/forecasts/1474143/global-ai-market-size). ML powers applications you use daily: ChatGPT, DALL-E, autonomous vehicles, and recommendation engines on streaming platforms. According to the [World Economic Forum's Future of Jobs Report 2025](https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf), AI and machine learning specialists are among the top three fastest-growing roles between 2025 and 2030, with an expected global net growth of 82%. The demand for skilled ML professionals continues to grow across all industries. [Learn more about why learn machine learning](#why-learn-machine-learning).
 
