@@ -21,10 +21,17 @@
 
 
 - time: 2026-08-18 14:00:00
-  title: "Open-Source AI Tools for Security, Audit, and DevOps"
+  title: "DevOps and Observability for AI-Built Apps"
   speakers: [alexeygrigorev]
   type: workshop
   link: https://luma.com/ycsfxigi
+
+
+- time: 2026-08-10 14:00:00
+  title: "Test, Containerize, and Deploy an AI-Assisted App"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://luma.com/v5tjy562
 
 
 - time: 2026-08-17 14:00:00
