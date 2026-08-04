@@ -47,7 +47,8 @@
         "geographicArea": {
           "@type": "AdministrativeArea",
           "name": "Worldwide"
-        }
+        },
+        "subjectOf": { "@id": "https://datatalks.club/#audience-demographics" }
       },
       "interactionStatistic": [
         {
@@ -183,6 +184,44 @@
         "name": "Alexey Grigorev",
         "availableLanguage": "English"
       }
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://datatalks.club/#audience-demographics",
+      "name": "DataTalks.Club audience demographics",
+      "description": "Demographic breakdown of the DataTalks.Club community by job role, seniority, geography, and industry, based on a survey of community members. Percentages are shares of survey respondents.",
+      "url": "https://datatalks.club/blog/datatalks-club-community-demographics.html",
+      "measurementTechnique": "Community member survey",
+      "creator": { "@id": "https://datatalks.club/#organization" },
+      "about": { "@id": "https://datatalks.club/#organization" },
+      "license": "https://datatalks.club/blog/datatalks-club-community-demographics.html",
+      "variableMeasured": [
+        { "@type": "PropertyValue", "name": "Role: data engineering", "value": 28.5, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Role: data science and machine learning", "value": 26.8, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Role: analytics", "value": 16.8, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Role: software development", "value": 13.1, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Role: management and consulting", "value": 7.0, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Seniority: senior individual contributors", "value": 40.6, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Seniority: entry-level", "value": 35.6, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Seniority: team leads", "value": 10.1, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Seniority: directors and above", "value": 3.7, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Seniority: students", "value": 3.0, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Seniority: seniors, leads, and directors combined", "value": 54.4, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Region: North America", "value": 37.2, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Region: Europe", "value": 25.1, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Region: Asia-Pacific", "value": 24.5, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Region: Africa", "value": 6.8, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Region: South America", "value": 3.8, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Region: Middle East", "value": 1.8, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Industry: technology", "value": 40.6, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Industry: finance", "value": 9.4, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Industry: education", "value": 9.1, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Industry: healthcare", "value": 8.1, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Industry: retail", "value": 7.4, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Organization size: 1,000+ employees", "value": 29.9, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Organization size: 201 to 1,000 employees", "value": 17.8, "unitCode": "P1", "unitText": "percent of respondents" },
+        { "@type": "PropertyValue", "name": "Organization size: freelancers and independent consultants", "value": 14.8, "unitCode": "P1", "unitText": "percent of respondents" }
+      ]
     },
     {
       "@type": "WebPage",
