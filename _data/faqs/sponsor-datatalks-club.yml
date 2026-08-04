@@ -1,6 +1,6 @@
 - question: "Who should sponsor DataTalks.Club?"
   answer: |
-    Companies that sell to data engineers, ML engineers, AI engineers, data scientists, and analytics teams. That includes developer tool vendors, cloud and data infrastructure providers, ML and LLM platforms, observability and orchestration tools, open-source projects looking for adoption, conferences and events looking for attendees, and recruiters hiring data talent. If your buyer is a practitioner rather than a procurement department, our audience is a good fit.
+    Companies that develop products to help data engineers, ML engineers, AI engineers, data scientists, and analytics teams. That includes developer tool vendors, cloud and data infrastructure providers, ML and LLM platforms, observability and orchestration tools, open-source projects looking for adoption, conferences and events looking for attendees, and recruiters hiring data talent. If the people who adopt your product are practitioners rather than a procurement department, our audience is a good fit.
 
 - question: "What can we sponsor?"
   answer: |
@@ -14,10 +14,6 @@
   answer: |
     We never share subscriber email addresses or personal information with sponsors. For workshops and events, attendees can opt in to share their contact details with you, and only those opt-in contacts are passed on. This is a hard rule and it is the reason our audience trusts what we send them.
 
-- question: "Do you label sponsored content?"
-  answer: |
-    Yes, always. Sponsored newsletter placements carry a "[Sponsored content]" label, sponsored articles and workshops are identified as such, and course sponsorships are disclosed on the course page. Our community knows when something is paid for, which is exactly why sponsored content still performs well here.
-
 - question: "Can we write the copy ourselves?"
   answer: |
     You can send us a draft, and we'll adapt it. Every placement goes through a content template that we refine together before it runs. Copy that reads like a vendor ad underperforms with this audience, so we push toward the technical, specific version of your message. You approve the final version before it goes out.
@@ -28,7 +24,7 @@
 
 - question: "How far in advance do we need to book?"
   answer: |
-    Newsletter slots are typically booked two to four weeks out, and popular weeks go earlier. Course sponsorships need the most lead time, since the content has to be built into the curriculum before a cohort starts. Our courses launch in January (Data Engineering), May (MLOps), June (LLM), September (Machine Learning), and November (AI Dev Tools), so plan a couple of months ahead for those.
+    Newsletter slots are best booked one to two months in advance, and popular weeks go earlier. Course sponsorships need the most lead time, since the content has to be built into the curriculum before a cohort starts. Our courses launch in January (Data Engineering), May (MLOps), June (LLM), September (Machine Learning), and November (AI Dev Tools), so plan several months ahead for those.
 
 - question: "Do you work with early-stage startups?"
   answer: |

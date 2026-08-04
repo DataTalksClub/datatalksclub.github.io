@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const values = JSON.parse(canvas.dataset.values || "[]");
     const title = canvas.dataset.title || "";
     const isHorizontal = canvas.dataset.orientation === "horizontal";
+    const legendPos = canvas.dataset.legend || "right";
 
     const width = canvas.dataset.width || "400px";
     const height = canvas.dataset.height || "300px";
@@ -53,8 +54,8 @@ document.addEventListener("DOMContentLoaded", function () {
             }
           },
           legend: {
-            display: type !== "bar" || !isHorizontal,
-            position: "right"
+            display: legendPos !== "none" && (type !== "bar" || !isHorizontal),
+            position: legendPos === "none" ? "right" : legendPos
           },
           title: {
             display: !!title,

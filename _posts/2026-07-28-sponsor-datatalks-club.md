@@ -6,12 +6,14 @@ authors:
 description: Sponsor DataTalks.Club, the largest online data and AI community, to reach 130,000+ data engineers, ML engineers, AI engineers, and data scientists through our newsletter, free Zoomcamp courses, workshops, and podcast.
 image: images/posts/2026-07-28-sponsor-datatalks-club/og-image.jpg
 layout: post
+charts: true
 date: 2026-07-28
 tags:
 - datatalksclub
 - community
 - sponsorship
 related_posts:
+- datatalks-club-community-demographics.html
 - guide-to-free-online-courses-at-datatalks-club.html
 - data-engineering-zoomcamp.html
 - mlops-zoomcamp.html
@@ -65,58 +67,86 @@ Our reach, current as of this writing:
 | Free courses | 60,000+ registered learners per year |
 | Podcast | 200+ episodes since 2021 |
 
-<figure>
-<img src="/images/posts/2026-07-28-sponsor-datatalks-club/og-image.jpg" alt="DataTalks.Club community of data engineers, ML engineers, AI engineers, and data scientists" title="DataTalks.Club community" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p>DataTalks.Club is a global community of data and AI practitioners</p></figcaption>
-</figure>
+The breakdowns below come from our community survey. We publish the full results openly, so you can check the numbers yourself instead of taking our word for them: [DataTalks.Club Community Demographics](https://datatalks.club/blog/datatalks-club-community-demographics.html).
 
-### Roles
+### Who we are
 
-These are practitioners, not passive readers:
+We're practitioners, not passive readers, and we're spread across every major market:
 
-- Data engineering - 28.5%
-- Data science and machine learning - 26.8%
-- Analytics - 16.8%
-- Software development - 13.1%
-- Management - 7.0%
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
 
-### Seniority
+  <figure style="margin: 0;">
+    <canvas class="ai-chart"
+            data-type="pie"
+            data-legend="none"
+            data-title="Roles"
+            data-labels='["Data engineering", "Data science & ML", "Analytics", "Software development", "Management & consulting", "Other"]'
+            data-values='[28.5, 26.8, 16.8, 13.1, 7.0, 7.8]'
+            data-height="320px"
+            data-width="100%">
+    </canvas>
+    <figcaption>Data engineering and data science make up more than half the community.</figcaption>
+  </figure>
 
-The community splits roughly in half between people who are choosing tools today and people who will be choosing them at their next job:
+  <figure style="margin: 0;">
+    <canvas class="ai-chart"
+            data-type="pie"
+            data-legend="none"
+            data-title="Seniority"
+            data-labels='["Senior individual contributors", "Entry-level", "Team leads", "Directors and above", "Students", "Other"]'
+            data-values='[40.6, 35.6, 10.1, 3.7, 3.0, 7.0]'
+            data-height="320px"
+            data-width="100%">
+    </canvas>
+    <figcaption>Around 54% are seniors, leads, or directors.</figcaption>
+  </figure>
 
-- Senior individual contributors - 40.6%
-- Entry-level - 35.6%
-- Team leads - 10.1%
-- Directors and above - 3.7%
-- Students - 3.0%
+  <figure style="margin: 0;">
+    <canvas class="ai-chart"
+            data-type="pie"
+            data-legend="none"
+            data-title="Geography"
+            data-labels='["North America", "Europe", "Asia-Pacific", "Africa", "South America", "Middle East & other"]'
+            data-values='[37.2, 25.1, 24.5, 6.8, 3.8, 2.6]'
+            data-height="320px"
+            data-width="100%">
+    </canvas>
+    <figcaption>Members come from more than 65 countries across every continent.</figcaption>
+  </figure>
 
-Around 54% are seniors, leads, or directors, which is the group that picks tools and signs off on budgets.
+  <figure style="margin: 0;">
+    <canvas class="ai-chart"
+            data-type="pie"
+            data-legend="none"
+            data-title="Industries"
+            data-labels='["Technology", "Finance", "Education", "Healthcare", "Retail", "Other"]'
+            data-values='[40.6, 9.4, 9.1, 8.1, 7.4, 25.4]'
+            data-height="320px"
+            data-width="100%">
+    </canvas>
+    <figcaption>Technology leads, with strong representation from regulated sectors.</figcaption>
+  </figure>
 
-### Geography
+</div>
 
-The audience is spread across every major market:
-
-- North America - 37.2%
-- Europe - 25.1%
-- Asia-Pacific - 24.5%
-- Africa - 6.8%
-- South America - 3.8%
-- Middle East - 1.8%
-
-### Industries
-
-They come from every industry that runs on data:
-
-- Technology - 40.6%
-- Finance - 9.4%
-- Education - 9.1%
-- Healthcare - 8.1%
-- Retail - 7.4%
-- Other industries - 25.4%
+The seniority split is the one worth dwelling on. Around 54% are seniors, leads, or directors, which is the group that picks tools and signs off on budgets. The entry-level half is the group that carries those choices into its next role.
 
 Nearly 30% work at companies with 1,000+ employees, and another 17.8% at companies of 201 to 1,000. About 15% are freelancers and consultants who take tool recommendations from one client engagement to the next.
 
-The topics they care about most right now are machine learning, AI, and MLOps. After those come data engineering, data science, data analytics, career growth, and leadership.
+The topics we care about most right now are machine learning, AI, and MLOps. After those come data engineering, data science, data analytics, career growth, and leadership.
+
+### What we're already using
+
+We also ask the community about the tools we actually run, and we publish those results in full too:
+
+- [How Do Data Professionals Use MLOps Tools and Frameworks?](https://datatalks.club/blog/how-do-data-professionals-use-ml-and-mlops-tools-and-practices.html)
+- [How Do Professionals Use Data Engineering Tools and Practices?](https://datatalks.club/blog/how-do-data-professionals-use-data-engineering-tools-and-practices.html)
+- [How Do Professionals Use LLM Tools and Frameworks?](https://datatalks.club/blog/how-do-professionals-use-llm-tools-and-frameworks.html)
+- [How Do Professionals Use AI Tools for Personal Productivity?](https://datatalks.club/blog/ai-tools-for-personal-productivity.html)
+
+Two things in that data matter if you're deciding whether to sponsor us. First, a lot of these categories are still wide open: 58.9% of respondents don't use a vector database yet, 54.3% have no LLM-based system in production, and 74.1% don't self-host open-source models. These are people who haven't picked a default yet, which is exactly when a hands-on course module or workshop changes what we reach for.
+
+Second, the surveys tell you where you'd be starting from. If your category already has an entrenched leader among our members, we'll say so before you spend money, and we'll suggest a format that accounts for it.
 
 ## Sponsorship formats
 
