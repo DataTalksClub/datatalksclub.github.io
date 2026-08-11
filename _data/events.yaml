@@ -1,4 +1,39 @@
 
+- time: 2026-08-25 17:00:00
+  title: "Running a Company on a Multi Agent Dispatch System"
+  speakers: [pauldomanski]
+  type: podcast
+  link: https://luma.com/rjxh9b0m
+
+
+- time: 2026-08-17 17:00:00
+  title: "Stock Markets Analytics Zoomcamp 2026 Pre-Course Live Q&A"
+  speakers: [ivanbrigida]
+  type: webinar
+  link: https://luma.com/q2y076k2
+
+
+- time: 2026-08-17 17:00:00
+  title: "The Data Consultant Playbook From Code to Business Impact"
+  speakers: [tonyzeljkovic]
+  type: podcast
+  link: https://luma.com/b90ue873
+
+
+- time: 2026-08-18 17:00:00
+  title: "DevOps and Observability for AI-Built Apps"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://luma.com/ycsfxigi
+
+
+- time: 2026-08-24 17:00:00
+  title: "Use Claude Code Like a Pro"
+  speakers: [bhavaniravi]
+  type: workshop
+  link: https://luma.com/ap4l3qlj
+
+
 - time: 2026-08-03 17:00:00
   title: "FAQ Assistant in Practice: End-To-End Flow"
   speakers: [alexeygrigorev]
