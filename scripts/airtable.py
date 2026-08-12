@@ -105,6 +105,11 @@ def process_person(record):
     output_file, person_exists = utils.person_path_exists(slug)
 
     if person_exists:
+        utils.append_email_hash(slug, email)
+        mark_record_processed(
+            table=PEOPLE_TABLE,
+            record_id=record['id'],
+        )
         return
 
     params = {

@@ -65,6 +65,21 @@ def compute_hash(email):
 def append_email_hash(slug, email):
     email_hash = compute_hash(email)
 
+    with open('./scripts/data/hashes.csv', 'r') as f_in:
+        for line in f_in:
+            line = line.strip()
+            if len(line) == 0:
+                continue
+
+            existing_hash, existing_slug = line.split(',')
+            if existing_hash != email_hash:
+                continue
+            if existing_slug != slug:
+                raise ValueError(
+                    f'email hash is already assigned to "{existing_slug}"'
+                )
+            return
+
     with open('./scripts/data/hashes.csv', 'a') as f_out:
         f_out.write(f'{email_hash},{slug}\n')
 
@@ -164,4 +179,4 @@ def prepend_to_file(content, filename, sep='\n\n'):
     with open(filename, 'w') as f_out:
         f_out.write(content)
         f_out.write(sep)
-        f_out.write(old_content) 
+        f_out.write(old_content)

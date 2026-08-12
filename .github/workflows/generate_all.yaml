@@ -17,10 +17,10 @@ jobs:
               fonts-thai-tlwg fonts-kacst fonts-freefont-ttf \
               --no-install-recommends
       - run: chromium-browser --version
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v7
       - name: uv install
         run: |
           pip install uv
@@ -41,4 +41,4 @@ jobs:
       - run: |
           ls
           git status
-      - uses: EndBug/add-and-commit@v8
+      - uses: EndBug/add-and-commit@v11
