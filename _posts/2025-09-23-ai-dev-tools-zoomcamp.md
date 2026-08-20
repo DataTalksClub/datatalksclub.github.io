@@ -134,7 +134,7 @@ You don't need prior coding assistant or coding agent experience, Django experie
 
 ### Module 1: AI-Native Developer Workflow
 
-Tools change every month, but the way we work changes much more slowly. In this module, you take a vague product idea through specification and context, implement it, and then run independent QA on the result. You can read this module as an article: [AI-Native Development: Specifications, Loop Engineering, and Graph Engineering](https://alexeyondata.substack.com/p/ai-native-development-specifications){:target="_blank"}.
+Tools change every month, but the way we work changes much more slowly. In this module, you take a vague product idea through specification and context, implement it, and then run independent QA on the result. You can read this module as an article: [AI-Native Development: Specifications, Loop Engineering, and Graph Engineering](https://aishippingblog.com/p/ai-native-development-specifications){:target="_blank"}.
 
 In this module you:
 
@@ -189,15 +189,15 @@ You also document how you used AI tools, prompts, workflows, agent instructions,
 
 ## Course Articles on Substack
 
-This year we're running an experiment. Alexey publishes one standalone article per module on [his Substack](https://alexeyondata.substack.com/){:target="_blank"}, next to the videos and the repository. You can read the course notes as an article series and follow along even before the cohort starts.
+This year we're running an experiment. Alexey publishes one standalone article per module on [his Substack](https://aishippingblog.com/){:target="_blank"}, next to the videos and the repository. You can read the course notes as an article series and follow along even before the cohort starts.
 
-The first one is already out: [AI-Native Development: Specifications, Loop Engineering, and Graph Engineering](https://alexeyondata.substack.com/p/ai-native-development-specifications){:target="_blank"}. It covers the Module 1 workflow end to end, from a vague idea to a specification, a groomed backlog, and code you can verify.
+The first one is already out: [AI-Native Development: Specifications, Loop Engineering, and Graph Engineering](https://aishippingblog.com/p/ai-native-development-specifications){:target="_blank"}. It covers the Module 1 workflow end to end, from a vague idea to a specification, a groomed backlog, and code you can verify.
 
 Subscribe to get the rest of the articles as they're published, one per module:
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #FF6719; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
-        <a href="https://alexeyondata.substack.com/" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+        <a href="https://aishippingblog.com/" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
             <span>Subscribe to the Substack</span>
             <span style="margin-left: 0.25em;">→</span>
         </a>
@@ -222,7 +222,7 @@ Before the cohort starts, we run a free live event series where we walk through 
 <td style="padding: 12px; border: 1px solid #dee2e6;">Workshop 1: AI-Native Developer Workflow</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">July 22, 2026</td>
 <td style="padding: 12px; border: 1px solid #dee2e6;">Using AI coding tools for planning, implementation, review, testing, and debugging without losing control of the code</td>
-<td style="padding: 12px; border: 1px solid #dee2e6;"><a href="https://www.youtube.com/watch?v=VUJxJGpaDEs" target="_blank">Recording</a> &middot; <a href="https://alexeyondata.substack.com/p/ai-native-development-specifications" target="_blank">Article</a> &middot; <a href="https://luma.com/lmkti8zj" target="_blank">Event</a></td>
+<td style="padding: 12px; border: 1px solid #dee2e6;"><a href="https://www.youtube.com/watch?v=VUJxJGpaDEs" target="_blank">Recording</a> &middot; <a href="https://aishippingblog.com/p/ai-native-development-specifications" target="_blank">Article</a> &middot; <a href="https://luma.com/lmkti8zj" target="_blank">Event</a></td>
 </tr>
 <tr style="background-color: #f8f9fa;">
 <td style="padding: 12px; border: 1px solid #dee2e6;">Workshop 2: Build and Ship an AI-Assisted Full-Stack App</td>
