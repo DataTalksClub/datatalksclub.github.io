@@ -261,7 +261,7 @@ Throughout the 9-week program, you'll master essential tools like Docker for con
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
-        <a href="https://airtable.com/appzbS8Pkg9PL254a/shr6oVXeQvSI5HuWD" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+        <a href="https://courses.datatalks.club/register/de-zoomcamp/" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
             <span>Join Data Engineering Zoomcamp</span>
             <span style="margin-left: 0.25em;">→</span>
         </a>
@@ -335,7 +335,7 @@ You'll learn to use MLflow for experiment tracking, build automated training pip
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
-        <a href="https://airtable.com/appYdhA23GVZd1iN2/shrCb8y6eTbPKwSTL" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+        <a href="https://courses.datatalks.club/register/mlops-zoomcamp/" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
             <span>Join MLOps Zoomcamp</span>
             <span style="margin-left: 0.25em;">→</span>
         </a>
@@ -409,7 +409,7 @@ The course covers managed LLM APIs (OpenAI), teaches you both text and vector se
 
 <div style="text-align: center; margin: 2em 0;">
     <div style="display: inline-block; background: #28a745; padding: 0.5em 2em; border-radius: 8px; box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08); transition: all 0.15s ease;">
-        <a href="https://airtable.com/appPPxkgYLH06Mvbw/shr7WtxHEPXxaui0Q" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
+        <a href="https://courses.datatalks.club/register/llm-zoomcamp/" target="_blank" style="text-decoration: none; color: white; font-size: 1.25rem; font-weight: 600; display: flex; align-items: center; gap: 0.5em;">
             <span>Join LLM Zoomcamp</span>
             <span style="margin-left: 0.25em;">→</span>
         </a>
