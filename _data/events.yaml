@@ -11,6 +11,7 @@
   speakers: [pauldomanski]
   type: podcast
   link: https://luma.com/rjxh9b0m
+  youtube: https://www.youtube.com/watch?v=fxVSQteBnmg
 
 
 - time: 2026-08-17 17:00:00
@@ -29,7 +30,7 @@
   youtube: https://www.youtube.com/watch?v=usQiNUVoCzE
 
 
-- time: 2026-08-24 17:00:00
+- time: 2026-08-31 17:00:00
   title: "Use Claude Code Like a Pro"
   speakers: [bhavaniravi]
   type: workshop
