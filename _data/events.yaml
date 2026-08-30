@@ -1,4 +1,25 @@
 
+- time: 2026-09-14 17:00:00
+  title: "ML Zoomcamp 2026 Course Launch"
+  speakers: [alexeygrigorev]
+  type: webinar
+  link: https://luma.com/f8lq4f1w
+
+
+- time: 2026-09-08 17:00:00
+  title: "Build an LLM Wiki for Agent Long-Term Memory"
+  speakers: [pauliusztin]
+  type: workshop
+  link: https://luma.com/dtc-b1dl
+
+
+- time: 2026-09-01 17:00:00
+  title: "ML Zoomcamp 2026 Pre-Course Live Q&A"
+  speakers: [alexeygrigorev]
+  type: webinar
+  link: https://luma.com/0kxlwm6d
+
+
 - time: 2026-09-15 17:00:00
   title: "Building AI Agent Workflows with Switch"
   speakers: [louisamaudruz]
