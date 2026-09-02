@@ -3,7 +3,7 @@ name: Deploy site to S3
 env:
   RUSTKYLL_VERSION: v0.4.6
   RUSTKYLL_LINUX_AMD64_SHA256: 8a8d05b5056cb34bd59a76f7952be48e7d6cb93782821c4a688f13a7908185f5
-  AWS_REGION: us-east-1
+  AWS_REGION: eu-west-1
   AWS_ROLE_ARN: arn:aws:iam::387546586013:role/dtc-legacy-static-site-publisher
   S3_BUCKET: dtc-legacy-site-387546586013
   CLOUDFRONT_DOMAIN: d5688tx5knzax.cloudfront.net
@@ -71,6 +71,7 @@ jobs:
       - name: Invalidate CloudFront
         run: |
           DIST_ID=$(aws cloudfront list-distributions \
+            --region us-east-1 \
             --query "DistributionList.Items[?DomainName=='${CLOUDFRONT_DOMAIN}'].Id" \
             --output text)
           if [ -z "$DIST_ID" ] || [ "$DIST_ID" = "None" ]; then
@@ -78,5 +79,6 @@ jobs:
             exit 1
           fi
           aws cloudfront create-invalidation \
+            --region us-east-1 \
             --distribution-id "$DIST_ID" \
             --paths "/*"
