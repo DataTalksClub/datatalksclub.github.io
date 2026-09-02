@@ -1,0 +1,82 @@
+name: Deploy site to S3
+
+env:
+  RUSTKYLL_VERSION: v0.4.6
+  RUSTKYLL_LINUX_AMD64_SHA256: 8a8d05b5056cb34bd59a76f7952be48e7d6cb93782821c4a688f13a7908185f5
+  AWS_REGION: us-east-1
+  AWS_ROLE_ARN: arn:aws:iam::387546586013:role/dtc-legacy-static-site-publisher
+  S3_BUCKET: dtc-legacy-site-387546586013
+  CLOUDFRONT_DOMAIN: d5688tx5knzax.cloudfront.net
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["generate_all"]
+    types: [completed]
+    branches: [main]
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: s3-deploy
+  cancel-in-progress: true
+
+jobs:
+  build:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Install Rustkyll
+        run: |
+          mkdir -p .bin
+          curl -fsSL \
+            "https://github.com/alexeygrigorev/rustkyll/releases/download/${RUSTKYLL_VERSION}/rustkyll-linux-amd64" \
+            -o .bin/rustkyll
+          echo "${RUSTKYLL_LINUX_AMD64_SHA256}  .bin/rustkyll" | sha256sum -c -
+          chmod +x .bin/rustkyll
+      - name: Build with Rustkyll
+        run: .bin/rustkyll build
+        env:
+          JEKYLL_ENV: production
+      - name: Upload site artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: _site
+          retention-days: 1
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download site artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v6
+        with:
+          role-to-assume: ${{ env.AWS_ROLE_ARN }}
+          role-session-name: github-actions-s3-deploy
+          aws-region: ${{ env.AWS_REGION }}
+      - name: Sync site to S3
+        run: aws s3 sync _site "s3://${S3_BUCKET}" --delete
+      - name: Invalidate CloudFront
+        run: |
+          DIST_ID=$(aws cloudfront list-distributions \
+            --query "DistributionList.Items[?DomainName=='${CLOUDFRONT_DOMAIN}'].Id" \
+            --output text)
+          if [ -z "$DIST_ID" ] || [ "$DIST_ID" = "None" ]; then
+            echo "::error::No CloudFront distribution found for ${CLOUDFRONT_DOMAIN}"
+            exit 1
+          fi
+          aws cloudfront create-invalidation \
+            --distribution-id "$DIST_ID" \
+            --paths "/*"
