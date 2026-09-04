@@ -2,20 +2,13 @@
 short: nakulbajaj
 title: "Nakul Bajaj"
 picture: "images/authors/nakulbajaj.jpg"
-
-
+bio_short: "Nakul Bajaj is a data scientist, MLOps engineer, educator, and mentor with over eight years of experience in data science and technology. He is the co-author of Data-Centric Machine Learning with Python (Packt), built cloud-based BI and analytics platforms in banking, and developed ML engineering and MLOps practices in the health industry. He tutors data science graduates, volunteers with universities across Australia, and holds a Masters in Information Systems from Deakin University."
 linkedin: nakul-bajaj
 
 ---
 
-Nakul Bajaj is a data scientist, machine learning operations engineer, educator and a mentor, helping junior data scientists and data engineers to navigate their data journey. 
+Nakul Bajaj is a data scientist, machine learning operations engineer, educator, and mentor with more than eight years of experience in the data science and technology domain. He left a business management career and his family business in India to build an analytics career in Australia, and the experience of watching people struggle with manual, repetitive processes is what drew him to technology and automation.
 
-He has over eight years experience in the data science and technology domain, working on growing number of projects. He led a customer analytics team for bank's corporate and institutional customers for a year. He was involved in building a custom blockchain solution to reduce cash flow lead time for agriculture customer of the bank. During his banking career, his most valuable contribution was building a scalable and self service Business Intelligence software on the cloud. This solution will provide custom reporting and insights, to over six thousand business customers. 
+In banking, he led a customer analytics team serving corporate and institutional customers, contributed to a custom blockchain solution that reduced cash flow lead time for an agriculture customer, and built a scalable, self-service business intelligence platform on the cloud providing custom reporting and insights to over six thousand business customers. After banking, he focused on building machine learning engineering and MLOps practices in the health industry.
 
-Post banking he has been involved in building Machine learning(ML) engineering and Machine Learning Operations (MLOPS) practices in the health industry. He has tutored Data Science graduates at Deakin University in 2017 and The University of Queensland in 2022. Every year Nakul volunteers his time to deliver a lecture on "Starting in Data Science" and other data topics to graduates at RMIT University in Melbourne. He is quite active in the data community and mentors students from different universities across Australia. 
-
-Nakul holds a Masters degree in Information Systems from Deakin, with a Business Analytics Specialisation as well as Bachelors degree in Information Systems from Monash University. He also holds a nano degree in Data Engineering from Udacity E-learning platform. 
-
-He has been a business manager and left the family business in India to kickstart a career in analytics in Australia. His business management career made him learn about pain points, when humans are involved in manual and repetitive processes, which led him to chase technology and automation. 
-
-He is currently leveraging his passion to reduce complexity from machine learning use-cases in business, by making data science and data engineering, easy to do and understand across the organisation. He believes, that by raising data science and Artificial Intelligence awareness world can be a better place.
+Nakul is the co-author, with Jonas Christensen and Manmohan Gosada, of Data-Centric Machine Learning with Python, published by Packt, covering practical techniques for improving datasets, labels, and annotation quality. He has tutored data science graduates at Deakin University and The University of Queensland, volunteers every year to deliver lectures such as Starting in Data Science at RMIT University in Melbourne, and mentors students from universities across Australia. He holds a Masters degree in Information Systems with a Business Analytics specialisation from Deakin, a Bachelors degree in Information Systems from Monash University, and a Data Engineering nano degree from Udacity.
