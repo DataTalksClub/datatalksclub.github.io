@@ -1,0 +1,1322 @@
+0:00 hi everyone Welcome to our event this
+0:02 event is brought to you by data do club
+0:04 which is a community of people who love
+0:06 data we have weekly events and today is
+0:09 one of such events if you want to find
+0:11 out more about the events we have there
+0:13 is a link in the description go there
+0:15 check it out you'll see all the events
+0:17 we have in our
+0:19 pipeline if you have not subscribed yet
+0:21 to our YouTube channel now it's the best
+0:24 time to do that so if you subscribe you
+0:26 will get notified about all future
+0:27 streams like the one we have today and
+0:30 we have an amazing slack Community where
+0:32 we can hang out with other data
+0:34 enthusiasts during today's interview you
+0:36 can ask any question you want there is a
+0:39 pin Link in the live chat so click on
+0:41 that ask your question and we will be
+0:43 covering these questions during the
+0:46 interview I'll stop sharing right now
+0:49 and I don't know where my mobile is
+0:51 usually I also open the stream on my
+0:53 mobile phone to track uh questions there
+0:58 but it's gone so I'll try
+1:01 to make do without it okay so now I'm
+1:07 opening the questions we prepared for
+1:09 you and if you're ready we can
+1:15 start let's
+1:17 start this week we'll talk about AI for
+1:20 Ecology biodiversity and conservation
+1:23 and we have a special guest today Tanya
+1:25 Tanya is a computational ecologist with
+1:27 research at the unique intersection of
+1:29 computer science B life biology and
+1:32 social sciences and social sciences and
+1:35 this is what we will be talking today so
+1:37 welcome to our
+1:41 interview thank you thank you for having
+1:44 me yeah and as usual the questions for
+1:47 today's interview are prepared by
+1:48 Johanna Bay thanks Johanna for your help
+1:51 and let's start so before we go into our
+1:54 main topic of AI for Ecology
+1:56 biodiversity and conservation let's
+1:59 start with your background can you tell
+2:00 us about your career Journey so
+2:03 far yes so currently I am professor of
+2:06 computer science and engineering
+2:07 electrical Computer Engineering and
+2:10 evolution ecology and organismal biology
+2:12 at the Ohio State University in the
+2:15 state of Ohio in United States uh I'm
+2:18 also director of the translational data
+2:21 analytics Institute there that's the
+2:23 largest interdisciplinary Research
+2:24 Institute at OSU and OSU is a very large
+2:28 University uh and that is a community
+2:32 research Community within the university
+2:34 that unites anybody who in some way
+2:38 generates uses analyzes represent is
+2:40 Curious by enabled by U adjacent to data
+2:44 in their research scholarship and
+2:45 Creative Expressions and that these days
+2:48 that's pretty much everybody so we have
+2:51 people from Arts and Humanities to
+2:52 statistics and computer science my own
+2:55 research and my own focus is on AI for
+2:59 Ecology environment
+3:00 BYOD diversity and
+3:02 conservation and um that journey in
+3:06 research started with my PhD at the
+3:09 University of Illinois at Orban champ
+3:11 pain which I got in
+3:14 2002 a while ago uh and after a
+3:20 postdoc uh postdoctoral um training at
+3:24 the University of New Mexico in
+3:26 computational uh philogyny that's
+3:29 evolutionary bi ology and then in
+3:31 computation College in Princeton I
+3:34 started as a faculty at the University
+3:36 ofo Chicago in 2005 and came to the Ohio
+3:40 State University in 2020 right before
+3:44 the pandemic January 2020 was great
+3:47 timing so I've been here ever since um
+3:51 and in and along the way uh in my
+3:55 journey I did my PhD in very theoretical
+3:58 computer science so that had nothing to
+4:01 do with ecology but uh I um did have
+4:07 jobs in a Colley departments and worked
+4:09 with a colist and married to one so I've
+4:12 walked away from many conversations with
+4:14 a colist that there better ways there
+4:17 got to be better ways of answering
+4:19 questions that they were asking um other
+4:22 than what was typical at the time is
+4:24 creating systems of partial differential
+4:26 equations describing um different
+4:28 aspects of the system with having more
+4:30 parameters than uh than like birds or or
+4:35 animals um that we wanted in the
+4:38 population that we wanted to
+4:39 characterize and so I also studied uh
+4:43 it's called computational ecology or
+4:46 biology where you model population of
+4:48 fish or like there's also these models
+4:52 like Predator prey right yeah a lot of a
+4:56 ton of differential equations and like
+4:58 actually when I was studying like I was
+5:01 studying computer science and I was
+5:02 thinking like why do I need all
+5:05 that yeah so I was thinking the same
+5:07 thing especially when when uh working on
+5:11 data sets I I remember one was uh
+5:15 working for the Army Corps of Engineers
+5:18 because the thing is in the US the
+5:21 AR the army bases are often the last big
+5:27 habitats untouched actually habitats
+5:30 of uh many rare and endangered species
+5:34 and so they're required by law to do
+5:38 impact assessment on their activities on
+5:40 these endangered species this is The
+5:42 Endangered Species Act that just
+5:43 celebrated its 50th anniversary in the
+5:45 United States in
+5:47 December so if they want to do a an
+5:51 exercise a military exercise or put a
+5:53 road through the military base they need
+5:56 to figure out what's the impact going to
+5:58 be on the endangered species and so I
+6:00 spent a lot of time modeling the impact
+6:03 of like 30 Birds population with like
+6:07 100 parameter systems and I was like no
+6:09 this has got to be a better way so after
+6:11 my PhD I did start developing the whole
+6:15 area what it would be look what it would
+6:18 look like what are the algorithmic
+6:20 approaches that are not necessarily the
+6:22 dynamic
+6:23 systems and uh in the process realized
+6:27 that we
+6:28 need methods like machine learning
+6:30 computer vision methods for even basic
+6:33 analysis of data because images are by
+6:37 far the largest and most abundant source
+6:40 of information about data um about
+6:43 anything in the world including
+6:45 including wildlife and so that's where
+6:49 in
+6:50 2011 uh we got the
+6:52 first almost by accident the first
+6:55 program for identifying individual
+6:57 zebras from photographs um with just two
+7:02 clicks and that
+7:04 was um part of my collaboration with
+7:09 behavioral e colist so I started out uh
+7:12 with a colle working with a colist who
+7:14 study behavior of animals particularly
+7:16 social
+7:17 behavior um and more specifically zebras
+7:21 which is why zebrra in my background
+7:23 here uh so Dan Rubenstein a professor at
+7:27 Princeton University in the US in New
+7:29 Jersey
+7:30 uh the
+7:33 premier researcher who studies equids so
+7:37 zebra's horses
+7:39 dys and they were studying social
+7:41 behavior and I was like wait how do you
+7:43 know who is whose zebra
+7:46 friend like well we have a field
+7:49 assistant who goes out in the field you
+7:51 know looks on a closed loop in this
+7:54 Nature Preserve in Kenya every time she
+7:56 sees zebras um she stops she takes GPS
+7:59 tries to make very very very careful
+8:01 pictures uh take of every zebra that she
+8:04 sees with making sure they're facing
+8:06 right with like the the uh whole side
+8:11 visible and she keeps the best picture
+8:13 and then she brings them to the back to
+8:15 the lab and then starts clicking on the
+8:17 outline of the zebra and I was watching
+8:20 her do that and I'm like I'm in an
+8:23 impatient engineer right so two minutes
+8:26 into it I'm like how long is it going to
+8:27 take they're like wait
+8:29 five minutes later I'm like this is
+8:31 taking forever how long is it going to
+8:32 take like
+8:34 wait 20 minutes later after clicking on
+8:37 the outline because what happened is
+8:39 that they would click very very very
+8:40 carefully on the outline and there was a
+8:42 program that would fit a 3D model and
+8:44 then match pixel for Pixel uh of the the
+8:47 the lines of the zebras which is also
+8:49 very inaccurate I'm like oh my God this
+8:51 is insane this is taking
+8:55 forever and they're like oh if you're so
+8:58 impatient you know do you think you can
+9:00 do better I like you want a bet it
+9:02 should take two
+9:03 clicks so after that of course I go to
+9:07 my then PhD student M ciran and I just
+9:11 bet my reputation that we can identify
+9:13 individual zebras from photographs in
+9:15 two
+9:17 clicks but I also have an idea how to do
+9:19 it so we did and it was okay um and then
+9:25 um but it got a lot of publicity because
+9:28 you know walking bar codes kind of
+9:31 analogy even though it's not accurate
+9:33 but that's you know really identifying
+9:35 individual zebras to photographs great
+9:38 so a proper computer vision researcher
+9:41 Chuck Stewart at TR po Technic Institute
+9:43 heard about it and was uh and approached
+9:46 me at a conference saying great you can
+9:50 identify individual zebras from
+9:52 photographs uh but we can do better I'm
+9:54 like fantastic let's do it and so we did
+9:57 and that's when in 2013 we publish this
+10:00 um paper which on properly identifying
+10:04 individual animals from photographs
+10:05 anything strip uh spotted wrinkled
+10:08 notched so that's expanded the number of
+10:10 species proper computer vision approach
+10:13 um in some obscure we published it in
+10:16 some obscure computer Vision conference
+10:17 and then two months later we had we were
+10:20 we thought we were done but then because
+10:22 we published right this is how research
+10:24 works but two months later we had
+10:25 requests from about 70
+10:28 70 uh researchers all over the pl all
+10:31 over the world asking can you do my
+10:33 species can you do my species everything
+10:34 from like tiny Hawaiian Smiles beautiful
+10:37 ones look them up to whale sharks and uh
+10:42 uh Tigers everything I'm like oh my God
+10:45 this is actually useful for
+10:47 conservation so we started a nonprofit
+10:50 wild me that creates AI solutions for
+10:52 conservation and his home of the
+10:55 platform wild book which um is using
+10:58 this individual ID to really organize
+11:02 observations about animals and then
+11:06 uh to continue research in this recently
+11:10 found by the US National Science
+11:12 Foundation we founded a whole new field
+11:14 of science called image omic the omx of
+11:18 images and we'll practice pronouncing
+11:20 that
+11:22 umix image omx the omx of images so it's
+11:25 image omx right IM like
+11:28 economics no like genomics like
+11:31 proteomics metabolomics so protein right
+11:35 so prote
+11:37 omic um Jean omx there are so many more
+11:41 omix than I could ever imagine yeah yes
+11:46 so we'll talk a little bit about that
+11:48 but uh and then Ai and biodiversity
+11:50 chain Global Climate Center also
+11:52 recently funded by the US National
+11:54 Science Foundation and the Canada's uh
+11:58 national science engineering research
+12:00 council is a new center to understand
+12:03 the impact of climate change on AI on
+12:06 biodiversity using AI so with that this
+12:08 is kind of most of the icons that in my
+12:10 background and like very brief summary
+12:13 of my
+12:14 journey and Finny that you mentioned
+12:16 that um like you said you are married to
+12:19 if I understand correctly if I remember
+12:20 correctly I'm married to was ecologist
+12:24 ecologist yeah ecologist and then you
+12:26 also observe how people do this in this
+12:29 field and for you a computer scientist
+12:31 that was like
+12:34 seriously that takes so much time and
+12:36 this is also my mother is also she's um
+12:39 an
+12:40 ecologist and like I
+12:43 noticed I think it was 10 years ago when
+12:45 I was helping here with some
+12:47 calculations that the methods that are
+12:50 used that are
+12:52 super common place in uh like data
+12:56 science in Industry are only getting
+12:59 attention in ecology right and things
+13:02 like I don't know time series analysis
+13:04 like uh all this machine learning uh
+13:07 classification
+13:08 regression they're not really that
+13:11 widespread and you could publish a paper
+13:14 by just taking a data set with some
+13:16 climate data and then off the shelf
+13:19 model from Psychic learn fit in it and
+13:21 then publishing the paper and to me it
+13:23 was
+13:25 like very interesting um observation
+13:29 because like I had no idea that uh you
+13:31 know I thought it's normal because like
+13:33 I'm a data scientist I see this
+13:35 happening every day at work right and I
+13:38 guess this is this was also kind of your
+13:40 experience right that you saw that
+13:42 there's so much to be automated in this
+13:45 area so it's more than automated um you
+13:50 know biodiversity and conservation so I
+13:54 would separate a little bit the climate
+13:55 science environments and Science and
+13:57 biodiversity and conservation
+13:59 climate science I think gets a lot of
+14:01 attention and reasonable amount of
+14:03 resources recently so there are amazing
+14:07 climate models and they're constantly
+14:09 improving and there's an insane amount
+14:10 of data that's there uh particularly
+14:13 through remote sensing and so things
+14:16 like agencies like um all the space
+14:19 agencies that observe led by NASA the US
+14:23 space agency and uh well National
+14:27 atmospheric uh and space agency and then
+14:32 um no not atmospheric I combine the two
+14:36 agencies together apologies to NASA um
+14:40 because uh the
+14:43 the na
+14:45 uh the Noah and NASA
+14:48 sorry
+14:50 um the two uh agencies that collect
+14:54 remote sensing data in the US but then
+14:56 also space agencies and equivalent
+14:58 agencies throughout the world so there's
+14:59 a lot of data about climate and climate
+15:03 change and also
+15:05 environmental um
+15:07 data but for biodiversity and
+15:10 conservation the data is very the data
+15:13 situation is very very different in fact
+15:15 we actually do not have good data in
+15:20 this in this area you gave an example
+15:23 like there was only 30 birds of a
+15:25 certain species right and like how could
+15:28 you this with standard for population
+15:31 yeah um but the
+15:34 biodiversity H that's related right
+15:37 because I'm yes not really knowledgeable
+15:39 in all this areas yeah yeah absolutely
+15:42 so so you know not only populations are
+15:45 not observed often enough so we have
+15:48 this that the whole journey there
+15:50 started with like you have we have 30
+15:52 birds in a particular area that's the
+15:55 population of these birds there are
+15:57 other populations and so when they try
+15:59 to model
+16:01 these population Dynamics where you need
+16:04 birth rate death rate dispersal rate you
+16:06 know uh mating rates all all of these
+16:09 kinds of
+16:10 things uh successful
+16:13 mating the the parameters that they
+16:15 would take are okay so this is the
+16:18 population uh in Florida but we have
+16:21 this birth rate from uh similar species
+16:25 in Texas great we'll use that we have a
+16:29 death rate from this species but from 50
+16:33 years ago you know so it's it's all over
+16:36 the place and this is just the tip of
+16:39 the iceberg we don't even have the basic
+16:42 data we say that right now the recent
+16:45 reports are saying that million species
+16:47 are threatened with Extinction and by
+16:49 the way million to put this in context
+16:53 there is total estimated only about 10
+16:57 million species of plants fungi and
+17:02 animals out there that includes old bugs
+17:05 all the Beetles insects everything
+17:09 that's a shockingly low number right so
+17:11 only 10 million species people think
+17:14 they're billions MH that's what I
+17:17 thought too well I billions yeah I
+17:21 thought no only 10 million which means
+17:24 that million million like 10% is uh
+17:29 threatened with Extinction
+17:31 yeah so that's that's the shocking
+17:34 number right and so but the thing is
+17:38 these are estimates we've done now
+17:40 people have done now four different ways
+17:42 of estimating the number of species and
+17:44 they still come to the same number
+17:46 roughly um and the one million of
+17:49 threatened with Extinction is probably
+17:50 an underestimate there's probably even
+17:52 more but we really don't have good
+17:54 numbers to to to give more accurate
+17:57 estimates uh um even though we know that
+18:01 the situation is dire because the
+18:03 international unit for conservation of
+18:05 nature Red List which is the official
+18:07 organization that tracks the
+18:09 biodiversity of the world it's called
+18:11 the biodiversity monitor of the
+18:13 planet um you know the biodiversity in
+18:17 general is the who where when like what
+18:20 are the species where they are and what
+18:24 what are the the the population trends
+18:27 of the species and
+18:29 so the of the species that IU and redist
+18:33 monitors and this is the organization
+18:35 that when we say the species are
+18:37 endangered it's because the species
+18:39 commission for UC and red list for that
+18:41 species using some metrics determine
+18:44 that that's the the status of the
+18:46 species so they need data to do
+18:49 this so more than half of the species
+18:53 that they track currently and that's
+18:55 about 160,000 also not a big number um
+18:59 are either data deficient so they don't
+19:02 have metrics enough to determine
+19:03 anything or
+19:06 um the the population friend isn't known
+19:10 these are not obscure species so killer
+19:12 whale orcas the largest dolphin in the
+19:15 in
+19:16 the in the ocean the largest dolphin in
+19:19 the world killer whales they they're
+19:23 data deficient I mean you if you cannot
+19:26 tell me anything about killer whales
+19:30 I mean they're hard to miss when they're
+19:32 in the
+19:32 ocean right um especially when they
+19:35 attack boats now no in Spain how can we
+19:39 actually use technology to exactly there
+19:43 are there are whales yes and we cannot
+19:45 miss them when them when we are on a
+19:47 ship but like still how can
+19:52 we question deficiency and the
+19:57 population is not known so how can we
+19:58 use technology to actually measure that
+20:02 that's exactly where we decided okay
+20:03 we're going to do something about it
+20:05 because you know polar bears population
+20:08 trend is unknown I'm like are you
+20:10 kidding me this is the the conservation
+20:12 icon right of of the world polar bears
+20:15 so if we don't know anything about
+20:18 species like orcus and polar bears we
+20:20 really are in in a bad situation so over
+20:22 the last 20 years clearly technology has
+20:25 exploded uh you know we have remote
+20:27 sensing we have auton drones right
+20:29 autonomous vehicles underwat on the
+20:31 ground and in the air we have sensors
+20:34 that we can put on animals themselves
+20:36 everything from Radio colors to you know
+20:39 uh Bluetooth GPS accelerometers
+20:43 everything we have inc2 sensors such as
+20:46 cameras traps that are motion activated
+20:48 cameras we have acoustic sensors and we
+20:51 have these guys we have devices that
+20:53 everybody uses to take pictures but even
+20:56 with all of that so one is by far images
+21:01 is the most abundant Source from all of
+21:03 this but two if we look at the data of
+21:05 How It's distributed it's very biased
+21:08 towards North America and Europe that's
+21:11 not where the highest biodiversity is
+21:13 highest biodiversities in the tropics
+21:15 and it's South it's um South America and
+21:19 Africa by a large margin and we have
+21:23 very little data from there also all the
+21:26 methods for analyzing images right all
+21:29 the AI and computer vision that's being
+21:31 developed for image analysis if this is
+21:33 what we're using as our primary source
+21:36 um again the vast production is in North
+21:40 America Europe and China right now of
+21:43 these methods that's not where the
+21:45 biodiversity is so that's like developed
+21:48 in absence of the context of what's
+21:50 needed for these kinds of questions and
+21:53 you cannot actually just take off the
+21:55 shelf methods that are out there for for
+21:58 image is um and apply it directly to
+22:02 questions and um biodiversity monitoring
+22:06 be for many many different reasons that
+22:08 I'm happy to get into in more detail so
+22:12 so we need to to to Really develop
+22:14 methods that are appropriate for let's
+22:17 say image analysis for biodiversity
+22:19 monitoring and there is a community not
+22:21 a huge
+22:23 Community still well under 100 if I'm
+22:27 being super generous
+22:30 uh that is working on developing these
+22:32 methods and so methods like I mentioned
+22:36 identifying individuals so that allows
+22:38 us to do population count so wild book
+22:41 now has been used for updating well
+22:44 charar gravy zebras Simi ring seals and
+22:48 Iberian links
+22:49 population um
+22:51 monitoring from directly from the data
+22:54 in Wild uh to IU and red list so they
+22:58 they status also we have now well book
+23:01 for whales and dolphins so hope and and
+23:05 orcas Hiller whales are now part of that
+23:08 so hopefully there will be soon enough
+23:10 data to reassess the population the
+23:14 species status and to and and killer
+23:17 Welles will be data deficient how does
+23:19 actually work like is there do you use
+23:23 satellite data or you use some sort of
+23:25 like radio signals cuz like pictures
+23:30 pictures any kind of pictures cameras uh
+23:33 aerial photographs people taking
+23:35 pictures when they're on whale watching
+23:38 fishing boats but you cannot take
+23:41 literally
+23:43 pictures you can take not in the entire
+23:46 ocean it's still biased towards where
+23:48 the boats are where the people are right
+23:50 so it's where the boats are where or or
+23:53 Shores where the the whale may be where
+23:56 whales try to stay away from
+23:59 like there
+24:00 is or maybe to some extent yes but uh
+24:04 We've shown for example with whale
+24:06 sharks which is the largest
+24:08 fish in the
+24:10 ocean the data collected by people even
+24:15 though it is biased T shortes
+24:18 by quite a bit uh data collected to
+24:22 people uh by people including data from
+24:26 social media people posting on YouTube
+24:28 and other social media platforms hey we
+24:31 went on this whale watching tour uh on
+24:34 this whale shark swimming with whale
+24:37 sharks here's my pictures here's my it
+24:39 is videos so um all of these data
+24:43 together improved the population size
+24:46 estimate and was used in fact to uh have
+24:50 the most comprehensive study uh on the
+24:53 biology of whale sharks It For the First
+24:56 Time revealed migration
+24:59 patterns seasonality of migration
+25:00 patterns of the species because it you
+25:04 know people knew but we never had enough
+25:06 data to show that they travel 5,000
+25:08 miles these are Global species you can
+25:11 identify the same whale shark in Cancun
+25:13 in in uh and then in the Philippines and
+25:18 because we can identify yes it's the
+25:20 same animal from the spot pattern of
+25:22 this of of the
+25:24 Sharks we can now know how far they
+25:27 travel what's the pattern of that travel
+25:30 as a global species there is not one
+25:33 project not one organization that have
+25:35 data on even one individual so you have
+25:37 to put together the data from the entire
+25:40 Globe right to really create the picture
+25:43 of a of a global species and that's what
+25:45 platforms that's what technology like
+25:47 this allows we really can take all
+25:50 available data from the entire
+25:53 world okay so if I understood correctly
+25:56 so let's say there are this whales
+25:59 there's already some
+26:01 estimate or like I think for whales you
+26:04 said it's unknown but like for for
+26:06 sharks for certain sharks there's
+26:08 already some estimate right and then
+26:10 what you can do you can tap into social
+26:13 media uh pictures or streams from these
+26:17 boats or like all the
+26:19 signals and you can use that and also
+26:22 knowing the patterns of how these
+26:23 animals travel how they
+26:26 migrate you can correct or make a more
+26:30 accurate estimate right yeah so the
+26:33 underlying particularly so when you can
+26:36 identify
+26:37 individuals there is a particular method
+26:40 statistical method that's used for
+26:42 population size estimates so in its
+26:44 capture marker
+26:46 capture to explain a very very simple
+26:50 situation and by the way the same
+26:51 technology is used for was used for the
+26:55 first ever full census of an entire
+26:57 species is the endangered gravy zebra or
+27:00 gravy zebra in Kenya so these are not
+27:05 those are not the endangered ones the
+27:07 ones behind me uh are the common zeas do
+27:11 those are the ones in serengetti
+27:13 thousands uh migrations with wilderbeast
+27:16 and what most people what most people
+27:18 think when they sing
+27:20 zebra they're not the the common ones
+27:22 are not endangered and they are found
+27:24 throughout the entire continent of
+27:26 Africa there are two other species of
+27:28 zebras left that are both are endangered
+27:30 and one of them is gravy zebra uh mostly
+27:33 found in zoos outside of Kenya and a
+27:36 little bit in Ethiopia and so these are
+27:39 beautiful uh species they look very
+27:42 different smaller
+27:43 Stripes thinner Stripes They're bigger
+27:46 also white belly and Mickey Mouse ears
+27:49 and so there was estimated that there's
+27:51 about 3,000 of them left in the world
+27:56 95% in Kenya
+27:59 and
+28:00 because we can identify individual
+28:04 animals from
+28:06 photographs
+28:08 um the the same technology enabled for
+28:11 the first time in
+28:13 2016 the great gravy uh rally so that
+28:17 was an event organized by the gravy
+28:19 zebra cons conservation trust in Kenya
+28:22 and Kenya Wildlife co-organized later
+28:25 with Kenya Wildlife service which is a
+28:26 government organization and Wildlife
+28:29 direct an coaching
+28:31 nonprofit to come together and to bring
+28:35 everybody anybody tourists came uh
+28:38 coming into country to to on The Safaris
+28:41 but also Kenyans school kids um the the
+28:45 the park rangers
+28:47 volunteers and you know even US
+28:49 ambassador to Kenya at the time
+28:51 participated so we had about uh hundreds
+28:56 of people resulted in for two days
+28:58 driving around the country taking
+29:00 picture of every gravy zebra they saw
+29:03 and anything else they
+29:04 wanted and then in two days that
+29:08 resulted in 40,000 images of
+29:13 zebras
+29:15 so what you can do then you can make a
+29:18 simple assumption that in two
+29:20 days there are few very few To None
+29:23 death birth you know immigration
+29:26 immigration of of so it's a close
+29:30 population and let's say on the first
+29:33 day you
+29:34 saw uh you saw a uh thousand
+29:40 zebras and then so you know you
+29:43 essentially let's say you spray paint
+29:44 them with pink color you shouldn't but
+29:47 let's say you spray paint them on the
+29:49 second day you go out and you do the
+29:51 same thing you try to photograph every
+29:53 zebra and you end up with
+29:58 another uh maybe 500 but of those
+30:03 500 uh 50 are spray painted
+30:07 pink right so that what it tells you is
+30:10 that on any random on any day if you go
+30:14 out to see zebras assuming that it's the
+30:15 close
+30:16 population um you see about 10% of the
+30:22 population right at random because you
+30:24 saw on the second day you saw 50 of the
+30:26 500 were were
+30:28 marked so so means that you randomly see
+30:32 about 10% of the population so this so
+30:35 This 500 represents about 10% of the
+30:39 total so your estimate should be about
+30:42 5,000 okay works for most animals I
+30:46 guess for most species right this works
+30:49 if you can cap if you can mark them when
+30:51 you capture them right and what used to
+30:54 be done it literally people would
+30:58 capture animals animals to tag them
+31:01 somehow like it's often done with mice
+31:03 it's often done with like small animals
+31:06 and and people or Birds they put tags
+31:09 rings on birds and so that you can do
+31:12 the Testament but then it also works if
+31:14 you have a close population but there
+31:16 are versions of this model that works
+31:18 for open population when you can take
+31:20 into account birth death immigration
+31:22 immigration over a long period of time
+31:25 the nice part about being able to
+31:27 recognize individual animals from
+31:29 photographs is that you don't have to
+31:31 capture them anymore it's not invasive
+31:33 you're essentially marking them by
+31:34 identifying you take a picture that's
+31:36 your capture you mark them by
+31:39 identifying who that individual is not
+31:42 just a zebra but that zi of the zebra
+31:44 that's Zoe the Zebra that's Zach the
+31:45 zebra right and so then when you take a
+31:48 picture again patterns or what yes they
+31:51 have unique patterns like your
+31:54 fingerprint okay and so on the second
+31:56 day when you if somebody else takes a
+31:58 picture of the same zebra we know it's
+32:00 the same zebra so that's the recapture
+32:03 and we knew that by the second mid
+32:05 morning of the second day there were no
+32:08 photographs essentially of any new
+32:10 animals every zebra that was
+32:12 photographable that anybody saw was
+32:15 already
+32:16 photographed so that gives you amazing
+32:19 confidence bounds for population size
+32:21 estimat because you know essentially
+32:24 that you have a photograph of every
+32:26 zebra that's out there that wasn't too
+32:29 shy to be photographed so then the
+32:32 question is how many were not seen at
+32:34 all and that's where you can
+32:36 compare um from 2016 to 2018 which was
+32:41 the same kind of event in 2020 and now
+32:44 20124 and so we know that the
+32:46 intervening years there were no zebras
+32:49 that suddenly came out of the Bush to
+32:51 like well you know what I did not want
+32:53 to be photographed during the when there
+32:55 were too many people around but now
+32:57 please do to take my picture right so no
+32:59 there were none of
+33:00 those which answers my earlier question
+33:03 about whales and them trying to stay
+33:06 away from people right cuz like okay the
+33:09 majority might may stay away from people
+33:13 but some of them do not cuz they're
+33:16 looking for food or whatever and then
+33:18 like if you measure multiple times you
+33:21 can see and find a way to distinguish
+33:24 one um animal from another of the same
+33:29 species yeah I guess whales also have a
+33:31 way to tell that these two anal are
+33:34 different right yeah so we we're not
+33:36 asking animals we need to do it from
+33:37 photographs so we need observable
+33:39 features and so so for whales we have
+33:42 several ways one uh some whale species
+33:46 like uh uh orcas or humback whales have
+33:50 distinct markings right so when you have
+33:53 a picture of the tail of an animal for
+33:55 humbeck whales they have black and white
+33:58 kind of patterns those are unique to
+34:00 every animal individual so you can use
+34:03 them like a fingerprint the same way
+34:04 like we do
+34:05 zebras um for orcas killer whales they
+34:10 have the black and white spots on them
+34:12 again those are unique you actually they
+34:15 uniquely identify every individual in a
+34:17 pretty straightforward way and many many
+34:20 many many species if you think have that
+34:23 for whales like uh sperm whales so so
+34:27 for whal for sperm whales sorry um they
+34:30 don't actually have unique marking so we
+34:31 use the shape of a whale's fluke like
+34:34 that the the whales tail that edge of
+34:37 the of the tail is a unique marking just
+34:41 like your ear by the way the shape of
+34:42 your ear that outline is unique and so
+34:45 is the elephant's ear you can use that
+34:47 outline when it opens I was going to ask
+34:50 you about polar bears like there are no
+34:52 patterns but I think you already
+34:54 answered that cuz like there maybe there
+34:57 are no pattern but there are other
+34:58 features that we can look at
+35:01 like so for bears actually and many
+35:05 other forward looking animals all the be
+35:08 species there's bear ID which a Canadian
+35:11 couple um started as a project which
+35:14 we're starting to incorporate into wild
+35:16 book platforms so Bears um and a
+35:21 cats dogs too but uh and and uh like old
+35:26 cats kind cut all the forward-looking
+35:28 animals you can also and seals you can
+35:31 use um uh all the all the primat we're
+35:35 actually working now with a group that
+35:36 does primate fa using facial
+35:39 identification so so U we can start
+35:42 incorporating that and then also
+35:48 um you know for many other species so we
+35:51 have species on the platform we have
+35:55 species like uh weedy and leafy sea
+35:59 dragons these are uh horse seahorse like
+36:03 relatives these guys look like aliens
+36:07 and yet every single one is individually
+36:10 identifiable all turtles all eight
+36:13 species of turtles we have wild BG that
+36:15 has Turtles the scale patterns on the
+36:18 head and on their appendages are unique
+36:21 after about three months of age so
+36:23 there's so many many species that are
+36:28 that that are uniquely identifiable in
+36:30 fact you know turns out most of us are
+36:34 special every animal is unique even if
+36:37 we humans cannot
+36:40 discern the the they Iden think Chas
+36:44 like for me all chaas look the same
+36:48 right but they are probably not it's
+36:50 just my like I never had a dog right for
+36:54 me
+36:55 like okay I can tell
+36:58 put from a Chihuahua right but like when
+37:00 it comes to a specific breed then like
+37:05 all of them look same to me right but
+37:09 it's because it's because of me right
+37:11 not because they are yeah so humans are
+37:15 actually biased yeah humans are very
+37:17 biased with our visual system so there
+37:20 was a there was a a paper about a year
+37:24 and a half ago showing that humans do
+37:26 not have like part of it is Hardware
+37:28 limitations in our in our visual system
+37:31 so we do not have for example R enough
+37:33 of the red orange Acuity to distinguish
+37:36 uh phenotype different types of
+37:39 moth like different types of moth within
+37:41 one species or
+37:43 butterflies because these differences do
+37:46 not actually evolve for our benefit
+37:48 they're for Birds right moths and
+37:51 butterflies are signaling to birds so
+37:53 when you translate the images into bird
+37:56 acuity
+37:58 uh
+38:00 model machine learning has no problem
+38:03 telling the differences humans
+38:05 cannot so that's the advantage of using
+38:09 Al Another advantage of using um
+38:12 computational approaches is because
+38:13 computers can look at the world from the
+38:17 perspective of other species not limited
+38:19 by our Hardware or software for that
+38:22 matter so we even though we see the
+38:25 differences between the zebra patterns
+38:28 and I can and you can certainly you know
+38:31 if you can if you look long enough you
+38:33 can if I show you two pictures of zebras
+38:36 you can tell oh yeah these are the same
+38:37 these are not the same after about like
+38:39 five minutes of looking at
+38:41 zebras but if I ask you are these two
+38:45 more similar to each other than these
+38:47 two we have no way of
+38:49 quantifying even though we can see that
+38:51 they're different but we can't tell how
+38:54 different so that part no amount of
+38:59 right yeah so no amount of training will
+39:02 let us do this because we evolved the
+39:04 species to be able to use
+39:06 space so we can say oh yeah yeah the
+39:09 baby looks like Mom the baby looks like
+39:11 Dad or this person looks like that
+39:12 celebrity we're great at that but if I
+39:15 tell you you know like is this zebra
+39:17 baby zebra like who is its mom and dad
+39:20 just by STP pattern or what I don't know
+39:23 but computers again can quantify the
+39:25 similarity of the stripe pattern
+39:27 right we have computational approaches
+39:29 for this and that's the advantage and so
+39:31 that is also the premise of The
+39:34 imic Institute and the field of science
+39:37 in the geomic that we can extract
+39:38 biological information such as traits
+39:41 and phenotype the overall collection of
+39:43 trait traits that are the product of
+39:46 genes and the environment and the
+39:47 interaction of those um directly
+39:51 observable ones directly from image and
+39:53 connect that to biological function and
+39:57 so so so
+39:59 because we can use computational
+40:04 approaches right we can use computer to
+40:07 complement what we're
+40:09 seeing right and extend our ability to
+40:12 see uh and to quantify what we're seeing
+40:15 from images and to see in other Spectra
+40:17 to see in other models to see the world
+40:19 from the perspective which is
+40:22 nonhuman which to me these two messages
+40:26 you of one is that we can use AI we can
+40:29 use computational approaches as a
+40:32 partner AI truly is a partner to humans
+40:35 like to complement not to take over but
+40:38 to complement our
+40:40 abilities to make connections among data
+40:42 points among humans among different
+40:44 parts of the world among you know
+40:47 between a a person and
+40:50 nature as well as you know to to give
+40:54 us the ability to to see what we cannot
+40:58 see to see what we're missing like that
+41:02 to me is is you know the the the very
+41:06 hopeful and and exciting aspect of the
+41:10 partnership between Ai and
+41:12 humans coming back to the zebras I'm
+41:15 really curious how it works like let's
+41:18 say we have this task of telling
+41:21 if the we have a zebra and we need to
+41:24 find the mama and the papa of the
+41:28 based on the stripe
+41:31 patterns can computers already do that
+41:34 yeah so we can we can we're starting to
+41:37 so uh we had a very small study
+41:41 preliminary study specifically for
+41:43 zebras because uh because uh the the
+41:46 approach that we're using is actually
+41:48 computer for zebra identification is a
+41:51 computer vision Noni Approach at the
+41:53 moment we're expanding it now to machine
+41:55 learning to include machine learning
+41:56 specific specifically for zebras um for
+41:59 other species we do use machine learning
+42:02 uh quite a bit but here we use approach
+42:05 what known as scale and vared feature
+42:06 transform shft features which are based
+42:10 on the
+42:13 um gradient of the pixel value
+42:16 difference on the sliding Matrix across
+42:19 uh across the the body of the zebras and
+42:21 because they have you know black and
+42:23 white patterns so it's the gradient is
+42:26 is super high where that the changes are
+42:29 and you can kind of create a histogram
+42:32 of these changes that kind of creates a
+42:34 signature for each zebra right yes it
+42:37 creates a signature for each zebra for
+42:40 each image and you can match the
+42:42 signatures between then you have one
+42:45 like vector another vector and you can
+42:47 say how close these vectors are and then
+42:50 this would give
+42:52 us like the overall pattern similarity
+42:55 right right away and like if the
+42:57 patterns are similar they are probably
+42:59 relatives so so we don't know nobody
+43:02 knew that nobody knew whether
+43:05 pattern uh stri the stripe pattern has
+43:09 any kind of uh
+43:12 genetic component to it whether it's
+43:15 heritable in any way whether it's
+43:16 inherited from a parents to baby but we
+43:21 had a small data set of pictures of moms
+43:23 and babies together and we could ask the
+43:26 way we could ask ask is here's a picture
+43:28 of a baby who is the closest adult most
+43:32 similar adult in our data set to this
+43:35 picture of a baby and the mom was
+43:37 actually consistently in the and it's a
+43:40 large population of about 3,000 so the
+43:42 mom was consistently in the top 10 and
+43:47 like quite often majority in the top
+43:48 three so that's a signal that yeah
+43:51 there's there's something there so now
+43:53 we're actually collecting genetic data
+43:55 so we can directly correlate with we've
+43:57 done a similar pilot study on leopards
+44:00 Indian
+44:00 leopards uh and there the facial
+44:03 information was the most relevant so uh
+44:07 the patterns around the face and then we
+44:10 also did did a similar study on bird
+44:13 eggs and so so why bird eggs because
+44:17 Birds a visual species and they
+44:20 recognize eggs that are theirs versus
+44:24 not theirs purely by sight
+44:28 so people uh researchers have done the
+44:31 the studies is it the shape is it the
+44:34 texture is it the smell is it anything
+44:36 else other than sight and the answer is
+44:38 absolutely not you can put a 3D printed
+44:41 egg with a pattern that is similar to
+44:45 theirs they will accept it and the
+44:48 pattern that's too far from theirs on
+44:50 the egg they will kick it out of the
+44:52 nest interesting so they're using egg
+44:55 have no patterns they do do so so many
+44:58 eggs do have patterns uh you're thinking
+45:01 chicken uh this is not chicken this is
+45:03 uh other species so um most eggs
+45:06 actually have
+45:08 spots like qu eggs for example no way of
+45:13 determine if it's uh they do they do uh
+45:17 but they they they also have color so
+45:19 what like chickens that are not bred for
+45:23 genetic similarity which is production
+45:26 production and animals very quickly
+45:29 start you know from brown blue brown
+45:33 blue
+45:34 greenish like all the chicken have the
+45:37 specific gome right
+45:40 jeans yeah so so so they're bread the
+45:43 breeds are the industrial production
+45:45 breed are very close why the eggs are
+45:48 it's like they're all
+45:50 siblings not quite but yeah close and so
+45:53 so there's not a high diversity there in
+45:55 general so they're not good model for
+45:58 studying
+45:59 relatedness and uh they're also
+46:02 nonparasitic so they're not species that
+46:06 need to recognize their eggs they're in
+46:08 fact bred to like sit you know like the
+46:10 eggs are taken away from them generally
+46:14 so um that there they few ones that will
+46:18 you know bring their tcks to um to to
+46:23 the point where they break out of the
+46:25 egg but uh with wild species of
+46:29 birds especially the ones that have like
+46:32 cucko parasitize uh other species so
+46:37 they will lay eggs in other species
+46:39 nests and trick uh the host to raise
+46:42 them with their own so spe so birds that
+46:46 have the danger right of of somebody
+46:49 else laying eggs in there they they're
+46:51 like nope no no no no no they learn how
+46:53 to differentiate like really and by
+46:56 learn if evolutionarily over millions of
+46:58 years they evolve to know how to
+47:01 recognize eggs from theirs versus not
+47:04 their their
+47:05 nest and so all the birds apparently
+47:09 because not all yes so not all the birds
+47:12 not all the species but so the question
+47:14 is for the species that do do that well
+47:18 how do they do this right and if you
+47:20 look at this so we worked with uh Mark
+47:22 halber who is a AR neologist who who
+47:25 specializes in um um in eggs and wrote
+47:29 the book literally called
+47:32 eggs it's a thck book so so so there
+47:37 there pictures of there pictures of of
+47:41 uh eggs from about 80 nest and uh we
+47:46 could not only train not only we could
+47:49 train an algorithm uh a model machine
+47:52 learning model to differentiate between
+47:55 Nest we could ALS also gener use
+47:57 generative AI to generate a Ness a an
+48:01 egg that looks like this so we before I
+48:04 get there we also show that it
+48:07 correlates highly with genetic
+48:10 relatedness so the eggs of the same bird
+48:13 of course a very close together in
+48:16 similarity the same bird over
+48:19 years you know are also
+48:22 Clos uh a mom and the and her daughter
+48:26 are closer than any random bird and so
+48:29 on so there is a strong genetic
+48:31 signal um there's also we could you know
+48:35 then generate an egg that looks like an
+48:38 egg from the nest and 3D printed and ask
+48:41 a bird would you take it right and so
+48:44 then we can start this is the future we
+48:47 can start generating eggs gradually sort
+48:50 of between One S Nest than another and
+48:53 see at what point the bird would start
+48:55 rejecting the egg
+48:57 literally drawing isol lines of sort of
+49:00 kin recognition of what is still work in
+49:02 progress right you haven't this is work
+49:04 in progress we show that there is
+49:06 genetic
+49:07 relatedness there's strong correlation
+49:10 between the the genetic relatedness and
+49:12 the Egg similarity something that humans
+49:15 cannot do without the help of a computer
+49:18 right but um the the sort of the next
+49:22 step of asking the bird directly is is
+49:27 the is the future is what it's work in
+49:29 progress but that's that's an example of
+49:32 where we can
+49:35 really you know
+49:37 use machine learning right
+49:40 AI um and computation approaches to do
+49:43 something that humans absolutely cannot
+49:45 do and understand
+49:49 biology I'm just curious like why okay
+49:52 this is a very interesting experiment we
+49:54 generate with a eye a neck and place it
+49:57 put it uh to the nest to see if the bird
+50:01 rejects it or not this is uh this sounds
+50:04 like a lot of fun but like what are the
+50:06 practical implications of that
+50:08 experiment like what does it give us
+50:11 knowing that okay the bird rejects this
+50:13 SE or or does not reject this SE basic
+50:16 understanding of the world of you know
+50:18 this is basic science so understanding
+50:21 how kin selection how do birds recognize
+50:24 Inc recognition how do birds recognize
+50:26 who is there who is not in a species
+50:29 that we cannot at all replicate right we
+50:32 cannot do by just observation um it
+50:36 also uh gives us Insight in general how
+50:39 the skin recognition work in and um in
+50:43 nature do different animals use
+50:45 different smells why does it matter
+50:47 right why do they have that so this is
+50:51 about Fitness it's about uh uh how we
+50:55 ensure that our offsprings right survive
+50:58 better than somebody else's why would I
+51:01 invest any effort into raising somebody
+51:03 else's kids in is if I am a bird um and
+51:07 so so this is basic
+51:10 science uh to push back in a little bit
+51:12 that everything has to have practical
+51:14 implications because we start out with a
+51:16 curiosity about the world science basic
+51:19 science is a human endeavor of
+51:21 understanding the world that is out
+51:23 there right by humans for humans a child
+51:27 asks why is the sky blue it is a basic
+51:31 curiosity question without worrying
+51:33 whether it's a chemistry question
+51:34 physics question cognition Vision uh
+51:38 psychology right it is basic human
+51:41 curiosity that drives us to understand
+51:43 the world and it doesn't worry
+51:46 whether you know it's a it's it has some
+51:49 practical implication it's the drive to
+51:51 know now having said that yeah um
+51:57 understanding how the world Works
+51:59 particularly how different
+52:02 species uh perceive the world how does
+52:05 species interaction happen also helps us
+52:08 this is the Practical part understands
+52:10 what drives the loss of biodiversity and
+52:13 what will happen if the conditions
+52:15 change what will happen if the
+52:19 habitats uh are smaller what will happen
+52:21 if environmental conditions change right
+52:24 so we can start building models that
+52:25 predict how the species will respond
+52:28 what will happen if uh the the
+52:32 the butterflies disappear from this
+52:35 particular region and move a little bit
+52:36 north because it's warmer up there right
+52:39 what will happen to the birds that are
+52:41 relying on these
+52:43 butterflies right for for food and so
+52:46 on because like um I was also while you
+52:50 were answering the curiosity is like a
+52:52 perfect uh reason to do that cuz right
+52:55 now I'm super curious what actually will
+52:58 happen when you do that um but also when
+53:02 thinking about the previous examples
+53:03 that you g gave about
+53:06 um estimating the number of zebras of a
+53:10 specific breed right specific type or
+53:14 counting polar bears or because you want
+53:16 to see population uh Trends right is it
+53:20 uh decreasing increasing stay same right
+53:23 and if it's decreasing then it gives us
+53:25 a clear signal okay something needs to
+53:27 happen somehow want to save it right if
+53:30 it's increasing then okay that's good um
+53:34 and I guess this is the main uh of what
+53:38 we talked about this is the main outcome
+53:40 right so then now we have a more uh a
+53:43 better way of doing this these things
+53:47 better than did
+53:49 before do you actually collaborate with
+53:51 um because like okay now you have this
+53:54 method how
+53:57 it's being used right now like are you
+54:01 extensively extensively collaborates so
+54:04 it's used by hundreds of conservation
+54:07 organizations around the world wild book
+54:09 has more than 70 species now um and it's
+54:13 used by K by government organizations
+54:16 including Kenya Wildlife service um
+54:18 Africa Wildlife Foundation um the the uh
+54:23 the entirety of North American catalog
+54:27 is on the platform so that's all of the
+54:30 data from the US Bureau of ocean energy
+54:33 management and the National Oceanic
+54:35 atmospheric agency Noah and Bo Bo and
+54:38 Noah um the Canadian whale data is up
+54:43 there so this is now used as the
+54:47 distintive source of data for many many
+54:50 species so the ability and and the
+54:53 moment you have a platform right that
+54:55 organizes your data by
+54:57 individual um for for example for Wales
+55:02 even though the platform became live in
+55:06 2014 uh agencies and project and
+55:09 organizations have uploaded their
+55:10 historic data going back to
+55:13 mid90s right so now they can see the
+55:15 whole population Trend and see how start
+55:17 analyzing how it changes with different
+55:20 conditions in the area and what are the
+55:21 patterns of migration as I said and
+55:23 things like that and so in combining
+55:26 data from different sources because it's
+55:29 linked on an individual ID right so you
+55:31 can see oh the same whale in your data
+55:33 set it's the same one in my data set
+55:36 right here so look how how she moved
+55:38 around and so and look who she's hanging
+55:40 out with and look at all her Offspring
+55:42 oh my God I knew that these are her
+55:44 three calves but he also recorded these
+55:46 two are also her her children great so
+55:49 we now can start understanding also the
+55:51 genetics a little bit and and and which
+55:54 which Offspring survive and when there
+55:57 is a story right now with a beluga wh
+55:59 who died while giving birth and like
+56:02 they think that the calf is also going
+56:03 not going to survive but these are U you
+56:06 know these are endangered species so so
+56:10 uh and it's like one makes a story now
+56:12 you have a more complete picture of a
+56:14 species with these kinds of data and and
+56:18 and essentially it is it's a data story
+56:22 right it's a story where the dat data is
+56:27 abundant and it's out there and it
+56:29 wasn't yet leveraged well by providing
+56:32 an ability to extract information from
+56:34 images not only we can now process a lot
+56:37 of data that's already out there but we
+56:40 also it's a such a low barrier for entry
+56:43 a three-year-old can take a picture and
+56:46 contribute right and it's like everybody
+56:50 can press that button or touch that
+56:52 screen and so that allows contributions
+56:55 from people who weren't even aware they
+56:57 could contribute to science the bot that
+57:00 we built for uh social media when it
+57:04 finds for example uh videos of whale
+57:08 sharks um and automatically sort of add
+57:11 them to to the wild book for sharks and
+57:13 post them in the comments hey two
+57:15 minutes 46 seconds we found this uh
+57:18 video of a whale shark here's everything
+57:20 we know about it you just contributed to
+57:22 conservation people respond people get
+57:25 excited and it's like oh my God this is
+57:27 amazing I didn't even know I could uh I
+57:30 could do this uh how can I help right so
+57:33 that immediately brings them into this
+57:35 connection yeah I'm looking at the
+57:38 questions that Johanna has prepared and
+57:40 it's pity that
+57:42 uh um our interviews over and maybe
+57:47 we'll get to
+57:49 ask you then some um later um maybe last
+57:54 one before or you brush into your car to
+57:59 watch the eclipse um are there any books
+58:02 that talk about Ai and uh conservation
+58:06 and
+58:08 Wildlife so it's new as we started at
+58:10 the beginning of this uh really at the
+58:13 beginning of the the talk of the
+58:17 conversation there's um not a lot yet of
+58:22 AI in conservation and in fact and and
+58:25 so there very few
+58:27 books or written material in general so
+58:31 but recently very recently just
+58:35 published a
+58:36 report um led by the global partnership
+58:39 on AI and that's an
+58:42 organization that is essentially that
+58:44 brings together researchers experts in
+58:47 in in different field fields subfields
+58:49 of AI and publishes kind of a reports
+58:53 and and engages the global policymaking
+58:55 communi so uh I was part of the report
+58:58 on AI and biodiversity they have other
+59:00 Ai and reports and so that's a report
+59:04 that was published in November uh 2022
+59:08 2023 um and
+59:12 uh the
+59:14 the outlines both the challenges and
+59:18 opportunities for AI in uh biodiversity
+59:23 and so
+59:25 this a link yeah in the
+59:28 description yes there is also a review
+59:32 of machine learning
+59:35 for um machine learning methods uh
+59:39 for uh conservation that's also a couple
+59:43 of years old we're writing a we're about
+59:45 to write a new one um there's not that
+59:48 many people as I said of what's going
+59:51 out there but uh certainly the
+59:55 challenges so urgent and so big that you
+59:57 know like coming over everybody um
+1:00:02 there's a lot lot lot to do and so the
+1:00:05 the report probably outlines quite a bit
+1:00:08 of the opportunities that's in that's in
+1:00:10 this area the link in the
+1:00:12 description and yeah we should wrap up
+1:00:16 so thanks a lot t for joining us today
+1:00:19 for sharing all your experience for
+1:00:21 telling all the stories and um now I
+1:00:24 also know that zebras are not horses I
+1:00:26 had no idea I thought it's
+1:00:28 like horses too two they're two uh
+1:00:33 species so these guys are closer to
+1:00:35 dunkeys and the endangered ones are
+1:00:37 closer to
+1:00:39 horses okay so thanks a lot and yeah
+1:00:41 enjoy the
+1:00:43 eclipse thank you and thank you for
+1:00:46 having me and giving me opportunity to
+1:00:47 chat about Ai and biodiversity and
+1:00:50 consulation thank you

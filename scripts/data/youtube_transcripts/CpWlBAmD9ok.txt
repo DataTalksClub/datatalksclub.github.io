@@ -1,0 +1,1293 @@
+0:00 hi everyone welcome to data talks Club
+0:02 this event is brought to you yeah I I
+0:04 think I haven't done this in a while
+0:07 like usually I remember the line like I
+0:09 remember what to say without like
+0:12 thinking about this and yeah so we
+0:16 haven't had podcast interviews like in
+0:19 uh three weeks maybe four so now we are
+0:22 finally back we are again looking for
+0:25 speakers so if somebody wants to speak
+0:27 let us know anyways so Welcome to our
+0:30 event this event is brought to you by
+0:32 data do club which is a community of
+0:33 people who love data we have weekly
+0:36 events or at least we try and if you
+0:39 want to know more about our events there
+0:41 is a link in the description click on
+0:44 that link and check what we have in our
+0:47 Pipeline and I need to update the number
+0:50 of subscribers I think now it's more so
+0:53 do not forget to subscribe to our
+0:54 YouTube channel very important this way
+0:56 you'll stay up to dat with all our
+0:58 future streams like the one we have
+1:01 today and we have a great slack
+1:04 Community where you can hang out with
+1:06 other dating US during today's interview
+1:09 you can ask any question you want there
+1:12 is a pin Link in the live chat click on
+1:14 that link ask your questions and we will
+1:17 be covering these questions during the
+1:19 in and I still remember something that's
+1:22 good so I haven't forgotten
+1:25 completely what to ask I'll quickly open
+1:29 um the questions so I can monitor
+1:33 them which I should have done
+1:37 before it's okay I I feel you it's okay
+1:40 it's also my first podcast on the other
+1:43 side of the podcast so there you go it's
+1:45 fine on the other side so you interview
+1:49 people no I mean everyone these days can
+1:53 have a podcast my friends and I tried to
+1:55 do a Tango podcast like some time ago
+1:58 and yeah inter VI like friends yeah yeah
+2:02 MH but like Tango is a very visual topic
+2:06 and podcast is typically Audio Only yeah
+2:09 how do you talk about Tango like how do
+2:12 you discuss different
+2:13 moves well we don't discuss moves that's
+2:16 the thing we talk we talk about the
+2:19 social uh aspect of Tango we talk about
+2:23 how uh interesting um the invitation in
+2:27 Tango is um about our experiences
+2:31 leading and following in Tango like
+2:33 dancing with people meeting people going
+2:35 to events and being obsessed enough to
+2:37 like travel around the world just to do
+2:39 Tango those sorts of things like
+2:41 everything but the actual
+2:43 dance do you travel around the world to
+2:46 meet other people and dance tango Yes
+2:49 actually well around Europe so far
+2:52 around Europe yeah I only tried Bachata
+2:56 so I
+2:57 haven't yeah people people do travel for
+2:59 B other as well so yeah I can imagine
+3:02 like cuz it's also fun yeah it is it is
+3:07 I think I attended like six
+3:09 sessions yeah I I only remember the
+3:12 basic move but yeah I mean that's good
+3:14 enough you know like you can already go
+3:16 down socially which is
+3:18 that right anyways this week we will not
+3:22 talk about Tango maybe a little bit so
+3:24 we will talk
+3:26 about uh building a domestic risk
+3:29 assessment tool
+3:30 and we have a special guest today Sabina
+3:33 do I pronounce it correctly Sabina or
+3:35 yeah it's perfect yeah no it's it's
+3:39 Romanian pronunciation yet okay so
+3:42 Sabina works on frontlines 100 AI
+3:46 product development Frontline 100 is a
+3:49 company name so she's involved in all
+3:51 aspects of model development from data
+3:54 wrangling and visualization to
+3:55 statistical test model training and
+3:58 validation she has a background in
+4:00 Natural Sciences and previously worked
+4:01 as a data analyst in finance and SAS
+4:04 companies as a freelance data analyst
+4:06 she takes on challenging projects for
+4:08 mission-driven companies being
+4:09 especially interested in social impact
+4:11 health care and
+4:13 accessibility you are a freelancer right
+4:16 yes at the moment yes yes so welcome to
+4:21 our
+4:22 interview nice to see you nice to see
+4:25 you again I hope you have your soilent
+4:27 with you
+4:30 it's um was it soilent right it was um
+4:35 wood wood yeah that's the brand that
+4:37 they have here the meal replacement
+4:39 because how we met right yeah that's how
+4:43 we met yeah so there like for background
+4:46 so this is how we met so there was a
+4:49 Meetup uh I think it was actually Co
+4:51 organized by data talks Club but the
+4:53 only thing we did to co-organize the
+4:55 event is place our logo there it was
+4:57 mostly done by DT Hub which is M which
+5:01 bought
+5:02 food what else they provided the
+5:07 office and food and drinks very
+5:10 important Yeah so basically they did the
+5:12 whole thing and they just asked me to
+5:14 show up like how can I say no to that
+5:16 right yeah and it was so funny because I
+5:18 knew about data talks and after the
+5:21 event I was like wait a second is this
+5:23 person that I met actually from
+5:26 dat yeah yeah so it was a bit noisy
+5:29 there
+5:30 like um they have a how do you call it a
+5:34 room for meetups right it's not the
+5:38 largest room for meetups and when many
+5:40 people start speaking there it gets loud
+5:43 so of course I was trying to hide in a
+5:47 CL room and then there was Sabina also
+5:50 hiding and um yeah I had this woot
+5:54 bottle which is like a meal
+5:56 replacement uh it's just you drink and
+5:59 it has like 500 calories and then your
+6:03 comment was like I'm more like a he
+6:05 person heal person yeah because I was
+6:08 very into meal replacement at some point
+6:10 like I drank hu for lunch every single
+6:14 day ah so it was that uh
+6:18 into yeah yeah I mean I still have like
+6:22 hu at home but I just find it difficult
+6:25 to have it nowadays on a regular basis
+6:27 otherwise I would still love to have
+6:29 it's great like time saer mhm yeah I
+6:34 just drink it after gym usually or when
+6:36 I don't have enough like I I I want to
+6:39 consume a certain amount of protein per
+6:41 day and when I don't uh hit the number
+6:44 so then I just drink this cuz like they
+6:47 have a lot of protein anyways so this is
+6:50 how we met then we got we talked a
+6:53 little bit about sabina's work and that
+6:55 was pretty interesting so when we
+6:57 connected later on LinkedIn I thought
+6:59 but I have to interview her so that's
+7:03 why we're here talking
+7:05 today and yeah as always the questions
+7:08 for today's interview are prepared by
+7:10 Johanna Bayer thanks Johanna for your
+7:12 help so let's start
+7:16 and before we go into our main topic we
+7:20 start with your background can I can you
+7:23 tell us about your career Journey so
+7:25 far yeah I think the bio was quite uh
+7:29 well put already like I've been in the
+7:34 work workplace for very little time but
+7:37 I've already had quite a few career
+7:39 switches um so yeah I started I studied
+7:43 um chemistry at the University of
+7:45 Cambridge started off with natural
+7:47 sciences and then specialized in organic
+7:50 chemistry afterwards I decided that uh
+7:53 lab work was not really my thing I was
+7:56 think I much more preferred the thinking
+8:00 work of organic chemistry compared to
+8:02 the grunt work of doing experiments and
+8:06 working in the wet lab so then I thought
+8:09 that I would like to do uh something
+8:12 either in Consulting but then this
+8:14 opportunity appeared to work as a data
+8:16 analyst in tenie and I had to take it
+8:19 because it's uh quite rare to get to
+8:22 work on something very interesting also
+8:26 for Mission driven companies and also in
+8:28 a lovely place to live in yeah and then
+8:32 from Finance I realized I didn't like
+8:36 Excel that much I didn't want to work
+8:38 all of my life in Excel it wasn't really
+8:40 my thing I was very keen on python since
+8:43 the pandemic I got like I'm not sure if
+8:46 you know about hypers skill but uh
+8:49 they're super
+8:50 cool yeah so but you know about Jud
+8:53 brains by any chance brains yeah yeah so
+8:56 like they've worked with hypers skill on
+8:58 creating uh this learning platform for
+9:01 Python and lots of other programming
+9:03 languages and I think it's one of the
+9:04 best I've seen and that's how I started
+9:06 learning Python and I knew I likeed
+9:09 scale right hypers skill skill ah H
+9:13 hypers skill yeah I highly recommend it
+9:16 it is quite pricey but I think they
+9:18 offer a lot of value as well um yeah so
+9:22 I started learning Python and I thought
+9:25 hey I mean I've already worked in data
+9:27 analysis in finance and I already like
+9:29 know a bit of programming and then I
+9:32 sort of went for iron hack like um and
+9:36 study data analytics with them and since
+9:39 I've been taking data analytics
+9:42 positions switch to freelancing because
+9:44 I find it more suited to my interest I
+9:49 like dipping my toes into multiple
+9:52 fields and yeah right now my main focus
+9:56 is Frontline 100 because I think the
+9:58 work that we do is very important and
+10:02 very impactful and I really really love
+10:04 it I think obviously the topic is quite
+10:07 heavy so saying it very enthusiastically
+10:10 might come across as weird but I think I
+10:13 really love having the opportunity to
+10:15 contribute to such a
+10:18 topic and right now I want to ask you of
+10:21 course the topic but I want to give a
+10:23 warning a disclaimer not a disclaimer
+10:26 probably a warning would be a better
+10:27 word the that TW we are going to talk
+10:30 about a sensitive topic which is
+10:33 domestic abuse and
+10:35 violence um and if you know somebody who
+10:39 is experiencing domestic abuse you
+10:42 should seek for help and if you live in
+10:44 Germany there is a national helpl line
+10:47 available at
+10:50 11616 and if you live somewhere else
+10:53 please find a number to contact and um I
+10:58 think this is an important topic that's
+10:59 why when I heard about what Sabina is
+11:01 doing I have not heard about AI
+11:04 applications to that topic so that's why
+11:07 we're here I wanted to talk about that
+11:09 so yeah please tell us about Frontline
+11:12 100 and what you're trying to
+11:15 solve right so well the main purpose of
+11:19 Frontline 100 is to end domestic abuse
+11:22 sooner and as you very correctly pointed
+11:25 out AI in this field is not something
+11:28 that's quite very common which is why uh
+11:32 what we're bringing to domestic abuse uh
+11:38 prevention is quite relevant most of the
+11:42 domestic abuse risk Assessments in the
+11:44 field are on paper only so I think that
+11:49 having um an AI tool involved in this
+11:52 especially with all of the hype around
+11:54 Ai and having in general
+11:57 um an application
+11:59 of AI into social issues is very
+12:02 relevant so I was very excited when I
+12:05 first saw the Frontline website I was
+12:07 like this is incredible like I've never
+12:09 thought of using uh AI for such a cause
+12:13 so I was very excited from the
+12:16 GetGo how did you find them or did they
+12:19 find
+12:20 you it's very funny because I found them
+12:24 through a telegram group so one of the
+12:27 previous uh data scientist Joy like he
+12:32 uh po posted in Te like the computer
+12:37 science University alumni telegram group
+12:41 and then uh yeah
+12:44 my one of my friends who also studied at
+12:48 sent me this
+12:51 uh this job job post and I was like wow
+12:54 this is incredible this is exactly what
+12:56 I want because I was looking for many
+12:58 positions at the time so it's yeah was
+13:01 very fun I usually well I'm not actively
+13:06 looking for a job but sometimes I come
+13:08 across different uh job descriptions
+13:11 positions typically it's in L on
+13:13 LinkedIn and usually it's like
+13:16 e-commerce or you know internet
+13:19 companies like at Tech or marketing or
+13:24 like the the the usual thing right so I
+13:27 don't typically come across
+13:29 social initiatives like that one so yeah
+13:32 it's pretty interesting like how people
+13:35 can find it like uh for example if I
+13:38 want to also contribute to a similar
+13:41 project where would you suggest to find
+13:44 for jobs in this
+13:46 area to be fair what I started doing now
+13:49 is simply to look for organizations that
+13:53 I'm interested in and see if they have
+13:56 openings because I think as you said
+13:59 it's very rare that you would find these
+14:01 job adverts and I remember I saw one I
+14:05 follow our world in data quite a lot
+14:07 because they post very interesting
+14:09 reports and data
+14:10 visualizations um yeah and at some point
+14:13 I just found a job post that was
+14:16 expiring the same day so I was like okay
+14:19 I have to code something now so I can
+14:22 apply uh so yeah I would suggest to
+14:25 actively look for organizations in the
+14:28 causes that you're interested in be it
+14:31 uh data transparency be it accessibility
+14:33 social impact whatever and follow them
+14:37 and look for updates or even uh message
+14:40 them because if they're small
+14:41 organizations they're more likely to
+14:43 answer than if they're
+14:46 bigger and uh I diverged a little bit so
+14:49 we talked
+14:50 about domestic abuse and he said that
+14:54 it's very rare that AI is used to for
+14:59 risk assessment of domestic abuse and
+15:01 I'm wondering how is it done usually
+15:04 like you said it's done on paper but how
+15:06 exactly what is the process and what the
+15:08 risk assessment of what like are they
+15:10 looking at a family and think like How
+15:13 likely that in this family there is this
+15:17 problem like I'm trying to figure out
+15:19 what's
+15:20 the how to put it correctly like
+15:23 typically in a usual settings I would
+15:24 say business case but like it sounds
+15:26 very weird to say like that here yeah
+15:30 yeah a use case maybe use case yeah
+15:33 right yeah so or maybe a
+15:36 scenario
+15:38 scenario yeah I would say like what uh
+15:41 happens at the moment is um you have
+15:44 victims interacting with
+15:47 uh institutions be it's police be it uh
+15:51 healthc care practitioners be it social
+15:53 workers and um the people that they're
+15:57 in contact with they usually administer
+16:00 a survey which has been um studied
+16:05 previously and shows High correlation
+16:07 with abuse uh usually physical and
+16:11 sexual abuse that's uh typically what
+16:15 um is being tested uh however and it's
+16:20 usually just uh about the victims
+16:23 experience there have been qualitative
+16:25 studies as well but it's mostly very
+16:28 academ mic and what's currently used by
+16:32 uh police officers in Germany and uh in
+16:37 Germany it's a mixture of
+16:40 um risk assessment tools that were built
+16:45 in North America for people uh in that
+16:49 demographic Based on data that they've
+16:52 collected uh and it's used on the German
+16:57 population and it's used usually yeah
+17:00 administered a set of question and then
+17:02 based of that whether the person is at
+17:05 high risk or medium
+17:08 risk but
+17:10 usually so there is a victim right and
+17:14 somebody is talking to them police
+17:16 Healthcare uh Personnel social workers
+17:20 but if the victim already approach them
+17:23 they already know that there is a
+17:24 problem or they approach them with a
+17:26 different uh with something different
+17:30 what do you mean by approach them like
+17:32 if I already go to the police and say
+17:34 look like my husband is beating me up
+17:38 like they kind of already know that yeah
+17:41 so what can happen is that some people
+17:45 yes like at that point it already is
+17:47 quite a big problem we have already uh
+17:51 R2 is also meant for cases that are not
+17:56 like that but in that case even then
+17:59 because a victim might still be in love
+18:01 with their partner they might not
+18:02 disclose everything that has happened in
+18:05 the relationship so for example maybe
+18:07 they come because of financial abuse or
+18:11 maybe because of physical abuse but they
+18:12 haven't disclosed that there has been
+18:14 sexual abuse happening as well and this
+18:17 is uh what we're trying to predict using
+18:20 our tools because yeah even if they come
+18:23 maybe they change their minds as well
+18:25 right because it's a very high pressure
+18:28 environment that they're in right then
+18:30 being asked questions about the police
+18:32 very personal questions as well and they
+18:34 might tone down on the things that they
+18:36 might disclose so then it's quite
+18:39 important to have these risk assessments
+18:41 not only to see uh what will happen in
+18:44 the future but also what is likely
+18:46 happening right now that a person might
+18:49 not disclose in that
+18:52 moment okay so in this scenario like if
+18:56 I'm a police officer I would have
+18:59 something like that and with yes very
+19:01 serious face ask tough no not tough but
+19:05 like this questions and maybe put some
+19:07 pressure on the victim on the person
+19:10 like I can imagine like a room maybe
+19:12 without Windows like and then like if
+19:16 you put in this environment and then
+19:17 somebody with a piece of paper see his
+19:20 face yeah like taking notes so this is
+19:22 how it's done right now yes yes very
+19:25 very much so yeah yeah and how are you
+19:30 approaching
+19:31 it right so first off we're taking
+19:34 things off paper we already have an app
+19:39 built to uh for right now for uh people
+19:43 interacting with victims to also track
+19:46 cases of domestic abuse which I think is
+19:49 also another plus added because besides
+19:52 having the paper tracking of what
+19:54 happened you can also look over time uh
+19:57 at what case
+19:59 uh occurred like how many are high risk
+20:01 how many are medium you can also look at
+20:04 the person's history as
+20:11 well yeah I mean um I think in terms of
+20:16 interaction with the victim itself at
+20:20 the moment given that the survey is
+20:22 still administered by
+20:25 uh a social worker or police officer
+20:28 there's still trainings that we do with
+20:31 the people so that they administer it in
+20:34 the way that it's meant to
+20:37 be uh we cannot eliminate that human
+20:41 part or make it better but we can create
+20:43 the interface to help release relieve
+20:46 the load of the social workers and
+20:50 police officers which are obviously
+20:51 overworked as well which might come into
+20:54 play when it comes to uh their
+20:55 interactions with victim
+20:59 and hopefully in the future it might uh
+21:03 work on that as
+21:04 well so it would be a police officer
+21:08 sitting with a phone and talking to
+21:11 victim and then taking maybe marking
+21:14 questions right answers to the question
+21:16 yeah yeah we have been thinking about uh
+21:20 maybe an llm version of that given LMS
+21:22 are so popular at the moment you know
+21:24 like where you'd have a chat Bots uh
+21:28 that interacts directly with the victim
+21:30 and directly extracts the answer but
+21:33 that is already like a very high
+21:36 involvement and requires much more
+21:38 funding um but we would be very keen on
+21:42 doing that and make maybe making it
+21:44 easier for victims to come
+21:46 forward yeah and you mentioned that
+21:49 currently what is happening is that
+21:51 there are these paper surveys with
+21:53 questions coming from the United States
+21:56 from Canada from North America right and
+21:58 and they are applied to Germans yes and
+22:02 this is something you
+22:05 also change right so do you do something
+22:08 specific to geography to the country yes
+22:12 yes yes so uh we already have uh done
+22:16 two surveys looking at domestic abuse
+22:19 first on a sample of
+22:22 7,400 people so I would which is
+22:25 nationally representative and we also
+22:27 use weight meeting in order to ensure
+22:30 that we have uh all of the demographics
+22:34 our national representative as well uh
+22:37 and then we did a second survey looking
+22:39 only at uh people who have been victims
+22:43 in the first one and seeing whether
+22:45 they've re-experienced abuse uh after
+22:48 three months and this again is another
+22:51 Innovation that we're doing because what
+22:53 happens at the moment is when people are
+22:55 looking at uh reoccurrence of domestic
+22:58 abuse they are looking at reoccurrence
+23:00 after a year or more like some tools are
+23:04 after seven years can imagine and
+23:07 looking at fre months brings it in more
+23:09 immediate attention and makes it uh
+23:13 better for resource management as well
+23:15 because you can know like you have to
+23:17 act within three months not within a
+23:22 year and AI here means that you do some
+23:26 sort of machine learning or what exactly
+23:27 exactly exactly yeah I mean obviously
+23:31 for the audience like for a general
+23:33 audience AI already means machine
+23:35 learning but if you're a data audience
+23:38 you know that AI is an if El
+23:42 but because like now when I hear AI to
+23:46 me it's like all this llm stuff right so
+23:50 right you can actually feel like that
+23:53 this thing is somehow intelligent right
+23:55 when I talk to chpt like it feels like
+23:58 I'm talking to a very smart
+24:00 person right yes a very literate person
+24:05 maybe yes literate yeah like cuz like
+24:08 the expression it uses
+24:10 are like much better than ones I use
+24:14 honestly well I don't know it's better
+24:16 but like it's different like I I don't
+24:19 know if people speak like that but yeah
+24:21 it's different I think it's fantastic
+24:23 for writing text I I find it so useful
+24:27 for writing text mhm so you use machine
+24:30 learning and then you said you had the
+24:32 survey with 740 people that you
+24:35 interviewed
+24:38 7,400 yes very
+24:42 important more yeah yeah okay this is
+24:45 serious and this is what you use for
+24:47 your as your training data right yes yes
+24:51 yes and U so the target variable here
+24:55 was uh uh where the it was repeated like
+25:00 the the abuse happened again in three
+25:03 months right that's one of them yes
+25:06 that's one of them they have multiple
+25:08 and I guess the features uh are the
+25:11 answers to
+25:12 questions exactly yes I mean the
+25:15 features and the targets are answers to
+25:17 questions right so we're looking at uh
+25:21 five different types of abuse so it's
+25:23 digital emotional Financial physical and
+25:27 sexual and the this again is another uh
+25:30 plus that we have compared to what's
+25:32 happening at the moment because perhaps
+25:34 some intervention tactics might need uh
+25:37 for you to look at uh the different
+25:40 types of abuse and one example of that
+25:42 would be a person experiences physical
+25:44 abuse uh intense physical abuse and then
+25:47 the immediate course of action would be
+25:49 leave your partner however if you're
+25:51 financially dependent on that partner
+25:54 then that is very tricky to do um which
+25:59 important to be able to dis distinguish
+26:01 between these
+26:02 categories
+26:04 um sorry I'm trying to remember where
+26:08 we're oh the targets yes sorry uh yes so
+26:11 we have the the targets for from digital
+26:13 to sexual abuse and we're using
+26:15 questions from um questions do not Point
+26:20 directly to that type of abuse so what
+26:22 we call proxy questions in order to
+26:25 figure out whether that abuse is
+26:27 happening or not at the current moment
+26:31 or whether it will happen in three
+26:32 months so we have basically 10 targets
+26:37 no yes 10 targets so five types of abuse
+26:42 and identification and recidivism as we
+26:44 call it
+26:50 internally and I imagine like coming up
+26:53 with this survey was the most difficult
+26:55 part right or and then interview people
+26:58 cuz like I imagine if I as a data
+27:01 scientist try to come up with this
+27:03 survey it will probably not be a very
+27:06 good survey while like you have to have
+27:08 proper social scientists right who know
+27:11 how to ask questions yeah so I mean for
+27:16 this I wasn't part of the data
+27:18 collection because that happened before
+27:19 I joined the company uh but basically we
+27:24 took the literature for this because
+27:26 there's already a huge body of lure
+27:28 looking at surveys and uh creating these
+27:32 risk assessments and we tried to use the
+27:36 questions that were most re relevant in
+27:38 those risk assessments and in addition
+27:41 some questions that we wanted to test
+27:43 out and to see whether they have any
+27:46 correlation with
+27:50 abuse and I imagine you also need to
+27:53 work closely with police and social
+27:55 workers
+27:57 right so at the moment we're piloting
+28:00 and we're working closely with police
+28:02 and social workers and we also have a
+28:04 lot of uh advisers on our team who work
+28:08 in uh criminal law and uh domestic abuse
+28:13 and also econometrics like you name it
+28:16 if you look at our website I think we
+28:17 have around 12 people that have advised
+28:21 us along the way because our CEO like
+28:23 he's
+28:25 um the main domain expert exp ERT is
+28:29 also a domain expert as well uh a social
+28:33 scientist so she's been my uh first
+28:38 point of contact when it came to
+28:40 Technical and social science questions
+28:43 but obviously like the CEO he has been
+28:46 working like in the field for 15 years
+28:49 and knows a lot of the
+28:53 nitty-gritty that we should take into
+28:55 account when we create these tools
+28:57 because it can get very theor times and
+29:00 I think with that as a data scientist
+29:03 you can get very technical and very into
+29:05 your world of developing a lot of models
+29:09 and like looking at all of these
+29:11 features but then in reality you don't
+29:13 need as much
+29:15 technicality
+29:17 MH so the founders so it was CTO SEO
+29:24 right uh well so we have
+29:28 and Co uhuh so there were three
+29:31 co-founders right they do they all come
+29:34 from this
+29:36 um how to say business domain like it
+29:38 sounds that doesn't sound very good but
+29:40 like do they all come from this um this
+29:46 domain so yes the CEO definitely like
+29:49 he's worked 15 years in the charity
+29:51 sector uh Balin I think I mean she's
+29:55 been working mostly on Frontline and
+29:58 she's done research before intoxic
+30:00 masculinity if I remember correctly that
+30:03 was her master thesis and then Adam the
+30:06 CTO um I think his background is more in
+30:10 business he takes care of all of the
+30:13 development aspect of
+30:16 Lizzy Lizzy we didn't talk what Lizzy
+30:19 means I have it in my
+30:23 notes to right yes yes yes yes why it's
+30:27 called isy
+30:29 well I will assume you don't know how
+30:32 the different risk assessments are
+30:35 called they're just abbreviations odara
+30:39 Dash da and we thought we might make
+30:42 something a bit more humanizing in this
+30:45 area especially as it's quite a
+30:47 grueling uh experience to go through so
+30:50 this is why we went for
+30:53 Lizzy so Lizzy is just a name yes it's
+30:57 it doesn't for
+30:59 anything well no it's not an acronym
+31:03 okay uh so coming back to like we were
+31:06 discussing the co-founders and you said
+31:09 that CEO is a domain expert and he's
+31:12 been in this area for quite some time
+31:15 like 15 years you said yes and was it
+31:18 something that he noticed in his line of
+31:20 work that this could be optimized that
+31:23 right now was just a paper survey and
+31:26 the pressure it puts on people people
+31:28 it's not working and we can make it
+31:30 better and he decided that there should
+31:35 be a company right yes like there should
+31:37 be a way to solve this problem
+31:39 differently yes yes yes and I mean like
+31:43 uh yeah so Babs like he's a he also has
+31:48 a background some background in
+31:49 statistics and Balin like being the data
+31:52 scientist as well like you can see how
+31:54 these two uh Fields can merge and come
+31:58 up with this idea and especially in
+32:00 Germany as you all know in Berlin you
+32:03 have to carry cash everywhere
+32:05 digitalizing is probably not that bad of
+32:08 an idea it's something that Germany is a
+32:11 bit behind on in some
+32:15 sense it some sense yeah well right now
+32:18 even p is like these late night shops
+32:21 start accepting cards so yeah we're
+32:24 slowly getting there it's moving in the
+32:27 right direction but like I
+32:30 remember in Poland 12 years ago it was
+32:34 already possible to pay everyone with
+32:37 just you know touching your card to
+32:40 really 12 years ago with with the phone
+32:42 are you serious no way
+32:45 yeah and then like in Germany it
+32:47 appeared only after Corona cuz like you
+32:50 weren't supposed to touch the the this
+32:54 part so only because of Corona in
+32:56 Germany it was it was it started to be
+32:59 possible to pil with you know just yeah
+33:02 but it's still like I find it now I have
+33:05 an reverse culture shock when I go to
+33:08 different countries and I'm so surprised
+33:10 they accept
+33:11 card after living in Berlin yeah yeah
+33:16 like I remember in France in a village
+33:19 like I wanted to buy an ice cream and
+33:21 there was a terminal so I could just pay
+33:23 for this ice cream it was like a just
+33:26 usual ice cream stand minimum 5€ 10
+33:30 something like this yeah yeah anyways uh
+33:34 so and this is just one of the areas
+33:37 where digitalization is lagging behind
+33:40 right but in other areas uh especially
+33:42 like this is consumer facing so this is
+33:44 is kind of this one is kind of moving
+33:47 forward slowly but moving right but in
+33:51 other
+33:53 areas like social areas police like it's
+33:58 probably behind right yes yes and there
+34:01 is obviously lots of skepticism right
+34:04 when bringing in AI to uh yeah to help
+34:09 officers but that's the thing like I
+34:11 think um there has been lot of uh news
+34:16 criticizing the way that AI has been
+34:19 used in order to make decisions and this
+34:22 is why we don't use we haven't created
+34:25 Lizzy to make decisions for police
+34:28 officers but to help them it's a tool
+34:30 for them to make a decision however it
+34:33 has been shown in practice that risk
+34:35 assessments are more effective than uh
+34:38 an expert
+34:40 judgment so this is why I think it's
+34:42 quite important to have these tools but
+34:44 not use them as the decision
+34:48 makers which means that instead of just
+34:51 saying the probability of abuse
+34:55 occurring again is very high
+34:58 you also explain why right or how what
+35:01 does it mean in practice that you don't
+35:04 use it to make decisions but to guide us
+35:08 that we that we're looking at the risk
+35:12 of uh the abuse occurring but the we are
+35:16 not social workers we're not police
+35:17 officers we're a research company so we
+35:20 can tell you that's based on the
+35:24 research that we've done this person is
+35:27 likely experiencing abuse and you as an
+35:31 expert you can say okay if they're
+35:34 experiencing High uh Financial abuse and
+35:37 high physical abuse this is what I
+35:40 should do in this scenario we don't give
+35:42 recommendation like we give suggestions
+35:45 like okay this is something that may
+35:48 help but we are not there to make
+35:50 decisions okay and the users like the
+35:54 police officers the social workers they
+35:57 go through the survey then they see the
+36:00 results I imagine immediately right they
+36:02 don't need to send the results anywhere
+36:04 and wait for a month to oh yeah
+36:06 obviously
+36:07 obviously and they don't need to
+36:09 calculate it themselves they don't need
+36:11 to put the points yeah so like they go
+36:15 through this array they get the results
+36:17 immediately and they see that like for
+36:21 this types of abuse the probability that
+36:24 this abuse is happening is high and then
+36:26 there are some sest
+36:28 of what they can do next right and then
+36:31 it's up to them to decide what to do
+36:34 like minimal suggestions because again
+36:37 we're not the ones who are dealing with
+36:39 the victim we're here to like say that
+36:42 from our research we've seen that these
+36:44 are good indicators of abuse and if
+36:46 these are happening at this frequency
+36:48 then then it's likely it's very very
+36:51 likely that this person is experiencing
+36:53 domestic abuse does it help to address
+36:56 this uh the skeptic ISM you
+36:59 mentioned what do you mean oh like you
+37:01 said that it was met with skepticism
+37:04 because people say like Ai No it's not
+37:06 going to help yes obviously like we're
+37:08 we're transparent about the metrics
+37:10 we've use and we've been for many many
+37:13 iterations in order to make this as good
+37:15 as possible Right like we've been
+37:17 looking at the typical standards in the
+37:21 industry like the Au score we've looked
+37:23 at false positives false negatives
+37:26 obviously we've tried to to put the
+37:28 weight on uh removing false negatives as
+37:32 much as possible but at the same time if
+37:34 we don't uh reduce if we say that
+37:39 everything is high risk then that's not
+37:41 very useful either so we've tried to
+37:44 strike a balance as much as possible
+37:45 thinking about the typical metrics that
+37:48 are used and also thinking about the
+37:51 types of questions that we selected in
+37:53 our survey and what's more likely to be
+37:55 answered by someone in those situations
+37:58 ah so this is also important CU not like
+38:01 maybe there are good questions that can
+38:04 show you that this these sort of abuses
+38:07 happening but the victim might not
+38:11 answer them right yeah might be less
+38:13 likely to answer however we yeah we're
+38:17 hope the thing is like in different
+38:20 settings you will have different answers
+38:22 and this is also why like the survey
+38:24 that we did was uh online rather than in
+38:27 person because in person you already
+38:29 have some biases occurring from like
+38:32 when the interviewer asked the questions
+38:34 to uh yeah receiving the
+38:39 answer and these biases
+38:41 are so here it means that because a
+38:44 person is asking there could be some
+38:46 pressure like even though the person
+38:49 might be like the friendliest person on
+38:51 Earth still because like somebody is
+38:54 asking and then you might think okay
+38:55 like there's another person like why why
+38:57 are they asking that right it might not
+39:00 give the I think humans are very
+39:02 complicated and have complicated
+39:04 emotions so it's very difficult to
+39:06 predict that right so removing this
+39:09 intermediate
+39:11 Reep is likely to reduce such biases
+39:14 there's also such a thing as social
+39:16 desirability bias so for example
+39:19 if uh you might not like if you're a man
+39:23 and you disclose that you've been
+39:25 experiencing abuse that might not
+39:27 farewell right you might not want to be
+39:29 seen as a weak man mhm I see and when
+39:35 it's online there is less cuz like I
+39:39 imagine if like that there is this like
+39:41 big police officer cuz in Berlin like
+39:44 the the infield police officers they
+39:46 have to be quite strong MH and I see
+39:48 that they are like usually tall like
+39:51 they have muscles and if this person is
+39:54 ask asking you like you maybe don't want
+39:56 to admit that your week yeah but it's
+40:00 just if it's just a screen and you take
+40:04 boxes there it's less likely that
+40:07 you give incorrect answers this is what
+40:10 you're saying right yes this is this is
+40:12 what I would expect right like you're
+40:14 you're simply interacting online you
+40:16 don't have your identity disclosed right
+40:18 we're also taking care to not have the
+40:21 identity of the people that uh we we
+40:24 have surveyed so yes
+40:27 we're hoping to reduce we to reduce that
+40:30 bias that is already happening and this
+40:33 is also important uh because a lot of
+40:36 studies in domestic abuse sector are
+40:39 also based on police data right and
+40:42 police data will be inherently biased
+40:45 because of the way it's been collected
+40:47 right so this is where the biases come
+40:51 and we hope to
+40:53 eliminate uh at least those biases
+40:55 through having this on
+40:59 survey like how
+41:01 do how do people get to fill the survey
+41:04 is it something like they are in police
+41:06 and then the police officer says okay
+41:09 there is this tool I will leave now but
+41:11 please while I'm away can you please go
+41:14 through the website and answer questions
+41:17 or how how does it no no no they I think
+41:21 they ask the questions so uh yeah they
+41:23 ask the questions and fill in the survey
+41:26 or our admin
+41:27 given a tablet where they can answer
+41:30 these questions but yes we're piloting
+41:33 and we're
+41:34 Lear because if person is if a person is
+41:37 asking then you have these biases right
+41:40 like even even if they are sitting with
+41:42 a tablet and then like I'm asking you
+41:44 and then making some notes here it's
+41:46 still me asking you yeah so actually I'm
+41:50 not completely sure about this because
+41:53 I've been kept very uh much in the
+41:56 development side of things I would say
+42:00 uh poten it could be either or but uh
+42:04 yeah I think I will stick with the data
+42:07 side well yeah maybe let's go into the
+42:09 development side of things
+42:11 then well I imagine that
+42:15 um in order to like we talked about
+42:18 skepticism right and in my experience to
+42:23 reduce this level of
+42:25 skepticism a person needs to understand
+42:28 what is happening inside and usually you
+42:31 want to use Simple models like usually
+42:34 you can explain like linear regression
+42:36 or logistic regression to like in late
+42:39 terms to anyone if you're um if you have
+42:43 enough patience uh typically this is the
+42:47 case so I imagine for you you need
+42:50 to use uh models like decision threes
+42:53 maybe or linear models right or another
+42:58 so actually logistic regression Works
+43:00 quite well like
+43:03 surprisingly uh yeah we've tried a
+43:05 couple of model models we've tried uh
+43:08 decision trees we've tried the boosting
+43:10 algorithms we've tried support Vector
+43:12 machines because it's like some
+43:14 somewhere in the middle of the data set
+43:16 but we found that actually logistic
+43:19 regression has performed best like with
+43:23 the features that we selected and the
+43:26 number of features that we selected and
+43:28 by best I mean both in terms of the
+43:31 overall performance and in um having a
+43:35 lower likelihood of overfitting because
+43:38 this is what typically happens with
+43:40 trees if you go to random forests and XG
+43:43 boost and
+43:46 whatnot actually there was now when you
+43:49 talk about that I remember there was a
+43:50 competition kagle also on survey data I
+43:53 don't remember what was the target but
+43:56 it was some social
+43:57 Al social
+43:59 sciences and their linear models worked
+44:03 best too like the wi solutions they used
+44:06 linear models yeah yeah so I'm actually
+44:09 not surprised but also like as a side
+44:11 effect or not maybe side effect but like
+44:13 as a
+44:14 benefit you can explain in simple
+44:18 terms yeah why it works like why at the
+44:21 end the result is high risk cuz you say
+44:23 like this
+44:25 answer has this sort of weight this
+44:28 answer has this sort sort of weight CU
+44:30 like this person said true to that
+44:33 statement and false to that statement we
+44:36 think that maybe this is a pencial abuse
+44:41 right or maybe this is emotional abuse
+44:44 and then because they understand now how
+44:46 it works then they are more likely to
+44:48 use the tool and trust it right yeah
+44:52 yeah this is this is what we're hoping
+44:54 and we're trying to get like the
+44:58 uh some of the decision like we are yeah
+45:03 it's much easier to explain for sure
+45:06 because you just have like the
+45:07 coefficients and you can get the odds
+45:09 ratio from
+45:12 that and what else do you do on the
+45:15 development side of
+45:18 things
+45:20 everything when it comes to model
+45:22 development like yeah it's funny because
+45:25 I started the mlops uh course that you
+45:27 do and I'm I'm still I'm still at the
+45:30 first homework because I built the mlops
+45:35 workflow let's say like with ML flow I
+45:38 started with pie carat and then I left
+45:41 it because it was too heavy like for the
+45:45 the the app itself um yeah so I did like
+45:49 the whole model development cycle
+45:51 obviously like with a lot of input from
+45:54 both Balin and Babs in terms of like
+45:56 what outcomes we want like what
+45:58 statistical tests maybe we should focus
+46:00 on like when doing X and Y but in terms
+46:03 of yeah model development it's kind of
+46:05 been like yeah and and what uh my
+46:10 previous colleague Joy did in the past
+46:12 like in terms of recording data the
+46:14 analysis he did and the initial
+46:18 models
+46:20 so you would say that your main focus is
+46:23 on the modeling side like definitely
+46:26 like my Main and only focus really yeah
+46:30 yeah my colleagues were laughing that
+46:31 I'm really bad at selling and that's
+46:34 because I have a
+46:36 practice right uh what is the most
+46:40 challenging thing for
+46:44 you I think
+46:47 um yeah I think the very pragmatic
+46:51 aspects of data
+46:54 are is challenging and the sense
+46:58 that I can build all of these models and
+47:01 I can have all of these metrics and I
+47:03 can run thousands of models I can put
+47:05 them on AWS la la la all of those stuff
+47:08 but then what does that that actually
+47:10 mean like what what happens afterwards
+47:13 if a person answers XY Z on a question
+47:16 what happens right and being able to
+47:19 test that and validate that I think is
+47:22 uh the testing of the final models like
+47:26 having the setting in mind is definitely
+47:28 the hardest thing because I think also
+47:30 like testing for ML models I feel it's
+47:34 not as developed as unit testing or
+47:37 integration testing as it is in software
+47:40 development so I found it quite
+47:42 difficult to like wrap my mind around
+47:44 that and figure out a way to do it but
+47:48 yeah I'm working on that and like making
+47:50 we're working on scenarios in order to
+47:54 um make that happen and make sure that
+47:57 even like sure like our models work on
+47:59 the bulk of the data but we also want to
+48:01 make sure that for each individual we're
+48:04 getting answers in the range that we
+48:06 expect so this is another thing that we
+48:09 do in addition to other tools because
+48:13 we're really our main goal is to be
+48:17 there and help every single victim of
+48:19 domestic
+48:21 abuse and yeah it was a bit packed so
+48:25 I'm trying to like a bit lost so like
+48:29 for sure I I took some notes so you said
+48:31 like you want every individual to answer
+48:35 in the range we
+48:37 expect something like that no so we want
+48:40 that that things make sense right like
+48:44 if uh like the models they output a
+48:49 probability right that's all they do
+48:52 what that probability means is something
+48:54 that we interpret is that high low
+48:57 medium risk that's one thing second it's
+49:02 uh regarding the severity of abuse right
+49:05 because a machine learning model will
+49:07 not make the difference between someone
+49:09 controlling your finances and or
+49:12 checking your um Facebook account or
+49:15 hitting you so this these are all things
+49:18 that we're we're taking into
+49:21 consideration and we want to make sure
+49:24 and I think this is uh kind of of a bit
+49:27 of data validation you know like the
+49:29 output of the model is within what we
+49:31 would expect as humans to see as a high
+49:34 or low probability but the probability
+49:37 is outputed by a logistic regression
+49:39 that's they're just they're just there
+49:42 to optimize for victim or nonvictim
+49:44 they're not giving more detail detail
+49:47 than that so that's what we need to
+49:49 do I think I'm starting to understand so
+49:52 here the idea is that like a model just
+49:55 gives a number
+49:57 yes but we need to also remember that
+50:00 well there is a human there yes to which
+50:04 we kind of to who we calculate the
+50:07 number but also like this number what
+50:09 does it actually mean right yeah EXA how
+50:13 high it is uh because like in the usual
+50:16 logistic regression case like if it's
+50:20 0.51 51 right then you predicted this is
+50:25 like uh
+50:30 y equals one right otherwise
+50:33 yeah yeah and obviously as you know like
+50:36 when you do model optimization you play
+50:38 with the thresholds right you see what
+50:41 gets you better results or not but that
+50:44 doesn't really tell us like is this
+50:46 person like a high risk does this person
+50:48 need immediate intervention so this is
+50:50 why we need all of this post modeling
+50:54 testing okay in order to
+50:57 yeah uh what you're saying is there
+50:59 could be two people for one the risk is
+51:02 zero point like 60% for other is 90 but
+51:05 it doesn't necessarily mean that the 90%
+51:08 case needs more urgent
+51:11 help
+51:13 right um no no I think like in terms of
+51:18 relative scale that's definitely the
+51:20 case but like at what point do you say
+51:23 is it high risk I think that's more what
+51:26 I'm with yes okay so one thing is
+51:30 predictive predicting positive okay like
+51:32 there is an instance of I don't know
+51:35 digital abuse but also like to what
+51:38 extent like after which cut off point we
+51:41 need to actually intervene as soon as
+51:43 possible
+51:45 exactly I see and also what types of
+51:48 abuse has the victim already um admitted
+51:53 to so for example if a victim has been
+51:55 choked at some point that's already
+51:58 quite a a severe
+52:01 thing so in that sense like that person
+52:04 is already high risk even though it a
+52:06 model might not see it like as uh fully
+52:10 high risk but usually this this does
+52:12 happen
+52:14 fortunately but the thing is you don't
+52:17 know until you test like all of these
+52:20 different scenarios right like you
+52:23 have what model metrics give you is oh
+52:26 overall performance and I do trust that
+52:29 because but it doesn't give you the
+52:32 individual um results and those tend to
+52:36 be more important and this is why we
+52:38 want to focus on them so I think that's
+52:41 quite a difficult thing I think it's
+52:42 very underdeveloped like in uh machine
+52:45 learning but it's something that we're
+52:47 focusing
+52:49 onh how many data scientists are working
+52:53 on this it's me and Balin working
+52:57 on it yes and a lot of advisors to help
+53:00 us like shape it in the right
+53:04 direction and then like you mentioned
+53:06 mlops and all that but uh like I'm
+53:09 wondering to what extent you need these
+53:12 tools uh right now or more it's more
+53:15 like right now it's more modeling heavy
+53:17 because there are so many
+53:19 unsolved problems or questions like I
+53:23 mean like maybe now your focus is on
+53:25 modeling side but once you have a very
+53:27 good model then you focus more on
+53:28 deploying this model this is what I mean
+53:31 so we've already deployed the model and
+53:33 we're piloting and we're working on uh
+53:37 ensuring that the model is stable over
+53:39 time but yeah the mlops part and like
+53:43 setting up an experiment tracking has
+53:46 been very
+53:47 important for sure you use something
+53:51 like ml4 for that right yes yes yes mhm
+53:55 okay and uh the the survey that you
+53:58 mentioned is it open the what the
+54:02 results of the survey like there are
+54:05 7,400 people who took part like are the
+54:08 results open in any way or it's no not
+54:11 at the moment okay like I'm I I'm just
+54:15 wondering like if it's okay to ask you
+54:19 about some things you found out in this
+54:21 survey but maybe you can share but if it
+54:23 was open then you probably can share
+54:25 that
+54:27 yes I'm happy
+54:29 to yeah I'm happy to share what I've
+54:31 shared already I think like with the
+54:33 flow of the conversation like uh yeah
+54:36 everything has been like within the
+54:38 Realms of what I can share so more
+54:40 specific statements I'm very happy to
+54:43 yeah I'm just curious like
+54:45 usually probably more women than men
+54:48 have this problem but like are there men
+54:52 who like because we talked about that uh
+54:55 there is this bias
+54:57 um social disability bias was it
+55:00 desirability bias
+55:02 yes how can you can you say it again Des
+55:06 social desirability by desirability yeah
+55:09 so maybe men even
+55:11 like don't even think that they need to
+55:15 seek
+55:16 help I I would say that it's the case
+55:20 for both women and men about seeking
+55:22 help just because it's in intimate
+55:24 partner violence that's like a very
+55:26 difficult topic and I think one of the
+55:29 misconceptions is that the person can
+55:31 just leave the relationship which is
+55:34 absolutely not true because they have
+55:37 become partners with this person because
+55:39 they love them so maybe they think the
+55:42 person will change uh or that things
+55:45 will be different so maybe they reach
+55:47 out at some point but then they change
+55:48 their minds and it's usually quite
+55:51 difficult for people who are close to
+55:53 them to intervene as well mhm
+55:57 and percent wise like in this date uh do
+56:00 you remember how
+56:01 many men and women I I will tell you
+56:05 that uh so men typically experience more
+56:09 emotional abuse whereas women experience
+56:12 more physical and sexual abuse and
+56:15 overall women experience more abuse
+56:18 overall uhuh I see yeah and for you as a
+56:22 person like must be quite difficult to
+56:24 work with this data like cuz like every
+56:26 l in this data is a person is AA tragedy
+56:30 right cuz like they have to live with
+56:32 this
+56:34 situation yeah I mean it's
+56:38 um I think it's I would say it's a bit
+56:41 similar
+56:43 to well I don't want to compare myself
+56:45 to a doctor but I think that as a medic
+56:48 for example you get to dis sensitized at
+56:51 some point based on the amount of uh
+56:56 things you see and I won't say that I
+56:58 got desensitized but I think sometimes
+57:00 like I just look at data I don't look at
+57:05 what actually has happened I look at
+57:07 numbers because at the end of the day
+57:09 these models are fed with data and I
+57:11 think about okay how can I get these
+57:14 metrics higher so when I do the model
+57:17 development bit I don't really think
+57:19 about it I just think about how awesome
+57:21 it is that I get to help these people uh
+57:25 and yeah but when I go into the analysis
+57:29 bit and starting to think about like oh
+57:31 what correlates with physical abuse and
+57:33 you see like how abuse doesn't happen in
+57:36 isolation and you're thinking about all
+57:38 of these experiences of victims when I
+57:40 go into the analysis bit that's when I
+57:41 feel it the
+57:44 most okay yeah thanks for sharing that
+57:47 uh I think we should be wrapping up yeah
+57:50 so usually one question that I ask most
+57:52 guests is uh if there are any
+57:56 recommended literature or material
+57:58 around the topic um so maybe there is
+58:02 something that you can recommend not
+58:04 necessarily about domestic abuse uh but
+58:06 maybe about social sciences or things
+58:08 that helped you in your career um or
+58:12 something like that like any book or
+58:14 other resource that you can recommend to
+58:16 the listeners many I think I have data
+58:20 basis of resources so I think in terms
+58:23 of domestic abuse actually two net nli
+58:26 shows that approach this uh thing quite
+58:30 well would be be reindeer most recently
+58:33 and um made looking at domestic abuse
+58:37 both well or abuse in general through
+58:41 both uh the lens of man and a woman then
+58:45 uh I think one of the recommended
+58:48 readings uh I still have on my reading
+58:51 list is look what you made me do in the
+58:54 area of domestic abuse and then in the
+58:57 area of other areas uh so many I think
+59:01 the first thing that comes to mind is
+59:03 the networking website called the
+59:05 portfolio Collective which is quite
+59:08 Niche it's usually for people having uh
+59:12 multiple skills that they leverage
+59:14 usually Freelancers doing all sorts of
+59:17 different things maybe in the same field
+59:19 maybe in different fields and they have
+59:22 great social events and obviously data I
+59:26 think is actually a great resource so I
+59:29 would recommend that but I think it goes
+59:32 without saying because it's free and you
+59:36 can work and get a certificate at the
+59:38 end so that's
+59:40 wonderful and ion hack because I know
+59:42 the teachers
+59:45 so just Shameless
+59:49 promotion yeah okay how did it feel to
+59:53 be on that side of the podcast
+59:57 good I think uh yeah it's interesting
+1:00:00 and
+1:00:01 uh it's interesting when you get lost in
+1:00:04 the middle of the point and you're
+1:00:05 trying to take it back in uh it's a
+1:00:08 learning experience for sure for me it's
+1:00:11 easier because like I keep notes I oh
+1:00:14 wow there's are so structure look at
+1:00:17 that do you have diagrams is that a
+1:00:19 decision
+1:00:21 tree no but
+1:00:23 like some sort of diagrams yeah like I
+1:00:27 was also uh drawing that like there's a
+1:00:30 person who is asking a survey oh
+1:00:32 right I was just trying to visualize
+1:00:35 like how it actually help so for me it's
+1:00:37 a bit easier because you do most of the
+1:00:39 talking and I'm just asking questions
+1:00:41 and then taking notes and then like
+1:00:43 based on the notes I took I ask other
+1:00:45 questions and if I run out of ideas I go
+1:00:47 back to other notes and then okay I
+1:00:49 wanted to ask about that okay so thanks
+1:00:52 a lot for joining me today and thanks
+1:00:55 everyone to for joining us today for
+1:00:58 listening in and thanks for sharing
+1:01:00 Saina um thank you for the
+1:01:03 invitation yeah and with that we should
+1:01:07 finish should be finishing so have a
+1:01:10 great rest of your day and of the week
+1:01:12 and see you soon likewise see you soon
+1:01:15 bye take care
