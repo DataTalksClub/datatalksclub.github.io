@@ -972,6 +972,176 @@ img.partner {
   display: block;
 }
 
+/* Resources Mentioned Styles */
+.resources-prompt {
+  color: #666;
+  margin-bottom: 1.25rem;
+}
+
+.resources-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem 0;
+}
+
+.resource-item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.resource-item:last-child {
+  border-bottom: none;
+}
+
+.resource-type {
+  flex: 0 0 auto;
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  background: #eef4f0;
+  color: #2c573e;
+  white-space: nowrap;
+}
+
+.resource-type--book {
+  background: #eef2f8;
+  color: #2c4a7c;
+}
+
+.resource-type--paper {
+  background: #f3eef8;
+  color: #5b3a7e;
+}
+
+.resource-type--course {
+  background: #fdf3e7;
+  color: #925c10;
+}
+
+.resource-type--person {
+  background: #fdeeea;
+  color: #99432a;
+}
+
+.resource-type--company,
+.resource-type--service {
+  background: #eaf3f6;
+  color: #1f5f73;
+}
+
+.resource-type--community {
+  background: #f0f0e4;
+  color: #5f6414;
+}
+
+.resource-type--dataset {
+  background: #e9f2ec;
+  color: #2f6b44;
+}
+
+.resource-body {
+  display: inline;
+}
+
+.resource-link {
+  font-weight: 600;
+  color: #2c573e;
+  text-decoration: underline;
+  text-decoration-color: rgba(44, 87, 62, 0.4);
+}
+
+.resource-link:hover {
+  text-decoration-color: #2c573e;
+}
+
+.resource-name {
+  font-weight: 600;
+}
+
+.resource-context {
+  color: #666;
+}
+
+.resource-context::before {
+  content: "— ";
+}
+
+.resources-disclaimer {
+  background: #fff3cd;
+  padding: 1rem;
+  border-radius: 5px;
+  border-left: 4px solid #ffc107;
+  margin-bottom: 2rem;
+  font-size: 0.9rem;
+}
+
+.dark .resources-prompt,
+.dark .resource-context {
+  color: #d6e3dc;
+}
+
+.dark .resource-item {
+  border-bottom-color: #3a4a42;
+}
+
+.dark .resource-type {
+  background: #2e4237;
+  color: #8ed8ad;
+}
+
+.dark .resource-type--book {
+  background: #2e3a4e;
+  color: #a9c4ec;
+}
+
+.dark .resource-type--paper {
+  background: #3b2e4e;
+  color: #c9a9ec;
+}
+
+.dark .resource-type--course {
+  background: #4a3a22;
+  color: #ecc789;
+}
+
+.dark .resource-type--person {
+  background: #4a2c22;
+  color: #eca089;
+}
+
+.dark .resource-type--company,
+.dark .resource-type--service {
+  background: #213f49;
+  color: #89c8dc;
+}
+
+.dark .resource-type--community {
+  background: #3d4023;
+  color: #d0d689;
+}
+
+.dark .resource-type--dataset {
+  background: #2b4233;
+  color: #9ed8b4;
+}
+
+.dark .resource-link {
+  color: #8ed8ad;
+}
+
+.dark .resources-disclaimer {
+  background: #4a3f1d;
+  color: #d6e3dc;
+}
+
+
 @keyframes fadeIn {
   from {
     opacity: 0;

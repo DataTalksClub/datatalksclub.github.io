@@ -146,6 +146,19 @@
               {% endfor %}
             {% endif %}
           ]
+          {% if page.resources %}
+          ,"mentions": [
+            {% for resource in page.resources %}
+            {
+              "@type": "Thing",
+              "name": {{ resource.name | jsonify }}
+              {% if resource.url %}
+              ,"url": {{ resource.url | jsonify }}
+              {% endif %}
+            }{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+          ]
+          {% endif %}
           {% if actions != "" %}
           ,"potentialAction": [{{ actions }}]
           {% endif %}
@@ -344,6 +357,9 @@
         <!-- Tabs Navigation -->
         <div class="podcast-tabs">
           <button class="podcast-tab-button active" data-tab="shownotes">Show Notes</button>
+          {% if page.resources %}
+          <button class="podcast-tab-button" data-tab="resources">Resources</button>
+          {% endif %}
           <button class="podcast-tab-button" data-tab="timestamps">Timestamps</button>
           {% if page.transcript %}
           <button class="podcast-tab-button" data-tab="transcript">Transcript</button>
@@ -365,6 +381,35 @@
             {{ content }}
           </div>
         </section>
+
+        {% if page.resources %}
+        <section class="podcast-tab-content" id="resources-tab" aria-labelledby="resources-heading">
+          <h2 id="resources-heading" class="sr-only">Resources Mentioned</h2>
+          <p class="resources-prompt">Tools, books, papers, and other resources mentioned in this episode</p>
+          <ul class="resources-list">
+            {% for resource in page.resources %}
+            <li class="resource-item">
+              <span class="resource-type resource-type--{{ resource.type }}">{{ resource.type }}</span>
+              <span class="resource-body">
+                {% if resource.url %}
+                <a href="{{ resource.url }}" target="_blank" rel="noopener noreferrer nofollow" class="resource-link">{{ resource.name }}</a>
+                {% else %}
+                <span class="resource-name">{{ resource.name }}</span>
+                {% endif %}
+                {% if resource.context %}
+                <span class="resource-context">{{ resource.context }}</span>
+                {% endif %}
+              </span>
+            </li>
+            {% endfor %}
+          </ul>
+          <p class="resources-disclaimer">
+            This list is generated from the episode transcript with AI and may contain inaccuracies.
+            If you notice something wrong,
+            <a href="https://github.com/DataTalksClub/datatalksclub.github.io/issues/new/choose" target="_blank">let us know</a>.
+          </p>
+        </section>
+        {% endif %}
 
         <section class="podcast-tab-content" id="timestamps-tab" aria-labelledby="timestamps-heading">
           <h2 id="timestamps-heading" class="sr-only">Timestamps</h2>
