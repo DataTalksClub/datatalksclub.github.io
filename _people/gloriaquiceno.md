@@ -11,4 +11,4 @@ Gloria Quiceno is a Senior Analytics Engineer at ICE, where she develops reliabl
 
 Before moving into analytics engineering, Gloria worked as a Business Data Analyst at ICE, where she optimized KPI reporting and automated workflows across Snowflake, Redshift, IBM Db2, Oracle, and AWS. Earlier, she built a foundation in research as a neuroscience scientist at institutions including Otto-von-Guericke University Magdeburg and University College London, developing analytical pipelines in C++, Matlab, and Python for complex data experiments.
 
-With her combined expertise in neuroscience and data engineering, Gloria brings a scientific mindset to analytics—balancing precision, clarity, and business impact. She’s passionate about using data to simplify decision-making, foster transparency, and drive measurable outcomes across teams.
+With her combined expertise in neuroscience and data engineering, Gloria brings a scientific mindset to analytics, balancing precision, clarity, and business impact. She’s passionate about using data to simplify decision-making, foster transparency, and drive measurable outcomes across teams.
