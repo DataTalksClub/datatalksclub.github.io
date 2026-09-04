@@ -51,9 +51,10 @@
   <meta property="twitter:image" content="{{ site.url }}/{{ page.image }}">
   <link rel="image_src" href="{{ site.url }}/{{ page.image }}">
 
-  <meta property="og:description" content="{{ page.description }}">
-  <meta property="twitter:description" content="{{ page.description }}">
-  <meta name="description" content="{{ page.description }}">
+  {%- assign seo_description = page.description | default: page.bio_short | truncate: 300 -%}
+  <meta property="og:description" content="{{ seo_description }}">
+  <meta property="twitter:description" content="{{ seo_description }}">
+  <meta name="description" content="{{ seo_description }}">
 
   <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
