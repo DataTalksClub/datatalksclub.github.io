@@ -27,6 +27,7 @@ dateadded: 2021-02-23
 keywords: CRISP-DM, data science process, machine learning methodology, data science project management, ML project lifecycle, data science workflow, A/B testing, model deployment, data science best practices, ML model evaluation, cross-functional data teams
 
 transcript:
+- header: Podcast Introduction
 - line: I will start with an introduction. Thank you very much for coming to this
     event. This event is brought to you by DataTalks Club, one of our weekly events.
     We have multiple events per week of different kinds. On Tuesday we have more technical
@@ -61,6 +62,7 @@ transcript:
   sec: 119
   time: '1:59'
   who: Alexey
+- header: 'Recap: Roles in a Data Team'
 - line: Thanks again for joining. Today we will talk about processes in a machine
     learning project. By processes I mean how everyone can work together in one team
     on the same project to deliver value. Last week we talked about roles in the team,
@@ -92,6 +94,7 @@ transcript:
   sec: 239
   time: '3:59'
   who: Alexey
+- header: Why Processes Matter
 - line: If we do not follow a process, the project may fail. What is worse, we might
     spend a lot of time on a project that ends up failing and realize that the time
     invested was wasted because the project was not useful. A process helps us iterate
@@ -99,6 +102,7 @@ transcript:
   sec: 269
   time: '4:29'
   who: Alexey
+- header: CRISP-DM Methodology
 - line: It also helps us stop projects that are not promising earlier so we do not
     waste too much time on them. There are many methodologies for organizing machine
     learning projects, and they are relatively similar. Today I will talk about one
@@ -136,6 +140,7 @@ transcript:
   sec: 422
   time: '7:02'
   who: Alexey
+- header: 'Example: Auto-Categorization of Marketplace Listings'
 - line: Now we will take a closer look at all the steps and see what happens in each
     one. To illustrate the process better, we will use the same example we discussed
     previously. The example is classifying the category of a listing.
@@ -164,6 +169,7 @@ transcript:
   sec: 528
   time: '8:48'
   who: Alexey
+- header: 'Step 1: Business Understanding'
 - line: The first step is business understanding. At this step we want to understand
     the problem and decide whether it is worth investing time. Usually someone comes
     to our team, often to the product manager, and asks if the team can solve a problem.
@@ -239,6 +245,7 @@ transcript:
   sec: 889
   time: '14:49'
   who: Alexey
+- header: 'Step 2: Data Understanding'
 - line: Once we have that, we move to the next step, which is data understanding.
     We want to understand what data we have available. Usually data scientists and
     data analysts work together at this stage. They look at the data, examine what
@@ -273,6 +280,7 @@ transcript:
   sec: 946
   time: '15:46'
   who: Alexey
+- header: 'Step 3: Data Preparation'
 - line: The next step is data preparation, where we prepare the data for modeling.
     Data engineers ensure the data is present by building pipelines and moving data
     from the moderation team to our team. In early project stages it makes sense to
@@ -288,6 +296,7 @@ transcript:
   sec: 983
   time: '16:23'
   who: Alexey
+- header: 'Step 4: Modeling'
 - line: Modeling is the step where we train the model. Ideally the data is prepared
     well enough that we can simply select it from the database and feed it into the
     model. Sometimes we need extra preprocessing, such as count vectorizer or tf-idf
@@ -306,6 +315,7 @@ transcript:
   sec: 1014
   time: '16:54'
   who: Alexey
+- header: 'Step 5: Evaluation'
 - line: If the baseline accuracy is sufficient we can move to the evaluation step.
     Evaluation checks whether the model meets the original objective. Our objective
     was to reduce the time moderators spend adjusting categories by 50 percent. We
@@ -332,6 +342,7 @@ transcript:
   sec: 1049
   time: '17:29'
   who: Alexey
+- header: 'Step 6: Deployment'
 - line: If the solution meets expectations we go to deployment. Deployment means rolling
     out the solution to all users. At this stage the focus is on engineering. We ensure
     the service is reliable and scalable under full traffic. Machine learning engineers
@@ -340,6 +351,7 @@ transcript:
   sec: 1063
   time: '17:43'
   who: Alexey
+- header: Iteration and Continuous Improvement
 - line: At the end of this step the model is in production. It affects all users and
     works reliably. Even if it is not a model but a heuristic, it is packaged in a
     web service and deployed. After deployment we can return to business understanding
@@ -381,6 +393,7 @@ transcript:
   sec: 1139
   time: '18:59'
   who: Alexey
+- header: Data Collection and Quality
 - line: I also want to talk about data collection. When I announced this event on
     LinkedIn, Julian Martinez commented that one of the hardest aspects of machine
     learning is labeling data correctly. He added that few people talk about this.
@@ -411,6 +424,7 @@ transcript:
   sec: 1192
   time: '19:52'
   who: Alexey
+- header: 'Q&A from the Audience'
 - line: This is everything I prepared for today. If you have questions, you can use
     the link to Slido in the chat. Let me share it again. I will now share my screen
     and open Slido.

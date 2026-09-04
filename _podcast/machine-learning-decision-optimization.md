@@ -129,6 +129,7 @@ quotableClips:
   url: https://www.youtube.com/watch?v=SJuzQ4bcU2c&t=3570
   endOffset: 3720
 transcript:
+- header: Podcast Introduction
 - line: I’ll just do a short introduction. On the slide, it says "Decision Optimization"
     because the full title was too long to fit. The actual title is "Translating Machine
     Learning Predictions Into Better Real-World Results with Decision Optimization."
@@ -149,6 +150,7 @@ transcript:
   sec: 54
   time: 0:54
   who: Alexey
+- header: 'Introduction: Dan Becker and Decision Optimization Overview'
 - line: Are you ready to start?
   sec: 79
   time: '1:19'
@@ -197,6 +199,7 @@ transcript:
   sec: 153
   time: '2:33'
   who: Dan
+- header: 'Gap: Machine Learning Predictions vs. Real-World Decisions'
 - line: I eventually got second place in a competition with a three million dollar
     grand prize, but no prize for second place. That experience led me to consulting
     with several large companies. I was an early employee at DataRobot, worked at
@@ -252,6 +255,7 @@ transcript:
   sec: 351
   time: '5:51'
   who: Dan
+- header: 'Prescriptive Analytics: Role in ML Pipelines'
 - line: For example, if you have 90 days before the flight, tickets not sold today
     can be sold tomorrow. If you lower your price too much today, competitors may
     lower theirs, reducing future revenue. Decision optimization answers which action
@@ -282,6 +286,7 @@ transcript:
   sec: 538
   time: '8:58'
   who: Dan
+- header: 'Formulating Optimization Problems: Objectives and Constraints'
 - line: This approach can significantly impact business outcomes. For example, an
     insurance company uses a threshold to decide which claims to investigate. Even
     a simple threshold-based system can be very effective.
@@ -315,6 +320,7 @@ transcript:
   sec: 705
   time: '11:45'
   who: Dan
+- header: 'Modeling Uncertainty: Robust and Stochastic Optimization'
 - line: We need to do more than just look at probability. At the company where I work,
     we have a moderation team for an online classifieds platform. When someone publishes
     a listing, we want to determine if it is fraudulent. If it is, a moderator or
@@ -357,6 +363,7 @@ transcript:
   sec: 927
   time: '15:27'
   who: Dan
+- header: Integrating Predictions into Optimization Models
 - line: Think of it like a Python function. It takes inputs like the probability of
     fraud, type of fraud, and item value. You may also factor in customer importance
     or repeated behavior. The output is accept, reject, or manually investigate.
@@ -383,6 +390,7 @@ transcript:
   sec: 1095
   time: '18:15'
   who: Dan
+- header: Aligning Loss Functions with Business Objectives
 - line: At the end of the day, you want a single decision function, like a Python
     function, to simulate outcomes and see which one is best. You can use it for actual
     decisions or experimentation.
@@ -426,6 +434,7 @@ transcript:
   sec: 1318
   time: '21:58'
   who: Dan
+- header: 'Solvers & Tools: OR-Tools, Gurobi, Pyomo, Open-Source Options'
 - line: Simulators let you try different rules in a dynamic environment and see how
     things progress over time. We need similar simulators for dynamic real-world environments.
     You cannot take a conventional supervised model and expect it to optimize for
@@ -452,6 +461,7 @@ transcript:
   sec: 1500
   time: '25:00'
   who: Dan
+- header: 'Scalability: Large-Scale Optimization and Approximation Techniques'
 - line: The person providing the knowledge is often a domain expert, not a data scientist.
     The process varies by company. In tech companies, a data scientist may collaborate
     with a product manager. In other businesses, it could involve multiple stakeholders.
@@ -470,6 +480,7 @@ transcript:
   sec: 1671
   time: '27:51'
   who: Dan
+- header: 'Use Case: Supply Chain Optimization and Resource Allocation'
 - line: We have a domain-specific language to write formulas. For example, the number
     of tickets to sell today is whatever we had yesterday minus what we sold. You
     use .predict from the demand model as input to these formulas.
@@ -500,6 +511,7 @@ transcript:
   sec: 1918
   time: '31:58'
   who: Alexey
+- header: 'Use Case: Pricing, Bidding, and Revenue Optimization'
 - line: There aren’t great tools for this, which is why I started Decision AI. At
     Google and a few other companies, people either use raw Python with NumPy for
     calculations and connect it to TensorFlow or PyTorch models at a low level. I’ve
@@ -529,6 +541,7 @@ transcript:
   sec: 2077
   time: '34:37'
   who: Dan
+- header: 'Decision Constraints: Operational, Legal, and Ethical Considerations'
 - line: Twenty percent of the time, turning predictions into decisions is almost obvious.
     But 80 percent of the time, there is a huge opportunity. Machine learning has
     improved predictions significantly, but how you use those predictions is equally
@@ -556,6 +569,7 @@ transcript:
   sec: 2277
   time: '37:57'
   who: Dan
+- header: 'Evaluation Metrics: Measuring Real-World Impact of Decisions'
 - line: For each threshold, calculate the expected monetary value. You don’t need
     our software for this—it’s the first step. Even thinking rigorously about optimizing
     the decision threshold, the same way you are analytical in modeling, is very valuable.
@@ -584,6 +598,7 @@ transcript:
   sec: 2452
   time: '40:52'
   who: Dan
+- header: 'Deployment: Pipelines, Monitoring, and Feedback Loops'
 - line: I actually meant slightly different thing
   sec: 2483
   time: '41:23'
@@ -630,6 +645,7 @@ transcript:
   sec: 2634
   time: '43:54'
   who: Dan
+- header: 'Organizational Adoption: Cross-Functional Collaboration and Change Management'
 - line: So it’s about metrics the business cares about, not just accuracy?
   sec: 2705
   time: '45:05'
@@ -657,11 +673,13 @@ transcript:
   sec: 2761
   time: '46:01'
   who: Alexey
+- header: 'Skillset Blend: Data Science, Operations Research, and Software Engineering'
 - line: However, these are often very complex models, like YouTube-scale recommendation
     engines. In such cases, the decision logic is already largely encoded in the model.
   sec: 2882
   time: '48:02'
   who: Dan
+- header: 'Common Pitfalls: Mis-specified Objectives and Overfitting Decisions'
 - line: What trends do you see in data science as a whole?
   sec: 2940
   time: '49:00'
@@ -685,11 +703,13 @@ transcript:
   sec: 3037
   time: '50:37'
   who: Dan
+- header: 'Robustness vs. Optimality: Trade-offs in Decision Optimization'
 - line: The world changes quickly, so it’s crucial to be thoughtful about relying
     on historical data. This is a complex problem for both data scientists and businesses.
   sec: 3239
   time: '53:59'
   who: Dan
+- header: 'Future Trends: Automated Decisioning and Prescriptive Systems'
 - line: How can people find you?
   sec: 3253
   time: '54:13'

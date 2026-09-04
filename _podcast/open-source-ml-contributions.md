@@ -145,6 +145,7 @@ tags:
 - scikit-learn
 - machine-learning
 transcript:
+- header: Podcast Introduction and Episode Overview
 - line: Hi, welcome everyone. This event is brought to you by DataTalks.Club, a community
     of people who love data. We have two types of events. On Tuesdays, we usually
     have more technical events where we talk about technical topics, usually with
@@ -166,6 +167,7 @@ transcript:
   sec: 47
   time: 0:47
   who: Alexey
+- header: 'Guest Background: From Design Student to Data Scientist'
 - line: On February 2nd, which is a Tuesday, we will talk about feature stores. Again
     in February, we will not have many events because of the conference. We will come
     back in March with a topic on public speaking.
@@ -206,6 +208,7 @@ transcript:
   sec: 243
   time: '4:03'
   who: Alexey
+- header: 'Career Pivot: Teaching, Consulting, and Early AI Courses'
 - line: Welcome, Vincent. Thanks for coming to our event.
   sec: 265
   time: '4:25'
@@ -241,6 +244,7 @@ transcript:
   sec: 344
   time: '5:44'
   who: Vincent
+- header: 'Role Explained: Research Advocate Responsibilities'
 - line: After the bachelor’s, I found out it’s kind of marketing it doesn’t actually
     predict stocks. So I quickly decided to take a master’s in operations research.
     Around that time, AI and machine learning were becoming popular. I took a free
@@ -266,6 +270,7 @@ transcript:
   sec: 468
   time: '7:48'
   who: Vincent
+- header: 'Company Overview: Rasa''s Open Source Conversational AI'
 - line: So that’s how you got hired.
   sec: 501
   time: '8:21'
@@ -284,6 +289,7 @@ transcript:
   sec: 540
   time: '9:00'
   who: Vincent
+- header: 'Defining Open Source: Pragmatism and Community Reciprocity'
 - line: This led to a couple of open source projects, which also led to some articles.
     The main thing I try to do is help people understand tools. Our engineers and
     researchers develop a lot of features, but having a tool is one thing understanding
@@ -335,6 +341,7 @@ transcript:
   sec: 702
   time: '11:42'
   who: Vincent
+- header: 'Common Mistakes: Publishing to PyPI Prematurely'
 - line: 'Sometimes, as a consultant, you’re supposed to be the authority all the time.
     Here, I can just say: “Look, if you want to make a virtual assistant in any language
     community, tell me what I need to do, and I’ll gladly help.” That’s my main focus.'
@@ -358,6 +365,7 @@ transcript:
   sec: 777
   time: '12:57'
   who: Vincent
+- header: 'Origin Stories: How Small Tools and Curiosity Spark Projects'
 - line: Can you explain a bit about the company, Rasa, and what you’re developing?
   sec: 796
   time: '13:16'
@@ -392,6 +400,7 @@ transcript:
   sec: 870
   time: '14:30'
   who: Vincent
+- header: 'Project Showcase: evol, clumper, memo, whatlies, scikit-lego'
 - line: The best example is Psychic Lego, which I started with Matias from PyData
     Amsterdam. Some tools, like SciKit-Learn, are amazing, but there are tricks I
     use often that are experimental. I host those myself.
@@ -425,6 +434,7 @@ transcript:
   sec: 1022
   time: '17:02'
   who: Vincent
+- header: 'scikit-lego Deep Dive: scikit-learn–Compatible Pipeline Components'
 - line: I made EVIL with GoHere. We wanted to simplify genetic algorithms, which are
     usually a for-loop inside a for-loop inside a for-loop. We created a population
     object and an evolution object with a functional API. This makes evolutionary
@@ -450,6 +460,7 @@ transcript:
   sec: 1137
   time: '18:57'
   who: Vincent
+- header: 'Design Principles: Low-Maintenance APIs and Ecosystem Compatibility'
 - line: I also made WhatLies, which investigates word embeddings. It’s pipeline-compatible
     with Psychic Learn, so you can benchmark models quickly. You can check if a slower
     model is actually more accurate.
@@ -467,6 +478,7 @@ transcript:
   sec: 1224
   time: '20:24'
   who: Vincent
+- header: 'Creative Naming: Purpose-Driven Project Names and Team Energy'
 - line: I also have another tool called MakeTestDocs. It’s a package with two functions
     that make it easier to write unit tests for your markdown files. If you have Python
     examples in your README or MakeDocs template, you can just add one or two functions,
@@ -494,6 +506,7 @@ transcript:
   sec: 1334
   time: '22:14'
   who: Vincent
+- header: 'Documentation Checklist: README, Guides, API Reference, Examples'
 - line: Naming is often the hardest part. In a past career, I did consultancy for
     the Dutch Flower Auction. The team culture was great because we named every new
     service. For example, a SQL database service was called Steven Sequal. When we
@@ -507,6 +520,7 @@ transcript:
   sec: 1425
   time: '23:45'
   who: Vincent
+- header: 'Community Stewardship: Contribution Guides and Polite Interaction'
 - line: So for Psychic Lego, the name reflects building blocks that can be combined
     into a pipeline?
   sec: 1505
@@ -519,6 +533,7 @@ transcript:
   sec: 1517
   time: '25:17'
   who: Vincent
+- header: 'First Contributions: Filing Reproducible Issues and Small Fixes'
 - line: We also have meta-components. For instance, a classifier might use a threshold
     of 0.5. You could grid search to find a threshold that optimizes precision or
     recall. These tools help you investigate and adjust the model.
@@ -544,6 +559,7 @@ transcript:
   sec: 1632
   time: '27:12'
   who: Vincent
+- header: 'Preparing Code PRs: Testing, CI, Packaging, and Pre-commit Hooks'
 - line: The first step is to use a tool, identify a problem, and create an issue.
     At Rasa, we have a contributor program. You can join via Slack, get PRs merged,
     give talks, or write blog posts, and we consider you a contributor.
@@ -556,6 +572,7 @@ transcript:
   sec: 1720
   time: '28:40'
   who: Vincent
+- header: 'Finding the Right Project: Large vs. Small Repositories Strategy'
 - line: Investing in these skills is sensible. Learn Python, Git, and GitHub basics,
     plus continuous integration and GitHub Actions. My site, Calmcod.io, has tutorials
     for all these tools. It helps you gain programming maturity beyond Jupyter notebooks.
@@ -579,6 +596,7 @@ transcript:
   sec: 1851
   time: '30:51'
   who: Vincent
+- header: 'Productivity Tips: Designing Before Coding and Time Management'
 - line: I contributed to a project called Dion. It’s a checklist for starting a machine
     learning project, checking for unintended side effects before deployment. They
     also accept anecdotes for documentation. It was a small, manageable way to contribute.
@@ -598,6 +616,7 @@ transcript:
   sec: 1938
   time: '32:18'
   who: Alexey
+- header: 'Employer OSS Strategy: Hiring, Branding, and Legal Considerations'
 - line: 'Exactly. Smaller projects are easier to get started with because the codebase
     is smaller, there are fewer issues, and it’s easier to communicate. The main thing
     is psychological: maintainers worry about whether a feature is broadly useful
@@ -617,6 +636,7 @@ transcript:
   sec: 2027
   time: '33:47'
   who: Alexey
+- header: 'Career Growth: Talks, Blogs, Meetups, and OSS Visibility'
 - line: A lot of my open source projects happen during my employer’s time. Even if
     it’s not personal work, I’m still learning and maintaining products on the job,
     which translates to my open source work. My employer doesn’t mind, which makes
@@ -636,6 +656,7 @@ transcript:
   sec: 2115
   time: '35:15'
   who: Vincent
+- header: 'Translating Research to Practice: Tools, Prototypes, and Byproducts'
 - line: Sometimes you need to experiment in a notebook, but many people start coding
     without a plan, which wastes time. Planning first makes you more productive.
   sec: 2163
@@ -652,6 +673,7 @@ transcript:
   sec: 2186
   time: '36:26'
   who: Vincent
+- header: 'Future Focus: Building Personal Automation with Rasa'
 - line: Coming back to open source, in your opinion, what makes a good open source
     project?
   sec: 2225
@@ -662,6 +684,7 @@ transcript:
   sec: 2232
   time: '37:12'
   who: Vincent
+- header: 'Resources: calmcode.io, Project Repositories, and Contribution Paths'
 - line: Even if your algorithm is twice as fast, if the documentation isn’t clear,
     no one will care. Docs, GitHub organization, and a clear onboarding path are crucial.
   sec: 2260

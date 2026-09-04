@@ -124,6 +124,7 @@ quotableClips:
   url: https://www.youtube.com/watch?v=FQYTb4uWljQ&t=3360
   endOffset: 3450
 transcript:
+- header: 'Episode Introduction: Feature Stores in MLOps'
 - line: Hello everyone. This event is brought to you by DataTalks.Club, a community
     of people who love data. We host two types of events. On Tuesdays, we usually
     have technical events with presentations, like workshops.
@@ -158,6 +159,7 @@ transcript:
   sec: 110
   time: '1:50'
   who: Alexey
+- header: 'Background: From Mechatronic Engineering to ML Platform Builder'
 - line: We also have support from our friends at O'Reilly and the Machine Learning
     Ops community. During our chat with Willem, we will use Slido for questions. I’ll
     share a link in the chat now.
@@ -239,6 +241,7 @@ transcript:
   sec: 389
   time: '6:29'
   who: Alexey
+- header: Feature Store Definition and Core ML Problems Addressed
 - line: Feature stores solve multiple problems. Essentially, a feature store is an
     operational data system designed specifically for machine learning. It addresses
     operational problems like moving offline features into an online production environment.
@@ -295,6 +298,7 @@ transcript:
   sec: 621
   time: '10:21'
   who: Willem
+- header: 'Transformations: From Raw Streams/Warehouses to Features'
 - line: For retrieval, you normally use an API rather than SQL. A SQL interface for
     retrieval would defeat the purpose.
   sec: 662
@@ -346,6 +350,7 @@ transcript:
   sec: 828
   time: '13:48'
   who: Willem
+- header: 'Feature Creation vs Retrieval: SQL, Python, APIs, and On-Demand Transforms'
 - line: MLOps is critical if you want to use ML at scale. Machine learning platforms
     have become standard—whether it’s Kubeflow, MLflow, or Seldon, most companies
     have a stack running models. But data accounts for almost 90% of the equation.
@@ -376,6 +381,7 @@ transcript:
   sec: 988
   time: '16:28'
   who: Alexey
+- header: 'Production Example: Real-Time Fraud Detection Feature Lookup'
 - line: Let’s take a step back and discuss the problems data science teams usually
     face. Are these problems more organizational or technical?
   sec: 996
@@ -406,6 +412,7 @@ transcript:
   sec: 1084
   time: '18:04'
   who: Willem
+- header: 'Hype vs Value: Why Feature Stores Matter in MLOps'
 - line: Sometimes, organizations don’t fully understand the value data scientists
     can bring. Failures in data science projects are normal, but organizations may
     undervalue their contribution. Over time, this is changing.
@@ -445,6 +452,7 @@ transcript:
   sec: 1252
   time: '20:52'
   who: Willem
+- header: 'Organizational Challenges: Team Silos, Duplication, and Speed to Production'
 - line: However, the fraud data science team may have an air of secrecy. They feel
     that what they are working on should not be exposed to other teams. Those are
     organizational inefficiencies. From a CDO or CIO perspective, it does not make
@@ -512,6 +520,7 @@ transcript:
   sec: 1492
   time: '24:52'
   who: Willem
+- header: 'Platform Role: Feature Stores within the ML Lifecycle'
 - line: Kubeflow pipelines also fall into this category, right?
   sec: 1517
   time: '25:17'
@@ -556,6 +565,7 @@ transcript:
   sec: 1676
   time: '27:56'
   who: Alexey
+- header: 'Ideal Production Setup: Materialization, Serving, and Validation'
 - line: Yes. We have generalized it so it can also be deployed on Azure. We recently
     launched a Terraform deployment for Azure, and of course, GCP is supported.
   sec: 1681
@@ -618,6 +628,7 @@ transcript:
   sec: 1871
   time: '31:11'
   who: Willem
+- header: 'Feast Overview: Open-Source Feature Store Design and Use Cases'
 - line: The final component is the monitoring layer. It tracks data being ingested
     from streams or batch sources, row counts, distributions, and data being read
     out of the feature store. Teams, especially in fraud, often log features back
@@ -645,6 +656,7 @@ transcript:
   sec: 1976
   time: '32:56'
   who: Willem
+- header: 'Tecton Overview: Enterprise Feature Platform and Full Lifecycle Support'
 - line: Feast adds value in the online serving layer and unified access. You implement
     it after your transformation pipelines. You already have some system to do transformations,
     like BigQuery batch or streaming.
@@ -670,6 +682,7 @@ transcript:
   sec: 2144
   time: '35:44'
   who: Alexey
+- header: 'Architecture Breakdown: Transform Engine, Storage, Serving, Registry, Monitoring'
 - line: Feast would take features from the offline store, like a data lake or Snowflake,
     and put them in online storage.
   sec: 2200
@@ -716,6 +729,7 @@ transcript:
   sec: 2372
   time: '39:32'
   who: Willem
+- header: 'When to Adopt Feature Stores: Online Tabular Use Cases vs Overkill Scenarios'
 - line: A good use case might be applying a model, such as image classification, and
     saving the results.
   sec: 2439
@@ -744,6 +758,7 @@ transcript:
   sec: 2535
   time: '42:15'
   who: Willem
+- header: 'Integrations: dbt, Kubeflow, Airflow, Warehouses, and ML Pipelines'
 - line: If I want to learn more about feature stores as an individual contributor,
     how should I start?
   sec: 2578
@@ -768,6 +783,7 @@ transcript:
   sec: 2691
   time: '44:51'
   who: Willem
+- header: 'Streaming vs Batch: Flink, Spark, and Real-Time Feature Engineering'
 - line: What workflow do you recommend for engineering new features, testing offline
     performance, and ensuring offline and online data matches?
   sec: 2751
@@ -787,6 +803,7 @@ transcript:
   sec: 2808
   time: '46:48'
   who: Willem
+- header: 'Validation and Monitoring: Drift Detection, Great Expectations, TFDV'
 - line: Great Expectations is a tool that allows you to create expectations about
     your data, profile columns and distributions, and validate new datasets against
     these expectations. You can layer expectations, such as ranges, distributions,
@@ -809,6 +826,7 @@ transcript:
   sec: 2962
   time: '49:22'
   who: Willem
+- header: Backfilling and Materialization Strategies for Historical Features
 - line: I remember seeing something like that.
   sec: 3050
   time: '50:50'
@@ -832,6 +850,7 @@ transcript:
   sec: 3087
   time: '51:27'
   who: Willem
+- header: 'Feature Ownership, Governance, and Migration Strategies'
 - line: For Feast, it doesn’t matter. On-demand transformations are requested by many
     teams, but unifying on-demand, online, and offline aspects is challenging. You
     need to ensure the same transformations are applied to training datasets.
@@ -862,6 +881,7 @@ transcript:
   sec: 3229
   time: '53:49'
   who: Willem
+- header: 'Practical Getting Started: feast.dev, Docker Examples, and Learning Resources'
 - line: The biggest friction is transformations. If you already have transformations
     in one place and add a feature store that allows transformations, now you have
     two places. Feast doesn’t do transformations, so it slots in easily. With Tecton,
@@ -870,6 +890,7 @@ transcript:
   sec: 3292
   time: '54:52'
   who: Willem
+- header: 'Key Takeaways: Where Feature Stores Deliver Business Impact'
 - line: Brownfield means an existing project, the opposite of greenfield.
   sec: 3360
   time: '56:00'

@@ -112,6 +112,7 @@ quotableClips:
   url: https://www.youtube.com/watch?v=tQRQnz_aHYQ&t=2970
   endOffset: 3030
 transcript:
+- header: Podcast Introduction
 - line: Let’s start with the second talk of today. We will talk about personal branding
     and we have a special guest today, Admond. Admond is a data scientist, writer
     and speaker. He is currently a data science instructor at Hakwagan Academy with
@@ -140,6 +141,7 @@ transcript:
   sec: 54
   time: 0:54
   who: Admond
+- header: Guest Introduction and Career Journey
 - line: I learned through seminars, conferences, mentors and books. I found all of
     it fascinating. That was how I started my data science journey. Later I moved
     to my first full time role as a data scientist. I did not start as a full timer
@@ -208,6 +210,7 @@ transcript:
   sec: 324
   time: '5:24'
   who: Admond
+- header: 'Personal Brand Defined: Purpose and Positioning'
 - line: So you need to be known in a specific area. For example if someone thinks
     about people in Singapore who are good at teaching data science they immediately
     think of you. Is this a form of personal branding
@@ -251,6 +254,7 @@ transcript:
   sec: 535
   time: '8:55'
   who: Admond
+- header: 'Starting an Online Presence: First Steps and Mindset'
 - line: You wrote consistently for a few months and people started responding. That
     helped you stay motivated
   sec: 576
@@ -304,6 +308,7 @@ transcript:
   sec: 758
   time: '12:38'
   who: Alexey
+- header: 'Publishing on Medium and LinkedIn: Formats and Best Practices'
 - line: Good question. I did this at the same time. When I was deciding which social
     media to focus on I knew I could not be everywhere because there is only one Leng.
     So I decided to focus on Medium and LinkedIn. I put all my time and effort into
@@ -370,6 +375,7 @@ transcript:
   sec: 1011
   time: '16:51'
   who: Alexey
+- header: 'Idea Generation Process: Topics, Frequency, and Tools'
 - line: Before I started sharing anything I followed many data science mentors long
     before two years ago. They shared a lot on LinkedIn. At that time I had just started
     being active on LinkedIn and I did not post anything. I only read what they posted
@@ -415,6 +421,7 @@ transcript:
   sec: 1255
   time: '20:55'
   who: Alexey
+- header: 'Content Tools and Platforms: BuzzSumo, Feedly, and Alternatives'
 - line: Correct. Exactly. Did you do that?
   sec: 1275
   time: '21:15'
@@ -478,6 +485,7 @@ transcript:
   sec: 1462
   time: '24:22'
   who: Admond
+- header: 'Podcasting and Audio Content: When and Why to Use It'
 - line: I jot down my thoughts there. I write only the topic because I will write
     the full thing on Sunday. I compile them and write on Sunday.
   sec: 1487
@@ -518,6 +526,7 @@ transcript:
   sec: 1632
   time: '27:12'
   who: Admond
+- header: 'Offline Presence and Networking: Lunchclub and 1x1 Meetings'
 - line: It is crowded and noisy. You cannot write long form stories like on LinkedIn.
     When I want to share something I need to restrict my word count or create multiple
     threads.
@@ -590,6 +599,7 @@ transcript:
   sec: 1855
   time: '30:55'
   who: Alexey
+- header: 'Conference Speaking: Preparation, Submission, and Delivery'
 - line: Exactly and it is a good way to network with others.
   sec: 1866
   time: '31:06'
@@ -641,6 +651,7 @@ transcript:
   sec: 2029
   time: '33:49'
   who: Alexey
+- header: 'Building Confidence to Publish: Overcoming Imposter Syndrome'
 - line: What about the offline world? How can we become more visible outside the internet?
     Right now it is difficult with lockdown but in Singapore maybe restrictions are
     less strong.
@@ -685,6 +696,7 @@ transcript:
   sec: 2173
   time: '36:13'
   who: Admond
+- header: 'Monetization Strategies: Selling Online Courses'
 - line: Who knows maybe in the future you may have business opportunities together.
     Lunch Club is underrated but it requires invitation like Clubhouse.
   sec: 2203
@@ -728,6 +740,7 @@ transcript:
   sec: 2330
   time: '38:50'
   who: Alexey
+- header: 'Course Design: Structuring Content and Student Outcomes'
 - line: How to overcome this barrier and say yes?
   sec: 2385
   time: '39:45'
@@ -770,6 +783,7 @@ transcript:
   sec: 2511
   time: '41:51'
   who: Alexey
+- header: Aligning Content with Personal Values and Authenticity
 - line: Good question. I remember the first time I got invited to a meetup. It was
     in a bank and I would not imagine I would go in and talk. What scared me was that
     most people were from a big company and I was speaking side by side with a CTO.
@@ -809,6 +823,7 @@ transcript:
   sec: 2648
   time: '44:08'
   who: Alexey
+- header: Balancing Frequency and Quality in Content Strategy
 - line: How do you deal with rejection when you want to teach something but they say
     no or it is already full?
   sec: 2672
@@ -843,6 +858,7 @@ transcript:
   sec: 2767
   time: '46:07'
   who: Alexey
+- header: 'Measuring Impact: Metrics, Feedback, and Iteration'
 - line: How did it happen to me? This is a very good question. Throughout the two
     year journey of attending online and offline meetups and conferences one reason
     is that I shared my speaking experiences on LinkedIn.
@@ -869,6 +885,7 @@ transcript:
   sec: 2872
   time: '47:52'
   who: Admond
+- header: Recommended Resources and Toolkits
 - line: Interesting trick. For you personally when I looked for speakers for this
     conference I thought about the career session and I needed someone who can speak
     about personal brand. Your name immediately came to mind.
@@ -887,6 +904,7 @@ transcript:
   sec: 2946
   time: '49:06'
   who: Admond
+- header: Key Takeaways and Actionable Tips
 - line: I always recommend that people share and let others know. People are scared
     to be judged and we all fear that. You need to accept it and embrace it and share
     with the mindset that you want to help.

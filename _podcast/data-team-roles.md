@@ -32,6 +32,7 @@ dateadded: 2021-02-23
 keywords: data team roles, data scientist, data engineer, machine learning engineer, data analyst, MLOps engineer, product manager, data team structure, data science roles, ML engineer vs data engineer, data team responsibilities, data science career
 
 transcript:
+- header: Podcast Introduction
 - line: Thank you for joining. I will start with the introduction, and maybe more
     people will join by the time I finish. Thank you very much for coming to this
     meeting. This is an experimental event.
@@ -61,6 +62,7 @@ transcript:
   sec: 74
   time: '1:14'
   who: Alexey
+- header: 'Topic Introduction: Roles in a Data Team'
 - line: Let me start by quickly looking at my notes. The topic today is the roles
     in a data team. We want to understand what kinds of people work in a data team,
     what responsibilities they have, what they do, what they need to know, and what
@@ -68,6 +70,7 @@ transcript:
   sec: 116
   time: '1:56'
   who: Alexey
+- header: About Alexey
 - line: Maybe first a few words about myself. I work as a lead data scientist, which
     means my views might be biased toward the perspective of a data scientist. This
     is how a data scientist sees other people in the team. I might not be right in
@@ -81,6 +84,7 @@ transcript:
   sec: 192
   time: '3:12'
   who: Alexey
+- header: Overview of the Roles
 - line: A product manager is responsible for the product and for making sure the team
     is building the right thing. This role is usually less technical than the others.
     Then we have data specialists such as data analysts, data scientists, data engineers,
@@ -96,6 +100,7 @@ transcript:
   sec: 248
   time: '4:08'
   who: Alexey
+- header: 'Example: Auto-Categorization of Marketplace Listings'
 - line: Let us start with core responsibilities. We will use an example. I work at
     OLX Group. OLX is a platform for online classifieds. It is a place where you can
     sell things you do not need.
@@ -115,6 +120,7 @@ transcript:
   sec: 330
   time: '5:30'
   who: Alexey
+- header: Product Manager
 - line: The main responsibility of a product manager is to make sure the team is building
     the right thing. They ensure that whatever service we create will be used by the
     user. Often teams solve problems, but the resulting services are not used, which
@@ -143,6 +149,7 @@ transcript:
   sec: 443
   time: '7:23'
   who: Alexey
+- header: Data Analyst
 - line: The role of a data analyst is to understand the data and explain it to others.
     Analysts know what data exists in the company, how to retrieve it, and how to
     interpret it. They build dashboards and define KPIs.
@@ -182,6 +189,7 @@ transcript:
   sec: 639
   time: '10:39'
   who: Alexey
+- header: Data Scientist
 - line: The analyst evaluates the experiment results and determines whether the model
     helps compared to not using a model. Now let us talk about data scientists. Data
     scientists and data analysts sometimes have similar roles.
@@ -207,6 +215,7 @@ transcript:
   sec: 765
   time: '12:45'
   who: Alexey
+- header: Data Engineer
 - line: Once they have the model, they create a simple service to host it. Now let
     us talk about data engineers. Data engineers handle all the heavy lifting surrounding
     data. For analysts and data scientists to use data, a lot of preparation is needed.
@@ -247,6 +256,7 @@ transcript:
   sec: 964
   time: '16:04'
   who: Alexey
+- header: Machine Learning Engineer
 - line: This is their main responsibility, but they are not the only type of engineers
     in the data team. There are other important engineering roles as well.
   sec: 1016
@@ -287,6 +297,7 @@ transcript:
   sec: 1132
   time: '18:52'
   who: Alexey
+- header: DevOps and Site Reliability Engineers
 - line: Another important type of engineer in a data team is the DevOps engineer or
     site reliability engineer. Their focus is on availability and reliability of services.
     They do not work strictly with data but instead concentrate on infrastructure.
@@ -311,6 +322,7 @@ transcript:
   sec: 1254
   time: '20:54'
   who: Alexey
+- header: MLOps Engineers
 - line: You might have heard of an MLOps engineer. This has become a recent trend.
     In my opinion, even though people may disagree, an MLOps engineer is essentially
     a DevOps engineer who understands the basics of machine learning. They know what
@@ -326,6 +338,7 @@ transcript:
   sec: 1340
   time: '22:20'
   who: Alexey
+- header: 'Summary: Roles in a Data Team'
 - line: This was the overview of the main roles. To summarize, the product manager
     ensures the team builds the right thing and acts as the gateway for incoming requests.
     They stay close to the user. Data analysts are responsible for understanding and
@@ -341,6 +354,7 @@ transcript:
   sec: 1409
   time: '23:29'
   who: Alexey
+- header: How Data Engineers Support the Team
 - line: I received a question from Ankush in Slack about how data engineers can support
     others. I think I covered most of it earlier, but I want to make it more concrete.
     The best way for data engineers to support others is by working together as one
@@ -357,6 +371,7 @@ transcript:
   sec: 1495
   time: '24:55'
   who: Alexey
+- header: Batch Serving
 - line: Sometimes models do not operate online. They are not web services running
     continuously. Instead, they run offline on a schedule, such as once per hour or
     once per day. In these situations we do not need a web service for serving predictions.
@@ -383,6 +398,7 @@ transcript:
   sec: 1672
   time: '27:52'
   who: Alexey
+- header: ML Engineers vs Data Engineers
 - line: The first question is about the difference between a machine learning engineer
     and a data engineer when scaling data science models. I partially answered this
     earlier. In my opinion and based on trends I see in companies, machine learning
@@ -405,6 +421,7 @@ transcript:
   sec: 1801
   time: '30:01'
   who: Alexey
+- header: Business Analysts in Data Teams
 - line: Another question is whether the team should have a business analyst between
     the product manager and the data team. Yes, I think this is a good idea. A business
     analyst can greatly help.
@@ -424,6 +441,7 @@ transcript:
   sec: 1873
   time: '31:13'
   who: Alexey
+- header: Communication and Soft Skills
 - line: What communication or soft skills are required in different positions? The
     main soft skill is communication in my opinion. Everyone should be able to talk
     to each other and understand each other. Product managers are less technical,
@@ -446,6 +464,7 @@ transcript:
   sec: 1926
   time: '32:06'
   who: Alexey
+- header: Team Roles by Company Size
 - line: What roles depend on the size of the team? For example, would you see a machine
     learning engineer in a small team or only later in development? It depends on
     the company. There was a trend when companies believed they could hire one data
@@ -469,6 +488,7 @@ transcript:
   sec: 2075
   time: '34:35'
   who: Alexey
+- header: Data Engineers and Big Data
 - line: Do data engineers work on big data? If the data is small, the definition of
     big data becomes unclear. But if a system processes a few million or even one
     hundred million events per day, that qualifies as big data. In that case, you
@@ -484,6 +504,7 @@ transcript:
   sec: 2246
   time: '37:26'
   who: Alexey
+- header: Full-Stack ML vs Full-Stack Web
 - line: 'Is there a needed separation between full stack machine learning developers,
     backend full stack data science model deployment, and frontend full stack developers?
     To rephrase the question: do we need different kinds of full stack engineers?
@@ -505,6 +526,7 @@ transcript:
   sec: 2332
   time: '38:52'
   who: Alexey
+- header: MLOps and DevOps in Small Teams
 - line: If a small team has no machine learning ops or devops engineer, who performs
     the task? In my opinion, it would be an engineer already in the team. If the company
     has a backend engineer, that person can be trained to understand the basics of
@@ -517,6 +539,7 @@ transcript:
   sec: 2490
   time: '41:30'
   who: Alexey
+- header: Closing Remarks
 - line: It would be good to put together a roles and responsibilities matrix when
     making this available online. I already have notes from today and will share them.
     It is possible to put the information into a matrix format. We can do that after

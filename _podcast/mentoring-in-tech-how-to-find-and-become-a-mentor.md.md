@@ -128,6 +128,7 @@ keywords: mentoring, career development, tech mentorship, finding a mentor, beco
   a mentor, imposter syndrome, tech leadership, career advice, professional development,
   data engineering
 transcript:
+- header: Episode Introduction
 - line: Thank you everyone for coming to today's event. This event is brought to you
     by Data Talks Club, which is a community of people interested in data. We have
     weekly events, and the ones we usually have on Tuesday are more technical and
@@ -151,6 +152,7 @@ transcript:
   sec: 72
   time: '1:12'
   who: Alexey
+- header: 'Career Journey: From Mining Engineering to Data Engineering & Leadership'
 - line: We can start. Let me pull up my notes.
   sec: 100
   time: '1:40'
@@ -232,6 +234,7 @@ transcript:
   sec: 363
   time: '6:03'
   who: Alexey
+- header: 'Defining Mentoring: Purpose, Scope, and Types'
 - line: The traditional definition of mentoring is about having a partnership with
     someone who knows a bit more about a topic than you do. You reach out to them
     and build a supportive relationship, usually to answer questions or get guidance.
@@ -296,6 +299,7 @@ transcript:
   sec: 565
   time: '9:25'
   who: Alexey
+- header: 'Early Mentoring Experience: Thoughtworks Model and Sponsorship'
 - line: They experiment with different formats, but that is typically how it works.
     You are not always assigned a mentor; you are encouraged to find one yourself.
     If you cannot, the organization or the people team will help you.
@@ -345,6 +349,7 @@ transcript:
   sec: 745
   time: '12:25'
   who: Alexey
+- header: 'Finding a Mentor: Networks, Cold Outreach & Platforms'
 - line: It is similar to building a relationship. Cold messages are unpredictable
     because the other person does not know you or whether they can help. Investing
     a bit in the relationship first is better. Join a meetup group, participate in
@@ -392,6 +397,7 @@ transcript:
   sec: 981
   time: '16:21'
   who: Rahul
+- header: 'Cold Outreach Best Practices: Specificity, Background, and Follow-up'
 - line: As a team lead, I lead a team, so mentoring also gives me perspective on leading
     a team and what that means. For example, if someone comes with a problem, I can
     relate that to my own experiences with my team. Finally, it has expanded my network.
@@ -422,6 +428,7 @@ transcript:
   sec: 1152
   time: '19:12'
   who: Rahul
+- header: 'Preparing for Mentoring Sessions: Goals, Expectations, and Agenda'
 - line: Also, you can recognize common patterns. Even if they come from a different
     background, many social problems in the workplace are common. You can relate and
     say, "This is similar to what I have seen, here is what I did," and start connecting
@@ -465,6 +472,7 @@ transcript:
   sec: 1335
   time: '22:15'
   who: Rahul
+- header: 'Mentoring Formats: One-Off Advice vs. Long-Term Relationships'
 - line: If someone wants advice and wants to reach out to you through the Mentoring
     Club, how should they best prepare to get the most out of the session?
   sec: 1370
@@ -488,6 +496,7 @@ transcript:
   sec: 1503
   time: '25:03'
   who: Alexey
+- header: 'Benefits of Being a Mentor: Listening, Pattern Recognition, and Growth'
 - line: Some common areas. Imposter syndrome affects more than 50 to 60 percent of
     people who reach out. They feel they are not good enough. I also get questions
     about tech versus management, especially for people with five or six years in
@@ -513,6 +522,7 @@ transcript:
   sec: 1650
   time: '27:30'
   who: Alexey
+- header: 'Mentoring Across Domains: Transferable Workplace Guidance'
 - line: It helps to have a natural inclination to help people, which most people do.
     Early in your career, you spend energy as an individual contributor, but even
     then you help new team members onboard. Tech and data work are social activities,
@@ -542,6 +552,7 @@ transcript:
   sec: 1820
   time: '30:20'
   who: Alexey
+- header: 'Developing People Skills: Empathy, Listening, and Avoiding the "Advice Monster"'
 - line: Those are the main ones. It is also about expanding your perspective and network.
     You learn through mentoring while providing value to others.
   sec: 1840
@@ -586,6 +597,7 @@ transcript:
   sec: 2004
   time: '33:24'
   who: Rahul
+- header: 'Balancing Technical Work and Leadership: Blended Career Paths'
 - line: How do you set boundaries for long-term mentorship relationships?
   sec: 2028
   time: '33:48'
@@ -613,6 +625,7 @@ transcript:
   sec: 2159
   time: '35:59'
   who: Rahul
+- header: 'Common Mentee Challenges: Imposter Syndrome & Tech-vs-Management Choices'
 - line: How can a mentee build a two-way connection with a mentor, not just ask questions?
   sec: 2258
   time: '37:38'
@@ -637,6 +650,7 @@ transcript:
   sec: 2387
   time: '39:47'
   who: Alexey
+- header: 'Coaching vs. Managing: When to Use External Mentors'
 - line: Not really. It is about the challenges they face and whether you can provide
     meaningful guidance. The problem space may differ, but the approach is similar.
   sec: 2407
@@ -653,6 +667,7 @@ transcript:
   sec: 2483
   time: '41:23'
   who: Rahul
+- header: 'Setting Boundaries: Expectations, Cadence, and When to Charge'
 - line: How should someone start being a mentor?
   sec: 2615
   time: '43:35'
@@ -663,6 +678,7 @@ transcript:
   sec: 2642
   time: '44:02'
   who: Rahul
+- header: 'Paid Mentorship: Accountability, Pricing, and Professional Coaching'
 - line: Some people use mentoring as a side income. What do you think?
   sec: 2718
   time: '45:18'
@@ -683,10 +699,12 @@ transcript:
   sec: 2832
   time: '47:12'
   who: Rahul
+- header: 'Building Reciprocal Mentoring Relationships: Authenticity & Retrospectives'
 - line: Any advice for someone who wants to keep coding while managing teams?
   sec: 3012
   time: '50:12'
   who: Alexey
+- header: 'Starting as a Mentor: Practical First Steps and Platforms'
 - line: Accept that you can manage your time and mix coding with management. Delegation
     helps create time for coding. The first step is accepting that a balance is possible.
   sec: 3023
@@ -702,6 +720,7 @@ transcript:
   sec: 3150
   time: '52:30'
   who: Rahul
+- header: 'Maintaining Development Plans: Review, Visibility, and Follow-through'
 - line: What do you do when you feel overwhelmed?
   sec: 3258
   time: '54:18'
@@ -712,6 +731,7 @@ transcript:
   sec: 3266
   time: '54:26'
   who: Rahul
+- header: 'Managing Overwhelm: Diagnosing Causes and Practical Steps'
 - line: What are some examples of value you gained as a mentor?
   sec: 3348
   time: '55:48'
@@ -721,6 +741,7 @@ transcript:
   sec: 3360
   time: '56:00'
   who: Rahul
+- header: 'Audience Q&A Highlights'
 - line: This year has been difficult. Connecting with people from different parts
     of the world, hearing their struggles, and being able to help has been personally
     rewarding.
