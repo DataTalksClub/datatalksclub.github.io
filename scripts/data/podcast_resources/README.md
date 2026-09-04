@@ -2,8 +2,8 @@
 
 Every podcast episode page has a **Resources** tab listing tools, books, papers,
 people, companies, and other resources mentioned in the episode. The list is
-generated from the episode transcript with AI and stored in the episode's front
-matter under the `resources` key.
+extracted by the AI agent from the episode transcript and stored in the
+episode's front matter under the `resources` key.
 
 This document describes the full pipeline so new episodes can be processed the
 same way.
@@ -18,7 +18,8 @@ scripts/data/youtube_transcripts/<video-id>.txt
                                  raw transcripts fetched from YouTube,
                                  cached separately (never committed into _podcast)
         │
-        ▼  LLM extraction (one call per ~45k chars of transcript)
+        ▼  extraction — the AI agent reads the transcript itself
+                                 (extract-podcast-resources skill; no LLM API)
 scripts/data/podcast_resources/<slug>.json
                                  per-episode extraction results, kept for review
         │  --merge
@@ -33,39 +34,23 @@ Everything AI-generated that is *not* episode content lives in
 `scripts/data/` — raw YouTube transcript caches in
 `youtube_transcripts/`, extraction results in `podcast_resources/`.
 
-## The tool
+## Who does what
 
-`scripts/extract_podcast_resources.py` does all three steps:
+- **The AI agent does the extraction** via the `extract-podcast-resources`
+  skill (in the skills repo, `~/git/.agents/skills/`): it reads the transcript
+  in-context, applies the extraction rules, and writes
+  `scripts/data/podcast_resources/<slug>.json`. No LLM API is involved.
+- **`scripts/extract_podcast_resources.py` does the mechanical steps**:
+  - `--fetch-transcripts` fetches missing transcripts from YouTube (needs
+    `youtube-transcript-api`; Oxylabs proxy credentials from
+    `~/.config/youtube/.env` are used automatically when YouTube blocks the IP)
+  - `--merge` writes the saved results into the `resources:` front matter key
+    of each episode page (normalizes, dedupes; idempotent)
 
 ```bash
-# 1. Fetch missing transcripts from YouTube (needs youtube-transcript-api;
-#    uses Oxylabs proxy from ~/.config/youtube/.env automatically if set)
 uv run python scripts/extract_podcast_resources.py --fetch-transcripts
-
-# 2. Extract resources with an LLM for episodes that have no result yet
-uv run python scripts/extract_podcast_resources.py --extract
-#    options: --limit N, --force (redo existing), --file <slug> (one episode)
-
-# 3. Write the saved results into the episode front matter
-uv run python scripts/extract_podcast_resources.py --merge
+uv run python scripts/extract_podcast_resources.py --merge --file <slug>
 ```
-
-Each step is idempotent and safe to re-run. `--fetch-transcripts` and
-`--extract` skip anything already cached/extracted; `--merge` replaces the
-`resources:` block in front matter with what the JSON says (and normalizes it).
-
-### LLM configuration (step 2)
-
-Any OpenAI-compatible endpoint works. Environment variables:
-
-| Variable            | Meaning                                             | Default     |
-|---------------------|-----------------------------------------------------|-------------|
-| `OPENAI_API_KEY`    | API key (required for `--extract`)                  | —           |
-| `OPENAI_BASE_URL`   | Point at a non-OpenAI OpenAI-compatible API         | OpenAI      |
-| `RESOURCES_LLM_MODEL` | Model name                                        | `gpt-5-mini` |
-
-Long transcripts are split into ~45k-char chunks at line boundaries, extracted
-separately, then deduplicated by normalized name.
 
 ### YouTube fetching
 
@@ -85,8 +70,7 @@ OXYLABS_PASSWORD=...
 
 ## What counts as a resource
 
-The extraction prompt (see `PROMPT` in the script) asks for **concrete,
-identifiable entities actually mentioned in the transcript**:
+Concrete, identifiable entities **actually mentioned in the transcript**:
 
 | Type        | Examples |
 |-------------|----------|
@@ -152,19 +136,20 @@ For each new episode file in `_podcast/`:
 
 1. Make sure the episode has `ids.youtube` in front matter if the transcript
    key is missing or empty.
-2. `uv run python scripts/extract_podcast_resources.py --fetch-transcripts`
-3. `OPENAI_API_KEY=... uv run python scripts/extract_podcast_resources.py --extract --file <slug>`
-4. Review `scripts/data/podcast_resources/<slug>.json` (spot-check names/URLs).
-5. `uv run python scripts/extract_podcast_resources.py --merge --file <slug>`
-6. Build the site and check the Resources tab on the episode page.
+2. Invoke the `extract-podcast-resources` skill with the episode slug — the
+   agent reads the transcript (fetching from YouTube first if needed),
+   extracts the resources itself, and writes the result JSON.
+3. Review `scripts/data/podcast_resources/<slug>.json` (spot-check names/URLs).
+4. `uv run python scripts/extract_podcast_resources.py --merge --file <slug>`
+5. Build the site and check the Resources tab on the episode page.
 
 ## How the initial backfill was done (for reference)
 
-When the feature was first built there was no usable LLM API key, so the
-extraction step for the backfill was done by AI coding agents instead of the
-API: transcripts were flattened to `/tmp/podcast_tx/<slug>.txt`
+For the 206-episode backfill (~9M chars of transcripts, too much for a single
+context window) the extraction step was spread across parallel agent runs:
+transcripts were flattened to `/tmp/podcast_tx/<slug>.txt`
 (`header`/`who`/`line` entries only), split into batches of ~5 episodes, and
-each batch was given to an agent with the same rules as the `PROMPT` in the
-script, writing the result JSONs to `scripts/data/podcast_resources/`. The
-`--merge` step and everything after is identical. Running `--extract` with an
-API key reproduces the same output shape, so new episodes don't need agents.
+each batch was processed with the same rules as the skill, writing the result
+JSONs to `scripts/data/podcast_resources/`. The `--merge` step and everything
+after is identical. New episodes don't need batching — one episode fits in a
+single pass.
