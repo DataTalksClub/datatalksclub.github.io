@@ -37,8 +37,8 @@ Everything AI-generated that is *not* episode content lives in
 ## Who does what
 
 - **The AI agent does the extraction** via the `extract-podcast-resources`
-  skill (in the skills repo, `~/git/.agents/skills/`): it reads the transcript
-  in-context, applies the extraction rules, and writes
+  skill in this repo (`.agents/skills/extract-podcast-resources/`): it reads
+  the transcript in-context, applies the extraction rules, and writes
   `scripts/data/podcast_resources/<slug>.json`. No LLM API is involved.
 - **`scripts/extract_podcast_resources.py` does the mechanical steps**:
   - `--fetch-transcripts` fetches missing transcripts from YouTube (needs
