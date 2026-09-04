@@ -2,13 +2,14 @@
 short: jesseanderson
 title: "Jesse Anderson"
 picture: "images/authors/jesseanderson.jpg"
+bio_short: "Jesse Anderson is a data engineer, Creative Engineer, and Managing Director of the Big Data Institute. He works with companies from startups to the Fortune 100 on big data, training teams on technologies such as Apache Kafka, Apache Hadoop, and Apache Spark, and has taught over 30,000 people the skills to become data engineers. He is published on Apress, O'Reilly, and Pragmatic Programmers and has been featured by outlets including The Wall Street Journal, CNN, BBC, NPR, Engadget, and Wired."
 twitter: jessetanderson
 linkedin: jessetanderson
 web: https://www.jesse-anderson.com/
 ---
 
-Jesse Anderson is a Data Engineer, Creative Engineer and Managing Director of Big Data Institute.
+Jesse Anderson is a data engineer and Creative Engineer who serves as Managing Director of the Big Data Institute. Over his career he has worked with organizations ranging from early-stage startups to Fortune 100 companies on big data, covering cutting-edge technologies like Apache Kafka, Apache Hadoop, and Apache Spark.
 
-He works with companies ranging from startups to Fortune 100 companies on Big Data. This includes training on cutting edge technologies like Apache Kafka, Apache Hadoop and Apache Spark. He has taught over 30,000 people the skills to become data engineers.
+Teaching is central to Jesse's work. He has taught more than 30,000 people the skills needed to become data engineers, and he is widely regarded as an expert in the field, known for his novel and effective teaching practices. His training focuses on the practical, end-to-end craft of data engineering rather than isolated tools.
 
-He is widely regarded as an expert in the field and for his novel teaching practices. Jesse is published on Apress, O’Reilly, and Pragmatic Programmers. He has been covered in prestigious publications such as The Wall Street Journal, CNN, BBC, NPR, Engadget, and Wired.
+Jesse is published on Apress, O'Reilly, and Pragmatic Programmers, and his commentary has been featured in publications such as The Wall Street Journal, CNN, BBC, NPR, Engadget, and Wired. Through the Big Data Institute, he continues to train data engineers and help companies of every size adopt big data successfully.
