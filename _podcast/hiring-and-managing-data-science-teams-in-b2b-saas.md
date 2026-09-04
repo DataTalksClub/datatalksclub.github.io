@@ -1315,6 +1315,17 @@ transcript:
   sec: 3613
   time: '1:00:13'
   who: Alexey
+resources:
+- name: GlossGenius
+  type: company
+  url: https://www.glossgenius.com
+  context: Guest's company; B2B SaaS and payments platform for salons
+- name: Charity Majors
+  type: person
+  context: Honeycomb engineer whose article on the IC-manager pendulum is recommended
+- name: The Engineer/Manager Pendulum
+  type: other
+  context: Recommended article on alternating between IC and management roles
 ---
 
 Links:

@@ -565,6 +565,66 @@ transcript:
   sec: 2604
   time: '43:24'
   who: Alexey
+resources:
+- name: OLX Group
+  type: company
+  url: https://www.olxgroup.com
+  context: Host's employer; online classifieds platform used as running example
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Core programming language for analysts, data scientists, and engineers
+- name: SQL
+  type: tool
+  context: Main query language for data analysts and data scientists
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: Dashboarding tool used by data analysts
+- name: Flask
+  type: tool
+  url: https://flask.palletsprojects.com
+  context: Used by data scientists to serve models as web services
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Container tool data scientists use for simple model services
+- name: Apache Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Orchestration tool data engineers use to build pipelines
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Infrastructure tool for data, ML, and DevOps engineers
+- name: Terraform
+  type: tool
+  url: https://www.terraform.io
+  context: Infrastructure-as-code tool used by engineering roles
+- name: Apache Kafka
+  type: tool
+  url: https://kafka.apache.org
+  context: Real-time data service used by data engineers
+- name: RabbitMQ
+  type: tool
+  url: https://www.rabbitmq.com
+  context: Messaging service used by data engineers
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: Cloud platform listed among data engineer skills
+- name: Google Cloud
+  type: service
+  url: https://cloud.google.com
+  context: Cloud platform listed among data engineer skills
+- name: R
+  type: tool
+  url: https://www.r-project.org
+  context: Programming language listed among analyst skills
+- name: Linux
+  type: tool
+  url: https://www.kernel.org
+  context: OS knowledge required for site reliability engineers
 ---
 
 The topic today is the roles in data teams. We want to understand what kind of people work in the data team, what responsibilities they have, what they do, and what they need to know.

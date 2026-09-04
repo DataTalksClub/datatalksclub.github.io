@@ -1206,6 +1206,45 @@ context: 'Context — This episode moves from the guest’s finance-to-self-driv
   testing, and human-centered impact into a continuous, safety-first development process
   that scales across domains from autonomous vehicles to assistive tech and public-health
   applications.'
+resources:
+- name: Waymo
+  type: company
+  url: https://waymo.com
+  context: Guest's current employer; driverless ride-hailing and perception work
+- name: Tesla
+  type: company
+  url: https://www.tesla.com
+  context: Former employer; camera-only 360-degree Autopilot perception
+- name: Omdena
+  type: community
+  url: https://www.omdena.com
+  context: Platform pairing nonprofits with volunteer ML engineers for AI-for-good
+- name: Zap Malaria
+  type: company
+  context: Nonprofit using the malaria model to target fumigation
+- name: Carnegie Mellon University
+  type: company
+  url: https://www.cmu.edu
+  context: Master's program and AI Guide Dog capstone origin
+- name: Morgan Stanley
+  type: company
+  url: https://www.morganstanley.com
+  context: Guest's first employer; big data engineering during E*TRADE acquisition
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Explains papers and writes app code for projects
+- name: Cursor
+  type: tool
+  url: https://cursor.com
+  context: Coding agent used to build a multi-agent evaluation app
+- name: AI Guide Dog
+  type: other
+  context: CMU volunteer capstone app giving audio guidance to blind users
+- name: Wayve
+  type: company
+  url: https://wayve.ai
+  context: Company using multimodal LLMs for end-to-end self-driving
 ---
 Links:
 

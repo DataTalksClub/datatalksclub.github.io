@@ -1153,6 +1153,68 @@ transcript:
   sec: 3902
   time: '1:05:02'
   who: Alexey
+resources:
+- name: Prodigy
+  type: tool
+  url: https://prodi.gy/
+  context: preferred annotation tool; hotkeys and spaCy integration
+- name: spaCy
+  type: tool
+  url: https://spacy.io/
+  context: linguistic features power labeling functions; Prodigy's creator
+- name: Snorkel
+  type: tool
+  url: https://www.snorkel.org/
+  context: labeling functions and weighting for distant supervision
+- name: Label Studio
+  type: tool
+  url: https://labelstud.io/
+  context: open-source annotation alternative to Prodigy
+- name: Doccano
+  type: tool
+  url: https://doccano.github.io/
+  context: open-source annotation alternative to Prodigy
+- name: Rubrix
+  type: tool
+  context: open-source weak supervision alternative to Snorkel (now Argilla)
+- name: displaCy
+  type: tool
+  url: https://demos.explosion.ai/displacy
+  context: visualizing labeled examples to pitch stakeholders
+- name: Amazon Mechanical Turk
+  type: service
+  url: https://www.mturk.com/
+  context: crowdsourcing for fast proof-of-concept annotation
+- name: fast.ai
+  type: course
+  url: https://course.fast.ai/
+  context: course recommended for beginners building projects with widgets
+- name: ipywidgets
+  type: tool
+  url: https://ipywidgets.readthedocs.io/
+  context: quick-and-dirty annotation option in Jupyter notebooks
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com/
+  context: ready-made dataset projects for career portfolios
+- name: Comtura
+  type: company
+  context: guest's startup capturing sales calls into the CRM
+- name: Resolver
+  type: company
+  context: guest's former employer; complaint annotation and Prodigy UX
+- name: Healx
+  type: company
+  url: https://healx.io/
+  context: guest's former employer; bio-NLP for rare disease drug discovery
+- name: Salesforce
+  type: service
+  url: https://www.salesforce.com/
+  context: CRM where Comtura pushes extracted sales concepts
+- name: UseML.net
+  type: other
+  url: https://useml.net
+  context: guest's blog shared for getting in touch
 ---
 
 Links:

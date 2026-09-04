@@ -1316,6 +1316,42 @@ context: 'This episode centers on one clear idea: transitioning from employee to
   pricing and contract choices, client vetting, and financial/legal safeguards so
   you can manage risk, build repeatable pipelines, and turn independence into a reliable,
   purpose-driven career.'
+resources:
+- name: Upwork
+  type: service
+  url: https://www.upwork.com
+  context: Main freelancing platform discussed for finding clients and rates
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: Cold outreach to freelancers, networking, and self-marketing channel
+- name: The Data Freelancer
+  type: other
+  context: Guest's newsletter with advice for data freelancers
+- name: Domestika
+  type: course
+  url: https://www.domestika.org
+  context: Affordable online course platform recommended for positioning courses
+- name: Fiverr
+  type: service
+  url: https://www.fiverr.com
+  context: Freelancing platform mentioned for benchmarking rates and bids
+- name: Toptal
+  type: service
+  url: https://www.toptal.com
+  context: Online freelancing platform named alongside Upwork
+- name: Freelancer Map
+  type: service
+  url: https://www.freelancermap.com
+  context: Directory to scout freelancer profiles and compare rates
+- name: Freelancer.com
+  type: service
+  url: https://www.freelancer.com
+  context: Freelancer directory mentioned alongside Freelancer Map
+- name: Google Marketing Platform
+  type: service
+  url: https://marketingplatform.google.com
+  context: Toolset of the Google partner consulting firm the guest joined
 ---
 Links:
 

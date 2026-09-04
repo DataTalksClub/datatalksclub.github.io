@@ -1393,6 +1393,70 @@ transcript:
   sec: 5146
   time: '1:25:46'
   who: Danny
+resources:
+- name: Hidden Technical Debt in Machine Learning Systems
+  type: paper
+  url: https://proceedings.neurips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html
+  context: Famous Google paper recommended for builder-type data scientists
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org
+  context: Underlying papers in its documentation recommended for learning theory
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Starting point for self-directed data science learning
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Containerizing models; key builder-type skill
+- name: Git
+  type: tool
+  url: https://git-scm.com
+  context: Mandatory version control skill for data scientists
+- name: Google Cloud Platform
+  type: service
+  url: https://cloud.google.com
+  context: Retailer attribution project built on GCP
+- name: Serious SQL
+  type: course
+  url: https://datawithdanny.com
+  context: Guest's course opening the DataWithDanny virtual data apprenticeship
+- name: Super Data Science
+  type: other
+  url: https://www.superdatascience.com
+  context: Online training platform building skill certifications
+- name: XGBoost
+  type: tool
+  url: https://xgboost.readthedocs.io
+  context: Its documentation papers recommended for learning ML theory
+- name: LightGBM
+  type: tool
+  url: https://lightgbm.readthedocs.io
+  context: Papers in documentation as a machine learning theory resource
+- name: Airbnb
+  type: company
+  url: https://www.airbnb.com
+  context: Data science team's article defining Type A and Type B scientists
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Guest self-taught at 5am; core data science language
+- name: R
+  type: tool
+  url: https://www.r-project.org
+  context: Language dabbled in university; roadmap option alongside Python
+- name: SQL
+  type: tool
+  context: Foundational data skill; focus of guest's course
+- name: Amazon Web Services
+  type: service
+  url: https://aws.amazon.com
+  context: Cloud account with free credits for learning
+- name: Microsoft Azure
+  type: service
+  url: https://azure.microsoft.com
+  context: Cloud account option with learning credits
 ---
 
 Links:

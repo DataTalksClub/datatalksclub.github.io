@@ -990,6 +990,72 @@ transcript:
   sec: 3743
   time: '1:02:23'
   who: Anusha
+resources:
+- name: Auralytix
+  type: company
+  context: Guest's AI-driven finance platform giving CFOs clarity and speed
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Guest prototyped finance analyses and code generation with it
+- name: Cursor
+  type: tool
+  url: https://cursor.com
+  context: AI code editor the guest used to build the product
+- name: Lovable
+  type: service
+  url: https://lovable.dev
+  context: AI app builder; guest was its first non-technical user
+- name: Framer
+  type: tool
+  url: https://www.framer.com
+  context: Design tool for UI mockups fed into Lovable
+- name: Databricks
+  type: company
+  url: https://www.databricks.com
+  context: Unified data platform that inspired the guest's startup idea
+- name: SAP
+  type: company
+  context: ERP and EPM systems discussed as rigid, expensive black boxes
+- name: Prediction Machines
+  type: book
+  context: Tech-side book on AI economics by Ajay Agrawal and Joshua Gans
+- name: The Fearless Organization
+  type: book
+  context: Amy Edmondson's book on psychological safety in teams
+- name: The Almanac of Naval Ravikant
+  type: book
+  context: Guest's favorite book on strategy and entrepreneurship
+- name: Rich Dad Poor Dad
+  type: book
+  context: Recommended for shifting from employee to entrepreneur mindset
+- name: Naval Ravikant
+  type: person
+  context: Cited by the guest on unit economics and strategy
+- name: Y Combinator Podcast
+  type: other
+  context: Founder-focused podcasts the guest listened to before starting up
+- name: Web Summit
+  type: community
+  url: https://websummit.com
+  context: Lisbon conference where the hosts plan to meet the guest
+- name: SIBB Co-Founder Meet
+  type: community
+  context: Berlin matching event where the guest met her co-founder
+- name: Coupa
+  type: service
+  url: https://www.coupa.com
+  context: Procurement tool recalled as painful for end users
+- name: Tagetik
+  type: service
+  context: Consolidation software used for budgeting and forecasting
+- name: Oracle Hyperion Financial Management
+  type: service
+  context: Consolidation system, mentioned as HFM, for management reporting
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Guest learned basics; ChatGPT wrote Python code for her
 ---
 
 Links:

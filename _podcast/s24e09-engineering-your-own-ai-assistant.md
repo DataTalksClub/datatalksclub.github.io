@@ -1341,6 +1341,99 @@ transcript:
   sec: 3688
   time: '1:01:28'
   who: Alexey
+resources:
+- name: Claude Code
+  type: tool
+  context: Guest's main interface for writing and coding workflows
+- name: Obsidian
+  type: tool
+  url: https://obsidian.md
+  context: Notes app anchoring the guest's second brain and wiki
+- name: Readwise
+  type: service
+  url: https://readwise.io
+  context: Capture tool feeding the second brain; has a CLI
+- name: Building a Second Brain
+  type: book
+  url: https://www.buildingasecondbrain.com
+  context: Tiago Forte's book that inspired the guest's approach
+- name: Tiago Forte
+  type: person
+  context: Coined the second brain concept; author of the book
+- name: PARA method
+  type: other
+  url: https://fortelabs.com/blog/para/
+  context: Organize digital life into projects, areas, resources, archive
+- name: Open Interpreter
+  type: tool
+  url: https://openinterpreter.com
+  context: Host's Telegram server agent; fixed an SSH attack
+- name: Bright Data
+  type: service
+  url: https://brightdata.com
+  context: Scraping platform used to ingest web content into the wiki
+- name: Firecrawl
+  type: service
+  url: https://www.firecrawl.dev
+  context: Competing scraping tool briefly compared with Bright Data
+- name: Anthropic
+  type: company
+  url: https://www.anthropic.com
+  context: Subscription powering Claude Code; older models favored for writing
+- name: Codex
+  type: service
+  context: Host burned weekly limits wiki-ifying podcast transcripts
+- name: Hetzner
+  type: service
+  url: https://www.hetzner.com
+  context: Bare-metal server rental hosting the host's assistant
+- name: Aider
+  type: tool
+  url: https://aider.chat
+  context: Coding agent whose codebase the guest indexes into wikis
+- name: Gemini
+  type: service
+  url: https://gemini.google.com
+  context: Deep research option for querying the resource pool
+- name: Perplexity
+  type: service
+  url: https://www.perplexity.ai
+  context: Deep research alternative that needs heavy curation
+- name: NotebookLM
+  type: service
+  url: https://notebooklm.google.com
+  context: Deep research alternative mentioned alongside Gemini
+- name: Andrew Karpathy
+  type: person
+  context: Popularized the wiki-memory idea the guest builds on
+- name: LLM wiki
+  type: other
+  context: Wiki-as-memory pattern created per article or feature
+- name: Pinecone
+  type: service
+  url: https://www.pinecone.io
+  context: Tested its Nexus tool for enterprise company-brain wikis
+- name: Manning
+  type: company
+  url: https://www.manning.com
+  context: Publisher of the guest's in-progress personal assistant book
+- name: Confluence
+  type: tool
+  url: https://www.atlassian.com/software/confluence
+  context: Enterprise wiki example that agents struggle to consume
+- name: Notion
+  type: tool
+  url: https://www.notion.com
+  context: No-code note tool alternative for second brains
+- name: Hermes
+  type: tool
+  context: General-purpose assistant judged not ready yet
+- name: AI Engineer World's Fair
+  type: community
+  context: Guest's keynote on the wiki workflow was accepted
+- name: Architecture Decision Records
+  type: other
+  context: Design decision logs kept alongside code and a glossary
 ---
 
 Links:

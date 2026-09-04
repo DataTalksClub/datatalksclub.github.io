@@ -913,6 +913,49 @@ transcript:
   sec: 3822
   time: '1:03:42'
   who: Alexey
+resources:
+- name: Advanced Algorithms and Data Structures
+  type: book
+  url: https://www.manning.com/books/advanced-algorithms-and-data-structures
+  context: Guest's book; central topic covering Bloom filters, nearest-neighbour search, optimization
+- name: Grokking Algorithms
+  type: book
+  url: https://www.manning.com/books/grokking-algorithms
+  context: Recommended as friendly introduction to basic algorithms and data structures
+- name: Algorithms Specialization (Tim Roughgarden, Coursera)
+  type: course
+  url: https://www.coursera.org/specializations/algorithms
+  context: Recommended Coursera course explaining algorithms clearly and simply
+- name: Tim Roughgarden
+  type: person
+  context: Computer scientist whose Coursera algorithms course was recommended twice
+- name: MIT OpenCourseWare algorithms lectures
+  type: course
+  url: https://ocw.mit.edu
+  context: MIT video lecture series recommended for learning algorithms
+- name: LeetCode
+  type: community
+  url: https://leetcode.com
+  context: Practice problems site suggested for hands-on algorithm learning
+- name: Google Code Jam
+  type: community
+  context: Programming competition suggested as motivation for practicing algorithms
+- name: Topcoder
+  type: community
+  url: https://www.topcoder.com
+  context: Online competition platform mentioned for practicing data structures
+- name: Faiss
+  type: tool
+  url: https://github.com/facebookresearch/faiss
+  context: Library used at OLX for fast approximate nearest-neighbour search
+- name: Google Guava
+  type: tool
+  url: https://github.com/google/guava
+  context: Java library with good off-the-shelf Bloom filter implementation
+- name: Cython
+  type: tool
+  url: https://cython.org
+  context: Suggested for performant typed number crunching while staying in Python
 ---
 
 

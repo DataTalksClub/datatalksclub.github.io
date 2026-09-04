@@ -1092,6 +1092,74 @@ transcript:
   sec: 3818
   time: '1:03:38'
   who: Barr
+resources:
+- name: Monte Carlo
+  type: company
+  url: https://www.montecarlodata.com
+  context: Guest's data observability platform; introduced the five pillars
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Defining data quality tests as an alternative to monitoring
+- name: Apache Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Provides job-level lineage; place point tests in pipelines
+- name: Snowflake
+  type: service
+  url: https://www.snowflake.com
+  context: Monte Carlo partner; cloud data warehouse integration
+- name: PagerDuty
+  type: service
+  url: https://www.pagerduty.com
+  context: Alerting on data incidents; Monte Carlo partnership
+- name: Datadog
+  type: service
+  url: https://www.datadoghq.com
+  context: DevOps observability solution for applications
+- name: New Relic
+  type: service
+  url: https://newrelic.com
+  context: Application monitoring in the DevOps observability analogy
+- name: AppDynamics
+  type: service
+  url: https://www.appdynamics.com
+  context: Application monitoring solution named alongside DevOps observability
+- name: Prometheus
+  type: tool
+  url: https://prometheus.io
+  context: Open-source monitoring tailored to always-on web services
+- name: Grafana
+  type: tool
+  url: https://grafana.com
+  context: Open-source monitoring for web services, unlike batch data
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Cloud-agnostic way to run jobs
+- name: Looker
+  type: service
+  url: https://looker.google.com
+  context: BI integration partner of Monte Carlo, acquired by Google
+- name: Netflix
+  type: company
+  url: https://www.netflix.com
+  context: Wrote extensively on monitoring, observability and anomaly detection
+- name: Gainsight
+  type: company
+  url: https://www.gainsight.com
+  context: Guest's former customer data platform where data downtime emerged
+- name: Amazon Web Services
+  type: service
+  url: https://aws.amazon.com
+  context: 'Cloud vendor discussed re: lock-in and agnostic integrations'
+- name: Google Cloud Platform
+  type: service
+  url: https://cloud.google.com
+  context: Cloud vendor; Looker partnership and observability integrations
+- name: RACI
+  type: other
+  context: Accountability framework for data ownership and communication
 ---
 
 Links:

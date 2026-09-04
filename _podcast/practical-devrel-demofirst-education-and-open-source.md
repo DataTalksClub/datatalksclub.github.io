@@ -1595,6 +1595,101 @@ context: 'Context: This episode weaves together practical production tips (video
   onboarding and demo workflows, and scalable program design—so more people can learn
   by doing, successfully contribute to real projects, and transition into lasting
   technical roles.'
+resources:
+- name: Kestra
+  type: tool
+  url: https://kestra.io
+  context: Workflow orchestration platform; guest is developer advocate
+- name: Major League Hacking
+  type: community
+  url: https://mlh.io
+  context: Hackathon league; guest was a rep and fellowship staffer
+- name: MLH Fellowship
+  type: course
+  url: https://fellowship.mlh.io
+  context: Open-source program the guest helped run for three years
+- name: Git
+  type: tool
+  url: https://git-scm.com
+  context: Real-world skill the guest learned at hackathons
+- name: Turn the Ship Around!
+  type: book
+  context: Leadership book the guest recommends for empowering teams
+- name: Apache Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Open-source project fellowship students contributed to
+- name: Meta
+  type: company
+  context: Fellowship sponsor with React and other big projects
+- name: React
+  type: tool
+  url: https://react.dev
+  context: Large open-source project students learned to contribute to
+- name: Flask
+  type: tool
+  url: https://flask.palletsprojects.com
+  context: Pallets project in the fellowship; students became maintainers
+- name: Jinja
+  type: tool
+  url: https://jinja.palletsprojects.com
+  context: Pallets project students contributed to via the fellowship
+- name: TensorFlow
+  type: tool
+  url: https://www.tensorflow.org
+  context: Notoriously hard project Alexey tried to compile
+- name: Google Colab
+  type: service
+  url: https://colab.research.google.com
+  context: Workaround for students lacking GPU power
+- name: Amazon Web Services
+  type: service
+  url: https://aws.amazon.com
+  context: Alexey rented a big VM there to compile TensorFlow
+- name: Google Cloud
+  type: service
+  url: https://cloud.google.com
+  context: Subject of Kestra installation guide videos
+- name: Microsoft Azure
+  type: service
+  url: https://azure.microsoft.com
+  context: Hackathon sponsor behind the Vision API demo
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Featured in the Learn with Kestra video series
+- name: PostgreSQL
+  type: tool
+  url: https://www.postgresql.org
+  context: Planned tutorial on automating data loads with Kestra
+- name: uv
+  type: tool
+  url: https://docs.astral.sh/uv
+  context: Python package manager; planned video topic
+- name: Google Summer of Code
+  type: other
+  url: https://summerofcode.withgoogle.com
+  context: Comparable student open-source program mentioned
+- name: Bazel
+  type: tool
+  url: https://bazel.build
+  context: Build tool making TensorFlow hard to set up
+- name: CMake
+  type: tool
+  url: https://cmake.org
+  context: Build tool making TensorFlow hard to set up
+- name: Slack
+  type: tool
+  url: https://slack.com
+  context: Community space for running online hackathons
+- name: Discord
+  type: tool
+  url: https://discord.com
+  context: Popular community space for hackathons
+- name: YouTube
+  type: service
+  url: https://www.youtube.com
+  context: Where Will's Kestra tutorials and demos are published
 ---
 Links:
 

@@ -1200,6 +1200,76 @@ transcript:
   sec: 3719
   time: '1:01:59'
   who: Alexey
+resources:
+- name: CPython
+  type: tool
+  url: https://github.com/python/cpython
+  context: Guest contributed via PyCon sprint; standout CV talking point
+- name: LangChain
+  type: tool
+  url: https://www.langchain.com
+  context: Top framework in AI engineer job ads; guest made a course on it
+- name: LangGraph
+  type: tool
+  url: https://github.com/langchain-ai/langgraph
+  context: Guest contributed; companies look for it when hiring AI engineers
+- name: Machine Learning Specialization
+  type: course
+  url: https://www.deeplearning.ai/courses/machine-learning-specialization/
+  context: DeepLearning.AI course that sparked the guest's AI journey
+- name: Andrew Ng
+  type: person
+  context: Big AI figure whose course certificate boosts a CV
+- name: AI Hedge Fund
+  type: tool
+  url: https://github.com/virattt/ai-hedge-fund
+  context: Open source project mimicking Warren Buffett; standout project idea
+- name: LLM wiki
+  type: other
+  context: Karpathy's idea of condensing raw material into a wiki
+- name: Andrej Karpathy
+  type: person
+  context: Creator of the LLM wiki project idea
+- name: Ollama
+  type: tool
+  url: https://ollama.com
+  context: Self-host open models to keep personal data private
+- name: OpenAI API
+  type: service
+  url: https://openai.com/api/
+  context: Chatbots are more than sending requests to it
+- name: Anthropic
+  type: company
+  url: https://www.anthropic.com
+  context: Guests may self-host rather than send personal data there
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Find real estate datasets for portfolio chatbot projects
+- name: LeetCode
+  type: tool
+  url: https://leetcode.com
+  context: Big tech interview grind the guest chose to skip
+- name: PyCon
+  type: community
+  url: https://us.pycon.org
+  context: US conference sprints where guest contributed to Python core
+- name: Cursor
+  type: company
+  url: https://cursor.com
+  context: Runs AI tool ambassador programs useful for networking
+- name: Lovable
+  type: company
+  url: https://lovable.dev
+  context: Ambassador programs; founded by depict AI's founder
+- name: Notion
+  type: tool
+  url: https://www.notion.com
+  context: Export target for guest's Audible bookmarks side project
+- name: Audible
+  type: service
+  url: https://www.audible.com
+  context: Audiobook bookmarks extracted by guest's side project
 ---
 
 Links:

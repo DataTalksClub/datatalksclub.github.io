@@ -1168,6 +1168,108 @@ transcript:
   sec: 3802
   time: '1:03:22'
   who: Juan Pablo
+resources:
+- name: SQL
+  type: tool
+  context: skill to learn first; what the guest uses most daily
+- name: Amazon
+  type: company
+  url: https://www.amazon.com
+  context: guest's employer; business intelligence engineer in advertising
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: language the guest recommends over R as more marketable
+- name: R
+  type: tool
+  url: https://www.r-project.org
+  context: guest's first language; portfolio projects and data visualization
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: dashboard tool from the bootcamp and the guest's first job
+- name: Power BI
+  type: tool
+  url: https://powerbi.microsoft.com
+  context: dashboard tool named among bootcamp skills
+- name: Amazon QuickSight
+  type: service
+  url: https://aws.amazon.com/quicksight/
+  context: visualization tool the guest uses daily at Amazon
+- name: SAS
+  type: tool
+  url: https://www.sas.com
+  context: statistical software from the guest's biostatistics courses
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: active posting and commenting strategy for job visibility
+- name: X (Twitter)
+  type: service
+  url: https://x.com
+  context: where the guest shares job tips; consistency beats silence
+- name: Meetup
+  type: service
+  url: https://www.meetup.com
+  context: in-person meetups where networking landed the first job
+- name: Dice
+  type: service
+  url: https://www.dice.com
+  context: best US site for contract and temp data roles
+- name: Catchafire
+  type: service
+  url: https://www.catchafire.org
+  context: platform connecting volunteers with nonprofit technical projects
+- name: freeCodeCamp
+  type: course
+  url: https://www.freecodecamp.org
+  context: web development courses used to build the guest's first website
+- name: RPubs
+  type: service
+  url: https://rpubs.com
+  context: where the guest hosted his R portfolio
+- name: GitHub
+  type: tool
+  url: https://github.com
+  context: free option to host portfolio work
+- name: Zyro
+  type: service
+  url: https://zyro.com
+  context: Lithuanian no-code website builder the guest pays for and recommends
+- name: WordPress
+  type: service
+  url: https://wordpress.com
+  context: free-tier option for hosting a portfolio
+- name: Squarespace
+  type: service
+  url: https://www.squarespace.com
+  context: pricier website builder compared against Zyro
+- name: Hashnode
+  type: service
+  url: https://hashnode.com
+  context: platform to describe projects and link to code
+- name: Upwork
+  type: service
+  url: https://www.upwork.com
+  context: freelance marketplace discussed for gaining experience
+- name: Fiverr
+  type: service
+  url: https://www.fiverr.com
+  context: guest hires there; hard for Westerners to compete as providers
+- name: Hopin
+  type: service
+  context: online conference platform with random networking pairings
+- name: University of Washington
+  type: company
+  url: https://www.washington.edu
+  context: where the guest has mentored students for four years
+- name: T-Mobile
+  type: company
+  url: https://www.t-mobile.com
+  context: client that poached the guest from consulting
+- name: STAR format
+  type: other
+  context: Situation-Task-Action-Result framework to summarize projects
 ---
 
 Links:

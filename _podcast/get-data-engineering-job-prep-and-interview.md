@@ -884,6 +884,116 @@ transcript:
   sec: 2882
   time: '48:02'
   who: Jeff
+resources:
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: core language; projects need a few hundred lines of Python
+- name: SQL
+  type: tool
+  context: core skill; medium-to-hard SQL questions in technical interviews
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: cloud-computing skill expected alongside a cloud service like AWS
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: recommended cloud service for data engineering roles and projects
+- name: Apache Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: pipeline tool; DAG definitions make object-oriented programming relevant
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: listed with data warehouses in the recommended tech stack
+- name: Snowflake
+  type: service
+  url: https://www.snowflake.com
+  context: example data warehouse in the recommended tech stack
+- name: Amazon Redshift
+  type: service
+  url: https://aws.amazon.com/redshift/
+  context: example data warehouse in the recommended tech stack
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org
+  context: senior-job skill written in Scala; PySpark experience suffices
+- name: LeetCode
+  type: service
+  url: https://leetcode.com
+  context: source of SQL medium-hard and Python easy interview problems
+- name: Automate the Boring Stuff with Python
+  type: book
+  url: https://automatetheboringstuff.com
+  context: recommended beginner book; a Udemy video course also exists
+- name: Think Python
+  type: book
+  context: short beginner book by Allen Downey, readable on a train
+- name: The Flask Mega-Tutorial
+  type: book
+  url: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+  context: Miguel Grinberg's project-based introduction to back-end engineering
+- name: Khan Academy
+  type: course
+  url: https://www.khanacademy.org
+  context: recommended first stop for learning SQL interactively
+- name: Code for America
+  type: community
+  url: https://www.codeforamerica.org
+  context: chapters with remote meetups for open-source portfolio contributions
+- name: Jigsaw Labs
+  type: course
+  url: https://jigsawlabs.io
+  context: Jeff's beginner-friendly intro-to-Python course at jigsawlabs.io
+- name: Prefect
+  type: tool
+  url: https://www.prefect.io
+  context: open-source project worth contributing to for portfolio credibility
+- name: Apache Flink
+  type: tool
+  url: https://flink.apache.org
+  context: Alexey's master's cohort included the people behind Flink
+- name: Scala
+  type: tool
+  url: https://www.scala-lang.org
+  context: functional language on senior job descriptions; challenging for beginners
+- name: Java
+  type: tool
+  url: https://www.java.com
+  context: object-oriented programmers get hired into Java roles without knowing it
+- name: GitHub
+  type: tool
+  url: https://github.com
+  context: hiring managers check Git and GitHub contribution skills
+- name: Git
+  type: tool
+  url: https://git-scm.com
+  context: version control skill asked about alongside GitHub
+- name: matplotlib
+  type: tool
+  url: https://matplotlib.org
+  context: suggested for presenting take-home project findings
+- name: Mode
+  type: course
+  url: https://mode.com
+  context: dashboarding company with recommended SQL lessons and tutorials
+- name: HackerRank
+  type: service
+  url: https://www.hackerrank.com
+  context: timed quiz-style interview format candidates should practice
+- name: Udemy
+  type: course
+  url: https://www.udemy.com
+  context: hosts the video course version of Automate the Boring Stuff
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: 'bottom of funnel: profile, relevant skills, and about section'
+- name: Google Cloud Professional Data Engineer Certification
+  type: other
+  context: discussed whether the certification helps land a first data engineering job
 ---
 Links:
 

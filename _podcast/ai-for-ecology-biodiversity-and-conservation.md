@@ -147,6 +147,68 @@ context: 'Context: The episode frames a biodiversity crisis made harder by fragm
   with ethics, community engagement, capacity building, sustainable funding, and multistakeholder
   governance so that AI-enabled monitoring directly informs equitable conservation
   decisions, enforcement, and long-term policy.'
+resources:
+- name: Wildbook
+  type: service
+  url: https://www.wildbook.org/
+  context: Platform organizing wildlife photo ID data by individual animal
+- name: Wild Me
+  type: company
+  url: https://wildme.org/
+  context: Nonprofit building AI solutions for conservation behind Wildbook
+- name: IUCN Red List
+  type: dataset
+  url: https://www.iucnredlist.org/
+  context: Official biodiversity tracker; many species data deficient
+- name: Imageomics Institute
+  type: company
+  url: https://imageomics.org/
+  context: NSF-funded institute extracting biological traits from images
+- name: AI and Biodiversity Change (ABC) Global Center
+  type: company
+  url: https://abc-global.ca/
+  context: New center studying climate change impact on biodiversity
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org/
+  context: Off-the-shelf models host used in ecology research
+- name: NASA
+  type: company
+  url: https://www.nasa.gov/
+  context: US agency collecting abundant remote sensing climate data
+- name: NOAA
+  type: company
+  url: https://www.noaa.gov/
+  context: US agency whose whale data feeds the Wildbook catalog
+- name: Dan Rubenstein
+  type: person
+  context: Princeton behavioral ecologist whose zebra studies sparked photo ID work
+- name: Chuck Stewart
+  type: person
+  context: Computer vision researcher who improved animal photo identification
+- name: Mark Hauber
+  type: person
+  context: Ornithologist collaborating on machine learning for bird eggs
+- name: BearID
+  type: tool
+  context: Facial identification project for bears, being incorporated into Wildbook
+- name: Kenya Wildlife Service
+  type: company
+  url: https://www.kws.go.ke/
+  context: Government partner using Wildbook and co-running Grevy's zebra census
+- name: African Wildlife Foundation
+  type: company
+  url: https://www.awf.org/
+  context: Conservation organization using the Wildbook platform
+- name: Great Grevy's Rally
+  type: community
+  context: Citizen-science event enabling first full species census
+- name: GPAI Report on AI and Biodiversity
+  type: other
+  context: Recent report outlining challenges and opportunities for AI
+- name: Endangered Species Act
+  type: other
+  context: US law requiring impact assessments on endangered species
 ---
 Links:
 

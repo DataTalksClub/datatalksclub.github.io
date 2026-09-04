@@ -1293,6 +1293,94 @@ transcript:
   sec: 3675
   time: '1:01:15'
   who: Alexey
+resources:
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org/
+  context: Daily PySpark and Scala Spark processing for fraud data pipelines
+- name: Neo4j
+  type: tool
+  url: https://neo4j.com/
+  context: Graph database for transaction networks and fraud investigation visualizations
+- name: Designing Data-Intensive Applications
+  type: book
+  url: https://dataintensive.net/
+  context: O'Reilly book both speakers recommend for data engineering
+- name: Great Expectations
+  type: tool
+  url: https://greatexpectations.io/
+  context: Suggested tool for data quality checks in pipelines
+- name: Wikidata
+  type: dataset
+  url: https://www.wikidata.org/
+  context: Knowledge graph queried with SPARQL in Alexa Prize project
+- name: Elasticsearch
+  type: tool
+  url: https://www.elastic.co/elasticsearch/
+  context: Stores entity-based data for conversational book recommendation systems
+- name: Apache Cassandra
+  type: tool
+  url: https://cassandra.apache.org/
+  context: Databases used at work; scalability and use cases discussed
+- name: Google Cloud Platform
+  type: service
+  url: https://cloud.google.com/
+  context: Primary cloud used for her daily data engineering work
+- name: Databricks
+  type: service
+  url: https://www.databricks.com/
+  context: Platform used alongside GCP for data workloads
+- name: Dataproc
+  type: service
+  url: https://cloud.google.com/dataproc
+  context: Managed Spark clusters; serverless option highlighted
+- name: BigQuery
+  type: service
+  url: https://cloud.google.com/bigquery
+  context: Cloud warehouse with built-in data quality checks
+- name: Apache Kafka
+  type: tool
+  url: https://kafka.apache.org/
+  context: Team members work with it for streaming data
+- name: pandas
+  type: tool
+  url: https://pandas.pydata.org/
+  context: Occasional use; data size limits and PyArrow backend discussed
+- name: PyArrow
+  type: tool
+  url: https://arrow.apache.org/
+  context: New pandas backend enabling faster, distributed execution
+- name: Redis
+  type: tool
+  url: https://redis.io/
+  context: One of the key-value databases she has worked with
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com/
+  context: Used as an analyst to consolidate datasets and build dashboards
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com/
+  context: Example of the data pipelines behind large language models
+- name: Sam's Club
+  type: company
+  url: https://www.samsclub.com/
+  context: Guest's employer; wholesale retailer fighting transaction fraud
+- name: Amazon Alexa Prize
+  type: community
+  context: Competition she worked on during her Master's program
+- name: SPARQL
+  type: tool
+  url: https://www.w3.org/TR/sparql11-query/
+  context: Query language for retrieving entities from Wikidata
+- name: Amazon EMR
+  type: service
+  url: https://aws.amazon.com/emr/
+  context: AWS managed Spark cluster service, compared to Dataproc
+- name: TablePlus
+  type: tool
+  url: https://tableplus.com/
+  context: Client she uses to connect to Cassandra
 ---
 
 Links:

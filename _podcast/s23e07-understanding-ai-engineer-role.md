@@ -1178,6 +1178,43 @@ transcript:
   sec: 3729
   time: '1:02:09'
   who: Nasser
+resources:
+- name: Google
+  type: company
+  url: https://about.google
+  context: Guest's former employer; exploring agent ops internally
+- name: Agent Development Kit (ADK)
+  type: tool
+  url: https://google.github.io/adk-docs/
+  context: Agent framework he uses daily; recommends starting deep
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Shorthand for generative AI; suggested as design-thinking interviewer
+- name: LangGraph
+  type: tool
+  url: https://www.langchain.com/langgraph
+  context: Graph orchestrator hyped on Twitter; start simpler first
+- name: MCP
+  type: tool
+  url: https://modelcontextprotocol.io
+  context: Bringing software engineering rigor to agent development
+- name: AgentOps
+  type: service
+  url: https://www.agentops.ai
+  context: Website for the emerging agent ops discipline
+- name: XGBoost
+  type: tool
+  url: https://xgboost.readthedocs.io
+  context: Fast traditional model to distill LLM work into
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org
+  context: Abstraction that professionalized machine learning tooling
+- name: Keras
+  type: tool
+  url: https://keras.io
+  context: Abstraction that made deep learning more accessible
 ---
 
 Links:

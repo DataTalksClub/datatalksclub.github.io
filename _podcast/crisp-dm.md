@@ -481,6 +481,18 @@ transcript:
   sec: 2163
   time: '36:03'
   who: Alexey
+resources:
+- name: CRISP-DM
+  type: other
+  context: Cross Industry Standard Process for Data Mining; the episode's main methodology
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org
+  context: Example library for training models in the modeling step
+- name: IBM
+  type: company
+  url: https://www.ibm.com
+  context: Company that created CRISP-DM in the 1990s
 ---
 
 The topic today is the processes in a data science project. We want to understand how cross-functional teams work together to ship real value. We'll use a concrete example (auto-categorizing marketplace listings) and walk through CRISP-DM step by step.

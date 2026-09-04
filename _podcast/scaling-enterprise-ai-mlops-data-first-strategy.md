@@ -1138,6 +1138,45 @@ transcript:
   sec: 3807
   time: '1:03:27'
   who: Alexander
+resources:
+- name: PyData
+  type: community
+  url: https://pydata.org
+  context: Guest chairs PyData Berlin; also spoke at PyData London
+- name: PyCon DE
+  type: community
+  url: https://pycon.de
+  context: German Python conference the guest chairs and organizes
+- name: EuroPython
+  type: community
+  url: https://europython.eu
+  context: Guest audited and co-chaired; now runs organizers' summit
+- name: EuroSciPy
+  type: community
+  url: https://www.euroscipy.org
+  context: Guest helps organize; upcoming software engineering talk
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Healthy community culture; decision makers increasingly know it
+- name: Pandas
+  type: tool
+  url: https://pandas.pydata.org
+  context: Guest's deep-dive talks demystified the index
+- name: 'MLOps: Overview, Definition, and Architecture'
+  type: paper
+  context: KIT paper detailing the MLOps process used to assess clients
+- name: Donald Knuth
+  type: person
+  context: Attributed the premature optimization quote in the discussion
+- name: Google
+  type: company
+  url: https://www.google.com
+  context: Only about five percent of research ML reaches production
+- name: Jupyter
+  type: tool
+  url: https://jupyter.org
+  context: Notebook-centric student work motivates his software engineering talk
 ---
 
 Links:

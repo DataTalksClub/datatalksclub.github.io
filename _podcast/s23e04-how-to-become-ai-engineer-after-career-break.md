@@ -889,6 +889,70 @@ transcript:
   sec: 2852
   time: '47:32'
   who: Revathy
+resources:
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Used to plan the career pivot and explain concepts
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Interview topic; guest completed a Docker course to upskill
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Asked about in interviews; skill gap after her break
+- name: LangChain
+  type: tool
+  url: https://www.langchain.com
+  context: Framework she works with for RAG at her current job
+- name: ChromaDB
+  type: tool
+  url: https://www.trychroma.com
+  context: Vector database she learned on the job for RAG
+- name: Lovable
+  type: tool
+  url: https://lovable.dev
+  context: Used to build the UI in the AI Dev Tools course
+- name: Spring Boot
+  type: tool
+  url: https://spring.io/projects/spring-boot
+  context: Java framework discussed from her pre-break backend work
+- name: Jupyter Notebook
+  type: tool
+  url: https://jupyter.org
+  context: Where she ran her first machine learning experiments
+- name: Kaggle
+  type: tool
+  url: https://www.kaggle.com
+  context: Source of the telecom dataset for her capstone project
+- name: Apache Karaf
+  type: tool
+  url: https://karaf.apache.org
+  context: Container framework from her Ericsson work, like Spring Boot
+- name: Apache Camel
+  type: tool
+  url: https://camel.apache.org
+  context: Integration framework from her Ericsson Java projects
+- name: Ericsson
+  type: company
+  url: https://www.ericsson.com
+  context: Guest's former employer; telecom company she hoped to rejoin
+- name: HackerRank
+  type: tool
+  url: https://www.hackerrank.com
+  context: Coding practice site used for interview preparation
+- name: CodeChef
+  type: tool
+  url: https://www.codechef.com
+  context: Coding practice site with beginner to expert levels
+- name: VMware
+  type: tool
+  url: https://www.vmware.com
+  context: Deployment tool she used before the industry moved on
+- name: Zia Ben
+  type: person
+  context: Went from full-time mom to head of data and cloud
 ---
 
 Links:

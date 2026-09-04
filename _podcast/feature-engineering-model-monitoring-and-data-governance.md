@@ -1145,6 +1145,41 @@ transcript:
   sec: 3992
   time: '1:06:32'
   who: Thom
+resources:
+- name: Integrated Machine Learning and AI
+  type: community
+  context: Guest's integrated mentoring community, nearly 1000 members
+- name: Steve Blank
+  type: person
+  url: https://steveblank.com
+  context: Stanford professor; source of customer-centric design ideas
+- name: Greg Coquillo
+  type: person
+  context: Amazon technology manager; co-speaker on return on data
+- name: Denis Rothman
+  type: person
+  context: AI book author who joined the community's LinkedIn live
+- name: The Pragmatic Programmer
+  type: book
+  context: Source of the tracer bullet rapid delivery approach
+- name: Six Thinking Hats
+  type: book
+  context: Method guest learned for managing egos in debates
+- name: How to Win Friends and Influence People
+  type: book
+  context: Dale Carnegie book likened to lunch-and-beer networking
+- name: UL Prospector
+  type: service
+  url: https://www.ulprospector.com
+  context: Plastics database SaaS where guest built unstructured-data AI
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org
+  context: Polynomial features class used for feature engineering
+- name: Power BI
+  type: tool
+  url: https://powerbi.microsoft.com
+  context: Recommended for data storytelling before modeling
 ---
 
 

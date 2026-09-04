@@ -1295,6 +1295,64 @@ transcript:
   sec: 3678
   time: '1:01:18'
   who: Alexey
+resources:
+- name: AI Guild
+  type: community
+  context: Guest's community advancing AI adoption with monthly dinners and career support
+- name: Datalift Summit
+  type: community
+  context: AI Guild's Berlin conference for production AI use cases and career topics
+- name: Weapons of Math Destruction
+  type: book
+  context: Guest's recommended book on discriminatory applications of math
+- name: Coded Bias
+  type: other
+  context: Netflix documentary featuring Cathy O'Neil on biased AI
+- name: Lean In
+  type: book
+  context: Pregnant parking anecdote about missing diverse perspectives in teams
+- name: Cathy O'Neil
+  type: person
+  context: Author of Weapons of Math Destruction, champions unbiased AI
+- name: Berlin Code of Conduct
+  type: other
+  context: Famous code of conduct AI Guild used as template
+- name: PyData
+  type: community
+  context: Host attended a PyData meetup with very few women
+- name: PyLadies
+  type: community
+  context: Women's community guest visits to invite speakers and members
+- name: Women in Machine Learning and Data Science
+  type: community
+  context: Safe-space community guest taps for women speakers
+- name: Data Science for Social Good
+  type: community
+  context: Guest's volunteer work that grew her Berlin data network
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Guest's Master's thesis compared Spark with Hadoop
+- name: Hadoop
+  type: tool
+  url: https://hadoop.apache.org
+  context: Big data framework replaced by Spark in guest's thesis
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Standard deployment tool companies consolidated on
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Standard deployment tool alongside Docker in industry
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: Guest built dashboards as a startup data scientist
+- name: Coursera
+  type: course
+  url: https://www.coursera.org
+  context: MOOC platform that didn't exist when guest learned SQL
 ---
 
 Links:

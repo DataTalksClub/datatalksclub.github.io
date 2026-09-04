@@ -1218,6 +1218,77 @@ transcript:
   sec: 3761
   time: '1:02:41'
   who: Alexey
+resources:
+- name: GitHub
+  type: tool
+  url: https://github.com
+  context: Stars, trending, and screening discussed for sourcing startups
+- name: Crowd.dev
+  type: company
+  url: https://crowd.dev
+  context: Community management startup built by guest's former company builder
+- name: Hugging Face
+  type: company
+  url: https://huggingface.co
+  context: Named as a recent open source success story
+- name: Supabase
+  type: company
+  url: https://supabase.com
+  context: Open source platform-as-a-service that raised big rounds
+- name: Kong
+  type: company
+  url: https://konghq.com
+  context: API management platform named among open source successes
+- name: Apollo GraphQL
+  type: company
+  url: https://www.apollographql.com
+  context: GraphQL platform cited among funded open source companies
+- name: Qdrant
+  type: company
+  url: https://qdrant.tech
+  context: Promising German open source vector database company
+- name: Gitpod
+  type: company
+  url: https://www.gitpod.io
+  context: German open source developer tooling company with traction
+- name: Deepset
+  type: company
+  url: https://www.deepset.ai
+  context: Early but promising German open source AI company
+- name: Neo4j
+  type: company
+  url: https://neo4j.com
+  context: Viewer-cited open source project with enterprise package
+- name: Elasticsearch
+  type: tool
+  url: https://www.elastic.co
+  context: Older success story despite AWS hosting licensing dispute
+- name: MongoDB
+  type: company
+  url: https://www.mongodb.com
+  context: Public open source company used as success benchmark
+- name: HashiCorp
+  type: company
+  url: https://www.hashicorp.com
+  context: Public open source company used as success benchmark
+- name: Mistral AI
+  type: company
+  url: https://mistral.ai
+  context: Raised over 100 million euros in a seed round
+- name: Product Hunt
+  type: other
+  url: https://www.producthunt.com
+  context: Channel investors use to discover new products
+- name: Bessemer Venture Partners
+  type: company
+  url: https://bvp.com
+  context: VC fund whose article on open source metrics was recommended
+- name: Zero to One
+  type: book
+  context: Recommended starter book on startups by Peter Thiel
+- name: Peter Thiel
+  type: person
+  context: PayPal founder and investor; author of Zero to One
 ---
 Links:
 

@@ -1274,6 +1274,82 @@ transcript:
   sec: 3694
   time: '1:01:34'
   who: Sonal
+resources:
+- name: Zingg
+  type: tool
+  url: https://www.zingg.ai
+  context: Guest's open source ML-powered identity resolution framework
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Zingg's distribution engine; guest installed Spark clusters consulting
+- name: Snowflake
+  type: service
+  url: https://www.snowflake.com
+  context: Snowflake-native implementation for users not on Spark
+- name: Databricks
+  type: company
+  url: https://www.databricks.com
+  context: Tighter integration planned; Zingg runs in Databricks notebooks
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Integration target where much of Zingg's action happens
+- name: Elasticsearch
+  type: tool
+  url: https://www.elastic.co
+  context: Fuzzy lookup example; cloud provider rehosted it as a service
+- name: OpenSearch
+  type: tool
+  url: https://opensearch.org
+  context: Renamed Elasticsearch after cloud provider offered it as a service
+- name: Neo4j
+  type: tool
+  url: https://neo4j.com
+  context: Graph database used in fraud detection with entity resolution
+- name: TigerGraph
+  type: tool
+  url: https://www.tigergraph.com
+  context: Graph database vendor for fraud detection networks
+- name: BigQuery
+  type: service
+  url: https://cloud.google.com/bigquery
+  context: Zingg connects through Spark connectors
+- name: Hadoop
+  type: tool
+  url: https://hadoop.apache.org
+  context: Guest set up Hadoop clusters during early big data consulting
+- name: Cascading
+  type: tool
+  url: https://www.cascading.org
+  context: Programmatic ETL framework guest used around 2010
+- name: SQL Server Integration Services
+  type: tool
+  context: Microsoft visual ETL tool with fuzzy joins, host's example
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Hosted the Avito duplicate detection competition host joined
+- name: Avito
+  type: company
+  context: Classifieds site behind the duplicate detection Kaggle competition
+- name: OLX
+  type: company
+  url: https://tech.olx.com
+  context: Host's former employer; tech blog post on fraud rings
+- name: Crunchbase
+  type: service
+  url: https://www.crunchbase.com
+  context: External data enriched into internal customer identity records
+- name: Creative Selection
+  type: book
+  context: Guest's recommended book on Apple's iterative design process
+- name: Sunshine Act
+  type: other
+  context: US law forcing healthcare companies to reconcile provider spend
+- name: North Carolina campaign finance open data
+  type: dataset
+  context: Public donor-recipient records resolved with Zingg case study
 ---
 
 Links:

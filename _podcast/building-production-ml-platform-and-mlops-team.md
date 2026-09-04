@@ -1290,6 +1290,88 @@ transcript:
   sec: 3596
   time: '59:56'
   who: Alexey
+resources:
+- name: Transaction Monitoring Netherlands (TMNL)
+  type: company
+  url: https://www.tmnl.nl
+  context: Guest's employer; MLOps for the five big Dutch banks
+- name: bol.com
+  type: company
+  url: https://www.bol.com
+  context: Guest was staff ML engineer doing NLP there
+- name: Amazon SageMaker
+  type: service
+  url: https://aws.amazon.com/sagemaker/
+  context: TMNL's platform; batch transform and Clarify limitations discussed
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Core infrastructure skill for ML platform engineers
+- name: Terraform
+  type: tool
+  url: https://www.terraform.io
+  context: Infrastructure-as-code skill for building ML platforms
+- name: MLflow
+  type: tool
+  url: https://mlflow.org
+  context: Experiment tracker and model registry example
+- name: Weights & Biases
+  type: tool
+  url: https://wandb.ai
+  context: Experiment tracking with data and artifact logging
+- name: Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Workflow orchestrator choice for batch training and inference
+- name: Vertex AI
+  type: service
+  url: https://cloud.google.com/vertex-ai
+  context: Managed alternative to SageMaker discussed for platforms
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: Cloud provider whose services platform engineers must know
+- name: Google Cloud Platform (GCP)
+  type: service
+  url: https://cloud.google.com
+  context: Cloud used at bol.com for NLP work on Kubernetes
+- name: Microsoft Azure
+  type: service
+  url: https://azure.microsoft.com
+  context: Big cloud vendor with managed ML platform offerings
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Option for custom batch inference without batch transform
+- name: Databricks
+  type: company
+  url: https://www.databricks.com
+  context: Self-service Spark compute for data science exploration
+- name: Hugging Face
+  type: tool
+  url: https://huggingface.co
+  context: Source of SOTA models, reducing need to learn model internals
+- name: Neptune.ai
+  type: tool
+  url: https://neptune.ai
+  context: MLOps tooling with data tracking functionality
+- name: Comet ML
+  type: tool
+  url: https://www.comet.com
+  context: MLOps tooling with experiment and data tracking
+- name: Designing Machine Learning Systems
+  type: book
+  context: Popular ML book, though not platform-focused
+- name: Practical MLOps
+  type: book
+  context: Guest's favorite practical book by Noah Gift and Alfredo Deza
+- name: MLOps Zoomcamp
+  type: course
+  url: https://mlops.zoomcamp.com
+  context: Guest recommends it for practical projects and showcasing skills
+- name: GDPR
+  type: other
+  context: Deletion requests complicate logging datasets in vendor storage
 ---
 
 Links:

@@ -1199,6 +1199,22 @@ transcript:
   sec: 3517
   time: '58:37'
   who: Alexey
+resources:
+- name: Rules of Machine Learning
+  type: other
+  url: https://developers.google.com/machine-learning/guides/rules-of-ml
+  context: Google's ML best-practices guide; guest's recommended reading
+- name: CRISP-DM
+  type: other
+  url: https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
+  context: End-to-end ML process the host considers still valid
+- name: BERT
+  type: tool
+  url: https://github.com/google-research/bert
+  context: Pre-trained NLP development the guest follows
+- name: ELMo
+  type: tool
+  context: Earlier pre-trained NLP model the guest followed
 ---
 
 Links:

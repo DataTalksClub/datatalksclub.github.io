@@ -1147,6 +1147,149 @@ transcript:
   sec: 3791
   time: '1:03:11'
   who: Alexey
+resources:
+- name: Apache Kafka
+  type: tool
+  url: https://kafka.apache.org
+  context: message queue for event ingestion and job sequencing
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org
+  context: processing framework option for data pipelines
+- name: Apache Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: orchestration to adopt once pipelines grow complex
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: cloud platform used for all pipeline examples
+- name: Amazon SageMaker
+  type: service
+  url: https://aws.amazon.com/sagemaker/
+  context: notebooks and model endpoints; can get expensive
+- name: Amazon S3
+  type: service
+  url: https://aws.amazon.com/s3/
+  context: data lake storage and model artifact storage
+- name: LearnDataEngineering.com
+  type: course
+  url: https://www.learndataengineering.com
+  context: Andreas's academy with courses, capstones, and coaching
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: containerize notebook code and scheduled training jobs
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: recommended language data scientists should stick with
+- name: Apache Flink
+  type: tool
+  url: https://flink.apache.org
+  context: streaming processing framework option
+- name: AWS Lambda
+  type: service
+  url: https://aws.amazon.com/lambda/
+  context: simple processing and scheduling starter
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: big tool beginners shouldn't start with
+- name: Amazon Kinesis
+  type: service
+  url: https://aws.amazon.com/kinesis/
+  context: AWS message queue alternative to Kafka
+- name: AWS Glue
+  type: service
+  url: https://aws.amazon.com/glue/
+  context: managed processing option on AWS
+- name: Amazon ECS
+  type: service
+  url: https://aws.amazon.com/ecs/
+  context: running Docker container jobs against the data lake
+- name: AWS Batch
+  type: service
+  url: https://aws.amazon.com/batch/
+  context: cheaper Docker container jobs than SageMaker
+- name: Amazon CloudWatch
+  type: service
+  url: https://aws.amazon.com/cloudwatch/
+  context: simple scheduler for Lambda-triggered container jobs
+- name: Flask
+  type: tool
+  url: https://flask.palletsprojects.com
+  context: API building for prototypes with Python
+- name: FastAPI
+  type: tool
+  url: https://fastapi.tiangolo.com
+  context: Andreas's favorite for prototyping APIs
+- name: MySQL
+  type: tool
+  url: https://www.mysql.com
+  context: production database replicated to S3 for training
+- name: MongoDB
+  type: tool
+  url: https://www.mongodb.com
+  context: open source NoSQL tool worth knowing
+- name: pandas
+  type: tool
+  url: https://pandas.pydata.org
+  context: PyData stack tool for data prep and training
+- name: NumPy
+  type: tool
+  url: https://numpy.org
+  context: PyData stack tool for data scientists
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org
+  context: PyData stack tool for model training
+- name: Jupyter Notebook
+  type: tool
+  url: https://jupyter.org
+  context: prototyping stage before productionizing pipelines
+- name: Hadoop
+  type: tool
+  url: https://hadoop.apache.org
+  context: big data origin; less central as cloud platforms rose
+- name: GitLab
+  type: tool
+  url: https://about.gitlab.com
+  context: code repository plus build and deploy tool
+- name: Jenkins
+  type: tool
+  url: https://www.jenkins.io
+  context: build tool alternative for CI/CD
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: source of small datasets for learning projects
+- name: Outbrain Click Prediction
+  type: dataset
+  url: https://www.kaggle.com/c/outbrain-click-prediction
+  context: Kaggle competition with multi-file joins
+- name: Data Engineering Cookbook
+  type: other
+  url: https://github.com/andkret/Cookbook
+  context: Andreas's free resource linked on his website
+- name: Data Science Platform Blueprint
+  type: other
+  context: Andreas's blueprint videos on pipeline architecture areas
+- name: Microsoft Azure
+  type: service
+  url: https://azure.microsoft.com
+  context: cloud more prevalent in some European industries
+- name: Google Cloud
+  type: service
+  url: https://cloud.google.com
+  context: third major cloud platform option
+- name: Towards Data Science
+  type: other
+  url: https://towardsdatascience.com
+  context: website with step-by-step tutorials for tool setups
+- name: SQL
+  type: tool
+  context: universal transformation language supported by all tools
 ---
 
 

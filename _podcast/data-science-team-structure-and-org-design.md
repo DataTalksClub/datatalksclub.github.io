@@ -1276,6 +1276,33 @@ transcript:
   sec: 3612
   time: '1:00:12'
   who: Alexey
+resources:
+- name: Twitter
+  type: company
+  url: https://twitter.com
+  context: Guest's employer; case study for hybrid per-division data science orgs
+- name: Microsoft
+  type: company
+  url: https://www.microsoft.com
+  context: Guest's former employer; example of multiple product-area data science orgs
+- name: Azure
+  type: service
+  url: https://azure.microsoft.com
+  context: Microsoft cloud division where guest led a data science team
+- name: Designing a Data Science Organization (article by Lisa Cohen)
+  type: other
+  context: Guest's article on centralizing vs decentralizing data science, basis of episode
+- name: Visual Studio
+  type: tool
+  url: https://visualstudio.microsoft.com
+  context: Product the guest worked on when starting at Microsoft
+- name: Power BI
+  type: tool
+  url: https://powerbi.microsoft.com
+  context: Product intersecting the guest's Azure data science work
+- name: Objectives and Key Results (OKRs)
+  type: other
+  context: Goal-setting framework used at both companies for cross-functional alignment
 ---
 
 Links:

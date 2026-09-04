@@ -1425,6 +1425,61 @@ transcript:
   sec: 3651
   time: '1:00:51'
   who: Valerii
+resources:
+- name: Meta
+  type: company
+  url: https://meta.com
+  context: Facebook/WhatsApp ML system design interviews; user data privacy team
+- name: Blockchain.com
+  type: company
+  url: https://www.blockchain.com
+  context: Guest's current employer; crypto wallet and exchange founded 2011
+- name: Kaggle
+  type: tool
+  url: https://www.kaggle.com
+  context: Guest is a competition grandmaster; warns it's addictive
+- name: Machine Learning Design Patterns
+  type: book
+  context: O'Reilly book by Google practitioners; taxonomy of ML patterns
+- name: Rules of Machine Learning
+  type: book
+  url: https://developers.google.com/machine-learning/guides/rules-of-ml
+  context: Google mini-book; first rule is you may not need ML
+- name: Feast
+  type: tool
+  url: https://feast.dev
+  context: Feature store cited as an example ML system component
+- name: Google Cloud
+  type: service
+  url: https://cloud.google.com
+  context: Cloud provider used at Blockchain; focus of the patterns book
+- name: Kubeflow
+  type: tool
+  url: https://www.kubeflow.org
+  context: Open-source ML platform mentioned alongside the design patterns book
+- name: LeetCode
+  type: tool
+  url: https://leetcode.com
+  context: Coding interview style for new grads; patterns over grinding
+- name: Machine Learning Project Checklist
+  type: other
+  context: Facebook practitioners' 16-page checklist for reviewing ML services
+- name: Alibaba
+  type: company
+  url: https://www.alibaba.com
+  context: Guest was VP of machine learning at Alibaba Russia
+- name: X5 Retail Group
+  type: company
+  url: https://www.x5.ru
+  context: Guest was senior director of data science there
+- name: Yandex
+  type: company
+  url: https://yandex.com
+  context: Guest also worked at Yandex and Yandex.Market
+- name: Coinbase
+  type: company
+  url: https://www.coinbase.com
+  context: Origin-story split that led to founding Blockchain
 ---
 Links:
 

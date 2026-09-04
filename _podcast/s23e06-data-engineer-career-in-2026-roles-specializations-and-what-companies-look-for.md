@@ -1519,6 +1519,58 @@ transcript:
   sec: 4112
   time: '1:08:32'
   who: Slawomir
+resources:
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Industry standard for transformation; narrow dbt-only roles at risk
+- name: Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Orchestration tool in the product data engineer skill set
+- name: Kafka
+  type: tool
+  url: https://kafka.apache.org
+  context: Industry standard, only worth it for true real-time needs
+- name: Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Not legacy yet but too heavy for small teams
+- name: DuckDB
+  type: tool
+  url: https://duckdb.org
+  context: Recommended simple engine for startup data stacks
+- name: Snowflake
+  type: service
+  url: https://www.snowflake.com
+  context: Enterprise platform to adopt when scaling past simple stacks
+- name: Databricks
+  type: service
+  url: https://www.databricks.com
+  context: Vendor platform that startups often buy too early
+- name: Presto
+  type: tool
+  url: https://prestodb.io
+  context: Meta's open source engine; his pick for new projects
+- name: Superset
+  type: tool
+  url: https://superset.apache.org
+  context: Good open source visualization layer for lean stacks
+- name: Meta
+  type: company
+  url: https://www.meta.com
+  context: Guest's long tenure scaling data engineering for ads ranking
+- name: Amazon Athena
+  type: service
+  url: https://aws.amazon.com/athena/
+  context: Managed Presto on AWS; convenient vendor option
+- name: Hadoop
+  type: tool
+  url: https://hadoop.apache.org
+  context: Symbol of the original big data hype era
+- name: Data Swarm
+  type: tool
+  context: Meta's internal orchestration framework, counterpart to Airflow
 ---
 
 Links:

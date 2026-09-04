@@ -1126,4 +1126,19 @@ transcript:
   sec: 4005
   time: '1:06:45'
   who: Mariano
+resources:
+- name: Glint
+  type: service
+  url: https://www.glint.com
+  context: Runs anonymized pulse surveys behind manager and engagement scores
+- name: PyData Berlin
+  type: community
+  url: https://pydata.org
+  context: Conference where guest gave her data science management talk
+- name: Scrum
+  type: other
+  context: Guest's ML teams work in two-week Scrum sprints
+- name: Global Engineering Days
+  type: other
+  context: Intuit's twice-yearly five-day company-wide hackathon
 ---

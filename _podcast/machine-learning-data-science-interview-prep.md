@@ -1356,4 +1356,34 @@ transcript:
   sec: 3730
   time: '1:02:10'
   who: Alexey
+resources:
+- name: LeetCode
+  type: tool
+  url: https://leetcode.com
+  context: Recommended for practicing coding interview questions
+- name: HackerRank
+  type: tool
+  url: https://www.hackerrank.com
+  context: Recommended site for practicing interview questions
+- name: Codeforces
+  type: tool
+  url: https://codeforces.com
+  context: Recommended for coding practice before interviews
+- name: AlgoMonster
+  type: tool
+  context: Listed among guest's recommended interview practice sites
+- name: Educative
+  type: service
+  url: https://www.educative.io
+  context: Recommended platform for interview question practice
+- name: 16Personalities
+  type: other
+  url: https://www.16personalities.com
+  context: Personality site guest recommends for communication-style research
+- name: AI Game Changer Podcast
+  type: other
+  context: Guest's podcast on AI company stories in Germany
+- name: Neural AI
+  type: company
+  context: Guest's recruiting company for data science and AI roles
 ---

@@ -1396,6 +1396,111 @@ transcript:
   sec: 3587
   time: '59:47'
   who: Danny
+resources:
+- name: WhyLabs
+  type: service
+  url: https://whylabs.ai
+  context: model monitoring and observability SaaS; guest is MLOps architect there
+- name: WhyLogs
+  type: tool
+  url: https://github.com/whylabs/whylogs
+  context: open-source library generating statistical data profiles sent to WhyLabs
+- name: Apache Druid
+  type: tool
+  url: https://druid.apache.org/
+  context: fast analytic database powering WhyLabs monitoring backend
+- name: ONNX
+  type: tool
+  url: https://onnx.ai/
+  context: model interoperability standard; guest sees limited customer adoption
+- name: BentoML
+  type: tool
+  url: https://bentoml.com/
+  context: model serving tool customers use for inference
+- name: Amazon SageMaker
+  type: service
+  url: https://aws.amazon.com/sagemaker/
+  context: managed deployment option discussed for model inference
+- name: Kubeflow
+  type: tool
+  url: https://www.kubeflow.org/
+  context: open-source pipelines option in build-vs-buy discussion
+- name: Vertex AI
+  type: service
+  url: https://cloud.google.com/vertex-ai
+  context: commercial GCP ML platform contrasted with Kubeflow
+- name: MLflow
+  type: tool
+  url: https://mlflow.org/
+  context: named in tool-choice question with Kubeflow and Vertex AI
+- name: Weights & Biases
+  type: tool
+  url: https://wandb.ai/
+  context: experiment tracking tool, upstream of guest's monitoring focus
+- name: FastAPI
+  type: tool
+  url: https://fastapi.tiangolo.com/
+  context: self-deployed serving option for models
+- name: Flask
+  type: tool
+  url: https://flask.palletsprojects.com/
+  context: self-deployed serving option for models
+- name: Apache Kafka
+  type: tool
+  url: https://kafka.apache.org/
+  context: streaming demo in guest's technical WhyLabs workshop
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org/
+  context: runtime WhyLabs integrates with for data profiling
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org/
+  context: common modeling library still seen in production
+- name: TensorFlow
+  type: tool
+  url: https://www.tensorflow.org/
+  context: common training framework in tooling trends discussion
+- name: XGBoost
+  type: tool
+  url: https://xgboost.readthedocs.io/
+  context: mentioned as still-common modeling library
+- name: PMML
+  type: tool
+  context: earlier model-interchange standard before ONNX
+- name: TeachableHub
+  type: service
+  context: deployment platform mentioned among inference options
+- name: Imply
+  type: company
+  url: https://imply.io/
+  context: company behind Apache Druid; guest was field engineer
+- name: Qubole
+  type: company
+  url: https://www.qubole.com/
+  context: guest's former employer; grounded his data engineering knowledge
+- name: AI Infrastructure Alliance
+  type: community
+  context: helps customers navigate MLOps tool landscape fit
+- name: Matt Turck
+  type: person
+  url: https://mattturck.com/
+  context: publishes the Big Data and AI landscape diagram
+- name: Cracking the Coding Interview
+  type: book
+  context: interview prep book guest says he never practiced
+- name: freeCodeCamp
+  type: course
+  url: https://www.freecodecamp.org/
+  context: suggested resource for learning coding skills
+- name: Codecademy
+  type: course
+  url: https://www.codecademy.com/
+  context: suggested resource for learning coding skills
+- name: Python
+  type: tool
+  url: https://www.python.org/
+  context: guest's preferred language; WhyLabs integration requirement
 ---
 
 Links:

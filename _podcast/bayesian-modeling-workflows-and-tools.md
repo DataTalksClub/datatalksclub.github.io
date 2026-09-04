@@ -1320,6 +1320,48 @@ context: 'Context: This episode centers on Rob Zinkov and the Hakaru probabilist
   and MCMC), lets you compose and reuse model parts, and shifts modeling toward an
   iterative, testable practice; doing this effectively requires foundational math
   and a mindset of principled model-building rather than chasing point estimates.'
+resources:
+- name: PyMC
+  type: tool
+  url: https://www.pymc.io
+  context: Major Python probabilistic programming library; guest is a contributor
+- name: Stan
+  type: tool
+  url: https://mc-stan.org
+  context: Dominant probabilistic programming system; pioneer of HMC and NUTS
+- name: Statistical Rethinking
+  type: book
+  url: https://xcelab.net/rm/statistical-rethinking/
+  context: Highly recommended book teaching the holistic statistics workflow
+- name: Bayesian Modeling and Computation in Python
+  type: book
+  context: Free online book by the PyMC team; recommended for PyMC learners
+- name: Hakaru
+  type: tool
+  url: https://github.com/hakaru-dev/hakaru
+  context: Probabilistic programming language the guest helped build at Indiana University
+- name: Probabilistic Programming and Bayesian Methods for Hackers
+  type: book
+  url: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+  context: Older free online book using PyMC, mentioned as a learning resource
+- name: Statistical Rethinking course
+  type: course
+  context: Richard McElreath's lecture course; past versions free on YouTube
+- name: Richard McElreath
+  type: person
+  context: Author and teacher of Statistical Rethinking, based in Leipzig
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org
+  context: Recurring example contrasting libraries with probabilistic programming languages
+- name: PyTorch
+  type: tool
+  url: https://pytorch.org
+  context: Cited as example of automatic differentiation for derivatives
+- name: Turing
+  type: tool
+  url: https://turinglang.org
+  context: Named among other probabilistic programming languages alongside Stan
 ---
 Links:
 

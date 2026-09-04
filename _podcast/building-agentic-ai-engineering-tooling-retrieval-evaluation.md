@@ -1006,6 +1006,96 @@ context: 'Context: The episode traces a practitioner’s journey from early ML a
   just about large models: they are systems engineering problems requiring explicit
   choices about autonomy, grounding, tooling, planning, and measurement to deliver
   dependable, useful automation.'
+resources:
+- name: Noird
+  type: company
+  context: Guest's startup automating engineering on-call with agents
+- name: Model Context Protocol (MCP)
+  type: tool
+  url: https://modelcontextprotocol.io
+  context: Single protocol standardizing how agents communicate with tools
+- name: LangChain
+  type: tool
+  url: https://www.langchain.com
+  context: Framework trade-offs discussed; Alexey recalls debugging nightmares
+- name: OpenAI Agents SDK
+  type: tool
+  url: https://github.com/openai/openai-agents-python
+  context: Lightweight agent framework Alexey finds easy to understand
+- name: smolagents
+  type: tool
+  url: https://github.com/huggingface/smolagents
+  context: Hugging Face agents library guest liked; still recommends building from scratch
+- name: PydanticAI
+  type: tool
+  url: https://ai.pydantic.dev
+  context: Framework Alexey cited for defining prompts, tools and agents
+- name: SQuAD
+  type: dataset
+  url: https://rajpurkar.github.io/SQuAD-explorer/
+  context: Public benchmark of model capability, not your system
+- name: Dropbox Dash
+  type: service
+  url: https://www.dropbox.com/dash
+  context: AI-powered enterprise search assistant connecting workplace SaaS tools
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Alexey uses voice input with it to summarize podcast transcripts
+- name: GPT-3.5
+  type: service
+  context: Its release disrupted the market during Dropbox question-answering work
+- name: MongoDB
+  type: tool
+  url: https://www.mongodb.com
+  context: Example data source an agent can query as a tool
+- name: T5
+  type: tool
+  url: https://github.com/google-research/text-to-text-transfer-transformer
+  context: Guest fine-tuned it for question answering before GPT-3.5
+- name: OpenCV
+  type: tool
+  url: https://opencv.org
+  context: Feature extraction in guest's undergrad image search engine project
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Where on-call engineers inspect deployments when investigating failures
+- name: Datadog
+  type: service
+  url: https://www.datadoghq.com
+  context: Monitoring tool example for agent platform integrations
+- name: New Relic
+  type: service
+  url: https://newrelic.com
+  context: Monitoring tool an AI reliability engineer could access via MCP
+- name: Amazon CloudWatch
+  type: service
+  url: https://aws.amazon.com/cloudwatch/
+  context: Data source an AI reliability engineer could access
+- name: PagerDuty
+  type: service
+  url: https://www.pagerduty.com
+  context: On-call alerts that agents aim to handle automatically
+- name: Elasticsearch
+  type: tool
+  url: https://www.elastic.co/elasticsearch/
+  context: Log stack example the platform must integrate with
+- name: Kaggle
+  type: company
+  url: https://www.kaggle.com
+  context: Named via anecdote about founders' domain-name availability script
+- name: Anthony Goldbloom
+  type: person
+  context: Kaggle co-creator interviewed by the host about its naming
+- name: Microsoft
+  type: company
+  url: https://www.microsoft.com
+  context: Guest built speech recognition for Bing, Xbox and Cortana
+- name: Dropbox
+  type: company
+  url: https://www.dropbox.com
+  context: Guest built recommendations, question answering and agents there
 ---
 Links:
 

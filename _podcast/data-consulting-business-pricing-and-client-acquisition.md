@@ -1225,6 +1225,51 @@ transcript:
   sec: 3686
   time: '1:01:26'
   who: Alexey
+resources:
+- name: The Mom Test
+  type: book
+  url: https://www.momtestbook.com
+  context: Recommended book for validating business ideas through customer conversations
+- name: Think Like a Rocket Scientist
+  type: book
+  url: https://www.thinklikerocketscientist.com
+  context: Recommended book on structured project thinking by a rocket scientist
+- name: Delivery Hero
+  type: company
+  url: https://www.deliveryhero.com
+  context: Guest's former product management employer before starting the agency
+- name: Y42
+  type: company
+  url: https://www.y42.com
+  context: Named as a data-stack-as-a-service startup competitor
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Transformation layer when stitching a data stack for clients
+- name: Snowflake
+  type: service
+  url: https://www.snowflake.com
+  context: Warehouse option when assembling a client data stack
+- name: BigQuery
+  type: service
+  url: https://cloud.google.com/bigquery
+  context: Warehouse option when assembling a client data stack
+- name: Metabase
+  type: tool
+  url: https://www.metabase.com
+  context: Visualization layer plugged on top of client data stacks
+- name: Airbyte
+  type: tool
+  url: https://airbyte.com
+  context: Ingestion tool when assembling a client's data stack
+- name: ClickHouse
+  type: tool
+  url: https://clickhouse.com
+  context: Warehouse option when assembling a client data stack
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: Content marketing channel that brings inbound consulting leads
 ---
 Links:
 

@@ -547,6 +547,76 @@ transcript:
   sec: 3719
   time: '1:01:59'
   who: Xia
+resources:
+- name: Data Engineering Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/data-engineering-zoomcamp
+  context: Guest credits it with portfolio projects and landing jobs
+- name: MLOps Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/mlops-zoomcamp
+  context: Second Zoomcamp the guest completed during COVID
+- name: Andrew Ng
+  type: person
+  context: His courses inspired the guest and prepared her interviews
+- name: Deep Learning Specialization
+  type: course
+  url: https://www.coursera.org/specializations/deep-learning
+  context: Andrew Ng's Coursera specialization the guest took
+- name: Coursera
+  type: course
+  url: https://www.coursera.org
+  context: Platform where the guest took many theoretical courses
+- name: Udemy
+  type: course
+  url: https://www.udemy.com
+  context: Another course platform the guest used while studying
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Covered in the Zoomcamps and used in her data stack
+- name: Terraform
+  type: tool
+  url: https://www.terraform.io
+  context: Used in Zoomcamp projects and at work; refactoring still hands-on
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: Company tech stack; guest led AWS certification sprints
+- name: GitHub Copilot
+  type: service
+  url: https://github.com/features/copilot
+  context: AI coding tool taught in the AI Dev Tools course
+- name: How to Win Friends and Influence People
+  type: book
+  context: Classic leadership book recommended; guest never finished it
+- name: HTW Berlin
+  type: course
+  url: https://www.htw-berlin.de
+  context: University of the guest's master's in data science
+- name: PyLadies
+  type: community
+  url: https://pyladies.com
+  context: Recommended general community group for women in tech
+- name: Women in Big Data Berlin
+  type: community
+  context: Community the guest engaged with for women in data
+- name: DeutschAkademie
+  type: course
+  context: Language school near Alexanderplatz where the guest studied German
+- name: Hula Academy
+  type: course
+  context: Leadership coaching course the guest recommends
+- name: The Wounded
+  type: community
+  context: Freelancer and entrepreneur group offering mentorship programs
+- name: NOV
+  type: company
+  context: Guest's employer; German company for zero-emission mobility
+- name: Grammarly
+  type: service
+  url: https://www.grammarly.com
+  context: Berlin meetup about how Grammarly uses LLMs mentioned in intro
 ---
 
 Links:

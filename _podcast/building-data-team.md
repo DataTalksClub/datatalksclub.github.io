@@ -1094,6 +1094,58 @@ transcript:
   sec: 3650
   time: '60:50'
   who: Alexey
+resources:
+- name: Priceloop
+  type: company
+  context: Guest's startup building an open, white-box dynamic pricing framework
+- name: Idealo
+  type: company
+  url: https://www.idealo.de
+  context: German price comparison site where guest built the data team
+- name: Axel Springer
+  type: company
+  url: https://www.axelspringer.com
+  context: Media company where guest was Head of AI driving tech transformation
+- name: Pivotal
+  type: company
+  context: Software company that taught guest production ML and DevOps rigor
+- name: Cloud Foundry
+  type: tool
+  url: https://www.cloudfoundry.org
+  context: Platform similar to Kubernetes, Pivotal's main product
+- name: Greenplum
+  type: tool
+  url: https://greenplum.org
+  context: MPP database compared to Snowflake and Redshift
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Big data tool with built-in ML learned at Accenture
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Container orchestration platform compared to Cloud Foundry
+- name: Hugging Face
+  type: company
+  url: https://huggingface.co
+  context: Open research role model for Priceloop's strategy
+- name: Accenture
+  type: company
+  url: https://www.accenture.com
+  context: Advanced Analytics team where the guest started his data career
+- name: Contorion
+  type: company
+  context: Co-founder's previous company with pricing ML and 25% uplift
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Competition experience seen as a positive hiring signal
+- name: Machine Learning by Andrew Ng (Coursera)
+  type: course
+  context: The famous ML course that got the guest into machine learning
+- name: Strata Data Conference
+  type: community
+  context: San Francisco conference where the guest's first hire spoke
 ---
 
 ## Books

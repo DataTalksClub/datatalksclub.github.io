@@ -1294,6 +1294,139 @@ context: 'Modern astrophysical discovery—illustrated by the challenge of findi
   through-line is that building curated, interpretable datasets and end-to-end infrastructure
   (not just models) is the essential bridge that turns complex observational data
   into reliable science, practical education, and transferable career skills.'
+resources:
+- name: Astropy
+  type: tool
+  url: https://www.astropy.org
+  context: Python astronomy package he uses for big data and cross-matching
+- name: Machine Learning Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/machine-learning-zoomcamp
+  context: Course that shifted him to reusable, production-style code
+- name: Data Engineering Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/data-engineering-zoomcamp
+  context: Completed end-to-end with a Kestra and BigQuery project
+- name: MLOps Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/mlops-zoomcamp
+  context: Took for AI and LLM-oriented production skills
+- name: Square Kilometre Array (SKA)
+  type: company
+  url: https://www.skao.int
+  context: Giant radio telescope project hosted by South Africa and Australia
+- name: MeerKAT
+  type: other
+  context: 64-antenna precursor telescope whose galactic plane data he studies
+- name: Gaia
+  type: dataset
+  context: ESA mission catalog of 1.8 billion stars used for cross-matching
+- name: LangChain
+  type: tool
+  url: https://www.langchain.com
+  context: LLM framework he explored for AI applications
+- name: Hugging Face
+  type: tool
+  url: https://huggingface.co
+  context: Source of open source models for his AI prototypes
+- name: OpenAI
+  type: company
+  url: https://openai.com
+  context: ChatGPT launch sparked his LLM exploration and internship
+- name: Intel
+  type: company
+  url: https://www.intel.com
+  context: Internship testing model deployment on Intel edge hardware
+- name: NVIDIA Deep Learning Institute
+  type: course
+  url: https://www.nvidia.com/en-us/training/
+  context: Courses on NVIDIA hardware and deployment, some free for students
+- name: NVIDIA
+  type: company
+  url: https://www.nvidia.com
+  context: GPU hardware such as A100 and H100 used in course projects
+- name: Arize AI
+  type: company
+  url: https://arize.com
+  context: Recommended academy for LLM observability
+- name: LangChain Academy
+  type: course
+  url: https://academy.langchain.com
+  context: Courses on agents and LangGraph that he recommends
+- name: Codecademy
+  type: tool
+  url: https://www.codecademy.com
+  context: Platform used by the Black and Brilliant AI program
+- name: Black and Brilliant AI program
+  type: course
+  context: Program where he learned Python with industry mentors
+- name: Terraform
+  type: tool
+  url: https://www.terraform.io
+  context: Infrastructure provisioning learned through the zoomcamps
+- name: Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Set up Airflow 3.0 locally for his pipeline project
+- name: Astronomer CLI
+  type: tool
+  url: https://www.astronomer.io
+  context: Command line utility he tried for setting up Airflow
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Next transformation step planned for his pipeline
+- name: MinIO
+  type: tool
+  url: https://min.io
+  context: Local object storage simulating a data lake
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Transformation step in his MySQL-to-warehouse pipeline
+- name: MySQL
+  type: tool
+  url: https://www.mysql.com
+  context: Source database in his end-to-end pipeline project
+- name: BigQuery
+  type: service
+  url: https://cloud.google.com/bigquery
+  context: Warehouse provisioned with Terraform in his project
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: YAML-based deployment in the NVIDIA course project
+- name: Google Colab
+  type: tool
+  url: https://colab.research.google.com
+  context: Sharable notebooks he requires from bootcamp students
+- name: JupyterHub
+  type: tool
+  url: https://jupyter.org/hub
+  context: Free cloud service where he ran daily analysis
+- name: dlt (data load tool)
+  type: tool
+  url: https://dlthub.com
+  context: Community sponsor; moves data from S3 to BigQuery
+- name: NumPy
+  type: tool
+  url: https://numpy.org
+  context: Core library incorporated in Astropy
+- name: SciPy
+  type: tool
+  url: https://scipy.org
+  context: Scientific library incorporated in Astropy
+- name: pandas
+  type: tool
+  url: https://pandas.pydata.org
+  context: Struggled with huge astronomy data before switching to Astropy
+- name: BRICS Astronomy
+  type: community
+  context: Partnered to launch a beginner astronomy data analytics bootcamp
+- name: Astropy Learn
+  type: course
+  url: https://learn.astropy.org
+  context: Recommended tutorials for getting started with Astropy
 ---
 Links:
 

@@ -734,4 +734,65 @@ transcript:
   sec: 3303
   time: '55:03'
   who: Alexey
+resources:
+- name: Decision AI
+  type: company
+  url: https://www.decision.ai
+  context: Guest's company; simulator and decision-function tool, free to use
+- name: Kaggle
+  type: tool
+  url: https://www.kaggle.com
+  context: Guest competed from 2009; second place in major competition
+- name: DataRobot
+  type: company
+  url: https://www.datarobot.com
+  context: Where guest worked as an early employee
+- name: Google
+  type: company
+  url: https://about.google
+  context: Guest worked there as data scientist using simulation approaches
+- name: SHAP
+  type: tool
+  url: https://shap.readthedocs.io
+  context: Explainability technique for adjusting models to drift
+- name: PyMC3
+  type: tool
+  url: https://www.pymc.io
+  context: Probabilistic programming option for proof-of-concept simulators
+- name: Pyro
+  type: tool
+  url: https://pyro.ai
+  context: Probabilistic programming option for proof-of-concept simulators
+- name: NumPy
+  type: tool
+  url: https://numpy.org
+  context: Raw Python plus NumPy used for manual simulation calculations
+- name: XGBoost
+  type: tool
+  url: https://xgboost.ai
+  context: Example ML model exposing the .predict API
+- name: TensorFlow
+  type: tool
+  url: https://www.tensorflow.org
+  context: Framework connected to simulation calculations at low level
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org
+  context: Example ML library exposing the .predict API
+- name: PyTorch
+  type: tool
+  url: https://pytorch.org
+  context: Framework connected at low level for simulations
+- name: OR-Tools
+  type: tool
+  url: https://developers.google.com/optimization
+  context: Named among solver options for optimization problems
+- name: Gurobi
+  type: tool
+  url: https://www.gurobi.com
+  context: Named among solver options for optimization problems
+- name: Pyomo
+  type: tool
+  url: https://www.pyomo.org
+  context: Named among solver options for optimization problems
 ---

@@ -1148,6 +1148,23 @@ transcript:
   sec: 3550
   time: '59:10'
   who: Alexey
+resources:
+- name: finn.no
+  type: other
+  url: https://www.finn.no
+  context: Norwegian site where guest found his remote job
+- name: Data Engineering Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/data-engineering-zoomcamp
+  context: Host's course for mastering data engineering through projects
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: Sometimes worked for finding remote work
+- name: Upwork
+  type: service
+  url: https://www.upwork.com
+  context: Platform guest mentions for finding remote work
 ---
 
 Links:

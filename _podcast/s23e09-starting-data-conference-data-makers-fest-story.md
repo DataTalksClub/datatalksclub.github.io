@@ -1092,6 +1092,52 @@ transcript:
   sec: 4112
   time: '1:08:32'
   who: Leonid
+resources:
+- name: Data Makers Fest
+  type: community
+  url: https://datamakersfest.com
+  context: Data conference in Porto cofounded by the guest
+- name: Sessionize
+  type: service
+  url: https://sessionize.com
+  context: Recommended tool for managing speakers and proposals
+- name: Claude Code
+  type: tool
+  context: Built internal tooling that classified talks and optimized the timetable
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Source of low-quality copy-pasted speaker proposals
+- name: Palantir
+  type: company
+  url: https://www.palantir.com
+  context: Origin of the forward deployed engineer role
+- name: Data Science Portugal (DSPT)
+  type: community
+  context: Meetup community the guest helped grow into DSPT Day
+- name: World Data League
+  type: community
+  context: Online data science competition cofounded during COVID
+- name: Data Lead Club
+  type: community
+  context: Portuguese-language peer community for data leaders
+- name: Web Summit
+  type: community
+  url: https://websummit.com
+  context: Major tech event crowding the Portuguese conference calendar
+- name: Their Data
+  type: company
+  context: Guest's employer, where he leads research and development
+- name: Genos
+  type: service
+  context: Enterprise AI observability and management platform in development
+- name: TonicApp
+  type: company
+  context: Health tech startup where the guest was Head of Engineering
+- name: Machine Learning by Andrew Ng
+  type: course
+  url: https://www.coursera.org/learn/machine-learning
+  context: The popular course that drew the guest into data
 ---
 
 Links:

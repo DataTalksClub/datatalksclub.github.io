@@ -1828,4 +1828,142 @@ transcript:
   sec: 3659
   time: '1:00:59'
   who: Ellen
+resources:
+- name: Clean Code
+  type: book
+  context: Robert C. Martin's book on clean coding; function-length advice discussed
+- name: Apache Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Scheduler recommended for practicing pipelines in side projects
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Core language, with SQL, for analytics-focused data engineering
+- name: SQL
+  type: tool
+  context: Essential language for analytics engineering alongside Python
+- name: Git
+  type: tool
+  url: https://git-scm.com
+  context: Version control named fundamental for collaborative engineering
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Called a really valuable skill for aspiring data engineers
+- name: Apache Kafka
+  type: tool
+  url: https://kafka.apache.org
+  context: Real-time streaming branch of data engineering, requiring Java/Scala
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Analytics engineering tooling, discussed regarding data quality concerns
+- name: Terraform
+  type: tool
+  url: https://www.terraform.io
+  context: OLX teaches data scientists infrastructure-as-code over console clicking
+- name: BigQuery
+  type: service
+  url: https://cloud.google.com/bigquery
+  context: Its default UDF language is JavaScript
+- name: Java
+  type: tool
+  url: https://www.java.com
+  context: Needed by some schedulers; streaming data engineering; Clean Code is Java-centric
+- name: Scala
+  type: tool
+  url: https://www.scala-lang.org
+  context: Unavoidable for Kafka real-time streaming and distributed systems
+- name: JavaScript
+  type: tool
+  context: Low-priority third language that pops up in unexpected places
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Reminder to shut clusters down to avoid surprise bills
+- name: Jupyter
+  type: tool
+  url: https://jupyter.org
+  context: Data scientists working alone in notebooks versus collaborative engineering
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: Popular cloud in Berlin; console habits and free tier caveats discussed
+- name: Google Cloud
+  type: service
+  url: https://cloud.google.com
+  context: Generous startup credits; safe trial period for learning
+- name: Microsoft Azure
+  type: service
+  url: https://azure.microsoft.com
+  context: Common among enterprise companies in Germany
+- name: Amazon S3
+  type: service
+  url: https://aws.amazon.com/s3/
+  context: Destination for scraped CSV files in the pipeline project recipe
+- name: Amazon SageMaker
+  type: service
+  url: https://aws.amazon.com/sagemaker/
+  context: Students forgot to shut down costly GPU instances
+- name: Udacity
+  type: course
+  url: https://www.udacity.com
+  context: Guest's machine learning nanodegree starting her data science path
+- name: DataCamp
+  type: course
+  url: https://www.datacamp.com
+  context: Former go-to engineering track, no longer recommended
+- name: Data Engineering Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/data-engineering-zoomcamp
+  context: Guest's teammate is taking the host's data engineering bootcamp
+- name: Kaggle
+  type: service
+  url: https://www.kaggle.com
+  context: Contrasted with building real scheduled pipelines yourself
+- name: ThoughtWorks
+  type: company
+  url: https://www.thoughtworks.com
+  context: Guest became Germany's first data engineer there; strong engineering culture
+- name: SoundCloud
+  type: company
+  url: https://soundcloud.com
+  context: Guest's data science job before the 2017 layoffs
+- name: Native Instruments
+  type: company
+  url: https://www.native-instruments.com
+  context: Guest's first data engineer job; learned engineering practices
+- name: WhereIsMyTransport
+  type: company
+  context: Guest's current employer; built up its data engineering team
+- name: OLX
+  type: company
+  url: https://www.olxgroup.com
+  context: Host's employer; educating data scientists on Terraform
+- name: Zalando
+  type: company
+  url: https://www.zalando.com
+  context: Large company where engineering is respected over data science; career accelerator
+- name: Delivery Hero
+  type: company
+  url: https://www.deliveryhero.com
+  context: Big company cited as a career accelerator
+- name: Robert C. Martin
+  type: person
+  context: Clean Code author; his small-function recommendation discussed
+- name: Michal Kosinski
+  type: person
+  context: Cambridge researcher whose Twitter Big Five papers inspired a replication project
+- name: Cambridge Analytica
+  type: company
+  context: Scandal based on Kosinski's papers; used as a timeline marker
+- name: Twitter
+  type: service
+  url: https://twitter.com
+  context: Guest built Twitter automation and data-pulling side projects
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: Job-hunting platform; data engineer invites explode there
 ---

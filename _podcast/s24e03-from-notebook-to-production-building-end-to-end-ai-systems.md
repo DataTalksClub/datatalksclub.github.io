@@ -1403,6 +1403,113 @@ transcript:
   sec: 4054
   time: '1:07:34'
   who: Alexey
+resources:
+- name: OLX
+  type: company
+  url: https://www.olxgroup.com
+  context: Guest's employer; ad-to-video and video-to-ad GenAI projects
+- name: Arize
+  type: service
+  url: https://arize.com
+  context: LLM and classic ML evaluation, tracing, and monitoring platform
+- name: MLflow
+  type: tool
+  url: https://mlflow.org
+  context: Still used for traditional ML experiment tracking
+- name: LangChain
+  type: tool
+  url: https://www.langchain.com
+  context: Predominant early LLM library; still sometimes used
+- name: Pydantic AI
+  type: tool
+  url: https://ai.pydantic.dev
+  context: LLM framework sometimes used alongside LangChain
+- name: FastAPI
+  type: tool
+  url: https://fastapi.tiangolo.com
+  context: Staple for building APIs
+- name: Streamlit
+  type: tool
+  url: https://streamlit.io
+  context: Quick prototype and report apps replacing notebooks
+- name: Marimo
+  type: tool
+  url: https://marimo.io
+  context: Notebook alternative storing plain Python code
+- name: Jupyter
+  type: tool
+  url: https://jupyter.org
+  context: Notebook JSON format called an increasing nuisance
+- name: uv
+  type: tool
+  url: https://docs.astral.sh/uv
+  context: Package manager the host urges everyone to adopt
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Deployment target for batch jobs and cronjobs
+- name: Trino
+  type: tool
+  url: https://trino.io
+  context: Query engine in the OLX data lake
+- name: Apache Iceberg
+  type: tool
+  url: https://iceberg.apache.org
+  context: Turns S3 files into queryable tables
+- name: Hugging Face
+  type: tool
+  url: https://huggingface.co
+  context: Model hub; its MCP server plus arXiv speeds model research
+- name: arXiv
+  type: other
+  url: https://arxiv.org
+  context: Papers source combined with Hugging Face MCP for model discovery
+- name: NVIDIA TensorRT
+  type: tool
+  url: https://developer.nvidia.com/tensorrt
+  context: Serving optimization for LLMs and vision models
+- name: YOLO
+  type: tool
+  url: https://www.ultralytics.com
+  context: Object detection models used on OLX images
+- name: CLIP
+  type: tool
+  context: Lightweight vision models the guest recommends everyone learn
+- name: Vision Transformer (ViT)
+  type: tool
+  context: Powerful vision architecture the guest favors
+- name: DINO
+  type: tool
+  context: Vision model used alongside YOLO variants
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org
+  context: Documentation was the guest's entry door into data science
+- name: Rules of Machine Learning
+  type: other
+  url: https://developers.google.com/machine-learning/guides/rules-of-ml
+  context: 'Google document: start simple, make sure you need AI'
+- name: CRISP-DM
+  type: other
+  context: Data mining lifecycle still applicable to modern AI systems
+- name: Cursor
+  type: tool
+  url: https://cursor.com
+  context: AI coding assistant enabling end-to-end engineering work
+- name: Claude Code
+  type: tool
+  context: Agentic coding assistant blurring data scientist and engineer roles
+- name: Codex
+  type: tool
+  context: Agentic coding assistant mentioned alongside Claude Code
+- name: GitHub Copilot
+  type: tool
+  url: https://github.com/features/copilot
+  context: Early AI coding adoption at OLX three years ago
+- name: Adobe Premiere
+  type: tool
+  url: https://www.adobe.com/products/premiere.html
+  context: Professional editors' tool informing video generation workshops
 ---
 
 Links:

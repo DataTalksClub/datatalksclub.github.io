@@ -1470,6 +1470,148 @@ transcript:
   sec: 3799
   time: '1:03:19'
   who: Alexey
+resources:
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Core batch processing framework; job optimization discussed
+- name: Apache Flink
+  type: tool
+  url: https://flink.apache.org
+  context: Recommended for streaming part of recommendation pipeline
+- name: Delta Lake
+  type: tool
+  url: https://delta.io
+  context: Data versioning and time travel; being introduced at Captify
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Used for metrics and deployment; recommended to learn
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Called a must-have skill for data scientists
+- name: MLflow
+  type: tool
+  url: https://mlflow.org
+  context: Model deployment tool used by other teams
+- name: Kubeflow
+  type: tool
+  url: https://www.kubeflow.org
+  context: Model deployment on Kubernetes; also has Codelabs tutorials
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: Visualizing model results for analysts and business users
+- name: Grafana
+  type: tool
+  url: https://grafana.com
+  context: Dashboards for monitoring pipelines and data quality
+- name: Prometheus
+  type: tool
+  url: https://prometheus.io
+  context: Alerting and metrics system used with Kubernetes
+- name: Apache Impala
+  type: tool
+  url: https://impala.apache.org
+  context: SQL query engine analysts use to query stored data
+- name: Amazon S3
+  type: service
+  url: https://aws.amazon.com/s3/
+  context: Data storage target for pipeline outputs like Parquet files
+- name: HDFS
+  type: tool
+  url: https://hadoop.apache.org
+  context: Distributed storage; discussed as getting outdated
+- name: Apache Hadoop
+  type: tool
+  url: https://hadoop.apache.org
+  context: Legacy big data framework; MapReduce concepts from university
+- name: Apache Parquet
+  type: tool
+  url: https://parquet.apache.org
+  context: File format for handoff between data engineers and scientists
+- name: Apache Avro
+  type: tool
+  url: https://avro.apache.org
+  context: Big data format whose schema changes they monitor
+- name: Protocol Buffers
+  type: tool
+  url: https://protobuf.dev
+  context: Big data format with separately trackable schemas
+- name: Scala
+  type: tool
+  url: https://www.scala-lang.org
+  context: Guest's main programming language for big data engineering
+- name: PostgreSQL
+  type: tool
+  url: https://www.postgresql.org
+  context: Recommended easiest SQL database to start with
+- name: MySQL
+  type: tool
+  url: https://www.mysql.com
+  context: Recommended SQL database similar to PostgreSQL
+- name: MongoDB
+  type: tool
+  url: https://www.mongodb.com
+  context: Recommended starter NoSQL document database
+- name: Neo4j
+  type: tool
+  url: https://neo4j.com
+  context: Graph database the guest enjoyed working with
+- name: Elasticsearch
+  type: tool
+  url: https://www.elastic.co
+  context: Storage for Twitter streaming starter project
+- name: Kibana
+  type: tool
+  url: https://www.elastic.co/kibana
+  context: Dashboard for visualizing the streaming project results
+- name: Confluence
+  type: tool
+  url: https://www.atlassian.com/software/confluence
+  context: Where pipeline documentation and schemas are maintained
+- name: Databricks
+  type: company
+  url: https://www.databricks.com
+  context: Delta Lake creator; offers paid Spark trainings
+- name: Amazon Web Services
+  type: service
+  url: https://aws.amazon.com
+  context: Cloud services like Lambda used for pipelines and deployment
+- name: Big Data Specialization
+  type: course
+  url: https://www.coursera.org/specializations/big-data
+  context: Coursera specialization the guest started data engineering with
+- name: Katacoda
+  type: course
+  context: Interactive browser tutorials for trying out Kubernetes
+- name: Google Codelabs
+  type: course
+  url: https://codelabs.developers.google.com
+  context: Free hands-on tutorials, e.g. for Kubeflow
+- name: Designing Data-Intensive Applications
+  type: book
+  url: https://dataintensive.net
+  context: Martin Kleppmann's big data book, recommended by guest
+- name: Learning Spark
+  type: book
+  context: Spark book the guest enjoyed and recommends
+- name: High Performance Spark
+  type: book
+  context: Spark book the guest enjoyed and recommends
+- name: CommonCrawl
+  type: dataset
+  url: https://commoncrawl.org
+  context: Petabyte-scale web crawl dataset suggested for practice
+- name: Wikipedia Dumps
+  type: dataset
+  url: https://dumps.wikimedia.org
+  context: Large XML dumps suggested for word count practice
+- name: NASA APIs
+  type: dataset
+  url: https://api.nasa.gov
+  context: Open scientific APIs including Mars data for projects
 ---
 
 Links:

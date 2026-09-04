@@ -1204,6 +1204,110 @@ transcript:
   sec: 5025
   time: '1:23:45'
   who: Juan
+resources:
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Central analytics engineering tool for testing, docs, and environments
+- name: Fundamentals of Analytics Engineering
+  type: book
+  context: Guest's Packt book aiming to be evergreen
+- name: SQLMesh
+  type: tool
+  url: https://sqlmesh.com
+  context: dbt alternative with state awareness; acquired by Fivetran
+- name: Fivetran
+  type: company
+  url: https://www.fivetran.com
+  context: Acquired SQLMesh and announced a merger with dbt
+- name: Great Expectations
+  type: tool
+  url: https://greatexpectations.io
+  context: Data validation library, likened to dbt generic tests
+- name: dbt-expectations
+  type: tool
+  url: https://github.com/calogica/dbt-expectations
+  context: Package expanding dbt's generic testing options
+- name: DuckDB
+  type: tool
+  url: https://duckdb.org
+  context: Guest loves it; new local setup for the Zoomcamp
+- name: MotherDuck
+  type: service
+  url: https://motherduck.com
+  context: DuckDB's paid cloud offering
+- name: Databricks
+  type: company
+  url: https://www.databricks.com
+  context: Platform the guest now prefers; offers good free courses
+- name: Snowflake
+  type: service
+  url: https://www.snowflake.com
+  context: Guest's former favorite; pioneer of zero-copy cloning
+- name: BigQuery
+  type: service
+  url: https://cloud.google.com/bigquery
+  context: Modern data platform listed as worth learning
+- name: ClickHouse
+  type: tool
+  url: https://clickhouse.com
+  context: Database the guest heard amazing things about
+- name: Trino
+  type: tool
+  url: https://trino.io
+  context: Modern query engine listed among platforms to learn
+- name: Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Orchestrator installable via pip; used around data modeling
+- name: Astronomer
+  type: company
+  url: https://www.astronomer.io
+  context: Offers amazing courses on orchestration
+- name: Terraform
+  type: tool
+  url: https://www.terraform.io
+  context: Guest learned it from the Zoomcamp; analogy for state management
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Skill data engineers were too busy to share with Alexey
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: Guest consulted on it; speed-of-delivery BI philosophy
+- name: Power BI
+  type: tool
+  url: https://powerbi.microsoft.com
+  context: BI tool compared with dbt's engineering rigor
+- name: pytest
+  type: tool
+  url: https://docs.pytest.org
+  context: Could have automated manual dashboard testing
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Glue of the data stack; dbt supports Python models
+- name: Locally Optimistic
+  type: other
+  url: https://locallyoptimistic.com
+  context: Blog that coined the term analytics engineering in 2019
+- name: Data Engineering Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/data-engineering-zoomcamp
+  context: Course whose module four covers analytics engineering
+- name: Meetup
+  type: service
+  url: https://www.meetup.com
+  context: Platform for the Dutch dbt and data meetups
+- name: Linux Foundation
+  type: company
+  url: https://www.linuxfoundation.org
+  context: Courses in Bash, Linux, Kubernetes, and cloud providers
+- name: Google Cloud Professional Data Engineer
+  type: course
+  url: https://cloud.google.com/learn/certification/data-engineer
+  context: Data-focused GCP certification recommended for learners
 ---
 
 Links:

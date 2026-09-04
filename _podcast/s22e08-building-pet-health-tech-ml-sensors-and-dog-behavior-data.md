@@ -653,6 +653,49 @@ transcript:
   sec: 3646
   time: '1:00:46'
   who: Alexey
+resources:
+- name: Fit Tails
+  type: company
+  context: Guest's PetTech startup building an Apple Watch for dogs
+- name: Web Summit
+  type: community
+  url: https://websummit.com
+  context: Lisbon conference where host and guest met; guest returning in 2026
+- name: Garmin
+  type: company
+  url: https://www.garmin.com
+  context: Host's wearable; population-level baselines analogy for dog monitoring
+- name: ESP32
+  type: tool
+  url: https://www.espressif.com/en/products/socs/esp32
+  context: Microcontroller module identified inside disassembled commercial trackers
+- name: Arduino
+  type: tool
+  url: https://www.arduino.cc
+  context: Prototype hardware discussed for building early devices
+- name: Oura Ring
+  type: tool
+  url: https://ouraring.com
+  context: Health tracker the guest wears; inspired dog health monitoring
+- name: Apple Watch
+  type: tool
+  url: https://www.apple.com/apple-watch/
+  context: Guest's wearable; example of rich personal health data
+- name: Kickstarter
+  type: service
+  url: https://www.kickstarter.com
+  context: Crowdfunding option considered before larger hardware production
+- name: Startup House
+  type: community
+  context: Latvian co-working space where the guest found collaborators
+- name: AliExpress
+  type: service
+  url: https://www.aliexpress.com
+  context: Source of sensor samples for the first prototypes
+- name: ss.com
+  type: other
+  url: https://www.ss.com
+  context: Latvian listings site where the guest found her puppy
 ---
 
 Links:

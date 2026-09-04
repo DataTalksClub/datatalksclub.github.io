@@ -1214,6 +1214,67 @@ transcript:
   sec: 3744
   time: '1:02:24'
   who: Alexey
+resources:
+- name: DataKitchen
+  type: company
+  url: https://www.datakitchen.io
+  context: Guest's company; DataOps platform orchestrating tools, tests, observability
+- name: The DataOps Cookbook
+  type: book
+  context: Guest's free 150-page book on DataOps practices and tests
+- name: DataOps Manifesto
+  type: other
+  url: https://dataopsmanifesto.org
+  context: One-page, 18-point manifesto guest co-wrote
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Has built-in data tests among recommended testing tools
+- name: Great Expectations
+  type: tool
+  url: https://greatexpectations.io
+  context: Data test engine asked about by a chat viewer
+- name: Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Spark pipelines and queries in the heroism example
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: Visualization tool business users bypass teams to use
+- name: GitHub Actions
+  type: tool
+  url: https://github.com/features/actions
+  context: Host spent a weekend learning them for CI/CD
+- name: Superconductive
+  type: company
+  context: DataOps-space startup that raised an enormous funding round
+- name: Monte Carlo
+  type: company
+  url: https://www.montecarlodata.com
+  context: Data observability vendor that raised significant money
+- name: Gartner
+  type: company
+  url: https://www.gartner.com
+  context: Cited on failing projects and XOps terminology
+- name: data.world
+  type: company
+  url: https://data.world
+  context: Partner on survey of data engineers' stress levels
+- name: W. Edwards Deming
+  type: person
+  context: Deming and Lean show the system, not people, is at fault
+- name: Barr Moses
+  type: person
+  context: Previously interviewed on the podcast about data observability
+- name: The Lean Startup
+  type: book
+  url: https://theleanstartup.com
+  context: Book illustrating early customer feedback and iteration
+- name: Agile Manifesto
+  type: other
+  url: https://agilemanifesto.org
+  context: DataOps manifesto described as a blatant rip-off of it
 ---
 
 Links:

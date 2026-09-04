@@ -1076,6 +1076,62 @@ context: At its core this episode is about how building open, reproducible compu
   and AI assistants, the through-line is empowering scientists with accessible tools,
   automation, and community-driven software that make complex biology interpretable,
   shareable, and useful in the real world.
+resources:
+- name: VueGen
+  type: tool
+  context: Guest's Python package automating scientific report generation
+- name: MCW2 Graph
+  type: tool
+  context: Guest's open-source knowledge graph of wastewater microbiome
+- name: Vuewer
+  type: tool
+  context: Guest's tool for interactive and static omics visualizations
+- name: AlphaFold
+  type: tool
+  url: https://deepmind.google/technologies/alphafold/
+  context: AI protein structure prediction breakthrough discussed at length
+- name: Neo4j
+  type: tool
+  url: https://neo4j.com
+  context: Graph database for exploring the microbiome knowledge graph dump
+- name: Streamlit
+  type: tool
+  url: https://streamlit.io
+  context: Web apps for knowledge graph exploration and generated reports
+- name: Quarto
+  type: tool
+  url: https://quarto.org
+  context: Renders QMD markdown into PDFs and other report formats
+- name: Bioconda
+  type: tool
+  url: https://bioconda.github.io
+  context: Conda channel of bioinformatics packages; hosts VueGen
+- name: Bioconductor
+  type: tool
+  url: https://bioconductor.org
+  context: R bioinformatics ecosystem with the larger community
+- name: CASP
+  type: community
+  url: https://predictioncenter.org
+  context: Competition evaluating protein structure prediction methods
+- name: CCLasso
+  type: tool
+  context: Lasso-based method for inferring microbial co-abundance networks
+- name: Awesome Bioinformatics
+  type: other
+  context: Curated GitHub list of bioinformatics courses and tutorials
+- name: MyHeritage
+  type: service
+  url: https://www.myheritage.com
+  context: DNA ancestry service Alexey used for genome sequencing
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Language bioinformaticians are increasingly transitioning to
+- name: R
+  type: tool
+  url: https://www.r-project.org
+  context: Traditional bioinformatics language with many packages and datasets
 ---
 Links:
 

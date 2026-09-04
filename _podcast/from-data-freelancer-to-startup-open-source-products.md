@@ -1310,6 +1310,45 @@ context: Turning hands-on consulting and hard-won data engineering experience in
   transformations for Python users—by validating through workshops and docs, iterating
   with real user feedback, and scaling via bottom-up adoption, ecosystem integrations,
   and paid complementary offerings rather than agency growth or platform lock-in.
+resources:
+- name: dlt (Data Load Tool)
+  type: tool
+  url: https://dlthub.com
+  context: Guest's open-source library loading JSON into relational databases
+- name: DuckDB
+  type: tool
+  url: https://duckdb.org
+  context: Notebook-friendly destination; partnership and joint demos with dlt
+- name: Airbyte
+  type: tool
+  url: https://airbyte.com
+  context: Connector platform competitor; dlt differentiates as developer library
+- name: Fivetran
+  type: service
+  url: https://www.fivetran.com
+  context: Managed connector service used as a positioning comparison
+- name: GitHub Codespaces
+  type: tool
+  url: https://github.com/features/codespaces
+  context: Uniform preconfigured environments for the pipeline-building workshop
+- name: Growth Full Stack
+  type: tool
+  context: Guest's earlier data loading product, precursor to dlt
+- name: Swagger (OpenAPI)
+  type: tool
+  url: https://swagger.io
+  context: API specification used to auto-generate pipeline source code
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: GPT with dlt docs can generate pipelines from prompts
+- name: Segment
+  type: service
+  url: https://segment.com
+  context: Done-for-you SaaS contrasted with open-source developer tools
+- name: From Survival to Thrival
+  type: book
+  context: Guest's recommended book on enterprise product-market fit
 ---
 Links:
 

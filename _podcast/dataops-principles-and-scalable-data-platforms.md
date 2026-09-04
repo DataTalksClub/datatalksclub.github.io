@@ -1042,6 +1042,98 @@ transcript:
   sec: 4326
   time: '1:12:06'
   who: Lars
+resources:
+- name: Luigi
+  type: tool
+  url: https://github.com/spotify/luigi
+  context: Spotify's workflow orchestrator; a build system for data
+- name: Spotify
+  type: company
+  url: https://spotify.com
+  context: Guest built self-service DataOps, test certified, and data mesh there
+- name: Google
+  type: company
+  url: https://about.google/
+  context: Guest's former employer; big data pioneer and test certified ladder
+- name: Scling
+  type: company
+  url: https://scling.com
+  context: Guest's Stockholm data engineering startup
+- name: Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Alternative orchestrator; wider scope and more opinionated
+- name: Dagster
+  type: tool
+  url: https://dagster.io
+  context: Python orchestrator guest is aware of
+- name: Prefect
+  type: tool
+  url: https://www.prefect.io
+  context: Python orchestrator guest is aware of
+- name: Oozie
+  type: tool
+  url: https://oozie.apache.org
+  context: Hadoop-shipped scheduler they found terrible before Luigi
+- name: Hadoop
+  type: tool
+  url: https://hadoop.apache.org
+  context: Early Spotify data platform; now obsolete in favor of object stores
+- name: Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Scalable compute with DSLs well suited for data processing
+- name: Flink
+  type: tool
+  url: https://flink.apache.org
+  context: Scalable compute option alongside Spark
+- name: Kafka
+  type: tool
+  url: https://kafka.apache.org
+  context: Stream processing backbone; change data capture target
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Managed clusters fine for running batch containers
+- name: S3
+  type: service
+  url: https://aws.amazon.com/s3/
+  context: Object store underpinning the modern data lake
+- name: BigQuery
+  type: service
+  url: https://cloud.google.com/bigquery
+  context: Warehouse 30 percent of Spotify staff use monthly
+- name: Databricks
+  type: company
+  url: https://www.databricks.com
+  context: Pushed the mutable lakehouse; guest calls it an anti-pattern
+- name: DataKitchen
+  type: company
+  url: https://www.datakitchen.io
+  context: Recommended for DataOps blogs, white papers, and resources
+- name: Nathan Marz
+  type: person
+  context: Created Storm; wrote Big Data defining lambda architecture
+- name: Harvinder Atwal
+  type: person
+  context: Author of the Practical DataOps book
+- name: Winston Royce
+  type: person
+  context: Wrote the waterfall paper whose caveats people ignored
+- name: Christopher Bergh
+  type: person
+  context: DataKitchen CEO, called the premier DataOps prophet
+- name: Big Data
+  type: book
+  url: https://www.manning.com/books/big-data
+  context: Nathan Marz's book on immutable raw data and lambda architecture
+- name: Practical DataOps
+  type: book
+  context: Harvinder Atwal's book with much wider DataOps scope
+- name: Scling Data Engineering Reading List
+  type: other
+  url: https://scling.com/reading-list
+  context: Curated links to books, presentations, and videos
 ---
 
 We talked about:

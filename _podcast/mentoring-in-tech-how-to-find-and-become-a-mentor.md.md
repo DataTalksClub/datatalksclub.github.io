@@ -768,6 +768,55 @@ transcript:
   sec: 3486
   time: '58:06'
   who: Rahul
+resources:
+- name: Mentoring Club
+  type: community
+  url: https://www.mentoring-club.com
+  context: free mentoring platform where Rahul volunteers as a mentor
+- name: ThoughtWorks
+  type: company
+  url: https://www.thoughtworks.com
+  context: consultancy whose mentor and sponsor culture shaped Rahul
+- name: Plato
+  type: community
+  url: https://www.platohq.com
+  context: formal mentoring program suggested alongside Mentoring Club
+- name: Martin Fowler
+  type: person
+  url: https://martinfowler.com
+  context: ThoughtWorks employee cited for its engineering reputation
+- name: Calendly
+  type: service
+  url: https://calendly.com
+  context: mentees book mentoring sessions with mentors through it
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: channel for thoughtful cold outreach to potential mentors
+- name: Slido
+  type: service
+  url: https://www.slido.com
+  context: Q&A platform for audience questions during the event
+- name: AWS Glue DataBrew
+  type: service
+  url: https://aws.amazon.com/glue/databrew/
+  context: new AWS service covered in the prior week's talk
+- name: Feast
+  type: tool
+  url: https://feast.dev
+  context: feature store announced for an upcoming community event
+- name: Omio
+  type: company
+  url: https://www.omio.com
+  context: ticket booking company; Rahul leads BI and data engineering
+- name: Credit Suisse
+  type: company
+  url: https://www.credit-suisse.com
+  context: investment bank where Rahul first worked with data
+- name: Java
+  type: tool
+  url: https://www.java.com
+  context: language Rahul programmed in for seven years
 ---
 
 Today we're discussing mentoring with [Rahul Jain](/people/rahuljain.html), a technical leader with about 20 years of experience building and running software products. He currently leads the Business Intelligence and Data Engineering units at Omio, a ticket-booking company, and mentors engineers and managers through The Mentoring Club.

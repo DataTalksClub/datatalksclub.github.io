@@ -136,6 +136,54 @@ context: 'Context: The episode follows the end-to-end effort to create a domesti
   compliant, and user-friendly decision support—balancing accuracy, fairness, privacy,
   and sustainability so models meaningfully improve frontline triage and resource
   allocation in the real world.'
+resources:
+- name: Frontline 100
+  type: company
+  context: Guest's company applying AI to domestic abuse risk assessment
+- name: Lizzy
+  type: tool
+  context: App-based risk assessment tool replacing paper surveys for police and social workers
+- name: MLflow
+  type: tool
+  url: https://mlflow.org
+  context: Experiment tracking in the guest's MLOps workflow
+- name: PyCaret
+  type: tool
+  url: https://pycaret.org
+  context: Tried for modeling but dropped as too heavy for the app
+- name: Hyperskill
+  type: course
+  url: https://hyperskill.org
+  context: JetBrains-backed Python learning platform the guest highly recommends
+- name: Ironhack
+  type: course
+  url: https://www.ironhack.com
+  context: Bootcamp where the guest studied data analytics
+- name: Our World in Data
+  type: other
+  url: https://ourworldindata.org
+  context: Followed for reports and visualizations; even a job lead
+- name: The Portfolio Collective
+  type: community
+  url: https://www.portfoliocollective.com
+  context: Networking site for multi-skilled freelancers with social events
+- name: Look What You Made Me Do
+  type: book
+  context: Recommended reading on domestic abuse, on guest's list
+- name: Maid
+  type: other
+  context: Netflix show depicting domestic abuse through a woman's lens
+- name: Baby Reindeer
+  type: other
+  context: Netflix show depicting abuse through a man's lens
+- name: XGBoost
+  type: tool
+  url: https://xgboost.readthedocs.io
+  context: Boosting model tried before logistic regression performed best
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Survey-data competition where linear models won
 ---
 Links:
 

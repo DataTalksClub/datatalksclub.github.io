@@ -939,6 +939,31 @@ context: 'Context: The episode surveys how linguistics and computational methods
   transfer learning, multimodal cues, personalization), and ethical deployment—so
   speech technology recognizes and respects the communicative diversity and needs
   of people with disordered or atypical speech.'
+resources:
+- name: Whisper
+  type: tool
+  url: https://github.com/openai/whisper
+  context: Modern ASR model handling accents and atypical speech well
+- name: Amazon Transcribe
+  type: service
+  url: https://aws.amazon.com/transcribe
+  context: Host transcribes episodes, then corrects errors with an LLM
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Guest dictates into it; figures out recognition mistakes from context
+- name: ImageNet
+  type: dataset
+  url: https://www.image-net.org
+  context: Analogy for transfer learning and fine-tuning with few examples
+- name: Porsche
+  type: company
+  url: https://www.porsche.com
+  context: In-car voice recognition; drivers' commands misunderstood
+- name: Audi
+  type: company
+  url: https://www.audi.com
+  context: Automotive brand the guest built language models for
 ---
 Links:
 

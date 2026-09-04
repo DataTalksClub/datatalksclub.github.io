@@ -969,6 +969,21 @@ transcript:
   sec: 3647
   time: '1:00:47'
   who: Alexey
+resources:
+- name: Amazon
+  type: company
+  url: https://www.amazon.com
+  context: Guest is a technology manager building AI products there
+- name: Microsoft Excel
+  type: tool
+  url: https://www.microsoft.com/microsoft-365/excel
+  context: 'Roadmap template: problems, causes, solutions, metrics in a spreadsheet'
+- name: Five Whys
+  type: other
+  context: Root-cause questioning technique used in stakeholder interviews
+- name: SMART goals
+  type: other
+  context: Framework making roadmap solutions measurable and time-bound
 ---
 
 Links:

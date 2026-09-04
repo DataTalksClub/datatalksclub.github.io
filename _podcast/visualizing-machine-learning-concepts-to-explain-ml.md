@@ -963,6 +963,58 @@ transcript:
   sec: 3701
   time: '1:01:41'
   who: Meor
+resources:
+- name: Figma
+  type: tool
+  url: https://www.figma.com
+  context: Main tool he uses; sweet spot between Canva and Illustrator
+- name: Jack Butcher
+  type: person
+  url: https://jackbutcher.com
+  context: Creator whose minimal visuals and constraints philosophy inspired him
+- name: How to Visualize Value
+  type: course
+  context: Jack Butcher's course he enrolled in and recommends
+- name: Jay Alammar
+  type: person
+  url: https://jalammar.github.io
+  context: Blogger he turns to for visual neural network explanations
+- name: The Illustrated Transformer
+  type: other
+  url: https://jalammar.github.io/illustrated-transformer/
+  context: Jay Alammar's blog post explaining transformers visually
+- name: StatQuest with Josh Starmer
+  type: other
+  url: https://statquest.org
+  context: Video channel simplifying ML and data science with visuals
+- name: Luis Serrano
+  type: person
+  url: https://serrano.academy
+  context: Creates videos explaining ML concepts visually
+- name: Grokking Machine Learning
+  type: book
+  url: https://www.manning.com/books/grokking-machine-learning
+  context: Luis Serrano's book recommended alongside his videos
+- name: Visual Introduction to Deep Learning
+  type: book
+  url: https://kdimensions.com
+  context: Guest's visually driven neural networks book built from scratch
+- name: PyTorch
+  type: tool
+  url: https://pytorch.org
+  context: Framework he avoided, building neural nets from scratch
+- name: TensorFlow
+  type: tool
+  url: https://www.tensorflow.org
+  context: Framework he avoided to learn backpropagation himself
+- name: Canva
+  type: tool
+  url: https://www.canva.com
+  context: Design tool he tried; lacked flexibility
+- name: Adobe Illustrator
+  type: tool
+  url: https://www.adobe.com/products/illustrator.html
+  context: Too advanced for him; steep learning curve
 ---
 
 Links:

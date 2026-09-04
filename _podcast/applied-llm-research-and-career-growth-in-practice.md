@@ -1162,6 +1162,74 @@ context: 'A practical, curiosity-driven bridge between research and engineering:
   solve real-world ML problems (ex: long-context LLMs), while leveraging community,
   mentorship, and strategic projects to accelerate career growth and drive measurable
   impact.'
+resources:
+- name: Systematic Evaluation of Long-Context LLMs on Financial Concepts
+  type: paper
+  url: https://arxiv.org/abs/2412.15386
+  context: Guest's EMNLP paper on long-context LLM performance degradation
+- name: OpenAI
+  type: company
+  context: Model provider whose models the guest's team benchmarks
+- name: Anthropic
+  type: company
+  context: Model provider benchmarked on internal bank datasets
+- name: Meta
+  type: company
+  context: Model provider included in the guest's LLM benchmarking work
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Example of modern tool for answering questions over documents
+- name: arXiv
+  type: other
+  url: https://arxiv.org
+  context: Preprint server discussed, including its endorsement requirements
+- name: EMNLP
+  type: community
+  context: Conference where the guest's long-context paper was published
+- name: Association for Computational Linguistics
+  type: community
+  context: Reputed research community behind EMNLP and top NLP conferences
+- name: Streamlit
+  type: tool
+  url: https://streamlit.io
+  context: Used daily for quick demos to gather feedback without engineering help
+- name: ImageNet
+  type: dataset
+  url: https://www.image-net.org
+  context: Dataset that sparked guest's early interest in computer vision
+- name: Google Play Store Apps
+  type: dataset
+  url: https://www.kaggle.com/datasets/lava18/google-play-store-apps
+  context: Guest's scraped Kaggle dataset that trended and brought opportunities
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Platform where guest published dataset and taught via guided projects
+- name: DataCamp
+  type: company
+  url: https://www.datacamp.com
+  context: Onboarded guest's dataset as paid project; she instructed courses
+- name: Women in Data Science
+  type: community
+  url: https://www.widsworldwide.org
+  context: Community where guest did open mentoring
+- name: Omdena
+  type: community
+  url: https://www.omdena.com
+  context: Organization running industry-supervised team AI projects for portfolios
+- name: LeetCode
+  type: community
+  url: https://leetcode.com
+  context: Recommended practice for competitive US interview preparation
+- name: Eugene Yan
+  type: person
+  url: https://eugeneyan.com
+  context: His 'shoot many arrows' advice on luck and opportunities
+- name: Google Cloud
+  type: service
+  url: https://cloud.google.com
+  context: Used for OCR in the bank's organization chart parsing project
 ---
 Links:
 

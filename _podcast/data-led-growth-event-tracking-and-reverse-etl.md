@@ -1023,4 +1023,149 @@ transcript:
   sec: 3762
   time: '1:02:42'
   who: Alexey
+resources:
+- name: Segment
+  type: service
+  url: https://segment.com
+  context: Most popular customer data infrastructure tool for collecting product data
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Fast-growing transformation and modeling library in the data stack
+- name: Snowflake
+  type: service
+  url: https://www.snowflake.com
+  context: Popular cloud data warehouse for storing event data
+- name: RudderStack
+  type: service
+  url: https://www.rudderstack.com
+  context: Open-source Segment alternative for customer data infrastructure
+- name: Amplitude
+  type: service
+  url: https://amplitude.com
+  context: Product analytics tool; Amplitude Recommend activates data back into products
+- name: Mixpanel
+  type: service
+  url: https://mixpanel.com
+  context: Product analytics tool for analyzing event data
+- name: Hightouch
+  type: service
+  url: https://www.hightouch.com
+  context: Reverse ETL and operational analytics tool for data activation
+- name: Census
+  type: service
+  url: https://www.getcensus.com
+  context: Reverse ETL tool sending warehouse data to SaaS tools
+- name: Fivetran
+  type: service
+  url: https://www.fivetran.com
+  context: ELT tool ingesting third-party data into warehouses
+- name: BigQuery
+  type: service
+  url: https://cloud.google.com/bigquery
+  context: Popular cloud data warehouse worth mentioning
+- name: Amazon Redshift
+  type: service
+  url: https://aws.amazon.com/redshift
+  context: Popular cloud data warehouse worth mentioning
+- name: PostHog
+  type: tool
+  url: https://posthog.com
+  context: Open-source product analytics tool
+- name: Atlan
+  type: service
+  url: https://atlan.com
+  context: Data documentation and discovery tool for data democratization
+- name: Secoda
+  type: service
+  context: Data cataloging and documentation tool integrating with data sources
+- name: HubSpot
+  type: service
+  url: https://www.hubspot.com
+  context: Example of personalized product experiences via data activation
+- name: Zendesk
+  type: service
+  url: https://www.zendesk.com
+  context: Support tool that can receive product event data
+- name: Customer.io
+  type: service
+  url: https://customer.io
+  context: Event-based engagement tool for lifecycle email campaigns
+- name: Braze
+  type: service
+  url: https://www.braze.com
+  context: Event-based engagement tool for personalized campaigns
+- name: Looker
+  type: service
+  url: https://looker.com
+  context: BI tool in the modern data stack for analytics
+- name: Mode
+  type: service
+  url: https://mode.com
+  context: BI tool in the modern data stack for analytics
+- name: Grouparoo
+  type: tool
+  url: https://www.grouparoo.com
+  context: Open-source reverse ETL tool
+- name: DataLed Academy
+  type: other
+  url: https://dataled.academy
+  context: Arpit's learning platform, newsletter, and The Data Led Professional podcast
+- name: Integromat
+  type: tool
+  context: Work automation platform where Arpit built community and led growth
+- name: Zapier
+  type: tool
+  url: https://zapier.com
+  context: Automation tool compared to Integromat
+- name: Miro
+  type: tool
+  url: https://miro.com
+  context: Tool some companies use to draft tracking plans
+- name: Avo
+  type: tool
+  url: https://avo.app
+  context: Purpose-built collaborative tracking plan tool
+- name: Iteratively
+  type: tool
+  url: https://iteratively.com
+  context: Tracking plan tool with data quality and taxonomy features
+- name: TrackPlan
+  type: tool
+  context: Purpose-built tool for creating tracking plans collaboratively
+- name: MetaRouter
+  type: service
+  url: https://www.metarouter.io
+  context: Relatively new customer data infrastructure alternative to Segment
+- name: Freshpaint
+  type: service
+  url: https://www.freshpaint.io
+  context: Enables implicit tracking without defining events upfront
+- name: Firebolt
+  type: service
+  url: https://www.firebolt.io
+  context: New cloud data warehouse; a community member works there
+- name: Panoply
+  type: service
+  url: https://panoply.io
+  context: Data warehouse mentioned among popular options
+- name: Rakam
+  type: tool
+  url: https://rakam.io
+  context: Warehouse-centric product analytics sitting on top of your warehouse
+- name: Trifacta
+  type: tool
+  url: https://www.trifacta.com
+  context: Data transformation tool mentioned alongside dbt
+- name: Stitch
+  type: service
+  url: https://www.stitchdata.com
+  context: ELT tool ingesting data from third-party tools into warehouses
+- name: Xplenty
+  type: service
+  context: ELT tool for warehouse ingestion
+- name: Clicky
+  type: service
+  url: https://clicky.com
+  context: Product analytics tool for storing raw event data
 ---

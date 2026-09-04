@@ -1205,4 +1205,85 @@ context: 'Context: Born during COVID as a volunteer meetup, DataTalks.Club scale
   stewardship to adapt to AI-driven change, achieve product-market fit, and scale
   education without sacrificing community values.'
 intro: "How do you scale a volunteer-run learning community into a sustainable platform offering free data engineering, MLOps, and LLM courses? In this episode Alexey Grigorev, founder of DataTalks.Club, walks through the origin story of the project, the leap to running it full-time, and the practical tradeoffs of building free data engineering courses at scale. <br><br> Alexey’s background as the founder guides discussions on course portfolio decisions (Machine Learning, Data Engineering, MLOps, LLMs, Stock Analytics), organic growth strategies like Zoomcamp word-of-mouth, and technical choices—building the course platform in Django. We cover community safety and moderation, revenue volatility from sponsorships, tax and cashflow considerations in Germany, and how staying technical through pet projects and LLM experiments informed their curriculum (including RAG and LLM course development). <br><br> Listeners will get concrete takeaways on scaling online education, community-driven learning, course product work, and practical ways to help—mentoring, guesting, or joining projects and events. Useful for educators, course builders, and data practitioners wondering how to create and sustain free, high-quality data science and MLOps training."
+resources:
+- name: Data Engineering Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/data-engineering-zoomcamp
+  context: Most popular free course with 24,000 registrations, organic growth
+- name: Machine Learning Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/machine-learning-zoomcamp
+  context: Flagship course with 8,000 registrations; inspired by free ODS course
+- name: MLOps Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/mlops-zoomcamp
+  context: One of the three original Zoomcamp courses
+- name: LLM Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/llm-zoomcamp
+  context: New course launched this year after community demand
+- name: Stock Markets Analytics Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp
+  context: New finance course run by instructor Ivan; rerun planned
+- name: Open Data Science
+  type: community
+  url: https://ods.ai
+  context: Russian-speaking ML community whose free courses inspired the Zoomcamps
+- name: mlcourse.ai
+  type: course
+  url: https://mlcourse.ai
+  context: Free Open Data Science course that inspired Machine Learning Zoomcamp
+- name: MLOps Community
+  type: community
+  url: https://mlops.community
+  context: Founders shared a community-building mastermind group with Alexey
+- name: Locally Optimistic
+  type: community
+  url: https://locallyoptimistic.com
+  context: Data analyst community in the community mastermind group
+- name: Coursera
+  type: service
+  url: https://www.coursera.org
+  context: Free courses that helped Alexey start in data science
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Generates horror stories; helps beginners start learning data science
+- name: Django
+  type: tool
+  url: https://www.djangoproject.com
+  context: Powers the self-built course management platform
+- name: GitHub Actions
+  type: tool
+  url: https://github.com/features/actions
+  context: Automates the story-generating podcast pipeline
+- name: GitHub Pages
+  type: tool
+  url: https://pages.github.com
+  context: Hosts the automated horror stories website
+- name: Amazon S3
+  type: service
+  url: https://aws.amazon.com/s3/
+  context: Stores photos feeding the storytelling pipeline
+- name: DALL·E
+  type: service
+  context: Generates illustrations for the horror stories
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Competitions where AutoML gives decent baseline models
+- name: Azure AutoML
+  type: service
+  context: Produces a decent model from a CSV in AI-replacement discussion
+- name: Google AutoML
+  type: service
+  context: Produces a decent model from a CSV in AI-replacement discussion
+- name: Upwork
+  type: company
+  url: https://www.upwork.com
+  context: 'Scam warning: people asked to hand over Upwork accounts'
+- name: The Boy in the Striped Pajamas
+  type: book
+  context: Book Alexey is currently reading
 ---

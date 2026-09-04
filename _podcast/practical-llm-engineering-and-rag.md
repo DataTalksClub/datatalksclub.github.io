@@ -1237,6 +1237,121 @@ context: 'Context: This episode surveys practical, hands-on patterns—RAG, chun
   or persistent memory once data, metrics, and clear ROI justify the added complexity—treating
   AI as an integrated augmentation that must be built, tested, and scaled with standard
   software engineering practices.'
+resources:
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Everyday prompting, summarization, and CSV work
+- name: Cursor
+  type: tool
+  url: https://cursor.com
+  context: Hugo's primary AI coding assistant
+- name: GitHub Copilot
+  type: tool
+  url: https://github.com/features/copilot
+  context: Alexey assigns GitHub issues and gets pull requests
+- name: Braintrust
+  type: tool
+  url: https://www.braintrust.dev
+  context: LLM evaluation and monitoring tool recommended by Hugo
+- name: Logfire
+  type: tool
+  url: https://logfire.pydantic.dev
+  context: Observability tool for evaluating LLM apps
+- name: Arize Phoenix
+  type: tool
+  url: https://phoenix.arize.com
+  context: Observability tool for evaluating LLM apps
+- name: Gemini
+  type: service
+  url: https://gemini.google.com
+  context: Used programmatically for YouTube timestamp generation
+- name: Metaflow
+  type: tool
+  url: https://metaflow.org
+  context: Outerbounds' orchestrator platform Hugo did DevRel for
+- name: GitHub Actions
+  type: tool
+  url: https://github.com/features/actions
+  context: Automating transcript-to-timestamp pipelines
+- name: Descript
+  type: service
+  url: https://www.descript.com
+  context: Hugo's tool for generating video timestamps
+- name: Loom
+  type: service
+  url: https://www.loom.com
+  context: Alexey's video recording tool with timestamp prompts
+- name: Chroma
+  type: company
+  url: https://www.trychroma.com
+  context: Jeff Huber's team; context rot essay on long contexts
+- name: GPT-5
+  type: tool
+  context: Good at writing prompts; changed how memory is handled
+- name: Vanishing Gradients
+  type: other
+  url: https://vanishinggradients.fyi
+  context: Hugo's podcast for people building AI products
+- name: High Signal
+  type: other
+  context: Hugo's podcast for data science leaders and practitioners
+- name: Michael I. Jordan
+  type: person
+  context: Berkeley ML pioneer and High Signal guest
+- name: Fei-Fei Li
+  type: person
+  context: AI researcher and High Signal guest
+- name: Chris Wiggins
+  type: person
+  context: Runs data science at the New York Times; High Signal guest
+- name: DataCamp
+  type: company
+  url: https://www.datacamp.com
+  context: Hugo joined as fifth employee building the Python curriculum
+- name: Outerbounds
+  type: company
+  url: https://outerbounds.com
+  context: Company behind Metaflow; Hugo did developer relations there
+- name: PyData
+  type: community
+  url: https://pydata.org
+  context: Community and stack Hugo joined during his postdoc
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Self-taught to analyze large-scale biology data
+- name: Pandas
+  type: tool
+  url: https://pandas.pydata.org
+  context: Key early tool; read_csv superpowered their analysis
+- name: Matplotlib
+  type: tool
+  url: https://matplotlib.org
+  context: Key early tool in the PyData stack
+- name: Jupyter
+  type: tool
+  url: https://jupyter.org
+  context: Started out as IPython notebooks in Hugo's postdoc
+- name: Slack
+  type: tool
+  url: https://slack.com
+  context: Sharing prompts; home for embedded coding agents
+- name: React
+  type: tool
+  url: https://react.dev
+  context: Tooling timeline analogy; vibe-coded demo apps
+- name: Claude Code
+  type: tool
+  context: Agentic coding tool Hugo has tried
+- name: Comet
+  type: service
+  url: https://www.perplexity.ai/comet
+  context: Perplexity's agentic browser for automating tasks
+- name: Gmail API
+  type: service
+  url: https://developers.google.com/gmail/api
+  context: Starting point for building a personal email assistant
 ---
 Links:
 

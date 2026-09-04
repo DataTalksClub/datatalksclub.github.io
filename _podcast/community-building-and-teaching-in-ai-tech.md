@@ -702,6 +702,52 @@ context: 'Context: This episode follows Erum Afzal and Omdena Academy’s evolut
   into structured learning pathways, open instructor pipelines, regional sub-communities,
   and integrity-focused practices so diverse learners can rapidly gain practical skills,
   leadership opportunities, and ethical career pathways in AI.'
+resources:
+- name: Omdena
+  type: community
+  url: https://www.omdena.com
+  context: Global AI community solving real-world challenges; guest leads Omdena Academy
+- name: Omdena Academy
+  type: course
+  url: https://omdena.com/omdena-academy
+  context: Free AI and data science courses; students and instructors apply there
+- name: AI Wonder Girls
+  type: community
+  context: Community guest helped build, growing from about eight to 100+ members
+- name: Women in AI
+  type: community
+  context: Guest instructs at the Women in AI Academy
+- name: Women Who Code
+  type: community
+  url: https://www.womenwhocode.com
+  context: Community the guest has taken leadership roles in
+- name: Neuromatch
+  type: community
+  url: https://neuromatch.io
+  context: Community the guest has been involved in
+- name: DataCamp
+  type: service
+  url: https://www.datacamp.com
+  context: Free subscriptions offered to motivate course participants
+- name: Coursera
+  type: service
+  url: https://www.coursera.org
+  context: Platform for selling courses and finding scholarships
+- name: Udemy
+  type: service
+  url: https://www.udemy.com
+  context: Suggested platform for selling self-created courses
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Discussed regarding plagiarism and responsible, smart use in learning
+- name: GitHub
+  type: tool
+  url: https://github.com
+  context: Learning through hands-on projects on GitHub recommended
+- name: Stanford Law School AI newsletter
+  type: other
+  context: Guest's recommended newsletter on ethical AI implementation
 ---
 Links:
 

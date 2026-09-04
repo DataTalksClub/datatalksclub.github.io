@@ -1085,6 +1085,105 @@ context: 'Context: Eddy’s journey from industrial engineering and analyst tool
   the right tools (ELT, dbt, cloud platforms), disciplined practices (testing, monitoring,
   CI/CD), and FinOps accountability—to deliver trusted metrics, align technical work
   with business value, and enable continuous learning and adaptation.'
+resources:
+- name: FinOps Foundation
+  type: community
+  url: https://www.finops.org
+  context: De facto FinOps body; framework, training, certification
+- name: FinOps Open Cost and Usage Specification
+  type: other
+  url: https://focus.finops.org
+  context: FOCUS standard (transcribed 'OUCS') for cloud cost reporting
+- name: Kinaxis
+  type: company
+  url: https://www.kinaxis.com
+  context: Guest's employer; supply chain platform with FinOps team
+- name: Home Depot
+  type: company
+  url: https://www.homedepot.com
+  context: Guest's former employer; warehouses, merchandising, e-commerce
+- name: BigQuery
+  type: service
+  url: https://cloud.google.com/bigquery
+  context: Data warehouse storing the digital inventory
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Transformation tool the guest discovered via his master's
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Hurdle for analysts; hardest Zoomcamp week
+- name: Terraform
+  type: tool
+  url: https://www.terraform.io
+  context: Infrastructure tool that initially felt overwhelming
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: Learned via Tableau Public; dashboard and analyst work
+- name: Alteryx
+  type: tool
+  url: https://www.alteryx.com
+  context: Low-code analysis tool the guest got certified in
+- name: Looker
+  type: service
+  url: https://cloud.google.com/looker
+  context: Consumption-layer BI tool in the digital warehouse
+- name: Power BI
+  type: tool
+  url: https://powerbi.microsoft.com
+  context: BI tool fed by the warehouse's curated data
+- name: Google Cloud
+  type: service
+  url: https://cloud.google.com
+  context: Cloud platform used with BigQuery; cost comparisons
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: Negotiated contracts and reserved instances for savings
+- name: Azure
+  type: service
+  url: https://azure.microsoft.com
+  context: Hot and cold storage tiers in cost modeling
+- name: Excel
+  type: tool
+  url: https://www.microsoft.com/microsoft-365/excel
+  context: Macros powered early warehouse optimization work
+- name: D3
+  type: tool
+  url: https://d3js.org
+  context: JavaScript visualization library from a master's course
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Where Home Depot hosted its product search competition
+- name: Home Depot Product Search
+  type: dataset
+  context: Kaggle competition predicting search result relevance
+- name: Makeover Monday
+  type: community
+  url: https://www.makeovermonday.co.uk
+  context: Tableau dataviz event the guest attended
+- name: Data Engineering Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/data-engineering-zoomcamp
+  context: Guest's route into data engineering; Docker week
+- name: Georgia Tech Master's in Analytics
+  type: course
+  url: https://pe.gatech.edu/degrees/analytics
+  context: Applied analytics degree the guest is completing
+- name: Zach Wilson
+  type: person
+  context: Data spec practice learned from his course
+- name: ADP List
+  type: community
+  url: https://adplist.org
+  context: Mentoring platform the guest joined to give back
+- name: Amazon Robotics
+  type: company
+  url: https://www.amazonrobotics.com
+  context: Warehouse robots; formerly Kiva Systems where host worked
 ---
 Links:
 

@@ -1207,4 +1207,75 @@ transcript:
 context: 'Building a Sustainable Data Community: 3 Years of DataTalks.Club Growth
   and Evolution'
 description: "Discover DataTalks.Club's 3-year playbook to build a sustainable data community—scaling, engagement & retention tactics that grow your network."
+resources:
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Impact on hiring, take-home tests, and data work
+- name: Machine Learning Bookcamp
+  type: book
+  url: https://www.manning.com/books/machine-learning-bookcamp
+  context: Guest's Manning book, title chosen by their marketing
+- name: Mastering Java for Data Science
+  type: book
+  context: Guest's first book with Packt, sold poorly
+- name: Machine Learning Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/machine-learning-zoomcamp
+  context: ML engineering course created to promote the book
+- name: Data Engineering Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/data-engineering-zoomcamp
+  context: Course a career-switching listener completed
+- name: MLOps Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/mlops-zoomcamp
+  context: Course where listeners can help as teaching assistants
+- name: Machine Learning (Coursera)
+  type: course
+  url: https://www.coursera.org/learn/machine-learning
+  context: Course that pulled the guest from Java into ML
+- name: MLCourse.AI
+  type: course
+  url: https://mlcourse.ai
+  context: Community-driven course that inspired the Zoomcamp model
+- name: Manning
+  type: company
+  url: https://www.manning.com
+  context: Publisher of Machine Learning Bookcamp; rigorous quality process
+- name: Packt Publishing
+  type: company
+  url: https://www.packtpub.com
+  context: Publisher where the guest technical-reviewed books
+- name: Coursera
+  type: service
+  url: https://www.coursera.org
+  context: Platform offering the machine learning course
+- name: Kaggle
+  type: service
+  url: https://www.kaggle.com
+  context: Hosted the community's kitchen utensil deep learning competition
+- name: Eventbrite
+  type: service
+  url: https://www.eventbrite.com
+  context: Event platform storing registrant emails for a recommender idea
+- name: Open Data Science
+  type: community
+  url: https://ods.ai
+  context: Russian-speaking Slack community that inspired DataTalks.Club
+- name: MLOps Community
+  type: community
+  url: https://mlops.community
+  context: Example of a niche-focused community
+- name: Locally Optimistic
+  type: community
+  url: https://locallyoptimistic.com
+  context: Community for data product managers and analysts
+- name: PyData
+  type: community
+  url: https://pydata.org
+  context: Amsterdam conference where a listener shared a success story
+- name: Marijn Markus
+  type: person
+  context: Podcast guest whose interview changed a listener's career
 ---

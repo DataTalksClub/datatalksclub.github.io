@@ -1185,6 +1185,22 @@ context: 'Context: The episode traces a founder’s shift from engineering to he
   data and align AI capabilities with real patient workflows and viable business models—solving
   legacy access and workflow problems regionally, iterating from MVP to product-market
   fit, and scaling sustainably while keeping human needs and ethics central.'
+resources:
+- name: SQIN
+  type: company
+  url: https://sqin.co
+  context: Guest's digital skin clinic, from diagnosis to prescription
+- name: Women in AI
+  type: community
+  context: Recognition naming the guest among the top 20 women in AI
+- name: Siemens
+  type: company
+  url: https://www.siemens.com
+  context: Guest did transformation strategy for its managing board
+- name: Instagram
+  type: service
+  url: https://www.instagram.com
+  context: Hosted one of the first AR lipstick try-on filters
 ---
 Links:
 

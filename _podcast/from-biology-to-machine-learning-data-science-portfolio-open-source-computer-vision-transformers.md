@@ -1094,6 +1094,58 @@ context: 'Context: Isabella Bicalho’s episode traces a career arc from biology
   hands-on applied work, open-source contribution, mentorship, clear communication,
   and judicious use of AI tools—serves as the most effective pathway to build job-ready
   skills, bridge disciplines, and create real-world impact in data science and ML.'
+resources:
+- name: Hugging Face
+  type: company
+  url: https://huggingface.co
+  context: Community computer vision course and model hub; French AI ecosystem
+- name: Omdena
+  type: community
+  url: https://www.omdena.com
+  context: Local chapters for low-pressure hands-on AI-for-good projects
+- name: Hugging Face Computer Vision Course
+  type: course
+  url: https://huggingface.co/learn/computer-vision-course
+  context: Community course the guest wrote and reviewed via pull requests
+- name: INRIA
+  type: company
+  url: https://www.inria.fr
+  context: French research institute where guest interned on immunotherapy prediction
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org
+  context: Library tied to INRIA; example of open-source contribution
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: AI assistant for learning; discussed benefits and limitations
+- name: Mistral
+  type: company
+  url: https://mistral.ai
+  context: Prominent French AI company in the Paris hub discussion
+- name: Sentinel-2
+  type: dataset
+  url: https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2
+  context: Free satellite imagery used for green space segmentation
+- name: Data Like
+  type: other
+  context: Guest's Substack spotlighting women in data and machine learning
+- name: GitHub
+  type: tool
+  url: https://github.com
+  context: Checking issues to start open-source contributions
+- name: pandas
+  type: tool
+  url: https://pandas.pydata.org
+  context: Named as an open-source library people can contribute to
+- name: NumPy
+  type: tool
+  url: https://numpy.org
+  context: Big library whose issues can overwhelm new contributors
+- name: LinkedIn
+  type: tool
+  url: https://www.linkedin.com
+  context: Optimized profile; reaching out for role insights and clients
 ---
 Links:
 

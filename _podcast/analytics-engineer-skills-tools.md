@@ -974,6 +974,72 @@ transcript:
     detailed. It has the code and it has dependencies. It's very easy to go from there
     and see what else you are going to affect if you touch something.
   who: Victoria
+resources:
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Core transformation tool; central to the analytics engineer movement
+- name: Snowflake
+  type: service
+  url: https://www.snowflake.com
+  context: Cloud data warehouse where dbt models run; key required skill
+- name: Looker
+  type: tool
+  url: https://cloud.google.com/looker
+  context: BI tool exposing modeled data to business users via dashboards
+- name: The Data Warehouse Toolkit
+  type: book
+  context: Kimball's book on dimensional modeling; expected reading for the role
+- name: dbt Learn
+  type: course
+  url: https://learn.getdbt.com
+  context: Free dbt courses also covering fact and dimension tables
+- name: Analytics Readings
+  type: other
+  context: Community-curated Notion list of readings on pipelines, SQL, best practices
+- name: Airbyte
+  type: tool
+  url: https://airbyte.com
+  context: EL tool used to load S3 data into Snowflake
+- name: Datafold
+  type: service
+  url: https://www.datafold.com
+  context: Mentioned as offering data profiling that dbt lacks
+- name: Monte Carlo
+  type: service
+  url: https://www.montecarlodata.com
+  context: Data observability tool mentioned for data profiling
+- name: Spotify
+  type: company
+  url: https://www.spotify.com
+  context: Company credited with inventing the analytics engineer role
+- name: Nubank
+  type: company
+  url: https://nubank.com.br
+  context: Uses dbt; compares analytics engineer, data engineer, analyst profiles
+- name: Airbnb
+  type: company
+  url: https://www.airbnb.com
+  context: Job posting discussed as example of technical analytics engineer role
+- name: Netflix
+  type: company
+  url: https://www.netflix.com
+  context: Medium blog article discussed on team-level role variability
+- name: Trade Republic
+  type: company
+  url: https://traderepublic.com
+  context: Similar stack (Snowflake, dbt); posting leans toward analyst side
+- name: Amazon Redshift
+  type: service
+  url: https://aws.amazon.com/redshift/
+  context: Previous cloud warehouse used before moving to Snowflake
+- name: Amazon S3
+  type: service
+  url: https://aws.amazon.com/s3/
+  context: Buckets where incoming raw data lands before loading
+- name: SQL
+  type: tool
+  context: Main language of the role; top required skill in job postings
 ---
 
 

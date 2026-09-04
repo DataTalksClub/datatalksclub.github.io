@@ -1024,6 +1024,41 @@ context: 'Context: A physicist’s journey from building and analyzing massive c
   systems, rigorous software and teamwork practices—is a powerful, transferable foundation,
   and mentorship is the essential bridge that translates that expertise into effective
   industry roles, career progression, and leadership.'
+resources:
+- name: Large Hadron Collider
+  type: other
+  url: https://home.cern/science/accelerators/large-hadron-collider
+  context: particle physics experiment where the guest analyzed collision data
+- name: Blue Yonder
+  type: company
+  url: https://blueyonder.com
+  context: supply chain software vendor; the guest's first industry role
+- name: Kaufland
+  type: company
+  url: https://www.kaufland.com
+  context: German e-commerce chain where the guest led NLP and search
+- name: Cracking the Coding Interview
+  type: book
+  url: https://www.crackingthecodinginterview.com
+  context: behavioral interview chapter with story tables and STAR format
+- name: STAR method
+  type: other
+  context: Situation-Task-Action-Result framework for structured interview answers
+- name: Amazon Leadership Principles
+  type: other
+  url: https://www.amazon.jobs/en/principles
+  context: framework the host used to practice behavioral interview stories
+- name: GitHub
+  type: tool
+  url: https://github.com
+  context: version control practice shared between physics research and tech
+- name: MentorCruise
+  type: service
+  url: https://mentorcruise.com
+  context: paid mentorship platform the guest knows
+- name: Mentoring Club
+  type: community
+  context: free mentoring community suggested for finding unpaid mentors
 ---
 Links:
 

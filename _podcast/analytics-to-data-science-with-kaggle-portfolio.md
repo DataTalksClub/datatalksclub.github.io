@@ -973,6 +973,36 @@ transcript:
   sec: 3838
   time: '1:03:58'
   who: Alexey
+resources:
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Main learning platform and portfolio that led to the guest's job
+- name: Python for Data Science and Machine Learning Bootcamp
+  type: course
+  url: https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+  context: Jose Portilla's Udemy course that introduced the guest to data science
+- name: Jose Portilla
+  type: person
+  context: Udemy instructor of the highly recommended data science bootcamp
+- name: Kaggle Learn
+  type: course
+  url: https://www.kaggle.com/learn
+  context: Free Kaggle ML courses praised as next step after the Udemy course
+- name: Gabi Preda
+  type: person
+  context: Kaggle grandmaster who noticed guest's notebooks and hired her
+- name: Ken Jee
+  type: person
+  context: YouTuber behind the 66 Days of Data challenge, recommended to follow
+- name: Stack Overflow
+  type: community
+  url: https://stackoverflow.com
+  context: Contrasted with Kaggle's friendlier community after a downvoted question
+- name: House Prices - Advanced Regression Techniques
+  type: dataset
+  url: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+  context: Iowa house prices competition; guest's notebooks and leaderboard climb
 ---
 
 Links:

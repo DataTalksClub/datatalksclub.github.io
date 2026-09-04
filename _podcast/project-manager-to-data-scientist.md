@@ -1007,6 +1007,110 @@ transcript:
   sec: 3944
   time: '1:05:44'
   who: Alexey
+resources:
+- name: mlcourse.ai
+  type: course
+  url: https://mlcourse.ai
+  context: Free ML course guest recommends for deep fundamentals
+- name: OpenDataScience
+  type: community
+  url: https://ods.ai
+  context: Community behind mlcourse.ai; joining communities is key advice
+- name: Yury Kashnitsky
+  type: person
+  context: Designed the mlcourse.ai online course
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Learn by studying notebooks and joining competitions
+- name: CRISP-DM
+  type: other
+  context: Recommended framework for structuring data science projects
+- name: Clean Code
+  type: book
+  context: Recommended book for improving coding practices
+- name: node2vec
+  type: paper
+  url: https://arxiv.org/abs/1607.00653
+  context: Network technique guest modified in fraud detection thesis
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: Drag-and-drop tool to start analyzing data without code
+- name: Trifacta
+  type: tool
+  url: https://www.trifacta.com
+  context: Data cleaning tool for beginners avoiding code
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Recommended first language, low threshold to learn
+- name: pandas
+  type: tool
+  url: https://pandas.pydata.org
+  context: Key package for analyzing data after learning Python
+- name: matplotlib
+  type: tool
+  url: https://matplotlib.org
+  context: Visualization package suggested for beginning analysts
+- name: Jupyter Notebook
+  type: tool
+  url: https://jupyter.org
+  context: Where guest first started analyzing data at university
+- name: Flask
+  type: tool
+  url: https://flask.palletsprojects.com
+  context: Way to deploy trained models as a production skill
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Production skill learned on the job after hiring
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Production skill cited as big leap from analytics
+- name: Git
+  type: tool
+  url: https://git-scm.com
+  context: Collaborative development skill to pick up at work
+- name: Udacity
+  type: service
+  url: https://www.udacity.com
+  context: Six-month data science nanodegree recommended for structure
+- name: Coursera
+  type: service
+  url: https://www.coursera.org
+  context: Course platform guest tried before choosing university
+- name: Udemy
+  type: service
+  url: https://www.udemy.com
+  context: Course platform that left guest lost among options
+- name: Elena Samuylova
+  type: person
+  context: Talk on why ML projects fail; problem definition importance
+- name: Vin Vasishtha
+  type: person
+  context: Talk on monetizing ML and speaking business language
+- name: O'Reilly
+  type: company
+  url: https://www.oreilly.com
+  context: Annual data science surveys help pick tools to learn
+- name: Stack Overflow
+  type: community
+  url: https://stackoverflow.com
+  context: Large community; its annual survey recommended by host
+- name: JetBrains
+  type: company
+  url: https://www.jetbrains.com
+  context: Annual developer survey recommended for tool trends
+- name: MATLAB
+  type: tool
+  url: https://www.mathworks.com/products/matlab.html
+  context: Example of a skill few employers actually require
+- name: Microsoft Excel
+  type: tool
+  url: https://www.microsoft.com/microsoft-365/excel
+  context: Project managers' starting tool before coding
 ---
 
 We talked about:

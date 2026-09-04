@@ -1210,6 +1210,99 @@ transcript:
   sec: 3663
   time: '1:01:03'
   who: Ivan
+resources:
+- name: GPT-3
+  type: service
+  url: https://openai.com/api
+  context: prompt-driven LLM; MVPs, cost and control discussed
+- name: spaCy
+  type: tool
+  url: https://spacy.io/
+  context: library simplifying NLP; tutorials recommended for learning
+- name: Hugging Face
+  type: tool
+  url: https://huggingface.co/
+  context: democratizing library covering preprocessing and models
+- name: OpenAI
+  type: company
+  url: https://openai.com/
+  context: GPT maker; dependency and shutdown risks discussed
+- name: Allen Institute for AI
+  type: company
+  url: https://allenai.org/
+  context: institute exploring merging linguistics with AI
+- name: AllenNLP
+  type: tool
+  url: https://allenai.org/allennlp
+  context: open-source toolkit from Allen Institute for AI
+- name: Stanford CoreNLP
+  type: tool
+  url: https://stanfordnlp.github.io/CoreNLP/
+  context: classic Java NLP pipeline library Alexey recalls
+- name: Google Translate
+  type: service
+  url: https://translate.google.com/
+  context: translation quality discussed; uses trained language models
+- name: DeepL
+  type: service
+  url: https://www.deepl.com/
+  context: product-based machine translation competitor
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com/
+  context: hosted AllenNLP multiple-choice competition; Alexey's first
+- name: Language Models are Few-Shot Learners
+  type: paper
+  url: https://arxiv.org/abs/2005.14165
+  context: original GPT-3 paper referenced on translation prompts
+- name: GPT-J
+  type: tool
+  url: https://huggingface.co/EleutherAI/gpt-j-6B
+  context: open-source GPT-3 alternative
+- name: GPT-Neo
+  type: tool
+  url: https://github.com/EleutherAI/gpt-neo
+  context: open-source GPT-3 alternative
+- name: T5
+  type: tool
+  url: https://github.com/google-research/text-to-text-transfer-transformer
+  context: example language model needing task engineering
+- name: Personio
+  type: company
+  url: https://www.personio.com/
+  context: guest's employer; HR platform identity and access team
+- name: CDTM
+  type: course
+  url: https://cdtm.de/
+  context: honors technology management program guest completed in Munich
+- name: OLX
+  type: company
+  context: host's marketplace company; GPT-3 information extraction experiment
+- name: Perl
+  type: tool
+  url: https://www.perl.org/
+  context: legacy language guest used before Python
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org/
+  context: ETL pipeline technology in guest's background
+- name: Apache Hadoop
+  type: tool
+  url: https://hadoop.apache.org/
+  context: ETL pipeline technology in guest's background
+- name: Python
+  type: tool
+  url: https://www.python.org/
+  context: replaced Perl as NLP's industry-standard language
+- name: NLP Pandect
+  type: other
+  context: guest's curated GitHub encyclopedia of NLP resources
+- name: Microservices Pandect
+  type: other
+  context: guest's curated microservices and DevOps resource list
+- name: Engineering Manager Pandect
+  type: other
+  context: guest's curated engineering leadership resource list
 ---
 
 Links:

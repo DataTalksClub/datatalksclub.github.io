@@ -1343,6 +1343,65 @@ context: 'Context: Christoph Molnar’s journey from statistician and Kaggle com
   and transparency) to teach others while refining your own understanding. This unified
   through-line ties together the technical tools, the writing and publishing choices,
   and the everyday workflows that make complex ML accessible, reproducible, and actionable.'
+resources:
+- name: SHAP
+  type: tool
+  url: https://github.com/shap/shap
+  context: Feature importance method used for debugging and book deep dive
+- name: Interpretable Machine Learning
+  type: book
+  url: https://christophmolnar.com/books/interpretable-machine-learning
+  context: Guest's first book, self-published chapter by chapter in the open
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Competition platform central to guest's career and debugging story
+- name: Obsidian
+  type: tool
+  url: https://obsidian.md
+  context: Note-taking tool for the guest's competition logbook
+- name: LIME
+  type: paper
+  url: https://arxiv.org/abs/1602.04938
+  context: Paper explaining predictions with local linear models; sparked guest's interest
+- name: Modeling Mindsets
+  type: book
+  url: https://christophmolnar.com/books/modeling-mindsets
+  context: Guest's short book on different mindsets for modeling data
+- name: Introduction to Conformal Prediction with Python
+  type: book
+  url: https://christophmolnar.com/books/conformal-prediction
+  context: Guest's introductory book on quantifying model uncertainty
+- name: Interpreting Machine Learning Models With SHAP
+  type: book
+  url: https://christophmolnar.com/books/shap
+  context: Guest's fourth book; SHAP deep dive with Python examples
+- name: DrivenData
+  type: community
+  url: https://www.drivendata.org
+  context: Platform hosting the river flow forecasting competition guest is entering
+- name: Leanpub
+  type: service
+  url: https://leanpub.com
+  context: Digital bookstore where the guest sells ebooks and PDFs
+- name: Amazon KDP
+  type: service
+  url: https://kdp.amazon.com
+  context: Print-on-demand service used for paperback distribution
+- name: Manning
+  type: company
+  url: https://www.manning.com
+  context: Host's publisher; discussion of publisher marketing duties
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Raised doubts about self-publishing due to auto-generated books
+- name: Timo Freiesleben
+  type: person
+  context: Co-author of upcoming book on supervised ML in science
+- name: SHAP is not all you need
+  type: other
+  context: Blog post warning against relying on one interpretation method
 ---
 Links:
 

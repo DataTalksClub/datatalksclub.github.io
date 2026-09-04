@@ -1043,6 +1043,57 @@ transcript:
   sec: 4110
   time: '1:08:30'
   who: Aditya
+resources:
+- name: Meta
+  type: company
+  url: https://www.meta.com
+  context: Guest's employer; Reels recommendation ranking and multi-agent work
+- name: Google
+  type: company
+  url: https://www.google.com
+  context: Guest's former employer; new document extraction AI service
+- name: Harvey
+  type: company
+  url: https://www.harvey.ai
+  context: Legal AI company whose adoption by lawyers is discussed
+- name: Tom Mitchell
+  type: person
+  context: His CMU machine learning lecture hooked the guest on ML
+- name: OpenAI
+  type: service
+  url: https://openai.com
+  context: API provider; model deprecations discussed as breaking prompts
+- name: Claude
+  type: service
+  url: https://claude.ai
+  context: Tool investors want to adopt; Claude Code anecdotes
+- name: Gemini
+  type: service
+  url: https://gemini.google.com
+  context: Guest finds it strong for legal and financial queries
+- name: GitHub Copilot
+  type: service
+  url: https://github.com/features/copilot
+  context: Discussed during a GitHub outage; independence as microservice
+- name: Morgan Stanley
+  type: company
+  url: https://www.morganstanley.com
+  context: Research paper on building their own LLMs for finance
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Discussed for deploying agents as replicable microservices
+- name: Stripe
+  type: service
+  url: https://stripe.com
+  context: 'Guardrail example: human review for high-value API calls'
+- name: GDPR
+  type: other
+  context: European regulation motivating data lineage and deletion capabilities
+- name: Silicon Slopes
+  type: community
+  url: https://siliconslopes.com
+  context: Event where the guest spoke with investment firm people
 ---
 
 Links:

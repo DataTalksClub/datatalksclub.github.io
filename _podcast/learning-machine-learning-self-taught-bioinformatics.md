@@ -1401,6 +1401,55 @@ transcript:
   sec: 3611
   time: '1:00:11'
   who: Alexey
+resources:
+- name: Machine Learning Zoomcamp
+  type: course
+  url: https://github.com/DataTalksClub/machine-learning-zoomcamp
+  context: DataTalks.Club course guest graduated from and recommends
+- name: Open Source Society University
+  type: community
+  url: https://github.com/ossu
+  context: Open curricula; guest followed its bioinformatics pathway
+- name: Python for Everybody
+  type: course
+  url: https://www.py4e.com
+  context: Python course guest recommends for its fast pace
+- name: Learning How to Learn
+  type: course
+  url: https://www.coursera.org/learn/learning-how-to-learn
+  context: Coursera course guest sampled but found boring
+- name: Google Scholar
+  type: service
+  url: https://scholar.google.com
+  context: Used to find papers and explore citation graphs
+- name: Google Dataset Search
+  type: service
+  url: https://datasetsearch.research.google.com
+  context: Guest uses it to find interesting datasets for projects
+- name: Kaggle
+  type: tool
+  url: https://www.kaggle.com
+  context: Source of datasets and competitions for guest's projects
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Host suggests it as a fake study group for learning
+- name: PubMed
+  type: service
+  url: https://pubmed.ncbi.nlm.nih.gov
+  context: Free research articles guest finds via web search
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: MLOps module topic guest found daunting but doable
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Deployment tool guest liked least in Zoomcamp
+- name: Machine Learning Bookcamp
+  type: book
+  url: https://www.manning.com/books/machine-learning-bookcamp
+  context: Guest recommends the host's book as helpful
 ---
 
 Links:

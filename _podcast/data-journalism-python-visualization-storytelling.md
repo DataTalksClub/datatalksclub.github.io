@@ -1119,6 +1119,60 @@ transcript:
   sec: 3810
   time: '1:03:30'
   who: Alexey
+resources:
+- name: Storytelling with Data
+  type: book
+  url: https://www.storytellingwithdata.com
+  context: Cole Nussbaumer Knaflic book on turning reports into data stories
+- name: Comet for Data Science
+  type: book
+  context: Guest's book about the Comet ML platform
+- name: Washington Post
+  type: company
+  url: https://www.washingtonpost.com
+  context: Data journalism examples, including migration barriers story
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Most popular language students use for data journalism work
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: No-code option for building data journalism visualizations
+- name: Presto
+  type: tool
+  url: https://prestodb.io
+  context: Query engine; guest is writing a book about it
+- name: Trino
+  type: tool
+  url: https://trino.io
+  context: Presto fork, discussed via a real-world Presto-to-Trino migration
+- name: Comet
+  type: service
+  url: https://www.comet.com
+  context: ML platform; guest wrote its book and contributes articles
+- name: Coursera
+  type: service
+  url: https://www.coursera.org
+  context: Hosts a recommended data journalism course
+- name: Medium
+  type: service
+  url: https://medium.com
+  context: Platform where guest published around seventy technical articles
+- name: GitHub
+  type: tool
+  url: https://github.com
+  context: Where guest shares code repositories accompanying articles
+- name: Stack Overflow
+  type: company
+  url: https://stackoverflow.com
+  context: Its annual survey discussed as a raw report example
+- name: Heartbeat
+  type: other
+  context: Comet's publication where guest is a contributor
+- name: Syntax Error
+  type: other
+  context: Guest's Medium publication with short problem-solving articles
 ---
 
 Links:

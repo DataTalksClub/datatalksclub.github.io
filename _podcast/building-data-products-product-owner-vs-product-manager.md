@@ -1167,6 +1167,49 @@ transcript:
   sec: 3649
   time: '1:00:49'
   who: Anna
+resources:
+- name: METRO.digital
+  type: company
+  url: https://www.metro.digital/
+  context: Guest's employer; data science for the METRO B2B wholesaler
+- name: Zalando
+  type: company
+  url: https://corporate.zalando.com/
+  context: Previous employer; warehouse automation and AWS microservices work
+- name: Data Science for Business
+  type: book
+  context: Recommended Provost and Fawcett book for aspiring data product managers
+- name: Mind the Product
+  type: community
+  url: https://www.mindtheproduct.com/
+  context: Global product management community behind ProductTank meetups
+- name: ProductTank Düsseldorf
+  type: community
+  context: Product meetup that guest co-organizes
+- name: AWS
+  type: service
+  url: https://aws.amazon.com/
+  context: Cloud where Zalando's warehouse microservices were built
+- name: Datadog
+  type: service
+  url: https://www.datadoghq.com/
+  context: Monitoring for recommender system API reliability
+- name: Word2Vec
+  type: tool
+  url: https://code.google.com/archive/p/word2vec/
+  context: Modified version scores product relevance from transaction data
+- name: Biopython
+  type: tool
+  url: https://biopython.org/
+  context: Open-source project compared in her PhD community research
+- name: BioPerl
+  type: tool
+  url: https://bioperl.org/
+  context: Open-source project compared in her PhD community research
+- name: BioJava
+  type: tool
+  url: https://biojava.org/
+  context: Open-source project compared in her PhD community research
 ---
 
 Links:

@@ -1140,6 +1140,22 @@ transcript:
   who: Alexey
 context: 'Building Healthcare ML Systems: From Sepsis Prediction to Low-Resource Clinical
   Deployment'
+resources:
+- name: Philips Healthcare
+  type: company
+  url: https://www.philips.com
+  context: Guest's internship and employer; C-arm and pregnancy monitoring projects
+- name: IMEC
+  type: company
+  url: https://www.imec-int.com
+  context: Belgian research institute where guest did white blood cell thesis
+- name: A U-Net Deep Learning Model for Infant Heart Rate Estimation from Ballistography
+  type: paper
+  context: Guest's publication on denoising ballistography signals with U-Net
+- name: Signify
+  type: company
+  url: https://www.signify.com
+  context: Lighting company Philips spun off its lamp business into
 ---
 Links:
 

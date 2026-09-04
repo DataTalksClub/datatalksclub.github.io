@@ -1377,6 +1377,77 @@ context: 'Context: The episode follows a journey from academic foundations in ec
   decks, case studies), continual learning, and a commitment to accessibility and
   mentorship while managing the practicalities of running a sustainable freelance
   practice.'
+resources:
+- name: Amazon
+  type: company
+  url: https://www.amazon.com
+  context: Guest spent nearly four years there as a research scientist
+- name: Amazon Alexa
+  type: service
+  context: Product whose German and French NLU models the guest researched
+- name: Deloitte
+  type: company
+  url: https://www.deloitte.com
+  context: Guest started her career at the Deloitte Analytics Institute
+- name: Mindset
+  type: book
+  context: Carol Dweck book that changed the guest's view on learning
+- name: Entrepreneur Revolution
+  type: book
+  context: Daniel Priestley's practical guide the guest recommends
+- name: ACL
+  type: community
+  context: NLP conference where her team published research papers
+- name: EMNLP
+  type: community
+  context: NLP conference for publishing industry-track research
+- name: Zalando
+  type: company
+  url: https://www.zalando.com
+  context: Not hiring data scientists in Berlin; research-role gatekeeping
+- name: mobile.de
+  type: company
+  url: https://www.mobile.de
+  context: Guest did causal inference on marketing campaigns there
+- name: Oetker Digital
+  type: company
+  context: In-house consultancy where the guest did forecasting
+- name: XGBoost
+  type: tool
+  url: https://xgboost.readthedocs.io
+  context: Symbol of standard data science work versus research
+- name: Klaus-Robert Müller
+  type: person
+  context: Famous TU Berlin professor who taught SVMs to Alexey
+- name: Stefan Lessmann
+  type: person
+  context: Humboldt professor; NLP lectures on YouTube recommended
+- name: DeepMind
+  type: company
+  url: https://deepmind.google
+  context: Named as a pure research lab, unlike Amazon
+- name: Google Brain
+  type: company
+  context: Named as a pure research lab, unlike Amazon
+- name: T5
+  type: tool
+  context: Used to generate adversarial attacks in a research project
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: Freelance positioning, content posts, and client outreach
+- name: McKinsey Digital
+  type: other
+  context: Study on women leaving tech at mid-career
+- name: Data Action Network Mentorship Program
+  type: community
+  context: Guest mentors startups booking calls through it
+- name: Seamless
+  type: community
+  context: Payments industry event for meeting potential clients
+- name: How does an artificial intelligence learn to speak? (German podcast)
+  type: other
+  context: German-language podcast explaining how LLMs work
 ---
 Links:
 

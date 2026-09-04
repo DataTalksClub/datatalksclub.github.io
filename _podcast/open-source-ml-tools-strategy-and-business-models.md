@@ -1016,6 +1016,143 @@ context: 'Context: This episode surveys the Scikit-Learn ecosystem, related proj
   incentives (training, consulting, platform models, cost-efficient infrastructure,
   and low-pressure contributor experiences) that enable maintainers and contributors
   to keep projects useful, adoptable, and durable.'
+resources:
+- name: Rasa
+  type: company
+  url: https://rasa.com
+  context: Vincent's employer; open source conversational AI infrastructure
+- name: scikit-lego
+  type: tool
+  url: https://github.com/koaning/scikit-lego
+  context: Scikit-learn-compatible building blocks he co-created
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org
+  context: Ecosystem his tools extend; strict contribution policies
+- name: calmcode.io
+  type: course
+  url: https://calmcode.io
+  context: Vincent's tutorial site for programming maturity
+- name: human-learn
+  type: tool
+  url: https://github.com/koaning/human-learn
+  context: Rule-based systems letting domain experts add rules
+- name: whatlies
+  type: tool
+  url: https://github.com/koaning/whatlies
+  context: Investigates word embeddings and bias, pipeline-compatible
+- name: evol
+  type: tool
+  url: https://github.com/koaning/evol
+  context: Evolutionary algorithm library with a simpler functional API
+- name: clumper
+  type: tool
+  url: https://github.com/koaning/clumper
+  context: Pandas-like library for working with nested JSON
+- name: memo
+  type: tool
+  url: https://github.com/koaning/memo
+  context: Decorators logging function outputs for grid search
+- name: brent
+  type: tool
+  url: https://github.com/koaning/brent
+  context: Package put on PyPI before it was fully ready
+- name: deon
+  type: tool
+  url: https://deon.drivendata.org
+  context: Checklist for starting ML projects; Vincent calls it amazing
+- name: pandas
+  type: tool
+  url: https://pandas.pydata.org
+  context: Large project with thousands of issues; hard to start contributing
+- name: GitHub
+  type: tool
+  url: https://github.com
+  context: Issues, pull requests, and hosting for open source work
+- name: PyPI
+  type: tool
+  url: https://pypi.org
+  context: Maturity step before publishing packages publicly
+- name: Git
+  type: tool
+  url: https://git-scm.com
+  context: Essential skill alongside GitHub basics for contributors
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Language to learn before contributing to libraries
+- name: R
+  type: tool
+  url: https://www.r-project.org
+  context: Free R trainings that built his early career network
+- name: black
+  type: tool
+  url: https://github.com/psf/black
+  context: Code style tool to know before first contributions
+- name: flake8
+  type: tool
+  url: https://flake8.pycqa.org
+  context: Linting tool to know before first contributions
+- name: pytest
+  type: tool
+  url: https://pytest.org
+  context: Testing tool to know before first contributions
+- name: GitHub Actions
+  type: tool
+  url: https://github.com/features/actions
+  context: Continuous integration to learn for open source contributions
+- name: PyData
+  type: community
+  url: https://pydata.org
+  context: Amsterdam conference Vincent organized and shaped
+- name: Altair
+  type: tool
+  url: https://altair-viz.github.io
+  context: Whatlies visualization dependency questioned in an issue
+- name: Bokeh
+  type: tool
+  url: https://bokeh.org
+  context: Insistently suggested over Altair in an unfriendly issue
+- name: Matplotlib
+  type: tool
+  url: https://matplotlib.org
+  context: Silly library renders Matplotlib charts as command line ASCII art
+- name: Neo4j
+  type: tool
+  url: https://neo4j.com
+  context: 'Talk idea: scraping Meetup data and visualizing outliers'
+- name: Elasticsearch
+  type: company
+  url: https://www.elastic.co
+  context: Open source business model comparison based on support contracts
+- name: Basecamp
+  type: company
+  url: https://basecamp.com
+  context: Garbage fire marketing stunt as attention-driving example
+- name: Kaggle
+  type: company
+  url: https://www.kaggle.com
+  context: Colleague Rachel's previous employer before Rasa
+- name: Reddit
+  type: tool
+  url: https://www.reddit.com
+  context: Good channel for announcing projects, e.g. r/Python
+- name: Peter Norvig
+  type: person
+  url: https://norvig.com
+  context: Taught the free Stanford AI course Vincent took
+- name: Sebastian Thrun
+  type: person
+  context: Taught the free Stanford AI course Vincent took
+- name: mktestdocs
+  type: tool
+  context: Unit tests for markdown documentation files (MakeTestDocs)
+- name: Schedulord
+  type: tool
+  context: Helps him maintain cron jobs on his Raspberry Pis
+- name: MakeNames.io
+  type: other
+  context: Silly name generator trained on Pokemon and IKEA names
 ---
 Links:
 

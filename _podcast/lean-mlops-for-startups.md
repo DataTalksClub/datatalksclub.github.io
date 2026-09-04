@@ -1374,6 +1374,120 @@ context: 'The episode’s single unifying idea is pragmatic trade-offs: how to m
   architectural, tooling, and career choices—opt for simplicity and visibility to
   accelerate outcomes today while preserving the ability to evolve, scale, and de-risk
   tomorrow.'
+resources:
+- name: Kubeflow
+  type: tool
+  url: https://www.kubeflow.org
+  context: Kubernetes-based MLOps platform dismissed as painful setup
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Its YAML complexity makes Kubeflow painful to run
+- name: Vertex AI
+  type: service
+  url: https://cloud.google.com/vertex-ai
+  context: Managed platform cited as causing vendor lock-in
+- name: Google Cloud
+  type: service
+  url: https://cloud.google.com
+  context: Startup credit program discussed, with lock-in catch
+- name: Amazon SageMaker
+  type: service
+  url: https://aws.amazon.com/sagemaker/
+  context: Managed platform cited as causing vendor lock-in
+- name: Dagster
+  type: tool
+  url: https://dagster.io
+  context: Orchestrator guest is starting a new project with
+- name: MLflow
+  type: tool
+  url: https://mlflow.org
+  context: Guest used it for tracking and helped set up a server
+- name: Logfire
+  type: service
+  url: https://logfire.pydantic.dev
+  context: Observability tool guest recently adopted and liked
+- name: Grafana
+  type: tool
+  url: https://grafana.com
+  context: Monitoring option guest tried and gave up on
+- name: Prometheus
+  type: tool
+  url: https://prometheus.io
+  context: Metrics tool compared against Logfire for observability
+- name: Streamlit
+  type: tool
+  url: https://streamlit.io
+  context: Guest's choice for quick visualizations; auth limitations noted
+- name: ELK Stack
+  type: tool
+  url: https://www.elastic.co/elastic-stack
+  context: Host's previous go-to stack for logging
+- name: Pydantic
+  type: tool
+  url: https://docs.pydantic.dev
+  context: Logfire comes from its creators
+- name: Databricks
+  type: company
+  url: https://www.databricks.com
+  context: Discussed for bundling MLflow into its whole platform
+- name: Weights & Biases
+  type: service
+  url: https://wandb.ai
+  context: Mentioned as alternative for model registry
+- name: Dask
+  type: tool
+  url: https://www.dask.org
+  context: Guest's local experiments were slower than pandas merges
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Frequent interview topic; industry default for distributed processing
+- name: Apache Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Orchestrator dominating job postings despite UX gripes
+- name: Ray
+  type: tool
+  url: https://ray.io
+  context: Guest compared Spark and Ray in a blog post
+- name: Ansible
+  type: tool
+  url: https://www.ansible.com
+  context: Foundational tool guest recommends learning; AI-assisted scripts
+- name: PostgreSQL
+  type: tool
+  url: https://www.postgresql.org
+  context: Cited as safe, uncontroversial database choice
+- name: Ruby on Rails
+  type: tool
+  url: https://rubyonrails.org
+  context: Its creator's move back on-premise cited for cost savings
+- name: DHH
+  type: person
+  url: https://dhh.dk
+  context: Wrote about moving his company back to on-premise
+- name: Microsoft Azure
+  type: service
+  url: https://azure.microsoft.com
+  context: Guest earned certification since Belgian employers use it
+- name: AWS Lambda
+  type: service
+  url: https://aws.amazon.com/lambda/
+  context: Good early on; dedicated machines cheaper at stable workload
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Foundational skill guest recommends mastering
+- name: Linux
+  type: tool
+  context: Foundational skill guest recommends learning
+- name: DataMakers Fest
+  type: community
+  context: Conference where host heard guest's shoestring MLOps talk
+- name: Tempo
+  type: company
+  context: Brussels startup where guest is industrializing Python code
 ---
 Links:
 

@@ -963,6 +963,62 @@ transcript:
   sec: 3712
   time: '1:01:52'
   who: Nicolas
+resources:
+- name: Criteo
+  type: company
+  url: https://www.criteo.com
+  context: Guest's former employer; adtech with massive data volumes
+- name: Onfido
+  type: company
+  url: https://www.onfido.com
+  context: Guest's current employer; privacy-focused identity verification company
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Must-have language; data engineering is mostly Python now
+- name: SQL
+  type: tool
+  context: Bare minimum resume skill alongside Python
+- name: Apache Hadoop
+  type: tool
+  url: https://hadoop.apache.org
+  context: Big data ecosystem behind the rise of data engineering
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Part of Hadoop-Spark-Scala stack signaling data engineering work
+- name: Amazon Web Services (AWS)
+  type: service
+  url: https://aws.amazon.com
+  context: Cloud example; conceptual knowledge matters more than one vendor
+- name: Google Cloud Platform (GCP)
+  type: service
+  url: https://cloud.google.com
+  context: Cloud platform example; tool-agnostic understanding recommended
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: BI tool; expect specific questions if claiming expertise
+- name: Looker
+  type: tool
+  url: https://cloud.google.com/looker
+  context: BI tool mentioned alongside Tableau
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Infrastructure skill that matters at midsize and large companies
+- name: Terraform
+  type: tool
+  url: https://www.terraform.io
+  context: Infrastructure tool mentioned alongside Kubernetes
+- name: GitHub
+  type: tool
+  url: https://github.com
+  context: Public project profiles recruiters glance at when shared
+- name: Scala
+  type: tool
+  url: https://www.scala-lang.org
+  context: Language used with Hadoop and Spark stacks
 ---
 Links:
 

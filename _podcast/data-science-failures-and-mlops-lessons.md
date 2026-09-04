@@ -946,6 +946,69 @@ transcript:
   sec: 3687
   time: '1:01:27'
   who: Yury
+resources:
+- name: mlcourse.ai
+  type: course
+  url: https://mlcourse.ai
+  context: Guest's open machine learning course
+- name: BERT
+  type: tool
+  url: https://github.com/google-research/bert
+  context: Regressor predicting edit distance in the proofreading project
+- name: Grammarly
+  type: company
+  url: https://www.grammarly.com
+  context: Benchmark for the scientific proofreading AI project
+- name: Mail.Ru Group
+  type: company
+  url: https://corp.mail.ru
+  context: Guest's search ranking and LTV prediction projects
+- name: Yandex
+  type: company
+  url: https://yandex.com
+  context: Leading Russian search competitor discussed for market share
+- name: The Four Steps to the Epiphany
+  type: book
+  context: Customer development model versus product development for startups
+- name: Machine Learning by Andrew Ng
+  type: course
+  context: Course that pulled the guest from aviation into machine learning
+- name: AWS Lambda
+  type: service
+  url: https://aws.amazon.com/lambda/
+  context: Package size limits blocked the keyword recommender deployment
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Fun modeling work data scientists prefer over production duties
+- name: Hugging Face
+  type: tool
+  url: https://huggingface.co
+  context: Its easy-to-use NLP API postdates the sentiment analysis project
+- name: Amazon Mechanical Turk
+  type: service
+  url: https://www.mturk.com/
+  context: Cheaper data labeling option for Bitcoin news sentiment
+- name: Revolut
+  type: company
+  url: https://www.revolut.com
+  context: Bitcoin-selling fintech that inspired the guest's startup
+- name: KPN
+  type: company
+  url: https://www.kpn.com
+  context: Dutch telco whose loan scoring model rejected the guest
+- name: Oracle
+  type: company
+  url: https://www.oracle.com
+  context: Partner system integrator reselling Oracle licenses
+- name: SHAP
+  type: tool
+  url: https://shap.readthedocs.io
+  context: Explaining the loan rejection coefficients at the telco
+- name: Amsterdam Data Science
+  type: community
+  url: https://amsterdamdatascience.nl
+  context: Guest's transfer learning in NLP initiative led to his job
 ---
 
 

@@ -1128,4 +1128,29 @@ transcript:
   sec: 3789
   time: '1:03:09'
   who: Marco
+resources:
+- name: OLX Group
+  type: company
+  url: https://www.olxgroup.com
+  context: Guest is chief data officer; discussed data strategy and org complexity
+- name: Twitter
+  type: company
+  url: https://twitter.com
+  context: Guest worked on the ML-based ranked timeline launch
+- name: Facebook
+  type: company
+  url: https://www.facebook.com
+  context: Guest worked on product expansion when it had under a billion users
+- name: Spotify
+  type: company
+  url: https://spotify.com
+  context: Guest led data science, marketing analytics and user research teams
+- name: Yahoo
+  type: company
+  url: https://www.yahoo.com
+  context: Guest was a research scientist working on early AR and patents
+- name: Slack
+  type: tool
+  url: https://slack.com
+  context: Chat tool that replaces or expedites meetings and speeds decisions
 ---

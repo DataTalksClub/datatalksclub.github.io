@@ -1291,6 +1291,52 @@ transcript:
   sec: 3630
   time: '1:00:30'
   who: Alexey
+resources:
+- name: Trustworthy AI
+  type: book
+  context: Book on types of bias and responsible AI, cited twice
+- name: What-If Tool
+  type: tool
+  url: https://pair-code.github.io/what-if-tool/
+  context: Google's interactive tool for inspecting model behavior and features
+- name: AI Explainability 360 (AIX360)
+  type: tool
+  url: https://github.com/IBM/AIX360
+  context: IBM's open source toolkit for comprehending ML predictions
+- name: Skater
+  type: tool
+  url: https://github.com/oracle/Skater
+  context: Open source Python library for explaining model functioning
+- name: LIME
+  type: tool
+  url: https://github.com/marcotcr/lime
+  context: Surrogate-model technique for interpreting black-box predictions
+- name: SHAP
+  type: tool
+  url: https://github.com/shap/shap
+  context: Shapley-value-based explainability mentioned alongside LIME
+- name: Fairlearn
+  type: tool
+  url: https://fairlearn.org
+  context: Fairness library suggested by a listener during the Q&A
+- name: TensorFlow
+  type: tool
+  url: https://www.tensorflow.org
+  context: Google framework the What-If Tool integrates with
+- name: Amazon
+  type: company
+  url: https://www.amazon.com
+  context: Its biased AI recruiting tool illustrated historical hiring bias
+- name: DataBuzz
+  type: community
+  context: Guest's community mentoring people pivoting into data careers
+- name: Morgan Stanley
+  type: company
+  url: https://www.morganstanley.com
+  context: Guest's employer; wealth management data strategy and AI products
+- name: What Would an Avenger Do?
+  type: paper
+  context: Cool paper recommended by a listener in the chat
 ---
 
 Links:

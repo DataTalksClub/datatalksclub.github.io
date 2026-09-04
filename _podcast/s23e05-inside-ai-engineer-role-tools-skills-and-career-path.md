@@ -1504,6 +1504,101 @@ transcript:
   sec: 4054
   time: '1:07:34'
   who: Alexey
+resources:
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Sparked his GenAI passion; interface he found too linear
+- name: Cursor
+  type: tool
+  url: https://cursor.com
+  context: Recommended AI coding tool for much faster development
+- name: Grok
+  type: service
+  url: https://grok.com
+  context: His go-to for finding state-of-the-art models and best practices
+- name: X
+  type: service
+  url: https://x.com
+  context: His biggest source of industry news and new tools
+- name: GitHub Copilot
+  type: service
+  url: https://github.com/features/copilot
+  context: Recommended coding assistant, great value at ten dollars
+- name: Bolt.new
+  type: tool
+  url: https://bolt.new
+  context: Autonomous agent that built the early BranchGPT version
+- name: Figma
+  type: tool
+  url: https://www.figma.com
+  context: Learning it for mockups; recently released an MCP
+- name: Next.js
+  type: tool
+  url: https://nextjs.org
+  context: Templates save tokens when bootstrapping frontend projects
+- name: Telegram
+  type: service
+  url: https://telegram.org
+  context: His favorite platform for building bots and side projects
+- name: Cloudflare
+  type: service
+  url: https://www.cloudflare.com
+  context: Free deployment for bots, up to 100,000 requests daily
+- name: Rust
+  type: tool
+  url: https://www.rust-lang.org
+  context: Rewriting Alexey's static site generator in Rust via AI
+- name: TypeScript
+  type: tool
+  url: https://www.typescriptlang.org
+  context: Learning it with an AI-generated study plan
+- name: Visual Studio Code
+  type: tool
+  url: https://code.visualstudio.com
+  context: Automatic port forwarding inspired one of Alexey's tools
+- name: BranchGPT
+  type: tool
+  url: https://branchgpt.com
+  context: His side project for branching ChatGPT conversations
+- name: Catch a Flat
+  type: tool
+  context: Vibe-coded open source Chrome extension refreshing flat listings
+- name: Hacker News
+  type: other
+  url: https://news.ycombinator.com
+  context: Occasional source for industry news and tools
+- name: Meetup
+  type: service
+  url: https://www.meetup.com
+  context: Platform he used to launch his local AI meetup
+- name: Indie Hackers
+  type: community
+  url: https://www.indiehackers.com
+  context: Community of side-project builders sharing revenue numbers
+- name: AI Side Hustlers Club
+  type: community
+  context: Meetup he founded for people building AI side projects
+- name: swyx
+  type: person
+  context: Learning-in-public advocate behind the luck surface area idea
+- name: Andrej Karpathy
+  type: person
+  context: Posted analysis ranking jobs by AI replaceability
+- name: Anthropic
+  type: company
+  url: https://www.anthropic.com
+  context: Article about an agent fine-tuning and deploying itself
+- name: OLX Group
+  type: company
+  url: https://www.olxgroup.com
+  context: Where he worked as a data scientist before GenAI
+- name: Smart Steel Technologies
+  type: company
+  context: Earlier role building production ML for steel manufacturing
+- name: Finance Guru
+  type: company
+  context: Current employer where he builds production GenAI systems
 ---
 
 Links:

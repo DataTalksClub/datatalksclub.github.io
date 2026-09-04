@@ -1378,4 +1378,84 @@ transcript:
   sec: 3597
   time: '59:57'
   who: Alexey
+resources:
+- name: Spiced Academy
+  type: course
+  url: https://spiced-academy.com
+  context: Berlin data science bootcamp the guest completed before landing her job
+- name: Omdena
+  type: community
+  url: https://www.omdena.com
+  context: volunteer ML projects the guest joined during her job search
+- name: ICE
+  type: company
+  url: https://www.iceservices.com
+  context: guest's employer; music copyright and streaming royalty data company
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: primary language for scripts, analysis, and data pipelines
+- name: SQL
+  type: tool
+  context: daily workhorse; dialects differ across data warehouses
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: learned at Spiced; containers run automated reports on AWS
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: cloud used for free-tier learning and scheduled report runs
+- name: Apache Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: learned at bootcamp; team plans to adopt it
+- name: Google Cloud Platform
+  type: service
+  url: https://cloud.google.com
+  context: explored for R dashboards; 300-dollar credits burn quickly
+- name: R
+  type: tool
+  url: https://www.r-project.org
+  context: learned via Coursera; used for scripts and dashboards
+- name: Igor Pro
+  type: tool
+  url: https://www.wavemetrics.com
+  context: C-like scientific software used for lab data analysis
+- name: MATLAB
+  type: tool
+  url: https://www.mathworks.com
+  context: petrifying first programming experience during undergraduate studies
+- name: Coursera
+  type: course
+  url: https://www.coursera.org
+  context: platform where the guest learned R before her transition
+- name: Amazon Redshift
+  type: service
+  url: https://aws.amazon.com/redshift/
+  context: warehouse whose SQL dialect differs from Oracle's
+- name: Oracle
+  type: company
+  url: https://www.oracle.com
+  context: company's data warehouse platform ingesting streaming-service reports
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: job search channel and source of salary statistics
+- name: Slack
+  type: tool
+  url: https://slack.com
+  context: bootcamp capstone bot posted hourly tweet updates to Slack
+- name: Twitter API
+  type: service
+  context: capstone pipeline fetched sustainability tweets via the Twitter API
+- name: Microsoft Excel
+  type: tool
+  context: business analysts inspect reports and build charts in Excel
+- name: C
+  type: tool
+  context: language learned to control lab apparatus and analyze recordings
+- name: GDPR
+  type: other
+  context: guest invoked data privacy rights to delete rejected applications
 ---

@@ -682,6 +682,46 @@ context: 'Context: Through Dimitri’s journey and practical segments on job dat
   productivity tools (including AI) to deliver efficiently, and adopt deliberate pricing
   and client-retention models (projects, subscriptions, or agency paths) so you can
   reliably land clients, capture value, and grow on your own terms.'
+resources:
+- name: Claude
+  type: service
+  url: https://claude.ai
+  context: Guest's main AI tool for coding and productivity
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Used occasionally for images and translating job descriptions via API
+- name: Cursor
+  type: tool
+  url: https://cursor.com
+  context: AI coding assistant Alexey adopted for daily coding work
+- name: Visual Studio Code
+  type: tool
+  url: https://code.visualstudio.com
+  context: Editor where Cursor embeds AI chat for coding
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: Recruiter contact channel and job board crawling source
+- name: Upwork
+  type: service
+  url: https://www.upwork.com
+  context: Platform where recruiting agencies post freelance data projects
+- name: Freelancermap
+  type: company
+  url: https://www.freelancermap.com
+  context: Organization publishing market research on freelancing trends
+- name: Kaggle
+  type: service
+  url: https://www.kaggle.com
+  context: Where DataTalks.Club has published datasets before
+- name: Million Dollar Consulting
+  type: book
+  context: Alan Weiss book on retainers and moving beyond hourly pricing
+- name: Data Freelancer
+  type: other
+  url: https://datafreelancer.com
+  context: Guest's job board and course site with freelancer rates
 ---
 Links:
 

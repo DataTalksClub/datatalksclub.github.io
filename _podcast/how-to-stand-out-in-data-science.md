@@ -1324,4 +1324,28 @@ transcript:
   sec: 3806
   time: '1:03:26'
   who: Marijn
+resources:
+- name: Home Assistant
+  type: tool
+  url: https://www.home-assistant.io
+  context: Guest's home automation dashboard controlling his entire house
+- name: Raspberry Pi
+  type: tool
+  url: https://www.raspberrypi.com
+  context: Runs Home Assistant and collects his plant sensor data
+- name: Capgemini
+  type: company
+  url: https://www.capgemini.com
+  context: Guest's employer, where he is a managing data scientist
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: Guest shares its algorithm and his content strategy for reach
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Competitions cited as crowded; advised building unique projects instead
+- name: Zigbee
+  type: tool
+  context: Recommended protocol for safer smart home IoT setups
 ---

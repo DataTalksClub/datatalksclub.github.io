@@ -1070,6 +1070,19 @@ transcript:
   sec: 3486
   time: '58:06'
   who: Alexey
+resources:
+- name: Women Who Code
+  type: community
+  url: https://www.womenwhocode.com
+  context: Community where guest found mentors and led data science mentoring
+- name: DataRobot
+  type: company
+  url: https://www.datarobot.com
+  context: Guest's former employer, enterprise with strict project guidelines
+- name: Restream
+  type: company
+  url: https://restream.io
+  context: Guest's current company, discussed as lone-data-scientist case study
 ---
 
 Links:

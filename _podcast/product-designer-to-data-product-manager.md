@@ -1171,6 +1171,45 @@ transcript:
   sec: 3722
   time: '1:02:02'
   who: Alexey
+resources:
+- name: Meroxa
+  type: company
+  url: https://www.meroxa.com
+  context: guest's employer; data platform for orchestrating and integrating data
+- name: Reforge
+  type: course
+  url: https://www.reforge.com
+  context: Product Management Fundamentals course Sara completed and recommends
+- name: DataCamp
+  type: course
+  url: https://www.datacamp.com
+  context: data engineering courses Sara took to learn fundamentals
+- name: SQL
+  type: tool
+  context: hard requirement for data PMs; Sara queries the platform API database
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: optional language for building data apps and case studies
+- name: Zendesk
+  type: company
+  url: https://www.zendesk.com
+  context: helpdesk company where Sara moved into product design
+- name: Change.org
+  type: company
+  url: https://www.change.org
+  context: petition platform where Sara did A/B testing and growth work
+- name: Checkr
+  type: company
+  url: https://checkr.com
+  context: background check API company Sara worked for
+- name: Sora
+  type: company
+  context: HR data platform dealing with PII and compliance
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: docs requiring Docker make data tooling hard for PMs
 ---
 
 Links:

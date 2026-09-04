@@ -968,6 +968,77 @@ context: 'Context: A conversation with an AI-infrastructure practitioner about m
   trump brute-force scaling. - Decentralization (privacy, local control, edge) is
   often a matter of fit and trade-offs, not ideology. - Practical provisioning, automation,
   and orchestration are the unsolved scaling problems for non–AI-first organizations.'
+resources:
+- name: dstack
+  type: tool
+  url: https://dstack.ai/
+  context: Guest's open-source tool simplifying AI infrastructure setup
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io/
+  context: Deployment standard but not designed for AI workflows
+- name: PyTorch
+  type: tool
+  url: https://pytorch.org/
+  context: Meta's training framework, main choice for distributed training
+- name: Slurm
+  type: tool
+  url: https://slurm.schedmd.com/
+  context: Scheduler tailored for AI workflows, preferred over Kubernetes
+- name: NCCL
+  type: tool
+  url: https://developer.nvidia.com/nccl
+  context: GPU communication backend, bottleneck in frontier training
+- name: Amazon SageMaker
+  type: service
+  url: https://aws.amazon.com/sagemaker/
+  context: Mature MLOps platform where cost remains an issue
+- name: Hugging Face Hub
+  type: service
+  url: https://huggingface.co/
+  context: Where practitioners download open models like Llama
+- name: Transformers
+  type: tool
+  url: https://huggingface.co/docs/transformers
+  context: Package used to load models from the Hub
+- name: Docker
+  type: tool
+  url: https://www.docker.com/
+  context: Tool that made cloud development more predictable
+- name: Terraform
+  type: tool
+  url: https://www.terraform.io/
+  context: Infrastructure tool that made cloud development predictable
+- name: JetBrains
+  type: company
+  url: https://www.jetbrains.com/
+  context: Guest's employer of ten years, developer tools maker
+- name: Meta
+  type: company
+  url: https://meta.com/
+  context: Trained Llama 3.1 on 16,000 GPUs, releases technical reports
+- name: OpenAI
+  type: company
+  url: https://openai.com/
+  context: Proprietary AI service model that moved away from open-source
+- name: DeepSeek
+  type: company
+  url: https://deepseek.com/
+  context: Trained V3 model with a fraction of Meta's GPUs
+- name: Llama 3.1
+  type: other
+  context: Open-weights model with detailed public training report
+- name: Hetzner
+  type: company
+  url: https://www.hetzner.com/
+  context: German provider for renting bare-metal GPU machines
+- name: Attention Is All You Need
+  type: paper
+  url: https://arxiv.org/abs/1706.03762
+  context: Transformer paper cited as open sharing of details
+- name: The Three-Body Problem
+  type: book
+  context: Guest's favorite science fiction recommendation by Liu Cixin
 ---
 Links:
 

@@ -1537,6 +1537,28 @@ transcript:
   sec: 3565
   time: '59:25'
   who: Alexey
+resources:
+- name: Huberman Lab Podcast
+  type: other
+  url: https://hubermanlab.com
+  context: Main recommended resource on light, sleep, and hormones
+- name: Andrew Huberman
+  type: person
+  context: Neuroscientist whose light exposure protocols are discussed
+- name: Medito
+  type: tool
+  url: https://meditofoundation.org
+  context: Free open-source guided meditation app the guest uses
+- name: Meditations
+  type: book
+  context: Marcus Aurelius's stoic classic, recommended for mindset
+- name: Naval Ravikant
+  type: person
+  context: Investor who inspired a month of daily hour-long meditation
+- name: Notion
+  type: tool
+  url: https://www.notion.so
+  context: Dashboard the guest used for habit and productivity tracking
 ---
 
 Links:

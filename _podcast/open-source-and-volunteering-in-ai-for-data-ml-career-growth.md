@@ -1346,6 +1346,97 @@ context: Volunteering and community-driven open-source collaboration are the piv
   (hackathons, platforms, and pitches), and intentional networking you can build practical
   projects, gain mentors and referrals, and overcome resource constraints to bridge
   research and production.
+resources:
+- name: Omdena
+  type: community
+  url: https://www.omdena.com
+  context: 'Volunteer AI challenges: PTSD chatbot and trash detection projects'
+- name: FruitPunch AI
+  type: community
+  url: https://www.fruitpunch.ai
+  context: Structured volunteer AI projects, including cervical segmentation
+- name: Machine Learning (Stanford, Andrew Ng)
+  type: course
+  url: https://www.coursera.org/learn/machine-learning
+  context: First AI course that started the guest's journey
+- name: AI Wonder Girls
+  type: community
+  context: Community she co-founded; ladies teaming up for hackathons
+- name: LinkedIn
+  type: tool
+  url: https://www.linkedin.com
+  context: Main channel for opportunity hunting and networking
+- name: Twitter
+  type: tool
+  url: https://twitter.com
+  context: Where researchers hang out; used for finding opportunities
+- name: Google Colab
+  type: tool
+  url: https://colab.research.google.com
+  context: Free compute to leverage when resources are lacking
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Generative AI to brainstorm ideas and creative solutions
+- name: Open Images
+  type: dataset
+  url: https://storage.googleapis.com/openimages/web/index.html
+  context: Google's dataset mined for the trash recycling project
+- name: Google PhD Fellowship
+  type: other
+  context: Funding program; application strategy and benefits discussed
+- name: WIML (Women in Machine Learning)
+  type: community
+  context: Mailing list posting daily ML opportunities and PhD openings
+- name: NeurIPS
+  type: community
+  url: https://neurips.cc
+  context: Conference mailing list active around conference days
+- name: Google Scholar
+  type: tool
+  url: https://scholar.google.com
+  context: Search papers, then find researchers to follow on Twitter
+- name: Andrew Ng
+  type: person
+  context: His Stanford machine learning course started her AI journey
+- name: Gemini
+  type: service
+  url: https://gemini.google.com
+  context: Generative AI assistant for hackathon creativity
+- name: STEM-Away
+  type: company
+  context: Online internship classifying forum topics; became mentor
+- name: GDG (Google Developers Groups)
+  type: community
+  context: Google community involvement before applying to the fellowship
+- name: Reddit
+  type: tool
+  url: https://www.reddit.com
+  context: Mine complaints there for hackathon and startup ideas
+- name: Facebook
+  type: tool
+  url: https://www.facebook.com
+  context: Groups as a surprisingly good place to find opportunities
+- name: Microsoft
+  type: company
+  url: https://www.microsoft.com
+  context: Co-organized her first medical imaging hackathon
+- name: IBM
+  type: company
+  url: https://www.ibm.com
+  context: Was developing PTSD chatbots for military, enabling data access
+- name: Yann LeCun
+  type: person
+  context: Recalled his announcement about leaving Twitter
+- name: Rudradeb
+  type: person
+  context: Omdena founder whose posts introduced her to challenges
+- name: DSM-5
+  type: other
+  context: Psychiatric guideline behind PTSD chatbot suggestions
+- name: CAPS-5
+  type: other
+  context: Standard PTSD assessment referenced for chatbot resources
 ---
 Links:
 

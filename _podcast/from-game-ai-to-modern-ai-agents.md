@@ -1047,6 +1047,101 @@ context: 'Context: The episode follows a two-decade arc from game-AI research an
   evolutionary and learning-based search; and clear orchestration patterns—to modern
   LLMs and multi-agent systems, balancing creative capabilities with efficiency, tooling,
   and real-world deployability.'
+resources:
+- name: AI Agents in Action
+  type: book
+  url: https://www.manning.com/books/ai-agents-in-action
+  context: guest's book on AI agents; second edition in progress
+- name: Evolutionary Deep Learning
+  type: book
+  url: https://www.manning.com/books/evolutionary-deep-learning
+  context: guest's book combining deep learning with evolutionary algorithms
+- name: Generating Reality
+  type: book
+  context: guest's book on generative AI's impact on gaming
+- name: Vibe Coding for Games
+  type: book
+  context: guest's book teaching game development with AI assistance
+- name: OpenAI Agents SDK
+  type: tool
+  url: https://openai.github.io/openai-agents-python/
+  context: guest's preferred SDK with guardrails and handoffs for teaching agents
+- name: Model Context Protocol (MCP)
+  type: tool
+  url: https://modelcontextprotocol.io
+  context: Agents SDK integrates MCP servers for reasoning tasks
+- name: Sequential Thinking MCP Server
+  type: tool
+  context: MCP server used as a scratchpad where reasoning agents plan
+- name: Arize Phoenix
+  type: tool
+  url: https://phoenix.arize.com
+  context: recommended tool to monitor LLM communication and prompts
+- name: AutoGPT
+  type: tool
+  url: https://github.com/Significant-Gravitas/AutoGPT
+  context: platform example of direct agent-to-agent collaboration
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: used across the guest's books for vibe coding and agents
+- name: GPT-5
+  type: service
+  context: Pro variant built a full Spider Solitaire game and microservices
+- name: OpenAI
+  type: company
+  url: https://openai.com
+  context: GPT model family; identity verification for high-reasoning API access
+- name: Groq
+  type: service
+  url: https://groq.com
+  context: low-latency inference provider running an open-source OpenAI model
+- name: Z AI
+  type: company
+  url: https://z.ai
+  context: Chinese LLM provider whose model outperformed the host's agents
+- name: Richard Sutton
+  type: person
+  url: https://incompleteideas.net
+  context: reinforcement learning pioneer who introduced the guest to the field
+- name: David Silver
+  type: person
+  context: Sutton's student who carried reinforcement learning research to California
+- name: University of Alberta
+  type: company
+  url: https://www.ualberta.ca
+  context: historical capital of reinforcement learning research
+- name: Pokémon Go
+  type: other
+  url: https://pokemongolive.com
+  context: AR game the guest reverse engineered for a popular book
+- name: Unity
+  type: tool
+  url: https://unity.com
+  context: game engine background that helped the guest reverse engineer Pokémon Go
+- name: Pygame
+  type: tool
+  url: https://www.pygame.org
+  context: library for the guest's AI-assisted Python game development book
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: language taught in the AI-assisted game development book
+- name: Cursor
+  type: tool
+  url: https://cursor.com
+  context: AI editor where GPT-5 Mini works well for coding
+- name: Visual Studio Code
+  type: tool
+  url: https://code.visualstudio.com
+  context: editor where GPT-5 Mini works well for coding
+- name: Genetic Prompt Lab
+  type: tool
+  context: host's GitHub repo evolving prompts with genetic algorithms
+- name: Manning Publications
+  type: company
+  url: https://www.manning.com
+  context: publisher of the guest's books; early access availability discussed
 ---
 Links:
 

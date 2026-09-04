@@ -1277,6 +1277,63 @@ transcript:
   sec: 3626
   time: '1:00:26'
   who: Tereza
+resources:
+- name: Gender Decoder
+  type: tool
+  url: http://gender-decoder.katmatfield.com
+  context: Tool that flags gendered wording like 'rockstar' in job ads
+- name: PyLadies Hamburg
+  type: community
+  url: https://pyladies.com
+  context: Group guest co-founded for peer support in Hamburg
+- name: Python Software Foundation
+  type: company
+  url: https://www.python.org/psf/
+  context: Guest serves on its Code of Conduct and D&I working group
+- name: LinkedIn
+  type: tool
+  url: https://www.linkedin.com
+  context: Researching companies, teams, retention, and job listings
+- name: XING
+  type: tool
+  url: https://www.xing.com
+  context: German professional network; guest's employer and company-research source
+- name: Apache Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Where guest migrated mytaxi's legacy ETL pipelines
+- name: Elasticsearch
+  type: tool
+  url: https://www.elastic.co
+  context: Powered XING's recommender systems via smart queries
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: Dashboarding option on mytaxi's data analytics team
+- name: PostgreSQL
+  type: tool
+  url: https://www.postgresql.org
+  context: Legacy mytaxi ETL was PostgreSQL queries glued in Maven
+- name: Scala
+  type: tool
+  url: https://www.scala-lang.org
+  context: Language used for data science work at XING
+- name: Jupyter Notebook
+  type: tool
+  url: https://jupyter.org
+  context: Experiments that never bridged to production without a product mindset
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: Cited as an off-putting requirement in data scientist job ads
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Example technology crammed into vague job descriptions
+- name: Microsoft Excel
+  type: tool
+  url: https://www.microsoft.com/microsoft-365/excel
+  context: Legacy tool behind some companies' entire tech stacks
 ---
 Links:
 

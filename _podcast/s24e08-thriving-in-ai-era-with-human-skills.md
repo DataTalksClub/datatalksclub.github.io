@@ -956,6 +956,43 @@ transcript:
   sec: 3587
   time: '59:47'
   who: Alexey
+resources:
+- name: Designing Your Life
+  type: book
+  url: https://designingyour.life
+  context: Design-thinking career method the guest uses in workshops
+- name: Bill Burnett
+  type: person
+  context: Co-author of Designing Your Life
+- name: Dave Evans
+  type: person
+  context: Co-author of Designing Your Life
+- name: Claude
+  type: service
+  url: https://claude.ai
+  context: Used as copilot; can sit atop databases for questions
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Dictation mode suggested for career self-reflection
+- name: Bamshad Mobasher
+  type: person
+  context: Web personalization pioneer; guest's PhD advisor at DePaul
+- name: Adidas
+  type: company
+  url: https://www.adidas.com
+  context: Guest built customer data platform and personalization there
+- name: Zalando
+  type: company
+  url: https://www.zalando.de
+  context: Guest led product analytics and AI transformation efforts
+- name: Sky
+  type: company
+  context: Guest was chief data officer for Sky Germany
+- name: Delivery Hero
+  type: company
+  url: https://www.deliveryhero.com
+  context: Guest led marketing analytics in a domain-oriented setup
 ---
 
 Links:

@@ -1346,4 +1346,47 @@ transcript:
   sec: 4020
   time: '1:07:00'
   who: Alicja
+resources:
+- name: Zalando
+  type: company
+  url: https://www.zalando.com
+  context: Guest's former employer; recruited and sourced data scientists there
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: Main sourcing channel; filters, Boolean strings, market insights
+- name: LinkedIn Market Insights
+  type: service
+  context: Talent market data used to negotiate realistic job requirements
+- name: Glassdoor
+  type: service
+  url: https://www.glassdoor.com
+  context: Salary benchmarks candidates use to set expectations
+- name: Coursera
+  type: course
+  url: https://www.coursera.org
+  context: MOOC platform career changers use to retrain
+- name: Machine Learning by Andrew Ng
+  type: course
+  url: https://www.coursera.org/learn/machine-learning
+  context: Coursera course frequently listed on candidate CVs
+- name: NeurIPS
+  type: community
+  url: https://neurips.cc
+  context: ML conference where Zalando sourced candidates and reviewed papers
+- name: GitHub
+  type: tool
+  url: https://github.com
+  context: Sourcing channel, mainly for software engineers
+- name: Reddit
+  type: community
+  url: https://www.reddit.com
+  context: Mentioned as unconventional sourcing channel for geeky sourcers
+- name: Europass
+  type: other
+  url: https://europa.eu/europass/
+  context: EU CV format the guest advises candidates to avoid
+- name: WeAreKeen
+  type: company
+  context: Guest's current embedded talent agency in Berlin and Amsterdam
 ---

@@ -1230,6 +1230,51 @@ transcript:
   sec: 3673
   time: '1:01:13'
   who: Alexey
+resources:
+- name: PyData
+  type: community
+  url: https://pydata.org
+  context: Guest's PyData Berlin uplift talk; 2019 churn talk recommended
+- name: Statistical Rethinking
+  type: book
+  url: https://xcelab.net/rm/statistical-rethinking/
+  context: Strongly recommended intuitive Bayesian book with online lectures
+- name: Introduction to Algorithmic Marketing
+  type: book
+  url: https://algorithmicmarketing.org
+  context: Marketing domain overview, free online, with GitHub experiments
+- name: Think Bayes
+  type: book
+  url: https://allendowney.github.io/ThinkBayes2/
+  context: Formula-light Bayesian book the host brought up
+- name: Wolt
+  type: company
+  url: https://wolt.com
+  context: Guest leads marketing data science in its marketing tech team
+- name: HelloFresh
+  type: company
+  url: https://www.hellofresh.com
+  context: Guest supported the demand forecasting team during COVID
+- name: TD Reply
+  type: company
+  url: https://www.tdreply.com
+  context: Marketing consultancy where guest did attribution and time series work
+- name: Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Orchestration server needing engineering ownership when scaling up
+- name: XGBoost
+  type: tool
+  url: https://xgboost.ai
+  context: Go-to model when accuracy matters more than explainability
+- name: Apple
+  type: company
+  url: https://www.apple.com
+  context: iOS 14.5 privacy changes restricting tracking; revived aggregate modeling
+- name: juanitoorduz.github.io
+  type: other
+  url: https://juanitoorduz.github.io
+  context: Guest's blog with simulations of marketing data science
 ---
 
 Links:

@@ -1051,6 +1051,63 @@ transcript:
   sec: 3534
   time: '58:54'
   who: Lior
+resources:
+- name: Zalando
+  type: company
+  url: https://www.zalando.com
+  context: Where guest led the data transformation for marketing
+- name: Lovoo
+  type: company
+  url: https://www.lovoo.com
+  context: Dating app where guest was a data product manager
+- name: Cisco
+  type: company
+  url: https://www.cisco.com
+  context: Guest freelanced with its recruitment team on process analytics
+- name: Tale about Data
+  type: company
+  context: Guest's company helping companies set up data infrastructure quickly
+- name: What the Data?!
+  type: other
+  context: Guest's podcast interviewing data and business people
+- name: Data is Like a Plate of Hummus
+  type: book
+  context: Guest's book bridging data and business via cooking metaphors
+- name: OLX
+  type: company
+  url: https://www.olxgroup.com
+  context: Host's employer; moderators example of sitting with users
+- name: Slack
+  type: tool
+  url: https://slack.com
+  context: Cross-team chat rooms where remote communication happens
+- name: Donut
+  type: tool
+  url: https://donut.com
+  context: Slack app randomly connecting colleagues for cross-team chats
+- name: Microsoft Excel
+  type: tool
+  url: https://www.microsoft.com/en-us/microsoft-365/excel
+  context: Guest's 'kill Excel' philosophy; prototyping in spreadsheets first
+- name: SQL
+  type: tool
+  context: Language guest still writes; business people don't understand it
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Language the guest still codes in
+- name: R
+  type: tool
+  url: https://www.r-project.org
+  context: Language guest sometimes uses for queries
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: BI tool business people confuse with QuickSight
+- name: Amazon QuickSight
+  type: service
+  url: https://aws.amazon.com/quicksight/
+  context: AWS BI tool in the Tableau comparison
 ---
 
 

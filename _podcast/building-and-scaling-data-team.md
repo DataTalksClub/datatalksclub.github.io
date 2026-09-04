@@ -1317,6 +1317,47 @@ transcript:
   sec: 3624
   time: '1:00:24'
   who: Alexey
+resources:
+- name: Platanomelon
+  type: company
+  url: https://platanomelon.com/
+  context: Guest's company; data team serves marketing and e-commerce
+- name: Glovo
+  type: company
+  url: https://glovoapp.com/
+  context: Delivery company where guest started her data career
+- name: Data for Future
+  type: other
+  url: https://dataforfuture.org/
+  context: Guest's podcast on data and sustainability
+- name: Locally Optimistic
+  type: community
+  url: https://locallyoptimistic.com/
+  context: Data community she relies on for advice and learning
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com/
+  context: Transformation and testing to keep warehouse data reliable
+- name: Stitch
+  type: service
+  url: https://www.stitchdata.com/
+  context: ELT tool the team started with for data loading
+- name: Google Cloud Platform
+  type: service
+  url: https://cloud.google.com/
+  context: Cloud hosting the team's data stack
+- name: Google Data Studio
+  type: tool
+  url: https://lookerstudio.google.com/
+  context: BI and visualization layer for business dashboards
+- name: Notion
+  type: tool
+  url: https://www.notion.so/
+  context: Internal data wiki for analyses, dashboards, and workflows
+- name: Shopify
+  type: service
+  url: https://www.shopify.com/
+  context: E-commerce platform whose performance the team monitors
 ---
 
 

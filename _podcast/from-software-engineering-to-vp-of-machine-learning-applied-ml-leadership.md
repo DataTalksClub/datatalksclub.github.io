@@ -1253,6 +1253,48 @@ context: 'Context — A career arc from software engineer to VP of ML frames con
   hypotheses with simple baselines and demos, speaks the language of stakeholders,
   builds trust and reputation, communicates trade-offs clearly, and embeds ML into
   real user workflows so technical work directly drives measurable outcomes.'
+resources:
+- name: Rules of Machine Learning
+  type: other
+  url: https://developers.google.com/machine-learning/guides/rules-of-ml
+  context: Google's famous article contrasting with the guest's unwritten ML rules
+- name: Gradio
+  type: tool
+  url: https://gradio.app
+  context: Fast tool for demos and POCs used to sell ML projects
+- name: Streamlit
+  type: tool
+  url: https://streamlit.io
+  context: Mentioned alongside Gradio for quick proof-of-concept demos
+- name: Google Sheets
+  type: tool
+  context: Sometimes the quickest way to demo a basic POC
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: Guest posts his unwritten ML rules there daily
+- name: Wayfair
+  type: company
+  url: https://www.wayfair.com
+  context: Furniture retailer used to explain selling models and customer empathy
+- name: GoHealth
+  type: company
+  url: https://www.gohealth.com
+  context: Health insurance marketplace where the guest grew into leadership
+- name: Trunk Club
+  type: company
+  context: Guest's first employer; moved internally from software to data science
+- name: Fi
+  type: company
+  context: Guest's current company making smart dog collars
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: Full-stack ML means comfortably deploying models to web servers on AWS
+- name: Jupyter
+  type: tool
+  url: https://jupyter.org
+  context: Models left in Jupyter notebooks deliver no value
 ---
 Links:
 

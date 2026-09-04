@@ -760,6 +760,57 @@ context: 'Context: A Kaggle Grandmaster recounts a career arc from competitive m
   value and adapting competitive techniques to regional and organizational contexts.
   - New productivity tools (AutoML, generative AI) change how work is done but reinforce
   the need for sound validation and system design.'
+resources:
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Competition platform that launched the guest's career
+- name: Coursera
+  type: service
+  url: https://www.coursera.org
+  context: Hosts guest's course on winning Kaggle competitions, 100k students
+- name: Iterative.ai
+  type: company
+  url: https://iterative.ai
+  context: Open source ML tooling startup where guest worked; community supporter
+- name: MLEM
+  type: tool
+  url: https://github.com/iterative/mlem
+  context: Open source tool guest's team built at Iterative
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Learned at Mechanica AI on the path to full-stack ML
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: Learned at Mechanica AI on the path to full-stack ML
+- name: FastAPI
+  type: tool
+  url: https://fastapi.tiangolo.com
+  context: Learned at Mechanica AI on the path to full-stack ML
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Boosts productivity but cannot replace careful problem solving
+- name: Yandex
+  type: company
+  context: Guest worked as data scientist on ride-sharing services
+- name: Avito
+  type: company
+  context: Guest's first industry job as a data analyst
+- name: Mechanica AI
+  type: company
+  context: Industrial ML startup where guest learned production skills
+- name: CrowdAnalytix
+  type: community
+  context: Platform hosting the guest's first serious competition
+- name: Tinkoff
+  type: company
+  context: Company providing industry mentors for guest's classes
+- name: International AI Olympiad
+  type: community
+  context: Guest teaches teenagers machine learning for this olympiad
 ---
 Links:
 

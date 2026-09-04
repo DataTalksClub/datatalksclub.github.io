@@ -1309,6 +1309,85 @@ transcript:
   sec: 4435
   time: '1:13:55'
   who: Ben
+resources:
+- name: Databricks
+  type: company
+  url: https://www.databricks.com
+  context: Guest Ben Wilson's employer; field consulting on production ML
+- name: Apache Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Distributed computing for large-scale ML; costly cluster pitfalls discussed
+- name: Machine Learning Engineering in Action
+  type: book
+  url: https://www.manning.com/books/machine-learning-engineering-in-action
+  context: Guest's Manning book on getting ML projects into production
+- name: Horovod
+  type: tool
+  url: https://github.com/horovod/horovod
+  context: Distributed GPU training cited as unneeded complexity for churn prediction
+- name: TensorFlow
+  type: tool
+  url: https://www.tensorflow.org
+  context: Named for prototyping a cat-vs-dog CNN classifier
+- name: Keras
+  type: tool
+  url: https://keras.io
+  context: Paired with TensorFlow for CNN prototyping and CV specialization
+- name: scikit-learn
+  type: tool
+  url: https://scikit-learn.org
+  context: Simpler ML library to reach before jumping to deep learning
+- name: statsmodels
+  type: tool
+  url: https://www.statsmodels.org
+  context: Uncool statistical inference library that often solves the problem
+- name: XGBoost
+  type: tool
+  url: https://xgboost.ai
+  context: Model a well-rounded generalist should know how to implement and tune
+- name: OpenCV
+  type: tool
+  url: https://opencv.org
+  context: Computer vision tooling for specialization advice
+- name: Optuna
+  type: tool
+  url: https://optuna.org
+  context: Automated hyperparameter tuning suggested for a tuning sprint
+- name: Hyperopt
+  type: tool
+  url: https://hyperopt.github.io/hyperopt/
+  context: Automated hyperparameter tuning alongside Optuna
+- name: Apache Hadoop
+  type: tool
+  url: https://hadoop.apache.org
+  context: 10,000-node cluster behind an unrepeatable paper's Spark results
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: Cloud VMs whose monthly costs killed an over-engineered project
+- name: SQL
+  type: tool
+  context: Solve many ML use cases with plain SQL before reaching for ML
+- name: Criteo
+  type: company
+  url: https://www.criteo.com
+  context: Runs Europe's largest Hadoop cluster; gives Spark talks
+- name: SAS Institute
+  type: company
+  url: https://www.sas.com
+  context: Statistical training programs and tooling early in Ben's career
+- name: Andrew Ng
+  type: person
+  context: His courses deemed too demanding for busy managers
+- name: DataTalks.Club
+  type: community
+  url: https://datatalks.club
+  context: Recommended for asking experienced practitioners before choosing complex solutions
+- name: Adventures in Machine Learning
+  type: other
+  url: https://devchat.tv/adventures-in-machine-learning/
+  context: DevChat.TV podcast the guest co-hosts
 ---
 
 Links:

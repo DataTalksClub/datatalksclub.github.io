@@ -907,6 +907,39 @@ context: 'Context: An electrical-engineering researcher turned founder and freel
   (often manual) solutions, iterate fast using domain specialization and systems thinking,
   and pragmatically balance technical rigor with business constraints to turn research
   into real, sustainable products and freelance work.'
+resources:
+- name: DuckDB
+  type: tool
+  url: https://duckdb.org
+  context: Guest's favorite tool for local prototyping and pipelines
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Part of the guest's daily data engineering stack
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Used depending on the client in the guest's stack
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Guest's main language, about 90 percent of his work
+- name: C++
+  type: tool
+  url: https://isocpp.org
+  context: Used for industrial hardware and high-performance computing
+- name: Linux
+  type: tool
+  url: https://www.linux.org
+  context: Operating system in the guest's daily setup
+- name: Apache Kafka
+  type: tool
+  url: https://kafka.apache.org
+  context: Data source technology when integrating industrial machines
+- name: LinkedIn
+  type: tool
+  url: https://www.linkedin.com
+  context: Networking, sharing work, and the first freelance client lead
 ---
 Links:
 

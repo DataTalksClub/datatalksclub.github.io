@@ -805,6 +805,75 @@ transcript:
   sec: 3746
   time: '1:02:26'
   who: Eugene
+resources:
+- name: Jekyll
+  type: tool
+  url: https://jekyllrb.com
+  context: Simple static site framework behind his blog
+- name: GitHub Pages
+  type: service
+  url: https://pages.github.com
+  context: Where he hosts his Jekyll blog
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Competition that led to his first data science job
+- name: Georgia Tech OMSCS
+  type: course
+  url: https://omscs.gatech.edu
+  context: Online CS master's he completed while working
+- name: DataKind
+  type: company
+  url: https://www.datakind.org
+  context: NGO where he wrote his first report in 2015
+- name: Patrick McKenzie (patio11)
+  type: person
+  url: https://www.kalzumeus.com
+  context: Wrote whatever was on his mind until he found his niche
+- name: Hacker News
+  type: other
+  url: https://news.ycombinator.com
+  context: Where his posts sparked debate and reached the front page
+- name: Medium
+  type: service
+  url: https://medium.com
+  context: Recommended easy platform; tool matters less than writing
+- name: Substack
+  type: service
+  url: https://substack.com
+  context: Recommended hosted platform for starting to write
+- name: WordPress
+  type: tool
+  url: https://wordpress.org
+  context: Where he started blogging before self-hosting
+- name: Amazon
+  type: company
+  url: https://www.amazon.com
+  context: His employer; Working Backwards press-release process discussed
+- name: Amazon S3
+  type: service
+  url: https://aws.amazon.com/s3/
+  context: Its press release is his Working Backwards example
+- name: Lazada
+  type: company
+  url: https://www.lazada.com
+  context: Startup that hired him after a Kaggle meetup
+- name: Alibaba
+  type: company
+  url: https://www.alibaba.com
+  context: Acquired Lazada during his tenure
+- name: Netflix
+  type: company
+  url: https://www.netflix.com
+  context: Cited with Stitch Fix as embracing end-to-end data scientists
+- name: Stitch Fix
+  type: company
+  url: https://www.stitchfix.com
+  context: Company validating his full-stack data science view
+- name: IBM
+  type: company
+  url: https://www.ibm.com
+  context: Where he worked after MOOCs before Lazada
 ---
 
 Today we're discussing technical writing, logging, documentation, and more. Our special guest is [Eugene Yan](/people/eugeneyan). Eugene works at the intersection of machine learning and product, building pragmatic ML systems while writing and speaking about effective data science, ML in production, and career growth.

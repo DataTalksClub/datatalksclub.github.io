@@ -1007,6 +1007,63 @@ transcript:
   sec: 3684
   time: '1:01:24'
   who: Sandra
+resources:
+- name: 'GPT-3: The Ultimate Guide to Building Innovative NLP Products with Large Language Models'
+  type: book
+  context: Sandra's book on GPT-3 and building NLP products
+- name: OpenAI
+  type: company
+  url: https://openai.com
+  context: Company behind GPT models and the API
+- name: Cohere
+  type: company
+  url: https://cohere.com
+  context: Sandra builds community and LLM education there
+- name: GPT-3
+  type: tool
+  context: Central model of the discussion and of Sandra's book
+- name: GPT-4
+  type: tool
+  context: Newer model; cost, latency, and access trade-offs
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: Title generation and contract-review anecdotes
+- name: LLM University
+  type: course
+  url: https://cohere.com/llmu
+  context: Cohere's free course on large language model foundations
+- name: Claude
+  type: service
+  url: https://claude.ai
+  context: Example of a text-generation model besides GPT
+- name: Lablab.AI
+  type: community
+  url: https://lablab.ai
+  context: AI hackathon platform Sandra co-founded
+- name: Nextgrid
+  type: company
+  context: Startup accelerator Sandra co-founded
+- name: OpenAI Gym
+  type: tool
+  url: https://gym.openai.com
+  context: Early hackathon reinforcement learning environments
+- name: HyperWrite
+  type: service
+  url: https://www.hyperwriteai.com
+  context: Writing assistant Sandra uses daily for emails and posts
+- name: Jay Alammar
+  type: person
+  context: Cohere colleague writing a handbook for LLMs
+- name: Shubham Saboo
+  type: person
+  context: Co-author of Sandra's GPT-3 book
+- name: Cohere Coral
+  type: service
+  context: Chat assistant Sandra uses daily instead of ChatGPT
+- name: AI Dungeon
+  type: other
+  context: GPT-3-powered game Sandra played early on
 ---
 
 Links:

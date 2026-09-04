@@ -1244,6 +1244,99 @@ context: 'Search today is less about keywords and more about constructing a reli
   vector representations, embedding stores or vector databases, and LLMs—stitched
   together by careful ingestion, orchestration, prompt design, and human-in-the-loop
   evaluation—to deliver accurate, contextualized, and personalized answers.'
+resources:
+- name: Qdrant
+  type: tool
+  url: https://qdrant.tech/
+  context: vector database; guest is dev relations manager there
+- name: Apache Solr
+  type: tool
+  url: https://solr.apache.org/
+  context: guest's early search engine; now supports vector search
+- name: Elasticsearch
+  type: tool
+  url: https://www.elastic.co/elasticsearch/
+  context: mainstream engine; Qdrant API inspired by it
+- name: Apache Lucene
+  type: tool
+  url: https://lucene.apache.org/
+  context: underlying search library; gained vector support
+- name: OpenSearch
+  type: tool
+  url: https://opensearch.org/
+  context: supports vectors natively; guest's most recent project
+- name: LangChain
+  type: tool
+  url: https://www.langchain.com/
+  context: connectors and RAG orchestration; docs recommended
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com/
+  context: chatbot everyone wants; RAG grounds its answers
+- name: OpenAI
+  type: company
+  url: https://openai.com/
+  context: LLM API for RAG generation; ChatGPT and Whisper mentioned
+- name: Whisper
+  type: tool
+  url: https://github.com/openai/whisper
+  context: transcription model used in guest's podcast RAG project
+- name: Apache OpenNLP
+  type: tool
+  url: https://opennlp.apache.org/
+  context: project guest contributed to early in career
+- name: Introduction to Information Retrieval
+  type: book
+  url: https://nlp.stanford.edu/IR-book/
+  context: recommended classic introduction to information retrieval
+- name: Relevant Search
+  type: book
+  url: https://www.manning.com/books/relevant-search
+  context: recommended book on search relevance by Doug Turnbull
+- name: Human-in-the-Loop Machine Learning
+  type: book
+  url: https://www.manning.com/books/human-in-the-loop-machine-learning
+  context: Manning book by Robert Monarch, recommended for evaluation
+- name: Doug Turnbull
+  type: person
+  context: relevancy expert; Relevant Search author; gave DataTalks.Club talk
+- name: Lucidworks
+  type: company
+  url: https://lucidworks.com/
+  context: search consulting pioneer; guest's former employer
+- name: OpenSource Connections
+  type: company
+  url: https://opensourceconnections.com/
+  context: search consultancy focused on relevancy; guest's former employer
+- name: Berlin Buzzwords
+  type: community
+  url: https://berlinbuzzwords.de/
+  context: search conference where Lucidworks has a stand
+- name: Lucene/Solr Revolution
+  type: community
+  context: Lucidworks conference, later renamed Activate
+- name: Women of Search
+  type: community
+  context: diversity in tech group guest advocates for
+- name: Vector Hub
+  type: other
+  context: resource hub where guest will publish RAG content
+- name: Gensim
+  type: tool
+  url: https://radimrehurek.com/gensim/
+  context: early word vector implementation Alexey recalls
+- name: word2vec
+  type: tool
+  url: https://code.google.com/archive/p/word2vec/
+  context: classic embeddings; king - man + woman example
+- name: PostgreSQL
+  type: tool
+  url: https://www.postgresql.org/
+  context: vector search support in existing databases discussed
+- name: Rust
+  type: tool
+  url: https://www.rust-lang.org/
+  context: language guest trusts; Qdrant is written in it
 ---
 Links:
 

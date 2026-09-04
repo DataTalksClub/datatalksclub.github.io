@@ -1272,4 +1272,111 @@ transcript:
   sec: 3922
   time: '1:05:22'
   who: 'Theo:'
+resources:
+- name: Kubeflow
+  type: tool
+  url: https://www.kubeflow.org
+  context: Main topic; leading Kubernetes-based open-source ML platform
+- name: KServe
+  type: tool
+  url: https://kserve.io
+  context: Kubeflow serving component with explainers, drift and outlier detectors
+- name: Kubeflow Pipelines
+  type: tool
+  url: https://www.kubeflow.org/docs/components/pipelines/
+  context: Training pipeline component implementing TFX patterns
+- name: Feast
+  type: tool
+  url: https://feast.dev
+  context: Feature store from Gojek that joined the Kubeflow ecosystem
+- name: Katib
+  type: tool
+  url: https://www.kubeflow.org/docs/components/katib/
+  context: Kubeflow tool for hyperparameter optimization and neural architecture search
+- name: TFX (TensorFlow Extended)
+  type: tool
+  url: https://www.tensorflow.org/tfx
+  context: Google's production ML patterns behind Kubeflow Pipelines
+- name: ML Metadata (MLMD)
+  type: tool
+  url: https://github.com/google/ml-metadata
+  context: Joint TensorFlow/Kubeflow metadata store tracking model lineage
+- name: Tekton
+  type: tool
+  url: https://tekton.dev
+  context: Pipeline engine with language-agnostic container components
+- name: Argo
+  type: tool
+  url: https://argoproj.github.io
+  context: Workflow engine option for Kubeflow Pipelines, from Intuit
+- name: Kubernetes
+  type: tool
+  url: https://kubernetes.io
+  context: De facto workload platform; called the new Linux
+- name: Prometheus
+  type: tool
+  url: https://prometheus.io
+  context: Standard metrics system for drift and model monitoring
+- name: Grafana
+  type: tool
+  url: https://grafana.com
+  context: Dominant dashboarding tool for monitoring
+- name: Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Successful data orchestrator with Python-bound tasks
+- name: Apache Beam
+  type: tool
+  url: https://beam.apache.org
+  context: Abstracts data processing frameworks like Spark and Pandas
+- name: TensorFlow
+  type: tool
+  url: https://www.tensorflow.org
+  context: Production ML with TFX; popular paper implementation target
+- name: PyTorch
+  type: tool
+  url: https://pytorch.org
+  context: Framework researchers use to implement papers
+- name: Amazon SageMaker
+  type: service
+  url: https://aws.amazon.com/sagemaker/
+  context: Managed starting point; pipelines may run Kubeflow underneath
+- name: Amazon S3
+  type: service
+  url: https://aws.amazon.com/s3/
+  context: Model artifact location for simple KServe deployment
+- name: Google Cloud AI Platform
+  type: service
+  context: Managed Kubeflow-based ML services on Google Cloud
+- name: Jupyter
+  type: tool
+  url: https://jupyter.org
+  context: Manual notebook training equated with MLOps maturity level zero
+- name: Arrikto
+  type: company
+  context: Company behind a tool turning notebook cells into containers
+- name: Kale
+  type: tool
+  context: Arrikto tool converting notebook cells into containerized pipelines
+- name: MLOps maturity model (Google)
+  type: other
+  url: https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
+  context: Article defining MLOps maturity levels 0 to 2
+- name: MLOps maturity model (Microsoft)
+  type: other
+  url: https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-maturity-model
+  context: Article defining MLOps maturity levels 0 to 4
+- name: MLOps Roadmap 2025
+  type: other
+  context: Continuous Delivery Foundation/CNCF roadmap for MLOps adoption
+- name: TWIML
+  type: community
+  url: https://twimlai.com
+  context: Conference where every vendor was pushing MLOps
+- name: MLCon
+  type: community
+  context: Conference with many vendors jumping on the MLOps buzzword
+- name: Kubeflow Dojo
+  type: course
+  context: IBM's two-day Kubeflow training workshop
 ---

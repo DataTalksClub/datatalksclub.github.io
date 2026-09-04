@@ -1232,6 +1232,61 @@ transcript:
   sec: 3469
   time: '57:49'
   who: Stefan
+resources:
+- name: Sidekick Health
+  type: company
+  url: https://sidekickhealth.com/
+  context: Guest's company building gamified digital therapeutics
+- name: DeepMind
+  type: company
+  url: https://deepmind.google/
+  context: Praised for accessible research on AlphaFold and successors
+- name: AlphaFold
+  type: tool
+  url: https://deepmind.google/science/alphafold/
+  context: Protein folding breakthrough relevant to drug discovery
+- name: King
+  type: company
+  url: https://www.king.com/
+  context: Candy Crush maker where guest built the AI team
+- name: H&M
+  type: company
+  url: https://hmgroup.com/
+  context: Retailer where guest built an early machine learning function
+- name: Duolingo
+  type: service
+  url: https://www.duolingo.com/
+  context: Gamified language app cited for engagement and retention
+- name: Spotify
+  type: company
+  url: https://spotify.com/
+  context: Analogy for recommender system with an agenda
+- name: Netflix
+  type: company
+  url: https://www.netflix.com/
+  context: Example of collaborative filtering and content recommendations
+- name: Apple
+  type: company
+  url: https://www.apple.com/
+  context: Praised for switching privacy defaults to opt-in
+- name: Apache Airflow
+  type: tool
+  url: https://airflow.apache.org/
+  context: Pipeline tool example of premature over-engineering
+- name: Neuralink
+  type: company
+  url: https://neuralink.com/
+  context: Brain-computer interface company in listener question
+- name: Delphi
+  type: tool
+  url: https://www.embarcadero.com/products/delphi
+  context: Guest's first programming language, now rarely used
+- name: GDPR
+  type: other
+  context: EU privacy regulation shaping healthcare data handling
+- name: HIPAA
+  type: other
+  context: US health data privacy regulation considered very useful
 ---
 
 Links:

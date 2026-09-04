@@ -1742,6 +1742,89 @@ transcript:
   sec: 3689
   time: '1:01:29'
   who: Alexey
+resources:
+- name: Airbyte
+  type: tool
+  url: https://airbyte.com
+  context: Open source ELT platform; guest's company building connectors
+- name: dbt
+  type: tool
+  url: https://www.getdbt.com
+  context: Transformation tool integrated into Airbyte for SQL modeling
+- name: Snowflake
+  type: service
+  url: https://www.snowflake.com
+  context: Warehouse used in ingestion layer and data mart examples
+- name: Airflow
+  type: tool
+  url: https://airflow.apache.org
+  context: Orchestrator that schedules pipelines and runs Airbyte jobs
+- name: Fivetran
+  type: service
+  url: https://www.fivetran.com
+  context: Incumbent proprietary ELT competitor with limited connector long tail
+- name: Stitch
+  type: service
+  url: https://www.stitchdata.com
+  context: Incumbent ELT tool users supplement with custom scripts
+- name: Looker
+  type: tool
+  url: https://looker.google.com
+  context: Incumbent visualization tool for serving data marts
+- name: Superset
+  type: tool
+  url: https://superset.apache.org
+  context: Newer open source visualization tool in the modern stack
+- name: Tableau
+  type: tool
+  url: https://www.tableau.com
+  context: Established visualization incumbent in the modern data stack
+- name: Databricks
+  type: service
+  url: https://www.databricks.com
+  context: Warehouse option listed in the modern data stack
+- name: BigQuery
+  type: service
+  url: https://cloud.google.com/bigquery
+  context: Warehouse option listed in the modern data stack
+- name: Amazon Redshift
+  type: service
+  url: https://aws.amazon.com/redshift
+  context: Warehouse option listed in the modern data stack
+- name: Hightouch
+  type: service
+  url: https://www.hightouch.com
+  context: Reverse ETL tool syncing warehouse tables back to sources
+- name: Census
+  type: service
+  url: https://www.getcensus.com
+  context: Reverse ETL tool for pushing insights into operational systems
+- name: Salesforce
+  type: service
+  url: https://www.salesforce.com
+  context: CRM source in ETL examples and reverse ETL target
+- name: Google Ads
+  type: service
+  url: https://ads.google.com
+  context: Ad platform source in the customer acquisition cost example
+- name: Facebook Ads
+  type: service
+  context: Ad platform source ingested into the data warehouse
+- name: NetSuite
+  type: service
+  url: https://www.netsuite.com
+  context: Finance system example of an API data source
+- name: Elasticsearch
+  type: tool
+  url: https://www.elastic.co
+  context: Open source licensing story after AWS offered a managed service
+- name: AWS
+  type: company
+  url: https://aws.amazon.com
+  context: Re-released Elasticsearch as managed service, sparking licensing concerns
+- name: KeepTruckin
+  type: company
+  context: Guest's former IoT employer; stored video files in a data lake
 ---
 
 Links:

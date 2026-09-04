@@ -1241,6 +1241,97 @@ transcript:
   sec: 4090
   time: '1:08:10'
   who: Alexey
+resources:
+- name: Kaggle
+  type: tool
+  url: https://www.kaggle.com
+  context: Competitions and notebooks she used to practice and learn ML
+- name: ODS (Open Data Science)
+  type: community
+  url: https://ods.ai
+  context: Community where she found her new network and mentors
+- name: Machine Learning by Andrew Ng
+  type: course
+  url: https://www.coursera.org/learn/machine-learning
+  context: Stanford courses on Coursera she recommends before Kaggle
+- name: Andrew Ng
+  type: person
+  context: Instructor of the recommended Stanford machine learning and deep learning courses
+- name: Coursera
+  type: tool
+  url: https://www.coursera.org
+  context: Platform where she took machine learning and deep learning courses
+- name: Pramp
+  type: tool
+  url: https://www.pramp.com
+  context: Mock interview platform for practicing from the interviewer side
+- name: LeetCode
+  type: tool
+  url: https://leetcode.com
+  context: Coding exercises for timed interview preparation
+- name: MIT 6.006 Introduction to Algorithms
+  type: course
+  url: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
+  context: Recommended course on data structures and algorithms
+- name: Introduction to Algorithms
+  type: book
+  context: Cormen's famous algorithms book covered by the MIT course
+- name: Grokking the System Design Interview
+  type: course
+  context: Recommended late-stage course on scalable system design
+- name: Grokking Machine Learning Design
+  type: course
+  context: Mentioned but found too shallow to recommend
+- name: Docker
+  type: tool
+  url: https://www.docker.com
+  context: Minimum packaging step for end-to-end pet projects
+- name: Flask
+  type: tool
+  url: https://flask.palletsprojects.com
+  context: Option for serving ML models in production
+- name: FastAPI
+  type: tool
+  url: https://fastapi.tiangolo.com
+  context: Option for serving ML models in production
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Language she switched to from MATLAB for machine learning
+- name: Udacity
+  type: tool
+  url: https://www.udacity.com
+  context: Platform where she took a Python for data science course
+- name: pandas
+  type: tool
+  url: https://pandas.pydata.org
+  context: Data package covered in her Python course
+- name: NumPy
+  type: tool
+  url: https://numpy.org
+  context: Numeric package covered in her Python course
+- name: Omdena
+  type: community
+  url: https://www.omdena.com
+  context: Collaborative AI for good platform compared with Kaggle
+- name: CVPR
+  type: community
+  context: Her co-authored astronomy paper was accepted to a CVPR workshop
+- name: Google Cloud
+  type: service
+  url: https://cloud.google.com
+  context: Registration gives 300 dollars free credits usable for GPUs
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: Cloud credits occasionally given away for GPU access
+- name: MATLAB
+  type: tool
+  url: https://www.mathworks.com
+  context: Language she used in physics before moving to Python
+- name: SQL
+  type: tool
+  context: Short-course topic recommended for data analyst roles
 ---
 
 Links:

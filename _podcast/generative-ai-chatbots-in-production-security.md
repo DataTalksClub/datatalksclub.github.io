@@ -905,4 +905,47 @@ context: 'Context: Across a career-spanning conversation about linguistics, indu
   defenses, human oversight, and pragmatic product trade-offs—so systems can be safe,
   trustworthy, and useful despite hallucinations, manipulation, data-quality limits,
   and operational constraints.'
+resources:
+- name: ChatGPT
+  type: service
+  url: https://chatgpt.com
+  context: repeatedly tested for hallucinations, filter bypasses, and translation
+- name: OpenAI
+  type: company
+  url: https://openai.com
+  context: new model versions can break carefully crafted prompts
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: challenge participants wrote Python functions to extract hidden data
+- name: Google Translate
+  type: service
+  url: https://translate.google.com
+  context: host replaced it with ChatGPT for controllable translations
+- name: Siemens
+  type: company
+  url: https://www.siemens.com
+  context: guest's employer; ran 1,500-participant chatbot hacking challenge
+- name: BMW
+  type: company
+  url: https://www.bmw.com
+  context: guest began industry career in BMW's NLP group
+- name: Air Canada
+  type: company
+  url: https://www.aircanada.com
+  context: chatbot invented a discount the airline had to honor
+- name: Vodafone
+  type: company
+  url: https://www.vodafone.com
+  context: example of frustrating customer-service chatbots users avoid
+- name: Gartner Hype Cycle
+  type: other
+  url: https://www.gartner.com/en/research/methodologies/gartner-hype-cycle
+  context: pattern of hype giving way to practical AI adoption
+- name: Beowulf
+  type: book
+  context: cited as Old English epic in historical linguistics discussion
+- name: The Canterbury Tales
+  type: book
+  context: Middle English opening quoted to illustrate historical pronunciation
 ---

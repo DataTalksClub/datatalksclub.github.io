@@ -1360,6 +1360,57 @@ transcript:
   sec: 3582
   time: '59:42'
   who: Alexey
+resources:
+- name: N26
+  type: company
+  url: https://n26.com
+  context: Guest's first data science job at a Berlin fintech
+- name: Klarna
+  type: company
+  url: https://www.klarna.com
+  context: Guest's second employer; stricter hiring, Stockholm relocation
+- name: Johns Hopkins Data Science Specialization
+  type: course
+  url: https://www.coursera.org/specializations/jhu-data-science
+  context: Coursera specialization guest crammed before applying to jobs
+- name: Machine Learning (Andrew Ng)
+  type: course
+  url: https://www.coursera.org/learn/machine-learning
+  context: Course guest says everyone entering ML should take
+- name: Andrew Ng
+  type: person
+  context: Educator praised for explaining complex things simply
+- name: fast.ai
+  type: course
+  url: https://www.fast.ai
+  context: Recommended platform for learning deep learning
+- name: GetYourGuide
+  type: company
+  url: https://www.getyourguide.com
+  context: Target employer; guest admired its blog and product
+- name: Kaggle
+  type: community
+  url: https://www.kaggle.com
+  context: Source of datasets, ideas, and other people's solutions
+- name: LeetCode
+  type: tool
+  url: https://leetcode.com
+  context: Weekly pair-programming problems to improve coding
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Language the guest had to learn on the job
+- name: R
+  type: tool
+  url: https://www.r-project.org
+  context: Guest's native language; used for her N26 case study
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: Premium subscription helped research resume skill keywords
+- name: The Evolution and Ecology of Parasitology
+  type: book
+  context: Parasitology textbook the guest co-authored during her PhD
 ---
 
 Links:

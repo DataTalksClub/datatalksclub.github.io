@@ -1171,6 +1171,90 @@ transcript:
   sec: 3735
   time: '1:02:15'
   who: Ivan
+resources:
+- name: Claude Code
+  type: tool
+  context: Primary AI coding tool; dependency, limits, and cost concerns
+- name: Cursor
+  type: tool
+  url: https://cursor.com
+  context: Coding assistant; indexes codebases to speed agent context
+- name: Codex
+  type: tool
+  context: Alternative coding agent considered to reduce vendor lock-in
+- name: GitHub Copilot
+  type: tool
+  url: https://github.com/features/copilot
+  context: Rising costs and feature cuts cited as vendor risk
+- name: GitHub
+  type: tool
+  url: https://github.com
+  context: Hosts agent pull requests and CI; outage concerns
+- name: DORA metrics
+  type: other
+  url: https://dora.dev
+  context: Delivery performance metrics for measuring AI impact
+- name: Model Context Protocol
+  type: tool
+  url: https://modelcontextprotocol.io
+  context: Authentication and access control for AI agents
+- name: agents.md
+  type: tool
+  url: https://agents.md
+  context: Agent instruction files; host's CLAUDE.md points to one
+- name: OpenClaw
+  type: tool
+  context: Project where agents create, review, and reject PRs
+- name: Three Man Team
+  type: tool
+  context: GitHub project with developer, reviewer, and product agents
+- name: AWS Bedrock
+  type: service
+  url: https://aws.amazon.com/bedrock/
+  context: Cheaper orchestration layer for open-source models
+- name: Personio
+  type: company
+  url: https://www.personio.com
+  context: Guest's company; currently hiring junior engineers
+- name: Amazon
+  type: company
+  url: https://www.amazon.com
+  context: Now requires senior engineer review of AI-generated code
+- name: Uber
+  type: company
+  url: https://www.uber.com
+  context: Burned annual AI token budget with spend leaderboards
+- name: NLP Pandect
+  type: other
+  context: Guest's curated NLP encyclopedia repo on GitHub
+- name: AnythingLLM
+  type: tool
+  url: https://anythingllm.com
+  context: Plug in any LLM to experiment with the full pipeline
+- name: LlamaIndex
+  type: tool
+  url: https://www.llamaindex.ai
+  context: Open-source RAG tool for aspiring AI engineers
+- name: LangChain
+  type: tool
+  url: https://www.langchain.com
+  context: Open-source RAG tool for aspiring AI engineers
+- name: Haystack
+  type: tool
+  url: https://haystack.deepset.ai
+  context: Open-source RAG tool for aspiring AI engineers
+- name: SonarQube
+  type: tool
+  url: https://www.sonarsource.com/products/sonarqube/
+  context: Code complexity metrics, rarely used in industry
+- name: Hadoop
+  type: tool
+  url: https://hadoop.apache.org
+  context: Early-days analogy for today's agent orchestration complexity
+- name: Spark
+  type: tool
+  url: https://spark.apache.org
+  context: Converged big data tool that later became legacy
 ---
 
 Links:

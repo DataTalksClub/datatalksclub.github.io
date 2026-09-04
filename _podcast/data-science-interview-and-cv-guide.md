@@ -1055,6 +1055,36 @@ transcript:
   sec: 4194
   time: '1:09:54'
   who: Alexey
+resources:
+- name: NextRound
+  type: service
+  context: Guest's free service for practicing data science interviews with personalized feedback
+- name: Kaggle
+  type: tool
+  url: https://www.kaggle.com
+  context: Suggested source of datasets for cold-start portfolio projects
+- name: Glassdoor
+  type: other
+  url: https://www.glassdoor.com
+  context: Benchmarking salary offers before negotiating
+- name: Netflix Prize
+  type: other
+  context: Early data science competition that sparked guest's interest in recommenders
+- name: Medium
+  type: other
+  url: https://medium.com
+  context: Where guest published the blog post that landed him a job
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Guest built his demo recommender in Python; common CV keyword
+- name: SQL
+  type: tool
+  context: Product data science roles face SQL interviews with window functions
+- name: TensorFlow
+  type: tool
+  url: https://www.tensorflow.org
+  context: Example keyword recruiters scan for when screening CVs
 ---
 Links:
 

@@ -1177,6 +1177,43 @@ context: 'Context: A coach-led roadmap for technical career changers (often retu
   convert it into tangible evidence and relationships—using targeted projects, tailored
   applications, informational interviews, and a weekly, measurable outreach plan—to
   turn validated skills and clear storytelling into job offers.'
+resources:
+- name: LinkedIn
+  type: service
+  url: https://www.linkedin.com
+  context: Main platform for researching people and outreach messages
+- name: Gallup CliftonStrengths
+  type: service
+  context: Gallup strengths assessment recommended to identify top skills
+- name: HIGH5 Test
+  type: service
+  url: https://high5test.com
+  context: Free alternative strengths assessment recommended by guest
+- name: My Next Move
+  type: other
+  url: https://www.mynextmove.org
+  context: Website with interest tests for career and role guidance
+- name: Classy Career Girl
+  type: community
+  url: https://www.classycareergirl.com
+  context: Coaching community that supported guest's career transition
+- name: Feel the Fear and Do It Anyway
+  type: book
+  context: Book by Susan Jeffers recommended by the guest
+- name: The Success Principles
+  type: book
+  context: Book by Jack Canfield that helped the guest a lot
+- name: Awesome at Your Job
+  type: other
+  url: https://www.awesomeatyourjob.com
+  context: Career podcast recommended by the guest
+- name: Career Contessa
+  type: other
+  url: https://www.careercontessa.com
+  context: Another career podcast recommended by the guest
+- name: Mark Granovetter
+  type: person
+  context: Sociologist behind weak-ties research on finding jobs via contacts
 ---
 Links:
 

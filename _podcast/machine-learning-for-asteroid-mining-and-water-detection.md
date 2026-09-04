@@ -1231,6 +1231,92 @@ transcript:
   sec: 3699
   time: '1:01:39'
   who: Alexey
+resources:
+- name: Karman+
+  type: company
+  url: https://karmanplus.com
+  context: Guest's startup aiming to mine near-Earth asteroids for water
+- name: Minor Planet Center
+  type: dataset
+  url: https://www.minorplanetcenter.net
+  context: Database of record for asteroid and comet observations
+- name: JPL Horizons System
+  type: service
+  url: https://ssd.jpl.nasa.gov/horizons/
+  context: Well-documented APIs for solar system body data
+- name: NASA
+  type: company
+  url: https://www.nasa.gov
+  context: JPL asteroid catalogs, missions, and TopCoder competitions
+- name: NEOWISE
+  type: dataset
+  context: WISE satellite infrared survey data cataloged in the IRSA archive
+- name: IRSA
+  type: service
+  url: https://irsa.ipac.caltech.edu
+  context: Infrared Science Archive hosting the NEOWISE catalog
+- name: LIGO
+  type: other
+  url: https://www.ligo.org
+  context: Gravitational-wave detectors; glitch anecdote on signal vs noise
+- name: Hayabusa
+  type: other
+  context: JAXA sample-return missions from asteroid Ryugu; ground truth
+- name: OSIRIS-REx
+  type: other
+  context: NASA sample-return mission providing asteroid ground truth
+- name: ESA
+  type: company
+  url: https://www.esa.int
+  context: Public agency organizing asteroid observation data
+- name: TopCoder
+  type: company
+  url: https://www.topcoder.com
+  context: Hosted NASA asteroid-related data science competitions
+- name: AWS
+  type: service
+  url: https://aws.amazon.com
+  context: Planned cloud ecosystem for the company's infrastructure
+- name: Google Cloud
+  type: service
+  url: https://cloud.google.com
+  context: Cloud platform the guest has used before
+- name: Cloud Optimized GeoTIFF
+  type: other
+  url: https://www.cogeo.org
+  context: Convention to query image tiles without downloading whole files
+- name: STAC
+  type: other
+  url: https://stacspec.org
+  context: Spatiotemporal asset catalog spec for querying satellite imagery
+- name: Python
+  type: tool
+  url: https://www.python.org
+  context: Popular language in astronomy with open-source data packages
+- name: Jupyter
+  type: tool
+  url: https://jupyter.org
+  context: Notebooks used to tell the story of data
+- name: Google Scholar
+  type: tool
+  url: https://scholar.google.com
+  context: Suggested for finding papers to replicate and extend
+- name: SpaceX
+  type: company
+  url: https://www.spacex.com
+  context: Commercial rocket builder in the spacecraft ecosystem
+- name: Blue Origin
+  type: company
+  url: https://www.blueorigin.com
+  context: Commercial rocket builder in the spacecraft ecosystem
+- name: New Light Technologies
+  type: company
+  url: https://www.newlighttechnologies.com
+  context: Guest's former employer; potential partner for data engineering
+- name: GeoPhy
+  type: company
+  url: https://www.geophy.com
+  context: Company where the guest did remote sensing data work
 ---
 
 Links:
