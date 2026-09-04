@@ -2,10 +2,15 @@
 short: srivathsancanchi
 title: "Srivathsan Canchi"
 picture: "images/authors/srivathsancanchi.jpg"
+bio_short: "Srivathsan Canchi is the head of engineering for Intuit's real-time streaming data infrastructure. He previously led Intuit's Machine Learning platform, where his team open sourced the MLOps tools mlctl and baklava and built systems powering hundreds of ML models and hundreds of millions of predictions every day. Before Intuit, he built eBay's cloud platform-as-a-service, enabling thousands of services handling tens of billions of calls daily, with early Kubernetes adoption on-premise."
 github: srivathsanvc
 twitter: srivathsanvc
 linkedin: srivathsancanchi
 
 ---
 
-Srivathsan is the head of engineering for Intuit's real time streaming data infrastructure. He was most recently responsible for the Machine Learning platform at Intuit - his team was behind the open soucing of the MLOps tools mlctl and baklava. The ML Platform at Intuit powers 100s of ML models and performs 100s of millions of ML predictions every day. Prior to Intuit, he was responsible for building the cloud platform at eBay. His team built the cloud platform-as-a-service, enabling eBay to run 1000s of services handling 10s of Billions of calls every day. His team was one of the early contributors and adopters of Kubernetes in an on-premise environment.
+Srivathsan Canchi is an engineering leader specializing in large-scale data and machine learning infrastructure. At Intuit, he is the head of engineering for the company's real-time streaming data infrastructure. Previously, he was responsible for Intuit's Machine Learning platform, where his team built the systems that power hundreds of ML models and serve hundreds of millions of predictions every day, and open sourced the MLOps tools mlctl and baklava.
+
+Before Intuit, Srivathsan led the build-out of the cloud platform at eBay. His team created a platform-as-a-service that enabled eBay to run thousands of services handling tens of billions of calls every day, and was one of the early contributors and adopters of Kubernetes in an on-premise environment.
+
+He has shared this experience with the community through sessions such as the DataTalks.Club webinar Orchestrating Enterprise ML Workload Jobs Across Clouds, covering the practical challenges of running machine learning workloads at enterprise scale.
