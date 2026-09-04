@@ -1,0 +1,26 @@
+{
+  "slug": "datatalksclub-scaling-and-free-courses",
+  "resources": [
+    {"name": "Data Engineering Zoomcamp", "type": "course", "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp", "context": "Most popular free course with 24,000 registrations, organic growth"},
+    {"name": "Machine Learning Zoomcamp", "type": "course", "url": "https://github.com/DataTalksClub/machine-learning-zoomcamp", "context": "Flagship course with 8,000 registrations; inspired by free ODS course"},
+    {"name": "MLOps Zoomcamp", "type": "course", "url": "https://github.com/DataTalksClub/mlops-zoomcamp", "context": "One of the three original Zoomcamp courses"},
+    {"name": "LLM Zoomcamp", "type": "course", "url": "https://github.com/DataTalksClub/llm-zoomcamp", "context": "New course launched this year after community demand"},
+    {"name": "Stock Markets Analytics Zoomcamp", "type": "course", "url": "https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp", "context": "New finance course run by instructor Ivan; rerun planned"},
+    {"name": "Open Data Science", "type": "community", "url": "https://ods.ai", "context": "Russian-speaking ML community whose free courses inspired the Zoomcamps"},
+    {"name": "mlcourse.ai", "type": "course", "url": "https://mlcourse.ai", "context": "Free Open Data Science course that inspired Machine Learning Zoomcamp"},
+    {"name": "MLOps Community", "type": "community", "url": "https://mlops.community", "context": "Founders shared a community-building mastermind group with Alexey"},
+    {"name": "Locally Optimistic", "type": "community", "url": "https://locallyoptimistic.com", "context": "Data analyst community in the community mastermind group"},
+    {"name": "Coursera", "type": "service", "url": "https://www.coursera.org", "context": "Free courses that helped Alexey start in data science"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Generates horror stories; helps beginners start learning data science"},
+    {"name": "Django", "type": "tool", "url": "https://www.djangoproject.com", "context": "Powers the self-built course management platform"},
+    {"name": "GitHub Actions", "type": "tool", "url": "https://github.com/features/actions", "context": "Automates the story-generating podcast pipeline"},
+    {"name": "GitHub Pages", "type": "tool", "url": "https://pages.github.com", "context": "Hosts the automated horror stories website"},
+    {"name": "Amazon S3", "type": "service", "url": "https://aws.amazon.com/s3/", "context": "Stores photos feeding the storytelling pipeline"},
+    {"name": "DALL·E", "type": "service", "context": "Generates illustrations for the horror stories"},
+    {"name": "Kaggle", "type": "community", "url": "https://www.kaggle.com", "context": "Competitions where AutoML gives decent baseline models"},
+    {"name": "Azure AutoML", "type": "service", "context": "Produces a decent model from a CSV in AI-replacement discussion"},
+    {"name": "Google AutoML", "type": "service", "context": "Produces a decent model from a CSV in AI-replacement discussion"},
+    {"name": "Upwork", "type": "company", "url": "https://www.upwork.com", "context": "Scam warning: people asked to hand over Upwork accounts"},
+    {"name": "The Boy in the Striped Pajamas", "type": "book", "context": "Book Alexey is currently reading"}
+  ]
+}

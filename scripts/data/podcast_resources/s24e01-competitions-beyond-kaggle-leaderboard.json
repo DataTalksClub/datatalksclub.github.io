@@ -1,0 +1,28 @@
+{
+  "slug": "s24e01-competitions-beyond-kaggle-leaderboard",
+  "resources": [
+    {"name": "Kaggle", "type": "tool", "url": "https://www.kaggle.com", "context": "Central competition platform for learning and career growth"},
+    {"name": "Andrej Karpathy", "type": "person", "url": "https://karpathy.ai", "context": "Automated research idea; implementing neural nets from scratch"},
+    {"name": "Topcoder", "type": "tool", "url": "https://www.topcoder.com", "context": "Fairer Docker-based competition platform recommended for prizes"},
+    {"name": "AIcrowd", "type": "tool", "url": "https://www.aicrowd.com", "context": "Hosts research competitions like NeurIPS challenges with co-authorship"},
+    {"name": "NeurIPS", "type": "community", "url": "https://neurips.cc", "context": "Conference whose competition track yields co-authored papers"},
+    {"name": "CVPR", "type": "community", "url": "https://cvpr.thecvf.com", "context": "Guest presented pneumonia detection work at CVPR workshop"},
+    {"name": "MICCAI", "type": "community", "url": "https://www.miccai.org", "context": "Medical imaging conference that hosts research challenges"},
+    {"name": "Grand Challenges (grand-challenge.org)", "type": "tool", "url": "https://grand-challenge.org", "context": "Platform for smaller medical imaging competitions"},
+    {"name": "SpaceNet", "type": "dataset", "url": "https://spacenet.ai", "context": "Satellite imagery competitions hosted on Topcoder with prizes"},
+    {"name": "Sound Demixing Challenge", "type": "other", "context": "Music source separation challenge guest won; top teams published"},
+    {"name": "GitHub", "type": "tool", "url": "https://github.com", "context": "Competition repositories as portfolio artifacts that impressed employers"},
+    {"name": "arXiv", "type": "other", "url": "https://arxiv.org", "context": "Guest published competition write-ups as arXiv technical reports"},
+    {"name": "Coursera", "type": "service", "url": "https://www.coursera.org", "context": "Courses where guest first learned AI during maternity leave"},
+    {"name": "Claude", "type": "service", "url": "https://claude.ai", "context": "AI assistant for iterating on notebooks and pipelines"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Discussed for self-learning versus hands-on courses"},
+    {"name": "H2O", "type": "tool", "url": "https://h2o.ai", "context": "Early AutoML that failed to win Kaggle gold medals"},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "Example of tool Claude sets up without teaching expertise"},
+    {"name": "PyTorch", "type": "tool", "url": "https://pytorch.org", "context": "Available when Karpathy chose to build nets from scratch"},
+    {"name": "NumPy", "type": "tool", "url": "https://numpy.org", "context": "Karpathy's from-scratch neural network implementation medium"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Required submission format for Topcoder and SpaceNet competitions"},
+    {"name": "Google Cloud Platform", "type": "service", "url": "https://cloud.google.com", "context": "Guest struggled to run her first competition submissions on it"},
+    {"name": "Lyft", "type": "company", "context": "Kaggle self-driving competition whose repo led to job offer"},
+    {"name": "Problems in Mathematical Analysis (Demidovich)", "type": "book", "context": "Classic problem book cited for learning calculus by doing"}
+  ]
+}

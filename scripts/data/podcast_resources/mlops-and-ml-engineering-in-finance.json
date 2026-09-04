@@ -1,0 +1,26 @@
+{
+  "slug": "mlops-and-ml-engineering-in-finance",
+  "resources": [
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Recommended above everything for beginners and ML engineers"},
+    {"name": "Pandas", "type": "tool", "url": "https://pandas.pydata.org", "context": "Foundational data library whose API other tools adopt"},
+    {"name": "Polars", "type": "tool", "url": "https://pola.rs", "context": "Newer DataFrame library increasingly used instead"},
+    {"name": "PySpark", "type": "tool", "url": "https://spark.apache.org", "context": "Mentioned as offering a Pandas-like API"},
+    {"name": "FastAPI", "type": "tool", "url": "https://fastapi.tiangolo.com", "context": "Internal serving framework built on top of it"},
+    {"name": "MLflow", "type": "tool", "url": "https://mlflow.org", "context": "Strategic tool wanted over tactical S3 model registry"},
+    {"name": "Databricks", "type": "company", "url": "https://www.databricks.com", "context": "Strategic platform mentioned alongside MLflow"},
+    {"name": "Amazon S3", "type": "service", "url": "https://aws.amazon.com/s3/", "context": "S3 bucket as a simple tactical model registry"},
+    {"name": "OpenShift", "type": "tool", "url": "https://www.openshift.com", "context": "On-premise deployment cluster option in finance"},
+    {"name": "Hadoop", "type": "tool", "url": "https://hadoop.apache.org", "context": "Classical on-premise cluster used for current work"},
+    {"name": "JFrog Artifactory", "type": "tool", "url": "https://jfrog.com/artifactory/", "context": "Internal package registry mirroring public repositories"},
+    {"name": "Splunk", "type": "service", "url": "https://www.splunk.com", "context": "Centralized logging solution that is costly to replace"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "Example ML framework data scientists choose for projects"},
+    {"name": "PyTorch", "type": "tool", "url": "https://pytorch.org", "context": "Example ML framework data scientists choose for projects"},
+    {"name": "spaCy", "type": "tool", "url": "https://spacy.io", "context": "NLP library data scientists may use for extraction projects"},
+    {"name": "Jupyter", "type": "tool", "url": "https://jupyter.org", "context": "Spun up to analyze model prediction logs"},
+    {"name": "SQL", "type": "tool", "context": "Lasting skill recommended alongside Python"},
+    {"name": "Euroclear", "type": "company", "url": "https://www.euroclear.com", "context": "Guest's employer; securities settlement infrastructure explained"},
+    {"name": "SWIFT", "type": "company", "url": "https://www.swift.com", "context": "Network analogy explaining securities settlement infrastructure"},
+    {"name": "Data Makers Fest", "type": "community", "context": "Porto conference where guest gave his MLOps talk"},
+    {"name": "ML Ops on a Shoestring", "type": "other", "context": "Guest's talk on minimal viable MLOps, on YouTube"}
+  ]
+}

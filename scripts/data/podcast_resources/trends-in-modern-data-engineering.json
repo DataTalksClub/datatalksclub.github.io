@@ -1,0 +1,25 @@
+{
+  "slug": "trends-in-modern-data-engineering",
+  "resources": [
+    {"name": "dlt", "type": "tool", "url": "https://dlthub.com/docs", "context": "Main topic; standard for Python-based data ingestion"},
+    {"name": "dltHub", "type": "company", "url": "https://dlthub.com", "context": "Company behind dlt, co-founded by the guest"},
+    {"name": "Apache Iceberg", "type": "tool", "url": "https://iceberg.apache.org", "context": "Table format moving from hype to production in 2025"},
+    {"name": "DuckDB", "type": "tool", "url": "https://duckdb.org", "context": "Embeddable engine used in dlt for cheap local pipelines"},
+    {"name": "dbt", "type": "tool", "url": "https://www.getdbt.com", "context": "Changed data engineering by eliminating boilerplate code"},
+    {"name": "GitHub Actions", "type": "service", "url": "https://github.com/features/actions", "context": "Cheap serverless way to run entire data stacks"},
+    {"name": "Delta Lake", "type": "tool", "url": "https://delta.io", "context": "Most mature table format; dlt serves headless Delta Lake"},
+    {"name": "Apache Hudi", "type": "tool", "url": "https://hudi.apache.org", "context": "Table format similar to Iceberg but more specialized"},
+    {"name": "SQLMesh", "type": "tool", "url": "https://sqlmesh.com", "context": "Alternative doubling down on what dbt core offered"},
+    {"name": "Apache Airflow", "type": "tool", "url": "https://airflow.apache.org", "context": "Common workflow orchestration choice in 2025"},
+    {"name": "Prefect", "type": "tool", "url": "https://www.prefect.io", "context": "Popular workflow orchestration alternative"},
+    {"name": "Dagster", "type": "tool", "url": "https://dagster.io", "context": "Popular workflow orchestration alternative"},
+    {"name": "Apache Kafka", "type": "tool", "url": "https://kafka.apache.org", "context": "Common buffer for streaming pipelines"},
+    {"name": "Apache Flink", "type": "tool", "url": "https://flink.apache.org", "context": "Downstream tool for processing streamed data"},
+    {"name": "Apache Parquet", "type": "tool", "url": "https://parquet.apache.org", "context": "File format underlying Iceberg tables on S3"},
+    {"name": "Fivetran", "type": "service", "url": "https://www.fivetran.com", "context": "Modern data stack marketing example with Snowflake and Looker"},
+    {"name": "Snowflake", "type": "service", "url": "https://www.snowflake.com", "context": "Vendor example; processing everything there costs a fortune"},
+    {"name": "Looker", "type": "service", "url": "https://cloud.google.com/looker", "context": "Part of the modern data stack marketing bundle"},
+    {"name": "AWS Glue Catalog", "type": "service", "url": "https://aws.amazon.com/glue/", "context": "Example catalog mapping data to compute and access"},
+    {"name": "Amazon SQS", "type": "service", "url": "https://aws.amazon.com/sqs/", "context": "Common buffer for streaming alongside Kafka"}
+  ]
+}

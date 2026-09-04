@@ -1,0 +1,32 @@
+{
+  "slug": "from-semiconductor-data-to-applied-machine-learning",
+  "resources": [
+    {"name": "Machine Learning Zoomcamp", "type": "course", "url": "https://github.com/DataTalksClub/machine-learning-zoomcamp", "context": "Course he calls the best; changed his career trajectory"},
+    {"name": "MLOps Zoomcamp", "type": "course", "url": "https://github.com/DataTalksClub/mlops-zoomcamp", "context": "Gave deployment skills; revisits the Terraform module"},
+    {"name": "Microchip Technology", "type": "company", "url": "https://www.microchip.com", "context": "Semiconductor fab where he moved from production to data roles"},
+    {"name": "Kaggle", "type": "tool", "url": "https://www.kaggle.com", "context": "Source of butterfly and competition datasets for projects"},
+    {"name": "TensorFlow", "type": "tool", "url": "https://www.tensorflow.org", "context": "Framework used in the course and butterfly classification project"},
+    {"name": "PyTorch", "type": "tool", "url": "https://pytorch.org", "context": "Being added to the course; he finds it too verbose"},
+    {"name": "ONNX", "type": "tool", "url": "https://onnx.ai", "context": "Framework-agnostic model export replacing TensorFlow Lite in course"},
+    {"name": "Flask", "type": "tool", "url": "https://flask.palletsprojects.com", "context": "Serving models as REST APIs with simple authentication"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Essential deployment skill emphasized by the course"},
+    {"name": "Google Cloud", "type": "service", "url": "https://cloud.google.com", "context": "Cloud provider taught in the course with free credits"},
+    {"name": "AWS Lambda", "type": "service", "url": "https://aws.amazon.com/lambda/", "context": "Deployment target for his butterfly classification project"},
+    {"name": "Render", "type": "service", "url": "https://render.com", "context": "Hosted his COVID comorbidity midterm project API"},
+    {"name": "Terraform", "type": "tool", "url": "https://www.terraform.io", "context": "Relearned infrastructure automation from MLOps course session"},
+    {"name": "JMP", "type": "tool", "url": "https://www.jmp.com", "context": "Analytics software that moved him into yield engineering"},
+    {"name": "Oracle Database", "type": "tool", "url": "https://www.oracle.com/database/", "context": "Stored cleaned fab data; he built PL/SQL apps on it"},
+    {"name": "Java", "type": "tool", "url": "https://www.java.com", "context": "Built his CMP calculation tool UI with Java and JavaFX"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Language for his data cleaning scripts in the fab"},
+    {"name": "Anaconda", "type": "tool", "url": "https://www.anaconda.com", "context": "Environment setup covered in the course deployment process"},
+    {"name": "Cursor", "type": "tool", "url": "https://cursor.com", "context": "AI tool that generates Terraform files quickly"},
+    {"name": "Gemini", "type": "service", "url": "https://gemini.google.com", "context": "LLM assistant he uses for coding help"},
+    {"name": "PyCharm", "type": "tool", "url": "https://www.jetbrains.com/pycharm/", "context": "His preferred IDE for development"},
+    {"name": "Visual Studio Code", "type": "tool", "url": "https://code.visualstudio.com", "context": "Editor Alexey prefers with AI tools"},
+    {"name": "DataCamp", "type": "tool", "url": "https://www.datacamp.com", "context": "Platform he contrasts unfavorably with DataTalks courses"},
+    {"name": "Coursera", "type": "tool", "url": "https://www.coursera.org", "context": "School-provided platform whose courses stay in notebooks"},
+    {"name": "LinkedIn Learning", "type": "tool", "url": "https://www.linkedin.com/learning/", "context": "Learning platform available through his school"},
+    {"name": "React", "type": "tool", "url": "https://react.dev", "context": "Framework discussed for the AI-for-Devs LLM coding course"},
+    {"name": "AI for Devs", "type": "course", "context": "Upcoming DataTalks.Club course on LLM-powered coding"}
+  ]
+}

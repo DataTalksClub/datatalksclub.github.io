@@ -1,0 +1,19 @@
+{
+  "slug": "from-devops-to-data-engineering-automation-open-source-volunteering",
+  "resources": [
+    {"name": "Versatile Data Kit", "type": "tool", "url": "https://github.com/vmware/versatile-data-kit", "context": "VMware open-source project where the guest was community manager"},
+    {"name": "VMware", "type": "company", "context": "guest's open-source community manager employer; later laid off"},
+    {"name": "Erasmus+", "type": "other", "url": "https://erasmus-plus.ec.europa.eu/", "context": "EU youth volunteering program central to the guest's career break"},
+    {"name": "Accenture", "type": "company", "context": "boot camp and first job automating file migrations"},
+    {"name": "Nokia", "type": "company", "context": "internship that ended; interns moved into DevOps"},
+    {"name": "Myers-Briggs Type Indicator (MBTI)", "type": "other", "context": "personality typing discussed for teams and NGO events"},
+    {"name": "C++", "type": "tool", "context": "guest's favorite language from the Accenture boot camp"},
+    {"name": "Python", "type": "tool", "context": "guest's first project language and automation scripting"},
+    {"name": "Java", "type": "tool", "context": "language the guest tried learning but found too difficult"},
+    {"name": "Ruby", "type": "tool", "context": "language the guest had to learn on the go at work"},
+    {"name": "Data Makers Fest", "type": "community", "context": "Porto conference where the host and guest first met"},
+    {"name": "Open Bulgaria", "type": "other", "context": "volunteer project building a website for foreigners in Bulgaria"},
+    {"name": "Align Your Career With Who You Are", "type": "course", "context": "career coaching course the guest facilitated for two years"},
+    {"name": "Networking Premium", "type": "company", "context": "co-working space where the guest worked as community manager"}
+  ]
+}

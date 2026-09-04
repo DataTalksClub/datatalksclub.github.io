@@ -1,0 +1,24 @@
+{
+  "slug": "from-software-engineering-to-leading-data-science-teams",
+  "resources": [
+    {"name": "Apache Solr", "type": "tool", "url": "https://solr.apache.org", "context": "OLX search engine; autoscaling crashes on guest's first day led to decoupling"},
+    {"name": "The Manager's Path", "type": "book", "context": "Management book by an ex-Facebook engineer; recommended for new managers"},
+    {"name": "No Rules Rules: Netflix and the Culture of Reinvention", "type": "book", "context": "Netflix culture book by its founders; recommended for team leaders"},
+    {"name": "word2vec", "type": "tool", "url": "https://code.google.com/archive/p/word2vec/", "context": "Model behind reBuy's winning recommendation system built in 20% time"},
+    {"name": "Search Tech Community", "type": "community", "context": "Berlin search and recommendation meetup community co-founded by the guest"},
+    {"name": "Elasticsearch", "type": "tool", "url": "https://www.elastic.co", "context": "Lucene-based search technology the guest also worked with"},
+    {"name": "Apache Lucene", "type": "tool", "url": "https://lucene.apache.org", "context": "Inverted-index library powering both Solr and Elasticsearch"},
+    {"name": "Kotlin", "type": "tool", "url": "https://kotlinlang.org", "context": "Main language of OLX's decoupled search macro service"},
+    {"name": "OpenCV", "type": "tool", "url": "https://opencv.org", "context": "Computer vision library used in a car dent detection project"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Language of satellite services around the search macro service"},
+    {"name": "OLX", "type": "company", "url": "https://www.olxgroup.com", "context": "Guest's employer; search decoupling, EM role, then data science management"},
+    {"name": "ReBuy", "type": "company", "url": "https://www.rebuy.de", "context": "Former employer whose 20% pet-project time spawned the ML work"},
+    {"name": "Netflix", "type": "company", "url": "https://www.netflix.com", "context": "Culture principles discussed via its founders' book"},
+    {"name": "Toloka", "type": "company", "url": "https://toloka.ai", "context": "Human annotation crowdsourcing company co-organizing the bias-in-AI meetup"},
+    {"name": "Fraunhofer Institute", "type": "company", "url": "https://www.fraunhofer.de", "context": "German research institute where the guest did computer vision work"},
+    {"name": "AWS", "type": "service", "url": "https://aws.amazon.com", "context": "Where the recommendation model was hosted in production"},
+    {"name": "Sublime Text", "type": "tool", "url": "https://www.sublimetext.com", "context": "Where the guest famously kept his unsaved brag list"},
+    {"name": "Google Workspace", "type": "service", "url": "https://workspace.google.com", "context": "G Suite/Google Docs; guest's main tool and brag list home"},
+    {"name": "Microsoft Excel", "type": "tool", "context": "Guest's early data tool; still used as a manager"}
+  ]
+}

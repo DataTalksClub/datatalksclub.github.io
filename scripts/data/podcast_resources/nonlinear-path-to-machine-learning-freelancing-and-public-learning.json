@@ -1,0 +1,30 @@
+{
+  "slug": "nonlinear-path-to-machine-learning-freelancing-and-public-learning",
+  "resources": [
+    {"name": "Machine Learning Zoomcamp", "type": "course", "url": "https://github.com/DataTalksClub/machine-learning-zoomcamp", "context": "Live cohort course where sharing progress publicly led to job offers"},
+    {"name": "Upwork", "type": "service", "url": "https://www.upwork.com", "context": "Freelance platform where the guest landed his first statistics gigs"},
+    {"name": "LinkedIn", "type": "tool", "url": "https://www.linkedin.com", "context": "Posting course progress there attracted recruiters and clients"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Learned for a long-term freelance role, translating from R"},
+    {"name": "AWS", "type": "service", "url": "https://aws.amazon.com", "context": "Capstone projects dockerized and deployed on AWS step by step"},
+    {"name": "Meta", "type": "company", "context": "Recruiter outreach after LinkedIn posts led to a behavioral interview"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Subscription replaced Grammarly; pre-ChatGPT learning era references"},
+    {"name": "DeepLearning.AI", "type": "company", "url": "https://www.deeplearning.ai", "context": "Volunteered as course mentor, nearly turned into paid work"},
+    {"name": "AI Engineering", "type": "book", "context": "Chip Huyen's book quoted in a post, sparking online debate"},
+    {"name": "Chip Huyen", "type": "person", "url": "https://huyenchip.com", "context": "Author of the AI Engineering book quoted in a LinkedIn post"},
+    {"name": "Stack Overflow", "type": "community", "url": "https://stackoverflow.com", "context": "Compared for community corrections and strict question etiquette"},
+    {"name": "Code in Place", "type": "course", "url": "https://codeinplace.stanford.edu", "context": "Stanford initiative where the guest volunteers teaching coding"},
+    {"name": "Twitter", "type": "tool", "url": "https://twitter.com", "context": "Found ML Zoomcamp post there; later shared learning progress"},
+    {"name": "Notion", "type": "tool", "url": "https://www.notion.so", "context": "Used for structured course notes turned into posts"},
+    {"name": "Slack", "type": "tool", "url": "https://slack.com", "context": "Initial barrier when signing up for the course community"},
+    {"name": "Coursera", "type": "course", "url": "https://www.coursera.org", "context": "Self-paced platform used before discovering live cohort courses"},
+    {"name": "Udemy", "type": "course", "url": "https://www.udemy.com", "context": "Self-paced platform used before discovering live cohort courses"},
+    {"name": "Maven", "type": "course", "url": "https://maven.com", "context": "Example of increasingly popular live cohort course platforms"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Capstone projects were dockerized and deployed on AWS"},
+    {"name": "R", "type": "tool", "url": "https://www.r-project.org", "context": "Early freelance language before switching to Python"},
+    {"name": "SPSS", "type": "tool", "url": "https://www.ibm.com/products/spss-statistics", "context": "Point-and-click statistics tool from university classes"},
+    {"name": "Excel", "type": "tool", "context": "First data tool that landed early freelance roles"},
+    {"name": "Grammarly", "type": "service", "url": "https://www.grammarly.com", "context": "Canceled subscription after paying for ChatGPT"},
+    {"name": "Google Docs", "type": "tool", "url": "https://docs.google.com", "context": "Used with Notion for taking structured course notes"},
+    {"name": "OpenAI", "type": "company", "url": "https://openai.com", "context": "AI engineering described as building on top of models like OpenAI"}
+  ]
+}

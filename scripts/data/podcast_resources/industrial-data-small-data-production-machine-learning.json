@@ -1,0 +1,16 @@
+{
+  "slug": "industrial-data-small-data-production-machine-learning",
+  "resources": [
+    {"name": "Apache Spark", "type": "tool", "url": "https://spark.apache.org", "context": "Guest pivoted two terabytes of daily production data with it"},
+    {"name": "SECOM", "type": "dataset", "url": "https://archive.ics.uci.edu/dataset/179/secom", "context": "Realistic semiconductor sensor dataset for anomaly detection practice"},
+    {"name": "UCI Machine Learning Repository", "type": "other", "url": "https://archive.ics.uci.edu", "context": "Repository hosting the recommended semiconductor sensor dataset"},
+    {"name": "Robert Ghrist", "type": "person", "url": "https://www.math.upenn.edu/~ghrist/", "context": "Guest's first advisor, known for applied topology presentations"},
+    {"name": "MLOps Community", "type": "community", "url": "https://mlops.community", "context": "Guest explored whether MLOps practices fit small industrial data"},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "Deployment tooling typical of internet companies"},
+    {"name": "Apache Kafka", "type": "tool", "url": "https://kafka.apache.org", "context": "Streaming systems expected on the production-data side"},
+    {"name": "pandas", "type": "tool", "url": "https://pandas.pydata.org", "context": "Just loading CSVs with pandas is not enough here"},
+    {"name": "XGBoost", "type": "tool", "url": "https://xgboost.ai", "context": "Naive pandas-to-XGBoost pipeline fails on tiny industrial data"},
+    {"name": "Florida paint test", "type": "other", "context": "Long weathering test that makes paint experiments expensive"},
+    {"name": "XKCD", "type": "other", "url": "https://xkcd.com", "context": "Comic joke about fields ranked by purity, cited for mathematics"}
+  ]
+}

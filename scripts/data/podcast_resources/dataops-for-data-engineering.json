@@ -1,0 +1,16 @@
+{
+  "slug": "dataops-for-data-engineering",
+  "resources": [
+    {"name": "DataKitchen", "type": "company", "url": "https://www.datakitchen.io", "context": "Guest's company; DataOps platform and observability-first shift"},
+    {"name": "The DataOps Cookbook", "type": "book", "context": "Guest is co-author of this DataOps resource"},
+    {"name": "DataOps Manifesto", "type": "other", "url": "https://dataopsmanifesto.org", "context": "Guest is co-author of the manifesto"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "AI generation hype distracting from process improvement"},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "Audience question; complex, learn Docker first"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Recommended starting point before Kubernetes"},
+    {"name": "dbt", "type": "tool", "url": "https://www.getdbt.com", "context": "Adoption growing, yet heroism and fear persist"},
+    {"name": "Google Cloud Run", "type": "service", "url": "https://cloud.google.com/run", "context": "Serverless alternative simpler than Kubernetes"},
+    {"name": "SQL Server", "type": "tool", "url": "https://www.microsoft.com/en-us/sql-server", "context": "Pre-cloud stack the guest tuned into a columnar database"},
+    {"name": "Gartner", "type": "company", "url": "https://www.gartner.com", "context": "Reported DataOps teams are ten times more productive"},
+    {"name": "Agile Manifesto", "type": "other", "url": "https://agilemanifesto.org", "context": "2001 publication marking start of the Agile/DevOps timeline"}
+  ]
+}

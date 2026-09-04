@@ -1,0 +1,46 @@
+{
+  "slug": "solopreneur-developer-and-data-professional",
+  "resources": [
+    {
+      "name": "O'Reilly",
+      "type": "company",
+      "url": "https://www.oreilly.com",
+      "context": "Publisher and training platform guest works with on books and teaching"
+    },
+    {
+      "name": "Coursera",
+      "type": "service",
+      "url": "https://www.coursera.org",
+      "context": "Guest builds courses there, chosen for massive reach"
+    },
+    {
+      "name": "Python",
+      "type": "tool",
+      "url": "https://www.python.org",
+      "context": "Guest's teaching topic and multiprocessing analogy for parallel work"
+    },
+    {
+      "name": "Facebook",
+      "type": "company",
+      "url": "https://www.facebook.com",
+      "context": "Example of unethical company guest refuses to work for"
+    },
+    {
+      "name": "The Company of One",
+      "type": "book",
+      "context": "Book about intentionally small businesses, matching the solopreneur philosophy"
+    },
+    {
+      "name": "Paul Graham",
+      "type": "person",
+      "url": "https://paulgraham.com",
+      "context": "VC figure cited for the 'billionaires build' mindset"
+    },
+    {
+      "name": "YouTube",
+      "type": "service",
+      "url": "https://www.youtube.com",
+      "context": "Platform where guest publishes videos for distributed income"
+    }
+  ]
+}

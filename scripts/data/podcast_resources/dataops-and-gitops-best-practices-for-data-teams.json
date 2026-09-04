@@ -1,0 +1,27 @@
+{
+  "slug": "dataops-and-gitops-best-practices-for-data-teams",
+  "resources": [
+    {"name": "Terraform", "type": "tool", "url": "https://www.terraform.io", "context": "Infrastructure-as-code tool for defining AWS resources as configuration"},
+    {"name": "Terragrunt", "type": "tool", "url": "https://terragrunt.gruntwork.io", "context": "Wrapper that injects variables into Terraform code"},
+    {"name": "Atlantis", "type": "tool", "url": "https://www.runatlantis.io", "context": "GitOps tool showing Terraform dry-run plans on merge requests"},
+    {"name": "AWS", "type": "company", "url": "https://aws.amazon.com", "context": "Cloud provider; narrowing 200+ services to about 20 worth learning"},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "Debugging containerized Kinesis readers; not first choice for batch"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Image building, registries, and reproducibility with pinned versions"},
+    {"name": "GitLab", "type": "tool", "url": "https://about.gitlab.com", "context": "GitLab CI migration of roughly 600 Jenkins workloads; GitLab registry"},
+    {"name": "Jenkins", "type": "tool", "url": "https://www.jenkins.io", "context": "Legacy CI servers hosting ETL jobs, migrated away to GitLab CI"},
+    {"name": "Airflow", "type": "tool", "url": "https://airflow.apache.org", "context": "Green jobs with zero records inserted; pipeline caveat story"},
+    {"name": "Helm", "type": "tool", "url": "https://helm.sh", "context": "Chart used during a container debugging session that still failed"},
+    {"name": "Kubeflow", "type": "tool", "url": "https://www.kubeflow.org", "context": "Option for running ML workloads on Kubernetes"},
+    {"name": "Kaniko", "type": "tool", "url": "https://github.com/GoogleContainerTools/kaniko", "context": "Taught to teams instead of privileged-mode Docker runners"},
+    {"name": "psycopg", "type": "tool", "url": "https://www.psycopg.org", "context": "Unpinned Postgres driver version silently killed containers"},
+    {"name": "Grafana", "type": "tool", "url": "https://grafana.com", "context": "Dashboard SRE colleagues keep open to be proactive"},
+    {"name": "Prometheus", "type": "tool", "url": "https://prometheus.io", "context": "Monitoring tool named in minimal operational skills discussion"},
+    {"name": "New Relic", "type": "service", "url": "https://newrelic.com", "context": "Observability dashboard SREs keep open alongside Grafana"},
+    {"name": "OLX", "type": "company", "url": "https://www.olxgroup.com", "context": "Guest's employer; clickstream analytics and internal platform stories"},
+    {"name": "Andrew Ng", "type": "person", "context": "Cited on shift from model-centric to data-centric approach"},
+    {"name": "Werner Vogels", "type": "person", "context": "AWS CTO quoted that everything fails all the time"},
+    {"name": "Chris Bergh", "type": "person", "context": "Referenced talk defining DataOps; called grandfather of DataOps"},
+    {"name": "Good Enough Practices in Scientific Computing", "type": "paper", "url": "https://arxiv.org/abs/1609.00037", "context": "Article showing best-practice training only partially stuck"},
+    {"name": "roadmap.sh DevOps Roadmap", "type": "other", "url": "https://roadmap.sh/devops", "context": "Recommended learning roadmap, accurate for the data domain too"}
+  ]
+}

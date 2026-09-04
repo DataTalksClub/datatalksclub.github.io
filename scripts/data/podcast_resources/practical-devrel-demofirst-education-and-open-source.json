@@ -1,0 +1,26 @@
+{
+  "slug": "practical-devrel-demofirst-education-and-open-source",
+  "resources": [
+    {"name": "Kestra", "type": "tool", "url": "https://kestra.io", "context": "Workflow orchestration platform; guest is developer advocate"},
+    {"name": "Major League Hacking", "type": "community", "url": "https://mlh.io", "context": "Student hackathon league; guest was a representative"},
+    {"name": "MLH Fellowship", "type": "course", "url": "https://fellowship.mlh.io", "context": "Open-source program the guest helped run for three years"},
+    {"name": "Git", "type": "tool", "url": "https://git-scm.com", "context": "Real-world skill the guest learned at hackathons and taught"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Language career changers learned for the fellowship"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Featured in the Learn with Kestra video series"},
+    {"name": "PostgreSQL", "type": "tool", "url": "https://www.postgresql.org", "context": "Planned tutorial on automating data loads with Kestra"},
+    {"name": "uv", "type": "tool", "url": "https://docs.astral.sh/uv", "context": "New Python package manager the guest is reviewing in a video"},
+    {"name": "Apache Airflow", "type": "tool", "url": "https://airflow.apache.org", "context": "Open-source project fellowship students contributed to"},
+    {"name": "React", "type": "tool", "url": "https://react.dev", "context": "Large Meta project students learned to contribute to"},
+    {"name": "Flask", "type": "tool", "url": "https://flask.palletsprojects.com", "context": "Pallets project in the fellowship; students became maintainers"},
+    {"name": "Jinja", "type": "tool", "url": "https://jinja.palletsprojects.com", "context": "Pallets templating library used in fellowship projects"},
+    {"name": "TensorFlow", "type": "tool", "url": "https://www.tensorflow.org", "context": "Notoriously hard project the host tried to build"},
+    {"name": "Google Colab", "type": "service", "url": "https://colab.research.google.com", "context": "Workaround for students lacking GPU power"},
+    {"name": "Google Cloud", "type": "service", "url": "https://cloud.google.com", "context": "Subject of Kestra installation guide videos"},
+    {"name": "Amazon Web Services", "type": "service", "url": "https://aws.amazon.com", "context": "Host rented a large VM there to compile TensorFlow"},
+    {"name": "Microsoft Azure", "type": "service", "url": "https://azure.microsoft.com", "context": "Hackathon sponsor behind the Vision API demo"},
+    {"name": "Microsoft Computer Vision API", "type": "service", "context": "Analyzed photo emotions in the Willmojis hackathon project"},
+    {"name": "Meta", "type": "company", "url": "https://www.meta.com", "context": "Fellowship sponsor with React and other big projects"},
+    {"name": "Google Summer of Code", "type": "other", "url": "https://summerofcode.withgoogle.com", "context": "Comparable student open-source program the host missed"},
+    {"name": "Turn the Ship Around!", "type": "book", "context": "Leadership book that helped the guest empower student leaders"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "s23e06-data-engineer-career-in-2026-roles-specializations-and-what-companies-look-for",
+  "resources": [
+    {"name": "dbt", "type": "tool", "url": "https://www.getdbt.com", "context": "Industry standard for transformation; narrow dbt-only roles at risk"},
+    {"name": "Apache Airflow", "type": "tool", "url": "https://airflow.apache.org", "context": "Orchestration tool in the product data engineer skill set"},
+    {"name": "Apache Kafka", "type": "tool", "url": "https://kafka.apache.org", "context": "Industry standard, only worth it for true real-time needs"},
+    {"name": "Apache Spark", "type": "tool", "url": "https://spark.apache.org", "context": "Not legacy yet but too heavy for small teams"},
+    {"name": "DuckDB", "type": "tool", "url": "https://duckdb.org", "context": "Recommended simple engine for startup data stacks"},
+    {"name": "Snowflake", "type": "service", "url": "https://www.snowflake.com", "context": "Enterprise platform to adopt when scaling past simple stacks"},
+    {"name": "Databricks", "type": "service", "url": "https://www.databricks.com", "context": "Vendor platform that startups often buy too early"},
+    {"name": "Presto", "type": "tool", "url": "https://prestodb.io", "context": "Meta's open source engine; his pick for new projects"},
+    {"name": "Apache Superset", "type": "tool", "url": "https://superset.apache.org", "context": "Good open source visualization layer for lean stacks"},
+    {"name": "Apache Hadoop", "type": "tool", "url": "https://hadoop.apache.org", "context": "Symbol of the original big data hype era"},
+    {"name": "Amazon Athena", "type": "service", "url": "https://aws.amazon.com/athena/", "context": "Managed Presto on AWS; convenient vendor option"},
+    {"name": "Informatica", "type": "tool", "url": "https://www.informatica.com", "context": "Legacy ETL tool seen at tech-by-necessity companies"},
+    {"name": "SAP", "type": "company", "url": "https://www.sap.com", "context": "Enterprise stack typical of older, non-tech-native corporations"},
+    {"name": "Meta", "type": "company", "url": "https://www.meta.com", "context": "Guest's long tenure scaling data engineering for ads ranking"},
+    {"name": "Data Swarm", "type": "tool", "context": "Meta's internal orchestration framework, counterpart to Airflow"}
+  ]
+}

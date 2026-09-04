@@ -1,0 +1,25 @@
+{
+  "slug": "s23e03-future-of-ai-agents",
+  "resources": [
+    {"name": "Meta", "type": "company", "url": "https://www.meta.com", "context": "Guest's employer; Reels recommendation ranking and multi-agent work."},
+    {"name": "Google", "type": "company", "url": "https://www.google.com", "context": "Guest's former employer; new document extraction AI service."},
+    {"name": "Harvey", "type": "company", "url": "https://www.harvey.ai", "context": "Legal AI company whose adoption by lawyers is discussed."},
+    {"name": "Tom Mitchell", "type": "person", "context": "His CMU machine learning lecture hooked the guest on ML."},
+    {"name": "OpenAI", "type": "service", "url": "https://openai.com", "context": "API provider most practitioners default to over fine-tuning."},
+    {"name": "Anthropic", "type": "company", "url": "https://www.anthropic.com", "context": "Named alongside OpenAI as the API providers most companies use."},
+    {"name": "Claude", "type": "service", "url": "https://claude.ai", "context": "Tool investors want to adopt; model deprecation worries discussed."},
+    {"name": "Claude Code", "type": "tool", "context": "Coding assistant; user swearing at it signals frustration feedback."},
+    {"name": "Gemini", "type": "service", "url": "https://gemini.google.com", "context": "Guest finds it strong for legal and financial queries."},
+    {"name": "GitHub Copilot", "type": "service", "url": "https://github.com/features/copilot", "context": "Only service down in the GitHub outage anecdote."},
+    {"name": "GitHub", "type": "tool", "url": "https://github.com", "context": "Recent outage raised reliability questions for agentic services."},
+    {"name": "BERT", "type": "tool", "url": "https://arxiv.org/abs/1810.04805", "context": "Model Google worked on during the guest's time there."},
+    {"name": "Llama", "type": "tool", "url": "https://www.llama.com", "context": "Open model enterprises fine-tune instead of building from scratch."},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "Discussed for deploying agents as replicable microservices."},
+    {"name": "MongoDB", "type": "tool", "url": "https://www.mongodb.com", "context": "Example of DB companies adopted alongside cloud providers."},
+    {"name": "Redis", "type": "tool", "url": "https://redis.io", "context": "Standard database component companies adopt to focus on core work."},
+    {"name": "Stripe", "type": "service", "url": "https://stripe.com", "context": "Guardrail example: human review for high-value API calls."},
+    {"name": "Morgan Stanley", "type": "company", "url": "https://www.morganstanley.com", "context": "Research paper on building their own LLMs for finance."},
+    {"name": "Silicon Slopes", "type": "community", "url": "https://siliconslopes.com", "context": "Event where the guest spoke with investment firm people."},
+    {"name": "GDPR", "type": "other", "context": "European regulation motivating data lineage and deletion capabilities."}
+  ]
+}

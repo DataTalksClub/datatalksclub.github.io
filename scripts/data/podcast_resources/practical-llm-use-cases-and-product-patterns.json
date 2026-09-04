@@ -1,0 +1,22 @@
+{
+  "slug": "practical-llm-use-cases-and-product-patterns",
+  "resources": [
+    {"name": "Cohere", "type": "company", "url": "https://cohere.com", "context": "Company where the guest builds community and LLM education"},
+    {"name": "OpenAI", "type": "company", "url": "https://openai.com", "context": "Company behind GPT models; trademarked the GPT architecture"},
+    {"name": "GPT-3: The Ultimate Guide to Building Innovative NLP Products with Large Language Models", "type": "book", "context": "Guest's book with Shubham Saboo on building with GPT-3"},
+    {"name": "LLM University", "type": "course", "url": "https://cohere.com/llmu", "context": "Cohere's free course on large language model foundations"},
+    {"name": "Lablab.AI", "type": "community", "url": "https://lablab.ai", "context": "AI hackathon platform the guest co-founded; formerly Deep Learning Labs"},
+    {"name": "Nextgrid", "type": "company", "context": "Pre-seed startup accelerator the guest co-founded"},
+    {"name": "GPT-3", "type": "tool", "context": "Model the guest got access to via YouTube videos"},
+    {"name": "GPT-4", "type": "tool", "context": "Discussed regarding access, cost, and latency trade-offs"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Title generation and contract-review anecdotes"},
+    {"name": "Claude", "type": "service", "url": "https://claude.ai", "context": "Anthropic's text generation model; prompts don't transfer between models"},
+    {"name": "Cohere Command", "type": "service", "context": "Cohere's text generation model the guest optimizes prompts for"},
+    {"name": "Cohere Coral", "type": "service", "context": "Cohere assistant the guest now uses daily instead of ChatGPT"},
+    {"name": "OpenAI Gym", "type": "tool", "url": "https://gym.openai.com", "context": "Early hackathons trained reinforcement learning agents with it"},
+    {"name": "HyperWrite", "type": "service", "url": "https://www.hyperwriteai.com", "context": "Chrome extension email assistant the guest uses daily"},
+    {"name": "AI Dungeon", "type": "other", "context": "GPT-3-powered game the guest played early on"},
+    {"name": "Jay Alammar", "type": "person", "url": "https://jalammar.github.io", "context": "Cohere colleague writing a handbook for large language models"},
+    {"name": "Shubham Saboo", "type": "person", "context": "Co-author of the guest's GPT-3 book"}
+  ]
+}

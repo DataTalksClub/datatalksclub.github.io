@@ -1,0 +1,30 @@
+{
+  "slug": "how-to-transition-into-ml-and-data-engineering-from-qa",
+  "resources": [
+    {"name": "Machine Learning Zoomcamp", "type": "course", "url": "https://datatalks.club/machine-learning-zoomcamp.html", "context": "Guest's main structured ML course; his notes became a community reference"},
+    {"name": "Data Engineering Zoomcamp", "type": "course", "url": "https://datatalks.club/data-engineering-zoomcamp.html", "context": "Guest completed it and wrote extensive long-form notes"},
+    {"name": "MLOps Zoomcamp", "type": "course", "url": "https://datatalks.club/mlops-zoomcamp.html", "context": "Course the guest dropped out of after starting full-time work"},
+    {"name": "Neuromatch Academy", "type": "course", "url": "https://neuromatch.io", "context": "Nonprofit deep learning summer school guest joined after his postgraduate course"},
+    {"name": "Google Cloud", "type": "service", "url": "https://cloud.google.com", "context": "Guest deployed his projects using its generous free credits"},
+    {"name": "AWS", "type": "service", "url": "https://aws.amazon.com", "context": "Course exercises deploying TensorFlow in Lambda"},
+    {"name": "Microsoft Azure", "type": "service", "url": "https://azure.microsoft.com", "context": "Client's cloud platform behind the guest's production project"},
+    {"name": "Databricks", "type": "company", "url": "https://www.databricks.com", "context": "Production Python scripts run on a Databricks cluster"},
+    {"name": "Azure Data Factory", "type": "service", "url": "https://azure.microsoft.com/products/data-factory", "context": "Orchestrates the project's Python scripts and workflows"},
+    {"name": "AutoKeras", "type": "tool", "url": "https://autokeras.com", "context": "AutoML library that searches for the best model automatically"},
+    {"name": "Keras", "type": "tool", "url": "https://keras.io", "context": "Deep learning library used in the guest's production project"},
+    {"name": "TensorFlow", "type": "tool", "url": "https://www.tensorflow.org", "context": "Deployed to AWS Lambda during course exercises"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Main language across the guest's courses and current job"},
+    {"name": "pandas", "type": "tool", "url": "https://pandas.pydata.org", "context": "Featured in an interview question about dataframes exceeding memory"},
+    {"name": "GitHub", "type": "tool", "url": "https://github.com", "context": "Hosts the guest's course notes, gists, and portfolio"},
+    {"name": "Kaggle", "type": "community", "url": "https://www.kaggle.com", "context": "Portfolio-building option the guest considered before getting hired"},
+    {"name": "Apache Spark", "type": "tool", "url": "https://spark.apache.org", "context": "Named as a data engineering skill worth mastering"},
+    {"name": "Apache Kafka", "type": "tool", "url": "https://kafka.apache.org", "context": "Named as a data engineering skill worth mastering"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Mentioned in advice on moving between engineering tools"},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "Cited as the next tool to learn after Docker"},
+    {"name": "SciPy", "type": "tool", "url": "https://scipy.org", "context": "Library the guest looks up online instead of keeping gists"},
+    {"name": "VS Code", "type": "tool", "url": "https://code.visualstudio.com", "context": "Editor where the guest writes his Markdown notes"},
+    {"name": "Obsidian", "type": "tool", "url": "https://obsidian.md", "context": "Note-taking tool the guest hopes to explore someday"},
+    {"name": "Canva", "type": "tool", "url": "https://www.canva.com", "context": "Site the guest used to design his visual CV"},
+    {"name": "Microsoft SQL Server", "type": "tool", "url": "https://www.microsoft.com/en-us/sql-server", "context": "Azure SQL database where the guest's project writes results"}
+  ]
+}

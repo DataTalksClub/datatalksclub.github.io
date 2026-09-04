@@ -1,0 +1,17 @@
+{
+  "slug": "mlops-at-scale-reproducibility-adoption",
+  "resources": [
+    {"name": "Eneco", "type": "company", "url": "https://www.eneco.com", "context": "Guest's employer; central MLOps team enabling product teams"},
+    {"name": "MLOps Toolbelt", "type": "other", "context": "Guest's favorite framework enumerating required MLOps components"},
+    {"name": "Marvelous MLOps", "type": "other", "url": "https://marvelousmlops.com", "context": "Blog/content platform guest collaborated with; created the Toolbelt"},
+    {"name": "Databricks", "type": "company", "url": "https://www.databricks.com", "context": "Used for compute and earlier data lake projects"},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "Second deployment setup alongside Databricks"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Images built from internal Python packages"},
+    {"name": "Vertex AI", "type": "service", "url": "https://cloud.google.com/vertex-ai", "context": "Audience team experimented with it when starting MLOps"},
+    {"name": "Git", "type": "tool", "url": "https://git-scm.com", "context": "Version control; keep exploratory notebooks committed"},
+    {"name": "mypy", "type": "tool", "url": "https://mypy-lang.org", "context": "Type checker that frustrated data scientists during adoption"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Packaging used for dependency and configuration management"},
+    {"name": "Pandas", "type": "tool", "url": "https://pandas.pydata.org", "context": "Example shared dependency across deployed models"},
+    {"name": "NumPy", "type": "tool", "url": "https://numpy.org", "context": "Example dependency versioned alongside model deployments"}
+  ]
+}

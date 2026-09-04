@@ -1,0 +1,28 @@
+{
+  "slug": "from-startup-engineering-to-freelance-data-science",
+  "resources": [
+    {"name": "Upwork", "type": "service", "url": "https://www.upwork.com", "context": "Freelance platform where the guest finds ML and data clients"},
+    {"name": "Evidently AI", "type": "tool", "url": "https://www.evidentlyai.com", "context": "Data and concept drift monitoring; guest contributed a how-to"},
+    {"name": "The Lean Startup", "type": "book", "url": "https://theleanstartup.com", "context": "Build-measure-learn methodology the guest applies to products and ML"},
+    {"name": "Lean Analytics", "type": "book", "context": "Follow-up book focused on measurement and finding good metrics"},
+    {"name": "Designing Machine Learning Systems", "type": "book", "context": "Chip Huyen's book the guest was finishing and recommends"},
+    {"name": "Chip Huyen", "type": "person", "url": "https://huyenchip.com", "context": "Author of Designing Machine Learning Systems"},
+    {"name": "MLOps Zoomcamp", "type": "course", "url": "https://github.com/DataTalksClub/mlops-zoomcamp", "context": "Free course where the guest built his semiconductor project"},
+    {"name": "Data Engineering Zoomcamp", "type": "course", "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp", "context": "Streaming-focused course; guest built a YouTube metrics pipeline"},
+    {"name": "MLflow", "type": "tool", "url": "https://mlflow.org", "context": "Experiment tracking used in the MLOps course project"},
+    {"name": "Prefect", "type": "tool", "url": "https://www.prefect.io", "context": "Orchestrator the guest found easier than Airflow"},
+    {"name": "Grafana", "type": "tool", "url": "https://grafana.com", "context": "Dashboards used together with Evidently in the MLOps project"},
+    {"name": "Apache Airflow", "type": "tool", "url": "https://airflow.apache.org", "context": "Workflow scheduler Prefect was compared against"},
+    {"name": "Apache Kafka", "type": "tool", "url": "https://kafka.apache.org", "context": "Streaming technology used in the data engineering final project"},
+    {"name": "Confluent", "type": "service", "url": "https://www.confluent.io", "context": "The managed Kafka platform actually used in the final project"},
+    {"name": "BigQuery", "type": "service", "url": "https://cloud.google.com/bigquery", "context": "Destination for streaming YouTube video metrics"},
+    {"name": "Looker", "type": "service", "url": "https://cloud.google.com/looker", "context": "Dashboard layer on top of BigQuery in the final project"},
+    {"name": "YouTube API", "type": "service", "url": "https://developers.google.com/youtube", "context": "Pulled video metrics for the streaming pipeline; hit rate limits"},
+    {"name": "Twitter API", "type": "service", "context": "Scraping plan abandoned because developer approval took too long"},
+    {"name": "GitHub", "type": "tool", "url": "https://github.com", "context": "Where to host course projects for the freelance portfolio"},
+    {"name": "Hacktoberfest", "type": "community", "url": "https://hacktoberfest.com", "context": "Open source event that motivated the guest's Evidently contribution"},
+    {"name": "Nanometrisis", "type": "company", "context": "Startup providing nanoproduct inspection software; guest's employer"},
+    {"name": "Philips", "type": "company", "url": "https://www.philips.com", "context": "Dutch company linked to nanotech projects, spin-offs and razor edges"},
+    {"name": "Eindhoven University of Technology", "type": "company", "url": "https://www.tue.nl", "context": "University running the professional doctorate in engineering program"}
+  ]
+}

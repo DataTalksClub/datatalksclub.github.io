@@ -1,0 +1,25 @@
+{
+  "slug": "s24e04-from-genai-pilots-to-production",
+  "resources": [
+    {"name": "Amazon Bedrock", "type": "service", "url": "https://aws.amazon.com/bedrock/", "context": "Foundation model access, managed guardrails, and agent building blocks"},
+    {"name": "Amazon Web Services", "type": "company", "url": "https://aws.amazon.com", "context": "Guest's employer; GenAI Innovation Center customer projects discussed"},
+    {"name": "Claude", "type": "service", "url": "https://claude.ai", "context": "Frontier model; Claude Opus overkill for time series forecasting"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Its release sparked enterprise GenAI interest; generates synthetic contracts"},
+    {"name": "Rules of Machine Learning", "type": "other", "url": "https://developers.google.com/machine-learning/guides/rules-of-ml", "context": "Google doc cited: start without ML, simplest tool first"},
+    {"name": "Building Effective Agents", "type": "other", "context": "Anthropic blog posts: you need workflows, not agents"},
+    {"name": "Qwen", "type": "tool", "context": "Open-source model family considered for fine-tuning and guardrails"},
+    {"name": "Llama", "type": "tool", "url": "https://www.llama.com", "context": "Open-source model family considered for fine-tuning"},
+    {"name": "Amazon Nova", "type": "tool", "context": "Amazon's foundation model family used in engagements"},
+    {"name": "BERT", "type": "tool", "context": "Smaller classifier worth fine-tuning for classification and extraction"},
+    {"name": "OpenSearch", "type": "tool", "url": "https://opensearch.org", "context": "Vector store for document-based GenAI architectures"},
+    {"name": "AWS Lambda", "type": "service", "url": "https://aws.amazon.com/lambda/", "context": "Where agent tools get deployed; needs logging and monitoring"},
+    {"name": "Zalando", "type": "company", "url": "https://corporate.zalando.com", "context": "Newsletter translation and localization project partner"},
+    {"name": "Windward", "type": "company", "url": "https://www.windward.ai", "context": "Maritime analytics; agentic anomaly explanation project"},
+    {"name": "Bundesliga", "type": "company", "url": "https://www.bundesliga.com", "context": "AWS partnership powering smart match statistics and live ticker"},
+    {"name": "Adidas", "type": "company", "url": "https://www.adidas.com", "context": "Demand forecasting customer in the guest's first Amazon project"},
+    {"name": "Grammarly", "type": "service", "url": "https://www.grammarly.com", "context": "Writing assistant both speakers dropped after GenAI tools"},
+    {"name": "DeepL", "type": "service", "url": "https://www.deepl.com", "context": "Translation service for quick personal double-checks"},
+    {"name": "Google Translate", "type": "service", "url": "https://translate.google.com", "context": "Lacks context for Zalando newsletter localization"},
+    {"name": "LeetCode", "type": "tool", "url": "https://leetcode.com", "context": "Style of coding interviews for Amazon science roles"}
+  ]
+}

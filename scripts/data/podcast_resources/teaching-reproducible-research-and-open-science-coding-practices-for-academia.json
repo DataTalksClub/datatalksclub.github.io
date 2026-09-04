@@ -1,0 +1,33 @@
+{
+  "slug": "teaching-reproducible-research-and-open-science-coding-practices-for-academia",
+  "resources": [
+    {"name": "The Turing Way", "type": "book", "url": "https://the-turing-way.netlify.app", "context": "Reproducible research Jupyter book by the Alan Turing Institute"},
+    {"name": "The Carpentries", "type": "community", "url": "https://carpentries.org", "context": "Structured beginner software courses; she is an instructor trainee"},
+    {"name": "MLflow", "type": "tool", "url": "https://mlflow.org", "context": "Experiment tracking she learned from industry and now uses"},
+    {"name": "Git", "type": "tool", "url": "https://git-scm.com", "context": "Core tool taught in her open science course"},
+    {"name": "GitHub", "type": "tool", "url": "https://github.com", "context": "Hosting code, checking trending repos, publishing toolboxes"},
+    {"name": "Cookiecutter", "type": "tool", "url": "https://github.com/cookiecutter/cookiecutter", "context": "Templates that scaffold project folder structure"},
+    {"name": "Papers With Code", "type": "other", "url": "https://paperswithcode.com", "context": "Papers sharing code get more citations and recognition"},
+    {"name": "Brainhack", "type": "community", "url": "https://brainhack.org", "context": "Neuroscience hackathon that drew her into open science"},
+    {"name": "Alan Turing Institute", "type": "company", "url": "https://www.turing.ac.uk", "context": "Publishes the Turing Way; a community she is part of"},
+    {"name": "Research Software Engineering community", "type": "community", "context": "Community with Australian, German, UK and global chapters"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "Repo she is preparing to contribute to; good contributor docs"},
+    {"name": "Black", "type": "tool", "url": "https://black.readthedocs.io", "context": "Python code formatter she adopted for formatting standards"},
+    {"name": "Flake8", "type": "tool", "url": "https://flake8.pycqa.org", "context": "Python linting tool for code formatting standards"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Language for her analysis and interactive figures"},
+    {"name": "R", "type": "tool", "url": "https://www.r-project.org", "context": "Language she also uses for analysis"},
+    {"name": "RStudio", "type": "tool", "url": "https://posit.co", "context": "Where she published an interactive figure via R Markdown"},
+    {"name": "RPubs", "type": "service", "url": "https://rpubs.com", "context": "Free R Markdown publishing with monthly usage limits"},
+    {"name": "Google Colab", "type": "service", "url": "https://colab.research.google.com", "context": "Suggested free option for hosting reproducible papers"},
+    {"name": "AWS", "type": "service", "url": "https://aws.amazon.com", "context": "Paid hosting option researchers would need for figures"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Reproducible papers should not require readers to run it"},
+    {"name": "NumPy", "type": "tool", "url": "https://numpy.org", "context": "Massive repository that intimidates new contributors"},
+    {"name": "Kaggle", "type": "community", "url": "https://www.kaggle.com", "context": "Community she belongs to, with an unofficial Slack"},
+    {"name": "Machine Learning Solutions Architect Handbook", "type": "book", "context": "Packt book she reviewed and recommends for its exercises"},
+    {"name": "MLOps Podcast", "type": "other", "context": "Podcast community she follows"},
+    {"name": "NASA", "type": "company", "url": "https://www.nasa.gov", "context": "She developed an open science curriculum for it"},
+    {"name": "MathWorks", "type": "company", "url": "https://www.mathworks.com", "context": "Company she worked for; the MATLAB vendor"},
+    {"name": "MATLAB", "type": "tool", "url": "https://www.mathworks.com/products/matlab.html", "context": "Language ecosystem of MathWorks where she worked"},
+    {"name": "SPSS", "type": "tool", "url": "https://www.ibm.com/products/spss-statistics", "context": "Click-based statistics tool blamed for irreproducible analyses"}
+  ]
+}

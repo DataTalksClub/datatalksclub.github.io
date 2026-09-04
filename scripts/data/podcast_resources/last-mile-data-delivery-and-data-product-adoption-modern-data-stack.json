@@ -1,0 +1,14 @@
+{
+  "slug": "last-mile-data-delivery-and-data-product-adoption-modern-data-stack",
+  "resources": [
+    {"name": "Locally Optimistic", "type": "community", "url": "https://locallyoptimistic.com", "context": "Slack community for data practitioners co-founded by the guest"},
+    {"name": "dbt", "type": "tool", "url": "https://www.getdbt.com", "context": "Transformation tool cited in the modern data stack railroad analogy"},
+    {"name": "Amazon Redshift", "type": "service", "url": "https://aws.amazon.com/redshift/", "context": "Warehouse whose emergence marked the modern data stack era"},
+    {"name": "Zapier", "type": "service", "url": "https://zapier.com", "context": "Example of abstracting technical power for non-technical users"},
+    {"name": "How to Win Friends and Influence People", "type": "book", "context": "Classic on influence recommended, with some reservations"},
+    {"name": "Getting Things Done", "type": "book", "context": "Named as another polarizing classic people love or hate"},
+    {"name": "Amazon", "type": "company", "context": "Attributed the working backwards press release product principle"},
+    {"name": "Emilie Schario", "type": "person", "context": "Credited advice on driving data change via narrow slices"},
+    {"name": "Alexis Johnson Gresham", "type": "person", "context": "Co-author of guest's blog posts on linear versus circular projects"}
+  ]
+}

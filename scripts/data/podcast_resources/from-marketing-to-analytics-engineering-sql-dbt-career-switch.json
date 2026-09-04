@@ -1,0 +1,28 @@
+{
+  "slug": "from-marketing-to-analytics-engineering-sql-dbt-career-switch",
+  "resources": [
+    {"name": "dbt", "type": "tool", "url": "https://www.getdbt.com", "context": "guest led its migration; tool synonymous with analytics engineering"},
+    {"name": "Ecosia", "type": "company", "url": "https://www.ecosia.org", "context": "tree-planting search engine; guest moved from marketing to BI there"},
+    {"name": "Snowplow", "type": "tool", "url": "https://snowplow.io", "context": "open-source tracker collecting user event data"},
+    {"name": "Looker", "type": "tool", "url": "https://cloud.google.com/looker", "context": "BI tool the guest migrated to; learned LookML before SQL"},
+    {"name": "Tableau", "type": "tool", "url": "https://www.tableau.com", "context": "previous BI tool the company switched away from"},
+    {"name": "Amazon Redshift", "type": "service", "url": "https://aws.amazon.com/redshift/", "context": "warehouse balanced against S3 in hot-cold storage setup"},
+    {"name": "Amazon S3", "type": "service", "url": "https://aws.amazon.com/s3/", "context": "cold storage holding parquet files for cost optimization"},
+    {"name": "Apache Airflow", "type": "tool", "url": "https://airflow.apache.org", "context": "orchestration for extraction and loading operations"},
+    {"name": "Airbyte", "type": "tool", "url": "https://airbyte.com", "context": "recently adopted to extract from common API sources"},
+    {"name": "Redash", "type": "tool", "url": "https://redash.io", "context": "open-source visualization tool for ad hoc queries"},
+    {"name": "SQL", "type": "tool", "context": "main skill required to join the BI team"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "recommended skill; course taken but barely used"},
+    {"name": "Microsoft Excel", "type": "tool", "context": "first recommended tool: pivot tables and functions"},
+    {"name": "Udemy", "type": "service", "url": "https://www.udemy.com", "context": "platform for the guest's 12-euro SQL course"},
+    {"name": "The Complete Guide to SQL", "type": "course", "context": "Colt Steele's Udemy course; the guest's only SQL course"},
+    {"name": "Colt Steele", "type": "person", "context": "instructor of the SQL and Python courses the guest took"},
+    {"name": "The Data Warehouse Toolkit (Kimball)", "type": "book", "url": "https://www.kimballgroup.com", "context": "classic data modeling textbook the guest found too dry"},
+    {"name": "PyLadies", "type": "community", "url": "https://pyladies.com", "context": "support group for women and minorities in tech"},
+    {"name": "dbt Community Slack", "type": "community", "url": "https://www.getdbt.com/community", "context": "extensive Slack with city-specific groups the guest follows"},
+    {"name": "Lenny's Newsletter", "type": "other", "url": "https://www.lennysnewsletter.com", "context": "product-analytics-focused newsletter the guest recently subscribed to"},
+    {"name": "The Analytics Engineering Roundup", "type": "other", "context": "analytics engineering newsletter, possibly dbt's"},
+    {"name": "Locally Optimistic", "type": "other", "url": "https://locallyoptimistic.com", "context": "data blog the guest checks from time to time"},
+    {"name": "Movinga", "type": "company", "context": "removals startup, the guest's first job in Berlin"}
+  ]
+}

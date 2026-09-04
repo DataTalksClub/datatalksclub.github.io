@@ -1,0 +1,19 @@
+{
+  "slug": "knowledge-graphs-and-llms-for-automotive-rnd",
+  "resources": [
+    {"name": "Neo4j", "type": "tool", "url": "https://neo4j.com", "context": "Graph database recommended by mentor for crash simulation data"},
+    {"name": "LangChain", "type": "tool", "url": "https://www.langchain.com", "context": "Used in bootcamp project to break down topics and papers"},
+    {"name": "NetworkX", "type": "tool", "url": "https://networkx.org", "context": "Python library for computational graphs extracted from knowledge graphs"},
+    {"name": "Streamlit", "type": "tool", "url": "https://streamlit.io", "context": "App framework that crashed during the live demo"},
+    {"name": "Machine Learning with Graphs (CS224W)", "type": "course", "url": "https://web.stanford.edu/class/cs224w/", "context": "Stanford graph ML course the guest highly recommends"},
+    {"name": "Jure Leskovec", "type": "person", "context": "Well-known professor behind the Stanford graph ML course"},
+    {"name": "DeepLearning.AI", "type": "company", "url": "https://www.deeplearning.ai", "context": "Its short course on knowledge graphs and LLMs inspired guest"},
+    {"name": "Sebastian Raschka", "type": "person", "context": "Recommended author of in-progress LLM course and repo"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Used for embeddings and keywords; GPT-3.5 hallucination concerns"},
+    {"name": "Fly.io", "type": "service", "url": "https://fly.io", "context": "Hosting platform used to deploy the project"},
+    {"name": "Graph Conference", "type": "community", "context": "Free conference recommended for its research exchange"},
+    {"name": "SimRank", "type": "other", "context": "Graph similarity method used to rank similar crash simulations"},
+    {"name": "PageRank", "type": "other", "context": "Sizes nodes by importance in paper graph visualization"},
+    {"name": "arXiv", "type": "other", "url": "https://arxiv.org", "context": "Paper parsing in the project works only on arXiv papers"}
+  ]
+}

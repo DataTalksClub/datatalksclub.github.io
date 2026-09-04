@@ -1,0 +1,22 @@
+{
+  "slug": "how-to-break-into-data-science",
+  "resources": [
+    {"name": "Streamlit", "type": "tool", "url": "https://streamlit.io", "context": "Recommended for showcasing machine learning projects to employers"},
+    {"name": "GPT-3", "type": "service", "url": "https://openai.com", "context": "Hyped NLP model data scientists need not master"},
+    {"name": "DALL·E 2", "type": "service", "url": "https://openai.com/dall-e-2", "context": "Text-to-image model the guest explained in a video"},
+    {"name": "AssemblyAI", "type": "company", "url": "https://www.assemblyai.com", "context": "Guest's employer; speech-to-text API company creating ML content"},
+    {"name": "NYC Open Data", "type": "dataset", "url": "https://opendata.cityofnewyork.us", "context": "Recommended real-life dirty taxi data for portfolio projects"},
+    {"name": "So You Want to Be a Data Scientist", "type": "other", "url": "https://soyouwanttobeadatascientist.com", "context": "Guest's educational platform for aspiring data scientists"},
+    {"name": "Berlin Buzzwords", "type": "community", "url": "https://berlinbuzzwords.de", "context": "Industry conference recommended over social media for staying current"},
+    {"name": "Kaggle", "type": "community", "url": "https://www.kaggle.com", "context": "Source of clean, well-prepared datasets, unlike real-life data"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "Practical tool; data scientists don't build algorithms from scratch"},
+    {"name": "OpenAI", "type": "company", "url": "https://openai.com", "context": "Company behind GPT-3 and the vague DALL·E 2 paper"},
+    {"name": "XGBoost", "type": "tool", "url": "https://xgboost.readthedocs.io", "context": "Typical startup ML work, unlike deep learning research"},
+    {"name": "Google Brain", "type": "company", "context": "Research lab whose people the guest follows on Twitter"},
+    {"name": "DeepMind", "type": "company", "url": "https://deepmind.google", "context": "Research lab whose people the guest follows on Twitter"},
+    {"name": "IBM", "type": "company", "url": "https://www.ibm.com", "context": "Guest started her data science career there as a consultant"},
+    {"name": "Titanic dataset", "type": "dataset", "url": "https://www.kaggle.com/c/titanic", "context": "Overused beginner project dataset the guest advises against"},
+    {"name": "r/datasets", "type": "community", "url": "https://www.reddit.com/r/datasets", "context": "Subreddit recommended for finding many kinds of datasets"},
+    {"name": "Open Data Stack Exchange", "type": "community", "url": "https://opendata.stackexchange.com", "context": "Q&A site for asking where to find datasets"}
+  ]
+}

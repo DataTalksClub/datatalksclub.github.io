@@ -1,0 +1,14 @@
+{
+  "slug": "make-money-with-machine-learning-roles-skills",
+  "resources": [
+    {"name": "Google", "type": "company", "url": "https://about.google", "context": "example of category creation and open-sourcing ML research"},
+    {"name": "Amazon", "type": "company", "url": "https://www.aboutamazon.com", "context": "killed its healthcare project; failed category experiment example"},
+    {"name": "AWS", "type": "company", "url": "https://aws.amazon.com", "context": "early MLOps provider cited as creating a new category"},
+    {"name": "Stitch Fix", "type": "company", "url": "https://www.stitchfix.com", "context": "machine-learning-first company that redefined its category"},
+    {"name": "Uber", "type": "company", "url": "https://www.uber.com", "context": "startup whose efficiency depends on machine learning"},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "expensive infrastructure ML teams must run and maintain"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "typical model an average data scientist knows how to train"},
+    {"name": "MapReduce", "type": "tool", "context": "early big-data technology Vin used in his data mining days"},
+    {"name": "Google Cloud", "type": "service", "url": "https://cloud.google.com", "context": "named with AWS as cloud option when architecting ML platforms"}
+  ]
+}

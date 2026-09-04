@@ -1,0 +1,22 @@
+{
+  "slug": "fairness-in-ai-ml-engineering",
+  "resources": [
+    {"name": "Fairlearn", "type": "tool", "url": "https://fairlearn.org", "context": "Fairness library the guest maintains; central topic"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "Guest contributes; compatibility work for version 1.6"},
+    {"name": "Probabl", "type": "company", "url": "https://probabl.ai", "context": "Guest's employer (transcribed 'Probable'); backs scikit-learn ecosystem"},
+    {"name": "skops", "type": "tool", "url": "https://github.com/skops-dev/skops", "context": "Secure model persistence library, originated from Hugging Face"},
+    {"name": "skope-rules", "type": "tool", "url": "https://github.com/scikit-learn-contrib/skope-rules", "context": "Library (transcribed 'Skope-Rules') the guest contributes to"},
+    {"name": "Narwhals", "type": "tool", "url": "https://github.com/narwhals-dev/narwhals", "context": "Replacing pandas in upcoming Fairlearn refactoring"},
+    {"name": "pandas", "type": "tool", "url": "https://pandas.pydata.org", "context": "DataFrame library being replaced in the Fairlearn refactor"},
+    {"name": "Hugging Face", "type": "company", "url": "https://huggingface.co", "context": "Hub malware via pickled models; skops origin"},
+    {"name": "On Intelligence", "type": "book", "context": "Jeff Hawkins book that sparked the guest's interest in cognition and ML"},
+    {"name": "Microsoft", "type": "company", "url": "https://www.microsoft.com", "context": "Partner with Fairlearn on credit scoring fairness study"},
+    {"name": "Ernst & Young", "type": "company", "url": "https://www.ey.com", "context": "Partner with Fairlearn on credit scoring fairness study"},
+    {"name": "Amazon", "type": "company", "url": "https://www.amazon.com", "context": "Biased AI hiring tool scrapped; fairness cautionary tale"},
+    {"name": "Ableton", "type": "company", "url": "https://www.ableton.com", "context": "Music software company where guest worked on Push 2"},
+    {"name": "PyLadies", "type": "community", "url": "https://pyladies.com", "context": "Guest's long-time Berlin community; hosted Fairlearn sprint"},
+    {"name": "PyData Berlin", "type": "community", "url": "https://pydata.org", "context": "Meetup recommended to listeners in Berlin"},
+    {"name": "Google Summer of Code", "type": "community", "url": "https://summerofcode.withgoogle.com", "context": "Guest's first internship back in 2010"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Tokenization breaks 'Fairlearn' when editing transcripts"}
+  ]
+}

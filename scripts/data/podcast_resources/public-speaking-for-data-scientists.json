@@ -1,0 +1,22 @@
+{
+  "slug": "public-speaking-for-data-scientists",
+  "resources": [
+    {"name": "Stories that Stick", "type": "book", "context": "First book guest recommends on storytelling"},
+    {"name": "The Hero with a Thousand Faces", "type": "book", "context": "Hero's journey book underpinning guest's storytelling advice"},
+    {"name": "Play Bigger", "type": "book", "context": "Book on category creation, useful for positioning"},
+    {"name": "The Lean Startup", "type": "book", "url": "https://theleanstartup.com", "context": "Fail-fast mindset: test talk ideas before investing"},
+    {"name": "Toastmasters", "type": "community", "url": "https://www.toastmasters.org", "context": "Place to practice presentations and read the audience"},
+    {"name": "Data Science Go", "type": "community", "url": "https://www.datasciencego.com", "context": "Conference where young attendee Rico earned a speaking slot"},
+    {"name": "Strata Data Conference", "type": "community", "context": "High-profile keynote goal after building a track record"},
+    {"name": "DataRobot", "type": "company", "url": "https://www.datarobot.com", "context": "Guest's employer as chief AI evangelist"},
+    {"name": "HireVue", "type": "company", "url": "https://www.hirevue.com", "context": "Where guest was chief data scientist and began speaking"},
+    {"name": "zef.ai", "type": "company", "context": "Deep learning AutoML startup guest co-founded, then acquired"},
+    {"name": "Pixar", "type": "company", "url": "https://www.pixar.com", "context": "Proof that storytelling is a profitable, studied science"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "Recommended simple tool for solving business problems"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Part of the useful, everyday data science foundation"},
+    {"name": "pandas", "type": "tool", "url": "https://pandas.pydata.org", "context": "Named among useful core data science skills"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Named among useful foundational data tools"},
+    {"name": "Beamer", "type": "tool", "url": "https://ctan.org/pkg/beamer", "context": "Guest warns never to give presentations with it"},
+    {"name": "The Ravit Show", "type": "other", "context": "Show where guest told his living-in-the-woods story"}
+  ]
+}

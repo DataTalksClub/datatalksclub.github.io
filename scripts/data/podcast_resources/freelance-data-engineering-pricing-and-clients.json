@@ -1,0 +1,13 @@
+{
+  "slug": "freelance-data-engineering-pricing-and-clients",
+  "resources": [
+    {"name": "Airflow", "type": "tool", "url": "https://airflow.apache.org", "context": "Implemented during guest's first freelance project"},
+    {"name": "Fivetran", "type": "service", "url": "https://www.fivetran.com", "context": "Comparison point for guest's data loading framework"},
+    {"name": "Rasa", "type": "company", "url": "https://rasa.com", "context": "Open source chatbot company; data pipeline client"},
+    {"name": "dbt", "type": "tool", "url": "https://www.getdbt.com", "context": "Commercial-grade packages built on top of dbt"},
+    {"name": "Upwork", "type": "service", "url": "https://www.upwork.com", "context": "Freelance platform guest considers a waste of time"},
+    {"name": "Hays", "type": "company", "url": "https://www.hays.com", "context": "Large staffing agency that takes a large cut"},
+    {"name": "Modis", "type": "company", "context": "Large staffing agency example alongside Hays"},
+    {"name": "Freelance data cooperative", "type": "community", "context": "Invite-only Slack group of data freelancers sharing projects"}
+  ]
+}

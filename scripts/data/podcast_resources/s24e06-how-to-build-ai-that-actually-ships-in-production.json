@@ -1,0 +1,18 @@
+{
+  "slug": "s24e06-how-to-build-ai-that-actually-ships-in-production",
+  "resources": [
+    {"name": "Intuit", "type": "company", "url": "https://www.intuit.com", "context": "Guest's employer; AI features and AI verification system"},
+    {"name": "QuickBooks", "type": "service", "url": "https://quickbooks.intuit.com", "context": "Intuit product team the guest joined; customer-facing AI agents"},
+    {"name": "Augment Code", "type": "tool", "url": "https://www.augmentcode.com", "context": "Subscription coding agent praised for cost and speed"},
+    {"name": "Anthropic", "type": "company", "url": "https://www.anthropic.com", "context": "Token-based enterprise billing; Haiku, Sonnet, Opus model tiers"},
+    {"name": "OpenAI", "type": "company", "url": "https://openai.com", "context": "Hid then restored model version picker; billing changes"},
+    {"name": "Claude Code", "type": "tool", "context": "Coding agent for quick tasks like calling OpenAI"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Sparked trend of bolting AI onto every product"},
+    {"name": "Attention Is All You Need", "type": "paper", "url": "https://arxiv.org/abs/1706.03762", "context": "Transformer paper the guest enjoyed implementing state-of-the-art from"},
+    {"name": "BERT", "type": "tool", "context": "Fine-tuned and delivered to production for support classification"},
+    {"name": "Mailchimp", "type": "service", "url": "https://mailchimp.com", "context": "Acquired by Intuit; how the host learned of the company"},
+    {"name": "TurboTax", "type": "service", "url": "https://turbotax.intuit.com", "context": "Intuit tax product named in company overview"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "BERT service wrapped into a container"},
+    {"name": "Slack", "type": "service", "url": "https://slack.com", "context": "Automation delivers leadership insights to Slack channels"}
+  ]
+}

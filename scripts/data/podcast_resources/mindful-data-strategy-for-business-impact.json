@@ -1,0 +1,16 @@
+{
+  "slug": "mindful-data-strategy-for-business-impact",
+  "resources": [
+    {"name": "Data is Like a Plate of Hummus", "type": "book", "context": "Lior's first book on data strategy, discussed previously"},
+    {"name": "Wabi Sabi Your Data", "type": "book", "context": "Lior's upcoming second book on strategic data management"},
+    {"name": "Zalando", "type": "company", "url": "https://corporate.zalando.com", "context": "Lior led marketing data operations and rebuilt its warehouse"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Alexey's son uses it; hallucination and trust discussion"},
+    {"name": "Mind the Product", "type": "community", "url": "https://www.mindtheproduct.com", "context": "product management workshops Alexey attended"},
+    {"name": "Product Camp Berlin", "type": "community", "url": "https://www.productcampberlin.org", "context": "annual product event Lior recommends for learning PM"},
+    {"name": "Berlin Buzzwords", "type": "community", "url": "https://berlinbuzzwords.de", "context": "June conference connecting tech and data"},
+    {"name": "Udacity Product Manager Nanodegree", "type": "course", "url": "https://www.udacity.com", "context": "product management course Alexey took and abandoned"},
+    {"name": "PostgreSQL", "type": "tool", "url": "https://www.postgresql.org", "context": "ingestion log storage and new Zalando data warehouse"},
+    {"name": "Tableau", "type": "tool", "url": "https://www.tableau.com", "context": "drag-and-drop dashboards on the rebuilt data warehouse"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "legacy Zalando script needing six people's daily copy-paste"}
+  ]
+}

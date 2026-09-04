@@ -1,0 +1,16 @@
+{
+  "slug": "mlops-community-building-and-meetups",
+  "resources": [
+    {"name": "MLOps Community", "type": "community", "url": "https://mlops.community", "context": "Guest's Slack community; main subject of the episode"},
+    {"name": "dbt", "type": "tool", "url": "https://www.getdbt.com", "context": "Community praised for deliberately not gamifying membership"},
+    {"name": "Kubeflow", "type": "tool", "url": "https://www.kubeflow.org", "context": "Example of a community grown around a tool"},
+    {"name": "Dotscience", "type": "company", "context": "Guest's former MLOps tool vendor where the community started"},
+    {"name": "DataRobot", "type": "company", "url": "https://www.datarobot.com", "context": "Cited as holding the trademark on the MLOps term"},
+    {"name": "Data on Kubernetes", "type": "community", "url": "https://dok.community", "context": "Guest's other community, harder to grow than MLOps"},
+    {"name": "Are You a Robot", "type": "community", "context": "Guest's AI ethics community that never fully took off"},
+    {"name": "Circle", "type": "tool", "url": "https://circle.so", "context": "Community platform option when choosing where to host"},
+    {"name": "Commsor", "type": "tool", "url": "https://www.commsor.com", "context": "Community analytics tool mentioned alongside Circle"},
+    {"name": "Donut", "type": "service", "url": "https://donut.ai", "context": "Slack app used for random member pairings"},
+    {"name": "Radiolab", "type": "other", "context": "Podcast inspiring produced, theme-based community episodes"}
+  ]
+}

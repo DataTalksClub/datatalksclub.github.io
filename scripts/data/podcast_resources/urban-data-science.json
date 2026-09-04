@@ -1,0 +1,16 @@
+{
+  "slug": "urban-data-science",
+  "resources": [
+    {"name": "Apache Kafka", "type": "tool", "url": "https://kafka.apache.org", "context": "Used in transport data pipelines; covered in her course"},
+    {"name": "Apache Spark", "type": "tool", "url": "https://spark.apache.org", "context": "Processes fare card and GPS data before warehousing"},
+    {"name": "data.gov.sg", "type": "other", "url": "https://data.gov.sg", "context": "Singapore government open data portal across many domains"},
+    {"name": "DataMall", "type": "other", "url": "https://datamall.lta.gov.sg", "context": "Portal with real-time taxi availability and parking datasets"},
+    {"name": "NYC Taxi Trip Record Data", "type": "dataset", "url": "https://www.nyc.gov/site/tlc/about/trip-record-data.page", "context": "Aggregated dataset used in past data engineering courses"},
+    {"name": "The Death and Life of Great American Cities", "type": "book", "context": "Jane Jacobs classic critiquing traditional urban planning"},
+    {"name": "Happy City: Transforming Our Lives Through Urban Design", "type": "book", "context": "Charles Montgomery book on urban design and happiness"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Voice assistant example of conversational interfaces"},
+    {"name": "World Cities Summit", "type": "community", "url": "https://www.worldcitiesummit.com.sg", "context": "Conference that sparked her interest in urban planning"},
+    {"name": "Centre for Liveable Cities", "type": "company", "url": "https://www.clc.gov.sg", "context": "Where she interned, deepening her sustainable cities focus"},
+    {"name": "Sam Schwartz", "type": "company", "context": "Transport consultancy firm where transport scientists work"}
+  ]
+}

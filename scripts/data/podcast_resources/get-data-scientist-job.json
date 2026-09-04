@@ -1,0 +1,18 @@
+{
+  "slug": "get-data-scientist-job",
+  "resources": [
+    {"name": "LinkedIn", "type": "service", "url": "https://www.linkedin.com", "context": "profiles, headhunting, and ultra-targeted outreach all happen there"},
+    {"name": "Neural AI", "type": "company", "context": "guest's recruiting firm for AI and data specialists"},
+    {"name": "GitHub", "type": "tool", "url": "https://github.com", "context": "junior candidates should show personal GitHub projects"},
+    {"name": "TensorFlow", "type": "tool", "url": "https://www.tensorflow.org", "context": "buzzword example listed on CVs without backing projects"},
+    {"name": "PyTorch", "type": "tool", "url": "https://pytorch.org", "context": "buzzword example listed on CVs without backing projects"},
+    {"name": "BMW", "type": "company", "url": "https://www.bmw.com", "context": "Audi data scientist applying to BMW gets instantly recognized"},
+    {"name": "Audi", "type": "company", "url": "https://www.audi.com", "context": "industry-alignment example alongside BMW in car manufacturing"},
+    {"name": "Zalando", "type": "company", "url": "https://www.zalando.com", "context": "recommender-system use cases make ecommerce experience transferable"},
+    {"name": "Spotify", "type": "company", "url": "https://spotify.com", "context": "recommendation systems use-case example alongside GetYourGuide"},
+    {"name": "GetYourGuide", "type": "company", "url": "https://www.getyourguide.com", "context": "recommendation systems use-case example alongside Spotify"},
+    {"name": "Salesforce", "type": "company", "url": "https://www.salesforce.com", "context": "friend's targeted video CV outreach to big software vendors"},
+    {"name": "Canva", "type": "tool", "url": "https://www.canva.com", "context": "CV design tool data scientists rarely use"},
+    {"name": "Adobe Illustrator", "type": "tool", "url": "https://www.adobe.com/products/illustrator.html", "context": "CV design tool data scientists rarely use"}
+  ]
+}

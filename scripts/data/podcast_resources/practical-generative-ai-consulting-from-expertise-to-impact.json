@@ -1,0 +1,22 @@
+{
+  "slug": "practical-generative-ai-consulting-from-expertise-to-impact",
+  "resources": [
+    {"name": "Amazon", "type": "company", "url": "https://www.amazon.com", "context": "Guest spent nearly four years there as a research scientist"},
+    {"name": "Amazon Alexa", "type": "service", "context": "Product whose German and French NLU models the guest researched"},
+    {"name": "Deloitte", "type": "company", "url": "https://www.deloitte.com", "context": "Guest started out consulting at the Deloitte Analytics Institute"},
+    {"name": "mobile.de", "type": "company", "url": "https://www.mobile.de", "context": "Guest did causal inference on marketing campaigns there"},
+    {"name": "Zalando", "type": "company", "context": "Not hiring data scientists in Berlin; research-role gatekeeping"},
+    {"name": "Oetker Digital", "type": "company", "context": "In-house consultancy where the guest did time series forecasting"},
+    {"name": "XGBoost", "type": "tool", "url": "https://xgboost.readthedocs.io", "context": "Symbol of standard data science work versus research"},
+    {"name": "T5", "type": "tool", "url": "https://github.com/google-research/text-to-text-transfer-transformer", "context": "Model used to generate adversarial attacks in a research project"},
+    {"name": "ACL", "type": "community", "url": "https://www.aclweb.org", "context": "NLP conference where her Amazon team published papers"},
+    {"name": "EMNLP", "type": "community", "context": "NLP conference with an industry track the guest published in"},
+    {"name": "Mindset", "type": "book", "context": "Carol Dweck book that changed the guest's view on learning"},
+    {"name": "Entrepreneur Revolution", "type": "book", "context": "Daniel Priestley's practical guide the guest recommends for freelancers"},
+    {"name": "Klaus-Robert Müller", "type": "person", "context": "Famous TU Berlin professor who taught support vector machines"},
+    {"name": "Stefan Lessmann", "type": "person", "context": "Humboldt professor; his NLP lectures on YouTube are recommended"},
+    {"name": "LinkedIn", "type": "service", "url": "https://www.linkedin.com", "context": "Freelance positioning, content posts, and client outreach"},
+    {"name": "Seamless", "type": "community", "context": "Payments industry event for meeting potential clients"},
+    {"name": "Data Action Network Mentorship Program", "type": "other", "context": "Program where the guest mentors startups on their problems"}
+  ]
+}

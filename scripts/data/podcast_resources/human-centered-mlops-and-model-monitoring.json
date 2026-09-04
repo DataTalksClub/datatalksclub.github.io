@@ -1,0 +1,17 @@
+{
+  "slug": "human-centered-mlops-and-model-monitoring",
+  "resources": [
+    {"name": "Rebels at Work", "type": "book", "context": "Guest's recommended book on leading change from within"},
+    {"name": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow", "type": "book", "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/", "context": "Its ML project checklist is recommended by the guest"},
+    {"name": "Zalando", "type": "company", "url": "https://www.zalando.com", "context": "Guest's former employer; personalization and fraud model stories"},
+    {"name": "DKB", "type": "company", "url": "https://www.dkb.de", "context": "German online bank where the guest leads ML engineering"},
+    {"name": "SCHUFA", "type": "company", "url": "https://www.schufa.de", "context": "German credit bureau; guest checked her free annual score"},
+    {"name": "Check24", "type": "service", "url": "https://www.check24.de", "context": "Loan comparison site used for mystery shopping credit processes"},
+    {"name": "SHAP", "type": "tool", "url": "https://shap.readthedocs.io", "context": "Model-explanation values cited when discussing explainable AI"},
+    {"name": "Netflix", "type": "company", "url": "https://www.netflix.com", "context": "Shared-account problem; Netflix responded by splitting accounts"},
+    {"name": "SAP", "type": "tool", "url": "https://www.sap.com", "context": "Scanned invoice OCR output flows into SAP"},
+    {"name": "AI Canvas", "type": "other", "context": "Business canvas discussed as a project scoping checklist"},
+    {"name": "Five Whys", "type": "other", "context": "Root-cause technique used in blameless post-mortems and ML debugging"},
+    {"name": "MLOps Community", "type": "community", "url": "https://mlops.community", "context": "Slack community where the guest hangs out"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "from-academia-to-staff-ai-engineer-interviews-and-career-growth",
+  "resources": [
+    {"name": "LeetCode", "type": "tool", "url": "https://leetcode.com", "context": "Coding interview prep; guest solved about 350 problems with Premium"},
+    {"name": "The Staff Engineer's Path", "type": "book", "context": "Book defining staff engineer archetypes; guest's top recommendation"},
+    {"name": "Designing Data-Intensive Applications", "type": "book", "url": "https://dataintensive.net", "context": "Recommended reading for deeper system design understanding"},
+    {"name": "Grokking the System Design Interview", "type": "course", "context": "Course the guest finished in five days to pass system design"},
+    {"name": "Grokking the Machine Learning Interview", "type": "course", "context": "ML design course the guest tried but did not like"},
+    {"name": "Crucial Conversations: Tools for Talking When Stakes Are High", "type": "book", "context": "Top recommended book on communication"},
+    {"name": "Never Split the Difference: Negotiating As If Your Life Depended On It", "type": "book", "context": "Top recommended book on negotiation"},
+    {"name": "Extreme Ownership: How U.S. Navy SEALs Lead and Win", "type": "book", "context": "Recommended book on leadership and ownership"},
+    {"name": "Rise", "type": "book", "context": "Career book by Patty Azzarello, highly advised"},
+    {"name": "Kaggle", "type": "tool", "url": "https://www.kaggle.com", "context": "Pet projects and competitions when switching into machine learning"},
+    {"name": "Patrick Halina", "type": "person", "url": "https://patrickhalina.com", "context": "Pinterest staff engineer; blog on staff-level ML design interviews"},
+    {"name": "LinkedIn", "type": "company", "url": "https://www.linkedin.com", "context": "Guest's employer; staff AI engineer role and onboarding"},
+    {"name": "Scala", "type": "tool", "url": "https://www.scala-lang.org", "context": "Stack language the guest had to learn on the job"},
+    {"name": "Apache Spark", "type": "tool", "url": "https://spark.apache.org", "context": "Data processing framework learned during tech lead onboarding"},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "Orchestration platform learned while onboarding at LinkedIn"}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "how-to-switch-to-ml-tech-without-experience",
+  "resources": [
+    {"name": "PyLadies", "type": "community", "url": "https://pyladies.com", "context": "Community that supported the guest; she now organizes Berlin chapter"},
+    {"name": "Machine Learning Zoomcamp", "type": "course", "url": "https://mlzoomcamp.com", "context": "Course the guest took while switching toward ML work"},
+    {"name": "Rails Girls Summer of Code", "type": "community", "url": "https://railsgirlssummerofcode.org", "context": "Paid three-month open-source fellowship that launched the guest's career"},
+    {"name": "Ecosia", "type": "company", "url": "https://www.ecosia.org", "context": "Guest's employer; tree-planting search engine with Go backend"},
+    {"name": "Codecademy", "type": "course", "url": "https://www.codecademy.com", "context": "Browser-based platform where the guest started learning programming"},
+    {"name": "Machine Learning by Andrew Ng", "type": "course", "url": "https://www.coursera.org/learn/machine-learning", "context": "First ML course the guest took on Coursera"},
+    {"name": "freeCodeCamp", "type": "course", "url": "https://www.freecodecamp.org", "context": "Curriculum the guest now recommends to beginners"},
+    {"name": "Google Summer of Code", "type": "community", "url": "https://summerofcode.withgoogle.com", "context": "Similar open-source program, now open to non-students"},
+    {"name": "Outreachy", "type": "community", "url": "https://www.outreachy.org", "context": "Open-source internship program running twice a year"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Language the guest learned; focus of the PyLadies community"},
+    {"name": "Git", "type": "tool", "url": "https://git-scm.com", "context": "Topic of the guest's first tech talk after transitioning"},
+    {"name": "Nextcloud", "type": "tool", "url": "https://nextcloud.com", "context": "Open source software the guest worked on during her fellowship"},
+    {"name": "Jupyter Notebook", "type": "tool", "url": "https://jupyter.org", "context": "Tool that overwhelmed the guest at her first meetups"},
+    {"name": "Go", "type": "tool", "url": "https://go.dev", "context": "Language of Ecosia's backend microservices"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "Provides mentors at PyLadies open source hack evenings"},
+    {"name": "Gene.ai", "type": "tool", "context": "Also provides mentors at PyLadies open source hack evenings"},
+    {"name": "Bildungsgutschein", "type": "other", "context": "German education voucher that funded the guest's career switch"},
+    {"name": "Gather.town", "type": "service", "url": "https://gather.town", "context": "Used for PyLadies remote brainstorming and CFP events"},
+    {"name": "Codewars", "type": "tool", "url": "https://www.codewars.com", "context": "Coding challenges the guest scheduled during self-study"},
+    {"name": "Anaconda", "type": "tool", "url": "https://www.anaconda.com", "context": "Makes Python setup easier now, per Alexey"},
+    {"name": "PyData", "type": "community", "url": "https://pydata.org", "context": "Conference both host and guest attended in Berlin"},
+    {"name": "PyCon.de", "type": "community", "url": "https://pycon.de", "context": "Conference where PyLadies CFP-event attendees later spoke"},
+    {"name": "PyCon Italia", "type": "community", "url": "https://pycon.it", "context": "Conference that invited the guest to give a keynote"},
+    {"name": "Python Pizza", "type": "community", "context": "Conference with 10-minute talks, recommended for starting out"},
+    {"name": "GOTO Conference", "type": "community", "url": "https://goto-con.com", "context": "Big in-person stage the guest has spoken on"},
+    {"name": "EuRuKo", "type": "community", "url": "https://euruko.org", "context": "Ruby conference where the guest gave a coffee lightning talk"},
+    {"name": "Lynx", "type": "tool", "url": "https://lynx.browser.org", "context": "Terminal browser Alexey used when his GUI failed"},
+    {"name": "Linux", "type": "tool", "context": "Guest dual-booted into it and learned the terminal by necessity"}
+  ]
+}

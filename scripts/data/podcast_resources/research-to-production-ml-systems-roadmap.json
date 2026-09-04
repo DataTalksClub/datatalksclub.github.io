@@ -1,0 +1,31 @@
+{
+  "slug": "research-to-production-ml-systems-roadmap",
+  "resources": [
+    {"name": "Confetti.ai", "type": "service", "url": "https://www.confetti.ai", "context": "Guest's platform for ML career and interview preparation"},
+    {"name": "PyTorch", "type": "tool", "url": "https://pytorch.org", "context": "Standard modeling library for ML engineers"},
+    {"name": "TensorFlow", "type": "tool", "url": "https://www.tensorflow.org", "context": "Common high-level modeling library alternative"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Engineering tool for reproducibility"},
+    {"name": "Weights & Biases", "type": "tool", "url": "https://wandb.ai", "context": "Detailed experimental logs for validating hypotheses"},
+    {"name": "JupyterHub", "type": "tool", "url": "https://jupyter.org/hub", "context": "Notebooks researchers use for fast prototyping"},
+    {"name": "FastAPI", "type": "tool", "url": "https://fastapi.tiangolo.com", "context": "Web framework for backend ML services"},
+    {"name": "Flask", "type": "tool", "url": "https://flask.palletsprojects.com", "context": "Web framework alternative depending on language"},
+    {"name": "ImageNet", "type": "dataset", "url": "https://www.image-net.org", "context": "Benchmark dataset for computer vision research"},
+    {"name": "SQuAD", "type": "dataset", "url": "https://rajpurkar.github.io/SQuAD-explorer/", "context": "Benchmark dataset for question answering"},
+    {"name": "Amazon Web Services", "type": "service", "url": "https://aws.amazon.com", "context": "Cloud provider ML engineers must be comfortable with"},
+    {"name": "Google Cloud Platform", "type": "service", "url": "https://cloud.google.com", "context": "Cloud provider ML engineers must be comfortable with"},
+    {"name": "Microsoft Azure", "type": "service", "url": "https://azure.microsoft.com", "context": "Cloud provider ML engineers must be comfortable with"},
+    {"name": "Amazon Mechanical Turk", "type": "service", "url": "https://www.mturk.com", "context": "Used for annotation tasks during research"},
+    {"name": "DoorDash", "type": "company", "url": "https://www.doordash.com", "context": "Company with fluid data scientist and engineer roles"},
+    {"name": "rideOS", "type": "company", "context": "Self-driving startup where guest sharpened engineering skills"},
+    {"name": "Ford", "type": "company", "url": "https://www.ford.com", "context": "Collaboration on neural conversational systems research"},
+    {"name": "Amazon Alexa", "type": "company", "context": "Guest joined new hybrid research-engineering team there"},
+    {"name": "Stanford NLP Group", "type": "company", "url": "https://nlp.stanford.edu", "context": "Research group where guest worked with leading NLP names"},
+    {"name": "Hugging Face Transformers", "type": "tool", "url": "https://huggingface.co/docs/transformers", "context": "Library for trying state-of-the-art models"},
+    {"name": "Terraform", "type": "tool", "url": "https://www.terraform.io", "context": "Tool data scientists may need to learn in fluid teams"},
+    {"name": "Eugene Yan", "type": "person", "url": "https://eugeneyan.com", "context": "Friend who wrote about the full-stack data scientist"},
+    {"name": "Chris Manning", "type": "person", "context": "Stanford NLP researcher guest worked with"},
+    {"name": "Dan Jurafsky", "type": "person", "context": "Stanford NLP researcher guest worked with"},
+    {"name": "Chris Potts", "type": "person", "context": "Stanford NLP researcher guest worked with"},
+    {"name": "Zhilin Yang", "type": "person", "context": "Stanford NLP researcher guest worked with"}
+  ]
+}

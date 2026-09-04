@@ -1,0 +1,17 @@
+{
+  "slug": "get-junior-data-job-and-transferable-skills",
+  "resources": [
+    {"name": "Spiced Academy", "type": "course", "url": "https://spiced-academy.com", "context": "Berlin bootcamp where the guest works as senior career coach"},
+    {"name": "LinkedIn", "type": "service", "url": "https://www.linkedin.com", "context": "junior-role counts, coach searches, and networking outreach advice"},
+    {"name": "Ikigai", "type": "other", "context": "Japanese model used to help students pick a career focus"},
+    {"name": "The Imposter Phenomenon: When Success Makes You Feel Like a Fake", "type": "book", "context": "recommended book on imposter syndrome by Pauline Rose Clance"},
+    {"name": "Pauline Rose Clance", "type": "person", "context": "researcher who coined the phrase imposter syndrome"},
+    {"name": "The Mentoring Club", "type": "community", "context": "free technical mentoring site recommended to students"},
+    {"name": "Orange Quarter", "type": "company", "context": "recruiting firm giving students salary and market insights"},
+    {"name": "GitHub", "type": "tool", "url": "https://github.com", "context": "coaches skip GitHub review; teachers cover it instead"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "main language of the data science bootcamp program"},
+    {"name": "SQL", "type": "tool", "context": "bootcamp skill; junior path via BI analyst roles"},
+    {"name": "JavaScript", "type": "tool", "context": "main language of the full-stack bootcamp program"},
+    {"name": "Zalando", "type": "company", "url": "https://www.zalando.com", "context": "ecommerce example of recruiter flooded with generic applications"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "production-ml-search-vector-search-embeddings-hybrid-search",
+  "resources": [
+    {"name": "Superlinked", "type": "company", "url": "https://superlinked.com", "context": "guest's startup solving the vector compute problem"},
+    {"name": "VectorHub", "type": "other", "url": "https://hub.superlinked.com", "context": "Superlinked's contributor-driven learning resource for vector search"},
+    {"name": "Apache Lucene", "type": "tool", "url": "https://lucene.apache.org", "context": "inverted-index library recommended over hand-rolling search indexes"},
+    {"name": "Introduction to Information Retrieval", "type": "book", "url": "https://nlp.stanford.edu/IR-book/information-retrieval-book.html", "context": "Alexey's foundational book on text search and NLP"},
+    {"name": "CLIP", "type": "tool", "url": "https://github.com/openai/CLIP", "context": "OpenAI model embedding text and images for cross-modal search"},
+    {"name": "Elasticsearch", "type": "tool", "url": "https://www.elastic.co/elasticsearch/", "context": "Lucene-based database with organic vector search support"},
+    {"name": "pgvector", "type": "tool", "url": "https://github.com/pgvector/pgvector", "context": "Postgres vector option once considered much slower than dedicated databases"},
+    {"name": "Vector DB Comparison", "type": "other", "url": "https://vdbs.superlinked.com", "context": "crowdsourced feature comparison of vector databases"},
+    {"name": "PyTorch", "type": "tool", "url": "https://pytorch.org", "context": "framework for custom embedding and ranking models"},
+    {"name": "BERT", "type": "tool", "url": "https://github.com/google-research/bert", "context": "example embedding model for indexing book text"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "needs explicit date in prompt for recency questions"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "standard tool used in VectorHub examples"},
+    {"name": "NumPy", "type": "tool", "url": "https://numpy.org", "context": "standard tool used in VectorHub examples"},
+    {"name": "Christopher Manning", "type": "person", "context": "author of Introduction to Information Retrieval"},
+    {"name": "TopCoder", "type": "community", "url": "https://www.topcoder.com", "context": "competitive programming platform Daniel competed on"},
+    {"name": "Haystack", "type": "community", "context": "Berlin conference dedicated to search"},
+    {"name": "Representation Learning on Graph Structured Data", "type": "other", "context": "VectorHub article on combining graph and text embeddings"},
+    {"name": "Grafana", "type": "tool", "url": "https://grafana.com", "context": "charts nobody cares about versus business-impact metrics"}
+  ]
+}

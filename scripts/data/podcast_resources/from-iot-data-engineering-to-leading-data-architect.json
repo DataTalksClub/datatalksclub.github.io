@@ -1,0 +1,20 @@
+{
+  "slug": "from-iot-data-engineering-to-leading-data-architect",
+  "resources": [
+    {"name": "dbt", "type": "tool", "url": "https://www.getdbt.com", "context": "transformation tool the guest's team adopted for the gold layer"},
+    {"name": "SQL Server Integration Services (SSIS)", "type": "tool", "context": "drag-and-drop Microsoft ETL tool from the guest's early career"},
+    {"name": "Microsoft Azure", "type": "service", "url": "https://azure.microsoft.com", "context": "cloud the guest's company used during the industry's cloud shift"},
+    {"name": "Apache Airflow", "type": "tool", "url": "https://airflow.apache.org", "context": "modern orchestration tool named as an SSIS successor"},
+    {"name": "Azure Data Factory", "type": "tool", "context": "modern cloud ETL successor to SSIS"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "scripting language the guest chose for industry adoption"},
+    {"name": "Databricks", "type": "company", "url": "https://www.databricks.com", "context": "platform mentioned in hiring and upskilling discussion"},
+    {"name": "Apache Spark", "type": "tool", "url": "https://spark.apache.org", "context": "Big Data technology requiring transition even for experienced hires"},
+    {"name": "Power BI", "type": "tool", "url": "https://powerbi.microsoft.com", "context": "reusable report templates; find experts to follow trends"},
+    {"name": "Amazon Web Services (AWS)", "type": "service", "url": "https://aws.amazon.com", "context": "cloud knowledge seen as transferable when hiring"},
+    {"name": "Google Cloud", "type": "service", "url": "https://cloud.google.com", "context": "cloud provider present during the industry's cloud shift"},
+    {"name": "MyLight 150", "type": "company", "context": "solar company where the guest is now data lead"},
+    {"name": "SIXENSE", "type": "company", "context": "UK civil engineering firm where the guest started as data manager"},
+    {"name": "CGI", "type": "company", "url": "https://www.cgi.com", "context": "consulting firm where the guest worked as data consultant in France"},
+    {"name": "Stack Overflow", "type": "community", "url": "https://stackoverflow.com", "context": "key resource during the shift to cloud technologies"}
+  ]
+}

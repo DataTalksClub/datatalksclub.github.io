@@ -1,0 +1,13 @@
+{
+  "slug": "ml-system-design",
+  "resources": [
+    {"name": "Machine Learning System Design", "type": "book", "url": "https://www.manning.com/books/machine-learning-system-design", "context": "Guest's book; its 16-chapter design doc template anchors the episode"},
+    {"name": "Evidently AI", "type": "company", "url": "https://www.evidentlyai.com", "context": "Recommended monitoring library and blog posts on reliability"},
+    {"name": "Arseny Kravchenko", "type": "person", "context": "Co-author of the book; featured in a previous episode"},
+    {"name": "Jira", "type": "tool", "url": "https://www.atlassian.com/software/jira", "context": "Linking tickets to design doc chapters to track staleness"},
+    {"name": "Stack Overflow", "type": "community", "url": "https://stackoverflow.com", "context": "Cited as living documentation for quick answers"},
+    {"name": "Reliable ML", "type": "other", "context": "Russian Telegram channel with ML system design course and template"},
+    {"name": "ML design template (GitHub)", "type": "other", "context": "Template for ML system design in engineering interviews"},
+    {"name": "Design document for ML models (Medium)", "type": "other", "context": "English Medium article on design documents for ML models"}
+  ]
+}

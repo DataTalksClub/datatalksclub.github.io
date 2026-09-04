@@ -1,0 +1,19 @@
+{
+  "slug": "production-ml-mlops-and-data-team-building",
+  "resources": [
+    {"name": "MLOps Roundup", "type": "other", "url": "https://mlopsroundup.substack.com", "context": "guest's Substack newsletter on machine learning production"},
+    {"name": "OLX Group", "type": "company", "url": "https://www.olxgroup.com", "context": "host's employer; fraud ML, embedded analysts, chief data officer"},
+    {"name": "Cloudera", "type": "company", "url": "https://www.cloudera.com", "context": "acquired DataCoral, where the guest worked"},
+    {"name": "DataCoral", "type": "company", "context": "data infrastructure company where guest led sales engineering"},
+    {"name": "Primer", "type": "company", "url": "https://www.primer.ai", "context": "NLP company where guest built summarization and entity extraction models"},
+    {"name": "Machine Learning by Andrew Ng", "type": "course", "url": "https://www.coursera.org/learn/machine-learning", "context": "Stanford course the guest TA'd; Alexey took it on Coursera"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "modeling tool named alongside logistic regression"},
+    {"name": "pandas", "type": "tool", "url": "https://pandas.pydata.org", "context": "library for analysts going beyond SQL"},
+    {"name": "Jupyter Notebook", "type": "tool", "url": "https://jupyter.org", "context": "notebook environment for mixed SQL and Python analysis"},
+    {"name": "Apache Zeppelin", "type": "tool", "url": "https://zeppelin.apache.org", "context": "earlier multi-language notebook mixing SQL and Spark cells"},
+    {"name": "Hadoop", "type": "tool", "url": "https://hadoop.apache.org", "context": "ecosystem where Zeppelin notebooks fit best"},
+    {"name": "Apache Spark", "type": "tool", "url": "https://spark.apache.org", "context": "processing code runnable in Zeppelin notebook cells"},
+    {"name": "SQL", "type": "tool", "context": "core analyst skill; iterative thousands-of-lines queries"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "skill analysts add alongside SQL for deeper analysis"}
+  ]
+}

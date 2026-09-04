@@ -1,0 +1,109 @@
+{
+  "slug": "data-strategy-and-dataops-for-ai-powered-products",
+  "resources": [
+    {
+      "name": "ChatGPT",
+      "type": "service",
+      "url": "https://chatgpt.com",
+      "context": "Used for book sidebars, use case ideation, and outlining"
+    },
+    {
+      "name": "Practical DataOps",
+      "type": "book",
+      "context": "Harvinder Atwal's book applying Lean manufacturing ideas to data"
+    },
+    {
+      "name": "Elements of Data Strategy",
+      "type": "book",
+      "context": "Guest's book defining the data strategy process"
+    },
+    {
+      "name": "Python and R for the Modern Data Scientist",
+      "type": "book",
+      "context": "Guest's earlier book, mentioned in the introduction"
+    },
+    {
+      "name": "Infonomics",
+      "type": "book",
+      "context": "Doug Laney's book on treating information as an asset"
+    },
+    {
+      "name": "Technology Strategy Patterns",
+      "type": "book",
+      "context": "Recommended underrated book on architecture as strategy"
+    },
+    {
+      "name": "Driving Digital Transformation through Data and AI",
+      "type": "book",
+      "context": "Book by Alexander Borek and Nadine Prill on delivering ML products"
+    },
+    {
+      "name": "Secrets of Power Negotiating",
+      "type": "book",
+      "context": "Recommended for negotiating and convincing business stakeholders"
+    },
+    {
+      "name": "Christoph Molnar",
+      "type": "person",
+      "url": "https://christophm.github.io",
+      "context": "Explainable AI author; used GPT as a book editor"
+    },
+    {
+      "name": "Martin Szugat",
+      "type": "person",
+      "context": "Datentreiber consultant behind the lighthouse-projects-last idea"
+    },
+    {
+      "name": "DVC",
+      "type": "tool",
+      "url": "https://dvc.org",
+      "context": "Data versioning tool; its article described 'purple people'"
+    },
+    {
+      "name": "Data Mesh",
+      "type": "other",
+      "context": "Concept defining data products; guest aligns with its definition"
+    },
+    {
+      "name": "Shopify",
+      "type": "company",
+      "url": "https://www.shopify.com",
+      "context": "Source of the hierarchy of data science needs model"
+    },
+    {
+      "name": "Grammarly",
+      "type": "service",
+      "url": "https://www.grammarly.com",
+      "context": "Writing assistant the guest uses, discussed re AI ethics"
+    },
+    {
+      "name": "Microsoft Copilot",
+      "type": "service",
+      "url": "https://copilot.microsoft.com",
+      "context": "Upcoming AI assistant expected to add features to PowerPoint"
+    },
+    {
+      "name": "Azure",
+      "type": "service",
+      "url": "https://azure.microsoft.com",
+      "context": "Cloud platform in the guest's daily strategist work and client examples"
+    },
+    {
+      "name": "Apache Airflow",
+      "type": "tool",
+      "url": "https://airflow.apache.org",
+      "context": "Orchestration tool named in pipeline technology choices"
+    },
+    {
+      "name": "Exxeta",
+      "type": "company",
+      "url": "https://www.exxeta.com",
+      "context": "Technology consultancy where guest leads the data strategy function"
+    },
+    {
+      "name": "Data Science Venn Diagram",
+      "type": "other",
+      "context": "Classic skills diagram referenced when defining data strategist skills"
+    }
+  ]
+}

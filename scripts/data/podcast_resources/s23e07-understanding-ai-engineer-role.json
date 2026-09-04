@@ -1,0 +1,21 @@
+{
+  "slug": "s23e07-understanding-ai-engineer-role",
+  "resources": [
+    {"name": "Agent Development Kit (ADK)", "type": "tool", "url": "https://google.github.io/adk-docs/", "context": "Agent framework he uses daily; recommends starting deep"},
+    {"name": "MCP (Model Context Protocol)", "type": "tool", "url": "https://modelcontextprotocol.io", "context": "Bringing software engineering rigor to agent development"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Shorthand for generative AI; suggested as design-thinking interviewer"},
+    {"name": "OpenAI", "type": "service", "url": "https://openai.com", "context": "API calls that MLEs swap their PyTorch work for"},
+    {"name": "Gemini", "type": "service", "url": "https://gemini.google.com", "context": "Model provider named alongside OpenAI"},
+    {"name": "PyTorch", "type": "tool", "url": "https://pytorch.org", "context": "Framework MLEs replace with LLM API calls"},
+    {"name": "XGBoost", "type": "tool", "url": "https://xgboost.readthedocs.io", "context": "Fast traditional model to distill LLM work into"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "Abstraction that professionalized machine learning tooling"},
+    {"name": "LangGraph", "type": "tool", "url": "https://www.langchain.com/langgraph", "context": "Graph orchestrator hyped on Twitter; start simpler first"},
+    {"name": "Keras", "type": "tool", "url": "https://keras.io", "context": "Abstraction that made deep learning more accessible"},
+    {"name": "AgentOps", "type": "service", "url": "https://www.agentops.ai", "context": "Website for the emerging agent ops discipline"},
+    {"name": "Google", "type": "company", "url": "https://about.google", "context": "Guest's former employer; exploring agent ops internally"},
+    {"name": "Tableau", "type": "tool", "url": "https://www.tableau.com", "context": "Dashboarding work once co-opted the data science term"},
+    {"name": "Jupyter Notebook", "type": "tool", "url": "https://jupyter.org", "context": "Where pre-agent ML experimentation happened"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Early data science ran on not-fully-baked Python libraries"},
+    {"name": "R", "type": "tool", "url": "https://www.r-project.org", "context": "Early data science tool before mature abstractions"}
+  ]
+}

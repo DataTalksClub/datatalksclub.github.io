@@ -1,0 +1,29 @@
+{
+  "slug": "how-to-grow-your-ml-engineering-career",
+  "resources": [
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Discussed at length for coding, architecture sparring, and learning"},
+    {"name": "Modal Labs", "type": "service", "url": "https://modal.com", "context": "Startup the guest explores on sabbatical; run local code in cloud"},
+    {"name": "Zalando", "type": "company", "url": "https://corporate.zalando.com", "context": "Guest's employer; ML platform engineering and Tech Radar"},
+    {"name": "Erik Bernhardsson", "type": "person", "url": "https://erikbern.com", "context": "Modal Labs founder; built Spotify recommender and created Luigi"},
+    {"name": "Luigi", "type": "tool", "url": "https://github.com/spotify/luigi", "context": "Data pipeline library originally authored by Erik Bernhardsson"},
+    {"name": "Riley Goodside", "type": "person", "url": "https://twitter.com/goodside", "context": "First hired prompt engineer; recommended to follow on Twitter"},
+    {"name": "GitHub Copilot", "type": "service", "url": "https://github.com/features/copilot", "context": "Better IDE-integrated coding assistant than ChatGPT for code"},
+    {"name": "Amazon SageMaker", "type": "service", "url": "https://aws.amazon.com/sagemaker/", "context": "ChatGPT answered SageMaker architecture questions; documentation is 3000 pages"},
+    {"name": "AWS", "type": "service", "url": "https://aws.amazon.com", "context": "Cloud tooling behind Zalando's ML platform; IAM policy pain"},
+    {"name": "The Pragmatic Programmer", "type": "book", "context": "Classic transferable-skills book; second edition recommended"},
+    {"name": "Clean Code", "type": "book", "context": "Influential book on software engineering craft"},
+    {"name": "The Intelligent Investor", "type": "book", "context": "Book Chris tested ChatGPT's summaries and discussion on"},
+    {"name": "Lex Fridman Podcast", "type": "other", "url": "https://lexfridman.com/podcast/", "context": "Podcast Chris recommends for inspiration, especially early AI episodes"},
+    {"name": "Technology Radar", "type": "other", "url": "https://www.thoughtworks.com/radar", "context": "Map of company technologies; idea adopted from Thoughtworks"},
+    {"name": "zflow", "type": "tool", "context": "Internal Zalando Python library for building machine learning pipelines"},
+    {"name": "PostgreSQL", "type": "tool", "url": "https://www.postgresql.org", "context": "Database optimized for a tenfold API performance improvement"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Guest's main language at Zalando, learned on the job"},
+    {"name": "Git", "type": "tool", "url": "https://git-scm.com", "context": "Transferable skill used in every role; helps colleagues with it"},
+    {"name": "SQL", "type": "tool", "context": "Transferable technology used at every company; Lindy effect example"},
+    {"name": "JavaScript", "type": "tool", "context": "Long-lived language and the guest's original specialty"},
+    {"name": "Thoughtworks", "type": "company", "url": "https://www.thoughtworks.com", "context": "Consulting company credited with inventing the Tech Radar"},
+    {"name": "Wooga", "type": "company", "url": "https://www.wooga.com", "context": "Berlin game startup where the guest spent five years"},
+    {"name": "OLX", "type": "company", "url": "https://www.olxgroup.com", "context": "Alexey's example of hiring for a recommender systems team"},
+    {"name": "PyData", "type": "community", "url": "https://pydata.org", "context": "Berlin conference Alexey prepared a proposal for using ChatGPT"}
+  ]
+}

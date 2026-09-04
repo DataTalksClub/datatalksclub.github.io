@@ -1,0 +1,15 @@
+{
+  "slug": "scaling-data-engineering-teams-self-service-platforms",
+  "resources": [
+    {"name": "Airflow", "type": "tool", "url": "https://airflow.apache.org", "context": "Backbone of the data platform; conventions and DAG templates"},
+    {"name": "Kafka", "type": "tool", "url": "https://kafka.apache.org", "context": "Streaming at scale needs experts, schemas, and data contracts"},
+    {"name": "dbt", "type": "tool", "url": "https://www.getdbt.com", "context": "Open source SQL framework example; costly to build in-house"},
+    {"name": "Hadoop", "type": "tool", "url": "https://hadoop.apache.org", "context": "On-prem big data era with high barrier to entry"},
+    {"name": "Klarna", "type": "company", "url": "https://www.klarna.com", "context": "Guest's scale-up days with thirty new hires a month"},
+    {"name": "Airbnb", "type": "company", "url": "https://www.airbnb.com", "context": "Engineering blog and conference talks attract talent"},
+    {"name": "Google", "type": "company", "url": "https://www.google.com", "context": "Twenty percent time projects produced Google Maps"},
+    {"name": "Gorillas", "type": "company", "context": "Grocery delivery startup cited as a Berlin scale-up"},
+    {"name": "Zalando", "type": "company", "url": "https://www.zalando.de", "context": "Too established to be a scale-up; enterprise example"},
+    {"name": "Spotify", "type": "company", "url": "https://spotify.com", "context": "Named alongside Zalando as an enterprise, not a scale-up"}
+  ]
+}

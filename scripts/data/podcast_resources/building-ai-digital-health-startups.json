@@ -1,7 +1,9 @@
 {
   "slug": "building-ai-digital-health-startups",
   "resources": [
-    {"name": "SQIN", "type": "company", "url": "https://sqin.co", "context": "Guest's digital skin health clinic, from diagnosis to prescription"},
-    {"name": "Women in AI", "type": "community", "context": "Recognition naming the guest among the top 20 women in AI"}
+    {"name": "SQIN", "type": "company", "url": "https://sqin.co", "context": "Guest's digital skin clinic, from diagnosis to prescription"},
+    {"name": "Women in AI", "type": "community", "context": "Recognition naming the guest among the top 20 women in AI"},
+    {"name": "Siemens", "type": "company", "url": "https://www.siemens.com", "context": "Guest did transformation strategy for its managing board"},
+    {"name": "Instagram", "type": "service", "url": "https://www.instagram.com", "context": "Hosted one of the first AR lipstick try-on filters"}
   ]
 }

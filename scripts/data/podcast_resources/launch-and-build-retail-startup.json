@@ -1,0 +1,24 @@
+{
+  "slug": "launch-and-build-retail-startup",
+  "resources": [
+    {"name": "FreshFlow", "type": "company", "url": "https://freshflow.ai", "context": "Guest's startup: ordering system reducing supermarket fresh-product waste"},
+    {"name": "Entrepreneur First", "type": "company", "url": "https://www.joinef.com", "context": "Talent investor accelerator where guest found his co-founder"},
+    {"name": "The Mom Test", "type": "book", "url": "https://www.momtestbook.com", "context": "Recommended book on asking customers the right questions"},
+    {"name": "Design Thinking", "type": "book", "context": "Curedale's book behind the guest's user research approach"},
+    {"name": "Kubeflow", "type": "tool", "url": "https://www.kubeflow.org", "context": "Open-source MLOps platform abandoned after upgrade problems"},
+    {"name": "Google Cloud Platform", "type": "service", "url": "https://cloud.google.com", "context": "Managed cloud the guest recommends over open-source infrastructure"},
+    {"name": "BigQuery", "type": "service", "url": "https://cloud.google.com/bigquery", "context": "Part of guest's event-driven GCP architecture"},
+    {"name": "Cloud Run", "type": "service", "url": "https://cloud.google.com/run", "context": "Part of guest's event-driven GCP architecture"},
+    {"name": "Cloud Functions", "type": "service", "url": "https://cloud.google.com/functions", "context": "Part of guest's event-driven GCP architecture"},
+    {"name": "Firestore", "type": "service", "url": "https://firebase.google.com/products/firestore", "context": "Serves the FreshFlow app API, praised for speed"},
+    {"name": "Amazon Web Services", "type": "service", "url": "https://aws.amazon.com", "context": "Cloud alternative to GCP; offers startup credits"},
+    {"name": "TensorFlow.js", "type": "tool", "url": "https://www.tensorflow.org/js", "context": "Powered early web demo detecting banana ripeness"},
+    {"name": "Flutter", "type": "tool", "url": "https://flutter.dev", "context": "Guest considered learning it to build the mobile app"},
+    {"name": "Edeka", "type": "company", "url": "https://www.edeka.de", "context": "Largest German supermarket; pilot customer via its foodtech campus"},
+    {"name": "Volg", "type": "company", "url": "https://www.volg.ch", "context": "Swiss supermarket chain where FreshFlow ran an earlier pilot"},
+    {"name": "Shelf Engine", "type": "company", "context": "US company automating fresh ordering, cited as inspiration"},
+    {"name": "Afresh", "type": "company", "url": "https://www.afresh.com", "context": "US fresh-ordering startup cited alongside Shelf Engine"},
+    {"name": "The Alan Turing Institute", "type": "company", "url": "https://www.turing.ac.uk", "context": "Where guest mentored students in data science for social good"},
+    {"name": "Benedict Evans", "type": "person", "url": "https://ben-evans.com", "context": "VC and EF venture partner on guest's investment committee"}
+  ]
+}

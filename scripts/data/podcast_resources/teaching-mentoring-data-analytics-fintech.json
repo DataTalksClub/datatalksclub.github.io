@@ -1,0 +1,130 @@
+{
+  "slug": "teaching-mentoring-data-analytics-fintech",
+  "resources": [
+    {
+      "name": "FrauenLoop",
+      "type": "community",
+      "url": "https://www.frauenloop.org",
+      "context": "German NGO where guest teaches data analytics and SQL"
+    },
+    {
+      "name": "AI Guild",
+      "type": "company",
+      "context": "Guest designed its FinTech data science curriculum and certification track"
+    },
+    {
+      "name": "BigQuery",
+      "type": "service",
+      "url": "https://cloud.google.com/bigquery",
+      "context": "Guest teaches data science and BigQuery ML labs on it"
+    },
+    {
+      "name": "Google",
+      "type": "company",
+      "url": "https://about.google",
+      "context": "Guest's former employer; advertising data work and certification tie-in"
+    },
+    {
+      "name": "Google Cloud",
+      "type": "service",
+      "url": "https://cloud.google.com",
+      "context": "Cloud platform demystified for students; certifications offered"
+    },
+    {
+      "name": "AWS",
+      "type": "service",
+      "url": "https://aws.amazon.com",
+      "context": "Host's cloud at work, contrasted with Google Cloud simplicity"
+    },
+    {
+      "name": "Kaggle",
+      "type": "service",
+      "url": "https://www.kaggle.com",
+      "context": "Praised source of quality datasets for curriculum exercises"
+    },
+    {
+      "name": "Coursera",
+      "type": "service",
+      "url": "https://www.coursera.org",
+      "context": "Guest audited fraud courses when designing the fintech curriculum"
+    },
+    {
+      "name": "Max Planck Society",
+      "type": "company",
+      "url": "https://www.mpg.de",
+      "context": "Guest's research alma mater, recommended for study and teacher sourcing"
+    },
+    {
+      "name": "Tableau",
+      "type": "tool",
+      "url": "https://www.tableau.com",
+      "context": "Suggested visualization tool with a free public version"
+    },
+    {
+      "name": "dbt",
+      "type": "tool",
+      "url": "https://www.getdbt.com",
+      "context": "Guest sees no need for it if she orchestrates herself"
+    },
+    {
+      "name": "Pentaho",
+      "type": "tool",
+      "context": "Legacy open-source ETL tool from guest's BI past, since rebranded"
+    },
+    {
+      "name": "Berlin Mentoring Club",
+      "type": "community",
+      "context": "Mentoring community guest discovered after returning to Berlin"
+    },
+    {
+      "name": "PyLadies",
+      "type": "community",
+      "url": "https://pyladies.com",
+      "context": "Suggested group for attracting women to the data engineering course"
+    },
+    {
+      "name": "Girls Who Code",
+      "type": "community",
+      "url": "https://girlswhocode.com",
+      "context": "Women-in-tech group suggested for course outreach"
+    },
+    {
+      "name": "Women Who Code",
+      "type": "community",
+      "url": "https://www.womenwhocode.com",
+      "context": "Listener comment suggested partnering with them for outreach"
+    },
+    {
+      "name": "Women in Data Science",
+      "type": "community",
+      "context": "Listener-suggested women's organization for course partnerships"
+    },
+    {
+      "name": "Women in AI",
+      "type": "community",
+      "context": "Women-in-tech group guest mentions for outreach"
+    },
+    {
+      "name": "CorrelAid",
+      "type": "community",
+      "url": "https://correlaid.org",
+      "context": "Volunteer data organization with relatively balanced gender representation"
+    },
+    {
+      "name": "Citizens for Europe",
+      "type": "community",
+      "context": "Volunteer organization offering classes, suggested for course outreach"
+    },
+    {
+      "name": "Blockly",
+      "type": "tool",
+      "url": "https://developers.google.com/blockly",
+      "context": "Guest taught kids to code with it"
+    },
+    {
+      "name": "Gallup StrengthsFinder",
+      "type": "other",
+      "context": "Personality assessment guest mentions; her top strength is 'activator'"
+    }
+  ]
+}

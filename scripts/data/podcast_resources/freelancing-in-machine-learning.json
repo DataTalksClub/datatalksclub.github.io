@@ -1,0 +1,16 @@
+{
+  "slug": "freelancing-in-machine-learning",
+  "resources": [
+    {"name": "Million Dollar Consulting", "type": "book", "context": "Alan Weiss book on proposals and value-based consulting pricing"},
+    {"name": "Built to Sell", "type": "book", "url": "https://builttosell.com", "context": "Book on standardizing a consultancy so it runs without you"},
+    {"name": "LinkedIn", "type": "tool", "url": "https://www.linkedin.com", "context": "Main networking and self-promotion channel for finding clients"},
+    {"name": "Lunchclub", "type": "service", "url": "https://lunchclub.com", "context": "App matching users weekly for one-on-one networking meetings"},
+    {"name": "NeurIPS", "type": "community", "url": "https://neurips.cc", "context": "ML conference the guest attended as a researcher"},
+    {"name": "ELSTER", "type": "service", "url": "https://www.elster.de", "context": "German online portal for filing freelancer tax declarations"},
+    {"name": "Zalando", "type": "company", "url": "https://www.zalando.com", "context": "Guest's former employer and source of his consulting network"},
+    {"name": "jblas", "type": "tool", "url": "https://jblas.org", "context": "Guest's Java linear algebra library, still in use"},
+    {"name": "Google Calendar", "type": "tool", "context": "Separate calendar per client to keep availabilities in sync"},
+    {"name": "Google Sheets", "type": "tool", "context": "Tracking billable hours for hourly-rate invoicing"},
+    {"name": "Twitter", "type": "tool", "url": "https://twitter.com", "context": "Platform for networking; guest's handle is @mikiobraun"}
+  ]
+}

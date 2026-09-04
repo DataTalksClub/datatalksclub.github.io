@@ -1,0 +1,44 @@
+{
+  "slug": "hiring-for-data-science-jobs-interview-questions-skills.md",
+  "resources": [
+    {
+      "name": "Microsoft",
+      "type": "company",
+      "url": "https://www.microsoft.com",
+      "context": "Guest's employer; delivery data science director empowering customers"
+    },
+    {
+      "name": "Microsoft for Startups",
+      "type": "other",
+      "url": "https://startups.microsoft.com",
+      "context": "Program supporting startup founders, including female founders"
+    },
+    {
+      "name": "The Elements of Statistical Learning",
+      "type": "book",
+      "url": "https://hastie.su.domains/ElemStatLearn/",
+      "context": "Hastie/Tibshirani classic guest rereads for statistics refreshers"
+    },
+    {
+      "name": "DALL-E",
+      "type": "service",
+      "context": "Host played with its text-to-image prompts"
+    },
+    {
+      "name": "scikit-learn",
+      "type": "tool",
+      "url": "https://scikit-learn.org",
+      "context": "Host knows fit and predict, wants statistics refresher"
+    },
+    {
+      "name": "Human + Machine: Reimagining Work in the Age of AI",
+      "type": "book",
+      "context": "Book by Accenture's CTO on humans working with AI"
+    },
+    {
+      "name": "Araceli Segarra",
+      "type": "person",
+      "context": "Mountaineer author; her book taught communication as vitamin C"
+    }
+  ]
+}

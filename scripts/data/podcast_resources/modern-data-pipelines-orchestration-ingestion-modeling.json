@@ -1,0 +1,31 @@
+{
+  "slug": "modern-data-pipelines-orchestration-ingestion-modeling",
+  "resources": [
+    {"name": "Apache Airflow", "type": "tool", "url": "https://airflow.apache.org/", "context": "orchestration engine central to guest's workflow-authoring work"},
+    {"name": "dbt", "type": "tool", "url": "https://www.getdbt.com/", "context": "SQL transformation tool; analytics engineering; Upsolver connector"},
+    {"name": "Snowflake", "type": "service", "url": "https://www.snowflake.com/", "context": "data warehouse anchoring the modern data stack examples"},
+    {"name": "Upsolver", "type": "service", "url": "https://www.upsolver.com/", "context": "guest's company; SQL-based streaming ingestion and pipelines"},
+    {"name": "Astronomer", "type": "company", "url": "https://www.astronomer.io/", "context": "managed Airflow service; guest's former employer"},
+    {"name": "Fundamentals of Data Engineering", "type": "book", "url": "https://www.dataengineeringbook.com/", "context": "recommended data engineering book, by Joe and Matt"},
+    {"name": "Data Pipelines with Apache Airflow", "type": "book", "url": "https://www.manning.com/books/data-pipelines-with-apache-airflow", "context": "Airflow book by guest's friend Bas at Astronomer"},
+    {"name": "Apache Spark", "type": "tool", "url": "https://spark.apache.org/", "context": "transformation engine option for ML pipelines"},
+    {"name": "Apache Kafka", "type": "tool", "url": "https://kafka.apache.org/", "context": "streaming queue; combining queues for transformations discussed"},
+    {"name": "Prefect", "type": "tool", "url": "https://www.prefect.io/", "context": "modern orchestrator alternative mentioned"},
+    {"name": "Dagster", "type": "tool", "url": "https://dagster.io/", "context": "modern orchestrator alternative mentioned"},
+    {"name": "Mage", "type": "tool", "url": "https://www.mage.ai/", "context": "modern orchestrator alternative mentioned"},
+    {"name": "Fivetran", "type": "service", "url": "https://www.fivetran.com/", "context": "ingestion tool that hides staging under the hood"},
+    {"name": "Databricks", "type": "company", "url": "https://www.databricks.com/", "context": "platform bundling multiple data stack pieces"},
+    {"name": "Amazon S3", "type": "service", "url": "https://aws.amazon.com/s3/", "context": "data lake and staging bucket location"},
+    {"name": "Amazon Kinesis", "type": "service", "url": "https://aws.amazon.com/kinesis/", "context": "streaming queue alongside Kafka for ingestion"},
+    {"name": "Google BigQuery", "type": "service", "url": "https://cloud.google.com/bigquery", "context": "warehouse dbt delegates execution to"},
+    {"name": "Google Cloud Storage", "type": "service", "url": "https://cloud.google.com/storage", "context": "staging bucket alternative to S3"},
+    {"name": "RabbitMQ", "type": "tool", "url": "https://www.rabbitmq.com/", "context": "queue delivering questions in Directly's ML pipeline"},
+    {"name": "Apache Hive", "type": "tool", "url": "https://hive.apache.org/", "context": "metastore over S3 data lake for NLP features"},
+    {"name": "ROOT", "type": "tool", "url": "https://root.cern/", "context": "CERN data analysis software; skills-translation example"},
+    {"name": "CERN", "type": "company", "url": "https://home.cern", "context": "guest's researcher past; massive physics data pipelines"},
+    {"name": "Directly", "type": "company", "context": "guest's former employer; predictive routing ML pipeline"},
+    {"name": "Salesforce", "type": "service", "url": "https://www.salesforce.com/", "context": "example CRM data source pulled into analytics pipelines"},
+    {"name": "Zendesk", "type": "service", "url": "https://www.zendesk.com/", "context": "example SaaS data source staged into the warehouse"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org/", "context": "guest's preferred language alongside SQL for ML work"}
+  ]
+}

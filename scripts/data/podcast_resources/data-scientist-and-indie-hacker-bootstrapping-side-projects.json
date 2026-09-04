@@ -1,0 +1,93 @@
+{
+  "slug": "data-scientist-and-indie-hacker-bootstrapping-side-projects",
+  "resources": [
+    {
+      "name": "IBM",
+      "type": "company",
+      "url": "https://www.ibm.com",
+      "context": "Guest's day job as data science manager and consultant"
+    },
+    {
+      "name": "DreamBooth",
+      "type": "tool",
+      "url": "https://arxiv.org/abs/2208.12242",
+      "context": "AI image fine-tuning model behind UnrealMe, accessed via API"
+    },
+    {
+      "name": "UnrealMe",
+      "type": "service",
+      "url": "https://unrealme.io",
+      "context": "Guest's service generating stylized AI portraits from selfies"
+    },
+    {
+      "name": "Cryptopy",
+      "type": "service",
+      "context": "Guest's crypto alerting tool, her first indie hacking project"
+    },
+    {
+      "name": "Pieter Levels",
+      "type": "person",
+      "url": "https://levels.io",
+      "context": "Indie hacker whose Interior AI project inspired UnrealMe"
+    },
+    {
+      "name": "AboutStartup.io",
+      "type": "other",
+      "url": "https://aboutstartup.io",
+      "context": "Guest's blog interviewing indie hackers about building companies"
+    },
+    {
+      "name": "Interior AI",
+      "type": "service",
+      "url": "https://interiorai.com",
+      "context": "Pieter Levels' AI interior redesign site that validated the idea"
+    },
+    {
+      "name": "Python",
+      "type": "tool",
+      "url": "https://www.python.org",
+      "context": "Language used to build Cryptopy"
+    },
+    {
+      "name": "Flask",
+      "type": "tool",
+      "url": "https://flask.palletsprojects.com",
+      "context": "Python web framework used for Cryptopy"
+    },
+    {
+      "name": "Twitter",
+      "type": "service",
+      "url": "https://twitter.com",
+      "context": "Guest's main marketing channel and audience-building platform"
+    },
+    {
+      "name": "Google Cloud Platform",
+      "type": "service",
+      "url": "https://cloud.google.com",
+      "context": "Cloud platform the guest learned through side projects"
+    },
+    {
+      "name": "Bootstrap",
+      "type": "tool",
+      "url": "https://getbootstrap.com",
+      "context": "Framework assumed for building the project landing pages"
+    },
+    {
+      "name": "Data Sense",
+      "type": "other",
+      "context": "Blog with data use cases the guest reads frequently"
+    },
+    {
+      "name": "Adobe Photoshop",
+      "type": "tool",
+      "url": "https://www.adobe.com/products/photoshop.html",
+      "context": "Design tool the guest learned for project images"
+    },
+    {
+      "name": "Java",
+      "type": "tool",
+      "url": "https://www.java.com",
+      "context": "Co-founder's language; used for one Cryptopy feature"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "ml-product-manager-and-mlops-platform-strategy",
+  "resources": [
+    {"name": "Glovo", "type": "company", "url": "https://www.glovoapp.com", "context": "guest's company; he leads its ML platform product"},
+    {"name": "Revolut", "type": "company", "url": "https://www.revolut.com", "context": "guest's previous PM role; model governance and QA"},
+    {"name": "Cracking the PM Interview", "type": "book", "context": "book that helped Geo transition into product management"},
+    {"name": "Cracking the Coding Interview", "type": "book", "url": "https://www.crackingthecodinginterview.com", "context": "Geo read it while applying for engineering jobs"},
+    {"name": "The Lean Startup", "type": "book", "url": "https://theleanstartup.com", "context": "recommended for lean, measurement-driven product mindset"},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "infrastructure underneath Argo-based training workflows"},
+    {"name": "Argo", "type": "tool", "url": "https://argoproj.github.io", "context": "replacing Jenkins for scalable training orchestration"},
+    {"name": "Airflow", "type": "tool", "url": "https://airflow.apache.org", "context": "adopted with Argo for workflow orchestration"},
+    {"name": "Jenkins", "type": "tool", "url": "https://www.jenkins.io", "context": "legacy orchestration and CI/CD being replaced"},
+    {"name": "Spinnaker", "type": "tool", "url": "https://spinnaker.io", "context": "used for model deployment CI/CD pipelines"},
+    {"name": "Great Expectations", "type": "tool", "url": "https://greatexpectations.io", "context": "data quality tooling integrated into the platform"},
+    {"name": "Datadog", "type": "service", "url": "https://www.datadoghq.com", "context": "where platform observability metrics get pushed"},
+    {"name": "Jira", "type": "tool", "url": "https://www.atlassian.com/software/jira", "context": "dummy model predicts weekly Jira ticket volume"},
+    {"name": "NumPy", "type": "tool", "url": "https://numpy.org", "context": "integrated in the platform's core library"},
+    {"name": "Pandas", "type": "tool", "url": "https://pandas.pydata.org", "context": "integrated in the platform's core library"},
+    {"name": "Google Cloud Platform", "type": "service", "url": "https://cloud.google.com", "context": "Revolut's cloud; Geo learned Dataflow and Pub/Sub"},
+    {"name": "AWS", "type": "service", "url": "https://aws.amazon.com", "context": "Glovo's primary cloud provider"},
+    {"name": "OpenShift", "type": "tool", "url": "https://www.openshift.com", "context": "private cloud platform used at Amadeus"},
+    {"name": "Amadeus", "type": "company", "url": "https://www.amadeus.com", "context": "Geo's earlier employer with an in-house private cloud"},
+    {"name": "Zillow", "type": "company", "url": "https://www.zillow.com", "context": "cautionary example of model failure and governance"},
+    {"name": "Product School", "type": "community", "url": "https://productschool.com", "context": "product management talks Geo followed while transitioning"}
+  ]
+}

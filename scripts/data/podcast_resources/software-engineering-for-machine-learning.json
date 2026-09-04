@@ -1,0 +1,74 @@
+{
+  "slug": "software-engineering-for-machine-learning",
+  "resources": [
+    {
+      "name": "Hidden Technical Debt in Machine Learning Systems",
+      "type": "paper",
+      "url": "https://proceedings.neurips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html",
+      "context": "Famous Google paper with viral diagram of ML inside the whole system"
+    },
+    {
+      "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "type": "book",
+      "context": "Gang of Four book, cited as research successfully applied to industry"
+    },
+    {
+      "name": "GitHub",
+      "type": "tool",
+      "url": "https://github.com",
+      "context": "Source of guest's dataset of open-source ML products and repos"
+    },
+    {
+      "name": "Model Cards",
+      "type": "paper",
+      "url": "https://arxiv.org/abs/1810.03993",
+      "context": "Documentation template recommended for describing machine learning models"
+    },
+    {
+      "name": "Datasheets for Datasets",
+      "type": "paper",
+      "url": "https://arxiv.org/abs/1803.09010",
+      "context": "Data documentation template mentioned alongside Model Cards"
+    },
+    {
+      "name": "CRISP-DM",
+      "type": "other",
+      "context": "Process model host cites to reduce ML project failures"
+    },
+    {
+      "name": "Machine Learning Canvas",
+      "type": "other",
+      "context": "Canvas checklist for thinking through model aspects before building"
+    },
+    {
+      "name": "PyTorch",
+      "type": "tool",
+      "url": "https://pytorch.org",
+      "context": "Bare model in a notebook contrasted with a complete product"
+    },
+    {
+      "name": "Jupyter Notebook",
+      "type": "tool",
+      "url": "https://jupyter.org",
+      "context": "Models living only in notebooks versus deployable end-user products"
+    },
+    {
+      "name": "Hugging Face",
+      "type": "service",
+      "url": "https://huggingface.co",
+      "context": "Platform hosting model cores, not whole products around them"
+    },
+    {
+      "name": "Confluence",
+      "type": "service",
+      "url": "https://www.atlassian.com/software/confluence",
+      "context": "Documentation tool where project checklists could live"
+    },
+    {
+      "name": "Jira",
+      "type": "tool",
+      "url": "https://www.atlassian.com/software/jira",
+      "context": "Whether data scientists should join the Agile board"
+    }
+  ]
+}

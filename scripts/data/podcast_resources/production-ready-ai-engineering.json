@@ -1,0 +1,30 @@
+{
+  "slug": "production-ready-ai-engineering",
+  "resources": [
+    {"name": "97 Things Every Data Engineer Should Know", "type": "book", "context": "Community-based book; guest contributed the testing chapter"},
+    {"name": "Cursor", "type": "tool", "url": "https://cursor.com", "context": "AI code editor guest pays for and recommends"},
+    {"name": "Great Expectations", "type": "tool", "url": "https://greatexpectations.io", "context": "Data quality checks run after each pipeline step"},
+    {"name": "Soda", "type": "tool", "url": "https://www.soda.io", "context": "Data testing tool for defining pipeline checks"},
+    {"name": "Apache Spark", "type": "tool", "url": "https://spark.apache.org", "context": "Guest's go-to for building and testing data pipelines"},
+    {"name": "pandas", "type": "tool", "url": "https://pandas.pydata.org", "context": "Python pipelines with pandas are easy to unit test"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Language of data pipelines discussed in the testing context"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Used to unstick and rewrite blog writing"},
+    {"name": "Claude", "type": "service", "url": "https://claude.ai", "context": "Cited for prompt caching that lowers coding costs"},
+    {"name": "Perplexity", "type": "service", "url": "https://www.perplexity.ai", "context": "AI search tool where guest uses DeepSeek models"},
+    {"name": "DeepSeek", "type": "service", "url": "https://www.deepseek.com", "context": "Open-source model guest tries via Perplexity"},
+    {"name": "GitHub Copilot", "type": "service", "url": "https://github.com/features/copilot", "context": "Earlier assistant compared unfavorably with Cursor"},
+    {"name": "BigQuery", "type": "service", "url": "https://cloud.google.com/bigquery", "context": "Easier SQL alternative to Spark for new projects"},
+    {"name": "Snowflake", "type": "service", "url": "https://www.snowflake.com", "context": "Easier SQL alternative to Spark for new projects"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Blog deploys via service building Docker images"},
+    {"name": "GitHub Pages", "type": "service", "url": "https://pages.github.com", "context": "Hosts guest's static-site blog"},
+    {"name": "Amazon S3", "type": "service", "url": "https://aws.amazon.com/s3", "context": "Static site hosting option with attached domain"},
+    {"name": "Obsidian", "type": "tool", "url": "https://obsidian.md", "context": "Editor without autocomplete, preferred for free writing"},
+    {"name": "IntelliJ IDEA", "type": "tool", "url": "https://www.jetbrains.com/idea/", "context": "Automatic refactoring features guest still misses"},
+    {"name": "Visual Studio Code", "type": "tool", "url": "https://code.visualstudio.com", "context": "Editor guest uses; weaker refactoring than IntelliJ"},
+    {"name": "MediaWiki", "type": "tool", "url": "https://www.mediawiki.org", "context": "Self-hosted wiki for notes; not presentable to clients"},
+    {"name": "LinkedIn", "type": "service", "url": "https://www.linkedin.com", "context": "Platform for guest's AI lead-classification Chrome extension"},
+    {"name": "LinkedIn Sales Navigator", "type": "service", "url": "https://www.linkedin.com/products/sales-navigator", "context": "Disappointing paid lead-filtering tool, about 100 EUR monthly"},
+    {"name": "Bolt", "type": "tool", "url": "https://bolt.new", "context": "Named among new AI coding tools to try"},
+    {"name": "Lovable", "type": "tool", "url": "https://lovable.dev", "context": "Named among new AI coding tools to try"}
+  ]
+}

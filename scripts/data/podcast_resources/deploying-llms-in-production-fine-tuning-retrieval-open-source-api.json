@@ -1,0 +1,27 @@
+{
+  "slug": "deploying-llms-in-production-fine-tuning-retrieval-open-source-api",
+  "resources": [
+    {"name": "TitanML", "type": "company", "url": "https://www.titanml.co", "context": "Guest's company; Train, Optimized, and Takeoff LLM offerings"},
+    {"name": "Titan Takeoff", "type": "tool", "context": "Newly released inference server for on-premise LLM serving"},
+    {"name": "OpenAI", "type": "company", "url": "https://openai.com", "context": "Closed API models changed behind users' backs; legacy deprecations"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Conversational breakthrough; helps write Django website code"},
+    {"name": "GPT-4", "type": "tool", "context": "Flagship API model; secretly benchmarked accuracy dropped over time"},
+    {"name": "GPT-3", "type": "tool", "context": "Early impressive model that needed clever prompting"},
+    {"name": "LLaMA", "type": "tool", "url": "https://ai.meta.com/llama", "context": "Open-source model family; Meta released LLaMA 2 during recording"},
+    {"name": "Falcon", "type": "tool", "url": "https://falconllm.tii.ae", "context": "Open-source model released from Abu Dhabi"},
+    {"name": "MPT", "type": "tool", "context": "Open-source model released by MosaicML"},
+    {"name": "BERT", "type": "tool", "url": "https://github.com/google-research/bert", "context": "Non-generative model for classification; requires fine-tuning"},
+    {"name": "FLAN-T5", "type": "tool", "context": "Google model good at translation and summarization"},
+    {"name": "RoBERTa", "type": "tool", "context": "Understanding model like BERT for NLU tasks"},
+    {"name": "ELECTRA", "type": "tool", "context": "Understanding model like BERT for NLU tasks"},
+    {"name": "How Is ChatGPT's Behavior Changing Over Time?", "type": "paper", "url": "https://arxiv.org/abs/2307.09009", "context": "Secret benchmarking paper showing GPT-4 performance drift"},
+    {"name": "Zero to One", "type": "book", "context": "Peter Thiel's book framing MVP-versus-scale tooling choices"},
+    {"name": "Peter Thiel", "type": "person", "context": "Author of Zero to One; move quickest toward product-market fit"},
+    {"name": "Hugging Face Course", "type": "course", "url": "https://huggingface.co/learn", "context": "Recommended course for learning about LLMs"},
+    {"name": "LLM University", "type": "course", "context": "Cohere's recommended learning resource for LLMs"},
+    {"name": "Confluence", "type": "tool", "url": "https://www.atlassian.com/software/confluence", "context": "Knowledge base to embed and index for retrieval"},
+    {"name": "Notion", "type": "tool", "url": "https://www.notion.so", "context": "Knowledge base example for grounding LLM answers"},
+    {"name": "GPTeacher", "type": "other", "context": "TitanML benchmark of LLM-augmented versus hand-labeled fine-tuning data"},
+    {"name": "Django", "type": "tool", "url": "https://www.djangoproject.com", "context": "Alexey's GPT-4-assisted website building experiment"}
+  ]
+}

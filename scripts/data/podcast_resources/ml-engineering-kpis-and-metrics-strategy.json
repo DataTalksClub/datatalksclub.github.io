@@ -1,0 +1,17 @@
+{
+  "slug": "ml-engineering-kpis-and-metrics-strategy",
+  "resources": [
+    {"name": "Peter Drucker", "type": "person", "context": "quoted: if you can't express it in numbers, you can't manage it"},
+    {"name": "Robert McNamara", "type": "person", "context": "quoted: make the important measurable, not the measurable important"},
+    {"name": "XKCD", "type": "other", "url": "https://xkcd.com", "context": "comic about stirring numbers until the desired output"},
+    {"name": "Zemax", "type": "tool", "url": "https://www.zemax.com", "context": "lens design software automated during Adam's laser PhD"},
+    {"name": "MATLAB", "type": "tool", "url": "https://www.mathworks.com/products/matlab.html", "context": "used to build software automating Zemax"},
+    {"name": "Spotify", "type": "company", "url": "https://spotify.com", "context": "North Star metric example: minutes of audio listened"},
+    {"name": "Domino Data Lab", "type": "company", "url": "https://www.dominodatalab.com", "context": "recommended blog post on data science team KPIs"},
+    {"name": "Power BI", "type": "tool", "url": "https://powerbi.microsoft.com", "context": "recommended for making KPI dashboards visible to everyone"},
+    {"name": "Tableau", "type": "tool", "url": "https://www.tableau.com", "context": "KPI dashboards to mount where staff check them"},
+    {"name": "Origami Energy", "type": "company", "url": "https://www.origamienergy.com", "context": "Adam's current employer; ML for green energy"},
+    {"name": "Incremental Group", "type": "company", "url": "https://www.incrementalgroup.co.uk", "context": "Glasgow consultancy where Adam led data and AI"},
+    {"name": "Bill Gates", "type": "person", "context": "quoted: measuring code by lines is weighing airplanes"}
+  ]
+}

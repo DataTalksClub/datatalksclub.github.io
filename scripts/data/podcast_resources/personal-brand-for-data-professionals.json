@@ -1,0 +1,23 @@
+{
+  "slug": "personal-brand-for-data-professionals",
+  "resources": [
+    {"name": "Medium", "type": "tool", "url": "https://medium.com", "context": "Long-form writing platform that built his audience"},
+    {"name": "LinkedIn", "type": "tool", "url": "https://www.linkedin.com", "context": "Primary platform for posts, networking, and recruiter visibility"},
+    {"name": "Twitter", "type": "tool", "url": "https://twitter.com", "context": "Growing platform he experiments with for sharing content"},
+    {"name": "Towards Data Science", "type": "other", "url": "https://towardsdatascience.com", "context": "Publication where his early articles got published"},
+    {"name": "Hootsuite", "type": "tool", "url": "https://www.hootsuite.com", "context": "Schedules a week of content in advance"},
+    {"name": "Feedly", "type": "tool", "url": "https://feedly.com", "context": "Aggregates articles daily for content inspiration"},
+    {"name": "BuzzSumo", "type": "tool", "url": "https://buzzsumo.com", "context": "Shows trending topics to generate content ideas"},
+    {"name": "Evernote", "type": "tool", "url": "https://evernote.com", "context": "Jotting down content ideas whenever they appear"},
+    {"name": "The Hundred-Page Machine Learning Book", "type": "book", "url": "http://themlbook.com", "context": "Recommended bestseller, easy to understand"},
+    {"name": "An Introduction to Statistical Learning", "type": "book", "url": "https://www.statlearning.com", "context": "Bible for machine learning; gave him strong foundations"},
+    {"name": "Quora", "type": "tool", "url": "https://www.quora.com", "context": "Q&A platform for sharing knowledge and finding content ideas"},
+    {"name": "Stack Overflow", "type": "community", "url": "https://stackoverflow.com", "context": "Technical answers that build portfolio visibility"},
+    {"name": "Lunchclub", "type": "tool", "url": "https://lunchclub.com", "context": "Online networking platform matching professionals one-on-one"},
+    {"name": "Clubhouse", "type": "tool", "url": "https://www.joinclubhouse.com", "context": "Audio platform he wants to try in the future"},
+    {"name": "Reddit", "type": "tool", "url": "https://www.reddit.com", "context": "Suggested alongside Quora for sharing knowledge"},
+    {"name": "Hackwagon Academy", "type": "company", "context": "Where he teaches data science in Singapore"},
+    {"name": "Gary Vaynerchuk", "type": "person", "url": "https://www.garyvaynerchuk.com", "context": "Source of repurposing one podcast into many posts"},
+    {"name": "Jack Ma", "type": "person", "context": "Quote about staying balanced under praise and criticism"}
+  ]
+}

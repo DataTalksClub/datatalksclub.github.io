@@ -1,0 +1,20 @@
+{
+  "slug": "responsible-explainable-ai-bias-detection",
+  "resources": [
+    {"name": "Trustworthy AI", "type": "book", "context": "Book on types of bias and responsible AI, cited twice."},
+    {"name": "What-If Tool", "type": "tool", "url": "https://pair-code.github.io/what-if-tool/", "context": "Google's interactive tool for inspecting model behavior and features."},
+    {"name": "Skater", "type": "tool", "url": "https://github.com/oracle/Skater", "context": "Open source Python library for explaining model functioning."},
+    {"name": "AI Explainability 360", "type": "tool", "url": "https://github.com/Trusted-AI/AIX360", "context": "IBM's open source toolkit for comprehending ML predictions."},
+    {"name": "LIME", "type": "tool", "url": "https://github.com/marcotcr/lime", "context": "Surrogate-model technique for interpreting black-box predictions."},
+    {"name": "SHAP", "type": "tool", "url": "https://github.com/shap/shap", "context": "Shapley values mentioned alongside LIME for interpretation."},
+    {"name": "Fairlearn", "type": "tool", "url": "https://fairlearn.org", "context": "Fairness library suggested by a listener, likened to scikit-learn."},
+    {"name": "TensorFlow", "type": "tool", "url": "https://www.tensorflow.org", "context": "Google framework the What-If Tool integrates with."},
+    {"name": "DataBuzz", "type": "community", "context": "Guest's community mentoring people pivoting into data careers."},
+    {"name": "PySpark", "type": "tool", "url": "https://spark.apache.org", "context": "Environment where explainability libraries can be integrated."},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Language for pipelines and building automated bias checks."},
+    {"name": "AWS", "type": "service", "url": "https://aws.amazon.com", "context": "Notebook instances offer tools for monitoring data drift."},
+    {"name": "Amazon", "type": "company", "url": "https://www.amazon.com", "context": "Its biased AI recruiting tool illustrated historical hiring bias."},
+    {"name": "Morgan Stanley", "type": "company", "url": "https://www.morganstanley.com", "context": "Guest's employer; wealth management data strategy and AI products."},
+    {"name": "What Would an Avenger Do?", "type": "paper", "context": "Cool paper recommended by a listener in the chat."}
+  ]
+}

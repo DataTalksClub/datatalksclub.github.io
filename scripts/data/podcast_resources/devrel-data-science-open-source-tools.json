@@ -1,0 +1,21 @@
+{
+  "slug": "devrel-data-science-open-source-tools",
+  "resources": [
+    {"name": "Iterative", "type": "company", "url": "https://iterative.ai", "context": "Company behind DVC and CML; Elle's employer"},
+    {"name": "DVC", "type": "tool", "url": "https://dvc.org", "context": "Data Version Control, Iterative's core open-source tool"},
+    {"name": "CML", "type": "tool", "url": "https://cml.dev", "context": "Continuous Machine Learning; Elle works on its product team"},
+    {"name": "StyleGAN", "type": "tool", "url": "https://github.com/NVlabs/stylegan", "context": "NVIDIA GAN behind Elle's viral face-morphing video"},
+    {"name": "Git", "type": "tool", "url": "https://git-scm.com", "context": "Never taught in her labs; reproducibility skills gap"},
+    {"name": "Bitbucket Cloud", "type": "service", "url": "https://bitbucket.org", "context": "Support Elle added to CML via a pull request"},
+    {"name": "University of Michigan School of Information", "type": "company", "url": "https://si.umich.edu", "context": "Elle's lecturer role building Applied Data Science curriculum"},
+    {"name": "Hacker News", "type": "community", "url": "https://news.ycombinator.com", "context": "Release promotion channel with high toxicity"},
+    {"name": "r/MachineLearning", "type": "community", "url": "https://www.reddit.com/r/MachineLearning/", "context": "Toxic subreddit where she answers questions monthly"},
+    {"name": "r/bloggers", "type": "community", "url": "https://www.reddit.com/r/bloggers/", "context": "Recommended subreddit for sharing blog posts"},
+    {"name": "Twitter", "type": "other", "url": "https://twitter.com", "context": "Elle's preferred, safer data science community"},
+    {"name": "YouTube", "type": "other", "url": "https://www.youtube.com", "context": "Main channel for her teaching and product videos"},
+    {"name": "Medium", "type": "other", "url": "https://medium.com", "context": "Recommended platform to start blogging"},
+    {"name": "Towards Data Science", "type": "other", "url": "https://towardsdatascience.com", "context": "Recommended site for beginner data science posts"},
+    {"name": "Discord", "type": "service", "url": "https://discord.com", "context": "Iterative's support channel revealing user stumbling blocks"},
+    {"name": "AWS", "type": "company", "url": "https://aws.amazon.com", "context": "Developer advocate outreach; community backlash example"}
+  ]
+}

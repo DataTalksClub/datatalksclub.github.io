@@ -1,0 +1,24 @@
+{
+  "slug": "open-source-turned-into-career-and-startup-creation",
+  "resources": [
+    {"name": "Rich", "type": "tool", "url": "https://github.com/Textualize/rich", "context": "Terminal styling library whose popularity led to the company"},
+    {"name": "Textual", "type": "tool", "url": "https://github.com/Textualize/textual", "context": "Terminal GUI framework built on top of Rich"},
+    {"name": "Textualize", "type": "company", "url": "https://www.textualize.io", "context": "Company Will founded after pre-seed funding via Twitter"},
+    {"name": "PyFilesystem", "type": "tool", "url": "https://github.com/PyFilesystem/pyfilesystem2", "context": "Virtual filesystem abstraction library, still widely used"},
+    {"name": "pandas", "type": "tool", "url": "https://pandas.pydata.org", "context": "Reads and writes S3 using the s3fs dependency"},
+    {"name": "GitHub", "type": "tool", "url": "https://github.com", "context": "Workflow, stars, Projects board, and Discussions"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Language of all his libraries and freelance work"},
+    {"name": "Amazon S3", "type": "service", "url": "https://aws.amazon.com/s3/", "context": "Object storage that is not a full filesystem"},
+    {"name": "S3FS", "type": "tool", "context": "PyFilesystem backend for writing to Amazon S3"},
+    {"name": "PyPI", "type": "tool", "url": "https://pypi.org", "context": "Distribution channel for Textual applications"},
+    {"name": "Twitter", "type": "tool", "url": "https://twitter.com", "context": "Building in public attracted followers and venture capital"},
+    {"name": "Streamlit", "type": "company", "url": "https://streamlit.io", "context": "Similar freemium business model comparison"},
+    {"name": "Snowflake", "type": "service", "url": "https://www.snowflake.com", "context": "Acquired Streamlit; joke about DMing Will"},
+    {"name": "Reddit", "type": "tool", "url": "https://www.reddit.com", "context": "Good channel for announcing projects, e.g. r/Python"},
+    {"name": "Hacker News", "type": "other", "url": "https://news.ycombinator.com", "context": "Possible viral channel for project attention"},
+    {"name": "Discourse", "type": "tool", "url": "https://www.discourse.org", "context": "Forum platform used for project discussions"},
+    {"name": "Discord", "type": "tool", "url": "https://discord.com", "context": "Chat server for the project community"},
+    {"name": "Internet Chess Club", "type": "company", "context": "Early employer; chess interface work inspired PyFilesystem"},
+    {"name": "Google Code", "type": "other", "context": "Pre-GitHub hosting for his early open source projects"}
+  ]
+}
