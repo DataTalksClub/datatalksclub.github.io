@@ -2,14 +2,15 @@
 short: rossbrigoli
 title: "Ross Brigoli"
 picture: "images/authors/rossbrigoli.jpg"
+bio_short: "Ross Brigoli is a consulting architect at Red Hat focused on delivering cutting-edge solutions to enterprises. Originally from the Philippines, he has worked in the UK and France and is currently based in Singapore. He is the co-author of Machine Learning on Kubernetes and writes about hacks and DIY projects on his blog at blog.rossbrigoli.com."
 github: rossbrigoli
 twitter: rossbrigoli
 linkedin: rossbrigoli
 
 ---
 
-I am a consulting architect at Red Hat focused on delivering cutting-edge solutions to enterprises. I am originally from the Philippines. I have previously worked in the UK and France and am currently living in Singapore.
+Ross Brigoli is a consulting architect at Red Hat, where he focuses on delivering cutting-edge solutions to enterprise customers. The role draws on a genuinely international career: originally from the Philippines, Ross has worked in the UK and France and is currently living in Singapore, giving him a broad view of how organizations around the world build and run their platforms.
 
-I am a father of a little girl who loves dinosaurs. That makes me an expert in dinosaurs too.
+He is the co-author, with Faisal Masood, of Machine Learning on Kubernetes, a practical handbook for running machine learning workloads on Kubernetes in enterprise environments.
 
-I write about different topics, mostly hacks, and DIY projects, on my blog: https://blog.rossbrigoli.com.
+Ross also shares what he learns along the way. On his blog at https://blog.rossbrigoli.com he writes about a range of topics, mostly hacks and DIY projects, in the same practical spirit he brings to his architecture work.
