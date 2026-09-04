@@ -1,0 +1,18 @@
+{
+  "slug": "building-data-products-lead-data-scientist",
+  "resources": [
+    {"name": "easyJet", "type": "company", "url": "https://www.easyjet.com/", "context": "Guest's airline employer; data products for digital marketing"},
+    {"name": "MLOps Zoomcamp", "type": "course", "url": "https://mlops.zoomcamp.com/", "context": "Course guest took to learn the production ML side"},
+    {"name": "Evidently", "type": "tool", "url": "https://www.evidentlyai.com/", "context": "Favorite Python library for model and data monitoring"},
+    {"name": "MLflow", "type": "tool", "url": "https://mlflow.org/", "context": "Model tracking tool he already used at work"},
+    {"name": "Prefect", "type": "tool", "url": "https://www.prefect.io/", "context": "Orchestration tool he explored through the course"},
+    {"name": "Apache Airflow", "type": "tool", "url": "https://airflow.apache.org/", "context": "Orchestrator used by easyJet's data engineering team"},
+    {"name": "Cassie Kozyrkov", "type": "person", "url": "https://www.cassiekozyrkov.com/", "context": "Decision intelligence advocate; model for explaining technical topics"},
+    {"name": "Making Friends with Machine Learning", "type": "course", "context": "Her YouTube course on communicating ML to non-technical audiences"},
+    {"name": "Pattern Recognition and Machine Learning", "type": "book", "url": "https://link.springer.com/book/10.1007/978-0-387-45597-7", "context": "Heavy math textbook recommended for ML foundations"},
+    {"name": "Tableau", "type": "tool", "url": "https://www.tableau.com/", "context": "Dashboards for insights and monitoring proof of concept"},
+    {"name": "Grafana", "type": "tool", "url": "https://grafana.com/", "context": "Considered for monitoring UI before custom email alerts"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com/", "context": "Hack for simplifying technical explanations for non-technical people"},
+    {"name": "MLOps Summit", "type": "community", "context": "Conference where he presented easyJet's data science operating model"}
+  ]
+}

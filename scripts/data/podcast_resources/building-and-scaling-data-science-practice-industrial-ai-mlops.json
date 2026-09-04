@@ -1,0 +1,14 @@
+{
+  "slug": "building-and-scaling-data-science-practice-industrial-ai-mlops",
+  "resources": [
+    {"name": "Honeywell", "type": "company", "url": "https://www.honeywell.com/", "context": "Guest's employer; industrial company undergoing AI-driven digital transformation"},
+    {"name": "Weights & Biases", "type": "tool", "url": "https://wandb.ai/", "context": "Experiment tracking tool considered for standardized MLOps tooling"},
+    {"name": "Neptune", "type": "tool", "url": "https://neptune.ai/", "context": "Experiment tracking option evaluated for the central practice"},
+    {"name": "Comet", "type": "tool", "url": "https://www.comet.com/", "context": "Experiment tracking option evaluated for the central practice"},
+    {"name": "PyTorch", "type": "tool", "url": "https://pytorch.org/", "context": "Example framework teams shouldn't all be forced to standardize on"},
+    {"name": "TensorFlow", "type": "tool", "url": "https://www.tensorflow.org/", "context": "Framework some teams use instead of PyTorch"},
+    {"name": "Stable Diffusion", "type": "tool", "url": "https://stability.ai/", "context": "Democratized AI example that gets engineers overexcited to experiment"},
+    {"name": "Google Colab", "type": "service", "url": "https://colab.research.google.com/", "context": "Notebook that makes trying Stable Diffusion effortless"},
+    {"name": "Jupyter Notebook", "type": "tool", "url": "https://jupyter.org/", "context": "Research code here shouldn't go straight to production"}
+  ]
+}

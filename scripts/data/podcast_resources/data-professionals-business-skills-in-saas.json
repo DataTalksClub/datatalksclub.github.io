@@ -1,0 +1,70 @@
+{
+  "slug": "data-professionals-business-skills-in-saas",
+  "resources": [
+    {
+      "name": "Discovering Data",
+      "type": "other",
+      "url": "https://www.discoveringdata.com",
+      "context": "Loris's podcast, website, and new Discord community"
+    },
+    {
+      "name": "Notion",
+      "type": "tool",
+      "url": "https://www.notion.so",
+      "context": "Loris's second brain for stakeholder CRM and meeting notes"
+    },
+    {
+      "name": "scikit-learn",
+      "type": "tool",
+      "url": "https://scikit-learn.org",
+      "context": "Comfort-zone ML tool contrasted with learning business skills"
+    },
+    {
+      "name": "Excel",
+      "type": "tool",
+      "url": "https://www.microsoft.com/microsoft-365/excel",
+      "context": "Pragmatic tool for quick experiments, pivot tables, and conversations"
+    },
+    {
+      "name": "Jupyter Notebook",
+      "type": "tool",
+      "url": "https://jupyter.org",
+      "context": "Technical showcase seen as alienating for business stakeholders"
+    },
+    {
+      "name": "Scott Taylor",
+      "type": "person",
+      "context": "Tells the hospital story with 170 definitions of patient"
+    },
+    {
+      "name": "Doug Laney",
+      "type": "person",
+      "context": "Cited data maturity statistics from his Gartner days"
+    },
+    {
+      "name": "Jessica Talisman",
+      "type": "person",
+      "context": "Semantics and ontologies expert interviewed on Discovering Data"
+    },
+    {
+      "name": "Ron Itelman",
+      "type": "person",
+      "context": "Human-machine cognition researcher interviewed on Discovering Data"
+    },
+    {
+      "name": "Stephen Shedletzky",
+      "type": "person",
+      "context": "Psychological safety and leadership speaker; recent podcast guest"
+    },
+    {
+      "name": "Autopilot",
+      "type": "company",
+      "context": "Marketing automation SaaS where Loris was first data hire"
+    },
+    {
+      "name": "ConvertKit",
+      "type": "service",
+      "context": "Marketing automation tool compared to Autopilot"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "data-science-manager-vs-expert-hiring-guide",
+  "resources": [
+    {"name": "LinkedIn", "type": "tool", "url": "https://www.linkedin.com", "context": "Where guest receives headhunter offers and posts about DS management"},
+    {"name": "Women in Machine Learning and Data Science", "type": "community", "url": "https://wimlds.org", "context": "Organization guest helps; co-organized a women-in-DS panel"},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "Listed among overly technical demands in manager job ads"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Manager needs high-level understanding, not daily use"},
+    {"name": "TensorFlow", "type": "tool", "url": "https://www.tensorflow.org", "context": "Advanced library demanded in mislabeled manager job ads"},
+    {"name": "PyTorch", "type": "tool", "url": "https://pytorch.org", "context": "Advanced library demanded in mislabeled manager job ads"},
+    {"name": "XGBoost", "type": "tool", "url": "https://xgboost.readthedocs.io", "context": "Model a manager might occasionally tune in a notebook"},
+    {"name": "Prophet", "type": "tool", "url": "https://facebook.github.io/prophet", "context": "Forecasting tool experts know alongside time series"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Programming skill commonly listed in manager job ads"},
+    {"name": "Jupyter Notebook", "type": "tool", "url": "https://jupyter.org", "context": "Where a hands-on manager might occasionally tune models"},
+    {"name": "Microsoft Excel", "type": "tool", "url": "https://www.microsoft.com/microsoft-365/excel", "context": "Ironic everyday tool of a data science manager"},
+    {"name": "Microsoft PowerPoint", "type": "tool", "url": "https://www.microsoft.com/microsoft-365/powerpoint", "context": "Used heavily for stakeholder presentations"}
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "causal-inference-for-machine-learning",
+  "resources": [
+    {
+      "name": "Causal Inference and Discovery in Python",
+      "type": "book",
+      "url": "https://www.packtpub.com/product/causal-inference-and-discovery-in-python/9781801075647",
+      "context": "Guest's book; main reference covering meta-learners, CATE and causal discovery."
+    },
+    {
+      "name": "The Book of Why",
+      "type": "book",
+      "url": "http://bayes.cs.ucla.edu/WHY/",
+      "context": "Judea Pearl's recommended starter book on causal thinking."
+    },
+    {
+      "name": "Judea Pearl",
+      "type": "person",
+      "url": "http://bayes.cs.ucla.edu/",
+      "context": "Father of modern causality; Pearlian interventions and graphical causal models."
+    },
+    {
+      "name": "CausalBert",
+      "type": "paper",
+      "context": "Architecture combining BERT with causal inference, demoed in guest's talk."
+    },
+    {
+      "name": "PyData Berlin",
+      "type": "community",
+      "url": "https://pydata.org",
+      "context": "2023 conference where the guest gave the causality and NLP talk."
+    },
+    {
+      "name": "Zillow",
+      "type": "company",
+      "url": "https://www.zillow.com",
+      "context": "Went bankrupt making counterfactual bets from predictive price models."
+    },
+    {
+      "name": "ChatGPT",
+      "type": "service",
+      "url": "https://chatgpt.com",
+      "context": "LLM example for scoring text and extracting unobserved style variables."
+    },
+    {
+      "name": "Boston dataset",
+      "type": "dataset",
+      "context": "Cited for its problematic race-related B feature in prediction."
+    },
+    {
+      "name": "Lingaro",
+      "type": "company",
+      "url": "https://www.lingaro.com",
+      "context": "Consulting company where guest built complex NLP architectures."
+    }
+  ]
+}

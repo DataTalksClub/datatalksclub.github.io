@@ -1,0 +1,58 @@
+{
+  "slug": "data-mesh-architecture-decentralized-data-products",
+  "resources": [
+    {
+      "name": "Data Mesh: Delivering Data-Driven Value at Scale",
+      "type": "book",
+      "url": "https://www.oreilly.com/library/view/data-mesh/9781492092384/",
+      "context": "Zhamak's O'Reilly book laying out the four Data Mesh principles"
+    },
+    {
+      "name": "ThoughtWorks",
+      "type": "company",
+      "url": "https://www.thoughtworks.com",
+      "context": "Zhamak's consultancy for a decade; maintains a Data Mesh website"
+    },
+    {
+      "name": "Data Mesh Learning",
+      "type": "community",
+      "context": "Slack community and meetup sharing Data Mesh implementation case studies"
+    },
+    {
+      "name": "O'Reilly",
+      "type": "company",
+      "url": "https://www.oreilly.com",
+      "context": "Publisher offering limited free access to the Data Mesh book"
+    },
+    {
+      "name": "Apache Spark",
+      "type": "tool",
+      "url": "https://spark.apache.org",
+      "context": "Complexity a self-serve platform should hide from data product developers"
+    },
+    {
+      "name": "Apache Kafka",
+      "type": "tool",
+      "url": "https://kafka.apache.org",
+      "context": "Specialized knowledge a data platform should abstract away"
+    },
+    {
+      "name": "Apache Airflow",
+      "type": "tool",
+      "url": "https://airflow.apache.org",
+      "context": "Orchestrator a team may pick in a federated platform landscape"
+    },
+    {
+      "name": "Prefect",
+      "type": "tool",
+      "url": "https://www.prefect.io",
+      "context": "Alternative orchestrator teams may use for their data products"
+    },
+    {
+      "name": "Apache Hadoop",
+      "type": "tool",
+      "url": "https://hadoop.apache.org",
+      "context": "Past-generation on-prem data technology clients moved away from"
+    }
+  ]
+}

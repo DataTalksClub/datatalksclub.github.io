@@ -1,0 +1,17 @@
+{
+  "slug": "building-open-source-nlp-tool",
+  "resources": [
+    {"name": "Refinery", "type": "tool", "url": "https://github.com/code-kern-ai/refinery", "context": "Guest's open source data labeling and exploration tool"},
+    {"name": "Bricks", "type": "tool", "url": "https://github.com/code-kern-ai/bricks", "context": "Heuristic content library powering weak supervision in Refinery"},
+    {"name": "Kern", "type": "company", "url": "https://kern.ai", "context": "Guest's startup behind Refinery and Bricks"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Used as a labeling heuristic; shifted NLP perception post-launch"},
+    {"name": "Hugging Face", "type": "tool", "url": "https://huggingface.co", "context": "Foundation of embeddings that made Refinery possible"},
+    {"name": "Mechanical Turk", "type": "service", "url": "https://www.mturk.com", "context": "Crowdsourcing platform outperformed by ChatGPT in labeling paper"},
+    {"name": "Pigeon", "type": "tool", "context": "Jupyter widget for quick annotation, host's early labeling tool"},
+    {"name": "Jupyter Notebook", "type": "tool", "url": "https://jupyter.org", "context": "Notebook widgets host used for early data labeling"},
+    {"name": "TextBlob", "type": "tool", "url": "https://textblob.readthedocs.io", "context": "Simple sentiment analysis implementation available as a Brick"},
+    {"name": "VADER", "type": "tool", "url": "https://github.com/cjhutto/vaderSentiment", "context": "Sentiment heuristic usable as a weak supervision worker"},
+    {"name": "crowd.dev", "type": "tool", "url": "https://crowd.dev", "context": "Friend's developer community analytics tool; convinced open sourcing"},
+    {"name": "Prediction Machines", "type": "book", "context": "Recommended book on the simple economics of artificial intelligence"}
+  ]
+}

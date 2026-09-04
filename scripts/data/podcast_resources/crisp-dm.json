@@ -1,0 +1,8 @@
+{
+  "slug": "crisp-dm",
+  "resources": [
+    {"name": "CRISP-DM", "type": "other", "context": "Cross Industry Standard Process for Data Mining; the episode's main methodology"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "Example library for training models in the modeling step"},
+    {"name": "IBM", "type": "company", "url": "https://www.ibm.com", "context": "Company that created CRISP-DM in the 1990s"}
+  ]
+}

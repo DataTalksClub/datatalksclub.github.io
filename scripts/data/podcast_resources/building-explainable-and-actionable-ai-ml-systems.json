@@ -1,0 +1,14 @@
+{
+  "slug": "building-explainable-and-actionable-ai-ml-systems",
+  "resources": [
+    {"name": "SHAP", "type": "tool", "url": "https://shap.readthedocs.io", "context": "Feature explanation method central to the guest's churn research"},
+    {"name": "LIME", "type": "tool", "url": "https://github.com/marcotcr/lime", "context": "Groundbreaking explanation method the guest researched in 2019"},
+    {"name": "XGBoost", "type": "tool", "url": "https://xgboost.readthedocs.io", "context": "Black box model used after neural nets disappointed on tabular data"},
+    {"name": "SAP", "type": "company", "url": "https://www.sap.com", "context": "Guest's employer and industrial PhD partner"},
+    {"name": "Neural Additive Models", "type": "paper", "url": "https://arxiv.org/abs/2004.13912", "context": "Additive neural network research the guest finds exciting"},
+    {"name": "Neural Basis Models", "type": "paper", "context": "Additive model research, with sparse polynomial additive models, testing user comfort"},
+    {"name": "World xAI Conference", "type": "community", "context": "First World Conference on eXplainable AI, sessions on actionable ML"},
+    {"name": "Arize:Observe", "type": "community", "context": "Conference where the guest heard the full-stack data scientist term"},
+    {"name": "Explainable Feature Spaces", "type": "paper", "context": "MIT paper on tailoring explanations to different audiences"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "data-interview-behavioral-and-portfolio-prep-guide",
+  "resources": [
+    {"name": "Ace the Data Science Interview", "type": "book", "url": "https://www.acethedatascienceinterview.com", "context": "Guest's book on behavioral questions, STAR format, and cold emails"},
+    {"name": "Cracking the Coding Interview", "type": "book", "url": "https://www.crackingthecodinginterview.com", "context": "Famous prep book; guest's book called its data science analog"},
+    {"name": "LeetCode", "type": "service", "url": "https://leetcode.com", "context": "Coding practice site; grinding it alone misses behavioral skills"},
+    {"name": "Amazon", "type": "company", "url": "https://www.amazon.com", "context": "Leadership principles used to build behavioral prep grids"},
+    {"name": "Facebook", "type": "company", "url": "https://www.facebook.com", "context": "Guest's growth team background; product-sense question examples"},
+    {"name": "Uber", "type": "company", "url": "https://www.uber.com", "context": "Surge pricing case study; researching target company metrics"},
+    {"name": "Google", "type": "company", "url": "https://www.google.com", "context": "FAANG interview process examples and guest internship background"},
+    {"name": "SafeGraph", "type": "company", "context": "Guest's alternative data startup; example of strong company values"},
+    {"name": "LinkedIn", "type": "service", "url": "https://www.linkedin.com", "context": "Cold outreach channel; guest posts daily career tips there"},
+    {"name": "GitHub", "type": "tool", "url": "https://github.com", "context": "Portfolio project code linked in cold emails to hiring managers"},
+    {"name": "Tableau", "type": "tool", "url": "https://www.tableau.com", "context": "Public dashboards showcase portfolio projects in cold emails"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "Library used in example portfolio analysis for cold emails"},
+    {"name": "New York City Taxi Trip Record Data", "type": "dataset", "url": "https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page", "context": "Free public taxi data suggested for portfolio projects"},
+    {"name": "Kaggle", "type": "service", "url": "https://www.kaggle.com", "context": "Competitions platform mentioned among technical prep options"},
+    {"name": "Reddit", "type": "service", "url": "https://www.reddit.com", "context": "Recommended for researching a target company's pain points"},
+    {"name": "Quora", "type": "service", "url": "https://www.quora.com", "context": "Recommended for researching company metrics before interviews"},
+    {"name": "NickSingh.com", "type": "other", "url": "https://www.nicksingh.com", "context": "Guest's website with blogs and career advice"}
+  ]
+}

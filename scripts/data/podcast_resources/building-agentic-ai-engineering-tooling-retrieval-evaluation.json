@@ -1,0 +1,27 @@
+{
+  "slug": "building-agentic-ai-engineering-tooling-retrieval-evaluation",
+  "resources": [
+    {"name": "smolagents", "type": "tool", "url": "https://github.com/huggingface/smolagents", "context": "Hugging Face agent library the guest likes for bootstrapping agents"},
+    {"name": "LangChain", "type": "tool", "url": "https://www.langchain.com", "context": "Framework discussed; guest avoids it, citing debugging complexity"},
+    {"name": "OpenAI Agents SDK", "type": "tool", "url": "https://github.com/openai/openai-agents-python", "context": "Lightweight agent framework the host likes for clarity"},
+    {"name": "PydanticAI", "type": "tool", "url": "https://ai.pydantic.dev", "context": "Framework mentioned when asking whether to learn agent frameworks"},
+    {"name": "Model Context Protocol", "type": "tool", "url": "https://modelcontextprotocol.io", "context": "Single protocol for agents to communicate with tools"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Host uses it with voice input to fetch and summarize transcripts"},
+    {"name": "GPT-3.5", "type": "service", "context": "Its release disrupted the market during guest's Dropbox QA work"},
+    {"name": "SQuAD", "type": "dataset", "url": "https://rajpurkar.github.io/SQuAD-explorer/", "context": "Public benchmark evaluating models, not your own RAG system"},
+    {"name": "Dropbox Dash", "type": "service", "url": "https://www.dropbox.com/dash", "context": "AI-powered search and assistant connecting workplace SaaS tools"},
+    {"name": "Datadog", "type": "service", "url": "https://www.datadoghq.com", "context": "Example monitoring tool the on-call agent must integrate with"},
+    {"name": "New Relic", "type": "service", "url": "https://newrelic.com", "context": "Example monitoring tool an AI site reliability engineer accesses"},
+    {"name": "PagerDuty", "type": "service", "url": "https://www.pagerduty.com", "context": "On-call alerts the agents aim to take over from engineers"},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "Deployment system engineers check when investigating incidents"},
+    {"name": "Elasticsearch", "type": "tool", "url": "https://www.elastic.co", "context": "Example log infrastructure the agent must integrate with"},
+    {"name": "MongoDB", "type": "tool", "url": "https://www.mongodb.com", "context": "Example data source an agent can query as a tool"},
+    {"name": "Amazon CloudWatch", "type": "service", "url": "https://aws.amazon.com/cloudwatch/", "context": "Example monitoring source for an AI site reliability engineer"},
+    {"name": "T5", "type": "tool", "url": "https://github.com/google-research/text-to-text-transfer-transformer", "context": "Model the guest fine-tuned for question answering at Dropbox"},
+    {"name": "OpenCV", "type": "tool", "url": "https://opencv.org", "context": "Used in the guest's undergrad image search engine project"},
+    {"name": "Dropbox", "type": "company", "url": "https://www.dropbox.com", "context": "Guest built recommendations, question answering and agents there"},
+    {"name": "Kaggle", "type": "community", "url": "https://www.kaggle.com", "context": "Name chosen via a script scanning available short domain names"},
+    {"name": "Anthony Goldbloom", "type": "person", "context": "Kaggle co-creator interviewed by the host about its naming"},
+    {"name": "Noird", "type": "company", "context": "Guest's startup automating engineering on-call with agents"}
+  ]
+}

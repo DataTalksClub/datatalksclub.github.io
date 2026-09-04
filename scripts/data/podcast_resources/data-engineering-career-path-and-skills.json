@@ -1,0 +1,29 @@
+{
+  "slug": "data-engineering-career-path-and-skills",
+  "resources": [
+    {"name": "Teach Like a Champion", "type": "book", "url": "https://teachlikeachampion.com", "context": "Book on teaching that pulled the guest toward education"},
+    {"name": "JigsawLabs", "type": "company", "url": "https://www.jigsawlabs.io", "context": "Guest's own part-time data engineering bootcamp"},
+    {"name": "dbt", "type": "tool", "url": "https://www.getdbt.com", "context": "Taught in the analytics engineering section of the curriculum"},
+    {"name": "Snowflake", "type": "service", "url": "https://www.snowflake.com", "context": "Warehouse in the analytics engineering pipeline students learn"},
+    {"name": "Fivetran", "type": "service", "url": "https://www.fivetran.com", "context": "Extraction tool in the analytics engineering pipeline students learn"},
+    {"name": "Mode", "type": "tool", "url": "https://mode.com", "context": "Business intelligence tool in the analytics engineering section"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Core language, roughly 85 percent of the curriculum"},
+    {"name": "Docker", "type": "tool", "url": "https://www.docker.com", "context": "Cloud-era tool considered safe to teach junior engineers"},
+    {"name": "Airflow", "type": "tool", "url": "https://airflow.apache.org", "context": "Orchestrator taught alongside the cloud computing module"},
+    {"name": "AWS", "type": "service", "url": "https://aws.amazon.com", "context": "Cloud platform taught as a safe foundational skill"},
+    {"name": "Spark", "type": "tool", "url": "https://spark.apache.org", "context": "Dropped from curriculum; rarely asked in junior interviews"},
+    {"name": "Kafka", "type": "tool", "url": "https://kafka.apache.org", "context": "Dropped from curriculum; mainly listed for senior roles"},
+    {"name": "Kubernetes", "type": "tool", "url": "https://kubernetes.io", "context": "Dropped despite impressing employers; two-plus weeks without coding"},
+    {"name": "LeetCode", "type": "course", "url": "https://leetcode.com", "context": "Medium SQL problems recommended for interview preparation"},
+    {"name": "Coursera", "type": "course", "url": "https://www.coursera.org", "context": "Studied for curriculum research; assumes existing SQL skills"},
+    {"name": "Northwind database", "type": "dataset", "context": "Classic Microsoft sample database for practicing data modeling"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "Library the guest self-taught thanks to his software background"},
+    {"name": "PyTorch", "type": "tool", "url": "https://pytorch.org", "context": "Library the guest self-taught thanks to his software background"},
+    {"name": "Flask", "type": "tool", "url": "https://flask.palletsprojects.com", "context": "Backend web framework in the backend engineering module"},
+    {"name": "Vicki Boykis", "type": "person", "url": "https://vickiboykis.com", "context": "Wrote 'data science is different now' about market saturation"},
+    {"name": "Malcolm Gladwell", "type": "person", "context": "Wrote an article on teaching and evaluating educators"},
+    {"name": "Flatiron School", "type": "company", "url": "https://flatironschool.com", "context": "Coding bootcamp where the guest taught and wrote curriculum"},
+    {"name": "General Assembly", "type": "company", "url": "https://generalassemb.ly", "context": "Bootcamp where the guest first learned to code"},
+    {"name": "Recurse Center", "type": "community", "url": "https://www.recurse.com", "context": "Coders' retreat mentioned among early New York programs"}
+  ]
+}

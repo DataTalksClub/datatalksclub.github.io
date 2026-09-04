@@ -1,0 +1,34 @@
+{
+  "slug": "cloud-data-governance",
+  "resources": [
+    {
+      "name": "Data Governance: The Definitive Guide",
+      "type": "book",
+      "context": "Guests' O'Reilly book, recommended as the episode's key resource."
+    },
+    {
+      "name": "Google Cloud",
+      "type": "company",
+      "url": "https://cloud.google.com",
+      "context": "Guests' employer; governance and catalog tools built into the platform."
+    },
+    {
+      "name": "Dataplex",
+      "type": "service",
+      "url": "https://cloud.google.com/dataplex",
+      "context": "Google Cloud product showing who has access to which data."
+    },
+    {
+      "name": "Collibra",
+      "type": "service",
+      "url": "https://www.collibra.com",
+      "context": "Data catalog with shopping-cart style access requests and auditing."
+    },
+    {
+      "name": "GDPR",
+      "type": "other",
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+      "context": "European privacy regulation driving adoption of data governance."
+    }
+  ]
+}

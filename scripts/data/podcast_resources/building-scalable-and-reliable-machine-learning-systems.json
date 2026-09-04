@@ -1,0 +1,40 @@
+{
+  "slug": "building-scalable-and-reliable-machine-learning-systems",
+  "resources": [
+    {
+      "name": "Machine Learning System Design",
+      "type": "book",
+      "url": "https://www.manning.com/books/machine-learning-system-design",
+      "context": "Guest's Manning book; central topic, with chapter-by-chapter design doc examples."
+    },
+    {
+      "name": "interviewing.io",
+      "type": "other",
+      "url": "https://interviewing.io",
+      "context": "Recommended guide on general software system design fundamentals."
+    },
+    {
+      "name": "Manning",
+      "type": "company",
+      "url": "https://www.manning.com",
+      "context": "Book publisher; gave a 35% discount code for listeners."
+    },
+    {
+      "name": "Core ML",
+      "type": "tool",
+      "url": "https://developer.apple.com/machine-learning/core-ml/",
+      "context": "Apple's hardware-optimized framework used for on-device iOS try-on."
+    },
+    {
+      "name": "Ntropy",
+      "type": "company",
+      "url": "https://ntropy.com",
+      "context": "Guest's current company applying language models to financial transactions."
+    },
+    {
+      "name": "Instrumental",
+      "type": "company",
+      "context": "Manufacturing optimization company where the guest previously worked."
+    }
+  ]
+}

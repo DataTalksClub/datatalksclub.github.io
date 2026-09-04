@@ -1,0 +1,56 @@
+{
+  "slug": "data-leadership-coaching",
+  "resources": [
+    {
+      "name": "Python Pizza",
+      "type": "community",
+      "context": "Python conference with 10-minute newcomer talks; Tereza organizes Hamburg edition"
+    },
+    {
+      "name": "Calendly",
+      "type": "service",
+      "url": "https://calendly.com",
+      "context": "Booking tool Tereza links from LinkedIn for coaching sessions"
+    },
+    {
+      "name": "PyPodcats",
+      "type": "other",
+      "url": "https://pypodcats.live",
+      "context": "Python Software Foundation podcast highlighting women and underrepresented groups"
+    },
+    {
+      "name": "Coffee Code Breaks",
+      "type": "community",
+      "context": "Mentoring community for women where Tereza offers free coaching"
+    },
+    {
+      "name": "Ship 30 for 30",
+      "type": "course",
+      "url": "https://www.ship30for30.com",
+      "context": "Online writing course; source of the two-year rule"
+    },
+    {
+      "name": "LinkedIn",
+      "type": "service",
+      "url": "https://www.linkedin.com",
+      "context": "Platform where Tereza posts to attract coaching clients"
+    },
+    {
+      "name": "PyData",
+      "type": "community",
+      "url": "https://pydata.org",
+      "context": "Conference example for talks on putting models in production"
+    },
+    {
+      "name": "Shades and Contrast",
+      "type": "company",
+      "context": "Zamina's Responsible AI training and consultancy company"
+    },
+    {
+      "name": "Python Software Foundation",
+      "type": "company",
+      "url": "https://www.python.org/psf/",
+      "context": "Runs PyPodcats; Tereza volunteers in its Code of Conduct workgroup"
+    }
+  ]
+}

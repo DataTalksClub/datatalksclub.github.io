@@ -1,0 +1,23 @@
+{
+  "slug": "data-governance-data-access-management",
+  "resources": [
+    {"name": "Raito", "type": "company", "url": "https://raito.io", "context": "Guest's data access management startup with gradual adoption approach"},
+    {"name": "Raito CLI", "type": "tool", "context": "Guest's open source CLI for managing access as code"},
+    {"name": "Collibra", "type": "company", "url": "https://www.collibra.com", "context": "Data governance vendor where guest was privacy product manager"},
+    {"name": "DAMA-DMBOK", "type": "book", "url": "https://www.dama.org", "context": "Data Management Body of Knowledge; bible for governance practitioners"},
+    {"name": "Data Governance: The Definitive Guide", "type": "book", "context": "O'Reilly data governance book; its authors appeared on the podcast"},
+    {"name": "Coalesce", "type": "community", "url": "https://coalesce.getdbt.com", "context": "dbt analytics engineering conference full of governance questions"},
+    {"name": "dbt", "type": "tool", "url": "https://www.getdbt.com", "context": "Analytics engineering tool whose users raised governance issues"},
+    {"name": "Terraform", "type": "tool", "url": "https://www.terraform.io", "context": "Access-as-code starting point that breaks at scale"},
+    {"name": "Snowflake", "type": "service", "url": "https://www.snowflake.com", "context": "Warehouse where drifted permissions diverged from Terraform code"},
+    {"name": "BCBS 239", "type": "other", "url": "https://www.bis.org/bcbs239.htm", "context": "Banking regulation that forced top-down data governance after the crisis"},
+    {"name": "Data Mesh", "type": "other", "context": "Framework shifting data access ownership to domain data owners"},
+    {"name": "Zhamak Dehghani", "type": "person", "context": "Creator of the data mesh framework"},
+    {"name": "ThoughtWorks", "type": "company", "url": "https://www.thoughtworks.com", "context": "Company behind the data mesh framework"},
+    {"name": "Deloitte", "type": "company", "url": "https://www2.deloitte.com", "context": "Guest's consultancy doing bank data governance after the crisis"},
+    {"name": "Optus", "type": "company", "url": "https://www.optus.com.au", "context": "Telco breach example; lost customers after the data breach"},
+    {"name": "Woolworths", "type": "company", "url": "https://www.woolworths.com.au", "context": "Engineer cut governance effort to 1% via DataOps integration"},
+    {"name": "AWS", "type": "service", "url": "https://aws.amazon.com", "context": "Cloud where IAM and S3 bucket permissions manage access"},
+    {"name": "CloudFormation", "type": "tool", "url": "https://aws.amazon.com/cloudformation", "context": "Infrastructure-as-code alternative to Terraform for managing access"}
+  ]
+}

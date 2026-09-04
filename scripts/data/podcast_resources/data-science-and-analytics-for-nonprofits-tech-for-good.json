@@ -1,0 +1,24 @@
+{
+  "slug": "data-science-and-analytics-for-nonprofits-tech-for-good",
+  "resources": [
+    {"name": "Analytics for a Better World", "type": "company", "url": "https://analyticsforabetterworld.org", "context": "Guest's nonprofit institute connecting analytics with social impact"},
+    {"name": "KoboToolbox", "type": "tool", "url": "https://www.kobotoolbox.org", "context": "Data collection platform for nonprofits in the Digital Public Goods registry"},
+    {"name": "World Bank", "type": "company", "url": "https://www.worldbank.org", "context": "Sustainability projects; Timor-Leste hospital access optimization"},
+    {"name": "United Nations Development Programme (UNDP)", "type": "company", "url": "https://www.undp.org", "context": "Guest consulted on sustainability data projects in India"},
+    {"name": "Towards Data Science", "type": "other", "url": "https://towardsdatascience.com", "context": "Guest reads it 30 minutes daily for technical content"},
+    {"name": "The Culture Map", "type": "book", "context": "Recommended book on cross-cultural differences in global business"},
+    {"name": "The 7 Habits of Highly Effective People", "type": "book", "context": "Book the guest is currently reading"},
+    {"name": "Power BI", "type": "tool", "url": "https://powerbi.microsoft.com", "context": "Recommended dashboarding platform nonprofits already use"},
+    {"name": "Tableau", "type": "tool", "url": "https://www.tableau.com", "context": "Dashboarding tool for upskilling nonprofit analysts"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Preferred language for machine learning and text mining"},
+    {"name": "R", "type": "tool", "url": "https://www.r-project.org", "context": "Alternative to Python for nonprofit machine learning work"},
+    {"name": "QGIS", "type": "tool", "url": "https://qgis.org", "context": "Platform recommended for nonprofits handling geospatial data"},
+    {"name": "PostgreSQL", "type": "tool", "url": "https://www.postgresql.org", "context": "Open database frequently used by nonprofits for storage"},
+    {"name": "Microsoft Azure", "type": "service", "url": "https://azure.microsoft.com", "context": "Nonprofit cloud environment; cost optimization case"},
+    {"name": "Ortec", "type": "company", "url": "https://www.ortec.com", "context": "Founding partner; mathematical optimization company"},
+    {"name": "Digital Public Goods Alliance", "type": "company", "url": "https://digitalpublicgoods.net", "context": "Initiative behind KoboToolbox and its registry"},
+    {"name": "Principles for Digital Development", "type": "other", "url": "https://digitalprinciples.org", "context": "Nine principles for scalable public and nonprofit sector solutions"},
+    {"name": "Dimitris Bertsimas", "type": "person", "context": "MIT Sloan professor; Science to Impact co-director"},
+    {"name": "Dick den Hertog", "type": "person", "context": "University of Amsterdam professor; Science to Impact co-director"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "ab-testing-and-product-experimentation",
+  "resources": [
+    {"name": "Optimizely", "type": "service", "url": "https://www.optimizely.com/", "context": "Third-party A/B testing platform, described as most complete"},
+    {"name": "Google Optimize", "type": "service", "context": "All-in-one third-party A/B testing tool option"},
+    {"name": "Firebase", "type": "service", "url": "https://firebase.google.com/", "context": "Third-party option for splitting traffic and analyzing tests"},
+    {"name": "BigQuery", "type": "tool", "url": "https://cloud.google.com/bigquery/", "context": "Example warehouse for a startup's tracked event data"},
+    {"name": "Snowflake", "type": "service", "url": "https://www.snowflake.com/", "context": "Popular data warehouse mentioned when setting up analytics"},
+    {"name": "Amazon Athena", "type": "tool", "url": "https://aws.amazon.com/athena/", "context": "Query tool example for early-stage data infrastructure"},
+    {"name": "King", "type": "company", "url": "https://www.king.com/", "context": "Candy Crush maker where guest ran product experiments"},
+    {"name": "Babbel", "type": "company", "url": "https://www.babbel.com/", "context": "Language learning company where guest built experimentation platform"},
+    {"name": "Inkitt", "type": "company", "url": "https://www.inkitt.com/", "context": "Guest's employer running hundreds of story A/B tests"},
+    {"name": "TaxFix", "type": "company", "url": "https://taxfix.de/", "context": "German tax app cited as seasonal business cycle example"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org/", "context": "Language with packages for applying statistical tests"},
+    {"name": "R", "type": "tool", "url": "https://www.r-project.org/", "context": "Language with packages for applying statistical tests"}
+  ]
+}

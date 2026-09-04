@@ -1,0 +1,101 @@
+{
+  "slug": "data-privacy-engineering-gdpr-machine-learning",
+  "resources": [
+    {
+      "name": "Practical Data Privacy",
+      "type": "book",
+      "context": "Katharine's book on privacy engineering, central to the episode"
+    },
+    {
+      "name": "Probably Private",
+      "type": "other",
+      "url": "https://probablyprivate.com",
+      "context": "Katharine's newsletter on data privacy and machine learning"
+    },
+    {
+      "name": "ChatGPT",
+      "type": "service",
+      "url": "https://chatgpt.com",
+      "context": "Privacy leak, Italy ban, and compliant enterprise use discussed"
+    },
+    {
+      "name": "Azure",
+      "type": "service",
+      "url": "https://azure.microsoft.com",
+      "context": "Offers localized ChatGPT with fine-tuning for GDPR compliance"
+    },
+    {
+      "name": "OpenAI",
+      "type": "company",
+      "url": "https://openai.com",
+      "context": "Held responsible for ChatGPT privacy design and data handling"
+    },
+    {
+      "name": "Tumult Analytics",
+      "type": "tool",
+      "url": "https://www.tumult.com",
+      "context": "Spark-based open-source differential privacy library Katharine recommends"
+    },
+    {
+      "name": "Tumult Labs",
+      "type": "company",
+      "url": "https://www.tumult.com",
+      "context": "Damien Desfontaines' differential privacy startup"
+    },
+    {
+      "name": "Cynthia Dwork",
+      "type": "person",
+      "context": "Developed the formal definition of differential privacy"
+    },
+    {
+      "name": "Damien Desfontaines",
+      "type": "person",
+      "url": "https://desfontain.es",
+      "context": "Leading differential privacy expert; led Google's implementations"
+    },
+    {
+      "name": "Introduction to Differential Privacy",
+      "type": "other",
+      "url": "https://desfontain.es/privacy/",
+      "context": "Damien Desfontaines' blog series explaining differential privacy tuning"
+    },
+    {
+      "name": "Netflix Prize",
+      "type": "dataset",
+      "context": "Anonymized dataset famously de-anonymized by Narayanan and Shmatikov"
+    },
+    {
+      "name": "GDPR",
+      "type": "other",
+      "context": "EU regulation driving privacy-by-design, consent, and breach notifications"
+    },
+    {
+      "name": "CCPA",
+      "type": "other",
+      "context": "California privacy law on data collection, consent, and sharing"
+    },
+    {
+      "name": "CPRA",
+      "type": "other",
+      "context": "Stronger California law creating first US privacy enforcement authority"
+    },
+    {
+      "name": "ThoughtWorks",
+      "type": "company",
+      "url": "https://www.thoughtworks.com",
+      "context": "Katharine's employer as principal data scientist in Germany"
+    },
+    {
+      "name": "Django",
+      "type": "tool",
+      "url": "https://www.djangoproject.com",
+      "context": "Washington Post ran the world's largest Django installation"
+    },
+    {
+      "name": "Amazon",
+      "type": "company",
+      "url": "https://www.amazon.com",
+      "context": "Internal documents leaked via employee ChatGPT use; session recommendations example"
+    }
+  ]
+}

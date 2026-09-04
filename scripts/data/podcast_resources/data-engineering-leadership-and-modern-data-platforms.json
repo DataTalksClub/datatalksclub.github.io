@@ -1,0 +1,15 @@
+{
+  "slug": "data-engineering-leadership-and-modern-data-platforms",
+  "resources": [
+    {"name": "Siemens", "type": "company", "url": "https://www.siemens.com", "context": "Guest's employer; IoT data platform and servant leadership culture"},
+    {"name": "Prefect", "type": "tool", "url": "https://www.prefect.io", "context": "New orchestration tool example managers should evaluate hands-on"},
+    {"name": "Kafka", "type": "tool", "url": "https://kafka.apache.org", "context": "Streaming option for real-time ingestion into the warehouse"},
+    {"name": "Spark", "type": "tool", "url": "https://spark.apache.org", "context": "Processing option named alongside Python as a scripting skill"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Core scripting skill required of every data engineer"},
+    {"name": "AWS", "type": "service", "url": "https://aws.amazon.com", "context": "Cloud referenced for S3 and Lambda event-driven pipelines"},
+    {"name": "Informatica", "type": "tool", "url": "https://www.informatica.com", "context": "Legacy ETL tool from the guest's early career"},
+    {"name": "Talend", "type": "tool", "url": "https://www.talend.com", "context": "Legacy ETL tool named alongside Informatica"},
+    {"name": "Microsoft SQL Server", "type": "tool", "url": "https://www.microsoft.com/sql-server", "context": "Early-career relational database with SSIS and SSRS tooling"},
+    {"name": "Oracle", "type": "tool", "url": "https://www.oracle.com", "context": "Relational database from the guest's early ETL career"}
+  ]
+}

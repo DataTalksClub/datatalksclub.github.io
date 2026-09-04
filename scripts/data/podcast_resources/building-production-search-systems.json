@@ -1,0 +1,21 @@
+{
+  "slug": "building-production-search-systems",
+  "resources": [
+    {"name": "Superlinked", "type": "company", "url": "https://superlinked.com", "context": "Guest's ML infrastructure startup solving the vector compute problem"},
+    {"name": "VectorHub", "type": "other", "url": "https://hub.superlinked.com", "context": "Superlinked's learning resource with tutorials and research articles"},
+    {"name": "Lucene", "type": "tool", "url": "https://lucene.apache.org", "context": "Recommended engine for building inverted-index keyword search"},
+    {"name": "Elasticsearch", "type": "tool", "url": "https://www.elastic.co", "context": "Lucene-based database with built-in vector search option"},
+    {"name": "Introduction to Information Retrieval", "type": "book", "context": "Host's foundational search and NLP book by Christopher Manning"},
+    {"name": "CLIP", "type": "tool", "url": "https://github.com/openai/CLIP", "context": "OpenAI model enabling text-to-image search demos"},
+    {"name": "Vector DB Comparison", "type": "other", "url": "https://vdbs.superlinked.com", "context": "Crowdsourced feature comparison table of vector databases"},
+    {"name": "PyTorch", "type": "tool", "url": "https://pytorch.org", "context": "Used in VectorHub examples and custom embedding models"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "Standard tool used in VectorHub examples"},
+    {"name": "NumPy", "type": "tool", "url": "https://numpy.org", "context": "Standard tool used in VectorHub examples"},
+    {"name": "pgvector", "type": "tool", "url": "https://github.com/pgvector/pgvector", "context": "Postgres vector option slower than dedicated databases at scale"},
+    {"name": "ChatGPT", "type": "service", "url": "https://chatgpt.com", "context": "Host's example of LLM limitations handling timestamps"},
+    {"name": "YouTube", "type": "company", "url": "https://www.youtube.com", "context": "Guest led ML infrastructure for YouTube Ads forecasting"},
+    {"name": "TopCoder", "type": "community", "url": "https://www.topcoder.com", "context": "Competitive programming competitions that shaped guest's career"},
+    {"name": "Haystack", "type": "community", "url": "https://haystackconf.com", "context": "Berlin conference dedicated to search"},
+    {"name": "Representation Learning on Graph Structured Data", "type": "other", "context": "VectorHub article on embedding graph-structured data"}
+  ]
+}

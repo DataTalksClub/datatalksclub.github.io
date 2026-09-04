@@ -1,0 +1,29 @@
+{
+  "slug": "data-centric-ai",
+  "resources": [
+    {"name": "Data-Centric AI Competition", "type": "other", "context": "Competition with fixed model; guest's team won Most Innovative award"},
+    {"name": "DeepLearning.AI", "type": "company", "url": "https://www.deeplearning.ai", "context": "Hosted the data-centric AI competition the guest joined"},
+    {"name": "Andrew Ng", "type": "person", "context": "Cited for the idea that 50 well-engineered examples can suffice"},
+    {"name": "DVC", "type": "tool", "url": "https://dvc.org", "context": "Suggested for versioning data and tracking dataset iterations"},
+    {"name": "Kaggle", "type": "tool", "url": "https://www.kaggle.com", "context": "Model-centric competitions contrasted with the data-centric approach"},
+    {"name": "Max Welling", "type": "person", "context": "Supervised the guest's Master thesis on geometric deep learning"},
+    {"name": "Vincent Warmerdam", "type": "person", "context": "PyData speaker into labeling and bad-data tooling; created Embetter"},
+    {"name": "Embetter", "type": "tool", "url": "https://github.com/koaning/embetter", "context": "Vincent's embeddings tool suggested for the penguin project"},
+    {"name": "UMAP", "type": "tool", "url": "https://umap-learn.readthedocs.io", "context": "Used to visualize image embeddings and spot dataset gaps"},
+    {"name": "Hazy Research", "type": "other", "url": "https://hazyresearch.stanford.edu", "context": "Maintains an overview of awesome data-centric AI tools"},
+    {"name": "WhyLabs", "type": "company", "url": "https://whylabs.ai", "context": "Maintains a data-centric AI tools directory by use case"},
+    {"name": "PyData", "type": "community", "url": "https://pydata.org", "context": "Meetups and conferences; guest co-chairs the Amsterdam chapter"},
+    {"name": "PyData Global", "type": "community", "url": "https://global.pydata.org", "context": "Online global conference the guest organizes for accessibility"},
+    {"name": "NumFOCUS", "type": "community", "url": "https://numfocus.org", "context": "PyData's parent; conference proceeds support open source packages"},
+    {"name": "NeurIPS", "type": "community", "url": "https://neurips.cc", "context": "Guest presented winning solution at its data-centric AI workshop"},
+    {"name": "PyCon", "type": "community", "url": "https://pycon.org", "context": "Contrasted with PyData as the broader Python-only conference"},
+    {"name": "GoDataDriven", "type": "company", "url": "https://godatadriven.com", "context": "Guest's employer; data science education and consultancy company"},
+    {"name": "Data Science Bowl", "type": "other", "context": "Kaggle lung cancer competition; top solutions gathered their own data"},
+    {"name": "Google Sheets", "type": "tool", "url": "https://sheets.google.com", "context": "Used for lightweight labeling and relabeling during the competition"},
+    {"name": "pandas", "type": "tool", "url": "https://pandas.pydata.org", "context": "Spreadsheet labels converted back into pandas data frames"},
+    {"name": "XGBoost", "type": "tool", "url": "https://xgboost.ai", "context": "Typical model tuned in model-centric Kaggle competitions"},
+    {"name": "NumPy", "type": "tool", "url": "https://numpy.org", "context": "Core open source package supported through PyData proceeds"},
+    {"name": "Matplotlib", "type": "tool", "url": "https://matplotlib.org", "context": "Core open source package supported through PyData proceeds"},
+    {"name": "scikit-learn", "type": "tool", "url": "https://scikit-learn.org", "context": "Core open source package supported through PyData proceeds"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "building-mlops-startup",
+  "resources": [
+    {"name": "Evidently AI", "type": "tool", "url": "https://www.evidentlyai.com", "context": "Guest's open source machine learning model monitoring startup"},
+    {"name": "Yandex", "type": "company", "url": "https://yandex.com", "context": "Guest ran a startup accelerator and Yandex Data Factory there"},
+    {"name": "Tractable", "type": "company", "url": "https://tractable.ai", "context": "UK unicorn estimating insurance damage from images"},
+    {"name": "Entrepreneur First", "type": "company", "url": "https://www.joinef.com", "context": "Organization recruiting individuals and forming startup teams"},
+    {"name": "Datadog", "type": "service", "url": "https://www.datadoghq.com", "context": "Paid monitoring company showing engineers do buy tools"},
+    {"name": "New Relic", "type": "service", "url": "https://newrelic.com", "context": "Monitoring vendor example of successful developer tools"},
+    {"name": "Grafana", "type": "tool", "url": "https://grafana.com", "context": "Open source monitoring that monetizes via enterprise offering"},
+    {"name": "Prometheus", "type": "tool", "url": "https://prometheus.io", "context": "Self-hosted monitoring engineers prefer over paid vendors"},
+    {"name": "Elasticsearch", "type": "tool", "url": "https://www.elastic.co", "context": "Amazon rehosting forced a license change; open source example"},
+    {"name": "MongoDB", "type": "tool", "url": "https://www.mongodb.com", "context": "Named among huge open source companies with Elastic and GitLab"},
+    {"name": "GitHub", "type": "tool", "url": "https://github.com", "context": "Developer tool company everyone uses and pays for"},
+    {"name": "GitLab", "type": "tool", "url": "https://gitlab.com", "context": "Open source developer tools company that is huge"},
+    {"name": "Jenkins", "type": "tool", "url": "https://www.jenkins.io", "context": "Example of developer tooling people still pay for"},
+    {"name": "Airtable", "type": "tool", "url": "https://airtable.com", "context": "No-code tool for hacking an MVP without engineers"},
+    {"name": "Bubble", "type": "tool", "url": "https://bubble.io", "context": "No-code app builder for testing startup ideas"},
+    {"name": "Webflow", "type": "tool", "url": "https://webflow.com", "context": "No-code website builder for quick MVPs"},
+    {"name": "Kaggle", "type": "community", "url": "https://www.kaggle.com", "context": "Outlet for doing ML instead of founding a startup"},
+    {"name": "TechCrunch", "type": "other", "url": "https://techcrunch.com", "context": "Startup news source for following market and investments"}
+  ]
+}

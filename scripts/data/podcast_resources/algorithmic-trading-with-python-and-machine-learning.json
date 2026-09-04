@@ -1,0 +1,46 @@
+{
+  "slug": "algorithmic-trading-with-python-and-machine-learning",
+  "resources": [
+    {
+      "name": "Yahoo Finance",
+      "type": "service",
+      "url": "https://finance.yahoo.com",
+      "context": "Main free data source for OHLCV stock time series via its API"
+    },
+    {
+      "name": "PythonInvest",
+      "type": "other",
+      "url": "https://pythoninvest.com",
+      "context": "Guest's blog with finance API guides and trading experiments"
+    },
+    {
+      "name": "XGBoost",
+      "type": "tool",
+      "url": "https://xgboost.readthedocs.io",
+      "context": "Model used with logistic regression and neural networks for stock prediction"
+    },
+    {
+      "name": "Quandl",
+      "type": "service",
+      "context": "Additional API mentioned for enriching financial data sources"
+    },
+    {
+      "name": "Polygon.io",
+      "type": "service",
+      "url": "https://polygon.io",
+      "context": "Paid stock data API suggested when free APIs hit limits"
+    },
+    {
+      "name": "pandas-datareader",
+      "type": "tool",
+      "url": "https://pandas-datareader.readthedocs.io",
+      "context": "Python library mentioned for pulling financial data into pandas"
+    },
+    {
+      "name": "Airflow",
+      "type": "tool",
+      "url": "https://airflow.apache.org",
+      "context": "Option for scheduling recurring trading pipeline jobs"
+    }
+  ]
+}

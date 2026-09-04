@@ -1,0 +1,31 @@
+{
+  "slug": "building-data-science-programs-and-democratizing-high-performance-computing",
+  "resources": [
+    {"name": "Arkouda", "type": "tool", "url": "https://github.com/Bears-R-Us/arkouda", "context": "Open source framework for massive-scale Python data science on supercomputers"},
+    {"name": "Chapel", "type": "tool", "url": "https://chapel-lang.org", "context": "HPE/Cray compiler framework powering Arkouda's supercomputer backend"},
+    {"name": "SNAP", "type": "dataset", "url": "https://snap.stanford.edu", "context": "Stanford's graph dataset repository used in their research"},
+    {"name": "STINGER", "type": "tool", "context": "Foundational streaming graph analytics framework, IEEE HPEC best paper"},
+    {"name": "RAPIDS", "type": "tool", "url": "https://rapids.ai", "context": "NVIDIA GPU data science framework containing cuGraph"},
+    {"name": "cuGraph", "type": "tool", "url": "https://github.com/rapidsai/cugraph", "context": "NVIDIA GPU graph analytics library that evolved from STINGER work"},
+    {"name": "ARACHNE", "type": "tool", "context": "Interactive graph analytics at scale built on Arkouda"},
+    {"name": "Hornet", "type": "tool", "context": "GPU-accelerated successor to STINGER for streaming graphs"},
+    {"name": "NumPy", "type": "tool", "url": "https://numpy.org", "context": "Analysts' array library that Arkouda substitutes at scale"},
+    {"name": "Pandas", "type": "tool", "url": "https://pandas.pydata.org", "context": "Familiar Python data tool for analysts using Arkouda"},
+    {"name": "Jupyter", "type": "tool", "url": "https://jupyter.org", "context": "Notebook front end where analysts interact with Arkouda"},
+    {"name": "Python", "type": "tool", "url": "https://www.python.org", "context": "Productivity front end for the HPC research frameworks"},
+    {"name": "StreamWare", "type": "tool", "context": "NSF-funded streaming analytics platform in development"},
+    {"name": "IEEE HPEC", "type": "community", "context": "Conference where ARACHNE paper appeared; STINGER won best paper"},
+    {"name": "IPDPS", "type": "community", "url": "https://www.ipdps.org", "context": "Guest's favorite long-running parallel and distributed processing conference"},
+    {"name": "Supercomputing", "type": "community", "url": "https://supercomputing.org", "context": "Favorite IEEE/ACM high-performance computing conference"},
+    {"name": "Communications of the ACM", "type": "other", "url": "https://cacm.acm.org", "context": "ACM magazine the guest reads to stay current"},
+    {"name": "IEEE Computer Magazine", "type": "other", "url": "https://www.computer.org/csdl/magazine/co", "context": "IEEE Computer Society magazine for tracking field trends"},
+    {"name": "ACM Transactions on Parallel Computing", "type": "other", "url": "https://dl.acm.org/journal/topc", "context": "Journal where the guest is editor in chief"},
+    {"name": "NJIT Data Science (YouTube channel)", "type": "other", "context": "Virtual data science seminar series; search NJIT data science"},
+    {"name": "DavidBader.net", "type": "other", "url": "https://davidbader.net", "context": "Guest's website with CV, papers, and contact form"},
+    {"name": "National Science Foundation", "type": "company", "url": "https://www.nsf.gov", "context": "Funder of the Arkouda and StreamWare research projects"},
+    {"name": "NVIDIA", "type": "company", "url": "https://www.nvidia.com", "context": "Industry partner via an NVIDIA AI Lab award at NJIT"},
+    {"name": "Accenture", "type": "company", "url": "https://www.accenture.com", "context": "Accenture Labs collaboration on graph-based cybersecurity vulnerability research"},
+    {"name": "Carnegie Classification", "type": "other", "context": "US framework distinguishing research-extensive vs teaching universities"},
+    {"name": "Christos Papadimitriou", "type": "person", "context": "Studied the pancake flipping problem with Bill Gates"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "data-science-for-public-policy-ethical-ai-social-impact",
+  "resources": [
+    {"name": "Data Science for Social Good", "type": "community", "url": "https://dssgfellowship.org", "context": "Volunteer organization; fellowship project list recommended for learning"},
+    {"name": "80,000 Hours", "type": "other", "url": "https://80000hours.org", "context": "Nonprofit job board ranking issues by world impact"},
+    {"name": "EU AI Act", "type": "other", "url": "https://artificialintelligenceact.eu", "context": "Risk-level AI legislation citing China's social scoring"},
+    {"name": "Omdena", "type": "community", "url": "https://www.omdena.com", "context": "Collaborative social-impact AI projects organization"},
+    {"name": "Data Science for Public Policy", "type": "book", "context": "Springer textbook on applying data science to policy"},
+    {"name": "Hertie School", "type": "company", "url": "https://www.hertie-school.org", "context": "Guest's governance school hosting her Data Science for Public Policy program"},
+    {"name": "Sustainable Development Goals", "type": "other", "url": "https://sdgs.un.org", "context": "UN framework for finding a social cause to work on"},
+    {"name": "DJ Patil", "type": "person", "context": "First US Chief Data Scientist under Obama"},
+    {"name": "LaMDA", "type": "tool", "context": "Google chatbot debated as sentient in ethics discussion"},
+    {"name": "SCHUFA", "type": "company", "url": "https://www.schufa.de", "context": "German credit scoring system likened to social scoring"}
+  ]
+}

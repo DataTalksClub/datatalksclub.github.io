@@ -1,0 +1,14 @@
+{
+  "slug": "big-data-analytics-and-postdoc-research",
+  "resources": [
+    {"name": "VLDB", "type": "community", "url": "https://vldb.org", "context": "Top data management conference where the guest publishes"},
+    {"name": "SIGMOD", "type": "community", "url": "https://sigmod.org", "context": "Top conference; guest won its best demonstration award"},
+    {"name": "ICDE", "type": "community", "context": "International Conference on Data Engineering, third top venue"},
+    {"name": "Apache Flink", "type": "tool", "url": "https://flink.apache.org", "context": "DIMA's legacy stream processing system, formerly Stratosphere"},
+    {"name": "NebulaStream", "type": "tool", "url": "https://www.nebulastream.org", "context": "DIMA's general-purpose data management system for IoT"},
+    {"name": "Agora", "type": "tool", "context": "DIMA project building unified data infrastructure ecosystems"},
+    {"name": "Human Brain Project", "type": "other", "url": "https://www.humanbrainproject.eu", "context": "Multidisciplinary project where guest built data management tools"},
+    {"name": "Women in Data Science", "type": "community", "url": "https://www.widsconference.org", "context": "Community cited while discussing women in computer science"},
+    {"name": "Volker Markl", "type": "person", "context": "DIMA group leader, described as a visionary researcher"}
+  ]
+}

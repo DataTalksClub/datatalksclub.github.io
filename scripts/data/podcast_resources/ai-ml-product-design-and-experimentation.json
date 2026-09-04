@@ -1,0 +1,15 @@
+{
+  "slug": "ai-ml-product-design-and-experimentation",
+  "resources": [
+    {"name": "Google PAIR", "type": "tool", "url": "https://pair.withgoogle.com/", "context": "People and AI Research toolkit for human-centered AI design"},
+    {"name": "Eugene Wei", "type": "person", "url": "https://www.eugenewei.com/", "context": "Author of article on algorithm-friendly design, seeing as an algorithm"},
+    {"name": "Double Diamond", "type": "other", "context": "Diverge-converge design framework for problem and solution"},
+    {"name": "OLX", "type": "company", "url": "https://www.olxgroup.com/", "context": "Marketplace example for algorithm-friendly product design"},
+    {"name": "Prosus", "type": "company", "url": "https://www.prosus.com/", "context": "Guest's former employer scaling AI across organizations"},
+    {"name": "TikTok", "type": "company", "url": "https://www.tiktok.com/", "context": "Sharp single-video signals let its algorithms learn faster"},
+    {"name": "Instagram", "type": "company", "url": "https://instagram.com/", "context": "Contrasted with TikTok on clarity of user signals"},
+    {"name": "iFood", "type": "company", "url": "https://www.ifood.com.br/", "context": "Brazilian delivery company with Jet Ski innovation teams"},
+    {"name": "Zalando", "type": "company", "url": "https://corporate.zalando.com/", "context": "Task-force model for time-boxed innovation projects"},
+    {"name": "Citrix", "type": "company", "url": "https://www.citrix.com/", "context": "Recommended article on prioritizing with data over intuition"}
+  ]
+}
