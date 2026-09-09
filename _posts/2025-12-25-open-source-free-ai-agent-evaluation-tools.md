@@ -34,7 +34,7 @@ Agents also rely on function-calling models or sub-agents, so evaluation must ch
 
 AI agents are nondeterministic, so the same prompt can produce different outputs each time. This makes simple test-case checking unreliable. Proper evaluation helps developers measure how well agents perform across key areas, from tool selection to response quality. 
 
-For instance, specialized metrics like [Tool Calling Accuracy](https://arize.com/ai-agents/agent-evaluation/) check whether an agent selects and uses the correct tool with the appropriate arguments. Other metrics might track an agent’s planning ability, path convergence (efficiency of reaching a goal), or parameter extraction correctness. 
+For instance, specialized metrics like [Tool Calling Accuracy](https://arize.com/guides/ai-agent-handbook/agent-evaluation/) check whether an agent selects and uses the correct tool with the appropriate arguments. Other metrics might track an agent’s planning ability, path convergence (efficiency of reaching a goal), or parameter extraction correctness. 
 
 Many such metrics exist, and the need for them becomes clear when you look at the architecture below: 
 
