@@ -22,56 +22,55 @@ related_posts:
 datepublished: '2026-07-28'
 ---
 
-DataTalks.Club is the largest online community for data and AI practitioners, with almost 100,000 Slack members and more than 130,000 newsletter subscribers. Since September 2020 we've produced free courses, a weekly newsletter, a podcast, workshops, and in-person meetups. Everything is free for the community, and it stays that way because companies sponsor it.
+DataTalks.Club is a free online community for data and AI practitioners. We have more than 100,000 members in Slack and more than 130,000 newsletter subscribers. Companies sponsor DataTalks.Club to reach data engineers, ML and AI engineers, and data scientists. They sponsor our weekly newsletter, free courses, live workshops, podcast, and events.
 
-## Sponsors keep this community free
+I'm Alexey Grigorev, and I founded DataTalks.Club in September 2020. Companies often write to me to ask how we can work together, and I usually reply with a long email that explains the options. I wrote that email once and put it on this page. If it looks like a fit, write to me at [alexey@datatalks.club](mailto:alexey@datatalks.club) and I'll send you our media kit with prices.
 
-I'm Alexey Grigorev, and I've been running DataTalks.Club since I founded it in September 2020.
+## Sponsors keep DataTalks.Club free
 
-Companies regularly write to ask how we might work together, and I usually reply with a long, detailed email walking through the options. So I've written that email once and put it here, where you can read it on your own time and work out whether we're a good fit before we even get on a call.
+Everything we do is free. Our courses have no tuition, the newsletter has no subscription fee, and the podcast has no paywall. Most of our members study in their own time, often after work, and a paywall would shut out many of them.
 
-Our courses have no tuition, the newsletter costs nothing to subscribe to, and the podcast has no paywall. That's by design, because most of our members are learning on their own time, often outside of work hours, and putting up a paywall would shut out exactly the people we built this for. But a community of this size takes real work to run. We produce course content, host weekly events, moderate tens of thousands of Slack conversations, edit a podcast, and send a newsletter every Monday.
+Running the community still costs money. We prepare course content, host weekly events, moderate Slack, edit the podcast, and write a newsletter every Monday. Sponsors pay for that work, and in return they reach an audience that ads rarely reach.
 
-That's what sponsors pay for. Every euro goes back into the community as more courses, better tooling, and more events. The trade is straightforward: companies get access to an audience that's genuinely hard to reach through normal channels, and 100,000 people get an education they don't have to pay for.
+## DataTalks.Club in numbers
 
-## About the community
-
-We started in September 2020 as a Slack group for people who wanted to talk about data. Six years later we're the largest online community in this space, and we've built a full education programme around it.
-
-We run five free cohort-based courses a year, all open-source and all awarding certificates on completion: Data Engineering Zoomcamp, MLOps Zoomcamp, LLM Zoomcamp, Machine Learning Zoomcamp, and AI Dev Tools Zoomcamp. Together they draw more than 60,000 registered learners a year.
-
-We've run over 20 cohorts since the first Machine Learning Zoomcamp in 2021, and more than 150,000 people have registered for one of our courses. Because the materials live permanently on GitHub and the lectures stay on YouTube, each cohort keeps attracting new learners long after it wraps up.
-
-Our weekly newsletter goes out every Monday to more than 130,000 subscribers, covering community news, upcoming events, new course modules, and the articles we'd recommend that week.
-
-We've been recording the podcast since February 2021 and have published more than 200 episodes across 24 seasons, which adds up to over 200 conversations with practitioners and engineering leaders about how they actually do the work.
-
-On YouTube we have over 600 videos and 81,000 subscribers, where we publish course lectures, workshops, podcast episodes, and live launch streams, all free to watch.
-
-Our Slack community has almost 100,000 members who show up every day, with dedicated channels for each course, for job hunting, and for the questions people are too embarrassed to ask at work.
-
-We also run a book club where members discuss a book with its author, plus regular in-person events for the Berlin data community.
-
-All of that output is what gives sponsors something real to attach their name to. We're not a mailing list that occasionally sends an ad. We're an education programme with an audience that keeps showing up because the material is genuinely useful to them.
-
-## The audience
-
-Our reach, current as of this writing:
+These numbers are from September 2026:
 
 | Channel | Size |
 |---|---|
-| Slack community | Almost 100,000 members |
-| Weekly newsletter | 130,000+ subscribers |
+| Slack community | 100,000+ members |
+| Weekly newsletter | 130,000+ subscribers, sent every Monday |
+| Free courses (Zoomcamps) | 5 courses a year, 60,000+ registered learners a year, 150,000+ registrations since 2021 |
 | YouTube | 81,000 subscribers, 600+ videos |
-| Social media (LinkedIn and X) | 42,000 followers |
-| Free courses | 60,000+ registered learners per year |
-| Podcast | 200+ episodes since 2021 |
+| Podcast | 200+ episodes since February 2021 |
+| DataTalks.Club on LinkedIn and X | 42,000 followers |
+| Alexey Grigorev on LinkedIn and X | 67,000 and 29,000 followers |
+| Website | 60,000 to 100,000 visits a month |
+| Berlin meetup group | Around 9,000 members |
 
-The breakdowns below come from our community survey. We publish the full results openly, so you can check the numbers yourself instead of taking our word for them: [DataTalks.Club Community Demographics](https://datatalks.club/blog/datatalks-club-community-demographics.html).
+All courses are open source. The materials stay on GitHub and the lectures stay on YouTube, so people keep finding them years after a cohort ends. We also run a book club, where members discuss a book with its author.
 
-### Who we are
+## Sponsorship options at a glance
 
-We're practitioners, not passive readers, and we're spread across every major market:
+| Format | What you get | Typical results |
+|---|---|---|
+| Newsletter primary slot | Top of the Monday issue, usually the subject line | 700 to 1,500 clicks |
+| Newsletter secondary slot | A slot in the middle of the issue | 250 to 300 clicks |
+| Stand-alone email | A dedicated send to the whole list | 700 to 2,000 clicks |
+| Course mention | Logo, launch stream mention, optional demo video | 5,000 to 10,000 views |
+| Course workshop | Hands-on session inside a course module, with homework | 5,000 to 10,000 views |
+| Full course module | 5 to 10 lessons built around your open-source tool | 10,000 to 50,000 views |
+| Live workshop | Code-along on our YouTube channel, opt-in leads | 2,000 to 7,000 views, around 100 live |
+| Podcast episode | A conversation with me about your topic | 1,000+ listens |
+| Guest post | A practical article on our blog | Permanent page on a site with 60,000+ monthly visits |
+| Berlin event | Co-hosted meetup or in-person workshop | 100+ people in the room |
+| My LinkedIn and X | A personal recommendation from me | 10,000 to 45,000 impressions on LinkedIn |
+
+You can combine several formats in one campaign.
+
+## Audience demographics
+
+The numbers come from our community survey. We publish the [full survey results](https://datatalks.club/blog/datatalks-club-community-demographics.html), so you can check them yourself.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
 
@@ -129,151 +128,143 @@ We're practitioners, not passive readers, and we're spread across every major ma
 
 </div>
 
-The seniority split is the one worth dwelling on. Around 54% are seniors, leads, or directors, which is the group that picks tools and signs off on budgets. The entry-level half is the group that carries those choices into its next role.
+About 54% of respondents are senior individual contributors, team leads, or directors. They pick tools and often approve the budget for them. About 36% are entry-level, and they take the tools they learn with them to their next job.
 
-Nearly 30% work at companies with 1,000+ employees, and another 17.8% at companies of 201 to 1,000. About 15% are freelancers and consultants who take tool recommendations from one client engagement to the next.
+Nearly 30% work at companies with more than 1,000 employees, and another 17.8% at companies with 201 to 1,000. About 15% are freelancers and consultants, who recommend tools to each new client.
 
-The topics we care about most right now are machine learning, AI, and MLOps. After those come data engineering, data science, data analytics, career growth, and leadership.
+Most members want to learn about machine learning, AI, and MLOps. Data engineering, data science, data analytics, career growth, and leadership come next.
 
-### What we're already using
+## Tools the audience uses
 
-We also ask the community about the tools we actually run, and we publish those results in full too:
+We also survey the community about the tools they use and publish the results:
 
 - [How Do Data Professionals Use MLOps Tools and Frameworks?](https://datatalks.club/blog/how-do-data-professionals-use-ml-and-mlops-tools-and-practices.html)
 - [How Do Professionals Use Data Engineering Tools and Practices?](https://datatalks.club/blog/how-do-data-professionals-use-data-engineering-tools-and-practices.html)
 - [How Do Professionals Use LLM Tools and Frameworks?](https://datatalks.club/blog/how-do-professionals-use-llm-tools-and-frameworks.html)
 - [How Do Professionals Use AI Tools for Personal Productivity?](https://datatalks.club/blog/ai-tools-for-personal-productivity.html)
 
-Two things in that data matter if you're deciding whether to sponsor us. First, a lot of these categories are still wide open: 58.9% of respondents don't use a vector database yet, 54.3% have no LLM-based system in production, and 74.1% don't self-host open-source models. These are people who haven't picked a default yet, which is exactly when a hands-on course module or workshop changes what we reach for.
+Many people haven't chosen a tool yet. 58.9% of respondents don't use a vector database, 54.3% have no LLM-based system in production, and 74.1% don't self-host open-source models. When people haven't picked a tool, a course module or workshop can decide which one they try first.
 
-Second, the surveys tell you where you'd be starting from. If your category already has an entrenched leader among our members, we'll say so before you spend money, and we'll suggest a format that accounts for it.
+The surveys also show if one tool already leads your category in our community. In that case, I'll tell you before you spend money and suggest a format that takes this into account.
 
-## Sponsorship formats
+## Newsletter sponsorship
 
-### Weekly newsletter
-
-Our newsletter goes out every Monday to more than 130,000 subscribers. It's the most direct way to put something in front of the whole community in a single send, and it's where most sponsorships start.
+The newsletter goes out every Monday to more than 130,000 subscribers. Each issue has community news, upcoming events, new course modules, and articles we recommend. It's the quickest way to reach the whole community, and most sponsors start here.
 
 <figure>
 <img src="/images/posts/2026-07-28-sponsor-datatalks-club/newsletter-primary.jpg" alt="Example of a sponsored primary slot placement in the DataTalks.Club weekly newsletter" title="DataTalks.Club newsletter sponsorship placement" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p>A sponsored primary slot at the top of the weekly newsletter</p></figcaption>
+<figcaption>A sponsored primary slot at the top of the weekly newsletter</figcaption>
 </figure>
 
-There are three placement types:
+There are three placements:
 
-- Primary slot. The top of the newsletter, above everything else, with your headline usually becoming the subject line of the issue. This is our most visible placement and the right choice for a major launch, a course, an e-book, or a guide. Expect 700 to 1,500 clicks.
-- Secondary slot. Positioned in the middle of the newsletter alongside community content, and well suited to events, webinars, conferences, and community initiatives. Expect 250 to 300 clicks.
-- Stand-alone email. A dedicated send to the entire list with no other sponsors or content, on a date and time you choose. This works best for launches and lead-generation campaigns. Expect 700 to 2,000 clicks.
+- Primary slot: the top of the newsletter, and your headline usually becomes the subject line. Use it for a major launch, a course, an e-book, or a guide.
+- Secondary slot: the middle of the newsletter, next to community content. Use it for events, webinars, and conferences.
+- Stand-alone email: a dedicated email to the whole list, with no other sponsors, on a date you choose. Use it for launches and lead generation.
 
-Every placement includes a content template we build together, plus a report with opens, clicks, and click-through rate once it's run.
+We write the text together, and after the issue goes out you get a report with opens, clicks, and click-through rate.
 
-### Free courses (Zoomcamps)
+## Course sponsorship (Zoomcamps)
 
-This is our deepest format, and the one sponsors come back for year after year.
+We run five free courses a year. Each one is a cohort with live sessions, homework, projects, and a certificate:
 
-We run five free courses a year, each with thousands of registered learners:
-
-| Course | Starts | Learners per cohort |
+| Course | Starts | Registered learners per cohort |
 |---|---|---|
-| Data Engineering Zoomcamp | January | 20,000+ |
-| MLOps Zoomcamp | May | 10,000+ |
-| LLM Zoomcamp | June | 10,000+ |
-| Machine Learning Zoomcamp | September | 10,000+ |
-| AI Dev Tools Zoomcamp | November | 10,000+ |
+| [Data Engineering Zoomcamp](https://datatalks.club/blog/data-engineering-zoomcamp.html) | January | 20,000+ |
+| [MLOps Zoomcamp](https://datatalks.club/blog/mlops-zoomcamp.html) | May | 10,000+ |
+| [LLM Zoomcamp](https://datatalks.club/blog/llm-zoomcamp.html) | June | 10,000+ |
+| [Machine Learning Zoomcamp](https://datatalks.club/blog/machine-learning-zoomcamp.html) | September | 10,000+ |
+| [AI Dev Tools Zoomcamp](https://datatalks.club/blog/ai-dev-tools-zoomcamp.html) | November | 10,000+ |
 
 <figure>
 <img src="/images/posts/2026-07-28-sponsor-datatalks-club/course-module.jpg" alt="Example of a sponsored module inside a free DataTalks.Club Zoomcamp course" title="Zoomcamp course module sponsorship" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p>A sponsored module inside a Zoomcamp course</p></figcaption>
+<figcaption>A sponsored module inside a Zoomcamp course</figcaption>
 </figure>
 
-There are three levels of integration:
+You can sponsor a course at three levels:
 
-- Mention. Your logo on the course page, a mention in the launch stream, a shout-out in the official Telegram channel, and encouragement for students to try your product. Optionally, a demo video of up to 10 minutes. Typically 5,000 to 10,000 views.
-- Workshop. A hands-on session inside a course module, live-streamed as part of the curriculum, where students apply the module's concepts using your product. Includes a dedicated homework assignment with three questions, and optionally a raffle for participants. Typically 5,000 to 10,000 views.
-- Full module. Our deepest integration: your tool is used to teach an entire topic across 5 to 10 lessons, with a 6 or 7 question homework assignment built around your product, plus office hours with participants. Open-source tools only. Typically 10,000 to 50,000 total views.
+- Mention: your logo on the course page, a mention in the launch stream and in our Telegram channel, a suggestion to students to try your product, and an optional demo video of up to 10 minutes.
+- Workshop: a hands-on session inside a course module where students use your product to apply what the module teaches. It comes with a homework assignment of three questions, and you can add a raffle.
+- Full module: we teach a whole topic with your tool in 5 to 10 lessons. Students do a homework assignment of six or seven questions, and you hold office hours with them. We only do this for open-source tools.
 
-Course sponsorships work better than most formats for four reasons:
+Sponsors come back to courses more often than to any other format. Students install your tool and use it in labs, homework, and projects, so they don't just see an ad. Many of them post their projects on LinkedIn and X, so more people see your tool. And the materials stay on GitHub and YouTube, so modules we recorded years ago still bring new users.
 
-- High-intent adoption. Learners install your tool and follow step-by-step labs with it. They don't click an ad, they actually use the product.
-- Scale. 10,000 to 20,000 registered learners per cohort.
-- Social proof. Learners post what they build on LinkedIn and X, which multiplies the reach well beyond the course.
-- Evergreen. The content stays on GitHub and YouTube permanently, and modules we recorded years ago are still bringing in new users today.
+Courses need the most lead time, because we build your part into the curriculum before the cohort starts.
 
-### Stand-alone workshops
+## Live workshops
 
-These are live, hands-on code-along sessions led by your speaker and streamed on our YouTube channel to 81,000 subscribers. If you want to show your tool solving a real problem in real time, this is the fastest way to do it.
+A workshop is a live, hands-on code-along session. Your speaker shows how to solve a practical problem with your tool, and we stream it on our YouTube channel.
 
 <figure>
 <img src="/images/posts/2026-07-28-sponsor-datatalks-club/workshop-community.jpg" alt="A live hands-on workshop streamed to the DataTalks.Club community on YouTube" title="DataTalks.Club stand-alone workshop" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p>Live hands-on workshops are streamed on our YouTube channel</p></figcaption>
+<figcaption>Live hands-on workshops are streamed on our YouTube channel</figcaption>
 </figure>
 
-Here's what's included:
+A workshop includes:
 
-- Promotion across every channel we have: Luma, Slack, social media, and the website
-- Collaborative planning so the topic fits our audience and doesn't read like a product demo
-- A live stream on our main YouTube channel
-- Lead collection from attendees who opt in to share their details
-- A recording that stays on YouTube permanently
+- Promotion on Luma, Slack, social media, and our website
+- Planning together, so the topic fits our audience and doesn't turn into a product demo
+- A live stream on our main YouTube channel and a recording that stays there
+- Contact details of attendees who opt in to share them
 - An optional dry run before going live
 
-Workshops typically get 2,000 to 7,000 views, with around 100 people joining live. I can host the session myself if you'd prefer a familiar face guiding the audience through it.
+I can host the session myself if you want a familiar face for the audience.
 
-### Podcast
+## Podcast episodes
 
-A focused conversation with me, published on YouTube and every major podcast platform. The listeners are data, ML, AI, and software engineering practitioners.
+A sponsored episode is a conversation with me, published on YouTube and on podcast platforms. We've recorded the podcast since February 2021, and the listeners are data, ML, AI, and software engineers.
 
 <figure>
 <img src="/images/posts/2026-07-28-sponsor-datatalks-club/podcast.jpg" alt="The DataTalks.Club podcast, a conversation format for data and AI practitioners" title="DataTalks.Club podcast sponsorship" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p>Podcast episodes are published on YouTube and podcast platforms</p></figcaption>
+<figcaption>Podcast episodes are published on YouTube and podcast platforms</figcaption>
 </figure>
 
-We've been recording since February 2021 and have published over 200 episodes. A sponsored episode includes topic planning aligned with what the community actually cares about, promotion through the newsletter and social channels, and a permanent episode page with your link. Episodes typically get 1,000+ listens.
+We plan the topic together around what the community wants to hear. We promote the episode in the newsletter and on social media, and the episode page with your link stays on our website.
 
-### Guest post
+## Guest posts
 
-A practical article on the DataTalks.Club blog, built around a topic that helps data and AI practitioners solve a real problem.
+A guest post is a practical article on the DataTalks.Club blog about a problem data and AI practitioners have.
 
 <figure>
 <img src="/images/posts/2026-07-28-sponsor-datatalks-club/guest-post.jpg" alt="Guest post published on the DataTalks.Club blog for data and AI practitioners" title="DataTalks.Club guest post sponsorship" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p>Guest posts live permanently on the DataTalks.Club blog</p></figcaption>
+<figcaption>Guest posts stay on the DataTalks.Club blog</figcaption>
 </figure>
 
-You get editorial planning and topic review, publication on our blog, and promotion through the newsletter and social channels. We keep the article up permanently with your link. Our website gets 60,000 to 100,000 monthly visits.
+We help you choose the topic and edit the article, then publish it and promote it in the newsletter and on social media. We keep the article on the blog with your link.
 
-### In-person events in Berlin
+## In-person events in Berlin
 
-We co-host evenings for data, ML, and AI practitioners who want to learn something new, meet peers, and talk to the people building the tools they use. Our Berlin meetup group has around 9,000 members, and 100+ people typically show up in person.
+We co-host evenings for data, ML, and AI practitioners in Berlin. Our Berlin meetup group has around 9,000 members, and 100+ people usually come in person.
 
 <figure>
 <img src="/images/posts/2026-07-28-sponsor-datatalks-club/meetup-in-person.jpg" alt="In-person DataTalks.Club meetup in Berlin with data and AI practitioners" title="DataTalks.Club Berlin meetup" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p>Berlin meetups bring 100+ data and AI practitioners together in person</p></figcaption>
+<figcaption>Berlin meetups bring 100+ data and AI practitioners together in person</figcaption>
 </figure>
 
 There are two formats:
 
-- Co-hosted meetup. We organize an evening together with your team, with practical talks, a panel or Q&A, and networking time. We handle promotion through Meetup and community channels, registration, attendee communication, and check-in. Optional sponsor table, swag, or giveaway.
-- In-person workshop. A hands-on session where participants learn a concrete skill, build something with it, and connect what they learned to your product. I lead it, with live guidance and Q&A, plus optional recording.
+- Co-hosted meetup: an evening with talks, a panel or Q&A, and networking. We handle promotion on Meetup and in our channels, registration, emails to attendees, and check-in. You can add a sponsor table, swag, or a giveaway.
+- In-person workshop: participants learn a skill and build something with your product. I lead the session and answer questions, and we can record it.
 
-### My personal social media
+## Posts on my LinkedIn and X
 
-Personal recommendations from me, shared on both LinkedIn and X:
+I can recommend your product, course, or event on my own accounts:
 
 - LinkedIn: 67,000 followers, 10,000 to 45,000 impressions per post
 - X: 29,000 followers, 2,000 to 10,000 impressions per post
 
 <figure>
 <img src="/images/posts/2026-07-28-sponsor-datatalks-club/alexey-linkedin.jpg" alt="Example of a sponsored post by Alexey Grigorev on LinkedIn reaching data and AI professionals" title="Sponsored social media post" loading="lazy" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;" />
-<figcaption><p>Personal recommendations on LinkedIn and X</p></figcaption>
+<figcaption>Personal recommendations on LinkedIn and X</figcaption>
 </figure>
 
-Formats include videos about a product or event, posts with custom media and a recommendation, and giveaways. These read as personal recommendations because that's what they are. I write them myself.
+It can be a video, a post with custom images, or a giveaway. I write these posts myself.
 
-### Something else
+## Other formats
 
-Some of our best collaborations weren't on any menu. We've run swag giveaways, hackathons, course design collaborations, roundtable discussions, and sponsored community lunches. If you have something in mind that doesn't fit neatly into one of the formats above, tell us and we'll be honest about whether we think it'll work.
+Not every collaboration fits the formats above. We've also run swag giveaways, hackathons, roundtable discussions, and sponsored community lunches, and we've helped companies design their own courses. If you have another idea, email me and I'll tell you whether I think it will work.
 
-## Sponsor feedback
+## Sponsor testimonials
 
 > At Prefect, we sponsored multiple conferences such as PyCon and KubeCon. At startup price, you pay $10k-$15k USD to have a booth for 2-3 days. We got around 200-300 people stop by the booth, a lot of which are existing users. We maybe got 4-5 real new users.
 >
@@ -315,9 +306,9 @@ Some of our best collaborations weren't on any menu. We've run swag giveaways, h
 >
 > [Daniel Jeffries](https://www.linkedin.com/in/danjeffries/), Managing Director, AI Infrastructure Alliance
 
-## Community feedback
+## Learner reviews
 
-Sponsor testimonials tell you we're pleasant to work with. What matters more, though, is whether the audience actually values what we put out. Here's what learners have written about us on their own blogs, without being asked or paid.
+Learners also write about our courses on their own blogs:
 
 > I love the zoomcamp in really different aspects. All aspects were well managed for building the best community, the best learning experience with well connected and like-minded people around the world. I have never seen such a connected and active community for a while and it made me motivated. Data Talks Club builds an incredible community with people that are interested in data, where everyone is open to sharing thoughts, helping each other and creating connections over the globe.
 >
@@ -331,48 +322,40 @@ Sponsor testimonials tell you we're pleasant to work with. What matters more, th
 >
 > Mahdi Moosa, [Musings on the Data Engineering Zoomcamp](https://mahdimoosa.substack.com/p/musings-on-the-data-engineering-zoomcamp)
 
-That's the difference between renting an audience and being part of a community. Our members write about our courses because they got something real out of them, and that goodwill is what your sponsorship attaches to.
-
-## Companies that have sponsored us
+## Companies that have sponsored DataTalks.Club
 
 AI Infrastructure Alliance, Aiven, Anaconda, Arize AI, Astronomer, Atlan, BentoML, Bruin, dltHub, Double Cloud, dstack, Exasol, Iterative, JetBrains, Kestra, Mage, Nebius, NVIDIA, Prefect, Qwak, Saturn Cloud, Scale AI, Snorkel AI, Snowflake, Snowplow, SODA, Tecton, Temporal.io, Toloka, Valohai, Weights & Biases, WhyLabs, and WikiMedia.
 
-Many of them have come back more than once.
+Many of them have sponsored us more than once.
 
-## How it works
+## The sponsorship process
 
-Every sponsorship follows the same five steps:
+A sponsorship goes through these steps:
 
-1. You email us with what you're trying to achieve, whether that's adoption, leads, hiring, or awareness for a launch.
-2. We recommend a format. Sometimes that means suggesting a cheaper option because we think it'll actually work better than the one you asked about. We'd rather you get a good result and come back than overspend once.
-3. We build the content together. You send a draft or a brief, we edit it so it reads like something our community wants to engage with, and you approve the final version.
-4. It runs on a date you've agreed to.
-5. You get the numbers: opens, clicks, views, attendance, submissions, whatever applies to the format.
+1. You email me about your goal: adoption, leads, hiring, or awareness for a launch.
+2. I recommend a format. Sometimes it's cheaper than the one you asked about, because I think it'll work better for your goal.
+3. We prepare the content together. You send a draft or a brief, we edit it for our audience, and you approve the final version.
+4. It goes out on the date we agreed on.
+5. You get the numbers: opens, clicks, views, attendance, or homework submissions, depending on the format.
 
-## Our rules
+## Our rules for sponsored content
 
-These aren't negotiable, and they're the reason sponsored content still works here:
+We follow these rules for every sponsor:
 
-- We never share member data. No sponsor gets access to email addresses or personal information. The only leads that get shared are from people who explicitly opt in during workshops and events.
-- Sponsored content is always labelled. Our community knows when something is paid for.
-- Relevance comes first. If we don't think a placement will resonate with our audience, we'll tell you before you spend money on it.
-- Full course modules are for open-source tools only. We're not going to teach thousands of learners a workflow they can't run without a licence.
+- We never share member data. Sponsors don't get email addresses or other personal information. We only pass on contacts of people who opt in at workshops and events.
+- We always label sponsored content, so our members know when something is paid.
+- If I don't think a placement will work for our audience, I'll tell you before you pay for it.
+- Full course modules are for open-source tools only. We don't teach thousands of learners a workflow they can't run without a licence.
 
 ## Supporting us as an individual
 
-Not every supporter is a company. If you're a community member who has got something out of our courses or the newsletter and you'd like to help keep them free, you can support us through [GitHub Sponsors](https://github.com/sponsors/alexeygrigorev). Contributions of any size go towards the same things sponsorship money does: our free events, our educational content, and the infrastructure that keeps the community running.
+If our courses or newsletter helped you and you want to help keep them free, you can support us through [GitHub Sponsors](https://github.com/sponsors/alexeygrigorev). We spend the money on the same things as sponsorship money, such as free events, course content, and the tools we use to run the community.
 
-## Talk to us
+## Contact
 
-I've covered the formats we run most often here, but this isn't the full picture. There's a lot we can do together, and the best collaborations usually end up being some combination of the options above rather than one of them on its own.
+To sponsor DataTalks.Club, email me at [alexey@datatalks.club](mailto:alexey@datatalks.club). I'll send you our media kit with prices and details for every format, and then we can discuss what you want to achieve.
 
-So the easiest next step is simply to get in touch:
-
-Alexey Grigorev, founder of DataTalks.Club: [alexey@datatalks.club](mailto:alexey@datatalks.club)
-
-Email me and I'll send you our media kit, which goes into more detail on every format, what each one costs, and the numbers behind them. From there we can talk through what you're trying to achieve and work out which combination makes sense for you.
-
-You don't need to have it all figured out before you write. Tell me roughly what you're aiming for and what you have to work with, and I'll tell you what I'd recommend. If I don't think we can help, I'll say that too.
+You don't need a finished plan. Tell me roughly what you want and what budget you have, and I'll suggest what to do. If I don't think we can help, I'll tell you that too.
 
 ## Frequently asked questions
 

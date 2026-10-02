@@ -1,6 +1,6 @@
 - question: "Who should sponsor DataTalks.Club?"
   answer: |
-    Companies that develop products to help data engineers, ML engineers, AI engineers, data scientists, and analytics teams. That includes developer tool vendors, cloud and data infrastructure providers, ML and LLM platforms, observability and orchestration tools, open-source projects looking for adoption, conferences and events looking for attendees, and recruiters hiring data talent. If the people who adopt your product are practitioners rather than a procurement department, our audience is a good fit.
+    Companies that develop products to help data engineers, ML engineers, AI engineers, data scientists, and analytics teams. That includes developer tool vendors, cloud and data infrastructure providers, ML and LLM platforms, observability and orchestration tools, open-source projects looking for adoption, conferences and events looking for attendees, and recruiters hiring data talent. If engineers and data scientists choose your product themselves, rather than a procurement department choosing it for them, our audience is a good fit.
 
 - question: "What can we sponsor?"
   answer: |
@@ -12,15 +12,15 @@
 
 - question: "Do you share our leads or your subscriber emails?"
   answer: |
-    We never share subscriber email addresses or personal information with sponsors. For workshops and events, attendees can opt in to share their contact details with you, and only those opt-in contacts are passed on. This is a hard rule and it is the reason our audience trusts what we send them.
+    We never share subscriber email addresses or personal information with sponsors. For workshops and events, attendees can opt in to share their contact details with you, and only those opt-in contacts are passed on. We never make exceptions to this rule.
 
 - question: "Can we write the copy ourselves?"
   answer: |
-    You can send us a draft, and we'll adapt it. Every placement goes through a content template that we refine together before it runs. Copy that reads like a vendor ad underperforms with this audience, so we push toward the technical, specific version of your message. You approve the final version before it goes out.
+    You can send us a draft, and we'll adapt it. Every placement goes through a content template that we refine together before it runs. Our audience ignores text that reads like a vendor ad, so we make your message more technical and specific. You approve the final version before it goes out.
 
 - question: "What kind of reporting do we get?"
   answer: |
-    After a newsletter placement runs, you get a report with opens, clicks, and click-through rate. For workshops and courses, you get view counts, live attendance, and homework submission numbers where applicable. For podcasts and articles, you get listen and traffic numbers. We share the actual data, including when a campaign underperforms.
+    After a newsletter placement runs, you get a report with opens, clicks, and click-through rate. For workshops and courses, you get view counts, live attendance, and homework submission numbers where applicable. For podcasts and articles, you get listen and traffic numbers. We share the real numbers, even when a campaign does worse than expected.
 
 - question: "How far in advance do we need to book?"
   answer: |
@@ -32,4 +32,4 @@
 
 - question: "Can we do something that isn't on this list?"
   answer: |
-    Yes, and some of our best collaborations started that way. We've done swag giveaways, hackathons and competitions, course design help, roundtable discussions, and sponsored community lunches. If you have an idea for reaching data and AI practitioners, email us and we'll tell you honestly whether we think it will work.
+    Yes. We've done swag giveaways, hackathons and competitions, course design help, roundtable discussions, and sponsored community lunches. If you have an idea for reaching data and AI practitioners, email us and we'll tell you whether we think it will work.
