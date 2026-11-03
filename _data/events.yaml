@@ -1,4 +1,11 @@
 
+- time: 2026-11-03 16:30:00
+  title: "Build a Media Agent: CPU Agent, GPU Models as Tools"
+  speakers: [alexeygrigorev]
+  type: workshop
+  link: https://luma.com/tj2nbrl2
+
+
 - time: 2026-12-15 15:00:00
   title: "Shipping Reliable LLMs and the Rise of AI Engineering"
   speakers: [louisfrancoisbouchard]
