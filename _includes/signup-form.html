@@ -1,0 +1,19 @@
+<form method="post" data-relay-signup novalidate>
+  <div class="form-row align-items-center justify-content-center">
+    <div class="col-auto">
+      <input type="email" name="email" class="form-control" aria-label="Email" placeholder="Email address" autocomplete="email" required>
+    </div>
+    <!-- honeypot: real people never fill this in, bots do -->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+      <input type="text" name="company" tabindex="-1" autocomplete="off" value="">
+    </div>
+    <div class="col-auto">
+      <button type="submit" class="btn btn-success">
+        <i class="far fa-paper-plane"></i> &nbsp; Join
+      </button>
+    </div>
+  </div>
+</form>
+<div class="signup-status small pt-2" role="status" aria-live="polite" hidden></div>
+<noscript><div class="small pt-2 text-danger">Please enable JavaScript to subscribe, or join Slack at <a href="http://join.datatalks.club/">join.datatalks.club</a>.</div></noscript>
+<script src="/assets/signup.js" defer></script>
