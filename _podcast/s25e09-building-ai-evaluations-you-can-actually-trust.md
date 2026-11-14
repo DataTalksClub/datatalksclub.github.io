@@ -853,6 +853,10 @@ Tejas Kumar, an AI engineer at IBM and author of Fluent React, joins Alexey Grig
 
 Links:
 
+* [AI Evals: How to Build an LLM Judge That Agrees With You](https://tej.as/blog/ai-evals-llm-judge){:target="_blank"}
+* [Evals code, demos and slides](https://github.com/TejasQ/basically-agent-evals){:target="_blank"}
+* [Fluent React](https://www.oreilly.com/library/view/fluent-react/9781098138707/){:target="_blank"}
 * [Tejas on LinkedIn](https://www.linkedin.com/in/tejasq/){:target="_blank"}
 * [Tejas on GitHub](https://github.com/TejasQ){:target="_blank"}
 * [Tejas's website](https://tej.as/){:target="_blank"}
+* [Tejas on X](https://x.com/TejasKumar_){:target="_blank"}
