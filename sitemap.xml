@@ -23,6 +23,30 @@
     <url>
         <loc>{{site.url}}/podcast.html</loc>
     </url>
+    <url>
+        <loc>{{site.url}}/academy/</loc>
+    </url>
+    <url>
+        <loc>{{site.url}}/academy/agentic-engineering/</loc>
+    </url>
+    <url>
+        <loc>{{site.url}}/academy/ai-engineering/</loc>
+    </url>
+    <url>
+        <loc>{{site.url}}/academy/sessions/</loc>
+    </url>
+    <url>
+        <loc>{{site.url}}/academy/bildungsgutschein/</loc>
+    </url>
+    <url>
+        <loc>{{site.url}}/academy/faq/</loc>
+    </url>
+    <url>
+        <loc>{{site.url}}/academy/privacy/</loc>
+    </url>
+    <url>
+        <loc>{{site.url}}/academy/impressum/</loc>
+    </url>
     {% for post in site.posts %}
     <url>
         <loc>{{site.url}}{{ post.url | remove: 'index.html' | replace: '&', '&amp;' }}</loc>
