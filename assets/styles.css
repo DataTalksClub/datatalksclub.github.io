@@ -760,6 +760,18 @@ img.partner {
   text-transform: capitalize;
 }
 
+.event-tag {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: #2c573e;
+  background: rgba(44, 87, 62, 0.1);
+  padding: 0.12rem 0.5rem;
+  border-radius: 4px;
+  margin-left: 0.35rem;
+  vertical-align: middle;
+}
+
 .podcast-date {
   font-size: 0.9rem;
   color: #666;
@@ -2075,7 +2087,8 @@ img.partner {
   background: linear-gradient(to bottom, #14201a 0%, #101815 100%);
 }
 
-.dark .podcast-type-badge {
+.dark .podcast-type-badge,
+.dark .event-tag {
   background: rgba(142, 216, 173, 0.13);
   color: #8ed8ad;
 }

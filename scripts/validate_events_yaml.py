@@ -43,6 +43,15 @@ def main():
                     "Suggestion: Set 'youtube' to a string URL (e.g. https://www.youtube.com/watch?v=...) "
                     "or leave it empty / remove it entirely."
                 )
+        if 'tags' in event and event['tags'] is not None:
+            if not isinstance(event['tags'], list) or not all(
+                isinstance(t, str) and t.strip() for t in event['tags']
+            ):
+                errors.append(
+                    f"Event at index {i} (title: '{event.get('title', 'unknown')}') "
+                    "has an invalid 'tags' field. "
+                    "Suggestion: Set 'tags' to a list of non-empty strings (e.g. ['Академия'])."
+                )
 
     if errors:
         print(f"Found {len(errors)} error(s) in {filepath}:\n")

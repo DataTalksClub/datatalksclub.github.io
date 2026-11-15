@@ -1,4 +1,12 @@
 
+- time: 2026-12-07 17:00:00
+  title: "Hireable With AI #3: AI Engineering: How to Build Apps on Top of LLMs"
+  speakers: [alexeygrigorev]
+  type: webinar
+  tags: ["Академия"]
+  link: https://datatalks.club/academy/sessions/?utm_source=dtc_site&utm_medium=events&utm_campaign=hireable_with_ai&utm_content=session3#register
+
+
 - time: 2026-12-02 12:30:00
   title: "How Reliable Are AI Agents That Query Live Data"
   speakers: [edoardodusi]
@@ -13,6 +21,14 @@
   link: https://luma.com/e2cq6m9f
 
 
+- time: 2026-11-30 17:00:00
+  title: "Hireable With AI #2: Agentic Engineering: How I Build Software with Coding Agents"
+  speakers: [alexeygrigorev]
+  type: webinar
+  tags: ["Академия"]
+  link: https://datatalks.club/academy/sessions/?utm_source=dtc_site&utm_medium=events&utm_campaign=hireable_with_ai&utm_content=session2#register
+
+
 - time: 2026-11-30 12:30:00
   title: "From HR Reports to People Analytics with AI"
   speakers: [sofiiahordiienko]
@@ -25,6 +41,14 @@
   speakers: [madhugurramkonda]
   type: podcast
   link: https://luma.com/i19fhnqk
+
+
+- time: 2026-11-23 17:00:00
+  title: "Hireable With AI #1: AI Engineering vs Agentic Engineering"
+  speakers: [alexeygrigorev]
+  type: webinar
+  tags: ["Академия"]
+  link: https://datatalks.club/academy/sessions/?utm_source=dtc_site&utm_medium=events&utm_campaign=hireable_with_ai&utm_content=session1#register
 
 
 - time: 2026-11-16 17:00:00
