@@ -23,6 +23,9 @@ top:
   - text: Courses
     link: "/blog/guide-to-free-online-courses-at-datatalks-club.html"
     new_window: false
+  - text: Academy
+    link: "/academy/"
+    new_window: false
 bottom:
   - text: YouTube
     link: "https://www.youtube.com/c/DataTalksClub"

@@ -7,11 +7,17 @@ env:
   AWS_ROLE_ARN: arn:aws:iam::387546586013:role/dtc-legacy-static-site-publisher
   S3_BUCKET: dtc-legacy-site-387546586013
   CLOUDFRONT_DOMAIN: d5688tx5knzax.cloudfront.net
+  # DataTalks.Club Academy (DataTalksClub/academy) is built from its main branch
+  # and published under /academy/ (it used to live on academy.datatalks.club).
+  ACADEMY_REPO: DataTalksClub/academy
+  ACADEMY_API_URL: https://augldvp3omxdxz3irqsmmxc25e0blpxx.lambda-url.eu-west-1.on.aws
 
 on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  repository_dispatch:
+    types: [academy-updated]
   workflow_run:
     workflows: ["generate_all"]
     types: [completed]
@@ -44,6 +50,38 @@ jobs:
         run: .bin/rustkyll build
         env:
           JEKYLL_ENV: production
+      - name: Checkout academy
+        uses: actions/checkout@v6
+        with:
+          repository: ${{ env.ACADEMY_REPO }}
+          ref: main
+          path: .academy-src
+          persist-credentials: false
+      - name: Set up Node for academy
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: .academy-src/package-lock.json
+      - name: Build academy under /academy/
+        working-directory: .academy-src
+        env:
+          SITE_URL: https://datatalks.club
+          BASE_PATH: /academy/
+          PUBLIC_API_URL: ${{ env.ACADEMY_API_URL }}
+          PUBLIC_UMAMI_SCRIPT_URL: ${{ vars.ACADEMY_UMAMI_SCRIPT_URL }}
+          PUBLIC_UMAMI_WEBSITE_ID: ${{ vars.ACADEMY_UMAMI_WEBSITE_ID }}
+        run: |
+          npm ci
+          npm run build
+          test -f dist/index.html
+          test -f dist/sitemap.xml
+          if [ -e ../_site/academy ]; then
+            echo "::error::_site/academy already exists in the Jekyll build; refusing to overwrite it"
+            exit 1
+          fi
+          cp -R dist ../_site/academy
+          echo "academy commit: $(git rev-parse HEAD)"
       - name: Upload site artifact
         uses: actions/upload-artifact@v4
         with:
