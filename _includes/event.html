@@ -8,3 +8,4 @@
   on {{ event.time | date_to_string }}{% if event.end %} &ndash; {{ event.end | date_to_string }}{% endif %}
   {% if include.speakers %}by {% include authors.html authors=event.speakers %}{% endif %}
 {% endif %}
+{% if event.tags %}{% for tag in event.tags %} <span class="event-tag">{{ tag }}</span>{% endfor %}{% endif %}
