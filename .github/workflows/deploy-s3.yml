@@ -81,6 +81,35 @@ jobs:
             exit 1
           fi
           cp -R dist ../_site/academy
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          ns = "http://www.sitemaps.org/schemas/sitemap/0.9"
+          academy_tree = ET.parse("dist/sitemap.xml")
+          academy_locs = [
+              el.text.strip()
+              for el in academy_tree.getroot().findall(f"{{{ns}}}url/{{{ns}}}loc")
+              if el.text and el.text.strip()
+          ]
+          assert academy_locs, "No URLs found in dist/sitemap.xml"
+          with open("../_site/sitemap.xml", "r", encoding="utf-8") as f:
+              main_xml = f.read()
+          existing = set(
+              el.text.strip()
+              for el in ET.fromstring(main_xml).findall(f"{{{ns}}}url/{{{ns}}}loc")
+              if el.text
+          )
+          additions = "".join(
+              f"    <url>\n        <loc>{loc}</loc>\n    </url>\n"
+              for loc in academy_locs
+              if loc not in existing
+          )
+          assert "</urlset>" in main_xml, "Missing </urlset> in ../_site/sitemap.xml"
+          updated_xml = main_xml.replace("</urlset>", additions + "</urlset>", 1)
+          ET.fromstring(updated_xml)
+          with open("../_site/sitemap.xml", "w", encoding="utf-8") as f:
+              f.write(updated_xml)
+          PY
+          grep -q 'https://datatalks.club/academy/' ../_site/sitemap.xml
           echo "academy commit: $(git rev-parse HEAD)"
       - name: Upload site artifact
         uses: actions/upload-artifact@v4
