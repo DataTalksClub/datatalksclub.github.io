@@ -7,3 +7,4 @@ Disallow: /scripts/
 Disallow: /styles/
 Sitemap: https://datatalks.club/sitemap.xml
 Sitemap: https://datatalks.club/podwiki/sitemap.xml
+Sitemap: https://datatalks.club/academy/sitemap.xml
