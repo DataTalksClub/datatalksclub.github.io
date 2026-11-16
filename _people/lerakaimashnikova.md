@@ -1,6 +1,6 @@
 ---
 short: lerakaimashnikova
-title: "Lera Kaimashnіkova"
+title: "Lera Kaimashnikova"
 picture: "images/authors/lerakaimashnikova.jpg"
 bio_short: "Lera Kaimashnikova is an e-commerce Product Owner with a focus on site search optimization, analytics, and product development. She improves user experience and boosts conversion rates through features like autocomplete, search filters, and site speed improvements, combining hands-on data skills in Python, SQL, and Power BI with strong cross-functional leadership."
 
