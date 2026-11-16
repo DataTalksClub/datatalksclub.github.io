@@ -28,6 +28,12 @@ body, html {
   margin-bottom: 3rem;
 }
 
+.academy-cta {
+  padding-top: 1.75rem;
+  padding-bottom: 1.75rem;
+  margin-bottom: 0;
+}
+
 .content table {
   border-collapse: collapse;
   margin: 0 auto;
