@@ -24,6 +24,9 @@
         <loc>{{site.url}}/podcast.html</loc>
     </url>
     <url>
+        <loc>{{site.url}}/privacy/</loc>
+    </url>
+    <url>
         <loc>{{site.url}}/academy/</loc>
     </url>
     <url>
