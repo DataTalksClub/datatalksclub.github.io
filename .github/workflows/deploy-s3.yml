@@ -34,7 +34,7 @@ concurrency:
 jobs:
   build:
     if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, contabo]
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -120,7 +120,7 @@ jobs:
 
   deploy:
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, contabo]
     steps:
       - name: Download site artifact
         uses: actions/download-artifact@v4
