@@ -1,3 +1,9 @@
+> **New content is authored on the new DataTalks.Club site, not here.**
+> This repository is the old static site and stays online until the DNS flip; nothing is deleted or archived.
+> Events and Hireable With AI sessions: `dtc events ...` on https://prod.datatalks.club.
+> Podcast episodes, articles, books, images, Academy pages: PRs to [DataTalksClub/content](https://github.com/DataTalksClub/content).
+> Code: [DataTalksClub/website](https://github.com/DataTalksClub/website) (`_docs/content-authoring.md`).
+
 # DataTalks.Club Website
 
 This repository contains the source code and content for [datatalks.club](https://datatalks.club), a Rustkyll-built community website for data science, machine learning, AI, and data engineering practitioners.
