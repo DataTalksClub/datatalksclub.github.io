@@ -5,7 +5,7 @@ RUSTKYLL ?= $(RUSTKYLL_INSTALL_DIR)/rustkyll
 RUSTKYLL_BUILD_FLAGS ?=
 RUSTKYLL_SERVE_FLAGS ?=
 
-.PHONY: help install serve build clean run runinc people books podcast events all doc
+.PHONY: help install serve build clean run runinc doc
 
 help: ## Show this help message
 	@echo "Available targets:"
@@ -24,20 +24,6 @@ build: ## Build the site for production
 
 clean: ## Remove generated site and caches
 	rm -rf _site .rustkyll-manifest.json
-
-people:
-	uv run python scripts/airtable.py people
-
-books:
-	uv run python scripts/airtable.py books
-
-podcast:
-	uv run python scripts/airtable.py podcast
-
-events:
-	uv run python scripts/airtable.py events
-
-all: people books podcast events
 
 doc:
 	uv run python scripts/pandoc_google_doc.py -i
