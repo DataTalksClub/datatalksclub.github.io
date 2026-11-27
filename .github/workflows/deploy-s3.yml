@@ -18,10 +18,6 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [academy-updated]
-  workflow_run:
-    workflows: ["generate_all"]
-    types: [completed]
-    branches: [main]
 
 permissions:
   contents: read
@@ -33,7 +29,6 @@ concurrency:
 
 jobs:
   build:
-    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: [self-hosted, contabo]
     steps:
       - name: Checkout

@@ -138,6 +138,7 @@ This script helps create/update content entities such as people, books, and even
 | Script/command | Purpose |
 |---|---|
 | `uv run python scripts/create.py` | Interactive helper to create people, books, and events using templates. |
+| `uv run python scripts/dataops.py podcast\|event\|person\|book ...` | Generate podcast, event, person, and book pages from DataOps (run with `--help` for usage). |
 | `uv run python scripts/pandoc_full.py ...` | Generate post draft content from a DOCX source. |
 | `scripts/generate-book-preview.sh` (called internally) | Creates book preview assets for newly added books. |
 
